@@ -1,0 +1,52 @@
+book:
+  title: "Manual Override"
+  subtitle: "Reclaiming conscious choice in an age of autopilot living"
+
+structure:
+  - file: "00_introduction.md"
+    title: "Introduction: The Game of Games"
+    type: "introduction"
+  - file: "00_glossary.md"
+    title: "Glossary of Key Terms"
+    type: "appendix"
+  - file: "01_part_i_intro.md"
+    title: "Part I: The Personal Game"
+    type: "part"
+  - file: "01_npc_consciousness.md"
+    title: "Chapter 1: The NPC Consciousness"
+    type: "chapter"
+  - file: "02_observer_trap.md"
+    title: "Chapter 2: The Observer Trap"
+    type: "chapter"
+  - file: "03_malleable_mind.md"
+    title: "Chapter 3: The Malleable Mind"
+    type: "chapter"
+  - file: "04_bodys_archive.md"
+    title: "Chapter 4: The Body's Archive"
+    type: "chapter"
+  - file: "05_energetics_of_agency.md"
+    title: "Chapter 5: The Energetics of Agency"
+    type: "chapter"
+  - file: "06_breaking_free.md"
+    title: "Chapter 6: Breaking Free"
+    type: "chapter"
+  - file: "05_paradox_of_surrender.md"
+    title: "Chapter 7: The Paradox of Surrender"
+    type: "chapter"
+
+
+build:
+  source_dir: "src"
+  output_dir: "output/final"
+
+output:
+  markdown:
+    filename: "Manual_Override_Complete_Book.md"
+  html:
+    filename: "index.html"
+    theme: "clean"
+
+metadata:
+  description: "A groundbreaking exploration of consciousness, meaning, and authentic living in the modern age."
+  keywords: ["consciousness", "meaning", "spirituality", "philosophy"]
+  language: "en"
