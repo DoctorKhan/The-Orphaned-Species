@@ -117,15 +117,12 @@ In that moment of not-fighting, David discovered something unexpected. The empti
 Three months later, David did start a new project—but it emerged from genuine interest rather than desperate need to avoid the unconstructed. The difference was profound: he was building something because it felt alive, not because he was running from emptiness.
 
 **What Befriending the Unconstructed Actually Produces:**
-When you stop fighting the unconstructed, when you rest in it completely, remarkable clarity emerges:
 
-- **Priority of the Present**: Your appreciation and enjoyment of the present moment—whatever it holds—starts to take priority over any story you tell yourself about past or future.
+When you stop fighting the unconstructed, when you rest in it completely, remarkable clarity emerges. First, your appreciation and enjoyment of the present moment—whatever it holds—starts to take priority over any story you tell yourself about past or future. This shift toward present-moment priority creates a foundation of contentment that doesn't depend on external circumstances.
 
-- **Robust and Sensible Stories**: Paradoxically, by resting in the unconstructed, the stories you then choose to engage with become far more robust and sensible. They aren't desperate attempts to fill a void; they're conscious choices that align with your authentic nature.
+Paradoxically, by resting in the unconstructed, the stories you then choose to engage with become far more robust and sensible. They aren't desperate attempts to fill a void; they're conscious choices that align with your authentic nature. This clarity breeds profound confidence in yourself and anything you do. When your actions aren't driven by a fear of encountering the unconstructed, they become infused with genuine purpose that feels unshakeable.
 
-- **Unshakeable Confidence**: This clarity breeds profound confidence in yourself and anything you do. When your actions aren't driven by a fear of encountering the unconstructed, they become infused with genuine purpose.
-
-- **Natural Contribution**: You'll find a natural inclination to contribute to others, not from obligation or the need to feel meaningful, but from an internal wellspring of authentic care.
+Perhaps most surprisingly, you'll find a natural inclination to contribute to others, not from obligation or the need to feel meaningful, but from an internal wellspring of authentic care. This contribution flows effortlessly because it's not motivated by ego needs but by the natural expression of consciousness that has found its ground in being rather than doing.
 
 **The Paradox of Meaningful Unconstructedness:**
 The deepest paradox is that by fully surrendering to the unconstructed, life becomes profoundly meaningful—not because you've found "the meaning," but because you're no longer dependent on any particular meaning to feel whole. This is surrender not as defeat, but as the ultimate victory over the tyranny of needing life to be anything other than what it is.

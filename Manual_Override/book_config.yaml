@@ -33,11 +33,14 @@ structure:
   - file: "06_breaking_free.md"
     title: "Chapter 7: Breaking Free"
     type: "chapter"
+  - file: "08_the_path_of_most_votes.md"
+    title: "Chapter 8: The Path of Most Votes"
+    type: "chapter"
   - file: "05_paradox_of_surrender.md"
-    title: "Chapter 8: The Paradox of Surrender"
+    title: "Chapter 9: The Paradox of Surrender"
     type: "chapter"
   - file: "09_integration_navigation.md"
-    title: "Chapter 9: Integration and Navigation: Operating from Multiple Planes"
+    title: "Chapter 10: Integration and Navigation: Operating from Multiple Planes"
     type: "chapter"
 
 
