@@ -1,0 +1,33 @@
+book:
+  title: "The Human Experiment"
+  subtitle: "An exploration of human nature and society"
+
+structure:
+  - file: "01_the_anomalous_species.md"
+    title: "Chapter 1: The Anomalous Species"
+    type: "chapter"
+  - file: "02_genetic_signatures_of_intervention.md"
+    title: "Chapter 2: Genetic Signatures of Intervention"
+    type: "chapter"
+  - file: "05_the_binary_language_of_control.md"
+    title: "Chapter 5: The Binary Language of Control"
+    type: "chapter"
+  - file: "09_the_two_evolutionary_strands.md"
+    title: "Chapter 9: The Two Evolutionary Strands"
+    type: "chapter"
+
+build:
+  source_dir: "src"
+  output_dir: "output/final"
+
+output:
+  markdown:
+    filename: "The_Human_Experiment_Complete_Book.md"
+  html:
+    filename: "index.html"
+    theme: "clean"
+
+metadata:
+  description: "A deep dive into the human condition and social dynamics."
+  keywords: ["human nature", "society", "psychology", "philosophy"]
+  language: "en"

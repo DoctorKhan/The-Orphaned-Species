@@ -1,0 +1,57 @@
+book:
+  title: "The Social Game"
+  subtitle: "How collective systems program individual consciousness"
+
+structure:
+  - file: "06_part_ii_intro.md"
+    title: "Part I: The Social Game"
+    type: "part"
+  - file: "06_internets_false_democracy.md"
+    title: "Chapter 1: The Internet's False Democracy"
+    type: "chapter"
+  - file: "07_social_mirror.md"
+    title: "Chapter 2: The Social Mirror"
+    type: "chapter"
+  - file: "08_true_vs_false_hierarchy.md"
+    title: "Chapter 3: True vs. False Hierarchy"
+    type: "chapter"
+  - file: "09_part_iii_intro.md"
+    title: "Part II: The Cultural Game"
+    type: "part"
+  - file: "09_digital_hijacking.md"
+    title: "Chapter 4: The Digital Hijacking"
+    type: "chapter"
+  - file: "10_creative_trap.md"
+    title: "Chapter 5: The Creative Trap"
+    type: "chapter"
+  - file: "11_science_as_verification.md"
+    title: "Chapter 6: Science as Verification"
+    type: "chapter"
+  - file: "12_practices_as_resistance.md"
+    title: "Chapter 7: Practices as Resistance"
+    type: "chapter"
+  - file: "13_part_iv_intro.md"
+    title: "Part III: The Meta-Game"
+    type: "part"
+  - file: "13_integration_without_attachment.md"
+    title: "Chapter 8: Integration Without Attachment"
+    type: "chapter"
+  - file: "14_the_endless_game.md"
+    title: "Chapter 9: The Endless Game"
+    type: "chapter"
+
+build:
+  source_dir: "src"
+  output_dir: "output/final"
+
+output:
+  markdown:
+    filename: "The_Social_Game_Complete_Book.md"
+  html:
+    filename: "index.html"
+    theme: "clean"
+
+metadata:
+  description: "An examination of social programming, digital manipulation, and the construction of collective reality."
+  keywords: ["social programming", "digital manipulation", "collective consciousness", "social systems"]
+  language: "en"
