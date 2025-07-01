@@ -7,7 +7,7 @@ This is not a metaphor. This is the actual structure of human consciousness and 
 
 The question that haunts every thinking person is not whether free will exists—we feel it operating in our lives—but rather why it seems so inconsistent, so elusive, so frustratingly intermittent. Why do we sometimes feel like conscious agents directing our lives, and other times like passengers in a vehicle we cannot control? Why do our best intentions so often collapse into familiar patterns? Why does willpower feel finite, depleting like a battery that needs recharging?
 
-The answer lies in understanding consciousness not as a single phenomenon, but as a hierarchical system of nested levels, each with its own degree of agency, each receiving information from the level above it.
+The answer lies in understanding consciousness not as a single phenomenon, but as a hierarchical system of nested levels, each with its own degree of agency, each receiving information from the level above it. But more than that—consciousness can be trained to perceive and operate from multiple reality planes simultaneously, accessing information and energy that exists between the layers of constructed reality.
 
 ## The Hierarchy of Influence
 
@@ -140,3 +140,38 @@ This is not a destination but a way of traveling. The balance point is not stati
 The movie of your life continues to play, but now you know where the choice points are, how to access them, and how to use them skillfully. You become both the audience and the director, the observer and the participant, the one who watches and the one who chooses.
 
 And in the deepest moments of practice, you may glimpse the ultimate truth: that the one who chooses and the one who watches are not separate at all, but different faces of the same infinite awareness that is both the source and the substance of all experience.
+
+## The Energy Between Planes
+
+But there's another level to this energetic system that most consciousness work never addresses: the energy that exists between reality planes themselves. When you develop sufficient awareness capacity through the foundational practices, you begin to perceive what can only be described as the "energy between planes"—the consciousness that flows between different layers of reality.
+
+This isn't metaphorical. It's a direct, perceivable phenomenon that becomes available when your awareness frequency increases beyond the normal range. Just as radio waves exist at different frequencies, consciousness operates at different frequencies, and most people are tuned to only one station—this reality plane.
+
+**Recognizing Inter-Plane Energy:**
+
+The first sign that you're accessing this energy is a subtle sense that your awareness extends beyond your physical boundaries. During meditation or body scanning, you may notice that your sense of "self" doesn't end at your skin. There's a feeling of presence or aliveness that seems to exist in layers around and through your physical form.
+
+This isn't imagination—it's your first perception of the energetic dimensions that exist parallel to physical reality. As this sensitivity develops, you'll begin to notice that this energy has intelligence, that it carries information, and that it responds to conscious intention.
+
+**Increasing Awareness Frequency:**
+
+The key to accessing higher planes is increasing what we might call your "awareness sampling rate." Just as a higher sampling rate in digital audio captures more nuanced sound, a higher awareness frequency allows you to perceive more subtle dimensions of reality.
+
+This happens naturally through consistent practice of the foundational techniques:
+
+- **Mindfulness** increases your moment-to-moment awareness resolution
+- **Body scanning** develops sensitivity to non-physical dimensions
+- **Anatta practice** dissolves the barriers that keep consciousness locked into single-plane perception
+- **Progressive relaxation** releases the physical identification that limits awareness to material reality
+
+**The Illusion of Control Dissolves:**
+
+As your awareness frequency increases, one of the most profound recognitions is that the sense of being "in control" is actually a low-frequency illusion. From higher planes of perception, you can see that what you thought was "your" choice was actually consciousness moving through you from a higher dimensional level.
+
+This isn't fatalism—it's liberation. When you realize you were never in control in the way you imagined, you stop fighting the flow of consciousness and instead learn to align with it. You become a conscious participant in a much larger intelligence rather than an isolated individual trying to control outcomes.
+
+**Operating from Multiple Planes:**
+
+The ultimate development is learning to operate from multiple planes simultaneously. You maintain functional awareness within this reality construct while also accessing the intelligence and energy that flows from higher dimensions. You can participate in the "game" of this plane while knowing it's a game, drawing on resources and information that exist beyond the game's programming.
+
+This is what true agency looks like—not the ego's fantasy of control, but consciousness operating freely across multiple reality layers, accessing whatever level of intelligence and energy is most appropriate for any given situation.
