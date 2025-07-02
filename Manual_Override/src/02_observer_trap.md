@@ -72,7 +72,9 @@ Every attempt to observe the observer creates another layer:
 This can lead to either infinite regress or the recognition that **observing is simply happening** without anyone doing it.
 
 **Free Will as Information from Above:**
-But there's another possibility hidden in this recursive structure. What we experience as "free will" or genuine choice might be **information coming from one level above** the current level of identification. From the perspective of any given level, this higher-level information appears miraculous—it seems to arise spontaneously, without cause, like genuine freedom.
+But there's another possibility hidden in this recursive structure. What we experience as "free will" or genuine choice is **information flowing down from higher planes**. From the NPC perspective in this plane, it appears as "accessing higher levels" or developing meta-awareness. But from a truer perspective, free will is always flowing down from higher planes into this reality.
+
+The story for the character (NPC) in this plane is not about climbing up to higher levels, but about opening up and surrendering to what's already being transmitted down. From the perspective of any given level, this higher-level information appears miraculous—it seems to arise spontaneously, without cause, like genuine freedom.
 
 **The Infinite Hierarchy of Freedom:**
 - **Level 1**: The body-mind operates mechanically, but receives "miraculous" information from mental awareness

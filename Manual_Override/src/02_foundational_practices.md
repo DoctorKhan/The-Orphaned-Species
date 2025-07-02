@@ -93,9 +93,17 @@ Many people experience profound suffering in their lives because they are unable
 
 When you're over-identified with the "character" of your life story, certain thoughts, memories, or possibilities become too threatening to examine. The character has too much at stake. The ego-identity feels like it would be destroyed by honest investigation of these areas, so it creates unconscious barriers, emotional charges, and avoidance patterns that keep these territories unexplored.
 
-**The Anatta Shift: Stepping Back into the Theater Seat**
+**The Anatta Shift: Recognizing You're Not In the Plane**
 
-Anatta practice involves shifting perspective out of this over-identification. Instead of being lost in the movie, you remember that you're the one watching. You're observing the story, not trapped within it. This shift creates the space needed to explore previously forbidden territories of experience.
+Anatta practice involves recognizing that your essential nature as awareness is not *within* this plane of reality but *observing* this plane from outside it. Instead of being lost in the movie, you recognize that you're in the theater watching. You're not trapped within the story—you're the awareness in which the story unfolds.
+
+This recognition creates the space needed to explore previously forbidden territories of experience. However, anatta is different from plane-shifting. Anatta reveals that you're already "outside" this plane as pure awareness. Plane-shifting requires additional development to actually perceive and interact with other planes, which can happen through:
+
+- **Full adaptation**: Becoming so skillful within this plane that you can operate here while simultaneously tuning into other planes
+- **Leaving the body**: Some form of out-of-body or astral projection
+- **Psychic awareness**: Developing sensitivity to perceive other planes while still embodied
+
+Anatta creates the foundational freedom; plane-shifting develops the capacity to use that freedom effectively.
 
 **The Crucial Distinction from Dissociation**
 

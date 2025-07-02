@@ -207,11 +207,27 @@ The aggression typically manifests as:
 - **Victim blaming**: Suggesting that people experiencing difficulties are "manifesting" their problems through negative thinking
 - **Group pressure**: Using spiritual community dynamics to isolate or shame questioners
 
+**Practical Markers of Manifestation Bullying:**
+
+Manifestation bullies typically engage in self-brainwashing schemes:
+- **Repetitive affirmations** designed to "reprogram" themselves
+- **Forced positive thinking** that requires constant mental effort
+- **Reality filtering** - they literally can't pay attention to information that contradicts their beliefs
+- **Social isolation** - they lose friends because they can't be around people who aren't "aligned" with what they're manifesting
+- **Reduced awareness** - their consciousness becomes more contracted, not expanded
+- **Defensive aggression** when their framework is questioned
+
 **The Contrast with True Agency:**
 
-True agency, emerging from presence and plane-shifting awareness, operates completely differently. It doesn't need to control outcomes because it's aligned with intelligence that flows from higher planes. It doesn't become aggressive when challenged because it's not defending an ego position. It doesn't ignore inconvenient realities because it's interested in truth rather than comfort.
+True agency, emerging from presence and plane-shifting awareness, operates completely differently:
+- **Expanded awareness** - consciousness becomes more open and receptive, not more filtered
+- **Effortless alignment** - no need for constant mental reprogramming or affirmations
+- **Reality inclusion** - can engage with contradictory information without threat to identity
+- **Relationship enhancement** - authentic presence tends to improve rather than strain relationships
+- **Humble uncertainty** - comfortable with not knowing specific outcomes
+- **Non-defensive openness** - welcomes questions and challenges as opportunities for refinement
 
-Genuine agency recognizes that consciousness can influence reality through quantum mechanisms, but it also understands that this influence is subtle, collaborative, and often mysterious. It doesn't claim to "manifest" specific outcomes through willpower, but rather aligns with the flow of intelligence that emerges when consciousness operates from multiple planes simultaneously.
+Genuine agency recognizes that consciousness can influence reality through archetypal charge patterns and energy body dynamics, but it understands that this influence is subtle, collaborative, and often mysterious. It doesn't claim to "manifest" specific outcomes through willpower, but rather aligns with the flow of intelligence that emerges when consciousness operates from multiple planes simultaneously.
 
 **The Presence Requirement:**
 
