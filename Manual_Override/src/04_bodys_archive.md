@@ -1,4 +1,4 @@
-# Chapter 7
+# Chapter 5
 # The Body's Archive
 
 "Listen to your body." "Trust your gut." "The body holds deep wisdom." These phrases permeate wellness culture, painting the body as an intuitive oracle patiently waiting for our disconnected minds to tune back in. We're told that if we could just silence the mental chatter and heed the body's subtle signals, we'd unlock health, happiness, and authentic living. The body becomes our primary archive of truth, a repository of wisdom that the rational mind has forgotten or suppressed.

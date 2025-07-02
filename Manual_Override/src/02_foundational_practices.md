@@ -117,6 +117,61 @@ This isn't spiritual bypassing or emotional avoidance—it's creating the optima
 
 The character in the movie can experience anything—joy, terror, confusion, clarity—while the one watching remains fundamentally okay. This is the practical power of anatta: it creates the space needed for honest investigation of any aspect of experience without the ego's survival mechanisms interfering.
 
+## Practice Progression and Troubleshooting
+
+**Recommended Practice Schedule:**
+
+**Week 1-2: Foundation Building**
+- 10 minutes daily mindfulness (start with 5 minutes if needed)
+- 5 minutes body scanning before sleep
+- Control inquiry throughout the day (set 3 phone reminders)
+
+**Week 3-4: Deepening**
+- 15 minutes mindfulness
+- 10 minutes body scanning
+- Add progressive relaxation 2-3 times per week
+- Begin anatta practice (5 minutes daily)
+
+**Week 5-8: Integration**
+- 20 minutes combined practice (mix techniques as feels right)
+- Anatta practice throughout daily activities
+- Begin noticing plane-shifting moments
+
+**Common Challenges and Solutions:**
+
+**"I can't stop thinking during mindfulness"**
+- This is normal and expected
+- The goal isn't to stop thoughts but to notice them
+- Each time you notice you're thinking, that's success, not failure
+- Start with shorter sessions (even 2 minutes) and build gradually
+
+**"Body scanning feels boring or nothing happens"**
+- Boredom is often resistance to present-moment awareness
+- "Nothing happening" is actually something—notice the quality of that nothingness
+- Try scanning with curiosity rather than expectation
+- Some sessions will feel more alive than others—this is normal
+
+**"Anatta practice feels scary or destabilizing"**
+- This is a natural response to ego-dissolution
+- Start with very short sessions (30 seconds to 1 minute)
+- Practice in safe, comfortable environments initially
+- Remember: you're not losing yourself, you're finding what you actually are
+
+**"I don't have time for formal practice"**
+- Integrate practices into existing activities
+- Mindful eating, walking, or even waiting in line
+- Quality matters more than quantity
+- Three conscious breaths can be more valuable than 20 minutes of distracted sitting
+
+**Signs of Progress:**
+
+- Increased awareness of automatic patterns
+- Moments of spontaneous presence during daily activities
+- Less reactivity to emotional triggers
+- Occasional experiences of "stepping back" from your story
+- Growing sense of spaciousness around problems
+- Natural arising of compassion for yourself and others
+
 ## Mindful Eating as Choice Point Training
 
 Mindful eating is typically taught as a way to improve digestion and eating habits. But its deeper purpose is training consciousness to recognize and interrupt automatic programming in real-time.

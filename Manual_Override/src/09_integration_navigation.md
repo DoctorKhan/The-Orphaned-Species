@@ -1,4 +1,4 @@
-# Chapter 9
+# Chapter 11
 # Integration and Navigation: Operating from Multiple Planes
 
 The advanced practitioner sits in meditation, her awareness simultaneously present in this physical reality and accessing information from what can only be described as higher dimensional planes. To an observer, she appears to be simply sitting quietly. But internally, she's navigating a complex multidimensional landscape, receiving guidance from levels of intelligence that exist beyond the programming of this reality construct.
