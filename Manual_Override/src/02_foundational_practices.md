@@ -171,6 +171,13 @@ The character in the movie can experience anything—joy, terror, confusion, cla
 - Quality matters more than quantity
 - Three conscious breaths can be more valuable than 20 minutes of distracted sitting
 
+**"I keep forgetting to practice or suddenly lose motivation"**
+- This is what religious traditions called "the devil's temptation"—unconscious programming actively resisting consciousness development
+- The autopilot system fights back when it senses its patterns being threatened
+- Expect this resistance rather than being surprised by it
+- Create external structure: set phone reminders, practice with others, or commit to specific times
+- Remember: the stronger the resistance, the more important the practice has become
+
 **Signs of Progress:**
 
 - Increased awareness of automatic patterns
