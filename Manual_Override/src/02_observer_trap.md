@@ -170,6 +170,36 @@ In moments of genuine recognition, there are no charges maintaining the observer
 **The Return to Functioning:**
 This recognition doesn't eliminate the capacity for functional observer-observed dynamics. When needed, the observer perspective can arise naturally without creating a new identity around it.
 
+## Self-Assessment: Recognizing Observer Traps
+
+**Check your current relationship with observation using these questions:**
+
+**The Spiritual Observer Trap:**
+- Do you feel superior when you're "being mindful" compared to when you're caught in thoughts?
+- Do you judge others for being "unconscious" or "reactive"?
+- Does your sense of spiritual progress depend on maintaining a witnessing state?
+- Do you feel like you're failing when you get caught up in emotions or thoughts?
+
+**The Analytical Observer Trap:**
+- Do you constantly analyze your experience instead of simply having it?
+- Do you feel like you need to understand everything that happens to you?
+- Does observing your patterns become another form of mental activity?
+- Do you use psychological insight to avoid feeling difficult emotions?
+
+**The Detached Observer Trap:**
+- Do you use witnessing to avoid engaging fully with life?
+- Does being the "observer" feel safer than being vulnerable and present?
+- Do you struggle to take action because you're always watching yourself?
+- Has spiritual practice made you feel disconnected from others?
+
+**Signs You're Moving Beyond Observer Traps:**
+- Observation happens naturally without effort or identity
+- You can be fully engaged in activity while maintaining awareness
+- There's no sense of a separate "watcher" observing experience
+- Mindfulness enhances rather than distances you from life
+- You can drop the observer role when it's not needed
+- Awareness includes both engagement and witnessing fluidly
+
 ## Practical Applications
 
 **For Daily Life:**

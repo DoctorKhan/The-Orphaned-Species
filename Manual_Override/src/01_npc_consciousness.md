@@ -109,12 +109,18 @@ This recognition can be initially disturbing but ultimately liberating—it reve
 5. **Dependency**: NPC becomes unable to function without regular charge stimulation
 
 **Common Charge Addictions:**
-- **Drama addiction**: Craving emotional intensity and crisis
-- **Outrage addiction**: Seeking things to be angry about
-- **Validation addiction**: Needing constant approval and recognition
-- **Spiritual addiction**: Collecting peak experiences and insights
-- **Information addiction**: Compulsive consumption of news and content
-- **Relationship addiction**: Using others for emotional regulation
+
+**Drama Addiction**: Sarah found herself unconsciously creating or seeking crisis situations. When life was peaceful, she felt restless and empty. She would pick fights with her partner, catastrophize minor problems, or become obsessed with other people's drama. The emotional intensity felt more "real" than calm contentment, even though it was destructive.
+
+**Outrage Addiction**: Mark spent hours daily consuming political news and social media, seeking things to be angry about. The righteous indignation felt energizing and meaningful, but it was actually draining his capacity for constructive action. He was addicted to the neurochemical hit of moral superiority.
+
+**Validation Addiction**: Lisa constantly sought approval through social media posts, work achievements, and relationship dynamics. Without regular validation, she felt worthless and anxious. Her entire sense of self depended on external feedback, making her vulnerable to manipulation and unable to trust her own judgment.
+
+**Spiritual Addiction**: David collected peak experiences, workshops, and insights like trophies. He was always seeking the next breakthrough or transcendent state, but never integrated what he learned. The seeking itself had become another form of ego enhancement disguised as spiritual development.
+
+**Information Addiction**: Jennifer compulsively consumed news, podcasts, and articles, believing she was staying informed. But the constant input prevented deep thinking and created anxiety about things she couldn't control. She was addicted to the feeling of "knowing" without the responsibility of acting.
+
+**Relationship Addiction**: Tom used romantic relationships to regulate his emotional state. He couldn't be alone without anxiety and constantly needed his partner's attention to feel okay. This created codependent dynamics that prevented genuine intimacy and personal growth.
 
 ## The Planes of NPC Operation
 
