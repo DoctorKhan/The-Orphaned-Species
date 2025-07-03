@@ -2,6 +2,38 @@
 
 *New to consciousness work? Start here before diving into the full book.*
 
+## Choose Your Entry Point
+
+This book serves different types of readers. Choose the path that best matches your current situation:
+
+### 🚨 **Crisis Mode** - *"I'm struggling and need help now"*
+If you're dealing with anxiety, depression, or feeling overwhelmed by life:
+- **Start with**: Chapter 12 (Breaking Free) - emergency protocols for when you're stuck in mental loops
+- **Then read**: Chapter 1 (NPC Consciousness) to understand what's happening
+- **Practice**: The "whirlpool escape" techniques before attempting deeper work
+- **Caution**: Don't jump into advanced practices when you're in crisis
+
+### 🌱 **Curious Beginner** - *"I'm new to this but interested"*
+If you're new to consciousness work but drawn to these ideas:
+- **Start with**: Chapter 1 (NPC Consciousness) and Chapter 2 (Foundational Practices)
+- **Then read**: Chapter 7 (Manifestation Trap) to avoid common pitfalls
+- **Practice**: Basic presence exercises and pattern recognition
+- **Timeline**: Take 2-3 months with the foundation before moving to intermediate content
+
+### 🧘 **Experienced Seeker** - *"I have meditation/therapy background"*
+If you have experience with spiritual or psychological development:
+- **Start with**: Chapter 3 (Observer Trap) and Chapter 6 (Energetics of Agency)
+- **Then read**: Chapter 8 (Presence Paradox) and Chapter 9 (Choice Points)
+- **Practice**: Advanced awareness techniques and energy management
+- **Focus**: Integration challenges and avoiding spiritual materialism
+
+### 🔬 **Skeptical Rationalist** - *"I need scientific grounding first"*
+If you're scientifically minded and need evidence before practice:
+- **Start with**: Chapter 10 (Conservation of State Identity) and Chapter 11 (Brain as Receiver)
+- **Then read**: Chapter 6 (Energetics of Agency) for the practical framework
+- **Practice**: Treat consciousness techniques as experiments to verify
+- **Approach**: Use the scientific method to test these claims in your own experience
+
 ## What You Need to Know Right Now
 
 **The Core Insight:** Most of what you think of as "you" - your thoughts, reactions, and choices - is actually automated programming running below conscious awareness. This isn't bad news; it's liberating news. Once you can see the programming, you can begin to choose your relationship to it.
