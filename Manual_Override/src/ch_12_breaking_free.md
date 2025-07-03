@@ -99,6 +99,21 @@ Emotions have what we might call "dwell time"—how long they persist in the sys
 
 The key insight is that whirlpools aren't solid structures—they're dynamic probability patterns. If you can break up the pattern so that the emotion subsides before it triggers the next thought in the chain, you've given yourself enough space to react with presence rather than being pulled deeper into the loop.
 
+**Engagement Parameters as Whirlpool Prevention:**
+
+This is where understanding meditation's adjustable factors becomes crucial:
+
+**Frequency of Engagement**: Like a bell ringing at intervals, frequent check-ins prevent the mind from following associative chains long enough to form whirlpools. If you check in every 10-15 seconds, there's less time for rumination to build momentum. Longer gaps between awareness check-ins allow more "wandering" where you follow mental linked lists deeper into negative thought patterns.
+
+**Amplitude of Engagement**: Higher amplitude (more conscious signal) acts like lifting weights for awareness—it requires more energy but prevents mind-wandering. When you notice the early signs of rumination beginning, increasing your engagement amplitude can interrupt the pattern before it becomes a full whirlpool. Lower amplitude conserves energy but allows more mental drift into associative chains.
+
+**Practical Application**: If you notice negative thoughts beginning to connect and spiral, immediately:
+1. **Increase frequency**: Check in with present-moment sensations every few seconds
+2. **Increase amplitude**: Engage more strongly with physical sensations, breath, or movement
+3. **Interrupt the chain**: Don't let thoughts link together into longer associative sequences
+
+This isn't about suppressing thoughts but about preventing the probabilistic cascade that creates self-reinforcing loops.
+
 **Intelligent Force as Pattern Interruption:**
 
 Breaking free requires what we might call "intelligent force"—the willingness to act against the momentum of the distorted state, even when (especially when) every fiber of your being is convinced that action is pointless or dangerous. This isn't brute force, but precise intervention at the right moment in the probability cascade.
@@ -165,26 +180,31 @@ Even with the best understanding and techniques, consciousness work can hit obst
 
 **The Problem**: You sit to meditate and your anxiety spikes. Thoughts race faster, physical tension increases, or panic sets in.
 
-**Why This Happens**: You're trying to be present with a nervous system that's already overwhelmed. The stillness amplifies what's already there.
+**Why This Happens**: You're probably trying to force stillness or control your mind instead of allowing natural sensory adaptation. When you fight anxiety, it intensifies.
 
 **Solutions**:
-- **Movement first**: Do 10 minutes of vigorous exercise before sitting
+- **Change your approach**: Don't try to stop anxiety—adapt to it like you would spicy food
+- **Use natural high-amplitude practices**: Cold shower followed by sense cycling, or mindful eating with intense flavors
+- **Stay still but relaxed**: Let your nervous system naturally adapt to the anxious sensations
+- **Movement first**: Do 10 minutes of vigorous exercise before sitting if needed
+- **Shorter sessions**: Start with 3-5 minutes of gentle adaptation
 - **Eyes open**: Meditate with soft gaze instead of closed eyes
-- **Shorter sessions**: Start with 3-5 minutes maximum
-- **Walking meditation**: Practice awareness while moving
+- **Sensory engagement**: When sitting feels overwhelming, try walking meditation or eating meditation
 - **Professional support**: Consider therapy or medication if anxiety is severe
+- **Remember**: The goal is to become comfortable with anxiety, not to eliminate it
 
 ### **"When Presence Practices Feel Fake or Forced"**
 
 **The Problem**: You're "doing" presence but it feels artificial, like you're performing rather than actually being present.
 
-**Why This Happens**: The ego has co-opted the practice and turned it into another form of doing rather than being.
+**Why This Happens**: You're trying to manufacture a state instead of allowing natural sensory adaptation to occur.
 
 **Solutions**:
-- **Stop trying so hard**: Presence is natural, not manufactured
-- **Focus on what's already here**: Notice sounds, sensations, breath without trying to change them
-- **Drop the spiritual identity**: Stop trying to be "someone who is present"
-- **Embrace imperfection**: It's okay to be distracted, anxious, or unclear
+- **Stop trying to create presence**: Instead, just stay still and let adaptation happen naturally
+- **Focus on adaptation, not presence**: Like adapting to a waterfall's motion, just relax into whatever is present
+- **Don't perform spirituality**: You're not trying to be "someone who is present"—you're just adapting to current sensations
+- **Embrace whatever is here**: Distraction, anxiety, and confusion are all valid signals to adapt to
+- **Trust the process**: Sensory adaptation happens automatically when you stop interfering
 
 ### **"When Family/Friends Resist Your Changes"**
 
