@@ -3,6 +3,9 @@ book:
   subtitle: "Reclaiming conscious choice in an age of autopilot living"
 
 structure:
+  - file: "00_quick_start_guide.md"
+    title: "Quick Start Guide: Your First 30 Days"
+    type: "quick_start"
   - file: "00_introduction.md"
     title: "Introduction: The Game of Games"
     type: "introduction"
