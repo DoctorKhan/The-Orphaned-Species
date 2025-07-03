@@ -35,23 +35,26 @@ structure:
 - file: ch_07_the_manifestation_trap.md
   title: 'Chapter 7: The Manifestation Trap'
   type: chapter
-- file: ch_08_the_conservation_of_state_identity.md
-  title: 'Chapter 8: The Conservation of State Identity'
+- file: ch_08_the_presence_paradox.md
+  title: 'Chapter 8: The Presence Paradox'
+  type: chapter
+- file: ch_09_the_conservation_of_state_identity.md
+  title: 'Chapter 9: The Conservation of State Identity'
   type: chapter
 - file: part_03_part_iii_application.md
   title: 'Part III: Application'
   type: part
-- file: ch_09_breaking_free.md
-  title: 'Chapter 9: Breaking Free'
+- file: ch_10_breaking_free.md
+  title: 'Chapter 10: Breaking Free'
   type: chapter
-- file: ch_10_the_path_of_most_votes.md
-  title: 'Chapter 10: The Path of Most Votes'
+- file: ch_11_the_path_of_most_votes.md
+  title: 'Chapter 11: The Path of Most Votes'
   type: chapter
-- file: ch_11_the_paradox_of_surrender.md
-  title: 'Chapter 11: The Paradox of Surrender'
+- file: ch_12_the_paradox_of_surrender.md
+  title: 'Chapter 12: The Paradox of Surrender'
   type: chapter
-- file: ch_12_integration_and_navigation_operating_from_multiple_planes.md
-  title: 'Chapter 12: Integration and Navigation: Operating from Multiple Planes'
+- file: ch_13_integration_and_navigation_operating_from_multiple_planes.md
+  title: 'Chapter 13: Integration and Navigation: Operating from Multiple Planes'
   type: chapter
 - file: appendix_01_glossary.md
   title: Glossary of Key Terms

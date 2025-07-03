@@ -13,7 +13,7 @@
 ## The Three Essential Concepts
 
 ### 1. NPC Consciousness
-Think of how a video game character follows programmed responses until someone picks up the controller. Most human behavior operates similarly - following automated patterns until consciousness "picks up the controller."
+"NPC" stands for "Non-Player Character" in video games—entities that operate on a pre-written script. Think of how a game character follows programmed responses until a human player picks up the controller. Most of our daily behavior operates in a similar "NPC mode"—following automated patterns until our conscious awareness "picks up the controller."
 
 **Signs you're in NPC mode:**
 - Reacting automatically to triggers (anger, fear, desire)
