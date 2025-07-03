@@ -65,6 +65,9 @@ structure:
 - file: ch_16_the_brain_as_receiver.md
   title: 'Chapter 16: The Brain as Receiver: Reconciling Planes and Neuroscience'
   type: chapter
+- file: ch_17_a_unique_synthesis.md
+  title: 'Chapter 17: A Unique Synthesis'
+  type: chapter
 - file: appendix_01_glossary.md
   title: Glossary of Key Terms
   type: appendix
