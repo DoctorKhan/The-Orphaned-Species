@@ -1,76 +1,76 @@
 book:
-  title: "Manual Override"
-  subtitle: "Reclaiming conscious choice in an age of autopilot living"
-
+  title: Manual Override
+  subtitle: Reclaiming conscious choice in an age of autopilot living
 structure:
-  - file: "00_quick_start_guide.md"
-    title: "Quick Start Guide: Your First 30 Days"
-    type: "quick_start"
-  - file: "00_introduction.md"
-    title: "Introduction: The Game of Games"
-    type: "introduction"
-  - file: "01_part_i_intro.md"
-    title: "Part I: Foundations"
-    type: "part"
-  - file: "01_npc_consciousness.md"
-    title: "Chapter 1: The NPC Consciousness"
-    type: "chapter"
-  - file: "02_foundational_practices.md"
-    title: "Chapter 2: Foundational Practices: Reality-Breaking Technologies"
-    type: "chapter"
-  - file: "02_observer_trap.md"
-    title: "Chapter 3: The Observer Trap"
-    type: "chapter"
-  - file: "02_part_ii_intro.md"
-    title: "Part II: Mechanisms"
-    type: "part"
-  - file: "03_malleable_mind.md"
-    title: "Chapter 4: The Malleable Mind"
-    type: "chapter"
-  - file: "04_bodys_archive.md"
-    title: "Chapter 5: The Body's Archive"
-    type: "chapter"
-  - file: "05_energetics_of_agency.md"
-    title: "Chapter 6: The Energetics of Agency"
-    type: "chapter"
-  - file: "05b_manifestation_trap.md"
-    title: "Chapter 7: The Manifestation Trap"
-    type: "chapter"
-  - file: "06_conservation_of_state_identity.md"
-    title: "Chapter 8: The Conservation of State Identity"
-    type: "chapter"
-  - file: "03_part_iii_intro.md"
-    title: "Part III: Application"
-    type: "part"
-  - file: "06_breaking_free.md"
-    title: "Chapter 9: Breaking Free"
-    type: "chapter"
-  - file: "08_the_path_of_most_votes.md"
-    title: "Chapter 10: The Path of Most Votes"
-    type: "chapter"
-  - file: "05_paradox_of_surrender.md"
-    title: "Chapter 11: The Paradox of Surrender"
-    type: "chapter"
-  - file: "09_integration_navigation.md"
-    title: "Chapter 12: Integration and Navigation: Operating from Multiple Planes"
-    type: "chapter"
-  - file: "00_glossary.md"
-    title: "Glossary of Key Terms"
-    type: "appendix"
-
-
+- file: intro_01_quick_start_guide.md
+  title: 'Quick Start Guide: Your First 30 Days'
+  type: quick_start
+- file: intro_02_introduction.md
+  title: 'Introduction: The Game of Games'
+  type: introduction
+- file: part_01_part_i_foundations.md
+  title: 'Part I: Foundations'
+  type: part
+- file: ch_01_the_npc_consciousness.md
+  title: 'Chapter 1: The NPC Consciousness'
+  type: chapter
+- file: ch_02_foundational_practices_reality_breaking_technologies.md
+  title: 'Chapter 2: Foundational Practices: Reality-Breaking Technologies'
+  type: chapter
+- file: ch_03_the_observer_trap.md
+  title: 'Chapter 3: The Observer Trap'
+  type: chapter
+- file: part_02_part_ii_mechanisms.md
+  title: 'Part II: Mechanisms'
+  type: part
+- file: ch_04_the_malleable_mind.md
+  title: 'Chapter 4: The Malleable Mind'
+  type: chapter
+- file: ch_05_the_bodys_archive.md
+  title: 'Chapter 5: The Body''s Archive'
+  type: chapter
+- file: ch_06_the_energetics_of_agency.md
+  title: 'Chapter 6: The Energetics of Agency'
+  type: chapter
+- file: ch_07_the_manifestation_trap.md
+  title: 'Chapter 7: The Manifestation Trap'
+  type: chapter
+- file: ch_08_the_conservation_of_state_identity.md
+  title: 'Chapter 8: The Conservation of State Identity'
+  type: chapter
+- file: part_03_part_iii_application.md
+  title: 'Part III: Application'
+  type: part
+- file: ch_09_breaking_free.md
+  title: 'Chapter 9: Breaking Free'
+  type: chapter
+- file: ch_10_the_path_of_most_votes.md
+  title: 'Chapter 10: The Path of Most Votes'
+  type: chapter
+- file: ch_11_the_paradox_of_surrender.md
+  title: 'Chapter 11: The Paradox of Surrender'
+  type: chapter
+- file: ch_12_integration_and_navigation_operating_from_multiple_planes.md
+  title: 'Chapter 12: Integration and Navigation: Operating from Multiple Planes'
+  type: chapter
+- file: appendix_01_glossary.md
+  title: Glossary of Key Terms
+  type: appendix
 build:
-  source_dir: "src"
-  output_dir: "output/final"
-
+  source_dir: src
+  output_dir: output/final
 output:
   markdown:
-    filename: "Manual_Override_Complete_Book.md"
+    filename: Manual_Override_Complete_Book.md
   html:
-    filename: "index.html"
-    theme: "clean"
-
+    filename: index.html
+    theme: clean
 metadata:
-  description: "A groundbreaking exploration of consciousness, meaning, and authentic living in the modern age."
-  keywords: ["consciousness", "meaning", "spirituality", "philosophy"]
-  language: "en"
+  description: A groundbreaking exploration of consciousness, meaning, and authentic
+    living in the modern age.
+  keywords:
+  - consciousness
+  - meaning
+  - spirituality
+  - philosophy
+  language: en
