@@ -59,14 +59,17 @@ structure:
 - file: ch_14_the_paradox_of_surrender.md
   title: 'Chapter 14: The Paradox of Surrender'
   type: chapter
-- file: ch_15_integration_and_navigation_operating_from_multiple_planes.md
-  title: 'Chapter 15: Integration and Navigation: Operating from Multiple Planes'
+- file: ch_15_from_the_meditation_cushion_to_the_real_world.md
+  title: 'Chapter 15: From the Meditation Cushion to the Real World'
   type: chapter
-- file: ch_16_the_brain_as_receiver.md
-  title: 'Chapter 16: The Brain as Receiver: Reconciling Planes and Neuroscience'
+- file: ch_16_integration_and_navigation_operating_from_multiple_planes.md
+  title: 'Chapter 16: Integration and Navigation: Operating from Multiple Planes'
   type: chapter
-- file: ch_17_a_unique_synthesis.md
-  title: 'Chapter 17: A Unique Synthesis'
+- file: ch_17_the_brain_as_receiver.md
+  title: 'Chapter 17: The Brain as Receiver: Reconciling Planes and Neuroscience'
+  type: chapter
+- file: ch_18_a_unique_synthesis.md
+  title: 'Chapter 18: A Unique Synthesis'
   type: chapter
 - file: appendix_01_glossary.md
   title: Glossary of Key Terms
