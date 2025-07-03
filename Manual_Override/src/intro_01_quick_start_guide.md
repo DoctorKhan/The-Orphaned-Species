@@ -89,10 +89,12 @@ When you stay **still, fixed, and relaxed**, your nervous system naturally adapt
 
 **Adjustable Factors:**
 You can modify your approach by changing:
-- **Level of engagement (Amplitude)**: How much conscious signal you apply - like lifting weights vs. gentle movement. Higher engagement requires more energy but prevents mind-wandering
-- **Frequency of engagement**: How often you check in - like a bell ringing at intervals. Longer gaps allow more "wandering" where you follow mental linked lists into rumination whirlpools
-- **Duration**: How long you maintain relaxed attention overall
-- **Focus**: What specific sensations or experiences you're adapting to
+- **Amplitude (Engagement Level)**: From barely noticing breath (low) to stomping feet and counting aloud (high). Like lifting weights - higher amplitude prevents rumination but requires more conscious energy and gets tiring
+- **Frequency (Check-in Rate)**: From once daily to fractions of a second. In severe rumination states, thoughts can link into whirlpools within 1 second, requiring check-ins every second (like saying "left, right" with each step)
+- **Duration**: How long you can sustain the practice before fatigue
+- **Focus**: What specific sensations you're adapting to
+
+**The Key Principle**: You have to **get out of rumination whirlpools first** before you can learn presence. You can't learn to swim while you're drowning. If your mood shifts or thoughts become distorted, your current amplitude/frequency is too low.
 
 **The 5-4-3-2-1 Adaptation Exercise:**
 This simple practice helps you become okay with your senses and adapt to them in a way that leaves you relaxed and present:
@@ -126,7 +128,46 @@ Some activities naturally provide the high amplitude engagement that draws you i
 - Let each sensation naturally command your attention
 - Notice how intense flavors automatically draw you into the present moment
 
+**Walking Circle Meditation:**
+- Walk in a circle (indoors or outdoors)
+- **For higher amplitude**: Stomp your feet deliberately with each step
+- **For high frequency**: Say "left," "right" with each step (provides 1-second check-ins)
+- **For engagement**: Count your breaths as you walk
+- **For severe rumination**: Use all techniques together—stomp, count, and verbalize
+- This provides the high amplitude/frequency needed when thoughts link into whirlpools within seconds
+
+**Matching Practice to Rumination Speed:**
+- **Severe cases**: Need check-ins every 1 second (stomping + "left/right" verbal cues)
+- **Moderate cases**: Can use 30+ second intervals (gentle walking with occasional awareness)
+- **Experiment**: Try different combinations and see what you can maintain
+
+**When to Use Walking Meditation:**
+- When sitting feels impossible or increases anxiety
+- When caught in mental loops or rumination whirlpools
+- When you need to "get out of the water" before you can practice presence
+- When your nervous system needs movement to settle
+
 These practices work because they use your nervous system's natural responses rather than fighting against them. The intensity provides natural amplitude, and the sense cycling prevents mental wandering—exactly what formal meditation is trying to achieve, but through direct sensory engagement.
+
+## Finding What Works for You
+
+**The Experimental Approach:**
+- **Try different practices** and see what happens
+- **See what you can maintain** - sustainability matters more than perfection
+- **Ideally include body scanning** plus a few other practices
+- **Adjust parameters** based on your current mental state
+
+**Signs You're Making Progress:**
+- **Increased awareness**: You notice more things, "chopping up" thought chains before they become whirlpools
+- **Higher average mood**: Your baseline emotional state improves over time
+- **Staying out of the water**: You can avoid rumination whirlpools more easily
+- **Sigh of relief**: When working with difficult emotions, you naturally relax and drop to a lower energy state
+
+**Signs You Need Higher Amplitude/Frequency:**
+- **Mood shifts** during or after practice
+- **Distorted thoughts** arising
+- **Getting pulled into whirlpools** despite your efforts
+- **Rising tension** instead of relaxation
 
 ## The Four Essential Practices
 

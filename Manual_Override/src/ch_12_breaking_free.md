@@ -103,16 +103,19 @@ The key insight is that whirlpools aren't solid structures—they're dynamic pro
 
 This is where understanding meditation's adjustable factors becomes crucial:
 
-**Frequency of Engagement**: Like a bell ringing at intervals, frequent check-ins prevent the mind from following associative chains long enough to form whirlpools. If you check in every 10-15 seconds, there's less time for rumination to build momentum. Longer gaps between awareness check-ins allow more "wandering" where you follow mental linked lists deeper into negative thought patterns.
+**Critical Timing**: In severe cases, thoughts can link into whirlpools within **1 second**. This means you need check-ins every 1 second (like stomping with each step or saying "left, right" while walking). In moderate cases, you might have 30+ seconds before rumination chains form.
 
-**Amplitude of Engagement**: Higher amplitude (more conscious signal) acts like lifting weights for awareness—it requires more energy but prevents mind-wandering. When you notice the early signs of rumination beginning, increasing your engagement amplitude can interrupt the pattern before it becomes a full whirlpool. Lower amplitude conserves energy but allows more mental drift into associative chains.
+**Amplitude Matching**: The stronger your tendency to ruminate, the higher amplitude you need. This isn't about achieving some meditative state—it's about **whirlpool prevention/escape**. You literally can't learn to swim while you're drowning.
 
-**Practical Application**: If you notice negative thoughts beginning to connect and spiral, immediately:
-1. **Increase frequency**: Check in with present-moment sensations every few seconds
-2. **Increase amplitude**: Engage more strongly with physical sensations, breath, or movement
-3. **Interrupt the chain**: Don't let thoughts link together into longer associative sequences
+**Practical Emergency Protocol**: If you notice negative thoughts beginning to connect:
+1. **Immediate high amplitude**: Stomp feet, count aloud, use verbal cues
+2. **High frequency**: Check in every 1 second if needed
+3. **Get out of the water first**: Don't try to work with the content until you've escaped the whirlpool
+4. **Success indicator**: Mood stabilizes, thoughts become clearer
 
-This isn't about suppressing thoughts but about preventing the probabilistic cascade that creates self-reinforcing loops.
+**Advanced Work (Only When Stable)**: Once you can stay out of whirlpools fairly easily, you can work with the first few links using the four-stage cycle (anatta, ahimsa, akatta, wu wei) at specific arising points. Success here feels like a sigh of relief and natural relaxation.
+
+**Failure Signals**: If tension rises, you get pulled into whirlpools, or parts take over, immediately return to escape mode. This isn't failure—it's skillful recognition of your current capacity.
 
 **Intelligent Force as Pattern Interruption:**
 
