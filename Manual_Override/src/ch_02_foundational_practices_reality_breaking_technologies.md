@@ -206,6 +206,28 @@ Mindful eating is typically taught as a way to improve digestion and eating habi
 - Notice the impulse to eat faster, multitask, or zone out
 - Each time you catch automation and choose consciousness, you're building override capacity
 
+### Practice: The Stack Dump (When Observation Isn't Enough)
+
+The practice of observing thoughts like clouds passing in the sky is powerful, but it has a critical failure mode. Sometimes, thoughts are not random weather patterns; they are important signals from your deeper mind trying to get your attention. Ignoring them can lead to a feeling of internal pressure, anxiety, or a sense that you are neglecting something vital. This is the feeling of a full "stack"—a mental buffer overflowing with unprocessed information.
+
+In these moments, passive observation is not the answer. You must engage in a different practice: the stack dump. This technique honors the mind's role as a processing tool and provides a bridge between detached awareness and effective action.
+
+**When to Use This Practice:**
+- When meditation or mindfulness practice increases your anxiety or internal pressure.
+- When you feel a persistent, nagging sense that you are forgetting something important.
+- When your mind feels "loud," "cluttered," or "full."
+- When you cannot shake the feeling that your thoughts need to be *acted upon*, not just observed.
+
+**The Method:**
+
+1.  **Recognize the Pressure:** The first step is to acknowledge the feeling. Instead of judging it as a failure of your mindfulness practice, recognize it as a signal that a different tool is needed.
+2.  **Capture Everything:** Grab a physical notebook or open a blank text file. For the next 5-15 minutes, write down every single thought, task, worry, idea, or fragment of an idea that comes into your mind.
+3.  **Do Not Filter:** Do not judge, organize, or edit. The goal is not to create a coherent document, but to empty the buffer. Write sentence fragments, single words, doodles—whatever comes out. Let it be messy.
+4.  **Write Until Relief:** Continue writing until you feel a palpable sense of relief. This often feels like a release of pressure in the head or chest. The mind will become noticeably quieter. You will know when the stack is clear.
+5.  **Park and Return to Presence:** Close the notebook or save the file. Trust that the information is now safely captured. You do not need to act on it immediately. The primary goal—relieving the pressure—has been achieved. You can now return to your presence practice from a place of genuine mental quiet.
+
+Later, you can review your stack dump notes and treat them as a to-do list, a journal entry for reflection, or a source of creative ideas. But in the moment, its function is to allow you to fully and completely let go, knowing that nothing important has been lost.
+
 ## The Integration Challenge
 
 These practices work synergistically to develop what we might call "plane-shifting capacity"—the ability to operate consciousness from multiple reality layers simultaneously. But this creates a unique challenge: how do you function within this reality construct while knowing it's not the only one?
