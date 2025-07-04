@@ -28,6 +28,7 @@ Traditional mindfulness instruction focuses on "concentration" and "controlling 
 **Understanding the Parameters:**
 
 **Amplitude (Engagement Level):**
+
 - **Range**: From barely noticing breath → deliberately focusing → stomping/counting aloud → cold water/intense activity
 - **Energy cost**: Like lifting weights - higher amplitude prevents rumination but requires more conscious energy and becomes tiring
 - **Fatigue factor**: At the end of high-amplitude practice, you need even more attentional energy to maintain effectiveness
@@ -124,36 +125,43 @@ Many people struggle with traditional sitting meditation because they're trying 
 
 But when you emerge from cold water or taste something intensely flavorful, your nervous system is naturally drawn into present-moment adaptation. This is meditation happening automatically through your body's innate responses, not through mental effort or spiritual striving.
 
-## Advanced Practice: The Four-Stage Cycle
+## Advanced Practice: The Four Freedoms
 
 Once you can stay out of rumination whirlpools fairly easily and have developed body scanning skills, you can work directly with arising thoughts and emotions using this four-stage approach:
 
-**The Four Stages (Applied to Each Arising Point):**
+**The Four Freedoms (Applied to Each Arising Point):**
 
-1. **Anatta** - "This is not me"
-   - Remember who you are beyond this particular thought/emotion
-   - Disidentify from the arising content
+1.  **Freedom from Identification (Anatta)** - "This is not me."
+    -   Recognize that you are the awareness in which the thought or emotion appears, not the content itself.
+    -   This creates the freedom to observe without being consumed.
 
-2. **Ahimsa** - Non-violence
-   - Don't fight, cling to, run away from, or make demands of the arising
-   - Notice any increasing tension as a sign you're being violent with the experience
+2.  **Freedom from Opposition (Ahimsa)** - "I will not harm this experience."
+    -   Release the habit of fighting, resisting, or suppressing what arises.
+    -   This creates the freedom to be with reality as it is, reducing internal conflict.
 
-3. **Akatta** - Non-judgment
-   - Don't classify the arising as good or bad
-   - Simply allow it to be what it is
+3.  **Freedom from Judgment (Akatta)** - "This is neither good nor bad."
+    -   Let go of the need to label experiences as positive or negative.
+    -   This creates the freedom to perceive clearly, without the distortion of preference.
 
-4. **Wu Wei** - Effortless flow
-   - Allow the natural process to unfold without forcing
-   - Move with the energy rather than against it
-   - Release control over the outcome
+4.  **Freedom from Control (Wu Wei)** - "I release the need to manage this."
+    -   Allow the natural energetic process to unfold without interference.
+    -   This creates the freedom to flow with life's unfolding, rather than struggling against it.
 
 **How to Apply:**
 - **Find the arising point**: Use body scanning skills to locate where the thought/emotion is emerging
-- **Apply all four stages** to that single point (not jumping between different content)
+- **Apply all four freedoms** to that single point (not jumping between different content)
 - **Balance like tightening bolts**: You can do them in sequence (anatta, ahimsa, akatta, wu wei) or use intuition to emphasize what's needed
 - **Success indicator**: Sigh of relief, relaxation, natural drop to lower energy state
 
-**Case Study - The Four-Stage Cycle in Action**: Lisa felt a familiar knot of anxiety in her stomach when her partner mentioned they needed to "talk about something important" later. Instead of immediately spiraling into worst-case scenarios, she used her body scanning skills to locate the exact point where the anxiety was arising—a tight, hot sensation just below her ribcage. She applied the four-stage cycle: **Anatta** - "This anxiety is not who I am, it's just a sensation arising in awareness." **Ahimsa** - "I won't fight this feeling or demand it go away, I'll just be with it." **Akatta** - "This isn't good or bad, it's just what's present right now." **Wu Wei** - "I'll let this unfold naturally without forcing any particular outcome." Within moments, she felt a sigh of relief, her body relaxed, and she dropped into a calmer state. She could now approach the conversation from presence rather than anxiety.
+**Case Study - The Four Freedoms in Action**: Lisa felt a familiar knot of anxiety in her stomach when her partner mentioned they needed to "talk about something important" later. Instead of immediately spiraling into worst-case scenarios, she used her body scanning skills to locate the exact point where the anxiety was arising—a tight, hot sensation just below her ribcage. She applied the Four Freedoms: 
+
+**Freedom from Identification (Anatta)** - "This anxiety is not who I am, it's just a sensation arising in awareness." 
+
+**Freedom from Opposition (Ahimsa)** - "I won't fight this feeling or demand it go away, I'll just be with it." 
+
+**Freedom from Judgment (Akatta)** - "This isn't good or bad, it's just what's present right now." 
+
+**Freedom from Control (Wu Wei)** - "I'll let this unfold naturally without forcing any particular outcome." Within moments, she felt a sigh of relief, her body relaxed, and she dropped into a calmer state. She could now approach the conversation from presence rather than anxiety.
 
 **Failure Indicators:**
 - Tension rising instead of decreasing
