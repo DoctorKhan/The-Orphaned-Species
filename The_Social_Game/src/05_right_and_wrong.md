@@ -40,7 +40,7 @@ When we witness person A hitting person B, the immediate surge of moral outrage 
 
 **Tribal Bonding**: Shared moral outrage creates in-group solidarity. "We" are the good people who would never do such a thing, while "they" are the bad people who would.
 
-**Charge Discharge**: Moral outrage provides a socially acceptable way to discharge our own accumulated anger and aggression. We get to feel righteous while expressing hostility.
+**Emotional Release**: Moral outrage provides a socially acceptable way to discharge our own accumulated anger and aggression. We get to feel righteous while expressing hostility.
 
 **Control Mechanisms**: Moral judgment serves as a social control system, using shame and punishment to enforce behavioral compliance.
 
@@ -72,11 +72,11 @@ This perspective doesn't eliminate responsibility—it makes it more sophisticat
 
 **The social system is responsible** for creating conditions that support conscious development rather than unconscious acting out.
 
-**We are all responsible** for recognizing our own charge patterns and projections rather than using moral judgment as a way to avoid our own shadow work.
+**We are all responsible** for recognizing our own emotional patterns and projections rather than using moral judgment as a way to avoid our own psychological work.
 
 ## Practical Applications
 
-**In Conflict Resolution**: Instead of determining who is right and wrong, focus on understanding the charge dynamics and developmental needs of all parties.
+**In Conflict Resolution**: Instead of determining who is right and wrong, focus on understanding the emotional dynamics and developmental needs of all parties.
 
 **In Parenting**: Help children understand that actions have consequences without creating shame-based moral categories that prevent learning.
 
