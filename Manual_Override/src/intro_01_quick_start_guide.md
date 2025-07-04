@@ -297,9 +297,9 @@ You're ready for the full book when you:
 After completing this 30-day foundation:
 
 **For deeper practice:** Chapter 2 (Foundational Practices)
-**For understanding programming:** Chapter 1 (NPC Consciousness)  
-**For working with difficult patterns:** Chapter 8 (Breaking Free)
-**For integration:** Chapter 11 (Integration and Navigation)
+**For understanding programming:** Chapter 1 (NPC Consciousness)
+**For working with difficult patterns:** Chapter 12 (Breaking Free)
+**For integration:** Chapter 17 (Integration and Navigation)
 
 ## Remember
 
