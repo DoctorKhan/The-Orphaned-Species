@@ -1,7 +1,7 @@
 # Manual Override
 ## Reclaiming conscious choice in an age of autopilot living
 
-**Compiled**: 2025-07-03 15:14:02
+**Compiled**: 2025-07-03 22:55:11
 
 ---
 
@@ -1748,8 +1748,7 @@ The most important capacity is **meta-cognitive awareness**—the ability to obs
 The malleable mind is neither good nor bad—it's a fundamental characteristic of human consciousness that can be used for liberation or enslavement. The key is developing the discernment to recognize when malleability is serving genuine development versus sophisticated self-deception, and the skill to consciously participate in your own programming rather than being unconsciously programmed by others.
 
 
-# Chapter 5
-# The Body's Archive
+# 🟡 Chapter 5: The Body's Archive
 
 "Listen to your body." "Trust your gut." "The body holds deep wisdom." These phrases permeate wellness culture, painting the body as an intuitive oracle patiently waiting for our disconnected minds to tune back in. We're told that if we could just silence the mental chatter and heed the body's subtle signals, we'd unlock health, happiness, and authentic living. The body becomes our primary archive of truth, a repository of wisdom that the rational mind has forgotten or suppressed.
 
@@ -1812,7 +1811,12 @@ Charges don't exist in isolation—they form complex **ecological systems** with
 - **Charge clusters** that activate together in response to triggers
 - **Charge conflicts** where different patterns compete for expression
 - **Charge cascades** where one activation triggers multiple others
+
+**System States:**
+The charge ecology can exist in different overall states:
 - **Charge depletion** where the system becomes exhausted from chronic activation
+- **Charge overflow** where too many patterns activate simultaneously
+- **Charge stagnation** where patterns become stuck and unable to discharge naturally
 
 **Corrupted vs. Clean Charges:**
 Not all charges are equal in their wisdom or functionality:
