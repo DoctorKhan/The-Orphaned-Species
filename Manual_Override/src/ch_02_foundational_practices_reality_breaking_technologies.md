@@ -125,45 +125,45 @@ Many people struggle with traditional sitting meditation because they're trying 
 
 But when you emerge from cold water or taste something intensely flavorful, your nervous system is naturally drawn into present-moment adaptation. This is meditation happening automatically through your body's innate responses, not through mental effort or spiritual striving.
 
-## Advanced Practice: The Four Freedoms
+## The Four Qualities of Conscious Relating
 
-This practice is the primary tool for the **Observing and Relating** stage of the Cosmic Rhythm. Once a sliver of awareness has separated from the NPC program, the Four Freedoms are how the Observer learns to relate to arising thoughts, emotions, and sensations without getting pulled back into identification. They are the practical skills for navigating the space between the character and the player, transforming reactivity into conscious relationship.
+The Cosmic Rhythm describes a three-phase journey of consciousness: from being **Identified** with our programming, to **Observing** it from a distance, and finally to a state of **Unified** presence where the distinction dissolves. The Four Qualities are the essential characteristics of awareness that allow us to move through these phases. They are not techniques to be performed, but qualities to be embodied that transform our relationship with every arising experience.
 
-Once you can stay out of rumination whirlpools fairly easily and have developed body scanning skills, you can work directly with arising thoughts and emotions using this four-stage approach:
+By cultivating these qualities, we learn to relate to thoughts, emotions, and sensations with a fluid, non-reactive presence, allowing us to navigate the space between the character and the player and transition from one phase of the rhythm to the next.
 
-**The Four Freedoms (Applied to Each Arising Point):**
+**The Four Qualities (Applied to Each Arising Point):**
 
-1.  **Freedom from Identification (Anatta)** - "This is not me."
+1.  **Impersonality (Anatta)** - "This is not me."
     -   Recognize that you are the awareness in which the thought or emotion appears, not the content itself.
-    -   This creates the freedom to observe without being consumed.
+    -   This quality helps transition from **Identified** to **Observing** by creating space.
 
-2.  **Freedom from Opposition (Ahimsa)** - "I will not harm this experience."
+2.  **Non-Opposition (Ahimsa)** - "I will not harm this experience."
     -   Release the habit of fighting, resisting, or suppressing what arises.
-    -   This creates the freedom to be with reality as it is, reducing internal conflict.
+    -   This quality deepens the **Observing** phase by reducing internal conflict.
 
-3.  **Freedom from Judgment (Akatta)** - "This is neither good nor bad."
+3.  **Neutrality (Akatta)** - "This is neither good nor bad."
     -   Let go of the need to label experiences as positive or negative.
-    -   This creates the freedom to perceive clearly, without the distortion of preference.
+    -   This quality purifies the **Observing** phase, allowing for clear seeing without the distortion of preference.
 
-4.  **Freedom from Control (Wu Wei)** - "I release the need to manage this."
+4.  **Non-Interference (Wu Wei)** - "I release the need to manage this."
     -   Allow the natural energetic process to unfold without interference.
-    -   This creates the freedom to flow with life's unfolding, rather than struggling against it.
+    -   This quality is the gateway to the **Unified** phase, where observation becomes effortless flow.
 
 **How to Apply:**
 - **Find the arising point**: Use body scanning skills to locate where the thought/emotion is emerging
-- **Apply all four freedoms** to that single point (not jumping between different content)
-- **Balance like tightening bolts**: You can do them in sequence (anatta, ahimsa, akatta, wu wei) or use intuition to emphasize what's needed
+- **Apply all four qualities** to that single point (not jumping between different content)
+- **Balance like tightening bolts**: You can do them in sequence or use intuition to emphasize what's needed
 - **Success indicator**: Sigh of relief, relaxation, natural drop to lower energy state
 
-**Case Study - The Four Freedoms in Action**: Lisa felt a familiar knot of anxiety in her stomach when her partner mentioned they needed to "talk about something important" later. Instead of immediately spiraling into worst-case scenarios, she used her body scanning skills to locate the exact point where the anxiety was arising—a tight, hot sensation just below her ribcage. She applied the Four Freedoms: 
+**Case Study - The Four Qualities in Action**: Lisa felt a familiar knot of anxiety in her stomach when her partner mentioned they needed to "talk about something important" later. Instead of immediately spiraling into worst-case scenarios, she used her body scanning skills to locate the exact point where the anxiety was arising—a tight, hot sensation just below her ribcage. She applied the Four Qualities: 
 
-**Freedom from Identification (Anatta)** - "This anxiety is not who I am, it's just a sensation arising in awareness." 
+**Impersonality (Anatta)** - "This anxiety is not who I am, it's just a sensation arising in awareness." 
 
-**Freedom from Opposition (Ahimsa)** - "I won't fight this feeling or demand it go away, I'll just be with it." 
+**Non-Opposition (Ahimsa)** - "I won't fight this feeling or demand it go away, I'll just be with it." 
 
-**Freedom from Judgment (Akatta)** - "This isn't good or bad, it's just what's present right now." 
+**Neutrality (Akatta)** - "This isn't good or bad, it's just what's present right now." 
 
-**Freedom from Control (Wu Wei)** - "I'll let this unfold naturally without forcing any particular outcome." Within moments, she felt a sigh of relief, her body relaxed, and she dropped into a calmer state. She could now approach the conversation from presence rather than anxiety.
+**Non-Interference (Wu Wei)** - "I'll let this unfold naturally without forcing any particular outcome." Within moments, she felt a sigh of relief, her body relaxed, and she dropped into a calmer state. She could now approach the conversation from presence rather than anxiety.
 
 **Failure Indicators:**
 - Tension rising instead of decreasing
