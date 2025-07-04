@@ -15,19 +15,19 @@ Traditional societies organized knowledge transmission through natural hierarchi
 **Wisdom Traditions**: Novice to adept to sage development through community-based learning
 **Spiritual Communities**: Seeker to guide to elder relationships within established traditions
 
-These weren't arbitrary power structures but **functional relationships** based on genuine differences in understanding, experience, and energetic development. Each level carried different **charge patterns**—energetic signatures that indicated capacity for holding and transmitting wisdom.
+These weren't arbitrary power structures but **functional relationships** based on genuine differences in understanding, experience, and skill development. Each level carried different **competency patterns**—demonstrated abilities that indicated capacity for holding and transmitting knowledge.
 
-## The Charge System in Traditional Hierarchies
+## The Competency System in Traditional Hierarchies
 
 **What We Lost:**
-- **Graduated Charge Development**: Consciousness developed through stages, with each level building energetic capacity
-- **Earned Energetic Authority**: Respect and influence came from demonstrated ability to hold and transmit higher charges
-- **Mentorship Charge Transfer**: Personal guidance involved actual energetic transmission from those who had developed higher capacities
-- **Quality Control Through Resonance**: Natural filters prevented the spread of low-charge ideas and dangerous misinformation
-- **Meaning Through Energetic Role**: Clear sense of purpose and identity within an energetic learning community
+- **Graduated Skill Development**: Knowledge developed through stages, with each level building practical capacity
+- **Earned Authority**: Respect and influence came from demonstrated ability to apply and transmit knowledge effectively
+- **Mentorship Transfer**: Personal guidance involved actual skill transmission from those who had developed expertise
+- **Quality Control Through Experience**: Natural filters prevented the spread of untested ideas and dangerous misinformation
+- **Meaning Through Social Role**: Clear sense of purpose and identity within a learning community
 
-**The Energetic Mechanics:**
-In traditional systems, a student's **charge pattern** had to develop sufficiently to receive higher-level teachings. This wasn't gatekeeping—it was recognition that certain insights require specific energetic capacities to be safely integrated. A novice attempting to access master-level charges without proper development could become destabilized or deluded.
+**The Learning Mechanics:**
+In traditional systems, a student's **skill level** had to develop sufficiently to receive higher-level teachings. This wasn't gatekeeping—it was recognition that certain insights require specific foundational knowledge to be safely integrated. A novice attempting to access master-level concepts without proper development could become confused or misled.
 
 ## What the Internet's False Democracy Created
 
@@ -89,16 +89,16 @@ Social media algorithms learned to exploit human psychology by:
 ## The Destruction of Social Mentorship
 
 **Traditional Mentorship Involved:**
-- **Energetic Attunement**: The mentor's developed charge patterns helping to stabilize and guide the student's development
-- **Graduated Exposure**: Carefully timed introduction to higher charges as capacity developed
-- **Personal Transmission**: Direct energetic transfer that couldn't be replicated through information alone
-- **Embodied Modeling**: Seeing how higher charges manifest in daily life and relationships
+- **Personal Guidance**: The mentor's developed expertise helping to guide the student's learning process
+- **Graduated Exposure**: Carefully timed introduction to advanced concepts as understanding developed
+- **Direct Transmission**: Personal instruction that couldn't be replicated through information alone
+- **Embodied Modeling**: Seeing how expertise manifests in daily practice and relationships
 
 **What the Internet Replaced This With:**
-- **Parasocial Relationships**: One-way information consumption without energetic exchange
-- **Content Consumption**: Passive absorption rather than active development
-- **Algorithmic Curation**: Machine learning replacing human wisdom about developmental readiness
-- **Scalable Information**: Mass distribution that couldn't account for individual energetic capacity
+- **Parasocial Relationships**: One-way information consumption without personal exchange
+- **Content Consumption**: Passive absorption rather than active skill development
+- **Algorithmic Curation**: Machine learning replacing human wisdom about learning readiness
+- **Scalable Information**: Mass distribution that couldn't account for individual learning capacity
 
 ## The Charge Pollution Problem
 
