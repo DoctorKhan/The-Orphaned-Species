@@ -28,7 +28,9 @@ Every workplace contains the full spectrum of human unconsciousness: ego conflic
 - **Use it as practice**: Can you stay present with someone who's unconscious?
 - **Strategic response**: Sometimes the conscious choice is to leave, but from clarity rather than reactivity
 
-**Case Study**: Sarah worked for a micromanaging boss who criticized everything she did. Instead of quitting immediately, she used the situation to practice staying present under pressure. She learned to respond rather than react, set clear boundaries, and eventually the dynamic shifted. When she did leave six months later, it was from a place of conscious choice rather than emotional reactivity.
+**Case Study - The Micromanaging Boss**: Sarah worked for a micromanaging boss who criticized everything she did. Instead of quitting immediately, she used the situation to practice staying present under pressure. She learned to respond rather than react, set clear boundaries, and eventually the dynamic shifted. When she did leave six months later, it was from a place of conscious choice rather than emotional reactivity.
+
+**Case Study - The Validation Charge**: Jane was presenting her quarterly report when her manager interrupted with sharp criticism about her methodology. She felt the familiar validation charge fire—that hot, contracting sensation in her chest that usually triggered either defensive explanations or people-pleasing behavior. But instead of immediately reacting, she used "The Pause": she took one conscious breath and felt the charge without acting on it. In that space, she realized she could respond from clarity rather than reactivity. "I hear your concern about the methodology. Let me address that after I finish this section, so I can give it the attention it deserves." The charge was still there, but she was no longer its puppet.
 
 ### **The Meaningless Job Dilemma**
 

@@ -34,6 +34,32 @@ Traditional mindfulness instruction focuses on "concentration" and "controlling 
 - **Purpose**: Primarily for whirlpool prevention/escape - stronger rumination tendency requires higher amplitude
 
 **Frequency (Check-in Rate):**
+
+**Visual Model: Sparse vs. Continuous Awareness**
+
+```
+SPARSE SAMPLING (Low Frequency):
+Time: ----●--------●--------●--------●--------●----
+      30s gap    30s gap    30s gap    30s gap
+
+Rumination Risk: ████████████████████████████████████
+                 High risk - thoughts can link into whirlpools
+
+MODERATE SAMPLING (Medium Frequency):
+Time: --●----●----●----●----●----●----●----●--
+      5s gap  5s gap  5s gap  5s gap  5s gap
+
+Rumination Risk: ████████████
+                 Moderate risk - some linking possible
+
+CONTINUOUS PRESENCE (High Frequency):
+Time: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+      Fractions of a second - "escaping quicksand"
+
+Rumination Risk: ●
+                 Minimal risk - no time for whirlpool formation
+```
+
 - **Range**: Once daily → every 30 seconds/minutes → every second → fractions of a second
 - **Critical timing**: In severe cases, thoughts can link into whirlpools within 1 second
 - **Fractions of a second**: Fundamentally different - like "escaping quicksand" with continuous awareness and high energy application
@@ -126,6 +152,8 @@ Once you can stay out of rumination whirlpools fairly easily and have developed 
 - **Apply all four stages** to that single point (not jumping between different content)
 - **Balance like tightening bolts**: You can do them in sequence (anatta, ahimsa, akatta, wu wei) or use intuition to emphasize what's needed
 - **Success indicator**: Sigh of relief, relaxation, natural drop to lower energy state
+
+**Case Study - The Four-Stage Cycle in Action**: Lisa felt a familiar knot of anxiety in her stomach when her partner mentioned they needed to "talk about something important" later. Instead of immediately spiraling into worst-case scenarios, she used her body scanning skills to locate the exact point where the anxiety was arising—a tight, hot sensation just below her ribcage. She applied the four-stage cycle: **Anatta** - "This anxiety is not who I am, it's just a sensation arising in awareness." **Ahimsa** - "I won't fight this feeling or demand it go away, I'll just be with it." **Akatta** - "This isn't good or bad, it's just what's present right now." **Wu Wei** - "I'll let this unfold naturally without forcing any particular outcome." Within moments, she felt a sigh of relief, her body relaxed, and she dropped into a calmer state. She could now approach the conversation from presence rather than anxiety.
 
 **Failure Indicators:**
 - Tension rising instead of decreasing
