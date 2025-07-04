@@ -45,8 +45,11 @@ structure:
   - file: "13_part_iv_intro.md"
     title: "Part III: The Meta-Game"
     type: "part"
+  - file: "15_cultural_preservation_and_creation.md"
+    title: "Chapter 11: Cultural Preservation and Creation"
+    type: "chapter"
   - file: "14_the_endless_game.md"
-    title: "Chapter 11: The Endless Game"
+    title: "Chapter 12: The Endless Game"
     type: "chapter"
 
 build:
