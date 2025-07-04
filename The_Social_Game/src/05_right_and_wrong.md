@@ -80,8 +80,8 @@ This perspective doesn't eliminate responsibility—it makes it more sophisticat
 
 **In Parenting**: Help children understand that actions have consequences without creating shame-based moral categories that prevent learning.
 
-**In Social Policy**: Design interventions based on understanding systemic charge patterns rather than punishment-based moral frameworks.
+**In Social Policy**: Design interventions based on understanding systemic social patterns rather than punishment-based moral frameworks.
 
-**In Personal Relationships**: Practice seeing conflicts as opportunities for mutual charge work rather than battles between good and evil.
+**In Personal Relationships**: Practice seeing conflicts as opportunities for mutual understanding and growth rather than battles between good and evil.
 
-The goal isn't to eliminate discernment or accountability, but to develop the sophistication to see beyond simple moral categories toward the complex developmental and systemic dynamics that actually drive human behavior. This allows for more effective intervention and genuine healing rather than the perpetuation of charge patterns through moral outrage and punishment.
+The goal isn't to eliminate discernment or accountability, but to develop the sophistication to see beyond simple moral categories toward the complex developmental and systemic dynamics that actually drive human behavior. This allows for more effective intervention and genuine healing rather than the perpetuation of harmful patterns through moral outrage and punishment.
