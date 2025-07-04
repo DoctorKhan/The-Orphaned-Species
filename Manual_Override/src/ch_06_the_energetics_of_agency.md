@@ -237,4 +237,6 @@ The energetics of agency, properly understood, lead not to greater control but t
 
 **Strategic Engagement**: Work with your energetic limits rather than against them, focusing conscious choice on the moments that matter most while allowing autopilot to handle routine tasks.
 
+**The Promise of Energy Mastery**: When you understand and work skillfully with awareness energy, you transform from being a victim of your own inconsistency to becoming a conscious programmer of your own experience. You stop wondering why you sometimes have willpower and sometimes don't—you learn to recognize your energetic state and work with it strategically. This leads to a profound shift: from feeling like life is happening to you, to knowing that you are an active participant in creating your reality moment by moment.
+
 **Next Steps**: The following chapter examines a particularly dangerous misunderstanding of consciousness-reality interaction: manifestation culture and the spiritual materialism that masquerades as genuine agency.

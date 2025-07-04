@@ -273,4 +273,6 @@ This shift from judgment to skillful response can be the beginning of genuine fr
 
 Breaking free isn't about becoming invulnerable to mental suffering. It's about developing the discernment to recognize when we're caught in distortion and the courage to take whatever action is necessary to restore clarity. Sometimes that action is meditation. Sometimes it's medication. Sometimes it's a phone call to a friend or a walk in the park.
 
+**The Ultimate Payoff**: When you master these whirlpool escape techniques, you reclaim your fundamental agency. Instead of being a puppet pulled by the strings of rumination and reactivity, you develop a space between stimulus and response where genuine choice becomes possible. You stop being an object to which life happens and become a subject who consciously participates in your own existence. This is the essence of freedom—not the absence of difficult emotions, but the presence of conscious choice in how you relate to them.
+
 The path to freedom is rarely what we expect it to be. But it's always available, even when—especially when—our minds are convinced that it's not.
