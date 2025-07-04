@@ -127,6 +127,8 @@ But when you emerge from cold water or taste something intensely flavorful, your
 
 ## Advanced Practice: The Four Freedoms
 
+This practice is the primary tool for the **Observing and Relating** stage of the Cosmic Rhythm. Once a sliver of awareness has separated from the NPC program, the Four Freedoms are how the Observer learns to relate to arising thoughts, emotions, and sensations without getting pulled back into identification. They are the practical skills for navigating the space between the character and the player, transforming reactivity into conscious relationship.
+
 Once you can stay out of rumination whirlpools fairly easily and have developed body scanning skills, you can work directly with arising thoughts and emotions using this four-stage approach:
 
 **The Four Freedoms (Applied to Each Arising Point):**
