@@ -1,5 +1,4 @@
-# Part II: Mechanisms
-## Understanding How Consciousness Actually Works
+# Part II: How Consciousness Actually Works
 
 Now that you've established foundational practices and can recognize the difference between conscious choice and automatic programming, it's time to explore the deeper mechanisms that govern how consciousness operates.
 

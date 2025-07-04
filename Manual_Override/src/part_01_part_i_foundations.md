@@ -1,5 +1,4 @@
-# Part I
-# The Personal Game
+# Part I: Understanding the Problem
 ## Waking Up Within Your Own Programming
 
 You think you're playing the game of life, making conscious choices, responding authentically to circumstances. You believe you're the protagonist of your own story, the author of your decisions, the conscious agent navigating reality with intention and awareness.
