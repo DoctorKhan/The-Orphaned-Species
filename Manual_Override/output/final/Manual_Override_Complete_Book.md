@@ -1,7 +1,7 @@
 # Manual Override
 ## Reclaiming conscious choice in an age of autopilot living
 
-**Compiled**: 2025-07-04 12:04:16
+**Compiled**: 2025-07-04 12:10:44
 
 ---
 
@@ -460,8 +460,7 @@ Start small, be patient with yourself, and trust that awareness itself is transf
 
 ---
 
-# Part I
-# The Personal Game
+# Part I: Understanding the Problem
 ## Waking Up Within Your Own Programming
 
 You think you're playing the game of life, making conscious choices, responding authentically to circumstances. You believe you're the protagonist of your own story, the author of your decisions, the conscious agent navigating reality with intention and awareness.
@@ -2057,8 +2056,7 @@ The invitation is not to dismiss the body's intelligence but to engage with it m
 
 ---
 
-# Part II: Mechanisms
-## Understanding How Consciousness Actually Works
+# Part II: How Consciousness Actually Works
 
 Now that you've established foundational practices and can recognize the difference between conscious choice and automatic programming, it's time to explore the deeper mechanisms that govern how consciousness operates.
 
@@ -2794,7 +2792,7 @@ This understanding resolves the apparent conflict. Neuroscience provides an incr
 
 ---
 
-# Part III: Application
+# Part III: Breaking Free and Staying Free
 
 With a solid foundation in the practices and a clear understanding of the mechanisms, we now move to advanced application—how to actually break free from reality programming and operate from multiple planes of consciousness simultaneously.
 
