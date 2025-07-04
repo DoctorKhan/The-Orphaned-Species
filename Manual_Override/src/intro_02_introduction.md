@@ -50,7 +50,7 @@ What we experience as genuine choice—those moments when we seem to act from fr
 
 Think of it like a video game: the character on screen follows programmed responses until someone picks up the controller and begins to play. The ultimate goal is to learn to play the game of this reality skillfully—developing mastery over the charges and patterns that create experience—until you're ready to "turn off the game." But you retain all the skills you've developed across many lifetimes.
 
-This creates an infinite hierarchy where each level experiences freedom as information from the level above, with the levels getting infinitely close together as consciousness develops. The "miracle" of free will is always available—it's the soul learning to play through whatever level of character it's currently operating.
+This creates an infinite series of nested levels where each level experiences freedom as information from the level above, with the levels getting infinitely close together as consciousness develops. The "miracle" of free will is always available—it's the soul learning to play through whatever level of character it's currently operating.
 
 This doesn't negate the value of the stories we tell or the meanings we create. Rather, it places them in proper context—as useful tools and beautiful expressions, but not as ultimate truths to which we must cling. The deepest freedom comes from being able to engage fully with meaning while simultaneously resting in the vast unconstructed that underlies all particular meanings.
 

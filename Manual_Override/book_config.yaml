@@ -2,12 +2,12 @@ book:
   title: Manual Override
   subtitle: Reclaiming conscious choice in an age of autopilot living
 structure:
-- file: intro_01_quick_start_guide.md
-  title: 'Quick Start Guide: Your First 30 Days'
-  type: quick_start
 - file: intro_02_introduction.md
   title: 'Introduction: The Game of Games'
   type: introduction
+- file: intro_01_quick_start_guide.md
+  title: 'Quick Start Guide: Your First 30 Days'
+  type: quick_start
 - file: part_01_part_i_foundations.md
   title: 'Part I: Understanding the Problem'
   type: part
