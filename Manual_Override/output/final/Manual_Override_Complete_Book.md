@@ -1,7 +1,7 @@
 # Manual Override
 ## Reclaiming conscious choice in an age of autopilot living
 
-**Compiled**: 2025-07-04 13:00:05
+**Compiled**: 2025-07-04 13:18:34
 
 ---
 
