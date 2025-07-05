@@ -28,7 +28,7 @@ Explores why humans don't fit Earth's evolutionary patterns and exhibit traits s
 
 ### The Genetic Anomaly
 
-For decades, the story of human evolution contained a puzzling gap. Recent genetic research has finally illuminated it, uncovering a startling truth: between 800,000 and 900,000 years ago, our ancestral lineage was pushed to the brink of extinction. For over 100,000 years, the breeding population of our direct ancestors dwindled to a mere 1,280 individuals (Hu et al., 2023, *Science*). Science proposes climate change as the likely culprit for this severe bottleneck, a planetary disaster that nearly wiped our predecessors from the Earth.
+For decades, the story of human evolution contained a puzzling gap. Recent genetic research has finally illuminated it, uncovering a startling truth: between 800,000 and 900,000 years ago, our ancestral lineage was pushed to the brink of extinction. For over 100,000 years, the breeding population of our direct ancestors dwindled to just over a thousand individuals (Hu et al., 2023, *Science*). Science proposes climate change as the likely culprit for this severe bottleneck, a planetary disaster that nearly wiped our predecessors from the Earth.
 
 But the precision of this event, the specific number of survivors, and the remarkable genetic changes that followed suggest something far more deliberate than random catastrophe.
 
@@ -80,7 +80,7 @@ Finally, this worship demanded tribute: the mandate of sacrifice. This deep-seat
 
 The experiment was a success. For tens of thousands of years, the Titans managed their creation directly, establishing the *Adamu* as overseers and instilling in humanity the core directives that would shape our future. They built a global civilization, created consciousness technologies, and prepared humanity for its cosmic destiny.
 
-But this era of careful cultivation was brought to a violent end. Approximately 12,800 years ago, during the cataclysmic event now known as the Younger Dryas impact, the world of the Titans was destroyed. This was not a natural disaster—it was the scar of a cosmic war that would reshape the destiny of humanity.
+But this era of careful cultivation was brought to a violent end during the cataclysmic event now known as the Younger Dryas impact, approximately 12,800 years ago.
 
 Some of the Titans survived this catastrophe. As their civilization crumbled, these survivors were overwhelmed by humanity's growing numbers and increasing violence. They retreated to remote locations, hiding among the stone circle sites they had built as consciousness technologies. Moving westward over generations, interbreeding with human populations, their bloodlines became diluted but never entirely disappeared.
 

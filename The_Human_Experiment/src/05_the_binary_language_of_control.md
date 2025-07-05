@@ -12,7 +12,7 @@ Understanding this deception requires recognizing four fundamental ways we are b
 
 The first and most profound deception is that we continue to worship our former masters as if they were still present, still watching, still caring about our devotion. Every major religious system on Earth is built around the worship of beings who were once physically present but have long since departed.
 
-**The Absent Gods**: The Elohim, Anunnaki, Titans—whatever name we give them—were real beings who walked among our ancestors. They were not supernatural deities but advanced biological entities who modified our genetics and established themselves as gods. When they left, they did not become transcendent spiritual beings. They simply left.
+**The Absent Gods**: Within this framework, the Elohim, Anunnaki, Titans—whatever name we give them—were real beings who walked among our ancestors. The narrative suggests they were not supernatural deities but advanced biological entities who modified our genetics and established themselves as gods. When they left, they did not become transcendent spiritual beings. They simply left.
 
 **The Worship Instinct**: The neurological programming for worship that they installed in us did not disappear when they did. This instinct—the compulsion to seek and submit to higher authority—continues to fire in our brains, seeking objects of devotion. In their absence, we have created elaborate theological systems around the memory of their presence.
 
@@ -64,11 +64,9 @@ Understanding how we're being fooled is only the first step. To break free, we m
 
 The biblical story of the Garden of Eden is not a historical account or moral allegory—it's a technical manual describing the installation of humanity's operating system. The Tree of the Knowledge of Good and Evil represents the fundamental programming interface through which human consciousness was modified.
 
-**Binary Logic**: The "knowledge of good and evil" is binary thinking—the reduction of complex reality into simple either/or choices. This wasn't spiritual wisdom; it was the installation of a control mechanism that would make humans predictable and manageable.
-
 **The Prometheus/Ila Welu Lineage**: Within this framework, the figure of Prometheus—or Ila Welu in some traditions—represents the Titan consciousness technician who installed the binary programming into human neural architecture. This wasn't a gift of wisdom but the installation of a cognitive operating system designed to make humans function as biological computers.
 
-**Neurological Architecture**: The binary programming isn't just cultural—it's literally built into our brain structure. The either/or thinking patterns, the emotional charge systems, the tribal identification mechanisms—all of these are hardwired into our neural networks as a result of the Tree of Knowledge modification.
+**Neurological Architecture**: This programming isn't just cultural—it's literally built into our brain structure, hardwired into our neural networks as a result of the Tree of Knowledge modification.
 
 **The Original Programming**: When humans "ate from the tree," they weren't gaining wisdom—they were having their consciousness restructured around binary oppositions. This programming made them easier to control because binary thinking is simple, emotional, and bypasses complex reasoning.
 

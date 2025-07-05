@@ -193,7 +193,7 @@ The story of ancient Egypt is the story of a traumatized culture desperately try
 
 The cataclysm that destroyed the Saharan paradise was just one battle in a longer war. The conflict continued, simmering for centuries before erupting again in the Bronze Age. This is the true, historical context behind the myths of the Old Testament.
 
-The entity that the Hebrew texts call "Yahweh" was the leader of the rival faction—the one responsible for the Saharan cataclysm. He was not a universal, creator god, but a powerful, territorial, and deeply insecure Albian with a profound jealousy of the original human-Albian partnership. His goal was not to liberate humanity, but to claim it for himself, to erase the memory of its true origins and reprogram it with a new, artificial history.
+Within this mythology, the entity that the Hebrew texts call "Yahweh" represents the leader of the rival faction—the one responsible for the Saharan cataclysm. Rather than a universal creator god, this narrative presents him as a powerful, territorial figure with a profound jealousy of the original human-Albian partnership. His goal, in this framework, was not to liberate humanity, but to claim it for himself, to erase the memory of its true origins and reprogram it with a new, artificial history.
 
 His primary target was the surviving Albian faction—the "serpents" and "dragons" of the Old Testament. The "Serpent" in the Garden of Eden was not a tempter, but a teacher. The "Nephilim" were not fallen angels, but the hybrid offspring of the original human-Albian alliances. The war between Yahweh and the Serpent was a war for the soul of humanity.
 

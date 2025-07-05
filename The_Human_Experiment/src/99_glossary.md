@@ -16,7 +16,7 @@
 
 ## G
 
-**Genesis Bottleneck** - The near-extinction event between 800,000-900,000 years ago that reduced human ancestral population to approximately 1,280 individuals. Within this framework, this was Phase II of the Titan experiment - a selection and preparation phase that installed sophisticated genetic modifications.
+**Genesis Bottleneck** - The near-extinction event between 800,000-900,000 years ago that reduced human ancestral population to just over a thousand individuals. Within this framework, this was Phase II of the Titan experiment - a selection and preparation phase that installed sophisticated genetic modifications.
 
 ## H
 
