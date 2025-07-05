@@ -96,6 +96,8 @@ The Albians established a remarkable civilization that persisted for thousands o
 
 Their final refuge was Stonehenge—the last stronghold of the original creators. These survivors carried forward fragments of the ancient knowledge even as they gradually merged with the human populations they had once guided, always hiding their true nature to avoid the fate of their executed kin.
 
+**Why No Advanced Artifacts?**: The absence of clearly anachronistic technology in the archaeological record actually supports this framework. Advanced consciousness technologies operated primarily in non-physical dimensions—what shamans and ayahuasca practitioners recognize as rich realities beyond the material plane. Stone circles were interfaces, not the technologies themselves. Moreover, Tree of Life consciousness enabled biodegradable technologies that worked with natural processes rather than against them, returning to earth when the consciousness that animated them withdrew.
+
 ### The Great Persecution
 
 Within this mythology, the systematic destruction of Albian civilization didn't end with the cosmic war. Over millennia, their matrifocal societies and consciousness technologies posed a continuing threat to the new patriarchal order. This framework suggests that the witch persecutions—while having complex historical, social, and economic causes—may have also served to eliminate the last carriers of ancient knowledge and genetics.
