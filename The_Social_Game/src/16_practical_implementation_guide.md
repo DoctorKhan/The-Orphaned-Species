@@ -58,6 +58,14 @@ Practical skills make you valuable to any community while building confidence an
 - **Traditional healing**: Herbalism, nutrition, energy work
 - **Emergency skills**: First aid, CPR, wilderness survival
 
+**Survival and Bushcraft Skills:**
+- **Fire making**: Bow drill, flint and steel, fire plow techniques
+- **Water procurement**: Finding, collecting, and purifying water sources
+- **Shelter building**: Natural material construction, weatherproofing
+- **Plant identification**: Edible, medicinal, and useful plants
+- **Navigation**: Natural wayfinding without GPS or compass
+- **Tool making**: Knives, cordage, containers from natural materials
+
 ### Getting Started Framework
 1. **Choose one skill** that genuinely interests you
 2. **Find a local teacher or class** (prioritize in-person learning for community building)
@@ -65,11 +73,24 @@ Practical skills make you valuable to any community while building confidence an
 4. **Share your learning** by teaching others or contributing to community projects
 5. **Add a second skill** only after achieving basic competency in the first
 
+### Why Survival Skills Are Psychologically Essential
+
+**Rebalancing Status Anxiety**: When your survival needs are guaranteed by distant systems, your brain defaults to social status competition. Learning to meet basic needs with your own hands recalibrates your nervous system to focus on what actually matters versus what feels urgent.
+
+**Authentic Confidence**: Self-worth becomes grounded in real capabilities rather than external validation. When you can make fire, find water, and build shelter, social criticism loses its psychological grip.
+
+**Present Moment Grounding**: Survival situations demand complete presence, breaking the cycle of anxious rumination and social comparison that dominates modern mental life.
+
+**Stress Perspective**: People with bushcraft experience report that everyday stressors feel manageable compared to the challenge of staying warm, dry, and fed in nature.
+
 ### Resources for Skill Development
 - **Local community colleges**: Often offer affordable classes in practical skills
 - **Maker spaces**: Provide tools and instruction for technical and artistic projects
 - **Community gardens**: Learn food production while building relationships
 - **Volunteer organizations**: Develop skills while serving others
+- **Bushcraft schools**: Specialized instruction in primitive skills and wilderness survival
+- **Primitive skills gatherings**: Community events focused on traditional technologies
+- **Outdoor education programs**: Wilderness skills combined with environmental awareness
 
 ## Pillar 3: Practice Service
 
