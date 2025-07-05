@@ -2,7 +2,7 @@
 
 *"Any sufficiently advanced technology is indistinguishable from magic."* - Arthur C. Clarke
 
-The monuments our ancestors left behind—Stonehenge, the Great Pyramid, Göbekli Tepe, the stone circles of Scotland—were not primitive attempts at architecture. They were sophisticated technologies operating on principles we are only beginning to understand. These structures functioned as consciousness amplifiers, energy generators, and communication networks that connected human awareness to planetary and cosmic forces.
+The monuments our ancestors left behind—Stonehenge, the Great Pyramid, Göbekli Tepe (dated to approximately 11,000 years ago, making it older than Stonehenge by some 6,000 years; Schmidt, 2006, *Smithsonian Magazine*), the stone circles of Scotland—were not primitive attempts at architecture. They were sophisticated technologies operating on principles we are only beginning to understand. These structures functioned as consciousness amplifiers, energy generators, and communication networks that connected human awareness to planetary and cosmic forces.
 
 Our materialist paradigm has blinded us to the possibility that ancient civilizations possessed technologies that operated through different principles than our mechanical and electronic systems. We assume that because we cannot replicate their achievements with our current methods, they must have been accomplished through brute force and primitive tools. But what if the ancients understood principles of consciousness, sound, and energy that we have forgotten?
 

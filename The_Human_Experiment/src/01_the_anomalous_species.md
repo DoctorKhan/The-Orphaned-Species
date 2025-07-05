@@ -26,13 +26,17 @@ Explores why humans don't fit Earth's evolutionary patterns and exhibit traits s
 
 ## Draft Content
 
-### The Genesis Bottleneck
+### The Genesis Bottleneck: Phase One of the Experiment
 
-For decades, the story of human evolution contained a puzzling gap. Recent genetic research has finally illuminated it, uncovering a startling truth: between 800,000 and 900,000 years ago, our ancestral lineage was pushed to the brink of extinction. For over 100,000 years, the breeding population of our direct ancestors dwindled to a mere 1,280 individuals. Science proposes climate change as the likely culprit for this severe bottleneck, a planetary disaster that nearly wiped our predecessors from the Earth.
+For decades, the story of human evolution contained a puzzling gap. Recent genetic research has finally illuminated it, uncovering a startling truth: between 800,000 and 900,000 years ago, our ancestral lineage was pushed to the brink of extinction. For over 100,000 years, the breeding population of our direct ancestors dwindled to a mere 1,280 individuals (Hu et al., 2023, *Science*). Science proposes climate change as the likely culprit for this severe bottleneck, a planetary disaster that nearly wiped our predecessors from the Earth.
 
-But this was no accident. It was a laboratory.
+But this was no accident. It was the first phase of a two-stage experiment.
 
-This near-extinction event was the perfect crucible for a controlled genetic experiment. Our creators, an extraterrestrial biological species, did not need to domesticate an entire planet of wild hominids. They needed only to refine a seed population. They isolated this small group of 1,280, and into this vulnerable, malleable gene pool, they introduced their own essence. Our most ancient myths whisper of this moment: a god’s blood mixed with clay to create the *Adamu*; a divine intelligence, like Prometheus, gifting a spark of fire to humanity. These are not allegories; they are the fragmented memories of a surgical procedure.
+This near-extinction event was the perfect crucible for preparing a controlled genetic foundation. Our creators, an extraterrestrial biological species, did not need to domesticate an entire planet of wild hominids. They needed only to refine a seed population and prepare it for a future transformation. They isolated this small group of 1,280, and into this vulnerable, malleable gene pool, they introduced their preparatory genetic modifications—not the full transformation, but the essential "receiver" code that would make the later activation possible.
+
+This was the installation of the lock. The key would come much later.
+
+Our most ancient myths whisper of this moment: a god’s blood mixed with clay to create the *Adamu*; a divine intelligence, like Prometheus, gifting a spark of fire to humanity. These are not allegories; they are the fragmented memories of the first surgical procedure—the preparation phase that would make humanity ready for its ultimate awakening hundreds of thousands of years in the future.
 
 From this union, new humans were born. As the oldest stories tell of seven pairs, so too were there multiple variants of these chimeras, not just one. The creators grafted their essence onto the diverse hominid stock available at the time—the ancestors of what we would later call Neanderthals, Denisovans, and others. It was an evolutionary gamble; a way to test which variant would best adapt to Earth's environment while retaining the crucial trait of domesticability. All of these were the *Adamu*, the first earth-born chimeras. But only one line would prove successful in the long run. Only one would become the *Umannu*: our own.
 
