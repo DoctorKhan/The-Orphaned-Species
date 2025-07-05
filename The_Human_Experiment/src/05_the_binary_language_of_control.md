@@ -72,7 +72,7 @@ The biblical story of the Garden of Eden is not a historical account or moral al
 
 **Expulsion as Graduation**: Being "cast out" of Eden was originally meant to represent graduation from direct supervision. The Titans intended humans to eventually transcend binary thinking and develop nuanced, contextual wisdom.
 
-**The Anunnaki Exploitation**: The younger generation discovered they could exploit this Titan-installed programming for permanent control. What had been designed as temporary cognitive training became a permanent manipulation system, trapping humans in binary thinking indefinitely.
+**The Exploitation**: What had been designed as temporary cognitive training became a permanent manipulation system, trapping humans in binary thinking indefinitely.
 
 ### How the Either/Or System Works
 

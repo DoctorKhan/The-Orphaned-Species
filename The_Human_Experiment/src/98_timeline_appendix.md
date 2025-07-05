@@ -4,23 +4,9 @@
 
 This timeline synthesizes the mythological framework presented throughout this book, organizing the key events and transitions that shaped human consciousness and civilization. Within this functional mythology, these represent the major phases of an ongoing experiment in consciousness modification and social control.
 
-## The Two Generations: Understanding the Players
+## Timeline Overview
 
-### The Older Generation (Titans)
-**Tiamat**: Primordial goddess of chaos and the sea, representing the foundational consciousness that initiated planetary seeding
-**Abzu**: God of fresh water, Tiamat's consort, representing the life-giving potential introduced to Earth
-**Lahmu and Lahamu**: First generation born from primordial union, representing the consolidation of basic life forms
-**Anshar and Kishar**: The horizon-holders, establishing cosmic order and stable conditions for long-term experimentation
-
-*Philosophy*: Patient, evolutionary approach designed to eventually produce independent conscious beings. Operated on geological timescales with sophisticated programming intended to become obsolete as humans developed their own wisdom.
-
-### The Younger Generation (Anunnaki)
-**Anu (An)**: Sky god representing hierarchical, authoritarian control rather than gradual development
-**Enlil**: Storm god preferring direct control through fear and force rather than subtle programming
-**Marduk**: Systems manager who systematized control mechanisms and defeated the older generation's approach
-**Enki (Ea)**: Bridge figure - technically Anunnaki but retained Titan philosophy of human development
-
-*Philosophy*: Direct, systematic control designed for permanent domestication. Preferred obvious displays of power and rigid hierarchical management systems.
+The following timeline traces the major phases of human development within this mythological framework, from initial genetic preparation through the current evolutionary choice point.
 
 ## Phase I: Primordial Seeding (Millions of Years Ago)
 
