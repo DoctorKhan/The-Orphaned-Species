@@ -10,7 +10,23 @@ Traditional religious narratives, while containing profound wisdom, were crafted
 
 Meanwhile, the materialist scientific worldview, while powerful in its domain, offers no meaning, purpose, or guidance for human existence. It can tell us how the universe works but not why it matters or what we should do with our brief time in it. Science describes mechanisms but provides no mythology.
 
-This leaves modern humanity in a peculiar position: too scientifically informed to fully embrace ancient mythologies, yet too spiritually hungry to accept a purely mechanistic universe. We need new stories—narratives that honor both our scientific understanding and our deep need for meaning.
+This leaves modern humanity in a peculiar position: too scientifically informed to fully embrace ancient mythologies, yet too spiritually hungry to accept a purely mechanistic universe. We need new stories—narratives that honor both our scientific understanding and our deep need for meaning. This framework is offered as such a story. It is a functional mythology, designed not as a scientific theory to be proven or disproven, but as a consciousness technology in its own right—a tool for understanding our place in the cosmos.
+
+### The Method: Functional Mythology, Not Scientific Theory
+
+This book does not present a falsifiable scientific hypothesis. Rather, it creates a functional mythology that integrates modern scientific discoveries with the deep patterns of ancient wisdom. The goal is not to prove that these events literally happened, but to construct a coherent narrative that provides meaning, purpose, and a framework for navigating our current evolutionary challenges.
+
+#### The Complexity Paradox: When Simple Explanations Aren't Better
+
+Critics will rightly point out that this framework is unnecessarily complex. But this criticism reveals a fundamental misunderstanding of how explanatory power works. The question isn’t whether an explanation is simple, but whether it’s coherent and useful. Science itself embraces complexity when it provides better explanatory power—quantum mechanics is vastly more complex than classical physics, yet we accept it because it explains phenomena that simpler models cannot.
+
+Similarly, this framework’s complexity allows it to integrate and explain patterns across genetics, archaeology, mythology, and consciousness studies that simpler explanations leave fragmented. It is a tool for synthesis, designed to create a comprehensive mythology that functions as a consciousness technology for navigating modern existence.
+
+#### The Evidence Question: Synthesis, Not Selection
+
+A related criticism is that this framework selectively uses evidence while ignoring contradictory data—that it "cherry-picks." This misunderstands the methodology. The framework distinguishes between evolutionary changes that create entirely new functional capabilities versus those that simply optimize existing parameters for environmental conditions. It focuses on functional innovations—the emergence of capacities like enhanced consciousness, language, and abstract reasoning, represented by anomalies like the HAR1 gene's accelerated evolution.
+
+Rather than cherry-picking, this framework attempts to integrate evidence that conventional evolutionary theory struggles to explain coherently—the speed of brain development, the precision of genetic modifications, and the cultural memories preserved across unconnected civilizations. The goal is synthesis and explanatory power, not empirical proof in the traditional scientific sense.
 
 ## The Inuit Approach: Stories That Convey Truth
 
