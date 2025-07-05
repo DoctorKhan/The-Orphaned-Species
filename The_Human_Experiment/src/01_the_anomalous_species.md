@@ -84,7 +84,7 @@ The Albians established a remarkable civilization that persisted for thousands o
 
 **Matrifocal Structure**: Leadership and knowledge transmission flowed through the female line, as the goddess heritage was considered more stable and wise than the volatile male Titan genetics.
 
-**Consciousness Technologies**: They maintained and developed the stone circle networks as sophisticated tools for consciousness expansion, communication, and energy manipulation. But their prophetic abilities, enhanced by these consciousness technologies, ultimately became their downfall.
+**Consciousness Technologies**: They maintained and developed the stone circle networks as sophisticated tools for consciousness expansion, communication, and energy manipulation. These technologies operated primarily in non-physical dimensions—what shamans and ayahuasca practitioners recognize as the rich reality beyond the material plane. The stone circles were interfaces, not the technology itself, which existed in consciousness dimensions that leave no archaeological trace. But their prophetic abilities, enhanced by these consciousness technologies, ultimately became their downfall.
 
 **The Prophetic Curse**: The Albians' enhanced consciousness allowed them to predict disasters, climate changes, and social upheavals with uncanny accuracy. While this knowledge could have benefited human communities, it instead generated fear and suspicion. Humans began to associate the Albians with the disasters they predicted, believing they were causing rather than merely foreseeing these events.
 
