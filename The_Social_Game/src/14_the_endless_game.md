@@ -222,17 +222,7 @@ The challenges we face—social atomization, economic exploitation, political ma
 What matters is not whether we follow the rules of current systems, but **how we participate in creating better systems**—social arrangements that support human development, authentic community, and ecological sustainability.
 
 **The Quality of Social Participation:**
-The ultimate measure of our social contribution isn't based on:
-- Whether we followed current social rules
-- How successful we were within existing systems
-- Whether we achieved individual wealth or status
-- How well we adapted to dysfunctional arrangements
-
-Instead, it's based on:
-- **How consciously we participated** in social transformation
-- **Whether we built alternatives** or just criticized existing systems
-- **The quality of community** we helped create
-- **How skillfully we balanced** individual development with collective responsibility
+The ultimate measure of our social contribution is how consciously we participated in social transformation, whether we built alternatives rather than just criticized existing systems, and how skillfully we balanced individual development with collective responsibility.
 
 **What We Leave Behind:**
 When our individual lives end, what remains is the social infrastructure we helped build. Did we create institutions that serve future generations? Did we develop community resilience? Did we model better ways of organizing collective life?
