@@ -140,6 +140,18 @@ The algorithmic amplification of emotionally intense but false claims led to:
 **The Pattern:**
 This shows how algorithms designed to maximize engagement inevitably amplify the most emotionally intense content, regardless of its relationship to reality.
 
+### Academic Research on Algorithmic Manipulation
+
+**Zeynep Tufekci, "YouTube, the Great Radicalizer" (2018)**: Research showing how YouTube's recommendation algorithm systematically leads users toward increasingly extreme content to maximize watch time.
+
+**Soroush Vosoughi et al., "The Spread of True and False News Online" (2018)**: MIT study of 126,000 news stories showing that false information spreads six times faster than true information on social media platforms.
+
+**Jonathan Haidt and Tobias Rose-Stockwell, "The Dark Psychology of Social Networks" (2019)**: Analysis of how social media platforms exploit psychological vulnerabilities to maximize engagement, often at the cost of truth and social cohesion.
+
+**Cathy O'Neil, "Weapons of Math Destruction" (2016)**: Documents how algorithms systematically discriminate and manipulate, often reinforcing existing inequalities while appearing neutral.
+
+**Shoshana Zuboff, "The Age of Surveillance Capitalism" (2019)**: Comprehensive analysis of how tech companies extract behavioral data to predict and modify human behavior for profit.
+
 ## The Destruction of Social Mentorship
 
 **Traditional Mentorship Involved:**

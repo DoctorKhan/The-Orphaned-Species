@@ -28,6 +28,18 @@ Science is not a collection of facts, a set of beliefs, or an institutional auth
 
 Modern "science" has been systematically captured by institutions that use scientific language to advance non-scientific agendas:
 
+### Research on Scientific Corruption
+
+**John Ioannidis, "Why Most Published Research Findings Are False" (2005)**: Stanford meta-analysis showing that the majority of published research findings are false due to bias, small sample sizes, and financial conflicts of interest.
+
+**Ben Goldacre, "Bad Pharma" (2012)**: Comprehensive documentation of how pharmaceutical companies manipulate research, suppress negative results, and corrupt the scientific process for profit.
+
+**Naomi Oreskes and Erik Conway, "Merchants of Doubt" (2010)**: Historical analysis of how industries systematically corrupt science to create false controversies around tobacco, climate change, and other issues.
+
+**Marcia Angell, "The Truth About the Drug Companies" (2004)**: Former New England Journal of Medicine editor's exposé of pharmaceutical industry corruption of medical research and practice.
+
+**Sheldon Krimsky, "Science in the Private Interest" (2003)**: Analysis of how corporate funding systematically biases scientific research and undermines public trust in scientific institutions.
+
 ### Corporate Science
 
 **Pharmaceutical Companies**: Fund studies designed to show their products work while suppressing studies that show they don't. The same company that profits from a drug funds the research that "proves" its safety and efficacy.

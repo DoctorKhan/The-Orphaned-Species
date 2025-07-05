@@ -20,6 +20,20 @@ Traditional rites of passage weren't arbitrary cultural rituals—they were soph
 
 **Connection to Lineage**: Participants are connected to the wisdom and traditions of their ancestors, creating a sense of belonging to something larger than themselves.
 
+### Anthropological Research on Rites of Passage
+
+**Arnold van Gennep, "The Rites of Passage" (1909)**: Foundational anthropological work identifying the universal three-stage structure of initiation: separation, transition, and reincorporation found across all human cultures.
+
+**Victor Turner, "The Ritual Process" (1969)**: Analysis of how rites of passage create "liminality"—a threshold state that enables psychological and social transformation through temporary dissolution of normal social structures.
+
+**Joseph Campbell, "The Hero with a Thousand Faces" (1949)**: Cross-cultural analysis showing how initiation narratives appear in virtually all human societies, suggesting deep psychological and social necessity for transformative passage experiences.
+
+**Richard Rohr, "Adam's Return" (2004)**: Contemporary analysis of how the absence of male initiation rites contributes to extended adolescence, lack of purpose, and social dysfunction in modern society.
+
+**Mircea Eliade, "Rites and Symbols of Initiation" (1958)**: Comparative study of initiation practices across cultures, showing their essential role in creating mature, responsible community members capable of contributing to society.
+
+**Robert Moore and Douglas Gillette, "King, Warrior, Magician, Lover" (1990)**: Jungian analysis of masculine archetypes and how traditional initiation helped men access mature masculine energy rather than remaining trapped in adolescent patterns.
+
 ## The Modern Substitute: Credentialism
 
 Without genuine rites of passage, modern society has created pale substitutes that provide some of the psychological benefits but lack the transformative power:
