@@ -133,6 +133,8 @@ While much of this discussion has focused on male development (because men face 
 
 **Universal Application**: These same principles work for women, though the specific challenges and applications may differ. Women might focus more on developing assertiveness and boundary-setting skills, while men might focus more on emotional intelligence and vulnerability. Women might find service opportunities in community organizing or healing arts, while men might gravitate toward mentorship or physical protection roles. The four pillars—presence, skills, service, and emotional intelligence—create upward spirals regardless of gender, though the specific expressions will vary based on individual interests and community needs.
 
+**Why Men May Need More Intentional Development**: Women have natural rites of passage built into their biology—menarche, childbirth, menopause—that automatically create transitions, embodied wisdom, and opportunities for growth. Men lack these biological markers, making their development more dependent on conscious intention and social support. This explains why the loss of traditional male initiation has been particularly devastating, and why men may benefit from more structured approaches to personal development and community integration.
+
 ### Universal Challenges in Modern Society
 
 **The problem many people face isn't lack of potential—it's being trapped in broken systems that create downward spirals:**
