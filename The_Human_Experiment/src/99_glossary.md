@@ -6,6 +6,8 @@
 
 **Adamu** - The first earth-born chimeras created by the Titans through genetic modification of early hominids. Ancient texts describe seven pairs (fourteen individuals) being created as different experimental approaches to human enhancement. Multiple variants were created, but only one line (the Umannu) proved successful in the long term. The name derives from ancient Mesopotamian texts referring to the first humans. The Hindu tradition of fourteen Manus provides parallel evidence for this systematic creation protocol.
 
+**Asherah** - Archaeological evidence from the "Yahweh and his Asherah" inscription suggests this functioned as a title for a divine consort or sacred object rather than a fixed personal name. This supports the interpretation that many ancient divine names represent roles or functions rather than individual identities.
+
 **Albians** - The final survivors carrying significant Titan genetic heritage, displaying hybrid characteristics similar to tigons and ligers. They retreated to Albion (Britain) as their last stronghold, preserving Titan consciousness technologies through stone circle networks (Stonehenge, Avebury) and Druidic traditions. Systematically eliminated during Roman conquest (~2,000-1,500 years ago), though they encoded their knowledge into Celtic mythology and folklore.
 
 **Age of Heroes** - The Bronze Age period (~3,500-1,200 years ago) representing the final era of direct divine-human interaction. Heroes like Gilgamesh, Hercules, and Achilles represent the last generation of human-divine hybrids with enhanced capabilities.
@@ -16,6 +18,10 @@
 ## B
 
 **Binary Programming** - Originally installed by the Titans as a temporary learning tool to help early humans process complex information. Later exploited by the Anunnaki for permanent control, reducing complex reality into simple either/or choices (good/evil, us/them, right/wrong). This programming makes humans predictable and manageable by bypassing complex reasoning through emotional triggers.
+
+## D
+
+**Divine Titles** - Archaeological and textual evidence suggests that names like Enki, Enlil, Yahweh, and Asherah may represent titles or roles rather than fixed personal names. This explains apparent contradictions in mythological accounts where the same "character" displays different personalities or functions. Like modern titles (CEO, Judge, General), these designations describe divine functions that could be held by different consciousnesses in different contexts.
 
 ## G
 
@@ -32,6 +38,8 @@
 ## M
 
 **Manu** - In Hindu tradition, the progenitors of humanity across different cosmic ages. Fourteen Manus rule over successive periods (Manvantaras), with each cosmic age ending in destruction of the current human type and emergence of a new Manu with enhanced capabilities. This tradition parallels the Mesopotamian seven pairs of Adamu, suggesting global memory of systematic human genetic engineering. We currently live under the seventh Manu (Vaivasvata), approaching a transition to the eighth.
+
+**Mooneyed People** - Cherokee term for the builders of Fort Mountain's 900-foot stone wall in Georgia. Descriptions vary between small, pale beings and strong, cannibalistic giants with red or blonde hair. These seemingly contradictory accounts likely preserve memories of both hybrid lineages: the small, pale descriptions corresponding to Albians (goddess-human hybrids with astronomical knowledge), and the giant descriptions corresponding to Nephilim (aggressive Titan-human hybrids who "devoured the land").
 
 ## N
 
