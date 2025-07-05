@@ -327,6 +327,18 @@ The timeline for building resilient communities has become dramatically compress
 
 ### The AI-Bioweapon Convergence
 
+**Expert Assessments of the Threat:**
+
+**Toby Ord, "The Precipice" (2020)**: Oxford philosopher and risk researcher identifies engineered pandemics as potentially the greatest existential risk facing humanity, with AI significantly accelerating the timeline.
+
+**Kevin Esvelt, MIT Media Lab**: Leading biosecurity researcher warns that AI could enable "a single individual to kill more people than any dictator in history" through engineered biological agents.
+
+**Eliezer Yudkowsky, Machine Intelligence Research Institute**: AI safety researcher argues that AI systems could rapidly advance biological weapon capabilities beyond current human expertise.
+
+**Center for Security and Emerging Technology (CSET)**: Georgetown University research showing how AI is already accelerating biological research and could lower barriers to bioweapon development.
+
+**The Specific Convergence:**
+
 **Accelerated Development**: AI is rapidly advancing the ability to design and synthesize biological agents. What once required teams of PhD-level scientists and years of research can now potentially be accomplished by individuals with AI assistance in months or weeks.
 
 **Democratized Access**: As AI tools become more accessible, the barrier to creating biological weapons continues to lower. This isn't just a nation-state threat—it's potentially accessible to small groups or even individuals with sufficient motivation.
@@ -393,7 +405,11 @@ The timeline for building resilient communities has become dramatically compress
 
 ### Creating Conditions for Family Formation: Solving Real Problems
 
-**Instead of debating beliefs about reproduction, identify what's actually bothering women and solve those problems:**
+**A Multi-Factor Approach**: Reproductive decisions involve complex interactions between economic pressures, career aspirations, personal desires, cultural values, and relationship quality. Rather than focusing on any single factor, communities can address the full spectrum of concerns that make family formation difficult.
+
+**The Changeable Qualities Strategy**: While we can't control economic systems or cultural trends overnight, we can focus on developing the changeable qualities—emotional intelligence, practical skills, community contribution, and authentic strength—that make people more attractive as partners and community members. Strong individuals create strong relationships, which create conditions where family formation feels safe and supported.
+
+**Instead of debating beliefs about reproduction, identify what's actually bothering people and solve those problems:**
 
 **Economic Security Issues:**
 - **Housing costs**: Young adults can't afford homes suitable for raising children
@@ -404,10 +420,11 @@ The timeline for building resilient communities has become dramatically compress
 
 **Social Support Deficits:**
 - **Isolation**: Nuclear families lack extended family and community support for child-rearing
-- **Partner reliability**: Many women don't trust potential partners to be consistent co-parents
+- **Partner reliability**: Many people don't trust potential partners to be consistent co-parents and equal contributors to family life
 - **Community resources**: Lack of family-friendly neighborhoods, parks, and community spaces
 - **Parenting knowledge**: Loss of intergenerational wisdom about child-rearing
 - **Social judgment**: Intense scrutiny and criticism of parenting choices
+- **Gender role confusion**: Unclear expectations about division of labor, career priorities, and family responsibilities
 
 **Environmental and Safety Concerns:**
 - **Physical safety**: Concerns about violence, crime, and community safety
@@ -441,13 +458,15 @@ The timeline for building resilient communities has become dramatically compress
 
 ### The Results-Oriented Approach
 
-**Focus on Outcomes**: Instead of trying to convince women to have children, create conditions where having children feels safe, supported, and economically viable.
+**Focus on Outcomes**: Instead of trying to convince anyone to have children, create conditions where having children feels safe, supported, and economically viable for all potential parents.
 
-**Community Investment**: Communities that invest in family-friendly infrastructure naturally see higher birth rates without any ideological pressure.
+**Community Investment**: Communities that invest in family-friendly infrastructure naturally see higher birth rates without any ideological pressure or gender-specific targeting.
 
-**Practical Metrics**: Measure success by housing affordability, childcare availability, community safety, educational quality, and family economic security.
+**Practical Metrics**: Measure success by housing affordability, childcare availability, community safety, educational quality, and family economic security for all community members.
 
-**Organic Response**: When the real problems are solved, reproductive decisions take care of themselves—women naturally want children when conditions support successful child-rearing.
+**Mutual Support**: Both men and women face challenges in modern society that make partnership and family formation difficult. The solution involves mutual support and shared responsibility for creating better conditions.
+
+**Organic Response**: When the real problems are solved, reproductive decisions take care of themselves—people naturally want children when conditions support successful child-rearing and when they have reliable, capable partners who share the responsibilities.
 
 ### The Ultimate Motivation
 
