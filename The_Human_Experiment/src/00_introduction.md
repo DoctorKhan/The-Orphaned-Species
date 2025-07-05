@@ -91,6 +91,6 @@ Following the Inuit wisdom, approach these stories with the understanding that *
 
 ## The Invitation
 
-What follows is not dogma but functional mythology—a consciousness technology designed to shape how we understand human existence and our cosmic role. Whether you approach this as literal history, symbolic truth, or speculative framework, the goal remains the same: to provide a coherent story that can guide humanity through the challenges and opportunities ahead.
+What follows is not dogma but a consciousness technology designed to shape how we understand human existence and our cosmic role. Whether you approach this as literal history, symbolic truth, or speculative framework, the goal remains the same: to provide a coherent story that can guide humanity through the challenges and opportunities ahead.
 
 We are not random accidents in a meaningless universe. We are an experiment in consciousness—a cosmic project with specific purpose and tremendous potential. This is our new mythology. This is the story of the human experiment.

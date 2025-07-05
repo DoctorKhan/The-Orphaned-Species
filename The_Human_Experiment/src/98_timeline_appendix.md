@@ -10,13 +10,19 @@ The following timeline traces the major phases of human development within this 
 
 ## Phase I: Primordial Seeding (Millions of Years Ago)
 
+*The Long Foundation: Setting the Stage for Consciousness*
+
 **The Foundation**: Tiamat and Abzu initiate the seeding of Earth through directed panspermia - not random cosmic accident but deliberate interplanetary agriculture. Comets and asteroids carrying purpose-built gigaviruses impact Earth, introducing basic genetic "receivers" into the terrestrial biosphere.
 
 **The Spread**: These genetic receivers weave themselves into the fabric of life, from microbes to megafauna, creating a planetary-scale genetic infrastructure that would remain dormant for millions of years, waiting for the right host species to emerge.
 
 **The Patience**: This phase demonstrates the Titan approach - operating on geological timescales, seeding potential across vast periods, creating foundations for experiments that would unfold over millions of years.
 
+*Key Insight: This phase establishes the genetic foundation that would make all subsequent human development possible.*
+
 ## Phase II: Genesis Bottleneck (800,000-900,000 Years Ago)
+
+*The Great Refinement: Preparing the Chosen Lineage*
 
 **The Selection**: From the vast population of early hominids carrying the primordial receiver code, the Titans identify and isolate the most promising genetic line. The near-extinction event reduces the population to approximately 1,000-1,280 individuals - not random catastrophe but surgical precision.
 
@@ -29,6 +35,8 @@ The following timeline traces the major phases of human development within this 
 **The Lock System**: This represents the installation of complex genetic "locks" that would define human potential, waiting for future "keys" to activate dormant capabilities.
 
 **Temporal Advantage**: The Titans' mastery of time - whether through near-light speed travel or other temporal technologies - allows them to execute plans across geological ages while experiencing minimal subjective time.
+
+*Key Insight: This bottleneck creates the specific genetic foundation that makes modern human consciousness possible, while installing both the tools and limitations that would shape our development.*
 
 ## Phase III: The Activation (70,000 Years Ago)
 

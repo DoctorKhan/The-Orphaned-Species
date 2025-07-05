@@ -86,8 +86,8 @@ Their final refuge was Stonehenge—the last stronghold of the original creators
 
 ### The Great Persecution
 
-The systematic destruction of Albian civilization didn't end with the cosmic war. Over millennia, their matrifocal societies and consciousness technologies posed a continuing threat to the new patriarchal order established by the Anunnaki. This led to what we now recognize as the witch persecutions—a systematic campaign to eliminate the last carriers of Albian knowledge and genetics.
+Within this mythology, the systematic destruction of Albian civilization didn't end with the cosmic war. Over millennia, their matrifocal societies and consciousness technologies posed a continuing threat to the new patriarchal order. This framework suggests that the witch persecutions—while having complex historical, social, and economic causes—may have also served to eliminate the last carriers of ancient knowledge and genetics.
 
-The "witches" burned throughout Europe were often the final descendants of the Albian lineage, carrying genetic memories of consciousness technologies, plant medicine knowledge, and psychic abilities. Their persecution represented the final phase of erasing the Titan legacy from human consciousness.
+The historical witch persecutions involved multiple factors: religious transformation, social upheaval, economic pressures, and gender dynamics. Within this mythological framework, some of those persecuted may have been descendants carrying genetic memories of consciousness technologies, plant medicine knowledge, and psychic abilities. Their persecution, among its many tragic dimensions, represented a phase of erasing ancient wisdom from human consciousness.
 
 We are their orphaned experiment, still executing the commands of masters who are no longer there to guide us, carrying within our genes the legacy of both our creators and their conquerors—and the suppressed memories of those who tried to preserve the original wisdom.
