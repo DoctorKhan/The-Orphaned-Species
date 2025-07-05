@@ -4,7 +4,7 @@
 
 **Abraham's Covenant** - The establishment of monotheistic covenant system around 4,000 years ago as a sophisticated evolution of control technology. Replaced polytheistic confusion with single authority, created chosen people concept, and introduced moral law as internalized control mechanism.
 
-**Adamu** - The first earth-born chimeras created by the Titans through genetic modification of early hominids. Multiple variants were created, but only one line (the Umannu) proved successful in the long term. The name derives from ancient Mesopotamian texts referring to the first humans.
+**Adamu** - The first earth-born chimeras created by the Titans through genetic modification of early hominids. Ancient texts describe seven pairs (fourteen individuals) being created as different experimental approaches to human enhancement. Multiple variants were created, but only one line (the Umannu) proved successful in the long term. The name derives from ancient Mesopotamian texts referring to the first humans. The Hindu tradition of fourteen Manus provides parallel evidence for this systematic creation protocol.
 
 **Albians** - The final survivors carrying significant Titan genetic heritage, displaying hybrid characteristics similar to tigons and ligers. They retreated to Albion (Britain) as their last stronghold, preserving Titan consciousness technologies through stone circle networks (Stonehenge, Avebury) and Druidic traditions. Systematically eliminated during Roman conquest (~2,000-1,500 years ago), though they encoded their knowledge into Celtic mythology and folklore.
 
@@ -28,6 +28,10 @@
 **HAR1 (Human Accelerated Region 1)** - A regulatory RNA gene expressed in neurons of the developing human neocortex that shows accelerated evolution in the human lineage. In this mythology, HAR1 represents one of the key genetic switches activated during Phase III of the experiment.
 
 **Hybrid Genetics** - The Nephilim displayed characteristics similar to tigons and ligers in modern big cat breeding: first-generation hybrid vigor with enhanced capabilities, followed by genetic instability and fertility issues in later generations. This required systematic breeding programs to maintain hybrid lines, contributing to the 17:1 reproductive bottleneck.
+
+## M
+
+**Manu** - In Hindu tradition, the progenitors of humanity across different cosmic ages. Fourteen Manus rule over successive periods (Manvantaras), with each cosmic age ending in destruction of the current human type and emergence of a new Manu with enhanced capabilities. This tradition parallels the Mesopotamian seven pairs of Adamu, suggesting global memory of systematic human genetic engineering. We currently live under the seventh Manu (Vaivasvata), approaching a transition to the eighth.
 
 ## N
 
