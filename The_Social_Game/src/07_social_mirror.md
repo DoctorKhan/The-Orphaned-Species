@@ -1,4 +1,4 @@
-# Chapter 8
+# Chapter 3
 # The Social Mirror
 
 The job interview begins before she even enters the building. In the elevator, she adjusts her posture, softens her expression, and mentally rehearses the version of herself she's about to perform. The ambitious but not threatening professional. The team player who also shows initiative. The confident candidate who remains appropriately humble.

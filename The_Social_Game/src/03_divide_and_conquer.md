@@ -360,6 +360,20 @@ Before dismissing divide-and-conquer tactics as "conspiracy theories," it's esse
 
 **Think Tanks and Policy Schools**: Develop strategies for maintaining geopolitical advantage through alliance management and opponent division.
 
+### Contemporary Academic Research
+
+**Robert Putnam, "Bowling Alone" (2000)**: Documents the systematic decline of American social capital from 1950-2000, showing how the erosion of community organizations weakens collective political power and makes populations more susceptible to manipulation.
+
+**Matthew Desmond, "Evicted" (2016)**: Demonstrates how housing insecurity and economic precarity prevent community formation and political organization among low-income populations, creating conditions that benefit elite interests.
+
+**Nancy MacLean, "Democracy in Chains" (2017)**: Documents how wealthy donors like the Koch brothers deliberately funded think tanks, academic programs, and political movements to promote individualism and undermine collective action.
+
+**Jane McAlevey, "No Shortcuts" (2016)**: Analyzes how corporate union-busting strategies systematically divide workers by skill level, employment status, and demographics to prevent unified labor action.
+
+**Naomi Klein, "The Shock Doctrine" (2007)**: Shows how economic and political elites exploit crises to implement policies that would be rejected under normal circumstances, often by redirecting public attention toward cultural conflicts.
+
+**Thomas Frank, "What's the Matter with Kansas?" (2004)**: Documents how cultural wedge issues are used to mobilize working-class voters against their own economic interests, preventing class-based political coalitions.
+
 ### Why This Matters for Analysis
 
 **Not Conspiracy Theory**: When we observe divide-and-conquer tactics in modern politics, we're not identifying secret conspiracies—we're recognizing the application of well-documented strategic principles.

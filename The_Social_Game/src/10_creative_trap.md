@@ -1,4 +1,4 @@
-# Chapter 10
+# Chapter 8
 # The Creative Trap
 
 The artist sits in her studio at 3 AM, paint-stained fingers trembling as she adds another layer to a canvas that will never be finished. She tells herself this is sacred work, that she's channeling something divine, that the compulsion driving her through sleepless nights is the mark of true creativity. Her relationships have withered, her health has declined, but the work—the work is everything. She is an artist, after all. This is what artists do.

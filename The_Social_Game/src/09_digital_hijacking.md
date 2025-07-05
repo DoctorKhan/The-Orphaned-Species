@@ -1,4 +1,4 @@
-# Chapter 9
+# Chapter 7
 # The Digital Hijacking
 
 She reaches for her phone before her eyes are fully open. The notification light blinks urgently—seventeen new messages, forty-three likes, three friend requests, and an endless stream of updates from people she barely knows. Her thumb moves automatically, scrolling through carefully curated glimpses of other people's lives, each image and post engineered to trigger just enough envy, curiosity, or outrage to keep her engaged.
