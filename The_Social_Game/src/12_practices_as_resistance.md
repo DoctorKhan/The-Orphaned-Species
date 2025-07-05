@@ -22,25 +22,9 @@ Effective resistance to social programming operates on multiple levels simultane
 
 The key insight is that these levels reinforce each other. Personal practices enable authentic relationships, which support community building, which preserves cultural wisdom, which creates economic alternatives—all of which make the entire system more resilient to external manipulation.
 
-## Collective Practices for Social Resistance
+## Daily Practices That Undermine Programming
 
-The most effective resistance to social programming operates through collective action rather than individual effort alone. While personal awareness is important, systemic change requires coordinated community responses that create alternatives to manipulative systems.
-
-## Relational Practices: Building Authentic Connection
-
-### Family and Close Relationships
-
-**Honest Communication**: Practice saying what you actually think and feel rather than what you think others want to hear.
-
-**Conflict as Growth**: When disagreements arise, focus on understanding rather than winning. Ask: "What can this teach us about ourselves and each other?"
-
-**Shared Activities**: Engage in activities that require cooperation and create shared experiences—cooking together, working on projects, spending time in nature.
-
-**Digital Boundaries**: Create phone-free times and spaces for deeper connection.
-
-### Community Building
-
-**Local Engagement**: Attend community meetings, local events, and neighborhood gatherings. Show up consistently rather than sporadically.
+The most effective resistance to social programming operates through consistent daily practices that build immunity to manipulation while creating alternatives to extractive systems.
 
 **Skill Sharing**: Teach others skills you have and learn skills from others. This creates mutual interdependence that strengthens community bonds.
 

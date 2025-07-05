@@ -168,13 +168,7 @@ The solution isn't to return to traditional tribal practices (though we can lear
 
 ## Building Modern Ritual Communities
 
-Inspired by the Balinese model, we can create contemporary communities that provide continuous ritual support for development:
-
-**Monthly Gatherings**: Regular community meetings that combine practical business with ritual elements—opening ceremonies, gratitude practices, recognition of achievements, and collective intention-setting.
-
-**Seasonal Celebrations**: Marking solstices, equinoxes, and other natural cycles with community gatherings that connect personal development to larger rhythms.
-
-**Skill-Sharing Circles**: Regular gatherings where community members teach each other practical skills while building relationships and mutual support.
+Inspired by the Balinese model, contemporary communities can provide continuous ritual support through monthly gatherings that combine practical business with ceremony, seasonal celebrations that connect personal development to natural cycles, and skill-sharing circles that build relationships while transmitting knowledge.
 
 **Conflict Resolution Rituals**: Structured processes for addressing community tensions that emphasize restoration rather than punishment.
 
