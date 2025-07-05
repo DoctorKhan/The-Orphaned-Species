@@ -34,6 +34,8 @@ Before diving in, it helps to have a map of the territory ahead.
 
 *   **The Core Premise**: This mythology proposes that humanity is the result of a long-term consciousness experiment conducted by advanced beings across multiple phases of development. The story involves two main generations of these beings, each with different philosophies about human potential.
 
+*   **The Three Technologies**: We will explore three distinct types of "consciousness technologies" left behind by our creators: tools for species survival, frameworks for understanding our innate programming, and pathways to genuine spiritual realization. Distinguishing between these is the fundamental thesis of this book.
+
 *   **Key Concepts**: The narrative will gradually introduce key concepts like the different phases of the experiment, the two generations of "gods," the resulting human variants, the control systems they installed, and the consciousness technologies they left behind. These terms will be explained in context, and a glossary is provided for reference.
 
 ### Your Role as Reader: The Conscious Engagement
