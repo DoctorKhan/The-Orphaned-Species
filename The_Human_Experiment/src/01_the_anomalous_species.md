@@ -76,13 +76,17 @@ The Albians established a remarkable civilization that persisted for thousands o
 
 **Matrifocal Structure**: Leadership and knowledge transmission flowed through the female line, as the goddess heritage was considered more stable and wise than the volatile male Titan genetics.
 
-**Consciousness Technologies**: They maintained and developed the stone circle networks as sophisticated tools for consciousness expansion, communication, and energy manipulation.
+**Consciousness Technologies**: They maintained and developed the stone circle networks as sophisticated tools for consciousness expansion, communication, and energy manipulation. But their prophetic abilities, enhanced by these consciousness technologies, ultimately became their downfall.
+
+**The Prophetic Curse**: The Albians' enhanced consciousness allowed them to predict disasters, climate changes, and social upheavals with uncanny accuracy. While this knowledge could have benefited human communities, it instead generated fear and suspicion. Humans began to associate the Albians with the disasters they predicted, believing they were causing rather than merely foreseeing these events.
+
+**Execution at the Sacred Sites**: Ironically, the very stone circles that had been built as consciousness technologies became execution sites. Albians were brought to these sacred locations and killed for their prophetic abilities—their gift of foresight transformed into evidence of malevolent power. The stone circles, once centers of wisdom and healing, became associated with death and fear.
 
 **Genetic Awareness**: Understanding their hybrid nature, they carefully managed breeding to maintain their enhanced capabilities while avoiding the genetic instabilities that plagued the Nephilim.
 
 **Knowledge Preservation**: They became the keepers of pre-catastrophe wisdom, maintaining libraries of consciousness technologies, astronomical knowledge, and genetic understanding.
 
-Their final refuge was Stonehenge—the last stronghold of the original creators. These survivors carried forward fragments of the ancient knowledge even as they gradually merged with the human populations they had once guided.
+Their final refuge was Stonehenge—the last stronghold of the original creators. These survivors carried forward fragments of the ancient knowledge even as they gradually merged with the human populations they had once guided, always hiding their true nature to avoid the fate of their executed kin.
 
 ### The Great Persecution
 
