@@ -1,18 +1,18 @@
 # Chapter 2: The Titan's Code
 
-The story of humanity's creation is not written in stone tablets, but in the heart of our very cells. The genetic script that defines us is a document far more ancient and mysterious than any human civilization, and it tells a story of engineering so profound it has been mistaken for divinity. This was not a single act of creation, but a three-phase experiment set on a planetary stage, orchestrated by beings who operated on timescales we can barely comprehend. They were the Titans, and our DNA is their code.
+The story of humanity's creation is not written in stone tablets, but in the heart of our very cells. The genetic script that defines us is a document far more ancient and mysterious than any human civilization, and it tells a story of engineering so profound it has been mistaken for divinity. Within this framework, this was not a single act of creation, but a three-phase experiment set on a planetary stage, orchestrated by beings who operated on timescales we can barely comprehend. In this mythology, they were the Titans, and our DNA carries their code.
 
 **Phase I: The Primordial Seeding**
 
-The first step was not to create a human, but to prepare a world. Eons ago, long before the first hominid walked the plains of Africa, the Titans seeded Earth's primordial biosphere. Their delivery mechanism was panspermia—not as a random accident, but as a deliberate act of interplanetary agriculture. Comets and asteroids, laden with purpose-built gigaviruses, were directed to impact the planet. These were not viruses of disease, but of potential. They were biological vessels carrying a specific payload: a latent genetic "receiver," a sequence of code that would weave itself into the fabric of terrestrial life, from the simplest microbe to the most complex megafauna.
+The first step was not to create a human, but to prepare a world. Eons ago, long before the first hominid walked the plains of Africa, the Titans seeded Earth's primordial biosphere. Their delivery mechanism was panspermia—not as a random accident, but as a deliberate act of interplanetary agriculture. Comets and asteroids, laden with purpose-built gigaviruses, were directed to impact the planet. According to this narrative, these were not viruses of disease, but of potential. They were biological vessels carrying a specific payload: a latent genetic "receiver," a sequence of code that would weave itself into the fabric of terrestrial life, from the simplest microbe to the most complex megafauna.
 
 This code was the foundation—a basic lock waiting for future keys. It spread silently through the ecosystem for millions of years, an invisible inheritance passed down through countless generations, waiting for the right host to emerge.
 
 **Phase II: The Genesis Bottleneck (800,000-900,000 years ago)**
 
-As detailed in Chapter 1, the near-extinction of our ancestral lineage was the second phase of the experiment. From the vast population of early hominids carrying the primordial receiver code, the Titans selected and isolated the most promising genetic line—reducing it to just 1,280 individuals. This was not random catastrophe but surgical precision.
+As detailed in Chapter 1, the near-extinction of our ancestral lineage was the second phase of the experiment. From the vast population of early hominids carrying the primordial receiver code, the Titans selected and isolated the most promising genetic line—reducing it to just 1,280 individuals. The narrative suggests this was not random catastrophe but surgical precision.
 
-Into this refined gene pool, they introduced the sophisticated modifications: enhanced receiver sequences, consciousness preparation protocols, and the foundational genetic architecture that would make the final activation possible. This was the installation of the complex lock system that would define human potential.
+Into this refined gene pool, they introduced the sophisticated modifications: enhanced receiver sequences, consciousness preparation protocols, and the foundational genetic architecture that would make the final activation possible. Within this framework, this was the installation of the complex lock system that would define human potential.
 
 For the Titans, time was a tool, not a constraint. Aided by the relativistic effects of near-light speed travel or other temporal technologies, the millennia that passed on Earth were but a fleeting moment in their grand design, allowing them to execute plans across geological ages.
 
