@@ -82,7 +82,9 @@ The transition from Titan to Anunnaki control created unforeseen problems that c
 
 **The Breeding Rights Crisis**: The hybrid rulers, with their enhanced capabilities and extended lifespans, claimed breeding rights over human populations. This created a genetic bottleneck where hybrid genetics were being forced into the human gene pool through what amounted to systematic exploitation.
 
-**The Divine Response**: These human complaints reached both generations of gods, creating a crisis that would ultimately lead to the flood narrative—an attempt to reset the experiment when it became clear that the control systems were creating oppression rather than development.
+**The Great Reproductive Bottleneck**: Genetic evidence reveals that between 8,000-5,000 years ago, only 1 man successfully reproduced for every 17 women who bore children. This represents the most severe reproductive bottleneck in human history and suggests systematic elimination of competing male lineages by the hybrid ruling class.
+
+**The Divine Response**: These human complaints reached both generations of gods, creating a crisis that would contribute to the violent transition marked by the Younger Dryas impact. The later biblical flood narratives preserve memories of both this cosmic catastrophe and the subsequent Bronze Age collapse (4.2 kya climate event), conflating two separate attempts to reset human civilization when control systems failed.
 
 ### Humbaba: The Forest Father's Tragedy
 

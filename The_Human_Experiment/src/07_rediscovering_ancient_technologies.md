@@ -2,9 +2,9 @@
 
 *"Any sufficiently advanced technology is indistinguishable from magic."* - Arthur C. Clarke
 
-The monuments our ancestors left behind—Stonehenge, the Great Pyramid, Göbekli Tepe (dated to approximately 11,000 years ago, making it older than Stonehenge by some 6,000 years; Schmidt, 2006, *Smithsonian Magazine*), the stone circles of Scotland—were not primitive attempts at architecture. They were sophisticated consciousness technologies operating on principles we are only beginning to understand. These structures functioned as consciousness amplifiers, energy generators, and communication networks that connected human awareness to planetary and cosmic forces.
+The monuments our ancestors left behind tell a complex story of competing consciousness technologies across different eras. Göbekli Tepe (11,600 years ago) represents the first major construction under Anunnaki management—a memorial to their victory over the Titans and a template for organized labor under centralized control. Later structures like Stonehenge, the Great Pyramid, and the stone circles of Scotland represent different approaches to consciousness technology, some preserving Titan-era knowledge, others implementing Anunnaki control systems.
 
-But the story of these monuments is also a story of systematic destruction—a campaign to eliminate the consciousness technologies that could reconnect humanity with its true potential.
+But the story of these monuments is also a story of systematic destruction—a campaign to eliminate the consciousness technologies that could reconnect humanity with its true potential and restore the older Titan approach to consciousness development.
 
 ## The Sintashta: Destroyers of the Ancient Network
 

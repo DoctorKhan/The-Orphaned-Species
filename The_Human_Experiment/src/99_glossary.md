@@ -6,13 +6,13 @@
 
 **Albians** - The final survivors of the original Titans who retreated to stone circle sites across Europe, eventually making their last stand at Stonehenge. They interbred with human populations over generations, carrying forward fragments of ancient knowledge while their bloodlines became increasingly diluted.
 
-**Anunnaki** - The conqueror species that overthrew the Titans during the cosmic war approximately 12,800 years ago (Younger Dryas period). Unlike the Titans who were biological entities, the Anunnaki represent a different faction with their own agenda for humanity.
+**Anunnaki** - The younger generation of beings (Anu, Enlil, Marduk) who overthrew the older Titan generation during the cosmic war marked by the Younger Dryas impact (12,900 years ago). They represented a different philosophy - preferring direct, systematic control over the Titans' patient, evolutionary approach to human development.
 
 **Apkallu** - Ancient Mesopotamian term for the "seven sages" or divine beings who brought civilization to humanity. In this framework, they represent the Titan overseers who managed human development during the Domestication Period.
 
 ## B
 
-**Binary Programming** - The fundamental control mechanism installed in human consciousness that reduces complex reality into simple either/or choices (good/evil, us/them, right/wrong). This programming makes humans predictable and manageable by bypassing complex reasoning through emotional triggers.
+**Binary Programming** - Originally installed by the Titans as a temporary learning tool to help early humans process complex information. Later exploited by the Anunnaki for permanent control, reducing complex reality into simple either/or choices (good/evil, us/them, right/wrong). This programming makes humans predictable and manageable by bypassing complex reasoning through emotional triggers.
 
 ## G
 
