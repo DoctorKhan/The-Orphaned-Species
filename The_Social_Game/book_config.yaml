@@ -48,8 +48,11 @@ structure:
   - file: "15_cultural_preservation_and_creation.md"
     title: "Chapter 11: Cultural Preservation and Creation"
     type: "chapter"
+  - file: "16_practical_implementation_guide.md"
+    title: "Chapter 12: Practical Implementation Guide"
+    type: "chapter"
   - file: "14_the_endless_game.md"
-    title: "Chapter 12: The Endless Game"
+    title: "Chapter 13: The Endless Game"
     type: "chapter"
 
 build:
