@@ -1,5 +1,7 @@
 # Part I: The Evidence - What We Really Are
 
+This part lays the foundation for our journey. We will explore the fundamental anomalies of our species—the genetic, archaeological, and behavioral quirks that conventional models struggle to explain. Here, we gather the evidence that suggests the human story is far stranger and more profound than we have been led to believe.
+
 *"The most beautiful thing we can experience is the mysterious. It is the source of all true art and science."* - Albert Einstein
 
 Humans are biological anomalies. We possess capabilities that have no clear evolutionary precedent, genetic signatures that suggest artificial modification, and a consciousness that seems to operate by entirely different rules than other life on Earth. We are simultaneously the most advanced species on the planet and the most disconnected from natural systems that sustain all other life.

@@ -1,5 +1,7 @@
 # Part II: The Hidden History - How We Got Here
 
+With the evidence of our anomalous nature established, this part delves into the mythological framework that explains it. We will reconstruct the hidden history of our species, exploring the stories of our creation, the installation of our cognitive programming, and the forgotten technologies that shaped our world. This is where the pieces of the puzzle begin to fit together.
+
 *"History is written by the victors."* - Winston Churchill
 
 The truth has a way of preserving itself. It hides in myths that we dismiss as fantasy, in archaeological discoveries that don't fit the official timeline, and in technologies so advanced that we can barely comprehend how they were created.
