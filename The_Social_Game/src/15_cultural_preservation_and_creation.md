@@ -348,29 +348,21 @@ This methodology transforms festivals from temporary escapes into permanent labo
 
 **Contemporary Experiments We Could Try:**
 
-**Governance Experiments:**
-- **Consensus decision-making** festivals where all major decisions require community agreement
-- **Rotating leadership** where different people lead different aspects of the event
-- **Age-based councils** where different generations have authority over different domains
-- **Skill-based authority** where expertise rather than position determines influence
+### The Story of Riverbend Festival: A Laboratory in Action
 
-**Economic Experiments:**
-- **Gift economy** festivals where everything is freely shared
-- **Time banking** events where people trade hours of service rather than money
-- **Resource sharing** experiments with community ownership of tools and equipment
-- **Local currency** festivals that use alternative exchange systems
+To see how festival laboratories work in practice, follow the three-year evolution of Riverbend Festival, a small gathering that became a testing ground for social innovation.
 
-**Social Structure Experiments:**
-- **Mentorship matching** systems that pair experienced and novice community members
-- **Conflict resolution** processes that test different approaches to handling disputes
-- **Work organization** experiments with different ways of organizing collective labor
-- **Communication protocols** that test new ways of making group decisions
+**Year One - The Governance Experiment**: The organizers decided to try consensus decision-making for all major festival decisions. Every choice—from meal planning to conflict resolution—required community agreement. The process was slow and sometimes frustrating, but it created unprecedented buy-in from participants. People felt genuinely heard and invested in outcomes because they had real influence over decisions. However, the organizers discovered that consensus worked well for values-based decisions but poorly for technical logistics. They documented this insight for future iterations.
 
-**The Learning Process:**
-- **Document** what works and what doesn't during each experimental festival
-- **Iterate** using each festival as a learning opportunity for the next
-- **Integrate** successful experiments into permanent community structures
-- **Share** innovations with other communities through festival networks
+**Year Two - The Economic Innovation**: Building on the previous year's lessons, Riverbend introduced a time banking system. Instead of paying money for workshops, meals, or services, participants traded hours of contribution. A massage therapist might offer bodywork in exchange for help setting up tents. A musician might perform in exchange for cooking assistance. The system created unexpected connections—the corporate lawyer who discovered she loved chopping vegetables, the retired teacher who became the festival's conflict mediator. People left feeling they had contributed meaningfully rather than just consumed experiences.
+
+**Year Three - The Social Structure Evolution**: The festival introduced a mentorship matching system that paired experienced community builders with newcomers. Each veteran participant committed to guiding someone new through the festival experience, teaching both practical skills (how to participate in consensus decisions, how to contribute to the time bank) and cultural wisdom (how to handle conflicts constructively, how to balance individual needs with community welfare). This created a natural leadership development pipeline and ensured that festival culture was transmitted rather than lost.
+
+**The Conflict Resolution Laboratory**: When tensions arose between the "old-timers" who wanted to preserve the festival's intimate scale and newcomers who wanted to expand and include more people, the community used it as an opportunity to test different conflict resolution approaches. They tried mediation circles, restorative justice processes, and collaborative problem-solving sessions. Through experimentation, they developed a hybrid approach that honored both perspectives while creating a sustainable growth model.
+
+**The Documentation Process**: After each festival, core organizers spent a weekend documenting what worked, what didn't, and what they wanted to try next. They created detailed "pattern guides" that other communities could adapt—"Pattern #1: Consensus for Values, Delegation for Logistics," "Pattern #2: Time Banking for Community Building," "Pattern #3: Mentorship Matching for Cultural Transmission." These patterns were shared through a network of similar festivals, creating a distributed laboratory for social innovation.
+
+**The Integration Effect**: By year three, participants were taking festival innovations back to their home communities. The consensus decision-making process was adapted for neighborhood councils. The time banking system was implemented in local transition towns. The mentorship matching approach was used in community gardens and maker spaces. The festival had become a training ground for social technologies that strengthened communities far beyond the event itself.
 
 ### Principles for Creating Authentic New Traditions
 

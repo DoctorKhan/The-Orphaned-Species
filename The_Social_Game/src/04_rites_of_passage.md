@@ -50,27 +50,29 @@ Without genuine rites of passage, modern society has created pale substitutes th
 
 To understand why modern society lacks meaningful rites of passage, we must examine how Western civilization systematically dismantled the extended family structures that traditionally provided initiation and community support.
 
-**Stage 1: Extended Family Networks (Pre-Medieval)**
-For most of human history, people lived within extended family networks—clans, tribes, and kinship groups that provided:
-- **Multi-generational wisdom transmission** from elders to youth
-- **Economic security** through shared resources and mutual support
-- **Identity and belonging** rooted in family lineage and tradition
-- **Natural rites of passage** guided by experienced family members
-- **Conflict resolution** through family councils and elder mediation
-- **Mate selection** through family networks and alliance-building
+**Stage 1: Extended Family Networks (Pre-Medieval) - The Story of the MacLeod Clan**
 
-Even after nomadic tribal life ended, these extended family structures persisted in agricultural communities, providing the social fabric that sustained human development for millennia.
+To understand what we lost, imagine the life of young Hamish MacLeod in 12th century Scotland. When Hamish reached his fifteenth year, his passage to manhood wasn't marked by a diploma or a job—it was guided by an entire network of relatives who had invested in his development since birth.
 
-**Stage 2: The Catholic Church's Strategic Intervention (Medieval Period)**
-The Catholic Church recognized that strong family bonds competed with religious loyalty. To increase dependence on the Church, it systematically dismantled extended family structures:
+His grandfather, the clan elder, had been teaching him the stories of their ancestors, the laws of their people, and the wisdom needed to lead. His uncles had trained him in hunting, fighting, and the practical skills needed to protect and provide for a family. His aunts had taught him about healing herbs, conflict resolution, and how to read the character of potential allies and enemies. His older cousins had shown him the boundaries of their territory, the location of hidden resources, and the complex web of alliances and rivalries that shaped their world.
 
-- **Outlawed cousin marriage** (previously common for maintaining family alliances)
-- **Prohibited polygamy and concubinage** (which created extended family networks)
-- **Enforced celibacy for clergy** (preventing religious leaders from having competing family loyalties)
-- **Promoted individual salvation** over collective family spiritual practices
-- **Positioned the Church as surrogate family** - "Holy Mother Church," priests as "Father," nuns as "Sister"
+When the time came for Hamish's initiation, it wasn't a solitary ordeal but a community celebration. The entire clan participated in ceremonies that formally recognized his transition from boy to man. More importantly, they committed to supporting him as he took on adult responsibilities. If Hamish needed land to farm, the clan would provide it. If he needed help building a house, his relatives would contribute labor and materials. If he needed a wife, the clan's network would arrange introductions with suitable families.
 
-This wasn't accidental—it was deliberate social engineering. By weakening family bonds, the Church became the primary source of community, meaning, and social support. People who might have relied on extended family for guidance, conflict resolution, and life transitions now depended on religious institutions.
+This wasn't just social support—it was economic security, identity formation, and wisdom transmission all woven together. Hamish knew who he was (a MacLeod), where he belonged (in the clan territory), what was expected of him (to contribute to clan welfare and carry on traditions), and who would support him (his extended family network). The rites of passage that marked his transition to adulthood were meaningful because they connected him to a living community that would continue to guide and support his development throughout his life.
+
+**Stage 2: The Catholic Church's Strategic Intervention (Medieval Period) - The Transformation of the MacLeod Clan**
+
+Fast-forward three centuries to Hamish's descendant, young Robert MacLeod, coming of age in the 15th century. The world that had nurtured his ancestor was systematically being dismantled by the Catholic Church, which had recognized that strong family bonds competed with religious loyalty.
+
+Robert's great-grandfather had married his second cousin, strengthening the clan's internal bonds and keeping resources within the family network. But now the Church had outlawed such marriages, forcing families to seek partners outside their kinship groups and weakening the tight-knit alliances that had sustained the clan for generations.
+
+Robert's grandfather had learned wisdom from multiple wives and their extended families, creating a rich network of relationships and knowledge. But the Church had prohibited polygamy and concubinage, reducing each man's family connections and the community's collective wisdom.
+
+Most significantly, Robert's uncle, who might have become a clan elder and wisdom keeper, had been recruited by the Church and taken vows of celibacy. Instead of passing on clan traditions and serving family interests, he now served the Church exclusively, his loyalty redirected from blood relatives to religious hierarchy.
+
+Where Hamish had learned about spiritual matters from clan elders who understood both sacred and practical wisdom, Robert was taught that individual salvation mattered more than collective family spiritual practices. The Church positioned itself as his true family—"Holy Mother Church" would provide guidance, "Father" priests would offer wisdom, and "Sister" nuns would provide care.
+
+This wasn't accidental—it was deliberate social engineering. By the time Robert reached adulthood, his clan could no longer provide the comprehensive support system that had sustained Hamish. When Robert faced challenges, needed guidance, or sought meaning, he had to turn to the Church rather than his extended family. The institution had successfully replaced the kinship network as the primary source of community, meaning, and social support.
 
 **Stage 3: Corporate Loyalty and Geographic Mobility (Industrial Era)**
 As industrialization advanced, corporations began to usurp the Church's role as surrogate family:
