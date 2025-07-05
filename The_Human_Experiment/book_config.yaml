@@ -42,14 +42,11 @@ structure:
   - file: "09_the_choice_point.md"
     title: "Chapter 9: The Evolutionary Moment - Choosing Our Species' Future"
     type: "chapter"
-  - file: "97_appendix_critiques.md"
-    title: "Appendix A: Addressing Potential Criticisms"
-    type: "appendix"
   - file: "98_timeline_appendix.md"
-    title: "Appendix B: The Complete Timeline of Human Intervention"
+    title: "Appendix A: The Complete Timeline of Human Intervention"
     type: "appendix"
   - file: "99_glossary.md"
-    title: "Appendix C: Glossary of Terms"
+    title: "Appendix B: Glossary of Terms"
     type: "appendix"
 
 build:
