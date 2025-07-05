@@ -4,13 +4,13 @@ We live in an age of narrative collapse. The ancient stories that once guided hu
 
 This leaves us in a dangerous position: too informed to believe the old myths, yet too spiritually hungry to live without any. We are a species with god-like technology and a void where our guiding stories used to be. We need a new mythology. Not as fantasy, but as a functional framework that integrates our scientific knowledge with our deepest need for purpose.
 
-This book offers such a framework. It is not a scientific theory to be proven or disproven, but a **functional mythology**—a consciousness technology designed to help us understand who we are, where we came from, and where we are going.
+This book offers such a framework. It is not a scientific theory to be proven or disproven, but a **functional mythology**—a narrative tool designed to help us understand who we are, where we came from, and where we are going.
 
 ## The Method: Functional Truth and Conscious Mythology
 
 To understand the purpose of this book, we must look to the wisdom of the Inuit, who have a profound understanding of how stories work. When teaching children essential life lessons, they tell stories. The crucial insight is this: **"The stories are not true, but if they believe them, everything important will be conveyed."**
 
-This approach recognizes that literal truth and functional truth operate on different levels. A story’s power lies not in its factual accuracy, but in its ability to shape consciousness in beneficial ways. This book proposes that our most ancient myths were not primitive science, but sophisticated consciousness technologies designed to do just that.
+This approach recognizes that literal truth and functional truth operate on different levels. A story’s power lies not in its factual accuracy, but in its ability to shape consciousness in beneficial ways. This book proposes that our most ancient myths were not primitive science, but sophisticated instruments for shaping consciousness, designed to do just that.
 
 The framework presented here is a modern extension of this ancient practice. It is a deliberately constructed mythology for our time.
 
