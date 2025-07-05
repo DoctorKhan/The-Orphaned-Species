@@ -54,6 +54,18 @@ The most effective resistance to social programming operates through consistent 
 
 **Critical Thinking Groups**: Form or join groups that practice analyzing information sources, identifying propaganda techniques, and discussing complex issues without tribal polarization.
 
+### Designing Conscious Social Environments: The Consent Zone Model
+
+A powerful form of resistance is the conscious design of social spaces. Instead of accepting default social rules that can lead to ambiguity and harm, we can create environments with explicit, shared agreements.
+
+The concept of **activity-based consent zones**, often tested in festival environments, provides a model. Rather than relying on individuals to signal their boundaries in every interaction, the environment itself sets the context.
+
+*   **The Dance Floor:** Entering this space implies a general willingness to be invited to dance, which involves a certain type of non-verbal communication and physical contact.
+*   **The Cuddle Zone:** This space has a different set of expectations. Entering it implies an interest in non-sexual, comforting physical touch, creating a sanctuary for platonic intimacy.
+*   **The Conversation Lounge:** A quieter space where the primary expectation is verbal connection, and unsolicited physical contact is less likely.
+
+This model creates an **"opt-in" culture**. You are not assumed to be available for a specific activity unless you physically enter the space designated for it. This is a practical application of resistance, replacing ambiguous and often manipulative social scripts with clear, community-held agreements that foster safety and respect.
+
 ### Cultural Preservation
 
 **Traditional Skills**: Learn and teach practical skills that reduce dependence on industrial systems—gardening, food preservation, basic repair, natural healing.

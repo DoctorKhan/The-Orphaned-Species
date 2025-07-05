@@ -282,4 +282,4 @@ This creates a positive feedback loop: genuine adults create conditions for othe
 
 The social game desperately needs people who have moved beyond adolescent psychology—people who can make difficult decisions, take genuine responsibility, and provide stable leadership in unstable times.
 
-Your own passage isn't just personal development—it's a contribution to the collective maturation that our culture desperately needs.
+Your own passage isn't just personal development—it's a contribution to the collective maturation that our culture desperately needs. But in a world that has forgotten how to initiate its members, where do we begin? The answer lies not in recreating the past, but in consciously creating new cultural forms—new rituals, new traditions, and new kinds of communities that can serve this ancient human need in a modern context. We must learn to build the sacred in a secular age.
