@@ -382,7 +382,7 @@ Before dismissing divide-and-conquer tactics as "conspiracy theories," it's esse
 
 ### The Strategic Advantage of Recognition
 
-**Demystification**: Understanding that these are standard strategic practices removes the emotional charge from recognizing them in action.
+**Demystification**: Understanding that these are standard strategic practices removes the emotional intensity from recognizing them in action.
 
 **Pattern Recognition**: Classical strategic education helps identify when these principles are being applied against you.
 

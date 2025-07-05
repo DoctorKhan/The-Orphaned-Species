@@ -6,6 +6,12 @@ You wake up each morning and navigate a world that feels increasingly surreal. P
 
 Something is deeply wrong, but it's hard to pinpoint exactly what. You're experiencing the effects of **social programming**—the systematic ways that collective systems shape behavior to serve institutional interests rather than human flourishing.
 
+## An Integrated Approach
+
+This book draws insights from both social science research and wisdom traditions to offer a comprehensive understanding of how social programming operates. You'll find analysis grounded in documented historical patterns, psychological research, and observable social dynamics, combined with perspectives from contemplative traditions that have studied human consciousness and social organization for millennia.
+
+The goal isn't to promote any particular spiritual or political ideology, but to integrate the best insights from multiple sources—sociology, psychology, history, anthropology, and contemplative wisdom—to develop practical tools for navigating modern social manipulation while building authentic alternatives.
+
 ## The Three-Level Framework
 
 This book examines how social programming operates across three interconnected levels:

@@ -12,9 +12,9 @@ When person A hits person B, we're witnessing a single event that exists simulta
 
 **From A's Coordinate System**: Perhaps A is experiencing an inability to control emotional patterns—archetypal responses of anger, fear, or powerlessness that have been activated beyond their current capacity to manage. The hitting might represent a complete breakdown of conscious choice, where A is essentially being "driven" by uncontrolled emotional patterns rather than operating from genuine agency.
 
-**From B's Coordinate System**: The experience of being hit might catalyze the development of self-soothing energy, resilience, or boundary-setting skills that wouldn't have emerged otherwise. What appears as victimization from one perspective might be soul-level learning from another. B might be developing capacities that will serve them across multiple lifetimes.
+**From B's Perspective**: The experience of being hit might catalyze the development of self-soothing skills, resilience, or boundary-setting abilities that wouldn't have emerged otherwise. What appears as victimization from one perspective might be developmental learning from another. B might be developing capacities that will serve them throughout their life.
 
-**From the Social System's Coordinate System**: The event might serve to reveal hidden dynamics within a family, community, or culture. It might expose patterns of enabling, denial, or systemic dysfunction that needed to be brought to light for healing to occur.
+**From the Social System's Perspective**: The event might serve to reveal hidden dynamics within a family, community, or culture. It might expose patterns of enabling, denial, or systemic dysfunction that needed to be brought to light for healing to occur.
 
 **From the Soul-Level Coordinate System**: Both A and B might be engaged in a complex learning process that spans multiple incarnations, where this particular interaction serves purposes that aren't visible from the personality level.
 
@@ -30,7 +30,7 @@ Traditional moral frameworks attempt to judge individual acts as if they exist i
 
 **Developmental Context**: Both A and B are at specific stages of psychological development, working with particular emotional patterns and learning specific skills. What appears as moral failure might be developmental necessity.
 
-**Karmic Context**: From a multi-lifetime perspective, this interaction might be part of a complex balancing process where both souls are working through patterns that require this particular form of engagement.
+**Historical Context**: From a long-term perspective, this interaction might be part of complex family or social patterns that have been developing over generations and require this particular form of engagement to be resolved.
 
 ## The Emotional Dynamics of Moral Judgment
 
@@ -100,13 +100,13 @@ This perspective doesn't eliminate responsibility—it makes it more sophisticat
 
 ### Spiritual Morality: Universal Principles
 
-**What This Chapter Does NOT Address**: Universal spiritual principles that operate beyond social construction—concepts like karma, natural law, or divine justice that exist independent of human opinion.
+**What This Chapter Does NOT Address**: Universal principles that might operate beyond social construction—concepts like natural law or cosmic justice that some believe exist independent of human opinion.
 
-**The Scope Limitation**: This book focuses on **social systems** rather than spiritual truth. Questions of ultimate moral reality, cosmic justice, and spiritual accountability are addressed in other contexts that deal with individual consciousness and metaphysical principles.
+**The Scope Limitation**: This book focuses on **social systems** rather than ultimate truth claims. Questions of universal moral reality and metaphysical principles are addressed in other contexts that deal with individual consciousness and philosophical inquiry.
 
 **The Practical Distinction**:
 - **Social morality** asks: "What does my tribe consider right or wrong?"
-- **Spiritual morality** asks: "What are the universal principles that govern existence?"
+- **Universal principles** ask: "What are the fundamental laws that govern existence?"
 
 ### Why This Distinction Matters: The Historical Catastrophe of Confusion
 
