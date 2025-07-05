@@ -299,6 +299,8 @@ For the first time in years, Elena felt like she was inhabiting her actual body 
 
 **The Mismatch Problem**: Many struggles with neurodiversity stem not from the brain differences themselves, but from trying to force diverse neurotypes into standardized industrial systems designed for a narrow range of cognitive styles.
 
+**Ancient Wisdom on Sacred Roles**: The Sumerian myth of Enki and Ninmah tells of a contest where the goddess Ninmah created beings with various imperfections, challenging Enki to find purpose for them. Enki's wisdom shone as he gave each a sacred role: the blind man became a musician for the king, the paralyzed man became a skilled silversmith, the childless woman became the queen's master weaver. The story teaches that there are no "broken" people—only people whose gifts haven't been recognized or properly utilized by their communities. (This mythological framework for inclusive community will be explored more deeply in "The Human Experiment.")
+
 ### Practical Biological Reconnection
 
 **Nature Immersion Practices**:
