@@ -52,6 +52,29 @@ Unlike ancient mythologies that were fixed in sacred texts, this new mythology i
 
 This is mythology for the space age—stories that can guide us as we develop artificial intelligence, explore other planets, and potentially encounter other forms of consciousness. It's mythology that can grow with us as we face the challenges of genetic engineering, environmental crisis, and the next stages of human evolution.
 
+## Understanding the Framework: A Concept Overview
+
+Before diving into this mythology, it helps to understand the basic framework and key concepts that will unfold throughout the narrative. Think of this as a map for navigating the story ahead:
+
+### The Core Premise
+This mythology proposes that humanity is the result of a long-term consciousness experiment conducted by advanced beings across multiple phases of development. The story involves two main generations of these beings, each with different approaches to human development.
+
+### Key Concepts (Introduced Gradually)
+**The Experiment Phases**: The human development process occurred in distinct phases—from initial genetic preparation, through activation of consciousness, to various management approaches.
+
+**Two Generations**: The story involves an older generation (patient, evolutionary approach) and a younger generation (direct control approach) with fundamentally different philosophies about human development.
+
+**Human Variants**: Different types of humans emerged from this process, each with distinct characteristics and capabilities.
+
+**Control Systems**: Various methods were developed to guide and manage human development, from genetic programming to social structures.
+
+**Consciousness Technologies**: Advanced methods for expanding and directing human awareness, preserved in ancient monuments and practices.
+
+### How Terms Are Introduced
+Rather than overwhelming you with terminology upfront, concepts will be introduced gradually as the story unfolds. When you encounter new terms, they'll be explained in context, and you can always refer to the glossary for clarification.
+
+The goal is not to memorize a complex system, but to follow a narrative that reveals deeper patterns about human nature and potential.
+
 ## How to Engage with This Mythology
 
 Following the Inuit wisdom, approach these stories with the understanding that **their truth lies not in their literal accuracy but in their transformative power**. Here's how to engage most effectively:
