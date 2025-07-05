@@ -24,7 +24,7 @@ The key insight is that these levels reinforce each other. Personal practices en
 
 ## Daily Practices That Undermine Programming
 
-The most effective resistance to social programming operates through consistent daily practices that build immunity to manipulation while creating alternatives to extractive systems.
+The most effective resistance to social programming operates through consistent daily practices that build immunity to manipulation while creating alternatives to extractive systems. These practices follow the **Upward Spiral Principle** established in Chapter 5—each positive action makes the next positive action easier and more likely, creating self-reinforcing cycles of development and community building.
 
 **Skill Sharing**: Teach others skills you have and learn skills from others. This creates mutual interdependence that strengthens community bonds.
 

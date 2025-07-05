@@ -182,21 +182,19 @@ The attention economy monetizes psychological manipulation:
 - **Fragmenting focus** to prevent the sustained attention needed for deep learning
 - **Creating dependency** on external stimulation rather than internal development
 
-## Recognizing Genuine vs. False Expertise
+## Recognizing Genuine vs. False Expertise: The Tale of Two Mechanics
 
-**Signs of Real Expertise:**
-- **Consistent Performance**: Reliable results across different situations and contexts
-- **Teaching Ability**: Can help others develop similar skills and understanding
-- **Practical Application**: Knowledge that works in the real world, not just in theory
-- **Sustainable Growth**: Development that builds solid foundation rather than seeking attention
-- **Service Orientation**: Using expertise to help others rather than just self-promotion
+To understand the difference between real and false expertise, consider two people who both claim to be automotive experts.
 
-**Red Flags of False Expertise:**
-- **Credential Inflation**: Claiming authority without corresponding practical experience
-- **Information-Only Authority**: Expertise based on consuming content rather than doing work
-- **Exploitation**: Using others for personal gain rather than helping them develop
-- **Media-Based Authority**: Using technology or social media presence to simulate genuine expertise
-- **Ego-Driven**: Using knowledge to enhance personal status rather than serve others
+**Marcus the Mechanic**: Marcus has worked on cars for fifteen years. When you bring him a problem, he listens carefully, asks specific questions about symptoms, and often diagnoses the issue before even looking under the hood. He explains what's wrong in terms you can understand, shows you the actual problem, and gives you options with honest assessments of costs and benefits. When he fixes something, it stays fixed. He's trained three apprentices who now run their own successful shops. Marcus doesn't have a social media presence, but word-of-mouth keeps his shop busy because people trust him to solve their problems without unnecessary upselling.
+
+**Tyler the Influencer**: Tyler has 100,000 followers on TikTok where he posts videos about "car hacks" and "secrets mechanics don't want you to know." He's charismatic, good-looking, and great at creating engaging content. His videos get millions of views because he promises simple solutions to complex problems. Tyler has never actually worked as a mechanic, but he's watched thousands of YouTube videos and can talk confidently about automotive topics. When followers try his "hacks," the results are inconsistent at best and sometimes dangerous. Tyler makes money from sponsorships and affiliate marketing, not from actually fixing cars. His expertise exists only in the digital realm.
+
+**The Real-World Test**: When your car breaks down on a rainy night, you want Marcus, not Tyler. Real expertise reveals itself through consistent performance under pressure, the ability to solve actual problems, and results that work in the physical world. False expertise crumbles when confronted with reality.
+
+**The Teaching Test**: Marcus can take someone who knows nothing about cars and gradually teach them to become competent mechanics. His knowledge transfers because it's based on understanding principles and developing practical skills. Tyler can teach people to create engaging content about cars, but he can't teach them to actually fix cars because his knowledge is performative rather than practical.
+
+**The Service Test**: Marcus uses his expertise to solve people's transportation problems and help them save money. Tyler uses his apparent expertise to build his personal brand and generate income from his audience. The difference in motivation creates entirely different relationships with knowledge and with other people.
 
 ## Case Study: The Rise of "Wellness Influencers"
 

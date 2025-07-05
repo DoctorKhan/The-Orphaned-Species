@@ -46,11 +46,11 @@ When we witness person A hitting person B, the immediate surge of moral outrage 
 
 **Projection Dynamics**: Often, what we judge most harshly in others reflects our own disowned shadow material—the emotions and impulses we refuse to acknowledge in ourselves.
 
-## Beyond Good and Evil: Coordinate-Aware Response
+## Beyond Good and Evil: Multi-Perspective Response
 
 **A More Sophisticated Approach:**
 
-Instead of rushing to moral judgment, a coordinate-aware response might involve:
+Instead of rushing to moral judgment, a multi-perspective response might involve:
 
 **Multi-Perspective Assessment**: Simultaneously holding multiple coordinate systems—understanding A's emotional dynamics, B's learning process, the systemic context, and the larger developmental patterns at play.
 
