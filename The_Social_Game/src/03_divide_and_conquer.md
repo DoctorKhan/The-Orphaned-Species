@@ -51,6 +51,34 @@ To see how manufactured tribal conflicts work in practice, imagine walking into 
 **The Invisible Puppet Master**: What none of these six people realize is that their conversations are following scripts written by people who profit from their division. The political talking points, the cultural resentments, and the economic scapegoating all serve the same function: preventing Sarah, Mike, Emma, Frank, Carlos, and David from recognizing that they have far more in common with each other than with the wealthy elites who control their economic and political systems.
 
 If these six people could see past their manufactured tribal identities, they might realize they all want the same things: decent jobs that pay living wages, affordable healthcare and housing, safe communities for their families, and a voice in the decisions that affect their lives. They might even organize together to demand these things. And that's exactly what the divide-and-conquer strategy is designed to prevent.
+
+## The Questions That Divide and Conquer Prevents Us From Asking
+
+The most effective aspect of divide-and-conquer isn't what it makes us think—it's what it prevents us from thinking. Consider the questions that disappear when we're focused on fighting each other:
+
+**Economic Questions We Don't Ask**:
+- Why do we accept that some people work full-time and still can't afford housing?
+- Who decided that shareholders deserve profits more than workers deserve living wages?
+- Why do we treat housing as an investment commodity rather than a human need?
+- How did we create a system where productivity gains go to owners while workers get laid off?
+
+**Political Questions We Avoid**:
+- Why do we have only two viable political parties in a nation of 330 million people?
+- Who benefits from keeping us focused on cultural issues rather than economic policy?
+- Why do politicians who promise change consistently fail to deliver it?
+- How did we create a system where money equals speech and corporations are people?
+
+**Social Questions We're Distracted From**:
+- Why do we accept that children's educational opportunities depend on their parents' wealth?
+- Who benefits from keeping communities isolated and individuals atomized?
+- Why do we treat mental health as an individual problem rather than a social symptom?
+- How did we create a culture where loneliness and anxiety are epidemic despite unprecedented connectivity?
+
+**The Meta-Question**: If these questions are so obvious, why don't we ask them? What keeps us focused on fighting each other instead of examining the systems that create our shared problems?
+
+**The Uncomfortable Answer**: Perhaps we avoid these questions because answering them would require us to acknowledge how little control we actually have over the systems that shape our lives. It's easier to blame other powerless people than to confront our collective powerlessness against concentrated wealth and institutional control.
+
+**The Even More Uncomfortable Question**: If we did start asking these questions together, what would we discover about the nature of the society we've been taught to defend?
 - Small business owners pitted against workers rather than recognizing shared interests against corporate monopolies
 
 **The Distraction Mechanism:**
