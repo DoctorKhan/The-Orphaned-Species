@@ -214,7 +214,6 @@ This context reframes the entire Egyptian mystery. Egypt was not a beginning; it
 
 - **The Land of the West**: The Egyptian concept of the afterlife, the "Field of Reeds" or "Duat," described as a fertile, abundant paradise to the west, was a literal, cultural memory of their green Saharan homeland. It was where they came from, and where their ancestors' spirits remained.
 - **The "Mythical" Kings**: Within this framework, the ancient king lists of Turin and Palermo, which speak of "gods" and "demigods" ruling for tens of thousands of years before the first human pharaoh, represent fragmented historical records of the Albian rulers of the Green Saharan civilization. The Egyptians themselves made no distinction between these rulers and their later, human kings.
-- **The Sphinx as a Relic**: The Great Sphinx of Giza, with its water erosion patterns inconsistent with a desert environment, is a relic from this earlier time. It stood through millennia of rainfall in the Green Sahara, a silent witness to the paradise that was lost. It is a pre-cataclysm artifact, a message from the drowned world.[^5]
 
 The story of ancient Egypt is the story of a traumatized culture desperately trying to rebuild and remember a golden age that had been violently stolen from them. Their obsession with permanence, with stone monuments and elaborate tombs, was the response of a people who had seen their entire world turn to dust.
 
@@ -291,5 +290,3 @@ Within this mythology, this represents the deepest secret of human history. We a
 [^3]: deMenocal, P. B., et al. (2000). *Abrupt onset and termination of the African Humid Period*. Scientific literature confirms a rapid desertification of North Africa around 5,500-5,000 years ago, a climatic shift far more sudden than previously believed.
 
 [^4]: Fregel, R., et al. (2018). *Ancient genomes from North Africa evidence prehistoric migrations to the Maghreb and Sahara*. Genetic studies show continuity between ancient North African populations (from the Green Sahara period) and later populations in the Nile Valley, supporting a migration model.
-
-[^5]: Schoch, R. M. (1992). *Redating the Great Sphinx of Giza*. Geologist Robert Schoch's controversial but compelling analysis argues that the deep vertical erosion on the Sphinx and its enclosure walls is characteristic of thousands of years of heavy rainfall, impossible in the hyper-arid climate of the last 5,000 years and pointing to a pre-dynastic origin.
