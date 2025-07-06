@@ -1,7 +1,7 @@
 # The Consciousness Technologies
 ## Rediscovering Ancient Tools for Modern Liberation
 
-**Compiled**: 2025-07-04 21:13:39
+**Compiled**: 2025-07-06 14:01:50
 
 ---
 
@@ -243,7 +243,7 @@ The War on Consciousness is ending, but its effects will take generations to ful
 The technologies of consciousness are not drugs—they are tools for human development that have been stolen from us. It's time to take them back.
 
 
-# Chapter 10: Beyond Binary - Transcending Either/Or Programming
+# Chapter 2: Beyond Binary - Transcending Either/Or Programming
 
 *"The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth."* - Niels Bohr
 

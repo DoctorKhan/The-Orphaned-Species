@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-**Compiled**: 2025-07-06 12:37:08
+**Compiled**: 2025-07-06 14:01:10
 
 ---
 
