@@ -1,5 +1,4 @@
-# Chapter 7
-# Breaking Free: Escaping Reality Programming Loops
+# Chapter 13: Breaking Free: Escaping Reality Programming Loops
 
 She sits in her therapist's office, tears streaming down her face as she describes the endless loop of anxious thoughts that have consumed her for weeks. "I know I'm catastrophizing," she says. "I know these thoughts aren't rational. I've read all the books about mindfulness and being present, but when I try to meditate, it just makes everything worse. The thoughts get louder, the anxiety gets stronger. I feel like I'm drowning."
 
