@@ -20,7 +20,7 @@ The Human Experiment is reaching its climax. The control systems are becoming mo
 
 The future is not yet written. It will be forged in the crucible of this present moment, by the collective choices of a species waking up to its own power. The experiment is not over. It is just beginning. And we are no longer just the subjects. We are the scientists, and the future of humanity is our grand, shared experiment.
 
-*In laboratories and living rooms, in meditation halls and hospital wards, in schools and gardens around the world, the awakening continues. Each person who chooses consciousness over programming, each child who learns to heal with their hands, each elder who remembers the old ways and teaches them anew—they are all part of the same magnificent unfolding.*
+*In laboratories and living rooms, in meditation halls and hospital wards, in schools and gardens around the world, the awakening continues. Each person who chooses consciousness over programming, each child who learns to heal with their hands by creating energy conduits and scanning for illness, each elder who remembers the old ways and teaches them anew—they are all part of the same magnificent unfolding.*
 
 *The creators who began this experiment could never have imagined what their subjects would become. They designed us to be workers, servants, perhaps eventually space-faring colonists. They never dreamed we might become something greater than themselves: beings who could integrate both trees of consciousness, who could heal the ancient wounds between technology and nature, between mind and heart, between Earth and cosmos.*
 
