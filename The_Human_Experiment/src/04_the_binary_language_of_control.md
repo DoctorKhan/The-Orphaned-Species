@@ -1,5 +1,11 @@
 # Chapter 5: The Binary Language of Control
 
+*The priest stood before the altar, the golden idol gleaming in the candlelight. He raised his hands, and the crowd fell silent. "We must give thanks to the All-Seeing Eye," he intoned, his voice echoing through the grand temple. "For it is by its grace that we are protected, by its wisdom that we are guided."*
+
+*In the back of the crowd, a young woman named Anya watched, a seed of doubt growing in her heart. She had always felt the presence of the All-Seeing Eye, a comforting weight in her mind. But lately, it felt different. It felt...hollow. She had seen the priests take the best of the harvest, the finest cloth, the strongest youths, all in the name of the Eye. But what did the Eye give back? Platitudes? Promises? A feeling of being watched?*
+
+*She looked at the faces around her, lost in rapturous devotion. They were good people, her people. But they were trapped. Trapped in a story they had been told for so long they had forgotten it was just a story. And as the priest's voice boomed, Anya knew she had to find a way out. Not just for herself, but for all of them.*
+
 *"The most effective way to destroy people is to deny and obliterate their own understanding of their history."* - George Orwell
 
 The greatest deception ever perpetrated on humanity is not that we were created by extraterrestrial beings—it's that we continue to worship them long after they've left. We are a species trapped in an endless loop of devotion to absent masters, following rules written for a domestication program that no longer serves any purpose except our continued enslavement.
