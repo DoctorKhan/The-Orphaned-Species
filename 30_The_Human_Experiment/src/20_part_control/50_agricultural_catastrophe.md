@@ -1,4 +1,4 @@
-# Chapter 7: The Agricultural Catastrophe
+# The Agricultural Catastrophe
 
 *The hunter looked down at the fields below, watching the bent figures toiling under the scorching sun. His grandmother had told him stories of the time before, when people were tall and strong, when they moved freely across the land, when no one owned the earth or the sky. Now he saw children with swollen bellies and rotting teeth, adults aged beyond their years, all trapped in endless cycles of planting and harvesting for masters who grew fat while the workers grew thin.*
 

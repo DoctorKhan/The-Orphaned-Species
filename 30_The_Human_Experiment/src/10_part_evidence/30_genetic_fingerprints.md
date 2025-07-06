@@ -1,4 +1,4 @@
-# Chapter 2: The Genetic Fingerprints
+# The Genetic Fingerprints
 
 *Dr. Aris Thorne stared at the holographic display, his heart pounding. For twenty years, he had been mapping the so-called "junk DNA" of the human genome, convinced it held a secret. Now, he had found it. A section of non-coding DNA that wasn't random at all. It was a language. A complex, elegant language that was billions of years old. And it began with a single, chilling phrase: "We were here."*
 

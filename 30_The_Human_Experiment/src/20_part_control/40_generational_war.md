@@ -1,4 +1,4 @@
-# Chapter 6: The Generational War
+# The Generational War
 
 *The sky burned with unnatural fire as the great stones fell from heaven. Kael pressed himself against the cold earth, feeling the world shake beneath him as mountains crumbled and seas boiled. The old gods—the wise ones who had taught his people to read the stars and heal with plants—were gone. In their place came new voices, harsh and demanding, speaking of conquest and submission. The age of wisdom was ending. The age of war had begun.*
 

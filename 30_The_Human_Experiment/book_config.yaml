@@ -1,62 +1,20 @@
 book:
   title: "The Human Experiment"
   subtitle: "Reclaiming Our Origins, Purpose, and Evolutionary Destiny"
+  author: "Rez Khan"
+  description: "A comprehensive exploration of human origins, intervention theories, and our evolutionary destiny through the lens of functional mythology."
 
-structure:
-  - file: "00_introduction.md"
-    title: "Introduction: The Need for New Mythology"
-    type: "introduction"
-  - file: "part_1_intro.md"
-    title: "Part I: The Evidence of Intervention"
-    type: "part"
-  - file: "01_the_anomalous_species.md"
-    title: "Chapter 1: The Impossible Species - Why Humans Don't Fit"
-    type: "chapter"
-  - file: "02_the_genetic_fingerprints.md"
-    title: "Chapter 2: The Genetic Fingerprints - Evidence of Design"
-    type: "chapter"
-  - file: "03_archaeological_mysteries.md"
-    title: "Chapter 3: Archaeological Mysteries - The World Grid"
-    type: "chapter"
-  - file: "04_the_binary_language_of_control.md"
-    title: "Chapter 4: The Binary Language of Control - How Consciousness Was Hijacked"
-    type: "chapter"
-  - file: "part_2_intro.md"
-    title: "Part II: The Hidden History - How We Got Here"
-    type: "part"
-  - file: "05_myth_as_memory.md"
-    title: "Chapter 5: Myth as Memory - Ancient Consciousness Technologies"
-    type: "chapter"
-  - file: "06_the_generational_war.md"
-    title: "Chapter 6: The Generational War - Titans vs. Anunnaki"
-    type: "chapter"
-  - file: "07_the_agricultural_catastrophe.md"
-    title: "Chapter 7: The Agricultural Catastrophe - Creating the Desperate Underclass"
-    type: "chapter"
-  - file: "08_the_wisdom_keepers.md"
-    title: "Chapter 8: The Wisdom Keepers - Preserving Ancient Knowledge"
-    type: "chapter"
-  - file: "part_3_intro.md"
-    title: "Part III: The Path Forward - Reclaiming Our Destiny"
-    type: "part"
-  - file: "09_the_great_divergence.md"
-    title: "Chapter 9: The Great Divergence - Two Paths of Human Evolution"
-    type: "chapter"
-  - file: "10_practices_for_liberation.md"
-    title: "Chapter 10: Practices for Liberation - Breaking the Code"
-    type: "chapter"
-  - file: "11_the_choice_point.md"
-    title: "Chapter 11: The Choice Point - Choosing Our Species' Future"
-    type: "chapter"
-  - file: "12_conclusion.md"
-    title: "Conclusion: The Future of the Experiment"
-    type: "conclusion"
-  - file: "98_timeline_appendix.md"
-    title: "Appendix A: The Complete Timeline of Human Intervention"
-    type: "appendix"
-  - file: "99_glossary.md"
-    title: "Appendix B: Glossary of Terms"
-    type: "appendix"
+# Gap-based structure configuration
+structure_type: "gap_based"
+gap_increment: 10
+
+# Auto-scanning will find all numbered directories and files
+# No need to manually list structure - it's built automatically from:
+# 10_introduction/
+# 20_part_evidence/
+# 30_part_control/
+# 40_part_liberation/
+# 90_appendix/
 
 build:
   source_dir: "src"

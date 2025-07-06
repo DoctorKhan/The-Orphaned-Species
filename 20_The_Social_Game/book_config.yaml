@@ -1,59 +1,10 @@
 book:
   title: "The Social Game"
   subtitle: "How collective systems program individual consciousness"
-
-structure:
-  - file: "00_introduction.md"
-    title: "Introduction: The Game of Games"
-    type: "introduction"
-  - file: "06_part_ii_intro.md"
-    title: "Part I: How We Got Here - The Dismantling of Community"
-    type: "part"
-  - file: "03_divide_and_conquer.md"
-    title: "Chapter 1: The Great Atomization - How Communities Were Systematically Destroyed"
-    type: "chapter"
-  - file: "04_rites_of_passage.md"
-    title: "Chapter 2: The Missing Rites - When Growing Up Became Impossible"
-    type: "chapter"
-  - file: "06_internets_false_democracy.md"
-    title: "Chapter 3: The Wisdom Thieves - How the Internet Destroyed Learning"
-    type: "chapter"
-  - file: "09_part_iii_intro.md"
-    title: "Part II: The Manipulation Machine - How Your Mind Is Hijacked"
-    type: "part"
-  - file: "09_digital_hijacking.md"
-    title: "Chapter 4: The Attention Merchants - How Technology Captures Consciousness"
-    type: "chapter"
-  - file: "07_social_mirror.md"
-    title: "Chapter 5: The Identity Trap - How You Become Who Others Want You to Be"
-    type: "chapter"
-  - file: "11_science_as_verification.md"
-    title: "Chapter 6: The Truth Wars - When Science Becomes Propaganda"
-    type: "chapter"
-  - file: "10_creative_trap.md"
-    title: "Chapter 7: The Creative Trap - How Art Became Marketing"
-    type: "chapter"
-  - file: "13_part_iv_intro.md"
-    title: "Part III: The Way Forward - Building Authentic Alternatives"
-    type: "part"
-  - file: "08_true_vs_false_hierarchy.md"
-    title: "Chapter 8: The Upward Spiral - How to Build Real Strength and Community Value"
-    type: "chapter"
-  - file: "05_right_and_wrong.md"
-    title: "Chapter 9: Beyond Good and Evil - A New Framework for Ethics"
-    type: "chapter"
-  - file: "16_practical_implementation_guide.md"
-    title: "Chapter 10: The Daily Practice - Concrete Steps for Personal Transformation"
-    type: "chapter"
-  - file: "12_practices_as_resistance.md"
-    title: "Chapter 11: Living the Alternative - How to Resist Without Fighting"
-    type: "chapter"
-  - file: "15_cultural_preservation_and_creation.md"
-    title: "Chapter 12: The Festival Laboratory - Creating New Culture Through Experimentation"
-    type: "chapter"
-  - file: "14_the_endless_game.md"
-    title: "Chapter 13: The Endless Game - Conscious Participation in Social Evolution"
-    type: "chapter"
+  author: "Rez Khan"
+  description: "An examination of social programming, digital manipulation, and the construction of collective reality."
+  keywords: ["social programming", "digital manipulation", "collective consciousness", "social systems"]
+  language: "en"
 
 build:
   source_dir: "src"
@@ -64,9 +15,13 @@ output:
     filename: "The_Social_Game_Complete_Book.md"
   html:
     filename: "index.html"
-    theme: "clean"
+    template: "book_template.html"
 
 metadata:
-  description: "An examination of social programming, digital manipulation, and the construction of collective reality."
-  keywords: ["social programming", "digital manipulation", "collective consciousness", "social systems"]
-  language: "en"
+  version: "2.0"
+  last_updated: "2024-07-06"
+  word_count_target: 80000
+  
+# Gap-based structure configuration
+structure_type: "gap_based"
+gap_increment: 10

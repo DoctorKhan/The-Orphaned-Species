@@ -1,4 +1,4 @@
-# Chapter 4: The Binary Language of Control
+# The Binary Language of Control
 
 *The priest stood before the altar, the golden idol gleaming in the candlelight. He raised his hands, and the crowd fell silent. "We must give thanks to the All-Seeing Eye," he intoned, his voice echoing through the grand temple. "For it is by its grace that we are protected, by its wisdom that we are guided."*
 

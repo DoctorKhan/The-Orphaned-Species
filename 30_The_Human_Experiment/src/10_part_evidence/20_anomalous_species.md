@@ -1,4 +1,4 @@
-# Chapter 1: The Anomalous Species
+# The Anomalous Species
 
 *From their vantage point, a place outside of time, they watched the planet breathe. They saw continents drift, mountains rise and fall, and oceans churn. They saw life emerge, diversify, and vanish. They were the gardeners of this world, and they were patient. They watched the primates, the clever ones with the grasping hands and the curious eyes. They saw potential, but it was raw, untamed. It was not yet ready.*
 

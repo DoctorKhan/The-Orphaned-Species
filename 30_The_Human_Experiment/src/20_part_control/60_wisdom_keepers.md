@@ -1,4 +1,4 @@
-# Chapter 8: The Wisdom Keepers
+# The Wisdom Keepers
 
 *In the deep forests of the old world, where the ancient trees still remembered the songs of the first people, an old woman sat with her granddaughter. "Tell me about the ones who came before," the child whispered. The old woman's eyes grew distant. "They were the bridge-builders," she said softly. "They could speak to the trees and hear the stones sing. They knew the secret names of the wind and could call the rain with their voices. But the new people came with iron and fire, and they called the bridge-builders witches. They burned the bridges and forgot the songs. Now we live in a world of silence, child. But the songs are still there, waiting for those who remember how to listen."*
 
