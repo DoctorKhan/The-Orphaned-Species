@@ -1,6 +1,6 @@
 # Glossary of Terms
 
-## A
+### A
 
 **Abraham's Covenant** - The establishment of monotheistic covenant system around 4,000 years ago as a sophisticated evolution of control technology. Replaced polytheistic confusion with single authority, created chosen people concept, and introduced moral law as internalized control mechanism.
 
@@ -15,7 +15,7 @@
 
 **Apkallu** - Ancient Mesopotamian term for the "seven sages" or divine beings who brought civilization to humanity. In this framework, they represent the Titan overseers who managed human development during the Domestication Period.
 
-## B
+### B
 
 **Binary Programming** - Originally installed by the Titans as a temporary learning tool to help early humans process complex information. Later exploited by the Anunnaki for permanent control, reducing complex reality into simple either/or choices (good/evil, us/them, right/wrong). This programming makes humans predictable and manageable by bypassing complex reasoning through emotional triggers.
 
