@@ -1,4 +1,4 @@
-# Chapter 4: The World Grid
+# Chapter 3: The World Grid
 
 *The world was broken. The sky had fallen, the mountains had wept fire, and the sea had swallowed the sun. Elara was one of the few who remembered the Before Times, the world of the Sky Gods, a world of balance and light. Now, there was only dust, fear, and the gnawing emptiness of a world that had lost its soul.*
 

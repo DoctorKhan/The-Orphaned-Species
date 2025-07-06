@@ -1,4 +1,4 @@
-# Chapter 6: Myth as Memory & The Bronze Age Conflict
+# Chapter 5: Myth as Memory & The Bronze Age Conflict
 
 *The old woman sat by the fire, her fingers weaving a complex pattern into a tapestry. The young girl watched, her eyes wide. "Tell me again about the war in heaven," she said. "The one between the old gods and the new."*
 

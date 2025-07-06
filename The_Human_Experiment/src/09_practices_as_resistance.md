@@ -1,4 +1,4 @@
-# Chapter 12: Practices as Resistance
+# Chapter 8: Practices as Resistance
 
 *Maya sat in her small apartment, the glow of her phone screen illuminating her face in the darkness. Another notification. Another outrage. Another crisis demanding her immediate emotional response. She felt the familiar surge of anger, the compulsion to share, to react, to join the digital mob. But something made her pause.*
 
