@@ -1,8 +1,8 @@
 # The Path of Most Votes
 
-Classical physics gives us a powerful and elegant rule for predicting the motion of objects: the Principle of Least Action. It states that a physical object, moving from point A to point B, will follow the one single path for which a quantity called the "Action" is minimized. A thrown ball follows a perfect parabola not by choice, but because that is the one path, out of all possibilities, that minimizes this value. In the classical world, it is a deterministic, inviolable law.
+The classical world is governed by the Principle of Least Action, a deterministic law stating that an object will always follow the path that minimizes a quantity called "Action." The reason this elegant law holds lies one level down, in the strange and probabilistic world of quantum mechanics.
 
-But *why* does this law hold? The answer lies one level down, in the strange and probabilistic world of quantum mechanics, and it provides a profound insight into how a higher-level organizing principle can emerge from lower-level chaos.
+This chapter explores how this higher-level organizing principle emerges from lower-level chaos. By understanding the quantum "democracy of all paths," we gain a profound insight into how consciousness can participate in the voting process that creates reality.
 
 ### The Quantum Reality: A Democracy of All Paths
 
