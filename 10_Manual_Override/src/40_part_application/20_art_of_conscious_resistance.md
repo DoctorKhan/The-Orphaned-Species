@@ -1,4 +1,4 @@
-# Chapter 10: The Art of Conscious Resistance
+# The Art of Conscious Resistance
 ## How to Work With Your Programming When It Fights Back
 
 You will reach a point in your practice—likely very early on—where your own programming begins to actively fight back. This is not a sign of failure. It is a sign of success. It means your awareness is becoming a genuine threat to the autopilot's dominance, and the system is deploying its defense mechanisms.

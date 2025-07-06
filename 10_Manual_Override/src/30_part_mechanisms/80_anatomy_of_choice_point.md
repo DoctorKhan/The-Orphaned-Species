@@ -1,4 +1,4 @@
-# Chapter 9: The Anatomy of a Choice Point
+# The Anatomy of a Choice Point
 ## What It Feels Like to Access Genuine Agency
 
 In the previous chapter, we explored the "energetics" of agency—the idea that conscious choice requires a finite energy and that we must be strategic in how we use it. This can sound abstract. But the experience of using this energy at a "choice point" is a distinct, recognizable, and trainable phenomenological event.

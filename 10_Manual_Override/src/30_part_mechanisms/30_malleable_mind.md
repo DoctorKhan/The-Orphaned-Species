@@ -1,4 +1,3 @@
-# Chapter 5
 # The Malleable Mind
 
 Your mind is far more flexible than you realize. Neuroplasticity research shows that the brain can rewire itself throughout life, forming new neural pathways and breaking old patterns. Perception can be trained, beliefs can be updated, and even fundamental aspects of personality can shift. This malleability seems like good news—it means you're not stuck with limiting patterns, traumatic conditioning, or destructive habits. You can literally reshape your mind, transform your experience, and create the reality you want to live in.

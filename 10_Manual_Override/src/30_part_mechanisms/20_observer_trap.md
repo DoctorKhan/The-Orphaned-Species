@@ -1,4 +1,4 @@
-# Chapter 3: The Observer Trap
+# The Observer Trap
 
 There's something profound about stepping back and simply observing your experience. Watching thoughts arise and pass away, noticing emotions without being swept away by them, witnessing the constant flow of sensations without immediately reacting. This observer perspective feels like coming home to your true nature—the awareness that remains constant while everything else changes. Spiritual traditions speak of this as the witness consciousness, the unchanging awareness that observes all experience. It seems like the key to freedom, peace, and authentic self-knowledge.
 

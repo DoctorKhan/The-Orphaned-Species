@@ -1,4 +1,4 @@
-# Chapter 8: The Presence Paradox
+# The Presence Paradox
 ## Are You Aware, or Just Watching the Idea of Awareness?
 
 You’ve practiced the techniques. You’ve sat in meditation, scanned your body, and watched your thoughts. You feel a sense of calm, a detached perspective. You think, "I'm being present." But are you?

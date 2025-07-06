@@ -1,4 +1,4 @@
-# Chapter 6: The Conservation of State Identity
+# The Conservation of State Identity
 
 To understand how reality can be influenced, we must first grasp a fundamental, unwritten law of the universe—a law whose very violation is the secret engine of all change.
 

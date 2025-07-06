@@ -1,4 +1,4 @@
-# Chapter 8: The Path of Most Votes
+# The Path of Most Votes
 
 Classical physics gives us a powerful and elegant rule for predicting the motion of objects: the Principle of Least Action. It states that a physical object, moving from point A to point B, will follow the one single path for which a quantity called the "Action" is minimized. A thrown ball follows a perfect parabola not by choice, but because that is the one path, out of all possibilities, that minimizes this value. In the classical world, it is a deterministic, inviolable law.
 

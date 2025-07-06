@@ -1,4 +1,4 @@
-# Chapter 17: A Unique Synthesis
+# A Unique Synthesis
 
 ## How This Approach Differs
 

@@ -1,4 +1,4 @@
-# 🟡 Chapter 19: Workplace Consciousness
+# Workplace Consciousness
 ## Navigating Professional Life from Presence
 
 *"The office is a laboratory for consciousness development—if you know how to use it."*

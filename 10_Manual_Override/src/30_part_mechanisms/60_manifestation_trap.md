@@ -1,4 +1,4 @@
-# Chapter 6: The Manifestation Trap
+# The Manifestation Trap
 ## False Agency Disguised as Spiritual Power
 
 There's a particularly insidious form of false agency that has become epidemic in spiritual communities: the manifestation bully. These are people who believe they can "manifest" reality through their beliefs and intentions, often claiming they're "selecting timelines from the multiverse" or "creating their reality" through positive thinking and visualization.

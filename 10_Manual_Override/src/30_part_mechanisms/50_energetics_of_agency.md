@@ -1,4 +1,4 @@
-# Chapter 7: The Energetics of Agency
+# The Energetics of Agency
 
 Imagine consciousness as a vast theater where a film plays continuously—the movie of your life unfolding moment by moment. Most of the time, you sit in the audience, watching events happen to you, through you, around you. But scattered throughout this cinematic experience are specific moments—choice points—where the film pauses, the house lights come up slightly, and you realize you can step onto the stage. In these moments, you have genuine agency. You can influence the direction of the story, make subtle adjustments to the trajectory, alter the course of future scenes.
 

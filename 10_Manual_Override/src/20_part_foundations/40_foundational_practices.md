@@ -1,4 +1,4 @@
-# Chapter 3: Foundational Practices: Reality-Breaking Technologies
+# Foundational Practices: Reality-Breaking Technologies
 
 The meditation teacher sits before her students, radiating the kind of serene presence that suggests years of dedicated practice. "Mindfulness is about finding peace," she says softly. "Just sit still and try to quiet your mind. Focus on your breath and don't let thoughts distract you." The students struggle, fighting their minds, wondering why this feels so difficult and forced.
 
