@@ -1,4 +1,4 @@
-# Chapter 9: The Evolutionary Moment - Choosing Our Species' Future
+# Chapter 11: The Choice Point - Choosing Our Species' Future
 
 *The old man stood at the edge of the cliff, watching the rockets streak across the dawn sky. Behind him, his granddaughter tended to the garden with her bare hands, coaxing life from soil that had been barren just months before. Two paths stretched before humanity, he thought. One led to the stars, carrying all their old patterns of conquest and control. The other led deeper into the mystery of consciousness itself, into abilities that made rockets seem like crude toys.*
 
