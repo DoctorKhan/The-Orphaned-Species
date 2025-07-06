@@ -7,7 +7,7 @@ Most spiritual and psychological frameworks treat consciousness as either "awake
 
 Think of it like breathing—you don't try to permanently inhale or permanently exhale. The power lies in understanding the rhythm and learning to breathe consciously. Similarly, consciousness naturally moves through phases of forgetting and remembering, identification and freedom, creation and dissolution.
 
-## The Four Phases of the Cosmic Rhythm
+## The Three phases of the Cosmic Rhythm
 
 This cosmic rhythm unfolds in a repeating pattern that governs all conscious experience:
 
@@ -149,7 +149,7 @@ This is the cosmic rhythm of consciousness: from identification to remembering, 
 
 ## Chapter Summary: Key Takeaways
 
-**The Cosmic Rhythm**: Consciousness naturally cycles through four phases: Identification, Observing, Freedom, and Re-creation. This is not a linear progression but a spiral of increasing awareness and skill.
+**The Cosmic Rhythm**: Consciousness naturally cycles through three phases: Identification, Observing, Freedom, and Re-creation. This is not a linear progression but a spiral of increasing awareness and skill.
 
 **Phase Awareness**: The key skill is recognizing which phase you're currently in and responding appropriately rather than fighting the natural rhythm.
 
