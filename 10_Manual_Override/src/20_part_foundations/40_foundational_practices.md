@@ -1,3 +1,9 @@
+# Chapter 3: Foundational Practices: Reality-Breaking Technologies
+
+The wellness industry often presents mindfulness as a gentle practice of "quieting the mind." But this framing misses the profound, reality-breaking power at the heart of these ancient technologies. This chapter reframes meditation not as a passive activity, but as an active process of **sensory adaptation**—a direct method for interfacing with and altering your nervous system’s programming.
+
+We will explore how practices like mindfulness, body scanning, and even mindful eating are not about simple relaxation, but are sophisticated techniques for developing the capacity to consciously override your automated responses and perceive reality beyond your conditioned filters.
+
 # Foundational Practices: Reality-Breaking Technologies
 
 The meditation teacher sits before her students, radiating the kind of serene presence that suggests years of dedicated practice. "Mindfulness is about finding peace," she says softly. "Just sit still and try to quiet your mind. Focus on your breath and don't let thoughts distract you." The students struggle, fighting their minds, wondering why this feels so difficult and forced.

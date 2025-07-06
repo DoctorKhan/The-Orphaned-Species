@@ -1,12 +1,10 @@
 # The Energetics of Agency
 
-Imagine consciousness as a vast theater where a film plays continuously—the movie of your life unfolding moment by moment. Most of the time, you sit in the audience, watching events happen to you, through you, around you. But scattered throughout this cinematic experience are specific moments—choice points—where the film pauses, the house lights come up slightly, and you realize you can step onto the stage. In these moments, you have genuine agency. You can influence the direction of the story, make subtle adjustments to the trajectory, alter the course of future scenes.
+We have established that consciousness operates on a spectrum from automatic, programmed responses ("NPC consciousness") to moments of genuine, soul-level choice. But why is this agency so inconsistent? Why do our best intentions often collapse into familiar patterns, and why does willpower feel like a battery that depletes?
 
-This is not a metaphor. This is the actual structure of human consciousness and free will.
+The answer lies in understanding that agency is not just a philosophical concept but an energetic one. **Free will is not a constant; it is a capacity that depends on a finite, consumable resource.** When this energy is abundant, choice points become visible and accessible. When it is depleted, we default to lower, automatic levels of operation.
 
-The question that haunts every thinking person is not whether free will exists—we feel it operating in our lives—but rather why it seems so inconsistent, so elusive, so frustratingly intermittent. Why do we sometimes feel like conscious agents directing our lives, and other times like passengers in a vehicle we cannot control? Why do our best intentions so often collapse into familiar patterns? Why does willpower feel finite, depleting like a battery that needs recharging?
-
-The answer lies in understanding consciousness not as a single phenomenon, but as a hierarchical system of nested levels, each with its own degree of agency, each receiving information from the level above it. But more than that—consciousness can be trained to perceive and operate from multiple reality planes simultaneously, accessing information and energy that exists between the layers of constructed reality.
+This chapter explores the practical, energetic economy of awareness—how this vital force is allocated, depleted, and replenished, and how mastering this economy is the key to exercising consistent, conscious choice.
 
 ## The Hierarchy of Influence
 

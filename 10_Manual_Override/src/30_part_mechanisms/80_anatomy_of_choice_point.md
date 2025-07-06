@@ -1,9 +1,10 @@
 # The Anatomy of a Choice Point
+
+Agency is exercised in discrete moments known as "choice points." These are not grand, dramatic crossroads, but subtle, fleeting, and often uncomfortable moments that are usually glossed over by the autopilot. Learning to recognize and navigate these moments in real-time is one of the most critical skills in developing manual override.
+
+This chapter provides a detailed anatomy of a choice point, breaking down the distinct, embodied stages of what it feels like to access and exercise genuine agency, moving the concept from the abstract to a recognizable, trainable, and phenomenological event.
+
 ## What It Feels Like to Access Genuine Agency
-
-In the previous chapter, we explored the "energetics" of agency—the idea that conscious choice requires a finite energy and that we must be strategic in how we use it. This can sound abstract. But the experience of using this energy at a "choice point" is a distinct, recognizable, and trainable phenomenological event.
-
-A choice point is not a grand, dramatic crossroads. It is a subtle, fleeting, and often uncomfortable moment that is usually glossed over by the autopilot. Learning to recognize it in real-time is one of the most critical skills in this work. It is the moment the controller becomes available.
 
 So, what does it actually *feel* like? It unfolds in a series of distinct, embodied stages.
 

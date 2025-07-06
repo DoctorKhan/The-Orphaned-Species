@@ -1,9 +1,8 @@
 # The Manifestation Trap
-## False Agency Disguised as Spiritual Power
 
-There's a particularly insidious form of false agency that has become epidemic in spiritual communities: the manifestation bully. These are people who believe they can "manifest" reality through their beliefs and intentions, often claiming they're "selecting timelines from the multiverse" or "creating their reality" through positive thinking and visualization.
+A common distortion of agency is the belief that one can "manifest" a desired reality through sheer force of will or positive thinking. This concept, often seen in spiritual communities, represents not a higher form of power but the ego's attempt to assert control and avoid the vulnerability of genuine presence.
 
-On the surface, this might seem aligned with the plane-shifting consciousness we've been exploring. But manifestation bullying is actually the opposite of true agency—it's the ego's attempt to maintain control while avoiding the vulnerability of genuine presence.
+This chapter deconstructs the "manifestation" phenomenon, revealing it as a sophisticated form of self-deception. We will explore the psychological mechanisms that create the illusion of control, the toxic legacy of popular "law of attraction" teachings, and contrast this fantasy with the principles of true, embodied agency.
 
 ## The Manifestation Bully Profile
 

@@ -1,11 +1,8 @@
 # The Art of Conscious Resistance
-## How to Work With Your Programming When It Fights Back
 
-You will reach a point in your practice—likely very early on—where your own programming begins to actively fight back. This is not a sign of failure. It is a sign of success. It means your awareness is becoming a genuine threat to the autopilot's dominance, and the system is deploying its defense mechanisms.
+As your awareness threatens the autopilot's dominance, your own programming will begin to fight back. This is not failure; it is a sign of success. The system is deploying its defense mechanisms: sudden fatigue, spikes of anxiety, overwhelming boredom, or floods of distracting thoughts.
 
-These defenses are not personal failings like "laziness" or "lack of discipline." They are sophisticated, impersonal programs designed to protect the status quo. They manifest as sudden fatigue when you try to meditate, a spike of anxiety when you get too close to a core wound, an overwhelming sense of boredom, or a flood of distracting thoughts. Learning to work skillfully with this resistance is not an optional part of the path; it *is* the path.
-
-Fighting resistance with force is a losing battle. It’s like wrestling with a shadow; you only exhaust yourself. The key is to change the frame entirely: from a fight to an investigation.
+These are not personal failings but impersonal programs designed to protect the status quo. Fighting them with force is a losing battle that only exhausts your energy. The key is to reframe the entire encounter: do not fight resistance, investigate it. This chapter outlines the strategies for skillfully working with your programming when it resists.
 
 ### Strategy 1: Reframe Resistance as a Signal
 
