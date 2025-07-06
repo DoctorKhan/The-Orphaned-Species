@@ -1,64 +1,59 @@
 # Glossary of Key Terms
 
-## **Core Concepts**
+## Core Concepts
 
 **The Unconstructed**
-The natural state that underlies all constructed meanings. Not emptiness or void, but the fundamental awareness that remains present whether meanings arise or dissolve. The unconstructed is what you encounter when stories break down—not as a problem to be solved, but as the foundation from which all constructions emerge.
 
-**NPC Consciousness**
-Non-Player Character consciousness. The automated, programmed responses that run much of human behavior. Like a video game character following pre-written scripts, NPC consciousness reacts to triggers without genuine choice. Not a judgment about people, but a recognition of mechanical patterns that can be observed and transcended.
+The baseline state of awareness that exists before we project stories, meanings, and identities onto it. It is the silence beneath the noise, the foundation from which all constructions emerge. Encountering the unconstructed is not an existential threat, but a signal that an old story has run its course.
 
-**Charges**
-Energetic triggers that activate automatic emotional and behavioral responses. Charges are stored in the body as patterns from past experiences and conditioning. When activated, they tend to control behavior unless consciously recognized and worked with.
+**NPC (Non-Player Character) Consciousness**
 
-**Interpolation**
-The mind's tendency to create stories to fill gaps in attention or memory. When consciousness samples reality sparsely (which it often does), interpolation creates the illusion of continuous experience by constructing narratives about what "must have happened" during unconscious periods.
+The automated, programmed thoughts, feelings, and behaviors that run much of human life. Like a video game character following a script, NPC consciousness reacts to triggers without genuine, conscious choice. This is a description of a mechanical pattern, not a judgment of a person.
 
-**The Game of Games**
-The hierarchical structure where each level of reality (personal, social, cultural, meta) contains the previous levels while being contained by larger ones. Understanding this structure allows conscious participation rather than unconscious reaction at any level.
+**Charge**
 
-## **Practical Terms**
+An energetic pattern in the body-mind that triggers an automatic response. Charges are formed from past experiences and conditioning. In the "mental landscape" model, charges are points of energetic significance that either attract (positive charge) or repel (negative charge) your attention.
 
-**Conscious Participation**
-Engaging with life while maintaining awareness of the constructed nature of all activities. Not withdrawal from the world, but skillful engagement that doesn't depend on any particular outcome for fulfillment.
+**Manual Override**
 
-**Work as Conscious Practice**
-Approaching professional life as spiritual development rather than just economic necessity. Like the Karate Kid's seemingly mundane tasks that secretly developed martial arts skills, work becomes practice for presence, energy management, and conscious engagement.
+The process by which soul-level consciousness takes direct control, bypassing the NPC's automated responses. This is achieved not by fighting the programming, but by consciously integrating charges through focused, non-identified presence.
 
-**True vs. False Hierarchy**
-True hierarchy is based on genuine wisdom, competence, and development—natural levels of understanding that serve learning and growth. False hierarchy is based on power, manipulation, and control—artificial structures that serve ego and domination.
+**Mental Landscape**
 
-**Resting in the Unconstructed**
-The practice of remaining present with the fundamental awareness that underlies all constructed meanings, without needing to create new stories or fix uncomfortable feelings. Not passive resignation, but active presence with what is.
+A model for understanding the mind as a dynamic space filled with positive and negative "charges." Ordinary, wandering awareness is passively pulled and pushed between these charges. Agency is the skill of consciously navigating this landscape.
 
-## **Advanced Concepts**
+**The Observer**
 
-**Free Will as Information from Above**
-Genuine choice emerges as information from one level above current identification. What feels like free will at one level appears as programming from a higher perspective, creating an infinite hierarchy where freedom is always available from just beyond current limitations.
+Not a fixed entity, but a relational process. It is the function of awareness that creates a space between stimulus and response, allowing for conscious choice. The "Observer Trap" is mistaking this function for your ultimate identity.
 
-**Ultimate Judgment**
-The recognition that final evaluation isn't based on following social rules or achieving outcomes, but on the quality of consciousness brought to engagement itself. How we engage with the "machine" of conditioning and programming is what we take with us beyond any particular social context.
-
-**Meta-Awareness**
-The capacity to observe the process of meaning-making without being trapped by any particular meaning. Not a permanent state, but a perspective that can be accessed to see the games within games that structure human experience.
+## Advanced Concepts
 
 **Planes of Existence**
-Different levels of reality and consciousness that operate simultaneously: physical, emotional, mental, energetic, and spiritual. Each plane has its own rules and patterns, and conscious development involves learning to navigate all planes skillfully.
 
-## **Practical Applications**
+Different, simultaneously existing layers of reality (e.g., physical, energetic, intuitive). The brain acts as a receiver, typically tuning into only the physical plane. Consciousness development involves learning to access and navigate information from multiple planes.
 
-**Charge Recognition**
-The skill of noticing when automatic emotional patterns are activated, allowing conscious choice rather than unconscious reaction. Involves body awareness, pattern recognition, and the capacity to pause between trigger and response.
+**Graduated Soul Mentorship System**
 
-**Energy Management**
-Learning to work with the energies that control charges rather than being controlled by them. This includes practices for maintaining presence under pressure, conscious breathing, and skillful engagement with difficult emotions.
+A model for understanding spiritual development as a collaborative process. Souls who have mastered the human incarnation cycle "graduate" and become part of a guidance system, providing non-intrusive, educational support to those still on the journey.
 
-**Conscious Engagement**
-The art of participating fully in constructed systems (work, relationships, social roles) while maintaining awareness of their provisional nature. Not detachment, but engaged non-attachment.
+**Surrender**
 
-**Integration Without Attachment**
-The capacity to bring together different perspectives and experiences without needing to create a final, fixed position. Holding paradox without collapsing into either extreme.
+Not passive resignation, but a conscious, active process. The deepest surrender is not to a flow state, but to the unconstructed itself. At the highest level, it involves the NPC (character) surrendering to being skillfully played by the soul (the player).
+
+## Practical Terms
+
+**Integration**
+
+The process of weaving the insights and capacities gained in practice into the fabric of everyday life. It is the dissolution of the boundary between "spiritual practice" and "real life," where every interaction becomes an opportunity to exercise conscious choice.
+
+**Holding a Charge**
+
+The practice of keeping your attention on an active charge (a strong emotion, a desire, an aversion) without either acting on it or suppressing it. This is a core mechanism for integrating the charge and liberating the energy it contains.
+
+**Vector**
+
+A goal reconceived as a direction on a compass rather than a fixed destination. Setting a vector (e.g., toward "creative fulfillment") provides clear direction while allowing for flexibility in how the journey unfolds, avoiding the rigidity of the Manifestation Trap.
 
 ---
 
-*This glossary is meant as a reference tool. The concepts are best understood through direct experience and practice rather than intellectual analysis alone.*
+*This glossary is a reference tool. The concepts are best understood through direct experience and practice, not just intellectual analysis.*
