@@ -2,6 +2,17 @@
 
 *New to consciousness work? Start here before diving into the full book.*
 
+## Important: Take Your Time
+
+**This guide is intentionally dense** - it introduces many core concepts and practices in a compressed format. **Don't try to absorb everything at once.** Consider this approach:
+
+- **First read-through:** Get a general sense of the territory
+- **Second read-through:** Focus on one section at a time
+- **Implementation:** Start with just one or two practices
+- **Gradual expansion:** Add new elements only when the previous ones feel stable
+
+**Remember:** It's better to practice one technique consistently for 30 days than to try all techniques superficially. Quality of attention matters more than quantity of practices.
+
 ## Choose Your Entry Point
 
 This book serves different types of readers. Choose the path that best matches your current situation:
