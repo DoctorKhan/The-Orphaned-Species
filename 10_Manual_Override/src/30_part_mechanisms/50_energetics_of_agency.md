@@ -36,6 +36,16 @@ The practice requires three key elements:
 
 When the complement is fully formed, the charge is "completed" or "integrated." It no longer exerts a compulsive pull or push. It becomes a part of your known territory, and you gain conscious control over your response to it. The energy that was locked in the charge-reaction cycle is liberated and becomes available to you.
 
+There is a story of a young girl who suffered from debilitating chronic pain. Her parents, having exhausted all conventional options, took her to see a yogi in a remote cave. The yogi taught her a simple practice. He had her stare at a candle flame for a minute, then close her eyes and count how long she could hold the afterimage in her mind's eye. He told her to practice this every day until the afterimage faded almost instantly.
+
+Once she had mastered this, he gave her the second instruction: "Now, do the same thing with your pain." The yogi was teaching her about a fundamental process of the mind: **completion**.
+
+When you stare at a light source, the afterimage you see is its **complement**—the inverse color and brightness. By holding the afterimage in her mind, the girl was training her attention to generate and hold the complement to a signal, allowing the original signal to achieve completion and fade away.
+
+She then applied this to her pain. Instead of just observing it, she learned to generate its complement. This isn't a purely intellectual act; it's a deep, intuitive process of allowing the mind to create the "opposite" energetic signature of the pain. As she held the pain and its complement together in her awareness, the original signal of pain was neutralized, completed, and could finally dissolve. The suffering ceased because the signal was no longer incomplete.
+
+This is the essence of Manual Override. It is not about becoming a superhero who feels no pain. It is about becoming a conscious navigator who can experience any charge—pain, pleasure, fear, desire—without being automatically thrown into a reactive, programmed state of suffering or craving.
+
 **The Progressive Nature of Override:**
 
 Manual override develops through both discrete moments and gradual capacity building:

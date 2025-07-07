@@ -185,6 +185,13 @@ If you find the idea of being an "NPC" confronting, consider how modern neurosci
 *   **The Refrigerator Stare**: You're watching TV, and during a commercial break, you find yourself standing in front of an open refrigerator without any memory of deciding to get up and walk there. A subtle cue (boredom, a food ad) triggered an automatic "seek food" program.
 *   **The Social Media Scroll Hole**: You pick up your phone to check a single notification and "wake up" 30 minutes later, having scrolled mindlessly through a feed. The app's design is engineered to trigger these exact attention-hijacking autopilot loops.
 *   **The "How Are You?" Script**: When a coworker asks, "How are you?" you automatically respond, "Fine, thanks, how are you?" without any actual check-in with your internal state. The entire exchange is a pre-programmed social script that requires zero conscious presence.
+*   **The Mindfulness Program and the Cold Spring**: I once spoke with a woman suffering from severe depression. She had a look of deep pain on her face and spoke as if her mind were somewhere else entirely. I asked if she had tried mindfulness. She said yes, she had been going to a local natural spring to swim every day, and she would practice mindfulness as she got out of the cold water. For a time, it worked.
+
+    When I asked why she stopped, she replied, "Well, it got colder in the winter, so I couldn't go to the springs anymore."
+
+    This was an alarm bell. Her practice wasn't a flexible, internal skill; it had become a rigid program dependent on an external trigger—the spring. When the trigger was removed, the program could no longer run. This is a subtle but powerful example of the autopilot at work. The *feeling* of mindfulness was real, but the *agency* behind it was outsourced to the environment.
+
+    It reminded me of my own experiences with depression. On my worst days, a trip to a waterpark would make me feel immensely better. The constant, overwhelming sensation of splashing water seemed to physically break up the dense clouds of rumination. I began to understand the paradox: sometimes, the only way to get out of the metaphorical "water" of a depressive state is to get into the literal "water" of intense, undeniable sensory experience. You use the body to interrupt the mind's runaway loop.
 
 Recognizing these patterns in yourself is not a sign of failure. It is the first, most crucial step toward reclaiming the driver's seat.
 
@@ -346,7 +353,7 @@ The path to freedom often leads through what the NPC considers boring, because b
 - Respond to transcendence charges: meaning, purpose, unity, enlightenment
 - Driven by seeking special experiences and spiritual identity
 - Programming focused on collecting insights and spiritual materialism
-- Can access genuine spiritual states but interpret them through ego filters
+- Prevents genuine spiritual development through spiritual materialism
 
 ## The Meta-Awareness Alternative
 
