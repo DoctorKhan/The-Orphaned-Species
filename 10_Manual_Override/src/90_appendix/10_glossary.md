@@ -8,11 +8,11 @@ The baseline state of awareness that exists before we project stories, meanings,
 
 **NPC (Non-Player Character) Consciousness**
 
-The automated, programmed thoughts, feelings, and behaviors that run much of human life. Like a video game character following a script, NPC consciousness reacts to triggers without genuine, conscious choice. This is a description of a mechanical pattern, not a judgment of a person.
+The automated, programmed thoughts, feelings, and behaviors that run much of human life. It operates on a probabilistic path through the **mental landscape**, reacting to triggers without genuine, conscious choice. This is a description of a mechanical pattern, not a judgment of a person.
 
 **Charge**
 
-An energetic pattern in the body-mind that triggers an automatic response. Charges are formed from past experiences and conditioning. In the "mental landscape" model, charges are points of energetic significance that either attract (positive charge) or repel (negative charge) your attention.
+An energetic pattern in the body-mind that triggers an automatic response. Charges are formed from past experiences and conditioning. In the "mental landscape" model, charges are points of energetic significance that either attract (positive charge) or repel (negative charge) your attention. They can be understood as un-integrated **Parts**.
 
 **Manual Override**
 
@@ -25,6 +25,10 @@ A model for understanding the mind as a dynamic space filled with positive and n
 **The Observer**
 
 Not a fixed entity, but a relational process. It is the function of awareness that creates a space between stimulus and response, allowing for conscious choice. The "Observer Trap" is mistaking this function for your ultimate identity.
+
+**Parts (Internal Family Systems)**
+
+A model for understanding the psyche as a collection of sub-personalities or "parts." In this book, **Charges** are often functionally equivalent to parts—they are energetic patterns with their own beliefs, feelings, and history. The Cosmic Rhythm (Identify, Relate, Integrate) is a method for working with these parts.
 
 ## Advanced Concepts
 
@@ -44,7 +48,7 @@ Not passive resignation, but a conscious, active process. The deepest surrender 
 
 **Integration**
 
-The process of weaving the insights and capacities gained in practice into the fabric of everyday life. It is the dissolution of the boundary between "spiritual practice" and "real life," where every interaction becomes an opportunity to exercise conscious choice.
+The process of weaving the insights and capacities gained in practice into the fabric of everyday life. It involves the dissolution of the boundary between "spiritual practice" and "real life," and the harmonization of internal **Parts** into a cohesive Self.
 
 **Holding a Charge**
 
