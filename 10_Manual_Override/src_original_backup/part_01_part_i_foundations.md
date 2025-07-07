@@ -9,7 +9,8 @@ This is the **Personal Game**—the most intimate level of the game of games, wh
 
 ## The Rules of the Personal Game
 
-**Player 1: Awareness** - The capacity to observe, choose, and respond consciously  
+**Player 1: Awareness** - The capacity to observe, choose, and respond consciously
+
 **Player 2: Programming** - Biological conditioning, trauma patterns, cultural imprints, and automated responses
 
 **The Playing Field**: Your own mind and body, where every thought, emotion, and sensation becomes either a conscious choice or an unconscious reaction.
