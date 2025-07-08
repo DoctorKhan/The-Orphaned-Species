@@ -1,14 +1,20 @@
-# The Missing Rites: How the Loss of Passage Prevents True Adulthood
+# Evidence File #2: The Perpetual Adolescence Mystery
 
-*"A society without rites of passage is a society of eternal adolescents."*
+## The Strange Case of the Missing Adults
 
-You completed high school, maybe college, got a job, perhaps married, maybe had children. By all external measures, you're an adult. But something feels missing—a sense of having truly crossed a threshold, of having been tested and proven, of belonging to a community of people who have undergone the same transformation. You're biologically mature but psychologically still waiting for someone to confirm that you've actually grown up.
+**The Observation**: You completed high school, maybe college, got a job, perhaps married, maybe had children. By all external measures, you're an adult. But something feels missing—a sense of having truly crossed a threshold, of having been tested and proven, of belonging to a community of people who have undergone the same transformation.
 
-This isn't personal inadequacy. It's the predictable result of living in a culture that has systematically dismantled the very mechanisms that traditionally created genuine adults: **rites of passage**.
+**The Anomaly**: Despite having more education, resources, and opportunities than any generation in history, many modern adults report feeling perpetually adolescent, directionless, and uncertain about their place in the world.
 
-## What Rites of Passage Actually Do
+**The Pattern**: Across cultures and throughout history, societies created specific mechanisms to transform children into adults. Modern society has systematically dismantled these mechanisms without replacing them with functional alternatives.
 
-Traditional rites of passage weren't arbitrary cultural rituals—they were sophisticated technologies for psychological transformation. They served multiple crucial functions that modern society has largely abandoned:
+**The Question**: Why do modern adults feel perpetually adolescent and directionless, and what crucial social technology have we lost?
+
+**Working Hypothesis**: The systematic dismantling of rites of passage has created a society of people who are biologically mature but psychologically stuck in extended adolescence, unable to access the confidence and purpose that comes from genuine initiation into adulthood.
+
+## Forensic Analysis: What We've Lost
+
+**Evidence from Traditional Societies**: Cross-cultural research reveals that traditional rites of passage weren't arbitrary cultural rituals—they were sophisticated technologies for psychological transformation. Let's examine what functions they served:
 
 **Ego Death and Rebirth**: True rites of passage involve a symbolic (and sometimes literal) death of the child-self and rebirth as an adult. This isn't metaphorical—participants genuinely experience the dissolution of their previous identity and the emergence of a new one.
 
