@@ -26,6 +26,12 @@ The Great Pyramid of Giza is a mathematical marvel. Its base is level to within 
 
 **The Question:** How did the ancient Egyptians achieve a level of precision in surveying, quarrying, and construction that rivals modern technology? The proposed methods of ramps and levers do not fully account for the tolerances achieved.
 
+### Clue #8.5: The Stolen Solar System
+
+In a museum in Berlin sits a small Sumerian cylinder seal, cataloged as VA243. Carved nearly 4,500 years ago, it depicts our sun surrounded by planets in what appears to be a heliocentric model, with Earth and other bodies orbiting the sun. It even seems to show Pluto, a planet not officially discovered until 1930. This artifact, predating Copernicus by four millennia, represents astronomical knowledge that was not supposed to exist.
+
+**The Question:** How did the Sumerians possess astronomical knowledge that was not rediscovered until the Renaissance? This is not an isolated error; it is a precise depiction of a system they should not have been able to see. Is it a lucky guess, or is it, like their mathematics and writing, a fragment of inherited knowledge from a civilization that already knew the true structure of our solar system?
+
 ## The Global Pattern
 
 Perhaps even more mysterious than the precision of any single site is the pattern that emerges when we look at them globally. Across continents, separated by thousands of miles and thousands of years, we see the same architectural motifs and the same astronomical knowledge, appearing in cultures that had no known contact.

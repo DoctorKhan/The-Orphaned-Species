@@ -44,7 +44,11 @@ Critics demand specific mechanisms for how stone circles could function as consc
 
 The stories of gods walking among men, of epic battles in the heavens, of worldwide floods and cataclysmic destruction—these function as profound consciousness technologies. Whether they preserve literal historical memories or represent sophisticated mythological frameworks, they serve the same essential purpose: they convey everything important about human nature, cosmic purpose, and evolutionary potential.
 
-Like the Inuit stories that shape children's consciousness without needing to be literally true, these myths provide functional frameworks for understanding:
+Like the Inuit stories that shape children's consciousness without needing to be literally true, these myths function as distributed technical libraries—encoded knowledge designed to survive civilizational collapse.
+
+Consider the Sumerian concept of the ME—the divine decrees or cosmic principles handed down by the gods. The texts describe these ME as being "recovered," "restored to order," and "rebuilt from memory." This is the language of data recovery, not divine revelation. The ME were the fragmented source code of the Titan world—technical manuals for agriculture, law, astronomy, and social order, repackaged as divine gifts to ensure their preservation by a less advanced human population.
+
+These myths provide functional frameworks for understanding:
 - The tension between different approaches to consciousness and civilization
 - The ongoing struggle between wisdom-based and power-based systems
 - The hidden potentials within human nature
