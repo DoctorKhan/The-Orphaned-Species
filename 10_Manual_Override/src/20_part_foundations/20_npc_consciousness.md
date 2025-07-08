@@ -478,6 +478,41 @@ Throughout the day, catch yourself "filling in the blanks":
 
 *Simply notice these moments without judgment. The goal is recognition, not elimination.*
 
+## 🎮 Player Assessment: Are You an NPC?
+
+**Try This Now:** For the next 60 seconds, simply observe your thoughts without trying to control them. Just watch what your mind does when you're not actively directing it.
+
+*What did you notice? Random thoughts? Planning? Worrying? Replaying conversations?*
+
+**🏆 Achievement Unlocked: Observer Mode Activated** *(if you successfully watched your thoughts for 60 seconds)*
+
+### 🎯 Side Quest: The NPC Detection Challenge
+
+For the next 24 hours, catch yourself in "autopilot mode" at least 5 times. Don't try to change anything—just notice and mentally note: "NPC moment detected."
+
+**Common NPC Moments to Watch For:**
+- Scrolling social media without deciding to
+- Eating while distracted
+- Driving familiar routes with no memory of the journey
+- Responding to texts immediately without thinking
+- Following the same morning routine unconsciously
+
+**🏆 Achievements Available:**
+- **First Detection** ✨ - Notice your first autopilot moment
+- **Pattern Recognition** 🔍 - Identify your top 3 NPC triggers
+- **Awareness Streak** ⚡ - Catch 5 NPC moments in one day
+
+### 🎯 Advanced Side Quest: The Interpolation Investigation
+
+**Challenge:** For one day, every time you "wake up" from autopilot, ask yourself: "What story is my mind creating about what just happened?"
+
+**Examples:**
+- You find yourself in the kitchen with no memory of walking there → Notice what explanation your mind generates
+- You realize you've been scrolling for 20 minutes → Observe how you rationalize the time loss
+- You catch yourself mid-argument using familiar phrases → Notice the story about "why you had to say that"
+
+**🏆 Achievement: Story Detective** 🕵️ *(Catch 3 interpolation stories in one day)*
+
 **Reflection Questions**
 
 1. Can you identify times when you "woke up" during an activity and realized you'd been on autopilot? What stories did your mind create about that unconscious period?

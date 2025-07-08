@@ -495,3 +495,53 @@ Use this weekly to track your development:
 - What specific pattern will I work with?
 - Which practices will I prioritize?
 - What support do I need?
+
+## 🎮 Practice Progression System
+
+### 🏆 Foundational Achievements
+
+**Beginner Level:**
+- **First Sit** ✨ - Complete your first 5-minute adaptation session
+- **Sensation Surfer** 🌊 - Successfully adapt to an uncomfortable sensation without fighting it
+- **Thought Observer** 👁️ - Watch thoughts come and go for 2 minutes without getting caught in them
+- **Breath Buddy** 💨 - Use breath as an anchor for 10 consecutive breaths
+
+**Intermediate Level:**
+- **Adaptation Master** ⚡ - Complete 7 consecutive days of practice
+- **Charge Detector** 🔍 - Identify 3 different types of charges in your body
+- **Pattern Breaker** 🔓 - Catch yourself mid-automatic reaction and choose differently
+- **Signal Processor** 📡 - Successfully process a difficult emotion without suppressing or expressing
+
+**Advanced Level:**
+- **Reality Hacker** 🔧 - Notice how your state of consciousness affects your perception of reality
+- **Nervous System Whisperer** 🧘 - Help your nervous system regulate during high stress
+- **Presence Warrior** ⚔️ - Maintain awareness during challenging social situations
+
+### 🎯 Weekly Side Quests
+
+**Week 1: The Adaptation Challenge**
+- Practice sensory adaptation for 5 minutes daily
+- Try it with different sensations: sounds, physical discomfort, emotions
+- **Bonus**: Adapt to something you usually avoid (cold shower, spicy food, etc.)
+
+**Week 2: The Charge Mapping Quest**
+- Create a "charge map" of your body
+- Notice where different emotions show up physically
+- **Bonus**: Find your "charge reset button" - the practice that most quickly restores balance
+
+**Week 3: The Automatic Response Investigation**
+- Catch 5 automatic responses before they complete
+- Practice the pause between stimulus and response
+- **Bonus**: Successfully redirect one automatic response into a conscious choice
+
+**Week 4: The Integration Mission**
+- Apply one practice technique to a real-world challenge
+- Use adaptation skills during a difficult conversation or stressful situation
+- **Bonus**: Teach someone else one of the techniques you've learned
+
+### 🏅 Master Level Challenges
+
+**The 30-Day Adaptation Streak** - Practice daily for 30 days (any duration counts)
+**The Difficult Emotion Alchemist** - Transform 5 challenging emotions through conscious processing
+**The Social Presence Master** - Maintain conscious awareness during 10 social interactions
+**The Reality Shifter** - Document 3 instances where changing your consciousness changed your experience
