@@ -8,6 +8,16 @@ This timeline synthesizes the mythological framework presented throughout this b
 
 The following timeline traces the major phases of human development within this mythological framework, from initial genetic preparation through the current evolutionary choice point.
 
+### Understanding the Reset Cycle
+
+Throughout this timeline, you'll notice a pattern of cyclical "reset" events—catastrophic disruptions that reshape both human genetics and civilization. These resets aren't random disasters but appear to serve specific purposes in the ongoing experiment:
+
+- **Genetic Resets**: Bottleneck events that modify human DNA and capabilities
+- **Civilizational Resets**: Climate/cosmic events that collapse and rebuild human societies
+- **Consciousness Resets**: Transitions that alter human awareness and spiritual development
+
+The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets, not any single event. Different cultures remember different resets in their flood myths and catastrophe stories.
+
 ## Phase I: Primordial Seeding (Millions of Years Ago)
 
 *The Long Foundation: Setting the Stage for Consciousness*

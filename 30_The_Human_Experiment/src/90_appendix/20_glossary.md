@@ -27,6 +27,8 @@
 
 **Genesis Bottleneck** - The near-extinction event between 800,000-900,000 years ago that reduced human ancestral population to just over a thousand individuals. Within this framework, this was Phase II of the Titan experiment - a selection and preparation phase that installed sophisticated genetic modifications.
 
+**Great Catastrophe/Deluge** - Not a single event, but the cyclical pattern of reset events that have shaped human history. Different cultures preserve memories of different resets in their flood myths: the 4.2 kiloyear event (biblical deluge), the Younger Dryas impact, and other civilizational collapses. Each reset served different purposes in the ongoing human experiment.
+
 **Göbekli Tepe** - Massive temple complex constructed 11,600 years ago, representing the first major Anunnaki construction project. Served as memorial to defeated Titans and template for organized labor under centralized control. Deliberately buried around 10,000 years ago as part of systematic erasure of Titan-era evidence.
 
 ## H

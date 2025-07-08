@@ -6,7 +6,7 @@
 
 ## A Memory of Erasure
 
-The final category of evidence is a story written into the collective memory of our entire species: the Great Flood. This narrative is not just a myth; it is a preservation mechanism, a memory of a catastrophe so profound that it has haunted humanity for millennia.
+The final category of evidence is a story written into the collective memory of our entire species: the Great Flood. This narrative is not just a myth; it is a preservation mechanism, a memory of cyclical catastrophes so profound that they have haunted humanity for millennia.
 
 These stories are not about water; they are about a break in continuity. In every version, the world *before* the flood was different—more advanced, more populated, more connected to divine knowledge. The world *after* is a simplified reconstruction, built from the fragments of what was lost. The flood myth is the story of a species rebooting from an incomplete backup.
 
@@ -24,7 +24,13 @@ He is not just tasked with saving animals; he is tasked with preserving the very
 
 ## A Recurring Cycle
 
-This framework suggests the flood myth describes a recurring pattern of civilizational rise, collapse, and reconstruction. The gods' regret after the flood and their promise never to destroy the world again can be read not as divine remorse, but as a *policy adjustment*. The keepers of this knowledge—the "gods" of the myth—realized that total erasure was counterproductive, leading to unacceptable knowledge loss. They had learned from the experience of a previous collapse.
+This framework suggests the flood myths describe a recurring pattern of civilizational rise, collapse, and reconstruction. Different flood stories may preserve memories of different reset events:
+
+- **The 4.2 kiloyear event** (4,200 years ago) - The biblical deluge period that collapsed Bronze Age civilizations
+- **The Younger Dryas impact** (12,900 years ago) - The cosmic catastrophe that ended the ice age
+- **Earlier reset events** preserved in various cultural memories
+
+The gods' regret after the flood and their promise never to destroy the world again can be read not as divine remorse, but as a *policy adjustment*. The keepers of this knowledge realized that total erasure was counterproductive, leading to unacceptable knowledge loss. They had learned from the experience of previous collapses.
 
 This implies that our history is not a linear progression, but a series of cycles. We are a species that reaches a certain level of complexity, collapses under its own weight, and is forced to rebuild from the instructions preserved by the few who were prepared.
 
