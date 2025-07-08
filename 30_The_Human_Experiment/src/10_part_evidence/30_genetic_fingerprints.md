@@ -94,7 +94,7 @@ These clues, written into our DNA, do not fit a simple narrative of gradual evol
 
 ## Case Study: The British Genetic Anomalies
 
-The global patterns of genetic intervention become even more striking when we examine specific regional examples. Recent research on British population genetics reveals a series of anomalies that exemplify the broader pattern of mysterious population replacements and selective pressures.
+The global patterns become even more intriguing when we examine specific regional examples. Recent research on British population genetics reveals a series of anomalies that exemplify the broader pattern of mysterious population replacements and selective pressures.
 
 ### The Ghost in the Genome: A Tale of Two Ancestors
 
@@ -118,4 +118,4 @@ The same research uncovered another bizarre British anomaly. The genetic mutatio
 
 **This is our third clue:** An intense, localized evolutionary pressure in Britain that made dairy consumption uniquely important, far earlier than anywhere else in Europe. This change was not brought by the Bronze Age migrants; it happened *after* they arrived.
 
-Within this framework, these British anomalies represent a microcosm of the larger human experiment—dramatic population replacements, mysterious genetic reversals, and accelerated evolution under unknown selective pressures. The pattern suggests not random migration and natural selection, but systematic intervention and management of human populations for purposes we can only begin to imagine.
+These British anomalies could represent a microcosm of larger patterns—dramatic population replacements, mysterious genetic reversals, and accelerated evolution under unknown selective pressures. What if these weren't random migrations and natural selection, but something more systematic? The precision of these changes raises questions about whether human populations have been subject to management for purposes we can only begin to imagine.

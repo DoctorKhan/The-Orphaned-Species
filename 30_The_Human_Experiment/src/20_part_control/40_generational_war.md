@@ -48,7 +48,7 @@ This dramatic shift in approach suggests we're not dealing with a single group o
 
 ## The Evidence for Two Factions
 
-The mythological and archaeological evidence suggests we're looking at two distinct groups with opposing philosophies:
+What if the mythological and archaeological evidence points to two distinct groups with opposing philosophies?
 
 **Faction A: The Builders**
 - Associated with megalithic construction and astronomical knowledge
