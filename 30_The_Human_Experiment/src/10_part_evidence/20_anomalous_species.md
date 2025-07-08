@@ -88,7 +88,7 @@ The interbreeding between Titans and humans created two distinct hybrid lineages
 
 **The Nephilim** - Born from unions between male Titans and human women, these hybrids inherited the patriarchal structures of their divine fathers. The biblical account speaks of "sons of God" taking "daughters of men," creating giants and mighty warriors. Within this framework, the Nephilim represented the attempt to maintain Titan dominance through male lineage, but their genetic instability and violent tendencies made them ultimately unsustainable.
 
-**The Albians** - Born from unions between Titan goddesses and human men, these hybrids developed along entirely different lines. The goddess mothers, being more adaptable and nurturing, created stable hybrid communities organized around matrifocal principles. Unlike the aggressive Nephilim, the Albians developed sophisticated knowledge systems, consciousness technologies, and sustainable relationships with the natural world.
+**The Albians** - Within this mythological framework, these beings were born from unions between Titan goddesses and human men, developing along entirely different lines. The goddess mothers, being more adaptable and nurturing, created stable hybrid communities organized around matrifocal principles. Unlike the aggressive Nephilim, the Albians developed sophisticated knowledge systems, consciousness technologies, and sustainable relationships with the natural world.
 
 ## The Albian Civilization
 
