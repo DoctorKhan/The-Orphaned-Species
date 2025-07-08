@@ -14,7 +14,15 @@ The brain's capacity for change operates according to specific principles that r
 
 **The Charge-Neural Interface:**
 
-What neuroscience calls "neural pathways" correspond to what we might call charge patterns—energetic configurations that shape how consciousness flows through the nervous system. High-charge experiences create stronger neural imprints because emotional intensity literally burns patterns more deeply into the brain's structure. When charge patterns repeat consistently, they become automatic neural responses that fire without conscious input. Charge conflicts create competing neural networks, which explains why people can feel torn between different impulses or beliefs. However, when charge conflicts are resolved—when the underlying energetic tension is released—new neural patterns can form that integrate previously conflicting elements.
+What neuroscience calls "neural pathways" correspond to what we might call charge patterns—energetic configurations that shape how consciousness flows through the nervous system. High-charge experiences create stronger neural imprints because emotional intensity literally burns patterns more deeply into the brain's structure. When charge patterns repeat consistently, they become automatic neural responses that fire without conscious input.
+
+**Schema Therapy Connection:**
+Psychology's **Schema Therapy** provides another lens for understanding this process. Schemas are deep-rooted patterns of thinking, feeling, and behaving that develop in childhood and continue throughout life. These schemas operate automatically and often unconsciously, creating what Schema Therapy calls "schema modes"—different states of being that get triggered by specific situations. This maps directly onto our charge pattern model:
+- **Early Maladaptive Schemas** = deeply embedded charge patterns from childhood
+- **Schema Modes** = activated charge states that take over consciousness
+- **Schema Healing** = conscious integration of charge patterns
+
+Charge conflicts create competing neural networks, which explains why people can feel torn between different impulses or beliefs. However, when charge conflicts are resolved—when the underlying energetic tension is released—new neural patterns can form that integrate previously conflicting elements.
 
 **The Programming Vulnerability:**
 

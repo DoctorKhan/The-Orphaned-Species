@@ -16,6 +16,14 @@ Your ordinary, wandering mind is simply your consciousness moving across this la
 
 **Agency, in this model, is the conscious navigation of this landscape.** It is the capacity to intentionally move toward, away from, or *remain still* with a charge, rather than being passively pulled or pushed by it. The "energy" of agency is not a consumable fuel, but the clarity and stability of focus required to consciously direct your attention within this internal world.
 
+**Attention Research Foundation:**
+Cognitive neuroscience research on **executive attention** supports this model. Studies by Michael Posner and others have identified three attention networks:
+- **Alerting Network**: Maintaining vigilant awareness
+- **Orienting Network**: Directing attention to specific locations or objects
+- **Executive Network**: Resolving conflicts between competing stimuli
+
+The executive attention network, centered in the anterior cingulate cortex, is what allows us to override automatic responses—exactly what we're calling "manual override." Research shows this network can be strengthened through meditation practice, and that its capacity varies based on factors like stress, fatigue, and training. This provides the neurological basis for why agency feels like a finite resource that can be depleted and restored.
+
 ## The Manual Override Process
 
 The title of this book—"Manual Override"—refers to the specific mechanism by which soul-level consciousness takes direct control, bypassing the NPC's automated responses entirely. This is not about improving the NPC or making it more sophisticated; it's about the soul progressively doing the work that the NPC was previously handling automatically.

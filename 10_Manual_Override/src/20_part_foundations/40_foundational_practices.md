@@ -14,6 +14,9 @@ What if meditation isn't about forcing stillness or concentration at all, but ab
 
 The wellness industry has misunderstood these practices entirely, turning natural adaptation processes into effortful concentration techniques. But the original method was far simpler and more effective: stay still, fixed, and relaxed, and allow your nervous system to naturally adapt to whatever is present.
 
+**Scientific Validation:**
+Research by neuroscientist **Judson Brewer** and others has shown that meditation works by reducing activity in the Default Mode Network (DMN)—the brain network responsible for self-referential thinking and mind-wandering. Studies using fMRI scans reveal that experienced meditators show decreased DMN activity even during rest, suggesting permanent changes in brain function. Additionally, research on **habituation**—the nervous system's tendency to reduce response to repeated stimuli—provides the neurological basis for the sensory adaptation model. When we remain still and relaxed with challenging sensations, we're leveraging the brain's natural habituation mechanisms rather than fighting against them.
+
 ## Mindfulness as Sensory Adaptation
 
 Traditional mindfulness instruction focuses on "concentration" and "controlling the mind." But this misses the actual mechanism at work. Mindfulness is **sensory adaptation**—your nervous system's natural ability to adapt to whatever signals are present when you remain still, fixed, and relaxed.

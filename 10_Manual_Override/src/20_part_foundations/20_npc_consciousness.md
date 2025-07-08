@@ -148,6 +148,13 @@ If you find the idea of being an "NPC" confronting, consider how modern neurosci
 
 **Insights from Neuroscience:**
 
+Modern neuroscience provides compelling evidence for the NPC model through research on the **Default Mode Network (DMN)**—a network of brain regions that becomes active when we're not focused on specific tasks. The DMN is responsible for:
+- **Autobiographical planning**: Creating stories about past and future
+- **Self-referential thinking**: Maintaining the sense of a continuous self
+- **Mind-wandering**: The stream of unconscious mental activity
+
+Studies show the DMN operates largely below conscious awareness, generating the constant mental chatter and automatic responses that characterize NPC consciousness. When people report feeling "on autopilot," they're often experiencing DMN dominance over conscious attention networks.
+
 *   **The Libet Experiment**: In the 1980s, neuroscientist Benjamin Libet conducted a landmark experiment where he asked subjects to flick their wrist whenever they felt the urge. He discovered that brain activity associated with the intention to act (the "readiness potential") began a fraction of a second *before* the subjects reported being consciously aware of their decision to act. This suggests that what we experience as a conscious choice is often just our awareness catching up to a decision the brain has already made.
 *   **Split-Brain Patients**: Patients whose brain hemispheres have been surgically disconnected provide stunning examples of post-hoc rationalization. In one study, an instruction ("walk") was flashed only to the right hemisphere (which controls the left side of the body). The patient stood up and started walking. When asked why he was walking, his left hemisphere (the seat of language and the "interpreter")—which had not seen the command—immediately invented a reason: "I'm going to get a Coke." It created a plausible story to explain a behavior it did not consciously initiate.
 *   **The Habit Loop (Basal Ganglia)**: Neuroscience shows that habits are encoded in the basal ganglia, a part of the brain that operates automatically, without conscious input from the prefrontal cortex (the "thinking" part of the brain). When you perform a habit—like driving to work or brushing your teeth—you are literally using a different, more ancient and automatic brain system. You are on autopilot.
