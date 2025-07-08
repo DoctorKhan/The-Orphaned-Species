@@ -1,8 +1,8 @@
 # Chapter 8: The Great Reset
 
-*Dr. Brennan, a specialist in comparative mythology, stared at the maps covering his office walls. They showed the distribution of a single story, a narrative that appeared in hundreds of cultures across every continent, many of which had never been in contact. A divine council decides humanity has grown too troublesome. A catastrophic flood is sent to wipe the slate clean. A single righteous survivor is warned, given detailed instructions to build a vessel, and tasked with preserving life to start the world anew.*
+*Dr. Orion, a specialist in comparative mythology, stared at the maps covering his office walls. They showed the distribution of a single story, a narrative that appeared in hundreds of cultures across every continent, many of which had never been in contact. A divine council decides humanity has grown too troublesome. A catastrophic flood is sent to wipe the slate clean. A single righteous survivor is warned, given detailed instructions to build a vessel, and tasked with preserving life to start the world anew.*
 
-*The conventional explanation was that since floods are a common disaster, different cultures independently created similar myths to explain them. But Brennan knew this was insufficient. These weren't stories about local floods. They were meticulously structured narratives about a civilizational reset. The question wasn't why so many cultures had flood myths; it was why they all had the *same* one.*
+*The conventional explanation was that since floods are a common disaster, different cultures independently created similar myths to explain them. But Orion knew this was insufficient. These weren't stories about local floods. They were meticulously structured narratives about a civilizational reset. The question wasn't why so many cultures had flood myths; it was why they all had the *same* one.*
 
 ## A Memory of Erasure
 
