@@ -30,11 +30,11 @@ Any new mythology must speak to the modern mind, which demands coherence and a b
 
 The goal is not to win a scientific debate, but to build a functional, empowering, and evolutionarily useful story for humanity's next phase of development.
 
-## The Framework: A Map for the Journey Ahead
+## The Unfolding Mystery
 
-Within this functional mythology, humanity is the result of a long-term consciousness experiment conducted by advanced beings across multiple phases of development. The story involves different generations of these beings, each with different philosophies about human potential, and the resulting control systems and consciousness technologies they left behind.
+This book is structured as a detective story. We will begin by examining the evidence—the strange anomalies in our genetics, the impossible artifacts of our ancient past, and the persistent myths that haunt our collective memory. Each piece of evidence is a clue. Only after assembling the clues will we begin to construct a framework capable of explaining them.
 
-Rather than explaining the entire framework upfront, this narrative will unfold like a detective story—presenting evidence first, then gradually revealing the mythological framework that ties it all together. The journey moves from examining our biological anomalies, through the hidden history encoded in our myths, to the choice point we face today.
+The journey moves from the known to the unknown, from scientific fact to mythological possibility. It is an invitation to think like a detective, to question assumptions, and to follow the evidence wherever it leads, even if it takes us beyond the boundaries of the conventional worldview.
 
 A glossary is provided for reference as new concepts are introduced throughout the journey.
 
