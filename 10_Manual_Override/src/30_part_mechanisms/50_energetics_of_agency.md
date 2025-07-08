@@ -24,9 +24,19 @@ Cognitive neuroscience research on **executive attention** supports this model. 
 
 The executive attention network, centered in the anterior cingulate cortex, is what allows us to override automatic responses—exactly what we're calling "manual override." Research shows this network can be strengthened through meditation practice, and that its capacity varies based on factors like stress, fatigue, and training. This provides the neurological basis for why agency feels like a finite resource that can be depleted and restored.
 
-## The Manual Override Process
+## The Manual Override Process: Solving the Mystery
 
-The title of this book—"Manual Override"—refers to the specific mechanism by which soul-level consciousness takes direct control, bypassing the NPC's automated responses entirely. This is not about improving the NPC or making it more sophisticated; it's about the soul progressively doing the work that the NPC was previously handling automatically.
+Now we can see how all the evidence fits together. Remember the patterns we documented:
+
+- **The automation evidence:** People making the same mistakes repeatedly, as if following a program
+- **The observer phenomenon:** Moments when something can step back and watch the automation
+- **The choice point gaps:** Brief windows when the programming seems to pause
+- **The energy depletion:** Why conscious choice feels like it requires effort
+- **The resistance patterns:** How the system fights back when awareness threatens its control
+
+The title of this book—"Manual Override"—refers to the solution that explains all these mysteries. It's the specific mechanism by which higher-level consciousness takes direct control, bypassing the automated responses entirely.
+
+This isn't about improving the automation or making it more sophisticated. It's about progressively transferring control from the programmed level to the conscious level—exactly what we observed in those brief moments when people seemed to "wake up" within their own lives.
 
 **The Path to Integration: Adapting to the Landscape**
 
