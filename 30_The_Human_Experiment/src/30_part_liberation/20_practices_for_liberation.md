@@ -116,6 +116,25 @@ Within this framework, the development of self-healing abilities isn't just pers
 
 **Integration with Other Modalities**: Combine energy healing with nutrition, herbal medicine, and other natural approaches for comprehensive health maintenance.
 
+#### General Diagnostic Scanning: Heat Detection
+
+Before focusing on specific conditions, develop the ability to detect general health issues through thermal scanning:
+
+**Energy Signature Recognition**: Different health conditions create distinct energetic signatures that can be detected through careful scanning:
+
+- **Strong Heat**: Indicates active infections where viruses or bacteria are nesting—these create distinct thermal signatures detectable at several inches from the body
+- **Cold Spots**: Areas of energy depletion often associated with chronic conditions, organ dysfunction, or long-term illness where vitality has been drained
+- **Buzzing or Electrical Sensations**: Typically indicate nerve issues, neurological dysfunction, or areas where the nervous system is under stress or inflammation
+
+**Scanning Technique**:
+1. Pass your hand 2-4 inches above the body surface
+2. Move slowly and systematically across all major body regions
+3. Pay attention to temperature variations, electrical sensations, and energy density changes
+4. Note the intensity, quality, and extent of different signatures to assess severity and type of condition
+5. Healthy tissue feels energetically neutral and balanced
+
+This general scanning ability provides a foundation for more specific diagnostic techniques and helps identify areas that need focused attention.
+
 #### Advanced Diagnostic Technique: Arterial Assessment
 
 As your energy sensitivity develops, you can learn to detect specific health conditions through biofield scanning. This advanced technique, part of our lost heritage, allows for precise assessment of cardiovascular health:
@@ -130,7 +149,8 @@ As your energy sensitivity develops, you can learn to detect specific health con
 1. Begin with major arterial pathways: neck (carotid), chest (coronary), arms (brachial), and legs (femoral)
 2. Move your hand slowly and systematically, allowing 3-5 seconds per area
 3. Note both the intensity of the pulse response and the quality of tightness
-4. Cross-reference findings by scanning the same area from different angles
+4. **Heat Detection**: Look for areas of strong heat, which typically indicate where viruses or bacteria are nesting—active infections create distinct thermal signatures that can be felt energetically
+5. Cross-reference findings by scanning the same area from different angles
 
 #### Advanced Energy Transmission: Full-Contact Healing
 
