@@ -1,4 +1,4 @@
-# Chapter 9: Beyond Good and Evil - A New Framework for Ethics
+# Chapter 3: Beyond Good and Evil - A New Framework for Ethics
 
 ## The Story of Two Brothers
 
@@ -161,8 +161,6 @@ This perspective doesn't eliminate responsibility—it makes it more sophisticat
 5. **Dissent gets framed** as evil, unpatriotic, or spiritually corrupt
 
 **The Psychological Appeal**: People want to believe their tribal loyalties serve universal good rather than narrow interests. This makes them vulnerable to manipulation by those who conflate the two.
-
-**Avoiding Confusion**: When people defend social moral categories as if they were universal spiritual truths, they become tools for manipulation rather than genuine ethical guidance.
 
 **Strategic Clarity**: Understanding that social morality is tribal allows you to:
 - **Recognize manipulation** when moral outrage is manufactured to serve political ends

@@ -16,7 +16,7 @@ When you enter a well-designed festival, you cross more than just a physical bou
 
 These events provide the psychological functions of ceremony—marking time, creating shared meaning, and offering transcendent experiences—but they do so outside of traditional religious frameworks. For people who have left organized religion but still crave ritual and community, festivals offer a secular spirituality that feels authentic rather than imposed.
 
-Many festivals also function as economic experiments, operating on principles of gifting and decommodification that demonstrate alternatives to market-based exchange. At Burning Man, for example, nothing is sold except ice, coffee, and tickets. Everything else is gifted, creating an economy based on abundance and generosity rather than scarcity and competition.
+Many festivals also function as economic experiments, operating on principles of gifting and decommodification that demonstrate alternatives to market-based exchange. At Burning Man, for example, commerce is prohibited within the event—no buying or selling except for ice, coffee, and tickets at the gate. Everything else operates through gifting, bartering, or sharing, creating an economy based on abundance and generosity rather than scarcity and competition.
 
 Perhaps most importantly, festival culture encourages active participation rather than passive consumption. Unlike commercial entertainment where you pay to watch others perform, festival culture turns everyone into a creator. You're not just attending an event—you're helping to create it.
 

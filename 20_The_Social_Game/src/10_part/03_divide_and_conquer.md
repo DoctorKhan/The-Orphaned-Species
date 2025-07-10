@@ -59,7 +59,7 @@ When the layoffs came, Jennifer had only vertical relationships to rely on. She 
 
 **The Unintended Convergence**: While individual policies may have been well-intentioned, their combined effect created a system where horizontal community bonds were systematically weakened while vertical institutional dependencies were strengthened—a pattern that serves some interests (corporate profits, political control, bureaucratic efficiency) while undermining others (community resilience, collective action, mutual aid).
 
-When horizontal bonds are severed, people become dependent on vertical relationships with institutions—exactly what enables top-down control. Jennifer's isolation wasn't a personal failure; it was the predictable result of decades of social change that served some interests (corporate profits, political control, individual freedom) while undermining others (community resilience, collective action, mutual aid).
+When horizontal bonds are severed, people become dependent on vertical relationships with institutions—exactly what enables top-down control. Jennifer's isolation wasn't a personal failure; it was the predictable result of this systematic transformation.
 
 ### Manufactured Tribal Conflicts: The Coffee Shop Experiment
 

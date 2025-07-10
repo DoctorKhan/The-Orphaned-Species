@@ -45,7 +45,9 @@ Here's what our culture doesn't want to acknowledge: **the most creative act mig
 
 This isn't an argument against creativity, but a challenge to examine the unconscious drives that fuel our creative compulsions. True creativity might emerge not from the need to create, but from such complete presence to life that expression becomes inevitable—not as escape from reality, but as overflow of engagement with it.
 
-Flow can become an addiction as powerful as any substance. The high of creative absorption, the sense of meaning and purpose it provides, the temporary escape from the ego's constant chatter—these can become substitutes for the more difficult work of genuine self-awareness and authentic relationship.
+## The Flow Addiction
+
+But even this understanding can become another trap. Flow itself can become an addiction as powerful as any substance. The high of creative absorption, the sense of meaning and purpose it provides, the temporary escape from the ego's constant chatter—these can become substitutes for the more difficult work of genuine self-awareness and authentic relationship.
 
 ## Creativity as Spiritual Bypassing
 
