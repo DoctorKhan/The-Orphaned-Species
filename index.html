@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Orphaned Species - Complete Collection</title>
+    <meta name="description" content="A comprehensive exploration of consciousness, society, and human potential">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <style>
+        
+    :root {
+        --primary-color: #1a202c;
+        --accent-color: #667eea;
+        --highlight-color: #e94560;
+        --text-dark: #2d3748;
+        --border-color: #e2e8f0;
+        --bg-light: #f8fafc;
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        line-height: 1.6;
+        color: var(--text-dark);
+        background: white;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2rem 1rem;
+    }
+
+    .hero-section {
+        text-align: center;
+        padding: 4rem 2rem;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: 12px;
+        margin-bottom: 4rem;
+    }
+
+    .series-title {
+        font-size: clamp(2.5rem, 5vw, 4rem);
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+        font-family: 'Crimson Text', serif;
+    }
+
+    .series-author {
+        font-size: 1.2rem;
+        opacity: 0.9;
+        margin-bottom: 1rem;
+    }
+
+    .series-subtitle {
+        font-size: 1.4rem;
+        margin-bottom: 1.5rem;
+        opacity: 0.95;
+    }
+
+    .series-description {
+        font-size: 1.1rem;
+        max-width: 800px;
+        margin: 0 auto 2rem;
+        opacity: 0.9;
+        line-height: 1.7;
+    }
+
+    .series-stats {
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+        font-size: 1rem;
+        opacity: 0.9;
+    }
+
+    .books-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: 2rem;
+        margin-bottom: 4rem;
+    }
+
+    .book-card {
+        background: white;
+        border: 1px solid var(--border-color);
+        border-radius: 12px;
+        padding: 2rem;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        transition: all 0.3s ease;
+    }
+
+    .book-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    }
+
+    .book-number {
+        background: var(--accent-color);
+        color: white;
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+        font-size: 0.9rem;
+        font-weight: 600;
+        display: inline-block;
+        margin-bottom: 1rem;
+    }
+
+    .book-title {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: var(--primary-color);
+        margin-bottom: 0.5rem;
+        font-family: 'Crimson Text', serif;
+    }
+
+    .book-subtitle {
+        color: #64748b;
+        margin-bottom: 1rem;
+        font-style: italic;
+    }
+
+    .book-description {
+        color: var(--text-dark);
+        margin-bottom: 1.5rem;
+        line-height: 1.6;
+    }
+
+    .book-meta {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 1rem;
+        border-top: 1px solid var(--border-color);
+    }
+
+    .word-count {
+        color: #64748b;
+        font-size: 0.9rem;
+    }
+
+    .read-link {
+        background: var(--highlight-color);
+        color: white;
+        text-decoration: none;
+        padding: 0.75rem 1.5rem;
+        border-radius: 6px;
+        font-weight: 500;
+        transition: all 0.3s ease;
+    }
+
+    .read-link:hover {
+        background: #d63384;
+        transform: translateY(-1px);
+    }
+
+    .features-section {
+        background: var(--bg-light);
+        padding: 3rem 2rem;
+        border-radius: 12px;
+        margin-bottom: 3rem;
+    }
+
+    .features-section h2 {
+        text-align: center;
+        font-size: 2rem;
+        color: var(--primary-color);
+        margin-bottom: 2rem;
+        font-family: 'Crimson Text', serif;
+    }
+
+    .features-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 2rem;
+    }
+
+    .feature {
+        text-align: center;
+        padding: 1.5rem;
+        background: white;
+        border-radius: 8px;
+        border: 1px solid var(--border-color);
+    }
+
+    .feature h3 {
+        color: var(--primary-color);
+        margin-bottom: 1rem;
+        font-size: 1.2rem;
+    }
+
+    .footer {
+        text-align: center;
+        padding: 2rem;
+        color: #64748b;
+        border-top: 1px solid var(--border-color);
+    }
+
+    @media (max-width: 768px) {
+        .hero-section {
+            padding: 2rem 1rem;
+        }
+
+        .series-stats {
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .books-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .book-meta {
+            flex-direction: column;
+            gap: 1rem;
+            align-items: stretch;
+        }
+    }
+    
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="hero-section">
+            <h1 class="series-title">The Orphaned Species</h1>
+            <p class="series-author">Rez Khan</p>
+            <p class="series-subtitle">Enhanced HTML Editions with Advanced Navigation</p>
+            <p class="series-description">
+                A comprehensive exploration of consciousness, society, and human potential.
+                These enhanced editions feature advanced navigation, search capabilities,
+                reading progress tracking, and superior typography for the ultimate reading experience.
+            </p>
+            <div class="series-stats">
+                <span class="total-words">215,598 total words</span>
+                <span class="book-count">4 books</span>
+            </div>
+        </div>
+
+        <div class="books-grid">
+            
+        <div class="book-card">
+            <div class="book-number">Book 1</div>
+            <h2 class="book-title">The Human Experiment</h2>
+            <p class="book-subtitle">Reclaiming Our Origins, Purpose, and Evolutionary Destiny</p>
+            <p class="book-description">A comprehensive exploration of human origins, intervention theories, and our evolutionary destiny through the lens of functional mythology.</p>
+            <div class="book-meta">
+                <span class="word-count">52,647 words</span>
+                <a href="book_the_human_experiment/index.html" class="read-link">
+                    Read Enhanced Edition
+                </a>
+            </div>
+        </div>
+        
+        <div class="book-card">
+            <div class="book-number">Book 2</div>
+            <h2 class="book-title">The Consciousness Technologies</h2>
+            <p class="book-subtitle">Rediscovering Ancient Tools for Modern Liberation</p>
+            <p class="book-description">A comprehensive guide to psychedelics, plant medicines, and consciousness-altering practices as tools for breaking free from programming and accessing authentic spiritual experience.</p>
+            <div class="book-meta">
+                <span class="word-count">3,468 words</span>
+                <a href="book_the_consciousness_technologies/index.html" class="read-link">
+                    Read Enhanced Edition
+                </a>
+            </div>
+        </div>
+        
+        <div class="book-card">
+            <div class="book-number">Book 3</div>
+            <h2 class="book-title">Manual Override</h2>
+            <p class="book-subtitle">A Practical Guide to Conscious Living</p>
+            <p class="book-description">A comprehensive framework for understanding consciousness, breaking free from unconscious patterns, and developing genuine agency in daily life.</p>
+            <div class="book-meta">
+                <span class="word-count">80,725 words</span>
+                <a href="book_manual_override/index.html" class="read-link">
+                    Read Enhanced Edition
+                </a>
+            </div>
+        </div>
+        
+        <div class="book-card">
+            <div class="book-number">Book 4</div>
+            <h2 class="book-title">The Social Game</h2>
+            <p class="book-subtitle">How collective systems program individual consciousness</p>
+            <p class="book-description">An examination of social programming, digital manipulation, and the construction of collective reality.</p>
+            <div class="book-meta">
+                <span class="word-count">78,758 words</span>
+                <a href="book_the_social_game/index.html" class="read-link">
+                    Read Enhanced Edition
+                </a>
+            </div>
+        </div>
+        
+        </div>
+
+        <div class="features-section">
+            <h2>Enhanced Features</h2>
+            <div class="features-grid">
+                <div class="feature">
+                    <h3>🧭 Advanced Navigation</h3>
+                    <p>Sticky sidebar with hierarchical table of contents and reading progress</p>
+                </div>
+                <div class="feature">
+                    <h3>🔍 Search & Filter</h3>
+                    <p>Search through chapters and sections instantly</p>
+                </div>
+                <div class="feature">
+                    <h3>⌨️ Keyboard Shortcuts</h3>
+                    <p>Navigate efficiently with keyboard shortcuts (T, Home, End)</p>
+                </div>
+                <div class="feature">
+                    <h3>📱 Responsive Design</h3>
+                    <p>Optimized for all devices with print-friendly styles</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>Complete series exploring consciousness, science, and human evolution</p>
+            <p>Enhanced HTML editions with superior navigation and reading experience</p>
+        </div>
+    </div>
+</body>
+</html>
