@@ -618,6 +618,47 @@
         100% { background-color: transparent; }
     }
 
+    /* Hierarchical content indentation - content follows heading indentation */
+    .content-section-h3 {
+        margin-left: var(--spacing-md);
+        max-width: calc(100% - var(--spacing-md));
+    }
+
+    .content-section-h4 {
+        margin-left: var(--spacing-lg);
+        max-width: calc(100% - var(--spacing-lg));
+    }
+
+    .content-section-h5 {
+        margin-left: calc(var(--spacing-lg) + var(--spacing-md));
+        max-width: calc(100% - var(--spacing-lg) - var(--spacing-md));
+    }
+
+    .content-section-h6 {
+        margin-left: calc(var(--spacing-lg) + var(--spacing-lg));
+        max-width: calc(100% - var(--spacing-lg) - var(--spacing-lg));
+    }
+
+    /* Ensure minimum readable width */
+    .content-section-h3,
+    .content-section-h4,
+    .content-section-h5,
+    .content-section-h6 {
+        min-width: 400px; /* Ensure readability on larger screens */
+    }
+
+    /* Responsive adjustments for hierarchical indentation */
+    @media (max-width: 768px) {
+        .content-section-h3,
+        .content-section-h4,
+        .content-section-h5,
+        .content-section-h6 {
+            margin-left: var(--spacing-sm);
+            max-width: calc(100% - var(--spacing-sm));
+            min-width: auto;
+        }
+    }
+
     /* Print styles */
     @media print {
         .sidebar-nav,
@@ -1014,7 +1055,7 @@
     
             <h1 id="the-consciousness-technologies"><a href="#the-consciousness-technologies" class="heading-anchor" title="Link to this section">#</a>The Consciousness Technologies</h1>
 <h2 id="rediscovering-ancient-tools-for-modern-liberation"><a href="#rediscovering-ancient-tools-for-modern-liberation" class="heading-anchor" title="Link to this section">#</a>Rediscovering Ancient Tools for Modern Liberation</h2>
-<p><strong>Compiled</strong>: 2025-07-25 19:56:04</p>
+<p><strong>Compiled</strong>: 2025-07-25 21:43:04</p>
 <hr />
 <hr />
 <h1 id="introduction-the-suppressed-technologies-of-consciousness"><a href="#introduction-the-suppressed-technologies-of-consciousness" class="heading-anchor" title="Link to this section">#</a>Introduction: The Suppressed Technologies of Consciousness</h1>
