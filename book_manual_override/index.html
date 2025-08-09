@@ -141,7 +141,7 @@
         border-radius: 2px;
     }
 
-    /* Subsections - no indentation for better readability */
+    /* Subsections - clean, no indentation or bullets */
     .book-content h3 {
         font-family: 'Inter', sans-serif;
         font-size: 1.5rem;
@@ -149,20 +149,18 @@
         color: var(--secondary-color);
         margin: var(--spacing-lg) 0 var(--spacing-md);
         line-height: 1.4;
-        margin-left: 0;
-        position: relative;
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        position: static;
     }
 
+    /* Remove any pseudo-elements */
     .book-content h3::before {
-        content: '▸';
-        position: absolute;
-        left: -var(--spacing-sm);
-        color: var(--accent-color);
-        font-size: 0.8em;
-        top: 0.1em;
+        display: none !important;
+        content: none !important;
     }
 
-    /* Sub-subsections - minimal indentation */
+    /* Sub-subsections - clean, no indentation or bullets */
     .book-content h4 {
         font-family: 'Inter', sans-serif;
         font-size: 1.25rem;
@@ -170,20 +168,18 @@
         color: var(--secondary-color);
         margin: var(--spacing-md) 0 var(--spacing-sm);
         line-height: 1.4;
-        margin-left: var(--spacing-sm);
-        position: relative;
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        position: static;
     }
 
+    /* Remove any pseudo-elements */
     .book-content h4::before {
-        content: '•';
-        position: absolute;
-        left: -var(--spacing-sm);
-        color: var(--accent-color);
-        font-size: 1.2em;
-        top: -0.1em;
+        display: none !important;
+        content: none !important;
     }
 
-    /* Minor headings - small indentation */
+    /* Minor headings - clean, no indentation or bullets */
     .book-content h5 {
         font-family: 'Inter', sans-serif;
         font-size: 1.1rem;
@@ -191,20 +187,18 @@
         color: var(--secondary-color);
         margin: var(--spacing-sm) 0 var(--spacing-xs);
         line-height: 1.4;
-        margin-left: var(--spacing-md);
-        position: relative;
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        position: static;
     }
 
+    /* Remove any pseudo-elements */
     .book-content h5::before {
-        content: '◦';
-        position: absolute;
-        left: -var(--spacing-sm);
-        color: var(--accent-color);
-        font-size: 1em;
-        top: 0;
+        display: none !important;
+        content: none !important;
     }
 
-    /* Smallest headings - medium indentation */
+    /* Smallest headings - clean, no indentation or bullets */
     .book-content h6 {
         font-family: 'Inter', sans-serif;
         font-size: 1rem;
@@ -212,17 +206,15 @@
         color: var(--text-medium);
         margin: var(--spacing-sm) 0 var(--spacing-xs);
         line-height: 1.4;
-        margin-left: var(--spacing-lg);
-        position: relative;
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        position: static;
     }
 
+    /* Remove any pseudo-elements */
     .book-content h6::before {
-        content: '‣';
-        position: absolute;
-        left: -var(--spacing-sm);
-        color: var(--accent-color);
-        font-size: 0.9em;
-        top: 0;
+        display: none !important;
+        content: none !important;
     }
 
     .book-content p {
@@ -635,33 +627,14 @@
         100% { background-color: transparent; }
     }
 
-    /* Hierarchical content indentation - content follows heading indentation */
-    .content-section-h3 {
-        margin-left: 0;
-        max-width: 100%;
-    }
-
-    .content-section-h4 {
-        margin-left: var(--spacing-sm);
-        max-width: calc(100% - var(--spacing-sm));
-    }
-
-    .content-section-h5 {
-        margin-left: var(--spacing-md);
-        max-width: calc(100% - var(--spacing-md));
-    }
-
-    .content-section-h6 {
-        margin-left: var(--spacing-lg);
-        max-width: calc(100% - var(--spacing-lg));
-    }
-
-    /* Ensure minimum readable width */
+    /* Remove hierarchical content indentation - all content at same level */
     .content-section-h3,
     .content-section-h4,
     .content-section-h5,
     .content-section-h6 {
-        min-width: 400px; /* Ensure readability on larger screens */
+        margin-left: 0 !important;
+        max-width: 100% !important;
+        padding-left: 0 !important;
     }
 
     /* Responsive adjustments for hierarchical indentation */
@@ -1011,6 +984,13 @@
             </div>
             
             <div class="sidebar-part">
+                <a href="#part-intro" class="sidebar-part-link">Part Intro</a>
+                <div class="sidebar-chapters">
+            
+                </div>
+            </div>
+            
+            <div class="sidebar-part">
                 <a href="#part-1-the-external-toolkit-building-sovereign-systems" class="sidebar-part-link">The External Toolkit - Building Sovereign Systems</a>
                 <div class="sidebar-chapters">
             
@@ -1188,7 +1168,7 @@
             <input type="text" id="toc-search" placeholder="🔍 Search chapters..." />
         </div>
         <div class="toc-summary">
-            <p>📖 <strong>3 parts</strong> • <strong>213 chapters</strong> • All sections collapsed by default</p>
+            <p>📖 <strong>4 parts</strong> • <strong>213 chapters</strong> • All sections collapsed by default</p>
         </div>
         <nav class="toc-nav">
     
@@ -2125,6 +2105,16 @@
                     </div>
                 </div></div></div>
             <div class="toc-part">
+                <div class="toc-part-header" data-target="part-part-intro">
+                    <span class="toc-toggle">▶</span>
+                    <a href="#part-intro" class="toc-part-link">
+                        Part Intro
+                        <span class="chapter-count">(0 chapters)</span>
+                    </a>
+                </div>
+                <div class="toc-part-content" id="part-part-intro" style="display: none;">
+            </div></div>
+            <div class="toc-part">
                 <div class="toc-part-header" data-target="part-part-1-the-external-toolkit-building-sovereign-systems">
                     <span class="toc-toggle">▶</span>
                     <a href="#part-1-the-external-toolkit-building-sovereign-systems" class="toc-part-link">
@@ -2585,7 +2575,7 @@
     
             <h1 id="manual-override"><a href="#manual-override" class="heading-anchor" title="Link to this section">#</a>Manual Override</h1>
 <h2 id="a-practical-guide-to-conscious-living"><a href="#a-practical-guide-to-conscious-living" class="heading-anchor" title="Link to this section">#</a>A Practical Guide to Conscious Living</h2>
-<p><strong>Compiled</strong>: 2025-08-09 09:40:51</p>
+<p><strong>Compiled</strong>: 2025-08-09 11:44:50</p>
 <hr />
 <hr />
 <h1 id="introduction-the-internal-investigation"><a href="#introduction-the-internal-investigation" class="heading-anchor" title="Link to this section">#</a>Introduction: The Internal Investigation</h1>

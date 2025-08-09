@@ -141,7 +141,7 @@
         border-radius: 2px;
     }
 
-    /* Subsections - no indentation for better readability */
+    /* Subsections - clean, no indentation or bullets */
     .book-content h3 {
         font-family: 'Inter', sans-serif;
         font-size: 1.5rem;
@@ -149,20 +149,18 @@
         color: var(--secondary-color);
         margin: var(--spacing-lg) 0 var(--spacing-md);
         line-height: 1.4;
-        margin-left: 0;
-        position: relative;
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        position: static;
     }
 
+    /* Remove any pseudo-elements */
     .book-content h3::before {
-        content: '▸';
-        position: absolute;
-        left: -var(--spacing-sm);
-        color: var(--accent-color);
-        font-size: 0.8em;
-        top: 0.1em;
+        display: none !important;
+        content: none !important;
     }
 
-    /* Sub-subsections - minimal indentation */
+    /* Sub-subsections - clean, no indentation or bullets */
     .book-content h4 {
         font-family: 'Inter', sans-serif;
         font-size: 1.25rem;
@@ -170,20 +168,18 @@
         color: var(--secondary-color);
         margin: var(--spacing-md) 0 var(--spacing-sm);
         line-height: 1.4;
-        margin-left: var(--spacing-sm);
-        position: relative;
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        position: static;
     }
 
+    /* Remove any pseudo-elements */
     .book-content h4::before {
-        content: '•';
-        position: absolute;
-        left: -var(--spacing-sm);
-        color: var(--accent-color);
-        font-size: 1.2em;
-        top: -0.1em;
+        display: none !important;
+        content: none !important;
     }
 
-    /* Minor headings - small indentation */
+    /* Minor headings - clean, no indentation or bullets */
     .book-content h5 {
         font-family: 'Inter', sans-serif;
         font-size: 1.1rem;
@@ -191,20 +187,18 @@
         color: var(--secondary-color);
         margin: var(--spacing-sm) 0 var(--spacing-xs);
         line-height: 1.4;
-        margin-left: var(--spacing-md);
-        position: relative;
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        position: static;
     }
 
+    /* Remove any pseudo-elements */
     .book-content h5::before {
-        content: '◦';
-        position: absolute;
-        left: -var(--spacing-sm);
-        color: var(--accent-color);
-        font-size: 1em;
-        top: 0;
+        display: none !important;
+        content: none !important;
     }
 
-    /* Smallest headings - medium indentation */
+    /* Smallest headings - clean, no indentation or bullets */
     .book-content h6 {
         font-family: 'Inter', sans-serif;
         font-size: 1rem;
@@ -212,17 +206,15 @@
         color: var(--text-medium);
         margin: var(--spacing-sm) 0 var(--spacing-xs);
         line-height: 1.4;
-        margin-left: var(--spacing-lg);
-        position: relative;
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        position: static;
     }
 
+    /* Remove any pseudo-elements */
     .book-content h6::before {
-        content: '‣';
-        position: absolute;
-        left: -var(--spacing-sm);
-        color: var(--accent-color);
-        font-size: 0.9em;
-        top: 0;
+        display: none !important;
+        content: none !important;
     }
 
     .book-content p {
@@ -635,33 +627,14 @@
         100% { background-color: transparent; }
     }
 
-    /* Hierarchical content indentation - content follows heading indentation */
-    .content-section-h3 {
-        margin-left: 0;
-        max-width: 100%;
-    }
-
-    .content-section-h4 {
-        margin-left: var(--spacing-sm);
-        max-width: calc(100% - var(--spacing-sm));
-    }
-
-    .content-section-h5 {
-        margin-left: var(--spacing-md);
-        max-width: calc(100% - var(--spacing-md));
-    }
-
-    .content-section-h6 {
-        margin-left: var(--spacing-lg);
-        max-width: calc(100% - var(--spacing-lg));
-    }
-
-    /* Ensure minimum readable width */
+    /* Remove hierarchical content indentation - all content at same level */
     .content-section-h3,
     .content-section-h4,
     .content-section-h5,
     .content-section-h6 {
-        min-width: 400px; /* Ensure readability on larger screens */
+        margin-left: 0 !important;
+        max-width: 100% !important;
+        padding-left: 0 !important;
     }
 
     /* Responsive adjustments for hierarchical indentation */
@@ -714,6 +687,13 @@
             <a href="#the-investigation-concludes" class="sidebar-chapter-link" data-chapter="the-investigation-concludes">The Investigation Concludes</a>
             
             <div class="sidebar-part">
+                <a href="#chapter-1-part-1-the-architecture-of-the-university" class="sidebar-part-link">Chapter 1: Part 1 The Architecture Of The University</a>
+                <div class="sidebar-chapters">
+            
+                </div>
+            </div>
+            
+            <div class="sidebar-part">
                 <a href="#part-1-the-architecture-of-the-university" class="sidebar-part-link">The Architecture of the University</a>
                 <div class="sidebar-chapters">
             
@@ -735,6 +715,13 @@
             </div>
             
             <div class="sidebar-part">
+                <a href="#chapter-6-part-2-the-mechanics-of-mastery" class="sidebar-part-link">Chapter 6: Part 2 The Mechanics Of Mastery</a>
+                <div class="sidebar-chapters">
+            
+                </div>
+            </div>
+            
+            <div class="sidebar-part">
                 <a href="#part-2-the-mechanics-of-mastery-learning-the-rules-of-play" class="sidebar-part-link">The Mechanics of Mastery - Learning the Rules of Play</a>
                 <div class="sidebar-chapters">
             
@@ -752,6 +739,13 @@
             </div>
             
             <div class="sidebar-part">
+                <a href="#chapter-10-part-3-advanced-curriculum" class="sidebar-part-link">Chapter 10: Part 3 Advanced Curriculum</a>
+                <div class="sidebar-chapters">
+            
+                </div>
+            </div>
+            
+            <div class="sidebar-part">
                 <a href="#part-3-advanced-curriculum-case-studies" class="sidebar-part-link">Advanced Curriculum & Case Studies</a>
                 <div class="sidebar-chapters">
             
@@ -765,6 +759,13 @@
                 
                     <a href="#chapter-x-the-family-of-the-soul-integrating-your-inner-children" class="sidebar-chapter-link" data-chapter="chapter-x-the-family-of-the-soul-integrating-your-inner-children">The Family of the Soul: Integrating Your Inner Children</a>
                 
+                </div>
+            </div>
+            
+            <div class="sidebar-part">
+                <a href="#chapter-15-part-4-trial-framework" class="sidebar-part-link">Chapter 15: Part 4 Trial Framework</a>
+                <div class="sidebar-chapters">
+            
                 </div>
             </div>
             
@@ -824,7 +825,7 @@
             <input type="text" id="toc-search" placeholder="🔍 Search chapters..." />
         </div>
         <div class="toc-summary">
-            <p>📖 <strong>5 parts</strong> • <strong>24 chapters</strong> • All sections collapsed by default</p>
+            <p>📖 <strong>9 parts</strong> • <strong>24 chapters</strong> • All sections collapsed by default</p>
         </div>
         <nav class="toc-nav">
     
@@ -848,6 +849,16 @@
                     
                     <a href="#a-personal-invitation" class="toc-section-link">A Personal Invitation</a>
                     <span class="toc-more">... and 6 more sections</span></div></div>
+            <div class="toc-part">
+                <div class="toc-part-header" data-target="part-chapter-1-part-1-the-architecture-of-the-university">
+                    <span class="toc-toggle">▶</span>
+                    <a href="#chapter-1-part-1-the-architecture-of-the-university" class="toc-part-link">
+                        Chapter 1: Part 1 The Architecture Of The University
+                        <span class="chapter-count">(0 chapters)</span>
+                    </a>
+                </div>
+                <div class="toc-part-content" id="part-chapter-1-part-1-the-architecture-of-the-university" style="display: none;">
+            </div></div>
             <div class="toc-part">
                 <div class="toc-part-header" data-target="part-part-1-the-architecture-of-the-university">
                     <span class="toc-toggle">▶</span>
@@ -945,6 +956,16 @@
                         <a href="#your-personal-curriculum" class="toc-section-link">Your Personal Curriculum</a>
                         <span class="toc-more">... and 6 more sections</span></div></div></div></div>
             <div class="toc-part">
+                <div class="toc-part-header" data-target="part-chapter-6-part-2-the-mechanics-of-mastery">
+                    <span class="toc-toggle">▶</span>
+                    <a href="#chapter-6-part-2-the-mechanics-of-mastery" class="toc-part-link">
+                        Chapter 6: Part 2 The Mechanics Of Mastery
+                        <span class="chapter-count">(0 chapters)</span>
+                    </a>
+                </div>
+                <div class="toc-part-content" id="part-chapter-6-part-2-the-mechanics-of-mastery" style="display: none;">
+            </div></div>
+            <div class="toc-part">
                 <div class="toc-part-header" data-target="part-part-2-the-mechanics-of-mastery-learning-the-rules-of-play">
                     <span class="toc-toggle">▶</span>
                     <a href="#part-2-the-mechanics-of-mastery-learning-the-rules-of-play" class="toc-part-link">
@@ -1016,6 +1037,16 @@
                 <div class="toc-sections">
                         <a href="#field-manual-activation-exercise-92-the-nirodha-protocol" class="toc-section-link">Field Manual Activation Exercise 9.2: The Nirodha Protocol</a>
                         </div></div></div></div>
+            <div class="toc-part">
+                <div class="toc-part-header" data-target="part-chapter-10-part-3-advanced-curriculum">
+                    <span class="toc-toggle">▶</span>
+                    <a href="#chapter-10-part-3-advanced-curriculum" class="toc-part-link">
+                        Chapter 10: Part 3 Advanced Curriculum
+                        <span class="chapter-count">(0 chapters)</span>
+                    </a>
+                </div>
+                <div class="toc-part-content" id="part-chapter-10-part-3-advanced-curriculum" style="display: none;">
+            </div></div>
             <div class="toc-part">
                 <div class="toc-part-header" data-target="part-part-3-advanced-curriculum-case-studies">
                     <span class="toc-toggle">▶</span>
@@ -1094,6 +1125,16 @@
                         
                         <a href="#graduation-from-the-cosmic-university" class="toc-section-link">Graduation from the Cosmic University</a>
                         </div></div></div></div>
+            <div class="toc-part">
+                <div class="toc-part-header" data-target="part-chapter-15-part-4-trial-framework">
+                    <span class="toc-toggle">▶</span>
+                    <a href="#chapter-15-part-4-trial-framework" class="toc-part-link">
+                        Chapter 15: Part 4 Trial Framework
+                        <span class="chapter-count">(0 chapters)</span>
+                    </a>
+                </div>
+                <div class="toc-part-content" id="part-chapter-15-part-4-trial-framework" style="display: none;">
+            </div></div>
             <div class="toc-part">
                 <div class="toc-part-header" data-target="part-part-4-the-trial-of-the-framework">
                     <span class="toc-toggle">▶</span>
@@ -1189,7 +1230,7 @@
     
             <h1 id="the-cosmic-game-a-users-guide-to-the-meaning-of-life"><a href="#the-cosmic-game-a-users-guide-to-the-meaning-of-life" class="heading-anchor" title="Link to this section">#</a>The Cosmic Game: A User's Guide to the Meaning of Life</h1>
 <h2 id="the-ultimate-purpose-of-human-experience"><a href="#the-ultimate-purpose-of-human-experience" class="heading-anchor" title="Link to this section">#</a>The Ultimate Purpose of Human Experience</h2>
-<p><strong>Compiled</strong>: 2025-08-09 09:40:51</p>
+<p><strong>Compiled</strong>: 2025-08-09 11:44:50</p>
 <hr />
 <hr />
 <h1 id="foreword-a-personal-invitation-from-the-author"><a href="#foreword-a-personal-invitation-from-the-author" class="heading-anchor" title="Link to this section">#</a>Foreword: A Personal Invitation from the Author</h1>
