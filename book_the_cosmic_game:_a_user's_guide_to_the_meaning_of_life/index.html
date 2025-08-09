@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Cosmic Game: A User's Guide to the Meaning of Life - Enhanced Edition</title>
+    <title>The Cosmic Game: A User's Guide to the Meaning of Life</title>
     <meta name="description" content="The final revelation: why the elaborate game of human existence was designed, how consciousness evolves through incarnation, and what lies beyond graduation from Earth's cosmic university.">
     <meta name="author" content="Rez Khan">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
@@ -443,6 +443,23 @@
         font-size: 0.85rem;
         cursor: pointer;
         margin-left: 0.5rem;
+        transition: all 0.3s ease;
+    }
+
+    .toc-btn.primary {
+        background: var(--primary-color);
+        font-weight: 600;
+        padding: 0.7rem 1.5rem;
+        font-size: 0.9rem;
+    }
+
+    .toc-btn:hover {
+        background: var(--highlight-color);
+        transform: translateY(-1px);
+    }
+
+    .toc-btn.primary:hover {
+        background: #2563eb;
     }
 
     .toc-search input {
@@ -798,16 +815,16 @@
         <div class="toc-header">
             <h2>📚 Table of Contents</h2>
             <div class="toc-controls">
+                <button id="skip-to-content" class="toc-btn primary">📖 Skip to Content</button>
                 <button id="expand-all" class="toc-btn">Expand All</button>
                 <button id="collapse-all" class="toc-btn">Collapse All</button>
-                <button id="compact-view" class="toc-btn">Compact View</button>
             </div>
         </div>
         <div class="toc-search">
             <input type="text" id="toc-search" placeholder="🔍 Search chapters..." />
         </div>
         <div class="toc-summary">
-            <p>📖 <strong>5 parts</strong> • <strong>24 chapters</strong> • Click parts to expand</p>
+            <p>📖 <strong>5 parts</strong> • <strong>24 chapters</strong> • All sections collapsed by default</p>
         </div>
         <nav class="toc-nav">
     
@@ -1172,7 +1189,7 @@
     
             <h1 id="the-cosmic-game-a-users-guide-to-the-meaning-of-life"><a href="#the-cosmic-game-a-users-guide-to-the-meaning-of-life" class="heading-anchor" title="Link to this section">#</a>The Cosmic Game: A User's Guide to the Meaning of Life</h1>
 <h2 id="the-ultimate-purpose-of-human-experience"><a href="#the-ultimate-purpose-of-human-experience" class="heading-anchor" title="Link to this section">#</a>The Ultimate Purpose of Human Experience</h2>
-<p><strong>Compiled</strong>: 2025-08-07 20:20:23</p>
+<p><strong>Compiled</strong>: 2025-08-08 17:36:07</p>
 <hr />
 <hr />
 <h1 id="foreword-a-personal-invitation-from-the-author"><a href="#foreword-a-personal-invitation-from-the-author" class="heading-anchor" title="Link to this section">#</a>Foreword: A Personal Invitation from the Author</h1>
@@ -3129,6 +3146,39 @@ Listen to the answers without judgment. The answers will come not as intellectua
                 }
             });
         });
+
+        // Skip to content button
+        const skipBtn = document.getElementById('skip-to-content');
+        if (skipBtn) {
+            skipBtn.addEventListener('click', function() {
+                // Find the first heading that comes after the TOC in the DOM
+                const allHeadings = document.querySelectorAll('h1, h2, h3');
+                let foundTOC = false;
+
+                for (let heading of allHeadings) {
+                    // Skip until we get past the TOC
+                    if (heading.textContent.includes('Table of Contents') || heading.closest('.enhanced-toc')) {
+                        foundTOC = true;
+                        continue;
+                    }
+
+                    // Once we're past the TOC, take the first real content heading
+                    if (foundTOC) {
+                        heading.scrollIntoView({ behavior: 'smooth' });
+                        return;
+                    }
+                }
+
+                // Fallback: if no TOC found, just go to first heading that's not TOC-related
+                for (let heading of allHeadings) {
+                    if (!heading.textContent.includes('Table of Contents') &&
+                        !heading.closest('.enhanced-toc')) {
+                        heading.scrollIntoView({ behavior: 'smooth' });
+                        break;
+                    }
+                }
+            });
+        }
 
         // Expand/Collapse all buttons
         const expandBtn = document.getElementById('expand-all');
