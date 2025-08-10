@@ -77,7 +77,7 @@ body::before {
     border-radius: 6px;
 }
 
-/* Chapter headings - luxurious museum-quality typography */
+/* Base heading styles - no chapter numbering by default */
 h1 {
     font-family: "Optima", "Futura", "Avenir Next", "Helvetica Neue", sans-serif;
     font-size: 32pt;
@@ -85,7 +85,6 @@ h1 {
     color: var(--chapter-color);
     margin: 6em 0 4em 0;
     text-align: left;
-    page-break-before: always;
     position: relative;
     letter-spacing: 1.5px;
     line-height: 1.1;
@@ -100,8 +99,13 @@ h1 {
     background-clip: text;
 }
 
-h1::before {
-    content: "BOOK 1";
+/* Chapter headings specifically - with numbering and page breaks */
+h1.chapter {
+    page-break-before: always;
+}
+
+h1.chapter::before {
+    content: "Chapter " counter(chapter);
     counter-increment: chapter;
     display: block;
     font-size: 11pt;
@@ -119,6 +123,19 @@ h1::before {
 
     /* Add subtle glow effect */
     text-shadow: 0 0 8px rgba(200, 148, 31, 0.3);
+}
+
+/* Title page and other non-chapter h1 elements - no numbering */
+h1.book-title,
+h1.title-page,
+h1.introduction,
+h1.part {
+    page-break-before: auto;
+}
+
+/* Hide redundant bare chapter numbers */
+h1.hidden-chapter-number {
+    display: none;
 }
 
 h1::after {
@@ -769,9 +786,9 @@ tr:nth-child(even) {
     </div>
 
     <div class="content">
-        <h1 id="the-cosmic-game-a-users-guide-to-the-meaning-of-life" class="heading-anchor" data-anchor="#the-cosmic-game-a-users-guide-to-the-meaning-of-life">The Cosmic Game: A User's Guide to the Meaning of Life</h1>
+        <h1 id="the-cosmic-game-a-users-guide-to-the-meaning-of-life" class="heading-anchor book-title" data-anchor="#the-cosmic-game-a-users-guide-to-the-meaning-of-life">The Cosmic Game: A User's Guide to the Meaning of Life</h1>
 <h2 id="the-ultimate-purpose-of-human-experience" class="heading-anchor" data-anchor="#the-ultimate-purpose-of-human-experience">The Ultimate Purpose of Human Experience</h2>
-<p><em>Compiled August 09, 2025 at 8:23 PM</em></p>
+<p><em>Compiled August 09, 2025 at 10:24 PM</em></p>
 <hr />
 <hr />
 <h2 id="foreword-a-personal-invitation-from-the-author" class="heading-anchor" data-anchor="#foreword-a-personal-invitation-from-the-author">Foreword: A Personal Invitation from the Author</h2>
