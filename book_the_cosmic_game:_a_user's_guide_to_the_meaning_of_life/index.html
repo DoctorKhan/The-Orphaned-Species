@@ -77,92 +77,138 @@ body::before {
     border-radius: 6px;
 }
 
-/* Chapter headings - museum-quality typography */
+/* Chapter headings - luxurious museum-quality typography */
 h1 {
     font-family: "Optima", "Futura", "Avenir Next", "Helvetica Neue", sans-serif;
-    font-size: 28pt;
-    font-weight: 200;
+    font-size: 32pt;
+    font-weight: 100;
     color: var(--chapter-color);
-    margin: 5em 0 3em 0;
+    margin: 6em 0 4em 0;
     text-align: left;
     page-break-before: always;
     position: relative;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
     line-height: 1.1;
     text-shadow:
-        0 2px 4px rgba(30, 58, 35, 0.08),
-        0 1px 2px rgba(30, 58, 35, 0.12);
+        0 3px 8px rgba(30, 58, 35, 0.12),
+        0 1px 3px rgba(30, 58, 35, 0.18);
+
+    /* Enhanced visual depth */
+    background: linear-gradient(135deg, var(--chapter-color) 0%, #2a4a2e 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
 h1::before {
-    content: "Chapter " counter(chapter);
+    content: "BOOK 1";
     counter-increment: chapter;
     display: block;
-    font-size: 10pt;
+    font-size: 11pt;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 4px;
-    margin-bottom: 1.5em;
+    letter-spacing: 5px;
+    margin-bottom: 2em;
     color: var(--accent-color);
-    opacity: 0.85;
+    opacity: 0.9;
     position: relative;
+
+    /* Restore text color for the prefix */
+    background: none;
+    -webkit-text-fill-color: var(--accent-color);
+
+    /* Add subtle glow effect */
+    text-shadow: 0 0 8px rgba(200, 148, 31, 0.3);
 }
 
 h1::after {
     content: "";
     position: absolute;
-    bottom: -0.8em;
+    bottom: -1.2em;
     left: 0;
-    width: 60px;
-    height: 2px;
-    background: linear-gradient(90deg, var(--accent-color), transparent);
-    opacity: 0.6;
+    width: 120px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--accent-color) 0%, rgba(200, 148, 31, 0.6) 70%, transparent 100%);
+    opacity: 0.8;
+    border-radius: 2px;
+
+    /* Add subtle shadow to the underline */
+    box-shadow: 0 2px 4px rgba(200, 148, 31, 0.2);
 }
 
 h1:first-of-type {
     margin-top: 2em;
 }
 
-/* Section headings - refined hierarchy */
+/* Section headings - elegant refined hierarchy */
 h2 {
     font-family: "Optima", "Avenir Next", "Helvetica Neue", sans-serif;
-    font-size: 18pt;
-    font-weight: 500;
+    font-size: 20pt;
+    font-weight: 400;
     color: var(--section-color);
-    margin: 3em 0 1.2em 0;
+    margin: 4em 0 1.8em 0;
     text-align: left;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.8px;
     line-height: 1.25;
-    border-bottom: 1px solid rgba(184, 134, 11, 0.2);
-    padding-bottom: 0.3em;
+    position: relative;
+
+    /* Enhanced visual styling */
+    background: linear-gradient(135deg, var(--section-color) 0%, #4a4a4a 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    /* Subtle shadow */
+    text-shadow: 0 2px 4px rgba(61, 61, 61, 0.1);
+}
+
+h2::after {
+    content: "";
+    position: absolute;
+    bottom: -0.6em;
+    left: 0;
+    width: 80px;
+    height: 2px;
+    background: linear-gradient(90deg, rgba(184, 134, 11, 0.4) 0%, transparent 100%);
+    border-radius: 1px;
 }
 
 h3 {
     font-family: "Optima", "Avenir Next", "Helvetica Neue", sans-serif;
-    font-size: 15pt;
+    font-size: 16pt;
     font-weight: 500;
     color: var(--section-color);
-    margin: 2.5em 0 1em 0;
+    margin: 3em 0 1.4em 0;
     line-height: 1.3;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.5px;
+    position: relative;
+
+    /* Subtle enhancement */
+    text-shadow: 0 1px 2px rgba(61, 61, 61, 0.08);
 }
 
 h4 {
-    font-size: 13pt;
+    font-family: "Optima", "Avenir Next", "Helvetica Neue", sans-serif;
+    font-size: 14pt;
     font-weight: 600;
     color: var(--section-color);
-    margin: 2em 0 0.8em 0;
+    margin: 2.5em 0 1em 0;
     line-height: 1.3;
     font-style: italic;
+    letter-spacing: 0.3px;
+    opacity: 0.95;
 }
 
 h5 {
+    font-family: "Optima", "Avenir Next", "Helvetica Neue", sans-serif;
     font-size: 12pt;
     font-weight: 500;
     font-style: italic;
     color: var(--section-color);
-    margin: 1.5em 0 0.6em 0;
+    margin: 2em 0 0.8em 0;
     line-height: 1.3;
+    letter-spacing: 0.2px;
+    opacity: 0.9;
 }
 
 /* Refined paragraph styling */
@@ -203,23 +249,32 @@ p em {
     font-weight: 500;
 }
 
-/* Exquisite drop caps for chapter openings */
+/* Luxurious drop caps for chapter openings */
 .drop-cap::first-letter {
     float: left;
-    font-size: 5.5em;
-    line-height: 0.7;
-    margin: 0.02em 0.18em 0 0;
+    font-size: 6.2em;
+    line-height: 0.65;
+    margin: 0.05em 0.22em 0.02em 0;
     color: var(--accent-color);
-    font-weight: 200;
+    font-weight: 100;
     font-family: "Optima", "Trajan Pro", "Copperplate", "Times New Roman", serif;
-    text-shadow:
-        0 3px 6px rgba(200, 148, 31, 0.15),
-        0 1px 2px rgba(200, 148, 31, 0.25);
     position: relative;
-    top: 0.08em;
-    background: linear-gradient(135deg, var(--accent-color), #d4a574);
+    top: 0.12em;
+
+    /* Enhanced gradient and glow */
+    background: linear-gradient(135deg, var(--accent-color) 0%, #d4a574 50%, #e6b885 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    /* Sophisticated shadow effects */
+    text-shadow:
+        0 4px 12px rgba(200, 148, 31, 0.25),
+        0 2px 6px rgba(200, 148, 31, 0.35),
+        0 1px 3px rgba(200, 148, 31, 0.45);
+
+    /* Subtle border effect */
+    filter: drop-shadow(0 0 2px rgba(200, 148, 31, 0.3));
     background-clip: text;
 }
 
@@ -709,14 +764,14 @@ tr:nth-child(even) {
         <p class="book-subtitle">The Ultimate Purpose of Human Experience</p>
         <p class="author">Rez Khan</p>
         <div class="word-count">
-            <p><em>31,602 words</em></p>
+            <p><em>31,606 words</em></p>
         </div>
     </div>
 
     <div class="content">
         <h1 id="the-cosmic-game-a-users-guide-to-the-meaning-of-life" class="heading-anchor" data-anchor="#the-cosmic-game-a-users-guide-to-the-meaning-of-life">The Cosmic Game: A User's Guide to the Meaning of Life</h1>
 <h2 id="the-ultimate-purpose-of-human-experience" class="heading-anchor" data-anchor="#the-ultimate-purpose-of-human-experience">The Ultimate Purpose of Human Experience</h2>
-<p><strong>Compiled</strong>: 2025-08-09 16:32:23</p>
+<p><em>Compiled August 09, 2025 at 8:19 PM</em></p>
 <hr />
 <hr />
 <h2 id="foreword-a-personal-invitation-from-the-author" class="heading-anchor" data-anchor="#foreword-a-personal-invitation-from-the-author">Foreword: A Personal Invitation from the Author</h2>
