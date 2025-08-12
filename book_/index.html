@@ -922,6 +922,36 @@ tr:nth-child(even) {
         .single-page-mode .content .current-page {
             display: block !important;
         }
+
+        /* Page Number Indicator */
+        .page-number-indicator {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            background: var(--page-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 15px;
+            padding: 8px 12px;
+            font-size: 12px;
+            color: var(--section-color);
+            box-shadow: 0 2px 8px var(--shadow-color);
+            z-index: 1000;
+            opacity: 0.8;
+            transition: opacity 0.3s ease;
+        }
+
+        .page-number-indicator:hover {
+            opacity: 1;
+        }
+
+        #current-page-number {
+            font-weight: 500;
+            color: var(--chapter-color);
+        }
+
+        #total-pages {
+            color: var(--section-color);
+        }
     </style>
     <script>
         // Handle heading anchor functionality
@@ -996,7 +1026,7 @@ tr:nth-child(even) {
     // Global variables
     let currentChapterIndex = 0;
     let chapters = [];
-    let chapterMode = false;
+    let chapterMode = true; // Start in chapter mode by default
 
     function toggleSidebar() {
         const sidebar = document.querySelector('.sidebar-nav');
@@ -1011,11 +1041,33 @@ tr:nth-child(even) {
     function updateReadingProgress() {
         const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
         const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-        const scrolled = (winScroll / height) * 100;
+        const bookScrolled = Math.max(0, Math.min(100, (winScroll / height) * 100));
 
-        // Update progress bar
-        const progressBar = document.getElementById('progress-bar');
-        if (progressBar) progressBar.style.width = scrolled + '%';
+        let displayProgress = bookScrolled;
+        let progressLabel = 'Book';
+
+        // In chapter mode, calculate progress through current chapter
+        if (chapterMode && chapters[currentChapterIndex]) {
+            const chapterProgress = calculateChapterProgress();
+            displayProgress = chapterProgress;
+            progressLabel = 'Chapter';
+        }
+
+        // Update sidebar progress bar
+        const readingProgress = document.getElementById('reading-progress');
+        if (readingProgress) {
+            readingProgress.style.width = displayProgress + '%';
+        }
+
+        // Update sidebar progress text
+        const progressText = document.getElementById('progress-text');
+        if (progressText) {
+            progressText.textContent = Math.round(displayProgress) + '%';
+            progressText.title = `${progressLabel} progress: ${Math.round(displayProgress)}%`;
+        }
+
+        // Update page number indicator (always use book progress for page numbers)
+        updatePageNumber(bookScrolled, chapterMode ? currentChapterIndex : null);
 
         // Show/hide go to top button
         const topButton = document.getElementById('floating-top-button');
@@ -1026,6 +1078,72 @@ tr:nth-child(even) {
                 topButton.classList.remove('visible');
             }
         }
+
+        console.log(`${progressLabel} progress updated:`, Math.round(displayProgress) + '%');
+    }
+
+    function calculateChapterProgress() {
+        if (!chapterMode || !chapters[currentChapterIndex]) return 0;
+
+        const currentChapter = chapters[currentChapterIndex];
+        if (!currentChapter.heading) return 0;
+
+        // Get the position of the chapter heading
+        const chapterTop = currentChapter.heading.offsetTop;
+
+        // Calculate chapter height by finding next chapter or end of content
+        let chapterBottom;
+        if (currentChapterIndex < chapters.length - 1 && chapters[currentChapterIndex + 1].heading) {
+            chapterBottom = chapters[currentChapterIndex + 1].heading.offsetTop;
+        } else {
+            chapterBottom = document.documentElement.scrollHeight;
+        }
+
+        const chapterHeight = chapterBottom - chapterTop;
+        const currentScroll = document.body.scrollTop || document.documentElement.scrollTop;
+
+        // Calculate how far through this chapter we are
+        const scrollIntoChapter = Math.max(0, currentScroll - chapterTop);
+        const chapterProgress = Math.max(0, Math.min(100, (scrollIntoChapter / chapterHeight) * 100));
+
+        return chapterProgress;
+    }
+
+    function updatePageNumber(scrollPercentage, chapterIndex = null) {
+        const currentPageSpan = document.getElementById('current-page-number');
+        const totalPagesSpan = document.getElementById('total-pages');
+
+        if (!currentPageSpan || !totalPagesSpan) return;
+
+        // Estimate total pages based on word count (assuming ~250 words per page)
+        const wordCount = 4378;
+        const estimatedTotalPages = Math.ceil(wordCount / 250);
+
+        let currentPage;
+
+        if (chapterIndex !== null && chapters.length > 0) {
+            // In chapter mode: calculate page based on chapter position + chapter progress
+            const chapterProgress = calculateChapterProgress();
+            const pagesPerChapter = estimatedTotalPages / chapters.length;
+            const chapterStartPage = Math.floor(chapterIndex * pagesPerChapter) + 1;
+            const pagesIntoChapter = Math.floor((chapterProgress / 100) * pagesPerChapter);
+            currentPage = Math.max(1, chapterStartPage + pagesIntoChapter);
+
+            console.log(`Page calculation - Chapter ${chapterIndex + 1}:`, {
+                chapterProgress: Math.round(chapterProgress),
+                pagesPerChapter: Math.round(pagesPerChapter),
+                chapterStartPage,
+                pagesIntoChapter,
+                currentPage
+            });
+        } else {
+            // In full book mode: calculate page based on overall scroll position
+            currentPage = Math.max(1, Math.ceil((scrollPercentage / 100) * estimatedTotalPages));
+            console.log(`Page calculation - Full book: ${Math.round(scrollPercentage)}% = Page ${currentPage}`);
+        }
+
+        currentPageSpan.textContent = `Page ${currentPage}`;
+        totalPagesSpan.textContent = ` of ~${estimatedTotalPages}`;
     }
 
     function initializeChapterMode() {
@@ -1071,7 +1189,7 @@ tr:nth-child(even) {
                 index: index
             });
 
-            console.log(`Chapter ${index + 1}: ${title}`);
+            console.log(`Chapter ${index + 1}: ${title} (${chapterContent.length} elements)`);
         });
 
         console.log(`Initialized ${chapters.length} chapters for chapter mode`);
@@ -1113,11 +1231,25 @@ tr:nth-child(even) {
     }
 
     function goToChapter(index) {
-        console.log('Going to chapter', index, 'Chapter mode:', chapterMode);
+        console.log('=== goToChapter called ===');
+        console.log('Target chapter index:', index);
+        console.log('Current chapter mode:', chapterMode);
+        console.log('Total chapters available:', chapters.length);
+        console.log('Current chapter index before:', currentChapterIndex);
+
+        if (index < 0 || index >= chapters.length) {
+            console.log('ERROR: Invalid chapter index', index);
+            return;
+        }
 
         if (chapterMode) {
+            console.log('In chapter mode - calling showChapter');
+            // Force update the current chapter index first
+            currentChapterIndex = index;
+            console.log('Updated currentChapterIndex to:', currentChapterIndex);
             showChapter(index);
         } else {
+            console.log('In full book mode - scrolling to chapter');
             // In full book mode, scroll to the chapter
             if (chapters[index] && chapters[index].heading) {
                 console.log('Scrolling to chapter heading:', chapters[index].heading);
@@ -1132,6 +1264,7 @@ tr:nth-child(even) {
         if (sidebar && window.innerWidth <= 768) {
             sidebar.classList.remove('sidebar-open');
         }
+        console.log('=== goToChapter completed ===');
     }
 
     function toggleViewMode() {
@@ -1142,7 +1275,7 @@ tr:nth-child(even) {
         if (chapterMode) {
             body.classList.add('single-page-mode');
             if (toggleBtn) {
-                toggleBtn.textContent = '📄';
+                toggleBtn.textContent = '⋮';
                 toggleBtn.title = 'Full Book Mode (C)';
             }
             showChapter(0);
@@ -1150,7 +1283,7 @@ tr:nth-child(even) {
         } else {
             body.classList.remove('single-page-mode');
             if (toggleBtn) {
-                toggleBtn.textContent = '📖';
+                toggleBtn.textContent = '□';
                 toggleBtn.title = 'Chapter Mode (C)';
             }
             showAllContent();
@@ -1159,35 +1292,59 @@ tr:nth-child(even) {
     }
 
     function showChapter(index) {
+        console.log('=== showChapter called ===');
+        console.log('Target index:', index);
+        console.log('Chapters length:', chapters.length);
+
         if (index < 0 || index >= chapters.length) {
-            console.log('Invalid chapter index:', index);
+            console.log('ERROR: Invalid chapter index:', index);
             return;
         }
 
-        console.log('Showing chapter', index, 'of', chapters.length);
+        console.log('Setting currentChapterIndex from', currentChapterIndex, 'to', index);
         currentChapterIndex = index;
-        const content = document.querySelector('.book-content');
 
+        const content = document.querySelector('.book-content');
         if (!content) {
-            console.log('No .book-content found');
+            console.log('ERROR: No .book-content found');
             return;
         }
+
+        console.log('Found .book-content with', content.children.length, 'children');
 
         // Hide all content
+        let hiddenCount = 0;
         Array.from(content.children).forEach(el => {
             el.style.display = 'none';
             el.classList.remove('current-page');
+            hiddenCount++;
         });
+        console.log('Hidden', hiddenCount, 'elements');
 
         // Show current chapter content
         if (chapters[index] && chapters[index].elements) {
-            console.log('Showing', chapters[index].elements.length, 'elements for chapter', index);
+            console.log('Chapter', index, 'has', chapters[index].elements.length, 'elements');
+            console.log('Chapter title:', chapters[index].fullTitle);
+
+            let shownCount = 0;
             chapters[index].elements.forEach(el => {
+                // Force display to block for all elements
                 el.style.display = 'block';
+                el.style.visibility = 'visible';
                 el.classList.add('current-page');
+                shownCount++;
+                console.log('  Showing element:', el.tagName, el.textContent ? el.textContent.substring(0, 50) + '...' : '');
             });
+            console.log('Showed', shownCount, 'elements for chapter', index);
+
+            // Verify elements are actually visible
+            const visibleElements = content.querySelectorAll('.current-page');
+            console.log('Verification: Found', visibleElements.length, 'elements with current-page class');
         } else {
-            console.log('No elements found for chapter', index);
+            console.log('ERROR: No elements found for chapter', index);
+            if (chapters[index]) {
+                console.log('Chapter exists but no elements:', chapters[index]);
+            }
         }
 
         // Update navigation
@@ -1196,8 +1353,35 @@ tr:nth-child(even) {
         // Update sidebar highlighting
         updateSidebarHighlight(index);
 
-        // Scroll to top
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        // Force update page numbers immediately for chapter mode
+        if (chapterMode) {
+            updatePageNumber(0, index); // Use chapter index for page calculation
+            console.log('Updated page numbers for chapter', index);
+        }
+
+        // Scroll to chapter heading for better UX
+        if (chapters[index] && chapters[index].heading) {
+            console.log('Scrolling to chapter heading:', chapters[index].heading.textContent);
+            // Small delay to ensure elements are rendered
+            setTimeout(() => {
+                chapters[index].heading.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start',
+                    inline: 'nearest'
+                });
+                // Update page numbers again after scroll
+                setTimeout(() => {
+                    if (chapterMode) {
+                        updatePageNumber(0, index);
+                    }
+                }, 200);
+            }, 100);
+        } else {
+            // Fallback: scroll to top
+            console.log('No chapter heading found, scrolling to top');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        console.log('=== showChapter completed ===');
     }
 
     function updateSidebarHighlight(chapterIndex) {
@@ -1244,14 +1428,32 @@ tr:nth-child(even) {
     }
 
     function nextChapter() {
+        console.log('=== nextChapter called ===');
+        console.log('Current chapter index:', currentChapterIndex);
+        console.log('Total chapters:', chapters.length);
+        console.log('Chapter mode:', chapterMode);
+
         if (currentChapterIndex < chapters.length - 1) {
-            showChapter(currentChapterIndex + 1);
+            const nextIndex = currentChapterIndex + 1;
+            console.log('Going to next chapter:', nextIndex);
+            showChapter(nextIndex);
+        } else {
+            console.log('Already at last chapter');
         }
     }
 
     function prevChapter() {
+        console.log('=== prevChapter called ===');
+        console.log('Current chapter index:', currentChapterIndex);
+        console.log('Total chapters:', chapters.length);
+        console.log('Chapter mode:', chapterMode);
+
         if (currentChapterIndex > 0) {
-            showChapter(currentChapterIndex - 1);
+            const prevIndex = currentChapterIndex - 1;
+            console.log('Going to previous chapter:', prevIndex);
+            showChapter(prevIndex);
+        } else {
+            console.log('Already at first chapter');
         }
     }
 
@@ -1263,8 +1465,25 @@ tr:nth-child(even) {
         // Initialize chapter mode
         initializeChapterMode();
 
+        // Start in chapter mode by default
+        if (chapterMode) {
+            document.body.classList.add('single-page-mode');
+            showChapter(0);
+        }
+
         // Setup scroll tracking
         window.addEventListener('scroll', updateReadingProgress);
+
+        // Additional scroll listener for chapter mode page updates
+        window.addEventListener('scroll', function() {
+            if (chapterMode && chapters.length > 0) {
+                // Throttle updates to avoid too many calculations
+                clearTimeout(window.pageUpdateTimeout);
+                window.pageUpdateTimeout = setTimeout(() => {
+                    updatePageNumber(0, currentChapterIndex);
+                }, 100);
+            }
+        });
 
         // Add click handlers for buttons
         const viewToggle = document.getElementById('view-mode-toggle');
@@ -1287,8 +1506,23 @@ tr:nth-child(even) {
         // Chapter navigation buttons
         const prevBtn = document.getElementById('prev-page');
         const nextBtn = document.getElementById('next-page');
-        if (prevBtn) prevBtn.addEventListener('click', prevChapter);
-        if (nextBtn) nextBtn.addEventListener('click', nextChapter);
+        console.log('Chapter navigation buttons found:');
+        console.log('  prevBtn:', prevBtn);
+        console.log('  nextBtn:', nextBtn);
+
+        if (prevBtn) {
+            prevBtn.addEventListener('click', prevChapter);
+            console.log('  Added click listener to prev button');
+        } else {
+            console.log('  ERROR: prev-page button not found');
+        }
+
+        if (nextBtn) {
+            nextBtn.addEventListener('click', nextChapter);
+            console.log('  Added click listener to next button');
+        } else {
+            console.log('  ERROR: next-page button not found');
+        }
 
         // Keyboard shortcuts
         document.addEventListener('keydown', function(e) {
@@ -1346,6 +1580,12 @@ tr:nth-child(even) {
         <button id="next-page" class="page-nav-btn" title="Next Chapter (→)">Next →</button>
     </div>
 
+    <!-- Page Number Indicator -->
+    <div id="page-number-indicator" class="page-number-indicator">
+        <span id="current-page-number">Page 1</span>
+        <span id="total-pages"> of ~150</span>
+    </div>
+
     <!-- Sidebar Navigation -->
     <div id="sidebar-nav" class="sidebar-nav">
         <div class="sidebar-header">
@@ -1378,7 +1618,7 @@ tr:nth-child(even) {
     <div class="content book-content">
         <h1 id="the-cosmic-game-a-users-guide-to-the-meaning-of-life" class="heading-anchor book-title" data-anchor="#the-cosmic-game-a-users-guide-to-the-meaning-of-life">The Cosmic Game: A User's Guide to the Meaning of Life</h1>
 <h2 id="the-ultimate-purpose-of-human-experience" class="heading-anchor" data-anchor="#the-ultimate-purpose-of-human-experience">The Ultimate Purpose of Human Experience</h2>
-<p><em>Compiled August 11, 2025 at 4:56 PM</em></p>
+<p><em>Compiled August 11, 2025 at 5:51 PM</em></p>
 <hr />
 <hr />
 <h2 id="foreword-a-personal-invitation-from-the-author" class="heading-anchor" data-anchor="#foreword-a-personal-invitation-from-the-author">Foreword: A Personal Invitation from the Author</h2>
