@@ -1026,7 +1026,7 @@ tr:nth-child(even) {
     // Global variables
     let currentChapterIndex = 0;
     let chapters = [];
-    let chapterMode = true; // Start in chapter mode by default
+    let chapterMode = false; // Start in full book mode by default
 
     function toggleSidebar() {
         const sidebar = document.querySelector('.sidebar-nav');
@@ -1275,7 +1275,7 @@ tr:nth-child(even) {
         if (chapterMode) {
             body.classList.add('single-page-mode');
             if (toggleBtn) {
-                toggleBtn.textContent = '⋮';
+                toggleBtn.textContent = '□';
                 toggleBtn.title = 'Full Book Mode (C)';
             }
             showChapter(0);
@@ -1283,7 +1283,7 @@ tr:nth-child(even) {
         } else {
             body.classList.remove('single-page-mode');
             if (toggleBtn) {
-                toggleBtn.textContent = '□';
+                toggleBtn.textContent = '⋮';
                 toggleBtn.title = 'Chapter Mode (C)';
             }
             showAllContent();
@@ -1465,10 +1465,14 @@ tr:nth-child(even) {
         // Initialize chapter mode
         initializeChapterMode();
 
-        // Start in chapter mode by default
+        // Initialize view mode UI
         if (chapterMode) {
             document.body.classList.add('single-page-mode');
             showChapter(0);
+        } else {
+            // Ensure full book mode UI is properly initialized
+            document.body.classList.remove('single-page-mode');
+            showAllContent();
         }
 
         // Setup scroll tracking
@@ -1571,7 +1575,7 @@ tr:nth-child(even) {
 <body>
     <!-- Enhanced Navigation Elements -->
     <button id="floating-nav-toggle" class="floating-nav-toggle" title="Toggle Navigation (T)">☰</button>
-    <button id="view-mode-toggle" class="view-mode-toggle" title="Full Book Mode (C)">⋮</button>
+    <button id="view-mode-toggle" class="view-mode-toggle" title="Toggle Chapter Mode (C)">⋮</button>
     <button id="floating-top-button" class="floating-top-button" title="Go to Top">↑</button>
 
     <div id="page-nav-controls" class="page-nav-controls">
@@ -1618,7 +1622,7 @@ tr:nth-child(even) {
     <div class="content book-content">
         <h1 id="the-human-experiment" class="heading-anchor book-title" data-anchor="#the-human-experiment">The Human Experiment</h1>
 <h2 id="reclaiming-our-origins-purpose-and-evolutionary-destiny" class="heading-anchor" data-anchor="#reclaiming-our-origins-purpose-and-evolutionary-destiny">Reclaiming Our Origins, Purpose, and Evolutionary Destiny</h2>
-<p><em>Compiled August 11, 2025 at 8:03 PM</em></p>
+<p><em>Compiled August 11, 2025 at 10:09 PM</em></p>
 <hr />
 <h2 id="chapter-1-the-mystery-that-changed-everything" class="heading-anchor" data-anchor="#chapter-1-the-mystery-that-changed-everything">Chapter 1: The Mystery That Changed Everything</h2>
 <p>There is a feeling that many of us have experienced—a sense that something is fundamentally wrong with the stories we've been told about ourselves. What if the truth about our origins, our purpose, and our place in the cosmos is incomplete? What if there is a deeper, more profound truth that we are just beginning to reconstruct, a truth that has been hidden from us for aeons?</p>
