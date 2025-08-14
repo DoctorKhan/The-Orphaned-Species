@@ -1116,7 +1116,7 @@ tr:nth-child(even) {
         if (!currentPageSpan || !totalPagesSpan) return;
 
         // Estimate total pages based on word count (assuming ~250 words per page)
-        const wordCount = 31934;
+        const wordCount = 32024;
         const estimatedTotalPages = Math.ceil(wordCount / 250);
 
         let currentPage;
@@ -1153,34 +1153,45 @@ tr:nth-child(even) {
             return;
         }
 
-        // Look for h2 elements that contain "Chapter" in the text
-        const allH2s = content.querySelectorAll('h2');
-        const chapterHeadings = Array.from(allH2s).filter(h2 =>
-            h2.textContent.includes('Chapter ') && h2.textContent.includes(':')
-        );
+        // Appendix titles from YAML TOC (injected by builder)
+        const appendixTitles = new Set(((["Timeline of Human Management", "Genetic Evidence Summary", "Archaeological Anomalies", "Mythological Cross-References"]) || []).map(t => (t || '').toLowerCase()));
 
-        console.log(`Found ${allH2s.length} h2 elements, ${chapterHeadings.length} are chapters`);
+        // Only consider H2 headings for navigation (avoid nested H3 like 'Chapter 40: Appendix C ...')
+        const allHeadings = content.querySelectorAll('h2');
+        const navHeadings = Array.from(allHeadings).filter(h => {
+            const t = (h.textContent || '').trim();
+            const isChapter = /^Chapter\s+\d+\s*:/i.test(t);
+            const isAppendix = (h.getAttribute('data-appendix') === 'true') || appendixTitles.has(t.toLowerCase());
+            return isChapter || isAppendix;
+        });
+
+        console.log(`Found ${allHeadings.length} h2 elements, ${navHeadings.length} are nav entries (chapters/appendices)`);
 
         chapters = [];
 
-        chapterHeadings.forEach((heading, index) => {
+        navHeadings.forEach((heading, index) => {
             const chapterContent = [];
             let currentElement = heading;
 
-            // Collect all content until the next chapter
+            // Collect all content until the next navigable heading
             while (currentElement) {
                 chapterContent.push(currentElement);
                 currentElement = currentElement.nextElementSibling;
 
-                // Stop if we hit another chapter h2
-                if (currentElement && currentElement.tagName === 'H2' &&
-                    currentElement.textContent.includes('Chapter ') &&
-                    currentElement.textContent.includes(':')) {
-                    break;
+                // Stop if we hit another navigable H2 heading: Chapter or Appendix
+                if (currentElement && currentElement.tagName === 'H2') {
+                    const txt = (currentElement.textContent || '').trim();
+                    const isNextChapter = /^Chapter\s+\d+\s*:/i.test(txt);
+                    const isNextAppendix = (currentElement.getAttribute('data-appendix') === 'true') || appendixTitles.has(txt.toLowerCase());
+                    if (isNextChapter || isNextAppendix) break;
                 }
             }
 
-            const title = heading.textContent.replace(/^Chapter \d+:\s*/, '');
+            // Display title without the numeric prefix for chapters; keep full for appendices
+            let title = heading.textContent;
+            if (/^Chapter\s+\d+\s*:/i.test(title)) {
+                title = title.replace(/^Chapter\s+\d+\s*:\s*/, '');
+            }
             chapters.push({
                 title: title,
                 fullTitle: heading.textContent,
@@ -1189,10 +1200,10 @@ tr:nth-child(even) {
                 index: index
             });
 
-            console.log(`Chapter ${index + 1}: ${title} (${chapterContent.length} elements)`);
+            console.log(`Nav item ${index + 1}: ${heading.textContent} (${chapterContent.length} elements)`);
         });
 
-        console.log(`Initialized ${chapters.length} chapters for chapter mode`);
+        console.log(`Initialized ${chapters.length} navigable items (including appendices) for chapter mode`);
 
         // Populate sidebar navigation
         populateSidebarNavigation();
@@ -1210,7 +1221,7 @@ tr:nth-child(even) {
             tocHTML += `
                 <div class="toc-item toc-chapter" data-chapter="${index}">
                     <a href="#" class="toc-link" data-chapter-index="${index}">
-                        ${chapter.fullTitle}
+                        ${chapter.title}
                     </a>
                 </div>
             `;
@@ -1615,14 +1626,14 @@ tr:nth-child(even) {
         <p class="book-subtitle">My Investigation into the Greatest Cover-Up in Human History</p>
         <p class="author">Rez Khan</p>
         <div class="word-count">
-            <p><em>31,934 words</em></p>
+            <p><em>32,024 words</em></p>
         </div>
     </div>
 
     <div class="content book-content">
         <h1 id="the-human-experiment" class="heading-anchor book-title" data-anchor="#the-human-experiment">The Human Experiment</h1>
 <h2 id="reclaiming-our-origins-purpose-and-evolutionary-destiny" class="heading-anchor" data-anchor="#reclaiming-our-origins-purpose-and-evolutionary-destiny">Reclaiming Our Origins, Purpose, and Evolutionary Destiny</h2>
-<p><em>Compiled August 12, 2025 at 10:36 PM</em></p>
+<p><em>Compiled August 13, 2025 at 11:35 PM</em></p>
 <hr />
 <h2 id="chapter-1-the-mystery-that-changed-everything" class="heading-anchor" data-anchor="#chapter-1-the-mystery-that-changed-everything">Chapter 1: The Mystery That Changed Everything</h2>
 <p>There is a feeling that many of us have experienced—a sense that something is fundamentally wrong with the stories we've been told about ourselves. What if the truth about our origins, our purpose, and our place in the cosmos is incomplete? What if there is a deeper, more profound truth that we are just beginning to reconstruct, a truth that has been hidden from us for aeons?</p>
@@ -3133,6 +3144,7 @@ tr:nth-child(even) {
 <li>Enhancement of neural plasticity and learning ability</li>
 <li>Introduction of non-terrestrial genetic sequences</li>
 </ul>
+<p>Note (fossil signal): Finds attributed to Homo antecessor (~1.2–0.8 Ma) at Atapuerca exhibit a modern-like midface. In mainstream terms this reflects mosaic evolution; in this model it reads as an early craniofacial testbed later stabilized in sapiens.</p>
 <p><strong>Phase 2: Consciousness Processing</strong> (800,000 years ago)</p>
 <ul>
 <li>Development of advanced consciousness processing capabilities</li>
@@ -3552,7 +3564,7 @@ tr:nth-child(even) {
 <p>But the original titans who designed your consciousness capabilities are also present in your genetic inheritance. They're waiting for you to choose conscious evolution over unconscious servitude.</p>
 <p>The choice is yours. But choose consciously, because the future of human consciousness - and possibly consciousness itself - depends on what enough humans choose in this crucial moment.</p>
 <p>The experiment that began over a million years ago is entering its final phase. What happens next is up to you.</p>
-<h2 id="timeline-of-human-management" class="heading-anchor" data-anchor="#timeline-of-human-management">Timeline of Human Management</h2>
+<h2 id="timeline-of-human-management" class="heading-anchor" data-anchor="#timeline-of-human-management" data-appendix="true">Timeline of Human Management</h2>
 <p>This timeline summarizes the key events in the million-year experiment that created modern humanity, based on the evidence uncovered in my investigation.</p>
 <h2 id="phase-1-the-original-experiment-1000000-bce" class="heading-anchor" data-anchor="#phase-1-the-original-experiment-1000000-bce">Phase 1: The Original Experiment (1,000,000+ BCE)</h2>
 <p><strong>1,000,000+ years ago - First Arrival</strong></p>
@@ -3584,6 +3596,12 @@ tr:nth-child(even) {
 <li>Integration of all modifications into modern human form</li>
 <li>Preparation for consciousness activation phase</li>
 <li>Installation of genetic switches for advanced capabilities</li>
+</ul>
+<h3 id="related-fossil-signal-contextual-homo-antecessor-1208-million-years-ago" class="heading-anchor" data-anchor="#related-fossil-signal-contextual-homo-antecessor-1208-million-years-ago">Related fossil signal (contextual): Homo antecessor (~1.2–0.8 million years ago)</h3>
+<ul>
+<li>Atapuerca (Gran Dolina TD6) fossils show a modern-like midface prototype (reduced prognathism, canine fossa)</li>
+<li>Placement relative to Homo heidelbergensis remains debated (possible sister/early branch)</li>
+<li>Interpretable as mosaic evolution/paedomorphosis in mainstream models; here framed as an early craniofacial module later stabilized in Homo sapiens</li>
 </ul>
 <h2 id="phase-2-the-cosmic-conflict-200000-50000-bce" class="heading-anchor" data-anchor="#phase-2-the-cosmic-conflict-200000-50000-bce">Phase 2: The Cosmic Conflict (200,000-50,000 BCE)</h2>
 <p><strong>~100,000 years ago - The Titan War</strong></p>
@@ -3735,7 +3753,7 @@ tr:nth-child(even) {
 </ul>
 <hr />
 <p><em>This timeline represents my best interpretation of the evidence uncovered during this investigation. The dates for prehistoric events are necessarily approximate, based on genetic, archaeological, and mythological evidence rather than written records.</em></p>
-<h2 id="genetic-evidence-summary" class="heading-anchor" data-anchor="#genetic-evidence-summary">Genetic Evidence Summary</h2>
+<h2 id="genetic-evidence-summary" class="heading-anchor" data-anchor="#genetic-evidence-summary" data-appendix="true">Genetic Evidence Summary</h2>
 <p>This appendix summarizes the key genetic evidence that supports the conclusions of my investigation into human origins and development.</p>
 <h2 id="human-neoteny-evidence-of-domestication" class="heading-anchor" data-anchor="#human-neoteny-evidence-of-domestication">Human Neoteny - Evidence of Domestication</h2>
 <p><strong>Physical Characteristics:</strong></p>
@@ -3888,7 +3906,7 @@ tr:nth-child(even) {
 </ul>
 <hr />
 <p><em>This genetic evidence forms the foundation for understanding humanity as the product of a million-year consciousness development experiment that was later modified into a domestication program. The DNA doesn't lie - we are not the product of natural evolution alone.</em></p>
-<h2 id="archaeological-anomalies" class="heading-anchor" data-anchor="#archaeological-anomalies">Archaeological Anomalies</h2>
+<h2 id="archaeological-anomalies" class="heading-anchor" data-anchor="#archaeological-anomalies" data-appendix="true">Archaeological Anomalies</h2>
 <p>This appendix documents the archaeological evidence that supports the existence of advanced pre-flood civilizations and systematic destruction patterns uncovered in my investigation.</p>
 <h2 id="megalithic-precision-anomalies" class="heading-anchor" data-anchor="#megalithic-precision-anomalies">Megalithic Precision Anomalies</h2>
 <p><strong>Göbekli Tepe (Turkey) - 11,600 years old</strong></p>
@@ -4085,7 +4103,7 @@ tr:nth-child(even) {
 </ul>
 <hr />
 <p><em>The archaeological record, when examined without institutional bias, reveals clear evidence of advanced ancient civilizations, systematic destruction campaigns, and ongoing suppression of anomalous evidence. The stones don't lie - our history is far more complex and managed than we've been taught.</em></p>
-<h2 id="mythological-cross-references" class="heading-anchor" data-anchor="#mythological-cross-references">Mythological Cross-References</h2>
+<h2 id="mythological-cross-references" class="heading-anchor" data-anchor="#mythological-cross-references" data-appendix="true">Mythological Cross-References</h2>
 <p>This appendix documents the consistent mythological patterns across cultures that support the historical framework presented in this investigation.</p>
 <h2 id="the-original-titans-first-arrival" class="heading-anchor" data-anchor="#the-original-titans-first-arrival">The Original Titans - First Arrival</h2>
 <p><strong>Mesopotamian Sources:</strong></p>
