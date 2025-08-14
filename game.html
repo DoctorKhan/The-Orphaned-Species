@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Grand Library: Four Games of Consciousness</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.7.77/Tone.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+        }
+        .game-card {
+            transition: all 0.3s ease-in-out;
+            border: 2px solid transparent;
+        }
+        .game-card:hover {
+            transform: translateY(-5px) scale(1.02);
+            border-color: #60a5fa;
+            box-shadow: 0 10px 25px -5px rgba(96, 165, 250, 0.2), 0 8px 10px -6px rgba(96, 165, 250, 0.2);
+        }
+        .choice-btn {
+            transition: all 0.2s ease-in-out;
+        }
+        .choice-btn:hover {
+            transform: translateY(-2px);
+        }
+        .particle {
+            position: absolute;
+            border-radius: 50%;
+            animation: fly-out 0.7s ease-out forwards;
+            pointer-events: none;
+        }
+        @keyframes fly-out {
+            0% { transform: translate(0, 0) scale(1); opacity: 1; }
+            100% { transform: translate(var(--x), var(--y)) scale(0); opacity: 0; }
+        }
+        .reference-link {
+            text-decoration: underline;
+            color: #93c5fd;
+            cursor: pointer;
+        }
+        .reference-link:hover {
+            color: #60a5fa;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-200 flex items-center justify-center min-h-screen p-4">
+
+    <div id="app-container" class="w-full max-w-4xl mx-auto">
+        <!-- Home Screen -->
+        <div id="home-screen">
+            <div class="text-center mb-10">
+                <h1 class="text-4xl md:text-5xl font-bold text-white mb-3">The Grand Library</h1>
+                <p class="text-blue-400 text-lg">Four Games of Consciousness. Choose Your Investigation.</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Game 1 Card -->
+                <div id="start-social-game" class="game-card bg-gray-800 p-6 rounded-2xl shadow-lg cursor-pointer">
+                    <h2 class="text-2xl font-bold text-white mb-2">The Social Game</h2>
+                    <p class="text-gray-400 mb-4">Become a social investigator. Uncover the invisible systems of control that shape society and learn to see the game's hidden rules.</p>
+                    <span class="font-semibold text-blue-400">Play Style: Detective & Investigation</span>
+                </div>
+                <!-- Game 2 Card -->
+                <div id="start-manual-override" class="game-card bg-gray-800 p-6 rounded-2xl shadow-lg cursor-pointer">
+                    <h2 class="text-2xl font-bold text-white mb-2">Manual Override</h2>
+                    <p class="text-gray-400 mb-4">Journey into your own mind. Learn to distinguish between automatic programming and conscious choice to reclaim your sovereignty.</p>
+                    <span class="font-semibold text-blue-400">Play Style: Consciousness Training</span>
+                </div>
+                <!-- Game 3 Card -->
+                <div id="start-human-experiment" class="game-card bg-gray-800 p-6 rounded-2xl shadow-lg cursor-pointer">
+                    <h2 class="text-2xl font-bold text-white mb-2">The Human Experiment</h2>
+                    <p class="text-gray-400 mb-4">Become an archeologist of the soul. Piece together clues from mythology, genetics, and lost history to uncover humanity's true origins.</p>
+                    <span class="font-semibold text-blue-400">Play Style: Historical Mystery</span>
+                </div>
+                <!-- Game 4 Card -->
+                <div id="start-cosmic-game" class="game-card bg-gray-800 p-6 rounded-2xl shadow-lg cursor-pointer">
+                    <h2 class="text-2xl font-bold text-white mb-2">The Cosmic Game</h2>
+                    <p class="text-gray-400 mb-4">You are a soul choosing its curriculum. Make pre-incarnational choices and navigate the challenges of life to understand its ultimate purpose.</p>
+                    <span class="font-semibold text-blue-400">Play Style: Philosophical RPG</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Game Container -->
+        <div id="game-container" class="hidden w-full bg-gray-800 rounded-2xl shadow-2xl p-6 md:p-8 border border-gray-700 relative">
+            <div id="particle-container" class="absolute inset-0 pointer-events-none"></div>
+            <button id="home-button" class="absolute top-4 right-4 bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg">Home</button>
+            
+            <div id="game-content">
+                <!-- Game content will be injected here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- AUDIO & VISUALS ---
+        let audioReady = false;
+        const synths = {
+            conscious: new Tone.Synth({ oscillator: { type: 'sine' }, envelope: { attack: 0.01, decay: 0.1, sustain: 0.2, release: 0.2 } }).toDestination(),
+            automatic: new Tone.Synth({ oscillator: { type: 'square' }, envelope: { attack: 0.01, decay: 0.2, sustain: 0.1, release: 0.2 } }).toDestination(),
+            next: new Tone.Synth().toDestination(),
+            select: new Tone.MembraneSynth().toDestination(),
+        };
+
+        document.body.addEventListener('click', async () => {
+            if (!audioReady) {
+                await Tone.start();
+                audioReady = true;
+            }
+        }, { once: true });
+
+        function playSound(type) {
+            if (!audioReady) return;
+            const now = Tone.now();
+            switch(type) {
+                case 'conscious':
+                    synths.conscious.triggerAttackRelease('C4', '8n', now);
+                    synths.conscious.triggerAttackRelease('G4', '8n', now + 0.1);
+                    break;
+                case 'automatic':
+                    synths.automatic.triggerAttackRelease('C3', '8n', now);
+                    break;
+                case 'next':
+                    synths.next.triggerAttackRelease('C5', '16n', now);
+                    break;
+                case 'select':
+                    synths.select.triggerAttackRelease('C2', '8n', now);
+                    break;
+            }
+        }
+
+        function createParticles(event, type) {
+            const particleContainer = document.getElementById('particle-container');
+            if (!particleContainer || !event) return;
+            const rect = event.target.getBoundingClientRect();
+            const gameRect = particleContainer.getBoundingClientRect();
+            const x = rect.left + rect.width / 2 - gameRect.left;
+            const y = rect.top + rect.height / 2 - gameRect.top;
+            const color = type === 'conscious' ? '#3b82f6' : '#6b7280';
+
+            for (let i = 0; i < 20; i++) {
+                const p = document.createElement('div');
+                p.className = 'particle';
+                p.style.backgroundColor = color;
+                const size = Math.random() * 5 + 2;
+                p.style.width = `${size}px`; p.style.height = `${size}px`;
+                p.style.left = `${x}px`; p.style.top = `${y}px`;
+                const angle = Math.random() * 360;
+                const distance = Math.random() * 80 + 50;
+                const endX = Math.cos(angle * Math.PI / 180) * distance;
+                const endY = Math.sin(angle * Math.PI / 180) * distance;
+                p.style.setProperty('--x', `${endX}px`);
+                p.style.setProperty('--y', `${endY}px`);
+                particleContainer.appendChild(p);
+                setTimeout(() => p.remove(), 700);
+            }
+        }
+        
+        // --- URL & REFERENCE HANDLING (Corrected) ---
+        const baseURL = "https://doctorkhan.github.io/The-Orphaned-Species/";
+        
+        const bookFileNames = {
+            'the-social-game': 'book_the_social_game',
+            'manual-override': 'book_manual_override',
+            'the-human-experiment': 'book_the_human_experiment',
+            'the-cosmic-game': 'book_the_cosmic_game'
+        };
+
+        const chapterSlugs = {
+            'the-social-game': {
+                'chapter-12': 'chapter-12-the-ancient-control-system---how-they-perfected-the-art-of-division',
+                'chapter-14': 'chapter-14-the-four-spheres-of-belonging',
+                'chapter-8': 'chapter-8-the-clue-in-the-crying-teenager',
+                'chapter-22': 'chapter-22-the-war-on-play'
+            },
+            'manual-override': {
+                'chapter-21': 'chapter-21-the-reality-whirlpool---a-first-aid-kit-for-emotional-hijacking',
+                'chapter-20': 'chapter-20-the-marionettes-discovery---understanding-your-strings',
+                'chapter-7': 'chapter-7-the-navigation-system'
+            },
+            'the-human-experiment': {
+                'chapter-15': 'chapter-15-tiamat-and-apsu',
+                'chapter-2': 'chapter-2-the-systematic-destruction',
+                'chapter-3': 'chapter-3-the-bloodline-hunt',
+                'chapter-13': 'chapter-13-the-domesticated-species'
+            },
+            'the-cosmic-game': {
+                'foreword': 'foreword-a-personal-invitation-from-the-author',
+                'part-1': 'part-1-the-architecture-of-the-university',
+                'glossary': 'glossary'
+            }
+        };
+
+        function createReferenceLink(book, chapterKey) {
+            const bookFile = bookFileNames[book];
+            const chapterSlug = chapterSlugs[book] ? chapterSlugs[book][chapterKey] : '';
+            if (!bookFile || !chapterSlug) {
+                console.warn(`Could not create link for ${book}, ${chapterKey}`);
+                return '';
+            }
+            return `<a href="${baseURL}${bookFile}/index.html#${chapterSlug}" target="_blank" class="reference-link">(Learn More)</a>`;
+        }
+        
+        // --- GAME DATA ---
+        const allGameData = {
+            socialGame: {
+                title: "The Social Game",
+                subtitle: "An Investigation",
+                scoreName: "Clarity",
+                initialScore: 0,
+                scenarios: {
+                    'start': {
+                        text: "You're a social investigator. Your mission: to understand the invisible forces that shape human behavior. Your first case: You're in a coffee shop watching two friends, Mike and Sarah, argue intensely about politics. They seem to agree on most things in life, but this one issue is tearing them apart.",
+                        choices: [
+                            { text: "Conclusion: People are just too passionate about their beliefs. This is a simple disagreement.", type: 'surface', consequence: "A reasonable but incomplete analysis. You've observed the symptom but missed the underlying mechanism. The trail grows cold.", score: 0, next: 'case_2' },
+                            { text: `Hypothesis: Something is amplifying their disagreement, making them focus on the 20% they differ on, rather than the 80% they share. This feels engineered. ${createReferenceLink('the-social-game', 'chapter-12')}`, type: 'systemic', consequence: "Excellent insight. You've identified a key tactic of the Social Game: 'Divide and Conquer.' By amplifying small differences, the System prevents potential allies from uniting.", score: 15, next: 'case_2' }
+                        ]
+                    },
+                    'case_2': {
+                        text: "Case File #2: You observe a small, tight-knit neighborhood with a tool-sharing library and community garden. A large corporation builds a mega-store nearby, offering individual discount cards and sponsoring the local school's sports team.",
+                        choices: [
+                            { text: "Conclusion: The corporation is being a good neighbor, investing in the community.", type: 'surface', consequence: "You've accepted the surface narrative. Meanwhile, the discount cards reduce participation in the tool library, and the sponsorship creates factions. The community's internal bonds weaken.", score: -5, next: 'case_3' },
+                            { text: `Hypothesis: This is a 'Hollow Middle' strategy. The corporation is replacing the community's horizontal, mutual-aid bonds with vertical, dependency-based relationships. ${createReferenceLink('the-social-game', 'chapter-14')}`, type: 'systemic', consequence: "Precisely. The System replaces authentic community (Family Protocol) with institutional dependency (Engine Protocol). You've uncovered a major piece of evidence.", score: 20, next: 'case_3' }
+                        ]
+                    },
+                    'case_3': {
+                        text: "Case File #3: You're studying a teenager, Alex, who is deeply unhappy despite a comfortable life. He spends hours a day on social media, comparing his life to influencers and feeling inadequate.",
+                        choices: [
+                            { text: `Hypothesis: The problem is the 'Great Reversal.' Alex's natural drive for meaningful challenge is channeled into the artificial game of social media status. ${createReferenceLink('the-social-game', 'chapter-8')}`, type: 'systemic', consequence: "You've hit the core of the issue. The Social Game replaces real-world challenges with meaningless simulations, causing deep psychological distress.", score: 20, next: 'case_4' },
+                            { text: "Conclusion: Alex is just ungrateful. Teenagers have always had struggles with identity.", type: 'surface', consequence: "This dismisses the unique, technologically-driven pressures Alex faces. You've mistaken a systemic issue for a personal failing.", score: -10, next: 'case_4' }
+                        ]
+                    },
+                    'case_4': {
+                        text: "Case File #4: You're at a city planning meeting. A proposal is made to turn a chaotic, multi-use public square into an orderly, sanitized corporate plaza with security guards.",
+                        choices: [
+                            { text: "Conclusion: This is a necessary step for urban development. Order and safety are important.", type: 'surface', consequence: "You've endorsed the 'Engine Protocol.' The plaza becomes sterile and lifeless. Spontaneous human connection—the 'flow'—is engineered out of existence.", score: -5, next: 'end' },
+                            { text: `Hypothesis: This is an attack on 'Playful Sovereignty.' The messy 'Family Protocol' of the square is being replaced by the controllable 'Engine Protocol' of the corporation. ${createReferenceLink('the-social-game', 'chapter-22')}`, type: 'systemic', consequence: "A masterful deduction. You see that the System seeks to eliminate spaces of authentic connection in favor of predictable control.", score: 20, next: 'end' }
+                        ]
+                    },
+                    'end': {
+                        text: "Your initial investigation is complete. You have gathered significant evidence on the primary tactics of the Social Game. But seeing the game is only the first step.",
+                        choices: [ { text: "Begin a New Investigation", type: 'systemic', consequence: "The patterns are everywhere. The more you look, the more you see.", score: 0, next: 'start' } ]
+                    }
+                }
+            },
+            manualOverride: {
+                title: "Manual Override",
+                subtitle: "The Game of Consciousness",
+                scoreName: "Sovereignty",
+                initialScore: 50,
+                scenarios: {
+                    'start': {
+                        text: "You wake up. The alarm blares. Your mind is already racing with the day's anxieties. Your phone is on the nightstand, glowing with notifications.",
+                        choices: [
+                            { text: "Grab phone and scroll.", type: 'automatic', consequence: `You fall into a 'Reality Whirlpool' of social media, starting your day in a reactive state. ${createReferenceLink('manual-override', 'chapter-21')}`, sovereignty: -5, next: 'work_email' },
+                            { text: "Pause. Take three deep breaths.", type: 'conscious', consequence: "You reclaim the first moments of your day. The anxiety doesn't vanish, but you create a space of awareness around it. You've performed your first Manual Override.", sovereignty: 10, next: 'work_email' }
+                        ]
+                    },
+                    'work_email': {
+                        text: "You open your work email. There's a critical message from your boss questioning a decision you made. You feel a hot flash of defensiveness.",
+                        choices: [
+                            { text: "Fire back a defensive reply.", type: 'automatic', consequence: `The 'Approval String' pulls you into a conflict. Your boss replies curtly, and the tension shadows your day. ${createReferenceLink('manual-override', 'chapter-20')}`, sovereignty: -10, next: 'social_media_outrage' },
+                            { text: "Observe the feeling. Ask: 'What is this trying to teach me?'", type: 'conscious', consequence: "You recognize this as a 'Charge.' From the 'Observer' perspective, you draft a calm, curious reply asking for clarification.", sovereignty: 10, next: 'social_media_outrage' }
+                        ]
+                    },
+                    'social_media_outrage': {
+                        text: "During lunch, you scroll social media. A headline is perfectly engineered to trigger your political outrage. You feel the compulsion to share it.",
+                        choices: [
+                            { text: "Share the article. 'This is what's wrong with the world!'", type: 'automatic', consequence: "You've been drafted into the 'Divide and Conquer' game. You spend an hour arguing in the comments, your energy drained.", sovereignty: -10, next: 'friend_crisis' },
+                            { text: "Recognize the manipulation. Close the app.", type: 'conscious', consequence: "You see the 'Engine Protocol' at work, designed to extract your attention. You refuse to play. You eat your lunch in peace.", sovereignty: 10, next: 'friend_crisis' }
+                        ]
+                    },
+                    'friend_crisis': {
+                        text: "A friend calls, distraught over a personal crisis. They are caught in a loop of panic. Your impulse is to give them advice and 'fix' their problem.",
+                        choices: [
+                            { text: "Tell them exactly what they should do.", type: 'automatic', consequence: "Your 'Control String' activates. Your friend feels unheard and pushes back. The conversation ends with frustration.", sovereignty: -5, next: 'end_win' },
+                            { text: `Just listen. Hold space for their feelings. ${createReferenceLink('manual-override', 'chapter-7')}`, type: 'conscious', consequence: "You practice 'Non-Action.' By simply being present, you provide a stable anchor. They find their own clarity. The bond deepens.", sovereignty: 15, next: 'end_win' }
+                        ]
+                    },
+                    'end_win': {
+                        text: "The day ends. You sit in the quiet of your home, reflecting. You faced the pressures of the Social Game, the pull of your own programming. But you remembered you were the Player, not just the piece.",
+                        choices: [ { text: "Start a New Game", type: 'conscious', consequence: "The journey of awakening is a spiral, not a straight line.", sovereignty: 0, next: 'start' } ]
+                    },
+                     'end_lose': {
+                        text: "The day ends. You feel drained and disconnected. You were pulled by every string, caught in every whirlpool. But tomorrow is another day, another chance to remember.",
+                        choices: [ { text: "Try Again", type: 'conscious', consequence: "Failure is part of the curriculum. The most important step is the one you take next.", sovereignty: 0, next: 'start' } ]
+                    }
+                }
+            },
+            humanExperiment: {
+                title: "The Human Experiment",
+                subtitle: "A Historical Mystery",
+                scoreName: "Coherence",
+                initialScore: 0,
+                scenarios: {
+                    'start': {
+                        text: "You are a historical investigator. An anomaly has appeared: Göbekli Tepe, a sophisticated temple complex dated to 11,600 years ago, built by supposed 'hunter-gatherers.' This contradicts the standard timeline of civilization. Where do you focus your investigation?",
+                        choices: [
+                            { text: "Examine the stone carvings for symbolic meaning.", type: 'mythology', consequence: `The carvings depict complex animal forms and abstract symbols, suggesting a rich cosmology far older than previously thought. ${createReferenceLink('the-human-experiment', 'chapter-15')}`, score: 10, next: 'case_2' },
+                            { text: "Analyze the site's deliberate burial around 8,000 BCE.", type: 'archeology', consequence: "The site wasn't abandoned; it was intentionally and carefully buried. This suggests a desire to preserve—or hide—the knowledge it contained. A crucial clue.", score: 15, next: 'case_2' }
+                        ]
+                    },
+                    'case_2': {
+                        text: "Your research points to a wave of destruction across the Bronze Age world around 1200 BCE. From the Hittites to Mycenaean Greece, advanced civilizations collapsed simultaneously. What's the connection?",
+                        choices: [
+                            { text: `Investigate the 'Sea Peoples' credited with the destruction. ${createReferenceLink('the-human-experiment', 'chapter-2')}`, type: 'military', consequence: "The 'Sea Peoples' appear to be a convenient scapegoat. The destruction was too coordinated and precise for random marauders. It was a surgical strike against specific knowledge centers.", score: 15, next: 'case_3' },
+                            { text: "Analyze the genetic record from this period.", type: 'genetics', consequence: "You find evidence of a massive Y-chromosome bottleneck. For every 17 women who reproduced, only 1 man did. This wasn't random war; it was a systematic purge of specific male bloodlines.", score: 20, next: 'case_3' }
+                        ]
+                    },
+                    'case_3': {
+                        text: "Myths from around the world speak of a time when 'gods' interbred with humans, creating hybrid offspring like the Nephilim. Is this fantasy, or a distorted memory of a real event?",
+                        choices: [
+                            { text: "Dismiss it as mythology. Focus on hard archeological evidence.", type: 'skeptic', consequence: "By ignoring the mythological data, you miss a key part of the pattern. The myths contain corrupted, but essential, historical data.", score: -5, next: 'case_4' },
+                            { text: `Cross-reference the myths with royal burial sites. ${createReferenceLink('the-human-experiment', 'chapter-3')}`, type: 'synthesis', consequence: "You discover that Bronze Age royal tombs contain skeletal remains of individuals with anomalous height and cranial features, matching the 'giant' descriptions in myths. The stories have a physical basis.", score: 20, next: 'case_4' }
+                        ]
+                    },
+                    'case_4': {
+                        text: "The final piece of the puzzle is humanity itself. We exhibit signs of being a domesticated species (neoteny, authority-seeking). How did this happen?",
+                        choices: [
+                            { text: "This is a natural evolutionary path for a social species.", type: 'conventional', consequence: "This fails to account for the speed and extremity of the changes. The evidence points to an external intervention, not just gradual evolution.", score: -10, next: 'end' },
+                            { text: `It was a deliberate 'Domestication Program' by the survivors of an ancient cataclysm, designed to create a manageable workforce. ${createReferenceLink('the-human-experiment', 'chapter-13')}`, type: 'unconventional', consequence: "The evidence aligns. Our species was modified. This is the core of the Human Experiment. You have assembled the fragmented timeline into a coherent, though shocking, new story of humanity.", score: 25, next: 'end' }
+                        ]
+                    },
+                    'end': {
+                        text: "You have pieced together the scattered clues. The official story of human history is incomplete. Our species has been shaped by forces and events we were never meant to remember. The investigation into the past is complete. Now, the investigation into the future begins.",
+                        choices: [ { text: "Re-examine the Evidence", type: 'synthesis', consequence: "A good investigator always reviews the case file with new eyes.", score: 0, next: 'start' } ]
+                    }
+                }
+            },
+            cosmicGame: {
+                title: "The Cosmic Game",
+                subtitle: "A User's Guide to Life",
+                scoreName: "Wisdom",
+                initialScore: 0,
+                scenarios: {
+                    'start': {
+                        text: "You are a soul, an eternal spark of consciousness, preparing to enter the Earth school. You must choose your primary curriculum for this incarnation. This choice will shape the challenges and lessons of your life.",
+                        choices: [
+                            { text: "Choose the Curriculum of the Heart: To master unconditional love through experiences of betrayal and forgiveness.", type: 'love', consequence: "A courageous path. You will face deep emotional challenges, but the potential reward is a heart that can love without limit. Your journey begins.", score: 10, next: 'case_2' },
+                            { text: "Choose the Curriculum of the Will: To master conscious creation through experiences of powerlessness and sovereignty.", type: 'will', consequence: "A path of power. You will be tested by systems of control, but you will learn to manifest your reality from a place of true inner authority.", score: 10, next: 'case_2' }
+                        ]
+                    },
+                    'case_2': {
+                        text: "You are born. As a child, you experience a moment of profound, unexplainable joy while watching sunlight filter through leaves. How do you interpret this 'glitch in the matrix'?",
+                        choices: [
+                            { text: "Dismiss it as a pleasant but meaningless childhood memory.", type: 'autopilot', consequence: "You remain in 'Character-Lock,' identifying with the mundane world. The memory fades, but the longing for that feeling remains as a quiet ache.", score: -5, next: 'case_3' },
+                            { text: `Recognize it as a message from your Higher Self, a reminder of your true nature. ${createReferenceLink('the-cosmic-game', 'foreword')}`, type: 'player', consequence: "You have remembered you are the Player, not just the character. This memory becomes an anchor, a guiding star on your journey back to yourself.", score: 15, next: 'case_3' }
+                        ]
+                    },
+                    'case_3': {
+                        text: "You face your first great life challenge, a situation that triggers your deepest fears and insecurities. The pain is immense. The Autopilot screams that you are a victim of a cruel, random universe.",
+                        choices: [
+                            { text: "Believe the Autopilot. You are a victim. Life is unfair.", type: 'autopilot', consequence: "You become trapped in a 'Samsaric Whirlpool,' destined to repeat this pattern until the lesson is learned. The suffering deepens.", score: -10, next: 'case_4' },
+                            { text: `Ask the Player's question: 'How is this challenge perfectly designed for my soul's growth?' ${createReferenceLink('the-cosmic-game', 'part-1')}`, type: 'player', consequence: "You have transformed the problem into curriculum. The pain is still real, but it is now meaningful. You begin to extract the wisdom from the wound.", score: 20, next: 'case_4' }
+                        ]
+                    },
+                    'case_4': {
+                        text: "You have gained some wisdom. You encounter another person deep in their own suffering, playing out a pattern you have already mastered. They are lashing out, creating chaos.",
+                        choices: [
+                            { text: "Use your wisdom to 'fix' them. Judge their pattern and tell them how to change.", type: 'spiritual_ego', consequence: "You have fallen into the trap of the 'Spiritual Ego.' Your help is rejected because it comes from a place of superiority, not compassion. You have more to learn.", score: -5, next: 'end' },
+                            { text: `See them as another Player in the Earth school. Offer your presence and compassion without attachment to their outcome. ${createReferenceLink('the-cosmic-game', 'glossary')}`, type: 'mastery', consequence: "This is true mastery. You have become a beneficial presence, a 'Gardener' in training. Your own evolution now accelerates the evolution of others.", score: 25, next: 'end' }
+                        ]
+                    },
+                    'end': {
+                        text: "You have navigated the curriculum of a human life. You have faced the challenges you chose, and learned the lessons you came here to learn. You have remembered that you are not a victim of the game, but consciousness itself, playing for the joy of awakening.",
+                        choices: [ { text: "Choose a New Curriculum", type: 'player', consequence: "The Cosmic Game is infinite. Each life is a new classroom, a new opportunity for love to know itself.", score: 0, next: 'start' } ]
+                    }
+                }
+            }
+        };
+
+        // --- GAME ENGINE ---
+        let activeGame = null;
+        let score = 0;
+
+        const homeScreen = document.getElementById('home-screen');
+        const gameContainer = document.getElementById('game-container');
+        const gameContent = document.getElementById('game-content');
+        const homeButton = document.getElementById('home-button');
+
+        function startGame(gameId) {
+            playSound('select');
+            activeGame = allGameData[gameId];
+            score = activeGame.initialScore;
+            
+            homeScreen.classList.add('hidden');
+            gameContainer.classList.remove('hidden');
+
+            const gameHTML = `
+                <div class="text-center mb-6">
+                    <h1 class="text-3xl md:text-4xl font-bold text-white mb-2">${activeGame.title}</h1>
+                    <p class="text-blue-400">${activeGame.subtitle}</p>
+                </div>
+                <div class="flex justify-between items-center bg-gray-900 p-3 rounded-lg mb-6 border border-gray-700">
+                    <span class="font-semibold">${gameId === 'humanExperiment' ? 'Case File:' : 'Status:'}</span>
+                    <div id="score-status" class="flex items-center">
+                        <span class="mr-2 font-bold text-lg text-blue-300">${activeGame.scoreName}:</span>
+                        <div class="w-40 bg-gray-700 rounded-full h-4">
+                            <div id="score-bar" class="bg-blue-500 h-4 rounded-full" style="width: ${gameId === 'manualOverride' ? 50 : 0}%; transition: width 0.5s ease-in-out;"></div>
+                        </div>
+                        <span id="score-value" class="ml-3 font-bold text-lg text-white">${score}</span>
+                    </div>
+                </div>
+                <div id="scenario-container" class="bg-gray-900 p-6 rounded-lg mb-6 min-h-[150px] border border-gray-700">
+                    <p id="scenario-text" class="text-lg leading-relaxed"></p>
+                </div>
+                <div id="choices-container" class="grid grid-cols-1 ${gameId === 'manualOverride' ? 'md:grid-cols-2' : ''} gap-4"></div>
+                <div id="consequence-container" class="mt-6 hidden">
+                     <div class="bg-gray-900 p-4 rounded-lg border border-gray-700">
+                        <h3 class="font-bold text-lg text-blue-400 mb-2">${gameId === 'socialGame' ? "Investigator's Note:" : "Outcome:"}</h3>
+                        <p id="consequence-text" class="text-gray-300"></p>
+                    </div>
+                    <button id="next-button" class="w-full mt-4 p-3 rounded-lg font-semibold text-white bg-blue-600 hover:bg-blue-700 choice-btn">Continue...</button>
+                </div>
+            `;
+            gameContent.innerHTML = gameHTML;
+            renderScenario('start');
+        }
+
+        function renderScenario(scenarioId) {
+            const scenario = activeGame.scenarios[scenarioId];
+            if (!scenario) return;
+
+            document.getElementById('consequence-container').classList.add('hidden');
+            document.getElementById('choices-container').classList.remove('hidden');
+            document.getElementById('scenario-text').innerHTML = scenario.text;
+            const choicesContainer = document.getElementById('choices-container');
+            choicesContainer.innerHTML = '';
+
+            scenario.choices.forEach(choice => {
+                const button = document.createElement('button');
+                let buttonClass = 'w-full p-4 rounded-lg font-semibold text-white choice-btn ';
+                let buttonHTML = '';
+
+                if (activeGame.title === "The Social Game") {
+                    buttonClass += 'text-left bg-gray-700 hover:bg-gray-600';
+                    buttonHTML = `<span class="font-bold">${choice.type === 'systemic' ? 'Hypothesis' : 'Conclusion'}:</span> ${choice.text}`;
+                } else if (activeGame.title === "Manual Override") {
+                    buttonClass += `${choice.type === 'conscious' ? 'conscious-choice' : 'automatic-choice'}`;
+                    buttonHTML = choice.text;
+                } else {
+                     buttonClass += 'text-left bg-gray-700 hover:bg-gray-600';
+                     buttonHTML = `<span class="font-bold capitalize">${choice.type}:</span> ${choice.text}`;
+                }
+                
+                button.className = buttonClass;
+                button.innerHTML = buttonHTML;
+                button.onclick = (e) => handleChoice(choice, e);
+                choicesContainer.appendChild(button);
+            });
+        }
+
+        function handleChoice(choice, event) {
+            playSound(choice.type === 'conscious' || choice.type === 'systemic' || choice.type === 'player' || choice.type === 'synthesis' ? 'conscious' : 'automatic');
+            createParticles(event, choice.type === 'conscious' || choice.type === 'systemic' || choice.type === 'player' || choice.type === 'synthesis' ? 'conscious' : 'automatic');
+            
+            const scoreChange = choice.score !== undefined ? choice.score : choice.sovereignty;
+            updateScore(scoreChange);
+            
+            document.getElementById('consequence-text').innerHTML = choice.consequence;
+            document.getElementById('choices-container').classList.add('hidden');
+            document.getElementById('consequence-container').classList.remove('hidden');
+
+            document.getElementById('next-button').onclick = () => {
+                playSound('next');
+                if (activeGame.title === "Manual Override" && score <= 0 && choice.next !== 'start') {
+                   renderScenario('end_lose');
+                } else {
+                   renderScenario(choice.next);
+                }
+            };
+        }
+
+        function updateScore(change) {
+            score += change;
+            if (score > 100) score = 100;
+            if (score < 0) score = 0;
+            
+            const scoreBar = document.getElementById('score-bar');
+            const scoreValue = document.getElementById('score-value');
+            
+            scoreValue.textContent = score;
+            scoreBar.style.width = `${score}%`;
+
+            if (score < 25) scoreBar.className = 'bg-red-500 h-4 rounded-full';
+            else if (score > 75) scoreBar.className = 'bg-green-500 h-4 rounded-full';
+            else scoreBar.className = 'bg-blue-500 h-4 rounded-full';
+        }
+
+        function showHomeScreen() {
+            playSound('select');
+            gameContainer.classList.add('hidden');
+            homeScreen.classList.remove('hidden');
+            activeGame = null;
+        }
+
+        // --- Event Listeners ---
+        document.getElementById('start-social-game').addEventListener('click', () => startGame('socialGame'));
+        document.getElementById('start-manual-override').addEventListener('click', () => startGame('manualOverride'));
+        document.getElementById('start-human-experiment').addEventListener('click', () => startGame('humanExperiment'));
+        document.getElementById('start-cosmic-game').addEventListener('click', () => startGame('cosmicGame'));
+        homeButton.addEventListener('click', showHomeScreen);
+
+    </script>
+</body>
+</html>
