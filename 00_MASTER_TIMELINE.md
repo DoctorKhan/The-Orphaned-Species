@@ -1,0 +1,129 @@
+# The Orphaned Species — Master Timeline
+
+*Cross-series chronology. One spine for all five books: the canonical phases (from `30_The_Human_Experiment` Appendix A), the Book 5 narrative chapters that dramatize each phase, and the real-science anchors that ground them.*
+
+**The five books**
+1. **Manual Override** (`10_`) — the practice manual: meditation, consciousness, breaking the program.
+2. **The Social Game** (`20_`) — social control, hierarchy, the mechanics of the spectacle.
+3. **The Human Experiment** (`30_`) — the mythological framework + the canonical timeline (Appendix A).
+4. **The Consciousness Technologies** (`40_`) — the suppressed tools (plant medicine, breathwork, sound, healing touch).
+5. **Ancient Creatures / [retitle TBD]** (`50_`) — the mythic-narrative capstone: one boy, Aedan, watching the whole arc from the cave.
+
+**Source of truth.** The phase structure and dates are canon from `30_The_Human_Experiment/src/90_appendix/10_timeline.md`. Where this doc and that appendix disagree, the appendix wins until reconciled. Science anchors are tracked in `50_Ancient_Creatures/90_epigraphs_and_sources.md`.
+
+---
+
+## Quick-reference table
+
+| Phase | When | Canonical event | Book 5 chapter | Science anchor |
+|-------|------|-----------------|----------------|----------------|
+| I | Millions of yrs ago | Primordial seeding (directed panspermia) | (backstory; Part II glimpse) | Crick & Orgel 1973; Steele et al. 2018 |
+| II | ~930–813 kya | Genesis Bottleneck / Seven Pairs; the locks installed | **6.i Seven Pairs** | Chr-2 fusion ~0.9 mya (Poszewiecka 2022; IJdo 1991); bottleneck ~1,280 (Hu et al. 2023) |
+| III | ~70 kya | The Activation — dormant genes switch on | **6.iii The Key** | HAR1 / human accelerated regions |
+| IV | 70–15 kya | Titan Supervision; the Spear Moment (~400 kya) | **6.ii First Spear**, **7 Living Gods** | — |
+| V | 15–11.6 kya | Generational War; Younger Dryas impact (12.9 kya) | **8 War in Heaven** | Younger Dryas impact hypothesis |
+| VI | 11.6–6 kya | Anunnaki control; Göbekli; agriculture; 17:1 | **10–13** (Carver→Tem) | Göbekli Tepe; Karmin et al. 2015 (17:1) |
+| VII | 6–4 kya | The Abandonment; orphaned systems; Bronze-Age deluge | (the orphaning — thematic spine) | 4.2-kiloyear event |
+| VIII | 4 kya–present | Covenant control systems (Abraham; monotheism) | (father-god thread) | — |
+| IX | 3.5–1.2 kya | Age of Heroes; Albian retreat to Albion | **14 Anthea**, **15 Cuno/Stonehenge** | Bronze Age collapse |
+| X | 2–1.5 kya → now | Roman elimination of Albion; modern control; the choice point | **16 Lovernios**, **17–18 present** | Roman conquest of Anglesey (60 CE) |
+
+---
+
+## Phase-by-phase
+
+### Phase I — Primordial Seeding *(millions of years ago)*
+**Canon:** Tiamat and Abzu seed Earth via directed panspermia — comets carrying purpose-built gigaviruses deliver dormant genetic "receivers" into the biosphere. Geological-timescale patience; foundations laid for an experiment that unfolds over millions of years.
+**Book 5:** Backstory; the cave may glimpse it in the deep-past dream-vision before **6.i**.
+**Science anchor:** Crick & Orgel (1973), "Directed Panspermia," *Icarus*; Steele et al. (2018), cometary delivery of genetic material.
+**Other books:** Sets up the "we were made, not merely evolved" premise underlying all five.
+
+### Phase II — Genesis Bottleneck / Seven Pairs *(~930–813 kya)*
+**Canon:** The bottleneck *is* the Garden of Eden — not a coincidence beside it, but the creation event itself, performed in three moves:
+1. **Crash the population (who).** The lineage is surgically reduced to ~1,000–1,280 individuals — the Seven Pairs Protocol, fourteen Adamu across seven experimental lineages.
+2. **Fuse the chromosome (the wall).** Two ancestral chromosomes (2A, 2B) are stitched end-to-end into human chromosome 2 — 48 → 46. This is a **biological firewall**: a karyotype mismatch is a reproductive isolation mechanism, so the engineered Adamu can no longer cleanly interbreed with the wild, un-engineered 48-chromosome hominids outside the garden. The fence is written into the chromosome count itself — it guarantees the experiment's purity and keeps the locks from bleeding back into the wild stock.
+3. **Install the locks (the cargo).** Binary programming and genetic "locks" — the dormant capacities the Seven will each recover.
+
+Only one lineage ultimately becomes modern humanity. **This is the structural origin of Book 5's Seven.** The fusion and the bottleneck are *one act of redundant engineering*: neither alone seals the experiment (a fusion is only a partial fertility barrier; a small population still leaks), but a partial wall around a tiny isolated founding population does. The Titans didn't build one wall — they built a wall *and* shrank what was inside it.
+
+**The fusion is a chokepoint with three downstream payoffs — the same event does triple duty:**
+- **(a) Isolation — the firewall (above).** Walls the garden-line off from the wild 48-chromosome stock.
+- **(b) Hybridization compatibility — the "Nephilim patch."** If the Titans/Anunnaki themselves carry 46 chromosomes, then wild hominids at 48 would be *biologically incompatible* with them. The fusion is a **mandatory hardware update** that aligns the human karyotype with the "living gods" — preparing the genome for the managed breeding and Nephilim hybrids of the **Phase VI Anunnaki Control Era**. The same wall that locks out the wild stock unlocks compatibility with the engineers. (Note this cuts the same way as the firewall: the fence keeps the experiment pure *and* keeps it matable upward, to its makers.)
+- **(c) The hiding place for locks & receivers.** The real chromosome 2 fusion site (2q13–q14.1) is a genuine anomaly: vestigial telomeric repeats stranded *mid-chromosome* and a degenerate satellite block marking a vestigial centromere — science's definitive proof of a head-to-head fusion. In the myth, that massive restructuring event is the **perfect cover for splicing in the binary programming**: the locks and dormant receiver sequences hide in the seam. And because chromosome 2 carries genes heavy in **brain development and immune function**, this fusion site is plausibly the very hardware the pre-calculated celestial trigger acts upon at the **Phase III Activation** — the seam is both the lock and the lock's keyhole.
+
+This reframes the fusion from evolutionary accident to **deliberate genetic chokepoint** — designed for isolation, hybridization, and concealment at once — which is where the paleogenetics and the mythology fuse cleanly.
+**Book 5:** **6.i Seven Pairs** (the Titans walking the bottleneck; fourteen people in a circle; the two threads tied into one; the locks installed). Aedan is descended from the one surviving pair; the dormant programming of all seven sleeps in his blood.
+**Science anchors (the genetic Garden of Eden):**
+- Chromosome 2 fusion → 48 chromosomes to 46. IJdo et al. (1991, *PNAS*); re-dated to **0.9 Mya (CI 0.4–1.5)** by Poszewiecka et al. (2022, *BMC Genomics*).
+- Population bottleneck → ~1,280 breeding individuals, **~930–813 kya**. Hu et al. (2023, *Science*).
+- Eden framing: Stankiewicz (2016), "did Adam and Eve have the chromosome 2 fusion?"
+**Science notes (keep the floor honest):**
+- The fusion *event* predates the Neanderthal/Denisovan split (they carry it too), and modern humans *did* interbreed with them. So the firewall walls off the **wild 48-chromosome hominids**, *not* the cousins: Neanderthals and Denisovans are parallel branches *inside* the garden — other experiments behind the same wall, sharing the fusion — not wild stock that breached it.
+- The fusion is the **shared** inheritance (all garden-line branches carry it); the **locks** are the **divergent** one (what differentiates the surviving lineage). The fusion is the *how*; the small number is the *who*.
+- Biologically the barrier is **partial, not absolute** — fusion heterozygotes are usually still fertile, just with reduced success (cf. human Robertsonian translocation carriers). This is *why* the bottleneck is needed too: fusion + tiny isolated population together seal what neither does alone.
+- The 0.9-mya fusion estimate and the ~930–813 kya bottleneck date converge, which is what licenses the myth to fuse them into one creation moment.
+
+### Phase III — The Activation *(~70 kya)*
+**Canon:** A pre-calculated celestial trigger washes over Earth; dormant receiver sequences activate; HAR1 and regulatory regions rewire the brain. Modern consciousness is *activated, not evolved.* The Umannu are born. *The trigger acts on what was spliced into the chromosome-2 fusion seam ~0.9 mya (Phase II, payoff c): the seam is the keyhole, the celestial pulse is the key.*
+**Book 5:** **6.iii The Key** (a pulse from the sky; genes asleep a million years switch on).
+**Science anchor:** Human Accelerated Regions (HAR1) and the rapidity of recent brain-related regulatory change.
+
+### Phase IV — Titan Supervision Era *(70–15 kya)*
+**Canon:** The "living gods" walk among humans. Fire, language, early spiritual practice, ecological wisdom. The Spear Moment (~400 kya) tests whether enhanced cognition becomes survival or domination. Enki's faction argues for eventual human independence; a withdrawal plan begins.
+**Book 5:** **6.ii The First Spear** (cognition turns into distance-killing); **7 The Living Gods** (the golden age — Eden, Dilmun, the Dreaming; the village's song is a fragment of what was sung here).
+**Other books:** The "original design" the practice books (1 & 4) say we're meant to reactivate.
+
+### Phase V — The Generational Conflict *(15–11.6 kya)*
+**Canon:** Civil war between elder (Titan) and younger (Anunnaki) generations — the "war in heaven." Younger Dryas impact (12.9 kya) as its violent climax. Göbekli Tepe (11.6 kya) built in the aftermath as memorial to the defeated. Marduk kills Tiamat: organic development replaced by mechanical control.
+**The impact does double duty — it is also the engine of Phase VI.** Before the comet, humanity under Titan supervision lived a golden age of *ecological wisdom* — fed by a wild, abundant Earth that needed no domestication. The Younger Dryas climate collapse scorches that abundance: foraging fails, the wild larder closes. This is what hands the Anunnaki their control system **for free** — they don't have to *sell* domestication, the dead land does it for them. Agriculture is not an innovation chosen but the only survival option left on a ruined Earth (→ Phase VI "desperation engine"). The weapon that wins the war becomes the foundation of the cage: the same event that ends the golden age makes the prison look like rescue.
+**Book 5:** **8 War in Heaven** (the boy sees the comet from above then below; Tiamat is the dragon at the cave's mouth — he learns which side his cave is on). *The causal chain is dramatizable straight into Ch 10: the boy watches the comet fall in 8, then walks Göbekli rising from its ashes in 10 — the abundance ending and the template installed, two chapters apart.*
+**Science anchor:** Younger Dryas impact hypothesis; Göbekli Tepe construction date; the climate-forcing model of agricultural origins.
+
+### Phase VI — Anunnaki Control Era *(11.6–6 kya)*
+**Canon:** Permanent domestication. Göbekli as control template, then its deliberate **burial (~10 kya)** to erase the prior era. Agricultural Revolution as the "desperation engine" (height drops, dental/bone disease, hierarchy, property) — *and the desperation is inherited from Phase V: the Younger Dryas scorched the wild abundance, so agriculture is forced, not chosen. The Anunnaki install Göbekli into a population that has no other way to eat, which is exactly why permanent domestication and hierarchy take so easily.* Binary programming exploited for control. The Great Reproductive Bottleneck — **17 women reproduce for every 1 man (~8–5 kya)**. The Nephilim hybrids and managed breeding — *cashing in the chromosome-2 "Nephilim patch" of Phase II (payoff b): the fusion that aligned the human karyotype to the gods is what makes this upward hybridization biologically possible.*
+**Book 5 (the heart of Part III — practices recovered against the control):**
+- **10 Aru, the Carver** (~9600 BCE) — breath / stillness — at Göbekli's construction.
+- **11 Daskar, the Builder Who Refused** (~8000 BCE) — energy field — at the burial.
+- **12 Ila, the Midwife** (~7000 BCE) — healing touch — the agricultural catastrophe.
+- **13 Tem, the Hidden Son** (~3000 BCE) — dream-walking / telepathy — the 17:1 bottleneck.
+**Science anchor:** Karmin et al. (2015, *Genome Research*) — the Y-chromosome collapse (male effective population size dropping to as little as ~1/17 of the female) showing patriarchy was *installed* over millennia (anchors Ch 13). The collapse spans **~8–4 kya**; in this phase we are watching the clamp go *on*. The *recovery* of male diversity at the tail of that window belongs to Phase VII — see below.
+**Adapa** (canon `20_part_control/60_wisdom_keepers.md`) sits in this era as Book 5's **Chapter 9** — the tragic lock the Seven are keys to.
+
+### Phase VII — The Abandonment & Automated Control *(6–4 kya)*
+**Canon:** The Anunnaki withdraw. Control systems run on without controllers — humans keep worshipping absent masters. Bronze Age collapse / 4.2-kiloyear event preserved as the biblical deluge.
+**The biological signature of the withdrawal — the bottleneck *releases*.** The 17:1 managed-breeding system was held in place by physical hoarding of reproductive access — the Anunnaki and their direct hybrid/elite proxies monopolizing who bred. That hoarding cannot survive the controllers physically leaving: even with the control systems on "automatic," the proxies fracture without the gods standing behind them. So the **recovery of male Y-chromosome diversity at the tail of the Karmin window (~4 kya) reads as the direct genetic fingerprint of the Abandonment** — the same curve that crashed in Phase VI rebounds here, the clamp coming off as the hand that set it leaves. The **4.2-kiloyear aridification event / Bronze-Age deluge** is the chaotic ecological tipping point that finally breaks the managed system, releasing humanity into a wilder — but now *orphaned* — state. The flood myth and the diversity rebound are the same event seen two ways.
+**Book 5:** No dedicated chapter — but **this is the literal orphaning** behind the series title and the *orphan-and-the-father* thread. The species is left a child without parents and, mostly, invents a father to submit to.
+**Science anchor:** Karmin et al. (2015) — the *recovery* limb of the Y-bottleneck (~4 kya); 4.2-kiloyear aridification event.
+**Science note (keep honest):** Karmin et al. document the recovery but do not pin it to a single cause, and the same window holds the Indo-European (Yamnaya/Sintashta) expansions — themselves implicated in patrilineal restructuring. So the myth's clean "controllers leave → diversity rebounds" rides on top of a messier real picture; present it as the cave's reading of the data, not a settled mechanism. (Note the frame raid sits at ~2000 BCE, right in this release window — the chariot-people arrive as the old managed order is already breaking, bringing a *new* sky-father rather than restoring the old one.)
+
+### Phase VIII — Covenant Control Systems *(~4 kya – present)*
+**Canon:** Abraham's calling; monotheism as refined control; moral law internalized; "chosen people" as test protocol. The single father-god eliminates competing authorities.
+**Book 5:** The **father-god thread** made explicit — religion hardening into "a father above, children who submit." Dramatized obliquely (the cults that arrive in Ch 14; the wheel-and-hammer sky-god of the frame raid) rather than as a set-piece.
+**Other books:** *The Social Game* (Book 2) is the modern continuation of this control logic.
+
+### Phase IX — The Age of Heroes & the Albian Retreat *(~3.5–1.2 kya)*
+**Canon:** Last divine-human hybrids (Gilgamesh, Hercules, Achilles); Trojan War as final overt divine intervention; Bronze Age collapse. The Albians retreat to Albion with the consciousness technologies (stone circles, Druidic tradition).
+**The orphan rebuilds the cage — the third beat of the Karmin curve.** With the gods gone (Phase VII) and the clamp released, human warlords now **re-install reproductive hoarding themselves**, mimicking the masters they no longer have. The patriarchal cults that arrive in **Ch 14** are humans running a *corrupted, localized version of the Anunnaki's "Social Game"* — the control logic surviving as cultural memory and re-enacted by men who were never gods. Mechanistically this is **male-driven conquest / competition among patrilineal demes** (the deme-competition driver behind the Y-bottleneck): violent genetic consolidation, now self-inflicted. This makes the **Albian retreat with the consciousness technologies (sonic, collective resonance) a literal escape from a repeating cycle of violent genetic consolidation** — they flee the cage the orphan is rebuilding rather than help build it. *This is the orphan-and-father thread written in DNA: handed freedom, the species reconstructs its masters' machinery from memory — "find a father, kneel," even when the father is only a human warlord.*
+**Book 5:**
+- **14 Anthea, the Singer of Frequencies** (~1500 BCE) — sonic resonance — killed as the patriarchal cults arrive (the orphan-rebuilt cage claiming her); her daughters carry the chord west (→ the Part I village Singer).
+- **15 Cuno, the Bluestone Mover** (~2000 BCE) — collective resonance — Stonehenge's last firing; Cuno names the boy **Aedan**; the chariots crest the rise.
+**Science anchor:** Bronze Age collapse (~3.2–3.0 kya); male-driven deme-competition as a driver of Y-diversity reduction (Karmin et al. 2015; cf. Zeng, Aird & Mathieson 2018, patrilineal kin-group competition).
+**Science note (keep honest):** the *deepest* trough of the Karmin Y-bottleneck is earlier (Neolithic, ~5–7 kya, Phase VI); the Bronze Age here is a *later re-run of the same mechanism*, not the original trough. Frame Ch 14's cults as humanity **repeating** the consolidation pattern, not as the genetic low point itself — the curve's shape (crash → release → human re-consolidation) is the myth's reading, layered on data that is messier and multi-peaked.
+
+### Phase X — The Final Elimination & the Present *(~2–1.5 kya → today)*
+**Canon:** Roman conquest of Albion (43–84 CE) destroys the Druidic centers and consciousness technologies; Albian bloodlines diluted. Knowledge encoded into folklore. Modern society runs evolved covenant logic (secular ideologies, national identity, markets) while the dormant Titan potential remains — the present choice point.
+**Book 5:**
+- **16 Lovernios, the Druid of Anglesey** (60 CE) — plant medicine / non-human mind — buries the seed-catalog in the bog; entrusts the child **Nia**; dies thinking the line is broken. It isn't — Aedan is the proof.
+- **17 The Boy Returns** — Aedan walks out with all seven practices; the granary stone warms under him.
+- **18 A Song Remembered** — a modern child dreams the cave; the seven are still in the blood; the choice is still open.
+**Science anchor:** Roman conquest of Anglesey, 60 CE.
+**Other books:** This is where Books 1 & 4 *live* — the present-day reader is the orphan at the choice point, and the practices (meditation, the consciousness technologies) are how the species finally raises itself.
+
+---
+
+## Continuity flags
+
+- **Fusion vs. bottleneck dates** both land ~0.9 mya but are *different events*; keep distinct in prose even where the myth fuses them.
+- **The Seven Pairs (Phase II) ↔ the Seven (Book 5 Part III)** is the load-bearing structural link — the cast count is canon, not arbitrary.
+- **Sintashta raid (Book 5 Part I, ~2000 BCE)** vs. **Roman conquest (Ch 16, 60 CE)**: two different "wheel" invasions ~2,000 years apart — confirm the frame raid's date against the Stonehenge chapter (Ch 15 is also ~2000 BCE), since Part I and Ch 15 currently sit in the same window.
+- **Working title for Book 5** still TBD (folder name `50_Ancient_Creatures` is a placeholder).
