@@ -4,7 +4,7 @@
 
 **Abraham's Covenant** - The establishment of monotheistic covenant system around 4,000 years ago as a sophisticated evolution of control technology. Replaced polytheistic confusion with single authority, created chosen people concept, and introduced moral law as internalized control mechanism.
 
-**Adamu** - The first earth-born chimeras created by the Anunnaki through genetic modification of early hominids. Ancient texts describe seven pairs (fourteen individuals) being created as different experimental approaches to human enhancement. Multiple variants were created, but only one line (the Umannu) proved successful in the long term. The name derives from ancient Mesopotamian texts referring to the first humans. The Hindu tradition of fourteen Manus provides parallel evidence for this systematic creation protocol.
+**Adamu (The Prototype)** - The first earth-born chimeras, created by the Anunnaki at Phase II (~900,000 years ago) through genetic modification of the wild *Hominid* stock. The "Seven Pairs" (fourteen individuals) were genetically isolated and subjected to the Chromosome 2 fusion — but they were *functionally incomplete*: they carried the hardware (46 chromosomes, the fusion-seam keyhole) without the software (the Phase III Activation pulse, ~70,000 years ago). They are not "Humans" in the modern sense — they are the experimental bedrock, what a processor without an operating system is to a working machine. Only one line proved successful and went on to become the *Umannu* (see entry). The Hindu tradition of fourteen Manus provides parallel evidence for this systematic creation protocol. *(Distinguish sharply from* Umannu*: Adamu name the* dormant prototype *era; Umannu name the* activated *species.)*
 
 **Age of Heroes** - The Bronze Age period (~3,500-1,200 years ago) representing the final era of direct divine-human interaction. Heroes like Gilgamesh, Hercules, and Achilles represent the last generation of human-divine hybrids with enhanced capabilities.
 
@@ -17,6 +17,8 @@
 **Asherah** - Archaeological evidence from the "Yahweh and his Asherah" inscription suggests this functioned as a title for a divine consort or sacred object rather than a fixed personal name. This supports the interpretation that many ancient divine names represent roles or functions rather than individual identities.
 
 ### B
+
+**Basal Eurasians (The Ghost Ancestry)** - The real-paleogenetics name for the lineage this book calls the **Qingu** (see entry): a "ghost" lineage of modern humans inferred from admixture models rather than dug up from skeletal remains, defined by a near-total *absence* of Neanderthal DNA — alone among non-Africans they sat out the ~50,000-60,000-years-ago Eurasian dispersal, isolated in a desert refugium (likely the Arabian Peninsula). The term is retained in the book's *science notes* for grounding; in narrative and mythic passages the lineage is named **Qingu**, and the workforce bred from it the **Lullu**. *(Science: Lazaridis et al. 2014/2016 — the ghost ancestry, its Neanderthal-free signature, and its concentration in the first farmers are mainstream paleogenetics; the framework adds only the agency and the timing-as-intent.)*
 
 **Binary Programming** - Originally installed by the Anunnaki as a temporary learning tool to help early humans process complex information. Later exploited by the Igigi for permanent control, reducing complex reality into simple either/or choices (good/evil, us/them, right/wrong). This programming makes humans predictable and manageable by bypassing complex reasoning through emotional triggers.
 
@@ -40,6 +42,10 @@
 
 ### H
 
+**Hominid** - The wild, pre-experimental stock: the non-engineered 48-chromosome *Homo* population from which the Anunnaki drew their raw material at Phase II. Hominids predate the Chromosome 2 fusion and the *Adamu* prototype — the bedrock the whole experiment is cut from, not part of it.
+
+**Human (Generic / The Orphan's Name)** - The colloquial, in-story self-name. Strictly, *we* are *Umannu* (see entry); "human" is the word the orphaned species uses for itself when biological precision isn't the point — the narrative register, especially for the present-day "orphan at the choice point." Use *Hominid*, *Adamu*, or *Umannu* when the developmental status in the experiment actually matters.
+
 **HAR1 (Human Accelerated Region 1)** - A regulatory RNA gene expressed in neurons of the developing human neocortex that shows accelerated evolution in the human lineage. In this mythology, HAR1 represents one of the key genetic switches activated during Phase III of the experiment.
 
 **Hybrid Genetics** - The biological mechanics governing hybrid descendants (like the Nephilim and Albians). Displaying characteristics similar to tigons and ligers in modern big cat breeding, they exhibit first-generation hybrid vigor with enhanced capabilities, followed by genetic instability and fertility issues in later generations. Due to Haldane's Rule, the XY male hybrids are universally sterile, whereas XX female hybrids have a much higher chance of being fertile, allowing them to breed "up" into the divine caste or "down" into humanity.
@@ -47,6 +53,10 @@
 ### I
 
 **Igigi** - The younger generation of beings (Anu, Enlil, Marduk) who overthrew the older Anunnaki generation during the cosmic war marked by the Younger Dryas impact (12,900 years ago). They represented a different philosophy - preferring direct, systematic control over the Anunnaki's patient, evolutionary approach to human development.
+
+### L
+
+**Lullu (The Hybrid Workforce)** - The population produced in Phase VI when the Igigi bred the *Qingu* baseline into the dispersed, Neanderthal-admixed *Umannu* hunter-gatherer lineages. A metabolic and immune-system "hardware patch" yielding a population able to endure the high-carbohydrate, disease-dense conditions of the agricultural *Desperation Engine* (see entry). The name derives from the Mesopotamian *lullû* — the worker-being made to bear the gods' toil. The Sumerians and Neolithic Britons are downstream expressions of *Lullu* hybridization — the dish, not the ingredient. *(A biological population, not a social class; the* Qingu *is the ingredient,* Umannu *the species,* Lullu *the labor-optimized admixture.)*
 
 ### M
 
@@ -57,6 +67,10 @@
 ### N
 
 **Nephilim** - Biblical term for the "giants" or "fallen ones" - the offspring of divine beings and human women. Subject to the rules of *Hybrid Genetics* (see entry), they represent massive, violently aggressive descendants. Because the male Nephilim were sterile, they acted as an impenetrable wall—killing human men and hoarding human women—to enforce the multi-millennia reproductive bottleneck.
+
+### Q
+
+**Qingu (The Genetic Baseline)** - The book's mythic name for the lineage paleogenetics calls the *Basal Eurasians* (see entry). A sealed sub-branch of the *Umannu* line, isolated in a desert refugium from the Phase II seal (Eden) onward and so kept **free of Neanderthal/Denisovan admixture**. They were activated by the Phase III pulse like all *Umannu* — the seal blocks *gene flow*, not the *celestial signal* — so they are *Umannu* by chromosomal structure and consciousness, but lack the introgressed "hybrid vigor" the dispersed populations picked up during migration. The Igigi's **"Clean Room"**: a clean, uncontaminated breeding reserve held in quarantine as the safest substrate to patch. Their "absence" from the archaeological record was engineered isolation, not extinction. Released in Phase VI to produce the *Lullu* (see entry). The name derives from Qingu (Kingu) of the *Enuma Elish*, whose blood furnished the raw material for the first workers. **The name does double duty by design** (the encoded pun): "Qingu" is *both* this genetic reserve *and* the Igigi's propaganda name for the slain progenitor-god — their rebrand of the older, truer **We-ila / Geshtu-e** (see entry). "You are made of the traitor Qingu's blood" is literally true at the genetic layer (the Lullu *were* bred from the Qingu stock) but weaponized into inherited guilt, while the deeper truth — that what was really sacrificed into the line was We-ila's *intelligence* — is buried under the guilt-name. *(Keep distinct from the* Lullu *and from the Sumerians: Qingu is the un-mixed ingredient, never the finished population.)*
 
 ### S
 
@@ -74,7 +88,11 @@
 
 ### U
 
-**Umannu** - The successful line of genetically modified humans that emerged from the Genesis Bottleneck and survived the Phase III activation. This term represents modern *Homo sapiens* - the species that carries the full Anunnaki genetic modifications and consciousness programming.
+**Umannu (The Success / Modern Human)** - The fully realized expression of the experiment: the successful line that emerged from the Genesis Bottleneck (Phase II) and was switched on by the Activation pulse (~70,000 years ago, Phase III). They possess both the *hardware* (the Chromosome 2 fusion-seam keyhole) and the *software* (the activated cognitive/receiver sequences). All modern *Homo sapiens* are *Umannu*. The lineage runs in two streams: the dispersed, Neanderthal-admixed populations that ranged the open Wild, and the sealed, un-admixed reserve held in quarantine — the *Qingu* (see entry). Breeding the two together in Phase VI produces the *Lullu* (see entry). *(Distinguish from* Adamu*, the* dormant *prototype that preceded activation.)*
+
+### W
+
+**We-ila / Geshtu-e (The Resonant Source)** - The oral, true name — preserved by the *Umannu* wisdom-keepers (the Albian Singers) — for what the Igigi state-mythology rebranded as the traitor *Qingu* (see entry). In the older *Atrahasis* cycle, humanity is made from the blood of a slain god *"who had ṭēmu"* (intelligence/sense); that god is **We-ila**, also called **Geshtu-e** ("the Ear," i.e. the seat of wisdom). In this framework he is the **Anunnaki intelligence whose "sacrifice" was the Phase III Activation** — his *ṭēmu* encoded into the line as the dormant cognitive/telepathic spark that makes the *Umannu* (the *software* to Qingu's *stock*). The Albian Singers do not worship him as a sky-god; in their practice **We-ila is not a person but the latent *frequency of intelligence* in the human genome** — what they tune when they "sing the stones," the literal biological resonance of *waking up*. Aedan's pivot in Book 5: realizing the "*Qingu*-blood" he was told made him a guilty traitor-slave is in truth the vessel for **We-ila** — the sacrificed intelligence. *(Keep-honest note: We-ila and Geshtu-e are variant names of one minor deity in the real* Atrahasis *tradition — Akkadian vs. Sumerian — not an attested name-vs-title pair; the "name vs. esoteric title" split is this book's device. The "deliberate Igigi rewrite" is likewise our interpretive layer: the two myths coexist in the record, they don't polemicize.)*
 
 ### Y
 

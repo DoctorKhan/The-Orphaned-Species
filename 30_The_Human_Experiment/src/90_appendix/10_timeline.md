@@ -47,7 +47,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 **The Lock System**: This represents the installation of complex genetic "locks" that would define human potential, waiting for future "keys" to activate dormant capabilities.
 
-**Geographic Distribution**: The seven pairs were distributed across different continents and ecological niches, creating parallel experiments in human development. Over hundreds of thousands of years, most experimental lineages failed due to environmental pressures, genetic instability, or dilution of modifications.
+**Geographic Distribution**: The seven pairs were distributed across different continents and ecological niches, creating parallel experiments in human development. Crucially, they were sited by *two strategies*. Some plots were **sealed nurseries**—genetic clean rooms cut from the wild, sited on islands, isolated peninsulas, and hidden valleys precisely because such terrain blocks the wild variables from contaminating the engineered line. The rest were left to the **open wild**—unsealed ranges, often the high cold country, where the stock roamed free and mixed with whatever it met. (The cousins of later memory, the Neanderthals and Denisovans, are the open-wild experiments: engineered, but never sealed, and free to interbreed with the dispersing lines—which is why they appear *inside* humanity's later genome rather than walled out of it.) Over hundreds of thousands of years, most experimental lineages failed due to environmental pressures, genetic instability, or dilution of modifications.
 
 **Temporal Advantage**: The Anunnaki's mastery of time - whether through near-light speed travel or other temporal technologies - allows them to execute plans across geological ages while experiencing minimal subjective time.
 
@@ -62,6 +62,8 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 **HAR1 Evolution**: Human Accelerated Region 1 and other regulatory sequences undergo impossibly rapid evolution, rewiring the human brain and expanding consciousness capacity at rates that defy natural selection.
 
 **Birth of Homo Sapiens**: The emergence of modern humans with enhanced consciousness - not evolved but activated. The Umannu are born.
+
+**We-ila's Gift**: In the oldest telling (the *Atrahasis*), humanity is made from the blood of a slain god *"who had ṭēmu"* (intelligence) — **We-ila**, also **Geshtu-e** ("the Ear"/wisdom). This is the mythic memory of the Activation itself: the *mind* (the cognitive/telepathic spark) donated to the line, distinct from the *stock* (body) the Qingu reserve later contributes (Phase VI). The Igigi will eventually rebrand this same slain progenitor as the *traitor Qingu*, weaponizing the name to encode guilt; the Albian wisdom-keepers preserve the true reading — We-ila not as a sky-god but as the latent *frequency of intelligence* in the genome, the thing the Singers tune.
 
 ## Phase IV: Anunnaki Supervision Era (70,000-15,000 Years Ago)
 
@@ -120,6 +122,8 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - Establishes the foundation for all subsequent hierarchical civilizations built on agricultural surplus
 - Coincides with the burial of Göbekli Tepe, marking the transition from memorial to active control
 
+**The Ghost in the First Farmers**: The population genetics of the agricultural transition carry a strange fingerprint. The earliest farmers—the Natufians and the Anatolian Neolithic farmers—carry a genetic signature that **no known hunter-gatherer lineage can explain**: a "ghost" ancestry called the **Basal Eurasians** — this book's **Qingu** — known not from any skeleton but as a mathematical necessity in the DNA of their descendants. Their defining trait is the **absence of Neanderthal DNA**. Every other population outside Africa interbred with Neanderthals as they spread across Eurasia 50,000-60,000 years ago—but the Qingu did not, because they were never part of that journey. They remained isolated in a refugium (likely the Arabian Peninsula or North Africa) while the rest of humanity mixed. Within this framework, the Qingu are **the Garden itself**—the one of the Seven sealed experimental plots that was kept truly cloistered and held: the purest lineage, walled apart while the rest of humanity dispersed into the open country and absorbed its cousins. Those cousins—the Neanderthals and Denisovans—are not garden-dwellers at all but the **high places**: the engineered-but-unsealed stock, left to range the cold Eurasian uplands (the Caucasus, the Zagros, the Altai), free to mix with every line that left the Garden. This is why the absence of Neanderthal DNA is the *signature of the seal*: the Qingu never picked it up because they never left. They were not "missing for thousands of years"—they were held back. And the moment they finally appear in the genetic record, ~10,000-12,000 years ago, coincides **precisely with the rise of the Neolithic Revolution**. They do not seep into the data; they *spike*—the sequestered stock unsealed and deployed, on cue, to become the very population through which the Igigi install agriculture. The first farmers carry the ghost because the first farmers *are* the released reserve.
+
 **Binary Programming Exploitation**: The Igigi discover they can exploit the Anunnaki-installed binary programming for direct control:
 - What was designed as temporary cognitive training becomes permanent manipulation
 - Simple either/or choices bypass complex reasoning
@@ -159,6 +163,8 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - Binary programming continues operating without its original controllers
 - Religious and political hierarchies function as automated control systems
 - Humans continue worshipping absent masters and following obsolete rules
+
+**The Grid Goes Dark**: The withdrawal is also a *decommissioning*. The high places—the mountain and stone-circle nodes the gods had plugged into the planet's field as the hubs of their network—are powered down one at a time (Göbekli Tepe's burial, and later Stonehenge's final ceremonies). The orphaned species is left holding the stone hardware but not the frequency that ran it. Having no manual for what these sites were, humanity begins to *sacralize* them—mountain-holiness and stone-circle worship as a kind of cargo cult around decommissioned infrastructure, the same misfire as worshipping the absent masters themselves.
 
 **The Bronze Age Collapse and Biblical Deluge (4,200 years ago)**: The 4.2 kiloyear climate event triggers widespread civilizational collapse:
 - Severe drought and climate disruption across the ancient world
@@ -260,6 +266,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 **Göbekli Tepe Construction** (11,600 years ago): First major Igigi construction project, memorial to defeated Anunnaki
 **Göbekli Tepe Burial** (10,000 years ago): Systematic erasure of Anunnaki-era evidence begins
 **Agricultural Revolution** (10,000 years ago): Igigi introduce settlement-based control system
+**The Qingu Spike** (~10,000-12,000 years ago): The sealed "ghost" reserve (the *Basal Eurasians*)—the Neanderthal-free lineage held in isolation—appears in the genetic record exactly as the Neolithic Revolution begins; the first farmers carry its signature, and the workforce bred from it becomes the **Lullu**
 **The 17:1 Ratio** (~8,000-5,000 years ago): Extreme reproductive bottleneck - 17 women reproduce for every 1 man
 **Urban Civilization** (6,000 years ago): Full implementation of systematic population management
 **The Abandonment** (6,000 years ago): Control systems continue operating without active management
