@@ -12,17 +12,17 @@ These stories are not about water; they are about a break in continuity. In ever
 
 ## The First Reset: A Cosmic Catastrophe
 
-The first great cataclysm was the Younger Dryas impact, approximately 12,800 years ago. This event, which brought the Ice Age to an abrupt and violent end, shattered the global infrastructure of the original creator civilization, the Titans. 
+The first great cataclysm was the Younger Dryas impact, approximately 12,800 years ago. This event, which brought the Ice Age to an abrupt and violent end, shattered the global infrastructure of the original creator civilization, the Anunnaki. 
 
-This wasn't a flood in the traditional sense, but a worldwide disaster of fire and ice that erased coastlines, destroyed ecosystems, and wiped out the megafauna that had dominated the planet for millennia. For the Titans, it was a devastating blow, crippling their ability to manage their grand experiment.
+This wasn't a flood in the traditional sense, but a worldwide disaster of fire and ice that erased coastlines, destroyed ecosystems, and wiped out the megafauna that had dominated the planet for millennia. For the Anunnaki, it was a devastating blow, crippling their ability to manage their grand experiment.
 
 ## The Second Reset: A Hostile Takeover
 
-The second major reset was not a natural disaster, but a conquest. In the chaotic aftermath of the Younger Dryas impact, a new, hostile faction arrived—beings remembered in Sumerian lore as the Anunnaki. They saw the weakened state of the Titan's experiment and seized it for themselves.
+The second major reset was not a natural disaster, but a conquest. In the chaotic aftermath of the Younger Dryas impact, a new, hostile faction arrived—beings remembered in Sumerian lore as the Igigi. They saw the weakened state of the Anunnaki's experiment and seized it for themselves.
 
-This event is memorialized in the flood myths of Mesopotamia, which describe a localized but culturally devastating deluge around 2900 BCE. This wasn't a global event, but a targeted regime change. The Anunnaki effectively "flooded" the heartland of the recovering civilization, wiping out the existing power structure and installing themselves as the new gods. This is the event that archaeological excavations have found in the thick silt layers of ancient Sumerian cities.
+This event is memorialized in the flood myths of Mesopotamia, which describe a localized but culturally devastating deluge around 2900 BCE. This wasn't a global event, but a targeted regime change. The Igigi effectively "flooded" the heartland of the recovering civilization, wiping out the existing power structure and installing themselves as the new gods. This is the event that archaeological excavations have found in the thick silt layers of ancient Sumerian cities.
 
-A few Titans survived both the catastrophe and the subsequent conquest. As their civilization crumbled, these survivors were overwhelmed by humanity's growing numbers and increasing violence under the new Anunnaki regime. They retreated to remote locations, hiding among the stone circle sites they had built as consciousness technologies. Moving westward over generations and interbreeding with human populations, their bloodlines became diluted but never entirely disappeared.
+A few Anunnaki survived both the catastrophe and the subsequent conquest. As their civilization crumbled, these survivors were overwhelmed by humanity's growing numbers and increasing violence under the new Igigi regime. They retreated to remote locations, hiding among the stone circle sites they had built as consciousness technologies. Moving westward over generations and interbreeding with human populations, their bloodlines became diluted but never entirely disappeared.
 
 ## The Survivor as a Living Library
 

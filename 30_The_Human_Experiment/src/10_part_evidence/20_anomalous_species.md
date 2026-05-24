@@ -12,7 +12,7 @@ This scientific discovery provides a stunning new lens through which to view our
 
 Within this functional mythology, the *Homo heidelbergensis* lineage was the chosen vessel for intervention. It was this population that experienced the severe bottleneck between 800,000 and 900,000 years ago, a near-extinction event that reduced their breeding numbers to just over a thousand individuals. This was no random climate catastrophe. It was a deliberately managed event, creating the perfect crucible for genetic engineering.
 
-The older generation of beings—what mythology remembers as the Titans—isolated this small, vulnerable group. Into this malleable gene pool, they introduced their preparatory modifications—not a full transformation, but the essential "receiver" code that would make later activation possible. This was the installation of the genetic lock system.
+The older generation of beings—what mythology remembers as the Anunnaki—isolated this small, vulnerable group. Into this malleable gene pool, they introduced their preparatory modifications—not a full transformation, but the essential "receiver" code that would make later activation possible. This was the installation of the genetic lock system.
 
 For hundreds of thousands of years, this modified lineage developed in parallel with its more populous cousins, the *Homo erectus*. Then, around 300,000 years ago, the next phase of the experiment began. The two populations were guided to merge, blending the robust, earth-adapted genetics of *erectus* with the divinely-encoded potential of the modified *heidelbergensis* line. This was not just interbreeding; it was a planned integration, designed to create a species that was both grounded in the terrestrial world and capable of reaching for the stars. The activation key would come much later, but the foundation of modern humanity was now set.
 
@@ -50,15 +50,15 @@ One of the most compelling pieces of evidence for humanity's hybrid nature lies 
 
 **The Adam Lineage**: According to biblical records, Adam lived 930 years, Seth lived 912 years, Enosh lived 905 years, and this pattern of near-millennial lifespans continued for ten generations. Modern science dismisses these as mythological exaggerations, but within this framework, they represent accurate records of hybrid longevity.
 
-**Hybrid Vigor and Decline**: The extraordinary lifespans of the early post-modification generations reflect the robust hybrid genetics created by Titan intervention. However, these lifespans show a clear pattern of decline over generations—from Adam's 930 years to Noah's 950 years (a brief resurgence) to Abraham's 175 years—suggesting the gradual dilution of the Titan genetic modifications.
+**Hybrid Vigor and Decline**: The extraordinary lifespans of the early post-modification generations reflect the robust hybrid genetics created by Anunnaki intervention. However, these lifespans show a clear pattern of decline over generations—from Adam's 930 years to Noah's 950 years (a brief resurgence) to Abraham's 175 years—suggesting the gradual dilution of the Anunnaki genetic modifications.
 
 **The Activation Event (70,000 years ago)**: The biblical flood narratives actually preserve memories of multiple catastrophic events. The primary activation occurred 70,000 years ago when a cosmic trigger activated the dormant genetic sequences installed during the Genesis Bottleneck. This transformed the prepared lineages into modern humans with enhanced consciousness.
 
-**The Younger Dryas Catastrophe (12,900 years ago)**: A second major catastrophe marked the violent transition from Titan to Anunnaki control, preserved in flood myths as the cosmic war between generations of gods.
+**The Younger Dryas Catastrophe (12,900 years ago)**: A second major catastrophe marked the violent transition from Anunnaki to Igigi control, preserved in flood myths as the cosmic war between generations of gods.
 
 **The Bronze Age Collapse (4,200 years ago)**: The biblical deluge specifically refers to this later climate catastrophe that triggered widespread civilizational collapse and necessitated new control systems.
 
-**Modern Lifespan Limitation**: Our current 70-80 year lifespans represent the final dilution of the original hybrid genetics. We retain enough Titan modifications to be conscious and technological, but we've lost the longevity and many of the consciousness capabilities of our hybrid ancestors.
+**Modern Lifespan Limitation**: Our current 70-80 year lifespans represent the final dilution of the original hybrid genetics. We retain enough Anunnaki modifications to be conscious and technological, but we've lost the longevity and many of the consciousness capabilities of our hybrid ancestors.
 
 *The old man lay on his deathbed, surrounded by his descendants. He could feel the life force ebbing from his body, the connection to the earth growing faint. He had lived many lives, seen the world change in ways that defied comprehension. And now, as he prepared to depart, he felt a deep sadness. Not for himself, but for the future. He could no longer protect them, no longer guide them. The knowledge was fading, the magic was dying. He hoped, in his heart, that they would remember. That they would not let the fire go out.*
 
@@ -68,7 +68,7 @@ The relationship between consciousness technologies and our cosmic origins becom
 
 **Time-Dilated Contact**: Many users of consciousness technologies report contact with entities that seem to exist in different temporal frameworks—beings for whom minutes of our time represent years or decades of their experience. Within this mythology, these could be our original creators, experiencing time dilation effects from near-light-speed travel or other temporal technologies.
 
-**Genetic Activation**: Psychedelic experiences often involve the sensation of "remembering" information that was never learned, accessing genetic memories, or connecting with ancestral knowledge. This could represent the temporary activation of dormant Titan genetic sequences that carry information from our creators.
+**Genetic Activation**: Psychedelic experiences often involve the sensation of "remembering" information that was never learned, accessing genetic memories, or connecting with ancestral knowledge. This could represent the temporary activation of dormant Anunnaki genetic sequences that carry information from our creators.
 
 **Consciousness Expansion**: The expansion of awareness that occurs during psychedelic experiences might represent a temporary return to the consciousness capabilities that our hybrid ancestors possessed—a glimpse of what we were designed to become before the genetic dilution occurred.
 
@@ -78,25 +78,25 @@ Finally, this worship demanded tribute: the mandate of sacrifice. This deep-seat
 
 ## The Great Catastrophe
 
-The experiment was a success. For tens of thousands of years, the Titans managed their creation directly, establishing the *Adamu* as overseers and instilling in humanity the core directives that would shape our future. They built a global civilization, created consciousness technologies, and prepared humanity for its cosmic destiny.
+The experiment was a success. For tens of thousands of years, the Anunnaki managed their creation directly, establishing the *Adamu* as overseers and instilling in humanity the core directives that would shape our future. They built a global civilization, created consciousness technologies, and prepared humanity for its cosmic destiny.
 
 But this era of careful cultivation was brought to a violent end during the cataclysmic event now known as the Younger Dryas impact, approximately 12,800 years ago.
 
-Some of the Titans survived this catastrophe. As their civilization crumbled, these survivors were overwhelmed by humanity's growing numbers and increasing violence. They retreated to remote locations, hiding among the stone circle sites they had built as consciousness technologies. Moving westward over generations, interbreeding with human populations, their bloodlines became diluted but never entirely disappeared.
+Some of the Anunnaki survived this catastrophe. As their civilization crumbled, these survivors were overwhelmed by humanity's growing numbers and increasing violence. They retreated to remote locations, hiding among the stone circle sites they had built as consciousness technologies. Moving westward over generations, interbreeding with human populations, their bloodlines became diluted but never entirely disappeared.
 
 ## The Two Hybrid Lines
 
-The interbreeding between Titans and humans created two distinct hybrid lineages, each with different characteristics and destinies:
+The interbreeding between the gods and humans created two distinct hybrid lineages, each with different characteristics and destinies:
 
-**The Nephilim** - Born from unions between male Titans and human women, these hybrids inherited the patriarchal structures of their divine fathers. The biblical account speaks of "sons of God" taking "daughters of men," creating giants and mighty warriors. Within this framework, the Nephilim represented the attempt to maintain Titan dominance through male lineage, but their genetic instability and violent tendencies made them ultimately unsustainable.
+**The Nephilim** - Born from unions between male Igigi and human women, these hybrids inherited the patriarchal structures of their divine fathers. The biblical account speaks of "sons of God" taking "daughters of men," creating giants and mighty warriors. Within this framework, the Nephilim represented the attempt to maintain Igigi dominance through male lineage, but their genetic instability and violent tendencies made them ultimately unsustainable.
 
-**The Albians** - Within this mythological framework, these beings were born from unions between Titan goddesses and human men, developing along entirely different lines. The goddess mothers, being more adaptable and nurturing, created stable hybrid communities organized around matrifocal principles. Unlike the aggressive Nephilim, the Albians developed sophisticated knowledge systems, consciousness technologies, and sustainable relationships with the natural world.
+**The Albians** - Within this mythological framework, these beings were born from unions between Igigi goddesses and human men, developing along entirely different lines. The goddess mothers, being more adaptable and nurturing, created stable hybrid communities organized around matrifocal principles. Unlike the aggressive Nephilim, the Albians developed sophisticated knowledge systems, consciousness technologies, and sustainable relationships with the natural world.
 
 ## The Albian Civilization
 
-The Albians established a remarkable civilization that persisted for thousands of years after the fall of the Titans. Their society was organized around several key principles:
+The Albians established a remarkable civilization that persisted for thousands of years after the fall of the Anunnaki. Their society was organized around several key principles:
 
-**Matrifocal Structure**: Leadership and knowledge transmission flowed through the female line, as the goddess heritage was considered more stable and wise than the volatile male Titan genetics.
+**Matrifocal Structure**: Leadership and knowledge transmission flowed through the female line, as the goddess heritage was considered more stable and wise than the volatile male Igigi genetics.
 
 **Consciousness Technologies**: They maintained and developed the stone circle networks as sophisticated tools for consciousness expansion, communication, and energy manipulation. These technologies operated primarily in non-physical dimensions—what shamans and ayahuasca practitioners recognize as the rich reality beyond the material plane. The stone circles were interfaces, not the technology itself, which existed in consciousness dimensions that leave no archaeological trace. But their prophetic abilities, enhanced by these consciousness technologies, ultimately became their downfall.
 

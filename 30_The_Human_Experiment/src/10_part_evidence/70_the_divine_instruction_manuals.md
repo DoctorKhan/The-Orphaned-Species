@@ -10,9 +10,9 @@ The third category of evidence we must examine is perhaps the most subtle and pr
 
 This framework proposes that ancient myths were a deliberate information preservation strategy. By transforming technical knowledge into divine instruction, our ancestors created a cultural immune system that protected essential information—on engineering, medicine, law, and astronomy—from the degradation that affects purely secular knowledge. The mythological wrapper was a data storage technology.
 
-## The Anunnaki as a Project Management Team
+## The Igigi as a Project Management Team
 
-The Sumerian pantheon is a perfect case study. The roles of their primary deities, the Anunnaki, read less like a celestial court and more like a faculty of university professors or a corporate management team, each with a specific domain of applied knowledge:
+The Sumerian pantheon is a perfect case study. The roles of their primary deities, the Igigi, read less like a celestial court and more like a faculty of university professors or a corporate management team, each with a specific domain of applied knowledge:
 
 *   **Enki (Hydraulic Engineering & Urban Planning):** Texts describe Enki not just decreeing that canals should exist, but detailing their proper depth, the optimal spacing of water gates, and the seasonal timing for flood management. These are not divine decrees; they are engineering specifications.
 *   **Ninmah (Medicine & Public Health):** In the creation myth *Enki and Ninmah*, the two gods experiment with creating humans. When early attempts produce beings with physical limitations, Enki doesn't discard them. He carefully categorizes each variation and assigns them suitable social roles. This is not a crude explanation for human diversity; it is an encoded protocol for public health and social integration.

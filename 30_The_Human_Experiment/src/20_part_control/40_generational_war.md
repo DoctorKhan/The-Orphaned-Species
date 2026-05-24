@@ -86,7 +86,7 @@ These two hybrid populations appear to have been in conflict for thousands of ye
 
 ## The Bronze Age Conflict
 
-For thousands of years, a cold war simmered on Earth between these two factions—the Titan-loyalist Adamu and the Albian bloodlines. Around 2000 BC, the Anunnaki decided to end it. They armed their chosen human followers, the Sintashta people of the Eurasian steppe, with two revolutionary technologies: the spoked wheel and the domesticated horse. They combined them to create the chariot, the ancient world's first instrument of mass conquest.
+For thousands of years, a cold war simmered on Earth between these two factions—the Anunnaki-loyalist Adamu and the Albian bloodlines. Around 2000 BC, the Igigi decided to end it. They armed their chosen human followers, the Sintashta people of the Eurasian steppe, with two revolutionary technologies: the spoked wheel and the domesticated horse. They combined them to create the chariot, the ancient world's first instrument of mass conquest.
 
 ### The Sintashta Expansion
 
@@ -106,9 +106,9 @@ Stonehenge was not their first temple; it was their last redoubt.
 
 ### Cultural Transformation
 
-This Bronze Age conflict is the engine of our modern world. The Sintashta conquests are the source of the vast Indo-European language family, the common ancestor of everything from English to Hindi. They carried with them a new religion, a faith tailored for warriors, but it was a corrupted version of the Titans' original programming.
+This Bronze Age conflict is the engine of our modern world. The Sintashta conquests are the source of the vast Indo-European language family, the common ancestor of everything from English to Hindi. They carried with them a new religion, a faith tailored for warriors, but it was a corrupted version of the Anunnaki's original programming.
 
-It retained fragmented concepts—the World Tree, the dualistic struggle, the memory of a golden age—but they were repurposed to serve the agenda of the conquering Anunnaki. The consciousness technologies became ritual forms without substance, the ecological wisdom became nature worship without understanding, and the cosmic perspective became mythology without practical application.
+It retained fragmented concepts—the World Tree, the dualistic struggle, the memory of a golden age—but they were repurposed to serve the agenda of the conquering Igigi. The consciousness technologies became ritual forms without substance, the ecological wisdom became nature worship without understanding, and the cosmic perspective became mythology without practical application.
 
 ### The Hidden Bloodlines
 
@@ -124,21 +124,21 @@ The persecution patterns reveal the systematic nature of this elimination:
 - Destruction of sacred sites and natural gathering places associated with ancient practices
 - Forced conversion or execution of those who maintained non-Christian spiritual practices
 
-## The Anunnaki as Divine Consultants
+## The Igigi as Divine Consultants
 
-The fundamental difference between the Titans and the Anunnaki can be understood through a modern lens: the Titans were Gardeners, while the Anunnaki were Consultants.
+The fundamental difference between the Anunnaki and the Igigi can be understood through a modern lens: the Anunnaki were Gardeners, while the Igigi were Consultants.
 
-The Titans, as the original architects, were engaged in a multi-million-year R&D project. Their work was slow, patient, and deeply integrated with the planet's natural systems. They were cultivating a new form of consciousness from the ground up.
+The Anunnaki, as the original architects, were engaged in a multi-million-year R&D project. Their work was slow, patient, and deeply integrated with the planet's natural systems. They were cultivating a new form of consciousness from the ground up.
 
-The Anunnaki, arriving after the catastrophic "hostile takeover" of the Younger Dryas, had a completely different objective. They were not there to nurture an experiment; they were brought in for a turnaround project. They found a planet in chaos and a species with high potential but no structure. They acted precisely like a team of divine management consultants.
+The Igigi, arriving after the catastrophic "hostile takeover" of the Younger Dryas, had a completely different objective. They were not there to nurture an experiment; they were brought in for a turnaround project. They found a planet in chaos and a species with high potential but no structure. They acted precisely like a team of divine management consultants.
 
 ### The Post-Catastrophe Contract
 
-The Anunnaki's work began after the system had collapsed. Their primary goal was not creation, but stabilization and restructuring. They needed to impose order quickly and efficiently on a traumatized planet and a confused species. This is why Sumerian civilization appears in the archaeological record "fully formed" with no preceding evolutionary stages.
+The Igigi's work began after the system had collapsed. Their primary goal was not creation, but stabilization and restructuring. They needed to impose order quickly and efficiently on a traumatized planet and a confused species. This is why Sumerian civilization appears in the archaeological record "fully formed" with no preceding evolutionary stages.
 
 ### Technology Transfer as Deliverables
 
-Consultants don't teach their clients how to think; they provide "deliverables"—blueprints, software, and operating manuals. This is exactly what the Anunnaki did. They delivered a "civilization starter-pack" as a finished product:
+Consultants don't teach their clients how to think; they provide "deliverables"—blueprints, software, and operating manuals. This is exactly what the Igigi did. They delivered a "civilization starter-pack" as a finished product:
 
 - **Agriculture**: A new resource management system
 - **Writing (Cuneiform)**: A data-tracking and accounting tool that appears standardized from its first appearance
@@ -150,20 +150,20 @@ The Sumerian myths that describe knowledge being "delivered complete and perfect
 
 ### Working Through Local Management
 
-The Anunnaki didn't manage every human directly. They installed a local management team—the first kings and priests—and gave them the authority and tools to implement the new systems. The "divine right to rule" was, in essence, the letter of authorization from the divine consulting firm.
+The Igigi didn't manage every human directly. They installed a local management team—the first kings and priests—and gave them the authority and tools to implement the new systems. The "divine right to rule" was, in essence, the letter of authorization from the divine consulting firm.
 
 ### The End of Contract and Withdrawal
 
-Like any consulting engagement, the Anunnaki's direct intervention had a defined end date. Once the new systems were implemented and local management was trained, the consultants left. Their project was complete. This explains the "withdrawal of the gods" described in ancient texts—not abandonment, but contract completion.
+Like any consulting engagement, the Igigi's direct intervention had a defined end date. Once the new systems were implemented and local management was trained, the consultants left. Their project was complete. This explains the "withdrawal of the gods" described in ancient texts—not abandonment, but contract completion.
 
 ## The Modern Inheritance
 
 Today, we live with the consequences of this ancient conflict. We are a civilization still trying to run itself using the operating manuals left behind by consultants who departed thousands of years ago. We diligently follow the rituals (corporate policies) and obey the ancient rules (legal codes) without any memory of the consultants themselves or the original context for their instructions.
 
-Much of modern religion and law is humanity's attempt to interpret this ancient "consultant's report," arguing over the meaning of clauses in a contract whose authors can no longer be reached for clarification. The Anunnaki programming dominates our civilization—hierarchical structures, technological development without wisdom, exploitation of natural resources, and consciousness suppression through binary thinking and institutional control.
+Much of modern religion and law is humanity's attempt to interpret this ancient "consultant's report," arguing over the meaning of clauses in a contract whose authors can no longer be reached for clarification. The Igigi programming dominates our civilization—hierarchical structures, technological development without wisdom, exploitation of natural resources, and consciousness suppression through binary thinking and institutional control.
 
 But the Albian inheritance persists in recessive form. The growing interest in consciousness expansion, psychedelic research, ecological wisdom, and alternative healing represents the reemergence of suppressed consciousness technologies. The internet has created new networks that bypass traditional gatekeepers, allowing the scattered descendants of the Albians to reconnect and share their inherited knowledge.
 
 The generational war is not over. It has simply moved into a new phase, where the battle is fought not with chariots and swords, but with information, consciousness, and the choice between continuing the path of technological domination or reclaiming the wisdom of consciousness evolution.
 
-The question facing humanity now is whether we can integrate the best of both inheritances—the analytical capabilities developed under Anunnaki influence with the consciousness technologies preserved by the Albian bloodlines—or whether we will continue the ancient conflict until one approach destroys the other and, ultimately, ourselves.
+The question facing humanity now is whether we can integrate the best of both inheritances—the analytical capabilities developed under Igigi influence with the consciousness technologies preserved by the Albian bloodlines—or whether we will continue the ancient conflict until one approach destroys the other and, ultimately, ourselves.

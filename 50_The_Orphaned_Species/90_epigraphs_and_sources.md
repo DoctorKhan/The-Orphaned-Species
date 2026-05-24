@@ -72,11 +72,29 @@ Two findings that converge on the same moment the canon calls the **Genesis Bott
 
 **The finding (paraphrase — confirm before quoting):** Genomic modeling indicates the ancestral human population crashed to roughly **1,280 breeding individuals** and stayed there for about 117,000 years, from roughly **930,000 to 813,000 years ago** — losing an estimated ~98.7% of the breeding population. This is an astonishingly precise match for the canon's Genesis Bottleneck (Phase II: "approximately 1,000–1,280 individuals," ~800k–900k ya).
 
-**Why it matters to this book:** This is the hard floor under **Chapter 6.i (Three Beginnings — Seven Pairs)** and the strongest single real-science anchor in the whole book. The myth says the Titans surgically reduced the lineage to a refined gene pool of fourteen across seven pairs; the genome says the real population really did collapse to ~1,280 at almost exactly the stated date. Pair this quote with the fusion (3A) and you have the genetic Garden of Eden: a tiny founding population, made karyotypically distinct, ~0.9 mya.
+**Why it matters to this book:** This is the hard floor under **Chapter 6.i (Three Beginnings — Seven Pairs)** and the strongest single real-science anchor in the whole book. The myth says the Anunnaki surgically reduced the lineage to a refined gene pool of fourteen across seven pairs; the genome says the real population really did collapse to ~1,280 at almost exactly the stated date. Pair this quote with the fusion (3A) and you have the genetic Garden of Eden: a tiny founding population, made karyotypically distinct, ~0.9 mya.
 
 > **[VERBATIM TODO]** — paste the exact line from Hu et al. (the abstract's figures: ~1,280 individuals, ~930–813 kya, the percentage lost).
 
 **Suggested placement:** Epigraph(s) opening **Chapter 6.i**. The fusion line and the bottleneck line could be stacked as a two-part epigraph — the seam, then the small number — directly above the vision of fourteen people standing in a circle.
+
+---
+
+## 4. The Silurian Hypothesis — could a prior civilization be detected at all?
+
+**Paper:** Schmidt, G. A., & Frank, A. (2019). "The Silurian hypothesis: would it be possible to detect an industrial civilization in the geological record?" *International Journal of Astrobiology*, 18(2), 142–150. doi:10.1017/S1473550418000095.
+
+**The finding (paraphrase — confirm before quoting):** Two NASA/astrophysics researchers ask, as a formal thought experiment, whether an industrial civilization that predated humans by millions of years would leave any detectable trace in the geological record. Their answer is sobering: direct fossil evidence of technology is vanishingly unlikely to survive deep time (the fraction of Earth's surface that fossilizes anything is tiny), so we would have to infer a lost civilization indirectly — from chemical and isotopic anomalies (carbon, nitrogen, plastics, synthetic isotopes, sudden warming events) rather than from artifacts. The unsettling implication: a whole prior industrial epoch could be effectively invisible to us.
+
+**Why it matters to this book:** This is the load-bearing science under the book's entire premise — that an earlier intelligence could have come and gone and left us *orphaned*, with the record scrubbed nearly clean. The myth says the makers erased themselves and us along with them; the paper says that even if they existed, we would struggle to prove it. It legitimizes the central anxiety: absence of evidence is exactly what the hypothesis predicts. Pairs naturally with the "Great Reset" / erasure threads and with any chapter that turns on the missing record.
+
+**Verbatim (from the paper's conclusion — confirm exact wording against the PDF before press):**
+
+> "When faced with the vast unknown, any specific phenomenon may be exceedingly boring or fantastic beyond our wildest dreams. The truth is probably in between."
+
+> **[VERBATIM TODO]** — verify the line word-for-word against Schmidt & Frank (2019), §Conclusions, and confirm punctuation/spelling ("fantastic," not "fatastic").
+
+**Suggested placement:** Epigraph opening the book, a Part divider on the erasure, or the head of any "Great Reset" chapter — wherever the reader first confronts that the proof may be gone for good.
 
 ---
 

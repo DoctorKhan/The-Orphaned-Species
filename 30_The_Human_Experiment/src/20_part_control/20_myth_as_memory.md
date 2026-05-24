@@ -46,7 +46,7 @@ The stories of gods walking among men, of epic battles in the heavens, of worldw
 
 Like the Inuit stories that shape children's consciousness without needing to be literally true, these myths function as distributed technical libraries—encoded knowledge designed to survive civilizational collapse.
 
-Consider the Sumerian concept of the ME—the divine decrees or cosmic principles handed down by the gods. The texts describe these ME as being "recovered," "restored to order," and "rebuilt from memory." This is the language of data recovery, not divine revelation. The ME were the fragmented source code of the Titan world—technical manuals for agriculture, law, astronomy, and social order, repackaged as divine gifts to ensure their preservation by a less advanced human population.
+Consider the Sumerian concept of the ME—the divine decrees or cosmic principles handed down by the gods. The texts describe these ME as being "recovered," "restored to order," and "rebuilt from memory." This is the language of data recovery, not divine revelation. The ME were the fragmented source code of the Anunnaki world—technical manuals for agriculture, law, astronomy, and social order, repackaged as divine gifts to ensure their preservation by a less advanced human population.
 
 These myths provide functional frameworks for understanding:
 - The tension between different approaches to consciousness and civilization

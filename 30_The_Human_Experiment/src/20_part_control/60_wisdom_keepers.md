@@ -99,7 +99,7 @@ Similar accounts appear worldwide:
 - **Polynesian** legends speak of the "Menehune"—small, technologically advanced people who built sophisticated structures before disappearing
 - **European** folklore preserves memories of the "Fair Folk" or "Tuatha Dé Danann"—beings with advanced capabilities who retreated to hidden realms as human populations expanded
 
-These global patterns suggest a worldwide network of consciousness technology keepers who gradually withdrew or went into hiding as the Anunnaki-influenced populations expanded during the Bronze Age conquests.
+These global patterns suggest a worldwide network of consciousness technology keepers who gradually withdrew or went into hiding as the Igigi-influenced populations expanded during the Bronze Age conquests.
 
 ## The Witch Persecutions: Systematic Knowledge Elimination
 

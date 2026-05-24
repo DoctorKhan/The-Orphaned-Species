@@ -6,7 +6,7 @@
 
 The Agricultural Revolution, beginning around 10,000 years ago, represents one of the most catastrophic transitions in human history—not the triumph of civilization, but the systematic degradation of human health, equality, and freedom that created the desperate underclass necessary to drive all subsequent "progress."
 
-Within this framework, agriculture was not a human discovery but an Anunnaki intervention designed to create exactly what it produced—a large population of desperate, manageable workers who would build and maintain the infrastructure necessary for the new control systems.
+Within this framework, agriculture was not a human discovery but an Igigi intervention designed to create exactly what it produced—a large population of desperate, manageable workers who would build and maintain the infrastructure necessary for the new control systems.
 
 ## The Health Catastrophe
 
@@ -110,11 +110,11 @@ The agricultural system was designed to create exactly what it produced—a larg
 
 ### The Reconstruction Project: Sumerian Civilization
 
-The victory of the Anunnaki during the Younger Dryas cataclysm was not just a change in leadership; it was a civilizational reset. The new masters initiated what can only be described as a reconstruction project. This is why Sumer, the civilization they founded, appears in the archaeological record "fully formed."
+The victory of the Igigi during the Younger Dryas cataclysm was not just a change in leadership; it was a civilizational reset. The new masters initiated what can only be described as a reconstruction project. This is why Sumer, the civilization they founded, appears in the archaeological record "fully formed."
 
 There are no "archaeological trails of learning" for their most profound innovations. Their cuneiform script, when first seen, is not a set of primitive scratches but a standardized system for complex accounting. Their base-60 mathematics, capable of sophisticated calculations, appears without precedent. Their ziggurats follow master plans that suggest preserved blueprints, not architectural evolution.
 
-This was not invention; it was restoration. The Anunnaki were not creating a new civilization but rebuilding a shattered one from the fragmented knowledge of their defeated predecessors, the Titans. They were working from an incomplete set of blueprints, which explains both the sudden sophistication and the strange gaps in their knowledge.
+This was not invention; it was restoration. The Igigi were not creating a new civilization but rebuilding a shattered one from the fragmented knowledge of their defeated predecessors, the Anunnaki. They were working from an incomplete set of blueprints, which explains both the sudden sophistication and the strange gaps in their knowledge.
 
 ### Urban Development
 
