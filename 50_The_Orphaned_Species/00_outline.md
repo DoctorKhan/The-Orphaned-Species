@@ -8,6 +8,8 @@ A boy in a singing village watches his world end under chariot-wheels and flees 
 
 This is the mythic-narrative companion to *The Human Experiment*: the same timeline, dramatized through one consciousness watching it unfold.
 
+*The thesis under all of it: the tragedy isn't that humanity failed — it's that we have been **managed** so long, and so well, that we mistake the management for our nature. The book's job is to make that management visible by watching it get built.*
+
 ## The frame mechanic
 
 The cave bends vision, not body. The boy never leaves it. Each vision-chapter is either:
@@ -186,6 +188,7 @@ A child in a city today — could be any city — dreams of a cave. They wake. T
 - **Part III**: each chapter its own voice — these are different lives. Resist making them feel like the same narrator in costume.
 - **Part IV**: quiet. The book has earned silence by now.
 - **Sensory zoning (all parts)**: train the reader to feel Igigi infrastructure without ever labeling it. **High Places** — ziggurat, Göbekli once the priests control the pillars, the stone circle under conquest, Olympus — read **cold, cut, industrial**: geometry imposed on the world. The **Edin / the Wild** reads **warm, organic, chaotic**: life uncut. Aedan's own heat belongs to the warm pole; the chariot-wheel and the welded sky-father belong to the cold one. Let temperature do the editorializing so the prose never has to say "Igigi" out loud.
+- **Domestic scale (all parts)**: show the cage at the scale of a kitchen, a sister, a sick child — never as "the Grid" or "the Bottleneck." The 17:1 clamp is **Aru's sister taken into the priestess caste** while he carves for the people who took her; the purge is **Anthea's neighbor selling her out** for a chariot-king's favor. Statistics don't wound; faces do. (The *Outlander* method — massive history carried on small, domestic stakes. Pairs with the Lesson rhymes in `25_rhyme_sheet_lessons.md`.)
 
 ## Epigraphs & real-science anchors
 
