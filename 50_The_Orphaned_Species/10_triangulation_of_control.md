@@ -14,8 +14,29 @@ Here is why this triad works as the spine of a masterpiece-tier epic.
 
 A "closed-loop" system that makes the protagonist's journey feel earned and necessary:
 
+```mermaid
+flowchart TD
+    A["Genetic Layer<br/><i>Anunnaki programming</i><br/>receivers, locks, the 17:1 bottleneck"]
+    M["Machiavellian Layer<br/><i>the Social Game</i><br/>statecraft, social atomization"]
+    L["The Living Way<br/><i>the overwrite</i><br/>change the operator's frequency"]
+
+    A -->|"makes us predictable<br/>(the exploitable feature)"| M
+    M -->|"pulls the installed levers<br/>to manufacture submission"| A
+    L -.->|"decouples biology<br/>from the State's frequency"| A
+    L ==>|"levers stop working"| M
+
+    classDef vuln fill:#3a2b2b,stroke:#a55,color:#fff;
+    classDef game fill:#2b2f3a,stroke:#58a,color:#fff;
+    classDef way fill:#2b3a2e,stroke:#5a7,color:#fff;
+    class A vuln;
+    class M game;
+    class L way;
+```
+
+*The Genetic and Machiavellian layers form the closed loop (solid arrows): the programming makes us predictable, and the statecraft exploits that predictability to reinforce the programming. The Living Way (dashed/heavy arrows) is the only break in the circuit — it doesn't fight the Machiavellians directly; it changes the frequency so the genetic levers no longer transmit.*
+
 - **The Genetic Layer (the vulnerability).** The *Anunnaki* didn't just build a body; they installed "receivers" and "locks." They pruned our cognitive complexity to make us *dependable* (the 17:1 bottleneck, the provisioning instinct). This is the "feature" in our design that the Machiavellians exploit.
-- **The Machiavellian Layer (the Social Game).** This is the **operational software**. Machiavellianism isn't "evil" — it is the art of predicting and exploiting human behavior. Because we are "programmed" (Anunnaki-locked), we are *predictable*. Machiavellian leaders (from Igigi administrators to modern CEOs) don't need magic to rule us; they just need to know how to pull the biological levers that are already installed.
+- **The Machiavellian Layer (the Social Game).** This is the **operational software**. Machiavellianism isn't "evil" — it is the art of predicting and exploiting human behavior. Because we are "programmed" (Anunnaki-locked), we are *predictable*. Machiavellian leaders (from Igigi administrators to modern CEOs) don't need magic to rule us; they just need to know how to pull the biological levers that are already installed. Its social technology is **social atomization**: break kinship, place, gender trust, elder transmission, romance, and repair into isolated units, then sell managed substitutes for belonging. See `40_concepts.md`.
 - **The Living Way (the overwrite).** This is the **"hacker" patch.** It bypasses the Machiavellian traps by changing the *frequency* of the operator. If you stop "singing" the song of the State (the Father-God, the Social Game), the levers the Machiavellians are pulling effectively stop working — because you have decoupled your biology from their frequency.
 
 ## 2. Why this makes it "masterpiece" material

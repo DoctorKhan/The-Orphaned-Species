@@ -12,17 +12,27 @@ This is the mythic-narrative companion to *The Human Experiment*: the same timel
 
 ## The frame mechanic
 
-The cave bends vision, not body. The boy never leaves it. Each vision-chapter is either:
+The cave bends vision, not body. The boy never leaves it. What it shows him divides into two registers, **interleaved for rhythm rather than partitioned by Part**:
 
-- **Dream-vision** for the deep past (Parts II): he watches as if dreaming the world's dream.
-- **Bloodline descent** for the historical eras (Part III): the cave shows him descendants of his own line living and dying across the long erasure. He inhabits each one for a chapter, then surfaces.
+- **Stories shown** — myths and parables the cave plays in front of him. He watches; he is not in the scenes. Voice drifts toward scripture or oral epic. The deep-past visions of Part II (the Seven Pairs, the Activation, the War in Heaven, **Adapa**) live here, but a story can also surface between bloodline chapters to compress a phase the book is not dramatizing.
+- **Real events lived** — historical lives the cave gives him to inhabit, body and all. He wakes inside them, lives the relevant interval, surfaces back to the cave with the practice now sitting in his own hands. **The Seven** of Part III are the load-bearing instance of this register — bloodline ancestors, one per chapter, the gifts they recover passing through the line into Aedan's own body.
 
 He returns to himself in Part IV — older, in the same cave, with a choice to make.
 
 **The cave as nervous system (cohesion device).** The Seven must not read as an anthology, so the *frame* carries continuity the chapters don't have to. Two rules:
 
-- *Between every vision the boy surfaces physically altered.* He never just wakes — he keeps something. After Ila (ch 12) he surfaces able to feel the temperature gradients in the cave walls; after Tem (ch 13) he catches the edge of other minds; and so on. Each fragment is sitting in his body before the next vision begins.
+- *Between every **inhabitation** the boy surfaces physically altered.* He never just wakes — he keeps something the practice put in his body. After Ila (ch 12) he surfaces able to feel the temperature gradients in the cave walls; after Tem (ch 13) he catches the edge of other minds; and so on. Each bodily fragment is sitting in him before the next vision begins. **Stories shown leave a different kind of fragment** — a recognition, a question (Adapa's *would I have eaten the bread?*), a small new way of seeing. Both layers compound.
 - *The warmth migrates from the walls into him.* Through chs 10–14 the cave grows warmer and more resonant the deeper he goes — it seems to be waking up. But in chs 15–16 the heat starts coming from **Aedan, not the stone**. The cave is not a console he learns to log into; it is something he *becomes*. This is what makes the granary stone warm under him in ch 17 — he carries the cave out in his own body and no longer needs the hole in the ground. The independence ending (he walks out, doesn't look back) is the payoff of this migration, not a contradiction of it.
+
+## The modern child — three beats across the book
+
+The modern child of Ch 18 isn't a single closing note; they recur as a quiet chord through the book, mirroring Aedan's arc on the far end of the line. Three beats in total. The child stays unspecified throughout — no name, no city, no sex pinned down — so they remain the cave's forward reach into *any* reader, not a character to track.
+
+- **Beat 1 — Opening seed (~1 page, before or interleaved with Ch 1).** The child wakes from a dream they can't name. They're humming something their mother doesn't recognize. They don't think about it again. The reader catches the resonance with the opening manifesto; the child doesn't.
+- **Beat 2 — Waking signal (~½ page, placed against Ch 9 Adapa).** A small, waking experience — palms hot when a friend is sick, a stranger on the bus reads as *wrong*. Half-understood. Placed against the book's heart-chapter so the reader feels the same recognition Aedan is having, refracted forward into now.
+- **Beat 3 — Ch 18 as outlined.** Full chapter weight. Dreams the cave, hums the song, knows without knowing. The choice is on the table.
+
+The progression mirrors Aedan's heat-migration: song / stillness → heat-sensing / other minds → the cave itself, dreamed. The child wakes on the far end of the line as Aedan wakes on the near end. Keep beats 1 and 2 short enough that they read as the cave's *forward reach*, not a parallel storyline.
 
 ## The wheel — the book's central image
 
@@ -33,6 +43,8 @@ The village already wears the swastika. To them it is the sun-wheel: cycle, song
 *One concept among several the book carries — not the master key, but a recurring chord. It earns weight by recurring, not by being announced.*
 
 One reading of the series title: **The Orphaned Species** as developmental diagnosis. The gods — Anunnaki, then Igigi — withdrew (canon: the Abandonment, Phase VII). They left behind a species that was never finished being raised. And an abandoned child does one of two things: it grows up, or it invents a parent.
+
+The social version of the same wound is **social atomization** (tracked in `40_concepts.md`): break the clan, shrink the family, separate the generations, overload the couple, turn men and women into rival markets, and replace direct repair with institutional mediation. The orphan does not only invent a father because the gods withdrew; it invents one because its human bonds have been cut, thinned, overloaded, or routed upward.
 
 Humanity, mostly, invented a parent. The pattern to dramatize — quietly, era after era, never as a thesis statement: **religion, left to run, tends to collapse into the same shape — a father-god above, and below him children who must submit.** It does not matter much what the religion began as. The village in Part I starts with *song* — Ki, Enki, the names that survived without their meanings, a cycle and a turning year, no one above anyone. By the time the Sintashta arrive, religion has hardened elsewhere into a sky-father with a hammer, conquest as worship, the wheel turned into an axle. (The submission is welded into their very speech: the chariot-people's word for *god* literally means *Sky-Father* — \*Dyḗus ph₂tḗr → Zeus, Jupiter — so where the village kept earth-names and song, the newcomers carry a name for the divine that already means *the bright thing above you*. See timeline Phase IX, "the proto-tongue.") The same drift happens in every chapter of Part III: the priests at Göbekli who will not say why; the hybrid lords claiming breeding rights; the patriarchal cults that kill Anthea for singing; the covenant that arrives later still. Every time, the same regression — *find a father, kneel.*
 
@@ -60,8 +72,8 @@ The thread, beat by beat: the **oral truth lives wordlessly in the village Song*
 - **The Singer** — village priestess, killed in the raid. Her song is what the cave answers. She is a late, half-remembering descendant of the Fifth (see below).
 - **Adapa** — the boy sees himself in him. The book's tragic mirror. The lock; the Seven are keys to what he was denied.
 - **Tiamat** — appears once, in Part II. Not as monster — as mother: the apex and origin of the dragon line (below), organic creation given a face.
-- **The Dragons** — the "ancient creatures" the cave is named for. *Not* mythic fire-breathers but an ancient, extraordinarily long-lived **reptilian lineage in evolutionary stasis** — Tiamat's organic line, the road humanity *didn't* take: comparable capacities reached by pure biology instead of installed locks. Their "fire" is **biological thermal control** (electromagnetic/chemical discharge); their "telepathy" is **infrasonic/ultrasonic resonance** felt as a voice in the skull. They are the living precedent of the Singer's song and Aedan's heat. *(Full canon: timeline Phase I, "the dragons — Tiamat's organic line.")*
-- **The Modern Child** — Part IV. Doesn't know whose dream they are completing.
+- **The Dragons** — the "ancient creatures" the cave is named for. *Not* mythic fire-breathers but an ancient, extraordinarily long-lived **reptilian lineage in evolutionary stasis** — Tiamat's organic line, the road humanity *didn't* take: comparable capacities reached by pure biology instead of installed locks. Their "fire" is **biological thermal control** (electromagnetic/chemical discharge); their "telepathy" is **infrasonic/ultrasonic resonance** felt as a voice in the skull. They are the living precedent of the Singer's song and Aedan's heat. *(Full canon: timeline Phase 0, "the dragons — the K-Pg survivors.")*
+- **The Modern Child** — recurs three times across the book (opening seed; waking signal against Adapa; full beat of Ch 18). Unspecified throughout — no name, no city, no sex pinned down. Doesn't know whose dream they are completing. *See "The modern child — three beats across the book."*
 
 ### The Seven
 
@@ -93,11 +105,13 @@ The progression is inward-to-outward: breath → body → other bodies → minds
 
 Plus the frame children: **the Boy** himself (~14) in Parts I/IV, and **the Modern Child** in chapter 18. The book's through-line is a chain of children, each handed something they don't yet understand.
 
+This child-chain is also the book's quiet answer to social atomization: the control system wins by separating children from elders and cutting memory from household life; the lineage survives because each fragment finds a child before the institution can fully intercept it.
+
 ---
 
 ## Part I — The Last Village
 
-Present-tense. Tight, sensory, four short chapters. The world ends fast.
+Present-tense. Tight, sensory, five short chapters. The world ends fast.
 
 **1. Dreamtime** *(draft exists in `01_Dreamtime.md`)*
 The grandfather's warning. The haunted cave. The opening manifesto: *we cannot build what we refuse to imagine.*
@@ -118,7 +132,7 @@ The boy enters. The statues are not statues — they are the **dragons**, and wh
 
 ## Part II — The Vision (Deep Past)
 
-Dream-vision. The boy watches; he is not in the scenes. Voice should drift toward myth-cadence here — less novelistic, more like scripture or oral epic.
+Stories shown. The boy watches; he is not in the scenes. Voice should drift toward myth-cadence — less novelistic, more like scripture or oral epic. These are myths the cave plays in front of him, **Adapa** (Ch 9) included — told as parable, not lived as life. (The inhabitations begin in Part III; see "The frame mechanic" for how the two registers interleave.)
 
 **6. Three Beginnings** *(triptych — sequenced visions, ~0.9 mya / 400 kya / 70 kya)*
 - **i. Seven Pairs.** The Anunnaki walk the bottleneck. Fourteen people standing in a circle. The creation done in three moves the boy watches without understanding: the crowd thinned to fourteen (*who*); two threads in each body taken and tied into one — the seam, the wall around the garden (*how*); and into that seam, the locks (*the cargo*). This is the genetic Garden of Eden: the fence is written into the bone-count itself, and what is spliced at the seam is what the sky will one day wake (→ 6.iii).
@@ -132,9 +146,9 @@ The supervision era. Anunnaki walking among humans. Enki teaching, Tiamat singin
 The generational conflict. The Igigi rising against the Anunnaki. The boy sees the Younger Dryas comet from above, then from below. Marduk killing Tiamat — and Tiamat is the dragon at the cave's mouth. He understands which side his cave is on.
 
 **9. Adapa** *(longest chapter — the book's heart)*
-The boy inhabits Adapa: priest of Eridu, fishing the Persian Gulf, the South Wind capsizing the boat, the words of power, the broken wing. The summoning to Anu. Enki's warning. The bread and water refused. The realization, too late, that the warning *was* the trap. Adapa returns to earth mortal. The boy returns to the cave with the same dust on his tongue.
+The cave shows the boy the whole tragedy in full close-up — priest of **Eridu** *(in the master canon, the first city in the orphan-builds-walls line: the place a cursed wanderer answered exile with permanence; see master timeline, "Cain, Eridu, and the first city")*, fishing the Persian Gulf, the South Wind capsizing the boat, the words of power, the broken wing. The summoning to Anu. Enki's warning. The bread and water refused. The realization, too late, that the warning *was* the trap. Adapa returns to earth mortal — and the boy, watching beside the reader, understands: this is the cage seen working from the inside, a man choosing his own lock not under torture but reasonably, gratefully, on good advice. He is not Adapa. He sees what Adapa is, which is worse. *(Story shown, not inhabited — Adapa is a parable the cave plays for him, the universal "before" picture against which the Seven of Part III will each be a refusal. **The second floor:** Adapa serves in the city the orphan first built to defy the wandering curse, and the priests of that city now teach the people to kneel — the defiant settlement has become the submission-engine.)*
 
-*This is where the boy first weeps. He has just seen himself.*
+*This is where the boy first weeps. He has just seen himself in the pattern — every orphan who will ever kneel, including the one who might still be him.*
 
 ---
 
@@ -221,6 +235,35 @@ Every chapter has a hook in the existing timeline (`30_The_Human_Experiment/src/
 | 16 | Roman conquest of Albion | Timeline Phase X | Plant medicine, non-human mind (Consciousness Technologies — plant medicines) |
 | 17–18 | Present | Timeline Phase X (current tension) | All seven, latent in one body |
 
+## Timeline coverage — what the book carries vs. what stays in the bible
+
+The master timeline (`00_MASTER_TIMELINE.md`) is the cosmology bible. A book that tried to dramatize every phase would be cosmology pretending to be story. The novel carries a fraction directly; the rest stays in the bible and bleeds through as grounding. *The Silmarillion* sits behind *The Lord of the Rings*; the same move applies here — every scene that lands feels heavier because the unwritten phases press on it from underneath.
+
+**Five mechanisms for reference without scene:**
+
+1. **Surfacing fragments.** Between visions Aedan catches flashes — a half-line, a smell, a city by a river he never enters. Phase VII (the Abandonment) lands in one sentence between Ch 13 and Ch 14: *"He saw, only for a moment, a temple where no one any longer brought the grain, and the doors standing open in a wind that had no god in it."*
+2. **Detail inside the Seven's chapters.** Ila's Ch 12 carries the agricultural catastrophe in bent backs and rotting teeth; Anthea's Ch 14 carries Pömmelte/Gomolava in one offstage village "taken to the wood-circle"; Cuno's Ch 15 carries the proto-tongue in what the chariot-people *can't* pronounce.
+3. **Dragon-cadence.** The dragons' voiceless voice compresses whole phases into myth-summary — a paragraph of scripture-register that does what a chapter would.
+4. **Epigraphs.** Phases without scenes get the real-science anchor at a chapter head (see `90_epigraphs_and_sources.md`), doing the timeline's work without prose freight.
+5. **Sensory zoning.** The Zoning Model (Wild / Nurseries / High Places) is encoded in the voice notes' "cold/cut High Places vs warm/organic Wild" rule. Never named, always felt.
+
+**By phase:**
+
+| Phase | Treatment |
+|---|---|
+| I — Primordial seeding | Atmosphere (dragons in the cave; one dragon-cadence paragraph) |
+| II — Seven Pairs | Scene (Ch 6.i) — load-bearing |
+| III — Activation | Scene (Ch 6.iii) |
+| IV — Supervision | Scene (Ch 7) + Spear Moment (Ch 6.ii) |
+| V — War / Younger Dryas | Scene (Ch 8) |
+| VI — Igigi control | Four scenes (Chs 10–13) — heart of Part III |
+| VII — Abandonment | Surfacing fragment + thread (no scene; carried by orphan-and-father) |
+| VIII — Covenant control | Thread only (cults of Ch 14; sky-father of the frame raid) |
+| IX — Heroes / Albian retreat | Two scenes (Chs 14–15) |
+| X — Roman / present | Scenes (Chs 16–18) + the modern child's three beats |
+
+What's left in the bible — the Three Edens, Qingu/Lullu/Sumerian taxonomy, the Iberian Y-turnover, the Bronze Age selection spike, the laryngeals as control-language — is *grounding*. It makes the prose feel like it's standing on something. The reader never has to know it's there.
+
 ## Working title
 
 Folder is `50_Ancient_Creatures` but creatures are not structural — the title should change. Candidates to react to:
@@ -240,6 +283,8 @@ Series fit: previous titles are *Manual Override / The Social Game / The Human E
 2. **Locked: keep the Göbekli doubling — it's the era's visual anchor, not redundancy.** Ch 10 is the *installation* (the Lullu workforce organized, grain stored, the resonance tuned — the machine switched on). Ch 11 is the *erasure* — the burial as a planetary "factory reset," ordered because the workforce had begun to *listen* to the stones too closely. Two chapters, one place, opposite acts.
 3. **Locked: keep the shared chapter shape (encounter → instruction → first success → glimpse of the structure → loss/forward); carry continuity in the *frame*, not by varying the beats.** The anthology risk is answered by the cave-as-nervous-system device (see "The frame mechanic"): the boy surfaces altered between every vision, and the warmth migrates from cave to body. The repeated internal beat is *fine* because the through-line *between* chapters does the cohesion work. So: vary the surface hard (voice, era, age), keep the underlying beat steady.
 4. The Singer in Part I is a descendant of the Fifth (Anthea). Plant early or let it land at ch 14? — **Rec: plant the *sound* early, withhold the *meaning*.** Seed the specific chord/throat-sounds in ch 2 so they're physically distinctive but unexplained; let the recognition fire only when Aedan reaches ch 14 (and rewards a reread of ch 2). Plant the clue, not the connection.
-5. Modern child (ch 18) named or unspecified? — **Rec: keep unspecified.** A named or cross-linked character turns a mythic open ending into franchise bookkeeping; the whole force of the beat is *could be any city, could be you.* Leave it open.
+5. Modern child (ch 18) named or unspecified, and one beat or several? — **Locked: unspecified, and recurring as *three* beats across the book.** See "The modern child — three beats across the book." A named or cross-linked character turns a mythic open ending into franchise bookkeeping; recurrence at three points (opening seed; waking signal placed against Ch 9 Adapa; full chapter at 18) keeps the *this is now* pressure alive without breaking the spell of the deep-past frame. The child stays unspecified throughout — no name, no city, no sex pinned down — so they remain the cave's forward reach into *any* reader.
 6. Length? ~18 chapters. — **Rec: target ~90–100k; set a ceiling so Part III doesn't sprawl into seven novellas.** Part I chapters short (1.5–2.5k), Adapa (ch 9) the longest single chapter, the Seven ~5–7k each (whole lives, but disciplined). That lands the book without it becoming a story collection wearing a frame.
 7. On-page vs. posthumous/dreamt teachers? Currently mixed (1 water-woman, 2 inherits silently, 3 born with it, 4 taught in dreams by his dead mother, 5 dreams the chord, 6/7 in traditions). — **Rec: keep the mix; make it intentional.** The drift from *alive, on-page* teachers (early) to *inherited / dreamt / traditional* teachers (late) is the arc, not an inconsistency: instruction starts external and ends internal, mirroring Aedan outgrowing the cave. Frame it as deliberate.
+8. Stories vs. inhabitations — registers, not Parts. **Locked: the cave shows Aedan two registers — *stories shown* (myths he watches, including Adapa) and *real events lived* (inhabitations, the Seven). They interleave for rhythm rather than partition by Part.** Adapa is reclassified as a story shown, not a first inhabitation; the Part II "watch only" rule and the Part III "inhabit" rule become voice/register tendencies, not walls. The Seven remain load-bearing inhabitations — the body-level transmission the heat thread depends on. Stories leave a *recognition / question*; inhabitations leave a *practice in the body*.
+9. How much of the master timeline does the book dramatize? **Locked: scenes for the load-bearing beats; reference for the rest.** See "Timeline coverage — what the book carries vs. what stays in the bible." The bible (`00_MASTER_TIMELINE.md`) carries the full cosmology; the book carries a fraction directly and lets the rest bleed through as surfacing fragments, in-chapter detail, dragon-cadence summaries, epigraphs, and sensory zoning. The bible carrying more than the book is a strength — every scene that lands feels heavier because the unwritten phases press on it from underneath.

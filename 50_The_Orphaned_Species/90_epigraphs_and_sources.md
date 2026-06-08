@@ -29,7 +29,7 @@ A living collection of real scientific papers, excerpts, and quotes that anchor 
 
 **Paper (please confirm which one you meant — seeding the two most likely):**
 
-- **Crick, F. H. C., & Orgel, L. E. (1973). "Directed Panspermia." *Icarus*, 19(3), 341–346.** The foundational paper proposing that life on Earth may have been *deliberately* seeded by an advanced civilization. This is the closest real-science analogue to the canon's Tiamat/Abzu "directed panspermia" (Timeline Phase I) — not random cosmic accident but intentional interplanetary agriculture.
+- **Crick, F. H. C., & Orgel, L. E. (1973). "Directed Panspermia." *Icarus*, 19(3), 341–346.** The foundational paper proposing that life on Earth may have been *deliberately* seeded by an advanced civilization. This is the closest real-science analogue to the canon's Tiamat/Abzu "directed panspermia" (Timeline Phase 0) — not random cosmic accident but intentional interplanetary agriculture.
 - **Steele, E. J., Al-Mufti, S., Augustyn, K. A., et al. (2018). "Cause of Cambrian Explosion — Terrestrial or Cosmic?" *Progress in Biophysics and Molecular Biology*, 136, 3–23.** Argues for cometary delivery of biological material — viruses and genetic information arriving via comets/meteorites and driving evolutionary leaps. Maps onto the canon's "comets carrying purpose-built gigaviruses" and the dormant genetic "receivers."
 
 **Why it matters to this book:** Anchors **Part II, Chapter 6.i (Three Beginnings / Seven Pairs)** and the deep-time premise that the human lineage was seeded and prepared rather than purely evolved. The science here is genuinely contested/fringe in the directed-and-cometary forms — which is *useful*: the book is a "functional mythology," and a real, citable, debated paper is exactly the kind of floor we want under a dream-vision.
@@ -95,6 +95,93 @@ Two findings that converge on the same moment the canon calls the **Genesis Bott
 > **[VERBATIM TODO]** — verify the line word-for-word against Schmidt & Frank (2019), §Conclusions, and confirm punctuation/spelling ("fantastic," not "fatastic").
 
 **Suggested placement:** Epigraph opening the book, a Part divider on the erasure, or the head of any "Great Reset" chapter — wherever the reader first confronts that the proof may be gone for good.
+
+---
+
+## 5. Reich / ancient DNA updates — mixture, selection, steppe source, and disease
+
+These are not necessarily epigraphs. They are guardrail sources for the science notes in `../00_MASTER_TIMELINE.md` and the concept notes in `40_concepts.md`.
+
+**A. Ancient DNA against purity / stable homelands**
+
+**Source:** Harvard Gazette. (2025, Sept. 18). "Pure bloodlines? Ancestral homelands? DNA science says no."  
+URL: https://news.harvard.edu/gazette/story/2025/09/claims-of-pure-bloodlines-ancestral-homelands-dna-science-says-no/
+
+**Use:** supports the rule that Qingu / Basal Eurasian should be written as a sealed or low-admixture reserve, not as a real-world "pure race." Also supports the Iberian turnover note: ~40% steppe ancestry with near-total local Y-chromosome replacement.
+
+**Suggested placement:** source note for Phase II Qingu wording; Phase IX Iberian anomaly.
+
+**B. Post-farming directional selection**
+
+**Source:** Broad Institute / Harvard Medical School. (2026, Apr. 15). "Massive ancient-DNA study reveals natural selection has accelerated in recent human evolution."  
+URL: https://www.broadinstitute.org/news/massive-ancient-dna-study-reveals-natural-selection-has-accelerated-recent-human-evolution
+
+**Paper:** Akbari, A., et al. (2026). "Ancient DNA reveals pervasive directional selection across West Eurasia." *Nature*.  
+PDF: https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf
+
+**Use:** supports the "cage rewrites the hardware" idea, but with discipline: strongest signals should be immune, metabolic, inflammatory, disease-risk, and other health-linked traits. Cognition stays cave gloss / contested.
+
+**Suggested placement:** Phase IX science anchor; possibly an epigraph for a chapter about the body adapting to the cage.
+
+**C. Immune-system tradeoffs after 10,000 years of selection**
+
+**Paper:** Maravall-López, J., Truong, B., Kerner, G., Zhao, Y., Hou, K., Perry, A., Akbari, A., Reich, D., Price, A. L., et al. (2026). "Ancient DNA reveals that natural selection has upregulated the immune system over the last 10,000 years."  
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42039401/
+
+**Use:** strengthens the agriculture / pathogen-density layer: selected alleles can improve host defense while raising immune-mediated disease risk. Good for the "survive the cage, pay the cost" motif.
+
+**Suggested placement:** Phase VI / IX science note; possible epigraph near agriculture or city-density material.
+
+**D. Indo-European source behind Yamnaya**
+
+**Source:** Harvard Gazette. (2025, Feb. 5). "Landmark studies track source of Indo-European languages spoken by 40% of world."  
+URL: https://news.harvard.edu/gazette/story/2025/02/landmark-studies-track-source-of-indo-european-languages-spoken-by-40-of-world/
+
+**Paper:** Lazaridis, I., Patterson, N., Anthony, D., Vyazov, L., et al. (2025). "The genetic origin of the Indo-Europeans." *Nature*.  
+PDF: https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2025_LazaridisPattersonAnthonyVyazov_IndoEuropean_Nature_0.pdf
+
+**Use:** updates the steppe language layer. Yamnaya / Sintashta remain the carrier wave for Book 5's wheel, chariot, sky-father, and male-line replacement motifs, but the deeper source horizon is Caucasus-Lower Volga.
+
+**Suggested placement:** Phase IX proto-tongue / Sintashta notes.
+
+**E. Reich interview — Neanderthal absorption, cultural innovation, plague**
+
+**Source:** Dwarkesh Podcast. (2024, Aug. 29). "David Reich — How one small tribe conquered the world 70,000 years ago."  
+URL: https://www.dwarkesh.com/p/david-reich
+
+**Use:** not the latest source, but still useful interview material: Reich discusses deeper Neanderthal / modern human gene flow, the likelihood that the ~70k expansion involved cultural innovation rather than a known genetic switch, and ancient plague as a destabilizing force before / during steppe expansions.
+
+**Suggested placement:** Phase II "absorbed beta" note; Phase III Activation honesty note; Phase VII disease pressure.
+
+---
+
+## 6. Sumerian King List — kingship, Flood, and the Genesis mirror
+
+**Primary text:** Electronic Text Corpus of Sumerian Literature. "The Sumerian king list" (`t.2.1.1`).  
+URL: https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.2.1.1
+
+**Museum anchor:** Ashmolean Museum. "Sumerian King List" / Weld-Blundell Prism, AN1923.444.  
+URL: https://www.ashmolean.org/sumerian-king-list
+
+**Readable translation:** Livius. "The Sumerian King List."  
+URL: https://www.livius.org/sources/content/anet/266-the-sumerian-king-list/
+
+**The finding / text-shape:** The King List begins with kingship descending from heaven, lists five antediluvian cities and eight pre-Flood kings, gives enormous reign lengths, then breaks at the Flood. After the Flood, kingship descends again and is located at Kish. The ETCSL translation gives eight pre-Flood kings ruling **241,200 years** total; post-Flood reigns begin huge and then gradually move toward more plausible historical scale.
+
+**Why it matters to this book:** This is the control-side mirror of Genesis 5-11. Genesis preserves a father-to-son covenant line from Adam to Noah; the Sumerian King List preserves a city-to-city kingship line from heaven to Eridu, then through the Flood to Kish. The shared grammar is pre-Flood longevity -> Flood rupture -> post-Flood restart. The difference is the point: Sumer remembers the **office**; Genesis remembers the **bloodline**.
+
+**Use with caution:** Do not use the antediluvian numbers as solar chronology. They are mythic / ideological time, sexagesimal cosmic scale, dynastic compression, or non-human administrative time. They should not move the book's Flood out of the **~2200-2000 BCE** working range.
+
+**Useful parallels:**
+
+- **En-men-dur-ana / Enoch:** seventh figure, heavenly access, sacred knowledge. Strong rhyme, not proof of identity.
+- **Ziusudra / Utnapishtim / Atrahasis / Noah:** Flood-survivor function. This is the cleanest cross-tradition correspondence.
+- **Kish after the Flood:** kingship re-descends after the reset, useful for Phase VII -> VIII control continuity.
+- **Cain / Eridu:** useful as theological inversion rather than hard identification. Sumer remembers the first city as kingship descending from heaven; Genesis remembers city-building as a fugitive's answer to exile. Treat Enoch / Enki / Irad / Eridu name links as speculative only.
+
+**Possible epigraph lines:** The opening formula and the Flood transition are strong, but verify exact wording against the chosen translation before final use.
+
+**Suggested placement:** Eden III / Flood concept note; Phase VII Abandonment; possible epigraph before a chapter that shifts from Adam/Noah memory into Mesopotamian kingship.
 
 ---
 

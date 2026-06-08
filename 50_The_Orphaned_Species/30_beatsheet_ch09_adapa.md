@@ -8,11 +8,13 @@
 
 Three jobs, all at once:
 
-1. **Close Part II by breaking the fourth wall of distance.** Parts II's deep-past visions are *watch-only* — the boy sees, he is not in the scene. Ch9 is the **first inhabitation**: Aedan wakes up *as* Adapa. The shift from watching to *being* is the chapter's engine. He can't keep his distance from this one, which is why it's the chapter where he first weeps.
+1. **Make the cage visible from the inside without ever taking the boy in.** Earlier deep-past visions (chs 6–8) showed the system being *built*. Ch 9 is where the boy watches it *work* — a man choosing his own lock, not under torture but reasonably, gratefully, on good advice. The cave does **not** put Aedan inside Adapa: this is a **story shown**, not an inhabitation. The engine is that he watches with the reader's own eyes and cannot keep his distance from what he sees, which is why this is the chapter where he first weeps. *(See `00_outline.md`, "The frame mechanic" — stories shown vs. real events lived. The Seven are the inhabited register; Adapa is the universal parable against which the Seven will each be a refusal.)*
 2. **Show the cage working from the inside.** The reader has watched the system get built (6–8). Now they feel a man *choose his own lock* — not under torture, but reasonably, gratefully, following good advice. This is the most frightening thing in the book because no one forces him.
 3. **Define the absence the whole rest of the book fills.** Adapa is "the lock; the Seven are keys to what he was denied." He has We-ila's gift and submits anyway. Every one of the Seven is a human who, in his place, would have *refused*. Ch9 is the control case — the "before" picture.
 
 **The collision in one line:** *Adapa has the resonance (We-ila's intelligence is awake in him) but not the Lesson (he believes his worth is forfeit) — so when offered the bread of life he reads it as the bread of death, and locks himself.*
+
+**The second floor — Eridu = the orphan's first city.** Adapa serves in **Eridu**, which the master canon identifies as the first city in the orphan-builds-walls line — the place a cursed wanderer (Cain, in the Genesis register) answered exile with permanence and named territory (see master timeline, "Cain, Eridu, and the first city," and "The Sumerian King List — the control-side mirror"). The defiant settlement has become the submission-engine: the walls the orphan raised against the curse now house the priests who teach the orphan's descendants to kneel. This doesn't need to be on-page as exposition; one line of detail in Beat 1 — a wall older than the temple, a foundation-stone the priests no longer touch, the city's pre-Anunnaki origin — plants it for the reader who knows. The reader who doesn't loses nothing; the reader who does feels the Triangulation tighten another notch.
 
 ---
 
@@ -35,7 +37,7 @@ This resolves everything: Enki stays the loving Anunnaki parent (canon-safe), th
 
 | # | Beat | What happens | Layer in play | Craft note |
 |---|------|--------------|---------------|------------|
-| 1 | **Waking as Adapa** | Aedan surfaces inside Adapa's body, not above it — priest of Eridu, the temple of Ea, the daily rite that holds heaven and earth together. He feels Adapa's *competence*: this is the wisest of mortals, and it feels good. | We-ila (the gift, fully awake) | Open warm and high-functioning. The fall hurts more if Adapa is genuinely magnificent first. Let the reader *like* being him. |
+| 1 | **The cave shows Adapa** | The cave opens on Adapa — priest of **Eridu** (the orphan's first city; see "second floor" note above), the temple of Ea, the daily rite that holds heaven and earth together. Aedan watches a magnificent stranger: the wisest of mortals, fully competent, fully alive. We see him from the outside and like him on sight. | We-ila (the gift, fully awake) | Open warm and high-functioning. The fall hurts more if Adapa is genuinely magnificent first. Let the reader *like* him before the lock closes. **Plant Eridu's pre-Anunnaki identity quietly in detail** — a wall older than the temple, a foundation-stone the priests no longer touch — so the reader who knows feels the city's defiant origin under the priestly rite. |
 | 2 | **The provisioning rite** | He fishes the Persian Gulf to feed the temple — labor performed *for the gods*, unquestioned. | Genetic (the provisioning instinct, burned in) | Plant it quietly: even the wisest mortal serves the feeding-instinct without seeing it. Pays off in Phase VII (tribute to absent gods). |
 | 3 | **The broken wing** | The South Wind capsizes him. In fury he speaks the **words of power** Enki taught him and snaps the wind's wing — the storm stills. | We-ila used *reactively* | This is the only time Adapa wields the resonance — and he uses it to *break*, in anger, not to free himself. The gift is awake but un-tuned. (See resonance note below.) |
 | 4 | **The summons** | The act reaches Anu. A mortal has wounded a force of nature. He is called up. | Machiavellian (the system noticing a malfunction) | Frame the summons as the grid detecting an anomaly — not wrath, *management*. Cold, procedural, "we need to look at this one." |
@@ -45,7 +47,7 @@ This resolves everything: Enki stays the loving Anunnaki parent (canon-safe), th
 | 8 | **The genuine offer** | Anu, impressed, offers the **real** bread and water of life — immortality, the lock picked, the gift completed. The offer is sincere. | We-ila (the door open) | The cruelty is that it's *not* a trick. The door to everything he was denied stands open. |
 | 9 | **The refusal** | Remembering Enki, *and believing himself unworthy of life*, Adapa refuses. He chooses the lock. Reasonably. Gratefully. | The lie wins | The most important sentence in the book to get right. He doesn't refuse in fear — he refuses in **misplaced wisdom and inherited shame.** It should look like virtue. |
 | 10 | **Too late** | He learns it was real. Humanity is mortal forever — sealed not by the gods' force but by the slave's own caution. | All three, resolved into tragedy | Don't editorialize. Let the silence do it. The gods don't gloat; they simply note the outcome and send him down. |
-| 11 | **The fall & the surfacing** | Adapa returns to earth mortal. Aedan surfaces into the cave **with the same dust on his tongue** — and weeps. | Frame | First weep of the book. He weeps because *he has just seen himself* — the orphan who might also kneel. The cave is a degree warmer when he wakes (the migration; see `00_outline.md`). |
+| 11 | **The fall & the boy's recognition** | Adapa returns to earth mortal. The cave releases the vision. Aedan sits in the dark and weeps. | Frame | First weep of the book. He weeps because *he has just seen what he might also become* — the orphan who, in the wrong worldview, would also kneel: reasonably, gratefully, on good advice. The cave is a degree warmer when the vision closes (the migration; see `00_outline.md`). |
 
 ---
 
@@ -62,18 +64,18 @@ This chapter is the Triangulation's clearest single demonstration (`10_triangula
 ## The resonance carrier this chapter seeds
 
 - **The words of power = the proto-chord.** Adapa's incantation that breaks the South Wind's wing is the same phenomenon as the village throat-sounds that "still *do* something" (ch2) and Anthea's chord (ch14): sound that acts on matter — We-ila's frequency. Plant it here as **the gift used to break, in fury** — so that when Anthea uses the same power to *heal and free* (ch14), and Aedan to *warm the stone* (ch17), the reader feels the carrier maturing from weapon to liberation. (Add to `20_resonance_points.md` as an early node of Carrier 2 if you keep this.)
-- **The dust on the tongue** is the somatic hand-off — the bodily residue that proves the inhabitation was real, the same device the frame uses to carry fragments between visions.
+- **The fragment is recognition, not bodily residue.** Because Adapa is a story shown (not an inhabitation), Aedan doesn't surface with a new practice in his body — he surfaces with a *question planted in his chest*: would I have eaten the bread? That is the form the carrier takes for stories: not a thing held in the hands, but a thing now impossible to un-see. The somatic hand-off device (the dust-on-tongue style cue) belongs to the Seven's chapters, where the boy *was* inside the life that taught the practice.
 
 ---
 
 ## Why this is the right "darkest beat"
 
-The book's villain is a *process*, not a person — and a process has no single scene where you can stab it. Adapa is the substitute: the one place you can make the reader *feel* the cage close, because they feel it close on a man they were just inhabiting, by his own hand, for good reasons. Everything after — the Seven, the refusals, the Lessons — is the answer to the question this chapter plants in the reader's chest: *would I have eaten the bread?*
+The book's villain is a *process*, not a person — and a process has no single scene where you can stab it. Adapa is the substitute: the one place you can make the reader *feel* the cage close, because they feel it close on a man they were just shown — watching beside the boy — by his own hand, for good reasons. Everything after — the Seven, the refusals, the Lessons — is the answer to the question this chapter plants in the reader's chest: *would I have eaten the bread?*
 
 ---
 
 ## Open choices for you
 
 1. **How much does Adapa glimpse the truth?** Option A: he dies never knowing the guilt-story was a lie (purest tragedy). Option B: in the falling-moment he *almost* sees it — a half-second where he feels his own worth and knows, too late, that he was never bad blood. B sets up the Seven harder but risks softening the despair. **Rec: B, but only a flicker** — the reader catches it, Adapa half-catches it, and it's gone. The flicker is what Aedan carries out.
-2. **Does Aedan retain anything from this inhabitation?** The Seven each leave a *practice*; Adapa is a non-Seven tragic mirror. **Rec: he leaves not a practice but a *wound* — the dust on the tongue, the first weep, the question.** That's the fragment. The practices start at ch10.
+2. **Does Aedan retain anything from this vision?** The Seven each leave a *practice* (the bodily fragment of an inhabited life); Adapa is a story shown, so the fragment takes a different form. **Rec: he leaves not a practice but the *question* — the first weep, the recognition that he himself, in the wrong worldview, could be the next Adapa.** That's the fragment a story leaves. The practices start at ch 10.
 3. **On-page Enki, or Enki as voice only?** **Rec: voice only** — a warning that arrives without a visible face keeps Enki from becoming a character we judge, and keeps the focus on how Adapa *hears* it. The trap is in the hearing.

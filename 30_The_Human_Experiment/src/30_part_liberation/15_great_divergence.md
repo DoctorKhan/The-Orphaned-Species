@@ -14,9 +14,9 @@ The biblical account of Eden contains a crucial detail often overlooked: there w
 
 The tragedy of the human experiment is that we were given access to the Tree of Knowledge but then "cast out" before we could integrate it with the Tree of Life. This created two divergent evolutionary paths, each carrying part of our original potential.
 
-## The Umannu Path: Children of the Tree of Knowledge
+## The Lullu Path: Children of the Tree of Knowledge
 
-The Umannu—the vast majority of modern humanity—represent those who fully integrated the Tree of Knowledge programming while being cut off from the Tree of Life. This path is characterized by:
+The Lullu—the vast majority of modern humanity—represent those who fully integrated the Tree of Knowledge programming while being cut off from the Tree of Life. This path is characterized by:
 
 ### Mechanistic Consciousness
 **Binary Thinking**: Reality reduced to either/or choices, making complex systems manageable through simple categories.
@@ -28,7 +28,7 @@ The Umannu—the vast majority of modern humanity—represent those who fully in
 **Quantitative Understanding**: The ability to measure, calculate, and predict based on mathematical models.
 
 ### The Technological Trajectory
-The Umannu path has produced humanity's remarkable technological achievements:
+The Lullu path has produced humanity's remarkable technological achievements:
 
 **Industrial Revolution**: The mechanization of production and the transformation of human society around technological systems.
 
@@ -51,7 +51,7 @@ But the Tree of Knowledge programming came with built-in limitations:
 
 ## The Apkallu Path: Guardians of the Tree of Life
 
-The Apkallu represent those who maintained some connection to the Tree of Life programming even after the great separation. These are the "seven sages" of Mesopotamian tradition, the wisdom keepers who preserved fragments of the original consciousness technologies.
+The Apkallu represent those who maintained some connection to the Tree of Life programming even after the great separation. These are the "seven sages" of Mesopotamian tradition, the wisdom keepers who preserved fragments of the original consciousness technologies. *(Their late, strictly-human heirs are the **Umannu** — the scholar-sages who tune the dormant resonance; so the Umannu belong to **this** path, not the Lullu's. See the Glossary.)*
 
 ### Consciousness-Based Abilities
 **Psychic Sensitivity**: Maintained ability to perceive subtle energies, communicate telepathically, and access non-local information.
@@ -76,7 +76,7 @@ The Apkallu path has preserved crucial knowledge throughout history:
 ### The Fading Connection
 But the Apkallu path has been gradually weakening:
 
-**Genetic Dilution**: The Tree of Life genetics have been diluted through interbreeding with the Umannu population.
+**Genetic Dilution**: The Tree of Life genetics have been diluted through interbreeding with the general Lullu population.
 
 **Cultural Suppression**: Systematic persecution of wisdom keepers, shamans, and consciousness practitioners.
 
@@ -89,7 +89,7 @@ But the Apkallu path has been gradually weakening:
 Throughout history, both paths have been aware of each other, though this awareness has often been suppressed or distorted:
 
 ### Ancient Recognition
-**Mesopotamian Texts**: Clear references to both Umannu (earthly humans) and Apkallu (divine advisors) working together in early civilizations.
+**Mesopotamian Texts**: Clear references to both the **Umannu** (the human scholar-sages) and the **Apkallu** (their divine, antediluvian forerunners) working together as royal advisors in early civilizations — the king-lists pair an *apkallu* with each pre-Flood king and an *ummânu* with each post-Flood king.
 
 **Egyptian Mysteries**: The integration of technological achievement (pyramid construction) with consciousness technologies (initiation practices).
 
@@ -114,13 +114,13 @@ Throughout history, both paths have been aware of each other, though this awaren
 We are now approaching a critical point where the two paths must either integrate or lead to species extinction:
 
 ### Technological Singularity
-The Umannu path is approaching its culmination in artificial intelligence that may surpass human cognitive capabilities, forcing a confrontation with the nature of consciousness itself.
+The Lullu path is approaching its culmination in artificial intelligence that may surpass human cognitive capabilities, forcing a confrontation with the nature of consciousness itself.
 
 ### Consciousness Renaissance
 The Apkallu path is experiencing a revival through psychedelic research, meditation science, and ecological awareness, offering tools for transcending mechanistic limitations.
 
 ### Integration Imperative
-The survival and evolution of humanity depends on integrating the analytical capabilities of the Umannu path with the consciousness technologies of the Apkallu path.
+The survival and evolution of humanity depends on integrating the analytical capabilities of the Lullu path with the consciousness technologies of the Apkallu path.
 
 ### Cosmic Reunion
 Within this framework, the ultimate purpose of both paths is to prepare humanity for reunion with our cosmic origins—but as integrated beings who have mastered both matter and consciousness, technology and spirituality, analysis and intuition.

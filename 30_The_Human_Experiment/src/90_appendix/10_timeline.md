@@ -4,6 +4,8 @@
 
 This timeline synthesizes the mythological framework presented throughout this book, organizing the key events and transitions that shaped human consciousness and civilization. Within this functional mythology, these represent the major phases of an ongoing experiment in consciousness modification and social control.
 
+> **Canon update (three-tier cosmology + taxonomy).** Parts of this appendix's prose predate the current canon and are still being reconciled to it. Where they differ, the current canon governs (see `00_MASTER_TIMELINE.md` and the Glossary): **(1)** the universe is **three-tiered** — *Tier 1* serpent architects (**Tiamat / Leviathan**), *Tier 2* engineered gods (**Anunnaki / Igigi**, who *mutiny* against the serpents' labor demand), *Tier 3* the imported human workforce; the Anunnaki are *not* the ultimate creators. **(2)** The **Adamu** are an *off-world import* that **arrived already fused** (the chromosome-2 fusion is the import signature, kept as real science); the Neanderthals/Denisovans are the *early split* from that import, not Earth natives. **(3)** Taxonomy reassigned to follow the cuneiform meanings: **Lullu** = the general activated species (all modern humans); **Umannu** = the late human scholar-sage class (heirs of the **Apkallu**, premier sage **Uanna**, who collapses the old *Adapa*); the Phase-VI agricultural population is the **Lullu Patch**. **(4)** Hybrids: **Nephilim** = sterile giant *wall*; **Nephilot** = fertile hidden *carriers*.
+
 ## Timeline Overview
 
 The following timeline traces the major phases of human development within this mythological framework, from initial genetic preparation through the current evolutionary choice point.
@@ -18,7 +20,7 @@ Throughout this timeline, you'll notice a pattern of cyclical "reset" events—c
 
 The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets, not any single event. Different cultures remember different resets in their flood myths and catastrophe stories.
 
-## Phase I: Primordial Seeding (Millions of Years Ago)
+## Phase 0: Primordial Seeding & Deep Time (Mesozoic → ~7 mya)
 
 *The Long Foundation: Setting the Stage for Consciousness*
 
@@ -30,13 +32,23 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 *Key Insight: This phase establishes the genetic foundation that would make all subsequent human development possible.*
 
-## Phase II: Genesis Bottleneck (800,000-900,000 Years Ago)
+## Phase I: The Primate Feral Drop (~7 mya)
+
+*Panspermia 2.0: the architects run the seeding a second time, now with primate base code.*
+
+**The Drop**: The architects release their baseline **48-chromosome** drone-stock into the wild and leave it unmanaged for millions of years. It splinters: some branches become the **chimpanzees and gorillas** (the abandoned, un-fused prototypes); one branch (*H. erectus / heidelbergensis*) ranges wider and becomes the stock the controllers later **harvest** at the Hardware Recall (Phase II). This is why the Chimpanzee–Human common ancestor sits ~6–8 mya at 48 chromosomes — the common ancestor *is* the import.
+
+**Upright by default**: The deep apes were already bipedal-capable (*Danuvius*, ~11.6 mya; *Sahelanthropus*, ~7 mya), so upright posture is the import's factory default and the knuckle-walking cousins are its feral degradation — not the baseline humanity rose from.
+
+*Key Insight: humanity's deep stock is feral import, not native Earth life; the un-fused cousins (chimps, gorillas) are deaf to the later control grid.*
+
+## Phase II: Genesis Bottleneck / The Hardware Recall (800,000-900,000 Years Ago)
 
 *The Great Refinement: Preparing the Chosen Lineage*
 
-**The Selection**: From the vast population of early hominids carrying the primordial receiver code, the Anunnaki identify and isolate the most promising genetic line. The near-extinction event reduces the population to approximately 1,000-1,280 individuals - not random catastrophe but surgical precision.
+**The Import**: The off-world **Adamu** — a domesticated, 46-chromosome drone-stock — are brought to Earth by the serpent architects to replace the mutinous gods in the mines. The ~1,000–1,280-individual "bottleneck" signature is not a population crashed *in situ* but the small size of the **imported founding cohort**. The 46-chromosome fused code is the import's *blueprint*; the *bodies* are gestated from local Earth biomass (the "clay") — star-code in an Earth-built chassis.
 
-**The Seven Pairs Protocol**: Into this refined gene pool, the Anunnaki implement a systematic genetic engineering program. Ancient Mesopotamian texts preserve the memory of seven pairs of Adamu being created—fourteen individuals representing different experimental approaches to human enhancement. Each pair tested specific combinations of divine genetics with various hominid lineages under different environmental conditions.
+**The Seven Pairs Protocol**: Ancient Mesopotamian texts preserve the memory of seven pairs of Adamu—fourteen individuals, the founding import cohort, planted across seven experimental sitings (the Hindu **fourteen Manus** preserve the same count). The chromosome-2 fusion and the dormant locks arrive *with* them, off-world, not engineered on Earth. *(The very name "Adamu," "creatures of the dirt," is the controllers' Big Lie — branding a star-born workforce as mere clay to erase its cosmic origin, the first consciousness lock.)*
 
 **The Modifications**: Each of the seven pairs received sophisticated genetic modifications:
 - Enhanced receiver sequences for future activation
@@ -47,7 +59,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 **The Lock System**: This represents the installation of complex genetic "locks" that would define human potential, waiting for future "keys" to activate dormant capabilities.
 
-**Geographic Distribution**: The seven pairs were distributed across different continents and ecological niches, creating parallel experiments in human development. Crucially, they were sited by *two strategies*. Some plots were **sealed nurseries**—genetic clean rooms cut from the wild, sited on islands, isolated peninsulas, and hidden valleys precisely because such terrain blocks the wild variables from contaminating the engineered line. The rest were left to the **open wild**—unsealed ranges, often the high cold country, where the stock roamed free and mixed with whatever it met. (The cousins of later memory, the Neanderthals and Denisovans, are the open-wild experiments: engineered, but never sealed, and free to interbreed with the dispersing lines—which is why they appear *inside* humanity's later genome rather than walled out of it.) Over hundreds of thousands of years, most experimental lineages failed due to environmental pressures, genetic instability, or dilution of modifications.
+**Geographic Distribution (the Great Divergence, ~800–400 kya)**: From the founding cohort the lineages were splintered across environments along a management-gradient — three branches, all 46-chromosome import-descendants: **sealed nurseries** (genetic clean rooms on islands, peninsulas, and hidden valleys → the cloistered **Qingu** reserve, the Dilmun / Persian-Gulf line); the **loosely-managed African reserve** (which acclimatizes over hundreds of thousands of years into anatomically modern *H. sapiens*, the baseline of the future **Lullu**); and the **feral open wild** (unsealed uplands → the Neanderthals and Denisovans, who go feral and adapt to cold and altitude). The cousins carry the fusion because they are an *early split from the import*, not Earth natives — which is why they appear *inside* humanity's later genome (Phase III is their **reunion**, not a native admixture). Most experimental lineages failed; the African reserve and the sealed Qingu held.
 
 **Temporal Advantage**: The Anunnaki's mastery of time - whether through near-light speed travel or other temporal technologies - allows them to execute plans across geological ages while experiencing minimal subjective time.
 
@@ -55,19 +67,21 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 ## Phase III: The Activation (70,000 Years Ago)
 
-**The Cosmic Trigger**: A pre-calculated celestial event - stellar alignment, directed energy pulse, or cosmic ray wave - washes over Earth. This is the key that the Genesis Bottleneck prepared humanity to receive.
+**The Reunion (the mechanism)**: The loosely-managed African reserve (anatomically modern *H. sapiens*) expands out of quarantine into Eurasia and re-merges with its long-lost feral cousins, the Neanderthals / Denisovans — all 46-chromosome Seven-Pairs descendants, fully cross-fertile. The feral, Earth-hardened **"wild code"** introduced into the baseline stock is the catalyst that trips the dormant receivers. *(The older "cosmic trigger / celestial pulse" — a stellar alignment or energy wave — is the cave's image for the suddenness; the mechanism is the reunion.)*
 
-**Genetic Activation**: For descendants of the bottleneck survivors carrying the highest concentration of receiver code, dormant sequences activate. Genes silent for nearly a million years switch on, triggering rapid evolutionary change.
+**Genetic Activation**: For the reunited stock carrying the import's receiver code, dormant sequences activate. Genes silent for nearly a million years switch on, triggering rapid evolutionary change.
 
 **HAR1 Evolution**: Human Accelerated Region 1 and other regulatory sequences undergo impossibly rapid evolution, rewiring the human brain and expanding consciousness capacity at rates that defy natural selection.
 
-**Birth of Homo Sapiens**: The emergence of modern humans with enhanced consciousness - not evolved but activated. The Umannu are born.
+**Birth of Homo Sapiens**: The emergence of modern humans with enhanced consciousness - not evolved but activated (and *admixed*: the docile imported Adamu crossbred with Earth's cousins — the wild-code interbreeding). The **Lullu** are born.
 
 **We-ila's Gift**: In the oldest telling (the *Atrahasis*), humanity is made from the blood of a slain god *"who had ṭēmu"* (intelligence) — **We-ila**, also **Geshtu-e** ("the Ear"/wisdom). This is the mythic memory of the Activation itself: the *mind* (the cognitive/telepathic spark) donated to the line, distinct from the *stock* (body) the Qingu reserve later contributes (Phase VI). The Igigi will eventually rebrand this same slain progenitor as the *traitor Qingu*, weaponizing the name to encode guilt; the Albian wisdom-keepers preserve the true reading — We-ila not as a sky-god but as the latent *frequency of intelligence* in the genome, the thing the Singers tune.
 
 ## Phase IV: Anunnaki Supervision Era (70,000-15,000 Years Ago)
 
 **Direct Management**: The older generation maintains physical presence on Earth, serving as the "living gods" of early human mythology. This is the golden age of direct divine guidance.
+
+**The Apkallu Overseers**: The antediluvian sages — the *Apkallu*, premier among them **Uanna** (the first sage of Eridu, the figure of the Adapa myth) — serve as the gods' overseers, carrying the blueprint up from the Abzu to civilize the newly-admixed workforce. Their late, strictly-human heirs are the *Umannu* wisdom-keepers.
 
 **Gradual Development**: Humans develop under benevolent supervision:
 - Mastery of fire and basic tools
@@ -101,7 +115,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 **The Deliberate Burial**: Göbekli Tepe's intentional burial around 8,000 BCE represents a deliberate act of preservation and concealment. This was not desecration; it was the systematic sealing of a time capsule and the erasure of a history. The Igigi, understanding the fragility of memory and the danger of the knowledge they now possessed, hid the evidence of their predecessors. They buried the Anunnaki's legacy, ensuring that future humanity would remember the Igigi as the original creators, not the conquerors.
 
-**Marduk's Victory**: The mythological battle between Marduk and Tiamat represents the final defeat of the primordial Anunnaki consciousness by the younger generation's systematic approach. Organic, evolutionary development is replaced by mechanical, controlled management.
+**Marduk's Victory (the Titanomachy)**: Tiamat is not an Anunnaki but the **Tier-1 serpent architect** herself. Marduk's slaying of Tiamat is therefore the *second* overthrow of this phase — the engineered Tier-2 gods rising against their own organic makers to seize Earth outright (Zeus overthrowing the Titans is the same memory). Organic, evolutionary creation is replaced by mechanical, controlled management. *(So Phase V holds two rebellions at once: the **Generational War** — younger Igigi vs elder Anunnaki — and the **Titanomachy** — the gods vs the Tier-1 serpents.)*
 
 ## Phase VI: Igigi Control Era (11,600-6,000 Years Ago)
 
@@ -131,16 +145,17 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - Religious systems channel this programming through worship of external authorities
 
 **Urban Civilization (~6,000 Years Ago)**: The development of cities, writing, and complex hierarchies represents the full implementation of Igigi control systems:
-- Creation of Umannu - modern humans optimized for civilization-scale management
+- The patched **Lullu** workforce - optimized for civilization-scale management (the Qingu reserve bred into the dispersed Lullu — the *Lullu Patch*; see *The Qingu Spike*)
 - Establishment of rigid hierarchical structures
 - Development of religious and political systems designed for population control
 - Complete separation of humans from natural rhythms and ecological wisdom
 
-**The Nephilim Problem**: Hybrid offspring of Igigi and human unions create unforeseen complications:
+**The Nephilim Problem**: Hybrid offspring of Igigi and *Lullu* unions create unforeseen complications:
 - Enhanced beings claim breeding rights over human populations
 - Power differentials create oppressive hierarchies
 - Human complaints reach the gods: "We were like grasshoppers in our own sight"
 - These complaints ultimately contribute to the decision to withdraw from direct management
+- **Two kinds, never to be confused**: the giant, *sterile* first-generation sons are the **Nephilim** — the **wall** that enforces the bottleneck; their fertile, down-bred (~25%) descendants, carried forward only through the female line, are the **Nephilot** — the hidden **carriers** of the resonance lock-keys (the future Elves/Albians), whom the controllers must *hunt* rather than simply wall out.
 
 **The Great Reproductive Bottleneck (~8,000-5,000 years ago)**: Genetic evidence reveals an extreme demographic crisis during this period:
 - Only 1 man successfully reproduces for every 17 women who bear children
@@ -266,7 +281,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 **Göbekli Tepe Construction** (11,600 years ago): First major Igigi construction project, memorial to defeated Anunnaki
 **Göbekli Tepe Burial** (10,000 years ago): Systematic erasure of Anunnaki-era evidence begins
 **Agricultural Revolution** (10,000 years ago): Igigi introduce settlement-based control system
-**The Qingu Spike** (~10,000-12,000 years ago): The sealed "ghost" reserve (the *Basal Eurasians*)—the Neanderthal-free lineage held in isolation—appears in the genetic record exactly as the Neolithic Revolution begins; the first farmers carry its signature, and the workforce bred from it becomes the **Lullu**
+**The Qingu Spike** (~10,000-12,000 years ago): The sealed "ghost" reserve (the *Basal Eurasians*)—the Neanderthal-free lineage held in isolation—appears in the genetic record exactly as the Neolithic Revolution begins; the first farmers carry its signature, and the reserve bred into the dispersed Lullu becomes the **Lullu Patch**
 **The 17:1 Ratio** (~8,000-5,000 years ago): Extreme reproductive bottleneck - 17 women reproduce for every 1 man
 **Urban Civilization** (6,000 years ago): Full implementation of systematic population management
 **The Abandonment** (6,000 years ago): Control systems continue operating without active management
