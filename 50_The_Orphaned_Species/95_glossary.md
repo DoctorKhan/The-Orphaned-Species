@@ -40,11 +40,11 @@
 
 **The Activation** — Phase III (~70 kya). The cave's mythic reading of the modern-human expansion. Kept as cave cosmology, not a proven genetic switch; the strongest real hook is vocal-tract / language capacity, not an "intelligence gene." *(See `40_concepts.md`, guardrail 3.)*
 
-**Adamu** — the first earth-born modified humans (one `m`, carrying the Adam / *adamah* / "earthling" resonance). The Hindu fourteen **Manus** parallel the seven pairs as a global memory of systematic engineering.
+**Adamu** — the **harvested, fused, dormant prototype** (one `m`, carrying the Adam / *adamah* / "earthling" resonance): feral Earth stock harvested and **fused on Earth at the Recall** (Phase II, 48→46), locked but **not yet activated** — *not* the modern species (that is the **Lullu**). The Hindu fourteen **Manus** parallel the seven pairs as a global memory of systematic engineering. *(Avoid the doubled-`m` spelling **Adammu**.)*
 
-**Umannu** — the successful, sealed line that becomes modern humanity, carrying the full modifications. The broader human field outside the covenant line (cf. the "Cain problem").
+**Umannu** — the late, **strictly-human scholar-sage class** (Akkadian *ummânu* = master scholar; the post-Flood human sages who succeed the antediluvian **Apkallu**). The wisdom-keepers and royal advisors who **tune** the dormant resonance — the **Albian Singers'** living memory. A *vocation*, not a developmental tier. *(Supersedes the earlier draft, where "Umannu" wrongly named modern humanity — that is the **Lullu**.)*
 
-**Lullu** — the Mesopotamian term for the **worker-human** function; the agricultural workforce of Eden II. Bred from the **Qingu** reserve stock.
+**Lullu** — the **activated, admixed general species**: all modern *H. sapiens* (Akkadian *lullû* = the primal worker-human). The docile **Adamu** crossbred with Earth's hominid **"wild code"** and switched on at the **Phase III Activation** — the rebellious, independent mind the controllers never intended. The **Qingu** are a sealed, low-admixture *subset* of the Lullu (bred *back into* the dispersed Lullu at Phase VI — the **Lullu Patch** — not the stock the Lullu came from). *("Human" is the in-story self-name for the Lullu.) (Supersedes the earlier draft, where "Lullu" named only the late agricultural workforce.)*
 
 **Qingu** *(the genetic layer)* — the **sealed / cloistered reserve stock** (Basal-Eurasian-coded) the workforce was bred from: a low-admixture, Neanderthal-depleted lineage held out of the main mixing stream. *Narrative function is managed isolation, not racial purity — never write Qingu as a real pure race (`40_concepts.md`, guardrail 1).* See also **Qingu (the lie)** below.
 
