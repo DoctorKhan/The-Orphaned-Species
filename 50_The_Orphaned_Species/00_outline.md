@@ -1,5 +1,7 @@
 # Book 5 — Working Outline
 
+> **Status — now nested.** Under the locked series spine (`/00_NARRATIVE_STRUCTURE.md`), this cave outline is the **deep-past stratum of the present-weighted reincarnation braid**, not the standalone frame. Its **Seven** are now **Aedan's own past incarnations** (Anthea lifts out into the karmic beloved; the cave-boy joins as the oldest and the Act-III recursion hinge), and the **cave-as-vision** device demotes to the texture of one life. This file stays canonical for **deep-past scene detail**; the frame lives in the narrative-structure doc.
+
 *Working title TBD. Folder is `50_Ancient_Creatures` but creatures are not structural — see "Working title" at end.*
 
 ## Premise
@@ -10,29 +12,29 @@ This is the mythic-narrative companion to *The Human Experiment*: the same timel
 
 *The thesis under all of it: the tragedy isn't that humanity failed — it's that we have been **managed** so long, and so well, that we mistake the management for our nature. The book's job is to make that management visible by watching it get built.*
 
-## The frame mechanic
+## The cave-life mechanic
 
-The cave bends vision, not body. The boy never leaves it. What it shows him divides into two registers, **interleaved for rhythm rather than partitioned by Part**:
+This mechanic is now local to the Bronze-Age cave-boy life inside the present-day braid. The cave bends vision, not body. The boy never leaves it. What it shows him divides into two registers, **interleaved for rhythm rather than partitioned by Part**:
 
 - **Stories shown** — myths and parables the cave plays in front of him. He watches; he is not in the scenes. Voice drifts toward scripture or oral epic. The deep-past visions of Part II (the Seven Pairs, the Activation, the War in Heaven, **Adapa**) live here, but a story can also surface between bloodline chapters to compress a phase the book is not dramatizing.
-- **Real events lived** — historical lives the cave gives him to inhabit, body and all. He wakes inside them, lives the relevant interval, surfaces back to the cave with the practice now sitting in his own hands. **The Seven** of Part III are the load-bearing instance of this register — bloodline ancestors, one per chapter, the gifts they recover passing through the line into Aedan's own body.
+- **Real events lived** — historical lives the cave gives him to inhabit, body and all. He wakes inside them, lives the relevant interval, surfaces back to the cave with the practice now sitting in his own hands. At the trunk level, these are **Eli/Aedan's own prior incarnations** down the lock-keeper line. Anthea is the exception: he encounters her as the beloved and recovers sonic resonance relationally, not by being her.
 
-He returns to himself in Part IV — older, in the same cave, with a choice to make.
+He returns to himself in Part IV — older, in the same cave, with a choice to make. In the full novel, present-day Eli later reaches this life and discovers the cave-boy was being shown the very incarnations Eli has spent the book assembling.
 
 **The cave as nervous system (cohesion device).** The Seven must not read as an anthology, so the *frame* carries continuity the chapters don't have to. Two rules:
 
 - *Between every **inhabitation** the boy surfaces physically altered.* He never just wakes — he keeps something the practice put in his body. After Ila (ch 12) he surfaces able to feel the temperature gradients in the cave walls; after Tem (ch 13) he catches the edge of other minds; and so on. Each bodily fragment is sitting in him before the next vision begins. **Stories shown leave a different kind of fragment** — a recognition, a question (Adapa's *would I have eaten the bread?*), a small new way of seeing. Both layers compound.
 - *The warmth migrates from the walls into him.* Through chs 10–14 the cave grows warmer and more resonant the deeper he goes — it seems to be waking up. But in chs 15–16 the heat starts coming from **Aedan, not the stone**. The cave is not a console he learns to log into; it is something he *becomes*. This is what makes the granary stone warm under him in ch 17 — he carries the cave out in his own body and no longer needs the hole in the ground. The independence ending (he walks out, doesn't look back) is the payoff of this migration, not a contradiction of it.
 
-## The modern child — three beats across the book
+## The modern child — optional open-door echo
 
-The modern child of Ch 18 isn't a single closing note; they recur as a quiet chord through the book, mirroring Aedan's arc on the far end of the line. Three beats in total. The child stays unspecified throughout — no name, no city, no sex pinned down — so they remain the cave's forward reach into *any* reader, not a character to track.
+Under the present-day Eli braid, the modern child is no longer the present frame. If retained, they function as a quiet open-door echo after Eli has made the carriers legible. The child stays unspecified throughout — no name, no city, no sex pinned down — so they remain the story's forward reach into *any* reader, not a character to track.
 
-- **Beat 1 — Opening seed (~1 page, before or interleaved with Ch 1).** The child wakes from a dream they can't name. They're humming something their mother doesn't recognize. They don't think about it again. The reader catches the resonance with the opening manifesto; the child doesn't.
-- **Beat 2 — Waking signal (~½ page, placed against Ch 9 Adapa).** A small, waking experience — palms hot when a friend is sick, a stranger on the bus reads as *wrong*. Half-understood. Placed against the book's heart-chapter so the reader feels the same recognition Aedan is having, refracted forward into now.
-- **Beat 3 — Ch 18 as outlined.** Full chapter weight. Dreams the cave, hums the song, knows without knowing. The choice is on the table.
+- **Opening seed, optional (~1 page, only if the draft needs a mythic overtone before Eli).** The child wakes from a dream they can't name. They're humming something their mother doesn't recognize. They don't think about it again. Use only if it sharpens the opening rather than delaying Eli.
+- **Waking signal, optional (~1/2 page, placed against Adapa).** A small, waking experience — palms hot when a friend is sick, a stranger on the bus reads as *wrong*. Half-understood. Placed against the book's heart-chapter so the reader feels the same recognition refracted forward beyond Eli.
+- **Final echo.** Full closing beat if used. Dreams the cave, hums the song, knows without knowing. The choice is on the table.
 
-The progression mirrors Aedan's heat-migration: song / stillness → heat-sensing / other minds → the cave itself, dreamed. The child wakes on the far end of the line as Aedan wakes on the near end. Keep beats 1 and 2 short enough that they read as the cave's *forward reach*, not a parallel storyline.
+The progression mirrors Aedan/Eli's heat-migration: song / stillness -> heat-sensing / other minds -> the cave itself, dreamed. The child wakes on the far end of the line as Eli wakes in the trunk. Keep any earlier beats short enough that they read as the story's *forward reach*, not a parallel storyline.
 
 ## The wheel — the book's central image
 
@@ -73,25 +75,28 @@ The thread, beat by beat: the **oral truth lives wordlessly in the village Song*
 - **Adapa** — the boy sees himself in him. The book's tragic mirror. The lock; the Seven are keys to what he was denied.
 - **Tiamat** — appears once, in Part II. Not as monster — as mother: the apex and origin of the dragon line (below), organic creation given a face.
 - **The Dragons** — the "ancient creatures" the cave is named for. *Not* mythic fire-breathers but an ancient, extraordinarily long-lived **reptilian lineage in evolutionary stasis** — Tiamat's organic line, the road humanity *didn't* take: comparable capacities reached by pure biology instead of installed locks. Their "fire" is **biological thermal control** (electromagnetic/chemical discharge); their "telepathy" is **infrasonic/ultrasonic resonance** felt as a voice in the skull. They are the living precedent of the Singer's song and Aedan's heat. *(Full canon: timeline Phase 0, "the dragons — the K-Pg survivors.")*
-- **The Modern Child** — recurs three times across the book (opening seed; waking signal against Adapa; full beat of Ch 18). Unspecified throughout — no name, no city, no sex pinned down. Doesn't know whose dream they are completing. *See "The modern child — three beats across the book."*
+- **The Modern Child** — optional open-door echo. Unspecified throughout — no name, no city, no sex pinned down. Doesn't know whose dream they are completing. *See "The modern child — optional open-door echo."*
 
-### The Seven
+### The Seven + Anthea's relational chapter
 
-A discrete set of seven bloodline ancestors the boy inhabits in Part III. They are not a council — they never meet — but they form one nervous system extended through deep time. Each one recovers a fragment of what the Anunnaki-era programming was designed to develop, and each one glimpses a different facet of the underlying structure of reality. The "seven" is not arbitrary: the canonical *Seven Pairs Protocol* (Phase II, 0.9 mya) seeded fourteen experimental humans across seven lineages, each testing a different combination of capacities. Only one line survived. The boy is its descendant, and the dormant programming of all seven experiments still sleeps in his blood. The cave wakes them, one chapter at a time.
+A discrete set of seven Aedan lives carries the lock-keeper line: the cave-boy himself, Aru, Daskar, Ila, Tem, Cuno, and Lovernios. They are not a council — they never meet — but they form one nervous system extended through deep time. Each one recovers a fragment of what the Anunnaki-era programming was designed to develop, and each one glimpses a different facet of the underlying structure of reality. The "seven" is not arbitrary: the canonical *Seven Pairs Protocol* (Phase II, 0.9 mya) seeded fourteen experimental humans across seven lineages, each testing a different combination of capacities. Only one line survived. Aedan is its recurring soul and descendant, and the dormant programming of the experiments still sleeps in his blood.
+
+Anthea remains load-bearing but is **not** one of Aedan's seven lives. She is the karmic beloved. Sonic resonance is recovered through love, loss, and recognition with her, which keeps the romance from collapsing into self-inheritance.
 
 | # | Name | Age | Era | Practice learned | What they see beneath the world |
 |---|------|-----|-----|------------------|-------------------------------|
+| 0 | **The Cave-Boy / Aedan**, the Witness | ~14 | Sintashta raid, ~2000 BCE | The living substrate; heat carried out of the cave | The orphan can witness without kneeling or looking away |
 | 1 | **Aru**, the Carver of the Foxes | 22 | Göbekli Tepe, ~9600 BCE | Breath, stillness, the silence behind thought | Awareness can hold itself: the observer observing the observer |
 | 2 | **Daskar**, the Builder Who Refused | ~40 | Göbekli burial, ~8000 BCE | Sensing the body's energy field, heat and cold-spot diagnostics | The body is a map of the field; pain is information |
 | 3 | **Ila**, the Midwife | 19 | Early agriculture, ~7000 BCE | Healing touch, the diagnostic conduit | Bodies leak into one another; illness travels along attention |
-| 4 | **Tem**, the Hidden Son | 6 → ~30 | 17:1 bottleneck, ~3000 BCE | Dream-walking, telepathy across the line | Consciousness is non-local; mind is not in the skull |
-| 5 | **Anthea**, the Singer of Frequencies | 23 | Bronze Age Anatolia, ~1500 BCE | Sonic resonance, song as substance | Matter is a slow song; the right pitch unties knots |
-| 6 | **Cuno**, the Bluestone Mover | 70s | Stonehenge / Albion, ~2000 BCE | Collective resonance, group consciousness amplified by geometry | Many minds in the right shape make one mind; the structure is the antenna |
-| 7 | **Lovernios**, the Druid of Anglesey | 60s | 60 CE | Plant medicine, non-human intelligence | Mind is not bounded by species; the line cannot break because it was never confined to skulls |
+| 4 | **Tem**, the Hidden Son | 6 -> ~30 | 17:1 bottleneck, ~3000 BCE | Dream-walking, telepathy across the line | Consciousness is non-local; mind is not in the skull |
+| Relational | **Anthea**, the Singer of Frequencies | 23 | Bronze Age Anatolia, ~1500 BCE | Sonic resonance, song as substance | Matter is a slow song; the right pitch unties knots |
+| 5 | **Cuno**, the Bluestone Mover | 70s | Stonehenge / Albion, ~2000 BCE | Collective resonance, group consciousness amplified by geometry | Many minds in the right shape make one mind; the structure is the antenna |
+| 6 | **Lovernios**, the Druid of Anglesey | 60s | 60 CE | Plant medicine, non-human intelligence | Mind is not bounded by species; the line cannot break because it was never confined to skulls |
 
-The progression is inward-to-outward: breath → body → other bodies → minds → matter → structure → species. Each ancestor's practice is what the next one stands on. The boy receives them in order. By the time he reaches Lovernios, the cave has been teaching him for chapters and he no longer needs the cave.
+The progression is inward-to-outward: witness -> breath -> body -> other bodies -> minds -> matter-through-beloved -> structure -> species. Each practice is what the next one stands on. In the cave-life outline the boy receives them in order; in the present-day braid Eli receives them scrambled and integration restores the true sequence. By the time he reaches Lovernios, the cave has been teaching him for chapters and he no longer needs the cave.
 
-**Ages are deliberately spread.** The Seven are not a gallery of elders — the line is carried by the young as often as the old. Aru and Anthea are in their early twenties; Ila is nineteen and barely trusts what her own hands do; Tem begins the chapter at six. The elders (Cuno, Lovernios) come last, when the practice has matured into something that takes a lifetime to hold.
+**Ages are deliberately spread.** The line is not a gallery of elders — it is carried by the young as often as the old. Aru and Anthea are in their early twenties; Ila is nineteen and barely trusts what her own hands do; Tem begins the chapter at six. The elders (Cuno, Lovernios) come last, when the practice has matured into something that takes a lifetime to hold.
 
 **The children who carry the fragments.** Each ancestor forwards their fragment, and more often than not the carrier is a child — the practice survives because it is handed *down*, not across. These children are named and recurring in texture even when their chapter belongs to someone else:
 
@@ -99,11 +104,11 @@ The progression is inward-to-outward: breath → body → other bodies → minds
 - **Eshe** (7) — Daskar's daughter; he pushes everything he knows into her head with his hands before he dies. She is the bridge from chapter 11 to the lineage behind chapter 12.
 - **Tava** (12) — Ila's apprentice; learns the conduit by candlelight the night before the priests come.
 - **Tem** (6) — hidden in the grain pit; *is* the child of chapter 13, and grows into its narrator.
-- **Lira** — Anthea's daughter; carries the chord west when her mother is killed. One of Lira's line reaches the Part I village.
+- **Lira** — Anthea's daughter; carries the chord west when her mother is killed. One of Lira's line reaches the cave-boy's village.
 - **Derw** (16) — youngest practitioner in Cuno's circle; the boy (by inhabitation) stands beside him in the last firing.
 - **Nia** (9) — the child Lovernios entrusts before Anglesey falls; she watches him sink the seed-catalog into the bog.
 
-Plus the frame children: **the Boy** himself (~14) in Parts I/IV, and **the Modern Child** in chapter 18. The book's through-line is a chain of children, each handed something they don't yet understand.
+Plus the frame children: **the Boy** himself (~14) in the cave-life stratum, **Eli** as the present orphan, and **the Modern Child** if the coda remains. The book's through-line is a chain of children, each handed something they don't yet understand.
 
 This child-chain is also the book's quiet answer to social atomization: the control system wins by separating children from elders and cutting memory from household life; the lineage survives because each fragment finds a child before the institution can fully intercept it.
 
