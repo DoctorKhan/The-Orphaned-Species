@@ -146,7 +146,7 @@ This stage includes:
 
 **Protagonist reversal:** the real prison is not only what was done to humanity; it is the machinery inside the human that keeps consenting to the same pattern. The first liberation is the moment the protagonist stops being steerable.
 
-**Book 5 expression:** Adapa is the failure case: he has the gift but believes the inner lie. The Seven are the answer: each recovers a capacity by refusing the offered father and developing an inward or relational power instead. Aedan's cave journey is the internalization of the cure.
+**Book 5 expression:** Adapa is the failure case: he has the gift but believes the inner lie. The Seven are seven independent answers: unrelated people in different settings recover capacities by refusing the offered father. Aedan's cave carries partial echoes; Eli's integration holds the complete records without turning them into ancestry, doctrine, or an ability checklist. Eli develops breadth and limited physical healing; a separate present-day healer develops much greater bodily depth.
 
 ### Stage 3 — The living network
 
@@ -156,8 +156,9 @@ Nascent powers and life technologies return through the living field: ley lines,
 
 This stage includes:
 
-- ley lines and sacred geometry as living infrastructure
-- stone circles and caves as resonant interfaces, not monuments
+- ley lines as living conductors that can break into positive and negative ends or form along new routes
+- crop circles as the effect of newly forming ley lines on plant growth
+- stone circles as routing interfaces that deflect ley lines into a communicative center, not monuments or energy sources
 - plant medicine and plant intelligence as relationship, not extraction
 - healing technologies based on attention, warmth, sound, and field-sensing
 - collective mind without hierarchy
@@ -166,9 +167,13 @@ This stage includes:
 
 **Key rule:** awakened powers must not become another hierarchy. The final danger is that people try to turn the return of capacities into a new priesthood, elite bloodline claim, market, weapon, or chosen-one system.
 
+The national psionic war is that danger already underway. States and aligned blocs treat psions as strategic assets, organize them into attack teams, and convert collective consciousness into command hierarchy. Independent protection cells can repeat the same mistake if fear makes coherence indistinguishable from obedience. The liberating alternative is not a stronger psion army but voluntary coordination that preserves differentiation, consent, and the right to leave.
+
+This also governs the cast. Eli is not the best at every capacity because he can receive every record. His breadth makes synthesis and transmission possible; the healer's depth makes severe physical repair possible. Neither role is a rank. The distributed competence is the collective thesis made practical.
+
 The powers only remain liberating when they are held by un-atomized people: people reconnected to body, kin, elders, children, place, plants, ancestors, and each other. Isolated, egoic people turn powers into domination. Reconnected people turn them into life technology.
 
-**Book 5 expression:** Cuno is the cleanest preview of this stage: many minds in the right shape becoming one mind without a master. The Modern Child is the seed of the wider awakening: the powers return first as symptoms without explanation, then as memory, then as practice.
+**Book 5 expression:** The living network is discovered through an adventure rather than disclosed as doctrine. Altered plant growth is noticed first; repeated observations establish a conductor; paired anomalies establish the positive and negative ends of a break; crop formations reveal new lines forming; historical stone geometry reveals inward deflection; Cuno's incomplete transmission finally reveals communication at the center. Each step changes the route and increases pursuit. Cuno remains the cleanest preview of the social form: many minds in the right shape becoming one mind without a master. Eli's overlapping path—identification, charged contact, relation, seeing, surge-discrimination, creation—shows one person maturing across registers without creating classes. The returning healer proves that another person can go much deeper in one practice. The Modern Child is the seed of the wider awakening: capacities return first as symptoms without explanation, then as memory, then as practice.
 
 ### Integration map
 
@@ -184,6 +189,7 @@ The powers only remain liberating when they are held by un-atomized people: peop
 3. **Make Stage 3 relational, not spectacular.** The return of powers should look like restored relation before it looks like miracles.
 4. **Keep the final conflict subtle.** The last enemy is not only the old controller; it is the temptation to rebuild control with sacred language.
 5. **Let each book shift the reader's question.** From *Who is doing this to us?* to *Why does it work on me?* to *What becomes possible when it stops working?*
+6. **Make lore alter the adventure.** A line discovered must change a route; a polarity must force a choice; a new growth formation must create a deadline; a communicative center must be reached and held. Otherwise keep the mechanism in the cosmology bible.
 
 ---
 
@@ -261,7 +267,7 @@ Short formula:
 
 ### Craft rule
 
-Do not explain all three Edens in a single scene. Let the reader feel the repetition: wall, garden, law. The same shape returns at deeper levels until Aedan realizes the garden was never only a place. It was a method.
+Do not explain all three Edens in a single scene. Let the reader feel the repetition: wall, garden, law. The same shape returns across the Seven's records until Eli realizes the garden was never only a place. It was a method.
 
 ---
 

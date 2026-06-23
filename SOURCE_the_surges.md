@@ -17,6 +17,14 @@ Write Eli's experience *from this*, not from imagination. The details below are 
 - **The decades-long lag.** The defining feature: **the experience precedes the understanding by years** — sometimes decades. "It's so frustrating when there's no explanation for years." "I could never figure out what the hell that was supposed to mean." This *is* the book's vision-then-words mechanism, lived: the body marks meaning long before the mind can justify it, and the waiting is an agony. *Eli's road is mostly this waiting.*
 - **The record itself.** He keeps a log — dates, times, sources, the exact words, the magnitude. "There were years when I did not make a record and years when I did." *The act of recording, of trying to find the pattern, is itself characterful — a disciplined mind trying to falsify its own anomaly. Pairs with the Three-Circles-as-protocol: he is already a self-experimenter.*
 
+### Keep the surges distinct from the serpent's rattle
+
+The **surge** is the phenomenon documented here: a located, involuntary resonance triggered by a word, sound, image, person, or imagined pattern. It marks magnitude before understanding. It may recur, but it is not pressure building because a message was ignored.
+
+The **serpent's rattle** belongs to a different fictional register. It is contact: Eli brushes something on another plane or touches a samskara held in a body. The contact contains compressed information. When he denies, suppresses, or identifies with it, charge accumulates and becomes painful. Remaining in relation to that pain allows information to unfold into seeing. Neither phenomenon validates its own interpretation, and neither is simple precognition.
+
+The same character can learn both. The developmental shape is overlapping rather than a clean ladder: identification/confusion → rattle/contact → charge/pain → relation → seeing → better discrimination of surges → creation/transmission. The later Bard function is Eli making meaning from what he has learned to receive, not becoming a different class of person.
+
 ---
 
 ## 2. The motif-map — for weighting the themes
@@ -25,9 +33,9 @@ What the surges *mark*, read across 30 years, is astonishingly coherent. Eight r
 
 1. **The chosen one / heir / prophet** *(by far the loudest).* *"Another child of the eldest gods." "You will do extraordinary things." "The One." "I am your Car'a'carn." "Lisan al-Gaib / Messiah / As written." "The Prophet"* (a flood in 2025). *"They all kneel / bow before him."* → the book's chosen-one charge **and its anti-throne thesis** (see §4 — this chord is the one the whole book answers).
 2. **Speaking to the gathered / teaching.** The podium and the crowd; *"Coming out and teaching people"*; *"Father"* seated before people who have come and are waiting; the shaman in the tent giving counsel; *"Tell stories."* → Eli's public role; the awakening; the "coming out."
-3. **The beloved across lifetimes.** *"Soul mate to make the whole march deeper." "Divine pairing" (huge surge). "I've found you nine times before, I'll find you again." "Then I will find you in the next life — again and again until we get it right — and I will wait for you."* → **Wren / the missed connection / the recognition.** Nearly ready-made dialogue.
+3. **The beloved across lifetimes — source chord, not literal canon.** *"Soul mate to make the whole march deeper." "Divine pairing" (huge surge). "I've found you nine times before, I'll find you again." "Then I will find you in the next life — again and again until we get it right — and I will wait for you."* → **Wren / recognition / the temptation to mistake intensity for destiny.** The revised story tests this chord rather than proving reincarnational entitlement: Eli and Wren choose each other in the present.
 4. **Sacrifice / a good way to die.** *"Dying must be an awfully grand adventure."* The 16-year touchstone — *"How can man die better than facing fearful odds, for the ashes of his fathers and the temples of his gods?"* (recurs 2006→2022). *"One of us had to accept the agony." "He gave his life to protect her." "Die well." "A good way to die, in defense of those you love."* → the **cost** of the transcend ending; the burn-wound; the price each apprenticeship exacts.
-5. **Reincarnation / preparing across time.** *"I've been preparing for this for centuries." "It was not from this lifetime." "His past lives returning." "Bonds we cannot break."* → the braid itself.
+5. **Deep-time return / preparing across time.** *"I've been preparing for this for centuries." "It was not from this lifetime." "His past lives returning." "Bonds we cannot break."* → the **resonance archive**: seven distinct historical people returning as retained imprints, not Eli's incarnations.
 6. **Dragons — and they *intensify* across the decades.** *Draco* (2006, "stars coalesce on bright Draco star — HUGE surge") → *Dracarys* (2019) → bare *"Dragon"* (2022, "tremendous intensity… seeing through my eyes in the future") → *"The Dragon is born again."* → the Cave of Dragons; the Dragon transmitter; the native bridge.
 7. **The Great Remembering / return to the earth.** *"The bird tribes are rising"* (×6). *"Eagle and Condor fly together." "Return to the trees." "To the great remembering." "She will reclaim the desecrated land."* → the thesis: the awakening, the consciousness technologies recovered, the masses waking.
 8. **Apocalypse / the crucible / war.** *"We're about to go through the crucible." "World War III." "Bioweapons"* (recurring). *"A megaflood is coming." "Save the future."* → the psychic war; the stakes; the suppression.
@@ -40,10 +48,10 @@ What the surges *mark*, read across 30 years, is astonishingly coherent. Eight r
 
 ## 3. Craft applications
 
-- **The surge as the book's compass — a plot device already owned.** Let the surges be exactly what they are for the author: a detector that **marks meaning before meaning is available.** In the story they can mark the *true* history against the controllers' lie (the contested channel), mark a member of the soul group, mark the next step on the path — and the factions can **hunt people by the signature** (the screening-net, modernized). The 30-year confusion becomes, in fiction, a compass whose needle he can't yet read; dramatizing that not-knowing is the most honest version of the road.
+- **The surge as the book's compass — a plot device already owned.** Let surges mark meaning before meaning is available: a carrier-signature, a contested historical record, a next step, or another live psion. They do not certify reincarnation or soulmates. The factions can hunt signatures; Eli must learn that a strong signal still requires interpretation.
 - **Vision-then-words, at the smallest scale.** §1's "lag" *is* the Two-Trees mechanism in miniature — the word lands in the body (direct), the meaning arrives years later (mediated). The micro-experience and the macro-cosmology are the same shape.
-- **Recognition lines, nearly verbatim.** *"I've been preparing for this for centuries."* / *"I'll find you in the next life, again and again until we get it right, and I'll wait for you."* — Eli and Wren.
-- **Theme weighting.** Lead with chords 1–5 (chosen-one, teaching, the beloved, sacrifice, reincarnation) as the emotional spine; let 6–8 (dragons, the Remembering, the crucible) be the cosmological weather. Healing first (it's both the journal's recurring note and the book's first capacity).
+- **Recognition lines as dangerous seduction.** *"I've been preparing for this for centuries."* / *"I'll find you in the next life..."* can be language the field, the fallen, or frightened lovers offer to turn intensity into certainty. Eli and Wren's actual bond must survive without those claims being literally true.
+- **Theme weighting.** Lead with chords 1–5 (chosen-one temptation, teaching, beloved, sacrifice, deep-time return) as the emotional spine; let 6–8 be cosmological weather. Let physical healing appear early but remain limited in Eli; another present-day character carries the deep restorative gift. The mature book repeatedly distinguishes felt magnitude from literal metaphysical conclusion.
 
 ---
 

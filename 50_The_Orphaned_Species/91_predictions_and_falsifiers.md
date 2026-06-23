@@ -144,7 +144,7 @@
 *The deepest layer generates **no** clean predictions, by construction — and this is not a defect to hide but the doc's own thesis turned on itself.*
 
 - **Directed vs. undirected panspermia leave identical physical traces.** "Intent behind the seeding" is not a measurement. Every §3 anchor is equally consistent with ordinary astrochemistry.
-- **The resonance-field / psi carrier** is unrecognised in mainstream physics; parapsychology's null, unreplicated record stands as evidence against it as a literal signal. It is the book's primary fictional medium.
+- **The anti-entropic medium and ley-line carrier** are unrecognised in mainstream physics; parapsychology's null, unreplicated record and the lack of evidence for physical ley lines stand against them as literal mechanisms. They belong to the book's cosmology, not its science-facing evidence.
 - **The Tree-of-Life bridge / spirit-to-spirit plane** is defined as the *non-mediated* register — the one place, by its own logic, that leaves no transmittable trace.
 
 **The mechanisms predict; the maker never will.** This is the Two Trees in epistemology: the mediated, entropic plane (genetics, chemistry, archaeology) is exactly the one where you can only ever read traces; the source can never be checked directly. A reader — like the orphaned species — is left to decide between strategist and scavenger on the evidence of traces alone. That undecidability is designed, not a gap to be closed.

@@ -36,7 +36,7 @@ A self-understanding reconstructed from fear just rebuilds the cage in new paint
 
 ## Return to nature — to the ground the cage was built over
 
-"Return to nature" is not primitivism, and not fear of the tools (that would be one more fear-posture). It is stepping **off the High Places** — off the cold infrastructure (the grid, the nodes, the covenant law, the spectacle) that was always *laid over* the living substrate (the Wild / Edin, Tiamat's warm organic grid, the resonance-field). We mistook the machine for the ground and knelt at it after it went dark. Returning to nature means returning to the **substrate** — remembering we are organic creatures in a living system — exactly as the infrastructure laid over it is being decommissioned anyway.
+"Return to nature" is not primitivism, and not fear of the tools (that would be one more fear-posture). It is stepping **off the High Places** — off the cold infrastructure (the built nodes, the covenant law, the spectacle) that was always *laid over* the living substrate (the Wild / Edin, Tiamat's warm organic life, the anti-entropic medium conducted through Earth's ley lines). We mistook the machine for the ground and knelt at it after it went dark. Returning to nature means returning to the **substrate** — remembering we are organic creatures in a living system — exactly as the infrastructure laid over it is being decommissioned anyway.
 
 The **consciousness technologies are this**: plant, breath, sound, touch — traditions that run on the organic field, not the machine. They are the traditions that work.
 

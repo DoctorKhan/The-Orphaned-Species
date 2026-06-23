@@ -10,18 +10,19 @@ The content has outgrown any single book. Rather than split it into rival volume
 
 ## Layer 1 — The Novel *(the experience; the front door)*
 
-**"The Orphaned Species" — a trilogy** (the present-weighted reincarnation braid). The trunk everything else feeds. Complete on its own: cosmology and practice arrive as **lived experience, never lecture.** A reader can take *only* this and get a whole book.
+**"The Orphaned Species" — a trilogy** (the present-weighted resonance braid). The trunk everything else feeds. Complete on its own: cosmology and practice arrive as **lived experience, never lecture.** A reader can take *only* this and get a whole book.
 
 **Maps to:**
 - `50_The_Orphaned_Species/MANUSCRIPT.md` — the draft.
 - `00_NARRATIVE_STRUCTURE.md` — the novel's bible/spine (working doc, not published).
 - `50_The_Orphaned_Species/00_outline.md` — the deep-past cave stratum, nested.
+- `50_The_Orphaned_Species/15_character_grounding_and_relatability.md` — the human-scale guardrail: Eli's injury, ordinary pressures, relationships, and scene test.
 - `SOURCE_the_surges.md` — the autobiographical floor under Eli (also a Record doc, Layer 3).
 
 **The three volumes — against the pilgrimage legs:**
-- **I · Shattering** *(Asia)* — Prologue (Maren); **Boracay** (the body, Kali); **Bangladesh** (roots; Emrys intersects); the **breach** (the flood, the Three Circles); **Pai** (the medicine, belonging); the **collapse** (the sky breaks). *Ends:* world broken, Eli awakened and hunted, the war live.
-- **II · Descent** *(the corridors → Anatolia)* — the overland pilgrimage across the contested grid; the **deep descents** (the lives, varied); the **romance** deepens (Wren); the **mother-reveal** (her tethered spirit); **Emrys taken**; **Anatolia / Göbekli** (the dawn, the deepest descents). *Ends:* mid-war, the deepest truths surfacing.
-- **III · Choice** *(Europe → Albion)* — the **source**; Rollright, Stonehenge, **Men-an-Tol** (his origin closes the circle); the final descents (Cuno, Lovernios); the **climax** (free the mother by *releasing* her; the **spreading fire**; refuse Crane). *Ends open* — the fire catching, the door unlocked, the species' walk-through left to the reader.
+- **I · Shattering** *(fugitive childhood → Forest City → Melaka)* — Prologue (Maren); selected memories of the parents' flight and the attack that kills Eli's father, removes his mother, and cracks the receiver filter; the temporary engineered outbreak during a wider war; **Forest City** as accountable refuge; Eli voluntarily follows a lead to newly reopened **Melaka**; a local NDE opens the Seven and the Three Circles; Emrys and Wren converge. *Ends:* Eli awakened and hunted in a damaged but functioning world.
+- **II · Descent** *(the maritime corridors → Anatolia)* — the westward pilgrimage through the Strait/Indian Ocean and contested grid; the **Seven's distinct lives**; Eli learns relation and seeing through charged pain, develops limited physical healing, and reunites with the medical worker whose restorative gift is far deeper; the **romance** deepens; the **mother-reveal**; **Emrys taken**; **Anatolia / Göbekli**. *Ends:* mid-war, the deepest truths surfacing.
+- **III · Choice** *(Europe → Albion)* — the **source of the mother-line**, not the source of Eli's identity; Eli learns to distinguish rattle from surge and turns received pattern into creative transmission (the Bard function), while the healer carries deep bodily repair; Rollright, Stonehenge, **Men-an-Tol**; the final descents (Cuno, Lovernios); the **climax** (free the mother by *releasing* her; the **spreading fire**; refuse Crane). *Ends open* — the fire catching, the door unlocked, the species' walk-through left to the reader.
 
 ---
 

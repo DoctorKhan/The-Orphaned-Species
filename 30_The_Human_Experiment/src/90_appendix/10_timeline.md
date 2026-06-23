@@ -4,7 +4,7 @@
 
 This timeline synthesizes the mythological framework presented throughout this book, organizing the key events and transitions that shaped human consciousness and civilization. Within this functional mythology, these represent the major phases of an ongoing experiment in consciousness modification and social control.
 
-> **Canon update (three-tier cosmology + taxonomy).** Parts of this appendix's prose predate the current canon and are still being reconciled to it. Where they differ, the current canon governs (see `00_MASTER_TIMELINE.md` and the Glossary): **(1)** the universe is **three-tiered** — *Tier 1* serpent architects (**Tiamat / Leviathan**), *Tier 2* engineered gods (**Anunnaki / Igigi**, who *mutiny* against the serpents' labor demand), *Tier 3* the imported human workforce; the Anunnaki are *not* the ultimate creators. **(2)** The **Adamu** are an *off-world import* that **arrived already fused** (the chromosome-2 fusion is the import signature, kept as real science); the Neanderthals/Denisovans are the *early split* from that import, not Earth natives. **(3)** Taxonomy reassigned to follow the cuneiform meanings: **Lullu** = the general activated species (all modern humans); **Umannu** = the late human scholar-sage class (heirs of the **Apkallu**, premier sage **Uanna**, who collapses the old *Adapa*); the Phase-VI agricultural population is the **Lullu Patch**. **(4)** Hybrids: **Nephilim** = sterile giant *wall*; **Nephilot** = fertile hidden *carriers*.
+> **Canon update (three-tier cosmology + taxonomy).** Parts of this appendix's prose predate the current canon and are still being reconciled to it. Where they differ, the current canon governs (see `00_MASTER_TIMELINE.md` and the Glossary): **(1)** the universe is **three-tiered** — *Tier 1* serpent architects (**Tiamat / Leviathan**), *Tier 2* engineered gods (**Anunnaki / Igigi**, who *mutiny* against the serpents' labor demand), *Tier 3* the harvested human workforce; the Anunnaki are *not* the ultimate creators. **(2)** Current canon is a two-stage intervention: the deep **Feral Drop** is 48-chromosome stock, while the **chromosome-2 fusion happens on Earth** at the ~0.9-mya Hardware Recall; Neanderthals/Denisovans are an early split from that fused line, not untouched Earth natives. **(3)** Taxonomy reassigned to follow the cuneiform meanings: **Lullu** = the general activated species (all modern humans); **Umannu** = the late human scholar-sage class (heirs of the **Apkallu**, premier sage **Uanna**, who collapses the old *Adapa*); the Phase-VI agricultural population is the **Lullu Patch**. **(4)** Hybrids: **Nephilim** = sterile giant *wall*; **Nephilot** = fertile hidden *carriers*.
 
 ## Timeline Overview
 
@@ -42,13 +42,15 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 *Key Insight: humanity's deep stock is feral import, not native Earth life; the un-fused cousins (chimps, gorillas) are deaf to the later control grid.*
 
-## Phase II: Genesis Bottleneck / The Hardware Recall (800,000-900,000 Years Ago)
+## Phase II: Genesis Bottleneck / The Hardware Recall (~930,000-813,000 Years Ago)
 
 *The Great Refinement: Preparing the Chosen Lineage*
 
-**The Import**: The off-world **Adamu** — a domesticated, 46-chromosome drone-stock — are brought to Earth by the serpent architects to replace the mutinous gods in the mines. The ~1,000–1,280-individual "bottleneck" signature is not a population crashed *in situ* but the small size of the **imported founding cohort**. The 46-chromosome fused code is the import's *blueprint*; the *bodies* are gestated from local Earth biomass (the "clay") — star-code in an Earth-built chassis.
+**The Recall**: The feral 48-chromosome branch seeded in Phase I is harvested on Earth and reduced to the small population signal preserved in the genome. The older "imported 46-chromosome cohort" wording is superseded by current canon: the **fusion happens here**, at the Hardware Recall, and the "clay" image belongs to Earth-built bodies being reworked from terrestrial stock rather than a finished species dropped in from elsewhere.
 
-**The Seven Pairs Protocol**: Ancient Mesopotamian texts preserve the memory of seven pairs of Adamu—fourteen individuals, the founding import cohort, planted across seven experimental sitings (the Hindu **fourteen Manus** preserve the same count). The chromosome-2 fusion and the dormant locks arrive *with* them, off-world, not engineered on Earth. *(The very name "Adamu," "creatures of the dirt," is the controllers' Big Lie — branding a star-born workforce as mere clay to erase its cosmic origin, the first consciousness lock.)*
+**Evidence-facing guardrail**: The mainstream anchor is narrower than the myth: Hu et al. (2023) infer a severe bottleneck of about **1,280 breeding individuals** between roughly **930 and 813 kya**, lasting about **117,000 years**. That is a model-based genetic signal, not a site map. Archaeology should be used for **terrestrial refuge texture** only: African water margins and highlands, Acheulean tools, butchery, later mixed-age footprints at Melka Kunture / Gombore II-2, fire/cooked fish at Gesher Benot Ya'aqov, and Atapuerca / Gran Dolina as an early European echo. Do not write this phase as an alien stage; write it as Earth under pressure.
+
+**The Seven Pairs Protocol**: Ancient Mesopotamian texts preserve the memory of seven pairs of Adamu — fourteen individuals / lineages, planted across seven experimental sitings (the Hindu **fourteen Manus** preserve the same count). In current canon, the chromosome-2 fusion and the dormant locks are installed **on Earth** at the Hardware Recall, not imported as finished off-world code. *(The very name "Adamu," "creatures of the dirt," is the controllers' Big Lie — branding a harvested workforce as mere clay to erase its deeper origin and purpose, the first consciousness lock.)*
 
 **The Modifications**: Each of the seven pairs received sophisticated genetic modifications:
 - Enhanced receiver sequences for future activation
@@ -84,7 +86,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 **The Apkallu Overseers**: The antediluvian sages — the *Apkallu*, premier among them **Uanna** (the first sage of Eridu, the figure of the Adapa myth) — serve as the gods' overseers, carrying the blueprint up from the Abzu to civilize the newly-admixed workforce. Their late, strictly-human heirs are the *Umannu* wisdom-keepers.
 
 **Gradual Development**: Humans develop under benevolent supervision:
-- Mastery of fire and basic tools
+- Mastery of fire and basic tools — mythically credited to the **Prometheus / Enki / Apkallu** dissenter-line, the stolen mercy that lets the workforce survive rather than a leash from the control faction
 - Development of language and early spiritual practices
 - Social cooperation and tribal organization
 - Connection to natural rhythms and ecological wisdom

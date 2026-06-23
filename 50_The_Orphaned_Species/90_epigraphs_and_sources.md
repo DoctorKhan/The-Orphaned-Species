@@ -66,17 +66,40 @@ Two findings that converge on the same moment the canon calls the **Genesis Bott
 
 > **[VERBATIM TODO]** — still want the exact line from IJdo et al. 1991 (the original telomere-telomere fusion statement) if we use the discovery paper directly.
 
-**B. The 0.9-mya bottleneck — the population crash to ~1,280.**
+**B. The 0.9-mya bottleneck — the proposed population crash to ~1,280.**
 
 **Paper:** Hu, W., Hao, Z., Du, P., et al. (2023). "Genomic inference of a severe human bottleneck during the Early to Middle Pleistocene transition." *Science*, 381(6661), 979–984.
 
-**The finding (paraphrase — confirm before quoting):** Genomic modeling indicates the ancestral human population crashed to roughly **1,280 breeding individuals** and stayed there for about 117,000 years, from roughly **930,000 to 813,000 years ago** — losing an estimated ~98.7% of the breeding population. This is an astonishingly precise match for the canon's Genesis Bottleneck (Phase II: "approximately 1,000–1,280 individuals," ~800k–900k ya).
+**The finding (paraphrase — confirm before quoting):** Genomic modeling indicates the ancestral human population may have crashed to roughly **1,280 breeding individuals** and stayed there for about **117,000 years**, from roughly **930,000 to 813,000 years ago** — losing an estimated ~98.7% of the breeding population. This is an astonishingly precise match for the canon's Genesis Bottleneck (Phase II), but the status matters: this is a **model-based inference**, not an excavated census, and some specialists remain cautious about the method and the archaeological fit.
 
-**Why it matters to this book:** This is the hard floor under **Chapter 6.i (Three Beginnings — Seven Pairs)** and the strongest single real-science anchor in the whole book. The myth says the Anunnaki surgically reduced the lineage to a refined gene pool of fourteen across seven pairs; the genome says the real population really did collapse to ~1,280 at almost exactly the stated date. Pair this quote with the fusion (3A) and you have the genetic Garden of Eden: a tiny founding population, made karyotypically distinct, ~0.9 mya.
+**Why it matters to this book:** This is the hard floor under **Chapter 6.i (Three Beginnings — Seven Pairs)** and one of the strongest real-science anchors in the whole book, provided the prose keeps its epistemic footing. The myth says the Anunnaki surgically reduced the lineage to a refined gene pool of fourteen across seven pairs; the genome may preserve a real, severe contraction at almost exactly the needed date. Pair this quote with the fusion (3A) and you have the genetic Garden of Eden: a tiny founding population, made karyotypically distinct, ~0.9 mya.
 
 > **[VERBATIM TODO]** — paste the exact line from Hu et al. (the abstract's figures: ~1,280 individuals, ~930–813 kya, the percentage lost).
 
 **Suggested placement:** Epigraph(s) opening **Chapter 6.i**. The fusion line and the bottleneck line could be stacked as a two-part epigraph — the seam, then the small number — directly above the vision of fourteen people standing in a circle.
+
+**C. Terrestrial refuge texture — what the bottleneck world should feel like.**
+
+These do **not** prove the exact founders' locations. Use them as scene texture and restraint: the bottleneck vision belongs on Earth, in Pleistocene refuges and recovery corridors, not in a visible alien environment.
+
+**Melka Kunture / Gombore II-2, Ethiopia (~700 kya).**
+**Paper:** Altamura, F., Bennett, M. R., D'Aout, K., et al. (2018). "Archaeology and ichnology at Gombore II-2, Melka Kunture, Ethiopia: everyday life of a mixed-age hominin group 700,000 years ago." *Scientific Reports*, 8, 2815. URL: https://www.nature.com/articles/s41598-018-21158-7
+
+**Use:** Adults and children at a muddy water-margin site, with stone tools and evidence of hippo butchery in the same layers. This is after the proposed bottleneck, but it gives the most vivid scene vocabulary: children in mud, animals at water, knapping, butchery, refuge life.
+
+**Gesher Benot Ya'aqov, Israel (~780 kya).**
+**Paper:** Zohar, I., Alperson-Afil, N., Goren-Inbar, N., et al. (2022). "Evidence for the cooking of fish 780,000 years ago at Gesher Benot Ya'aqov, Israel." *Nature Ecology & Evolution*. URL: https://www.nature.com/articles/s41559-022-01910-z
+
+**Use:** Controlled fire / cooked fish / hearth-centered food processing at the Levantine corridor edge. Best used as recovery-corridor texture after the bottleneck, and as the place to let **Prometheus / Enki** receive mythic credit for fire as the stolen survival gift.
+
+**Atapuerca / Gran Dolina, Spain (~850 kya).**
+**Sources:** UNESCO World Heritage Centre, "Archaeological Site of Atapuerca." URL: https://whc.unesco.org/en/list/989/; Fernández-Jalvo, Y., Díez, J. C., Cáceres, I., & Rosell, J. (1999). "Human cannibalism in the Early Pleistocene of Europe (Gran Dolina, Sierra de Atapuerca, Burgos, Spain)." *Journal of Human Evolution*, 37(3-4), 591-622.
+
+**Use:** Early European cave occupation, cut-marked human remains, and butchered fauna. Do not frame cannibalism as proven bottleneck starvation; use it as a European echo of extreme intergroup pressure and survival violence.
+
+**Suggested placement:** Source note for **Chapter 6.i**, not necessarily epigraph. The chapter's lived material can pull from this triad: **footprints / fire / cave-bones**.
+
+**Prometheus / Enki credit note.** Whenever the text uses fire as the survival pivot — heat, cooked calories, night protection, hearth-sociality — name its mythic owner: **Prometheus** in the Greek register, **Enki / the Apkallu** in the Mesopotamian register. In this canon, fire belongs to the dissenter who sides with humanity.
 
 ---
 

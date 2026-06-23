@@ -46,6 +46,8 @@ Pyramids are not unique to Egypt. They are a global phenomenon. We find them in 
 
 Many ancient sites, from Stonehenge to the pyramids of Giza to the Nazca lines in Peru, appear to be located on a global grid of straight lines, often called "ley lines." These lines are not random; they connect sacred sites, megalithic structures, and places of unusual geological energy. Alfred Watkins, who first proposed the theory in the 1920s, noticed that ancient sites in Britain seemed to fall into perfect alignment for miles across the landscape.
 
+Within the cosmology explored in this book, these lines behave as conductors rather than fixed marks on a map. A line can break, leaving a positive and negative end. New lines can form, altering plant growth along their geometry; in a uniform cultivated field, that biological effect becomes visible as a crop circle. Standing-stone circles do not create the energy. Their arrangement deflects lines into the center, making the site an interface through which people can communicate.
+
 **The Question:** Is this global network of aligned sites a mere coincidence of geography and statistics? Or is it the remnant of a forgotten science, a global positioning system that understood the subtle energies of the Earth itself?
 
 ## The Unanswered Questions

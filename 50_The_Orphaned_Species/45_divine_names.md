@@ -92,7 +92,7 @@ Short formula:
 
 2. **Keep the spins opposed.** Each culture remembers the same events with a different theological valence: control-side (the King List sacralizing the office; the Qingu-guilt myth) vs. oral-truth-side (Genesis moralizing the wound; the We-ila reading). The divine-names layer obeys the same rule — the homology is real, but every culture bends it toward its own use.
 
-3. **Let Aedan feel the repetition, not the chart.** As with the three Edens (*wall, garden, law*), the reader should feel the same father-shape returning under new names — Anu, El Elyon, the father-god — until the recognition lands that it was one method wearing many names, not many gods.
+3. **Let Eli triangulate the repetition through the Seven, not read a chart.** The reader should feel the same father-shape returning under new names until the recognition lands that it was one method wearing many names.
 
 4. **Asherah is the casualty worth showing.** The suppression of the mother-consort (Ki/Antu → Athirat/Asherah → the erased "Yahweh and his Asherah") is the divine-tier mirror of the book's gender-fracture and the killing of the Singer (Anthea). When the pantheon collapses into a lone father, the mother is the first thing edited out.
 

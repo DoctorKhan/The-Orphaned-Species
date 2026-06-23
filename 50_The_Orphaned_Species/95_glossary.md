@@ -30,7 +30,7 @@
 
 ## The making of humanity (the genetic layer)
 
-**Seven Pairs Protocol** — Phase II (~0.9 mya). The Anunnaki thin the bottleneck population to fourteen people across **seven lineages**, each testing a different combination of capacities. Only one line survives; Aedan descends from it, and the dormant programming of all seven sleeps in his blood. This is the structural origin of **the Seven**.
+**Seven Pairs Protocol** — Phase II (~0.9 mya). The Anunnaki thin the bottleneck population to a mythic fourteen across seven experimental placements. The number later rhymes with Book 5's Seven historical carriers, but there is **no one-carrier-per-founder genealogy**: neither Aedan nor Eli is canonically the sole surviving pair's descendant, and the Seven persist in the resonance archive rather than in one person's blood.
 
 **Genesis Bottleneck** — the near-extinction event (~800,000–900,000 years ago) that crashed the human ancestral population to ~1,280. In this canon, Phase II: the selection-and-preparation phase that installed the genetic modifications.
 
@@ -79,7 +79,15 @@
 - **The Nurseries** — pieces of the Wild fenced off for biogeographic isolation (islands, hidden valleys): clean rooms cut from the steppe where the engineering ran.
 - **The High Places** — mountain nodes chosen for geomagnetic anomaly: the **cold, cut, industrial** signal-repeaters of the control grid (the "ancient internet"), and the screening-nets where hidden hybrids are detected. *Let temperature editorialize so the prose never says "Igigi."*
 
-**The "ancient internet" / field-grid** — agriculture installed *so that* crop circles (the refreshed ley-network in living grain) could be inscribed, then hardened into stone circles wired as a networked array of consciousness/communication nodes.
+**Ley lines / crop circles / the "ancient internet"** — ley lines are planetary conductors. When one breaks, the severed route retains a positive end and a negative end. A crop circle is the visible effect of new ley lines forming through cultivated land and altering plant growth, not a symbol imposed on the crop. Standing-stone circles deflect lines inward toward a center where people can communicate through the network; the stones route the energy but do not produce it.
+
+**The ley-line discovery ladder** — the Book 5 adventure sequence: inexplicable plant growth → evidence of a conductor → opposed ends of a break → crop circles identified as new line formation → stone circles identified as inward-routing interfaces → communication at the center. No person owns the complete explanation. Filipino bodily training, Balinese and South Asian agricultural knowledge, Forest City's collective method, Melaka's breach, Singapore records, the Seven's partial records, and Wren's fieldcraft all contribute distinct pieces.
+
+**The clue trail** — the present-day journey's navigation rule. Eli leaves Forest City for one narrow clue in Melaka and never possesses a complete itinerary or known final destination. Each person, record, growth anomaly, polarized reading, historical imprint, or enemy operation can indicate only the next investigation. Some clues are stale, misread, or planted. Albion becomes identifiable only late, when independent evidence from Cuno, Derw, Eli's mother, and the changing ley network converges.
+
+**The national psionic war** — the covert theater within the wider conventional/cyber world war. Countries and allied blocs field coordinated psion teams against foreign programs, carriers, ley routes, and one another; contractors, mercenaries, independent defense cells, and Crane's transnational ring operate between them. Team attacks target agency through detection, dream/perceptual intrusion, emotional or mnemonic flooding, false certainty, disrupted coherence, and marking for physical capture. Reliable operations require signatures, routes, concentration, and ordinary logistics. No psion is omniscient, absolutely controlling, or invulnerable.
+
+**Psion team** — a small group whose coordinated attention permits stronger probing, shielding, misdirection, or disruption than an isolated psion can sustain. Teams may be voluntary, conscripted, coerced, state-backed, commercial, criminal, or protective. Their coherence is both their strength and vulnerability: conflicting memories, fear, deception, or broken trust can fracture the operation.
 
 **Herem (decommissioning)** — the conquest "ban" reread as taking corrupted node-hardware, hybrid strongholds, or forbidden technologies *out of circulation* — targeted at high places and the hostile **Nephilim/Anakim** line, not the protected **Albian** carrier line. Structural memory, not apologetic. See `40_concepts.md`.
 
@@ -99,7 +107,7 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 > Eden I makes the body. Eden II manages the body. Eden III governs the soul.
 
-**The Safehouse Premise.** Earth as a **bolt-hole against catastrophe**: the makers seed durable forms here so their work survives an end they cannot flee. Key correction — **they never arrive in body**; lacking forms of their own to send, they reach Earth only as pattern + the **resonance-field** and construct presence from Earth's matter (dragons, titans, the harvested human line, each fitted to *hear* them). So "refuge" = **continuity carried in Earth-built flesh that can still phone home**, not bodies reaching a destination — the deep urgency behind the Hardware Recall. *Humanity is one such form on a sanctuary world, holding a receiver it has forgotten how to hear; the Abandonment is the line going silent.* What the catastrophe was stays a deep-time mystery by design.
+**The Safehouse Premise.** Earth as a **bolt-hole against catastrophe**: the makers seed durable forms here so their work survives an end they cannot flee. Key correction — **they never arrive in body**; lacking forms of their own to send, they reach Earth as pattern through the **anti-entropic medium**, conducted here by the planetary ley-line network, and construct presence from Earth's matter (dragons, titans, the harvested human line, each fitted to receive). So "refuge" = **continuity carried in Earth-built flesh that can still communicate**, not bodies reaching a destination — the deep urgency behind the Hardware Recall. *Humanity is one such form on a sanctuary world, holding a receiver it has forgotten how to use; the Abandonment is the line going silent.* What the catastrophe was stays a deep-time mystery by design.
 
 ---
 
@@ -107,7 +115,7 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **The Living Way** — the third leg of the Triangulation: the recovered relationship to body, kin, place, plants, and each other that the control system exists to suppress. Powers remain liberating only when held by **un-atomized** people.
 
-**Consciousness technologies** — song, healing touch, stone-circle resonance, plant intelligence, dream networks, collective mind: not superhero powers but signs of humans rejoining the living network. Carried west by the **Albians**.
+**Consciousness technologies** — song, healing touch, stone-circle resonance, plant intelligence, dream networks, collective mind: not superhero powers but signs of humans rejoining the living network. Capacities recur unevenly in unrelated people; receiving a historical record never guarantees mastery of its practice.
 
 **We-ila / Geshtu-e ("the Ear")** — the slain god "who had *ṭēmu*" (intelligence) in the *Atrahasis*, framed in canon as the **Anunnaki intelligence donated at the Activation** — the *software* (mind), as against the Qingu *stock* (body). The Singers do **not** worship We-ila as a sky-god; to them it is the **latent frequency of intelligence in the genome** — what they *tune*, not a throne. The buried, true counter-myth to the Qingu lie.
 
@@ -115,7 +123,7 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **Tertiary Consciousness** — the ability to transcend binary programming and hold multiple perspectives at once without collapsing them into either/or. The evolutionary step beyond installed binary thinking.
 
-**Albians** — the down-bred (~25%-Igigi) carrier line that preserves the consciousness technologies; retreat to Albion (stone circles, Druidic tradition), systematically eliminated by Rome but encode their knowledge into folklore. Aedan is Albian-descended without knowing it.
+**Albians** — a down-bred carrier population that preserves some consciousness technologies, retreats to Albion, and is systematically attacked by Rome. It is one historical carrier tradition, not the source of all Seven or the hidden essence of Eli's identity. Eli's English mother comes through a surviving Albian-associated line; Aedan's exact ancestry need not be used to connect the archive.
 
 ---
 
@@ -128,6 +136,16 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 **NPC (Non-Player Character) consciousness** — the automated, programmed thoughts and behaviors that run much of human life, reacting to triggers without genuine choice. A description of a mechanical pattern, not a judgment of a person. *(The biological substrate is the Anunnaki binary programming.)*
 
 **Charge** — an energetic pattern in the body-mind that triggers an automatic response; points in the **mental landscape** that attract or repel attention. Functionally equivalent to **Parts**.
+
+**Samskara** — a charged impression held in the body-mind. In Eli's phenomenology, touching one can produce a serpent's rattle: contact with compressed information before he can interpret it.
+
+**The serpent's rattle** — somatic contact with something on another plane or with a samskara in a living body. It is not prophecy, warning, or a surge. When ignored, suppressed, or misidentified, its information accumulates as charge and pain; held in non-identified relation, it can unfold into seeing.
+
+**Seeing** — information becoming legible through sustained relation to charged pain. Pain alone does not confer insight. Seeing is learned by neither fleeing the contact nor identifying with it.
+
+**The surges** — located, involuntary waves of resonance triggered by words, music, images, people, or records. They register magnitude before meaning and can be misinterpreted. Unlike the rattle, they do not build because information was ignored.
+
+**Bard function** — Eli's late development from reception into chosen creative transmission through rhythm, voice, image, writing, or story. Not a separate character class and not instant artistry; it grows from craft seeded before the breach.
 
 **Manual Override** — soul-level consciousness taking direct control, bypassing the NPC's automated responses — achieved not by fighting the programming but by consciously integrating charges through non-identified presence.
 
@@ -151,21 +169,25 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 ## Book 5 — characters, frame, and structure
 
-**Aedan / the Boy** — the protagonist; unnamed in Part I, named **Aedan** ("ember / little fire") only when Cuno speaks it in Ch 15. Albian-descended without knowing it; the conduit who inhabits the Seven. The granary stone warming under him (Ch 17) pays off the heat thread — the orphan as the kept ember carried through the dark.
+**Eli** — present-day protagonist: son of an English carrier-researcher mother and Bangladeshi father, raised across borders while they flee the suppression network. The Philippines gives him his Filipino martial foundation; Bali and other selected refuges give him specific communities rather than a generic global childhood. The attack ending the family flight kills his father, removes his mother, and leaves Eli with a persistent traumatic brain injury. A medical worker and escape network keep him alive. Years later, during a temporary engineered outbreak within a wider world war, Forest City becomes an accountable refuge. Eli voluntarily leaves it for one clue in newly reopened Melaka, where a local NDE opens the receiver filter fully. He does not know the trail's sequence or final destination and discovers Albion only late. Injury creates no power and its deficits persist. Eli is the first known person able to hold all Seven complete imprints while remaining himself.
 
-**The two registers** — how the cave works. **Stories shown** (myths/parables played in front of the boy — the Seven Pairs, the Activation, the War, **Adapa**) vs. **Real events lived** (historical lives he *inhabits*, body and all — the Seven). The two are interleaved, not segregated by Part. *(See memory: book5-stories-vs-real-events.)*
+**The present-day Healer** *(name/gender/location TBD)* — the medical worker who stabilizes Eli after the family attack and passes him into the escape network before they are separated. Re-enters in Volume II with conventional medical competence and a far deeper physical-healing aptitude than Eli's. Not Ila reborn. Cannot cure the engineered outbreak or reconstruct neural information erased and reorganized by Eli's chronic TBI.
 
-**The Seven** — seven bloodline ancestors the boy inhabits across Part III, one per chapter; not a council (they never meet) but one nervous system through deep time. Each recovers a capacity the programming was built to develop and glimpses a facet of reality. Their number is the **Seven Pairs Protocol**. Each refuses an offered father and develops a power instead.
+**Aedan / the Boy** — the Bronze-Age cave-boy, not Eli's soul-name or former incarnation. An early partial receiver/relay outside the Seven. The granary stone warming under him pays off the heat thread — the orphan as a kept ember that forwards fragments rather than possessing their sources.
+
+**The reception registers** — **stories shown** (myths/parables played before Aedan) versus **carrier records**. Aedan receives partial echoes; present-day Eli receives seven full embodied imprints. Neither mode is reincarnation, and access never transfers ownership of identity.
+
+**The Seven** — **Aru, Daskar, Ila, Tem, Anthea, Cuno, and Lovernios**: distinct historical carriers whose imprints survive in the resonance archive. They are not one bloodline, Eli's ancestors, or Eli's past lives. The Seven Pairs Protocol is a symbolic rhyme rather than a literal genealogy. Eli's maternal line explains receptivity; the Seven supply seven independent records and practices.
 
 **Adapa** — the book's tragic mirror and heart (Ch 9). Priest of **Eridu** who, warned by Enki, refuses the bread and water of life — too late realizing the warning *was* the trap. He has so internalized *"traitor-blood, submission deserved"* that he accepts his own **lock**. *Shown as parable, not inhabited:* the universal "before" picture the Seven each refuse. The boy is not Adapa — he sees what Adapa is, which is worse.
 
-**Anthea, the Singer of Frequencies** (Bronze Age Anatolia, ~1500 BCE, age 23) — sings stones soft and wounds closed; understands matter as a slow song met by the right pitch. Killed by the new patriarchal cults for "witchcraft"; her daughter **Lira** scatters west carrying the chord, one line reaching the Part I village.
+**Anthea, the Singer of Frequencies** (Bronze Age Anatolia, ~1500 BCE, age 23) — one of the Seven; sings stones soft and wounds closed. Killed by patriarchal cults for witchcraft; her daughter **Lira** scatters carrying the chord, which reaches Aedan's village through an undocumented chain of teaching, migration, and resonance. Anthea is not Wren's past self.
 
-**Cuno, the Bluestone Mover** (Stonehenge / Albion, ~2000 BCE, in his 70s) — not moving stones but tuning a planetary instrument: in the right geometry, many minds become one mind. *The structure is the antenna; the song is the message; the mind is the singer.* He speaks Aedan's name. **Derw** (16) is the youngest in his circle.
+**Cuno, the Bluestone Mover** (Stonehenge / Albion, ~2000 BCE, in his 70s) — one of the Seven; tunes a planetary instrument. Aedan's partial relay catches Cuno's firing and the name "Aedan" across the field; Cuno is not naming a future incarnation. **Derw** (16) is the youngest in his circle.
 
 **The Singing Village** — the Part I world before atomization: religion as song, no one above anyone, the gods (Ki, Enki) named but not feared. The throat-sounds the grandfather half-taught are the **lost sounds** the consciousness technologies run on. *What the orphan looks like before it invents a parent.*
 
-**The Modern Child** — recurs in three short beats (opening seed; waking signal against Adapa; full beat in Ch 18), mirroring Aedan's arc on the far end of the line. Deliberately unspecified — no name, city, or sex — so they remain the cave's forward reach into any reader. Inherits symptoms, not explanations.
+**The Modern Child** — optional coda echo. Deliberately unspecified so they remain the archive's forward reach into any reader. Receives symptoms without explanations, demonstrating that access is not confined to Eli's maternal line.
 
 **The developmental arc** — the series moves through three stages: **external cage** (the world is controlled) → **internal cage** (control works through me) → **the living network** (humanity was never separate from the living world). See `40_concepts.md`.
 

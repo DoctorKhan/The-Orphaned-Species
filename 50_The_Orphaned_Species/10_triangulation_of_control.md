@@ -44,7 +44,7 @@ flowchart TD
 **It's not "Good vs. Evil" — it's "Optimization vs. Resonance."**
 
 - The Antagonist (the Machiavellian) is optimizing the cage, making it cleaner, more efficient, and more comfortable. They believe they are doing the *right thing*.
-- The Protagonist (Aedan) is not a "hero" in the traditional sense. He is a **malfunction**. His "Living Way" practices are simply ways to stop being *optimized* — which makes him the most dangerous person in the world to the people managing the grid.
+- The Protagonist (Eli) is not a "hero" in the traditional sense. He is a **malfunction**: a receiver able to hold seven unrelated carrier-imprints without staying tuned to one controller. His practices are ways to stop being optimized.
 
 **It makes the "Lessons" functional, not preachy.**
 
@@ -58,7 +58,11 @@ How to *stage* the three layers in the manuscript so the reader watches them wea
 
 - **Ancient stream (Aru at Göbekli Tepe):** Show the *Machiavellian* logic being invented. The priests are "carving" the narrative of the *Qingu-guilt* to ensure the workforce feels too ashamed to revolt. It is cold, calculated, and terrifyingly *logical*.
 - **Middle stream (Anthea in the Bronze Age):** Show the *Anunnaki programming* misfiring. The people are trying to "feed the gods" (the provisioning instinct), but the gods are gone. The Machiavellian warlords realize they can *hijack* this instinct by stepping into the "Father" role. The people don't fight; they *submit*, because their hardware is literally built to look for a Master.
-- **Present stream (Aedan):** Show the *Living Way* in practice. Aedan doesn't have a Ziggurat or a Chariot. He has the *Lessons*. He uses them to spot the "Machiavellian" traps in his modern life — the corporate doublespeak, the "Social Game" of career advancement, the subtle ways he is being incentivized to look *up* for permission.
+- **Present stream (Eli):** Show the Living Way in practice under exile, surveillance, political files, and the psionic hunt. He uses the Lessons to distinguish help from capture and recovered knowledge from a new authority.
+- **Adventure stream (the living grid):** Let the physical journey uncover the mechanism in contested pieces. Abnormal growth reveals new lines; paired readings reveal broken positive and negative ends; buried stones distinguish conductor from interface; Cuno's lossy record finally reveals communication at the center. Crane possesses old maps and institutional access, but the network can form new routes. The conflict therefore becomes a race between optimized control of yesterday's infrastructure and collaborative perception of a living system that is changing now.
+- **War stream (the national psion programs):** Countries and aligned blocs operationalize the same installed vulnerabilities. Their teams locate signatures, invade perception, break coherence, and fight over routes and carriers. This is the control triangle turned into military doctrine: biology supplies the lever, statecraft organizes the team that pulls it, and Living-Way practice restores enough self-knowledge and relation to resist capture without requiring a stronger tyrant.
+
+The grid should never solve the material plot by magic. Piracy, borders, injury, war, surveillance, food, weather, and transport remain real constraints. Knowledge of a line can change a decision or open communication; it cannot make boats, armed pursuers, or consequences disappear.
 
 ## The thesis
 

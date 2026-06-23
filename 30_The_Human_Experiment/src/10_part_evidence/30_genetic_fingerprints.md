@@ -12,15 +12,17 @@ This code was the foundation—a basic lock waiting for future keys. It spread s
 
 *The comet streaked across the primordial sky, a messenger of life. It plunged into the ocean, and its icy heart dissolved, releasing its precious cargo. The code, a whisper of potential, began to weave itself into the fabric of this new world. The gardeners had planted their seed. Now, they would wait.*
 
-**Phase II: The Genesis Bottleneck (900,000 years ago)**
+**Phase II: The Genesis Bottleneck (~930,000-813,000 years ago)**
 
-Recent genetic research has confirmed what this framework predicted: a severe population bottleneck occurred approximately 900,000 years ago, reducing human ancestors to fewer than 1,280 breeding individuals for over 100,000 years[^1]. As detailed in Chapter 1, this near-extinction event was the second phase of the experiment. From the vast population of early hominids carrying the primordial receiver code, the creators selected and isolated the most promising genetic line. The narrative suggests this was not random catastrophe but surgical precision.
+Recent genetic research has proposed what this framework needs as its central hinge: a severe ancestral population bottleneck roughly **930,000 to 813,000 years ago**, reducing the breeding population to about **1,280 individuals** for more than 100,000 years[^1]. This is a model-based inference, not an excavated census, so the evidence-facing version should remain cautious. As detailed in Chapter 1, the mythological version reads this near-extinction/refuge event as the second phase of the experiment. From the vast population of early hominids carrying the primordial receiver code, the creators selected and isolated the most promising genetic line. The narrative suggests that a climate crisis and terrestrial refuge became, or was used as, surgical precision.
 
 Into this refined gene pool, they introduced sophisticated modifications: enhanced receiver sequences, consciousness preparation protocols, and the foundational genetic architecture that would make the final activation possible. Within this framework, this was the installation of the complex lock system that would define human potential.
 
 For these beings, time was a tool, not a constraint. Aided by advanced technologies that allowed them to operate across vast timescales, the millennia that passed on Earth were but moments in their grand design, allowing them to execute plans across geological ages.
 
-*The young hominid huddled with her tribe, shivering against the encroaching ice. They were the last ones. The others had vanished, taken by the cold, the hunger, the strange lights in the sky. She didn't know that she and her small band had been chosen, that they were the subjects of a grand experiment. She only knew that they had to survive.*
+*The young hominid huddled with her tribe, shivering against the encroaching ice. They were not in a starship or a temple of metal. They were in a refuge on Earth: mud at the water's edge, stone flakes underfoot, meat smoke in the air, children pressed against adult legs. The others had vanished, taken by cold, hunger, drought, and distance. She did not know that her small band had been chosen, or used. She only knew that they had to survive.*
+
+This is where the myth should give credit to **Prometheus**. Fire, cooking, warmth, and the hearth are not incidental technologies in this framework; they are the rebel-helper's gift, the mercy that lets a vulnerable line endure the refuge. In the Mesopotamian register, the same credit runs through **Enki and the Apkallu**.
 
 **Phase III: The Activation (70,000 years ago)**
 
@@ -30,9 +32,9 @@ The energy from this event activated the latent sequences through epigenetic mec
 
 The most significant activation occurred in regions like Human Accelerated Region 1 (HAR1), a regulatory RNA gene expressed in neurons of the developing human neocortex that shows accelerated evolution in the human lineage[^3]. Through epigenetic switching, the human brain was rewired, expanding in size and complexity at a rate that appears gradual but represents systematic activation of dormant potential. This was the birth of *Homo sapiens*—modern humans—a species not evolved through random mutation, but activated through coordinated epigenetic programming.
 
-This three-phase model explains the seemingly contradictory evidence in our genetic history and aligns with cutting-edge research that supports rather than contradicts this framework. The ancient bottleneck was not a near-extinction event but a selection and preparation phase. Only those lineages that had been properly prepared during the Genesis Bottleneck possessed the specific genetic architecture to successfully receive the activation signal 800,000 years later.
+This three-phase model offers a mythic reading of the seemingly contradictory evidence in our genetic history. The evidence-facing account can remain a near-extinction/refuge event; the framework reads that same crisis as a selection and preparation phase. Only those lineages that had been properly prepared during the Genesis Bottleneck possessed the specific genetic architecture to successfully receive the activation signal 800,000 years later.
 
-**Scientific Validation**: Recent genetic research has confirmed the timing and severity of the Genesis Bottleneck, while discoveries about epigenetic activation and hybrid fertility issues provide mechanisms that explain how this systematic modification could occur without leaving obvious traces in the fossil record.
+**Scientific Anchor, Mythic Reading**: Recent genetic research has proposed the timing and severity of the Genesis Bottleneck, while archaeology around and after the window supplies a terrestrial survival vocabulary: African refuges, water-margin footprints, Acheulean tools, butchery, fire and cooked fish in the Levantine corridor, and European cave evidence including cannibalized remains. The science anchors the crisis and the texture; the framework supplies the interpretation.
 
 **The Seven Pairs Protocol**: The Mesopotamian accounts of seven pairs of Adamu being created reflects a systematic approach to genetic engineering. These fourteen individuals represented different experimental combinations of divine genetics with various hominid lineages. Each pair was designed to test specific genetic modifications under different environmental conditions—a controlled experiment in consciousness enhancement across multiple populations.
 
@@ -62,7 +64,7 @@ Beyond the story of migrations and replacements, our DNA holds even deeper myste
 
 ## The 900,000-Year-Old Question
 
-In 2023, a study published in the journal *Science* revealed a startling fact: around 900,000 years ago, our ancestors faced a catastrophic population bottleneck. The number of breeding individuals plummeted to just 1,280, and this tiny population remained on the brink of extinction for over 100,000 years.
+In 2023, a study published in the journal *Science* proposed a startling possibility: around 900,000 years ago, our ancestors faced a catastrophic population bottleneck. The number of breeding individuals may have fallen to about 1,280, and this tiny population may have remained on the brink of extinction for more than 100,000 years.
 
 This was not a minor dip; it was a near-extinction event of staggering duration. To put it in perspective, the entire lineage that would eventually lead to *Homo sapiens*, Neanderthals, and Denisovans was reduced to a group the size of a small village.
 

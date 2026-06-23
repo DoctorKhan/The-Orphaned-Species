@@ -1,6 +1,6 @@
-# Boracay Opening Rewrite
+# Boracay Opening Rewrite — ARCHIVED
 
-*Working replacement for the old park/university opening. Canon assumptions: Eli is adopted and raised in the United States; biological mother English, tied to Emrys / Albion / suppressed research; biological father Bangladeshi, with living relatives and domestic records. The old lab/chair material can still enter after Bangladesh, but the book now opens with body-discipline and active root-search.*
+> **SUPERSEDED. Do not use for canon or continuity.** Eli is raised across borders by an English carrier-researcher mother and Bangladeshi father fleeing the suppression network. The Philippines supplies his Filipino martial foundation; a later family attack causes the persistent TBI. During a temporary engineered outbreak within a wider war, Forest City becomes an accountable refuge. The present story opens in newly reopened Melaka, where a local NDE (exact staging TBD) opens the Seven; Emrys converges afterward; the chair belongs to the Albion climax. This file is retained only as a prose quarry for training, sensory texture, and individual lines that can be transplanted after reconciliation.
 
 ---
 
