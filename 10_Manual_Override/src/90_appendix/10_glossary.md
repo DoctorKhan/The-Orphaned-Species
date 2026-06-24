@@ -8,19 +8,31 @@ The baseline state of awareness that exists before we project stories, meanings,
 
 **NPC (Non-Player Character) Consciousness**
 
-The automated, programmed thoughts, feelings, and behaviors that run much of human life. It operates on a probabilistic path through the **mental landscape**, reacting to triggers without genuine, conscious choice. This is a description of a mechanical pattern, not a judgment of a person.
+The body-brain machine operating without direct control by the conscious soul. Conditioning supplies its rules; deposited charges animate and steer those rules. It can keep embodied life functional and cycle through complex behavior without genuine choice. This is a description of an operating mode, not a judgment of a person.
+
+**Conditioning**
+
+The machine's inherited, learned, cultural, traumatic, and habitual rules. Conditioning determines how a charge is routed and expressed, but is not the charge itself. The same charge can activate different rules in different people.
 
 **Charge**
 
-An energetic pattern in the body-mind that triggers an automatic response. Charges are formed from past experiences and conditioning. In the "mental landscape" model, charges are points of energetic significance that either attract (positive charge) or repel (negative charge) your attention. They can be understood as un-integrated **Parts**.
+An impulse descending through the receiver and deposited into the embodied machine. Charges animate and steer conditioned rules in three directions: **positive** charge pulls toward, **negative** charge pushes away, and **neutral** charge continues the existing program without examination. Under autopilot these correspond functionally to the Buddhist three poisons: craving, aversion, and ignorance. A neutral charge is not the same as a completed or unbound charge.
+
+**Psi / Life-Energy Allocation**
+
+The bounded control-energy available to an embodied organism at a given time. The larger anti-entropic source and the local allocation are not identical. Automatic cycles use allocation to keep the machine running; conscious control also uses it. Suppression, forcing, identification, and contradictory commands use it inefficiently.
+
+**Samsara**
+
+The repeating operation of the machine under conditioning and charge: a rule is energized, behavior follows, consequences reinforce or add rules, and the cycle runs again. Manual Override interrupts samsara when the conscious soul controls the charge instead of allowing the rule to execute automatically.
 
 **Manual Override**
 
-The process by which soul-level consciousness takes direct control, bypassing the NPC's automated responses. This is achieved not by fighting the programming, but by consciously integrating charges through focused, non-identified presence.
+The process by which soul-level consciousness takes control of deposited charges instead of allowing conditioning to route them automatically. It uses psi allocation most efficiently through focused, non-identified presence rather than force.
 
 **Mental Landscape**
 
-A model for understanding the mind as a dynamic space filled with positive and negative "charges." Ordinary, wandering awareness is passively pulled and pushed between these charges. Agency is the skill of consciously navigating this landscape.
+A model for understanding the machine as a dynamic space of conditioning and three charges. Ordinary operation is pulled by positive charge, pushed by negative charge, or carried forward by neutral charge. Agency is the conscious control of that movement.
 
 **The Observer**
 
@@ -28,7 +40,7 @@ Not a fixed entity, but a relational process. It is the function of awareness th
 
 **Parts (Internal Family Systems)**
 
-A model for understanding the psyche as a collection of sub-personalities or "parts." In this book, **Charges** are often functionally equivalent to parts—they are energetic patterns with their own beliefs, feelings, and history. The Cosmic Rhythm (Identify, Relate, Integrate) is a method for working with these parts.
+A model for understanding the psyche as a collection of sub-personalities or "parts." In this book, a Part is better understood as a conditioned rule-cluster that can capture and route charges; it is not identical to the descending charge itself. The Cosmic Rhythm (Identify, Relate, Integrate) is a method for bringing these rule-clusters under conscious relationship.
 
 ## Advanced Concepts
 
@@ -52,7 +64,7 @@ The process of weaving the insights and capacities gained in practice into the f
 
 **Holding a Charge**
 
-The practice of keeping your attention on an active charge (a strong emotion, a desire, an aversion) without either acting on it or suppressing it. This is a core mechanism for integrating the charge and liberating the energy it contains.
+The practice of keeping conscious control present with a positive, negative, or neutral charge without executing or suppressing the conditioned rule it activates. This is a core mechanism for completing or unbinding the charge and interrupting its cycle.
 
 **Vector**
 

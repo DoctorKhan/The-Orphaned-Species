@@ -133,13 +133,19 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **The Unconstructed** — the baseline awareness beneath the stories and identities projected onto it; the silence under the noise. Meeting it is not a threat but a signal that an old story has run its course.
 
-**NPC (Non-Player Character) consciousness** — the automated, programmed thoughts and behaviors that run much of human life, reacting to triggers without genuine choice. A description of a mechanical pattern, not a judgment of a person. *(The biological substrate is the Anunnaki binary programming.)*
+**NPC (Non-Player Character) consciousness / the machine / the robot** — the body-brain autopilot operating without direct control by the conscious soul. Conditioning supplies its rules; deposited charges animate and steer those rules. A description of an operating mode, not a judgment of a person. *(The biological substrate includes the Anunnaki binary programming.)*
 
-**Charge** — an energetic pattern in the body-mind that triggers an automatic response; points in the **mental landscape** that attract or repel attention. Functionally equivalent to **Parts**.
+**Conditioning** — the machine's inherited, learned, cultural, traumatic, and habitual rules. Conditioning routes and acts on charges but is not itself a charge.
 
-**Samskara** — a charged impression held in the body-mind. In Eli's phenomenology, touching one can produce a serpent's rattle: contact with compressed information before he can interpret it.
+**The three charges** — impulses descending through the receiver and deposited into the embodied machine. **Positive** charge pulls toward; **negative** charge pushes away; **neutral** charge continues the existing program without examination. Under autopilot they correspond functionally to the Buddhist three poisons: craving/attachment, aversion/hatred, and ignorance/unconsciousness. The charges are animating directions, not moral substances.
 
-**The serpent's rattle** — somatic contact with something on another plane or with a samskara in a living body. It is not prophecy, warning, or a surge. When ignored, suppressed, or misidentified, its information accumulates as charge and pain; held in non-identified relation, it can unfold into seeing.
+**Psi / life-energy allocation** — the bounded control-energy available to an embodied organism at a given time. The larger anti-entropic source may remain available while local allocation and throughput are finite. Automatic cycles, conscious control, and especially conflict between them consume that allocation at different efficiencies.
+
+**Samsara / the cycle** — the robot repeatedly executing conditioned rules under charge until the conscious soul takes control of the charge. A completed or unbound charge no longer guarantees the old action, breaking that portion of the cycle.
+
+**Samskara** — a conditioned impression held in the body-mind: a durable rule, tendency, or trace rather than one of the three charges. In Eli's phenomenology, touching one can produce a serpent's rattle: contact with compressed information before he can interpret it. That contact deposits charge, which the samskara then tries to route through its established pattern.
+
+**The serpent's rattle** — somatic contact with something on another plane or with a samskara in a living body. It is not prophecy, warning, or a surge. The contact deposits charge. When Eli identifies with it, suppresses it, or lets conditioning execute it automatically, the charged rule-cycle repeats and becomes painful; held in non-identified relation, its compressed information can unfold into seeing.
 
 **Seeing** — information becoming legible through sustained relation to charged pain. Pain alone does not confer insight. Seeing is learned by neither fleeing the contact nor identifying with it.
 
@@ -147,15 +153,15 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **Bard function** — Eli's late development from reception into chosen creative transmission through rhythm, voice, image, writing, or story. Not a separate character class and not instant artistry; it grows from craft seeded before the breach.
 
-**Manual Override** — soul-level consciousness taking direct control, bypassing the NPC's automated responses — achieved not by fighting the programming but by consciously integrating charges through non-identified presence.
+**Manual Override** — soul-level consciousness taking control of deposited charges instead of allowing conditioning to route them automatically. It does not destroy the machine; it interrupts samsaric repetition and learns to use the available psi allocation efficiently.
 
-**Mental Landscape** — the mind modeled as a dynamic space of positive and negative charges; ordinary awareness is passively pulled between them, agency is the skill of navigating it consciously.
+**Mental Landscape** — the machine modeled as a dynamic space of conditioned rules and three charges; ordinary operation is pulled, pushed, or carried forward, while agency is conscious control of that movement.
 
 **The Observer** — not a fixed entity but a relational *process*: the function of awareness that opens a space between stimulus and response. The "Observer Trap" is mistaking this function for one's ultimate identity.
 
-**Parts (Internal Family Systems)** — the psyche as a collection of sub-personalities; charges are often equivalent to parts. The cosmic rhythm *Identify → Relate → Integrate* is the method for working with them.
+**Parts (Internal Family Systems)** — the psyche as a collection of sub-personalities or conditioned rule-clusters. A Part can capture and route a charge but is not identical to the descending charge. The cosmic rhythm *Identify → Relate → Integrate* is the method for working with these clusters.
 
-**Holding a charge** — keeping attention on an active charge (emotion, desire, aversion) without acting on it or suppressing it; the core mechanism for integrating it and freeing its energy.
+**Holding a charge** — keeping conscious control present with a positive, negative, or neutral charge without executing or suppressing the conditioned rule it activates; the core mechanism for completing or unbinding it.
 
 **Integration** — weaving practiced insight into everyday life; dissolving the boundary between "practice" and "real life," harmonizing inner Parts into a cohesive Self.
 

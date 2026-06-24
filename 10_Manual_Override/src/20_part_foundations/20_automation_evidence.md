@@ -157,9 +157,9 @@ These cases illustrate the central mystery: there seems to be something making m
 
 The automation evidence becomes even more compelling when we examine the underlying structure of how human consciousness operates. The patterns we've documented aren't just similar to computer programming—they reveal that consciousness itself operates through computational processes.
 
-**Binary Decision Architecture:**
-Notice how all human responses follow binary patterns:
-- Approach or avoid (positive/negative charge)
+**Automated Decision Architecture:**
+Notice how the robot combines a three-direction charge system with binary classifications:
+- Approach, avoid, or continue without examination (positive/negative/neutral charge)
 - Good or bad (value judgments)
 - True or false (belief systems)
 - Safe or dangerous (threat assessment)

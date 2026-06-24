@@ -25,17 +25,17 @@ Conversely, unused pathways weaken and eventually disappear, which explains why 
 
 This isn't metaphorical—neuroplasticity demonstrates that the brain operates as programmable hardware that can be consciously or unconsciously coded through experience.
 
-**The Charge-Neural Interface:**
+**The Conditioning-Charge Interface:**
 
-What neuroscience calls "neural pathways" correspond to what we might call charge patterns—energetic configurations that shape how consciousness flows through the nervous system. High-charge experiences create stronger neural imprints because emotional intensity literally burns patterns more deeply into the brain's structure. When charge patterns repeat consistently, they become automatic neural responses that fire without conscious input.
+What neuroscience calls neural pathways belongs primarily to the machine's **conditioning**, not to the descending charges themselves. Repetition and emotional intensity strengthen the rules by which the nervous system captures and expresses a charge. A charge supplies attraction, aversion, or unconscious continuation; the conditioned neural pathway supplies the learned response. Repeated execution makes that response easier to run without conscious input.
 
 **Schema Therapy Connection:**
-Psychology's **Schema Therapy** provides another lens for understanding this process. Schemas are deep-rooted patterns of thinking, feeling, and behaving that develop in childhood and continue throughout life. These schemas operate automatically and often unconsciously, creating what Schema Therapy calls "schema modes"—different states of being that get triggered by specific situations. This maps directly onto our charge pattern model:
-- **Early Maladaptive Schemas** = deeply embedded charge patterns from childhood
-- **Schema Modes** = activated charge states that take over consciousness
-- **Schema Healing** = conscious integration of charge patterns
+Psychology's **Schema Therapy** provides another lens for understanding this process. Schemas are deep-rooted patterns of thinking, feeling, and behaving that develop in childhood and continue throughout life. These schemas operate automatically and often unconsciously, creating what Schema Therapy calls "schema modes"—different states of being that get triggered by specific situations. This maps onto the distinction between conditioning and charge:
+- **Early Maladaptive Schemas** = deeply embedded conditioned rules from childhood
+- **Schema Modes** = rule-clusters activated when they capture a charge
+- **Schema Healing** = revising those rules while learning conscious control of the charge
 
-Charge conflicts create competing neural networks, which explains why people can feel torn between different impulses or beliefs. However, when charge conflicts are resolved—when the underlying energetic tension is released—new neural patterns can form that integrate previously conflicting elements.
+Conflicting conditioned rules can recruit the same or opposing charges into competing neural networks, which explains why people can feel torn between impulses or beliefs. When the charge is held consciously and the rules are revised, new neural patterns can integrate responses that previously fought one another.
 
 **The Programming Vulnerability:**
 
@@ -90,10 +90,10 @@ What feels like conscious decision-making is often just:
 - **Empathic resonance**: Automatic emotional mirroring of others
 
 **Energetic Plane Malleability:**
-- **Charge pattern formation**: How energetic responses become habitual
+- **Charge routing**: How conditioned rules turn deposited charges into habitual responses
 - **Frequency entrainment**: Automatic synchronization with environmental energies
 - **Energetic boundaries**: Learned patterns of energetic protection or openness
-- **Transmission susceptibility**: Vulnerability to others' charge patterns
+- **Transmission susceptibility**: Vulnerability to charges or rules carried through contact with others
 
 **Spiritual Plane Malleability:**
 - **Meaning-making patterns**: How significance is assigned to experiences
@@ -203,7 +203,7 @@ This interpolation process is so seamless that people genuinely believe they wer
 - **Intentional habit formation**: Deliberately creating beneficial automatic patterns
 - **Belief examination**: Regularly questioning and updating belief systems
 - **Attention training**: Developing conscious control over focus and awareness
-- **Charge cultivation**: Intentionally developing beneficial energetic patterns
+- **Charge control**: Learning to hold and direct positive, negative, and neutral charges without automatic execution
 - **Reality testing**: Regularly checking constructed realities against feedback
 
 **Protection from Manipulation:**
@@ -232,14 +232,14 @@ Emotions don't instantly appear and disappear—they have a natural persistence 
 
 Understanding dwell time reveals exactly how rumination loops trap you:
 
-1. **Initial Emotional Charge** - Something triggers an emotional response (stress, anger, sadness)
+1. **Initial Charge and Rule Activation** - A deposited charge energizes a conditioned emotional response (stress, anger, sadness)
 2. **Dwell Period** - The emotion persists in your system for a natural decay time
 3. **Biased Thinking** - During this dwell period, you're more likely to have thoughts that correlate with the emotion
-4. **Thought Reinforcement** - Negative thoughts create new emotional pulses
-5. **Extended Dwell Time** - New emotional charge resets the decay timer
+4. **Thought Reinforcement** - Correlated thoughts keep the conditioned rule energized and create new emotional pulses
+5. **Extended Dwell Time** - Re-energizing the charged rule resets the decay timer
 6. **Loop Continuation** - The cycle repeats, potentially indefinitely
 
-**The Key Insight:** Emotions naturally fade if not reinforced, but correlated thinking keeps refreshing the emotional charge, preventing natural decay.
+**The Key Insight:** Emotions naturally fade if not reinforced, but correlated thinking keeps the conditioned charge-cycle active and prevents natural decay.
 
 ### Why Simple Interruptions Work
 

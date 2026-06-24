@@ -24,7 +24,7 @@ These are developmental mechanisms rather than historical carriers, but every pr
 
 | Register | What happens | What goes wrong | What development makes possible |
 |---|---|---|---|
-| **Serpent's rattle** | Eli bumps into information on another plane or touches a samskara held in a body | he identifies with, suppresses, or ignores the contact; its charge accumulates into pain | relation lets the compressed information unfold as seeing |
+| **Serpent's rattle** | Eli bumps into information on another plane or touches a samskara held in a body; the contact deposits charge | he identifies with, suppresses, or automatically executes the conditioned rule, so the charged cycle repeats into pain | relation lets the compressed information unfold as seeing |
 | **Surge** | a word, sound, image, person, or record produces a located wave of resonance | magnitude is mistaken for truth, destiny, or instruction | discrimination separates signal-strength from interpretation |
 
 The rattle is not precognition. The surge is not released rattle-charge. The same character can develop through identification, rattle, charge, relation, seeing, surge-discrimination, and creative transmission. These stages overlap and regress under pressure.

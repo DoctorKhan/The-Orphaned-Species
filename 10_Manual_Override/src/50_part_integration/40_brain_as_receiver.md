@@ -14,14 +14,14 @@ From this perspective, the brain’s primary function is to *constrain* our perc
 
 The strongest evidence for the simulation hypothesis comes from examining how human consciousness actually operates. Consider these fundamental patterns:
 
-**Binary Processing Architecture:**
-Human cognition operates through binary classifications that mirror computational processes:
-- We respond to positive and negative charges (attraction/aversion)
+**Automated Processing Architecture:**
+Human cognition combines three-direction charge response with binary classifications that mirror computational processes:
+- The machine responds to positive, negative, and neutral charges (attraction, aversion, and unconscious continuation)
 - We classify everything as good/bad, true/false, safe/dangerous
 - Our nervous system runs on approach/avoid responses
 - Even individual neurons fire in binary on/off patterns
 
-This isn't metaphorical—it's the actual structure of how consciousness processes information. We are literally running binary operations like a computer.
+The nervous system uses many binary operations, but the charge model adds a third behavioral direction: continue the existing program without examination.
 
 **Programmable Hardware:**
 The brain's neuroplasticity demonstrates a programmable system:

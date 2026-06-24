@@ -238,6 +238,20 @@ The phrase **The Orphaned Species** has named several different scopes:
 
 When discussing publication, specify whether the phrase means the **Book 5 source directory**, the **novel trilogy**, or the **whole layered project**.
 
+## Phase VI — Charge, conditioning, and the conscious operator
+
+On June 23, 2026, the consciousness mechanics were reconciled across the master canon, *Manual Override*, and the novel reference documents. Earlier drafts often treated charges, conditioning, neural pathways, Parts, and emotional residue as interchangeable. The revised architecture separates them:
+
+- the body-brain is the machine or autopilot;
+- conditioning is its inherited and learned rule-set;
+- positive, negative, and neutral charges descend through the receiver and animate those rules;
+- psi or life-energy allocation is the locally bounded energy by which the conscious soul controls charges;
+- samsara is the robot's repetition of charged rules until conscious control interrupts the guaranteed cycle.
+
+The three charges now correspond functionally—but not as a claim about orthodox Buddhist metaphysics—to craving, aversion, and ignorance, the three poisons. Neutral charge means unconscious continuation and must not be confused with a completed or unbound charge. This revision also makes depletion locally real: the larger anti-entropic source may remain available while embodied allocation and throughput are finite, and inefficient control consumes more of that allocation.
+
+The governing canon is recorded in `00_MASTER_TIMELINE.md`; practical mechanics and terminology are developed in *Manual Override* and propagated into the novel's character and resonance documents.
+
 ## Current source-of-truth hierarchy
 
 When documents disagree, use this order:

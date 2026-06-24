@@ -50,8 +50,8 @@ This is one character's overlapping maturation, not a taxonomy of Seers, Bards, 
 
 1. **Identification / confusion.** Eli experiences carrier-memory, trauma, desire, grief, and bodily information as *me* or *mine*. This is his central problem.
 2. **The serpent's rattle / contact.** He brushes information on another plane or touches a samskara held in a body. It is contact, not warning, prophecy, or a surge.
-3. **Charge / pain.** Ignored or misidentified contact accumulates charge. The body becomes the place where refused information insists.
-4. **Relation.** He learns to remain with the charged sensation without obeying, suppressing, or becoming it.
+3. **Charge / pain.** Contact deposits charge into the embodied machine. Conditioning tries to route it through an old rule; repeated automatic execution, suppression, or identification turns the body into the place where refused information insists.
+4. **Relation.** He learns to take control of the charge without obeying, suppressing, or becoming it. Early control uses substantial psi allocation; practice makes it more efficient.
 5. **Seeing.** Information unfolds through that relation. Seeing is learned through metabolized pain; pain alone grants no wisdom.
 6. **Surge discrimination.** A surge is a distinct involuntary resonance to words, music, images, people, or records—felt magnitude before explanation. It does not accumulate like a rattle and is never self-validating.
 7. **Creation / transmission.** Eli eventually turns received pattern into something other people can encounter through rhythm, voice, image, writing, or story: the Bard function. Seed ordinary creative practice early so this is development, not a late transformation.

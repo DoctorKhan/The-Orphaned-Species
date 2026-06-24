@@ -17,16 +17,16 @@ Just as the dolphin represents external energy organizing water molecules into c
 
 ## Working with Energy Charges
 
-In practical terms, consciousness influences reality through what we experience as "charges"—patterns of attraction and aversion that shape our responses to life situations.
+In practical terms, consciousness influences embodied reality by using psi allocation to control deposited charges before conditioning converts them into automatic action.
 
 **Understanding Charges:**
-- Charges are energetic patterns that create automatic responses
-- They activate when triggered by specific situations or stimuli
-- They generate cravings (positive charges) and aversions (negative charges)
-- They operate below conscious awareness most of the time
+- Charges descend through the receiver and are deposited into the machine
+- Positive charge pulls, negative charge pushes, and neutral charge continues the current program without examination
+- Conditioning supplies the learned rules that capture, inhibit, amplify, and express those charges
+- Automatic response occurs when a rule executes under charge without direct control by the conscious soul
 
 **How Charges Influence Reality:**
-When charges activate, they:
+When conditioning acts on a charge, the combination can:
 - Shape your perception of what's possible
 - Influence your emotional responses
 - Direct your attention and focus
