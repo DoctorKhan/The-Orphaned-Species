@@ -42,6 +42,23 @@ MalleableMind / early Orphaned Species
 
 This diagram describes conceptual movement, not a single Git ancestry. `Universal-Book-Compiler` explicitly managed this repository and the individual books as directories or submodules. The relationships to `annunaki`, `living-way-knowledge`, and `Timeline` are inferred from dates and distinctive material that later appears here.
 
+## Sibling source map
+
+The local links below work in the shared Projects workspace. A GitHub link is included where the sibling has its own remote repository. Repositories without remotes remain local historical sources and should not be cited as publicly recoverable dependencies.
+
+| Source | Local entry point | Remote | Role and what may flow forward |
+|---|---|---|---|
+| **MalleableMind** | [README](../MalleableMind/README.md) · [early compiled book](../MalleableMind/dist/The_Orphaned_Species_Complete.md) | No distinct remote; its commits survive in this repository's older history | Direct manuscript precursor. Use for provenance and recovery, not current canon. |
+| **Universal Book Compiler** | [README](../Universal-Book-Compiler/README.md) · [series analysis](../Universal-Book-Compiler/trilogy.md) | [GitHub](https://github.com/DoctorKhan/Universal-Book-Compiler) | Publication/build history and early series architecture. Do not copy its generated output back into the source repository. |
+| **Books snapshot** | [Manual Override](../Books/Manual_Override/README.md) · [Human Experiment](../Books/The_Human_Experiment/README.md) · [Cosmic Game](../Books/The_Cosmic_Game/README.md) | None; not a Git repository | Recovery snapshot for old titles, PDFs, and compiled states. Never treat it as current source. |
+| **Myths** | [README](../Myths/README.md) · [Avatar's Journey](../Myths/Avatar%20Journey.md) · [Pilgrimage Network](../Myths/Pilgrimage%20Network.md) | [GitHub](https://github.com/DoctorKhan/Myths) | Structural ancestry: Wisdom/Experience/Principles became a revelation test; Body/Family/World became the Three Circles. Use the architecture, not the proposed universal religion as an in-story institution. |
+| **annunaki / Sumerian Rebirth** | [README](../annunaki/README.md) · [game overview](../annunaki/overview.md) | None currently | Early game/adaptation prototype. Its sages, lost technologies, Tree of Life, and stone-circle motifs already reached the cosmology. Preserve remaining mechanics for a possible game adaptation rather than importing progression systems into the novel. |
+| **Timeline** | [master notebook](../Timeline/timeline.md) · [myth tradition](../Timeline/myth_tradition.md) · [Adapa](../Timeline/story_adapa.md) | None currently | Primary cosmology laboratory behind the dragons, Two Trees, grid, resets, Albion, and Adapa material. Ideas enter canon only after reconciliation in `00_MASTER_TIMELINE.md`. |
+| **Living Way Knowledge** | [README](../living-way-knowledge/README.md) · [Living Way](../living-way-knowledge/The_Living_Way.md) · [Living Architecture](../living-way-knowledge/The_Living_Architecture.md) · [Living Suttas](../living-way-knowledge/The_Living_Suttas.md) | [GitHub](https://github.com/DoctorKhan/living-way-knowledge) | Practical and ethical counter-current. Its practices and conduct belong across all three novel volumes; its full cross-tradition theology remains companion material. |
+| **Living Way site/app** | [site](../living-way-site/README.md) · [app](../living-way-app/README.md) | Separate consumer repositories | Publication and product surfaces. They consume Living Way knowledge but do not define novel canon. |
+
+The governing dependency direction is **sibling laboratory -> deliberate reconciliation here -> novel or companion**. It must never reverse into silent bulk copying from an older snapshot.
+
 ## Phase 0 — Early motifs and the single-book precursor
 
 ### March 2025 — `../annunaki`

@@ -175,6 +175,26 @@ The exact number of volumes remains open, but the current material naturally for
 | **II — Descent** | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
 | **III — Choice** | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and makes monopoly less viable without claiming the war is over |
 
+### The Living Way across the trilogy — LOCKED
+
+The Living Way is the ethical and practical counter-current of the whole trilogy. It must be **dramatized as conduct before it is named as a framework**. The novel should not stop for a universal-religion lecture, quote whole companion texts, or imply that one new creed replaces all prior traditions. Characters encounter practices through particular people, places, needs, and consequences. The complete cross-tradition synthesis remains in Layer 2, especially `Lessons_of_the_Living_Way.md`, *The Native Road*, and the separate `living-way-knowledge` library.
+
+| Volume | Living Way movement | Lessons foregrounded | Required dramatic embodiment |
+|---|---|---|---|
+| **I — Shattering** | **Return to the body and distinguish self from weather.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to remain himself during the Seven's flood. Forest City demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
+| **II — Descent** | **Move from self-regulation into relation, care, and limits.** Practices become recognizable across cultures without becoming interchangeable. | 1: be true, not right; 4: kindness when hard; 10: stillness and listening; 11: forgive without rehiring harm; 12: tend living things | The healer's consent and refusal establish that service is not conscription. Eli learns from breath, touch, sound, plant intelligence, and the Seven without claiming mastery or cultural ownership. Conflicting witnesses force truth-seeking over doctrinal certainty. |
+| **III — Choice** | **Release possession and transmit without founding another cage.** The Way becomes political and generational. | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Eli frees his mother by surrendering reunion, loves Wren without destiny or ownership, refuses both Crane's throne and annihilation, and distributes practices so no institution or bloodline can monopolize them. The final coalition models accountable coordination without permanent command. |
+
+The trilogy therefore performs a single maturation:
+
+> **Volume I:** remain yourself.
+>
+> **Volume II:** remain yourself in relationship.
+>
+> **Volume III:** give what you learned without owning the people who receive it.
+
+This is also the publishing boundary. The novel gives readers **experience and proof through consequence**. The companion material gives them explicit exercises, comparative theology, and a repeatable path. If a Living Way passage does not create a choice, cost, relationship change, or embodied practice in the scene, it belongs in the companion layer rather than the novel.
+
 ### Volume I — Shattering
 
 **Dramatic question:** Can Eli remain himself long enough to decide whom to trust?
