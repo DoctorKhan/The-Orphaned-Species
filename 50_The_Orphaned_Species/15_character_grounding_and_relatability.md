@@ -62,9 +62,26 @@ These stages overlap. Eli can have an early surge before he can interpret one, a
 
 Eli has real but limited physical healing. With contact, attention, and effort he may slow bleeding, close a small wound, reduce swelling, ease a burn or bruise, support a minor fracture, or stabilize someone until ordinary treatment is possible. It is inconsistent, exhausting, and medically bounded.
 
-The far stronger healer is the medical worker who stabilizes Eli after the attack ending his family's flight and passes him into the escape network. Their practical medical competence precedes the gift. The attack exposes them to the suppression apparatus; they and Eli are separated, then meet again when two independent clue trails cross in Volume II. Neither has been knowingly traveling toward the other. Over time the healer can sustain deep repair of severe tissue injury, complicated fractures, and organ damage. They are not Ila reborn, cannot psionically cure the engineered outbreak, and cannot restore information destroyed by Eli's chronic TBI. Ila's record supplies language and comparison, not identity or instant skill.
+The far stronger healer is the male medical worker who stabilizes Eli after the attack ending his family's flight and passes him into the escape network. His practical medical competence precedes the gift. The attack exposes him to the suppression apparatus; he and Eli are separated, then meet again when two independent clue trails cross in Volume II. Neither has been knowingly traveling toward the other. Over time the healer can sustain deep repair of severe tissue injury, complicated fractures, and organ damage. He is not Ila reborn, cannot psionically cure the engineered outbreak, and cannot restore information destroyed by Eli's chronic TBI. Ila's record supplies language and comparison, not identity or instant skill.
 
 This distribution protects the collective thesis: Eli has unusual bandwidth across many registers, but another person has far greater depth in the body. The healer requires an independent want, relationships, moral pressure, and choices that do not orbit Eli.
+
+### The healer's deification pressure
+
+The healer's gift creates a social danger, not a coronation. After a healing that exceeds ordinary medicine, he tells the healed person, **"Don't tell anyone."** The request is practical: publicity exposes patients, the escape network, and the healer himself; it also summons more need than one body can answer. The witness tells anyway. A true event becomes testimony, testimony becomes rumor, and rumor begins manufacturing a god.
+
+The progression must remain human-scale:
+
+1. gratitude and frightened secrecy;
+2. witnesses arriving with people he cannot all treat;
+3. stories exaggerating what happened and erasing the ordinary medicine around it;
+4. followers treating access to his body as a public right;
+5. institutions offering protection in exchange for registration, study, or service;
+6. anger, accusations, or violence when he sets a limit, fails, or chooses triage.
+
+When someone asks whether he is a son of a god, he answers, **"No. I am the son of a man."** The line rejects divine blood, chosen caste, and exemption from ordinary accountability. If later followers retell *a son of a man* as *the Son of Man*, the mutation should be legible as the exact myth-making process the trilogy is criticizing, not evidence that he secretly is Jesus or a reincarnation.
+
+His arc passes through **kneel → cage → burn** and survives only when people accept the harder category: an extraordinary human neighbor. He can heal, refuse, fail, become exhausted, be wrong, and remain responsible for his conduct without owing his body to everyone who needs him. That acceptance is one of the concrete proofs of Volume III's coexistence victory.
 
 Their human conflict is **care versus conscription**. They cope with grief by making themself useful, then discover that a stronger healing gift makes every faction and frightened community treat their body as public infrastructure. They must learn that triage, consent, rest, and refusal are part of ethical healing. Their deepest scene should require a defensible *no*, not a larger miracle.
 

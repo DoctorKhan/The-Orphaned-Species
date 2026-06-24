@@ -1,6 +1,6 @@
 # Book 50 — Story Architecture
 
-> **Status:** working structural synthesis based on the current canon in `00_NARRATIVE_STRUCTURE.md`, `00_outline.md`, and the Book 50 concept files. This document organizes existing material into a dramatic structure. It does not silently settle open questions such as the exact Melaka accident, country/bloc names, the healer's identity, or the final volume count.
+> **Status:** working structural synthesis based on the current canon in `00_NARRATIVE_STRUCTURE.md`, `00_outline.md`, and the Book 50 concept files. This document organizes existing material into a dramatic structure. It does not silently settle open questions such as the exact Melaka accident, country/bloc names, the healer's name/location, or the final volume count.
 
 ## 1. The governing story
 
@@ -120,7 +120,7 @@ The story needs recurring relationships strong enough to carry the cosmology.
 | **Eli** | Receiver, clue-follower, moral decision-maker | Hold all Seven without permanent capture | Wants his mother badly enough to rationalize weak clues and dangerous risks |
 | **Wren** | Survivor, operational partner, eventual beloved | Read people, routes, manipulation, and immediate danger | Must stop treating intimacy as either a weapon or trap; needs a goal independent of Eli |
 | **Emrys** | Researcher, incomplete guide, anti-father | Measure and correlate what Eli only feels | Mistakes map for territory; must make a serious error and relinquish authority |
-| **The healer** | Embodied medical conscience | Perform deeper physical repair and judge bodily cost | Must refuse conscription by factions, communities, and eventually Eli |
+| **The healer** | Embodied medical conscience and deification test | Perform deeper physical repair, judge bodily cost, and remain human under worship | Must refuse conscription by factions, communities, and eventually Eli; public testimony drives him through kneel → cage → burn pressure |
 | **Crane** | Ideological antagonist and organizer | Turn institutions, fear, and genuine danger into durable control | Must demonstrate why his policy is persuasive, not merely cruel |
 | **Recurring rival psion team** | Field-level adversarial fellowship | Coordinate attack and defense better than the protagonists initially can | Members need loyalty, fear, disagreement, and at least one choice that complicates simple enmity |
 | **Local allies** | Keep places alive beyond the protagonist | Supply agricultural, maritime, medical, linguistic, historical, or custodial knowledge | Their needs may conflict with preserving the clue or helping Eli |
@@ -297,6 +297,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 - Eli and the healer meet because independent clue chains cross.
 - The healer refuses to become Eli's cure or a faction's resource.
+- After an extraordinary but medically grounded healing is witnessed, the healer tells the patient, "Don't tell anyone." The request protects the patient, the route, and his finite body; the witness eventually tells.
 - Eli, Wren, Emrys, and the healer each confront a different family-role trap: child seeking a parent, lover claiming destiny, teacher becoming father, caregiver made infinitely responsible.
 - Tem's record introduces distributed psionic contact and broken communication routes.
 - Wren's independent objective begins to conflict openly with Eli's search.
@@ -320,6 +321,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 - The protagonists reconstruct stone deflection under physical and psionic attack.
 - Emrys's serious error exposes the group or misidentifies the node.
 - A crisis forces Eli to protect civilians or companions rather than chase Emrys's captors.
+- The first distorted healing stories travel farther than the healer does, attracting desperate families, opportunists, and institutional attention ahead of Volume III.
 
 **Climax cost:** Emrys is taken while Eli refuses to sacrifice others for the pursuit.
 
@@ -336,6 +338,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 - European nodes answer inconsistently because lines have broken and reformed.
 - The recurring rival team becomes temporarily useful against another faction.
 - Competing states, firms, and factions each claim the right to own carriers for public safety, exposing civilization as rival occupants of the same vacant god-office.
+- Pilgrims and media fragments begin treating the healer as divine proof. Asked whether he is a son of a god, he answers, "No. I am the son of a man." Some listeners later turn the refusal into the title "Son of Man," demonstrating myth forming against its subject's will.
 - Cuno's geometry, Derw's fragments, and the mother's research begin to agree.
 - Lovernios's record uses plant growth as a living map.
 - Eli and Wren make a present-tense commitment not justified by destiny.
@@ -357,7 +360,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 - Several factions converge with incompatible aims: control, destruction, nationalization, profit, rescue, or liberation.
 - Their vocabularies differ, but each demands the old offering—body, obedience, surplus, belief, or sacrifice upward to an authority that claims to stand between humanity and danger.
 - The protagonists hold collective coherence without adopting permanent command hierarchy.
-- The healer keeps bodies alive but refuses impossible demands.
+- The healer keeps bodies alive but refuses impossible demands. The crowd and coalition must decide whether his refusal makes him a fraud, a blasphemer, public property, or an extraordinary man entitled to limits.
 - Wren makes an indispensable choice based on her own objective.
 - Eli reaches his mother and learns that reunion prolongs her tether.
 - Crane offers the throne in the language of responsibility and civilian safety.
@@ -393,14 +396,16 @@ Each revelation must change a decision. Do not deliver two major cosmological an
 | 5 | Crop formations are new lines, not imposed messages | Volume I climax | Protecting the living field matters more than possessing a symbol |
 | 6 | The Seven were separate people | Volume I midpoint/end | Eli stops treating their lives as his identity |
 | 7 | Stones route rather than generate energy | Volume II | Buried and intact sites acquire different tactical meanings |
-| 8 | Historical factions weaponized the same human vulnerabilities | Volume II | Eli stops seeking a morally pure ancestral authority |
-| 9 | His mother is dead in body and tethered somewhere west | Volume II midpoint | Search becomes release rather than rescue fantasy |
-| 10 | A circle center permits communication | Volume II end / Volume III | Factions converge on operational nodes |
-| 11 | Modern technologies have been external rehearsals of capacities now returning in living beings | Volume III early | The group repurposes instruments from detection and classification toward translation, consent, and coordination |
-| 12 | The relit grid uses tethered souls | Volume III | Activating the machine becomes morally intolerable |
-| 13 | His mother's hope of reunion is her tether | Volume III | Eli must give up the thing he wanted from page one |
-| 14 | He could control the amplifier | Volume III climax | Refusal becomes meaningful rather than symbolic |
-| 15 | Dangerous conduct can be constrained without owning the being who carries the capacity | Volume III climax/resolution | The coalition chooses reciprocal accountability over registration, conscription, worship, or extermination |
+| 8 | A witnessed healing exceeds ordinary expectation; the healer asks for secrecy | Volume II | Protecting his identity and finite capacity becomes a route constraint, not a humility performance |
+| 9 | Historical factions weaponized the same human vulnerabilities | Volume II | Eli stops seeking a morally pure ancestral authority |
+| 10 | His mother is dead in body and tethered somewhere west | Volume II midpoint | Search becomes release rather than rescue fantasy |
+| 11 | A circle center permits communication | Volume II end / Volume III | Factions converge on operational nodes |
+| 12 | Modern technologies have been external rehearsals of capacities now returning in living beings | Volume III early | The group repurposes instruments from detection and classification toward translation, consent, and coordination |
+| 13 | The healer's rejection of divine sonship is already being converted into a divine title | Volume III | The group understands that testimony can rebuild religion against the subject's will; coexistence must include resisting deification |
+| 14 | The relit grid uses tethered souls | Volume III | Activating the machine becomes morally intolerable |
+| 15 | His mother's hope of reunion is her tether | Volume III | Eli must give up the thing he wanted from page one |
+| 16 | He could control the amplifier | Volume III climax | Refusal becomes meaningful rather than symbolic |
+| 17 | Dangerous conduct can be constrained without owning the being who carries the capacity | Volume III climax/resolution | The coalition chooses reciprocal accountability over registration, conscription, worship, or extermination |
 
 Terms such as Apkallu, Nephilim, Nephilot, Lullu, Qingu, and Umannu should enter only where the narrative must distinguish particular historical actors. Role first; proper noun second.
 

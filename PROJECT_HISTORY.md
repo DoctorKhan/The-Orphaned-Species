@@ -268,6 +268,14 @@ This produces a plot-governing pattern: telecommunications precede telepathy; re
 
 The species-level success condition is now explicit: humans must be able to live beside magical, evolved, or non-human beings without worshipping, exterminating, owning, conscripting, or monetizing them. Such beings remain accountable for harmful conduct; coexistence does not mean impunity. This is locked as the positive victory of Volume III. The final coalition must outlast the emergency and become durable local proof of shared ordinary life, even while the wider world remains undecided.
 
+## Phase IX — The healer becomes the deification test
+
+On June 23, 2026, the present-day healer was fixed as male and given an unwanted deification arc spanning Volumes II and III. After a witnessed healing, he asks the patient not to tell anyone for practical reasons: patient privacy, route security, surveillance risk, and his finite ability to answer need. The witness tells; testimony becomes rumor, pilgrimage, entitlement, and institutional interest.
+
+Asked whether he is a son of a god, the healer answers, "No. I am the son of a man." Later retelling may convert *a son of a man* into the title *the Son of Man*, making myth formation visible as a process acting against the subject's refusal. The arc moves through all three immature responses to power: kneeling to him, attempting to cage and conscript him, then threatening to burn the fraud or blasphemer when he refuses or fails.
+
+His survival as a limited, fallible, accountable human neighbor—not a god, public utility, or target—is now one of the required proofs of Volume III's coexistence victory. His exact name and location remain open.
+
 ## Current source-of-truth hierarchy
 
 When documents disagree, use this order:
