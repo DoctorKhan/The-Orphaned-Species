@@ -132,7 +132,7 @@ This builds your capacity to work with all three charges - positive, negative, a
 
 ## The Three Circles: An Empirical Test for Genuine Development
 
-How do you know your practice is real? Calm can be counterfeited. Spiritual bypassing, dissociation, and a well-managed performance of serenity can all *look* like development from the inside — which is exactly where you can't trust your own report. You need a test that can't be faked from within, and there is one: stop watching how calm you feel and start watching how stress *moves* through three widening circles of your life — the **body**, your **relationships**, and the **world**.
+How do you know your practice is real? Calm can be counterfeited. Spiritual bypassing, dissociation, and a well-managed performance of serenity can all *look* like development from the inside — which is exactly where you can't trust your own report. You need a test that can't be faked from within, and there is one: stop watching how calm you feel and start watching how stress *moves* through three widening circles of your life — **Body**, **Family**, and **Civilization**. Family includes intimate relationship and community; Civilization includes institutions and the wider world.
 
 ### The one law underneath it
 
@@ -154,9 +154,9 @@ The middle circle: the people closest to you. Stress that isn't dissolved in the
 - **Counterfeit:** a private calm bought at your relationships' expense — or a "peace" you keep only by withdrawing from anyone who tests it.
 - **Watch for:** warmer relationships, less recurring drama, the capacity to support others without emptying yourself, conflict that resolves instead of looping.
 
-### Circle 3 — The World
+### Circle 3 — Civilization & the World
 
-The outer circle: how you meet the larger world — society, civilization, the problems bigger than your own life. Stress unheld in body or relationship finally distorts this.
+The outer circle: how you meet civilization and the larger world — institutions, society, and problems bigger than your own life. Stress unheld in body or relationship finally distorts this.
 
 - **Genuine:** engagement becomes effective and sustainable; service arises without burnout and without righteousness.
 - **Counterfeit:** you either flee the world's concerns entirely, or you over-engage anxiously and generate more friction than you resolve.
@@ -164,13 +164,13 @@ The outer circle: how you meet the larger world — society, civilization, the p
 
 ### Why the circles can't be gamed
 
-You cannot quarantine development to one circle. A calm that costs you your relationships is not calm; a serenity that requires fleeing the world is just a smaller cage. This is what makes the Three Circles a lie-detector for your own path: **a counterfeit awakening always betrays itself one circle out.** Suppressed stress that doesn't show on your face shows in your marriage; what doesn't show in your marriage shows in how you meet the world. Genuine practice, by contrast, appears as **coherence across all three at once** — body, relationships, and world easing *together*, because a single cooling influence is moving through every ring.
+You cannot quarantine development to one circle. A calm that costs you your relationships is not calm; a serenity that requires fleeing the world is just a smaller cage. This is what makes the Three Circles a lie-detector for your own path: **a counterfeit awakening always betrays itself one circle out.** Suppressed stress that doesn't show on your face shows in your marriage; what doesn't show in your marriage shows in how you meet the world. Genuine practice, by contrast, appears as **coherence across all three at once** — Body, Family, and Civilization easing *together*, because a single cooling influence is moving through every ring.
 
 ### A weekly check
 
 - **Body:** Am I genuinely more energized, or am I suppressing symptoms?
-- **Relationships:** Are my bonds warming, or am I just avoiding the hard contact?
-- **World:** Is my engagement more effective, or am I either withdrawing or growing more reactive?
+- **Family:** Are my intimate and community bonds warming, or am I just avoiding the hard contact?
+- **Civilization:** Is my engagement with institutions and the wider world more effective, or am I either withdrawing or growing more reactive?
 
 **Signs of leakage (the counterfeit):** calm with worsening health; a peaceful manner alongside rising conflict or isolation; spiritual insight with falling real-world effectiveness; talk of transcendence with growing judgment of the "less evolved."
 

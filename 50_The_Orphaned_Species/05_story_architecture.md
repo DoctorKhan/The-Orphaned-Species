@@ -169,11 +169,31 @@ Forest City foreshadows this answer. The final coalition must enact it under att
 
 The exact number of volumes remains open, but the current material naturally forms three dramatic movements.
 
-| Volume | Internal movement | External movement | Ending change |
+| Volume | Circle and inherited pitfall | Internal movement | External movement | Ending change |
+|---|---|---|---|---|
+| **I — Shattering** | **Body:** the worker-body mistakes usefulness, obedience, endurance, and charged reaction for identity | Confusion → first differentiation | Melaka and maritime Asia → South Asia | Eli knows the Seven are separate people and voluntarily follows the next clue |
+| **II — Descent** | **Family:** the god/worker hierarchy reappears as ownership, service-without-limit, father-rule, reproductive control, and love treated as debt | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
+| **III — Choice** | **Civilization:** temple, state, army, market, and institution occupy the gods' vacant office and keep collecting obedience, bodies, tribute, and belief | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and makes monopoly less viable without claiming the war is over |
+
+### The Three Circles as civilizational excavation — LOCKED
+
+The Three Circles are not only a test of whether practice radiates outward. They are the trilogy's method for uncovering **why civilization repeatedly rebuilds the absent gods' order**.
+
+The embodied gods and their functioning supervisory system are gone. Some spirits may persist on other planes and factions may still listen to them, but no god remains physically present as the legitimate recipient of human labor, tribute, reproduction, obedience, or worship. The dangerous fact is that many instincts tuned or exploited under that order still run. Human rulers and institutions can therefore inherit the empty god-role without understanding where it came from.
+
+| Circle | Instinct or adaptation formed under the gods | Pitfall after the gods are gone | What the novel must dramatize |
 |---|---|---|---|
-| **I — Shattering** | Confusion → first differentiation | Melaka and maritime Asia → South Asia | Eli knows the Seven are separate people and voluntarily follows the next clue |
-| **II — Descent** | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
-| **III — Choice** | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and makes monopoly less viable without claiming the war is over |
+| **Body** | Work, endure, provision upward, obey the stronger signal, earn safety through usefulness, suppress anomalous perception | The person treats the body as equipment owned by employer, state, family, mission, or ideal; exhaustion becomes virtue and automatic charge becomes identity | Eli's TBI, hunger, panic, sleep, touch-aversion, and psi limits must alter decisions. He has to stop offering competence as the price of care. The healer's body likewise cannot be public property. |
+| **Family** | Seek a superior protector, organize descent through approved fathers, compete for selection, equate provision with love, sacrifice the lower member for the household's survival | Parent becomes miniature god; partner becomes possession or resource; child becomes legacy; care becomes debt; gender and generation become command hierarchies | Eli must distinguish his mother from the role of saving mother, Wren from destiny, Emrys from father, and the healer's care from obligation. Historical households must show both the transmission of life and the first place domination learns to call itself love. |
+| **Civilization** | Feed the temple, surrender surplus, accept chosen intermediaries, mobilize for divine war, punish the anomalous, wait for command from above | Sacrifice becomes taxation without reciprocity; priesthood becomes bureaucracy; divine selection becomes caste and credential; holy war becomes permanent mobilization; dead infrastructure becomes sacred | Each corridor should expose one surviving institutional form, not deliver a lecture. By Albion the reader should recognize the psion registry, national programs, corporate extraction, Crane's paternal management, and the amplifier itself as modern claimants to the vacant god-office. |
+
+This is not a claim that all instinct, family, or civilization is corrupt or alien-made. Attachment, reciprocity, protection, play, curiosity, kinship, and cooperation also belong to the living human animal. The drama comes from distinguishing those capacities from the installed or captured behaviors that route life upward. The alternative is not isolation or primitivism; it is adult coordination without an owner.
+
+Every volume must therefore contain the same three-beat proof at its proper scale:
+
+1. a historical imprint shows the behavior while a god-administered order still gives it a function;
+2. a present institution exploits the surviving behavior after its original recipient is gone;
+3. Eli or another character pays a real cost to choose relationship and accountability instead of automatic obedience.
 
 ### The Living Way across the trilogy — LOCKED
 
@@ -210,6 +230,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 - Rival psion teams collide around a carrier, route, or record.
 - A concrete near-death event opens Eli's already damaged receiver filter.
 - The Seven arrive as identity catastrophe.
+- Eli's first error is bodily: he treats sleep, food, pain, panic, and neurological limits as obstacles to the mission and tries to earn protection by remaining useful.
 - Wren and Emrys converge for different reasons; neither has the map.
 
 **Act turn:** Eli cannot safely return to Forest City without exposing it. He chooses to test the next clue.
@@ -222,6 +243,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 - Bali or another carefully chosen agricultural return makes abnormal growth visible through living local expertise.
 - Eli begins distinguishing trauma, TBI symptoms, rattle-contact, surges, and carrier memory.
 - Quiet scenes establish food, sleep, humor, irritation, and the cost of depending on others.
+- A present authority offers safety in exchange for bodily legibility—registration, examination, labor, data, or command—revealing the worker-body bargain in modern form.
 
 **Midpoint:** Eli receives convincing evidence that at least one of the Seven was a separate historical person rather than his former self, fantasy, or inherited ancestor-memory.
 
@@ -247,6 +269,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 - Eli and the healer meet because independent clue chains cross.
 - The healer refuses to become Eli's cure or a faction's resource.
+- Eli, Wren, Emrys, and the healer each confront a different family-role trap: child seeking a parent, lover claiming destiny, teacher becoming father, caregiver made infinitely responsible.
 - Tem's record introduces distributed psionic contact and broken communication routes.
 - Wren's independent objective begins to conflict openly with Eli's search.
 - The national psionic war becomes visible as policy, conscription, asylum, and desertion—not merely attacks.
@@ -254,6 +277,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 #### Act II — The old wound
 
 - Persian Gulf and Mesopotamian traces bring the Adapa story and Qingu lie into human-scale scenes.
+- Historical households show the control order moving inward: provision becomes proof of love, approved fathers own descent, and sacrifice of the lower member is renamed duty.
 - Introduce historical names only when evidence forces a distinction.
 - The group learns that built interfaces and natural conductors are not the same.
 - Aru and Daskar disagree about whether the instrument can be redeemed.
@@ -283,6 +307,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 - European nodes answer inconsistently because lines have broken and reformed.
 - The recurring rival team becomes temporarily useful against another faction.
+- Competing states, firms, and factions each claim the right to own carriers for public safety, exposing civilization as rival occupants of the same vacant god-office.
 - Cuno's geometry, Derw's fragments, and the mother's research begin to agree.
 - Lovernios's record uses plant growth as a living map.
 - Eli and Wren make a present-tense commitment not justified by destiny.
@@ -302,6 +327,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 #### Act III — Release
 
 - Several factions converge with incompatible aims: control, destruction, nationalization, profit, rescue, or liberation.
+- Their vocabularies differ, but each demands the old offering—body, obedience, surplus, belief, or sacrifice upward to an authority that claims to stand between humanity and danger.
 - The protagonists hold collective coherence without adopting permanent command hierarchy.
 - The healer keeps bodies alive but refuses impossible demands.
 - Wren makes an indispensable choice based on her own objective.

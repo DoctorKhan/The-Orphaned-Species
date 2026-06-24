@@ -72,6 +72,8 @@
 
 **The provisioning instinct** — ritual sacrifice and crop-tribute (the seed of taxation), burned in as *instinct, not policy*. After the Abandonment the drive to feed-and-pay an authority above keeps firing into a vacuum and **escalates** (toward human sacrifice, ruinous taxation), manufacturing the invented **father-god**.
 
+**The Three Circles** — **Body, Family, Civilization**: both a test of genuine development and the trilogy's widening diagnosis. The Body reveals worker-instinct and automatic charge; the Family reveals the god/worker hierarchy reproduced through care, descent, debt, and possession; Civilization reveals temples, states, armies, markets, and institutions inheriting the gods' vacant office. The embodied gods and their operating order are gone, but behaviors tuned or exploited under them continue until consciously distinguished from living reciprocity.
+
 **The father-god pattern** — religion, left to run, tends to collapse into the same shape: a father above, children who must submit. The orphan's invented parent. The Seven each refuse it. *"Find a father, kneel"* is the regression the book tracks era by era.
 
 **The Zoning Model** — the sensory/spatial grammar of the world, encoded but never named in the prose:

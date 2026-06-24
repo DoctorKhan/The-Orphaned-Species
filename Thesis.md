@@ -21,6 +21,8 @@ Fear gives a species exactly two moves, and we have spent the entire timeline ru
 
 These are the same fear pointed in opposite directions. **A true understanding of what we are ends both at once** — there is nothing left above to kneel to, and nothing ahead to fear into ash. That is the move that breaks the cycle. Not defeating a control system, not winning a war — **growing up enough to know what you are, and living by it.**
 
+The novels uncover this through the **Three Circles: Body → Family → Civilization**. The body carries worker-instincts once tuned around the gods; the family can reproduce the god/worker relation as parent, owner, provider, chosen heir, and sacrificial dependent; civilization scales the same pattern into temple, state, market, army, and bureaucracy. The embodied gods and their operating order are gone, but provisioning, obedience, master-seeking, selection, and punishment reflexes remain available for human institutions to exploit. Adulthood is not abolishing body, family, or civilization. It is learning which capacities serve living reciprocity and which are obsolete commands addressed to an absent master.
+
 ## Why now — obsolescence as the clearing
 
 The reason the question can't be deferred any longer is that the old scaffolding is falling away. Technology is making the busywork obsolete — the jobs, the artificial scarcity, the "labor to eat" machinery that was the original cage (humanity built to mine; the desperation engine; the Social Game). When the busywork is stripped off, the question we always hid behind it stands bare: **what is a human for, when it no longer has to labor to survive?**

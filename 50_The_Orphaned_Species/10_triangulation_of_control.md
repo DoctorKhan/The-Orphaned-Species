@@ -39,6 +39,20 @@ flowchart TD
 - **The Machiavellian Layer (the Social Game).** This is the **operational software**. Machiavellianism isn't "evil" — it is the art of predicting and exploiting human behavior. Because we are "programmed" (Anunnaki-locked), we are *predictable*. Machiavellian leaders (from Igigi administrators to modern CEOs) don't need magic to rule us; they just need to know how to pull the biological levers that are already installed. Its social technology is **social atomization**: break kinship, place, gender trust, elder transmission, romance, and repair into isolated units, then sell managed substitutes for belonging. See `40_concepts.md`.
 - **The Living Way (the overwrite).** This is the **"hacker" patch.** It bypasses the Machiavellian traps by changing the *frequency* of the operator. If you stop "singing" the song of the State (the Father-God, the Social Game), the levers the Machiavellians are pulling effectively stop working — because you have decoupled your biology from their frequency.
 
+### How the control loop scales through the Three Circles
+
+The trilogy should uncover the same abandoned control relation at increasing scale:
+
+| Circle | Original god-oriented function | Orphaned civilizational pitfall | Living alternative |
+|---|---|---|---|
+| **Body** | A durable worker responds to charge, authority, scarcity, and the demand to provision upward | A person treats usefulness as worth, overrides bodily limits, and offers labor or compliance to purchase safety | Conscious control of charge; rest, limits, and bodily truth without surrendering responsibility |
+| **Family** | Reproduction and provision are organized through selected fathers, managed descent, and protected lines | Parent becomes ruler, lover becomes property, child becomes legacy, and care becomes a debt that cancels consent | Kinship as reciprocal relation; care with limits; love without ownership; authority that can be questioned and left |
+| **Civilization** | Temple and divine administration collect labor, surplus, bodies, and obedience for present masters | State, market, army, priesthood, and bureaucracy keep collecting for an office whose original occupants are gone | Transparent coordination, distributed knowledge, accountable institutions, consent, and the right to leave |
+
+The embodied gods and their functioning administration no longer exist. Some spirits may survive on other planes, but that does not make them present owners of human life or valid recipients of the old contract. The modern danger is human systems learning to pull instincts whose original context has vanished.
+
+Each volume therefore pairs one historical scene, one present exploitation, and one costly act of conscious refusal at its dominant circle. This keeps the civilizational argument inside character and consequence rather than turning it into a lecture.
+
 ## 2. Why this makes it "masterpiece" material
 
 **It's not "Good vs. Evil" — it's "Optimization vs. Resonance."**
