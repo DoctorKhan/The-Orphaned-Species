@@ -108,6 +108,8 @@ These people make the route a lived social world rather than a sequence of clues
 
 Together these practices establish a bodily grammar before the cosmology arrives. Staff performance shows controlled play; morning martial training shows disciplined relation to force; sailing shows direction achieved by working with pressure rather than trying to abolish it. The parallels should emerge through action, not explanatory dialogue.
 
+They also supply the trilogy's final register. After the climax, return to ordinary versions of these activities. Eli's sailing is work inside a crew, the girl's dragon staff is still a performance rather than an omen, and the healer can eat with other people without the meal becoming access to his gift. The ending succeeds when the characters can enjoy an unremarkable afternoon without author, crowd, or institution converting it into destiny.
+
 ## Bangladesh must remain alive
 
 Bangladesh cannot exist only as the place where his family died. Carry it through the trilogy in:

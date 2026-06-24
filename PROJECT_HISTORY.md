@@ -292,6 +292,12 @@ On June 24, 2026, three concrete pieces of Eli's lived formation were added. Dur
 
 In Forest City, a male teacher holds martial-arts practice every morning, including Pekiti-Tirsia Kali. This continues rather than replaces Eli's earlier Filipino training and embeds discipline in the refuge's daily community life. Forest City's sailboats also become functional: Eli learns basic seamanship from their crews. The skill pays off in the Volume I maritime passage, where he can work under instruction but still needs experienced sailors. These additions make bodily control, relation to force, and cooperation learned practices before they become cosmological concepts.
 
+## Phase XII — The trilogy ends by returning to ordinary life
+
+On June 24, 2026, the final emotional movement was locked. The coexistence victory remains public and structural, but the trilogy does not end on its cosmic explanation. After the climax and enough elapsed time to prove that the coalition survives necessity, the narrative steps down into meals, sailing, jokes, affection, useful work, repair, play, and rest.
+
+The healer can attend a meal without being worshipped. Eli can work aboard a sailboat without becoming its prophetic navigator. The Pai girl's dragon-staff performance can remain play rather than omen. Magical or evolved beings can be present without subordinating the scene to their power. The intended final feeling is **an afternoon nobody turns into destiny**: freedom justified by the small life it makes possible.
+
 ## Current source-of-truth hierarchy
 
 When documents disagree, use this order:

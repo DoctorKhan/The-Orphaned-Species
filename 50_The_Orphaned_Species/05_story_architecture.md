@@ -385,7 +385,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Climax choices:** Eli releases his mother, refuses ownership of the amplifier, and refuses to destroy Crane without excusing or freeing him from accountability.
 
-**Resolution:** the native practices spread through many people and places. The final coalition supplies local proof that ordinary and anomalous people can share risk, limits, care, and authority without ownership. The monopoly becomes less viable; the psionic war does not disappear overnight. The ending remains open because adulthood is a practice, not a switch.
+**Resolution:** the native practices spread through many people and places. The final coalition supplies local proof that ordinary and anomalous people can share risk, limits, care, and authority without ownership. The monopoly becomes less viable; the psionic war does not disappear overnight. The ending remains open because adulthood is a practice, not a switch. After that public proof, the book steps down into ordinary life rather than upward into one more revelation.
 
 ### Volume III victory condition — LOCKED
 
@@ -400,6 +400,21 @@ Required proof:
 - a durable community or network that does not depend on Eli's command, bloodline, continued presence, or unique moral purity.
 
 The community may remain small, endangered, and imperfect. It may contain fear, crime, resentment, accidents, and political disagreement. What it cannot do is resolve difference through the inherited options of kneeling, burning, or caging. That repeatable social form—not victory over Crane, possession of the grid, or universal awakening—is the positive victory of the third book.
+
+### Final movement — the unremarkable afternoon
+
+The climax ends the immediate claim to ownership. The coda shows what freedom is for. Allow enough time to pass that cooperation is no longer forced by battle, then return to food, sailing, jokes, affection, useful work, repair, play, and rest. Magic remains present but no longer controls the meaning of the scene.
+
+The exact geography and final line remain open, but the movement is locked:
+
+- the healer attends a meal as a tired, fallible man; no one asks for a miracle, and a refusal does not become a crisis;
+- Eli works aboard a sailboat within an ordinary crew, still taking instruction and doing his share rather than commanding through special perception;
+- Wren and Eli are affectionate without converting love into fate, proof, or possession;
+- the Pai girl can perform with her dragon staff—in person, memory, message, or a brief distributed coda—without anyone treating her as an oracle or the image as an omen;
+- an anomalous or magical presence participates in the social world without becoming spectacle, weapon, property, or god;
+- someone cooks, repairs, teases, tires, makes a minor mistake, or changes the subject.
+
+Do not close on a throne, prophecy, cosmic voice, explanatory speech, or promise of the next war. The emotional destination is **an afternoon nobody turns into destiny**. The extraordinary has not vanished; it has become compatible with life.
 
 ## 8. Revelation schedule
 
