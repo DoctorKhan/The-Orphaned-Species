@@ -169,15 +169,17 @@ Forest City foreshadows this answer. The final coalition must enact it under att
 
 The exact number of volumes remains open, but the current material naturally forms three dramatic movements.
 
-| Volume | Circle and inherited pitfall | Internal movement | External movement | Ending change |
+| Volume | Plot movement | Internal movement | External movement | Ending change |
 |---|---|---|---|---|
-| **I — Shattering** | **Body:** the worker-body mistakes usefulness, obedience, endurance, and charged reaction for identity | Confusion → first differentiation | Melaka and maritime Asia → South Asia | Eli knows the Seven are separate people and voluntarily follows the next clue |
-| **II — Descent** | **Family:** the god/worker hierarchy reappears as ownership, service-without-limit, father-rule, reproductive control, and love treated as debt | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
-| **III — Choice** | **Civilization:** temple, state, army, market, and institution occupy the gods' vacant office and keep collecting obedience, bodies, tribute, and belief | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and makes monopoly less viable without claiming the war is over |
+| **I — Shattering** | Breach, pursuit, unstable alliance, first verified record | Confusion → first differentiation | Melaka and maritime Asia → South Asia | Eli knows the Seven are separate people and voluntarily follows the next clue |
+| **II — Descent** | Reconstruction, competing loyalties, mother-reveal, loss of the guide | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
+| **III — Choice** | Convergence, temptation, release, refusal of ownership | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and makes monopoly less viable without claiming the war is over |
 
-### The Three Circles as civilizational excavation — LOCKED
+### The Three Circles as a mixed civilizational braid — LOCKED
 
 The Three Circles are not only a test of whether practice radiates outward. They are the trilogy's method for uncovering **why civilization repeatedly rebuilds the absent gods' order**.
+
+They are **not three curriculum units and not one circle per volume**. Plot determines the boundaries of Shattering, Descent, and Choice. Body, Family, and Civilization remain entangled in every volume because each continually produces the others: institutions train families, families condition bodies, and bodies reproduce institutions. The order of discovery can move outside-in, inside-out, or jump scales whenever the pursuit, relationship, historical record, or immediate danger makes that movement dramatically necessary.
 
 The embodied gods and their functioning supervisory system are gone. Some spirits may persist on other planes and factions may still listen to them, but no god remains physically present as the legitimate recipient of human labor, tribute, reproduction, obedience, or worship. The dangerous fact is that many instincts tuned or exploited under that order still run. Human rulers and institutions can therefore inherit the empty god-role without understanding where it came from.
 
@@ -189,23 +191,33 @@ The embodied gods and their functioning supervisory system are gone. Some spirit
 
 This is not a claim that all instinct, family, or civilization is corrupt or alien-made. Attachment, reciprocity, protection, play, curiosity, kinship, and cooperation also belong to the living human animal. The drama comes from distinguishing those capacities from the installed or captured behaviors that route life upward. The alternative is not isolation or primitivism; it is adult coordination without an owner.
 
-Every volume must therefore contain the same three-beat proof at its proper scale:
+Across the trilogy—and in different combinations rather than a repeated formula—the plot must supply three kinds of proof:
 
 1. a historical imprint shows the behavior while a god-administered order still gives it a function;
 2. a present institution exploits the surviving behavior after its original recipient is gone;
 3. Eli or another character pays a real cost to choose relationship and accountability instead of automatic obedience.
 
+**Plot-first rules:**
+
+- Never add a scene merely to "cover" a circle. Attach the idea to an objective, obstacle, reversal, betrayal, rescue, or irreversible choice.
+- A major plotline should usually disturb at least two circles at once. The strongest turns hit all three: bodily survival, intimate loyalty, and public consequence become inseparable.
+- Stagger cause and explanation. A character may suffer a bodily reflex in Volume I, discover its family transmission later, and only much later learn the old civilizational function—or encounter those layers in the reverse order.
+- Let different characters carry different scale combinations. Eli need not personally exemplify every pitfall; Wren, the healer, Emrys, Crane, historical carriers, families, and institutions distribute the argument.
+- The climax must not "solve Civilization" after completing Body and Family. It must force one choice whose bodily, relational, and civilizational consequences cannot be separated.
+
 ### The Living Way across the trilogy — LOCKED
 
 The Living Way is the ethical and practical counter-current of the whole trilogy. It must be **dramatized as conduct before it is named as a framework**. The novel should not stop for a universal-religion lecture, quote whole companion texts, or imply that one new creed replaces all prior traditions. Characters encounter practices through particular people, places, needs, and consequences. The complete cross-tradition synthesis remains in Layer 2, especially `Lessons_of_the_Living_Way.md`, *The Native Road*, and the separate `living-way-knowledge` library.
 
-| Volume | Living Way movement | Lessons foregrounded | Required dramatic embodiment |
+The table records likely accumulations in the existing plot, not a lesson schedule. Any lesson may move, recur, fail, or remain unnamed if the dramatic chain requires it.
+
+| Volume | Cumulative movement | Likely lessons—move as plot requires | Existing plot expression |
 |---|---|---|---|
 | **I — Shattering** | **Return to the body and distinguish self from weather.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to remain himself during the Seven's flood. Forest City demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
 | **II — Descent** | **Move from self-regulation into relation, care, and limits.** Practices become recognizable across cultures without becoming interchangeable. | 1: be true, not right; 4: kindness when hard; 10: stillness and listening; 11: forgive without rehiring harm; 12: tend living things | The healer's consent and refusal establish that service is not conscription. Eli learns from breath, touch, sound, plant intelligence, and the Seven without claiming mastery or cultural ownership. Conflicting witnesses force truth-seeking over doctrinal certainty. |
 | **III — Choice** | **Release possession and transmit without founding another cage.** The Way becomes political and generational. | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Eli frees his mother by surrendering reunion, loves Wren without destiny or ownership, refuses both Crane's throne and annihilation, and distributes practices so no institution or bloodline can monopolize them. The final coalition models accountable coordination without permanent command. |
 
-The trilogy therefore performs a single maturation:
+The trilogy still performs a maturation, but these are cumulative pressures rather than exclusive volume subjects:
 
 > **Volume I:** remain yourself.
 >

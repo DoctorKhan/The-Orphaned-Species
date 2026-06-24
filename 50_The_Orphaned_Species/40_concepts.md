@@ -101,7 +101,7 @@ It is also the social expression of the Triangulation of Control in `10_triangul
 
 **Core movement:** the story should develop from external conspiracy, to internal liberation, to species-scale reconnection. The protagonist first discovers that the world has been controlled, then discovers that control works through his own mind, then witnesses humanity recovering the capacities and life technologies that atomization was designed to suppress.
 
-This epistemic movement runs across a second, locked axis: **Body → Family → Civilization**. Volume I makes the installed worker-contract bodily; Volume II shows the god/worker hierarchy reproduced through kinship, care, love, and descent; Volume III shows institutions occupying the gods' vacant office. These axes must cross rather than compete: an outer conspiracy matters because it can pull an inner lever, and an inner liberation matters only if it changes family and civilization.
+This epistemic movement runs through a second, locked braid: **Body, Family, Civilization**. The circles are not assigned to volumes. Institutions train families, families condition bodies, and bodies reproduce institutions; discovery can move outside-in while consequences move inside-out, or the plot can reverse either direction. An outer conspiracy matters because it can pull an inner lever, and an inner liberation matters only if it changes family and civilization.
 
 Short form:
 

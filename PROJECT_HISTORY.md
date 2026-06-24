@@ -252,13 +252,13 @@ The three charges now correspond functionally—but not as a claim about orthodo
 
 The governing canon is recorded in `00_MASTER_TIMELINE.md`; practical mechanics and terminology are developed in *Manual Override* and propagated into the novel's character and resonance documents.
 
-## Phase VII — The Three Circles become the trilogy's civilizational spine
+## Phase VII — The Three Circles become a mixed civilizational braid
 
-On June 23, 2026, the trilogy architecture was widened from an individual practice model into a staged diagnosis of civilization. The three volumes now foreground **Body → Family → Civilization** while retaining all three circles as active moral tests in every volume.
+On June 23, 2026, the trilogy architecture was widened from an individual practice model into a diagnosis of civilization through **Body, Family, and Civilization**. An initial one-circle-per-volume allocation was rejected as too schematic. Shattering, Descent, and Choice remain plot movements; all three circles remain active and causally entangled throughout every volume.
 
 This change locks a central reveal: particular human tendencies—provisioning upward, purchasing safety through usefulness, seeking an approved father or master, organizing descent through selected lines, obeying the stronger signal, and sacrificing lower members to preserve the hierarchy—were tuned or exploited within a god-administered order. The embodied gods and their functioning administration are gone, but the tendencies remain. Families and institutions can therefore reproduce the old relationship without knowing its origin.
 
-The novels must show this through paired consequences: a historical record places a behavior in its original context; a present family or institution exploits its orphaned form; a character pays a real cost to choose reciprocal, accountable relation instead. The correction explicitly avoids claiming that all instinct, kinship, or civilization is corrupt. Attachment, cooperation, curiosity, protection, play, and reciprocity belong to the living substrate; the task is to separate them from obsolete submission to an absent master.
+The novels must show this through mixed consequences rather than a repeated curriculum: a historical record may place a behavior in its original context; a present family or institution may exploit its orphaned form; a character may pay a real cost to choose reciprocal, accountable relation instead. These elements can be separated, delayed, reversed, and distributed across characters according to plot. The correction explicitly avoids claiming that all instinct, kinship, or civilization is corrupt. Attachment, cooperation, curiosity, protection, play, and reciprocity belong to the living substrate; the task is to separate them from obsolete submission to an absent master.
 
 ## Current source-of-truth hierarchy
 
