@@ -266,7 +266,7 @@ On June 23, 2026, the role of technology was reconciled with the evolutionary vi
 
 This produces a plot-governing pattern: telecommunications precede telepathy; recording and computation precede expanded memory and cognition; imaging precedes perception of hidden structure; medicine precedes direct healing; networks precede collective mind. Surveillance, weaponry, registration, and extraction are not excluded from this model—they are the same apprenticeship captured by fear.
 
-The species-level success condition is now explicit: humans must be able to live beside magical, evolved, or non-human beings without worshipping, exterminating, owning, conscripting, or monetizing them. Such beings remain accountable for harmful conduct; coexistence does not mean impunity. The final coalition must provide local proof that reciprocal life is possible even if the wider world remains undecided.
+The species-level success condition is now explicit: humans must be able to live beside magical, evolved, or non-human beings without worshipping, exterminating, owning, conscripting, or monetizing them. Such beings remain accountable for harmful conduct; coexistence does not mean impunity. This is locked as the positive victory of Volume III. The final coalition must outlast the emergency and become durable local proof of shared ordinary life, even while the wider world remains undecided.
 
 ## Current source-of-truth hierarchy
 

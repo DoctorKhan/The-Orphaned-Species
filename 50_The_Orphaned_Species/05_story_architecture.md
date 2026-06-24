@@ -189,7 +189,7 @@ The exact number of volumes remains open, but the current material naturally for
 |---|---|---|---|---|
 | **I — Shattering** | Breach, pursuit, unstable alliance, first verified record | Confusion → first differentiation | Melaka and maritime Asia → South Asia | Eli knows the Seven are separate people and voluntarily follows the next clue |
 | **II — Descent** | Reconstruction, competing loyalties, mother-reveal, loss of the guide | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
-| **III — Choice** | Convergence, temptation, release, refusal of ownership | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and makes monopoly less viable without claiming the war is over |
+| **III — Choice** | Convergence, temptation, release, refusal of ownership | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and helps a mixed ordinary/anomalous community survive beyond the emergency without claiming the wider war is over |
 
 ### The Three Circles as a mixed civilizational braid — LOCKED
 
@@ -231,7 +231,7 @@ The table records likely accumulations in the existing plot, not a lesson schedu
 |---|---|---|---|
 | **I — Shattering** | **Return to the body and distinguish self from weather.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to remain himself during the Seven's flood. Forest City demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
 | **II — Descent** | **Move from self-regulation into relation, care, and limits.** Practices become recognizable across cultures without becoming interchangeable. | 1: be true, not right; 4: kindness when hard; 10: stillness and listening; 11: forgive without rehiring harm; 12: tend living things | The healer's consent and refusal establish that service is not conscription. Eli learns from breath, touch, sound, plant intelligence, and the Seven without claiming mastery or cultural ownership. Conflicting witnesses force truth-seeking over doctrinal certainty. |
-| **III — Choice** | **Release possession and transmit without founding another cage.** The Way becomes political and generational. | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Eli frees his mother by surrendering reunion, loves Wren without destiny or ownership, refuses both Crane's throne and annihilation, and distributes practices so no institution or bloodline can monopolize them. The final coalition models accountable coordination without permanent command. |
+| **III — Choice** | **Release possession and transmit without founding another cage.** The Way becomes political and generational. | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Eli frees his mother by surrendering reunion, loves Wren without destiny or ownership, refuses both Crane's throne and annihilation, and distributes practices so no institution or bloodline can monopolize them. The final coalition becomes a durable mixed community with reciprocal accountability and no permanent command. |
 
 The trilogy still performs a maturation, but these are cumulative pressures rather than exclusive volume subjects:
 
@@ -365,6 +365,20 @@ This is also the publishing boundary. The novel gives readers **experience and p
 **Climax choices:** Eli releases his mother, refuses ownership of the amplifier, and refuses to destroy Crane without excusing or freeing him from accountability.
 
 **Resolution:** the native practices spread through many people and places. The final coalition supplies local proof that ordinary and anomalous people can share risk, limits, care, and authority without ownership. The monopoly becomes less viable; the psionic war does not disappear overnight. The ending remains open because adulthood is a practice, not a switch.
+
+### Volume III victory condition — LOCKED
+
+The refusals above prevent defeat, but they are not themselves victory. **Volume III is won when coexistence survives the crisis that created the coalition.** A temporary battlefield alliance proves only common danger; the ending must show ordinary and magical/evolved beings continuing to share a social world once immediate necessity no longer forces them together.
+
+Required proof:
+
+- at least one ordinary aftermath scene—food, shelter, a clinic, repair, childcare, mourning, work, or rebuilding—in which anomalous capacity is present without becoming spectacle;
+- voluntary, reciprocal limits that bind conduct on both sides without compulsory identity registration;
+- ordinary people protecting an anomalous neighbor without worshipping them, and an anomalous person accepting accountability without surrendering ownership of their nature;
+- technology repurposed from detection and classification toward translation, treatment, consent, documentation, and distributed protection;
+- a durable community or network that does not depend on Eli's command, bloodline, continued presence, or unique moral purity.
+
+The community may remain small, endangered, and imperfect. It may contain fear, crime, resentment, accidents, and political disagreement. What it cannot do is resolve difference through the inherited options of kneeling, burning, or caging. That repeatable social form—not victory over Crane, possession of the grid, or universal awakening—is the positive victory of the third book.
 
 ## 8. Revelation schedule
 
