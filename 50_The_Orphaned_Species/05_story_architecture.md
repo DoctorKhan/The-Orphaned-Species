@@ -191,6 +191,24 @@ The exact number of volumes remains open, but the current material naturally for
 | **II — Descent** | Reconstruction, competing loyalties, mother-reveal, loss of the guide | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
 | **III — Choice** | Convergence, temptation, release, refusal of ownership | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and helps a mixed ordinary/anomalous community survive beyond the emergency without claiming the wider war is over |
 
+### The artifact-and-story pursuit — plot engine, order provisional
+
+The artifacts are a distributed evidence chain, not a museum heist or fixed checklist. The group may encounter an object, photograph, scan, squeeze, translation, missing-fragment record, custodian, or story about an object. Each encounter must create an immediate objective or reversal.
+
+| Plot pressure | Candidate object/story | Required change |
+|---|---|---|
+| Establish how to read the chain | **Double-Fork Stone**: bird/dragon and chimpanzee/human as paired sibling divergences | The lower fork admits partial independent testing; the upper fork changes from fantasy to dangerous hypothesis and points to a biological investigation |
+| Expose the vacant office | **Sumerian King List** | “Kingship descended from heaven” becomes a claim about transferable administration rather than sacred blood; rival factions seek the missing context |
+| Make wrong knowledge personal | **Adapa fragment** | A warning from a trusted helper becomes evidence that obedience can close the path to life; Eli stops treating provenance as truth |
+| Recover the suppressed relation | **Asherah-associated amulet, pendant, or shard** | A custodian's story disrupts father-only theology and gives Wren or another character interpretive agency outside Eli and Emrys |
+| Reveal labor and reset propaganda | **Atrahasis / Eridu Flood material** | Creation, labor revolt, and catastrophe appear as layered stories rather than one clean origin account |
+| Focus the ownership race | **Tablet of Destinies claims or fragments** | Factions mistake authority records for a master key; the protagonists must determine whether they are reading a charter, routing protocol, ritual copy, or propaganda |
+| Reconcile divine names without flattening them | **Ugaritic council records** | Repeated offices become visible across traditions while local gods and stories retain their differences |
+| Turn cosmology into route | **Babylonian Map of the World**, later compared with live ley data | A mythic edge or missing region yields a testable next move only when the old map is treated as incomplete |
+| Carry the chain west | **Verified European sky-object** and **Cuno–Derw marked object** | Portable geometry and lossy story converge on Albion without giving anyone a complete manual |
+
+Likely distribution follows the thriller rather than chronology: one or two objects establish the method in Volume I; the Persian Gulf/Anatolian investigation brings the densest textual cluster in Volume II; maps, transmitted copies, and Cuno–Derw material converge in Volume III. The order can change whenever geography, pursuit, or character custody produces a better chain. Full treatment: `35_artifact_chain.md`.
+
 ### The Three Circles as a mixed civilizational braid — LOCKED
 
 The Three Circles are not only a test of whether practice radiates outward. They are the trilogy's method for uncovering **why civilization repeatedly rebuilds the absent gods' order**.

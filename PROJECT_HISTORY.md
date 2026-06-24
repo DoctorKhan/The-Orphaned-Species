@@ -276,6 +276,14 @@ Asked whether he is a son of a god, the healer answers, "No. I am the son of a m
 
 His survival as a limited, fallible, accountable human neighbor—not a god, public utility, or target—is now one of the required proofs of Volume III's coexistence victory. His exact name and location remain open.
 
+## Phase X — Artifacts carry stories through the present
+
+On June 23, 2026, the present-day clue trail acquired an artifact-and-story engine. The past no longer has to be delivered primarily through full historical descents. Objects can carry competing scholarly translations, local stories, factional readings, forensic evidence, and short resonance impressions while the characters remain inside the present plot. Full descents remain available but optional; no artifact automatically certifies a flashback.
+
+The first locked fictional artifact is the **Double-Fork Stone**, showing two non-hierarchical sibling divergences: bird/dragon from an older reptilian or archosaur root, and chimpanzee/human from an older primate root. The independently testable lower fork teaches the characters how to investigate the otherwise impossible upper fork. The object does not imply that humans descend from chimpanzees or birds from dragons, and its provenance remains disputed.
+
+The candidate chain now includes the Sumerian King List, Adapa fragments, an Asherah-associated object, Atrahasis or Eridu Flood traditions, claimed fragments or ritual copies of the mythic Tablet of Destinies, Ugaritic divine-council records, the Babylonian Map of the World, a verified European sky-object, and the fictional Cuno–Derw record. Their evidentiary levels must remain explicit: real textual traditions, mythic objects, plausible fictional artifacts, and modern interpretations are not interchangeable.
+
 ## Current source-of-truth hierarchy
 
 When documents disagree, use this order:

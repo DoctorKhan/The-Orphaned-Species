@@ -17,6 +17,7 @@ The content has outgrown any single book. Rather than split it into rival volume
 - `00_NARRATIVE_STRUCTURE.md` — the novel's bible/spine (working doc, not published).
 - `50_The_Orphaned_Species/00_outline.md` — the deep-past cave stratum, nested.
 - `50_The_Orphaned_Species/15_character_grounding_and_relatability.md` — the human-scale guardrail: Eli's injury, ordinary pressures, relationships, and scene test.
+- `50_The_Orphaned_Species/35_artifact_chain.md` — the present-day artifact/story engine: disputed objects, interpretations, and route-changing evidence.
 - `SOURCE_the_surges.md` — the autobiographical floor under Eli (also a Record doc, Layer 3).
 
 **The three volumes — plot movements against the pilgrimage legs:**
