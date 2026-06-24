@@ -175,6 +175,14 @@ This also governs the cast. Eli is not the best at every capacity because he can
 
 The powers only remain liberating when they are held by un-atomized people: people reconnected to body, kin, elders, children, place, plants, ancestors, and each other. Isolated, egoic people turn powers into domination. Reconnected people turn them into life technology.
 
+### Technology as evolutionary exposure
+
+All technological development has one deep function within the experiment: it lets humanity encounter an emerging capacity outside the body, in a repeatable mechanism, before accepting it in a living being. Telecommunications rehearse telepathy; archives and computation rehearse expanded memory and cognition; aircraft rehearse flight; medical imaging rehearses perception beyond ordinary senses; medicine rehearses healing; networks rehearse collective mind. Technology does not create the evolutionary destination. It reduces the terror of recognition.
+
+This is a telos, not a moral endorsement of every artifact. A weapon, registry, surveillance platform, or extraction system is technology captured by the old fear. It takes a phenomenon that could become familiar and makes domination more efficient. The same instrument becomes mature when used for translation, voluntary coordination, verification, treatment, or protection without ownership.
+
+The evolutionary test is coexistence with living power. Humanity previously worshipped, hunted, bred, screened, and exterminated beings stronger or stranger than itself. It passes only when healers, psions, carriers, dragons, plants, spirits, transformed humans, and other anomalous beings can enter ordinary reciprocal life without becoming gods, prey, specimens, commodities, or state assets. Accountability remains attached to conduct; fear is no longer attached to nature.
+
 **Book 5 expression:** The living network is discovered through an adventure rather than disclosed as doctrine. Altered plant growth is noticed first; repeated observations establish a conductor; paired anomalies establish the positive and negative ends of a break; crop formations reveal new lines forming; historical stone geometry reveals inward deflection; Cuno's incomplete transmission finally reveals communication at the center. Each step changes the route and increases pursuit. Cuno remains the cleanest preview of the social form: many minds in the right shape becoming one mind without a master. Eli's overlapping path—identification, charged contact, relation, seeing, surge-discrimination, creation—shows one person maturing across registers without creating classes. The returning healer proves that another person can go much deeper in one practice. The Modern Child is the seed of the wider awakening: capacities return first as symptoms without explanation, then as memory, then as practice.
 
 ### Integration map

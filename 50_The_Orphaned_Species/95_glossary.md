@@ -119,6 +119,10 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **Consciousness technologies** — song, healing touch, stone-circle resonance, plant intelligence, dream networks, collective mind: not superhero powers but signs of humans rejoining the living network. Capacities recur unevenly in unrelated people; receiving a historical record never guarantees mastery of its practice.
 
+**Technology as rehearsal for magic** — the telos of technological development within the experiment: externalize an emerging capacity as repeatable mechanism so humanity can become less afraid when evolution expresses it through a living being. Technology fulfills this function through understanding, translation, care, and voluntary coordination; surveillance, weaponization, compulsory registration, and extraction are its capture by fear.
+
+**The coexistence test** — humanity succeeds when ordinary, evolved, and non-human beings can share reciprocal life without the old responses of **kneel, burn, or cage**. Magical capacity grants neither divinity nor exemption from accountability; harmful conduct can be constrained without treating a being's nature as property or crime.
+
 **We-ila / Geshtu-e ("the Ear")** — the slain god "who had *ṭēmu*" (intelligence) in the *Atrahasis*, framed in canon as the **Anunnaki intelligence donated at the Activation** — the *software* (mind), as against the Qingu *stock* (body). The Singers do **not** worship We-ila as a sky-god; to them it is the **latent frequency of intelligence in the genome** — what they *tune*, not a throne. The buried, true counter-myth to the Qingu lie.
 
 **Qingu (the lie)** — the Igigi propaganda: *"humanity was fashioned from the blood of Qingu the traitor-god, so you are guilt-born and must be ruled."* The control system's masterstroke is that "Qingu" is *also* the real name of the reserve stock — the lie welded to a true name. Adapa is the cage seen from inside this lie; Aedan's pivot (Ch 17) is realizing his "Qingu-blood" is the vessel for We-ila.

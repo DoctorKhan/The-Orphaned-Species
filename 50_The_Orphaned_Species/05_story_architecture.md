@@ -165,6 +165,22 @@ Eli's answer must be operational rather than rhetorical:
 
 Forest City foreshadows this answer. The final coalition must enact it under attack.
 
+### Technology as rehearsal for coexistence — LOCKED
+
+The trilogy must lead the reader to infer that technology is humanity's **external apprenticeship for powers returning in living form**. This cannot arrive as Emrys's closing lecture. It must become unavoidable through repeated plot evidence:
+
+1. A supposedly magical capacity first resembles something technology has already made ordinary: distant communication, expanded memory, invisible imaging, flight, repair, distributed cognition, or collective coordination.
+2. Instruments make part of the phenomenon measurable without explaining it away. Mechanism reduces panic while leaving genuine mystery intact.
+3. A state, faction, or market uses the same technology to detect, classify, own, conscript, or destroy the living carrier. The tool reveals its immature use: fear made efficient.
+4. Ordinary people use technology differently—to translate, verify consent, establish limits, treat injury, share evidence, and coordinate protection without ownership.
+5. A relationship or community proves coexistence before the climax. Humans and anomalous beings share risk, law, care, and disagreement without turning difference into worship or extermination.
+
+These beats may occur in any volume and should be braided into pursuit, medicine, communication, surveillance, and the psionic war. No scene exists merely to compare a phone to telepathy.
+
+The final coalition is successful only if it demonstrates the distinction Crane denies: **regulate harmful conduct without making a person's nature state property**. Magical beings are neither automatically holy nor exempt from accountability. They can be dangerous, mistaken, selfish, or criminal. Coexistence means the same reciprocal moral world applies to everyone, while compulsory registration, segregation, conscription, experimentation, worship, and extermination are refused.
+
+The ending need not claim that the entire planet has passed. It must provide undeniable proof that humans *can* live beside healers, psions, carriers, non-human intelligences, and other evolved beings without kneeling, burning, or caging. That viable local proof is the "spreading fire": the experiment has produced the form of its answer.
+
 ## 7. Trilogy structure
 
 The exact number of volumes remains open, but the current material naturally forms three dramatic movements.
@@ -348,7 +364,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Climax choices:** Eli releases his mother, refuses ownership of the amplifier, and refuses to destroy Crane without excusing or freeing him from accountability.
 
-**Resolution:** the native practices spread through many people and places. The monopoly becomes less viable; the psionic war does not disappear overnight. The ending remains open because adulthood is a practice, not a switch.
+**Resolution:** the native practices spread through many people and places. The final coalition supplies local proof that ordinary and anomalous people can share risk, limits, care, and authority without ownership. The monopoly becomes less viable; the psionic war does not disappear overnight. The ending remains open because adulthood is a practice, not a switch.
 
 ## 8. Revelation schedule
 
@@ -366,9 +382,11 @@ Each revelation must change a decision. Do not deliver two major cosmological an
 | 8 | Historical factions weaponized the same human vulnerabilities | Volume II | Eli stops seeking a morally pure ancestral authority |
 | 9 | His mother is dead in body and tethered somewhere west | Volume II midpoint | Search becomes release rather than rescue fantasy |
 | 10 | A circle center permits communication | Volume II end / Volume III | Factions converge on operational nodes |
-| 11 | The relit grid uses tethered souls | Volume III | Activating the machine becomes morally intolerable |
-| 12 | His mother's hope of reunion is her tether | Volume III | Eli must give up the thing he wanted from page one |
-| 13 | He could control the amplifier | Volume III climax | Refusal becomes meaningful rather than symbolic |
+| 11 | Modern technologies have been external rehearsals of capacities now returning in living beings | Volume III early | The group repurposes instruments from detection and classification toward translation, consent, and coordination |
+| 12 | The relit grid uses tethered souls | Volume III | Activating the machine becomes morally intolerable |
+| 13 | His mother's hope of reunion is her tether | Volume III | Eli must give up the thing he wanted from page one |
+| 14 | He could control the amplifier | Volume III climax | Refusal becomes meaningful rather than symbolic |
+| 15 | Dangerous conduct can be constrained without owning the being who carries the capacity | Volume III climax/resolution | The coalition chooses reciprocal accountability over registration, conscription, worship, or extermination |
 
 Terms such as Apkallu, Nephilim, Nephilot, Lullu, Qingu, and Umannu should enter only where the narrative must distinguish particular historical actors. Role first; proper noun second.
 

@@ -260,6 +260,14 @@ This change locks a central reveal: particular human tendencies—provisioning u
 
 The novels must show this through mixed consequences rather than a repeated curriculum: a historical record may place a behavior in its original context; a present family or institution may exploit its orphaned form; a character may pay a real cost to choose reciprocal, accountable relation instead. These elements can be separated, delayed, reversed, and distributed across characters according to plot. The correction explicitly avoids claiming that all instinct, kinship, or civilization is corrupt. Attachment, cooperation, curiosity, protection, play, and reciprocity belong to the living substrate; the task is to separate them from obsolete submission to an absent master.
 
+## Phase VIII — Technology becomes rehearsal for coexistence
+
+On June 23, 2026, the role of technology was reconciled with the evolutionary victory condition. Technology is no longer only an obsolescence engine, control apparatus, or contrast with organic consciousness practice. Its deeper function within the experiment is to externalize emerging capacities as repeatable mechanisms, reducing fear before evolution expresses similar capacities through living beings.
+
+This produces a plot-governing pattern: telecommunications precede telepathy; recording and computation precede expanded memory and cognition; imaging precedes perception of hidden structure; medicine precedes direct healing; networks precede collective mind. Surveillance, weaponry, registration, and extraction are not excluded from this model—they are the same apprenticeship captured by fear.
+
+The species-level success condition is now explicit: humans must be able to live beside magical, evolved, or non-human beings without worshipping, exterminating, owning, conscripting, or monetizing them. Such beings remain accountable for harmful conduct; coexistence does not mean impunity. The final coalition must provide local proof that reciprocal life is possible even if the wider world remains undecided.
+
 ## Current source-of-truth hierarchy
 
 When documents disagree, use this order:

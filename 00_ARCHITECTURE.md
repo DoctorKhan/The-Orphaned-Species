@@ -10,7 +10,7 @@ The content has outgrown any single book. Rather than split it into rival volume
 
 ## Layer 1 — The Novel *(the experience; the front door)*
 
-**"The Orphaned Species" — a trilogy** (the present-weighted resonance braid). The trunk everything else feeds. Complete on its own: cosmology and practice arrive as **lived experience, never lecture.** A reader can take *only* this and get a whole book.
+**"The Orphaned Species" — a trilogy** (the present-weighted resonance braid). The trunk everything else feeds. Complete on its own: cosmology and practice arrive as **lived experience, never lecture.** Technology repeatedly makes a formerly magical capacity familiar, then the plot tests whether people can accept that capacity in a living being without worship, extermination, or ownership. A reader can take *only* this and get a whole book.
 
 **Maps to:**
 - `50_The_Orphaned_Species/MANUSCRIPT.md` — the draft.
