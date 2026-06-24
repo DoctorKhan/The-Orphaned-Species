@@ -123,7 +123,7 @@ The story needs recurring relationships strong enough to carry the cosmology.
 | **The healer** | Embodied medical conscience and deification test | Perform deeper physical repair, judge bodily cost, and remain human under worship | Must refuse conscription by factions, communities, and eventually Eli; public testimony drives him through kneel → cage → burn pressure |
 | **Crane** | Ideological antagonist and organizer | Turn institutions, fear, and genuine danger into durable control | Must demonstrate why his policy is persuasive, not merely cruel |
 | **Recurring rival psion team** | Field-level adversarial fellowship | Coordinate attack and defense better than the protagonists initially can | Members need loyalty, fear, disagreement, and at least one choice that complicates simple enmity |
-| **Local allies** | Keep places alive beyond the protagonist | Supply agricultural, maritime, medical, linguistic, historical, or custodial knowledge | Their needs may conflict with preserving the clue or helping Eli |
+| **Local allies** | Keep places alive beyond the protagonist | Supply agricultural, maritime, medical, linguistic, historical, custodial, and embodied knowledge; this includes the Pai dragon-staff performer, Forest City's morning martial-arts teacher, and its sailors | Their needs may conflict with preserving the clue or helping Eli |
 
 ### Wren's missing requirement
 
@@ -200,7 +200,7 @@ The artifacts are a distributed evidence chain, not a museum heist or fixed chec
 | Establish how to read the chain | **Double-Fork Stone**: bird/dragon and chimpanzee/human as paired sibling divergences | The lower fork admits partial independent testing; the upper fork changes from fantasy to dangerous hypothesis and points to a biological investigation |
 | Expose the vacant office | **Sumerian King List** | “Kingship descended from heaven” becomes a claim about transferable administration rather than sacred blood; rival factions seek the missing context |
 | Make wrong knowledge personal | **Adapa fragment** | A warning from a trusted helper becomes evidence that obedience can close the path to life; Eli stops treating provenance as truth |
-| Recover the suppressed relation | **Asherah-associated amulet, pendant, or shard** | A custodian's story disrupts father-only theology and gives Wren or another character interpretive agency outside Eli and Emrys |
+| Recover the suppressed relation | **Arslan Tash Amulet 1** and its disputed covenant reading invoking ʿOlam, Asherah, El's sons, and the council | A custodian's story disrupts father-only theology; authenticity and translation disputes give Wren or another character interpretive agency outside Eli and Emrys |
 | Reveal labor and reset propaganda | **Atrahasis / Eridu Flood material** | Creation, labor revolt, and catastrophe appear as layered stories rather than one clean origin account |
 | Focus the ownership race | **Tablet of Destinies claims or fragments** | Factions mistake authority records for a master key; the protagonists must determine whether they are reading a charter, routing protocol, ritual copy, or propaganda |
 | Reconcile divine names without flattening them | **Ugaritic council records** | Repeated offices become visible across traditions while local gods and stories retain their differences |
@@ -271,7 +271,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 - Optional Maren Holt prologue establishes the suppression method.
 - Open in newly reopened Melaka, not with childhood exposition.
-- Forest City appears through lived memory: the safety Eli chose to leave.
+- Forest City appears through lived memory: the safety Eli chose to leave, the man's morning martial-arts practice, and the sailboats on which Eli learned basic seamanship.
 - The Melaka contact supplies one narrow clue connected to his mother.
 - Rival psion teams collide around a carrier, route, or record.
 - A concrete near-death event opens Eli's already damaged receiver filter.
@@ -284,7 +284,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 #### Act II — The unstable sea
 
 - Singapore or another high-surveillance archive supplies paired anomaly data.
-- A maritime leg combines piracy, inspection, incompatible documents, and psionic interference.
+- A maritime leg combines piracy, inspection, incompatible documents, and psionic interference. Eli's Forest City sailing lessons let him stand a watch, follow sail-handling orders, and recognize a dangerous choice, but an experienced sailor remains indispensable.
 - The protagonists follow at least one wrong or planted clue.
 - Bali or another carefully chosen agricultural return makes abnormal growth visible through living local expertise.
 - Eli begins distinguishing trauma, TBI symptoms, rattle-contact, surges, and carrier memory.

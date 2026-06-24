@@ -18,7 +18,7 @@ Readers do not need to share Eli's nationality or circumstances. Relatability co
 
 **Cosmological function:** the injury cracks the receiver's filter—the door ajar—but creates no gift. His maternal carrier-line explains sensitivity; the ley-line archive retains the Seven's imprints through the anti-entropic medium; discipline and practice let him survive contact. The injury supplies access, danger, and ambiguity, never mastery.
 
-**Pai distinction:** the later motorbike wreck should not repeat the same injury. Eli's head is protected and the near-death event comes from shock, blood loss, or another bodily injury. Pai plus the ceremony blows open the seam already cracked in Bangladesh. This preserves the two-stage mechanism without using two convenient blows to the head.
+**Pai distinction:** Pai remains a recovery stop and source of living characters, not the canonical breach. If the motorbike wreck is retained, it must not repeat the brain injury or become a second awakening device. Eli's head is protected; the event creates ordinary bodily danger and vulnerability. The receiver breach still occurs later in Melaka.
 
 ### Persistent effects
 
@@ -98,6 +98,16 @@ Eli needs ordinary pressures alongside the extraordinary ones:
 
 His competence is domain-specific. Training makes him disciplined under physical pressure; it does not make him socially wise, emotionally composed, or automatically correct.
 
+## Local characters and learned skills — LOCKED IN FUNCTION
+
+These people make the route a lived social world rather than a sequence of clues. Give each a name, want, and conflict before drafting; neither exists merely to foreshadow Eli.
+
+- **The Pai staff-twirler (girl; name and exact age TBD)** dresses like a jester and performs with a dragon staff. Her movement is playful, difficult, and public: balance, rhythm, misdirection, and delight rather than combat instruction or mystical exposition. The dragon image can rhyme later with the Double-Fork Stone and living dragons, but she is not an oracle, secret lineage-holder, or disguised magical being by default. Eli remembers a person before he recognizes a symbol.
+- **The Forest City martial-arts teacher (man; name TBD)** holds morning practice and teaches several arts, including **Pekiti-Tirsia Kali**. He builds on—and does not replace—the Filipino foundation Eli learned earlier. His instruction should be concrete: footwork, range, angle, timing, restraint, repetition, and how to train safely with people of unequal ability. He is also a community member with outbreak work and obligations beyond teaching.
+- **The Forest City sailing community** uses the available sailboats for ordinary recreation, maintenance, training, and later practical transport. Eli learns basic seamanship: knots, points of sail, reefing, keeping watch, reading wind and weather, docking, and taking instruction aboard. By Volume I he can be useful on a boat but is not an expert skipper. The skill earns its place when the unstable maritime passage requires work, judgment, and cooperation that psionics cannot replace.
+
+Together these practices establish a bodily grammar before the cosmology arrives. Staff performance shows controlled play; morning martial training shows disciplined relation to force; sailing shows direction achieved by working with pressure rather than trying to abolish it. The parallels should emerge through action, not explanatory dialogue.
+
 ## Bangladesh must remain alive
 
 Bangladesh cannot exist only as the place where his family died. Carry it through the trilogy in:
@@ -154,7 +164,7 @@ Eli never knows the final destination. He leaves Forest City for one clue in Mel
 
 Keep clue-following psychologically credible. Eli may pursue weak evidence because it concerns his mother, but Wren and others should challenge the cost. Some leads must fail. Some should reveal valuable human or political truths without advancing the cosmological trail. This prevents every stranger and location from feeling prearranged for the protagonist.
 
-Do not treat the locations as levels in a cosmological scavenger hunt. The Philippines supplies embodied training; Bali supplies living agricultural knowledge; Forest City supplies accountable collective method; Melaka supplies the breach and immediate human crisis. None exists to validate Eli, and local characters retain agency after he leaves.
+Do not treat the locations as levels in a cosmological scavenger hunt. The Philippines supplies an early martial foundation; Pai supplies recovery, play, and the staff-twirler as a person rather than a sign; Bali supplies living agricultural knowledge; Forest City supplies accountable collective method, continued morning training, and basic sailing; Melaka supplies the breach and immediate human crisis. None exists to validate Eli, and local characters retain agency after he leaves.
 
 Polarity is not moral symbolism. A positive end is not good, a negative end is not evil, and a broken line is not evidence that a place or community is damaged. Stone circles route existing conductors; they do not manufacture energy. Crop circles are changes in growth produced by new line formation, not alien handwriting.
 

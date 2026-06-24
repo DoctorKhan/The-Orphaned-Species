@@ -208,6 +208,38 @@ URL: https://www.livius.org/sources/content/anet/266-the-sumerian-king-list/
 
 ---
 
+## 7. Arslan Tash Amulet 1 — Asherah, El's sons, and the council
+
+**Object:** Arslan Tash Amulet 1 (AT1), one of two small limestone plaques/amulets associated with Arslan Tash (ancient Hadattu) in northern Syria. The inscription is commonly described as Phoenician language written in an Aramaic script and conventionally dated to the seventh century BCE.
+
+**Acquisition and caution:** The amulets were purchased through the antiquities market rather than recovered in controlled excavation, so their exact provenance is uncertain. Authenticity and readings have been disputed. Jacobus van Dijk defended authenticity in 1992; Dennis Pardee's 1998 study kept the authenticity question active; later comparative work on early Syrian magical texts has supplied a broader context in which the objects can be reassessed. The novel should use the dispute, not conceal it.
+
+**Selected working translation supplied for the project:**
+
+> The Eternal One (ʿOlam) has made a covenant oath with us,<br>
+> Asherah has made (a pact) with us.<br>
+> And all the sons of El, (elohim)<br>
+> And the great council of all the Holy Ones.<br>
+> With oaths of Heaven and Ancient Earth.
+
+**Translation caution:** Treat this as one selected reading associated with the Cross tradition, not settled text. Before using it as an epigraph or quoting it in published prose, verify the exact edition, lineation, damaged signs, and renderings of ʿOlam/Assur, Asherah, the covenant verbs, and the final Heaven/Earth formula.
+
+**Why it matters to this book:** The working reading places Eternal One, Asherah, sons of El, and the great council inside a personal protective covenant. It preserves the plural divine assembly and mother figure at household scale rather than in royal theology alone. That makes it unusually effective for the Three Circles: civilization's pantheon enters family protection and bodily fear through an object worn or kept close.
+
+**Plot use:** The characters can work from scans, early photographs, a squeeze, museum correspondence, or a missing dossier instead of possessing the original. Competing factions may cite the same damaged signs to argue genuine council, forgery, Assur rather than Asherah, or later theological projection. The disagreement should change confidence and action without allowing the amulet to settle the cosmology.
+
+**Scholarly anchors to verify in the final bibliography:**
+
+- Cross, Frank Moore, Jr., and Richard J. Saley. "Phoenician Incantations on a Plaque of the Seventh Century B.C. from Arslan Tash in Upper Syria." *BASOR* 197 (1970): 42–49.
+- van Dijk, Jacobus. "The Authenticity of the Arslan Tash Amulets." *Iraq* 54 (1992): 65–68.
+- Pardee, Dennis. "Les documents d'Arslan Tash: authentiques ou faux?" *Syria* 75 (1998): 15–54.
+- Berlejung, Angelika. "There Is Nothing Better Than More! Text and Images on Amulet 1 from Arslan Tash." *Journal of Northwest Semitic Languages* 36.1 (2010).
+- DeGrado, Jessie, and Madadh Richey. "Discovering Early Syrian Magic: New Aramaic Sources for a Long-Lost Art." *Near Eastern Archaeology* 84.4 (2021): 282–292.
+
+**Suggested placement:** Mid-chain artifact after the King List or Adapa material. It should complicate—not simply confirm—the father-god reconstruction and give a non-Eli custodian interpretive authority.
+
+---
+
 ## Holding pen (unsorted)
 
 *Drop new papers, quotes, and excerpts here as you find them; we'll file and assign placement later. Anything goes — peer-reviewed papers, archaeology reports, ancient texts (Adapa tablet lines, Enūma Eliš, etc.), or a stray sentence that rhymes with the myth.*

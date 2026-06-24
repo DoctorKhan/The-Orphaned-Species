@@ -282,7 +282,15 @@ On June 23, 2026, the present-day clue trail acquired an artifact-and-story engi
 
 The first locked fictional artifact is the **Double-Fork Stone**, showing two non-hierarchical sibling divergences: bird/dragon from an older reptilian or archosaur root, and chimpanzee/human from an older primate root. The independently testable lower fork teaches the characters how to investigate the otherwise impossible upper fork. The object does not imply that humans descend from chimpanzees or birds from dragons, and its provenance remains disputed.
 
-The candidate chain now includes the Sumerian King List, Adapa fragments, an Asherah-associated object, Atrahasis or Eridu Flood traditions, claimed fragments or ritual copies of the mythic Tablet of Destinies, Ugaritic divine-council records, the Babylonian Map of the World, a verified European sky-object, and the fictional Cuno–Derw record. Their evidentiary levels must remain explicit: real textual traditions, mythic objects, plausible fictional artifacts, and modern interpretations are not interchangeable.
+The candidate chain now includes the Sumerian King List, Adapa fragments, Arslan Tash Amulet 1, Atrahasis or Eridu Flood traditions, claimed fragments or ritual copies of the mythic Tablet of Destinies, Ugaritic divine-council records, the Babylonian Map of the World, a verified European sky-object, and the fictional Cuno–Derw record. Their evidentiary levels must remain explicit: real textual traditions, mythic objects, plausible fictional artifacts, and modern interpretations are not interchangeable.
+
+On June 24, 2026, the generic Asherah-object placeholder was replaced by **Arslan Tash Amulet 1**. Its selected working translation invokes ʿOlam, Asherah, the sons of El, the great council of the Holy Ones, Heaven, and Ancient Earth in a covenant oath. Its uncertain antiquities-market provenance, disputed authenticity, and contested readings are now part of its plot function rather than inconvenient caveats: the object preserves the plural council at household scale but cannot serve as settled proof.
+
+## Phase XI — Pai and Forest City gain local characters and embodied skills
+
+On June 24, 2026, three concrete pieces of Eli's lived formation were added. During his recovery period in Pai, he knows a girl who dresses like a jester and twirls a dragon staff. She establishes the dragon first as human play, performance, and remembered relationship; later dragon evidence can rhyme with her without converting her into an oracle or clue.
+
+In Forest City, a male teacher holds martial-arts practice every morning, including Pekiti-Tirsia Kali. This continues rather than replaces Eli's earlier Filipino training and embeds discipline in the refuge's daily community life. Forest City's sailboats also become functional: Eli learns basic seamanship from their crews. The skill pays off in the Volume I maritime passage, where he can work under instruction but still needs experienced sailors. These additions make bodily control, relation to force, and cooperation learned practices before they become cosmological concepts.
 
 ## Current source-of-truth hierarchy
 

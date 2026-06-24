@@ -58,6 +58,8 @@ Nothing in the Sumerian layer bends: Anu stays apex-creator, Marduk stays the Ig
 
 Scheme note: this is why we keep the **divine council = Igigi**, rather than folding the council back inside the Anunnaki. Psalm 82 only pays off if the judged council is the controller generation.
 
+**Arslan Tash Amulet 1 (AT1)** adds a compact and deliberately contested artifact witness. In the working translation selected for the project, the covenant oath invokes **ʿOlam, Asherah, all the sons of El, and the great council of all the Holy Ones**, bound by Heaven and Ancient Earth. Its narrative value is the structure, not proof of the canon: father, mother, sons, and council coexist inside one protective household object. Because the amulet's antiquities-market provenance, authenticity, damaged readings, and even the identification of Asherah have been debated, characters must argue from comparative evidence rather than using it as a decoder ring. See `35_artifact_chain.md` and `90_epigraphs_and_sources.md`.
+
 ---
 
 ## "Elohim" — leave it as the fossil
@@ -92,7 +94,7 @@ Short formula:
 
 2. **Keep the spins opposed.** Each culture remembers the same events with a different theological valence: control-side (the King List sacralizing the office; the Qingu-guilt myth) vs. oral-truth-side (Genesis moralizing the wound; the We-ila reading). The divine-names layer obeys the same rule — the homology is real, but every culture bends it toward its own use.
 
-3. **Let Eli triangulate the repetition through the Seven, not read a chart.** The reader should feel the same father-shape returning under new names until the recognition lands that it was one method wearing many names.
+3. **Let Eli triangulate the repetition through artifacts, stories, witnesses, and any retained resonance fragments—not read a chart.** The reader should feel the same father-shape returning under new names until the recognition lands that it was one method wearing many names.
 
 4. **Asherah is the casualty worth showing.** The suppression of the mother-consort (Ki/Antu → Athirat/Asherah → the erased "Yahweh and his Asherah") is the divine-tier mirror of the book's gender-fracture and the killing of the Singer (Anthea). When the pantheon collapses into a lone father, the mother is the first thing edited out.
 
