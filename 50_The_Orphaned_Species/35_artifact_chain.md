@@ -143,14 +143,17 @@ The damaged section matters because the argument seems to turn on whether every 
 - Civilization can also convert mercy into containment: "You may live, but only as the role we assign you."
 - The human being who cannot be made useful exposes the limit of role-based compassion.
 - "Daily bread" becomes a test parallel to Adapa's bread of life: is bread a gift, a wage, a leash, or proof of belonging?
+- Healing begins where role-assignment fails. Umul's problem is not merely that society has no job for him; the body's charges, breath, organs, attention, and life-energy are not coordinating efficiently enough for ordinary agency.
 
-Working novel interpretation: the missing fragment should not become a simple disability allegory. Its sharper use is about **assigned function**. Enki's genius is that he can make almost anyone legible to the state, temple, palace, or household. That looks humane compared with abandonment. But it is still civilization translating personhood into administrative role. Umul breaks the system because he cannot be redeemed by usefulness.
+Working novel interpretation: the missing fragment should not become a simple disability allegory. Its sharper use is about **assigned function** and the point where assigned function stops working. Enki's genius is that he can make almost anyone legible to the state, temple, palace, or household. That looks humane compared with abandonment. But it is still civilization translating personhood into administrative role. Umul breaks the system because he cannot be redeemed by usefulness.
+
+The missing healing layer: the fragment should point forward to the healer's later practice. When fate, office, household, and bread fail, the answer is not a better bureaucratic category. The answer is direct work with the living system: charges, breath, organ rhythms, nervous-system loops, attention, and the psi/life-energy allocation required to coordinate them. In other words, Umul is where the civilization-circle solution reaches its limit and the body-circle solution has to begin. The healer later recovers this in practice: not by making the person useful, and not by deifying himself, but by helping the body regain coherent control of its own energies.
 
 Possible disputed reconstruction:
 
-> Bread is not a fate. A place is not a self.
+> Bread is not a fate. A place is not a self. Put the breath back into order, and let the life find its road.
 
-This should be treated as a modern or contested reconstruction, not a real quotation. It can become the counterweight to the Adapa lacuna: Adapa refuses eternal ownership; Umul refuses, or exceeds, useful placement. Together they pressure the same question from opposite sides: what is a human worth when they cannot serve the gods, the king, the family, or the machine?
+This should be treated as a modern or contested reconstruction, not a real quotation. It can become the counterweight to the Adapa lacuna: Adapa refuses eternal ownership; Umul refuses, or exceeds, useful placement. Together they pressure the same question from opposite sides: what is a human worth when they cannot serve the gods, the king, the family, or the machine? The answer must not be "nothing" and must not be "whatever role civilization can invent." The deeper answer is that life has intrinsic worth and can sometimes be restored by working below role, at the level of embodied energy and conscious control.
 
 ## The Arslan Tash and Destinies guardrails
 
