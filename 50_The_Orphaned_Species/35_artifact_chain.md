@@ -54,6 +54,7 @@ The artifact tells a story central to the coexistence test: humanity is one bran
 | **Three-Circles Tablet** | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator | Gives the trilogy's practice model a material image while forcing the group to test whether it is cosmology, social diagram, ritual plan, or later forgery |
 | **Sumerian King List / Weld-Blundell tradition** | Real textual tradition and surviving manuscripts | Kingship descends from heaven, moves between cities, breaks at the Flood, then descends again | Reveals that the control memory concerns an **office**, not a sacred bloodline; points toward Eridu and the reset story |
 | **Adapa tablet with a lacuna** | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | Establishes wrong knowledge as a control technology and makes the absent line itself a plot problem rather than a footnote |
+| **Enki and Ninmah role-fragment** | Real Sumerian literary tradition with fragmentary lines; exact object in the novel may be a copy, photo, or disputed reconstruction | Ninmah creates impaired humans; Enki assigns them fates, bread, and social positions, then creates Umul, whom Ninmah cannot place | Forces the group to ask whether civilization's compassion is inclusion, useful assignment, bureaucratic containment, or ownership by role |
 | **Arslan Tash Amulet 1 (AT1)** | Inscribed limestone plaque/amulet, conventionally dated to the seventh century BCE; acquired through the antiquities market rather than controlled excavation, with authenticity and readings debated | In the supplied working translation, ʿOlam, Asherah, all the sons of El, and the great council of the Holy Ones enter a covenant oath | Preserves goddess, divine sons, and council inside one protective household object; its disputed status forces evidence-testing rather than instant theological proof |
 | **Atrahasis / Eridu Flood fragment** | Real textual traditions | Divine labor, worker humanity, catastrophe, and reset survive in incompatible versions | Reveals that creation stories can be labor propaganda layered over older events |
 | **Tablet of Destinies fragments** | Mythic object; any excavated physical version in the novel is fictional or a ritual/administrative copy | Authority is imagined as possession of the right to decree, route, name, and command | Becomes evidence about grid authorization, not an all-powerful magical remote; factions disagree over whether it is key, charter, map, or propaganda |
@@ -131,6 +132,25 @@ The "broken wing of the South Wind" can also carry a grounded environmental read
 - The chronology must stay cautious. The preserved Adapa texts are much later than the Younger Dryas, and the myth may be a layered memory, not a direct report. The novel can use the science as an interpretive pressure: a mythic broken wind may encode the human experience of climate systems changing beyond political or priestly control.
 
 Narrative use: one faction reads the broken wind as divine jurisdiction; another reads it as a paleoclimate clue; Eli should learn from both without collapsing either into certainty. The useful dramatic point is not "Adapa scientifically caused the wind to stop." It is that ancient people may have encoded a real environmental rupture in divine language, and later authorities converted the rupture into obedience theology.
+
+## Enki and Ninmah — the role-fragment
+
+This is the other missing-piece story to track alongside Adapa. The likely text is **Enki and Ninmah** rather than **Enki and Ninhursag**, though Ninmah/Ninhursag belong to the overlapping mother-goddess cluster. In the surviving story, the gods complain about labor; Enki, Namma, Ninmah, and the birth-goddesses participate in making humanity as a labor substitute; then, after drinking beer, Ninmah creates a sequence of impaired or socially irregular humans. Enki answers each one by giving a fate, bread, and a place in the social order: royal servant, musician, court attendant, queen's household member, named eunuch or liminal court figure, and so on. Then Enki creates **Umul**, a being so afflicted that Ninmah cannot find a viable place for him.
+
+The damaged section matters because the argument seems to turn on whether every created being can be assigned a fate and daily bread. The text preserves fragmentary lines around Ninmah's answer and Enki's reply. This makes the lacuna useful for the trilogy:
+
+- Civilization can be merciful by finding a place for the vulnerable.
+- Civilization can also convert mercy into containment: "You may live, but only as the role we assign you."
+- The human being who cannot be made useful exposes the limit of role-based compassion.
+- "Daily bread" becomes a test parallel to Adapa's bread of life: is bread a gift, a wage, a leash, or proof of belonging?
+
+Working novel interpretation: the missing fragment should not become a simple disability allegory. Its sharper use is about **assigned function**. Enki's genius is that he can make almost anyone legible to the state, temple, palace, or household. That looks humane compared with abandonment. But it is still civilization translating personhood into administrative role. Umul breaks the system because he cannot be redeemed by usefulness.
+
+Possible disputed reconstruction:
+
+> Bread is not a fate. A place is not a self.
+
+This should be treated as a modern or contested reconstruction, not a real quotation. It can become the counterweight to the Adapa lacuna: Adapa refuses eternal ownership; Umul refuses, or exceeds, useful placement. Together they pressure the same question from opposite sides: what is a human worth when they cannot serve the gods, the king, the family, or the machine?
 
 ## The Arslan Tash and Destinies guardrails
 
