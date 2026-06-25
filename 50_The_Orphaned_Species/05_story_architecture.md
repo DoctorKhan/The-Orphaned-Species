@@ -347,6 +347,8 @@ Across the trilogy—and in different combinations rather than a repeated formul
 
 The Living Way is the ethical and practical counter-current of the whole trilogy. It must be **dramatized as conduct before it is named as a framework**. The novel should not stop for a universal-religion lecture, quote whole companion texts, or imply that one new creed replaces all prior traditions. Characters encounter practices through particular people, places, needs, and consequences. The complete cross-tradition synthesis remains in Layer 2, especially `Lessons_of_the_Living_Way.md`, *The Native Road*, and the separate `living-way-knowledge` library.
 
+The inner victory is a greater understanding of life that cannot be confiscated. Homes can be lost, records burned, communities scattered, and institutions captured, but breaking out of autopilot, returning into the body, seeing charges arise, and learning to hold them consciously becomes portable freedom. This is why the story must dramatize practice, not only politics: the external struggle protects the conditions for life, while the internal practice teaches a person how not to be owned from the inside.
+
 The table records likely accumulations in the existing plot, not a lesson schedule. Any lesson may move, recur, fail, or remain unnamed if the dramatic chain requires it.
 
 | Volume | Cumulative movement | Likely lessons—move as plot requires | Existing plot expression |
@@ -354,6 +356,8 @@ The table records likely accumulations in the existing plot, not a lesson schedu
 | **I — Shattering** | **Return to the body and distinguish self from weather.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to remain himself during the Seven's flood. Forest City demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
 | **II — Descent** | **Move from self-regulation into relation, care, and limits.** Practices become recognizable across cultures without becoming interchangeable. | 1: be true, not right; 4: kindness when hard; 10: stillness and listening; 11: forgive without rehiring harm; 12: tend living things | The healer's consent and refusal establish that service is not conscription. Eli learns from breath, touch, sound, plant intelligence, and the Seven without claiming mastery or cultural ownership. Conflicting witnesses force truth-seeking over doctrinal certainty. |
 | **III — Choice** | **Release possession and transmit without founding another cage.** The Way becomes political and generational. | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Eli frees his mother by surrendering reunion, loves Wren without destiny or ownership, refuses both Crane's throne and annihilation, and distributes practices so no institution or bloodline can monopolize them. The final coalition becomes a durable mixed community with reciprocal accountability and no permanent command. |
+
+This inalienable inner victory should become a clear end-of-book strength threshold rather than a private mood. The likely shape is two-stage: **Volume I ends with personal Manual Override**, where Eli can feel a charge, recognize autopilot, and not let conditioning complete the action; **Volume II ends with relational or collective Manual Override**, where the group can hold charged fear, loyalty, pain, and psychic pressure without collapsing into possession, worship, obedience, or betrayal. That is what makes them strong enough for what comes next. Volume III then tests whether this strength can become public civilization without becoming another cage.
 
 The trilogy still performs a maturation, but these are cumulative pressures rather than exclusive volume subjects:
 
@@ -536,17 +540,19 @@ Each revelation must change a decision. Do not deliver two major cosmological an
 | 4 | Lines break and leave opposed ends | Volume I late | Old maps become suspect |
 | 5 | Crop formations are new lines, not imposed messages | Volume I climax | Protecting the living field matters more than possessing a symbol |
 | 6 | The Seven were separate people | Volume I midpoint/end | Eli stops treating their lives as his identity |
-| 7 | Stones route rather than generate energy | Volume II | Buried and intact sites acquire different tactical meanings |
-| 8 | A witnessed healing exceeds ordinary expectation; the healer asks for secrecy | Volume II | Protecting his identity and finite capacity becomes a route constraint, not a humility performance |
-| 9 | Historical factions weaponized the same human vulnerabilities | Volume II | Eli stops seeking a morally pure ancestral authority |
-| 10 | His mother is dead in body and tethered somewhere west | Volume II midpoint | Search becomes release rather than rescue fantasy |
-| 11 | A circle center permits communication | Volume II end / Volume III | Factions converge on operational nodes |
-| 12 | Modern technologies have been external rehearsals of capacities now returning in living beings | Volume III early | The group repurposes instruments from detection and classification toward translation, consent, and coordination |
-| 13 | The healer's rejection of divine sonship is already being converted into a divine title | Volume III | The group understands that testimony can rebuild religion against the subject's will; coexistence must include resisting deification |
-| 14 | The relit grid uses tethered souls | Volume III | Activating the machine becomes morally intolerable |
-| 15 | His mother's hope of reunion is her tether | Volume III | Eli must give up the thing he wanted from page one |
-| 16 | He could control the amplifier | Volume III climax | Refusal becomes meaningful rather than symbolic |
-| 17 | Dangerous conduct can be constrained without owning the being who carries the capacity | Volume III climax/resolution | The coalition chooses reciprocal accountability over registration, conscription, worship, or extermination |
+| 7 | Eli can hold a charge without letting autopilot complete the rule | Volume I end / Volume II threshold | He becomes strong enough to enter deeper relational, historical, and psionic pressure without being merely steered by it |
+| 8 | Stones route rather than generate energy | Volume II | Buried and intact sites acquire different tactical meanings |
+| 9 | A witnessed healing exceeds ordinary expectation; the healer asks for secrecy | Volume II | Protecting his identity and finite capacity becomes a route constraint, not a humility performance |
+| 10 | Historical factions weaponized the same human vulnerabilities | Volume II | Eli stops seeking a morally pure ancestral authority |
+| 11 | His mother is dead in body and tethered somewhere west | Volume II midpoint | Search becomes release rather than rescue fantasy |
+| 12 | The group can hold charged fear together without becoming a command hierarchy | Volume II end | They become strong enough for the public civilizational test: coexistence under scrutiny, attack, rumor, and institutional pressure |
+| 13 | A circle center permits communication | Volume II end / Volume III | Factions converge on operational nodes |
+| 14 | Modern technologies have been external rehearsals of capacities now returning in living beings | Volume III early | The group repurposes instruments from detection and classification toward translation, consent, and coordination |
+| 15 | The healer's rejection of divine sonship is already being converted into a divine title | Volume III | The group understands that testimony can rebuild religion against the subject's will; coexistence must include resisting deification |
+| 16 | The relit grid uses tethered souls | Volume III | Activating the machine becomes morally intolerable |
+| 17 | His mother's hope of reunion is her tether | Volume III | Eli must give up the thing he wanted from page one |
+| 18 | He could control the amplifier | Volume III climax | Refusal becomes meaningful rather than symbolic |
+| 19 | Dangerous conduct can be constrained without owning the being who carries the capacity | Volume III climax/resolution | The coalition chooses reciprocal accountability over registration, conscription, worship, or extermination |
 
 Terms such as Apkallu, Nephilim, Nephilot, Lullu, Qingu, and Umannu should enter only where the narrative must distinguish particular historical actors. Role first; proper noun second.
 
