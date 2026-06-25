@@ -33,6 +33,7 @@ What concrete physical crisis opens the Seven without repeating Eli's head injur
 
 What would Wren pursue if Eli disappeared?
 
+- Strong current candidate: Wren represents the constructive-control corner. She is trying to prove an accountability structure for psions and anomalous beings that is not Crane's registry, ownership, or permanent command.
 - A person she failed to save?
 - Evidence against the ring?
 - Extraction for someone else?

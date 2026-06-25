@@ -21,6 +21,30 @@ Do not ask one concept to perform every job:
 
 The clue trail moves the body. The Seven destabilize identity. The amplifier tests character. The war supplies pressure.
 
+### Four-Corner Opposition
+
+Use a Truby-style four-corner opposition to keep the conflict from collapsing into Eli versus Crane. The core debate:
+
+> When dangerous human capacities return, should society protect freedom or impose control?
+
+The answer must not be simple anti-authoritarianism. The trilogy needs adult politics: freedom without structure can become cult, chaos, exploitation, or charismatic capture; control without consent becomes ownership.
+
+| Corner | Character or faction | Viewpoint | Dramatic pressure |
+|---|---|---|---|
+| **1. Constructive freedom** | **Eli** | Power must be shared through consent, practice, limits, and ordinary accountability. No one owns the field. | He must prove freedom can protect civilians without becoming vague, passive, or messianic. |
+| **2. Destructive control** | **Crane** | Psions and anomalous beings are too dangerous to remain unregistered; containment and command are necessary. | He is right about danger and wrong that danger justifies ownership. |
+| **3. Destructive freedom** | **Prophecy/liberation faction** | Burn the registries, unleash awakening, follow the chosen one, reject limits and accountability. | This is Eli's own anti-ownership instinct corrupted into charisma, chaos, and future violence. |
+| **4. Constructive control** | **Wren / Forest City / ethical regulator** | Freedom needs form: boundaries, triage, consent protocols, defense, law, and consequences for harm. | This corner attacks Eli's vagueness and gives Wren an objective beyond protecting him. |
+
+This structure should create multi-party friction:
+
+- Crane attacks Eli's naivety: unregulated psionic conflict gets civilians killed.
+- The prophecy/liberation faction attacks Eli's ego and exhaustion: stop resisting the chosen role.
+- Wren attacks Eli's lack of a civic plan: what happens when someone actually harms people?
+- The healer exposes the bodily cost of every ideology: need does not make a person's body public property.
+
+The final political answer is: **not domination, not chaos, not messiah, not registry—accountable coexistence**.
+
 ## 2. What to take from *Dune* and *The Lord of the Rings*
 
 The lesson is not to add more lore. It is to make existing lore causal and emotionally legible.

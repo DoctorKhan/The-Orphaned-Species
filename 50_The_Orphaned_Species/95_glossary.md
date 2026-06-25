@@ -123,6 +123,8 @@
 
 **Monitored boundary** — a prepared route, border, threshold, stone approach, line-crossing, or security perimeter watched by instruments, trained psions, living relays, or ordinary surveillance. Crossing one can expose a signature and trigger a prepared psion-team or physical attack, especially near Albion. It is not a magic wall and does not grant omniscience.
 
+**Four-Corner Opposition** — the trilogy's moral conflict map: Eli = constructive freedom; Crane = destructive control; prophecy/liberation faction = destructive freedom; Wren/Forest City/ethical regulator = constructive control. The final answer is not domination, chaos, messiah, or registry, but accountable coexistence.
+
 **Herem (decommissioning)** — the conquest "ban" reread as taking corrupted node-hardware, hybrid strongholds, or forbidden technologies *out of circulation* — targeted at high places and the hostile **Nephilim/Anakim** line, not the protected **Albian** carrier line. Structural memory, not apologetic. See `40_concepts.md`.
 
 **Abraham's Covenant** — monotheistic covenant as a sophisticated evolution of control: single authority, chosen-people concept, moral law internalized as control. (Eden III, the covenant garden.)
