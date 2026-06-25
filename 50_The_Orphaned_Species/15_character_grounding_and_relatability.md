@@ -174,6 +174,8 @@ Polarity is not moral symbolism. A positive end is not good, a negative end is n
 
 Countries, intelligence services, contractors, and independent groups use psion teams against other psions. Keep these scenes intimate, tactical, and embodied. A hostile group may locate a signature, enter dreams, flood perception, introduce false certainty, force identification with alien memory, disrupt collective attention, or mark someone for a physical capture team. The horror is that a person's own fear, memory, or conviction becomes unreliable—not that an enemy fires a brighter energy blast.
 
+Terminology guardrail: use **psion** for the operational category. Use **psychic** only when a character is speaking loosely, a journalist is simplifying, an official is dismissing the phenomenon, or an outsider lacks the vocabulary.
+
 The practical constraints remain decisive:
 
 - distance attacks require a target signature and usable route or relay;
@@ -182,6 +184,7 @@ The practical constraints remain decisive:
 - no one reads every thought or compels another person absolutely;
 - sleep, injury, medication, hunger, noise, terrain, training, and trust change what a team can do;
 - conventional violence remains dangerous, and psionic ability does not make anyone bulletproof.
+- monitored boundaries exist only where someone has prepared a route, threshold, sensor, watcher, or relay. Crossing one can expose a signature and trigger a fast team attack, but it does not give the attackers omniscience.
 
 After an attack, show consequences rather than a clean reset: headache, tremor, insomnia, missing time, shame, mistrust, intrusive emotional residue, neurological symptoms, or conflict over whether an experience was authentic. Do not use Eli's TBI as a generic meter for psionic damage. His established disability remains distinct even when an attack aggravates it.
 

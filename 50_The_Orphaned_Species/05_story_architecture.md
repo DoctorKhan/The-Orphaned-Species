@@ -165,6 +165,24 @@ Eli's answer must be operational rather than rhetorical:
 
 Forest City foreshadows this answer. The final coalition must enact it under attack.
 
+### Psion terminology
+
+Use **psion** as the controlled term in narration, dossiers, technical discussion, and project documentation. It names a trained, detected, or operationally relevant person whose consciousness can interact with other minds, bodies, or routes. Use **psychic** only as colloquial speech, media shorthand, outsider slang, or deliberate dismissal. This keeps the story from drifting into generic paranormal vocabulary while preserving the way ordinary people would talk.
+
+### Monitored boundaries and the England ambush
+
+Certain routes, old borders, stone approaches, ley crossings, buried interfaces, and national security perimeters are monitored for psionic signatures. A boundary is not a magic wall. It is a detection condition: when a carrier, team, artifact, or altered line crosses a threshold, watchers can triangulate the change and launch a prepared operation.
+
+Rules:
+
+- monitored boundaries require prior instrumentation, trained watchers, or a living relay; they do not cover every road or coastline;
+- detection usually reveals a signature, direction, intensity, or anomaly, not a complete identity or motive;
+- crossing a boundary can trigger a remote psion attack, a physical intercept team, drone/surveillance tasking, or a false-friendly contact;
+- attacks are strongest when the boundary has been prepared in advance and the target arrives tired, injured, emotionally exposed, or carrying an active artifact;
+- the protagonists can learn to spoof, dampen, split, or deliberately trip boundaries, but every method has cost.
+
+England should contain the clean example. When Eli's group crosses a watched boundary on the approach to Albion, a waiting psion team attacks immediately. The attack should feel procedural rather than mystical: the crossing lights up a grid, a team already in position locks onto the signature, and the assault begins before anyone has time to explain the site's importance. The scene proves that Albion is not a hidden sanctuary. It is a contested, instrumented threshold.
+
 ### Technology as rehearsal for coexistence — LOCKED
 
 The trilogy must lead the reader to infer that technology is humanity's **external apprenticeship for powers returning in living form**. This cannot arrive as Emrys's closing lecture. It must become unavoidable through repeated plot evidence:

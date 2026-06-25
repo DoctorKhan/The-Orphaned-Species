@@ -115,7 +115,11 @@
 
 **The national psionic war** — the covert theater within the wider conventional/cyber world war. Countries and allied blocs field coordinated psion teams against foreign programs, carriers, ley routes, and one another; contractors, mercenaries, independent defense cells, and Crane's transnational ring operate between them. Team attacks target agency through detection, dream/perceptual intrusion, emotional or mnemonic flooding, false certainty, disrupted coherence, and marking for physical capture. Reliable operations require signatures, routes, concentration, and ordinary logistics. No psion is omniscient, absolutely controlling, or invulnerable.
 
+**Psion / psychic terminology** — use **psion** as the controlled term for trained, detected, or operational consciousness-capable people. Use **psychic** only as colloquial speech, media shorthand, outsider vocabulary, dismissal, or deliberate imprecision.
+
 **Psion team** — a small group whose coordinated attention permits stronger probing, shielding, misdirection, or disruption than an isolated psion can sustain. Teams may be voluntary, conscripted, coerced, state-backed, commercial, criminal, or protective. Their coherence is both their strength and vulnerability: conflicting memories, fear, deception, or broken trust can fracture the operation.
+
+**Monitored boundary** — a prepared route, border, threshold, stone approach, line-crossing, or security perimeter watched by instruments, trained psions, living relays, or ordinary surveillance. Crossing one can expose a signature and trigger a prepared psion-team or physical attack, especially near Albion. It is not a magic wall and does not grant omniscience.
 
 **Herem (decommissioning)** — the conquest "ban" reread as taking corrupted node-hardware, hybrid strongholds, or forbidden technologies *out of circulation* — targeted at high places and the hostile **Nephilim/Anakim** line, not the protected **Albian** carrier line. Structural memory, not apologetic. See `40_concepts.md`.
 
