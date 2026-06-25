@@ -187,6 +187,8 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **NPC (Non-Player Character) consciousness / the machine / the robot** — the body-brain autopilot operating without direct control by the conscious soul. Conditioning supplies its rules; deposited charges animate and steer those rules. A description of an operating mode, not a judgment of a person. *(The biological substrate includes the Anunnaki binary programming.)*
 
+**Autopilot** — the reader-facing label for the machine/robot operating mode. It describes the broad reality of unexamined action: habit, inherited scripts, trauma responses, institutional obedience, social performance, craving, aversion, numbness, and "common sense" running before conscious choice arrives. Not every autopilot process can be measured cleanly, but the label is powerful because people recognize it across ordinary life. Manual Override begins when the conscious soul notices the autopilot routing a charge and stays present instead of letting the program complete itself.
+
 **Conditioning** — the machine's inherited, learned, cultural, traumatic, and habitual rules. Conditioning routes and acts on charges but is not itself a charge.
 
 **The three charges** — impulses descending through the receiver and deposited into the embodied machine. **Positive** charge pulls toward; **negative** charge pushes away; **neutral** charge continues the existing program without examination. Under autopilot they correspond functionally to the Buddhist three poisons: craving/attachment, aversion/hatred, and ignorance/unconsciousness. The charges are animating directions, not moral substances.

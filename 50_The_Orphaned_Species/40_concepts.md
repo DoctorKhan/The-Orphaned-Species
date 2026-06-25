@@ -166,6 +166,8 @@ This stage includes:
 
 **Protagonist reversal:** the real prison is not only what was done to humanity; it is the machinery inside the human that keeps consenting to the same pattern. The first liberation is the moment the protagonist stops being steerable.
 
+**Autopilot as bridge concept:** use "autopilot" when the prose needs a plain-language description of the inner cage. It covers patterns people recognize before they have theory: doomscrolling, reflexive anger, compulsive attraction, people-pleasing, class performance, institutional obedience, shame scripts, trauma reflexes, and the sense of watching oneself do what one already knows will hurt. It is not a lab category; it is a practical reality-label that lets readers connect charges, conditioning, samsara, and Manual Override to everyday life.
+
 **Book 5 expression:** Adapa is the failure case: he has the gift but believes the inner lie. The Seven are seven independent answers: unrelated people in different settings recover capacities by refusing the offered father. Aedan's cave carries partial echoes; Eli's integration holds the complete records without turning them into ancestry, doctrine, or an ability checklist. Eli develops breadth and limited physical healing; a separate present-day healer develops much greater bodily depth.
 
 ### Stage 3 — The living network
