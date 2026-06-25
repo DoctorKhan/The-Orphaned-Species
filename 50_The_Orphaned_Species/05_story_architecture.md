@@ -40,6 +40,29 @@ The lesson is not to add more lore. It is to make existing lore causal and emoti
 
 **Structural recommendation:** use *Dune* for the causal system and *The Lord of the Rings* for the heart. The present danger is a Dune-sized system without enough hearth, fellowship, rest, humor, and ordinary tenderness.
 
+### Prophecy and charismatic leaders
+
+Use prophecy-shaped material and charismatic-leader pressure as **bait, pressure, and misreading**, not as the truth of the trilogy. Readers understand prophecy instantly, and factions inside the story would absolutely manufacture, exploit, or believe it. The book can use that voltage without surrendering to chosen-one logic.
+
+Rule: **every prophecy must create danger, not guarantee destiny.**
+
+Allowed uses:
+
+- corrupted records that sound prophetic because their context is missing;
+- psion-planted false certainty or future-memory traps;
+- factional recruitment language built from real fragments;
+- media, pilgrims, or desperate families turning a true event into a sacred sign;
+- Crane using anti-messiah rhetoric while building a managerial priesthood through registry, classification, and permanent control;
+- Cuno's lossy "Aedan" transmission or the Adapa lacuna being misread as destiny rather than warning;
+- Eli's mother's notes sounding prophetic because they are incomplete research written under duress.
+
+Guardrails:
+
+- Eli must repeatedly refuse the role others try to place on him.
+- The healer's deification pressure is the public version of the same mechanism: a real healing becomes testimony, testimony becomes rumor, and rumor manufactures a god against the subject's will.
+- Charisma is not automatically evil, but it becomes dangerous when people outsource judgment, consent, or responsibility to it.
+- The final victory must require many people making accountable choices. No prophecy, bloodline, title, or sacred leader saves the world.
+
 ## 3. The world's causal machine
 
 ```mermaid

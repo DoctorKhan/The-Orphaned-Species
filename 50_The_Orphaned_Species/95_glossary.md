@@ -183,6 +183,8 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **The serpent's rattle** — somatic contact with something on another plane or with a samskara in a living body. It is not prophecy, warning, or a surge. The contact deposits charge. When Eli identifies with it, suppresses it, or lets conditioning execute it automatically, the charged rule-cycle repeats and becomes painful; held in non-identified relation, its compressed information can unfold into seeing.
 
+**Prophecy-shaped material** — corrupted records, incomplete transmissions, psion-planted false certainty, factional recruitment language, or public rumor that imitates prophecy. It may produce mythic voltage, but it must create danger rather than guarantee destiny. The trilogy's answer is accountable choice by many people, not a chosen-one proof.
+
 **Seeing** — information becoming legible through sustained relation to charged pain. Pain alone does not confer insight. Seeing is learned by neither fleeing the contact nor identifying with it.
 
 **The surges** — located, involuntary waves of resonance triggered by words, music, images, people, or records. They register magnitude before meaning and can be misinterpreted. Unlike the rattle, they do not build because information was ignored.
