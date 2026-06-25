@@ -93,7 +93,7 @@
 
 **Three-Circles Tablet** — a fictional or disputed diagram tablet showing three concentric circles with a dot in the center. Working story reading: center dot = conscious operator; circles = Body, Family, Civilization. It should be misread before it is useful and must not be presented as a verified ancient statement of the full modern framework.
 
-**Adapa tablet lacuna** — the missing passage in the Adapa story becomes a plot problem. Competing readings argue whether Adapa was misled, obedient, unworthy in his own eyes, or nearly awake to the lie before refusing life. The gap should drive investigation without becoming instant proof.
+**Adapa tablet lacuna** — the missing passage in the Adapa story becomes a plot problem. Competing readings argue whether Adapa was misled, obedient, unworthy in his own eyes, nearly awake to the lie, or refusing divine incorporation before refusing life. The gap should drive investigation without becoming instant proof. The "broken South Wind" may also carry a cautious paleoclimate reading: a mythic memory of Gulf wind, sea-level, and monsoon disruption later converted into obedience theology.
 
 **Arslan Tash Amulet 1 (AT1)** — a limestone protective plaque/amulet conventionally dated to the seventh century BCE and inscribed in Phoenician language. A project working translation invokes ʿOlam, Asherah, all the sons of El, the great council of the Holy Ones, Heaven, and Ancient Earth in a covenant oath. Because the object came through the antiquities market and both authenticity and readings have been debated, it functions as contested evidence rather than settled proof.
 
