@@ -298,6 +298,12 @@ On June 24, 2026, the final emotional movement was locked. The coexistence victo
 
 The healer can attend a meal without being worshipped. Eli can work aboard a sailboat without becoming its prophetic navigator. The Pai girl's dragon-staff performance can remain play rather than omen. Magical or evolved beings can be present without subordinating the scene to their power. The intended final feeling is **an afternoon nobody turns into destiny**: freedom justified by the small life it makes possible.
 
+## Phase XIII — Open questions and two new tablet artifacts
+
+On June 24, 2026, unresolved structural decisions were separated into `50_The_Orphaned_Species/99_open_questions.md` so the main architecture does not become a dumping ground for every undecided mechanism.
+
+Two artifact concepts were also added to the chain. The **Three-Circles Tablet** is a fictional or disputed tablet showing three concentric circles with a dot at the center, giving Body, Family, and Civilization a visual object without claiming a verified ancient source for the modern framework. The **Adapa tablet lacuna** makes the missing part of the Adapa story a plot problem: characters can argue over what Adapa almost understood, what later transmission lost, and how helpful warnings become cages.
+
 ## Current source-of-truth hierarchy
 
 When documents disagree, use this order:

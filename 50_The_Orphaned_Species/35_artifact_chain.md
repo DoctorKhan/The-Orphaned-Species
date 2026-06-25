@@ -51,8 +51,9 @@ The artifact tells a story central to the coexistence test: humanity is one bran
 | Artifact or story-object | Historical status | Story it carries | Present plot function |
 |---|---|---|---|
 | **Double-Fork Stone** | Fictional story artifact | Dragon/bird and human/chimpanzee as sibling divergences; humanity is not the apex | Establishes the method: validate the readable lower fork, then investigate the impossible upper fork |
+| **Three-Circles Tablet** | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator | Gives the trilogy's practice model a material image while forcing the group to test whether it is cosmology, social diagram, ritual plan, or later forgery |
 | **Sumerian King List / Weld-Blundell tradition** | Real textual tradition and surviving manuscripts | Kingship descends from heaven, moves between cities, breaks at the Flood, then descends again | Reveals that the control memory concerns an **office**, not a sacred bloodline; points toward Eridu and the reset story |
-| **Adapa tablet fragment** | Real textual tradition, fragmentary witnesses | A human refuses life after receiving a warning he cannot verify | Establishes wrong knowledge as a control technology and makes trust in a helpful god materially ambiguous |
+| **Adapa tablet with a lacuna** | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | Establishes wrong knowledge as a control technology and makes the absent line itself a plot problem rather than a footnote |
 | **Arslan Tash Amulet 1 (AT1)** | Inscribed limestone plaque/amulet, conventionally dated to the seventh century BCE; acquired through the antiquities market rather than controlled excavation, with authenticity and readings debated | In the supplied working translation, ʿOlam, Asherah, all the sons of El, and the great council of the Holy Ones enter a covenant oath | Preserves goddess, divine sons, and council inside one protective household object; its disputed status forces evidence-testing rather than instant theological proof |
 | **Atrahasis / Eridu Flood fragment** | Real textual traditions | Divine labor, worker humanity, catastrophe, and reset survive in incompatible versions | Reveals that creation stories can be labor propaganda layered over older events |
 | **Tablet of Destinies fragments** | Mythic object; any excavated physical version in the novel is fictional or a ritual/administrative copy | Authority is imagined as possession of the right to decree, route, name, and command | Becomes evidence about grid authorization, not an all-powerful magical remote; factions disagree over whether it is key, charter, map, or propaganda |
@@ -84,6 +85,32 @@ This wording must be treated as a **selected scholarly reading**, not an unconte
 - It gives the artifact chain a real reason to pass through stories and scholarship rather than certified flashback.
 
 In the plot, the protagonists need not steal or possess the original. A high-resolution scan, old squeeze, unpublished photograph, disputed reading, or missing dossier can provide the clue while the physical object remains inaccessible or lost during war.
+
+## The Three-Circles Tablet — the dot in the center
+
+Add a small clay tablet or tablet-fragment showing **three concentric circles with a dot at the center**. The diagram should be simple enough to be read incorrectly: a map, astronomical sign, temple plan, womb image, seal design, social rank diagram, or esoteric school exercise.
+
+**Working story reading:**
+
+- center dot = the conscious operator, the person capable of taking control of charges;
+- inner circle = Body, the individual machine and its deposited charges;
+- middle circle = Family, kinship, care, attachment, inheritance, and conditioning;
+- outer circle = Civilization, institutions, law, temple, state, market, army, and social myth.
+
+The diagram matters because it makes the Three Circles visible without making them a lecture. A character can first misread it as a cosmological map; another can recognize that the motion runs outward from the center. Genuine repair radiates through all three rings; counterfeit awakening leaks outward or breaks at a boundary.
+
+Guardrail: unless a real archaeological analogue is identified, this is a fictional or disputed object inside the novel. It should not prove that ancient Sumerians taught the exact modern framework. It should function as a story artifact: an old diagram that rhymes with the framework and forces the characters to decide whether its use is practical, symbolic, or forged.
+
+## The Adapa tablet lacuna — the missing line
+
+The Adapa material should include a tablet, copy, photograph, or scholarly reconstruction with a **strategic missing passage**. The gap must not be filled by authorial certainty too early. Different readers inside the story should argue over what the absent line changes:
+
+- Did Adapa know the bread and water were life and refuse anyway?
+- Did he refuse because Enki's warning was sincere but incomplete?
+- Did a later copyist lose the moment where Adapa almost saw the Qingu-guilt lie?
+- Did the missing passage name the mechanism by which helpful advice becomes a cage?
+
+Plot use: the missing line creates action. A faction wants the lacuna filled because it may justify obedience; Eli wants it because it mirrors his mother's warning and his own fear of being chosen; another custodian may insist the missingness is the point. A later resonance or parallel witness can supply emotional pressure, but the textual gap should remain evidentiary humble.
 
 ## The Arslan Tash and Destinies guardrails
 

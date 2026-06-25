@@ -1,6 +1,6 @@
 # Book 50 — Story Architecture
 
-> **Status:** working structural synthesis based on the current canon in `00_NARRATIVE_STRUCTURE.md`, `00_outline.md`, and the Book 50 concept files. This document organizes existing material into a dramatic structure. It does not silently settle open questions such as the exact Melaka accident, country/bloc names, the healer's name/location, or the final volume count.
+> **Status:** working structural synthesis based on the current canon in `00_NARRATIVE_STRUCTURE.md`, `00_outline.md`, and the Book 50 concept files. This document organizes existing material into a dramatic structure. It does not silently settle open questions such as the exact Melaka accident, country/bloc names, the healer's name/location, or the final volume count. Track unresolved structural commitments in `99_open_questions.md`.
 
 ## 1. The governing story
 
@@ -198,8 +198,9 @@ The artifacts are a distributed evidence chain, not a museum heist or fixed chec
 | Plot pressure | Candidate object/story | Required change |
 |---|---|---|
 | Establish how to read the chain | **Double-Fork Stone**: bird/dragon and chimpanzee/human as paired sibling divergences | The lower fork admits partial independent testing; the upper fork changes from fantasy to dangerous hypothesis and points to a biological investigation |
+| Give the practice a material image | **Three-Circles Tablet**: three concentric circles with a dot in the center | The group first mistakes the diagram for map, cosmology, or hierarchy; later it becomes a test for whether repair radiates through Body, Family, and Civilization from a conscious center |
 | Expose the vacant office | **Sumerian King List** | “Kingship descended from heaven” becomes a claim about transferable administration rather than sacred blood; rival factions seek the missing context |
-| Make wrong knowledge personal | **Adapa fragment** | A warning from a trusted helper becomes evidence that obedience can close the path to life; Eli stops treating provenance as truth |
+| Make wrong knowledge personal | **Adapa tablet with a lacuna** | A warning from a trusted helper becomes evidence that obedience can close the path to life; the missing passage becomes an argument over what Adapa almost knew and why he still refused life |
 | Recover the suppressed relation | **Arslan Tash Amulet 1** and its disputed covenant reading invoking ʿOlam, Asherah, El's sons, and the council | A custodian's story disrupts father-only theology; authenticity and translation disputes give Wren or another character interpretive agency outside Eli and Emrys |
 | Reveal labor and reset propaganda | **Atrahasis / Eridu Flood material** | Creation, labor revolt, and catastrophe appear as layered stories rather than one clean origin account |
 | Focus the ownership race | **Tablet of Destinies claims or fragments** | Factions mistake authority records for a master key; the protagonists must determine whether they are reading a charter, routing protocol, ritual copy, or propaganda |
@@ -207,7 +208,7 @@ The artifacts are a distributed evidence chain, not a museum heist or fixed chec
 | Turn cosmology into route | **Babylonian Map of the World**, later compared with live ley data | A mythic edge or missing region yields a testable next move only when the old map is treated as incomplete |
 | Carry the chain west | **Verified European sky-object** and **Cuno–Derw marked object** | Portable geometry and lossy story converge on Albion without giving anyone a complete manual |
 
-Likely distribution follows the thriller rather than chronology: one or two objects establish the method in Volume I; the Persian Gulf/Anatolian investigation brings the densest textual cluster in Volume II; maps, transmitted copies, and Cuno–Derw material converge in Volume III. The order can change whenever geography, pursuit, or character custody produces a better chain. Full treatment: `35_artifact_chain.md`.
+Likely distribution follows the thriller rather than chronology: one or two objects establish the method in Volume I; the Three-Circles Tablet can enter once the group needs a visual grammar for Body, Family, and Civilization; the Persian Gulf/Anatolian investigation brings the densest textual cluster in Volume II; maps, transmitted copies, and Cuno–Derw material converge in Volume III. The order can change whenever geography, pursuit, or character custody produces a better chain. Full treatment: `35_artifact_chain.md`.
 
 ### The Three Circles as a mixed civilizational braid — LOCKED
 
