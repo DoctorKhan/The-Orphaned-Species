@@ -89,13 +89,27 @@
 
 **The Double-Fork Stone** — a fictional, disputed story artifact bearing two non-hierarchical Y-shaped divergences: an older reptilian/archosaur root into bird and dragon, and an older primate root into chimpanzee and human. It depicts sibling branching, never birds descending from dragons or humans from chimpanzees. Independent evidence can partly validate the lower fork, teaching the characters how to investigate—but not automatically believe—the upper fork.
 
-**The artifact/story chain** — present-day objects and their conflicting scholarly, inherited, factional, and resonance accounts. Artifacts change routes and choices but never certify a complete flashback. Core candidates include the Double-Fork Stone, Three-Circles Tablet, Sumerian King List, Adapa tablet with a lacuna, Arslan Tash Amulet 1, Flood traditions, Tablet of Destinies fragments, Ugaritic council records, Babylonian world map, a European sky-object, and the Cuno–Derw record.
+**The artifact/story chain** — present-day objects and their conflicting scholarly, inherited, factional, and resonance accounts. Artifacts change routes and choices but never certify a complete flashback. Core candidates include the Double-Fork Stone, Three-Circles Tablet, Sumerian King List, Adapa tablet with a lacuna, Enki and Ninmah role-fragment, Inana and Enki's me, Inana's Descent, Enki and the World Order, Arslan Tash Amulet 1, Flood traditions, apkallu/Uanna witnesses, Lamashtu/Pazuzu amulets, Tablet of Destinies fragments, Ugaritic council records, Babylonian world map, a European sky-object, and the Cuno–Derw record.
 
 **Three-Circles Tablet** — a fictional or disputed diagram tablet showing three concentric circles with a dot in the center. Working story reading: center dot = conscious operator; circles = Body, Family, Civilization. It should be misread before it is useful and must not be presented as a verified ancient statement of the full modern framework.
 
 **Adapa tablet lacuna** — the missing passage in the Adapa story becomes a plot problem. Competing readings argue whether Adapa was misled, obedient, unworthy in his own eyes, nearly awake to the lie, or refusing divine incorporation before refusing life. The gap should drive investigation without becoming instant proof. The "broken South Wind" may also carry a cautious paleoclimate reading: a mythic memory of Gulf wind, sea-level, and monsoon disruption later converted into obedience theology.
 
 **Enki and Ninmah role-fragment** — a second missing-piece story-object. In the surviving text, Ninmah creates impaired or socially irregular humans and Enki assigns them fates, bread, and social places; Enki then creates Umul, whom Ninmah cannot place. Its novel function is to test whether civilization's compassion is care, useful inclusion, bureaucratic containment, or ownership by assigned role. The missing layer should point forward to healing: where social placement fails, the body may need direct work with charges, breath, organ rhythms, attention, and psi/life-energy allocation.
+
+**Inana and Enki / the me** — a story-object for civilization as transferable functions. The me are offices, arts, rituals, powers, and social capacities moved from Eridu to Uruk in the Boat of Heaven. Novel function: technology/civilization as installed capacity that can be transferred, stolen, misused, or carried before a community is mature enough to govern it.
+
+**Inana's Descent** — a healing-resonance story. Enki's liminal beings mirror Ereshkigal's pain before the life-giving plant and water restore Inana. Novel function: healing begins with accurate resonance and correct intervention, not domination or healer-worship.
+
+**Enki and the World Order** — macro role-allocation story. Enki assigns lands, crafts, borders, fertility, canals, writing, tools, and divine offices; Inana contests the allocation. Novel function: civilization can coordinate life by assigning functions, but becomes domination when the assigned role replaces the living being.
+
+**Apkallu / Uanna witness** — intermediary-being material. The apkallu preserve primeval wisdom, city-foundation protection, and more-than-human transmission through mythic lists, ritual texts, and protective figurines. Novel function: ancient civilization included liminal teachers and guardians, preparing the final coexistence test.
+
+**Lamashtu / Pazuzu amulet** — Body-and-Family protective material. Lamashtu threatens pregnancy, infants, sleep, and disease; Pazuzu can be frightening and protective at the same time. Novel function: mature coexistence must handle dangerous protectors without prettifying, worshipping, owning, or exterminating them.
+
+**Etana and the eagle** — optional Family-circle story about infertility, dynasty, broken eagle-serpent covenant, and terrifying ascent for the plant of birth. Novel function: life is not secured by conquering heaven if relationships below remain broken.
+
+**Erra and Ishum** — optional Civilization-circle war story. Erra carries violence, plague, panic, and breakdown; Ishum supplies restraint or witness. Novel function: mirror modern state violence and the need to restrain destructive force before fear becomes extermination.
 
 **Arslan Tash Amulet 1 (AT1)** — a limestone protective plaque/amulet conventionally dated to the seventh century BCE and inscribed in Phoenician language. A project working translation invokes ʿOlam, Asherah, all the sons of El, the great council of the Holy Ones, Heaven, and Ancient Earth in a covenant oath. Because the object came through the antiquities market and both authenticity and readings have been debated, it functions as contested evidence rather than settled proof.
 

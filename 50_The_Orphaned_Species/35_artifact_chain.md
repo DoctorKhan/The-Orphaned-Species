@@ -55,8 +55,15 @@ The artifact tells a story central to the coexistence test: humanity is one bran
 | **Sumerian King List / Weld-Blundell tradition** | Real textual tradition and surviving manuscripts | Kingship descends from heaven, moves between cities, breaks at the Flood, then descends again | Reveals that the control memory concerns an **office**, not a sacred bloodline; points toward Eridu and the reset story |
 | **Adapa tablet with a lacuna** | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | Establishes wrong knowledge as a control technology and makes the absent line itself a plot problem rather than a footnote |
 | **Enki and Ninmah role-fragment** | Real Sumerian literary tradition with fragmentary lines; exact object in the novel may be a copy, photo, or disputed reconstruction | Ninmah creates impaired humans; Enki assigns them fates, bread, and social positions, then creates Umul, whom Ninmah cannot place | Forces the group to ask whether civilization's compassion is inclusion, useful assignment, bureaucratic containment, or ownership by role |
+| **Inana and Enki / the me** | Real Sumerian literary tradition | Civilization-functions are loaded into the Boat of Heaven and transferred from Eridu to Uruk | Shows civilization as transferable software: offices, arts, laws, desires, weapons, and rituals can be moved, stolen, installed, or misused |
+| **Inana's Descent / life-giving plant and water** | Real Sumerian literary tradition | Liminal beings mirror Ereshkigal's pain, then restore Inana with life-giving plant and water | Gives the healer arc an ancient rhyme: restoration through resonance, attention, and correct intervention rather than domination |
+| **Enki and the World Order** | Real Sumerian literary tradition | Enki assigns offices, lands, crafts, borders, fertility, writing, and social functions; Inana contests her allocation | Provides the macro-version of the role-fragment: civilization as a function-allocation machine |
 | **Arslan Tash Amulet 1 (AT1)** | Inscribed limestone plaque/amulet, conventionally dated to the seventh century BCE; acquired through the antiquities market rather than controlled excavation, with authenticity and readings debated | In the supplied working translation, ʿOlam, Asherah, all the sons of El, and the great council of the Holy Ones enter a covenant oath | Preserves goddess, divine sons, and council inside one protective household object; its disputed status forces evidence-testing rather than instant theological proof |
 | **Atrahasis / Eridu Flood fragment** | Real textual traditions | Divine labor, worker humanity, catastrophe, and reset survive in incompatible versions | Reveals that creation stories can be labor propaganda layered over older events |
+| **Apkallu / Uanna foundation witness** | Real mythic and ritual traditions; material forms include protective figurines and later lists | Semi-divine sages transmit civilization, guard foundations, and blur human/non-human categories | Supports the coexistence thesis: ancient civilization involved intermediary beings, not a clean binary of humans versus gods |
+| **Lamashtu / Pazuzu protective amulet** | Real apotropaic tradition and surviving plaques/amulets | A frightening being can protect against another frightening being, especially around pregnancy, infancy, sleep, and disease | Tests whether the group can accept dangerous protectors without prettifying, worshipping, or exterminating them |
+| **Etana and the eagle** | Real Akkadian mythic tradition | A king seeks the plant of birth; a broken eagle-serpent covenant leads to ascent and terror | Optional Family-circle story about infertility, dynasty, interspecies covenant, and the danger of trying to secure life by conquering heaven |
+| **Erra and Ishum** | Real Akkadian literary tradition; also associated with apotropaic use | Violence, plague, panic, and civilizational breakdown are unleashed and partially restrained | Optional Volume III mirror for modern war panic, state violence, and the need for restraint inside destructive force |
 | **Tablet of Destinies fragments** | Mythic object; any excavated physical version in the novel is fictional or a ritual/administrative copy | Authority is imagined as possession of the right to decree, route, name, and command | Becomes evidence about grid authorization, not an all-powerful magical remote; factions disagree over whether it is key, charter, map, or propaganda |
 | **Ugaritic divine-council tablet** | Real textual corpus; exact tablet to select and verify | El, Athirat/Asherah, Baal, Anat, and the divine assembly preserve offices later collapsed or renamed | Lets the group compare pantheons as political memories without claiming every god-name is literally identical |
 | **Babylonian Map of the World** | Real artifact/textual map | The known world sits inside a larger mythic geography whose edges are narrated rather than measured | Supplies a deliberately incomplete topology; becomes useful only when compared with changing ley-line data |
@@ -154,6 +161,58 @@ Possible disputed reconstruction:
 > Bread is not a fate. A place is not a self. Put the breath back into order, and let the life find its road.
 
 This should be treated as a modern or contested reconstruction, not a real quotation. It can become the counterweight to the Adapa lacuna: Adapa refuses eternal ownership; Umul refuses, or exceeds, useful placement. Together they pressure the same question from opposite sides: what is a human worth when they cannot serve the gods, the king, the family, or the machine? The answer must not be "nothing" and must not be "whatever role civilization can invent." The deeper answer is that life has intrinsic worth and can sometimes be restored by working below role, at the level of embodied energy and conscious control.
+
+## Additional Mesopotamian story-objects
+
+Use these as a ranked secondary shelf. The first three are the cleanest additions because they directly support the trilogy's machinery: civilization as transferable functions, healing as resonance, and role-assignment as control. The rest are useful if a plot location, custodian, or antagonist needs them.
+
+### Inana and Enki — the me as civilization software
+
+The **me** are civilization-functions: kingship, priesthood, crafts, law, sex, music, truth, deceit, weapons, family offices, ritual offices, and other social powers. Inana receives or takes them from Enki at Eridu and brings them to Uruk in the Boat of Heaven.
+
+Novel use: this is the cleanest ancient analogue for technology as installed capacity. Civilization is not only buildings and armies; it is a portable operating system of roles, permissions, arts, seductions, and weapons. The me can be copied, stolen, transferred, misread, or used before a community is mature enough to carry them.
+
+Guardrail: do not make the me into literal computer files. The value is the analogy: functions can move between centers of power, and whoever controls the transfer can shape a civilization's instincts.
+
+### Inana's Descent — healing by resonance
+
+In **Inana's Descent**, Enki creates small liminal beings who do not storm the underworld by force. They sit with Ereshkigal and mirror her pain. Only after that resonance do the life-giving plant and water restore Inana.
+
+Novel use: this is the strongest ancient rhyme for the healer's method. Healing is not command, conquest, diagnosis-by-force, or charisma. It begins with accurate resonance: meeting the suffering system where it is, then applying the right life-energy intervention. This should foreshadow the healer's refusal to be worshipped; the healing belongs to the alignment, not to a new godman.
+
+Possible line of interpretation: the life-giving plant and water are not magic fuel by themselves. They work because the closed system has first been met without aggression.
+
+### Enki and the World Order — macro role-allocation
+
+**Enki and the World Order** is the macro version of **Enki and Ninmah**. Enki assigns lands, crafts, borders, fertility, canals, writing, tools, and divine offices. Inana's complaint matters because it reveals that even gods can contest the allocation of functions.
+
+Novel use: civilization is a function-allocation machine. It produces coherence by giving everything a place, but that coherence can become domination when the assigned function replaces the living being. Pair it with the Three Circles: the outer circle becomes powerful when it coordinates bodies and families, but pathological when it consumes them.
+
+### Apkallu and Uanna — intermediary beings
+
+The **apkallu** are primeval sages associated with antediluvian wisdom, city foundations, protection, and the transmission of arts. They appear in traditions as fish-cloaked, bird-associated, or otherwise more-than-human figures, and protective figurines can place such beings inside walls, foundations, and thresholds.
+
+Novel use: the ancient world was not cleanly "humans versus gods." It included intermediary beings, technicians, guardians, and teachers. This supports the trilogy's final test: can humans live beside magical or evolved beings without reducing them to demons, gods, tools, or trophies?
+
+Guardrail: use one concrete material witness if needed, such as a foundation figurine, drawing, inventory, or excavated context. Avoid turning the apkallu into generic fantasy wizards.
+
+### Lamashtu and Pazuzu — dangerous protection
+
+The **Lamashtu/Pazuzu** amulet tradition belongs in the Body and Family circles: pregnancy, infants, sleep, disease, nightmares, and household protection. Its dramatic value is that Pazuzu is frightening and still protective against Lamashtu. Protection does not have to look pure.
+
+Novel use: this prepares readers for coexistence with beings who are not morally simple. A mature community may need to work with dangerous protectors without prettifying them, worshipping them, owning them, or killing them on sight.
+
+### Etana and the eagle — covenant and ascent
+
+**Etana** seeks the plant of birth; the eagle has broken covenant with the serpent; ascent toward heaven becomes terrifying. This is optional but useful if the Family circle needs an ancient mirror for infertility, dynasty, succession, and the temptation to solve birth by reaching upward for divine power.
+
+Novel use: the broken eagle-serpent covenant can echo human/non-human treaty failure. The ascent can mirror the trilogy's warning: life is not secured by conquering heaven if the relationships below remain broken.
+
+### Erra and Ishum — violence and restraint
+
+**Erra and Ishum** is optional, probably Volume III material. It carries plague, panic, violence, and civilizational breakdown, with Ishum functioning as restraint, witness, or conscience around Erra's destructive force.
+
+Novel use: this can mirror modern state violence and war panic. The important question is not whether destructive force exists; it is whether anyone can restrain it before civilization converts fear into extermination.
 
 ## The Arslan Tash and Destinies guardrails
 
