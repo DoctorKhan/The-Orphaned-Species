@@ -238,11 +238,14 @@ The trilogy must lead the reader to infer that technology is humanity's **extern
 2. Instruments make part of the phenomenon measurable without explaining it away. Mechanism reduces panic while leaving genuine mystery intact.
 3. A state, faction, or market uses the same technology to detect, classify, own, conscript, or destroy the living carrier. The tool reveals its immature use: fear made efficient.
 4. Ordinary people use technology differently—to translate, verify consent, establish limits, treat injury, share evidence, and coordinate protection without ownership.
-5. A relationship or community proves coexistence before the climax. Humans and anomalous beings share risk, law, care, and disagreement without turning difference into worship or extermination.
+5. Science turns fear into testable standards. Predicting meteor showers, measuring line effects, documenting healing limits, or testing psion claims should make manipulation harder rather than less magical. A phenomenon that can be observed, replicated in limited ways, challenged, and audited is harder to convert into priestcraft or panic.
+6. A relationship or community proves coexistence before the climax. Humans and anomalous beings share risk, law, care, and disagreement without turning difference into worship or extermination.
 
 These beats may occur in any volume and should be braided into pursuit, medicine, communication, surveillance, and the psionic war. No scene exists merely to compare a phone to telepathy.
 
-The final coalition is successful only if it demonstrates the distinction Crane denies: **regulate harmful conduct without making a person's nature state property**. Magical beings are neither automatically holy nor exempt from accountability. They can be dangerous, mistaken, selfish, or criminal. Coexistence means the same reciprocal moral world applies to everyone, while compulsory registration, segregation, conscription, experimentation, worship, and extermination are refused.
+The final coalition is successful only if it demonstrates the distinction Crane denies: **regulate harmful conduct without making a person's nature state property**. Magical beings are neither automatically holy nor exempt from accountability. They can be dangerous, mistaken, selfish, or criminal. Coexistence means the same reciprocal moral world applies to everyone, while compulsory registration, segregation, conscription, experimentation, worship, and extermination are refused. Science belongs on the freedom side only when it remains falsifiable, consent-bound, transparent about limits, and open to review. It becomes Crane's tool the moment testing turns into ownership.
+
+Psion accountability should therefore have standards, not sacred exemptions: what was observed, under what conditions, with whose consent, with what physiological cost, with what independent witnesses or instruments, and with what remedies if harm occurred. This is the constructive-control answer to both priestly manipulation and anti-regulatory chaos.
 
 The ending need not claim that the entire planet has passed. It must provide undeniable proof that humans *can* live beside healers, psions, carriers, non-human intelligences, and other evolved beings without kneeling, burning, or caging. That viable local proof is the "spreading fire": the experiment has produced the form of its answer.
 
