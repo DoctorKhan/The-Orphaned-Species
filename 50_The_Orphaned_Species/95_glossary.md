@@ -68,6 +68,8 @@
 
 **The Social Game** — the operational layer of control; predicting and exploiting installed human behavior. Not "evil" but *technique*. Re-installed from memory by human warlords after the gods leave.
 
+**Courtly intrigue layer** — the Social Game expressed through salons, donor circles, embassies, clinics, research institutes, museum boards, private collections, intelligence cutouts, refugee offices, and factional hospitality. Conflict occurs through access, invitation, debt, desire, reputation, secrecy, and controlled protection. It gives the trilogy *Game of Thrones* / *Dangerous Liaisons* friction without requiring literal courts.
+
 **Binary Programming** — installed by the Anunnaki as a temporary learning tool, later exploited by the Igigi for permanent control: reducing reality to either/or (good/evil, us/them) so emotional triggers bypass complex reasoning. Overcome by **tertiary consciousness**.
 
 **The provisioning instinct** — ritual sacrifice and crop-tribute (the seed of taxation), burned in as *instinct, not policy*. After the Abandonment the drive to feed-and-pay an authority above keeps firing into a vacuum and **escalates** (toward human sacrifice, ruinous taxation), manufacturing the invented **father-god**.

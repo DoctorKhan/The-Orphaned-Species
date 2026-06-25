@@ -189,6 +189,23 @@ Do not use a new anonymous psion squad at every location. Design one recurring t
 
 This gives the war a human face below Crane.
 
+### Courtly intrigue and social manipulation
+
+The pursuit should not be only chase scenes, archives, and psion attacks. Add a recurring layer of **courtly intrigue**: parties, salons, clinics, research institutes, embassies, donor circles, refugee offices, private collections, temple/museum boards, intelligence cutouts, and factional hospitality where people fight with invitation, status, secrecy, flirtation, debt, reputation, and controlled access.
+
+Use *Game of Thrones* / *Dangerous Liaisons* energy as social technique, not costume:
+
+- every powerful room has a visible topic and a hidden bargain;
+- hospitality is both shelter and trap;
+- sex, romance, admiration, pity, and spiritual hunger can be used as leverage, but the story must distinguish manipulation from real intimacy;
+- a guest list can matter as much as a battlefield map;
+- scholarship, philanthropy, asylum, and care can hide ownership claims;
+- someone can win a scene by causing two other factions to misread each other;
+- Wren should be competent here: reading threat, desire, leverage, and performance before Eli understands what room he is in;
+- Crane should be most dangerous when he appears reasonable, civil, and socially indispensable.
+
+This layer should express the **Social Game** in present tense. The old court has become foundations, agencies, conferences, clinics, black-budget programs, media ecosystems, private collections, and humanitarian corridors. The dramatic question is whether the protagonists can move through these rooms without becoming pieces on someone else's board.
+
 ## 6. Crane's argument and Eli's answer
 
 Crane's strongest case:
