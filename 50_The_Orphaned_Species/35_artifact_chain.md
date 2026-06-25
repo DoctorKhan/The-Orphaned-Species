@@ -56,6 +56,7 @@ The artifact tells a story central to the coexistence test: humanity is one bran
 | **Adapa tablet with a lacuna** | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | Establishes wrong knowledge as a control technology and makes the absent line itself a plot problem rather than a footnote |
 | **Enki and Ninmah role-fragment** | Real Sumerian literary tradition with fragmentary lines; exact object in the novel may be a copy, photo, or disputed reconstruction | Ninmah creates impaired humans; Enki assigns them fates, bread, and social positions, then creates Umul, whom Ninmah cannot place | Forces the group to ask whether civilization's compassion is inclusion, useful assignment, bureaucratic containment, or ownership by role |
 | **Inana and Enki / the me** | Real Sumerian literary tradition | Civilization-functions are loaded into the Boat of Heaven and transferred from Eridu to Uruk | Shows civilization as transferable software: offices, arts, laws, desires, weapons, and rituals can be moved, stolen, installed, or misused |
+| **Enheduanna's Inanna hymns** | Real Sumerian literary tradition attributed to Enheduanna; authorship and transmission require caveats because surviving manuscripts are later copies | A named priestess-poet invokes Inanna's overwhelming power while speaking from exile, institutional displacement, and political danger | Gives the trilogy a historical model for authored voice, sacred rhetoric, female religious authority, and the danger of hymn becoming imperial/theological technology |
 | **Inana's Descent / life-giving plant and water** | Real Sumerian literary tradition | Liminal beings mirror Ereshkigal's pain, then restore Inana with life-giving plant and water | Gives the healer arc an ancient rhyme: restoration through resonance, attention, and correct intervention rather than domination |
 | **Enki and the World Order** | Real Sumerian literary tradition | Enki assigns offices, lands, crafts, borders, fertility, writing, and social functions; Inana contests her allocation | Provides the macro-version of the role-fragment: civilization as a function-allocation machine |
 | **Arslan Tash Amulet 1 (AT1)** | Inscribed limestone plaque/amulet, conventionally dated to the seventh century BCE; acquired through the antiquities market rather than controlled excavation, with authenticity and readings debated | In the supplied working translation, ʿOlam, Asherah, all the sons of El, and the great council of the Holy Ones enter a covenant oath | Preserves goddess, divine sons, and council inside one protective household object; its disputed status forces evidence-testing rather than instant theological proof |
@@ -173,6 +174,25 @@ The **me** are civilization-functions: kingship, priesthood, crafts, law, sex, m
 Novel use: this is the cleanest ancient analogue for technology as installed capacity. Civilization is not only buildings and armies; it is a portable operating system of roles, permissions, arts, seductions, and weapons. The me can be copied, stolen, transferred, misread, or used before a community is mature enough to carry them.
 
 Guardrail: do not make the me into literal computer files. The value is the analogy: functions can move between centers of power, and whoever controls the transfer can shape a civilization's instincts.
+
+### Enheduanna's Inanna hymns — authored sacred voice
+
+Use **Enheduanna** through the Inanna hymn tradition, especially **The Exaltation of Inana** (*Nin-me-sara*) and, if needed, the broader temple-hymn material. Her value is not that she is a token "first woman writer" dropped into the chain. Her value is structural:
+
+- a named human voice enters sacred record;
+- a priestess-poet speaks from displacement, danger, and contested authority;
+- hymn becomes both personal cry and political theology;
+- Inanna is praised as overwhelming, dangerous, and not domesticated into a gentle mother figure;
+- authored song can preserve resistance, but it can also serve dynasty, temple, empire, and later scribal authority.
+
+Novel use: Enheduanna bridges Anthea, Wren, Eli's mother, the Pai performer, and Eli's eventual bard function. She shows that song and language are not decorative. They can organize divine power, public memory, legitimacy, exile, and return. Her material should complicate prophecy-shaped language: a hymn can feel prophetic without being a future guarantee.
+
+Guardrails:
+
+- Spell her **Enheduanna** unless quoting a source with another transliteration.
+- Treat the attribution respectfully but cautiously. The historical Enheduanna is real; the authorship and final form of individual hymns are debated because surviving manuscripts are later copies.
+- Do not flatten her into a modern feminist symbol, a prophetess, or an Inanna avatar. She is a political, priestly, literary, and embodied person inside a real power system.
+- Do not make her "solve" Inanna. Her hymn should intensify the question of power: how does a person invoke overwhelming force without becoming its mouthpiece or its property?
 
 ### Inana's Descent — healing by resonance
 

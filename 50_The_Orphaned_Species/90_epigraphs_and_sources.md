@@ -244,4 +244,21 @@ URL: https://www.livius.org/sources/content/anet/266-the-sumerian-king-list/
 
 *Drop new papers, quotes, and excerpts here as you find them; we'll file and assign placement later. Anything goes — peer-reviewed papers, archaeology reports, ancient texts (Adapa tablet lines, Enūma Eliš, etc.), or a stray sentence that rhymes with the myth.*
 
-- 
+### Enheduanna / Inanna hymn material
+
+**Candidate use:** sacred authored voice, hymn as rhetoric, priestly displacement, and Inanna's dangerous undomesticated power. This can connect Anthea, Wren, Eli's mother, the Pai performer, and Eli's later bard function without turning any of them into Enheduanna reincarnated.
+
+**Primary text candidates to verify before quotation:**
+
+- *The Exaltation of Inana* / *Nin-me-sara* / Inana B.
+- *A hymn to Inana* / Inana C.
+- The Sumerian Temple Hymns, traditionally associated with Enheduanna but debated.
+
+**Source anchors:**
+
+- Electronic Text Corpus of Sumerian Literature, *The Exaltation of Inana*.
+- Electronic Text Corpus of Sumerian Literature, *A hymn to Inana*.
+- Electronic Text Corpus of Sumerian Literature, *The temple hymns*.
+- Penn Museum / CDLI material for the Disk of Enheduanna if the physical object becomes relevant.
+
+**Caution:** Enheduanna herself is historically attested, but the authorship and final form of the attributed hymns require caveats because the extant manuscripts are later copies. Do not quote or build a plot turn from a line until the edition and translation are chosen.
