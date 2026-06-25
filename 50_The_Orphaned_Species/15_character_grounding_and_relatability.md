@@ -122,6 +122,10 @@ Bangladesh cannot exist only as the place where his family died. Carry it throug
 
 Albion closes the mother's mystery. It does not reveal Eli's truer self or replace Bangladesh as home.
 
+Bangladesh should remain an unreturnable or not-yet-returnable home. The reason can be political tension after the attack, unresolved legal danger, surveillance, family enemies, risk to surviving contacts, or the simple fact that returning would not restore the life that was destroyed. This keeps the longing active without turning Bangladesh into a symbolic birthplace that can be visited once and solved.
+
+Eli's main emotional drive is the longing for a livable home: a place where grief, abnormal perception, disability, love, work, privacy, and accountability can coexist without a state, faction, family myth, prophecy, or archive defining him first. Forest City gives him a temporary made home; Bangladesh remains the lost home; the final community tests whether mature home can exist without ownership. The mother trail matters because it reopens the wound, but the deeper need is belonging without capture.
+
 ## Wren and present-tense love
 
 Wren's relationship with Eli is relatable only if built through present conduct. Field-recognition can create attraction or alarm, but cannot prove destiny. Their bond needs:

@@ -75,6 +75,24 @@ Social atomization is the social counterpart to the orphan-and-father thread in 
 
 It is also the social expression of the Triangulation of Control in `10_triangulation_of_control.md`: the Machiavellian layer does not need to dominate whole villages if it can first break villages into isolated units and then sell each unit a substitute for belonging.
 
+### Current pressures
+
+Make atomization relatable through material pressures young people recognize. These should appear as rent, paperwork, relationship strain, fertility decisions, mistrust, feeds, and institutional failure—not as lectures.
+
+- **Housing unaffordability:** home becomes subscription, debt, precarity, couch-surfing, delayed family formation, or dependence on institutions and employers.
+- **Work and credential precarity:** people perform usefulness because dismissal can mean losing housing, health care, visa status, community, or identity.
+- **Mistrust of government and institutions:** people know they need standards and protection, but expect registries, safety language, and emergency powers to become ownership.
+- **Relationship breakdown:** romance is asked to replace family, ritual, economic security, meaning, sex, friendship, and repair; then blamed when it cannot.
+- **Fertility anxiety:** people want children, fear children, delay children, cannot afford children, cannot find trustworthy partnership, or experience reproduction as policy, market, lineage, or status pressure.
+- **Loss of shared reality:** feeds, propaganda, state secrecy, factional media, and psion interference make people unsure what can be known together.
+- **Medical and mental-health vulnerability:** bodies are expensive, monitored, medicated, optimized, neglected, and used as proof of deservingness.
+- **Climate and ecological anxiety:** the living world feels unstable, and institutions turn survival into private responsibility or technocratic management.
+- **Loneliness under permanent connection:** everyone can be reached, watched, compared, and sorted, but fewer people are held by durable obligations.
+- **AI/automation and replaceability:** intelligence, creativity, and labor feel detachable from the person, making the self easier to evaluate as output.
+- **Institutionalized repair:** people need help, but every path to help creates files, diagnoses, eligibility tests, liability, surveillance, or debt.
+
+The point is not that all modern institutions are bad. The point is that young people can feel the central question in their own lives: **where can I belong without being priced, profiled, optimized, recruited, medicated, registered, or turned into content?**
+
 ### Era expressions
 
 - **Part I, the Singing Village:** the pre-atomized world. Work, ritual, song, child-rearing, and memory still live in the same social body.

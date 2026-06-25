@@ -4,9 +4,11 @@
 
 ## 1. The governing story
 
-> An injured fugitive follows clues to his missing mother through a world where nations weaponize psions, only to discover that reaching her will require letting her go—and refusing the power every faction wants him to seize.
+> An injured refugee with dangerous perceptual abilities tries to protect the possibility of ordinary life and belonging, but a clue to his missing mother exposes him to a global fight over whether people like him should be registered, worshipped, weaponized, cured, or killed.
 
 This sentence is the story's filter. A subplot, historical descent, location, faction, or piece of lore belongs in the novel only if it intensifies at least one part of it.
+
+The emotional motor is not abstract destiny and not only "find mother." It is the longing for **home, belonging, and meaning in a time when every system wants to classify the self before the self can live**. Eli wants a safe place where no one can turn him or the people he loves into property. The mother thread is the wound and the personal route into that longing; the larger engine is protecting the possibility of ordinary life.
 
 ### The four dramatic functions
 
@@ -14,12 +16,26 @@ Do not ask one concept to perform every job:
 
 | Function | Story element | Question it creates |
 |---|---|---|
-| **Motor** | Eli searches for the truth about his mother | What happened to her, and is the next clue worth its cost? |
+| **Motor** | Eli tries to protect ordinary life, home, and belonging while following the mother clue that threatens them | Can he find meaning and safety without letting a state, faction, lover, parent, prophecy, or archive define what he is? |
 | **Burden** | Seven distinct dead lives intrude through him | Can he receive them without becoming or possessing them? |
 | **Temptation** | He may be able to control the amplifier and network | Will he become the necessary ruler every faction claims the world needs? |
 | **External conflict** | Countries and irregular groups wage a psionic war | Can anyone remain free when consciousness itself becomes military infrastructure? |
 
-The clue trail moves the body. The Seven destabilize identity. The amplifier tests character. The war supplies pressure.
+The longing for home supplies the heart. The clue trail moves the body. The Seven destabilize identity. The amplifier tests character. The war supplies pressure.
+
+### Home, belonging, and meaning
+
+The trilogy should speak directly to contemporary loneliness, housing precarity, displacement, surveillance, medical fear, fertility anxiety, relationship breakdown, institutional mistrust, political sorting, and spiritual hunger. Eli is not looking for a grand identity; he is trying to keep a life in which he can be ordinary without lying about what he is.
+
+Use three recurring forms of home:
+
+- **Lost home:** Bangladesh, family, father, mother, language, food, danger, exile, political tension, and the unfinished life Eli was forced to leave. It should remain emotionally alive but not simply recoverable; return may be unsafe, legally impossible, politically dangerous, or personally unbearable.
+- **Made home:** Forest City, training mornings, sailing, meals, privacy norms, neighbors, and the fragile refuge that lets anomalous people remain accountable without becoming public property.
+- **Mature home:** the final mixed community where ordinary and anomalous beings share risk, law, care, work, limits, disagreement, and play without kneeling, burning, caging, or turning anyone into destiny.
+
+Meaning should emerge from belonging and conduct, not from cosmic status. Eli's deepest question is not "Who am I secretly?" but "Where can I live truthfully, with others, without being owned?"
+
+Relatability rule: whenever the mythic conflict risks becoming abstract, ground it in a present pressure a younger reader recognizes—rent, documents, health care, unstable work, dating exhaustion, delayed children, mistrusted institutions, feeds that fracture reality, climate fear, or being treated as data/content rather than a person. These pressures are the modern face of atomization.
 
 ### Four-Corner Opposition
 
