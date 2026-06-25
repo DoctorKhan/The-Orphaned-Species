@@ -185,6 +185,8 @@ Science is the mature discipline inside this telos. It reduces fear by making re
 
 The evolutionary test is coexistence with living power. Humanity previously worshipped, hunted, bred, screened, and exterminated beings stronger or stranger than itself. It passes only when healers, psions, carriers, dragons, plants, spirits, transformed humans, and other anomalous beings can enter ordinary reciprocal life without becoming gods, prey, specimens, commodities, or state assets. Accountability remains attached to conduct; fear is no longer attached to nature.
 
+The final recognition is retrospective inevitability, not fate. Once coexistence is demonstrated, the long history becomes legible: ritual, astronomy, science, law, medicine, communications, computation, and community were all partial rehearsals for living beside power without surrendering agency. It has always been like this because the same problem has always been returning. The ending reveals the pattern; it does not prove that the outcome was guaranteed.
+
 **Book 5 expression:** The living network is discovered through an adventure rather than disclosed as doctrine. Altered plant growth is noticed first; repeated observations establish a conductor; paired anomalies establish the positive and negative ends of a break; crop formations reveal new lines forming; historical stone geometry reveals inward deflection; Cuno's incomplete transmission finally reveals communication at the center. Each step changes the route and increases pursuit. Cuno remains the cleanest preview of the social form: many minds in the right shape becoming one mind without a master. Eli's overlapping path—identification, charged contact, relation, seeing, surge-discrimination, creation—shows one person maturing across registers without creating classes. The returning healer proves that another person can go much deeper in one practice. The Modern Child is the seed of the wider awakening: capacities return first as symptoms without explanation, then as memory, then as practice.
 
 ### Integration map
@@ -280,6 +282,8 @@ Short formula:
 ### Craft rule
 
 Do not explain all three Edens in a single scene. Let the reader feel the repetition: wall, garden, law. The same shape returns across the Seven's records until Eli realizes the garden was never only a place. It was a method.
+
+The trilogy's positive Eden answer is the union of the **Tree of Knowledge** and the **Tree of Life**. The old control story splits them: knowledge becomes forbidden, life becomes withheld, and humanity is kept oscillating between ignorance, fear, obedience, and stolen power. The mature answer is not anti-knowledge and not anti-life. It is knowledge disciplined by life, and life protected by knowledge: science, accountability, and discrimination joined to healing, relationship, ecology, and reciprocal presence.
 
 ---
 

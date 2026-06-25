@@ -249,6 +249,8 @@ Psion accountability should therefore have standards, not sacred exemptions: wha
 
 The ending need not claim that the entire planet has passed. It must provide undeniable proof that humans *can* live beside healers, psions, carriers, non-human intelligences, and other evolved beings without kneeling, burning, or caging. That viable local proof is the "spreading fire": the experiment has produced the form of its answer.
 
+The final recognition should feel retrospectively inevitable without becoming prophecy. Looking back, the reader should understand why it had to be like this: every technology, science, ritual, family structure, religion, fear-response, and failed domination was circling the same problem of how a frightened species learns to live beside power. It has always been like this—not because destiny guaranteed the ending, but because the same human problem kept returning until someone solved it without kneeling, burning, caging, or seizing the throne.
+
 ## 7. Trilogy structure
 
 The exact number of volumes remains open, but the current material naturally forms three dramatic movements.
@@ -469,6 +471,10 @@ Required proof:
 - a durable community or network that does not depend on Eli's command, bloodline, continued presence, or unique moral purity.
 
 The community may remain small, endangered, and imperfect. It may contain fear, crime, resentment, accidents, and political disagreement. What it cannot do is resolve difference through the inherited options of kneeling, burning, or caging. That repeatable social form—not victory over Crane, possession of the grid, or universal awakening—is the positive victory of the third book.
+
+This is the "it has always been like this" landing. The trilogy should not end by announcing a new age from above. It should let the reader recognize the pattern from below: science, ordinary law, healing, relationship, technology, and practice were always partial rehearsals for the same mature form of life. The answer was not hidden because it was exotic; it was hidden because fear kept turning it into worship, extermination, or control.
+
+In Eden language, the ending is the union of the **Tree of Knowledge** and the **Tree of Life**. Knowledge without life becomes classification, prediction, registry, and control. Life without knowledge remains vulnerable to omen, priestcraft, panic, and charismatic manipulation. The mature form is both: living connection disciplined by testable understanding, and scientific accountability held inside reciprocal life.
 
 ### Final movement — the unremarkable afternoon
 

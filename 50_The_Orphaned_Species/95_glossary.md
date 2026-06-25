@@ -143,6 +143,8 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 > Eden I makes the body. Eden II manages the body. Eden III governs the soul.
 
+**Tree of Knowledge / Tree of Life union** — the positive Eden resolution. Knowledge without life becomes classification, prediction, registry, and control; life without knowledge remains vulnerable to omen, panic, priestcraft, and charismatic manipulation. The trilogy's mature answer joins both: scientific accountability, discrimination, and testability held inside healing, ecology, relationship, and reciprocal life.
+
 **The Safehouse Premise.** Earth as a **bolt-hole against catastrophe**: the makers seed durable forms here so their work survives an end they cannot flee. Key correction — **they never arrive in body**; lacking forms of their own to send, they reach Earth as pattern through the **anti-entropic medium**, conducted here by the planetary ley-line network, and construct presence from Earth's matter (dragons, titans, the harvested human line, each fitted to receive). So "refuge" = **continuity carried in Earth-built flesh that can still communicate**, not bodies reaching a destination — the deep urgency behind the Hardware Recall. *Humanity is one such form on a sanctuary world, holding a receiver it has forgotten how to use; the Abandonment is the line going silent.* What the catastrophe was stays a deep-time mystery by design.
 
 ---
@@ -158,6 +160,8 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 **Science as anti-fear discipline** — the mature form of technology's rehearsal function: public observation, repeatable testing, falsifiable claims, standards, consent, peer challenge, and accountability. It prevents manipulation by turning "omens" such as meteor showers into predictable events, and it prevents psion exceptionalism by testing conduct and limits without making a person's nature state property.
 
 **The coexistence test** — humanity succeeds when ordinary, evolved, and non-human beings can share reciprocal life without the old responses of **kneel, burn, or cage**. Magical capacity grants neither divinity nor exemption from accountability; harmful conduct can be constrained without treating a being's nature as property or crime.
+
+**Retrospective inevitability** — the final recognition that "it had to be like this" only after the characters demonstrate accountable coexistence. It is not prophecy or fatalism. It means the reader can look back and see that technology, science, law, ritual, healing, family, and ordinary community were always partial rehearsals for the same problem: living beside power without worship, extermination, ownership, or surrender.
 
 **We-ila / Geshtu-e ("the Ear")** — the slain god "who had *ṭēmu*" (intelligence) in the *Atrahasis*, framed in canon as the **Anunnaki intelligence donated at the Activation** — the *software* (mind), as against the Qingu *stock* (body). The Singers do **not** worship We-ila as a sky-god; to them it is the **latent frequency of intelligence in the genome** — what they *tune*, not a throne. The buried, true counter-myth to the Qingu lie.
 
