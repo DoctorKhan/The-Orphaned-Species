@@ -30,7 +30,7 @@ The trilogy should speak directly to contemporary loneliness, housing precarity,
 Use three recurring forms of home:
 
 - **Lost home:** Bangladesh, family, father, mother, language, food, danger, exile, political tension, and the unfinished life Eli was forced to leave. It should remain emotionally alive but not simply recoverable; return may be unsafe, legally impossible, politically dangerous, or personally unbearable.
-- **Made home:** Forest City, training mornings, sailing, meals, privacy norms, neighbors, and the fragile refuge that lets anomalous people remain accountable without becoming public property.
+- **Made home:** Forest City, ordinary work shifts, training mornings, sailing, meals, privacy norms, neighbors, and the fragile refuge that lets anomalous people remain accountable without becoming public property. Eli should have a real worker role there—maintenance, harbor/boat upkeep, logistics, clinic support, food distribution, or records assistance—so leaving costs him duties and coworkers, not only safety.
 - **Mature home:** the final mixed community where ordinary and anomalous beings share risk, law, care, work, limits, disagreement, and play without kneeling, burning, caging, or turning anyone into destiny.
 
 Meaning should emerge from belonging and conduct, not from cosmic status. Eli's deepest question is not "Who am I secretly?" but "Where can I live truthfully, with others, without being owned?"

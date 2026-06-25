@@ -91,6 +91,7 @@ Eli needs ordinary pressures alongside the extraordinary ones:
 
 - papers, money, shelter, food, transport, medicine, and sleep;
 - fear of detention or return, not only capture by the ring;
+- work shifts, housing obligations, and the practical fear of losing the made home he has earned in Forest City;
 - embarrassment when symptoms become visible;
 - small wants unrelated to destiny;
 - resentment, social mistakes, bad judgment, humor, and occasional cowardice;
@@ -103,6 +104,7 @@ His competence is domain-specific. Training makes him disciplined under physical
 These people make the route a lived social world rather than a sequence of clues. Give each a name, want, and conflict before drafting; neither exists merely to foreshadow Eli.
 
 - **The Pai staff-twirler (girl; name and exact age TBD)** dresses like a jester and performs with a dragon staff. Her movement is playful, difficult, and public: balance, rhythm, misdirection, and delight rather than combat instruction or mystical exposition. The dragon image can rhyme later with the Double-Fork Stone and living dragons, but she is not an oracle, secret lineage-holder, or disguised magical being by default. Eli remembers a person before he recognizes a symbol.
+- **Eli's Forest City work** should be ordinary, physical, and socially embedded: maintenance, harbor/boat upkeep, outbreak logistics, clinic support, food distribution, records assistance, or another role where coworkers depend on him. He is not a guest in the refuge and not secretly important to everyone. He earns trust by showing up, missing things, apologizing, covering shifts, being covered for, and learning how a functioning community protects privacy without abolishing responsibility.
 - **The Forest City martial-arts teacher (man; name TBD)** holds morning practice and teaches several arts, including **Pekiti-Tirsia Kali**. He builds on—and does not replace—the Filipino foundation Eli learned earlier. His instruction should be concrete: footwork, range, angle, timing, restraint, repetition, and how to train safely with people of unequal ability. He is also a community member with outbreak work and obligations beyond teaching.
 - **The Forest City sailing community** uses the available sailboats for ordinary recreation, maintenance, training, and later practical transport. Eli learns basic seamanship: knots, points of sail, reefing, keeping watch, reading wind and weather, docking, and taking instruction aboard. By Volume I he can be useful on a boat but is not an expert skipper. The skill earns its place when the unstable maritime passage requires work, judgment, and cooperation that psionics cannot replace.
 
