@@ -192,9 +192,16 @@ Novel use: civilization is a function-allocation machine. It produces coherence 
 
 The **apkallu** are primeval sages associated with antediluvian wisdom, city foundations, protection, and the transmission of arts. They appear in traditions as fish-cloaked, bird-associated, or otherwise more-than-human figures, and protective figurines can place such beings inside walls, foundations, and thresholds.
 
+Treat **Uanna/U-An/Oannes** and **Adapa** as related but not safely identical. The traditions overlap because both cluster around Enki/Ea, Eridu, water, antediluvian wisdom, and the boundary between human and divine. But their story-functions differ:
+
+- **Uanna/Oannes** = the older apkallu or intermediary-being transmission function: civilization comes from more-than-human teachers, technicians, or guardians.
+- **Adapa** = the humanized tragic-control function: wisdom enters a mortal priest under divine administration, shame-conditioning, and the refusal of life.
+
+The confusion itself is useful evidence. Later civilizations could no longer tell whether the first teacher was a fish-sage, a priest, a semi-divine technician, or a mortal man made into a symbol. The novel should exploit that uncertainty without flattening the figures into one character.
+
 Novel use: the ancient world was not cleanly "humans versus gods." It included intermediary beings, technicians, guardians, and teachers. This supports the trilogy's final test: can humans live beside magical or evolved beings without reducing them to demons, gods, tools, or trophies?
 
-Guardrail: use one concrete material witness if needed, such as a foundation figurine, drawing, inventory, or excavated context. Avoid turning the apkallu into generic fantasy wizards.
+Guardrail: use one concrete material witness if needed, such as a foundation figurine, drawing, inventory, or excavated context. Avoid turning the apkallu into generic fantasy wizards, and avoid treating "Uanna = Adapa" as a settled fact unless a character is intentionally oversimplifying.
 
 ### Lamashtu and Pazuzu — dangerous protection
 

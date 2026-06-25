@@ -103,7 +103,7 @@
 
 **Enki and the World Order** — macro role-allocation story. Enki assigns lands, crafts, borders, fertility, canals, writing, tools, and divine offices; Inana contests the allocation. Novel function: civilization can coordinate life by assigning functions, but becomes domination when the assigned role replaces the living being.
 
-**Apkallu / Uanna witness** — intermediary-being material. The apkallu preserve primeval wisdom, city-foundation protection, and more-than-human transmission through mythic lists, ritual texts, and protective figurines. Novel function: ancient civilization included liminal teachers and guardians, preparing the final coexistence test.
+**Apkallu / Uanna witness** — intermediary-being material. The apkallu preserve primeval wisdom, city-foundation protection, and more-than-human transmission through mythic lists, ritual texts, and protective figurines. Treat Uanna/U-An/Oannes and Adapa as related but not safely identical: Uanna carries the transmission-of-civilization function, while Adapa carries the humanized tragedy/control function. Novel function: ancient civilization included liminal teachers and guardians, preparing the final coexistence test.
 
 **Lamashtu / Pazuzu amulet** — Body-and-Family protective material. Lamashtu threatens pregnancy, infants, sleep, and disease; Pazuzu can be frightening and protective at the same time. Novel function: mature coexistence must handle dangerous protectors without prettifying, worshipping, owning, or exterminating them.
 
