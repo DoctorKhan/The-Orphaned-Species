@@ -10,15 +10,18 @@ Do not solve these by adding more mythology. Solve them by deciding who wants wh
 
 ## Priority 0 — cosmology revision under consideration
 
-### 0. Titans, dragon-drones, and chromosome compatibility
+### 0. Titans, dragon-drones, sub-drone domestication, and chromosome compatibility
 
 A major taxonomy revision is under consideration and must be resolved before another full timeline reconciliation:
 
 - **Term shift:** should **Titans** name the powerful 23-pair drone-worker caste serving the dragons, rather than the current elder-Anunnaki/gods category?
 - **Human perception:** if so, humans can still remember these beings as **Anunnaki**, gods, sky people, or divine managers, because from a human perspective they are godlike even if cosmologically they are drones beneath the dragons.
 - **Atrahasis fit:** this may better match the labor revolt pattern: the beings remembered as Igigi/Anunnaki are themselves workers who refuse labor, after which humans are prepared or substituted as a lower industrial workforce.
-- **0.9-mya mechanism:** decide whether the Hardware Recall remains a direct Earth-stock chromosome-2 fusion, or becomes a managed compatibility/breeding project between 24-pair Earth stock / Adamu and 23-pair Titan stock.
-- **Genetic bridge:** if the latter, the plausible story mechanism is not instant compatibility. First-generation 24×23 crosses would be fertility-constrained, similar to balanced chromosomal-fusion carriers. Across the proposed ~117,000-year bottleneck, directed selection/backcrossing could fix a stable 23-pair line—provided shared panspermic biological grammar keeps the genomes close enough for viable offspring.
+- **Retire "Hardware Recall":** the term likely points in the wrong direction. It implies pulling back existing hardware, but the revised model is about **creating sub-drones for the drones**—a larger, more dexterous workforce beneath the Titan/Anunnaki worker caste.
+- **0.9-mya mechanism:** decide whether Phase II should be renamed **Sub-Drone Domestication**, **Workforce Multiplication**, or another term. The core event would be a managed compatibility/breeding project between 24-pair Earth stock / Adamu and 23-pair Titan stock, not simply a direct Earth-stock chromosome-2 fusion.
+- **Domestication analogy:** use the logic of later commensal/domesticated animals—pigs, dogs, cats, herd animals—where proximity to settlement and selection for useful traits creates a dependent labor/ecology around a dominant species. The Titans/domesticated-drone caste reproduce that logic one level down by making humans useful hands for field-work, mining, line-mapping, and industrial preparation.
+- **Robot analogy:** modern humans understand the logic now because we build robots and AI systems beneath ourselves. The blind spot is recognizing the same relation upward: humans are the robots/sub-drones from the perspective of the Titan/Anunnaki worker caste, just as our robots are sub-workers from our perspective.
+- **Genetic bridge:** the plausible story mechanism is not instant compatibility. First-generation 24×23 crosses would be fertility-constrained, similar to balanced chromosomal-fusion carriers. Across the proposed ~117,000-year bottleneck, directed selection/backcrossing could fix a stable 23-pair line—provided shared panspermic biological grammar keeps the genomes close enough for viable offspring.
 - **Panspermic rationale:** planets function like eggs in a cosmic reproductive ecology. Similar life is seeded broadly from the onset so later arriving intelligences are not wholly alien to local biology; ley lines and planetary conditions then participate in convergent evolution. This explains why cross-world contamination, overtaking, and hybridization are possible without requiring unrelated life to interbreed magically.
 
 Until this is settled, do not silently update every instance of **Titans**, **Anunnaki**, **Igigi**, **Adamu**, **Lullu**, or **Hardware Recall**. Mark local changes as revision-candidate material.
