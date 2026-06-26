@@ -223,6 +223,14 @@ Novel use: the ancient world was not cleanly "humans versus gods." It included i
 
 Guardrail: use one concrete material witness if needed, such as a foundation figurine, drawing, inventory, or excavated context. Avoid turning the apkallu into generic fantasy wizards, and avoid treating "Uanna = Adapa" as a settled fact unless a character is intentionally oversimplifying.
 
+### Enkidu and Shamhat — domestication witness
+
+The **Enkidu/Shamhat** sequence in the *Epic of Gilgamesh* is the cleanest mythic image of domestication at human scale: wild human living with animals; food, sexuality, grooming, language, clothing, and social bond drawing him toward the city; loss of animal belonging traded for entry into human civilization. It should be treated as a story-pattern, not as direct evidence that Shamhat was literally non-human.
+
+Novel use: this witness lets characters argue over whether civilization is rescue, corruption, seduction, education, or capture. A control faction may read Shamhat as the ideal civilizing handler. Forest City should offer the counter-reading: domestication traits such as reduced aggression, bonding, and density-tolerance are not evil by themselves; they become a cage when they are used to replace consent with management. The final community must reclaim the civilizing gifts—food, medicine, law, education, affection, city-scale coordination—without repeating the handler logic.
+
+Guardrail: do not let this become a misogynistic "woman corrupts wild man" reading. Shamhat's function is the social threshold, not blame. If a character claims she is a sky-person or apkallu agent, mark that as an interpretation or factional reading, not settled philology.
+
 ### Lamashtu and Pazuzu — dangerous protection
 
 The **Lamashtu/Pazuzu** amulet tradition belongs in the Body and Family circles: pregnancy, infants, sleep, disease, nightmares, and household protection. Its dramatic value is that Pazuzu is frightening and still protective against Lamashtu. Protection does not have to look pure.

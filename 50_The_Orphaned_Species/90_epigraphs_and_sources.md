@@ -103,7 +103,43 @@ These do **not** prove the exact founders' locations. Use them as scene texture 
 
 ---
 
-## 4. The Silurian Hypothesis — could a prior civilization be detected at all?
+## 4. Human self-domestication — civilization as gift and capture
+
+**A. Human self-domestication.**
+
+**Paper:** Theofanopoulou, C., Gastaldon, S., O'Rourke, T., Samuels, B. D., Messner, A., Martins, P. T., et al. (2017). "Self-domestication in Homo sapiens: Insights from comparative genomics." *PLOS ONE*, 12(10), e0185306. DOI: 10.1371/journal.pone.0185306.
+
+**The finding (paraphrase — confirm before quoting):** The authors compare selective-sweep signals in anatomically modern humans and several domesticated species, arguing that overlapping signals and modern-human anatomy support the hypothesis that *Homo sapiens* underwent a self-domestication process. Their phenotypic frame includes reduced prognathism, smaller teeth and jaws, reduced brow/nasal projection relative to Neanderthals, reduced sexual dimorphism, altered aggression/reactivity, and increased social tolerance/plasticity.
+
+**Why it matters to this book:** This supplies a real-science bridge for Phase VI's domestication theme. The myth says the control system takes a social animal and makes it denser, more cooperative, more administrable, and more vulnerable to management. The science says modern humans can plausibly be read through a self-domestication lens even without outside handlers. The book's move should be: the Igigi exploit and intensify the tendency; they do not create cooperation or compassion.
+
+**B. The fox experiment and its caveats.**
+
+**Core source:** Trut, L. N. (1999). "Early Canid Domestication: The Farm-Fox Experiment." *American Scientist*, 87(2), 160–169.
+
+**Caveat source:** Lord, K. A., Larson, G., Coppinger, R. P., & Karlsson, E. K. (2020). "The history of farm foxes undermines the animal domestication syndrome." *Trends in Ecology & Evolution*, 35(2), 125–136.
+
+**The finding (paraphrase — confirm before quoting):** The Belyaev/Trut experiment selected foxes for tameness and observed behavioral, physiological, and morphological changes over generations, making it a powerful story analogue for selection on behavior producing body-level change. Later critiques argue that the founding foxes were not a clean wild baseline and that a simple, universal "domestication syndrome" caused by tameness alone is too neat.
+
+**Why it matters to this book:** Use the foxes as analogy, not proof. The useful story principle is that selection for social tolerance, reduced fear, and density-compatible behavior can reshape an animal's developmental pathway. The guardrail is equally important: do not overclaim a single mechanism, and do not turn contested science into a load-bearing pillar.
+
+**C. The counter-question: self-domestication or self-control?**
+
+**Paper:** Shilton, D., Breski, M., Dor, D., & Jablonka, E. (2020). "Human Social Evolution: Self-Domestication or Self-Control?" *Frontiers in Psychology*, 11, 134. DOI: 10.3389/fpsyg.2020.00134.
+
+**Use:** Good source for keeping the concept open. The story can let characters disagree: are humans domesticated, self-domesticated, trained into self-control, or politically managed after climate/city pressure? That argument is dramatically better than one character announcing the correct answer.
+
+**D. Enkidu and Shamhat.**
+
+**Primary text:** *Epic of Gilgamesh*, Standard Babylonian version, Tablet I.
+
+**Use:** Mythic scene-pattern rather than proof: Enkidu moves from wild animal fellowship into human/city life through Shamhat's sex, food, grooming, clothing, and social instruction. This is the ancient image of domestication as both loss and gain. It should not be flattened into "woman corrupts man," and the claim that Shamhat is literally non-human should be treated as an in-world interpretation rather than settled philology.
+
+**Suggested placement:** Source note for Phase VI and any chapter or argument where domestication must be morally double: the same lowered aggression and bonding that make management possible also make medicine, science, childcare, language, and coexistence possible.
+
+---
+
+## 5. The Silurian Hypothesis — could a prior civilization be detected at all?
 
 **Paper:** Schmidt, G. A., & Frank, A. (2019). "The Silurian hypothesis: would it be possible to detect an industrial civilization in the geological record?" *International Journal of Astrobiology*, 18(2), 142–150. doi:10.1017/S1473550418000095.
 
