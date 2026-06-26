@@ -1,6 +1,6 @@
 # Character Grounding and Relatability
 
-*Craft guardrail for the present-day trilogy. Companion to `/00_NARRATIVE_STRUCTURE.md`. This document protects the human book inside the cosmology.*
+*Craft guardrail for the present-day trilogy. Companion to `/00_NARRATIVE_STRUCTURE.md` and `16_reader_attachment.md`. This document protects the human book inside the cosmology.*
 
 ## The governing judgment
 
@@ -9,6 +9,17 @@ The story is relatable at its foundation but can bury that foundation beneath it
 > A young man loses his mother, family, home, health, and legal safety; other people keep telling him what he is; he must learn to trust his own mind, accept care, love without possession, and remain himself while seven dead strangers press through him.
 
 Readers do not need to share Eli's nationality or circumstances. Relatability comes from the precision of his needs, shame, grief, humor, mistakes, and relationships—not from making his background generic.
+
+## Attachment before mythology
+
+Before a scene asks the reader to understand a mythic system, it must give them a person to care about. The practical standard from `16_reader_attachment.md` governs drafting:
+
+- every major character needs a small human need, a private wound, and a repeated behavior;
+- relationships should change through action, not declarations;
+- warmth, humor, work, embarrassment, fatigue, care, and irritation should appear before catastrophe whenever possible;
+- specific losses matter more than abstract stakes.
+
+The simplest test is: if all cosmological vocabulary were removed from the scene, would the reader still care because of what these people want from each other? If not, add human pressure before adding lore.
 
 ## Eli's brain injury — LOCKED
 

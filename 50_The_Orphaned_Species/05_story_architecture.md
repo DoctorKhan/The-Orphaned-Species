@@ -578,6 +578,7 @@ Every chapter should answer this card before drafting:
 | Field | Required answer |
 |---|---|
 | **Immediate want** | What does the viewpoint character need before the chapter ends? |
+| **Attachment beat** | Which ordinary need, wound, repeated behavior, warmth, humor, care, or specific loss makes the reader care about this person here? |
 | **Human obstacle** | Which person wants something incompatible? |
 | **Material pressure** | What do geography, law, illness, transport, weather, or money prevent? |
 | **Psionic pressure** | How does intrusion, detection, false certainty, or group conflict complicate—not replace—the material problem? |
@@ -588,6 +589,8 @@ Every chapter should answer this card before drafting:
 | **Aftermath** | How does the consequence register in body and relationship? |
 
 If the chapter's only answer is “Eli learns more lore,” compress or remove it.
+
+Use `16_reader_attachment.md` as the test for whether a chapter has enough human gravity. A scene can carry a revelation only after it gives the reader a character-specific reason to care what the revelation costs.
 
 ## 11. Lore discipline
 
@@ -617,7 +620,8 @@ If the chapter's only answer is “Eli learns more lore,” compress or remove i
 2. Create a twelve-to-fifteen-chapter beat sheet for Volume I using the chapter card.
 3. Write the Melaka opening through the first irreversible escape decision.
 4. Write one quiet Forest City memory and one present aftermath scene to establish the hearth.
-5. Draft the first rival-team encounter from the victim's embodied perspective.
+5. Draft one attachment-first scene for each primary present-day character using `16_reader_attachment.md`: ordinary want, private wound, repeated behavior, and one relationship-changing action.
+6. Draft the first rival-team encounter from the victim's embodied perspective.
 6. Draft the Volume I climax before expanding the cosmology further.
 7. Reassess whether the story wants three volumes or one compressed novel based on actual scene length and momentum.
 

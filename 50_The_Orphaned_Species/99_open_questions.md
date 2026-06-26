@@ -170,4 +170,4 @@ The final feeling is locked: **an afternoon nobody turns into destiny**. The exa
 
 ## Next practical step
 
-Create a twelve-to-fifteen-chapter Volume I beat sheet after answering Priority 1. Every chapter should have an immediate want, material obstacle, psionic pressure or social-intrigue pressure, irreversible choice, cost, single revelation, and forward clue. At least several chapters should turn on hospitality, invitation, debt, reputation, institutional access, or factional misreading rather than physical pursuit.
+Create a twelve-to-fifteen-chapter Volume I beat sheet after answering Priority 1. Every chapter should have an immediate want, attachment beat, material obstacle, psionic pressure or social-intrigue pressure, irreversible choice, cost, single revelation, and forward clue. At least several chapters should turn on hospitality, invitation, debt, reputation, institutional access, or factional misreading rather than physical pursuit. Use `16_reader_attachment.md` to make sure each major character has a visible ordinary need, private wound, repeated behavior, and relationship-changing action before the cosmology asks the reader for scale.
