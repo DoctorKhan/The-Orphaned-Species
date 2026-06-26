@@ -8,6 +8,21 @@ The trilogy has a strong thematic spine, ending, and cosmological architecture. 
 
 Do not solve these by adding more mythology. Solve them by deciding who wants what, where, by when, against whom, and what is lost.
 
+## Priority 0 — cosmology revision under consideration
+
+### 0. Titans, dragon-drones, and chromosome compatibility
+
+A major taxonomy revision is under consideration and must be resolved before another full timeline reconciliation:
+
+- **Term shift:** should **Titans** name the powerful 23-pair drone-worker caste serving the dragons, rather than the current elder-Anunnaki/gods category?
+- **Human perception:** if so, humans can still remember these beings as **Anunnaki**, gods, sky people, or divine managers, because from a human perspective they are godlike even if cosmologically they are drones beneath the dragons.
+- **Atrahasis fit:** this may better match the labor revolt pattern: the beings remembered as Igigi/Anunnaki are themselves workers who refuse labor, after which humans are prepared or substituted as a lower industrial workforce.
+- **0.9-mya mechanism:** decide whether the Hardware Recall remains a direct Earth-stock chromosome-2 fusion, or becomes a managed compatibility/breeding project between 24-pair Earth stock / Adamu and 23-pair Titan stock.
+- **Genetic bridge:** if the latter, the plausible story mechanism is not instant compatibility. First-generation 24×23 crosses would be fertility-constrained, similar to balanced chromosomal-fusion carriers. Across the proposed ~117,000-year bottleneck, directed selection/backcrossing could fix a stable 23-pair line—provided shared panspermic biological grammar keeps the genomes close enough for viable offspring.
+- **Panspermic rationale:** planets function like eggs in a cosmic reproductive ecology. Similar life is seeded broadly from the onset so later arriving intelligences are not wholly alien to local biology; ley lines and planetary conditions then participate in convergent evolution. This explains why cross-world contamination, overtaking, and hybridization are possible without requiring unrelated life to interbreed magically.
+
+Until this is settled, do not silently update every instance of **Titans**, **Anunnaki**, **Igigi**, **Adamu**, **Lullu**, or **Hardware Recall**. Mark local changes as revision-candidate material.
+
 ## Priority 1 — required before drafting Volume I
 
 ### 1. Opening causal chain

@@ -11,6 +11,8 @@
 
 **Source of truth.** The phase structure and dates are canon from `30_The_Human_Experiment/src/90_appendix/10_timeline.md`. Where this doc and that appendix disagree, the appendix wins until reconciled. Science anchors are tracked in `50_The_Orphaned_Species/90_epigraphs_and_sources.md`. Testable predictions and falsifiers derived from the cosmology (the anchor-vs-gloss surplus, tagged *live / strained / unfalsifiable*) are collected in `50_The_Orphaned_Species/91_predictions_and_falsifiers.md`.
 
+> **Live revision note — Titans / dragon-drones / 23-chromosome compatibility.** Current taxonomy still uses **Titans = elder Anunnaki / gods**. A proposed revision would instead use **Titans** for the powerful 23-pair drone-worker caste serving the dragons: beings humans remember as Anunnaki, gods, and sky people because relative to humans they are godlike, even if cosmologically they are labor/managerial drones beneath the dragons. Under this revision, the ~0.9-mya Hardware Recall may become a managed compatibility project rather than a direct on-Earth fusion: 24-pair Earth stock / Adamu is crossed with 23-pair Titan stock, producing fertility-constrained intermediates until a stable 23-pair human variety is fixed across the long bottleneck window. This requires a full terminology and genetics pass before replacing canon. Key constraint: chromosome count alone is not enough; compatibility must be explained by shared panspermic biological grammar plus directed selection/backcrossing across the ~117,000-year bottleneck.
+
 ---
 
 # Part I — Scannable Summary
