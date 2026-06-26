@@ -8,6 +8,13 @@ The trilogy has a strong thematic spine, ending, and cosmological architecture. 
 
 Do not solve these by adding more mythology. Solve them by deciding who wants what, where, by when, against whom, and what is lost.
 
+## Locked title direction
+
+- **Series:** *The Orphaned Species*
+- **Book I:** *The Orphaned Species: The Breach*
+- **Book II:** *The Orphaned Species: The Descent*
+- **Book III:** *The Orphaned Species: The Living World*
+
 ## Priority 0 — cosmology revision adopted for outlining
 
 ### 0. Titans, dragon-drones, sub-drone domestication, and chromosome compatibility
