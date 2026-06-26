@@ -1,6 +1,6 @@
 # Book 50 — Story Architecture
 
-> **Status:** working structural synthesis based on the current canon in `00_NARRATIVE_STRUCTURE.md`, `00_outline.md`, and the Book 50 concept files. This document organizes existing material into a dramatic structure. It does not silently settle open questions such as the exact Melaka accident, country/bloc names, the healer's name/location, or the final volume count. Track unresolved structural commitments in `99_open_questions.md`.
+> **Status:** working structural synthesis based on the current canon in `00_NARRATIVE_STRUCTURE.md`, `00_outline.md`, and the Book 50 concept files. This document organizes existing material into a dramatic structure. It does not silently settle open questions such as the exact Melaka accident, country/bloc names, the healer's name/location, or the final volume count. Track unresolved structural commitments in `99_open_questions.md`. For the order in which discoveries should become entertaining to the reader, use `17_reveal_order_and_reader_impact.md`.
 
 ## 1. The governing story
 
@@ -533,6 +533,8 @@ Do not close on a throne, prophecy, cosmic voice, explanatory speech, or promise
 
 Each revelation must change a decision. Do not deliver two major cosmological answers in one chapter.
 
+This schedule is a decision ledger, not a curriculum. The reader-facing reveal order should follow `17_reveal_order_and_reader_impact.md`: emotional escalation first, terminology second. Effects before causes; practices before doctrines; human stakes before cosmic claims.
+
 | Order | Revelation | Likely placement | Decision it changes |
 |---|---|---|---|
 | 1 | Eli cannot trust the ownership of every memory he experiences | Volume I opening | He accepts help with differentiation |
@@ -623,7 +625,7 @@ Use `16_reader_attachment.md` as the test for whether a chapter has enough human
 4. Write one quiet Forest City memory and one present aftermath scene to establish the hearth.
 5. Draft one attachment-first scene for each primary present-day character using `16_reader_attachment.md`: ordinary want, private wound, repeated behavior, and one relationship-changing action.
 6. Draft the first rival-team encounter from the victim's embodied perspective.
-6. Draft the Volume I climax before expanding the cosmology further.
-7. Reassess whether the story wants three volumes or one compressed novel based on actual scene length and momentum.
+7. Draft the Volume I climax before expanding the cosmology further.
+8. Reassess whether the story wants three volumes or one compressed novel based on actual scene length and momentum.
 
 The governing test is simple: a reader should always know what Eli wants now, whom he cares about, what the next clue might cost, and why taking control would be easier than remaining free.
