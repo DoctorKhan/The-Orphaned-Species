@@ -14,6 +14,8 @@
 
 4. **The number was never full in any one source.** Don't try to force exactly seventy. The point is the *method* and the strongest defensible names.
 
+5. **Do not conflate the councils.** A live cosmology revision adds a higher elder council of **Anu + 26** original Anunnaki on the spirit plane. That is a metaphysical governance register, not this roster. This file reconstructs the **seventy sons / gods of the nations** — the territorial-administrative layer remembered in Ugaritic, biblical, and neighboring pantheon evidence.
+
 ---
 
 ## A. The frame — apex, consort, and the chaos-tier

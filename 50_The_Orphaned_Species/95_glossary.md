@@ -6,6 +6,8 @@
 >
 > **Revision candidate:** the term **Titans** may be reassigned in a future taxonomy pass to the powerful 23-pair drone-worker caste serving the dragons—the beings humans remember as Anunnaki/gods because they are godlike relative to us, even if cosmologically subordinate. If adopted, **Hardware Recall** should likely be retired as the name for the ~0.9-mya event. The replacement concept is **Sub-Drone Domestication / Workforce Multiplication**: managed 24-pair Earth stock × 23-pair Titan compatibility work creates a larger, dexterous sub-drone workforce for the drone caste. Do not update isolated entries until the full taxonomy pass is made.
 >
+> **Revision candidate — Anu + 26.** The original Anunnaki may no longer be embodied historical actors: they have passed on and persist on the **spirit plane** as an elder council of **Anu plus twenty-six others**, continuing to manage Earth indirectly through field, dream, omen, resonance, and delegated intermediaries. Keep this distinct from the **seventy sons / gods of the nations**, which remains the lower territorial-administrative layer unless the divine-council model is fully rewritten.
+>
 > **Register note.** These terms are the functional mythology of the series, not literal historical or scientific claims. Where a term rests on real data (ancient DNA, archaeology, philology), the science is cited as *grounding*; the mythic reading stays visibly separate. See `40_concepts.md` ("Ancient DNA guardrails").
 
 ---
@@ -13,6 +15,8 @@
 ## The two generations and the cosmology
 
 **Anunnaki** *(Greek: the **Titans**)* — the **elder** generation: the original geneticists and creators (Enki and his peers). They seed and engineer humanity (Phases I–II), walk among us as the benevolent "living gods" of the golden age (Phase IV), install the consciousness **locks**, and argue for eventual human independence. They lose the war in heaven (Phase V). *The dormant human potential, the locks, and the consciousness technologies are all Anunnaki — the creators' gift.* (In the prior* Human Experiment *glossary this generation was called the "Titans.")
+
+**Anu + 26 / the elder spirit council** *(revision candidate)* — the original Anunnaki after they pass beyond embodied history. They continue as a twenty-seven-seat council on the spirit plane, with **Anu** presiding, and manage Earth through nonlocal influence rather than direct physical rule. This is not the same as the seventy territorial sons; it is the higher elder register behind or above the administrative pantheons.
 
 **Igigi** *(Greek: the **Olympians**)* — the **younger** generation: in the *Atrahasis* the junior gods forced to mine until they revolted, which is *why* the Anunnaki engineered humanity to replace them. They win the Generational War (Phase V), run the control era (Phase VI: agriculture, the 17:1 clamp, the Nephilim, the purge), then **abandon the planet** once it is stripped (Phase VII). *Politically the controllers — but biologically still Anunnaki stock, so their hybrids carry the same genome.* (Called "Anunnaki" in the prior glossary.)
 
