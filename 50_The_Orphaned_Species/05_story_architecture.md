@@ -288,6 +288,16 @@ The final recognition should feel retrospectively inevitable without becoming pr
 
 The exact number of volumes remains open, but the current material naturally forms three dramatic movements.
 
+**Series title:** **The Orphaned Species**.
+
+Use commercial subtitles for the published trilogy and keep the abstract labels as internal movement names. Avoid using **Manual Override** as a trilogy subtitle because it already names the separate practice/manual book in the larger project.
+
+| Published title | Internal movement | Reader-experience function |
+|---|---|---|
+| **The Orphaned Species: The Breach** | **Volume I — Shattering** | **Book I — Mystery and body** |
+| **The Orphaned Species: The Descent** | **Volume II — Descent** | **Book II — Family and civilization** |
+| **The Orphaned Species: The Living World** | **Volume III — Choice** | **Book III — Species and coexistence** |
+
 Use the **Volume** labels as dramatic movements and the reveal-order document's **Book** labels as reader-experience functions:
 
 | Dramatic movement | Reader-experience function |
