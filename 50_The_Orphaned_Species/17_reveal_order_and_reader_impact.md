@@ -70,8 +70,8 @@ The first artifact should not explain aliens, dragons, Anunnaki, chromosomes, or
 
 Best early candidates:
 
-- **Three-Circles Tablet** — because it connects to Eli's body, charges, autopilot, and the practical need to remain himself under pressure.
-- **Double-Fork Stone** — because it is visually memorable and strange, and its lower fork can be partially tested without proving the upper fork.
+- **Three-Circles Tablet** — preferred first major artifact, because it connects to Eli's body, charges, autopilot, and the practical need to remain himself under pressure.
+- **Double-Fork Stone** — preferred second major artifact, because it is visually memorable and strange, and its lower fork can be partially tested without proving the upper fork.
 - **Sumerian King List** — useful if the opening needs an institutional/political hook, but probably heavier than the first two.
 
 Use images before terminology. Readers remember circles, forks, wounds, boats, food, and thresholds more easily than taxonomies.
@@ -115,7 +115,7 @@ Then the story gradually shows that prophecy may be broken records, psion manipu
 
 Names like Anunnaki, Igigi, Titans, Qingu, Apkallu, Nephilot, Lullu, and Umannu are heavy. They should enter after the reader understands the functional roles.
 
-Better order:
+Working order under the new model:
 
 1. someone built this system;
 2. the builders were not one faction;

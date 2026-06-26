@@ -1,6 +1,6 @@
 # Book 50 — Story Architecture
 
-> **Status:** working structural synthesis based on the current canon in `00_NARRATIVE_STRUCTURE.md`, `00_outline.md`, and the Book 50 concept files. This document organizes existing material into a dramatic structure. It does not silently settle open questions such as the exact Melaka accident, country/bloc names, the healer's name/location, or the final volume count. Track unresolved structural commitments in `99_open_questions.md`. For the order in which discoveries should become entertaining to the reader, use `17_reveal_order_and_reader_impact.md`.
+> **Status:** working structural synthesis based on the current canon in `00_NARRATIVE_STRUCTURE.md`, `00_outline.md`, and the Book 50 concept files. This document organizes existing material into a dramatic structure. It does not silently settle open questions such as the exact Melaka accident, country/bloc names, the healer's name/location, or the final volume count. Track unresolved structural commitments in `99_open_questions.md`. For the order in which discoveries should become entertaining to the reader, use `17_reveal_order_and_reader_impact.md`. For the deep cosmology, the trilogy outline now uses the newer model: **Titans as dragon-serving drone-workers, humans as sub-drones/workforce multiplication, and Anu + 26 as the elder spirit-plane council**. Older timeline/glossary language still needs a separate reconciliation pass.
 
 ## 1. The governing story
 
@@ -140,7 +140,7 @@ Eli never knows the final destination. The outline knows the macro-route; the ch
 
 ### Rules
 
-1. Eli leaves Forest City for one narrow clue in Melaka, not a quest to Albion.
+1. Eli begins in Forest City, then leaves for one narrow clue in Melaka, not a quest to Albion.
 2. A clue indicates only the next investigation, never the remaining itinerary.
 3. The chain does not belong entirely to his mother. It also comes from living communities, the Seven, Wren's contacts, Emrys's measurements, the changing network, and enemy operations.
 4. At least one clue is stale because a ley line broke.
@@ -288,9 +288,17 @@ The final recognition should feel retrospectively inevitable without becoming pr
 
 The exact number of volumes remains open, but the current material naturally forms three dramatic movements.
 
+Use the **Volume** labels as dramatic movements and the reveal-order document's **Book** labels as reader-experience functions:
+
+| Dramatic movement | Reader-experience function |
+|---|---|
+| **Volume I — Shattering** | **Book I — Mystery and body** |
+| **Volume II — Descent** | **Book II — Family and civilization** |
+| **Volume III — Choice** | **Book III — Species and coexistence** |
+
 | Volume | Plot movement | Internal movement | External movement | Ending change |
 |---|---|---|---|---|
-| **I — Shattering** | Breach, pursuit, unstable alliance, first verified record | Confusion → first differentiation | Melaka and maritime Asia → South Asia | Eli knows the Seven are separate people and voluntarily follows the next clue |
+| **I — Shattering** | Hearth, breach, pursuit, unstable alliance, first verified record | Confusion → first differentiation | Forest City → Melaka and maritime Asia → South Asia | Eli knows the Seven are separate people and voluntarily follows the next clue |
 | **II — Descent** | Reconstruction, competing loyalties, mother-reveal, loss of the guide | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
 | **III — Choice** | Convergence, temptation, release, refusal of ownership | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and helps a mixed ordinary/anomalous community survive beyond the emergency without claiming the wider war is over |
 
@@ -300,8 +308,8 @@ The artifacts are a distributed evidence chain, not a museum heist or fixed chec
 
 | Plot pressure | Candidate object/story | Required change |
 |---|---|---|
-| Establish how to read the chain | **Double-Fork Stone**: bird/dragon and chimpanzee/human as paired sibling divergences | The lower fork admits partial independent testing; the upper fork changes from fantasy to dangerous hypothesis and points to a biological investigation |
 | Give the practice a material image | **Three-Circles Tablet**: three concentric circles with a dot in the center | The group first mistakes the diagram for map, cosmology, or hierarchy; later it becomes a test for whether repair radiates through Body, Family, and Civilization from a conscious center |
+| Establish how to read the chain | **Double-Fork Stone**: bird/dragon and chimpanzee/human as paired sibling divergences | The lower fork admits partial independent testing; the upper fork changes from fantasy to dangerous hypothesis and points to a biological investigation |
 | Expose the vacant office | **Sumerian King List** | “Kingship descended from heaven” becomes a claim about transferable administration rather than sacred blood; rival factions seek the missing context |
 | Make wrong knowledge personal | **Adapa tablet with a lacuna** | A warning from a trusted helper becomes evidence that obedience can close the path to life; the missing passage becomes an argument over what Adapa almost knew and why he still refused life |
 | Make domestication morally double | **Enkidu/Shamhat domestication witness** | Wildness, food, sex, grooming, clothing, speech, and city life become an argument over whether civilization is rescue, corruption, education, seduction, or capture |
@@ -312,7 +320,7 @@ The artifacts are a distributed evidence chain, not a museum heist or fixed chec
 | Turn cosmology into route | **Babylonian Map of the World**, later compared with live ley data | A mythic edge or missing region yields a testable next move only when the old map is treated as incomplete |
 | Carry the chain west | **Verified European sky-object** and **Cuno–Derw marked object** | Portable geometry and lossy story converge on Albion without giving anyone a complete manual |
 
-Likely distribution follows the thriller rather than chronology: one or two objects establish the method in Volume I; the Three-Circles Tablet can enter once the group needs a visual grammar for Body, Family, and Civilization; the Persian Gulf/Anatolian investigation brings the densest textual cluster in Volume II; maps, transmitted copies, and Cuno–Derw material converge in Volume III. The order can change whenever geography, pursuit, or character custody produces a better chain. Full treatment: `35_artifact_chain.md`.
+Likely distribution follows the thriller rather than chronology. The **Three-Circles Tablet** is the preferred first major artifact because it helps Eli survive the body/autopilot problem before the story asks the reader to carry deep taxonomy. The **Double-Fork Stone** should follow soon after as the first visual pressure toward biological branching, dragons, and the non-apex status of humanity. The **Sumerian King List** is better as a later institutional/political turn, not the opening image. The Persian Gulf/Anatolian investigation brings the densest textual cluster in Volume II; maps, transmitted copies, and Cuno–Derw material converge in Volume III. The order can change only when geography, pursuit, or character custody produces a better dramatic chain. Full treatment: `35_artifact_chain.md`.
 
 ### The Three Circles as a mixed civilizational braid — LOCKED
 
@@ -320,7 +328,7 @@ The Three Circles are not only a test of whether practice radiates outward. They
 
 They are **not three curriculum units and not one circle per volume**. Plot determines the boundaries of Shattering, Descent, and Choice. Body, Family, and Civilization remain entangled in every volume because each continually produces the others: institutions train families, families condition bodies, and bodies reproduce institutions. The order of discovery can move outside-in, inside-out, or jump scales whenever the pursuit, relationship, historical record, or immediate danger makes that movement dramatically necessary.
 
-The embodied gods and their functioning supervisory system are gone. Some spirits may persist on other planes and factions may still listen to them, but no god remains physically present as the legitimate recipient of human labor, tribute, reproduction, obedience, or worship. The dangerous fact is that many instincts tuned or exploited under that order still run. Human rulers and institutions can therefore inherit the empty god-role without understanding where it came from.
+The embodied gods and their functioning supervisory system are gone. Under the newer working model, the original Anunnaki persist as **Anu + 26** on the spirit plane and may still influence Earth indirectly through field, dream, omen, resonance, intermediaries, and inherited institutions. That does **not** make them legitimate physical owners of human labor, tribute, reproduction, obedience, or worship. The dangerous fact is that many instincts tuned or exploited under the old order still run. Human rulers and institutions can therefore inherit the empty god-role—or claim authorization from higher planes—without understanding where it came from.
 
 | Circle | Instinct or adaptation formed under the gods | Pitfall after the gods are gone | What the novel must dramatize |
 |---|---|---|---|
@@ -374,14 +382,16 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Dramatic question:** Can Eli remain himself long enough to decide whom to trust?
 
-**Immediate objective:** verify the Melaka clue and survive the attention created by the breach.
+**Immediate objective:** protect the Forest City life he has made, verify the Melaka clue, and survive the attention created by the breach.
 
-#### Act I — The breach
+#### Act I — Hearth and breach
 
 - Optional Maren Holt prologue establishes the suppression method.
-- Open in newly reopened Melaka, not with childhood exposition.
-- Forest City appears through lived memory: the safety Eli chose to leave, the man's morning martial-arts practice, and the sailboats on which Eli learned basic seamanship.
-- The Melaka contact supplies one narrow clue connected to his mother.
+- Open in Forest City ordinary life, not childhood exposition or cosmology: work shift, money/status pressure, training morning, sailboats, food, privacy norms, and the fragile refuge Eli chose.
+- The man's morning martial-arts practice and the sailboats are present-tense hearth details, not only memory.
+- An uncanny interruption or human contact points to one narrow Melaka clue connected to his mother.
+- Eli leaves Forest City because the clue cannot be safely tested there and because staying would expose the refuge.
+- Melaka becomes the first rupture corridor: the clue, the pursuit, and the breach converge there.
 - Rival psion teams collide around a carrier, route, or record.
 - A concrete near-death event opens Eli's already damaged receiver filter.
 - The Seven arrive as identity catastrophe.
@@ -496,6 +506,8 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Resolution:** the native practices spread through many people and places. The final coalition supplies local proof that ordinary and anomalous people can share risk, limits, care, and authority without ownership. The monopoly becomes less viable; the psionic war does not disappear overnight. The ending remains open because adulthood is a practice, not a switch. After that public proof, the book steps down into ordinary life rather than upward into one more revelation.
 
+**Deep reveal function:** Volume III uses the **new model** as the late reframe: dragons are not monsters but older beings in a different relation to the field; Titans are the powerful drone-worker caste beneath them; humans were made/adapted as sub-drones through workforce multiplication; and Anu + 26 are the elder spirit-plane council, not embodied owners. This reveal must be a consequence of plot evidence, not a lore lecture.
+
 ### Volume III victory condition — LOCKED
 
 The refusals above prevent defeat, but they are not themselves victory. **Volume III is won when coexistence survives the crisis that created the coalition.** A temporary battlefield alliance proves only common danger; the ending must show ordinary and magical/evolved beings continuing to share a social world once immediate necessity no longer forces them together.
@@ -513,6 +525,8 @@ The community may remain small, endangered, and imperfect. It may contain fear, 
 This is the "it has always been like this" landing. The trilogy should not end by announcing a new age from above. It should let the reader recognize the pattern from below: science, ordinary law, healing, relationship, technology, and practice were always partial rehearsals for the same mature form of life. The answer was not hidden because it was exotic; it was hidden because fear kept turning it into worship, extermination, or control.
 
 In Eden language, the ending is the union of the **Tree of Knowledge** and the **Tree of Life**. Knowledge without life becomes classification, prediction, registry, and control. Life without knowledge remains vulnerable to omen, priestcraft, panic, and charismatic manipulation. The mature form is both: living connection disciplined by testable understanding, and scientific accountability held inside reciprocal life.
+
+The final movement comes full circle, but not as a reset. It returns to the kind of ordinary life Forest City established at the beginning—food, work, sailing, jokes, affection, repairs, fatigue, privacy, and mutual dependence—but now with wisdom and appreciation. Ordinary life is no longer taken for granted, and it is no longer treated as lesser than transcendence. It has been consciously chosen after the characters understand what domination, worship, immortality, ownership, and fear would have cost.
 
 ### Final movement — the unremarkable afternoon
 
@@ -551,11 +565,14 @@ This schedule is a decision ledger, not a curriculum. The reader-facing reveal o
 | 12 | The group can hold charged fear together without becoming a command hierarchy | Volume II end | They become strong enough for the public civilizational test: coexistence under scrutiny, attack, rumor, and institutional pressure |
 | 13 | A circle center permits communication | Volume II end / Volume III | Factions converge on operational nodes |
 | 14 | Modern technologies have been external rehearsals of capacities now returning in living beings | Volume III early | The group repurposes instruments from detection and classification toward translation, consent, and coordination |
-| 15 | The healer's rejection of divine sonship is already being converted into a divine title | Volume III | The group understands that testimony can rebuild religion against the subject's will; coexistence must include resisting deification |
-| 16 | The relit grid uses tethered souls | Volume III | Activating the machine becomes morally intolerable |
-| 17 | His mother's hope of reunion is her tether | Volume III | Eli must give up the thing he wanted from page one |
-| 18 | He could control the amplifier | Volume III climax | Refusal becomes meaningful rather than symbolic |
-| 19 | Dangerous conduct can be constrained without owning the being who carries the capacity | Volume III climax/resolution | The coalition chooses reciprocal accountability over registration, conscription, worship, or extermination |
+| 15 | Dragons and other magical/evolved beings are real participants, not symbols or monsters | Volume III | The coexistence test becomes concrete rather than abstract |
+| 16 | The beings humans called Titans/Anunnaki were themselves dragon-serving drone-workers, and humans were made/adapted as sub-drones | Volume III | The group understands the robot/workforce analogy as species history, not metaphor |
+| 17 | The original Anunnaki persist as Anu + 26 on the spirit plane, influencing without direct bodily rule | Volume III | The group refuses to convert higher-plane influence into renewed worship or ownership |
+| 18 | The healer's rejection of divine sonship is already being converted into a divine title | Volume III | The group understands that testimony can rebuild religion against the subject's will; coexistence must include resisting deification |
+| 19 | The relit grid uses tethered souls | Volume III | Activating the machine becomes morally intolerable |
+| 20 | His mother's hope of reunion is her tether | Volume III | Eli must give up the thing he wanted from page one |
+| 21 | He could control the amplifier | Volume III climax | Refusal becomes meaningful rather than symbolic |
+| 22 | Dangerous conduct can be constrained without owning the being who carries the capacity | Volume III climax/resolution | The coalition chooses reciprocal accountability over registration, conscription, worship, or extermination |
 
 Terms such as Apkallu, Nephilim, Nephilot, Lullu, Qingu, and Umannu should enter only where the narrative must distinguish particular historical actors. Role first; proper noun second.
 
@@ -619,9 +636,9 @@ Use `16_reader_attachment.md` as the test for whether a chapter has enough human
 
 ## 13. Recommended drafting order
 
-1. Lock the seven decisions above.
+1. Lock the eight decisions above.
 2. Create a twelve-to-fifteen-chapter beat sheet for Volume I using the chapter card.
-3. Write the Melaka opening through the first irreversible escape decision.
+3. Write the Forest City opening through the first irreversible Melaka escape decision.
 4. Write one quiet Forest City memory and one present aftermath scene to establish the hearth.
 5. Draft one attachment-first scene for each primary present-day character using `16_reader_attachment.md`: ordinary want, private wound, repeated behavior, and one relationship-changing action.
 6. Draft the first rival-team encounter from the victim's embodied perspective.

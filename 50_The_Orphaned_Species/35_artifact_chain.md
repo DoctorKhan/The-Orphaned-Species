@@ -38,6 +38,8 @@ The characters initially mistake the carving for a divine genealogy, heraldic em
 
 The artifact tells a story central to the coexistence test: humanity is one branch among branches, not the summit of creation. Birds, chimpanzees, dragons, and humans represent different survivals and relationships to the field. Difference does not establish a right to rule or exterminate.
 
+Discovery-order note: **artifact zero** means oldest/deepest in cosmological pressure, not first encountered in the thriller. The preferred reader-facing order is to encounter the **Three-Circles Tablet** first, because it helps Eli survive the body/autopilot problem, then use the **Double-Fork Stone** as the second major image that opens the biological/dragon question.
+
 ### Guardrails
 
 - The Double-Fork Stone is fictional unless a real archaeological analogue is later documented. Never market it as a recovered real-world artifact.
