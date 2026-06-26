@@ -18,7 +18,7 @@
 
 **The Dragons** — the "ancient creatures" the cave is named for. *Not* mythic fire-breathers but an extraordinarily long-lived **reptilian lineage in evolutionary stasis** — Tiamat's organic line, the road humanity *didn't* take: comparable capacities reached by pure biology instead of installed locks. Their "fire" is biological thermal control; their "telepathy" is infrasonic/ultrasonic resonance felt as a voice in the skull. The living precedent of the Singer's song and Aedan's heat.
 
-**The Generational War / the Titanomachy / War in Heaven** — the civil war between elder (Anunnaki / Titans) and younger (Igigi / Olympians) generations: the weaker Igigi, unable to win openly, **sabotage the elders' orbital structure**, and its fall *is* the **Younger Dryas crash** (intentional sabotage, unintentional in planetary scale). *(The Greek **Titanomachy** — Olympians overthrowing the Titans — names exactly this. The separate gods-vs-Tier-1 war, Marduk slaying Tiamat, is the **Serpent-Slaying**.)* Göbekli Tepe is built in the aftermath as a memorial to the defeated.
+**The Generational War / the Titanomachy / War in Heaven** — the civil war between elder (Anunnaki / Titans) and younger (Igigi / Olympians) generations: the weaker Igigi, unable to win openly, **sabotage the elders' orbital/interface system**. The Younger Dryas is the visible climate rupture caused or amplified by that sabotage; the later or staged loss of the orbital interface is the "fall from heaven" myth remembers. Do not make the contested Younger Dryas impact hypothesis load-bearing. *(The Greek **Titanomachy** — Olympians overthrowing the Titans — names exactly this. The separate gods-vs-Tier-1 war, Marduk slaying Tiamat, is the **Serpent-Slaying**.)* Göbekli Tepe is built in the aftermath as a memorial to the defeated and as ground-side replacement infrastructure.
 
 **Divine Titles** — names like Enki, Enlil, Marduk may be **roles or offices** rather than fixed personal names, explaining why one "character" can show different personalities across accounts. (Carried over from prior canon; useful for reconciling contradictory myth.)
 
@@ -263,7 +263,7 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **\*Dyḗus ph₂tḗr ("Sky-Father")** — the chariot-people's word for *god* literally means *the bright thing above you* (→ Zeus, Jupiter); submission welded into speech, against the village's earth-names and song.
 
-**Younger Dryas** — the abrupt cooling ~12,900 years ago; in canon the violent climax of the War in Heaven and the **desperation engine** that forces agriculture (the dead land sells domestication for free).
+**Younger Dryas** — the abrupt cooling ~12,900 years ago; in canon the violent climate rupture of the War in Heaven and the **desperation engine** that forces agriculture (the dead land sells domestication for free). Treat the cooling as real and the impact hypothesis as contested/non-load-bearing; the in-story mechanism is sabotage of climate/interface systems acting through terrestrial levers such as ocean circulation, meltwater routing, volcanism, rain belts, and wind.
 
 **Göbekli Tepe** — the temple complex (~11,600 years ago); the first major Igigi construction and control template, deliberately **buried** (~10 kya) to erase the prior era.
 

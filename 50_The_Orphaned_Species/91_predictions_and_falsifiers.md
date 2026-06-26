@@ -93,11 +93,11 @@
 
 ## 5. Archaeology
 
-### 5.1 The Younger Dryas impact consolidates — **[LIVE, contested]**
-- **Claim (gloss):** the crash that ends the golden age = the Igigi's sabotaged orbital structure falling (Phase V); the planetary scale unintended.
-- **Test:** ongoing Younger Dryas Boundary stratigraphy — platinum spike, microspherules, nanodiamonds, global synchrony.
-- **Falsifier:** the YDB signatures fail replication (the field is actively contested).
-- *Note:* the framework needs only the *impact/airburst*, not any "weapon" reading — the sabotage is mythic; the impact layer is the anchor.
+### 5.1 Younger Dryas as manipulated climate rupture — **[REVISED; impact non-load-bearing]**
+- **Claim (gloss):** the golden age ends when the Igigi sabotage the Anunnaki orbital/interface system. The Younger Dryas is the visible climate rupture caused or amplified by that sabotage; the later or staged loss of orbital hardware is the mythic "fall from heaven."
+- **Test:** Younger Dryas paleoclimate remains a real abrupt event; evidence continues to support major ocean-atmosphere reorganization, meltwater routing, volcanic/geochemical anomalies, rain-belt shifts, and regional ecological stress.
+- **Falsifier:** there is no need to defend Younger Dryas impact/airburst signatures. If platinum spikes, microspherules, or nanodiamonds fail replication, the cosmology does not fail; only an obsolete impact version fails.
+- *Note:* This is a deliberate guardrail. The Younger Dryas impact hypothesis has become too weak and too contested to carry the cosmology. Use it only as an in-world rumor, factional misreading, or discarded theory.
 
 ### 5.2 Targeted-purge aDNA shows cross-kin selection, not local raiding — **[LIVE]** *(the sharp one)*
 - **Claim (gloss):** the gendered massacres are bloodline purges hunting the hidden carriers (Phase IX–X), screened at the stone sites.
@@ -165,7 +165,7 @@
 | 3.2 | Trehalose/intermediates in chondrites | LIVE (soft) | Deeper organic analysis |
 | 4.1 | Deep vertebrate-grade eDNA | STRAINED | Subglacial/deep-cave eDNA |
 | 4.2 | Large-body cryostasis mechanism | STRAINED | Cryobiology |
-| 5.1 | Younger Dryas impact confirmed | LIVE (contested) | YDB stratigraphy |
+| 5.1 | Younger Dryas climate rupture, not impact proof | REVISED | Paleoclimate + AMOC/meltwater/volcanic records |
 | 5.2 | Purge victims share carrier signature | LIVE | Victim-vs-context aDNA |
 | 5.3 | Göbekli burial deliberate/synchronous | LIVE | Site stratigraphy |
 | 5.4 | Megalith siting ↔ geophysical anomaly | LIVE (weak) | Spatial stats + lithic acoustics |

@@ -107,7 +107,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - *Anunnaki*: Humans should eventually become independent conscious beings
 - *Igigi*: Humans require permanent domestication and systematic control
 
-**The Younger Dryas Impact Event (12,900 Years Ago)**: The cosmic war reaches its climax with a catastrophic impact event that triggers the Younger Dryas climate disruption. This represents the violent overthrow of Anunnaki leadership by the Igigi faction through what appears to be directed cosmic bombardment.
+**The Younger Dryas Climate Rupture (12,900 Years Ago)**: The cosmic war reaches its climax with sabotage of the Anunnaki climate/interface system. The Younger Dryas cooling is real, but current canon does not depend on a literal impact event. The in-story mechanism is manipulated or destabilized terrestrial climate — ocean circulation, meltwater, volcanism, rain belts, and wind — while the later or staged loss of orbital hardware becomes the mythic memory of heaven falling.
 
 **Archaeological Evidence - Göbekli Tepe**: The construction of Göbekli Tepe (11,600 years ago) marks the immediate aftermath of this transition. This massive temple complex represents:
 - The first major construction project under new Igigi management
@@ -279,7 +279,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 **Binary Programming Installation** (800,000 years ago): Anunnaki install cognitive framework as temporary learning tool
 **The Spear Moment** (~400,000 years ago): First distance weapons test human consciousness
 **Genetic Activation** (70,000 years ago): Dormant sequences activated, birth of modern human consciousness
-**Younger Dryas Impact** (12,900 years ago): Cosmic bombardment marks violent transition from Anunnaki to Igigi control
+**Younger Dryas Climate Rupture** (12,900 years ago): climate/interface sabotage marks the violent transition from Anunnaki to Igigi control; impact/bombardment is no longer load-bearing
 **Göbekli Tepe Construction** (11,600 years ago): First major Igigi construction project, memorial to defeated Anunnaki
 **Göbekli Tepe Burial** (10,000 years ago): Systematic erasure of Anunnaki-era evidence begins
 **Agricultural Revolution** (10,000 years ago): Igigi introduce settlement-based control system
