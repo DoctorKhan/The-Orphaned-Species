@@ -71,7 +71,7 @@ Break the clan. Shrink the family. Separate the generations. Move the worker. Re
 
 ### How it belongs in Book 5
 
-Social atomization is the social counterpart to the orphan-and-father thread in `00_outline.md`: the orphan does not only invent a father because the gods withdrew; it invents one because its human bonds have been cut, thinned, overloaded, or routed upward.
+Social atomization is the social counterpart to the orphan-and-father thread in `37_deep_time_source.md`: the orphan does not only invent a father because the gods withdrew; it invents one because its human bonds have been cut, thinned, overloaded, or routed upward.
 
 It is also the social expression of the Triangulation of Control in `10_triangulation_of_control.md`: the Machiavellian layer does not need to dominate whole villages if it can first break villages into isolated units and then sell each unit a substitute for belonging.
 
@@ -166,6 +166,28 @@ This stage includes:
 
 **Protagonist reversal:** the real prison is not only what was done to humanity; it is the machinery inside the human that keeps consenting to the same pattern. The first liberation is the moment the protagonist stops being steerable.
 
+### Legitimate fear vs. fear as ruler
+
+When the series says fear is conquered, it must not mean danger disappears, fear becomes false, or mature people stop protecting themselves. Legitimate fear remains a sane perception of real threat: warlords, states, factions, predatory institutions, weapons, famine, betrayal, disease, and public panic can still hurt people. A mature person or community still locks gates, plans routes, keeps watch, builds alliances, triages risk, distrusts tyrants, protects children, and prepares for violence when violence is real.
+
+What is conquered is fear as the final authority. The defeated pattern is panic, helpless obedience, inherited terror, enemy-making, and the belief that because a threat can hurt people, it owns the future. The mature answer is not "we are no longer afraid of warlords." It is: "we know what warlords are, and we will not build our souls, politics, technology, or community around them."
+
+Use this distinction whenever the ending, the constructive-control corner, or the final community risks sounding anti-protection. **Legitimate fear says:** this danger is real, so choose prudent defense and accountable restraint. **Enslaving fear says:** this danger is real, so surrender freedom, become like the threat, or organize civilization around permanent domination. The trilogy defeats the second without denying the first.
+
+### Dependence without ownership
+
+The books' central social question is not how a person becomes independent of everyone. That is a false adulthood and another form of atomization. Humans live because they depend: on mothers, fathers, friends, lovers, doctors, farmers, sailors, teachers, elders, animals, plants, soil, weather, memory, tools, and institutions. No one can know everything, make everything, verify everything, heal everything, or survive every season alone.
+
+The mature question is therefore: **how can dependence become reciprocal relation instead of ownership?**
+
+Good dependence is partial, embodied, accountable, limited, repairable, and distributed across many bonds. A person may depend on a doctor for medicine, a sailor for navigation, a farmer for food, an animal for labor or companionship, a community for memory, and a friend for witness without making any of them a god. Bad dependence is totalizing, humiliating, isolating, irreversible, or monopolistic. It says: because you need me, you are mine.
+
+This distinction is crucial for animal and domestication material. Animals buried with human masters can signify domination: the dependent being follows the owner into death as property. But animal burial also becomes more complex as dependence produces intimacy. Pigs, dogs, horses, and other household or working animals can cross from tool into moral relation. Dependence creates repeated care; repeated care creates grief; grief creates ritual. The question is whether the ritual honors relation or preserves rank.
+
+Trust follows the same rule. Since no one can know everything, maturity is not omniscience but disciplined trust. Trust people, systems, or beings that show competence within limits, allow questioning, remain accountable after harm, avoid total loyalty demands, do not isolate a person from other bonds, preserve the right to leave, repair damage, and care for the vulnerable when no status is gained. Distrust any person, faction, god, institution, lover, healer, technology, or archive that turns need into ownership.
+
+This is the positive answer beneath the whole trilogy: not self-sufficiency, not master-dependence, but many partial trusts held in relationship and checked by conduct. The final community should prove that beings can need one another without kneeling, owning, or being owned.
+
 **Autopilot as bridge concept:** use "autopilot" when the prose needs a plain-language description of the inner cage. It covers patterns people recognize before they have theory: doomscrolling, reflexive anger, compulsive attraction, people-pleasing, class performance, institutional obedience, shame scripts, trauma reflexes, and the sense of watching oneself do what one already knows will hurt. It is not a lab category; it is a practical reality-label that lets readers connect charges, conditioning, samsara, and Manual Override to everyday life.
 
 **Inalienable understanding:** this is the part of the victory no institution can take away. A person can lose place, files, status, reputation, money, and legal protection; they can still learn to feel the body, identify the charge, notice autopilot, and choose relation instead of automatic execution. That knowledge is not an escape from politics, but it is the reason politics cannot be the whole liberation. Structurally, Volume I can end on the first personal threshold: Eli is strong enough not to be merely steered. Volume II can end on the relational threshold: the group is strong enough to remain coherent under pressure before the civilizational test of Volume III.
@@ -214,7 +236,7 @@ The final recognition is retrospective inevitability, not fate. Once coexistence
 ### Integration map
 
 - **External cage** belongs with `10_triangulation_of_control.md`: the control system, the Social Game, the father-god, the Qingu lie, the historical plot.
-- **Internal cage** belongs with the Seven in `00_outline.md` and with the Lesson rhymes in `25_rhyme_sheet_lessons.md`: practices that make the human less steerable.
+- **Internal cage** belongs with the Seven in `37_deep_time_source.md` and with the Lesson rhymes in `25_rhyme_sheet_lessons.md`: practices that make the human less steerable.
 - **Living network** belongs with `20_resonance_points.md`: heat, song, fox-lineage, sun-wheel inversion, collective resonance, and the Modern Child inheriting the fragments.
 - **Social atomization** is the negative social process running across all three stages: it is what the external cage does, what the internal path heals, and what the living network reverses.
 

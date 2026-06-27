@@ -1,6 +1,10 @@
-# Book 5 — Working Outline
+# Deep-Time Source — Harvested Outline (formerly `00_outline.md`)
 
-> **Story architecture:** see `05_story_architecture.md` for the current dramatic synthesis, trilogy spine, revelation schedule, fellowship requirements, and chapter template.
+> **Status — HARVESTED SOURCE, no longer a standalone book.** This was the original standalone Aedan-cave novel outline. It is **not** a competing fourth book and is **not** drafted in this shape. It now serves as the **deep-past scene-detail bible** that feeds the trilogy. The deep-time material reaches the present-day trilogy as **memory capsules retrieved from megalithic stones** — see `36_memory_capsules.md` for the delivery mechanism (the two registers, the through-Aedan nesting, and the disposition of every part below). Read that doc first; this file supplies the raw scene detail it draws on.
+>
+> Quick disposition (full table in `36_memory_capsules.md`): **Part III — the Seven** = already live as Eli's descents (Aru drafted). **Part II — Seven Pairs, Spear, Activation, Living Gods, War in Heaven, Adapa** = harvest as *watched-vision* capsules, nested through Aedan. **Parts I & IV — the Aedan cave frame** = collapse into one recursive capsule Eli retrieves; not a present-tense frame. **The wheel / orphan-and-father / Qingu-vs-We-ila** = thread as motif, not capsule.
+
+> **Story architecture:** see `05_story_architecture.md` for the current dramatic synthesis, trilogy spine, revelation schedule, fellowship requirements, and chapter template. See `18_adventure_engine_and_scene_bank.md` for turning concepts into doors, contests, thresholds, tricks, reversals, and costs.
 
 > **Status — nested resonance archive.** Under the locked series spine (`/00_NARRATIVE_STRUCTURE.md`), this outline supplies deep-past scene detail for a present-weighted **resonance braid**, not reincarnation. **Aru, Daskar, Ila, Tem, Anthea, Cuno, and Lovernios are seven distinct historical people.** They are not Eli's former selves, not one bloodline, and not Aedan's ancestors. **Aedan is the cave-boy**, a separate early partial receiver/relay outside the Seven. Eli is the first known receiver able to hold all seven complete imprints. Their practices are historical records and apprenticeships, not seven abilities Eli automatically unlocks. Where older passages below imply genealogy, reincarnation, bodily inhabitation by Aedan, or equal mastery of every practice, this status and `/00_NARRATIVE_STRUCTURE.md` control.
 
@@ -17,6 +21,8 @@ This is the mythic-narrative companion to *The Human Experiment*: the same timel
 ## The ley-line discovery spine — adventure, not explanation
 
 The ley-network is discovered incrementally across the journey. No mentor delivers the complete mechanism, and Eli never learns it by standing still while someone explains the cosmology. Each location contributes one observable fact, each fact must be tested under pressure, and every successful test exposes the group to a larger danger.
+
+For concrete scene forms, use `18_adventure_engine_and_scene_bank.md`. This section controls the discovery ladder; the adventure-engine document controls how the ladder becomes page-turning scenes.
 
 **The discovery ladder:**
 

@@ -314,7 +314,7 @@ When documents disagree, use this order:
 4. `50_The_Orphaned_Species/05_story_architecture.md` — working trilogy and scene architecture.
 5. `50_The_Orphaned_Species/15_character_grounding_and_relatability.md` — human-scale guardrails.
 6. `00_MASTER_TIMELINE.md` — full cosmology and cross-book chronology.
-7. `50_The_Orphaned_Species/00_outline.md` — deep-past scene material, subordinate where older bloodline or frame mechanics survive.
+7. `50_The_Orphaned_Species/37_deep_time_source.md` — harvested deep-past scene source (formerly `00_outline.md`), subordinate where older bloodline or frame mechanics survive; delivered into the trilogy as memory capsules per `36_memory_capsules.md`.
 8. The four nonfiction source directories — companion material to be reconciled to the documents above.
 
 Sibling repositories are historical evidence and idea laboratories. They are not current canon unless their material has been deliberately brought into this repository.

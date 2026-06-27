@@ -66,7 +66,7 @@ Scheme note: this is why we keep the **divine council = Igigi**, rather than fol
 
 ## "Elohim" — leave it as the fossil
 
-Do **not** pin *Elohim* to a single faction. Its grammar is the point. *Elohim* is morphologically **plural** ("gods / the assembly") yet gets used as a **singular** high God. That collapse — **plural council → single father you kneel to** — is "find a father, kneel" fossilized in one word, exactly parallel to the chariot-tongue welding submission into its very name for *god* (\*Dyḗus ph₂tḗr, see `00_outline.md` and timeline Phase IX).
+Do **not** pin *Elohim* to a single faction. Its grammar is the point. *Elohim* is morphologically **plural** ("gods / the assembly") yet gets used as a **singular** high God. That collapse — **plural council → single father you kneel to** — is "find a father, kneel" fossilized in one word, exactly parallel to the chariot-tongue welding submission into its very name for *god* (\*Dyḗus ph₂tḗr, see `37_deep_time_source.md` and timeline Phase IX).
 
 - *Elohim* (plural) = the divine assembly = the **Anunnaki/Igigi council in the broad sense**.
 - *Elohim* (singular high God) and *El Elyon* = **Anu**, the receding father.
@@ -92,7 +92,7 @@ Short formula:
 
 ## Craft rules
 
-1. **Grounding, not a decoder ring.** This lives in the bible. In prose it surfaces only as *rhyme* — a name half-remembered, the same throne under a new word — never as exposition. Same discipline as "never say *Igigi* out loud" (`00_outline.md`, sensory zoning).
+1. **Grounding, not a decoder ring.** This lives in the bible. In prose it surfaces only as *rhyme* — a name half-remembered, the same throne under a new word — never as exposition. Same discipline as "never say *Igigi* out loud" (`37_deep_time_source.md`, sensory zoning).
 
 2. **Keep the spins opposed.** Each culture remembers the same events with a different theological valence: control-side (the King List sacralizing the office; the Qingu-guilt myth) vs. oral-truth-side (Genesis moralizing the wound; the We-ila reading). The divine-names layer obeys the same rule — the homology is real, but every culture bends it toward its own use.
 

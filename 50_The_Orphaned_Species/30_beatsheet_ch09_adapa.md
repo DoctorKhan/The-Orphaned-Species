@@ -1,6 +1,6 @@
 # Chapter 9 — Adapa: beat-sheet *(the book's heart, the darkest beat)*
 
-*Working beat-sheet for the centerpiece chapter. Where the **Machiavellian propaganda** (the Qingu-lie) meets the **We-ila resonance** (Adapa's awakened intelligence) for the first time — and the lie wins. Companion to `00_outline.md`, `10_triangulation_of_control.md`, `20_resonance_points.md`.*
+*Working beat-sheet for the centerpiece chapter. Where the **Machiavellian propaganda** (the Qingu-lie) meets the **We-ila resonance** (Adapa's awakened intelligence) for the first time — and the lie wins. Companion to `37_deep_time_source.md`, `10_triangulation_of_control.md`, `20_resonance_points.md`.*
 
 ---
 
@@ -47,7 +47,7 @@ This resolves everything: Enki stays the loving Anunnaki parent (canon-safe), th
 | 8 | **The genuine offer** | Anu, impressed, offers the **real** bread and water of life — immortality, the lock picked, the gift completed. The offer is sincere. | We-ila (the door open) | The cruelty is that it's *not* a trick. The door to everything he was denied stands open. |
 | 9 | **The refusal** | Remembering Enki, *and believing himself unworthy of life*, Adapa refuses. He chooses the lock. Reasonably. Gratefully. | The lie wins | The most important sentence in the book to get right. He doesn't refuse in fear — he refuses in **misplaced wisdom and inherited shame.** It should look like virtue. |
 | 10 | **Too late** | He learns it was real. Humanity is mortal forever — sealed not by the gods' force but by the slave's own caution. | All three, resolved into tragedy | Don't editorialize. Let the silence do it. The gods don't gloat; they simply note the outcome and send him down. |
-| 11 | **The fall & the boy's recognition** | Adapa returns to earth mortal. The cave releases the vision. Aedan sits in the dark and weeps. | Frame | First weep of the book. He weeps because *he has just seen what he might also become* — the orphan who, in the wrong worldview, would also kneel: reasonably, gratefully, on good advice. The cave is a degree warmer when the vision closes (the migration; see `00_outline.md`). |
+| 11 | **The fall & the boy's recognition** | Adapa returns to earth mortal. The cave releases the vision. Aedan sits in the dark and weeps. | Frame | First weep of the book. He weeps because *he has just seen what he might also become* — the orphan who, in the wrong worldview, would also kneel: reasonably, gratefully, on good advice. The cave is a degree warmer when the vision closes (the migration; see `37_deep_time_source.md`). |
 
 ---
 

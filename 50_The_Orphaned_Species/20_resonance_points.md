@@ -1,6 +1,6 @@
 # Resonance Points — the objects and sounds that rhyme across the eras
 
-*Craft reference for Book 5. Cross-era motifs that make seven distinct historical imprints read as one contested conversation across 10,000 years instead of an anthology. Companion to `/00_NARRATIVE_STRUCTURE.md` and `00_outline.md`.*
+*Craft reference for Book 5. Cross-era motifs that make seven distinct historical imprints read as one contested conversation across 10,000 years instead of an anthology. Companion to `/00_NARRATIVE_STRUCTURE.md` and `37_deep_time_source.md`.*
 
 ---
 
@@ -16,7 +16,7 @@ A resonance point is an object, sound, or gesture that **recurs across eras whil
 - **The cave-as-nervous-system remains local to Aedan's relay.** In the trunk, Eli receives fuller bleed-through but must identify which historical person a fragment belongs to.
 - **The Modern Child is a coda/echo, not the trunk.** If retained, the child receives the carriers with their meanings stripped off after Eli has made them legible to the reader. The child is the book's open door into the reader's world, not the main decoder.
 
-There are two kinds of rhyme. This doc maps the **object/sound carriers**. The **structural rhymes** (the father-offer-and-refusal in every era; the shared chapter shape *encounter → instruction → first success → glimpse → loss*) are tracked in `00_outline.md` and aren't repeated here.
+There are two kinds of rhyme. This doc maps the **object/sound carriers**. The **structural rhymes** (the father-offer-and-refusal in every era; the shared chapter shape *encounter → instruction → first success → glimpse → loss*) are tracked in `37_deep_time_source.md` and aren't repeated here.
 
 ## Two somatic registers — do not collapse them
 

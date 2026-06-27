@@ -79,17 +79,15 @@ Who gives the psionic war a face below Crane?
 - What one member might defect over.
 - What they can do together that no single psion can do alone.
 
-### 5. Psionic combat rules
+### 5. Psionic combat rules — SEEDED (`38_psionic_combat.md`)
 
-Define the tactical rules before drafting set pieces.
+Tactical system drafted: coherence (not a battery) as the resource; four primitives — **Bubble** (shield, expandable), **Lance** (intrusion, reflectable), **Block** (prefrontal suppression = forced autopilot), **Break** (overpower a shield); signature-lock + conductor for range; team coherence; costs, failure modes, and worked canon set pieces (Melaka, Strait boarding, England ambush, Albion). **Rendering — LOCKED:** plane-local visibility. The forms are real and *seen on the psi plane by those with the sight*, not a public light show; ordinary perception registers only material consequences. POV decides the register. The sight is its own developed faculty (feel vs. see), creating tactical asymmetry.
 
-- What one psion can do alone.
-- What requires a team.
-- Effective range and required signature.
-- Detection, masking, decoys, and false certainty.
-- Physiological consequences and recovery time.
-- Failure modes: feedback, contamination, misidentification, fracture, exposure.
-- Why boats, food, medicine, weather, weapons, borders, and human scouts still matter.
+Still open:
+- Specializations vs. general skills at different strengths.
+- Eli's combat profile (receiver/reflector strong, offense weak early).
+- Whether artifacts can store a charged attack (ties to `35_artifact_chain.md`).
+- Propagated the plane-local-visibility clause into `/00_NARRATIVE_STRUCTURE.md:91` (the only master doc carrying the "not colored projectiles" rule). Done.
 
 ### 6. Volume I climax location and community
 
@@ -186,6 +184,14 @@ Who proves coexistence after the emergency?
 - What ordinary act closes the trilogy: meal, sailing, repair, clinic, performance, childcare, mourning, or work?
 
 The final feeling is locked: **an afternoon nobody turns into destiny**. The exact geography and final line remain open.
+
+## Memory-capsule trigger-sites
+
+Deep-time material is delivered as memory capsules retrieved from megalithic stones (mechanism: `36_memory_capsules.md`). Each capsule must be anchored to the stone where its content happened.
+
+- **Locked:** Aru capsule → Göbekli Tepe (Vol II), fired at the fox-pillar Aru carved. The drafted King's Men/Rollright frame is superseded for Aru and reusable for a late Albion/Cuno capsule.
+- **Open:** trigger-sites for Ila, Tem, Anthea, Cuno, Lovernios, and the recursive Aedan capsule — pin each to a stone/node along `35_artifact_chain.md` and the legs in `/00_NARRATIVE_STRUCTURE.md`.
+- **Open:** Göbekli present-day staging (active dig, shrine, military zone, faction prize) — the Aru frame can't be drafted until this is chosen.
 
 ## Secondary decisions
 
