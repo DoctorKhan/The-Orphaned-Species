@@ -37,15 +37,22 @@ Full reconciliation still required: update every affected instance of **Titans**
 
 ## Priority 1 — required before drafting Volume I
 
-### 1. Opening causal chain
+### 1. Opening causal chain — LOCKED
 
-What exact clue draws Eli from Forest City to Melaka?
+**A witness in newly-reopened Melaka who claims to know what happened to Eli's mother — reached through the harbor, carrying one personal detail and something of hers. Half-bait.** Not a cosmological artifact (those enter after the breach); human stakes first.
 
-- Who carries or controls it?
-- Why does Eli trust it enough to leave safety?
-- Why can it not be tested from Forest City?
-- What does it promise: mother evidence, a witness, a record, an object, a route, or a name?
-- What does it cost him by the end of Act I?
+**Eli's Forest City role:** he **teaches beginner sailing/seamanship classes to tourists and keeps the boats** — competent, not a master navigator (the open-ocean legs still need real sailors). A bounded, structured role he can do despite his social/TBI difficulty; it gives him students, crew, and the boats to lose, and the means (sailing) to act on a maritime lead.
+
+**The clue:**
+
+- **How it reaches him:** up the **harbor/maritime grapevine** — transient sailors and boats moving between Forest City and the reopening Strait ports. A skipper or passing crew relays that someone surfaced in Melaka asking after Eli's mother and holding something of hers. The clue is *found through his work*, not delivered by a mystical messenger.
+- **Who carries/controls it:** a witness who was **held alongside the mother and got out** — a real person with their own debt, not a clue-dispenser. (Decide alongside #8 Healer / escape-network specifics whether this witness connects to that network.) Behind the witness, unknown to Eli, a team is using the mother-thread as a lure.
+- **Why he trusts a weak clue:** the one detail — her private name for him, the **three-note tune**, or a specific fact about the night of the attack — lands as a **surge.** His body lights with certainty before his mind can verify. His gift and his flaw in one beat: he goes because it *rang*.
+- **Why it can't be tested from Forest City:** the witness won't/can't travel (hunted, dying, or it's a physical handoff they won't trust to monitored wartime comms). The truth only resolves on-site.
+- **What it promises:** **truth, not reunion** — a witness to how she died (seeds the Vol II reveal: dead in body, tethered west). Keep reunion off the table here so "the reunion is the goodbye" still has somewhere to fall.
+- **What it costs by end of Act I:** he forfeits the Forest City refuge, his students, and the crew; and the lead is **half-bait** — following it is what gets him run down and breached (#2), starting the reunion-as-bait engine on page one. Irony to bank: a sailing instructor, a man of the water, is brought to near-death *by* water in the breach.
+
+**Still open:** the exact personal detail (name / tune / fact); the witness's identity and whether they survive Act I; whether the team behind the lure is Crane's ring or a rival national team (ties to #4).
 
 ### 2. Melaka breach event — LOCKED
 
