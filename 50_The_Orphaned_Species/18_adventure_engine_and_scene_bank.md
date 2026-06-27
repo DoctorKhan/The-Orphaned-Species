@@ -1,0 +1,433 @@
+# Adventure Engine and Scene Bank
+
+*Working guide for making the trilogy page-turning rather than curriculum-shaped. Pair with `05_story_architecture.md`, `17_reveal_order_and_reader_impact.md`, `15_character_grounding_and_relatability.md`, and `35_artifact_chain.md`. This document asks: what makes the reader want the next scene before they understand the doctrine?*
+
+## Governing rule
+
+The philosophy must be carried by **problems the reader wants solved right now**.
+
+The danger in this project is abundance: the cosmology, anthropology, spiritual model, and historical braid are rich enough to swallow the adventure. Strong adventure books do the reverse. They make the idea unavoidable because the plot is irresistible.
+
+Use this order:
+
+1. immediate want;
+2. visible obstacle;
+3. rule or trick the reader can grasp;
+4. threshold crossed;
+5. reversal;
+6. cost;
+7. next door.
+
+Short formula:
+
+> clue -> threshold -> test -> trick -> reversal -> cost -> deeper door
+
+If a scene cannot be described this way, it may be a note, lecture, or lore insert rather than an adventure scene.
+
+## What past adventure gets right
+
+### Ender's Game pattern
+
+The power is not an abstract thesis about war. The story works because every chapter gives the reader a contest with rules: schools, rankings, games, teams, unfair tests, older children, hidden adult motives, and tactical puzzles. The moral revelation lands because the reader first cared about winning a concrete game.
+
+Use this pattern for psionic training and war:
+
+- Give every exercise rules the reader understands.
+- Let the protagonist win partly, then reveal the test was measuring something else.
+- Make team composition matter.
+- Make adults or institutions manipulate the frame without becoming omniscient.
+- Let a "game" be real before the characters know it is real.
+- Let success produce guilt, exposure, or a new enemy rather than clean advancement.
+
+Possible local translation: Forest City's morning training, Wren's route drills, Emrys's threshold tests, and hostile psion-team encounters should all feel like contests with legible rules before they become metaphysics.
+
+### Ali Baba pattern
+
+The power is object-and-threshold adventure: hidden cave, secret words, treasure, thieves, overheard knowledge, disguise, household danger, jars, coins, bodies, quick thinking, and someone socially underestimated solving the problem. The idea is simple enough to remember after one telling.
+
+Use this pattern for the clue trail:
+
+- Give the reader memorable adventure objects: cargo marks, locked rooms, broken instruments, field patterns, seals, jars, stones, boats, charts, songs, keys, thresholds.
+- Make knowledge dangerous because it opens something.
+- Let overhearing, misdirection, disguise, and household-level cunning solve problems larger powers miss.
+- Put danger inside hospitality: a room, meal, clinic, archive, guest berth, embassy reception, or refugee office.
+- Let a subordinate, local ally, child, nurse, sailor, farmer, or servant figure see the solution before the powerful people do.
+
+Possible local translation: the story needs "open sesame energy" without copying the literal device. A phrase, song interval, body position, hand warmth, route mark, or stone alignment can open a hidden world with rules.
+
+### Shared lesson
+
+Great adventure makes the reader feel:
+
+- "There is a hidden world."
+- "It has rules."
+- "Someone just learned one rule."
+- "That rule helps now, but also puts them in danger."
+
+That is the desired feeling for ley lines, psion teams, artifacts, resonance imprints, and the final network.
+
+## Adventure contract for this trilogy
+
+Every major concept needs a physical adventure form.
+
+| Concept | Adventure form |
+|---|---|
+| Fear conquered | A dangerous route is taken with preparation, not panic. |
+| Legitimate fear | A gate is locked, a lookout posted, a child moved, a crossing delayed. |
+| Fear as ruler | A faction demands permanent control because danger is real. |
+| Dependence without ownership | Someone saves Eli, then refuses to own him; someone needs a guide without surrendering judgment. |
+| Trust under uncertainty | A map, body, secret, or patient must be entrusted to someone with incomplete credentials. |
+| Social atomization | A clue fails because the human network that preserved it was broken. |
+| Home without ownership | A refuge gives duties and limits, not worship or guest privilege. |
+| Prophecy as bait | A fragment seems to predict Eli, and accepting it would hand him to a faction. |
+| Science as anti-fear discipline | A terrifying omen becomes testable, but testing exposes the group. |
+| Living network | A route, crop, song, or stone responds only when several people coordinate without command. |
+| Coexistence test | A dangerous being or person is constrained for conduct without being owned for nature. |
+
+## Scene design checklist
+
+Before drafting a chapter, answer:
+
+- What does someone want before the lore appears?
+- What can go wrong physically?
+- What does the reader see, hear, touch, count, unlock, cross, hide, steal, repair, or carry?
+- What rule can the reader understand by the end of the scene?
+- Who misunderstands the rule?
+- What is the clever trick?
+- What does success cost?
+- What relationship changes?
+- What next door opens?
+
+The best scenes should still work if every cosmological term is removed.
+
+## Scene Seeds
+
+These are not final beats. They are adventure shapes that can be combined, replaced, or promoted into chapters.
+
+### 1. Forest City: the privacy drill that is not only a drill
+
+**Immediate want:** Eli wants to finish an ordinary harbor/maintenance shift and keep his head down after a reopening rumor about Melaka.
+
+**Adventure object:** a laminated work rota, a sealed medical-access terminal, a boat key, and a privacy protocol everyone treats as boring.
+
+**Rule learned:** accountable coordination protects people without total disclosure. Forest City works because no single office has the whole person.
+
+**Trick:** a routine privacy drill reveals that someone has tried to correlate food-distribution logs, clinic visits, and berth assignments into a recruitment list.
+
+**Reversal:** the system does not fail because it is organized; it survives because enough ordinary people understand limits.
+
+**Cost:** Eli must admit that leaving for Melaka risks more than his own safety. Coworkers will cover duties and take exposure because of him.
+
+**Theme carried:** dependence without ownership. A community can need records without turning people into files.
+
+### 2. Melaka: the wrong password
+
+**Immediate want:** Eli needs one contact tied to his mother, one object, or one name before local reopening rules shift again.
+
+**Adventure object:** a phrase from his mother's notes, a port stamp, a shop sign, a brass token, or a ship name that seems to work as a password.
+
+**Rule learned:** a clue can open access without proving truth.
+
+**Trick:** the phrase gets him into the right room for the wrong reason. Someone else has been using the same fragment as bait.
+
+**Reversal:** the contact is real, but the safe route attached to the contact is compromised.
+
+**Cost:** Eli saves a person or document but exposes his signature during the near-death breach.
+
+**Theme carried:** prophecy-shaped material creates danger; it does not guarantee destiny.
+
+### 3. Melaka breach: the crossing under water
+
+**Immediate want:** get a wounded person, Wren, or a local ally across a canal, flood channel, ferry gap, or collapsing waterfront route.
+
+**Adventure object:** a rope, a boat hook, a submerged step, a waterproof packet, a faulty light, and a body Eli cannot carry cleanly.
+
+**Rule learned:** shock, drowning, blood loss, or another bodily threshold opens the Seven as catastrophe, not power.
+
+**Trick:** Eli survives by using ordinary training: breath, angle, timing, letting the current turn him instead of fighting it.
+
+**Reversal:** the same act that saves someone gives Crane's ring a detectable flare.
+
+**Cost:** Eli cannot tell which memories are his afterward, and the group loses the obvious safe route.
+
+**Theme carried:** body before cosmology. The impossible arrives through a concrete survival problem.
+
+### 4. Singapore archive: the adult room is a cave
+
+**Immediate want:** retrieve or photograph a suppressed research fragment before a state unit and Crane's team seal access.
+
+**Adventure object:** a server cage, old map drawer, climate-controlled artifact room, visitor badge, broken elevator, and timed power cut.
+
+**Rule learned:** paired anomalies matter; one end of a broken conductor is not enough.
+
+**Trick:** Wren wins the room socially before Eli understands the room technically: guest list, credentials, flirtation, pity, status, and one planted insult make two factions misread each other.
+
+**Reversal:** the clean data are less useful than a maintenance log or marginal note made by someone ignored.
+
+**Cost:** Emrys becomes necessary, and Eli must trust a man who looks too much like a future owner of the truth.
+
+**Theme carried:** knowledge needs institutions but must not be owned by them.
+
+### 5. Strait boarding: pirates, psions, and the ordinary knife
+
+**Immediate want:** keep a small vessel, passengers, medicine, or food shipment from being taken during a boarding.
+
+**Adventure object:** sail line, engine part, flare, cargo seal, blade, radio, hidden medicine box.
+
+**Rule learned:** psionic attack can open a gate, but someone must still cross it with hands, weapons, boats, weather, and fear.
+
+**Trick:** the hostile team induces false certainty about which passenger is marked. Eli and Wren use ordinary misdirection and ship layout to break the mark.
+
+**Reversal:** not every pirate is a psion agent; some are desperate people inside the same broken world.
+
+**Cost:** saving the cargo means losing a cleaner clue, or saving the clue means a community goes without supplies. The better choice should hurt.
+
+**Theme carried:** legitimate fear and material danger remain real.
+
+### 6. Bali or South Asia: the field that is a locked room
+
+**Immediate want:** document abnormal crop growth before officials, foreign surveyors, or a factional team confiscate the site.
+
+**Adventure object:** irrigation gates, measuring string, drone battery, farmer's notebook, seed sacks, field boundary stones.
+
+**Rule learned:** plants are detectors. Growth reveals a line before anyone names energy.
+
+**Trick:** the farmers solve the pattern because they know water, shade, soil, and pests better than any outsider. Eli's role is to notice what their knowledge rules out.
+
+**Reversal:** the "message" is not stamped into the crop. It is a living line forming through it.
+
+**Cost:** public proof would endanger the village. The protagonists must choose between evidence and protection.
+
+**Theme carried:** science as anti-fear discipline held inside local obligation.
+
+### 7. Healer scene: the miracle that creates a mob
+
+**Immediate want:** keep one injured person alive after an attack, collapse, fever, or childbirth complication when ordinary medicine is delayed.
+
+**Adventure object:** blood bag, tourniquet, cooking fire, clinic cot, generator, broken ambulance, child's toy, consent form.
+
+**Rule learned:** healing is work with limits, not holy authority.
+
+**Trick:** the healer combines conventional medicine with field-sensing. The miraculous part is inseparable from skill, triage, and exhaustion.
+
+**Reversal:** the saved person's witness becomes rumor before the healer can stop it.
+
+**Cost:** a crowd arrives. Need becomes entitlement. Crane and a liberation faction both learn where the healer is.
+
+**Theme carried:** dependence without ownership. Gratitude can become a leash.
+
+### 8. Courtly hospitality: the dangerous meal
+
+**Immediate want:** secure passage, an artifact scan, legal cover, or a patient transfer from a powerful host.
+
+**Adventure object:** table seating, phones collected at the door, a private collection, wineglass, guest book, prayer room, clinic wing.
+
+**Rule learned:** social rooms have visible topics and hidden bargains.
+
+**Trick:** Wren reads desire, debt, threat, and performance before Eli understands the conversation. Eli sees one bodily tell that Wren misses.
+
+**Reversal:** the host is not simply enemy or ally. They protect one person while selling another.
+
+**Cost:** accepting hospitality creates a debt; refusing it exposes a weaker ally.
+
+**Theme carried:** trust under uncertainty. Need must not become ownership.
+
+### 9. Artifact scene: the disputed image
+
+**Immediate want:** decide whether a contested object is worth risking the next leg of the journey.
+
+**Adventure object:** high-resolution scan, old squeeze, broken tablet, auction catalog, marginal translation, missing provenance file.
+
+**Rule learned:** artifacts are evidence under dispute, not automatic portals.
+
+**Trick:** the useful clue is not the dramatic image but a boring measurement, damage pattern, repair seam, or mistranslated line.
+
+**Reversal:** a faction's wrong reading is sincere and emotionally powerful; correcting it may cost the protagonists an ally.
+
+**Cost:** the group acts on incomplete evidence and later pays for the uncertainty.
+
+**Theme carried:** myth as contested memory, not proof.
+
+### 10. Göbekli / buried interface: the dead node
+
+**Immediate want:** reach or reconstruct a stone arrangement while Crane controls the obvious site.
+
+**Adventure object:** terrain, pillar shadows, survey stakes, buried void, sound test, missing stone, weather front.
+
+**Rule learned:** stones redirect living conductors; burial can decommission an interface.
+
+**Trick:** old maps lead a pursuing team to a dead node. Living observations point elsewhere.
+
+**Reversal:** Emrys's measurement is correct but his interpretation is wrong. He trusts the map over the territory.
+
+**Cost:** someone is captured, injured, or forced to destroy a record to prevent ownership.
+
+**Theme carried:** knowledge must stay answerable to the living world.
+
+### 11. Europe boundary: the threshold that watches back
+
+**Immediate want:** cross into a monitored zone without triggering a prepared psion-team attack.
+
+**Adventure object:** bridge, ferry manifest, old milestone, rail tunnel, church bell, weather station, border sensor.
+
+**Rule learned:** monitored boundaries require prepared routes, watchers, sensors, signatures, or relays. There are no magic walls.
+
+**Trick:** the team crosses by changing group coherence, not by hiding every individual.
+
+**Reversal:** avoiding the official boundary triggers an older one.
+
+**Cost:** the group survives, but the enemy learns which kind of signal they can now produce together.
+
+**Theme carried:** collective strength without command.
+
+### 12. Albion final center: hold the shape without taking the throne
+
+**Immediate want:** reach the communicative center, distinguish real transmission from manipulation, free Eli's mother, and prevent any faction from seizing the network.
+
+**Adventure object:** stones, sound, body positions, weather, injured allies, instrument readings, hostile teams, a failing route out.
+
+**Rule learned:** communication requires arrangement, not ownership. The center works through many differentiated people, not one master.
+
+**Trick:** the group becomes stronger by preserving differences: Wren's social reading, Eli's reception, the healer's bodily repair, Emrys's measurements or legacy, local custodians' knowledge, and ordinary defenders' timing.
+
+**Reversal:** Eli can take the throne-like shortcut and refuses. The refusal is tactically useful because command coherence is exactly what hostile teams can hijack.
+
+**Cost:** freeing the mother requires release, not possession. Crane survives into accountability rather than giving Eli the clean emotional violence.
+
+**Theme carried:** the final victory is not domination, chaos, messiah, or registry. It is accountable coexistence.
+
+## Reusable Adventure Devices
+
+Use these when a chapter needs more grip.
+
+### Thresholds
+
+- A port gate after reopening.
+- A clinic door where records become ownership.
+- A ferry or strait crossing.
+- A field boundary where crops change.
+- A private collection room.
+- A stone circle center.
+- A monitored national boundary.
+- A meal after which leaving becomes socially costly.
+- A dream boundary where a psion team waits.
+
+### Password equivalents
+
+- A mother's phrase that opens the wrong room.
+- A rhythm no one recognizes until a child or worker repeats it.
+- A route mark used by sailors, smugglers, and psion teams for different reasons.
+- A body position inside a stone arrangement.
+- A heat response in the hands.
+- A mispronounced divine name that reveals the speaker's faction.
+- A cargo seal that is both logistical mark and old symbol.
+
+### Treasure equivalents
+
+Treasure should rarely be gold. It should be something people will betray for:
+
+- a registry list;
+- a healer's location;
+- a clean route through broken infrastructure;
+- a high-resolution scan;
+- a living crop formation;
+- a preserved song interval;
+- a patient transfer record;
+- an old instrument reading;
+- the identity of a carrier child;
+- a method that makes the amplifier less valuable.
+
+### Oil-jar equivalents
+
+Use mundane containers that can hide danger:
+
+- aid pallets;
+- medicine coolers;
+- water tanks;
+- shipping containers;
+- temple storage jars;
+- battery cases;
+- archive boxes;
+- oxygen cylinders;
+- musical instrument cases;
+- seed sacks.
+
+The point is not homage. The point is household-scale danger: the threat is inside the ordinary object everyone overlooked.
+
+## Ender-like contest bank
+
+These should be readable as games before they become moral tests.
+
+### Forest City morning training
+
+Rules: stay inside the taped square, disarm without injury, protect a weaker partner, rotate partners every two minutes.
+
+Hidden test: Eli can win a fight but struggles to ask for help when symptoms spike.
+
+Reversal: the teacher pairs him with someone physically weaker who understands group movement better than he does.
+
+### Wren's route-reading drill
+
+Rules: cross a market without being tagged by watchers; use no phones; change direction only at preselected anchors.
+
+Hidden test: Eli thinks the lesson is surveillance. Wren is testing whether he trusts instructions before understanding them.
+
+Reversal: one watcher is real, one is imagined, and one is a civilian Wren refuses to endanger.
+
+### Emrys's differentiation test
+
+Rules: identify whether an image, sensation, phrase, or memory belongs to Eli, one of the Seven, a planted false certainty, or ordinary trauma.
+
+Hidden test: the answer is not classification alone; it is whether Eli changes behavior before knowing.
+
+Reversal: Emrys is wrong once, and the correction comes from Eli's body or Wren's social reading.
+
+### Psion-team encounter
+
+Rules: hostile teams need signature, route, coherence, and time. Break one and the attack weakens.
+
+Hidden test: the protagonists can coordinate without command.
+
+Reversal: the enemy team has affection and fear inside it; disrupting them morally is not the same as killing them.
+
+## Ali Baba-like threshold bank
+
+These should be simple enough to remember:
+
+- The shop sign that uses Eli's mother's private shorthand but belongs to a trap.
+- The ferry locker that opens only if the cargo seal is read as a route, not a number.
+- The field where the "door" is visible only at sunrise because plant height casts the pattern.
+- The archive drawer catalogued under a wrong god-name because a colonial collector misread it.
+- The private dinner where the true password is refusing the host's flattering interpretation.
+- The clinic where a patient record can open a route but also expose a child.
+- The stone center where the required phrase is not spoken; it is sung by several people in different parts.
+
+## Location-by-location adventure pressure
+
+| Location | Page-turning question | Adventure object | Likely reversal |
+|---|---|---|---|
+| Forest City | Why would Eli leave a place that works? | work rota, boat key, privacy logs | organization protects him better than secrecy alone |
+| Melaka | Which clue is real and which is bait? | token, port stamp, phrase, flooded crossing | the real clue opens the trap |
+| Singapore | Who owns suppressed knowledge? | archive badge, server cage, old map | the boring maintenance record matters most |
+| Strait | Can they survive ordinary danger while under extraordinary attack? | sail line, cargo seal, medicine box | the pirates are not the whole threat |
+| Bali / South Asia | Is the crop a message or an effect? | irrigation gate, measuring string, seed sacks | local growers understand the anomaly first |
+| Healer route | Can need be answered without becoming a leash? | clinic cot, generator, blood bag | the miracle creates a crowd |
+| Göbekli / Anatolia | Which map is alive? | survey stake, buried void, sound test | old maps are traps |
+| Europe | Which boundaries are watched? | bridge, ferry manifest, weather station | avoiding one boundary triggers another |
+| Albion | Can communication happen without a master? | stones, bodies, sound, instruments | refusal of command is the winning move |
+
+## Drafting standard
+
+The series can carry enormous ideas if the reader first wants to know:
+
+- what is behind the door;
+- who knows the password;
+- whether the game is fair;
+- what the object really does;
+- who is lying at the table;
+- whether the crossing will hold;
+- what the rule costs;
+- who will be owned if help is accepted;
+- whether the next clue is worth the risk.
+
+When in doubt, add a door, a rule, a trick, and a cost before adding explanation.

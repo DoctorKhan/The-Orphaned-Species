@@ -47,14 +47,22 @@ What exact clue draws Eli from Forest City to Melaka?
 - What does it promise: mother evidence, a witness, a record, an object, a route, or a name?
 - What does it cost him by the end of Act I?
 
-### 2. Melaka breach event
+### 2. Melaka breach event — LOCKED
 
-What concrete physical crisis opens the Seven without repeating Eli's head injury?
+**A losing fight that ends in near-death by asphyxia.** The threshold is loss of breath (choke and/or drowning), **not** a second head injury.
 
-- Drowning, blood loss, shock, crush injury, toxic exposure, fire, restraint, or another near-death threshold?
-- How does it arise from pursuit or a human choice rather than local mysticism?
-- Whom does Eli try to protect or reach when it happens?
-- What irreversible public signal does it create?
+**The beat:**
+
+1. **Chase.** A rival team's operators run Eli down during the disorderly Melaka reopening — he's been clocked near their contest over a carrier/route. A scooter flight through the old town / riverside.
+2. **Losing fight.** The flight collapses into close-quarters combat — sticks, a blade, his Filipino Kali. His training is **perception, not prowess**: he reads line, range, entry, and angle, and it is *not enough* against numbers. He is overwhelmed. (Anti-badass: the Kali buys him seconds, never victory; keep the dominant note terror and overwhelm, per `15_character_grounding_and_relatability.md`.)
+3. **The threshold — asphyxia, not concussion.** He is choked down and held under at the river's edge, or driven off a quay into the harbor and pinned/tangled. Near-death by loss of breath. The hypoxia **rings the old childhood TBI** (names blur, the old skull-fracture hums, the original attack bleeds in) — so the head wound is present-tense without being repeated.
+4. **The plane opens.** At the edge of death the **psi plane opens to Eli for the first time** — first contact with the sight (`38_psionic_combat.md`): he *sees* the forms as he's dying. Hand-off into the Seven flooding in. Catastrophe, not power — he risks losing the boundary between himself and seven dead strangers.
+5. **Pulled back.** An **ordinary bystander/local** (fisherman, boatman, market-seller) hauls him out — chosen over the Healer (reserved for the Vol II reconvergence) and over Wren/Emrys (who converge on the *flare*, i.e. afterward). Seeds the recurring cost: helping Eli is dangerous, and the rescuer may pay for it.
+6. **Aftermath / signal.** The breach **lights his signature** across the grid (the "dinner bell," `38`), so both contesting teams lock onto him; Emrys and Wren converge; Eli escapes into the reopening chaos, changed and now loud.
+
+- **Whom Eli tries to reach:** the breach happens while he is chasing — or being chased away from — the narrow Melaka clue about his mother (decide alongside #1). His attempt to protect the bystander-rescuer or reach the clue is what costs him.
+- **Public signal:** the grid-flare (psionic) plus an ordinary near-fatal assault with witnesses in a reopening port — drawing both teams and ordinary authorities.
+- **Alternate flavors held in reserve:** the *captors* pull him out because a carrier is worth more alive (saved by his hunters); or a knife wound + blood loss as the threshold instead of asphyxia, which would let the Healer enter at the breach (rejected for now to protect the Vol II reunion).
 
 ### 3. Wren's independent objective
 
