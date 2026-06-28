@@ -48,15 +48,17 @@ She doesn't say anything. He starts the next one.
 
 By the time the last order clears, the floor is a wreck. Tio hoses it down. Eli mops the cold side.
 
-Suresh comes in to settle the week. He counts out the chits with Mei at the till, the two of them low over the money, and Eli isn't listening — he is never listening, it is how he gets through a room — until a word crosses the kitchen and catches in him like a hook.
+Suresh comes in to settle the week. He counts out the chits with Mei at the till, low, the two of them bent over the money, and Eli isn't listening — he is never listening, it is how he gets through a room — until a few words cross the kitchen and catch in him like a hook.
 
-His mother.
+The English woman. Her boy.
 
 He stops mopping.
 
-"—paid me to find her boy." Suresh, quieter now, like he's felt Eli go still. "Up the line, port to port. I didn't want it. Pay's pay." He doesn't look over. "Somebody in Melaka's asking after the English woman. By name. After the boy she left. Says he has something of hers, and he'll only put it in the boy's hand." He sets his cap on the counter. "There. I've carried it, I'm square. I'd sooner have told you than him, Mei. Do what you want with it."
+Suresh has felt it. He doesn't turn around. He keeps his voice down and his eyes on Mei, like a man who has decided the boy can hear the thing but won't be handed it.
 
-Mei doesn't say anything for a moment. Then she looks across the kitchen at Eli, standing very still with the mop, and her face shuts like a door.
+"Somebody paid me to find him," he says to her. "Up the line, port to port. I didn't want it. Pay's pay." Mei has gone still. "There's a man in Melaka asking after the woman. By name. And after the boy she left. Says he's got something of hers, and he'll only put it in the boy's hand." He sets his cap on the counter. "There. I've carried it. I'm square. I'd sooner have left it with you than him, Mei. Do what you want with it."
+
+Mei doesn't answer for a moment. Then she turns and looks across the kitchen at Eli, who is standing very still with the mop in his hands, and her face shuts like a door.
 
 "Leave it." She says it to him, not to Suresh. "Nothing comes asking by name after this long to do you a favour. You've got a place here. A door that locks. People who'd stand in front of you." She holds his eyes. "That's more than most."
 
