@@ -33,6 +33,13 @@
 - **Already leans against:** Reich-lab data shows archaic *regulatory* alleles were largely selected **against**, and Reich favours cultural innovation for the ~70 kya expansion. The framework's retreat to "cultural innovation as the cave's image for suddenness" concedes this — but the concession weakens the Activation as a *genetic* event.
 - **Falsifier (already partly realised):** no introgressed brain-regulatory alleles under positive selection; the cognitive switch is unsupported at the sequence level.
 
+### 1.4 The carrier/Nephilim signature hides in non-coding regulation, recoverable only by reference-free methods — **[LIVE]**
+- **Claim (gloss):** the archaic/Nephilim edge is subtle non-coding regulatory rearrangement (enhancers/silencers tuning astrocyte ion-channel, cryptochrome/*CRY*, and pineal/melatonin-pathway expression), plus possible micro-inversions — the biological substrate in `39_psion_biology.md`. Linear aDNA pipelines map ~30–50 bp fragments to a modern reference and force-fit or discard the anomalous ones as contamination (reference bias), so a carrier reads as an ordinary Neolithic farmer.
+- **Test:** re-analyse high-coverage ancient genomes with **pangenome/graph-genome references or de novo assembly** of the candidate non-coding loci, instead of linear mapping to GRCh38. Predicts recovery of regulatory variants / structural micro-rearrangements at those loci that the standard pipeline drops.
+- **Falsifier:** reference-free re-analysis of the candidate loci recovers nothing the linear pipeline missed.
+- **Anchor:** reference bias and the loss/force-fitting of divergent fragments are real, documented aDNA problems; ~98% of the genome is non-coding regulatory "dark matter"; aDNA fragments to ~30–50 bp. *Gloss:* that a purposive regulatory signature hides in that blind spot.
+- **Honesty flag:** stated naively ("the method erases the evidence by design") this is **UNFALSIFIABLE special pleading**. It earns [LIVE] *only* in the reference-free-reanalysis form above, which can actually be killed. Never use the naive form as evidence.
+
 ---
 
 ## 2. Synchrony — "two independent events are secretly one act"
@@ -158,6 +165,7 @@
 | 1.1 | Chr-2 seam is functionally live | LIVE | Regulatory genomics of 2q13–q14.1 |
 | 1.2 | Gigaviral orphan genes are coherent | LIVE | Phylogenomics of orphan code |
 | 1.3 | Archaic brain-regulatory payload under selection | STRAINED | Introgression × HAR/eQTL selection scan |
+| 1.4 | Carrier signature hidden in non-coding regions | LIVE | Pangenome/de novo reanalysis of candidate loci |
 | 2.1 | Fusion ≡ bottleneck (one act) | LIVE | Co-dating + founder-population test |
 | 2.2 | Basal Eurasian release ≡ Neolithic | LIVE | Recover a Basal Eurasian genome |
 | 2.3 | Y-rebound ≡ 4.2-ky collapse | LIVE | High-res co-dating |
