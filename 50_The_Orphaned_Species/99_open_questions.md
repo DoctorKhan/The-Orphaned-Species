@@ -125,15 +125,17 @@ Still open:
 - Whether artifacts can store a charged attack (ties to `35_artifact_chain.md`).
 - Propagated the plane-local-visibility clause into `/00_NARRATIVE_STRUCTURE.md:91` (the only master doc carrying the "not colored projectiles" rule). Done.
 
-### 6. Volume I climax location and community
+### 6. Volume I climax — LOCKED (geography pending research)
 
-South Asia is structurally strongest, but the exact place and human community remain open.
+Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED").
 
-- What crop, field, or living growth pattern reveals the new line?
-- Who owns, works, protects, or depends on the site?
-- What does the community want besides helping Eli?
-- What evidence is lost when Eli chooses people over the cleanest clue?
-- What survives to point toward Volume II?
+- **Site:** a smallholder **rice-farming community** in monsoon/deltaic South Asia — paddy as the legible detector. Deliberately **not** Bangladesh (held as Eli's lost home). Exact geography flagged for research.
+- **Anomaly:** a **new ley line forming**, which the growers themselves distinguish from irrigation and blight.
+- **What they want:** protect crop/land/water; refuse to be a battlefield; want **neither faction** there.
+- **Evidence lost:** the cleanest physical documentation of the forming line (formation + a grower's polarity record).
+- **The fight:** Custodians vs. a rival team contest it; civilians in the crossfire.
+- **What survives → Vol II:** the community's own knowledge (a grower's observation, a coordinate that no longer matches the old map, half a polarity reading) points onward without the itinerary. Eli's gain is a **threshold** (personal Manual Override; the Seven are real and separate), not power.
+- **Still open:** exact geography; the rival team's identity; whether Crane appears in person in Vol I (recommend: looms only).
 
 ## Priority 2 — required before Volume II can carry the middle
 
@@ -239,4 +241,4 @@ Deep-time material is delivered as memory capsules retrieved from megalithic sto
 
 ## Next practical step
 
-Create a twelve-to-fifteen-chapter Volume I beat sheet after answering Priority 1. Every chapter should have an immediate want, attachment beat, material obstacle, psionic pressure or social-intrigue pressure, irreversible choice, cost, single revelation, and forward clue. At least several chapters should turn on hospitality, invitation, debt, reputation, institutional access, or factional misreading rather than physical pursuit. Use `16_reader_attachment.md` to make sure each major character has a visible ordinary need, private wound, repeated behavior, and relationship-changing action before the cosmology asks the reader for scale. Use `17_reveal_order_and_reader_impact.md` to keep the reveal order entertaining: emotional escalation first, terminology second.
+**Priority 1 is locked (#1–#6) and the Volume I beat sheet exists: `31_volume_I_beatsheet.md`** (prologue + 14 chapters, chapter-card format). Next: **draft prose** — per `05` §13, write the Forest City opening through the first irreversible Melaka escape (Ch 1–5), then reassess scene length against the trilogy/single-novel question. Before drafting, run each major character through `16_reader_attachment.md` (ordinary need, private wound, repeated behavior, relationship-changing action) and keep `17_reveal_order_and_reader_impact.md`'s order: emotional escalation first, terminology second. Add courtly-intrigue/hospitality pressure to at least one Act II chapter so the volume isn't only physical pursuit.
