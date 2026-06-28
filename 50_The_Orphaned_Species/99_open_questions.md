@@ -71,18 +71,26 @@ Full reconciliation still required: update every affected instance of **Titans**
 - **Public signal:** the grid-flare (psionic) plus an ordinary near-fatal assault with witnesses in a reopening port — drawing both teams and ordinary authorities.
 - **Alternate flavors held in reserve:** the *captors* pull him out because a carrier is worth more alive (saved by his hunters); or a knife wound + blood loss as the threshold instead of asphyxia, which would let the Healer enter at the breach (rejected for now to protect the Vol II reunion).
 
-### 3. Wren's independent objective
+### 3. Wren's independent objective — LOCKED
 
-What would Wren pursue if Eli disappeared?
+**Wren is a ring handler secretly running carriers *out*.** Her official role is to find and deliver carriers; her secret is that she has been diverting some of them — faking deaths, losing files, running marked people out — ever since she failed to save the woman she loved. Her present-tense want is **keeping that quiet extraction network, and its people, alive and uncompromised.** Official role: hunter. Secret: rescuer.
 
-- Strong current candidate: Wren represents the constructive-control corner. She is trying to prove an accountability structure for psions and anomalous beings that is not Crane's registry, ownership, or permanent command.
-- A person she failed to save?
-- Evidence against the ring?
-- Extraction for someone else?
-- Revenge, rescue, asylum, debt repayment, or exposure?
-- How does this objective conflict with Eli's mother-trail in each volume?
+**Why it satisfies the constraints:**
 
-Until this is answered, Wren risks functioning as route-reader, love interest, or Anthea-adjacent resonance rather than a present-tense protagonist.
+- **Not the forbidden three.** Not *protect Eli* (he's a threat to it); not *escape Crane* (it's an active operation *inside* the ring, not flight); not *resolve Anthea* (her sonic resonance becomes a tool for moving people unseen, not the goal).
+- **The constructive-control corner with a body.** She is already *doing* the accountable, consent-based, exit-rights alternative to the registry — person by person. The Volume III coexistence proof is her network grown up. This is why she can attack Eli's vagueness.
+- **Grows from her wound.** "Belief in rescue cauterized" is the engine: she's stopped believing she can save anyone and can't stop trying to get people out, and hates herself for both the failures and the hope. Eli is the rescue she didn't plan and who keeps surviving — slowly un-cauterizing the belief.
+- **Stays grey.** No clean railroad: she runs extractions with the counterfeit (lies, seduction, betrayal, brutal triage; people left behind, people used as decoys, people killed to save others). Divided loyalties, dirty hands, ashamed of the game.
+
+**Conflict with the mother-trail, per volume:**
+
+- **I** — she's in Melaka for an *extraction*, not for Eli; the breach-flare threatens to bring the ring down on her operation ("I came to see what died"). Eli turns out to *be* the flare. She folds him in against her own interest, and it **costs her network**, seeding her resentment and the romance.
+- **II** — her people and Eli's trail pull apart geographically; the trade fork sharpens (a faction dangles her people's safety for delivering Eli — neither lover is the other's currency, but now it's *her* people on the scale).
+- **III** — her network becomes the coexistence proof; she makes the **indispensable choice** (already reserved for her in `05` §7) — binding it to accountable limits, refusing to let any faction, Crane, *or Eli* weaponize it. Her objective and the trilogy's victory condition merge.
+
+**Light-cross with the opening clue (LOCKED knob):** the person Wren is extracting in Melaka when the breach hits is **not** the witness/mother-lure, but close enough that the two operations keep fouling each other — her extraction route, safehouse, or timing collides with the witness handoff, so protecting her person and chasing Eli's clue can't both be clean. Exact identity open; keep the entanglement light, not a shared target.
+
+**Still open:** her sonic-resonance tool vs. her ignorance of what carriers are *for* (she uses the gift without understanding it); whether she is mid-level inside Crane's ring specifically or a national program the ring moves through (ties to #4); the specific face she's extracting in Melaka.
 
 ### 4. Recurring rival psion team
 

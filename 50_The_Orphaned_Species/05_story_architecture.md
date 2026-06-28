@@ -190,7 +190,7 @@ The story needs recurring relationships strong enough to carry the cosmology.
 
 ### Wren's missing requirement
 
-Wren needs a present-tense want that does not reduce to protecting Eli, escaping Crane, or resolving Anthea. It should periodically conflict with Eli's mother-trail. Until that want is chosen, her arc is structurally incomplete.
+**LOCKED:** Wren is a **ring handler secretly running carriers out** — official role hunter, secret rescuer, ever since she failed to save the woman she loved. Her present-tense want is keeping that quiet extraction network and its people alive and uncompromised. This is the constructive-control corner with a body, it conflicts with the mother-trail every volume (Eli's heat endangers her people; the trade fork puts *her* people on the scale; her network becomes the Volume III coexistence proof), and it stays grey (the counterfeit, triage, dirty hands). Full beat: `99_open_questions.md` #3.
 
 ### The recurring enemy team
 
