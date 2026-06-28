@@ -48,19 +48,19 @@ She doesn't say anything. He starts the next one.
 
 By the time the last order clears, the floor is a wreck. Tio hoses it down. Eli mops the cold side.
 
-Suresh comes in to settle the week. He runs oil and flour across from the ports now that the ports are half open, and he counts out the chits with Mei at the till and is turning to leave when he sees Eli at the steel, and stops.
+Suresh comes in to settle the week. He runs oil and flour across from the ports now that the ports are half open, and he counts out the chits with Mei at the till and is turning to leave when he sees Eli at the steel, and stops. He doesn't look glad to have seen him.
 
 "You're the English woman's boy."
 
 Eli keeps mopping.
 
-"There's a man in Melaka been asking after her. Since the ports opened." Suresh waits. "Asking by name. And after the boy she left. Says he has something of hers, and he'll only put it in the boy's hand."
+"A man paid me to find you," Suresh says. "Up the line, port to port. Pay's pay; I took it." He turns his cap once in his hands. "Somebody in Melaka's been asking after your mother. By name. After the boy she left. Says he has something of hers, and he'll only put it in your hand. That's the message. I've carried it. I'm square."
 
 The mop stops. Eli doesn't decide to stop it.
 
 His mother has been dead ten years.
 
-"Leave it," Suresh says. "Nothing comes asking by name after this long to do you a favour. You've got a door that locks here. People who'd stand in front of you." He looks at Mei, who has gone still at the till. "That's more than most men get."
+"And here's the part nobody paid for." Suresh sets the cap back on his head. "Leave it. Nothing comes asking by name after this long to do you a favour. You've got a door that locks here, people who'd stand in front of you." He looks at Mei, who has gone still at the till. "That's more than most men get."
 
 Eli looks at the water through the open door. His hands are warm on the handle of the mop. They are always warm. For once it feels like it might be for something.
 
