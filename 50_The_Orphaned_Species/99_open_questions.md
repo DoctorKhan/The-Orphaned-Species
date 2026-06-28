@@ -92,15 +92,28 @@ Full reconciliation still required: update every affected instance of **Titans**
 
 **Still open:** her sonic-resonance tool vs. her ignorance of what carriers are *for* (she uses the gift without understanding it); whether she is mid-level inside Crane's ring specifically or a national program the ring moves through (ties to #4); the specific face she's extracting in Melaka.
 
-### 4. Recurring rival psion team
+### 4. Recurring rival psion team — LOCKED (names open)
 
-Who gives the psionic war a face below Crane?
+**Working name: "the Custodians"** (carrier slang; bland official designation TBD). **Faction:** a national/bloc psion program's deniable field unit, **contracted to and leveraged by the Ring** — they work with Crane and fear him, but are not his creatures (he holds leverage; he can have any of them harvested once spent). **Cover:** a transnational **biosecurity / quarantine-enforcement** unit — which lets them move through ports, board ships, access health and immigration records, and operate with authority in the reopening world. Perfect for the maritime chase and the outbreak backdrop.
 
-- Name, faction, and formal cover.
-- Three to five members with distinct functions.
-- Internal affection, fear, disagreement, and debt.
-- What one member might defect over.
-- What they can do together that no single psion can do alone.
+**The dark mirror — the spine of why they matter.** All four are **themselves carriers who took the collar** — served the program to avoid being disappeared/harvested. They hunt their own kind to survive. That is exactly the choice **Wren is defecting from** (she's the road they didn't take), and **Eli** is what they might have become if they'd risked it (the road they didn't take). They are not an obstacle; they are a road-not-taken for both leads. A found-family of the coerced, which complicates simple enmity.
+
+**Members (4; roles from `38`; names adjustable):**
+
+1. **Lead / Locker — a seer.** Holds signatures, sees the plane, commands; rations the team's exertion against the metabolic cost. A pragmatic true-believer in managing a real danger (Crane's argument, embodied below Crane). Fears Crane, uses him.
+2. **The Lance.** The one who hurts people — most willing, most damaged; over-uses the gift and pays the neurological price (tremor, burnout). His willingness is armor over self-loathing.
+3. **The Shield / conscience — the defection candidate.** Holds the team's coherence and tries to spare civilians; bound to the others by love and debt but fraying. **Tied to Wren's wound:** the woman Wren failed to save was this member's [sister / lover / recruit] or died in front of them. *Might* defect — not guaranteed — over civilian harm or that old death. By Vol III, plausibly into Wren's network.
+4. **The Mask / Scout.** Stealth, decoys, false signatures, infiltration — and the socially fluent one who can run seduction/manipulation ops (the *Liaisons*/honey-trap thread, the team's tie to the courtly-intrigue layer). Youngest, most amoral or most coerced.
+
+**What they do together that no lone psion can:** simultaneously **lock + Block + Lance + shield** (one pins the signature and jams the target onto autopilot while another attacks and a third shields the team) and run **coordinated entrainment** (multiple broadcasters syncing one target or a crowd). This is precisely the breach-aftermath threat: they can pin Eli while the Lance works. A lone psion cannot do all of this at once.
+
+**Internal bonds / fear / disagreement / debt:** affection of a unit that survived together; disagreement over conscription and civilian harm (Lance willing, Shield resisting, Lead managing); shared fear of Crane's leverage; the debt of their own survival (serve, or be harvested).
+
+**Limits (not omnipotent):** they mistake decoys, expose their own signatures, fracture under the metabolic toll and their disagreements, and can be outmaneuvered by ordinary tradecraft and by their internal cracks. Consequences accumulate across encounters — wounds, a half-defection, mounting burnout — so by Vol III the team is broken/changed, not a renewable obstacle.
+
+**Resolves dangling threads:** the **Melaka lure** is set by the Ring and executed by the Custodians (they run Eli down at the breach). **Wren's affiliation:** Wren is *Ring* (handler); the Custodians are a contracted *national unit* — adjacent, mutually known, sometimes-allied — so her flight with Eli is a betrayal visible to people she has worked beside, and the Shield's tie to her dead love makes it personal.
+
+**Still open:** final team name + member names; the exact relation (sister/lover/recruit) between the Shield and the woman Wren failed to save; which member, if any, actually defects and when.
 
 ### 5. Psionic combat rules — SEEDED (`38_psionic_combat.md`)
 

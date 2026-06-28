@@ -194,6 +194,8 @@ The story needs recurring relationships strong enough to carry the cosmology.
 
 ### The recurring enemy team
 
+> **LOCKED — "the Custodians" (`99_open_questions.md` #4).** A four-person deniable psion unit of a national/bloc program, contracted to and leveraged by the Ring, under **biosecurity/quarantine** cover. **They are themselves carriers who took the collar to avoid being harvested** — the dark mirror of Wren's choice and the road Eli didn't take. Members: Lead/Locker (a seer), the Lance (the one who hurts), the Shield/conscience (defection candidate, tied to Wren's dead love), the Mask/Scout (stealth + seduction ops). They run Eli down at the Melaka breach.
+
 Do not use a new anonymous psion squad at every location. Design one recurring three-to-five-person team attached to a state, contractor, or shifting alliance. Its members should have:
 
 - distinct operational functions based on the eventual psionic rules;

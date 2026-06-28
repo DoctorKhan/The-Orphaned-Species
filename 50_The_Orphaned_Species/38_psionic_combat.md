@@ -93,6 +93,6 @@ A Bubble or Block **can be broken if you are strong enough** (user's mechanic) �
 
 ## 8. Still open (track in `99_open_questions.md`)
 
-- Whether psions have **specializations** (natural shielders vs. lancers vs. maskers) or all primitives are general skills at different strengths.
+- **Specializations — DECIDED.** Psions have *all* primitives but each carries a pronounced aptitude, so trained teams form around natural roles (lock/seer, lance, shield, mask). This is why "the Custodians" (`99` #4) divide labor and why a lone psion can't do everything at once. The **sight** is a separate developed faculty layered on top (some lock-specialists are seers; some aren't).
 - **Eli's** combat profile: his bandwidth makes him a powerful *receiver/reflector* and terrible at offense early — confirm the asymmetry.
 - Whether **objects/artifacts** can store a charged attack (a trapped-Lance trap on a node) — ties to `35_artifact_chain.md`.
