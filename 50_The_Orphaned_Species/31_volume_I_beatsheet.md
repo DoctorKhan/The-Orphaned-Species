@@ -2,7 +2,7 @@
 
 *The chapter-by-chapter spine for Volume I (Shattering), built on the locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `99_open_questions.md` (the locked beats #1–#6), `38_psionic_combat.md` (the war), `39_psion_biology.md` (the floor), `36_memory_capsules.md` (descents), `16_reader_attachment.md` (the human-gravity test).*
 
-> **Locked inputs this sheet chains together:** Eli teaches sailing at Forest City (#1) → a **witness** clue reaches him via the harbor grapevine, half-bait (#1) → Melaka, where **Wren** is running an extraction that light-crosses the witness (#3) → the breach: a losing Kali fight ending in **asphyxia**, the psi plane opens, the Seven flood (#2) → the **Custodians** run him down and pursue (#4) → first differentiation, first frightened healing via Ila, and the South Asia climax (#6, locked below).
+> **Locked inputs this sheet chains together:** Eli works a **line cook** and keeps his **dead father's garden, badly**, at Forest City (#1) → a **witness** clue reaches him via the kitchen/supply network, half-bait (#1) → Melaka, where **Wren** is running an extraction that light-crosses the witness (#3) → the breach: a losing Kali fight ending in **asphyxia**, the psi plane opens, the Seven flood (#2) → the **Custodians** run him down and pursue (#4) → first differentiation, first frightened healing via Ila, and the South Asia climax (#6, locked below).
 
 > **Volume I dramatic question:** *Can Eli remain himself long enough to decide whom to trust?*
 > **Internal movement:** confusion → first differentiation. **Ending change:** Eli knows the Seven are separate people, achieves **personal Manual Override** (feel a charge, recognize autopilot, don't let conditioning complete the act), and voluntarily follows the next clue with no known destination.
@@ -18,16 +18,16 @@ The predator before the protagonist. The quiet machinery of vans and clipboards 
 ## ACT I — Hearth and Breach
 
 ### Ch 1 — The Hour That Belongs to No One *(Eli · Forest City)*
-- **Want / Attachment:** get through an ordinary day — teach the morning sailing class, keep the boats, hold his bounded life. Attachment: Eli is *good* at this one structured thing despite the TBI; his students, a fellow instructor, the harbor crew, the water as the one place that quiets him. (Repurpose the park/bars warmth and discipline here.)
-- **Obstacle:** money/status precarity; the refuge's rules; a tourist class that strains his face-blindness and crowd-overload (TBI shown, not told).
+- **Want / Attachment:** get through an ordinary day — the early hour in his father's garden, then prep and the line. Attachment: his **warm hands** on the fire (he never quite burns — the mother's gift he doesn't yet understand); the kitchen crew he's hard and capable beside; and, privately, **his dead father's garden, where he is *not as good* as his father was** — the tomatoes that won't take. The split he carries without naming it: gift in the hands, failure in the soil. (Repurpose the park/bars warmth and discipline into prep and the garden hour.)
+- **Obstacle:** money/status precarity; the refuge's rules; the **dinner-rush overload** — tickets stacking, names and orders blurring, layered noise — where the TBI breaks him, against the meditative calm of prep (TBI shown, not told).
 - **Choice → Cost:** none yet — establish what he stands to lose.
-- **Revelation:** Forest City is real, accountable refuge, not dystopia. **Forward clue:** word comes up the harbor grapevine — a passing crew relays that someone in reopened Melaka is asking after his mother and holds something of hers.
+- **Revelation:** Forest City is real, accountable refuge, not dystopia. **Forward clue:** word comes through the kitchen/supply network — a supplier or transient kitchen worker relays that someone in reopened Melaka is asking after his mother and holds something of hers.
 
 ### Ch 2 — Something of Hers *(Eli · Forest City)*
 - **Want:** decide whether the lead is real without leaving safety.
-- **Attachment:** a quiet hearth beat — a meal, the crew, the one relationship leaving will cost most. His shame at how much he *wants* this to be true.
+- **Attachment:** a quiet hearth beat — a meal he cooks, the kitchen crew, a last evening in the father's garden; the one relationship leaving will cost most. His shame at how much he *wants* this to be true.
 - **Obstacle (human · material · psionic):** it can't be tested remotely (the witness won't trust monitored wartime comms; it's a physical handoff); leaving forfeits the refuge; the one detail relayed — her private name for him / the three-note tune — lands as a **surge**, certainty before proof.
-- **Choice → Cost:** he goes. Cost: his students, the crew, the boats, the only safe life he's built.
+- **Choice → Cost:** he goes. Cost: the kitchen crew, the people he feeds, the father's garden — the only safe life he's built.
 - **Revelation:** the surge is his compass and his flaw — he moves because it *rang*. **Forward clue:** a name/place in Melaka for the handoff.
 
 ### Ch 3 — The Reopening *(Eli; one Wren beat · Melaka)*
