@@ -10,6 +10,8 @@
 
 The atomized person is not free. They are unattached, and therefore available: to the father-god, the state, the market, the algorithm, the cult, the employer, the institution, the fantasy, the grievance, the feed.
 
+In Three-Circles terms, atomization is the collapse of the **Family** / middle circle: the healthy mediator between individual body and civilization. Once that ring is thinned, the person meets the outer circle naked.
+
 **Control logic:** every broken bond becomes a purchasable need or an upward dependency.
 
 ### The sequence
@@ -99,7 +101,7 @@ The point is not that all modern institutions are bad. The point is that young p
 - **Sintashta arrival:** the first violent atomization in the frame. The village is broken into captives, corpses, fugitives, and property. The wheel turns the circle into a column.
 - **Göbekli / priesthood:** ritual is routed upward. The instrument that once gathered minds becomes a controlled site, then a buried one.
 - **Agriculture:** settled accumulation creates property, hoarding, depletion, and priestly oversight. The social body begins carrying loads it was not built to carry.
-- **17:1 bottleneck:** mating, lineage, and family are captured by hierarchy. Men become competitors for permission; women become controlled reproductive territory; children become dynastic output.
+- **17:1 bottleneck:** mating, lineage, and family are captured by hierarchy. Men become competitors for recognized fatherhood; women become controlled reproductive territory; children become dynastic output. The science floor is a Y-line effective-population collapse under social inequality, not a literal count of seventeen mothers for every father.
 - **Bronze Age cults:** gender fracture and father-submission harden. Anthea is dangerous because her song restores direct relation: body to body, mother to daughter, matter to mind, without the institution.
 - **Stonehenge / Albion:** Cuno is the antidote. Collective resonance is what atomization exists to prevent: many minds in the right shape becoming one mind.
 - **Anglesey:** Rome breaks the druidic memory-web by killing elders, burning groves, and cutting the line between plant knowledge, child, place, and ritual.

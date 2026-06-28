@@ -11,13 +11,13 @@ A living collection of real scientific papers, excerpts, and quotes that anchor 
 
 ---
 
-## 1. The 17:1 bottleneck — patriarchy as a thing that was *installed*, over millennia
+## 1. The 17:1 bottleneck — male-line collapse under social inequality
 
 **Paper:** Karmin, M., Saag, L., Vicente, M., et al. (2015). "A recent bottleneck of Y chromosome diversity coincides with a global change in culture." *Genome Research*, 25(4), 459–466.
 
-**The finding (paraphrase — confirm before quoting):** Roughly 5,000–7,000 years ago, the genetic diversity of the male line (Y chromosome) collapsed far more sharply than the female line (mitochondrial DNA). The interpretation: a small number of men were fathering most of the children while most male lineages left no descendants — male *effective* population size crashing to a small fraction of the female figure. This is the genetic signature behind the popular framing that, at the extreme of the bottleneck, on the order of seventeen women reproduced for every one man. It coincides with the spread of patrilineal, hierarchical, accumulating-wealth societies — i.e., patriarchy is not primordial but *established*, and established slowly, over thousands of years.
+**The finding (paraphrase — confirm before quoting):** Roughly 5,000–7,000 years ago, the genetic diversity of the male line (Y chromosome) collapsed far more sharply than the female line (mitochondrial DNA). The interpretation is not a literal census where exactly seventeen women reproduced for every one man. It is an *effective population size* signal: the surviving paternal-line record behaves as if a small number of male lines expanded while many other male lines failed to persist. This coincides with the spread of patrilineal, hierarchical, accumulating-wealth societies: fatherhood, inheritance, marriage legitimacy, and lineage survival become socially controlled.
 
-**Why it matters to this book:** This is the hard data under **Chapter 13 (Tem, the Hidden Son)** and the canon's "Great Reproductive Bottleneck" / "17:1 ratio" (Timeline Phase VI). The myth says the hybrid lords claimed breeding rights and erased competing bloodlines; the paper says the male line really did collapse in exactly that window. The orphan-and-father thread lands here too: the father-god above and the breeding-lord below are the same shape, arriving together.
+**Why it matters to this book:** This is the hard data under **Chapter 13 (Tem, the Hidden Son)** and the canon's "Great Reproductive Bottleneck" / "17:1 ratio" (Timeline Phase VI). The myth says hybrid lords, priestly caste rules, elite polygyny, inheritance, legitimacy, and violence decide who is allowed to be a father. The paper says the male-line record really does show a severe collapse in that window, while mainstream interpretation points toward social inequality and patrilineal structure rather than a biological sterility event. The orphan-and-father thread lands here too: the father-god above and the breeding-lord below are the same shape, arriving together.
 
 > **[VERBATIM TODO]** — paste the exact sentence(s) from Karmin et al. (likely from the abstract or discussion, re: the male-specific reduction in effective population size and its cultural correlate).
 

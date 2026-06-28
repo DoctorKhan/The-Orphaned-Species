@@ -40,6 +40,13 @@
 - **Anchor:** reference bias and the loss/force-fitting of divergent fragments are real, documented aDNA problems; ~98% of the genome is non-coding regulatory "dark matter"; aDNA fragments to ~30–50 bp. *Gloss:* that a purposive regulatory signature hides in that blind spot.
 - **Honesty flag:** stated naively ("the method erases the evidence by design") this is **UNFALSIFIABLE special pleading**. It earns [LIVE] *only* in the reference-free-reanalysis form above, which can actually be killed. Never use the naive form as evidence.
 
+### 1.5 Behavioral epigenetics: practice-dependent expression and a documented intergenerational reset — **[LIVE → partly supported]**
+- **Claim (gloss):** the Activation/Fall runs on **behavioral epigenetics** — sustained practice (regulated breath, acoustic resonance, controlled metabolic stress) holds the Tree-of-Life genes un-methylated and expressed; stop, and they **reset to dormant within two or three generations.** The Fall is loss of the *maintenance protocol*, not loss of genes; reawakening is recreating the practice (`39_psion_biology.md`, maintenance section; `33_the_curriculum.md`).
+- **Test:** whether targeted physiological/contemplative regimens drive **measurable, reversible methylation changes** at the candidate loci (astrocyte ion-channel, *CRY*, pineal/melatonin pathway), and whether expression decays across generations absent the practice.
+- **Already supported (the firmer floor):** behaviour and environment **do** rewrite the methylome, and human methylation **largely resets between generations** — that reset *is* the Fall mechanism, leaning *with* mainstream biology rather than against it. This lets the framework lean **off** the STRAINED germline claim (§1.3).
+- **Falsifier:** the candidate loci show no practice-responsive methylation, or expression proves not maintenance-dependent.
+- **Honesty flag:** real part = practice-dependent methylation and the intergenerational reset. Speculative tweak = *what* is being maintained (the subtle-energy receptors), not *that* expression is practice-dependent and resets.
+
 ---
 
 ## 2. Synchrony — "two independent events are secretly one act"
@@ -59,10 +66,10 @@
 - **Anchor:** Basal Eurasian is real, mainstream paleogenetics (Lazaridis 2014/2016), genuinely Neanderthal-depleted and concentrated in the first farmers. *Gloss:* isolation-as-holding-pen and appearance-as-release.
 
 ### 2.3 Y-diversity rebound (~4 kya) ≡ the 4.2-ky collapse — **[LIVE]**
-- **Claim (gloss):** the controllers' grip releasing as the masters die/strand (Phase VII).
+- **Claim (gloss):** the controllers' caste filter loosening as the masters die/strand and local legitimacy systems fracture (Phase VII).
 - **Test:** high-resolution dating of the male-line rebound against social-collapse horizons.
 - **Falsifier:** the rebound is decoupled in time from collapse, or fully explained by Indo-European (Yamnaya/Sintashta) patrilineal expansion alone.
-- **Anchor:** Karmin et al. 2015 document both the trough and rebound but pin neither to a single cause. *Gloss:* the clean "controllers leave → diversity rebounds" reading.
+- **Anchor:** Karmin et al. 2015 document both the trough and rebound but pin neither to a single cause. *Gloss:* the clean "caste-filtered fatherhood loosens → diversity rebounds" reading.
 
 ---
 
@@ -126,7 +133,7 @@
 - *Note:* this sits on the same purely-mythic footing as the ley-line / crop-circle layer — the weakest-anchored zone in the timeline; cite as the cave's cosmology, not a science claim.
 
 ### 5.5 Near-total local male-line turnovers recur at "cage-rebuild" horizons — **[LIVE]**
-- **Claim (gloss):** orphaned humans re-running the Igigi reproductive clamp themselves (Phase IX).
+- **Claim (gloss):** orphaned humans re-running the Igigi reproductive clamp themselves through patrilineal conquest, elite legitimacy, and caste-filtered fatherhood (Phase IX).
 - **Test:** aDNA for Iberian-style events elsewhere — high autosomal continuity with near-total Y replacement.
 - **Anchor (hard):** Iberia ~2500–2000 BCE, ~40% ancestry / ~100% Y turnover (Olalde et al. 2019). The framework predicts this is a *pattern*, not a one-off.
 - **Falsifier:** Iberia stays anomalous; no comparable male-line wipeouts at other consolidation horizons.

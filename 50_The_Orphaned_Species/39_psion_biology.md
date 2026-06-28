@@ -31,37 +31,40 @@ This is the mechanism under the book's whole thesis:
 - **Why suppress the masses:** an awakened human who holds their own coherence **can't be entrained**, and could jam the broadcast or entrain others. "You don't want the miners waking up" gets a mechanism.
 - *Real anchor:* neural entrainment is real. *Speculative tweak:* its strength as governance — real entrainment effects are modest, not mind-control.
 
-## 3. The metabolic engine — why the cost builds the cage
+## 3. The energetics (hardware-facing) — full model in `34`
 
-Running broadcast hardware burns an enormous caloric/metabolic payload, with real risk of **neurological burnout**. That single constraint is the biological engine under the entire control cosmology:
+> **The full cosmological model** — two energies · two planes · the one-/two-Tree cost · the sacrifice economy · the efficiency principle — is canonical in **`34_two_energies_and_planes.md`**, with the practice in **`33_the_curriculum.md`**. What stays here is hardware-facing:
 
-- **Tribute is literally fuel.** "Feed the temple, surrender surplus, sacrifice" stops being symbolic — agriculture, grain stores, the first cities, the extractive pyramid exist to **keep the broadcasting caste's neural reactors fed.** Grounds the agricultural catastrophe (Phase VI / Ch 12) and the Igigi control system in biology: surplus extraction = god-king life support.
-- **Divine food = the metabolic regime = Adapa's bread.** Soma, ambrosia, nectar, and the **bread of life / water of life** Anu offers Adapa are the support that sustains divine neural metabolism and its longevity. **Adapa refusing the bread** = refusing what would let him hold the ability and the long life. The myth gets a mechanism.
-- **King-List longevity** = strategies to protect the hardware from burnout — why the god-kings "reign" for absurd spans.
-- **Burnout = the Abandonment.** When the support system fails (war, Younger Dryas, agricultural collapse, the grid fracturing), the caste loses its fuel, burns out, and **"dies like men"** (already canon). Phase VII gets a cause.
-- **Scarcity forces the pyramid.** Because the full ability is metabolically unsustainable for many, only a tiny caste can be maintained as broadcasters atop a vast labor force whose surplus feeds them — the drone/sub-drone, few-over-many structure with a thermodynamic reason.
+- **The metabolic cost is the *physical* bill for running the §1 hardware** — the astrocyte broadcaster and cryptochrome receiver draw real calories; per-individual, this is the root of the `38` §4 cost mechanic (spent psions go slow, sick, sleepless). The **life-energy** that flows *through* the hardware is a separate currency (`34` §1).
+- **Activation is epigenetic and must be *maintained*.** Practice holds the Tree-of-Life genes un-methylated; stop and they reset to dormant within a few generations — *the genes are never lost, only silenced* (`91` §1.4–1.5). The Fall and the reawakening loophole are in `34` §5; the practice in `33`.
 
-**The deepest payoff — the thesis grounded in energy economics.** The Seven's practices (breath, stillness = metabolic efficiency, "energy meditation") reach the field *without* the ruinous broadcast metabolism — no tribute, no burnout, no caste. So **"no one needs the machine" becomes thermodynamic**: the extractive god-king/grid model collapses under its own fuel demand; the distributed, low-power native road does not. *Transcend, not win* — the cage falls because it is metabolically unsustainable, and the native road wins because it is sustainable. This is also the cost mechanic in `38` §4 (spent psions are "slow, sick, sleepless") given its physiological root.
+## 4. Expression levels — full ladder in `34` §3
 
-## 4. The ladder — one hardware at four expression levels
+One hardware, expressed differently: **dragons & aliens** (Tree of Life, one-Tree, self-fuelled), **gods / Titans** (both Trees, two-Tree, the extraction-fuelled anomaly), **baseline humans** (Tree of Knowledge only — the latent Life switched off, the installed lock), and **the Activation / carriers** (Life waking — the threat the locks prevent). Full table and cost model: `34` §3; the epigenetic maintenance and the Fall: `34` §5.
 
-The canonical "ladder of diminishing power, serpents → gods → humans" is the **same hardware expressed at different strengths**:
+- **Eli** sits with the carriers: not stronger output — wider **reception**; a receiver/reflector, not a broadcaster (`38` §8). His TBI disrupted the filter; the breach flips it open.
 
-| Lineage | Expression | Note |
-|---|---|---|
-| **Dragons** | Pure-biology, full | Already canon: "fire" = EM/chemical discharge, "telepathy" = infrasonic/ultrasonic resonance — capacities reached "by pure biology instead of installed locks." The un-engineered precedent. |
-| **Nephilim / god-kings** | Full, installed, fuel-dependent | The broadcasting caste of §2–3. Power bought with the metabolic cost that builds the cage. |
-| **Baseline humans** | Latent, switched off | The hardware is present but the regulatory switches are set off — the **installed lock** at the Seven Pairs seam (Phase II). |
-| **The Activation** | The switches flip on | Phase III ("genes that have slept a million years switch on") **is** the non-coding regulatory elements being enabled. Carriers (the Seven, Eli) are humans in whom some switches woke. |
-| **Eli** | Anomalous bandwidth | Not stronger output — wider *reception*; a receiver/reflector, not a broadcaster (`38` §8). His TBI disrupted the filter; the breach flips it open. |
+## 5. Reproductive caste — what the Y bottleneck is, and is not
 
-## 5. The genetics loophole — and the honest version of it
+The biology here explains why a tiny enhanced caste can govern: entrainment, metabolic cost, visible power, and controlled access to the "divine" body. It does **not** require giant male sterility to explain the Y-chromosome bottleneck.
+
+The bottleneck is a social-lineage signal: a few fertile paternal lines survive disproportionately because fatherhood, marriage legitimacy, inheritance, priestly recognition, and violence are captured by hierarchy. Some first-generation giant males may be sterile, unstable, or poor breeders; that can remain part of the hybrid-risk texture. But the Y record requires successful fertile male lines, so the main mechanism is **caste-filtered fatherhood**, not sterile Nephilim replacing ordinary men.
+
+Use this split:
+- **Full/unstable hybrids** create awe, fear, enforcement, and the myth of giant blood.
+- **Fertile elite males** carry the Y-line expansion under priestly or dynastic legitimacy.
+- **Female hybrid and backcross lines** preserve, dilute, hide, and redistribute the regulatory/capacity signal.
+- **Ordinary men** are excluded socially, ritually, economically, or violently from lineage survival.
+
+This lets Karmin et al.'s Y-diversity collapse stay on its real science floor: male effective population size under patrilineal social inequality, not a literal "17 women for every 1 man" census and not a biological sterility event.
+
+## 6. The genetics loophole — and the honest version of it
 
 Why no skeleton reads as "Nephilim": the edge is **subtle non-coding regulatory rearrangement** (enhancers/silencers tuning astrocyte ion-channel, cryptochrome/*CRY*, and pineal/melatonin-pathway expression), plus possible **micro-inversions** — and linear ancient-DNA pipelines map ~30–50 bp fragments against a modern reference, **force-fitting or discarding anomalous fragments as contamination (reference bias).** So a tweaked carrier looks like an ordinary Anatolian farmer on paper.
 
 **This is a great in-world rationale — but stated naively it is unfalsifiable special pleading** ("the method erases the evidence by design"). The mature, science-floor version converts it into a real prediction: re-analysis with **pangenome/graph-genome references or de novo assembly** of the candidate non-coding loci should *recover* signatures linear mapping discards. Killable, even topical. Logged as **`91_predictions_and_falsifiers.md` §1.4 [LIVE]**. Use the falsifiable form; never the naive one.
 
-## 6. Prose discipline
+## 7. Prose discipline
 
 - **Never lectured.** This whole doc is Record-layer floor. In the novel it surfaces only as *felt* experience and as the thing **Emrys measures** — instruments register a signature, a metabolic crash, an entrainment, without explaining the mystery away.
 - **Felt before mechanism.** The reader feels the entrainment (awe, dread, the inability to hold one's own mind) before anyone names theta/gamma. Effects before terminology.

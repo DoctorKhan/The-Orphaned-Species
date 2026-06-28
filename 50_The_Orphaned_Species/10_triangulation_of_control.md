@@ -16,7 +16,7 @@ A "closed-loop" system that makes the protagonist's journey feel earned and nece
 
 ```mermaid
 flowchart TD
-    A["Genetic Layer<br/><i>Anunnaki programming</i><br/>receivers, locks, the 17:1 bottleneck"]
+    A["Genetic Layer<br/><i>Anunnaki programming</i><br/>receivers, locks, caste-filtered lineage"]
     M["Machiavellian Layer<br/><i>the Social Game</i><br/>statecraft, social atomization"]
     L["The Living Way<br/><i>the overwrite</i><br/>change the operator's frequency"]
 
@@ -35,7 +35,7 @@ flowchart TD
 
 *The Genetic and Machiavellian layers form the closed loop (solid arrows): the programming makes us predictable, and the statecraft exploits that predictability to reinforce the programming. The Living Way (dashed/heavy arrows) is the only break in the circuit — it doesn't fight the Machiavellians directly; it changes the frequency so the genetic levers no longer transmit.*
 
-- **The Genetic Layer (the vulnerability).** The *Anunnaki* didn't just build a body; they installed "receivers" and "locks." They pruned our cognitive complexity to make us *dependable* (the 17:1 bottleneck, the provisioning instinct). This is the "feature" in our design that the Machiavellians exploit.
+- **The Genetic Layer (the vulnerability).** The *Anunnaki* didn't just build a body; they installed "receivers" and "locks." They pruned our cognitive complexity to make us *dependable*; later priest-kings exploit that biology through caste-filtered lineage, provisioning pressure, and legitimacy rules. The 17:1 bottleneck is the genetic footprint of that social machinery, not proof of a literal biological ratio.
 - **The Machiavellian Layer (the Social Game).** This is the **operational software**. Machiavellianism isn't "evil" — it is the art of predicting and exploiting human behavior. Because we are "programmed" (Anunnaki-locked), we are *predictable*. Machiavellian leaders (from Igigi administrators to modern CEOs) don't need magic to rule us; they just need to know how to pull the biological levers that are already installed. Its social technology is **social atomization**: break kinship, place, gender trust, elder transmission, romance, and repair into isolated units, then sell managed substitutes for belonging. See `40_concepts.md`.
 - **The Living Way (the overwrite).** This is the **"hacker" patch.** It bypasses the Machiavellian traps by changing the *frequency* of the operator. If you stop "singing" the song of the State (the Father-God, the Social Game), the levers the Machiavellians are pulling effectively stop working — because you have decoupled your biology from their frequency.
 
@@ -46,7 +46,7 @@ The trilogy should uncover the same abandoned control relation at increasing sca
 | Circle | Original god-oriented function | Orphaned civilizational pitfall | Living alternative |
 |---|---|---|---|
 | **Body** | A durable worker responds to charge, authority, scarcity, and the demand to provision upward | A person treats usefulness as worth, overrides bodily limits, and offers labor or compliance to purchase safety | Conscious control of charge; rest, limits, and bodily truth without surrendering responsibility |
-| **Family** | Reproduction and provision are organized through selected fathers, managed descent, and protected lines | Parent becomes ruler, lover becomes property, child becomes legacy, and care becomes a debt that cancels consent | Kinship as reciprocal relation; care with limits; love without ownership; authority that can be questioned and left |
+| **Family** | Reproduction and provision are organized through selected fathers, managed descent, and protected lines | Parent becomes ruler, lover becomes property, child becomes legacy, and care becomes a debt that cancels consent; or atomization collapses the middle ring so isolated people face civilization alone | Kinship as reciprocal relation; care with limits; love without ownership; authority that can be questioned and left; household and local bonds as a healthy mediator between person and institution |
 | **Civilization** | Temple and divine administration collect labor, surplus, bodies, and obedience for present masters | State, market, army, priesthood, and bureaucracy keep collecting for an office whose original occupants are gone | Transparent coordination, distributed knowledge, accountable institutions, consent, and the right to leave |
 
 The embodied gods and their functioning administration no longer exist. Some spirits may survive on other planes, but that does not make them present owners of human life or valid recipients of the old contract. The modern danger is human systems learning to pull instincts whose original context has vanished.

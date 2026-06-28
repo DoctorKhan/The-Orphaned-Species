@@ -54,6 +54,7 @@ Discovery-order note: **artifact zero** means oldest/deepest in cosmological pre
 |---|---|---|---|
 | **Double-Fork Stone** | Fictional story artifact | Dragon/bird and human/chimpanzee as sibling divergences; humanity is not the apex | Establishes the method: validate the readable lower fork, then investigate the impossible upper fork |
 | **Three-Circles Tablet** | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator | Gives the trilogy's practice model a material image while forcing the group to test whether it is cosmology, social diagram, ritual plan, or later forgery |
+| **Göbekli snake/tree/bird plaquette** | Real Göbekli Tepe small find reported in excavation/public outreach material; exact publication, inventory number, and image rights to verify before use | Three carved symbols that popular writers read as snake, tree, and bird; in canon they become a disputed domain diagram: tree/axis, serpent-Apkallu guardians, bird-Nephilim guardians | Explains that the old guardian system split by domain/function around the living route; becomes the early key for later Tree-of-Life / sacred-tree scenes with paired or surrounding guardians |
 | **Sumerian King List / Weld-Blundell tradition** | Real textual tradition and surviving manuscripts | Kingship descends from heaven, moves between cities, breaks at the Flood, then descends again | Reveals that the control memory concerns an **office**, not a sacred bloodline; points toward Eridu and the reset story |
 | **Adapa tablet with a lacuna** | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | Establishes wrong knowledge as a control technology and makes the absent line itself a plot problem rather than a footnote |
 | **Enki and Ninmah role-fragment** | Real Sumerian literary tradition with fragmentary lines; exact object in the novel may be a copy, photo, or disputed reconstruction | Ninmah creates impaired humans; Enki assigns them fates, bread, and social positions, then creates Umul, whom Ninmah cannot place | Forces the group to ask whether civilization's compassion is inclusion, useful assignment, bureaucratic containment, or ownership by role |
@@ -105,12 +106,48 @@ Add a small clay tablet or tablet-fragment showing **three concentric circles wi
 
 - center dot = the conscious operator, the person capable of taking control of charges;
 - inner circle = Body, the individual machine and its deposited charges;
-- middle circle = Family, kinship, care, attachment, inheritance, and conditioning;
+- middle circle = Family, kinship, care, attachment, inheritance, repair, elder transmission, and conditioning;
 - outer circle = Civilization, institutions, law, temple, state, market, army, and social myth.
 
 The diagram matters because it makes the Three Circles visible without making them a lecture. A character can first misread it as a cosmological map; another can recognize that the motion runs outward from the center. Genuine repair radiates through all three rings; counterfeit awakening leaks outward or breaks at a boundary.
 
+The later, sharper reading is that the **middle ring is a mediator**. Healthy family, extended kinship, household memory, elders, lovers, siblings, and local obligations stand between the naked individual and the full weight of civilization. Social atomization is therefore not merely loneliness. It is the collapse or thinning of the middle circle, leaving the isolated body exposed directly to state, market, temple, institution, algorithm, registry, or army. At some point Eli should learn this as a practical realization, not a lecture: the control system does not need to defeat every person if it can first break the ring that would have held them.
+
 Guardrail: unless a real archaeological analogue is identified, this is a fictional or disputed object inside the novel. It should not prove that ancient Sumerians taught the exact modern framework. It should function as a story artifact: an old diagram that rhymes with the framework and forces the characters to decide whether its use is practical, symbolic, or forged.
+
+## Göbekli snake/tree/bird plaquette — split guardians and domains
+
+A real small-find from the Göbekli Tepe excavations is described in public-facing material as a small stone **plaquette** with three carved symbols, sometimes read as a snake, a tree, and a bird. The photograph is credited to **Irmgard Wagner / DAI** in the quoted source. Before publication, verify the exact DAI post or excavation report, inventory/context, dating, and image rights.
+
+**Use it as a contested functional diagram, not a simple Eden proof.** The popular temptation is obvious: snake + tree = Eden. The stronger novel use is that this image lets the group argue toward the old **domain split**:
+
+- **tree / axis** = the living route, world-tree, conductor, or central interface;
+- **snake / serpent** = the **Apkallu** guardian function: chthonic, watery, under-route, foundation, wisdom, threshold, and repair;
+- **bird** = the **Nephilim** guardian function: sky, height, watch, signal, war, command, and high-place enforcement.
+
+This does not mean every snake image is Apkallu or every bird image is Nephilim. It means this plaquette gives the characters a compact visual grammar for how the guardian order was divided after Göbekli: one line tending foundations and hidden routes, another line occupying height, command, and visible authority. Eden readings are not discarded; they are demoted into one later theological compression of an older domain map.
+
+The artifact should become the **reader's first key** for later tablets, seals, reliefs, and amulets that show a central tree / plant / axis / Tree of Life with figures, animals, winged beings, serpents, sages, or hybrid guardians arranged around it. The later images are not all "the same scene." They are descendants, localizations, or theological re-skins of the same operational grammar:
+
+> living route at the center; guardian functions around it.
+
+So when the group later sees sacred-tree imagery, the question is not simply "Is this Eden?" but:
+
+- What route or life-interface is being centered?
+- Which guardians are shown: foundation/under-route, sky/high-place, household/protective, royal/command?
+- Has the image preserved a balanced guardian system, or has one class claimed ownership of the tree?
+- Is the tree being protected, accessed, withheld, taxed, or weaponized?
+- Has a practical diagram become theology?
+
+Possible scene function:
+
+- A faction or public-facing writer uses the plaquette as Eden proof.
+- Emrys or another scholar admits the visual pull but insists the object does not translate itself.
+- A later comparison with Apkallu/fish-sage/foundation material, high-place/bird/Nephilim material, and Tree-of-Life / sacred-tree guardian scenes makes the domain split useful.
+- Wren treats the dispute operationally: even a wrong interpretation can move money, guards, believers, and enemies.
+- Eli recognizes the deeper problem: humans keep forcing artifacts into father-god / garden / fall stories because the middle ring of living memory has already broken.
+
+This object can sit near the Three-Circles Tablet in the reader's education. The plaquette shows how easily a real ancient image becomes a doctrine, but also how a disputed image can preserve a real operational grammar: route, under-guardian, over-guardian, and later guardians around the Tree of Life. The Three-Circles Tablet then teaches the social grammar: body, family, civilization.
 
 ## The Adapa tablet lacuna — the missing line
 
