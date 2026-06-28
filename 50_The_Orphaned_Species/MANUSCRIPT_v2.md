@@ -54,7 +54,7 @@ Suresh comes in to settle the week. He runs oil and flour across from the ports 
 
 Eli keeps mopping.
 
-"Somebody's been asking after her. Melaka, since the reopening. By name." Suresh waits. "And after the boy she left. Says he has something of hers. Says he'll only put it in the boy's hand."
+"There's a man in Melaka been asking after her. Since the ports opened." Suresh waits. "Asking by name. And after the boy she left. Says he has something of hers, and he'll only put it in the boy's hand."
 
 The mop stops. Eli doesn't decide to stop it.
 
@@ -65,3 +65,57 @@ His mother has been dead ten years.
 Eli looks at the water through the open door. His hands are warm on the handle of the mop. They are always warm. For once it feels like it might be for something.
 
 "Where in Melaka," he says.
+
+---
+
+## Chapter Two — Something of Hers
+
+The boat goes out on the tide, and Eli is on the dock before it, in the dark again, waiting.
+
+Suresh sees him coming and his face does something tired. "I shouldn't have told you."
+
+"You told me. Tell me the rest."
+
+Suresh coils a line and doesn't look at him. "He won't send the thing. Won't say a word down a wire — nobody does now, not about this. You want it, you stand in front of him." He drops the coil. "He gave me one thing to carry, in case the boy doubted." He looks like he'd rather not. "Sing him the song. His mother's song. He said you'd know it."
+
+"What song."
+
+Suresh hums it. Four notes, badly, flat on the third. But it is the song. It is the song from the garden, the song with no name and no country, the one there has never once in Eli's life been a living soul to ask about.
+
+The heat climbs the back of his neck and into his scalp and the hair stands up along his arms. He doesn't move. Suresh stops, and watches him, and goes quiet at whatever he sees.
+
+"Yeah," Suresh says. "That's what he said you'd do."
+
+Neither of them says anything. The water knocks at the hull.
+
+"Where is he," Eli says.
+
+"Old town, by the river. There's a chandlery does ship's stores — ask there, they'll know who's looking for you." Suresh picks the line back up. "Don't ask anywhere else. Not in Melaka, not now. One door, and it's that one. You hear me."
+
+---
+
+Mei is at the books when he comes in with his bag. She looks at the bag and not at him.
+
+"Melaka," she says.
+
+"A few days."
+
+"A few days." She writes a number, crosses it out, writes it again. "There's no work in Melaka. There's only people looking for people." Still not looking at him. "A man who'll only hand it to the boy, in person. You know what that is."
+
+"I know what it is."
+
+"And you're going."
+
+He doesn't answer, because the answer is yes and he is ashamed of it. Ten years he has wanted one thing of hers to be real. Now a stranger has the thing, and the song with it, and the wanting is bigger than the sense — and Mei can see all of it on him, which is why she puts the pen down.
+
+"Then you eat first," she says. "I'm not sending you off to die hungry."
+
+He eats at the pass with Tio and the old man and Mei, the staff meal, the one nobody pays for. No one says anything about Melaka. That is how he knows they all know.
+
+---
+
+In the last of the light he goes up to the garden and waters the tomatoes that will not take. There is no one to leave them to. They will die without him, and they will probably die anyway. His father would know the thing they needed. Eli kneels and puts his warm hands in the cold soil one more time and finds nothing in it that his father found.
+
+He takes his knife. He leaves the rest.
+
+When the boat goes out on the next tide he is on it, and Forest City stands up behind him in the dark — half-built, full of sleeping people, the one place he ever knew that locked its doors and meant it kindly. He doesn't watch it go. He faces the other way, east, toward the reopening and the man with the song, and tells himself, the way you tell a child a thing you both know isn't true, that he is only going for a few days.
