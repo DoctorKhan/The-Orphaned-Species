@@ -1,6 +1,6 @@
 # The Two Energies & the Two Planes — the Cosmological Engine
 
-*The metaphysical engine under the series: the two energies, the two planes, the one-/two-Tree cost, the sacrifice economy, activation-maintenance, and the efficiency principle. The clean canonical home for material that accumulated in `39_psion_biology.md` §3–4 (which keeps the hardware-facing detail and points here). Companion to `39` (biology/hardware), `33_the_curriculum.md` (the practice), `38_psionic_combat.md` (tactics), `/00_NARRATIVE_STRUCTURE.md` (the vertical cosmology), `91_predictions_and_falsifiers.md` (the science floor).*
+*The metaphysical engine under the series: the two energies, the two planes, the one-/two-Tree cost, the sacrifice economy, activation-maintenance, and the efficiency principle. The clean canonical home for material that accumulated in `39_psion_biology.md` §3–4 (which keeps the hardware-facing detail and points here). Companion to `39` (biology/hardware), `33_the_curriculum.md` (the practice), `38_psionic_combat.md` (tactics), `/00_NARRATIVE_STRUCTURE.md` (the vertical cosmology), `22_life_technology_and_two_trees_spine.md` (discovery throughout; reunification end state), `91_predictions_and_falsifiers.md` (the science floor).*
 
 > **Framing rule (from `39`):** biology is the antenna, not the whole story. The hardware (calories) lets a body tune into a real, separate field (life/psi energy). What follows is the structure of that field and its economy — the Two Trees seen as physics, not metaphor.
 
@@ -68,3 +68,16 @@ Crops and livestock also **map the grid** (living ley-detectors), so agriculture
 The cost of connection is **not fixed**; it is a function of **efficiency**. To *force* the Tree of Life — broadcast, dominate, entrain — is to spend the maximum (why the gods needed extraction). To run it in **perfect efficiency — alignment with the Tao, *wu wei*, non-forcing — is to minimize the expenditure** of both energies. The dragons are naturally efficient; the native road teaches humans the same.
 
 So the book's question is not "is connection cheap" but **"can awakened humanity afford the two-Tree demand the dragon's way (efficient, distributed, self-fuelled) instead of the gods' way (extractive, hoarding)?"** The grid/amplifier is the gods' extraction infrastructure; *"no one needs the machine"* means drawing from the field directly, within what a person and community can sustainably give. The temptation the book refuses is paying for awakening by **becoming the next extractor**. *Transcend, not win; don't become the next Igigi* — now with a metabolic engine under it.
+
+## 7. The Two-Tree union act (climax only)
+
+Humans are **one-Tree** (Knowledge — death technology in the physics sense) by default; **Life** wakes by practice (`34` §5). The **gods** ran both Trees **extractively** — the metabolic anomaly that required harvest (`34` §3–4).
+
+**Death technology** — ordinary technology: equations as functions of time whose arrow is entropy; the Tree of Knowledge in its physics register. A **clock of death** — accurate within the entropic subset, catastrophic when mistaken for the whole of knowing. The label is **withheld until late** in the trilogy (`22`).
+
+At Albion, Eli briefly runs **life technology + death technology together** — reunification as power-up, not permanent promotion:
+
+- **Life technology:** native connection, bridge, release, collective geometry, spreading fire.
+- **Death technology:** instruments, chair/key, encoded research, geometry you can test, accountable measure.
+
+The union act is **temporary, costly, and collective**. The **Adapa** parable pays off here: bread/water of "death" was the Life bridge misread through the entropic clock. Full drafting notes: `22_life_technology_and_two_trees_spine.md` § Climax.

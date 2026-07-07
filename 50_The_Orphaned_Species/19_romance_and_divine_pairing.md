@@ -1,6 +1,6 @@
 # Romance and Divine Pairing
 
-*Working architecture for romance across the present-day trilogy. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, and `16_reader_attachment.md`. This document keeps the mythic charge of beloved-across-lifetimes material while protecting the current canon: recognition is real pressure, not automatic proof of ownership, reincarnation, or moral permission.*
+*Working architecture for romance across the present-day trilogy. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md` (volume romance stages + proof scenes), and `28_present_day_trilogy_craft_index.md`. This document keeps the mythic charge of beloved-across-lifetimes material while protecting the current canon: recognition is real pressure, not automatic proof of ownership, reincarnation, or moral permission.*
 
 ## Core principle
 
@@ -23,6 +23,110 @@ The romance cannot be only a slow-burn attachment. It needs to become a curricul
 The mature answer is not anti-romance and not anti-mystery. The answer is:
 
 > Love may be cosmic in origin, but it must become human in practice.
+
+## Street romance register — EdgeRunners-like buildup
+
+Use the **emotional grammar** of near-future stories where love lands because ordinary life is scarce — shared meals, a door that locks, a joke that survives the day, a future spoken aloud before anyone has earned it. Do not import plot beats or character types from any specific IP. The register belongs to this pair: Eli (orphan, warm hands, wants belonging) and Wren (handler, reads exits, failed to save someone she loved). **Volume romance stages and proof scenes:** `27_character_development_arcs.md` § Wren.
+
+### Why this register fits the trilogy
+
+The present-day war sells **borrowed power and borrowed time**. Romance under that pressure should feel like **Lucy's moon made human for this canon**: not a corporate product, but a credible picture of ordinary life two people might still choose — work, food, sleep, privacy, touch, a place that is theirs for one night. Forest City is Eli's hearth; Wren's safe routes and extraction network are her version of the locked door. The reader must want that life **for them** before prophecy, registry, or the mother-trail can threaten it.
+
+The romance succeeds when the buildup makes every later collision hurt: recognition, control, separation, triad pressure, and the final release lesson.
+
+### Buildup principles
+
+**1. Earn intimacy through ordinary competence, not lore.**
+
+Early Eli/Wren scenes should show each other **useful in the world** before they are useful to each other romantically: she reads the room; he holds the line on a deck; she fixes a route; he feeds people. Attraction follows **witnessed conduct**, not field exposition.
+
+**2. Shared future before shared destiny.**
+
+Let them talk about — or silently enact — a life that is **small and specific**:
+
+- a meal after the shift;
+- a port where nobody knows their names;
+- sleeping through a whole night;
+- a garden that actually takes;
+- "when this is over" said before either believes it.
+
+This is the anti-chosen-one move: the dream is **ordinary**, not throne-shaped. If the bond only offers myth, the reader will not grieve when the war takes it.
+
+**3. Sanctuary scenes between violence.**
+
+After pursuit, breach, or boarding, give **one room** where the world narrows to survivable scale: stairwell, galley, safehouse, hotel with bad air-conditioning, Wren's extraction contact's kitchen. Humor returns here first. Touch, if it comes, comes **after** breath returns — not as reward, as proof the body still belongs to them.
+
+**4. Slow physical escalation tied to trust, not plot clock.**
+
+Recommended ladder (skip or compress only if the chapter earns it):
+
+| Stage | Register | Example |
+|---|---|---|
+| **Proximity under stress** | Shoulders touch, shared watch, her hand on his wrist to stop him | Melaka stairwell; boat rail |
+| **Involuntary tenderness** | One fixes food, bandage, hair, collar; the other lets it happen once | Post-breach; corridor after boarding |
+| **Private language** | Joke, nickname, shared reference nobody else gets | Complementary cowardice (spider / being cared for) |
+| **Named want, unnamed bond** | "I don't want you dead" before "I love you" | Vol I end state |
+| **Chosen touch** | Initiated with room to refuse | Vol II after a cost paid |
+| **Commitment under public pressure** | Affection that does not perform destiny | Vol III before climax |
+
+Do not rush to confession to "pay off" attraction. Vol I should end at **trust enough to keep moving**, not relationship label.
+
+**5. Asymmetric knowledge — both directions.**
+
+Wren reads manipulation, exits, and performance before Eli does. Eli reads **felt truth, charge, and sincerity** before Wren trusts it. Each should have a scene where the other's kind of knowing **saves** them and a scene where it **almost traps** them. That asymmetry is the flirtation engine.
+
+**6. Love as escape offer — then the third loyalty.**
+
+At least once, the bond should offer **clean exit fantasy**:
+
+> We could leave. Drop the clue. Take the boat. Disappear.
+
+The scene must **almost** work emotionally, then fail on a real third loyalty (Wren's people, Eli's mother-trail, a civilian, truth, consent). The reader should feel the pull and respect the refusal. This is EdgeRunners' tragedy transposed: love is real **and** cannot shrink the world to two.
+
+**7. Humor as intimacy.**
+
+Dry, situational, under stress — not quippy banter that defuses stakes. They should laugh **at the same thing** once before they trust each other. Romance that never jokes reads like prophecy; romance that only jokes reads like filler.
+
+**8. Deferred payoff.**
+
+Structure romantic beats so **want outruns permission**:
+
+- recognition in Vol I, comfort withheld;
+- care in Vol II, control tested;
+- chosen love in Vol III, **before** the mother-release climax so the ending is not "they got together."
+
+The buildup is the product. A single kiss after fifty chapters of earned proximity beats five speeches about divine pairing.
+
+### Mapping — street romance to Eli/Wren (reference only)
+
+| Street-romance read | This canon | Drafting note |
+|---|---|---|
+| Shared dream of normal life | Forest City / "when this is over" / made home | Must stay **ordinary**, not messianic |
+| Safe apartment | Wren's route, safehouse, galley, one night off-watch | One room, sensory detail, low dialogue |
+| "I'll get us out" | Wren's extraction network; Eli's hope of reunion | Competence is attractive; **control is the flaw** |
+| Love can't stop the install | Wren can't manage Eli safe; Eli can't love Wren into leaving her people | Love does not fix the machine |
+| Tragic acceleration | War, registry, prophecy, triad, mother tether | Loss can be separation, betrayal of trust, or near-miss — not required death |
+
+### Volume I romantic beat targets (*The Breach*)
+
+Align with `31_volume_I_beatsheet.md`:
+
+- **Ch 3–4:** Wren in the margins — competence noticed, not yet trust.
+- **Ch 5:** stairwell contact — survival proximity; **recognition refused on both sides**; she folds him in at cost to her operation.
+- **Ch 7–8:** complementary cowardice; boarding stress; one sanctuary beat (food, watch, joke).
+- **Ch 8+:** one **shared future** gesture — spoken or shown — before South Asia descent deepens the mythic pressure.
+
+End Vol I: the reader should think *I want them to have one quiet week together* — not *they are soulmates QED*.
+
+### Guardrails for this register
+
+- Do not make Wren a passive rescue fantasy or Eli a project she fixes.
+- Do not substitute **sex for trust** or **confession for buildup**.
+- Do not let field-recognition short-circuit the slow work of **asking and refusing**.
+- Do not kill the romance to copy tragedy; **separation, misread control, and deferred ordinary life** already hurt.
+- Do not place the only intimate warmth in Melaka noir — Forest City establishes what Eli is losing; Wren's network establishes what she protects.
+
+When drafting present-day pursuit tone alongside romance, pair this section with `21_present_day_street_skin.md` (port-noir pressure) and `16_reader_attachment.md` (human gravity).
 
 ## Arthurian models
 
@@ -261,6 +365,8 @@ The bond can be transcendent, but it cannot override present consent, responsibi
 
 They feel something before they understand it.
 
+**Street register:** prioritize **buildup over label** — sanctuary scenes, shared ordinary future, humor, slow proximity, one escape-offer refused on third loyalty. See § Street romance register.
+
 The feeling may include attraction, resonance, fear, trauma-bonding, archive echo, field-recognition, and ordinary admiration. The point is not to identify the correct category too early. The point is to make the pressure undeniable and ethically uncertain.
 
 Romantic mode:
@@ -350,9 +456,9 @@ Lesson:
 
 A third female love interest can work, but only if the structure refuses the ordinary jealousy triangle.
 
-Working name: **Rowan**.
+Working name: **Rowan**. Full cast flesh, volume placement, and scene seeds: `26_present_day_cast_expanded.md` § Rowan. Development arc: `27_character_development_arcs.md` § Rowan.
 
-Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already entangled with Wren before Eli understands the shape of their history. The name carries living-world resonance without making her a prophecy clue. If Wren is the one who reads exits, Rowan should be the one who remembers costs.
+Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already entangled with Wren before Eli understands the shape of their history. **Look:** black hair (Wren is blonde — the contrast should register when they share a frame). The name carries living-world resonance without making her a prophecy clue. If Wren is the one who reads exits, Rowan should be the one who remembers costs.
 
 The weak version asks:
 

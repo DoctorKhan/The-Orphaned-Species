@@ -1,16 +1,16 @@
 # Volume I — *The Breach* — Beat Sheet
 
-*The chapter-by-chapter spine for Volume I (Shattering), built on the locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `99_open_questions.md` (the locked beats #1–#6), `38_psionic_combat.md` (the war), `39_psion_biology.md` (the floor), `36_memory_capsules.md` (descents), `16_reader_attachment.md` (the human-gravity test).*
+*The chapter-by-chapter spine for Volume I (Shattering), built on the locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `29_trilogy_plot_and_development.md` (full trilogy plot hub), `21_present_day_street_skin.md` (near-future tone / port-noir skin), `23_2040_present_frame.md` (~2040 texture), `26_present_day_cast_expanded.md` (cast flesh), `27_character_development_arcs.md` (Vol I development + proof scenes), `28_present_day_trilogy_craft_index.md` (craft hub), `99_open_questions.md` (the locked beats #1–#6), `38_psionic_combat.md` (the war), `39_psion_biology.md` (the floor), `36_the_living_web.md` (the web/clarification mechanism), `16_reader_attachment.md` (the human-gravity test).*
 
 > **Locked inputs this sheet chains together:** Eli works a **line cook** and keeps his **dead father's garden, badly**, at Forest City (#1) → a **witness** clue reaches him via the kitchen/supply network, half-bait (#1) → Melaka, where **Wren** is running an extraction that light-crosses the witness (#3) → the breach: a losing Kali fight ending in **asphyxia**, the psi plane opens, the Seven flood (#2) → the **Custodians** run him down and pursue (#4) → first differentiation, first frightened healing via Ila, and the South Asia climax (#6, locked below).
 
 > **Volume I dramatic question:** *Can Eli remain himself long enough to decide whom to trust?*
 > **Internal movement:** confusion → first differentiation. **Ending change:** Eli knows the Seven are separate people, achieves **personal Manual Override** (feel a charge, recognize autopilot, don't let conditioning complete the act), and voluntarily follows the next clue with no known destination.
-> **Reveal discipline:** effects before terminology; human stakes before cosmic claims; no two cosmological answers in one chapter.
+> **Reveal discipline:** effects before terminology; human stakes before cosmic claims; no two cosmological answers in one chapter. **Life-tech spine:** each act owes at least one Life beat and one Knowledge beat toward eventual Two Trees reunification — `22_life_technology_and_two_trees_spine.md`. **Character development:** each chapter should advance at least one fellowship arc or Eli perceptual stage — proof scenes and Vol I checklist in `27_character_development_arcs.md`. **Past-vs-mask leaks:** one habit/object beat per major character, no exposition — `26` Part V.
 
 ---
 
-## Prologue — Maren Holt *(KEEP)*
+## Prologue — Maren Das *(KEEP)*
 The predator before the protagonist. The quiet machinery of vans and clipboards takes a woman who has done nothing but be what she is. Establishes the Ring's ancient suppression face and the dread, geography-agnostic, before we meet Eli. *(Drafted.)*
 
 ---
@@ -18,30 +18,35 @@ The predator before the protagonist. The quiet machinery of vans and clipboards 
 ## ACT I — Hearth and Breach
 
 ### Ch 1 — The Hour That Belongs to No One *(Eli · Forest City)*
-- **Want / Attachment:** get through an ordinary day — the early hour in his father's garden, then prep and the line. Attachment: his **warm hands** on the fire (he never quite burns — the mother's gift he doesn't yet understand); the kitchen crew he's hard and capable beside; and, privately, **his dead father's garden, where he is *not as good* as his father was** — the tomatoes that won't take. The split he carries without naming it: gift in the hands, failure in the soil. (Repurpose the park/bars warmth and discipline into prep and the garden hour.)
+- **Want / Attachment:** get through an ordinary day — the early hour in his father's garden, then prep and the line. Attachment: his **warm hands** on the fire (he never quite burns — the mother's gift idling in his body, not yet a detectable flare); the kitchen crew he's hard and capable beside; and, privately, **his dead father's garden, where he is *not as good* as his father was** — the tomatoes that won't take. The split he carries without naming it: gift in the hands, failure in the soil. The Forest City attachment must include recognizers, not just scenery: shop aunties, Bengali-speaking workers, tailor's children, Nico the pizzamaker, coconut men, a Network School training partner, people who say Eli's name and expect him tomorrow.
 - **Obstacle:** money/status precarity; the refuge's rules; the **dinner-rush overload** — tickets stacking, names and orders blurring, layered noise — where the TBI breaks him, against the meditative calm of prep (TBI shown, not told).
 - **Choice → Cost:** none yet — establish what he stands to lose.
-- **Revelation:** Forest City is real, accountable refuge, not dystopia. **Forward clue:** word comes through the kitchen/supply network — a supplier or transient kitchen worker relays that someone in reopened Melaka is asking after his mother and holds something of hers.
+- **Revelation:** Forest City is real, accountable refuge, not dystopia. **Forward clue:** the kitchen/supply network catches a planted song: a live band is paid to play Eli's mother's tune in the restaurant and direct anyone who truly recognizes it toward one Melaka contact. The lure does not know the child's face or name; it uses family memory as the filter.
+- **Past leak:** Eli — Bangla to tomatoes + tune fragment in garden (`26` Part V). Mei — sauce taste check mid-rush. Optional: Priya program poster *visibility saves lives* on a health wall.
 
 ### Ch 2 — Something of Hers *(Eli · Forest City)*
 - **Want:** decide whether the lead is real without leaving safety.
-- **Attachment:** a quiet hearth beat — a meal he cooks, the kitchen crew, a last evening in the father's garden; the one relationship leaving will cost most. His shame at how much he *wants* this to be true.
-- **Obstacle (human · material · psionic):** it can't be tested remotely (the witness won't trust monitored wartime comms; it's a physical handoff); leaving forfeits the refuge; the one detail relayed — her private name for him / the three-note tune — lands as a **surge**, certainty before proof.
-- **Choice → Cost:** he goes. Cost: the kitchen crew, the people he feeds, the father's garden — the only safe life he's built.
+- **Attachment:** a quiet hearth beat — a meal he cooks, the kitchen crew, a last evening in the father's garden; the one relationship leaving will cost most. His shame at how much he *wants* this to be true. The refuge is a wartime safety pocket, not comfort: outside are checkpoints, travel warnings, biosecurity cover, bad documents, psion surveillance, and people who disappear.
+- **Obstacle (human · material · psionic):** it can't be tested remotely (the witness won't trust monitored wartime comms; it's a physical handoff); leaving forfeits the refuge; the one detail played by the restaurant band — her private tune — lands as a **surge** and brief hand/head activation, certainty before proof.
+- **Threshold scene:** the crossing on Suresh's supply boat is not travel padding. It gives Suresh judgment, guilt, and limits; plants Eli's working-deck competence without making him a sailor-hero; lets Forest City visibly recede; explains port-network danger through musicians, chandlery, checkpoints, and remembered faces; and shows reopening/war texture through cargo, quarantine cover, patrols, and quiet bribes.
+- **Choice → Cost:** he almost stays, actually unpacking the bag after Mei's warning and after ordinary people expect him tomorrow; then he goes. Cost: the kitchen crew, the people he feeds, the father's garden, the recognizers, the mall routines, the sail training, and the only safe life that has ever held him.
 - **Revelation:** the surge is his compass and his flaw — he moves because it *rang*. **Forward clue:** a name/place in Melaka for the handoff.
+- **Past leak:** Suresh — wrong-note hum at stern, stops (`26` Part V). Farida — text with photo of Arif's garden still growing in Dhaka.
 
 ### Ch 3 — The Reopening *(Eli; one Wren beat · Melaka)*
 - **Want:** make the witness contact.
 - **Attachment:** Melaka alive and improvised — working people, not heritage scenery; small kindnesses to a stranger far from home.
-- **Obstacle:** documents and jurisdictions disagree; the handoff keeps slipping; **the Custodians** are in the city under biosecurity cover, and **Wren** is here for her own extraction — whose route/safehouse/timing fouls the witness handoff (the light-cross). The lure tightens around him without his seeing it.
+- **Obstacle:** documents and jurisdictions disagree; the handoff keeps slipping; **the Custodians** are in the city under biosecurity cover, watching for activation rather than ordinary fever/heat, and **Wren** is here for her own extraction — whose route/safehouse/timing fouls the witness handoff (the light-cross). The lure tightens around him without his seeing it.
 - **Choice → Cost:** he commits to the handoff despite the wrongness he can feel. Cost: exposure.
 - **Revelation (to reader, not Eli):** the lead is bait; the Ring set it, the Custodians wait. **Forward clue:** the handoff is set for a place he has to reach fast.
+- **Past leak:** Hassan — aligns papers like a clerk, then hands shake. Jin — accent mirror slips to younger voice on backfire. Optional Wren — convenience-bun habit if she appears before Ch 5.
 
 ### Ch 4 — The Breach *(Eli · Melaka)*
 - **Want:** survive / reach the handoff.
 - **Obstacle:** the Custodians run him down — scooter flight → a **losing** close-quarters Kali fight (perception, not prowess; he reads the lines and it is not enough) → driven off a quay / choked and held under: **near-death by asphyxia.** The hypoxia rings the old TBI.
 - **Choice → Cost:** at the threshold he stops fighting the water/the dark — and crosses. Cost: near death; the witness/handoff lost in the chaos.
 - **Revelation:** at the edge of death **the psi plane opens to him for the first time** (first sight of the forms) — and **the Seven flood in.** Catastrophe, not power: he can't tell which body, which grief, which life is his. **Forward clue:** an ordinary bystander hauls him out — and the flare lights the grid.
+- **Past leak:** Edda — breath count like spreadsheet rows. Tommy — athletic footwork reset before violence. Eli — *short steps, don't gift your hip* (Manong Rico, one line).
 
 ### Ch 5 — What Didn't Die *(Eli/Wren · Melaka outskirts)*
 - **Want:** not dissolve; get out alive.
@@ -49,6 +54,7 @@ The predator before the protagonist. The quiet machinery of vans and clipboards 
 - **Obstacle:** the flood (seven strangers wearing *I*); the Custodians regrouping; **Wren folds him in against her own interest** ("I came to see what died") because he's the worst possible complication — and it costs her extraction.
 - **Choice → Cost:** Wren takes him; Eli accepts help he can't repay. Cost: Wren burns part of her own operation/network to move him.
 - **Revelation:** the ordered **three-circles vision** surfaces from the chaos — *what is real radiates outward; what is false leaks* — his first test for revelation vs. breakdown. **Emrys** converges on the flare, recognizing a sevenfold signature. **Forward clue:** the next testable fragment points out of the city. **Act turn:** he can't return to Forest City without exposing it; he chooses to follow the fragment.
+- **Past leak:** Wren — stairwell bun, both hands, no napkin. Optional: Eli flinches at head touch — antiseptic body memory (Somchai, unnamed).
 
 ---
 
@@ -60,18 +66,22 @@ The predator before the protagonist. The quiet machinery of vans and clipboards 
 - **Obstacle:** dissolution; he can't yet tell TBI symptom from trauma memory from rattle-contact from surge from carrier-imprint; the metabolic crash after the breach (he's sick, sleepless, slow — `39`).
 - **Choice → Cost:** he submits to Emrys's discipline (breath, the inner ring) rather than clawing. Cost: it's a daily, reversible grind, not a cure.
 - **Revelation:** the registers are *different things* — and instruments can measure a signature without explaining it. **Forward clue:** Emrys's correlation points to a paired-anomaly record (a polarity reading) reachable in a surveilled archive.
+- **Past leak:** Emrys — clinic-tier bandage, apologizes to bandage roll, won't hold shoulder.
 
 ### Ch 7 — The Archive *(Eli/Wren · Singapore or equivalent high-surveillance node)*
 - **Want:** retrieve the paired-anomaly data.
 - **Obstacle:** a state unit and the Custodians converge on the same archive; physical surveillance closes exits; a Custodian psionic probe scrambles recognition and trust (the soft suite). The **Three-Circles Tablet** surfaces here as the first physical artifact — first mistaken for map/hierarchy.
 - **Choice → Cost:** they take the data and run. Cost: they're now signature-known to the Custodians; a near-miss exposes Eli further.
 - **Revelation:** **lines break and leave opposed ends** (polarity, not good/evil) — old maps become suspect. **Forward clue:** a coordinate that no longer matches the living coast.
+- **Past leak:** Archive metadata — **Crane** linked to pre-war clinic outreach / outbreak tracing (care and cage same hand).
 
 ### Ch 8 — Her People *(Wren-weighted · the maritime corridor)*
 - **Want (Wren):** get her extraction person clear; **(Eli):** chase the coordinate.
-- **Attachment:** the romance — recognition under uncertainty; complementary cowardice (he'd cup the spider; she falls apart at being cared for).
+- **Attachment:** the romance — recognition under uncertainty; complementary cowardice (he'd cup the spider; she falls apart at being cared for). **Street romance register:** at least one sanctuary beat (food, watch, low humor) and one shared-future gesture before descent pressure spikes (`19_romance_and_divine_pairing.md` § Street romance register).
 - **Obstacle:** Wren's network and Eli's clue pull opposite ways; a boarding (piracy + inspection + a Custodian traveling with the boarders); Eli's sailing earns him a watch but a real sailor is indispensable; **the Shield (Custodian) shows conscience** when civilians are at risk.
 - **Choice → Cost:** Wren chooses to keep helping Eli over a clean extraction window. Cost: someone in her network pays; her resentment and guilt deepen.
+- **Rowan seed (optional):** Wren receives a **coded ping, manifest name, or song fragment** tied to **Rowan** — shuts it down with too much control; Eli reads tactical fear, not history (`26` § Rowan; `19` § triad placement).
+- **Past leak:** Sora — shields civilian, touches collar like wedding band. Wren — Rowan ping delete + orders real food. Mira — sonic tuner on manifest, Wren goes still (unnamed).
 - **Revelation:** the Custodians are **carriers who took the collar** — Wren's dark mirror. **Forward clue:** a planted/false lead (one of the volume's wrong clues) sends them toward an agricultural report.
 
 ### Ch 9 — The Field That Counts *(Eli · Bali or a chosen agricultural stop)*
@@ -80,6 +90,7 @@ The predator before the protagonist. The quiet machinery of vans and clipboards 
 - **Obstacle:** the report is partly stale (a line broke); the community wants no outsiders; the Custodians are a day behind.
 - **Choice → Cost:** he trusts living local expertise over his own vision and over the planted lead. Cost: time lost; the wrong clue cost them a margin.
 - **Revelation:** **plant growth is tracing something real** — the plants are the detector, no message imposed. **Forward clue:** the real geometry points south/west toward a forming line in South Asia.
+- **Past leak:** Lani — dragon-staff or field worker move triggers Pai flash: noodles, failed trick, laugh (≤ sensory beat).
 
 ### Ch 10 — Midpoint: A Separate Person *(Eli · en route)*
 - **Want:** hold himself together long enough to read one imprint.
@@ -97,6 +108,7 @@ The predator before the protagonist. The quiet machinery of vans and clipboards 
 - **Obstacle:** the Custodians **and another team** converge; the community wants neither faction; the formation is fragile.
 - **Choice → Cost:** he asks the growers for help, exposing them. Cost: his presence paints a target on the community.
 - **Revelation:** **crop formations are new lines forming**, not symbols imposed. **Forward clue:** the clearest documentation of the line (the formation + a grower's polarity record) is the prize everyone now wants.
+- **Past leak:** Thila — lullaby to scarecrow/rice bird while refusing Eli's hand; *third team this monsoon*.
 
 ### Ch 12 — Ila's Hands *(Eli · the community)*
 - **Want:** help, and not be useless.

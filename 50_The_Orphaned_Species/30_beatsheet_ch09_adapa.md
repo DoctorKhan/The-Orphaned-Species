@@ -8,11 +8,13 @@
 
 Three jobs, all at once:
 
-1. **Make the cage visible from the inside without ever taking the boy in.** Earlier visions showed the system being built. Ch 9 is where Aedan watches it work — a man choosing his own lock reasonably, gratefully, on good advice. This is a **story shown**, not a carrier echo. The Seven are distinct historical records; Adapa is the universal parable against which their refusals can be compared.
+1. **Make the cage visible from the inside without ever taking the boy in.** Earlier visions showed the system being built. Ch 9 is where Aedan watches it work — a man choosing his own lock reasonably, gratefully, on good advice. This is **watched-depth deep structure**, not a fully-clarified thread. The Seven are distinct historical people; Adapa is the universal parable against which their refusals can be compared.
 2. **Show the cage working from the inside.** The reader has watched the system get built (6–8). Now they feel a man *choose his own lock* — not under torture, but reasonably, gratefully, following good advice. This is the most frightening thing in the book because no one forces him.
 3. **Define the absence the whole rest of the book fills.** Adapa is "the lock; the Seven are keys to what he was denied." He has We-ila's gift and submits anyway. Every one of the Seven is a human who, in his place, would have *refused*. Ch9 is the control case — the "before" picture.
 
 **The collision in one line:** *Adapa has the resonance (We-ila's intelligence is awake in him) but not the Lesson (he believes his worth is forfeit) — so when offered the bread of life he reads it as the bread of death, and locks himself.*
+
+**Late trilogy payoff (do not explain here):** When the reader later learns **death technology** — ordinary tech, equations in entropic time, the clock of death — Adapa's refusal **clicks**: he could only interpret the Life bridge through the entropic register. Enki's warning names life *as* death; Adapa's worldview completes the lock. The climax **joins** life technology and death technology; this chapter shows what happens when only the clock is trusted. (`22_life_technology_and_two_trees_spine.md` § Adapa payoff)
 
 **The second floor — Eridu = the orphan's first city.** Adapa serves in **Eridu**, which the master canon identifies as the first city in the orphan-builds-walls line — the place a cursed wanderer (Cain, in the Genesis register) answered exile with permanence and named territory (see master timeline, "Cain, Eridu, and the first city," and "The Sumerian King List — the control-side mirror"). The defiant settlement has become the submission-engine: the walls the orphan raised against the curse now house the priests who teach the orphan's descendants to kneel. This doesn't need to be on-page as exposition; one line of detail in Beat 1 — a wall older than the temple, a foundation-stone the priests no longer touch, the city's pre-Anunnaki origin — plants it for the reader who knows. The reader who doesn't loses nothing; the reader who does feels the Triangulation tighten another notch.
 
@@ -61,10 +63,10 @@ This chapter is the Triangulation's clearest single demonstration (`10_triangula
 
 ---
 
-## The resonance carrier this chapter seeds
+## The resonance through-line this chapter seeds
 
 - **The words of power = the proto-chord.** Adapa's incantation, the village throat-sounds, and Anthea's chord are the same phenomenon: sound acting on matter. Plant it as a gift used to break in fury; Anthea and Aedan later use related frequencies to heal or warm. The **phenomenon** changes hands and moral use; no single carrier matures through all three.
-- **The fragment is recognition, not bodily residue.** Because Adapa is a story shown, Aedan surfaces with a question — *would I have eaten the bread?* — rather than a practice. Somatic residue belongs to partial carrier echoes in Aedan and full carrier records in Eli; neither makes the receiver the historical person.
+- **The fragment is recognition, not bodily residue.** Because Adapa is watched-depth (a structure Aedan observes, not a thread he stands inside), Aedan surfaces with a question — *would I have eaten the bread?* — rather than a practice. Somatic residue belongs to partly-clarified threads in Aedan's arc and fully-clarified threads in Eli; neither makes the receiver the historical person.
 
 ---
 

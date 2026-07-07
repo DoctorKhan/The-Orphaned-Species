@@ -1,6 +1,6 @@
 # Open Questions — The Orphaned Species
 
-*Working decision log for the present-day trilogy. This file tracks missing structural commitments, not additional lore to accumulate. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `17_reveal_order_and_reader_impact.md`, and `/00_NARRATIVE_STRUCTURE.md`.*
+*Working decision log for the present-day trilogy. This file tracks missing structural commitments, not additional lore to accumulate. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `17_reveal_order_and_reader_impact.md`, `28_present_day_trilogy_craft_index.md`, and `50_The_Orphaned_Species/00_NARRATIVE_STRUCTURE.md`.*
 
 ## Governing diagnosis
 
@@ -14,6 +14,49 @@ Do not solve these by adding more mythology. Solve them by deciding who wants wh
 - **Book I:** *The Orphaned Species: The Breach*
 - **Book II:** *The Orphaned Species: The Descent*
 - **Book III:** *The Orphaned Species: The Living World*
+
+## Locked present-day frame — ~2040 (not on-page)
+
+- **Author assumption:** the present-day trilogy is set in **~2040** (~14 years from drafting baseline).
+- **Reader rule:** **never state the year** in the novel. Infer near future from reopening ports, scarred satellites, lingering emergency law, registry/biosecurity habit, and familiar tech accelerated — not from captions.
+- **Worldbuilding doc:** `23_2040_present_frame.md` — what changed 2026→2040 (war, contained outbreak, psion programs, climate, death technology texture, geography notes, prose markers).
+- **Still open:** exact calendar year of Eli's family attack; bloc names; healer location/name (provisional flesh in `26_present_day_cast_expanded.md`).
+
+## Cast flesh — expanded profiles (`26_present_day_cast_expanded.md`)
+
+Working character bible from cast review. **Provisional names** until locked below.
+
+| Role | Provisional name | Notes |
+|---|---|---|
+| Melaka witness | Hassan al-Ridzuan | held with mother; half-bait with conscience |
+| Wren's dead love | Mira Okonkwo | ties Wren + Custodian Shield |
+| Shield / defection | Sora Vithan | Mira's partner; Wren extraction failure |
+| Lance | Tomás Reyes | collateral guilt |
+| Lead / Locker | Edda Voss | true believer manager |
+| Mask / Scout | Jin Pak | coerced idealist |
+| Vol I grower elder | Thila Sen | rice community climax |
+| Prophecy face | Solomon "Sol" Mendez | burned carrier, Vol II |
+| Registrar | Dr. Priya Nair | post-outbreak databases, Vol II |
+| Healer | Dr. Somchai Vichai | two public healings + refusal |
+| Farida (cousin) | Farida Rahman | one Dhaka message beat |
+| Filipino teacher | Manong Rico Del Rosario | memory only |
+| Pai performer | Lani | dragon-staff, human first |
+| Wren's prior love / triad pole | **Rowan** | black hair; cost-keeper; Vol I seed → Vol II entry; `19` + `26` |
+
+**Locked look (cast):** **Wren** — blonde; **Rowan** — black hair (`26`).
+
+**Complex pasts (craft):** every major character gets **ordinary life → turn → unreconciled** — not only run/network backstory. Wren's pre-ring softer life + Rowan shift-love is the template (`26` § Complex pasts; `15` § Complex pasts). **Vol I past-vs-mask scene bank:** `26` Part V — one leak per character, mapped to chapters in `31`. **Trauma & internal cages:** `26` Part VI — per-character patterns; `15` § Trauma & internal cages.
+
+**Deepened existing:** Wren solo extraction chapter; Emrys slapstick + measures-when-he-should-touch (`24`); Crane private humane beat; Mei constructive control; Suresh/Iqbal grief; Hassan witness morality; **Rowan triad** (seed Vol I, physical Vol II — end-state open).
+
+**Character development arcs:** `27_character_development_arcs.md` — volume questions, Manual Override thresholds, Eli perceptual stages by volume, fellowship arcs, romance stages, proof scenes.
+
+**Present-day craft hub (docs 21–27):** `28_present_day_trilogy_craft_index.md`.
+
+### Rowan (triad) — still open
+
+- **Locked direction:** working name **Rowan**; Wren's **prior** love (before Mira); ethical rival; lesson *love is not custody*; Vol I seed / Vol II physical entry (`19`, `26`, `27`).
+- **Still open:** exact Vol I seed object (name vs code vs song vs port); which Vol II leg she enters on; final triad end-state (committed triad vs other forms in `19`).
 
 ## Priority 0 — cosmology revision adopted for outlining
 
@@ -35,22 +78,32 @@ A major taxonomy revision is now the **working model for the trilogy outline**. 
 
 Full reconciliation still required: update every affected instance of **Titans**, **Anunnaki**, **Igigi**, **Adamu**, **Lullu**, and **Hardware Recall** across the master timeline, glossary, and companion docs. Until that pass is complete, architecture should use the new model, while older cosmology files may still contain legacy language.
 
+### 0b. Deep-time delivery mechanism — LOCKED (the living web)
+
+How the deep-past material reaches the present-day trilogy is **resolved**: see `36_the_living_web.md`. There is **one living web** (the anti-entropic field); Eli **clarifies** regions of it, and what he clarifies he learns. This replaces the entire prior apparatus:
+
+- **Removed:** `36_memory_capsules.md` (deleted); the "memory capsules from stones" framing; the **two registers** (lived-life vs watched-vision); **Aedan as a relay**; the **resonance braid** label; reincarnation; the **Seven as a numbered carrier roster** Eli "becomes."
+- **Retained, reframed:** the historical practitioners are deep human **threads that resolve into people** (grief and first-person immersion both kept, as *full-resolution clarification*); the cosmology is **deep web-structure** clarified late and partially (no relay); the firing rule (node-trigger + in-scene consequence).
+
+**Follow-up sweep still required** (parallel to #0): legacy terms — *memory capsule, carrier, lived-life/watched-vision, Aedan relay, resonance braid* — still appear across ~two dozen files. `36_the_living_web.md` governs until the sweep runs. Priority targets: `37_deep_time_source.md` body, `SOURCE_TO_TRILOGY_MAP.md` capsule inventory, `00_NARRATIVE_STRUCTURE.md`, `31_volume_I_beatsheet.md`, `05_story_architecture.md`, `95_glossary.md`.
+
 ## Priority 1 — required before drafting Volume I
 
 ### 1. Opening causal chain — LOCKED
 
-**A witness in newly-reopened Melaka who claims to know what happened to Eli's mother — reached through the harbor, carrying one personal detail and something of hers. Half-bait.** Not a cosmological artifact (those enter after the breach); human stakes first.
+**A witness in newly-reopened Melaka who claims to know what happened to Eli's mother — reached through the harbor, carrying one personal detail and something of hers. Half-bait.** Not a cosmological artifact (those enter after the breach); human stakes first. The hook can be broadcast indirectly but locally: a live band in the Forest City restaurant is paid to work the mother's tune into its set, then direct anyone who truly recognizes it toward one Melaka contact. Nobody needs to know who the child is; the song lets him identify himself.
 
 **Eli's Forest City role — the shell and the core.** *Shell (day-job):* he works a **line cook** in a Forest City kitchen — hard, hot, fast, knife-work (his Kali redeployed); competent and tough on the line, but the **dinner-rush overload** (tickets stacking, names and orders blurring, layered noise) is where the TBI quietly breaks him, while *prep* is his refuge. His **warm hands** belong here — he works the fire-line and never quite burns. *Core (private):* he keeps **his dead father's garden**, badly. His Bangladeshi father was a gardener; Eli tries to carry the craft and is **not as good.** This is the book's spine made intimate on page one — *reception without mastery* — and the orphan trying to be the parent and failing. *Gift/craft split between his parents:* the **mother's line** is the involuntary gift (the warm hands — "you have her hands" — the surges, reception he never chose); the **father** is the chosen ordinary craft (the garden) Eli wants and can't master. He'd trade the gift for his father's plain green hands. *(His first frightened stabilization via Ila later reads as his father's hands, the ones he never had, briefly arriving.)* Incidental seamanship from refuge life remains a secondary skill for the maritime leg — he is not a sailor by trade. Leaving costs him the kitchen crew, the people he feeds, and the garden.
 
 **The clue:**
 
-- **How it reaches him:** through the **kitchen/supply network** — transient kitchen workers, suppliers, market traders, and food-runs moving between Forest City and the reopening Strait ports. Someone relays that a person surfaced in Melaka asking after Eli's mother and holding something of hers. The clue is *found through his work*, not delivered by a mystical messenger.
+- **How it reaches him:** through the **kitchen/supply network** — transient kitchen workers, suppliers, market traders, musicians, and food-runs moving between Forest City and the reopening Strait ports. A live band plays the old tune in the restaurant and watches for recognition; Suresh understands what is happening when one of the musicians asks about the cook, then brings the danger to Mei before the handlers can come closer to the kitchen. The clue is *found through his work*, not delivered by a mystical messenger.
 - **Who carries/controls it:** a witness who was **held alongside the mother and got out** — a real person with their own debt, not a clue-dispenser. (Decide alongside #8 Healer / escape-network specifics whether this witness connects to that network.) Behind the witness, unknown to Eli, a team is using the mother-thread as a lure.
 - **Why he trusts a weak clue:** the one detail — her private name for him, the **three-note tune**, or a specific fact about the night of the attack — lands as a **surge.** His body lights with certainty before his mind can verify. His gift and his flaw in one beat: he goes because it *rang*.
 - **Why it can't be tested from Forest City:** the witness won't/can't travel (hunted, dying, or it's a physical handoff they won't trust to monitored wartime comms). The truth only resolves on-site.
 - **What it promises:** **truth, not reunion** — a witness to how she died (seeds the Vol II reveal: dead in body, tethered west). Keep reunion off the table here so "the reunion is the goodbye" still has somewhere to fall.
 - **What it costs by end of Act I:** he forfeits the Forest City refuge, the kitchen crew, the people he feeds, and the father's garden; and the lead is **half-bait** — following it is what gets him run down and breached (#2), starting the reunion-as-bait engine on page one. Irony to bank: a cook — a man of fire and warm hands, who feeds people — is choked/drowned at the breach, and at the threshold the dead (the Seven) flood the one who keeps others alive.
+- **Crossing function:** Suresh's supply boat is the last Forest City threshold, not a sailboat adventure. It develops Suresh as a practical port-runner with guilt and hard limits, plants Eli's basic deck competence, shows Forest City receding as a real home, and explains the danger of port networks through musicians, chandlery, checkpoints, cargo, quarantine cover, quiet bribes, and people who remember faces.
 
 **Still open:** the exact personal detail (name / tune / fact); the witness's identity and whether they survive Act I; whether the team behind the lure is Crane's ring or a rival national team (ties to #4).
 
@@ -136,6 +189,20 @@ Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED").
 - **The fight:** Custodians vs. a rival team contest it; civilians in the crossfire.
 - **What survives → Vol II:** the community's own knowledge (a grower's observation, a coordinate that no longer matches the old map, half a polarity reading) points onward without the itinerary. Eli's gain is a **threshold** (personal Manual Override; the Seven are real and separate), not power.
 - **Still open:** exact geography; the rival team's identity; whether Crane appears in person in Vol I (recommend: looms only).
+
+### Father's death and Bangladesh flight — LOCKED
+
+**Arif Rahman** — Eli's Bangladeshi father; a gardener with real local political commitments (rivers, land, labor, or dissent — exact issue flagged for research). Not a carrier. His visibility is one reason the family had to move; the Ring was hunting Eli's mother.
+
+**Why they fled Bangladesh:** the carrier hunt and Arif's political life entangled. The Ring uses local machinery the way it always has — detention, disappearance, riot cover, checkpoint, file — so the **official story can read as politics** while survivors know they were closing on the mother and Arif was in the way.
+
+**Where Arif died:** **not in Bangladesh, and not on a scene Eli can reliably narrate.** The killing blow lands during **extraction** — a border crossing, a third country, a night Eli was too young to parse. One causal chain: carrier hunt → flight from Bangladesh → attack ending the flight → father killed, mother removed, Eli left with persistent TBI. No separate "political assassination in Dhaka" beat that forks the origin story.
+
+**What Eli carries:** rivers, Bangla scolding, garden knowledge, food and household rhythm, maybe one political argument he did not understand — **not** a clear crime-scene memory unless a later volume earns it. The Forest City garden is **exile soil**: he is trying to grow his father's craft away from the rivers Arif knew.
+
+**Bangladesh after:** remains **lost home**, not solved graveyard. Unreturnable because political danger, files, surveillance, and surviving kin (e.g. a cousin in Dhaka — **Farida**, name locked from quarry) are still at risk. Vol I South Asia climax stays deliberately **not** Bangladesh — a near-miss of home.
+
+**Still open (Vol II/III):** the exact extraction site and attack geography; whether Eli ever gets a true account of how Arif died vs. the official record; which local political issue Arif was committed to (research).
 
 ## Priority 2 — required before Volume II can carry the middle
 
@@ -223,12 +290,12 @@ Who proves coexistence after the emergency?
 
 The final feeling is locked: **an afternoon nobody turns into destiny**. The exact geography and final line remain open.
 
-## Memory-capsule trigger-sites
+## Node trigger-sites (clarification of the web)
 
-Deep-time material is delivered as memory capsules retrieved from megalithic stones (mechanism: `36_memory_capsules.md`). Each capsule must be anchored to the stone where its content happened.
+Deep-time material is reached by **clarifying the living web at nodes** (mechanism: `36_the_living_web.md`). Each deep thread or structure resolves at the stone/node where its content happened.
 
-- **Locked:** Aru capsule → Göbekli Tepe (Vol II), fired at the fox-pillar Aru carved. The drafted King's Men/Rollright frame is superseded for Aru and reusable for a late Albion/Cuno capsule.
-- **Open:** trigger-sites for Ila, Tem, Anthea, Cuno, Lovernios, and the recursive Aedan capsule — pin each to a stone/node along `35_artifact_chain.md` and the legs in `/00_NARRATIVE_STRUCTURE.md`.
+- **Locked:** Aru's thread → Göbekli Tepe (Vol II), clarified at the fox-pillar Aru carved. The drafted King's Men/Rollright frame is superseded for Aru and reusable for a late Albion/Cuno node.
+- **Open:** nodes for Ila, Tem, Anthea, Cuno, Lovernios, and Aedan's deep-time arc — pin each to a stone/node along `35_artifact_chain.md` and the legs in `/00_NARRATIVE_STRUCTURE.md`.
 - **Open:** Göbekli present-day staging (active dig, shrine, military zone, faction prize) — the Aru frame can't be drafted until this is chosen.
 
 ## Secondary decisions
@@ -236,9 +303,13 @@ Deep-time material is delivered as memory capsules retrieved from megalithic sto
 - Final volume count: current working shape is a trilogy; reassess only after the Volume I beat sheet proves scene length.
 - Companion nonfiction: keep Books 1–4 as optional slim companions unless drafting proves otherwise.
 - Surnames and local names: Eli, Wren, Crane, Emrys, Aedan, and Anthea are stable enough; surnames and local-character names remain open.
-- Prologue: Maren Holt remains useful but optional until the opening sequence proves whether suppression must be shown before Eli.
+- Prologue: Maren Das remains useful but optional until the opening sequence proves whether suppression must be shown before Eli.
 - Final home: Albion closes the mother-thread but must not declare Eli's truer home. His ultimate residence can remain open unless the coda requires a choice.
 
 ## Next practical step
 
-**Priority 1 is locked (#1–#6) and the Volume I beat sheet exists: `31_volume_I_beatsheet.md`** (prologue + 14 chapters, chapter-card format). Next: **draft prose** — per `05` §13, write the Forest City opening through the first irreversible Melaka escape (Ch 1–5), then reassess scene length against the trilogy/single-novel question. Before drafting, run each major character through `16_reader_attachment.md` (ordinary need, private wound, repeated behavior, relationship-changing action) and keep `17_reveal_order_and_reader_impact.md`'s order: emotional escalation first, terminology second. Add courtly-intrigue/hospitality pressure to at least one Act II chapter so the volume isn't only physical pursuit.
+**Priority 1 is locked (#1–#6) and the Volume I beat sheet exists: `31_volume_I_beatsheet.md`** (prologue + 14 chapters, chapter-card format). **Trilogy plot hub:** `29_trilogy_plot_and_development.md` — act-level Vol II–III, revelation links, open gaps (#7–#14).
+
+Next: **draft prose** — per `05` §13, write the Forest City opening through the first irreversible Melaka escape (Ch 1–5), then reassess scene length against the trilogy/single-novel question. Before drafting, run each major character through `16_reader_attachment.md` (ordinary need, private wound, repeated behavior, relationship-changing action) and keep `17_reveal_order_and_reader_impact.md`'s order: emotional escalation first, terminology second. Add courtly-intrigue/hospitality pressure to at least one Act II chapter so the volume isn't only physical pursuit.
+
+**Before Volume II drafting:** lock **#7** external race → create `32_volume_II_beatsheet.md` (not yet written).

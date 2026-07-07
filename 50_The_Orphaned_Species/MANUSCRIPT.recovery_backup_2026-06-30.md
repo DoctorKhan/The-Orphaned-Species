@@ -1,22 +1,12 @@
-# The Orphaned Species Book I: The Shattering
+# The Orphaned Species — Manuscript (reconciled draft)
+
+*Volume I — **The Breach**. Present-tense, close third on Eli. Scene-driven: dramatize in real time, let the reader fill in, no establishing blocks or explained interiority. **Voice target:** lyrical but restrained; warm and human; socially funny; sensory-textured; mostly external/cinematic; flowing and contemporary-simple; lightly interpretive; dry in humor; specific with names, jobs, objects, and places. Vary by scene pressure: warmer and more social in Forest City, sharper and more procedural under pursuit, quieter and stranger around psi. Motifs run bare and unglossed (see `32_the_warm_hands.md`). Built on `31_volume_I_beatsheet.md` and `99_open_questions.md`. The Maren prologue, the Aru descent, and the Pai medicine survive in `MANUSCRIPT_v1_archive.md` as harvestable assets.*
 
 ---
 
-In the midst of a neverending conflict in the Middle East, AOC ascended to the presidency in 2028. Her administration flooded the country with social programs, but it was not enough to stave off the depression that followed the oil embargo.
-
-Out of that desperation, the People's Party of America rose and legitimately won the next term. The Party's strong hand held the states together — but not easily.
-
-By then the Middle East war had swallowed the world. And some nations, cornered, released the weapon: a retroviral gene-drive built on a real lever — a Neanderthal haplotype, the one that nearly skipped East Asia. The payload switched on where the haplotype sat in the genome, and stayed dark where it did not. They had built a weapon that killed by the bloodline, sparing, by design, the peoples of East Asia and the powers that loosed it.
-
-Millions died at once — Bangladesh and India first and worst, the haplotype seated in half its people. The rest carried it, changed, and did not know.
-
-Then came puberty. The construct switched on in waves, driven by the body's own hormonal surges, and each survivor was taken by a series of DMT trips — days long, to the edge of death, from which not all returned. Through them they had to be hidden and kept, isolated while the experience moved through them, cared for by those who would not let the world find them mid-vision. Those who came out the other side woke into dreams that would not end. And in those dreams, something else woke.
-
-These were their stories.
-
 ## Chapter One — The Hour That Belongs to No One
 
-I wake to the sounds of tropical bird calls.
+Before light, Forest City belongs to the machines, the workers, and the people who cannot sleep.
 
 Eli crosses the plaza with the water key in one hand and the hose over his shoulder. Halfway across, something comes out from under the shade sails behind him.
 
@@ -691,7 +681,7 @@ A woman steps out from under the awning of a closed fish stall and takes his arm
 She guides him left, away from the van, into a side corridor that smells of frying oil and river rot. A scooter engine flickers to life somewhere ahead.
 
 "Where are we going?" Eli says.
-dfasdf s
+
 "Not the chandlery. Not the river." She checks the corner, pulls him through. "I lost my extraction when you lit up. So now we're both running."
 
 The chandlery man's instruction was clear. The boy's knife is in his hand. The seven rooms inside him are still open and each one has different weather.

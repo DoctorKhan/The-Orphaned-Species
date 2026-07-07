@@ -1,6 +1,6 @@
 # Reveal Order and Reader Impact
 
-*Outline guide for making the trilogy entertaining rather than curriculum-shaped. Pair with `05_story_architecture.md`, `16_reader_attachment.md`, and `35_artifact_chain.md`. This document controls the emotional order of discovery; the master timeline controls chronology.*
+*Outline guide for making the trilogy entertaining rather than curriculum-shaped. Pair with `05_story_architecture.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `22_life_technology_and_two_trees_spine.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, `28_present_day_trilogy_craft_index.md`, and `35_artifact_chain.md`. This document controls the emotional order of discovery; the master timeline controls chronology.*
 
 ## Governing rule
 
@@ -253,3 +253,33 @@ Before drafting any chapter, identify which reader question it is feeding:
 6. What ordinary thing is being protected?
 
 If a chapter only adds explanation, delay it or convert the explanation into a choice with cost.
+
+## Present-day street skin (discovery pacing)
+
+When drafting present-day legs, layer this doc's emotional order with the **street read** in `21_present_day_street_skin.md`:
+
+- Early events should look like **registry chase, illegal psion activity, smuggling, or clinic horror** before they look like cosmology.
+- Middle artifacts should read as **bootleg grid firmware** — fought-over keys, interfaces, maps — before Anatolia/Albion reframe them as Life-bridge grammar.
+- Every faction pitch should feel like an **install offer** (register, weaponize, prophecy, harvest); Eli's refusals are the drama.
+- Forest City warmth stays the **anti-Night City** hearth; do not sacrifice lovable ordinary life for noir temperature.
+
+The reader arc at street level: *covert psion war → war over who gets to play the planet → the native road was never the purchased interface.*
+
+## Life technology & Two Trees — discovery throughout
+
+**LOCKED:** Anti-entropic / life technology is discovered **throughout** the trilogy (present plot, artifacts, Seven descents, practices). The **end result** is **reunification of the Tree of Life and Tree of Knowledge** — not victory for either tree alone. Full spine, volume obligations, and beat checklist: `22_life_technology_and_two_trees_spine.md`.
+
+Layer this doc's emotional ladder onto that spine:
+
+| Emotional movement (`17`) | Life/Knowledge discovery (`22`) |
+|---|---|
+| Something wrong with Eli's body | Life effects first — warm hands, breach, growth, healing |
+| Something wrong with society | Knowledge lane exposed — registry, registry-as-care, wrong explanations |
+| Something wrong with history | Seven practices — Life road fragments; artifacts as contested tech |
+| Something wrong with gods | Split engineered — interfaces, extraction, Adapa refusal |
+| Something wrong with humanity | Sub-drone / deceivable species — Knowledge without bridge |
+| Ordinary life still worth choosing | **Reunification enacted** — practice + standards + coexistence; ordinary afternoon |
+
+Each volume must advance **both** Life beats and Knowledge beats. If a book only adds mystery (Life) or only adds institution (Knowledge), the ending cannot earn reunification.
+
+**Ending filter:** the climax completes discovery; it does not replace it. The reader should recognize the union because they have been ** accumulating** both Trees since Forest City — then watch Eli release the mother, refuse the amplifier, spread practice, and return to breakfast with wisdom.

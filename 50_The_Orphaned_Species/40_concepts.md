@@ -194,7 +194,7 @@ This is the positive answer beneath the whole trilogy: not self-sufficiency, not
 
 **Inalienable understanding:** this is the part of the victory no institution can take away. A person can lose place, files, status, reputation, money, and legal protection; they can still learn to feel the body, identify the charge, notice autopilot, and choose relation instead of automatic execution. That knowledge is not an escape from politics, but it is the reason politics cannot be the whole liberation. Structurally, Volume I can end on the first personal threshold: Eli is strong enough not to be merely steered. Volume II can end on the relational threshold: the group is strong enough to remain coherent under pressure before the civilizational test of Volume III.
 
-**Book 5 expression:** Adapa is the failure case: he has the gift but believes the inner lie. The Seven are seven independent answers: unrelated people in different settings recover capacities by refusing the offered father. Aedan's cave carries partial echoes; Eli's integration holds the complete records without turning them into ancestry, doctrine, or an ability checklist. Eli develops breadth and limited physical healing; a separate present-day healer develops much greater bodily depth.
+**Book 5 expression:** Adapa is the failure case: he has the gift but believes the inner lie. The Seven are seven independent answers: unrelated people in different settings recover capacities by refusing the offered father. Aedan's deep-time arc holds only partial fragments; Eli clarifies the complete threads without turning them into ancestry, doctrine, or an ability checklist. Eli develops breadth and limited physical healing; a separate present-day healer develops much greater bodily depth.
 
 ### Stage 3 — The living network
 
@@ -329,7 +329,7 @@ Short formula:
 
 Do not explain all three Edens in a single scene. Let the reader feel the repetition: wall, garden, law. The same shape returns across the Seven's records until Eli realizes the garden was never only a place. It was a method.
 
-The trilogy's positive Eden answer is the union of the **Tree of Knowledge** and the **Tree of Life**. The old control story splits them: knowledge becomes forbidden, life becomes withheld, and humanity is kept oscillating between ignorance, fear, obedience, and stolen power. The mature answer is not anti-knowledge and not anti-life. It is knowledge disciplined by life, and life protected by knowledge: science, accountability, and discrimination joined to healing, relationship, ecology, and reciprocal presence.
+The trilogy's positive Eden answer is the union of the **Tree of Knowledge** and the **Tree of Life**. The old control story splits them: knowledge becomes forbidden, life becomes withheld, and humanity is kept oscillating between ignorance, fear, obedience, and stolen power. The mature answer is not anti-knowledge and not anti-life. It is knowledge disciplined by life, and life protected by knowledge: science, accountability, and discrimination joined to healing, relationship, ecology, and reciprocal presence. **Drafting:** discovery of life / anti-entropic technology runs **throughout** the trilogy; reunification is the **end result** — `22_life_technology_and_two_trees_spine.md`.
 
 ---
 

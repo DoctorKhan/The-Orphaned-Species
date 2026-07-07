@@ -227,7 +227,7 @@ Each new entry: assign a confidence flag and, if speculative, mark it ○ so the
 
 - **The map is the buried roster.** The strongest device here is **Section C**: the divine council survives as place-names that no longer know they are god-names — Beth-Horon, Beth-Shemesh, Anathoth, Jericho. This is the **landscape-scale version of the Singing Village** keeping "Ki, Enki, the names that survived without their meanings" (`37_deep_time_source.md`). The portions of Deut 32 are still legible in the dirt.
 
-- **A usable scene.** Aedan's cave relay or one of Eli's carrier records reads a landscape and hears the dead council in its names — a town, a hill, a spring, each a god demoted to geography. The Igigi administrators did not vanish; they sank into the map.
+- **A usable scene.** Eli, clarifying a deep thread at a node, reads a landscape and hears the dead council in its names — a town, a hill, a spring, each a god demoted to geography. The Igigi administrators did not vanish; they sank into the map.
 
 - **Keep the spins opposed.** Same rule as `45_divine_names.md`: each culture remembers the same council with its own theology. To Moab, Chemosh is *the* god; to Israel, he is a defeated rival son; in this canon, he is one Igigi-tier administrator of a parceled nation. Let the contradiction stand — it's evidence of the carve-up, not a problem to solve.
 

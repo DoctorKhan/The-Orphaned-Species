@@ -181,6 +181,12 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **Tree of Knowledge / Tree of Life union** — the positive Eden resolution. Knowledge without life becomes classification, prediction, registry, and control; life without knowledge remains vulnerable to omen, panic, priestcraft, and charismatic manipulation. The trilogy's mature answer joins both: scientific accountability, discrimination, and testability held inside healing, ecology, relationship, and reciprocal life.
 
+**Death technology** — what we ordinarily call **technology**: equations as functions of **time**, whose arrow is **entropy** — the Tree of Knowledge in its physics register. A **clock of death** (accurate within the entropic subset; catastrophic when it claims to be all of knowing). On-page, use *instruments, data, equations, registry, chair* until **late** Vol II–III, when the name may land and **Adapa's bread/water of "death"** retroactively completes.
+
+**Life technology** — anti-entropic native connection: field, bridge, ley conductor, practice, release. Name sparingly; show first.
+
+**Two-Tree union act** — Albion climax: life technology + death technology run **together once** — connection keyed and tested by entropic-plane tools, release instead of misnaming. Temporary, costly, collective. (`22_life_technology_and_two_trees_spine.md`)
+
 **The Safehouse Premise.** Earth as a **bolt-hole against catastrophe**: the makers seed durable forms here so their work survives an end they cannot flee. Key correction — **they never arrive in body**; lacking forms of their own to send, they reach Earth as pattern through the **anti-entropic medium**, conducted here by the planetary ley-line network, and construct presence from Earth's matter (dragons, titans, the harvested human line, each fitted to receive). So "refuge" = **continuity carried in Earth-built flesh that can still communicate**, not bodies reaching a destination — the deep urgency behind the Hardware Recall. *Humanity is one such form on a sanctuary world, holding a receiver it has forgotten how to use; the Abandonment is the line going silent.* What the catastrophe was stays a deep-time mystery by design.
 
 ---
@@ -233,6 +239,8 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **Psi / life-energy allocation** — the bounded control-energy available to an embodied organism at a given time. The larger anti-entropic source may remain available while local allocation and throughput are finite. Automatic cycles, conscious control, and especially conflict between them consume that allocation at different efficiencies.
 
+**Psi activation / light-up** — the field-interface recruiting visibly or measurably in the body. It can register in the hands (touch, repair, field contact), the brain/pineal stack (reception, sight, entrainment), or the whole field under breach conditions. It is distinct from Eli's baseline warm/tingly hands: warmth is his local body sensation, while activation is the detectable flare/signature trained psions and instruments can notice.
+
 **Samsara / the cycle** — the robot repeatedly executing conditioned rules under charge until the conscious soul takes control of the charge. A completed or unbound charge no longer guarantees the old action, breaking that portion of the cycle.
 
 **Samskara** — a conditioned impression held in the body-mind: a durable rule, tendency, or trace rather than one of the three charges. In Eli's phenomenology, touching one can produce a serpent's rattle: contact with compressed information before he can interpret it. That contact deposits charge, which the samskara then tries to route through its established pattern.
@@ -243,7 +251,7 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **Seeing** — information becoming legible through sustained relation to charged pain. Pain alone does not confer insight. Seeing is learned by neither fleeing the contact nor identifying with it.
 
-**The surges** — located, involuntary waves of resonance triggered by words, music, images, people, or records. They register magnitude before meaning and can be misinterpreted. Unlike the rattle, they do not build because information was ignored.
+**The surges** — located, involuntary waves of resonance triggered by words, music, images, people, or records. They register magnitude before meaning and can be misinterpreted. Unlike the rattle, they do not build because information was ignored. A strong surge may produce activation in the hands or head, but the surge and the detectable light-up are not the same thing.
 
 **Bard function** — Eli's late development from reception into chosen creative transmission through rhythm, voice, image, writing, or story. Not a separate character class and not instant artistry; it grows from craft seeded before the breach.
 
@@ -269,21 +277,43 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 ## Book 5 — characters, frame, and structure
 
-**Eli** — present-day protagonist: son of an English carrier-researcher mother and Bangladeshi father, raised across borders while they flee the suppression network. The Philippines gives him his Filipino martial foundation; Bali and other selected refuges give him specific communities rather than a generic global childhood. The attack ending the family flight kills his father, removes his mother, and leaves Eli with a persistent traumatic brain injury. A medical worker and escape network keep him alive. Years later, during a temporary engineered outbreak within a wider world war, Forest City becomes an accountable refuge, where he works a **line cook** (the hard, hot, capable shell) and keeps **his dead father's garden, badly** (the gardener father's craft he tries to carry and is not as good at — reception without mastery; the mother's line is the involuntary gift, the father's the chosen craft he can't master). Eli voluntarily leaves it for one clue in newly reopened Melaka, where a local NDE opens the receiver filter fully. His deeper want is home without ownership: a life where he and the people he loves can be ordinary without being classified, worshipped, cured, weaponized, or erased. He does not know the trail's sequence or final destination and discovers Albion only late. Injury creates no power and its deficits persist. Eli is the first known person able to hold all Seven complete imprints while remaining himself.
+**Character development arcs** — volume-by-volume growth, Manual Override thresholds, Eli seven perceptual stages, fellowship and romance proof scenes. Full bible: `27_character_development_arcs.md`. Craft hub: `28_present_day_trilogy_craft_index.md`.
 
-**The present-day Healer** *(male; name/location TBD)* — the medical worker who stabilizes Eli after the family attack and passes him into the escape network before they are separated. Re-enters in Volume II with conventional medical competence and a far deeper physical-healing aptitude than Eli's. Not Ila reborn. Cannot cure the engineered outbreak or reconstruct neural information erased and reorganized by Eli's chronic TBI. A witnessed healing begins his deification pressure: he says "Don't tell anyone," but testimony becomes rumor and need becomes entitlement. Asked whether he is a son of a god, he answers, "No. I am the son of a man." His arc rejects kneeling, ownership, and persecution alike.
+**Arif Rahman** — Eli's Bangladeshi father; a gardener with local political commitments (rivers, land, labor, or dissent). Not a carrier. His visibility in Bangladesh entangled with the Ring's hunt for Eli's mother and forced the family into flight. The Ring used local machinery so the official story could read as politics; survivors know they were closing on the mother and Arif was in the way. **Killed during extraction** from Bangladesh — border or third country — in the same attack ending the family flight that removes the mother and leaves Eli with persistent TBI. Eli remembers his living culture (language, garden, rivers), not a legible crime scene. Surviving kin in Dhaka (e.g. cousin **Farida**) remain at risk.
 
-**Aedan / the Boy** — the Bronze-Age cave-boy, not Eli's soul-name or former incarnation. An early partial receiver/relay outside the Seven. The granary stone warming under him pays off the heat thread — the orphan as a kept ember that forwards fragments rather than possessing their sources.
+**Eli** — present-day protagonist: son of an English carrier-researcher mother and **Arif Rahman**, raised across borders while they flee the suppression network. The Philippines gives him his Filipino martial foundation; Bali and other selected refuges give him specific communities rather than a generic global childhood. The attack ending the family flight kills his father during extraction, removes his mother, and leaves Eli with a persistent traumatic brain injury. A medical worker and escape network keep him alive. Years later, during a temporary engineered outbreak within a wider world war, Forest City becomes an accountable refuge, where he works a **line cook** (the hard, hot, capable shell) and keeps **his dead father's garden, badly** (the gardener father's craft he tries to carry and is not as good at — reception without mastery; the mother's line is the involuntary gift, the father's the chosen craft he can't master). Eli voluntarily leaves it for one clue in newly reopened Melaka, where a local NDE opens the receiver filter fully. His deeper want is home without ownership: a life where he and the people he loves can be ordinary without being classified, worshipped, cured, weaponized, or erased. He does not know the trail's sequence or final destination and discovers Albion only late. Injury creates no power and its deficits persist. Eli is the first known person able to hold all Seven complete imprints while remaining himself.
 
-**The reception registers** — **stories shown** (myths/parables played before Aedan) versus **carrier records**. Aedan receives partial echoes; present-day Eli receives seven full embodied imprints. Neither mode is reincarnation, and access never transfers ownership of identity.
+**The present-day Healer** — **Dr. Somchai Vichai** *(provisional; full flesh `26_present_day_cast_expanded.md`)* — the medical worker who stabilizes child-Eli after the family attack and passes him into the escape network before they are separated. Re-enters in Volume II with conventional medical competence and a far deeper physical-healing aptitude than Eli's. Aging mother in a clinic queue; co-worker who once betrayed *"don't tell anyone."* Two public healings required: rumor, then refusal under crowd pressure with real cost. Not Ila reborn. Cannot cure the engineered outbreak or reconstruct neural information erased by Eli's chronic TBI. *"No. I am the son of a man."*
 
-**The Seven** — **Aru, Daskar, Ila, Tem, Anthea, Cuno, and Lovernios**: distinct historical carriers whose imprints survive in the resonance archive. They are not one bloodline, Eli's ancestors, or Eli's past lives. The Seven Pairs Protocol is a symbolic rhyme rather than a literal genealogy. Eli's maternal line explains receptivity; the Seven supply seven independent records and practices.
+**Mira Okonkwo** — Wren's dead love; carrier with sonic gift. Extraction failed; died in ring custody or transfer. **Sora Vithan** (Custodian Shield) was her partner — ties Wren's wound to the rival team.
+
+**Rowan** — Wren's **prior** love and triad pole *(provisional; full flesh `26_present_day_cast_expanded.md`)*. **Black hair.** Network **cost-keeper**: remembers manifests, decoys, safehouses burned, names on the wall. Lovers with Wren **before** Mira; relationship left unfinished when Wren chose the Mira run. Wren reads exits; Rowan remembers costs. **Vol I:** seed only (Wren's controlled reaction to name/code/song/port). **Vol II:** physical entry; conflicts with Eli's mother-trail. **Error:** prior claim = safety. **Lesson:** love is not custody. End-state open — `19_romance_and_divine_pairing.md` § triad.
+
+**The Custodians** *(provisional member names)* — Lead **Edda Voss**; Lance **Tomás Reyes**; Shield **Sora Vithan** (defection candidate); Mask **Jin Pak**. See `26` and `99` #4.
+
+**Thila Sen** — grower elder, Vol I South Asia climax rice community. *"You are the third team this monsoon."*
+
+**Solomon "Sol" Mendez** — burned former carrier; prophecy/destructive-freedom face, Vol II.
+
+**Dr. Priya Nair** — post-outbreak registrar; constructive control bureaucrat, Vol II.
+
+**Hassan al-Ridzuan** — Melaka witness; held with Eli's mother; half-bait with conscience.
+
+**Lani** — Pai dragon-staff performer; human before symbol.
+
+**Manong Rico Del Rosario** — Eli's Filipino martial teacher (memory only).
+
+**Aedan / the Boy** — the Bronze-Age cave-boy, not Eli's soul-name or former incarnation. An early deep-time receiver — **not a relay routing the cosmology to Eli** (Eli clarifies the deep web directly). The granary stone warming under him pays off the heat thread — the orphan as a kept ember who clarified the web partially rather than possessing its sources.
+
+**Reception (the living web)** — Eli is connected to one **living web** and **clarifies** regions of it; what he clarifies, he learns. One dial of **depth**: near human threads resolve to full embodied scenes (he stands inside the life), while the faint, old cosmology resolves only as watched-depth shards. No reincarnation; clarity never transfers ownership of identity. Supersedes the deprecated *two registers / memory capsules / Aedan-relay* framing — see `36_the_living_web.md`.
+
+**The Seven** — **Aru, Daskar, Ila, Tem, Anthea, Cuno, and Lovernios**: distinct historical people who resolve as deep threads in the web. They are not one bloodline, Eli's ancestors, or Eli's past lives, and not a numbered roster he "carries." The Seven Pairs Protocol is a symbolic rhyme rather than a literal genealogy. Eli's maternal line explains receptivity; the Seven supply seven independent records and practices.
 
 **Adapa** — the book's tragic mirror and heart (Ch 9). Priest of **Eridu** who, warned by Enki, refuses the bread and water of life — too late realizing the warning *was* the trap. He has so internalized *"traitor-blood, submission deserved"* that he accepts his own **lock**. *Shown as parable, not inhabited:* the universal "before" picture the Seven each refuse. The boy is not Adapa — he sees what Adapa is, which is worse.
 
 **Anthea, the Singer of Frequencies** (Bronze Age Anatolia, ~1500 BCE, age 23) — one of the Seven; sings stones soft and wounds closed. Killed by patriarchal cults for witchcraft; her daughter **Lira** scatters carrying the chord, which reaches Aedan's village through an undocumented chain of teaching, migration, and resonance. Anthea is not Wren's past self.
 
-**Cuno, the Bluestone Mover** (Stonehenge / Albion, ~2000 BCE, in his 70s) — one of the Seven; tunes a planetary instrument. Aedan's partial relay catches Cuno's firing and the name "Aedan" across the field; Cuno is not naming a future incarnation. **Derw** (16) is the youngest in his circle.
+**Cuno, the Bluestone Mover** (Stonehenge / Albion, ~2000 BCE, in his 70s) — one of the Seven; tunes a planetary instrument. Aedan, an early deep-time receiver, catches Cuno's firing and the name "Aedan" across the field; Cuno is not naming a future incarnation. **Derw** (16) is the youngest in his circle.
 
 **The Singing Village** — the Part I world before atomization: religion as song, no one above anyone, the gods (Ki, Enki) named but not feared. The throat-sounds the grandfather half-taught are the **lost sounds** the consciousness technologies run on. *What the orphan looks like before it invents a parent.*
 

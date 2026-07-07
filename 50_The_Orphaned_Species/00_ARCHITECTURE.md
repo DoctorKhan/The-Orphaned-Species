@@ -10,13 +10,21 @@ The content has outgrown any single book. Rather than split it into rival volume
 
 ## Layer 1 — The Novel *(the experience; the front door)*
 
-**"The Orphaned Species" — a trilogy** (the present-weighted resonance braid). The trunk everything else feeds. Complete on its own: cosmology and practice arrive as **lived experience, never lecture.** Technology repeatedly makes a formerly magical capacity familiar, then the plot tests whether people can accept that capacity in a living being without worship, extermination, or ownership. A reader can take *only* this and get a whole book.
+**"The Orphaned Species" — a trilogy** (the present-weighted braid on the living web; mechanism in `36_the_living_web.md`). The trunk everything else feeds. Complete on its own: cosmology and practice arrive as **lived experience, never lecture.** Technology repeatedly makes a formerly magical capacity familiar, then the plot tests whether people can accept that capacity in a living being without worship, extermination, or ownership. A reader can take *only* this and get a whole book.
 
 **Maps to:**
 - `50_The_Orphaned_Species/MANUSCRIPT.md` — the draft.
 - `00_NARRATIVE_STRUCTURE.md` — the novel's bible/spine (working doc, not published).
 - `50_The_Orphaned_Species/37_deep_time_source.md` — the deep-past cave stratum, nested.
 - `50_The_Orphaned_Species/15_character_grounding_and_relatability.md` — the human-scale guardrail: Eli's injury, ordinary pressures, relationships, and scene test.
+- `50_The_Orphaned_Species/21_present_day_street_skin.md` — near-future tone: port-noir street skin, faction "install" pressure, and Tree of Life discovery pacing in the present-day legs.
+- `50_The_Orphaned_Species/22_life_technology_and_two_trees_spine.md` — **LOCKED:** anti-entropic / life technology discovered throughout; reunification of Tree of Life and Tree of Knowledge as the end result.
+- `50_The_Orphaned_Species/23_2040_present_frame.md` — **LOCKED author assumption:** present-day story ~2040; what changed since ~2026; never state the year on-page.
+- `50_The_Orphaned_Species/24_comedic_register_slapstick.md` — Emrys / ensemble comedy under catastrophe (Project Hail Mary register).
+- `50_The_Orphaned_Species/26_present_day_cast_expanded.md` — expanded present-day cast flesh, provisional names, scene seeds.
+- `50_The_Orphaned_Species/27_character_development_arcs.md` — volume-by-volume development, Manual Override thresholds, proof scenes.
+- `50_The_Orphaned_Species/28_present_day_trilogy_craft_index.md` — **navigation hub** for present-day craft docs `21`–`27`.
+- `50_The_Orphaned_Species/29_trilogy_plot_and_development.md` — **plot spine hub**: three-volume arc, act beats, revelation links, open gaps; Vol I → `31`, Vol II–III → `05` §7 until beatsheets exist.
 - `50_The_Orphaned_Species/35_artifact_chain.md` — the present-day artifact/story engine: disputed objects, interpretations, and route-changing evidence.
 - `SOURCE_the_surges.md` — the autobiographical floor under Eli (also a Record doc, Layer 3).
 

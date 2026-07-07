@@ -10,10 +10,10 @@ A resonance point is an object, sound, or gesture that **recurs across eras whil
 
 **Structural facts this map honors (canon, locked):**
 
-- **Eli and Aedan are different people.** Aedan is the Bronze-Age cave-boy and partial relay. Eli is a border-raised survivor whose present story opens in Melaka after a Forest City refuge, and the first known receiver able to hold all Seven complete. No soul-name or incarnation link joins them.
-- **The carriers surface first as intrusions in Eli's present.** Warm hands, the half-remembered tune, old sounds, a pull toward stone, and surge-certainty are receiver symptoms, not proof of ancestry.
-- **The practices are not an unlock tree.** Eli's unusual trait is breadth of reception. His limited physical healing remains shallower than the present-day healer's, and creative transmission grows from an ordinary craft seeded before the breach.
-- **The cave-as-nervous-system remains local to Aedan's relay.** In the trunk, Eli receives fuller bleed-through but must identify which historical person a fragment belongs to.
+- **Eli and Aedan are different people.** Aedan is the Bronze-Age cave-boy, an early deep-time receiver — **not a relay routing the cosmology to Eli**. Eli is a border-raised survivor whose present story opens in Melaka after a Forest City refuge, the rare receiver who can clarify the deep web most fully. No soul-name or incarnation link joins them.
+- **The deep threads surface first as intrusions in Eli's present.** Warm hands, the half-remembered tune, old sounds, a pull toward stone, and surge-certainty are receiver symptoms (the web not yet clarified), not proof of ancestry.
+- **The practices are not an unlock tree.** Eli's unusual trait is breadth of reception — how much of the web he can clarify. His limited physical healing remains shallower than the present-day healer's, and creative transmission grows from an ordinary craft seeded before the breach.
+- **The cave-as-nervous-system belongs to Aedan's own deep-time arc.** When Eli later clarifies that thread (and the others), he must identify which historical person a fragment belongs to.
 - **The Modern Child is a coda/echo, not the trunk.** If retained, the child receives the carriers with their meanings stripped off after Eli has made them legible to the reader. The child is the book's open door into the reader's world, not the main decoder.
 
 There are two kinds of rhyme. This doc maps the **object/sound carriers**. The **structural rhymes** (the father-offer-and-refusal in every era; the shared chapter shape *encounter → instruction → first success → glimpse → loss*) are tracked in `37_deep_time_source.md` and aren't repeated here.
@@ -62,20 +62,20 @@ The rattle is not precognition. The surge is not released rattle-charge. The sam
 
 ## Carrier 3 — The warmth *(the somatic spine of the whole book)*
 
-This is the load-bearing carrier. It names the cave-boy relay: **Aedan = "ember / little fire."** Eli retains his own name.
+This is the load-bearing through-line. It names the cave-boy: **Aedan = "ember / little fire."** Eli retains his own name.
 
 | Era | Chapter | Beat | Meaning |
 |---|---|---|---|
 | The cave | 5 | The dragons' stillness radiates *heat*, and a voiceless voice (infrasound felt as thought) | the un-engineered original — biology that grew the capacity instead of having it installed |
 | Göbekli burial | 11 (Daskar) | The buried pillars are *warm* under Daskar's palms; he can feel a fever through a wall | the instrument is alive; heat is information |
 | Early agriculture | 12 (Ila) | Ila's hands read fever, infection, depletion as heat and cold above a body | the diagnostic conduit — heat as a sense |
-| Aedan's relay (10–16) | — | The cave grows warmer as echoes accumulate; by 15–16 heat comes from Aedan, not only the stone | a partial receiver can embody fragments without becoming their sources |
+| Aedan's deep-time arc (10–16) | — | The cave grows warmer as echoes accumulate; by 15–16 heat comes from Aedan, not only the stone | an early receiver can embody fragments without becoming their sources |
 | Return | 17 (Aedan) | The granary stone warms under him as it did under Daskar's palms — *he is the ember; the name was literal* | self-generated; he carries the cave out in his body |
-| Eli's present | family attack → Forest City → Melaka onward | Eli's palms never go cold; trauma, Crane, Wren, and nodes alter the warmth differently; after Ila-contact he can sometimes slow bleeding or stabilize minor damage | receiver sensitivity develops into real but limited physical healing |
+| Eli's present | family attack → Forest City → Melaka onward | Eli's palms never go cold; trauma, Crane, Wren, and nodes alter the underlying activation differently; after Ila-contact he can sometimes slow bleeding or stabilize minor damage | receiver sensitivity develops into real but limited physical healing |
 | Present healer | family attack → Volume II return | a medically trained rescuer keeps Eli alive, later developing sustained repair of severe tissue, fractures, and organ injury | depth belongs to another living practitioner; Eli's bandwidth is not supremacy |
 | Coda / open door | Modern Child, if retained | The child's palms run hot when the grandmother is sick | the capacity surfaces beyond a single line, unbidden |
 
-**Arc:** external heat → diagnostic heat → self-generated heat → present-day reception → differently distributed physical practice. The recurrence shows that comparable capacities can arise across unrelated people without granting one receiver equal mastery of each form.
+**Arc:** external heat → diagnostic heat → self-generated heat → present-day reception → differently distributed physical practice. The recurrence shows that comparable capacities can arise across unrelated people without granting one receiver equal mastery of each form. Warmth is the somatic motif; activation/light-up is the detectable psi event.
 
 ---
 
@@ -136,7 +136,7 @@ One object, three reveals, ten thousand years apart — form, then meaning, then
 
 All carriers land on **three terminal beats**, which is what makes the ending feel inevitable rather than tidy:
 
-- **The cave-boy's granary stone (local ch17):** sun-wheel + Song + warmth + fox-transmission meet on one stone. This partial relay later helps Eli understand the archive.
+- **The cave-boy's granary stone (local ch17):** sun-wheel + Song + warmth + fox-transmission meet on one stone. Clarifying this deep thread later helps Eli understand the web.
 - **The present climax:** Eli refuses the machine's monopoly and uses the native bridge: body, sound, warmth, pattern, line, relation, creation. The healer's depth keeps the collective action embodied. The carriers stop being evidence and become action without becoming Eli's possessions.
 - **The Modern Child, if retained:** fox-dream, hot palms, an unknown tune — the field opens again beyond Eli and outside any exclusive lineage.
 

@@ -1,6 +1,6 @@
 # Character Grounding and Relatability
 
-*Craft guardrail for the present-day trilogy. Companion to `/00_NARRATIVE_STRUCTURE.md` and `16_reader_attachment.md`. This document protects the human book inside the cosmology.*
+*Craft guardrail for the present-day trilogy. Companion to `/00_NARRATIVE_STRUCTURE.md`, `16_reader_attachment.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, and `28_present_day_trilogy_craft_index.md`. This document protects the human book inside the cosmology.*
 
 ## The governing judgment
 
@@ -20,6 +20,28 @@ Before a scene asks the reader to understand a mythic system, it must give them 
 - specific losses matter more than abstract stakes.
 
 The simplest test is: if all cosmological vocabulary were removed from the scene, would the reader still care because of what these people want from each other? If not, add human pressure before adding lore.
+
+## Complex pasts — not only runs
+
+Major characters should feel like they **had lives before the war**, not like they were issued with a plot function. Extraction networks, registries, descents, and psion teams are **present pressure** — not the whole biography.
+
+Each major character benefits from three layers (full cast bible: `26_present_day_cast_expanded.md` § Complex pasts):
+
+1. **Ordinary life** — work, food, family, place, humor, shame before the emergency overlay.
+2. **The turn** — what made them who they are at story open.
+3. **The unreconciled** — what remains unpaid when Eli arrives.
+
+**Wren example:** softer pre-ring port intake; fell for Rowan on shared shifts; ring recruitment and Mira's death hardened her — Rowan remembers both versions.
+
+**Do not** let every backstory be a run, a collar, or a descent. **Do** let past contradict present masks in small scene detail. Eli **cannot shortcut** someone's history through surge or resonance.
+
+## Trauma & internal cages
+
+Pathology on this project is **injury to attachment, agency, and truth** — internal mirrors of external cages (registry, collar, prophecy, ownership). Full craft guide + per-character patterns: `26_present_day_cast_expanded.md` Part VI.
+
+**Rules:** show behavior under pressure; no diagnosis on-page unless character would use the word; no trauma as villain excuse; no magical cure (Eli's TBI floor in § Eli's brain injury). Mature move = recognize autopilot, relation without ownership — not diagnosis → cure.
+
+Pair **Part VI** with **Part V** (past-vs-mask Vol I scenes) when drafting.
 
 ## Eli's brain injury — LOCKED
 
@@ -136,6 +158,8 @@ Bangladesh cannot exist only as the place where his family died. Carry it throug
 Albion closes the mother's mystery. It does not reveal Eli's truer self or replace Bangladesh as home.
 
 Bangladesh should remain an unreturnable or not-yet-returnable home. The reason can be political tension after the attack, unresolved legal danger, surveillance, family enemies, risk to surviving contacts, or the simple fact that returning would not restore the life that was destroyed. This keeps the longing active without turning Bangladesh into a symbolic birthplace that can be visited once and solved.
+
+**Father's death — locked shape.** **Arif Rahman** had real political commitments in Bangladesh (rivers, land, labor, or dissent — exact issue TBD). That visibility entangled with the Ring's hunt for Eli's mother and forced the family into flight. The Ring used local machinery — detention, disappearance, riot cover, checkpoint, file — so the official story can read as politics while survivors know the target was the mother and Arif was in the way. **Arif was killed during extraction**, not in Bangladesh on a scene young Eli can reliably remember; the same attack that ends the flight removes the mother and leaves Eli with persistent TBI. Eli's memory of his father should be **living culture** (language, garden, rivers, household) rather than a legible assassination. The garden he keeps in Forest City is exile soil — craft transplanted, not recovered. Surviving kin in Dhaka (e.g. cousin **Farida**) remain at risk, which is one reason return stays impossible in Volume I.
 
 Eli's main emotional drive is the longing for a livable home: a place where grief, abnormal perception, disability, love, work, privacy, and accountability can coexist without a state, faction, family myth, prophecy, or archive defining him first. Forest City gives him a temporary made home; Bangladesh remains the lost home; the final community tests whether mature home can exist without ownership. The mother trail matters because it reopens the wound, but the deeper need is belonging without capture.
 

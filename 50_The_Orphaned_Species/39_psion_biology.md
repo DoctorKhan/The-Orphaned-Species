@@ -44,6 +44,12 @@ One hardware, expressed differently: **dragons & aliens** (Tree of Life, one-Tre
 
 - **Eli** sits with the carriers: not stronger output — wider **reception**; a receiver/reflector, not a broadcaster (`38` §8). His TBI disrupted the filter; the breach flips it open.
 
+### Warmth vs. activation
+
+Eli's warm/tingly hands are a **somatic interface symptom**: the carrier hardware idling in the body, felt locally as warmth, pressure, tingling, or a sense of "psi" energy. That warmth is not itself the measurable target.
+
+What psionics and instruments detect is **activation**: the hardware lighting up when a trigger, surge, artifact, person, or node recruits the system. Activation can register in the **hands** (touch/repair/field-interface) or the **brain/pineal stack** (reception, sight, entrainment, flood). In prose, enemies should not "look for heat" as if tracking a fever. They look for a flare, signature, light-up, or abnormal activation pattern.
+
 ## 5. Reproductive caste — what the Y bottleneck is, and is not
 
 The biology here explains why a tiny enhanced caste can govern: entrainment, metabolic cost, visible power, and controlled access to the "divine" body. It does **not** require giant male sterility to explain the Y-chromosome bottleneck.
@@ -68,5 +74,6 @@ Why no skeleton reads as "Nephilim": the edge is **subtle non-coding regulatory 
 
 - **Never lectured.** This whole doc is Record-layer floor. In the novel it surfaces only as *felt* experience and as the thing **Emrys measures** — instruments register a signature, a metabolic crash, an entrainment, without explaining the mystery away.
 - **Felt before mechanism.** The reader feels the entrainment (awe, dread, the inability to hold one's own mind) before anyone names theta/gamma. Effects before terminology.
+- **Warmth is not a scanner target.** Warm hands can remain a recurring body fact. Detection language belongs to activation: a flare, signature, light-up, pulse, or field response in the hands/head.
 - **Keep the speculative seam visible.** Where the science is real (electrocytes, cryptochrome, entrainment, reference bias) it can be cited as epigraph or in Emrys's mouth; where it's the tweak (amplified broadcast/read at distance), let it stay mystery, not assertion.
 - **The biology never closes the mystery.** Per `91` §7, the maker never submits to measurement. The hardware predicts; the field behind it does not. Biology explains the antenna, never the signal.

@@ -1,6 +1,6 @@
 # Reader Attachment
 
-*Craft guide for making readers care about the characters before asking them to carry the cosmology. Companion to `05_story_architecture.md` and `15_character_grounding_and_relatability.md`.*
+*Craft guide for making readers care about the characters before asking them to carry the cosmology. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, `24_comedic_register_slapstick.md`, and `28_present_day_trilogy_craft_index.md`.*
 
 ## Governing rule
 
