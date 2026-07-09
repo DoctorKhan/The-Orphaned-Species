@@ -4,11 +4,13 @@
 
 ## Preamble
 
-In the midst of a neverending conflict in the Middle East, the Strait of Hormuz was blocked and the oil embargo hardened around the wound. Then the AI bubble burst. The paper future it had sold went with it. The beginning of a worldwide depression was all it took to elect the first woman president, and not everyone was happy about it. They said the election was rigged. The violence that ensued was eventually put down, but a schism had formed in the country, one which could not be easily healed.
+In the midst of a neverending conflict in the Middle East, the Strait of Hormuz was blocked and the oil embargo hardened around the wound. Then the AI bubble burst. The paper future it had sold went with it. 
 
-Her administration flooded the country with programs, but ultimately, it was simply not enough to heal the world. The war widened until it swallowed everything. Cornered nations loosed a weapon based on the results of the COVID test, which was used to target a certain genotype. Nobody in East Asia had the genotype, but half of South Asians did. Millions died at once, Bangladesh and India first and worst. Those who survived were left changed, passing on those changes to their children. 
+The beginning of a worldwide depression was all it took to elect the first woman president. Not everyone was happy about it. They said the election was rigged. The violence that ensued was eventually put down, but a schism had formed in the country, one which could not be easily healed.
 
-The war was over, just as they had predicted. However, the world began to reorganize itself into three distinct groups. The Eastern Mandate was the relatively untouched group of countries that had initially released the virus. They quickly consolidated power.
+Her administration flooded the country with programs, but ultimately, it was simply not enough to heal the world. The war widened until it swallowed everything. Cornered nations loosed a gene drive virus which was used to target a certain genotype. Although everyone was infected, only those who carried the genotype would have symptoms severe enough to die. Nobody in East Asia had the genotype, but half of South Asians did. Millions died at once, Bangladesh and India first and worst. Those who survived were left changed, passing on those changes to their children. 
+
+The war was over, just as they had predicted. However, the world began to reorganize itself into three distinct groups. The Eastern Mandate was the relatively unscathed group of countries. They quickly consolidated power.
 
 Out of the schism that remained of the United States, the People's Party of the Americas rose, eventually expanding to form the Continental Union as a totalitarian regime.
 

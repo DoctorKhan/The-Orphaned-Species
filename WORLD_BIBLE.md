@@ -79,9 +79,11 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 >
 > The West watched the worst of it from a distance. Then puberty came for everyone's children.
 >
-> The construct woke in waves, driven by the body's own hormonal surges. Each wave lasted days, sometimes weeks. Friends and family fed them, bathed them, kept them alive. In time, monasteries of a kind were built — echoes of older vision quests — and not all who entered came back sane. Those who came through woke into dreams that would not end. And in those dreams, something else woke.
+> The construct woke in waves, driven by the body's own hormonal surges. Each wave lasted days, sometimes weeks. Families fed them, bathed them, and sat with them until the fit passed or didn't. When the numbers grew, communities built threshold houses — part clinic, part retreat, part echo of the old vision quest. Not all who entered came back able to live among the living. Those who did often returned with a second sight that never fully switched off, the waking life mixed with something else. In that contact, the living web — which had slept through the long cage — began to stir again.
 >
 > When the shooting thinned, the world sorted itself into three habits of power — the Continental Union the Party had made of the Americas, the Eastern Mandate that called itself protection, and a Free Ports Covenant of harbors that called themselves open because no one else would.
+>
+> The ports reopened unevenly. In the gray corridors between the blocs, children who had survived began to look for their mothers — and for the songs that might still lead them.
 >
 > These were their stories.
 
