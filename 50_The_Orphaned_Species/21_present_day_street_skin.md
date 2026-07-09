@@ -149,7 +149,7 @@ Vol I should **open EdgeRunners-tight** then widen into history:
 - **Act II (Melaka):** reopening noir; baited witness; losing fight; asphyxia breach; first network touch reads as **street flare**, not cosmology lecture.
 - **Act III (flight / first descent):** pursuit with teeth; Ila differentiation; first proof that reception ≠ mastery.
 
-End state: Eli knows the Seven are **separate people**, has first Manual Override, and follows the next clue with **no map** — awakened and hunted in a damaged but functioning world.
+End state: Eli has **witnessed** a practitioner at a node **as other**, has first Manual Override, and follows the next clue with **no map** — awakened and hunted in a damaged but functioning world.
 
 See `31_volume_I_beatsheet.md` for chapter cards.
 

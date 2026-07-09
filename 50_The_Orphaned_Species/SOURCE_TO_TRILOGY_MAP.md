@@ -48,7 +48,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 **Internal movement:** Shattering  
 **Reader-experience function:** Book I — Mystery and body  
 **Dramatic question:** Can Eli remain himself long enough to decide whom to trust?  
-**Ending change:** Eli knows the Seven are separate people, achieves personal Manual Override, and voluntarily follows the next clue with no known destination.
+**Ending change:** Eli has met a practitioner **as other** at a node, achieves personal Manual Override, and voluntarily follows the next clue with no known destination.
 
 ### Prologue — Maren Das *(drafted)*
 - **Source material:** Suppression method / Ring machinery. Not a deep-time clarification. Establishes the control-system face dispatched after anomalous persons before the protagonist opens.
@@ -67,12 +67,12 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Deliverable:** Drafted in `MANUSCRIPT.md`.
 
 ### Ch 2 — Something of Hers *(drafted)*
-- **Setting:** Forest City → Suresh's supply boat → crossing.
-- **Choice:** almost-stays beat (bag unpacked, travel warnings visible) → chooses to go. Cost: kitchen crew, garden, recognizers, mall routines, sailing mornings.
+- **Setting:** Forest City chase → Suresh's supply boat → crossing.
+- **Event:** planted song identifies Eli at lunch; biosecurity hunters close on kitchen; **chase** through resort (tandem bike with Kiran, kiddy pedal cars, children's train loop); tumbles onto Suresh's boat at marina. Not a voluntary departure.
 - **Source threads active:**
-  - List of leaving-the-home costs; ordinary objects (charger, fire door, packed bag) as emotional gravity.
-  - The orphan's wound: ten years without her; the song as compass and flaw.
-- **Artifact clue:** Melaka name/place for handoff. Chandlery address written as "Ask once."
+  - List of leaving-the-home costs; ordinary objects (eggs, knife, thrown bag) as emotional gravity — earned in flight, not packed in decision.
+  - The orphan's wound: ten years without her; the song as compass and trap.
+- **Artifact clue:** Melaka chandlery address in Mei's bag. Suresh's strait confession.
 - **Living Way lessons visible:** 13 worth is original; 8 tell the truth about fear; 5 come back to now.
 - **Deep-time notice:** Aedan's cave frame is not yet; Eli is still in present body/pressure.
 - **Deliverable:** Drafted in `MANUSCRIPT.md`.
@@ -87,7 +87,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 ### Ch 4 — The Breach *(drafted)*
 - **Setting:** Melaka rust, quayside, chandlery hotel corridor.
-- **Event:** Custodians run him down → losing Kali fight → near-death by asphyxia; hypoxia rings the old TBI; edge-of-death opens the psi plane for the first time; the Seven flood in; witness/handoff blown.
+- **Event:** Custodians run him down → losing Kali fight → near-death by asphyxia; hypoxia rings the old TBI; edge-of-death opens the psi plane for the first time; **receiver ON / undifferentiated web-noise** (not seven lives downloaded — `36` §3a); witness/handoff blown.
 - **Source threads active:**
   - Orphan-and-father thread: offered choice (run east or cave), here literalized as run-to-the-Stairs or drown.
   - Body circle: TBI, hunger, sleep, cold, touch, pain select the route.
@@ -97,11 +97,11 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Setting:** Melaka outskirts, stairwell contact.
 - **Wren folds him in** against her own interest; burns part of her extraction network to move him.
 - **Three-Circles vision surfaces** from the chaos — what is real radiates outward; what is false leaks. First test for revelation vs. breakdown.
-- **Emrys converges**, recognizing a sevenfold signature.
+- **Emrys converges**, instruments logging a **carrier flare** tied to Maren's research.
 - **Forward clue:** fragment points out of the city.
 - **Act turn:** he cannot return to Forest City without exposing it; he chooses to follow the fragment.
 - **Source threads active:**
-  - Seven as separate people: not yet verified; Eli cannot tell self from other.
+  - First node witness: not yet; post-breach overload and pursuit dominate.
   - Constructive freedom corner: accepting help he can't repay.
 
 ### Ch 6 — Differentiation

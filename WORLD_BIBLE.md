@@ -3,8 +3,9 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 
 ## 1. THE TIMELINE (hard canon)
 - **~2001–2028:** "Neverending conflict" in the Middle East. The US is financially and politically exhausted by it.
+- **Late-2020s AI bubble pop:** The AI boom overbuilds, overpromises, and then bursts; paper wealth, jobs, and public confidence vanish before the oil shock lands. This is economic background, not AGI takeover.
 - **2028:** AOC wins the presidency. Not a revolution — an exhaustion vote. Administration launches broad social programs.
-- **Depression:** Triggered by an **oil embargo** (not vague "restriction"), not by the programs themselves. The programs soften but cannot prevent it.
+- **Depression:** Triggered by the **Strait of Hormuz being blocked** and the resulting **oil embargo** (not vague "restriction"), compounded by the AI bubble pop; not caused by the programs themselves. The programs soften but cannot prevent it.
 - **Next term (call it "the following election," avoid a specific ordinal unless math-checked):** The **People's Party of America (PPA)** rises out of desperation and **legitimately wins**. State-directed capital + digital ledger + party apparatus (the "China model," shown through specifics, never asserted as a label).
 - **Mid-2030s:** The Middle East war escalates to **World War III**.
 - **WWIII acute phase:** Cornered nations release the weapon (see §2).
@@ -19,14 +20,16 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 - **Europe / Britain: ~16% die acutely** (haplotype carriers). The ~84% who lack it survive the acute phase but are infected and carry the latent construct. Via the gene drive, **nearly all of the next generation** inherits it and faces the puberty trips. The West escaped the acute massacre, got caught by the generational one.
 - **America: admixed ~10–15% die acutely** (weighted carrier frequency: ~16% Euro-ancestry, low African- and Asian-American, ~10% Latin American). Everyone infected carries latent; gene drive spreads it; next generation near-universally subject to trips. The PPA governs an America where almost every family has hidden a kid through the episodes.
 - **Theme:** the acute phase reads as a South-Asian / Global-South catastrophe the West partly watched from afar; the puberty phase equalizes the horror. Two-phase weapon: Phase 1 spares most of the West, Phase 2 catches its children.
-- **Maren Das (Eli's mother) = truly British, haplotype-NEGATIVE.** European (~84% lack marker) → survived acute phase, infected, carried latent construct, passed it to Eli via gene drive. "Das" is her work name (MS: "Das was the name she used in her work"). Died ~10 yrs before present; whether weapon-linked is author's call.
-- **Eli's survival is NOT haplotype-dependent.** Born after the acute phase, he never faced the acute payload; inherits only the latent construct, faces the puberty trips. His British ancestry is character color.
+- **Maren Das (Eli's mother) = truly British, haplotype-NEGATIVE.** European (~84% lack marker) → survived acute phase, infected, carried latent construct, passed it to Eli via gene drive. "Das" is her **married surname** — she wed a Bengali man (now dead) and kept it; it is also the name she used in her work (MS: "Das was the name she used in her work"). Died ~10 yrs before present, **in-region (SE Asia)**, leaving a trail; whether her death was weapon-linked is author's call.
+- **Maren's work = the carrier/keeper underground.** She came East into the SE-Asian carrier-and-keeper network during the crisis — courier or researcher for the people hiding kids through their puberty trips. This is why a man in Melaka asks after "the English woman" and holds something of hers (the MS oilcloth packet). Her Britishness + the Das surname = the regional memory of her.
+- **Eli's transit to Forest City (Routes B + C, locked).** Born after the acute phase. After Maren died he was raised **stateless** inside that regional carrier network; as a post-trip carrier himself he drifted through the port gray-economy — supply boats, kitchens, no-questions labor — and washed up in **Forest City** (Johor, Malaysia: outside PPA jurisdiction, a half-built resort turned refuge). He now follows Maren's trail from Forest City to Melaka. His British ancestry is character color; his **statelessness** is why he has no home to return to.
+- **Eli's survival is NOT haplotype-dependent.** He never faced the acute payload; inherits only the latent construct, faces the puberty trips.
 - This haplotype affects **disease severity / expression**, NOT initial infection — keep wording honest.
 - **The leak (plot device):** frequency is never 100%/0%. Even in Bangladesh ~half survived; in the US admixture scatters the marker. The sparing is **statistical, not clean** — weapon mis-sorts the population. PPA governs a mis-sorted America.
 
 ### Phase 2 — Latent / Heritable
 - Gene-drive component integrates into **all survivors** (target and non-target alike), lying quiet, passed to offspring.
-- **Hormonally gated to puberty** (see §3). Drives the coma, then the DMT awakening.
+- **Hormonally gated to puberty** (see §3). Drives the series of DMT trips, then the awakening.
 
 ## 3. THE PUBERTY TRIGGER (real mechanism)
 - Steroid hormones (estrogen/testosterone) are natural gene switches. They bind intracellular receptors; the hormone-receptor complex binds a **hormone response element (HRE)** upstream of a promoter and recruits transcription machinery → gene turns ON. This is how puberty itself works.
@@ -45,6 +48,7 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 
 ## 5. THE ABILITIES (the one speculative leap)
 - The trigger timing, DMT trip, and DMT flood are **explained science**. The **actual awakened abilities are fiction** — the species' "dark matter," never switched on until the construct.
+- **The construct is the near-future door to the cosmic layer** — see §9. The puberty trips wake the dormant receiver; what it tunes into (the field / Grid / the dead) is the deep mythos of `00_MASTER_TIMELINE.md` and `39_psion_biology.md`.
 - Rule: abilities awaken **only in those who survive the puberty trips**. Dead-at-once (Phase 1) and trip-non-survivors get nothing. This keeps the demographic clean: abilities track the post-trip survivors.
 - The "second pathway" is intentionally undefined in the bible; invent per character. The science only explains _when_ and _how_ the switch flips and _why_ it feels like dreaming awake.
 
@@ -54,7 +58,7 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 - Never write a character saying "it targets a race." Say **"it targets allele frequencies"** and have a scientist note it misfires on admixed people.
 
 ## 7. LOCKED INTRO TEXT (do not alter without re-bible)
-> In the midst of a neverending conflict in the Middle East, AOC ascended to the presidency in 2028. Her administration flooded the country with social programs, but it was not enough to stave off the depression that followed the oil embargo.
+> In the midst of a neverending conflict in the Middle East, AOC ascended to the presidency in 2028, after the AI bubble burst and the paper future it had sold went with it. Her administration flooded the country with social programs, but it was not enough to stave off the depression that followed when the Strait of Hormuz was blocked and the oil embargo hardened around the wound.
 >
 > Out of that desperation, the People's Party of America rose and legitimately won the next term. The Party's strong hand held the states together — but not easily.
 >
@@ -71,3 +75,16 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 - Gene drive inheritance bias — modeled in insects; principle real, human application hypothetical.
 - Hormone response elements / steroid receptor transcription — standard endocrinology.
 - INMT / endogenous DMT — Barker, Szábo et al.; MAO degradation; pineal = unsettled.
+
+## 9. UNIFYING FRAME — the gene-drive weapon IS the Activation event
+**Continuity decision (2026-07-07): the near-future bioweapon and the deep-time cosmic mythos are ONE story.** The weapon is the modern trigger of the species' "Activation." This bible owns the near-future *mechanism* (§§1–4) and the *voice* (§6); the deeper cosmology lives in `00_MASTER_TIMELINE.md` and `39_psion_biology.md` and **wins on any conflict with the cosmic layer** until reconciled.
+
+- **Antenna vs. signal.** The puberty trips (§§2–4) are the *door* — the biology. The intro's "something else woke" (§7) is what walks through it: the dormant receiver-hardware (chromosome-2 seam + pineal/cryptochrome stack, per `39`) flipping open to the non-local field — the Grid, the dead, the deep-time signal. Biology is the antenna; the field behind it is the deeper real (`39` framing rule: "biology is the antenna, not the whole story").
+- **Layer map (near-future → cosmic):**
+  - PPA "activation" registry = the **modern face of the control faction** (Igigi/control-era governance via entrainment, `00` Two Trees). Cataloging carriers = harvesting/control. Hiding a kid through their trips = the **dissenter line** (Enki/Apkallu) protecting the reawakening.
+  - **Maren's keepers** = that present-day dissenter/keeper underground.
+  - **Forest City itself = a carrier refuge** established by an eccentric keeper ("Babaji," the old man on the island — distinct from the real-world "Balaji" network-state figure the registries hunt; the name-collision is deliberate cover); its guardians (the "mafia" Eli meets) form a local underground cell. Eli's mistaken identity as "the old man's boy" becomes cover against the PPA registry — see MS antique-car / tea scene (interstitial before Ch Two).
+  - Eli's post-trip **wide-receiver** status (`39` §4: receiver/reflector, TBI-breached filter) = why he can **clarify the seven historical threads** (the Book 5 charge). His stateless drift through the carrier network = the species rediscovering itself.
+  - **Journey spine (locked nodes):** Forest City (refuge, Babaji's cell) → Melaka (chandlery door, the witness, Maren's packet, the sevenfold surge) → Pai, N. Thailand (jungle lodge run by **Khun Dang**, ex-biker-gang founder; teaches Eli *Hotel California* on guitar as a cover/discipline beat — playing quiet hides a loud receiver) → north toward the old grid / the seven nodes. Each node is a refuge cell; the guitar is a carry-forward motif.
+- **The Melaka packet** (Maren's "something of hers") must connect to this layer: a tuning artifact / frequency-log / Grid record that lets Eli clarify the threads. Tie the *object* to the *cosmic* layer — do not leave it as a mere keepsake.
+- **Bounds:** keep the weapon's mechanism honest science (§§2–4). The "something else" it wakes is the speculative deep real; the boundary between the two is exactly the seam `39` demands stay visible.

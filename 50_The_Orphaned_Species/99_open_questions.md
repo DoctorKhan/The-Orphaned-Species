@@ -84,6 +84,7 @@ How the deep-past material reaches the present-day trilogy is **resolved**: see 
 
 - **Removed:** `36_memory_capsules.md` (deleted); the "memory capsules from stones" framing; the **two registers** (lived-life vs watched-vision); **Aedan as a relay**; the **resonance braid** label; reincarnation; the **Seven as a numbered carrier roster** Eli "becomes."
 - **Retained, reframed:** the historical practitioners are deep human **threads that resolve into people** (grief and first-person immersion both kept, as *full-resolution clarification*); the cosmology is **deep web-structure** clarified late and partially (no relay); the firing rule (node-trigger + in-scene consequence).
+- **Locked delivery rule (`36` §3a, §3):** Melaka = **receiver ON** + overload + grid flare — **not** seven lives downloaded, **not** identity crisis. Named threads clarify **at nodes** under pressure. **Talking stones** (`36` §7a): local folk memory of node behavior.
 
 **Follow-up sweep still required** (parallel to #0): legacy terms — *memory capsule, carrier, lived-life/watched-vision, Aedan relay, resonance braid* — still appear across ~two dozen files. `36_the_living_web.md` governs until the sweep runs. Priority targets: `37_deep_time_source.md` body, `SOURCE_TO_TRILOGY_MAP.md` capsule inventory, `00_NARRATIVE_STRUCTURE.md`, `31_volume_I_beatsheet.md`, `05_story_architecture.md`, `95_glossary.md`.
 
@@ -102,7 +103,7 @@ How the deep-past material reaches the present-day trilogy is **resolved**: see 
 - **Why he trusts a weak clue:** the one detail — her private name for him, the **three-note tune**, or a specific fact about the night of the attack — lands as a **surge.** His body lights with certainty before his mind can verify. His gift and his flaw in one beat: he goes because it *rang*.
 - **Why it can't be tested from Forest City:** the witness won't/can't travel (hunted, dying, or it's a physical handoff they won't trust to monitored wartime comms). The truth only resolves on-site.
 - **What it promises:** **truth, not reunion** — a witness to how she died (seeds the Vol II reveal: dead in body, tethered west). Keep reunion off the table here so "the reunion is the goodbye" still has somewhere to fall.
-- **What it costs by end of Act I:** he forfeits the Forest City refuge, the kitchen crew, the people he feeds, and the father's garden; and the lead is **half-bait** — following it is what gets him run down and breached (#2), starting the reunion-as-bait engine on page one. Irony to bank: a cook — a man of fire and warm hands, who feeds people — is choked/drowned at the breach, and at the threshold the dead (the Seven) flood the one who keeps others alive.
+- **What it costs by end of Act I:** he forfeits the Forest City refuge, the kitchen crew, the people he feeds, and the father's garden; and the lead is **half-bait** — following it is what gets him run down and breached (#2), starting the reunion-as-bait engine on page one. Irony to bank: a cook — a man of fire and warm hands, who feeds people — is choked/drowned at the breach, and at the threshold **the receiver opens** to undifferentiated field-noise (not seven lives downloaded — `36` §3a).
 - **Crossing function:** Suresh's supply boat is the last Forest City threshold, not a sailboat adventure. It develops Suresh as a practical port-runner with guilt and hard limits, plants Eli's basic deck competence, shows Forest City receding as a real home, and explains the danger of port networks through musicians, chandlery, checkpoints, cargo, quarantine cover, quiet bribes, and people who remember faces.
 
 **Still open:** the exact personal detail (name / tune / fact); the witness's identity and whether they survive Act I; whether the team behind the lure is Crane's ring or a rival national team (ties to #4).
@@ -116,7 +117,7 @@ How the deep-past material reaches the present-day trilogy is **resolved**: see 
 1. **Chase.** A rival team's operators run Eli down during the disorderly Melaka reopening — he's been clocked near their contest over a carrier/route. A scooter flight through the old town / riverside.
 2. **Losing fight.** The flight collapses into close-quarters combat — sticks, a blade, his Filipino Kali. His training is **perception, not prowess**: he reads line, range, entry, and angle, and it is *not enough* against numbers. He is overwhelmed. (Anti-badass: the Kali buys him seconds, never victory; keep the dominant note terror and overwhelm, per `15_character_grounding_and_relatability.md`.)
 3. **The threshold — asphyxia, not concussion.** He is choked down and held under at the river's edge, or driven off a quay into the harbor and pinned/tangled. Near-death by loss of breath. The hypoxia **rings the old childhood TBI** (names blur, the old skull-fracture hums, the original attack bleeds in) — so the head wound is present-tense without being repeated.
-4. **The plane opens.** At the edge of death the **psi plane opens to Eli for the first time** — first contact with the sight (`38_psionic_combat.md`): he *sees* the forms as he's dying. Hand-off into the Seven flooding in. Catastrophe, not power — he risks losing the boundary between himself and seven dead strangers.
+4. **The plane opens — receiver ON (`36` §3a).** At the edge of death the **psi plane opens to Eli for the first time** — first contact with the sight (`38_psionic_combat.md`): he *sees* the forms as he's dying. **Sensory overload** — too much signal at once; hypoxia and old TBI ring together. **No identity crisis:** he does not think the dead are him. Catastrophe, not power: he is **exposed and hunted** from this moment (grid flare). One ordered shard may surface (three concentric circles). **Named historical threads clarify later at nodes** under pressure; see § Node trigger-sites below.
 5. **Pulled back.** An **ordinary bystander/local** (fisherman, boatman, market-seller) hauls him out — chosen over the Healer (reserved for the Vol II reconvergence) and over Wren/Emrys (who converge on the *flare*, i.e. afterward). Seeds the recurring cost: helping Eli is dangerous, and the rescuer may pay for it.
 6. **Aftermath / signal.** The breach **lights his signature** across the grid (the "dinner bell," `38`), so both contesting teams lock onto him; Emrys and Wren converge; Eli escapes into the reopening chaos, changed and now loud.
 
@@ -292,11 +293,16 @@ The final feeling is locked: **an afternoon nobody turns into destiny**. The exa
 
 ## Node trigger-sites (clarification of the web)
 
-Deep-time material is reached by **clarifying the living web at nodes** (mechanism: `36_the_living_web.md`). Each deep thread or structure resolves at the stone/node where its content happened.
+Deep-time material is reached by **clarifying the living web at nodes** (mechanism: `36_the_living_web.md` §3a, §7a, §8). Each deep thread or structure resolves at the stone/node where its content happened — **not** as a bulk download at Melaka. Human cultures often preserved this as **legends of talking stones** (local names; folk memory of nodes); Eli learns the stories were pointing at real behavior without the grid's vocabulary.
 
+- **Locked — delivery rule:** Melaka = receiver opens + overload + grid flare — **not** identity crisis (`36` §3). First **node witness** = Vol I midpoint (partial **Ila** — pin exact stone below).
 - **Locked:** Aru's thread → Göbekli Tepe (Vol II), clarified at the fox-pillar Aru carved. The drafted King's Men/Rollright frame is superseded for Aru and reusable for a late Albion/Cuno node.
-- **Open:** nodes for Ila, Tem, Anthea, Cuno, Lovernios, and Aedan's deep-time arc — pin each to a stone/node along `35_artifact_chain.md` and the legs in `/00_NARRATIVE_STRUCTURE.md`.
+- **Open:** nodes for Ila, Tem, Anthea, Cuno, Lovernios, and Aedan's deep-time arc — pin each to a stone/node along `35_artifact_chain.md` and the legs in `00_NARRATIVE_STRUCTURE.md`.
 - **Open:** Göbekli present-day staging (active dig, shrine, military zone, faction prize) — the Aru frame can't be drafted until this is chosen.
+
+**Pilgrimage pathway (full map):** `29_trilogy_plot_and_development.md` § Pilgrimage pathway — macro route, three tiers of place, Albion sequence, **Dilmun vs present-day stops**.
+
+**Dilmun:** deep-time nursery memory (Persian Gulf / Qingu reserve in `00_MASTER_TIMELINE`); present plot meets it through **Mesopotamian artifact leg** (Vol II), not as a mandatory Tier-C node like Stonehenge unless `#7` race adds a Gulf port beat.
 
 ## Secondary decisions
 

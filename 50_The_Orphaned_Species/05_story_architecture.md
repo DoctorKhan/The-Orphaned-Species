@@ -17,7 +17,7 @@ Do not ask one concept to perform every job:
 | Function | Story element | Question it creates |
 |---|---|---|
 | **Motor** | Eli tries to protect ordinary life, home, and belonging while following the mother clue that threatens them | Can he find meaning and safety without letting a state, faction, lover, parent, prophecy, or archive define what he is? |
-| **Burden** | Seven distinct dead lives intrude through him | Can he receive them without becoming or possessing them? |
+| **Burden** | Overload after breach; node witnesses; factions want him as **container** | Can he witness without owning — and refuse capture? |
 | **Temptation** | He may be able to control the amplifier and network | Will he become the necessary ruler every faction claims the world needs? |
 | **External conflict** | Countries and irregular groups wage a psionic war | Can anyone remain free when consciousness itself becomes military infrastructure? |
 
@@ -135,8 +135,8 @@ Every arrow needs to appear as consequence on the page. If ley lines do not alte
 
 The anti-entropic source is not a finite battery. Costs arise at the embodied and relational interface:
 
-- loss of differentiation between self and foreign information;
-- obstruction and reversion to automatic operation;
+- sensory overload and slow recovery (TBI, post-node crash);
+- **Block** and forced autopilot (loss of agency, not loss of self);
 - limits of attention, biological stability, sleep, and concentration;
 - exposure of a psionic signature;
 - feedback and contamination within a team;
@@ -253,7 +253,7 @@ Crane's error is his conclusion: because risk exists, consciousness must be regi
 Eli's answer must be operational rather than rhetorical:
 
 - informed consent;
-- differentiation between self and transmitted material;
+- **witness without ownership** (node contact ≠ authority or mastery);
 - transparent, limited, accountable coordination;
 - privacy and the right not to register;
 - the right to leave a psion group;
@@ -326,7 +326,7 @@ Use the **Volume** labels as dramatic movements and the reveal-order document's 
 
 | Volume | Plot movement | Internal movement | External movement | Ending change |
 |---|---|---|---|---|
-| **I — Shattering** | Hearth, breach, pursuit, unstable alliance, first verified record | Confusion → first differentiation | Forest City → Melaka and maritime Asia → South Asia | Eli knows the Seven are separate people and voluntarily follows the next clue |
+| **I — Shattering** | Hearth, breach, pursuit, unstable alliance, first verified record | Overload → first node witness | Forest City → Melaka and maritime Asia → South Asia | Eli has **met** a practitioner as other, refuses capture, and voluntarily follows the next clue |
 | **II — Descent** | Reconstruction, competing loyalties, mother-reveal, loss of the guide | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
 | **III — Choice** | Convergence, temptation, release, refusal of ownership | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and helps a mixed ordinary/anomalous community survive beyond the emergency without claiming the wider war is over |
 
@@ -392,7 +392,7 @@ The table records likely accumulations in the existing plot, not a lesson schedu
 
 | Volume | Cumulative movement | Likely lessons—move as plot requires | Existing plot expression |
 |---|---|---|---|
-| **I — Shattering** | **Return to the body and distinguish self from weather.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to remain himself during the Seven's flood. Forest City demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
+| **I — Shattering** | **Return to the body under overload.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to recover after breach and node contact — **not** to solve "who am I?" Forest City demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
 | **II — Descent** | **Move from self-regulation into relation, care, and limits.** Practices become recognizable across cultures without becoming interchangeable. | 1: be true, not right; 4: kindness when hard; 10: stillness and listening; 11: forgive without rehiring harm; 12: tend living things | The healer's consent and refusal establish that service is not conscription. Eli learns from breath, touch, sound, plant intelligence, and the Seven without claiming mastery or cultural ownership. Conflicting witnesses force truth-seeking over doctrinal certainty. |
 | **III — Choice** | **Release possession and transmit without founding another cage.** The Way becomes political and generational. | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Eli frees his mother by surrendering reunion, loves Wren without destiny or ownership, refuses both Crane's throne and annihilation, and distributes practices so no institution or bloodline can monopolize them. The final coalition becomes a durable mixed community with reciprocal accountability and no permanent command. |
 
@@ -423,8 +423,8 @@ This is also the publishing boundary. The novel gives readers **experience and p
 - Eli leaves Forest City because the clue cannot be safely tested there and because staying would expose the refuge.
 - Melaka becomes the first rupture corridor: the clue, the pursuit, and the breach converge there.
 - Rival psion teams collide around a carrier, route, or record.
-- A concrete near-death event opens Eli's already damaged receiver filter.
-- The Seven arrive as identity catastrophe.
+- A concrete near-death event opens Eli's already damaged receiver filter (`36` §3a).
+- The breach is **overload + hunted** — not identity catastrophe, not a bulk download of seven lives.
 - Eli's first error is bodily: he treats sleep, food, pain, panic, and neurological limits as obstacles to the mission and tries to earn protection by remaining useful.
 - Wren and Emrys converge for different reasons; neither has the map.
 
@@ -583,12 +583,12 @@ This schedule is a decision ledger, not a curriculum. The reader-facing reveal o
 
 | Order | Revelation | Likely placement | Decision it changes |
 |---|---|---|---|
-| 1 | Eli cannot trust the ownership of every memory he experiences | Volume I opening | He accepts help with differentiation |
+| 1 | Eli cannot trust every surge/command as his own will | Volume I opening | He accepts help with grounding and register-reading |
 | 2 | Organized psion teams exist and attack one another | Volume I Act I | He cannot treat Crane as the only threat |
 | 3 | Plant growth is tracing something real | Volume I Act II | The group risks an agricultural investigation |
 | 4 | Lines break and leave opposed ends | Volume I late | Old maps become suspect |
 | 5 | Crop formations are new lines, not imposed messages | Volume I climax | Protecting the living field matters more than possessing a symbol |
-| 6 | The Seven were separate people | Volume I midpoint/end | Eli stops treating their lives as his identity |
+| 6 | First practitioner met **as other** at a **node** | Volume I midpoint | Witness + grief; apprenticeship without ownership |
 | 7 | Eli can hold a charge without letting autopilot complete the rule | Volume I end / Volume II threshold | He becomes strong enough to enter deeper relational, historical, and psionic pressure without being merely steered by it |
 | 8 | Stones route rather than generate energy | Volume II | Buried and intact sites acquire different tactical meanings |
 | 9 | A witnessed healing exceeds ordinary expectation; the healer asks for secrecy | Volume II | Protecting his identity and finite capacity becomes a route constraint, not a humility performance |

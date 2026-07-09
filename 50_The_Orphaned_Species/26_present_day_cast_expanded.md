@@ -156,7 +156,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Habit:** explains three sentences too many; hands shake; apologizes to instruments.
 
-**Flaw (new):** **measures when he should touch** — tries to instrument Eli's first differentiation instead of shutting up; must learn bodily presence, not only correlation.
+**Flaw (new):** **measures when he should touch** — tries to instrument Eli's first post-breach grounding instead of shutting up; must learn bodily presence, not only correlation.
 
 **Comedy modes:** drops sensor / catches on foot; chair wrong harmonic blows fuse; buddy panic with Eli in galley or lab crate; wrong joke at funeral silence.
 

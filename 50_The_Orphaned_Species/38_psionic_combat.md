@@ -67,7 +67,7 @@ A Bubble or Block **can be broken if you are strong enough** (user's mechanic) �
 
 - Coherence drains with use; spent psions are **slow, sick, sleepless, and stupid** until they recover. Recovery needs rest, food, safety, and time — ordinary care, which the Healer can support but not shortcut.
 - Severe Lance damage and broken Blocks leave **real bodily aftermath**: nosebleeds, fever, tremor, memory gaps, the disruption of a chronic pattern (Eli's TBI flares under attack).
-- **Loss of differentiation** is the signature cost for a receiver: under heavy pressure Eli stops being able to tell his own information from foreign information — the Seven leak in. For him, every fight is also an identity fight.
+- **Loss of agency under Block** is the signature psionic cost for anyone; for Eli, heavy **Block** forces autopilot — invasion of will, not merger of identity. Receiver overload after node contact is **body cost**, not "who am I?"
 
 ## 5. Failure modes (build set pieces around these)
 

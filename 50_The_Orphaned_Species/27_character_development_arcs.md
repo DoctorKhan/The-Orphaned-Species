@@ -40,8 +40,8 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 
 | Stage | Vol I | Vol II | Vol III |
 |---|---|---|---|
-| 1. Identification / confusion | **Dominant** — Seven flood feels like *me* | Recurs under stress | Rare relapse; caught faster |
-| 2. Rattle / contact | First differentiation | Deliberate entry to descents | Discriminates contact vs command |
+| 1. Overload / survival | **Dominant** — breach body crash, hunted | Recurs after nodes | Managed habit |
+| 2. Rattle / contact | First grounding / register-reading | Deliberate entry to descents | Discriminates contact vs command |
 | 3. Charge / pain | Learns it repeats if obeyed | Relation without obeying | Teaches others to hold charge |
 | 4. Relation | Breath, inner ring with Emrys | Healer care vs conscription | Collective geometry without hierarchy |
 | 5. Seeing | One Ila stabilization | Göbekli — instrument redeemable? | Reads mother tether clearly |

@@ -2,10 +2,10 @@
 
 *The chapter-by-chapter spine for Volume I (Shattering), built on the locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `29_trilogy_plot_and_development.md` (full trilogy plot hub), `21_present_day_street_skin.md` (near-future tone / port-noir skin), `23_2040_present_frame.md` (~2040 texture), `26_present_day_cast_expanded.md` (cast flesh), `27_character_development_arcs.md` (Vol I development + proof scenes), `28_present_day_trilogy_craft_index.md` (craft hub), `99_open_questions.md` (the locked beats #1–#6), `38_psionic_combat.md` (the war), `39_psion_biology.md` (the floor), `36_the_living_web.md` (the web/clarification mechanism), `16_reader_attachment.md` (the human-gravity test).*
 
-> **Locked inputs this sheet chains together:** Eli works a **line cook** and keeps his **dead father's garden, badly**, at Forest City (#1) → a **witness** clue reaches him via the kitchen/supply network, half-bait (#1) → Melaka, where **Wren** is running an extraction that light-crosses the witness (#3) → the breach: a losing Kali fight ending in **asphyxia**, the psi plane opens, the Seven flood (#2) → the **Custodians** run him down and pursue (#4) → first differentiation, first frightened healing via Ila, and the South Asia climax (#6, locked below).
+> **Locked inputs this sheet chains together:** Eli works a **line cook** and keeps his **dead father's garden, badly**, at Forest City (#1) → a **witness** clue reaches him via the kitchen/supply network, half-bait (#1) → Melaka, where **Wren** is running an extraction that light-crosses the witness (#3) → the breach: a losing Kali fight ending in **asphyxia**, the psi plane opens, **receiver ON / overload + hunted** — not identity crisis, not seven lives downloaded (#2; `36` §3a) → the **Custodians** run him down and pursue (#4) → first **node witness** (Ila), first frightened healing, and the South Asia climax (#6, locked below).
 
-> **Volume I dramatic question:** *Can Eli remain himself long enough to decide whom to trust?*
-> **Internal movement:** confusion → first differentiation. **Ending change:** Eli knows the Seven are separate people, achieves **personal Manual Override** (feel a charge, recognize autopilot, don't let conditioning complete the act), and voluntarily follows the next clue with no known destination.
+> **Volume I dramatic question:** *Can Eli stay clear-headed enough under pursuit to decide whom to trust?*
+> **Internal movement:** overload → first node witness. **Ending change:** Eli has met a practitioner **as other**, achieves **personal Manual Override** (feel a charge, recognize autopilot, don't let conditioning complete the act), and voluntarily follows the next clue with no known destination.
 > **Reveal discipline:** effects before terminology; human stakes before cosmic claims; no two cosmological answers in one chapter. **Life-tech spine:** each act owes at least one Life beat and one Knowledge beat toward eventual Two Trees reunification — `22_life_technology_and_two_trees_spine.md`. **Character development:** each chapter should advance at least one fellowship arc or Eli perceptual stage — proof scenes and Vol I checklist in `27_character_development_arcs.md`. **Past-vs-mask leaks:** one habit/object beat per major character, no exposition — `26` Part V.
 
 ---
@@ -25,12 +25,12 @@ The predator before the protagonist. The quiet machinery of vans and clipboards 
 - **Past leak:** Eli — Bangla to tomatoes + tune fragment in garden (`26` Part V). Mei — sauce taste check mid-rush. Optional: Priya program poster *visibility saves lives* on a health wall.
 
 ### Ch 2 — Something of Hers *(Eli · Forest City)*
-- **Want:** decide whether the lead is real without leaving safety.
-- **Attachment:** a quiet hearth beat — a meal he cooks, the kitchen crew, a last evening in the father's garden; the one relationship leaving will cost most. His shame at how much he *wants* this to be true. The refuge is a wartime safety pocket, not comfort: outside are checkpoints, travel warnings, biosecurity cover, bad documents, psion surveillance, and people who disappear.
-- **Obstacle (human · material · psionic):** it can't be tested remotely (the witness won't trust monitored wartime comms; it's a physical handoff); leaving forfeits the refuge; the one detail played by the restaurant band — her private tune — lands as a **surge** and brief hand/head activation, certainty before proof.
-- **Threshold scene:** the crossing on Suresh's supply boat is not travel padding. It gives Suresh judgment, guilt, and limits; plants Eli's working-deck competence without making him a sailor-hero; lets Forest City visibly recede; explains port-network danger through musicians, chandlery, checkpoints, and remembered faces; and shows reopening/war texture through cargo, quarantine cover, patrols, and quiet bribes.
-- **Choice → Cost:** he almost stays, actually unpacking the bag after Mei's warning and after ordinary people expect him tomorrow; then he goes. Cost: the kitchen crew, the people he feeds, the father's garden, the recognizers, the mall routines, the sail training, and the only safe life that has ever held him.
-- **Revelation:** the surge is his compass and his flaw — he moves because it *rang*. **Forward clue:** a name/place in Melaka for the handoff.
+- **Want:** survive the morning; keep the kitchen safe.
+- **Attachment:** a quiet hearth beat — ordinary prep, recognizers who expect him tomorrow (Rina's charger, Mina and Lopa, morning sticks with Kiran). The refuge is a wartime safety pocket, not comfort: outside are checkpoints, travel warnings, biosecurity cover, bad documents, psion surveillance, and people who disappear.
+- **Obstacle (human · material · psionic):** the planted song **identifies him** at lunch service; **biosecurity hunters** (Custodian cover) close on the kitchen. It can't be tested remotely; the Melaka handoff only resolves on-site — but he does not choose to go; the chase chooses for him.
+- **Threshold scene:** **Forest City chase** — Mei sends him out the back; **Kiran** on a tandem rental; **kiddy pedal cars** through the waterpark plaza; one circuit on the **children's train**; tumble onto **Suresh's supply boat** at the marina as white coats reach the pier. Mei throws the bag (eggs, knife, chandlery address). Crossing gives Suresh judgment, guilt, and limits; plants Eli's working-deck competence; lets Forest City recede; explains port-network danger through musicians, chandlery, checkpoints, and remembered faces.
+- **Choice → Cost:** no voluntary departure — he **runs** because stopping exposes Mei. Cost: the kitchen crew, the garden, the recognizers, the mall routines, the sail training, and the only safe life that has ever held him — **burned in one morning**, not surrendered in a packed-bag beat.
+- **Revelation:** the surge is his compass and his flaw — the song **rang**, and someone saw. **Forward clue:** Melaka chandlery address in Mei's thrown bag; Suresh's dock confession on the strait.
 - **Past leak:** Suresh — wrong-note hum at stern, stops (`26` Part V). Farida — text with photo of Arif's garden still growing in Dhaka.
 
 ### Ch 3 — The Reopening *(Eli; one Wren beat · Melaka)*
@@ -45,26 +45,26 @@ The predator before the protagonist. The quiet machinery of vans and clipboards 
 - **Want:** survive / reach the handoff.
 - **Obstacle:** the Custodians run him down — scooter flight → a **losing** close-quarters Kali fight (perception, not prowess; he reads the lines and it is not enough) → driven off a quay / choked and held under: **near-death by asphyxia.** The hypoxia rings the old TBI.
 - **Choice → Cost:** at the threshold he stops fighting the water/the dark — and crosses. Cost: near death; the witness/handoff lost in the chaos.
-- **Revelation:** at the edge of death **the psi plane opens to him for the first time** (first sight of the forms) — and **the Seven flood in.** Catastrophe, not power: he can't tell which body, which grief, which life is his. **Forward clue:** an ordinary bystander hauls him out — and the flare lights the grid.
+- **Revelation:** at the edge of death **the psi plane opens to him for the first time** (first sight of the forms) — **sensory overload**; body crash. Catastrophe, not power: he is **hunted** from this moment (grid flare). **Forward clue:** an ordinary bystander hauls him out.
 - **Past leak:** Edda — breath count like spreadsheet rows. Tommy — athletic footwork reset before violence. Eli — *short steps, don't gift your hip* (Manong Rico, one line).
 
 ### Ch 5 — What Didn't Die *(Eli/Wren · Melaka outskirts)*
 - **Want:** not dissolve; get out alive.
 - **Attachment:** Wren — survival-competence over a frightened, fraying 19-year-old; the stairwell-style first contact, recognition refused on both sides.
-- **Obstacle:** the flood (seven strangers wearing *I*); the Custodians regrouping; **Wren folds him in against her own interest** ("I came to see what died") because he's the worst possible complication — and it costs her extraction.
+- **Obstacle:** post-breach **overload** (sick, sleepless, slow — `39`); the Custodians regrouping; **Wren folds him in against her own interest** ("I came to see what died") because he's the worst possible complication — and it costs her extraction.
 - **Choice → Cost:** Wren takes him; Eli accepts help he can't repay. Cost: Wren burns part of her own operation/network to move him.
-- **Revelation:** the ordered **three-circles vision** surfaces from the chaos — *what is real radiates outward; what is false leaks* — his first test for revelation vs. breakdown. **Emrys** converges on the flare, recognizing a sevenfold signature. **Forward clue:** the next testable fragment points out of the city. **Act turn:** he can't return to Forest City without exposing it; he chooses to follow the fragment.
+- **Revelation:** the ordered **three-circles vision** surfaces from the chaos — *what is real radiates outward; what is false leaks* — his first test for revelation vs. breakdown. **Emrys** converges on the flare: instruments log a **carrier breach** matching Maren's suppressed research — the living event he could only predict. **Forward clue:** the next testable fragment points out of the city. **Act turn:** he can't return to Forest City without exposing it; he chooses to follow the fragment.
 - **Past leak:** Wren — stairwell bun, both hands, no napkin. Optional: Eli flinches at head touch — antiseptic body memory (Somchai, unnamed).
 
 ---
 
 ## ACT II — The Unstable Sea
 
-### Ch 6 — Differentiation *(Eli · flight out of Melaka)*
-- **Want:** stop being seven people.
+### Ch 6 — Grounding *(Eli · flight out of Melaka)*
+- **Want:** recover body and attention enough to keep moving.
 - **Attachment:** Emrys — map-not-territory guide, the mother-link, kindness with shaking hands.
-- **Obstacle:** dissolution; he can't yet tell TBI symptom from trauma memory from rattle-contact from surge from carrier-imprint; the metabolic crash after the breach (he's sick, sleepless, slow — `39`).
-- **Choice → Cost:** he submits to Emrys's discipline (breath, the inner ring) rather than clawing. Cost: it's a daily, reversible grind, not a cure.
+- **Obstacle:** he can't yet tell TBI symptom from trauma memory from rattle-contact from surge; the metabolic crash after the breach (he's sick, sleepless, slow — `39`).
+- **Choice → Cost:** he submits to Emrys's discipline (breath, the inner ring) rather than pushing through alone. Cost: it's a daily, reversible grind, not a cure.
 - **Revelation:** the registers are *different things* — and instruments can measure a signature without explaining it. **Forward clue:** Emrys's correlation points to a paired-anomaly record (a polarity reading) reachable in a surveilled archive.
 - **Past leak:** Emrys — clinic-tier bandage, apologizes to bandage roll, won't hold shoulder.
 
@@ -92,11 +92,11 @@ The predator before the protagonist. The quiet machinery of vans and clipboards 
 - **Revelation:** **plant growth is tracing something real** — the plants are the detector, no message imposed. **Forward clue:** the real geometry points south/west toward a forming line in South Asia.
 - **Past leak:** Lani — dragon-staff or field worker move triggers Pai flash: noodles, failed trick, laugh (≤ sensory beat).
 
-### Ch 10 — Midpoint: A Separate Person *(Eli · en route)*
-- **Want:** hold himself together long enough to read one imprint.
-- **Obstacle:** an imprint resolves — hands, a birth, a fever, South Asian specifics he could not have invented (a partial **Ila** contact); the terror that it's madness.
-- **Choice → Cost:** he stops treating the carrier as himself and lets her be *other*. Cost: grief — she is real, and dead, with nowhere to set the love down.
-- **Revelation (MIDPOINT):** **the Seven were separate historical people**, not his past lives or his madness. Decision changes: he can receive without being possessed. **Forward clue:** Ila's partial record names the kind of place to look — a community where a new line is forming through planted ground.
+### Ch 10 — Midpoint: First Witness *(Eli · first node — South Asia approach)*
+- **Want:** stand at a charged site long enough for a thread to clarify without collapsing from exhaustion.
+- **Obstacle:** at a **node** (witness stone / shrine marker / charged ground — pin exact site in `99`), a thread clarifies — hands, a birth, a fever, South Asian specifics (partial **Ila** contact); local **talking-stone lore** may precede the mechanism (`36` §7a); pursuit pressure won't wait.
+- **Choice → Cost:** he receives her as **other** — real, dead, grievable — without claiming her. Cost: grief with nowhere to set the love down.
+- **Revelation (MIDPOINT):** **first full node witness** — apprenticeship and grief, not identity proof. Decision changes: he can learn from the dead without owning them. **Forward clue:** Ila's partial record names the kind of place to look — a community where a new line is forming through planted ground.
 
 ---
 
@@ -113,7 +113,7 @@ The predator before the protagonist. The quiet machinery of vans and clipboards 
 ### Ch 12 — Ila's Hands *(Eli · the community)*
 - **Want:** help, and not be useless.
 - **Obstacle:** someone is hurt (the converging conflict draws first blood); Eli has Ila's record but no mastery.
-- **Choice → Cost:** he attempts his **first frightened stabilization** — slows a bleed, reduces swelling. Cost: it's real but small, and it costs him badly (metabolic crash; nearly loses differentiation).
+- **Choice → Cost:** he attempts his **first frightened stabilization** — slows a bleed, reduces swelling. Cost: it's real but small, and it costs him badly (metabolic crash; recovery grind).
 - **Revelation:** **bandwidth is not depth** — he is a receiver, not a healer (seeds the Vol II healer). **Forward clue:** the community's own elders hold knowledge the record doesn't.
 
 ### Ch 13 — Two Teams *(ensemble · the community)*

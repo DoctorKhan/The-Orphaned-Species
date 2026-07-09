@@ -23,14 +23,35 @@
 | **"Resonance braid" as a named device** | the spine docs | Redundant; the web *is* the connection. Drop the term. |
 | **Aedan as a partial relay routing the cosmology** | `36`, `37`, the source-map | Removed entirely. The cosmology is deep web-structure he clarifies directly (§6) |
 | **Two registers (lived-life vs watched-vision)** | `36` §1 | One dial of depth (§1, §6); the *felt* difference survives as resolution, not as two mechanisms |
+| **"Sevenfold signature" / harmonic carrier count on instruments** | spine, beatsheets, draft prose | **Removed.** Emrys reads a **carrier flare** correlated to Maren's research — not a number-of-practitioners pattern |
 
-## 3. The danger is noise, not possession
+## 3. The danger is overload and capture, not possession — LOCKED
 
-The old burden ("seven lives might overwrite him") was a manufactured threat. The real danger is the one the breach already dramatizes:
+**No identity crisis.** Eli does not wonder whether he is the dead, whether node-clarifications are his past lives, or whether the field is replacing him. The practitioners are **encountered at nodes**, clearly **other** — grief and apprenticeship, not plural-self horror. Do not write "am I seven people," "seven strangers wearing *I*," or dissolution as loss of self.
 
-> He is flooded by a web he cannot yet resolve. He cannot tell what is **him** and what is the **field** — "loss of differentiation between self and foreign information" (`05`). Dissolution by undifferentiation.
+The real dangers:
 
-The cure is the practice: **clarification is how he stays himself.** This makes the danger, the discipline, and the thesis a single thing — *receive the connection without being dissolved by it*, which is the same adult move as *live beside power without kneeling*. Volume thresholds restate cleanly: Vol I he clarifies enough to tell self from web (personal Manual Override); Vol II he holds clarity inside relationship and pressure (relational); Vol III he clarifies the whole pattern — and the mother-thread — without seizing it.
+- **Overload** — breach and nodes can flood sense, body, and attention; TBI makes recovery slow. Scary, disorienting, costly — he stays **Eli**.
+- **Capture** — factions want him as **container**, registry asset, or weapon. The anti-chosen-one fight is **refusal of ownership**, not sorting selves.
+- **Autopilot** — rattle/surge deposits charge; conditioning tries to **execute a command**. Manual Override = feel the charge, don't complete the act — **not** "which person am I?"
+- **Mistaking witness for mastery** — receiving a thread ≠ owning a culture, a dead person's authority, or a skill tree.
+
+The cure is practice: **clarification without collection** — receive contact, learn apprenticeship, release the thread when it passes. Volume thresholds: Vol I **survives exposure and meets the first node witness**; Vol II holds limits inside relationship and pressure; Vol III clarifies the whole pattern — and the mother-thread — without seizing it.
+
+## 3a. Melaka opens the receiver; nodes hold the teachers — LOCKED
+
+**Do not download seven lives at the breach.** The Melaka near-death event turns the receiver **on**, not the archive **in**.
+
+| **Melaka breach** | **Nodes (pilgrimage sites, stones, artifacts)** |
+|---|---|
+| Psi plane opens; first sight of the forms | One deep human thread **clarifies** because Eli is **on the ground** at a dense knot |
+| **Sensory overload** + body crash (TBI, hypoxia) — disorienting, not identity horror | A **person** resolves — **other**, visited not inhabited: Ila, Aru, Cuno, etc. |
+| Signature **flares** the grid ("dinner bell") — **hunted from here on** | Factions race him **to the next node**; artifacts name where to go |
+| One ordered shard may surface (three concentric circles) | Full immersion only when node + pressure earns it (`§8`) |
+
+**Between nodes:** occasional echoes or surges — background signal, not a second cast living in his head. **Do not use a "sevenfold signature" or harmonic count on instruments** — that numerology is deprecated. Emrys converges on a **carrier flare** his logs correlate to Maren's suppressed research: the breach event they predicted, not a roster count.
+
+**One-line filter:** *Melaka opens the radio; the stones hold the teachers.*
 
 ## 4. Faces resolve *out of* the web (the grief survives)
 
@@ -60,6 +81,19 @@ The gods, the Seven Pairs / bottleneck, the war in heaven, the orphaning, Adapa 
 ## 7. The mother is the taut thread
 
 The model makes the climax fall out for free. The mother is not a separate soul tethered in a machine to be rescued. She is a **thread in the web held taut by hope of reunion.** Clarifying that thread *is* understanding that the only way to free her is to **release the tension** — to give up reunion. Search inverts into release with no extra mechanism. The amplifier that runs on "trapped souls" is, in web terms, the **knotting of threads kept taut by what they still want**; draining it is letting them go slack. (See `00_NARRATIVE_STRUCTURE.md` Leg 7 and the Vol III climax in `05`/`SOURCE_TO_TRILOGY_MAP.md`.)
+
+## 7a. Talking stones — the folk layer — LOCKED
+
+Human cultures **already remembered** that certain stones and places **hold speech** — without the grid's vocabulary. These are **legends of talking stones**, not one global doctrine:
+
+- **Britain / Albion** — stones that **answer**, **remember names**, or **judge** (Rollright riddling lore; "utterance" stones; ancestor seats).
+- **South and Southeast Asia** — **witness stones**, shrine markers, river-edge seats where the dead are **heard** if you bring the right offering or silence.
+- **Anatolia / Near East** — pillars and **foundation stones** that **receive oath** or **record** what was sworn on the ground where they stand.
+- **Mesopotamian / Gulf memory** — inscribed objects and **foundation deposits** treated as **speaking** to gods or to the land itself.
+
+In the story these tales are usually filed as **metaphor, tourism, or superstition** — until after the breach Eli learns the folk memory was pointing at **real node behavior**: dense regions of the web where human threads **clarify** under attention and pressure. The Ring and national programs **instrument** nodes; ordinary people **tell stories** about them. Both are touching the same substrate.
+
+**Craft rule:** introduce talking-stone lore **locally** (one culture's name per scene), from **living characters** (growers, sailors, Emrys's footnotes, a shrine keeper) — never as a lecture that "all cultures knew." Effects before etiology: a stone **feels** like it answers before anyone names the mechanism.
 
 ## 8. The firing rule (retained — so clarification doesn't stall the plot)
 

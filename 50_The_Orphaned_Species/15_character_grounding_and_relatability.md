@@ -6,7 +6,7 @@
 
 The story is relatable at its foundation but can bury that foundation beneath its machinery. Eli's human story is simple:
 
-> A young man loses his mother, family, home, health, and legal safety; other people keep telling him what he is; he must learn to trust his own mind, accept care, love without possession, and remain himself while seven dead strangers press through him.
+> A young man loses his mother, family, home, health, and legal safety; other people keep telling him what he is; he must learn to trust his own mind, accept care, love without possession, and **refuse capture** while **witnessing the dead at stones** — clearly other, never himself.
 
 Readers do not need to share Eli's nationality or circumstances. Relatability comes from the precision of his needs, shame, grief, humor, mistakes, and relationships—not from making his background generic.
 
