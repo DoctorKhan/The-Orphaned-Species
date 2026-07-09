@@ -9,7 +9,22 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 - **Next term (call it "the following election," avoid a specific ordinal unless math-checked):** The **People's Party of America (PPA)** rises out of desperation and **legitimately wins**. State-directed capital + digital ledger + party apparatus (the "China model," shown through specifics, never asserted as a label).
 - **Mid-2030s:** The Middle East war escalates to **World War III**.
 - **WWIII acute phase:** Cornered nations release the weapon (see §2).
+- **Post-war partition (LOCKED):** the world settles into **three blocs** (see §1a). Street shortenings: *the Union*, *the Mandate*, *the Covenant* / *the Ports*.
 - **Generational phase:** Survivors carry the latent construct; it triggers at **puberty** in the next generation and onward (gene drive makes it heritable).
+
+## 1a. THE THREE BLOCS (LOCKED)
+
+| Pole | Official name | Governing reality | Street / news |
+|---|---|---|---|
+| **Americas (PPA)** | **The Continental Union** | People's Party of America — state-directed capital, digital ledger, party apparatus, carrier registry. Legitimately won power after the depression; holds the continent together through the war and after. | *the Union*, *Continental* |
+| **East** | **The Eastern Mandate** | East-Asian-aligned powers that loosed the haplotype weapon and were spared by design. Emergency rule, protected trade corridors, psion programs under security cover. | *the Mandate*, *the East* |
+| **Third pole** | **The Free Ports Covenant** | Reopened harbors, special economic zones, and remnant states that fit under neither giant — Strait ports, SE Asian gray zones, uneven European remnants. Improvised quarantine, bribes, forged papers, accountable refuges like Forest City. | *the Covenant*, *the Ports* |
+
+**Geography rules:**
+- **Forest City** (Johor, Malaysia) sits in **Covenant gray space** — outside Continental Union jurisdiction, not Mandate territory. Half-built resort turned refuge.
+- **Melaka** = Covenant port city under uneven reopening; Mandate and Union patrols both press the strait.
+- **Eli is stateless** — no bloc claims him. Custodians and registry hunters cross Covenant ports under biosecurity cover.
+- **On-page rule:** use official names in documents, news crawls, and checkpoint speech; use street shortenings in dialogue and habit. Never infodump all three names in one sentence after the prologue.
 
 ## 2. THE WEAPON — TWO PHASES
 **Type:** retroviral, replication-competent, gene-drive-capable construct. Descendant of CRISPR (prime/base editing + gene drive), rewritten past simple cutting.
@@ -22,7 +37,7 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 - **Theme:** the acute phase reads as a South-Asian / Global-South catastrophe the West partly watched from afar; the puberty phase equalizes the horror. Two-phase weapon: Phase 1 spares most of the West, Phase 2 catches its children.
 - **Maren Das (Eli's mother) = truly British, haplotype-NEGATIVE.** European (~84% lack marker) → survived acute phase, infected, carried latent construct, passed it to Eli via gene drive. "Das" is her **married surname** — she wed a Bengali man (now dead) and kept it; it is also the name she used in her work (MS: "Das was the name she used in her work"). Died ~10 yrs before present, **in-region (SE Asia)**, leaving a trail; whether her death was weapon-linked is author's call.
 - **Maren's work = the carrier/keeper underground.** She came East into the SE-Asian carrier-and-keeper network during the crisis — courier or researcher for the people hiding kids through their puberty trips. This is why a man in Melaka asks after "the English woman" and holds something of hers (the MS oilcloth packet). Her Britishness + the Das surname = the regional memory of her.
-- **Eli's transit to Forest City (Routes B + C, locked).** Born after the acute phase. After Maren died he was raised **stateless** inside that regional carrier network; as a post-trip carrier himself he drifted through the port gray-economy — supply boats, kitchens, no-questions labor — and washed up in **Forest City** (Johor, Malaysia: outside PPA jurisdiction, a half-built resort turned refuge). He now follows Maren's trail from Forest City to Melaka. His British ancestry is character color; his **statelessness** is why he has no home to return to.
+- **Eli's transit to Forest City (Routes B + C, locked).** Born after the acute phase. After Maren died he was raised **stateless** inside that regional carrier network; as a post-trip carrier himself he drifted through the port gray-economy — supply boats, kitchens, no-questions labor — and washed up in **Forest City** (Johor, Malaysia: **Free Ports Covenant** gray zone, outside the Continental Union, a half-built resort turned refuge). He now follows Maren's trail from Forest City to Melaka. His British ancestry is character color; his **statelessness** is why he has no home to return to.
 - **Eli's survival is NOT haplotype-dependent.** He never faced the acute payload; inherits only the latent construct, faces the puberty trips.
 - This haplotype affects **disease severity / expression**, NOT initial infection — keep wording honest.
 - **The leak (plot device):** frequency is never 100%/0%. Even in Bangladesh ~half survived; in the US admixture scatters the marker. The sparing is **statistical, not clean** — weapon mis-sorts the population. PPA governs a mis-sorted America.
@@ -58,15 +73,15 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 - Never write a character saying "it targets a race." Say **"it targets allele frequencies"** and have a scientist note it misfires on admixed people.
 
 ## 7. LOCKED INTRO TEXT (do not alter without re-bible)
-> In the midst of a neverending conflict in the Middle East, AOC ascended to the presidency in 2028, after the AI bubble burst and the paper future it had sold went with it. Her administration flooded the country with social programs, but it was not enough to stave off the depression that followed when the Strait of Hormuz was blocked and the oil embargo hardened around the wound.
+> In the midst of a neverending conflict in the Middle East, the Strait of Hormuz was blocked and the oil embargo hardened around the wound. The AI bubble burst. The paper future it had sold went with it. In 2028, exhaustion elected its first woman president; her administration flooded the country with programs, but the depression came anyway.
 >
-> Out of that desperation, the People's Party of America rose and legitimately won the next term. The Party's strong hand held the states together — but not easily.
+> The war widened until it swallowed the world. Cornered nations loosed a weapon built on a real lever — a Neanderthal haplotype, the one that nearly skipped East Asia. The payload switched on where the haplotype sat in the genome and stayed dark where it did not. Millions died at once — Bangladesh and India first and worst, the marker seated in half their people. The rest carried it, changed, and did not know.
 >
-> By then the Middle East war had swallowed the world. And some nations, cornered, released the weapon: a retroviral gene-drive built on a real lever — a Neanderthal haplotype, the one that nearly skipped East Asia. The payload switched on where the haplotype sat in the genome, and stayed dark where it did not. They had built a weapon that killed by the bloodline, sparing, by design, the peoples of East Asia and the powers that loosed it.
+> The West watched the worst of it from a distance. Then puberty came for everyone's children.
 >
-> Millions died at once — Bangladesh first and worst, the haplotype seated in half its people. The rest carried it, changed, and did not know.
+> The construct woke in waves, driven by the body's own hormonal surges. Each wave lasted days, sometimes weeks. Friends and family fed them, bathed them, kept them alive. In time, monasteries of a kind were built — echoes of older vision quests — and not all who entered came back sane. Those who came through woke into dreams that would not end. And in those dreams, something else woke.
 >
-> Then came puberty. The construct switched on in waves, driven by the body's own hormonal surges, and each survivor was taken by a series of DMT trips — days long, to the edge of death, from which not all returned. Through them they had to be hidden and kept, isolated while the experience moved through them, cared for by those who would not let the world find them mid-vision. Those who came out the other side woke into dreams that would not end. And in those dreams, something else woke.
+> When the shooting thinned, the world sorted itself into three habits of power — the Continental Union the Party had made of the Americas, the Eastern Mandate that called itself protection, and a Free Ports Covenant of harbors that called themselves open because no one else would.
 >
 > These were their stories.
 

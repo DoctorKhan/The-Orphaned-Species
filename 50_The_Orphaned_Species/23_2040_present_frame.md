@@ -155,9 +155,10 @@ Use **scar + habit**, not history lectures:
 Still decide in draft/research, not here:
 
 - exact year of Eli's family attack (likely **2030s**, before or early war — track in `99_open_questions.md`);
-- bloc/country names for psion programs;
 - whether Forest City maps to a specific real corridor or a lightly renamed composite;
 - healer's city and name.
+
+**Locked:** post-war bloc names — Continental Union / Eastern Mandate / Free Ports Covenant (`WORLD_BIBLE.md` §1a).
 
 ---
 

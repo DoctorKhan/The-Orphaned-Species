@@ -2,21 +2,21 @@
 
 ---
 
-In the midst of a neverending conflict in the Middle East, AOC ascended to the presidency in 2028 — the 52nd president of the United States, and the first woman to hold the office. Soon after, the AI bubble burst, and the paper future it had sold went with it. Her administration flooded the country with social programs, but it was not enough to stave off the depression that followed when the Strait of Hormuz was blocked and the oil embargo hardened around the wound.
+## Preamble
 
-As the Middle East war widened, it swallowed the world. Out of that desperation, the People's Party of America rose and legitimately won the next term. In the years that followed, the Party's strong hand held the states together through the war — but not easily.
+In the midst of a neverending conflict in the Middle East, the Strait of Hormuz was blocked and the oil embargo hardened around the wound. Then the AI bubble burst. The paper future it had sold went with it. The beginning of a worldwide depression was all it took to elect the first woman president, and not everyone was happy about it. They said the election was rigged. The violence that ensued was eventually put down, but a schism had formed in the country, one which could not be easily healed.
 
-Cornered, some nations loosed a new weapon: a retroviral gene-drive built to target a specific Neanderthal haplotype — a weapon that killed by bloodline, and spared by design the peoples of East Asia and those who loosed it.
+Her administration flooded the country with programs, but ultimately, it was simply not enough to heal the world. The war widened until it swallowed everything. Cornered nations loosed a weapon based on the results of the COVID test, which was used to target a certain genotype. Nobody in East Asia had the genotype, but half of South Asians did. Millions died at once, Bangladesh and India first and worst. Those who survived were left changed, passing on those changes to their children. 
 
-Millions died at once — Bangladesh and India first and worst, the haplotype seated in half their people. Those who survived were changed.
+The war was over, just as they had predicted. However, the world began to reorganize itself into three distinct groups. The Eastern Mandate was the relatively untouched group of countries that had initially released the virus. They quickly consolidated power.
 
-The world was divided into three groups. The United States Territories, the Chinese Territories, and the Freedom Federation.
+Out of the schism that remained of the United States, the People's Party of the Americas rose, eventually expanding to form the Continental Union as a totalitarian regime.
 
-The construct woke in waves, driven by the body's own hormonal surges. At puberty, the brain flooded with endogenous DMT. Each wave lasted days, sometimes weeks. Friends and family fed them, bathed them, kept them alive. In time, monasteries of a kind were built — echoes of the vision quests of older cultures: long passages to the edge of death, and not all who returned came back sane.
+Those that remained of the largely unstable and now decimated nations of South Asia formed the Free Ports Covenant which was meant to enable some form of free trade.
 
-Those who passed through awakened. The powers would take years to surface.
+The world was rebuilding. Then adolescence began to break differently. At puberty, some children crossed a threshold their bodies had no name for — fever, stillness, visions that looked like madness from the outside. Hormones opened a door the war had already cracked in the genome. The episodes could last days, sometimes weeks. Families fed them, bathed them, and sat with them until the fit passed or didn’t.
 
-These are their stories.
+When the numbers grew, communities built threshold houses — part clinic, part retreat, part echo of the old vision quest. Not everyone who entered came back able to live among the living. Those who did often returned with a second sight that never fully switched off, the waking life mixed with something else. In that contact, the living web — which had slept through the long cage — began to stir again.
 
 ## Chapter One — The Hour That Belongs to No One
 
@@ -220,13 +220,15 @@ White coats. Clipboards. The wrong kind of fever check.
 
 "—registry discrepancy in the food-service cohort—"
 
+"—Covenant health authority—"
+
 "—voluntary screening—"
 
 Mei, louder: "We're in service. You want lunch, you buy lunch."
 
 Eli runs.
 
-Not because he has decided anything. Because the alley opens onto the promenade and the promenade is where Forest City pretends the war is a theme park, and if he stops he will put Mei's kitchen on a list.
+Not because he has decided anything. Because the alley opens onto the promenade and the promenade is where the Covenant pretends the war is a theme park, and if he stops he will put Mei's kitchen on a list.
 
 The robot dog crosses his path and pauses, cameras adjusting with that soft little tick, as if it has solved him and found the answer disappointing. He vaults the chess boards under the shade sails — a knight clicks into ruin — and hits the mall entrance at the same moment Rina yanks her shutter the rest of the way down and shouts his name in Bengali.
 
@@ -343,6 +345,8 @@ Eli looks away first.
 The strait opens and the resort lights thin behind them. Ahead, other boats move without showing much of themselves — fishers, ferries running half schedules, one police launch idling near a buoy with its blue light off. The war has made everyone economical with brightness.
 
 Suresh cuts the engine back as the police launch turns near the buoy. For half a minute they move with barely a wake, the boat ticking under them.
+
+"Covenant patrol," Suresh says under his breath. "Don't stare."
 
 "Movement remembers," he says. "A musician gets paid. A fuel man hears a name. Someone at the chandlery knows which rooms are watched." He brings the engine up one notch. "By morning, five people know too much and none of them know the same thing."
 

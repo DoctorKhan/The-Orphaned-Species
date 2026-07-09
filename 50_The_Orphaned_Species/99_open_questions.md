@@ -20,7 +20,17 @@ Do not solve these by adding more mythology. Solve them by deciding who wants wh
 - **Author assumption:** the present-day trilogy is set in **~2040** (~14 years from drafting baseline).
 - **Reader rule:** **never state the year** in the novel. Infer near future from reopening ports, scarred satellites, lingering emergency law, registry/biosecurity habit, and familiar tech accelerated — not from captions.
 - **Worldbuilding doc:** `23_2040_present_frame.md` — what changed 2026→2040 (war, contained outbreak, psion programs, climate, death technology texture, geography notes, prose markers).
-- **Still open:** exact calendar year of Eli's family attack; bloc names; healer location/name (provisional flesh in `26_present_day_cast_expanded.md`).
+- **Still open:** exact calendar year of Eli's family attack; healer location/name (provisional flesh in `26_present_day_cast_expanded.md`).
+
+## Locked — post-war blocs (~2037+, background only)
+
+| Pole | Official | Street |
+|---|---|---|
+| PPA Americas | **The Continental Union** | *the Union*, *Continental* |
+| East | **The Eastern Mandate** | *the Mandate*, *the East* |
+| Ports / remnant states | **The Free Ports Covenant** | *the Covenant*, *the Ports* |
+
+**Canon doc:** `WORLD_BIBLE.md` §1a. **Forest City** = Covenant gray zone. **Melaka** = Covenant port under uneven reopening. Prologue weaves all three; chapters use one name at a time through documents, checkpoints, or habit.
 
 ## Cast flesh — expanded profiles (`26_present_day_cast_expanded.md`)
 
