@@ -38,7 +38,7 @@ Two rows are not loose analogies but near-identities, and they carry the bridge:
 
 ## Where the elder / younger split lands
 
-The Anunnaki (elder/creator) vs. Igigi (younger/controller) split is the book's moral spine, so the Hebrew/Canaanite names have to mesh with it without forcing. They do:
+The Anunnaki (elder/creator) vs. Igigi (younger/controller) split is the book's moral spine, so the Hebrew/Canaanite names have to **align with it** without forcing. They do:
 
 - **The receding father** — Anu = El = Elyon — sits at the head of the **elder/creator** side. Both Anu and El are famously *otiose*: present at the top, rarely acting. **This is load-bearing for the orphan thread:** a father who has receded is a father who can be *forgotten* — and then *re-invented* (Phase VIII). The Most High humanity later worships is the ghost of the real, withdrawn Anu, reinflated by the orphaned provisioning instinct firing into a vacuum. The invented father is shaped like the real one it half-remembers.
 

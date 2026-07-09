@@ -26,7 +26,7 @@ The mature answer is not anti-romance and not anti-mystery. The answer is:
 
 ## Street romance register — EdgeRunners-like buildup
 
-Use the **emotional grammar** of near-future stories where love lands because ordinary life is scarce — shared meals, a door that locks, a joke that survives the day, a future spoken aloud before anyone has earned it. Do not import plot beats or character types from any specific IP. The register belongs to this pair: Eli (orphan, warm hands, wants belonging) and Wren (handler, reads exits, failed to save someone she loved). **Volume romance stages and proof scenes:** `27_character_development_arcs.md` § Wren.
+Use the **emotional grammar** of near-future stories where love lands because ordinary life is scarce — shared meals, a door that locks, a joke that survives the day, a future spoken aloud before anyone has earned it. Do not import plot beats or character types from any specific IP. The register belongs to this pair: Eli (orphan, **somatic read**, wants belonging) and Wren (handler, reads exits, failed to save someone she loved). **Volume romance stages and proof scenes:** `27_character_development_arcs.md` § Wren.
 
 ### Why this register fits the trilogy
 

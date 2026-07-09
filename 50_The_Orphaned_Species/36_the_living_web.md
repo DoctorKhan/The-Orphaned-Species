@@ -17,7 +17,7 @@
 
 | Deprecated construct | Where it lived | Replaced by |
 |---|---|---|
-| **Memory capsules retrieved from stones** | `36_memory_capsules.md` (now removed) | Clarification of regions of the web, triggered at nodes (§8) |
+| **Memory capsules retrieved from stones** | `36_memory_capsules.md` (now removed) | Clarification of regions of the web, triggered at charged grounds (§8) |
 | **The Seven as a roster of carriers Eli "becomes"** | `37`, the source-map, the spine | **Threads that resolve into people** (§4) — discovered, not numbered or pre-mapped |
 | **Reincarnation / soul-names / past lives in Eli** | earliest model | Nothing — he was never these people; they are *other*, held in the web |
 | **"Resonance braid" as a named device** | the spine docs | Redundant; the web *is* the connection. Drop the term. |
@@ -27,29 +27,29 @@
 
 ## 3. The danger is overload and capture, not possession — LOCKED
 
-**No identity crisis.** Eli does not wonder whether he is the dead, whether node-clarifications are his past lives, or whether the field is replacing him. The practitioners are **encountered at nodes**, clearly **other** — grief and apprenticeship, not plural-self horror. Do not write "am I seven people," "seven strangers wearing *I*," or dissolution as loss of self.
+**No identity crisis.** Eli does not wonder whether he is the dead, whether site clarifications are his past lives, or whether the field is replacing him. The practitioners are **encountered at charged grounds**, clearly **other** — grief and apprenticeship, not plural-self horror. Do not write "am I seven people," "seven strangers wearing *I*," or dissolution as loss of self.
 
 The real dangers:
 
-- **Overload** — breach and nodes can flood sense, body, and attention; TBI makes recovery slow. Scary, disorienting, costly — he stays **Eli**.
+- **Overload** — breach and charged grounds can flood sense, body, and attention; TBI makes recovery slow. Scary, disorienting, costly — he stays **Eli**.
 - **Capture** — factions want him as **container**, registry asset, or weapon. The anti-chosen-one fight is **refusal of ownership**, not sorting selves.
 - **Autopilot** — rattle/surge deposits charge; conditioning tries to **execute a command**. Manual Override = feel the charge, don't complete the act — **not** "which person am I?"
 - **Mistaking witness for mastery** — receiving a thread ≠ owning a culture, a dead person's authority, or a skill tree.
 
-The cure is practice: **clarification without collection** — receive contact, learn apprenticeship, release the thread when it passes. Volume thresholds: Vol I **survives exposure and meets the first node witness**; Vol II holds limits inside relationship and pressure; Vol III clarifies the whole pattern — and the mother-thread — without seizing it.
+The cure is practice: **clarification without collection** — receive contact, learn apprenticeship, release the thread when it passes. Volume thresholds: Vol I **survives exposure and meets the first witness-site contact**; Vol II holds limits inside relationship and pressure; Vol III clarifies the whole pattern — and the mother-thread — without seizing it.
 
-## 3a. Melaka opens the receiver; nodes hold the teachers — LOCKED
+## 3a. Melaka opens the receiver; charged grounds hold the teachers — LOCKED
 
 **Do not download seven lives at the breach.** The Melaka near-death event turns the receiver **on**, not the archive **in**.
 
-| **Melaka breach** | **Nodes (pilgrimage sites, stones, artifacts)** |
+| **Melaka breach** | **Charged grounds (pilgrimage sites, stones, artifacts)** |
 |---|---|
 | Psi plane opens; first sight of the forms | One deep human thread **clarifies** because Eli is **on the ground** at a dense knot |
 | **Sensory overload** + body crash (TBI, hypoxia) — disorienting, not identity horror | A **person** resolves — **other**, visited not inhabited: Ila, Aru, Cuno, etc. |
-| Signature **flares** the grid ("dinner bell") — **hunted from here on** | Factions race him **to the next node**; artifacts name where to go |
-| One ordered shard may surface (three concentric circles) | Full immersion only when node + pressure earns it (`§8`) |
+| Signature **flares** the grid ("dinner bell") — **hunted from here on** | Factions race him **to the next charged ground**; artifacts name where to go |
+| One ordered fragment may surface (three concentric circles) | Full immersion only when charged ground + pressure earns it (`§8`) |
 
-**Between nodes:** occasional echoes or surges — background signal, not a second cast living in his head. **Do not use a "sevenfold signature" or harmonic count on instruments** — that numerology is deprecated. Emrys converges on a **carrier flare** his logs correlate to Maren's suppressed research: the breach event they predicted, not a roster count.
+**Between charged grounds:** occasional echoes or surges — background signal, not a second cast living in his head. **Do not use a "sevenfold signature" or harmonic count on instruments** — that numerology is deprecated. Emrys converges on a **carrier flare** his logs correlate to Maren's suppressed research: the breach event they predicted, not a roster count.
 
 **One-line filter:** *Melaka opens the radio; the stones hold the teachers.*
 
@@ -72,7 +72,7 @@ So every drafted descent survives untouched in content; only the framing changes
 
 ## 6. The cosmology is just deeper web-structure
 
-The gods, the Seven Pairs / bottleneck, the war in heaven, the orphaning, Adapa — these are not a second kind of transmission and need no relay. They are **the vast, faint, oldest structures in the same web**, clarified last because they are deepest and most tangled, and **never resolved whole.** Adapa, the makers, the orphaning arrive as shards *because of their depth on the dial*, not because they pass through Aedan. This:
+The gods, the Seven Pairs / bottleneck, the war in heaven, the orphaning, Adapa — these are not a second kind of transmission and need no relay. They are **the vast, faint, oldest structures in the same web**, clarified last because they are deepest and most tangled, and **never resolved whole.** Adapa, the makers, the orphaning arrive as fragments *because of their depth on the dial*, not because they pass through Aedan. This:
 
 - preserves the lore discipline `05` §11 demands (the cosmology *cannot* arrive as a clean lecture — far structure never fully resolves);
 - lets the deep myth **mislead** sometimes (a half-clarified ancient structure is genuinely ambiguous; preserve readings that contradict Eli's preference);
@@ -91,7 +91,7 @@ Human cultures **already remembered** that certain stones and places **hold spee
 - **Anatolia / Near East** — pillars and **foundation stones** that **receive oath** or **record** what was sworn on the ground where they stand.
 - **Mesopotamian / Gulf memory** — inscribed objects and **foundation deposits** treated as **speaking** to gods or to the land itself.
 
-In the story these tales are usually filed as **metaphor, tourism, or superstition** — until after the breach Eli learns the folk memory was pointing at **real node behavior**: dense regions of the web where human threads **clarify** under attention and pressure. The Ring and national programs **instrument** nodes; ordinary people **tell stories** about them. Both are touching the same substrate.
+In the story these tales are usually filed as **metaphor, tourism, or superstition** — until after the breach Eli learns the folk memory was pointing at **real charged-ground behavior**: dense regions of the web where human threads **clarify** under attention and pressure. The Ring and national programs **instrument** charged grounds; ordinary people **tell stories** about them. Both are touching the same substrate.
 
 **Craft rule:** introduce talking-stone lore **locally** (one culture's name per scene), from **living characters** (growers, sailors, Emrys's footnotes, a shrine keeper) — never as a lecture that "all cultures knew." Effects before etiology: a stone **feels** like it answers before anyone names the mechanism.
 
@@ -99,21 +99,23 @@ In the story these tales are usually filed as **metaphor, tourism, or superstiti
 
 A clarifying scene earns its place only when **both** hold:
 
-1. **Trigger** — Eli is physically at a **node**: a stone, ley-line configuration, buried interface, marked object, or charged site, under present pressure (pursuit, injury, a near-death threshold, a contested location). Nodes are where the web is densest and resolves; no clarification fires from a placard or a calm explanation.
+1. **Trigger** — Eli is physically at a **charged ground**: a stone, ley-line configuration, buried interface, marked object, or charged site, under present pressure (pursuit, injury, a near-death threshold, a contested location). Charged grounds are where the web is densest and resolves; no clarification fires from a placard or a calm explanation.
 2. **Consequence** — what comes clear **changes the route, the pursuit, or a relationship in this scene.** If it only "explains the cosmology," it belongs in the bible (`37`, `00_MASTER_TIMELINE.md`), not the chapter.
 
-Corollaries (inherited from `05` §10–11): no clarification hands him an exact solution — it gives apprenticeship or a shard; deep/ancient threads cost certainty and *should* sometimes mislead; one or two unfamiliar proper terms per scene, role before label; preserve evidence that contradicts his preferred reading.
+Corollaries (inherited from `05` §10–11): no clarification hands him an exact solution — it gives apprenticeship or a fragment; deep/ancient threads cost certainty and *should* sometimes mislead; one or two unfamiliar proper terms per scene, role before label; preserve evidence that contradicts his preferred reading.
 
 ## 9. Disposition of existing material
 
 | Material | File | Disposition under the web model |
 |---|---|---|
 | The historical practitioners' **scene detail** (Aru, Daskar, Ila, Tem, Anthea, Cuno, Lovernios) | `37_deep_time_source.md` | **Retained as content.** Reframe only: they are deep human **threads that resolve**, not carriers Eli becomes. Scene detail stays canonical. |
-| The **drafted Aru descent** | `MANUSCRIPT_v1_archive.md` | Retained. Reframe: a thread clarified to full resolution (§5). Trigger-site anchoring (Göbekli fox-pillar) still works as a node (§8). |
+| The **drafted Aru descent** | `MANUSCRIPT_v1_archive.md` | Retained. Reframe: a thread clarified to full resolution (§5). Trigger-site anchoring (Göbekli fox-pillar) still works as a charged ground (§8). |
 | The **cosmology blocks** (Seven Pairs, war in heaven, Adapa) | `37`, `30_beatsheet_ch09_adapa.md`, `00_MASTER_TIMELINE.md` | Retained. Reframe: deep web-structure clarified late and partially (§6); **delete the Aedan-nesting framing.** |
-| The **chapter mapping / capsule inventory** | `SOURCE_TO_TRILOGY_MAP.md` | Retained as route map. Reframe the "delivery rule" and "capsule inventory" to clarification-at-nodes; strike the lived-life/watched-vision/Aedan columns. |
+| The **chapter mapping / capsule inventory** | `SOURCE_TO_TRILOGY_MAP.md` | Retained as route map. Reframe the "delivery rule" and "capsule inventory" to clarification at charged grounds; strike the lived-life/watched-vision/Aedan columns. |
 | `36_memory_capsules.md` | — | **Removed.** Superseded in full by this doc. |
 
-## 10. Still to reconcile (follow-up pass — track in `99_open_questions.md`)
+## 10. Reconciliation status — LOCKED (2026-07)
 
-The web model is the locked mechanism, but legacy language (memory capsules, carriers, Aedan, resonance braid, lived-life/watched-vision) still appears across ~two dozen files. Until a full sweep runs, **this doc governs**; older files may still carry deprecated terms. Priority targets for the sweep: `37_deep_time_source.md` (status header + Seven framing), `SOURCE_TO_TRILOGY_MAP.md` (delivery rule + inventory), `00_NARRATIVE_STRUCTURE.md` (resonance-braid framing), `31_volume_I_beatsheet.md`, `05_story_architecture.md`, and the glossary.
+The web model is the locked mechanism. A **full vocabulary sweep (2026-07)** replaced software/network jargon across the bible: *protocol, shard, mesh, node* → **keeper way, fragment, harbor net, charged ground / witness site**. **`36` governs**; if an older file still carries deprecated terms, this doc wins.
+
+Priority files already swept: `37`, `SOURCE_TO_TRILOGY_MAP`, `00_NARRATIVE_STRUCTURE`, `31`, `05`, `29`, `95_glossary`, `23`, `33`, `WORLD_BIBLE.md`.

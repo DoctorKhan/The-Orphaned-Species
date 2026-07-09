@@ -46,9 +46,21 @@ One hardware, expressed differently: **dragons & aliens** (Tree of Life, one-Tre
 
 ### Warmth vs. activation
 
-Eli's warm/tingly hands are a **somatic interface symptom**: the carrier hardware idling in the body, felt locally as warmth, pressure, tingling, or a sense of "psi" energy. That warmth is not itself the measurable target.
+Eli's carrier hardware can produce **somatic signatures** in palms and nerves — localized **heat**, **tingling**, **pressure**, a **single pulse**, **cold spots** — felt as interface reads on bodies and nearby biology. These are **not** permanent "warm hands," not healing rays, and **not** the primary hunt target.
 
-What psionics and instruments detect is **activation**: the hardware lighting up when a trigger, surge, artifact, person, or node recruits the system. Activation can register in the **hands** (touch/repair/field-interface) or the **brain/pineal stack** (reception, sight, entrainment, flood). In prose, enemies should not "look for heat" as if tracking a fever. They look for a flare, signature, light-up, or abnormal activation pattern.
+**Working signature map (LOCKED — full table `32_the_warm_hands.md`):**
+
+| Felt signature | Usually indicates |
+|---|---|
+| Localized **heat** | Viral / inflammatory fever pattern |
+| **Tingling** | Bacterial colonization or mild nerve damage |
+| **Pressure** / **single pulse** under palm | Arterial blockage / circulatory choke |
+| **Cold spot** | Depletion, shock, failing perfusion |
+
+Interpretation is learned (Ila, threshold-house protocols, healer depth). Eli has wide **reception**, limited **mastery**. TBI adds tingling noise he must sort from signal.
+
+What psionics and instruments detect is **activation**: the carrier interface lighting up when a trigger, surge, artifact, person, or charged ground recruits the system — a **flare**, signature pattern, or light-up in hands/head/field. Enemies hunt **activation**, not "body warmth."
+
 
 ## 5. Reproductive caste — what the Y bottleneck is, and is not
 
@@ -74,6 +86,6 @@ Why no skeleton reads as "Nephilim": the edge is **subtle non-coding regulatory 
 
 - **Never lectured.** This whole doc is Record-layer floor. In the novel it surfaces only as *felt* experience and as the thing **Emrys measures** — instruments register a signature, a metabolic crash, an entrainment, without explaining the mystery away.
 - **Felt before mechanism.** The reader feels the entrainment (awe, dread, the inability to hold one's own mind) before anyone names theta/gamma. Effects before terminology.
-- **Warmth is not a scanner target.** Warm hands can remain a recurring body fact. Detection language belongs to activation: a flare, signature, light-up, pulse, or field response in the hands/head.
+- **Somatic signatures are not activation.** Felt heat/tingling/pressure in Eli's palms is a **read**, not what Custodians track.
 - **Keep the speculative seam visible.** Where the science is real (electrocytes, cryptochrome, entrainment, reference bias) it can be cited as epigraph or in Emrys's mouth; where it's the tweak (amplified broadcast/read at distance), let it stay mystery, not assertion.
 - **The biology never closes the mystery.** Per `91` §7, the maker never submits to measurement. The hardware predicts; the field behind it does not. Biology explains the antenna, never the signal.

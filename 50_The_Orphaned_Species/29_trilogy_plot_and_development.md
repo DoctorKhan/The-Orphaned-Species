@@ -20,14 +20,14 @@
 | Open mid/late plot (#7–#14) | `99` Priority 2–3 |
 | Macro route + legs | `00_NARRATIVE_STRUCTURE.md` § clue-trail spine |
 | **Pilgrimage pathway & sacred sites** | **this hub § Pilgrimage pathway** |
-| Stone circles / nodes (character treatment) | `00_NARRATIVE_STRUCTURE.md` § stone circles |
+| Stone circles / charged grounds (character treatment) | `00_NARRATIVE_STRUCTURE.md` § stone circles |
 | Climax / mother / grid | `00_NARRATIVE_STRUCTURE.md` § Locked vertical cosmology |
 
 ---
 
 ## Plot engine (one paragraph)
 
-**Motor:** Eli follows a **mother-clue trail** through a **maritime pilgrimage** (Melaka → corridors → South Asia → Anatolia → Europe → Albion) while psion war and the Ring close around him. **Burden:** post-breach web-noise; **named threads clarify at nodes** (legends of talking stones). **Temptation:** amplifier / chosen-one / throne. **External war:** national psion programs + Custodians + Crane's ring. **Positive proof:** native practices spread → grid monopoly worthless → **mother released** (reunion = goodbye) → **coexistence** survives crisis. Eli does **not** win the war; he ends the need for one kind of war.
+**Motor:** Eli follows a **mother-clue trail** through a **maritime pilgrimage** (Melaka → corridors → South Asia → Anatolia → Europe → Albion) while psion war and the Ring close around him. **Burden:** post-breach web-noise; **named threads clarify at charged grounds** (legends of talking stones). **Temptation:** amplifier / chosen-one / throne. **External war:** national psion programs + Custodians + Crane's ring. **Positive proof:** native practices spread → grid monopoly worthless → **mother released** (reunion = goodbye) → **coexistence** survives crisis. Eli does **not** win the war; he ends the need for one kind of war.
 
 **Geography rule:** each leg must **force a decision**, not decorate. Eli knows only the **next testable lead** until Albion late.
 
@@ -41,7 +41,7 @@
 
 | Who | Knows |
 |---|---|
-| **Author / outline** | Full westward braid: Melaka → corridors → South Asia → Mesopotamian **memory leg** → Göbekli → Europe → Albion nodes |
+| **Author / outline** | Full westward braid: Melaka → corridors → South Asia → Mesopotamian **memory leg** → Göbekli → Europe → Albion grounds |
 | **Eli (on page)** | Only the **next clue** — witness, archive, growth anomaly, artifact dispute, broken map coordinate. **Albion** identifiable only when independent evidence agrees **late Vol III** |
 
 Rule (`00_NARRATIVE_STRUCTURE` §6): every leg begins with a **clue**, not a destination briefing. At least one clue is **stale**, one **misread**, one **planted**.
@@ -52,8 +52,8 @@ Rule (`00_NARRATIVE_STRUCTURE` §6): every leg begins with a **clue**, not a des
 PROLOGUE — Maren (suppression face; anywhere)
 
 VOL I — SHATTERING
-  Forest City          … made home; NOT a grid-node
-  → Melaka             … breach; living port; NOT auto grid-node
+  Forest City          … made home; NOT a charged ground
+  → Melaka             … breach; living port; NOT automatically a charged ground
   → Strait / Indian Ocean corridors … ships, archives, boarding
   → (optional) Bali / agricultural stop … growth, local knowledge
   → South Asia rice community … Vol I CLIMAX; Ila thread; NOT Bangladesh
@@ -65,7 +65,7 @@ VOL II — DESCENT
   → Partial Cuno/Derw fragment → Europe
 
 VOL III — CHOICE
-  → Europe … broken/reformed nodes; healer deification; Eli/Wren commitment
+  → Europe … broken/reformed grounds; healer deification; Eli/Wren commitment
   → ALBION (sequence below) … mother tether; chair key; climax
   → Coda … ordinary afternoon; open home
 ```
@@ -78,25 +78,27 @@ Source: `05` §7 table; `00_NARRATIVE_STRUCTURE` § legs 2–7; `31` Vol I detai
 
 | Tier | What it is | Examples | Plot function |
 |---|---|---|---|
-| **A — Formative / living** | Communities, teachers, refuge — **not** ley routing nodes | Philippines (Kali), Bali (subak/gamelan), **Forest City**, childhood Pai/Lani | Body, hearth, belonging; practices **before** cosmology names them |
+| **A — Formative / living** | Communities, teachers, refuge — **not** ley routing grounds | Philippines (Kali), Bali (subak/gamelan), **Forest City**, childhood Pai/Lani | Body, hearth, belonging; practices **before** cosmology names them |
 | **B — Threshold / human crossroads** | Ports, cities, corridors under war pressure | **Melaka**, Singapore archive, maritime boarding | Breach, pursuit, documents, faction collision |
-| **C — Sacred sites / grid interfaces** | Buried or standing **routing nodes** on the ley network; stones **deflect lines inward** to a communicative center | **Göbekli**, **Stonehenge**, **Rollright**, **Men-an-Tol** (+ contested Mesopotamian **memory sites**) | Descents, artifacts, psionic set-pieces, mother tether |
+| **C — Sacred sites / grid interfaces** | Buried or standing **routing grounds** on the ley network; stones **deflect lines inward** to a communicative center | **Göbekli**, **Stonehenge**, **Rollright**, **Men-an-Tol** (+ contested Mesopotamian **memory sites**) | Descents, artifacts, psionic set-pieces, mother tether |
 
-**Wrong move:** treating every named holy place as Tier C. **Forest City and Melaka are not stone-circle nodes.**
+**Wrong move:** treating every named holy place as Tier C. **Forest City and Melaka are not stone-circle grounds.**
 
-**Right move:** the pilgrimage is **clue-driven motion** through Tier A–B while Tier C sites **earn their visit** via artifacts, growth anomalies, broken maps, and war over nodes — not a checklist tour. **Melaka opens the receiver; nodes hold the teachers** (`36` §3a). Local **legends of talking stones** are folk memory of node behavior (`36` §7a) — introduce one culture's name per scene, from living characters, never as a global lecture.
+**Right move:** the pilgrimage is **clue-driven motion** through Tier A–B while Tier C sites **earn their visit** via artifacts, growth anomalies, broken maps, and war over charged grounds — not a checklist tour. **Melaka opens the receiver; charged grounds hold the teachers** (`36` §3a). Local **legends of talking stones** are folk memory of charged-ground behavior (`36` §7a) — introduce one culture's name per scene, from living characters, never as a global lecture.
 
 ---
 
-## Tier C — sacred sites & nodes (canon roles)
+## Tier C — sacred sites & charged grounds (canon roles)
 
-### What a "node" is (plot + cosmology)
+> **Vocabulary:** prefer **charged ground**, **routing site**, or **witness site** over *node* in new prose. Legacy *node* in older notes (deprecated) = a place where lines converge and the web can be read or keyed.
 
-- Standing stones / buried temples = **routing interfaces** on Earth's ley network ("ancient internet").
+### What a charged ground is (plot + cosmology)
+
+- Standing stones / buried temples = **routing interfaces** on Earth's ley network ("old word-routes").
 - They **do not generate** lines; they **deflect** natural lines inward.
 - Lines **break** and **re-form** (war damage, climate, grid relighting) → old maps fail; crop anomalies trace **new** geometry.
 - Each responsive circle/site should feel like a **character** (hum, temperament, riddling) — `00_NARRATIVE_STRUCTURE` § stone circles.
-- Deep-time **clarification** fires at nodes (`36_the_living_web.md`) — Eli clarifies threads **at** the place where they happened.
+- Deep-time **clarification** fires at charged grounds (`36_the_living_web.md`) — Eli clarifies threads **at** the place where they happened.
 
 ### Locked / working site assignments
 
@@ -106,18 +108,18 @@ Source: `05` §7 table; `00_NARRATIVE_STRUCTURE` § legs 2–7; `31` Vol I detai
 | **Göbekli Tepe** | II heart | **Aru** (carver), **Daskar** (burier); fox-pillar | **Buried instrument**; first enormous present↔deep convergence; plaquette snake/tree/bird grammar (`35`) |
 | **Persian Gulf / Eridu–Adapa memory** | II leg | Adapa lacuna; Enki/Ninmah; King List | **Artifact + story leg** — texts, copies, disputes; see **Dilmun** below |
 | **Anatolia (Anthea)** | II | **Anthea** — Bronze Age singer | Sonic/routing; distinct from Wren |
-| **Stonehenge** | III | **Cuno** — bluestone mover; last firing | **Cathedral node**; most powerful, most watched; Cuno→Derw transmission |
-| **Rollright Stones** | III | **Cuno/Derw** chain (Albion); riddling node | Trickster presence; resists measurement; **not** Aru's site (superseded draft) |
+| **Stonehenge** | III | **Cuno** — bluestone mover; last firing | **Cathedral ground**; most powerful, most watched; Cuno→Derw transmission |
+| **Rollright Stones** | III | **Cuno/Derw** chain (Albion); riddling ground | Trickster presence; resists measurement; **not** Aru's site (superseded draft) |
 | **Men-an-Tol** | III | Mother-line threshold | **Holed stone** — infant passage; Eli passed through as baby; bridge made stone; chair rhymes |
-| **British node + chair** | III climax | Mother **tether**; Emrys chair = **key** | Release mother; Two-Tree union act; **not** source of Eli's gift |
+| **Albion ground + chair** | III climax | Mother **tether**; Emrys chair = **key** | Release mother; Two-Tree union act; **not** source of Eli's gift |
 
-**Still open (`99` § Node trigger-sites):** pin **Tem**, full **Ila** node stone, **Lovernios** (Anglesey ↔ Albion), **Aedan** deep arc node, Göbekli **present-day staging** (dig / shrine / military zone).
+**Still open (`99` § Charged-ground triggers):** pin **Tem**, full **Ila** witness stone, **Lovernios** (Anglesey ↔ Albion), **Aedan** deep arc ground, Göbekli **present-day staging** (dig / shrine / military zone).
 
 ### Albion sequence (Vol III — not interchangeable)
 
-Late book **converges** multiple western nodes; order is **dramatic**, not a Grand Tour:
+Late book **converges** multiple western grounds; order is **dramatic**, not a Grand Tour:
 
-1. **Europe** — inconsistent nodes; evidence that lines broke/reformed.
+1. **Europe** — inconsistent grounds; evidence that lines broke/reformed.
 2. **Rollright** — riddling, unreliable read; false certainty punished.
 3. **Stonehenge** — Cuno descent; grid scale; faction convergence.
 4. **Men-an-Tol** — personal threshold; mother's earlier act; body memory.
@@ -151,13 +153,13 @@ In **deep-time / master cosmology** (`00_MASTER_TIMELINE`, `37_deep_time_source`
 DEEP TIME (author bible):
   Dilmun/Eden = nursery memory (Gulf)
   Göbekli     = first buried public instrument (~9600 BCE)
-  Stonehenge  = late cathedral node (~2000 BCE)
+  Stonehenge  = late cathedral ground (~2000 BCE)
   Men-an-Tol  = threshold / bridge stone (personal + network)
 
 PRESENT PLOT (Eli's path):
   Vol I   — Asia maritime; learns lines exist via GROWTH + polarity, not Dilmun
   Vol II  — Mesopotamian ARTIFACTS + Göbekli PHYSICAL NODE
-  Vol III — European broken grid → Albion nodes → release
+  Vol III — European broken grid → Albion grounds → release
 ```
 
 **Dilmun explains why Mesopotamian myth keeps saying "paradise in the east / in the waters"** — it is the **nursery layer** in the iceberg, carried through **story and genetics metaphor**, not a requirement that Eli scuba the Gulf before Göbekli.
@@ -169,10 +171,10 @@ PRESENT PLOT (Eli's path):
 | Name | Understand as… | Present plot access |
 |---|---|---|
 | **Eridu / Adapa** | Wrong-knowledge control technology origin | Tablet lacuna, scholarly fight (`35`) |
-| **Uruk / Inana–Enki me** | Civilization as transferable "software" | Textual; faction interprets registry as modern **me** |
+| **Uruk / Inana–Enki me** | Civilization as transferable knowledge | Textual; faction interprets registry as modern **me** |
 | **Göbekli tree/snake/bird** | Domain split: route / under-guardian / over-guardian | Physical plaquette; Eden reading **demoted** |
 | **Avalon / Tír na nÓg** | **Relocated nursery-memory** (Phase IX west), not Eden itself | Albion **rhyme**, not identity with Dilmun |
-| **Philippines / Bali** | Tier A formative — **never** secret grid nodes | Eli's body and relation vocabulary |
+| **Philippines / Bali** | Tier A formative — **never** secret grid grounds | Eli's body and relation vocabulary |
 
 ---
 
@@ -213,9 +215,9 @@ Each leg owes beats from `22`:
 
 | Volume | Title direction | Dramatic question | Immediate objective | End threshold |
 |---|---|---|---|---|
-| **I · Shattering** | *The Breach* | Can Eli stay clear under pursuit to decide whom to trust? | Verify Melaka clue; survive breach | **Personal Manual Override**; first **node witness** (Ila) |
+| **I · Shattering** | *The Breach* | Can Eli stay clear under pursuit to decide whom to trust? | Verify Melaka clue; survive breach | **Personal Manual Override**; first **witness-site contact** (Ila) |
 | **II · Descent** | *The Descent* | Can Eli pursue truth without turning people into instruments? | Reconstruct damaged clue; reach mother truth | **Relational/collective Manual Override**; mother tether revealed |
-| **III · Choice** | *The Choice* | Can Eli free his mother and oppose Crane without owning the system? | Locate tethered node before rivals activate it | **Coexistence proof**; Two-Tree union act; afternoon coda |
+| **III · Choice** | *The Choice* | Can Eli free his mother and oppose Crane without owning the system? | Locate tethered ground before rivals activate it | **Coexistence proof**; Two-Tree union act; afternoon coda |
 
 **Maturation spine (plot + character):**
 
@@ -230,7 +232,7 @@ Each leg owes beats from `22`:
 | Act | Plot turn | Revelation / cost |
 |---|---|---|
 | **I — Hearth & breach** | Planted song → Melaka; Custodians + Wren light-cross; breach (asphyxia); **overload + hunted** | Lead is bait; can't return to Forest City |
-| **II — Unstable sea** | Archive data; wrong/planted clue; growth anomaly; grounding | Lines break; maps suspect; **first node witness** (Ila midpoint) |
+| **II — Unstable sea** | Archive data; wrong/planted clue; growth anomaly; grounding | Lines break; maps suspect; **first witness site contact** (Ila midpoint) |
 | **III — Growth & choice** | Forming line; Ila stabilization; two teams fight; **choose people over evidence** | Manual Override; community knowledge survives |
 
 **Vol I climax (LOCKED #6):** South Asia rice community — protect people, lose cleanest clue; grower knowledge points onward.
@@ -260,11 +262,11 @@ Each leg owes beats from `22`:
 - Aru vs Daskar: can instrument be redeemed?
 - Anthea chord — sound/polarity/routing.
 
-**Midpoint (LOCKED direction):** mother's **body dead**, spirit **tethered** in western node-network — **no clean address**.
+**Midpoint (LOCKED direction):** mother's **body dead**, spirit **tethered** in western web of charged grounds — **no clean address**. **Maren suppression scene** lands here or immediately before: Eli finally learns **how she was taken** — courteous Ring machinery (clipboards, van, neighbor's light out) in SE Asia keeper/extraction context; harvest v1 prologue tone, rewrite Rahman + geography (`99`).
 
 ### Act III — Göbekli and loss
 - Teams converge on buried interface; old maps fail.
-- Emrys **serious error**; group exposed or node misread.
+- Emrys **serious error**; group exposed or site misread.
 - Eli protects civilians vs chasing captors.
 - Distorted healing stories spread.
 
@@ -290,7 +292,7 @@ Each leg owes beats from `22`:
 **Route:** Europe → **Rollright, Stonehenge, Men-an-Tol** → Albion climax.
 
 ### Act I — The changing map
-- European nodes inconsistent (lines broken/reformed).
+- European grounds inconsistent (lines broken/reformed).
 - Custodians temporarily useful vs third faction.
 - States/firms claim carrier ownership for "safety."
 - Healer deification pressure peaks; *son of a man* → *Son of Man* mutation.
@@ -300,8 +302,8 @@ Each leg owes beats from `22`:
 **Act turn:** Albion identified as likely endpoint.
 
 ### Act II — The mother-source
-- Rollright — riddling node; Men-an-Tol — infant passage memory.
-- **Chair = key** to tethered node (not Eli's source).
+- Rollright — riddling ground; Men-an-Tol — infant passage memory.
+- **Chair = key** to tethered ground (not Eli's source).
 - Grid runs on **tethered souls**; mother's **hope of reunion = chain**.
 
 **Midpoint temptation:** controlling amplifier seems only way to save her.
@@ -344,7 +346,7 @@ Each leg owes beats from `22`:
 ### Psion war escalation
 - Vol I: Custodians as field face; teams contest formations.
 - Vol II: war as policy; Emrys taken; healing rumor.
-- Vol III: factions converge on nodes; psionic battle at stones; **aftermath ≠ battle**.
+- Vol III: factions converge on charged grounds; psionic battle at stones; **aftermath ≠ battle**.
 
 ### Romance plot (parallel spine)
 - I: recognition refused → forced alliance → sanctuary beats.
@@ -353,7 +355,7 @@ Each leg owes beats from `22`:
 
 ### Life / Knowledge discovery (`22`)
 - **Throughout** — not climax dump.
-- I: warm hands, growth detector, registry texture, Three Circles.
+- I: somatic signatures, growth detector, registry texture, Three Circles.
 - II: healer depth, stone routing, Adapa misnaming payoff begins.
 - III: death technology label; Two-Tree union; coexistence as Life+Knowledge public form.
 
@@ -395,7 +397,7 @@ World war + outbreak aftermath
     → Ring + Custodians hunt carriers
       → Eli breach lights signature
         → maritime clue trail
-          → node / line discoveries
+          → charged ground / line discoveries
             → amplifier prize + tethered souls
               → climax: release + spreading fire + coexistence
 ```

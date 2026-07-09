@@ -232,7 +232,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Voice:** low, practical, guilt as dry humor.
 
-**Scene seeds:** cigarette-bucket bribe; warns Mei before handlers reach kitchen; one line when Eli boards: *"I don't carry heroes. I carry rice."*
+**Scene seeds:** cigarette-bucket bribe; warns Mei before handlers reach the compound terrace; one line when Eli boards: *"I don't carry heroes. I carry rice."*
 
 ---
 
@@ -475,7 +475,7 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 
 | Character | Ch | Mask (first read) | Leak (past contradicts) | Drafting note |
 |---|---|---|---|---|
-| **Eli** | 1 | Hard, capable line cook; useless at the garden | In the father's plot he talks to the tomatoes in **Bangla** and hums a tune fragment while failing — competence in heat, shame in soil | Split: mother's gift / father's craft; no naming either |
+| **Eli** | 1 | Hard, capable facilities hand; useless at the garden | In the father's plot he talks to the tomatoes in **Bangla** and hums a tune fragment while failing — competence on live junctions, shame in soil | Split: mother's gift / father's craft; no naming either |
 | **Mei** | 1 | Kitchen commander during rush | Mid-service she makes Eli **taste the sauce** off the spoon — check he ate — then snaps at the pass without dropping command voice | Smaller-kitchen maternal habit before wartime scale |
 | **Suresh** | 2 | *"I don't carry heroes. I carry rice."* | At the stern he hums **four wrong notes**, stops himself, goes flat — Iqbal's tune, never in public | Musician family grief; rice is real job, not whole identity |
 | **Farida** | 2 | Cousin text: practical, scared | Encrypted message includes a photo: **Arif's garden in Dhaka still growing** — home continued without Eli | Lost home heartbeat; Eli can't answer |
@@ -484,7 +484,7 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 | **Jin Pak** | 3 | Fluent mirror; scout charm | Mirrors Eli's accent at the health table, then **slips into his own younger voice** when a scooter backfires — half second, recovers | Scholarship kid, not born spy |
 | **Edda Voss** | 4 | Seer / locker; mystical threat | Before the quay fight she counts breaths on her fingers like **tapping spreadsheet rows** — analyst rhythm, not prayer | Analyst before seer program |
 | **Tomás Reyes** | 4 | Lance; willing violence | One missed strike → footwork reset is **athletic, beautiful** — dock-league or soldier body — then he commits to hurt | Sport/soldier before weapon |
-| **Manong Rico** *(memory)* | 4 | Eli is a cook who learned some stick | Losing Kali: internal half-line — *short steps, don't gift your hip* — body remembers teacher, not prowess | ≤ one line; Philippines culture, not flashback block |
+| **Manong Rico** *(memory)* | 4 | Eli is a worker who learned some stick | Losing Kali: internal half-line — *short steps, don't gift your hip* — body remembers teacher, not prowess | ≤ one line; Philippines culture, not flashback block |
 | **Emrys** | 5–6 | Map-not-territory; measures everything | Bandages Eli's crate-cut with **clinic-tier efficiency**, apologizes to the **bandage roll**, won't hold Eli's shoulder | Touched patients before he only touched instruments |
 | **Sora Vithan** | 8 | Shield; team coherence | During boarding chaos she **shields a civilian**, then touches her own **collar** like checking a wedding band — volunteered for protection, got leash | Conscience crack; Mira wound unspoken |
 | **Rowan** *(seed)* | 8 | Wren's tactical spike | Wren gets coded ping / manifest name / song fragment — face goes flat, types three words, **deletes**, orders real food for Eli like nothing happened | Eli reads fear; reader may read history |
@@ -563,7 +563,7 @@ Most major cast can carry some mix:
 | Central | **Identification / ego diffusion** | Seven bleed feels like *me* — terror of losing boundary, not DID |
 | Grief | **Ambiguous loss** | mother removed, body dead, spirit tethered; hope as wound |
 | Attachment | **Fawn/freeze under authority** | fugitive childhood; competence earns safety |
-| Shame | **Earned-worth wound** | garden failure + line cook = *I belong if I'm needed* |
+| Shame | **Earned-worth wound** | garden failure + facilities wage = *I belong if I'm needed* |
 | Cognition | **Surge misreading** | certainty before proof (Melaka clue because it *rang*) |
 
 ### Wren

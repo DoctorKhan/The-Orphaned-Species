@@ -36,12 +36,12 @@ Do **not** import setting names, factions, chrome brands, or plot beats from tha
 
 | Street / cyberpunk read | Canon element | Drafting note |
 |---|---|---|
-| Cyberware, Sandevistan, forced upgrades | Psionic augmentation, registry programs, amplifier keys, Emrys's chair, node interfaces | Always **mediated** — someone built the interface; someone owns access |
+| Cyberware, Sandevistan, forced upgrades | Psionic augmentation, registry programs, amplifier keys, Emrys's chair, ground interfaces | Always **mediated** — someone built the interface; someone owns access |
 | Arasaka / Militech | Nation-state psion teams, bloc programs, emergency databases | Many-sided conflict; no single villain owns the war. **Blocs (locked):** Continental Union (Americas/PPA), Eastern Mandate (East), Free Ports Covenant (Strait/gray ports) |
 | Ripperdocs, black clinics | Carrier handlers, conscription, illegal activation, outbreak-cover disappearances | Bodily, transactional, shameful or desperate |
 | Cyberpsychosis | Identification with surges/charges; receiver filter breaking under pressure | Horror is **loss of agency**, not colored projectiles |
 | Lucy-shaped escape dream | Forest City, made home, ordinary work and meals | Warm refuge, not dystopia — the anti-Night City |
-| Mother on life support | Mother tethered to Albion node; hope of reunion as chain | Personal climax rhymes with grid mechanics |
+| Mother on life support | Mother tethered to Albion ground; hope of reunion as chain | Personal climax rhymes with grid mechanics |
 | Edgerunner trajectory (live fast, burn out) | Prophecy/liberation faction; chosen-one capture; forced carrier harvest | Offer Eli **short-lived power** that costs the self |
 | Netrunning / ICE | Dream-probes, signature hunts, ley-route contest, psionic invasion | Intimate, disorienting; material consequences on the body |
 | Chrome debt | Registry, conscription, surveillance files, "protection" that owns you | Ground in documents, checkpoints, rent, medicine |
@@ -55,7 +55,7 @@ Do **not** import setting names, factions, chrome brands, or plot beats from tha
 - Reopened cities moving around a wound: uneven shipping, forged papers, quarantine theater, quiet bribes.
 - Pursuit under **procedural stress** — sharper, more observed, less lyrical than Forest City.
 - Rival teams, Custodians, deniable contractors; fights that **lose** before they win (the breach is asphyxia, not prowess).
-- Objects that **look like bootleg firmware** before they look like sacred history: keys, chairs, tablets, node maps, "activation" clinics.
+- Objects that **look like bootleg firmware** before they look like sacred history: keys, chairs, tablets, ground maps, "activation" clinics.
 - Language of **interfaces, installs, keys, harvest, registry** — all credible as street tech until late reframes name them as locks on the Life bridge.
 
 ### Faction pressure as product offers
@@ -103,7 +103,7 @@ Each Seven descent should land as **historical proof** that native road works wi
 
 **Do:**
 
-- Keep Forest City **warm, funny, populated** — robot dog, mall aunties, kitchen crew, father's garden — the Lucy-shaped ordinary life.
+- Keep Forest City **warm, funny, populated** — robot dog, mall aunties, compound workers, terrace cafe, father's garden — the Lucy-shaped ordinary life.
 - Let leaving Forest City **hurt** the way leaving a small safe apartment hurts.
 - Show every "upgrade" offer as **tempting and partly true** — Crane is right about danger; prophecy is seductive; registry feels like care.
 - Name the Eden answer only at maturity: **Knowledge disciplined by life; life protected by knowledge** — not Knowledge replacing Life.
@@ -119,7 +119,7 @@ Extends `05_story_architecture.md` § Manuscript Voice. Same lyrical restraint; 
 | **Forest City** | Warm, funny, socially dense | Food, garden dirt, mall routines, Bengali banter, sail masts at dawn |
 | **Melaka / pursuit** | Sharp, procedural, port-noir | Diesel on river, wet stone, fryer oil, checkpoints, wrong doors, scooter exhaust |
 | **Strait / corridors** | Lean, transactional, maritime | Cargo, quarantine floats, patrol lights, forged chits, working decks |
-| **Psi / breach / descent** | Quiet, strange, bodily | Breath loss, hum, warm hands, charge before name; no lecture |
+| **Psi / breach / descent** | Quiet, strange, bodily | Breath loss, hum, tingling/pressure reads, charge before name; no lecture |
 | **Faction scenes** | Cold institutional or charismatic hot | Clipboards, databases, sermon cadence, "for your own good" |
 
 **Rule:** emotion through **jobs, objects, routes** — stuck fire door, saved phone charger, quarantine cigarette bucket, a mop held too still.
@@ -134,7 +134,7 @@ Before drafting a present-day chapter, confirm:
 2. **Street read** — what would a reader think this is (illegal psion activity, registry chase, smuggling, clinic horror)?
 3. **Wrong explanation available** — who misreads the event confidently?
 4. **Install offer** — does any faction try to buy Eli's body, name, or destiny this chapter?
-5. **Native hint (optional early)** — one detail that will reframe later (warm hands, old stone, growth anomaly) without naming ley lines.
+5. **Native hint (optional early)** — one detail that will reframe later (wrong read in the garden, old stone, growth anomaly) without naming ley lines.
 6. **Cost** — safety, belonging, sleep, trust, or reunion postponed.
 
 If a scene only adds cosmology without pursuit, belonging, or bodily stakes, delay or cut it.
@@ -149,7 +149,7 @@ Vol I should **open EdgeRunners-tight** then widen into history:
 - **Act II (Melaka):** reopening noir; baited witness; losing fight; asphyxia breach; first network touch reads as **street flare**, not cosmology lecture.
 - **Act III (flight / first descent):** pursuit with teeth; Ila differentiation; first proof that reception ≠ mastery.
 
-End state: Eli has **witnessed** a practitioner at a node **as other**, has first Manual Override, and follows the next clue with **no map** — awakened and hunted in a damaged but functioning world.
+End state: Eli has **witnessed** a practitioner at a charged ground **as other**, has first Manual Override, and follows the next clue with **no map** — awakened and hunted in a damaged but functioning world.
 
 See `31_volume_I_beatsheet.md` for chapter cards.
 

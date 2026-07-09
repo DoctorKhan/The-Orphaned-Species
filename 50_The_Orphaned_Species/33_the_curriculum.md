@@ -1,20 +1,20 @@
-# The Curriculum — the Maintenance Protocol (the Ancient Practice)
+# The Curriculum — the Maintenance Practice (the Ancient Way)
 
-*What the lost practice actually was: the generational maintenance protocol that kept the Nephilot caste's gene-activation alive — and the shards the present-day story re-assembles. The **bridge** between the cosmology/biology (`39_psion_biology.md`, the epigenetic-maintenance mechanism) and the **Native Road** companion + the **Seven** (`37_deep_time_source.md`). Companion to `38_psionic_combat.md` and `/00_NARRATIVE_STRUCTURE.md` §3 (the developmental arc).*
+*What the lost practice actually was: the generational maintenance practice that kept the Nephilot caste's gene-activation alive — and the **fragments** the present-day story re-assembles. The **bridge** between the cosmology/biology (`39_psion_biology.md`, the epigenetic-maintenance mechanism) and the **Native Road** companion + the **Seven** (`37_deep_time_source.md`). Companion to `38_psionic_combat.md` and `/00_NARRATIVE_STRUCTURE.md` §3 (the developmental arc).*
 
-> **Why it must be practiced (mechanism in one line; full version in `39`):** activation is **epigenetic**, not a one-time switch. Sustained practice holds the Tree-of-Life genes un-methylated and expressed; stop, and the body resets them to dormant within two or three generations. **The practice is the software that boots the hardware.** Lose the curriculum and you lose the gift while keeping the genes — the **Fall without extinction**; recover the curriculum and you reawaken it — the **present-day engine**.
+> **Why it must be practiced (mechanism in one line; full version in `39`):** activation is **epigenetic**, not a one-time switch. Sustained practice holds the Tree-of-Life genes un-methylated and expressed; stop, and the body resets them to dormant within two or three generations. **The practice boots the genes.** Lose the curriculum and you lose the gift while keeping the genes — the **Fall without extinction**; recover the curriculum and you reawaken it — the **present-day engine**.
 
 ## 1. It was a civilization, not a hobby
 
 The practice was never a private discipline you did for an hour. It was a **total, generational, civilization-scale regimen**, embedded in architecture and in upbringing, run continuously from infancy. That structure is load-bearing:
 
 - **The temples were maintenance machines.** Resonant chambers and stone circles (Göbekli's enclosures, the ringing bluestones, hypogeum-type rooms) were not symbolic — they were **purpose-built apparatus** that tuned the practitioners' bodies. The architecture did part of the work.
-- **The node shared the cost.** Practiced in formation at a **ley node**, the collective drew life-energy from the field, lowering each individual's metabolic bill (`39` §3 — efficiency through place and number). A lone adept could not hold what the circle held.
-- **The lineage was the maintenance.** It passed **elder-to-child, continuously, from infancy**, so the activation never reset between generations. *The teacher-lineage was the protocol.* This is the single point of failure: raze the temples and break the teachers, and one generation later the children have the DNA and not the software. **That is the Fall.**
+- **The charged ground shared the cost.** Practiced in formation at a **ley site**, the collective drew life-energy from the field, lowering each individual's metabolic bill (`39` §3 — efficiency through place and number). A lone adept could not hold what the circle held.
+- **The lineage was the maintenance.** It passed **elder-to-child, continuously, from infancy**, so the activation never reset between generations. *The teacher-lineage was the practice itself.* This is the single point of failure: raze the temples and break the teachers, and one generation later the children have the genes and not the kept way. **That is the Fall.**
 
 ## 2. The seven layers (= the Seven)
 
-The curriculum was layered; each layer is one of the Seven, whose surviving records are the recovered shards of this one protocol. The order is inward → outward (breath → body → other bodies → minds → matter → structure → species) — a developmental sequence, not a menu.
+The curriculum was layered; each layer is one of the Seven, whose surviving records are the recovered **fragments** of this one practice. The order is inward → outward (breath → body → other bodies → minds → matter → structure → species) — a developmental sequence, not a menu.
 
 | Layer | Practice | The Seven |
 |---|---|---|
@@ -23,13 +23,13 @@ The curriculum was layered; each layer is one of the Seven, whose surviving reco
 | **Threshold** — controlled metabolic stress | Supervised extremes — fasting, cold, heat, exertion, sensory deprivation, guided near-death thresholds — to crack the system open | **Daskar** (heat/cold, the body's field) |
 | **Dream** — trance discipline | Sustained altered states keeping the non-local channel exercised | **Tem** (dream-walking) |
 | **The Song** — acoustic resonance | The lost throat-sounds and overtone chant — the phonemes that still *do* something — performed inside resonant architecture | **Anthea** (sonic resonance) |
-| **Geometry** — the collective amplifier | Many practitioners in formation at a ley node; bodies + sound + stone entraining into one coherent field | **Cuno** (collective resonance) |
+| **Geometry** — the collective amplifier | Many practitioners in formation at a **charged ground**; bodies + sound + stone entraining into one coherent field | **Cuno** (collective resonance) |
 | **The Diet / the green mind** — plant-medicine | Specific psychoactive and metabolic dietary regimes, to trigger and to sustain the altered metabolism | **Lovernios** (plant intelligence) |
 | **Transmission** — the load-bearing layer | Elder-to-child from infancy, so activation never resets; the lineage *is* the maintenance | (all; the child-chain) |
 
 ## 3. The efficiency core (the Tao)
 
-The whole protocol is organized around one principle (`39` §3, the efficiency principle): **the cost of connection is a function of efficiency, and perfect efficiency — alignment with the Tao, *wu wei*, non-forcing — minimizes the expenditure.** The curriculum is *how you carry the two-Tree (god-level) demand without becoming an extractor* — the discipline of drawing from the field rather than forcing or harvesting. (Emrys's drafted line is the whole thesis in miniature: *"You can't lift it. You can only stop being so loud that it can't be heard."*)
+The whole practice is organized around one principle (`39` §3, the efficiency principle): **the cost of connection is a function of efficiency, and perfect efficiency — alignment with the Tao, *wu wei*, non-forcing — minimizes the expenditure.** The curriculum is *how you carry the two-Tree (god-level) demand without becoming an extractor* — the discipline of drawing from the field rather than forcing or harvesting. (Emrys's drafted line is the whole thesis in miniature: *"You can't lift it. You can only stop being so loud that it can't be heard."*)
 
 This is the fork the trilogy turns on:
 
@@ -38,11 +38,11 @@ This is the fork the trilogy turns on:
 
 ## 4. The present-day re-assembly (the plot)
 
-Because the genes were only silenced, the architecture lies dormant in billions. The story is the characters **re-assembling the lost curriculum from shards** — the Seven's records, the stones, the Song, the medicine — and reactivating. And Eli has been doing pieces of it by accident his whole life:
+Because the genes were only silenced, the architecture lies dormant in billions. The story is the characters **re-assembling the lost curriculum from fragments** — the Seven's records, the stones, the Song, the medicine — and reactivating. And Eli has been doing pieces of it by accident his whole life:
 
 | Fragment in Eli's life | Curriculum layer |
 |---|---|
-| The fire / the warm hands | Threshold / metabolic (heat) |
+| The fire / somatic signatures | Threshold / diagnostic read (heat, tingling, pressure) |
 | The tune his mother hummed | The Song (acoustic) |
 | The Kali (footwork, breath, range) | Breath / coherence (and discipline) |
 | The Pai bitter cup | The Diet (plant-medicine) |
@@ -54,5 +54,5 @@ He is a half-trained adept who never knew there was a curriculum. Part of his ar
 ## 5. Bridge & discipline
 
 - **To the companions.** The recovered curriculum *is* the content of the **Native Road** and **Consciousness Technologies** companion books (Layer 2). The novel **dramatizes** it as fragments re-found under pressure; the companions lay it out as a usable path. Per `05` §"The Living Way," the novel never stops to teach it — *if a passage doesn't create a choice, cost, or relationship change in the scene, it belongs in the companion layer.*
-- **Never lectured; always re-assembled.** On the page the curriculum surfaces only as practice under pressure and as the slow recognition that the shards are one thing. No character delivers the syllabus.
-- **Temples are apparatus, not scenery.** Whenever a megalith or temple appears, it can *do* something to the body — maintenance hardware, not a heritage backdrop.
+- **Never lectured; always re-assembled.** On the page the curriculum surfaces only as practice under pressure and as the slow recognition that the fragments are one thing. No character delivers the syllabus.
+- **Temples are apparatus, not scenery.** Whenever a megalith or temple appears, it can *do* something to the body — maintenance architecture, not a heritage backdrop.

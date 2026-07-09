@@ -17,7 +17,7 @@ Do not ask one concept to perform every job:
 | Function | Story element | Question it creates |
 |---|---|---|
 | **Motor** | Eli tries to protect ordinary life, home, and belonging while following the mother clue that threatens them | Can he find meaning and safety without letting a state, faction, lover, parent, prophecy, or archive define what he is? |
-| **Burden** | Overload after breach; node witnesses; factions want him as **container** | Can he witness without owning — and refuse capture? |
+| **Burden** | Overload after breach; witness-site contacts; factions want him as **container** | Can he witness without owning — and refuse capture? |
 | **Temptation** | He may be able to control the amplifier and network | Will he become the necessary ruler every faction claims the world needs? |
 | **External conflict** | Countries and irregular groups wage a psionic war | Can anyone remain free when consciousness itself becomes military infrastructure? |
 
@@ -41,7 +41,7 @@ The trilogy should speak directly to contemporary loneliness, housing precarity,
 Use three recurring forms of home:
 
 - **Lost home:** Bangladesh, family, father, mother, language, food, danger, exile, political tension, and the unfinished life Eli was forced to leave. Arif Rahman's political commitments there entangled with the Ring's hunt and forced flight; he was killed during extraction, not on a scene young Eli can reliably narrate — so Bangladesh stays **living culture and unreturnable danger**, not only a grave. It should remain emotionally alive but not simply recoverable; return may be unsafe, legally impossible, politically dangerous, or personally unbearable.
-- **Made home:** Forest City, home of Network School and its entrepreneur/builders: ordinary work shifts, training mornings, beaches, sailboats, coconut palms, waterparks, light-up butterflies, children's train, a plaza robot dog, automatic chess games, mall walks, shopowners, kids, pizza after shift, meals, Bengali-speaking workers, privacy norms, neighbors, and the fragile refuge that lets anomalous people remain accountable without becoming public property. The tone should be warm, tropical, odd, and lived-in rather than cold or dystopian. Forest City is not paradise; it is a wartime safety pocket where broken people can function for a while, shown through ordinary ruptures like the pizzamaker freezing mid-task and being quietly carried by the meal system. The robot dog should recur as an odd symbolic domestic machine: pet/guard/toy/surveillance at once, obeying a route without understanding the life around it. Eli does not need to share the builders' ideology to be affected by the fact that people around him are trying to build something instead of only survive. His day-job is **line cook** (the hard, hot, capable shell — knife-work redeploying his Kali; the dinner-rush overload is where his TBI breaks); his private core is **his dead father's garden, tended badly** (his Bangladeshi gardener father's craft, which Eli tries to carry and is *not as good* at — the book's spine, reception without mastery, made intimate). Bengali speech around the mall/kitchen should make his father's lost home present without making Forest City a simple replacement for Bangladesh. The kitchen/supply network is where the opening clue reaches him (the witness; see `99_open_questions.md` #1), so leaving costs him the kitchen crew, the people he feeds, the beaches/sailboats, the garden, the mall recognizers, and the people who expect him tomorrow, not only abstract safety. The decision should include a real almost-stay beat: bag unpacked, travel warnings visible, ordinary promises made and broken. Incidental seamanship remains a secondary skill for the maritime leg.
+- **Made home:** Forest City, home of Network School and its entrepreneur/builders: ordinary work shifts, training mornings, beaches, sailboats, coconut palms, waterparks, light-up butterflies, children's train, a plaza robot dog, automatic chess games, mall walks, shopowners, kids, pizza after shift, meals, Bengali-speaking workers, privacy norms, neighbors, and the fragile refuge that lets anomalous people remain accountable without becoming public property. The tone should be warm, tropical, odd, and lived-in rather than cold or dystopian. Forest City is not paradise; it is a wartime safety pocket where broken people can function for a while, shown through ordinary ruptures like the pizzamaker freezing mid-task and being quietly carried by the meal system. The robot dog should recur as an odd symbolic domestic machine: pet/guard/toy/surveillance at once, obeying a route without understanding the life around it. Eli does not need to share the builders' ideology to be affected by the fact that people around him are trying to build something instead of only survive. His day-job is **facilities worker at the Network School compound** (platform wage; **Arif's friendship with Babaji** got him placement, not money — the Friday demo overload is where his TBI breaks); his private core is **his dead father's garden, tended badly** (his Bangladeshi gardener father's craft, which Eli tries to carry and is *not as good* at — the book's spine, reception without mastery, made intimate). Bengali speech around the mall/terrace should make his father's lost home present without making Forest City a simple replacement for Bangladesh. The compound/port network is where the opening clue reaches him (the witness; see `99_open_questions.md` #1), so leaving costs him the compound crew, Mei's terrace, the beaches/sailboats, the garden, the mall recognizers, and the people who expect him tomorrow, not only abstract safety. The decision should include a real almost-stay beat: bag unpacked, travel warnings visible, ordinary promises made and broken. Incidental seamanship remains a secondary skill for the maritime leg.
 - **Mature home:** the final mixed community where ordinary and anomalous beings share risk, law, care, work, limits, disagreement, and play without kneeling, burning, caging, or turning anyone into destiny.
 
 Meaning should emerge from belonging and conduct, not from cosmic status. Eli's deepest question is not "Who am I secretly?" but "Where can I live truthfully, with others, without being owned?"
@@ -61,7 +61,7 @@ The answer must not be simple anti-authoritarianism. The trilogy needs adult pol
 | **1. Constructive freedom** | **Eli** | Power must be shared through consent, practice, limits, and ordinary accountability. No one owns the field. | He must prove freedom can protect civilians without becoming vague, passive, or messianic. |
 | **2. Destructive control** | **Crane** | Psions and anomalous beings are too dangerous to remain unregistered; containment and command are necessary. | He is right about danger and wrong that danger justifies ownership. |
 | **3. Destructive freedom** | **Prophecy/liberation faction** | Burn the registries, unleash awakening, follow the chosen one, reject limits and accountability. | This is Eli's own anti-ownership instinct corrupted into charisma, chaos, and future violence. |
-| **4. Constructive control** | **Wren / Forest City / ethical regulator** | Freedom needs form: boundaries, triage, consent protocols, defense, law, and consequences for harm. | This corner attacks Eli's vagueness and gives Wren an objective beyond protecting him. |
+| **4. Constructive control** | **Wren / Forest City / ethical regulator** | Freedom needs form: boundaries, triage, consent practices, defense, law, and consequences for harm. | This corner attacks Eli's vagueness and gives Wren an objective beyond protecting him. |
 
 This structure should create multi-party friction:
 
@@ -135,7 +135,7 @@ Every arrow needs to appear as consequence on the page. If ley lines do not alte
 
 The anti-entropic source is not a finite battery. Costs arise at the embodied and relational interface:
 
-- sensory overload and slow recovery (TBI, post-node crash);
+- sensory overload and slow recovery (TBI, post-contact crash);
 - **Block** and forced autopilot (loss of agency, not loss of self);
 - limits of attention, biological stability, sleep, and concentration;
 - exposure of a psionic signature;
@@ -253,7 +253,7 @@ Crane's error is his conclusion: because risk exists, consciousness must be regi
 Eli's answer must be operational rather than rhetorical:
 
 - informed consent;
-- **witness without ownership** (node contact ≠ authority or mastery);
+- **witness without ownership** (witness-site contact ≠ authority or mastery);
 - transparent, limited, accountable coordination;
 - privacy and the right not to register;
 - the right to leave a psion group;
@@ -326,7 +326,7 @@ Use the **Volume** labels as dramatic movements and the reveal-order document's 
 
 | Volume | Plot movement | Internal movement | External movement | Ending change |
 |---|---|---|---|---|
-| **I — Shattering** | Hearth, breach, pursuit, unstable alliance, first verified record | Overload → first node witness | Forest City → Melaka and maritime Asia → South Asia | Eli has **met** a practitioner as other, refuses capture, and voluntarily follows the next clue |
+| **I — Shattering** | Hearth, breach, pursuit, unstable alliance, first verified record | Overload → first witness-site contact | Forest City → Melaka and maritime Asia → South Asia | Eli has **met** a practitioner as other, refuses capture, and voluntarily follows the next clue |
 | **II — Descent** | Reconstruction, competing loyalties, mother-reveal, loss of the guide | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
 | **III — Choice** | Convergence, temptation, release, refusal of ownership | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and helps a mixed ordinary/anomalous community survive beyond the emergency without claiming the wider war is over |
 
@@ -343,7 +343,7 @@ The artifacts are a distributed evidence chain, not a museum heist or fixed chec
 | Make domestication morally double | **Enkidu/Shamhat domestication witness** | Wildness, food, sex, grooming, clothing, speech, and city life become an argument over whether civilization is rescue, corruption, education, seduction, or capture |
 | Recover the suppressed relation | **Arslan Tash Amulet 1** and its disputed covenant reading invoking ʿOlam, Asherah, El's sons, and the council | A custodian's story disrupts father-only theology; authenticity and translation disputes give Wren or another character interpretive agency outside Eli and Emrys |
 | Reveal labor and reset propaganda | **Atrahasis / Eridu Flood material** | Creation, labor revolt, and catastrophe appear as layered stories rather than one clean origin account |
-| Focus the ownership race | **Tablet of Destinies claims or fragments** | Factions mistake authority records for a master key; the protagonists must determine whether they are reading a charter, routing protocol, ritual copy, or propaganda |
+| Focus the ownership race | **Tablet of Destinies claims or fragments** | Factions mistake authority records for a master key; the protagonists must determine whether they are reading a charter, routing charter, ritual copy, or propaganda |
 | Reconcile divine names without flattening them | **Ugaritic council records** | Repeated offices become visible across traditions while local gods and stories retain their differences |
 | Turn cosmology into route | **Babylonian Map of the World**, later compared with live ley data | A mythic edge or missing region yields a testable next move only when the old map is treated as incomplete |
 | Carry the chain west | **Verified European sky-object** and **Cuno–Derw marked object** | Portable geometry and lossy story converge on Albion without giving anyone a complete manual |
@@ -392,7 +392,7 @@ The table records likely accumulations in the existing plot, not a lesson schedu
 
 | Volume | Cumulative movement | Likely lessons—move as plot requires | Existing plot expression |
 |---|---|---|---|
-| **I — Shattering** | **Return to the body under overload.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to recover after breach and node contact — **not** to solve "who am I?" Forest City demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
+| **I — Shattering** | **Return to the body under overload.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to recover after breach and witness-site contact — **not** to solve "who am I?" Forest City demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
 | **II — Descent** | **Move from self-regulation into relation, care, and limits.** Practices become recognizable across cultures without becoming interchangeable. | 1: be true, not right; 4: kindness when hard; 10: stillness and listening; 11: forgive without rehiring harm; 12: tend living things | The healer's consent and refusal establish that service is not conscription. Eli learns from breath, touch, sound, plant intelligence, and the Seven without claiming mastery or cultural ownership. Conflicting witnesses force truth-seeking over doctrinal certainty. |
 | **III — Choice** | **Release possession and transmit without founding another cage.** The Way becomes political and generational. | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Eli frees his mother by surrendering reunion, loves Wren without destiny or ownership, refuses both Crane's throne and annihilation, and distributes practices so no institution or bloodline can monopolize them. The final coalition becomes a durable mixed community with reciprocal accountability and no permanent command. |
 
@@ -416,7 +416,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 #### Act I — Hearth and breach
 
-- Optional Maren Das prologue establishes the suppression method.
+- Vol I opens **Preamble → Eli**; **Maren suppression scene** lands in **Vol II** when Eli learns how she was taken (not a Book I prologue).
 - Open in Forest City ordinary life, not childhood exposition or cosmology: work shift, money/status pressure, training morning, sailboats, food, privacy norms, and the fragile refuge Eli chose.
 - The man's morning martial-arts practice and the sailboats are present-tense hearth details, not only memory.
 - A planted song played by a live band in the Forest City restaurant points to one narrow Melaka clue connected to his mother; nobody knows the child's face or name, so recognition itself becomes the filter.
@@ -479,14 +479,14 @@ This is also the publishing boundary. The novel gives readers **experience and p
 - Aru and Daskar disagree about whether the instrument can be redeemed.
 - Anthea's chord links sound, polarity, and routing without becoming a universal key.
 
-**Midpoint revelation:** Eli's mother's body is dead, but something of her is tethered somewhere in the western node-network. There is no usable address.
+**Midpoint revelation:** Eli's mother's body is dead, but something of her is tethered somewhere in the western web of charged grounds. There is no usable address. **Maren suppression scene** (how she was taken — Ring machinery, SE Asia keeper/extraction context) lands here or immediately before; see `99`.
 
 #### Act III — Göbekli and loss
 
 - Competing teams converge on the buried interface.
 - Old maps fail; current growth or polarity supplies the viable route.
 - The protagonists reconstruct stone deflection under physical and psionic attack.
-- Emrys's serious error exposes the group or misidentifies the node.
+- Emrys's serious error exposes the group or misidentifies the ground.
 - A crisis forces Eli to protect civilians or companions rather than chase Emrys's captors.
 - The first distorted healing stories travel farther than the healer does, attracting desperate families, opportunists, and institutional attention ahead of Volume III.
 
@@ -498,11 +498,11 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Dramatic question:** Can Eli free his mother and oppose Crane without becoming the next owner of the system?
 
-**Immediate objective:** locate the tethered node before rival teams activate, destroy, or nationalize it.
+**Immediate objective:** locate the tethered ground before rival teams activate, destroy, or nationalize it.
 
 #### Act I — The changing map
 
-- European nodes answer inconsistently because lines have broken and reformed.
+- European grounds answer inconsistently because lines have broken and reformed.
 - The recurring rival team becomes temporarily useful against another faction.
 - Competing states, firms, and factions each claim the right to own carriers for public safety, exposing civilization as rival occupants of the same vacant god-office.
 - Pilgrims and media fragments begin treating the healer as divine proof. Asked whether he is a son of a god, he answers, "No. I am the son of a man." Some listeners later turn the refusal into the title "Son of Man," demonstrating myth forming against its subject's will.
@@ -514,9 +514,9 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 #### Act II — The mother-source
 
-- Rollright provides the riddling, unreliable node.
+- Rollright provides the riddling, unreliable ground.
 - Men-an-Tol reveals the mother's earlier action without declaring Britain Eli's true home.
-- The chair is discovered as a key to the tethered node, not the source of Eli's ability.
+- The chair is discovered as a key to the tethered ground, not the source of Eli's ability.
 - Cuno's last firing reveals communication at a stone center, but his record remains lossy.
 - Eli learns that the grid runs through tethered souls and that his mother's hope of reunion is her chain.
 
@@ -588,14 +588,14 @@ This schedule is a decision ledger, not a curriculum. The reader-facing reveal o
 | 3 | Plant growth is tracing something real | Volume I Act II | The group risks an agricultural investigation |
 | 4 | Lines break and leave opposed ends | Volume I late | Old maps become suspect |
 | 5 | Crop formations are new lines, not imposed messages | Volume I climax | Protecting the living field matters more than possessing a symbol |
-| 6 | First practitioner met **as other** at a **node** | Volume I midpoint | Witness + grief; apprenticeship without ownership |
+| 6 | First practitioner met **as other** at a **charged ground** | Volume I midpoint | Witness + grief; apprenticeship without ownership |
 | 7 | Eli can hold a charge without letting autopilot complete the rule | Volume I end / Volume II threshold | He becomes strong enough to enter deeper relational, historical, and psionic pressure without being merely steered by it |
 | 8 | Stones route rather than generate energy | Volume II | Buried and intact sites acquire different tactical meanings |
 | 9 | A witnessed healing exceeds ordinary expectation; the healer asks for secrecy | Volume II | Protecting his identity and finite capacity becomes a route constraint, not a humility performance |
 | 10 | Historical factions weaponized the same human vulnerabilities | Volume II | Eli stops seeking a morally pure ancestral authority |
 | 11 | His mother is dead in body and tethered somewhere west | Volume II midpoint | Search becomes release rather than rescue fantasy |
 | 12 | The group can hold charged fear together without becoming a command hierarchy | Volume II end | They become strong enough for the public civilizational test: coexistence under scrutiny, attack, rumor, and institutional pressure |
-| 13 | A circle center permits communication | Volume II end / Volume III | Factions converge on operational nodes |
+| 13 | A circle center permits communication | Volume II end / Volume III | Factions converge on operational grounds |
 | 14 | Modern technologies have been external rehearsals of capacities now returning in living beings | Volume III early | The group repurposes instruments from detection and classification toward translation, consent, and coordination |
 | 15 | Dragons and other magical/evolved beings are real participants, not symbols or monsters | Volume III | The coexistence test becomes concrete rather than abstract |
 | 16 | The beings humans called Titans/Anunnaki were themselves dragon-serving drone-workers, and humans were made/adapted as sub-drones | Volume III | The group understands the robot/workforce analogy as species history, not metaphor |

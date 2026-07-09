@@ -176,7 +176,7 @@ Discoveries and pressures:
 - Wren's independent objective conflicts with Eli's trail.
 - The healer rises and is nearly deified.
 - Courtly intrigue, registries, factions, and prophecy pressure intensify.
-- Ancient stories reveal role-assignment, bread, usefulness, civilization as transferable software, and the limit of compassion by assigned function.
+- Ancient stories reveal role-assignment, bread, usefulness, civilization as transferable knowledge, and the limit of compassion by assigned function.
 - The "humans as managed workforce" idea emerges.
 - The group learns to remain coherent together under charged fear rather than becoming a command hierarchy.
 
@@ -273,7 +273,7 @@ Layer this doc's emotional ladder onto that spine:
 
 | Emotional movement (`17`) | Life/Knowledge discovery (`22`) |
 |---|---|
-| Something wrong with Eli's body | Life effects first — warm hands, breach, growth, healing |
+| Something wrong with Eli's body | Life effects first — somatic reads, breach, growth, healing |
 | Something wrong with society | Knowledge lane exposed — registry, registry-as-care, wrong explanations |
 | Something wrong with history | Seven practices — Life road fragments; artifacts as contested tech |
 | Something wrong with gods | Split engineered — interfaces, extraction, Adapa refusal |

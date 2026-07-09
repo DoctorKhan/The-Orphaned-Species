@@ -108,7 +108,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Immediate want:** Eli wants to finish an ordinary harbor/maintenance shift and keep his head down after a reopening rumor about Melaka.
 
-**Adventure object:** a laminated work rota, a sealed medical-access terminal, a boat key, and a privacy protocol everyone treats as boring.
+**Adventure object:** a laminated work rota, a sealed medical-access terminal, a boat key, and a privacy routine everyone treats as boring.
 
 **Rule learned:** accountable coordination protects people without total disclosure. Forest City works because no single office has the whole person.
 
@@ -248,7 +248,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Theme carried:** myth as contested memory, not proof.
 
-### 10. Göbekli / buried interface: the dead node
+### 10. Göbekli / buried interface: the dead site
 
 **Immediate want:** reach or reconstruct a stone arrangement while Crane controls the obvious site.
 
@@ -256,7 +256,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Rule learned:** stones redirect living conductors; burial can decommission an interface.
 
-**Trick:** old maps lead a pursuing team to a dead node. Living observations point elsewhere.
+**Trick:** old maps lead a pursuing team to a dead site. Living observations point elsewhere.
 
 **Reversal:** Emrys's measurement is correct but his interpretation is wrong. He trusts the map over the territory.
 

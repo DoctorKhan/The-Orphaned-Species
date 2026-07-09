@@ -22,8 +22,8 @@ In this canon, **life technology** is:
 
 | Layer | What it is | How it appears in story |
 |---|---|---|
-| **Medium** | Anti-entropic psi / life-energy — the field souls use to maintain and affect biology (`34` §1) | Warm hands, impossible growth, healing that costs the healer, network hum, release of tether |
-| **Conductor** | Earth's ley-line network — native, unowned (`00_MASTER_TIMELINE`) | Stone routes, monitored boundaries, crop anomalies, node behavior under war damage |
+| **Medium** | Anti-entropic psi / life-energy — the field souls use to maintain and affect biology (`34` §1) | Somatic signature-reads, impossible growth, healing that costs the healer, network hum, release of tether |
+| **Conductor** | Earth's ley-line network — native, unowned (`00_MASTER_TIMELINE`) | Stone routes, monitored boundaries, crop anomalies, charged-ground behavior under war damage |
 | **Practice** | Native road — breath, resonance, healing touch, discrimination, *wu wei* efficiency (`33`, `34` §6) | Seven's independent roads; Eli's Manual Override; healer's depth |
 | **Bridge** | Tree of Life — direct connection across the entropic subset (`34` §2–3) | First sight, undeceivability, mind-to-mind check against source |
 
@@ -35,7 +35,7 @@ In this canon, **life technology** is:
 
 It is a **clock of death**: everything it models runs down, decays, and can be falsified in transmission. That is not evil — it is **accurate within the entropic subset**. The tragedy is when it is mistaken for the **whole** of knowing, or when it is used to **bar, sell, or misname** the Life bridge.
 
-**Terminology rule:** Do **not** call ordinary tech "death technology" on-page until **late** (Vol II–III). Early prose says *technology, instruments, data, registry, chair, equations* — the name lands when the Two Trees split is finally visible. Same for **life technology** as a label: show warm hands and native road first; name sparingly.
+**Terminology rule:** Do **not** call ordinary tech "death technology" on-page until **late** (Vol II–III). Early prose says *technology, instruments, data, registry, chair, equations* — the name lands when the Two Trees split is finally visible. Same for **life technology** as a label: show **signature-reads** and native road first; name sparingly.
 
 **Wrong framing (split Trees):**
 
@@ -59,7 +59,7 @@ The old order **split the Trees on purpose**:
 - **Tree of Knowledge** (symbol, speech, transmitted report) — kept available but **unripe** or monopolized; in physics, **death technology** (equations in entropic time).
 - **Tree of Life** (direct connection, bridge, anti-entropic participation) — **barred** via locks, interfaces, and false teaching.
 
-Humans were left on the entropic plane with **only mediated knowing** — the deceivable species. The gods' **interfaces** (orbital structure, stone nodes, amplifier) let *them* play the grid; extraction paid their two-Tree cost.
+Humans were left on the entropic plane with **only mediated knowing** — the deceivable species. The gods' **interfaces** (orbital structure, charged grounds, amplifier) let *them* play the grid; extraction paid their two-Tree cost.
 
 ### Adapa payoff — bread and water of "death"
 
@@ -105,11 +105,11 @@ Discovery runs on **two rails** that must both advance every volume:
 
 Present plot discovers **effects** of the field under wartime pressure:
 
-- warm hands, growth anomalies, monitored boundaries;
+- somatic signatures, growth anomalies, monitored boundaries;
 - psion combat as invasion of attention and biology;
 - healer whose gift exceeds Eli's;
 - artifacts mistaken for grid keys;
-- chair/node as **interface**, not source;
+- chair/site as **interface**, not source;
 - mother tether as **life-energy harvest**;
 - spreading practices making the amplifier worthless.
 
@@ -134,7 +134,7 @@ Eli **clarifies** the web; he does not "unlock levels." Each clarification shoul
 - mother's research encoded in symbols and measure;
 - registries, archives, broken satellites, computers, border systems;
 - Cuno's geometry as **arrangement you can test**;
-- science, falsifiers, consent protocols — accountable knowing.
+- science, falsifiers, consent practices — accountable knowing.
 
 If a volume only adds Life-mystery without entropic-plane tools, it rebuilds **Life without Knowledge**. If it only adds tech-as-control without native connection, it stays **Adapa's trap**.
 
@@ -148,7 +148,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 **Life beats (minimum):**
 
-- warm hands / mother's gift idling in Eli's body;
+- somatic signatures / mother's gift idling in Eli's body;
 - first sight at breach; network chord "held across distance by stones";
 - Ila descent → first frightened stabilization (practice, not power tier);
 - impossible growth or boundary sense (optional early hook per `17` §2).
@@ -168,7 +168,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 - healer's depth vs Eli's reception-without-mastery;
 - Tem / corridor / South Asia practices — breath, touch, route;
-- Göbekli / Aru — conductor vs **built interface**; burial decommissions node;
+- Göbekli / Aru — conductor vs **built interface**; burial decommissions the site;
 - Adapa beat — **wrong knowledge** talks someone out of the bridge;
 - relational coherence under psionic pressure (group holds without hierarchy).
 
@@ -176,7 +176,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 - mother-reveal: dead in body, tethered west — **official knowledge true at one level**;
 - registries, prophecy, courtly intrigue as role-assignment;
-- civilization-as-software; managed workforce emerging;
+- civilization-as-carried-knowledge; managed workforce emerging;
 - Wren/Eli conflict = care vs control (Knowledge used to manage Life).
 
 **Reader end state:** *The machine is an interface; native roads worked before it; the split was policy, not physics.*
@@ -186,7 +186,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 **Life beats (minimum):**
 
 - Cuno / Lovernios / Albion — geometry, transmission, living lines;
-- mother tether understood as **life-energy chain**; release frees soul and darkens node;
+- mother tether understood as **life-energy chain**; release frees soul and darkens the ground;
 - spreading fire — practices ungovernable;
 - coexistence proof — anomalous presence at an ordinary meal.
 
@@ -207,10 +207,10 @@ A chapter **counts** toward this spine if it includes at least one of:
 
 1. **Felt effect** — body, plant, stone, dream, or room behaves in a way that implies the field (no glossary yet).
 2. **Partial practice** — breath, stillness, touch, geometry, song, or override that **works once** under cost.
-3. **Contested object** — artifact, node, chair, tablet, crop pattern — fought over because it **does something**.
+3. **Contested object** — artifact, charged ground, chair, tablet, crop pattern — fought over because it **does something**.
 4. **Wrong name** — faction or character confidently mislabels a Life effect as registry/prophecy, or a Knowledge tool as mere control.
 5. **Split exposed** — scene shows Knowledge used to **bar, sell, or manage** Life, or Life offered **without** consent/test.
-6. **Joining gesture** — someone pairs accountability with care (healer's limit; Wren's protocol; Emrys's measure after contact).
+6. **Joining gesture** — someone pairs accountability with care (healer's limit; Wren's harbor discipline; Emrys's measure after contact).
 
 If a chapter only explains cosmology without effect, practice, object, or cost — **delay or rewrite**.
 
@@ -220,7 +220,7 @@ If a chapter only explains cosmology without effect, practice, object, or cost �
 
 | When | Allow | Withhold |
 |---|---|---|
-| **Vol I** | warm hands, flare, hum, circles, signature, grid ( vague ) | Tree of Life, anti-entropic, ley line lecture, Anunnaki dump |
+| **Vol I** | somatic reads, flare, hum, circles, signature, grid ( vague ) | Tree of Life, anti-entropic, ley line lecture, Anunnaki dump |
 | **Vol II** | conductor, interface, native road, tether, practice names | **death technology**, **life technology** as labels; full Two Trees sermon |
 | **Vol III** | Tree of Life, Tree of Knowledge, reunification **in action**; optional late name **death technology** on-page once | abstract Eden essay; victory speech |
 
@@ -248,7 +248,7 @@ Prefer **images before terms**: bread refused, bridge barred, circles, fork, sto
 Native anti-entropic participation — what the Seven proved without the machine:
 
 - bridge/contact across the planes;
-- warm hands, collective geometry, *wu wei* efficiency;
+- somatic reads, collective geometry, *wu wei* efficiency;
 - release of tether (letting go, not grasping);
 - discrimination of real transmission vs manipulation **felt** before named.
 
@@ -267,13 +267,13 @@ Not soul-harvest necromancy — the **same clock** Adapa trusted when he heard *
 
 | Life technology | Death technology |
 |---|---|
-| reaches the mother across the bridge | chair + stones + geometry **key** the node |
+| reaches the mother across the bridge | chair + stones + geometry **key** the ground |
 | holds collective coherence | mother's equations + Emrys's measures **locate** the tether |
 | releases attachment — frees her spirit | accountable knowing of **why** reunion prolongs the chain |
 | native road fires through bodies, sound, warmth | instruments discriminate real signal vs psion forgery |
 | spreading fire — practices ungovernable | tech repurposed from classification → translation, consent, documentation |
 
-**Reader feel:** *Both trees at once* — the cool power-up — but the **move is release and transmission**, not ownership. One node darkens; the monopoly loses its battery; the fire catches elsewhere. Afterward the Adapa parable **clicks**: he refused life because death's clock told him life was death.
+**Reader feel:** *Both trees at once* — the cool power-up — but the **move is release and transmission**, not ownership. One ground darkens; the monopoly loses its battery; the fire catches elsewhere. Afterward the Adapa parable **clicks**: he refused life because death's clock told him life was death.
 
 ### Guardrails for the power-up
 

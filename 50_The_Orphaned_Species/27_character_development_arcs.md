@@ -33,14 +33,14 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 ### Starting state (Vol I open)
 
 - **Closed, hunted, alone** — competent at survival, **child at being loved** (development arrested by crash + flight).
-- Treats body as obstacle; tries to **earn safety by usefulness** (line cook shell, garden failure as shame).
+- Treats body as obstacle; tries to **earn safety by usefulness** (compound facilities shell, garden failure as shame).
 - Surges mistaken for destiny; grief routed through mother-clue.
 
 ### Seven-stage perceptual development (`15` — overlapping, not linear)
 
 | Stage | Vol I | Vol II | Vol III |
 |---|---|---|---|
-| 1. Overload / survival | **Dominant** — breach body crash, hunted | Recurs after nodes | Managed habit |
+| 1. Overload / survival | **Dominant** — breach body crash, hunted | Recurs after witness sites | Managed habit |
 | 2. Rattle / contact | First grounding / register-reading | Deliberate entry to descents | Discriminates contact vs command |
 | 3. Charge / pain | Learns it repeats if obeyed | Relation without obeying | Teaches others to hold charge |
 | 4. Relation | Breath, inner ring with Emrys | Healer care vs conscription | Collective geometry without hierarchy |
@@ -63,7 +63,7 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 ### Volume beats (proof scenes)
 
 **Vol I**
-- Open: garden fails; warm hands work — reception without mastery.
+- Open: garden fails; **somatic read** misfires in soil — reception without mastery.
 - Breach: near-death; Seven = catastrophe not power.
 - End: Thila climax — **choose people, lose clean evidence**; personal Manual Override.
 

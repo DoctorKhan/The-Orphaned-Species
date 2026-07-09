@@ -4,39 +4,27 @@
 
 ## Preamble
 
-In the midst of a neverending conflict in the Middle East, the Strait of Hormuz was blocked and the oil embargo hardened around the wound. Then the AI bubble burst. The paper future it had sold went with it. 
+It began with a severing of arteries. When the neverending conflict in the Middle East forced the closure of the Strait of Hormuz, the oil embargo hardened around the wound. But the old world was too interdependent to survive a localized choke. Deprived of the energy and rare-earth chains the AI economy had been burning through, the bubble burst in a cascading failure — the paper future and the physical one failing together.
 
-The beginning of a worldwide depression was all it took to elect the first woman president. Not everyone was happy about it. They said the election was rigged. The violence that ensued was eventually put down, but a schism had formed in the country, one which could not be easily healed.
+The depression that followed elected the first woman president into a hollowed empire. The working classes — exhausted by decades of extraction and stranded when the paper burned — were already primed to fracture. What broke was not only an election but a class severance: those who had built the fortresses and those who had been ordered to live inside them no longer shared the same reality. Recovery programs could not reverse that rot.
 
-Her administration flooded the country with programs, but ultimately, it was simply not enough to heal the world. The war widened until it swallowed everything. Cornered nations loosed a gene drive virus which was used to target a certain genotype. Although everyone was infected, only those who carried the genotype would have symptoms severe enough to die. Nobody in East Asia had the genotype, but half of South Asians did. Millions died at once, Bangladesh and India first and worst. Those who survived were left changed, passing on those changes to their children. 
+The wars widened until they swallowed everything. Cornered nations loosed a weapon built on a real lever — a Neanderthal haplotype, the one that nearly skipped East Asia. It was meant as state control: an artificial bottleneck, turning the host's own biology against itself where the marker sat. Everyone was touched; millions died at once where the marker was common — Bangladesh and India first and worst, half their people carrying it. East Asia had nearly skipped the marker; the East watched the worst of it from a distance. Those who survived passed the alteration down, and the weapon's legacy would not stay where governments had aimed it.
 
-The war was over, just as they had predicted. However, the world began to reorganize itself into three distinct groups. The Eastern Mandate was the relatively unscathed group of countries. They quickly consolidated power.
+When the fires thinned, the world sorted into three habits of survival — not three new empires so much as three ways of meeting collapse. The Eastern Mandate endured through scale: bruised, brutal, still standing, already stiff with the problem coming next. In the Americas, the Party welded the fracture into the Continental Union — registries, walls, force — a brittle machine that looked strong because it had no spare parts left. And where capitals had burned, the Free Ports Covenant learned what merchants learn when palaces fall: there is no single throne to defend, only harbors, routes, and the willingness to trade with whoever still moves goods. The great networks had failed together, as interdependent things do when embargo, plague, fire, and famine arrive in one lifetime; what kept moving were the ports, not the palaces.
 
-Out of the schism that remained of the United States, the People's Party of the Americas rose, eventually expanding to form the Continental Union as a totalitarian regime.
+Then puberty came for everyone's children — and the bottleneck's second cost.
 
-Those that remained of the largely unstable and now decimated nations of South Asia formed the Free Ports Covenant which was meant to enable some form of free trade.
+Adolescence broke differently. Hormones opened a door the war had already cracked in the genome: fever, stillness, visions that looked like madness from outside. The episodes could last days, sometimes weeks. The Union answered with containment wards — sedation, inhibitors, baseline enforced; survivors who would not normalize were medicated, monitored, and quietly excised as the Fractured. The Mandate answered with corridors and cure. Along the broken lanes, the Free Ports built threshold houses instead — above markets and docks, part clinic, part retreat, part echo of the old vision quest, where no palace script could follow and knowledge passed harbor to harbor like trade goods. What the states had designed as a lock became something they could not monopolize: a shared way of guiding a nervous system through the storm — songs, hands, proximity, the old rhythm of keeping someone alive while the fever ran — passed harbor to harbor like any other trade good, not a cure, but communal grounding. The Union hunted it as violation; the Mandate framed it as disease; the Covenant integrated it. Not all who entered came back able to live among the living. Those who did returned with a second sight that never fully switched off — waking life threaded with contact, tune, heat, the sense of being addressed. In that contact, the living web — which had slept through the long rigid cage — began to stir again from the bottom of the world upward.
 
-The world was rebuilding. Then adolescence began to break differently. At puberty, some children crossed a threshold their bodies had no name for — fever, stillness, visions that looked like madness from the outside. Hormones opened a door the war had already cracked in the genome. The episodes could last days, sometimes weeks. Families fed them, bathed them, and sat with them until the fit passed or didn’t.
+The harbors reopened unevenly — half-built resort-ports and water cities where families lived in towers the brochures never mentioned, where compound workers signed each other off shift and terrace cafés kept three languages in the steam. Satellites still lied some nights; registries outlived the emergencies that bore them; the giants would learn, in time, to hunt the children whose episodes lit the grid. But what kept moving along the broken lanes was smaller and harder to monopolize: a song passed hand to hand, a meal left without being asked, a neighbor who noticed when you forgot the day. Not safety. Not innocence. Only the stubborn mercy of people who had decided to treat one another as worth keeping alive.
 
-When the numbers grew, communities built threshold houses — part clinic, part retreat, part echo of the old vision quest. Not everyone who entered came back able to live among the living. Those who did often returned with a second sight that never fully switched off, the waking life mixed with something else. In that contact, the living web — which had slept through the long cage — began to stir again.
+In the gray corridors between the giants, survivors still looked for their mothers — and for the songs that might still lead them home.
+
+These were their stories.
 
 ## Chapter One — The Hour That Belongs to No One
 
-Eli wakes to the sound of tropical birds — and for the breath before the day claims him, he is Maren's son again, before the tower and the registry and the long silence remind him she is gone. Then he is only Eli, and Eli crosses the plaza with the water key in one hand and the hose over his shoulder. Halfway across, something comes out from under the shade sails behind him.
-
-Small feet. Hard feet. Too even for a person trying to be quiet.
-
-He keeps walking for six steps and listens to it follow. Click, click, click on the tile. The plaza is empty except for the chess boards under their awnings, the closed cafe, and the dark glass of the lobby reflecting him back too thin.
-
-Then the thing stops when he stops.
-
-Eli turns.
-
-The robot dog raises its square head, cameras adjusting with a soft little tick, as if it has solved him and found the answer disappointing. Eli lets out the breath he had not meant to hold and pats the warm plastic between its cameras.
-
-"Morning, Inspector."
-
-It leans into his hand with borrowed affection, then remembers the route someone wrote into it and trots on.
+Eli wakes to the sound of tropical birds — and for the breath before the day claims him, he is Maren's son again, before the tower and the registry and the long silence remind him she is gone. Then he is only Eli, and Eli crosses the plaza with the water key in one hand and the hose over his shoulder.
 
 Under the shade sails, the chess boards are already playing their little wars. One clicks a knight into ruin. Eli moves the black queen one square.
 
@@ -52,25 +40,29 @@ By the time he reaches the ninth-floor garden, his shirt is damp and the first w
 
 The seedlings have come up pale again. He pinches one off at the base and rolls the stem between his fingers. Too thin. He lays it on the concrete lip with the others and works down the row on his knees, checking each one by feel.
 
-The soil is damp. His hands are warm in it.
+The soil is damp. When he closes his fingers around a stem his palms prickle — the useless read his mother had, not his father's — and tell him nothing about what the plant needs.
 
 His father did this part with his eyes shut. Eli tries it with his eyes shut. The plants still come up pale and stop.
 
-A generator catches somewhere below. Out past the rail the other towers stand black and half-built against the sky, and beyond them the water, going out. He can smell mud and frying oil and the sweet rot under the coconut palms. Two men are already in the trees by the promenade, knocking coconuts down into a net while a third stands below and tells everyone not to die in Bengali.
+A generator catches somewhere below. Beyond the rail the water goes out flat and grey. He can smell mud and frying oil and the sweet rot under the coconut palms. Two men are already in the trees by the promenade, knocking coconuts down into a net while a third stands below and tells everyone not to die in Bengali.
 
-Forest City is quiet only at this hour. The reopened resort-port is still half unfinished, half refuge. Later the Network School people will come out with laptops and wet hair, talking companies and countries and the thing they are all building here. The waterparks will start their pumps. The children's train will make its bright useless loop. At night the light-up butterflies will blink in the palms as if the place has decided to be magical by committee. Eli likes it best before it begins. He likes the beach empty. He likes the racing sailboats waiting beyond the marina wall, their masts ticking softly in the dark.
+Forest City is quiet only at this hour. The reopened resort-port is still half unfinished, half refuge. Later the Network School people will come out with laptops and wet hair, talking companies and countries and the thing they are all building here when the corridor satellite is in range. The waterparks will start their pumps. The children's train will make its bright useless loop. At night the light-up butterflies will blink in the palms as if the place has decided to be magical by committee. Eli likes it best before it begins. He likes the beach empty. He likes the racing sailboats waiting beyond the marina wall, their masts ticking softly in the dark.
+
+Past the rail the other towers stand black and half-open — families on poured concrete, laundry lines between scaffold poles, children who have no wage ticket and no old man who owes their father a favour. Eli has no money and no country. He has a key to the water and a plot on nine and a job because Arif knew Babaji before the hunt. That is luck, not merit, and most mornings the view reminds him before the pitch decks start.
 
 He's humming before he notices. Three notes, then four, the small turn of it — the song his mother used to hum in the garden when she thought he was asleep. He stops, because stopping is the only way he has left to hear her.
 
-Down in the kitchen the first burner lights with a thump.
+Down in the compound the first generator catches with a cough.
 
 ---
 
 He goes down.
 
-The steel is still wet and the crates are stacked where Suresh's supply boat left them in the night. Eli ties on, takes down his knife, and starts on the long beans. Mince. Flat of the blade. A clean cut through a chilli spine. Over the blade his mind goes quiet, the way it does over the blade and in the dirt and nowhere else.
+The Network School block is still half scaffold and half dream — glass that never arrived, a lobby full of cable drums, whiteboards bolted to raw concrete. Eli resets the plaza robot dog on its morning route, patches the fire door on the loading bay Mei uses for crates, and runs a test line for the terrace uplink before the founders wake up with their laptops and their countries.
 
-Mei comes in and turns on the lights he wasn't using. "You sleep up there now?"
+Over a junction box his mind goes quiet, the way it does over a clean splice and in the dirt and nowhere else.
+
+Priya, who runs facilities scheduling, finds him on the ladder. "You slept up there again?"
 
 "I supervise tomatoes."
 
@@ -78,27 +70,23 @@ Mei comes in and turns on the lights he wasn't using. "You sleep up there now?"
 
 "Not in a language I have."
 
-"Good. Then they are smarter than customers."
+"Good. Then file a ticket." She taps the tablet — platform wage, no bonus, no equity, the ordinary pay of a man who fixes things while other people pitch universes. Babaji's name got him the job and the garden plot on nine; it did not buy him a room with a view or a share in anything they are building. When she signs him off each shift, the same thought returns: *you shouldn't still be here, and you are.* He never says it out loud. People hear boasting, or they hear someone who hasn't learned yet how fast luck runs out.
 
-She ties up the night's chits and runs a finger down the list the committee sends, the one that says who eats free this week. She crosses off two names. Adds one. The list is fair. He has worked in enough places where nothing was, and he doesn't say so, because Mei would only look at him.
-
-Tio drags the gas in and sets it down too hard, and Mei tells him what she'll do to him if he cracks another regulator. The old man who fishes brings a bucket to the door and sits beside it and waits to be left alone, which is the whole of his wage.
+He carries a crate of routers to the terrace level for Mei. Tio is already at the wok below the awning. The old man who fishes brings a bucket to the cafe door and sits beside it and waits to be left alone, which is the whole of his wage.
 
 On slow days before shift, Eli walks the mall by obligation more than habit. Rina with the phone cases sees him from three shops away and lifts a brick in both hands, meaning her fire door has slipped again. He fixes it without being asked. Most of the workers speak Bengali when they are tired or annoyed, and Eli speaks enough to make Rina laugh when she calls him a late son of a broken hinge.
 
-Mrs. Dutta's daughters wait between the mannequins with their school socks falling down. Mina asks if England has ghosts. Lopa asks if the robot dog is his personal friend. When Eli says the robot dog has many clients, both girls laugh so hard Mrs. Dutta comes out with pins in her mouth and tells them not to encourage him.
+Mrs. Dutta's daughters wait between the mannequins with their school socks falling down. Mina asks if England has ghosts. Lopa asks if the chess boards cheat. When Eli says the boards cheat everyone equally, both girls laugh so hard Mrs. Dutta comes out with pins in her mouth and tells them not to encourage him.
 
 At the pizza place, Nico slides the burned slices into Eli's hands because "staff food is a philosophy." Then, one week, Nico stops in the middle of stretching dough and cannot remember what day it is. After that Mei puts him on the free-meal list without asking permission from anyone.
 
-Forest City is not safe because nothing breaks here. It is safe because when something breaks, someone notices.
+Forest City is not safe because nothing breaks here. It is safe because when something breaks, someone notices. Eli is reminded of that every day — in Nico's burned slice, in Mei's free-meal list, in the way Rina saves him a charger because she expects him tomorrow. Stateless boys with head wounds usually wash up in a hold or a camp. He washed up where people would miss him if he stopped showing up.
 
-Then the doors open, and the rest of the burners go up, and the hour Eli can stand inside is over.
+Then the founders come down with wet hair and open laptops, and the terrace fills with English and Mandarin and the rehearsed optimism of people who think a corridor satellite makes them immortal, and the hour Eli can stand inside is over.
 
-For a while he's good in it. The wok throws heat up at him and he takes it without thinking, because thinking is what breaks you here. He can hold the pan a beat longer than makes sense and pull it off the flame with his bare hand, and on the line that's all it is, a trick, the cook who doesn't flinch.
+For a while he's good in it. He can hold a live junction without flinching when the heat climbs, can reset a breaker with bare fingers and have it read as competence, not strangeness — the facilities hand who doesn't burn. Priya sends him three tickets at once. A demo screen loops the pitch deck. Someone's assistant wants Malay, then Mandarin, then a language the translation bot fails on and Mei has anyway, as if she keeps spares under the till. Slack pings stack on phones in the terrace cafe. Two more founders need the uplink before Eli can close the panel he opened.
 
-The orders come faster. Mei calls them, chalks them, calls them again. Malay, then Mandarin, then a man at the counter wants something in a language nobody has and Mei has anyway, as if she keeps spares under the till. The bell goes. Tio swears at a lid. Two more tickets land before Eli can plate the first.
-
-On the terrace a band starts up for the dinner crowd: two guitars and a drum box, bright shirts, borrowed amplifiers. The reopening committee pays for music now on Fridays, as if a song can prove a place is alive again. Outside the pass window the robot dog pauses by the terrace steps, camera head tilted toward the players. Then it keeps going.
+On the terrace a band starts up for the reopening showcase: two guitars and a drum box, bright shirts, borrowed amplifiers. The committee pays for music on Fridays, as if a song can prove a place is alive again.
 
 At first the music is only another layer of noise.
 
@@ -110,35 +98,35 @@ His mother in the garden. His mother at a sink. His mother humming with her mout
 
 Then the words go empty.
 
-Mei calls an order and it reaches him as sound and nothing else. He looks up and her face is there, a face he has worked beside for a year, and for a second it will not go together into anyone he knows. The floor tips. He looks down at the pan in his hand and cannot say what is in it.
+Priya calls a ticket number and it reaches him as sound and nothing else. He looks up and her face is there, a face he has worked beside for a year, and for a second it will not go together into anyone he knows. The ladder tips in his inner ear. He looks down at the cable in his hand and cannot say what it connects.
 
-The hands keep going. That is the trick the blade taught him years ago, on another island, from a man who is also gone now: let the hands work and stand behind them and wait. They know the wok. They turn it, plate it, set it up on the pass, and he comes back to himself somewhere around the next ticket, sweating, with the pass full and Mei watching him in a way she has never watched him before.
+The hands keep going. That is the trick the sticks taught him years ago, on another island, from a man who is also gone now: let the hands work and stand behind them and wait. They know the splice. They crimp, tie, coil, and he comes back to himself somewhere around the next ticket, sweating, with Priya watching him in a way she has never watched him before.
 
-Outside the pass window a drummer from the terrace band has stepped off the stage. He is not looking at the crowd. He is looking at the kitchen.
+Outside the awning a drummer from the terrace band has stepped off the stage. He is not looking at the crowd. He is looking at the compound.
 
 The guitar keeps finding the four notes, over and over in the set, the way a man might knock on a door until someone opened it.
 
-Mei sees Eli see the drummer. Her face does not change. She calls the next ticket louder.
+Mei sees Eli see the drummer. Her face does not change. She calls the next order louder.
 
 ---
 
-By the time the last order clears, the floor is a wreck and the terrace has gone quiet. Tio hoses it down while Eli mops the prep side, moving through the familiar aftermath as if motion alone could keep the song from settling under his ribs.
+By the time the demo thins out, the terrace is littered with cups and the founders have gone back to their screens. Eli coils cable on the service side, moving through the familiar aftermath as if motion alone could keep the song from settling under his ribs.
 
 Suresh comes in to settle the week, supplier and boatman and fixer when something has to move through a port without becoming paperwork. He counts out the chits with Mei at the till, low, the two of them bent over the money, and Eli is not listening because he is never listening. It is how he gets through a room.
 
-Then a few words cross the kitchen and catch in him like a hook.
+Then a few words cross the terrace and catch in him like a hook.
 
 The English woman. Her song.
 
-He stops mopping.
+He stops coiling.
 
 Suresh has felt it. He does not turn around. He keeps his voice down and his eyes on Mei, like a man who has decided the boy can hear the thing but will not be handed it.
 
-"Somebody paid that band," he says to her. "They weren't here for Friday music. They were watching the room." Mei has gone still. "There's a man in Melaka asking after the English woman. By name. Says he's got something of hers, and he'll only put it in the right hands." He sets his cap on the counter. "There. I've carried it. I'm square. I came to you because they brought the song into the restaurant. Do what you want with it."
+"Somebody paid that band," he says to her. "They weren't here for Friday music. They were watching the room." Mei has gone still. "There's a man in Melaka asking after the English woman. By name. Says he's got something of hers, and he'll only put it in the right hands." He sets his cap on the counter. "There. I've carried it. I'm square. I came to you because they brought the song into the terrace. Do what you want with it."
 
-Mei doesn't answer for a moment. Then she turns and looks across the kitchen at Eli, who is standing very still with the mop in his hands, and her face shuts like a door.
+Mei doesn't answer for a moment. Then she turns and looks across the cafe at Eli, who is standing very still with a coil of cable in his hands, and her face shuts like a door.
 
-"Leave it." She says it to him, not to Suresh. "No one brings a song into your workplace after this long to do you a favour. You've got a place here. A door that locks. People who'd stand in front of you." She holds his eyes. "That's more than most."
+"Leave it." She says it to him, not to Suresh. "No one brings a song into your workplace after this long to do you a favour. You've got a place here. A door that locks. People who'd stand in front of you." She holds his eyes. "That's more than most — and you know it."
 
 His mother has been dead ten years.
 
@@ -150,7 +138,7 @@ Mei doesn't move. "You don't even know what's in it."
 
 "Then don't go."
 
-He looks at the water through the open door, dark beyond the kitchen lights. His hands are warm on the handle of the mop, always warm, and for once he does not hate the useless thing in him. It is what walked him here.
+He looks at the water through the open door, dark beyond the terrace lights. His palms tingle on the cable — the mother's useless read, not a flare yet — and for once he does not hate it. It is what walked him here.
 
 Mei locks the till. The click is small and final.
 
@@ -168,27 +156,23 @@ Its doors stand open onto a lit room. He assumes a showroom — the resort sold 
 
 Not a store. A long table, a kettle, four men who look up as one.
 
-For a breath they are exactly what the world has taught him to fear: broad, quiet, the kind of still that comes from having decided things about people. Then the oldest sets his cup down and smiles like a man surprised by a child in his kitchen.
+For a breath they are exactly what the world has taught him to fear: broad, quiet, the kind of still that comes from having decided things about people. Then the oldest sets his cup down and smiles like a man surprised by a child in his workshop.
 
 "Come in, boy. The door was open. You came in, so you came in."
 
 They are not the registry. They carry none of the careful cold of men who keep lists. They are something older and softer and possibly more dangerous, the way a cliff is.
 
-He should leave. His hands are warm — the useless thing in him stirring, the way it does before a door that matters. He stays.
+He should leave. A pressure builds under his palms — the useless read stirring before a door that matters. He stays.
 
 The young one pours tea without being asked. "You're his," he says, not a question, the way you name the owner of a dog.
 
 Eli does not know who *his* is. He says nothing.
 
-"The old man's," the oldest clarifies, amused. "On the island. He sends the quiet ones. You don't look quiet."
+"Arif's," the oldest clarifies, amused. "The gardener. You have his shoulders. Your father and the old man were friends before any of this — before the towers, before the war. He planted for Babaji on the island when Babaji was still young enough to climb." A beat. "Arif sent nothing but a name before he died. No money. You know that part already."
 
-"I'm not sent," Eli says. "I came in for the car."
+"I know," Eli says.
 
-They find this funnier than it should be. The old one nods at the wine-dark car through the open door. "That? He bought it off a prince who lost everything. Parked it here fifteen years and never drove it once. Says the island is the only road he needs." A beat. "You really don't know him."
-
-"I don't."
-
-"Then you're lost," the old one says. "Or the old man's luck. They call me Babaji here — not that Balaji the world's still chasing, the one on every screen with his cities that don't exist yet. That one's a rumour with a bank account. I'm the one who kept this place standing." He sips. "He collects the lost ones. That's why it stands — because he decided it should."
+"Then you're not lost," the old one says. "You're late. They call me Babaji here — not that Balaji the world's still chasing, the one on every screen with his cities that don't exist yet. That one's a rumour with a bank account. I'm the one who kept this place standing." He sips. "He collects the lost ones. That's why it stands — because he decided it should. Your father asked me to find you room when the net broke. I gave you work, not a wallet."
 
 He looks at Eli plainly. "You're carrying something. Or something's carrying you. Either way, you walk under my name now. The registries are all hunting a Balaji — a face on a feed, half a world away. They'll never find a Babaji. Use it at the wrong door and the wrong men go looking in the wrong city. Don't waste it."
 
@@ -200,27 +184,27 @@ The old one's eyes sharpen, then soften. "Everyone who matters in this strait kn
 
 ## Chapter Two — Something of Hers
 
-In the morning the children's train starts its bright useless loop and the waterparks cough their pumps awake. Eli is in the garden pinching pale seedlings when his phone buzzes once — Suresh, no text, only a location pin at the marina and three words: *tide tonight. ask me then.*
+In the morning the children's train starts its bright useless loop and the waterparks cough their pumps awake. Eli is in the garden pinching pale seedlings when his phone buzzes once — Suresh, no text, only a location pin at the marina that loads slow, three bars and then nothing, then three words when the relay catches: *tide tonight. ask me then.*
 
-He does not go to the marina. He goes down to prep.
+He does not go to the marina. He goes down to the compound service bay.
 
-Mei has the burners lit and Tio is already on the wok. The steel is wet. The crates from Suresh's night run are still stacked by the door. Eli ties on, takes down his knife, and starts on the long beans. Mince. Flat of the blade. A clean cut through a chilli spine. Over the blade his mind goes quiet.
+Priya has the uplink panel open and Tio is already hauling crates for Mei on the terrace. The night run from Suresh's boat is still stacked by the loading bay. Eli resets a breaker, tags two dead access points, and starts on the cable Mei asked for.
 
-By ten the mall is open and the robot dog is on its route, head down, head up, cameras ticking at nothing. Rina calls down from her shutter that she saved him the charger with the long cord. Mina and Lopa wave from the tailor's. Kiran texts from the sail shed: *you skipping sticks?* Eli types *work* and does not look up again until the terrace band starts tuning for the lunch crowd — two guitars, a drum box, the same dock boys as Friday.
+By ten the mall is open. Rina calls down from her shutter that she saved him the charger with the long cord — the long one, for when the tower relay drops and everyone's phone dies at once. Mina and Lopa wave from the tailor's. Kiran's text from the sail shed arrives a minute late: *you skipping sticks?* Eli types *work* and does not look up again until the terrace band starts tuning for the lunch crowd — two guitars, a drum box, the same dock boys as Friday.
 
 Mei's face does not change when she hears the first four notes. Eli's does.
 
-His hands go warm on the knife handle. The floor tips. He comes back on the next ticket with the pass full and Mei watching him the way she watched him last night — like a woman doing math she hates.
+His palms go sharp with tingling on the crimp tool. The ladder tips in his inner ear. He comes back on the next ticket with Priya watching him the way she watched him last night — like a woman doing math she hates.
 
-"Out back," she says, low, without turning from the pass. "Now."
+"Out back," Mei says from the terrace rail, low, without turning from the pass. "Now."
 
 He doesn't ask why. He moves.
 
-Through the service corridor, past the grease trap and the staff toilet, into the alley where the resort's real life happens — laundry cages, broken pallets, a man sleeping upright against a generator housing. Eli is three steps into the sun when the kitchen door behind him opens and men's voices follow, flat and procedural.
+Through the service corridor, past the grease trap and the staff toilet, into the alley where the resort's real life happens — laundry cages, broken pallets, a man sleeping upright against a generator housing. Eli is three steps into the sun when the terrace door behind him opens and men's voices follow, flat and procedural.
 
 White coats. Clipboards. The wrong kind of fever check.
 
-"—registry discrepancy in the food-service cohort—"
+"—registry discrepancy in the facility cohort—"
 
 "—Covenant health authority—"
 
@@ -230,9 +214,11 @@ Mei, louder: "We're in service. You want lunch, you buy lunch."
 
 Eli runs.
 
-Not because he has decided anything. Because the alley opens onto the promenade and the promenade is where the Covenant pretends the war is a theme park, and if he stops he will put Mei's kitchen on a list.
+Not because he has decided anything. Because the alley opens onto the promenade and the promenade is where the Covenant pretends the war is a theme park, and if he stops he will put Mei's terrace on a list.
 
-The robot dog crosses his path and pauses, cameras adjusting with that soft little tick, as if it has solved him and found the answer disappointing. He vaults the chess boards under the shade sails — a knight clicks into ruin — and hits the mall entrance at the same moment Rina yanks her shutter the rest of the way down and shouts his name in Bengali.
+The robot dog crosses his path on its morning route — head down, head up, cameras adjusting with that soft little tick, as if it has solved him and found the answer disappointing. Eli almost pats the warm plastic out of habit. Then he sees the white coats behind him and the green light on the dog's chest blink once, filing.
+
+He vaults the chess boards under the shade sails — a knight clicks into ruin — and hits the mall entrance at the same moment Rina yanks her shutter the rest of the way down and shouts his name in Bengali.
 
 "Roof stairs! Go!"
 
@@ -244,11 +230,11 @@ On the third floor Kiran is already dragging a tandem rental out of the bike cag
 
 "What—"
 
-"Mei texted the group. White coats at your door." Kiran swings his leg over the front saddle. "You know that song? The one you stopped humming in the garden? They played it again downstairs. Someone saw your face."
+"Mei got the compound list while the keepers' net still held. White coats at your door." Kiran swings his leg over the front saddle. "You know that song? The one you stopped humming in the garden? They played it again downstairs. Someone saw your face."
 
 Eli gets on the back seat. The frame wobbles. Kiran pushes off hard.
 
-They fly down the ramp into the plaza — past Nico's counter, past the pizza ovens, past Mina and Lopa shrieking with delight as if this is a game — and cut along the promenade toward the waterparks. Behind them, scooters. Not tourists. Two men in white coats, one riding, one hanging off the back with a tablet.
+They fly down the ramp into the plaza — past Nico's counter, past the pizza ovens, past Mina and Lopa shrieking with delight as if this is a game — and cut along the promenade toward the waterparks. Behind them, scooters. Not tourists. Two men in white coats, one riding, one hanging off the back with a tablet that keeps losing the map and reacquiring it in chunks.
 
 "Left," Eli says. "Marina."
 
@@ -270,7 +256,7 @@ The children's train is coming around the bend on its bright useless circuit, be
 
 They ride one full circuit with the white coats running parallel on the outside rail, losing ground on the curves, gaining on the straights. At the loading platform Eli and Kiran roll off while the attendant is still yelling and sprint for the service road that drops to the marina wall.
 
-Eli's lungs burn. His bag is still upstairs. His knife is still on the prep table. He has Babaji's name if a door asks for it, and his mother's song under his ribs, and nothing else.
+Eli's lungs burn. His bag is still upstairs. His tool roll is still in the service bay. Twelve hours ago he had a wage ticket and a garden and people who expected him at the rail. He has Babaji's name if a door asks for it, and his mother's song under his ribs, and nothing else.
 
 Suresh's boat is not one of the clean racing boats beyond the marina wall. It is low and broad and diesel-stained, already loaded with sacks of rice, two crates of limes, a cooler of fish, and a bundle wrapped so carefully in blue tarp that Eli knows better than to ask about it. Suresh is on the dock with a line in his hand and his face doing something tired.
 
@@ -278,7 +264,7 @@ Suresh's boat is not one of the clean racing boats beyond the marina wall. It is
 
 Eli doesn't.
 
-He hits the gunwale at a run and Kiran hits it a second behind him, both of them tumbling onto the deck as Suresh casts off and the engine catches rough. The white coats reach the pier as the gap opens — one of them raising a tablet, one shouting about quarantine authority — and then the water takes them and the resort takes them and Forest City shrinks behind the marina wall into palms and half-built towers and the bright loop of the children's train.
+He hits the gunwale at a run and Kiran hits it a second behind him, both of them tumbling onto the deck as Suresh casts off and the engine catches rough. The white coats reach the pier as the gap opens — one shouting about quarantine authority, one raising a tablet that has finally found a plaza feed: a square plastic dog, a boy vaulting chess boards — and then the water takes them and the resort takes them and Forest City shrinks behind the marina wall into palms and half-built towers and the bright loop of the children's train.
 
 Kiran sits up wheezing and grins like a man who has just stolen something. "I am never paying for that duck."
 
@@ -292,11 +278,11 @@ Kiran slides down against a rice sack, still grinning, then sees Suresh's face a
 
 "No," Suresh says. "You can't. Neither of you can."
 
-He coils a line without looking at Eli. "He won't send the thing. Won't say a word down a wire — nobody does now, not about this. You want it, you stand in front of him." The coil drops. "He didn't know your name. That's why he used the song. The drummer asked me who the cook was."
+He coils a line without looking at Eli. "He won't send the thing. Won't say a word down a wire — nobody does now, not about this. You want it, you stand in front of him." The coil drops. "He didn't know your name. That's why he used the song. The drummer asked me who the facilities hand was."
 
 Eli waits. The water knocks at the hull.
 
-"Your mother came through here. During the worst of it. With a husband — Bengali. The one she took the name from. Das. He's gone now." Suresh studies the line in his hands. "She ran with the keepers. The ones who hide the children when it comes on them. You were in that net after. That's how you washed up here, isn't it — Forest City, no papers, a cook who keeps his head down."
+"Your mother came through here. During the worst of it. With a husband — Bengali. Rahman. Arif, the gardener. He's gone now." Suresh studies the line in his hands. "She ran with the keepers. The ones who hide the children when it comes on them. You were in that net after. That's how you washed up here, isn't it — Forest City, no papers, Arif's boy on a wage ticket, keeping his head down."
 
 He looks at Eli, finally.
 
@@ -318,7 +304,7 @@ A tingle climbs the back of his neck and into his scalp; the hair stands up alon
 
 "Old town, by the river. There's a chandlery — ship's stores, rope, batteries, grease, that kind of thing. Ask there and they'll know why you came." Suresh picks the line back up. "Don't ask anywhere else. Not in Melaka, not now. One door, and it's that one. You hear me? And if anyone else comes asking here, no one recognized anything."
 
-Eli opens Mei's bag. The eggs. His knife, wiped clean. A chit with the chandlery address written once and underlined hard.
+Eli opens Mei's bag. The eggs. His crimp tool, wiped clean. A chit with the chandlery address written once and underlined hard.
 
 He did not choose Melaka. Melaka chose him the way the song did — by sounding, by being heard, by making men in white coats run through a resort built for children.
 
@@ -340,7 +326,7 @@ Suresh brings the engine up, slow. "I am not taking you to the man."
 
 Suresh snorts. "Everyone can do that until someone asks the second question."
 
-They nose out before the sky changes. Forest City stands behind them in the dark, half-built and full of sleeping people. The waterparks are black shapes around their empty pools; the sailboats knock softly at their moorings; under the shade sails, the automatic chess boards move pieces through games no one is watching. In the plaza the robot dog crosses on its faithful little route — head down, head up, head down again — a machine pretending to patrol a home, or a home pretending the machine is a pet.
+They nose out before the sky changes. Forest City stands behind them in the dark, half-built and full of sleeping people. The waterparks are black shapes around their empty pools; the sailboats knock softly at their moorings; under the shade sails, the automatic chess boards move pieces through games no one is watching. In the plaza the robot dog crosses on its faithful little route — patched at the haunch where maintenance replaced a scuffed panel last monsoon, still reporting to a plaza server when the uplink finds a slot in the broken sky. A machine someone keeps repairing. A home pretending the machine is a pet.
 
 Eli looks away first.
 
@@ -354,7 +340,7 @@ Suresh cuts the engine back as the police launch turns near the buoy. For half a
 
 "Then why tell me any of it?"
 
-"Because if I don't, you will ask the wrong person in Melaka and get Mei's kitchen burned down."
+"Because if I don't, you will ask the wrong person in Melaka and get Mei's terrace burned down."
 
 Eli holds the rail. The metal is wet.
 
@@ -438,7 +424,7 @@ The man with the white eye looks at the boy. The boy closes his schoolbook.
 
 "Men ask after women all day."
 
-"English," Eli says. "Her name was Maren Das. Das was the name she used in her work."
+"English," Eli says. "Her name was Maren Rahman. Rahman was my father's name — the name she used in her work."
 
 The man's face does not change. That is how Eli knows it has landed.
 
@@ -678,7 +664,7 @@ The old fracture hums. Names blur into names he does not know. His mother's hum 
 
 The first thing he sees on the other side is light.
 
-He is not above the lane. He is below it, in the water, looking up through diesel sheen, and the light is under his skin. His hands. The same warmth he carries on the line, the same thing that never burns him, has come up his arms and settled behind his eyes and in the base of his skull and it is not warm anymore — it is sharp and loud and it makes him see.
+He is not above the lane. He is below it, in the water, looking up through diesel sheen, and the light is under his skin. Every signature his body ever misread — heat, tingling, pressure — floods up his arms at once and settles behind his eyes and in the base of his skull, sharp and loud, and it makes him see.
 
 The surface breaks open.
 
@@ -778,13 +764,13 @@ He answers by moving forward.
 
 Now began the road northward. They crossed the strait the long way, on a fishing boat that smelled of squid and lies, and the woman — she told him her name only when they were three hours from any shore, and he forgot it within a day, which is how he knew it was the true one — said the north was safer than the south now. The Custodians watched the water. They did not watch the mountain roads, for the mountain roads were where the Custodians went to be lost.
 
-She set him down at a crossing that was little more than a hut and a dog, and pointed north. "Thailand. Then up. Past Chiang Mai there is a town the map gave up on. Pai. If any ask, you are a cook with no papers. That part is true."
+She set him down at a crossing that was little more than a hut and a dog, and pointed north. "Thailand. Then up. Past Chiang Mai there is a town the map gave up on. Pai. If any ask, you are a hand with no papers. That part is true."
 
-He walked north. It was the longest he had been alone since the kitchen, and the seven chambers within him would not close; they hummed. A kitchen in a city he had never seen. A ring of stones upon a coast he could not name. And the old breaking in his skull — the wound that had sundered the filter, as the keepers had said — thrummed like a tuning-fork left to sound through the ages.
+He walked north. It was the longest he had been alone since Forest City, and the seven chambers within him would not close; they hummed. A kitchen in a city he had never seen. A ring of stones upon a coast he could not name. And the old breaking in his skull — the wound that had sundered the filter, as the keepers had said — thrummed like a tuning-fork left to sound through the ages.
 
 Pai lay in a valley the mountains had folded shut. The river ran brown and swift. The town was a scar of guesthouses and tattoo-parlors and noodle-stalls that never closed, and behind it the jungle rose as it will in every place where the world has left off its building.
 
-He found work at a lodge upon the valley's far edge — a long wooden house on stilts above the river, kept by a man the locals named Khun Dang, who in the years before the Weapon had been founder of one of the biker gangs that rode the Mae Hong Son loop with no headlamps and less wit. The gang was gone. The lodge was what the road had left him. He cooked for the few travelers who yet came, and he slept upon the floor of the kitchen, because the woman from Melaka had said a cook with no papers and a kitchen floor is the hardest thing in all Asia to mark.
+He found work at a lodge upon the valley's far edge — a long wooden house on stilts above the river, kept by a man the locals named Khun Dang, who in the years before the Weapon had been founder of one of the biker gangs that rode the Mae Hong Son loop with no headlamps and less wit. The gang was gone. The lodge was what the road had left him. He cooked for the few travelers who yet came, and he slept upon the floor of the kitchen, because the woman from Melaka had said a hand with no papers and a kitchen floor is the hardest thing in all Asia to mark.
 
 Khun Dang was old now, and broad, and his hands were seamed with scars that were not of cooking. He watched Eli move above the blade and said nothing for a week. Then, upon an evening when the river was loud and the power had failed again, he brought out a guitar — an old black thing with a soundboard cracked, kept in a case that had outworn more than its owner should have lived to see.
 

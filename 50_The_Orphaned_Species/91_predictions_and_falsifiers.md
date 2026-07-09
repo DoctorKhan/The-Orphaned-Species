@@ -41,7 +41,7 @@
 - **Honesty flag:** stated naively ("the method erases the evidence by design") this is **UNFALSIFIABLE special pleading**. It earns [LIVE] *only* in the reference-free-reanalysis form above, which can actually be killed. Never use the naive form as evidence.
 
 ### 1.5 Behavioral epigenetics: practice-dependent expression and a documented intergenerational reset — **[LIVE → partly supported]**
-- **Claim (gloss):** the Activation/Fall runs on **behavioral epigenetics** — sustained practice (regulated breath, acoustic resonance, controlled metabolic stress) holds the Tree-of-Life genes un-methylated and expressed; stop, and they **reset to dormant within two or three generations.** The Fall is loss of the *maintenance protocol*, not loss of genes; reawakening is recreating the practice (`39_psion_biology.md`, maintenance section; `33_the_curriculum.md`).
+- **Claim (gloss):** the Activation/Fall runs on **behavioral epigenetics** — sustained practice (regulated breath, acoustic resonance, controlled metabolic stress) holds the Tree-of-Life genes un-methylated and expressed; stop, and they **reset to dormant within two or three generations.** The Fall is loss of the *maintenance practice*, not loss of genes; reawakening is recreating the practice (`39_psion_biology.md`, maintenance section; `33_the_curriculum.md`).
 - **Test:** whether targeted physiological/contemplative regimens drive **measurable, reversible methylation changes** at the candidate loci (astrocyte ion-channel, *CRY*, pineal/melatonin pathway), and whether expression decays across generations absent the practice.
 - **Already supported (the firmer floor):** behaviour and environment **do** rewrite the methylome, and human methylation **largely resets between generations** — that reset *is* the Fall mechanism, leaning *with* mainstream biology rather than against it. This lets the framework lean **off** the STRAINED germline claim (§1.3).
 - **Falsifier:** the candidate loci show no practice-responsive methylation, or expression proves not maintenance-dependent.
@@ -121,13 +121,13 @@
 - **Anchor:** Pömmelte (~2300 BCE) and Gomolava (~800 BCE) are real sites with the gendered-killing pattern. *Gloss:* that the selection criterion is a hunted lineage.
 
 ### 5.3 Göbekli's burial was deliberate and synchronous — **[LIVE]**
-- **Claim (gloss):** decommissioning — a node powered down on schedule (Phase VI/VII).
+- **Claim (gloss):** decommissioning — a charged ground powered down on schedule (Phase VI/VII).
 - **Test:** site stratigraphy — intentional backfill vs. slow natural infill, and how synchronous across the enclosures.
 - **Falsifier:** gradual, unplanned sedimentary infill.
 
 ### 5.4 Megaliths correlate with geophysical anomalies and have resonant properties — **[LIVE, weak]**
-- **Claim (gloss):** High Places are grid-nodes sited on geomagnetic anomaly/stability; the "ancient internet" (Phase VI).
-- **Test:** spatial statistics of major node placement vs. geomagnetic/geological anomaly maps; materials-acoustics of selected stones.
+- **Claim (gloss):** High Places are charged grounds sited on geomagnetic anomaly/stability; the "old word-routes" (Phase VI).
+- **Test:** spatial statistics of major charged-ground placement vs. geomagnetic/geological anomaly maps; materials-acoustics of selected stones.
 - **Toe-hold:** the Stonehenge bluestones' documented lithophonic (ringing) properties.
 - **Falsifier:** siting fully explained by topography, astronomy, and resource access, with no anomaly correlation.
 - *Note:* this sits on the same purely-mythic footing as the ley-line / crop-circle layer — the weakest-anchored zone in the timeline; cite as the cave's cosmology, not a science claim.

@@ -13,7 +13,7 @@
 3. **One dial: depth.** Near threads resolve early; deep structure resolves last and never whole. Fragmentation is the look of far structure, not a separate register.
 
 Firing rule (retained): a clarifying scene earns its place only when **both** hold:
-- **Trigger** — Eli is physically at a node (stone, ley configuration, burial interface, marked object, charged site) under present pressure. Nothing fires from a placard or a calm explanation.
+- **Trigger** — Eli is physically at a charged ground (stone, ley configuration, burial interface, marked object, charged site) under present pressure. Nothing fires from a placard or a calm explanation.
 - **Consequence** — what comes clear **changes the route, the pursuit, or a relationship in this scene**.
 
 ---
@@ -22,7 +22,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 | Source block | Source file | How it resolves (web model) | Delivery form in the trilogy | Primary volume |
 |---|---|---|---|---|
-| **Part I — The Last Village** (ch 1–5) | `37_deep_time_source.md` | Deep web-structure (watched-depth) | Resolves at the Albion/Europe node as one deep clarification carrying the cave imagery, the burning, the cave entry — Aedan's own deep-time arc, not a present-tense frame and not a relay. | III |
+| **Part I — The Last Village** (ch 1–5) | `37_deep_time_source.md` | Deep web-structure (watched-depth) | Resolves at the Albion/Europe ground as one deep clarification carrying the cave imagery, the burning, the cave entry — Aedan's own deep-time arc, not a present-tense frame and not a relay. | III |
 | **Part II — Three Beginnings** (Seven Pairs, First Spear, Key/Activation) | `37_deep_time_source.md` | Deep web-structure (watched-depth, clarified directly) | Faint, oldest structure; resolves as dragon-cadence shards. Seven Pairs anchors the genetic-bottleneck reveal (science floor: chromosome 2 fusion, ~0.9 mya bottleneck). | III |
 | **Part II — Living Gods, War in Heaven** | `37_deep_time_source.md` | Deep web-structure (watched-depth, clarified directly) | Dragon-cadence shards. Carries the Younger Dryas rupture, grid fracture, Tiamat, chariot-wheel arrival. | III |
 | **Part II — Adapa** | `37_deep_time_source.md` + `30_beatsheet_ch09_adapa.md` | Deep web-structure (watched-depth, clarified directly) | The centerpiece deep-structure clarification. Beat-sheet is canonical. The boy's weep becomes Eli's recognition of autopilot-as-cage. | II |
@@ -48,12 +48,20 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 **Internal movement:** Shattering  
 **Reader-experience function:** Book I — Mystery and body  
 **Dramatic question:** Can Eli remain himself long enough to decide whom to trust?  
-**Ending change:** Eli has met a practitioner **as other** at a node, achieves personal Manual Override, and voluntarily follows the next clue with no known destination.
+**Ending change:** Eli has met a practitioner **as other** at a charged ground, achieves personal Manual Override, and voluntarily follows the next clue with no known destination.
 
-### Prologue — Maren Das *(drafted)*
-- **Source material:** Suppression method / Ring machinery. Not a deep-time clarification. Establishes the control-system face dispatched after anomalous persons before the protagonist opens.
-- **Volume role:** Locked prologue; keeps Crane from being a straw-man by showing the enforcement machinery in action before Eli is visible.
-- **Deliverable:** Drafted prose of record is `MANUSCRIPT.md` opening ("Before light, Forest City belongs to the machines...").
+### Vol I opening — LOCKED *(no Maren prologue)*
+
+- **Order:** Preamble → **Ch 1 — The Hour That Belongs to No One** *(drafted)*.
+- **Ring dread in Vol I:** Custodians, white coats, planted song, Melaka witness — present-tense hunt, not front-loaded backstory.
+
+### Maren suppression scene — Vol II *(relocated from v1 prologue)*
+
+- **Source material:** Suppression method / Ring machinery. Not a deep-time clarification.
+- **When:** Eli learns **how his mother was taken** — Vol II Act II, paired with mother-trail midpoint (`29`, `99`).
+- **Function:** same as former prologue intent — keeps Crane from straw-man by showing enforcement in action, but **earned** after reader loves Eli and has chased the mother-trail.
+- **Deliverable:** rewrite from `MANUSCRIPT_v1_archive.md` prologue (~1,000–1,500 words); **Rahman** naming; SE Asia extraction/keeper setting; no Crane name.
+- **Not in Vol I.**
 
 ### Ch 1 — The Hour That Belongs to No One *(drafted)*
 - **Setting / attachment:** Forest City ordinary life — the garden, the kitchen crew, the robot dog, the rehearsal-before-the-real thing. Wants: get through an ordinary day.
@@ -101,7 +109,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Forward clue:** fragment points out of the city.
 - **Act turn:** he cannot return to Forest City without exposing it; he chooses to follow the fragment.
 - **Source threads active:**
-  - First node witness: not yet; post-breach overload and pursuit dominate.
+  - First witness-site contact: not yet; post-breach overload and pursuit dominate.
   - Constructive freedom corner: accepting help he can't repay.
 
 ### Ch 6 — Differentiation
@@ -142,7 +150,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Decision change:** he can receive without being possessed; grief survives: she is real and dead, with nowhere to set the love down.
 - **Forward clue:** Ila's partial record names the kind of place to look — a community where a new line is forming through planted ground.
 - **Source threads active:**
-  - Ila = deep human thread, clarified to full resolution later in Vol II at the South Asia node.
+  - Ila = deep human thread, clarified to full resolution later in Vol II at the South Asia ground.
 
 ### Ch 11 — The Forming Line
 - **Setting:** Smallholder rice-farming community in monsoon/deltaic South Asia (NOT Bangladesh).
@@ -194,23 +202,23 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Healer refuses to become Eli's cure or a faction's resource.**
 - **The healer's body cannot be public property; "kneel → cage → burn" pressure begins.**
 - **Wren's independent objective begins to conflict openly** with Eli's search.
-- **Tem's record** introduces distributed psionic contact and broken communication routes — this is the Tem thread, clarified to full resolution at the 17:1 bottleneck site; **resolves here at the grain-pit / hidden-node location.**
+- **Tem's record** introduces distributed psionic contact and broken communication routes — this is the Tem thread, clarified to full resolution at the 17:1 bottleneck site; **resolves here at the grain-pit / hidden-site location.**
 - **Forward clue:** the trail enters Mesopotamia and then Anatolia.
 
 ### Ch 16 — The Old Wound *(approximate)*
 - **Setting:** Persian Gulf / Mesopotamia; Eridu-flats landscape; the Adapa locus.
-- **Adapa resolves here as deep web-structure (watched-depth), clarified directly** — not as full scene but as a deep-structure shard at the site where the Adapa tablet's lacuna connects to the broken wing. No relay. Beat-sheet is canonical in `30_beatsheet_ch09_adapa.md`.
+- **Adapa resolves here as deep web-structure (watched-depth), clarified directly** — not as full scene but as a deep-structure fragment at the site where the Adapa tablet's lacuna connects to the broken wing. No relay. Beat-sheet is canonical in `30_beatsheet_ch09_adapa.md`.
 - **Revelation:** obedience can close the path to life; the missing passage is argued over as warning vs. lock.
 - **Historical households** show control order moving inward: provision as proof of love, approved fathers owning descent, sacrifice of lower member renamed duty.
-- **The two creation myths** land as witnessed/recorded shard vs. carried oral-song fragment (Lira→Derw→Aedan→Eli).
+- **The two creation myths** land as witnessed/recorded fragment vs. carried oral-song fragment (Lira→Derw→Aedan→Eli).
 - **Aru and Daskar disagree** about whether the instrument can be redeemed; first recovered stone artifact evidence.
 
 ### Ch 17 — Göbekli and Loss *(approximate)*
-- **Setting:** Göbekli Tepe / Anatolian node.
+- **Setting:** Göbekli Tepe / Anatolian ground.
 - **Aru's thread clarifies to full resolution here at the fox-pillar** — carved spiral in the eye; breath, stillness, observer-observing-the-observer. **Trigger is physical touch to the pillar under present pressure (contested site / faction control).** Aedan's own deep-time arc may also surface here as deep web-structure.
 - **Daskar's thread** — heat-sense; pillars are warm; center falls silent under the fill; he refuses burial and is made to bury it anyway; presses Eshe's hands before they kill him. This is the second full-res thread, clarified at the fox-pillar site's burial layer.
 - **Competing teams converge**; old maps fail; current growth/polarity is the viable route.
-- **Emrys's serious error exposes the group** or misidentifies the node.
+- **Emrys's serious error exposes the group** or misidentifies the ground.
 - **Climax cost:** Emrys is taken while Eli refuses to sacrifice others for the pursuit.
 - **Resolution:** partial Cuno/Derw element + living network point into Europe. "Albion" need not yet be confirmed.
 - **Deep-time thread activated:** Aedan's deep-time arc resolves as one deep clarification; he is one early thread in the web, not a relay to Eli. Beginning of the orphan-and-father thread's quiet materialization.
@@ -224,12 +232,12 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 ### Ch 19 — The Changing Map *(approximate)*
 - **Setting:** Continental Europe; broken and re-formed lines.
 - **Recurring rival team becomes temporarily useful** against another faction.
-- **Midpoint revelation:** Eli's mother's body is dead, something of her is tethered somewhere in the western node-network — there is no usable address.
+- **Midpoint revelation:** Eli's mother's body is dead, something of her is tethered somewhere in the western web of charged grounds — there is no usable address.
 - **Competing states/firms/factions** each claim the right to own carriers for public safety, exposing civilization as rival occupants of the same vacant god-office.
 
 ### Ch 20 — The Riddling Node *(approximate)*
 - **Setting:** European stone site (Rollright / Men-an-Tol corridor).
-- **Anthea live descent fires here** — sonic resonance; song as substance; different notes answer at the two ends of a broken route; she teaches Lira and is killed; chord reaches Aedan's village through unknown chain. **Trigger must be at the Albion-type node where the song actually resonates.**
+- **Anthea live descent fires here** — sonic resonance; song as substance; different notes answer at the two ends of a broken route; she teaches Lira and is killed; chord reaches Aedan's village through unknown chain. **Trigger must be at the Albion-type ground where the song actually resonates.**
 - **Lira fragment** recovered as a carried thread (song, not bloodline).
 
 ### Ch 21 — The Chair and the Tethered Node *(approximate)*
@@ -253,11 +261,11 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 **Internal movement:** Choice  
 **Reader-experience function:** Book III — Species and coexistence  
 **Dramatic question:** Can Eli free his mother and oppose Crane without becoming the next owner of the system?  
-**Immediate objective:** locate the tethered node before rival teams activate, destroy, nationalize, or free it.
+**Immediate objective:** locate the tethered ground before rival teams activate, destroy, nationalize, or free it.
 
 ### Ch 23 — The Divergent Lines *(approximate)*
-- **Setting:** Albion / European nodes answering inconsistently.
-- **European node work**: broken lines explain why some ancient nodes are silent and others answer from unexpected directions. Route becomes a moving puzzle.
+- **Setting:** Albion / European grounds answering inconsistently.
+- **European ground work**: broken lines explain why some ancient grounds are silent and others answer from unexpected directions. Route becomes a moving puzzle.
 - **The new model surfaces through plot evidence, not lore lecture:**
   - Dragons are not monsters — older beings, biological thermal control, infrasonic/ultrasonic resonance, living precedent for human capacities.
   - Titans are the powerful drone-worker caste beneath the dragons.
@@ -266,7 +274,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Multiple factions claim ownership:** control, destruction, nationalization, profit, rescue, liberation — each speaks a different vocabulary but each demands the old offering (body, obedience, surplus, belief, sacrifice upward).
 
 ### Ch 24 — Aedan's Deep-Time Arc *(approximate)*
-- **Setting:** Albion / deeper node.
+- **Setting:** Albion / deeper ground.
 - **Eli clarifies Aedan's deep-time arc** — not as frame, but as one deep thread in the web. Aedan's village burning, the cave entry, the heat migration — resolved as shards, not lived ancestry and not a relay. The orphan-and-father thread lands here as lived recognition: the cave does not give him a father; it gives him contact with strangers who refused to need one.
 - **Forward clue:** the boy sits on the granary stone carrying fragments and the name Aedan; the growth outside has taken a new curve.
 
@@ -283,19 +291,19 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Living Way lesson:** 2 hold lightly; 11 mercy with boundaries; 9 give without keeping score; 6 let the two be one.
 
 ### Ch 27 — Amplifier Temptation
-- **Setting:** Confluence of teams at the operational node.
+- **Setting:** Confluence of teams at the operational ground.
 - **Midpoint temptation:** controlling the amplifier appears to be the only way to save his mother and stop hostile teams. Every faction needs someone to own the system.
 - **Crane offers the throne** in the language of responsibility and civilian safety; he is right about danger, wrong that danger justifies ownership.
 - **The resistance temptation** — a liberation/prophecy faction wants him to burn the registries and unleash awakening; equally dangerous, differently dressed.
 
 ### Ch 28 — Convergence
-- **Setting:** The node/center.
+- **Setting:** The ground/center.
 - **Several factions converge** with incompatible aims; an ordinary community is caught in the crossfire including the Forest City refugees.
 - **Wren makes an indispensable choice** based on her own objective; her ring-handler extraction network becomes the Volume III coexistence proof.
 - **The Shield (Custodian) defects** or makes his clearest choice; loyalty, fear, obligation, and one good act collide.
 
 ### Ch 29 — Climax — Release and Refusal
-- **Setting:** The node/center under simultaneous tactical and social pressure.
+- **Setting:** The ground/center under simultaneous tactical and social pressure.
 - **Eli reaches his mother** and learns that reunion prolongs her tether. The deepest loss becomes voluntary.
 - **He frees his mother**, refuses ownership of the amplifier, and refuses to destroy Crane without excusing or freeing him from accountability.
 - **The group holds collective coherence** without adopting permanent command hierarchy; multiple people make accountable choices.
@@ -314,7 +322,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 ---
 
-## Cross-volume thread inventory — clarified at nodes (per `36_the_living_web.md`)
+## Cross-volume thread inventory — clarified at charged grounds (per `36_the_living_web.md`)
 
 > "Resolution" replaces the old "register": **full-res** = a deep human thread Eli clarifies until he is standing inside the life (immersion + grief retained); **watched-depth** = faint, old, deep web-structure that resolves only as shards. One dial; no relay.
 
@@ -322,15 +330,15 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 |---|---|---|---|---|
 | **Aru — Carver of the Foxes** | Full-res thread | `37` Part III ch 10 | Göbekli Tepe fox-pillar | Breath, stillness, observer-of-observer; spiral carved into fox's eye; Sib the only witness |
 | **Daskar — Builder Who Refused** | Full-res thread | `37` Part III ch 11 | Göbekli Tepe burial-layer | Heat/cold-spot sensing; pillars are warm; refuses burial; presses hands to Eshe before they kill him |
-| **Ila — The Midwife** | Full-res thread | `37` Part III ch 12 | South Asia rice/field node | Healing touch, diagnostic conduit; first frightened stabilization echo; does not equate bandwidth with depth |
+| **Ila — The Midwife** | Full-res thread | `37` Part III ch 12 | South Asia rice/field ground | Healing touch, diagnostic conduit; first frightened stabilization echo; does not equate bandwidth with depth |
 | **Tem — The Hidden Son** | Full-res thread | `37` Part III ch 13 | 17:1 bottleneck grain-pit | Dream-walking, telepathy; the grain-pit as first instruction; dream-network rescues unrelated hidden children |
 | **Anthea — Singer of Frequencies** | Full-res thread | `37` Part III ch 14 | Albion resonant-stone | Sonic resonance; song as substance; different notes answer at two ends of a broken route; daughter Lira carries the chord |
 | **Cuno — Bluestone Mover** | Full-res thread | `37` Part III ch 15 | Stonehenge/Albion circle-center | Collective resonance; last firing; Derw gets geometry/rhythm/positions/spoken-fragment/object; chariots crest the rise |
 | **Lovernios — Druid of Anglesey** | Full-res thread | `37` Part III ch 16 | Anglesey peat-bog / seed-catalog sink | Plant medicine, non-human mind; follows new growth where old line failed; gives seed-catalog to Nia; unsure it survives |
-| **Seven Pairs / Activation** | Watched-depth | `37` Part II ch 6 | Buried/coordinated node (clarified directly) | 0.9 mya Seven Pairs; 17:1 clamp; genetic wall; the Key pulse — science-floor anchor |
-| **Living Gods / War in Heaven** | Watched-depth | `37` Part II chs 7–8 | Dragon-cadence summary node (clarified directly) | Supervision era; Igigi sabotage; Younger Dryas rupture; planetary network fracture; Tiamat/Marduk |
-| **Adapa** | Watched-depth | `37` Part II ch 9 / `30_beatsheet_ch09_adapa.md` | Persian Gulf / Eridu-flats node | Centerpiece deep-structure clarification; boy watching himself in pre-cage; loyalty to the lock; the weeper who accepts his own lock gratefully; Qingu-blood encoded as self-justifying story |
-| **Aedan's deep-time arc** | Watched-depth | `37` Parts I & IV | Albion/Albion-type granary-stone node | Aedan's *own* deep-time life (not a relay to Eli): village burning → cave entry → heat migration out of the wall into body → granary stone warms when he sings the chord → orphan with no father and no map, only fragments. Eli clarifies it as one more deep thread, not a conduit. |
+| **Seven Pairs / Activation** | Watched-depth | `37` Part II ch 6 | Buried/coordinated ground (clarified directly) | 0.9 mya Seven Pairs; 17:1 clamp; genetic wall; the Key pulse — science-floor anchor |
+| **Living Gods / War in Heaven** | Watched-depth | `37` Part II chs 7–8 | Dragon-cadence summary ground (clarified directly) | Supervision era; Igigi sabotage; Younger Dryas rupture; planetary network fracture; Tiamat/Marduk |
+| **Adapa** | Watched-depth | `37` Part II ch 9 / `30_beatsheet_ch09_adapa.md` | Persian Gulf / Eridu-flats ground | Centerpiece deep-structure clarification; boy watching himself in pre-cage; loyalty to the lock; the weeper who accepts his own lock gratefully; Qingu-blood encoded as self-justifying story |
+| **Aedan's deep-time arc** | Watched-depth | `37` Parts I & IV | Albion/Albion-type granary-stone ground | Aedan's *own* deep-time life (not a relay to Eli): village burning → cave entry → heat migration out of the wall into body → granary stone warms when he sings the chord → orphan with no father and no map, only fragments. Eli clarifies it as one more deep thread, not a conduit. |
 
 ---
 
@@ -345,7 +353,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Enkidu/Shamhat domestication witness** | II | Vol II Mesopotamian leg | Wildness/food/sex/speech/civilization as argument over whether city-life is rescue, corruption, education, or capture |
 | **Arslan Tash Amulet 1** | II–III | Vol II–III border dispute | Covenant invoking ʿOlam, Asherah, El's sons, great council; authenticity/translation disputes give Wren interpretive agency outside Eli and Emrys |
 | **Atrahasis / Eridu Flood material** | II | Vol II Mesopotamia | Creation, labor revolt, and catastrophe as layered stories; beyond one clean origin account |
-| **Tablet of Destinies** | II–III | Vol II–III ownership race | Factions mistake authority records for master key; may be charter / routing protocol / ritual copy / propaganda |
+| **Tablet of Destinies** | II–III | Vol II–III ownership race | Factions mistake authority records for master key; may be charter / routing charter / ritual copy / propaganda |
 | **Ugaritic council records** | III | Ch 25–26 | Repeated offices across traditions; local gods and stories retain differences; landscape-name fossils |
 | **Babylonian Map of the World** | III | Ch 23 route puzzle | Mythic edge/missing region yields testable next move only when treated as incomplete; compared against live ley data |
 | **Cuno–Derw marked object + geometry/rhythm/sound** | III | Ch 21–22 | Portable geometry and lossy story converge on Albion; no complete manual given |
@@ -379,7 +387,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 4. **No clean explanation from a stone** — every watched-depth clarification is fragmentary; no full-res thread is mastery.
 5. **Let characters disagree about interpretation.** Preserve evidence that does not fit Eli's preferred reading.
 6. **No historical culture used only to confirm cosmology.** Every era/people has its own life before it rhymes with the book's thesis.
-7. **No clarification provides an exact solution** to the present problem; it supplies apprenticeship or shard.
+7. **No clarification provides an exact solution** to the present problem; it supplies apprenticeship or fragment.
 8. **The final victory is not victory over Crane** — it is coexistence surviving the crisis that created the coalition.
 9. **The ending is an unremarkable afternoon** — no throne, no cosmic voice, no explanatory speech, no promise of the next war.
 

@@ -60,7 +60,7 @@ Crops and livestock also **map the grid** (living ley-detectors), so agriculture
 
 - **locks** = the Tree-of-Life genes held methylated (off);
 - **Activation** = un-silencing by practice;
-- **the Fall** = a lineage losing the *maintenance protocol* (not its genes) when temples and teachers were destroyed — extinction not required;
+- **the Fall** = a lineage losing the *maintenance practice* (not its genes) when temples and teachers were destroyed — extinction not required;
 - **reawakening** = recreating the practice strips the methylation and restarts the dormant architecture — the present-day engine.
 
 ## 6. The efficiency principle — the knife

@@ -26,6 +26,72 @@ The world is **damaged but functioning** — not collapse, not utopia.
 
 ---
 
+## Post-war bloc archetypes (author background — not on-page)
+
+The preamble rhymes **Late Bronze Age network collapse** (Cline / *1177 BC*) through pressure, not lecture. **Survival was not wall thickness or army size — it was antifragility:** adapt to chaos rather than rigidly resist it. Interdependent top-heavy systems seized when one supply chain broke. Use this table for faction behavior, long-arc fate, and Eli's corridor texture; **do not name Mycenae, Hittites, Egypt, Assyria, Phoenicia, Cypriots, Cline, or 1177 BC on-page.**
+
+| Bronze Age fate | Historical pattern | Sci-fi bloc | Collapse strategy | Long arc (author) | On-page pressure (2040) |
+|---|---|---|---|---|---|
+| **Total losers** | Mycenaeans, Hittites — hyper-centralized fortress-builders; exploited lower classes for monumental labor; cities burned (internal revolt likely); centralized economy and literacy gone | **Continental Union** | Rigid centralization — registries, walls, force; **brittle**; no spare parts | Looks terrifying now; **hollow tree in the storm** — sudden catastrophic fracture when the next chain breaks | Crane's ring; activation hunts; class severance baked in; "keep the chaos out" |
+| **Stagnant survivors** | Egypt, Assyria — endured cascading disaster but permanently crippled or pulled inward; massive scale + brutal control | **Eastern Mandate** | Endurance at scale — corridors, efficiency; **too rigid to adapt** | Survived the gene drive and collapse; **stagnant** for the biological shift coming next | Watched acute phase from afar; consolidation; frames threshold episodes as **disease to cure** |
+| **Unprecedented winners** | Phoenicians, Cypriots — decentralized coastal city-states; **no head to chop**; stepped into vacuum; spread iron + phonetic alphabet (copyable, person to person) | **Free Ports Covenant** | **Decentralized antifragility** — harbors, routes, trade through broken lanes | Natural vectors for the post-weapon mutation; **birthed the next era** without trying to own it | Melaka, Forest City, threshold houses; merchants weave what palaces cannot trust; **learn to live beside** episodes |
+
+### Threshold as the new "alphabet" (author metaphor — not on-page)
+
+| Bronze Age | ~2040 |
+|---|---|
+| Elite empires used **complex scribal scripts** (e.g. Akkadian) only state scribes could read | Old superpowers used a **gene-drive lock** — state control written in the genome |
+| Empires fell; Phoenicians spread the **phonetic alphabet** — learnable in an afternoon, person to person | Weapon left a **grassroots neurological threshold** at puberty — organic, uncontrollable |
+| Maritime outposts carried the new script past dying palaces | **Threshold houses** = harbor outposts along broken lanes; spread the folk way **below registries** |
+
+**Bloc responses to threshold (dramatize through pressure, not thesis):** Union quarantine / Mandate cure-corridor / Free Ports keeper chain — detail in § Threshold architecture below.
+
+**Threshold / living web:** state weapon as **lock** → grassroots **second way of reading the fever**. The web wakes **from the bottom upward** — Forest City, Melaka, gray corridors.
+
+---
+
+## Threshold architecture — Union vs Covenant (author background — not on-page)
+
+> **Craft lock:** Never use *protocol, shard, patch, mesh network,* or *node* in character dialogue or narration unless the speaker means ordinary tech (Eli patches a fire door). Author notes below — translate to **songs, hands, harbor keepers, meal lists, white coats** in prose.
+
+Treat the puberty threshold as **two answers to the same fever**: two political structures, two responses. **Do not lecture** — show through ward vs house texture, Nico's episode, Forest City threshold culture, Custodian hunts.
+
+### Continental Union — the quarantine model
+
+The Union classifies threshold onset as a **neurological contagion** — latent vulnerability from the gene wars. Centralized consensus requires a mappable psyche; unmapped reality = structural threat.
+
+| Element | Author assumption | On-page texture |
+|---|---|---|
+| **Sites** | **Containment wards**, not threshold houses — first fever → heavy sedation | White coats, registry cohort, "voluntary screening"; biosecurity cover for carrier hunts |
+| **Method** | Aggressive **chemical inhibitors** — dampen synaptic flood, force "baseline" | Medication stigma; workforce excision; monitors and alarms |
+| **Survivors** | The **Fractured** — fail to reintegrate rigid baseline; medicated, monitored, tragic | Registry language; Eli's fear of files; "damaged" as stigmatizing file-label |
+| **Neurological scene** | Biometric bed, inhibitors vs **hyper-synchronized gamma** — war of attrition on the body | Contrast Eli's grounding in Covenant spaces (never show ward lecture) |
+| **Long arc** | **Suppresses evolution** — psychological fortress, Mycenaean-brittle; fights citizens' biology | Union looks strong; antifragility score: low |
+
+### Free Ports Covenant — the keeper chain *(author shorthand)*
+
+No central authority for quarantine or inhibitor distribution. Adaptation through **linked threshold houses** on trade routes.
+
+| Element | Author assumption | On-page texture |
+|---|---|---|
+| **Sites** | **Threshold houses** — independent; often above markets, on docks; chaotic, communal, porous waking/threshold boundary | Forest City keeper culture; threshold houses **outside** Union/Mandate grip |
+| **Method** | **Shared keeper knowledge** — not a cure; songs, rhythm, hands, proximity; passed on **trade routes** | Mother's tune; terrace band; Khun Dang's guitar; one house teaching another |
+| **Guides** | Seasoned crossers + families + merchants move freely; **second sight** used to anchor initiates | Mei, Babaji cell, keepers; warm proximity not straps |
+| **Neurological scene** | Fever runs in **secure communal environment** — temperature, proximity, mentors; nervous system completes rewiring | Nico on free-meal list; community notices when someone breaks |
+| **Long arc** | **Antifragile** — youth survive bottleneck intact; Covenant carries the change forward | Eli's corridor; Melaka; gray ports |
+
+### Eastern Mandate — clinical containment (third pole, lighter on-page)
+
+Endurance state frames episodes as **disease to cure** — centralized medicine, not Union's punitive Fractured excision nor Covenant keeper culture. Stagnant: survived last war, misses the biological shift.
+
+### Craft rule
+
+- **Union:** disease / vulnerability / isolate / sedate  
+- **Covenant:** song / house / integrate / pass hand to hand  
+- **Never** use software or network jargon on-page — **show** the contrast (ward hunt vs house meal list vs song).
+
+---
+
 ## What changed — by domain
 
 ### War and infrastructure
@@ -53,7 +119,7 @@ The world is **damaged but functioning** — not collapse, not utopia.
 | **Robotics** | Service bots, patrol drones, plaza automation — **pet/guard/toy/surveillance** | Robot dog; automatic chess |
 | **Consciousness science** | Fringe → **funded fringe**: EEG/fMRI + anomaly correlation; Emrys marginalized but instrumented | Chair as engineered key; signatures "measurable, meaning withheld" |
 | **Transport** | EVs common in cities; **maritime still diesel-heavy** in Eli's class | Racing sailboats vs Suresh's stained hull |
-| **Finance/status** | Platform wages, gig kitchen work, refugee precarity, crypto-broken remittance lanes | Eli's line cook; money/status pressure in Forest City |
+| **Finance/status** | Platform wages, gig facilities work, refugee precarity, crypto-broken remittance lanes | Eli's compound wage; Babaji connection = job, not trust fund |
 
 **Avoid:** flying cars, Mars colonies, full VR life, everyone in spandex, magic holograms everywhere.
 
@@ -100,7 +166,7 @@ By 2040, elites **know** carriers exist:
 ### Forest City (made home)
 
 - Repurposed **resort / special economic zone** energy — half-finished towers, Network School builders, wartime **voluntary** quarantine culture.
-- **2040:** not ghost city; **functioning refuge** with mall aunties, kitchen crew, sail training, robot dog on its route.
+- **2040:** not ghost city; **functioning refuge** with mall aunties, compound crew, terrace cafe, sail training, robot dog on its route.
 - Under pressure: travel warnings, psion surveillance, supply chain dependence on Suresh-class boats.
 
 ### Melaka / Strait (opening noir)
@@ -111,7 +177,7 @@ By 2040, elites **know** carriers exist:
 ### Maritime corridors
 
 - Piracy + inspection + **psion probe** on same boarding.
-- Singapore-class nodes: **high surveillance archives** (Ch 7).
+- Singapore-class archive cities: **high surveillance archives** (Ch 7).
 
 ### South Asia (Vol I climax)
 
@@ -119,7 +185,7 @@ By 2040, elites **know** carriers exist:
 
 ### Europe → Albion (Vol III)
 
-- Broken/reformed **node network**; pilgrimage and media pressure; Rollright/Stonehenge under faction contest.
+- Broken/reformed **web of charged grounds**; pilgrimage and media pressure; Rollright/Stonehenge under faction contest.
 
 ---
 

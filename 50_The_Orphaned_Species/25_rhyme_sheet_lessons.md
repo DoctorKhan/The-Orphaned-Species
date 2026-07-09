@@ -43,7 +43,7 @@ A few of these aren't just neat — they're structural spines:
 
 - **Lesson 3 ↔ Adapa (the failure) ↔ cave-boy Aedan / present Eli (the payoff).** Adapa believes the Qingu-lie and locks himself. Aedan's granary-stone recognition gives a deep answer; Eli's refusal of Crane's file **and of an invented eternal identity** makes it present-tense. See `30_beatsheet_ch09_adapa.md`.
 - **Lesson 13 ↔ Anthea (refusal) vs. Adapa (failure).** Anthea is offered elevation-by-becoming-elite and refuses; Adapa accepts the lie that his worth is forfeit. Stage them as deliberate mirrors — the human who outgrew the parent vs. the human who couldn't.
-- **Lesson 4 ↔ the Heat carrier.** Lesson 4's deeper reading says awakening "makes you **warmer**… compassion is the signature." That is *literally* the somatic spine of `20_resonance_points.md` (Carrier 3). The moral layer and the physical carrier are the same thing seen twice — kindness and the warm pole of the sensory zoning are one. Let Ila's healing heat, Eli's small stabilizations, and the present healer's deeper repair enact Lesson 4 without ever saying so.
+- **Lesson 4 ↔ somatic signatures (Carrier 3).** Lesson 4's deeper reading ties awakening to **reading another body with care** — attention before doctrine. Let Ila's diagnostic read, Eli's frightened **pressure-read** at a bleed, and the present healer's deeper repair enact Lesson 4 without ever saying so. **Deprecated:** "compassion = warmer hands."
 
 ## Rules for extending this sheet
 

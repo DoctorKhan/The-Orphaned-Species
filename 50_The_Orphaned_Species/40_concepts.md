@@ -233,7 +233,7 @@ The evolutionary test is coexistence with living power. Humanity previously wors
 
 The final recognition is retrospective inevitability, not fate. Once coexistence is demonstrated, the long history becomes legible: ritual, astronomy, science, law, medicine, communications, computation, and community were all partial rehearsals for living beside power without surrendering agency. It has always been like this because the same problem has always been returning. The ending reveals the pattern; it does not prove that the outcome was guaranteed.
 
-**Book 5 expression:** The living network is discovered through an adventure rather than disclosed as doctrine. **Melaka opens the receiver; nodes hold the teachers** — the breach is undifferentiated web-noise, not a bulk download; named practitioners clarify at stones and charged sites under pursuit. **Legends of talking stones** (local folk names; `36` §7a) give ordinary characters a vocabulary for node behavior before Eli has mechanism — a grower, sailor, or shrine keeper says the stone "remembers" or "answers," and the reader feels the truth before the grid vocabulary arrives. Altered plant growth is noticed first; repeated observations establish a conductor; paired anomalies establish the positive and negative ends of a break; crop formations reveal new lines forming; historical stone geometry reveals inward deflection; Cuno's incomplete transmission finally reveals communication at the center. Each step changes the route and increases pursuit. Cuno remains the cleanest preview of the social form: many minds in the right shape becoming one mind without a master. Eli's overlapping path—identification, charged contact, relation, seeing, surge-discrimination, creation—shows one person maturing across registers without creating classes. The returning healer proves that another person can go much deeper in one practice. The Modern Child is the seed of the wider awakening: capacities return first as symptoms without explanation, then as memory, then as practice.
+**Book 5 expression:** The living network is discovered through an adventure rather than disclosed as doctrine. **Melaka opens the receiver; charged grounds hold the teachers** — the breach is undifferentiated web-noise, not a bulk download; named practitioners clarify at stones and charged sites under pursuit. **Legends of talking stones** (local folk names; `36` §7a) give ordinary characters a vocabulary for charged-ground behavior before Eli has mechanism — a grower, sailor, or shrine keeper says the stone "remembers" or "answers," and the reader feels the truth before the grid vocabulary arrives. Altered plant growth is noticed first; repeated observations establish a conductor; paired anomalies establish the positive and negative ends of a break; crop formations reveal new lines forming; historical stone geometry reveals inward deflection; Cuno's incomplete transmission finally reveals communication at the center. Each step changes the route and increases pursuit. Cuno remains the cleanest preview of the social form: many minds in the right shape becoming one mind without a master. Eli's overlapping path—identification, charged contact, relation, seeing, surge-discrimination, creation—shows one person maturing across registers without creating classes. The returning healer proves that another person can go much deeper in one practice. The Modern Child is the seed of the wider awakening: capacities return first as symptoms without explanation, then as memory, then as practice.
 
 ### Integration map
 
@@ -286,7 +286,7 @@ Key language:
 - the steppe fenced into field
 - the Qingu reserve released
 - the first farmers / Lullu workforce
-- Göbekli as node and template
+- Göbekli as charged ground and template
 - agriculture as desperation engine
 - the garden becoming the cage
 
@@ -500,20 +500,20 @@ Ancient DNA does not say "pure lines and chosen races." It says mixture, rupture
 
 ## Herem as decommissioning
 
-**Core idea:** the biblical conquest language of *herem* / *kherem* ("devoted to destruction," "put under the ban") may be useful in this canon as a memory of **decommissioning**: taking corrupted high-place nodes, hybrid strongholds, forbidden spoils, or compromised technologies out of ordinary human circulation.
+**Core idea:** the biblical conquest language of *herem* / *kherem* ("devoted to destruction," "put under the ban") may be useful in this canon as a memory of **decommissioning**: taking corrupted high-place grounds, hybrid strongholds, forbidden spoils, or compromised technologies out of ordinary human circulation.
 
 This does not need to be framed as simple slaughter. In the ancient Near Eastern idiom, total-destruction language can function as military victory rhetoric rather than a literal census of the dead. The useful pattern for this project is more specific: certain places, people, objects, or powers are declared off-limits because human factions cannot safely absorb them.
 
 ### What it gives the canon
 
 1. **High places as targeted zones.**
-   The conquest material repeatedly focuses on elevated terrain: hill country, ridges, fortified highland cities. In this mythology, that maps onto the High Places / grid-node model. The violence is not random; it clusters around infrastructure.
+   The conquest material repeatedly focuses on elevated terrain: hill country, ridges, fortified highland cities. In this mythology, that maps onto the High Places / charged-ground model. The violence is not random; it clusters around infrastructure.
 
 2. **Anakim / Nephilim as the hostile hybrid target.**
    Joshua's success is described not as "all Canaanites are gone," but as the Anakim being cut off from the hill country, with remnants pushed toward Gaza, Gath, and Ashdod. This supports a targeted hostile-hybrid removal layer rather than a simple ethnic-erasure layer.
 
 3. **Forbidden spoils as forbidden technology.**
-   Herem objects cannot be privately appropriated. In this canon, that can become a rule around corrupted node-hardware, priestly instruments, hybrid relics, or other technologies that must not enter the market, household, or king's treasury.
+   Herem objects cannot be privately appropriated. In this canon, that can become a rule around corrupted forbidden site-instruments, priestly instruments, hybrid relics, or other technologies that must not enter the market, household, or king's treasury.
 
 4. **David and Goliath as unfinished decommissioning.**
    Goliath of Gath becomes the remnant problem: the Anakim line survives Joshua's campaign at the coastal edge and reappears later as unfinished business. David is not just a brave shepherd but the later hand that closes a still-open hybrid thread.
@@ -532,4 +532,4 @@ If this distinction blurs, the canon starts arguing against itself. The hostile-
 
 ### Craft rule
 
-Use herem as a structural memory, not an apologetic lecture. The story does not need to defend Joshua. It can borrow the pattern: a corrupted node or bloodline cannot be looted, domesticated, romanticized, or absorbed. It has to be taken out of circulation before the human social body can heal.
+Use herem as a structural memory, not an apologetic lecture. The story does not need to defend Joshua. It can borrow the pattern: a corrupted ground or bloodline cannot be looted, domesticated, romanticized, or absorbed. It has to be taken out of circulation before the human social body can heal.
