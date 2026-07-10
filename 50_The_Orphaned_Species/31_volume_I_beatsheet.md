@@ -23,7 +23,7 @@
 - **Obstacle:** money/status precarity; the refuge's rules; the **Friday demo overload** — layered noise, three languages, Slack pings, terrace band — where the TBI breaks him, against the meditative calm of solo splice work (TBI shown, not told).
 - **Choice → Cost:** none yet — establish what he stands to lose.
 - **Revelation:** Forest City is real, accountable refuge, not dystopia. **Forward clue:** the compound/port network catches a planted song: a live band is paid to play Eli's mother's tune on the terrace and direct anyone who truly recognizes it toward one Melaka contact. The lure does not know the child's face or name; it uses family memory as the filter.
-- **Past leak:** Eli — Bangla to tomatoes + tune fragment in garden (`26` Part V). Mei — sauce taste check mid-rush. Optional: Priya program poster *visibility saves lives* on a health wall. **Babaji tea:** Arif's boy; work not wallet.
+- **Past leak:** Eli — Bangla to tomatoes + tune fragment in garden (`26` Part V). Mei — sauce taste check mid-rush. Optional: Priya program poster *visibility saves lives* on a health wall. **Babaji tea:** Arif's boy; work not wallet. **Archangels (plot — allude, optional):** a lyric or prayer hits *angel* — sternum heat, hair up; Eli grades it, explains nothing (`46` § G; `SOURCE_the_surges`).
 
 ### Ch 2 — Something of Hers *(Eli · Forest City)*
 - **Want:** survive the morning; keep the compound safe.
@@ -82,8 +82,9 @@
 - **Obstacle:** Wren's network and Eli's clue pull opposite ways; a boarding (piracy + inspection + a Custodian traveling with the boarders); Eli's sailing earns him a watch but a real sailor is indispensable; **the Shield (Custodian) shows conscience** when civilians are at risk.
 - **Choice → Cost:** Wren chooses to keep helping Eli over a clean extraction window. Cost: someone in her network pays; her resentment and guilt deepen.
 - **Rowan seed (optional):** Wren receives a **coded ping, manifest name, or song fragment** tied to **Rowan** — shuts it down with too much control; Eli reads tactical fear, not history (`26` § Rowan; `19` § triad placement).
-- **Past leak:** Sora — shields civilian, touches collar like wedding band. Wren — Rowan ping delete + orders real food. Mira — sonic tuner on manifest, Wren goes still (unnamed).
+- **Past leak:** Sora — shields civilian, touches collar like wedding band; **St Michael medal** or prayer line under the uniform — protector faith, not exposition (`46` § G). Wren — Rowan ping delete + orders real food. Mira — sonic tuner on manifest, Wren goes still (unnamed).
 - **Revelation:** the Custodians are **carriers who took the collar** — Wren's dark mirror. **Forward clue:** a planted/false lead (one of the volume's wrong clues) sends them toward an agricultural report.
+- **Dead zone (plot — seed):** detour around **barren ground** — goats won't cross; Eli reads cold/flat. Vocabulary (*scour*, *dead zone*) later (`37` § *Dead zones*).
 
 ### Ch 9 — The Field That Counts *(Eli · Bali or a chosen agricultural stop)*
 - **Want:** test the growth report.
@@ -108,18 +109,18 @@
 - **Attachment:** smallholder rice farmers who already distinguish the anomaly from irrigation/blight; their land, water, livelihood; their wary hospitality.
 - **Obstacle:** the Custodians **and another team** converge; the community wants neither faction; the formation is fragile.
 - **Choice → Cost:** he asks the growers for help, exposing them. Cost: his presence paints a target on the community.
-- **Revelation:** **crop formations are new lines forming**, not symbols imposed. **Forward clue:** the clearest documentation of the line (the formation + a grower's polarity record) is the prize everyone now wants.
+- **Revelation:** **crop formations are new lines forming**, not symbols imposed. Growers distinguish **forming band** from nearby **dead ground** (scour scar — name later). **Forward clue:** the clearest documentation of the line (the formation + a grower's polarity record) is the prize everyone now wants.
 - **Past leak:** Thila — lullaby to scarecrow/rice bird while refusing Eli's hand; *third team this monsoon*.
 
 ### Ch 12 — Ila's Hands *(Eli · the community)*
 - **Want:** help, and not be useless.
 - **Obstacle:** someone is hurt (the converging conflict draws first blood); Eli has Ila's record but no mastery.
-- **Choice → Cost:** he attempts his **first frightened stabilization** — **pressure-read at a bleed**, slows bleeding, reduces swelling. Cost: it's real but small, and it costs him badly (metabolic crash; recovery grind).
+- **Choice → Cost:** he attempts his **first frightened body-read** — a **pressure-read at a bleed**: he feels exactly where it is bleeding and guides hands to it, but the slowing is ordinary pressure, not a gift (he does **not** heal). Cost: even the read is real but small, and costs him badly (metabolic crash; recovery grind).
 - **Revelation:** **bandwidth is not depth** — he is a receiver, not a healer (seeds the Vol II healer). **Forward clue:** the community's own elders hold knowledge the record doesn't.
 
 ### Ch 13 — Two Teams *(ensemble · the community)*
 - **Want:** survive the convergence; protect the documentation / the people.
-- **Obstacle:** the Custodians and the rival team **attack each other** around the formation; civilians in the crossfire; entrainment-driven panic (`38`); **the Shield's conscience cracks** toward (not yet into) defection.
+- **Obstacle:** the Custodians and the rival team **attack each other** around the formation; civilians in the crossfire; entrainment-driven panic (`38`); **psion teams contest the ground** — first on-page hint that factions **target charged sites**, not only people (`38` § *Scour* — vocabulary later); rival unit **callsign** in chatter (Persia-prince seed — name later, `46` § G); **the Shield's conscience cracks** toward (not yet into) defection.
 - **Choice → Cost:** Wren commits to getting civilians out over securing the clean clue — forcing Eli's hand. Cost: the cleanest evidence is now in jeopardy.
 - **Revelation:** the war began before Eli existed and doesn't care about his clue. **Forward clue:** to save people, the documentation must be sacrificed.
 

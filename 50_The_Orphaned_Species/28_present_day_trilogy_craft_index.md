@@ -17,6 +17,13 @@
 | Romance / Wren / Rowan triad | `19_romance_and_divine_pairing.md` + `27` § Wren & Rowan |
 | Locked beats / open names | `99_open_questions.md` |
 | Volume I chapter order | `31_volume_I_beatsheet.md` |
+| Volume II chapter order | `32_volume_II_beatsheet.md` |
+| Volume III chapter order | `33_volume_III_beatsheet.md` |
+| Science citations / epigraphs / *On the record* | `90_epigraphs_and_sources.md` § *Citation layer* |
+| Patriarchy & bloodlines chord (Tem, 17:1, Qingu) | `37_deep_time_source.md` § *Patriarchy & bloodlines* |
+| Archangels / sarim (seventy sons downgraded) | `46_divine_council_roster.md` §§ E, G — **character ladder LOCKED** |
+| Dead zones / psion scour | `37` § *Dead zones*; `38` § *Scour & ground targeting* |
+| Nephilot trail / Alba–elf / Pömmelte massacre | `37` § *Tracking the Nephilot line*; `90` §6 |
 | Plot spine (3 vol, acts, gaps) | `29_trilogy_plot_and_development.md` |
 | Full structure / climax | `05_story_architecture.md` |
 

@@ -107,6 +107,114 @@ Frame: Targum Pseudo-Jonathan on Deut 32:8 reads "**70 angels**" for the divine 
 
 ---
 
+## G. Archangels — incorporation (LOCKED)
+
+*How the book uses **archangels** without adding a new species, a winged rescue squad, or a decoder ring. Full cosmology: `45_divine_names.md` (Psalm 82, Deut 32:8–9); roster: §§ B–E above; plot: `32` Ch 16 & 20, `33` Ch 25–26; Eli's body: `SOURCE_the_surges.md` (word-trigger *angel*).*
+
+### What they are in canon
+
+**Archangels are the monotheistic folk-memory of the seventy territorial administrators** — the same layer as Chemosh, Baal, and the *sarim* (guardian princes) of Daniel 10, after two downgrades:
+
+1. **Gods of the nations** (Deut 32:8 — *sons of God* / *sons of El*)
+2. **Guardian princes** (Daniel 10 — *sar* of Persia, Greece, Israel)
+3. **Angels / archangels** (Targum on Deut 32:8 — *70 angels*; medieval four-name compression: Michael, Gabriel, Raphael, Uriel)
+
+Same history, three liturgies. The book treats **(3) as derivative memory of (1)**, not as a separate heaven full of winged beings.
+
+| In-fiction layer | What "archangel" often means | Strong anchor |
+|---|---|---|
+| **National administrator** | The *sar* assigned to a people/territory | **Michael** ↔ Israel (Dan 10:13, 12:1) ◆ |
+| **Rival bloc operator** | Unnamed prince of Persia/Greece blocking a message | Dan 10:13, 20 ◆ |
+| **Messenger/transmitter** | One who carries word between planes — often misread | **Gabriel** (Dan 8–9) ◆ |
+| **Healer/guide (late)** | European church compression | **Raphael** (Tobit — use sparingly) ◇ |
+| **Apocryphal elevation** | Human or practitioner **misremembered as angel** | **Metatron**, **Sandalphon** (3 Enoch) ○ — rhyme with **Seven / chair-transmitter** folklore, not literal beings |
+
+**Psalm 82 is the hinge:** the council is judged and sentenced to *die like men* — so later ages could only remember them as **angels** ( diminished gods), not as living administrators on the ground.
+
+### What they are NOT
+
+| Wrong read | Correct read |
+|---|---|
+| **Anu + 26** on the spirit plane | Higher elder register — **not** archangels |
+| **Dragons** | Biological thermal/resonance tier — **not** angels |
+| **The Seven** (Aru, Tem, Anthea…) | Historical **practitioners** Eli clarifies — **not** archangels descended to help |
+| **Custodians / psion teams** | Modern collared carriers — may **invoke** archangel names as cover |
+| **Winged rescuers in Act I** | Iconography, entrainment vision, or faction branding only |
+
+**Craft rule:** no literal winged figure saves Eli on-page unless the scene is clearly **art, dream, or psionic hallucination** — and even then, effects before theology.
+
+### How to dramatize (effects first)
+
+| Device | Example on-page | Volume |
+|---|---|---|
+| **Word-trigger surge** | Lyric or prayer hits *angel* — sternum heat, hair up; Eli grades it, no explanation (`SOURCE_the_surges`) | I+ |
+| **Translation fight** | Archive or amulet: *sar* vs *malʾakh* vs "guardian angel" — Wren or a keeper picks the reading that matches their fear | II Ch 16 |
+| **Broken-line church** | **Michael** or **Gabriel** in glass/statuary at the **pew-side (negative) end** — guardian turned drain; priest claims protection, laity are flat | II Ch 20 |
+| **Landscape + liturgy double-read** | Priest says Michael; Eli reads **Horon** in **Beth-Horon** on the map — god demoted to geography *and* re-promoted to angel (`33` Ch 25) | III |
+| **Faction cover story** | Union or Mandate briefings: "Archangel Protocol" = national psion unit guarding a **portion** (Israel, Persia, etc.) | II–III |
+| **Healer refusal rhyme** | Crowd wants a **messenger of God**; he refuses messenger/son titles — Gabriel arc **without naming Gabriel** | III Ch 26 |
+| **Deification inversion** | **Metatron** folklore = what happens when a receiver is **elevated against his will** — Eli's fear made mythic | III |
+
+**Honesty:** Michael and Gabriel are **biblically attested** as names/roles; Raphael/Uriel are **late trad**; Metatron/Sandalphon are **apocryphal** — flag confidence in prose via *who* is speaking (scholar vs keeper vs Crane slide deck).
+
+### Plot pins (synced to beat sheets)
+
+| Beat | Chapter | Move |
+|---|---|---|
+| *Sarim* register surfaces | Vol II **Ch 16** | Mesopotamian leg — Daniel-style "princes" in dispute; not yet winged |
+| Archangel iconography at wrong end | Vol II **Ch 20** | Broken-line church — Michael/Gabriel as **miswired guardians** |
+| Gods → angels → map | Vol III **Ch 25** | Roster in stone + liturgy; Deut 32 / Psalm 82 as **evidence**, not sermon |
+| Refuse messenger/son title | Vol III **Ch 26** | Healer — anti-Gabriel, anti-*Son of Man* in one motion |
+| "Archangel Protocol" as war language | Vol III **Ch 23–28** | Factions claim **portions** via angel names |
+
+**Status:** pinned in plot layer; **not yet in `MANUSCRIPT.md` prose.**
+
+### Character ladder — allude → reference → recontextualize (LOCKED)
+
+*Specific archangels are **relevant characters** — but not a second Seven. The Seven are **practitioners** Eli clarifies as deep human threads. Archangels are **titles for the territorial layer** — how power names a divine **portion**. Payoff = **recognition**, not recruitment.*
+
+**Best shape for this trilogy:**
+
+| Phase | Volume | What the reader gets | Names to spend |
+|---|---|---|---|
+| **Allude** | I | Body only — word-trigger surge on *angel*; maybe Shield's medal, a patch, a line in a prayer; **no wings, no theology** | *angel* (generic) |
+| **Reference** | II | Names attach to **institutions and blocs** — Daniel *sar* dispute (Ch 16); Michael/Gabriel **miswired** in church (Ch 20); briefings say "Archangel Protocol" / "Michael's corridor" / "Persia prince holding the line" | **Michael**, **Gabriel**, **Prince of Persia** (unnamed ◆) |
+| **Recontextualize** | III | Names **pay off as roles**, not new cast members — landscape double-read (Ch 25); healer refuses **Gabriel** messenger role (Ch 26); convergence (Ch 28–29) | **Michael** may **clarify** once; **Gabriel** should **not** appear as a person |
+
+**Pick three, not seven.** Treat only these as load-bearing "characters":
+
+| Name | Narrative job | How they "appear" |
+|---|---|---|
+| **Michael** | The **protector title** — keeper faith, Shield's conscience, "who guards Israel's portion." The name people trust when they want safety. | **Vol II:** iconography + faction language. **Vol III:** optional **one** watched-depth or full-res clarification at a western/Israel-linked charged ground — *not* an ally with wings; a **shard** of the portion-holder logic Eli finally reads. Rhymes with **Manual Override** (refuse the protector who owns you). |
+| **Gabriel** | The **messenger title** — the crowd's crown for the **healer specifically**: *the one who brings word/cure from above* (Eli's crown is different — chosen-one/king, see Metatron row and `05` "two refusals, two crowns"). | **Vol II:** stained glass, annunciation echo in rumor. **Vol III:** **never embodied.** Payoff = **healer's** refusal of the messenger/Son-of-Man crown (Ch 26). Gabriel "appears" only as the **role everyone tried to force on a human body**. |
+| **Prince of Persia** | The **rival bloc** — Daniel's unnamed blocker; the other portion's operator. | **Vol II–III:** living **human** antagonist or psion unit **codename** first (reader thinks it's a person). Late reveal: the codename was always the **national sar** — the partition war, not a demon in a cape. |
+
+**Use lightly or not at all as characters:** **Raphael** (European church / Tobit color in Ch 20 only); **Uriel** (optional one line); **Metatron/Sandalphon** (apocrypha — **Eli/healer elevation fear only**, never allies).
+
+**What to avoid**
+
+- **Angel team-up** in Act III — breaks cast load and duplicates the Seven.
+- **Gabriel as romantic or guide figure** — collides with Wren/Emrys/healer.
+- **Michael saves Eli** — Michael is the name of the cage dressed as protection.
+- **Explaining all four archangels in one chapter** — spread across Vol II reference and Vol III recontextualization.
+
+**Why this is best for the book:** It honors why archangel names matter to readers while keeping the thesis: **the orphaned species kneels to titles long after the administrators are gone** — and late in the trilogy Eli learns which titles were always **portions**, not persons.
+
+### Plot ladder — chapter pins (LOCKED)
+
+| Name | Vol I — allude | Vol II — reference | Vol III — recontextualize |
+|---|---|---|---|
+| *(generic)* **angel** | **Ch 1 or 8:** word-trigger surge in song/prayer — body only (`SOURCE_the_surges`) | — | — |
+| **Michael** | **Ch 8:** **Sora Vithan** — medal or prayer fragment under collar; protector faith, no exposition (`26` § Sora) | **Ch 16:** *sar* vs angel in dispute; **Ch 20:** Michael in church glass at draining end | **Ch 25:** landscape/liturgy double-read; **Ch 29 (optional):** one watched-depth shard at western charged ground — portion logic, not winged ally |
+| **Gabriel** | — | **Ch 19–20:** annunciation echo in healer rumor; Gabriel in church iconography | **Ch 26:** **healer** refuses **messenger/Son-of-Man** crown (the body's crown) — Gabriel **never embodied**. *(Eli's Ch 27 refusal is a **different** crown — the king/amplifier-voice, not the messenger; see `05` "two refusals, two crowns.")* |
+| **Prince of Persia** | **Ch 13:** rival psion team on the ground (no name yet) | **Ch 16:** Daniel register + unit callsign **"Prince"** or **"Persia hold"** in intercept/briefing | **Ch 28–29:** codename resolves to **national sar** — partition war, not a demon; human operator was wearing a title |
+
+**Cast lock:** **Sora Vithan** carries Michael (Vol I seed → Vol III defection rhymes with refused protector). **Rival national team** wears Persia-prince callsign (Vol I Ch 13 → Vol III reveal). **Healer** carries Gabriel projection (Vol II rumor → Vol III refusal).
+
+**Still open (`99`):** Michael vs Gabriel at church draining end; rival team nationality + **Prince** callsign holder's personal name; whether Michael watched-depth lands Ch 25 or Ch 29.
+
+---
+
 ## F. The consolidated numbered list — counting toward 70
 
 *One deduplicated register of everything above, plus the wider-pantheon entries needed to reach the symbolic seventy. **Entries 1–40 are the West-Semitic core** (the strict "sons of El": Ugaritic god-list + biblical national gods) — this is the defensible heart. **Entries 41–70 widen the scope** to the gods of the neighboring nations (Mesopotamian An=Anum council, Phoenician city-gods, Aramean/Palmyrene, Arabian), which is what "70 **nations**" actually implies. Confidence flagged; overlaps noted. The count is illustrative, not a claim that exactly these seventy were ever listed together.*
@@ -210,6 +318,23 @@ Frame: Targum Pseudo-Jonathan on Deut 32:8 reads "**70 angels**" for the divine 
 
 ---
 
+## G. The feminine / consort tier — the Palace of the Mothers (charged-ground reading)
+
+The carve-up to one father did not only demote *rival national gods* (Chemosh, Baal, Qos). It wrote out the **consort and goddess tier** — the feminine half of the council — and that erasure is the book's **Palace of the Mothers**.
+
+Entries already in this roster that form the feminine tier:
+- **Asherah / Athirat** (#3) — mother-consort, "mother of the 70"; the casualty of the collapse to one father (§A).
+- **Anat** (#18) · **Astarte / Ashtart / Queen of Heaven** (#31) — war & love.
+- **Kotharat** (#23) — the seven birth-goddesses.
+- **Pidray, Tallay, Arsay** (#24–26) — Baal's daughters (light / dew / earth).
+- **Shalim** (#16, dusk) · **Nikkal** (#13, orchard / moon-consort).
+
+The historical anchor for "a palace full of women who kept the old cult alive": **Jeremiah 44:15–19** — after the reform, the women of Judah in Egypt tell the prophet outright they will *not* stop burning incense and baking cakes to the **Queen of Heaven**; the male monotheist word failed to reach them. The goddess cult survived as a *women's devotion* the carve-up couldn't fully purge. That is the population of the Palace: the demoted feminine council, remembered by the women who would not let them go.
+
+**Book reading — the Palace of the Mothers as a charged ground.** The "one history, many liturgies" rule (craft note below) has a gendered edge: the council's feminine tier was not defeated by a rival *people* (like Chemosh) but **absorbed and silenced within Israel's own memory**. So the Palace is where Eli clarifies the **withdrawn feminine administrators** — and it is the charged ground closest to the **mother-thread** (`36` §7): the taut thread held by hope of reunion. The Palace of the Mothers is the place the orphaning is felt from the mother's side. Intrigue = the court politics of gods who remember they were co-rulers, now sunk into geography or silence; and the human women who kept the cult alive under the reform. Use it as a **deep** charged ground (Vol II/III), never as a decoder of the cosmology.
+
+Keep the spins opposed here too: to the reformers, the Palace is apostasy; to the women of Jer 44, it is the only honest memory; in this canon, it is the feminine half of the withdrawn council, the counterpart to the male Igigi-tier roster above. The contradiction is evidence of the same carve-up.
+
 ## How to extend this roster
 
 To add a defensible entry, run one of the four streams:
@@ -229,6 +354,8 @@ Each new entry: assign a confidence flag and, if speculative, mark it ○ so the
 
 - **A usable scene.** Eli, clarifying a deep thread at a charged ground, reads a landscape and hears the dead council in its names — a town, a hill, a spring, each a god demoted to geography. The Igigi administrators did not vanish; they sank into the map.
 
-- **Keep the spins opposed.** Same rule as `45_divine_names.md`: each culture remembers the same council with its own theology. To Moab, Chemosh is *the* god; to Israel, he is a defeated rival son; in this canon, he is one Igigi-tier administrator of a parceled nation. Let the contradiction stand — it's evidence of the carve-up, not a problem to solve.
+- **Keep the spins opposed.** Same rule as `45_divine_names.md`: each culture remembers the same council with its own theology. To Moab, Chemosh is *the* god; to Israel, he is a defeated rival son; in this canon, he is one Igigi-tier administrator of a parceled nation. Let the contradiction stand — it's evidence of the carve-up, not a problem to solve. The strongest instance of this is intra-Israelite and *in living memory*: Yahweh was originally a southern smelting-desert god (Shasu / Edom / Midian), **not** the Canaanite El, and was grafted onto El's throne late — Kuntillet ʿAjrud still pairs "Yahweh *and his* Asherah," and the Mesha Stele (840 BCE) treats Yahweh as an independent rival national god. The merger into "Yahweh = El" was still unfinished when much of the canon was written. The carve-up, in other words, was not remote myth but a recorded realignment the book's own "one history, many liturgies" rule is modeled on.
+
+- **Archangels = late memory, not a new tier.** When a keeper, priest, or Crane briefing says "archangel," the reader should eventually hear **seventy sons downgraded** (§ G): national administrators remembered as guardians after Psalm 82. Show through iconography, translation fights, and place-name double-reads — never a winged exposition dump.
 
 - **Never ancient-aliens trivia.** The payload is the wound, not the spotter's-guide. The roster matters because an orphaned species keeps the names of its withdrawn administrators long after it has forgotten what they were — and kneels to their faint echo anyway.

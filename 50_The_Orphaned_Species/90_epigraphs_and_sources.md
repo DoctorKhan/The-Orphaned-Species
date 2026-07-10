@@ -2,6 +2,44 @@
 
 A living collection of real scientific papers, excerpts, and quotes that anchor the mythic narrative to the actual record. The book is myth, but it sits on real science — these are the load-bearing citations, kept in one place so they can be dropped in as **epigraphs** wherever they land hardest: chapter openings, chapter closings, part dividers, or inline as a fragment the cave shows.
 
+## Citation layer — where references live on the page
+
+**Problem:** Academic footnotes in the middle of literary prose break voice. No footnotes also hides the science floor the book is built on.
+
+**Solution — three layers, never mixed in one breath:**
+
+| Layer | Where | What | Reader effect |
+|---|---|---|---|
+| **1. Epigraph** | *Before* chapter or preamble (blockquote, one quote max) | Verified author words only — `[VERBATIM TODO]` until pasted from PDF | Myth first; then the floor tilts under it |
+| **2. Prose** | Chapter body | **No** `(Zeberg 2020)`, **no** superscripts, **no** "studies show" unless a **character** says it (Emrys, a registry pamphlet, a harbor broadsheet) | Story stays story |
+| **3. On the Record** | *After* chapter (or after preamble), separated by `---` | 0–3 plain-language bullets + optional DOI; label in italics: *On the record* | Optional read for the curious; skippable without losing plot |
+
+**Rules:**
+
+- **Default silent.** If a chapter has no cited anchor, omit *On the record* entirely — do not pad.
+- **Honesty in layer 3 only.** Distinguish **anchor** (real paper) from **gloss** (fiction). Example: *"Real COVID modulated severity in carriers; the novel's weapon is speculative."*
+- **Paragraph breaks in myth-historical prose** (preamble, Part II cadence): one beat per paragraph — weapon geography separate from coalition sort; puberty separate from bloc responses. Long blocks read like lecture; short blocks read like scripture.
+- **Export:** Layer 3 can become endnotes, a closing *Notes on the Record* section, or stay inline in the markdown master — same content, three layouts.
+- **Master bibliography:** This file + `WORLD_BIBLE.md` §8. `MANUSCRIPT.md` carries only what belongs on the reader's path.
+
+**Template (copy into `MANUSCRIPT.md` after each chapter that earns an anchor):**
+
+```markdown
+---
+
+*On the record*
+
+1. **Short label.** Author (year), *Journal* — one sentence: what the paper found; one sentence: what the book fictionalizes (if anything).
+```
+
+**Template (epigraph — only when verbatim is confirmed):**
+
+```markdown
+> *Exact quote from source.*
+>
+> — Author, *Journal* (year)
+```
+
 ## How to use this file
 
 - **Add freely.** Paste new papers, quotes, and excerpts under the relevant section. Rough is fine; we tidy later.
@@ -273,6 +311,143 @@ URL: https://www.livius.org/sources/content/anet/266-the-sumerian-king-list/
 - DeGrado, Jessie, and Madadh Richey. "Discovering Early Syrian Magic: New Aramaic Sources for a Long-Lost Art." *Near Eastern Archaeology* 84.4 (2021): 282–292.
 
 **Suggested placement:** Mid-chain artifact after the King List or Adapa material. It should complicate—not simply confirm—the father-god reconstruction and give a non-Eli custodian interpretive authority.
+
+---
+
+## 8. Yahweh's southern origin — Shasu, Timna, Nehushtan, and the Dionysus witness
+
+*The furnace-god / desert-margin strand. Concept treatment in `45_divine_names.md` ("The southern origin," "The Ish Elohim," "The Dionysus witness"); objects in `35_artifact_chain.md` (Timna serpent, Nehushtan). All of this is **contested / minority** scholarship — cite it as an argued position, never as settled fact. Handling discipline is the same as AT1: characters argue toward it; it never decodes the cosmology.*
+
+**The framing claim (minority hypothesis):** Yahweh is not native to the Canaanite pantheon. He originates as an outsider god of the southern smelting deserts (Edom / Midian / Seir), is grafted into El's throne late, and over centuries absorbs El, Baal, and Elyon. The **Kenite / Midianite hypothesis** (F. W. Ghillany, 1862) is revived today chiefly through **Nissim Amzallag**'s work reading Yahweh as a patron of furnace metallurgy.
+
+**Evidence anchors to verify before use:**
+
+- **Shasu inscriptions** — Egyptian topographical lists (Soleb temple, reign of Amenhotep III, 14th c. BCE; repeated under Ramses II) naming *tꜣ šꜣsw yhwꜣ*, "the land of the Shasu of Yhw." Oldest attestation of the name; places it among southern nomads. Verify the Soleb/ʿAmarah West readings and current Egyptological consensus (it is widely cited but the identification with the biblical divine name is debated).
+- **Timna** — the copper-smelting site in the Arabah with a Midianite tent-shrine (excavations of Beno Rothenberg; ongoing work by Erez Ben-Yosef). The **gilded copper serpent** find is the object for `35_artifact_chain.md`. Verify site phase, the serpent's context and current interpretation.
+- **Kuntillet ʿAjrud** — the "Yahweh of Samaria" and "Yahweh of Teman" inscriptions (already cited in this project for Asherah). The regional-manifestation angle is the new use: one name instantiated per place.
+- **Mesha Stele** (King Mesha of Moab, ~840 BCE; Louvre) — Mesha boasts of dedicating the **vessels of Yahweh** to his god Chemosh after taking an Israelite city. Shows Yahweh treated as an **independent rival national god**, *not yet fused with El*, in the 9th c. BCE — corroborates the late-merger reading. (Chemosh is already in the roster at `46` §B; this adds the Yahweh-as-rival angle that the carve-up then absorbed.)
+- **Amzallag, Nissim.** "Yahweh, the Canaanite God of Metallurgy?" *Journal for the Study of the Old Testament* 33.4 (2009): 387–404. The anchor for the smelter-god reading. Flag it in the bibliography as a specific scholar's thesis, not consensus.
+
+**Why it matters to this book:** A maker who never travels but forms creatures from Earth's own ore through fire and the moving air of the bellows is a degraded folk-memory of the **Safehouse Premise** — the makers present only as animating signal, never in person. Timna reads as a **charged ground** (holiness = what was made there). The **bellows / moving air as the demiurgic factor** rhymes with the anti-entropic medium and the psionic signal: breath animates the machine at the forge as in the body. Keep all of this as *rhyme*, never stated equivalence.
+
+**Epigraph candidates (verify wording against the chosen translation/edition):**
+
+- **1 Kings 19:11–12** — the theophany to Elijah: Yahweh is *not* in the wind, the earthquake, or the fire, but in the *"still small voice"* / *"a sound of thin silence"* (qol demamah daqqah). The book's register for how contact actually arrives — quiet, missable, the opposite of spectacle. Pairs with Eli's surge phenomenology (`SOURCE_the_surges.md`).
+- **2 Kings 18:4** — Hezekiah *"broke in pieces the bronze serpent that Moses had made, for until those days the people of Israel had made offerings to it; it was called Nehushtan."* The Serpent-Slaying at human scale; anchor for the Nehushtan artifact-chain entry.
+- **Exodus 7:1** — *"See, I have made you as God (Elohim) to Pharaoh"* — the **ish elohim** / human-theophany line (see also Elijah calling fire, 1 Kings 18). The living-web practitioner in old vocabulary.
+
+**The Dionysus witness (classical, real, citable):**
+
+- **Plutarch,** *Quaestiones Convivales* (*Table Talk*) 4.5–6 — argues the Jewish god is a form of Dionysus (Sabbath rites, wine, priestly dress).
+- **Tacitus,** *Histories* 5.5 — reports, and then *disputes*, the same Greek identification.
+
+Use these as an **ancient outside witness to "one history, many liturgies"** — two cultures noticing the same god-shape under two liturgies and arguing about it on the record. Load-bearing homology: **trance / psyche-override** (both gods move the follower from inside). Wine, the perpetual flame (*Ner Tamid* / the Theban flame), milk-and-honey, and serpent imagery are texture only.
+
+**Do NOT canonize:** the Aegean chain (Velchanos/Kouros, Balakrishna comparison, Sea Peoples carrying the smith-god west) is fringe. If used at all, give it to a character who over-claims, so its weakness is dramatized.
+
+**Suggested placement:** Southern / desert-margin thread, mid-to-late chain, after the divine-council material has established the "one history, many liturgies" rule the Dionysus witness then confirms from outside. The Elijah "thin silence" line is a strong epigraph before a surge/contact chapter.
+
+---
+
+## 5. Preamble science floor — COVID haplotype, gene drives, puberty epigenetics
+
+*Anchors for the near-future weapon and the puberty threshold in the **Preamble** and WORLD_BIBLE §§2–4. These papers do **not** belong quoted in full inside the preamble unless used as a dry epigraph; they are the **fact floor** under fictional escalation.*
+
+**Craft rule:** On-page preamble stays myth-historical. If a quote is used, let it land as an epigraph **before** or **after** the preamble, not as a footnote lecture inside it.
+
+### A. The chromosome-3 Neanderthal haplotype (COVID severity rhyme)
+
+**Paper:** Zeberg, H., & Pääbo, S. (2020). "The major genetic risk factor for severe COVID-19 is inherited from Neanderthals." *Nature*, 587(7835), 610–612. https://doi.org/10.1038/s41586-020-2818-3
+
+**The finding (paraphrase — confirm before quoting):** A major genetic risk factor for **severe** COVID-19 lies on **chromosome 3** (3p21.31 cluster) in a haplotype **inherited from Neanderthals**. Carrier frequencies vary by population — notably **common in South Asia**, **present at lower frequency in Europe**, and **often absent in East Asia** — creating the geographic **severity skew** the real pandemic showed, not a clean infection divide.
+
+**Why it matters to this book:** This is the **honest anchor** behind the preamble’s “gene drive virus / populations preferentially at risk” and the Mandate’s statistical sparing of East Asia. The novel **fictionalizes** the locus into an engineered **acute kill-switch**; real COVID did **not** work that way — it modulated **severity**, and everyone could be exposed.
+
+**Honesty flags for the author:**
+- Do not write “COVID targeted Neanderthal DNA” as literal history — write “**learning from COVID’s severity map**” or “**keyed to the same haplotype**.”
+- Maren/Eli haplotype-negative British survival in Phase 1 is consistent with ~84% European non-carrier rate (WORLD_BIBLE §2).
+
+**Supporting GWAS:** Ellinghaus, D., et al. (2020). *NEJM* 383(16), 1522–1534. https://doi.org/10.1056/NEJMoa2020283 — independent **3p21.31** severity signal.
+
+> **[VERBATIM TODO]** — Zeberg & Pääbo abstract line on Neanderthal origin and chr3.
+
+**Suggested placement:** Epigraph facing **Preamble** (optional) or **Chapter 1** as counterpoint once Eli’s regional luck is visible; author note only in `WORLD_BIBLE.md` §8.
+
+---
+
+### B. Gene drives (heritable spread — principle real, human weapon hypothetical)
+
+**Papers:**
+
+- **Burt, A. (2003).** "Site-specific selfish genes as tools for the control and genetic engineering of natural populations." *Proc. R. Soc. B*, 270(1518), 921–928. https://doi.org/10.1098/rspb.2002.2319
+- **Esvelt, K. M., Smidler, A. L., Catteruccia, F., & Church, G. M. (2014).** "Concerning RNA-guided gene drives for the alteration of wild populations." *eLife*, 3, e03401. https://doi.org/10.7554/eLife.03401
+- **National Academies (2016).** *Gene Drives on the Horizon.* https://doi.org/10.17226/23405
+
+**The finding (paraphrase):** A **gene drive** biases inheritance so a construct spreads through a population far faster than Mendelian rules. CRISPR-based drives are **plausible in insects** and discussed for disease-vector control; **human deployment is not responsible science** and remains **speculative fiction** here.
+
+**Why it matters to this book:** Explains “**even when cured, survivors passed it to their children**” and Phase 2’s universal latent construct without invoking magic. The preamble’s “gene drive virus” should be read as **retroviral + drive-capable construct** (WORLD_BIBLE §2), not a natural pandemic.
+
+> **[VERBATIM TODO]** — one line from Esvelt et al. on CRISPR drives altering wild populations; or National Academies on uncertainty/containment.
+
+**Suggested placement:** Epigraph before **puberty / threshold section** of Preamble (second movement) or a late Vol I chapter when registry heritability is named.
+
+---
+
+### C. Puberty — hormonal gating & epigenetic activation (Phase 2 timer)
+
+**Mechanism anchor (textbook):** Steroid hormones (estrogen, testosterone) surge at puberty; receptor–**hormone response element** complexes switch promoters ON. This is standard endocrinology and the **real gate** behind WORLD_BIBLE §3’s synthetic hormone-responsive promoter.
+
+**Epigenetics anchor:**
+
+- **Lomniczi, M., Wright, H., & Ojeda, S. R. (2015).** "Epigenetic regulation of female puberty." *Frontiers in Neuroendocrinology*, 36, 90–107. https://doi.org/10.1016/j.yfrne.2014.11.002
+
+**The finding (paraphrase):** Puberty is not only hormones — it involves **epigenetic reprogramming** that unlocks reproductive and neural circuits. Adolescence is a **developmental phase change**, not a single switch-flip day.
+
+**Why it matters to this book:** Supports “**puberty came for everyone’s children — the bottleneck’s second cost**” and threshold episodes as a **generational** phenomenon. The **psionic receiver / maintenance practice** layers are **speculative gloss** on top (`33`, `39`, `91` §1.5) — real puberty epigenetics does **not** prove Tree-of-Life genes or ley-line reception.
+
+**Optional DMT-trip floor (keep soft):** endogenous DMT pathway (INMT, AADC, MAO) — Barker, Szábo et al.; see WORLD_BIBLE §4. Pineal = unsettled.
+
+> **[VERBATIM TODO]** — Lomniczi et al. line on epigenetic control of puberty onset.
+
+**Suggested placement:** Epigraph opening **threshold-house** chapter (Vol I Ch 1–2 region) or before Eli’s hidden puberty is named; **not** inside Preamble unless one line only.
+
+---
+
+## 6. Nephilot purge — Pömmelte, Gomolava, Basal Eurasian trail
+
+*Anchors for Eli's **tracking the carrier line from Göbekli westward** and the **massacre / Alba → elf** beats (`37` § *Tracking the Nephilot line*).*
+
+### A. Göbekli-era ghost lineage (trail start)
+
+**Papers:** Lazaridis, I., et al. (2014). "Ancient human genomes suggest three ancestral populations for present-day Europeans." *Nature*, 513, 409–413; Lazaridis, I., et al. (2016). "Genomic insights into the origin of farming in the ancient Near East." *Nature*, 536, 419–424.
+
+**The finding (paraphrase):** Early Anatolian/Near Eastern farmers carry a distinct **Basal Eurasian** component — a "ghost lineage" absent in other ancient groups — consistent with a **sealed/refugium nursery** unsealing into the Neolithic spread. In canon this rhymes with **Qingu** stock at Phase VI; **Nephilot** carriers follow a separate down-breeding path but the **archaeogenetic trail Eli can follow begins here**.
+
+**Suggested placement:** *On the record* after **Vol II Göbekli** chapters; epigraph optional.
+
+### B. Pömmelte ring sanctuary — gendered massacre in the henge
+
+**Sources:** Spatzier et al. — Pömmelte "German Stonehenge" (~2321–2211 BCE); shaft deposits with dismembered **women, juveniles, children** vs dignified **male** graves on the eastern side. **[VERBATIM TODO — confirm lead author/year from current excavation publications.]**
+
+**The finding (paraphrase):** A massive **circular henge** contemporaneous with Stonehenge shows ritual destruction of women and children in shafts while adult men receive formal burial — signature of **targeted purge**, not ordinary raid.
+
+**Why it matters to this book:** Primary **stone-circle-class massacre** set-piece. Cave gloss: screening **gifted female carriers** at the sanctuary net. Pair with Cuno/Stonehenge era (~2000 BCE window).
+
+**Suggested placement:** Epigraph or *On the record* before Eli visits the henge ground (Vol II late / Vol III Act I).
+
+### C. Gomolava mass grave — multi-settlement female victims
+
+**Sources:** aDNA + isotope studies on Gomolava mass grave (~800 BCE, Carpathian Basin): **~77 killed, ~87% female**, victims **not related**, diverse childhood diets — gathered from **multiple settlements**. **[VERBATIM TODO — paste primary citation.]**
+
+**The finding (paraphrase):** Annihilation of women and children who would have been valuable as slaves unless the goal was **severing specific lineages** — matches **invisible carrier sweep** (identified by gift, not kinship).
+
+**Why it matters to this book:** Secondary anchor Eli may read **before or after** Pömmelte; proves the purge **repeats** (Phase IX orphan-rebuilt cage).
+
+**Suggested placement:** Archive scene or *On the record* in Europe act; not both sites in one chapter unless contrast is the point.
+
+### D. Alba / Albion / elf (folklore — not genetics)
+
+**Use:** **Alba** = locked in-story name for the western carrier people (`30` generational war; `37` tracking arc). **Albion** = refuge geography. **Elf** = later folklore compression — present as **etymology / place-name fossil**, not species claim. Scottish **Alba** (Scotland) and Germanic **ælf** are **rhymes for the reader**, layered honestly in author notes only unless a character with linguistics says one line.
 
 ---
 

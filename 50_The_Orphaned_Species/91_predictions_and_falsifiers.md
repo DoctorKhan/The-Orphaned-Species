@@ -54,7 +54,7 @@
 *The most elegant and most falsifiable class: each is a clean coincidence-vs-causation question. The framework claims a single hidden cause behind events mainstream science dates independently.*
 
 ### 2.1 Fusion (~0.9 Mya) ≡ the bottleneck (~930–813 kya) — **[LIVE]**
-- **Claim (gloss):** one act of the Hardware Recall — the fusion performed *on* the bottlenecked founders (Phase II).
+- **Claim (gloss):** one act of the Sub-Drone Domestication — the fusion performed *on* the bottlenecked founders (Phase II).
 - **Test:** refine the dating of both; confirm the fusion arose *within* the bottlenecked founder population.
 - **Falsifier:** the fusion substantially pre- or post-dates the bottleneck, or arose in a different lineage.
 - **Anchor:** fusion re-dated ~0.9 Mya (Poszewiecka 2022; IJdo 1991); bottleneck to ~1,280 at ~930–813 kya (Hu et al. 2023 — itself contested). The framework is betting on a contested bottleneck.

@@ -44,7 +44,7 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 | 2. Rattle / contact | First grounding / register-reading | Deliberate entry to descents | Discriminates contact vs command |
 | 3. Charge / pain | Learns it repeats if obeyed | Relation without obeying | Teaches others to hold charge |
 | 4. Relation | Breath, inner ring with Emrys | Healer care vs conscription | Collective geometry without hierarchy |
-| 5. Seeing | One Ila stabilization | Göbekli — instrument redeemable? | Reads mother tether clearly |
+| 5. Seeing | One Ila body-read (diagnostic, not healing) | Göbekli — instrument redeemable? | Reads mother tether clearly |
 | 6. Surge discrimination | Three Circles test | Prophecy/Sol misreads | Real transmission vs forgery at climax |
 | 7. Creation / transmission | Seed: kitchen rhythm, hum | Notes, shared practice fragments | **Bard function** — spreading fire |
 
@@ -71,7 +71,7 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 - Midpoint: Göbekli — past carriers **disagree**; stops seeking one authority.
 - Mother-reveal: dead in body, tethered west — clinging named.
 - Emrys taken — stands without master.
-- Healer reunion — accepts care; accepts he is not the deep healer.
+- Healer reunion — accepts care; accepts he is **not a healer at all** — he reads bodies, Somchai mends them.
 - End: group holds pressure without hierarchy (relational Manual Override).
 
 **Vol III**
@@ -228,7 +228,7 @@ Coerced family → **fracture** → broken/changed by Vol III.
 |---|---|---|
 | **Edda Voss** | True believer manager | Holds team together; no redemption |
 | **Tomás Reyes** | Lance / self-loathing | Burnout or civilian harm point-of-no-return |
-| **Sora Vithan** | Conscience fraying | Defection to Wren's network **or** death trying |
+| **Sora Vithan** | Conscience fraying; **Michael** protector faith | Defection to Wren's network **or** death trying — refused protector rhymes Crane (`46` § G) |
 | **Jin Pak** | Coerced idealist | Sees registry as temp fix; may break early |
 
 ### Eli/Wren development through Custodians

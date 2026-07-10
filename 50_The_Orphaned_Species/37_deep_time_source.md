@@ -31,10 +31,11 @@ For concrete scene forms, use `18_adventure_engine_and_scene_bank.md`. This sect
 
 1. **Growth before energy.** Eli first notices that plants are growing according to a geometry no path, watercourse, shadow, or machine explains. Nobody calls it a ley line.
 2. **A line, then a break.** Separate observations reveal that the growth follows a conductor and that an interrupted conductor leaves two opposed ends. “Positive” and “negative” describe polarity, never good and evil.
-3. **Formation, not inscription.** A crop circle is recognized as the biological effect of new ley lines forming through cultivated land. The plants are the detector; no one has stamped a message into them.
-4. **Routing by stone.** Historical records and physical tests show that standing stones deflect lines inward. Burial or destruction can disable an interface without erasing the underlying planetary conductor.
-5. **Communication at the center.** Only after the earlier pieces are combined does the group understand why people stood at the center of a circle: convergence allows transmission and reception.
-6. **Use without ownership.** The final problem is ethical as well as tactical. Eli can communicate through the network, but refuses to make it a throne, proprietary machine, or new priesthood.
+3. **Dead zones.** Patches where **plants won't grow** and **animals won't go** — herders, sailors, and old maps already know the bad ground before Eli has vocabulary. Later: these mark **intentional severance** (*scour*), not a clean break with two live ends. See § *Dead zones* below.
+4. **Formation, not inscription.** A crop circle is recognized as the biological effect of new ley lines forming through cultivated land. The plants are the detector; no one has stamped a message into them.
+5. **Routing by stone.** Historical records and physical tests show that standing stones deflect lines inward. Burial or destruction can disable an interface without erasing the underlying planetary conductor.
+6. **Communication at the center.** Only after the earlier pieces are combined does the group understand why people stood at the center of a circle: convergence allows transmission and reception.
+7. **Use without ownership.** The final problem is ethical as well as tactical. Eli can communicate through the network, but refuses to make it a throne, proprietary machine, or new priesthood.
 
 **The authorial route makes the ladder physical; Eli never sees this table:**
 
@@ -46,10 +47,10 @@ For concrete scene forms, use `18_adventure_engine_and_scene_bank.md`. This sect
 | **Forest City, outbreak refuge** | Residents compare observations, plot them, and separate rumor from repeatable pattern. A male teacher runs morning martial practice, including Pekiti-Tirsia Kali, and the sailing community teaches Eli basic seamanship on local sailboats. | The refuge supplies method, durable relationships, and ordinary competence rather than a dystopian lesson. Morning training extends Eli's earlier foundation; sailing makes him useful but not masterful during the later maritime escape. |
 | **Melaka** | The near-death breach makes Eli feel an unseen discontinuity before he can interpret it. Growth on either side of the same apparent route behaves differently. | The inciting maritime crisis and pursuit force him to act on incomplete perception. The first clue saves a life or an escape, but also reveals his signature to the ring. |
 | **Singapore** | A fragment of his mother's research and ordinary geospatial records show paired anomalies on opposite sides of missing stretches. Emrys can measure opposition but cannot explain its origin. | Retrieval under surveillance turns the abstract clue into a heist/chase. The data establishes polarity while leaving its use unknown. |
-| **The maritime corridor** | A broken route across the strait has two ends. Eli and Wren learn that maps based on the old network are dangerous because new lines can form and old ones can fail. | Human danger—piracy, checkpoints, and the wider war—forces a live navigation test. The ley discovery complicates the escape; it does not replace material threats. |
-| **South Asia** | Present agricultural knowledge and Ila's independent record connect abnormal growth with the formation of a new line. | The group must protect people and crops affected by the discovery rather than treating a community as a clue dispenser. A failed interpretation has bodily consequences. |
+| **The maritime corridor** | A broken route across the strait has two ends. Eli and Wren learn that maps based on the old network are dangerous because new lines can form and old ones can fail. **Dead zones** — goats won't cross a barren wedge; fishermen detour; growth maps show a **blank** where a route used to run. | Human danger—piracy, checkpoints, and the wider war—forces a live navigation test. The ley discovery complicates the escape; it does not replace material threats. |
+| **South Asia** | Present agricultural knowledge and Ila's independent record connect abnormal growth with the formation of a new line. Growers distinguish **forming line** (curved band, different growth) from **dead ground** (nothing takes). | The group must protect people and crops affected by the discovery rather than treating a community as a clue dispenser. A failed interpretation has bodily consequences. |
 | **Göbekli / Anatolia** | Aru and Daskar's records separate the natural conductor from its built interface: stones redirect; burial decommissions the site. | Crane controls the obvious site, forcing the group to reconstruct geometry from partial records and terrain while being hunted. |
-| **Continental Europe** | Broken lines explain why some ancient grounds are silent and why others answer from unexpected directions. | The route becomes a moving puzzle. Each endpoint changes the next destination, and Crane's superior old maps become less reliable than the protagonists' living observations. |
+| **Continental Europe** | Broken lines explain why some ancient grounds are silent and why others answer from unexpected directions. **The broken-line church** (see below): a nave built on one end of a break, sacristy/back room on the other — parishioners depleted, clergy charged. | The route becomes a moving puzzle. Each endpoint changes the next destination, and Crane's superior old maps become less reliable than the protagonists' living observations. |
 | **Stonehenge and Albion** | Cuno's imperfect record supplies the missing arrangement of bodies, sound, and stone. At the center, the network becomes communication rather than merely sensation. | The discovery pays off as action: reach the center, hold the geometry under attack, distinguish a real transmission from manipulation, and release Eli's mother without taking control of the network. |
 
 **Adventure rules:** show evidence before terminology; require at least one wrong hypothesis; let Wren, Emrys, the healer, farmers, sailors, and local custodians each solve something Eli cannot; and make every lore discovery alter the route, the pursuit, or a relationship. If a revelation changes none of those, it belongs in the bible rather than the novel.
@@ -59,6 +60,105 @@ For concrete scene forms, use `18_adventure_engine_and_scene_bank.md`. This sect
 The chain cannot belong wholly to his mother. Some clues come from her research; others arise from the Seven, living communities, the changing ley network, Wren's contacts, Emrys's measurements, or enemy operations. Otherwise the adventure becomes a parental scavenger hunt. At least one clue is stale because a line broke, one is sincerely misread, and one is planted by a psion faction. An apparent dead end should force a human choice or new relationship rather than being solved by a stronger vision.
 
 **Albion is a late convergence, not a quest marker.** Eli does not know that his mother's spirit is there, that Emrys's chair is there, or that Stonehenge is the final operational ground. In Volume II he can learn only that she is dead in body and tethered somewhere in a western network. The endpoint becomes identifiable in Europe when Cuno's geometry, Derw's carried fragments, his mother's research, and the behavior of the living lines independently agree.
+
+### The broken-line church (LOCKED scene)
+
+*A present-day set-piece on the discovery ladder (step 2: **a line, then a break**). Rhymes with the orphan-and-father thread, Göbekli burial (interface on a conductor), and High Places as extraction geometry — without naming Igigi on-page.*
+
+**When:** **Vol II late or Vol III Act I** — after Eli has seen **paired anomalies / opposed readings** (Singapore archive, `31` Ch 7) and knows a broken conductor leaves two ends. **Not** before polarity is established.
+
+**Where:** a **Christian church** (denomination and country **open** in `99`) on ground where an old route **broke** — often a repurposed High Place: nave over a former routing footprint, altar axis wrong, sacristy/vestry in the annex where the other end landed.
+
+**Geometry (author — translate in prose):**
+
+| End of the break | Built placement | Effect on bodies |
+|---|---|---|
+| **Negative end** | **Pews / nave** — where the congregation sits | **Sink:** attention thins, limbs heavy, peace that feels like emptying; chronic fatigue in regulars; Eli's palms read **cold / drain / depletion** |
+| **Positive end** | **Back room** — sacristy, vestry, records room, priest's prep space | **Draw:** charge accumulates; clergy feel sharp, justified, "fed"; Eli reads **heat / pulse / surplus** through the door |
+
+Energy moves **along the broken route through the building** — parishioners are the medium; priests receive what the geometry harvests. Not magic lightning; **somatic signatures** and lived exhaustion.
+
+**Craft locks:**
+
+- **Polarity ≠ morality** (`15`, `20` Carrier 5): negative is not "evil pews"; positive is not "good priests." The **misplacement** is the crime — one end parked on the laity, one on the clergy. Some priests may not know; the building does the work.
+- **No lecture.** Eli feels it before he names it. Wren or Emrys may supply one tested sentence later. Never "node" on-page — **end of the break**, **pew-side end**, **back-room end**.
+- **Not all churches.** Most are ordinary stone on ordinary ground. This one **earns** its scene because the break + footprint align — reader should infer cargo-cult inheritance (decommissioned interface → parish built on the wound).
+- **Payoff:** Eli recognizes the same **father-above / children-below drain** as registry logic and patriarchy chord — submission taxed as devotion. He refuses to **fix** it for them (no new priesthood); may warn one parishioner or leave a marker for keeper chain. Optional: one priest feels the drain and doesn't know why.
+
+**Adventure function:** wrong map sends them to the church; Eli's read explains why the town feels "off"; pursuit or clue in the back room forces entry during service or after hours; discovery **changes trust** (Wren: "They've been farming you") or **route** (avoid this ground; seek the uncorrupted end).
+
+### Dead zones — barren ground & intentional severance (LOCKED)
+
+*Discovery ladder **step 3**. Distinct from **broken lines** (two live opposed ends) and **forming lines** (plants grow *differently*). Full tactical layer: `38_psionic_combat.md` § *Scour & ground targeting*. **Not yet in `MANUSCRIPT.md` prose.***
+
+**What Eli notices first (no jargon):**
+
+- **Plants** — bare soil, stunted nothing, a wedge or band where seed won't take though water and sun are fine next door.
+- **Animals** — won't graze, won't nest, won't cross; birds arc around; dogs refuse the path; old herders and fishers have names for the bad patch.
+- **Body** — Eli's somatic read: **cold / flat / depletion** (not the tingle of a break, not the hum of a charged ground).
+
+**Three ground states (author — teach by contrast, never as lecture):**
+
+| State | Plants | Animals | What happened |
+|---|---|---|---|
+| **Live route** | Normal or **guided** (curved band = forming) | Cross freely | Conductor intact or routing through stone |
+| **Broken line** | May **curl** at the ends; growth differs on each side | Usually still cross | Route snapped; **two opposed ends** remain active |
+| **Dead zone** | **Won't grow** | **Won't enter** | Conductor **locally killed** — *scoured* |
+
+**Reveal (cumulative):** dead zones map to places where someone **intentionally destroyed or poisoned** a route — not accident, not mere burial of an interface (Göbekli: Daskar felt the **conductor remain** under the fill; center **silent**, not barren). Scour is **war on the grid**.
+
+**Who does it:**
+
+| Actor | Method | Story use |
+|---|---|---|
+| **Ancient control / abandonment** | Decommission interfaces (bury pillars); **herem**-logic; Younger Dryas grid fracture | Deep-time rhyme; cargo cult on dead hardware |
+| **Present psion teams** (Custodians, national programs, Crane ring, mercenary cells) | **Scour** — sustained Lance/team work on a conductor choke point; instruments + signatures; sometimes conventional demolition on stone | Deny rivals a route; hide a tether; force detours into ambush |
+| **Bad psion targeting** | Attack **forming lines** (Vol I rice community), **witness sites**, **charged grounds**, **maritime choke points**, **approaches to Albion** | Eli walks into fights that started before him; maps show scars |
+
+**Craft locks:**
+
+- **Effects before thesis.** "The goats won't" → blank on the growth map → mother's note on *deliberate grid damage* → only then *scour*.
+- **Not every bad field.** Blight, salt, war debris, climate — Eli must **misread once** (wrong hypothesis costs time).
+- **Dead zone ≠ moral stain on locals.** A village beside a scour is not "evil"; someone **upstream** cut the line.
+- **Plot fuel:** dead zones explain why old maps fail, why Crane's archives mark **forbidden wedges**, why Wren detours, why the rice **forming line** is worth killing for — it's new life on a wounded net.
+
+**When:** seeds **Vol I** (maritime detour, South Asia growers' distinction); name and map **Vol II** (corridor, Göbekli contrast, Emrys measurements); **Vol III** Europe — dead zones bracket live grounds approaching Albion.
+
+### Tracking the Nephilot line — Göbekli → massacre → Alba / “elves” (LOCKED discovery arc)
+
+*Present-day investigation chain: the **Nephilot** (hidden fertile carriers, ≈25% guardian-blood) are remembered as **Elves** and **Albians**; the western retreat name **Alba** survives in place and folk memory. Full cosmology: `00_MASTER_TIMELINE` Phase VI / IX; glossary: `95_glossary.md` (Nephilot, Albians, Qingu); purge archaeology: Pömmelte, Gomolava (`00` Phase IX). **Not yet in `MANUSCRIPT.md` prose.***
+
+**Craft rule:** **effects before terminology.** Eli follows genetics, growth anomalies, massacre aDNA, and place-names before anyone says “elf.” Folklore is the **compression layer**, not the thesis. Avoid real-world racial “pure blood” language; carriers are **invisible until gifts show** at charged grounds.
+
+**What the names are (author — one sentence max on-page):**
+
+| Term | Canon meaning |
+|---|---|
+| **Qingu / Basal Eurasian** | Sealed nursery stock (Gulf refugium) — **unsealed at Phase VI** to run the agricultural grid; **not** the same as Nephilot, but the **Göbekli-era trail starts here** (first farmers + buried interface) |
+| **Nephilot** | Fertile **down-bred** carriers (~25% Igigi); human-sized; found by **gifts**, not bodies |
+| **Albians / Alba** | Western retreat population preserving consciousness tech; **Alba** = the people (esp. matrilineal carrier memory in older drafts); **Alben** = paired male register (`30` generational war) |
+| **Elves** | Later folklore name for the **same hunted line** — memory of carriers after purge and assimilation |
+
+**The “Alba = elves” beat (when it lands):** not Tolkien exposition. One earned line — e.g. Emrys, a scholar, or a place-name fossil: **Alba** (the people) → **Albion** (where they ran) → later tongues compress the hidden carriers into **ælf / elf** (bright/other folk). The reader should feel the etymology **click**, not receive a lecture.
+
+**Discovery ladder (present-day — cumulative, not one scene):**
+
+| Step | Where / when | What Eli learns | Adventure hook |
+|---|---|---|---|
+| **1. Göbekli anchor** | Vol II — Göbekli Tepe (`29`, `31`) | Aru/Daskar at the **fox-pillar**; burial **decommissioned** the interface, not the conductor. Mother's research or Emrys data: **first-farmer “ghost lineage”** (Basal Eurasian / sealed-nursery signal in Neolithic Anatolian genomes) — the **trackable start** of the westward agricultural + carrier story. | Contested dig; faction fight; touch pillar under pressure |
+| **2. The trail west** | Vol II corridor / archives | aDNA maps + ley anomalies: minority component and **gift clusters** move toward Europe; carriers **not** one village — scattered, matrilineal pockets. Screening logic: invisible bodies, **magic at the stone** betrays them (`00` Phase IX). | Stale map; wrong hypothesis; planted lead |
+| **3. Massacre ground** | Vol II late or **Vol III Act I (Europe)** | A **ring sanctuary** (locked primary: **Pömmelte**, ~2321–2211 BCE — “German Stonehenge”; shaft burials of **dismembered women, juveniles, children** vs dignified **male** graves). Secondary rhyme: **Gomolava** (~800 BCE — 77 killed, **~87% female**, victims **unrelated**, gathered from many settlements). | Eli at excavated/charged site or museum+aDNA drop; somatic cold in the shafts |
+| **4. Women targeted** | Same scene + aftershock | Purge is **not** generic war: **women and children** annihilated while men buried with honor; unrelated victims = **sweep for carriers** (gift-screening), not one clan wiped. Rhymes **Anthea**, **witch-hunts**, chr3 weapon’s gendered politics, patriarchy chord. | Eli grieves **others**; refuses to own their dead |
+| **5. Alba / elf name** | Vol III approach to **Albion** | **Alba** names the people; **Albion** the refuge; **elf** the folklore compression. Maren's line rhymes here (English carrier researcher) — **not** “Eli is an elf,” but **why the west kept hunting women with gifts**. | Place-names, Rollright riddle, Men-an-Tol threshold |
+
+**Science floor (for *On the record* — not in-scene lecture):**
+
+- **Lazaridis et al. (2014, 2016)** — Basal Eurasian / first-farmer ghost lineage (Göbekli-era anchor).
+- **Pömmelte** — Spatzier et al. / related (gendered shaft deposits vs male graves); cite before quoting.
+- **Gomolava** — mass grave aDNA + isotopes (multi-settlement female victims); cite before quoting.
+- **Honesty:** archaeology shows gendered killing; **Nephilot screening-by-magic** is cave gloss. Elves = folklore, not species.
+
+**Locked massacre site for prose:** **Pömmelte** as the **circular henge** set-piece (stone-circle **rhyme** — wooden henge contemporaneous with Stonehenge). **Gomolava** as later echo / comparative report Eli reads en route. Pin present-day visit geography in `99`.
 
 ## The psionic war across the route
 
@@ -125,7 +225,7 @@ Humanity, mostly, invented a parent. The pattern to dramatize — quietly, era a
 
 Why does it tend to collapse the same way? Because **humans are, developmentally, child-like** — and a frightened child wants a parent more than it wants to be free. In this reading the father-god is less a discovery about the universe than a projection of the orphan's own unfinished childhood. Submission feels like safety. Obedience feels like love. It's a comfortable trap, which is part of why it holds.
 
-The Seven quietly cut against it. Each is offered the father — a priest, a lord, a cult, an authority that says *kneel and I will keep you* — and each, instead of submitting, **develops a capacity of their own.** Breath. Healing. Dream. Song. They grow up. In the present these capacities recur unevenly across different people: Eli has breadth of reception and limited physical healing; another healer has bodily depth. The alternative on offer here is not a better father, a truer religion, or an all-capable hero, but the end of needing one: stop looking up for a parent, start developing and sharing what no authority can own.
+The Seven quietly cut against it. Each is offered the father — a priest, a lord, a cult, an authority that says *kneel and I will keep you* — and each, instead of submitting, **develops a capacity of their own.** Breath. Healing. Dream. Song. They grow up. In the present these capacities recur unevenly across different people: Eli has breadth of reception (diagnostic reading, **not** healing); another person is the healer, holding all bodily repair. The alternative on offer here is not a better father, a truer religion, or an all-capable hero, but the end of needing one: stop looking up for a parent, start developing and sharing what no authority can own.
 
 The boy carries this in miniature: literally orphaned (grandfather dead, village burned, gods long gone), sitting in the dark, deciding. The cave does not give him a father. It gives him partial contact with strangers who refused to need one. Whether the orphan finally raises itself is one of the questions the ending leaves open.
 
@@ -139,6 +239,36 @@ There are two stories about where humanity came from, and which one Aedan believ
 - **The buried story — *We-ila / Geshtu-e* (the oral truth).** Kept by village Singers and scattered wisdom-keepers: the older telling remembers a slain god "who had ṭēmu" — intelligence — whose mind passed into the human line. In canon We-ila is the Anunnaki intelligence donated at the Activation. The Singers do not worship We-ila as a sky-god; they tune the latent frequency. The counter-myth surfaces independently in Anthea's practice and later transmissions, not as one family's property.
 
 The thread, beat by beat: the **oral truth lives wordlessly in the village Song** before the book opens (ch 2 — the throat-sounds the grandfather half-taught); the **Qingu-guilt myth arrives as conquest** (ch 3, the worldview inside the Sky-Father tongue); its cruelest work is shown in **Adapa** (ch 9), who has so internalized *"traitor-blood, submission deserved"* that he accepts his own lock — the boy weeps because he is watching propaganda become a cage from the inside; then **each of the Seven disproves the guilt-story by practice** (chs 10–16 — breath, heat, healing, dream, song, geometry, plant-mind are not a traitor's curse but We-ila's gift waking up); and the thread closes when **Aedan, on the granary stone (ch 17), realizes the "Qingu-blood" he was told made him a slave-by-nature is in truth the vessel for We-ila** — and the stone warms. He doesn't find a truer god. He finds that the intelligence the father-myth told him to beg for was in his own blood all along. *(This is the same move as the orphan-and-father thread, seen from the inside of the lie: the Qingu story is how the orphan is taught to need a parent; We-ila is what's left when it stops.)*
+
+## Patriarchy & bloodlines — recurring chord (LOCKED)
+
+*Single scannable map for the dramatization sketched above. **Not one lecture** — the same shape returns era after era until the reader feels it. Full cosmology: `00_MASTER_TIMELINE.md` Phase VI / IX; science: `90_epigraphs_and_sources.md` §1; present braid: `29_trilogy_plot_and_development.md` (Vol II Tem + Adapa/Qingu); Lesson rhymes: `25_rhyme_sheet_lessons.md` (Lessons 3, 7, 13).*
+
+**Craft rule:** never announce the thesis on-page. Show the cage at **domestic scale** (sister taken, neighbor sells out, registry lists, grain pit) — statistics don't wound; faces do.
+
+**Status in plot layer:** pinned in **`32_volume_II_beatsheet.md`** (Ch 16–17 patriarchy; Ch 20 church) and **`33_volume_III_beatsheet.md`**. **Not yet in `MANUSCRIPT.md` prose.**
+
+| Beat | Deep-time chapter / era | What the reader gets | Bloodline note |
+|---|---|---|---|
+| **Orphan-and-father thread** | Recurs Part I–III + all Seven | Religion tends to collapse into **father above, children below** — silent priests, sky-father, breeding lords, patriarchal cults | Submission framed as safety; obedience framed as love |
+| **Aru's sister** | Ch 10 — Aru, Göbekli (~9600 BCE) | **Domestic face of the clamp:** sister taken into **priestess caste** while he carves for the people who took her | Caste legitimacy — who counts as usable to the line |
+| **Tem, "The Hidden Son"** | Ch 13 — ~3000 BCE (**17:1 bottleneck**) | Hybrid lords claim **breeding rights**; **Marra** hides six-year-old Tem in a **grain pit**; she is killed; dream-chain links **unrelated** hidden children | Mind and capacity **not confined to pedigree** — the antidote to bloodline-as-destiny |
+| **Anthea** | Ch 14 — Bronze Age Anatolia (~1500 BCE) | **Patriarchal cults** kill her for singing; daughter **Lira** scatters the chord west | Warlords want her **useful to their line** (Lesson 13 refusal) — mirror of Adapa's failure |
+| **Qingu-blood vs We-ila** | Ch 3 conquest → **Ch 9 Adapa** → Chs 10–16 practice → Ch 17 granary stone | Official myth: *bad blood, kneel* / buried truth: intelligence passed by **practice and tuning**, not guilt | Control steals a **true name** (Qingu stock) and inverts it into inherited submission |
+
+**Science floor (Karmin et al. 2015):** ~5–7 kya the **Y-chromosome** record collapses far more sharply than the female line — not a literal "17 women per 1 man" census, but an **effective population** signal: a small number of **male lines expanded** while many others failed to persist, coinciding with patrilineal hierarchy, inheritance, and legitimacy rules. **Myth:** hybrid lords / elite proxies monopolize who may be a father. **Anchor:** genetics shows a sharp male-line bottleneck in that window. **Epigraph:** opening deep-time **Ch 13 (Tem)** — `90` §1. **Honesty:** Karmin documents correlation with social structure; the Nephilim wall and exact 17:1 mechanism are **cave gloss** on top (`00_MASTER_TIMELINE` Phase VI).
+
+**Present-day rhyme (Eli — when drafted):**
+
+| Present beat | Rhymes with |
+|---|---|
+| Union **registries**, Crane clinic lists, chr3 **ancestry-gated** weapon | Who is legible, who may reproduce, who is marked |
+| **Tem record** (Vol II — witness site still open in `99`) | Grain pit, dream-network, pedigree is not destiny |
+| **Broken-line church** (Vol II late / Vol III Act I Europe — `37` § *The broken-line church*) | Pew-side end drains laity; back-room end feeds clergy — father-above geometry made architectural |
+| **Adapa / Qingu shards** (Vol II Act II) | Bloodline as **propaganda** — Eli refuses the state's file *and* chosen-one ancestry |
+| Maren's **keeper net** (song, harbor chain) | Knowledge passes **hand to hand**, not only father to son |
+
+**What bloodlines are *not* in this book:** Eli is **not** the heir of a single pure line; the Seven share **no required genealogy**; practices survive through **transmission**, not automatic inheritance (`36_the_living_web.md`). The thesis is anti-monopoly, not anti-genetics.
 
 ## Core cast
 
@@ -287,7 +417,13 @@ A child in a city today dreams of a cave. They wake humming a tune their mother 
 
 ## Epigraphs & real-science anchors
 
-Real scientific papers and quotes are collected in **`90_epigraphs_and_sources.md`** — a living file we add to over time. The book is myth, but it rests on the actual record, and the plan is to quote that record as **epigraphs**: at chapter openings, chapter closings, part dividers, or inline as a fragment the cave shows. The effect we want is the floor of fact under the dream — the science quietly confirming what the myth just dramatized.
+Real scientific papers and quotes are collected in **`90_epigraphs_and_sources.md`** — a living file we add to over time. The book is myth, but it rests on the actual record. **Three layers** (see `90` § *Citation layer*):
+
+1. **Epigraph** before chapter — one verified quote.
+2. **Prose** — no inline citations except in character voice (registry text, Emrys, broadsheets).
+3. ***On the record*** after chapter — 0–3 plain bullets for readers who want the anchor; omit when none applies.
+
+The effect we want is the floor of fact under the dream — the science quietly confirming what the myth just dramatized, without breaking voice inside the scene.
 
 Seeded so far:
 - **The 17:1 bottleneck** (Karmin et al. 2015) — the Y-chromosome collapse showing male-line survival being captured by patrilineal social inequality: elite fatherhood, inheritance, legitimacy, and controlled reproduction. Anchors Ch 13 (Tem).

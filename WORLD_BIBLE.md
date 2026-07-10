@@ -90,9 +90,57 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 > These were their stories.
 
 ## 8. SCIENCE CITATIONS (for consistency / fact-checking later)
-- Zeberg & Pääbo, _Nature_ 2020 — Neanderthal haplotype on chr3, ~2–3× severe-COVID risk, ~50% South Asians / ~16% Europeans / ~absent East Asians.
-- Gene drive inheritance bias — modeled in insects; principle real, human application hypothetical.
-- Hormone response elements / steroid receptor transcription — standard endocrinology.
+
+**Rule:** The preamble and weapon logic sit on **real anchors + explicit speculative gloss**. On-page placement follows **`90_epigraphs_and_sources.md` § *Citation layer*:** epigraph before chapter, prose without inline cites, ***On the record*** after chapter when an anchor applies. Never imply COVID was engineered, a gene drive was deployed in humans, or puberty epigenetics alone produces psionics. Full bibliography: `90` §5 + below.
+
+### Preamble map (what each beat rhymes with)
+
+| Preamble / weapon beat | Real science (anchor) | In-fiction gloss (speculative) |
+|---|---|---|
+| Bioweapon hits some populations harder; East Asia largely spared | Chr3 Neanderthal haplotype ↔ severe COVID risk (Zeberg & Pääbo 2020) | Engineered **ancestry-gated** acute payload keyed to that haplotype — **not** “COVID was the weapon” |
+| Alteration passes to children | Gene-drive inheritance bias (insects; models) | Latent construct spreads heritably after Phase 1 |
+| Puberty opens the second cost | Steroid hormones gate gene expression via HREs; adolescent epigenetic reprogramming | Hormone-gated synthetic promoter + threshold episodes / receiver opening |
+
+### A. Chromosome 3 — Neanderthal haplotype & COVID severity *(Phase 1 floor)*
+
+- **Zeberg, H., & Pääbo, S. (2020).** The major genetic risk factor for severe COVID-19 is inherited from Neanderthals. *Nature*, **587**(7835), 610–612. https://doi.org/10.1038/s41586-020-2818-3  
+  - Risk variant cluster on **chromosome 3p21.31** (includes *LZTFL1* region); major risk haplotype **introgressed from Neanderthals**.  
+  - Carrier frequency (approx., population-dependent): **~50% South Asians**, **~16% Europeans**, **low/absent in many East Asian groups** — the geographic rhyme the preamble uses.  
+  - **Honesty:** raises **severity** after infection in carriers; does **not** mean only Neanderthal-carriers get infected. The novel’s weapon **inverts the scale** into a fictional kill-switch — keep that distinction in author notes and any epigraph.
+
+- **Ellinghaus, D., et al. (2020).** Genomewide association study of severe COVID-19 with respiratory failure. *New England Journal of Medicine*, **383**(16), 1522–1534. https://doi.org/10.1056/NEJMoa2020283  
+  - Independent GWAS confirmation of the **3p21.31** locus among top severity hits — useful second anchor if challenged on a single paper.
+
+### B. Gene drives *(Phase 1 heritable spread — principle real, human deployment hypothetical)*
+
+- **Burt, A. (2003).** Site-specific selfish genes as tools for the control and genetic engineering of natural populations. *Proceedings of the Royal Society B*, **270**(1518), 921–928. https://doi.org/10.1098/rspb.2002.2319  
+  - Foundational **homing endonuclease / selfish-gene drive** theory.
+
+- **Esvelt, K. M., Smidler, A. L., Catteruccia, F., & Church, G. M. (2014).** Concerning RNA-guided gene drives for the alteration of wild populations. *eLife*, **3**, e03401. https://doi.org/10.7554/eLife.03401  
+  - **CRISPR/Cas9 gene-drive** mechanism in principle — the closest real-tech analogue to “construct passes to offspring.”
+
+- **National Academies of Sciences, Engineering, and Medicine. (2016).** *Gene Drives on the Horizon: Advancing Science, Navigating Uncertainty, and Aligning Research with Public Values.* Washington, DC: The National Academies Press. https://doi.org/10.17226/23405  
+  - Authoritative review: drives work in theory and in some organisms; **ecological, ethical, and containment** problems; **no responsible human deployment**.
+
+- **Honesty flag:** gene drives in **mosquitoes/rodents** are discussed and modeled; a **human** gene-drive bioweapon is **hypothetical** and treated as such in `91_predictions_and_falsifiers.md`.
+
+### C. Puberty — hormonal gating & epigenetic reprogramming *(Phase 2 floor)*
+
+- **Steroid receptor → HRE → transcription (textbook mechanism).** Estrogen/testosterone bind nuclear receptors; receptor–HRE complexes recruit transcription machinery at puberty. Standard endocrinology (e.g. Alberts et al. / Lodish, *Molecular Cell Biology* — hormone response elements). This is the **real gate** behind WORLD_BIBLE §3’s “synthetic promoter with estrogen- and androgen-response elements.”
+
+- **Lomniczi, M., Wright, H., & Ojeda, S. R. (2015).** Epigenetic regulation of female puberty. *Frontiers in Neuroendocrinology*, **36**, 90–107. https://doi.org/10.1016/j.yfrne.2014.11.002  
+  - Puberty as **epigenetic unlock** of hypothalamic control — supports “second phase waits for adolescence” without claiming magic.
+
+- **Thompson, D. J., et al. (2014).** DNA methylation and body-mass index: epigenome-wide association study. *Lancet*, **383**, 1990–1998 — **or** broader puberty-timing EWAS literature (e.g. *Nature Genetics* papers on pubertal timing and methylation).  
+  - **Use:** adolescence coincides with **measurable epigenetic change** at scale; the novel’s **maintenance practice / Fall** layer is developed in `91` §1.5 and `33_the_curriculum.md` (practice-dependent methylation — speculative tweak on real reset between generations).
+
+- **INMT / endogenous DMT (optional DMT-trip floor):** Barker, S. A., et al.; Szábo, A., et al. — endogenous DMT detected in mammalian tissues; **pineal-as-dream-factory remains unsettled** (Strassman hypothesis). Keep pineal out of hard claims per §4.
+
+### Legacy one-liners (quick index)
+
+- Zeberg & Pääbo, _Nature_ 2020 — chr3 Neanderthal haplotype, ~2–3× severe-COVID risk, population-frequency rhyme.
+- Gene drive inheritance — Esvelt et al. 2014; National Academies 2016; human use **hypothetical**.
+- Hormone response elements / pubertal epigenetic reprogramming — §3 mechanism + Lomniczi et al. 2015.
 - INMT / endogenous DMT — Barker, Szábo et al.; MAO degradation; pineal = unsettled.
 
 ## 9. UNIFYING FRAME — the gene-drive weapon IS the Activation event

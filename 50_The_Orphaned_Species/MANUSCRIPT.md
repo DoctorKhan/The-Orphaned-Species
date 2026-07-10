@@ -2,21 +2,41 @@
 
 ---
 
+> *The major genetic risk factor for severe COVID-19 is inherited from Neanderthals.*
+>
+> — Zeberg & Pääbo, *Nature* 587 (2020)
+
 ## Preamble
 
-The Middle East was a wound that never healed in a battle that never ended. The final cut was the Iran war which spilled the lifeblood of the economy, at least for the United States. The AI bubble burst into a glorious spectacle to rival the best fireworks. A  digital future was burning at the twilight's last gleaming.
+The Middle East was a wound that never healed in a battle that never ended. The final cut was the Iran war which spilled the lifeblood of the economy, at least for the United States. The AI bubble burst into a glorious spectacle to rival the best fireworks. A digital future was burning at the twilight's last gleaming.
 
 It only took the depression that followed to elect the first woman president of the United States. Exhausted by years of extraction, the working classes were already primed for change. But many said the election was rigged, and a schism formed within the heart of the nation. Lines were drawn among people who no longer shared the same reality.
 
-   What became known as World War III widened until it swallowed everything. These were called the machine wars, which relied on tactical drone strikes and surgical robot soldiers. In a final gambit, cornered nations loosed a weapon that could target specific populations. It was known as a gene drive virus. Learning from the lessons of COVID, this bioweapon targeted the same populations known to be preferentially at risk for acute COVID. No nation took credit, but every nation was touched. Millions died at once where the target marker was common — Bangladesh and India first and worst, half their people carried the marker. East Asia was nearly untouched and they watched the worst of it from a distance. Even when fully cured, those who survived would pass it down to their children. The weapon's legacy would not stay where governments had aimed it.
+What became known as World War III widened until it swallowed everything. These were called the machine wars, which relied on tactical drone strikes and surgical robot soldiers. But these were not the final weapon of the war.
 
-When the fires thinned, the world sorted itself into three coalitions. In the Americas, the People's Party welded the fracture into the Continental Union — registries, walls, force — a brittle machine that looked strong because it had no spare parts left. The Eastern Mandate emerged from the bioweapon pandemic relatively unscathed. And where capitals had burned, the Free Ports Covenant learned what merchants have always learned when palaces fall: there is no single throne to defend. What matters is harbors, routes, and the willingness to trade with whoever still moves goods. Many returned to the old ways and sailboats became popular again. From the ashes rose a world moved slower, but the ports kept moving.
+It was the death knell of World War III, and we do not even know who developed it, nor who released it. Perhaps it was a rogue terrorist group, powered by AI bioweapons research. It was known as a gene drive virus, but a very specific kind. Learning from the lessons of COVID, this virus targeted the same populations known to be preferentially at risk for acute COVID. No nation took credit, but every nation was touched. Millions died at once where the target marker was common — India, Pakistan, and Bangladesh first and worst, half their people carried the marker. East Asia was nearly untouched and they watched the worst of it from a distance.
 
-People continued to have children, but they were different. In adolescence, hormones opened a door the virus had cracked in the genome: fever, stillness, visions that looked like madness from outside. The episodes could last days, sometimes weeks. The Union answered with containment wards — sedation, inhibitors, baseline enforced; survivors who would not normalize were medicated, monitored, and quietly excised as the Fractured. The Mandate answered with corridors and cure. Along the broken lanes, the Free Ports built threshold houses instead — above markets and docks, part clinic, part retreat, part echo of the old vision quest, where no palace script could follow and knowledge passed harbor to harbor like trade goods. What the states had designed as a lock became something they could not monopolize: a shared way of guiding a nervous system through the storm — songs, hands, proximity, the old rhythm of keeping someone alive while the fever ran — passed harbor to harbor like any other trade good, not a cure, but communal grounding. The Union hunted it as violation; the Mandate framed it as disease; the Covenant integrated it. Not all who entered came back able to live among the living. Those who did returned with a second sight that never fully switched off — waking life threaded with contact, tune, heat, the sense of being addressed. In that contact, the living web — which had slept through the long rigid cage — began to stir again from the bottom of the world upward.
+Even when fully cured, those who survived would pass it down to their children. The weapon's legacy would not stay where governments had aimed it.
 
-The harbors reopened unevenly. Satellites still lied some nights; registries outlived the emergencies that bore them; blocs learned to hunt the children whose episodes lit the grid. Along the broken lanes, songs still crossed harbor to harbor; neighbors still noticed when you forgot the day. In the gray corridors between the giants, survivors looked for their mothers — and for the songs that might still lead them home.
+When the fires thinned, the world sorted itself into three factions. In the Americas, the People's Party of the Americas welded the fracture into the Continental Union — registries, walls, force — a brittle machine that looked strong because it had no spare parts left. The Eastern Mandate emerged from the bioweapon pandemic relatively unscathed. And where capitals had burned, the Free Ports Covenant learned what merchants have always learned when palaces fall: there is no single throne to defend. What matters is harbors, routes, and the willingness to trade with whoever still moves goods. Many returned to the old ways and sailing became popular again. From the ashes rose a world that moved slower, but kept moving.
 
-These were their stories.
+People continued to have children, but they were different. In adolescence, hormones opened a door the virus had cracked in the genome: fever, stillness, visions that looked like madness from outside. The episodes could last days, sometimes weeks.
+
+The Union answered with containment wards — sedation, inhibitors, baseline enforced; survivors who would not normalize were medicated, monitored, and quietly excised as the Fractured. The Mandate quarantined adolescent children and researched them attempting to find a cure. The Free Ports built threshold houses instead — above markets and docks, part clinic, part retreat, part echo of the old vision quest. There was no script, but as they learned, knowledge passed harbor to harbor like trade goods.
+
+It became a shared way of guiding a nervous system through the storm — songs, hands, proximity, the old rhythm of keeping someone alive while the fever ran. The Union hunted it as violation; the Mandate framed it as disease; the Covenant integrated it. Not all who entered came back able to live among the living. Those who did returned with a second sight that never fully switched off — waking life merging with something else. They seemed to have abilities, the entire process meant to help them integrate their new perception.
+
+New, in a way, but somehow familiar — as if this entire process had happened before. Everyone felt the truth of it. Indeed, as we would discover, the earth held secrets, and somewhere in her depths, an ancient force began to stir.
+
+---
+
+*On the record*
+
+1. **Neanderthal haplotype on chromosome 3.** Zeberg & Pääbo (2020), *Nature* — a major risk factor for *severe* COVID-19 lies on chr3p21.31, introgressed from Neanderthals; carrier frequency varies by ancestry (common in South Asia, lower in Europe, often absent in East Asia). Real COVID modulated severity, not who could be infected. The preamble's acute weapon is **fiction keyed to that locus**.
+2. **Gene drives.** Esvelt et al. (2014), *eLife*; National Academies (2016) — inheritance can be biased so a construct spreads faster than Mendelian rules predict; discussed for insects and ecology; **no responsible human deployment**.
+3. **Puberty as developmental gate.** Lomniczi et al. (2015), *Frontiers in Neuroendocrinology* — adolescence involves hormone surges and epigenetic reprogramming; the threshold episodes and second sight are **speculative gloss** on that gate, not established science.
+
+---
 
 ## Chapter One — The Hour That Belongs to No One
 
@@ -175,6 +195,12 @@ He looks at Eli plainly. "You're carrying something. Or something's carrying you
 Eli thinks of the song under his ribs, of Melaka, of the man who had asked after his mother by a tune. "Does he know people in Melaka?"
 
 The old one's eyes sharpen, then soften. "Everyone who matters in this strait knows the old man. You tell the right door you came from him, and the right door opens. You tell the wrong door, and we'll be having this tea with one fewer chair." He pushes the cup closer. "Drink. Names are for doors that know how to listen. You'll know when you need this one."
+
+---
+
+*On the record*
+
+1. **Somatic interoception.** Ordinary nerves read heat, pressure, and paresthesia from body and near-body states (standard neurophysiology). Eli's **somatic signatures** — the mother's diagnostic read through palms — are **in-fiction amplification**, not a verified clinical phenotype.
 
 ---
 
@@ -373,6 +399,12 @@ Suresh cuts the engine to idle.
 He hands Eli a paper with the chandlery name written on it. No address. No number. Just the name, one word, and a line beneath it.
 
 Ask once.
+
+---
+
+*On the record*
+
+1. **Latent construct and adolescence.** The weapon's generational timer rhymes with hormone-gated gene expression at puberty (steroid receptors / HREs — textbook endocrinology) and epigenetic reprogramming in adolescence (Lomniczi et al. 2015). Eli's tingling under stress is **early somatic noise**, not yet a threshold episode.
 
 ---
 

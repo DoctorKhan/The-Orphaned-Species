@@ -39,7 +39,7 @@ The two faculties are the two Trees; **each costs the same metabolism**, and the
 | chimp | — | baseline |
 | **humans** | Knowledge | **one-Tree** |
 | **dragons & aliens** | Life | **one-Tree** (same cost, different faculty) |
-| **gods / Titans** | Knowledge + Life | **two-Tree** (double) |
+| **gods** | Knowledge + Life | **two-Tree** (double) |
 
 The **gods are the anomaly** — the only beings carrying both Trees, so the only ones whose demand outran their bodies. That is the seed of the cage: a two-Tree appetite payable only by **extraction**.
 

@@ -83,6 +83,25 @@ A Bubble or Block **can be broken if you are strong enough** (user's mechanic) �
 - **Maritime boarding (Strait).** Deniable psions travel *with* a human boarding party. One masks the boat's approach (soft suite); one lances the helmsman into autopilot error (Block) while pirates do the physical work. Wren must tell a human tactic from an intrusion in her own perception — a §5 false-certainty problem. Boats, weather, and weapons still decide it.
 - **England boundary ambush.** Crossing an instrumented threshold lights a conductor; a prepared team already in position locks the signature and opens with Lances before anyone can explain the site. The defense is a team Bubble held while they get off the conductor — procedural, not mystical (`05` §6, "monitored boundaries").
 - **Albion climax.** Holding collective coherence (a team Bubble around the ground) without it becoming a command hierarchy — the coalition's coherence vs. several teams trying to Break in, Block the holders, or turn the shared field to domination.
+- **Scour on a choke point.** A psion team (Custodian, national, or Crane-adjacent) **targets a conductor segment** — sustained Lance + instrument support on a ley choke point until the local route **dies**: plants fail, fauna avoids, the map shows a blank. Denies rivals passage, hides a tether, or herds pursuit into an ambush. Eli recognizes an old **dead zone** on the chart only after he has seen live **forming** ground (South Asia) and a clean **break** (Singapore). Recovery is slow or impossible without collective repair — not a scene beat unless Volume III earns it.
+
+## 6b. Scour & ground targeting (LOCKED)
+
+*Hostile psion teams don't only hunt **people** — they hunt **places**. Companion: `37_deep_time_source.md` § *Dead zones*.*
+
+**Scour** — intentional destruction of a conductor segment. Effect on the land: **dead zone** (barren, fauna refusal). Effect on the war: rivals must detour; witness sites go silent; forming lines become **priority targets** (Vol I rice community: Custodians + rival team contest the new line).
+
+**What gets targeted (priority list for set-pieces):**
+
+| Target | Why factions hit it |
+|---|---|
+| **Forming line / crop anomaly** | New route = new monopoly or new freedom — race to document or kill |
+| **Witness site / charged ground** | Clarification at stone; tether anchor; archive access |
+| **Choke point / strait crossing** | Scour forces detour into ambush or monitored boundary |
+| **Approach to Albion** | Instrumented thresholds; dead zones bracket live grounds |
+| **Rival team's relay** | Lance on their prepared conductor |
+
+**Limits:** scour costs **team coherence + exposure**; leaves a **signature** on the wound; doesn't erase the planetary net — only local kill. Conventional weapons may follow (break stone, salinate field) but the **biological refusal** (plants/animals) marks psionic scour.
 
 ## 7. Thematic locks (why these mechanics, not generic ones)
 

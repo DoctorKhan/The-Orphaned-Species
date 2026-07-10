@@ -13,7 +13,7 @@ This document consolidates the clarifying questions needed to write chapters tha
 ### **Chapter 4: Archaeological Anomalies**
 - Which specific ancient structures (e.g., Göbekli Tepe, Puma Punku, the Pyramids) and artifacts are most central to the book's argument?
 - Which specific intervention narratives (e.g., Anunnaki, Apkallu) should be treated as the primary source material for the "fragmented memories" of our creation?
-    - **Answer:** The **Titans** (original creators) are the source of the **Apkallu** legends of ancient sages. The **"younger gods"** (the conquerors) are the source of the **Anunnaki** legends of sky-gods who ruled humanity and interbred with them.
+    - **Answer:** The **elder Anunnaki** (Enki's faction, the original creators) are the source of the **Apkallu** legends of ancient sages. The **younger gods / Igigi** (the conquerors) are the source of the sky-god legends of rulers who governed humanity and interbred with them.
 - Regarding the Nephilim and the "Age of Heroes":
     - How should the offspring of gods and humans be understood?
         - **Answer:** They were hybrids, analogous to ligers or tigons, with inherent genetic instabilities that prevented them from forming a stable, continuing species.

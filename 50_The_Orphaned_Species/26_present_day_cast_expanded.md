@@ -189,11 +189,13 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Guardrails:** no karmic brotherhood with Eli; accountability without annihilation at climax.
 
+**Playing him — coercion as courtesy (*Godfather* grammar):** the menace is never in the voice; it is in the favor that becomes a debt, the protection that becomes a leash, the offer that is *sincere and right about the danger* and still a cage. Seed an un-thanked favor early (Vol I–II), call it in at the throne offer (Vol III Ch 27); the private file of the dead is the un-stated threat, shown as grief. Full mapping + drafted seed/payoff scenes in `47_coercion_as_courtesy.md`.
+
 ---
 
 ## The healer — **Dr. Somchai Vichai** *(provisional; location: mobile / corridor clinics, Vol II reconvergence)*
 
-**Function:** embodied medical conscience; deification test; deeper healing than Eli.
+**Function:** embodied medical conscience; deification test; **the trilogy's healer** — Eli reads bodies but cannot heal; all bodily repair is Somchai's alone.
 
 **Past:**
 - **Ordinary life:** corridor / rural **clinic doctor** — stitches, fevers, queues; medicine before carriers had a registry name; son of a man, not a myth.
@@ -215,6 +217,8 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 **Voice:** tired, precise, gentle until pressed; then iron.
 
 **Guardrails:** not Ila reborn; cannot fix Eli's TBI core; cannot cure outbreak retroactively.
+
+**Not a doubling of Eli (LOCKED — `05` "two refusals, two crowns"):** Somchai and Eli are the trilogy's two "refuse-the-crown" figures, but they refuse **different crowns for different reasons**, so the beats build instead of echoing. **Somchai = the crown of the body** — worship of his *healing* (miracle / relic / Son-of-Man), refused on the **limits of the body** (*son of a man*); his Ch 26 refusal costs a sufferer and is the intimate-scale proof. **Eli = the crown of the polis** — the ruler/founder/one-voice, refused because ownership rebuilds the cage (Ch 27), scaling the healer's proof up to civilizational stakes. **Eli is not a healer and never faces Somchai's crown; Somchai wants no power and never faces Eli's.**
 
 ---
 
@@ -306,6 +310,8 @@ Coherence holder; tries to spare civilians; fraying.
 
 **Defection path:** Vol I — conscience crack at boarding; Vol II — contact; Vol III — into Wren's network or dead trying.
 
+**Archangels (plot — Michael):** carries **St Michael medal** or prayer fragment under the collar — volunteered for the program believing the collar was **protection**, not leash; Michael = the protector title she trusted (`46` § G). Vol I Ch 8 past leak; Vol II broken-line church beat; Vol III defection rhymes with **refused protector** (Crane/Michael parallel — never lecture).
+
 **Voice:** soft, exhausted; apologizes to strangers after missions.
 
 ### The Mask / Scout — **Jin "Grey" Pak**
@@ -366,9 +372,9 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Habit:** touches people's wrists to "read" them — manipulation dressed as gift.
 
-**Arc:** tempts Eli when Emrys is taken; one crowd scene where Eli **refuses** the role publicly; Sol may die, burn out, or remain dangerous background.
+**Arc:** tempts Eli when Emrys is taken; one crowd scene where Eli **refuses** the role publicly; Sol may die, burn out, or remain dangerous background. **Signature temptation lands Vol III Ch 27** as the destructive-freedom half of the *double temptation* (paired against Crane's throne offer): the great-man / **armed-prophet** case — *goodness that lets people die to stay unstained is vanity; who are you to be so precious about your one soul?* — seeded by Eli's costly restraint in Ch 26. Drafted Scene 1 (+ Scene 0 seed) in `49_machiavelli_toolkit.md`; doctrine in `49` §G.
 
-**Guardrails:** not comic; not correct about destiny; must threaten real civilians.
+**Guardrails:** not comic; not correct about destiny; must threaten real civilians. His case is *partly true* (Eli's restraint really did cost a life) — grant it force; he is wrong only that the massacre is the sole alternative.
 
 ---
 
@@ -486,7 +492,7 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 | **Tomás Reyes** | 4 | Lance; willing violence | One missed strike → footwork reset is **athletic, beautiful** — dock-league or soldier body — then he commits to hurt | Sport/soldier before weapon |
 | **Manong Rico** *(memory)* | 4 | Eli is a worker who learned some stick | Losing Kali: internal half-line — *short steps, don't gift your hip* — body remembers teacher, not prowess | ≤ one line; Philippines culture, not flashback block |
 | **Emrys** | 5–6 | Map-not-territory; measures everything | Bandages Eli's crate-cut with **clinic-tier efficiency**, apologizes to the **bandage roll**, won't hold Eli's shoulder | Touched patients before he only touched instruments |
-| **Sora Vithan** | 8 | Shield; team coherence | During boarding chaos she **shields a civilian**, then touches her own **collar** like checking a wedding band — volunteered for protection, got leash | Conscience crack; Mira wound unspoken |
+| **Sora Vithan** | 8 | Shield; team coherence; **St Michael medal** under collar | During boarding chaos she **shields a civilian**, then touches her own **collar** like checking a wedding band — volunteered for protection, got leash | Conscience crack; Mira wound; Michael seed (`46` § G) |
 | **Rowan** *(seed)* | 8 | Wren's tactical spike | Wren gets coded ping / manifest name / song fragment — face goes flat, types three words, **deletes**, orders real food for Eli like nothing happened | Eli reads fear; reader may read history |
 | **Lani** *(memory)* | 9 | Agricultural stop; maybe busker echo | Dragon-staff busker or field worker's move triggers **half-second flash**: Pai noodles, failed trick, **laugh** — not omen | Person before symbol; ≤ sensory flash |
 | **Thila Sen** | 11 | *"Third team this monsoon"* — furious elder | Barefoot on bund, **humming a lullaby** to a scarecrow or rice bird while refusing Eli's hand | Bund was water and children before teams |

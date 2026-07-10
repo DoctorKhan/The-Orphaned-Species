@@ -107,7 +107,7 @@ Present plot discovers **effects** of the field under wartime pressure:
 
 - somatic signatures, growth anomalies, monitored boundaries;
 - psion combat as invasion of attention and biology;
-- healer whose gift exceeds Eli's;
+- healer whose repair gift Eli wholly lacks (Eli reads bodies, cannot mend them);
 - artifacts mistaken for grid keys;
 - chair/site as **interface**, not source;
 - mother tether as **life-energy harvest**;
@@ -150,7 +150,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 - somatic signatures / mother's gift idling in Eli's body;
 - first sight at breach; network chord "held across distance by stones";
-- Ila descent → first frightened stabilization (practice, not power tier);
+- Ila descent → first frightened body-*read* (diagnostic, not healing; practice, not power tier);
 - impossible growth or boundary sense (optional early hook per `17` §2).
 
 **Knowledge beats (minimum):**
@@ -192,7 +192,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 **Knowledge beats (minimum):**
 
-- full reframe (Titans, sub-drones, Anu + 26) as **consequence of evidence**, not lecture;
+- full reframe (the Anunnaki as dragon-serving drone-caste, sub-drones, Anu + 26) as **consequence of evidence**, not lecture;
 - technology repurposed; voluntary limits without registry;
 - Eli refuses throne **and** refuses anti-science retreat;
 - discrimination under attack — real transmission vs manipulation at climax.

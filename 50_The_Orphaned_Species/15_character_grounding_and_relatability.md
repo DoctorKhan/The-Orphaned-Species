@@ -81,7 +81,7 @@ The stronger healer can reduce inflammation, headaches, pain, and secondary dama
 
 This is one character's overlapping maturation, not a taxonomy of Seers, Bards, and Healers:
 
-1. **Identification / confusion.** Eli experiences carrier-memory, trauma, desire, grief, and bodily information as *me* or *mine*. This is his central problem.
+1. **Identification / confusion.** Eli experiences a deep-thread memory, trauma, desire, grief, and bodily information as *me* or *mine*. This is his central problem.
 2. **The serpent's rattle / contact.** He brushes information on another plane or touches a samskara held in a body. It is contact, not warning, prophecy, or a surge.
 3. **Charge / pain.** Contact deposits charge into the embodied machine. Conditioning tries to route it through an old rule; repeated automatic execution, suppression, or identification turns the body into the place where refused information insists.
 4. **Relation.** He learns to take control of the charge without obeying, suppressing, or becoming it. Early control uses substantial psi allocation; practice makes it more efficient.
@@ -91,13 +91,13 @@ This is one character's overlapping maturation, not a taxonomy of Seers, Bards, 
 
 These stages overlap. Eli can have an early surge before he can interpret one, a flash of seeing before he can sustain relation, and renewed identification under stress.
 
-## Physical healing — distributed, not monopolized
+## Physical healing — the healer's alone; Eli only reads
 
-Eli has real but limited physical healing. With contact, attention, and effort he may slow bleeding, close a small wound, reduce swelling, ease a burn or bruise, support a minor fracture, or stabilize someone until ordinary treatment is possible. It is inconsistent, exhausting, and medically bounded.
+Eli is **not** a healer. His bodily gift is *diagnostic*: with contact and attention he can **read** a body — locate a bleed, sense where damage or distress sits, feel a fracture's wrongness — the way his gardener father could read a plant by touch. He cannot repair any of it. The read can guide ordinary first aid or point the healer at what to mend; the mending is never his. Even the read is inconsistent, exhausting, and medically bounded.
 
-The far stronger healer is the male medical worker who stabilizes Eli after the attack ending his family's flight and passes him into the escape network. His practical medical competence precedes the gift. The attack exposes him to the suppression apparatus; he and Eli are separated, then meet again when two independent clue trails cross in Volume II. Neither has been knowingly traveling toward the other. Over time the healer can sustain deep repair of severe tissue injury, complicated fractures, and organ damage. He is not Ila reborn, cannot psionically cure the engineered outbreak, and cannot restore information destroyed by Eli's chronic TBI. Ila's record supplies language and comparison, not identity or instant skill.
+The trilogy's only healer is the male medical worker who stabilizes Eli after the attack ending his family's flight and passes him into the escape network. His practical medical competence precedes the gift. The attack exposes him to the suppression apparatus; he and Eli are separated, then meet again when two independent clue trails cross in Volume II. Neither has been knowingly traveling toward the other. Over time the healer can sustain deep repair of severe tissue injury, complicated fractures, and organ damage. He is not Ila reborn, cannot psionically cure the engineered outbreak, and cannot restore information destroyed by Eli's chronic TBI. Ila's record supplies language and comparison, not identity or instant skill.
 
-This distribution protects the collective thesis: Eli has unusual bandwidth across many registers, but another person has far greater depth in the body. The healer requires an independent want, relationships, moral pressure, and choices that do not orbit Eli.
+This distribution protects the collective thesis: Eli has unusual bandwidth across many registers (reading, not repair), while another person holds the healing entirely. The healer requires an independent want, relationships, moral pressure, and choices that do not orbit Eli.
 
 ### The healer's deification pressure
 
@@ -184,7 +184,7 @@ The Seven cannot become seven curriculum levels. Vary their scale and reliabilit
 - carriers disagree about secrecy, technology, violence, love, and collective power;
 - at least one record should seriously mislead him until another corrects it;
 - Eli must name whose grief, desire, or conviction he is feeling.
-- The Seven's practices must not become seven abilities Eli unlocks. His access to a record does not equal the historical carrier's depth.
+- The Seven's practices must not become seven abilities Eli unlocks. His access to a record does not equal the historical practitioner's depth.
 
 The central integration sentence is not *I was them.* It is:
 
@@ -210,6 +210,10 @@ Keep clue-following psychologically credible. Eli may pursue weak evidence becau
 Do not treat the locations as levels in a cosmological scavenger hunt. The Philippines supplies an early martial foundation; Pai supplies recovery, play, and the staff-twirler as a person rather than a sign; Bali supplies living agricultural knowledge; Forest City supplies accountable collective method, continued morning training, and basic sailing; Melaka supplies the breach and immediate human crisis. None exists to validate Eli, and local characters retain agency after he leaves.
 
 Polarity is not moral symbolism. A positive end is not good, a negative end is not evil, and a broken line is not evidence that a place or community is damaged. Stone circles route existing conductors; they do not manufacture energy. Crop circles are changes in growth produced by new line formation, not alien handwriting.
+
+**Miswired buildings are different.** A church (or any institution) can **park one end of a break on the congregation and the other on the clergy** so energy drains through the laity and accumulates in the back room — see `37_deep_time_source.md` § *The broken-line church*. That is **extraction architecture**, not proof that the negative end is sinful or the positive end is holy. The abuse is placement and habit, not polarity itself.
+
+**Three ground states — do not collapse them.** A **forming line** shows plants growing on a new geometry (detector). A **broken line** leaves two opposed ends; life may still cross. A **dead zone** is barren: plants won't grow, animals won't enter — usually **intentional scour** on the conductor, not natural blight. Growers and herders often know the difference before Eli does (`37` § *Dead zones*).
 
 ## Psionic combat must remain an assault on agency
 

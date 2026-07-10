@@ -1,6 +1,6 @@
 # Somatic Signatures — Motif & Payoff Chain
 
-*(File legacy name: `32_the_warm_hands.md`. **Deprecated:** generic "always warm hands" / healing heat. **Locked:** **somatic signatures** read through nerves and palms — diagnostic, not mystical.)*
+*(File legacy name: `32_the_warm_hands.md`. **Deprecated:** generic "always warm hands" / healing heat. **Locked:** **somatic signatures** read through nerves and palms — diagnostic, not mystical. **Eli is NOT a healer** — his gift is *diagnostic reading only* (he perceives conditions, never repairs them); all healing belongs to the present-day healer, **Dr. Somchai**.)*
 
 *The load-bearing physical detail in the trilogy, tracked in one place. Companion to `39_psion_biology.md` § Somatic signatures, `20_resonance_points.md` Carrier 3, `99_open_questions.md` #1.*
 
@@ -12,13 +12,13 @@
 |---|---|---|
 | **Localized heat** | **Viral** load / inflammatory fever pattern | Ila's historical core; threshold fevers read hot |
 | **Tingling**, pins-and-needles | **Bacterial** colonization **or** mild **nerve damage** | Eli's TBI adds noise — he must learn signal from scar |
-| **Pressure**, or a **single pulse** under the palm | **Arterial blockage** / circulatory choke | Slow bleed stabilization in Vol I uses this read, not "magic heat" |
+| **Pressure**, or a **single pulse** under the palm | **Arterial blockage** / circulatory choke | Slow-bleed *read* in Vol I uses this signature — Eli locates the choke; ordinary pressure (not a gift) does any slowing |
 | **Cold spot** / drain | Depletion, shock, failing perfusion | Daskar/Ila historical; pillars "warm" = instrument alive, not Eli's hands cooking |
 
 **Rules:**
 
-- Signatures are **reads**, not cures. Practice = interpret → act with ordinary medicine, positioning, pressure, time — or with **healer depth** (Vol II), not Eli supremacy.
-- Eli has **bandwidth across registers**, not mastery. First frightened stabilization (Ch 12) = one correct read under panic, small effect, metabolic crash.
+- Signatures are **reads**, not cures. **Eli never heals — he reads.** Practice = interpret → act with ordinary medicine, positioning, pressure, time — or hand the read to **healer depth** (Vol II, Somchai), never Eli's own repair.
+- Eli has **bandwidth across registers**, not mastery. First frightened *read* (Ch 12) = one correct read under panic that guides ordinary first aid; small effect, metabolic crash. The gift is the knowing-where, not any mending.
 - **Never** reduce a scene to one word ("he's warm = heal"). Name the **felt signature** in prose, then choice.
 - Threshold-house **keepers** pass signature-lore harbor to harbor — the same chain as songs and hands.
 
@@ -30,7 +30,7 @@
 
 3. **Deep-time rhyme (Carrier 3).** **Daskar / Ila** = diagnostic field-read (fever through a wall, infection above a body). **Aedan** = *ember* as **name/metaphor** for kept receiver — not literal heat superpower; granary stone beat = **instrument/live line reads hot**, not Eli-style palm warmth. Dragons' thermal biology stays deep-time cosmology, not present-day hand-warming.
 
-4. **Seed of limited stabilization.** Ila's thread teaches **signature → act**. Present healer has **depth**; Eli has **breadth**. First stabilization = frightened application of one read (e.g. pressure at a bleed), not radiating heat.
+4. **Seed of the diagnostic read.** Ila's thread teaches **signature → act**. Present healer has **depth** (the repair); Eli has **breadth** (the read). First read = frightened perception of one signature (e.g. pressure at a bleed) that lets ordinary hands act — not radiating heat, not healing.
 
 ## Prose discipline
 

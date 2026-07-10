@@ -1,6 +1,6 @@
 # Book 50 — Story Architecture
 
-> **Status:** working structural synthesis based on the current canon in `00_NARRATIVE_STRUCTURE.md`, `37_deep_time_source.md`, and the Book 50 concept files. This document organizes existing material into a dramatic structure. It does not silently settle open questions such as the exact Melaka accident, the healer's name/location, or the final volume count. Track unresolved structural commitments in `99_open_questions.md`. **Plot spine hub:** `29_trilogy_plot_and_development.md` (three-volume arc, act beats, gaps; Vol I chapters in `31`). **Present-day craft hub:** `28_present_day_trilogy_craft_index.md` (maps docs `21`–`27`). For the order in which discoveries should become entertaining to the reader, use `17_reveal_order_and_reader_impact.md`; for **life technology discovered throughout and Two Trees reunification as the end result**, use `22_life_technology_and_two_trees_spine.md`; for **~2040 world texture**, use `23_2040_present_frame.md`; for near-future street tone, use `21_present_day_street_skin.md`; for **cast flesh**, use `26_present_day_cast_expanded.md`; for **character development arcs**, use `27_character_development_arcs.md`; for **Emrys comedy**, use `24_comedic_register_slapstick.md`; for concrete adventure forms and scene seeds, use `18_adventure_engine_and_scene_bank.md`. For the deep cosmology, the trilogy outline now uses the newer model: **Titans as dragon-serving drone-workers, humans as sub-drones/workforce multiplication, and Anu + 26 as the elder spirit-plane council**. Older timeline/glossary language still needs a separate reconciliation pass.
+> **Status:** working structural synthesis based on the current canon in `00_NARRATIVE_STRUCTURE.md`, `37_deep_time_source.md`, and the Book 50 concept files. This document organizes existing material into a dramatic structure. It does not silently settle open questions such as the exact Melaka accident, the healer's name/location, or the final volume count. Track unresolved structural commitments in `99_open_questions.md`. **Plot spine hub:** `29_trilogy_plot_and_development.md` (three-volume arc, act beats, gaps; Vol I chapters in `31`). **Present-day craft hub:** `28_present_day_trilogy_craft_index.md` (maps docs `21`–`27`). For the order in which discoveries should become entertaining to the reader, use `17_reveal_order_and_reader_impact.md`; for **life technology discovered throughout and Two Trees reunification as the end result**, use `22_life_technology_and_two_trees_spine.md`; for **~2040 world texture**, use `23_2040_present_frame.md`; for near-future street tone, use `21_present_day_street_skin.md`; for **cast flesh**, use `26_present_day_cast_expanded.md`; for **character development arcs**, use `27_character_development_arcs.md`; for **Emrys comedy**, use `24_comedic_register_slapstick.md`; for concrete adventure forms and scene seeds, use `18_adventure_engine_and_scene_bank.md`. For the deep cosmology, the trilogy outline uses the newer model: **the Anunnaki as dragon-serving drone-workers, humans as sub-drones/workforce multiplication, and Anu + 26 as the elder spirit-plane council**. (Terminology reconciled across timeline/glossary: "Titans" retired into the Anunnaki, "Hardware Recall" renamed the Sub-Drone Domestication.)
 
 ## 1. The governing story
 
@@ -111,6 +111,17 @@ Guardrails:
 
 - Eli must repeatedly refuse the role others try to place on him.
 - The healer's deification pressure is the public version of the same mechanism: a real healing becomes testimony, testimony becomes rumor, and rumor manufactures a god against the subject's will.
+
+**Two refusals, two crowns, one reflex — keep them distinct (LOCKED).** Somchai and Eli both refuse being made objects of the "find a father, kneel" reflex, but of **different crowns, for different reasons**, so the beats illuminate rather than repeat. **Eli is not a healer and never faces the healer's crown; Somchai has no interest in power and never faces Eli's.**
+
+| | **Somchai — the crown of the body** (Ch 26) | **Eli — the crown of the polis** (Ch 27) |
+|---|---|---|
+| What's worshipped | his **healing** — miracle-worker, saint, "messenger of God," "Son of Man" | his **authority** — chosen one, armed prophet, the one voice, the amplifier throne |
+| His refusal-reason | the **limits of the body**: *"I am the son of a man"* — a fallible clinician, not a divine restorer | **ownership rebuilds the cage**: seizing it, even for good, makes him the next Igigi |
+| The danger refused | becoming a **relic / miracle-dispenser**, owned as a healing resource | becoming a **father-god / king**, command-coherence that can be hijacked |
+| Deification of… | the **gift** | the **authority** |
+
+The **order builds, it doesn't echo**: Somchai's Ch 26 refusal is the **proof at intimate/bodily scale** — that you can hold a real gift and refuse to be owned by it, *and that the refusal costs* (someone suffers because he won't be their miracle; he refuses anyway). Eli then **scales that up** to civilizational stakes in Ch 27. The healer teaches by demonstration, not lecture; Eli's harder, political refusal stands on the healer's proven one.
 - Charisma is not automatically evil, but it becomes dangerous when people outsource judgment, consent, or responsibility to it.
 - The final victory must require many people making accountable choices. No prophecy, bloodline, title, or sacred leader saves the world.
 
@@ -538,7 +549,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Resolution:** the native practices spread through many people and places. The final coalition supplies local proof that ordinary and anomalous people can share risk, limits, care, and authority without ownership. The monopoly becomes less viable; the psionic war does not disappear overnight. The ending remains open because adulthood is a practice, not a switch. After that public proof, the book steps down into ordinary life rather than upward into one more revelation.
 
-**Deep reveal function:** Volume III uses the **new model** as the late reframe: dragons are not monsters but older beings in a different relation to the field; Titans are the powerful drone-worker caste beneath them; humans were made/adapted as sub-drones through workforce multiplication; and Anu + 26 are the elder spirit-plane council, not embodied owners. This reveal must be a consequence of plot evidence, not a lore lecture.
+**Deep reveal function:** Volume III uses the **new model** as the late reframe: dragons are not monsters but older beings in a different relation to the field; the Anunnaki are the powerful drone-worker caste beneath them; humans were made/adapted as sub-drones through workforce multiplication; and Anu + 26 are the elder spirit-plane council, not embodied owners. This reveal must be a consequence of plot evidence, not a lore lecture.
 
 ### Volume III victory condition — LOCKED
 
@@ -598,7 +609,7 @@ This schedule is a decision ledger, not a curriculum. The reader-facing reveal o
 | 13 | A circle center permits communication | Volume II end / Volume III | Factions converge on operational grounds |
 | 14 | Modern technologies have been external rehearsals of capacities now returning in living beings | Volume III early | The group repurposes instruments from detection and classification toward translation, consent, and coordination |
 | 15 | Dragons and other magical/evolved beings are real participants, not symbols or monsters | Volume III | The coexistence test becomes concrete rather than abstract |
-| 16 | The beings humans called Titans/Anunnaki were themselves dragon-serving drone-workers, and humans were made/adapted as sub-drones | Volume III | The group understands the robot/workforce analogy as species history, not metaphor |
+| 16 | The beings humans called Anunnaki were themselves dragon-serving drone-workers, and humans were made/adapted as sub-drones | Volume III | The group understands the robot/workforce analogy as species history, not metaphor |
 | 17 | The original Anunnaki persist as Anu + 26 on the spirit plane, influencing without direct bodily rule | Volume III | The group refuses to convert higher-plane influence into renewed worship or ownership |
 | 18 | The healer's rejection of divine sonship is already being converted into a divine title | Volume III | The group understands that testimony can rebuild religion against the subject's will; coexistence must include resisting deification |
 | 19 | The relit grid uses tethered souls | Volume III | Activating the machine becomes morally intolerable |

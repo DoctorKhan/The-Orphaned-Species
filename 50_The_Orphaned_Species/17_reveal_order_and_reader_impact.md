@@ -113,7 +113,7 @@ Then the story gradually shows that prophecy may be broken records, psion manipu
 
 ### 8. Delay the full taxonomy
 
-Names like Anunnaki, Igigi, Titans, Qingu, Apkallu, Nephilot, Lullu, and Umannu are heavy. They should enter after the reader understands the functional roles.
+Names like Anunnaki, Igigi, Qingu, Apkallu, Nephilot, Lullu, and Umannu are heavy. They should enter after the reader understands the functional roles.
 
 Working order under the new model:
 

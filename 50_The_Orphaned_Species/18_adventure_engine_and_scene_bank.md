@@ -290,7 +290,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Trick:** the group becomes stronger by preserving differences: Wren's social reading, Eli's reception, the healer's bodily repair, Emrys's measurements or legacy, local custodians' knowledge, and ordinary defenders' timing.
 
-**Reversal:** Eli can take the throne-like shortcut and refuses. The refusal is tactically useful because command coherence is exactly what hostile teams can hijack.
+**Reversal:** Eli can take the throne-like shortcut and refuses. The refusal is tactically useful because command coherence is exactly what hostile teams can hijack. (Crane frames the shortcut as *coercion-as-courtesy* — sincere, protective, a cage; grammar + drafted scene in `47_coercion_as_courtesy.md`.)
 
 **Cost:** freeing the mother requires release, not possession. Crane survives into accountability rather than giving Eli the clean emotional violence.
 

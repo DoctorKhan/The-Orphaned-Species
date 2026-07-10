@@ -97,6 +97,7 @@ Source: `05` §7 table; `00_NARRATIVE_STRUCTURE` § legs 2–7; `31` Vol I detai
 - Standing stones / buried temples = **routing interfaces** on Earth's ley network ("old word-routes").
 - They **do not generate** lines; they **deflect** natural lines inward.
 - Lines **break** and **re-form** (war damage, climate, grid relighting) → old maps fail; crop anomalies trace **new** geometry.
+- **Dead zones** — scoured segments where **plants won't grow** and **animals won't cross**; map scars from intentional route destruction (`37` § *Dead zones*; `38` § *Scour*). Hostile psion teams also **target** forming lines, witness sites, and choke points.
 - Each responsive circle/site should feel like a **character** (hum, temperament, riddling) — `00_NARRATIVE_STRUCTURE` § stone circles.
 - Deep-time **clarification** fires at charged grounds (`36_the_living_web.md`) — Eli clarifies threads **at** the place where they happened.
 
@@ -119,11 +120,11 @@ Source: `05` §7 table; `00_NARRATIVE_STRUCTURE` § legs 2–7; `31` Vol I detai
 
 Late book **converges** multiple western grounds; order is **dramatic**, not a Grand Tour:
 
-1. **Europe** — inconsistent grounds; evidence that lines broke/reformed.
-2. **Rollright** — riddling, unreliable read; false certainty punished.
-3. **Stonehenge** — Cuno descent; grid scale; faction convergence.
-4. **Men-an-Tol** — personal threshold; mother's earlier act; body memory.
-5. **Climax stones + chair** — tether release; union act; spreading fire.
+1. **Europe (Vol II Ch 20)** — dead zones **named and mapped**; **Pömmelte** massacre; **broken-line church** set-piece (`37` LOCKED §§). Vol III Ch 23 escalates **scour** warfare on choke points.
+2. **Rollright (Vol II Ch 21 / Vol III)** — riddling, unreliable read; Anthea full-res; false certainty punished.
+3. **Stonehenge (Vol II Ch 22)** — Cuno descent; **Alba → Albion → elf** name beat; England ambush.
+4. **Men-an-Tol (Vol III)** — personal threshold; mother's earlier act; body memory.
+5. **Climax stones + chair (Vol III Ch 27–29)** — tether release; union act; spreading fire.
 
 Eli learns **Albion is the endpoint** only **after** he is already deep in the trail (`05` Vol III Act turn).
 
@@ -255,24 +256,28 @@ Each leg owes beats from `22`:
 - National psion war visible as policy, conscription, desertion.
 - **Rowan** physical entry; triad pressure (`26`, `19`).
 
-### Act II — The old wound
-- Adapa / Qingu / Mesopotamian traces (human scale).
+### Act II — The old wound *(Ch 16–17)*
+- Adapa / Qingu / Mesopotamian traces (human scale); **patriarchy chord** at domestic scale (`37` § *Patriarchy*).
 - Historical households — control moves inward.
 - Built interfaces ≠ natural conductors.
-- Aru vs Daskar: can instrument be redeemed?
-- Anthea chord — sound/polarity/routing.
+- Aru vs Daskar: can instrument be redeemed? *(clarifies Ch 18)*
 
-**Midpoint (LOCKED direction):** mother's **body dead**, spirit **tethered** in western web of charged grounds — **no clean address**. **Maren suppression scene** lands here or immediately before: Eli finally learns **how she was taken** — courteous Ring machinery (clipboards, van, neighbor's light out) in SE Asia keeper/extraction context; harvest v1 prologue tone, rewrite Rahman + geography (`99`).
+**Midpoint (Ch 17 — LOCKED):** mother's **body dead**, spirit **tethered** in western web — **no clean address**. **Maren suppression scene** — how she was taken (`99`).
 
-### Act III — Göbekli and loss
-- Teams converge on buried interface; old maps fail.
+### Act III — Göbekli and loss *(Ch 18–19)*
+- Teams converge on buried interface; old maps fail; **Nephilot trail starts** at Göbekli.
 - Emrys **serious error**; group exposed or site misread.
 - Eli protects civilians vs chasing captors.
-- Distorted healing stories spread.
+- Healer rumor / *don't tell anyone* broken (Ch 19 aftermath).
 
-**Climax cost (LOCKED direction):** **Emrys taken** while Eli refuses to sacrifice others for pursuit.
+**Climax cost (Ch 18 — LOCKED):** **Emrys taken** while Eli refuses to sacrifice others for pursuit.
 
-**Resolution:** partial Cuno/Derw element + living network → Europe; "Albion" not yet confirmed.
+### Act IV — The changing map *(Ch 20–22)*
+- **Dead zones named**; **Pömmelte**; **broken-line church** (Ch 20).
+- **Anthea** full-res; Rollright / Men-an-Tol corridor (Ch 21).
+- **Cuno** full-res; **Alba → elf** name beat; England ambush; **relational Manual Override** (Ch 22).
+
+**Resolution:** partial Cuno/Derw + living network → Vol III; Albion likely but not confirmed until independent evidence agrees.
 
 ### Priority 2 open (must decide before drafting II)
 - **#7** Concrete external race (fragment? prisoner? deadline? Göbekli prize?)
@@ -281,7 +286,7 @@ Each leg owes beats from `22`:
 - **#10** Load-bearing artifact subset (5–6 objects)
 - **Node staging:** Göbekli present-day frame (dig? shrine? military zone?)
 
-**Needs:** `32_volume_II_beatsheet.md` (not written).
+**Chapter spine:** `32_volume_II_beatsheet.md` (Ch 15–22). Patriarchy, dead zones, Pömmelte, broken-line church, Nephilot trail pinned by chapter.
 
 ---
 
@@ -332,7 +337,7 @@ Each leg owes beats from `22`:
 - **#13** Crane accountability shape
 - **#14** Final community geography + post-battle dispute test
 
-**Needs:** `33_volume_III_beatsheet.md` (not written).
+**Chapter spine:** `33_volume_III_beatsheet.md` (Ch 23–30). Scour warfare, new model, release climax, coda pinned.
 
 ---
 
@@ -412,8 +417,8 @@ Agriculture, ports, documents, and stones **cause** movement — not lore tours.
 |---|---|
 | Vol I beatsheet | **Done** — `31` |
 | Vol I locked beats #1–#6 | **Done** — `99` |
-| Vol II chapter beatsheet | **Missing** |
-| Vol III chapter beatsheet | **Missing** |
+| Vol II chapter beatsheet | `32_volume_II_beatsheet.md` — sync with `SOURCE_TO_TRILOGY_MAP.md` |
+| Vol III chapter beatsheet | `33_volume_III_beatsheet.md` |
 | External race Vol II (#7) | **Open** |
 | Artifact chain reduced set (#10) | **Open** |
 | Göbekli staging | **Open** |
@@ -423,8 +428,8 @@ Agriculture, ports, documents, and stones **cause** movement — not lore tours.
 1. Lock **#7** external race → outline Vol II Act I–III chapters.
 2. Reduce **#10** artifacts → wire into Vol II beats.
 3. Lock Göbekli staging + Aru descent frame.
-4. Draft `32_volume_II_beatsheet.md`.
-5. Lock **#12–#14** → draft `33_volume_III_beatsheet.md`.
+4. Lock **#7–#10** (Vol II externals) before drafting Ch 15–18.
+5. Lock **#12–#14** before drafting Vol III Ch 27–29.
 
 ---
 

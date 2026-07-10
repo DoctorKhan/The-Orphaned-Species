@@ -40,7 +40,7 @@ This is the mechanism under the book's whole thesis:
 
 ## 4. Expression levels — full ladder in `34` §3
 
-One hardware, expressed differently: **dragons & aliens** (Tree of Life, one-Tree, self-fuelled), **gods / Titans** (both Trees, two-Tree, the extraction-fuelled anomaly), **baseline humans** (Tree of Knowledge only — the latent Life switched off, the installed lock), and **the Activation / carriers** (Life waking — the threat the locks prevent). Full table and cost model: `34` §3; the epigenetic maintenance and the Fall: `34` §5.
+One hardware, expressed differently: **dragons & aliens** (Tree of Life, one-Tree, self-fuelled), **gods** (both Trees, two-Tree, the extraction-fuelled anomaly), **baseline humans** (Tree of Knowledge only — the latent Life switched off, the installed lock), and **the Activation / carriers** (Life waking — the threat the locks prevent). Full table and cost model: `34` §3; the epigenetic maintenance and the Fall: `34` §5.
 
 - **Eli** sits with the carriers: not stronger output — wider **reception**; a receiver/reflector, not a broadcaster (`38` §8). His TBI disrupted the filter; the breach flips it open.
 
@@ -57,7 +57,7 @@ Eli's carrier hardware can produce **somatic signatures** in palms and nerves �
 | **Pressure** / **single pulse** under palm | Arterial blockage / circulatory choke |
 | **Cold spot** | Depletion, shock, failing perfusion |
 
-Interpretation is learned (Ila, threshold-house protocols, healer depth). Eli has wide **reception**, limited **mastery**. TBI adds tingling noise he must sort from signal.
+Interpretation is learned (Ila, threshold-house practices, healer depth). Eli has wide **reception**, limited **mastery**. TBI adds tingling noise he must sort from signal.
 
 What psionics and instruments detect is **activation**: the carrier interface lighting up when a trigger, surge, artifact, person, or charged ground recruits the system — a **flare**, signature pattern, or light-up in hands/head/field. Enemies hunt **activation**, not "body warmth."
 
