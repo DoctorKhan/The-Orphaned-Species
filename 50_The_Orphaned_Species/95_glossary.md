@@ -38,6 +38,14 @@
 
 **The Abandonment** — Phase VII. The Igigi withdraw; the control systems run on without controllers. The orphaned species keeps worshipping absent masters — the root condition the series title names.
 
+**Al-Ghayb / the Unseen** — the Qurʾānic name for the fuller plane minus the entropic subset: everything the locks hide from ordinary human perception (`34` §2, §8). Credited without being commanded — the correct posture toward a real register you can't yet perceive. `45_divine_names.md` § Islamic register.
+
+**The jinn** — the free-willed non-human people **native to the Unseen** (a *distinct species* — not the gods, not the human dead): made of the **medium** ("smokeless fire"), not entropic clay — Life-native, one-Tree, self-fuelled, morally forked. They share Earth's plane with humanity in the register the locks hide (`34` §8). Islamic **angels** (functionaries) vs **jinn** (free-willed) = the canon's guardian-caste vs jinn-species split. `45` § Islamic register.
+
+**Shayāṭīn (devils) / *waswas*** — the deceiver fork of the jinn (with the fallen god/guardian spirits, the demons of the spiritual war). Method: **whispering / temptation only — never compulsion** (the autopilot-exploit; `39` §2). Defeated by undeceivability, not force. `45` § Islamic register.
+
+**Iblīs** — the eldest jinn and **hidden force behind the dark side**: the arch-deceiver who **refused to bow to Adam** (fire over clay) and works to keep humanity disconnected, deceived, and enslaved so it never wakes to the station he would not honour. The patient **instigator** behind the fallen spirits and human controllers (Crane the most open instrument) — **not** an omnipotent mastermind (distributed antagonism holds; agents stay responsible). Whispers, never compels; defeated by being **unheeded** (reconnection). Likely a late-surfaced principle, never embodied (`17`, `99` #15). `45` § Islamic register.
+
 ---
 
 ## The energetics — two energies, two planes, two Trees

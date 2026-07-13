@@ -308,6 +308,12 @@ The proving community is **ordinary and distributed**, not a new order:
 - **The test after battle-pressure is gone:** a **dispute** — e.g. a carrier's child is hurt and the co-op splits on whether to hide the gift or seek ordinary medicine; or a Custodian's past is exposed and the community must decide belonging without a purge. The test is mundane friction, not spectacle.
 - **Closing act (locked feeling):** **an afternoon nobody turns into destiny** — a meal, a repair, a clinic shift, a child watched. Ordinary continuity is the proof. Exact geography and final line remain open for drafting.
 
+### 15. Iblīs / the hidden force behind the dark side — plot surface (open)
+
+**Cosmology locked** (`45` § Islamic register; `34` §8; `95`): Iblīs = the eldest jinn, the patient **instigator** behind the deception-war — whispers, never compels; **not** an omnipotent mastermind (distributed antagonism holds; human institutions stay responsible, `/00_NARRATIVE_STRUCTURE.md` §96). Gives the currently-scattered antagonism (Crane, Custodians, fallen spirits, factions) a hidden apex whose many faces *rhyme*.
+
+**Open:** does he ever surface *on the page* — named, personified, embodied — or stay a **felt principle** under the many antagonists? **Default lean:** surfaced **late and never embodied** (a Gabriel-style absence, `46` §G), so the hidden force stays hidden. Decide before Vol III drafting; ties to reveal discipline (`17`), Crane-as-most-open-instrument (`/00_NARRATIVE_STRUCTURE.md` §81), and the Shield/Custodian whisper-vs-choice line (#4).
+
 ## Charged-ground triggers (clarification of the web)
 
 Deep-time material is reached by **clarifying the living web at charged grounds** (mechanism: `36_the_living_web.md` §3a, §7a, §8). Each deep thread or structure resolves at the stone/charged ground where its content happened — **not** as a bulk download at Melaka. Human cultures often preserved this as **legends of talking stones** (local names; folk memory of charged grounds); Eli learns the stories were pointing at real behavior without the grid's vocabulary.
