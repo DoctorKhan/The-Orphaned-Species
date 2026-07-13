@@ -91,6 +91,40 @@ This is one character's overlapping maturation, not a taxonomy of Seers, Bards, 
 
 These stages overlap. Eli can have an early surge before he can interpret one, a flash of seeing before he can sustain relation, and renewed identification under stress.
 
+## Eli's meditation seed — Thailand (LOCKED)
+
+*Major theme:* Eli's **true strength** is not innate and not conferred by the breach. It is **practice seeded early** and **borne out under challenge** — the same arc as Manual Override in the series: inner work that eventually shows outwardly as equanimity, intimacy, and connection (`15` § *True strength vs superficial display*; `40` Stage 2).
+
+**When and where:** after the family attack, the healer stabilizes child-Eli and the escape network moves him into **Thailand** before hunters learn he lived (`15` § Eli's brain injury). During the recovery interval — before or alongside the **Pai** stop — adults place him near **ordinary temple practice** in northern Thailand *(specific wat, city, and caregiver link TBD at draft; not a mystical tourism beat)*. He learns what a child can learn: **breath, body attention, walking/sitting stillness, returning when the mind runs** — the same register as Aru's practice at Göbekli, encountered as **human discipline**, not as psion training or chosen-one initiation.
+
+**What it is not:**
+- not a download of the Seven or the web;
+- not spiritual superiority or a TBI cure;
+- not monkhood or permanent renunciation — fugitive childhood continues;
+- not interchangeable with Kali (Philippines / Forest City) — martial breath is **domain skill**; temple attention is **inner work**. Both bridge into later practice; neither replaces the other.
+
+**Delayed fruition — the plot engine:**
+
+| Phase | On-page register | What the reader sees |
+|---|---|---|
+| **Seed (Thailand, off-page or brief flash)** | Child sits because adults require it; headaches make stillness attractive | Habit, not mastery — one detail (count breath, bare feet on cool stone, bell before dawn) |
+| **Carry (Forest City → Melaka)** | Training-shell calm **mistaken** for equanimity | Kali footwork + compound competence; meditation recedes into background habit |
+| **First test (Melaka breach)** | Overload, asphyxia, loss of breath | A **fragment** returns — one counted exhale, attention to sole of foot — insufficient alone, but keeps him from total identification |
+| **Vol I proof (Thila / Manual Override)** | Charge deposits; autopilot commands | **Personal Manual Override:** feel charge, do not complete the act — skills **work** for the first time under full pressure |
+| **Vol II (witness sites, mother-reveal)** | Relational hold | Breath stabilizes after contact; can stay with Wren/ensemble without managing or fleeing |
+| **Vol III (authority, inquiry)** | Civilizational equanimity | Accept bounded command, refuse forced synchronization, submit to review — practice scales to **coordinate without owning** |
+
+**Thematic function:** distinguishes **superficial display** (facilities-hand calm, survival competence) from **true strength** (integrated equanimity). The temple years are the **hidden curriculum** Book 1 (*Manual Override*) lives inside the novel — meditation as plot key, not lecture (`00` §8 conveyance channel 2; § Fidelity note).
+
+**Prose rules:**
+1. **Show as habit** — breath before a splice, sitting on a stair after Melaka, one internal half-line (*return to the foot*) — never "when I was in the temple…" blocks.
+2. **Past-vs-mask leak (Vol I):** one beat where Eli's stillness reads as creepy or too calm until a later scene proves it was **practice**, not dissociation.
+3. **Practices regulate attention; they do not erase TBI** — word-retrieval failures, overload, and fatigue remain.
+4. **Rhyme, not ownership** — Aru's breath/stillness clarifies at Göbekli; Eli recognizes the register, does not claim to be Aru.
+5. **After breach, grounding before lore** — any calm post-contact is **temple habit + Emrys/Wren presence**, not instant wisdom.
+
+**Cross-ref:** `26` § Eli past; `27` § Eli perceptual arc; `00_NARRATIVE_STRUCTURE.md` §0 fugitive childhood; `36_the_living_web.md` § Manual Override; `33_the_curriculum.md` if present.
+
 ## Physical healing — the healer's alone; Eli only reads
 
 Eli is **not** a healer. His bodily gift is *diagnostic*: with contact and attention he can **read** a body — locate a bleed, sense where damage or distress sits, feel a fracture's wrongness — the way his gardener father could read a plant by touch. He cannot repair any of it. The read can guide ordinary first aid or point the healer at what to mend; the mending is never his. Even the read is inconsistent, exhausting, and medically bounded.
@@ -253,6 +287,121 @@ Strong answers include:
 - A community must choose whether exposing an abnormal growth pattern will protect their crops or bring armed attention to them.
 
 If the remaining answer is only *Eli learns more history or unlocks another capacity*, the chapter needs a human conflict or should be compressed.
+
+## True strength vs superficial display (LOCKED)
+
+**Governing theme:** distinguish **superficial display** from **true strength** — and show **how true strength is built**: practice seeded early (Eli's Thailand meditation), **fruition deferred** until challenge exceeds habit. See § *Eli's meditation seed*.
+
+**The distinction:**
+
+| Superficial display (cage posture) | True strength (awakening posture) |
+|---|---|
+| Composure as **armor** — never cracks, never needs | Composure as **integration** — can rest, ask, be wrong, still act |
+| Violence, spectacle, hierarchy as **proof** | Capacity under pressure **without** needing to dominate |
+| Swagger, quips, always-right dialogue | Presence — un-rushed, attentive, specific to the person in front of them |
+| Dissociation performing as calm | Equanimity — feels charge, does not execute the command (`Manual Override`) |
+| Confidence that **demands an audience** | Strength that **does not require witnesses** |
+| Trauma worn as aesthetic | Trauma **integrated** — shows as behavior, cost, repair |
+| Control of **others** as substitute for self-work | Relation without ownership — connected, not fused |
+
+**Thematic line:** **Control is the cage's posture. Equanimity is the awakening's posture.** Both can look calm on the surface. The test is whether the calm is **connected** (to body, to others, to the living web) or **compartmentalized** (dissociation, domination, performance).
+
+**What true strength is in this canon:**
+
+- **Inner work made visible** — breath, stillness, attention, refusal to be steerable (`40` Stage 2; Aru's practice at Göbekli).
+- **Intimate awareness** — knows the shape of fear in oneself, therefore can see it in another without owning them.
+- **Connected knowing** — Eli's clarification of the living web; somatic read; song; network — not isolated superiority.
+- **Refusal without spectacle** — Aedan's stone, Somchai's *no*, Eli's climax — power that does not need to seize the amplifier to exist.
+- **Interdependence without shame** — can need help; can cup the spider; can fall apart when cared for.
+
+**Three Circles test** (`40`, `00_MASTER_TIMELINE`): genuine reconnection radiates **outward** (Body → Family → Civilization) as effluence. Counterfeit calm **leaks** — private serenity bought by wrecking relationships or fleeing the world. If a character's "strength" improves only their interior while degrading bonds, it is display, not integration.
+
+### How to dramatize on-page
+
+**Do not lecture the distinction.** Pair behaviors in the same pressure register:
+
+| Situation | Superficial read | True strength read |
+|---|---|---|
+| Under attack | Flawless composure; body untouched by cost | Acts cleanly; hands shake after; sleeps badly |
+| Protecting someone | Manages, routes, decides *for* them | Offers capacity; leaves room to refuse |
+| Grief | Converts to policy or performance (Crane's ledger) | Mourns in behavior — object, habit, silence |
+| Desire / romance | Pursuit as conquest; destiny as permission | Initiative + restraint; vulnerability as gift, not collapse |
+| Power offered | Takes the room; never wrong | Asks; triages; admits limit |
+| Stillness | Frozen hypervigilance (Wren pre-arc) | Breath, watch, un-rushed presence (Aru register) |
+
+**Scene rules:**
+
+1. **One tell per scene** — don't stack counterfeit and authentic cues in the same beat.
+2. **Eli and the reader may misread** — survival competence and equanimity look alike until cost shows.
+3. **Villains can be sincere** — Crane's display is believable care; that is why it is dangerous.
+4. **Growth = less steerable, not less afraid** — sympathetic characters stay scared; they stop obeying fear as final authority (`40` § Legitimate fear vs. fear as ruler).
+
+### Cast compass (not types)
+
+| Character | Superficial register | True-strength register (earned or native) |
+|---|---|---|
+| **Crane** | Reasonable voice; never raises volume; paternal composure | *(withheld)* — grief misfiled as policy; no inner work on-page |
+| **Edda Voss** | Seer mystique; breath-counting as threat | Analyst rhythm — belief fused to role, not equanimity |
+| **Sol Mendez** | Charisma, sermon cadence | Untreated wound performing as prophecy |
+| **Wren** | Cold operator; flawless exits | Softness leaks (stairwell bun); falls apart when cared for — arc moves toward real strength *after* the game |
+| **Eli** | Hard facilities hand; training-shell calm | **Thailand seed → delayed fruition** — temple breath under charge; Manual Override; cup-the-spider courage; relation without identification |
+| **Somchai** | Could play god | *Son of a man* — limits, consent, triage as moral acts |
+| **Emrys** | Map-not-territory authority | Learns touch over measurement; frailty without collapse |
+| **Thila Sen** | Fury as only note | Barefoot bund; lullaby to scarecrow — land-grief **and** practical care |
+| **Aru** *(deep time)* | — | Breath, stillness — awareness holding itself |
+
+**Romance:** competence is attractive; **control is the flaw** (`19`). Fiction often sells dominance as strength; this book sells **chosen devotion, restraint, and exclusive vulnerability** as the erotic register of integration — not invulnerability.
+
+**Cross-ref:** `00_NARRATIVE_STRUCTURE.md` (no super-confident default); `40_concepts.md` § Developmental arc; `36_the_living_web.md`; `19_romance_and_divine_pairing.md` § attraction/danger; § *Women characters* below (Hollywood templates = superficial display).
+
+## Women characters — no Hollywood "girl power" (LOCKED)
+
+*Author direction: reject one-dimensional "powerful women" who are badly written male action templates with a gender swap. This book's women are not a corrective cast; they are people under the same cages as everyone else.*
+
+**Core misunderstanding to reject:** the way **male power is usually shown on screen** (dominance, spectacle violence, swagger, hierarchy, never wrong) is **superficial display**, not true strength — see § *True strength vs superficial display* above. It is **not** the template for women's power either. Copying it onto women is not equality; it is the same lie in a different body.
+
+**Power in this book has registers — not one gendered default:**
+
+| Register | What it looks like on-page | Who carries it (examples) |
+|---|---|---|
+| **Relational / network** | Routes, harbor chains, keeper nets, throwing someone out the back to save **your people** | Mei, Maren, Wren's burned contacts |
+| **Somatic / diagnostic** | Hands that read heat, pulse, blockage; midwife knowledge; first aid guided by a read | Ila, the healer *(male — power ≠ combat)* |
+| **Sonic / frequency** | Song as substance, throat-sounds, misdirection through rhythm | Anthea, the Singer, Pai |
+| **Concealment / transmission** | Grain pit, dream-chain, hiding a child, passing practice hand to hand | Marra, Tem, Derw's encoding |
+| **Refusal without spectacle** | Not kneeling; not becoming the hoarder; release instead of throne | Aedan's stone, Eli's Manual Override climax |
+| **Reception / witness** | Breadth of read, not repair; map not territory | Eli, Emrys |
+
+None of these require quips, cold killing competence, or "winning" by acting like the man with the hammer. **Wren's exits and counterfeits are survival craft**, not femme-Bond — her arc is whether love can be real after the game, not whether she out-fights the hunters.
+
+**What to reject on-page:**
+
+| Hollywood template | Why it fails here |
+|---|---|
+| Competence **as personality** (quips, swagger, always right) | Control is the **cage's** posture — Crane, factions, handlers (`00` relatability rule) |
+| Action beats without **cost, fear, or wrongness** | Relatability lives in fumble, shame, fatigue, need |
+| Trauma as **aesthetic** (suffering displayed, never integrated) | Trauma = injury to attachment/agency — show **behavior**, not mood board |
+| "Strong" = **never needs help** | The thesis is **interdependence without ownership** — Wren/Eli built on complementary cowardice |
+| Woman wins by **becoming the system** | Patriarchy critique: women are **targets and carriers** of suppressed knowledge, not honorary enforcers |
+| **Male dominance = universal power** | Conflates the cage with the cure — see *Power registers* above |
+
+**Same standard as all major characters** (`16`): small human need, private wound, repeated behavior, relationship changed by **action** — not declarations of strength.
+
+**Cast-specific guardrails (not archetypes):**
+
+| Character | She is **not** | She **is** |
+|---|---|---|
+| **Wren** | A femme fatale or stoic hunter | **Old in survival, young in love** — mystery (withheld interior, reads rooms first); intrigue (handler vs rescuer, Asha, third loyalty); attraction (competence + armor-break + pool/courtyard ordinary want) — see `19` § *Female mystery…* |
+| **Mei** | Kitchen-mom exposition | Rules as love language; brother to locked province; throws Eli out the back because **her people** matter |
+| **Mira** *(dead)* | Plot fuel only | Sonic gift; two women loved her; extraction failure — Wren **and** Sora carry unpaid grief |
+| **Sora** | Redemption badass | Soft, exhausted; **volunteered for protection, got leash**; Michael medal; conscience, not cool |
+| **Ila** | Proto-healer action figure | **Midwife** — diagnostic read, community knowledge; grief Eli receives as **other**, not ancestor |
+| **Anthea / Tem / Marra** | Superheroes in deep time | **Practitioners killed or hidden** by patriarchal clamp — song, grain pit, domestic scale; gifts **transmitted**, not inherited by Eli |
+| **Maren** | MacGuffin or oracle | Researcher, song, keeper net — **taken** by courteous machinery; tethered west; release = goodbye |
+| **Pai** | Secret lineage / magical girl | **Jester with dragon staff** — play, rhythm, misdirection; not an oracle unless crowd **misreads** her |
+
+**Thematic alignment:** deep-time and present plot both argue that **power hoarded through gendered purge** (Pömmelte, witch-hunt line, 17:1 clamp) is the wound — not that the answer is women acting like the hoarders. Victory is **coexistence and transmission**, not swapping who wears the collar.
+
+**Cross-ref:** § *True strength vs superficial display* (positive mirror); § *Eli's meditation seed*; § *Female mystery, intrigue, and attraction* (Wren erotic register — through-line + per-chapter `31`/`32`/`33` § *M/I/A audit*); `00_NARRATIVE_STRUCTURE.md` (no super-confident default; Wren vulnerabilities); `37` § *Patriarchy* (domestic faces, not lecture); `19` (romance curriculum — love ≠ destiny or rescue).
 
 ## Priority hierarchy
 

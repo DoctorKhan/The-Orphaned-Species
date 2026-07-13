@@ -20,13 +20,17 @@ The novel opens **after** the acute phase of two overlapping crises. Background 
 | **Early 2030s** | Several states **confirm psionic signatures** in reproducible lab conditions — still disputed publicly, already militarized privately. Carrier registries begin as **health-and-security** programs. |
 | **Mid 2030s** | **Conventional + cyber war** escalates: shipping insurance spikes, satellite constellations attacked/jammed, GPS unreliable in contested corridors, payment and identity systems weaponized. |
 | **~2037–2039** | **Engineered outbreak** during war escalation — acute mortality and lockdown politics; **contained** within ~18–30 months via platform vaccines, reduced virulence, and/or hybrid immunity. **Emergency powers do not fully sunset.** |
-| **~2039–2040 (novel present)** | Uneven **reopening**: Melaka, Strait ports, and some corridors function again under improvisation. Forest City and similar pockets operate as **accountable refuges**. Covert **psion war** harder to hide. Eli is **22**; Wren **~19**. |
+| **~2039–2040 (novel present)** | Uneven **armed reopening** after the war's hottest phase: Melaka, Strait ports, and some corridors function again under incompatible armistices. Proxy fighting, blockades, maritime seizures, and drone attacks continue. Forest City and similar pockets operate as **accountable refuges**. Covert **Psion War** is fully active and harder to hide. Eli is **22**; Wren **19**. |
 
 The world is **damaged but functioning** — not collapse, not utopia.
 
+**Psionic origin lock:** rare natural carriers existed before the outbreak; this is why states, Maren, Crane, and Emrys could study them in the early 2030s. The construct weaponizes that research to lower or destabilize the receiver threshold in a much larger population. Eli was born before the outbreak and inherits the natural route. The outbreak expands and exposes psionics; it does not create them.
+
 ---
 
-## Post-war bloc archetypes (author background — not on-page)
+## Armistice-era bloc archetypes (author background — not on-page)
+
+“Post-war” in older notes means **after the single hottest global phase**, not peace. Use *armed reopening*, *armistice-era*, or *post-collapse* in new planning prose.
 
 The preamble rhymes **Late Bronze Age network collapse** (Cline / *1177 BC*) through pressure, not lecture. **Survival was not wall thickness or army size — it was antifragility:** adapt to chaos rather than rigidly resist it. Interdependent top-heavy systems seized when one supply chain broke. Use this table for faction behavior, long-arc fate, and Eli's corridor texture; **do not name Mycenae, Hittites, Egypt, Assyria, Phoenicia, Cypriots, Cline, or 1177 BC on-page.**
 
@@ -41,7 +45,7 @@ The preamble rhymes **Late Bronze Age network collapse** (Cline / *1177 BC*) thr
 | Bronze Age | ~2040 |
 |---|---|
 | Elite empires used **complex scribal scripts** (e.g. Akkadian) only state scribes could read | Old superpowers used a **gene-drive lock** — state control written in the genome |
-| Empires fell; Phoenicians spread the **phonetic alphabet** — learnable in an afternoon, person to person | Weapon left a **grassroots neurological threshold** at puberty — organic, uncontrollable |
+| Empires fell; Phoenicians spread the **phonetic alphabet** — learnable in an afternoon, person to person | Weapon forced a previously rare **neurological threshold** into mass visibility — most predictably at puberty, but no longer controllable |
 | Maritime outposts carried the new script past dying palaces | **Threshold houses** = harbor outposts along broken lanes; spread the folk way **below registries** |
 
 **Bloc responses to threshold (dramatize through pressure, not thesis):** Union quarantine / Mandate cure-corridor / Free Ports keeper chain — detail in § Threshold architecture below.
@@ -224,7 +228,7 @@ Still decide in draft/research, not here:
 - whether Forest City maps to a specific real corridor or a lightly renamed composite;
 - healer's city and name.
 
-**Locked:** post-war bloc names — Continental Union / Eastern Mandate / Free Ports Covenant (`WORLD_BIBLE.md` §1a).
+**Locked:** armistice-era bloc names — Continental Union / Eastern Mandate / Free Ports Covenant (`WORLD_BIBLE.md` §1a).
 
 ---
 

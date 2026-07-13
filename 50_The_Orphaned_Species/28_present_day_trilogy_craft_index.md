@@ -8,25 +8,32 @@
 
 | If you are… | Read first |
 |---|---|
-| Drafting prose / scene tone | `21_present_day_street_skin.md` + `23_2040_present_frame.md` |
+| Drafting prose / scene tone | `14_literary_speculative_thriller_style_guide.md` first; then `21_present_day_street_skin.md` + `23_2040_present_frame.md` |
+| Choosing or switching viewpoint | `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED* |
 | Placing a character in a scene | `26_present_day_cast_expanded.md` (includes **past** layers) |
 | Tracking growth across a volume | `27_character_development_arcs.md` |
 | Trauma / internal cages (behavior under stress) | `26` Part VI + `15` § Trauma |
 | Writing Emrys comedy or warmth | `24_comedic_register_slapstick.md` + `16_reader_attachment.md` |
 | Pacing Life vs Knowledge reveals | `22_life_technology_and_two_trees_spine.md` + `17_reveal_order_and_reader_impact.md` |
-| Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren |
+| Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit* |
 | Locked beats / open names | `99_open_questions.md` |
 | Volume I chapter order | `31_volume_I_beatsheet.md` |
 | Volume II chapter order | `32_volume_II_beatsheet.md` |
 | Volume III chapter order | `33_volume_III_beatsheet.md` |
 | Science citations / epigraphs / *On the record* | `90_epigraphs_and_sources.md` § *Citation layer* |
 | Patriarchy & bloodlines chord (Tem, 17:1, Qingu) | `37_deep_time_source.md` § *Patriarchy & bloodlines* |
+| True strength vs superficial display (equanimity theme) | `15_character_grounding_and_relatability.md` § *True strength vs superficial display* (LOCKED) |
+| Eli meditation seed — Thailand, delayed fruition | `15_character_grounding_and_relatability.md` § *Eli's meditation seed* (LOCKED) |
+| Women characters — no Hollywood "girl power" | `15_character_grounding_and_relatability.md` § *Women characters* (LOCKED) |
+| Wren M/I/A — mystery, intrigue, attraction (LOCKED) | `19` § *Female mystery, intrigue, and attraction*; per-chapter `31`/`32`/`33` § *M/I/A audit* |
 | Archangels / sarim (seventy sons downgraded) | `46_divine_council_roster.md` §§ E, G — **character ladder LOCKED** |
 | Angelic orders / seraphim / cherubim | `46` § H — **ON HOLD** (cross-plane agency TBD) |
 | Dead zones / psion scour | `37` § *Dead zones*; `38` § *Scour & ground targeting* |
 | Nephilot trail / Alba–elf / Pömmelte massacre | `37` § *Tracking the Nephilot line*; `90` §6 |
 | Plot spine (3 vol, acts, gaps) | `29_trilogy_plot_and_development.md` |
 | Full structure / climax | `05_story_architecture.md` |
+| Cultural moment / story-first resonance (2026) | `44_cultural_moment_and_mass_appeal.md` — durable pressures, character engines, organic suspense, cultural guardrails |
+| Audience / Wren relatability | `43_audience_and_character_recommendations.md` |
 
 ---
 
@@ -61,6 +68,7 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 
 | Topic | Doc | Decision |
 |---|---|---|
+| POV architecture | `14` | Eli-dominant close third; only Eli, Wren, and Somchai as recurring interior lenses; one viewpoint per scene; rare away scenes must pass the switch test |
 | Present year (author) | `23` | ~2040, not on-page |
 | Death technology | `22`, `34`, `95` | Ordinary tech = equations in entropic time |
 | Life + death at climax | `22`, `05` | Two-Tree union act; release not throne |
@@ -68,7 +76,12 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 | Vol I end threshold | `27`, `05` | Personal Manual Override |
 | Vol II end threshold | `27`, `05` | Relational/collective Manual Override |
 | Cast names (provisional) | `26`, `99` | Table in open questions; romance is a **dyad** (Rowan off-page, 2026-07) |
-| Romance union | `27`, `19`, `00_NARRATIVE` | Earned mid-III; release thesis |
+| Romance union | `27`, `19`, `00_NARRATIVE` | Late Vol II commitment at debt; Vol III tested before coda |
+| Romance cost (per chapter) | `31`, `32`, `33`, `19` | Trust up/down on page; five load-bearing beats |
+| M/I/A (per chapter) | `31`, `32`, `33`, `19` § *Female mystery…* | Mystery · Intrigue · Attraction — through-line on dyad scenes |
+| Contemporary resonance (2026) | `44`, `17`, `18`, `16` | Human attachment, clear dramatic questions, causal escalation, ensemble agency |
+| True strength vs display | `15`, `40` | Equanimity ≠ composure-as-armor; Thailand seed → Manual Override |
+| Women / power registers | `15` § *Women characters* | No Hollywood girl-power swap; relational/somatic/refusal registers |
 
 ---
 
@@ -76,6 +89,8 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 
 | Doc | Role |
 |---|---|
+| `14_literary_speculative_thriller_style_guide.md` | Governing prose voice, scene delivery, exposition, ambiguity, and revision tests |
+| `44_cultural_moment_and_mass_appeal.md` | Dated cultural strategy: gender rift, loneliness, polarization, AI, futurelessness, and story-first guardrails |
 | `05_story_architecture.md` | Trilogy structure, fellowship, Living Way, climax |
 | `15_character_grounding_and_relatability.md` | Eli TBI, healer, relatability guardrails |
 | `16_reader_attachment.md` | Human gravity before mythology |
@@ -92,12 +107,15 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 ## Drafting workflow (recommended)
 
 1. **Chapter goal** — `31` or `05` volume section  
-2. **Who's in the scene** — `26`  
-3. **What changes for them** — `27` checklist  
-4. **Tone / 2040 texture** — `21` + `23`  
-5. **Life/Knowledge beat owed?** — `22`  
-6. **Comedy allowed here?** — `24` volume density  
-7. **Unresolved name/plot** — `99`  
+2. **Viewpoint** — Eli by default; if Wren or Somchai, apply `14` § locked away-scene test  
+3. **Who's in the scene** — `26`  
+4. **What changes for them** — `27` checklist  
+5. **Tone / 2040 texture** — `21` + `23`  
+6. **Life/Knowledge beat owed?** — `22`  
+7. **Comedy allowed here?** — `24` volume density  
+8. **Romance cost owed?** (Eli/Wren scenes) — `31`/`32`/`33` chapter **Romance cost** + `19` § audit
+9. **M/I/A owed?** (Eli/Wren scenes) — **M**ystery · **I**ntrigue · **A**ttraction — `31`/`32`/`33` § *M/I/A audit*
+10. **Unresolved name/plot** — `99`
 
 ---
 
@@ -108,6 +126,9 @@ When adding a new present-day craft decision:
 - Put **locked beats** in `99_open_questions.md`
 - Put **character name/flesh** in `26`
 - Put **arc / proof scene** in `27`
+- Put **romance cost / chapter friction** in `31`/`32`/`33` (see `19` § *Romance cost audit*)
+- Put **M/I/A per chapter** in `31`/`32`/`33` § *M/I/A audit* (see `19` § *Female mystery…*)
+- Use `44` to test cultural resonance only after scenes work as character-led fiction; no appeal device is owed by quota
 - Put **world/tone** in `21` or `23`
 - Put **cosmology/Life-tech** in `22`
 - Update this index if a new numbered craft doc is added

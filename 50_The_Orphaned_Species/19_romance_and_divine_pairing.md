@@ -93,7 +93,7 @@ Structure romantic beats so **want outruns permission**:
 
 - recognition in Vol I, comfort withheld;
 - care in Vol II, control tested;
-- chosen love in Vol III, **before** the mother-release climax so the ending is not "they got together."
+- chosen love by late Vol II, **before** the mother-release climax so the ending is not "they got together"; Book III tests whether commitment can survive separate authority, Wren's refusal, and public accountability.
 
 The buildup is the product. A single kiss after fifty chapters of earned proximity beats five speeches about divine pairing.
 
@@ -125,6 +125,9 @@ End Vol I: the reader should think *I want them to have one quiet week together*
 - Do not let field-recognition short-circuit the slow work of **asking and refusing**.
 - Do not kill the romance to copy tragedy; **separation, misread control, and deferred ordinary life** already hurt.
 - Do not place the only intimate warmth in Melaka noir — Forest City establishes what Eli is losing; Wren's network establishes what she protects.
+- Wren is **nineteen** and Eli is **twenty-two**. Her operational authority and his post-breach dependence still create a handler/rescued-person imbalance. No early intimacy should be treated as free consent while she controls his route, medicine, information, or physical safety.
+- Wren's refusal to share Mira's name, images, or memory is a complete boundary, not a romantic obstacle. Eli proves trust by stopping a field-read rather than acquiring the withheld history.
+- Wren's future did not begin with Eli: the abandoned ferry-terminal threshold house and its courtyard predate him. A shared future becomes romantic only when Eli is invited into an existing aspiration rather than becoming its reason.
 
 When drafting present-day pursuit tone alongside romance, pair this section with `21_present_day_street_skin.md` (port-noir pressure) and `16_reader_attachment.md` (human gravity).
 
@@ -204,6 +207,8 @@ The same quality that draws them together should threaten them.
 Eli's openness draws Wren in, but it also makes him vulnerable to possession, prophecy, emotional flooding, and self-erasure.
 
 Wren's competence draws Eli in, but it can become management, secrecy, and control.
+
+**Competence is not the same as equanimity.** Romance can use the Hollywood bundle — protection, initiative, embodied presence — but must **separate attraction to capacity from attraction to control**. True strength in the bond is intimate and connected: he is not fleeing the feeling; she is not managing the person. Superficial display (flawless operator, destiny swagger, invulnerability) should read as **counterfeit or pre-arc** until conduct proves integration. See `15` § *True strength vs superficial display*.
 
 ### There is a third loyalty
 
@@ -640,6 +645,169 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 - Do not make destiny false merely to stay morally clean; the stronger move is to make destiny real pressure that still requires freedom.
 - Do not let the romance become private escape from the trilogy's public stakes.
 - Do not let public stakes flatten the lovers into symbols.
+
+## Romance cost audit (LOCKED — drafting)
+
+*2026-07-12 pass:* architecture is **not** "too easy"; **execution** drifts easy if tenderness outruns friction. Per-chapter flags live in beatsheets; this section is the hub.
+
+**Rule:** every Eli/Wren chapter must move trust **up or down on the page** — not only in beat-sheet "cost" fields. Bill resentment in **dialogue**, not backstory.
+
+### Per-volume audits
+
+| Volume | Doc | Dramatic job | End state |
+|---|---|---|---|
+| **I** | `31` § *Romance cost audit* | Recognition refused → forced alliance; **no label** | Trust enough to keep moving |
+| **II** | `32` § *Romance cost audit* | Care → control; **rupture before union** | Commitment at **debt** (Ch 22) |
+| **III** | `33` | Union tested by jurisdiction: Wren refuses Eli her network; he accepts that love grants no command access | Partnership without merger; affection survives separate duties and judgment |
+
+### Five load-bearing beats (if these land, romance reads *chosen*)
+
+1. **Vol I Ch 7** — suspicion spoken aloud after the soft probe: is the contact genuine or planted? Exact phrasing must arise from the scene (`00` §6c).
+2. **Vol I Ch 9** — escape offer (*we could leave*) — almost works; fails on third loyalty.
+3. **Vol II Ch 17–18** — mother midpoint **cools** romance (replacement fear); **rupture** when Emrys taken.
+4. **Vol II Ch 22** — present-tense commitment at **unpaid cost** — not ambush adrenaline.
+5. **Vol III Ch 27–31** — Wren refuses Eli access to her network; he later submits his own authority to limits and review. Their relationship survives without either becoming the other's jurisdiction.
+
+### Drift risks (too-easy failure modes)
+
+| Risk | Antidote |
+|---|---|
+| Field-recognition reads as soulmate QED | Ch 4 magnitude without meaning; Ch 7 misread fight |
+| Wren keeps choosing him = reward fantasy | Laleh/Asha bill (Ch 8); resentment through Vol II Ch 15 |
+| Mother arc accelerates romance | Ch 17 recoil — *don't put her in that chair* |
+| Union without rupture | Ch 18 cold shoulder → Ch 20 repair → Ch 22 choice |
+| *Liaisons* pressure too thin (triad cut) | Ch 16 honey-trap; Ch 19 Sol secrecy |
+| Book III makes Wren's network the hero's natural resource | Ch 27 refusal materially weakens Eli's plan and remains legitimate |
+
+### Competence vs control (romance register)
+
+**Competence is attractive; control is the flaw** (`19` § attraction/danger). Fiction often sells dominance as strength; this book sells **initiative + restraint**, **chosen devotion**, and **exclusive vulnerability** — the erotic register of **integration**, not invulnerability. Wren's exits are survival craft, not femme-Bond; Eli's cup-the-spider courage is the inverse register. Cross-ref: `15` §§ *True strength vs superficial display*, *Women characters*.
+
+### Immature love scripts (name on-page via behavior)
+
+| Character | Immature love | Mature move |
+|---|---|---|
+| **Eli** | *I'll become useful enough you won't leave* | Asks; refuses to make Wren proof of destiny |
+| **Wren** | *I'll keep you safe by controlling the field* | Admits when protection became control; third loyalty holds |
+
+### Dyad note (2026-07)
+
+Rowan off-page; romance is **Eli/Wren only**. Custody-vs-consent tension is **internalized** (prior-love instinct, Mira wound) — compensate with **Liaisons** pressure (Ch 16), Sol thread (Ch 19), and explicit rupture/repair (Ch 18–20).
+
+## Female mystery, intrigue, and attraction (LOCKED)
+
+*How to write Wren (and adjacent women) with **mystery, intrigue, and erotic charge** without femme-fatale flattening, handler-reward fantasy, or Hollywood "girl power."* Companion: `15` §§ *Women characters*, *True strength*; `00` Outlander / *Liaisons* synthesis; `26` § Wren (Asha, threshold house, pool, room-design pleasure).
+
+**Governing line:** **Mystery is withheld interior and asymmetric knowing — not opaque backstory bait. Intrigue is divided loyalty under the Social Game — not a sex-intrigue engine. Attraction is witnessed conduct and bodily specificity — not dominance performed as gender.**
+
+**Through-line (LOCKED):** **mystery deepens as she becomes visible; intrigue resolves as she exits the counterfeit; attraction matures as control becomes consent.** Competence is attractive; **control is the flaw** — not the hook. Draft per-chapter: `31` / `32` / `33` § *M/I/A audit*; checklist `27` items 5–6; workflow `28` step 8.
+
+### What this is not
+
+| Trap | Why it fails here |
+|---|---|
+| **Femme fatale** — always ahead, always cool, sexuality as weapon | Control-as-personality = cage posture; Wren is **frightened**, not invulnerable |
+| **Mystery solved = love unlocked** | Eli must not "earn" her by decoding her file |
+| **Handler as reward** | She keeps choosing him without **cost on dialogue** |
+| ***Liaisons* as main engine** | Genre drift; intrigue lives at the **edges**, true love at center (`00`) |
+| **Attraction = competence porn only** | Needs **cost, wrongness, armor-break**, third loyalty |
+| **Mystery as plot obstruction** | Withhold **feeling and motive**, not logistics the reader needs |
+
+### Mystery — epistemic asymmetry
+
+Wren should remain **partially unreadable to Eli (and the reader)** for much of Vol I–II — not because she is opaque for sport, but because **being known is her terror** and **reading rooms is her craft**.
+
+| Register | On-page |
+|---|---|
+| **She reads the game first** | Exits, leverage, performance, registry faces — Eli learns the room **through** her, not by exposition |
+| **She withholds interior** | Flat voice under stress; won't explain twice; operational answers mask want |
+| **Past-vs-mask leaks** | Stairwell bun, ping delete, ferry-terminal sketch — mystery **deepens** when habit contradicts mask (`26` Part V) |
+| **Field-recognition ambiguity** | Pull could be real, engineered, or both — she distrusts it **more** than he is tempted by it |
+| **Double life** | Official hunter / secret rescuer — reader sees **both** before Eli has language for either |
+| **Desire vs counterfeit** | Bisexual/pan texture (`00`) — render **genuine want** distinct from handler performance and honey-traps |
+
+**Prose rule:** Eli may **misread** her mystery (tactical fear, creepiness, destiny) — reader connects later via leaks, not confession blocks.
+
+**Mystery pays off** when she chooses **visibility without surrender** — admits control, names replacement fear (Ch 17), stops filling his silences — not when he "solves" her.
+
+### Intrigue — divided loyalty and the Social Game
+
+Intrigue is **moral grey + competing obligations + performed relation** — the *Liaisons* register applied to survival, not salon sport.
+
+| Source | Function |
+|---|---|
+| **Wren's split role** | Ring handler vs harbor-chain rescuer — every fold-in costs **her people** (Laleh, Asha) |
+| **Asha Noor** | Living female relationship — friend, quartermaster, **civic conscience**; argues consent architecture; not rival, not expositor |
+| **Light-cross (Melaka)** | Her extraction fouls his witness — intrigue through **operations**, not seduction |
+| **Counterfeit nearby** | Jin mirror-charm, registry kindness, Sol fellowship — Wren reads **use**; Eli learns true vs played (`19` § Romance cost audit Ch 16) |
+| **Crane wedge (Vol III)** | File leverage on Wren — *did she manage him from the start?* — intrigue via **institution**, not bedroom |
+| **Third loyalty always present** | Network, Mira wound, civilians — intrigue **collides** with want |
+
+**Wren is not Merteuil.** She is a **defector from the game** learning consent — intrigue tests whether she can exit the counterfeit without becoming another handler. Asha's consent review (Ch 8) is intrigue as **ethical pressure**, not jealousy.
+
+### Attraction — female gaze without the dominance swap
+
+Attraction should center **Wren as a person desired** — competent, bodily, specific — without invulnerability or destiny permission.
+
+| Register | Examples (Wren) |
+|---|---|
+| **Witnessed competence** | Forged manifest, sonic misroute, reads exit before face — **attractive because useful under pressure**, not because domineering |
+| **Bodily specificity** | Salt-stiff hair, tied back; flat voice; **strong swimmer, terrible diver** — pool joy chosen, not combat prowess |
+| **Ordinary erotic** | Sanctuary food/watch; threshold-house dream (courtyard, doors that lock **from inside**); shared-future spoken through teeth |
+| **Armor-break** | Spider terror; stair trip; **falls apart when cared for** — attraction through **crack**, not flawless operator |
+| **Complementary cowardice** | Brave where he is terrified (people, action); he brave where she is terrified (stillness, being known, spider) |
+| **Initiative + restraint** | She folds him in at cost; later **lets** him choose wrong; chosen touch with room to refuse |
+| **Female gaze beats** | Desire in **look, proximity, work of hands** (fixes route, orders real food, pins hair) — not male-template swagger |
+
+**Separate registers:** attraction to **capacity** vs addiction to **control**. Her arc moves from manage-danger-first → trust consent. Eli's from debt/destiny → ask without owning.
+
+### Scene toolkit — three questions per Eli/Wren beat
+
+1. **What does she know that he doesn't — and what does she refuse to show?** (mystery)
+2. **What third loyalty or counterfeit presses the scene?** (intrigue)
+3. **What conduct or body detail draws him — and what does it cost?** (attraction)
+
+Pair with existing scene requirements (`19` § Scene requirements). If a beat has attraction only, compress. If it has all three, keep.
+
+### Volume placement
+
+| Vol | Mystery | Intrigue | Attraction |
+|---|---|---|---|
+| **I** | Unreadable operator; leaks (bun, ping); field-recognition refused | Light-cross; Laleh/Asha; Custodians mirror; Ch 7 fed? | Stairwell proximity; sanctuary **after** snap; complementary cowardice; **no label** |
+| **II** | Sol secrecy; mother recoil; replacement fear named | Honey-trap; Emrys rupture; trade fork; file doubt | Repair after rupture; commitment at **debt** (Ch 22) |
+| **III** | Open-handed without fate-language | Crane wedge; indispensable network choice | Parallel release with mother; tired coda touch |
+
+**Per-chapter M/I/A lines:** `31` / `32` / `33` § *M/I/A audit* (drafting).
+
+### M/I/A drafting audit (LOCKED — 2026-07-12)
+
+*Companion to § *Romance cost audit* — architecture is locked; execution drifts if dyad scenes have tenderness without at least one M/I/A register moving.*
+
+| Vol | Beatsheet audit | Arc job | End-state register |
+|---|---|---|---|
+| **I** | `31` § *M/I/A audit* | Unreadable operator → leaks → trust without label | Attraction **felt**, not named; intrigue **unresolved** |
+| **II** | `32` § *M/I/A audit* | Honey-trap + rupture → repair → commitment at **debt** | Intrigue exits counterfeit; control named |
+| **III** | `33` | Jurisdiction conflict → Wren refusal → bounded cooperation → inquiry | Open-handed partnership; ordinary affection without merger |
+
+**Five load-bearing M/I/A beats** (if these land, Wren reads *person*, not prize):
+
+1. **Vol I Ch 7** — *is this fed?* — intrigue spoken; mystery misread (trap vs destiny).
+2. **Vol I Ch 8** — Laleh/Asha + sanctuary **after** snap — all three registers on one page.
+3. **Vol I Ch 14** — hand held/released — attraction up; mystery via **behavior**, not confession.
+4. **Vol II Ch 16–17** — honey-trap dismantled; mother **recoil** — intrigue + attraction **down**.
+5. **Vol III Ch 27 / Ch 31** — she refuses command access; after the crisis they choose continued relationship without undoing her boundary or his sanction.
+
+**Drift risks:**
+
+| Vol | Risk | Guard |
+|---|---|---|
+| **I** | Ch 5+8+14 tenderness without Ch 7+9+13 friction | Bill resentment on dialogue; at least one register **down** before Ch 14 |
+| **II** | Ch 22 union without Ch 17–19 damage | Mother midpoint **cools** romance; rupture before repair |
+| **III** | Mother goodbye → Wren as sequential consolation | Release beats **parallel**; Ch 30 coda without fate-language |
+
+### Other women (brief)
+
+Mystery/intrigue/attraction are **not Wren-only**: **Mei** (rules as love language, registry bend); **Sora** (soft conscience under collar); **Maren** (researcher-song mystery, taken alive). They carry **registers** (`15` power table), not the romance dyad.
 
 ## End-state image
 
