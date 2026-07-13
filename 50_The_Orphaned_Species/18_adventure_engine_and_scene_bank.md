@@ -66,6 +66,8 @@ Great adventure makes the reader feel:
 
 That is the desired feeling for ley lines, psion teams, artifacts, resonance imprints, and the final network.
 
+**Story-first resonance (2026):** pair this engine with attachment to Forest City's ordinary life, a clear dramatic question, causally escalating pursuit, and consequential ensemble agency. A literal countdown or trackable object is optional, never a quota — `44_cultural_moment_and_mass_appeal.md`.
+
 ## Adventure contract for this trilogy
 
 Every major concept needs a physical adventure form.

@@ -15,14 +15,25 @@ Do not solve these by adding more mythology. Solve them by deciding who wants wh
 - **Book II:** *The Orphaned Species: The Descent*
 - **Book III:** *The Orphaned Species: The Living World*
 
+## Priority -1 — trilogy allocation revision (LOCKED 2026-07-12)
+
+- **Book I ends at Göbekli Tepe.** Forest City → Melaka → maritime/Gulf evidence → sealed-interface race. Emrys is taken at the climax; Eli chooses people over the complete record.
+- **Book II ends at Albion with Maren's release.** Anatolia → Europe → Stonehenge / Men-an-Tol / tethered ground. The release begins the spreading awakening through the living web.
+- **Book III is the community/network book.** Forest City, the Mekong rice/aquaculture cooperative, Somchai's clinic network, Wren/Asha threshold houses, and an open Albion ground attempt durable connection without central ownership. Crane's surviving apparatus pressures standardization; Sol pressures militarized centralization. The climax tests whether temporary coordination can disperse after necessity.
+- **Book III opening — LOCKED:** Eli returns to **Forest City** as a boat of newly awakened refugees arrives under pursuit / exposure pressure. The refuge is divided: close the harbor to preserve the community; admit everyone because awakening changed the moral scale; or create accountable intake that risks becoming a registry. Priya argues for signed procedures and worker/resident safety; Mei insists arrivals are fed and stabilized before classification; founders want to scale and brand the model; Wren rejects making one refuge the universal template. Eli coordinates the immediate emergency successfully. The success creates the new danger: residents, outsiders, and allied nodes begin treating his temporary decision as permanent authority.
+- **Arif's garden on Eli's return — LOCKED:** the community took over the abandoned plot and it is thriving because no one preserved it unchanged. Mina and Lopa began tending it; Mei redirected kitchen compost; Priya placed it on a legitimate maintenance rota so the plot could not be confiscated as abandoned; refugee families planted crops Eli does not recognize. His failed tomatoes finally grow because someone grafted them rather than following Arif's method. Eli feels gratitude, grief, and irrational replacement before recognizing that continuity without ownership is the garden's lesson.
+- **Old `31`/`32`/`33` chapter allocations are superseded as spines.** Preserve their scenes as quarry; rebuild chapter beats before drafting beyond the current Forest City/Melaka manuscript.
+
 ## Locked present-day frame — ~2040 (not on-page)
 
 - **Author assumption:** the present-day trilogy is set in **~2040** (~14 years from drafting baseline).
 - **Reader rule:** **never state the year** in the novel. Infer near future from reopening ports, scarred satellites, lingering emergency law, registry/biosecurity habit, and familiar tech accelerated — not from captions.
 - **Worldbuilding doc:** `23_2040_present_frame.md` — what changed 2026→2040 (war, contained outbreak, psion programs, climate, death technology texture, geography notes, prose markers).
-- **Still open:** exact calendar year of Eli's family attack; healer location/name (provisional flesh in `26_present_day_cast_expanded.md`).
+- **Still open:** exact calendar year of Eli's family attack; healer location/name (provisional flesh in `26_present_day_cast_expanded.md`); **Thailand temple** — specific wat, city, caregiver link, and whether recovery interval is shown in flash or only as Vol I habit leak (`15` § *Eli's meditation seed* — LOCKED in design).
 
-## Locked — post-war blocs (~2037+, background only)
+## Locked — armistice-era blocs (~2037+, background only)
+
+The world is not at peace. “Post-war” in legacy notes means after WWIII's hottest phase. Proxy fighting, blockades, patrols, drone attacks, sanctions, and deniable operations continue during uneven armed reopening.
 
 | Pole | Official | Street |
 |---|---|---|
@@ -31,6 +42,22 @@ Do not solve these by adding more mythology. Solve them by deciding who wants wh
 | Ports / remnant states | **The Free Ports Covenant** | *the Covenant*, *the Ports* |
 
 **Canon doc:** `WORLD_BIBLE.md` §1a. **Forest City** = Covenant gray zone. **Melaka** = Covenant port under uneven reopening. Prologue weaves all three; chapters use one name at a time through documents, checkpoints, or habit.
+
+### World War ↔ Psion War — LOCKED
+
+- The public World/Machine War is geopolitical and not secretly caused by psions or Crane.
+- The modern Psion War is a covert theater nested inside it, using health systems, borders, displacement, damaged satellites, and emergency authority as cover and infrastructure.
+- Book I: hottest public phase has passed; armed reopening outside, active covert Psion War beneath.
+- Book II ending: Maren's release breaks the rare-carrier/amplifier monopoly and makes awakening difficult to hide; neither war ends.
+- Book III: ordinary war remains fragmented; the Psion War changes from a secret arms race into a public struggle over who can organize, represent, conscript, register, or protect awakened communities.
+
+### Psionic origin ↔ outbreak — LOCKED
+
+- Rare natural carriers and psions existed before the engineered outbreak. Maren and Eli belong to this inherited natural line.
+- Early consciousness programs studied this population; their signature and integration research was later adapted into the weapon's synthetic activation construct.
+- The outbreak does not create psionic capacity, the field, or souls. It lowers and destabilizes access to receiver biology already latent in humanity, making activation far more widespread and visible.
+- Eli was born around 2018, experienced natural pre-outbreak adolescent threshold symptoms, and is not a post-outbreak gene-drive child. His TBI creates no power.
+- Children infected before puberty form the first mass threshold cohort by the novel present; later descendants can inherit the construct. Adults can also activate less predictably under extreme stress, illness, deliberate induction, charged ground, and—after Book II—Maren's release through the living web.
 
 ## Cast flesh — expanded profiles (`26_present_day_cast_expanded.md`)
 
@@ -44,10 +71,11 @@ Working character bible from cast review. **Provisional names** until locked bel
 | Lance | Tomás Reyes | collateral guilt |
 | Lead / Locker | Edda Voss | true believer manager |
 | Mask / Scout | Jin Pak | coerced idealist |
-| Vol I grower elder | Thila Sen | rice community climax |
+| Vol I cooperative water keeper | Nguyễn Thị Hạnh (“Hạnh,” provisional) | Vietnamese lead within mixed Vietnamese–Khmer Mekong cooperative |
 | Prophecy face | Solomon "Sol" Mendez | burned carrier, Vol II |
-| Registrar / kitchen | Mei Lin | hearth (Vol I) + kind registrar (Vol II); merged from Priya Nair (2026-07) |
-| Healer | Dr. Somchai Vichai | two public healings + refusal |
+| Workplace / status liaison | Priya Nair | facilities scheduler (Vol I) + worker-status liaison (Vol II); systems and bodily safety |
+| Kitchen / hearth | Mei Lin | food, local trust, community protection; remains distinct from Priya |
+| Healer | Somchai Vichai, RN / field medic | energetic healer; two public healings + refusal |
 | Farida (cousin) | Farida Rahman | one Dhaka message beat |
 | Filipino teacher | Manong Rico Del Rosario | memory only |
 | Wren's prior love (off-page) | **Rowan** | referenced, never on page; source of Wren's custody instinct; romance is a dyad (`26`, `27`) |
@@ -100,7 +128,7 @@ How the deep-past material reaches the present-day trilogy is **resolved**: see 
 
 ### 1. Opening causal chain — LOCKED
 
-**A witness in newly-reopened Melaka who claims to know what happened to Eli's mother — reached through the harbor, carrying one personal detail and something of hers. Half-bait.** Not a cosmological artifact (those enter after the breach); human stakes first. The hook can be broadcast indirectly but locally: a live band on the **Network School terrace** is paid to work the mother's tune into its set, then direct anyone who truly recognizes it toward one Melaka contact. Nobody needs to know who the child is; the song lets him identify himself.
+**A witness in newly-reopened Melaka who claims to know what happened to Eli's mother — reached through the harbor, carrying one personal detail and her wedding ring. Half-bait.** Not a cosmological artifact (those enter after the breach); human stakes first. The hook can be broadcast indirectly but locally: a live band on the **Network School terrace** is paid to work the mother's tune into its set, then direct anyone who truly recognizes it toward one Melaka contact. Nobody needs to know who the child is; the song lets him identify himself.
 
 **Eli's Forest City role — the shell and the core.** *Shell (day-job):* **facilities worker** at the Network School compound — cables, uplinks, access points, robot routes, the physical layer beneath the founders' pitch decks. Platform wage, no equity; **Babaji's friendship with Arif** got him the placement, not money. Hard, hot, capable work when junctions run live; his **somatic read** belongs in the body but not in the splice — he resets breakers and never quite burns on live hardware. The **Friday demo overload** (layered noise, three languages, Slack pings, terrace band) is where his TBI quietly breaks him, while solo splice work is his refuge. *Daily luck awareness (on-page):* he is **reminded every day** — towers full of worse papers, Priya's sign-off, Mei's free-meal list, recognizers who expect him tomorrow — that he should not still be here and is; he does not say *lucky* out loud (sounds like boasting or naïveté) but he **does not forget it**. *Core (private):* he keeps **his dead father's garden**, badly. His Bangladeshi father was a gardener; Eli tries to carry the craft and is **not as good.** This is the book's spine made intimate on page one — *reception without mastery* — and the orphan trying to be the parent and failing. *Gift/craft split between his parents:* the **mother's line** is the involuntary gift (**somatic signatures** through palms and nerves — "you have her hands" — the surges, reception he never chose); the **father** is the chosen ordinary craft (the garden) Eli wants and can't master. He'd trade the gift for his father's plain green hands. *(His first frightened body-**read** via Ila later feels like his father's hands, the ones he never had, briefly arriving — one correct **pressure-read** at a bleed: perception that guides ordinary first aid, never repair, never radiating heat. Eli does not heal — that is the healer's gift alone.)* Incidental seamanship from refuge life remains a secondary skill for the maritime leg — he is not a sailor by trade. Leaving costs him the compound crew, Mei's terrace, the people who know his name, and the garden.
 
@@ -108,13 +136,16 @@ How the deep-past material reaches the present-day trilogy is **resolved**: see 
 
 - **How it reaches him:** through the **compound/port network** — supply runs, terrace events, musicians, and food-runs moving between Forest City and the reopening Strait ports. A live band plays the old tune on the Network School terrace and watches for recognition; Suresh understands what is happening when one of the musicians asks about the facilities hand, then brings the danger to Mei before the handlers can come closer to the compound. The clue is *found through his work*, not delivered by a mystical messenger.
 - **Who carries/controls it:** a witness who was **held alongside the mother and got out** — a real person with their own debt, not a clue-dispenser. (Decide alongside #8 Healer / escape-network specifics whether this witness connects to that network.) Behind the witness, unknown to Eli, a team is using the mother-thread as a lure.
+- **The personal object — LOCKED:** **Maren's wedding ring**, made from visibly joined **silver and brass** with an imperfect seam Arif made or repaired himself. Maren wore it on a cord while doing fieldwork. The inner surface is engraved **“same soil”** — Arif and Maren's private promise that two people from different places could make one home, a phrase Eli heard in family life. It is intimate, not a cosmological code. In captivity, Maren gave it to Hassan because she believed he had the better chance to escape. Hassan knows that she found the seam with her thumbnail and turned the ring when thinking — an unrecorded handling detail that confirms lived proximity.
 - **Why he trusts a weak clue:** the one detail — her private name for him, the **three-note tune**, or a specific fact about the night of the attack — lands as a **surge.** His body lights with certainty before his mind can verify. His gift and his flaw in one beat: he goes because it *rang*.
 - **Why it can't be tested from Forest City:** the witness won't/can't travel (hunted, dying, or it's a physical handoff they won't trust to monitored wartime comms). The truth only resolves on-site.
 - **What it promises:** **truth, not reunion** — a witness to how she died (seeds the Vol II reveal: dead in body, tethered west). Keep reunion off the table here so "the reunion is the goodbye" still has somewhere to fall.
 - **What it costs by end of Act I:** he forfeits the Forest City refuge, the compound crew, Mei's terrace, the people who know his name, and the father's garden; and the lead is **half-bait** — following it is what gets him run down and breached (#2), starting the reunion-as-bait engine on page one. Irony to bank: a man whose palms **read bodies** is choked/drowned at the breach, and at the threshold **the receiver opens** to undifferentiated field-noise (not seven lives downloaded — `36` §3a).
 - **Crossing function:** Suresh's supply boat is the last Forest City threshold, not a sailboat adventure. It develops Suresh as a practical port-runner with guilt and hard limits, plants Eli's basic deck competence, shows Forest City receding as a real home, and explains the danger of port networks through musicians, chandlery, checkpoints, cargo, quarantine cover, quiet bribes, and people who remember faces.
 
-**Still open:** the exact personal detail (name / tune / fact); the witness's identity and whether they survive Act I; whether the team behind the lure is Crane's ring or a rival national team (ties to #4).
+**Hassan's fate — LOCKED:** Hassan survives Melaka but is **recaptured by the Custodians, acting for Crane's Ring, before completing the handoff**. Eli sees enough of the two-metal ring to know the lead is real, then loses both Hassan and the object during the breach. The Custodians transfer Hassan through a **Gulf corridor holding site** because his knowledge of Maren may unlock her sabotaged maps. Hassan returns alive in Volume II custody, carrying first-person knowledge of Maren's imprisonment and complicity that no archive can replace. **Sora quietly leaks the transfer route to Wren** — her first active betrayal of the unit and first conduct-based step toward defection. Hassan's return forces a choice between rescuing a person and recovering evidence. He is harmed and pressured but not retained merely to be tortured on page.
+
+**Still open:** precise Gulf holding-site geography and rescue mechanics.
 
 ### 2. Melaka breach event — LOCKED
 
@@ -126,7 +157,7 @@ How the deep-past material reaches the present-day trilogy is **resolved**: see 
 2. **Losing fight.** The flight collapses into close-quarters combat — sticks, a blade, his Filipino Kali. His training is **perception, not prowess**: he reads line, range, entry, and angle, and it is *not enough* against numbers. He is overwhelmed. (Anti-badass: the Kali buys him seconds, never victory; keep the dominant note terror and overwhelm, per `15_character_grounding_and_relatability.md`.)
 3. **The threshold — asphyxia, not concussion.** He is choked down and held under at the river's edge, or driven off a quay into the harbor and pinned/tangled. Near-death by loss of breath. The hypoxia **rings the old childhood TBI** (names blur, the old skull-fracture hums, the original attack bleeds in) — so the head wound is present-tense without being repeated.
 4. **The plane opens — receiver ON (`36` §3a).** At the edge of death the **psi plane opens to Eli for the first time** — first contact with the sight (`38_psionic_combat.md`): he *sees* the forms as he's dying. **Sensory overload** — too much signal at once; hypoxia and old TBI ring together. **No identity crisis:** he does not think the dead are him. Catastrophe, not power: he is **exposed and hunted** from this moment (grid flare). One ordered fragment may surface (three concentric circles). **Named historical threads clarify later at charged grounds** under pressure; see § Charged-ground triggers below.
-5. **Pulled back.** An **ordinary bystander/local** (fisherman, boatman, market-seller) hauls him out — chosen over the Healer (reserved for the Vol II reconvergence) and over Wren/Emrys (who converge on the *flare*, i.e. afterward). Seeds the recurring cost: helping Eli is dangerous, and the rescuer may pay for it.
+5. **Pulled back — LOCKED:** **Salmah**, a Melaka fish seller and small-boat owner who knows the river's currents, uses a boat hook and mooring line to haul him clear and performs rough practical resuscitation. She has no gift and does not see the psi-plane forms. The Custodians later suspend her market access and seize her boat under quarantine authority, making the cost of helping Eli economic and civic rather than fatal.
 6. **Aftermath / signal.** The breach **lights his signature** across the grid (the "dinner bell," `38`), so both contesting teams lock onto him; Emrys and Wren converge; Eli escapes into the reopening chaos, changed and now loud.
 
 - **Whom Eli tries to reach:** the breach happens while he is chasing — or being chased away from — the narrow Melaka clue about his mother (decide alongside #1). His attempt to protect the bystander-rescuer or reach the clue is what costs him.
@@ -150,9 +181,9 @@ How the deep-past material reaches the present-day trilogy is **resolved**: see 
 - **II** — her people and Eli's trail pull apart geographically; the trade fork sharpens (a faction dangles her people's safety for delivering Eli — neither lover is the other's currency, but now it's *her* people on the scale).
 - **III** — her network becomes the coexistence proof; she makes the **indispensable choice** (already reserved for her in `05` §7) — binding it to accountable limits, refusing to let any faction, Crane, *or Eli* weaponize it. Her objective and the trilogy's victory condition merge.
 
-**Light-cross with the opening clue (LOCKED knob):** the person Wren is extracting in Melaka when the breach hits is **not** the witness/mother-lure, but close enough that the two operations keep fouling each other — her extraction route, safehouse, or timing collides with the witness handoff, so protecting her person and chasing Eli's clue can't both be clean. Exact identity open; keep the entanglement light, not a shared target.
+**Light-cross with the opening clue — LOCKED:** Wren is extracting **Nura Salleh**, a middle-aged threshold-house cook and newly detected carrier, together with her young son **Ilyas**. Nura is **not** the witness/mother-lure. Her safehouse and transport timing collide with Hassan's handoff. Eli's breach-flare contaminates the clean family route; Wren folds Eli into the escape, and the only surviving revision separates Nura and Ilyas onto different routes. Both survive and later reunite, but Nura permanently distrusts Wren for making the choice without her full consent.
 
-**Still open:** her sonic-resonance tool vs. her ignorance of what carriers are *for* (she uses the gift without understanding it); whether she is mid-level inside Crane's ring specifically or a national program the ring moves through (ties to #4); the specific face she's extracting in Melaka.
+**Still open:** her sonic-resonance tool vs. her ignorance of what carriers are *for* (she uses the gift without understanding it). **Resolved:** Wren is a Ring handler; Nura and Ilyas are her Melaka extraction.
 
 ### 4. Recurring rival psion team — LOCKED (names open)
 
@@ -191,13 +222,14 @@ Still open:
 
 Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED").
 
-- **Site:** a smallholder **rice-farming community** in monsoon/deltaic South Asia — paddy as the legible detector. Deliberately **not** Bangladesh (held as Eli's lost home). Exact geography flagged for research.
+- **Site — LOCKED direction:** a fictional rice / seasonal aquaculture cooperative in Vietnam's **Mekong Delta**, provisionally in the **Trà Vinh / wider lower-delta corridor** pending local research. Paddy, canals, sluice gates, salinity records, boats, and field sensors make the forming line legible. Deliberately not Bangladesh, Bali, or a return to Eli's childhood refuge.
 - **Anomaly:** a **new ley line forming**, which the growers themselves distinguish from irrigation and blight.
 - **What they want:** protect crop/land/water; refuse to be a battlefield; want **neither faction** there.
 - **Evidence lost:** the cleanest physical documentation of the forming line (formation + a grower's polarity record).
 - **The fight:** Custodians vs. a rival team contest it; civilians in the crossfire.
 - **What survives → Vol II:** the community's own knowledge (a grower's observation, a coordinate that no longer matches the old map, half a polarity reading) points onward without the itinerary. Eli's gain is a **threshold** (personal Manual Override; the Seven are real and separate), not power.
-- **Still open:** exact geography; the rival team's identity; whether Crane appears in person in Vol I (recommend: looms only).
+- **Agent Orange / dioxin history — LOCKED treatment:** the cooperative borders or remembers a **former military herbicide handling / transit site** with one mapped or disputed restricted parcel where contamination persists. Families still discuss wartime spraying, illnesses, land avoidance, compensation, cleanup, and the gap between official testing and lived memory. Do **not** portray the entire Mekong Delta as uniformly contaminated, attribute any individual's disability or illness to Agent Orange without evidence, or make dioxin the supernatural cause. The growers first test the anomaly against salinity, irrigation, industrial pollutants, pesticides, and dioxin history; their ability to rule these out is why their conclusion matters. Research the precise site before prose. Persistent high-contamination hotspots are most strongly associated with storage/handling sites; broader sprayed soils often declined toward background levels.
+- **Still open:** exact community/site and local names; the rival team's identity; whether Crane appears in person in Vol I (recommend: looms only).
 
 ### Father's death and Bangladesh flight — LOCKED
 
@@ -210,6 +242,8 @@ Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED").
 **What Eli carries:** rivers, Bangla scolding, garden knowledge, food and household rhythm, maybe one political argument he did not understand — **not** a clear crime-scene memory unless a later volume earns it. The Forest City garden is **exile soil**: he is trying to grow his father's craft away from the rivers Arif knew.
 
 **Family naming (LOCKED):** **Arif Rahman** + **Maren Rahman** *(birth name Holt)* → **Eli Rahman**. Married surname **Rahman** in keeper work and regional memory. **Do not use Das.**
+
+**Maren's complicity and release — LOCKED:** Maren willingly collaborated with Crane's early consciousness research because she believed measurement, signature recognition, and guided integration could protect vulnerable people. The work produced real benefits and became the basis for registry, suppression, targeting, and amplifier systems. She became a dissident after recognizing that temporary safeguards had become permanent ownership and subjects could not withdraw. She delayed exposure while trying to reform the program internally; at least one named subject paid for that delay. Eli initially believes she resisted from the beginning. The Volume II mother reveal breaks that innocent version without negating her love or courage. Eli and Maren then receive a real lucid reunion and both want more time. The **Book II climax** releases her without absolving or condemning her into one role; that limited first awakening creates Book III's civic crisis.
 
 **Bangladesh after:** remains **lost home**, not solved graveyard. Unreturnable because political danger, files, surveillance, and surviving kin (e.g. a cousin in Dhaka — **Farida**, name locked from quarry) are still at risk. Vol I South Asia climax stays deliberately **not** Bangladesh — a near-miss of home.
 
@@ -228,12 +262,14 @@ Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED").
 
 ### 8. Healer specifics — LOCKED
 
-**Dr. Ravi Menon** — Kerala-born emergency physician, ~45, runs a free clinic in a port city (geography open; Vol I–II South Asia corridor makes Kerala/coastal India natural). Widowed father of a daughter (the ordinary obligation that anchors him outside Eli's orbit).
+**Somchai Vichai** — Thai nurse and field medic who works across corridor clinics, threshold houses, and emergency sites. He stabilized child-Eli after the family attack and passed him into the escape network before they were separated. His exact age and home clinic remain open.
 
-- **Gift vs. Eli:** tactile diagnostic read + steady hands; his gift is *bodily*, not thread-reception. He is the "stronger present-day healer" from `37` — recognizes Ila's method in the record and develops it further with medical training. He is **not Ila reborn**; the contrast is the point.
-- **Who he loves / owes / resents:** his late wife (grief, the reason he heals); his daughter (the reason he won't vanish into the movement); mild resentment of institutions that let the clinic starve.
-- **Public healing unavoidable:** a mass-casualty event at the clinic (collapse, disaster) forces a visible act he cannot hide — the moment that makes him a name.
-- **What he refuses (Vol II, before Vol III deification):** a patronage/spectacle deal that would turn his clinic into a shrine; he refuses to be the face of a cult. In Vol III, as crowds deify him, he **publishes his own limits** — names the patients he could not save — so the movement cannot make him a god. This is the healer's version of Eli's "make yourself unnecessary."
+- **Ordinary competence before gift:** nursing, wound care, medication, triage, evacuation, and field stabilization. He is not a physician; he works with and refers to doctors. The energetic capacity developed through years of attentive hands-on care rather than replacing clinical practice.
+- **Gift vs. Eli:** Somchai can perform genuine energetic restoration of bodily injury. Eli can only perceive somatic signatures and guide ordinary action. Somchai is the stronger present-day healer from `37`, but is **not Ila reborn**, medically omniscient, or able to repair every body.
+- **Who he loves / owes / resents:** his aging mother in a diabetes queue; co-worker **Pin**, who shared a healing clip after being told not to; the ordinary patients displaced whenever a faction or pilgrim demands a miracle.
+- **Public healing unavoidable:** a mass-casualty event at a corridor clinic or threshold house forces a visible energetic repair he cannot hide — the moment that makes him a name.
+- **What he refuses:** a patronage/spectacle arrangement that would turn a clinic into a shrine and his body into public infrastructure. In Volume III he publishes his limits and names people he could not save, preventing the movement from making him a god. His refusal does not mean refusing ordinary nursing care.
+- **Hard limits:** cannot cure the engineered outbreak retroactively, restore neural information destroyed by Eli's TBI, heal without bodily/metabolic cost, or substitute for diagnostics and ordinary medicine.
 
 ### 9. Emrys's error and fate — LOCKED
 
@@ -258,25 +294,23 @@ Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED").
 
 ## Priority 3 — required before Volume III can land
 
-### 11. The dragon's role — LOCKED (author: ghost = remnant of an ALIEN species)
+### 11. The dragon's role — LOCKED (ghost = the remnant of Tiamat's alien architect line, gone in body)
 
-**Not a dragon, and not of Earth.** The "dragon" of folklore is the **ghost / spectral remnant of an alien species** that once came to Earth **briefly**, **helped engineer what we call "the gods,"** and then **left**. What lingers in the web is not a beast but a visitor's echo — a trace with no body, perceived during clarification.
+**The dragon-remnant IS Tiamat's line — the alien architects, gone in body (LOCKED 2026-07-12).** The "dragon" of folklore is the **ghost / spectral remnant of the alien architect species *itself*** — **Tiamat / Leviathan's serpentine line** (`00_MASTER_TIMELINE`, "the true alien masters"): the deep-time makers who seeded the human stock (Feral Drop, ~7 mya), harvested and fused it (Sub-Drone Domestication, ~0.9 mya), and **engineered the gods**. They are **not of Earth** (panspermic, not native) and are now **gone in body** — which is why what lingers in the web is *a trace with no body*, perceived during clarification. **Reconcile the "brief visitor" register with the deep-time architect:** they were present across deep time, not literally briefly — **human myth compresses their vast presence-and-withdrawal into "a dragon that came and left."** And the withdrawal was a **murder**: the gods killed their own makers (**Marduk slays Tiamat — the Serpent-Slaying**), so the makers did not simply depart — they were **destroyed by the made**, the maker→made→murder fractal firing at the very top of the ladder ([[panspermic-cycle]]). Only one spirit remains — the ghost Eli clarifies.
 
-- **Its plot role:** the ghost **remains to deliver the account — that the gods were engineered by visitors who came and went, and only this remnant was left behind.** The Vol III beat is the origin reveal: the divine council / the gods are not indigenous to the web; they were shaped with alien help, then the aliens departed. Eli clarifies the ghost at the convergence and receives the account.
+- **Its plot role:** the ghost **remains to deliver the account — that the gods were engineered by the alien architects (Tiamat's line), who were then killed by the gods they made; only this remnant was left behind.** The Vol III beat is the origin reveal: the divine council / the gods are not indigenous to the web; they were shaped by the makers, who are now **gone in body** (the maker destroyed by the made). Eli clarifies the ghost at the convergence and receives the account.
 - **When it appears:** during the Vol III clarification cascade, when Eli's wide reception opens the field — felt as a vast aware *echo*, not a shape.
 - **What it wants:** to deliver the account of the visit and the departure; not worship, not return on command.
-- **The coexistence test, reframed:** the one being humanity could never integrate is not a lost native but an **absent visitor** — an alien remnant that was never Earth's to keep. The ghost is the proof of the gap: the gods were made, the makers left, and only a trace remains. This is the honest, unresolved chord (rhymes the Crane ending — accountability without redemption, the structure left standing). The final community integrates carriers, plants, spirits, transformed humans; the dragon-remnant is the one absence it can only **reckon with**, not include.
+- **The coexistence test, reframed:** the one being humanity could never integrate is not a lost native but an **absent visitor** — an alien remnant that was never Earth's to keep. The ghost is the proof of the gap: the gods were made, the makers were **killed by the gods they made**, and only a trace remains. This is the honest, unresolved chord (rhymes the Crane ending — accountability without redemption, the structure left standing). The final community integrates carriers, plants, spirits, transformed humans; the dragon-remnant is the one absence it can only **reckon with**, not include.
 - **Craft guard:** a quiet clarification-voice, never a beast on stage; no spectacle, no fight. The scale of the reveal (we were engineered; the engineers are gone) is the point, not action.
-- **Canon link:** pairs with `39` (dragons & aliens = Tree-of-Life, one-Tree, self-fuelled) — the "dragon" myth compresses the memory of these visitors. Does NOT override the Göbekli elf reveal (#7): the Nephilot were down-bred by the *gods* (the alien-made beings), so the chain is **aliens → gods → elves** — a coherent nested-engineering reading, not a contradiction. The divine council (`46`) is real; it is now also *engineered*, which deepens the orphan theme (even the gods were made, not primordial).
+- **Canon link:** pairs with `39` (dragons & aliens = Tree-of-Life, one-Tree, self-fuelled) — the "dragon" myth compresses the memory of these architect-makers (Tiamat's line), now gone in body. Does NOT override the Göbekli elf reveal (#7): the Nephilot were down-bred by the *gods* (the alien-made beings), so the chain is **aliens → gods → elves** — a coherent nested-engineering reading, not a contradiction. The divine council (`46`) is real; it is now also *engineered*, which deepens the orphan theme (even the gods were made, not primordial).
 
 - **Silurian drone-helpers & the endosymbiosis model (author extension):** the dragons had **drone helpers — the Silurians**. Not subjects they ruled, but a **symbiotic partner-layer** that, over deep time, became inseparable from them.
   - *The symbiosis is endosymbiotic.* Real-world rhyme: the 2024 **nitroplast** — a nitrogen-fixing cyanobacterium (UCYN-A) fused into the marine algae *Braarudosphaera bigelowii* and became an **organelle** (Coale et al., *Science* 2024). The bacterium lost ~80% of its genome; the host gained nitrogen-fixing; two became one. Endosymbiosis is the deepest symbiosis: the helper crosses from tool to *internal part*.
-  - The Silurians are the dragons' "nitroplast": started as external drone helpers, became **internalized** — part of the dragons' own functioning, or seeded into the worlds they touched as a dormant helper-layer. The helper is no longer a separate thing; it is *inside*.
-  - *Ultimate goal — drones on every available planet, in case they are needed:* the dragons' seeding strategy was a **distributed contingency network** — a self-sustaining helper-layer placed on every habitable world so that, if the dragons were ever recalled or life ever needed them, the infrastructure was already present. Not conquest — **caregiving infrastructure**. The Silurian seeds are the outward form: dormant endosymbionts parked on every world.
-  - *Orphan-theme payoff:* the dragons' model was *partnership* (endosymbiosis — the helper inside the self). The gods they engineered fell into *hierarchy* (mastery over the made). The Fall is symbiosis degraded into domination. Humanity inherits the broken version: it meets the Silurian seed-layer (the web's anchors — charged grounds, talking stones, `36`) as something to own, register, or fear, instead of as a partner.
+  - The Silurians are the dragons' "nitroplast": they started as external drone helpers and became **internalized** into the dragons' functioning. They did **not** leave dormant seeds, active traces, planetary helper layers, or anchors in Earth's web.
+  - **Extinction rule — LOCKED 2026-07-12:** no Silurian body, seed, trace, helper, or dormant layer survives into the present. Charged grounds and the living web are not Silurian infrastructure. The Silurians belong only to deep history as part of the vanished dragon ecology.
+  - *Orphan-theme payoff:* the dragons' model was *partnership* (endosymbiosis — the helper inside the self). The gods they engineered fell into *hierarchy* (mastery over the made). The Fall is symbiosis degraded into domination. Humanity inherits the broken relational pattern, not Silurian machinery.
   - *Author decision — who built the hierarchy:* **a mix.** The dragons built a **flawed** system (not pure malice, but a design with a latent crack — the elves/Nephilot were down-bred with a built-in subordination seam). The gods then **abused that crack** into full domination. Neither pure villains nor pure victims: the makers were flawed, the made exploited the flaw. This keeps the moral center honest — the Fall is earned, not a cartoon betrayal.
-  - *Author decision — seed-layer activity:* **LEFT OPEN.** Whether any Silurian seed remains active (vs. fully dormant/dead) is intentionally unresolved for now; decide during Vol III drafting. The "dormant" framing stands as the default; an awake-helper hope-beat is available but not committed.
-  - *Canon link to the web:* the web's physical anchors (charged grounds, talking stones, `36`) may be the **dormant Silurian seed-layer** — the contingency network left "in case they are needed." This does NOT contradict `36` (one web, not capsules): the web is one; its substrate includes the seeded helper-layer. Eli's "one web" clarification still holds; what he learns is that the web's deepest anchors are *manufactured care*, not primordial nature.
 
 ### 12. Native-road mechanism — DESIGNED (`41_climax_the_awakening.md`)
 
@@ -303,7 +337,7 @@ Eli refuses to destroy Crane (locked climax). Accountability lands through insti
 
 The proving community is **ordinary and distributed**, not a new order:
 
-- **Who belongs:** Dr. Ravi Menon's free clinic (healers); Wren's network nodes (the distributed choir, no command hierarchy); a South Asia growers' co-op on a **forming ley line** (the Ila-witness ground, now living); the **Albion ground held open** (Cuno's cathedral site, unowned); the surviving Custodian who took the Shield door; Eli and Wren. Carriers, ordinary people, plants, spirits, transformed humans — in reciprocal life without kneeling, owning, or being owned. **The dragon is the one absence the community cannot integrate: the spectral remnant of an alien species that helped engineer the gods and left; its ghost remains only to deliver that account** (see #11).
+- **Who belongs:** Somchai's corridor-clinic network (nurses, medics, doctors, ordinary patients, healers); Wren's network nodes (the distributed choir, no command hierarchy); a South Asia growers' co-op on a **forming ley line** (the Ila-witness ground, now living); the **Albion ground held open** (Cuno's cathedral site, unowned); the surviving Custodian who took the Shield door; Eli and Wren. Carriers, ordinary people, plants, spirits, transformed humans — in reciprocal life without kneeling, owning, or being owned. **The dragon is the one absence the community cannot integrate: the spectral remnant of an alien species that helped engineer the gods and left; its ghost remains only to deliver that account** (see #11).
 - **Rules without registering nature:** conduct-based, not identity-based. No registry; standing comes from practice and relation, checked by conduct (`40`). Fear is detached from nature; accountability attaches to acts.
 - **The test after battle-pressure is gone:** a **dispute** — e.g. a carrier's child is hurt and the co-op splits on whether to hide the gift or seek ordinary medicine; or a Custodian's past is exposed and the community must decide belonging without a purge. The test is mundane friction, not spectacle.
 - **Closing act (locked feeling):** **an afternoon nobody turns into destiny** — a meal, a repair, a clinic shift, a child watched. Ordinary continuity is the proof. Exact geography and final line remain open for drafting.
@@ -339,7 +373,7 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 - Final volume count: current working shape is a trilogy; reassess only after the Volume I beat sheet proves scene length.
 - Companion nonfiction: keep Books 1–4 as optional slim companions unless drafting proves otherwise.
 - Surnames and local names: Eli, Wren, Crane, Emrys, Aedan, and Anthea are stable enough; surnames and local-character names remain open.
-- **Maren suppression scene (Vol II, LOCKED):** not a Vol I prologue. When Eli learns **how his mother was taken**, dramatize the Ring's courteous machinery (clipboards, wellness language, unmarked van, neighbor's light going out) in **SE Asia extraction/keeper context** — personal, earned, ~1,000–1,500 words. Harvest v1 prologue tone from `MANUSCRIPT_v1_archive.md`; rewrite **Rahman** naming and geography. Pair with mother-trail evidence (Vol II midpoint region: body dead, spirit tethered west). **Vol I** seeds dread only: tune, Suresh, Melaka witness — no cold-open abduction.
+- **Maren suppression scene (Vol II, LOCKED):** not a Vol I prologue. When Eli learns **how his mother was taken**, dramatize the Ring's courteous machinery (clipboards, wellness language, unmarked van, neighbor's light going out) in **SE Asia extraction/keeper context** — personal, earned, ~1,000–1,500 words. The evidence must also reveal that Maren once willingly helped build the signature/integration tools now locating her; the scene is persecution and consequence at once. Harvest v1 prologue tone from `MANUSCRIPT_v1_archive.md`; rewrite **Rahman** naming and geography. Pair with mother-trail evidence (Vol II midpoint region: body dead, spirit tethered west). **Vol I** seeds dread only: tune, Suresh, Melaka witness — no cold-open abduction.
 - Final home: Albion closes the mother-thread but must not declare Eli's truer home. His ultimate residence can remain open unless the coda requires a choice.
 
 ## Next practical step

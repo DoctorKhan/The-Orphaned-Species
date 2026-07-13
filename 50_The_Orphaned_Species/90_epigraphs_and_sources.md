@@ -451,6 +451,36 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 ---
 
+## 9. The overhand throw — distance-killing as the human evolutionary edge
+
+*Anchor for **Chapter 6.ii (The First Spear)** and the "Technology's hidden telos" thread (`00_MASTER_TIMELINE.md`:155). The cave's "man on a ridge, herd below, cognition turns into distance-killing" beat gets a real biological floor here.*
+
+**A. Throwing anatomy — the mobile shoulder, the independent waist, the elastic-energy release.**
+**Paper:** Roach, N. T., et al. (2013). "Elastic energy storage in the shoulder and the evolution of high-speed throwing in *Homo*." *Nature*, 498, 483–486. https://doi.org/10.1038/nature12267
+**The finding (paraphrase — confirm before quoting):** The human shoulder is configured to store elastic energy during the cocking phase of an overhand throw and release it explosively at release. Compared with chimpanzees (who throw with enthusiasm but top out near ~20 mph with poor accuracy), the human throwing arm — a mobile shoulder joint, a waist that rotates independently of the hips (the body as a whip), and arm-segment proportions that let the elbow extend at the right instant — accelerates projectiles past 100 mph in trained pitchers. The difference is **anatomy**, not training or cognition. This configuration appears in the fossil record by ~2 mya in *Homo erectus*.
+**Why it matters to this book:** This is the honest floor under **Chapter 6.ii (The First Spear)**. Distance-killing is not a metaphor — it is a specific, evolved hominin capability, and it sits on the **terrestrial Feral-Drop substrate** (`00_MASTER_TIMELINE.md`:218 — the hand and bipedalism are Earth biology, not the architects' install). The "dumb skill" is native stock doing what native stock does. Use Roach's shoulder mechanics to keep Ch 6.ii looking like a Pleistocene survival academy, not a spacecraft.
+**Verbatim (from Roach et al. 2013, Abstract — ready to use as epigraph):**
+> "[VERBATIM TODO] — paste the exact abstract line on elastic energy storage in the shoulder and the ~2-mya *H. erectus* anatomy."
+**Suggested placement:** Epigraph facing **Chapter 6.ii**. The throw is the first concrete image of the human line breaking the predator–prey arms race from a safe distance.
+
+**B. Throwing breaks the arms race — prey defenses are calibrated against close-quarters attack.**
+The tactical point (essay synthesis, consistent with the fossil/archaeological record): most predator–prey arms races stay roughly matched because prey defenses (speed, horns, hooves, kicks) are evolved against close-range attack — teeth, claws, venom. A projectile arriving at high velocity from 20+ meters makes all of those defenses irrelevant; the prey has zero evolutionary calibration for it. This is why naive megafauna (mammoth, ground sloth, moa) go extinct rapidly on first human contact — they have no avoidance response to ranged predation.
+**Why it matters to this book:** This is the **structural rhyme** of the book's central move. The essay's "distance-killing makes the prey's whole defense irrelevant" is the terrestrial twin of "un-deceivability = un-entrainability" (`39_psion_biology.md`:30–31): a simple capability that turns the enemy's entire defense into dead weight. The locked receiver/bridge does the same to the Igigi's control system. Name it on-page if you want Book 5 and the deep-time vision to echo.
+**Honesty note:** the extinction-via-throwing claim is a real but **contested** archaeological reading (overkill vs climate). Present it as the cave's framing of the record, not settled history — matches your layer-3 discipline.
+
+**C. Cultural-speed transmission — throwing technique spreads faster than prey can adapt.**
+The key amplification: unlike physical predator adaptations (re-evolved slowly in every population), throwing *technique* is culturally transmitted — a better spear point, a better release timing — spreads across a group within a generation, at "cultural speed" rather than evolutionary speed (a thousands-to-one asymmetry).
+**Why it matters to this book:** This is the **real-world twin of your child-chain / transmission thesis** (`37_deep_time_source.md`:313 — "knowledge survives because fragments find new people before institutions intercept them"). The Seven, the Singer's song, Derw's flight across the broken line: all are "throw a skill across the gap faster than the controllers can close it." You can lift this framing into the transmission chapters silently, as grounding.
+
+**D. The weapon ladder — bow → crossbow → catapult → cannon → rifle → missile all extend the throw.**
+Every later ranged weapon is a development along one line of thinking that begins with a primate picking up a rock and throwing it: elastic-energy storage (bow), mechanical advantage (crossbow, catapult), chemical propulsion (cannon, rifle), and ballistic delivery (artillery, missile).
+**Why it matters to this book:** the concrete version of "Technology's hidden telos" (`00_MASTER_TIMELINE.md`:155) — explicitly: "Weaponry and surveillance are the apprenticeship captured by fear." Good anchor for an epigraph under that thread.
+**Suggested placement:** epigraph facing a preamble/technology beat, or an *On the record* note after a ranged-weapon moment.
+
+**Chronology honesty (keep this visible):** the essay dates throwing *anatomy* to ~2 mya (*H. erectus*) and weaponized *hunting with hafted points* to ~300 kya (scavenging→active-pursuit shift around then). Your Ch 6.ii "Spear Moment" is anchored at **400 kya** (`37_deep_time_source.md`:442–443). These are consistent if the scene is read as the **cognitive/cultural TURN** — the deliberate act of distance-killing — not the anatomy (which is older). **Decision:** keep 400 kya as the mythic beat; add an *On the record* note that the shoulder hardware is older (Roach 2013). Do not let the essay redefine the book's core "danger" — physical predator dominance is grounding texture only; the actual stakes are the awakening receiver and the consciousness lock.
+
+---
+
 ## Holding pen (unsorted)
 
 *Drop new papers, quotes, and excerpts here as you find them; we'll file and assign placement later. Anything goes — peer-reviewed papers, archaeology reports, ancient texts (Adapa tablet lines, Enūma Eliš, etc.), or a stray sentence that rhymes with the myth.*

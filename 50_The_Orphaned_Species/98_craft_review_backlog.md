@@ -79,7 +79,7 @@
 
 **Evidence.** `26_present_day_cast_expanded.md`; `99` Rowan pin; `33` Ch 26–27.
 
-- **Suggested direction.** A cast-consolidation pass (merge/cut candidates); lock the triad end-state; differentiate the two refusals (healer = *bodily* limits / son-of-a-man; Eli = *political* refusal of the founder role). **RESOLVED (2026-07):** Rowan is now off-page (romance is a dyad); Priya Nair folded into Mei Lin; Lani folded into an anonymous busker flash. Custodians stay at four. See `26`, `27`, `99`.
+- **Suggested direction.** A cast-consolidation pass (merge/cut candidates); lock the triad end-state; differentiate the two refusals (healer = *bodily* limits / son-of-a-man; Eli = *political* refusal of the founder role). **RESOLVED / REVISED (2026-07):** Rowan is off-page (romance is a dyad); Lani is folded into an anonymous busker flash; Custodians stay at four. **Priya and Mei remain separate:** Priya carries workplace/systems care, Mei carries food/community care. See `26`, `27`, `99`.
 
 **Related:** `99` Rowan pin, #4 (Custodian team), #8 (healer specifics).
 
@@ -101,7 +101,13 @@
 
 ## Done this pass
 
-- ☑ **Eli is not a healer.** All healing reassigned to Dr. Somchai across 16 docs; Eli's palm/nerve gift is now purely *diagnostic reading* (perceives a body, never repairs it). Governing doc `32_the_warm_hands.md`; also sharpens issue #5's Eli/healer overlap.
+- ☑ **Eli is not a healer.** All extraordinary bodily repair is assigned to **Somchai Vichai, a nurse and field medic who develops energetic healing**; Eli's palm/nerve gift is purely *diagnostic reading* (perceives a body, never repairs it). Governing doc `32_the_warm_hands.md`; also sharpens issue #5's Eli/healer overlap.
+- ☑ **True strength vs superficial display (LOCKED).** Governing theme: equanimity ≠ performative composure. Hub: `15` § *True strength vs superficial display*; craft rule `40` #7; `00` relatability rule.
+- ☑ **Eli meditation seed — Thailand (LOCKED).** Post-attack temple practice; Manual Override fruition under challenge. Hub: `15` § *Eli's meditation seed*; `26` Eli past/habit; `27` Vol I proof; `99` open (wat/city).
+- ☑ **Women / Hollywood "girl power" (LOCKED).** Negative templates + positive power registers. Hub: `15` § *Women characters*.
+- ☑ **Romance cost audit (LOCKED — drafting).** Per-chapter flags in `31`/`32`/`33`; five load-bearing beats + drift risks in `19` § *Romance cost audit*; anti-pattern in `27`.
+- ☑ **Female mystery, intrigue, attraction (LOCKED).** Wren register without femme-fatale: `19` § *Female mystery…* (through-line + § *M/I/A drafting audit*); `26` Wren guardrails; `15` Wren row. **Per-chapter M/I/A** wired in `31`/`32`/`33` § *M/I/A audit* (Vol I–III). Craft rule #7 in `40_concepts.md`; checklist `27` items 5–6; locked row `28`.
+- ☑ **Cultural moment & story-first resonance (2026-07).** Dated evidence, durable pressures, character engines, and guardrails against demographic or franchise-template writing: `44_cultural_moment_and_mass_appeal.md`; Vol I alignment in `31`; index `28`.
 
 ## One-line summary
 

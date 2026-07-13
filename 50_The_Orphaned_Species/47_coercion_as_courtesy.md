@@ -1,6 +1,6 @@
 # Coercion as Courtesy — the Crane offer, drawn from *The Godfather*
 
-*Craft note. How to run the "offer he can't refuse" dynamic through **Dean Crane** (`26_present_day_cast_expanded.md`) without lifting a line of Puzo/Coppola. Plugs into the locked **Crane throne offer** (Vol III Ch 27 midpoint, `33_volume_III_beatsheet.md`; scene bank #12, `18_adventure_engine_and_scene_bank.md`) and seeds it earlier. Pairs with `05_story_architecture.md` (four-corner grid: Crane = destructive control) and the Igigi "administration" register (`00_MASTER_TIMELINE.md`).*
+*Craft note. How to run the "offer he can't refuse" dynamic through **Dean Crane** (`26_present_day_cast_expanded.md`) without lifting a line of Puzo/Coppola. Its final payoff is the locked **Book III Ch 26 standardized-safety offer** (`33_volume_III_beatsheet.md`), after Eli's sponsored refugee causes a death. Pairs with `05_story_architecture.md` (four-corner grid: Crane = destructive control) and the Igigi "administration" register (`00_MASTER_TIMELINE.md`).*
 
 ---
 
@@ -42,9 +42,9 @@ That last line is the whole technique: the debt must not feel like a debt. Wren,
 
 ---
 
-## Payoff scene (Vol III Ch 27) — "The Offer"
+## Payoff register (Vol III Ch 26) — "The Standard"
 
-*The locked midpoint temptation. Crane offers Eli command of the amplifier / the registered order — safety, legitimacy, an end to the dying — in exchange for becoming its sanctioned face. The offer is **sincere**, **right about the danger**, and a cage. No voice is raised. Nobody is threatened. Draft prose, register-setting, not final:*
+*The locked civic temptation. After freedom has produced a real victim, Crane offers universal detection, mandatory training, interoperable records, central emergency command, and enforceable containment. The offer is **sincere**, **right about the danger**, would prevent some deaths, and becomes a cage when risk classification turns into permanent owned identity. No voice is raised. Nobody is threatened. The older amplifier-room draft below is tonal quarry only; translate its courtesy and true danger case into the public standard negotiation rather than preserving its plot mechanics:*
 
 > Crane had made tea. That was the thing Eli would remember afterward — not the offer, the tea, two cups on a crate in a room that had been a chapel, the amplifier humming its low wrong note through the floor.
 >
@@ -58,7 +58,7 @@ That last line is the whole technique: the debt must not feel like a debt. Wren,
 
 **Why it has to be sincere:** Adapa's parable is the model — *"the cruelty is that it's not a trick; the door stands open"* (`30_beatsheet_ch09_adapa.md`). Crane's offer must be genuinely right about the danger and genuinely protective, or Eli's refusal costs nothing. The horror is refusing a **good** man's **true** offer because its *shape* is the cage.
 
-**How Eli refuses (per locked climax):** not with a counter-threat and not by seizing the amplifier himself (that is only becoming the next Igigi). He declines the single voice **because** command coherence is the hijackable thing (`18` #12 reversal), and later proves the field is reachable the native way, through many differentiated people — making the throne worthless rather than winning it. *Transcend, not win.* And at the end he **refuses to destroy Crane** — accountability, not annihilation (`27` III; `26` guardrails).
+**How Eli answers (per locked Book III):** not by claiming freedom is harmless and not by refusing all coordination. The communities build a purpose-bound, visible, revocable, self-expiring emergency compact. Eli accepts command under it, refuses to extend it into forced synchronization, steps down when the condition ends, and submits to public review. Crane's diagnosis remains true; his claim that risk must become permanent owned identity is what fails.
 
 ---
 
@@ -68,7 +68,7 @@ That last line is the whole technique: the debt must not feel like a debt. Wren,
 - **Wren names it**, not Eli — gives the constructive-control corner a true read the freedom corner misses; sets up their Vol III tension.
 - **The file = the horse's head.** Reuse Crane's existing private ledger beat (`26`) as the un-stated threat, presented as grief.
 - **Intercut** the offer (or a registration ceremony) against a breach/raid — the baptism technique.
-- **Call the favor in** at Ch 27 so the seed pays off: "I never called it in. I'm calling it in now."
+- **Call the favor in** during the Ch 26 standard negotiation so the seed pays off, but do not let private debt replace the public policy argument.
 - **One winking echo, maximum.** If you want a nod for readers who love the film, a single line in Crane's register (e.g. the "gentlest thing I will ever ask" cadence) is homage; never reproduce Puzo's actual dialogue or stage the wedding-study or restaurant scenes beat-for-beat.
 
 ## Guardrails (do not break)
