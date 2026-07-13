@@ -137,7 +137,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 ### Ch 8 — Her People
 - **Setting:** The maritime corridor; boarding/ piracy / inspection.
-- **Wren-weighted:** her extraction network pulls against Eli's clue; romantic/recognition layer under pressure.
+- **POV:** Wren carries the Laleh-extraction opening; after a hard section break, Eli resumes as the chapter's trunk. Her extraction network pulls against Eli's clue; romantic/recognition layer under pressure.
 - **Custodian Shield shows conscience** when civilians are at risk; Wren sees her dark mirror.
 - **Dead zone (plot — seed):** detour around **barren ground** — goats won't cross, fishermen refuse a shortcut; Eli reads cold/flat. Name (*scour*, *dead zone*) comes later; effect is now.
 - **Archangels (plot — Michael):** **Sora Vithan** — St Michael medal or prayer under collar; shields civilian, touches collar like wedding band (`46` § G).
@@ -265,74 +265,40 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 ## Volume III — *The Living World* — Chapter map
 
-**Published title:** The Orphaned Species: The Living World  
-**Internal movement:** Choice  
-**Reader-experience function:** Book III — Species and coexistence  
-**Dramatic question:** Can Eli free his mother and oppose Crane without becoming the next owner of the system?  
-**Immediate objective:** locate the tethered ground before rival teams activate, destroy, nationalize, or free it.
+**Published title:** The Orphaned Species: The Living World
+**Internal movement:** Choice
+**Reader-experience function:** Book III — Species and coexistence
+**Dramatic question:** Can free communities protect people from dangerous capacity without turning capacity into an owned identity?
+**Immediate objective:** receive newly awakened refugees, build an accountable federation, and survive both public-safety failure and coordinated attack without a permanent center.
 
 > **Canonical chapter cards:** `33_volume_III_beatsheet.md`.
 
-### Ch 23 — The Divergent Lines
-- **Setting:** Albion / European grounds answering inconsistently.
-- **European ground work**: broken lines explain why some ancient grounds are silent and others answer from unexpected directions. **Dead zones** bracket live grounds — scars from **scour** and from ancient decommission. Route becomes a moving puzzle.
-- **Psion targeting (plot):** factions converge on **charged grounds**; teams **scour** choke points to deny rivals (see `38` § *Scour*).
-- **The new model surfaces through plot evidence, not lore lecture:**
-  - Dragons are not monsters — older beings, biological thermal control, infrasonic/ultrasonic resonance, living precedent for human capacities.
-  - The Anunnaki are the powerful drone-worker caste beneath the dragons.
-  - Humans were made/adapted as sub-drones through workforce multiplication.
-  - Anu + 26 are the elder spirit-plane council, influencing earth indirectly.
-- **Multiple factions claim ownership:** control, destruction, nationalization, profit, rescue, liberation — each speaks a different vocabulary but each demands the old offering (body, obedience, surplus, belief, sacrifice upward).
+### Ch 23–25 — Welcome and harm
 
-### Ch 24 — Aedan's Deep-Time Arc *(approximate)*
-- **Setting:** Albion / deeper ground.
-- **Eli clarifies Aedan's deep-time arc** — not as frame, but as one deep thread in the web. Aedan's village burning, the cave entry, the heat migration — resolved as shards, not lived ancestry and not a relay. The orphan-and-father thread lands here as lived recognition: the cave does not give him a father; it gives him contact with strangers who refused to need one.
-- **Forward clue:** the boy sits on the granary stone carrying fragments and the name Aedan; the growth outside has taken a new curve.
+- A boat of newly awakened refugees reaches Forest City; Eli's successful temporary coordination saves them and creates pressure for permanent leadership.
+- The shared garden returns: Arif's plants survive through grafts and unfamiliar refugee crops, provoking Eli's fear of replacement.
+- Eli sponsors one disputed refugee under voluntary safeguards.
+- That person commits a serious nonconsensual mind-entry; an ordinary person dies as a direct consequence. The victim is not restored, secretly culpable, or revealed as Crane's agent. Their survivor retains the right not to forgive Eli.
 
-### Ch 25 — The Roster in Stone *(approximate)*
-- **Setting:** Albion landscape with place-name fossils.
-- **The council roster lands as landscape rhyme:** Beth-Horon, Beth-Shemesh, Anathoth, Jericho — names that no longer know they are god-names. The divine council survives as geography; the Igigi administrators did not vanish, they sank into the map.
-- **Archangels (plot — double-read):** liturgy names **Michael**; map reads **Horon**, **Shemesh**, **Anat** — same council, three liturgies (`46` § G).
-- **Seraphim (plot — ON HOLD):** Isaiah 6 beside live ground — do not lock until `46` § H unlocked.
-- **Deuteronomy 32:8–9 / Psalm 82 register** surfaces as plot evidence — not as proof but as the story's thesis already written in scripture; the council judged by the elder apex; the controllers' fall remembered in Hebrew dress.
-- **Asherah is the casualty shown** through suppressed landscape and Anthea parallel: the mother-consort is first edited out when the pantheon collapses into one father.
+### Ch 26–28 — The systems offered
 
-### Ch 26 — The Healer's Refusal *(approximate)*
-- **Setting:** The mixed community / contested ground.
-- **The healer keeps bodies alive but refuses** conscription by factions, communities, and eventually Eli.
-- **He answers:** "No. I am the son of a man." Followers retell it as "Son of Man" — the exact myth-making process the trilogy is criticizing. The refusal becomes a title against the subject's will; deification pressure surfaces as concrete social danger, not abstraction. **Archangels rhyme:** crowd wanted a **messenger of God** — refused without naming Gabriel (`46` § G).
-- **Living Way lesson:** 2 hold lightly; 11 mercy with boundaries; 9 give without keeping score; 6 let the two be one.
+- Crane offers detection, mandatory training, interoperable records, central emergency command, and enforceable containment. It would prevent some deaths; its permanent identity ownership remains the cage.
+- Eli assumes shared love and purpose entitle him to Wren's threshold network. Wren refuses identities, routes, and command access, materially weakening his plan.
+- The communities build a bounded emergency compact: named purpose, visible decisions, distributed revocation, no requisition of Wren's network, conduct records without identity registry, automatic expiry, appeal, and mandatory review.
 
-### Ch 27 — Amplifier Temptation
-- **Setting:** Confluence of teams at the operational ground.
-- **Midpoint temptation:** controlling the amplifier appears to be the only way to save his mother and stop hostile teams. Every faction needs someone to own the system.
-- **Crane offers the throne** in the language of responsibility and civilian safety; he is right about danger, wrong that danger justifies ownership.
-- **The resistance temptation** — a liberation/prophecy faction wants him to burn the registries and unleash awakening; equally dangerous, differently dressed.
+### Ch 29–30 — The bounded crown
 
-### Ch 28 — Convergence
-- **Setting:** The ground/center.
-- **Several factions converge** with incompatible aims; an ordinary community is caught in the crossfire including the Forest City refugees.
-- **Wren makes an indispensable choice** based on her own objective; her ring-handler extraction network becomes the Volume III coexistence proof.
-- **Sora Vithan (Shield) defects** or makes her clearest choice — Michael medal, refused protector (`46` § G); loyalty, fear, obligation, and one good act collide.
-- **Prince of Persia (plot — reveal):** callsign **"Prince"** / **Persia hold** resolves to national **sar** — partition war, not a demon (`46` § G).
+- Eli accepts temporary coordinating authority during attack and uses his transmission only through consenting nodes.
+- He could forcibly synchronize all carriers and probably save more people. He refuses to extend the mandate.
+- The coalition survives incompletely; a named person or beloved threshold house is lost. The novel does not prove coercion would have failed.
+- The emergency ends and Eli's authority expires. Crane is contained through shared process rather than Eli's personal mercy.
 
-### Ch 29 — Climax — Release and Refusal
-- **Setting:** The ground/center under simultaneous tactical and social pressure.
-- **Eli reaches his mother** and learns that reunion prolongs her tether. The deepest loss becomes voluntary.
-- **He frees his mother**, refuses ownership of the amplifier, and refuses to destroy Crane without excusing or freeing him from accountability.
-- **The group holds collective coherence** without adopting permanent command hierarchy; multiple people make accountable choices.
-- **Dangerous conduct is constrained** without owning the being who carries the capacity.
+### Ch 31–32 — Judgment and ordinary life
 
-### Ch 30 — The Unremarkable Afternoon
-- **Setting:** A restored ordinary space — port, waterfront, clinic kitchen, sailboat deck.
-- **Aftermath, no prophecy:**
-  - The healer eats with other people; no one asks for a miracle.
-  - Eli works aboard a sailboat inside an ordinary crew, still taking instruction.
-  - Wren and Eli are affectionate without converting love into fate or possession.
-  - The Pai girl performs with her dragon staff without anyone treating her as an oracle.
-  - Someone cooks, repairs, teases, tires, makes a minor mistake, or changes the subject.
-- **Ending movement locked:** returns to the kind of ordinary life Forest City established — food, work, sailing, jokes, affection, repairs, fatigue, privacy, mutual dependence — now with wisdom and appreciation. Magic remains present but no longer owns the meaning of the scene.
-- **Final recognition:** it has always been like this because the same problem kept returning until someone solved it without kneeling, burning, caging, or seizing the throne.
+- Eli submits to public inquiry concerning the sponsored refugee, the fatal harm, his emergency decisions, and the people his restraint did not save. He accepts real restrictions on future authority.
+- The survivor may accept the process without forgiving him.
+- The coda returns to the shared grafted garden, sail work, Somchai eating without miracle demands, Wren's separate authority, and a minor psionic incident handled through ordinary procedure.
+- **Final recognition:** Eli is wanted there but not indispensable. Continuity can include him without belonging to him.
 
 ---
 
@@ -416,4 +382,4 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Deep-time delivery:** one living web, one dial of depth (full-res threads for the Seven; watched-depth deep structure for cosmology — no relay). See `36_the_living_web.md`.
 - **Volume I capped:** 14 chapters + prologue; climax locked at South Asia rice community; personal Manual Override as ending threshold.
 - **Volume II locked spine:** Adapa centerpiece, Aru/Daskar at Göbekli, Emrys taken, westward point-of-return.
-- **Volume III locked spine:** new-model reframe through plot, Aedan's deep-time arc clarified as deep web-structure, ownership temptation, release climax, unremarkable-afternoon coda.
+- **Volume III locked spine:** refugee landing, real failure of freedom, Crane's workable standard, Wren's refusal, bounded emergency authority, costly non-coercion, public inquiry, and shared-garden coda.

@@ -1,110 +1,159 @@
 # Volume III — *The Living World* — Beat Sheet
 
-*Chapter-by-chapter spine for Volume III (Choice). Companion to `05_story_architecture.md`, `29_trilogy_plot_and_development.md`, `SOURCE_TO_TRILOGY_MAP.md`, `32_volume_II_beatsheet.md`, `37_deep_time_source.md`, `38_psionic_combat.md` (scour + ground targeting), `22_life_technology_and_two_trees_spine.md` (Two-Tree union), `27_character_development_arcs.md`, `99_open_questions.md`.*
+> **GOVERNING REBUILD — LOCKED 2026-07-13.** Book III is the construction and defense of a distributed living network after Maren's release and the first spreading awakening at the end of Book II. Europe, the tether, the amplifier, and the mother-release do **not** repeat here. Book III tests whether free communities can survive harm, fear, attack, and disagreement without registry, cult, army-state, or permanent ruler.
 
-> **Locked inputs:** **European grounds** inconsistent; **dead zones** bracket live grounds (`37` § *Dead zones*) → **psion targeting / scour** on choke points (`38` §6b) → **new model** through plot evidence (dragons, the Anunnaki drone-caste, sub-drones, Anu+26) → **Aedan** watched-depth + **orphan-and-father** recognition → **council roster in landscape** + **archangel ladder payoff** (Michael / Gabriel / Persia prince — `46` § G) → **healer's refusal** / *Son of Man* mutation → **amplifier temptation** → **convergence** (Wren indispensable; **Sora** defect) → **release mother**, refuse amplifier ownership, **Two-Tree union act**, refuse to destroy Crane → **unremarkable afternoon** coda.
+> **WAR STATE:** WWIII's hottest phase has passed, but incompatible armistices coexist with blockades, proxy fighting, drone attacks, maritime seizures, and displacement. The awakening broke one monopoly; it did not disarm states, stabilize newly awakened people, or make domination impossible.
 
-> **Volume III dramatic question:** *Can Eli free his mother and oppose Crane without becoming the next owner of the system?*
-> **Internal movement:** choice. **Victory condition (LOCKED):** **coexistence survives** the crisis — ordinary and anomalous share a social world after emergency; war not gone overnight; **open ending**.
+*Chapter-by-chapter spine for Volume III (Choice). Companion to `05_story_architecture.md` § *Classic spine*, `27_character_development_arcs.md`, `41_climax_the_awakening.md` (Book II), `43_audience_and_character_recommendations.md`, and `44_cultural_moment_and_mass_appeal.md`.*
 
----
-
-## ACT I — The Divergent Lines
-
-### Ch 23 — The Divergent Lines *(ensemble · Albion / European grounds)*
-- **Want:** reach the tethered ground before rivals activate, destroy, nationalize, or free it.
-- **Obstacle:** **broken lines** — some ancient grounds silent, others answer from unexpected directions. **Dead zones** bracket live routes — **scour scars** and ancient decommission (`37`). **Psion targeting (plot):** factions converge on **charged grounds**; teams **scour** choke points to deny rivals (`38` § *Scour*).
-- **Choice → Cost:** Eli follows **living detours** (growth, fauna refusal, Wren's network) over Crane's charts. Cost: slower; ambush risk.
-- **Revelation (new model — evidence only, no lecture):** dragons as older beings (thermal/resonance precedent); the Anunnaki as powerful drone-worker caste; humans as workforce-multiplied sub-drones; **Anu + 26** as elder spirit-plane council — influence without embodied rule (`05` Vol III deep reveal).
-- **Forward clue:** operational **center** permits communication when geometry holds under attack.
-
-### Ch 24 — Aedan's Deep-Time Arc *(Eli · Albion / deeper ground)*
-- **Want:** understand what the cave gave him without claiming ancestry.
-- **Obstacle:** shards pull toward **identity proof** — Eli's receiver wants a father-line.
-- **Choice → Cost:** Eli clarifies **Aedan as one deep thread**, not relay or heir. Cost: no clean origin story.
-- **Revelation:** village burning → cave entry → heat migration → granary stone warms when he sings the chord — **orphan-and-father thread lands as recognition:** the cave does not give a father; it gives contact with strangers who refused to need one (`37` § *Patriarchy* present rhyme).
-- **Forward clue:** growth outside has taken a **new curve** — living map agrees with Cuno geometry.
+> **Volume III dramatic question:** *Can free communities protect people from dangerous capacity without turning capacity into an owned identity?*
+>
+> **Internal movement:** liberator → successful temporary coordinator → answerable ordinary member.
+>
+> **Victory condition:** coexistence survives a real failure of freedom, a coordinated attack, and an internal public reckoning. Eli uses bounded authority and then becomes subject to the community's judgment.
+>
+> **POV:** Eli remains the trunk. Wren owns the chapter in which she refuses Eli access to the threshold network. Other ensemble action is observed through one of those two minds; one scene holds one viewpoint.
 
 ---
 
-## ACT II — The Mother-Source
+## Locked load-bearing sequence
 
-### Ch 25 — The Roster in Stone *(ensemble · Albion landscape)*
-- **Want:** read the western web without worshipping it.
-- **Obstacle:** place-names as **fossilized council** — Beth-Horon, Beth-Shemesh, Anathoth, Jericho — geography that forgot it was god-names.
-- **Revelation:** Deuteronomy 32:8–9 / Psalm 82 register as **plot evidence** (thesis already in scripture dress); **Asherah casualty** through suppressed landscape + Anthea parallel — mother-consort edited out when pantheon collapses to one father. **Michael (plot — seed):** liturgy/map double-read optional (`46` § G). **Seraphim / orders:** ON HOLD (`46` § H) — do not commit Isaiah register to "sensation only" until unlocked.
-- **Forward clue:** **chair** at tethered ground — key, not source of Eli's ability.
+1. Newly awakened refugees arrive at Forest City; Eli saves the immediate situation through competent coordination.
+2. His success creates pressure to make his temporary authority permanent.
+3. A refugee admitted under Eli's sponsorship commits a serious nonconsensual mind-entry; an ordinary person dies as a direct consequence.
+4. Crane offers a standardized registry system that would prevent some such deaths. Admirable communities accept parts of it voluntarily.
+5. Eli assumes he can use Wren's threshold-house network for the common defense. She refuses; love grants no jurisdiction.
+6. The federation creates a bounded emergency compact rather than a permanent command.
+7. Eli accepts its temporary crown during attack, then refuses the extension that would forcibly synchronize nonconsenting carriers and probably save more people.
+8. The voluntary coalition survives incompletely. A named person or beloved threshold house is lost.
+9. Eli steps down and submits to an ordinary public inquiry. He accepts limits placed on his future authority.
+10. The shared garden proves continuity without ownership. Eli is wanted but not indispensable.
 
-### Ch 26 — The Healer's Refusal *(healer · mixed community)*
-- **Want:** keep bodies alive; refuse conscription by factions, crowds, and Eli.
-- **Obstacle:** pilgrims, media, liberation faction, Union registry — all want **ownership** of his capacity.
-- **Choice → Cost:** *"No. I am the son of a man."* Cost: listeners retitle him **Son of Man** — myth forming against the subject's will (`05` Act I Vol III).
-- **Revelation:** deification is **concrete social danger**; coexistence must include resisting deification. **Gabriel (plot — seed):** crowd wants a **messenger of God**; healer refuses messenger and son titles (`46` § G). *Whether Gabriel exists as an other-plane actor = ON HOLD (`46` § H).* Living Way: hold lightly; mercy with boundaries; give without keeping score (`25`).
-- **Crown = the BODY, distinct from Eli's Ch 27 crown = the polis (LOCKED, `05` "two refusals, two crowns"):** Somchai refuses worship of his *healing* (miracle / relic / Son-of-Man); his reason is the **limits of the body** — *son of a man*. **Eli is not a healer and never faces this crown.** This refusal, **held at a real cost** (someone suffers because he won't be their miracle; he refuses anyway), is the **proof at bodily scale** that Eli scales up to civilizational stakes next chapter. The two beats **build**, they don't echo.
-- **SEED for Ch 27 temptation — Eli's costly restraint:** in the same crowd-crush, Eli's principled refusal to *coerce* (he asks a jammed checkpoint guard instead of frightening him) **gets a woman killed** — a harder man would have saved her, undeniably. Plants the wound Sol reopens next chapter. Drafted "Scene 0" in `49_machiavelli_toolkit.md`; do **not** resolve it here.
-
-### Ch 27 — Amplifier Temptation *(Eli · operational ground confluence)*
-- **Want:** save his mother; stop hostile teams.
-- **Obstacle (MIDPOINT — the DOUBLE TEMPTATION, two faces of *become the founder*):** controlling the **amplifier** appears the only way, and Eli is cornered from both grid-corners at once (`49_machiavelli_toolkit.md` §G, drafted scenes):
-  - **Crane throne offer** *(destructive control — "be the voice they kneel to")* — responsibility language, civilian safety — right about danger, wrong that danger justifies ownership. Play it as *coercion-as-courtesy* (sincere, no voice raised, the private file of the dead as un-stated threat, the early un-thanked favor called in). Its **content** is the Moses admiration — every founding needs a manufactured god and one unquestioned voice — the cosmology said aloud as reverence (drafted "Scene 2"). Grammar in `47_coercion_as_courtesy.md`.
-  - **Sol Mendez temptation** *(destructive freedom — "enter the blood")* — the burned prophet, liberation face of the burn-the-registries faction, reopens the Ch 26 wound: goodness that lets people die to stay unstained is vanity; be the **armed prophet**; *who are you to be so precious about your one soul?* Right that Eli's restraint has a body count, wrong that the only alternative is the massacre. Drafted "Scene 1" in `49`.
-  - Both are the **same wall** (armed-or-destroyed, Ch. 6) from opposite sides; the climax is the third door Eli can feel but not yet name.
-  - **Crown = the POLIS, distinct from Somchai's Ch 26 crown = the body (LOCKED, `05`):** Eli's temptation is the **ruler/founder** role (chosen one, armed prophet, the one voice, the amplifier throne), refused because **ownership rebuilds the cage** — never worship of a *healing* (he is not a healer). This is Somchai's bodily refusal **scaled up** to civilizational stakes; the healer's proven refusal (Ch 26) is under Eli's feet here.
-  - **Gabriel rhyme (healer's crown, not Eli's):** the messenger/voice-from-above crown belongs to Somchai (Ch 26). Eli's parallel is the amplifier-as-throne — the **king**, not the messenger (`46` § G).
-- **Choice → Cost:** Eli **does not** seize the amplifier yet; holds the charge. Cost: factions escalate.
-- **Revelation:** grid runs on **tethered souls**; mother's **hope of reunion = chain** (`05` Act II Vol III).
+The precise refugee, victim, survivor, named battlefield death, and lost threshold house remain casting decisions. Their dramatic functions are locked.
 
 ---
 
-## ACT III — Release
+## ACT I — Welcome and harm
 
-### Ch 28 — Convergence *(ensemble · center under crossfire)*
-- **Want:** protect the ordinary community caught in the geometry (includes **Forest City refugees**).
-- **Obstacle:** factions converge — control, destroy, nationalize, profit, rescue, liberation — each demands the old offering (body, obedience, surplus, belief, sacrifice upward).
-- **Choice → Cost:** **Wren indispensable choice** — network + accountable limits (`99` #3 payoff). **Shield defects** or clearest loyalty break. Group holds **collective coherence without permanent command hierarchy**.
-- **Revelation:** **dangerous conduct can be constrained** without owning the being who carries the capacity (foreshadow climax). **Prince of Persia (plot — reveal):** rival callsign **"Prince"** / **Persia hold** resolves — national **sar**, partition war; the human operator was wearing a title, not fighting a demon (`46` § G).
+### Ch 23 — The Boat at Morning *(Eli · Forest City harbor)*
 
-### Ch 29 — Climax — Release and Refusal *(Eli · tethered ground)*
-- **Want:** reunion.
-- **Obstacle:** reunion **prolongs tether** — deepest loss becomes voluntary.
-- **Choice (CLIMAX) → Cost:**
-  1. **Release mother** — reunion is goodbye; she ascends. **Mechanism:** her release is the demonstration the other trapped souls needed — her clarity propagates through the web → **cascade** → the amplifier's fuel/switchboard walks out (`41_climax_the_awakening.md`).
-  2. **Refuse amplifier ownership** — at the crux, seizing it to *force* the awakening in one pulse is the better tactical move and is offered (Crane throne / Sol armed-prophet, `47`/`49`); refusing = transcend-not-win, at real risk of losing.
-  3. **Two-Tree union act** — life tech (the living web lit, the native road) + death tech (the crossing/release) together once; each enables the other; **spreading fire**, not seizing grid (`22`, `41`).
-  4. **Refuse to destroy Crane** — accountability without annihilation or excusal; left powerless + unplugged.
-- **The mechanism (full design → `41_climax_the_awakening.md`):** the awakening merges signatures into the **one living web** → the bad psions' whole toolkit (lock/block/lance/scour) needs a discrete node and **goes dark at once** — unplugged, not killed; coerced Custodians cross over (liberated). **Node → web** is the load-bearing idea; **cost/limit/fragility** (sparse lattice, not permanent, can't be commanded, re-corruptible) is what keeps it from being a switch-flip.
-- **Three interlocking strands (Ch 28→29):** **A** Eli/tethered ground (release + seed transmission); **B** distributed choir (Wren's network + Forest City + awakened carriers hold collective coherence, integrate with the earth's grid, no command hierarchy); **C** confrontation (bad psions attack → toolkit collapses at cascade). They fire *together* in the Two-Tree beat, not in sequence.
-- **Revelation:** Eli could have controlled the amplifier; **refusal is meaningful**. Coexistence proof begins here.
+- **Want:** bring a pursued boat of newly awakened refugees safely inside the harbor before exposure, interception, weather, and medical collapse converge.
+- **Obstacle:** Forest City divides among closure, unconditional admission, and accountable intake that could become a registry. Priya demands bodily and workplace safeguards; Mei feeds and stabilizes people before classification; founders see a model to scale and brand.
+- **Choice → Cost:** Eli takes temporary operational control, delegates effectively, and gets everyone ashore. His decisions work.
+- **Political consequence:** residents and connected communities begin treating his successful emergency authority as the natural center of the growing network.
+- **Garden return:** Arif's plot is thriving under shared care. Mina and Lopa began the recovery; Mei supplies compost; Priya protected it through a maintenance rota; refugee families add unfamiliar crops. Eli's failed tomatoes grow through grafting rather than his father's method. Gratitude arrives with the fear of having been replaced.
+- **Forward pressure:** one frightened refugee cannot reliably keep other minds out and asks Eli not to surrender them to a state program.
 
-### Ch 30 — The Unremarkable Afternoon *(ensemble · port / waterfront / sail)*
-- **Want:** none — **aftermath**.
-- **Scene (LOCKED coda):** healer eats; no miracles requested. Eli on **sailboat crew**, still taking instruction. Wren/Eli affectionate without fate-language. Pai performs dragon staff — not oracle. Cook, repair, tease, tire, minor mistake, change subject.
-- **Final recognition:** ordinary life Forest City established — food, work, sailing, jokes, affection, repairs, fatigue — now with wisdom. Magic present; **does not own the scene**.
+### Ch 24 — Terms of Welcome *(Eli · Forest City)*
 
----
+- **Want:** create an intake practice that protects privacy while making dangerous conduct answerable.
+- **Obstacle:** nobody agrees on the difference between a safety assessment and identity registration. Refugees reasonably distrust documentation; residents reasonably fear capacities they cannot detect.
+- **Choice → Cost:** Eli personally sponsors one disputed refugee under a voluntary plan of training, witnesses, rest, consent boundaries, and review. The community admits them without permanent classification.
+- **Character proof:** Eli includes someone before they become useful. He stakes his credibility without promising they are harmless.
+- **Crane pressure:** Crane's people provide accurate risk information and medical assistance without demanding immediate surrender. Their usefulness cannot be dismissed.
+- **Relationship:** Wren warns that personal trust is not an institution. Eli hears the warning as excessive control.
 
-## Volume III — locked payoffs table
+### Ch 25 — The Person Freedom Failed *(Eli · ordinary civic space)*
 
-| Plant (Vol I–II) | Payoff (Vol III) |
-|---|---|
-| Dead zone detour (Vol I Ch 8) | Ch 23 route puzzle + scour warfare |
-| Rice community knowledge (Vol I) | Ch 28 coexistence proof — harbors beat fortresses |
-| Ila diagnostic depth vs Eli bandwidth | Ch 26 healer refusal rhymes |
-| Broken-line church (Vol II Ch 20) | Ch 23–28 — miswired polarity as civilizational pattern |
-| Nephilot / Alba / elf (Vol II) | Ch 24–25 — carrier line as people, not monster |
-| Maren tether (Vol II Ch 17) | Ch 27–29 release |
-| Wren network cost (Vol I–II) | Ch 28 indispensable choice |
-| Archangel ladder (Michael / Gabriel / Persia prince) | I allude → II reference → III Ch 25–28 recontextualize (`46` § G) |
-| Seraphim / angelic orders | ON HOLD (`46` § H) — do not lock prose beat until unlocked |
-| Sora Michael medal (Vol I Ch 8) | Ch 28 Shield defect — refused protector rhymes Crane |
-| Manual Override personal (Vol I) → relational (Vol II) | Ch 29 collective under amplifier pressure |
+- **Want:** preserve ordinary life while the admitted refugees begin work, training, school, treatment, and neighborhood contact.
+- **Obstacle:** the sponsored refugee commits a serious nonconsensual mind-entry—whether through panic, negligence, grievance, or intent remains a casting choice. An ordinary person dies as a direct consequence.
+- **Locked restraint:** the victim is not secretly culpable, restored later, revealed as Crane's agent, or converted into evidence that the registry caused everything.
+- **Choice → Cost:** Eli helps stop the immediate danger and then refuses to flee the survivor's accusation. His sponsorship did not cause the act, but his judgment helped create the conditions under which it occurred.
+- **Aftermath:** grief fractures Forest City. Some refugees are attacked or expelled collectively; others demand that all safeguards be abolished as disguised oppression.
+- **Emotional consequence:** the survivor does not forgive Eli. The narrative never requires them to.
 
 ---
 
-## Still open (`99_open_questions.md`)
+## ACT II — The systems offered
 
-- **#11** Dragon plot role beyond thermal/resonance precedent.
-- **#12** Native-road mechanism — amplifier worthless in action.
-- **#13** Crane accountability shape post-climax.
-- **#14** Final community geography + post-battle dispute test.
-- First **named on-page dead zone** (may land Ch 23 if not Vol II Ch 20).
+### Ch 26 — The Standard *(Eli · public forum / intercommunity negotiation)*
+
+- **Want:** prevent collective punishment while answering the fact that voluntary safeguards failed.
+- **Obstacle:** Crane offers a coherent package: universal detection, mandatory training, interoperable records, central emergency command, and enforceable containment for dangerous conduct.
+- **Why it works:** the system would prevent some deaths, coordinate scarce specialists, identify repeat harm across jurisdictions, and give frightened ordinary people a visible remedy.
+- **Why it owns:** temporary risk categories become permanent identities; data crosses purposes; refusal itself becomes suspicion; no meaningful exit exists once a person is classified.
+- **Choice → Cost:** several admirable communities accept portions of the standard freely. Eli cannot dismiss them as cowards or collaborators.
+- **Crane:** civil, useful, and sincere. He does not need to have engineered the death; reality has made his argument for him.
+
+### Ch 27 — What Is Hers *(Wren · threshold-house network)*
+
+- **Want:** protect the people whose routes and identities depend on her promise that the threshold network will never become anyone's army.
+- **Obstacle:** Eli needs those routes, safe houses, and communication nodes to defend the federation. He assumes shared love, danger, and purpose entitle him to access.
+- **Choice → Cost:** Wren refuses him. She withholds identities and command access even though the refusal weakens the common defense and may expose a smaller route elsewhere.
+- **Locked meaning:** love gives Eli no jurisdiction over what Wren built or the people who trusted her. The narrative honors her boundary without pretending it is costless.
+- **Relationship consequence:** the dyad is damaged but not theatrically broken. Eli must recognize that he tried to convert partnership into infrastructure.
+- **Independent action:** Wren offers a narrower, consent-bound form of cooperation negotiated by the network's members rather than granted by her alone.
+
+### Ch 28 — The Compact *(Eli · federation assembly)*
+
+- **Want:** build enough common defense to survive without accepting Crane's permanent center or Sol's militarized liberation bloc.
+- **Obstacle:** Crane's standard promises safety through continuity; Sol's heirs promise freedom through force and loyalty. Both expose the weakness of a loose coalition.
+- **Choice → Cost:** the communities adopt a bounded emergency compact:
+  - authority exists for a named purpose and measurable condition;
+  - decisions and uses of psionic capacity are recorded;
+  - several independent communities can revoke command;
+  - Wren's network cannot be requisitioned without its members' consent;
+  - identity registration is forbidden, while harmful conduct remains documentable and reviewable;
+  - emergency authority expires automatically;
+  - remedies, appeal, and post-crisis inquiry are mandatory.
+- **Eli's change:** he agrees to coordinate only under these constraints. Authority is something he can receive temporarily, not proof of who he is.
+- **Forward pressure:** a coordinated attack begins before trust in the compact is complete.
+
+---
+
+## ACT III — The bounded crown
+
+### Ch 29 — A Crown With an End *(Eli · distributed attack)*
+
+- **Want:** keep the communities connected long enough to protect civilians and prevent forced registration or militarized capture.
+- **Obstacle:** attackers exploit the coalition's consent delays, incompatible procedures, exposed routes, and grief after the Chapter 25 death. Crane's standardized infrastructure performs better in several places.
+- **Choice → Cost:** Eli accepts the compact's temporary coordinating authority. He issues real orders, accepts responsibility, and uses his transmission capacity only through opted-in nodes.
+- **Wren:** her network participates on its negotiated terms, not because she yields it to Eli. Her independent authority remains visible.
+- **Temptation:** Eli discovers he can override dissent, enter every available carrier, and force synchronization. It would probably save more people and preserve a threatened threshold house.
+- **Turn:** the voluntary network begins to fail. Eli cannot escape the knowledge that coercion would work.
+
+### Ch 30 — The Cost of Consent *(Eli · climax)*
+
+- **Want:** save everyone without rebuilding the amplifier's logic inside living people.
+- **Choice:** Eli refuses to extend his temporary mandate into forced synchronization. He coordinates those who consent, leaves dissenting nodes unseized, and accepts a weaker defense.
+- **Irreversible cost:** the coalition survives, but not cleanly. A named person dies or a beloved threshold house is destroyed because the voluntary response is slower and less complete. The exact casualty remains to be cast; the loss must have appeared as ordinary life before becoming cost.
+- **No vindication:** the novel does not prove that coercion would secretly have failed. Crane may be correct that it would have saved these lives.
+- **Victory:** enough independent communities remain connected to repel capture, evacuate civilians, and continue cooperation after immediate necessity passes. No permanent commander, registry, cult, or army-state emerges.
+- **Crane:** contained through the coalition's procedures and evidence, not personally pardoned or sentenced by Eli. His diagnosis survives even as his claim to permanent ownership fails.
+- **Eli:** the emergency condition ends; his authority expires. He does not renew it through acclaim, necessity rhetoric, or romantic approval.
+
+### Ch 31 — The Hearing *(Eli · ordinary civic room)*
+
+- **Want:** neither acquittal nor self-punishment; remain present while other people judge what his decisions cost them.
+- **Obstacle:** supporters want a ceremonial vindication, enemies want a symbolic sacrifice, and Eli's usefulness tempts everyone to exempt him from ordinary consequence.
+- **Inquiry scope:** the refugee he sponsored; whether safeguards were adequate; the death in Chapter 25; uses of emergency authority; the people and place lost in Chapter 30; reparations, future safeguards, and Eli's eligibility to command again.
+- **Choice → Cost:** Eli testifies without controlling the conclusion and accepts restrictions on his future authority. The exact sanction may be decided in drafting, but it must be real.
+- **Survivor:** the bereaved person may acknowledge the process while still refusing Eli forgiveness.
+- **Civic proof:** an anomalous person accepts accountability without surrendering ownership of their nature; ordinary people constrain power without declaring a class of persons state property.
+- **Relationship:** Wren and Eli choose continued relationship after jurisdiction has been separated from love. No destiny language and no instant repair.
+
+### Ch 32 — The Shared Garden *(Eli · Forest City / harbor)*
+
+- **Time:** enough has passed that cooperation is no longer forced by battle.
+- **Locked image:** Arif's plants survive among grafts and unfamiliar crops added by refugees. The garden is recognizable but no longer exclusively his father's or Eli's. Eli works in it without correcting it back into inheritance.
+- **Ordinary world:** Somchai eats as a tired, fallible man; no one asks for a miracle. A minor psionic incident is handled through an ordinary consent and review procedure. Someone cooks, repairs, teases, tires, or changes the subject.
+- **Eli:** serves within a sailboat crew and still takes instruction. He is useful but replaceable.
+- **Wren:** affectionate without merger; she retains work, routes, loyalties, and authority that do not belong to him.
+- **Unforgiven:** the survivor from Chapter 25 can share the social world without forgiving Eli. Coexistence does not require emotional unanimity.
+- **Final recognition:** Eli is wanted there, but he is not indispensable. Continuity can include him without belonging to him.
+
+Do not close on a prophecy, throne, cosmic voice, explanatory speech, new amplifier, or promise of the next war. The extraordinary has not vanished; it has become compatible with an afternoon nobody turns into destiny.
+
+---
+
+## Locked guardrails
+
+- The Chapter 25 harm is real and cannot be blamed entirely on Crane.
+- Crane's standard prevents some harm; rejecting it carries a visible price.
+- Wren's refusal materially weakens Eli's plan and remains legitimate.
+- Eli does not solve the climax through permanent refusal; he accepts bounded authority first.
+- Forced synchronization really would probably save more people.
+- The voluntary choice costs a named life or beloved place already established on page.
+- The hearing can restrict Eli; acclaim cannot place him above review.
+- The coda includes unresolved anger, procedure, work, and repair—not universal reconciliation.
+- Eli ends as an answerable participant, not a hidden ruler, saint, martyr, or indispensable founder.

@@ -1,12 +1,16 @@
 # Volume I — *The Breach* — Beat Sheet
 
+> **SUPERSEDED AS A FULL SPINE — 2026-07-12.** The Forest City and Melaka material remains live. The former Mekong/South Asia climax allocation moves to **Book III**. Book I now continues west through the maritime/Gulf corridor and climaxes at **Göbekli Tepe**, where Eli chooses people over the complete interface record and Emrys is taken. Rebuild this beat sheet before drafting past the Melaka sequence; all later chapters below are scene quarry, not current order.
+
 *The chapter-by-chapter spine for Volume I (Shattering), built on the locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `29_trilogy_plot_and_development.md` (full trilogy plot hub), `21_present_day_street_skin.md` (near-future tone / port-noir skin), `23_2040_present_frame.md` (~2040 texture), `26_present_day_cast_expanded.md` (cast flesh), `27_character_development_arcs.md` (Vol I development + proof scenes), `28_present_day_trilogy_craft_index.md` (craft hub), `99_open_questions.md` (the locked beats #1–#6), `38_psionic_combat.md` (the war), `39_psion_biology.md` (the floor), `36_the_living_web.md` (the web/clarification mechanism), `16_reader_attachment.md` (the human-gravity test).*
 
 > **Locked inputs this sheet chains together:** Eli works **facilities at the Network School compound** and keeps his **dead father's garden, badly**, at Forest City (#1) → a **witness** clue reaches him via the compound/port network, half-bait (#1) → Melaka, where **Wren** is running an extraction that light-crosses the witness (#3) → the breach: a losing Kali fight ending in **asphyxia**, the psi plane opens, **receiver ON / overload + hunted** — not identity crisis, not seven lives downloaded (#2; `36` §3a) → the **Custodians** run him down and pursue (#4) → first **witness site** (Ila), first frightened healing, and the South Asia climax (#6, locked below).
 
 > **Volume I dramatic question:** *Can Eli stay clear-headed enough under pursuit to decide whom to trust?*
 > **Internal movement:** overload → first witness site. **Ending change:** Eli has met a practitioner **as other**, achieves **personal Manual Override** (feel a charge, recognize autopilot, don't let conditioning complete the act), and voluntarily follows the next clue with no known destination.
-> **Reveal discipline:** effects before terminology; human stakes before cosmic claims; no two cosmological answers in one chapter. **Life-tech spine:** each act owes at least one Life beat and one Knowledge beat toward eventual Two Trees reunification — `22_life_technology_and_two_trees_spine.md`. **Character development:** each chapter should advance at least one fellowship arc or Eli perceptual stage — proof scenes and Vol I checklist in `27_character_development_arcs.md`. **Past-vs-mask leaks:** one habit/object beat per major character, no exposition — `26` Part V.
+> **Reveal discipline:** effects before terminology; human stakes before cosmic claims; no two cosmological answers in one chapter. **Life-tech spine:** each act owes at least one Life beat and one Knowledge beat toward eventual Two Trees reunification — `22_life_technology_and_two_trees_spine.md`. **Character development:** each chapter should advance at least one fellowship arc or Eli perceptual stage — proof scenes and Vol I checklist in `27_character_development_arcs.md`. **Past-vs-mask leaks:** one habit/object beat per major character, no exposition — `26` Part V. **Romance cost:** trust must move **up or down** on the page — § *Romance cost audit* below. **M/I/A (Wren):** **M**ystery · **I**ntrigue · **A**ttraction per Eli/Wren chapter — § *M/I/A audit* below; hub `19` § *Female mystery, intrigue, and attraction*. **Story-first resonance:** make Forest City desirable, keep the Vol I dramatic question clear, and escalate pursuit causally. Countdown and recurring-object devices remain optional — `44`.
+
+> **POV — LOCKED:** Eli governs every Book I scene except the Wren-only Laleh-extraction opening in Chapter 8. Chapter 8 returns to Eli only after a hard section break. “Ensemble” describes who acts, never a shared or roaming viewpoint; one scene holds one mind. Do not add a Wren insert to Chapter 3 or enter her interior while Eli governs Chapters 5 or 7. Full rule: `14` § *POV architecture — LOCKED*.
 
 ---
 
@@ -24,6 +28,7 @@
 - **Choice → Cost:** none yet — establish what he stands to lose.
 - **Revelation:** Forest City is real, accountable refuge, not dystopia. **Forward clue:** the compound/port network catches a planted song: a live band is paid to play Eli's mother's tune on the terrace and direct anyone who truly recognizes it toward one Melaka contact. The lure does not know the child's face or name; it uses family memory as the filter.
 - **Past leak:** Eli — Bangla to tomatoes + tune fragment in garden (`26` Part V). Mei — sauce taste check mid-rush. Optional: Priya program poster *visibility saves lives* on a health wall. **Babaji tea:** Arif's boy; work not wallet. **Archangels (plot — allude, optional):** a lyric or prayer hits *angel* — sternum heat, hair up; Eli grades it, explains nothing (`46` § G; `SOURCE_the_surges`).
+- **Appeal (HP scaffold):** Ch 1 must establish **§1 ritual** — garden + terrace + splice calm vs Friday demo overload (`44` §1). Reader loves ordinary before song lure pays.
 
 ### Ch 2 — Something of Hers *(Eli · Forest City)*
 - **Want:** survive the morning; keep the compound safe.
@@ -33,29 +38,39 @@
 - **Choice → Cost:** no voluntary departure — he **runs** because stopping exposes Mei. Cost: the compound crew, the garden, the recognizers, the mall routines, the sail training, and the only safe life that has ever held him — **burned in one morning**, not surrendered in a packed-bag beat.
 - **Revelation:** the surge is his compass and his flaw — the song **rang**, and someone saw. **Forward clue:** Melaka chandlery address in Mei's thrown bag; Suresh's dock confession on the strait.
 - **Past leak:** Suresh — wrong-note hum at stern, stops (`26` Part V). Farida — text with photo of Arif's garden still growing in Dhaka.
+- **Appeal (2026 timeliness):** optional **validation feed / companion ping** on Eli's phone — warmth without mutual obligation; he distrusts it (AI-intimacy rhyme, `44` § Timeliness A). Chase = **GoT dagger** — safe life burned in one morning.
 
-### Ch 3 — The Reopening *(Eli; one Wren beat · Melaka)*
+### Ch 3 — The Reopening *(Eli · Melaka)*
 - **Want:** make the witness contact.
 - **Attachment:** Melaka alive and improvised — working people, not heritage scenery; small kindnesses to a stranger far from home.
-- **Obstacle:** documents and jurisdictions disagree; the handoff keeps slipping; **the Custodians** are in the city under biosecurity cover, watching for activation rather than ordinary fever/heat, and **Wren** is here for her own extraction — whose route/safehouse/timing fouls the witness handoff (the light-cross). The lure tightens around him without his seeing it.
-- **Choice → Cost:** he commits to the handoff despite the wrongness he can feel. Cost: exposure.
-- **Revelation (to reader, not Eli):** the lead is bait; the Ring set it, the Custodians wait. **Forward clue:** the handoff is set for a place he has to reach fast.
+- **Obstacle:** documents and jurisdictions disagree; the handoff keeps slipping; **the Custodians** are in the city under biosecurity cover, watching for activation rather than ordinary fever/heat, and **Wren** is extracting **Nura Salleh**, a threshold-house cook and latent carrier, with her son **Ilyas**. Their family route, safehouse, and timing foul Hassan's witness handoff (the light-cross). The lure tightens around Eli without his seeing it.
+- **Choice → Cost:** he commits to the handoff despite the wrongness he can feel. Cost: exposure; Hassan is placed at greater risk by attempting the transfer.
+- **Revelation (dramatic irony through observable conduct, not a POV switch):** the reader can infer before Eli does that the lead is bait and the Custodians are waiting. Hassan has **Maren's silver-and-brass wedding ring**, worn on a cord and passed to him in captivity; its imperfect seam and **“same soil”** inscription can authenticate it, but Eli still has to reach him. **Forward clue:** the handoff is set for a place he has to reach fast. Eli glimpses the ring before the operation collapses.
 - **Past leak:** Hassan — aligns papers like a clerk, then hands shake. Jin — accent mirror slips to younger voice on backfire. Optional Wren — convenience-bun habit if she appears before Ch 5.
+- **Romance cost (SHARPEN):** Wren treats Eli as **liability to her extraction**, not interest — if they exchange a look, she shuts it down. Eli may misread her competence as **belonging offered**; it isn't. No access to her interior and no chemistry beat yet — only **collision of operations**.
+- **M/I/A:** **M** — unreadable operator; shuts down look. **I** — observable misalignment lets the reader infer that the light-cross fouls another operation before Eli can name it. **A** — none yet (misread only).
+- **Appeal (GoT countdown):** state pursuit clock on-page — registry sweep / port lockdown / rival ETA (**72h** or equivalent, `44` §4). Vol I mystery box opens: *who planted the song?*
 
 ### Ch 4 — The Breach *(Eli · Melaka)*
 - **Want:** survive / reach the handoff.
 - **Obstacle:** the Custodians run him down — scooter flight → a **losing** close-quarters Kali fight (perception, not prowess; he reads the lines and it is not enough) → driven off a quay / choked and held under: **near-death by asphyxia.** The hypoxia rings the old TBI.
 - **Choice → Cost:** at the threshold he stops fighting the water/the dark — and crosses. Cost: near death; the witness/handoff lost in the chaos.
-- **Revelation:** at the edge of death **the psi plane opens to him for the first time** (first sight of the forms) — **sensory overload**; body crash. Catastrophe, not power: he is **hunted** from this moment (grid flare). **Forward clue:** an ordinary bystander hauls him out.
+- **Revelation:** at the edge of death **the psi plane opens to him for the first time** (first sight of the forms) — **sensory overload**; body crash. Catastrophe, not power: he is **hunted** from this moment (grid flare). **Forward action:** **Salmah**, a local fish seller and small-boat owner, uses current knowledge, a boat hook, and a mooring line to haul him out and performs rough resuscitation.
+- **Hassan / ring cost:** while Eli is driven toward the water, Hassan is recaptured with the ring still in the captors' control. Eli cannot reach him without abandoning the immediate fight and endangering the bystander. Hassan's loss survives as a human obligation into Volume II, not merely a missing object.
+- **Salmah cost:** helping Eli places her on the quarantine record; the Custodians suspend her market access and seize her boat as contaminated evidence. Eli survives by transferring danger into an ordinary worker's life.
 - **Past leak:** Edda — breath count like spreadsheet rows. Tommy — athletic footwork reset before violence. Eli — *short steps, don't gift your hip* (Manong Rico, one line).
+- **Romance cost (INSERT):** at the threshold — **field-recognition without consent** (magnitude, not meaning): a flash of *known stranger* in the choke/dark. Neither can act on it. Plants "is this fed?" for Ch 7 — **not** soulmate confirmation.
+- **M/I/A:** **M** — *known stranger* flash (no actor). **I** — —. **A** — —
 
-### Ch 5 — What Didn't Die *(Eli/Wren · Melaka outskirts)*
+### Ch 5 — What Didn't Die *(Eli · Melaka outskirts)*
 - **Want:** not dissolve; get out alive.
-- **Attachment:** Wren — survival-competence over a frightened, fraying 19-year-old; the stairwell-style first contact, recognition refused on both sides.
-- **Obstacle:** post-breach **overload** (sick, sleepless, slow — `39`); the Custodians regrouping; **Wren folds him in against her own interest** ("I came to see what died") because he's the worst possible complication — and it costs her extraction.
-- **Choice → Cost:** Wren takes him; Eli accepts help he can't repay. Cost: Wren burns part of her own operation/network to move him.
+- **Attachment:** Wren — survival-competence over a frightened, fraying **twenty-two-year-old**; the stairwell-style first contact, recognition refused on both sides. Wren is nineteen and operationally more experienced, so the power imbalance comes from handler knowledge and Eli's injured dependence rather than greater age.
+- **Obstacle:** post-breach **overload** (sick, sleepless, slow — `39`); the Custodians regrouping; **Wren folds him in against her own interest** ("I came to see what died") because he's the worst possible complication. His flare has contaminated Nura and Ilyas's clean family route.
+- **Choice → Cost:** Wren takes Eli and revises the extraction without full consent. Nura and Ilyas must travel separately. Both survive and later reunite, but Nura's trust in Wren is permanently damaged. Eli accepts help whose cost was paid by strangers.
 - **Revelation:** the ordered **three-circles vision** surfaces from the chaos — *what is real radiates outward; what is false leaks* — his first test for revelation vs. breakdown. **Emrys** converges on the flare: instruments log a **carrier breach** matching Maren's suppressed research — the living event he could only predict. **Forward clue:** the next testable fragment points out of the city. **Act turn:** he can't return to Forest City without exposing it; he chooses to follow the fragment.
 - **Past leak:** Wren — stairwell bun, both hands, no napkin. Optional: Eli flinches at head touch — antiseptic body memory (Somchai, unnamed).
+- **Romance cost (SHARPEN):** Eli accepts help he **cannot repay** and immediately fears **debt = ownership** (fugitive math). Wren does **not** explain why she folded him in — recognition **refused on both sides**. One line of dry humor max; **no** gratitude kiss, no "I knew you." She names the operational cost to **her** network aloud so the reader feels the bill.
+- **M/I/A:** **M** — won't explain fold-in; stairwell bun leak. **I** — burns extraction for flare-boy. **A** — survival proximity; competence noticed, not trusted.
 
 ---
 
@@ -68,23 +83,30 @@
 - **Choice → Cost:** he submits to Emrys's discipline (breath, the inner ring) rather than pushing through alone. Cost: it's a daily, reversible grind, not a cure.
 - **Revelation:** the registers are *different things* — and instruments can measure a signature without explaining it. **Forward clue:** Emrys's correlation points to a paired-anomaly record (a polarity reading) reachable in a surveilled archive.
 - **Past leak:** Emrys — clinic-tier bandage, apologizes to bandage roll, won't hold shoulder.
+- **Romance cost (INSERT):** Wren and Emrys **disagree on Eli's body** — map/instruments vs. route/sleep/food. Eli caught between **two kinds of care**; prefers neither's full claim. Her visible reaction and orders make her father-shaped suspicion of Emrys legible without entering her interior; control flares (orders rest Eli can't take). Trust **down** before it comes back.
+- **M/I/A:** **M** — control masks want. **I** — two carers compete (not rivals). **A** — —
 
-### Ch 7 — The Archive *(Eli/Wren · Singapore or equivalent high-surveillance port)*
+### Ch 7 — The Archive *(Eli · Singapore or equivalent high-surveillance port)*
 - **Want:** retrieve the paired-anomaly data.
 - **Obstacle:** a state unit and the Custodians converge on the same archive; physical surveillance closes exits; a Custodian psionic probe scrambles recognition and trust (the soft suite). The **Three-Circles Tablet** surfaces here as the first physical artifact — first mistaken for map/hierarchy.
 - **Choice → Cost:** they take the data and run. Cost: they're now signature-known to the Custodians; a near-miss exposes Eli further.
 - **Revelation:** **lines break and leave opposed ends** (polarity, not good/evil) — old maps become suspect. **Forward clue:** a coordinate that no longer matches the living coast.
 - **Past leak:** Archive metadata — **Crane** linked to pre-war clinic outreach / outbreak tracing (care and cage same hand).
+- **Romance cost (INSERT — "is this fed?"):** Custodian **soft probe scrambles trust** — Eli momentarily reads Wren as handler/trap; Wren says aloud that his surge on her face feels like **destiny leverage**. They cooperate anyway, but state the suspicions once, ugly and wrong, then don't apologize cleanly. Required doubt scene (`00` §6c; `19` § divine pairing misreading).
+- **M/I/A:** **M** — misread trap vs destiny. **I** — questions whether the contact is genuine or planted; exact phrasing TBD. **A** — —
 
-### Ch 8 — Her People *(Wren-weighted · the maritime corridor)*
+### Ch 8 — Her People *(Wren opening → hard break → Eli · the maritime corridor)*
 - **Want (Wren):** get her extraction person clear; **(Eli):** chase the coordinate.
 - **Attachment:** the romance — recognition under uncertainty; complementary cowardice (he'd cup the spider; she falls apart at being cared for). **Street romance register:** at least one sanctuary beat (food, watch, low humor) and one shared-future gesture before descent pressure spikes (`19_romance_and_divine_pairing.md` § Street romance register).
-- **Obstacle:** Wren's network and Eli's clue pull opposite ways; a boarding (piracy + inspection + a Custodian traveling with the boarders); Eli's sailing earns him a watch but a real sailor is indispensable; **the Shield (Custodian) shows conscience** when civilians are at risk.
-- **Choice → Cost:** Wren chooses to keep helping Eli over a clean extraction window. Cost: someone in her network pays; her resentment and guilt deepen.
+- **Wren-only opening movement:** before Eli re-enters the chapter, Wren runs **Laleh's extraction** with Asha Noor on comms. Laleh refuses to abandon her younger sister; Wren secretly changes the route, treating refusal as panic. Laleh discovers the deception, doubles back, and both sisters disappear into custody. Wren marks the ledger *completed* to keep the route alive. Asha sees the lie. The chapter establishes Wren's independent world, ordinary ferry-terminal dream, and custody flaw without Eli witnessing or repairing it.
+- **Obstacle:** Wren's network and Eli's clue pull opposite ways; **Asha freezes the compromised route pending a consent review**; a boarding (piracy + inspection + a Custodian traveling with the boarders); Eli's sailing earns him a watch but a real sailor is indispensable; **the Shield (Custodian) shows conscience** when civilians are at risk.
+- **Choice → Cost:** Wren chooses to keep helping Eli over a clean extraction window. Cost: someone in her network pays; her resentment and guilt deepen. This is not framed as her only failure: Laleh's disappearance was caused by Wren's own coercive care before Eli affected the route.
 - **Wren's prior-love seed (off-page, 2026-07):** Wren receives a **coded ping, manifest name, or song fragment** tied to her prior love (the one before Mira) — shuts it down with too much control; Eli reads tactical fear, not history. No third character appears (`26` § Rowan; `19` § triad moot).
-- **Past leak:** Sora — shields civilian, touches collar like wedding band; **St Michael medal** or prayer line under the uniform — protector faith, not exposition (`46` § G). Wren — Rowan ping delete + orders real food. Mira — sonic tuner on manifest, Wren goes still (unnamed).
+- **Past / self leak:** Sora — shields civilian, touches collar like wedding band; **St Michael medal** or prayer line under the uniform — protector faith, not exposition (`46` § G). Wren — Rowan ping delete + orders real food; a ferry-terminal courtyard plan folded inside the false ledger. Mira — sonic tuner on manifest, Wren goes still (unnamed). Asha addresses Laleh by name whenever Wren says *the carrier*.
 - **Revelation:** the Custodians are **carriers who took the collar** — Wren's dark mirror. **Forward clue:** a planted/false lead (one of the volume's wrong clues) sends them toward an agricultural report.
 - **Dead zone (plot — seed):** detour around **barren ground** — goats won't cross; Eli reads cold/flat. Vocabulary (*scour*, *dead zone*) later (`37` § *Dead zones*).
+- **Romance cost (SHARPEN — bill Vol I debt):** After Laleh/Asha damage, Wren's **resentment is explicit** — not only guilt. Eli tries to **fix** with usefulness (control-as-care); she snaps. Sanctuary beat (food/watch/joke) lands **after** the snap, not instead of it — reader must feel the repair is partial. **Shared-future gesture** (port name, one night off-watch) is spoken **through teeth**, almost withdrawn.
+- **M/I/A:** **M** — ping delete; ferry-terminal sketch on manifest; unreadable operator. **I** — Laleh/Asha/consent freeze; Custodian mirror; network vs clue. **A** — sanctuary **after** snap; orders real food; complementary cowardice; shared-future through teeth.
 
 ### Ch 9 — The Field That Counts *(Eli · Bali or a chosen agricultural stop)*
 - **Want:** test the growth report.
@@ -93,48 +115,59 @@
 - **Choice → Cost:** he trusts living local expertise over his own vision and over the planted lead. Cost: time lost; the wrong clue cost them a margin.
 - **Revelation:** **plant growth is tracing something real** — the plants are the detector, no message imposed. **Forward clue:** the real geometry points south/west toward a forming line in South Asia.
 - **Past leak:** anonymous **street performer** — dragon-staff or field worker move triggers Pai flash: noodles, failed trick, laugh (≤ sensory beat; Lani's beat folded into this, 2026-07).
+- **Romance cost (INSERT — escape offer):** one **clean exit fantasy** — *we could drop the clue, take the boat, disappear* (`19` §6). Must **almost** work emotionally; fails on **third loyalty** (Wren's people / Asha's route / a civilian / truth). Reader feels pull **and** respects refusal. No label, no kiss.
+- **M/I/A:** **M** — —. **I** — escape offer / third loyalty. **A** — weary proximity optional; pull felt, refused.
 
-### Ch 10 — Midpoint: First Witness *(Eli · first witness site — South Asia approach)*
+### Ch 10 — Midpoint: First Witness *(Eli · first witness site — Mekong Delta approach)*
 - **Want:** stand at a charged site long enough for a thread to clarify without collapsing from exhaustion.
 - **Obstacle:** at a **witness site** (witness stone / shrine marker / charged ground — pin exact site in `99`), a thread clarifies — hands, a birth, a fever, South Asian specifics (partial **Ila** contact); local **talking-stone lore** may precede the mechanism (`36` §7a); pursuit pressure won't wait.
 - **Choice → Cost:** he receives her as **other** — real, dead, grievable — without claiming her. Cost: grief with nowhere to set the love down.
 - **Revelation (MIDPOINT):** **first full site witness** — apprenticeship and grief, not identity proof. Decision changes: he can learn from the dead without owning them. **Forward clue:** Ila's partial record names the kind of place to look — a community where a new line is forming through planted ground.
+- **Romance cost (INSERT):** Wren sees Eli **grieve a woman in the record** (Ila) — misreads as identification/destiny hunger. She goes colder; he doesn't explain (can't yet). Intimacy **down** — prevents midpoint from feeling like romance high.
+- **M/I/A:** **M** — she misreads his grief; goes colder. **I** — —. **A** — **down**.
 
 ---
 
 ## ACT III — Growth and Choice
 
-### Ch 11 — The Forming Line *(Eli · South Asia rice community — see climax lock)*
+### Ch 11 — The Forming Line *(Eli · Mekong Delta rice/aquaculture cooperative — see climax lock)*
 - **Want:** find and document the forming line before the Custodians.
-- **Attachment:** smallholder rice farmers who already distinguish the anomaly from irrigation/blight; their land, water, livelihood; their wary hospitality.
+- **Attachment:** rice and seasonal-aquaculture farmers who already distinguish the anomaly from irrigation failure, salinity, blight, pesticide damage, industrial pollution, and the area's remembered dioxin history; their land, water, livelihood, and wary hospitality.
 - **Obstacle:** the Custodians **and another team** converge; the community wants neither faction; the formation is fragile.
 - **Choice → Cost:** he asks the growers for help, exposing them. Cost: his presence paints a target on the community.
-- **Revelation:** **crop formations are new lines forming**, not symbols imposed. Growers distinguish **forming band** from nearby **dead ground** (scour scar — name later). **Forward clue:** the clearest documentation of the line (the formation + a grower's polarity record) is the prize everyone now wants.
-- **Past leak:** Thila — lullaby to scarecrow/rice bird while refusing Eli's hand; *third team this monsoon*.
+- **Revelation:** **crop formations are new lines forming**, not symbols imposed. The cooperative's sluice logs, salinity readings, field sensors, planting history, and contamination maps eliminate familiar causes before Eli's theory is considered. Growers distinguish the **forming band** from a nearby restricted legacy-contamination parcel and from **dead ground** (scour scar — name later). **Forward clue:** the clearest documentation of the line (formation + water/soil/polarity records) is the prize everyone now wants.
+- **Past leak:** **Hạnh** photographs a gauge before touching it, scolds a broken sluice like a coworker, and refuses Eli's hand when he steps off the marked bund; *third team this monsoon*.
+- **Romance cost (SHARPEN):** Wren wants **exit strategy**; Eli wants **documentation** — control flare (*I'll manage the risk*). She does not defer silently; he does not win the argument. Complementary cowardice: she'll face armed teams; won't sit still for his plan.
+- **M/I/A:** **M** — control argument exposes manage-danger-first. **I** — exit vs evidence / community exposure. **A** — —
 
-### Ch 12 — Ila's Hands *(Eli · the community)*
+### Ch 12 — Ila's Hands *(Eli · the Mekong community)*
 - **Want:** help, and not be useless.
 - **Obstacle:** someone is hurt (the converging conflict draws first blood); Eli has Ila's record but no mastery.
 - **Choice → Cost:** he attempts his **first frightened body-read** — a **pressure-read at a bleed**: he feels exactly where it is bleeding and guides hands to it, but the slowing is ordinary pressure, not a gift (he does **not** heal). Cost: even the read is real but small, and costs him badly (metabolic crash; recovery grind).
 - **Revelation:** **bandwidth is not depth** — he is a receiver, not a healer (seeds the Vol II healer). **Forward clue:** the community's own elders hold knowledge the record doesn't.
 
-### Ch 13 — Two Teams *(ensemble · the community)*
+### Ch 13 — Two Teams *(Eli · ensemble action · the Mekong community)*
 - **Want:** survive the convergence; protect the documentation / the people.
 - **Obstacle:** the Custodians and the rival team **attack each other** around the formation; civilians in the crossfire; entrainment-driven panic (`38`); **psion teams contest the ground** — first on-page hint that factions **target charged sites**, not only people (`38` § *Scour* — vocabulary later); rival unit **callsign** in chatter (Persia-prince seed — name later, `46` § G); **the Shield's conscience cracks** toward (not yet into) defection.
 - **Choice → Cost:** Wren commits to getting civilians out over securing the clean clue — forcing Eli's hand. Cost: the cleanest evidence is now in jeopardy.
+- **Romance cost (SHARPEN):** Eli **resents being forced** — says something **cruel** (accuses her of control or using him as cover). Wren does not melt; holds the moral line. Repair deferred to Ch 14 — **do not** hug it out here.
+- **M/I/A:** **M** — she doesn't melt; holds line. **I** — forces his hand on civilians. **A** — cruel line; attraction strained, not erased.
 - **Revelation:** the war began before Eli existed and doesn't care about his clue. **Forward clue:** to save people, the documentation must be sacrificed.
 
-### Ch 14 — Climax & Resolution: Manual Override *(Eli · the community)*
+### Ch 14 — Climax & Resolution: Manual Override *(Eli · the Mekong community)*
 - **Want:** protect the people in front of him.
 - **Obstacle:** the impossible split — secure the cleanest version of the clue, or get the community clear. A charge rises that wants to make him *useful at any cost* (the old autopilot: earn safety by competence).
 - **Choice (CLIMAX) → Cost:** he **chooses people**, and the cleanest evidence is lost/damaged. And — the volume's threshold — he **feels the charge, recognizes the autopilot, and does not let conditioning complete the act**: personal Manual Override. Cost: he leaves with less proof than he came for.
 - **Revelation / Resolution:** **community knowledge, not Eli's power, preserves enough to point onward** — a grower's observation, a coordinate that no longer matches the old map, one half of a polarity reading. He continues **voluntarily**, still with no final destination. **Forward clue (into Vol II):** the surviving fragment bends the trail toward the corridors and, eventually, Anatolia — though he cannot yet see that shape. *Aftermath:* an ordinary scene — food, exhaustion, a small unutilitarian kindness — establishing the life worth freeing.
+- **Romance cost (LOCK Vol I end state):** **Trust up, label withheld.** One physical beat max (e.g. hand held, released — or she fixes his collar, steps back). He **stops filling her silences** once, or she **lets him make a wrong choice**. **No** "I love you," no destiny speech. Reader wants one quiet week together — not QED soulmates (`19` Vol I end state).
+- **M/I/A:** **M** — partial visibility via behavior (not confession). **I** — —. **A** — hand held/released; trust up, label withheld.
 
 ---
 
 ## Volume I climax — LOCKED (#6)
 
-- **Site:** a smallholder **rice-farming community** in monsoon/deltaic **South Asia** (precise geography flagged for research; deliberately **not** Bangladesh, which stays Eli's held "lost home"). Rice paddy is the visually legible detector — a curved band growing differently.
+- **Site:** a fictional rice / seasonal-aquaculture cooperative in Vietnam's **Mekong Delta**, provisionally in the Trà Vinh / lower-delta corridor pending research. Rice paddy is the visually legible detector — a curved band growing differently through fields managed with canals, sluices, and recorded wet/dry cycles.
+- **Historical land pressure:** one neighboring parcel associated with former military herbicide handling/transit remains restricted or disputed for dioxin contamination. People still speak about Agent Orange, illness, land loss, cleanup, and official denial/measurement. This history is neither supernatural cause nor decorative tragedy; it is one reason the cooperative keeps unusually careful water, soil, crop, and family records.
 - **The anomaly:** a **new ley line forming**, which the growers themselves distinguish from irrigation effect and blight. The community has its own knowledge and stakes; it is not a clue-dispenser.
 - **What they want besides helping Eli:** protect crop, land, and water; refuse to become a battlefield; want **neither faction** present.
 - **The clean clue at risk:** the clearest physical documentation of the forming line (the formation itself + a grower's polarity/growth record).
@@ -207,3 +240,47 @@ Singapore archive, clinical corridors, **cure framing** — not punitive Fractur
 - Names: the Custodians and members; the witness; the South Asia growers.
 - Length check: **14 chapters**, no prologue. Reassess scene length after drafting Ch 1–5 (the `05` §13 test).
 - **Maren suppression scene:** deferred to **Vol II** — see `99` #Maren-suppression / `29` Vol II Act II.
+
+---
+
+## Romance cost audit — Vol I (`19`, `27` § Wren)
+
+| Ch | Status | Job |
+|---|---|---|
+| 1–2 | OK | Hearth only — establish what romance will cost (garden, crew, made home) |
+| 3 | **SHARPEN** | Wren = operational collision, not sparkles |
+| 4 | **INSERT** | Field-recognition at death — plants doubt, not destiny |
+| 5 | **SHARPEN** | Debt fear; cost named; recognition refused |
+| 6 | **INSERT** | Care triangle; control flare; trust down |
+| 7 | **INSERT** | Suspicion that contact is genuine or planted—render in character; no required catchphrase |
+| 8 | **SHARPEN** | Laleh/Asha bill + resentment + partial sanctuary |
+| 9 | **INSERT** | Escape offer refused on third loyalty |
+| 10 | **INSERT** | Ila grief misread — intimacy down |
+| 11 | **SHARPEN** | Documentation vs exit — control argument |
+| 12 | OK | Eli useless — romance not the center |
+| 13 | **SHARPEN** | Cruel line; no repair yet |
+| 14 | **LOCK** | Trust without label; Manual Override ≠ confession |
+
+**Vol I drift risk:** Ch 5+8+14 stack tenderness without Ch 7+9+13 friction → reads **too easy**. Bill resentment **on dialogue**, not only in beat-sheet costs.
+
+---
+
+## M/I/A audit — Vol I (`19` § *Female mystery, intrigue, and attraction*)
+
+*Through-line: **mystery deepens as she becomes visible; intrigue resolves as she exits the counterfeit; attraction matures as control becomes consent.***
+
+| Ch | M (mystery) | I (intrigue) | A (attraction) |
+|---|---|---|---|
+| 1–2 | — | — | Hearth stake only |
+| 3 | Liability; shuts look | Light-cross | — |
+| 4 | Known-stranger flash | — | — |
+| 5 | Won't explain; bun | Burns network | Proximity; competence |
+| 6 | Control masks want | Care triangle | — |
+| 7 | Misread trap/destiny | Genuine contact or planted signal? | — |
+| 8 | Ping; terminal sketch | Laleh/Asha; network | Sanctuary after snap |
+| 9 | — | Escape offer refused | Pull, refused |
+| 10 | Colder on Ila grief | — | Down |
+| 11 | Control argument | Exit vs doc | — |
+| 12 | — | — | — |
+| 13 | Holds line | Forces hand | Strained |
+| 14 | Behavior not speech | — | Hand held/released |

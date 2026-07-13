@@ -1,6 +1,8 @@
 # Trilogy Plot & Development — Spine Hub
 
-> **Status:** navigation and synthesis for **plot mechanics** across three volumes. **Vol I chapter spine:** `31_volume_I_beatsheet.md` (locked). **Vol II–III:** act-level beats in `05_story_architecture.md` §7 — **chapter beatsheets not yet written**. Open structural commitments: `99_open_questions.md` Priority 2–3. Discovery order: `17_reveal_order_and_reader_impact.md`. Life/Knowledge through-line: `22_life_technology_and_two_trees_spine.md`. Cast/plot intersection: `26` Parts V–VI.
+> **Status:** navigation and synthesis for **plot mechanics** across three volumes. **Chapter spines:** `31_volume_I_beatsheet.md` (Vol I), `32_volume_II_beatsheet.md` (Vol II), `33_volume_III_beatsheet.md` (Vol III) — romance cost + M/I/A audits per chapter. Open structural commitments: `99_open_questions.md` Priority 2–3. Discovery order: `17_reveal_order_and_reader_impact.md`. Life/Knowledge through-line: `22_life_technology_and_two_trees_spine.md`. Cast/plot intersection: `26` Parts V–VI.
+
+> **POV — LOCKED:** Eli-dominant close third present; Wren and Somchai are the only recurring away lenses; one scene holds one viewpoint. Plot cards that say “ensemble” describe action only. Governing switch test and exact volume deployment: `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED* and beat sheets `31`–`33`.
 
 ---
 
@@ -8,6 +10,7 @@
 
 | Need | Doc |
 |---|---|
+| POV choice / switch test | `14` § *POV architecture — LOCKED* |
 | Governing sentence + four functions | `05` §1 |
 | Four-corner opposition (politics) | `05` §1 |
 | Vol I chapter-by-chapter | `31_volume_I_beatsheet.md` |
@@ -27,11 +30,11 @@
 
 ## Plot engine (one paragraph)
 
-**Motor:** Eli follows a **mother-clue trail** through a **maritime pilgrimage** (Melaka → corridors → South Asia → Anatolia → Europe → Albion) while psion war and the Ring close around him. **Burden:** post-breach web-noise; **named threads clarify at charged grounds** (legends of talking stones). **Temptation:** amplifier / chosen-one / throne. **External war:** national psion programs + Custodians + Crane's ring. **Positive proof:** native practices spread → grid monopoly worthless → **mother released** (reunion = goodbye) → **coexistence** survives crisis. Eli does **not** win the war; he ends the need for one kind of war.
+**Motor:** Books I–II follow a **mother-clue trail** through a westward maritime pilgrimage (Melaka → Gulf/Mesopotamian evidence → Göbekli → Europe → Albion) while psion war and the Ring close around Eli. **Book III changes engines:** after Maren's release spreads awakening, Forest City, the Mekong cooperative, Somchai's clinics, Wren/Asha threshold houses, and open Albion attempt a distributed network under pressure from control and liberation factions. **Burden:** post-breach web-noise, then public awakening without civic capacity. **Temptation:** Books I–II—amplifier and chosen-one identity; Book III—permanent coordination and forced synchronization. **Positive proof:** mother released at the end of Book II → communities connect and fail in Book III → temporary authority disperses after necessity and submits to review → coexistence survives without one center.
 
 **Geography rule:** each leg must **force a decision**, not decorate. Eli knows only the **next testable lead** until Albion late.
 
-**Common misread:** the route is **not** Forest City → Göbekli → stone circles → Stonehenge as a straight tour. **Göbekli is Vol II (Anatolia)** after a full **Vol I maritime + South Asia** arc. **Multiple Albion sites** (Rollright, Stonehenge, Men-an-Tol) come **late Vol III**, not before Göbekli. See § Pilgrimage pathway below.
+**Locked allocation (2026-07-12):** **Göbekli is the Book I climax.** Multiple European/Albion sites (Rollright, Stonehenge, Men-an-Tol) occupy Book II, which ends with Maren's release. Book III is no longer another pilgrimage leg; it is the distributed-community story.
 
 ---
 
@@ -41,36 +44,32 @@
 
 | Who | Knows |
 |---|---|
-| **Author / outline** | Full westward braid: Melaka → corridors → South Asia → Mesopotamian **memory leg** → Göbekli → Europe → Albion grounds |
-| **Eli (on page)** | Only the **next clue** — witness, archive, growth anomaly, artifact dispute, broken map coordinate. **Albion** identifiable only when independent evidence agrees **late Vol III** |
+| **Author / outline** | Westward braid: Melaka → corridors → Mesopotamian **memory leg** → Göbekli → Europe → Albion; then distributed community links in Book III |
+| **Eli (on page)** | Only the **next clue** — witness, archive, artifact dispute, broken map coordinate. **Albion** identifiable only when independent evidence agrees in **Book II** |
 
 Rule (`00_NARRATIVE_STRUCTURE` §6): every leg begins with a **clue**, not a destination briefing. At least one clue is **stale**, one **misread**, one **planted**.
 
 ### Macro route by volume (LOCKED direction)
 
 ```text
-PROLOGUE — Maren (suppression face; anywhere)
+VOL I — THE BREACH / SHATTERING
+  Forest City → Melaka breach → Strait / Indian Ocean corridors
+  → Gulf / Mesopotamian evidence → GÖBEKLI TEPE
+  END: interface race; human domestication evidence; Emrys taken
 
-VOL I — SHATTERING
-  Forest City          … made home; NOT a charged ground
-  → Melaka             … breach; living port; NOT automatically a charged ground
-  → Strait / Indian Ocean corridors … ships, archives, boarding
-  → (optional) Bali / agricultural stop … growth, local knowledge
-  → South Asia rice community … Vol I CLIMAX; Ila thread; NOT Bangladesh
+VOL II — THE DESCENT
+  Anatolia → continental Europe → Rollright / Stonehenge / Men-an-Tol
+  → ALBION tethered ground
+  END: Maren released; spreading awakening begins
 
-VOL II — DESCENT
-  → Persian Gulf / Mesopotamian MEMORY leg … texts, artifacts, Eridu/Adapa echoes
-  → Anatolia / GÖBEKLI TEPE … buried instrument; Aru + Daskar descents; Emrys taken
-  → Mother midpoint: body dead, spirit tethered west — no address yet
-  → Partial Cuno/Derw fragment → Europe
-
-VOL III — CHOICE
-  → Europe … broken/reformed grounds; healer deification; Eli/Wren commitment
-  → ALBION (sequence below) … mother tether; chair key; climax
-  → Coda … ordinary afternoon; open home
+VOL III — THE LIVING WORLD
+  Forest City return / awakened-refugee boat crisis
+  → Forest City ↔ Mekong cooperative ↔ Somchai clinics
+  ↔ Wren/Asha threshold houses ↔ open Albion ground
+  END: network survives attack and internal dispute; temporary coordination disperses
 ```
 
-Source: `05` §7 table; `00_NARRATIVE_STRUCTURE` § legs 2–7; `31` Vol I detail.
+Source: `05` §7 revised table; `99` Priority -1. Old `31`/`32`/`33` chapter allocations are superseded pending rebuild.
 
 ---
 
@@ -105,26 +104,26 @@ Source: `05` §7 table; `00_NARRATIVE_STRUCTURE` § legs 2–7; `31` Vol I detai
 
 | Site | Volume | Seven / deep thread | Present-day role |
 |---|---|---|---|
-| **South Asia rice community** | I climax | **Ila** (partial contact mid Vol I; full geography open) | Forming **ley line** in paddy; choose people over evidence |
+| **Mekong Delta rice/aquaculture cooperative** | I climax | **Ila** (partial contact mid Vol I) | Forming **ley line** in paddy; growers distinguish it from salinity, irrigation, pollution, and legacy dioxin history; choose people over evidence |
 | **Göbekli Tepe** | II heart | **Aru** (carver), **Daskar** (burier); fox-pillar | **Buried instrument + MAJOR REVEAL — what the elves are.** First enormous present↔deep convergence; the spiral-in-the-eye is a **selection mark**; Göbekli is the **Qingu reserve seal + Nephilot down-breeding site** (the elves' origin). Faction **race to reach the sealed interface first**. Plaquette snake/tree/bird grammar (`35`). |
 | **Persian Gulf / Eridu–Adapa memory** | II leg | Adapa lacuna; Enki/Ninmah; King List | **Artifact + story leg** — texts, copies, disputes; see **Dilmun** below |
 | **Anatolia (Anthea)** | II | **Anthea** — Bronze Age singer | Sonic/routing; distinct from Wren |
-| **Stonehenge** | III | **Cuno** — bluestone mover; last firing | **Cathedral ground**; most powerful, most watched; Cuno→Derw transmission |
-| **Rollright Stones** | III | **Cuno/Derw** chain (Albion); riddling ground | Trickster presence; resists measurement; **not** Aru's site (superseded draft) |
-| **Men-an-Tol** | III | Mother-line threshold | **Holed stone** — infant passage; Eli passed through as baby; bridge made stone; chair rhymes |
-| **Albion ground + chair** | III climax | Mother **tether**; Emrys chair = **key** | Release mother; Two-Tree union act; **not** source of Eli's gift |
+| **Stonehenge** | II | **Cuno** — bluestone mover; last firing | **Cathedral ground**; most powerful, most watched; Cuno→Derw transmission |
+| **Rollright Stones** | II | **Cuno/Derw** chain (Albion); riddling ground | Trickster presence; resists measurement; **not** Aru's site (superseded draft) |
+| **Men-an-Tol** | II | Mother-line threshold | **Holed stone** — infant passage; Eli passed through as baby; bridge made stone; chair rhymes |
+| **Albion ground + chair** | II climax | Mother **tether**; Emrys chair = **key** | Release mother; first awakening; **not** source of Eli's gift |
 
 **Still open (`99` § Charged-ground triggers):** pin **Tem**, full **Ila** witness stone, **Lovernios** (Anglesey ↔ Albion), **Aedan** deep arc ground, Göbekli **present-day staging** (dig / shrine / military zone).
 
-### Albion sequence (Vol III — not interchangeable)
+### Albion sequence (Vol II — not interchangeable)
 
 Late book **converges** multiple western grounds; order is **dramatic**, not a Grand Tour:
 
-1. **Europe (Vol II Ch 20)** — dead zones **named and mapped**; **Pömmelte** massacre; **broken-line church** set-piece (`37` LOCKED §§). Vol III Ch 23 escalates **scour** warfare on choke points.
-2. **Rollright (Vol II Ch 21 / Vol III)** — riddling, unreliable read; Anthea full-res; false certainty punished.
+1. **Europe** — dead zones **named and mapped**; **Pömmelte** massacre; **broken-line church** set-piece (`37` LOCKED §§). Scour warfare escalates on choke points.
+2. **Rollright** — riddling, unreliable read; Anthea full-res; false certainty punished.
 3. **Stonehenge (Vol II Ch 22)** — Cuno descent; **Alba → Albion → elf** name beat; England ambush.
-4. **Men-an-Tol (Vol III)** — personal threshold; mother's earlier act; body memory.
-5. **Climax stones + chair (Vol III Ch 27–29)** — tether release; union act; spreading fire.
+4. **Men-an-Tol** — personal threshold; mother's earlier act; body memory.
+5. **Climax stones + chair (Book II end)** — tether release; limited first awakening; liberation outruns social capacity.
 
 Eli learns **Albion is the endpoint** only **after** he is already deep in the trail (`05` Vol III Act turn).
 
@@ -160,7 +159,8 @@ DEEP TIME (author bible):
 PRESENT PLOT (Eli's path):
   Vol I   — Asia maritime; learns lines exist via GROWTH + polarity, not Dilmun
   Vol II  — Mesopotamian ARTIFACTS + Göbekli PHYSICAL NODE
-  Vol III — European broken grid → Albion grounds → release
+  Vol II  — European broken grid → Albion grounds → release
+  Vol III — Forest City + distributed community network → accountable coexistence
 ```
 
 **Dilmun explains why Mesopotamian myth keeps saying "paradise in the east / in the waters"** — it is the **nursery layer** in the iceberg, carried through **story and genetics metaphor**, not a requirement that Eli scuba the Gulf before Göbekli.
@@ -306,30 +306,17 @@ Each leg owes beats from `22`:
 
 **Act turn:** Albion identified as likely endpoint.
 
-### Act II — The mother-source
-- Rollright — riddling ground; Men-an-Tol — infant passage memory.
-- **Chair = key** to tethered ground (not Eli's source).
-- Grid runs on **tethered souls**; mother's **hope of reunion = chain**.
+### Volume III locked movement — harm, bounded authority, inquiry
 
-**Midpoint temptation:** controlling amplifier seems only way to save her.
-
-### Act III — Release (CLIMAX — LOCKED direction)
-- Factions converge (control / destroy / nationalize / profit / rescue / liberation).
-- Collective coherence **without** permanent command hierarchy.
-- Healer refuses impossible demands under crowd pressure.
-- **Wren indispensable choice** (network + accountable limits).
-- Eli reaches mother; learns reunion **prolongs tether**.
-- Crane **throne offer** (responsibility language).
-
-**Climax choices (LOCKED):**
-1. **Release mother** — reunion is goodbye; she ascends.
-2. **Refuse amplifier ownership.**
-3. **Two-Tree union act** — life tech + death tech together once; **spreading fire**, not seizing grid (`22`).
-4. **Refuse to destroy Crane** — accountability without annihilation or excusal.
-
-**Resolution (LOCKED):** durable **local coexistence** — ordinary + anomalous share life after emergency; war not gone overnight; **open ending**.
-
-**Coda (LOCKED):** unremarkable afternoon — meal, sail, performance, repair; **nobody turns into destiny**.
+- Refugees from the Book II awakening reach Forest City; Eli's successful response creates pressure for permanent leadership.
+- A refugee admitted under Eli's sponsorship commits a fatal nonconsensual mind-entry. Freedom's failure is real.
+- Crane's standardized registry would prevent some harm; admirable communities accept parts of it.
+- Wren refuses to let Eli requisition her threshold network. Love grants no jurisdiction.
+- The communities adopt a purpose-bound, revocable, recorded, self-expiring emergency compact.
+- Eli accepts temporary command during attack, then refuses forced synchronization although it would probably save more people.
+- The coalition survives incompletely; a named person or beloved threshold house is lost.
+- Eli steps down, submits to public inquiry, and accepts restrictions on future authority.
+- The shared-garden coda ends with unresolved anger, ordinary procedure, work, affection without merger, and Eli wanted but replaceable.
 
 ### Priority 3 open (before drafting III)
 - **#11** Dragon plot role beyond symbol
@@ -337,7 +324,7 @@ Each leg owes beats from `22`:
 - **#13** Crane accountability shape
 - **#14** Final community geography + post-battle dispute test
 
-**Chapter spine:** `33_volume_III_beatsheet.md` (Ch 23–30). Scour warfare, new model, release climax, coda pinned.
+**Chapter spine:** `33_volume_III_beatsheet.md` (Ch 23–32). Refugee landing, real harm, Crane standard, Wren refusal, bounded crown, inquiry, and shared-garden coda pinned.
 
 ---
 
@@ -357,6 +344,8 @@ Each leg owes beats from `22`:
 - I: recognition refused → forced alliance → sanctuary beats.
 - II: thaw tested; trade fork; Wren custody instinct (off-page prior love); commitment late II.
 - III: union tested; throne/destiny pressure; release thesis (`19`, `27`).
+- **Drafting:** per-chapter **Romance cost** in `31`/`32`/`33`; five load-bearing beats `19` § *Romance cost audit* — architecture is hard; execution drifts easy without Ch 7/9/13 (I) and Ch 17–19 (II) friction.
+- **M/I/A:** per-chapter **Mystery · Intrigue · Attraction** in `31`/`32`/`33` § *M/I/A audit*; hub `19` § *Female mystery, intrigue, and attraction* — through-line: mystery deepens → intrigue exits counterfeit → attraction matures past control.
 
 ### Life / Knowledge discovery (`22`)
 - **Throughout** — not climax dump.
@@ -385,10 +374,13 @@ Key hinges:
 | Vol II — Emrys taken | Eli surpasses anti-father; Emrys error on page |
 | Vol II — trade fork | Wren third loyalty |
 | Vol II — Wren custody instinct | Wren's off-page prior love; consent internal to dyad |
-| Vol III — release mother | Eli grief + liberation |
-| Vol III — Wren choice | network not weaponized |
-| Vol III — healer refusal | deification test |
-| Vol III — coda | coexistence ordinary |
+| Vol I–III — Eli/Wren dyad | M/I/A through-line on page (`19` § *M/I/A drafting audit*; `31`/`32`/`33` audits) |
+| Vol II — release mother | Eli grief + liberation |
+| Vol III — fatal freedom failure | Eli's judgment becomes answerable |
+| Vol III — Wren refusal | network not weaponized; love grants no jurisdiction |
+| Vol III — bounded crown | authority used, limited, and dispersed |
+| Vol III — public inquiry | exceptional person remains subject to ordinary judgment |
+| Vol III — shared-garden coda | coexistence ordinary; Eli wanted but replaceable |
 
 Past-vs-mask leaks (`26` Part V) and trauma patterns (`26` Part VI) attach to **existing** plot beats — not separate subplots.
 
