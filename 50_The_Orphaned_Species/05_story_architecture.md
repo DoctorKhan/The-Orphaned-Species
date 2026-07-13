@@ -25,6 +25,10 @@ The longing for home supplies the heart. The clue trail moves the body. The Seve
 
 ### Manuscript Voice
 
+**Governing guide:** `14_literary_speculative_thriller_style_guide.md`. The chosen mode is **literary speculative thriller**: clean, atmospheric prose; vivid locations; emotionally complex characters; escalating pursuit. The novel's surface is an intimate maritime thriller, its emotional depths use literary-fiction attention, and extraordinary encounters use restrained visionary language.
+
+**POV — LOCKED:** Eli is the home consciousness in close third present. Wren and Somchai are the only recurring away lenses. Their rare scenes must contain consequential choices Eli cannot witness, and a hard section break must separate every viewpoint change. “Ensemble” identifies who acts, not who narrates. Maren's truth, Emrys's capture, the tether/release, and the final coda remain Eli; Wren owns the Laleh extraction and distributed-network convergence; Somchai owns the bodily-crown refusal. Full switch test and volume deployment: `14` § *POV architecture — LOCKED*.
+
 Default prose style: **lyrical but restrained; warm and human; socially funny; sensory-textured; mostly external/cinematic; flowing and contemporary-simple; lightly interpretive; dry in humor; specific with names, jobs, objects, and places.** Let emotion arrive through what people do, notice, expect, and joke about. Prefer concrete social texture over abstract interior explanation: a stuck fire door, a saved phone charger, a bad knot that holds, a chess move nobody asked for.
 
 Vary the same style by pressure:
@@ -336,9 +340,35 @@ Use the **Volume** labels as dramatic movements and the reveal-order document's 
 
 | Volume | Plot movement | Internal movement | External movement | Ending change |
 |---|---|---|---|---|
-| **I — Shattering** | Hearth, breach, pursuit, unstable alliance, first verified record | Overload → first witness-site contact | Forest City → Melaka and maritime Asia → South Asia | Eli has **met** a practitioner as other, refuses capture, and voluntarily follows the next clue |
-| **II — Descent** | Reconstruction, competing loyalties, mother-reveal, loss of the guide | Relation → seeing | South Asia / Persian Gulf → Anatolia | He learns his mother is dead in body and tethered somewhere west; Emrys is taken; the trail enters Europe |
-| **III — Choice** | Convergence, temptation, release, refusal of ownership | Discrimination → creation and release | Europe → Albion | He frees his mother, refuses the amplifier, and helps a mixed ordinary/anomalous community survive beyond the emergency without claiming the wider war is over |
+| **I — Shattering** | Hearth, breach, westward pursuit, sealed-interface race | Prey → active player | Forest City → Melaka → Gulf corridor → **Göbekli** | Eli sacrifices complete evidence for living people; Emrys is taken; the buried domestication system is proven |
+| **II — Descent** | European pursuit, mother truth, tether, release | Player → liberator who must relinquish | Anatolia → Europe → **Stonehenge / Men-an-Tol / Albion** | Eli releases Maren; the web begins a spreading awakening; liberation outruns social capacity |
+| **III — The Living World** | Community construction, federation conflict, counter-revolution, survival without permanent command | Liberator → participant / temporary coordinator → distributed member | **Forest City + Mekong + clinic/threshold networks + open Albion** | A network of communities survives both attack and internal dispute without registry, cult, army-state, or permanent ruler |
+
+**Book III opening — Forest City return (LOCKED):** a boat of newly awakened refugees reaches the harbor while pursuit, exposure, and supply pressure threaten the refuge. Forest City splits over closure, unconditional admission, and accountable intake. Priya carries procedural safety; Mei carries immediate human care; founders see a scalable model; Wren resists universalizing one community. Eli coordinates the emergency effectively, and that success—not failure—begins the pressure to make him the permanent center.
+
+### Classic spine — costly belonging and accountable power (LOCKED 2026-07-13)
+
+The trilogy's permanent dramatic question is:
+
+> **How can people belong to one another without owning one another?**
+
+The answer must be proved at three increasing scales:
+
+1. **Book I — hearth:** Eli fails at his father's garden and remains included. At the climax he chooses living people over complete evidence; Emrys is taken partly because of that choice. Right conduct does not erase tragedy.
+2. **Book II — family:** Eli and Maren receive a real, lucid reunion. Maren loved him and resisted Crane, but also helped build signature tools later used to cage others, protected Eli at another person's expense, and delayed acting to preserve access to him. Both want more time. Remaining together prolongs the tether and consumes other captive lives, so Eli releases both her presence and his need for her innocence. The first awakening is limited, fragile, and socially destabilizing; it creates Book III rather than solving it.
+3. **Book III — civilization:** freedom produces a real victim. A newly awakened refugee admitted under Eli's sponsorship commits a serious nonconsensual mind-entry, and an ordinary person dies as a direct consequence. The victim is not restored, secretly culpable, or converted into proof that Crane engineered everything. Their survivor remains entitled to anger. Crane's diagnosis—that unregulated psionic capacity can destroy civilians—is thereby proven true even though his permanent registry remains the wrong conclusion.
+
+Book III then locks the following sequence:
+
+- **Crane's workable offer:** universal detection, mandatory training, interoperable records, central emergency command, and enforced containment would prevent some deaths. Admirable communities accept parts of it freely. The danger is that temporary risk categories become permanent identities and no person can meaningfully leave the system.
+- **Wren's refusal:** Eli needs the threshold-house network and assumes shared love and purpose entitle him to its identities, routes, or command capacity. Wren refuses because people trusted her precisely on the promise that it would not become Eli's army. Her refusal materially damages his plan and the relationship, but the narrative honors it.
+- **The bounded crown:** Eli accepts temporary emergency coordination because permanent refusal can also abandon people. The authority is purpose-bound, visible, recorded, revocable by several independent communities, unable to requisition Wren's network without consent, and self-expiring.
+- **The coercive temptation:** during the final attack, Eli can override dissent and forcibly synchronize carriers. It would probably save more people. He refuses that extension of authority. The voluntary coalition survives incompletely: a named person or beloved threshold house is lost, and the book does not declare the choice painless or unquestionably correct.
+- **Victory through answerability:** after the crisis, Eli steps down and submits to an ordinary public inquiry into the refugee he sponsored, the harm caused under his authority, and the people his restraint did not save. He does not control the hearing. The federation may restrict his future authority, and he accepts its judgment. Crane is also contained through accountable process rather than Eli's personal mercy.
+
+This is the operational answer to Crane: power can be used without becoming ownership only when its holder can be observed, limited, judged, and returned to ordinary membership.
+
+> **STRUCTURAL REVISION — LOCKED 2026-07-12:** The volume allocations above govern. The older detailed Volume I–III act material immediately below is retained temporarily as a **scene quarry** only and must be rebuilt. In particular: Göbekli and Emrys's capture move to the **Book I climax**; Europe/Stonehenge/Albion and Maren's release move to **Book II**; Book III is no longer the pilgrimage-to-release volume but the construction and defense of a distributed living network.
 
 ### The artifact-and-story pursuit — plot engine, order provisional
 
@@ -404,7 +434,7 @@ The table records likely accumulations in the existing plot, not a lesson schedu
 |---|---|---|---|
 | **I — Shattering** | **Return to the body under overload.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to recover after breach and witness-site contact — **not** to solve "who am I?" Forest City demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
 | **II — Descent** | **Move from self-regulation into relation, care, and limits.** Practices become recognizable across cultures without becoming interchangeable. | 1: be true, not right; 4: kindness when hard; 10: stillness and listening; 11: forgive without rehiring harm; 12: tend living things | The healer's consent and refusal establish that service is not conscription. Eli learns from breath, touch, sound, plant intelligence, and the Seven without claiming mastery or cultural ownership. Conflicting witnesses force truth-seeking over doctrinal certainty. |
-| **III — Choice** | **Release possession and transmit without founding another cage.** The Way becomes political and generational. | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Eli frees his mother by surrendering reunion, loves Wren without destiny or ownership, refuses both Crane's throne and annihilation, and distributes practices so no institution or bloodline can monopolize them. The final coalition becomes a durable mixed community with reciprocal accountability and no permanent command. |
+| **III — Choice** | **Use authority without becoming its owner.** The Way becomes political and generational. | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | After freedom causes real harm, Eli accepts bounded emergency command, refuses forced synchronization, steps down when the condition ends, and submits to public review. The final coalition becomes a durable mixed community with reciprocal accountability and no permanent command. |
 
 This inalienable inner victory should become a clear end-of-book strength threshold rather than a private mood. The likely shape is two-stage: **Volume I ends with personal Manual Override**, where Eli can feel a charge, recognize autopilot, and not let conditioning complete the action; **Volume II ends with relational or collective Manual Override**, where the group can hold charged fear, loyalty, pain, and psychic pressure without collapsing into possession, worship, obedience, or betrayal. That is what makes them strong enough for what comes next. Volume III then tests whether this strength can become public civilization without becoming another cage. Full fellowship development arcs: `27_character_development_arcs.md`.
 
@@ -418,7 +448,7 @@ The trilogy still performs a maturation, but these are cumulative pressures rath
 
 This is also the publishing boundary. The novel gives readers **experience and proof through consequence**. The companion material gives them explicit exercises, comparative theology, and a repeatable path. If a Living Way passage does not create a choice, cost, relationship change, or embodied practice in the scene, it belongs in the companion layer rather than the novel.
 
-### Volume I — Shattering
+### SUPERSEDED SCENE QUARRY — former Volume I allocation
 
 **Dramatic question:** Can Eli remain himself long enough to decide whom to trust?
 
@@ -464,7 +494,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Resolution:** community knowledge, not Eli's power, preserves enough to point toward the next corridor. He continues voluntarily. He still has no final destination.
 
-### Volume II — Descent
+### SUPERSEDED SCENE QUARRY — former Volume II allocation
 
 **Dramatic question:** Can Eli pursue truth without turning people into instruments of his search?
 
@@ -504,7 +534,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Resolution:** a partial Cuno/Derw element and the living network point into Europe. The word “Albion” still need not be confirmed.
 
-### Volume III — Choice
+### SUPERSEDED SCENE QUARRY — former Volume III allocation
 
 **Dramatic question:** Can Eli free his mother and oppose Crane without becoming the next owner of the system?
 
@@ -552,7 +582,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 ### Volume III victory condition — LOCKED
 
-The refusals above prevent defeat, but they are not themselves victory. **Volume III is won when coexistence survives the crisis that created the coalition.** A temporary battlefield alliance proves only common danger; the ending must show ordinary and magical/evolved beings continuing to share a social world once immediate necessity no longer forces them together.
+Refusal alone is not victory. **Volume III is won when coexistence survives both a real failure of freedom and the crisis that creates the coalition.** A temporary battlefield alliance proves only common danger; the ending must show ordinary and magical/evolved beings continuing to share a social world once immediate necessity no longer forces them together.
 
 Required proof:
 
@@ -561,6 +591,7 @@ Required proof:
 - ordinary people protecting an anomalous neighbor without worshipping them, and an anomalous person accepting accountability without surrendering ownership of their nature;
 - technology repurposed from detection and classification toward translation, treatment, consent, documentation, and distributed protection;
 - a durable community or network that does not depend on Eli's command, bloodline, continued presence, or unique moral purity.
+- a public inquiry that can judge Eli, compensate or protect those harmed where possible, restrict his future authority, and preserve the victim's family's right not to forgive him.
 
 The community may remain small, endangered, and imperfect. It may contain fear, crime, resentment, accidents, and political disagreement. What it cannot do is resolve difference through the inherited options of kneeling, burning, or caging. That repeatable social form—not victory over Crane, possession of the grid, or universal awakening—is the positive victory of the third book.
 
@@ -572,13 +603,18 @@ The final movement comes full circle, but not as a reset. It returns to the kind
 
 ### Final movement — the unremarkable afternoon
 
-The climax ends the immediate claim to ownership. The coda shows what freedom is for. Allow enough time to pass that cooperation is no longer forced by battle, then return to food, sailing, jokes, affection, useful work, repair, play, and rest. Magic remains present but no longer controls the meaning of the scene.
+The public inquiry ends the immediate claim that exceptional power places Eli above ordinary judgment. The coda shows what freedom is for. Allow enough time to pass that cooperation is no longer forced by battle, then return to food, sailing, jokes, affection, useful work, repair, play, and rest. Magic remains present but no longer controls the meaning of the scene.
 
-The exact geography and final line remain open, but the movement is locked:
+**Final image — LOCKED:** Arif's plants survive in a shared garden through grafts and unfamiliar crops added by refugees. Eli first experiences this continuity as replacement, then accepts that what he loves can continue without belonging exclusively to him. He is wanted there but not indispensable.
+
+The exact final line remains open, but the movement is locked:
 
 - the healer attends a meal as a tired, fallible man; no one asks for a miracle, and a refusal does not become a crisis;
 - Eli works aboard a sailboat within an ordinary crew, still taking instruction and doing his share rather than commanding through special perception;
 - Wren and Eli are affectionate without converting love into fate, proof, or possession;
+- Wren retains work, routes, loyalties, and authority that do not belong to Eli;
+- someone harmed by Eli's decisions declines to forgive him without being narratively punished or corrected;
+- a minor psionic incident is handled through an ordinary consent and review procedure rather than Eli's intuition;
 - the Pai girl can perform with her dragon staff—in person, memory, message, or a brief distributed coda—without anyone treating her as an oracle or the image as an omen;
 - an anomalous or magical presence participates in the social world without becoming spectacle, weapon, property, or god;
 - someone cooks, repairs, teases, tires, makes a minor mistake, or changes the subject.
