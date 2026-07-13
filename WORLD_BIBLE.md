@@ -9,10 +9,12 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 - **Next term (call it "the following election," avoid a specific ordinal unless math-checked):** The **People's Party of America (PPA)** rises out of desperation and **legitimately wins**. State-directed capital + digital ledger + party apparatus (the "China model," shown through specifics, never asserted as a label).
 - **Mid-2030s:** The Middle East war escalates to **World War III**.
 - **WWIII acute phase:** Cornered nations release the weapon (see §2).
-- **Post-war partition (LOCKED):** the world settles into **three blocs** (see §1a). Street shortenings: *the Union*, *the Mandate*, *the Covenant* / *the Ports*.
-- **Generational phase:** Survivors carry the latent construct; it triggers at **puberty** in the next generation and onward (gene drive makes it heritable).
+- **Armed-reopening partition (LOCKED):** after WWIII's single hottest phase, unstable armistices and fragmented ceasefires harden into **three blocs** (see §1a). There is no comprehensive peace: proxy fighting, blockades, drone attacks, maritime seizures, and deniable operations continue. Street shortenings: *the Union*, *the Mandate*, *the Covenant* / *the Ports*.
+- **Activation phase:** the outbreak does **not create psionic capacity**. Rare natural carriers and psions existed long before it. The synthetic construct forces wider access to humanity's already-latent receiver: it can destabilize infected adolescents and adults, triggers strongly at **puberty** in children infected before adolescence, and remains heritable in later descendants.
 
 ## 1a. THE THREE BLOCS (LOCKED)
+
+These are **armistice-era / post-collapse blocs**, not peaceful post-war societies.
 
 | Pole | Official name | Governing reality | Street / news |
 |---|---|---|---|
@@ -26,32 +28,49 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 - **Eli is stateless** — no bloc claims him. Custodians and registry hunters cross Covenant ports under biosecurity cover.
 - **On-page rule:** use official names in documents, news crawls, and checkpoint speech; use street shortenings in dialogue and habit. Never infodump all three names in one sentence after the prologue.
 
+## 1b. THE WORLD WAR AND MODERN PSION WAR (LOCKED)
+
+- **World / Machine War:** public geopolitical conflict driven by political fracture, resources, shipping, ideology, cyberwar, and economic collapse. Its hottest global phase has ended by Book I, but armed reopening includes proxy battles, patrols, sanctions, blockades, piracy, drone strikes, and incompatible ceasefires.
+- **Modern Psion War:** a covert theater nested inside the world war after states confirm psionic signatures. National programs, Crane's Ring, contracted teams such as the Custodians, independents, mercenaries, and liberation cells fight over carriers, charged grounds, records, and amplifier access.
+- **Causal boundary:** psions did not cause the world war; Crane does not secretly control it. The public war supplies damaged infrastructure, emergency authority, displacement systems, health data, and deniable casualties that the Psion War exploits.
+- **Reverse influence:** psion operations can affect particular negotiations, command decisions, intelligence failures, panics, and battles without controlling the whole geopolitical conflict.
+- **Book I status:** armed reopening outside; covert Psion War fully active and becoming harder to conceal. Eli's flare exposes him to a war already underway.
+- **Book II change:** Maren's release and the spreading awakening break the old monopoly on rare isolated carriers and the tethered amplifier. Neither war ends. The covert arms race becomes a public political struggle over awakened people.
+- **Book III status:** ordinary conflict remains fragmented and armed. The old small-team Psion War has lost its central prize, but states retain soldiers, drones, prisons, files, trained psions, and political authority. The new question is who may organize, protect, conscript, register, or represent awakened communities.
+
 ## 2. THE WEAPON — TWO PHASES
 **Type:** retroviral, replication-competent, gene-drive-capable construct. Descendant of CRISPR (prime/base editing + gene drive), rewritten past simple cutting.
+
+### Origin boundary — LOCKED
+- **Psionics predates the outbreak.** Rare natural carriers inherited unusually accessible receiver biology through old human lineages; Maren, Eli, and the people studied by the early consciousness programs belong to this pre-outbreak population.
+- **The weapon imitates and destabilizes an existing gate.** Research into natural carriers helps its designers identify regulatory pathways that can lower the receiver threshold across a much larger population. It does not manufacture the non-local field, souls, or psionic potential.
+- **Two routes now coexist:** natural carriers can awaken without the construct; construct-bearers can be forced toward partial, unstable, or later full access. Neither route guarantees ability, wisdom, stability, or survival.
+- **Eli's gift is not outbreak-made.** He was born around 2018, inherited natural carrier biology through Maren, and experienced pre-outbreak adolescent threshold symptoms. The later outbreak changes the world around him and may aggravate or expose his signature; it is not his origin. His TBI creates no power.
 
 ### Phase 1 — Acute (WWIII)
 - **Ancestry-gated payload.** Keyed to the **chromosome-3 Neanderthal haplotype** (Zeberg & Pääbo, Nature 2020) that raises severity of a respiratory syndrome and is **rare/absent in East Asians**, ~50% in South Asians, ~16% Europeans, ~10% Latin Americans.
 - **Mechanism = POSITIVE kill-switch** (corrected from earlier "inverse" mislabel): payload switches **ON where the haplotype is present**, silent where absent. Therefore it kills **preferentially in South Asia** (highest carrier frequency) and **spares East Asians** (who almost never carry it). The designers (East-Asian-aligned powers) built it to spare themselves and hit everyone else.
-- **Europe / Britain: ~16% die acutely** (haplotype carriers). The ~84% who lack it survive the acute phase but are infected and carry the latent construct. Via the gene drive, **nearly all of the next generation** inherits it and faces the puberty trips. The West escaped the acute massacre, got caught by the generational one.
-- **America: admixed ~10–15% die acutely** (weighted carrier frequency: ~16% Euro-ancestry, low African- and Asian-American, ~10% Latin American). Everyone infected carries latent; gene drive spreads it; next generation near-universally subject to trips. The PPA governs an America where almost every family has hidden a kid through the episodes.
+- **Europe / Britain: ~16% die acutely** (haplotype carriers). Many survivors carry the synthetic construct. Children infected before adolescence become the first large puberty-gated cohort; later descendants may inherit it through the gene drive. The West escaped the worst acute massacre, then confronted widespread activation.
+- **America: admixed ~10–15% die acutely** (weighted carrier frequency: ~16% Euro-ancestry, low African- and Asian-American, ~10% Latin American). Many survivors carry the latent construct; children already alive during the outbreak begin threshold episodes as they enter puberty, while later descendants inherit the risk. The PPA builds its registry around this first mass cohort.
 - **Theme:** the acute phase reads as a South-Asian / Global-South catastrophe the West partly watched from afar; the puberty phase equalizes the horror. Two-phase weapon: Phase 1 spares most of the West, Phase 2 catches its children.
-- **Maren Rahman (Eli's mother) = truly British, haplotype-NEGATIVE.** Birth name **Maren Holt**. European (~84% lack marker) → survived acute phase, infected, carried latent construct, passed it to Eli via gene drive. **Rahman** is her **married surname** — she wed **Arif Rahman** (now dead) and used it in keeper work. Died ~10 yrs before present, **in-region (SE Asia)**, leaving a trail; whether her death was weapon-linked is author's call. **Do not use Das** — prior draft error.
-- **Maren's work = the carrier/keeper underground.** She came East into the SE-Asian carrier-and-keeper network during the crisis — courier or researcher for the people hiding kids through their puberty trips. This is why a man in Melaka asks after "the English woman" and holds something of hers (the MS oilcloth packet). Her Britishness + the **Rahman** surname = the regional memory of her (English woman, Bengali married name).
-- **Eli's transit to Forest City (Routes B + C, locked).** Born after the acute phase. After Maren died he was raised **stateless** inside that regional carrier network; as a post-trip carrier himself he drifted through the port gray-economy — supply boats, odd jobs, no-questions labor — until **Babaji** (old friend of **Arif Rahman**) placed him at **Forest City** (Johor, Malaysia: **Free Ports Covenant** gray zone): **facilities work at the Network School compound**, platform wage, **no inheritance**. He now follows Maren's trail from Forest City to Melaka. His British ancestry is character color; his **statelessness** is why he has no home to return to.
-- **Eli's survival is NOT haplotype-dependent.** He never faced the acute payload; inherits only the latent construct, faces the puberty trips.
+- **Maren Rahman (Eli's mother) = truly British and a natural carrier.** Birth name **Maren Holt**. Her carrier biology predates the weapon and passes naturally to Eli; she does not acquire it from the outbreak or pass it to him through a later gene drive. **Rahman** is her married surname — she wed **Arif Rahman** and used it in keeper work. She disappears roughly ten years before the present; Eli believes she died then. Her body dies later in captivity and her spirit remains tethered west until Book II. **Do not use Das** — prior draft error.
+- **Maren's work = research, complicity, then the carrier/keeper underground.** Before the outbreak she studies naturally occurring carriers with Crane and Emrys, helping build tools that both aid integration and enable capture. After turning dissident, she enters the SE-Asian carrier-and-keeper network; her knowledge later helps people confronting synthetic threshold episodes. This is why a man in Melaka asks after "the English woman" and holds her ring.
+- **Eli's transit to Forest City (Routes B + C, locked).** Born around 2018, long before the acute outbreak. After the attack kills Arif and removes Maren, he is raised **stateless** through the regional carrier network. His natural adolescent threshold is incomplete and pre-outbreak; later he drifts through the port gray-economy until **Babaji** places him at **Forest City**: facilities work at the Network School compound, platform wage, no inheritance. The outbreak refuge becomes part of his adult life, not his birthplace or psionic origin.
+- **Eli and the acute payload:** he survives the outbreak-era crisis; exact infection status need not be stated on-page. Whatever exposure occurred, it did not give him his capacity. His ancestry does not make survival automatic because the weapon sorts haplotypes statistically, not by identity.
 - This haplotype affects **disease severity / expression**, NOT initial infection — keep wording honest.
 - **The leak (plot device):** frequency is never 100%/0%. Even in Bangladesh ~half survived; in the US admixture scatters the marker. The sparing is **statistical, not clean** — weapon mis-sorts the population. PPA governs a mis-sorted America.
 
 ### Phase 2 — Latent / Heritable
-- Gene-drive component integrates into **all survivors** (target and non-target alike), lying quiet, passed to offspring.
-- **Hormonally gated to puberty** (see §3). Drives the series of DMT trips, then the awakening.
+- The gene-drive component integrates into many survivors, lies quiet or partially expressed, and can pass to offspring.
+- It **lowers or disrupts access to receiver biology already latent in humanity**. It does not create the receiver or the field.
+- **Puberty is the strongest gate** (see §3), especially for children infected before adolescence and later construct-bearing descendants. Adult activation is possible under illness, stress, charged-ground exposure, or deliberate induction, but is less predictable.
 
 ## 3. THE PUBERTY TRIGGER (real mechanism)
 - Steroid hormones (estrogen/testosterone) are natural gene switches. They bind intracellular receptors; the hormone-receptor complex binds a **hormone response element (HRE)** upstream of a promoter and recruits transcription machinery → gene turns ON. This is how puberty itself works.
 - The construct sits behind a **synthetic promoter carrying BOTH estrogen-response and androgen-response elements**, so it triggers in girls and boys alike.
 - Pre-puberty: hormone low → receptor unbound → promoter silent → dormant, heritable, harmless-looking.
 - Puberty: hormone surge → receptors bind HREs → promoter switches ON → Phase-2 payload expresses.
-- The weapon has **no internal clock**; it hijacks the body's own puberty clock. Each generation hits the same wall.
+- The weapon has **no internal clock**; it hijacks the body's own puberty clock. Puberty supplies the most repeatable threshold, not the only possible activation route.
 
 ## 4. THE DMT TRIGGER (real mechanism — the same switch, second job)
 - Body already makes DMT via **INMT** (tryptamine → DMT, SAM methyl donor); tryptamine from tryptophan via **AADC**. DMT degraded by **MAO**. Endogenous DMT measured in brain/blood/CSF (Barker, Szábo). Pineal "dream DMT" = Strassman hypothesis, UNSETTLED — keep pineal out of hard science; if used, frame as characters' belief.
@@ -62,9 +81,9 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 - One mechanism, three payoffs: **timer (puberty), crisis (DMT trip), dreams (ability seeding)**.
 
 ## 5. THE ABILITIES (the one speculative leap)
-- The trigger timing, DMT trip, and DMT flood are **explained science**. The **actual awakened abilities are fiction** — the species' "dark matter," never switched on until the construct.
-- **The construct is the near-future door to the cosmic layer** — see §9. The puberty trips wake the dormant receiver; what it tunes into (the field / Grid / the dead) is the deep mythos of `00_MASTER_TIMELINE.md` and `39_psion_biology.md`.
-- Rule: abilities awaken **only in those who survive the puberty trips**. Dead-at-once (Phase 1) and trip-non-survivors get nothing. This keeps the demographic clean: abilities track the post-trip survivors.
+- The trigger timing, DMT trip, and DMT flood are **science-anchored speculation**. The **actual awakened abilities are fiction** — the species' "dark matter," rarely accessible through natural carriers before the construct and forced into mass expression afterward.
+- **The construct is a near-future forced door to the cosmic layer** — see §9. Natural carriers had opened that door before the weapon; the construct makes access widespread, unstable, and politically visible. What either route tunes into (the field / Grid / the dead) is the deep mythos of `00_MASTER_TIMELINE.md` and `39_psion_biology.md`.
+- Rule: a synthetic threshold episode does not guarantee a usable ability. Survival, integration, practice, and individual biology shape expression. Natural carriers remain the proof that the capacity predates the outbreak.
 - The "second pathway" is intentionally undefined in the bible; invent per character. The science only explains _when_ and _how_ the switch flips and _why_ it feels like dreaming awake.
 
 ## 6. POV / VOICE RULES (lock now)

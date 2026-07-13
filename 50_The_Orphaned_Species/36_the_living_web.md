@@ -36,7 +36,7 @@ The real dangers:
 - **Autopilot** — rattle/surge deposits charge; conditioning tries to **execute a command**. Manual Override = feel the charge, don't complete the act — **not** "which person am I?"
 - **Mistaking witness for mastery** — receiving a thread ≠ owning a culture, a dead person's authority, or a skill tree.
 
-The cure is practice: **clarification without collection** — receive contact, learn apprenticeship, release the thread when it passes. Volume thresholds: Vol I **survives exposure and meets the first witness-site contact**; Vol II holds limits inside relationship and pressure; Vol III clarifies the whole pattern — and the mother-thread — without seizing it.
+The cure is practice: **clarification without collection** — receive contact, learn apprenticeship, release the thread when it passes. Volume thresholds: Vol I **survives exposure and meets the first witness-site contact**; Vol II clarifies and releases the mother-thread without seizing the amplifier; Vol III tests whether connected people can govern dangerous conduct without converting connection into command or identity ownership.
 
 ## 3a. Melaka opens the receiver; charged grounds hold the teachers — LOCKED
 
@@ -96,14 +96,6 @@ Human cultures **already remembered** that certain stones and places **hold spee
 In the story these tales are usually filed as **metaphor, tourism, or superstition** — until after the breach Eli learns the folk memory was pointing at **real charged-ground behavior**: dense regions of the web where human threads **clarify** under attention and pressure. The Ring and national programs **instrument** charged grounds; ordinary people **tell stories** about them. Both are touching the same substrate.
 
 **Craft rule:** introduce talking-stone lore **locally** (one culture's name per scene), from **living characters** (growers, sailors, Emrys's footnotes, a shrine keeper) — never as a lecture that "all cultures knew." Effects before etiology: a stone **feels** like it answers before anyone names the mechanism.
-
-## 7b. The web's anchors as the Silurian seed-layer — LOCKED (author extension)
-
-The web is one (§1, §6) — Eli clarifies one connected field, not capsules. But the web's **deepest physical anchors** (charged grounds, talking stones, foundation pillars, §7a) may be **manufactured, not primordial**: the **dormant Silurian seed-layer** the dragons left on every world "in case they are needed" (`99` #11).
-
-- **What this means:** the places where the web resolves most easily are not just naturally dense nodes — they are *seeded infrastructure*, the leftover helper-layer of an endosymbiotic visitor species. The "talking stones" folk memory (`§7a`) is humanity brushing against the dormant seed-layer and naming it as speech.
-- **No contradiction with the web model:** the web is still one; its *substrate* includes the seeded layer. Eli's "one web" clarification holds. What he learns at depth is that the web's deepest anchors are **manufactured care**, not primordial nature — the dragons' contingency network, parked and waiting.
-- **Orphan-theme edge:** humanity meets this seed-layer (the anchors) as something to **own, register, or fear** (Crane's registries, the Ring's instrumentation, §7a). The dragons' model was *partnership* — the helper inside the self (endosymbiosis, `99` #11). The Fall is that partnership degraded into hierarchy: the gods mastered the made (the elves), and humanity inherited the broken version — relating to the seed-layer as property, not partner. Clarifying the web = relearning the partnership the dragons modeled.
 
 ## 8. The firing rule (retained — so clarification doesn't stall the plot)
 
