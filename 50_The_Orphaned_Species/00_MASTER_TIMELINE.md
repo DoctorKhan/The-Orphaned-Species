@@ -402,7 +402,7 @@ Pieces of the Wild **fenced off for biogeographic isolation** — islands, isola
 | Abzu / Tartarus / the underworld / the Cave | Sumerian / Greek | The Wild (its organic depth) |
 
 **Two cross-zone rules:**
-- **Guardians sit at thresholds.** The cherub with the flaming sword (Eden's gate), **Ladon** (the Hesperides), and **Tiamat "the dragon at the cave's mouth"** are one role — the zone-boundary made flesh.
+- **Guardians sit at thresholds.** The cherub with the flaming sword (Eden's gate), **Ladon** (the Hesperides), and **Tiamat "the dragon at the cave's mouth"** are one role — the zone-boundary made flesh. **Angelic orders / seraphim:** ON HOLD — may include Unseen actors with cross-plane impact; see `46` § H.
 - **The Book-5 arc discovers the zoning through multiple witnesses.** Aedan's cave record, the Seven's independent imprints, and Eli's present pilgrimage together reveal the Wild, the High Places, and the Abandonment. No single soul lives the whole sequence.
 
 *Science note (keep honest — this is the ley-line tier, not the fusion tier): `edin` = steppe and `gan ʿedēn` are real philology; Dilmun's Persian-Gulf location is real Sumerology; the Watchers/Hermon is 1 Enoch; three-tier cosmologies (sky / middle / underworld, the axis mundi) are a genuine cross-cultural pattern. **Purely mythic** are the geomagnetic-repeater claim (no physical or archaeological support — same footing as the crop-circle/ley-line layer) and the *identification* of these places with the genetic tiers. Frame the Zoning Model as the cave's cosmology laid over real comparative mythology, not a science-anchored claim.*

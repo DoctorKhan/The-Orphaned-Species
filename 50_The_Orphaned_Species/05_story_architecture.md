@@ -204,7 +204,6 @@ The story needs recurring relationships strong enough to carry the cosmology.
 |---|---|---|---|
 | **Eli** | Receiver, clue-follower, moral decision-maker | Hold all Seven without permanent capture | Wants his mother badly enough to rationalize weak clues and dangerous risks |
 | **Wren** | Survivor, operational partner, eventual beloved | Read people, routes, manipulation, and immediate danger | Must stop treating intimacy as either a weapon or trap; needs a goal independent of Eli |
-| **Rowan** *(triad; Vol II)* | Network cost-keeper; Wren's prior love; ethical rival | Remember every extraction's price; hold ledger and routes Eli cannot shortcut | Must learn love is not custody; prior claim ≠ safety (`19`, `26`, `27`) |
 | **Emrys** | Researcher, incomplete guide, anti-father | Measure and correlate what Eli only feels | Mistakes map for territory; must make a serious error and relinquish authority |
 | **The healer** | Embodied medical conscience and deification test | Perform deeper physical repair, judge bodily cost, and remain human under worship | Must refuse conscription by factions, communities, and eventually Eli; public testimony drives him through kneel → cage → burn pressure |
 | **Crane** | Ideological antagonist and organizer | Turn institutions, fear, and genuine danger into durable control | Must demonstrate why his policy is persuasive, not merely cruel |
@@ -217,7 +216,7 @@ Full flesh for present-day cast (provisional names, scene seeds, new roles): `26
 
 **LOCKED:** Wren is a **ring handler secretly running carriers out** — official role hunter, secret rescuer, ever since she failed to save the woman she loved. Her present-tense want is keeping that quiet extraction network and its people alive and uncompromised. This is the constructive-control corner with a body, it conflicts with the mother-trail every volume (Eli's heat endangers her people; the trade fork puts *her* people on the scale; her network becomes the Volume III coexistence proof), and it stays grey (the counterfeit, triage, dirty hands). Full beat: `99_open_questions.md` #3.
 
-**Triad — Rowan (working):** Wren and **Rowan** loved each other **before** Mira; Rowan is the network's **cost-keeper** (remembers exits' price). Vol I seeds only; Vol II physical entry; Vol III expands divine-pairing pressure from couple to triad. Not a jealousy triangle — Wren/Rowan bond stays real without Eli. Architecture: `19_romance_and_divine_pairing.md` § triad; flesh: `26` § Rowan.
+**Romance (dyad — Rowan off-page, 2026-07):** Wren's prior love (the one before Mira) is referenced, never on page; it is the source of her custody instinct, which flares on Eli's danger and her own history. The romance is a **dyad** (Eli/Wren). Architecture: `19_romance_and_divine_pairing.md` § triad (now moot); flesh: `26` § Rowan (off-page).
 
 ### The recurring enemy team
 

@@ -26,7 +26,6 @@ See `26_present_day_cast_expanded.md` § Emrys for full profile.
 |---|---|
 | Eli | dry straight man |
 | Wren | armor-break |
-| Lani | staged performance |
 | Forest City | warm dry |
 
 ## Volume density

@@ -32,7 +32,8 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Broken-line church** | `37_deep_time_source.md` § *The broken-line church* | Present set-piece | Vol II **Ch 20** — negative end / pews, positive end / sacristy. | II |
 | **Nephilot trail — Göbekli → massacre → Alba/elf** | `37_deep_time_source.md` § *Tracking the Nephilot line* | Discovery arc | **Ch 18** start → **Ch 20** Pömmelte → **Ch 22** Alba/elf name. | II |
 | **Dead zones & scour** | `37` § *Dead zones*; `38` § *Scour* | World + war mechanic | **I Ch 8, 11** seed → **II Ch 20** named → **III Ch 23** scour warfare. | I–III |
-| **Archangels / sarim layer** | `46_divine_council_roster.md` §§ E, G | Late folk-memory + **character ladder (LOCKED)** | I: *angel* surge + Sora Michael medal → II: Daniel/church/callsign → III: Michael shard, Gabriel refusal, Persia reveal. | I–III |
+| **Archangels / sarim layer** | `46` §§ E, G | Name seeds; **agency ON HOLD** | I: *angel* surge + Sora Michael medal → II: Daniel/church/callsign → III: refusal beats. Cross-plane actors TBD (`46` § H). | I–III |
+| **Angelic orders / seraphim** | `46` § H | **ON HOLD** | Cross-plane agency, taxonomy, appearance — not locked. Soft seeds: church art (II Ch 20); name ladder § G. | II–III |
 | **Qingu-blood propaganda vs We-ila truth** | `37_deep_time_source.md` | Motif | The two creation myths surface as clarified shards and as carried-song fragments that survive in the web (Lira → Derw → … → Eli clarifies them). | II–III |
 | **The wheel / sun-wheel** | `37_deep_time_source.md` | Motif | Recurring image: granary glyph, then chariot banner, then helmet, then final-flag inversion. | I–III |
 | **Social atomization sequence** | `40_concepts.md` | Structural register | Showed as present pressure, not lecture: housing, clan-break, romance overload, managed belonging. Linked to the Three Circles collapse. | I–III |
@@ -212,7 +213,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Setting:** South Asia / Persian Gulf corridor.
 - **The healer and Eli meet** because independent clue chains cross on the same wounded party.
 - **Healer refuses** to become Eli's cure or a faction's resource; **"kneel → cage → burn"** pressure begins.
-- **Wren's objective conflicts openly** with Eli's search; **Rowan** enters physically.
+- **Wren's objective conflicts openly** with Eli's search; her off-page prior-love history surfaces as over-management, not a new character (`26` § Rowan; `27` § Wren).
 - **Tem's record** introduces distributed contact and broken routes — full-res at **17:1 grain-pit** site (record here; site TBD in `99`).
 - **Forward clue:** Mesopotamia → Anatolia.
 
@@ -246,7 +247,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Setting:** Continental Europe.
 - **Dead zones (plot — name and map):** scoured wedges; fauna refuse; growth blank; Wren detours (`37` § *Dead zones*).
 - **Nephilot trail (plot — massacre):** **Pömmelte** — gendered shafts; aDNA unrelated women/children; **women targeted** (carrier purge).
-- **Broken-line church (plot):** negative end / pews, positive end / sacristy; depleted laity, charged clergy; **Michael/Gabriel** iconography at draining end (`46` § G).
+- **Broken-line church (plot):** negative end / pews, positive end / sacristy; depleted laity, charged clergy; **Michael/Gabriel** iconography optional (`46` §§ G, H — agency ON HOLD).
 - Rival team temporarily useful; states/firms claim carrier ownership.
 
 ### Ch 21 — The Riddling Node
@@ -292,6 +293,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Setting:** Albion landscape with place-name fossils.
 - **The council roster lands as landscape rhyme:** Beth-Horon, Beth-Shemesh, Anathoth, Jericho — names that no longer know they are god-names. The divine council survives as geography; the Igigi administrators did not vanish, they sank into the map.
 - **Archangels (plot — double-read):** liturgy names **Michael**; map reads **Horon**, **Shemesh**, **Anat** — same council, three liturgies (`46` § G).
+- **Seraphim (plot — ON HOLD):** Isaiah 6 beside live ground — do not lock until `46` § H unlocked.
 - **Deuteronomy 32:8–9 / Psalm 82 register** surfaces as plot evidence — not as proof but as the story's thesis already written in scripture; the council judged by the elder apex; the controllers' fall remembered in Hebrew dress.
 - **Asherah is the casualty shown** through suppressed landscape and Anthea parallel: the mother-consort is first edited out when the pantheon collapses into one father.
 

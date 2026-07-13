@@ -83,6 +83,16 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 
 **Grandiosity vs humility** — chosen-one chord fed by fallen and factions; mature answer is **collective** (fire spreads, not messiah).
 
+### Rise-and-mature — the anti-Paul spine (LOCKED, 2026-07-12)
+
+Eli's through-line is an **ascent**, not a flat run of refusals: he *achieves* worldly things across all three volumes — competence, allies, a network, real wins, a following — so the apex refusal costs the maximum. **He is the anti-Paul** (Dune, through *Messiah*): he climbs like Paul, then graduates exactly where Paul fell — refusing to become the fixed point everyone orbits, dissolving the myth instead of wearing it.
+
+- **Vol I — prey → agent:** learns to *act* (reads a field, protects the Thila community — a built win); earns Wren and Emrys; survives Melaka. His flare is a double-edged "arrival" (rise = exposure).
+- **Vol II — agent → player:** wins against the Custodians, grows a coalition; the **transmission/Bard capacity** (his one positive power) emerges. The myth accretes *against his will* (Son-of-Man pressure, a following). Power up; entanglement up.
+- **Vol III — apex, then descent:** he genuinely *could* seize the amplifier throne (Crane) or be the armed prophet (Sol). The graduation is the **festival crown** — he wears it to run the union act, then **takes it off**, dissolving his centrality back into the web, **at a cost that frays the coalition and kills people his restraint could have saved.** Coda: crew member, not commander.
+
+**He sees the cost of imbalance both ways:** permanent throne = the cage (gods, Crane, amplifier); permanent refusal = the abandoned (the woman his restraint kills, `49` Scene 0; the coalition that frays). Maturity is the **rhythm** — gather at surplus/necessity, disperse after — and the discovery that **connected people don't need managing** (only the disconnected do): his job is not to rule but to *reconnect*, after which his authority has nothing left to do. Positive form: `Thesis.md` § "The mature form — structure that breathes."
+
 ---
 
 ## Wren — trust, counterfeit, and open-handed love
@@ -107,12 +117,11 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 | **III** | Union tested | "Network ≠ weapon for Eli" | **Indispensable choice** — binds extraction network to accountable limits; refuses Crane, prophecy, and Eli |
 
 ### Development markers
-
 - Stops filling Eli's silences → lets him find words.
 - Admits when protection became control.
 - Lets Eli make a risky choice she disagrees with.
-- Sora defection or confrontation — Mira wound faced, not solved by romance.
-- **Rowan:** Vol I seed (controlled reaction to name/code/song); Vol II entry — custody vs consent; Wren/Rowan scenes without Eli (`26` § Rowan; `19` § triad).
+- **Prior love (off-page, 2026-07):** Wren's custody instinct now flares on Eli's danger and her own unfinished history — the prior love (the one before Mira) is referenced, never appears. No triad pole; romance is a dyad. Her wound faced, not solved by romance.
+- **Sora defection or confrontation** — Mira wound faced, not solved by romance.
 
 ### Romance five stages (`00_NARRATIVE_STRUCTURE`)
 
@@ -121,35 +130,6 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 3. Thaw tested — Vol II (Sol, compromise revealed)  
 4. Choice / union — late Vol II  
 5. Union tested — Vol III war + throne pressure  
-
----
-
-## Rowan — custody vs consent (triad pole)
-
-### Arc sentence
-
-> From **prior claim as safety** to **love without custody** — while remaining Wren's equal, not Eli's obstacle course.
-
-### Volume beats
-
-| Vol | Stage | Belief under pressure | Proof scene |
-|---|---|---|---|
-| **I** | Off-page seed | (reader sees Wren's control spike) | Wren shuts down a name/song/code; Eli misreads |
-| **II** | Physical entry; ethical rival | "I know where she's safe" | Conflicts with mother-trail; helps civilians anyway |
-| **II** | Wren/Rowan without Eli | "We can repair if she stops running" | Repair fails on timing; tenderness real |
-| **III** | Triad under mythic pressure | "Sacred pair excludes me / I exclude him" | Truthful consent; no metaphysical center |
-
-### Development markers
-
-- Admits Eli is not the first person Wren tried to save into the ground — and that her own custody impulse mirrors Wren's control.
-- Makes an indispensable choice **not** centered on winning Wren back.
-- One scene where she is **right** about Wren over-managing Eli — and **wrong** that prior claim equals love.
-
-### Triad curriculum (`19`)
-
-- **Error:** love = knowing where Wren is safest + prior claim.  
-- **Lesson:** love is not custody.  
-- End-state **open** — see `19` end-state possibilities.
 
 ---
 
@@ -245,12 +225,10 @@ Coerced family → **fracture** → broken/changed by Vol III.
 | **Hassan (witness)** | Guilt → truth at cost | Helps Eli; used as lure; fate hurts |
 | **Thila Sen** | Land vs factions | Protects community; survives Eli's choice |
 | **Sol Mendez** | Burned freedom → Eli's anti-mirror | Temptation scene; Eli refuses messiah |
-| **Dr. Priya Nair** | Visibility vs visibility | Kind registry; Eli/Wren navigate without murder |
-| **Mei Lin** | Rules vs person | Breaks rule for Eli once |
+| **Mei Lin** | Kitchen authority → kind registrar | Rules vs person; breaks rule for Eli; bends registry Vol II |
 | **Suresh** | Profit vs debt to dead | Risks boat for clue |
-| **Sora Vithan** | Collar vs conscience | Crack at boarding; arc with Wren |
 | **Farida** | Hold the line at home | One message; Eli can't return |
-| **Lani** | Performer vs symbol | Human scene before echo |
+| **Anonymous busker** (folded from Lani, 2026-07) | Performer vs symbol | Human scene before echo — now an anonymous busker flash, not a named arc |
 
 ---
 

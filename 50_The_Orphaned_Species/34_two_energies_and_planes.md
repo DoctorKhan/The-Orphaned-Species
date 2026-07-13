@@ -81,3 +81,32 @@ At Albion, Eli briefly runs **life technology + death technology together** — 
 - **Death technology:** instruments, chair/key, encoded research, geometry you can test, accountable measure.
 
 The union act is **temporary, costly, and collective**. The **Adapa** parable pays off here: bread/water of "death" was the Life bridge misread through the entropic clock. Full drafting notes: `22_life_technology_and_two_trees_spine.md` § Climax.
+
+## 8. The planes and their inhabitants
+
+*The distinction the cosmology must never blur: **which plane a being lives on, whether it wears a body, whether ordinary humans can perceive it, and whether it has free will.** §2 gives the geography; this section names the tenants. Vertical-cosmology source: `/00_NARRATIVE_STRUCTURE.md` § "the vertical cosmology, the grid-souls, and the mother."*
+
+**The geography (recap of §2, as a ladder).** There is **one plane**. The **physical / Earth-plane** is its restricted, **entropic subset** — the only register ordinary human perception reaches. Everything else is **the Unseen** (the fuller plane the locks seal humans out of): the **spirit-plane** adjacent to the physical, then **ascending planes of higher spirits**, and at the formless top the **Makers**. The **sight** (Tree of Life) is the faculty that perceives into the Unseen; a locked, Knowledge-only human is blind to all of it — *the deceivable species*.
+
+| Being | Home register | Body | Perceptible to ordinary humans? | Free will / moral status |
+|---|---|---|---|---|
+| **The Makers** | formless apex | never embodied | no — pure signal | apex; never coercive owners |
+| **Higher spirits** | ascending planes | discarnate | no — the sight only | the rungs of the climb |
+| **Dragons / Tiamat** (Tier 1) | across planes; body sleeps in the deep | organic; gone in body, a spirit persists | only via the sight / resonance | native Life broadcasters; guide Eli |
+| **The gods** — Anunnaki (elder) / Igigi (younger), Tier 2 | were physical; now discarnate (**Anu + 26** council) | gone in body, persist as spirits | no — reach humans by dream, omen, resonance | two-Tree, **extractive**; the *fallen* steer human factions |
+| **Guardian caste / daimones** — Watchers (bird), Apkallū (snake) | the Unseen | demigod; gone in body, persist as spirits | no — the sight only | **free-willed, forked**: faithful guide Eli, fallen (*daimon→demon*) whisper to Crane |
+| **The jinn** *(distinct native species — new)* | the Unseen (spirit-plane), coexisting with Earth | made of the **medium** ("smokeless fire" = life-energy), not entropic matter; not normally embodied | no — invisible to locked perception; the sight only | **free-willed, forked** (righteous vs. **Shayateen**); self-fuelled **Life-native, one-Tree** (like the "aliens" of §3) — *not* extractive gods, *not* the human dead |
+| **Hybrids** — Gibborim (sterile) / Nephilot (fertile, hidden) | physical | embodied | yes | mortal |
+| **The human dead** | spirit-plane | discarnate | no — the sight only | formerly human; persist, act, **can be tethered** (Eli's mother) |
+| **Humans** | entropic subset | embodied | yes | one-Tree (Knowledge); the deceivable species |
+
+**The jinn — a distinct line, held apart from three neighbours it is easy to confuse it with.** The jinn are the free-willed **non-human people native to the Unseen** who share Earth's plane with humanity but sit in the register the locks hide. They are **their own species**, not a remapping: *not the human dead* (never embodied, never human), *not the gods or guardians* (not part of the serpents' engineered drone/manager hierarchy — no two-Tree extraction appetite), and *not the Makers/dragons above*. Like the dragons and the §3 "aliens" they are **Life-native and self-fuelled** (one-Tree), which is exactly why they carry **free will and moral accountability**: they are neighbours, not instruments. The moral fork the book runs everywhere runs through them too — **righteous jinn** who keep faith and may aid, and the **Shayateen** (deceivers) whose whole function is exploiting human **autopilot** to misguide, the demonic edge of the same spiritual war the fallen gods and guardians wage (`/00_NARRATIVE_STRUCTURE.md` § "the war is spiritual"; ties to the deception apparatus and the player-vs-NPC test).
+
+**Still open (before the jinn are load-bearing):**
+- **Origin/cosmogenesis:** are the jinn a panspermically-seeded free line (arisen, like Tiamat's organic stock), or older still? "Created before mankind" is fixed; the mechanism is not.
+- **Relation to Earth's grid:** can they touch the ley network / charged grounds, or are they off it like the un-fused cousins and the Tier-1 serpents (`00_MASTER_TIMELINE` § "the grid's two blind spots")?
+- **Plot surface:** do the jinn appear at all in the present trilogy, or remain background cosmology surfaced only as comparative memory?
+
+**Angelic orders / seraphim / named archangels — ON HOLD (`46` § H; `99` #angelic-orders):** author direction allows **action from the Unseen that impacts the physical plane** (Daniel 10 model). Not yet mapped to guardian caste, jinn, or Igigi discarnate. **Do not draft load-bearing scenes until unlocked.**
+
+**Islamic register — held (do not write yet).** The full *"one history, many liturgies"* mapping of the jinn — **Al-Ghayb** = the Unseen, **Shayāṭīn** = the deceiver fork, **Iblīs** = the arch-deceiver, the Qurʾānic "smokeless fire" — belongs in `45_divine_names.md` with a matching `95_glossary.md` entry, **pending a separate pass** (mapping confirmed: *distinct native species*). **Guardrail:** map the jinn *as creatures* only; do **not** extend the mapping to Allah Himself — the apophatic-apex framing already covers the divine name, and equating a living faith's God with the engineered cosmology is the one move that reads as offensive rather than clever.

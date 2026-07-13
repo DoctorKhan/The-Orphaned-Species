@@ -229,7 +229,7 @@ This is a telos, not a moral endorsement of every artifact. A weapon, registry, 
 
 Science is the mature discipline inside this telos. It reduces fear by making repeatable portions of a phenomenon public, testable, and accountable. A priest can manipulate a population by calling a predicted meteor shower a curse; a scientific culture can forecast it, compare observations, revise the model, and remove the supernatural threat from the event without stripping the sky of wonder. The same principle must apply to psions: test claims, define conditions, measure limits and costs, protect consent, document harm, and hold conduct accountable without treating a person's nature as state property.
 
-The evolutionary test is coexistence with living power. Humanity previously worshipped, hunted, bred, screened, and exterminated beings stronger or stranger than itself. It passes only when healers, psions, carriers, dragons, plants, spirits, transformed humans, and other anomalous beings can enter ordinary reciprocal life without becoming gods, prey, specimens, commodities, or state assets. Accountability remains attached to conduct; fear is no longer attached to nature.
+The evolutionary test is coexistence with living power. Humanity previously worshipped, hunted, bred, screened, and exterminated beings stronger or stranger than itself. It passes only when healers, psions, carriers, plants, spirits, transformed humans, and other anomalous beings can enter ordinary reciprocal life without becoming gods, prey, specimens, commodities, or state assets. **The dragon is the one absence the community cannot integrate: it is the spectral remnant of an alien species that briefly visited, helped engineer the gods, and left — not a native Earth being humanity drove off, but a visitor's trace the final community can only reckon with, never join.** Accountability remains attached to conduct; fear is no longer attached to nature.
 
 The final recognition is retrospective inevitability, not fate. Once coexistence is demonstrated, the long history becomes legible: ritual, astronomy, science, law, medicine, communications, computation, and community were all partial rehearsals for living beside power without surrendering agency. It has always been like this because the same problem has always been returning. The ending reveals the pattern; it does not prove that the outcome was guaranteed.
 
@@ -533,3 +533,27 @@ If this distinction blurs, the canon starts arguing against itself. The hostile-
 ### Craft rule
 
 Use herem as a structural memory, not an apologetic lecture. The story does not need to defend Joshua. It can borrow the pattern: a corrupted ground or bloodline cannot be looted, domesticated, romanticized, or absorbed. It has to be taken out of circulation before the human social body can heal.
+
+---
+
+## The three circles — meaning-of-life spine (LOCKED, 2026-07)
+
+The trilogy's deep subject is **discovering the meaning of life through three concentric circles of relationship**, resolving into the **unification of the two trees** as the historical endpoint.
+
+1. **Body** — the relationship to one's own body/self, where you *befriend the parts that try but fail to be happy*: the NPC/robot within (automatic seeking, the receiver's surge, the TBI scar, appetite, habit). Integration, not suppression or possession. *The body circle is the autopilot thesis (`10_triangulation_of_control.md`) completed: first the occupant steps in as the player; then he befriends the NPC he took the controls from.*
+2. **Family** — how we became atomized; how bonds can be *chosen* and better. The orphan wound; Forest City as chosen family; the mother Eli cannot return to.
+3. **Civilization** — how it becomes Machiavellian and disconnected (Crane's registry, the collar); how one can *choose how to fit in* without being owned by it.
+
+**Relationship to the rest of the design:**
+- The **four-corner grid** (`05`) is the *political* expression of circles 2–3. The three circles are the *lived* spiritual path. Eli's outer plot (mother, registry, web) is the vehicle; the inner plot is moving from estranged → befriending at each circle, then unifying the two trees (Life + Knowledge made one; body/family/civ in right relation) — the historical endpoint, **not a throne**.
+- **Mapping to cast:**
+  - *Body circle:* Eli's receiver/TBI; the healer's bodily refusal (crown of the body, `05`); the Custodians as "NPCs" who took the collar (programmed, owned).
+  - *Family circle:* Eli's mother search; Wren's prior-love/custody instinct; Forest City; Farida.
+  - *Civilization circle:* Crane; the registry; Sol's faction; the final coalition.
+  - *Two-tree unification:* the web clarified as one field; care without ownership; the Vol III endpoint.
+
+**Body-circle anchor — the kiss/feeding image (from the care-without-ownership note):** the oldest human bonding gesture is a caregiver passing sustenance *directly* — mouth to mouth, no system between. That is care without ownership; the **collar is its inversion** (a bonding ritual captured into control). The web's deepest human echo is being *fed*, not *ruled*. Vol III should land this physically: Eli understanding the field as receiving care, not receiving command.
+
+**Craft rule:** the three circles must be **incarnated** (a body, a lost bond, a known person harmed by the system), never argued as abstraction. The uninspiring risk is real if the circles stay thesis — they live only on the page, in a chest, in a loss.
+
+**The positive form — structure that breathes (the alternative to refusal).** The Civilization circle's *"choose how to fit without being owned"* and the Family circle's de-atomization share one positive answer, so the ending is not renunciation: **temporary, self-dissolving authority** — the *festival crown* (leadership worn and removed, never *becomed*) running on a *fission–fusion* rhythm (split into self-governing groups; reaggregate only at **surplus or necessity**; disperse again). The cost of imbalance runs **both ways** — permanent hierarchy is the cage, permanent dissolution is atomization — so maturity is the *rhythm*, not either pole. This is the positive content of the climax dispersal (`41` §46) and the "third door" (`49` § G). Full statement: `Thesis.md` § "The mature form — structure that breathes."

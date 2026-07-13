@@ -119,7 +119,7 @@ Frame: Targum Pseudo-Jonathan on Deut 32:8 reads "**70 angels**" for the divine 
 2. **Guardian princes** (Daniel 10 — *sar* of Persia, Greece, Israel)
 3. **Angels / archangels** (Targum on Deut 32:8 — *70 angels*; medieval four-name compression: Michael, Gabriel, Raphael, Uriel)
 
-Same history, three liturgies. The book treats **(3) as derivative memory of (1)**, not as a separate heaven full of winged beings.
+Same history, three liturgies. The book treats **(3) as derivative memory of (1)** in one reading — **whether discarnate agents also answer to those names on the Unseen is ON HOLD** (`46` § H; `99` #angelic-orders).
 
 | In-fiction layer | What "archangel" often means | Strong anchor |
 |---|---|---|
@@ -141,7 +141,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | **Custodians / psion teams** | Modern collared carriers — may **invoke** archangel names as cover |
 | **Winged rescuers in Act I** | Iconography, entrainment vision, or faction branding only |
 
-**Craft rule:** no literal winged figure saves Eli on-page unless the scene is clearly **art, dream, or psionic hallucination** — and even then, effects before theology.
+**Craft rule (until § H unlocked):** effects before theology. **Do not** commit in prose to "only folk memory" **or** "real winged rescuers" until author picks hypothesis A/B/C in `46` § H.
 
 ### How to dramatize (effects first)
 
@@ -169,9 +169,9 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 
 **Status:** pinned in plot layer; **not yet in `MANUSCRIPT.md` prose.**
 
-### Character ladder — allude → reference → recontextualize (LOCKED)
+### Character ladder — allude → reference → recontextualize *(plot seeds — agency ON HOLD)*
 
-*Specific archangels are **relevant characters** — but not a second Seven. The Seven are **practitioners** Eli clarifies as deep human threads. Archangels are **titles for the territorial layer** — how power names a divine **portion**. Payoff = **recognition**, not recruitment.*
+*Michael, Gabriel, and Persia-prince **names** are worth planting across the trilogy. **Whether they are titles only, or other-plane agents who can act on Earth, is not decided** — see § H.*
 
 **Best shape for this trilogy:**
 
@@ -179,15 +179,15 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 |---|---|---|---|
 | **Allude** | I | Body only — word-trigger surge on *angel*; maybe Shield's medal, a patch, a line in a prayer; **no wings, no theology** | *angel* (generic) |
 | **Reference** | II | Names attach to **institutions and blocs** — Daniel *sar* dispute (Ch 16); Michael/Gabriel **miswired** in church (Ch 20); briefings say "Archangel Protocol" / "Michael's corridor" / "Persia prince holding the line" | **Michael**, **Gabriel**, **Prince of Persia** (unnamed ◆) |
-| **Recontextualize** | III | Names **pay off as roles**, not new cast members — landscape double-read (Ch 25); healer refuses **Gabriel** messenger role (Ch 26); convergence (Ch 28–29) | **Michael** may **clarify** once; **Gabriel** should **not** appear as a person |
+| **Recontextualize** | III | Names pay off — **mode TBD** (recognition vs. contact vs. both) | **Michael**, **Gabriel**, **Prince of Persia** |
 
 **Pick three, not seven.** Treat only these as load-bearing "characters":
 
 | Name | Narrative job | How they "appear" |
 |---|---|---|
 | **Michael** | The **protector title** — keeper faith, Shield's conscience, "who guards Israel's portion." The name people trust when they want safety. | **Vol II:** iconography + faction language. **Vol III:** optional **one** watched-depth or full-res clarification at a western/Israel-linked charged ground — *not* an ally with wings; a **shard** of the portion-holder logic Eli finally reads. Rhymes with **Manual Override** (refuse the protector who owns you). |
-| **Gabriel** | The **messenger title** — the crowd's crown for the **healer specifically**: *the one who brings word/cure from above* (Eli's crown is different — chosen-one/king, see Metatron row and `05` "two refusals, two crowns"). | **Vol II:** stained glass, annunciation echo in rumor. **Vol III:** **never embodied.** Payoff = **healer's** refusal of the messenger/Son-of-Man crown (Ch 26). Gabriel "appears" only as the **role everyone tried to force on a human body**. |
-| **Prince of Persia** | The **rival bloc** — Daniel's unnamed blocker; the other portion's operator. | **Vol II–III:** living **human** antagonist or psion unit **codename** first (reader thinks it's a person). Late reveal: the codename was always the **national sar** — the partition war, not a demon in a cape. |
+| **Gabriel** | The **messenger title** — crowd crown for the **healer** (*word/cure from above*). | **Vol II:** rumor/iconography. **Vol III:** healer refuses messenger/Son-of-Man crown (Ch 26) — **whether a real Gabriel acts on the Unseen = ON HOLD** |
+| **Prince of Persia** | **Rival bloc** — Daniel's blocker. | **Vol II–III:** callsign first; late reveal at minimum **national sar** — **whether an other-plane agent backs the bloc = ON HOLD** |
 
 **Use lightly or not at all as characters:** **Raphael** (European church / Tobit color in Ch 20 only); **Uriel** (optional one line); **Metatron/Sandalphon** (apocrypha — **Eli/healer elevation fear only**, never allies).
 
@@ -206,12 +206,55 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 |---|---|---|---|
 | *(generic)* **angel** | **Ch 1 or 8:** word-trigger surge in song/prayer — body only (`SOURCE_the_surges`) | — | — |
 | **Michael** | **Ch 8:** **Sora Vithan** — medal or prayer fragment under collar; protector faith, no exposition (`26` § Sora) | **Ch 16:** *sar* vs angel in dispute; **Ch 20:** Michael in church glass at draining end | **Ch 25:** landscape/liturgy double-read; **Ch 29 (optional):** one watched-depth shard at western charged ground — portion logic, not winged ally |
-| **Gabriel** | — | **Ch 19–20:** annunciation echo in healer rumor; Gabriel in church iconography | **Ch 26:** **healer** refuses **messenger/Son-of-Man** crown (the body's crown) — Gabriel **never embodied**. *(Eli's Ch 27 refusal is a **different** crown — the king/amplifier-voice, not the messenger; see `05` "two refusals, two crowns.")* |
+| **Gabriel** | — | **Ch 19–20:** annunciation echo in healer rumor; Gabriel in church iconography | **Ch 26:** healer refuses messenger/Son-of-Man crown *(agency mode ON HOLD — `46` § H)* |
 | **Prince of Persia** | **Ch 13:** rival psion team on the ground (no name yet) | **Ch 16:** Daniel register + unit callsign **"Prince"** or **"Persia hold"** in intercept/briefing | **Ch 28–29:** codename resolves to **national sar** — partition war, not a demon; human operator was wearing a title |
 
 **Cast lock:** **Sora Vithan** carries Michael (Vol I seed → Vol III defection rhymes with refused protector). **Rival national team** wears Persia-prince callsign (Vol I Ch 13 → Vol III reveal). **Healer** carries Gabriel projection (Vol II rumor → Vol III refusal).
 
 **Still open (`99`):** Michael vs Gabriel at church draining end; rival team nationality + **Prince** callsign holder's personal name; whether Michael watched-depth lands Ch 25 or Ch 29.
+
+---
+
+## H. Angelic orders & seraphim — **ON HOLD**
+
+*Author direction (Jul 2026): angelic beings — including **seraphim** and the named **archangels** — may **act from the Unseen / spirit register and impact the physical plane** (omen, dream, charged-ground contest, grid pressure, pursuit, aid, or harm). That is **not foreclosed**. Decisions about **which orders are real actors vs. misread memory vs. both**, and **how they appear on-page**, are **deliberately paused** until the plane map in `34_two_energies_and_planes.md` §8 and the guardian/jinn lines are reconciled.*
+
+**Do not draft load-bearing angel scenes until this section is unlocked.**
+
+### What stays usable now (soft pins — not cosmology locks)
+
+| Element | Status | Notes |
+|---|---|---|
+| **Name ladder** (Michael, Gabriel, Persia prince) | Plot **seeds** only | Vol I–III references in § G plot ladder — iconography, callsigns, refusal rhymes |
+| **Sora's Michael medal** | Cast seed | Vol I Ch 8 — faith object, no theology dump |
+| **Broken-line church** | Set-piece geometry | Cherub/seraph **art** at threshold/ceiling optional — miswired polarity; **whether a being is behind the art = ON HOLD** |
+| **Word-triggers** (*angel*, *seraph*, *holy*) | Eli body | `SOURCE_the_surges.md` — sensation only until agency decided |
+| **Healer refusal / Eli anti-throne** | **LOCKED** drama | Independent of whether Gabriel is a real messenger elsewhere |
+
+### What is ON HOLD (decide before prose)
+
+1. **Cross-plane agency** — Can Michael/Gabriel/seraphim **do things** on the Unseen that change outcomes here (block a message like Daniel 10, flare a ground, warn, mislead, heal at a distance)?
+2. **Relation to existing tenants** (`34` §8) — Same lane as **guardian caste / daimones**? Subset of **Igigi discarnate**? Distinct from **jinn**? Overlap with **Anu + 26** influence?
+3. **Seraphim specifically** — Real **order** with fire/threshold role, or only Isaiah misread, or **both** (real actors remembered as six-wing icons)?
+4. **Nine choirs taxonomy** — Use medieval ladder at all, or only biblical shards (seraph, cherub, malʾakh, sar)?
+5. **On-page appearance** — Discarnate contact only (dream, rattle, entrainment)? Brief manifestation at charged ground? Never winged bodies in Act I?
+6. **Gabriel / Michael as "characters"** — § G ladder assumed **recontextualization not recruitment**; author may want **genuine other-plane agents** instead — **not decided**.
+
+### Working hypotheses (do not treat as locked — pick one later)
+
+| Hypothesis | Summary |
+|---|---|
+| **A — Liturgy only** | Orders = degraded memory of grid roles (prior § H draft). Impact on Earth = **indirect** (human belief, miswired church). |
+| **B — Cross-plane actors** | Orders = **discarnate offices** on the Unseen; can **contest routes, grounds, and messages** (Daniel 10 model). Folk memory **names real functions**. |
+| **C — Hybrid** | Some orders were real administrators (archangels/sarim); seraphim/cherubim = **guardian-caste** threshold/fire functions; medieval nine-choir list = later garble of A+B. |
+
+**Plane mechanic (when unlocked):** action on Earth must route through mechanisms already in canon — **resonance, dream, omen, charged ground, entrainment, tether, grid** — not arbitrary miracle. See `34` §2, §8; `38` psionic combat.
+
+### Draft material retained below *(hypothesis A only — not current lock)*
+
+Early working map: nine choirs = late scholastic re-sort; possible reads include seraphim as interface-fire, cherubim as thresholds, archangels as sarim. **Superseded by ON HOLD** until A/B/C chosen in `99` #angelic-orders.
+
+**Status:** **ON HOLD** — `99` #angelic-orders. Plot seeds in § G remain; cosmology and appearance **not locked**.
 
 ---
 

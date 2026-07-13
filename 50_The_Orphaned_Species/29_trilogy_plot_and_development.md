@@ -78,7 +78,7 @@ Source: `05` §7 table; `00_NARRATIVE_STRUCTURE` § legs 2–7; `31` Vol I detai
 
 | Tier | What it is | Examples | Plot function |
 |---|---|---|---|
-| **A — Formative / living** | Communities, teachers, refuge — **not** ley routing grounds | Philippines (Kali), Bali (subak/gamelan), **Forest City**, childhood Pai/Lani | Body, hearth, belonging; practices **before** cosmology names them |
+| **A — Formative / living** | Communities, teachers, refuge — **not** ley routing grounds | Philippines (Kali), Bali (subak/gamelan), **Forest City**, childhood Pai (busker echo, unnamed) | Body, hearth, belonging; practices **before** cosmology names them |
 | **B — Threshold / human crossroads** | Ports, cities, corridors under war pressure | **Melaka**, Singapore archive, maritime boarding | Breach, pursuit, documents, faction collision |
 | **C — Sacred sites / grid interfaces** | Buried or standing **routing grounds** on the ley network; stones **deflect lines inward** to a communicative center | **Göbekli**, **Stonehenge**, **Rollright**, **Men-an-Tol** (+ contested Mesopotamian **memory sites**) | Descents, artifacts, psionic set-pieces, mother tether |
 
@@ -106,7 +106,7 @@ Source: `05` §7 table; `00_NARRATIVE_STRUCTURE` § legs 2–7; `31` Vol I detai
 | Site | Volume | Seven / deep thread | Present-day role |
 |---|---|---|---|
 | **South Asia rice community** | I climax | **Ila** (partial contact mid Vol I; full geography open) | Forming **ley line** in paddy; choose people over evidence |
-| **Göbekli Tepe** | II heart | **Aru** (carver), **Daskar** (burier); fox-pillar | **Buried instrument**; first enormous present↔deep convergence; plaquette snake/tree/bird grammar (`35`) |
+| **Göbekli Tepe** | II heart | **Aru** (carver), **Daskar** (burier); fox-pillar | **Buried instrument + MAJOR REVEAL — what the elves are.** First enormous present↔deep convergence; the spiral-in-the-eye is a **selection mark**; Göbekli is the **Qingu reserve seal + Nephilot down-breeding site** (the elves' origin). Faction **race to reach the sealed interface first**. Plaquette snake/tree/bird grammar (`35`). |
 | **Persian Gulf / Eridu–Adapa memory** | II leg | Adapa lacuna; Enki/Ninmah; King List | **Artifact + story leg** — texts, copies, disputes; see **Dilmun** below |
 | **Anatolia (Anthea)** | II | **Anthea** — Bronze Age singer | Sonic/routing; distinct from Wren |
 | **Stonehenge** | III | **Cuno** — bluestone mover; last firing | **Cathedral ground**; most powerful, most watched; Cuno→Derw transmission |
@@ -254,7 +254,7 @@ Each leg owes beats from `22`:
 - Family-role traps: child/parent, lover/destiny, teacher/father, caregiver/conscription.
 - Tem record; Wren vs Eli objective **open conflict**.
 - National psion war visible as policy, conscription, desertion.
-- **Rowan** physical entry; triad pressure (`26`, `19`).
+- **Wren's prior-love instinct** flares (off-page reference); custody-vs-consent pressure now internal to Wren's dyad with Eli (`26`, `27`).
 
 ### Act II — The old wound *(Ch 16–17)*
 - Adapa / Qingu / Mesopotamian traces (human scale); **patriarchy chord** at domestic scale (`37` § *Patriarchy*).
@@ -355,7 +355,7 @@ Each leg owes beats from `22`:
 
 ### Romance plot (parallel spine)
 - I: recognition refused → forced alliance → sanctuary beats.
-- II: thaw tested; trade fork; Rowan triad; commitment late II.
+- II: thaw tested; trade fork; Wren custody instinct (off-page prior love); commitment late II.
 - III: union tested; throne/destiny pressure; release thesis (`19`, `27`).
 
 ### Life / Knowledge discovery (`22`)
@@ -384,7 +384,7 @@ Key hinges:
 | Vol I climax — choose people | Eli Manual Override; Thila face |
 | Vol II — Emrys taken | Eli surpasses anti-father; Emrys error on page |
 | Vol II — trade fork | Wren third loyalty |
-| Vol II — Rowan entry | custody vs consent |
+| Vol II — Wren custody instinct | Wren's off-page prior love; consent internal to dyad |
 | Vol III — release mother | Eli grief + liberation |
 | Vol III — Wren choice | network not weaponized |
 | Vol III — healer refusal | deification test |

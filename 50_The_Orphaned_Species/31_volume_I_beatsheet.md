@@ -81,7 +81,7 @@
 - **Attachment:** the romance — recognition under uncertainty; complementary cowardice (he'd cup the spider; she falls apart at being cared for). **Street romance register:** at least one sanctuary beat (food, watch, low humor) and one shared-future gesture before descent pressure spikes (`19_romance_and_divine_pairing.md` § Street romance register).
 - **Obstacle:** Wren's network and Eli's clue pull opposite ways; a boarding (piracy + inspection + a Custodian traveling with the boarders); Eli's sailing earns him a watch but a real sailor is indispensable; **the Shield (Custodian) shows conscience** when civilians are at risk.
 - **Choice → Cost:** Wren chooses to keep helping Eli over a clean extraction window. Cost: someone in her network pays; her resentment and guilt deepen.
-- **Rowan seed (optional):** Wren receives a **coded ping, manifest name, or song fragment** tied to **Rowan** — shuts it down with too much control; Eli reads tactical fear, not history (`26` § Rowan; `19` § triad placement).
+- **Wren's prior-love seed (off-page, 2026-07):** Wren receives a **coded ping, manifest name, or song fragment** tied to her prior love (the one before Mira) — shuts it down with too much control; Eli reads tactical fear, not history. No third character appears (`26` § Rowan; `19` § triad moot).
 - **Past leak:** Sora — shields civilian, touches collar like wedding band; **St Michael medal** or prayer line under the uniform — protector faith, not exposition (`46` § G). Wren — Rowan ping delete + orders real food. Mira — sonic tuner on manifest, Wren goes still (unnamed).
 - **Revelation:** the Custodians are **carriers who took the collar** — Wren's dark mirror. **Forward clue:** a planted/false lead (one of the volume's wrong clues) sends them toward an agricultural report.
 - **Dead zone (plot — seed):** detour around **barren ground** — goats won't cross; Eli reads cold/flat. Vocabulary (*scour*, *dead zone*) later (`37` § *Dead zones*).
@@ -92,7 +92,7 @@
 - **Obstacle:** the report is partly stale (a line broke); the community wants no outsiders; the Custodians are a day behind.
 - **Choice → Cost:** he trusts living local expertise over his own vision and over the planted lead. Cost: time lost; the wrong clue cost them a margin.
 - **Revelation:** **plant growth is tracing something real** — the plants are the detector, no message imposed. **Forward clue:** the real geometry points south/west toward a forming line in South Asia.
-- **Past leak:** Lani — dragon-staff or field worker move triggers Pai flash: noodles, failed trick, laugh (≤ sensory beat).
+- **Past leak:** anonymous **street performer** — dragon-staff or field worker move triggers Pai flash: noodles, failed trick, laugh (≤ sensory beat; Lani's beat folded into this, 2026-07).
 
 ### Ch 10 — Midpoint: First Witness *(Eli · first witness site — South Asia approach)*
 - **Want:** stand at a charged site long enough for a thread to clarify without collapsing from exhaustion.

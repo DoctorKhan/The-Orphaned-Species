@@ -14,7 +14,7 @@
 | Trauma / internal cages (behavior under stress) | `26` Part VI + `15` § Trauma |
 | Writing Emrys comedy or warmth | `24_comedic_register_slapstick.md` + `16_reader_attachment.md` |
 | Pacing Life vs Knowledge reveals | `22_life_technology_and_two_trees_spine.md` + `17_reveal_order_and_reader_impact.md` |
-| Romance / Wren / Rowan triad | `19_romance_and_divine_pairing.md` + `27` § Wren & Rowan |
+| Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren |
 | Locked beats / open names | `99_open_questions.md` |
 | Volume I chapter order | `31_volume_I_beatsheet.md` |
 | Volume II chapter order | `32_volume_II_beatsheet.md` |
@@ -22,6 +22,7 @@
 | Science citations / epigraphs / *On the record* | `90_epigraphs_and_sources.md` § *Citation layer* |
 | Patriarchy & bloodlines chord (Tem, 17:1, Qingu) | `37_deep_time_source.md` § *Patriarchy & bloodlines* |
 | Archangels / sarim (seventy sons downgraded) | `46_divine_council_roster.md` §§ E, G — **character ladder LOCKED** |
+| Angelic orders / seraphim / cherubim | `46` § H — **ON HOLD** (cross-plane agency TBD) |
 | Dead zones / psion scour | `37` § *Dead zones*; `38` § *Scour & ground targeting* |
 | Nephilot trail / Alba–elf / Pömmelte massacre | `37` § *Tracking the Nephilot line*; `90` §6 |
 | Plot spine (3 vol, acts, gaps) | `29_trilogy_plot_and_development.md` |
@@ -41,10 +42,10 @@
 Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, contained outbreak, psion programs, tech texture, geography notes, prose markers.
 
 ### `24_comedic_register_slapstick.md`
-**Project Hail Mary register** — slapstick under catastrophe. Primary: **Emrys**. Ensemble: Eli straight man, Wren armor-break, Lani set-piece. Volume comedy density.
+**Project Hail Mary register** — slapstick under catastrophe. Primary: **Emrys**. Ensemble: Eli straight man, Wren armor-break, Mei warm-dry. Volume comedy density.
 
 ### `26_present_day_cast_expanded.md`
-**Cast flesh** — provisional names, wants/wounds/habits, scene seeds. Includes **Rowan** (triad pole; Vol I seed → Vol II entry).
+**Cast flesh** — provisional names, wants/wounds/habits, scene seeds. Romance is a **dyad** (Rowan off-page, 2026-07).
 
 ### `27_character_development_arcs.md`
 **Development arcs** — volume questions, Manual Override thresholds, Eli seven perceptual stages by volume, fellowship arcs, romance five stages, proof scenes, anti-patterns, chapter checklist.
@@ -66,7 +67,7 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 | Emrys comedy | `24`, `26` | Primary slapstick; measures-when-he-should-touch |
 | Vol I end threshold | `27`, `05` | Personal Manual Override |
 | Vol II end threshold | `27`, `05` | Relational/collective Manual Override |
-| Cast names (provisional) | `26`, `99` | Table in open questions; **Rowan** triad |
+| Cast names (provisional) | `26`, `99` | Table in open questions; romance is a **dyad** (Rowan off-page, 2026-07) |
 | Romance union | `27`, `19`, `00_NARRATIVE` | Earned mid-III; release thesis |
 
 ---
@@ -79,7 +80,7 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 | `15_character_grounding_and_relatability.md` | Eli TBI, healer, relatability guardrails |
 | `16_reader_attachment.md` | Human gravity before mythology |
 | `17_reveal_order_and_reader_impact.md` | Emotional discovery order |
-| `19_romance_and_divine_pairing.md` | Romance curriculum, triad option |
+| `19_romance_and_divine_pairing.md` | Romance curriculum (dyad; triad option now moot — Rowan off-page 2026-07) |
 | `31_volume_I_beatsheet.md` | Vol I chapter spine |
 | `38_psionic_combat.md` | Tactical system |
 | `99_open_questions.md` | Decision log + cast name table |

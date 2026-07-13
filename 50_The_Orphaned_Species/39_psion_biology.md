@@ -40,7 +40,11 @@ This is the mechanism under the book's whole thesis:
 
 ## 4. Expression levels — full ladder in `34` §3
 
-One hardware, expressed differently: **dragons & aliens** (Tree of Life, one-Tree, self-fuelled), **gods** (both Trees, two-Tree, the extraction-fuelled anomaly), **baseline humans** (Tree of Knowledge only — the latent Life switched off, the installed lock), and **the Activation / carriers** (Life waking — the threat the locks prevent). Full table and cost model: `34` §3; the epigenetic maintenance and the Fall: `34` §5.
+One hardware, expressed differently: **dragons & aliens** (Tree of Life, one-Tree, self-fuelled), **gods / Titans** (both Trees, two-Tree, the extraction-fuelled anomaly), **baseline humans** (Tree of Knowledge only — the latent Life switched off, the installed lock), and **the Activation / carriers** (Life waking — the threat the locks prevent). Full table and cost model: `34` §3; the epigenetic maintenance and the Fall: `34` §5.
+
+  - **Craft note (LOCKED):** the "dragon" of human folklore is the **spectral remnant of the alien visitor species** — they came to Earth briefly, **helped engineer the gods** (the two-Tree beings), and left; what lingers in the web is a trace with no body. See `99` #11. This does not contradict the Göbekli elf reveal (`99` #7): the Nephilot were down-bred by the *gods* the aliens helped make, so the chain is **aliens → gods → elves**. The divine council (`46`) is real and now also *engineered* — which deepens the orphan theme (even the gods were made, not primordial).
+
+  - **Craft note (LOCKED, symbiosis):** the dragon–Silurian bond is **endosymbiotic**, rhyming the 2024 **nitroplast** discovery (Coale et al., *Science* 2024): a nitrogen-fixing cyanobacterium (UCYN-A) fused into the algae *Braarudosphaera bigelowii* and became an organelle — the helper crossed from tool to internal part. The Silurians are the dragons' "nitroplast": drone helpers that became inseparable, seeded as a dormant helper-layer on every world ("drones on every planet, in case they are needed"). Real-world anchor is solid; the dragon/Silurian application is canon (`99` #11). Orphan-theme edge: symbiosis (partner inside the self) degraded into hierarchy (mastery over the made). The web's anchors (`36` §7b) are the dormant Silurian seed-layer.
 
 - **Eli** sits with the carriers: not stronger output — wider **reception**; a receiver/reflector, not a broadcaster (`38` §8). His TBI disrupted the filter; the breach flips it open.
 

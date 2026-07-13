@@ -32,7 +32,9 @@
 
 **Divine names — the Hebrew/Canaanite layer** — the same Anunnaki/Igigi history remembered by neighboring cultures under different names: **Anu = El = El Elyon** (the receding creator-father); **Marduk = Baal** (the younger storm-king who slays the chaos-sea **Tiamat / Yamm / *tehom***); the **Anunnaki ("seed of An") = the sons of El** (the divine assembly); the **seventy sons / gods of the nations = the Igigi** administrators, with **Yahweh** as one territorial son (Deut 32:8–9). **Psalm 82** — the Most High judging the council, sentencing the gods to "die like men" — is the War in Heaven / Abandonment in Hebrew dress. *Elohim* is left as the plural-collapsing-into-singular fossil of "find a father, kneel." **Governing rule: one history, many liturgies.** Full treatment in `45_divine_names.md`; a reconstructed roster of the sons (recovered via Ugaritic god-lists, the biblical national gods, and toponymy) in `46_divine_council_roster.md`.
 
-**Archangels / sarim (LOCKED)** — **not a separate species.** Monotheistic folk-memory of the **seventy territorial administrators** after downgrade: gods → *sarim* (Daniel 10) → angels/archangels (Targum on Deut 32:8). **Character ladder (LOCKED):** **Vol I allude** (word-trigger *angel*; Sora's Michael medal) → **Vol II reference** (Daniel register, church icons, **Prince/Persia** callsign) → **Vol III recontextualize** (Michael landscape shard; Gabriel refused as messenger; Persia prince = partition war). Load-bearing three: **Michael**, **Gabriel**, **Prince of Persia**. Not a second Seven. Plot: `46` § G; cast: **Sora Vithan** (Michael).
+**Archangels / sarim** — Name seeds and plot references: `46` § G (Michael, Gabriel, Persia prince). **Cosmology and cross-plane agency: ON HOLD** (`46` § H; `99` #angelic-orders).
+
+**Angelic orders / seraphim** — **ON HOLD.** May include real Unseen actors who impact the physical plane; relation to guardian caste and `34` §8 not decided. Do not cite prior "folk memory only" or "never embodied" locks.
 
 **The Abandonment** — Phase VII. The Igigi withdraw; the control systems run on without controllers. The orphaned species keeps worshipping absent masters — the root condition the series title names.
 
@@ -305,7 +307,9 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **Mira Okonkwo** — Wren's dead love; carrier with sonic gift. Extraction failed; died in ring custody or transfer. **Sora Vithan** (Custodian Shield) was her partner — ties Wren's wound to the rival team.
 
-**Rowan** — Wren's **prior** love and triad pole *(provisional; full flesh `26_present_day_cast_expanded.md`)*. **Black hair.** Network **cost-keeper**: remembers manifests, decoys, safehouses burned, names on the wall. Lovers with Wren **before** Mira; relationship left unfinished when Wren chose the Mira run. Wren reads exits; Rowan remembers costs. **Vol I:** seed only (Wren's controlled reaction to name/code/song/port). **Vol II:** physical entry; conflicts with Eli's mother-trail. **Error:** prior claim = safety. **Lesson:** love is not custody. End-state open — `19_romance_and_divine_pairing.md` § triad.
+**Rowan** — Wren's **prior** love (the one before Mira), **off-page only** (cast-consolidation, 2026-07 — never appears on page; full flesh archived in `26_present_day_cast_expanded.md` § Rowan). Network **cost-keeper** in backstory: remembers manifests, decoys, safehouses burned, names on the wall. Lovers with Wren **before** Mira; relationship left unfinished when Wren chose the Mira run. Wren reads exits; Rowan (in memory) remembers costs. The romance is now a **dyad** (Eli/Wren); Rowan's function is the *source* of Wren's custody instinct, which flares on Eli's danger and Wren's own history. **Error (curriculum):** prior claim = safety. **Lesson:** love is not custody. End-state moot — `19_romance_and_divine_pairing.md` § triad (now moot).
+
+**Mei Lin** — Forest City kitchen manager → clinic/registry liaison (Vol II). Constructive-control functionary on the ground; hearth authority (Vol I) and the kind face of post-outbreak registration (Vol II). Merged from the former Dr. Priya Nair entry (2026-07): one coherent working-class functionary who saw the outbreak's registration gaps from the kitchen and later the clinic desk. Breaks one rule for Eli (Vol I); offers him legal status then looks away at the forged record (Vol II). *"It's not ownership, it's visibility"* — and means it, and still bends. Not ring; she's why the ring works.
 
 **The Custodians** *(provisional member names)* — Lead **Edda Voss**; Lance **Tomás Reyes**; Shield **Sora Vithan** (defection candidate; **St Michael medal** — archangel ladder seed, `46` § G); Mask **Jin Pak**. See `26` and `99` #4.
 
@@ -313,11 +317,7 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **Solomon "Sol" Mendez** — burned former carrier; prophecy/destructive-freedom face, Vol II.
 
-**Dr. Priya Nair** — post-outbreak registrar; constructive control bureaucrat, Vol II.
-
 **Hassan al-Ridzuan** — Melaka witness; held with Eli's mother; half-bait with conscience.
-
-**Lani** — Pai dragon-staff performer; human before symbol.
 
 **Manong Rico Del Rosario** — Eli's Filipino martial teacher (memory only).
 

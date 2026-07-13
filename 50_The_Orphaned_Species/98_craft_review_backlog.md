@@ -22,7 +22,7 @@
 
 ---
 
-## 2. ☐ Protagonist passivity — Eli refuses more than he pursues
+## 2. ◐ Protagonist passivity — RESOLVED IN DESIGN: the rise-and-mature (anti-Paul) arc
 
 **Problem.** Eli's dominant mode across all three volumes is **declining**: refuses the ancestry file, chosen-one flattery, chasing captors, deification, the throne, the amplifier, coercion, destroying Crane. Even his central want (find mother) is engineered to convert into *release*. A hero who mostly says no reads as acted-upon, and once the reader clocks the pattern, temptations lose tension (the outcome is pre-known).
 
@@ -33,6 +33,8 @@
 **Suggested direction.** Two correctives:
 - **Make some refusals genuinely wrong.** The Ch 26 seed (his restraint gets a woman killed, `49` Scene 0) is exactly this — do more of it. A refusal that costs an innocent is the only thing that makes the *next* refusal suspenseful.
 - **Give him active wins per volume**, not just costly noes — something he *builds/achieves by pursuing*. Vol I has one (protecting the rice community). Surface Vol II's and Vol III's now, or push the Bard/transmission capacity (his one positive power) earlier so three books aren't all renunciation.
+
+**Resolution (LOCKED, 2026-07-12) — recast as ascent, not refusal.** Eli's through-line is a **rise-and-mature (anti-Paul) arc**: he *achieves* worldly things throughout (competence, allies, a network, wins, a following), so the apex refusal reads as sacrifice, not temperament. The alternative to refusal is named positively — **structure that breathes**: temporary, self-dissolving authority (the *festival crown*; the *fission–fusion* gather-and-disperse), concentrated only at surplus or necessity, resting on the keystone that **force is a function of disconnection** (connected people self-govern; *only the disconnected need managing*). He **sees the cost of imbalance both ways** (permanent throne = cage; pure refusal = the innocent his restraint kills, `49` Scene 0). Per-volume ascent in `27`; positive form in `Thesis.md` § "The mature form — structure that breathes"; third-door content in `49` § G; climax enactment in `41` §46. **Status ◐** — design resolved; drafting must prove the ascent is real *and* the descent costs.
 
 **Related:** ties to #1 (the native road is his one active *creation*).
 
@@ -77,7 +79,7 @@
 
 **Evidence.** `26_present_day_cast_expanded.md`; `99` Rowan pin; `33` Ch 26–27.
 
-**Suggested direction.** A cast-consolidation pass (merge/cut candidates); lock the triad end-state; differentiate the two refusals (healer = *bodily* limits / son-of-a-man; Eli = *political* refusal of the founder role).
+- **Suggested direction.** A cast-consolidation pass (merge/cut candidates); lock the triad end-state; differentiate the two refusals (healer = *bodily* limits / son-of-a-man; Eli = *political* refusal of the founder role). **RESOLVED (2026-07):** Rowan is now off-page (romance is a dyad); Priya Nair folded into Mei Lin; Lani folded into an anonymous busker flash. Custodians stay at four. See `26`, `27`, `99`.
 
 **Related:** `99` Rowan pin, #4 (Custodian team), #8 (healer specifics).
 

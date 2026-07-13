@@ -34,7 +34,7 @@ Each major entry should hold **three layers**:
 - give **one relationship that predates the fellowship** where possible;
 - let past **contradict the mask** in scene (Crane's private ledger, Wren eating badly after a run, Emrys apologizing to instruments).
 
-**Eli cannot shortcut** someone's past through surge or resonance — Rowan knows Wren in ways field-recognition can't replace (`19` triad scene tests).
+**Eli cannot shortcut** someone's past through surge or resonance — a lover from before the war knows Wren in ways field-recognition can't replace (`19` consent curriculum).
 
 Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `15_character_grounding_and_relatability.md` § Complex pasts.
 
@@ -47,7 +47,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 **Function:** receiver, clue-follower, moral decision-maker; constructive freedom corner.
 
 **Past:**
-- **Ordinary life:** fugitive childhood across borders — **Arif's garden and rivers** (Bangladesh), **Manong Rico's stick class** (Philippines), **Bali cooperative water** (community, not download), **Pai recovery** with **Lani** as performer-friend before dragon symbolism; years learning to be **useful** (cook, deck hand) because usefulness felt like safety.
+- **Ordinary life:** fugitive childhood across borders — **Arif's garden and rivers** (Bangladesh), **Manong Rico's stick class** (Philippines), **Bali cooperative water** (community, not download), **Pai recovery** with a street-performer friend before dragon symbolism; years learning to be **useful** (cook, deck hand) because usefulness felt like safety.
 - **Turn:** family attack ending flight — father killed in extraction, mother removed, **TBI**; healer stabilizes then **escape network separates them**; outbreak + Forest City refuge = first place that felt like **chosen** belonging, not only hiding.
 - **Unreconciled:** song with no name; garden kept **badly** (father's craft without mastery); cousin **Farida** still in Dhaka; never got to mourn on his own terms.
 
@@ -72,9 +72,9 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 **Look:** **blonde** — practical, not decorative; tied back, hood-ready, salt-stiff after a run.
 
 **Past:**
-- **Ordinary life (softer Wren):** pre-ring **port/refugee intake** during outbreak reopening — manifests, quarantine lanes, shift meals with **Rowan** (records/supply side). Competent but **still allowed ordinary want**: sleep, food, unguarded laughter. Fell for Rowan in **shifts and shared rain**, not extraction adrenaline.
+- **Ordinary life (softer Wren):** pre-ring **port/refugee intake** during outbreak reopening — manifests, quarantine lanes, shift meals with a lover from the records/supply side (the one before Mira). Competent but **still allowed ordinary want**: sleep, food, unguarded laughter. Fell for her in **shifts and shared rain**, not extraction adrenaline.
 - **Turn (layered):** recruited into **ring handler** track because she read people; believed compliance was **temporary safety** → small file delays became official hunter role → **Mira** (second love) → failed extraction → **secret network begins** (`99` #3); soft Wren trades for exit-first survival.
-- **Unreconciled:** Rowan remembers who she was; Wren never finished grieving Mira **or** returning to Rowan; belief that love = **manage danger first**.
+- **Unreconciled:** her prior love (the one before Mira) remembers who she was; Wren never finished grieving Mira **or** returning to that life; belief that love = **manage danger first**.
 
 **Want (locked):** keep her quiet extraction network and its people alive and uncompromised.
 
@@ -90,7 +90,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Romance:** escape-offer beat — *we could leave* — refused on **her people**, not drama.
 
-**Rowan (triad):** prior love, unfinished after Mira — Vol I seed only; full entry Vol II. § Rowan below.
+**Prior love (off-page):** the one before Mira — referenced, never appears on page. Wren's custody instinct now flares on Eli's danger and her own unfinished history, not a third body on scene (Rowan consolidated off-page, 2026-07).
 
 **Scene seeds:** Melaka light-cross with witness handoff; Vol II trade fork (her people vs. Eli's trail); Vol III indispensable choice binding network to accountable limits.
 
@@ -98,46 +98,9 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ---
 
-## Rowan *(~20, Wren's prior love; triad pole — Vol II entry)*
+## Rowan *(off-page — Wren's prior love, never appears on page)*
 
-**Function:** ethical rival and **cost-keeper** for Wren's extraction network; makes the triad real (`19_romance_and_divine_pairing.md` § The third woman and the triad). **Not** Mira (dead); **not** a jealousy ornament for Eli.
-
-**Look:** **black hair** — usually worn controlled (braid, knot, cap); the contrast with Wren's blonde is visible the first time Eli sees them in the same frame.
-
-**Past:**
-- **Ordinary life:** **chandlery / supply / clinic queue admin** — counted costs before anyone called it a network. Met Wren on overlapping port shifts; love was **tired, domestic, chosen**.
-- **Turn:** Wren recruited into ring work, then **broke for Mira**; Rowan kept the **ledger** when exceptions became a system; stayed when Wren hardened — not from martyrdom, from **refusal to let names disappear**.
-- **Unreconciled:** prior claim mistaken for love; grief for soft Wren **and** fear of hard Wren; ledger no one may read aloud.
-
-**Want:** keep Wren alive and **recognizable** — not dissolved into Eli's mother-trail or another failed extraction statistic.
-
-**Wound:** Wren left their relationship **unfinished** when she threw everything into the Mira run; after Mira died, Wren never fully returned. Rowan stayed with the network and became the person who **remembers every name on the wall**.
-
-**Contrast with Wren:** Wren reads **exits**; Rowan remembers **costs** — manifests, false papers, who paid for a decoy, which safehouse burned.
-
-**Habit:** stills before speaking; touches objects (badges, tags, knots) when nervous; keeps a private ledger no one is allowed to read aloud.
-
-**Voice:** low, exact; anger arrives as precision, not volume. *"You don't get to call that a win."*
-
-**Rowan's error (romance curriculum):** *Love means I know where you're safest — and I have a prior claim because I knew you first.*
-
-**Her lesson:** *Love is not custody.*
-
-**History with Wren:** lovers **before** Mira; pause or break when Wren chose the Mira extraction; tenderness and injury both still live. Scenes **without Eli** are mandatory once she enters.
-
-**Independent plot pressure:** may hold a route, contact, or ledger entry Eli needs — but will not trade Wren's body or network for his mother clue without a fight.
-
-**Vol I (seed only — no required on-page body):** Wren reacts to a **name, code, scar, song, or port** with too much control; Eli misreads it as tactical fear. Options: encrypted ping after Ch 5; wrong manifest name in Ch 8; a song hummed in a corridor Wren shuts down.
-
-**Vol II (physical entry):** unavoidable when clue chain or maritime corridor **collides** with network logistics — Singapore archive leg, boarding, or post-South Asia rendezvous. Her objective **conflicts** with Eli's trail and Wren's current loyalty; she and Wren still love each other; old wound poisons every operational choice.
-
-**Vol III:** divine-pairing pressure expands **couple → triad**; faction/archive tries to name a sacred dyad; mature outcome is **truthful consent**, not a forced label (see `19` end-state possibilities).
-
-**Scene seeds:** Wren/Rowan repair attempt fails on timing, not feeling; Rowan tells Eli *"You're not the first person she tried to save into the ground"*; Rowan helps civilians at cost Rowan can't bill to anyone; one scene where Rowan is **right** that Wren is over-managing Eli — and wrong that custody is love.
-
-**Guardrails:** bisexuality/polyamory are not exotic texture; do not dispose of her after one lesson; do not make Eli the automatic center; triad sharpens the thesis, does not swallow the plot.
-
-**End-state:** **open** — committed triad, Wren/Rowan lovers with a different Eli bond, or truthful alliance without romance labels all remain valid (`19`).
+**Decision (consolidation, 2026-07):** Rowan is removed as an on-page character. She survives only as Wren's referenced prior love — the one before Mira — the source of Wren's custody instinct, which now flares on Eli's danger and Wren's own unfinished history rather than a third body. This simplifies the romance to a dyad and removes a whole POV pole. Any triad curriculum in `19_romance_and_divine_pairing.md` is now moot and should be revised. Full discarded flesh preserved in git history.
 
 ---
 
@@ -240,21 +203,23 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ---
 
-## Mei Lin *(Forest City kitchen manager)*
+## Mei Lin *(Forest City kitchen manager → clinic/registry liaison)*
 
-**Function:** constructive control on the ground; hearth authority.
+**Function:** constructive control on the ground; hearth authority (Vol I) and the kind face of post-outbreak registration (Vol II). **Merged from the former Dr. Priya Nair entry (consolidation, 2026-07):** she carries both the hearth beat and the "visibility ≠ ownership" registrar beat — one coherent working-class functionary who saw the outbreak's registration gaps from the kitchen and later from the clinic desk.
 
-**Past:** ran a **smaller kitchen** before Forest City refuge scale — fed neighbors through first outbreak wave; sent **younger brother** back to locked province (he survived; she doesn't forgive the choice).
+**Past:** ran a **smaller kitchen** through the first outbreak wave — fed neighbors, watched unregistered people die when the queues closed; her **younger brother** was sent back to a locked province (he survived; she doesn't forgive the choice). The family member who *didn't* make it out — a cousin — died unregistered, which is why she understands the registry's appeal even as she bends it.
 
-**Want:** keep the kitchen feeding people through wartime rules without anyone going hungry or getting taken.
+**Want:** keep people fed and alive through wartime rules without anyone going hungry, taken, or owned.
 
-**Habit:** pins hair with a pen; translates at the till; sees everything, says half.
+**Habit:** pins hair with a pen; translates at the till; sees everything, says half; carries a tablet she apologizes while using.
 
-**Deepening:** enforces quarantine rule Eli chafes at; **breaks one rule for him** at cost to her license or supplier trust — Wren's corner in a wok.
+**Vol I deepening:** enforces the quarantine rule Eli chafes at; **breaks one rule for him** at cost to her license or supplier trust — Wren's corner in a wok.
 
-**Voice:** Mandarin/Malay/Bengali code-switch; commands without shouting until the rush.
+**Vol II beat:** as clinic/registry liaison she offers Eli legal status if he submits a baseline scan, then looks away when Wren forges the counter-record — *"It's not ownership, it's visibility,"* she says, and means it, and still bends. Shows how death-technology feels like care.
 
-**Guardrails:** not a love interest; not a clue-dispenser.
+**Voice:** Mandarin/Malay/Bengali code-switch; commands without shouting until the rush; kind, tired, forms-first.
+
+**Guardrails:** not a love interest; not a clue-dispenser; not ring — she's why the ring works, not its face.
 
 ---
 
@@ -378,23 +343,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 ---
 
-## The Registrar — **Dr. Priya Nair** *(constructive control bureaucrat)*
 
-**Age:** 40s. **Function:** Vol II face of post-outbreak merged databases; mid-level true believer.
-
-**Past:** **epidemiology trainee** during first outbreak wave — **brother died unregistered**; built visibility tools to prevent that; now can't unsee how visibility becomes ownership.
-
-**Want:** keep people alive through data — registration, tracing, carrier flags — because her **brother died unregistered** in the outbreak's first wave.
-
-**Voice:** kind, tired, forms-first; says *"It's not ownership, it's visibility."*
-
-**Habit:** carries two tablets; apologizes while flagging someone.
-
-**Story load:** Eli/Wren must navigate her without cartoon villainy; shows how **death technology** (equations, registries, entropic-plane admin) feels like care.
-
-**Scene seeds:** offers Eli legal status if he submits baseline scan; Wren forges a counter-record; Priya is **not** ring — she's why the ring works.
-
----
 
 ## Farida Rahman *(Eli's cousin, Dhaka)*
 
@@ -422,23 +371,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 ---
 
-## Pai performer — **Lani** *(dragon-staff jester, recovery period)*
 
-**Age:** teens/early 20s at first meeting; **function:** human face before symbol; staged physical comedy.
-
-**Past:** **street performer since childhood** — learned staff from an uncle who said *make them laugh first*; met young Eli in **Pai recovery** as kid-with-dragon-stick, not prophecy.
-
-**Want:** make rent performing; protect her little brother **Kiet** (provisional) who sells tea nearby.
-
-**Habit:** misdirection with staff; laughs when a trick fails; eats noodles alone after a bad crowd.
-
-**Voice:** quick, teasing; refuses to be called mystical.
-
-**Arc:** early — street theater; later echo — same movement vocabulary at a threshold without joke; optional distributed coda (performing, not oracle).
-
-**Guardrails:** person first; not Eli's love interest unless triad/romance docs explicitly expand (default: no).
-
----
 
 # Part III — Placement table
 
@@ -446,17 +379,15 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 |---|---|---|---|
 | Emrys slapstick + flaw | post-breach | pursuit labs; taken | Albion if present |
 | Wren solo extraction | ch 8-weight | trade fork | network choice |
-| Rowan (triad seed → entry) | seed (name/code/song) | physical; Wren conflict | triad pressure |
+| Rowan *(off-page)* | Wren reference only | custody instinct flares | dyad holds |
 | Hassan witness | Melaka | — | — |
 | Thila Sen | climax | — | — |
 | Custodians + Sora arc | breach–climax | pursuit | broken/changed |
 | Dr. Somchai | mention | reconvene; healings | refusal under pressure |
 | Sol Mendez | — | temptation | echo or end |
-| Dr. Priya Nair | — | registry pressure | repurposed or sidelined |
 | Farida | one message | optional | optional |
-| Mei / Suresh | Forest City | — | optional echo |
+| Mei / Suresh | Forest City; Mei = Vol II registrar beat | — | optional echo |
 | Crane private beat | looms | social rooms | throne offer |
-| Lani | flash/recovery | — | optional coda |
 
 ---
 
@@ -467,7 +398,6 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 | Emrys | slapstick, buddy panic |
 | Eli | dry straight man |
 | Wren | armor-break physical |
-| Lani | staged performance |
 | Mei / Forest City | warm dry (robot dog, aunties) |
 | Sol | none (charisma is horror) |
 | Tommy Lance | dark, never punchline |
@@ -483,6 +413,7 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 |---|---|---|---|---|
 | **Eli** | 1 | Hard, capable facilities hand; useless at the garden | In the father's plot he talks to the tomatoes in **Bangla** and hums a tune fragment while failing — competence on live junctions, shame in soil | Split: mother's gift / father's craft; no naming either |
 | **Mei** | 1 | Kitchen commander during rush | Mid-service she makes Eli **taste the sauce** off the spoon — check he ate — then snaps at the pass without dropping command voice | Smaller-kitchen maternal habit before wartime scale |
+| **Mei** *(Vol II registrar)* | — | *Vol II first on-page* | Reserve: Forest City health poster in Ch 1 uses her program's **visibility saves lives** tagline — Eli walks past; later she offers the scan and looks away at the forged record | Death tech as care; one coherent functionary, kitchen→clinic |
 | **Suresh** | 2 | *"I don't carry heroes. I carry rice."* | At the stern he hums **four wrong notes**, stops himself, goes flat — Iqbal's tune, never in public | Musician family grief; rice is real job, not whole identity |
 | **Farida** | 2 | Cousin text: practical, scared | Encrypted message includes a photo: **Arif's garden in Dhaka still growing** — home continued without Eli | Lost home heartbeat; Eli can't answer |
 | **Hassan** | 3 | Exhausted witness; testimony voice | Before handoff he **aligns papers** on a crate edge like a ledger clerk — precise, calm — then hands shake | Fishery accountant before black site; trusted paper once |
@@ -493,13 +424,12 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 | **Manong Rico** *(memory)* | 4 | Eli is a worker who learned some stick | Losing Kali: internal half-line — *short steps, don't gift your hip* — body remembers teacher, not prowess | ≤ one line; Philippines culture, not flashback block |
 | **Emrys** | 5–6 | Map-not-territory; measures everything | Bandages Eli's crate-cut with **clinic-tier efficiency**, apologizes to the **bandage roll**, won't hold Eli's shoulder | Touched patients before he only touched instruments |
 | **Sora Vithan** | 8 | Shield; team coherence; **St Michael medal** under collar | During boarding chaos she **shields a civilian**, then touches her own **collar** like checking a wedding band — volunteered for protection, got leash | Conscience crack; Mira wound; Michael seed (`46` § G) |
-| **Rowan** *(seed)* | 8 | Wren's tactical spike | Wren gets coded ping / manifest name / song fragment — face goes flat, types three words, **deletes**, orders real food for Eli like nothing happened | Eli reads fear; reader may read history |
-| **Lani** *(memory)* | 9 | Agricultural stop; maybe busker echo | Dragon-staff busker or field worker's move triggers **half-second flash**: Pai noodles, failed trick, **laugh** — not omen | Person before symbol; ≤ sensory flash |
+| **Wren prior-love seed** *(off-page)* | 8 | Wren's custody spike | Wren gets coded ping / manifest name / song fragment — face goes flat, types three words, **deletes**, orders real food for Eli like nothing happened | Eli reads fear; reader may read history (no character appears) |
+| **Anonymous busker** *(memory)* | 9 | Agricultural stop; maybe busker echo | A street-performer's move triggers **half-second flash**: Pai noodles, failed trick, **laugh** — not omen; Lani's beat folded here (2026-07) | Person before symbol; ≤ sensory flash |
 | **Thila Sen** | 11 | *"Third team this monsoon"* — furious elder | Barefoot on bund, **humming a lullaby** to a scarecrow or rice bird while refusing Eli's hand | Bund was water and children before teams |
 | **Dr. Somchai** *(body memory)* | 12 or 5 | Not on-page Vol I | Eli feverish post-breach or post-healing attempt: flinches when Emrys reaches for his head — **antiseptic + stay-with-me** body memory, no name | Vol II reconvergence pays name |
 | **Edda / Crane** *(loom)* | 7 | Archive = enemy data | Metadata on a record: **Crane** linked to pre-war **community clinic outreach** and outbreak tracing — same signature, earlier care | Crane built cages from life-saving tools |
 | **Sol Mendez** | — | *Vol II first on-page* | Reserve: stadium-break sermon echoes Vol I news clip on Eli's phone in Ch 2 — face on screen only | Optional background texture |
-| **Dr. Priya Nair** | — | *Vol II first on-page* | Reserve: Forest City health poster in Ch 1 uses her program's **visibility saves lives** tagline — Eli walks past | Death tech as care before she speaks |
 | **Dean Crane** | 7 or 13 | Antagonist looms via Custodians | See **Edda/Crane** row — no in-person Vol I (recommend locked) | Private ledger beat stays Vol II–III |
 | **Mira** *(dead)* | 8 | Wren's wound unspoken | Wren passes a **sonic/resonance tuner** or musician's clip on a manifest — goes still, hands it off faster than needed | Dead love; no name on-page |
 
@@ -508,7 +438,7 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 1. **One leak per scene** — don't stack contradictions.
 2. **Eli may misread** — tactical fear, weird competence, creepiness — reader connects later.
 3. **No "when I was…"** — past arrives as habit, object, or out-of-register skill.
-4. **Surge does not download biography** — Eli gets magnitude, not Rowan's ledger or Wren's port shifts.
+4. **Surge does not download biography** — Eli gets magnitude, not Wren's prior-love ledger or her port-shift history.
 5. **Comedy allowed** — Emrys apologizing to bandage; Wren's bun; Suresh's wrong notes — past can be warm, not only tragic.
 
 Cross-ref: `27_character_development_arcs.md` (Vol I checklist); `15_character_grounding_and_relatability.md` § Complex pasts. Trauma patterns: Part VI below.
@@ -525,7 +455,7 @@ Pair with **Part V** (past-vs-mask leaks) and **Part 0** (complex pasts). Guardr
 
 **Do:**
 - Show pathology as **competence's shadow** — Wren reads exits because hypervigilant; Emrys measures because touch hurts.
-- Trigger in **relationship** — Rowan's custody spikes when Wren over-manages Eli; Eli's identification spikes when Seven rhyme with grief.
+- Trigger in **relationship** — Wren's custody instinct spikes when she over-manages Eli; Eli's identification spikes when Seven rhyme with grief.
 - Bill **cost in body** — crash after healing, migraine after archive, can't eat after a run.
 - Let mature move be **recognize autopilot → relation without ownership** (Manual Override), not diagnosis → cure.
 
@@ -541,10 +471,10 @@ Most major cast can carry some mix:
 
 | Pattern | On-page behavior | Examples |
 |---|---|---|
-| **Hypervigilance** | exits before faces; sleep debt; can't sit with back to door | Wren, Rowan, Hassan, Custodians |
-| **Moral injury** | harm while trying to help; *"don't call that a win"* | Wren, Sora, Tommy, Priya, Crane |
-| **Ambiguous loss** | gone but not gone; hope reopens wound | Eli (mother), Rowan (soft Wren), Suresh (Iqbal) |
-| **Institutional betrayal** | trusted paper/system; it ate someone | Hassan, Jin, Edda, Priya |
+| **Hypervigilance** | exits before faces; sleep debt; can't sit with back to door | Wren, Hassan, Custodians |
+| **Moral injury** | harm while trying to help; *"don't call that a win"* | Wren, Sora, Tommy, Mei, Crane |
+| **Ambiguous loss** | gone but not gone; hope reopens wound | Eli (mother), Wren (soft prior self), Suresh (Iqbal) |
+| **Institutional betrayal** | trusted paper/system; it ate someone | Hassan, Jin, Edda, Mei |
 | **Survivor guilt** | lived because someone else didn't | Wren, Sora, Suresh, Eli |
 | **Coercive-control hangover** | collar/registry logic internalized | Custodians, Eli (almost takes collar Vol I) |
 
@@ -555,7 +485,7 @@ Most major cast can carry some mix:
 | Registry / collar | Control, visibility addiction, belief fusion |
 | Prophecy / chosen one | Identification, messiah hunger |
 | Ring / extraction | Moral injury, triage guilt, split self |
-| Family as possession | Custody (Rowan), caregiver collapse (Somchai), parentification (Mei) |
+| Family as possession | Custody (Wren's prior-love instinct), caregiver collapse (Somchai), parentification (Mei) |
 
 ---
 
@@ -582,14 +512,14 @@ Most major cast can carry some mix:
 | **Can't rest** | stillness unsafe; stairwell bun = softness leak |
 | **Split self / bad faith** | official hunter vs secret rescuer; distrust of own wants |
 
-### Rowan
+### Wren's prior love (off-page; the one before Mira)
 
 | Pattern | Behavior |
 |---|---|
 | **Anxious / preemptive attachment** | prior claim mistaken for safety — *love is not custody* |
 | **Compulsive accounting** | ledger ritual: if every cost is recorded, maybe none were wasted |
 | **Frozen anger** | precision instead of grief; audits Wren instead of screaming |
-| **Secondary trauma** | absorbed every failed run without being the runner |
+| **Secondary trauma** | absorbed every failed run without being the runner (referenced, never appears on page) |
 
 ### Professor Emrys
 
@@ -641,14 +571,14 @@ Most major cast can carry some mix:
 | **Hassan al-Ridzuan** | Institutional betrayal; testimony compulsion | black-site rotation; half-bait guilt |
 | **Thila Sen** | Chronic threat hypervigilance; land grief | *third team* — helplessness → fury |
 | **Farida Rahman** | Secondary persecution stress | family still entangled in mother hunt |
-| **Lani** *(memory)* | Performer survival | person before symbol; rent fear, not destiny |
+| **Anonymous busker** *(memory)* | Performer survival | person before symbol; rent fear, not destiny (Lani folded here, 2026-07) |
 
 ## Vol II faces (preview)
 
 | Character | Pattern | Behavior |
 |---|---|---|
 | **Sol Mendez** | Identification/charge spiral break; messiah hunger | charisma as untreated wound; partly right about cages |
-| **Dr. Priya Nair** | Trauma bond to visibility | brother died unregistered; control through data as anxiety management |
+| **Mei Lin** | Trauma bond to visibility | brother/cousin died unregistered; control through data as anxiety management — folded from Priya Nair (2026-07) |
 
 ## Mira Okonkwo *(dead)*
 

@@ -32,14 +32,14 @@
 ### Ch 25 — The Roster in Stone *(ensemble · Albion landscape)*
 - **Want:** read the western web without worshipping it.
 - **Obstacle:** place-names as **fossilized council** — Beth-Horon, Beth-Shemesh, Anathoth, Jericho — geography that forgot it was god-names.
-- **Revelation:** Deuteronomy 32:8–9 / Psalm 82 register as **plot evidence** (thesis already in scripture dress); **Asherah casualty** through suppressed landscape + Anthea parallel — mother-consort edited out when pantheon collapses to one father. **Michael (plot — recontextualize):** liturgy names **Michael**; map reads **Horon** in **Beth-Horon** — same council, three liturgies; optional **one** watched-depth shard — portion-holder logic, not winged ally (`46` § G).
+- **Revelation:** Deuteronomy 32:8–9 / Psalm 82 register as **plot evidence** (thesis already in scripture dress); **Asherah casualty** through suppressed landscape + Anthea parallel — mother-consort edited out when pantheon collapses to one father. **Michael (plot — seed):** liturgy/map double-read optional (`46` § G). **Seraphim / orders:** ON HOLD (`46` § H) — do not commit Isaiah register to "sensation only" until unlocked.
 - **Forward clue:** **chair** at tethered ground — key, not source of Eli's ability.
 
 ### Ch 26 — The Healer's Refusal *(healer · mixed community)*
 - **Want:** keep bodies alive; refuse conscription by factions, crowds, and Eli.
 - **Obstacle:** pilgrims, media, liberation faction, Union registry — all want **ownership** of his capacity.
 - **Choice → Cost:** *"No. I am the son of a man."* Cost: listeners retitle him **Son of Man** — myth forming against the subject's will (`05` Act I Vol III).
-- **Revelation:** deification is **concrete social danger**; coexistence must include resisting deification. **Gabriel (plot — refusal):** crowd wants a **messenger of God** — Gabriel **never embodied**; healer refuses messenger and son titles in one beat (`46` § G). Living Way: hold lightly; mercy with boundaries; give without keeping score (`25`).
+- **Revelation:** deification is **concrete social danger**; coexistence must include resisting deification. **Gabriel (plot — seed):** crowd wants a **messenger of God**; healer refuses messenger and son titles (`46` § G). *Whether Gabriel exists as an other-plane actor = ON HOLD (`46` § H).* Living Way: hold lightly; mercy with boundaries; give without keeping score (`25`).
 - **Crown = the BODY, distinct from Eli's Ch 27 crown = the polis (LOCKED, `05` "two refusals, two crowns"):** Somchai refuses worship of his *healing* (miracle / relic / Son-of-Man); his reason is the **limits of the body** — *son of a man*. **Eli is not a healer and never faces this crown.** This refusal, **held at a real cost** (someone suffers because he won't be their miracle; he refuses anyway), is the **proof at bodily scale** that Eli scales up to civilizational stakes next chapter. The two beats **build**, they don't echo.
 - **SEED for Ch 27 temptation — Eli's costly restraint:** in the same crowd-crush, Eli's principled refusal to *coerce* (he asks a jammed checkpoint guard instead of frightening him) **gets a woman killed** — a harder man would have saved her, undeniably. Plants the wound Sol reopens next chapter. Drafted "Scene 0" in `49_machiavelli_toolkit.md`; do **not** resolve it here.
 
@@ -95,6 +95,7 @@
 | Maren tether (Vol II Ch 17) | Ch 27–29 release |
 | Wren network cost (Vol I–II) | Ch 28 indispensable choice |
 | Archangel ladder (Michael / Gabriel / Persia prince) | I allude → II reference → III Ch 25–28 recontextualize (`46` § G) |
+| Seraphim / angelic orders | ON HOLD (`46` § H) — do not lock prose beat until unlocked |
 | Sora Michael medal (Vol I Ch 8) | Ch 28 Shield defect — refused protector rhymes Crane |
 | Manual Override personal (Vol I) → relational (Vol II) | Ch 29 collective under amplifier pressure |
 

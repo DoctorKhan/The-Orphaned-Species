@@ -46,27 +46,25 @@ Working character bible from cast review. **Provisional names** until locked bel
 | Mask / Scout | Jin Pak | coerced idealist |
 | Vol I grower elder | Thila Sen | rice community climax |
 | Prophecy face | Solomon "Sol" Mendez | burned carrier, Vol II |
-| Registrar | Dr. Priya Nair | post-outbreak databases, Vol II |
+| Registrar / kitchen | Mei Lin | hearth (Vol I) + kind registrar (Vol II); merged from Priya Nair (2026-07) |
 | Healer | Dr. Somchai Vichai | two public healings + refusal |
 | Farida (cousin) | Farida Rahman | one Dhaka message beat |
 | Filipino teacher | Manong Rico Del Rosario | memory only |
-| Pai performer | Lani | dragon-staff, human first |
-| Wren's prior love / triad pole | **Rowan** | black hair; cost-keeper; Vol I seed → Vol II entry; `19` + `26` |
+| Wren's prior love (off-page) | **Rowan** | referenced, never on page; source of Wren's custody instinct; romance is a dyad (`26`, `27`) |
 
-**Locked look (cast):** **Wren** — blonde; **Rowan** — black hair (`26`).
+**Locked look (cast):** **Wren** — blonde.
 
-**Complex pasts (craft):** every major character gets **ordinary life → turn → unreconciled** — not only run/network backstory. Wren's pre-ring softer life + Rowan shift-love is the template (`26` § Complex pasts; `15` § Complex pasts). **Vol I past-vs-mask scene bank:** `26` Part V — one leak per character, mapped to chapters in `31`. **Trauma & internal cages:** `26` Part VI — per-character patterns; `15` § Trauma & internal cages.
+**Complex pasts (craft):** every major character gets **ordinary life → turn → unreconciled** — not only run/network backstory. Wren's pre-ring softer life + a prior love is the template (`26` § Complex pasts; `15` § Complex pasts). **Vol I past-vs-mask scene bank:** `26` Part V — one leak per character, mapped to chapters in `31`. **Trauma & internal cages:** `26` Part VI — per-character patterns; `15` § Trauma & internal cages.
 
-**Deepened existing:** Wren solo extraction chapter; Emrys slapstick + measures-when-he-should-touch (`24`); Crane private humane beat; Mei constructive control; Suresh/Iqbal grief; Hassan witness morality; **Rowan triad** (seed Vol I, physical Vol II — end-state open).
+**Deepened existing:** Wren solo extraction chapter; Emrys slapstick + measures-when-he-should-touch (`24`); Crane private humane beat; Mei constructive control; Suresh/Iqbal grief; Hassan witness morality; Wren's off-page prior love (custody instinct internal to the dyad).
 
 **Character development arcs:** `27_character_development_arcs.md` — volume questions, Manual Override thresholds, Eli perceptual stages by volume, fellowship arcs, romance stages, proof scenes.
 
 **Present-day craft hub (docs 21–27):** `28_present_day_trilogy_craft_index.md`.
 
-### Rowan (triad) — still open
+### Rowan — RESOLVED (consolidation, 2026-07)
 
-- **Locked direction:** working name **Rowan**; Wren's **prior** love (before Mira); ethical rival; lesson *love is not custody*; Vol I seed / Vol II physical entry (`19`, `26`, `27`).
-- **Still open:** exact Vol I seed object (name vs code vs song vs port); which Vol II leg she enters on; final triad end-state (committed triad vs other forms in `19`).
+- **Decision:** Rowan is **off-page** — Wren's referenced prior love (the one before Mira), never appearing on page. The romance is a **dyad** (Eli/Wren); Rowan's function is the *source* of Wren's custody instinct, which now flares on Eli's danger and Wren's own unfinished history. The triad end-state question is **moot** (no third on-page body). See `26` § Rowan, `27` § Wren, `19` § triad (moot).
 
 ## Priority 0 — cosmology revision adopted for outlining
 
@@ -219,58 +217,66 @@ Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED").
 
 ## Priority 2 — required before Volume II can carry the middle
 
-### 7. Volume II external race
+### 7. Volume II external race — LOCKED
 
-"Reconstruct the damaged clue" is too broad. What is the concrete race?
+**The race: reach the sealed interface at Göbekli Tepe before the rival consortium re-seals the dig.** The prize is not a relic but **reactivation/reading access to the first buried instrument** behind the fox-pillar — the Qingu-reserve seal and the original **selection mark** (spiral-in-the-eye). Whoever reaches it first can read the founding record of the Nephilot — the **elves' origin** — and potentially re-open the reserve or re-establish the down-breeding logic.
 
-- A fragment, person, archive, route, charged ground, prisoner, or translation?
-- Who else is racing for it?
-- What deadline makes delay costly?
-- How does the objective culminate at Göbekli or another buried interface?
-- How does Emrys's serious error expose the group?
+- **What is raced for:** the sealed interface + the founding selection record of the Nephilot (the "elves"). The *Major Reveal* (37 § tracking-ladder step 1, 29 site table) lands here: Göbekli is both the Qingu-reserve seal and the **down-breeding site** where the first agriculturalists were selected into fertile carriers. "What the elves are" = engineered-at-this-site, not a fairy race.
+- **Who else races:** Crane's state psion program (wants to re-seal/control), the **Custodians** (collared team, may be pointed at the site), and a **private dig consortium** (permit-holder, the clock they're on). Sol Mendez's liberation faction as a possible fourth runner.
+- **Deadline:** the excavation permit / sealed-sector window **closes on a hard date** — the site is re-buried under the consortium's permit and the interface becomes unreachable for a generation. Delay = the answer stays buried and Crane keeps the seal.
+- **Culmination:** at the fox-pillar, under pressure, Eli clarifies Aru/Daskar + the selection mark; the faction race and the deep reveal hit in the same beat. Emrys's error (see #9) is what nearly hands the interface to the consortium — he trusts the map and mistimes the window.
 
-### 8. Healer specifics
+### 8. Healer specifics — LOCKED
 
-The healer's function is locked; his life is not.
+**Dr. Ravi Menon** — Kerala-born emergency physician, ~45, runs a free clinic in a port city (geography open; Vol I–II South Asia corridor makes Kerala/coastal India natural). Widowed father of a daughter (the ordinary obligation that anchors him outside Eli's orbit).
 
-- Name, age, country, medical background, and current location.
-- What ordinary obligation does he have outside Eli?
-- Who does he love, owe, resent, or protect?
-- What patient or event makes the public healing unavoidable?
-- What does he refuse in Volume II before the deification pressure peaks in Volume III?
+- **Gift vs. Eli:** tactile diagnostic read + steady hands; his gift is *bodily*, not thread-reception. He is the "stronger present-day healer" from `37` — recognizes Ila's method in the record and develops it further with medical training. He is **not Ila reborn**; the contrast is the point.
+- **Who he loves / owes / resents:** his late wife (grief, the reason he heals); his daughter (the reason he won't vanish into the movement); mild resentment of institutions that let the clinic starve.
+- **Public healing unavoidable:** a mass-casualty event at the clinic (collapse, disaster) forces a visible act he cannot hide — the moment that makes him a name.
+- **What he refuses (Vol II, before Vol III deification):** a patronage/spectacle deal that would turn his clinic into a shrine; he refuses to be the face of a cult. In Vol III, as crowds deify him, he **publishes his own limits** — names the patients he could not save — so the movement cannot make him a god. This is the healer's version of Eli's "make yourself unnecessary."
 
-### 9. Emrys's error and fate
+### 9. Emrys's error and fate — LOCKED
 
-Emrys must be more than mentor captured by plot necessity.
+**The error (from #7):** he trusts the *map* over the *territory* — the aDNA/ley model says the sealed sector opens on a published window; the present dig reality has shifted. He commits the group to the wrong entry time and **nearly hands the Göbekli interface to the consortium**. His expertise, normally the group's edge, becomes the blind spot because he reads the abstraction instead of the live ground.
 
-- What does he misread because he trusts the map over the territory?
-- Whom does the error endanger?
-- Does he survive Volume III, die, or step back?
-- If he survives, what does outgrowing the anti-father look like in ordinary conduct?
+- **Whom it endangers:** Eli (exposed at the pillar during the wrong window), Wren (caught between factions by the timing), and the discovery itself (the record nearly sealed by the wrong side).
+- **Fate:** **survives Volume III.** His arc is outgrowing the anti-father. He does NOT take back command at the Vol III climax — he lets Eli's distributed, many-voiced method stand without seizing the lead. Ordinary conduct payoff: he stays as a scholar-advisor, corrects his own earlier maps in print, and mentors without owning. The "anti-father" he defeats is the urge to be the necessary man.
 
-### 10. Artifact chain reduction
+### 10. Artifact chain reduction — LOCKED (5 objects)
 
-Choose the few artifacts that actually move bodies through the present plot.
+**The five that actually move bodies:**
 
-- Which five or six are load-bearing?
-- Does the Three-Circles Tablet enter early enough to make Body/Family/Civilization visible without becoming a lecture?
-- Is the Adapa lacuna a textual mystery, a missing physical fragment, a forged reconstruction, or all three in conflict?
-- What evidentiary level does each have: real text, disputed object, fictional artifact, mythic claim, or modern copy?
-- Who interprets each one besides Eli and Emrys?
-- What wrong reading costs the group something?
-- How does each object point to the next testable action rather than a lecture?
+1. **Three-Circles Tablet** — enters Vol I (early enough to make Body/Family/Civilization visible without a lecture); the framing object. Real-text category.
+2. **Göbekli plaquette** (snake/tree/bird grammar) — Vol II; the selection-mark key at the fox-pillar; points to the sealed interface. Disputed object.
+3. **Adapa lacuna** — Vol II Mesopotamian leg; **a textual mystery + a missing physical fragment + a forged reconstruction in conflict** (all three at once). Points to the Dilmun/Qingu memory, not a standing site.
+4. **The Map of the World** (compared to live ley data) — Vol II; turns the abstract grid into a route. Modern copy / disputed.
+5. **Men-an-Tol holed stone** (mother-line threshold) — Vol III; the body-memory bridge; partially awakened living ground, not a portable relic.
+
+- **Each points to the next testable action**, not a lecture (per `35`).
+- **Wrong reading that costs the group:** the Adapa forgery — someone (Emrys or a rival) trusts the reconstructed text and mis-times a move; the Göbekli plaquette's grammar is misread once before Eli reads it at the pillar.
+- **Other interpreters:** Emrys (scholar), the consortium's epigrapher (rival), Maren's suppressed research (the mother's line), a Custodian with archive access. No object is Eli-only.
 
 ## Priority 3 — required before Volume III can land
 
-### 11. The dragon's role
+### 11. The dragon's role — LOCKED (author: ghost = remnant of an ALIEN species)
 
-The dragon currently functions as symbol, evolutionary evidence, ancient witness, and possible living being. Decide its actual plot role.
+**Not a dragon, and not of Earth.** The "dragon" of folklore is the **ghost / spectral remnant of an alien species** that once came to Earth **briefly**, **helped engineer what we call "the gods,"** and then **left**. What lingers in the web is not a beast but a visitor's echo — a trace with no body, perceived during clarification.
 
-- When does the dragon become more than an image?
-- Is it physically present, remotely perceived, partially awakened, or carried through records?
-- What does it want?
-- What can it misunderstand about humans?
-- How does coexistence with it differ from worship, fear, ownership, or spectacle?
+- **Its plot role:** the ghost **remains to deliver the account — that the gods were engineered by visitors who came and went, and only this remnant was left behind.** The Vol III beat is the origin reveal: the divine council / the gods are not indigenous to the web; they were shaped with alien help, then the aliens departed. Eli clarifies the ghost at the convergence and receives the account.
+- **When it appears:** during the Vol III clarification cascade, when Eli's wide reception opens the field — felt as a vast aware *echo*, not a shape.
+- **What it wants:** to deliver the account of the visit and the departure; not worship, not return on command.
+- **The coexistence test, reframed:** the one being humanity could never integrate is not a lost native but an **absent visitor** — an alien remnant that was never Earth's to keep. The ghost is the proof of the gap: the gods were made, the makers left, and only a trace remains. This is the honest, unresolved chord (rhymes the Crane ending — accountability without redemption, the structure left standing). The final community integrates carriers, plants, spirits, transformed humans; the dragon-remnant is the one absence it can only **reckon with**, not include.
+- **Craft guard:** a quiet clarification-voice, never a beast on stage; no spectacle, no fight. The scale of the reveal (we were engineered; the engineers are gone) is the point, not action.
+- **Canon link:** pairs with `39` (dragons & aliens = Tree-of-Life, one-Tree, self-fuelled) — the "dragon" myth compresses the memory of these visitors. Does NOT override the Göbekli elf reveal (#7): the Nephilot were down-bred by the *gods* (the alien-made beings), so the chain is **aliens → gods → elves** — a coherent nested-engineering reading, not a contradiction. The divine council (`46`) is real; it is now also *engineered*, which deepens the orphan theme (even the gods were made, not primordial).
+
+- **Silurian drone-helpers & the endosymbiosis model (author extension):** the dragons had **drone helpers — the Silurians**. Not subjects they ruled, but a **symbiotic partner-layer** that, over deep time, became inseparable from them.
+  - *The symbiosis is endosymbiotic.* Real-world rhyme: the 2024 **nitroplast** — a nitrogen-fixing cyanobacterium (UCYN-A) fused into the marine algae *Braarudosphaera bigelowii* and became an **organelle** (Coale et al., *Science* 2024). The bacterium lost ~80% of its genome; the host gained nitrogen-fixing; two became one. Endosymbiosis is the deepest symbiosis: the helper crosses from tool to *internal part*.
+  - The Silurians are the dragons' "nitroplast": started as external drone helpers, became **internalized** — part of the dragons' own functioning, or seeded into the worlds they touched as a dormant helper-layer. The helper is no longer a separate thing; it is *inside*.
+  - *Ultimate goal — drones on every available planet, in case they are needed:* the dragons' seeding strategy was a **distributed contingency network** — a self-sustaining helper-layer placed on every habitable world so that, if the dragons were ever recalled or life ever needed them, the infrastructure was already present. Not conquest — **caregiving infrastructure**. The Silurian seeds are the outward form: dormant endosymbionts parked on every world.
+  - *Orphan-theme payoff:* the dragons' model was *partnership* (endosymbiosis — the helper inside the self). The gods they engineered fell into *hierarchy* (mastery over the made). The Fall is symbiosis degraded into domination. Humanity inherits the broken version: it meets the Silurian seed-layer (the web's anchors — charged grounds, talking stones, `36`) as something to own, register, or fear, instead of as a partner.
+  - *Author decision — who built the hierarchy:* **a mix.** The dragons built a **flawed** system (not pure malice, but a design with a latent crack — the elves/Nephilot were down-bred with a built-in subordination seam). The gods then **abused that crack** into full domination. Neither pure villains nor pure victims: the makers were flawed, the made exploited the flaw. This keeps the moral center honest — the Fall is earned, not a cartoon betrayal.
+  - *Author decision — seed-layer activity:* **LEFT OPEN.** Whether any Silurian seed remains active (vs. fully dormant/dead) is intentionally unresolved for now; decide during Vol III drafting. The "dormant" framing stands as the default; an awake-helper hope-beat is available but not committed.
+  - *Canon link to the web:* the web's physical anchors (charged grounds, talking stones, `36`) may be the **dormant Silurian seed-layer** — the contingency network left "in case they are needed." This does NOT contradict `36` (one web, not capsules): the web is one; its substrate includes the seeded helper-layer. Eli's "one web" clarification still holds; what he learns is that the web's deepest anchors are *manufactured care*, not primordial nature.
 
 ### 12. Native-road mechanism — DESIGNED (`41_climax_the_awakening.md`)
 
@@ -284,26 +290,23 @@ Original prompts (still useful as a checklist against `41`): How does Eli make t
 - What prevents Crane or a state from immediately re-monopolizing the method?
 - What remains difficult enough that the ending does not become a universal switch-flip?
 
-### 13. Crane's accountability
+### 13. Crane's accountability — LOCKED
 
-Eli refuses to destroy Crane. What happens instead?
+Eli refuses to destroy Crane (locked climax). Accountability lands through institutional exposure, not Eli's hand:
 
-- Exposure, capture, trial, exile, loss of office, internal collapse, continued opposition, or something else?
-- Who else has standing to judge him?
-- What accountability satisfies the story's ethics without granting him redemption by survival?
-- What harm remains unrepaired?
+- **Exposure / fall:** the state (or Crane's own superiors) **sets Crane up as the fox to be sacrificed** — the reasonable man who built the registries, positioned to take the fall so the institution stays clean (`48` divide-and-conquer, Machiavelli maxim). He is stripped of office and tried.
+- **Who has standing to judge:** a coalition — Sol Mendez's oversight faction, the judiciary of the Free Ports / Continental Union, and the exposed victims' networks. Not Eli (who refuses both vengeance and ownership).
+- **No redemption by survival:** Crane **refuses to name his superiors** at trial. The institution that made him persists; he is the discarded enforcer, not the reformed man. Harm remains **unrepaired** — the registries outlive him.
+- **The ethics payoff:** refusing to destroy Crane denies the orphan-reflex (new master, new purge) AND refuses to let the system launder itself by sacrificing one man. Accountability attaches to *conduct*; the structure that produced the conduct is left visibly intact and still dangerous — the honest, unresolved ending.
 
-### 14. Final community
+### 14. Final community — LOCKED (shape; geography + final line open)
 
-Who proves coexistence after the emergency?
+The proving community is **ordinary and distributed**, not a new order:
 
-- Where is the community or network located?
-- Which ordinary people and anomalous beings belong to it?
-- What rules govern conduct without registering nature?
-- What dispute, accident, crime, or fear tests it after battle-pressure is gone?
-- What ordinary act closes the trilogy: meal, sailing, repair, clinic, performance, childcare, mourning, or work?
-
-The final feeling is locked: **an afternoon nobody turns into destiny**. The exact geography and final line remain open.
+- **Who belongs:** Dr. Ravi Menon's free clinic (healers); Wren's network nodes (the distributed choir, no command hierarchy); a South Asia growers' co-op on a **forming ley line** (the Ila-witness ground, now living); the **Albion ground held open** (Cuno's cathedral site, unowned); the surviving Custodian who took the Shield door; Eli and Wren. Carriers, ordinary people, plants, spirits, transformed humans — in reciprocal life without kneeling, owning, or being owned. **The dragon is the one absence the community cannot integrate: the spectral remnant of an alien species that helped engineer the gods and left; its ghost remains only to deliver that account** (see #11).
+- **Rules without registering nature:** conduct-based, not identity-based. No registry; standing comes from practice and relation, checked by conduct (`40`). Fear is detached from nature; accountability attaches to acts.
+- **The test after battle-pressure is gone:** a **dispute** — e.g. a carrier's child is hurt and the co-op splits on whether to hide the gift or seek ordinary medicine; or a Custodian's past is exposed and the community must decide belonging without a purge. The test is mundane friction, not spectacle.
+- **Closing act (locked feeling):** **an afternoon nobody turns into destiny** — a meal, a repair, a clinic shift, a child watched. Ordinary continuity is the proof. Exact geography and final line remain open for drafting.
 
 ## Charged-ground triggers (clarification of the web)
 
@@ -313,7 +316,8 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 - **Locked:** Aru's thread → Göbekli Tepe (Vol II), clarified at the fox-pillar Aru carved. The drafted King's Men/Rollright frame is superseded for Aru and reusable for a late Albion/Cuno ground.
 - **Open:** witness sites for Ila, Tem, Anthea, Cuno, Lovernios, and Aedan's deep-time arc — pin each to a stone/charged ground along `35_artifact_chain.md` and the legs in `00_NARRATIVE_STRUCTURE.md`.
 - **Open:** **Broken-line church** — country, denomination, and plot hook (clue in sacristy? pursuit through nave? keeper contact?) — geometry locked in `37` § *The broken-line church* (negative end / pews, positive end / back room). **Iconography:** Michael vs Gabriel at draining end (`46` § G).
-- **Locked — archangel character ladder:** allude (Vol I) → reference (Vol II) → recontextualize (Vol III). Load-bearing three: **Michael** (Sora + church + landscape), **Gabriel** (healer messenger refusal — never embodied), **Prince of Persia** (rival unit callsign → national sar reveal). Full pins: `46` § G.
+- **Locked — archangel name seeds:** Michael / Gabriel / Persia-prince **references** across Vol I–III (§ G plot ladder; Sora's medal; church art; callsigns; healer refusal). **Not locked:** whether they are titles only or **other-plane agents who can act on Earth** — including **seraphim** and the wider **angelic orders**.
+- **ON HOLD — #angelic-orders:** Cross-plane agency, taxonomy (nine choirs vs biblical shards only), relation to **guardian caste / jinn / Igigi discarnate** (`34` §8), on-page appearance mode. Working hypotheses A/B/C in `46` § H. **Do not draft load-bearing angel/seraph scenes until unlocked.**
 - **Open:** **Prince callsign** — rival team nationality + personal name of operator who wears **"Prince"** / **Persia hold** (Vol I Ch 13 seed).
 - **Open:** Michael watched-depth — Ch 25 vs Ch 29 (`46` § G).
 - **Open:** **Nephilot massacre visit** — present-day frame for **Pömmelte** (primary henge set-piece) vs museum/aDNA only; exact Vol II/III chapter pin.
@@ -338,4 +342,4 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 
 Next: **draft prose** — per `05` §13, write the Forest City opening through the first irreversible Melaka escape (Ch 1–5), then reassess scene length against the trilogy/single-novel question. Before drafting, run each major character through `16_reader_attachment.md` (ordinary need, private wound, repeated behavior, relationship-changing action) and keep `17_reveal_order_and_reader_impact.md`'s order: emotional escalation first, terminology second. Add courtly-intrigue/hospitality pressure to at least one Act II chapter so the volume isn't only physical pursuit.
 
-**Before Volume II drafting:** lock **#7** external race (Göbekli prize). Chapter spine: `32_volume_II_beatsheet.md`.
+**All open questions (#7–#14) are now LOCKED** — design layer is closed. Vol II drafting may proceed on `32_volume_II_beatsheet.md`; Vol III on `33_volume_III_beatsheet.md` + `41`. Remaining UNPINNED items: charged-ground triggers (Tem, full Ila witness stone, Lovernios, Aedan arc ground, Göbekli present-day staging — mostly pinned now by #7), and Vol I prose Ch 1–5 (Forest City → Melaka).

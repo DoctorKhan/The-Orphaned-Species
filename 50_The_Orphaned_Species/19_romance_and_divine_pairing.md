@@ -452,11 +452,13 @@ Lesson:
 
 > Love is not less sacred because it is chosen in time.
 
-## The third woman and the triad
+## The third woman and the triad — MOOT (2026-07)
+
+**Status: moot.** The on-page triad was cut in the cast-consolidation pass — Rowan is now off-page (a referenced prior love, never appearing), and the romance is a **dyad** (Eli/Wren). The material below is preserved as a curriculum reference for *consent under pressure* generally; do not write a third on-page character from it. The dyad still carries the custody-vs-consent tension internally: Wren's prior-love instinct flares on Eli's danger and her own unfinished history, not via a second body (`26`, `27`).
 
 A third female love interest can work, but only if the structure refuses the ordinary jealousy triangle.
 
-Working name: **Rowan**. Full cast flesh, volume placement, and scene seeds: `26_present_day_cast_expanded.md` § Rowan. Development arc: `27_character_development_arcs.md` § Rowan.
+Working name: **Rowan** *(removed as on-page character — see `26` § Rowan)*.
 
 Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already entangled with Wren before Eli understands the shape of their history. **Look:** black hair (Wren is blonde — the contrast should register when they share a frame). The name carries living-world resonance without making her a prophecy clue. If Wren is the one who reads exits, Rowan should be the one who remembers costs.
 

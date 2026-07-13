@@ -20,7 +20,7 @@
 
 ### Ch 15 — Bodies and Crossings *(Eli / healer / Wren · corridor → Gulf approach)*
 - **Want (Eli):** reconstruct the damaged Vol I clue; keep moving west. **(Healer):** keep his body and route private. **(Wren):** honor her network's extraction clock.
-- **Attachment:** the healer as **other practitioner** (depth vs Eli's bandwidth); Wren's **Rowan** triad pressure enters physically (`26` § Rowan; `19` § triad).
+- **Attachment:** the healer as **other practitioner** (depth vs Eli's bandwidth); Wren's off-page prior-love history surfaces as over-management, not a new character (`26` § Rowan; `19` § triad moot).
 - **Obstacle:** independent clue chains **cross on the same wounded party** — Eli and the healer cannot both "own" the case; national **psion war** visible as policy, conscription, asylum, desertion (`38`); Wren's objective **conflicts openly** with Eli's search.
 - **Choice → Cost:** Eli accepts the healer's terms (no instrument, no faction resource). Cost: slower route; Wren's resentment.
 - **Revelation:** **"Kneel → cage → burn"** pressure begins on the healer after a witnessed stabilization — *don't tell anyone* is already breaking. **Forward clue:** Tem's record (distributed contact, broken routes) points to a **17:1 bottleneck** witness site.
@@ -80,7 +80,7 @@
 - **Choice → Cost:** Eli trusts Wren's detour over Emrys's absent map. Cost: time; faction suspicion.
 - **Revelation — set-pieces:**
   - **Nephilot trail (plot — massacre):** **Pömmelte** (or excavated henge ground) — gendered shaft burials; aDNA **unrelated women and children** from many settlements; Eli grasps **women were targeted** (carrier purge), not generic war (`37`, `90` §6).
-  - **Broken-line church (plot):** parish on a route **break** — **negative end / pews**, **positive end / sacristy**; congregation depleted, clergy charged; **Michael or Gabriel** in glass/statuary at the draining end — guardian remembered as angel, wired wrong (`46` § G).
+  - **Broken-line church (plot):** parish on a route **break** — **negative end / pews**, **positive end / sacristy**; congregation depleted, clergy charged; **Michael or Gabriel** in glass at draining end; optional cherub/seraph **iconography** (`46` §§ G, H — **agency ON HOLD**).
   - **Gabriel (plot — rumor):** healer pilgrims use annunciation language — *messenger*, *word from above* — ahead of Vol III refusal.
 - **Forward clue:** Rollright / Men-an-Tol corridor — song and riddling ground ahead.
 - **Past leak:** Shield — crosses himself at wrong end of nave; **Michael** on the wall behind him; won't say why.

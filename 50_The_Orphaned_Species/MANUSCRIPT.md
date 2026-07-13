@@ -8,17 +8,21 @@
 
 ## Preamble
 
-The Middle East was a wound that never healed in a battle that never ended. The final cut was the Iran war which spilled the lifeblood of the economy, at least for the United States. The AI bubble burst into a glorious spectacle to rival the best fireworks. A digital future was burning at the twilight's last gleaming.
+It was a wound that never healed in a battle that never ended. The final cut was the Iran war which spilled the lifeblood of the economy, at least for the United States. The AI bubble burst into a glorious spectacle to rival the best fireworks. A digital fire was burning at the twilight's last gleaming.
 
 It only took the depression that followed to elect the first woman president of the United States. Exhausted by years of extraction, the working classes were already primed for change. But many said the election was rigged, and a schism formed within the heart of the nation. Lines were drawn among people who no longer shared the same reality.
 
-What became known as World War III widened until it swallowed everything. These were called the machine wars, which relied on tactical drone strikes and surgical robot soldiers. But these were not the final weapon of the war.
+The war widened until it swallowed everything. These were called the machine wars, which relied on tactical drone strikes and surgical robot soldiers. But these were not the final weapons of the war.
 
-It was the death knell of World War III, and we do not even know who developed it, nor who released it. Perhaps it was a rogue terrorist group, powered by AI bioweapons research. It was known as a gene drive virus, but a very specific kind. Learning from the lessons of COVID, this virus targeted the same populations known to be preferentially at risk for acute COVID. No nation took credit, but every nation was touched. Millions died at once where the target marker was common — India, Pakistan, and Bangladesh first and worst, half their people carried the marker. East Asia was nearly untouched and they watched the worst of it from a distance.
+We do not even know who released the virus. No nation took credit, but every nation was touched. A genetically targeted virus. Millions died at once where the target marker was common — India, Pakistan, and Bangladesh first and worst, half their people carried the marker. East Asia was nearly untouched and they watched the worst of it from a distance.
 
 Even when fully cured, those who survived would pass it down to their children. The weapon's legacy would not stay where governments had aimed it.
 
-When the fires thinned, the world sorted itself into three factions. In the Americas, the People's Party of the Americas welded the fracture into the Continental Union — registries, walls, force — a brittle machine that looked strong because it had no spare parts left. The Eastern Mandate emerged from the bioweapon pandemic relatively unscathed. And where capitals had burned, the Free Ports Covenant learned what merchants have always learned when palaces fall: there is no single throne to defend. What matters is harbors, routes, and the willingness to trade with whoever still moves goods. Many returned to the old ways and sailing became popular again. From the ashes rose a world that moved slower, but kept moving.
+When the fires thinned, the world sorted itself into three factions. In the Americas, the People's Party of the Americas welded the fracture into the Continental Union — registries, walls, force — a brittle machine that looked strong because it had no spare parts left. 
+
+The Eastern Mandate emerged from the bioweapon pandemic relatively unscathed. 
+
+And where capitals had burned, the Free Ports Covenant learned what merchants have always learned when palaces fall: there is no single throne to defend. What matters is harbors, routes, and the willingness to trade with whoever still moves goods. Many returned to the old ways and sailing became popular again. From the ashes rose a world that moved slower, but kept moving.
 
 People continued to have children, but they were different. In adolescence, hormones opened a door the virus had cracked in the genome: fever, stillness, visions that looked like madness from outside. The episodes could last days, sometimes weeks.
 
