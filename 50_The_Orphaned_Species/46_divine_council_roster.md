@@ -185,7 +185,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 
 | Name | Narrative job | How they "appear" |
 |---|---|---|
-| **Michael** | The **protector title** — keeper faith, Shield's conscience, "who guards Israel's portion." The name people trust when they want safety. | **Vol II:** iconography + faction language. **Vol III:** optional **one** watched-depth or full-res clarification at a western/Israel-linked charged ground — *not* an ally with wings; a **shard** of the portion-holder logic Eli finally reads. Rhymes with **Manual Override** (refuse the protector who owns you). |
+| **Michael** | The **protector title** — keeper faith, Shield's conscience, "who guards Israel's portion." The name people trust when they want safety. | **Vol II:** iconography + faction language. **Vol III:** optional **one** watched-depth or full-res clarification at a western/Israel-linked charged ground — *not* an ally with wings; a **fragment** of the portion-holder logic Eli finally reads. Rhymes with **Manual Override** (refuse the protector who owns you). |
 | **Gabriel** | The **messenger title** — crowd crown for the **healer** (*word/cure from above*). | **Vol II:** rumor/iconography. **Vol III:** healer refuses messenger/Son-of-Man crown (Ch 26) — **whether a real Gabriel acts on the Unseen = ON HOLD** |
 | **Prince of Persia** | **Rival bloc** — Daniel's blocker. | **Vol II–III:** callsign first; late reveal at minimum **national sar** — **whether an other-plane agent backs the bloc = ON HOLD** |
 
@@ -205,8 +205,8 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | Name | Vol I — allude | Vol II — reference | Vol III — recontextualize |
 |---|---|---|---|
 | *(generic)* **angel** | **Ch 1 or 8:** word-trigger surge in song/prayer — body only (`SOURCE_the_surges`) | — | — |
-| **Michael** | **Ch 8:** **Sora Vithan** — medal or prayer fragment under collar; protector faith, no exposition (`26` § Sora) | **Ch 16:** *sar* vs angel in dispute; **Ch 20:** Michael in church glass at draining end | **Ch 25:** landscape/liturgy double-read; **Ch 29 (optional):** one watched-depth shard at western charged ground — portion logic, not winged ally |
-| **Gabriel** | — | **Ch 19–20:** annunciation echo in healer rumor; Gabriel in church iconography | **Ch 26:** healer refuses messenger/Son-of-Man crown *(agency mode ON HOLD — `46` § H)* |
+| **Michael** | **Ch 8:** **Sora Vithan** — medal or prayer fragment under collar; protector faith, no exposition (`26` § Sora) | **Ch 16:** *sar* vs angel in dispute; **Ch 20:** Michael in church glass at draining end | **Ch 25:** landscape/liturgy double-read; **Ch 29 (optional):** one watched-depth fragment at western charged ground — portion logic, not winged ally |
+| **Gabriel** | — | **Ch 19–20:** annunciation echo in healer rumor; Gabriel in church iconography | **Vol. II Ch. 18:** healer refuses messenger/Son-of-Man crown *(agency mode ON HOLD — `46` § H)* |
 | **Prince of Persia** | **Ch 13:** rival psion team on the ground (no name yet) | **Ch 16:** Daniel register + unit callsign **"Prince"** or **"Persia hold"** in intercept/briefing | **Ch 28–29:** codename resolves to **national sar** — partition war, not a demon; human operator was wearing a title |
 
 **Cast lock:** **Sora Vithan** carries Michael (Vol I seed → Vol III defection rhymes with refused protector). **Rival national team** wears Persia-prince callsign (Vol I Ch 13 → Vol III reveal). **Healer** carries Gabriel projection (Vol II rumor → Vol III refusal).
@@ -236,7 +236,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 1. **Cross-plane agency** — Can Michael/Gabriel/seraphim **do things** on the Unseen that change outcomes here (block a message like Daniel 10, flare a ground, warn, mislead, heal at a distance)?
 2. **Relation to existing tenants** (`34` §8) — Same lane as **guardian caste / daimones**? Subset of **Igigi discarnate**? Distinct from **jinn**? Overlap with **Anu + 26** influence?
 3. **Seraphim specifically** — Real **order** with fire/threshold role, or only Isaiah misread, or **both** (real actors remembered as six-wing icons)?
-4. **Nine choirs taxonomy** — Use medieval ladder at all, or only biblical shards (seraph, cherub, malʾakh, sar)?
+4. **Nine choirs taxonomy** — Use medieval ladder at all, or only biblical fragments (seraph, cherub, malʾakh, sar)?
 5. **On-page appearance** — Discarnate contact only (dream, rattle, entrainment)? Brief manifestation at charged ground? Never winged bodies in Act I?
 6. **Gabriel / Michael as "characters"** — § G ladder assumed **recontextualization not recruitment**; author may want **genuine other-plane agents** instead — **not decided**.
 

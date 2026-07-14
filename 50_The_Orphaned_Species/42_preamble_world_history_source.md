@@ -14,17 +14,17 @@ We do not even know who released the virus. No nation took credit, but every nat
 
 Even when fully cured, those who survived would pass it down to their children. The weapon's legacy would not stay where governments had aimed it.
 
-When the fires thinned, the world sorted itself into three factions. In the Americas, the People's Party of the Americas welded the fracture into the Continental Union — registries, walls, force — a brittle machine that looked strong because it had no spare parts left.
+When the fires thinned, the world sorted itself into three factions. In the Americas, the Continentalist Party of the Americas welded the fracture into the Continental Union — registries, walls, force — a brittle machine that looked strong because it had no spare parts left.
 
 The Eastern Mandate emerged from the bioweapon pandemic relatively unscathed.
 
-And where capitals had burned, the Free Ports Covenant learned what merchants have always learned when palaces fall: there is no single throne to defend. What matters is harbors, routes, and the willingness to trade with whoever still moves goods. Many returned to the old ways and sailing became popular again. From the ashes rose a world that moved slower, but kept moving.
+And where capitals had burned, the Free Ports Coalition learned what merchants have always learned when palaces fall: there is no single throne to defend. What matters is harbors, routes, and the willingness to trade with whoever still moves goods. Many returned to the old ways and sailing became popular again. From the ashes rose a world that moved slower, but kept moving.
 
 The children who survived the outbreak carried something the weapon had copied from people once thought vanishingly rare. As some reached adolescence, hormones forced open a receiver the species had always carried mostly asleep: fever, stillness, visions that looked like madness from outside. Adults sometimes crossed the threshold too—under illness, terror, deliberate induction, or contact with charged ground—but puberty was the most predictable gate. The episodes could last days, sometimes weeks.
 
 The Union answered with containment wards — sedation, inhibitors, baseline enforced; survivors who would not normalize were medicated, monitored, and quietly excised as the Fractured. The Mandate quarantined adolescent children and researched them attempting to find a cure. The Free Ports built threshold houses instead — above markets and docks, part clinic, part retreat, part echo of the old vision quest. There was no script, but as they learned, knowledge passed harbor to harbor like trade goods.
 
-It became a shared way of guiding a nervous system through the storm — songs, hands, proximity, the old rhythm of keeping someone alive while the fever ran. The Union hunted it as violation; the Mandate framed it as disease; the Covenant integrated it. Not all who entered came back able to live among the living. Those who did returned with a second sight that never fully switched off — waking life merging with something else. They seemed to have abilities, the entire process meant to help them integrate their new perception.
+It became a shared way of guiding a nervous system through the storm — songs, hands, proximity, the old rhythm of keeping someone alive while the fever ran. The Union hunted it as violation; the Mandate framed it as disease; the Coalition integrated it. Not all who entered came back able to live among the living. Those who did returned with a second sight that never fully switched off — waking life merging with something else. They seemed to have abilities, the entire process meant to help them integrate their new perception.
 
 New in scale, but not in origin. Natural carriers had existed before the war, hidden in families, clinics, monasteries, laboratories, and old accusations. The weapon had not created the door. It had made millions stumble against it. Indeed, as we would discover, the earth held secrets, and somewhere in her depths, an ancient force began to stir.
 

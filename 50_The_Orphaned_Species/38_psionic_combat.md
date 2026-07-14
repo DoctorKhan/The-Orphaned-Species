@@ -17,7 +17,7 @@
 
 The anti-entropic field is **not a finite power supply** (`05` §3). What a psion spends is **coherence**: the ability to hold attention as one steady, undivided pattern under pressure. Everything below costs coherence, and coherence is bounded by attention, biological stability, sleep, pain, fear, and emotional exposure.
 
-**Strength** in any contest = **coherence (skill/practice)** × **energy supplied** (how hard you push) × **coherent minds acting as one** (a team) × **proximity to a conductor or charged ground** (a ley line, a stone, a relay amplifies everything). This single formula decides who shields, who breaks, who reflects.
+**Strength** in any contest = **coherence (skill/practice)** × **energy supplied** (how hard you push) × **coherent minds acting as one** (a team) × **proximity to a conductor or charged ground** (a ley line, a stone, an instrumented threshold amplifies everything). This single formula decides who shields, who breaks, who reflects.
 
 This is why psions fight in **teams**: coherent attention pooled is greater than the sum, and a team can hold, probe, shield, or overwhelm what no lone psion can. It is also why the **fellowship** matters thematically — collective coherence without a command hierarchy is the coalition's whole problem (`05` §7).
 
@@ -58,7 +58,7 @@ A Bubble or Block **can be broken if you are strong enough** (user's mechanic) �
 ## 3. Meta-rules (range, lock, team)
 
 - **Signature lock.** You can't reliably attack what you can't find. Reliable distance work needs a **known signature** — a target you've touched, tracked, or been given. Strangers are hard; the famous, the recently-breached (Eli after Melaka), and the careless are easy. Masking, decoys, and false signatures are core tradecraft.
-- **Conductor / range.** Without a conductor, psionic action is **short-range** (a room, a line of sight, a touch). A **ley line, stone, charged ground, or living relay** extends it — sometimes vast distances. This is why the grid matters and why monitored boundaries (the England ambush) work: cross an instrumented threshold and you light up a conductor that a prepared team is already locked onto.
+- **Conductor / range.** Without a conductor, psionic action is **short-range** (a room, a line of sight, a touch). A **ley line, stone, charged ground, or psion anchor locked to the conductor** extends it — sometimes vast distances. This is why the grid matters and why monitored boundaries (the England ambush) work: cross an instrumented threshold and you light up a conductor that a prepared team is already locked onto.
 - **Team functions.** A designed team divides labor: one **locks** (holds the signature), one or more **lance**, one **shields** the team, one **scouts/masks**. This is the template for the recurring rival team (`05` §5).
 - **Detection ≠ identity.** Sensing a signature reveals direction, intensity, and anomaly — usually **not** a full identity or motive. You know something woke up; you don't yet know who or why.
 - **The sight is its own faculty.** Perceiving the psi plane — seeing the forms, not just feeling them — is a *developed* capacity (Eli's "seeing" stage; the pineal interface), not standard issue. A psion may only **feel** a Lance land while a **seer sees** its line, its origin, and the lock behind it. Seers therefore hold a tactical edge: they spot a signature lock forming, read a team's geometry, and catch an incoming line in time to reflect it (§B). Always render combat through what *this* POV can actually perceive — feel, sight, or both.
@@ -99,7 +99,7 @@ A Bubble or Block **can be broken if you are strong enough** (user's mechanic) �
 | **Witness site / charged ground** | Clarification at stone; tether anchor; archive access |
 | **Choke point / strait crossing** | Scour forces detour into ambush or monitored boundary |
 | **Approach to Albion** | Instrumented thresholds; dead zones bracket live grounds |
-| **Rival team's relay** | Lance on their prepared conductor |
+| **Rival team's prepared conductor** | Lance on their instrumented line |
 
 **Limits:** scour costs **team coherence + exposure**; leaves a **signature** on the wound; doesn't erase the planetary net — only local kill. Conventional weapons may follow (break stone, salinate field) but the **biological refusal** (plants/animals) marks psionic scour.
 

@@ -32,7 +32,7 @@ His father did this part with his eyes shut. Eli tries it with his eyes shut. Th
 
 A generator catches somewhere below. Beyond the rail the water goes out flat and grey. He can smell mud and frying oil and the sweet rot under the coconut palms. Two men are already in the trees by the promenade, knocking coconuts down into a net while a third stands below and tells everyone not to die in Bengali.
 
-Forest City is quiet only at this hour. The reopened resort-port is still half unfinished, half refuge. Later the Network School people will come out with laptops and wet hair, talking companies and countries and the thing they are all building here when the corridor satellite is in range. The waterparks will start their pumps. The children's train will make its bright useless loop. At night the light-up butterflies will blink in the palms as if the place has decided to be magical by committee. Eli likes it best before it begins. He likes the beach empty. He likes the racing sailboats waiting beyond the marina wall, their masts ticking softly in the dark.
+Forest City is quiet only at this hour. The reopened resort-port is still half unfinished, half refuge. Later the Forest Foundry people will come out with laptops and wet hair, talking companies and countries and the thing they are all building here when the corridor satellite is in range. The waterparks will start their pumps. The children's train will make its bright useless loop. At night the light-up butterflies will blink in the palms as if the place has decided to be magical by committee. Eli likes it best before it begins. He likes the beach empty. He likes the racing sailboats waiting beyond the marina wall, their masts ticking softly in the dark.
 
 Past the rail the other towers stand black and half-open — families on poured concrete, laundry lines between scaffold poles, children who have no wage ticket and no old man who owes their father a favour. Eli has no money and no country. He has a key to the water and a plot on nine and a job because Arif knew Babaji before the hunt. That is luck, not merit, and most mornings the view reminds him before the pitch decks start.
 
@@ -44,7 +44,7 @@ Down in the compound the first generator catches with a cough.
 
 He goes down.
 
-The Network School block is still half scaffold and half dream — glass that never arrived, a lobby full of cable drums, whiteboards bolted to raw concrete. Eli resets the plaza robot dog on its morning route, patches the fire door on the loading bay Mei uses for crates, and runs a test line for the terrace uplink before the founders wake up with their laptops and their countries.
+The Forest Foundry block is still half scaffold and half dream — glass that never arrived, a lobby full of cable drums, whiteboards bolted to raw concrete. Eli resets the plaza robot dog on its morning route, patches the fire door on the loading bay Mei uses for crates, and runs a test line for the terrace uplink before the founders wake up with their laptops and their countries.
 
 Over a junction box his mind goes quiet, the way it does over a clean splice and in the dirt and nowhere else.
 
@@ -114,7 +114,7 @@ Mei doesn't answer for a moment. Then she turns and looks across the cafe at Eli
 
 "Leave it." She says it to him, not to Suresh. "No one brings a song into your workplace after this long to do you a favour. You've got a place here. A door that locks. People who'd stand in front of you." She holds his eyes. "That's more than most — and you know it."
 
-His mother has been dead ten years.
+Ten years since they took her — ten years since the keepers told a fatherless boy she was dead.
 
 "Where in Melaka?" Eli says.
 
@@ -176,13 +176,13 @@ The old one's eyes sharpen, then soften. "Everyone who matters in this strait kn
 
 ## Chapter Two — Something of Hers
 
-In the morning the children's train starts its bright useless loop and the waterparks cough their pumps awake. Eli is in the garden pinching pale seedlings when his phone buzzes once — Suresh, no text, only a location pin at the marina that loads slow, three bars and then nothing, then three words when the relay catches: *tide tonight. ask me then.*
+In the morning the children's train starts its bright useless loop and the waterparks cough their pumps awake. Eli is in the garden pinching pale seedlings when his phone buzzes once — Suresh, no text, only a location pin at the marina that loads slow, three bars and then nothing, then three words when the signal finally catches: *tide tonight. ask me then.*
 
 He does not go to the marina. He goes down to the compound service bay.
 
 Priya has the uplink panel open and Tio is already hauling crates for Mei on the terrace. The night run from Suresh's boat is still stacked by the loading bay. Eli resets a breaker, tags two dead access points, and starts on the cable Mei asked for.
 
-By ten the mall is open. Rina calls down from her shutter that she saved him the charger with the long cord — the long one, for when the tower relay drops and everyone's phone dies at once. Mina and Lopa wave from the tailor's. Kiran's text from the sail shed arrives a minute late: *you skipping sticks?* Eli types *work* and does not look up again until the terrace band starts tuning for the lunch crowd — two guitars, a drum box, the same dock boys as Friday.
+By ten the mall is open. Rina calls down from her shutter that she saved him the charger with the long cord — the long one, for when the tower signal drops and everyone's phone dies at once. Mina and Lopa wave from the tailor's. Kiran's text from the sail shed arrives a minute late: *you skipping sticks?* Eli types *work* and does not look up again until the terrace band starts tuning for the lunch crowd — two guitars, a drum box, the same dock boys as Friday.
 
 Mei's face does not change when she hears the first four notes. Eli's does.
 
@@ -198,7 +198,7 @@ White coats. Clipboards. The wrong kind of fever check.
 
 "—registry discrepancy in the facility cohort—"
 
-"—Covenant health authority—"
+"—Coalition health authority—"
 
 "—voluntary screening—"
 
@@ -206,7 +206,7 @@ Mei, louder: "We're in service. You want lunch, you buy lunch."
 
 Eli runs.
 
-Not because he has decided anything. Because the alley opens onto the promenade and the promenade is where the Covenant pretends the war is a theme park, and if he stops he will put Mei's terrace on a list.
+Not because he has decided anything. Because the alley opens onto the promenade and the promenade is where the Coalition pretends the war is a theme park, and if he stops he will put Mei's terrace on a list.
 
 The robot dog crosses his path on its morning route — head down, head up, cameras adjusting with that soft little tick, as if it has solved him and found the answer disappointing. Eli almost pats the warm plastic out of habit. Then he sees the white coats behind him and the green light on the dog's chest blink once, filing.
 
@@ -216,7 +216,7 @@ He vaults the chess boards under the shade sails — a knight clicks into ruin �
 
 He goes up.
 
-On the third floor Kiran is already dragging a tandem rental out of the bike cage, two seats, one rusted chain, the kind of thing tourists use when they want to pretend they're fit. Kiran trains with him every morning — sticks, footwork, the Network School habit of treating everything like a race.
+On the third floor Kiran is already dragging a tandem rental out of the bike cage, two seats, one rusted chain, the kind of thing tourists use when they want to pretend they're fit. Kiran trains with him every morning — sticks, footwork, the Forest Foundry habit of treating everything like a race.
 
 "Back seat," Kiran says. "Pedal."
 
@@ -276,9 +276,7 @@ Eli waits. The water knocks at the hull.
 
 "Your mother came through here. During the worst of it. With a husband — Bengali. Rahman. Arif, the gardener. He's gone now." Suresh studies the line in his hands. "She ran with the keepers. The ones who hide the children when it comes on them. You were in that net after. That's how you washed up here, isn't it — Forest City, no papers, Arif's boy on a wage ticket, keeping his head down."
 
-He looks at Eli, finally.
-
-"She died here. Ten years. The man in Melaka knew her then."
+"She vanished here. Ten years." He looks at Eli, finally. "That's what your net was told — dead, don't ask. I wasn't there for the last of it. The man in Melaka knew her when she was still running. Says he has something of hers."
 
 "What band?"
 
@@ -326,7 +324,7 @@ The strait opens and the resort lights thin behind them. Ahead, other boats move
 
 Suresh cuts the engine back as the police launch turns near the buoy. For half a minute they move with barely a wake, the boat ticking under them.
 
-"Covenant patrol," Suresh says under his breath. "Don't stare."
+"Coalition patrol," Suresh says under his breath. "Don't stare."
 
 "Movement remembers," he says. "A musician gets paid. A fuel man hears a name. Someone at the chandlery knows which rooms are watched." He brings the engine up one notch. "By morning, five people know too much and none of them know the same thing."
 
@@ -558,7 +556,7 @@ At the far end of the corridor, a door is open.
 
 There is a man inside, sitting on the floor with his back against the bed. Thin. Soaked through. One hand pressed to his ribs. His hair is white at the temples and black everywhere else, as if fear started there and ran out of patience.
 
-He is the witness. Eli knows it before the man speaks, because there is an oilcloth packet on the bed beside him, no larger than a hand. Someone has tied it with red thread gone almost black from handling.
+He is the witness. Eli knows it before the man speaks, because there is a ring on the bed beside him, threaded on a fieldwork cord gone almost black from handling — silver and brass, joined at a seam no one ever filed smooth.
 
 The man looks up, and the relief on his face is so naked that Eli hates him for it.
 
@@ -576,17 +574,17 @@ The man closes his eyes. "You followed the music. So did they."
 
 The room goes small.
 
-Eli looks at the oilcloth. The man sees him look and shakes his head before Eli can move.
+Eli looks at the ring. The man sees him look and shakes his head before Eli can move.
 
-"It is hers," the man says. "And if you open it here, you waste everything she did to keep it closed."
+"It is hers," the man says. "And if you take it up here, now, you waste everything she spent to put it in your reach."
 
 "What is it?"
 
-"A record. Names, places, enough truth to get people killed." He swallows. "Enough truth to make you forget there are living people in the room."
+"Her wedding ring. Your father's work — silver and brass, joined at a seam he never filed smooth." He swallows. "And the thing they used to pull you here. Enough of her in it to make you forget there's a living man in the room."
 
 Below, in the street, someone shouts.
 
-The man reaches for Eli's wrist and misses. "Your mother said if this ever found you, you were to choose the living person over the record."
+The man reaches for Eli's wrist and misses. "Your mother said if this ever found you, you were to choose the living person over the ring."
 
 Eli stands very still.
 
@@ -594,7 +592,7 @@ The charge is no longer only in his hands. It is behind his eyes and under his s
 
 "What living person?"
 
-"Me, if you can." The man looks toward the stairs. "Anyone, if you can't. Not the packet. Not first."
+"Me, if you can." The man looks toward the stairs. "Anyone, if you can't. Not the ring. Not first."
 
 "Who are you?"
 
@@ -604,9 +602,9 @@ Footsteps hit the stairs below. More than one person. Fast now.
 
 The man looks toward the door, then back to Eli.
 
-"Roof— hatch at the end— forget the packet—"
+"Roof— hatch at the end— forget the ring—"
 
-The oilcloth on the bed pulls at him the way the song did. Names. Places. Her work in his hands if he just reaches.
+The ring on the bed pulls at him the way the song did. Her thumb worrying the seam when she was thinking. Her voice, low: *same soil.* Her, in his hand if he just closes it.
 
 Eli reaches for the man's arm instead.
 
@@ -640,7 +638,7 @@ The man shoves Eli toward the gap between them.
 
 "Go—"
 
-"I didn't come for the packet," Eli says, which is not the same as knowing what he came for, and then he is moving anyway because the first rider is off the scooter and closing fast and the man's ribs are not going to survive what comes next.
+"I didn't come for the ring," Eli says, which is not the same as knowing what he came for, and then he is moving anyway because the first rider is off the scooter and closing fast and the man's ribs are not going to survive what comes next.
 
 Eli puts himself between them.
 
@@ -698,13 +696,13 @@ The chandlery door slams open. The boy with the schoolbook steps into the lane w
 
 Then the chandlery man looks down at him and says something he will never forget.
 
-"Not the packet," the man says. "Her son. That's who they're after."
+"Not the ring," the man says. "Her son. That's who they're after."
 
 The boy pulls Eli up by one arm. The white eye man takes the knife-man's wrist and breaks it the way a man breaks something he has broken before. Outside the lane, Melaka keeps happening: a moped coughs, someone sings, a shutters rattles.
 
 The custodian team has seen the flare. The receiver signature spiked through a body that was not supposed to register. They are not here for him anymore. They are here for whatever he has woken up.
 
-Eli's legs give. The boy and the one-eyed man drag him inside, up the stairs, through the back. They put him on the floor of a room that smells of rope and schoolbooks and the river. The man shoves the oilcloth packet into his chest.
+Eli's legs give. The boy and the one-eyed man drag him inside, up the stairs, through the back. They put him on the floor of a room that smells of rope and schoolbooks and the river. The man closes Eli's hand around the ring.
 
 "You remind her of a door," the man says. "That's why they used the song. A door, not a target. You open it, they walk through."
 

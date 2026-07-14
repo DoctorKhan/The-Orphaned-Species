@@ -656,17 +656,18 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 
 | Volume | Doc | Dramatic job | End state |
 |---|---|---|---|
-| **I** | `31` § *Romance cost audit* | Recognition refused → forced alliance; **no label** | Trust enough to keep moving |
-| **II** | `32` § *Romance cost audit* | Care → control; **rupture before union** | Commitment at **debt** (Ch 22) |
+| **I** | `31` § *Romance cost audit* | Recognition refused → forced alliance; **rupture at Göbekli** | Cold shoulder into Vol II — union **deferred** |
+| **II** | `32` § *Romance cost audit* | Bill Vol I rupture; mother recoil; **repair before union** | Commitment at **debt** (Ch 21) |
 | **III** | `33` | Union tested by jurisdiction: Wren refuses Eli her network; he accepts that love grants no command access | Partnership without merger; affection survives separate duties and judgment |
 
 ### Five load-bearing beats (if these land, romance reads *chosen*)
 
 1. **Vol I Ch 7** — suspicion spoken aloud after the soft probe: is the contact genuine or planted? Exact phrasing must arise from the scene (`00` §6c).
 2. **Vol I Ch 9** — escape offer (*we could leave*) — almost works; fails on third loyalty.
-3. **Vol II Ch 17–18** — mother midpoint **cools** romance (replacement fear); **rupture** when Emrys taken.
-4. **Vol II Ch 22** — present-tense commitment at **unpaid cost** — not ambush adrenaline.
-5. **Vol III Ch 27–31** — Wren refuses Eli access to her network; he later submits his own authority to limits and review. Their relationship survives without either becoming the other's jurisdiction.
+3. **Vol I Ch 17** — **rupture** when Emrys taken (cold shoulder; blame or *I told you*).
+4. **Vol II Ch 17** — mother midpoint **cools** romance (replacement fear) — separate from Emrys rupture.
+5. **Vol II Ch 21** — present-tense commitment at **unpaid cost** — not ambush adrenaline.
+6. **Vol III Ch 27–31** — Wren refuses Eli access to her network; he later submits his own authority to limits and review. Their relationship survives without either becoming the other's jurisdiction.
 
 ### Drift risks (too-easy failure modes)
 
@@ -675,7 +676,7 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 | Field-recognition reads as soulmate QED | Ch 4 magnitude without meaning; Ch 7 misread fight |
 | Wren keeps choosing him = reward fantasy | Laleh/Asha bill (Ch 8); resentment through Vol II Ch 15 |
 | Mother arc accelerates romance | Ch 17 recoil — *don't put her in that chair* |
-| Union without rupture | Ch 18 cold shoulder → Ch 20 repair → Ch 22 choice |
+| Union without rupture | Vol I Ch 17 cold shoulder → Vol II Ch 19–20 repair → Ch 21 choice |
 | *Liaisons* pressure too thin (triad cut) | Ch 16 honey-trap; Ch 19 Sol secrecy |
 | Book III makes Wren's network the hero's natural resource | Ch 27 refusal materially weakens Eli's plan and remains legitimate |
 
@@ -692,7 +693,9 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 
 ### Dyad note (2026-07)
 
-Rowan off-page; romance is **Eli/Wren only**. Custody-vs-consent tension is **internalized** (prior-love instinct, Mira wound) — compensate with **Liaisons** pressure (Ch 16), Sol thread (Ch 19), and explicit rupture/repair (Ch 18–20).
+Rowan off-page; romance is **Eli/Wren only**. Custody-vs-consent tension is **internalized** (prior-love instinct, Mira wound) — compensate with **Liaisons** pressure (Ch 16), Sol thread (Ch 19), and explicit rupture/repair (**Vol I Ch 17** → Vol II Ch 19–20).
+
+**Bengali–Melakan quiet-culture lock:** Wren's queer history belongs to an internally affirming, externally discreet mutual-aid culture shaped by persecution. **Everyone inside knows; no one outside is owed the knowing.** Render belonging through ordinary inclusion and protected information, not a coming-out lecture. Preserve the internal dispute: discretion can be survival, but neither romance nor community may use it to excuse deception, coercion, or erasure (`05` § *Social worlds against atomization*).
 
 ## Female mystery, intrigue, and attraction (LOCKED)
 
@@ -774,7 +777,7 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 | Vol | Mystery | Intrigue | Attraction |
 |---|---|---|---|
 | **I** | Unreadable operator; leaks (bun, ping); field-recognition refused | Light-cross; Laleh/Asha; Custodians mirror; Ch 7 fed? | Stairwell proximity; sanctuary **after** snap; complementary cowardice; **no label** |
-| **II** | Sol secrecy; mother recoil; replacement fear named | Honey-trap; Emrys rupture; trade fork; file doubt | Repair after rupture; commitment at **debt** (Ch 22) |
+| **II** | Sol secrecy; mother recoil; replacement fear named | Honey-trap; **Vol I rupture** billed; trade fork; file doubt | Repair after rupture; commitment at **debt** (Ch 21) |
 | **III** | Open-handed without fate-language | Crane wedge; indispensable network choice | Parallel release with mother; tired coda touch |
 
 **Per-chapter M/I/A lines:** `31` / `32` / `33` § *M/I/A audit* (drafting).
@@ -785,7 +788,7 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 
 | Vol | Beatsheet audit | Arc job | End-state register |
 |---|---|---|---|
-| **I** | `31` § *M/I/A audit* | Unreadable operator → leaks → trust without label | Attraction **felt**, not named; intrigue **unresolved** |
+| **I** | `31` § *M/I/A audit* | Unreadable operator → leaks → trust Ch 14 → **rupture Ch 17** | Attraction **felt**, not named; intrigue **unresolved**; **cold shoulder** into II |
 | **II** | `32` § *M/I/A audit* | Honey-trap + rupture → repair → commitment at **debt** | Intrigue exits counterfeit; control named |
 | **III** | `33` | Jurisdiction conflict → Wren refusal → bounded cooperation → inquiry | Open-handed partnership; ordinary affection without merger |
 
@@ -794,15 +797,16 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 1. **Vol I Ch 7** — *is this fed?* — intrigue spoken; mystery misread (trap vs destiny).
 2. **Vol I Ch 8** — Laleh/Asha + sanctuary **after** snap — all three registers on one page.
 3. **Vol I Ch 14** — hand held/released — attraction up; mystery via **behavior**, not confession.
-4. **Vol II Ch 16–17** — honey-trap dismantled; mother **recoil** — intrigue + attraction **down**.
-5. **Vol III Ch 27 / Ch 31** — she refuses command access; after the crisis they choose continued relationship without undoing her boundary or his sanction.
+4. **Vol I Ch 17** — Emrys taken — **rupture**; all three registers down on comfort.
+5. **Vol II Ch 16–17** — honey-trap dismantled; mother **recoil** — intrigue + attraction **down**.
+6. **Vol III Ch 27 / Ch 31** — she refuses command access; after the crisis they choose continued relationship without undoing her boundary or his sanction.
 
 **Drift risks:**
 
 | Vol | Risk | Guard |
 |---|---|---|
 | **I** | Ch 5+8+14 tenderness without Ch 7+9+13 friction | Bill resentment on dialogue; at least one register **down** before Ch 14 |
-| **II** | Ch 22 union without Ch 17–19 damage | Mother midpoint **cools** romance; rupture before repair |
+| **II** | Ch 21 union without Ch 17–19 damage | Mother midpoint **cools** romance; **Vol I rupture** must be billed Ch 15 |
 | **III** | Mother goodbye → Wren as sequential consolation | Release beats **parallel**; Ch 30 coda without fate-language |
 
 ### Other women (brief)

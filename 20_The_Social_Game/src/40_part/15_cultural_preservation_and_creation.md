@@ -94,7 +94,7 @@ The academic evidence for traditional social innovation is overwhelming. David G
 
 James C. Scott's influential analysis in "Seeing Like a State" demonstrates how traditional local knowledge systems often outperform centralized planning. Scott shows how states systematically destroy local innovation capacity by imposing standardized systems that ignore local conditions and accumulated wisdom. His work reveals the sophistication of traditional governance and resource management systems that modern institutions often fail to match.
 
-Elinor Ostrom's Nobel Prize-winning research on "Governing the Commons" provides empirical evidence for how communities successfully manage shared resources through locally-developed governance systems rather than top-down control. Her studies of irrigation systems, fisheries, and forests around the world show that communities can develop sustainable management practices when they have the autonomy to experiment and adapt.
+Elinor Ostrom's Nobel Prize-winning research on "Governing the Foundry" provides empirical evidence for how communities successfully manage shared resources through locally-developed governance systems rather than top-down control. Her studies of irrigation systems, fisheries, and forests around the world show that communities can develop sustainable management practices when they have the autonomy to experiment and adapt.
 
 Robert Putnam's study "Making Democracy Work" examined how social capital and civic traditions enable effective governance and economic development in Italian communities. His research shows that communities with strong traditions of cooperation and civic engagement consistently outperform those without such traditions, regardless of economic resources or formal institutions.
 
@@ -292,7 +292,7 @@ This is how the solution scales.
 
 **Building Systemic Resilience**: This creates a decentralized, anti-fragile network:
 - **No single points of failure** since communities are distributed rather than centralized
-- **Continuous innovation** as each node experiments and shares improvements
+- **Continuous innovation** as each community experiments and shares improvements
 - **Rapid adaptation** when external conditions change
 - **Cultural preservation** through multiple communities maintaining and evolving traditions
 

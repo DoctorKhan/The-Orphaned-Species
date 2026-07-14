@@ -16,7 +16,7 @@
 
 **Suggested direction.** Design the native road as a concrete, repeatable, on-page **procedure** with a cost and a limit — before drafting anything else. It must be demonstrable, teachable, partial, and re-corruptible (so the ending is a fragile human achievement, not a switch). Pair with the "third door" logic (`49_machiavelli_toolkit.md` §G) so it also answers the Sol/Crane temptations structurally.
 
-**Status.** Full mechanism now designed in `41_climax_the_awakening.md` (node→web; mother's release → trapped-soul cascade → amplifier defueled; integrate-with-earth; power disperses; the crux refusal; cost/limit/fragility). What remains is **author decisions**, not design: the named death, lattice density, Custodian fates, the re-corruption seed, and the seed-pattern's sensory form (song/breath/geometry).
+**Status.** Full mechanism now designed in `41_climax_the_awakening.md` (the web; mother's release → trapped-soul cascade → amplifier defueled; integrate-with-earth; power disperses; the crux refusal; cost/limit/fragility). What remains is **author decisions**, not design: the named death, lattice density, Custodian fates, the re-corruption seed, and the seed-pattern's sensory form (song/breath/geometry).
 
 **Related:** `41`, `99` #12, #11 (dragon's role), #14 (final community).
 
@@ -56,7 +56,7 @@
 
 **Problem (a) — mass.** The lore surface is enormous (Anunnaki/Igigi/dragons/Watchers/Apkallu/Nephilim/Nephilot/Gibborim/Lullu/Adamu/Qingu, the ladder, panspermia, the living web, charged grounds, dead zones, psionic primitives, archangel ladder, 70-son roster, Anu+26 — now a Machiavellian layer). Risk: the reader drowns and the human story is buried.
 
-**Problem (b) — RESOLVED.** The taxonomy revision is adopted and **reconciled**: "Titans" retired (folded into the Anunnaki drone-caste), "Hardware Recall" renamed **Sub-Drone Domestication**, and **Anu + 26** kept distinct from the seventy sons; legacy terms (*memory capsule, lived-life/watched-vision, Aedan relay, resonance braid*) survive only in intentional deprecation lists (`36` §2, `37` §5/§12, `95`, `99`) plus a few live-frame leftovers now swept (`10`, `15`, `25`, `39`). The web model (`36`) governs; `shard` and `node` are now canonical web-vocabulary.
+**Problem (b) — RESOLVED.** The taxonomy revision is adopted and **reconciled**: "Titans" retired (folded into the Anunnaki drone-caste), "Hardware Recall" renamed **Sub-Drone Domestication**, and **Anu + 26** kept distinct from the seventy sons; legacy terms (*memory capsule, lived-life/watched-vision, resonance braid*) survive only in intentional deprecation lists (`36` §2, `37` §5/§12, `95`, `99`) plus a few live-frame leftovers now swept (`10`, `15`, `25`, `39`). The web model (`36`) governs; `shard` and `node` remain retired web-vocabulary (see `95_glossary.md` § LOCKED vocab and `23_2040_present_frame.md` § Craft lock).
 
 **Why it matters.** (a) buries the door (the human story is the only way in); (b) means drafting prose on unstable ground that will calcify wrong.
 
@@ -73,7 +73,7 @@
 **Problem.** Large named cast (Eli, Wren, Rowan, Emrys, Crane, Somchai, Sol, four Custodians, Priya, Hassan, Thila, Farida, Rico, Lani, Babaji, Suresh, Mei + deep-time threads). Three sub-issues:
 - **Bloat.** Ask which characters merge or drop. The four-person Custodian team especially — a reader will struggle to hold four coerced-carrier antagonists distinct; consider three, or two vivid + two functional.
 - **The Wren/Rowan triad** has an explicitly *open* end-state (`99` Rowan pin). Decide it before Vol II — it colors every Wren scene, and an unresolved triad adds load in an already-dense book.
-- **Eli/Somchai overlap — ☑ FIXED.** Two fixes: (1) healing is Somchai's alone; Eli only *reads* bodies (`15`, `32_the_warm_hands`, `26`, et al.). (2) The twin deification-refusals are now **distinct crowns** — Somchai refuses the **crown of the body** (worship of his healing; Ch 26; reason = bodily limits, *son of a man*), Eli refuses the **crown of the polis** (the ruler/founder/one-voice; Ch 27; reason = ownership rebuilds the cage). The order **builds** (healer's bodily refusal is the intimate-scale proof Eli scales up), it doesn't echo. Locked in `05` ("two refusals, two crowns"), wired into `33` Ch 26/27, `46` §G, `26`.
+- **Eli/Somchai overlap — ☑ FIXED.** Two fixes: (1) healing is Somchai's alone; Eli only *reads* bodies (`15`, `32_the_warm_hands`, `26`, et al.). (2) The twin deification-refusals are distinct crowns — Somchai refuses the **crown of the body** in **Vol. II Ch. 18** (worship of his healing; reason = bodily limits, *son of a man*), while Eli refuses the **crown of the polis** in the **Book III attack chapters** (the ruler/founder/one-voice; reason = ownership rebuilds the cage). The order builds: Somchai's bodily refusal is the intimate-scale proof Eli later scales up. Locked in `05`, `32` Ch. 18, and `33`'s climax.
 
 **Why it matters.** Diffused attention weakens every thread; the triad and the twin-refusal are specific redundancy risks.
 
@@ -85,17 +85,17 @@
 
 ---
 
-## 6. ☐ The middle volume has no clock
+## 6. ☑ The middle volume has no clock — RESOLVED (Göbekli race moved to Vol I)
 
 **Problem.** "Reconstruct the damaged clue" is too vague to drive Vol II. Middle volumes die without a concrete race — a specific object/person/ground, a rival also racing it, a deadline that makes delay bleed.
 
 **Why it matters.** Vol II is the structural weak point of most trilogies; without a clock it sags.
 
-**Evidence.** `99` #7 (self-flagged: "reconstruct the damaged clue is too broad"), still open.
+**Evidence.** `99` #7 (formerly open); `31` Ch 17; `99` #6.
 
-**Suggested direction.** Lock the Göbekli prize as a concrete race with a rival and a deadline (what culminates at the buried interface, who else wants it, what's lost if late) — decided *before* Vol II drafting.
+**Resolution (LOCKED 2026-07-12):** The **sealed-interface race at Göbekli** — permit window, rival consortium, Nephilot reveal, Emrys error — is **Volume I climax** (`31` Ch 17; `99` #6–#7). Vol II opens post-Göbekli with Emrys absent; its clock is **mother tether + Europe corridor + Maren release** (`32` Ch 15–21).
 
-**Related:** `99` #7, #9 (Emrys's error as the thing that costs the race).
+**Related:** `99` #7, #9 (Emrys's error — Vol I Göbekli).
 
 ---
 
@@ -107,7 +107,7 @@
 - ☑ **Women / Hollywood "girl power" (LOCKED).** Negative templates + positive power registers. Hub: `15` § *Women characters*.
 - ☑ **Romance cost audit (LOCKED — drafting).** Per-chapter flags in `31`/`32`/`33`; five load-bearing beats + drift risks in `19` § *Romance cost audit*; anti-pattern in `27`.
 - ☑ **Female mystery, intrigue, attraction (LOCKED).** Wren register without femme-fatale: `19` § *Female mystery…* (through-line + § *M/I/A drafting audit*); `26` Wren guardrails; `15` Wren row. **Per-chapter M/I/A** wired in `31`/`32`/`33` § *M/I/A audit* (Vol I–III). Craft rule #7 in `40_concepts.md`; checklist `27` items 5–6; locked row `28`.
-- ☑ **Cultural moment & story-first resonance (2026-07).** Dated evidence, durable pressures, character engines, and guardrails against demographic or franchise-template writing: `44_cultural_moment_and_mass_appeal.md`; Vol I alignment in `31`; index `28`.
+- ☑ **H4 STALE SPINE — RESOLVED (2026-07-13).** Göbekli + Emrys-taken = **Vol I climax** (`31` Ch 17; `99` #6–#7). Mekong = agricultural witness (Ch 9–14), not climax. Vol II opens post-Göbekli; Stonehenge/Albion + Maren release = Vol II end (`32` Ch 21). Synced across `29`, `31`, `32`, `05`, `19`, `37`, `SOURCE_TO_TRILOGY_MAP`, `00_NARRATIVE_STRUCTURE`.
 
 ## One-line summary
 

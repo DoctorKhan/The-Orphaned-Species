@@ -423,7 +423,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **The finding (paraphrase):** Early Anatolian/Near Eastern farmers carry a distinct **Basal Eurasian** component — a "ghost lineage" absent in other ancient groups — consistent with a **sealed/refugium nursery** unsealing into the Neolithic spread. In canon this rhymes with **Qingu** stock at Phase VI; **Nephilot** carriers follow a separate down-breeding path but the **archaeogenetic trail Eli can follow begins here**.
 
-**Suggested placement:** *On the record* after **Vol II Göbekli** chapters; epigraph optional.
+**Suggested placement:** *On the record* after **Vol I Göbekli (Ch 17)** chapters; epigraph optional.
 
 ### B. Pömmelte ring sanctuary — gendered massacre in the henge
 

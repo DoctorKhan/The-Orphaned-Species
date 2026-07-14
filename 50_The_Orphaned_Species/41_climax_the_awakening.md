@@ -26,13 +26,13 @@ Remaining together prolongs her tether and feeds the system holding other souls.
 
 ## Core mechanic — defuel the amplifier, seed the web
 
-The amplifier scales psionic control through trapped souls. They are both fuel and relay: their isolated signatures let the machine lock, block, and route force across many targets.
+The amplifier scales psionic control through trapped souls. They are both fuel and routing channel: their isolated signatures let the machine lock, block, and route force across many targets.
 
 Maren remains tethered by unfinished attachment and hope of reunion. When Eli stops using reunion as proof that love survived, her release demonstrates a path the other trapped souls can follow. Her clarity propagates through the connected field. Enough souls leave that the amplifier loses its fuel and switchboard.
 
 The machine goes dark because its captives walk out, not because Eli becomes its better owner.
 
-At the same moment, a small number of prepared people and charged grounds enter collective coherence. Eli's transmission provides a seed pattern rather than a command. Those able and willing to catch it become temporarily harder to isolate and signature-lock: their signal participates in a connected field rather than presenting as a solitary node.
+At the same moment, a small number of prepared people and charged grounds enter collective coherence. Eli's transmission provides a seed pattern rather than a command. Those able and willing to catch it become temporarily harder to isolate and signature-lock: their signal participates in a connected field rather than standing as a solitary point cut off from it.
 
 This is the first awakening. It is a local and distributed breach in the old monopoly, not universal enlightenment.
 
@@ -78,7 +78,7 @@ The strands resolve together: Maren's release defuels the machine while the volu
 - Connected coherence is a temporary practice, not a permanent upgraded state.
 - Hostile psions outside the affected lattice retain their capacities.
 - Even connected people can panic, violate consent, commit crimes, or be manipulated.
-- The pattern cannot be commanded without recreating node-and-controller logic.
+- The pattern cannot be commanded without recreating a controller-and-subject hierarchy.
 - Future actors can build new classification systems, amplifiers, cults, or coercive networks.
 
 ### Consequences that generate Book III

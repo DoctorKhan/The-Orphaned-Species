@@ -272,7 +272,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Adventure object:** bridge, ferry manifest, old milestone, rail tunnel, church bell, weather station, border sensor.
 
-**Rule learned:** monitored boundaries require prepared routes, watchers, sensors, signatures, or relays. There are no magic walls.
+**Rule learned:** monitored boundaries require prepared routes, watchers, sensors, signatures, or **conductor anchors**. There are no magic walls.
 
 **Trick:** the team crosses by changing group coherence, not by hiding every individual.
 

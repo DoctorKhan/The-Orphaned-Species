@@ -1,16 +1,41 @@
 # Volume I — *The Breach* — Beat Sheet
 
-> **SUPERSEDED AS A FULL SPINE — 2026-07-12.** The Forest City and Melaka material remains live. The former Mekong/South Asia climax allocation moves to **Book III**. Book I now continues west through the maritime/Gulf corridor and climaxes at **Göbekli Tepe**, where Eli chooses people over the complete interface record and Emrys is taken. Rebuild this beat sheet before drafting past the Melaka sequence; all later chapters below are scene quarry, not current order.
+> **SUPERSEDED AS A FULL SPINE — 2026-07-12.** The Forest City and Melaka material remains live. The former Mekong/South Asia climax allocation is redistributed: **Mekong/Vietnam is the substantial agricultural-witness sequence, Thailand is a shorter grounding/memory hinge, Bangladesh is a brief village/home hinge, and Book I ultimately climaxes at Göbekli Tepe**. Eli chooses people over the complete interface record and Emrys is taken. Rebuild this beat sheet before drafting past the Melaka sequence; all later chapters below are scene quarry, not current order.
+
+> **REBUILT OPENING ORDER — LOCKED:** the current opening sequence is **Ch 1 Forest City ordinary life and staged attack → Ch 2 Southern Exit through the blocked north corridor → Ch 3 Singapore transit, Mandate processing, and archive → Ch 4 north by sea through the Straits → Ch 5 Melaka reopening and witness contact → Ch 6 Melaka breach / asphyxia → Ch 7 aftermath and grounding → Ch 8 maritime departure**. The detailed Melaka and Singapore scenes below remain quarry until renumbered against this order; no post-Melaka return to Singapore is part of the route.
+
+### Current opening cards — authoritative order
+
+- **Ch 1 — Forest City:** ordinary Foundry life and the staged attack that scapegoats the Foundry and anomalous residents. The mother's song may remain as background texture, not the inciting lure.
+- **Ch 2 — Southern Exit:** the northward corridor is blocked; Eli and a small survivor group reach a maritime route through Bengali diaspora contacts, with Forest City sealed behind them.
+- **Ch 3 — Singapore:** Mandate-linked processing atomizes the survivors into individual medical/security cases. Eli accidentally sees Maren's silver-and-brass ring in an ordinary photograph, reaches the archive, learns the first empirical lesson about records and testing, and pays a concrete cost to escape classification. The image points toward a Melaka contact.
+- **Ch 4 — North Through the Straits:** the group leaves Singapore by sea, survives inspection and psionic interference, and reaches the reopening Melaka corridor.
+- **Ch 5 — The Reopening:** Eli follows the photograph's contact lead; Wren's extraction and Hassan's physical ring confirm that his recognition was real.
+- **Ch 6 — The Breach:** the Custodians pursue Eli through a losing Kali fight; asphyxia opens the receiver and the psi plane.
+- **Ch 7 — What Didn't Die:** Wren folds Eli into the damaged extraction; Emrys measures the breach; grounding begins and the next clue points west.
+- **Ch 8 — Her People:** Wren's independent extraction and the maritime departure force the first shared cost, with a real sailor and keeper network indispensable to Eli's survival.
 
 *The chapter-by-chapter spine for Volume I (Shattering), built on the locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `29_trilogy_plot_and_development.md` (full trilogy plot hub), `21_present_day_street_skin.md` (near-future tone / port-noir skin), `23_2040_present_frame.md` (~2040 texture), `26_present_day_cast_expanded.md` (cast flesh), `27_character_development_arcs.md` (Vol I development + proof scenes), `28_present_day_trilogy_craft_index.md` (craft hub), `99_open_questions.md` (the locked beats #1–#6), `38_psionic_combat.md` (the war), `39_psion_biology.md` (the floor), `36_the_living_web.md` (the web/clarification mechanism), `16_reader_attachment.md` (the human-gravity test).*
 
-> **Locked inputs this sheet chains together:** Eli works **facilities at the Network School compound** and keeps his **dead father's garden, badly**, at Forest City (#1) → a **witness** clue reaches him via the compound/port network, half-bait (#1) → Melaka, where **Wren** is running an extraction that light-crosses the witness (#3) → the breach: a losing Kali fight ending in **asphyxia**, the psi plane opens, **receiver ON / overload + hunted** — not identity crisis, not seven lives downloaded (#2; `36` §3a) → the **Custodians** run him down and pursue (#4) → first **witness site** (Ila), first frightened healing, and the South Asia climax (#6, locked below).
+> **Locked inputs this sheet chains together:** Eli works **facilities at Forest Foundry (the Foundry)** and keeps his **dead father's garden, badly**, at Forest City (#1) → a **witness** clue reaches him via the compound/port network, half-bait (#1) → Melaka, where **Wren** is running an extraction that light-crosses the witness (#3) → the breach: a losing Kali fight ending in **asphyxia**, the psi plane opens, **receiver ON / overload + hunted** — not identity crisis, not seven lives downloaded (#2; `36` §3a) → the **Custodians** run him down and pursue (#4) → Mekong/Vietnam agricultural witness → Thailand grounding/memory hinge → westward maritime corridor, Gulf/Mesopotamian evidence, and the Göbekli race.
+
+> **Route lock — Singapore detour:** the direct northward land corridor from Forest City toward Melaka is blocked by wartime checkpoints and competing authorities. Eli is forced south through **Singapore**, a Mandate-controlled or Mandate-dependent strategic enclave, then north by sea through the Straits to Melaka. Singapore's high-surveillance, atomized order is the counterpoint to Melaka's plural social ecology. The Singapore archive occurs during this transit; the detour creates a concrete cost or decision, not scenery.
+
+> **Diaspora support lock:** Bengali-speaking workers, families, students, cooks, mechanics, nurses, dockhands, and women's social circles provide intermittent practical help across the route. No one knows the whole web, and help is never guaranteed. Each intervention carries exposure or material cost; Eli is assisted through relationship and recognition, not ancestry-as-destiny.
+
+> **Melaka queer privacy lock:** persecution made this specific Bengali–Melakan network quiet, not ashamed. Inside, queer and plural partners are included in meals, rooms, caregiving, teasing, invitations, and family obligation; outside, flexible kin terms and minimal records protect them. **Everyone inside knows; no one outside is owed the knowing.** Establish affirmation through one unmistakable domestic action before Eli encounters the rules of discretion. Include a generational disagreement over whether quietness still protects or has begun to erase; neither side is a caricature.
+
+> **Inciting catastrophe — LOCKED:** a staged attack at Forest City targets **Forest Foundry (the Foundry)** and plants evidence blaming it and anomalous residents. The Union and Eastern Mandate exploit the event to justify intervention; the northern corridor is sealed, communications are cut, and residents are sorted into evacuation, detention, or medical assessment. Forest City is politically occupied and fragmented rather than simply destroyed. A small group, including Eli, escapes through maritime and Bengali diaspora worker routes into Singapore, where rescue becomes atomized clinical processing; they then flee north by sea through the Straits to Melaka. Eli survives while most residents remain scattered, detained, or trapped, creating an obligation to return.
+
+> **Volume I route lock:** Vietnam carries the substantial living-evidence sequence; Thailand carries the shorter breath/grounding and childhood-memory hinge; Bangladesh carries a brief village encounter with living Bengali continuity and the limits of return. From the Bay of Bengal/Arabian Sea corridor, the route enters the Gulf and Mesopotamia, then travels north through contested land routes to Şanlıurfa/Göbekli. None of these hinges replaces the Göbekli climax.
 
 > **Volume I dramatic question:** *Can Eli stay clear-headed enough under pursuit to decide whom to trust?*
 > **Internal movement:** overload → first witness site. **Ending change:** Eli has met a practitioner **as other**, achieves **personal Manual Override** (feel a charge, recognize autopilot, don't let conditioning complete the act), and voluntarily follows the next clue with no known destination.
 > **Reveal discipline:** effects before terminology; human stakes before cosmic claims; no two cosmological answers in one chapter. **Life-tech spine:** each act owes at least one Life beat and one Knowledge beat toward eventual Two Trees reunification — `22_life_technology_and_two_trees_spine.md`. **Character development:** each chapter should advance at least one fellowship arc or Eli perceptual stage — proof scenes and Vol I checklist in `27_character_development_arcs.md`. **Past-vs-mask leaks:** one habit/object beat per major character, no exposition — `26` Part V. **Romance cost:** trust must move **up or down** on the page — § *Romance cost audit* below. **M/I/A (Wren):** **M**ystery · **I**ntrigue · **A**ttraction per Eli/Wren chapter — § *M/I/A audit* below; hub `19` § *Female mystery, intrigue, and attraction*. **Story-first resonance:** make Forest City desirable, keep the Vol I dramatic question clear, and escalate pursuit causally. Countdown and recurring-object devices remain optional — `44`.
 
 > **POV — LOCKED:** Eli governs every Book I scene except the Wren-only Laleh-extraction opening in Chapter 8. Chapter 8 returns to Eli only after a hard section break. “Ensemble” describes who acts, never a shared or roaming viewpoint; one scene holds one mind. Do not add a Wren insert to Chapter 3 or enter her interior while Eli governs Chapters 5 or 7. Full rule: `14` § *POV architecture — LOCKED*.
+
+> **Melaka civic seed — LOCKED:** Eli encounters the older maritime lesson that Melaka's power came from making difference usable: safe harbor, predictable port law, multilingual administration, seasonal cooperation, diplomatic recognition, trade advantage, and enough deterrence to make destruction less profitable. This is not a war-free Chinese empire or a single-culture achievement; Malay, Chinese, Indian, Arab, and other communities co-created the entrepôt. The lesson is **peace as infrastructure**, and it foreshadows the Hawaiʻi federation and the Continental Union's competing models of coordination.
 
 ---
 
@@ -23,24 +48,24 @@
 ## ACT I — Hearth and Breach
 
 ### Ch 1 — The Hour That Belongs to No One *(Eli · Forest City)*
-- **Want / Attachment:** get through an ordinary day — the early hour in his father's garden, then compound shift. Attachment: **somatic reads** through his palms on live junctions (he never quite burns on the hardware — competence, not gift); **Priya**, **Mei's terrace**, and the Network School workers who expect him tomorrow; and, privately, **his dead father's garden, where he is *not as good* as his father was** — the tomatoes that won't take. The split he carries without naming it: the mother's involuntary **signature-read** in the hands, failure in the soil. **Daily luck:** towers with worse papers, shift sign-off, recognizers who expect him — *you shouldn't still be here, and you are*; he doesn't say *lucky* out loud but doesn't forget it. **Babaji's name got him work, not wealth** — platform wage, no equity.
+- **Want / Attachment:** get through an ordinary day — the early hour in his father's garden, then compound shift. Attachment: **somatic reads** through his palms on live junctions (he never quite burns on the hardware — competence, not gift); **Priya**, **Mei's terrace**, and the Foundry workers who expect him tomorrow; and, privately, **his dead father's garden, where he is *not as good* as his father was** — the tomatoes that won't take. The split he carries without naming it: the mother's involuntary **signature-read** in the hands, failure in the soil. **Daily luck:** towers with worse papers, shift sign-off, recognizers who expect him — *you shouldn't still be here, and you are*; he doesn't say *lucky* out loud but doesn't forget it. **Babaji's name got him work, not wealth** — platform wage, no equity.
 - **Obstacle:** money/status precarity; the refuge's rules; the **Friday demo overload** — layered noise, three languages, Slack pings, terrace band — where the TBI breaks him, against the meditative calm of solo splice work (TBI shown, not told).
-- **Choice → Cost:** none yet — establish what he stands to lose.
-- **Revelation:** Forest City is real, accountable refuge, not dystopia. **Forward clue:** the compound/port network catches a planted song: a live band is paid to play Eli's mother's tune on the terrace and direct anyone who truly recognizes it toward one Melaka contact. The lure does not know the child's face or name; it uses family memory as the filter.
+- **Choice → Cost:** none yet — establish what he stands to lose. The planted song is heard before the attack, making the ordinary refuge briefly feel reachable from outside.
+- **Revelation / inciting turn:** Forest City is real, accountable refuge, not dystopia. During or immediately after the terrace song, the staged attack hits the Foundry lab, port facility, or transit hub. Evidence is planted against the Foundry and anomalous residents; authorities seal the city and cut communications. The song's Melaka contact becomes an evacuation route rather than a voluntary quest.
 - **Past leak:** Eli — Bangla to tomatoes + tune fragment in garden (`26` Part V). Mei — sauce taste check mid-rush. Optional: Priya program poster *visibility saves lives* on a health wall. **Babaji tea:** Arif's boy; work not wallet. **Archangels (plot — allude, optional):** a lyric or prayer hits *angel* — sternum heat, hair up; Eli grades it, explains nothing (`46` § G; `SOURCE_the_surges`).
 - **Appeal (HP scaffold):** Ch 1 must establish **§1 ritual** — garden + terrace + splice calm vs Friday demo overload (`44` §1). Reader loves ordinary before song lure pays.
 
-### Ch 2 — Something of Hers *(Eli · Forest City)*
+### Ch 2 — Something of Hers / The Southern Exit *(Eli · Forest City → escape route)*
 - **Want:** survive the morning; keep the compound safe.
 - **Attachment:** a quiet hearth beat — ordinary splice work, recognizers who expect him tomorrow (Rina's charger, Mina and Lopa, morning sticks with Kiran). The refuge is a wartime safety pocket, not comfort: outside are checkpoints, travel warnings, biosecurity cover, bad documents, psion surveillance, and people who disappear.
-- **Obstacle (human · material · psionic):** the planted song **identifies him** at lunch showcase; **biosecurity hunters** (Custodian cover) close on the compound. It can't be tested remotely; the Melaka handoff only resolves on-site — but he does not choose to go; the chase chooses for him.
+- **Obstacle (human · material · psionic):** the planted song **identifies him** at lunch showcase just as the staged attack seals Forest City. **Biosecurity hunters** (Custodian cover) close on the compound; checkpoints block the northward land route, and survivors are sorted for detention or medical assessment. The Melaka handoff cannot be tested remotely, but Eli cannot travel there directly—the sealed city forces the southern maritime exit through Singapore.
 - **Threshold scene:** **Forest City chase** — Mei sends him out the back; **Kiran** on a tandem rental; **kiddy pedal cars** through the waterpark plaza; one circuit on the **children's train**; tumble onto **Suresh's supply boat** at the marina as white coats reach the pier. Mei throws the bag (eggs, crimp tool, chandlery address). Crossing gives Suresh judgment, guilt, and limits; plants Eli's working-deck competence; lets Forest City recede; explains port-network danger through musicians, chandlery, checkpoints, and remembered faces.
-- **Choice → Cost:** no voluntary departure — he **runs** because stopping exposes Mei. Cost: the compound crew, the garden, the recognizers, the mall routines, the sail training, and the only safe life that has ever held him — **burned in one morning**, not surrendered in a packed-bag beat.
-- **Revelation:** the surge is his compass and his flaw — the song **rang**, and someone saw. **Forward clue:** Melaka chandlery address in Mei's thrown bag; Suresh's dock confession on the strait.
+- **Choice → Cost:** no voluntary departure — he **runs** because stopping exposes Mei and the attack makes the Foundry unsafe. Cost: the compound crew, the garden, the recognizers, the mall routines, the sail training, and the only safe life that has ever held him — **burned in one morning**, not surrendered in a packed-bag beat.
+- **Revelation:** the surge is his compass and his flaw — the song **rang**, and someone saw. **Forward clue:** Melaka chandlery address in Mei's thrown bag; the blocked route means Singapore first, then north by sea to the Melaka contact.
 - **Past leak:** Suresh — wrong-note hum at stern, stops (`26` Part V). Farida — text with photo of Arif's garden still growing in Dhaka.
 - **Appeal (2026 timeliness):** optional **validation feed / companion ping** on Eli's phone — warmth without mutual obligation; he distrusts it (AI-intimacy rhyme, `44` § Timeliness A). Chase = **GoT dagger** — safe life burned in one morning.
 
-### Ch 3 — The Reopening *(Eli · Melaka)*
+### Quarry — former Ch 3: The Reopening *(Eli · Melaka; renumbered in current order)*
 - **Want:** make the witness contact.
 - **Attachment:** Melaka alive and improvised — working people, not heritage scenery; small kindnesses to a stranger far from home.
 - **Obstacle:** documents and jurisdictions disagree; the handoff keeps slipping; **the Custodians** are in the city under biosecurity cover, watching for activation rather than ordinary fever/heat, and **Wren** is extracting **Nura Salleh**, a threshold-house cook and latent carrier, with her son **Ilyas**. Their family route, safehouse, and timing foul Hassan's witness handoff (the light-cross). The lure tightens around Eli without his seeing it.
@@ -51,7 +76,7 @@
 - **M/I/A:** **M** — unreadable operator; shuts down look. **I** — observable misalignment lets the reader infer that the light-cross fouls another operation before Eli can name it. **A** — none yet (misread only).
 - **Appeal (GoT countdown):** state pursuit clock on-page — registry sweep / port lockdown / rival ETA (**72h** or equivalent, `44` §4). Vol I mystery box opens: *who planted the song?*
 
-### Ch 4 — The Breach *(Eli · Melaka)*
+### Quarry — former Ch 4: The Breach *(Eli · Melaka; renumbered in current order)*
 - **Want:** survive / reach the handoff.
 - **Obstacle:** the Custodians run him down — scooter flight → a **losing** close-quarters Kali fight (perception, not prowess; he reads the lines and it is not enough) → driven off a quay / choked and held under: **near-death by asphyxia.** The hypoxia rings the old TBI.
 - **Choice → Cost:** at the threshold he stops fighting the water/the dark — and crosses. Cost: near death; the witness/handoff lost in the chaos.
@@ -62,7 +87,7 @@
 - **Romance cost (INSERT):** at the threshold — **field-recognition without consent** (magnitude, not meaning): a flash of *known stranger* in the choke/dark. Neither can act on it. Plants "is this fed?" for Ch 7 — **not** soulmate confirmation.
 - **M/I/A:** **M** — *known stranger* flash (no actor). **I** — —. **A** — —
 
-### Ch 5 — What Didn't Die *(Eli · Melaka outskirts)*
+### Quarry — former Ch 5: What Didn't Die *(Eli · Melaka outskirts; renumbered in current order)*
 - **Want:** not dissolve; get out alive.
 - **Attachment:** Wren — survival-competence over a frightened, fraying **twenty-two-year-old**; the stairwell-style first contact, recognition refused on both sides. Wren is nineteen and operationally more experienced, so the power imbalance comes from handler knowledge and Eli's injured dependence rather than greater age.
 - **Obstacle:** post-breach **overload** (sick, sleepless, slow — `39`); the Custodians regrouping; **Wren folds him in against her own interest** ("I came to see what died") because he's the worst possible complication. His flare has contaminated Nura and Ilyas's clean family route.
@@ -76,7 +101,7 @@
 
 ## ACT II — The Unstable Sea
 
-### Ch 6 — Grounding *(Eli · flight out of Melaka)*
+### Quarry — former Ch 6: Grounding *(Eli · flight out of Melaka; renumbered in current order)*
 - **Want:** recover body and attention enough to keep moving.
 - **Attachment:** Emrys — map-not-territory guide, the mother-link, kindness with shaking hands.
 - **Obstacle:** he can't yet tell TBI symptom from trauma memory from rattle-contact from surge; the metabolic crash after the breach (he's sick, sleepless, slow — `39`).
@@ -86,7 +111,7 @@
 - **Romance cost (INSERT):** Wren and Emrys **disagree on Eli's body** — map/instruments vs. route/sleep/food. Eli caught between **two kinds of care**; prefers neither's full claim. Her visible reaction and orders make her father-shaped suspicion of Emrys legible without entering her interior; control flares (orders rest Eli can't take). Trust **down** before it comes back.
 - **M/I/A:** **M** — control masks want. **I** — two carers compete (not rivals). **A** — —
 
-### Ch 7 — The Archive *(Eli · Singapore or equivalent high-surveillance port)*
+### Quarry — former Ch 7: The Archive *(Eli · Singapore; moved before Melaka in current order)*
 - **Want:** retrieve the paired-anomaly data.
 - **Obstacle:** a state unit and the Custodians converge on the same archive; physical surveillance closes exits; a Custodian psionic probe scrambles recognition and trust (the soft suite). The **Three-Circles Tablet** surfaces here as the first physical artifact — first mistaken for map/hierarchy.
 - **Choice → Cost:** they take the data and run. Cost: they're now signature-known to the Custodians; a near-miss exposes Eli further.
@@ -95,7 +120,7 @@
 - **Romance cost (INSERT — "is this fed?"):** Custodian **soft probe scrambles trust** — Eli momentarily reads Wren as handler/trap; Wren says aloud that his surge on her face feels like **destiny leverage**. They cooperate anyway, but state the suspicions once, ugly and wrong, then don't apologize cleanly. Required doubt scene (`00` §6c; `19` § divine pairing misreading).
 - **M/I/A:** **M** — misread trap vs destiny. **I** — questions whether the contact is genuine or planted; exact phrasing TBD. **A** — —
 
-### Ch 8 — Her People *(Wren opening → hard break → Eli · the maritime corridor)*
+### Quarry — former Ch 8: Her People *(Wren opening → hard break → Eli · the maritime corridor; renumbered in current order)*
 - **Want (Wren):** get her extraction person clear; **(Eli):** chase the coordinate.
 - **Attachment:** the romance — recognition under uncertainty; complementary cowardice (he'd cup the spider; she falls apart at being cared for). **Street romance register:** at least one sanctuary beat (food, watch, low humor) and one shared-future gesture before descent pressure spikes (`19_romance_and_divine_pairing.md` § Street romance register).
 - **Wren-only opening movement:** before Eli re-enters the chapter, Wren runs **Laleh's extraction** with Asha Noor on comms. Laleh refuses to abandon her younger sister; Wren secretly changes the route, treating refusal as panic. Laleh discovers the deception, doubles back, and both sisters disappear into custody. Wren marks the ledger *completed* to keep the route alive. Asha sees the lie. The chapter establishes Wren's independent world, ordinary ferry-terminal dream, and custody flaw without Eli witnessing or repairing it.
@@ -108,7 +133,7 @@
 - **Romance cost (SHARPEN — bill Vol I debt):** After Laleh/Asha damage, Wren's **resentment is explicit** — not only guilt. Eli tries to **fix** with usefulness (control-as-care); she snaps. Sanctuary beat (food/watch/joke) lands **after** the snap, not instead of it — reader must feel the repair is partial. **Shared-future gesture** (port name, one night off-watch) is spoken **through teeth**, almost withdrawn.
 - **M/I/A:** **M** — ping delete; ferry-terminal sketch on manifest; unreadable operator. **I** — Laleh/Asha/consent freeze; Custodian mirror; network vs clue. **A** — sanctuary **after** snap; orders real food; complementary cowardice; shared-future through teeth.
 
-### Ch 9 — The Field That Counts *(Eli · Bali or a chosen agricultural stop)*
+### Ch 9 — The Field That Counts *(Eli · Vietnam Mekong Delta agricultural stop)*
 - **Want:** test the growth report.
 - **Attachment:** local growers with their own knowledge and stakes; a community that does not orbit Eli; the Pai dragon-staff motif may echo here as remembered play, not omen.
 - **Obstacle:** the report is partly stale (a line broke); the community wants no outsiders; the Custodians are a day behind.
@@ -130,7 +155,7 @@
 
 ## ACT III — Growth and Choice
 
-### Ch 11 — The Forming Line *(Eli · Mekong Delta rice/aquaculture cooperative — see climax lock)*
+### Ch 11 — The Forming Line *(Eli · Mekong Delta rice/aquaculture cooperative)*
 - **Want:** find and document the forming line before the Custodians.
 - **Attachment:** rice and seasonal-aquaculture farmers who already distinguish the anomaly from irrigation failure, salinity, blight, pesticide damage, industrial pollution, and the area's remembered dioxin history; their land, water, livelihood, and wary hospitality.
 - **Obstacle:** the Custodians **and another team** converge; the community wants neither faction; the formation is fragile.
@@ -154,39 +179,67 @@
 - **M/I/A:** **M** — she doesn't melt; holds line. **I** — forces his hand on civilians. **A** — cruel line; attraction strained, not erased.
 - **Revelation:** the war began before Eli existed and doesn't care about his clue. **Forward clue:** to save people, the documentation must be sacrificed.
 
-### Ch 14 — Climax & Resolution: Manual Override *(Eli · the Mekong community)*
+### Ch 14 — People Over Evidence *(Eli · the Mekong community)*
 - **Want:** protect the people in front of him.
 - **Obstacle:** the impossible split — secure the cleanest version of the clue, or get the community clear. A charge rises that wants to make him *useful at any cost* (the old autopilot: earn safety by competence).
-- **Choice (CLIMAX) → Cost:** he **chooses people**, and the cleanest evidence is lost/damaged. And — the volume's threshold — he **feels the charge, recognizes the autopilot, and does not let conditioning complete the act**: personal Manual Override. Cost: he leaves with less proof than he came for.
-- **Revelation / Resolution:** **community knowledge, not Eli's power, preserves enough to point onward** — a grower's observation, a coordinate that no longer matches the old map, one half of a polarity reading. He continues **voluntarily**, still with no final destination. **Forward clue (into Vol II):** the surviving fragment bends the trail toward the corridors and, eventually, Anatolia — though he cannot yet see that shape. *Aftermath:* an ordinary scene — food, exhaustion, a small unutilitarian kindness — establishing the life worth freeing.
-- **Romance cost (LOCK Vol I end state):** **Trust up, label withheld.** One physical beat max (e.g. hand held, released — or she fixes his collar, steps back). He **stops filling her silences** once, or she **lets him make a wrong choice**. **No** "I love you," no destiny speech. Reader wants one quiet week together — not QED soulmates (`19` Vol I end state).
+- **Choice → Cost:** he **chooses people**, and the cleanest agricultural evidence is lost/damaged. And — a **threshold**, not the volume end — he **feels the charge, recognizes the autopilot, and does not let conditioning complete the act**: personal Manual Override. Cost: he leaves the Delta with less proof than he came for.
+- **Revelation:** **community knowledge, not Eli's power, preserves enough to point westward** — a grower's observation, a coordinate that no longer matches the old map, one half of a polarity reading. **Forward clue:** surviving fragment bends toward Gulf / Mesopotamian corridor and the **sealed-interface race** — Göbekli not yet named.
+- **Romance cost (SHARPEN):** **Trust up, label withheld** — one physical beat max; he stops filling her silences once, or she lets him make a wrong choice. **No** "I love you," no destiny speech (`19` Vol I mid-arc).
 - **M/I/A:** **M** — partial visibility via behavior (not confession). **I** — —. **A** — hand held/released; trust up, label withheld.
 
 ---
 
-## Volume I climax — LOCKED (#6)
+## ACT IV — Westward Race and Göbekli *(quarry — rebuild chapter count while drafting)*
 
-- **Site:** a fictional rice / seasonal-aquaculture cooperative in Vietnam's **Mekong Delta**, provisionally in the Trà Vinh / lower-delta corridor pending research. Rice paddy is the visually legible detector — a curved band growing differently through fields managed with canals, sluices, and recorded wet/dry cycles.
-- **Historical land pressure:** one neighboring parcel associated with former military herbicide handling/transit remains restricted or disputed for dioxin contamination. People still speak about Agent Orange, illness, land loss, cleanup, and official denial/measurement. This history is neither supernatural cause nor decorative tragedy; it is one reason the cooperative keeps unusually careful water, soil, crop, and family records.
-- **The anomaly:** a **new ley line forming**, which the growers themselves distinguish from irrigation effect and blight. The community has its own knowledge and stakes; it is not a clue-dispenser.
-- **What they want besides helping Eli:** protect crop, land, and water; refuse to become a battlefield; want **neither faction** present.
-- **The clean clue at risk:** the clearest physical documentation of the forming line (the formation itself + a grower's polarity/growth record).
-- **The fight:** the **Custodians vs. a rival national/faction team** contest the formation and Eli's signature; civilians in the crossfire.
-- **The choice:** protect the community / get people out **vs.** preserve the cleanest evidence.
-- **The cost:** Eli chooses people; the cleanest evidence is lost or damaged.
-- **What survives → Vol II:** the community's own knowledge preserves enough to point onward without revealing the itinerary. **Eli's gain is not power but a threshold:** personal Manual Override, and the knowledge that the Seven are real and separate.
+### Ch 15 — The Gulf Corridor *(Eli · ensemble · maritime → Mesopotamia approach)*
+- **Want:** keep the western fragment alive before rivals close the corridor.
+- **Obstacle:** contested ports, registry checkpoints, Hassan-transfer rumor, competing teams on the same clock (`99` #7 deadline).
+- **Choice → Cost:** Eli accepts slower human routes over a clean institutional shortcut. Cost: time; exposure.
+- **Forward clue:** **Göbekli permit window** — sealed sector closes on a hard date.
+
+### Ch 16 — The Old Wound at Ground *(Eli · Mesopotamian charged ground · Adapa-weight)*
+- **Want:** read the ground without becoming its priest.
+- **Obstacle:** Adapa/Qingu watched-depth (`30`); patriarchy at household scale; plaquette grammar disputed.
+- **Revelation:** control order moves inward; first **stone artifact** evidence; trail **commits north to Anatolia**.
+- **Past leak:** Emrys — map-over-territory slip when lacuna matches mother's notes (`99` #9 seed).
+
+### Ch 17 — Göbekli and Loss *(Eli · ensemble action · Şanlıurfa / contested site)*
+- **Want:** read the buried interface before rival teams weaponize or re-seal it (`99` #7).
+- **Attachment:** civilians at dig/shrine/military margin; Emrys's correlation work; **Eshe**-weight in the Daskar fragment.
+- **Obstacle:** **competing teams converge**; old maps fail; **current growth/polarity** is the viable route. **Emrys's serious error** exposes the group or mistimes the window (`99` #9).
+- **Choice → Cost (VOLUME I CLIMAX):** Eli **protects civilians / companions** and **sacrifices complete interface record** rather than chase Emrys's captors or seize the founding read. Cost: **Emrys is taken**; partial plaquette/fox-pillar clarification only; pursuit continues west without him.
+- **Revelation — full-res threads:** **Aru** at fox-pillar (spiral eye, selection mark). **Daskar** at burial layer (center silent under fill). **Nephilot trail (MAJOR REVEAL):** Göbekli = Qingu-reserve seal + down-breeding site — *what the elves are* (`37`, `99` #7).
+- **Forward clue (into Vol II):** partial geometry + living network point **Europe**; Maren tether west; "Albion" not confirmed.
+- **Romance cost (LOCK — rupture):** **Trust break** — Eli blames Wren's route or she says *I told you* when **Emrys is taken**. Operational cold shoulder into Vol II Ch 15. Union debt deferred to late Vol II (`19`).
+- **M/I/A:** **M** — cold shoulder; unreadable hurt. **I** — Emrys taken / blame. **A** — rupture; no comfort.
 
 ---
 
-## Threshold architecture — plot integration (Union vs Covenant)
+## Volume I climax — LOCKED (#6, #7, #9 — Göbekli)
+
+- **Site:** **Göbekli Tepe** contested ground — dig / shrine / military margin (`99` #7 present-day staging).
+- **Race:** reach the **sealed interface** behind the fox-pillar before the permit window closes and the consortium re-buries the sector.
+- **Prize:** reactivation/reading access to the first buried instrument — Qingu-reserve seal + **selection mark** (spiral-in-the-eye); founding record of the **Nephilot** (*what the elves are*).
+- **Who races:** Crane program, Custodians, private dig consortium; Sol faction possible fourth.
+- **Emrys error:** trusts map over live ground; mistimes window; nearly hands interface to consortium (`99` #9).
+- **The fight:** factions converge under physical and psionic pressure; civilians in the margin.
+- **The choice:** protect living people / companions **vs.** complete interface record and pursuit of captors.
+- **The cost:** Eli chooses people; **Emrys is taken**; cleanest interface read lost or partial; **Aru/Daskar** clarify at pillar under pressure.
+- **What survives → Vol II:** grower knowledge from Mekong + partial Göbekli read + living network fragment → Gulf/Europe corridor; Emrys absent; tether west unresolved; Nephilot trail begun.
+
+**Mekong Delta (Ch 9–14) — LOCKED, not climax:** substantial agricultural-witness sequence — forming ley line, Ila midpoint, personal Manual Override, people over **agricultural** evidence. Vietnam / Thailand / Bangladesh hinges per route lock (`99` Priority 1). Dioxin/history treatment unchanged in chapter quarry above.
+
+---
+
+## Threshold architecture — plot integration (Union vs Coalition)
 
 *World logic lives in `23_2040_present_frame.md` § Threshold architecture. **Rule:** effects before thesis — never explain the two models in dialogue; **contrast them through pursuit, care, and loss.***
 
 ### The engine (why this is plot, not backdrop)
 
-| Covenant keeper chain | Union quarantine | Plot fuel |
+| Coalition keeper chain | Union quarantine | Plot fuel |
 |---|---|---|
-| Keeper knowledge spreads on trade routes | Registry treats episodes as **contagion / Fractured** | Eli's **song** is both family memory and **keeper knowledge in musical form** — the lure works because Covenant culture *passes recognition hand to hand* |
+| Keeper knowledge spreads on trade routes | Registry treats episodes as **contagion / Fractured** | Eli's **song** is both family memory and **keeper knowledge in musical form** — the lure works because Coalition culture *passes recognition hand to hand* |
 | Threshold houses integrate | Containment wards suppress | Eli survived his puberty episode in the **keeper net**, not Union wards — his receiver opened *incompletely*; TBI + incomplete rewiring = overload at breach |
 | Community notices when someone breaks (Nico) | White coats **hunt** activation | Ch 2 chase = Union model closing on a boy the compound already knew |
 | Fever completes with guides | Brittle: baseline enforced | **Custodians** = Union logic with psion collars; **Wren's network** = harbor chain for carriers |
@@ -195,16 +248,16 @@
 
 ### Vol I — chapter hooks (add / sharpen while drafting)
 
-| Ch | Covenant (keeper) beat | Union (quarantine) beat | Story move |
+| Ch | Coalition (keeper) beat | Union (quarantine) beat | Story move |
 |---|---|---|---|
 | **1** | Nico freezes mid-dough → Mei adds free-meal list **without asking**; Rina's charger; Babaji tea | Priya poster *visibility saves lives*; compound registry cohort | Reader loves **community care** before hunt |
 | **2** | Mei throws bag; Suresh carries song intel on **trade route** | White coats: *registry discrepancy, facility cohort, voluntary screening*; robot dog **files** Eli | **Two models collide** — Eli runs from Union into Suresh's harbor net |
-| **3–4** | Melaka harbor improvisation; Hassan handoff | Custodians under **biosecurity cover** — hunt activation, not fever | Lure exploits **Covenant song-recognition**; trap is **Union registry logic** |
-| **5–6** | Wren folds him in (harbor extraction); Emrys breath/inner ring = **keeper grounding** | Post-breach **overload** — body never got Union suppression *or* full Covenant completion | Eli learns regulation, not cure |
+| **3–4** | Melaka harbor improvisation; Hassan handoff | Custodians under **biosecurity cover** — hunt activation, not fever | Lure exploits **Coalition song-recognition**; trap is **Union registry logic** |
+| **5–6** | Wren folds him in (harbor extraction); Emrys breath/inner ring = **keeper grounding** | Post-breach **overload** — body never got Union suppression *or* full Coalition completion | Eli learns regulation, not cure |
 | **7** | — | Archive + **Crane/outbreak tracing** — care and cage same hand | Mandate/Union merged databases |
 | **8–9** | Local growers / Bali subak — **living expertise** over planted lead | Custodians = **collared carriers** (took Union bargain) | Wren mirror: hunter vs harbor rescuer |
 | **10** | **Ila witness site** — midwife **signature-read** (heat/tingling/pressure) = historical **keeper grounding**; talking-stone lore | Pursuit won't wait for witness | First **other** practitioner; grief not identity |
-| **11–14** | Rice community **refuses both factions**; grower knowledge survives | Two psion teams contest formation; **entrainment panic** = Union war on nervous systems | Climax: Eli chooses **people over proof** — Manual Override vs "be useful at any cost" (Union autopilot) |
+| **11–14** | Rice community **refuses both factions**; grower knowledge survives | Two psion teams contest formation; **entrainment panic** = Union war on nervous systems | Ch 14: Eli chooses **people over agricultural proof** — personal Manual Override; **not** volume climax |
 
 ### Character load-bearing beats
 
@@ -213,7 +266,7 @@
 - **Custodians:** carriers who **took the collar** — Union quarantine internalized; Edda believes managed danger. Shield's conscience = someone who remembers the harbor way.
 - **Nico:** ongoing **Fractured-adjacent** cost — episode without full rewiring? or keepers saved him but left gaps? One line in Ch 8 callback enough.
 - **Mei:** constructive control = **threshold house** without naming it; breaking one rule for Eli = keeper way vs registry.
-- **Emrys:** measures signatures (Union instrumentality) but teaches **grounding** (Covenant keeper way) — his error in Vol II = map over territory.
+- **Emrys:** measures signatures (Union instrumentality) but teaches **grounding** (Coalition keeper way) — his error at **Göbekli (Ch 17)** = map over territory; **taken** same beat.
 
 ### Vol II–III payoffs (plant in Vol I, pay later)
 
@@ -236,9 +289,9 @@ Singapore archive, clinical corridors, **cure framing** — not punitive Fractur
 
 - Exact South Asia geography and the rival team's identity in Ch 11–14 (a national unit, or a third faction).
 - Whether **Crane** appears in person in Vol I or only looms behind the Custodians (recommend: looms; the field face is the Custodians; save Crane for the Vol III confrontation).
-- Precise Act II geography (Singapore archive; Bali vs. another agricultural stop) and which leg carries the planted/false clue.
+- Precise Act II geography (Singapore archive; Thailand grounding interval and Vietnam Mekong staging) and which leg carries the planted/false clue.
 - Names: the Custodians and members; the witness; the South Asia growers.
-- Length check: **14 chapters**, no prologue. Reassess scene length after drafting Ch 1–5 (the `05` §13 test).
+- Length check: **17 chapters**, no prologue. Reassess scene length after drafting Ch 1–5 (the `05` §13 test).
 - **Maren suppression scene:** deferred to **Vol II** — see `99` #Maren-suppression / `29` Vol II Act II.
 
 ---
@@ -260,8 +313,10 @@ Singapore archive, clinical corridors, **cure framing** — not punitive Fractur
 | 12 | OK | Eli useless — romance not the center |
 | 13 | **SHARPEN** | Cruel line; no repair yet |
 | 14 | **LOCK** | Trust without label; Manual Override ≠ confession |
+| 15–16 | **INSERT** | Gulf/Mesopotamia corridor; permit-window pressure |
+| 17 | **LOCK — rupture** | Emrys taken; trust break; cold shoulder into Vol II Ch 15 |
 
-**Vol I drift risk:** Ch 5+8+14 stack tenderness without Ch 7+9+13 friction → reads **too easy**. Bill resentment **on dialogue**, not only in beat-sheet costs.
+**Vol I drift risk:** Ch 5+8+14 stack tenderness without Ch 7+9+13 friction → reads **too easy**. Bill resentment **on dialogue**, not only in beat-sheet costs. **Ch 17 rupture** must land after Ch 14 trust-up or the dyad reads pre-broken without cost.
 
 ---
 
@@ -284,3 +339,5 @@ Singapore archive, clinical corridors, **cure framing** — not punitive Fractur
 | 12 | — | — | — |
 | 13 | Holds line | Forces hand | Strained |
 | 14 | Behavior not speech | — | Hand held/released |
+| 15–16 | — | Permit race; consortium clock | — |
+| 17 | Cold shoulder; unreadable hurt | Emrys taken / blame | Rupture; no comfort |

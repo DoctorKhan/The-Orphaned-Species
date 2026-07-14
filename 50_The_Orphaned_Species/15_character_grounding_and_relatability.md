@@ -171,7 +171,7 @@ His competence is domain-specific. Training makes him disciplined under physical
 These people make the route a lived social world rather than a sequence of clues. Give each a name, want, and conflict before drafting; neither exists merely to foreshadow Eli.
 
 - **The Pai staff-twirler (girl; name and exact age TBD)** dresses like a jester and performs with a dragon staff. Her movement is playful, difficult, and public: balance, rhythm, misdirection, and delight rather than combat instruction or mystical exposition. The dragon image can rhyme later with the Double-Fork Stone and living dragons, but she is not an oracle, secret lineage-holder, or disguised magical being by default. Eli remembers a person before he recognizes a symbol.
-- **Eli's Forest City work** should be ordinary, physical, and socially embedded: **facilities at the Network School compound** (platform wage; Babaji/Arif placement, not wealth). He is not a guest in the refuge and not secretly important to everyone. He earns trust by showing up, missing things, apologizing, covering shifts, being covered for, and learning how a functioning community protects privacy without abolishing responsibility. **Daily luck awareness:** contrast with worse papers in half-built towers, Priya's sign-off, Mei's free-meal list, recognizers who expect him tomorrow — *you shouldn't still be here, and you are.* He does not say *lucky* out loud; he does not forget it. Makes leaving Forest City a real forfeiture of borrowed safety, not abstract stakes.
+- **Eli's Forest City work** should be ordinary, physical, and socially embedded: **facilities at the Forest Foundry compound** (platform wage; Babaji/Arif placement, not wealth). He is not a guest in the refuge and not secretly important to everyone. He earns trust by showing up, missing things, apologizing, covering shifts, being covered for, and learning how a functioning community protects privacy without abolishing responsibility. **Daily luck awareness:** contrast with worse papers in half-built towers, Priya's sign-off, Mei's free-meal list, recognizers who expect him tomorrow — *you shouldn't still be here, and you are.* He does not say *lucky* out loud; he does not forget it. Makes leaving Forest City a real forfeiture of borrowed safety, not abstract stakes.
 - **The Forest City martial-arts teacher (man; name TBD)** holds morning practice and teaches several arts, including **Pekiti-Tirsia Kali**. He builds on—and does not replace—the Filipino foundation Eli learned earlier. His instruction should be concrete: footwork, range, angle, timing, restraint, repetition, and how to train safely with people of unequal ability. He is also a community member with outbreak work and obligations beyond teaching.
 - **The Forest City sailing community** uses the available sailboats for ordinary recreation, maintenance, training, and later practical transport. Eli learns basic seamanship: knots, points of sail, reefing, keeping watch, reading wind and weather, docking, and taking instruction aboard. By Volume I he can be useful on a boat but is not an expert skipper. The skill earns its place when the unstable maritime passage requires work, judgment, and cooperation that psionics cannot replace.
 
@@ -257,13 +257,13 @@ Terminology guardrail: use **psion** for the operational category. Use **psychic
 
 The practical constraints remain decisive:
 
-- distance attacks require a target signature and usable route or relay;
+- distance attacks require a target signature and a usable **conductor route**;
 - teams need concentration, coordination, time, and ordinary logistical support;
 - attackers expose themselves to feedback, confusion, deception, and one another's material;
 - no one reads every thought or compels another person absolutely;
 - sleep, injury, medication, hunger, noise, terrain, training, and trust change what a team can do;
 - conventional violence remains dangerous, and psionic ability does not make anyone bulletproof.
-- monitored boundaries exist only where someone has prepared a route, threshold, sensor, watcher, or relay. Crossing one can expose a signature and trigger a fast team attack, but it does not give the attackers omniscience.
+- monitored boundaries exist only where someone has prepared a route, threshold, sensor, watcher, or **conductor anchor**. Crossing one can expose a signature and trigger a fast team attack, but it does not give the attackers omniscience.
 
 After an attack, show consequences rather than a clean reset: headache, tremor, insomnia, missing time, shame, mistrust, intrusive emotional residue, neurological symptoms, or conflict over whether an experience was authentic. Do not use Eli's TBI as a generic meter for psionic damage. His established disability remains distinct even when an attack aggravates it.
 

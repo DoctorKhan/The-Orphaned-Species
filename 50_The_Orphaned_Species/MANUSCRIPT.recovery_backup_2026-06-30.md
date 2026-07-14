@@ -44,7 +44,7 @@ His father did this part with his eyes shut. Eli tries it with his eyes shut. Th
 
 A generator catches somewhere below. Out past the rail the other towers stand black and half-built against the sky, and beyond them the water, going out. He can smell mud and frying oil and the sweet rot under the coconut palms. Two men are already in the trees by the promenade, knocking coconuts down into a net while a third stands below and tells everyone not to die in Bengali.
 
-Forest City is quiet only at this hour. The reopened resort-port is still half unfinished, half refuge. Later the Network School people will come out with laptops and wet hair, talking companies and countries and the thing they are all building here. The waterparks will start their pumps. The children's train will make its bright useless loop. At night the light-up butterflies will blink in the palms as if the place has decided to be magical by committee. Eli likes it best before it begins. He likes the beach empty. He likes the racing sailboats waiting beyond the marina wall, their masts ticking softly in the dark.
+Forest City is quiet only at this hour. The reopened resort-port is still half unfinished, half refuge. Later the Forest Foundry people will come out with laptops and wet hair, talking companies and countries and the thing they are all building here. The waterparks will start their pumps. The children's train will make its bright useless loop. At night the light-up butterflies will blink in the palms as if the place has decided to be magical by committee. Eli likes it best before it begins. He likes the beach empty. He likes the racing sailboats waiting beyond the marina wall, their masts ticking softly in the dark.
 
 He's humming before he notices. Three notes, then four, the small turn of it. His mother used to hum it. He stops.
 
@@ -240,7 +240,7 @@ Suresh looks at the knot.
 
 "Ugly," he says. "But it holds."
 
-Eli steps aboard when Suresh tells him, not before. The deck shifts under him, a small working movement, nothing like the bright sailboats the Network School students race in the bay, all carbon spars and shouted counts and clean white wakes. This boat carries weight. It does not answer quickly. He bends his knees and keeps one hand free.
+Eli steps aboard when Suresh tells him, not before. The deck shifts under him, a small working movement, nothing like the bright sailboats the Forest Foundry students race in the bay, all carbon spars and shouted counts and clean white wakes. This boat carries weight. It does not answer quickly. He bends his knees and keeps one hand free.
 
 "Good," Suresh says. "Don't get proud."
 

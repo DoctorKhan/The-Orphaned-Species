@@ -74,9 +74,9 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 **Look:** **blonde** — practical, not decorative; tied back, hood-ready, salt-stiff after a run.
 
 **Past:**
-- **Ordinary life (softer Wren):** pre-ring **port/refugee intake** during outbreak reopening — manifests, quarantine lanes, shift meals with a lover from the records/supply side (the one before Mira). Before full-time intake swallowed her life, she wanted to design **public rooms that did not humiliate the people waiting in them**: clinics with courtyards, benches that let families sit together, intake desks that did not resemble judgment. Competent but **still allowed ordinary want**: sleep, food, unguarded laughter. Fell for her in **shifts and shared rain**, not extraction adrenaline.
-- **Turn (layered):** recruited into **ring handler** track because she read people; believed compliance was **temporary safety** → small file delays became official hunter role → **Mira** (second love) → failed extraction → **secret network begins** (`99` #3); soft Wren trades for exit-first survival.
-- **Unreconciled:** her prior love (the one before Mira) remembers who she was; Wren never finished grieving Mira **or** returning to that life; belief that love = **manage danger first**.
+- **Ordinary life (softer Wren):** pre-ring **port/refugee intake** during outbreak reopening — manifests, quarantine lanes, shift meals with people from the records/supply side and the wider Bengali–Melakan mutual-aid web. Before full-time intake swallowed her life, she wanted to design **public rooms that did not humiliate the people waiting in them**: clinics with courtyards, benches that let families sit together, intake desks that did not resemble judgment. Competent but **still allowed ordinary want**: sleep, food, unguarded laughter. Fell for people in **shifts and shared rain**, not extraction adrenaline — first an **older Chinese-Malaysian ex** (protection, access, real age-and-resource asymmetry), then **Rowan** (Bengali, close in age, belonging through the diaspora web).
+- **Turn (layered):** recruited into **ring handler** track because she read people; believed compliance was **temporary safety** → small file delays became official hunter role → **Mira** (love during the handler era) → failed extraction → **secret network begins** (`99` #3); soft Wren trades for exit-first survival.
+- **Unreconciled:** Rowan and the older ex remember who she was before the armor; she never finished grieving **Mira** **or** returning to ordinary want; belief that love = **manage danger first** — custody instinct from Rowan, learned suspicion that protection becomes control from the older asymmetry.
 
 **Want (locked):** keep her quiet extraction network and its people alive and uncompromised.
 
@@ -96,11 +96,11 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Romance:** escape-offer beat — *we could leave* — refused on **her people**, not drama.
 
-**Prior love (off-page):** the one before Mira — referenced, never appears on page. Wren's custody instinct now flares on Eli's danger and her own unfinished history, not a third body on scene (Rowan consolidated off-page, 2026-07).
+**Prior loves (off-page):** Rowan, a Bengali woman close to Wren's age and embedded in the diaspora mutual-aid web, was the significant love before Mira. An older Chinese-Malaysian ex came earlier, offering experience, protection, and access while creating a real age and resource asymmetry. Both remain referenced only; neither appears as an active romantic rival or POV. Rowan's relationship supplies belonging and the source of Wren's custody instinct; the older ex supplies Wren's learned suspicion that protection can become control. The present romance remains the Eli/Wren dyad.
 
 **Living female relationship — Asha Noor:** co-founder and quartermaster of the extraction network; a former threshold-house nurse in her early thirties who knew Wren at port intake before she became a handler. Asha is friend, older peer, and civic co-dreamer — never parent, lover, or subordinate. She stores Wren's ferry-terminal drawings and thinks the house should be built now, in pieces, rather than after an imaginary victory. She loves Wren but does not admire all her methods. After Laleh disappears, Asha recognizes the falsified ledger and refuses to certify another route until Wren adds explicit **return rights, informed-route consent, and an independent abort contact**. Their argument is the seed of the network's eventual accountable limits.
 
-**Boundary with Eli:** Wren tells him that Mira existed but refuses names, images, and any field-assisted attempt to feel what happened. The narrative treats the refusal as sufficient. Eli's proof of love is not extracting the story later; it is stopping a surge-read when he recognizes that the memory is hers.
+**Boundary with Eli:** Wren tells him that Mira existed but refuses names, images, and any field-assisted attempt to feel what happened. She may also refer to Rowan and the older ex without opening either history to him. The narrative treats the refusal as sufficient. Eli's proof of love is not extracting the story later; it is stopping a surge-read when he recognizes that the memory is hers.
 
 **Female political conflict:** Wren and Asha agree that registries become ownership but disagree about emergency authority; Asha believes Wren has rebuilt a private registry around herself. Later, Sora argues from the opposite side that unregistered routes let dangerous carriers vanish without accountability. Neither woman exists to validate Wren. Wren must build consent and review into the network rather than win the argument through superior instincts.
 
@@ -136,7 +136,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ## Rowan *(off-page — Wren's prior love, never appears on page)*
 
-**Decision (consolidation, 2026-07):** Rowan is removed as an on-page character. She survives only as Wren's referenced prior love — the one before Mira — the source of Wren's custody instinct, which now flares on Eli's danger and Wren's own unfinished history rather than a third body. This simplifies the romance to a dyad and removes a whole POV pole. Any triad curriculum in `19_romance_and_divine_pairing.md` is now moot and should be revised. Full discarded flesh preserved in git history.
+**Decision (consolidation, 2026-07):** Rowan remains off-page as Wren's referenced prior love — the one before Mira — and the source of Wren's custody instinct. An older Chinese-Malaysian ex preceded Rowan and also remains off-page; her function is to establish Wren's history with protection, access, and asymmetrical care. Neither is an active third body or POV. This preserves the present Eli/Wren dyad; any triad curriculum in `19_romance_and_divine_pairing.md` remains moot.
 
 ---
 
@@ -243,7 +243,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Guardrails:** not a physician and not Ila reborn; does not diagnose beyond his training; works with and refers to doctors; cannot fix Eli's TBI core; cannot cure the outbreak retroactively. Energetic healing does not make him medically omniscient, erase triage, or guarantee repair.
 
-**Not a doubling of Eli (LOCKED — `05` "two refusals, two crowns"):** Somchai and Eli are the trilogy's two "refuse-the-crown" figures, but they refuse **different crowns for different reasons**, so the beats build instead of echoing. **Somchai = the crown of the body** — worship of his *healing* (miracle / relic / Son-of-Man), refused on the **limits of the body** (*son of a man*); his Ch 26 refusal costs a sufferer and is the intimate-scale proof. **Eli = the crown of the polis** — the ruler/founder/one-voice, refused because ownership rebuilds the cage (Ch 27), scaling the healer's proof up to civilizational stakes. **Eli is not a healer and never faces Somchai's crown; Somchai wants no power and never faces Eli's.**
+**Not a doubling of Eli (LOCKED — `05` "two refusals, two crowns"):** Somchai and Eli are the trilogy's two "refuse-the-crown" figures, but they refuse **different crowns for different reasons**, so the beats build instead of echoing. **Somchai = the crown of the body** — worship of his *healing* (miracle / relic / Son-of-Man), refused on the **limits of the body** (*son of a man*); his **Vol. II Ch. 18** refusal costs a sufferer and is the intimate-scale proof. **Eli = the crown of the polis** — the ruler/founder/one-voice, refused because ownership rebuilds the cage during the **Book III attack**, scaling the healer's proof up to civilizational stakes. **Eli is not a healer and never faces Somchai's crown; Somchai wants no power and never faces Eli's.**
 
 ---
 
@@ -427,7 +427,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 ---
 
-## Cooperative water keeper — **Nguyễn Thị Hạnh (“Hạnh”)** *(provisional name; Vol I climax, Mekong Delta)*
+## Cooperative water keeper — **Nguyễn Thị Hạnh (“Hạnh”)** *(provisional name; Vol I Mekong agricultural sequence, Ch 11–14)*
 
 **Age:** 50s–60s. **Role:** Vietnamese sluice-timing and field-record keeper within a mixed Vietnamese–Khmer rice/aquaculture cooperative; community memory, not spiritual authority.
 
@@ -509,7 +509,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 | Wren solo extraction | ch 8-weight | trade fork | network choice |
 | Rowan *(off-page)* | Wren reference only | custody instinct flares | dyad holds |
 | Hassan witness | Melaka | — | — |
-| Hạnh + mixed Mekong cooperative | climax | — | optional network echo |
+| Hạnh + mixed Mekong cooperative | agricultural witness (Ch 11–14) | — | optional network echo |
 | Custodians + Sora arc | breach–climax | pursuit | broken/changed |
 | Somchai (nurse / field medic) | mention | reconvene; healings | refusal under pressure |
 | Sol Mendez | — | temptation | echo or end |

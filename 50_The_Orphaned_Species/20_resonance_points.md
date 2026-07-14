@@ -10,7 +10,7 @@ A resonance point is an object, sound, or gesture that **recurs across eras whil
 
 **Structural facts this map honors (canon, locked):**
 
-- **Eli and Aedan are different people.** Aedan is the Bronze-Age cave-boy, an early deep-time receiver — **not a relay routing the cosmology to Eli**. Eli is a border-raised survivor whose present story opens in Melaka after a Forest City refuge, the rare receiver who can clarify the deep web most fully. No soul-name or incarnation link joins them.
+- **Eli and Aedan are different people.** Aedan is the Bronze-Age cave-boy, an early deep-time receiver — **he does not route the cosmology to Eli**. Eli is a border-raised survivor whose present story opens in Melaka after a Forest City refuge, the rare receiver who can clarify the deep web most fully. No soul-name or incarnation link joins them.
 - **The deep threads surface first as intrusions in Eli's present.** Wrong reads in the garden, the half-remembered tune, old sounds, a pull toward stone, and surge-certainty are receiver symptoms (the web not yet clarified), not proof of ancestry.
 - **The practices are not an unlock tree.** Eli's unusual trait is breadth of reception — how much of the web he can clarify. He is **not** a healer: his palms *read* bodies, they do not repair them (all healing is the present-day healer's), and creative transmission grows from an ordinary craft seeded before the breach.
 - **The cave-as-nervous-system belongs to Aedan's own deep-time arc.** When Eli later clarifies that thread (and the others), he must identify which historical person a fragment belongs to.

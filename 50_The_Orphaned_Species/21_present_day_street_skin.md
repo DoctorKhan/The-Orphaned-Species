@@ -37,7 +37,7 @@ Do **not** import setting names, factions, chrome brands, or plot beats from tha
 | Street / cyberpunk read | Canon element | Drafting note |
 |---|---|---|
 | Cyberware, Sandevistan, forced upgrades | Psionic augmentation, registry programs, amplifier keys, Emrys's chair, ground interfaces | Always **mediated** — someone built the interface; someone owns access |
-| Arasaka / Militech | Nation-state psion teams, bloc programs, emergency databases | Many-sided conflict; no single villain owns the war. **Blocs (locked):** Continental Union (Americas/PPA), Eastern Mandate (East), Free Ports Covenant (Strait/gray ports) |
+| Arasaka / Militech | Nation-state psion teams, bloc programs, emergency databases | Many-sided conflict; no single villain owns the war. **Blocs (locked):** Continental Union (Americas), Eastern Mandate (East), Free Ports Coalition (Strait/gray ports) |
 | Ripperdocs, black clinics | Carrier handlers, conscription, illegal activation, outbreak-cover disappearances | Bodily, transactional, shameful or desperate |
 | Cyberpsychosis | Identification with surges/charges; receiver filter breaking under pressure | Horror is **loss of agency**, not colored projectiles |
 | Lucy-shaped escape dream | Forest City, made home, ordinary work and meals | Warm refuge, not dystopia — the anti-Night City |

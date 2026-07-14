@@ -125,11 +125,11 @@ The lecture's most sympathetic Machiavelli is also the most dangerous to the boo
 
 ## Drafted scenes
 
-*Register-setting drafts, not final prose, in story order (Vol II → Ch 26 → Ch 27). All obey the craft rules: no one names Machiavelli or the cosmology's machinery out loud; the doctrine is granted its full seductive force; Eli does not out-argue it — he declines the binary, usually through the body rather than a counter-sermon. Companion to the Crane drafts in `47_coercion_as_courtesy.md`.*
+*Register-setting drafts, not final prose, in story order (Vol II Ch. 18 → Book III attack chapters). All obey the craft rules: no one names Machiavelli or the cosmology's machinery out loud; the doctrine is granted its full seductive force; Eli does not out-argue it — he declines the binary, usually through the body rather than a counter-sermon. Companion to the Crane drafts in `47_coercion_as_courtesy.md`.*
 
-### Establishing — Sol's first pass *(Vol II Ch 19; so the Ch 27 temptation isn't cold)*
+### Establishing — Sol's first pass *(Vol II Ch 19; so the Book III political-crown temptation isn't cold)*
 
-*Sol's signature temptation (Scene 1) must not be his first on-page moment. This is the soft first pass, placed in the healer's chapter (`32` Ch 19) right after Emrys is taken — Eli at his lowest, mentor gone. It runs on a different, gentler basis than Ch 27: not the armed-prophet argument (Sol has no checkpoint death to point at yet) but **recognition and fellowship** — the man who begged for help and got a sermon, offering the understanding no one gave him. Thematic mirror to the same chapter's healer, who refuses the crown Sol was consumed by. Eli deflects; the horror is that Sol is a version of himself.*
+*Sol's signature temptation (Scene 1) must not be his first on-page moment. This is the soft first pass, placed in the healer's chapter (`32` Ch 19) right after Emrys is taken — Eli at his lowest, mentor gone. It runs on a different, gentler basis than the later Book III political-crown argument: not the armed-prophet argument (Sol has no checkpoint death to point at yet) but **recognition and fellowship** — the man who begged for help and got a sermon, offering the understanding no one gave him. Thematic mirror to the same chapter's healer, who refuses the crown Sol was consumed by. Eli deflects; the horror is that Sol is a version of himself.*
 
 > He knew Sol's face before Sol spoke — the screen-face from the stadium sermon, older in person, the charisma worn thin over something that had cracked and set wrong. Sol didn't preach. He sat down across from Eli in the clinic's back courtyard like an old friend catching up, and for a while he said nothing at all, which was its own kind of skill.
 >
@@ -143,7 +143,7 @@ The lecture's most sympathetic Machiavelli is also the most dangerous to the boo
 
 **Function:** installs Sol as a person and a *mirror* before he is an antagonist; plants the fellowship-hook he will weaponize at Ch 27; and gives Eli a genuine reason to distrust the healer's isolation-demanding path *and* Sol's crowd-kneeling path at once. Guardrail (`26`): keep Sol's charisma horrifying, not comic — the pull must be real. Do not let Eli win here; let the loneliness land.
 
-### Scene 0 — the seed: restraint that costs a life *(Ch 26; prerequisite for Scene 1)*
+### Scene 0 — the seed: restraint that costs a life *(Book III attack chapters; prerequisite for the political-crown choice)*
 
 *Sol's temptation only bites if Eli has just watched his own principle get someone killed — a moment where a **harder man would have saved her**, and Eli's refusal to be that man is the reason she's dead. This is that moment. It must be genuinely ambiguous: not a strawman where ruthlessness was obviously wrong, but a case where the ruthless option was right there and would have worked. Placed in the Ch 26 crowd-crush (`33`), amid the factions all grabbing at the healer.*
 

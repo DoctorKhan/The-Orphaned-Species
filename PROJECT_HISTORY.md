@@ -152,7 +152,7 @@ The `Timeline` repository developed a **Human Integration Project** or **Gracile
 - Adapa's refusal of immortality;
 - genetic repositories, bottlenecks, and interventions;
 - Göbekli Tepe, Stonehenge, Albion, Bell Beaker, and Sintashta transitions;
-- seven shards or functional human capacities;
+- seven facets or functional human capacities;
 - the species as developmentally unfinished;
 - the need to mature without waiting for another savior.
 

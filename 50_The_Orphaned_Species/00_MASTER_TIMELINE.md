@@ -7,7 +7,7 @@
 2. **The Social Game** (`20_`) — social control, hierarchy, the mechanics of the spectacle.
 3. **The Human Experiment** (`30_`) — the mythological framework + the canonical timeline (Appendix A).
 4. **The Consciousness Technologies** (`40_`) — the suppressed tools (plant medicine, breathwork, sound, healing touch).
-5. **The Orphaned Species** (`50_`) — the mythic-narrative capstone: border-raised survivor Eli leaves a temporary Forest City refuge for reopened Melaka and **clarifies** seven distinct historical people as deep threads in the living web (`36_the_living_web.md`); Bronze-Age Aedan and the Cuno→Derw record are separate deep-time transmissions he clarifies, not relays to him.
+5. **The Orphaned Species** (`50_`) — the mythic-narrative capstone: border-raised survivor Eli leaves a temporary Forest City refuge for reopened Melaka and **clarifies** seven distinct historical people as deep threads in the living web (`36_the_living_web.md`); Bronze-Age Aedan and the Cuno→Derw record are separate deep-time transmissions he clarifies, not delivery paths to him.
 
 **Source of truth.** The phase structure and dates are canon from `30_The_Human_Experiment/src/90_appendix/10_timeline.md`. Where this doc and that appendix disagree, the appendix wins until reconciled. Science anchors are tracked in `50_The_Orphaned_Species/90_epigraphs_and_sources.md` (**§5** = preamble weapon floor: chr3 Neanderthal haplotype / COVID severity, gene drives, puberty epigenetics). Testable predictions and falsifiers derived from the cosmology (the anchor-vs-gloss surplus, tagged *live / strained / unfalsifiable*) are collected in `50_The_Orphaned_Species/91_predictions_and_falsifiers.md`.
 

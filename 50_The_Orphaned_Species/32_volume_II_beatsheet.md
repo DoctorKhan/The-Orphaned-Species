@@ -4,19 +4,19 @@
 
 *Chapter-by-chapter spine for Volume II (Descent), built on locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `29_trilogy_plot_and_development.md` (trilogy hub), `SOURCE_TO_TRILOGY_MAP.md` (atlas), `31_volume_I_beatsheet.md` (Vol I), `30_beatsheet_ch09_adapa.md` (Adapa watched-depth), `37_deep_time_source.md` (deep-time + LOCKED §§: patriarchy, dead zones, Nephilot trail, broken-line church), `38_psionic_combat.md` (war + scour), `27_character_development_arcs.md` (Vol II arcs), `99_open_questions.md` (open pins).*
 
-> **Locked inputs this sheet chains together:** Eli and the **healer** meet on **independent clue chains** (#8) → **Tem** full-res at the **17:1 bottleneck** grain-pit site (#7 corridor) → **Adapa / Qingu** watched-depth at Mesopotamian ground (`30`) + **patriarchy chord** at domestic scale (`37` § *Patriarchy*) → **Maren suppression scene** + **mother midpoint** (body dead, tethered west, no address) → **Göbekli** convergence: **Aru** + **Daskar** full-res, **Nephilot trail starts**, **Emrys taken** while Eli refuses to sacrifice others (#9) → **Europe:** **dead zones named**, **Pömmelte massacre**, **broken-line church** → **Anthea** (Rollright) + **Cuno** (Stonehenge) + **Alba → Albion → elf** name beat → **England ambush** → **relational Manual Override** (Volume II end threshold). **Archangel ladder:** Michael / Gabriel / Persia prince — reference in Vol II (`46` § G).
+> **Locked inputs this sheet chains together:** opens **post-Göbekli** (Emrys **taken** at Vol I climax — `31` Ch 17) → Eli and **Somchai** meet on **independent clue chains** (#8) → **Tem** full-res at **17:1 bottleneck** grain-pit site → **Adapa / Qingu** watched-depth at Mesopotamian ground (`30`) + **patriarchy chord** at domestic scale (`37` § *Patriarchy*) → **Maren suppression scene** + **mother midpoint** (body dead, tethered west, no address) → **Europe:** **dead zones named**, **Pömmelte massacre**, **broken-line church** → **Anthea** (Rollright) + **Cuno** (Stonehenge) + **Alba → Albion → elf** name beat → **England ambush** → **Maren release** + **relational Manual Override** (Volume II end threshold). **Archangel ladder:** Michael / Gabriel / Persia prince — reference in Vol II (`46` § G). **Göbekli / Aru / Daskar / Emrys-taken — Vol I only** (`31` Ch 17; `99` #7).
 
 > **Volume II dramatic question:** *Can Eli pursue truth without turning people into instruments of his search?*
 > **Internal movement:** descent. **Ending change:** the group can hold charged fear, loyalty, pain, and psychic pressure **without** collapsing into possession, worship, obedience, or betrayal — **relational Manual Override**.
 > **Reveal discipline:** same as Vol I — effects before terminology; historical names only when evidence forces distinction. **Patriarchy chord:** domestic faces only (grain pit, registry, pew-side drain) — never the thesis in dialogue. **Romance cost:** Vol II must **rupture before union** — § *Romance cost audit* below. **M/I/A:** § *M/I/A audit* below; hub `19` § *Female mystery, intrigue, and attraction*.
 
-> **POV — LOCKED FOR REBUILD:** Eli remains the trunk. Chapter 15 opens with Somchai's independent clue-chain movement, then returns to Eli after a hard section break. Chapter 19 is Somchai-led; any Sol/Eli material follows in a separate Eli scene. Chapter 20 opens with Wren making the route/network-cost decision beyond Eli, then returns to Eli after a hard section break. Chapters 16–18 and 21–22 remain Eli; Maren's truth and Emrys's capture specifically remain Eli. One scene holds one viewpoint. Full rule: `14` § *POV architecture — LOCKED*.
+> **POV — LOCKED FOR REBUILD:** Eli remains the trunk. Chapter 15 opens with Somchai's independent clue-chain movement, then returns to Eli after a hard section break. Chapter 18 is Somchai-led; any Sol/Eli material follows in a separate Eli scene. Chapter 19 opens with Wren making the route/network-cost decision beyond Eli, then returns to Eli after a hard section break. Chapters 16–17 and 20–21 remain Eli; Maren's truth remains Eli. One scene holds one viewpoint. Full rule: `14` § *POV architecture — LOCKED*.
 
 ---
 
 ## Vol II opening — LOCKED
 
-**Ch 15** opens on the **corridor out of South Asia** — no recap prologue. Vol I's surviving fragment (grower knowledge + coordinate) is the only luggage Eli trusts. **Maren suppression** is **not** a prologue; it lands **Ch 17** when Eli is ready to receive how she was taken.
+**Ch 15** opens on the **corridor out of Anatolia / post-Göbekli** — no recap prologue. Vol I's surviving fragments (Mekong grower knowledge + partial Göbekli read) and **Emrys's absence** are the luggage Eli trusts. **Maren suppression** is **not** a prologue; it lands **Ch 17** when Eli is ready to receive how she was taken.
 
 ---
 
@@ -29,16 +29,18 @@
 - **Obstacle:** independent clue chains **cross on the same wounded party** — Eli and the healer cannot both "own" the case; national **psion war** visible as policy, conscription, asylum, desertion (`38`); Wren's objective **conflicts openly** with Eli's search.
 - **Choice → Cost:** Somchai heals openly enough to be witnessed; rumor begins outrunning him. After the break, Eli accepts Somchai's terms (no instrument, no faction resource). Cost: slower route; Wren's resentment.
 - **Revelation:** **"Kneel → cage → burn"** pressure begins on the healer after a witnessed stabilization — *don't tell anyone* is already breaking. **Forward clue:** Tem's record (distributed contact, broken routes) points to a **17:1 bottleneck** witness site.
-- **Past leak:** Healer — refuses head touch / public prayer. Rowan — ledger habit, names a price Eli didn't know was paid.
-- **Romance cost (SHARPEN):** Wren **states Vol I's price aloud** (Laleh, Asha, burned routes) — Eli's answer is to **be more useful** (immature love). She names it as **management**, not gratitude. **No** reunion warmth — forced alliance friction (`00` stage 2).
+- **Past leak:** Healer — refuses head touch / public prayer. Rowan remains off-page: a remembered phrase from her about ledgers — *a completed route is not a returned person* — names a price Eli did not know Wren had paid. No Rowan appearance, POV, or active third body.
+- **Romance cost (SHARPEN):** Wren **states Vol I's price aloud** (Laleh, Asha, **Göbekli**, **Emrys taken**) — Eli's answer is to **be more useful** (immature love). She names it as **management**, not gratitude. **No** reunion warmth — forced alliance friction; **cold shoulder** from Vol I rupture may still be active (`00` stage 2).
 - **M/I/A:** **M** — over-management surfaces. **I** — open objective conflict vs Eli/healer. **A** — resentment on dialogue; no warmth.
 
 ### Ch 16 — The Old Wound *(Eli · ensemble action · Persian Gulf / Mesopotamia · Eridu-flats)*
 - **Want:** read the ground without becoming its priest.
 - **Attachment:** historical **households** at human scale — provision, descent, duty renamed as love.
-- **Obstacle:** **Adapa** watched-depth clarifies at charged ground (`30_beatsheet_ch09_adapa.md`) — obedience closes the path to life; lacuna argued as warning vs lock. **Qingu-blood vs We-ila** shard: official myth (*bad blood, kneel*) vs buried truth (practice and tuning). **Two creation myths** as **witnessed fragment vs carried song** (Lira→Derw→Aedan→Eli). Intercept or archive: Daniel-style **princes** — faction callsign **"Prince"** / **"Persia hold"** in psion chatter (`46` § G).
+- **Obstacle:** **Adapa** watched-depth clarifies at charged ground (`30_beatsheet_ch09_adapa.md`) — obedience closes the path to life; lacuna argued as warning vs lock. **Qingu-blood vs We-ila** fragment: official myth (*bad blood, kneel*) vs buried truth (practice and tuning). **Two creation myths** as **witnessed fragment vs carried song** (Lira→Derw→Aedan→Eli). Intercept or archive: Daniel-style **princes** — faction callsign **"Prince"** / **"Persia hold"** in psion chatter (`46` § G).
 - **Choice → Cost:** Eli refuses **both** the state's ancestry file **and** chosen-one flattery. Cost: a faction labels him uncooperative.
-- **Revelation:** control order moves **inward** — approved fathers own descent; sacrifice of the lower member is renamed duty (`37` § *Patriarchy*). **Aru and Daskar disagree** whether the instrument can be redeemed; first recovered **stone artifact** evidence. **Archangels (plot — register):** disputed text or amulet — *sar* ("prince") vs *malʾakh* ("messenger/angel"); Daniel-style **national princes** named without wings (`46` § G). **Forward clue:** trail bends **Anatolia** — Göbekli interface under contest.
+- **Revelation:** control order moves **inward** — approved fathers own descent; sacrifice of the lower member is renamed duty (`37` § *Patriarchy*). **Aru and Daskar disagree** whether the instrument can be redeemed; first recovered **stone artifact** evidence. **Archangels (plot — register):** disputed text or amulet — *sar* ("prince") vs *malʾakh* ("messenger/angel"); Daniel-style **national princes** named without wings (`46` § G). **Forward clue:** trail continues **west** — dead zones and broken European lines ahead (Göbekli **resolved Vol I**).
+- **4.2 ka climate layer — LOCKED:** Eli reads the c. 2200 BCE disruption through failed grain stores, dust and salt in irrigation channels, altered river behavior, and settlement abandonment. Emrys initially calls it a civilizational drought; a local record and material evidence show regional variation, adaptation, migration, and survival. The event is a pressure, not a single global switch or complete explanation.
+- **Forward historical question:** who turned climate stress into a story of divine punishment, labor, or reset?
 - **Patriarchy (plot — domestic):** one face only — e.g. registry line on a wall, or a household where **provision proves love** and a lower member is offered "for the line." No lecture.
 - **Past leak:** Emrys — map over territory slip when lacuna matches his mother's notes.
 - **Romance cost (INSERT — *Liaisons* thread):** **Honey-trap or handler performance** — Jin Pak mirror-charm, embassy salon, or registry "kind face" flatters Eli; he **misreads** warmth as field-confirmation. Wren dismantles it **without mercy**; fight is about **reading**, not jealousy. Eli must learn played love in the intimate arena (`00` *Liaisons* at the edges).
@@ -54,6 +56,7 @@
 - **Obstacle:** courteous **Ring suppression machinery** — clipboards, van, neighbor's light out (`99` #Maren-suppression). The Custodians are moving **Hassan through a Gulf holding site** because his memory may unlock Maren's sabotaged maps. **Sora has leaked the transfer route to Wren**, without revealing herself as the source. Hassan remains alive with the wedding ring and first-person knowledge no archive can replace. Eli learns both **how Maren was taken** and why the program could find her: she willingly helped build its early signature and integration tools before becoming a dissident.
 - **Choice → Cost:** when a clean evidence recovery conflicts with getting Hassan out, Eli chooses the person; part of Maren's technical record remains with the captors. He receives the surviving account without converting complicity into betrayal or resistance into absolution. Cost: grief with neither rescue fantasy nor innocent-mother story left.
 - **Revelation (MIDPOINT):** mother's **body is dead**; something of her is **tethered** in the western web of charged grounds — **no usable address**. Search becomes **release**, not rescue. Her sabotage damaged the grid but also helped produce the broken charts now guiding them. **Forward clue:** only **living observation** (growth, polarity, song) can triangulate west — old maps fail.
+- **Deluge tradition — LOCKED:** a recovered Eridu/Atrahasis/Gilgamesh cluster places flood memory beside labor, kingship, catastrophe, and post-flood reset. A later biblical deluge version is encountered as a theological and political reshaping, not proof of one literal worldwide event. Eli asks who controlled the boat, who was excluded, and who wrote the law after the water went down.
 - **Patriarchy rhyme:** keeper **hand-to-hand** transmission (song, harbor) vs registry **father-above** file logic.
 - **Past leak:** Eli — hums mother's tune wrong on purpose; can't finish it.
 - **Romance cost (INSERT — mother/Wren collision):** After suppression scene, Eli reaches for Wren as **home** — she **recoils** (*don't put her in that chair*). Names fear: **replacement**, not jealousy. He must receive mother-truth **without** recruiting Wren as consolation. Intimacy **down** at midpoint — prevents mother arc from feeling like romance accelerator.
@@ -61,20 +64,9 @@
 
 ---
 
-## ACT III — Göbekli and Loss
+## ACT III — Europe and Loss *(Emrys absent)*
 
-### Ch 18 — Göbekli and Loss *(Eli · ensemble action · Anatolian ground · contested site)*
-- **Want:** read the buried interface before rival teams weaponize it.
-- **Attachment:** civilians at dig/shrine/military margin; Emrys's correlation work; **Eshe**-weight in Daskar shard (grief retained).
-- **Obstacle:** **competing teams converge**; old maps fail; **current growth/polarity** is the viable route. **Emrys's serious error** exposes the group or misidentifies the ground (`99` #9).
-- **Choice → Cost (CLIMAX):** Eli **protects civilians / companions** rather than chase Emrys's captors. Cost: **Emrys is taken**; pursuit continues without him.
-- **Revelation — full-res threads:** **Aru** at fox-pillar (touch under pressure — spiral eye, breath, observer-of-observer). **Daskar** at burial layer (heat-sense; center silent under fill; hands pressed to Eshe). **Nephilot trail (plot — start):** mother's research / dig genetics — **Basal Eurasian / first-farmer ghost** rhyme + plaquette read; **westward carrier trail begins**, not finished (`37` § *Tracking the Nephilot line*).
-- **Forward clue:** partial **Cuno/Derw** element + living network point **Europe** — "Albion" not yet confirmed.
-- **Past leak:** Aedan watched-depth seed — orphan-and-father thread **materializes quietly** (granary warmth, no father map).
-- **Romance cost (INSERT — rupture):** **Trust break** — Eli blames Wren's route or she says *I told you* when **Emrys is taken**. They **separate tasks** (not melodramatic walkout — operational cold shoulder) for at least one chapter. Union in Ch 22 must **repair** this, not skip it (`19` Vol II end state: choice creates **debt carried into III**).
-- **M/I/A:** **M** — cold shoulder; unreadable hurt. **I** — Emrys taken / blame. **A** — rupture; no comfort.
-
-### Ch 19 — The Healer's Kneel *(Somchai trunk → hard break → Eli for Sol approach · Anatolia / medical corridor)*
+### Ch 18 — The Healer's Kneel *(Somchai trunk → hard break → Eli for Sol approach · Anatolia / medical corridor)*
 - **POV staging:** Somchai's refusal and its bodily/social cost complete before the hard break. Sol then approaches Eli in a distinct Eli scene; the narration does not carry Somchai's thoughts across the boundary.
 - **Want (healer):** stay a body among bodies.
 - **Obstacle:** extraordinary but **medically grounded** healing draws pilgrims, media, faction recruiters — testimony travels despite *don't tell anyone*.
@@ -89,7 +81,7 @@
 
 ## ACT IV — The Changing Map (Europe)
 
-### Ch 20 — The Changing Map *(Wren opening → hard break → Eli · continental Europe)*
+### Ch 19 — The Changing Map *(Wren opening → hard break → Eli · continental Europe)*
 - **POV staging:** Wren opens inside her threshold-house network, discovers that the mapped route has become a registry trap, and chooses the living detour at a cost to her own access. Hard break. Eli governs the crossing, including whether to trust her detour over Emrys's absent map.
 - **Want (Wren):** keep the threshold houses and travelers out of the registry while finding a viable detour. **(Eli, after break):** cross Europe without becoming anyone's registered asset.
 - **Attachment:** Wren's network as **operational threshold houses**; ordinary parish/community caught in geometry.
@@ -99,18 +91,20 @@
   - **Nephilot trail (plot — massacre):** **Pömmelte** (or excavated henge ground) — gendered shaft burials; aDNA **unrelated women and children** from many settlements; Eli grasps **women were targeted** (carrier purge), not generic war (`37`, `90` §6).
   - **Broken-line church (plot):** parish on a route **break** — **negative end / pews**, **positive end / sacristy**; congregation depleted, clergy charged; **Michael or Gabriel** in glass at draining end; optional cherub/seraph **iconography** (`46` §§ G, H — **agency ON HOLD**).
   - **Gabriel (plot — rumor):** healer pilgrims use annunciation language — *messenger*, *word from above* — ahead of Vol III refusal.
+- **Bronze Age Collapse — LOCKED historical layer:** the group encounters burned palace centers, abandoned administrative buildings, interrupted trade routes, missing writing, desperate letters, and displaced populations across the Anatolian/European transition. The collapse is not assigned to one invader or one “Sea Peoples” event; drought, conflict, migration, disease, interdependence, and institutional brittleness remain competing causes. Some communities persist or adapt outside the palace system.
+- **Present rhyme:** Eli recognizes that a centralized palace can mistake itself for civilization. A system may collapse while local people retain skills, memory, and routes. This becomes the historical seed for Book III's distributed federation.
 - **Forward clue:** Rollright / Men-an-Tol corridor — song and riddling ground ahead.
 - **Past leak:** Shield — crosses himself at wrong end of nave; **Michael** on the wall behind him; won't say why.
-- **Romance cost (SHARPEN):** Eli trusts Wren's detour — **behavioral proof** after Ch 18 rupture: one scene of **repair** (she lets him choose a risk; he asks instead of assuming). Still **not** union — thaw tested, not closed (`00` stage 3).
+- **Romance cost (SHARPEN):** Eli trusts Wren's detour — **behavioral proof** after Vol I / early Vol II rupture: one scene of **repair** (she lets him choose a risk; he asks instead of assuming). Still **not** union — thaw tested, not closed (`00` stage 3).
 - **M/I/A:** **M** — repair via conduct. **I** — detour trust over absent map. **A** — thaw; behavioral proof only.
 
-### Ch 21 — The Riddling Node *(Eli · ensemble action · Rollright / Men-an-Tol corridor)*
+### Ch 20 — The Riddling Node *(Eli · ensemble action · Rollright / Men-an-Tol corridor)*
 - **Want:** hold a thread long enough to learn without owning it.
 - **Obstacle:** **Anthea** full-res under present pressure — sonic resonance; different notes at **two ends of a broken route**; she teaches **Lira** and is killed; chord reaches Aedan's village through unknown chain (`37` ch 14).
 - **Choice → Cost:** Eli receives Anthea as **other**, not ancestor. Cost: grief; Lira fragment is **carried song**, not bloodline proof.
 - **Revelation:** sound, polarity, and routing link **without** becoming a universal key. **Forward clue:** **Stonehenge / bluestone** configuration — Cuno's lossy record may finally have a live ground.
 
-### Ch 22 — The Chair and the Tether *(Eli · ensemble action · Stonehenge approach · Albion threshold)*
+### Ch 21 — The Chair and the Tether *(Eli · ensemble action · Stonehenge approach · Albion threshold)*
 - **Want:** reach the western endpoint before hostile teams activate it.
 - **Attachment:** Eli/Wren **present-tense commitment** (not destiny); Derw's lossy package.
 - **Obstacle:** **Cuno** full-res — collective resonance; many minds in right shape make one mind; structure is antenna; **chariots crest the rise**. Record remains **lossy** — Eli must rediscover in present. **England ambush** — boundary is **instrumented**, not a magic wall; waiting psion team attacks immediately (Albion **contested**, not hidden).
@@ -124,13 +118,13 @@
 
 ## Volume II climax — LOCKED
 
-- **Site:** **Göbekli Tepe** contested ground (Ch 18) — tactical climax; **Europe / Albion approach** (Ch 22) — relational threshold.
-- **Emrys:** serious error Ch 18 → **taken** while Eli refuses to sacrifice others for pursuit.
-- **Mother:** midpoint Ch 17 — body dead, tethered west, no address.
-- **Patriarchy / bloodlines:** Ch 16 Adapa/Qingu + domestic household; Ch 17 keeper vs registry; Ch 20 church pew-side drain.
-- **Nephilot arc:** Ch 18 start (Göbekli genetics/plaquette) → Ch 20 Pömmelte → Ch 22 Alba/elf name.
-- **Dead zones:** Vol I seeds (Ch 8 goats, Ch 11 dead ground) → **named and mapped Ch 20**.
-- **What survives → Vol III:** living network, partial geometry, healer rumor ahead, tether unresolved, scour warfare escalates.
+- **Site:** **Stonehenge / Albion approach** (Ch 21) — relational threshold + **Maren release** (midpoint Ch 17; full release beat per `05` / `99` Maren lock).
+- **Emrys:** **taken Vol I** (`31` Ch 17); absent through Vol II; reunion or loss in Vol III (`99` #9).
+- **Mother:** midpoint Ch 17 — body dead, tethered west, no address; **Book II climax** releases her (`05`).
+- **Patriarchy / bloodlines:** Ch 16 Adapa/Qingu + domestic household; Ch 17 keeper vs registry; Ch 19 church pew-side drain.
+- **Nephilot arc:** **starts Vol I Göbekli** → Ch 19 Pömmelte → Ch 21 Alba/elf name.
+- **Dead zones:** Vol I seeds (Ch 8 goats, Ch 11 dead ground) → **named and mapped Ch 19**.
+- **What survives → Vol III:** living network, partial geometry, healer rumor ahead, first awakening socially destabilizing, scour warfare escalates.
 
 ---
 
@@ -141,25 +135,25 @@
 | Tem / 17:1 grain pit | 15 (record) → site may extend into corridor | `37` ch 13; `90` §1 |
 | Adapa / Qingu / patriarchy households | 16 | `30`; `37` § *Patriarchy*; `46` § G (*sarim* register) |
 | Maren suppression + mother midpoint | 17 | `99` #Maren-suppression |
-| Aru + Daskar + Nephilot trail start | 18 | `37` Part III |
-| Healer deification pressure | 19 | `05` Act III note |
-| Dead zones + Pömmelte + broken-line church | 20 | `37` LOCKED §§; `46` § G (church iconography) |
-| Anthea / Lira | 21 | `37` ch 14 |
-| Cuno + Alba→elf + England ambush | 22 | `37` ch 15; `35` artifact chain |
-| Archangels — Michael / Gabriel / Persia prince | I Ch 1/8, 13 → 16, 19–20 → III 25–29 | `46` § G ladder |
+| Healer deification pressure | 18 | `05` Act III note |
+| Dead zones + Pömmelte + broken-line church | 19 | `37` LOCKED §§; `46` § G (church iconography) |
+| Anthea / Lira | 20 | `37` ch 14 |
+| Cuno + Alba→elf + England ambush | 21 | `37` ch 15; `35` artifact chain |
+| Aru + Daskar + Nephilot reveal + Emrys taken | **Vol I Ch 17** | `31`; `99` #7 |
+| Archangels — Michael / Gabriel / Persia prince | I Ch 1/8, 13 → 16, 18–19 → III 25–29 | `46` § G ladder |
 
 ---
 
-## Still open (track in `99_open_questions.md`)
+## Locked design and remaining staging
 
-- **#7** External race prize at Göbekli (fragment? prisoner? deadline?) — must lock before drafting Ch 18.
-- **#8** Healer name, home corridor, first public healing trigger (Ch 15 vs 19).
-- **#9** Emrys error beat-by-beat (misidentified ground vs exposed coordinates).
-- **#10** Load-bearing artifact subset for Vol II (5–6 objects).
-- **Broken-line church:** country/denomination (`99`).
-- **Pömmelte:** on-site visit vs museum/aDNA briefing (`99`).
-- **Tem witness site:** exact geography for grain-pit full-res (`99`).
-- Göbekli present-day frame: dig / shrine / military zone.
+The core decisions in `99_open_questions.md` #7–#10 are **locked** and must not be reopened during drafting:
+
+- **#7 — External race:** the rival consortium, state program, Custodians, and possible Sol runner race to read/re-seal the Göbekli interface before the excavation window closes. The prize is the sealed interface and Nephilot selection record, not a portable relic.
+- **#8 — Healer:** Somchai Vichai is the Thai nurse/field medic; his clinical competence, energetic capacity, public-healing pressure, and refusal of shrine/ownership are fixed. His exact age, home clinic, and local staging of the first unavoidable public healing remain selectable.
+- **#9 — Emrys:** he trusts the map over the live ground, mistimes the Göbekli entry window, nearly hands the interface to the consortium, and survives into Volume III as a scholar-advisor. The precise sequence of misread, exposure, and capture remains scene choreography.
+- **#10 — Artifact chain:** the five load-bearing objects are fixed: Three-Circles Tablet; Göbekli plaquette; Adapa lacuna; Map of the World; Men-an-Tol holed stone. Their exact handoffs, appearances, and scene placement may still be staged.
+
+The following are **not unresolved canon**; they are local staging choices: the broken-line church's country/denomination, whether Pömmelte is visited directly or encountered through museum/aDNA briefing, Tem's exact grain-pit geography, and the precise present-day mix of dig, shrine, and military-zone texture at Göbekli. Preserve the locked consequences above when choosing among them.
 
 ---
 
@@ -167,16 +161,15 @@
 
 | Ch | Status | Job |
 |---|---|---|
-| 15 | **SHARPEN** | Bill Vol I; usefulness-as-love named |
+| 15 | **SHARPEN** | Bill Vol I (Göbekli, Emrys); usefulness-as-love named |
 | 16 | **INSERT** | *Liaisons* — played love vs true (`00` §6c) |
 | 17 | **INSERT** | Mother/Wren collision — replacement fear |
-| 18 | **INSERT** | **Rupture** — Emrys taken; cold shoulder |
-| 19 | **INSERT** | Sol secrecy; messiah hunger misread |
-| 20 | **SHARPEN** | Repair beat — not union yet |
-| 21 | OK | Anthea grief parallels; romance subordinate |
-| 22 | **LOCK** | Union at **debt** — chosen, not fated |
+| 18 | **INSERT** | Sol secrecy; messiah hunger misread |
+| 19 | **SHARPEN** | Repair beat — not union yet |
+| 20 | OK | Anthea grief parallels; romance subordinate |
+| 21 | **LOCK** | Union at **debt** — chosen, not fated |
 
-**Vol II drift risk:** Ch 22 commitment without Ch 17–19 damage → **too easy**. Mother midpoint must **cool** romance, not accelerate it.
+**Vol II drift risk:** Ch 21 commitment without Ch 17–18 damage → **too easy**. Mother midpoint must **cool** romance, not accelerate it.
 
 ---
 
@@ -189,8 +182,7 @@
 | 15 | Over-management | vs Eli/healer objectives | Resentment; no warmth |
 | 16 | Reads room first | Honey-trap / *Liaisons* | — |
 | 17 | Replacement named; recoil | Mother vs dyad | **Down** |
-| 18 | Cold shoulder | Emrys rupture | Rupture |
-| 19 | Secrecy; messiah read | Sol rival | Loneliness |
-| 20 | Repair conduct | Detour trust | Thaw |
-| 21 | — | — | Subordinate |
-| 22 | Chosen visibility | Debt unpaid | Commitment touch |
+| 18 | Secrecy; messiah read | Sol rival | Loneliness |
+| 19 | Repair conduct | Detour trust | Thaw |
+| 20 | — | — | Subordinate |
+| 21 | Chosen visibility | Debt unpaid | Commitment touch |

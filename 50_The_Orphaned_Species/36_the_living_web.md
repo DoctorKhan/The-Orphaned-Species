@@ -1,8 +1,8 @@
 # The Living Web — How the Deep Time Reaches the Present
 
-*The single mechanism for all deep-past material in the trilogy. Replaces the memory-capsule / Aedan-relay / two-register machinery. Companion to `00_NARRATIVE_STRUCTURE.md` (the spine), `05_story_architecture.md` (§10–11 lore discipline), `35_artifact_chain.md`, and `37_deep_time_source.md` (the harvested scene detail — now reframed, see §9).*
+*The single mechanism for all deep-past material in the trilogy. Replaces the memory-capsule / Aedan-conduit / two-register machinery. Companion to `00_NARRATIVE_STRUCTURE.md` (the spine), `05_story_architecture.md` (§10–11 lore discipline), `35_artifact_chain.md`, and `37_deep_time_source.md` (the harvested scene detail — now reframed, see §9).*
 
-> **Decision — LOCKED.** There are no past lives inside Eli, no roster of seven carriers, no resonance braid, no Bronze-Age relay routing the cosmology. There is **one living web** — the anti-entropic field already in the canon (the medium conducted through Earth's ley-lines, the substrate the cold infrastructure was laid over). **Eli is connected to it.** His gift and his practice are the same act: **clarification.** He brings tangled regions of the web into focus, and *what he clarifies, he learns.* Everything the old machinery delivered — deep-time history, the historical practitioners, the cosmology, the mother — is a structure *in the web* that resolves as he clears it. This is the truer expression of the book's own metaphysics: the cosmology is connection, so the protagonist's way of knowing is connection clarified, not lives collected.
+> **Decision — LOCKED.** There are no past lives inside Eli, no roster of seven carriers, no resonance braid, no Bronze-Age boy routing the cosmology for Eli. There is **one living web** — the anti-entropic field already in the canon (the medium conducted through Earth's ley-lines, the substrate the cold infrastructure was laid over). **Eli is connected to it.** His gift and his practice are the same act: **clarification.** He brings tangled regions of the web into focus, and *what he clarifies, he learns.* Everything the old machinery delivered — deep-time history, the historical practitioners, the cosmology, the mother — is a structure *in the web* that resolves as he clears it. This is the truer expression of the book's own metaphysics: the cosmology is connection, so the protagonist's way of knowing is connection clarified, not lives collected.
 
 ---
 
@@ -21,7 +21,7 @@
 | **The Seven as a roster of carriers Eli "becomes"** | `37`, the source-map, the spine | **Threads that resolve into people** (§4) — discovered, not numbered or pre-mapped |
 | **Reincarnation / soul-names / past lives in Eli** | earliest model | Nothing — he was never these people; they are *other*, held in the web |
 | **"Resonance braid" as a named device** | the spine docs | Redundant; the web *is* the connection. Drop the term. |
-| **Aedan as a partial relay routing the cosmology** | `36`, `37`, the source-map | Removed entirely. The cosmology is deep web-structure he clarifies directly (§6) |
+| **Aedan routing the cosmology for Eli** | `36`, `37`, the source-map | Removed entirely. The cosmology is deep web-structure he clarifies directly (§6) |
 | **Two registers (lived-life vs watched-vision)** | `36` §1 | One dial of depth (§1, §6); the *felt* difference survives as resolution, not as two mechanisms |
 | **"Sevenfold signature" / harmonic carrier count on instruments** | spine, beatsheets, draft prose | **Removed.** Emrys reads a **carrier flare** correlated to Maren's research — not a number-of-practitioners pattern |
 
@@ -72,7 +72,7 @@ So every drafted descent survives untouched in content; only the framing changes
 
 ## 6. The cosmology is just deeper web-structure
 
-The gods, the Seven Pairs / bottleneck, the war in heaven, the orphaning, Adapa — these are not a second kind of transmission and need no relay. They are **the vast, faint, oldest structures in the same web**, clarified last because they are deepest and most tangled, and **never resolved whole.** Adapa, the makers, the orphaning arrive as fragments *because of their depth on the dial*, not because they pass through Aedan. This:
+The gods, the Seven Pairs / bottleneck, the war in heaven, the orphaning, Adapa — these are not a second kind of transmission and need no intermediary. They are **the vast, faint, oldest structures in the same web**, clarified last because they are deepest and most tangled, and **never resolved whole.** Adapa, the makers, the orphaning arrive as fragments *because of their depth on the dial*, not because they pass through Aedan. This:
 
 - preserves the lore discipline `05` §11 demands (the cosmology *cannot* arrive as a clean lecture — far structure never fully resolves);
 - lets the deep myth **mislead** sometimes (a half-clarified ancient structure is genuinely ambiguous; preserve readings that contradict Eli's preference);

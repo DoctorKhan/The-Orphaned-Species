@@ -24,6 +24,10 @@ Trilogy maturation (`05`):
 
 Romance runs the **same thesis** as cosmology: *clinging = cage; release = adulthood* — mother and Wren through Book II; in Book III, partnership must coexist with separate duties and institutions.
 
+**Wren's past-lover / social-world lock:** Wren's history includes two significant bisexual or queer relationships. **Rowan** is Bengali, close to Wren's age, and embedded in the Bengali mutual-aid web through participation, trust, port work, friendship, and shared obligations. An **older Chinese-Malaysian ex** belongs to the same transnational social ecology through her own work and relationships; she offered Wren experience, protection, and access while the age and resource difference created real asymmetry. Neither relationship is reduced to a type: Rowan represents belonging and mutual affection; the older ex represents power, protection, ambition, and the danger of confusing care with control. The wider community includes marriages, children, and additional affectionate or erotic bonds under negotiated or imperfect terms. Eli initially tries to reduce the arrangements to deception or a single category. Wren teaches him that marriage organizes responsibility but does not exhaust affection; plural attachment requires consent, honesty, boundaries, and accountability, and no arrangement is universally ethical. The past relationships remain real after they end.
+
+**Quiet-culture lock:** this Bengali–Melakan network learned discretion through persecution. Inside the trusted web, Wren's relationships are recognized through food, rooms, caregiving, teasing, invitations, children, and continuing obligation; outside it, people use flexible kin terms and disclose no relationship information without consent. **Everyone inside knows; no one outside is owed the knowing.** Wren inherits both sides of the adaptation: fierce privacy protects people, but her arc must confront the point at which protective silence becomes management or erasure. At least one older/younger disagreement should make both the survival logic and the cost of quietness legible.
+
 **Past on page:** development is forward — but scenes should **leak** ordinary-life detail (food, sleep, pre-war job, old relationship) before explaining it. Full past layers: `26` § Complex pasts.
 
 ---
@@ -61,12 +65,24 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 | "Being right places me outside ordinary judgment" | Sponsored refugee's harm; public inquiry | Testifies without controlling the conclusion and accepts real limits on future authority |
 | "My name/lineage is the answer" | Seven are separate people | Keeps **Eli Rahman**; Bangladeshi self enough |
 
+### Eli's leadership education (locked)
+
+Eli begins awkward and confused in ordinary leadership: he can notice patterns and survive emergencies, but does not yet understand how trust, consent, and institutional limits work. His education proceeds in four proofs:
+
+1. **Competence (Book I):** he acts decisively and saves people, then mistakes usefulness for entitlement to direct them.
+2. **Interpretation (Book II):** he becomes persuasive and historically informed, then learns that insight does not grant jurisdiction over other people's lives.
+3. **Bounded service (Book III):** Forest City's refugee death, Wren's refusal, and San Francisco's fall teach him to make authority limited, visible, revocable, and shared.
+4. **Stewardship (ending):** he accepts a weaker voluntary response rather than forced synchronization, names the cost, submits to public judgment, and builds systems that work when he is absent.
+
+Responsible leadership is therefore not command or self-erasure. It is making necessary decisions, sharing power, protecting dissent, accepting consequences, and leaving people freer—and less dependent on the leader—than before.
+
 ### Volume beats (proof scenes)
 
 **Vol I**
 - Open: garden fails; **somatic read** misfires in soil — reception without mastery.
 - Breach: near-death; Seven = catastrophe not power; **one temple habit** keeps him from total fuse (fragment only).
-- End: Hạnh / Mekong climax — **choose people, lose clean evidence**; personal Manual Override — **meditation seed bears fruit**.
+- Mid-Vol I: Mekong — **choose people, lose clean agricultural evidence**; personal Manual Override — **meditation seed bears fruit**.
+- End Vol I: **Göbekli** — choose people over **complete interface record**; **Emrys taken**; Nephilot reveal; rupture with Wren.
 
 **Vol II**
 - European pursuit: past carriers **disagree**; stops seeking one authority.
@@ -248,7 +264,7 @@ Track each major choice against **Body / Family / Civilization**:
 | Choice | Body | Family | Civilization |
 |---|---|---|---|
 | Leave Forest City | Exhaustion, TBI | Kitchen crew, garden | Exposes refuge |
-| Vol I climax | Manual Override in body | Hạnh's Mekong cooperative | Factions denied evidence |
+| Vol I climax | Manual Override + Göbekli choice | Hạnh's Mekong cooperative (witness) | Emrys taken; factions partial read |
 | Emrys taken | — | Rescue him vs press on | Grid race |
 | Release mother | Grief in chest | Orphaning complete | Node darkens |
 | Climax | Union act cost | Wren open-handed | Fire spreads; no throne |

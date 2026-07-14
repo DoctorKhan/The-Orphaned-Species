@@ -69,7 +69,7 @@ She loves people and is furious that everyone assumes she will absorb the cost. 
 
 ### The ambitious builder with compromised ideals
 
-She genuinely wants to improve the world and also likes power, prestige, or being the person with the answer. Priya or a Network School founder could embody constructive systems without becoming a saint or corporate caricature.
+She genuinely wants to improve the world and also likes power, prestige, or being the person with the answer. Priya or a Forest Foundry founder could embody constructive systems without becoming a saint or corporate caricature.
 
 ### The believer who is neither foolish nor pure
 
