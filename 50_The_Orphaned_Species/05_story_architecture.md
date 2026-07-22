@@ -4,6 +4,12 @@
 
 ## 1. The governing story
 
+**Pelangi Reach — paired-island setting lock:** Pelangi Reach is a larger inhabited island and a smaller created island joined by causeways, ferries, utility lines, and unequal dependence. The larger island holds older villages, gardens, fishing communities, water institutions, migrant neighborhoods, repair yards, ritual life, and local authority. The smaller artificial island—usually called **the Reclamation**—is a near-future fintech and climate-technology hub: towers, data centers, robotics, desalination, finance, luxury housing, and the Forest Foundry compound. It is presented as a separate island because its wealth, security, and ecological costs are physically visible. The hub cannot feed, repair, or socially legitimize itself without the larger island. Pelangi is not a mystical Bali replica: both islands contain hierarchy, disagreement, generosity, exploitation, and people making compromises under climate pressure.
+
+**Pelangi development lock:** A hereditary king is building the smaller artificial island into a climate/technology and fintech hub to rival Meridian City. The project brings AI, biotech, robotics, desalination, flood control, finance, and high-end infrastructure while accelerating land loss, platform labor, ritual commodification, and generational change on the larger island. Pelangi is a negotiated, incomplete synthesis: culture-first in aspiration, increasingly reshaped by technology in practice.
+
+**The Reclamation:** The opening hearth is the created island called the Reclamation, not the whole Pelangi system. It contains Forest Foundry, worker housing, refugee intake, gardens, repair yards, harbor systems, fintech offices, and the royal development zone. Its polished infrastructure depends on food, labor, repair, and cultural legitimacy crossing daily from the larger island. The opening should make that dependency ordinary before the crisis makes it visible.
+
 > An injured refugee with dangerous perceptual abilities tries to protect the possibility of ordinary life and belonging, but a clue to his missing mother exposes him to a global fight over whether people like him should be registered, worshipped, weaponized, cured, or killed.
 
 This sentence is the story's filter. A subplot, historical descent, location, faction, or piece of lore belongs in the novel only if it intensifies at least one part of it.
@@ -32,7 +38,7 @@ The longing for home supplies the heart. The clue trail moves the body. The Seve
 Default prose style: **lyrical but restrained; warm and human; socially funny; sensory-textured; mostly external/cinematic; flowing and contemporary-simple; lightly interpretive; dry in humor; specific with names, jobs, objects, and places.** Let emotion arrive through what people do, notice, expect, and joke about. Prefer concrete social texture over abstract interior explanation: a stuck fire door, a saved phone charger, a bad knot that holds, a chess move nobody asked for.
 
 Vary the same style by pressure:
-- **Forest City:** warmer, funnier, more populated by recognizers and small obligations.
+- **Pelangi Reach:** warmer, funnier, more populated by recognizers and small obligations.
 - **Melaka/pursuit:** sharper, more procedural, with details that feel observed under stress.
 - **Psi/activation:** quieter and stranger, felt before named, with no lecture.
 
@@ -45,7 +51,7 @@ The trilogy should speak directly to contemporary loneliness, housing precarity,
 Use three recurring forms of home:
 
 - **Lost home:** Bangladesh, family, father, mother, language, food, danger, exile, political tension, and the unfinished life Eli was forced to leave. Arif Rahman's political commitments there entangled with the Ring's hunt and forced flight; he was killed during extraction, not on a scene young Eli can reliably narrate — so Bangladesh stays **living culture and unreturnable danger**, not only a grave. It should remain emotionally alive but not simply recoverable; return may be unsafe, legally impossible, politically dangerous, or personally unbearable.
-- **Made home:** Forest City, home of **Forest Foundry (the Foundry)** and its entrepreneur/builders: ordinary work shifts, training mornings, beaches, sailboats, coconut palms, waterparks, light-up butterflies, children's train, a plaza robot dog, automatic chess games, mall walks, shopowners, kids, pizza after shift, meals, Bengali-speaking workers, privacy norms, neighbors, and the fragile refuge that lets anomalous people remain accountable without becoming public property. The tone should be warm, tropical, odd, and lived-in rather than cold or dystopian. Forest City is not paradise; it is a wartime safety pocket where broken people can function for a while, shown through ordinary ruptures like the pizzamaker freezing mid-task and being quietly carried by the meal system. The robot dog should recur as an odd symbolic domestic machine: pet/guard/toy/surveillance at once, obeying a route without understanding the life around it. Eli does not need to share the builders' ideology to be affected by the fact that people around him are trying to build something instead of only survive. His day-job is **facilities worker at the Foundry compound** (platform wage; **Arif's friendship with Babaji** got him placement, not money — the Friday demo overload is where his TBI breaks); his private core is **his dead father's garden, tended badly** (his Bangladeshi gardener father's craft, which Eli tries to carry and is *not as good* at — the book's spine, reception without mastery, made intimate). Bengali speech around the mall/terrace should make his father's lost home present without making Forest City a simple replacement for Bangladesh. The compound/port network is where the opening clue reaches him (the witness; see `99_open_questions.md` #1), so leaving costs him the compound crew, Mei's terrace, the beaches/sailboats, the garden, the mall recognizers, and the people who expect him tomorrow, not only abstract safety. The decision should include a real almost-stay beat: bag unpacked, travel warnings visible, ordinary promises made and broken. Incidental seamanship remains a secondary skill for the maritime leg.
+- **Made home:** Pelangi Reach, home of **Forest Foundry (the Foundry)** and its entrepreneur/builders: ordinary work shifts, training mornings, beaches, sailboats, coconut palms, waterparks, light-up butterflies, children's train, a plaza robot dog, automatic chess games, mall walks, shopowners, kids, pizza after shift, meals, Bengali-speaking workers, privacy norms, neighbors, and the fragile refuge that lets anomalous people remain accountable without becoming public property. The tone should be warm, tropical, odd, and lived-in rather than cold or dystopian. Pelangi Reach is not paradise; it is a wartime safety pocket where broken people can function for a while, shown through ordinary ruptures like the pizzamaker freezing mid-task and being quietly carried by the meal system. The robot dog should recur as an odd symbolic domestic machine: pet/guard/toy/surveillance at once, obeying a route without understanding the life around it. Eli does not need to share the builders' ideology to be affected by the fact that people around him are trying to build something instead of only survive. His day-job is **facilities worker at the Foundry compound** (platform wage; **Arif's friendship with Babaji** got him placement, not money — the Friday demo overload is where his TBI breaks); his private core is **his dead father's garden, tended badly** (his Bangladeshi gardener father's craft, which Eli tries to carry and is *not as good* at — the book's spine, reception without mastery, made intimate). Bengali speech around the mall/terrace should make his father's lost home present without making Pelangi Reach a simple replacement for Bangladesh. The compound/port network is where the opening clue reaches him (the witness; see `99_open_questions.md` #1), so leaving costs him the compound crew, Mei's terrace, the beaches/sailboats, the garden, the mall recognizers, and the people who expect him tomorrow, not only abstract safety. The decision should include a real almost-stay beat: bag unpacked, travel warnings visible, ordinary promises made and broken. Incidental seamanship remains a secondary skill for the maritime leg.
 - **Mature home:** the final mixed community where ordinary and anomalous beings share risk, law, care, work, limits, disagreement, and play without kneeling, burning, caging, or turning anyone into destiny.
 
 Meaning should emerge from belonging and conduct, not from cosmic status. Eli's deepest question is not "Who am I secretly?" but "Where can I live truthfully, with others, without being owned?"
@@ -65,7 +71,7 @@ The answer must not be simple anti-authoritarianism. The trilogy needs adult pol
 | **1. Constructive freedom** | **Eli** | Power must be shared through consent, practice, limits, and ordinary accountability. No one owns the field. | He must prove freedom can protect civilians without becoming vague, passive, or messianic. |
 | **2. Destructive control** | **Crane** | Psions and anomalous beings are too dangerous to remain unregistered; containment and command are necessary. | He is right about danger and wrong that danger justifies ownership. |
 | **3. Destructive freedom** | **Prophecy/liberation faction** | Burn the registries, unleash awakening, follow the chosen one, reject limits and accountability. | This is Eli's own anti-ownership instinct corrupted into charisma, chaos, and future violence. |
-| **4. Constructive control** | **Wren / Forest City / ethical regulator** | Freedom needs form: boundaries, triage, consent practices, defense, law, and consequences for harm. | This corner attacks Eli's vagueness and gives Wren an objective beyond protecting him. |
+| **4. Constructive control** | **Wren / Pelangi Reach / ethical regulator** | Freedom needs form: boundaries, triage, consent practices, defense, law, and consequences for harm. | This corner attacks Eli's vagueness and gives Wren an objective beyond protecting him. |
 
 This structure should create multi-party friction:
 
@@ -88,7 +94,7 @@ The lesson is not to add more lore. It is to make existing lore causal and emoti
 | Deep history felt beneath the plot | Keep most cosmology in the bible. Let ruins, customs, injuries, songs, arguments, and consequences reveal it. |
 | A fellowship rather than a solitary savior | Wren, Emrys, the healer, and local allies solve different parts of the trail and make indispensable choices. |
 | An antagonist with a serious argument | Crane is right that unregulated psionic warfare can destroy lives. He is wrong that permanent coercive control is the only answer. |
-| A home worth protecting | Bangladesh and Forest City provide the emotional hearth against which exile and departure acquire meaning. |
+| A home worth protecting | Bangladesh and Pelangi Reach provide the emotional hearth against which exile and departure acquire meaning. |
 | Moral resolution through costly action | Mercy, consent, release, and refusal must cost safety, knowledge, power, or reunion. |
 | Landscape as story | Ports, crops, water, broken lines, mountains, weather, borders, and stone sites determine action. |
 | Restraint | Show evidence before terminology. Explain only after the reader wants an answer. |
@@ -166,7 +172,7 @@ Eli never knows the final destination. The outline knows the macro-route; the ch
 
 ### Rules
 
-1. Eli begins in Forest City, then leaves for one narrow clue in Melaka, not a quest to Albion.
+1. Eli begins in Pelangi Reach, then leaves for one narrow clue in Melaka, not a quest to Albion.
 2. A clue indicates only the next investigation, never the remaining itinerary.
 3. The chain does not belong entirely to his mother. It also comes from living communities, the Seven, Wren's contacts, Emrys's measurements, the changing network, and enemy operations.
 4. At least one clue is stale because a ley line broke.
@@ -174,6 +180,8 @@ Eli never knows the final destination. The outline knows the macro-route; the ch
 6. At least one clue is planted by a psion faction.
 7. A dead end must force a human choice or relationship; it cannot merely trigger a stronger vision.
 8. Albion becomes identifiable only when independent evidence agrees late in the story.
+
+**Maren's Rootbook / Word-Web — LOCKED 2026-07-21:** the encoded journal structures comparison across the clue trail without containing the itinerary. Comparative word families open bounded sections; living communities, artifacts, measurements, and corrections provide the missing witnesses. Book III's Sanxingdui material defeats a universal Indo-European explanation and opens the word-tree into the older living mesh. Full design and volume progression: `52_the_rootbook_word_web.md`.
 
 ### Useful clue forms
 
@@ -212,7 +220,7 @@ The story needs recurring relationships strong enough to carry the cosmology.
 | **The healer** | Embodied medical conscience and deification test | Perform deeper physical repair, judge bodily cost, and remain human under worship | Must refuse conscription by factions, communities, and eventually Eli; public testimony drives him through kneel → cage → burn pressure |
 | **Crane** | Ideological antagonist and organizer | Turn institutions, fear, and genuine danger into durable control | Must demonstrate why his policy is persuasive, not merely cruel |
 | **Recurring rival psion team** | Field-level adversarial fellowship | Coordinate attack and defense better than the protagonists initially can | Members need loyalty, fear, disagreement, and at least one choice that complicates simple enmity |
-| **Local allies** | Keep places alive beyond the protagonist | Supply agricultural, maritime, medical, linguistic, historical, custodial, and embodied knowledge; this includes the Pai dragon-staff performer, Forest City's morning martial-arts teacher, and its sailors | Their needs may conflict with preserving the clue or helping Eli |
+| **Local allies** | Keep places alive beyond the protagonist | Supply agricultural, maritime, medical, linguistic, historical, custodial, and embodied knowledge; this includes the Pai dragon-staff performer, Pelangi Reach's morning martial-arts teacher, and its sailors | Their needs may conflict with preserving the clue or helping Eli |
 
 Full flesh for present-day cast (provisional names, scene seeds, new roles): `26_present_day_cast_expanded.md`. Character development arcs and proof scenes: `27_character_development_arcs.md`. Emrys slapstick register: `24_comedic_register_slapstick.md`. Craft index: `28_present_day_trilogy_craft_index.md`.
 
@@ -275,7 +283,7 @@ Eli's answer must be operational rather than rhetorical:
 - ordinary medicine and civil institutions remaining necessary;
 - collective defense that does not require surrender to a permanent commander.
 
-Forest City foreshadows this answer. The final coalition must enact it under attack.
+Pelangi Reach foreshadows this answer. The final coalition must enact it under attack.
 
 ### Psion terminology
 
@@ -340,11 +348,11 @@ Use the **Volume** labels as dramatic movements and the reveal-order document's 
 
 | Volume | Plot movement | Internal movement | External movement | Ending change |
 |---|---|---|---|---|
-| **I — Shattering** | Hearth, breach, westward pursuit, sealed-interface race | Prey → active player | Forest City → Melaka → Gulf corridor → **Göbekli** | Eli sacrifices complete evidence for living people; Emrys is taken; the buried domestication system is proven |
+| **I — Shattering** | Hearth, breach, westward pursuit, sealed-interface race | Prey → active player | Pelangi Reach → Melaka → Gulf corridor → **Göbekli** | Eli sacrifices complete evidence for living people; Emrys is taken; the buried domestication system is proven |
 | **II — Descent** | European pursuit, mother truth, tether, release | Player → liberator who must relinquish | Anatolia → Europe → **Stonehenge / Men-an-Tol / Albion** | Eli releases Maren; the web begins a spreading awakening; liberation outruns social capacity |
-| **III — The Living World** | Community construction, federation conflict, counter-revolution, survival without permanent command | Liberator → participant / temporary coordinator → distributed member | **Forest City → Washington, D.C. → Hawaiʻi Island community + federation network** | A network of communities survives attack and internal dispute; a local model begins reform pressure on the Continental Union without becoming its new capital |
+| **III — The Living World** | Community construction, federation conflict, counter-revolution, survival without permanent command | Liberator → participant / temporary coordinator → distributed member | **Pelangi Reach → Washington, D.C. → Hawaiʻi Island refuge + federation network** | A network of communities survives war pressure and internal dispute; a local refuge remains itself and begins reform pressure on the Continental Union without becoming its new capital |
 
-**Book III opening — Forest City return (LOCKED):** a boat of newly awakened refugees reaches the harbor while pursuit, exposure, and supply pressure threaten the refuge. Forest City splits over closure, unconditional admission, and accountable intake. Priya carries procedural safety; Mei carries immediate human care; founders see a scalable model; Wren resists universalizing one community. Eli coordinates the emergency effectively, and that success—not failure—begins the pressure to make him the permanent center.
+**Book III opening — Pelangi Reach return (LOCKED):** a boat of newly awakened refugees reaches the harbor while pursuit, exposure, and supply pressure threaten the refuge. Pelangi Reach splits over closure, unconditional admission, and accountable intake. Priya carries procedural safety; Mei carries immediate human care; founders see a scalable model; Wren resists universalizing one community. Eli coordinates the emergency effectively, and that success—not failure—begins the pressure to make him the permanent center.
 
 ### Classic spine — costly belonging and accountable power (LOCKED 2026-07-13)
 
@@ -362,7 +370,7 @@ Book III then locks the following sequence:
 
 - **Crane's workable offer:** universal detection, mandatory training, interoperable records, central emergency command, and enforced containment would prevent some deaths. Admirable communities accept parts of it freely. The danger is that temporary risk categories become permanent identities and no person can meaningfully leave the system.
 - **Washington, D.C. civic movement:** after the fatal refugee incident, a federation delegation enters Continental Union jurisdiction to negotiate recognition, training standards, records, containment, and emergency coordination. The Lincoln Memorial gives the necessary-power argument a physical image—the seated founder, union preserved through war, emancipation joined to exceptional authority—without functioning as a wisdom vending machine. At the Martin Luther King, Jr. Memorial, families harmed by uncontrolled psions and carriers harmed by registration hold names in the same public space without collapsing into one moral story. Eli listens rather than resolves them. D.C. produces the bounded compact through argument, testimony, and procedure, not monument epiphany.
-- **American sequence — LOCKED:** **Hawaiʻi → San Francisco, the new Continental capital → the ruins of Washington, D.C. → San Francisco's fall under emergency centralization → distributed rescue and reconstruction → Hawaiʻi or another distributed coda location (final endpoint under separate review).** The west-to-east passage keeps the American movement expansive. Hawaiʻi establishes relation and obligation; San Francisco supplies living civic memory and concentrated power; ruined D.C. exposes the dead capital's broken promise; San Francisco's fall demonstrates the danger of restoring a single indispensable center. Eli does not return to reclaim the capital; he coordinates survival across the network and may visit San Francisco later only as an ordinary participant in reconstruction.
+- **American sequence — LOCKED:** **Hawaiʻi refuge → San Francisco, the new Continental capital → the ruins of Washington, D.C. → San Francisco's fall under emergency centralization → distributed rescue and reconstruction → Hawaiʻi refuge → Hopi visit by invitation → Colorado mountain coda.** The west-to-east passage keeps the American movement expansive. Hawaiʻi establishes relation and obligation without being changed by Eli; San Francisco supplies living civic memory and concentrated power; ruined D.C. exposes the dead capital's broken promise; San Francisco's fall demonstrates the danger of restoring a single indispensable center. Eli does not return to reclaim the capital; he coordinates survival across the network and later travels as an ordinary participant and learner.
 - **San Francisco civic movement:** the federation travels through a Pacific relief or federation corridor to Yerba Buena Gardens. The King memorial's water, etched passages, reflection, gardens, and public gathering echo the talking stones without becoming supernatural. The scene holds immigrant, Black, Indigenous, and displaced communities in one civic space without collapsing them into one story. Wren understands the scene more readily than Eli: public meaning is assembled, contested, and answerable to people, not delivered as a singular revelation.
 - **MLK memorial — critical moral bridge:** the memorial connects constitutional architecture to lived justice. Lincoln's image can represent extraordinary power used to preserve union; King's legacy tests whether that union expands dignity, participation, economic justice, nonviolence, and accountability to people previously excluded or controlled. The scene is not an inspirational quotation stop and does not certify the Union as righteous.
 - **Historical-sequence lock:** Book II teaches three distinct ruptures in three distinct registers: the **4.2 ka event** in Mesopotamia through climate and subsistence evidence; the **deluge traditions** through Eridu/Atrahasis/Gilgamesh and later biblical reshaping; and the **Late Bronze Age Collapse** through Anatolian and European material remains. They are not collapsed into one catastrophe. The synthesis is that climate pressure, story-making, and brittle centralized systems interact without producing one inevitable outcome.
@@ -370,9 +378,9 @@ Book III then locks the following sequence:
 - **Relocated capital:** the Continental Union offers recognition, medicine, supplies, and legal protection in exchange for registry access and federal oversight. Eli goes not as a chosen savior but because the Union is about to define Hawaiʻi, the talking stones, the refugee death, and Maren's legacy without the people affected by them.
 - **Wren's refusal:** Eli needs the threshold-house network and assumes shared love and purpose entitle him to its identities, routes, or command capacity. Wren refuses because people trusted her precisely on the promise that it would not become Eli's army. Her refusal materially damages his plan and the relationship, but the narrative honors it.
 - **The bounded crown:** Eli accepts temporary emergency coordination because permanent refusal can also abandon people. The authority is purpose-bound, visible, recorded, revocable by several independent communities, unable to requisition Wren's network without consent, and self-expiring.
-- **The coercive temptation:** during the final attack, Eli can override dissent and forcibly synchronize carriers. It would probably save more people. He refuses that extension of authority. The voluntary coalition survives incompletely: a named person or beloved threshold house is lost, and the book does not declare the choice painless or unquestionably correct.
+- **The coercive temptation:** during the distant Pacific war corridor, Eli can override dissent and forcibly synchronize carriers. It would probably save more people. He refuses that extension of authority and refuses to turn Hawaiʻi into a command base. The voluntary coalition survives incompletely: a named man from an exposed holding crew is killed, other men are permanently injured, and a beloved threshold house is lost. The book does not declare the choice painless or unquestionably correct, and it does not mistake constrained male volunteering for disposability.
 - **Victory through answerability:** after the crisis, Eli steps down and submits to an ordinary public inquiry into the refugee he sponsored, the harm caused under his authority, and the people his restraint did not save. He does not control the hearing. The federation may restrict his future authority, and he accepts its judgment. Crane is also contained through accountable process rather than Eli's personal mercy.
-- **Hawaiʻi Island mature home:** the final community is a locally invited, locally governed federation community on the Big Island of Hawaiʻi, not the network's capital or an empty paradise available to outsiders. A Native Hawaiian-led stewardship body and existing residents retain the land and governing authority; the newcomers receive conditional, renewable use rights tied to water, housing, ecological limits, maintenance, and review. The precise district, institution, and legal model require research before prose. Eli does not found, own, name, or spiritually validate the place.
+- **Hawaiʻi Island temporary refuge:** the refuge is a locally invited, locally governed federation community on the Big Island of Hawaiʻi, not a front, base, military prize, network capital, or empty paradise available to outsiders. A Native Hawaiian-led stewardship body and existing residents retain the land and governing authority; the newcomers receive conditional, renewable use rights tied to water, housing, ecological limits, maintenance, and review. The precise district, institution, and legal model require research before prose. Eli does not found, own, name, militarize, or spiritually validate the place.
 - **Talking stones and reciprocal oath — LOCKED direction:** local stones answer through a disputed mix of field behavior, geology, old technology, practice, and interpretation. In a dream, a presence Eli understands through the name and stories of Pele appears to require kneeling and an oath. Eli asks whether the oath protects the place or owns him; the final terms are reciprocal service, non-possession, community refusal, and no authority over unwilling persons. He kneels voluntarily as humility, not submission. The scene requires cultural research and local consultation before prose; Pele is not a generic volcanic oracle or Eli's endorsement machine.
 - **Communal armor — LOCKED direction:** after the oath, local makers, healers, boatworkers, refugee engineers, and threshold-house members fit Eli with practical, uncomfortable, repairable armor for heat, ash, pressure, field exposure, and attack. It is communal equipment made through many people's labor, not a divine superhero suit or permanent crown. Eli removes it before the public inquiry and can wear it again only by consent and need.
 
@@ -387,8 +395,8 @@ The artifacts are a distributed evidence chain, not a museum heist or fixed chec
 | Plot pressure | Candidate object/story | Required change |
 |---|---|---|
 | Give the practice a material image | **Three-Circles Tablet**: three concentric circles with a dot in the center | The group first mistakes the diagram for map, cosmology, or hierarchy; later it becomes a test for whether repair radiates through Body, Family, and Civilization from a conscious center |
-| Establish how to read the chain | **Double-Fork Stone**: bird/dragon and chimpanzee/human as paired sibling divergences | The lower fork admits partial independent testing; the upper fork changes from fantasy to dangerous hypothesis and points to a biological investigation |
-| Expose the vacant office | **Sumerian King List** | “Kingship descended from heaven” becomes a claim about transferable administration rather than sacred blood; rival factions seek the missing context |
+| Establish the late biological/cosmological turn | **Double-Fork Stone** (Book III, with the dragon ghost): Earth-produced bird/chimpanzee branches beside Heaven/panspermic dragon/human branches | Earlier books preserve only partial motifs; the full diagram makes the bridge-species design legible and reinterprets the chain without spoiling the dragon reveal |
+| Preserve the memory of lost duration | **Sumerian King List** | Impossible pre-Flood reigns contract after the Flood, rhyming with declining patriarchal lifespans; rival factions debate whether this encodes real longevity, dynastic myth, calendrical confusion, or grief |
 | Make wrong knowledge personal | **Adapa tablet with a lacuna** | A warning from a trusted helper becomes evidence that obedience can close the path to life; the missing passage becomes an argument over what Adapa almost knew and why he still refused life |
 | Make domestication morally double | **Enkidu/Shamhat domestication witness** | Wildness, food, sex, grooming, clothing, speech, and city life become an argument over whether civilization is rescue, corruption, education, seduction, or capture |
 | Recover the suppressed relation | **Arslan Tash Amulet 1** and its disputed covenant reading invoking ʿOlam, Asherah, El's sons, and the council | A custodian's story disrupts father-only theology; authenticity and translation disputes give Wren or another character interpretive agency outside Eli and Emrys |
@@ -398,7 +406,7 @@ The artifacts are a distributed evidence chain, not a museum heist or fixed chec
 | Turn cosmology into route | **Babylonian Map of the World**, later compared with live ley data | A mythic edge or missing region yields a testable next move only when the old map is treated as incomplete |
 | Carry the chain west | **Verified European sky-object** and **Cuno–Derw marked object** | Portable geometry and lossy story converge on Albion without giving anyone a complete manual |
 
-Likely distribution follows the thriller rather than chronology. The **Three-Circles Tablet** is the preferred first major artifact because it helps Eli survive the body/autopilot problem before the story asks the reader to carry deep taxonomy. The **Double-Fork Stone** should follow soon after as the first visual pressure toward biological branching, dragons, and the non-apex status of humanity. The **Sumerian King List** is better as a later institutional/political turn, not the opening image. The Persian Gulf/Anatolian investigation brings the densest textual cluster in Volume II; maps, transmitted copies, and Cuno–Derw material converge in Volume III. The order can change only when geography, pursuit, or character custody produces a better dramatic chain. Full treatment: `35_artifact_chain.md`.
+Likely distribution follows the thriller rather than chronology. The **Three-Circles Tablet** is the preferred first major artifact because it helps Eli survive the body/autopilot problem. Earlier books use only partial tree/guardian and living-person clues. The **Double-Fork Stone** is withheld until Book III, where the dragon ghost makes the biological/panspermic turn a true reveal rather than early taxonomy. The **Sumerian King List** is a later mortality-memory turn; the Persian Gulf/Anatolian investigation brings the densest textual cluster in Volume II; maps and Cuno–Derw material converge before the late dragon disclosure. Full treatment: `35_artifact_chain.md`.
 
 ### The Three Circles as a mixed civilizational braid — LOCKED
 
@@ -442,7 +450,7 @@ The table records likely accumulations in the existing plot, not a lesson schedu
 
 | Volume | Cumulative movement | Likely lessons—move as plot requires | Existing plot expression |
 |---|---|---|---|
-| **I — Shattering** | **Return to the body under overload.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to recover after breach and witness-site contact — **not** to solve "who am I?" Forest City demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
+| **I — Shattering** | **Return to the body under overload.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to recover after breach and witness-site contact — **not** to solve "who am I?" Pelangi Reach demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
 | **II — Descent** | **Move from self-regulation into relation, care, and limits.** Practices become recognizable across cultures without becoming interchangeable. | 1: be true, not right; 4: kindness when hard; 10: stillness and listening; 11: forgive without rehiring harm; 12: tend living things | The healer's consent and refusal establish that service is not conscription. Eli learns from breath, touch, sound, plant intelligence, and the Seven without claiming mastery or cultural ownership. Conflicting witnesses force truth-seeking over doctrinal certainty. |
 | **III — Choice** | **Use authority without becoming its owner.** The Way becomes political and generational. | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | After freedom causes real harm, Eli accepts bounded emergency command, refuses forced synchronization, steps down when the condition ends, and submits to public review. The final coalition becomes a durable mixed community with reciprocal accountability and no permanent command. |
 
@@ -462,15 +470,16 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Dramatic question:** Can Eli remain himself long enough to decide whom to trust?
 
-**Immediate objective:** protect the Forest City life he has made, verify the Melaka clue, and survive the attention created by the breach.
+**Immediate objective:** protect the Pelangi Reach life he has made, verify the Melaka clue, and survive the attention created by the breach.
 
 #### Act I — Hearth and breach
 
 - Vol I opens **Preamble → Eli**; **Maren suppression scene** lands in **Vol II** when Eli learns how she was taken (not a Book I prologue).
-- Open in Forest City ordinary life, not childhood exposition or cosmology: work shift, money/status pressure, training morning, sailboats, food, privacy norms, and the fragile refuge Eli chose. A staged attack then plants evidence against **Forest Foundry (the Foundry)** and anomalous residents; authorities seal and fragment the refuge, forcing a small survivor group through Mandate-linked Singapore and north by sea to Melaka.
+- Open in Pelangi Reach ordinary life, not childhood exposition or cosmology: work shift, money/status pressure, training morning, sailboats, food, privacy norms, and the fragile refuge Eli chose. A staged attack then plants evidence against **Forest Foundry (the Foundry)** and anomalous residents; authorities seal and fragment the refuge, forcing a small survivor group through Mandate-linked Meridian City and north by sea to Melaka.
+- **Opening compression — LOCKED:** Chapter 1 holds the hearth and its destruction. Chapter 2 is one continuous escalation—southern escape, brief Meridian City processing/ring photograph, Straits crossing, Hassan/Wren collision, Custodian pursuit, asphyxia—and ends with the receiver opening. Chapter 3 holds rescue, overload, Wren/Emrys convergence, and the first consequential post-breach choice. Do not expand Meridian City, the Straits, the witness contact, or the chase back into separate setup chapters.
 - The man's morning martial-arts practice and the sailboats are present-tense hearth details, not only memory.
-- Political violence at Forest City forces Eli out before he has a chosen quest. In Singapore, he accidentally sees Maren's silver-and-brass wedding ring in an ordinary photograph, recognizes the “same soil” seam, and follows the contact trail north by sea to Melaka. The physical ring remains with Hassan; the photograph gives the displaced Eli a reason to continue. The mother's tune may remain as atmosphere or keeper-network texture, but it is not the inciting lure.
-- Eli leaves Forest City because the attack makes staying dangerous; he chooses Melaka only after the Singapore photograph restores a personal direction.
+- Political violence at Pelangi Reach forces Eli out before he has a chosen quest. In Meridian City, an archive worker recognizes his resemblance to Maren and routes a dissident's suppressed Cherry Cube evidence— including a Maren extraction-era frame with the silver-and-brass wedding ring—through the harbor network. A scheduled Meridian Circuit street race seals the central avenues and supplies the service-corridor escape when the system begins searching. Eli recognizes the “same soil” seam and follows the contact trail north by sea to Melaka. The physical ring remains with Hassan; the photograph gives the displaced Eli a reason to continue. The mother's tune may remain as atmosphere or keeper-network texture, but it is not the inciting lure.
+- Eli leaves Pelangi Reach because the attack makes staying dangerous; he chooses Melaka only after the Meridian City photograph restores a personal direction.
 - Melaka becomes the first rupture corridor: the clue, the pursuit, and the breach converge there.
 - Rival psion teams collide around a carrier, route, or record.
 - A concrete near-death event opens Eli's already damaged receiver filter (`36` §3a).
@@ -478,13 +487,13 @@ This is also the publishing boundary. The novel gives readers **experience and p
 - Eli's first error is bodily: he treats sleep, food, pain, panic, and neurological limits as obstacles to the mission and tries to earn protection by remaining useful.
 - Wren and Emrys converge for different reasons; neither has the map.
 
-**Act turn:** Eli cannot safely return to Forest City without exposing it. He chooses to test the next clue.
+**Act turn:** Eli cannot safely return to Pelangi Reach without exposing it. He chooses to test the next clue.
 
 #### Act II — The unstable sea
 
-- The blocked northward land corridor forces Eli through Singapore, a Mandate-controlled or Mandate-dependent high-surveillance enclave; its archive supplies paired anomaly data. Singapore's atomized order is the early counterpoint to Melaka's plural social ecology.
-- A recurring **Bengali diaspora mutual-aid web** helps Eli periodically across Singapore, Melaka, the Free Ports, and later maritime corridors. It is decentralized and partial: workers, families, students, cooks, mechanics, nurses, dockhands, and women's social circles know overlapping contacts rather than one command. Assistance can mean a meal, translation, a room, a repair, a warning, or a document—and carries real risks of lost wages, surveillance, immigration exposure, confiscation, or refusal. The web is not a secret army or bloodline privilege; it is ordinary people recognizing one another when official systems insist they are strangers.
-- A maritime leg combines piracy, inspection, incompatible documents, and psionic interference. Eli's Forest City sailing lessons let him stand a watch, follow sail-handling orders, and recognize a dangerous choice, but an experienced sailor remains indispensable.
+- The blocked northward land corridor forces Eli through Meridian City, a Mandate-controlled or Mandate-dependent high-surveillance enclave; its archive supplies paired anomaly data. Meridian City's atomized order is the early counterpoint to Melaka's plural social ecology.
+- A recurring **Wide Net** helps Eli periodically across Meridian City, Melaka, the Free Ports, and later maritime corridors. The Bengali–Melakan web is one branch of this much wider, women-led transnational order: decentralized houses, visiting circles, kitchens, clinics, schools, farms, ports, and repair crews know overlapping contacts rather than one command. Assistance can mean a meal, translation, a room, a repair, a warning, a document, a memory, an evacuation route, or a low-cost remedy—and carries real risks of lost wages, surveillance, immigration exposure, confiscation, or refusal. Its secrecy is partly protective: women-loving relationships, queer households, undocumented families, and unprofitable practical knowledge cannot always survive public disclosure. The order has locally adapted rituals and initiation tests for attention, memory, hospitality, discretion, truth-telling, repair, and refusal. It carries herb knowledge, vinegar-water sanitation, and other household practices while testing rather than worshipping inherited claims. It is formidable but not omniscient; women hold the long memory and initiation authority, while allies of many genders and cultures participate. It is not a secret army, bloodline privilege, or shadow government.
+- A maritime leg combines piracy, inspection, incompatible documents, and psionic interference. Eli's Pelangi Reach sailing lessons let him stand a watch, follow sail-handling orders, and recognize a dangerous choice, but an experienced sailor remains indispensable.
 - The protagonists follow at least one wrong or planted clue.
 - Bali or another carefully chosen agricultural return makes abnormal growth visible through living local expertise.
 - Eli begins distinguishing trauma, TBI symptoms, rattle-contact, surges, and carrier memory.
@@ -532,7 +541,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Midpoint revelation:** Eli's mother's body is dead, but something of her is tethered somewhere in the western web of charged grounds. There is no usable address. **Maren suppression scene** (how she was taken — Ring machinery, SE Asia keeper/extraction context) lands here or immediately before; see `99`.
 
-#### Act III — Göbekli and loss — **MOVED TO VOLUME I CLIMAX** (`31` Ch 17; `99` #7)
+#### Act III — Göbekli and loss — **MOVED TO VOLUME I CLIMAX** (`31` Ch 13; `99` #7)
 
 *Quarry text below retained for scene salvage only. Do not stage as Vol II.*
 
@@ -597,9 +606,14 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 Refusal alone is not victory. **Volume III is won when coexistence survives both a real failure of freedom and the crisis that creates the coalition.** A temporary battlefield alliance proves only common danger; the ending must show ordinary and magical/evolved beings continuing to share a social world once immediate necessity no longer forces them together.
 
+**New-war lock (2026-07-18; peace horizon revised 2026-07-21):** the San Francisco registry seizure and coordinated Eastern Mandate Pacific strikes begin the **Awakening War**, a distinct post-WWIII conflict over control of awakened people and the living network. Hawaiʻi is outside the war as a temporary refuge; its people receive the conflict's displaced consequences and teach Eli how refuge, consent, ecology, and non-ownership work. The war continues elsewhere through the acute climax. After Eli's hearing, the joint field-sail proof supports a limited Union–Mandate ceasefire and durable peace process; it suspends principal research, shipping, and orbital-corridor hostilities without magically resolving proxy violence, disputed fronts, grief, or responsibility (`51_field_sail_and_mandate_peace.md`).
+
+**War-horror lock (2026-07-18):** the crisis cannot function only as a governance stress test. Book III exposes the administrative and cultural machinery of **male expendability**: working-age men presumed combatants, volunteers produced by shame and duty, bodies converted into readiness and acceptable-loss arithmetic, and survivors abandoned once they cease to be tactically useful. This is not a claim that war harms only men. It is a demand that the specific social permission to spend men be dramatized and refused. Every tactical abstraction that changes the story must return to a name, body, relationship, disability or death, and continuing obligation.
+
 Required proof:
 
 - at least one ordinary aftermath scene—food, shelter, a clinic, repair, childcare, mourning, work, or rebuilding—in which anomalous capacity is present without becoming spectacle;
+- at least one recurring ordinary man seen before combat, one materially constrained “volunteer,” one permanently disabled survivor, and one household-level absence after the battle; no anonymous male wave may exist merely to make the climax feel large;
 - voluntary, reciprocal limits that bind conduct on both sides without compulsory identity registration;
 - ordinary people protecting an anomalous neighbor without worshipping them, and an anomalous person accepting accountability without surrendering ownership of their nature;
 - technology repurposed from detection and classification toward translation, treatment, consent, documentation, and distributed protection;
@@ -612,7 +626,7 @@ This is the "it has always been like this" landing. The trilogy should not end b
 
 In Eden language, the ending is the union of the **Tree of Knowledge** and the **Tree of Life**. Knowledge without life becomes classification, prediction, registry, and control. Life without knowledge remains vulnerable to omen, priestcraft, panic, and charismatic manipulation. The mature form is both: living connection disciplined by testable understanding, and scientific accountability held inside reciprocal life. **Discovery spine:** both Trees are **found throughout** the trilogy; reunification is the **result**, not a last-minute reveal — see `22_life_technology_and_two_trees_spine.md`.
 
-The final movement comes full circle, but not as a reset or geographic retreat. It carries the ordinary life Forest City established—food, work, sailing, jokes, affection, repairs, fatigue, privacy, and mutual dependence—into a larger, locally governed Hawaiʻi Island community. Forest City remains the emotional origin and one living federation community; Hawaiʻi proves that the answer can expand without becoming a new center. Ordinary life is no longer taken for granted, and it is no longer treated as lesser than transcendence. It has been consciously chosen after the characters understand what domination, worship, immortality, ownership, and fear would have cost.
+The final movement comes full circle, but not as a reset or geographic retreat. It carries the ordinary life Pelangi Reach established—food, work, sailing, jokes, affection, repairs, fatigue, privacy, and mutual dependence—into a larger, locally governed Hawaiʻi Island community. Pelangi Reach remains the emotional origin and one living federation community; Hawaiʻi proves that the answer can expand without becoming a new center. Ordinary life is no longer taken for granted, and it is no longer treated as lesser than transcendence. It has been consciously chosen after the characters understand what domination, worship, immortality, ownership, and fear would have cost.
 
 ### Reform pressure on the Continental Union — LOCKED
 
@@ -622,7 +636,7 @@ The federation does not reform the Continental Union because Eli persuades Washi
 
 The public inquiry ends the immediate claim that exceptional power places Eli above ordinary judgment. The coda shows what freedom is for. Allow enough time to pass that cooperation is no longer forced by battle, then return to food, sailing, jokes, affection, useful work, repair, play, and rest. Magic remains present but no longer controls the meaning of the scene.
 
-**Final geography and image — LOCKED 2026-07-13:** the coda takes place at the Hawaiʻi Island community. Seeds or permitted cuttings from Arif's Forest City garden arrive through the network before Eli does. Local growers decide what can responsibly enter the island ecology; some plants are refused, some fail, and others survive only through grafting and methods Eli did not inherit from his father. The garden is already growing when he arrives. Eli first experiences this continuity as replacement, then accepts that what he loves can continue without belonging exclusively to him. He is wanted there but not indispensable.
+**Final geography and image — LOCKED DIRECTION 2026-07-19:** Hawaiʻi remains the place of refuge and first civic learning. Eli then travels by invitation through Hopi lands before reaching a negotiated Colorado mountain settlement. The Hopi visit must be living, specific, and consent-bound—governance, water, dryland practice, continuity, large-scale organization without permanent centralization, and refusal of outside appropriation—not a mystical lesson or a claim to represent all Indigenous peoples. Seeds or permitted cuttings from Arif's Pelangi Reach garden arrive through the network before Eli does. Colorado growers decide what can responsibly enter the mountain ecology; some plants are refused, some fail, and others survive only through grafting and methods Eli did not inherit from his father. Eli first experiences this continuity as replacement, then accepts that what he loves can continue without belonging exclusively to him. He is wanted there but not indispensable.
 
 The exact final line remains open, but the movement is locked:
 
@@ -641,6 +655,8 @@ Do not close on a throne, prophecy, cosmic voice, explanatory speech, or promise
 
 **Hawaiʻi guardrail:** do not use the island as virgin land, exotic spiritual confirmation, generic volcanic symbolism, or a hidden charged ground that makes the local community cosmologically useful. The mature-home proof is political and ordinary: invitation, land limits, water, work, consent, stewardship, disagreement, and revocable belonging.
 
+**Island geography lock (2026-07-19):** Islands recur because they are materially valuable in a world shaped by the engineered outbreak and its aftermath. Water boundaries slow transmission, make arrivals visible, allow quarantine and health observation, preserve local food and repair systems, and create defensible intervals in which communities can decide rather than react. They are not automatically safe: ports are choke points, supply chains are fragile, outbreaks can arrive by boat, and isolation can become coercive closure. Pelangi Reach, Melaka, the Free Ports, and Hawaiʻi therefore function as **insulated but connected** places—clean-room possibilities linked by maritime routes—not mystical islands or untouched Edens.
+
 ## 8. Revelation schedule
 
 Each revelation must change a decision. Do not deliver two major cosmological answers in one chapter.
@@ -653,10 +669,10 @@ This schedule is a decision ledger, not a curriculum. The reader-facing reveal o
 | 2 | Organized psion teams exist and attack one another | Volume I Act I | He cannot treat Crane as the only threat |
 | 3 | Plant growth is tracing something real | Volume I Act II | The group risks an agricultural investigation |
 | 4 | Lines break and leave opposed ends | Volume I late | Old maps become suspect |
-| 5 | Crop formations are new lines, not imposed messages | Volume I Act III (Mekong Ch 11–14) | Protecting the living field matters more than possessing a symbol |
+| 5 | Crop formations are new lines, not imposed messages | Volume I Act III (Mekong Ch 5–10) | Protecting the living field matters more than possessing a symbol |
 | 6 | First practitioner met **as other** at a **charged ground** | Volume I midpoint | Witness + grief; apprenticeship without ownership |
-| 7 | Eli can hold a charge without letting autopilot complete the rule | Volume I Ch 14 (Mekong) | Personal Manual Override — threshold, not volume end |
-| 7b | Sealed interface + Nephilot reveal; Emrys taken | **Volume I climax (Göbekli Ch 17)** | Eli chooses people over complete record; romance rupture; Vol II opens in loss |
+| 7 | Eli recognizes a charge but cannot yet stop the autopilot | Volume I Ch 10 (Mekong) | Incomplete override; Wren makes the humane choice |
+| 7b | Sealed interface + Nephilot reveal; Emrys taken | **Volume I climax (Göbekli Ch 13)** | Eli completes personal Manual Override, chooses people over complete record; romance rupture; Vol II opens in loss |
 | 8 | Stones route rather than generate energy | Volume II | Buried and intact sites acquire different tactical meanings |
 | 9 | A witnessed healing exceeds ordinary expectation; the healer asks for secrecy | Volume II | Protecting his identity and finite capacity becomes a route constraint, not a humility performance |
 | 10 | Historical factions weaponized the same human vulnerabilities | Volume II | Eli stops seeking a morally pure ancestral authority |
@@ -668,9 +684,10 @@ This schedule is a decision ledger, not a curriculum. The reader-facing reveal o
 | 16 | The beings humans called Anunnaki were themselves dragon-serving drone-workers, and humans were made/adapted as sub-drones | Volume III | The group understands the robot/workforce analogy as species history, not metaphor |
 | 17 | The original Anunnaki persist as Anu + 26 on the spirit plane, influencing without direct bodily rule | Volume III | The group refuses to convert higher-plane influence into renewed worship or ownership |
 | 18 | The healer's rejection of divine sonship is already being converted into a divine title | Volume III | The group understands that testimony can rebuild religion against the subject's will; coexistence must include resisting deification |
-| 19 | The relit grid uses tethered souls | Volume III | Activating the machine becomes morally intolerable |
-| 20 | His mother's hope of reunion is her tether | Volume III | Eli must give up the thing he wanted from page one |
-| 21 | He could control the amplifier | Volume III climax | Refusal becomes meaningful rather than symbolic |
+| 19 | The relit grid uses tethered souls | Volume II | Activating the machine becomes morally intolerable |
+| 20 | His mother's hope of reunion is her tether | Volume II | Eli must give up the thing he wanted from page one |
+| 21 | He could seize the amplifier instead of releasing her | **Volume II climax** | Refusal (release, not seizure) becomes meaningful rather than symbolic |
+| 21b | He could forcibly synchronize nonconsenting carriers and probably save more people | **Volume III climax** | Refusing coercion costs lives but preserves consent; the amplifier is already gone — the temptation now lives inside living people |
 | 22 | Dangerous conduct can be constrained without owning the being who carries the capacity | Volume III climax/resolution | The coalition chooses reciprocal accountability over registration, conscription, worship, or extermination |
 
 Terms such as Apkallu, Nephilim, Nephilot, Lullu, Qingu, and Umannu should enter only where the narrative must distinguish particular historical actors. Role first; proper noun second.
@@ -684,7 +701,7 @@ Relentless danger becomes monotonous. After every major pursuit, descent, or psi
 - a cultural practice unrelated to the cosmology;
 - an argument about the cost of the last choice;
 - a small act of care that cannot be mistaken for utility;
-- a reminder of Bangladesh, Forest City, or another actual home;
+- a reminder of Bangladesh, Pelangi Reach, or another actual home;
 - local people continuing lives that do not orbit Eli;
 - a clue being interpreted collectively rather than by revelation.
 
@@ -753,7 +770,7 @@ Wren's past relationships introduce the pattern personally. **Rowan** is Bengali
 ## 12. What must be decided before drafting Volume I
 
 1. **The Melaka event:** the concrete physical crisis that produces the near-death breach without another head injury.
-2. **The first clue:** the person, object, or record that justifies Eli leaving Forest City.
+2. **The first clue:** the person, object, or record that justifies Eli leaving Pelangi Reach.
 3. **Wren's independent objective:** what she would pursue if Eli disappeared.
 4. **The recurring rival team:** affiliation, members, internal bonds, and operational limits.
 5. **The first volume's climax location:** South Asia is structurally strongest, but the precise community and agricultural setting require research.
@@ -765,8 +782,8 @@ Wren's past relationships introduce the pattern personally. **Rowan** is Bengali
 
 1. Lock the eight decisions above.
 2. Create a twelve-to-fifteen-chapter beat sheet for Volume I using the chapter card.
-3. Write the Forest City opening through the first irreversible Melaka escape decision.
-4. Write one quiet Forest City memory and one present aftermath scene to establish the hearth.
+3. Write the Pelangi Reach opening through the first irreversible Melaka escape decision.
+4. Write one quiet Pelangi Reach memory and one present aftermath scene to establish the hearth.
 5. Draft one attachment-first scene for each primary present-day character using `16_reader_attachment.md`: ordinary want, private wound, repeated behavior, and one relationship-changing action.
 6. Draft the first rival-team encounter from the victim's embodied perspective.
 7. Draft the Volume I climax before expanding the cosmology further.
