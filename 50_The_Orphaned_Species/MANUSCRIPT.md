@@ -5,7 +5,7 @@
 > **Opening alignment — LOCKED 2026-07-15; reconciled 2026-07-22:** Chapter 1 earns and destroys the Pelangi Reach hearth. Canonical Chapter 2 is one sustained flight—southern escape, **Meridian City transit** (processing, ring photograph, Cherry Cube, Circuit escape — `31` Movements 2–3), Straits crossing, Melaka witness collision, and asphyxia—and ends with the breach. Chapter 3 is the aftermath.
 >
 > **Assembly state (2026-07-22 audit):**
-> - **Ch 1 (below):** governing draft. Still owed: the **staged Foundry attack** ending (`31` inciting catastrophe LOCK — attack during the band set, planted evidence, city sealed). Currently the hearth survives Ch 1; the lock says it burns.
+> - **Ch 1 (below):** governing draft, **complete through the staged-attack ending** (drafted 2026-07-22): attack during the late band set, staged tells through Eli's facilities knowledge (chained standpipe, pre-written bulletin, carried-in crate), comms cut, city sealed, cohort lists at dawn — hearth burned inside Ch 1 per the inciting-catastrophe lock.
 > - **Ch 2:** governing draft lives in `DRAFT_Chapter_Two.md` (ends at the breach; DC-1 Meridian transit expansion is the next drafting task; DC-4 ring resolved — Hassan carries it into custody, H3). Merge here when the Meridian sequence is drafted.
 > - **Ch 3 (What Didn't Die) and Ch 4 (Her People):** undrafted.
 > - **Superseded Ch 2–4 prose:** moved to `MANUSCRIPT_restructure_quarry.md` (deprecated-elements list in its header; Khun Dang / Hotel California material reserved for the Thailand hinge).
@@ -148,6 +148,48 @@ He looks at Eli plainly. "You're carrying something. Or something's carrying you
 Eli thinks of the song under his ribs, of Melaka, of the man who had asked after his mother by a tune. "Does he know people in Melaka?"
 
 The old one's eyes sharpen, then soften. "Everyone who matters in this strait knows the old man. You tell the right door you came from him, and the right door opens. You tell the wrong door, and we'll be having this tea with one fewer chair." He pushes the cup closer. "Drink. Names are for doors that know how to listen. You'll know when you need this one."
+
+---
+
+The tea is still warm in him when the light changes.
+
+He is halfway back along the unfinished promenade, keeping to the seaward side where the concrete is poured and the rebar isn't waiting for a shin. Across the basin the terrace is still lit — the founders keep the band late on Fridays, a dinner set for whoever is left pitching — and the music carries over the water the way sound does at night, arriving softened, almost kind. The guitar finds the four notes again. Eli stops walking to listen, because stopping is the only way he has left to hear her.
+
+The water in front of him turns orange.
+
+The color arrives before the sound. The sound, when it crosses the basin, is flat and small, like a door slammed in a building with no rooms, and he feels it in his sternum more than his ears. The song keeps going for two more bars, the way bands do when they haven't understood yet. Then it stops all at once, mid-phrase, and the night is full of the fire's own noise.
+
+The Foundry block. The lab wing.
+
+He runs toward it. It will occur to him later that everyone he passed was running the other way.
+
+He knows the wing. He pulled cable through its ceiling in March — benches, foam board, whiteboards, a coffee machine with a sign begging people to descale it. There is nothing in that room that burns like this. The flame standing out of the roof vents is orange-black and greasy, the smoke rolling down instead of up, fed by something that was carried in.
+
+At the muster point Priya has the access list out and is calling names in ticket order, because that is the order the list is in. Mei is already there with the water jug from the terrace, handing out cups as if hydration were a thing she could do to a fire. Two founders are filming. Of course they are filming.
+
+Eli goes for the standpipe out of habit — his habit, his valve, pressure-tested it himself last month — and finds it closed. Chained closed. The chain is new, and it is not the Foundry's chain; he logs the Foundry's chains.
+
+He is still holding the chain when every phone in the plaza loses its bars at once. The Slack pings stack, and stop. The tower signal he tested yesterday answers with nothing at all.
+
+Two men in coveralls carry a crate toward the burning wing while everything else in the world is being carried away from it. Nobody stops them. They have the walk of men who are allowed. Eli takes one step and Mei's hand closes on his arm — she has seen them too, and she looks at him looking, and shakes her head once: *not now, not here, not out loud.*
+
+Patrol launches converge on the marina with their floodlights making white roads on the black water. A drone comes low over the plaza and says, in three languages, in a voice that has been recorded calm, that there has been an incident, that there is a biosecurity emergency, that residents will shelter in place, that the causeway is closed. *Incident.* The word slides off the fire like water off the tarp.
+
+Someone near the muster point has one bar of a network that shouldn't reach here, and reads aloud from a bulletin that already exists: unlicensed biological work at the Forest Foundry facility. Materials of concern. Anomalous residents.
+
+The roof of the lab wing has not finished falling in. The sentence was written before the fire was lit.
+
+Eli looks for the drummer in the crowd. The band is gone — instruments, cables, the drum box, all of it, gone in the time it takes a terrace to empty. He will never know if the man knew. He will braid the four notes and the fire together for the rest of his life, and he will be wrong to, and it will not matter: some songs are just the last thing playing when the world changes key.
+
+On its plaza route, at the edge of the new cordon tape, the robot dog has stopped. The tape crosses its path. It stands with its head making small adjustments, cameras ticking from the fire to the tape and back, patiently failing to solve a route that no longer exists.
+
+At first light he goes up to nine because his hands need the dirt more than his head needs the news. The hour that belongs to no one has drones in it now, two of them, working slow lines over the marina. Ash has come down on the garden in the night, fine and grey as sifted flour. He pinches a seedling at the base and rolls the stem, and under the ash it is still pale, still stopping, still his father's craft refusing him in the old ordinary way, and he is grateful to it — one thing in Pelangi Reach that has not changed since yesterday.
+
+Below, at the marina gate, men are hanging a white banner. On the notice boards, lists are going up: assembly points, screening schedules, cohorts. He is too far up to read the names. He does not need to read the names.
+
+The word on the notices is *incident*. The word under the word is *anomalous*.
+
+He stays with the seedlings until the drones make their turn. Then he goes down to work, because the person who carries the sack nobody else will carry is the only paper he has left.
 
 ---
 

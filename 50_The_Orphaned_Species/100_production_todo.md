@@ -4,7 +4,7 @@
 
 ## Drafting frontier (2026-07-22, in order)
 
-1. [ ] **Ch 1 ending:** draft the staged Foundry attack (attack during the band set, planted evidence, city sealed — `31` inciting catastrophe LOCK). The hearth must burn inside Ch 1.
+1. [x] **Ch 1 ending:** staged Foundry attack drafted (2026-07-22) — attack during the late band set; hearth burns inside Ch 1.
 2. [ ] **Ch 2 Meridian transit expansion** (`DRAFT_Chapter_Two.md` ⟦DC-1⟧, ~2–3k words): processing → ring photograph → worker maze → Cherry Cube → Circuit escape → northbound vessel. Then merge Ch 2 into `MANUSCRIPT.md`.
 3. [ ] **Ch 3 — What Didn't Die:** Salmah named + her cost; Wren fold-in; Emrys measures the breach; grounding; the disappear-or-follow decision.
 4. [ ] **Ch 4 — Her People:** Wren's Laleh opening (hard break) + maritime departure.
