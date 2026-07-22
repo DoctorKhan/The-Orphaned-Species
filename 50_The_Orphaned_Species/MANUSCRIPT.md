@@ -750,3 +750,195 @@ He counts the heat until it stops burning. Then he drinks.
 1. **Hypoxia and sensory flooding.** Transient global hypoxia can acutely alter thalamocortical gating (the brain's sensory filtering); reports of flooding and heightened salience near death exist but are contested. Eli's opened receiver is **in-fiction amplification**, not a claim about anoxic injury outcomes.
 2. **Grounding.** Temperature-focus, breath-counting, and single-object attention are standard somatic de-escalation techniques in trauma care. Keeper practice **extends real technique**; it does not replace medicine.
 
+---
+
+## Chapter Four — Her People
+
+The depot town smells of bus brakes and rambutan going soft, and Wren has been inside it for six hours and knows its exits better than its name.
+
+Three exits that matter: the river ferry, the northbound coach bay, the cannery trucks that leave before light. One she can use. The manifest in her bag says a cannery in Kuantan has hired one Laleh binti Yusof, eighteen, general labor, seasonal. The manifest is very good. Asha's forger owed the network a daughter's crossing, and gratitude makes clean lines.
+
+The girl herself sits across the tea shop table, hands around a glass she hasn't drunk from, and she is not looking at the manifest. She is looking at Wren the way you look at weather you don't trust.
+
+"The route loops through Temerloh," Laleh says. "You said. Tuesday you said the route loops through Temerloh."
+
+"I said the old route did."
+
+"My sister is in Temerloh."
+
+"I know."
+
+"She's twelve. My aunt can't— when it comes on her, my aunt will call the clinic. My aunt thinks the clinic is help." Laleh's hands tighten on the glass. "I'm not going without her. I'll wait for the loop. I'm not going without Amal."
+
+Here is the thing Wren knows and the girl does not: there is no loop anymore. Temerloh grew a checkpoint on Thursday, the kind with a gantry, and the old route died there, and a route that waits is a route that gets watched. Every day this girl stays is a day the manifest ages, the forger's risk compounds, the tea shop woman remembers a face.
+
+And here is the thing Wren hears, because she has trained herself to hear it: panic. A carrier three days from her window, gripping the one plan she understands. You don't argue with panic. You handle it. You keep the voice level and the information partial, and you move the body to safety and let the feelings arrive there later, alive to have them.
+
+That is what she tells herself she hears.
+
+"All right," Wren says. "The loop."
+
+The lie takes four words and costs nothing to say. She signals for the bill.
+
+---
+
+The extraction runs like extraction: which is to say, like nothing, until it doesn't.
+
+At nine the karaoke bar two streets over develops a fault in its speaker stack — a paid fault — and begins leaking a certain interval into the night, a fifth that doesn't resolve, the kind of sound that makes a listening team's sensitive turn her head and keep turning it. Wren walks Laleh through the wet market as the watchers' van rotates its attention. At the fish end, a woman in a scarf the color of Laleh's takes the river ferry, visibly, unhurried — a decoy with a day's wage in her pocket and instructions to be seen and then to be gone.
+
+At the coach bay, bag stowed, engine running, Wren hands Laleh the manifest and the ticket, and the girl reads them, because of course she reads them — Wren chose her partly because she reads.
+
+The ticket says Kuantan. Direct. No loop.
+
+Laleh looks up, and her face does something Wren will keep.
+
+"You said—"
+
+"Get on the bus, Laleh."
+
+"You *said.*" Not loud. That's the terrible part; she doesn't get loud. She gets clear. "You people are the ones who ask first. That's what they told me about you. The other ones take you where they want. You people *ask.*"
+
+"The loop is gone. There's a gantry at Temerloh since Thursday. Your sister's window is not tonight — we'll build her one, I will put her on the list myself—"
+
+Laleh is already off the platform.
+
+She doesn't scream, doesn't run blind. She walks fast, the way Wren taught her in three days of doorways — *walk like you're late, not hunted* — down the coach bay and toward the river, toward the ferry, toward Temerloh the long way, and every step is exactly right and all of it is wrong, because the night has watchers in it and the decoy has stirred them and a girl moving alone at pace after the interval-sound is a shape their whole apparatus exists to notice.
+
+Wren does not follow.
+
+That is the rule, and the rule is right: one burned handler is twelve dead routes. She stands in the shadow of the coach and watches the white van take the corner without hurry — they never hurry; hurry is a confession — and she counts, because counting is what she has instead of prayer. Forty seconds to the ferry lane. She hears no shout. There is never a shout. The professionals sound like a door closing in a building with no rooms.
+
+In the morning she will learn the rest through the network's usual capillaries: the aunt's house in Temerloh visited at six, the clinic notified, both files opened — *L. binti Yusof, A. binti Yusof* — sisters reunited in the one way Wren had planned everything to prevent.
+
+---
+
+The ledger is a shared sheet, coded as a fish-count, audited monthly, because Asha runs a clean shop and clean shops survive.
+
+A failed route gets reviewed. A reviewed route gets rested. A rested route, in a season like this, strands the eleven names already queued behind it — a mother in a cold-storage room, two dockhands, a boy whose episodes have started showing in his school attendance. Wren has run the arithmetic four times, and the arithmetic is not wrong, and she notices, distantly, the way you notice weather on someone else's coast, that she has started doing arithmetic at exactly the moments other people do grief.
+
+She enters the transfer as completed.
+
+Asha's ping comes at once, the quartermaster's single word, the word that is their whole constitution: *Clean?*
+
+Wren looks at the entry for a while. Eighteen, general labor, seasonal.
+
+*Completed,* she types.
+
+The route survives. The sheet balances. In the intake column, in the space marked *reason for travel*, Laleh's line says what half the ledger says, the word that never narrows anything down and always explains everything.
+
+*Family.*
+
+Wren files it, and the file closes, and something in her does not, and she puts that too where she puts things.
+
+---
+---
+
+Eli learns to read Wren's returns before he learns anything else about her.
+
+She comes back to the platform at gray dawn salt-stiff and ordinary, hands the boatman a parcel of shore food, checks the two mooring knots she herself tied before leaving, checks them again, and then goes to stand alone at the rail for exactly as long as it takes to drink one cup of anything, facing the water like a woman reading a bill. Then she turns around and is operational, and the day begins.
+
+He doesn't ask. In three days on the platform he has learned the local law: information is freight. You don't take on cargo you can't carry safely.
+
+"Boat's tonight," she says. "You'll want to not be luggage. Help Pak Din load."
+
+---
+
+Pak Din's boat is called *Sri Kenanga* and is the cleanest working thing Eli has seen since the marina at home: a coastal carrier with patched sails and an engine kept like a shrine, crewed by the owner and a nephew who never stops eating. Pak Din is sixty and made of knots, keeps an unlit clove cigarette in the corner of his mouth the way other men keep opinions, and looks at Eli for a long moment when he comes aboard — not at his face. At his hands.
+
+"One of the loud ones," he says, mildly, the way you'd note a cargo needs keeping dry. "My sister kept loud ones, threshold years. Rhythm and warm and don't crowd them." He shifts the cold cigarette. "You crowd easy?"
+
+"I don't know what I do yet," Eli says.
+
+"Honest freight." Pak Din nods at the hold. "Rice forward, you aft. Loud ones aft — engine's a rhythm."
+
+Emrys does not come. Emrys stands on the platform in his impossible vest, having distributed his equipment between two fish coolers and the boatman's nephew's cousin's freight run, and delivers his goodbye as a list: "Coolers don't swim, so I go the freight way and find you up the coast — you're not subtle, finding you is the easy part. Homework. Breath *before*, every time, before matters. And if you dream the counting again — doors, stairs, anything counted — you note the number and you tell me. Numbers, boy. We are keeping ourselves honest."
+
+He grips Eli's shoulder once, awkward as a man operating unfamiliar machinery, and is gone among the nets.
+
+Before they cast off, Wren does a thing that Eli files as strange and the reader of her morning would file as something else.
+
+She lays the route out for him. All of it. Not the operational minimum — the whole spine: this coast tonight, the kampung with the blue mosque tomorrow, the handoff at the light where a woman called Ros runs the drying racks, the crossing after, the delta, the names of the people at each stop and what they risk by standing there.
+
+"If it changes," she says, "you get told first. Before we move. Every time."
+
+"Why are you—"
+
+"Because that's the shop I run." She says it like a fact being installed. "Do you agree to the route?"
+
+Pak Din, coiling line, raises an eyebrow at his nephew. "Since when does the ferrywoman ask the cargo?"
+
+"Since now," Wren says, and goes forward, and that is the end of the discussion and, though Eli cannot know it, the beginning of a constitution.
+
+---
+
+The sea does its old work.
+
+They run the coast in the dark hours and anchor behind islands in the light ones, and Eli discovers that a boat is good for him the way the junction box was good for him: bounded work, one rope at a time, the engine's rhythm underneath everything like a patient teacher. The noise is always there now — the world's second surface, the far mutter — but aft, over the engine, with his palms full of rope, it stands behind the sound and waits, and he can live in front of it.
+
+The third night, the water grows a corner.
+
+A launch, gray, running dark, swings out of a channel mouth a half-mile off and holds a parallel course. Pak Din studies it without appearing to study anything, the cigarette traveling slowly to the other corner of his mouth.
+
+"Navy hangs laundry," he says, conversational. "Customs hangs laundry — customs is people, people wash. That one." He clicks his tongue. "No laundry."
+
+"What's no laundry?" Eli asks.
+
+"Contractors." He says the word the way he'd report rot in a hull. "Get flat. Loud ones flat, especially."
+
+And the fear arrives, and under the fear, right on schedule, the noise comes up like floodwater — the launch has a pressure to it, a thumb testing windows, the same patient touch as the painted-out cutter, and it is sweeping, and Eli's whole body wants to answer it the way a struck string answers.
+
+*Before,* Emrys said. *Before matters.*
+
+He is lying flat between rice sacks with his hands on the engine cowling, and the cowling is warm, and he does Nura's arithmetic on the warmth — one to ten, losing it at four, starting over, losing it at six — and he breathes the temple count he carried ten years as a souvenir, in behind the hands, and he does not stand behind the noise and wait for it to pass, he stands *in front of it,* at the door, and holds.
+
+The pressure slides over the boat like a light through a window. Touches the nephew, the rice, the shrine-kept engine. Hesitates — somewhere, everywhere, one heartbeat of hesitation, a thumb pausing on a latch.
+
+Then it is past, and the launch's wake tilts them gently twice, and the sea is only the sea.
+
+Eli lets the count go and finds he is soaked through, shaking like a man who has carried something heavy up a hill — no triumph in it, no power; a door held, is all, held barely, by a boy braced against it with a cup trick and a dead monk's arithmetic. But held.
+
+Pak Din's face appears over the rice sacks, unreadable.
+
+"Good freight," he says at last, and puts the cigarette back, and goes to the tiller.
+
+---
+
+The cost surfaces at the handoff, the way costs do — quietly, in paperwork.
+
+At the drying racks under the light, while the woman called Ros reads the manifest, Pak Din and she conduct a negotiation in numbers and offhand names that Eli half-follows: the extra bodies aboard have to be somebody, and the somebody they become is his cousin's crew allocation, the cannery run, the clean seasonal pass that took the family three years of showing up on time to earn.
+
+"Now my cousin waits a season," Pak Din tells Eli, plainly, when he sees him listening. Not an accusation. Freight information. "He has a wedding to pay for. He'll wait tables at his own wedding, maybe." The cigarette shifts. "Don't make the face. You'll pay it forward or you won't; the chain knows before you do."
+
+"Thank you," Eli says, because it is all he has.
+
+"Don't thank me. Thank the chain — I'm one link." He looks at Eli's hands again, the way he did the first day. "You'll be a link. That's the payment. The loud ones always end up carrying somebody."
+
+---
+
+They cross the last stretch to the delta at first light, and the land comes up green in a way Eli has no word for — not the ornamental green of the resort, not jungle: worked green, water-ruled green, rice in every stage of its life standing in mirrors of sky, a country that is half grown and half reflected.
+
+His palms prickle at it. Not the mixed noise. Something lower, slower — the way a held wire hums when, far down the line, something is switched on.
+
+He says nothing. Numbers first. He notes it, the way Emrys taught him, and stands at the rail beside Wren, who is watching the coast with her after-return face, the bill-reading face, though she has not been anywhere.
+
+"Your people," Eli says. "The blue mosque, the racks, Ros — how many places like this?"
+
+"Enough."
+
+"How many is—"
+
+"Don't count them." She says it without heat, watching the green come up. "Counting is how they get taken."
+
+Her people, she said, that first night on the platform, and he had heard a claim in it. He stands beside her now, watching her not count them, and hears it right: not a possession. A weight. Something you carry with both hands full and no fist left over for anything else — not a ring, not a grievance, not even, maybe, a self.
+
+The delta opens. Somewhere up one of its thousand brown channels, a field is growing wrong in a way that will change everything, but that is tomorrow's freight.
+
+The boat goes in with the tide.
+
+---
+
+*On the record*
+
+1. **Auditory misdirection.** Trained listeners orient to salient acoustic patterns; masking and decoy signals are standard field measures against directional listening. The "sonic misroute" extends real practice into the story's psionic register — a sensitive is misdirected the same way a microphone is.
+2. **Coastal smuggling economies.** Manifest-slot allocation, seasonal passes, and kin-based crew substitution reflect documented practices in Southeast Asian coastal trades; the specific institutions here are fictional composites.
+
