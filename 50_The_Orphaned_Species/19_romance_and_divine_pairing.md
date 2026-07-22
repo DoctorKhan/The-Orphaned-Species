@@ -32,7 +32,7 @@ Use the **emotional grammar** of near-future stories where love lands because or
 
 The present-day war sells **borrowed power and borrowed time**. Romance under that pressure should feel like **Lucy's moon made human for this canon**: not a corporate product, but a credible picture of ordinary life two people might still choose — work, food, sleep, privacy, touch, a place that is theirs for one night. Pelangi Reach is Eli's hearth; Wren's safe routes and extraction network are her version of the locked door. The reader must want that life **for them** before prophecy, registry, or the mother-trail can threaten it.
 
-The romance succeeds when the buildup makes every later collision hurt: recognition, control, separation, triad pressure, and the final release lesson.
+The romance succeeds when the buildup makes every later collision hurt: recognition, control, separation, plural-bond pressure, and the final release lesson.
 
 ### Buildup principles
 
@@ -105,7 +105,7 @@ The buildup is the product. A single kiss after fifty chapters of earned proximi
 | Safe apartment | Wren's route, safehouse, galley, one night off-watch | One room, sensory detail, low dialogue |
 | "I'll get us out" | Wren's extraction network; Eli's hope of reunion | Competence is attractive; **control is the flaw** |
 | Love can't stop the install | Wren can't manage Eli safe; Eli can't love Wren into leaving her people | Love does not fix the machine |
-| Tragic acceleration | War, registry, prophecy, triad, mother tether | Loss can be separation, betrayal of trust, or near-miss — not required death |
+| Tragic acceleration | War, registry, prophecy, plural-bond pressure, mother tether | Loss can be separation, betrayal of trust, or near-miss — not required death |
 
 ### Volume I romantic beat targets (*The Breach*)
 
@@ -370,6 +370,18 @@ The bond can be transcendent, but it cannot override present consent, responsibi
 
 They feel something before they understand it.
 
+**Personal function — LOCKED 2026-07-22:** Wren is not Eli's political education. Rowan later belongs to his public and political maturation; Wren belongs to his inward one. Eli enters Book I feeling intensely but unable to distinguish feeling from the survival-story built around it. Fear becomes vigilance, shame becomes usefulness, grief becomes investigation, desire becomes destiny, anger becomes moral certainty, and loneliness becomes the need to be indispensable. Wren helps him separate the feeling from the disguise. She does not diagnose him in speeches. She takes a perception seriously, waits while he finds a word, argues with him as someone whose choices matter, desires the ordinary man rather than the receiver, and refuses to let usefulness substitute for an honest request. Through food, proximity, humor, irritation, attraction, silence, conflict, and repair, Eli learns to say in increasingly plain language: *I am afraid. I am angry. I miss her. I want you. I do not want to be left.* That emotional recognition is the source of his growing confidence and self-knowledge.
+
+Wren initially lends Eli her confidence by trusting him with consequential action before he trusts himself. He makes that confidence his own when he can choose without calling the choice fate, duty, proof, or necessity. Only then can he choose Wren rather than merely need what she represents. In return, Eli notices the frightened, tired, desiring nineteen-year-old beneath the operator without treating vulnerability as access. As he becomes able to name his own feelings, she becomes more able to reveal hers. He helps her remember that she is a person with wants, not only the route by which other people survive.
+
+**Book I governing distinction:**
+
+> Wren helps Eli discover that he is real, capable, and allowed to feel and choose.
+>
+> Eli helps Wren risk being emotionally visible without becoming owned or managed.
+
+Consent and boundary remain necessary, but they are the conditions that make this personal education safe; they are not the relationship's primary subject.
+
 **Street register:** prioritize **buildup over label** — sanctuary scenes, shared ordinary future, humor, slow proximity, one escape-offer refused on third loyalty. See § Street romance register.
 
 The feeling may include attraction, resonance, fear, trauma-bonding, archive echo, field-recognition, and ordinary admiration. The point is not to identify the correct category too early. The point is to make the pressure undeniable and ethically uncertain.
@@ -386,17 +398,22 @@ Romantic mode:
 Lessons:
 
 - feeling strongly is not knowing truly;
+- a feeling can be true even when the story attached to it is wrong;
+- fear, shame, grief, desire, anger, and loneliness must become distinguishable in Eli's own language;
+- confidence grows from recognizing and choosing, not from becoming indispensable;
 - being recognized is not the same as being loved;
 - chemistry does not settle trust;
 - the body may register truth before the mind can interpret it, but interpretation can still be wrong.
 
 End state:
 
-They trust each other enough to keep moving together. They should not yet be allowed the comfort of naming the bond cleanly.
+They trust each other enough to keep moving together. Eli can recognize several of his own feelings without converting them into command or destiny, and can oppose Wren without losing his sense of self. Wren has begun letting him see wants and uncertainty that do not belong to her operational mask. They should not yet be allowed the comfort of naming the bond cleanly.
 
 ### Volume II: care can become control
 
-This is where the romance becomes structurally load-bearing.
+**Consent and control — LOCKED 2026-07-22:** This is where the romance becomes structurally load-bearing. Book I taught Eli to recognize what he feels; Book II asks what he is permitted to do because he feels it. Love, grief, family, rescue, secrecy, access, psychic perception, and formative bonds all become consent problems. The volume must distinguish wanting from entitlement, knowing from access, care from management, protection from custody, memory from ownership, and connection from compulsory continuation. Consent is not a modern slogan pasted over the mythic plot; it is the dramatic mechanism by which every intimate bond proves whether it is love or control.
+
+Book II's family-and-loss theme and its consent-and-control theme are the same movement. Family creates real claims of care and responsibility, but no relationship—parent, child, lover, former lover, keeper, rescued person, or community—grants unlimited access to another body, mind, memory, route, story, or future. Maren's release is the final proof: Eli may love her, need her, understand her, and be loved by her without gaining the right to keep her tethered.
 
 Eli's immature love:
 
@@ -418,7 +435,7 @@ Required pressures:
 
 Lesson:
 
-> Love without freedom becomes ownership, even when sincere.
+> Love without consent becomes control, even when sincere. Whom I love does not belong to me.
 
 End state:
 
@@ -457,140 +474,55 @@ Lesson:
 
 > Love is not less sacred because it is chosen in time.
 
-## The third woman and the triad — MOOT (2026-07)
+## Rowan returns — plural V, not triad (LOCKED 2026-07-22)
 
-**Status: moot.** The on-page triad was cut in the cast-consolidation pass — Rowan is now off-page (a referenced prior love, never appearing), and the romance is a **dyad** (Eli/Wren). The material below is preserved as a curriculum reference for *consent under pressure* generally; do not write a third on-page character from it. The dyad still carries the custody-vs-consent tension internally: Wren's prior-love instinct flares on Eli's danger and her own unfinished history, not via a second body (`26`, `27`).
+**Governing structure:** Rowan returns on-page in Book II and renews her romance with Wren. Eli/Wren also remains a developing romantic bond. Rowan/Eli is not romantic. The result is a **V centered on Wren**, held through disclosure, consent, and separate terms for each bond—not a competition, closed triad, or automatic group relationship. Rowan has an independent west-corridor objective and cannot exist to validate or threaten Eli's desirability.
 
-A third female love interest can work, but only if the structure refuses the ordinary jealousy triangle.
+Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already coordinated with Wren before Eli understands their history. **Look:** black hair; Wren is blonde. The contrast may register, but neither woman is staged for comparison. If Wren reads exits, Rowan remembers costs.
 
-Working name: **Rowan** *(removed as on-page character — see `26` § Rowan)*.
+The weak question is *whom will Wren choose?* The strong question is: **can two different loves remain truthful without becoming hierarchy, concealment, or custody?**
 
-Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already entangled with Wren before Eli understands the shape of their history. **Look:** black hair (Wren is blonde — the contrast should register when they share a frame). The name carries living-world resonance without making her a prophecy clue. If Wren is the one who reads exits, Rowan should be the one who remembers costs.
+### Separate bonds, separate obligations
 
-The weak version asks:
+**Wren / Rowan:** formative Weaver bond, shared history, renewed embodied romance. It needs scenes and decisions that do not orbit Eli: the missing-person recovery, old humor, operational disagreement, mutual disclosure, ordinary tenderness, and a clear choice to resume intimacy. Rowan's prior history grants knowledge, not priority or ownership.
 
-> Which woman does Eli choose?
+**Wren / Eli:** emergent bond formed through danger, recognition, refusal, and chosen present-tense commitment. Eli may not treat exclusivity as proof he was chosen or use his uncertainty to demand access to Wren/Rowan's private history.
 
-The strong version asks:
+**Rowan / Eli:** direct, respectful, non-romantic relationship. They speak without Wren translating. Rowan may challenge how Eli's quest consumes routes; Eli may challenge Rowan when protecting the Net obscures an individual. Neither approves the other's bond with Wren.
 
-> What form of love can survive truth?
+### Formative bond and renewed desire
 
-For this trilogy, the recommended structure is not a conventional triangle. It is a triad under mythic pressure. Wren and the third woman love each other as well, and that relationship must remain real when Eli is absent.
+Wren and Rowan did not cease loving in a clean instant. Their shared life ended after the failed extraction, but they never completed a Weaver unbinding — theirs was a **ply**, the order's formalized training bond (`29` § The ply), and an un-unbound ply retains its rights and reflexes. Reflexive coordination, community obligations, bodily familiarity, and knowledge of one another's limits survived. This creates immediate gravity when they reunite, but no automatic access. **The bond remembers; the person still chooses.**
 
-### Core rule
+Renewal requires five beats:
 
-The third woman cannot exist to decorate Eli's desirability or make Wren jealous. She needs an independent dramatic function, a present-tense want, a history with Wren, and a pressure point in the larger plot.
+1. **Recognition:** their bodies coordinate before their speech does.
+2. **Collision:** Rowan refuses Wren's immediate iron solution and her authority over the recovery.
+3. **Changed conduct:** Wren accepts the limit and follows Rowan's person-first protocol.
+4. **Disclosure:** Wren tells Rowan about Eli; she tells Eli that Rowan was and may again be her lover.
+5. **Choice:** after danger passes, Wren and Rowan explicitly choose renewed intimacy and state what it does not grant.
 
-If Wren and the third woman love each other, their bond must have:
+### Character errors
 
-- private history Eli does not own;
-- scenes without Eli;
-- unresolved injury or obligation;
-- tenderness that is not framed as spectacle;
-- a loyalty that can conflict with Eli's route;
-- consequences whether or not Eli is romantically involved.
+- **Eli:** mistakes exclusivity for proof that he has finally been chosen. He learns that love can be real without making him its center.
+- **Wren:** mistakes managing danger for maintaining love. She learns to disclose, ask, and let each bond retain its own boundaries.
+- **Rowan:** risks treating formative history as superior knowledge of who Wren truly is. She learns that knowing Wren before Eli does not grant a prior claim on Wren's future.
 
-### Best version
+### Scene tests and guardrails
 
-Wren and the third woman loved each other first.
+- What does each person want that is not romance?
+- What old claim is being mistaken for present consent?
+- What do Wren and Rowan share that Eli does not need to enter?
+- What affects Eli enough that Wren must disclose it without surrendering private detail?
+- Does Rowan act from her own network and recovery objective?
+- Do not make the women's love ornamental, voyeuristic, or a temporary obstacle.
+- Do not make bisexuality or plural love exotic texture or effortless moral superiority.
+- Do not make Eli the judge or hidden center.
+- Do not force Rowan/Eli romance to make the structure symmetrical.
+- Do not let formative durability become mystical compulsion.
+- No bond may claim destiny as settled consent.
 
-Eli enters as disruption, not replacement.
-
-This prevents the structure from reducing both women to choices arranged around him. It also gives Wren's guardedness a lived source: she has already loved someone under conditions of danger, secrecy, survival, or failed protection.
-
-The third woman should not be simply kinder than Wren, more mystical than Wren, or more sexually available than Wren. She should carry a distinct lesson about love.
-
-Recommended functions:
-
-- **Past love:** she and Wren have a real unresolved relationship before Eli arrives.
-- **Ethical rival:** she believes Wren is losing herself in Eli's quest, and she is partly right.
-- **Dangerous mirror:** she recognizes Eli in a way Wren cannot, tempting him to mistake being understood for being claimed.
-- **Other pole of divine pairing:** she reveals that the old pattern may not have been dyadic. The ancient lesson may have been a triad repeatedly broken by jealousy, hierarchy, secrecy, or sacrifice.
-
-### The three lessons
-
-Each point of the triad should be wrong about love in a different way.
-
-**Eli's error:**
-
-> Love means I have finally been chosen, and therefore I belong at the center.
-
-His lesson:
-
-> Love is not proof that I am chosen.
-
-**Wren's error:**
-
-> Love means I must manage the danger before it can abandon or destroy us.
-
-Her lesson:
-
-> Love is not control.
-
-**Rowan's error:**
-
-> Love means I know where Wren is safest, and I have a prior claim because I knew her first.
-
-Her lesson:
-
-> Love is not custody.
-
-This makes the triad a real curriculum rather than a romantic complication.
-
-### Why the triad belongs to the series
-
-The larger story argues against inherited hierarchy, chosen-one centrality, divine ownership, family as possession, and civilization as controlled access to power. A conventional soulmate pair risks quietly rebuilding the same structure at the level of romance:
-
-> one chosen beloved, one exclusive claim, one sacred center.
-
-A triad can push the romance into the same mature ethic as the rest of the trilogy:
-
-> Divine love was never ownership, never hierarchy, and maybe never only two.
-
-That does not require a neat or idealized polyamorous ending. The point is not to make the relationship model a thesis poster. The point is to make the characters confront whether love can remain truthful when it is multiple, asymmetrical, embodied, and socially dangerous.
-
-### Possible series placement
-
-**Volume I:** Seed Wren's history with the third woman before explaining it. Wren reacts to a name, route, code, scar, song, or place with too much control. Eli notices but misreads it as tactical fear.
-
-**Volume II:** The third woman enters physically or becomes unavoidable through the clue chain. Her independent objective conflicts with Eli's mother-trail and Wren's current loyalty. Wren and the third woman still love each other, but the old wound changes every operational choice.
-
-**Volume III:** The divine-pairing pressure expands from couple to triad. A faction, archive, or field event tries to impose an interpretation: sacred pair, chosen vessel, necessary sacrifice, or old vow. The mature choice is not automatic union. It is truthful consent among free people, with no person made central by metaphysical force.
-
-### Scene tests
-
-Any triad scene should answer at least three of these:
-
-1. What does each person want that is not romance?
-2. Who is being centered, and who resists that center?
-3. What old claim is being mistaken for present consent?
-4. What does Wren owe the third woman that she does not owe Eli?
-5. What does Eli need to accept that he cannot be included in?
-6. What does the third woman know about Wren that Eli cannot shortcut through resonance?
-7. What would love do here if nobody were allowed to own anyone?
-
-### Guardrails for the triad
-
-- Do not make the women's love ornamental.
-- Do not make bisexuality or polyamory exotic texture.
-- Do not use the third woman only to delay Eli/Wren.
-- Do not make the third woman disposable after she teaches Eli something.
-- Do not make Eli the automatic center of the triad.
-- Do not resolve tension by declaring that divine pairing has already settled consent.
-- Do not let the triad swallow the plot; it should sharpen the trilogy's central argument.
-- Do not idealize the relationship model. Love can be multiple and still immature, selfish, frightened, or harmful.
-
-### End-state possibilities
-
-The ending does not need to force one romantic arrangement. Several mature outcomes can satisfy the architecture:
-
-- the three form a committed triad, but only after each gives up ownership;
-- Wren and the third woman remain lovers while Eli and Wren choose a different form of bond;
-- Eli and Wren remain together while the third woman remains beloved but not possessed;
-- all three separate romantically but preserve a truthful, accountable alliance;
-- the exact romantic form remains private, while the public proof is that none of them claims the others through destiny.
-
-The required victory is not a relationship label. The required victory is that love becomes more truthful than the myth trying to contain it.
+The required victory is not frictionless polyamory. It is that each bond becomes more truthful than the ownership models trying to contain it.
 
 ## The three-volume romantic spine
 
@@ -677,7 +609,7 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 | Wren keeps choosing him = reward fantasy | Laleh/Asha bill (Ch 8); resentment through Vol II Ch 15 |
 | Mother arc accelerates romance | Ch 17 recoil — *don't put her in that chair* |
 | Union without rupture | Vol I Ch 13 cold shoulder → Vol II Ch 19–20 repair → Ch 21 choice |
-| *Liaisons* pressure too thin (triad cut) | Ch 16 honey-trap; Ch 19 Sol secrecy |
+| *Liaisons* pressure too thin | Ch 16 honey-trap; Rowan return/renewal; Ch 19 Sol secrecy |
 | Book III makes Wren's network the hero's natural resource | Ch 27 refusal materially weakens Eli's plan and remains legitimate |
 
 ### Competence vs control (romance register)
@@ -691,17 +623,20 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 | **Eli** | *I'll become useful enough you won't leave* | Asks; refuses to make Wren proof of destiny |
 | **Wren** | *I'll keep you safe by controlling the field* | Admits when protection became control; third loyalty holds |
 
-### Dyad note (2026-07)
+### Plural-bond note (LOCKED 2026-07-22)
 
-Rowan off-page; romance is **Eli/Wren only**. Custody-vs-consent tension is **internalized** (prior-love instinct, Mira wound) — compensate with **Liaisons** pressure (Ch 16), Sol thread (Ch 19), and explicit rupture/repair (**Vol I Ch 13** → Vol II Ch 19–20).
+Rowan returns and Wren/Rowan renews romantically. Eli/Wren remains real; Rowan/Eli remains non-romantic. Each bond needs its own consent, conflict, tenderness, and exit rights. Wren may not use one relationship to regulate the other; Eli and Rowan speak directly rather than making Wren translate their limits. The formative Wren/Rowan bond is difficult to break because it is embodied and socially distributed, but **the bond remembers; the person still chooses**.
 
 **Bengali–Melakan quiet-culture lock:** Wren's queer history belongs to an internally affirming, externally discreet mutual-aid culture shaped by persecution. **Everyone inside knows; no one outside is owed the knowing.** Render belonging through ordinary inclusion and protected information, not a coming-out lecture. Preserve the internal dispute: discretion can be survival, but neither romance nor community may use it to excuse deception, coercion, or erasure (`05` § *Social worlds against atomization*).
 
-**Weaver bonds — deep bonds and bisexual subtext (2026-07-21):** the quiet culture above is one branch of **the Weavers** (`29` § The Weavers). Deep bonds between Weavers are the order's connective tissue — intimacy formed by shared houses, kept confidences, crossings survived together, and tests passed in each other's care. These bonds naturally carry bisexual subtext, and the canon already grounds it (the order shelters women-loving relationships and queer kinship; Rowan was Wren's love inside the Bengali–Melakan branch). Rules:
+**Weaver bonds — deep, formative, and difficult to break (reconciled 2026-07-22):** the quiet culture above is one branch of **the Weavers** (`29` § The Weavers). Deep bonds between Weavers are the order's connective tissue—intimacy formed by shared houses, kept confidences, crossings survived together, bodies tended, families introduced, and tests passed in each other's care. A formative bond becomes embodied habit and distributed social memory; ending a romance does not erase its routes, reflexes, obligations, or recognition. Wren and Rowan separated without fully unbinding, so their bond remained dormant rather than gone and renews romantically in Book II. These bonds naturally carry bisexual and queer texture, and the canon grounds it openly. Rules:
+
+- **Durability is not entitlement.** A bond can remember after a relationship ends; neither party owes touch, access, labor, forgiveness, or reunion. Consent remains act-specific and present-tense. The bond supplies gravity, never command. **The bond remembers; the person still chooses.**
+- **Unbinding is accountable, not permissive.** Keys, responsibilities, dependents, confidences, and shared routes may need transfer before a bond's infrastructure is dissolved. Nobody needs the order's permission to leave, but leaving does not justify silently exporting every obligation to the abandoned person.
 
 - **Text anchors subtext.** Because confirmed queer love exists in the spine (Wren bi/pan LOCKED; Rowan and Mira canon), ambiguous intimacy elsewhere in the order reads as honest pattern — some bonds are romantic, some are not — never as a tease the book refuses to pay. Without the anchor it would be queerbaiting; with it, it is texture the world itself produces.
 - **The order refuses to sort its bonds — and that is the thesis.** Filing every deep bond as *romance* or *just friends* is classification-as-ownership, the registry move. The Weavers decline it internally; the book declines it on the page. Relation without ownership, enacted at ensemble scale.
-- **Third loyalty, not stealth triangle.** A Weaver bond pulls on the Eli/Wren dyad as a *loyalty* (§ There is a third loyalty), never as an unnamed rival lover. The triad remains MOOT. A bond that echoes what Wren lost with Mira should threaten her self-story, not the pairing.
+- **Two romances, not stealth triangle.** Wren/Rowan and Wren/Eli are named as separate real bonds. Rowan and Eli are not rivals for possession of Wren and are not covertly romantic. Each may object to conduct that affects them, but neither approves or governs the other bond.
 - **Counterfeit test applies.** Hostile teams can simulate coherence-intimacy; handlers weaponize closeness. Bank one beat where a bond is revealed as operational, and one where a real bond survives being *accused* of being operational.
 - **No exotic texture** (§ Guardrails). The subtext lives in ordinary gestures — who packs whose kit, who someone reaches for when a line goes taut, who is allowed to interrupt whom — never in italicized meaningful glances.
 - **The matchmaker thread — Eli/Wren LOCKED (2026-07-21): blessed, not built.** The Weavers did **not** arrange the meeting — the Melaka convergence stays Wren's operational choice and the breach chain stays human-choice logic. But **after** the pairing formed, a house quietly **vetted Eli through the Net and blessed the match without telling Wren**: a safehouse granted a little too easily, a document that cleared a little too fast, a warning that never needed sending. Two or three such favors are planted in Vol I as unremarkable luck. **Vol II beat — PINNED (`32` Act IV: Ch 5 discovery → Ch 7 denouement re-choosing):** Wren discovers the blessing at the exact point her *"real, engineered, or both"* fear peaks — and even a benevolent blessing given without her knowledge lands as manipulation, the order's consent line made personal. She confronts a Weaver elder, who tells her the truth plainly (expired ledger, `15`): *"We didn't tie you. We cleared the path and watched where you walked."* Wren's locked arc then executes exactly as written — she must choose commitment without destiny as a crutch, now also without the matchmaker as a crutch. The reader re-reads the Vol I favors as knots. **Resolution rule:** recognition can be favored; love is proven chosen in action. The blessing explains the smoothness of the road, never the reality of the bond.
@@ -793,7 +728,7 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 
 ### M/I/A drafting audit (LOCKED — 2026-07-12)
 
-*Companion to § *Romance cost audit* — architecture is locked; execution drifts if dyad scenes have tenderness without at least one M/I/A register moving.*
+*Companion to § *Romance cost audit* — architecture is locked; execution drifts if romantic scenes have tenderness without at least one M/I/A register moving. Track Wren/Rowan and Wren/Eli separately.*
 
 | Vol | Beatsheet audit | Arc job | End-state register |
 |---|---|---|---|
@@ -820,7 +755,7 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 
 ### Other women (brief)
 
-Mystery/intrigue/attraction are **not Wren-only**: **Mei** (rules as love language, registry bend); **Sora** (soft conscience under collar); **Maren** (researcher-song mystery, taken alive). They carry **registers** (`15` power table), not the romance dyad.
+Mystery/intrigue/attraction are **not romance-only**: **Mei** (rules as love language, registry bend); **Sora** (soft conscience under collar); **Maren** (researcher-song mystery, taken alive). They carry **registers** (`15` power table), not either romantic bond.
 
 ## End-state image
 

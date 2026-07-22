@@ -98,7 +98,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Authentic contact — shocking, not sweet (2026-07-21):** when the real thing arrives, it does not feel like a better version of the counterfeit — it feels *wrong*. Manufactured intimacy follows scripts, can be steered, and ends when the operation ends; the authentic version obeys none of her craft. She cannot read its exits, cannot steer it, and it exposes *her* instead of her mark. First reactions: mislabeling (she assumes a con is being run on her and looks for the handler behind Eli), competence collapse (the stair trip; snapping when someone is kind without asking — her existing habit is this beat in miniature), and flight into work. **Drafting rule: write her authentic moments as disorientation beats, not warmth beats.** Warmth is what she knows how to fake; confusion is her evidence it's real — for Wren, comfort reads as suspicious and bewilderment as proof. The middle of her arc is learning to sit in the confusion without converting it into an operation.
 
-**Prior loves (off-page):** Rowan, a Bengali woman close to Wren's age and embedded in the Weavers' Bengali–Melakan branch, was the significant love before Mira. An older Chinese-Malaysian ex came earlier, offering experience, protection, and access while creating a real age and resource asymmetry. Both remain referenced only; neither appears as an active romantic rival or POV. Rowan's relationship supplies belonging and the source of Wren's custody instinct; the older ex supplies Wren's learned suspicion that protection can become control. The present romance remains the Eli/Wren dyad. Wren knows the Weavers' rituals but does not speak for all its houses.
+**Prior and renewed loves:** Rowan, a Bengali woman close to Wren's age and embedded in the Weavers' Bengali–Melakan branch, was the significant love before Mira and returns on-page in Book II — **Wren's training ply, never unbound** (`29` § The ply). Their formative bond never fully unbound, and they renew their romance under new terms. An older Chinese-Malaysian ex came earlier, offering experience, protection, and access while creating a real age and resource asymmetry; she remains off-page. Wren/Rowan and Wren/Eli become concurrent romantic bonds; Rowan/Eli is non-romantic. Wren knows the Weavers' rituals but does not speak for all its houses.
 
 **Living female relationship — Asha Noor:** co-founder and quartermaster of the extraction network; a former threshold-house nurse in her early thirties who knew Wren at port intake before she became a handler. Asha is friend, older peer, and civic co-dreamer — never parent, lover, or subordinate. She stores Wren's ferry-terminal drawings and thinks the house should be built now, in pieces, rather than after an imaginary victory. She loves Wren but does not admire all her methods. After Laleh disappears, Asha recognizes the falsified ledger and refuses to certify another route until Wren adds explicit **return rights, informed-route consent, and an independent abort contact**. Their argument is the seed of the network's eventual accountable limits.
 
@@ -136,9 +136,23 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ---
 
-## Rowan *(off-page — Wren's prior love, never appears on page)*
+## Rowan *(on-page in Book II — Wren's prior love; west-corridor liaison)*
 
-**Decision (consolidation, 2026-07):** Rowan remains off-page as Wren's referenced prior love — the one before Mira — and the source of Wren's custody instinct. An older Chinese-Malaysian ex preceded Rowan and also remains off-page; her function is to establish Wren's history with protection, access, and asymmetrical care. Neither is an active third body or POV. This preserves the present Eli/Wren dyad; any triad curriculum in `19_romance_and_divine_pairing.md` remains moot.
+**Decision (reopened and locked 2026-07-22):** Rowan appears in Book II Chapters 5–7 as Wren's prior love—the one before Mira—and as a present-tense Weaver/mutual-aid operator. The older Chinese-Malaysian ex remains off-page. Rowan and Wren **renew their romance on-page**. Eli/Wren also remains real; Rowan/Eli is not romantic. The resulting structure is a consent-explicit **V centered on Wren**, not a closed dyad, competitive triangle, or three-way triad.
+
+**Ordinary life:** Bengali, close to Wren's age, formed by port work, shift meals, intake queues, and the Bengali–Melakan mutual-aid web. She remembers costs in names rather than totals. Affectionate without being yielding; practical, black-haired, dryly funny, and less impressed by Wren's competence than almost anyone alive. She and Wren fell in love through repeated work and ordinary rain, not crisis glamour.
+
+**Turn / separation:** During an earlier failed extraction, Wren preserved the route and completed the planned movement after a person disappeared inside it. Rowan insisted that the operation was not complete while a person remained unreturned. Wren experienced Rowan's refusal as dangerous obstruction; Rowan experienced Wren's protection as the moment a human being became a completed column. Their relationship ended without becoming false. Wren converted the loss into tighter custody; Rowan remained with the networks and learned to protect routes by keeping them subordinate to people.
+
+**Formative-bond lock:** Wren and Rowan never completed a deliberate Weaver unbinding. They stopped cohabiting and ended sexual/romantic contact, but shared routes, community obligations, bodily familiarity, and reflexive coordination remained embedded in them and in the people who once depended on them together. Their Book II reunion therefore has immediate gravity without granting either woman access to the other. **The bond remembers; the person still chooses.**
+
+**Book II objective:** Rowan's west-corridor branch is shielding local keeper houses, displaced families, and people returned altered from threshold events. A person under her responsibility has gone missing near the mound-path. She will cooperate with Eli's group only while their investigation serves recovery and does not expose the corridor. Her want is not Wren, Eli, or reconciliation: **bring the missing person home and leave the local network harder to own than she found it.**
+
+**Rowan-branch protocol:** Rowan works beside a local fairy-doctor/keeper descendant rather than replacing local knowledge. She insists on fresh rowan branches before grounded iron: living boundary before severance. Her line—*“A completed route is not a returned person”*—is spoken to Wren in the present, not remembered as a dead lover's wisdom. Rowan is not a carrier, Sídhe descendant, reincarnation, or magically named figure. The name coincidence is acknowledged once and dismissed.
+
+**Romantic redevelopment:** recognition alone is not reunion. Rowan first sees whether Wren can accept a limit without converting care into custody. Wren follows Rowan's person-first protocol and later tells Rowan plainly about Eli before asking for anything. Rowan states that she will not be hidden inside operational kinship, used to regulate Wren, or asked to approve another bond. Affection returns through food, kit repair, remembered humor, and the ease of two people who know how the other sleeps; an acknowledged kiss or night together occurs only after the extraction, outside immediate danger. The scene confirms renewed desire and negotiated terms, not permanent harmony.
+
+**Book II exit:** Rowan survives the mound extraction and the Avebury crisis. She contributes ordinary coordination and evacuation, not special power. She and Wren choose an active relationship with distance, work, disclosure, and exit terms still unresolved. Wren and Eli also choose their bond without claiming exclusivity. Rowan does not romance Eli or bless his relationship; she speaks for herself and returns to her network with the Wren/Rowan bond ongoing.
 
 ---
 
@@ -563,7 +577,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 |---|---|---|---|
 | Emrys slapstick + flaw | post-breach | pursuit labs; taken | Albion if present |
 | Wren solo extraction | ch 8-weight | trade fork | network choice |
-| Rowan *(off-page)* | Wren reference only | custody instinct flares | dyad holds |
+| Rowan | off-page seed only | on-page Ch 5–7: corridor recovery + Wren romance renews | own network; plural bond continues |
 | Hassan witness | Melaka | — | — |
 | Hạnh + mixed Mekong cooperative | agricultural witness (Ch 11–14) | — | optional network echo |
 | Custodians + Sora arc | breach–climax | pursuit | broken/changed |
@@ -697,14 +711,14 @@ Most major cast can carry some mix:
 | **Can't rest** | stillness unsafe; stairwell bun = softness leak |
 | **Split self / bad faith** | official hunter vs secret rescuer; distrust of own wants |
 
-### Wren's prior love (off-page; the one before Mira)
+### Rowan — Wren's formative prior and renewed love
 
 | Pattern | Behavior |
 |---|---|
 | **Anxious / preemptive attachment** | prior claim mistaken for safety — *love is not custody* |
 | **Compulsive accounting** | ledger ritual: if every cost is recorded, maybe none were wasted |
 | **Frozen anger** | precision instead of grief; audits Wren instead of screaming |
-| **Secondary trauma** | absorbed every failed run without being the runner (referenced, never appears on page) |
+| **Secondary trauma** | absorbed every failed run without being the runner; appears on-page with her own recovery objective rather than as Wren's grievance |
 
 ### Professor Emrys
 

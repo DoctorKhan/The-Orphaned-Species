@@ -34,7 +34,7 @@
 
 **Providence and agency — LOCKED 2026-07-15:** Heaven and Earth possess genuine intentions. Civilization's knowledge-blueprint, the fruition of the Tree of Knowledge, and the Drift toward forced technological integration belong to a divine plan. The plan's intended resolution is specific: if humanity becomes intelligent enough to understand technology, it can become intelligent enough to understand **life-technology** rather than fear it. That recognition allows humans to meet the Nephilot/elven line as persons and fellow participants in creation, ending the ancient pattern of killing what they do not understand. The plan creates direction and pressure, not automatic obedience: human choices still determine whether understanding becomes coexistence, a new tyranny, or self-annihilation. The trilogy must not explain this away as projection or coincidence.
 
-**Panspermia reveal ladder — LOCKED 2026-07-16; Göbekli cap clarified 2026-07-17:** Panspermia is the trilogy's hidden architecture, seeded from Book I rather than introduced as a late twist. Book I shows anomalous life, the responsive Göbekli interface, and human ownership of inherited design without naming alien seeding or determining what the interface does. In full canon Göbekli is a communication station, not a consciousness store or field amplifier, but Eli's group does not know that at Book I's end. Book II reveals the human consequences—Nephilot tracking, Pömmelte's carrier purge, and the broken memory of the "elf"—while the wider stone-circle network and Stonehenge establish cross-species communication. Book III moves from Delphi's ambiguous signal to the Stonehenge channel, the Double-Fork Stone, and the dragon memory: Earth supplies biology and adaptation; Heaven supplies seeds, pressures, and bridge species; humans and dragons become intelligent through relationship. The revelation culminates not in human specialness but in responsibility: can humanity stop converting its own origins, partners, and powers into property?
+**Panspermia reveal ladder — LOCKED 2026-07-16; Göbekli cap clarified 2026-07-17:** Panspermia is the trilogy's hidden architecture, seeded from Book I rather than introduced as a late twist. Book I shows anomalous life, the responsive Göbekli interface, and human ownership of inherited design without naming alien seeding or determining what the interface does. In full canon Göbekli is a communication station, not a consciousness store or field amplifier, but Eli's group does not know that at Book I's end. Book II reveals the human consequences—Nephilot tracking, Pömmelte's carrier purge, and the broken memory of the "elf"—while the wider stone-circle network and Stonehenge establish cross-species communication. Book III builds from that channel through Delphi's ambiguous signal, the Double-Fork Stone, and the dragon memory: Earth supplies biology and adaptation; Heaven supplies seeds, pressures, and bridge species; humans and dragons become intelligent through relationship. The revelation culminates not in human specialness but in responsibility: can humanity stop converting its own origins, partners, and powers into property?
 
 **Power-failure terminology — LOCKED 2026-07-16:** Keep the two failure modes distinct. **The Drift** belongs to the Tree of Knowledge: technological over-integration, cyberpsychosis, automation, registry identity, and the person becoming an instrument of systems. **God-sickness** belongs to the Tree of Life: psionic over-identification, ecstatic power, charisma, and mistaking direct contact for divine sovereignty. They are parallel dangers, not two names for one condition. The trilogy's mature balance is that Knowledge prevents Life from becoming godhood, while Life prevents Knowledge from becoming machinery.
 
@@ -178,8 +178,8 @@ Source: `05` §7 revised table; `99` Priority -1. Old `31`/`32`/`33` chapter all
 | Site | Volume | Seven / deep thread | Present-day role |
 |---|---|---|---|
 | **Mekong Delta rice/aquaculture cooperative** | I witness (Ch 5–10) | **Ila** (partial contact mid Vol I) | Forming **ley line** in paddy; growers distinguish it from salinity, irrigation, pollution, and legacy dioxin history; Eli hesitates over evidence while Wren chooses evacuation; incomplete override |
-| **Göbekli Tepe** | **I climax (Ch 13)** | **Aru** (carver), **Daskar** (burier); fox-pillar | **Buried instrument + male-lineage revelation.** Sealed-interface race; Emrys **taken**; spiral-in-the-eye = **selection mark**. The Nephilot/elf identity remains for Pömmelte in Book II. |
-| **Persian Gulf / Eridu–Adapa memory** | II leg | Adapa lacuna; Enki/Ninmah; King List | **Artifact + story leg** — texts, copies, disputes; see **Dilmun** below |
+| **Göbekli Tepe** | **I climax (Ch 13)** | **Aru** (carver), **Daskar** (burier); fox-pillar | **Buried instrument + partial selection/control scar.** Sealed-interface race; Emrys **taken**; spiral-in-the-eye = **selection mark**. The Nephilot/elf identity remains for Pömmelte in Book II. |
+| **Persian Gulf / Eridu–Adapa memory** | **I leg (Ch 12)** | Adapa lacuna; Enki/Ninmah; King List | **Artifact + story leg** — texts, copies, disputes; partial inward-control hypothesis before Göbekli; see **Dilmun** below |
 | **Anatolia (Anthea)** | II | **Anthea** — Bronze Age singer | Sonic/routing; distinct from Wren |
 | **Stonehenge** | II | **Cuno** — bluestone mover; last firing | **Cathedral ground**; most powerful, most watched; Cuno→Derw transmission |
 | **Rollright Stones** | II | **Cuno/Derw** chain (Albion); riddling ground | Trickster presence; resists measurement; **not** Aru's site (superseded draft) |
@@ -289,8 +289,8 @@ Each leg owes beats from `22`:
 | Volume | Title direction | Dramatic question | Immediate objective | End threshold |
 |---|---|---|---|---|
 | **I · Shattering** | *The Breach* | Can Eli stay clear under pursuit to decide whom to trust? | Verify Melaka clue; survive breach; reach Göbekli before the permit closes | **Göbekli choice** — completed personal Manual Override; people over complete record; **Emrys taken**; **rupture** with Wren |
-| **II · Descent** | *The Descent* | Can Eli pursue truth without turning people into instruments? | Reconstruct damaged clue; reach mother truth | **Relational/collective Manual Override**; mother tether revealed |
-| **III · Choice** | *The Choice* | Can Eli free his mother and oppose Crane without owning the system? | Defend distributed network; answer harm without permanent ownership | **Coexistence proof**; Two-Tree union act; afternoon coda |
+| **II · Descent** | *The Descent* | Can Eli love and belong without possessing, idealizing, or refusing loss? | Reconstruct damaged clue; understand family; reach and release Maren | **Relational/collective Manual Override**; reunion becomes release |
+| **III · Choice** | *The Choice* | Can people coordinate at civilizational scale without letting an engine that calls them family spend them as exhaust? | Defend distributed network; answer harm without permanent ownership; force institutions to carry their costs | **Civilizational Manual Override**; coexistence proof; Two-Tree union act; afternoon coda |
 
 **Maturation spine (plot + character):**
 
@@ -300,13 +300,26 @@ Each leg owes beats from `22`:
 
 ## Volume I — plot developments (LOCKED — see `31`)
 
-**Route — LOCKED:** Pelangi Reach chase → Suresh crossing → **blocked northward land corridor** → Mandate-controlled or Mandate-dependent Meridian City → north by sea through the Straits → Melaka / Zheng He port-memory → **Mekong/Vietnam agricultural-witness sequence** → **Thailand grounding and memory hinge** → **brief Bangladesh village stop** → Bay of Bengal / Arabian Sea maritime corridor → Gulf/Mesopotamian evidence → contested northward land corridor → **Şanlıurfa / Göbekli Tepe**. Meridian City is the atomized, high-surveillance counterpoint to Melaka's plural social ecology; its archive and passage must force a decision or cost. Vietnam is the substantial living-evidence stop; Thailand is shorter and restorative; Bangladesh is the emotional home hinge, not a second climax or uncomplicated return.
+**Route — LOCKED:** Pelangi Reach chase → Suresh crossing → **blocked northward land corridor** → Singapore / Meridian City, the Mandate's administrative and maritime capital → north by sea through the Straits → Melaka / Zheng He port-memory → **Mekong/Vietnam agricultural-witness sequence** → **Thailand grounding and memory hinge** → **brief Bangladesh village stop** → Bay of Bengal / Arabian Sea maritime corridor → Gulf/Mesopotamian evidence → contested northward land corridor → **Şanlıurfa / Göbekli Tepe**. Meridian City is the atomized, high-surveillance counterpoint to Melaka's plural social ecology; its archive and passage must force a decision or cost. Vietnam is the substantial living-evidence stop; Thailand is shorter and restorative; Bangladesh is the emotional home hinge, not a second climax or uncomplicated return.
 
 **Opening pace — LOCKED:** Chapter 1 = Pelangi Reach hearth and attack. Chapter 2 carries Pelangi Reach exit → brief Meridian City ring discovery → Straits → Melaka handoff collision → asphyxia breach as one escalating movement. Chapter 3 = aftermath. Geography remains unchanged; chapter boundaries no longer turn each transit leg into a separate runway.
 
 **The Weavers — LOCKED 2026-07-19; named 2026-07-21 (formerly working name *the Wide Net*):** the Bengali–Melakan web is one harbor branch of a much wider, women-led transnational order: **the Weavers**. Its houses, visiting circles, kitchens, clinics, schools, ports, farms, and repair crews extend across cultures and continents. It has no single headquarters or command line; local houses know overlapping contacts and can refuse an instruction. Members carry food, translation, shelter, repair, warnings, documents, evacuation routes, memory, and social introductions. Men, children, queer people, and elders can be protected, trained, or allied, but women hold the order's long memory and initiation authority. It is disciplined and strategic without being a secret army, a bloodline, or a government.
 
 The Weavers preserve a repertoire of rituals and tests rather than one universal script. A candidate may be asked to host a stranger without extracting their story, keep a confidence while recognizing danger, cross a border without abandoning the person who cannot pass, notice who is missing from a room, repair a practical object, tell an uncomfortable truth to a superior, or leave an unjust house without revenge. Tests measure attention, restraint, courage, memory, reciprocity, and the ability to refuse—never obedience for its own sake. Each house adapts the rite to its language, ecology, faith, and history. Secrecy is sometimes necessary: women-loving relationships, queer kinship, undocumented households, and remedies outside profitable medical channels have all been targeted, criminalized, or appropriated. The order protects names, partners, recipes, and routes through coded hospitality and need-to-know trust. Its power is continuity and judgment, but its danger is secrecy, status, generational control, and the temptation to decide that protecting people permits manipulating them.
+
+**The ply — the formalized training bond (named 2026-07-22; author direction: strong dyadic bonds among Weavers, Rowan/Wren the canonical case).** Weaver training is learned as **a strand of two**: novices are *plied* — paired into a working bond that the tests reveal and the house then ties ("the loom shows the ply; the house ties it" — recognized and blessed, never assigned; the consent line holds). The ply's duties are the order's smallest institutions:
+
+- **Never work alone.** The ply is the tradecraft unit; a Weaver moving without her ply is understood to be running on a damaged loom.
+- **Mutual witness.** Each keeps the other's ledger honest — the ply is the order's audit organ at the smallest scale, the person entitled to ask *what did that route actually cost?* and be answered.
+- **Memory redundancy.** Each carries the other's routes, names, and debts. Memory-not-paper requires two heads; the Net survives capture because every strand is stored twice.
+- **The inversion of the quiet-culture rule:** *no one outside is owed the knowing — your ply is owed all of it.* One person, in a life of discretion, from whom nothing is withheld.
+
+A ply is lifelong, may be romantic or not and may move between (Rowan and Wren: formative romance *inside* the ply), and is orthogonal to the Net's knots — a ply is not a marriage, and neither bond constrains the other. It ends only by death or the **unbinding**, a completed rite of release (`19` § Formative bond and renewed desire) — which is why an un-unbound ply *remembers*: reflexive coordination, bodily familiarity, and the right-to-truth survive the end of the shared life. **The bond remembers; the person still chooses.**
+
+Dangers, per no-sides: the ply is the lever on any Weaver — capture one, steer the other — and a Weaver severed from her ply has lost her witness: her ledger goes unaudited. **This is Wren's arc mechanism named:** recruited off the loom mid-ply and never unbound, she spent years as a Weaver with no one entitled to check her arithmetic — the Laleh falsification is what a ledger does with no ply to answer to. Asha performs ply-work without the bond (refusing to certify, demanding return rights), which is why her reforms read as a constitution replacing what the ply once provided. Folk echo: the crowd's *sons-of-Deiwos* twinning of Eli and Somchai is the world reading two strangers as a ply — the pattern is old enough that people recognize its shape before its name.
+
+**Formative Weaver bonds — LOCKED 2026-07-22:** bonds formed through shared houses, crossings, bodily care, confidences, families, obligations, and community reliance become embodied and socially distributed, making them difficult to break cleanly. Romantic separation does not erase routes, reflexes, debts, or recognition. This is durability, not destiny: no bond grants permanent touch, access, labor, forgiveness, or reunion. Unbinding transfers responsibilities without requiring permission to leave. Wren and Rowan separated without fully unbinding; Rowan returns on-page in Book II as a west-corridor liaison, and their romance renews under new terms. Wren/Rowan and Wren/Eli are concurrent bonds; Rowan/Eli is non-romantic. Governing line: **the bond remembers; the person still chooses.**
 
 **The Bene Gesserit analogy (named 2026-07-21).** The Weavers are the Bene Gesserit rotated to this book's thesis. **What carries over:** a distributed women's order whose power is training, tests, long memory, and initiation authority; adepts whose skills look mundane (attention, hospitality, memory, discretion, truth-telling, repair, refusal); presence beside power without holding office; continuity across generations that outlives states and wars; the name — they weave the *human* net that the living web needs (a clue fails when the human network that preserved it was broken, `18`). **And the program:** the Weavers are **matchmakers**. They arrange and bless marriages, apprenticeships, placements, godparenthoods, and house alliances across ports and cultures — the visible, respectable auntie-craft of the setting (Bengali *ghotok*, Chinese *mei-po* register). The program is **political, not genetic**: each match is a knot tied in the **Weavers' Net** (`40_concepts.md` § The Weavers' Net), and the accumulated net of kinship, obligation, and introduction is partly how the order retains power. **What is refused — and the refusal is the point:** no *breeding* program (a match serves the living, never a bloodline design), no engineered messiah, no Missionaria Protectiva. Planting prophecy to prepare ground is exactly the prophecy-as-bait weapon the factions use (`17` §7); an order that seeded legends would become one more owner of the future. Voice-style compelled obedience is coercion-as-courtesy (`47`) and belongs to Crane's register, never theirs. **The BG shadow is kept as the order's standing internal temptation** — already named above: the temptation to decide that protecting people permits manipulating them. The Weavers are, structurally, the Bene Gesserit fork that keeps refusing the manipulation road — and the drama of any Weaver house is whether it stays refused (no sides, only incentives: `15`). A house that falls to the temptation does not become evil; it becomes Crane with better food.
 
@@ -333,7 +346,7 @@ In Melaka, the local branch's continuity includes the locked queer privacy cultu
 | **I — Hearth & breach** | Planted song → Melaka; Custodians + Wren light-cross; breach (asphyxia); **overload + hunted** | Lead is bait; can't return to Pelangi Reach |
 | **II — Unstable sea** | Archive data; wrong/planted clue; growth anomaly; grounding | Lines break; maps suspect; **first witness site contact** (Ila midpoint) |
 | **III — Growth & choice** | Forming line; Ila stabilization; two teams fight; hesitation over **agricultural evidence**; Wren forces evacuation | Incomplete override; community knowledge points west |
-| **IV — Göbekli & loss** | Sealed-interface race; Aru/Daskar; Nephilot reveal; Emrys error | **Emrys taken**; partial read survives; romance **rupture** |
+| **IV — Göbekli & loss** | Sealed-interface race; Aru/Daskar; selection/control scar; Emrys error | **Emrys taken**; partial read survives; Nephilot identity remains unresolved for Book II; romance **rupture** |
 
 **Vol I agricultural-witness sequence (LOCKED #6):** Vietnam Mekong rice/aquaculture community — protect people, lose the cleanest clue; grower knowledge points onward toward the western corridor. **Vol I climax (LOCKED #7):** Göbekli Tepe — sealed-interface race; Emrys taken.
 
@@ -359,12 +372,13 @@ In Melaka, the local branch's continuity includes the locked queer privacy cultu
 - First public healing → rumor; *don't tell anyone* broken (Ch 18).
 - Family-role traps: child/parent, lover/destiny, teacher/father, caregiver/conscription.
 - National psion war visible as policy, conscription, desertion.
-- **Wren's prior-love instinct** flares (off-page reference); custody-vs-consent pressure now internal to Wren's dyad with Eli (`26`, `27`).
+- Wren's formative Rowan bond surfaces before Rowan's on-page return; custody-vs-consent pressure can no longer remain private history (`26`, `27`).
 
 ### Act III — The changing map *(Ch 19–21)*
 - **Dead zones named**; **Pömmelte massacre**; **broken-line church** (Ch 19).
-- **Anthea** full-res; Rollright / Men-an-Tol corridor (Ch 20).
-- **Cuno** full-res; **Alba → elf** name beat; England ambush; **relational Manual Override** + **Maren release** (Ch 21 — **Book II climax**).
+- **Rowan enters** through the living Weaver detour with an independent missing-person objective; formative Wren/Rowan bond becomes present conflict and renewed desire (Ch 19–20).
+- **Anthea** full-res; Rollright / Men-an-Tol corridor; Sídhe mound recovery; rowan before iron; Wren/Rowan romance renews after changed conduct and disclosure (Ch 20).
+- **Cuno** full-res; **Alba → elf** name beat; England ambush; **relational Manual Override** + **Maren release**; plural denouement names Wren/Rowan and Wren/Eli separately (Ch 21 — **Book II climax**).
 
 **Resolution:** partial Cuno/Derw + living network → Vol III; Albion likely but not confirmed until independent evidence agrees.
 
@@ -392,7 +406,7 @@ In Melaka, the local branch's continuity includes the locked queer privacy cultu
 - States/firms claim carrier ownership for "safety."
 - Healer deification pressure peaks; *son of a man* → *Son of Man* mutation.
 - Cuno geometry + Derw + mother's research align.
-- **Eli/Wren commitment** before climax (present-tense, not destiny).
+- Wren/Rowan romance renews before the climax; Eli/Wren commitment is separately named in the denouement, present-tense and nonexclusive.
 
 **Act turn:** Albion identified as likely endpoint.
 
@@ -432,8 +446,8 @@ In Melaka, the local branch's continuity includes the locked queer privacy cultu
 
 ### Romance plot (parallel spine)
 - I: recognition refused → forced alliance → sanctuary beats.
-- II: thaw tested; trade fork; Wren custody instinct (off-page prior love); commitment late II.
-- III: union tested; throne/destiny pressure; release thesis (`19`, `27`).
+- II: thaw tested; trade fork; Rowan returns; formative Wren/Rowan bond collides and renews; Wren discloses both bonds; separate nonexclusive commitments late II.
+- III: plural bonds tested by distance, jurisdiction, throne/destiny pressure, and release thesis (`19`, `27`).
 - **Drafting:** per-chapter **Romance cost** in `31`/`32`/`33`; five load-bearing beats `19` § *Romance cost audit* — architecture is hard; execution drifts easy without Ch 3/5/9 (I), **Ch 13 rupture (I)**, and Ch 17–19 (II) friction.
 - **M/I/A:** per-chapter **Mystery · Intrigue · Attraction** in `31`/`32`/`33` § *M/I/A audit*; hub `19` § *Female mystery, intrigue, and attraction* — through-line: mystery deepens → intrigue exits counterfeit → attraction matures past control.
 
@@ -463,8 +477,8 @@ Key hinges:
 | Vol I Mekong witness — hesitate between people and agricultural proof | Wren forces evacuation; Hạnh cooperative pays; Eli carries the unfinished choice |
 | Vol I Göbekli — choose people over complete record | Eli completes Manual Override; rupture; Emrys error on page; **Emrys taken** |
 | Vol II — trade fork | Wren third loyalty |
-| Vol II — Wren custody instinct | Wren's off-page prior love; consent internal to dyad |
-| Vol I–III — Eli/Wren dyad | M/I/A through-line on page (`19` § *M/I/A drafting audit*; `31`/`32`/`33` audits) |
+| Vol II — Wren custody instinct | Rowan's person-first recovery limit; Wren accepts correction before romantic renewal |
+| Vol II–III — plural V | Wren/Rowan + Wren/Eli named separately; Rowan/Eli non-romantic; formative durability never substitutes for consent |
 | Vol II — release mother | Eli grief + liberation |
 | Vol III — fatal freedom failure | Eli's judgment becomes answerable |
 | Vol III — Wren refusal | network not weaponized; love grants no jurisdiction |
