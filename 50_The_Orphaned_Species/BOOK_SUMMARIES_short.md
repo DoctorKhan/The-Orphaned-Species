@@ -75,11 +75,18 @@ MOVEMENT.
   party around registry traps at the cost of her own network access.
 - Anthea (Rollright/Men-an-Tol) and Cuno at Stonehenge clarify the formation;
   Alba/Albion/elf remains a subordinate inference before the ambush.
+- Three chalked circles begin appearing on gateposts — anti-registry cells
+  recognizing Eli as *Deiwos*, the fossil sky-word surfacing in every local
+  language at once. Shelter arrives unasked, carrying a name that also carries
+  the kneel; the England ambush escape is held open by chalk Eli has never seen.
 
 CLIMAX / ENDING (LOCKED — Stonehenge / Albion). The ambush forces the formation;
 Eli reaches Maren in a lucid, morally complicated reunion and releases her
-instead of preserving the tether. Awakening spreads. Eli and Wren commit quietly
-after the loss.
+instead of preserving the tether. Awakening spreads the only way it can: the
+freed web's ley lines begin reconnecting, and latent psions near waking grounds
+start to develop — unchosen, at their own rate. Eli and Wren commit quietly
+after the loss, with full knowledge that the road was smoothed (the Weaver
+blessing, discovered mid-volume): the bond is theirs.
 
 ENDING CHANGE. The group can hold the pressure without collapsing into worship
 or ownership. The awakened web begins to spread; the first awakening will
@@ -89,10 +96,15 @@ destabilize society.
 
 ## BOOK III — *THE LIVING WORLD*  (Volume III: Choice)
 
-PREMISE. After Maren's release and the first spreading awakening, the real test:
-can free communities protect people from dangerous capacity without turning
-capacity into an owned identity — without registry, cult, army-state, or
-permanent ruler?
+PREMISE. After Maren's release the awakening spreads geographically — ley lines
+reactivating, latents developing by proximity, threshold care scaling into
+critical infrastructure — which hands the registry argument its best evidence
+just as the machine dies. The real test: can free communities protect people
+from dangerous capacity without turning capacity into an owned identity —
+without registry, cult, army-state, or permanent ruler? Rumor has already
+twinned Eli and Somchai as the returned *sons of Deiwos* (sea-rescuer and
+healer); dark-line refuges that kept their grounds asleep for generations
+claim the right not to connect at all.
 
 NEW WAR. The San Francisco registry seizure and coordinated Eastern Mandate
 strikes ignite the **Awakening War**, a distinct conflict over who may register,
