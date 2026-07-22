@@ -942,3 +942,161 @@ The boat goes in with the tide.
 1. **Auditory misdirection.** Trained listeners orient to salient acoustic patterns; masking and decoy signals are standard field measures against directional listening. The "sonic misroute" extends real practice into the story's psionic register — a sensitive is misdirected the same way a microphone is.
 2. **Coastal smuggling economies.** Manifest-slot allocation, seasonal passes, and kin-based crew substitution reflect documented practices in Southeast Asian coastal trades; the specific institutions here are fictional composites.
 
+---
+
+## Chapter Five — The Field That Counts
+
+Emrys finds them on the second day in the channel town, exactly as promised, by the simple method of being impossible to miss: a foreigner in a many-pocketed vest arguing with a ferry clerk about the safe temperature of fish coolers, in Vietnamese that is fluent, antique, and apparently hilarious.
+
+He has the coolers, the nephew's cousin's goodwill, and a folder of paper that he spreads on a guesthouse floor the moment the door is shut.
+
+"District agricultural bulletins," he says, dealing them out like a fortune. "Farm complaints, yield reports, irrigation disputes. Your mother read these the way other people read the news. Twenty years I've kept the habit and mostly it's rice prices and someone's buffalo in someone's cassava." He flattens two sheets side by side. "These two are not buffalo."
+
+Both report rice growing wrong. The first is beautiful: a typed complaint from a district south of the crossing, growth anomaly in a perfect arc, coordinates attached, a photograph — paddy rice standing tall and dark in a curve like a drawn bow. The second is a mess: three lines from a cooperative extension officer upriver, handwritten, complaining that the *lúa* along the old boundary is "coming up drunk" and the sluice schedule isn't the cause and would the district please stop sending him forms.
+
+Eli's palms, held over the beautiful one, do the thing they always do: prickle with static that could mean anything. Wren reads the coordinates and has the boat provisioned in an hour.
+
+The beautiful one costs them a day, and the day is nearly worse than a day.
+
+The arc is there — you can see it from the dyke road, rice standing proud in a curve through two paddies. It is also three weeks old, and the grass on the bund beside it has been walked flat in a line no farmer walks, and there are fresh survey stakes with no district stamps, and a rental car has turned around twice at the top of the lane while they stood in the field being visible.
+
+"Photographed," Wren says, not loudly, taking Eli's elbow like a woman remarking on the weather. "The complaint was typed. Farmers here don't type. Walk, don't look up."
+
+On the boat, after, Emrys is the one who says it, because someone has to: "Bait. Good bait, built from a real anomaly — the arc's real, just dead. A line broke there, or moved." He looks at Eli over the glasses. "They know what kind of fish reads farm bulletins now. That's my fault. I taught her the method, and the method's in her file."
+
+"So the other one," Eli says. "The drunk rice."
+
+"The other one is three lines from a man who hates forms." Emrys beams. "Nobody baits a hook that badly. That's how you know it's food."
+
+---
+
+The extension officer's cooperative is four hours upriver, and it does not want them.
+
+It is not hostile; it is *busy*, which is a different and sturdier wall. Harvest is coming somewhere and going somewhere else, the sluices run on a schedule negotiated over forty years and two wars, and a foreigner, a silent young man, and a woman with courier's eyes are three more problems in a district that has learned what outside interest costs. The third team this monsoon, someone mutters near the co-op office, and the door of the conversation closes.
+
+It is the old grower who reopens it, near dusk, on the dyke — a man the others call Ông Bảy, in an army-surplus shirt gone the color of the river, who has been watching them the way Eli once watched the arch: because he cannot not.
+
+He does not ask who they are. He asks what they see.
+
+Eli looks out at the paddies going bronze in the last light, and the noise behind his hands offers him nothing but noise, and he does something that surprises even himself: he declines to perform.
+
+"Rice," he says. "I grew up around gardens, not paddies. I can see something's different in the far field — the color's wrong for the water level, I think. But I don't know your water. You do. I'd rather hear it than guess at it."
+
+Ông Bảy looks at him for a long moment. Behind them, Eli can feel Wren deciding not to intervene, and Emrys physically restraining himself from a lecture on soil conductivity, a struggle audible as a small cough.
+
+"The sluice schedule hasn't changed in six years," the old man says at last, in slow French-flavored English, turning to the fields. "Salinity's been read twice a week since my father did it. The drunk rice doesn't follow the water. It doesn't follow the salt. It doesn't follow the spray plane, the dioxin parcels — we know those to the meter, we have reason to — or the soil map." He lights a cigarette, and in the flare of it his eyes are amused and not young. "It follows nothing of ours. It comes up early, it comes up dark, and it runs in a band eighty meters wide, and my grandson can walk you the whole band, because we staked it in June. Not for science. It ruins the yield rows. We stake what ruins yield."
+
+"You mapped it," Emrys says, reverent.
+
+"We farm it," Ông Bảy corrects. "Mapping is what farming looks like to visitors."
+
+---
+
+The band, in the gray of the next dawn, is the first impossible thing Eli has seen with his whole community of the mind — noise, palms, eyes, and Emrys's needle all pointing the same direction at once.
+
+You walk the paddies and there it is: rice a hand taller, greener into blue, running in a smooth curve through five families' fields without regard for bunds, sluices, or property, the stakes marching alongside like a survey of something that was never surveyed. Dragonflies stack above it. The mud smells faintly, absurdly, of a storm that isn't coming.
+
+The plants are not writing anything. That is what strikes him, standing in it. There is no message, no symbol, nothing meant. The rice is just growing the way rice grows when it gets more of what rice wants — along a line where more of something *is*. The plants are the instrument. The land is reading something out, and the rice is the needle.
+
+Emrys walks the stakes with his boxes and hums his three tuneless notes and finally says the only cosmology anyone permits themselves: "It's continuous. Whatever it is, it doesn't stop at the last stake. Bearing runs south of west." He looks at his compass, then at nothing. "It's *forming*, boy. Old lines are old. This one is being born."
+
+Ông Bảy's grandson, who has walked the whole band with them saying little, points his chin along the bearing, toward the haze where the delta gives out.
+
+"The cooperative down there has it worse," he says. "Their whole west block came up drunk. They've been fighting about it since June." He grins, briefly, a boy's grin. "They think it's the government."
+
+---
+
+In the channel town market that evening, a street performer is working the ferry queue — a wiry man with a staff, spinning it through the old southern forms, coins in a hat, a wireless speaker playing something with too much bass.
+
+The staff goes up, hangs, is caught wrong deliberately — the stumble that makes the crowd laugh before the real trick lands — and Eli is fourteen again for the length of one breath: hot noodles in a paper bowl, a girl in a jester's motley dropping her dragon staff on purpose, her laugh under the Pai lights, the mountains folded shut around a boy who was still only broken and not yet hunted. Gone. The performer catches the staff, the crowd claps, the ferry is called.
+
+Wren has seen his face do whatever it did. She doesn't ask. Information is freight.
+
+But that night, on the boat, moored under palms with the market lights dying on the water, she is the one who says it — flat, hypothetical, an operational option laid on the table with the others.
+
+"We could drop it," she says. "The clue. All of it. The band'll still be here in a year; Emrys can sit on his numbers. There's a coast I know four borders from anyone's registry. You'd work boats. I'd — " she shrugs at the dark — "learn to cook, possibly. Statistically someone in a crew cooks."
+
+And for three breaths it is fully real, the way the beautiful bait-field was real: he can see it, the boats, the years, the unbothered salt-white town of it, and nothing in him wants anything else.
+
+"Asha's route has eleven people queued on it," Wren says then, to the water, in the same flat voice, before he has answered. "And the man in the van knew my face. And your question doesn't die just because you stop feeding it. It waits." She stands up, collects his empty cup with hers, and the exit closes as quietly as it opened. "Sleep. We move before the drones do."
+
+He lies awake listening to the river and does not know whether what she just did was refuse the offer for both of them, or make it once so that neither of them would have to make it again. Either way, he understands the price sheet a little better: her people. Both hands full.
+
+The Custodians reach the district office the next morning, a day behind, in a white car nobody typed a complaint about. By then the boat is south of west, running the bearing.
+
+---
+
+*On the record*
+
+1. **Plants as instrumentation.** Vegetation responds measurably to soil conductivity, moisture gradients, and subsurface structure — crop marks over buried archaeology are a standard survey phenomenon. The "forming line" extends real plant-as-detector logic into the story's register; no botanical claim about message-bearing growth is intended.
+
+---
+
+## Chapter Six — First Witness
+
+The stone stands where two channels meet, and the land has known about it far longer than any of them.
+
+It is not much: waist-high, gray going green at the waterline, planted at the confluence like a tooth, older than the paddies and set square to nothing. But the boat path bends to keep a respectful distance without anyone steering, and there is a shelf of poured concrete beside it that someone has renewed within the year, holding a jar of sand, spent incense, two oranges gone soft, and a plastic cup of rice wine with a lid to keep the rain out.
+
+"Đá mượn giọng," the grandson says from the tiller, when he sees where Eli is looking. He searches for it in English, gives up halfway. "The stone that — borrows. Borrows voices." He shrugs at his own grandmother's words. "You can talk to it in the day. You don't lend it your voice at night. That's all. Old people's rule."
+
+Emrys is already unpacking a cooler, delighted beyond decency.
+
+Eli has been feeling it for half a kilometer. Not the mixed static — a *pull*, low and particular, the difference between a crowd's roar and one voice saying a name in it. His hands have gone quiet the way they go quiet over a clean splice. The noise has a direction here. The second surface of the world has a *door* in it.
+
+"Numbers first," Emrys says, wiring the stone with the tenderness of a nurse. "Then, if you do the thing — and I can see you're going to do the thing — you do it sitting down, fed, and holding the count. This is not a spring you drink standing up. The site's live; you're live; and exhaustion is how live things drown."
+
+"How long do we have?" Wren asks, from the boat, watching the sky.
+
+"The drones ran the main channel at noon," the grandson says. "They're lazy. They run it again at dusk."
+
+Dusk, then. A few hours, at a stone, to try the thing he has been circling since Melaka without a word for it.
+
+He sits on the concrete shelf. He does the breath before, the whole temple count, and the cup trick with a mug of the grandson's thermos tea, and when he is one held breath wide and steady, he stops standing in front of the door and lets it be open.
+
+---
+
+Hands.
+
+That is the first thing — not light, not voices: *hands*, wet with something warm, and the knowledge in them. Hands that read a fever through a wall of a belly; hands that know which side the blood is coming from before the cloth shows it; small brown hands, cracked at the knuckles, older than their years, moving with an economy that is not his and is not anyone's he has ever met and is completely, unmistakably *someone's*.
+
+A birth. He is at a birth. A lamp burning ghee, rain like gravel on a woven roof, a woman's long pain and another woman — the hands' owner — working at the center of it, and he is not watching her, he is *standing in her*, the way at full clarity there is no outside: her aching back, her counted breath, the fever she can feel rising off the mother like heat off a road, and her certainty, arriving through her palms, of exactly where the child's head lies and exactly what the cord is doing and exactly how much time the fever has left them, none of it guessed, all of it *read* —
+
+— and her fear, which is not of the birth. Of being seen to know. Of the men on the porch and what they call women who know where blood is before it shows. She reads bodies the way he reads junctions, and she has spent her whole life doing it behind two veils: the veil they make her wear, and the veil of pretending her knowledge is luck.
+
+The child comes. The fever breaks two days later — he lives that too, compressed, the way dreams compress: her wrists in cold river water, her count, her hands on the mother's belly reading the heat going down like floodwater falling stake by stake.
+
+Her name arrives last, the way names do in dreams, worn smooth: *Ila.*
+
+Then the site's charge thins — or his does — and the thread pays out and out and goes to noise, and he is torn back into his own hands, his own spine, a concrete shelf by a confluence with incense ash beside his knee and tears all over his face, grieving with his entire body a woman he has never met, who read fevers through her palms in some green river country three lifetimes of countries away, and who is dead, and was real, and is *gone* — not into him, not his, just gone, the way real people go.
+
+The love has nowhere to be set down. That is what the grief is, he understands, sitting very still while the light goes long. Whatever the stone gave him, it did not give him her. It gave him the *shape* of her, one afternoon's width of a whole life, and the shape has edges, and the edges say: this was a person, and you are not her, and you may not keep her.
+
+"Ila," he says out loud, once, because someone in this century should.
+
+Emrys, ten meters off with his needle and his held breath, writes down the time and does not ask. Numbers first. Grief is not a number.
+
+---
+
+Wren watched the whole thing from the boat.
+
+He understands later — days later, assembling it — what she saw: Eli sitting at a shrine stone with his eyes shut, going somewhere she could not follow or verify, and coming back weeping for a woman, saying a woman's name, tender and wrecked over someone who is not in the world. And he sees the conclusion land in her — he watches it happen that same evening in the set of her shoulders at the tiller — the courier arithmetic filing him under a heading she has seen before: *another one who wants the dead more than the living. Another man in love with a destiny.*
+
+She goes colder by exactly three degrees, and is flawless about it, which is how he knows.
+
+He does not explain. He tries, once, and gets four words in — "She was a midwife—" — and hears how it sounds, and stops. There is no sentence he can build yet that does not sound like the thing she thinks it is. The truth needs a vocabulary he does not have: that the stone did not give him a possession or a promise; it gave him an *apprenticeship* and a funeral, both at once, and what he carries away from the confluence is not *mine* but *taught* — the first thing the dead have ever handed him that his own body could verify.
+
+Because that is the revelation, under the grief, and it survives even Wren's cold: he can learn from the dead without owning them. Ila's hands knew things his hands have been trying to know since Melaka — the reading of heat, the count under pressure, knowledge worn like a callus, hidden like contraband. And her record, the afternoon's width of it, held one more thing, practical as a bearing: the *kind* of place her knowing lived in. A planted community on living water. A line coming up through worked ground, and people on it who learned to read their fields the way she read bodies.
+
+A place like the cooperative downriver, where the whole west block has come up drunk, and the farmers have been fighting about it since June.
+
+The drones run the channel at dusk, lazy and on schedule. By then the boat is away south, the stone is alone with its oranges, and somewhere behind Eli's sternum a dead woman's economy of motion is settling into his hands like a language beginning, and the woman at the tiller is not looking at him, all the way down the dark river not looking at him, her people and her ledgers between them like freight.
+
+---
+
+*On the record*
+
+1. **Traditional birth attendants.** Palpation-based fetal positioning, fever management, and the social peril of women's medical knowledge in patriarchal settings are documented across South Asian histories of midwifery. Ila's diagnostic touch is the story's amplification of real, practiced, dangerous expertise.
+
+
+
