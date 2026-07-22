@@ -1487,7 +1487,7 @@ The site gives him what it chooses to, at the end, unearned: as the factions' ge
 
 Aru: hands on this stone when this stone was young — a carver, spiral-eyed mark under his palm, and around him not slaves, not a payroll: a *gathering* — hill full of firelight, strangers arriving with the harvest hunger, porridge in troughs and something laughing and fermented in the small vessels, cooperation bought with feast and wonder, massive stones walked upright by a hundred hands that did not understand and did not need to — an alliance, wary and real, between those who knew what the circles were for and those who were fed and awed and glad of the work. And in Aru, under the craft-joy: the first cold thread of noticing — that the ones who knew had begun to *count*, and that some of the marks he was made to carve were not for wonder. They were for selection.
 
-Daskar: later, so much later — the same circles old, the fires ordered now, and Daskar in the dark of a decided night, helping bury the center. Fill carried by basket, by hundreds, in silence, a lifetime of it: the instrument the gathering had raised being put to sleep by the grandchildren of the raisers, *on purpose*, the way you decommission what can no longer be kept safe — because the counting men were coming, and something in Daskar's keeping — a name he holds like warmth against the dark, *Eshe*, *Eshe* — could not be allowed to pass into counted hands. The center going silent under the fill. Grief and craft in the same motion. The first refusal, executed in earth.
+Daskar: later, so much later — the same circles old, the fires ordered now, and Daskar in the dark of a decided night, helping bury the center. Fill carried by basket, by hundreds, in silence, a lifetime of it: the instrument the gathering had raised being put to sleep by the grandchildren of the raisers, *on purpose*, the way you decommission what can no longer be kept safe — because the counting men were coming, and something in Daskar's keeping — a name he holds like warmth against the dark, *Eshe*, *Eshe* — could not be allowed to pass into counted hands. The center going silent under the fill. Grief and craft in the same motion. The first great act of keeping, executed in earth.
 
 Then the threads pay out, and the hill is just a hill full of soldiers, and the window is over.
 
@@ -1507,9 +1507,9 @@ They go west out of Şanlıurfa two days later, on human doors, with half a plaq
 
 Eli sits apart, holds the count, and keeps, in the cold operational silence where a friendship was, the two things Göbekli actually gave him.
 
-The engine can be refused. He knows, now, in the body, where the switch is.
+He can hear the engine now without becoming it. Nine minutes with the charge at full song, and his hands stayed his — and what his hands did with the minutes was carry people. That is the skill. Not the door, not the record, not the wanting or the not-wanting of them: knowing, with the engine roaring, what his hands are *for*. It is the first thing he has ever owned that no one can confiscate.
 
-And the first thing the first temple ever taught anyone: some doors are not failed by the people who choose not to open them.
+And the oldest lesson in the oldest hills, learned by basket-load in the dark: the center was not lost when Daskar's people buried it. It was kept. There is a way of holding a thing that looks, from the outside, like walking away — and the fill held for twelve thousand years, and the door is still there, and the counting men never got it. Keeping was the first craft. Everything since is commentary.
 
 ---
 
