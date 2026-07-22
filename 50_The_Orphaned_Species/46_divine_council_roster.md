@@ -164,7 +164,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | *Sarim* register surfaces | Vol II **Ch 16** | Mesopotamian leg — Daniel-style "princes" in dispute; not yet winged |
 | Archangel iconography at wrong end | Vol II **Ch 20** | Broken-line church — Michael/Gabriel as **miswired guardians** |
 | Gods → angels → map | Vol III **Ch 25** | Roster in stone + liturgy; Deut 32 / Psalm 82 as **evidence**, not sermon |
-| Refuse messenger/son title | Vol II **Ch 18** (merged into the single refusal — LOCKED 2026-07-21) | Healer — anti-Gabriel, anti-*Son of Man* in one motion; no second refusal scene — Vol III shows the title withered (`15` § Refusal is never terminal) |
+| Refuse messenger/son title | Vol II **Ch 18** (merged into the single scene — LOCKED 2026-07-21) | Healer — anti-Gabriel, anti-*Son of Man* in one motion; in Vol III the title has simply withered |
 | "Archangel Protocol" as war language | Vol III **Ch 23–28** | Factions claim **portions** via angel names |
 
 **Status:** pinned in plot layer; **not yet in `MANUSCRIPT.md` prose.**

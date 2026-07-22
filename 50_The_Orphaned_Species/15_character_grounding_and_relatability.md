@@ -50,23 +50,6 @@ In a world where everyone acts from incentives, **honesty is expensive** — car
 - **Honest ≠ oracle.** Elders can be honestly wrong, honest about the wrong thing, or honest and ignored. No wisdom downloads, no mystical crones (Timah/Salmah guardrails hold). What they give Eli is the one thing his arc lacks: people who tell him **what they saw**, not what he *is*. Everyone else in the book tells Eli what he is.
 - **Stopping to listen is Manual Override practiced socially.** The pause — going to the elder, sitting down, letting them finish — is the anti-autopilot gesture in miniature. Scenes where a protagonist skips this pause should pay for it.
 
-## Refusal is never terminal **(LOCKED, Jul 2026)**
-
-The thesis is anti-capture, so every arc, locked separately across docs and sessions, independently reached for the same verb: *refuse* — the throne, the install, the crown, the title, the access, the reconciliation. Individually justified; stacked, they make a story whose every payoff is a "no," and a protagonist defined by what he won't do.
-
-**The rule:**
-
-> **No refusal may be a terminal beat. Every "no" is the visible edge of a "yes" — and the yes gets the screen time.** A refusal scene ends on what the character does *instead*, in the same scene or the next.
-
-Applications (the yes already exists in canon — foreground it):
-
-- **Eli** refuses the throne *because his hands are busy* — spreading the practice that makes the throne worthless, tending the garden, keeping the ordinary afternoon. The refusal is tactical; the teaching is the climax.
-- **Somchai** refuses once (Vol II Ch 18 — the demanded miracle and the messenger/*Son-of-Man* crown in one motion), then **goes back to triage**. There is **no second refusal scene in Vol III**: there, the title has *withered* because the consent-based practice he built needs no crown — a tired man eating while an incident is handled by ordinary procedure is the affirmative completion of the Gabriel arc.
-- **Wren** re-chooses Eli with full knowledge of the Weaver blessing — the beat lands on the choosing, not on refusing the matchmakers. Her Vol III withholding of network access protects the threshold house she *built*; the yes is the institution.
-- **The group's** refusal of command hierarchy is the *means* of the thing they do: differentiated coherence that wins.
-
-**Permitted exception — the cost register:** a bare, unresolved "no" may stand when the book is refusing cheap absolution (Nura denying Wren personal forgiveness; the Ch 25 survivor declining symbolic reconciliation). Those are costs carried, not climax beats — keep them rare, minor-key, and never the shape of a volume's ending.
-
 ## Complex pasts — not only runs
 
 Major characters should feel like they **had lives before the war**, not like they were issued with a plot function. Extraction networks, registries, descents, and psion teams are **present pressure** — not the whole biography.
