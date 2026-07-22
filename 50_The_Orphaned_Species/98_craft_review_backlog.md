@@ -91,9 +91,9 @@
 
 **Why it matters.** Vol II is the structural weak point of most trilogies; without a clock it sags.
 
-**Evidence.** `99` #7 (formerly open); `31` Ch 17; `99` #6.
+**Evidence.** `99` #7 (formerly open); `31` Ch 13; `99` #6.
 
-**Resolution (LOCKED 2026-07-12):** The **sealed-interface race at Göbekli** — permit window, rival consortium, Nephilot reveal, Emrys error — is **Volume I climax** (`31` Ch 17; `99` #6–#7). Vol II opens post-Göbekli with Emrys absent; its clock is **mother tether + Europe corridor + Maren release** (`32` Ch 15–21).
+**Resolution (LOCKED 2026-07-12):** The **sealed-interface race at Göbekli** — permit window, rival consortium, Nephilot reveal, Emrys error — is **Volume I climax** (`31` Ch 13; `99` #6–#7). Vol II opens post-Göbekli with Emrys absent; its clock is **mother tether + Europe corridor + Maren release** (`32` Ch 15–21).
 
 **Related:** `99` #7, #9 (Emrys's error — Vol I Göbekli).
 
@@ -107,7 +107,7 @@
 - ☑ **Women / Hollywood "girl power" (LOCKED).** Negative templates + positive power registers. Hub: `15` § *Women characters*.
 - ☑ **Romance cost audit (LOCKED — drafting).** Per-chapter flags in `31`/`32`/`33`; five load-bearing beats + drift risks in `19` § *Romance cost audit*; anti-pattern in `27`.
 - ☑ **Female mystery, intrigue, attraction (LOCKED).** Wren register without femme-fatale: `19` § *Female mystery…* (through-line + § *M/I/A drafting audit*); `26` Wren guardrails; `15` Wren row. **Per-chapter M/I/A** wired in `31`/`32`/`33` § *M/I/A audit* (Vol I–III). Craft rule #7 in `40_concepts.md`; checklist `27` items 5–6; locked row `28`.
-- ☑ **H4 STALE SPINE — RESOLVED (2026-07-13).** Göbekli + Emrys-taken = **Vol I climax** (`31` Ch 17; `99` #6–#7). Mekong = agricultural witness (Ch 9–14), not climax. Vol II opens post-Göbekli; Stonehenge/Albion + Maren release = Vol II end (`32` Ch 21). Synced across `29`, `31`, `32`, `05`, `19`, `37`, `SOURCE_TO_TRILOGY_MAP`, `00_NARRATIVE_STRUCTURE`.
+- ☑ **H4 STALE SPINE — RESOLVED (2026-07-15).** Göbekli + Emrys-taken = **Vol I climax** (`31` Ch 13; `99` #6–#7). Mekong = agricultural witness (Ch 5–10), not climax. The Melaka breach now closes Ch 2. Vol II opens post-Göbekli; Stonehenge/Albion + Maren release = Vol II end (`32` Ch 21). Synced across `29`, `31`, `32`, `05`, `19`, `37`, `SOURCE_TO_TRILOGY_MAP`, `00_NARRATIVE_STRUCTURE`.
 
 ## One-line summary
 

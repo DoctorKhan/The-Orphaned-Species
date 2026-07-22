@@ -4,6 +4,14 @@
 
 ## Governing rule
 
+**METAPHYSICAL PREMISE — LOCKED 2026-07-15:** Earth and Heaven have real intentions. Earth is the planetary life-process; Heaven is the energetic/informational influence of planets, stars, and ultimately extraterrestrial intelligences. Panspermia is literal: life and life-technology seed Earth from beyond and are reshaped through Earth's biology. The Tree of Knowledge, civilization's blueprint, and the Drift are not accidental patterns invented by frightened humans. The intended resolution is that technological intelligence matures into understanding of **life-technology**, so humanity no longer fears the Nephilot/elven line and repeats the ancient extermination of fellow persons. Providence establishes direction and pressure without guaranteeing obedience or outcome: human beings can destroy themselves, counterfeit the plan through domination, or bring the two trees into balance.
+
+**Chosen-integrator premise — LOCKED 2026-07-15:** Eli is genuinely chosen by this Earth–Heaven design to integrate the Two Trees. The choice selects a responsibility, not ownership: Cuno, Derw, Anthea, Maren, Wren, and other people preserve indispensable fragments and practices. Eli must assemble and enact their meaning, and remains free to fulfill, counterfeit, or reject the calling.
+
+**Melam / Ni vocabulary — LOCKED 2026-07-16:** Use **melam** narrowly for the external radiance or field-pressure emitted by a powerful being, artifact, charged ground, or system. Use **ni** (with the historical sign/reading kept under scholarly review) for the embodied awe, fear, or reverent shock that melam provokes and institutions can condition into obedience. Neither replaces **life-energy** (the medium) or **surge** (Eli's present-day descriptive term for an involuntary resonance response). A character may mistake ni for a command; Manual Override begins when Eli feels it without obeying it.
+
+**Elven persecution mechanism — LOCKED 2026-07-16:** The Nephilot/elven line carried stronger melam because of its proximity to life-technology. Human bodies encountered that radiance as ni—fear, awe, disorientation, involuntary submission, or the sense that the being was overwhelmingly significant. Humans first misread ni as proof of divinity, danger, or a right to rule; priests and rulers then organized the response into doctrine, breeding, screening, and extermination. Ni is the emotional trigger, not the whole cause: political control and resource interests scale the fear into persecution. The ancient error was treating ni as a command and difference as a threat. The mature reversal is to feel awe without kneeling, fear without exterminating, and melam without granting ownership.
+
 The present plot can recover the past through **objects and stories without repeatedly going back in time**. An artifact may produce:
 
 - a scholarly translation;
@@ -14,7 +22,49 @@ The present plot can recover the past through **objects and stories without repe
 
 Those accounts should disagree. The characters remain in the present, test the versions against one another, and act on incomplete conclusions. A full historical descent is optional and must earn its place through dramatic necessity; finding an artifact never triggers one automatically.
 
+**Descent count is not pre-set — LOCKED 2026-07-21.** There is **no budgeted number of historical descents**, no per-volume quota, and no requirement that each recurring practitioner receive one. The artifact-and-story chain is the **primary** engine of past-recovery; full immersion is the **exception**, fired only where `36_the_living_web.md` §8 permits (charged ground + present pressure + a change to route, pursuit, or relationship in that same scene). Consequences of holding this line:
+
+- **Drafting order:** write the present-day chain first and let descents be *demanded* by scenes that cannot land otherwise. A descent scheduled in advance is a descent that will need justification later.
+- **Asymmetry is correct.** One practitioner may get a long lived immersion, another a single disputed translation and a stranger's account, another only a habit surviving in someone alive. This *is* the deep-time texture — transmission through partial hands — not an imbalance to fix.
+- **Unequal is also cheaper.** Each descent costs pace, POV, and the reader's grip on the thriller; the artifact chain costs a scene. The ratio should reflect that.
+- **What must stay constant is the felt cost**, not the frequency: contact is grief and apprenticeship, never retrieval.
+
 Artifacts are not a quest inventory. Each object must change the route, divide the group, expose a false interpretation, or force a costly choice. Some should be authentic ancient objects, some later copies, some missing fragments known only from scans or stories, and at least one a planted or misidentified object. The protagonists should rarely possess a famous museum object; photographs, squeezes, casts, translations, private fragments, stolen metadata, and displaced custodians are usually more plausible.
+
+**Rootbook / Word-Web status — LOCKED 2026-07-21:** Maren's encoded comparative field journal is the interpretive matrix running beside this chain, not a sixth cosmological artifact or a master itinerary. Regular linguistic transformations open bounded passages, while artifacts, living speakers, communities, and repeatable field observations corroborate or correct them. The journal is distributed evidence and an unfinished relationship with Maren, never a self-authenticating key. Full design: `52_the_rootbook_word_web.md`.
+
+## Placement and visibility architecture — LOCKED 2026-07-15
+
+Artifacts operate on three levels:
+
+1. **Causal artifacts** are handled by characters and change the route, divide the group, or force a decision.
+2. **Contested artifacts** arrive as fragments, scans, translations, or rival readings; characters act on incomplete evidence.
+3. **Deep-lore artifacts** are understood most fully by the reader through the *Elmarillion*. Characters never possess the complete synthesis. The mystery is structured incompleteness, not arbitrary concealment.
+
+### Volume I — The Breach
+
+- **Three-Circles Tablet:** physical Meridian City encounter; gives Eli the first body/family/civilization diagnostic grammar.
+- **Double-Fork Stone:** held until Book III with the dragon ghost. Books I–II seed only partial branch/guardian motifs and a living-person Nephilot clue; the full diagram makes the parallel Earth/Heaven bridge-species design a late cosmological reveal.
+- **Göbekli snake/tree/bird plaquette:** three stacked zoom levels (terrestrial / guardian / cosmological); characters see a partial diagram at most; the reader may hold the full bridge reading before Book III certifies panspermia.
+- **King List:** declining pre-Flood duration and the memory of lost immortality; characters debate chronology, myth, biology, and grief.
+- **Adapa tablet:** knowledge turned into obedience; the psychological control mechanism is legible to characters, but its place in the larger plan remains hidden.
+- **Inana and Enki / the Arta:** civilization's intentional blueprint and transferable order; characters recognize designed infrastructure without yet seeing Heaven's full purpose.
+
+### Volume II — The Descent
+
+- **Enheduanna's Inanna hymns:** authored voice inside political theology; characters encounter a displaced speaker, while the reader sees the warning about who interprets and owns sacred authority.
+- **Inana's Descent:** descent, surrender, accurate resonance, and restoration; Somchai embodies the method while Eli initially mistakes it for a code.
+- **Enki and Ninmah:** every person has purpose even when no institution can use or classify them; the story seeds the Book III refugee ethic.
+- **Timna serpent / Nehushtan:** a paired historical argument—serpent inside the making, serpent later erased by centralizing authority.
+- **Cuno–Derw object:** incomplete geometry, rhythm, body positions, and transmission; the characters must recreate it collectively and never receive a complete manual.
+
+### Volume III — The Living World
+
+- **Tablet of Destinies fragments:** competing claims about who may authorize, name, or command the system; Crane and Sol weaponize opposite readings.
+- **Atrahasis and catastrophe evidence:** labor, extraction, reset, and survival as civic evidence rather than a new quest object.
+- **Unified two-tree image:** a partial final recognition that Knowledge and Life were always intended to converge; it may remain reader-facing rather than becoming a collectible solution.
+
+The *Elmarillion* may state the deep synthesis unavailable to the characters: Earth is the intentional planetary life-process; Heaven is the external celestial/alien influence; panspermia produces humans and dragons through Earth-compatible substrates while Earth independently produces chimpanzees and birds; humanity and dragons are parallel bridge species; the Drift is purposeful pressure toward Tree-of-Life integration. The novel itself reveals this only through converging artifacts, contradictory interpretations, and moral choices.
 
 ## Artifact zero — the Double-Fork Stone
 
@@ -38,7 +88,7 @@ The characters initially mistake the carving for a divine genealogy, heraldic em
 
 The artifact tells a story central to the coexistence test: humanity is one branch among branches, not the summit of creation. Birds, chimpanzees, dragons, and humans represent different survivals and relationships to the field. Difference does not establish a right to rule or exterminate.
 
-Discovery-order note: **artifact zero** means oldest/deepest in cosmological pressure, not first encountered in the thriller. The preferred reader-facing order is to encounter the **Three-Circles Tablet** first, because it helps Eli survive the body/autopilot problem, then use the **Double-Fork Stone** as the second major image that opens the biological/dragon question.
+Discovery-order note: **artifact zero** means oldest/deepest in cosmological pressure, not first encountered in the thriller. The preferred reader-facing order is Three-Circles first, partial tree/guardian motifs next, and the **Double-Fork Stone only in Book III**, where it arrives with the dragon ghost and reinterprets the earlier evidence.
 
 ### Guardrails
 
@@ -52,13 +102,13 @@ Discovery-order note: **artifact zero** means oldest/deepest in cosmological pre
 
 | Artifact or story-object | Historical status | Story it carries | Present plot function |
 |---|---|---|---|
-| **Double-Fork Stone** | Fictional story artifact | Dragon/bird and human/chimpanzee as sibling divergences; humanity is not the apex | Establishes the method: validate the readable lower fork, then investigate the impossible upper fork |
+| **Double-Fork Stone** | Fictional story artifact, withheld until Book III | Earth-produced bird/chimpanzee branches beside Heaven/panspermic dragon/human branches | Late biological/cosmological reveal; validates the parallel bridge-species design without making dragons an early taxonomy clue |
 | **Three-Circles Tablet** | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator | Gives the trilogy's practice model a material image while forcing the group to test whether it is cosmology, social diagram, ritual plan, or later forgery |
-| **Göbekli snake/tree/bird plaquette** | Real Göbekli Tepe small find reported in excavation/public outreach material; exact publication, inventory number, and image rights to verify before use | Three carved symbols that popular writers read as snake, tree, and bird; in canon they become a disputed domain diagram: tree/axis, serpent-Apkallu guardians, bird-Nephilim guardians | Explains that the old guardian system split by domain/function around the living route; becomes the early key for later Tree-of-Life / sacred-tree scenes with paired or surrounding guardians |
-| **Sumerian King List / Weld-Blundell tradition** | Real textual tradition and surviving manuscripts | Kingship descends from heaven, moves between cities, breaks at the Flood, then descends again | Reveals that the control memory concerns an **office**, not a sacred bloodline; points toward Eridu and the reset story |
+| **Göbekli snake/tree/bird plaquette** | Real Göbekli Tepe small find reported in excavation/public outreach material; exact publication, inventory number, and image rights to verify before use | Three carved symbols (snake, tree, bird): Earth's earliest surviving **bridge diagram** — tree = living interface where Heaven meets Earth; snake and bird = the two transmission functions later myth turned into enemies. Three stacked readings: terrestrial (low / Edin / high), guardian (under-route / living route / sky-route), cosmological (Earth-depth / bridge / Heaven-seed). See § *Göbekli plaquette* | Pre-split photograph before theology compresses to Eden, guardian split, or Heaven/Earth covenant; early key for Tree-of-Life imagery; Book I cap — no on-page panspermia certification |
+| **Sumerian King List / Weld-Blundell tradition** | Real textual tradition and surviving manuscripts | Before the Flood, reigns last impossibly long; afterward durations contract toward recognizably human lifespans. The sequence preserves a cultural memory of lost immortality, rhyming with the long lives and later decline of biblical patriarchs. | Makes mortality a historical loss rather than a purely biological fact. It opens the question of whether the long durations encode real lifespan, dynastic exaggeration, calendrical confusion, or grief transformed into sacred chronology; it does not prove humans were once immortal. |
 | **Adapa tablet with a lacuna** | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | Establishes wrong knowledge as a control technology and makes the absent line itself a plot problem rather than a footnote |
-| **Enki and Ninmah role-fragment** | Real Sumerian literary tradition with fragmentary lines; exact object in the novel may be a copy, photo, or disputed reconstruction | Ninmah creates impaired humans; Enki assigns them fates, bread, and social positions, then creates Umul, whom Ninmah cannot place | Forces the group to ask whether civilization's compassion is inclusion, useful assignment, bureaucratic containment, or ownership by role |
-| **Inana and Enki / the me** | Real Sumerian literary tradition | Civilization-functions are loaded into the Boat of Heaven and transferred from Eridu to Uruk | Shows civilization as **transferable knowledge**: offices, arts, laws, desires, weapons, and rituals can be moved, stolen, installed, or misused |
+| **Enki and Ninmah role-fragment** | Real Sumerian literary tradition with fragmentary lines; exact object in the novel may be a copy, photo, or disputed reconstruction | Ninmah creates people whose bodies or capacities do not fit the expected pattern; Enki's encounter with Umul exposes the limits of a society that can only value what it can place | Establishes that everyone has purpose without requiring usefulness to an institution. The story challenges the group's urge to sort people into safe, dangerous, useful, or disposable categories; value is discovered through relationship, not assigned by authority |
+| **Inana and Enki / the Arta** | Real Sumerian literary tradition | Civilization-functions are loaded into the Boat of Heaven and transferred from Eridu to Uruk | Shows civilization as **transferable order**: offices, arts, laws, desires, weapons, and rituals can be moved, stolen, installed, or misused |
 | **Enheduanna's Inanna hymns** | Real Sumerian literary tradition attributed to Enheduanna; authorship and transmission require caveats because surviving manuscripts are later copies | A named priestess-poet invokes Inanna's overwhelming power while speaking from exile, institutional displacement, and political danger | Gives the trilogy a historical model for authored voice, sacred rhetoric, female religious authority, and the danger of hymn becoming imperial/theological technology |
 | **Inana's Descent / life-giving plant and water** | Real Sumerian literary tradition | Liminal beings mirror Ereshkigal's pain, then restore Inana with life-giving plant and water | Gives the healer arc an ancient rhyme: restoration through resonance, attention, and correct intervention rather than domination |
 | **Enki and the World Order** | Real Sumerian literary tradition | Enki assigns offices, lands, crafts, borders, fertility, writing, and social functions; Inana contests her allocation | Provides the macro-version of the role-fragment: civilization as a function-allocation machine |
@@ -112,7 +162,7 @@ These two objects work as a **pair** and belong together in the chain, because b
 
 Together the two objects stage a reveal by sequence: **Timna** shows the serpent *inside* the making; **Nehushtan** shows a later king cutting that same serpent *out* — the same figure honored at the furnace and smashed in the temple, generations apart. A custodian can hold the Timna story; a rival faction can cite Hezekiah's reform as pious purification rather than erasure; the disagreement moves the plot without settling whether the snake was god, guardian, or idol.
 
-## The Three-Circles Tablet — the dot in the center
+## The Three-Circles Tablet — stress propagation from the center outward
 
 Add a small clay tablet or tablet-fragment showing **three concentric circles with a dot at the center**. The diagram should be simple enough to be read incorrectly: a map, astronomical sign, temple plan, womb image, seal design, social rank diagram, or esoteric school exercise.
 
@@ -123,65 +173,150 @@ Add a small clay tablet or tablet-fragment showing **three concentric circles wi
 - middle circle = Family, kinship, care, attachment, inheritance, repair, elder transmission, and conditioning;
 - outer circle = Civilization, institutions, law, temple, state, market, army, and social myth.
 
-The diagram matters because it makes the Three Circles visible without making them a lecture. A character can first misread it as a cosmological map; another can recognize that the motion runs outward from the center. Genuine repair radiates through all three rings; counterfeit awakening leaks outward or breaks at a boundary.
+The diagram models **stress propagation** outward from the center. Charges deposit in the body and move outward through the containment rings. Meditation and practice are interventions at the body level before stress propagates. If the body cannot regulate charges, the person acts out on autopilot, transmitting stress to the family ring. If the family ring cannot absorb it, stress reaches civilization as purge, war, registry, or atomization.
+
+The diagram matters because it makes the propagation visible without making it a lecture. A character can first misread it as a cosmological map; another can recognize that the motion runs outward from the center. Genuine repair radiates through all three rings; counterfeit awakening leaks outward or breaks at a boundary.
 
 The later, sharper reading is that the **middle ring is a mediator**. Healthy family, extended kinship, household memory, elders, lovers, siblings, and local obligations stand between the naked individual and the full weight of civilization. Social atomization is therefore not merely loneliness. It is the collapse or thinning of the middle circle, leaving the isolated body exposed directly to state, market, temple, institution, algorithm, registry, or army. At some point Eli should learn this as a practical realization, not a lecture: the control system does not need to defeat every person if it can first break the ring that would have held them.
 
+**Autopilot indicator:** when the conscious operator at the center is absent or suppressed, the rings continue executing their conditioned rules — the machine runs without the pilot. The diagram encodes this visually: the center dot is positioned apart from the ring motion, making the absence of conscious control readable as absence of the dot, not as damage to the rings themselves.
+
 Guardrail: unless a real archaeological analogue is identified, this is a fictional or disputed object inside the novel. It should not prove that ancient Sumerians taught the exact modern framework. It should function as a story artifact: an old diagram that rhymes with the framework and forces the characters to decide whether its use is practical, symbolic, or forged.
 
-## Göbekli snake/tree/bird plaquette — split guardians and domains
+**Series-wide placement:**
+
+- **Book I — The Breach (body ring):** Eli encounters the tablet in the Meridian City archive. He is post-breach, shotgun charges through an open receiver, his body running without him. The tablet lands as a diagram he cannot yet read — the reader gets the diagnostic vocabulary before Eli is ready to use it. Physical encounter; the object itself, not a photo or scan.
+- **Book II — The Descent (middle ring):** The tablet re-enters as a re-read, not a new object. Eli now has lived evidence of what the middle ring does when it holds (Somchai's community) and what it costs when it breaks (Maren's loss, Pelangi Reach purged, fellowship fractured). The diagram becomes a question: does he let the charge propagate through a broken ring, or does he build the containment that holds?
+- **Book III — The Return (outer ring):** The full Three Circles reading lands here. Eli has seen all three levels in operation. The diagram becomes his political vocabulary. Pelangi Reach's breakdown was outer-ring failure; the distributed harbor net succeeds because it operates across the middle ring, not despite it. The climax is a structure that holds across all three rings without a single center.
+
+## Göbekli snake/tree/bird plaquette — the bridge diagram
+
+**Layered reading — LOCKED 2026-07-21:** One symbol, three stacked zoom levels. None replaces the others. Later theology compresses them in order — guardian split, then Eden, then Heaven/Earth covenant — but the plaquette is the **pre-split photograph**: the only artifact that preserves all three symbols before the wound.
 
 A real small-find from the Göbekli Tepe excavations is described in public-facing material as a small stone **plaquette** with three carved symbols, sometimes read as a snake, a tree, and a bird. The photograph is credited to **Irmgard Wagner / DAI** in the quoted source. Before publication, verify the exact DAI post or excavation report, inventory/context, dating, and image rights.
 
-**Use it as a contested functional diagram, not a simple Eden proof.** The popular temptation is obvious: snake + tree = Eden. The stronger novel use is that this image lets the group argue toward the old **domain split**:
+### The three zoom levels
 
-- **tree / axis** = the living route, world-tree, conductor, or central interface;
-- **snake / serpent** = the **Apkallu** guardian function: chthonic, watery, under-route, foundation, wisdom, threshold, and repair;
-- **bird** = the **Nephilim** guardian function: sky, height, watch, signal, war, command, and high-place enforcement.
+| Zoom | Reading | When it pays off |
+|---|---|---|
+| **Terrestrial** | Snake = low places (Abzu, waters) · Tree = **Edin** (living substrate, steppe, uncut life) · Bird = high places (charged grounds, Hermon, megaliths) | Book I — what Aru's people could live inside without cosmic vocabulary |
+| **Guardian** | Snake = under-route (Apkallū) · Tree = living conductor / ley route · Bird = sky-route (Watchers / Nephilim) | Book I–II — Emrys, keeper tradition, fox-pillar, two-tree grammar |
+| **Cosmological** | Snake = Earth-depth / organic serpent-line · Tree = **bridge-interface** (where Heaven's seed meets Earth's biology) · Bird = Heaven-seed / transmission / the drop from above | Book III — Double-Fork Stone, dragon memory, panspermia |
 
-This does not mean every snake image is Apkallu or every bird image is Nephilim. It means this plaquette gives the characters a compact visual grammar for how the guardian order was divided after Göbekli: one line tending foundations and hidden routes, another line occupying height, command, and visible authority. Eden readings are not discarded; they are demoted into one later theological compression of an older domain map.
+The three-domain map is how the symbol **kept working on Earth** after Heaven went quiet. Panspermia is what it may have meant when both orders were still in contact (~10,800 BCE fall → Göbekli response). Same stone; different zoom.
 
-The artifact should become the **reader's first key** for later tablets, seals, reliefs, and amulets that show a central tree / plant / axis / Tree of Life with figures, animals, winged beings, serpents, sages, or hybrid guardians arranged around it. The later images are not all "the same scene." They are descendants, localizations, or theological re-skins of the same operational grammar:
+### The tree is the bridge — not heaven OR earth
 
-> living route at the center; guardian functions around it.
+A two-term **Heaven and Ancient Earth** compression is what later covenant theology prefers (cf. Arslan Tash Amulet 1). That is elegant and incomplete. The plaquette resists collapse by keeping **three** symbols:
+
+- **Bird** = what arrives from above (Heaven: seed, signal, transmission, pressure)
+- **Snake** = what rises from below (Earth-depth, organic receiving body, the serpent-line)
+- **Tree** = where they meet and recombine (ley conductor, bridge-species workplace, humanity's mediating job)
+
+Without the tree, the diagram becomes dualism — seed vs. soil, sky-father vs. earth-mother, control vs. wild. The wound the trilogy tracks is **splitting what was one living system**. Panspermia without the tree becomes "aliens planted us" instead of "we are the place where Heaven's intention meets Earth's biology."
+
+**One-line lock:** *The plaquette is Earth's earliest surviving diagram of the bridge — not heaven OR earth, but the tree where they meet, flanked by the two transmission functions that later myth turned into enemies.*
+
+### Cosmological floor — LOCKED 2026-07-16; integrated 2026-07-21
+
+Separation from the Tree of Life does not mean instant extinction or moral inferiority; it means narrowing into Earth-only adaptation. Chimpanzees and ordinary birds are Earth-produced branches, while the panspermic dragon line once held several connected domains. The plaquette's serpent and bird preserve two separated dragon functions — serpentine/chthonic/embodied resonance and avian/sky/transmission resonance — before later myth turns the division into hierarchy (serpent cursed downward, bird associated with ascent and Heaven). The Double-Fork Stone in Book III supplies the wider biological pattern: Earth supplies biology and adaptation; Heaven supplies seeds, pressures, and bridge species; humans and dragons become intelligent through relationship.
+
+### Guardian / two-tree floor — LOCKED 2026-07-16
+
+**Use it as the two-tree origin diagram, not a simple Eden proof.** The popular temptation is obvious: snake + tree = Eden. The stronger guardian reading is that this image shows **two distinct trees with distinct guardians before theology compressed them into one garden with one conflict**:
+
+- **Tree of Life** = the living route, conductor, central interface to the Tree / ley-grid; guarded by the **bird** (Nephilim function: sky, height, watch, signal, war, command, high-place enforcement, the overseer)
+- **Tree of Knowledge** = the diagnostic route, threshold, foundation; guarded by the **snake** (Apkallu function: chthonic, watery, under-route, foundation, wisdom, threshold, repair)
+
+This does not mean every snake image is Apkallu or every bird image is Nephilu. Eden readings are not discarded; they are demoted into one later theological compression of an older dual-map. Eden as told later is a theological re-skin: one tree, one guardian, one prohibition. The plaquette preserves the earlier operational grammar: **two routes, two guardians, two functions.** The bird guards the ascent; the snake guards the descent. Both were required to operate the full system.
+
+### The snake's deliberate ambiguity
+
+In the cosmological reading the snake is the hardest symbol — and that is load-bearing. It may mark:
+
+- **Tier-1 serpent architects** (directed panspermia — Heaven's makers)
+- **Tiamat's organic depth** (Earth's own apex, the dragon at the cave's mouth)
+- **Apkallū** (low guardian who kept faith with the Mother)
+
+The snake belongs to **both orders**. Tiamat is murdered by the sky-faction *and* is Earth's organic root. That is why Genesis curses the serpent downward while Enki's line keeps serpent-faith: the same glyph, two loyalties. A clean Heaven/Earth decode that assigns snake = Earth and bird = Heaven is too tidy. The **feathered serpent** exists because the split was false — bird and snake reunited around the living axis they were carved to flank (Aru cuts both into the Göbekli pillars without being told what they are).
+
+### Compression ladder — how theology shrinks the symbol
+
+1. **Plaquette (pre-split):** snake + tree + bird — bridge diagram, three domains, two transmission functions flanking the living middle
+2. **Guardian split:** bird vs. snake — high-place Watchers vs. lowland Apkallū; under-route vs. sky-route
+3. **Eden compression:** snake + tree — one garden, one conflict, one prohibition
+4. **Covenant compression:** Heaven + Ancient Earth — two terms, no tree (Arslan Tash; seventh-century BCE)
+5. **Two-Tree union (post-split restoration):** two intertwined trunks — the **rainbow tree** — Tree of Life and Tree of Knowledge braided back into one living form; guardians reunited as feathered serpent at the root or fork
+
+Book III's convergence image completes the ladder: the plaquette is the **pre-split photograph** (three symbols); the intertwined tree is the **post-reunion photograph** (two routes visible in one trunk).
+
+### Book I reveal cap
+
+Book I does **not** certify the panspermia decode on-page. At Ch 13: Eli may read Eden (popular); Emrys may read guardian split (functional); a keeper may quietly recognize the three-domain map (lived geography). **Nobody** names alien seeding or the full Heaven/Earth design. The reader may hold the deepest layer; the characters earn it in Book III.
+
+The artifact should become the **reader's first key** for later tablets, seals, reliefs, and amulets that show ONE tree with ONE guardian — because by the time those images were made, the domains had drifted apart. Each later image is now a single guardian and a single tree, showing where the split became permanent:
+
+- Tree of Life + bird guardian → later Canaanite/Egyptian/levantine sacred-tree imagery with winged or high-place guardians
+- Tree of Knowledge + snake guardian → later Eden, Near Eastern serpent-on-tree, and diagnostic/threshold imagery
+- Tree of Life + snake guardian → later underworld/serpent-on-axis, chthonic tree imagery
+- Tree of Knowledge + bird guardian → rare, but possible in high-place wisdom traditions
 
 So when the group later sees sacred-tree imagery, the question is not simply "Is this Eden?" but:
 
-- What route or life-interface is being centered?
-- Which guardians are shown: foundation/under-route, sky/high-place, household/protective, royal/command?
-- Has the image preserved a balanced guardian system, or has one class claimed ownership of the tree?
-- Is the tree being protected, accessed, withheld, taxed, or weaponized?
-- Has a practical diagram become theology?
+- Which tree is being centered: Life or Knowledge?
+- Which guardian remains: bird (sky/oversight) or snake (under-route/repair)?
+- Is this image showing the original paired system, a half-survivor of the split, or a theological re-skin that forgot there were ever two?
+- Has one tree been claimed by one guardian while the other was suppressed?
 
-Possible scene function:
+**Single-tree / single-guardian artifacts exist cross-culturally.** Egypt (ankh-tree, benben, uraeus-on-axis), Canaan (Asherah pole + accompanying guardian), Mesopotamia (axis serpent on temple door, winged genie on sacred tree), Anatolia (tree-on-seal with bird or snake), Albion (holed stone with no tree but convergence-grammar). The single-guardian phase is the rule across the ancient world, not the exception. The paquette is the anomaly that preserves the original pairing.
 
-- A faction or public-facing writer uses the plaquette as Eden proof.
-- Emrys or another scholar admits the visual pull but insists the object does not translate itself.
-- A later comparison with Apkallu/fish-sage/foundation material, high-place/bird/Nephilim material, and Tree-of-Life / sacred-tree guardian scenes makes the domain split useful.
-- Wren treats the dispute operationally: even a wrong interpretation can move money, guards, believers, and enemies.
-- Eli recognizes the deeper problem: humans keep forcing artifacts into father-god / garden / fall stories because the middle ring of living memory has already broken.
+**The final symbol — Two-Tree Union (the rainbow tree) — LOCKED 2026-07-21**
 
-This object can sit near the Three-Circles Tablet in the reader's education. The plaquette shows how easily a real ancient image becomes a doctrine, but also how a disputed image can preserve a real operational grammar: route, under-guardian, over-guardian, and later guardians around the Tree of Life. The Three-Circles Tablet then teaches the social grammar: body, family, civilization.
+The trilogy's closing visual grammar is not a third single tree with one guardian. It is **two trees reunited**: the Tree of Life and the Tree of Knowledge shown together again — **two distinct trunks twisted together** like a double helix or braided rope, neither trunk swallowed by the other, their canopies interwoven into what readers and characters may call the **rainbow tree** — full-spectrum, both routes active at once (warm organic Life and diagnostic Knowledge interleaved, not averaged into grey).
 
-## The Adapa tablet lacuna — the missing line
+**Visual grammar:**
+
+- **Two trunks, one living form** — the twist must remain readable: two routes, one system. A merger that erases difference is another compression wound, not reunion.
+- **Rainbow canopy** — not decorative; the spectrum marks that both Trees' capacities are present: connection *and* verification, resonance *and* record, body *and* instrument.
+- **Guardians reunited** — bird and snake restored as **feathered serpent** at the root, in the fork, or circling the base: the flanking functions from the plaquette rejoined around the living axis.
+- **Made or recognized, not guaranteed** — the image may be an ancient fragment completed by present-day participants, a living community's new carving, or a pattern legible only after the Double-Fork Stone; it is a **design to practice**, not a prophecy of automatic harmony.
+
+**Relationship to the plaquette:** the plaquette preserves **one tree** flanked by **two guardians** (bridge before the Two-Tree wound fully hardened). The rainbow tree is the **inverse completion**: **two trees** with **guardians reunited**. Book I opens on the three-symbol bridge; Book III closes on the two-tree union. Same grammar; wound and repair.
+
+**Placement:** Albion / Men-an-Tol remains a candidate site because holed-stone convergence-grammar is already union-native, but the final form should belong to the **living community** rather than a vanished priesthood. The Two-Tree union **act** at Albion (`22` § Climax) — life technology + death technology run together once — is the enacted version of what the symbol depicts.
+
+**Craft guardrails:** do not end on a lecture titled "The Rainbow Tree." End on conduct that could only exist if both Trees were joined. Do not let the symbol replace the feathered serpent — guardian reunion and Two-Tree reunion are **paired completions**, not one image doing all the work.
+
+### Visual rhymes — not identities
+
+Some later symbols **look like** the plaquette or rainbow-tree grammar without being the same symbol. Treat them as rhymes the story may notice, **not** as certified compressions or lost originals.
+
+- **Caduceus** (Hermes' winged staff with two serpents) — similar geometry (axis + twin serpents + sky-wings), different meaning. Hermes is messenger, boundary-crosser, and commerce in Greek tradition — not the Two-Tree union, not the feathered serpent, not Göbekli's bridge diagram. Do not fold the caduceus into the deep-time roster or the compression ladder.
+- **Rod of Asclepius** (single serpent on a staff) — healing / Life-route imagery only; closer to Somchai's lane than to union symbolism. Modern hospitals often confuse it with the caduceus; that mix-up may appear as ambient **Drift** texture (institutions wearing the wrong emblem) without becoming a plot key.
+- **DNA double helix** — Eli or Emrys may privately notice the twist-rhyme with two intertwined trunks; keep it a character aside, not authorial proof.
+
+**Rule:** if a symbol shares a shape, a character may say so; the canon does not claim equivalence.
+
+**Series-wide placement:**
+
+- **Book I — The Breach:** Eli first sees the plaquette as a photograph or high-res scan (Emrys's collection or archive research). He tentatively reads it as Eden-like; Wren disputes; a keeper may quietly feel the three-domain map (low / Edin / high) without naming the Zoning Model. The Snake + Tree + Bird question is raised but not resolved — it is the reader's first visual grammar for all later Tree-of-Life imagery. Panspermia is not certified on-page.
+- **Book II — The Descent:** The group encounters multiple single-tree / single-guardian artifacts across different cultures (Egypt, Canaan, Mesopotamia, Anatolia, Albion). Each encounter applies the plaquette's grammar and reveals a different faction's half-reading of the split. The reader learns that the plaquette was unusual precisely because it preserved the pair.
+- **Book III — The Return:** The **rainbow tree** (Two-Tree Union symbol) is found or made — two intertwined trunks, guardians as feathered serpent; the cosmological zoom lands with the Double-Fork Stone and dragon memory. The plaquette's three-symbol bridge and the union symbol's two-tree twist are read as wound and repair. The trilogy's final image is not one tree or one guardian but both routes and both guardians restored — which is also what the Three Circles outer ring demands: civilization that holds both without forcing one to own the other.
+
+This compresses with the Three-Circles Tablet: the tablet is the social grammar (body → family → civilization); the plaquette is the bridge grammar at three zoom levels (terrestrial: low ↔ Edin ↔ high; guardian: under-route ↔ living route ↔ sky-route; cosmological: Earth-depth ↔ bridge-interface ↔ Heaven-seed). They enter together in reader-education in Book I, branch out in Book II, and converge in Book III.
+
+## The Adapa tablet lacuna — the conditional tree
 
 The Adapa material should include a tablet, copy, photograph, or scholarly reconstruction with a **strategic missing passage**. The gap must not be filled by authorial certainty too early. Different readers inside the story should argue over what the absent line changes:
 
-- Did Adapa know the bread and water were life and refuse anyway?
-- Did he refuse because Enki's warning was sincere but incomplete?
-- Did a later copyist lose the moment where Adapa almost saw the Qingu-guilt lie?
-- Did the missing passage name the mechanism by which helpful advice becomes a cage?
-- Did the later priestly version turn a refusal of divine incorporation into a morality tale about obedience?
+- Anu is impressed by Enki's creation — Adapa outthinks the guards and enters heaven. Is this wit a triumph of knowledge or proof of how far a mortal can outthink a god without yet having the strength to hold what he gains?
+- Adapa refuses the bread and water of life — he forgoes immortality, much as Adam did, but this time through Enki's trickery. Was the trickery malicious, protective, or both?
+- Is the later understanding a discovery or a rationalization: that there is a greater reason Adapa had to be kept mortal for now?
+- The deepest question the missing line should preserve: if Adapa had immortality plus his fragile knowledge, what would he have done with it? Would he have caused more harm than good?
 
-Plot use: the missing line creates action. A faction wants the lacuna filled because it may justify obedience; Eli wants it because it mirrors his mother's warning and his own fear of being chosen; another custodian may insist the missingness is the point. A later resonance or parallel witness can supply emotional pressure, but the textual gap should remain evidentiary humble.
+Working novel reading, to reveal only after competing readings have done real damage: **the tree of life is conditionally withheld, not permanently lost.** Adapa was tricked into refusing it — Enki told him the bread and water were death when they were actually the gift. But the trick served a greater protective purpose. Humanity was not yet ready for unification: the species had godlike reach, mortal grip, and fragile knowledge, and if it had been granted immortality in that state the result would have been catastrophic. The tree of life becomes available later — not as a reward for cleverness, and not as compensation for suffering, but only after humanity has developed the science and discipline to hold it without destroying itself or others.
 
-Working novel interpretation, to reveal only after competing readings have done real damage: Adapa did not simply fail to gain immortality. He recognized, or almost recognized, that the bread and water of life were also a contract. To eat and drink would bind humanity back into divine administration. The later control-side telling reduces the event to a cautionary story: man lost immortality because he obeyed the wrong instruction. The recovered meaning is harsher and cleaner: Adapa chose mortal freedom over eternal managed life.
-
-Possible disputed reconstruction:
-
-> He saw that the bread was life, and the water was life, but the hand that offered them was ownership.
-
-This should remain a contested line, not a confirmed ancient quotation. Its job is to reframe the lacuna as the book's hinge between immortality, obedience, and ownership. It should mirror the healer refusing deification and the trilogy's final victory condition: humans do not become gods, kill gods, or serve gods. They become capable of living beside power without surrendering ordinary life.
+This makes Adapa the trilogy's first anatomy of the human condition: a species equipped with knowledge powerful enough to deceive gods and reach heaven, still immature enough that immortality in its hands would be a weapon rather than a gift. The missing line is the moment where protective trickery, mortal preparation, and deferred integration meet — not as punishment, but as the species' own growing edge.
 
 ### The South Wind as paleoclimate memory
 
@@ -196,39 +331,47 @@ Narrative use: one faction reads the broken wind as divine jurisdiction; another
 
 ## Enki and Ninmah — the role-fragment
 
-This is the other missing-piece story to track alongside Adapa. The likely text is **Enki and Ninmah** rather than **Enki and Ninhursag**, though Ninmah/Ninhursag belong to the overlapping mother-goddess cluster. In the surviving story, the gods complain about labor; Enki, Namma, Ninmah, and the birth-goddesses participate in making humanity as a labor substitute; then, after drinking beer, Ninmah creates a sequence of impaired or socially irregular humans. Enki answers each one by giving a fate, bread, and a place in the social order: royal servant, musician, court attendant, queen's household member, named eunuch or liminal court figure, and so on. Then Enki creates **Umul**, a being so afflicted that Ninmah cannot find a viable place for him.
+This is the other missing-piece story to track alongside Adapa. The likely text is **Enki and Ninmah** rather than **Enki and Ninhursag**, though Ninmah/Ninhursag belong to the overlapping mother-goddess cluster. In the surviving story, the gods complain about labor; Enki, Namma, Ninmah, and the birth-goddesses participate in making humanity as a labor substitute; then, after drinking beer, Ninmah creates a sequence of impaired or socially irregular humans. Enki answers each one by giving a fate, bread, and a place in the social order. Then Enki creates **Umul**, a being so afflicted that Ninmah cannot find a viable place for him.
 
-The damaged section matters because the argument seems to turn on whether every created being can be assigned a fate and daily bread. The text preserves fragmentary lines around Ninmah's answer and Enki's reply. This makes the lacuna useful for the trilogy:
+**TRILOGY FUNCTION — LOCKED 2026-07-15:** Do not reduce this to bureaucratic role assignment. Its emotional claim is that everyone has purpose even when they feel useless or cannot be made institutionally useful. Umul is not a failed worker awaiting placement; he exposes the limits of a society that can only value what it can classify. The story returns in **Book III Chs 23–25**, during the refugee intake and safeguards debate, when the community is tempted to sort people into safe, dangerous, useful, or disposable categories. Eli learns that value is discovered through relationship, not assigned by authority. This is distinct from *Enki and the World Order* (macro allocation) and *Inana and Enki* (transferable civilization-functions).
 
-- Civilization can be merciful by finding a place for the vulnerable.
-- Civilization can also convert mercy into containment: "You may live, but only as the role we assign you."
-- The human being who cannot be made useful exposes the limit of role-based compassion.
-- "Daily bread" becomes a test parallel to Adapa's bread of life: is bread a gift, a wage, a leash, or proof of belonging?
-- Healing begins where role-assignment fails. Umul's problem is not merely that society has no job for him; the body's charges, breath, organs, attention, and life-energy are not coordinating efficiently enough for ordinary agency.
+The damaged section matters because the argument seems to turn on whether every created being can be assigned a fate and daily bread. The text preserves fragmentary lines around Ninmah's answer and Enki's reply. But the working novel reading should not treat Umul as a case where civilization's categories failed. The sharper reading is:
 
-Working novel interpretation: the missing fragment should not become a simple disability allegory. Its sharper use is about **assigned function** and the point where assigned function stops working. Enki's genius is that he can make almost anyone legible to the state, temple, palace, or household. That looks humane compared with abandonment. But it is still civilization translating personhood into administrative role. Umul breaks the system because he cannot be redeemed by usefulness.
+- The assigned roles do produce results — specialization is real and necessary. That is not the problem.
+- Umul is not useless even in his afflicted state. The act of caring for him, tending him, developing compassion for him — that is itself useful work. It develops in those who care the very things civilization needs most and most often suppresses.
+- The real failure is the system's refusal to recognize care-work, healing-work, and compassion-work as valid functions. Civilization knows how to assign fate, bread, and office; it does not know how to assign tenderness, presence, or the slow labor of helping a body find its own coherence.
+- The missing fragment should reveal that **Umul is healed by human hands** — not by a god, not by a decree, but by someone working with the living system directly: breath, charge, organ rhythm, attention. This means the healing knowledge was always known to humanity, embedded in the culture alongside the administrative functions, but suppressed when civilization decided that only assigned-role work was legitimate.
 
-The missing healing layer: the fragment should point forward to the healer's later practice. When fate, office, household, and bread fail, the answer is not a better bureaucratic category. The answer is direct work with the living system: charges, breath, organ rhythms, nervous-system loops, attention, and the psi/life-energy allocation required to coordinate them. In other words, Umul is where the civilization-circle solution reaches its limit and the body-circle solution has to begin. The healer later recovers this in practice: not by making the person useful, and not by deifying himself, but by helping the body regain coherent control of its own energies.
+Together this compresses with Adapa in a new way:
+
+- **Adapa** is the conditional withholding of immortality — humanity had godlike reach but was too immature for eternal life.
+- **Umul** is the proof that humanity already had what it needed. The healing knowledge was not absent. It was obscured by the same civilization that assigned roles and distributed bread as administration rather than gift.
 
 Possible disputed reconstruction:
 
 > Bread is not a fate. A place is not a self. Put the breath back into order, and let the life find its road.
 
-This should be treated as a modern or contested reconstruction, not a real quotation. It can become the counterweight to the Adapa lacuna: Adapa refuses eternal ownership; Umul refuses, or exceeds, useful placement. Together they pressure the same question from opposite sides: what is a human worth when they cannot serve the gods, the king, the family, or the machine? The answer must not be "nothing" and must not be "whatever role civilization can invent." The deeper answer is that life has intrinsic worth and can sometimes be restored by working below role, at the level of embodied energy and conscious control.
+This should be treated as a modern or contested reconstruction, not a real quotation. It can become the living counterweight to the Adapa lacuna: Adapa shows humanity was withheld the tree of life for its own protection until maturity; Umul shows humanity already possessed the healing knowledge that the system refused to honor. Together they answer the trilogy's central question from both sides — what is a human worth when they cannot serve the gods, the king, the family, or the machine? The answer is: worth exactly as much as a person who can put breath back into order, whether that person has been assigned a role or not.
+
+The healer's later practice recovers this in living terms: not by deifying himself, not by making the healed person useful, but by demonstrating that care-work and embodied healing are valid human functions — the oldest branch of the tree of knowledge, guarded by the snake, available to anyone with the patience to learn it.
 
 ## Additional Mesopotamian story-objects
 
 Use these as a ranked secondary shelf. The first three are the cleanest additions because they directly support the trilogy's machinery: civilization as transferable functions, healing as resonance, and role-assignment as control. The rest are useful if a plot location, custodian, or antagonist needs them.
 
-### Inana and Enki — the me as civilization's carried functions
+### Inana and Enki — the Arta as civilization's carried order
 
-The **me** are civilization-functions: kingship, priesthood, crafts, law, sex, music, truth, deceit, weapons, family offices, ritual offices, and other social powers. Inana receives or takes them from Enki at Eridu and brings them to Uruk in the Boat of Heaven.
+The **Arta** are not physical objects. They are the fitted order of civilization: kingship, priesthood, crafts, law, sex, music, truth, deceit, weapons, family offices, ritual offices, and other social powers. Inana receives or takes them from Enki at Eridu and brings them to Uruk in the Boat of Heaven. The term is the novel's Indo-Iranian/PIE-derived adaptation, not a claim that the Sumerian text uses PIE vocabulary.
 
-Novel use: this is the cleanest ancient analogue for **knowledge installed as social capacity**. Civilization is not only buildings and armies; it is a portable inheritance of roles, permissions, arts, seductions, and weapons. The me can be copied, stolen, transferred, misread, or used before a community is mature enough to carry them.
+Novel use: this is the cleanest ancient analogue for **knowledge installed as social capacity**. Civilization is not only buildings and armies; it is a portable inheritance of roles, permissions, arts, seductions, and weapons — distributed by the gods and carried between centers of power. The Arta can be copied, stolen, transferred, misread, or used before a community is mature enough to carry them. The trilogy's version is the grid, the keeper-net, the Custodian registry: modern functions allocated, transferred, and enforced by whoever controls the network.
 
-Guardrail: do not make the me into literal computer files. The value is the analogy: functions can move between centers of power, and whoever controls the transfer can shape a civilization's instincts.
+Guardrail: do not make the Arta into literal computer files. The value is the analogy: functions move between centers of power, and whoever controls the transfer shapes a civilization's instincts. In the novel's prose, introduce **Arta** once with its definition, then use it consistently as a term-of-art. In Emrys's scholarly notes or a custodian's registry, it can appear as a category label.
 
 ### Enheduanna's Inanna hymns — authored sacred voice
+
+**TRILOGY PLACEMENT — LOCKED 2026-07-15:** Enheduanna's hymn is a human and political countervoice, never a magical key, prophecy, or Albion instruction. In **Book I Ch 12**, Eli encounters a damaged/disputed hymn alongside the Adapa material and recognizes a named woman speaking from displacement inside an imperial system. In **Book II Ch 20–21**, Anthea's embodied song is compared with (but never identified as) Enheduanna's authored text; a faction attempts to read the hymn as prophecy, and Eli rejects that use. In **Book III Ch 31**, the hymn's survival informs the public hearing's question of who may preserve, interpret, and authorize a voice. Eli's final bard function is custodial and provisional: he carries a song without owning or canonizing it.
+
+**Recurring contrast — LOCKED:** Enheduanna's voice survives in text; Anthea's in bodies and sound; Maren's is suppressed by an institution; Wren protects voice through refusal and boundaries; Eli receives, alters, and relinquishes rather than possessing any of them. Do not make Eli a new Enheduanna, Inanna avatar, or scripture-founder.
 
 Use **Enheduanna** through the Inanna hymn tradition, especially **The Exaltation of Inana** (*Nin-me-sara*) and, if needed, the broader temple-hymn material. Her value is not that she is a token "first woman writer" dropped into the chain. Her value is structural:
 
@@ -249,9 +392,13 @@ Guardrails:
 
 ### Inana's Descent — healing by resonance
 
+**TRILOGY FUNCTION — LOCKED 2026-07-15:** This myth supplies the trilogy's descent-and-restoration grammar, distinct from Enheduanna's authored-voice motif. Eli first misreads the seven gates as a technique for surrendering powers to gain a final ability; he later understands surrender as the condition for meeting another consciousness without owning it.
+
+**Placement — LOCKED:** In **Book II Ch 15**, Eli encounters the myth while Somchai sits with a patient; Somchai lives the method while Eli reaches for a code. In **Book II Ch 21**, Eli surrenders complete knowledge, the Maren tether, strategic control, and the fantasy of restoring his mother unchanged. The group's formation mirrors the liminal beings: it stays present with the suffering system rather than overpowering it. In **Book III**, Eli applies the same grammar to civic collapse; forced synchronization would be an army storming the underworld, while bounded presence allows voluntary restoration.
+
 In **Inana's Descent**, Enki creates small liminal beings who do not storm the underworld by force. They sit with Ereshkigal and mirror her pain. Only after that resonance do the life-giving plant and water restore Inana.
 
-Novel use: this is the strongest ancient rhyme for the healer's method. Healing is not command, conquest, diagnosis-by-force, or charisma. It begins with accurate resonance: meeting the suffering system where it is, then applying the right life-energy intervention. This should foreshadow the healer's refusal to be worshipped; the healing belongs to the alignment, not to a new godman.
+Novel use: this is the strongest ancient rhyme for the healer's method. Healing is not command, conquest, diagnosis-by-force, or charisma. It begins with accurate resonance: meeting the suffering system where it is, then applying the right life-energy intervention. This should foreshadow the healer's refusal to be worshipped; the healing belongs to the alignment, not to a new godman. Ereshkigal retains legitimate pain and agency; she is not reduced to a defective system waiting for diagnosis.
 
 Possible line of interpretation: the life-giving plant and water are not magic fuel by themselves. They work because the closed system has first been met without aggression.
 
@@ -280,7 +427,7 @@ Guardrail: use one concrete material witness if needed, such as a foundation fig
 
 The **Enkidu/Shamhat** sequence in the *Epic of Gilgamesh* is the cleanest mythic image of domestication at human scale: wild human living with animals; food, sexuality, grooming, language, clothing, and social bond drawing him toward the city; loss of animal belonging traded for entry into human civilization. It should be treated as a story-pattern, not as direct evidence that Shamhat was literally non-human.
 
-Novel use: this witness lets characters argue over whether civilization is rescue, corruption, seduction, education, or capture. A control faction may read Shamhat as the ideal civilizing handler. Forest City should offer the counter-reading: domestication traits such as reduced aggression, bonding, and density-tolerance are not evil by themselves; they become a cage when they are used to replace consent with management. The final community must reclaim the civilizing gifts—food, medicine, law, education, affection, city-scale coordination—without repeating the handler logic.
+Novel use: this witness lets characters argue over whether civilization is rescue, corruption, seduction, education, or capture. A control faction may read Shamhat as the ideal civilizing handler. Pelangi Reach should offer the counter-reading: domestication traits such as reduced aggression, bonding, and density-tolerance are not evil by themselves; they become a cage when they are used to replace consent with management. The final community must reclaim the civilizing gifts—food, medicine, law, education, affection, city-scale coordination—without repeating the handler logic.
 
 Guardrail: do not let this become a misogynistic "woman corrupts wild man" reading. Shamhat's function is the social threshold, not blame. If a character claims she is a sky-person or apkallu agent, mark that as an interpretation or factional reading, not settled philology.
 

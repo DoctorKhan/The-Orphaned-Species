@@ -6,6 +6,10 @@
 
 ## 1. Two energies
 
+**STEADY KNOWLEDGE / PRACTICE LOCK — 2026-07-16:** Real meditation, breath, attention, posture, and relational disciplines train perception: notice instinct before obeying it, regulate stress, sustain attention, and remain responsive without automatic submission. The measurable physiology is real but must not be reduced to a simplistic "alpha waves equal serotonin or enlightenment" formula. Exceptional practitioners become socially perceptible in their steadiness; that presence is **melam** when it reaches others, and observers may experience it as **ni**. Mastery does not command the response or make the practitioner a god.
+
+**EARTH / HEAVEN FRAME — LOCKED 2026-07-15:** Earth is the intentional planetary expression of the life/psi field through geology, magnetism, water, atmosphere, biology, and evolution. Heaven is the external energetic and informational influence of planets, stars, and extraterrestrial intelligences. Panspermia is literal: life and life-technology arrive from beyond Earth, then Earth receives, adapts, and recombines them. The physical and spirit planes describe how these influences operate; Earth and Heaven describe their intentional sources and relationship.
+
 | | **Physical energy** | **Life / psi energy** |
 |---|---|---|
 | What it is | Calories, metabolism | The soul's current; the anti-entropic medium |

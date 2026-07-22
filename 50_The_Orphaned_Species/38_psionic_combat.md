@@ -21,6 +21,19 @@ The anti-entropic field is **not a finite power supply** (`05` §3). What a psio
 
 This is why psions fight in **teams**: coherent attention pooled is greater than the sum, and a team can hold, probe, shield, or overwhelm what no lone psion can. It is also why the **fellowship** matters thematically — collective coherence without a command hierarchy is the coalition's whole problem (`05` §7).
 
+## 1a. Coerced coherence is brittle (LOCKED 2026-07-18)
+
+*Resolves the war's central military paradox: why leaderless, voluntary coherence can survive centralized coercive force instead of simply losing every engagement. Companion to `48_divide_and_conquer.md` (division is fair-weather) and the climax guardrails in `33_volume_III_beatsheet.md` / `41_climax_the_awakening.md`.*
+
+Not all "minds acting as one" are equal. The §1 multiplier rewards coherent minds acting as one — but **how** they are made one changes the quality of the field:
+
+- **Voluntary coherence compounds and self-repairs.** Minds that choose the shared pattern feed it without reservation. The field is dense and, crucially, *fault-tolerant*: if one holder wavers, the others carry the pattern, because each is holding it on purpose. This is the coalition's whole defense (Bubble = coalition, §7).
+- **Coerced coherence is loud but structurally weak.** A field forced into being — through Block-driven synchronization, an amplifier, or command under compulsion — is strong in the **acute push** and directly vulnerable to the §5 failure modes. Every compelled mind carries resistance, fear, grief, and divided loyalty *into* the shared field: that is the literal fuel of **Contamination** (one member's fear infects the unit) and **Fracture** (the effort shatters when members disagree or panic). A forced-synchronized unit need not be out-powered; it needs only to be held under sustained pressure until it breaks itself, or struck with a single well-placed **Reflection** the compelled minds cannot collectively catch.
+
+**The temporal rule (load-bearing for the climax).** Coercion is not weak — it is **fast and short-lived**. Forced synchronization genuinely wins the acute engagement; it is the correct *tactical* answer to a closing window. It loses over time, because a field held by compulsion decays, defects, and rebuilds the controller-and-subject hierarchy it was meant to defeat. **Coercion buys the battle and forfeits the war.** This is why the climactic temptation is real (it would save more people *now*) and why refusing it is not secretly cost-free. The brittleness is **temporal, not tactical** — the story must never reveal that coercion would have failed in the moment.
+
+This is Machiavelli Ch. 20 at the scale of a single shared field: division-by-force **holds in the calm and shatters under real pressure** (`48_divide_and_conquer.md`). The strategic doctrine and the combat physics are the same law read at two scales.
+
 ## 2. The four primitives
 
 ### A. The Bubble — coherence field (defense)
@@ -63,6 +76,22 @@ A Bubble or Block **can be broken if you are strong enough** (user's mechanic) �
 - **Detection ≠ identity.** Sensing a signature reveals direction, intensity, and anomaly — usually **not** a full identity or motive. You know something woke up; you don't yet know who or why.
 - **The sight is its own faculty.** Perceiving the psi plane — seeing the forms, not just feeling them — is a *developed* capacity (Eli's "seeing" stage; the pineal interface), not standard issue. A psion may only **feel** a Lance land while a **seer sees** its line, its origin, and the lock behind it. Seers therefore hold a tactical edge: they spot a signature lock forming, read a team's geometry, and catch an incoming line in time to reflect it (§B). Always render combat through what *this* POV can actually perceive — feel, sight, or both.
 
+## 3a. The machine counter — why the state reaches for autonomy (LOCKED 2026-07-18)
+
+*The Tree of Knowledge's answer to the Tree of Life, and the arms-race logic of the Awakening War (`33_volume_III_beatsheet.md`).*
+
+Every psionic move assumes a **mind** on the other end — a signature to lock, a conscious override to Block, an attacker whose line can be reflected. **A fully autonomous machine has none of these.** It has no signature to find, no player to switch to autopilot (it is already nothing but autopilot), and no channel to invert. Against psions, autonomy is the hard counter: **you cannot jam what has no mind to jam.**
+
+This makes the war's arms race legible and thematically exact. The more psionic the resistance becomes — the more it can Block operators, reflect attacks, and read signatures — **the harder the state reaches for autonomous systems that a Block cannot touch.** It is the Tree of Knowledge weaponized against the Tree of Life, and it is the **Drift** (the person removed from the loop) turned into ordnance. The synchronized drone assault at the distant Pacific corridor (`33` Ch 30) is this principle in motion; Hawaiʻi remains a refuge outside the assault.
+
+**Limits (so it isn't an auto-win):**
+
+- **Targeting still needs a mind or a registry.** Autonomous ordnance is only as good as its target data; this is why Crane's registry is itself a weapon (`33`) — it supplies the signatures autonomy cannot sense for itself. Deny or poison the data and the machine is blind.
+- **Every human in the loop is Blockable.** Operators, launch authorities, maintenance crews, and command nodes remain minds. The soft suite (§B) attacks *them*, not the drone: false certainty in a targeting officer, autopilot error in a launch crew, a fractured chain of command.
+- **Masking works at the sensor, not the mind.** Decoys, false signatures, and material concealment (the grounding rule) degrade machine sensors as they always have.
+
+Doctrine for set-pieces: **psions do not fight drones; they fight the humans and the data behind them, and lose the ones they cannot reach.** The horror of the fully autonomous strike is precisely that there is no one on the other end to persuade, deceive, or wake.
+
 ## 4. Costs, physiology, recovery
 
 - Coherence drains with use; spent psions are **slow, sick, sleepless, and stupid** until they recover. Recovery needs rest, food, safety, and time — ordinary care, which the Healer can support but not shortcut.
@@ -83,7 +112,7 @@ A Bubble or Block **can be broken if you are strong enough** (user's mechanic) �
 - **Maritime boarding (Strait).** Deniable psions travel *with* a human boarding party. One masks the boat's approach (soft suite); one lances the helmsman into autopilot error (Block) while pirates do the physical work. Wren must tell a human tactic from an intrusion in her own perception — a §5 false-certainty problem. Boats, weather, and weapons still decide it.
 - **England boundary ambush.** Crossing an instrumented threshold lights a conductor; a prepared team already in position locks the signature and opens with Lances before anyone can explain the site. The defense is a team Bubble held while they get off the conductor — procedural, not mystical (`05` §6, "monitored boundaries").
 - **Albion climax.** Holding collective coherence (a team Bubble around the ground) without it becoming a command hierarchy — the coalition's coherence vs. several teams trying to Break in, Block the holders, or turn the shared field to domination.
-- **Scour on a choke point.** A psion team (Custodian, national, or Crane-adjacent) **targets a conductor segment** — sustained Lance + instrument support on a ley choke point until the local route **dies**: plants fail, fauna avoids, the map shows a blank. Denies rivals passage, hides a tether, or herds pursuit into an ambush. Eli recognizes an old **dead zone** on the chart only after he has seen live **forming** ground (South Asia) and a clean **break** (Singapore). Recovery is slow or impossible without collective repair — not a scene beat unless Volume III earns it.
+- **Scour on a choke point.** A psion team (Custodian, national, or Crane-adjacent) **targets a conductor segment** — sustained Lance + instrument support on a ley choke point until the local route **dies**: plants fail, fauna avoids, the map shows a blank. Denies rivals passage, hides a tether, or herds pursuit into an ambush. Eli recognizes an old **dead zone** on the chart only after he has seen live **forming** ground (South Asia) and a clean **break** (Meridian City). Recovery is slow or impossible without collective repair — not a scene beat unless Volume III earns it.
 
 ## 6b. Scour & ground targeting (LOCKED)
 
@@ -109,6 +138,8 @@ A Bubble or Block **can be broken if you are strong enough** (user's mechanic) �
 2. **Reflection = undeceivability.** The defining counter is turning manipulation back on the manipulator — the intimate version of the whole book's argument.
 3. **Bubble = coalition.** Defense scales only with coherent minds acting as one without a commander — exactly the political form Volume III must prove.
 4. **The native road is the armor.** The practice that makes you free is the same practice that keeps you un-jammed. Power is never separable from the inner work, so the system can't become a superhero kit.
+5. **Coerced coherence is brittle (§1a).** The political thesis — division-by-force is fair-weather — is literally true in the physics of a shared field: voluntary coherence self-repairs, forced coherence shatters under pressure. The control system cannot be beaten by out-coercing it, only by out-*lasting* it. The climax's honesty depends on this being a temporal law, not a hidden guarantee that coercion fails on the spot.
+6. **Autonomy is the anti-psionic weapon (§3a).** Because every psionic move needs a mind on the other end, the escalation the war is really climbing is toward machines with no mind to reach — the Drift as ordnance. The federation's consent compact is, read at machine scale, a refusal to remove the person from the loop for efficiency's sake.
 
 ## 8. Still open (track in `99_open_questions.md`)
 

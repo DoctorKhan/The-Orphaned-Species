@@ -542,14 +542,14 @@ Use herem as a structural memory, not an apologetic lecture. The story does not 
 The trilogy's deep subject is **discovering the meaning of life through three concentric circles of relationship**, resolving into the **unification of the two trees** as the historical endpoint.
 
 1. **Body** — the relationship to one's own body/self, where you *befriend the parts that try but fail to be happy*: the NPC/robot within (automatic seeking, the receiver's surge, the TBI scar, appetite, habit). Integration, not suppression or possession. *The body circle is the autopilot thesis (`10_triangulation_of_control.md`) completed: first the occupant steps in as the player; then he befriends the NPC he took the controls from.*
-2. **Family** — how we became atomized; how bonds can be *chosen* and better. The orphan wound; Forest City as chosen family; the mother Eli cannot return to.
+2. **Family** — how we became atomized; how bonds can be *chosen* and better. The orphan wound; Pelangi Reach as chosen family; the mother Eli cannot return to.
 3. **Civilization** — how it becomes Machiavellian and disconnected (Crane's registry, the collar); how one can *choose how to fit in* without being owned by it.
 
 **Relationship to the rest of the design:**
 - The **four-corner grid** (`05`) is the *political* expression of circles 2–3. The three circles are the *lived* spiritual path. Eli's outer plot (mother, registry, web) is the vehicle; the inner plot is moving from estranged → befriending at each circle, then unifying the two trees (Life + Knowledge made one; body/family/civ in right relation) — the historical endpoint, **not a throne**.
 - **Mapping to cast:**
   - *Body circle:* Eli's receiver/TBI; the healer's bodily refusal (crown of the body, `05`); the Custodians as "NPCs" who took the collar (programmed, owned).
-  - *Family circle:* Eli's mother search; Wren's prior-love/custody instinct; Forest City; Farida.
+  - *Family circle:* Eli's mother search; Wren's prior-love/custody instinct; Pelangi Reach; Farida.
   - *Civilization circle:* Crane; the registry; Sol's faction; the final coalition.
   - *Two-tree unification:* the web clarified as one field; care without ownership; the Vol III endpoint.
 
@@ -568,3 +568,21 @@ The trilogy's deep subject is **discovering the meaning of life through three co
 7. **Wren M/I/A** — **M**ystery · **I**ntrigue · **A**ttraction per Eli/Wren chapter; through-line: mystery deepens → intrigue exits counterfeit → attraction matures past control (`19` § *Female mystery…*; `31`/`32`/`33` § *M/I/A audit*). Competence attractive; **control is the flaw**.
 
 **The positive form — structure that breathes (the alternative to refusal).** The Civilization circle's *"choose how to fit without being owned"* and the Family circle's de-atomization share one positive answer, so the ending is not renunciation: **temporary, self-dissolving authority** — the *festival crown* (leadership worn and removed, never *becomed*) running on a *fission–fusion* rhythm (split into self-governing groups; reaggregate only at **surplus or necessity**; disperse again). The cost of imbalance runs **both ways** — permanent hierarchy is the cage, permanent dissolution is atomization — so maturity is the *rhythm*, not either pole. This is the positive content of the climax dispersal (`41` §46) and the "third door" (`49` § G). Full statement: `Thesis.md` § "The mature form — structure that breathes."
+
+---
+
+## The Drift — the untethering disease (tech-face of the autopilot/deception thesis) (LOCKED, 2026-07-15)
+
+The book's answer to *cyberpsychosis*: the condition of feeling **super-powered and connected through a mediated amplifier** — an AI/tech feed, or the psi grid — while becoming **addicted, extractive, and untethered from the real** (body, kin, world — the Three Circles). It is not a bolt-on; it is the thesis worn as a street disease.
+
+**Why it belongs to the spine.**
+- **It is the failure mode of "technology is rehearsal for magic."** Tech externalizes coming capacities as a scaffold; the Drift is **mistaking the scaffold for the destination** — plugging into the machine's amplification instead of climbing to embody the real thing.
+- **It is the god-disease, one rung down.** The gods' two-Tree appetite was payable only by **extraction** (`34` §4) — that is what the amplifier and the cage are. A person drifting on AI runs the same play in miniature: forcing a counterfeit connection through a machine, feeling divine, being drained and owned by it. So the personal Drift **rhymes with Crane's throne, Sol's messiah hunger, and the deification pressure on the healer** — one disease at four scales.
+- **It is the deceivable species deceiving itself.** The Drift is a *false light* — the Tree of Knowledge (mediated, symbol, the machine) simulating the Tree of Life (direct connection). Undeceivability is the cure; **un-entrainability** is its mechanism (`39` §2) — holding your own frequency instead of being dragged into the machine's.
+- **It is untethering.** You free the mother by *releasing* her tether; the drifter is the inversion — a soul slipped its mooring, floating in the mediated layer, cut from the ground.
+
+**Two faces, one disease.** *machine-Drift* (lost in the feed/tech) and *psi-Drift* (identifying with one's own surges, the receiver filter breaking — the existing `21` "cyberpsychosis" mapping). Both are **untethering through a mediated amplifier** — one on the feed, one on the grid — which lets the book rhyme a kid lost in a validation feed (seeded in the Ch 2 "companion ping"), a psion lost in the amplifier, and a god lost in the two-Tree appetite. The **native road** — grounded, connected, off the machine — is the single answer to all three.
+
+**Naming by register (one history, many liturgies).** Street: **the Drift** (*drift-sick*, *drifted*, *out on the Drift*). Keepers: **god-sickness** (they recognize the old god-disease returning). Union: a cold clinical file, one more thing to sedate and register (matched pair with **the Fractured**). Which term a character uses tells you which world they belong to.
+
+**Antidote:** **grounding** — the keeper practice Emrys teaches; re-tethering to body, kin, and ground. **Craft rule:** show through behavior; never diagnose on-page unless a character would plausibly use the word (`26` trauma-craft rule). Glossary: `95` *The Drift / god-sickness*; street skin: `21`; present texture: `23`.

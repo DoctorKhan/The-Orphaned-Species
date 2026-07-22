@@ -265,7 +265,7 @@ URL: https://www.livius.org/sources/content/anet/266-the-sumerian-king-list/
 
 **The finding / text-shape:** The King List begins with kingship descending from heaven, lists five antediluvian cities and eight pre-Flood kings, gives enormous reign lengths, then breaks at the Flood. After the Flood, kingship descends again and is located at Kish. The ETCSL translation gives eight pre-Flood kings ruling **241,200 years** total; post-Flood reigns begin huge and then gradually move toward more plausible historical scale.
 
-**Why it matters to this book:** This is the control-side mirror of Genesis 5-11. Genesis preserves a father-to-son covenant line from Adam to Noah; the Sumerian King List preserves a city-to-city kingship line from heaven to Eridu, then through the Flood to Kish. The shared grammar is pre-Flood longevity -> Flood rupture -> post-Flood restart. The difference is the point: Sumer remembers the **office**; Genesis remembers the **bloodline**.
+**Why it matters to this book:** This is the mortality-memory mirror of Genesis 5-11. Genesis preserves a father-to-son line whose patriarchal lifespans decline; the Sumerian King List preserves a city-to-city sequence whose impossible reigns contract after the Flood. The shared grammar is pre-Flood longevity → rupture → post-Flood reduction. Sumer remembers lost duration through rulers; Genesis remembers it through bloodline. Neither record proves human immortality, but both preserve the grief that mortality was once less complete.
 
 **Use with caution:** Do not use the antediluvian numbers as solar chronology. They are mythic / ideological time, sexagesimal cosmic scale, dynastic compression, or non-human administrative time. They should not move the book's Flood out of the **~2200-2000 BCE** working range.
 
@@ -349,7 +349,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 ---
 
-## 5. Preamble science floor — COVID haplotype, gene drives, puberty epigenetics
+## 5. Preamble science floor — COVID haplotype, retroviral activation construct, puberty epigenetics
 
 *Anchors for the near-future weapon and the puberty threshold in the **Preamble** and WORLD_BIBLE §§2–4. These papers do **not** belong quoted in full inside the preamble unless used as a dry epigraph; they are the **fact floor** under fictional escalation.*
 
@@ -361,7 +361,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **The finding (paraphrase — confirm before quoting):** A major genetic risk factor for **severe** COVID-19 lies on **chromosome 3** (3p21.31 cluster) in a haplotype **inherited from Neanderthals**. Carrier frequencies vary by population — notably **common in South Asia**, **present at lower frequency in Europe**, and **often absent in East Asia** — creating the geographic **severity skew** the real pandemic showed, not a clean infection divide.
 
-**Why it matters to this book:** This is the **honest anchor** behind the preamble’s “gene drive virus / populations preferentially at risk” and the Mandate’s statistical sparing of East Asia. The novel **fictionalizes** the locus into an engineered **acute kill-switch**; real COVID did **not** work that way — it modulated **severity**, and everyone could be exposed.
+**Why it matters to this book:** This is the **honest anchor** behind the preamble’s “activation construct / populations preferentially at risk” and the Mandate’s statistical sparing of East Asia. The novel **fictionalizes** the locus into an engineered **acute kill-switch**; real COVID did **not** work that way — it modulated **severity**, and everyone could be exposed.
 
 **Honesty flags for the author:**
 - Do not write “COVID targeted Neanderthal DNA” as literal history — write “**learning from COVID’s severity map**” or “**keyed to the same haplotype**.”
@@ -375,7 +375,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 ---
 
-### B. Gene drives (heritable spread — principle real, human weapon hypothetical)
+### B. Activation construct / germline inheritance (Phase 1 heritable spread — fictional mechanism on real retroviral floor)
 
 **Papers:**
 
@@ -383,9 +383,9 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 - **Esvelt, K. M., Smidler, A. L., Catteruccia, F., & Church, G. M. (2014).** "Concerning RNA-guided gene drives for the alteration of wild populations." *eLife*, 3, e03401. https://doi.org/10.7554/eLife.03401
 - **National Academies (2016).** *Gene Drives on the Horizon.* https://doi.org/10.17226/23405
 
-**The finding (paraphrase):** A **gene drive** biases inheritance so a construct spreads through a population far faster than Mendelian rules. CRISPR-based drives are **plausible in insects** and discussed for disease-vector control; **human deployment is not responsible science** and remains **speculative fiction** here.
+**The finding (paraphrase):** A **gene drive** biases inheritance so a construct spreads through a population far faster than Mendelian rules. CRISPR-based drives are **plausible in insects** and discussed for disease-vector control; **human deployment using gene drives is not responsible science** and remains **speculative fiction** here. The novel’s weapon instead uses a **germline-integrating retroviral construct** that can pass to offspring without being a gene drive.
 
-**Why it matters to this book:** Explains “**even when cured, survivors passed it to their children**” and Phase 2’s universal latent construct without invoking magic. The preamble’s “gene drive virus” should be read as **retroviral + drive-capable construct** (WORLD_BIBLE §2), not a natural pandemic.
+**Why it matters to this book:** Explains “**even when cured, survivors passed it to their children**” and Phase 2’s universal latent construct without invoking magic. The preamble’s activation construct should be read as **retroviral + germline-integrating** (WORLD_BIBLE §2), not a gene drive.
 
 > **[VERBATIM TODO]** — one line from Esvelt et al. on CRISPR drives altering wild populations; or National Academies on uncertainty/containment.
 
@@ -413,6 +413,26 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 ---
 
+## 5.5. Continuity of government — the real floor under the Union's survival annex
+
+*Anchor for the **Devolution / frozen-throne** material (`biological_countermeasures_in_world.md` § VI). This is the **institutional** fact floor under the antagonist apparatus, the counterpart to the genetic floor above — a real, checkable present-day instance of "the powerful pre-select who survives."*
+
+**Source:** Annie Jacobsen, *Biological War: A Scenario* (2026), and interviews around release (Breaking Points, July 2026). Building on her *Nuclear War: A Scenario* (2024) and *The Pentagon's Brain* (2015).
+
+**The unclassified floor (paraphrase — confirm specifics before quoting):** US continuity-of-government planning runs on a public directive, **FCD-1 (Federal Continuity Directive One)**; readiness is graded by **COGCON** (Continuity of Government Readiness Condition), analogous to DEFCON. At the highest condition, a program referred to as **Devolution** relocates a **pre-designated, classified** group to hardened **cold / warm / hot sites** to reconstitute government on the assumption that most sitting officials are dead. The design trigger the war games fear is not the pathogen's lethality but **"fear of infection"** cascading into anarchy and insurrection. Jacobsen's framing: *pressure, not panic* — the point is public accountability, not alarm.
+
+**Why it matters to this book:** the honest, verifiable anchor under the trilogy's oldest cosmological move — **the gods who never went home**, the frozen throne, the lifeboat with a guest list. It lets the deep-time orphaning rhyme with a documented present-day structure, which is the science-fiction grounding the thesis depends on (`Thesis.md` § *Why science fiction*).
+
+**Honesty / craft flags for the author:**
+- **The real terms may appear on the page** — sited to the **Continental Union leg of Book III** (`33_volume_III_beatsheet.md` § *Continuity architecture*; `biological_countermeasures_in_world.md` § VI). This is diegetically clean because the **Continental Union is the successor polity to the United States** (`WORLD_BIBLE.md` §1a): FCD-1, COGCON, and Devolution are the Union's *inherited* institutions, so a 2040 relocated-capital official using them is realism, not anachronism. The government Eli negotiates with is *already devolved* — ruined Washington, relocated capital.
+- **Structure, not partisanship** — attach no real 2020s administration or party; the Continentalist Party is post-collapse; these are inherited institutions.
+- Present it as an **administrative document / ordinary bureaucratic vocabulary**, never a briefing — a designation roster, a site manifest, names Eli knows *missing* from a survival list; one or two real terms, once or twice.
+- The AI-plus-bio "who pulls the plug" thread (six firms with more capability than the state) is the **recursion** (`Thesis.md`); one line of texture at most, not a subplot.
+
+**Suggested placement:** no epigraph. Surfaces on-page through the Book III Union leg — the relocated-government negotiation, the registry-as-intake / Devolution-as-exit sorting apparatus (Ch 4–5) — and, sub-surface, the Göbekli "safe reactivation by a consortium that already built its own warm sites" sharpening.
+
+---
+
 ## 6. Nephilot purge — Pömmelte, Gomolava, Basal Eurasian trail
 
 *Anchors for Eli's **tracking the carrier line from Göbekli westward** and the **massacre / Alba → elf** beats (`37` § *Tracking the Nephilot line*).*
@@ -423,7 +443,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **The finding (paraphrase):** Early Anatolian/Near Eastern farmers carry a distinct **Basal Eurasian** component — a "ghost lineage" absent in other ancient groups — consistent with a **sealed/refugium nursery** unsealing into the Neolithic spread. In canon this rhymes with **Qingu** stock at Phase VI; **Nephilot** carriers follow a separate down-breeding path but the **archaeogenetic trail Eli can follow begins here**.
 
-**Suggested placement:** *On the record* after **Vol I Göbekli (Ch 17)** chapters; epigraph optional.
+**Suggested placement:** *On the record* after **Vol I Göbekli (Ch 13)** chapters; epigraph optional.
 
 ### B. Pömmelte ring sanctuary — gendered massacre in the henge
 
@@ -486,6 +506,8 @@ Every later ranged weapon is a development along one line of thinking that begin
 *Drop new papers, quotes, and excerpts here as you find them; we'll file and assign placement later. Anything goes — peer-reviewed papers, archaeology reports, ancient texts (Adapa tablet lines, Enūma Eliš, etc.), or a stray sentence that rhymes with the myth.*
 
 ### Enheduanna / Inanna hymn material
+
+**Use lock (2026-07-15):** Use the hymn as an authored human voice across the trilogy, not as a magical key or prophecy. Placement: Book I Ch 12 (damaged/disputed text beside Adapa); Book II Ch 20–21 (contrast with Anthea and rejection of prophetic misuse); Book III Ch 31 (public hearing question of voice, preservation, and authorization). Eli carries the song without owning or canonizing it. Choose a public-domain translation or paraphrase; do not quote an unselected modern edition.
 
 **Candidate use:** sacred authored voice, hymn as rhetoric, priestly displacement, and Inanna's dangerous undomesticated power. This can connect Anthea, Wren, Eli's mother, the Pai performer, and Eli's later bard function without turning any of them into Enheduanna reincarnated.
 

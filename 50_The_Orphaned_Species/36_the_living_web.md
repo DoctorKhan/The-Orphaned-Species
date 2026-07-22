@@ -97,6 +97,102 @@ In the story these tales are usually filed as **metaphor, tourism, or superstiti
 
 **Craft rule:** introduce talking-stone lore **locally** (one culture's name per scene), from **living characters** (growers, sailors, Emrys's footnotes, a shrine keeper) — never as a lecture that "all cultures knew." Effects before etiology: a stone **feels** like it answers before anyone names the mechanism.
 
+## 7b. Knots — tangle, binding, and the tenth  *(UNADOPTED — not canon)*
+
+> **STATUS: UNADOPTED OPTION, 2026-07-21. This section is not canon and nothing may be drafted against it.** Nothing elsewhere in the bible depends on it; no other doc references it. **Revisit only after Volume I is drafted, and only if the drafted climax turns out to want a name.**
+>
+> **Why it is parked, not deleted.** The design is sound but it is **vocabulary for something the book already does**: Manual Override is already untying at personal scale, the Maren release is already a taut thread going slack, and the Volume III climax is already collective release with no owner. It adds a *name*, not a mechanism — and a named metaphysical system pulls directly against four standing rules: *effects before etiology* (§7a), *no clarification arrives as a clean explanation* (§8), *the cosmology cannot arrive as a lecture* (`05` §11), and *if a passage doesn't create a choice, cost, or relationship change it belongs in the companion layer* (`33` §5). The trilogy is already carrying the living web, the Two Trees, the planes, melam/ni, the curriculum, the grid, the amplifier, and the divine council. It does not have room for another system, and the cost of one more is paid in exposition the drafting cannot afford.
+>
+> **The one real argument for eventually adopting it:** it turns the Three Circles from a diagnostic grid into a **single technique at three magnitudes**. That is genuinely valuable — and it cannot be evaluated from a bible. Draft the Avebury release first; if it lands without a name, this stays parked permanently.
+>
+> **Also:** `SOURCE_the_surges.md` §4 — the book is the *answer to its loudest chord*, not a transcription of every chord. *The tenth knot* is a minor 2024–25 line filed under "threaded throughout," never one of the eight. The weaver chord may already be paid in full by this document's physics (threads, knots, tangles, a taut line going slack) having absorbed its shape without its vocabulary.
+
+The web has structure, and **not all of it formed naturally.** This is the field-physics behind the mother-thread (§7), the amplifier, and the Volume III climax — one mechanism, three scales.
+
+### The two kinds, and the diagnostic
+
+| | **Tangle** (natural) | **Tied knot** (engineered) |
+|---|---|---|
+| What it is | Dense, snarled region — threads crossing where life was thick: a settlement, a burial, a birth ground, a massacre | A **binding**, deliberately made, holding threads taut against their own slack |
+| Under attention | **Resolves.** Clarification is untangling; a person, a place, an event comes into focus (§4) | **Tightens.** It clarifies into nothing. It holds, and holding is all it does |
+| Feels like | Noise becoming a life; grief on exit | Retained tension. Pressure without content. Nothing arrives |
+| The dead | Pass through | **Do not pass.** A tied knot is where a thread cannot go slack |
+
+**The diagnostic is the whole thing:** *what resolves under attention is alive; what tightens under attention is a binding.* Eli learns it before anyone explains it, and it is the same lesson his own body already teaches — the charge that tightens when you obey it and releases when you feel it without completing the act. **Manual Override is untying at personal scale.** Do not let a character state the equivalence; let the hands and the field behave the same way twice and let the reader close it.
+
+### The Nine — what the bindings are for
+
+The tied knots are **infrastructure**. They pinned the living substrate so the cold system could be laid over it and run on it — the *High Places over the Wild* (`Thesis.md` § *Return to nature*) given a mechanism. Each holds a region of web taut; the tension is what the grid drew on. The amplifier is a tied knot, small and new. Trapped souls are what taut threads are made of.
+
+**Count discipline:** the number **nine** is *attested, not verified*. Records agree on nine; the candidate sites do not fully agree with each other, at least two claims contradict, and Emrys will argue for a different count from field data. Unlike the practitioners (§4), a fixed number is *permissible* here — these are built objects and someone built a specific number of them — but the characters never hold a confirmed list, and the story must not pay off a completed set.
+
+### The knots are topological, not tight
+
+**A binding is not strong. It is *shaped*.** This is the single most important thing to get right, because it is what makes the whole climax non-violent and non-heroic: a tied knot cannot be destroyed by force, no matter how much force. It persists the way a knotted field configuration persists — because undoing it requires a **change of topology**, not an application of power. Force only feeds it.
+
+Nothing in the story may therefore *break* a knot. What changes one is a specific, correctly-shaped transformation applied from within — small, precise, and useless if you get the shape wrong. This is Emrys's line already drafted, arriving as physics: *"You can't lift it. You can only stop being so loud that it can't be heard."* And it is the reason Crane's program cannot work by scale: **an amplifier adds magnitude to a problem that is not made of magnitude.**
+
+Two consequences to hold:
+
+- **Bindings are stable in either direction of forcing.** Push or pull, attack or feed it — a topologically protected object survives both. Factions have been trying both for millennia.
+- **The invariant is binary, not a quantity.** What distinguishes bound from free is a *kind*, not an *amount*. There is no scale of awakening, no power tier, nobody is "more untied" than someone else. This is the anti-superhero design enforced by the physics rather than by authorial refusal.
+
+### The tenth knot — the operation, not a place
+
+**Every faction reads the tenth as construction.** A tenth binding, tied by the right person at the right ground, completing the pattern and delivering the field to whoever tied it. Crane's amplifier program is an attempt to tie it. Sol wants it tied for the other side. Prophecy language ("the one who will bind the threads") is read the same way by devotees and enemies. **They are all reading an addition into what is a subtraction.**
+
+**The tenth operation is untying.** It was never lost and nobody suppressed it: **release leaves nothing behind.** It builds no monument, founds no lineage, certifies no authority, and produces no artifact — so it vanished from the record while nine bindings stayed visible for ten thousand years. *The absence of evidence is the evidence.*
+
+- **It is performed, not found.** The hunt for a tenth *site* is the factions' error, and the reader should feel the misdirection paying off rather than being cheated: the prophecy comes true **literally** and means the opposite of what everyone built around it.
+- **The cost is a want.** A knot is held taut by what its threads still want. Untying means giving that up — which is why Maren is the model (§7): the only way to free her is to relinquish reunion.
+- **It cannot be done alone.** The ancient bindings hold the wants of many dead. Untying one requires **many people releasing at once** — the collective layer (Cuno's geometry) used to let go rather than to amplify. **No chosen one can do this.** It is the Volume III form: coordinate, then disperse.
+- **It is reversible and unglamorous.** Nothing detonates. A region of field simply goes slack, and the immediate visible effect is small — weather, growth, sleep, the dead moving on. Resist a light show.
+
+### Why the tenth cannot be found — it is non-orientable
+
+**The nine have an outside. The tenth does not.**
+
+The nine bindings are ordinary knots: locatable, approachable, in principle untieable by someone standing outside them and working on them. Ten thousand years of factions have looked for the tenth the same way — a site, a stone, a buried interface — and **the search is incoherent, because the tenth knot has no outside to stand on.** It is **non-orientable**: a surface with one side, where "in" and "out" are not globally distinguishable and no vantage above it exists.
+
+Everything follows from that:
+
+- **Nobody can find it because everybody is already inside it.** It cannot be approached, only recognized. The recognition is the reveal: *we have been looking for the cage from a position that is in the cage.*
+- **There is no master vantage — that is the thesis as geometry.** A cage requires an outside; a throne requires an above. On a one-sided surface there is neither. `Thesis.md`'s *"nothing left above to kneel to"* stops being a moral assertion and becomes a property of the space. **The orphaning *is* the tenth knot** — no rescue arrives from outside because there is no outside for it to arrive from, and the makers' absence was never abandonment from above.
+- **Go around once and you come back mirrored.** This is the recursion (maker → made → maker) rendered as traversal: you do not escape by going further along the surface, because further returns you reversed, the made now the maker, running the cycle one more turn. You escape by noticing the surface has one side.
+- **Two edges related by a nonlocal twist.** The two planes, the Two Trees, "on earth as well" — not two places to be joined but **one surface seen twice**. The unification is a recognition, not a construction (`22_life_technology_and_two_trees_spine.md`).
+- **It can only be untied from within, by everyone at once.** Not a design choice — the geometry leaves no other option. This is why the climax is collective and why no chosen one can perform it.
+
+### The physics register — how this reaches the page
+
+**Emrys carries it, under falsifiability discipline.** He offers the topology as an *analogy that happens to have real mathematics behind it*, immediately marks what would falsify it, and is at least once visibly wrong about the fit. Per `Thesis.md` § *Why science fiction*: the mechanism is stated so it can be **argued with**, never so it must be believed. No character says "Klein bottle" as an incantation, and the word arrives late, from the one person entitled to reach for it, hedged.
+
+**Real anchors (current — for Emrys's register, and for `91_predictions_and_falsifiers.md`):**
+
+| Real result | What it lends |
+|---|---|
+| **Momentum-space Klein bottle from Z₂ gauge fields** — projective symmetry algebra makes the Brillouin zone non-orientable instead of a torus; classified by a **Z₂ invariant** rather than a Chern number; edge modes at two edges related by a **nonlocal twist** ([Nat. Commun. 2022](https://arxiv.org/abs/2204.12438)) | The tenth knot's geometry; binary-not-quantity invariant; **an imposed gauge field changes the topology of the state space** — the grid laid over the substrate, exactly |
+| **Klein bottle quadrupole topological insulators observed in electric circuits** ([J. Appl. Phys., 2025](https://pubs.aip.org/aip/jap/article/137/21/213105/3348185/Observation-of-Klein-bottle-quadrupole-topological)); **Brillouin Klein space in 3D acoustic crystals** ([Sci. Bull. 2024](https://www.sciencedirect.com/science/article/abs/pii/S2095927324003372)) | It has been *built and measured* — Emrys can cite benchtop realizations, and the **acoustic** one lets the Song layer touch real literature |
+| **Hopfions — 3D knotted solitons**, directly observed after femtosecond-laser nucleation ([2026](https://phys.org/news/2026-05-laser-isolated-hopfions.html)); **hopfion rings** nucleated by current pulses, stable under *both* field directions ([Adv. Mater. 2026](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523417)) | Knots as real, persistent structures **in a field**; stability against forcing in either direction |
+| **Hopf number controlled by spin-orbit torque** — knot topology changed by a specific applied twist, not by brute force ([arXiv 2511.23027](https://arxiv.org/pdf/2511.23027); [APS 2026](https://journals.aps.org/apsos/abstract/10.1103/ngvg-h27j)) | **The untying mechanism.** A correctly-shaped transformation changes the invariant; magnitude never does. Crane's amplifier fails for a reason a physicist could state |
+
+**Discipline:** these are analogies with real mathematics, not claims that the web *is* a magnetic lattice. The novel's job is the shape — protected-by-topology, changed-by-twist-not-force, non-orientable-so-no-outside. Preserve at least one piece of evidence that does not fit Emrys's model (`36` §8 corollaries).
+
+### One operation, three scales — the Three Circles as technique
+
+| Circle | The knot | The untying |
+|---|---|---|
+| **Body** | Conditioning: charge deposited, rule waiting to execute | Manual Override — feel it, don't complete the act |
+| **Family** | The mother-thread held taut by hope of reunion | Release at Avebury; both wanting more time and letting go are true |
+| **Civilization** | A binding held by the wants of the dead, powering an inherited system | Many releasing at once; the field goes slack; nobody owns the result |
+
+This is the payoff that makes the Three Circles more than a diagnostic grid: **they are one technique at three magnitudes**, and Eli learns it in that order because that is the only order it can be learned in.
+
+### Guards
+
+- **Never call it magic on the page, and never systematize it.** No rules of knot-tying, no counter-technique, no untying as a skill tree. It is one act with one price.
+- **Do not let Eli tie anything.** The moment untying becomes a power he could invert, the throne is back.
+- **Vocabulary is folk and local** (§7a): *the bound ground, the place that holds, the stone that will not let go.* "Knot" is a word the reader assembles, not a term the world agrees on. **No character says "the tenth knot" as a title** until a faction coins it as propaganda — and when one does, it is a recruitment line.
+
 ## 8. The firing rule (retained — so clarification doesn't stall the plot)
 
 A clarifying scene earns its place only when **both** hold:
