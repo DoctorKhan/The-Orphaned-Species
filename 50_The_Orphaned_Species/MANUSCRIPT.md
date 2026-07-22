@@ -149,7 +149,7 @@ Eli does not know who *his* is. He says nothing.
 
 "I know," Eli says.
 
-"Then you're not lost," the old one says. "You're late. They call me Babaji here — not that Balaji the world's still chasing, the one on every screen with his cities that don't exist yet. That one's a rumour with a bank account. I'm the one who kept this place standing." He sips. "He collects the lost ones. That's why it stands — because he decided it should. Your father asked me to find you room when the net broke. I gave you work, not a wallet."
+"Then you're not lost," the old one says. "You're late. They call me Babaji here — not that Balaji the world's still chasing, the one on every screen with his cities that don't exist yet. That one's a rumour with a bank account." He sips. "Your father asked me to find you room when the net broke. I gave you work, not a wallet."
 
 He looks at Eli plainly. "You're carrying something. Or something's carrying you. Either way, you walk under my name now. The registries are all hunting a Balaji — a face on a feed, half a world away. They'll never find a Babaji. Use it at the wrong door and the wrong men go looking in the wrong city. Don't waste it."
 
@@ -721,7 +721,7 @@ Emrys clears his throat, and his voice has the careful flatness of a man laying 
 
 "Dark is cheaper," the courier agrees. "For everyone. Including you."
 
-The lamp hisses. Out on the water a night heron says the one thing it knows.
+The lamp hisses.
 
 Eli looks at his hands. The noise is there, behind the skin, an ocean behind a door off its hinges — but Nura's cup and the temple count have shown him the width of one held breath, and one held breath is enough room to think a thought in.
 
