@@ -32,6 +32,8 @@ Maren remains tethered by unfinished attachment and hope of reunion. When Eli st
 
 The machine goes dark because its captives walk out, not because Eli becomes its better owner.
 
+**Why release works (mechanism — `40` § The three registers of choice):** the amplifier is powered by **unexamined wanting** — threads kept taut by what they still want, signatures isolated by predictable attachment. It is a machine that runs on autopilot, and it needs its fuel *predictable*: the lock, block, and routing functions all assume each captive signature will keep pulling toward what it lost. A true choice is the one input the design cannot metabolize. Eli releasing Maren — giving up reunion on purpose, without hurry — is not sabotage; it is the demonstration that going slack where the machine assumes taut is possible. Each soul that makes the same choice removes fuel *and* switchboard. The machine was engineered for a species that could be counted on; the release proves the count wrong.
+
 At the same moment, a small number of prepared people and charged grounds enter collective coherence. Eli's transmission provides a seed pattern rather than a command. Those able and willing to catch it become temporarily harder to isolate and signature-lock: their signal participates in a connected field rather than standing as a solitary point cut off from it.
 
 This is the first awakening. It is a local and distributed breach in the old monopoly, not universal enlightenment.

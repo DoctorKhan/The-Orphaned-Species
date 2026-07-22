@@ -80,7 +80,7 @@ The gods, the Seven Pairs / bottleneck, the war in heaven, the orphaning, Adapa 
 
 ## 7. The mother is the taut thread
 
-The model makes the climax fall out for free. The mother is not a separate soul tethered in a machine to be rescued. She is a **thread in the web held taut by hope of reunion.** Clarifying that thread *is* understanding that the only way to free her is to **release the tension** — to give up reunion. Search inverts into release with no extra mechanism. The amplifier that runs on "trapped souls" is, in web terms, the **knotting of threads kept taut by what they still want**; draining it is letting them go slack. (See `00_NARRATIVE_STRUCTURE.md` Leg 7 and the Vol III climax in `05`/`SOURCE_TO_TRILOGY_MAP.md`.)
+The model makes the climax fall out for free. The mother is not a separate soul tethered in a machine to be rescued. She is a **thread in the web held taut by hope of reunion.** Clarifying that thread *is* understanding that the only way to free her is to **release the tension** — to give up reunion. Search inverts into release with no extra mechanism. The amplifier that runs on "trapped souls" is, in web terms, the **knotting of threads kept taut by what they still want**; draining it is letting them go slack. The machine, in other words, runs on **unexamined wanting** — it needs its threads predictable — and a true choice is the one input it cannot metabolize (`40` § The three registers of choice). (See `00_NARRATIVE_STRUCTURE.md` Leg 7 and the Vol III climax in `05`/`SOURCE_TO_TRILOGY_MAP.md`.)
 
 ## 7a. Talking stones — the folk layer — LOCKED
 

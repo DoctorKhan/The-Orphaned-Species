@@ -218,6 +218,8 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Playing him — coercion as courtesy (*Godfather* grammar):** the menace is never in the voice; it is in the favor that becomes a debt, the protection that becomes a leash, the offer that is *sincere and right about the danger* and still a cage. Seed an un-thanked favor early (Vol I–II), call it in at the throne offer (Vol III Ch 27); the private file of the dead is the un-stated threat, shown as grief. Full mapping + drafted seed/payoff scenes in `47_coercion_as_courtesy.md`.
 
+**The predictive apparatus (2026-07-21):** Crane's registry is not merely a list — it is a **behavioral forecasting instrument**: profiles, stress models, incident projections. He predicts carriers, officials, and Eli. Play his trilogy arc as **hit-rate, not ideology**: **Vol I** — his forecasts of Eli mostly *land*, two beats ahead, and the reader should find it humiliating on Eli's behalf. **Vol II** — small misses begin; he files them as noise. **Vol III** — the throne offer is engineered for the Eli he modeled, and that Eli does not arrive: the terminal predictive failure. He is never out-argued; his model simply stops working — and he cannot admit the miss, because a person his instrument cannot predict is an *agent*, a person rather than an asset, and the registry's premise dies with that admission (`40` § The three registers of choice). His refusal to update is the tragedy: he would rather break than concede that the miss is the person.
+
 ---
 
 ## The healer — **Somchai Vichai, RN / field medic** *(name locked; location: mobile / corridor clinics, Vol II reconvergence)*
