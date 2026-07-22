@@ -110,6 +110,14 @@ The final recognition is not “my mother left me the answer.” It is:
 
 > **I am one place where the ancient process is happening now.**
 
+## The deiwos entry — locked example (2026-07-22)
+
+The word web's sharpest political edge. From mid–Book II, rebel cells hail Eli as **Deiwos** — and in every country the word *looks native* (Deus, Dio, Dios, Dievas, Dyaus, Tiw) while being the same fossil morpheme, which the rootbook can prove on one page: the cipher's cleanest demonstration that the reader-facing method (recurring forms before reconstruction) also drives plot. Full thread: `29` § *The Deiwos recognition*.
+
+- **Book II (tree of words):** Eli tracks the sign and the word spreading ahead of him; the rootbook shows him the cognate chain and, with it, the problem — the morpheme *is* the Sky-Father, the kneel built into the grammar. His own name sits in the other river (**El**), which Maren's marginalia noted years ago with a question mark he cannot yet read.
+- **Book III (concordance):** the correction — the oldest layer of *\*deiwos* is simply *the daylit sky* (weather, not warrant), and the horizontal song-name register (Ki/Enki) matches what the marked houses actually do. The concordance beat converts worship back into hospitality without a denunciation scene.
+- **Craft:** the reconstruction stays collaborative and correctable (a local speaker or scholar beats Eli's preferred reading at least once); the sign (three chalked circles) is taught washable — memory over paper, per Weaver tradecraft.
+
 ## Guardrails
 
 - The Rootbook is an interpretive matrix, **not a sixth cosmological artifact** added to the five-object causal chain.
