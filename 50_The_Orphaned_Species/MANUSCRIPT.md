@@ -1098,5 +1098,146 @@ The drones run the channel at dusk, lazy and on schedule. By then the boat is aw
 
 1. **Traditional birth attendants.** Palpation-based fetal positioning, fever management, and the social peril of women's medical knowledge in patriarchal settings are documented across South Asian histories of midwifery. Ila's diagnostic touch is the story's amplification of real, practiced, dangerous expertise.
 
+---
+
+## Chapter Seven — The Forming Line
+
+The cooperative's water keeper meets them at the landing with a clipboard, and the clipboard is not a prop.
+
+Her name is Nguyễn Thị Hạnh; she is somewhere past fifty; and before she says one word of greeting she photographs the boat, the tide gauge, and the three of them, in that order, with a phone in a waterproof case gone milky with use. Then she looks at Eli's feet, which are eleven centimeters off the marked path of the bund.
+
+"On the marks," she says. "The bund is data."
+
+They walk single file. That is the cooperative in one image, Eli will think later: everyone walks on the marks, because the marks are how forty families know what is true.
+
+"Third team this monsoon," Hạnh says over her shoulder, conversationally, the way you'd remark on mosquitoes. "First ones had church money and wanted the rice to be a miracle. Second ones had no faces — company men — and wanted soil rights. Now you." She stops at a sluice gate, frowns at it, and slaps its housing once, hard, like a coworker caught sleeping. The gate thunks obediently into its seat. "So. What do you want the rice to be?"
+
+Emrys opens his mouth, and Eli — learning — gets there first.
+
+"Whatever your logs say it is," he says. "We'd like to see the logs before we see the field."
+
+Hạnh's eyebrows go up one millimeter, which they will learn is her standing ovation. "Huh," she says. "Finally a team that leads with the paperwork."
+
+---
+
+The logs take a day, and the day is the argument — the cooperative's forty-year argument with the world, conducted in numbers.
+
+Sluice schedules in three generations of handwriting. Salinity readings twice a week since before reunification. Planting maps, yield rows, pump-hours, rainfall. A contamination file kept with a separate, colder discipline — the legacy parcels fenced and known to the meter, because this country's fields remember the planes, and the cooperative long ago learned to prove what its soil is *not* before anyone would buy what it is.
+
+And laid against all of it, undeniable because everything else has been ruled out line by line: the west block. Coming up drunk since June. A band through nine fields, taller, darker, early — and, Hạnh's own annotation in red, *not salinity, not schedule, not blight, not spray drift, not the old parcels. Fifth season variable unknown.*
+
+"You eliminated everything," Emrys says, going through it like a man at a banquet.
+
+"We eliminated everything *we* can cause," Hạnh corrects. "Farming is what you control. This—" she taps the red line, "—we don't control. That frightens people who think control is what safety is." She looks at the three of them evenly. "Which is every team that comes. So before your instruments touch my water: what happens to us when your answer is valuable?"
+
+Nobody answers her quickly, and Eli understands that the pause is the most honest thing they have given anyone since Melaka.
+
+"People come who want to own it," Wren says at last. Flat, operational, the truth. "They're a day or two behind us. They were always coming — the band doesn't hide. What changes with us here is that you'll know what you have before they tell you what it is."
+
+Hạnh considers that the way she'd consider a gauge reading. "Huh," she says again, and hands Emrys the sluice key.
+
+---
+
+The west block, walked on its marks, is Ông Bảy's band grown up and grown strange.
+
+Here the line is wider — the eighty meters swelling toward a hundred — and it has begun, subtly, to *organize*: the drunk rice not just taller but tilting, whole rows leaning by degrees toward the band's center line like a congregation toward an aisle. Dragonflies stack above it here too. Frogs sing louder inside it after dark, Hạnh's night-log says, and sing not at all in one place —
+
+— which is the other thing, the thing the cooperative doesn't discuss in front of the children. Off the band's western edge sits a low field, two hectares, that nothing loves. The rice in it germinates and stalls. The frogs skip it. Egrets land at its margin and do not walk in. It is not the old contamination — it tests clean, cleaner than clean, Hạnh says, and her mouth goes thin — it is just *dead*, in a way that no assay names, dead the way a socket is dead when the wire behind the wall has been cut out and carried off.
+
+Eli stands at its edge with his palms roaring soft static, and the static, over that ground, goes *silent* — not calm: absent, a channel switched off — and he steps back from the silence before he has decided to.
+
+"Numbers," Emrys says quietly, already writing. But his face, for once, has stopped leaking words entirely.
+
+They document for two days: the formation mapped stake by stake, water and soil in labeled vials, polarity readings that make Emrys hum his three notes until Hạnh asks him to stop, photographs keyed to the cooperative's own grid because Hạnh will not permit a foreign grid on her fields. The result is the cleanest record of a living line anyone has ever made — coop logs eliminating every ordinary cause, instruments catching the rest. In the evenings, Hạnh's extension officer photocopies everything, because the cooperative keeps its own copy of its own miracle. "Data walks," Hạnh says. "The bund stays."
+
+On the third morning, the fuel seller upriver mentions strangers paying cash, and that afternoon a drone goes over with a rotor-buzz none of them recognize — deeper than the district drones, patient, twice.
+
+Custodians from the south. Something else from the north. The band lies between, growing.
+
+---
+
+The argument happens that night, in the pump house, at whisper volume, and it is their first real one.
+
+"We have the record," Wren says. "We have it *now*. Copies made, coop protected as much as it can be. Every hour after this hour, the record gets more valuable and this place gets less safe. We move at dawn, we draw both teams after us, and these people go back to farming."
+
+"The record's half done. The polarity series needs the week's readings to mean anything — Emrys said—"
+
+"Emrys would measure through a firefight and thank it for the interesting interference."
+
+"If we run with half a record, everything they risked feeding us was for—"
+
+"I'll manage the risk," Eli says, and hears it leave his mouth — the exact sentence, the terrace-manager sentence, the *I'll handle it* of every man who has ever decided on behalf of a room — and Wren goes very still, the stillness with the bill in it.
+
+"You'll *manage* it," she says. "You've been hunted for a month. I've been doing this for years, and I don't manage risk. I *move people out of its way.* Those are different jobs, and you just applied for the wrong one."
+
+"And your job is deciding for everyone when it's time to run."
+
+It lands harder than he means it to — or exactly as hard; he can't tell, that is what anger is — and she takes it without flinching, which is worse than flinching.
+
+"Yes," she says. "It is. And when I'm wrong, I'm wrong alone, and I carry it alone, and you have no idea what that costs, and I am not giving the job to a man because he got loud once in a pump house."
+
+They go to their separate corners of the dark. Nothing is resolved. The frogs sing up and down the forming line, and skip the dead field, all night.
+
+---
+
+*On the record*
+
+1. **Elimination before anomaly.** The cooperative's method — ruling out irrigation, salinity, pathology, and contamination before entertaining a novel variable — is ordinary field science. The dioxin-legacy discipline reflects real Vietnamese agricultural history; specific parcels and protocols here are fictional composites pending the research pass.
+
+---
+
+## Chapter Eight — Ila's Hands
+
+First blood arrives the way Hạnh said everything arrives: at night, through the water, uninvited.
+
+A watch-bell — the cooperative has run night watches on its sluices for forty years, thieves being older than psions — then shouting by the west block, then a flashlight rolling loose on a bund throwing its beam in slow spokes: a stranger in dark clothes vaulting the gate mechanism and gone into the dark with something in his fist — a soil corer, they find later, and three of Hạnh's stakes — and a young grower called Tuấn down in the sluice channel where the scuffle threw him, with the gate's shear-pin housing laid open across his thigh.
+
+By the time Eli reaches the lamplight, there is more blood than the flashlight can make sense of. Tuấn's cousin is pressing a shirt somewhere near it with both hands and all his weight. It is not working. The dark keeps arriving out of the boy's leg in pushes.
+
+The clinic is forty minutes of river away. Everyone knows all of this at once, the way a village knows.
+
+And Eli's hands are already reaching, and he is terrified, and under the terror the noise does the thing it has never done in daylight: narrows. The static drops away channel by channel, the world's second surface goes local — one leg, one lamplit meter of it — and against his palms, held above the mess without touching, there is a *pulse of pressure*, one point, distinct as a knuckle rapped on the far side of a door. Not where the shirt is.
+
+"Higher," he hears himself say. "It's higher — under his hip fold, inside — *there.*" He grabs the cousin's locked hands and moves them, and leans his own weight through them onto the point, and the point pushes back against his palm once, twice, angry, and then the pushes go smaller.
+
+For one instant — he will tell no one this, not even Emrys, not for a long time — his hands do not feel like his hands. They feel the way his father's must have felt: certain in the dirt, knowing without looking, the green hands he has failed to inherit every morning of his life. Arriving now, briefly, on loan, at a bleed in the dark. Then the instant closes and they are only his: shaking, pressing, ordinary.
+
+Ordinary is what works. That is the whole of it — he has located, not healed; the slowing is weight and angle and a belt Hạnh cinches above the wound with the same authority she slaps sluices; the *saving* is the boat, the river, Hạnh driving the tiller like a grudge, the clinic's fluorescent doorway at minute thirty-eight. A pressure point found in the dark two minutes faster than the flashlight would have found it. That is all he did. It is the largest thing his gift has ever done.
+
+The crash finds him on the clinic steps.
+
+It comes on like a fuse browning out — the world dimming from the edges, sound arriving late, and a hunger so total it is indistinguishable from grief. His hands will not stop shaking. His vision closes to a corridor. Emrys, who came down the river on the second boat with, of course, his bag, takes one look, sits him down with his back against the wall, and feeds him sugar dissolved in warm water in small commanded sips, taking his pulse at intervals and writing — actually writing, at three in the morning, on the clinic steps — numbers in the damp notebook.
+
+"There it is," Emrys says softly, to the notebook, almost tenderly. "Bandwidth, boy. You have bandwidth — reach, reception, range. What you do not have, what you may never have, is *depth.* You found the bleed; you couldn't have closed it, not if you'd pressed for a year. Reading is not repair." He caps the pen. "Learn the difference now, at one leg, on steps, with me. There are people out there with the other gift — depth like a well — and one of the worst mistakes walking this world is a reader who believes he's a healer."
+
+"It felt—" Eli's teeth are chattering around the sugar water. "For a second it felt like—"
+
+"Like it belonged to someone else. Yes." Emrys looks at him over the glasses, very old suddenly. "Write that down too. We keep ourselves honest."
+
+---
+
+Tuấn lives. The pin housing missed the artery proper — nicked a branch, the clinic doctor says, bad enough, survivable with luck and pressure in the right place fast, and she looks at the cousin when she says *right place*, and the cousin looks at Eli, and Eli looks at the floor, and that is the entire ceremony.
+
+But in the morning, at the cooperative, an old woman is waiting for him by the drying racks — Hạnh's aunt or great-aunt, a woman folded down to wire and eyes, who takes his hand in both of hers, turns it palm up, and studies it like a ledger.
+
+"My grandmother did that," she says, through the grandson's translating. "Found the blood. Fevers too — through the belly wall, before the midwife could say. They called her hands *nghe* — listening hands." The old woman taps his palm once, dry as a leaf. "She said it was like standing in a doorway. She said: never live in the doorway. Houses are for living. Doorways are for passing through."
+
+She pats his hand, dismisses the entire twentieth century with one sniff, and goes back to her racks.
+
+Eli stands there with a dead Vietnamese grandmother's doctrine ringing against a dead South Asian midwife's hands, and understands, dimly, the shape of the thing he has stepped into: the record he received at the stone is not unique and never was. It is a *lineage* — scattered, hidden, mistrusted, remembered by grandmothers and stakes and logs — and it did not begin with him, and it will not be completed by him, and everywhere the line forms, somebody's elder already knows something the instruments don't.
+
+The price of the night posts itself at noon: a district health notice, faxed to the clinic, requesting details of the "incident and any anomalous presentation." Someone's apparatus read the admission log. The band has a value now, and a location, and a boy's blood on it.
+
+They leave at the next dark tide, with the half-finished record and all of the guilt, and Hạnh sees them off the marks one last time, unsentimental as a gauge.
+
+"Fourth team will be worse," she says. "Go be worth the trouble."
+
+---
+
+*On the record*
+
+1. **Femoral pressure points.** External compression proximal to a junctional bleed is standard first aid; locating the point quickly in poor light is genuinely difficult and genuinely decisive. Eli's contribution is *location under panic* — perception, not repair; the physiology is unmodified.
+2. **Post-exertional crash.** The metabolic cost (tremor, tunnel vision, compulsive hunger) is the story's fixed price for reception, consistent with the series' rule that capacity is bodied, budgeted, and never free.
+
 
 
