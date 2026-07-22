@@ -83,7 +83,11 @@ Mei sees Eli see the drummer. Her face does not change. She calls the next order
 
 ---
 
-By the time the demo thins out, the terrace is littered with cups and the founders have gone back to their screens. Eli coils cable on the service side, moving through the familiar aftermath as if motion alone could keep the song from settling under his ribs.
+By the time the demo thins out, the terrace is littered with cups and the founders have gone back to their screens.
+
+Mei's Friday staff meal is mee goreng with the burnt edges left in on purpose, because Eli once said the burnt edges were the point, and she has remembered it for a year without ever mentioning it, the way she remembers everything. He eats it on an upturned crate with his back against the warm concrete, sweet soy and char and the snap of prawn, and for the length of the plate the noise of the world is just the sound of a place working.
+
+Then he coils cable on the service side, moving through the familiar aftermath as if motion alone could keep the song from settling under his ribs.
 
 Suresh comes in to settle the week, supplier and boatman and fixer when something has to move through a port without becoming paperwork. He counts out the chits with Mei at the till, low, the two of them bent over the money, and Eli is not listening because he is never listening. It is how he gets through a room.
 
@@ -363,7 +367,7 @@ The dock mechanic is last, wiping thread grease off his fingers under the freigh
 
 Eli hears the Cherry Cube before he sees it, and he hears it through the soles of his feet.
 
-The shaft lets out into service levels and above him the noise is not sound anymore, it is weather — engines going by in packs on the sealed avenues, a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage. The Meridian Circuit: the one night the Stack shuts its own arteries so machines can go in circles, and screens six storeys tall replay the machines to people standing where the machines just were. On the mall floor of the Cube, between grandstand feeds, a stage: lights, dancers, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide.
+The shaft lets out into service levels and above him the noise is not sound anymore, it is weather — engines going by in packs on the sealed avenues, a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage. The Meridian Circuit: the one night the Stack shuts its own arteries so machines can go in circles, and screens six storeys tall replay the machines to people standing where the machines just were. And for a held breath, before he can stop himself, it is *beautiful* — the cars coming through the underpass like poured light, rivers of tail-lamp red mapped across the dark city, a hundred thousand faces upturned and lit, the whole vertical world dressed in its own reflection. The Stack has thin relationships and perfect spectacle, and just this once, spectacle is enough to make even a hunted man stand still and look. On the mall floor of the Cube, between grandstand feeds, a stage: lights, dancers, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide.
 
 Eli's head starts to go. It is the Friday demo overload wearing sequins — layered noise, six languages, the chant, the PA, the engines — and the ladder tips in his inner ear, and his hand does the old thing before he can be embarrassed by it: two fingers pressed flat below the collarbone, one long breath out through the teeth. *Stand behind the hands.* The way she taught him, in rooms he can barely remember, before the tower, before everything.
 
@@ -703,7 +707,9 @@ Eli stands there with the co-op's street name folded into the same pocket as Sur
 
 ---
 
-They eat at dusk — rice, dried fish, Ilyas's lime cut six ways because Nura, leaving on the produce truck's schedule, insisted with one look that it be everyone's — and over the empty bowls the courier lays out the trap in four sentences, which is all of it she'll spend.
+They eat at dusk — rice and dried fish, which is nothing, except that Nura has done something to the nothing: the fish crisped in its own fat with torn herbs from the platform's one battered pot, the rice finished with salted cooking water the way harbor women do it, and Ilyas's lime cut six ways because Nura, leaving on the produce truck's schedule, insisted with one look that it be everyone's. For a few minutes the kelong is only a place where people are eating something good.
+
+Then, over the empty bowls, the courier lays out the trap in four sentences, which is all of it she'll spend.
 
 "The song was paid for twice. Once to find the facilities hand who knew it — that's the drummer's job, done in Pelangi Reach. Once to mark whoever came to Melaka asking after the English woman. The van was on the river before you lit up." She stacks the bowls. "They set a net for a family and caught a lighthouse. Now every team in the strait knows the lighthouse exists."
 
@@ -878,6 +884,8 @@ Pak Din, coiling line, raises an eyebrow at his nephew. "Since when does the fer
 The sea does its old work.
 
 They run the coast in the dark hours and anchor behind islands in the light ones, and Eli discovers that a boat is good for him the way the junction box was good for him: bounded work, one rope at a time, the engine's rhythm underneath everything like a patient teacher. The noise is always there now — the world's second surface, the far mutter — but aft, over the engine, with his palms full of rope, it stands behind the sound and waits, and he can live in front of it.
+
+Past midnight on the second night, the bow wave turns to light. Plankton firing green under the hull, every fish a comet, the net floats wearing halos; the boat drags a wedding train of cold fire a hundred meters down the strait. The nephew, who has seen it ten thousand times, still comes forward to look, chewing, and the two of them hang over the rail like boys. Nobody explains it. Nobody measures it. It is the first impossible thing in months that wants nothing from him, and Eli watches it until his neck aches, hoarding it, the way you hoard anything the world gives you for free.
 
 The third night, the water grows a corner.
 
@@ -1144,7 +1152,7 @@ Hạnh considers that the way she'd consider a gauge reading. "Huh," she says ag
 
 The west block, walked on its marks, is Ông Bảy's band grown up and grown strange.
 
-Here the line is wider — the eighty meters swelling toward a hundred — and it has begun, subtly, to *organize*: the drunk rice not just taller but tilting, whole rows leaning by degrees toward the band's center line like a congregation toward an aisle. Dragonflies stack above it here too. Frogs sing louder inside it after dark, Hạnh's night-log says, and sing not at all in one place —
+Here the line is wider — the eighty meters swelling toward a hundred — and it has begun, subtly, to *organize*: the drunk rice not just taller but tilting, whole rows leaning by degrees toward the band's center line like a congregation toward an aisle. Dragonflies stack above it here too. In the dawn wind the band moves half a beat behind the ordinary rice, so the light crosses the field twice — once, and then again, slower, as if the field were remembering it — and it is, Eli realizes, standing on his mark with his hands quiet, the most beautiful thing he has seen since the breach; for one whole minute he forgets to be anyone's instrument and just watches a hundred meters of green think about light. Frogs sing louder inside it after dark, Hạnh's night-log says, and sing not at all in one place —
 
 — which is the other thing, the thing the cooperative doesn't discuss in front of the children. Off the band's western edge sits a low field, two hectares, that nothing loves. The rice in it germinates and stalls. The frogs skip it. Egrets land at its margin and do not walk in. It is not the old contamination — it tests clean, cleaner than clean, Hạnh says, and her mouth goes thin — it is just *dead*, in a way that no assay names, dead the way a socket is dead when the wire behind the wall has been cut out and carried off.
 
@@ -1153,6 +1161,12 @@ Eli stands at its edge with his palms roaring soft static, and the static, over 
 "Numbers," Emrys says quietly, already writing. But his face, for once, has stopped leaking words entirely.
 
 They document for two days: the formation mapped stake by stake, water and soil in labeled vials, polarity readings that make Emrys hum his three notes until Hạnh asks him to stop, photographs keyed to the cooperative's own grid because Hạnh will not permit a foreign grid on her fields. The result is the cleanest record of a living line anyone has ever made — coop logs eliminating every ordinary cause, instruments catching the rest. In the evenings, Hạnh's extension officer photocopies everything, because the cooperative keeps its own copy of its own miracle. "Data walks," Hạnh says. "The bund stays."
+
+It is also, on the second evening, where Wren comes down the sluice plank she has crossed forty times, misjudges the last step, and hops the landing like a startled heron — one absurd, unballasted flail, courier bag swinging — and catches Eli watching.
+
+"Tide moved it," she says, with total dignity.
+
+The plank has never moved. He files the discovery with care, next to the salt-stiff returns and the bill-reading face: she can be embarrassed; it changes her whole face when she is, the armor going transparent for half a second over something younger; and he is, he realizes, in more trouble than he thought.
 
 On the third morning, the fuel seller upriver mentions strangers paying cash, and that afternoon a drone goes over with a rotor-buzz none of them recognize — deeper than the district drones, patient, twice.
 
@@ -1371,6 +1385,8 @@ Bangladesh is four days and costs more.
 
 His father's village stands where Farida's photographs said: green on green, the pond, the jackfruit shade, and Arif's people — an aunt with Arif's exact eyebrows, cousins, a courtyard that assembles a feast out of nothing because a son of the house has surfaced from the sea of the world. Farida comes up from Dhaka on a shuddering bus, hugs him like a sister, and then, being Farida, briefs him like a fixer: who can be told what; which uncle talks; why he cannot stay. His face is his mother's, and his mother's face is in a file, and files travel even here — especially here, where half the village works corridor jobs and every corridor job has a screen.
 
+The feast, before any of that can matter, is specific: ilish from the pond-market fried in mustard oil until the edges lace; begun bhaja collapsing under its crust; khichuri with real ghee, rained on with crisp onions; sweet doi in clay cups sweating on the mat. And one dish that stops him mid-bite — a smashed-potato thing, sharp with mustard and green chili — because his father made it in every rented kitchen on three coasts, always frowning, always saying *it isn't right, the potatoes are wrong here*, and here it is, right: the original of all those exiled copies, and it tastes like a man's homesickness solved twenty years too late. Eli eats until the aunt stops watching him eat, which is the local unit of enough, and for that hour the file, the corridor, and the sea of the world wait outside the courtyard wall, where they belong.
+
 They show him his father's first garden. It is still a garden — someone kept it one, forty years of someone — and the aunt puts a trowel in his hand with ceremony, and everyone watches Arif's son plant a lime seedling in Arif's dirt with hands that read everything and grow nothing, and it takes him until the watering to understand that nobody here expects the plant to live. That is not what the planting is for. *You put your hands where his hands were. That's all a grave is,* Farida says, translating the aunt approximately, *and this one's better, because it eats sunlight.*
 
 He leaves before the week turns, because a man at the bazaar photographed the feast. The limits of return: return is real, and it is one afternoon wide, and wider is a danger to everyone who owns those eyebrows. On the bus south Farida texts him a picture of the seedling and a line of Bangla his father used to say, and he reads it until the letters stop swimming.
@@ -1454,6 +1470,8 @@ Emrys stands up in the question period the way other men throw punches.
 Vessel capacities, he says, actual and published: roughly four hundred fifty liters *total, theoretical*, across contexts that are not even contemporary with each other; residue work supporting cereal porridge and gruel at least as strongly as fermentation; feasting, yes — provisioning, yes — but the evidence showing *gathering*, reciprocity, seasonal cooperation, not a payroll office in the hills. "You have taken uncertainty," he finishes, glasses shaking slightly in his hand, "and rendered it as an invoice. The stones deserve a better accountant."
 
 It wins the room's laughter and loses the war: the consortium does not need to be right, it needs to be *cited*. But it puts the group's faces in that room, on that camera, in that week — Emrys's old defiance announcing to every faction at once that the people the bulletins warned them about have arrived.
+
+That evening the old city feeds them anyway, because it has been feeding arrivals for nine thousand years and is not about to make an exception for the doomed. A courtyard lokanta under a mulberry tree: lahmacun blistered at the rim, isot pepper dark as dried blood and twice as alive, tea in tulip glasses refilled by a boy who keeps score in chalk, and at the end künefe brought out molten, pistachio-green and shameless, with three forks. Emrys eats his grief. Wren eats like a woman doing inventory and then, quietly, has seconds. Nobody talks about stones for one entire hour, and the mulberry drops a leaf in the tea, and the city holds them the way it has held every pilgrim who ever came up from the plain wanting something from the hills.
 
 The site, when they finally stand on it, is smaller than the age of it and larger than the pictures: the tell like a swelling under the skin of the hills, the enclosures open in their shelters, the great T-pillars standing in their circles with their long hands carved folded at their bellies — beings rendered by people who could not or would not show their faces. Civilians everywhere at the margins: dig workers, a shrine's worth of visitors, tea sellers, two soldiers bored under a flag. And beyond the public sectors, behind screening and a guard rotation the consortium pays for, the sealed enclosure — the one behind the fox pillar, the one the backfill calendar closes first.
 
