@@ -19,7 +19,7 @@
 - [ ] Finalize the Book I artifact handoffs: Three-Circles Tablet → partial tree/guardian evidence → King List/Adapa material → Göbekli climax.
 - [ ] Name and ground the remaining cast: Pelangi Reach residents, Tomas and Nia's surrounding relationships, Sol's coalition, Sora's defection path, Hassan's rescuers, and Book III survivors.
 - [ ] Define the *Elmarillion* excerpts and reader-only deep-history layer.
-- [ ] Verify research-sensitive references before prose locks: Göbekli plaquette, Timna serpent, Arslan Tash, Sumerian texts, Enheduanna, *Inana's Descent*, and PIE/Indo-Iranian terminology.
+- [ ] Verify research-sensitive references before prose locks: Göbekli plaquette, Timna serpent, Arslan Tash, Sumerian texts, Enheduanna, *Inana's Descent*, and PIE/Indo-Iranian terminology — **including the Deiwos/Divine Twins citations** (`52` § deiwos entry: RV 1.116.3–5 Bhujyu rescue, Homeric Hymn 33, Alcaeus fr. 34, Pliny NH 2.101, Ward 1968, West 2007 — confirm verse/fragment numbers and the *Divó nápātā* epithet attestations).
 - [ ] Keep the Double-Fork Stone and dragon ghost reserved for Book III; seed Books I–II only with partial motifs and living-person clues.
 
 ## Book I — *The Breach*
