@@ -1,6 +1,16 @@
 # The Orphaned Species — Production Todo
 
-**Status:** current working checklist, 2026-07-16  
+**Status:** current working checklist, 2026-07-16; **drafting-state audit 2026-07-22** (see `MANUSCRIPT.md` header § Assembly state)
+
+## Drafting frontier (2026-07-22, in order)
+
+1. [ ] **Ch 1 ending:** draft the staged Foundry attack (attack during the band set, planted evidence, city sealed — `31` inciting catastrophe LOCK). The hearth must burn inside Ch 1.
+2. [ ] **Ch 2 Meridian transit expansion** (`DRAFT_Chapter_Two.md` ⟦DC-1⟧, ~2–3k words): processing → ring photograph → worker maze → Cherry Cube → Circuit escape → northbound vessel. Then merge Ch 2 into `MANUSCRIPT.md`.
+3. [ ] **Ch 3 — What Didn't Die:** Salmah named + her cost; Wren fold-in; Emrys measures the breach; grounding; the disappear-or-follow decision.
+4. [ ] **Ch 4 — Her People:** Wren's Laleh opening (hard break) + maritime departure.
+5. [ ] **Ring entry** in `26_present_day_cast_expanded.md` (the Ring as institution with people and incentives — on-page from Ch 1; no-sides audit).
+6. [ ] Research passes, just-in-time: Pelangi Reach island texture (Ch 1), Melaka market/river (Ch 2–3), Sama-Bajau (first Timah scene).
+
 **Canon hubs:** `00_NARRATIVE_STRUCTURE.md`, `WORLD_BIBLE.md`, `29_trilogy_plot_and_development.md`, `31_volume_I_beatsheet.md`, `32_volume_II_beatsheet.md`, `33_volume_III_beatsheet.md`, `35_artifact_chain.md`
 
 ## Before drafting
