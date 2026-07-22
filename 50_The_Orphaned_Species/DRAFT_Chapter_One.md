@@ -22,7 +22,7 @@ Under the shade sails the chess boards are already playing their little wars. On
 
 The voice laughs. Someone higher up tells them both to shut up in Bengali, and the sound travels down the concrete shaft with the smell of salt, old paint, and someone's breakfast oil.
 
-He takes the stairs. On the third floor he fixes Rina's fire door with the brick she keeps hidden behind the planter. On the fifth he lifts Mrs. Dutta's abandoned sack of potting mix and carries it up, because everyone else will walk around it all day, and everyone will notice if he stops being the person who doesn't. This is the second circle, the one he understands best and trusts least: the atomized made whole by choice. Forest City is not a family. It is a half-finished resort-port where the displaced learned to feed each other because no one else would. Rina, Mrs. Dutta, Arif's garden, the Forest Foundry founders with their laptops and their countries — none of them blood, all of them the only people he would die among. The orphan wound had taught him the shape of it: you lose the one who fed you, and then you learn to feed, or you do not.
+He takes the stairs. On the third floor he fixes Rina's fire door with the brick she keeps hidden behind the planter. On the fifth he lifts Mrs. Dutta's abandoned sack of potting mix and carries it up, because everyone else will walk around it all day, and everyone will notice if he stops being the person who doesn't. This is the second circle, the one he understands best and trusts least: the atomized made whole by choice. Pelangi Reach is not a family. It is a half-finished resort-port where the displaced learned to feed each other because no one else would. Rina, Mrs. Dutta, Arif's garden, the Forest Foundry founders with their laptops and their countries — none of them blood, all of them the only people he would die among. The orphan wound had taught him the shape of it: you lose the one who fed you, and then you learn to feed, or you do not.
 
 By the time he reaches the ninth-floor garden his shirt is damp and the first workers are calling to one another below.
 
@@ -64,7 +64,7 @@ Eli's hands stop on the ladder rung. This is the third circle, the one that had 
 
 "Because he's alone," Priya says. "Because the form needs a body this quarter. Because it's cheaper to cage one old man than to admit the threshold houses work." She reaches into her satchel and presses something into his palm — a folded chit, a route, a name on the outside that is not Bhowmik's. "Mei says the kitchen's short a hand at the strait. If you wanted to be somewhere the register doesn't look for a day."
 
-It is the kind of offer Forest City makes instead of a promise. Care, passed directly. No system between.
+It is the kind of offer Pelangi Reach makes instead of a promise. Care, passed directly. No system between.
 
 Eli closes his hand around the chit. The field hums through his palm, and for the first time he does not brace against it — he listens to what it is actually offering, which is not a command and not a crown. It is the same thing Maren's mouth had been: *you are safe, you belong, you're home.* The web does not want to rule him. The web wants to feed him, the way the old gesture feeds — and Crane had built an empire on confusing the two.
 
@@ -74,7 +74,7 @@ He thinks of Maren, gone into the long silence the registry called失踪 and the
 
 "I'm going to find her," he says. Not to Priya. To the field, to the NPC, to the frightened animal behind the door. "I'm going to follow the trail instead of waiting for it to reach me."
 
-Priya doesn't ask who. Everyone in Forest City knows the shape of the missing.
+Priya doesn't ask who. Everyone in Pelangi Reach knows the shape of the missing.
 
 He goes down the stairs, past Rina's fire door, past Mrs. Dutta's potting mix, past the chess boards still playing their little wars. The racing sailboats wait beyond the marina wall, masts ticking softly in the dark. Somewhere west, a mother who fed him with her own mouth is held by the same machine that took Bhowmik. Somewhere in his own body, the part that tries and fails to be happy has gone quiet, fed at last by the decision to move.
 

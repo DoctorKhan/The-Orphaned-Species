@@ -1,12 +1,12 @@
 # The Orphaned Species — Manuscript (reconciled draft)
 
-*Volume I — **The Breach**. Present-tense, close third on Eli. Scene-driven: dramatize in real time, let the reader fill in, no establishing blocks or explained interiority. **Voice target:** lyrical but restrained; warm and human; socially funny; sensory-textured; mostly external/cinematic; flowing and contemporary-simple; lightly interpretive; dry in humor; specific with names, jobs, objects, and places. Vary by scene pressure: warmer and more social in Forest City, sharper and more procedural under pursuit, quieter and stranger around psi. Motifs run bare and unglossed (see `32_the_warm_hands.md`). Built on `31_volume_I_beatsheet.md` and `99_open_questions.md`. The Maren prologue, the Aru descent, and the Pai medicine survive in `MANUSCRIPT_v1_archive.md` as harvestable assets.*
+*Volume I — **The Breach**. Present-tense, close third on Eli. Scene-driven: dramatize in real time, let the reader fill in, no establishing blocks or explained interiority. **Voice target:** lyrical but restrained; warm and human; socially funny; sensory-textured; mostly external/cinematic; flowing and contemporary-simple; lightly interpretive; dry in humor; specific with names, jobs, objects, and places. Vary by scene pressure: warmer and more social in Pelangi Reach, sharper and more procedural under pursuit, quieter and stranger around psi. Motifs run bare and unglossed (see `32_the_warm_hands.md`). Built on `31_volume_I_beatsheet.md` and `99_open_questions.md`. The Maren prologue, the Aru descent, and the Pai medicine survive in `MANUSCRIPT_v1_archive.md` as harvestable assets.*
 
 ---
 
 ## Chapter One — The Hour That Belongs to No One
 
-Before light, Forest City belongs to the machines, the workers, and the people who cannot sleep.
+Before light, Pelangi Reach belongs to the machines, the workers, and the people who cannot sleep.
 
 Eli crosses the plaza with the water key in one hand and the hose over his shoulder. Halfway across, something comes out from under the shade sails behind him.
 
@@ -44,7 +44,7 @@ His father did this part with his eyes shut. Eli tries it with his eyes shut. Th
 
 A generator catches somewhere below. Out past the rail the other towers stand black and half-built against the sky, and beyond them the water, going out. He can smell mud and frying oil and the sweet rot under the coconut palms. Two men are already in the trees by the promenade, knocking coconuts down into a net while a third stands below and tells everyone not to die in Bengali.
 
-Forest City is quiet only at this hour. The reopened resort-port is still half unfinished, half refuge. Later the Forest Foundry people will come out with laptops and wet hair, talking companies and countries and the thing they are all building here. The waterparks will start their pumps. The children's train will make its bright useless loop. At night the light-up butterflies will blink in the palms as if the place has decided to be magical by committee. Eli likes it best before it begins. He likes the beach empty. He likes the racing sailboats waiting beyond the marina wall, their masts ticking softly in the dark.
+Pelangi Reach is quiet only at this hour. The reopened resort-port is still half unfinished, half refuge. Later the Forest Foundry people will come out with laptops and wet hair, talking companies and countries and the thing they are all building here. The waterparks will start their pumps. The children's train will make its bright useless loop. At night the light-up butterflies will blink in the palms as if the place has decided to be magical by committee. Eli likes it best before it begins. He likes the beach empty. He likes the racing sailboats waiting beyond the marina wall, their masts ticking softly in the dark.
 
 He's humming before he notices. Three notes, then four, the small turn of it. His mother used to hum it. He stops.
 
@@ -76,7 +76,7 @@ Mrs. Dutta's daughters wait between the mannequins with their school socks falli
 
 At the pizza place, Nico slides the burned slices into Eli's hands because "staff food is a philosophy." Then, one week, Nico stops in the middle of stretching dough and cannot remember what day it is. After that Mei puts him on the free-meal list without asking permission from anyone.
 
-Forest City is not safe because nothing breaks here. It is safe because when something breaks, someone notices.
+Pelangi Reach is not safe because nothing breaks here. It is safe because when something breaks, someone notices.
 
 Then the doors open, and the rest of the burners go up, and the hour Eli can stand inside is over.
 
@@ -218,11 +218,11 @@ Mina and Lopa come skidding out from behind the tailor's counter before their mo
 
 He says tomorrow again and hears himself lie.
 
-Upstairs he packs again and sits on the edge of the bed with the eggs on the table while Forest City closes itself around the night: shutters, water pumps, someone laughing too hard by the pizza ovens, the robot dog clicking over tile below. Outside this place the world has teeth. Checkpoints. Lists. Men who ask second questions. Ports that remember faces. Here, people know his name in the morning.
+Upstairs he packs again and sits on the edge of the bed with the eggs on the table while Pelangi Reach closes itself around the night: shutters, water pumps, someone laughing too hard by the pizza ovens, the robot dog clicking over tile below. Outside this place the world has teeth. Checkpoints. Lists. Men who ask second questions. Ports that remember faces. Here, people know his name in the morning.
 
 The song comes back, not from outside but from under his ribs.
 
-Upstairs he packs again and sits on the edge of the bed with the eggs on the table while Forest City closes itself around the night: shutters, water pumps, someone laughing too hard by the pizza ovens, the robot dog clicking over tile below. Outside this place the world has teeth. Checkpoints. Lists. Men who ask second questions. Ports that remember faces. Here, people know his name in the morning.
+Upstairs he packs again and sits on the edge of the bed with the eggs on the table while Pelangi Reach closes itself around the night: shutters, water pumps, someone laughing too hard by the pizza ovens, the robot dog clicking over tile below. Outside this place the world has teeth. Checkpoints. Lists. Men who ask second questions. Ports that remember faces. Here, people know his name in the morning.
 
 He takes the knife from the table and puts it in the bag.
 
@@ -244,7 +244,7 @@ Eli steps aboard when Suresh tells him, not before. The deck shifts under him, a
 
 "Good," Suresh says. "Don't get proud."
 
-They nose out before the sky changes. Forest City stands behind them in the dark, half-built and full of sleeping people. The waterparks are black shapes around their empty pools; the sailboats knock softly at their moorings; under the shade sails, the automatic chess boards move pieces through games no one is watching. In the plaza the robot dog crosses on its faithful little route — head down, head up, head down again — a machine pretending to patrol a home, or a home pretending the machine is a pet.
+They nose out before the sky changes. Pelangi Reach stands behind them in the dark, half-built and full of sleeping people. The waterparks are black shapes around their empty pools; the sailboats knock softly at their moorings; under the shade sails, the automatic chess boards move pieces through games no one is watching. In the plaza the robot dog crosses on its faithful little route — head down, head up, head down again — a machine pretending to patrol a home, or a home pretending the machine is a pet.
 
 Eli looks away first.
 
@@ -256,7 +256,7 @@ Suresh brings the engine up, slow. "I am not taking you to the man."
 
 "All right."
 
-"If a checkpoint asks, you helped load in Forest City. You want day work. You are stupid but useful."
+"If a checkpoint asks, you helped load in Pelangi Reach. You want day work. You are stupid but useful."
 
 "I can do that."
 
@@ -344,7 +344,7 @@ The man comes out wiping his hands on a rag. He is square and gray and has one e
 
 Eli should leave. Suresh said one door. One door, and this is it. But the words have gone into his body and stopped there. Wrong shop. They do not feel like a refusal. They feel like a test someone forgot to explain.
 
-"I came from Forest City," Eli says.
+"I came from Pelangi Reach," Eli says.
 
 The man with the white eye looks at the boy. The boy closes his schoolbook.
 
@@ -578,7 +578,7 @@ Eli puts himself between them.
 
 The first rider is faster than he looks. A handlebars swing, a forearm to the throat, and Eli is back on the wet brick before he has processed the impact. The second man has a short stick. The third has a knife that looks like equipment, not improvisation. They are not trying to arrest him. They are trying to clear the lane.
 
-He reads the line. He has done this enough times in the Forest City training mornings — angle, range, entry, follow — and his body knows the shape of it. What his body does not know is that three men who move like this are not going to leave a witness, and the lane is too narrow for the Kali to work the way it was meant to.
+He reads the line. He has done this enough times in the Pelangi Reach training mornings — angle, range, entry, follow — and his body knows the shape of it. What his body does not know is that three men who move like this are not going to leave a witness, and the lane is too narrow for the Kali to work the way it was meant to.
 
 The first stick catches his wrist. The second catches his ribs. He turns the knife with his forearm and takes a shallow cut — heat, then cold — and then the first rider is on him, hands around his throat, and the world tilts because pressure at the neck reaches the old fracture faster than anything else.
 

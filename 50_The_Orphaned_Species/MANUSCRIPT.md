@@ -1,6 +1,8 @@
 # The Orphaned Species Book I: The Breach
 
-> **Drafting lock:** present tense, close third. Eli is the home consciousness. Book I remains in Eli except for Wren's Chapter 8 Laleh-extraction opening, separated from the return to Eli by a hard section break. One scene never enters more than one mind. Governing rule: `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED*.
+> **Drafting lock:** present tense, close third. Eli is the home consciousness. Book I remains in Eli except for Wren's Chapter 4 Laleh-extraction opening, separated from the return to Eli by a hard section break. One scene never enters more than one mind. Governing rule: `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED*.
+
+> **Opening alignment — LOCKED 2026-07-15:** Chapter 1 earns and destroys the Pelangi Reach hearth. Canonical Chapter 2 is one sustained flight—southern escape, brief Meridian City ring discovery, Straits crossing, Melaka witness collision, pursuit, and asphyxia—and ends with the breach. Chapter 3 is the aftermath. The existing Chapter 2–4 prose below is **source prose for that restructure**, not the governing chapter boundary; do not add connective polish before the merge/rewrite.
 
 ---
 
@@ -32,51 +34,25 @@ His father did this part with his eyes shut. Eli tries it with his eyes shut. Th
 
 A generator catches somewhere below. Beyond the rail the water goes out flat and grey. He can smell mud and frying oil and the sweet rot under the coconut palms. Two men are already in the trees by the promenade, knocking coconuts down into a net while a third stands below and tells everyone not to die in Bengali.
 
-Forest City is quiet only at this hour. The reopened resort-port is still half unfinished, half refuge. Later the Forest Foundry people will come out with laptops and wet hair, talking companies and countries and the thing they are all building here when the corridor satellite is in range. The waterparks will start their pumps. The children's train will make its bright useless loop. At night the light-up butterflies will blink in the palms as if the place has decided to be magical by committee. Eli likes it best before it begins. He likes the beach empty. He likes the racing sailboats waiting beyond the marina wall, their masts ticking softly in the dark.
+Pelangi Reach is a tech carnival that decided to be a refuge instead. The waterparks are already pumping — slide spouts hissing, splash drums thudding through the raw-concrete bones of the half-finished resort. Up on nine, the light-up butterflies blink on their palms whether the sun has set or not. The children's train starts its bright useless loop at dawn, bell dinging, no passengers, bravely circling a plaza full of men in wet hair and open laptops who are pitching corridor satellites and companies and countries. At the marina the racing sailboats tick their masts against each other like insects. Slack pings stack on cafe tables in three languages. A terrace band tunes for the lunch showcase. Somewhere a generator hums, a water slide spits cold into nothing, and a robot dog barks at nothing on its plaza route. The founders think they are building a future. The waterpark thinks it is a theme park. The only thing both agree on is that the place should be louder than it was yesterday.
 
-Past the rail the other towers stand black and half-open — families on poured concrete, laundry lines between scaffold poles, children who have no wage ticket and no old man who owes their father a favour. Eli has no money and no country. He has a key to the water and a plot on nine and a job because Arif knew Babaji before the hunt. That is luck, not merit, and most mornings the view reminds him before the pitch decks start.
+Eli likes it best before the band starts. Before the Slack pings stack. Before the pitch decks come down to the terrace and the rehearsed optimism fills the air like another layer of heat.
+
+He likes the hour that belongs to no one.
+
+Past the rail the other towers stand black and half-open — families on poured concrete, laundry lines between scaffold poles, children with no wage ticket and no old man who owes their father a favour. Eli has no money and no country. He has a key to the water and a plot on nine and a job because Arif knew Babaji before the hunt. That is luck, not merit, and most mornings the view reminds him before the laptops open.
 
 He's humming before he notices. Three notes, then four, the small turn of it — the song his mother used to hum in the garden when she thought he was asleep. He stops, because stopping is the only way he has left to hear her.
 
 Down in the compound the first generator catches with a cough.
 
----
-
 He goes down.
 
-The Forest Foundry block is still half scaffold and half dream — glass that never arrived, a lobby full of cable drums, whiteboards bolted to raw concrete. Eli resets the plaza robot dog on its morning route, patches the fire door on the loading bay Mei uses for crates, and runs a test line for the terrace uplink before the founders wake up with their laptops and their countries.
+The Forest Foundry block is still half scaffold and half dream — glass that never arrived, lobby full of cable drums, whiteboards bolted to raw concrete. Eli resets the plaza robot dog, patches the fire door on the loading bay Mei uses for crates, runs a test line for the terrace uplink before the founders come down. Over a junction box his mind goes quiet — the way it does over a clean splice and in the dirt and nowhere else.
 
-Over a junction box his mind goes quiet, the way it does over a clean splice and in the dirt and nowhere else.
+Then the band starts.
 
-Priya, who runs facilities scheduling, finds him on the ladder. "You slept up there again?"
-
-"I supervise tomatoes."
-
-"They complain?"
-
-"Not in a language I have."
-
-"Good. Then file a ticket." She taps the tablet — platform wage, no bonus, no equity, the ordinary pay of a man who fixes things while other people pitch universes. Babaji's name got him the job and the garden plot on nine; it did not buy him a room with a view or a share in anything they are building. When she signs him off each shift, the same thought returns: *you shouldn't still be here, and you are.* He never says it out loud. People hear boasting, or they hear someone who hasn't learned yet how fast luck runs out.
-
-He carries a crate of routers to the terrace level for Mei. Tio is already at the wok below the awning. The old man who fishes brings a bucket to the cafe door and sits beside it and waits to be left alone, which is the whole of his wage.
-
-On slow days before shift, Eli walks the mall by obligation more than habit. Rina with the phone cases sees him from three shops away and lifts a brick in both hands, meaning her fire door has slipped again. He fixes it without being asked. Most of the workers speak Bengali when they are tired or annoyed, and Eli speaks enough to make Rina laugh when she calls him a late son of a broken hinge.
-
-Mrs. Dutta's daughters wait between the mannequins with their school socks falling down. Mina asks if England has ghosts. Lopa asks if the chess boards cheat. When Eli says the boards cheat everyone equally, both girls laugh so hard Mrs. Dutta comes out with pins in her mouth and tells them not to encourage him.
-
-At the pizza place, Nico slides the burned slices into Eli's hands because "staff food is a philosophy." Then, one week, Nico stops in the middle of stretching dough and cannot remember what day it is. After that Mei puts him on the free-meal list without asking permission from anyone.
-
-Forest City is not safe because nothing breaks here. It is safe because when something breaks, someone notices. Eli is reminded of that every day — in Nico's burned slice, in Mei's free-meal list, in the way Rina saves him a charger because she expects him tomorrow. Stateless boys with head wounds usually wash up in a hold or a camp. He washed up where people would miss him if he stopped showing up.
-
-Then the founders come down with wet hair and open laptops, and the terrace fills with English and Mandarin and the rehearsed optimism of people who think a corridor satellite makes them immortal, and the hour Eli can stand inside is over.
-
-For a while he's good in it. He can hold a live junction without flinching when the heat climbs, can reset a breaker with bare fingers and have it read as competence, not strangeness — the facilities hand who doesn't burn. Priya sends him three tickets at once. A demo screen loops the pitch deck. Someone's assistant wants Malay, then Mandarin, then a language the translation bot fails on and Mei has anyway, as if she keeps spares under the till. Slack pings stack on phones in the terrace cafe. Two more founders need the uplink before Eli can close the panel he opened.
-
-On the terrace a band starts up for the reopening showcase: two guitars and a drum box, bright shirts, borrowed amplifiers. The committee pays for music on Fridays, as if a song can prove a place is alive again.
-
-At first the music is only another layer of noise.
-
-Then one guitar finds four notes.
+At first it is only another layer of noise. Then one guitar finds four notes.
 
 Eli knows them before he knows he knows them.
 
@@ -256,7 +232,7 @@ Suresh's boat is not one of the clean racing boats beyond the marina wall. It is
 
 Eli doesn't.
 
-He hits the gunwale at a run and Kiran hits it a second behind him, both of them tumbling onto the deck as Suresh casts off and the engine catches rough. The white coats reach the pier as the gap opens — one shouting about quarantine authority, one raising a tablet that has finally found a plaza feed: a square plastic dog, a boy vaulting chess boards — and then the water takes them and the resort takes them and Forest City shrinks behind the marina wall into palms and half-built towers and the bright loop of the children's train.
+He hits the gunwale at a run and Kiran hits it a second behind him, both of them tumbling onto the deck as Suresh casts off and the engine catches rough. The white coats reach the pier as the gap opens — one shouting about quarantine authority, one raising a tablet that has finally found a plaza feed: a square plastic dog, a boy vaulting chess boards — and then the water takes them and the resort takes them and Pelangi Reach shrinks behind the marina wall into palms and half-built towers and the bright loop of the children's train.
 
 Kiran sits up wheezing and grins like a man who has just stolen something. "I am never paying for that duck."
 
@@ -274,7 +250,7 @@ He coils a line without looking at Eli. "He won't send the thing. Won't say a wo
 
 Eli waits. The water knocks at the hull.
 
-"Your mother came through here. During the worst of it. With a husband — Bengali. Rahman. Arif, the gardener. He's gone now." Suresh studies the line in his hands. "She ran with the keepers. The ones who hide the children when it comes on them. You were in that net after. That's how you washed up here, isn't it — Forest City, no papers, Arif's boy on a wage ticket, keeping his head down."
+"Your mother came through here. During the worst of it. With a husband — Bengali. Rahman. Arif, the gardener. He's gone now." Suresh studies the line in his hands. "She ran with the keepers. The ones who hide the children when it comes on them. You were in that net after. That's how you washed up here, isn't it — Pelangi Reach, no papers, Arif's boy on a wage ticket, keeping his head down."
 
 "She vanished here. Ten years." He looks at Eli, finally. "That's what your net was told — dead, don't ask. I wasn't there for the last of it. The man in Melaka knew her when she was still running. Says he has something of hers."
 
@@ -310,13 +286,13 @@ Suresh brings the engine up, slow. "I am not taking you to the man."
 
 "All right."
 
-"If a checkpoint asks, you helped load in Forest City. You want day work. You are stupid but useful."
+"If a checkpoint asks, you helped load in Pelangi Reach. You want day work. You are stupid but useful."
 
 "I can do that."
 
 Suresh snorts. "Everyone can do that until someone asks the second question."
 
-They nose out before the sky changes. Forest City stands behind them in the dark, half-built and full of sleeping people. The waterparks are black shapes around their empty pools; the sailboats knock softly at their moorings; under the shade sails, the automatic chess boards move pieces through games no one is watching. In the plaza the robot dog crosses on its faithful little route — patched at the haunch where maintenance replaced a scuffed panel last monsoon, still reporting to a plaza server when the uplink finds a slot in the broken sky. A machine someone keeps repairing. A home pretending the machine is a pet.
+They nose out before the sky changes. Pelangi Reach stands behind them in the dark, half-built and full of sleeping people. The waterparks are black shapes around their empty pools; the sailboats knock softly at their moorings; under the shade sails, the automatic chess boards move pieces through games no one is watching. In the plaza the robot dog crosses on its faithful little route — patched at the haunch where maintenance replaced a scuffed panel last monsoon, still reporting to a plaza server when the uplink finds a slot in the broken sky. A machine someone keeps repairing. A home pretending the machine is a pet.
 
 Eli looks away first.
 
@@ -410,7 +386,7 @@ The man comes out wiping his hands on a rag. He is square and gray and has one e
 
 Eli should leave. Suresh said one door. One door, and this is it. But the words have gone into his body and stopped there. Wrong shop. They do not feel like a refusal. They feel like a test someone forgot to explain.
 
-"I came from Forest City," Eli says.
+"I came from Pelangi Reach," Eli says.
 
 The man with the white eye looks at the boy. The boy closes his schoolbook.
 
@@ -644,7 +620,7 @@ Eli puts himself between them.
 
 The first rider is faster than he looks. A handlebars swing, a forearm to the throat, and Eli is back on the wet brick before he has processed the impact. The second man has a short stick. The third has a knife that looks like equipment, not improvisation. They are not trying to arrest him. They are trying to clear the lane.
 
-He reads the line. He has done this enough times in the Forest City training mornings — angle, range, entry, follow — and his body knows the shape of it. What his body does not know is that three men who move like this are not going to leave a witness, and the lane is too narrow for the Kali to work the way it was meant to.
+He reads the line. He has done this enough times in the Pelangi Reach training mornings — angle, range, entry, follow — and his body knows the shape of it. What his body does not know is that three men who move like this are not going to leave a witness, and the lane is too narrow for the Kali to work the way it was meant to.
 
 The first stick catches his wrist. The second catches his ribs. He turns the knife with his forearm and takes a shallow cut — heat, then cold — and then the first rider is on him, hands around his throat, and the world tilts because pressure at the neck reaches the old fracture faster than anything else.
 
@@ -666,7 +642,7 @@ The surface breaks open.
 
 The woman from the health table is leaning over the chandlery wall, thermometer hand frozen midair. Behind her, a second man has the first rider by the collar and is not looking at Eli at all. The third attacker is on his knees, hands over his ears, saying something Eli cannot hear over the noise in his own head.
 
-Yet he knew not that the light had gone forth into the street and upward into the Grid; nor knew he that five directions had kindled at once.
+Yet he knew not that the light had gone forth into the street and upward into the Grid; nor knew he that far grounds had kindled at once, each to its own old charge.
 
 He only knows that the hands on his throat are gone, that his lungs are burning, that the brick wall under his back is cold, and that for the first time in his life he can feel the space around him as if it were another limb.
 
@@ -706,7 +682,7 @@ Eli's legs give. The boy and the one-eyed man drag him inside, up the stairs, th
 
 "You remind her of a door," the man says. "That's why they used the song. A door, not a target. You open it, they walk through."
 
-He meant Eli himself. He meant the surge. He meant the seven chambers that now stood open within him.
+He meant Eli himself. He meant the surge. He meant the door that now stood open within him.
 
 Eli cannot answer. His mouth fills with copper and the girl's held breath.
 
@@ -762,7 +738,7 @@ Now began the road northward. They crossed the strait the long way, on a fishing
 
 She set him down at a crossing that was little more than a hut and a dog, and pointed north. "Thailand. Then up. Past Chiang Mai there is a town the map gave up on. Pai. If any ask, you are a hand with no papers. That part is true."
 
-He walked north. It was the longest he had been alone since Forest City, and the seven chambers within him would not close; they hummed. A kitchen in a city he had never seen. A ring of stones upon a coast he could not name. And the old breaking in his skull — the wound that had sundered the filter, as the keepers had said — thrummed like a tuning-fork left to sound through the ages.
+He walked north. It was the longest he had been alone since Pelangi Reach, and the seven chambers within him would not close; they hummed. A kitchen in a city he had never seen. A ring of stones upon a coast he could not name. And the old breaking in his skull — the wound that had sundered the filter, as the keepers had said — thrummed like a tuning-fork left to sound through the ages.
 
 Pai lay in a valley the mountains had folded shut. The river ran brown and swift. The town was a scar of guesthouses and tattoo-parlors and noodle-stalls that never closed, and behind it the jungle rose as it will in every place where the world has left off its building.
 

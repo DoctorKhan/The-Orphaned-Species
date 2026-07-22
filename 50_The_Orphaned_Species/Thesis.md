@@ -26,6 +26,23 @@ The novels uncover this through the **Three Circles: Body, Family, Civilization*
 
 **The circles are also where the meaning of life is *found*, not only where the cage is diagnosed.** Fundamentally the series is about discovering the meaning of life in the three circles, each a relationship with its own positive answer: **Body** — befriending the parts that try but fail to be happy (the NPC/robot within: automatic seeking, appetite, habit — integrated, not suppressed or possessed); **Family** — seeing how we became atomized and learning that bonds can be *chosen* and made better; **Civilization** — seeing how it became Machiavellian and disconnected, and learning that we can *choose how we fit in* without being owned. And through them the true purpose comes into view: **the unification of the Two Trees** — Life and Knowledge made one, the three circles in right relation — **the historical endpoint** the whole timeline has been walking toward (not a throne; the two planes converging, "on earth as well"). *Canonical spine: `40_concepts.md` § "The three circles — meaning-of-life spine"; the unification mechanics: `22_life_technology_and_two_trees_spine.md`.*
 
+## The orphaning is felt as lineage amnesia
+
+The species-scale orphaning is not an abstraction the characters discuss. **It is lived, at human scale, as not knowing where you came from.** A person cut off from their dead is the same creature as a species cut off from its makers: both invent a story to fill the hole, and the story fear writes is always a master.
+
+The severance has a mechanism, and it is the middle circle collapsing (`40_concepts.md` § *lineage memory thins*): elders removed from daily life, apprenticeship replaced by schooling, migration and war and displacement, records held by institutions rather than families, the dead reduced to a surname. **A person without elders is easier to script, because there is no living counter-memory in the room.** That is why every control system in the timeline works on descent — the managed bloodlines, the covenant internalized through lineage, the registry, the pedigree, the file. Own the line and you own who a person is allowed to be.
+
+Two false cures, and they are the old fear-postures wearing family clothes:
+
+- **Lineage as destiny** — blood as claim, inheritance as authority, the chosen line. (*Kneel* to the ancestors; *cage* the bloodline; *burn* whoever is outside it.) This is the cage repainted, and it is the more seductive failure because it feels like reverence.
+- **Lineage as irrelevance** — the self-made modern default: the past is dead weight, you are whatever you decide to be this morning. This is not freedom; it is the orphan agreeing to its own amnesia, and it leaves the hole a new master can fill.
+
+**The mature form is the same rhythm as the festival crown: inherit the practice, not the status.** Reconnection means knowing *specific dead people* — a difficult, particular, loved human being, not a martyr or a mystery — and receiving from them something you can *use and change*: a craft, a recipe, a hand position, a way of treating strangers. A living tradition is handed down by being **understood, not obeyed** (see § *The guard against this thesis*), which means an heir is free to alter it. **Kinship is therefore chosen as well as given** — the web you join by obligation and care is lineage as truly as the one you are born into, and a line that cannot take in the unrelated is a bloodline, i.e. a cage.
+
+This is what makes the *true story of humankind* something other than a history lecture: **it is the species performing, at scale, the reconnection each character performs privately.** Recovering the real ancestors — engineered, abandoned, lied to, and not divine — is the same act as a man finding an ordinary record of his father. Same move, two magnitudes. If the personal arcs land, the cosmological one is already felt.
+
+**Every major character carries a version of this severance and closes some of it** — that is the deliberate rhyme under the ensemble, and the pattern is not uniform: some reconnect through blood, some through chosen kin, some through craft-lineage, and at least one (Crane) proves the failure mode by converting descent into ownership. Per-character tracking: `27_character_development_arcs.md` § *Lineage reconnection*.
+
 ## Why now — obsolescence as the clearing
 
 The reason the question can't be deferred any longer is that the old scaffolding is falling away. Technology is making the busywork obsolete — the jobs, the artificial scarcity, the "labor to eat" machinery that was the original cage (humanity built to mine; the desperation engine; the Social Game). When the busywork is stripped off, the question we always hid behind it stands bare: **what is a human for, when it no longer has to labor to survive?**
@@ -44,6 +61,18 @@ A self-understanding reconstructed from fear just rebuilds the cage in new paint
 "Return to nature" is not primitivism, and not fear of the tools (that would be one more fear-posture). It is stepping **off the High Places** — off the cold infrastructure (the built repeaters, the covenant law, the spectacle) that was always *laid over* the living substrate (the Wild / Edin, Tiamat's warm organic life, the anti-entropic medium conducted through Earth's ley lines). We mistook the machine for the ground and knelt at it after it went dark. Returning to nature means returning to the **substrate** — remembering we are organic creatures in a living system — exactly as the infrastructure laid over it is being decommissioned anyway.
 
 The **consciousness technologies are this**: plant, breath, sound, touch — traditions that run on the organic field, not the machine. They are the traditions that work.
+
+## Why science fiction — the genre is load-bearing
+
+The frame is a deliberate instrument, not a market choice. It does two jobs nothing else does at once.
+
+**1. Science grounds the mythology.** A story about gods, ancestors, and consciousness technologies has one besetting failure: it becomes unfalsifiable, and the reader is asked to *believe*. The scientific register refuses that. Mechanism can be specified, checked, and argued with — the practice works epigenetically (`39_psion_biology.md`), the temples are apparatus and not scenery (`33_the_curriculum.md`), the field has an efficiency cost. **This is why the project keeps a falsifiers list at all** (`91_predictions_and_falsifiers.md`): a claim that could be wrong is a claim a reader can hold at arm's length, weigh, and keep — which is exactly the standing the thesis demands, since *understood, not obeyed* is the whole guard against becoming the next religion. **A mythology stated as mechanism can be disagreed with. A mythology stated as revelation can only be joined or refused.** The style guide's rule follows from this: the novel *may be spiritually serious, but it must never require the reader's assent* (`14_literary_speculative_thriller_style_guide.md` § *Reader promise*).
+
+This is also the § *Technology is rehearsal for magic* argument turned on the reader: the science-fictional frame does for the audience what technology does for the species — it lets the formerly impossible be met as **phenomenon to understand** rather than power to fear. The genre is the reader's version of the same apprenticeship.
+
+**2. The tech anxieties are already the reader's.** AI displacing work, automation making a life's skill obsolete, the question of what a person is *for* when the labor is gone, surveillance and classification, capacities arriving faster than the culture that must hold them — the audience walks in pre-equipped. **The clearing needs no persuasion; it is being lived.** That familiarity is the on-ramp: a reader who already feels the ground going out from under the busywork does not have to be argued into the premise, only shown where it leads. The deep-time material then arrives as the *explanation* for something the reader already recognizes rather than as a cosmology they must first accept.
+
+**The exchange runs both ways, and that is the point.** Science makes the mythology checkable; the mythology makes the technology *legible* — AI is not an antagonist but the latest turn of the recursion (maker builds made thing, then abandons or fears it), which is a frame no purely realist novel can offer. Neither half works alone: the myth without mechanism becomes doctrine, the tech without deep time becomes topical.
 
 ## The split medicine
 
