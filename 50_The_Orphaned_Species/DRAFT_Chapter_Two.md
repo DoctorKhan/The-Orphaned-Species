@@ -78,7 +78,7 @@ The tingle climbs the back of Eli's neck and into his scalp. The hair stands up 
 
 They clear the Johor shallows by mid-morning and the roadstead off Meridian City opens on the port side — and here the sea stops being empty.
 
-> ⟦DC-1: Meridian City processing beat — invented for the canonical restructure; not in the source prose. Flagged below.⟧
+> ⟦DC-1 — RESOLVED: full transit drafted 2026-07-22. See foot of file.⟧
 
 A quarantine line strings the channel: floats, a screening pier, a grey cutter idling with its number painted out. Suresh throttles down to nothing and makes them lie flat under the tarp lip while a processing tender works the boat ahead — a ferry running half-full, its passengers filed off one by one through an arch on the pier. Eli watches through a hand's width of gap because he cannot not watch.
 
@@ -86,19 +86,127 @@ The arch is the first machine of its kind he has ever seen up close. People walk
 
 So this is it, Eli thinks. The thing the keepers ran from. It doesn't look like a war. It looks like a queue.
 
-The tender swings toward them. Suresh stands, holds up a manifest and a carton of cigarettes, and talks in the bored register of a man who has paid this exact toll a hundred times. A masked officer glances into the cooler, glances at the rice, and finds the dark water past the boat more interesting. The carton changes hands.
+The tender swings toward them.
 
-"That was a bribe," Eli says, when they're moving again.
+Suresh stands, holds up a manifest and a carton of cigarettes, and talks in the bored register of a man who has paid this exact toll a hundred times. It has always worked. Eli can see that it has always worked in the set of his shoulders, the way a man stands inside a routine.
 
-"That was hospitality," Suresh says, and brings the engine up, and does not look at the pier again. Eli does. He looks until the arch is a grey line and then nothing, and the shape of it stays behind his eyes longer than it should, the way the song does.
+The officer takes the carton and keeps talking. New orders, since last night. There is an incident city to the south. Small craft land their people for screening. Cargo goes on. People don't.
 
-The strait carries them north the rest of the day, past fishers showing little of themselves and one police launch idling with its blue light off. The war has made everyone economical with brightness.
+"That's a bribe you're holding," Eli says under his breath.
 
-Melaka begins as cranes and roofs, then old walls, then the river mouth opening between buildings that look like they survived by agreeing to be useful. A yellow quarantine banner hangs from the customs shed. Suresh cuts the engine to idle and hands Eli a paper with one word on it and a line beneath.
+"It's hospitality," Suresh says, not looking at him. "Hospitality has a ceiling."
 
-*Ask once.*
+What the carton buys, in the end, is one word. The officer's pen hovers over the transfer slip at *point of boarding*, and Suresh says, "Deckhands. Casual. Boarded at Johor," in the same bored register, and the pen writes *Johor* instead of the name of a burning city. Suresh looks once at the blue tarp bundle amidships — one heartbeat of arithmetic Eli watches him do and will not blame him for: the boat, the crew he pays, the cargo he carries for someone who does not forgive losses — and then he is pressing the folded paper into Eli's palm as the tender comes alongside.
 
-"You carry one crate off and you walk," Suresh says. "You don't wait for me. You don't say my name in that city." He almost says something else, and doesn't, and that is how Eli knows the man is frightened for him.
+"Get through their machine," he says, low. "It reads bodies, so be boring. Bangla carries you further than English inside — the Stack runs on it three levels down. And not the old man's name. Not on anything with a stamp." He almost says something else, and doesn't, and that is how Eli knows the man is frightened for him.
+
+The tender takes them. Suresh's boat moves off with the rice and the limes and whatever the tarp holds, and does not look back, because looking back is a thing that gets noticed.
+
+---
+
+The queue moves at the speed of the machine.
+
+Up close the arch is smaller than dread made it and worse: people pause on the painted mark one at a time while the gantry leans in overhead, sensors adjusting with a soft insect patience, and a light decides. Ahead of Eli a grandmother is passed through with her bags. A young man with a port worker's shoulders is turned aside by a gloved hand on the sternum — not rough, worse than rough, *routine* — and walked to the pen where the tablets are.
+
+Eli steps onto the mark. *Be boring.* His palms prickle once, the useless read, mixed noise and nothing, the way they always are; he lets his eyes rest on the paint and thinks about cable runs, about the difference between a crimp that holds and a crimp that looks like it holds. The gantry hums. The light decides.
+
+He is through. The relief lasts three steps and then turns over into something colder, because the machine was not wrong about him. It just hasn't met him yet.
+
+Inside, Meridian City goes up instead of out. They call it the Stack, the workers in the sorting hall, and from the intake level Eli can see why: lanes and galleries and service tiers rising away under grow-lights, a vertical city where the translation is instant and flawless in six languages and nobody has touched anyone in years. Screens sort the arrivals by cohort. The wall of faces here is the length of a tennis court, laminated, curling, printed by three different offices in three different formats — the missing and the wanted filed together, because at scale the difference stops mattering to the filing.
+
+Kiran's lane goes left. Work placement, able bodies, no papers. There is no goodbye in the geometry of it — a barrier, a slow current of men, one look back across the hall. Kiran mouths a word. It might be *go.* It might be the start of a joke about the duck. The lane takes him, and the Stack does what the Stack does, which is continue.
+
+On a pillar by the document lanes, a notice in four languages restricts small-craft transfer of medical goods pending review, by order of the Office of Corridor Logistics, over a designation and a seal. The man queuing in front of Eli reads it twice and says, to no one, that the same office ran the insulin boats through the worst of the closures, that his sister is alive because of that office, and now this. Nobody answers him. The queue moves.
+
+---
+
+The document clerk is a Bengali woman in her forties with reading glasses pushed up into grey-streaked hair and a lanyard so faded the photograph could be anyone. She asks him in Mandate-accented English for his slip. She asks him in Bangla, without looking up, where his people are from.
+
+He answers in Bangla. His father's district, the river name, the way Arif said it. Her vowels, when she replies, are from two rivers over. Her eyes come up to his face and stop, and something behind them opens and closes fast, like a shutter.
+
+"Wait here."
+
+She is gone eleven minutes. When she comes back she sets a tablet on the counter, turned toward him, her thumb resting on the bezel like a woman holding a door.
+
+"Confirm this is not you," she says, in the flat voice of a form.
+
+The frame is grey and institutional: a bench, instruments, a woman's hands mid-work. The face is turned half away and it does not matter, because he would know the hands anywhere, and on a cord at her throat, caught mid-swing by the shutter, hangs a ring of two metals — silver and brass, joined at a seam nobody ever filed smooth. The zoom is clean enough to read the letters inside the band.
+
+*Same soil.*
+
+It lands the way the song lands. Hair up along both arms, heat behind the sternum, the certainty arriving whole and bodily a full second before his mind can even begin the work of doubting it. He puts his hand flat on the counter because the counter is what there is.
+
+"Where—" he starts.
+
+"Routing," she says, still the form voice, and scrolls once. Chain of custody, processing stamps, a records transfer through a Melaka node — and there, in the middle of the metadata, one word he already carries folded in his pocket in Suresh's handwriting. Two roads, arriving at one door. That is not an explanation. It is the only verification the world is going to offer him, and his body has already accepted it.
+
+Her voice drops out of the form and into Bangla. "The system saw what I saw. Your intake photograph is flagged — resemblance match, records hold, extended assessment. That queue goes up into the Stack, and files that go up do not come down whole. Once they hold you, you are theirs to explain." She looks at the screen, not at him. "A file can close without its body one way from this desk. Discharge to vessel. That lane needs a work history."
+
+He understands her one beat before he lets himself understand her.
+
+The wage ticket comes out of his pocket the way a tooth comes out. A year of Fridays. Arif's name and Babaji's kindness pressed into laminate, the one paper that says he was somewhere, legally, doing something, wanted at a rail by people who knew his face. Her pencil hovers.
+
+"You understand what you're spending."
+
+"It's already spent," he says, which is not the same as it not hurting.
+
+The ticket goes into another man's file — some name he will never meet, some case that needed a work history to close — and his own file exhales and shuts. *Records should reach their people,* she says, folding her glasses down as if the sentence were about optometry. *That's the whole job. Upstairs they've decided the job is keeping them.* At the far end of the counter a supervisor's head has come up, the way heads do when a terminal is used at the wrong depth by the wrong lanyard, and she does not hurry — hurrying is a confession — she stamps, tears, and points him at a door marked with a mop-and-bucket sign as if she is directing him to a toilet.
+
+"Level down. Ask for the shaft under Cherry Lane. In Bangla."
+
+---
+
+The Stack has an official map and the map is a lie of omission — atriums and transit spines and nothing else, a city drawn by people who have never carried anything through it. What actually connects Meridian City is men.
+
+The construction worker under Cherry Lane hears Eli's Bangla and answers with his badge already in his hand, turning it over like a man weighing it. "If this gate opens on my number twice in a shift, I lose the wage and the bed," he says, and opens it anyway, and gives him one segment — *down the dead escalator, left at the flooded junction, and that is all I know, I lay conduit, I don't travel.* A cleaner at the flooded junction looks at his face, looks at the water, and moves her cart to uncover the dry crossing. A cook in a service galley feeds him rice off the shift pot without being asked and tells him which left not to take. One man — young, tired, a mattress voice — says "I have children," and turns away, and nobody argues, because the network is made of people and people have edges.
+
+The dock mechanic is last, wiping thread grease off his fingers under the freight ramps, and he gives Eli the only thing the whole maze has lacked: a clock. "Freight rolls out of the Cube at the last safety car. You want the tire trucks. Not the food trucks — food gets searched, everyone steals food." He looks at Eli once, head to feet. "Race night. Whole city's sealed for the circus. Lucky for you. The circus is the only thing left that opens doors."
+
+---
+
+Eli hears the Cherry Cube before he sees it, and he hears it through the soles of his feet.
+
+The shaft lets out into service levels and above him the noise is not sound anymore, it is weather — engines going by in packs on the sealed avenues, a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage. The Meridian Circuit: the one night the Stack shuts its own arteries so machines can go in circles, and screens six storeys tall replay the machines to people standing where the machines just were. On the mall floor of the Cube, between grandstand feeds, a stage: lights, dancers, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide.
+
+Eli's head starts to go. It is the Friday demo overload wearing sequins — layered noise, six languages, the chant, the PA, the engines — and the ladder tips in his inner ear, and his hand does the old thing before he can be embarrassed by it: two fingers pressed flat below the collarbone, one long breath out through the teeth. *Stand behind the hands.* The way she taught him, in rooms he can barely remember, before the tower, before everything.
+
+Security has him by the arm a second later — wardrobe margin, staff corridor, a stray with no lanyard — and is turning him toward the bad kind of door when a voice says, "Wait."
+
+The boy made of brightness is standing in the staging area with a towel around his neck, between numbers, sweat cutting through the stage glass on his face. He is smaller than his screens. Everyone stops when he stops; that is what his life is.
+
+He is looking at Eli's hand, still flat below the collarbone.
+
+"Who taught you that?" he says.
+
+"My mother," Eli says.
+
+The boy comes closer. Looks at his face the way the clerk looked at his face — the shutter opening, and this time not closing. Things circulate under the Stack that the Stack doesn't know it carries; Eli understands, from the way the boy's eyes go to his hairline, his jaw, the shape of him, that a certain grey institutional frame has been to this dressing room before him.
+
+"She sat with me under a stairwell once," the boy says. "Four hours. I was fourteen and the noise came and everyone else went to get someone, and she just — stayed. She taught me the fingers and the breath. She never wrote any of it down. She said records are for people you don't intend to come back to." A muscle moves in his jaw. "Then she came back. Every time, until she didn't."
+
+The security chief beside him says a time, quietly, the way people manage the weather around a star. Two songs left. The boy nods without looking away from Eli.
+
+"I can't come," he says, and it is not an apology, it is arithmetic — the dancers, the crew, the chanting town of people whose safety is his schedule. "But my show leaks. Wardrobe corridor to the freight ramps, it's cleared for my own people, and someone has already been moving bodies through my leak tonight, so one more is nothing." One corner of his mouth. "You have her face. Try to keep it."
+
+They put a wardrobe jacket on Eli because everything in the corridor wears one, and for eleven metres a barrier-gap of fans sees him and screams on principle — a surprise guest, a new member, phones up, a wall of lit hands — and the corridor holds and nobody touches anyone and then he is through, down, out, into diesel air and the smell of hot rubber, where the tire trucks are marshalling under the grandstand ribs.
+
+A figure stands at the convoy's edge with a cap pulled low and a courier bag across the chest, checking pallets against a list that is not the freight list. She does not look at him. She does not look at him with such precision that, much later, he will understand it took practice.
+
+The last safety car goes by overhead like a sheet tearing. The convoy rolls.
+
+---
+
+They put him over the side of the harbor into a fish boat running north empty, and the Stack becomes a lit wall behind him, and then a glow, and then weather.
+
+At the strait's pinch a grey cutter with its number painted out sits at anchor athwart the lane, and as the fish boat slides past it something presses on Eli — a thumb of pressure behind the eyes, patient, incurious, like a hand testing each window of a house at night. He keeps his eyes on the deck boards. It passes. When he finally looks up, the cutter is behind them and unlit, and no one on the fish boat has felt anything at all.
+
+He sleeps two hours against the net locker and dreams that someone is counting doors in a long corridor, slow and even, and wakes with his heart going, and in the dark the counting continues for one more beat before it stops.
+
+Melaka begins as cranes and roofs, then old walls, then the river mouth opening between buildings that look like they survived by agreeing to be useful. A yellow quarantine banner hangs from the customs shed. The skipper, who has asked him nothing the whole way, which is its own kind of payment, hands him a crate of dried fish as the pier comes alongside.
+
+"You carry one crate off and you walk," he says. "You were never aboard."
+
+*Ask once,* says Suresh's paper in his pocket. He walks.
 
 ---
 
@@ -262,7 +370,7 @@ He pulls.
 
 Four calls I made where canon left room. Each is easy to reverse.
 
-1. **⟦DC-1⟧ — RESOLVED AGAINST THE GLIMPSE (2026-07-22, audit).** The locks answer this: Eli **physically transits Meridian City** — Mandate processing splits the survivors (`31` Movement 2, LOCKED); the archive worker routes the **wedding-ring photograph** and Eli sees it during processing (`99` #1, LOCKED); the Cherry Cube idol beat (LOCKED), the Bengali worker-network beat (LOCKED), and the **Meridian Circuit escape** (LOCKED) all live here. "Ring discovery" = the ring *photograph*, not the apparatus and not the tablet. **The glimpsed-from-the-boat passage (§ "They clear the Johor shallows") stands as the *approach*; the transit sequence (~2–3k words: processing → photograph → worker maze → Cherry Cube → Circuit escape → northbound vessel) is the next drafting task, inserted before the Straits crossing.** Without it, Eli has no reason to trust the witness rumor enough to burn his cover in Melaka.
+1. **⟦DC-1⟧ — RESOLVED AND DRAFTED (2026-07-22).** Full Meridian transit now in-file: failed evasion (hospitality has a ceiling — the carton buys only *boarded at Johor* on the transfer slip); the arch ("it hasn't met him yet"); Kiran separated into the work-placement lane (open thread — no fate assigned); Commissioner Ma seed (corridor-logistics notice + the insulin-boats grumble); the Bengali records clerk and the **ring photograph** (surge-recognition before verification; routing metadata carries the chandlery name — two roads, one door, which is why he burns his cover in Melaka); **the cost = his wage ticket**, spent into another man's file (rhymes with Ch 1's "only paper he has left"); the worker maze (badge risk, the refusal with children, the mechanic's clock); Cherry Cube on race night — idol recognition via the **grounding gesture** (two fingers below the collarbone, the long breath, Maren's teaching), one memory ("records are for people you don't intend to come back to — then she came back"), wardrobe-corridor exit, fans scream at a surprise guest, nobody used as a shield; **Circuit escape** on the tire trucks at the last safety car; the unrecognized courier figure who does-not-look with practice (Wren — reader irony only, preserving the Melaka wrist-catch as their first meeting); northbound fish boat with the first psionic brush (cutter pressure, the counted doors that stop one beat late). Idol stage name deliberately withheld on-page; the crowd chants two syllables. Provisional naming deferred to cast doc if ever needed.
 
 2. **The three-rings fragment at the breach** (§ breach). `99 #2` permits "one ordered fragment may surface (three concentric circles)." I took the option because it plants the Three-Circles grammar wordlessly before the Meridian tablet names it. Cut it and the breach is pure undifferentiated noise, which is also canon-clean.
 

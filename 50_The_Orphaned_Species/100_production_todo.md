@@ -5,7 +5,7 @@
 ## Drafting frontier (2026-07-22, in order)
 
 1. [x] **Ch 1 ending:** staged Foundry attack drafted (2026-07-22) — attack during the late band set; hearth burns inside Ch 1.
-2. [ ] **Ch 2 Meridian transit expansion** (`DRAFT_Chapter_Two.md` ⟦DC-1⟧, ~2–3k words): processing → ring photograph → worker maze → Cherry Cube → Circuit escape → northbound vessel. Then merge Ch 2 into `MANUSCRIPT.md`.
+2. [x] **Ch 2 Meridian transit expansion** drafted (2026-07-22): processing → ring photograph (wage-ticket cost) → worker maze → Cherry Cube → Circuit escape → northbound vessel with first psionic brush. **Still owed:** author read-through, then merge Ch 2 into `MANUSCRIPT.md`.
 3. [ ] **Ch 3 — What Didn't Die:** Salmah named + her cost; Wren fold-in; Emrys measures the breach; grounding; the disappear-or-follow decision.
 4. [ ] **Ch 4 — Her People:** Wren's Laleh opening (hard break) + maritime departure.
 5. [ ] **Ring entry** in `26_present_day_cast_expanded.md` (the Ring as institution with people and incentives — on-page from Ch 1; no-sides audit).
