@@ -206,7 +206,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 |---|---|---|---|
 | *(generic)* **angel** | **Ch 1 or 8:** word-trigger surge in song/prayer — body only (`SOURCE_the_surges`) | — | — |
 | **Michael** | **Ch 8:** **Sora Vithan** — medal or prayer fragment under collar; protector faith, no exposition (`26` § Sora) | **Ch 16:** *sar* vs angel in dispute; **Ch 20:** Michael in church glass at draining end | **Ch 25:** landscape/liturgy double-read; **Ch 29 (optional):** one watched-depth fragment at western charged ground — portion logic, not winged ally |
-| **Gabriel** | — | **Ch 19–20:** annunciation echo in healer rumor; Gabriel in church iconography | **Vol. II Ch. 18:** healer refuses messenger/Son-of-Man crown *(agency mode ON HOLD — `46` § H)* |
+| **Gabriel** | — | **Ch 19–20:** annunciation echo in healer rumor; Gabriel in church iconography | **Vol. II Ch. 18:** healer refuses deification / healing-on-demand (costs a sufferer — `32` Ch 18); **Vol. III Ch. 26:** refuses messenger/Son-of-Man **title** *(agency mode ON HOLD — `46` § H)* |
 | **Prince of Persia** | **Ch 13:** rival psion team on the ground (no name yet) | **Ch 16:** Daniel register + unit callsign **"Prince"** or **"Persia hold"** in intercept/briefing | **Ch 28–29:** codename resolves to **national sar** — partition war, not a demon; human operator was wearing a title |
 
 **Cast lock:** **Sora Vithan** carries Michael (Vol I seed → Vol III defection rhymes with refused protector). **Rival national team** wears Persia-prince callsign (Vol I Ch 13 → Vol III reveal). **Healer** carries Gabriel projection (Vol II rumor → Vol III refusal).

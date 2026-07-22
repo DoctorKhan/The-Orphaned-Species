@@ -630,7 +630,7 @@ The final movement comes full circle, but not as a reset or geographic retreat. 
 
 ### Reform pressure on the Continental Union — LOCKED
 
-The federation does not reform the Continental Union because Eli persuades Washington in a single encounter. D.C. makes the Union's safety argument public; Hawaiʻi and the other nodes make a competing system visible and repeatable. Conditional admission, local authority, transparent records, review, exit rights, and successful mixed communities create pressure through replication, negotiation, defections, and public comparison. The Union may adopt reforms, fracture, or resist; the trilogy proves a viable alternative rather than promising a completed national conversion.
+The federation does not reform the Continental Union because Eli persuades Washington in a single encounter. D.C. makes the Union's safety argument public; Hawaiʻi and the other settlements make a competing system visible and repeatable. Conditional admission, local authority, transparent records, review, exit rights, and successful mixed communities create pressure through replication, negotiation, defections, and public comparison. The Union may adopt reforms, fracture, or resist; the trilogy proves a viable alternative rather than promising a completed national conversion.
 
 ### Final movement — the unremarkable afternoon
 

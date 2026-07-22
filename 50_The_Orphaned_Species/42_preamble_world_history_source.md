@@ -35,7 +35,7 @@
 
 1. **The "Fractured" / threshold-house split** — one unexplained word + one glimpsed building conveys the whole three-way response to the awakening and raises Eli's personal stakes (what he would be classified as).
 2. **Ancestry-keying made bodily** — a single checkpoint beat where swab-logic sorts by ancestry does more than the entire demographic paragraph.
-3. **One war-shard from a rememberer** — Babaji or an old sailor, one concrete image, so "the machine wars" is not just a term.
+3. **One war-fragment from a rememberer** — Babaji or an old sailor, one concrete image, so "the machine wars" is not just a term.
 
 **Craft guard.** Seed, do not dump: no more than one loaded term or one documentary fragment per scene; let repetition do the assembling. If a beat exists only to convey a fact, cut it — the fact must ride on an action, an object, or a conflict that earns its own place.
 

@@ -316,7 +316,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 ### 14. Race night: the city rewired for one evening
 
-**Immediate want:** make a crossing (person, packet, patient) through a monitored port city on the one night its entire routing logic is suspended — the first street race since the closures, staged as proof to investors that the city is "back."
+**Immediate want:** make a crossing (person, packet, patient) through a monitored port city on the one night its entire routing logic is suspended — a street race staged as proof to investors that the city is "back": the Free Ports' answer to Meridian City's **Meridian Circuit** (canon, Vol I Ch 2 — race infrastructure already supplied Eli's escape corridors, `99` #1). Reopening cities compete through spectacle; this is the second city to try it, and this time the protagonists are not improvising through it — they planned for it.
 
 **Adventure object:** the published road-closure map, barriers, marshal posts, timing loops, broadcast drones, crowd wristbands, a service tunnel under the circuit.
 
