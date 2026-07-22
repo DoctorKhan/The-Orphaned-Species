@@ -415,6 +415,10 @@ The proving community is **ordinary and distributed**, not a new order:
 
 **Still open:** the deeper-function question below (evolution-forcing vs. domination) — off-page for the trilogy; possibly Book IV territory.
 
+### Seed-pattern propagation — open (decide before Vol II beatsheet revision)
+
+The Book II climax and all of Book III rest on how the awakening spreads: Eli transmits a **seed pattern rather than a command** (`41`), and "those able and willing" catch it. **Open: what makes a person able to catch it** — practice, consent, a survived threshold episode, proximity to a charged ground, some combination? The answer defines the visible difference between Eli's spreading fire (invitation) and Sol's forced synchronization (same signal, imposed), and sets the limits Book III's federation lives inside (who can join, how fast it spreads, what catching it badly looks like — possible route into psi-Drift). No Vol I dependency beyond existing foreshadowing (coordination-without-command contests). Do not resolve in worldbuilding; resolve when the Vol II climax beats are next revised.
+
 ## Charged-ground triggers (clarification of the web)
 
 Deep-time material is reached by **clarifying the living web at charged grounds** (mechanism: `36_the_living_web.md` §3a, §7a, §8). Each deep thread or structure resolves at the stone/charged ground where its content happened — **not** as a bulk download at Melaka. Human cultures often preserved this as **legends of talking stones** (local names; folk memory of charged grounds); Eli learns the stories were pointing at real behavior without the grid's vocabulary.
