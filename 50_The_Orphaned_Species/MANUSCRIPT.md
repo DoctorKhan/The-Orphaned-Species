@@ -339,7 +339,7 @@ It lands the way the song lands. Hair up along both arms, heat behind the sternu
 
 "Where—" he starts.
 
-"Routing," she says, still the form voice, and scrolls once. Chain of custody, processing stamps, a records transfer through a Melaka node — and there, in the middle of the metadata, one word he already carries folded in his pocket in Suresh's handwriting. Two roads, arriving at one door. That is not an explanation. It is the only verification the world is going to offer him, and his body has already accepted it.
+"Routing," she says, still the form voice, and scrolls once. Chain of custody, processing stamps, a records transfer through a Melaka processing office — and there, in the middle of the routing history, one word he already carries folded in his pocket in Suresh's handwriting. Two roads, arriving at one door. That is not an explanation. It is the only verification the world is going to offer him, and his body has already accepted it.
 
 Her voice drops out of the form and into Bangla. "The system saw what I saw. Your intake photograph is flagged — resemblance match, records hold, extended assessment. That queue goes up into the Stack, and files that go up do not come down whole. Once they hold you, you are theirs to explain." She looks at the screen, not at him. "A file can close without its body one way from this desk. Discharge to vessel. That lane needs a work history."
 
@@ -711,7 +711,7 @@ They eat at dusk — rice and dried fish, which is nothing, except that Nura has
 
 Then, over the empty bowls, the courier lays out the trap in four sentences, which is all of it she'll spend.
 
-"The song was paid for twice. Once to find the facilities hand who knew it — that's the drummer's job, done in Pelangi Reach. Once to mark whoever came to Melaka asking after the English woman. The van was on the river before you lit up." She stacks the bowls. "They set a net for a family and caught a lighthouse. Now every team in the strait knows the lighthouse exists."
+"The song was paid for twice. Once to find the facilities hand who knew it — that's the drummer's job, done in Pelangi Reach. Once to mark whoever came to Melaka asking after the English woman. The van was on the river before you lit up." She stacks the bowls. "The ones who ran you down call themselves Custodians — biosecurity paper, somebody else's leash. Learn the name; you'll be seeing the vehicles." A beat. "They set a net for a family and caught a lighthouse. Now every team in the strait knows the lighthouse exists."
 
 "And the man," Eli says. "Hassan."
 
@@ -1208,7 +1208,7 @@ They go to their separate corners of the dark. Nothing is resolved. The frogs si
 
 First blood arrives the way Hạnh said everything arrives: at night, through the water, uninvited.
 
-A watch-bell — the cooperative has run night watches on its sluices for forty years, thieves being older than psions — then shouting by the west block, then a flashlight rolling loose on a bund throwing its beam in slow spokes: a stranger in dark clothes vaulting the gate mechanism and gone into the dark with something in his fist — a soil corer, they find later, and three of Hạnh's stakes — and a young grower called Tuấn down in the sluice channel where the scuffle threw him, with the gate's shear-pin housing laid open across his thigh.
+A watch-bell — the cooperative has run night watches on its sluices for forty years, thieves being older than any of this year's hunters — then shouting by the west block, then a flashlight rolling loose on a bund throwing its beam in slow spokes: a stranger in dark clothes vaulting the gate mechanism and gone into the dark with something in his fist — a soil corer, they find later, and three of Hạnh's stakes — and a young grower called Tuấn down in the sluice channel where the scuffle threw him, with the gate's shear-pin housing laid open across his thigh.
 
 By the time Eli reaches the lamplight, there is more blood than the flashlight can make sense of. Tuấn's cousin is pressing a shirt somewhere near it with both hands and all his weight. It is not working. The dark keeps arriving out of the boy's leg in pushes.
 
@@ -1291,7 +1291,7 @@ On the southern side, the Custodians answer, and Eli feels that too: a hardening
 
 He moves people. He is good at it, even — his noise reads the driven panic, tells him where the herd will break next, lets him be standing at the gap saying *this way, uncle, this way* before the gap knows it is one. And through all of it, through every hauled child and steadied elder, the record sits in the pump house in his mind's eye like a lamp left burning: the vials, the polarity series, the cleanest documentation of a living line anyone has ever made, aging toward loss at the center of a battlefield.
 
-Out on the west block, the two teams meet at the band, and the fight, such as it is, is the most frightening thing he has ever almost-seen: figures kneeling to drive their cases into the mud like men planting fence posts, while above them, on the plane only he and the enemy can read, geometries lock and shear — pressure fronts, wedges of dread, that dome, a lance of something that makes one Custodian simply sit down in the rice and not get up. The material world hears gunfire only twice, brief and disciplined, both bursts swallowed by distance. War between psions, it turns out, sounds mostly like weather and looks mostly like surveying.
+Out on the west block, the two teams meet at the band, and the fight, such as it is, is the most frightening thing he has ever almost-seen: figures kneeling to drive their cases into the mud like men planting fence posts, while above them, on the plane only he and the enemy can read, geometries lock and shear — pressure fronts, wedges of dread, that dome, a lance of something that makes one Custodian simply sit down in the rice and not get up. The material world hears gunfire only twice, brief and disciplined, both bursts swallowed by distance. This kind of war, it turns out, sounds mostly like weather and looks mostly like surveying.
 
 A radio on a running man's chest crackles past Eli in the dark — the northern team's channel, a woman's voice, calm, foreign-accented, and one word of it snags on him and stays snagged, a callsign, absurd amid the mud and frogs:
 
@@ -1427,7 +1427,7 @@ The charged ground in the river country is a tell — a town-mound of stacked mi
 
 The stone at the delta was a voice in a quiet room. The tell is a *courtroom*, and the sessions never ended. Eli feels it from the road: not a pull but a pressure, layered, argumentative, old grief stacked on older grief like the strata themselves. Emrys's needle agrees and then bends past agreement into a range he has no calibration for.
 
-"Sit before, not after," is all Emrys says, laying out the protocol, hands not quite steady. "And boy — at a place like this, hold the count like a rail. This ground has had five thousand years of people asking it to make them important."
+"Sit before, not after," is all Emrys says, laying out the drill, hands not quite steady. "And boy — at a place like this, hold the count like a rail. This ground has had five thousand years of people asking it to make them important."
 
 The thread that takes him is not important. That is the first mercy, and the last.
 
