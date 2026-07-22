@@ -140,6 +140,8 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ## Rowan *(on-page in Book II — Wren's prior love; west-corridor liaison)*
 
+**Look:** black hair (Wren is blonde — `19`: the contrast may register, but neither woman is staged for comparison). If Wren reads exits, Rowan remembers costs.
+
 **Decision (reopened and locked 2026-07-22):** Rowan appears in Book II Chapters 5–7 as Wren's prior love—the one before Mira—and as a present-tense Weaver/mutual-aid operator. **Co-discovery (author direction 2026-07-22):** the ring never recruited Wren — she and Rowan discovered it together in their threshold years (the traced training-sister; the first failed rescue that ended their shared life), and the ply split over doctrine: Rowan the outside way, Wren the infiltration. The extraction network is one structure with two ends, and Book II's reunion is the ends meeting. The older Chinese-Malaysian ex remains off-page. Rowan and Wren **renew their romance on-page**. Eli/Wren also remains real; Rowan/Eli is not romantic. The resulting structure is a consent-explicit **V centered on Wren**, not a closed dyad, competitive triangle, or three-way triad.
 
 **Ordinary life:** Bengali, close to Wren's age, formed by port work, shift meals, intake queues, and the Bengali–Melakan mutual-aid web. She remembers costs in names rather than totals. Affectionate without being yielding; practical, black-haired, dryly funny, and less impressed by Wren's competence than almost anyone alive.
