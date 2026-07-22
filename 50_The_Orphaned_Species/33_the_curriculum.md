@@ -1,20 +1,26 @@
 # The Curriculum — the Maintenance Practice (the Ancient Way)
 
-*What the lost practice actually was: the generational maintenance practice that kept the Nephilot caste's gene-activation alive — and the **fragments** the present-day story re-assembles. The **bridge** between the cosmology/biology (`39_psion_biology.md`, the epigenetic-maintenance mechanism) and the **Native Road** companion + the **Seven** (`37_deep_time_source.md`). Companion to `38_psionic_combat.md` and `/00_NARRATIVE_STRUCTURE.md` §3 (the developmental arc).*
+*What the lost practice actually was: the generational maintenance practice that kept the Nephilot caste's gene-activation alive — and the **fragments** the present-day story re-assembles. The **bridge** between the cosmology/biology (`39_psion_biology.md`, the epigenetic-maintenance mechanism) and the **Native Road** companion + the **Seven** (`37_deep_time_source.md`). Companion to `38_psionic_combat.md`, `/00_NARRATIVE_STRUCTURE.md` §3 (the developmental arc), and `50_teahouse_pilgrimage.md` (the locked post–Book III scientific social form).*
 
 > **Why it must be practiced (mechanism in one line; full version in `39`):** activation is **epigenetic**, not a one-time switch. Sustained practice holds the Tree-of-Life genes un-methylated and expressed; stop, and the body resets them to dormant within two or three generations. **The practice boots the genes.** Lose the curriculum and you lose the gift while keeping the genes — the **Fall without extinction**; recover the curriculum and you reawaken it — the **present-day engine**.
 
 ## 1. It was a civilization, not a hobby
 
-The practice was never a private discipline you did for an hour. It was a **total, generational, civilization-scale regimen**, embedded in architecture and in upbringing, run continuously from infancy. That structure is load-bearing:
+**STEADY KNOWLEDGE — LOCKED 2026-07-16:** The curriculum's aim is mature perception: calm, focused attention that can feel instinct without automatically obeying it. Real meditation and embodied practice change stress regulation, breath, posture, and social presence; they are not a simplistic brainwave shortcut. A master can become perceptibly steady to others without commanding them. The practice was never a private discipline you did for an hour. It was a **total, generational, civilization-scale regimen**, embedded in architecture and in upbringing, run continuously from infancy. That structure is load-bearing:
 
 - **The temples were maintenance machines.** Resonant chambers and stone circles (Göbekli's enclosures, the ringing bluestones, hypogeum-type rooms) were not symbolic — they were **purpose-built apparatus** that tuned the practitioners' bodies. The architecture did part of the work.
 - **The charged ground shared the cost.** Practiced in formation at a **ley site**, the collective drew life-energy from the field, lowering each individual's metabolic bill (`39` §3 — efficiency through place and number). A lone adept could not hold what the circle held.
 - **The lineage was the maintenance.** It passed **elder-to-child, continuously, from infancy**, so the activation never reset between generations. *The teacher-lineage was the practice itself.* This is the single point of failure: raze the temples and break the teachers, and one generation later the children have the genes and not the kept way. **That is the Fall.**
 
-## 2. The seven layers (= the Seven)
+## 2. The layers
 
-The curriculum was layered; each layer is one of the Seven, whose surviving records are the recovered **fragments** of this one practice. The order is inward → outward (breath → body → other bodies → minds → matter → structure → species) — a developmental sequence, not a menu.
+> **Reconciliation — the count is reconstruction, not structure (2026-07-21).** The table below is **the companion layer's analytic map of a dead civilization's practice** — the tidy version, assembled with hindsight. It is **not** a roster the trilogy walks, a chapter allocation, a checklist Eli completes, or a number any character or instrument can read off. Per `36_the_living_web.md` §2 and §4, the practitioners are **deep threads discovered as they recur**, not a pre-declared set of seven; the count may settle near seven and must never be *imposed*. Three rules follow, and they govern any drafting use of this doc:
+>
+> - **No character ever says or knows there are seven.** No "one to go," no completed set, no missing seventh. The curriculum is recovered **partially and out of order**, and stays incomplete at the end.
+> - **The layers are uneven.** Some arrive as a full clarified life, some as a translated line on a broken object, some as a living person's habit that turns out to be the same thing worn down. Some never arrive at all.
+> - **The map is reader-facing, late, and provisional.** If anyone assembles this table on the page, it should be Emrys or a companion volume — a *reconstruction offered for testing*, immediately complicated by evidence that does not fit.
+
+The curriculum was layered, its surviving records the recovered **fragments** of one practice. The order is inward → outward (breath → body → other bodies → minds → matter → structure → species) — a developmental logic, not a sequence anyone recovers in order.
 
 | Layer | Practice | The Seven |
 |---|---|---|
@@ -56,3 +62,4 @@ He is a half-trained adept who never knew there was a curriculum. Part of his ar
 - **To the companions.** The recovered curriculum *is* the content of the **Native Road** and **Consciousness Technologies** companion books (Layer 2). The novel **dramatizes** it as fragments re-found under pressure; the companions lay it out as a usable path. Per `05` §"The Living Way," the novel never stops to teach it — *if a passage doesn't create a choice, cost, or relationship change in the scene, it belongs in the companion layer.*
 - **Never lectured; always re-assembled.** On the page the curriculum surfaces only as practice under pressure and as the slow recognition that the fragments are one thing. No character delivers the syllabus.
 - **Temples are apparatus, not scenery.** Whenever a megalith or temple appears, it can *do* something to the body — maintenance architecture, not a heritage backdrop.
+- **Present-day recovery does not restore the old hierarchy — LOCKED 2026-07-21.** The recovered fragments become a distributed teahouse pilgrimage, not a resurrected priesthood or hereditary maintenance caste. Teahouses are open sites; cloisters provide voluntary disciplined residence; inner-sanctuary access is a site-specific, time-limited safety clearance checked through health baselines, witnessed conduct, preregistered protocols, and independent review. Full canon: `50_teahouse_pilgrimage.md`.

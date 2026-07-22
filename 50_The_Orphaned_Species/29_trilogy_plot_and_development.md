@@ -18,11 +18,13 @@
 | Revelation order (22 beats) | `05` §8 + `17` |
 | Life tech / Two Trees beats per volume | `22` |
 | Artifacts that move bodies | `35_artifact_chain.md` |
+| Mother's encoded linguistic/scientific journal | `52_the_rootbook_word_web.md` |
 | Adventure forms / scene bank | `18_adventure_engine_and_scene_bank.md` |
 | Locked beats #1–#6 (Vol I draft-ready) | `99` Priority 1 |
 | Open mid/late plot (#7–#14) | `99` Priority 2–3 |
 | Macro route + legs | `00_NARRATIVE_STRUCTURE.md` § clue-trail spine |
 | **Pilgrimage pathway & sacred sites** | **this hub § Pilgrimage pathway** |
+| **Postwar teahouse pilgrimage / cloisters / sanctuaries** | **`50_teahouse_pilgrimage.md`** |
 | Stone circles / charged grounds (character treatment) | `00_NARRATIVE_STRUCTURE.md` § stone circles |
 | Climax / mother / grid | `00_NARRATIVE_STRUCTURE.md` § Locked vertical cosmology |
 
@@ -30,25 +32,69 @@
 
 ## Plot engine (one paragraph)
 
-**Motor:** Books I–II follow a **mother-clue trail** through a westward maritime pilgrimage (Melaka → Gulf/Mesopotamian evidence → Göbekli → Europe → Albion) while psion war and the Ring close around Eli. **Book III changes engines:** after Maren's release spreads awakening, Forest City, the Mekong cooperative, Somchai's clinics, Wren/Asha threshold houses, and open Albion attempt a distributed network under pressure from control and liberation factions. **Burden:** post-breach web-noise, then public awakening without civic capacity. **Temptation:** Books I–II—amplifier and chosen-one identity; Book III—permanent coordination and forced synchronization. **Positive proof:** mother released at the end of Book II → communities connect and fail in Book III → temporary authority disperses after necessity and submits to review → coexistence survives without one center.
+**Providence and agency — LOCKED 2026-07-15:** Heaven and Earth possess genuine intentions. Civilization's knowledge-blueprint, the fruition of the Tree of Knowledge, and the Drift toward forced technological integration belong to a divine plan. The plan's intended resolution is specific: if humanity becomes intelligent enough to understand technology, it can become intelligent enough to understand **life-technology** rather than fear it. That recognition allows humans to meet the Nephilot/elven line as persons and fellow participants in creation, ending the ancient pattern of killing what they do not understand. The plan creates direction and pressure, not automatic obedience: human choices still determine whether understanding becomes coexistence, a new tyranny, or self-annihilation. The trilogy must not explain this away as projection or coincidence.
 
-**Geographic lock for Book III:** Forest City is the originating refuge and emotional home, not the final political endpoint. The sequence is **Hawaiʻi → San Francisco (the new Continental capital) → the ruins of Washington, D.C. → San Francisco's fall under emergency centralization → Hawaiʻi**. Hawaiʻi is the locally governed expansive proof of concept; San Francisco's Yerba Buena Gardens supplies living civic memory before the capital repeats the old republic's centralizing failure; ruined D.C. supplies the dead capital and Lincoln image. Hawaiʻi is one node, not a capital; its success pressures Continental Union reform through replication and negotiation rather than Eli's personal conversion of the state.
+**Panspermia reveal ladder — LOCKED 2026-07-16; Göbekli cap clarified 2026-07-17:** Panspermia is the trilogy's hidden architecture, seeded from Book I rather than introduced as a late twist. Book I shows anomalous life, the responsive Göbekli interface, and human ownership of inherited design without naming alien seeding or determining what the interface does. In full canon Göbekli is a communication station, not a consciousness store or field amplifier, but Eli's group does not know that at Book I's end. Book II reveals the human consequences—Nephilot tracking, Pömmelte's carrier purge, and the broken memory of the "elf"—while the wider stone-circle network and Stonehenge establish cross-species communication. Book III moves from Delphi's ambiguous signal to the Stonehenge channel, the Double-Fork Stone, and the dragon memory: Earth supplies biology and adaptation; Heaven supplies seeds, pressures, and bridge species; humans and dragons become intelligent through relationship. The revelation culminates not in human specialness but in responsibility: can humanity stop converting its own origins, partners, and powers into property?
 
-**San Francisco fall — LOCKED:** while Eli is in ruined D.C., the new Continental capital is seized under emergency registry authority. Ports, communications, and neighborhoods are locked down by risk classification. The fall is political and civic before it is physical: the capital's safety system becomes the old republic's mistake in a new vocabulary. Eli must choose distributed rescue and preservation of plural communities over simply restoring San Francisco as an indispensable throne-city. Any recovery fragments authority among local institutions rather than returning the city to one command center.
+**Power-failure terminology — LOCKED 2026-07-16:** Keep the two failure modes distinct. **The Drift** belongs to the Tree of Knowledge: technological over-integration, cyberpsychosis, automation, registry identity, and the person becoming an instrument of systems. **God-sickness** belongs to the Tree of Life: psionic over-identification, ecstatic power, charisma, and mistaking direct contact for divine sovereignty. They are parallel dangers, not two names for one condition. The trilogy's mature balance is that Knowledge prevents Life from becoming godhood, while Life prevents Knowledge from becoming machinery.
+
+**Scale and humility — LOCKED 2026-07-16:** Human arrogance intensifies when humans are separated from other intelligences and compare themselves only with one another. Without living contact with dragons, gods, ancestors, other species, or independent reality, human technology begins to look like creation, institutions like natural law, and desire like destiny. The dragons were not merely superior beings to worship; they were partners who gave humanity a nonhuman scale of intelligence and restraint. Their absence leaves an epistemic vacuum that produces collective grandiosity and individual god-sickness. Humility in the trilogy is therefore not self-abasement or submission to a ruler. It is continued relationship with what exceeds any one person or species: ecology, other minds, evidence, dissent, and the dead. The final civic form is reciprocal comparison, not worship.
+
+**Empirical honesty — LOCKED 2026-07-16:** Humility becomes a scientific and relational discipline. Eli treats every thought, vision, and psionic impression as a hypothesis: he notices it, states its apparent meaning, separates observation from interpretation, tests it against evidence, other people, and repeatable conditions, and updates or abandons it when reality disagrees. His governing distinction is: **“This is what I sensed. This is what I know. This is what I’m guessing. This is what I want. This is what I may be doing to you.”** The mature answer to uncertain contact is: **“This felt real. I may still be wrong. Let’s test it.”**
+
+**Heroic-age placement — LOCKED 2026-07-16:** Göbekli is the earlier communal/interface template, not the site of the later male-line takeover. The severe Y-line bottleneck and heroic-patriarchal consolidation belong roughly to 5000–3000 BCE, during the later Neolithic/Chalcolithic transition into Eridu–Uruk urban and patrilineal systems. Book I discovers this in the Gulf/Mesopotamian leg through genealogies, ration and marriage records, king-list traditions, and population evidence; Göbekli supplies the earlier contrast. Book II then discovers the persecuted Nephilot population and gendered carrier purge at Pömmelte. Book III connects both histories to dragons, panspermia, and the Double-Fork Stone.
+
+**Book-by-book comprehension — LOCKED 2026-07-16:** Book I ends with contact, interface, and human ownership understood, but the Nephilot species, dragons, and panspermia remain unresolved. Book II ends with persecution and broken interspecies memory understood, while the nature of the nonhuman partners remains uncertain. Book III supplies origin and responsibility: Nammu's pre-divine depth, the dragon-human bridge design, panspermia, and the two Trees' practical reunification. Each volume answers its immediate human question while opening the next cosmological one.
+
+**Emergency power and survival — LOCKED 2026-07-16:** Book III's political resolution is not permanent enlightened rule. A temporary coordinator may be necessary during cascading crisis, but the mandate must expire, be recorded, independently reviewed, and return to ordinary institutions. Washington's voluntary step-down is the civic precedent; the Bronze Age Collapse is the historical warning that centralized palace systems fail more completely than distributed communities. The Union prepares for overlapping future shocks—bioweapons, nuclear escalation, infrastructure sabotage, climate disasters, or combinations—by preserving local capacity and making authority revocable. Eli succeeds by taking necessary authority, accepting judgment, and giving it away.
+
+**Field sail and Mandate peace — LOCKED 2026-07-21:** the Continental Union has an unfinished classified physics program built from inertial anomalies, charged-ground observations, ancient orbital records, and failed resonant lattices. Eli identifies the missing feedback relationship but does not complete the physics alone. Union and independent scientists finish the theory; the Eastern Mandate alone retains enough precision industry, energy, heavy lift, and orbital capacity to build at scale; Free Ports and teahouses provide open replication and consent-bound field research. Commissioner Ma, a Zheng He–inspired Hui Chinese maritime and industrial commissioner, carries the Mandate offer. A small replicated field-sail effect and a jointly governed civilian program create an enforceable ceasefire and the material basis for peace. Full lock: `51_field_sail_and_mandate_peace.md`.
+
+**Rootbook / distributed Rosetta — LOCKED 2026-07-21:** Maren's encoded field journal aligns comparative word families, branching diagrams, charged-ground measurements, and personal marginalia. Eli opens bounded sections through historically regular transformations and evidence gathered across the pilgrimage, but the book never supplies the complete route. Living communities and independent observations correct Maren. Sanxingdui breaks the single-language-tree model: its material patterns rhyme with the diagrams without being assigned a Proto-Indo-European language. In Book III, linguistic continuity through transformation helps Eli recognize—but does not alone solve—the field sail's missing feedback relationship. Full lock: `52_the_rootbook_word_web.md`.
+
+**Teahouse social form — LOCKED 2026-07-21:** Eli's post-hearing answer is not a church, palace, or centrally owned research order. Existing charged grounds, threshold houses, clinics, gardens, and new sites begin linking as a pilgrimage of **teahouses**. Voluntary **cloisters** provide disciplined residence and systematic study; **inner sanctuaries** remain hazardous site-specific research zones. Progression is practical readiness checked against personal health baselines, recovery, witnessed boundary conduct, transparent protocols, and independent review—not enlightenment rank. AI remains background logistics, measurement, bias auditing, and public institutional monitoring. Long travel and shared work allow chosen families and clans to emerge without algorithmic assignment or hereditary identity. Full canon: `50_teahouse_pilgrimage.md`.
+
+**Two-stage Fall — LOCKED 2026-07-16:** The physical Heaven-fall belongs around 10,000–10,800 BCE, when damaged god-survivors reach Earth after the Heaven-side interface fails; Göbekli is the first ground-side response and memory of that unstable contact. The political Fall belongs to 5000–3000 BCE, when descendants and human institutions convert divine contact into patrilineal dynasties, heroic genealogy, reproductive control, and city-state authority. The books should use “the Fall” in both senses without collapsing the dates.
+
+**Drone-to-person and autopilot — LOCKED 2026-07-16:** The dragon-led panspermic ecology used early humans as the material-facing half of planetary habitat work: carrying seeds and microbes, gathering fuel, moving water and nutrients, tending soil and fire, mapping terrain, and maintaining living systems. Dragons supplied design, long-range perception, telepathic coordination, and protection; humans supplied hands, transport, local experimentation, and social labor. The symbiosis hardened into control when humans were treated as programmable drones, but human cognition outgrew the assignment. The inherited procedural layer survives as autopilot—habit, threat response, obedience, reward-seeking, and post-hoc explanation. Agency is not absent; it begins when a person notices a command, tests it against reality, and chooses whether to obey. Eli's Manual Override is that practiced pause.
+
+**Panspermic Earth/Heaven clarification — LOCKED:** Earth means the intentional planetary life-process—geology, fields, biology, evolution, and living web. Heaven means the external energetic and informational influence of planets, stars, and extraterrestrial intelligences. Life and life-technology genuinely arrive from beyond Earth and are received, adapted, and recombined here. Humanity mediates between these orders; the Drift is what happens when reception of Heaven outruns relationship with Earth.
+
+**Artifact visibility lock:** causal objects belong on the characters' route; contested fragments carry rival interpretations; the *Elmarillion* may reveal the deepest panspermic synthesis to the reader without giving the characters a complete cosmological key. The artifact chain in `35_artifact_chain.md` is canonical for volume placement and function.
+
+**Chosen integrator — LOCKED:** Eli is the selected bridge for the final Earth–Heaven integration. He is not the sole valuable person, the sole source of revelation, or an owner of the network. Earlier practitioners and living companions carry indispensable fragments; Eli's chosenness is the obligation to integrate and choose, not a license to command.
+
+**Book I climax lock:** Göbekli is the first complete personal Manual Override. Eli chooses people over the complete interface record, loses the clean evidence, and Emrys is taken. The volume closes on moral transformation and human institutional history; the panspermic/dragon cosmology remains a later reveal.
+
+**Steady knowledge — LOCKED:** The real spiritual practices in the trilogy develop calm, focused, mature perception. They teach a person to feel instinct without automatically obeying it. A master practitioner's steadiness can be socially felt as melam, producing ni in observers, but the practitioner is not thereby a god or ruler. Eli's practice arc is toward this steadiness: not emotional numbness, but freedom from automatic command.
+
+**Motor:** Books I–II follow a **mother-clue trail** through a westward maritime pilgrimage (Melaka → Gulf/Mesopotamian evidence → Göbekli → Europe → Albion) while psion war and the Ring close around Eli. **Book III changes engines:** after Maren's release spreads awakening, Pelangi Reach, the Mekong cooperative, Somchai's clinics, Wren/Asha threshold houses, and open Albion attempt a distributed network under pressure from control and liberation factions. **Burden:** post-breach web-noise, then public awakening without civic capacity. **Temptation:** Books I–II—amplifier and chosen-one identity; Book III—permanent coordination and forced synchronization. **Positive proof:** mother released at the end of Book II → communities connect and fail in Book III → temporary authority disperses after necessity and submits to review → coexistence survives without one center.
+
+**Geographic lock for Book III:** Pelangi Reach is the originating refuge and emotional home, not the final political endpoint. The sequence is **Pelangi Reach → San Francisco civic passage → ruined Washington, D.C./relocated-government negotiation → Wren's refusal and bounded compact → Hawaiʻi temporary refuge and hearing → Hopi visit by invitation → Colorado mountain settlement**. Hawaiʻi is the locally governed place where displaced people are received and Eli learns reciprocity, ecological limits, and non-ownership; it is not a front, base, or military prize. San Francisco's Yerba Buena Gardens supplies living civic memory before the capital repeats the old republic's centralizing failure; ruined D.C. supplies the dead capital and Lincoln image. The Hopi visit supplies the large-scale organization lesson; Colorado is one node, not a capital. The network's reform spreads through replication and negotiation rather than Eli's personal conversion of the state.
+
+**Island logic — LOCKED:** Islands recur throughout the trilogy because water boundaries are valuable after the engineered outbreak: they slow transmission, make arrivals legible, support quarantine and health observation, and preserve local food, repair, and governance long enough for a community to choose its response. They are insulated, not invulnerable—ports remain choke points, supplies can fail, and isolation can become coercive closure. The book's islands are connected maritime refuges, not mystical Edens.
+
+**Southwest learning stop — LOCKED 2026-07-19:** After Hawaiʻi, Eli visits Hopi lands by invitation before reaching the Colorado mountain settlement. The visit is not a mystical consultation or a shortcut to “ancient wisdom.” He encounters living Hopi governance, dryland agriculture, water discipline, continuity under extraction and drought, and the right of a community to refuse outside use of its knowledge or land. Through Hopi hosts, archaeological evidence, and careful historical discussion—including the broader American record of Cahokia, federated societies, seasonal organization, and cities without kings—Eli learns that large-scale human organization has never required one permanent center. Societies can be layered, seasonal, federated, reversible, and free to leave or refuse. The scene requires Hopi-led research and consultation before prose; Hopi people remain subjects and decision-makers, not a backdrop or a single voice for all Indigenous peoples.
+
+**Enheduanna / Inanna hymn — LOCKED motif:** the hymn enters as a damaged, authored human voice in Book I Ch 12, is contrasted with Anthea's embodied song in Book II Ch 20–21, and returns as a question of who may preserve and authorize speech in the Book III hearing (Ch 31). It is never a magical key, prophecy, or Albion instruction. Eli carries and relinquishes inherited voices; he does not become their owner, avatar, or scripture-founder.
+
+**San Francisco fall / new-war ignition — LOCKED:** while Eli is in ruined D.C., the new Continental capital is seized under emergency registry authority as coordinated Eastern Mandate strikes hit Pacific communications, ports, and selected Union facilities. The Union retaliates and mobilizes; the collision ignites the **Awakening War**, a distinct post-WWIII conflict over who may register, conscript, synchronize, shelter, or destroy awakened people. Ports, communications, and neighborhoods are locked down by risk classification. The fall is political and civic before it is physical: the capital's safety system becomes the old republic's mistake in a new vocabulary. Eli must choose distributed rescue and preservation of plural communities over simply restoring San Francisco as an indispensable throne-city. Any recovery fragments authority among local institutions rather than returning the city to one command center. Hawaiʻi remains outside the war as a temporary refuge, though it receives the war's displaced consequences.
 
 **Eli does not return to reclaim the capital — LOCKED:** when San Francisco falls, Eli remains with the distributed federation rather than racing west to restore the seat of power. He coordinates evacuations, medicine, communications, and local defense across multiple regions. San Francisco becomes one emergency site among many, not the place where the hero must personally restore order. Eli may visit later as an ordinary participant in reconstruction, but he does not retake the capital, crown a new government, or become its restoration symbol.
 
 **Cause of the fall — LOCKED:** the Eastern Mandate applies sustained pressure through blockades, information operations, proxy networks, Pacific communications attacks, and selective strikes. The Union is already weakened by corruption inside emergency institutions: contractors and factions divert supplies, falsify risk data, protect favored populations, and use the Mandate threat to justify permanent authority. A coordinated Mandate operation exposes these existing fractures; it does not create them. The Union's response—greater centralization—makes the attack decisive. The Mandate strikes the Union, but the Union's corruption makes the strike catastrophic.
 
+**Mandate humanization — REVISED LOCK 2026-07-21:** automated war first compresses the Mandate into faceless pressure from Eli's viewpoint. Peace later requires the narrative to break that compression. Commissioner Ma does not redeem or speak for an entire civilization; scientists, engineers, sailors, workers, families, officials, and critics reveal real internal plurality while state responsibility remains. Show the system first, then the people inside it when contact becomes possible.
+
 **Continental Union resolution — LOCKED:** the Union ultimately survives by learning the Bronze Age Collapse lesson. It does not win by conquering the federation or restoring San Francisco's centralized command. Secondary cities, ports, farms, clinics, Indigenous governments, and local administrations keep functioning when the capital fails. Union reform therefore shifts toward distributed authority, interoperable but non-centralized records, local safety decisions, renewable emergency powers, redundant supply corridors, and meaningful exit rights. The Union becomes a federation of recoverable parts. This is institutional adaptation, not Eli's personal conversion of the state; factions resist, regions may separate, and some old institutions persist in altered form.
 
 **Eli's leadership arc — LOCKED:** he begins awkward and confused, competent at survival but unable to distinguish usefulness from authority. Book I teaches decisive action; Book II teaches that interpretation and insight do not grant jurisdiction; Book III forces bounded service through the refugee death, Wren's refusal, San Francisco's fall, and the voluntary defense. He ends as a steward: he makes necessary decisions, shares power, protects dissent, names the cost, accepts public limits, and leaves communities less dependent on him than before.
 
-**Hawaiʻi encounter lock:** disputed talking stones draw the federation into a local argument about geology, old technology, field behavior, spiritual interpretation, and ownership. Eli's Pele dream presents kneeling and an oath, but the oath becomes reciprocal service rather than submission: he serves without possessing, the place does not possess him, and the community can refuse the awakening. Local people then fit him with practical, repairable communal armor for heat, ash, pressure, field exposure, and attack. The armor is equipment and obligation, not a divine crown; Eli removes it before the public inquiry.
+**Hawaiʻi encounter lock:** disputed talking stones draw the federation into a local argument about geology, old technology, field behavior, spiritual interpretation, and ownership. Eli's Pele dream presents kneeling and an oath, but the oath becomes reciprocal service rather than submission: he serves without possessing, the place does not possess him, and the community can refuse the awakening. Local people then fit him with practical, repairable communal work-armor for heat, ash, pressure, field exposure, and rescue. The armor is equipment and obligation, not a divine crown or battle uniform; Eli removes it before the public inquiry. Hawaiʻi teaches him that refuge is an active relation, not an empty sanctuary or strategic asset.
 
 **Hawaiʻi learning — LOCKED:** Hawaiʻi is neither utopia nor spiritual proof-text. Eli encounters a living tradition whose sacred depth exceeds any institution, while also learning that Hawaiian societies, like all societies, contained authority, hierarchy, warfare, conquest, and political violence. He separates transcendent encounter, cultural form, and political power. The lesson is not that religions are secretly identical, but that no culture or institution can own the sacred; every tradition can preserve, betray, and recover its highest claims.
 
-**Book II historical-learning lock:** Ch 16 teaches the 4.2 ka event through Mesopotamian climate, grain, irrigation, river, and settlement evidence; Ch 17 teaches the deluge as layered Eridu/Atrahasis/Gilgamesh and later biblical political memory; Ch 20 teaches the Late Bronze Age Collapse through Anatolian and European burn layers, abandoned palaces, broken trade, missing writing, migration, and competing causes. Eli's synthesis arrives later at the relocated Continental capital: centralized systems can make crises travel farther, while distributed local knowledge and authority make survival possible.
+**Book II historical-learning lock:** Book I Ch 12 teaches the 4.2 ka event through Mesopotamian climate, grain, irrigation, river, and settlement evidence; Ch 17 teaches the deluge as layered Eridu/Atrahasis/Gilgamesh and later biblical political memory; Ch 20 teaches the Late Bronze Age Collapse through Anatolian and European burn layers, abandoned palaces, broken trade, missing writing, migration, and competing causes. Eli's synthesis arrives later at the relocated Continental capital: centralized systems can make crises travel farther, while distributed local knowledge and authority make survival possible.
 
 **Empirical education — LOCKED:** Eli's first practical lesson comes in Melaka, where navigation, medicine, weights, records, and port decisions are tested against observation rather than accepted because a download or tradition feels authoritative. Book II distinguishes environmental evidence from mythic memory and material continuity from total-collapse narratives. By Book III, claims about psionic danger and the talking stones remain open to investigation, while the federation uses records, witnesses, trials, and revision instead of sacred exemption. Science does not abolish mystery; it prevents mystery from becoming unaccountable power.
 
@@ -60,7 +106,7 @@
 
 **Geography rule:** each leg must **force a decision**, not decorate. Eli knows only the **next testable lead** until Albion late.
 
-**Locked allocation (2026-07-12):** **Göbekli is the Book I climax.** Multiple European/Albion sites (Rollright, Stonehenge, Men-an-Tol) occupy Book II, which ends with Maren's release. Book III is no longer another pilgrimage leg; it is the distributed-community story.
+**Locked allocation (2026-07-12; revised 2026-07-16):** **Göbekli is the Book I climax.** Multiple European/Albion sites occupy Book II: Rollright and Men-an-Tol prepare the route, Stonehenge is the relay discovery and Cuno transmission, and **Avebury is the inhabited landscape climax where Maren is released**. Book III is no longer another pilgrimage leg; it is the distributed-community story.
 
 ---
 
@@ -79,7 +125,7 @@ Rule (`00_NARRATIVE_STRUCTURE` §6): every leg begins with a **clue**, not a des
 
 ```text
 VOL I — THE BREACH / SHATTERING
-  Forest City → Melaka breach → Mekong/Vietnam → Thailand
+  Pelangi Reach → Melaka breach → Mekong/Vietnam → Thailand
   → Bangladesh village → Bay of Bengal / Arabian Sea
   → Gulf / Mesopotamian evidence → GÖBEKLI TEPE
   END: interface race; human domestication evidence; Emrys taken
@@ -90,8 +136,8 @@ VOL II — THE DESCENT
   END: Maren released; spreading awakening begins
 
 VOL III — THE LIVING WORLD
-  Forest City return / awakened-refugee boat crisis
-  → Forest City ↔ Mekong cooperative ↔ Somchai clinics
+  Pelangi Reach return / awakened-refugee boat crisis
+  → Pelangi Reach ↔ Mekong cooperative ↔ Somchai clinics
   ↔ Wren/Asha threshold houses ↔ open Albion ground
   END: network survives attack and internal dispute; temporary coordination disperses
 ```
@@ -104,11 +150,11 @@ Source: `05` §7 revised table; `99` Priority -1. Old `31`/`32`/`33` chapter all
 
 | Tier | What it is | Examples | Plot function |
 |---|---|---|---|
-| **A — Formative / living** | Communities, teachers, refuge — **not** ley routing grounds | Philippines (Kali), Bali (subak/gamelan), **Forest City**, childhood Pai (busker echo, unnamed) | Body, hearth, belonging; practices **before** cosmology names them |
-| **B — Threshold / human crossroads** | Ports, cities, corridors under war pressure | **Melaka**, Singapore archive, maritime boarding | Breach, pursuit, documents, faction collision |
+| **A — Formative / living** | Communities, teachers, refuge — **not** ley routing grounds | Philippines (Kali), Bali (subak/gamelan), **Pelangi Reach**, childhood Pai (busker echo, unnamed) | Body, hearth, belonging; practices **before** cosmology names them |
+| **B — Threshold / human crossroads** | Ports, cities, corridors under war pressure | **Melaka**, Meridian City archive, maritime boarding | Breach, pursuit, documents, faction collision |
 | **C — Sacred sites / grid interfaces** | Buried or standing **routing grounds** on the ley network; stones **deflect lines inward** to a communicative center | **Göbekli**, **Stonehenge**, **Rollright**, **Men-an-Tol** (+ contested Mesopotamian **memory sites**) | Descents, artifacts, psionic set-pieces, mother tether |
 
-**Wrong move:** treating every named holy place as Tier C. **Forest City and Melaka are not stone-circle grounds.**
+**Wrong move:** treating every named holy place as Tier C. **Pelangi Reach and Melaka are not stone-circle grounds.**
 
 **Right move:** the pilgrimage is **clue-driven motion** through Tier A–B while Tier C sites **earn their visit** via artifacts, growth anomalies, broken maps, and war over charged grounds — not a checklist tour. **Melaka opens the receiver; charged grounds hold the teachers** (`36` §3a). Local **legends of talking stones** are folk memory of charged-ground behavior (`36` §7a) — introduce one culture's name per scene, from living characters, never as a global lecture.
 
@@ -131,8 +177,8 @@ Source: `05` §7 revised table; `99` Priority -1. Old `31`/`32`/`33` chapter all
 
 | Site | Volume | Seven / deep thread | Present-day role |
 |---|---|---|---|
-| **Mekong Delta rice/aquaculture cooperative** | I witness (Ch 9–14) | **Ila** (partial contact mid Vol I) | Forming **ley line** in paddy; growers distinguish it from salinity, irrigation, pollution, and legacy dioxin history; choose people over **agricultural** evidence |
-| **Göbekli Tepe** | **I climax (Ch 17)** | **Aru** (carver), **Daskar** (burier); fox-pillar | **Buried instrument + MAJOR REVEAL — what the elves are.** Sealed-interface race; Emrys **taken**; spiral-in-the-eye = **selection mark** |
+| **Mekong Delta rice/aquaculture cooperative** | I witness (Ch 5–10) | **Ila** (partial contact mid Vol I) | Forming **ley line** in paddy; growers distinguish it from salinity, irrigation, pollution, and legacy dioxin history; Eli hesitates over evidence while Wren chooses evacuation; incomplete override |
+| **Göbekli Tepe** | **I climax (Ch 13)** | **Aru** (carver), **Daskar** (burier); fox-pillar | **Buried instrument + male-lineage revelation.** Sealed-interface race; Emrys **taken**; spiral-in-the-eye = **selection mark**. The Nephilot/elf identity remains for Pömmelte in Book II. |
 | **Persian Gulf / Eridu–Adapa memory** | II leg | Adapa lacuna; Enki/Ninmah; King List | **Artifact + story leg** — texts, copies, disputes; see **Dilmun** below |
 | **Anatolia (Anthea)** | II | **Anthea** — Bronze Age singer | Sonic/routing; distinct from Wren |
 | **Stonehenge** | II | **Cuno** — bluestone mover; last firing | **Cathedral ground**; most powerful, most watched; Cuno→Derw transmission |
@@ -146,9 +192,9 @@ Source: `05` §7 revised table; `99` Priority -1. Old `31`/`32`/`33` chapter all
 
 Late book **converges** multiple western grounds; order is **dramatic**, not a Grand Tour:
 
-1. **Europe** — dead zones **named and mapped**; **Pömmelte** massacre; **broken-line church** set-piece (`37` LOCKED §§). Scour warfare escalates on choke points.
+1. **Europe** — dead zones **named and mapped**; **Pömmelte** massacre and carrier-tracking revelation; **broken-line church** set-piece (`37` LOCKED §§). Scour warfare escalates on choke points. Pömmelte is the historical horror that makes the later *elf* vocabulary morally charged rather than decorative.
 2. **Rollright** — riddling, unreliable read; Anthea full-res; false certainty punished.
-3. **Stonehenge (Vol II Ch 22)** — Cuno descent; **Alba → Albion → elf** name beat; England ambush.
+3. **Stonehenge (Vol II Ch 22)** — Cuno descent, relay discovery, and **Alba → Albion → elf** name beat; the route then moves to Avebury for the England ambush and emotional climax.
 4. **Men-an-Tol** — personal threshold; mother's earlier act; body memory.
 5. **Climax stones + chair (Book II end)** — tether release; limited first awakening; liberation outruns social capacity.
 
@@ -165,7 +211,7 @@ In **deep-time / master cosmology** (`00_MASTER_TIMELINE`, `37_deep_time_source`
 | Name | Layer | Meaning |
 |---|---|---|
 | **Dilmun / Eden** | Phase IV–VI mythic geography | Persian Gulf **refugium** — the sealed **Qingu** (Basal Eurasian) nursery; "golden age" memory |
-| **Eridu, Adapa, King List** | Mesopotamian **control memory** | Kingship descends; wrong knowledge; bread/water of life misread through entropic clock |
+| **Eridu, Adapa, King List** | Mesopotamian **mortality/control memory** | Adapa shows wrong knowledge and obedience; the King List preserves declining pre-Flood longevity and the grief of lost duration |
 | **Eden/Dilmun echoes** | Narrative leg (`00_NARRATIVE_STRUCTURE` leg 5) | Iran / Gulf / Mesopotamian **memory** — agricultural grid, first city logic, Qingu lie |
 
 **For the present-day thriller:** Eli meets this layer through **Tier B–C hybrid**:
@@ -186,7 +232,7 @@ DEEP TIME (author bible):
 PRESENT PLOT (Eli's path):
   Vol I   — Asia maritime → Mekong witness → Gulf/Mesopotamia → **Göbekli CLIMAX** (Emrys taken)
   Vol II  — post-Göbekli: Mesopotamian ARTIFACTS + Europe broken grid → Albion release
-  Vol III — Forest City + distributed community network → accountable coexistence
+  Vol III — Pelangi Reach + distributed community network → accountable coexistence
 ```
 
 **Dilmun explains why Mesopotamian myth keeps saying "paradise in the east / in the waters"** — it is the **nursery layer** in the iceberg, carried through **story and genetics metaphor**, not a requirement that Eli scuba the Gulf before Göbekli.
@@ -199,7 +245,7 @@ PRESENT PLOT (Eli's path):
 |---|---|---|
 | **Eridu / Adapa** | Wrong-knowledge control technology origin | Tablet lacuna, scholarly fight (`35`) |
 | **Uruk / Inana–Enki me** | Civilization as transferable knowledge | Textual; faction interprets registry as modern **me** |
-| **Göbekli tree/snake/bird** | Domain split: route / under-guardian / over-guardian | Physical plaquette; Eden reading **demoted** |
+| **Göbekli tree/snake/bird** | Bridge diagram — three stacked zooms (terrestrial / guardian / cosmological); tree = interface where Heaven meets Earth | Physical plaquette; Eden reading **demoted**; panspermia **Book III only** |
 | **Avalon / Tír na nÓg** | **Relocated nursery-memory** (Phase IX west), not Eden itself | Albion **rhyme**, not identity with Dilmun |
 | **Philippines / Bali** | Tier A formative — **never** secret grid grounds | Eli's body and relation vocabulary |
 
@@ -213,7 +259,7 @@ The route is **not** "visit every sacred site." It is:
 2. **Instrument data** (archive polarity) → maritime leg.
 3. **Living detector** (crop/paddy growth) → South Asia.
 4. **Textual dispute** (Adapa, King List, plaquette) → Gulf/Mesopotamia **leg** (Vol I Ch 15–16).
-5. **Buried interface** (Göbekli) → **Vol I climax** (Ch 17); Emrys taken.
+5. **Buried interface** (Göbekli) → **Vol I climax** (Ch 13); Emrys taken.
 6. **Lossy western object** (Cuno–Derw) → Europe (Vol II).
 7. **Node convergence** (Rollright → Stonehenge → Men-an-Tol) → Albion climax (Vol II end).
 
@@ -227,11 +273,11 @@ Each leg owes beats from `22`:
 
 | Leg | Life beat (examples) | Knowledge beat (examples) |
 |---|---|---|
-| Forest City | garden, kitchen, collective care | quarantine rules, supply networks |
+| Pelangi Reach | garden, kitchen, collective care | quarantine rules, supply networks |
 | Melaka | bystander rescue, river | documents, biosecurity cover |
 | Maritime | sailors, food, boarding civilians | archive, registry metadata |
 | South Asia | growers, water, Ila touch | polarity record, wrong map |
-| Mesopotamia | healer refusal, breath practices | Adapa lacuna, King List office |
+| Mesopotamia | healer refusal, breath practices | Adapa lacuna, King List's declining-lifespan memory |
 | Göbekli | Aru breath/stillness | buried instrument, plaquette read fight |
 | Albion | release, spreading fire, coexistence meal | chair equations, death-tech label lands |
 
@@ -242,7 +288,7 @@ Each leg owes beats from `22`:
 
 | Volume | Title direction | Dramatic question | Immediate objective | End threshold |
 |---|---|---|---|---|
-| **I · Shattering** | *The Breach* | Can Eli stay clear under pursuit to decide whom to trust? | Verify Melaka clue; survive breach; reach Göbekli before the permit closes | **Göbekli choice** — people over complete record; **Emrys taken**; personal Manual Override earned at Mekong; **rupture** with Wren |
+| **I · Shattering** | *The Breach* | Can Eli stay clear under pursuit to decide whom to trust? | Verify Melaka clue; survive breach; reach Göbekli before the permit closes | **Göbekli choice** — completed personal Manual Override; people over complete record; **Emrys taken**; **rupture** with Wren |
 | **II · Descent** | *The Descent* | Can Eli pursue truth without turning people into instruments? | Reconstruct damaged clue; reach mother truth | **Relational/collective Manual Override**; mother tether revealed |
 | **III · Choice** | *The Choice* | Can Eli free his mother and oppose Crane without owning the system? | Defend distributed network; answer harm without permanent ownership | **Coexistence proof**; Two-Tree union act; afternoon coda |
 
@@ -254,19 +300,25 @@ Each leg owes beats from `22`:
 
 ## Volume I — plot developments (LOCKED — see `31`)
 
-**Route — LOCKED:** Forest City chase → Suresh crossing → **blocked northward land corridor** → Mandate-controlled or Mandate-dependent Singapore → north by sea through the Straits → Melaka / Zheng He port-memory → **Mekong/Vietnam agricultural-witness sequence** → **Thailand grounding and memory hinge** → **brief Bangladesh village stop** → Bay of Bengal / Arabian Sea maritime corridor → Gulf/Mesopotamian evidence → contested northward land corridor → **Şanlıurfa / Göbekli Tepe**. Singapore is the atomized, high-surveillance counterpoint to Melaka's plural social ecology; its archive and passage must force a decision or cost. Vietnam is the substantial living-evidence stop; Thailand is shorter and restorative; Bangladesh is the emotional home hinge, not a second climax or uncomplicated return.
+**Route — LOCKED:** Pelangi Reach chase → Suresh crossing → **blocked northward land corridor** → Mandate-controlled or Mandate-dependent Meridian City → north by sea through the Straits → Melaka / Zheng He port-memory → **Mekong/Vietnam agricultural-witness sequence** → **Thailand grounding and memory hinge** → **brief Bangladesh village stop** → Bay of Bengal / Arabian Sea maritime corridor → Gulf/Mesopotamian evidence → contested northward land corridor → **Şanlıurfa / Göbekli Tepe**. Meridian City is the atomized, high-surveillance counterpoint to Melaka's plural social ecology; its archive and passage must force a decision or cost. Vietnam is the substantial living-evidence stop; Thailand is shorter and restorative; Bangladesh is the emotional home hinge, not a second climax or uncomplicated return.
 
-**Bengali diaspora web — LOCKED:** a recurring, decentralized mutual-aid network helps Eli intermittently across Singapore, Melaka, the Free Ports, and later maritime corridors. Workers, families, students, cooks, mechanics, nurses, dockhands, and women's social circles know overlapping contacts rather than one command. They offer food, translation, shelter, repair, warnings, or documents, but assistance can cost wages, status, safety, immigration security, or family exposure. The web is not a secret army, a monolith, or proof of bloodline entitlement; it is ordinary social continuity resisting atomization.
+**Opening pace — LOCKED:** Chapter 1 = Pelangi Reach hearth and attack. Chapter 2 carries Pelangi Reach exit → brief Meridian City ring discovery → Straits → Melaka handoff collision → asphyxia breach as one escalating movement. Chapter 3 = aftermath. Geography remains unchanged; chapter boundaries no longer turn each transit leg into a separate runway.
 
-In Melaka, that continuity includes the locked queer privacy culture above: practical belonging is visible inside the web, while relationship data is treated as protected information outside it. A scene should show this through hospitality or household logistics before anyone explains the history.
+**The Wide Net — LOCKED 2026-07-19:** the Bengali–Melakan web is one harbor branch of a much wider, women-led transnational order (working name: **the Wide Net**). Its houses, visiting circles, kitchens, clinics, schools, ports, farms, and repair crews extend across cultures and continents. It has no single headquarters or command line; local houses know overlapping contacts and can refuse an instruction. Members carry food, translation, shelter, repair, warnings, documents, evacuation routes, memory, and social introductions. Men, children, queer people, and elders can be protected, trained, or allied, but women hold the order's long memory and initiation authority. It is disciplined and strategic without being a secret army, a bloodline, or a government.
 
-**Forest City inciting catastrophe — LOCKED:** a staged attack at a Forest City lab, port facility, or transit hub plants evidence blaming **Forest Foundry** (usually called **the Foundry**) and anomalous residents. Union and Eastern Mandate authorities exploit it to justify intervention, seal the northern corridor, cut communications, and sort residents into evacuation, detention, or medical assessment. Forest City is politically occupied and fragmented, not simply destroyed. A small group including Eli escapes through maritime and Bengali diaspora worker routes into Singapore, where “rescue” means atomized clinical processing, then flees north by sea to Melaka. Eli survives while most residents remain scattered, detained, or trapped, leaving him an obligation to return.
+The Wide Net preserves a repertoire of rituals and tests rather than one universal script. A candidate may be asked to host a stranger without extracting their story, keep a confidence while recognizing danger, cross a border without abandoning the person who cannot pass, notice who is missing from a room, repair a practical object, tell an uncomfortable truth to a superior, or leave an unjust house without revenge. Tests measure attention, restraint, courage, memory, reciprocity, and the ability to refuse—never obedience for its own sake. Each house adapts the rite to its language, ecology, faith, and history. Secrecy is sometimes necessary: women-loving relationships, queer kinship, undocumented households, and remedies outside profitable medical channels have all been targeted, criminalized, or appropriated. The order protects names, partners, recipes, and routes through coded hospitality and need-to-know trust. Its power is continuity and judgment, but its danger is secrecy, status, generational control, and the temptation to decide that protecting people permits manipulating them.
+
+The houses also carry practical knowledge modern institutions neglected because it was cheap, local, unpatentable, or associated with the wrong people: herb preparations, food preservation, wound and fever observation, ventilation, salt and vinegar cleaning, and ordinary sanitation. A recurring household practice alternates a diluted vinegar-water cleaner with a separate baking-soda-water wash for surfaces, never mixing them in a sealed container; the lesson is measurement and safe use, not magical chemistry. Some houses also use very dilute baking-soda rinses on oily or irritated skin. For some people it works remarkably well—their faces clear when every expensive product failed—while others record dryness, burning, or worsening inflammation. The order preserves both outcomes, tests conditions and dose, and refers persistent or scarring acne to clinical care. Knowledge survives because it is shareable—not because every inherited claim is universally true.
+
+In Melaka, the local branch's continuity includes the locked queer privacy culture above: practical belonging is visible inside the house, while relationship data is treated as protected information outside it. A scene should show this through hospitality, household logistics, and a house ritual before anyone explains the order's history. Eli initially mistakes the branch for a Bengali women's group; the correction widens his sense of how civilizations preserve knowledge.
+
+**Pelangi Reach inciting catastrophe — LOCKED:** a staged attack at a Pelangi Reach lab, port facility, or transit hub plants evidence blaming **Forest Foundry** (usually called **the Foundry**) and anomalous residents. Union and Eastern Mandate authorities exploit it to justify intervention, seal the northern corridor, cut communications, and sort residents into evacuation, detention, or medical assessment. Pelangi Reach is politically occupied and fragmented, not simply destroyed. A small group including Eli escapes through maritime and Bengali diaspora worker routes into Meridian City, where “rescue” means atomized clinical processing, then flees north by sea to Melaka. Eli survives while most residents remain scattered, detained, or trapped, leaving him an obligation to return.
 
 | Act | Plot turn | Revelation / cost |
 |---|---|---|
-| **I — Hearth & breach** | Planted song → Melaka; Custodians + Wren light-cross; breach (asphyxia); **overload + hunted** | Lead is bait; can't return to Forest City |
+| **I — Hearth & breach** | Planted song → Melaka; Custodians + Wren light-cross; breach (asphyxia); **overload + hunted** | Lead is bait; can't return to Pelangi Reach |
 | **II — Unstable sea** | Archive data; wrong/planted clue; growth anomaly; grounding | Lines break; maps suspect; **first witness site contact** (Ila midpoint) |
-| **III — Growth & choice** | Forming line; Ila stabilization; two teams fight; **choose people over agricultural evidence** | Personal Manual Override; community knowledge points west |
+| **III — Growth & choice** | Forming line; Ila stabilization; two teams fight; hesitation over **agricultural evidence**; Wren forces evacuation | Incomplete override; community knowledge points west |
 | **IV — Göbekli & loss** | Sealed-interface race; Aru/Daskar; Nephilot reveal; Emrys error | **Emrys taken**; partial read survives; romance **rupture** |
 
 **Vol I agricultural-witness sequence (LOCKED #6):** Vietnam Mekong rice/aquaculture community — protect people, lose the cleanest clue; grower knowledge points onward toward the western corridor. **Vol I climax (LOCKED #7):** Göbekli Tepe — sealed-interface race; Emrys taken.
@@ -279,10 +331,10 @@ In Melaka, that continuity includes the locked queer privacy culture above: prac
 
 **Dramatic question:** Can Eli pursue truth without instrumenting people?
 
-**Route (macro):** opens **post-Göbekli** (Emrys absent) → Mesopotamian corridor → mother-reveal region → **Europe** (dead zones, Pömmelte, broken-line church) → **Stonehenge / Albion** → **Maren release**.
+**Route (macro):** opens **post-Göbekli** (Emrys absent) → westward transfer corridor (Bosporus/Thrace/Balkans; Hassan/Maren reveal) → **Europe** (dead zones, Pömmelte, broken-line church) → **Stonehenge / Albion** → **Maren release**. The Mesopotamian/Adapa material belongs to Book I and is not repeated here.
 
 ### Act I — Bodies and crossings *(Ch 15–16)*
-- Opens **post-Anatolia / post-Göbekli** — Emrys **taken** at Vol I Ch 17.
+- Opens **post-Anatolia / post-Göbekli** — Emrys **taken** at Vol I Ch 13; the party moves west, not back toward the Gulf.
 - Healer + Eli reconverge (independent clue chains).
 - Tem record; Wren vs Eli objective **open conflict**; bills Vol I rupture (Ch 15).
 - Adapa / Qingu / Mesopotamian traces (human scale); **patriarchy chord** at domestic scale (`37` § *Patriarchy*).
@@ -303,12 +355,12 @@ In Melaka, that continuity includes the locked queer privacy culture above: prac
 **Resolution:** partial Cuno/Derw + living network → Vol III; Albion likely but not confirmed until independent evidence agrees.
 
 ### Priority 2 — RESOLVED (#7–#10 locked in `99`)
-- **#7** Göbekli race — **Vol I** (`31` Ch 17).
+- **#7** Göbekli race — **Vol I** (`31` Ch 13).
 - **#8** Healer specifics — Somchai trunk Ch 18.
 - **#9** Emrys error — **Vol I Göbekli**.
 - **#10** Load-bearing artifact subset (5–6 objects).
 
-**Chapter spine:** `32_volume_II_beatsheet.md` (Ch 15–21). Patriarchy, dead zones, Pömmelte, broken-line church, Nephilot trail (post-Göbekli) pinned by chapter.
+**Chapter spine:** `32_volume_II_beatsheet.md` (Book II Ch 1–7). The westward transfer carries Hassan/Maren truth; dead zones, Pömmelte, broken-line church, and Nephilot trail then lead to Albion. Adapa and 4.2-ka remain Book I material.
 
 ---
 
@@ -316,7 +368,7 @@ In Melaka, that continuity includes the locked queer privacy culture above: prac
 
 **Dramatic question:** Can Eli free his mother without becoming next owner?
 
-**Route:** **Forest City** + distributed community network — refugee landing, harm under freedom, bounded authority (`33`, `41`).
+**Route:** **Pelangi Reach** + distributed community network — refugee landing, harm under freedom, bounded authority (`33`, `41`).
 
 **Albion / mother release — LOCKED Vol II** (`32` Ch 21). Book III is not another Europe pilgrimage.
 
@@ -332,13 +384,13 @@ In Melaka, that continuity includes the locked queer privacy culture above: prac
 
 ### Volume III locked movement — harm, bounded authority, inquiry
 
-- Refugees from the Book II awakening reach Forest City; Eli's successful response creates pressure for permanent leadership.
+- Refugees from the Book II awakening reach Pelangi Reach; Eli's successful response creates pressure for permanent leadership.
 - A refugee admitted under Eli's sponsorship commits a fatal nonconsensual mind-entry. Freedom's failure is real.
 - Crane's standardized registry would prevent some harm; admirable communities accept parts of it.
 - Wren refuses to let Eli requisition her threshold network. Love grants no jurisdiction.
 - The communities adopt a purpose-bound, revocable, recorded, self-expiring emergency compact.
 - Eli accepts temporary command during attack, then refuses forced synchronization although it would probably save more people.
-- The coalition survives incompletely; a named person or beloved threshold house is lost.
+- The coalition survives incompletely; a named man from the exposed holding crew is killed, other men are permanently injured, and a beloved threshold house is lost.
 - Eli steps down, submits to public inquiry, and accepts restrictions on future authority.
 - The shared-garden coda ends with unresolved anger, ordinary procedure, work, affection without merger, and Eli wanted but replaceable.
 
@@ -348,7 +400,7 @@ In Melaka, that continuity includes the locked queer privacy culture above: prac
 - **#13** Crane accountability shape
 - **#14** Final community geography + post-battle dispute test
 
-**Chapter spine:** `33_volume_III_beatsheet.md` (Ch 23–32). Refugee landing, real harm, Crane standard, Wren refusal, bounded crown, inquiry, and shared-garden coda pinned.
+**Chapter spine:** `33_volume_III_beatsheet.md` (Book III Ch 1–10). Refugee landing, real harm, Crane standard, Wren refusal, bounded crown, inquiry, Hopi learning, and Colorado shared-garden coda pinned.
 
 ---
 
@@ -357,10 +409,10 @@ In Melaka, that continuity includes the locked queer privacy culture above: prac
 ### Clue trail
 - **One clue at a time** — witness → archive polarity → wrong agricultural lead → forming line → partial Cuno/Derw → Albion convergence.
 - **Planted/false clues** required (Vol I wrong lead; ring lure from #1).
-- **Community knowledge** survives when Eli's evidence doesn't (Vol I Mekong witness + Göbekli partial read).
+- **Community knowledge** survives when Eli's evidence doesn't (Vol I Mekong hesitation + Göbekli partial read).
 
 ### Psion war escalation
-- Vol I: Custodians as field face; teams contest formations; **Emrys taken at Göbekli (Ch 17)**.
+- Vol I: Custodians as field face; teams contest formations; **Emrys taken at Göbekli (Ch 13)**.
 - Vol II: war as policy; healing rumor; mother tether.
 - Vol III: factions converge on charged grounds; psionic battle at stones; **aftermath ≠ battle**.
 
@@ -368,7 +420,7 @@ In Melaka, that continuity includes the locked queer privacy culture above: prac
 - I: recognition refused → forced alliance → sanctuary beats.
 - II: thaw tested; trade fork; Wren custody instinct (off-page prior love); commitment late II.
 - III: union tested; throne/destiny pressure; release thesis (`19`, `27`).
-- **Drafting:** per-chapter **Romance cost** in `31`/`32`/`33`; five load-bearing beats `19` § *Romance cost audit* — architecture is hard; execution drifts easy without Ch 7/9/13 (I), **Ch 17 rupture (I)**, and Ch 17–19 (II) friction.
+- **Drafting:** per-chapter **Romance cost** in `31`/`32`/`33`; five load-bearing beats `19` § *Romance cost audit* — architecture is hard; execution drifts easy without Ch 3/5/9 (I), **Ch 13 rupture (I)**, and Ch 17–19 (II) friction.
 - **M/I/A:** per-chapter **Mystery · Intrigue · Attraction** in `31`/`32`/`33` § *M/I/A audit*; hub `19` § *Female mystery, intrigue, and attraction* — through-line: mystery deepens → intrigue exits counterfeit → attraction matures past control.
 
 ### Life / Knowledge discovery (`22`)
@@ -383,7 +435,7 @@ Full 22-step table: `05` §8. Rule: **each revelation changes a decision**; max 
 
 Key hinges:
 - **#6** Seven separate (Vol I midpoint)
-- **#7** Personal Manual Override (Vol I end)
+- **#7** Personal Manual Override (Vol I Göbekli climax)
 - **#11** Mother tether (Vol II midpoint)
 - **#12** Collective Manual Override (Vol II end)
 - **#19–#22** Grid souls, mother chain, amplifier refusal, coexistence law (Vol III)
@@ -394,8 +446,8 @@ Key hinges:
 
 | Plot beat | Character proof |
 |---|---|
-| Vol I Mekong witness — choose people over agricultural proof | Eli Manual Override (Ch 14); Hạnh cooperative |
-| Vol I Göbekli — choose people over complete record | Eli rupture; Emrys error on page; **Emrys taken** |
+| Vol I Mekong witness — hesitate between people and agricultural proof | Wren forces evacuation; Hạnh cooperative pays; Eli carries the unfinished choice |
+| Vol I Göbekli — choose people over complete record | Eli completes Manual Override; rupture; Emrys error on page; **Emrys taken** |
 | Vol II — trade fork | Wren third loyalty |
 | Vol II — Wren custody instinct | Wren's off-page prior love; consent internal to dyad |
 | Vol I–III — Eli/Wren dyad | M/I/A through-line on page (`19` § *M/I/A drafting audit*; `31`/`32`/`33` audits) |
