@@ -263,7 +263,7 @@ Kiran slides down against a rice sack, grinning, then sees Suresh's face and sto
 
 Eli waits. The water knocks at the hull.
 
-"Your mother came through here. During the worst of it. With a husband — Bengali, Rahman, Arif the gardener. Gone now." Suresh studies the line in his hands. "She ran with the keepers, the ones who hide the children when it comes on them. You were in that net after. That's how you washed up in Pelangi Reach — Arif's boy, no papers, head down." He looks up, finally. "What your net was told is *dead, don't ask.* The man in Melaka knew her when she was still running. Says he has something of hers."
+"Your mother came through here. During the worst of it. With a husband — Bengali, Rahman, Arif the gardener. Gone now." Suresh studies the line in his hands. "She ran with the keepers, the ones who hide the children when it comes on them. You were in that net after. That's how you washed up in Pelangi Reach — Arif's boy, no papers, head down." He looks up, finally. "What your net was told is *dead, don't ask.* The man in Melaka knew her when she was still running. Ten years he's sat on whatever he's holding. That's a man keeping a promise, or laying bait, and I can't tell you which from here."
 
 The tingle climbs the back of Eli's neck and into his scalp. The hair stands up along his arms. He doesn't move, and Suresh goes quiet at whatever he sees in Eli's face.
 
@@ -275,11 +275,9 @@ The tingle climbs the back of Eli's neck and into his scalp. The hair stands up 
 
 They clear the Johor shallows by mid-morning and the roadstead off Meridian City opens on the port side — and here the sea stops being empty.
 
-A quarantine line strings the channel: floats, a screening pier, a grey cutter idling with its number painted out. Suresh throttles down to nothing and makes them lie flat under the tarp lip while a processing tender works the boat ahead — a ferry running half-full, its passengers filed off one by one through an arch on the pier. Eli watches through a hand's width of gap because he cannot not watch.
+A quarantine line strings the channel: floats, a screening pier, a grey cutter idling with its number painted out. Suresh throttles down to nothing and makes them lie flat under the tarp lip while a processing tender works the boat ahead — a ferry running half-full, its passengers filed off one by one through an arch on the pier, slow, each made to pause on a painted mark. Eli watches through a hand's width of gap because he cannot not watch.
 
-The arch is the first machine of its kind he has ever seen up close. People walk through it slow, made to pause on a painted mark, and above them a gantry of sensors leans in like something drinking. Most pass. Two do not. A young man is turned aside by a gloved hand on his sternum — not rough, worse than rough, *routine* — and walked to a second pen where a woman with a tablet is already writing him down before he has said a word. On the pier wall behind them, laminated and rain-curled, a grid of faces. The missing, or the wanted; at this distance the difference is only which office printed the sheet.
-
-So this is it, Eli thinks. The thing the keepers ran from. It doesn't look like a war. It looks like a queue.
+So this is it, he thinks. The thing the keepers ran from. It doesn't look like a war. It looks like a queue.
 
 The tender swings toward them.
 
@@ -477,7 +475,7 @@ The hotel is red under the dirt, half its windows boarded, half hung with laundr
 
 The fourth-floor corridor is open to the river air. From here he can see the box the chandlery man meant — table, soldier, van, two men under the shut tour office's awning. Waiting for one route and one shape. His.
 
-At the end of the corridor a door stands open. A man sits on the floor with his back against the bed. Thin, soaked through, one hand pressed to his ribs, his hair white at the temples and black everywhere else as if fear started there and ran out of patience. Beside him on the bed, threaded on a fieldwork cord gone almost black from handling, a ring: two metals, silver and brass, joined at a seam no one ever filed smooth.
+At the end of the corridor a door stands open. A man sits on the floor with his back against the bed. Thin, soaked through, one hand pressed to his ribs, his hair white at the temples and black everywhere else as if fear started there and ran out of patience. Beside him on the bed, threaded on a fieldwork cord gone almost black from handling, a ring: two metals, silver and brass. He does not need the photograph's zoom to know the seam.
 
 Eli knows it is his father's work the way you know a hand you were fed by. Arif's join, the unfiled seam. His mother's thumb worrying that seam when she was thinking.
 
