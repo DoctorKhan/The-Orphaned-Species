@@ -325,6 +325,8 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Voice:** economical, amused, unimpressed by urgency; names water and current conditions the way Salmah names river ones.
 
+**Elder function (`15` § expired ledger):** people stop and come to her to listen — deference to elders as the Strait's social infrastructure, not decoration. She can say in public what working-age people cannot afford to say; the custom shields her (hunters cannot rough up a respected grandmother without turning the harbor against themselves). Her memory predates the registries — she beats paper. The one lever left on her ledger is **Jul**.
+
 **Guardrails:** research real Sama-Bajau practice before drafting — houseboats, statelessness, wooden goggles, spearfishing, the actual ethnography, not the *Way of Water* gloss. A working harvester, not a mystical sea-crone or wisdom-dispenser. Her adaptation is ordinary inheritance, not latent carrier capacity. Not instantly loyal; helping strangers puts her village on the sampling map, and she knows it.
 
 ---

@@ -350,6 +350,15 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 Use these when a chapter needs more grip.
 
+### Elder witnesses — memory beats paper
+
+The registries, frame-ups, and fabricated incidents in this world are all built from **records**. The counter-device is the elder whose living memory predates the records: *"That berth flooded in '31. No boat has moored there since."* (Full craft rules: `15` § Corollary — elders: the expired ledger.)
+
+- An elder can say in public what no one else can afford to say — the usual levers (career, future, standing) no longer work on them.
+- The cultural custom of stopping to listen to elders (kopitiam, teahouse, harbor fringe) makes the consultation scene setting-authentic, not a plot device.
+- Reversal bank: the elder is honestly wrong; the elder is honest and ignored; the faction discredits the elder as senile; the lever found on an elder is always the young.
+- Faction logic: inconvenient elders are not attacked — they are diagnosed, relocated "for care," or outlived by a falsified archive.
+
 ### Thresholds
 
 - A port gate after reopening.

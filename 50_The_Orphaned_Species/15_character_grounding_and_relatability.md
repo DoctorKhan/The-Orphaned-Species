@@ -37,6 +37,19 @@ There are **no truly good or evil sides** in this book. What plays out as "sides
 
 **Scene-level test:** pick the least sympathetic person in the scene. If you cannot write one sentence of their situation that would make a reader say *"I might have done the same,"* you don't understand them well enough to draft the scene.
 
+### Corollary — elders: the expired ledger
+
+In a world where everyone acts from incentives, **honesty is expensive** — career, safety, standing, a future that can be threatened. The elderly are the characters on whom the usual levers no longer work: no career to destroy, no future to blackmail, already survived what others fear. **They can afford truth the way nobody else in the room can.** In a no-sides book, the elder is the closest thing to a reliable narrator the story has — trustworthy not because they are "good," but because the reader can inspect their incentive ledger and find almost nothing left for anyone to buy.
+
+**The Asian register makes this structural, not decorative.** In the Strait setting — kopitiams, teh tarik stalls, teahouses (`50_teahouse_pilgrimage.md`), harbor fringes — deference to elders is social infrastructure. **People stop and go to them to listen.** An elder's word settles disputes, opens doors, shames officials in public. This inverts the Western thriller convention (elders as exposition machines or victims): here, consulting elders is something the culture already does, so Eli learning to do it reads as joining the setting, not receiving a plot device.
+
+**Rules:**
+
+- **Elders beat paper.** Living memory that predates the war, the outbreak, and the registries is the one archive the deep state cannot edit. Fabricated records (seed 13, `18`) are beaten by *"that berth flooded in '31; no boat has moored there since."* Corollary: factions quietly want inconvenient elders gone, discredited, or diagnosed.
+- **Respect as shield — with a dark reversal.** The custom protects them: hunters cannot rough up a respected grandmother without turning the harbor against themselves. But *not much to lose* is never *nothing* to lose — the lever on an elder is always the young (Timah's is Jul). This keeps the incentive rule intact: even the honest have a ledger; it is just not attached to themselves.
+- **Honest ≠ oracle.** Elders can be honestly wrong, honest about the wrong thing, or honest and ignored. No wisdom downloads, no mystical crones (Timah/Salmah guardrails hold). What they give Eli is the one thing his arc lacks: people who tell him **what they saw**, not what he *is*. Everyone else in the book tells Eli what he is.
+- **Stopping to listen is Manual Override practiced socially.** The pause — going to the elder, sitting down, letting them finish — is the anti-autopilot gesture in miniature. Scenes where a protagonist skips this pause should pay for it.
+
 ## Complex pasts — not only runs
 
 Major characters should feel like they **had lives before the war**, not like they were issued with a plot function. Extraction networks, registries, descents, and psion teams are **present pressure** — not the whole biography.
