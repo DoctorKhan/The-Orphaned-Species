@@ -1355,5 +1355,170 @@ The line runs on ahead of them under the fields of Asia, going where it is going
 
 1. **Redundant record-keeping.** The surviving carbon copy, wall safe, and pocketed duplicate samples reflect the oldest data-integrity principle there is: institutions that expect loss keep copies in different failure domains. The cooperative's habits, not Eli's abilities, preserve the westward clue — which is the chapter's argument in miniature.
 
+---
+
+## Chapter Eleven — The Gulf Corridor
+
+The west is not a direction. It is a bureaucracy.
+
+That is the education of the corridor months, and it begins in Thailand, at a river town where the keeper network keeps a stilted house over brown water, and a woman with prayer-callused knees teaches transit passengers to wait without leaking. Eli stays nine days. He practices breath before everything now — before meals, before sleep, before the nightly inventory of noise — and on the sixth evening, sitting over the river with the count held wide, the practice opens backward instead of forward: Thailand arrives in him, the old Thailand, the boy's one. A temple floor cool underfoot. An orange-robed man correcting his posture by moving one finger. And Pai — the valley the mountains folded shut, noodles in a paper bowl, a girl in jester's motley spinning a dragon staff, dropping it on purpose, laughing at him until he laughed, in the year when laughing was the hardest technique in the world.
+
+He had filed all of it under *recovery*, a gray word. It comes back in color. The temple count was never a souvenir; it was the first person to sit with him in the wreckage and ask nothing. He breathes the river out and thinks: *the trail runs backward too.* The dead teach at stones. The living taught first.
+
+Bangladesh is four days and costs more.
+
+His father's village stands where Farida's photographs said: green on green, the pond, the jackfruit shade, and Arif's people — an aunt with Arif's exact eyebrows, cousins, a courtyard that assembles a feast out of nothing because a son of the house has surfaced from the sea of the world. Farida comes up from Dhaka on a shuddering bus, hugs him like a sister, and then, being Farida, briefs him like a fixer: who can be told what; which uncle talks; why he cannot stay. His face is his mother's, and his mother's face is in a file, and files travel even here — especially here, where half the village works corridor jobs and every corridor job has a screen.
+
+They show him his father's first garden. It is still a garden — someone kept it one, forty years of someone — and the aunt puts a trowel in his hand with ceremony, and everyone watches Arif's son plant a lime seedling in Arif's dirt with hands that read everything and grow nothing, and it takes him until the watering to understand that nobody here expects the plant to live. That is not what the planting is for. *You put your hands where his hands were. That's all a grave is,* Farida says, translating the aunt approximately, *and this one's better, because it eats sunlight.*
+
+He leaves before the week turns, because a man at the bazaar photographed the feast. The limits of return: return is real, and it is one afternoon wide, and wider is a danger to everyone who owns those eyebrows. On the bus south Farida texts him a picture of the seedling and a line of Bangla his father used to say, and he reads it until the letters stop swimming.
+
+The Gulf, after so much green, is metal.
+
+Contested ports; registries with different fonts and identical appetites; a corridor of heat and cranes where the war economies grind against each other and everything human moves in the gaps. It is here, in a shipping agent's back room in a port he never learns to pronounce, that the network's capillaries deliver two pieces of intelligence in one week.
+
+The first is a rumor with Hassan's shape in it: a detainee transferred through a Gulf holding facility, older man, "memory of cartographic interest" — Wren's contact taps the phrase twice, meaning *that is not standard language* — moved onward, destination redacted, alive as of the transfer date. Alive. The word does more work in Eli than three months of trail.
+
+The second is a date. Emrys, rejoining them off a freighter with his coolers and a sunburn, spreads a consortium circular on the agent's desk: Şanlıurfa. The Taş Tepeler concessions. A conservation decision, ratified, funded — *backfill*. The excavated sectors at Göbekli Tepe, including the sealed enclosure behind the fox pillar, to be re-buried for their own protection on a hard calendar date, after which the earth closes over the first buried instrument for a generation.
+
+"A window," Emrys says, and his voice has the wrong steadiness, the steadiness of a man leaning on it. "Everyone who can read a circular knows it's a window. Which means everyone will be in it at once."
+
+There is a shortcut on offer — there is always a shortcut. A biosecurity contractor the agent knows can fold three travelers into an institutional convoy, papers laundered clean, Mesopotamia in six days instead of twenty. The price is biometric intake: one scan, one file, one favor owed to an apparatus with no face.
+
+"Six days," Emrys says, looking at the circular's date, wanting it so nakedly that he argues against himself out loud and loses twice.
+
+"Twenty days, human doors," Wren says. "Told first: the slow way runs through people I trust with more than travel. The fast way runs through a scanner. Somewhere a Custodian analyst is paid to read that scanner."
+
+They take the slow way. The corridor eats the twenty days one checkpoint at a time — tea with a hauler's widow who moves them for the network's sake; two days lost to a closed crossing; a night in a container listening to port cranes court each other over the stacks — and Eli spends the waiting the only way that compounds: breath, count, noise-inventory, and the growing, disciplined map of his own interior weather. Numbers for Emrys. Silences for Wren, left unfilled, per the constitution.
+
+The line, when they finally strike inland along the river country, is there to meet them. Rice gives way to wheat and the wheat is coming up drunk — a band through the stubble fields, arcing north, patient as geology.
+
+North, where the hills hold the oldest stones in the world, and the clock on the circular runs.
+
+---
+
+*On the record*
+
+1. **Backfill as conservation.** Re-burial of excavated sectors is genuine archaeological practice for site protection. Its use here as a political clock — access closing on a schedule — is the fiction's addition; the technique itself is standard.
+
+---
+
+## Chapter Twelve — The Old Wound at Ground
+
+The charged ground in the river country is a tell — a town-mound of stacked millennia with a ruined shrine on its crown — and it is nothing like the confluence stone.
+
+The stone at the delta was a voice in a quiet room. The tell is a *courtroom*, and the sessions never ended. Eli feels it from the road: not a pull but a pressure, layered, argumentative, old grief stacked on older grief like the strata themselves. Emrys's needle agrees and then bends past agreement into a range he has no calibration for.
+
+"Sit before, not after," is all Emrys says, laying out the protocol, hands not quite steady. "And boy — at a place like this, hold the count like a rail. This ground has had five thousand years of people asking it to make them important."
+
+The thread that takes him is not important. That is the first mercy, and the last.
+
+Watched-depth, this time — not standing in a life but *shown* one, at remove, like testimony: a man in a reed-and-brick office, ledgers in clay, a scribe or steward or sage — the thread renders him with a title worn smooth to *Uanna* — a careful man, a *good* man in the way institutions certify goodness: obedient early, obedient often. And the vision's single scene, compressed like a seal impression: the man offered something — food that is more than food, in a setting that is more than a meal, a doorway standing open in the fabric of what he is permitted — and the man, *because he had been instructed, because obedience had always been the safe read*, declining. Refusing the bread. Choosing the rule over the door.
+
+And then the length of a life after, rendered as a corridor of identical rooms, comfortable and shrinking; and at the end of it the man's own late understanding arriving like frost: that the instruction he obeyed had been engineered precisely so he would obey it, that his discipline was the lock, that *obedience closes the path to life* — and that the ones who instructed him knew.
+
+Eli comes back with his hands cold and the count still held, and no tears this time. The tell does not deal in grief. It deals in warnings.
+
+The ground gives one thing more, material and disputable: in the shrine's robbed-out foundation, where every faction's survey has been and gone, a broken stone plaque the size of a hand — grammar older than the tell, argued over by every dealer and curator in the corridor. Two curators in the nearest city give them two incompatible readings the same afternoon; a third, older, keeps it under glass with a label that says only CONTESTED, which Emrys pronounces the most honest word in Mesopotamian archaeology. But under the disputed grammar, undisputed, cut deep: a mark. A spiral, coiled inside the outline of an eye.
+
+Eli's palms know it before anyone speaks. The noise leans toward the little stone the way the rice leaned toward the band.
+
+"It recurs," the old curator says, watching him with care. "North of here, in the hills, on the oldest material there is. The diggers call it the selection mark." He taps the glass, once. "No one who uses that name can tell you what was being selected. Or by whom. That, young man, is the whole business of this country: we have the receipts of decisions no one alive was consulted on."
+
+The rest of the receipts fill the archive days that follow, and they are worse than any vision, because they are ordinary: genealogies that narrow; ration lists that count men by grade and women by function; marriage records that read like livestock ledgers; king lists in which lifespans inflate as the names concentrate — a few lines swelling across the record while whole family trees simply stop being written down. The control order, whatever it first was, *moved inward* over these millennia: from the ground into the granary, from the granary into the household, from the household into the body, until who may father and who must serve reads as natural law with a notary's seal.
+
+Emrys, buried to the elbows in it, makes his one slip on the last evening — small, and Eli catches it only because he has learned the man: a lacuna in a tablet run matching, too neatly, a gap in Maren's old notebooks, and Emrys reconstructing the missing line from her marginalia and writing it into his working copy *as text*, map over territory, the wish smoothing the ground. When Eli questions it he blinks, looks again, and scrubs the line out with more force than the pencil needs.
+
+"Thank you," he says, stiffly, and then, quieter, the real thing: "She used to catch me at that. Twenty years, nobody's caught me at that."
+
+North, then. The plaque's grammar, the selection mark, the narrowing lines, the band in the wheat — every witness they have, living and stone, points into Anatolia, at the hills where the oldest enclosures sleep under their own backfill, and the calendar in Emrys's pocket counts down the days until the newest one joins them.
+
+---
+
+*On the record*
+
+1. **Demographic bottleneck.** The post-Neolithic Y-chromosome bottleneck (a collapse in effective male lineage diversity, roughly 5000–3000 BCE, plausibly social in mechanism) is real published science. The narrowing genealogies and caste-filtered fatherhood shown here dramatize the mainstream "competing patrilineal kin groups" reading; the story's control-order interpretation is fiction layered over genuine data.
+
+---
+
+## Chapter Thirteen — Göbekli and Loss
+
+Şanlıurfa in the permit window's final week is a city with too many rental four-wheel-drives and too many men whose sunglasses cost more than the hotels.
+
+The consortium holds a presentation in a conference room with simultaneous translation and pastry: satellite maps, drone footage, and a branded rendering of the past. Six stone troughs, the presenter says, laser pointer circling; nearly a thousand liters of capacity; *a brewery, ladies and gentlemen — beer as payroll. Organized labor, managed provisioning, the first wage. Civilization begins as a labor contract* — and on the screen, seamlessly, the labor contract begins to look like a license: heritage as precedent, precedent as ownership, the sealed enclosure as the natural property of whoever best monetizes its meaning.
+
+Emrys stands up in the question period the way other men throw punches.
+
+Vessel capacities, he says, actual and published: roughly four hundred fifty liters *total, theoretical*, across contexts that are not even contemporary with each other; residue work supporting cereal porridge and gruel at least as strongly as fermentation; feasting, yes — provisioning, yes — but the evidence showing *gathering*, reciprocity, seasonal cooperation, not a payroll office in the hills. "You have taken uncertainty," he finishes, glasses shaking slightly in his hand, "and rendered it as an invoice. The stones deserve a better accountant."
+
+It wins the room's laughter and loses the war: the consortium does not need to be right, it needs to be *cited*. But it puts the group's faces in that room, on that camera, in that week — Emrys's old defiance announcing to every faction at once that the people the bulletins warned them about have arrived.
+
+The site, when they finally stand on it, is smaller than the age of it and larger than the pictures: the tell like a swelling under the skin of the hills, the enclosures open in their shelters, the great T-pillars standing in their circles with their long hands carved folded at their bellies — beings rendered by people who could not or would not show their faces. Civilians everywhere at the margins: dig workers, a shrine's worth of visitors, tea sellers, two soldiers bored under a flag. And beyond the public sectors, behind screening and a guard rotation the consortium pays for, the sealed enclosure — the one behind the fox pillar, the one the backfill calendar closes first.
+
+Eli does not need the screening to know where it is. The whole hill leans toward it the way the rice leaned. His noise, at the boundary rope, goes as quiet and directional as it has ever gone: a door, the oldest door, and behind it something neither dead nor alive — *waiting*, the way instruments wait.
+
+They have three days, one route, and one argument.
+
+Emrys's route is a map: a backfilled service trench from the older excavations, running under the screening line — surveyed, drawn, in the archives, *his* kind of true. Wren's route is the living one: the seasonal water, the grass growing wrong along a buried cut further east, the polarity thread Eli's palms can follow like a hand-rail — slower, uglier, unmapped. The night watchman the network vouches for confirms the east cut exists. The archive confirms the trench. They cannot do both.
+
+"The trench is *documented*," Emrys says, and there it is again — map over territory, the wish smoothing the ground — and this time Eli catches it and cannot stop it, because this time the man is not reconstructing a tablet line. He is forty years and one guilt too deep. "Her notes marked the trench. She meant to come here, boy. I am not walking past her route to follow grass."
+
+He goes at the wrong hour, to the wrong door, trusting the drawn world. The trench is real. It is also six years re-collapsed at the far end — the live ground knew; the grass over it grows *right* — and the noise of his digging brings the consortium's private security at exactly the moment the Custodians' watchers, drawn by the presentation, converge to see what the consortium has caught.
+
+What happens next happens in nine minutes, and Eli spends the rest of the volume unpacking them.
+
+The compound wakes in layers — floodlights, radios, one warning shot that sends the shrine visitors screaming into the dig lanes, civilians suddenly everywhere between armed and armored men; and under it, immediately, the other war: pressure fronts rolling off the Custodian line, a dome going up somewhere, the hill itself *ringing* like struck bronze as three factions' instruments wake each other around the sealed enclosure. And in Eli — standing at the east cut with Wren, one hand on the living route, the door forty meters away and open to him, open, the interface turning toward his signature like a face turning — the charge rises.
+
+It is the biggest one of his life and it is perfectly, transparently articulate. *Go now. The record, whole — everything the founders left, everything she wanted, and Emrys pulled from a trench and carried to a van in one move if you are fast, and you are fast now — be the one who saves it all, be so necessary that no one can ever file you, earn it, EARN—*
+
+He feels it. He knows it — the engine, the old drone-deep engine, wearing his mother's face and Emrys's rescue and the founding record all at once, conditioning reaching for his legs to complete itself.
+
+He holds the count.
+
+One breath wide. In the width of it: the shrine visitors pinned in the dig lane between the floodlights and the dread; Wren already moving toward them because of course she is; the watchman who vouched for them standing exposed by his own gate; Emrys — visible, briefly, far off, upright between two silhouettes at the trench mouth, not struggling, his glasses catching the floodlight once, being *walked*, procedurally, toward the white vehicles.
+
+And Eli — feeling the charge in full, naming it, and for the first time in his life *not letting it finish* — turns away from the door.
+
+He spends the nine minutes as a facilities worker at the world's oldest facility: killing the string of floodlights with a thrown breaker at the generator sled; being at the gap in the fence saying *this way, auntie, this way* in three languages while dig workers and pilgrims pour through; putting his body and his quiet, in one bad moment, between a fleeing family and a pressure-front's edge, and holding, the way a big man on a dyke held once, because now he knows it can be done. The record he does not go to. The van he does not chase. The choice goes through him like the choke went through him at Melaka — a death, of a kind; the drowning of the boy who believed being useful enough would make him unfileable — and on the far side of it he is still moving, still small, still himself. His.
+
+The site gives him what it chooses to, at the end, unearned: as the factions' geometries tear at each other over the sealed enclosure, the hill's charge sloshes like water in a struck bowl, and at the fox pillar — the public one, the one anyone may stand at, ten steps from the fleeing crowd — two threads reach him, full-resolution, in the fractured seconds while he steadies an old woman at the rope.
+
+Aru: hands on this stone when this stone was young — a carver, spiral-eyed mark under his palm, and around him not slaves, not a payroll: a *gathering* — hill full of firelight, strangers arriving with the harvest hunger, porridge in troughs and something laughing and fermented in the small vessels, cooperation bought with feast and wonder, massive stones walked upright by a hundred hands that did not understand and did not need to — an alliance, wary and real, between those who knew what the circles were for and those who were fed and awed and glad of the work. And in Aru, under the craft-joy: the first cold thread of noticing — that the ones who knew had begun to *count*, and that some of the marks he was made to carve were not for wonder. They were for selection.
+
+Daskar: later, so much later — the same circles old, the fires ordered now, and Daskar in the dark of a decided night, helping bury the center. Fill carried by basket, by hundreds, in silence, a lifetime of it: the instrument the gathering had raised being put to sleep by the grandchildren of the raisers, *on purpose*, the way you decommission what can no longer be kept safe — because the counting men were coming, and something in Daskar's keeping — a name he holds like warmth against the dark, *Eshe*, *Eshe* — could not be allowed to pass into counted hands. The center going silent under the fill. Grief and craft in the same motion. The first refusal, executed in earth.
+
+Then the threads pay out, and the hill is just a hill full of soldiers, and the window is over.
+
+The consortium seals the breach and accelerates the backfill by a week, for security. The Custodians' vehicles are gone by dawn, and Emrys with them — his coolers orphaned in the guesthouse, his pencil still in the tablet-room's cup, his sandwich, wrapped in laboratory film, going stale in a vest no one will wear now. The founding record sleeps behind the fox pillar for a generation, read by no one, owned by no one, which is, Eli tells himself, a kind of tie.
+
+It does not feel like a tie. It feels like a man is gone.
+
+The rupture comes at the guesthouse, past midnight, over the packed coolers, and it is quiet, which makes it worse.
+
+"Your watchman's gate," Eli says. "Your corridor. Your vouched-for route stood there lit up while they walked him—"
+
+"My route held," Wren says, level, gray with her own night. "Every person on it is accounted for. He left the route. I told him the trench was watched. I told you he'd go anyway — I told you at the presentation, watch him, he's bleeding." A beat, and then, because she is Wren and will not soften even the true things, especially the true things: "I told you."
+
+The words stand in the room like furniture nobody will ever move again.
+
+They go west out of Şanlıurfa two days later, on human doors, with half a plaquette reading, two threads of the oldest testimony on earth, a bag of delta soil, a seedling photograph, and an empty chair in every vehicle they will ride from now on. The partial geometry and the living line both point the same way now, across the Bosporus, into Europe — toward whatever ground holds his mother's tether, in a direction that old maps mark with a name none of them says aloud, because it is not yet confirmed, and they have all learned this year what wanting does to a reading.
+
+Eli sits apart, holds the count, and keeps, in the cold operational silence where a friendship was, the two things Göbekli actually gave him.
+
+The engine can be refused. He knows, now, in the body, where the switch is.
+
+And the first thing the first temple ever taught anyone: some doors are not failed by the people who choose not to open them.
+
+---
+
+*On the record*
+
+1. **The trough debate.** Large limestone vessels at Göbekli Tepe have been argued as evidence for cereal processing at scale; published capacity estimates and residue analyses support porridge/gruel and possibly fermented preparations, with "brewery" readings contested. The consortium's 960-liter payroll narrative is the fiction's strawman assembled from real interpretive overreach; Emrys's counter-figures track the published skeptical position.
+2. **Deliberate burial.** The backfilling of Göbekli Tepe's enclosures in antiquity appears intentional. Its motive is unknown. Daskar's night of baskets is one invented answer to a genuine archaeological mystery.
+
+---
+
+*End of Book I: The Breach.*
+
 
 
