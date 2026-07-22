@@ -193,6 +193,26 @@ This is the payoff that makes the Three Circles more than a diagnostic grid: **t
 - **Do not let Eli tie anything.** The moment untying becomes a power he could invert, the throne is back.
 - **Vocabulary is folk and local** (§7a): *the bound ground, the place that holds, the stone that will not let go.* "Knot" is a word the reader assembles, not a term the world agrees on. **No character says "the tenth knot" as a title** until a faction coins it as propaganda — and when one does, it is a recruitment line.
 
+## 7c. Dark lines and isolated systems — LOCKED DIRECTION (2026-07-22)
+
+### Dark-line refuges
+
+A ground can be **kept dark on purpose.** Canon already allows it mechanically: burial decommissions an interface (`18` seed 10), and scoured dead zones exist (`37`). A community extends the same physics into custom: anchor stones buried or uncoupled, group coherence never practiced at the ground, keeper work that **damps instead of clarifies** — *keeping the stone asleep.*
+
+- **Deep-time origin:** dark-line custom is fossilized survival strategy. The villages that damped their grounds during the ancient carrier purges (Phase IX; Pömmelte's horror is what happened to the ones that stayed lit) are the villages whose descendants still hold the custom without remembering why. The folk layer carries it as the **inverse of talking stones** (§7a): not stones that speak, but stones that must *not* be spoken to — cursed hills, forbidden circles, the stone you don't sing near. Eli's team initially reads these legends as superstition and then realizes they are **maintenance instructions**.
+- **Incentives (all sides legible):** refuge from registry sweeps, from becoming contested territory, from psi-Drift among the young. Costs that keep it honest: latents in a dark refuge never develop and get no warning when something comes; the village is invisible to the network's care as well as its dangers; the young leave.
+- **The cage problem:** a dark line is a **collective choice imposed on everyone under it** — including the latent teenager who wants what proximity would give her. The refuge reproduces the control problem at village scale: the community that keeps the stone asleep is deciding for bodies that never voted. Mirror-image of the registry, and drafted as such — no sides, only incentives.
+- **Book III test (the thesis's final clause):** when the network reawakens, can a refuge *stay* dark — and does it have the right to? Sol reads dark refuges as desertion; the Union reads them as unregistered risk; the federation must defend **the right not to connect**. Connection without compulsion is only proven when someone is allowed to refuse the web itself and remain a neighbor. Practical drama: reconnecting lines raise pressure at damped stones; keeping one asleep gets harder every season, and the refuge must eventually *choose its darkness knowingly* instead of inheriting it.
+
+### Isolated line systems
+
+The web the trilogy fights over is **the captured system** — the trunk network the cold infrastructure was laid over, the one with the machine's history in it. It is **not the whole planet.** There are **other line systems, isolated from the captured trunk** — separated by ocean, geology, or deep-time severance — that the amplifier's builders never reached.
+
+- **Discovered later.** When the captured system relights, its **edges become measurable for the first time**: the map turns out to have shores, and instruments and sensitives begin registering that something lies beyond them. This is late-Book III material at the earliest; full contact between systems is **Book IV horizon** — the planetary-scale rhyme of the Two Trees reunification.
+- **How many and where — OPEN.** At least two isolated systems exist. Candidate geographies (Pacific/Oceania, the Americas, Australia) stay undecided; whether an isolated system is *already quietly alive* (the native road never paved) or dormant in its own way is also open — decide when Book III/IV beats need it.
+- **Guardrail (firm):** an isolated system is a **geological fact, not a spiritual ranking.** If Book III's western locations (Hawaiʻi, Hopi lands, Colorado) end up on one, the peoples there are not written as more mystical or more awakened — they have a *different history with their ground*, researched from the relevant living traditions, never invented as universal wisdom (same discipline as the Weavers' rites and Timah's ethnography).
+- **Connects to dark lines:** some "dead" zones between regions are not scoured wounds but **natural gaps between systems** — boundaries misread as damage. And an isolated system is what a dark-line refuge is trying to be at village scale, which means the discovery reframes the refuges: the planet itself kept some of its lines out of the machine's reach.
+
 ## 8. The firing rule (retained — so clarification doesn't stall the plot)
 
 A clarifying scene earns its place only when **both** hold:

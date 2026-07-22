@@ -427,7 +427,9 @@ Consequences to track (Book III's plot engine):
 - **Sol's contrast sharpens.** He force-synchronizes people; the real thing is the *ground* reconnecting while people develop at their own pace. Same era, opposite object — he works on minds, the web works on territory.
 - **Registry politics reignite.** Spontaneous new latents appearing along lines is exactly the situation registry logic was built for. The Union's argument gets stronger just as the machine dies — Book III's conflict in one sentence.
 
-Still open (fine to settle at Vol II/III beatsheet revision): rate and radius of development; whether non-latents experience anything near active lines; whether a line can be deliberately kept dark as a refuge.
+**Dark-line refuges and isolated systems — LOCKED DIRECTION (2026-07-22, `36` §7c):** a ground can be kept dark on purpose (damped stones; custom fossilized from the Phase IX purges — the inverse of talking-stones folklore: the stone you must not sing near). Book III tests the right *not* to connect. Beyond the captured trunk, **at least two isolated line systems** exist, measurable only once the main system relights — late Book III discovery at the earliest; contact is Book IV horizon. Geographies and whether they are already alive stay open; isolated ≠ spiritually superior (guardrail in `36` §7c).
+
+Still open (fine to settle at Vol II/III beatsheet revision): rate and radius of development; whether non-latents experience anything near active lines; which geographies hold the isolated systems and their state.
 
 ## Charged-ground triggers (clarification of the web)
 
