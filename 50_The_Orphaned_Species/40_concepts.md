@@ -142,6 +142,28 @@ The Weavers' Net is the accumulated relational infrastructure the order weaves: 
 - Prefer a Net-knot over luck: anywhere the trilogy needs a clue routed, a safehouse found, or a stranger vouched for, an old match or godparent tie is better than coincidence (the ring-photograph chain is already this shape).
 - **Eli/Wren — LOCKED (2026-07-21): blessed, not built.** A Weaver house quietly vetted Eli and blessed the pairing *after* it formed, without Wren's knowledge — small Vol I favors that read as luck, discovered in Vol II (`32` Act IV Ch 5; re-choosing completes at Ch 7 denouement) at the peak of her *"real, engineered, or both"* fear. The order never arranged the meeting. Full beat and elder-confrontation shape: `19_romance_and_divine_pairing.md` § Weaver bonds, the matchmaker thread. This gives the consent line its personal test case: even a benevolent blessing given without knowledge lands as manipulation.
 
+## The three registers of choice
+
+*Concept added 2026-07-21. Every significant choice in the book can be read in one of three registers — and which register it was made in is often the real question of the scene.*
+
+1. **Programming** — the choice was never a choice: the mechanism completes **without a decision point**. The autopilot (inherited drone-era firmware: habit, threat response, social obedience, reward seeking, post-hoc explanation), psionic Block, planted certainty, the Drift. Locally cheap, and **predictable** — that predictability is exactly what manipulators, feeds, registries, and psion teams run on.
+2. **Influence** — a decision point exists, but the field was tilted. Whispers, blessings, incentives, prophecy, charisma, registry-as-care, coercion-as-courtesy, a matchmaker's cleared road. Nearly everyone in the book lives here nearly all the time.
+3. **Agency** — Manual Override: notice the command moving through you, test it, choose. Not freedom *from* influence — seeing the ledger before signing it.
+
+**The operational test (no metaphysics available):** any act of agency can be re-read as deeper programming — "you were conditioned to rebel" — and that regress cannot be won with argument. The book's practical test is **predictive failure with coherence**: programming is what the manipulator can predict; agency is the moment the manipulator's model *misses* while the person's conduct stays coherent with what they have shown they care about. Crane is never out-argued; his predictions start failing.
+
+**The consequence asymmetry (why any of this matters):**
+
+> **Autopilot decisions are predictable, and they end in stress cycles. True decisions cost more, and they compound into true progress.**
+
+- Register 1 is cheap now, expensive later: feedback-blind, it repeats — the same crisis returning harder each time. Personal form: overload loops, trauma repetition, the Drift felt as ascent. Civilizational form: an emergency power after every emergency, a registry after every outbreak, the palace system brittle at scale (Bronze Age layer). A cycle is a lesson refused.
+- Register 3 is expensive now — slower, exposed, metabolically costly — and compounds later: learning that stays learned, repair that holds, institutions that can revise themselves, an inheritance *altered rather than reproduced*. Progress that does not have to be re-won each generation.
+- The same pressure returns until the register changes: **a cycle becomes a spiral only when met with agency.** This is also the deepest available reading of the adversary's function — pressing the species against its weaknesses until obedience becomes choice — without ever resolving whether that function is intended, believed, or confused.
+
+**Dynamics, not taxonomy.** Nobody lives in one register. Practice moves a person up; fear, exhaustion, and crowds push them down; the Drift is register collapse experienced as transcendence. Manual Override is not a rank achieved but the daily noticing of which register you are currently in. Protagonists get caught in register 1 too — Eli's body lights with certainty about the ring photograph before his mind can test it — and the reader should catch it after learning to spot it in villains.
+
+**Attribution is a weapon.** Declaring which register someone *else's* choice came from is a power move, and every faction makes it: the registry calls carrier choices contagion (programmed → ownership is care); the liberation faction calls all restraint conditioning (programmed → burn it down); Crane calls Eli's refusal a trauma reflex. **Calling a choice programmed is the first step to owning the chooser.** The book itself refuses to certify anyone's register from outside — conduct accumulates; certainty never arrives.
+
 ## Developmental arc of the series
 
 **Core movement:** the story should develop from external conspiracy, to internal liberation, to species-scale reconnection. The protagonist first discovers that the world has been controlled, then discovers that control works through his own mind, then witnesses humanity recovering the capacities and life technologies that atomization was designed to suppress.
