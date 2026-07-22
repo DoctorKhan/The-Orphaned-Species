@@ -415,9 +415,19 @@ The proving community is **ordinary and distributed**, not a new order:
 
 **Still open:** the deeper-function question below (evolution-forcing vs. domination) — off-page for the trilogy; possibly Book IV territory.
 
-### Seed-pattern propagation — open (decide before Vol II beatsheet revision)
+### Seed-pattern propagation — LOCKED DIRECTION (2026-07-21)
 
-The Book II climax and all of Book III rest on how the awakening spreads: Eli transmits a **seed pattern rather than a command** (`41`), and "those able and willing" catch it. **Open: what makes a person able to catch it** — practice, consent, a survived threshold episode, proximity to a charged ground, some combination? The answer defines the visible difference between Eli's spreading fire (invitation) and Sol's forced synchronization (same signal, imposed), and sets the limits Book III's federation lives inside (who can join, how fast it spreads, what catching it badly looks like — possible route into psi-Drift). No Vol I dependency beyond existing foreshadowing (coordination-without-command contests). Do not resolve in worldbuilding; resolve when the Vol II climax beats are next revised.
+**The mechanism: ley lines activating and connecting.** The spreading fire is not person-to-person contagion, teaching, or a caught signal — it is the living web coming back online. When the amplifier is defueled and Maren's release frees the trapped threads (`41`), the web's lines begin reconnecting; **latent psionics in proximity to active lines and grounds begin to have abilities develop.** The climax-moment coherence (prepared people + charged grounds catching Eli's seed pattern) is the immediate event; the ongoing propagation afterward is **geographic** — development follows the map of the reawakening network, at each person's own rate.
+
+Consequences to track (Book III's plot engine):
+
+- **Development is unchosen.** Latents near lines develop whether or not they asked — like Eli's inherited gift, arriving as a fact of the body. Nobody opts in to proximity. The moral weight therefore moves off "who may join" onto **how communities respond**: warn, support, teach, ground — stewardship, not gatekeeping.
+- **The map is the story.** Communities near reconnecting lines change first; dead zones and scoured wedges (`37`) lag or stay dark; the geography of awakening creates the federation's uneven, contested landscape — and a new reason factions fight over charged grounds after the machine is already dead.
+- **Threshold care scales up.** New latents developing without keepers nearby = threshold crises everywhere the lines pass; threshold houses and keeper knowledge become critical infrastructure, and fast development near strong lines without grounding is a route into psi-Drift.
+- **Sol's contrast sharpens.** He force-synchronizes people; the real thing is the *ground* reconnecting while people develop at their own pace. Same era, opposite object — he works on minds, the web works on territory.
+- **Registry politics reignite.** Spontaneous new latents appearing along lines is exactly the situation registry logic was built for. The Union's argument gets stronger just as the machine dies — Book III's conflict in one sentence.
+
+Still open (fine to settle at Vol II/III beatsheet revision): rate and radius of development; whether non-latents experience anything near active lines; whether a line can be deliberately kept dark as a refuge.
 
 ## Charged-ground triggers (clarification of the web)
 

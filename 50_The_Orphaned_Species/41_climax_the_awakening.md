@@ -38,6 +38,8 @@ At the same moment, a small number of prepared people and charged grounds enter 
 
 This is the first awakening. It is a local and distributed breach in the old monopoly, not universal enlightenment.
 
+**What spreads afterward — LOCKED 2026-07-21 (`99` § Seed-pattern propagation):** the ongoing propagation is not contagion or teaching — it is **ley lines activating and reconnecting** as the freed web comes back online. Latent psionics in proximity to active lines and grounds begin to have abilities develop, unchosen and at their own rate. The spreading fire is geographic; Book III's landscape, threshold-care burden, and reignited registry politics all follow from the map.
+
 ---
 
 ## The temptation
