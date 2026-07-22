@@ -7,7 +7,7 @@
 > **Assembly state (2026-07-22 audit):**
 > - **Ch 1 (below):** governing draft, **complete through the staged-attack ending** (drafted 2026-07-22): attack during the late band set, staged tells through Eli's facilities knowledge (chained standpipe, pre-written bulletin, carried-in crate), comms cut, city sealed, cohort lists at dawn — hearth burned inside Ch 1 per the inciting-catastrophe lock.
 > - **Ch 2:** governing draft lives in `DRAFT_Chapter_Two.md` (ends at the breach; DC-1 Meridian transit expansion is the next drafting task; DC-4 ring resolved — Hassan carries it into custody, H3). Merge here when the Meridian sequence is drafted.
-> - **Ch 3 (What Didn't Die) and Ch 4 (Her People):** undrafted.
+> - **Ch 3 (What Didn't Die):** governing draft in `DRAFT_Chapter_Three.md` (2026-07-22; 8 flagged choices). **Ch 4 (Her People):** undrafted.
 > - **Superseded Ch 2–4 prose:** moved to `MANUSCRIPT_restructure_quarry.md` (deprecated-elements list in its header; Khun Dang / Hotel California material reserved for the Thailand hinge).
 > - **`DRAFT_Chapter_One.md`:** alternative concept-forward Ch 1 — **quarry**, not governing (interiority pays off later; see its header).
 

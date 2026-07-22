@@ -6,7 +6,7 @@
 
 1. [x] **Ch 1 ending:** staged Foundry attack drafted (2026-07-22) — attack during the late band set; hearth burns inside Ch 1.
 2. [x] **Ch 2 Meridian transit expansion** drafted (2026-07-22): processing → ring photograph (wage-ticket cost) → worker maze → Cherry Cube → Circuit escape → northbound vessel with first psionic brush. **Still owed:** author read-through, then merge Ch 2 into `MANUSCRIPT.md`.
-3. [ ] **Ch 3 — What Didn't Die:** Salmah named + her cost; Wren fold-in; Emrys measures the breach; grounding; the disappear-or-follow decision.
+3. [x] **Ch 3 — What Didn't Die** drafted (2026-07-22, `DRAFT_Chapter_Three.md`): Salmah named and priced, her cost witnessed at distance; Nura/Ilyas separation with consent visibly not asked; Emrys measures and withholds ("numbers that don't fit my boxes"); grounding via the cup trick + Thailand count; decision scene ends on "I'm not going dark" and Wren's name. **Still owed:** author read-through; 8 draft choices flagged at foot.
 4. [ ] **Ch 4 — Her People:** Wren's Laleh opening (hard break) + maritime departure.
 5. [ ] **Ring entry** in `26_present_day_cast_expanded.md` (the Ring as institution with people and incentives — on-page from Ch 1; no-sides audit).
 6. [ ] Research passes, just-in-time: Pelangi Reach island texture (Ch 1), Melaka market/river (Ch 2–3), Sama-Bajau (first Timah scene).
