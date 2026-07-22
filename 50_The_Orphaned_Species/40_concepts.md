@@ -117,6 +117,31 @@ The point is not that all modern institutions are bad. The point is that young p
 
 ---
 
+## The Weavers' Net
+
+*Concept named 2026-07-21. The institution: `29_trilogy_plot_and_development.md` § The Weavers. Bond craft: `19_romance_and_divine_pairing.md` § Weaver bonds.*
+
+The Weavers' Net is the accumulated relational infrastructure the order weaves: marriages arranged or blessed, apprenticeships placed, godchildren claimed, houses allied, debts of hospitality remembered. **Each match is a knot; generations of matches are a net** that spans ports, cultures, and blocs — the human counterpart of the living web.
+
+### How it works
+
+- **Matchmaking is the visible, respectable craft** — the auntie register the setting already honors (*ghotok*, *mei-po*, terrace aunties). Introductions and placements are the same craft applied beyond marriage.
+- **The net is held in memory, not paper.** There is no registry to seize; the order's archive is women who remember who owes whom (elders' expired ledger and memory-beats-paper, `15`, `18`). This is why the deep state can map the blocs but never the Net.
+- **Power mechanism: whoever ties the knots knows the net.** Safe routes, shelter, vetting, introductions, and quiet vetoes flow along kinship lines the Weavers made. This is how a decentralized order with no army retains power across generations — its infrastructure is *married into place*.
+- **Political, not genetic.** Matches weave alliance and obligation. No bloodline design, no destiny-children, no harvest of traits.
+
+### The consent line (the standing drama)
+
+- A match is **proposed and blessed, never compelled.** The fallen-house version compels — coercion-as-courtesy (`47`) in a wedding dress. A Weaver house that marries people as instruments has become Crane with better food.
+- Incentive-rule tie (`15`): a marriage is a **deliberately created shared ledger**. The Weavers openly shape *incentive structures* while refusing to manipulate *persons* — and the line between those two is the order's permanent internal argument.
+- Reader-facing mystery: of any couple met along the route, the reader can fairly ask — *did this happen, or was it woven?* The book should let some answers stay unsorted.
+
+### Craft rules
+
+- Matchmaking scenes stay warm, funny, food-adjacent — the auntie/terrace register (`24`) — before their political depth shows. The reader should enjoy the craft before understanding it is also how power moves.
+- Prefer a Net-knot over luck: anywhere the trilogy needs a clue routed, a safehouse found, or a stranger vouched for, an old match or godparent tie is better than coincidence (the ring-photograph chain is already this shape).
+- **Eli/Wren seed — OPTIONAL, decide at draft:** a Weaver house may have quietly favored or cleared the pairing. This gives Wren's locked fear — recognition that could be *"real, engineered, or both"* — a **human** face beside the psionic one. If used, resolution follows the divine-pairing spine: recognition can be woven; love is proven chosen in action, regardless of who blessed it.
+
 ## Developmental arc of the series
 
 **Core movement:** the story should develop from external conspiracy, to internal liberation, to species-scale reconnection. The protagonist first discovers that the world has been controlled, then discovers that control works through his own mind, then witnesses humanity recovering the capacities and life technologies that atomization was designed to suppress.

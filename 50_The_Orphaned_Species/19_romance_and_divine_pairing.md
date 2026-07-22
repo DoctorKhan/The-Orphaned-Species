@@ -704,6 +704,7 @@ Rowan off-page; romance is **Eli/Wren only**. Custody-vs-consent tension is **in
 - **Third loyalty, not stealth triangle.** A Weaver bond pulls on the Eli/Wren dyad as a *loyalty* (§ There is a third loyalty), never as an unnamed rival lover. The triad remains MOOT. A bond that echoes what Wren lost with Mira should threaten her self-story, not the pairing.
 - **Counterfeit test applies.** Hostile teams can simulate coherence-intimacy; handlers weaponize closeness. Bank one beat where a bond is revealed as operational, and one where a real bond survives being *accused* of being operational.
 - **No exotic texture** (§ Guardrails). The subtext lives in ordinary gestures — who packs whose kit, who someone reaches for when a line goes taut, who is allowed to interrupt whom — never in italicized meaningful glances.
+- **The matchmaker thread.** The Weavers arrange and bless matches as a political craft — the Weavers' Net (`40_concepts.md`). Proposed, never compelled; the compelled version is a fallen house. **Eli/Wren seed (OPTIONAL, decide at draft):** a house may have quietly favored or cleared the pairing, giving Wren's locked fear — *"real, engineered, or both"* — a human face beside the psionic one. If drafted, the answer follows the spine: recognition can be woven; love is proven chosen in action, regardless of who blessed it.
 
 ## Female mystery, intrigue, and attraction (LOCKED)
 
