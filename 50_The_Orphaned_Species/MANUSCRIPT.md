@@ -1239,5 +1239,119 @@ They leave at the next dark tide, with the half-finished record and all of the g
 1. **Femoral pressure points.** External compression proximal to a junctional bleed is standard first aid; locating the point quickly in poor light is genuinely difficult and genuinely decisive. Eli's contribution is *location under panic* — perception, not repair; the physiology is unmodified.
 2. **Post-exertional crash.** The metabolic cost (tremor, tunnel vision, compulsive hunger) is the story's fixed price for reception, consistent with the series' rule that capacity is bodied, budgeted, and never free.
 
+---
+
+## Chapter Nine — Two Teams
+
+They are two bends downriver when the war catches up to the cooperative, and it does not come for them. It comes for the field.
+
+The first sign is the fuel seller's boy, overtaking them in a longtail at full scream, shouting across the water that men are on the west block — two kinds of men, he says, two kinds, coming from two directions, and Hạnh sent him, and Hạnh says: *the pumps.*
+
+Turning around is not a decision anyone frames out loud. The boat simply turns.
+
+What they come back to, in the last hour of light, is nothing the war films prepared anyone for. On the southern dyke road: the Custodians, white vehicles parked in echelon, figures moving with that unhurried procedural gait, unloading equipment cases onto the bund — *onto the marks*, some part of Eli notes, absurdly, everyone walking on Hạnh's marks without knowing what they are. On the northern approach, coming through the shrimp ponds: the others. Darker, faster, worse at pretending to be civilians, carrying cases of their own. And between them, indifferent, the band of drunk rice leaning toward its own center line in the evening wind.
+
+Neither team goes toward the village. Neither team, at first, goes toward each other.
+
+Both go for the field.
+
+"They're not here for people," Emrys breathes, glasses up, doing the thing where terror and fascination fight for his face. "Look at the spacing — they're *siting* something. Both of them. They're trying to take the ground itself—"
+
+Then one of the northern figures raises an arm toward the southern dyke, and the evening folds.
+
+There is no beam, no light, nothing the eye can bill to anyone. What there is, is dread — arriving sideways, out of nothing, into everyone: a wall of wrongness rolling across the paddies like pressure ahead of a storm, and the village, forty years disciplined, comes apart in a breath. Children bolt the wrong way, toward the water. A man drops his own grandmother's arm and runs. The panic has a *shape*, Eli can feel it with his new sense — a pushed thing, a herd-turn, fear conducted through the crowd the way charge conducts through wire — and it is aimed: the running bodies are being driven across the Custodians' approach like a thrown coat over a fence.
+
+People as chaff. That is someone's opening move.
+
+On the southern side, the Custodians answer, and Eli feels that too: a hardening, a dome of not-here-ness going up over their vehicles, and under it their advance continuing, unhurried, procedural, straight at the rice.
+
+"Civilians first," Wren says. Not a proposal. She is already moving, already pointing — you, the landing; you, the school platform; grandmothers into boats — already being obeyed, because she has the voice for catastrophe and no one else within a kilometer wants the job. She spares Eli exactly one glance. "The record's in the pump house. It waits. *They* don't."
+
+"The teams are both going to walk through the pump house to get to the—"
+
+"Then it burns with everything else that isn't breathing. Move people, Eli."
+
+He moves people. He is good at it, even — his noise reads the driven panic, tells him where the herd will break next, lets him be standing at the gap saying *this way, uncle, this way* before the gap knows it is one. And through all of it, through every hauled child and steadied elder, the record sits in the pump house in his mind's eye like a lamp left burning: the vials, the polarity series, the cleanest documentation of a living line anyone has ever made, aging toward loss at the center of a battlefield.
+
+Out on the west block, the two teams meet at the band, and the fight, such as it is, is the most frightening thing he has ever almost-seen: figures kneeling to drive their cases into the mud like men planting fence posts, while above them, on the plane only he and the enemy can read, geometries lock and shear — pressure fronts, wedges of dread, that dome, a lance of something that makes one Custodian simply sit down in the rice and not get up. The material world hears gunfire only twice, brief and disciplined, both bursts swallowed by distance. War between psions, it turns out, sounds mostly like weather and looks mostly like surveying.
+
+A radio on a running man's chest crackles past Eli in the dark — the northern team's channel, a woman's voice, calm, foreign-accented, and one word of it snags on him and stays snagged, a callsign, absurd amid the mud and frogs:
+
+"—*Prince* copies. Hold the axis—"
+
+And once, only once, the war glances at the village: three fleeing figures — the doctor's assistant, two children — caught in the open on the long bund with the dread-wall rolling toward them, and on the southern dyke a Custodian breaks formation. Big man, moving wrong for his unit — moving *fast*, un-procedurally — and puts himself and his hardness between the wall and the bund, and holds there, braced like a man leaning into a flood, until the three are down the bank. Through his own noise Eli feels the shape of what it costs him. Then the man walks back to his echelon, and takes his place, and his unit closes around him, and nothing about the white vehicles acknowledges that anything occurred.
+
+"Move, *move*," Wren is saying, and the last boats load.
+
+They lose the village landing, the school platform fills, the count comes up whole — forty families, breathing, drenched, furious, alive — and Eli is standing chest-deep in the dark water steadying a gunwale when the pump house catches. Not shellfire; nothing so honest. Just a white flower of flame where a stray geometry found a fuel can, and the record — vials, series, photographs, the coop's photocopies stacked beside them for tomorrow's signatures — goes up like everything paper has ever done in the history of the world.
+
+Eli watches it burn and something in his chest burns with it, ugly and undeserved, and when Wren wades past him counting heads he hears himself say it:
+
+"You knew. When you sent everyone to the boats, you knew the record was already spent — that's why the choreography ran so *clean*, I wasn't a partner in that, I was *cover* — you moved me around the board with the grandmothers—"
+
+She stops in the water. The burning pump house is in her eyes, twice, small.
+
+"Every person on this water is alive," she says. "You want an apology for how."
+
+It is not a question, and she does not stay for the answer, and the worst of it — the part that keeps him standing in the river long after the boats are loaded — is that his cruelty was not even wrong about the facts. Only about everything else.
+
+On the west block, in the ruins of the evening, the two teams disengage as bloodlessly as ledgers closing — each with its cases planted, each having failed to hold the whole band, each leaving instruments sunk in the mud among the leaning rice like teeth in a jaw. The war did not begin tonight and did not end tonight and was never, not for one second of it, about Eli's clue.
+
+That is the lesson of the field that used to count. The war is older than his question. The war doesn't care.
+
+---
+
+*On the record*
+
+1. **Crowd entrainment.** Panic propagation through crowds follows measurable herd dynamics (density waves, gap-seeking, leader-following). The "driven" panic extends real crowd physics into the story's register: an attack on collective attention, not a mystery ray. Material consequences — drownings, crush injuries, the burned building — remain entirely ordinary.
+
+---
+
+## Chapter Ten — People Over Evidence
+
+The morning after a battle nobody admits happened, the cooperative counts.
+
+Hạnh counts sluices, stakes, boats, sacks, and people, in that order of ceremony but the reverse order of care, and the numbers come back the way numbers do: forty families whole; Tuấn stitched and propped on the school platform holding court over his bandage; the west block trampled at its margins, instruments of two nations rusting in its mud; the pump house a black square; the record ash.
+
+Not all ash. That is the discovery that changes the shape of the day, and it comes — of course it comes — from the cooperative itself.
+
+The extension officer, it turns out, never trusted the pump house. Forms live in the office; the office has a wall safe from the French era; and in the safe, sealed in a rice bag against the damp: one carbon-copy sluice log, the salinity ledger, and a single page of Emrys's polarity series — the early half, the half he'd declared "suggestive but incomplete," folded in with the coop's own papers because Hạnh's officer files everything that touches his fields, foreign or not.
+
+"Half a series," Emrys mourns, holding it to the light.
+
+"Half is what survives," Hạnh says, unmoved. "Learn to farm."
+
+And then the second gift, offered shyly at the landing by Ông Bảy's grandson — who came downriver in the night with the fuel boy, because everything in this delta travels by kids in longtails: a folded school notebook page. On it, in pencil, in the grandson's careful hand: the band at his grandfather's fields, drawn stake by stake — *and continued*, extended off the page's edge in a dotted line, with a bearing written beside it and a note. *The old boundary stone at the confluence sits on the line. Grandfather says the line points where the stone points. The stone points at the sunset in the dry season.*
+
+Emrys goes very still. Lays the boy's page beside his surviving half-series. Checks the bearing against his compass memory, twice.
+
+"West of south of west," he says quietly. "Continuous. Two independent witnesses — rice and a boy's pencil." He looks up, and his eyes have gone somewhere far. "It doesn't stop, and it doesn't wander. Lines that don't wander are *going* somewhere. Old-world somewhere. Gulf-of-somewhere. There will be a place where lines like this were — " he catches himself, files the lecture, " — there will be a place. West."
+
+West, with less proof than they came for. That is the arithmetic of the delta, and Eli makes himself sit with every term of it: the cleanest record in the world, burned because he had not sent it out with the first boat when Wren told him it was already spent; his own hands, so busy being useful that the useful thing went undone. The charge had risen in him during the evacuation — he can name it now, days of Emrys's homework paying off — the old engine, *earn your place, manage it all, be so necessary they can't file you* — and it had turned his competence into a small tyranny of sequencing, him deciding what got carried when, until Wren simply overrode him and the grandmothers lived and the papers burned. He recognized the engine while it ran. He could not yet reach the switch. That is the honest ledger of Chapter One of his education: recognition is not control.
+
+He finds Wren at the landing at dusk, loading the last of the vials that survived in her bag because she — of course — had pocketed samples the first day, on the principle that anything worth having is worth having twice.
+
+"You were right," he says. "In the water. What I said—"
+
+"Was accurate," she says, not looking up. "I moved you like cover. You *were* cover. It's what I had." She stows the vials. "You want the other half of it, it's this: I will always move the people first, and I will always use whatever's standing there to do it, and the day the thing standing there is me, I'll use that too. That's the whole shop. Nobody's owed a partnership in it."
+
+"I'm not asking to be owed." He hears his own voice come out level, and is surprised by it. "I'm asking to be *told*. Like you told me the route on Pak Din's boat. Whole spine, before we move." A breath. "You run the people. I'll carry what I'm handed. But talk to me like the cargo agreed."
+
+Wren looks at him for a long moment in the brown dusk, with the delta doing its vast quiet business behind her, and something in her face moves the way strain moves in a rope — not breaking; taking load in a new place.
+
+"All right," she says. "Told first. Every time."
+
+She puts out her hand — not softly; the way you close freight terms — and he takes it, one shake, dry and hard, and lets it go without holding on, and neither of them names anything, and the delta fills the silence, and for once he lets it. He is learning her law: information is freight, silence is ballast, and what was just agreed to, though neither will say so, is a constitution with two signatures on it.
+
+They go out on the night tide, west by the boy's bearing, with half a polarity series, a pencil map, a bag of stolen soil, and no clean victory anywhere on the manifest. Behind them, the cooperative repairs its gate and replants its trampled margins and keeps its own copy of its own miracle, and Hạnh stands at the landing till the boat is a heartbeat on the water — unsentimental as a gauge, and staying anyway, and that, in her country, is a blessing with the stamp still wet.
+
+The line runs on ahead of them under the fields of Asia, going where it is going, older than the war, younger than the stone, and the boat goes with it into the dark.
+
+---
+
+*On the record*
+
+1. **Redundant record-keeping.** The surviving carbon copy, wall safe, and pocketed duplicate samples reflect the oldest data-integrity principle there is: institutions that expect loss keep copies in different failure domains. The cooperative's habits, not Eli's abilities, preserve the westward clue — which is the chapter's argument in miniature.
+
 
 
