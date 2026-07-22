@@ -697,6 +697,14 @@ Rowan off-page; romance is **Eli/Wren only**. Custody-vs-consent tension is **in
 
 **Bengali–Melakan quiet-culture lock:** Wren's queer history belongs to an internally affirming, externally discreet mutual-aid culture shaped by persecution. **Everyone inside knows; no one outside is owed the knowing.** Render belonging through ordinary inclusion and protected information, not a coming-out lecture. Preserve the internal dispute: discretion can be survival, but neither romance nor community may use it to excuse deception, coercion, or erasure (`05` § *Social worlds against atomization*).
 
+**Weaver bonds — deep bonds and bisexual subtext (2026-07-21):** the quiet culture above is one branch of **the Weavers** (`29` § The Weavers). Deep bonds between Weavers are the order's connective tissue — intimacy formed by shared houses, kept confidences, crossings survived together, and tests passed in each other's care. These bonds naturally carry bisexual subtext, and the canon already grounds it (the order shelters women-loving relationships and queer kinship; Rowan was Wren's love inside the Bengali–Melakan branch). Rules:
+
+- **Text anchors subtext.** Because confirmed queer love exists in the spine (Wren bi/pan LOCKED; Rowan and Mira canon), ambiguous intimacy elsewhere in the order reads as honest pattern — some bonds are romantic, some are not — never as a tease the book refuses to pay. Without the anchor it would be queerbaiting; with it, it is texture the world itself produces.
+- **The order refuses to sort its bonds — and that is the thesis.** Filing every deep bond as *romance* or *just friends* is classification-as-ownership, the registry move. The Weavers decline it internally; the book declines it on the page. Relation without ownership, enacted at ensemble scale.
+- **Third loyalty, not stealth triangle.** A Weaver bond pulls on the Eli/Wren dyad as a *loyalty* (§ There is a third loyalty), never as an unnamed rival lover. The triad remains MOOT. A bond that echoes what Wren lost with Mira should threaten her self-story, not the pairing.
+- **Counterfeit test applies.** Hostile teams can simulate coherence-intimacy; handlers weaponize closeness. Bank one beat where a bond is revealed as operational, and one where a real bond survives being *accused* of being operational.
+- **No exotic texture** (§ Guardrails). The subtext lives in ordinary gestures — who packs whose kit, who someone reaches for when a line goes taut, who is allowed to interrupt whom — never in italicized meaningful glances.
+
 ## Female mystery, intrigue, and attraction (LOCKED)
 
 *How to write Wren (and adjacent women) with **mystery, intrigue, and erotic charge** without femme-fatale flattening, handler-reward fantasy, or Hollywood "girl power."* Companion: `15` §§ *Women characters*, *True strength*; `00` Outlander / *Liaisons* synthesis; `26` § Wren (Asha, threshold house, pool, room-design pleasure).
