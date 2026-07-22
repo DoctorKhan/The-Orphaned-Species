@@ -15,6 +15,7 @@
 | Trauma / internal cages (behavior under stress) | `26` Part VI + `15` § Trauma |
 | Writing Emrys comedy or warmth | `24_comedic_register_slapstick.md` + `16_reader_attachment.md` |
 | Pacing Life vs Knowledge reveals | `22_life_technology_and_two_trees_spine.md` + `17_reveal_order_and_reader_impact.md` |
+| Decoding Maren's Rootbook / linguistic continuity | `52_the_rootbook_word_web.md` + volume beats `31`–`33` |
 | Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit* |
 | Locked beats / open names | `99_open_questions.md` |
 | Volume I chapter order | `31_volume_I_beatsheet.md` |
@@ -40,7 +41,7 @@
 ## Documents (21–27)
 
 ### `21_present_day_street_skin.md`
-**EdgeRunners-like near-future tone** — port-noir, faction offers as "installs," Forest City vs Melaka temperature, Tree of Knowledge skin. Not IP pastiche.
+**EdgeRunners-like near-future tone** — port-noir, faction offers as "installs," Pelangi Reach vs Melaka temperature, Tree of Knowledge skin. Not IP pastiche.
 
 ### `22_life_technology_and_two_trees_spine.md` **LOCKED**
 **Discovery throughout; reunification at end.** Life technology vs **death technology** (= ordinary tech, entropic clock). Adapa payoff. Two-Tree union act at climax. Volume Life/Knowledge beat obligations.
@@ -91,6 +92,9 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 |---|---|
 | `14_literary_speculative_thriller_style_guide.md` | Governing prose voice, scene delivery, exposition, ambiguity, and revision tests |
 | `44_cultural_moment_and_mass_appeal.md` | Dated cultural strategy: gender rift, loneliness, polarization, AI, futurelessness, and story-first guardrails |
+| `50_teahouse_pilgrimage.md` | Locked postwar teahouse pilgrimage, cloister discipline, sanctuary readiness, health metrics, chosen clans, and background AI |
+| `51_field_sail_and_mandate_peace.md` | Locked Union physics discovery, Commissioner Ma, field-sail constraints, Mandate industrial partnership, and ceasefire |
+| `52_the_rootbook_word_web.md` | Locked distributed Rosetta: comparative cipher, travel-based corroboration, Sanxingdui break, and cosmic concordance |
 | `05_story_architecture.md` | Trilogy structure, fellowship, Living Way, climax |
 | `15_character_grounding_and_relatability.md` | Eli TBI, healer, relatability guardrails |
 | `16_reader_attachment.md` | Human gravity before mythology |

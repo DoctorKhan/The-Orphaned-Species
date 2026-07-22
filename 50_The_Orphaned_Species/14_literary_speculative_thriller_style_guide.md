@@ -229,7 +229,7 @@ Avoid:
 
 Protect:
 
-- Forest City as warm, specific, funny, imperfect ordinary life;
+- Pelangi Reach as warm, specific, funny, imperfect ordinary life;
 - the maritime corridor as a source of plot, labor, culture, and atmosphere;
 - Eli's facilities skill, gardening failure, injury, and dependence on others;
 - Wren's independent wants, relationships, failures, pleasures, and boundaries;

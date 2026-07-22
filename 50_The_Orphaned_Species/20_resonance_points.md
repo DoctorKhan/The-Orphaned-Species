@@ -10,7 +10,7 @@ A resonance point is an object, sound, or gesture that **recurs across eras whil
 
 **Structural facts this map honors (canon, locked):**
 
-- **Eli and Aedan are different people.** Aedan is the Bronze-Age cave-boy, an early deep-time receiver — **he does not route the cosmology to Eli**. Eli is a border-raised survivor whose present story opens in Melaka after a Forest City refuge, the rare receiver who can clarify the deep web most fully. No soul-name or incarnation link joins them.
+- **Eli and Aedan are different people.** Aedan is the Bronze-Age cave-boy, an early deep-time receiver — **he does not route the cosmology to Eli**. Eli is a border-raised survivor whose present story opens in Melaka after a Pelangi Reach refuge, the rare receiver who can clarify the deep web most fully. No soul-name or incarnation link joins them.
 - **The deep threads surface first as intrusions in Eli's present.** Wrong reads in the garden, the half-remembered tune, old sounds, a pull toward stone, and surge-certainty are receiver symptoms (the web not yet clarified), not proof of ancestry.
 - **The practices are not an unlock tree.** Eli's unusual trait is breadth of reception — how much of the web he can clarify. He is **not** a healer: his palms *read* bodies, they do not repair them (all healing is the present-day healer's), and creative transmission grows from an ordinary craft seeded before the breach.
 - **The cave-as-nervous-system belongs to Aedan's own deep-time arc.** When Eli later clarifies that thread (and the others), he must identify which historical person a fragment belongs to.
@@ -71,7 +71,7 @@ The load-bearing through-line: **field-read through nerves and palms** — disti
 | Early agriculture | 12 (Ila) | Ila's hands read **heat** (virus/fever), **tingling** (bacteria/nerve), **pressure/pulse** (blockage), **cold** (depletion) above a body | the diagnostic conduit — signatures as a sense |
 | Aedan's deep-time arc (10–16) | — | Echoes accumulate; by 15–16 the granary **line/instrument** reads live under contact | receiver embodiment without becoming sources |
 | Return | 17 (Aedan) | The granary stone reads warm under him as under Daskar — *ember* as kept receiver, not palm-heating | instrument + song, not magic body heat |
-| Eli's present | family attack → Forest City → Melaka onward | Mixed idle signatures; trauma and TBI add **tingling noise**; after Ila-contact he can sometimes **read pressure at a bleed** — locate and sense the injury — frightened, limited; the repair is never his | reception → one correct read, not supremacy |
+| Eli's present | family attack → Pelangi Reach → Melaka onward | Mixed idle signatures; trauma and TBI add **tingling noise**; after Ila-contact he can sometimes **read pressure at a bleed** — locate and sense the injury — frightened, limited; the repair is never his | reception → one correct read, not supremacy |
 | Present healer | family attack → Volume II return | medically trained; same signature language with **sustained repair depth** | depth belongs to another practitioner |
 | Coda / open door | Modern Child, if retained | The child's palms **tingle or heat** when the grandmother is sick — unbidden read | capacity surfaces beyond one line |
 
@@ -104,9 +104,9 @@ This carrier lets the Filipino martial foundation and later Thailand training ma
 |---|---|---|
 | Philippines / Thailand | Footwork; stick/blade lines; range, timing, entry angles; breath under pressure | disciplined attention in the body before doctrine, learned under precarity rather than tourism |
 | Bali / childhood | Eli's mother and local growers document a rice-growth geometry that irrigation, disease, and trampling do not explain | plants provide the first evidence; local knowledge precedes Eli's interpretation |
-| Forest City refuge | Residents pool growth reports and reject false correlations | accountable collective method can see more than a gifted individual |
+| Pelangi Reach refuge | Residents pool growth reports and reject false correlations | accountable collective method can see more than a gifted individual |
 | Melaka breach | Eli feels an interruption in an unseen route during the crisis but cannot name it | sensation begins the mystery; it is not yet knowledge |
-| Singapore records | paired anomalies on opposite sides of missing routes produce opposed readings | a broken line leaves positive and negative ends; polarity is not morality |
+| Meridian City records | paired anomalies on opposite sides of missing routes produce opposed readings | a broken line leaves positive and negative ends; polarity is not morality |
 | Maritime escape | old maps fail under pursuit because a route has broken and another is forming; **dead zones** force detours — barren wedges animals won't cross | discovery changes physical movement and survival rather than pausing it |
 | Ila / South Asia | cultivated plants change along a new geometry over time; growers distinguish **forming band** from **dead ground** (nothing takes) | crop circles are new line formation; dead ground beside it suggests **scour**, not blight |
 | Eli's first descents | He recognizes carrier movements as angles rather than ideas: chisel-line, hand-over-body scan, dream-path, song-shape | practices share geometry beneath different people and cultures |

@@ -1,6 +1,6 @@
 # Present-Day Street Skin — Near-Future Tone Instructions
 
-> **Status:** working craft guide. Use when drafting present-day legs (Forest City through Albion), pursuit scenes, faction pressure, and early cosmology reveals. Pair with `05_story_architecture.md` (structure), `17_reveal_order_and_reader_impact.md` (discovery order), `22_life_technology_and_two_trees_spine.md` (life-tech discovery throughout; reunification end state), `23_2040_present_frame.md` (author ~2040 assumption; what changed; never date on-page), `24_comedic_register_slapstick.md` (Emrys comedy), `26_present_day_cast_expanded.md` (cast flesh), `27_character_development_arcs.md` (volume arcs), `28_present_day_trilogy_craft_index.md` (craft hub), `31_volume_I_beatsheet.md` (Vol I), `38_psionic_combat.md` (combat register), and `34_two_energies_and_planes.md` (Two Trees cosmology). This doc controls **temperature and texture**, not canon facts.
+> **Status:** working craft guide. Use when drafting present-day legs (Pelangi Reach through Albion), pursuit scenes, faction pressure, and early cosmology reveals. Pair with `05_story_architecture.md` (structure), `17_reveal_order_and_reader_impact.md` (discovery order), `22_life_technology_and_two_trees_spine.md` (life-tech discovery throughout; reunification end state), `23_2040_present_frame.md` (author ~2040 assumption; what changed; never date on-page), `24_comedic_register_slapstick.md` (Emrys comedy), `26_present_day_cast_expanded.md` (cast flesh), `27_character_development_arcs.md` (volume arcs), `28_present_day_trilogy_craft_index.md` (craft hub), `31_volume_I_beatsheet.md` (Vol I), `38_psionic_combat.md` (combat register), and `34_two_energies_and_planes.md` (Two Trees cosmology). This doc controls **temperature and texture**, not canon facts.
 
 ## Governing principle
 
@@ -39,8 +39,9 @@ Do **not** import setting names, factions, chrome brands, or plot beats from tha
 | Cyberware, Sandevistan, forced upgrades | Psionic augmentation, registry programs, amplifier keys, Emrys's chair, ground interfaces | Always **mediated** — someone built the interface; someone owns access |
 | Arasaka / Militech | Nation-state psion teams, bloc programs, emergency databases | Many-sided conflict; no single villain owns the war. **Blocs (locked):** Continental Union (Americas), Eastern Mandate (East), Free Ports Coalition (Strait/gray ports) |
 | Ripperdocs, black clinics | Carrier handlers, conscription, illegal activation, outbreak-cover disappearances | Bodily, transactional, shameful or desperate |
-| Cyberpsychosis | Identification with surges/charges; receiver filter breaking under pressure | Horror is **loss of agency**, not colored projectiles |
-| Lucy-shaped escape dream | Forest City, made home, ordinary work and meals | Warm refuge, not dystopia — the anti-Night City |
+| Cyberpsychosis (psi face) | **The Drift** — identification with surges/charges; receiver filter breaking under pressure | Horror is **loss of agency**, not colored projectiles |
+| Braindance addiction, doll-feeds, net-lost | **The Drift** (machine face) — powered-up and untethered by the feed/tech; validation loops, companion pings (`44` § Timeliness) | **Same disease** as the psi face above — a mediated amplifier, loss of the real; keepers call it *god-sickness*; antidote is **grounding** (`95`; `40` § The Drift) |
+| Lucy-shaped escape dream | Pelangi Reach, made home, ordinary work and meals | Warm refuge, not dystopia — the anti-Night City |
 | Mother on life support | Mother tethered to Albion ground; hope of reunion as chain | Personal climax rhymes with grid mechanics |
 | Edgerunner trajectory (live fast, burn out) | Prophecy/liberation faction; chosen-one capture; forced carrier harvest | Offer Eli **short-lived power** that costs the self |
 | Netrunning / ICE | Dream-probes, signature hunts, ley-route contest, psionic invasion | Intimate, disorienting; material consequences on the body |
@@ -53,7 +54,7 @@ Do **not** import setting names, factions, chrome brands, or plot beats from tha
 ### Port-noir present (Melaka, Strait, corridors)
 
 - Reopened cities moving around a wound: uneven shipping, forged papers, quarantine theater, quiet bribes.
-- Pursuit under **procedural stress** — sharper, more observed, less lyrical than Forest City.
+- Pursuit under **procedural stress** — sharper, more observed, less lyrical than Pelangi Reach.
 - Rival teams, Custodians, deniable contractors; fights that **lose** before they win (the breach is asphyxia, not prowess).
 - Objects that **look like bootleg firmware** before they look like sacred history: keys, chairs, tablets, ground maps, "activation" clinics.
 - Language of **interfaces, installs, keys, harvest, registry** — all credible as street tech until late reframes name them as locks on the Life bridge.
@@ -95,7 +96,7 @@ Each Seven descent should land as **historical proof** that native road works wi
 **Do not:**
 
 - Make the Tree of Life a **better tier of cyberware** or a corp product line.
-- Turn Forest City into dystopia — it is the **made home** Eli leaves; without warmth, the tragedy does not land.
+- Turn Pelangi Reach into dystopia — it is the **made home** Eli leaves; without warmth, the tragedy does not land.
 - Collapse the book into **present-only thriller** — the epic horizontal axis (Seven lives, deep time) stays load-bearing.
 - Give Eli the **edgerunner ending** — one heroic last run as the bloc's weapon. He refuses infrastructure.
 - Explain Two Trees terminology before the reader **feels** the split between mediated and direct power.
@@ -103,8 +104,8 @@ Each Seven descent should land as **historical proof** that native road works wi
 
 **Do:**
 
-- Keep Forest City **warm, funny, populated** — robot dog, mall aunties, compound workers, terrace cafe, father's garden — the Lucy-shaped ordinary life.
-- Let leaving Forest City **hurt** the way leaving a small safe apartment hurts.
+- Keep Pelangi Reach **warm, funny, populated** — robot dog, mall aunties, compound workers, terrace cafe, father's garden — the Lucy-shaped ordinary life.
+- Let leaving Pelangi Reach **hurt** the way leaving a small safe apartment hurts.
 - Show every "upgrade" offer as **tempting and partly true** — Crane is right about danger; prophecy is seductive; registry feels like care.
 - Name the Eden answer only at maturity: **Knowledge disciplined by life; life protected by knowledge** — not Knowledge replacing Life.
 
@@ -116,7 +117,7 @@ Extends `05_story_architecture.md` § Manuscript Voice. Same lyrical restraint; 
 
 | Zone | Temperature | Sensory bias |
 |---|---|---|
-| **Forest City** | Warm, funny, socially dense | Food, garden dirt, mall routines, Bengali banter, sail masts at dawn |
+| **Pelangi Reach** | Warm, funny, socially dense | Food, garden dirt, mall routines, Bengali banter, sail masts at dawn |
 | **Melaka / pursuit** | Sharp, procedural, port-noir | Diesel on river, wet stone, fryer oil, checkpoints, wrong doors, scooter exhaust |
 | **Strait / corridors** | Lean, transactional, maritime | Cargo, quarantine floats, patrol lights, forged chits, working decks |
 | **Psi / breach / descent** | Quiet, strange, bodily | Breath loss, hum, tingling/pressure reads, charge before name; no lecture |
@@ -145,7 +146,7 @@ If a scene only adds cosmology without pursuit, belonging, or bodily stakes, del
 
 Vol I should **open EdgeRunners-tight** then widen into history:
 
-- **Act I (Forest City):** lovable ordinary life; planted lure; almost-stay; supply-boat crossing with port danger.
+- **Act I (Pelangi Reach):** lovable ordinary life; planted lure; almost-stay; supply-boat crossing with port danger.
 - **Act II (Melaka):** reopening noir; baited witness; losing fight; asphyxia breach; first network touch reads as **street flare**, not cosmology lecture.
 - **Act III (flight / first descent):** pursuit with teeth; Ila differentiation; first proof that reception ≠ mastery.
 

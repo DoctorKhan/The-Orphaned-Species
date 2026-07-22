@@ -31,7 +31,7 @@ Headlines will change before publication. Build around conflicts that will not:
 | Gender distrust | Intimacy versus possession | Wren protects autonomy; Eli learns that pain grants no title to another person |
 | AI-mediated attention | Assistance versus dependency | The install metaphor; care shaped by hidden incentives; knowledge without participation |
 | Political sorting | Safety versus autonomy | Crane's registry, constructive control, and freedom's duty to protect bystanders |
-| Economic and social precarity | Usefulness versus inherent worth | Forest City, meaningful work, stable shelter, and people who expect one another tomorrow |
+| Economic and social precarity | Usefulness versus inherent worth | Pelangi Reach, meaningful work, stable shelter, and people who expect one another tomorrow |
 
 The durable promise is:
 
@@ -45,7 +45,7 @@ The deepest aspirational fantasy is:
 
 ## What the story already has
 
-- Forest City as a particular ordinary life worth protecting
+- Pelangi Reach as a particular ordinary life worth protecting
 - A maritime clue trail that turns geography into pursuit
 - An ensemble capable of consequential choices
 - Romance complicated by power, consent, and incompatible readings
@@ -60,7 +60,7 @@ Do not add topical material until these elements work on the page.
 
 ## Story engines worth protecting
 
-### Forest City attachment
+### Pelangi Reach attachment
 
 The reader must love the life at risk before the cosmology asks for attention. Recurring places and activities should accumulate changed meaning: the father's garden, Mei's terrace, morning Kali, work overload, a sail crew, or a compound repair.
 
@@ -193,7 +193,7 @@ The book should not pretend all harms or power are equal. An opponent's fear can
 
 The trilogy can make something culturally scarce feel desirable: stable shelter; meaningful work that does not consume identity; neighbors who recognize one another; food and friendship with obligations; private space and love without surveillance; medical care without loss of personhood; institutions that can be challenged and repaired; disagreement that does not require exile; and technology that returns time to human life.
 
-Forest City must embody this through visible maintenance rather than cozy aesthetics alone: schedules, repairs, meals, arguments, favors, boundaries, appeal, and people who expect one another tomorrow.
+Pelangi Reach must embody this through visible maintenance rather than cozy aesthetics alone: schedules, repairs, meals, arguments, favors, boundaries, appeal, and people who expect one another tomorrow.
 
 ### Hope must be logistical
 
@@ -227,7 +227,7 @@ For any culturally resonant scene, ask:
 
 ## Immediate story-first drafting queue
 
-1. **Ch 1–2:** make Forest City and its people desirable without depending on cosmology.
+1. **Ch 1–2:** make Pelangi Reach and its people desirable without depending on cosmology.
 2. **Ch 3–5:** make pursuit escalate causally; add a hard deadline only if the world produces one.
 3. **Ch 8:** give Wren and Asha immediate objectives and consequences that remain meaningful without Eli.
 4. **Vol II Ch 17:** dramatize replacement fear through conduct rather than a thesis line.

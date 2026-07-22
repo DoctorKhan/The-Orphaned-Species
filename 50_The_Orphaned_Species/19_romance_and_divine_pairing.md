@@ -30,7 +30,7 @@ Use the **emotional grammar** of near-future stories where love lands because or
 
 ### Why this register fits the trilogy
 
-The present-day war sells **borrowed power and borrowed time**. Romance under that pressure should feel like **Lucy's moon made human for this canon**: not a corporate product, but a credible picture of ordinary life two people might still choose — work, food, sleep, privacy, touch, a place that is theirs for one night. Forest City is Eli's hearth; Wren's safe routes and extraction network are her version of the locked door. The reader must want that life **for them** before prophecy, registry, or the mother-trail can threaten it.
+The present-day war sells **borrowed power and borrowed time**. Romance under that pressure should feel like **Lucy's moon made human for this canon**: not a corporate product, but a credible picture of ordinary life two people might still choose — work, food, sleep, privacy, touch, a place that is theirs for one night. Pelangi Reach is Eli's hearth; Wren's safe routes and extraction network are her version of the locked door. The reader must want that life **for them** before prophecy, registry, or the mother-trail can threaten it.
 
 The romance succeeds when the buildup makes every later collision hurt: recognition, control, separation, triad pressure, and the final release lesson.
 
@@ -101,7 +101,7 @@ The buildup is the product. A single kiss after fifty chapters of earned proximi
 
 | Street-romance read | This canon | Drafting note |
 |---|---|---|
-| Shared dream of normal life | Forest City / "when this is over" / made home | Must stay **ordinary**, not messianic |
+| Shared dream of normal life | Pelangi Reach / "when this is over" / made home | Must stay **ordinary**, not messianic |
 | Safe apartment | Wren's route, safehouse, galley, one night off-watch | One room, sensory detail, low dialogue |
 | "I'll get us out" | Wren's extraction network; Eli's hope of reunion | Competence is attractive; **control is the flaw** |
 | Love can't stop the install | Wren can't manage Eli safe; Eli can't love Wren into leaving her people | Love does not fix the machine |
@@ -124,7 +124,7 @@ End Vol I: the reader should think *I want them to have one quiet week together*
 - Do not substitute **sex for trust** or **confession for buildup**.
 - Do not let field-recognition short-circuit the slow work of **asking and refusing**.
 - Do not kill the romance to copy tragedy; **separation, misread control, and deferred ordinary life** already hurt.
-- Do not place the only intimate warmth in Melaka noir — Forest City establishes what Eli is losing; Wren's network establishes what she protects.
+- Do not place the only intimate warmth in Melaka noir — Pelangi Reach establishes what Eli is losing; Wren's network establishes what she protects.
 - Wren is **nineteen** and Eli is **twenty-two**. Her operational authority and his post-breach dependence still create a handler/rescued-person imbalance. No early intimacy should be treated as free consent while she controls his route, medicine, information, or physical safety.
 - Wren's refusal to share Mira's name, images, or memory is a complete boundary, not a romantic obstacle. Eli proves trust by stopping a field-read rather than acquiring the withheld history.
 - Wren's future did not begin with Eli: the abandoned ferry-terminal threshold house and its courtyard predate him. A shared future becomes romantic only when Eli is invited into an existing aspiration rather than becoming its reason.
@@ -218,7 +218,7 @@ For Eli and Wren, the third loyalties include:
 
 - Eli's mother-trail;
 - Wren's independent objective;
-- Forest City or another hidden refuge;
+- Pelangi Reach or another hidden refuge;
 - anomalous refugees and civilians;
 - the healer's right to limits;
 - truth under pressure;
@@ -664,7 +664,7 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 
 1. **Vol I Ch 7** — suspicion spoken aloud after the soft probe: is the contact genuine or planted? Exact phrasing must arise from the scene (`00` §6c).
 2. **Vol I Ch 9** — escape offer (*we could leave*) — almost works; fails on third loyalty.
-3. **Vol I Ch 17** — **rupture** when Emrys taken (cold shoulder; blame or *I told you*).
+3. **Vol I Ch 13** — **rupture** when Emrys taken (cold shoulder; blame or *I told you*).
 4. **Vol II Ch 17** — mother midpoint **cools** romance (replacement fear) — separate from Emrys rupture.
 5. **Vol II Ch 21** — present-tense commitment at **unpaid cost** — not ambush adrenaline.
 6. **Vol III Ch 27–31** — Wren refuses Eli access to her network; he later submits his own authority to limits and review. Their relationship survives without either becoming the other's jurisdiction.
@@ -676,7 +676,7 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 | Field-recognition reads as soulmate QED | Ch 4 magnitude without meaning; Ch 7 misread fight |
 | Wren keeps choosing him = reward fantasy | Laleh/Asha bill (Ch 8); resentment through Vol II Ch 15 |
 | Mother arc accelerates romance | Ch 17 recoil — *don't put her in that chair* |
-| Union without rupture | Vol I Ch 17 cold shoulder → Vol II Ch 19–20 repair → Ch 21 choice |
+| Union without rupture | Vol I Ch 13 cold shoulder → Vol II Ch 19–20 repair → Ch 21 choice |
 | *Liaisons* pressure too thin (triad cut) | Ch 16 honey-trap; Ch 19 Sol secrecy |
 | Book III makes Wren's network the hero's natural resource | Ch 27 refusal materially weakens Eli's plan and remains legitimate |
 
@@ -693,7 +693,7 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 
 ### Dyad note (2026-07)
 
-Rowan off-page; romance is **Eli/Wren only**. Custody-vs-consent tension is **internalized** (prior-love instinct, Mira wound) — compensate with **Liaisons** pressure (Ch 16), Sol thread (Ch 19), and explicit rupture/repair (**Vol I Ch 17** → Vol II Ch 19–20).
+Rowan off-page; romance is **Eli/Wren only**. Custody-vs-consent tension is **internalized** (prior-love instinct, Mira wound) — compensate with **Liaisons** pressure (Ch 16), Sol thread (Ch 19), and explicit rupture/repair (**Vol I Ch 13** → Vol II Ch 19–20).
 
 **Bengali–Melakan quiet-culture lock:** Wren's queer history belongs to an internally affirming, externally discreet mutual-aid culture shaped by persecution. **Everyone inside knows; no one outside is owed the knowing.** Render belonging through ordinary inclusion and protected information, not a coming-out lecture. Preserve the internal dispute: discretion can be survival, but neither romance nor community may use it to excuse deception, coercion, or erasure (`05` § *Social worlds against atomization*).
 
@@ -788,7 +788,7 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 
 | Vol | Beatsheet audit | Arc job | End-state register |
 |---|---|---|---|
-| **I** | `31` § *M/I/A audit* | Unreadable operator → leaks → trust Ch 14 → **rupture Ch 17** | Attraction **felt**, not named; intrigue **unresolved**; **cold shoulder** into II |
+| **I** | `31` § *M/I/A audit* | Unreadable operator → leaks → trust Ch 10 → **rupture Ch 13** | Attraction **felt**, not named; intrigue **unresolved**; **cold shoulder** into II |
 | **II** | `32` § *M/I/A audit* | Honey-trap + rupture → repair → commitment at **debt** | Intrigue exits counterfeit; control named |
 | **III** | `33` | Jurisdiction conflict → Wren refusal → bounded cooperation → inquiry | Open-handed partnership; ordinary affection without merger |
 
@@ -797,7 +797,7 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 1. **Vol I Ch 7** — *is this fed?* — intrigue spoken; mystery misread (trap vs destiny).
 2. **Vol I Ch 8** — Laleh/Asha + sanctuary **after** snap — all three registers on one page.
 3. **Vol I Ch 14** — hand held/released — attraction up; mystery via **behavior**, not confession.
-4. **Vol I Ch 17** — Emrys taken — **rupture**; all three registers down on comfort.
+4. **Vol I Ch 13** — Emrys taken — **rupture**; all three registers down on comfort.
 5. **Vol II Ch 16–17** — honey-trap dismantled; mother **recoil** — intrigue + attraction **down**.
 6. **Vol III Ch 27 / Ch 31** — she refuses command access; after the crisis they choose continued relationship without undoing her boundary or his sanction.
 

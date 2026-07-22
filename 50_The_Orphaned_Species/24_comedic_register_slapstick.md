@@ -26,7 +26,7 @@ See `26_present_day_cast_expanded.md` § Emrys for full profile.
 |---|---|
 | Eli | dry straight man |
 | Wren | armor-break |
-| Forest City | warm dry |
+| Pelangi Reach | warm dry |
 
 ## Volume density
 

@@ -10,7 +10,7 @@ The likely core audience is the **spiritually hungry skeptic**: a reader curious
 
 ## Highest-priority story recommendations
 
-1. **Make the reader love Eli's ordinary life before expanding the mythology.** Give Forest City enough lived social texture that its loss powers the volume. Consider one additional scene in which Eli helps with another person's problem and receives something he did not earn through usefulness.
+1. **Make the reader love Eli's ordinary life before expanding the mythology.** Give Pelangi Reach enough lived social texture that its loss powers the volume. Consider one additional scene in which Eli helps with another person's problem and receives something he did not earn through usefulness.
 2. **Begin with Chapter One.** The former preamble now lives in `42_preamble_world_history_source.md`. Reveal that history through primary documents, checkpoints, family loss, medical practice, prejudice, and contradictory accounts. Keep research notes outside the main narrative flow.
 3. **Protect ambiguity longer.** Let supernatural contact, trauma, altered biology, manipulated prophecy, old technology, and genuine field phenomena remain competing explanations. Make events undeniable before making interpretation certain.
 4. **Give Book I a recurring human opponent.** One Custodian should participate in Melaka, return later, spare someone for a defensible reason, and embody the real public-safety case for control. Crane should genuinely save lives at least once.

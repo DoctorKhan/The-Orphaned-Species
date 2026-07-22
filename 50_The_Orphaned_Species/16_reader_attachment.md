@@ -41,7 +41,7 @@ For other characters, the same rule applies: show what they maintain before show
 - Wren should be seen building exits, checking routes, or protecting someone else's options before she explains systems.
 - The healer should be seen doing ordinary medicine, washing, triaging, refusing, and getting tired before miracle pressure gathers around him.
 - The Pai staff-twirler should be seen performing because play and beauty matter, not because the dragon image foreshadows a symbol.
-- The Forest City martial-arts teacher should open morning practice whether five people come or no one does.
+- The Pelangi Reach martial-arts teacher should open morning practice whether five people come or no one does.
 - Crane should believe fear is the only honest political force before he becomes an antagonist label.
 
 Readers attach when a character has a life before the plot eats it.
@@ -58,7 +58,7 @@ Possible anchors:
 | Wren | Carries too many backup plans; checks exits; fixes other people's routes before admitting she needs one. |
 | Healer | Washes his hands too long; checks on patients after hours; falls asleep at meals; says no before he can explain why. |
 | Pai staff-twirler | Jokes when frightened; keeps practicing even after humiliation; performs because beauty is not optional during crisis. |
-| Forest City teacher | Begins morning training on time; corrects footwork before philosophy; treats restraint as a skill. |
+| Pelangi Reach teacher | Begins morning training on time; corrects footwork before philosophy; treats restraint as a skill. |
 | Emrys | Overtrusts maps, notes, and old systems; reorganizes evidence when afraid; fears meaninglessness more than danger. |
 | Crane | Reduces fear to policy; interprets every unregulated bond as a future disaster. |
 

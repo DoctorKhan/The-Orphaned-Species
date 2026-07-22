@@ -2,6 +2,45 @@
 
 > **Status:** LOCKED craft instruction for the trilogy's **through-line**. Anti-entropic / life technology is **discovered throughout** — present plot, artifacts, Seven descents, and practices — not dumped at the climax. The **end result** is the **reunification of the Tree of Life and the Tree of Knowledge**, not victory for either tree alone. Pair with `34_two_energies_and_planes.md` (cosmology), `17_reveal_order_and_reader_impact.md` (emotional order), `21_present_day_street_skin.md` (present-day skin), `28_present_day_trilogy_craft_index.md` (craft hub), `33_the_curriculum.md` (practices), `35_artifact_chain.md` (objects), `05_story_architecture.md` (structure), and `40_concepts.md` (Eden III).
 
+**Book III operating rule — LOCKED 2026-07-16:** The two trees check one another continuously. Knowledge supplies records, instruments, models, and public verification; psionic life supplies embodied attention, empathy, and feedback from living systems. Knowledge catches projection and coercive charisma; psionics catches abstraction and the people erased by a category. Their union is enacted through consent, independent verification, and reversible authority—not through Eli's private certainty.
+
+**Postwar embodiment — LOCKED 2026-07-21:** The reunified Trees acquire a durable social form in the teahouse pilgrimage (`50_teahouse_pilgrimage.md`). Tea, meditation, relationship, chosen kin, and charged-ground contact supply the Life side; personal health baselines, preregistration, controls, sealed reports, replication, longitudinal follow-up, transparent adverse-event records, and reversible site clearance supply the Knowledge side. AI remains background infrastructure that makes bias and institutional drift contestable. It never interprets contact or defines the person.
+
+### The reciprocal circuit — Life, Knowledge, and people — LOCKED 2026-07-21
+
+The Two Trees do not become two new authorities. Their mature union is a reciprocal circuit:
+
+> **Life checks Knowledge. Knowledge checks Life. People check both—and one another.**
+
+- **Life checks Knowledge:** bodies, ecosystems, relationship, and lived consequence reveal what a model excludes, abstracts, or harms.
+- **Knowledge checks Life:** records, controls, replication, alternative explanations, and falsification expose suggestion, charisma, false memory, illness, and concealed cost.
+- **People check Life:** genuine contact, healing, or vision grants no jurisdiction over another person; consent and boundaries govern access and interpretation.
+- **People check Knowledge:** affected people can inspect, challenge, appeal, withdraw, and introduce local or lived evidence that overturns an elegant model.
+- **People check one another:** witnesses, peers, rivals, affected communities, independent reviewers, and people free to leave prevent prophet, scientist, administrator, AI, clan, or state from becoming final authority.
+- **Life and Knowledge check people:** bodily consequence tests intention; public evidence tests sincerity; neither private conviction nor majority agreement makes a false claim true.
+
+Every consequential decision requires three accounts:
+
+1. **Embodied account:** what did people, bodies, and living systems experience?
+2. **Technical account:** what was measured, tested, compared, and independently verified?
+3. **Relational account:** who bears the consequences, who consented, who can object, and what remedy or exit remains?
+
+If any account is absent, the decision is incomplete. The three drafting rules are:
+
+> **No revelation without a witness.**
+> **No measurement without the person affected.**
+> **No authority without review.**
+
+AI is a tool within the Knowledge register, not a fourth sovereign pillar. It can correlate, warn, audit, and preserve provenance; Life and accountable people must remain able to contest its inputs, models, recommendations, and effects.
+
+### Humility as empirical honesty — LOCKED 2026-07-16
+
+The cure for both the Drift and god-sickness is not self-belittlement or submission to a higher ruler. It is accurate self-knowledge and a willingness to test the mind against reality. A humble person knows what they perceived, distinguishes it from what they inferred, admits what they do not know, names what they want and what it costs others, accepts correction without treating it as humiliation, credits the people and conditions that made success possible, and relinquishes authority when someone else has better knowledge or a stronger claim.
+
+Eli's repeatable practice is: **“This is what I sensed. This is what I know. This is what I’m guessing. This is what I want. This is what I may be doing to you.”** He treats every vision, thought, or psionic impression as a hypothesis: notice it; state its apparent meaning; separate observation from interpretation; test it against evidence, other people, and repeatable conditions; then update or abandon it when reality disagrees. Meditation supplies the pause; science supplies external checks; relationship supplies perspectives no individual can generate alone. The honest sentence is: **“This felt real. I may still be wrong. Let’s test it.”**
+
+This is the **Tree of Knowledge in practice**. Knowledge is not the accumulation of facts, the possession of a secret, or the right to classify another person. It is the disciplined conversion of experience into a public, revisable account. The Tree of Life supplies the living signal; the Tree of Knowledge asks what the signal predicts, what else could explain it, who can check it, and what must change if the test fails. Every major volume should contain a scene in which a real perception becomes more trustworthy—or is abandoned—because someone tests it.
+
 ## Governing rule
 
 **Discovery is continuous. Reunification is the result.**
@@ -90,6 +129,8 @@ The **positive Eden answer** (`40_concepts.md`, `05` § Volume III) is not "Eli 
 1. **Life side proved:** the native road works; no one needs the machine; tethered souls released by *release*, not domination.
 2. **Knowledge side proved:** discrimination, consent, documentation, treatment, and distributed protection replace registry-as-ownership; fear reduced by **standards**, not secrecy.
 3. **Union enacted:** practices spread ungovernably; technology repurposed from classification toward translation and care; anomalous and ordinary people share limits **without** worship or cages.
+
+**Closing symbol — LOCKED 2026-07-21:** reunification has a visual counterpart to the Göbekli plaquette — the **Two-Tree Union symbol** (rainbow tree): two trunks twisted together, both guardians as feathered serpent. The Albion union **act** enacts what the symbol depicts. See `35_artifact_chain.md` § *Two-Tree Union*.
 
 The coda returns to **ordinary life with wisdom** — food, work, sailing, jokes, affection — now consciously chosen because the characters know what splitting the Trees cost.
 
