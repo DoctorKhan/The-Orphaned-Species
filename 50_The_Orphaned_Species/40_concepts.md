@@ -142,6 +142,34 @@ The Weavers' Net is the accumulated relational infrastructure the order weaves: 
 - Prefer a Net-knot over luck: anywhere the trilogy needs a clue routed, a safehouse found, or a stranger vouched for, an old match or godparent tie is better than coincidence (the ring-photograph chain is already this shape).
 - **Eli/Wren — LOCKED (2026-07-21): blessed, not built.** A Weaver house quietly vetted Eli and blessed the pairing *after* it formed, without Wren's knowledge — small Vol I favors that read as luck, discovered in Vol II (`32` Act IV Ch 5; re-choosing completes at Ch 7 denouement) at the peak of her *"real, engineered, or both"* fear. The order never arranged the meeting. Full beat and elder-confrontation shape: `19_romance_and_divine_pairing.md` § Weaver bonds, the matchmaker thread. This gives the consent line its personal test case: even a benevolent blessing given without knowledge lands as manipulation.
 
+## The forgotten game — civilization as play that forgot it was playing
+
+*Concept added 2026-07-22. Sibling to § The three registers of choice — its civilizational face. The bridge line: a game you know you're playing is agency; a game you've forgotten you're playing is programming.*
+
+**The double inversion.** Civilization's structures — rank, office, role, crown — began as **bounded ritual play**: temporary experiments, held the way a game is held, with an inside and an outside and an agreed end. The May Queen and the mock king are the fossils: a crown worn for a day *because everyone remembers it is a prop*, then set down. Then the forgetting — the play hardened into "survival," the roles became mandatory, the game acquired no exit. And in the mirror-move, **what had actually been survival — hunting, fishing, walking land, tending food — was reclassified as *leisure***: demoted to weekends, priced as recreation, performed in special clothes. The game became compulsory; the necessity became optional. Both halves of life ended up mislabeled.
+
+**The psychological bill.** Depression and stress as the felt cost of living inside a mandatory game: scores that never settle, roles that never end, offices that outlive their occasion — while the activities the body still recognizes as *real* (dirt, water, fire, animals, food) are rationed into vacations and called idleness. The Drift is this bill at its most concentrated: the feed is pure game mechanics — points, streaks, validation loops — mistaken for life itself. And **grounding, the keeper antidote, is literally the demoted half restored**: body, kin, ground; garden dirt; the practice of doing necessary things with your hands.
+
+**The gods' part — two readings, both kept (no sides, only incentives):**
+
+1. **Hardened on purpose.** Role-assignment is control technology, and a workforce that believes the game is survival *never stops playing*. Forgetting-it-was-play reads as one of the earliest consciousness locks — same family as the dirt-name (keep them from looking up; keep them from looking *around*). The gods did not invent the game; they removed its exit.
+2. **Hardened by fear.** The same cycle the book shows in miniature: a temporary structure kept past its occasion because danger was real — the emergency power that outlives the emergency, at species scale. No god required; fear-as-ruler suffices.
+
+Distributed antagonism holds: both readings are true somewhere, and human institutions kept choosing renewal.
+
+**Fossil memory.** Carnival, Saturnalia, the May crown, role-inversion festivals — civilization's once-a-year confession that the crown is a prop. Same pattern as talking-stones folklore and the stone-you-don't-sing-near: **festivals as maintenance instructions**, misread as quaintness. A keeper or elder can say it plainly once: *the day the servant wears the crown is the day everyone remembers the crown is a hat.*
+
+**Where it already lives in canon (name it, don't add it):**
+
+- **Civilization as role machine** (`17` §6) — this concept is that reveal's *mechanism*: the machine is a game with the exit removed.
+- **The Arta** — civilization's transferable order: the rulebook, carried as if it were the terrain.
+- **Pelangi Reach** — the inversion inverted back: a theme park sheltering real life; the children's train built for loops carrying a real escape; play structures doing survival's work without shame.
+- **The Meridian Circuit** — the city seals real streets so machines can go in circles; real movement survives in the game's service corridors.
+- **Eli's garden** — the demoted half held as devotion; the pitch decks upstairs are the game believing itself the world.
+- **The ending** (`17` § full circle) — the final ordinary afternoon is this concept resolved: work, sailing, jokes, breakfast — necessity and play each back under its own name, and *nobody turns the afternoon into destiny*.
+
+**Craft rules:** never lecture it — the concept lives in objects and inversions the manuscript already deploys; a character may say the May-crown line once, late, in the keeper register. Do not let it become "civilization bad": the game is not the enemy — **the forgetting is**. Bounded play is register-3 behavior, the thing free people do; the mature federation *plays knowingly* (festivals, races, contests — with exits). Scholarly margin (verify at research pass): Huizinga, *Homo Ludens* (1938) — play as the foundation of culture, the "magic circle," play's requirement of voluntariness; Frazer, *The Golden Bough* — temporary and mock kingship; Turner on liminality and communitas.
+
 ## The three registers of choice
 
 *Concept added 2026-07-21. Every significant choice in the book can be read in one of three registers — and which register it was made in is often the real question of the scene.*
