@@ -39,7 +39,7 @@ Use this pattern for psionic training and war:
 - Let a "game" be real before the characters know it is real.
 - Let success produce guilt, exposure, or a new enemy rather than clean advancement.
 
-Possible local translation: Forest City's morning training, Wren's route drills, Emrys's threshold tests, and hostile psion-team encounters should all feel like contests with legible rules before they become metaphysics.
+Possible local translation: Pelangi Reach's morning training, Wren's route drills, Emrys's threshold tests, and hostile psion-team encounters should all feel like contests with legible rules before they become metaphysics.
 
 ### Ali Baba pattern
 
@@ -66,7 +66,7 @@ Great adventure makes the reader feel:
 
 That is the desired feeling for ley lines, psion teams, artifacts, resonance imprints, and the final network.
 
-**Story-first resonance (2026):** pair this engine with attachment to Forest City's ordinary life, a clear dramatic question, causally escalating pursuit, and consequential ensemble agency. A literal countdown or trackable object is optional, never a quota — `44_cultural_moment_and_mass_appeal.md`.
+**Story-first resonance (2026):** pair this engine with attachment to Pelangi Reach's ordinary life, a clear dramatic question, causally escalating pursuit, and consequential ensemble agency. A literal countdown or trackable object is optional, never a quota — `44_cultural_moment_and_mass_appeal.md`.
 
 ## Adventure contract for this trilogy
 
@@ -106,13 +106,13 @@ The best scenes should still work if every cosmological term is removed.
 
 These are not final beats. They are adventure shapes that can be combined, replaced, or promoted into chapters.
 
-### 1. Forest City: the privacy drill that is not only a drill
+### 1. Pelangi Reach: the privacy drill that is not only a drill
 
 **Immediate want:** Eli wants to finish an ordinary harbor/maintenance shift and keep his head down after a reopening rumor about Melaka.
 
 **Adventure object:** a laminated work rota, a sealed medical-access terminal, a boat key, and a privacy routine everyone treats as boring.
 
-**Rule learned:** accountable coordination protects people without total disclosure. Forest City works because no single office has the whole person.
+**Rule learned:** accountable coordination protects people without total disclosure. Pelangi Reach works because no single office has the whole person.
 
 **Trick:** a routine privacy drill reveals that someone has tried to correlate food-distribution logs, clinic visits, and berth assignments into a recruitment list.
 
@@ -154,7 +154,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Theme carried:** body before cosmology. The impossible arrives through a concrete survival problem.
 
-### 4. Singapore archive: the adult room is a cave
+### 4. Meridian City archive: the adult room is a cave
 
 **Immediate want:** retrieve or photograph a suppressed research fragment before a state unit and Crane's team seal access.
 
@@ -298,6 +298,54 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Theme carried:** the final victory is not domination, chaos, messiah, or registry. It is accountable coexistence.
 
+### 13. The manufactured incident: a frame built from records
+
+**Immediate want:** stop a registry sweep of Pelangi Reach or Melaka before it executes — the sweep has legal cover because an "incident" is now on file.
+
+**Adventure object:** a cargo seal scanned twice in one hour in two ports, a clinic timestamp, a berth log, an audit terminal, an official's stamp kit.
+
+**Rule learned:** an institution can manufacture a legible crime to solve a political problem. The frame is administrative convenience, not sadism — a subordinate builds the pretext because the doctrine rewards it, without Crane ever ordering it.
+
+**Trick:** the fabrication is exposed with the framers' own audit tools. Discovery comes through boring records and procedure — timestamps, access lists, a maintenance log — never through confession or psionics.
+
+**Reversal:** the good-faith official who ran the sweep finds the fabrication and flips — and exposing it burns the official, not the faction. The protagonists gain an ally through *procedure* rather than hospitality or rescue, at real cost to that ally's place in the system.
+
+**Cost:** Pelangi Reach is on file anyway. And the deeper door opens: who taught Crane's people that registries equal safety?
+
+**Theme carried:** trust under uncertainty, seen from the institutional side. "Register or we can't protect civilians" is credible precisely because there is now an incident on record.
+
+### 14. Race night: the city rewired for one evening
+
+**Immediate want:** make a crossing (person, packet, patient) through a monitored port city on the one night its entire routing logic is suspended — the first street race since the closures, staged as proof to investors that the city is "back."
+
+**Adventure object:** the published road-closure map, barriers, marshal posts, timing loops, broadcast drones, crowd wristbands, a service tunnel under the circuit.
+
+**Rule learned:** a city's watchers, checkpoints, and smuggler routes all reshuffle on a *published schedule* — and everyone (Custodians, bloc teams, Wren's people) knows the window is coming. Whoever reads the closure map first owns the night. Quarantine theater at festival scale.
+
+**Trick:** Wren's route-reading drill at city scale — legible public rules (barriers, marshals, timed sessions) with a hidden test underneath: does Eli trust routing instructions before understanding them, under crowd pressure? Engine noise, RF saturation, and crowd density drown a psionic flare that would be detectable any other night.
+
+**Reversal:** the race's own telemetry grid — timing loops, trackside sensors, drone feeds — is the densest instrumentation the city has ever carried, and something in it accidentally registers Eli's signature. The safest night was the most-measured night. Avoiding one boundary triggered another.
+
+**Cost:** splice to seed 13 — the manufactured incident happens *during the race*: a crash, a marshal down, a barrier failure, blamed on illegal psion interference. Public, filmed, emotionally undeniable, and false. Eli's group used the race as cover, so their own tradecraft makes them look guilty. Clearing themselves requires exposing the actual crossing they made that night — which burns the route and everyone who held it open.
+
+**Theme carried:** legitimate fear and spectacle politics. A reopened city performing normality will sacrifice truth to keep the performance intact.
+
+### 15. The diver's meadow: the body keeps the record
+
+**Immediate want:** move a person or packet across a watched harbor or strait gap that has no surface route left — checkpoint rebuilt, boat seized, sensor line strung across the channel.
+
+**Adventure object:** wooden goggles, a weighted belt, a seagrass knife, a childhood breath game, an unregistered houseboat, a "free health survey" consent form.
+
+**Rule learned:** the body keeps records no registry holds. Generations of breath-hold diving reshaped a sea-nomad people (documented biology — the Bajau spleen adaptation is the real-world model): capacity that is inherited, trained, and communal, with no interface, no install, and no owner. It is the Tree of Life lane made visible and mundane — and the elder who carries it would never call it anything but work.
+
+**Trick:** the crossing goes *under*, on the elder's breath discipline and route knowledge — preparation, not panic. The same asphyxia threshold that broke Eli open as catastrophe (seed 3) is her ordinary workday, held open safely by inheritance and practice. Her teaching is the book's answer to the breach, delivered by someone who has no idea cosmology exists.
+
+**Reversal:** the seagrass meadow she has harvested her whole life has shifted — a living line forming through it, the underwater sibling of the crop field (seed 6). She noticed years ago and never reported it, because to her it was not an anomaly; it was a season.
+
+**Cost:** helping puts her village on the sampling map. A heritable bodily adaptation is exactly what bloc programs and registry logic want to draw blood for, and the survey teams arrive dressed as care. Worse: her people are functionally paperless — statelessness protected them for generations, until bodies themselves became data.
+
+**Theme carried:** dependence without ownership, at the level of the genome. The factions war over an amplifier someone else built while a grandmother whose body is proof that Earth shapes its people to itself picks dinner off the seabed beneath the surveillance grid. The book never has to say it.
+
 ## Reusable Adventure Devices
 
 Use these when a chapter needs more grip.
@@ -313,6 +361,8 @@ Use these when a chapter needs more grip.
 - A monitored national boundary.
 - A meal after which leaving becomes socially costly.
 - A dream boundary where a psion team waits.
+- A race night: a port city's routing logic suspended for one evening on a published schedule — closures, reshuffled checkpoints, saturated surveillance in some zones and blindness in others.
+- A harbor gap crossable only underwater, on breath and inherited route knowledge — no boat, no papers, no surface trace.
 
 ### Password equivalents
 
@@ -323,6 +373,7 @@ Use these when a chapter needs more grip.
 - A heat response in the hands.
 - A mispronounced divine name that reveals the speaker's faction.
 - A cargo seal that is both logistical mark and old symbol.
+- A race-night closure map read as a one-night smuggler's route rather than a spectator guide.
 
 ### Treasure equivalents
 
@@ -337,6 +388,7 @@ Treasure should rarely be gold. It should be something people will betray for:
 - a patient transfer record;
 - an old instrument reading;
 - the identity of a carrier child;
+- a paperless village's blood-draw results;
 - a method that makes the amplifier less valuable.
 
 ### Oil-jar equivalents
@@ -360,7 +412,7 @@ The point is not homage. The point is household-scale danger: the threat is insi
 
 These should be readable as games before they become moral tests.
 
-### Forest City morning training
+### Pelangi Reach morning training
 
 Rules: stay inside the taped square, disarm without injury, protect a weaker partner, rotate partners every two minutes.
 
@@ -408,10 +460,12 @@ These should be simple enough to remember:
 
 | Location | Page-turning question | Adventure object | Likely reversal |
 |---|---|---|---|
-| Forest City | Why would Eli leave a place that works? | work rota, boat key, privacy logs | organization protects him better than secrecy alone |
+| Pelangi Reach | Why would Eli leave a place that works? | work rota, boat key, privacy logs | organization protects him better than secrecy alone |
 | Melaka | Which clue is real and which is bait? | token, port stamp, phrase, flooded crossing | the real clue opens the trap |
-| Singapore | Who owns suppressed knowledge? | archive badge, server cage, old map | the boring maintenance record matters most |
+| Free Ports race night | Can they cross while the whole city watches something else? | closure map, timing loops, service tunnel, drone feeds | the cover night is the most-instrumented night |
+| Meridian City | Who owns suppressed knowledge? | archive badge, server cage, old map | the boring maintenance record matters most |
 | Strait | Can they survive ordinary danger while under extraordinary attack? | sail line, cargo seal, medicine box | the pirates are not the whole threat |
+| Strait diver village | What does the body record that no registry holds? | goggles, seagrass knife, survey consent form | the elder read the anomaly years ago and called it a season |
 | Bali / South Asia | Is the crop a message or an effect? | irrigation gate, measuring string, seed sacks | local growers understand the anomaly first |
 | Healer route | Can need be answered without becoming a leash? | clinic cot, generator, blood bag | the miracle creates a crowd |
 | Göbekli / Anatolia | Which map is alive? | survey stake, buried void, sound test | old maps are traps |

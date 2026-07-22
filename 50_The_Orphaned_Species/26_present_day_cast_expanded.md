@@ -48,7 +48,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Past:**
 - **Ordinary life:** fugitive childhood across borders — **Arif's garden and rivers** (Bangladesh), **Manong Rico's stick class** (Philippines), **Bali cooperative water** (community, not download), **Thailand temple stillness** after the attack (breath, body attention — seeded, not mastered), **Pai recovery** with a street-performer friend before dragon symbolism; years learning to be **useful** (cook, deck hand) because usefulness felt like safety.
-- **Turn:** family attack ending flight — father killed in extraction, mother removed, **TBI**; healer stabilizes then **escape network separates them** and moves Eli through **Thailand**; outbreak + Forest City refuge = first place that felt like **chosen** belonging, not only hiding.
+- **Turn:** family attack ending flight — father killed in extraction, mother removed, **TBI**; healer stabilizes then **escape network separates them** and moves Eli through **Thailand**; outbreak + Pelangi Reach refuge = first place that felt like **chosen** belonging, not only hiding.
 - **Unreconciled:** song with no name; garden kept **badly** (father's craft without mastery); cousin **Farida** still in Dhaka; never got to mourn on his own terms.
 
 **Want:** a life where he can be ordinary without lying about what he is — cook, garden badly, belong.
@@ -96,7 +96,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Romance:** escape-offer beat — *we could leave* — refused on **her people**, not drama.
 
-**Prior loves (off-page):** Rowan, a Bengali woman close to Wren's age and embedded in the diaspora mutual-aid web, was the significant love before Mira. An older Chinese-Malaysian ex came earlier, offering experience, protection, and access while creating a real age and resource asymmetry. Both remain referenced only; neither appears as an active romantic rival or POV. Rowan's relationship supplies belonging and the source of Wren's custody instinct; the older ex supplies Wren's learned suspicion that protection can become control. The present romance remains the Eli/Wren dyad.
+**Prior loves (off-page):** Rowan, a Bengali woman close to Wren's age and embedded in the Wide Net's Bengali–Melakan branch, was the significant love before Mira. An older Chinese-Malaysian ex came earlier, offering experience, protection, and access while creating a real age and resource asymmetry. Both remain referenced only; neither appears as an active romantic rival or POV. Rowan's relationship supplies belonging and the source of Wren's custody instinct; the older ex supplies Wren's learned suspicion that protection can become control. The present romance remains the Eli/Wren dyad. Wren knows the Wide Net's rituals but does not speak for all its houses.
 
 **Living female relationship — Asha Noor:** co-founder and quartermaster of the extraction network; a former threshold-house nurse in her early thirties who knew Wren at port intake before she became a handler. Asha is friend, older peer, and civic co-dreamer — never parent, lover, or subordinate. She stores Wren's ferry-terminal drawings and thinks the house should be built now, in pieces, rather than after an imaginary victory. She loves Wren but does not admire all her methods. After Laleh disappears, Asha recognizes the falsified ledger and refuses to certify another route until Wren adds explicit **return rights, informed-route consent, and an independent abort contact**. Their argument is the seed of the network's eventual accountable limits.
 
@@ -168,16 +168,18 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ## Professor Emrys *(marginalized consciousness-scientist)*
 
-**Function:** researcher, incomplete guide, anti-father; **primary slapstick carrier** (`24`).
+**Function:** scientific teacher, incomplete guide, and imperfect father figure; **primary slapstick carrier** (`24`). He gives Eli practical scientific principles—correlation versus causation, controls, signal/noise, falsifiability, error bars—which Eli later recalls at critical moments. He is not the book's spokesman for science or spirituality.
+
+**Family bond:** Emrys helped Maren raise Eli. The lab was part of Eli's childhood geography: he played with safe burners, coils, cables, and retired instruments under supervision, and sometimes slept in a camp bed on the lab floor when Maren and Emrys worked late. Emrys is therefore not merely the man who appears after the breach; he is a half-remembered father figure whose ordinary care predates the conspiracy. From Emrys, Eli learned that there was a line somewhere in Maren's work—a boundary between legitimate consciousness research and the classified psionics program—and that his mother may have crossed it.
 
 **Past:**
-- **Ordinary life:** credentialed consciousness researcher — **funded fringe**, not always marginal; colleague of Maren during her willing collaboration with Crane's program; believed **measurement could earn trust**.
-- **Turn:** suppression of her research, her **disappearance**, his professional exile; lab gone, name sidelined; followed the buried thread alone until instruments could only **predict** Eli.
+- **Ordinary life:** credentialed consciousness researcher — **funded fringe**, not always marginal; colleague of Maren during her willing collaboration with Crane's program; an energetic, curious teacher who can make difficult principles memorable and helped raise Maren's son alongside her.
+- **Turn:** he inadvertently crossed from legitimate consciousness research into the deep-state psionics program—learning enough to become a liability without understanding the whole apparatus. After Maren's suppression and disappearance, the program destroyed his career, defunded his lab, and erased his standing. He followed the buried thread because it was the only work he still believed mattered.
 - **Unreconciled:** wanted to be the steady father he **refuses** to become; still hears her in datasets; **measures when he should touch**.
 
 **Want:** complete his dead colleague's work without becoming another father who owns a boy.
 
-**Wound:** helped Maren build useful measurements, failed to recognize quickly enough how they were becoming capture tools, then watched her dissidence get suppressed. His marginalization does not make him innocent.
+**Wound:** his career was destroyed for seeing too much, too accidentally; he carries shame about benefiting from the program before he understood its scope, then losing the institutional position from which he might have challenged it.
 
 **Habit:** explains three sentences too many; hands shake; apologizes to instruments.
 
@@ -187,7 +189,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Voice:** earnest, slightly dusty academic; self-deprecating after failure, never cruel.
 
-**Arc:** converges post-Melaka flare; serious error mid-trail; **taken** Vol II; chair/key Albion; not the breach cause.
+**Arc:** converges post-Melaka flare; teaches Eli the scientific habits that become field instincts; his timing error at Göbekli has consequences without making him foolish; **taken** Vol II; chair/key Albion; not the breach cause.
 
 **Guardrails:** stress leakage from someone who understands the war — not a clown who doesn't.
 
@@ -247,7 +249,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ---
 
-## Suresh *(Forest City supply / boat)*
+## Suresh *(Pelangi Reach supply / boat)*
 
 **Function:** threshold guardian; kitchen-network link to Melaka clue.
 
@@ -265,7 +267,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ---
 
-## Priya Nair *(Forest City facilities scheduler → worker-status liaison)*
+## Priya Nair *(Pelangi Reach facilities scheduler → worker-status liaison)*
 
 **Function:** workplace authority and constructive-control argument at human scale. Priya notices whether Eli can safely keep working, what his documentation exposes him to, and when a protective form becomes a leash. She is distinct from Mei: **Priya protects through systems and work; Mei protects through food, trust, and community.**
 
@@ -285,7 +287,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ---
 
-## Mei Lin *(Forest City kitchen manager / community hearth)*
+## Mei Lin *(Pelangi Reach kitchen manager / community hearth)*
 
 **Function:** local trust, nourishment, and communal protection. She knows who has eaten, who failed to arrive, whose child needs watching, and which rule a community can break without making someone else pay. She is distinct from Priya and does not become the registrar.
 
@@ -297,11 +299,33 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Vol I deepening:** enforces a quarantine rule Eli chafes at, then breaks a different rule to get him out when the white coats arrive. Throwing his bag to the boat costs supplier trust and exposes her harbor relationships.
 
-**Later function:** remains a Forest City/community figure. When she returns, it is as evidence that made home survived and changed—not as a newly credentialed administrator.
+**Later function:** remains a Pelangi Reach/community figure. When she returns, it is as evidence that made home survived and changed—not as a newly credentialed administrator.
 
 **Voice:** Mandarin/Malay/Bengali code-switch; commands without shouting until the rush; kind, tired, food-first.
 
 **Guardrails:** not a love interest, clue-dispenser, or generic mother. Feeding someone does not mean agreeing with them, forgiving them, or taking responsibility for every consequence.
+
+---
+
+## Timah *(provisional; sea-nomad diver elder — Pelangi Reach harbor fringe / Strait)*
+
+**Function:** the Ali Baba figure at sea — a socially underestimated local who owns the underwater routes; mundane living proof of the Tree of Life lane; the answer to Eli's breach, delivered by someone who has no idea cosmology exists. Pairs with scene seed 15 in `18_adventure_engine_and_scene_bank.md`.
+
+**Ordinary life:** harvests seagrass, sea cucumber, and shellfish off the bottom on multi-minute breath-holds, into her seventies. Her grandson **Jul** dives beside her and bounces off her back like a springboard — an early warm Pelangi Reach image planted with zero significance (robot dog, mall aunties, grandmother on the seabed). Family houseboat on the harbor fringe; the household is functionally **paperless**, and always has been.
+
+**The body as record — LOCKED (real-world model):** her people carry a documented heritable diving adaptation (the Sama-Bajau spleen finding is the research anchor). Capacity that is inherited, trained, and communal — no interface, no install, no owner. It is ordinary biology to her, never a gift, never psionic. She would call it work.
+
+**Past:** born on the boats. Statelessness protected her people for generations — the registries of the reopening meant nothing to those who never had papers — until bodies themselves became data and "free health survey" teams started drawing blood in diver villages.
+
+**Want:** keep the harvest, the boats, and the children out of anyone's files.
+
+**Habit:** measures time in breaths, not minutes; laughs at checkpoint maps; surfaces mid-sentence with dinner in one hand.
+
+**Scene seeds:** the early image (Jul bouncing off her back while she picks the meadow); teaches Eli breath as *preparation, not panic* — the same asphyxia threshold that broke him open, held open safely by practice; the underwater crossing when no surface route is left; the shifted seagrass line she read years ago as a season, not an anomaly; the survey team's consent forms arriving dressed as care.
+
+**Voice:** economical, amused, unimpressed by urgency; names water and current conditions the way Salmah names river ones.
+
+**Guardrails:** research real Sama-Bajau practice before drafting — houseboats, statelessness, wooden goggles, spearfishing, the actual ethnography, not the *Way of Water* gloss. A working harvester, not a mystical sea-crone or wisdom-dispenser. Her adaptation is ordinary inheritance, not latent carrier capacity. Not instantly loyal; helping strangers puts her village on the sampling map, and she knows it.
 
 ---
 
@@ -471,6 +495,32 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 ---
 
+## Commissioner Ma *(Eastern Mandate maritime and industrial commissioner; public designation locked, given name open)*
+
+**Function:** human face of the Mandate without becoming its absolution; Zheng He–inspired maritime diplomat, fleet organizer, hard negotiator, and industrial counterpart for the field-sail peace (`51_field_sail_and_mandate_peace.md`).
+
+**Cultural grounding:** from a Hui Chinese family; the exact city, given name, languages, religious practice, and family history require Chinese/Hui research and cultural review before prose. The Zheng He rhyme is historical function, not reincarnation, costume, or one-to-one biography. Zheng He's voyages combined trade, diplomacy, state-directed commerce, logistical achievement, force, and imperial power; Ma must carry the contradiction.
+
+**Ordinary life:** rose through inland freight, river logistics, and maritime trade administration. Knows a port by water, labor, repair capacity, food stocks, and who can actually move a container after the officials leave.
+
+**Turn:** war converted his commercial and hospital convoys into strategic lifelines and armed state instruments. He kept cities supplied, protected crews, and enforced blockades that harmed civilians.
+
+**Want:** turn the Mandate's surviving industrial depth toward a project larger than permanent mobilization: build the first field-sail craft and reopen Heaven by construction rather than conquest.
+
+**Wound / unreconciled:** scale saved lives under his command and erased distant lives from his ledgers. He neither confesses for Eli's approval nor claims that necessity made him innocent.
+
+**Present command:** a mixed fleet of commercial carriers, fabrication ships, research vessels, hospital capacity, orbital-component transports, and armed escorts—the technological and political rhyme of a treasure fleet.
+
+**Voice:** exact, courteous, materially specific. Speaks in capacity, time, tolerances, crew, maintenance, and reciprocal obligation rather than visionary abstractions. Hospitality is real; so is leverage.
+
+**Eli relationship:** counterpart, not disciple. Ma distrusts distributed safeguards as slow and vulnerable; Eli distrusts how Ma's logistics can turn dependence into tribute. Their central question is not whether the field sail should be built but who can prevent ownership of the road.
+
+**Guardrails:** not the lone good Easterner, not a mystical Muslim navigator, not a benevolent trader cleansed of force, not a mouthpiece for all Chinese or Mandate people, and not a late ally who cancels the Pacific offensive. Other Mandate scientists, sailors, workers, families, officials, and critics must be visible around him.
+
+**Book III placement:** seeded earlier through Mandate-linked shipping records, convoy marks, port stories, or a supply decision affecting Pelangi Reach; first direct approach during the relocated-government compact; in-person negotiation after enforceable terms exist; joint proof and limited ceasefire in the coda.
+
+---
+
 
 
 ## Farida Rahman *(Eli's cousin, Dhaka)*
@@ -514,7 +564,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 | Somchai (nurse / field medic) | mention | reconvene; healings | refusal under pressure |
 | Sol Mendez | — | temptation | echo or end |
 | Farida | one message | optional | optional |
-| Priya / Mei / Suresh | Forest City; Priya = Vol II status-liaison beat | — | Mei/Suresh optional echo |
+| Priya / Mei / Suresh | Pelangi Reach; Priya = Vol II status-liaison beat | — | Mei/Suresh optional echo |
 | Crane private beat | looms | social rooms | throne offer |
 
 ---
@@ -526,7 +576,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 | Emrys | slapstick, buddy panic |
 | Eli | dry straight man |
 | Wren | armor-break physical |
-| Mei / Forest City | warm dry (robot dog, aunties) |
+| Mei / Pelangi Reach | warm dry (robot dog, aunties) |
 | Sol | none (charisma is horror) |
 | Tommy Lance | dark, never punchline |
 | Jin Pak | tragic — no jokes |
@@ -542,7 +592,7 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 | **Eli** | 1 | Hard, capable facilities hand; useless at the garden | In the father's plot he talks to the tomatoes in **Bangla** and hums a tune fragment while failing — competence on live junctions, shame in soil | Split: mother's gift / father's craft; no naming either |
 | **Eli** *(meditation seed)* | 1 or 5 | Training-shell calm reads as stoic competence | Mid-overload or post-shift: **counts one exhale** or stills on a stair — out of register for a facilities hand; reader may read dissociation until breach/climax pays it | Thailand temple habit; see `15` § *Eli's meditation seed* — no flashback block |
 | **Mei** | 1 | Kitchen commander during rush | Mid-service she makes Eli **taste the sauce** off the spoon — check he ate — then snaps at the pass without dropping command voice | Smaller-kitchen maternal habit before wartime scale |
-| **Priya** *(Vol II liaison)* | — | *Vol II return* | Forest City health poster in Ch 1 uses **visibility saves lives**; later she offers the scan and permits a counter-record through | Death tech as sincere care; documentation protects and exposes |
+| **Priya** *(Vol II liaison)* | — | *Vol II return* | Pelangi Reach health poster in Ch 1 uses **visibility saves lives**; later she offers the scan and permits a counter-record through | Death tech as sincere care; documentation protects and exposes |
 | **Suresh** | 2 | *"I don't carry heroes. I carry rice."* | At the stern he hums **four wrong notes**, stops himself, goes flat — Iqbal's tune, never in public | Musician family grief; rice is real job, not whole identity |
 | **Farida** | 2 | Cousin text: practical, scared | Encrypted message includes a photo: **Arif's garden in Dhaka still growing** — home continued without Eli | Lost home heartbeat; Eli can't answer |
 | **Hassan** | 3 | Exhausted witness; testimony voice | Before handoff he **aligns papers** on a crate edge like a ledger clerk — precise, calm — then hands shake | Fishery accountant before black site; trusted paper once |

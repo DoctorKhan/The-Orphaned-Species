@@ -21,6 +21,22 @@ Before a scene asks the reader to understand a mythic system, it must give them 
 
 The simplest test is: if all cosmological vocabulary were removed from the scene, would the reader still care because of what these people want from each other? If not, add human pressure before adding lore.
 
+## No sides — only incentives **(LOCKED, Jul 2026)**
+
+There are **no truly good or evil sides** in this book. What plays out as "sides" is **people with incentives**. The drafting discipline:
+
+> **Know every character's incentives and motivations at all times.** Before drafting any scene, be able to state — for every person in the room — what they want, what they fear losing, who pays them or holds their debts, and what they believe they are protecting.
+
+**Rules:**
+
+- **No one acts from alignment.** A character never does something because they are "on the dark side" or "one of the good ones." Every action traces to an incentive: wage, safety, debt, love, standing, doctrine believed sincerely, a child, a boat, a career, absolution. If a character's action can only be explained by which side they're on, the scene is broken — find the incentive or cut the action.
+- **Every faction pitch is partly true and locally rational.** Crane is right about danger; registry feels like care; the prophecy faction offers real belonging; bloc service pays and protects families. The cast doc's `Want:` fields are this rule enforced per-character — no entry ships without one.
+- **Allies have incentives too.** Wren runs her extraction network out of guilt and love, and it conflicts with Eli's trail every volume. Priya believes in systems; Mei's care has limits; Salmah charges fairly. Help that costs the helper nothing is a sign the incentive ledger wasn't done.
+- **Antagonists switch when incentives switch — never from persuasion alone.** The good-faith official flips on the frame-up (seed 13) because the fabrication betrays what the system promised *them*, not because Eli gives a speech. Conversion scenes must show the incentive breaking, not the argument winning.
+- **This runs all the way up.** Even Tier 3 (`17` § Offstage presence) is not metaphysical evil: the hidden force *exploits incentives* — it whispers to what people already want and fear; it never compels. The Shayateen work autopilot, not possession. Distributed antagonism holds because every instrument of the dark side is a person who said yes for reasons a reader could recognize in themselves.
+
+**Scene-level test:** pick the least sympathetic person in the scene. If you cannot write one sentence of their situation that would make a reader say *"I might have done the same,"* you don't understand them well enough to draft the scene.
+
 ## Complex pasts — not only runs
 
 Major characters should feel like they **had lives before the war**, not like they were issued with a plot function. Extraction networks, registries, descents, and psion teams are **present pressure** — not the whole biography.
@@ -101,14 +117,14 @@ These stages overlap. Eli can have an early surge before he can interpret one, a
 - not a download of the Seven or the web;
 - not spiritual superiority or a TBI cure;
 - not monkhood or permanent renunciation — fugitive childhood continues;
-- not interchangeable with Kali (Philippines / Forest City) — martial breath is **domain skill**; temple attention is **inner work**. Both bridge into later practice; neither replaces the other.
+- not interchangeable with Kali (Philippines / Pelangi Reach) — martial breath is **domain skill**; temple attention is **inner work**. Both bridge into later practice; neither replaces the other.
 
 **Delayed fruition — the plot engine:**
 
 | Phase | On-page register | What the reader sees |
 |---|---|---|
 | **Seed (Thailand, off-page or brief flash)** | Child sits because adults require it; headaches make stillness attractive | Habit, not mastery — one detail (count breath, bare feet on cool stone, bell before dawn) |
-| **Carry (Forest City → Melaka)** | Training-shell calm **mistaken** for equanimity | Kali footwork + compound competence; meditation recedes into background habit |
+| **Carry (Pelangi Reach → Melaka)** | Training-shell calm **mistaken** for equanimity | Kali footwork + compound competence; meditation recedes into background habit |
 | **First test (Melaka breach)** | Overload, asphyxia, loss of breath | A **fragment** returns — one counted exhale, attention to sole of foot — insufficient alone, but keeps him from total identification |
 | **Vol I proof (Thila / Manual Override)** | Charge deposits; autopilot commands | **Personal Manual Override:** feel charge, do not complete the act — skills **work** for the first time under full pressure |
 | **Vol II (witness sites, mother-reveal)** | Relational hold | Breath stabilizes after contact; can stay with Wren/ensemble without managing or fleeing |
@@ -158,7 +174,7 @@ Eli needs ordinary pressures alongside the extraordinary ones:
 
 - papers, money, shelter, food, transport, medicine, and sleep;
 - fear of detention or return, not only capture by the ring;
-- work shifts, housing obligations, and the practical fear of losing the made home he has earned in Forest City;
+- work shifts, housing obligations, and the practical fear of losing the made home he has earned in Pelangi Reach;
 - embarrassment when symptoms become visible;
 - small wants unrelated to destiny;
 - resentment, social mistakes, bad judgment, humor, and occasional cowardice;
@@ -171,9 +187,9 @@ His competence is domain-specific. Training makes him disciplined under physical
 These people make the route a lived social world rather than a sequence of clues. Give each a name, want, and conflict before drafting; neither exists merely to foreshadow Eli.
 
 - **The Pai staff-twirler (girl; name and exact age TBD)** dresses like a jester and performs with a dragon staff. Her movement is playful, difficult, and public: balance, rhythm, misdirection, and delight rather than combat instruction or mystical exposition. The dragon image can rhyme later with the Double-Fork Stone and living dragons, but she is not an oracle, secret lineage-holder, or disguised magical being by default. Eli remembers a person before he recognizes a symbol.
-- **Eli's Forest City work** should be ordinary, physical, and socially embedded: **facilities at the Forest Foundry compound** (platform wage; Babaji/Arif placement, not wealth). He is not a guest in the refuge and not secretly important to everyone. He earns trust by showing up, missing things, apologizing, covering shifts, being covered for, and learning how a functioning community protects privacy without abolishing responsibility. **Daily luck awareness:** contrast with worse papers in half-built towers, Priya's sign-off, Mei's free-meal list, recognizers who expect him tomorrow — *you shouldn't still be here, and you are.* He does not say *lucky* out loud; he does not forget it. Makes leaving Forest City a real forfeiture of borrowed safety, not abstract stakes.
-- **The Forest City martial-arts teacher (man; name TBD)** holds morning practice and teaches several arts, including **Pekiti-Tirsia Kali**. He builds on—and does not replace—the Filipino foundation Eli learned earlier. His instruction should be concrete: footwork, range, angle, timing, restraint, repetition, and how to train safely with people of unequal ability. He is also a community member with outbreak work and obligations beyond teaching.
-- **The Forest City sailing community** uses the available sailboats for ordinary recreation, maintenance, training, and later practical transport. Eli learns basic seamanship: knots, points of sail, reefing, keeping watch, reading wind and weather, docking, and taking instruction aboard. By Volume I he can be useful on a boat but is not an expert skipper. The skill earns its place when the unstable maritime passage requires work, judgment, and cooperation that psionics cannot replace.
+- **Eli's Pelangi Reach work** should be ordinary, physical, and socially embedded: **facilities at the Forest Foundry compound** (platform wage; Babaji/Arif placement, not wealth). He is not a guest in the refuge and not secretly important to everyone. He earns trust by showing up, missing things, apologizing, covering shifts, being covered for, and learning how a functioning community protects privacy without abolishing responsibility. **Daily luck awareness:** contrast with worse papers in half-built towers, Priya's sign-off, Mei's free-meal list, recognizers who expect him tomorrow — *you shouldn't still be here, and you are.* He does not say *lucky* out loud; he does not forget it. Makes leaving Pelangi Reach a real forfeiture of borrowed safety, not abstract stakes.
+- **The Pelangi Reach martial-arts teacher (man; name TBD)** holds morning practice and teaches several arts, including **Pekiti-Tirsia Kali**. He builds on—and does not replace—the Filipino foundation Eli learned earlier. His instruction should be concrete: footwork, range, angle, timing, restraint, repetition, and how to train safely with people of unequal ability. He is also a community member with outbreak work and obligations beyond teaching.
+- **The Pelangi Reach sailing community** uses the available sailboats for ordinary recreation, maintenance, training, and later practical transport. Eli learns basic seamanship: knots, points of sail, reefing, keeping watch, reading wind and weather, docking, and taking instruction aboard. By Volume I he can be useful on a boat but is not an expert skipper. The skill earns its place when the unstable maritime passage requires work, judgment, and cooperation that psionics cannot replace.
 
 Together these practices establish a bodily grammar before the cosmology arrives. Staff performance shows controlled play; morning martial training shows disciplined relation to force; sailing shows direction achieved by working with pressure rather than trying to abolish it. The parallels should emerge through action, not explanatory dialogue.
 
@@ -193,9 +209,9 @@ Albion closes the mother's mystery. It does not reveal Eli's truer self or repla
 
 Bangladesh should remain an unreturnable or not-yet-returnable home. The reason can be political tension after the attack, unresolved legal danger, surveillance, family enemies, risk to surviving contacts, or the simple fact that returning would not restore the life that was destroyed. This keeps the longing active without turning Bangladesh into a symbolic birthplace that can be visited once and solved.
 
-**Father's death — locked shape.** **Arif Rahman** had real political commitments in Bangladesh (rivers, land, labor, or dissent — exact issue TBD). That visibility entangled with the Ring's hunt for Eli's mother and forced the family into flight. The Ring used local machinery — detention, disappearance, riot cover, checkpoint, file — so the official story can read as politics while survivors know the target was the mother and Arif was in the way. **Arif was killed during extraction**, not in Bangladesh on a scene young Eli can reliably remember; the same attack that ends the flight removes the mother and leaves Eli with persistent TBI. Eli's memory of his father should be **living culture** (language, garden, rivers, household) rather than a legible assassination. The garden he keeps in Forest City is exile soil — craft transplanted, not recovered. Surviving kin in Dhaka (e.g. cousin **Farida**) remain at risk, which is one reason return stays impossible in Volume I.
+**Father's death — locked shape.** **Arif Rahman** had real political commitments in Bangladesh (rivers, land, labor, or dissent — exact issue TBD). That visibility entangled with the Ring's hunt for Eli's mother and forced the family into flight. The Ring used local machinery — detention, disappearance, riot cover, checkpoint, file — so the official story can read as politics while survivors know the target was the mother and Arif was in the way. **Arif was killed during extraction**, not in Bangladesh on a scene young Eli can reliably remember; the same attack that ends the flight removes the mother and leaves Eli with persistent TBI. Eli's memory of his father should be **living culture** (language, garden, rivers, household) rather than a legible assassination. The garden he keeps in Pelangi Reach is exile soil — craft transplanted, not recovered. Surviving kin in Dhaka (e.g. cousin **Farida**) remain at risk, which is one reason return stays impossible in Volume I.
 
-Eli's main emotional drive is the longing for a livable home: a place where grief, abnormal perception, disability, love, work, privacy, and accountability can coexist without a state, faction, family myth, prophecy, or archive defining him first. Forest City gives him a temporary made home; Bangladesh remains the lost home; the final community tests whether mature home can exist without ownership. The mother trail matters because it reopens the wound, but the deeper need is belonging without capture.
+Eli's main emotional drive is the longing for a livable home: a place where grief, abnormal perception, disability, love, work, privacy, and accountability can coexist without a state, faction, family myth, prophecy, or archive defining him first. Pelangi Reach gives him a temporary made home; Bangladesh remains the lost home; the final community tests whether mature home can exist without ownership. The mother trail matters because it reopens the wound, but the deeper need is belonging without capture.
 
 ## Wren and present-tense love
 
@@ -229,7 +245,7 @@ The central integration sentence is not *I was them.* It is:
 The ley-line mechanism is an adventure spine, not a lecture Eli earns by being special. Its pieces belong to different people and places:
 
 - farmers and growers distinguish altered plant growth from irrigation, disease, weather, and trampling;
-- Forest City residents teach Eli to compare distributed reports and discard attractive false patterns;
+- Pelangi Reach residents teach Eli to compare distributed reports and discard attractive false patterns;
 - Emrys can measure paired opposition but cannot feel or interpret everything;
 - Wren turns partial knowledge into routes, tests, and survival decisions;
 - historical records show earlier observations without becoming an infallible manual;
@@ -237,11 +253,11 @@ The ley-line mechanism is an adventure spine, not a lecture Eli earns by being s
 
 Every discovery must occur while someone wants something immediate: to cross water, evade surveillance, protect a field, reach an injured person, recover a record, or hold a stone center under attack. At least one interpretation should fail. A failed theory must cost time, safety, trust, or resources rather than merely invite another paragraph of explanation.
 
-Eli never knows the final destination. He leaves Forest City for one clue in Melaka, then chooses repeatedly whether the next fragment is credible enough to justify risk. Wren can identify routes and traps but does not secretly know the quest map. Emrys can correlate evidence but cannot announce Albion. The late discovery of Albion must result from independent agreement among several sources, not a recovered address or infallible vision.
+Eli never knows the final destination. He leaves Pelangi Reach for one clue in Melaka, then chooses repeatedly whether the next fragment is credible enough to justify risk. Wren can identify routes and traps but does not secretly know the quest map. Emrys can correlate evidence but cannot announce Albion. The late discovery of Albion must result from independent agreement among several sources, not a recovered address or infallible vision.
 
 Keep clue-following psychologically credible. Eli may pursue weak evidence because it concerns his mother, but Wren and others should challenge the cost. Some leads must fail. Some should reveal valuable human or political truths without advancing the cosmological trail. This prevents every stranger and location from feeling prearranged for the protagonist.
 
-Do not treat the locations as levels in a cosmological scavenger hunt. The Philippines supplies an early martial foundation; Pai supplies recovery, play, and the staff-twirler as a person rather than a sign; Bali supplies living agricultural knowledge; Forest City supplies accountable collective method, continued morning training, and basic sailing; Melaka supplies the breach and immediate human crisis. None exists to validate Eli, and local characters retain agency after he leaves.
+Do not treat the locations as levels in a cosmological scavenger hunt. The Philippines supplies an early martial foundation; Pai supplies recovery, play, and the staff-twirler as a person rather than a sign; Bali supplies living agricultural knowledge; Pelangi Reach supplies accountable collective method, continued morning training, and basic sailing; Melaka supplies the breach and immediate human crisis. None exists to validate Eli, and local characters retain agency after he leaves.
 
 Polarity is not moral symbolism. A positive end is not good, a negative end is not evil, and a broken line is not evidence that a place or community is damaged. Stone circles route existing conductors; they do not manufacture energy. Crop circles are changes in growth produced by new line formation, not alien handwriting.
 
@@ -267,7 +283,7 @@ The practical constraints remain decisive:
 
 After an attack, show consequences rather than a clean reset: headache, tremor, insomnia, missing time, shame, mistrust, intrusive emotional residue, neurological symptoms, or conflict over whether an experience was authentic. Do not use Eli's TBI as a generic meter for psionic damage. His established disability remains distinct even when an attack aggravates it.
 
-Not every psion is a soldier. Conscription, coercion, asylum, desertion, conscientious refusal, and the right not to become public infrastructure are part of the human conflict. The healer's refusal and Forest City's privacy practices should make this political reality concrete.
+Not every psion is a soldier. Conscription, coercion, asylum, desertion, conscientious refusal, and the right not to become public infrastructure are part of the human conflict. The healer's refusal and Pelangi Reach's privacy practices should make this political reality concrete.
 
 ## Scene-level test
 

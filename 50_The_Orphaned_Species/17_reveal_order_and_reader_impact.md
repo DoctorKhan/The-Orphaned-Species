@@ -2,6 +2,8 @@
 
 *Outline guide for making the trilogy entertaining rather than curriculum-shaped. Pair with `05_story_architecture.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `22_life_technology_and_two_trees_spine.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, `28_present_day_trilogy_craft_index.md`, and `35_artifact_chain.md`. This document controls the emotional order of discovery; the master timeline controls chronology.*
 
+*The **preamble/backstory** (war, bioweapon, three factions, the awakening) is delivered by residue, not narration — the LOCKED technique toolkit + fact→vehicle map lives in `42_preamble_world_history_source.md` § "Delivery method."*
+
 ## Governing rule
 
 Reveal in **emotional escalation**, not conceptual neatness.
@@ -28,6 +30,7 @@ The plot should discover **effects before causes, practices before doctrines, an
 | Civilization as role machine | "This is about how people are owned by systems that claim to protect them." |
 | Prophecy pressure | "Destiny is thrilling, but it may be a trap." |
 | Ancient records | "Myth is not proof; it is contested memory." |
+| Rootbook cognates | "Words I use contain transformations of something far older; I participate in a history I did not know I carried." |
 | Human-as-sub-drone reveal | "We understand robots because we were once made into robots for others." |
 | Coexistence test | "Power does not have to end in worship, ownership, or extermination." |
 | Final ordinary life | "The victory is breakfast, work, sailing, jokes, affection, and nobody turning the afternoon into destiny." |
@@ -36,11 +39,13 @@ The plot should discover **effects before causes, practices before doctrines, an
 
 ### 1. Start with a human problem, not lore
 
-Open with Eli trying to keep a normal life in Forest City: work, training, meals, sailing, attraction, fatigue, money/status pressure, refugee risk, and unfinished grief around his mother. Something uncanny interrupts this life, but the life must be lovable before the cosmology threatens it.
+Open with Eli trying to keep a normal life in Pelangi Reach: work, training, meals, sailing, attraction, fatigue, money/status pressure, refugee risk, and unfinished grief around his mother. Something uncanny interrupts this life, but the life must be lovable before the cosmology threatens it.
 
 The reader must care about what Eli stands to lose before learning what he is.
 
 ### 2. Give one impossible event early
+
+**Current placement — LOCKED:** the Melaka breach closes **Chapter 2**. Chapter 1 earns the ordinary life; Chapter 2 destroys distance between displacement, the ring, pursuit, and the impossible event. Do not postpone the breach to preserve separate Meridian City, Straits, or witness-tour chapters.
 
 The early hook should be undeniable but not explained:
 
@@ -68,6 +73,8 @@ Wrong explanations make the reader an active investigator. They also prevent any
 
 The first artifact should not explain aliens, dragons, Anunnaki, chromosomes, or the full timeline. It should solve or complicate an immediate problem.
 
+Maren's Rootbook enters alongside the artifact chain as an **emotionally legible puzzle**. Its first successful key is a word connected to Eli's own name and maternal memory, not a cosmological answer. The reader sees recurring forms before receiving the reconstruction and should be able to attempt the relationship. Later corrections make the book feel like a real unfinished inquiry rather than prophecy. Full reveal ladder: `52_the_rootbook_word_web.md`.
+
 Best early candidates:
 
 - **Three-Circles Tablet** — preferred first major artifact, because it connects to Eli's body, charges, autopilot, and the practical need to remain himself under pressure.
@@ -94,7 +101,7 @@ The middle should not depend on "ancient aliens are real." The stronger middle r
 
 > Every system — family, state, temple, school, market, registry, romance, medicine — wants to assign people a role.
 
-This is where Enki/Ninmah, the me, courtly intrigue, registries, Crane, the healer's deification pressure, and Wren's social reading become entertaining. The danger is not only monsters above humanity. The danger is the ordinary human ability to turn care, classification, and protection into ownership.
+This is where Enki/Ninmah, the Arta, courtly intrigue, registries, Crane, the healer's deification pressure, and Wren's social reading become entertaining. The danger is not only monsters above humanity. The danger is the ordinary human ability to turn care, classification, and protection into ownership.
 
 ### 7. Use prophecy as bait
 
@@ -144,6 +151,50 @@ The final revelation is not that aliens, gods, dragons, or councils explain ever
 
 That means the ending should feel like relief and earned maturity, not only shock.
 
+## Offstage presence — the three reveal tiers
+
+Characters and powers gain gravity by doing **offstage work before the reader sees them**. Revealing too early ruins the mystery; some presences must never be fully revealed at all. Assign every significant character or power to a tier before drafting its first mention.
+
+### Tier 1 — referred before seen
+
+The name, rumor, effect, or handiwork arrives chapters before the body does.
+
+**Rule:** the on-page arrival is earned only when the reveal **changes what a protagonist does next** — never when reader curiosity merely peaks. Until then, the character exists as testimony, paperwork, damage, rumor, and other people's fear or love.
+
+Canon examples already running this pattern:
+
+- **Maren** — ring photograph, trail, other people's memories of her, long before the truth of her state (the reunion is the goodbye).
+- **The healer** — public save → rumor → Eli hears second-hand, before any meeting (LOCKED two-healings order).
+- **The archangel name ladder** — Michael / Gabriel / Persia-prince: allude → reference → recontextualize (`46` § G); names planted volumes before any clarification.
+- **Hassan** — witness who "knows what happened to his mother" is a claim and a ring frame before he is a man in a room.
+
+**Anti-pattern:** introducing a hinted character in the same volume as their first mention without the mention having done any work. If the gap is short, cut the hint and let them simply arrive.
+
+### Tier 2 — revealed only in fragments
+
+Seen in effects and partial contact; never at full resolution. Each fragment **recontextualizes** the prior ones (extends § 8, "Delay the full taxonomy").
+
+- **Anu + 26** — dream, omen, resonance pressure only; never a council chamber scene.
+- **The Makers** — formless top of the plane ladder; approached, never depicted.
+- **The dragon** — spectral remnant, felt at charged grounds; deep-time proof, not a present creature.
+- **Angelic orders** — ON HOLD (`46` § H); if unlocked as actors, they stay Daniel-10-shaped: effects on routes and messages, never full-res beings with dialogue.
+
+### Tier 3 — never revealed **(LOCKED, Jul 2026 — resolves `99` #15 surface question)**
+
+**Iblīs / the hidden force behind the dark side, and the deep state as such, are never fully revealed.** No embodiment, no confrontation scene, no origin dump, no monologue, no defeat. By the end the reader simply **understands that it will always be there.**
+
+Craft rules:
+
+- Its existence is conveyed by **pattern recognition**: the many antagonist faces *rhyme* — Crane's doctrine, Custodian whispers, fallen-spirit pressure, institutional capture recurring after every victory — and the reader assembles the apex the book never draws.
+- The name may surface in liturgical, scholarly, or keeper register (as Michael/Gabriel do), but the entity never acts on-page in its own voice and is never confirmed.
+- **Distributed antagonism holds** (`/00_NARRATIVE_STRUCTURE.md`): human institutions remain responsible for their choices. The hidden force explains the rhyme; it never excuses the choice. Crane stays the most open instrument, not a puppet.
+- **Not metaphysical evil.** There are no sides, only incentives (`15` § No sides — only incentives). The hidden force works by whispering to what people already want and fear — it exploits incentives, never compels. Every instrument of the dark side is a person who said yes for legible reasons.
+- No protagonist ever gets to meet it, name it to its face, or end it. An evil that can be met can be killed; an evil that is a **standing condition** is what makes the ending mature.
+
+**Ending obligation:** the final ordinary afternoon quietly includes this understanding. The civilizational Manual Override is **vigilance and practice, not elimination** — fear stops ruling, but the whisper does not stop whispering. Locks are kept, standards maintained, the practice taught onward. This is why the ending is earned maturity rather than triumph: the characters keep breakfast, work, sailing, and jokes *while knowing the pressure persists*, and nobody turns the knowledge into dread or the afternoon into destiny.
+
+**Guardrail:** never promote a Tier 3 presence to Tier 1–2 for a climax. The temptation to "pay off" Iblīs with an appearance would convert a standing condition into a boss fight and collapse the thesis. (The deeper-function question — whether Iblīs serves evolution, believes it does, or has confused evolution with domination — stays open and off-page; possibly Book IV territory, `99` #15.)
+
 ## Trilogy outline by reader experience
 
 ### Book I — Mystery and body
@@ -152,7 +203,7 @@ Primary reader hook: **survival, belonging, and embodied mystery**.
 
 Discoveries and pressures:
 
-- Eli tries to keep ordinary life in Forest City.
+- Eli tries to keep ordinary life in Pelangi Reach.
 - One impossible event pulls him out.
 - The first artifact gives a visual key without explaining the cosmos.
 - The psion war becomes personal.
@@ -261,7 +312,7 @@ When drafting present-day legs, layer this doc's emotional order with the **stre
 - Early events should look like **registry chase, illegal psion activity, smuggling, or clinic horror** before they look like cosmology.
 - Middle artifacts should read as **bootleg grid firmware** — fought-over keys, interfaces, maps — before Anatolia/Albion reframe them as Life-bridge grammar.
 - Every faction pitch should feel like an **install offer** (register, weaponize, prophecy, harvest); Eli's refusals are the drama.
-- Forest City warmth stays the **anti-Night City** hearth; do not sacrifice lovable ordinary life for noir temperature.
+- Pelangi Reach warmth stays the **anti-Night City** hearth; do not sacrifice lovable ordinary life for noir temperature.
 
 The reader arc at street level: *covert psion war → war over who gets to play the planet → the native road was never the purchased interface.*
 
@@ -282,4 +333,4 @@ Layer this doc's emotional ladder onto that spine:
 
 Each volume must advance **both** Life beats and Knowledge beats. If a book only adds mystery (Life) or only adds institution (Knowledge), the ending cannot earn reunification.
 
-**Ending filter:** the climax completes discovery; it does not replace it. The reader should recognize the union because they have been ** accumulating** both Trees since Forest City — then watch Eli release the mother, refuse the amplifier, spread practice, and return to breakfast with wisdom.
+**Ending filter:** the climax completes discovery; it does not replace it. The reader should recognize the union because they have been ** accumulating** both Trees since Pelangi Reach — then watch Eli release the mother, refuse the amplifier, spread practice, and return to breakfast with wisdom.
