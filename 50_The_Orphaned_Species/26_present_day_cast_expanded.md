@@ -239,7 +239,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Two healings (required):**
 1. **Early (Vol II):** public save → rumor → Eli hears second-hand.
-2. **Late (Vol II–III):** crowd demands miracle → he **refuses** → someone suffers because help was withheld → he still refuses ownership → coalition must decide if he's fraud, blasphemer, or a man with limits.
+2. **Late (Vol II Ch 18 — LOCKED single refusal, 2026-07-21):** crowd demands miracle → he **refuses** the healing-on-demand *and* the messenger/*Son-of-Man* crown in one motion → someone suffers because help was withheld → he still refuses ownership → coalition must decide if he's fraud, blasphemer, or a man with limits → **the beat ends on him back at triage, not on the no.** There is **no second refusal scene in Vol III**: there, the title has withered — ordinary consent-based practice, a tired man eating, nobody asking for miracles (`33` denouement; `15` § Refusal is never terminal).
 
 **Voice:** tired, precise, gentle until pressed; then iron.
 

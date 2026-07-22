@@ -140,7 +140,7 @@ The Weavers' Net is the accumulated relational infrastructure the order weaves: 
 
 - Matchmaking scenes stay warm, funny, food-adjacent — the auntie/terrace register (`24`) — before their political depth shows. The reader should enjoy the craft before understanding it is also how power moves.
 - Prefer a Net-knot over luck: anywhere the trilogy needs a clue routed, a safehouse found, or a stranger vouched for, an old match or godparent tie is better than coincidence (the ring-photograph chain is already this shape).
-- **Eli/Wren — LOCKED (2026-07-21): blessed, not built.** A Weaver house quietly vetted Eli and blessed the pairing *after* it formed, without Wren's knowledge — small Vol I favors that read as luck, discovered in Vol II at the peak of her *"real, engineered, or both"* fear. The order never arranged the meeting. Full beat and elder-confrontation shape: `19_romance_and_divine_pairing.md` § Weaver bonds, the matchmaker thread. This gives the consent line its personal test case: even a benevolent blessing given without knowledge lands as manipulation.
+- **Eli/Wren — LOCKED (2026-07-21): blessed, not built.** A Weaver house quietly vetted Eli and blessed the pairing *after* it formed, without Wren's knowledge — small Vol I favors that read as luck, discovered in Vol II (`32` Act IV Ch 5; re-choosing completes at Ch 7 denouement) at the peak of her *"real, engineered, or both"* fear. The order never arranged the meeting. Full beat and elder-confrontation shape: `19_romance_and_divine_pairing.md` § Weaver bonds, the matchmaker thread. This gives the consent line its personal test case: even a benevolent blessing given without knowledge lands as manipulation.
 
 ## Developmental arc of the series
 
