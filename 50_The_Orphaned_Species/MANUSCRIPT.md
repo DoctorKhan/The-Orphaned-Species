@@ -9,7 +9,9 @@
 > - **Ch 2 (below):** governing draft, **merged 2026-07-22** — full sustained flight including the Meridian transit (processing, ring photograph, wage-ticket cost, worker maze, Cherry Cube, Circuit escape), Salmah seeded at the quay before the breach; ends at the breach. Decision record: `DRAFT_Chapter_Two.md` flags.
 > - **Ch 3 (below):** governing draft, **merged 2026-07-22** — aftermath through "I'm not going dark." Decision record: `DRAFT_Chapter_Three.md` flags.
 > - **Ch 4–10 (below):** drafted 2026-07-22 directly into this file — Her People (Wren POV exception), The Field That Counts, First Witness, The Forming Line, Ila's Hands, Two Teams, People Over Evidence. Decision records: `DRAFT_Chapter_Four.md`, `DRAFT_Chapter_Five_Six.md`, `DRAFT_Chapter_Seven_Eight.md`, `DRAFT_Chapter_Nine_Ten.md`.
-> - **Ch 11–13 (Gulf Corridor / The Old Wound at Ground / Göbekli and Loss):** undrafted — the frontier. Act IV is marked "rebuild chapter count while drafting" in `31`; the Vol I climax lock (`31` § Volume I climax) and Taş Tepeler ladder govern.
+> - **Ch 11–13 (below):** drafted 2026-07-22 — Gulf Corridor (Thailand/Bangladesh hinges folded in per route lock), The Old Wound at Ground, Göbekli and Loss (Volume I climax per the `31` lock: Manual Override completed, Emrys taken, record sealed partial, rupture into Vol II). Decision record: `DRAFT_Chapter_Eleven_Thirteen.md`.
+>
+> **VOLUME I DRAFT COMPLETE (2026-07-22): 13 chapters, ~28k words.** Next passes, in order: author read-through against the decision records; research passes (`100` § frontier item 6 + Before-drafting list); line-edit pass (simile-density note, `2945377` audit); then Vol II.
 > - **Superseded Ch 2–4 prose:** moved to `MANUSCRIPT_restructure_quarry.md` (deprecated-elements list in its header; Khun Dang / Hotel California material reserved for the Thailand hinge).
 > - **`DRAFT_Chapter_One.md`:** alternative concept-forward Ch 1 — **quarry**, not governing (interiority pays off later; see its header).
 
