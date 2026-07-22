@@ -19,6 +19,8 @@ The reader should not feel walked through doctrine in the correct order. The rea
 
 The plot should discover **effects before causes, practices before doctrines, and human stakes before cosmic claims**.
 
+**Desire before information — LOCKED 2026-07-22:** the reader follows an unanswered longing more deeply than an unanswered fact. Eli's governing desire is to find a place where he can remain—known without classification, loved without possession, useful without earning existence. Book I turns that desire toward lost home and proof he was not abandoned; Book II toward real reunion and the release of family; Book III toward the dangerous wish to prevent all future loss. No artifact, site, historical answer, or cosmological term should arrive unless it intensifies, frustrates, revises, or exacts a cost from a human desire.
+
 ## What readers should feel
 
 | Movement | Reader impact |
@@ -27,7 +29,7 @@ The plot should discover **effects before causes, practices before doctrines, an
 | First impossible event | "What the hell was that?" |
 | First wrong explanation | "I have to solve this with them." |
 | Autopilot / charges | "This is about the part of me that lives automatically." |
-| Civilization as role machine | "This is about how people are owned by systems that claim to protect them." |
+| Civilization as family-faced engine | "A system calling people family does not earn the right to spend them." |
 | Prophecy pressure | "Destiny is thrilling, but it may be a trap." |
 | Ancient records | "Myth is not proof; it is contested memory." |
 | Rootbook cognates | "Words I use contain transformations of something far older; I participate in a history I did not know I carried." |
@@ -90,18 +92,20 @@ Use images before terminology. Readers remember circles, forks, wounds, boats, f
 The recognition should build in three steps:
 
 1. **Personal:** the body can run rules without the conscious operator.
-2. **Social:** family and civilization exploit these rules.
-3. **Cosmic/historical:** the old powers may have engineered, domesticated, or selected for this condition.
+2. **Relational:** family can shelter the person, but love can become possession, debt, legacy, or refusal to release.
+3. **Civilizational:** large systems exploit the same rules while borrowing the language of kinship to make expenditure feel like belonging.
 
 The reader should first think, "This is about the part of me that lives automatically." Only later should the reader understand that civilization itself may be built to exploit the same mechanism.
 
-### 6. Reveal civilization as the villain before revealing aliens or gods
+### 6. Delay the civilization synthesis until Book III
 
-The middle should not depend on "ancient aliens are real." The stronger middle reveal is:
+Book I may expose registries, labor systems, selection marks, organized provisioning, and ancient evidence of contact becoming command. Book II may show family, household, lineage, protection, and loss as the intimate forms in which belonging can become possession. Neither book should yet deliver the final civilizational diagnosis.
 
-> Every system — family, state, temple, school, market, registry, romance, medicine — wants to assign people a role.
+Book III supplies the synthesis: civilization behaves like an engine while pretending to be a family. It draws in bodies, labor, attention, fertility, loyalty, and time; converts them into order, security, territory, production, and institutional continuity; then exports injury, displacement, disability, grief, ecological damage, and death into people it can afford to lose. Kinship language—motherland, fatherland, founders, sons and daughters, national family, sacrifice for future generations—turns expenditure into apparent love.
 
-This is where Enki/Ninmah, the Arta, courtly intrigue, registries, Crane, the healer's deification pressure, and Wren's social reading become entertaining. The danger is not only monsters above humanity. The danger is the ordinary human ability to turn care, classification, and protection into ownership.
+The global baby bust is one of the cleanest proofs, but its full meaning waits for Book III. Book I shows missing cohorts and the bureaucratic value assigned to young bodies. Book II tests bloodline against chosen family, loss, fosterage, and shared care. Only Book III names the contradiction: institutions lament that people no longer form families while preserving the housing, labor, surveillance, and attention systems that make durable intimacy difficult; then they call for births because the engine needs replacement labor. **A civilization can order reproduction; it cannot order belonging.**
+
+The metaphor must not flatten civilization into pure evil or misuse thermodynamics as literal social physics. Engines produce real work: medicine, food distribution, infrastructure, defense, knowledge, and coordination. That useful output is why people consent. The indictment is that institutions preserve their organized form by exporting entropy downward while treating organizational survival as identical to care. The people discarded are never waste in the novel's moral voice; **the engine treats them as exhaust, and the story restores them as persons.** Governing distinction: **A family remembers whom it has lost. An engine records what the loss purchased.**
 
 ### 7. Use prophecy as bait
 
@@ -150,6 +154,8 @@ The final revelation is not that aliens, gods, dragons, or councils explain ever
 > The point was never to become gods, kill gods, or serve gods. The point was to become capable of ordinary life without fear as ruler.
 
 That means the ending should feel like relief and earned maturity, not only shock.
+
+**The final revelation — LOCKED DIRECTION 2026-07-22 (author: "perhaps"; confirm at the Vol III beatsheet pass).** The last *cognitive* reveal of the trilogy, landing after the coexistence test and just before the emotional close, is the **Umul recovery** (`29` § The capstone): the Enki/Ninmah tablet breaks at the helpless one's fate; four thousand years of civilizations supplied the missing ending themselves (*the useless are useless* — the sorting's charter, the sacrifice-economy's license); the recovered piece says the answer was never assignment but **healing** — held before healed. Its reach: every society that ran on expenditure was a society missing the Life road; sacrifice was Knowledge-alone's workaround; **a civilization that can heal does not need its people to die for it.** It is the exact inversion of the sub-drone gut-punch (§ robot reveal): *we were made to be spent* → *we can be mended instead.* Placement rule: it must arrive as recovery and recognition (a lacuna filled, a practice already spreading), never as proclamation — and the final ordinary afternoon then reads as its proof: breakfast, work, repair, and a perimeter without funerals.
 
 ## Offstage presence — the three reveal tiers
 
@@ -217,9 +223,9 @@ Likely ending effect:
 
 Book I should end with **personal Manual Override**: Eli can feel a charge, recognize autopilot, and not let conditioning complete the action.
 
-### Book II — Family and civilization
+### Book II — Family and loss
 
-Primary reader hook: **relationship, ownership, healing, and institutional pressure**.
+Primary reader hook: **kinship, love, possession, release, and grief**.
 
 Discoveries and pressures:
 
@@ -227,17 +233,17 @@ Discoveries and pressures:
 - Wren's independent objective conflicts with Eli's trail.
 - The healer rises and is nearly deified.
 - Courtly intrigue, registries, factions, and prophecy pressure intensify.
-- Ancient stories reveal role-assignment, bread, usefulness, civilization as transferable knowledge, and the limit of compassion by assigned function.
-- The "humans as managed workforce" idea emerges.
+- Ancient stories and present households reveal how protection becomes possession, how usefulness can masquerade as love, and how descent can become rank.
+- Maren's love, protection, complicity, captivity, and loss refuse both the innocent-mother fantasy and the abandoned-child story.
 - The group learns to remain coherent together under charged fear rather than becoming a command hierarchy.
 
 Likely ending effect:
 
-> "This is about how people are owned by systems that claim to protect them."
+> "I was loved, but love does not mean I get to keep someone."
 
 Book II should end with **relational Manual Override**: the group can hold fear, loyalty, pain, and psionic pressure without collapsing into possession, worship, obedience, or betrayal.
 
-### Book III — Species and coexistence
+### Book III — Civilization, species, and coexistence
 
 Primary reader hook: **public test, species shame, and ordinary-life victory**.
 
@@ -248,12 +254,13 @@ Discoveries and pressures:
 - **Anu + 26** reframes the absence of the gods: not simply gone, not physically ruling, but still exerting nonlocal influence.
 - Technology and science become the way fear is reduced through standards, consent, accountability, and repeatable testing.
 - Humanity faces the mature test: register, worship, kill, exploit, or coexist.
+- The war, registries, labor systems, refugee sorting, and casualty ledgers reveal civilization as an engine wearing the face of family: people enter as kin and emerge as acceptable loss.
 - Eli refuses the amplifier or equivalent throne.
 - The coalition proves that dangerous conduct can be constrained without owning the being who carries the capacity.
 
 Likely ending effect:
 
-> "The victory is not power. The victory is no longer being ruled by fear."
+> "A system calling me family does not earn the right to spend me."
 
 Book III should end with **civilizational Manual Override**: humans share a world with powerful/different beings without kneeling, burning, caging, or turning anyone into property.
 
@@ -296,14 +303,17 @@ This is the coming-of-age of the species: not permanent transcendence, but wisdo
 
 Before drafting any chapter, identify which reader question it is feeding:
 
-1. What is wrong with Eli's life/body right now?
-2. What does this reveal about family, trust, or ownership?
-3. What institution or faction benefits from the wrong reading?
-4. What image, artifact, or event makes the mystery more concrete?
-5. What does the reader feel before they learn the term?
-6. What ordinary thing is being protected?
+1. What does the viewpoint character want now?
+2. What deeper desire might that immediate want betray?
+3. Who or what can legitimately refuse them?
+4. What is wrong with Eli's life/body right now?
+5. What does this reveal about family, trust, or ownership?
+6. What institution or faction benefits from the wrong reading?
+7. What image, artifact, or event makes the mystery more concrete?
+8. What does the reader feel before they learn the term?
+9. What ordinary thing is being protected?
 
-If a chapter only adds explanation, delay it or convert the explanation into a choice with cost.
+If a chapter only adds explanation, delay it or convert the explanation into a desire meeting refusal, choice, and cost.
 
 ## Present-day street skin (discovery pacing)
 
