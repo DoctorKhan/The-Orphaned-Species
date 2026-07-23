@@ -10,15 +10,15 @@ A living collection of real scientific papers, excerpts, and quotes that anchor 
 
 | Layer | Where | What | Reader effect |
 |---|---|---|---|
-| **1. Epigraph** | *Before* chapter or preamble (blockquote, one quote max) | Verified author words only — `[VERBATIM TODO]` until pasted from PDF | Myth first; then the floor tilts under it |
+| **1. Epigraph** | *Before* a chapter (blockquote, one quote max) | Verified author words only — `[VERBATIM TODO]` until pasted from PDF | Myth first; then the floor tilts under it |
 | **2. Prose** | Chapter body | **No** `(Zeberg 2020)`, **no** superscripts, **no** "studies show" unless a **character** says it (Emrys, a registry pamphlet, a harbor broadsheet) | Story stays story |
-| **3. On the Record** | *After* chapter (or after preamble), separated by `---` | 0–3 plain-language bullets + optional DOI; label in italics: *On the record* | Optional read for the curious; skippable without losing plot |
+| **3. On the Record** | *After* a chapter, separated by `---` | 0–3 plain-language bullets + optional DOI; label in italics: *On the record* | Optional read for the curious; skippable without losing plot |
 
 **Rules:**
 
 - **Default silent.** If a chapter has no cited anchor, omit *On the record* entirely — do not pad.
 - **Honesty in layer 3 only.** Distinguish **anchor** (real paper) from **gloss** (fiction). Example: *"Real COVID modulated severity in carriers; the novel's weapon is speculative."*
-- **Paragraph breaks in myth-historical prose** (preamble, Part II cadence): one beat per paragraph — weapon geography separate from coalition sort; puberty separate from bloc responses. Long blocks read like lecture; short blocks read like scripture.
+- **Paragraph breaks in myth-historical prose** (archival history, Part II cadence): one beat per paragraph — weapon geography separate from coalition sort; puberty separate from bloc responses. Long blocks read like lecture; short blocks read like scripture.
 - **Export:** Layer 3 can become endnotes, a closing *Notes on the Record* section, or stay inline in the markdown master — same content, three layouts.
 - **Master bibliography:** This file + `WORLD_BIBLE.md` §8. `MANUSCRIPT.md` carries only what belongs on the reader's path.
 
@@ -349,11 +349,11 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 ---
 
-## 5. Preamble science floor — COVID haplotype, retroviral activation construct, puberty epigenetics
+## 5. World-history science floor — COVID haplotype, retroviral activation construct, puberty epigenetics
 
-*Anchors for the near-future weapon and the puberty threshold in the **Preamble** and WORLD_BIBLE §§2–4. These papers do **not** belong quoted in full inside the preamble unless used as a dry epigraph; they are the **fact floor** under fictional escalation.*
+*Anchors for the near-future weapon and the puberty threshold in the archived history and WORLD_BIBLE §§2–4. These papers are the **fact floor** under fictional escalation; Book I delivers their consequences through residue rather than a historical preamble.*
 
-**Craft rule:** On-page preamble stays myth-historical. If a quote is used, let it land as an epigraph **before** or **after** the preamble, not as a footnote lecture inside it.
+**Craft rule:** Keep the archived history myth-historical and off-page. If a quote is used in the manuscript, let it land as an epigraph before a relevant chapter, not as a footnote lecture inside the prose.
 
 ### A. The chromosome-3 Neanderthal haplotype (COVID severity rhyme)
 
@@ -361,7 +361,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **The finding (paraphrase — confirm before quoting):** A major genetic risk factor for **severe** COVID-19 lies on **chromosome 3** (3p21.31 cluster) in a haplotype **inherited from Neanderthals**. Carrier frequencies vary by population — notably **common in South Asia**, **present at lower frequency in Europe**, and **often absent in East Asia** — creating the geographic **severity skew** the real pandemic showed, not a clean infection divide.
 
-**Why it matters to this book:** This is the **honest anchor** behind the preamble’s “activation construct / populations preferentially at risk” and the Mandate’s statistical sparing of East Asia. The novel **fictionalizes** the locus into an engineered **acute kill-switch**; real COVID did **not** work that way — it modulated **severity**, and everyone could be exposed.
+**Why it matters to this book:** This is the **honest anchor** behind the archived history's “activation construct / populations preferentially at risk” and the Mandate’s statistical sparing of East Asia. The novel **fictionalizes** the locus into an engineered **acute kill-switch**; real COVID did **not** work that way — it modulated **severity**, and everyone could be exposed.
 
 **Honesty flags for the author:**
 - Do not write “COVID targeted Neanderthal DNA” as literal history — write “**learning from COVID’s severity map**” or “**keyed to the same haplotype**.”
@@ -371,7 +371,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 > **[VERBATIM TODO]** — Zeberg & Pääbo abstract line on Neanderthal origin and chr3.
 
-**Suggested placement:** Epigraph facing **Preamble** (optional) or **Chapter 1** as counterpoint once Eli’s regional luck is visible; author note only in `WORLD_BIBLE.md` §8.
+**Suggested placement:** Epigraph facing **Chapter 1** as counterpoint once Eli’s regional luck is visible; author note only in `WORLD_BIBLE.md` §8.
 
 ---
 
@@ -385,11 +385,11 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **The finding (paraphrase):** A **gene drive** biases inheritance so a construct spreads through a population far faster than Mendelian rules. CRISPR-based drives are **plausible in insects** and discussed for disease-vector control; **human deployment using gene drives is not responsible science** and remains **speculative fiction** here. The novel’s weapon instead uses a **germline-integrating retroviral construct** that can pass to offspring without being a gene drive.
 
-**Why it matters to this book:** Explains “**even when cured, survivors passed it to their children**” and Phase 2’s universal latent construct without invoking magic. The preamble’s activation construct should be read as **retroviral + germline-integrating** (WORLD_BIBLE §2), not a gene drive.
+**Why it matters to this book:** Explains “**even when cured, survivors passed it to their children**” and Phase 2’s universal latent construct without invoking magic. The archived history's activation construct should be read as **retroviral + germline-integrating** (WORLD_BIBLE §2), not a gene drive.
 
 > **[VERBATIM TODO]** — one line from Esvelt et al. on CRISPR drives altering wild populations; or National Academies on uncertainty/containment.
 
-**Suggested placement:** Epigraph before **puberty / threshold section** of Preamble (second movement) or a late Vol I chapter when registry heritability is named.
+**Suggested placement:** Epigraph before a late Vol I chapter when registry heritability is named.
 
 ---
 
@@ -409,7 +409,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 > **[VERBATIM TODO]** — Lomniczi et al. line on epigenetic control of puberty onset.
 
-**Suggested placement:** Epigraph opening **threshold-house** chapter (Vol I Ch 1–2 region) or before Eli’s hidden puberty is named; **not** inside Preamble unless one line only.
+**Suggested placement:** Epigraph opening a **threshold-house** chapter (Vol I Ch 1–2 region) or before Eli’s hidden puberty is named.
 
 ---
 
@@ -469,6 +469,14 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **Use:** **Alba** = locked in-story name for the western carrier people (`30` generational war; `37` tracking arc). **Albion** = refuge geography. **Elf** = later folklore compression — present as **etymology / place-name fossil**, not species claim. Scottish **Alba** (Scotland) and Germanic **ælf** are **rhymes for the reader**, layered honestly in author notes only unless a character with linguistics says one line.
 
+### E. Tuatha Dé Danann / Sídhe — gods, mounds, and folklore protocols
+
+**Textual floor:** Irish narrative traditions do connect the Tuatha Dé Danann with magical knowledge, sovereignty, and later *síd* dwellings; later tradition refers to them as the Sídhe after retreat underground. Use the UCC **CELT** editions/translations (*Cath Maige Tuired*, *Metrical Dindshenchas*, and related tales) for primary-text wording and the National Museum of Ireland / Heritage Ireland for responsible public-history framing. Folklore archives such as **Dúchas** preserve local fairy-fort, changeling, seasonal, tree, and protective-practice accounts, but each item is a collected report, not proof of a single pan-Celtic system.
+
+**Honesty guards:** do not state that Shakespeare single-handedly invented miniature fairies; literary miniaturization has a longer history and Victorian illustration/children's culture intensified it. Do not present an iron-armed Milesian conquest of Bronze Age gods as settled ancient tradition. Do not call Newgrange simply a “fairy dwelling” or claim that this was its archaeological construction purpose; distinguish passage-tomb archaeology from later mythic association. *Sídhe* spelling and pronunciation vary by grammatical number and dialect; avoid a faux-language lecture on-page.
+
+**Cave gloss:** the novel may make some protocols operational—site-bound contact, mound paths, seasonal observation windows, a hawthorn boundary, **fresh rowan branches as a gentle threshold marker/buffer**, and deliberately grounded iron interrupting weak coherence—while keeping their universal folkloric explanation contested. Rowan protection belongs to recorded Gaelic folk practice, but the precise psionic mechanism is cave gloss. Governing material contrast: **rowan negotiates; iron breaks**. The taking may be partly real; changeling accusations against disabled, neurodivergent, sick, traumatized, or failing-to-thrive people remain human misrecognition and abuse. The story's claim is coexistence with powerful neighbors, not validation of every remedy performed in folklore's name.
+
 ---
 
 ## 9. The overhand throw — distance-killing as the human evolutionary edge
@@ -495,7 +503,7 @@ The key amplification: unlike physical predator adaptations (re-evolved slowly i
 **D. The weapon ladder — bow → crossbow → catapult → cannon → rifle → missile all extend the throw.**
 Every later ranged weapon is a development along one line of thinking that begins with a primate picking up a rock and throwing it: elastic-energy storage (bow), mechanical advantage (crossbow, catapult), chemical propulsion (cannon, rifle), and ballistic delivery (artillery, missile).
 **Why it matters to this book:** the concrete version of "Technology's hidden telos" (`00_MASTER_TIMELINE.md`:155) — explicitly: "Weaponry and surveillance are the apprenticeship captured by fear." Good anchor for an epigraph under that thread.
-**Suggested placement:** epigraph facing a preamble/technology beat, or an *On the record* note after a ranged-weapon moment.
+**Suggested placement:** epigraph facing a technology beat, or an *On the record* note after a ranged-weapon moment.
 
 **Chronology honesty (keep this visible):** the essay dates throwing *anatomy* to ~2 mya (*H. erectus*) and weaponized *hunting with hafted points* to ~300 kya (scavenging→active-pursuit shift around then). Your Ch 6.ii "Spear Moment" is anchored at **400 kya** (`37_deep_time_source.md`:442–443). These are consistent if the scene is read as the **cognitive/cultural TURN** — the deliberate act of distance-killing — not the anatomy (which is older). **Decision:** keep 400 kya as the mythic beat; add an *On the record* note that the shoulder hardware is older (Roach 2013). Do not let the essay redefine the book's core "danger" — physical predator dominance is grounding texture only; the actual stakes are the awakening receiver and the consciousness lock.
 
@@ -525,3 +533,18 @@ Every later ranged weapon is a development along one line of thinking that begin
 - Penn Museum / CDLI material for the Disk of Enheduanna if the physical object becomes relevant.
 
 **Caution:** Enheduanna herself is historically attested, but the authorship and final form of the attributed hymns require caveats because the extant manuscripts are later copies. Do not quote or build a plot turn from a line until the edition and translation are chosen.
+
+## Tao Te Ching 72 — the stepping-back master (author-selected 2026-07-23)
+
+> *When they lose their sense of awe, / people turn to religion. / When they no longer trust themselves, / they begin to depend upon authority.*
+>
+> *Therefore the Master steps back / so that people won't be confused. / He teaches without a teaching, / so that people will have nothing to learn.*
+
+**The trilogy's thesis in verse — mapping:**
+
+- *Awe lost → religion*: the kneel — Deiwos, the sons-of-Deiwos crown, Sol's mandate, the healer's deification pressure. Awe's genuine object (the living world, the web, the daylit sky) mislaid, and worship rushing to fill the vacancy.
+- *Self-trust lost → authority*: the registry thesis in one line — Crane's "safety as ownership," the arch, the desert-logic; and inward, the autopilot: the person who no longer trusts themselves obeys the engine.
+- *The Master steps back*: Eli's refused throne; Washington's step-down; temporary authority with expiry dates; the seed pattern transmitted as invitation, never command; "coordinate, then disperse."
+- *Teaches without a teaching*: **the lay teachings' literal design** — the unbranded curriculum (grounding as cooking, watch-keeping as seamanship, hosting as manners) — nothing presented as a system, therefore nothing to confiscate, register, or sell; and the reveal discipline itself (effects before doctrine; no thesis in dialogue).
+
+**Placement candidates:** Book III epigraph (the stepping-back volume — strongest); alternatively the lay-teachings/cloister movement. **Rights note (research pass):** the quoted rendering is Stephen Mitchell's (copyrighted); for publication use a public-domain translation (Legge 1891) or the author's own rendering from the Chinese, or clear permissions. The mapping survives any translation.
