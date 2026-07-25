@@ -15,9 +15,9 @@
 
 ## Chapter One — The Hour That Belongs to No One
 
-An old woman kneels underwater at the bottom of the sea, as comfortable as a cook in her kitchen. She has a curved knife, cutting stems into a net bag tied to her belt. A boy drops from the bright surface, finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again. She does not look up. She has another breath of row left and he has another game, and both have been true since before anyone poured concrete on the Reclamation.
+An old woman kneels underwater at the bottom of the sea. She holds a curved knife, cutting stems and methodically placing them into a net bag tied to her belt. A boy drops from the bright surface, lovingly finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again. She does not look up.
 
-From the fishing boat's gunwale Eli watches the two shapes move in the clear dawn water the way he watches kites — a thing that belongs to the strait and not to the Foundry schedule. Suresh names the grandmother the way you name weather. Timah. Her people keep the harbor fringe fed when the causeway queue eats the morning.
+Timah tolerates her grandson Jul well. From the fishing boat's gunwale Eli watches the two shapes move in the clear dawn water. Her people can hold their breath long underwater. They keep the harbor fringe fed when the causeway queue eats the morning.
 
 "You're late," Suresh says, which is how he says good morning.
 
@@ -1746,7 +1746,7 @@ Eli sits apart, holds the count, and keeps, in the cold operational silence wher
 
 He can hear the engine now without becoming it. Nine minutes with the charge at full song, and his hands stayed his — and what his hands did with the minutes was carry people. That is the skill. Not the door, not the record, not the wanting or the not-wanting of them: knowing, with the engine roaring, what his hands are *for*. It is the first thing he has ever owned that no one can confiscate.
 
-And the oldest lesson in the oldest hills, learned by basket-load in the dark: the center was not lost when Daskar's people buried it. It was kept. There is a way of holding a thing that looks, from the outside, like walking away — and the fill held for twelve thousand years, and the door is still there, and the counting men never got it.
+And the oldest lesson in the oldest hills, learned by basket-load in the dark: the center was not lo st when Daskar's people buried it. It was kept. There is a way of holding a thing that looks, from the outside, like walking away — and the fill held for twelve thousand years, and the door is still there, and the counting men never got it.
 
 ---
 
