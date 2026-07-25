@@ -245,6 +245,20 @@ Do not make the novel carry the explanatory duties of the Companions or Record.
 - Avoid repeated rhetorical templates, especially tricolons, oppositional aphorisms, and “not X but Y.” Their force declines quickly.
 - Trust a strong final image or action. Do not append its interpretation.
 
+### Opening-image discipline — LOCKED 2026-07-24
+
+Derived from the governing Ch 1 Timah/Jul pass. Apply to chapter opens, zero-significance plants, and any scene whose job is ordinary life before the breach.
+
+1. **Physical scene first.** Open on action and object — kneeling, cutting, placing, pushing off — not on what the image *means*.
+2. **No appended interpretation.** Cut similes and narrator thesis that explain permanence, contrast, or theme in paragraph one (*as comfortable as…*, *the way he watches kites — a thing that belongs to…*, *both have been true since before anyone poured concrete…*). Let worldbuilding contrast arrive when Eli moves through the day.
+3. **One precise word over a decorative simile.** Prefer a single earned adverb or verb (*lovingly*, *methodically*) to a comparison chain.
+4. **Name people plainly; give a dry character beat.** Introduce by name when naming helps. One wry line of relationship (*Timah tolerates her grandson Jul well*) beats lyric indirection (*names the grandmother the way you name weather*).
+5. **Observable fact over mystification.** State what Eli would simply know (*Her people can hold their breath long underwater*) instead of framing biology as poetry or portent.
+6. **Zero-significance plants stay unfreighted.** Tree of Life warm images, robot dog, mall aunties, harbor meadow — warm, specific, funny, ordinary. Do not foreshadow cosmology in the plant scene.
+7. **Cut "the way you…" simile templates** unless the comparison is trade-specific, immediate, and irreplaceable — and never in the opening image.
+
+Revision test for any paragraph: if removing the last sentence changes only the theme, not the scene, remove the last sentence.
+
 ## Project-specific guardrails
 
 Avoid:

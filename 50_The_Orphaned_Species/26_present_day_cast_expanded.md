@@ -287,7 +287,9 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Bio:** old friend of **Rasel Khan** — Rasel planted for him on **Old Pelangi** before the Reclamation towers. When the net broke after extraction, Rasel sent **a name, not money**; Babaji gave Eli **work at Foundry, not a wallet**. Keeps a small **keeper cell** (tea room, harbor threads) but is **not** a mystic order head.
 
-**On-page texture:** plaza **robot dogs** (Eli resets routes as facilities hand); **automatic chess boards** in the workshop/tea room; marooned luxury car; kettle, four quiet men, *door was open*.
+**On-page texture:** **old hotel** on the Reclamation (half boarded, half laundry — keeper base, **tech labs**, **portable brain scanners**, tea room); plaza **robot dogs** (Eli resets routes as facilities hand); **automatic chess boards**; wine-coloured car parked outside; kettle, four quiet men, *door was open*.
+
+**Pelangi Reclamation — LOCKED 2026-07-24 (rev. D):** **not an active tech hub.** The **Forest City / Forest Foundry megaproject failed** and the founders **walked away**; the resort shell is **abandoned mid-boom**, repurposed as **refuge**. Babaji kept critical systems alive (desal, pumps, generators) and runs a **keeper cell** from the **old hotel** with leftover tech — robot dogs, chess boards, brain scanners, patched uplinks — **not** a startup floor. Royal kiosks still **claim** climate-future propaganda; the lived place is **Mei's terrace, tower gardens, and maintenance debt**.
 
 **Ch 1 beats — LOCKED:** tea — *Rasel's boy; work not wallet; walk under my name*; keeper refusal named. Pier — orphan reveal (*both taken; dead on the file so you could live*); Eli **still boards**.
 

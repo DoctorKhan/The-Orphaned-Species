@@ -183,8 +183,8 @@ By 2040, elites **know** carriers exist:
 ### Pelangi Reach (made home)
 
 - **Status lock:** Pelangi Reach is formally **Coalition gray space**, economically dependent on **Mandate-linked Meridian City**, and politically tolerated until the **Mandate squeeze** (Babaji keeper cell refused flagged-carrier transfer; corridor/registry hold — not a staged attack). It is outside Continental Union jurisdiction and not Mandate territory; dependence is economic and logistical, not sovereignty.
-- Repurposed **resort / special economic zone** energy — half-finished towers, Forest Foundry builders, wartime **voluntary** quarantine culture.
-- **2040:** not ghost city; **functioning refuge** with mall aunties, compound crew, terrace cafe, sail training, robot dog on its route.
+- **History:** **Forest City / Forest Foundry** megaproject + resort SEZ — **failed and abandoned** when the outbreak hit; founders left. **Babaji** kept the Reclamation corridor alive as **accountable refuge** (desal, pumps, old **hotel** base with **tech labs**, **portable brain scanners**, **robot dogs**).
+- **2040:** not ghost city; **functioning refuge** in a dead resort shell — mall aunties, compound crew, Mei's terrace cafe, sail training, robot dog on Babaji's patched route.
 - Under pressure: travel warnings, psion surveillance, supply chain dependence on Suresh-class boats.
 
 ### Strait geometry — Mandate throat, Coalition lungs, Meridian ledger — LOCKED 2026-07-24
@@ -198,7 +198,7 @@ By 2040, elites **know** carriers exist:
 | **Singapore / Meridian City / the Stack** | **Eastern Mandate** | De facto **administrative + maritime capital** — port, finance, quarantine, translation, archives, risk codes | **By function, not throne:** security, industry, energy, launch stay **polycentric** across member states. Coordinates the strait; does **not** own Coalition ports. |
 | **Strait of Malacca** | **Contested geography** | Global choke for eastern energy, food, rare inputs, remittance, refugee, and gray traffic | Mandate **needs** it; Union and Mandate **both press** it; Coalition **routes around** official corridors (Weavers' Net, threshold houses, **Harbor Thread**). |
 | **Malacca** | **Free Ports Coalition** | Reopening **entrepôt** — plural port law, chandlery handoffs, biosecurity cover | **Not** Singapore; **not** Mandate soil. Noir counterpoint to Stack atomization. |
-| **Pelangi Reach (Johor)** | **Coalition gray space** | Tech/refuge hub, half-built resort shell | **Economically dependent** on Mandate-linked Meridian; **sovereignty not** Mandate. Causeway geography without merger. |
+| **Pelangi Reach (Johor)** | **Coalition gray space** | **Abandoned resort / failed Forest City shell → refuge** | **Economically dependent** on Mandate-linked Meridian; **sovereignty not** Mandate. Babaji's old-hotel keeper cell. Causeway geography without merger. |
 
 **Performance vs. real throughput (2040 texture):** Mandate and Stack dashboards can show **competence and reopening** while strait traffic, remittance, tourism, and smallholder margins run **thinner** than aggregate statistics imply — the same structural rhyme as proxy metrics (electricity, freight, credit) diverging from headline growth, without naming real-world states on-page. **Cherry Cube** frictionless care vs. **Cherry Lane** roots cracking the ceiling; Malacca heritage signs vs. empty trishaws; Pelangi towers vs. island water stress.
 

@@ -3,7 +3,7 @@
 > **Drafting lock:** present tense, close third. Eli is the home consciousness. Book I remains in Eli except for Wren's Chapter 4 Laleh-extraction opening, separated from the return to Eli by a hard section break. One scene never enters more than one mind. Governing rule: `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED*.
 
 > **Opening alignment — LOCKED 2026-07-24 (rev. C):** **Ch 1** earns Pelangi on the **old island** (beach, fishing, chosen family) and the Reclamation hearth; **Mandate squeeze** lands at night while Eli still holds a **scheduled Cherry Cube contract**; he **leaves on time** for Meridian as a worker — hearth **suspended**, not burned in a resort chase. **Ch 2** is checkpoint gauntlet → epic **Meridian City** (intake **wrong-room overhear**, ring photograph, **concert hunt**, Circuit race escape) → Straits → Malacca breach. Pelangi kiddy-car chase **retired** to quarry. Breach still end Ch 2. **No Thailand body memory before Ch 5** — martial/chi first on-page in Thailand Ch 5–10. **Malacca:** talents **activate** (receiver ON, flare) — **not trained** (no martial, no psi control). Cube grounding gesture = **Maren**, not martial foreshadow. Receiver activations at arch/intake/strait/roof only.
-> - **Ch 1 (below):** governing draft — **Timah/Jul harbor-meadow open** (Tree of Life plant, zero significance), then old-island fishing, Reclamation garden/shift, Mandate squeeze at night; Eli **boards on schedule** for Circuit weekend (Option A). **Farida remittance** + Babu dak nam seeded.
+> - **Ch 1 (below):** governing draft — **Timah/Jul harbor-meadow open** (Tree of Life plant, zero significance), then old-island fishing, Reclamation garden/shift (**abandoned resort refuge**, Babaji **old hotel** + patched tech), Mandate squeeze at night; Eli **boards on schedule** for Circuit weekend (Option A). **Farida remittance** + Babu dak nam seeded. **Style pass 2026-07-24:** opening-image discipline per `14` § *Opening-image discipline*.
 > - **Ch 2 (below):** governing draft — **causeway/checkpoint gauntlet**, Meridian epic, intake flag + ring photo, Cherry Cube concert hunt, Circuit escape; Malacca breach at chapter end. No Pelangi chase. **No pre-Ch 5 martial leaks.** Maren grounding at Cube overload; receiver activations — **activation without training**.
 > - **Ch 3 (below):** governing draft, **merged 2026-07-22** — aftermath through "I'm not going dark." Decision record: `DECISIONS_Chapter_Three.md` flags.
 > - **Ch 4–10 (below):** Thailand agricultural witness sequence — **Ch 5–10 governing draft 2026-07-23.** Rebuilt from retired Mekong quarry; beats per `31`. Decision records: `DECISIONS_Chapter_Four.md`, `DECISIONS_Chapters_Five_Six.md`, `DECISIONS_Chapters_Seven_Eight.md`, `DECISIONS_Chapters_Nine_Ten.md`. Working prose sandbox: `WORKING_Thailand_Chapters_Five_Ten.md` (merge into here when stable).
@@ -17,83 +17,39 @@
 
 An old woman kneels underwater at the bottom of the sea. She holds a curved knife, cutting stems and methodically placing them into a net bag tied to her belt. A boy drops from the bright surface, lovingly finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again. She does not look up.
 
-Timah tolerates her grandson Jul well. From the fishing boat's gunwale Eli watches the two shapes move in the clear dawn water. Her people can hold their breath long underwater. They keep the harbor fringe fed when the causeway queue eats the morning.
+Timah tolerates her grandson Jul well. Eli watches from Suresh's boat, then goes back to coiling line.
 
-"You're late," Suresh says, which is how he says good morning.
+Pelangi is two islands joined by a causeway. **Old Pelangi** — fishing quays, Mei's terrace, the morning he shares with Kiran. **The Reclamation** — half-built resort the Forest City founders walked away from; Babaji's generators and refugees in the towers across the strait. Eli works both sides. Most days he starts here and crosses before the queue wins.
 
-"We're early," Kiran says. "You're just old."
+Mei's boy hits the quay with coffee. "She says eat. Causeway's two hours already. Priya says worker lane — don't stand in the wrong line."
 
-Suresh snorts and hands them each a line. The water is still grey. The koel starts on the headland — one note, then the same note higher, climbing until it breaks — and somewhere on the Reclamation side the swiftlets will pour out of their nest-house in a minute, but here the sound is only birds and diesel and men talking in three languages about where the current broke last week.
-
-They work the near set in silence. Eli feels the line through his palms the way he feels a cable — tension, give, the moment before something decides — and when the net comes up heavy he and Kiran haul together, knees braced. Small fish flash in the mesh. A crab clicks once and is thrown back.
-
-Mei's boy comes down the quay with a thermos and two cups before the sun clears the storm wall. He doesn't speak to the fishermen; he speaks to Eli. "She says eat. She says don't fall in. She says the causeway queue is already two hours and getting longer."
-
-"Tell her the queue can wait," Kiran says.
-
-"The queue never waits," the boy says, and goes.
-
-Eli drinks sweet coffee from the thermos lid and watches the Reclamation rise across the strait — half-built, lit already in places where founders never sleep, the waterpark slides dark silhouettes against a sky going pink. Past the rail on that side, when he crosses later, the other towers stand black and half-open — families on poured concrete, laundry lines between scaffold poles, children with no wage ticket and no old man who owes their father a favour. He has no money and no country. He has a key to the water and a plot on nine and a job because Rasel knew Babaji before the hunt. That is luck, not merit, and most mornings the view from the fishing lane reminds him before the laptops open.
-
-They run the near set twice more. Suresh pays in chits, not cash — credit at Mei's terrace, which is how most of the old island pays most of the new one — and Eli coils his line and slings the pole towel over his shoulder.
-
-"Circuit tender tonight," Suresh says, casual as weather. "I run rice at dusk. You be on the manifest as deck casual if Priya fixed it. Don't make me lie for free."
-
-"I won't."
-
-"Then don't miss the queue." Suresh looks at the causeway, where even from the water Eli can see the brake lights beginning. "They're measuring again. Hold still when they tell you. Boring is a skill."
+Suresh pays in chits, credit at Mei's terrace, and nods at the brake lights stacking on the bridge. "Circuit tender tonight. Deck casual on my manifest if Priya fixed it. They're measuring again. Hold still when they ask. Boring is a skill."
 
 ---
 
-On the causeway the queue is already what Mei warned — cars, scooters, foot traffic, a line of bodies under awnings put up overnight, people with bags and papers and the flat faces of those who have done this before and will do it again. A banner reads **DOCUMENTATION REVIEW IN PROGRESS** in three languages. A drone passes overhead, not stopping. Someone has hung a second banner beneath the first, hand-painted: **WE ARE NOT A WARD.**
+The causeway is the only road between the islands, and today the whole strait is in it — cars, scooters, foot traffic, bodies under awnings, bags and papers, faces that have done this before and will again. **DOCUMENTATION REVIEW IN PROGRESS**, the banner reads. Hand-painted beneath it: **WE ARE NOT A WARD.** A drone passes overhead. Does not stop.
 
-Eli shows Priya's contractor slip and the Foundry access card and is waved into the worker lane, which moves faster until it doesn't. Here the machine is only a tablet and a woman in a royal vest who asks the same questions in the same order: destination, duration, employer, health attestation. Eli answers: Meridian City, forty-eight hours, Cherry Cube show crew, Forest Foundry contractor. His palms prickle once on the railing — useless read, mixed noise — and he keeps his eyes on the paint.
+The general line barely moves. The **worker lane** moves when you have paper. Eli has Priya's contractor slip and a Foundry access card from the dead megaproject — still good at the gate. Tablet, royal vest, four questions in order: where, how long, who pays, health check. Meridian City. Forty-eight hours. Cherry Cube show crew. His palms prickle once on the railing — useless noise — and he keeps his eyes on the paint.
 
-Green stamp. Worker lane. He crosses before noon with Kiran beside him on the tandem, poles still rolled, both of them laughing once about the woman who asked if they were brothers and Kiran said "cousins" in river vowels so fluent the stamp came faster.
+Green stamp. He crosses before noon with Kiran on the tandem, poles rolled, laughing once when the gate woman asked if they were brothers and Kiran said "cousins" in river vowels so perfect the stamp came faster.
 
-The Reclamation receives them as noise.
+The Reclamation is noise — laundry, generators, Mei's terrace already cooking. Eli moves a black queen one square under the shade sails on his way to the stairs; someone swears from a balcony and he keeps climbing. Third floor, Rina's fire door. Fifth, Mrs. Dutta's potting mix. Ninth, the garden plot Rasel kept for Babaji.
 
-Under the shade sails, the chess boards are already playing their little wars. Two house crows argue on the awning frame. Eli moves the black queen one square on his way to the stairs.
+The seedlings have come up pale again. He pinches one off — too thin — and works the row on his knees. His palms prickle around the stems, his mother's useless read, and tell him nothing.
 
-"Hey," someone calls from the balcony above the closed cafe. "That was mine."
+"Mine also," Mrs. Dutta says. "Two weeks. Nothing takes." "The heat."
 
-"Then stop losing to furniture," Eli says.
+"The heat," Eli agrees.
 
-The voice laughs. Someone higher tells them both to shut up in a tongue Eli knows from the boat, and the sound travels down the concrete shaft with salt, old paint, and breakfast oil.
+He has no money and no country. He has this plot and a facilities ticket because Rasel knew Babaji before the hunt. That is luck, not merit.
 
-On the third floor he fixes Rina's fire door with the brick she keeps hidden behind the planter. On the fifth he lifts Mrs. Dutta's abandoned sack of potting mix and carries it up because everyone else will walk around it all day, and everyone will notice if he stops being the person who doesn't.
+A robot dog barks on Babaji's patched plaza route. On the terrace below, someone tunes a guitar for lunch. Eli likes the hour before the band starts — before the chit queue, before the health kiosk asks for another voluntary signature.
 
-By the time he reaches the ninth-floor garden, his shirt is damp and the first workers are calling to one another below.
+He's humming before he notices. Three notes, then four — his mother's garden song. He stops. Stopping is the only way he has left to hear her.
 
-The seedlings have come up pale again. He pinches one off at the base and rolls the stem between his fingers. Too thin. He lays it on the concrete lip with the others and works down the row on his knees, checking each one by feel.
+Down in the compound a van he doesn't know backs to the terrace service gate, two men unloading matte cases without speaking. He files it and keeps walking.
 
-The soil is damp. When he closes his fingers around a stem his palms prickle — the useless read his mother had, not his father's — and tell him nothing about what the plant needs.
-
-His father did this part with his eyes shut. Eli tries it with his eyes shut. The plants still come up pale and stop.
-
-Mrs. Dutta comes up for her water at the usual time and stands over his row with her hands on her hips.
-
-"Mine also," she says. "Two weeks. Nothing takes." She offers it the way people here offer condolences, which is to say as company, not as information. "The heat."
-
-"The heat," Eli agrees, and is grateful to her, and goes on pinching out the dead ones.
-
-A generator catches somewhere below. Beyond the rail the water is coming up out of grey, and for a few minutes before the sun clears the headland it is the colour that made somebody decide to build a resort here. He can smell mud and frying oil and the sweet rot under the coconut palms. Two men are already in the trees by the promenade, knocking coconuts down into a net while a third stands below and tells everyone not to die in the tongue the resort hired for.
-
-Off the west face the kites are up, three of them, riding the morning in slow circles the way they have every day of the world. Except they are not where they belong. That thermal has been theirs since before the towers went in; this week they have moved out over the channel and are working a line above open water, which is a stupid place to hunt. Nobody would notice but a fisherman, and Eli only notices because he watches them while his hands do the row.
-
-Wind, he thinks, and goes back to the seedlings.
-
-Pelangi Reach is a tech carnival that decided to be a refuge instead. The waterparks are already pumping — slide spouts hissing, splash drums thudding through the raw-concrete bones of the half-finished resort. The children's train starts its bright useless loop at dawn, bell dinging, no passengers, bravely circling a plaza full of men in wet hair and open laptops who are pitching companies and countries. A terrace band tunes for the lunch showcase. A robot dog barks at nothing on its plaza route. The founders think they are building a future. The waterpark thinks it is a theme park. The only thing both agree on is that the place should be louder than it was yesterday.
-
-Royal screens call the Reclamation — the smaller island, poured up out of spoil and confidence — the country's sovereign climate future: desalination, flood prediction, vertical farms, no dependence on anyone. The systems work. During the last heat alert the Foundry clinic stayed cold and the surge gates kept the worker towers dry. Across the causeway, on the old island that holds this one up, three wards took turns petitioning for the water pressure the royal campus received automatically. Eli knows because he changes the filters on both sides of the promise.
-
-Eli likes it best before the band starts. Before the Slack pings stack. Before the pitch decks come down to the terrace and the rehearsed optimism fills the air like another layer of heat.
-
-He's humming before he notices. Three notes, then four, the small turn of it — the song his mother used to hum in the garden when she thought he was asleep. He stops, because stopping is the only way he has left to hear her. Her silence has a shape. He finds its edges the way you find a missing tooth with your tongue.
-
-Down in the compound a van he doesn't know stands backed to the terrace service gate, two men handing down matte cases without speaking. Not the lunch band — bands load in at noon, loudly. These two move like men who have been told not to wake anyone. He files it and keeps walking.
-
-The Forest Foundry block is still half scaffold and half dream — glass that never arrived, lobby full of cable drums, whiteboards bolted to raw concrete. Eli resets the plaza robot dog, patches the fire door on the loading bay Mei uses for crates, runs a test line for the terrace uplink before the founders come down. The uplink has to hold through the noon demo — nine investors on a call out of three time zones, and the founders have put the word *seamless* in writing to all of them. Over a junction box his mind goes quiet — the way it does over a clean splice and in the dirt and nowhere else.
+The Foundry block is ruin — cable drums, dead whiteboards, glass that never came. Eli resets the robot dog, patches Mei's loading-bay door, tests the terrace uplink before noon rush: chits, kitchen orders, the brain scanner Priya borrowed from Babaji's old hotel. Over a junction box his mind goes quiet — the same quiet as over a clean splice and in the dirt.
 
 Priya finds him on the ladder with her tablet against her hip. She schedules him, which means she also scores him: tickets closed, tickets reopened, a number at the bottom of a page he has never been shown that decides whether the compound goes on buying his hours. He is not staff. Nobody who carries a ladder here is staff.
 
@@ -121,7 +77,7 @@ It isn't really a question. Priya answers it anyway. "Because he's alone. Becaus
 
 "Voluntary is what they call it when the form already has your name," Priya says. "Don't say it in that voice where the walls have ears." She's already walking. "Noon, Eli."
 
-His phone buzzes once in his pocket — encrypted header, Dhaka prefix, the cousin who still sends photos of Rasel's garden as if soil could argue with the dead. He doesn't open it on the ladder. He already knows what it will ask for — remittance, a garden photo, and the old habit of calling him *Babu* in Bangla when English feels too official.
+His phone buzzes once in his pocket — encrypted header, Dhaka prefix, the cousin who still sends photos of Rasel's garden. He doesn't open it on the ladder. He already knows what it will ask for — remittance, a garden photo, and the old habit of calling him *Babu* in Bangla when English feels too official.
 
 "Circuit weekend," she says over her shoulder, because she schedules everything and pretends she doesn't keep his life in her tablet. "Cherry Cube show crew — stage power, wardrobe uplink, the idol's race-night set. Triple Pelangi rate if you make the Friday tender and don't get turned at intake. I put you on the list."
 
@@ -141,59 +97,51 @@ Then the words go empty.
 
 Priya calls a ticket number and it reaches him as sound and nothing else. He looks up and her face is there, a face he has worked beside for a year, and for a second it will not go together into anyone he knows. The ladder tips in his inner ear. He looks down at the cable in his hand and cannot say what it connects.
 
-The hands keep going. That is the trick — let the hands work while the head catches up. His mother taught him the breath part, in rooms he can barely remember; the splice part he learned here, on the ladder, the way workers learn anything: by doing it until the body outruns the thought. They crimp, tie, coil, and he comes back to himself somewhere around the next ticket, sweating, with Priya watching him in a way she has never watched him before.
+The hands keep going. That is the trick — let the hands work while the head catches up. His mother taught him the breath part, in rooms he can barely remember; the splice part he learned here, on the ladder, by doing it until the body outruns the thought. They crimp, tie, coil, and he comes back to himself somewhere around the next ticket, sweating, with Priya watching him in a way she has never watched him before.
 
-The uplink drops eleven minutes into the demo. It is the forklift, exactly the forklift, and it takes him four minutes to find and ninety seconds to fix, and none of that is the part anyone will keep. What the room will keep is that the man who was asked to be findable at noon was standing in a service corridor with a cable in his hand, not answering.
+The uplink drops eleven minutes into the lunch rush. It is the forklift, exactly the forklift, and it takes him four minutes to find and ninety seconds to fix, and none of that is the part anyone will keep. What the terrace will keep is that the man who was asked to be findable at noon was standing in a service corridor with a cable in his hand, not answering.
 
 Priya reopens the ticket, because she has to. She does not look at him while she does it.
 
 Outside the awning a drummer from the terrace band has stepped off the stage. He is not looking at the crowd. He is looking at the compound.
 
-The guitar keeps finding the four notes, over and over in the set, the way a man might knock on a door until someone opened it.
+The guitar keeps finding the four notes, over and over in the set.
 
 Mei sees Eli see the drummer. Her face does not change. She calls the next order louder.
 
 ---
 
-By the time the demo thins out, the terrace is littered with cups and the founders have gone back to their screens.
+By the time the lunch rush thins out, the terrace is littered with cups and Mei is wiping down alone.
 
-Mei's Friday staff meal is mee goreng with the burnt edges left in on purpose, because Eli once said the burnt edges were the point, and she has remembered it for a year without ever mentioning it, the way she remembers everything. He eats it on an upturned crate with his back against the warm concrete, sweet soy and char and the snap of prawn, and for the length of the plate the noise of the world is just the sound of a place working.
+Mei's Friday staff meal is mee goreng with the burnt edges left in on purpose, because Eli once said the burnt edges were the point, and she has remembered it for a year without ever mentioning it. He eats it on an upturned crate with his back against the warm concrete, sweet soy and char and the snap of prawn, and for the length of the plate the noise of the world is only the sound of a place working.
 
-Then he coils cable on the service side, moving through the familiar aftermath as if motion alone could keep the song from settling under his ribs.
+Then he coils cable on the service side, moving through the familiar aftermath.
 
 Suresh comes in to settle the week, supplier and boatman and fixer when something has to move through a port without becoming paperwork. He counts out the chits with Mei at the till, low, the two of them bent over the money, and Eli is not listening because he is never listening. It is how he gets through a room.
 
-Then a few words cross the terrace and catch in him like a hook.
+Then a few words cross the terrace and catch.
 
 The English woman. Her song.
 
 He stops coiling.
 
-Suresh has felt it. He does not turn around. He keeps his voice down and his eyes on Mei, like a man who has decided the boy can hear the thing but will not be handed it.
+Suresh has felt it. He does not turn around. He keeps his voice down and his eyes on Mei.
 
 "Somebody paid that band," he says to her. "They weren't here for Friday music. They were watching the room." Mei has gone still. "There's a man in Malacca asking after the English woman. By name. Says he's got something of hers, and he'll only put it in the right hands." He sets his cap on the counter. "There. I've carried it. I'm square. I came to you because they brought the song into the terrace. Do what you want with it."
 
-Mei doesn't answer for a moment. Then she turns and looks across the cafe at Eli, who is standing very still with a coil of cable in his hands, and her face shuts like a door.
+Mei doesn't answer for a moment. Then she turns and looks across the cafe at Eli, who is standing very still with a coil of cable in his hands, and her face shuts.
 
-"Leave it." She says it to him, not to Suresh. "No one brings a song into your workplace after this long to do you a favour. You've got a place here. A door that locks. People who'd stand in front of you." She holds his eyes. "We feed people before we file them. That's more than most — and you know it."
+"Leave it." She says it to him, not to Suresh. "That's bait, not a map. You have the Circuit tender at dawn — Meridian, triple rate, Priya's list, your cousin's rent. You don't add Malacca to a week that's already full." She holds his eyes. "You've got a place here. A door that locks. People who'd stand in front of you. We feed people before we file them. That's more than most — and you know it."
 
-Ten years since they took her — ten years since the keepers told a boy with no papers he was alone.
+Ten years since they took her — ten years since the keepers told a boy with no papers he was alone. The song under his ribs answers before his mouth can.
 
-"Where in Malacca?" Eli says.
-
-Mei doesn't move. "You don't even know what's in it."
-
-"No."
-
-"Then don't go."
-
-He looks at the water through the open door, dark beyond the terrace lights. His palms tingle on the cable — the mother's useless read, not a flare yet — and for once he does not hate it. It is what walked him here.
+His palms tingle on the cable — the mother's useless read, not a flare yet. He does not ask where in Malacca. Asking would make it real, and tomorrow he is on Suresh's manifest with a tool roll and a Cherry Cube call sheet, not chasing a tune someone paid to put in the room.
 
 Mei locks the till. The click is small and final.
 
-"That's not a reason to run," she says.
+"Eat," she says. "Sleep where Priya can find you. That's the job."
 
-He doesn't answer. There is no good answer. There is only the song, still under his ribs, and the place where it wants to take him.
+He goes back to coiling. The song stays under his ribs anyway.
 
 ---
 
@@ -203,21 +151,19 @@ The nest-house by the fuel dock is still calling. It calls all night — a loop 
 
 Tonight he hears it, because nothing is coming back. At dusk they should pour in the way they pour out at dawn. He stands under the tower with his head back for longer than he means to. A man passing on a scooter tells him the east house has been empty a month, that it is the new construction, that it is the operator two docks down who put up a louder speaker, that it is the weather, the water, the government. He has an explanation for everything and money in one of them, and he is gone before Eli can ask which.
 
-Past the half-laid promenade he sees it: a car that does not belong to this decade or this poverty. Long, low, the colour of old wine, parked crooked where the pavement gives out. A marooned thing, loved enough to be pushed clear of the water.
+Past the half-laid promenade the old hotel stands red under the dirt — half boarded, half laundry. A reopening notice on the lobby glass has sun-bleached to nothing. Babaji's wine-coloured car sits crooked where the pavement gives out; the door that matters is the side entrance, always open after dark.
 
-Its doors stand open onto a lit room. He assumes a showroom — the resort sold everything once, even the dream of owning it. He steps through.
+Inside: a long table, a kettle, four men who look up as one. An automatic chess board clicks through a game with itself against the far wall. Through an open door Eli can see lab benches and a portable brain scanner in its case — Babaji's, not the Mandate's.
 
-Not a store. A long table, a kettle, four men who look up as one. Against the far wall an automatic chess board clicks through a game with itself, pieces sliding on a glass grid while nobody watches.
-
-For a breath they are exactly what the world has taught him to fear: broad, quiet, the kind of still that comes from having decided things about people. Then the oldest sets his cup down and smiles like a man surprised by a child in his workshop.
+For a breath they are exactly what the world has taught him to fear: broad, quiet, the kind of still that comes from having decided things about people. Then the oldest sets his cup down and smiles.
 
 "Come in, boy. The door was open. You came in, so you came in."
 
-They are not the registry. They carry none of the careful cold of men who keep lists. They are something older and softer and possibly more dangerous, the way a cliff is.
+They are not the registry. They carry none of the careful cold of men who keep lists. They are something older and softer and possibly more dangerous.
 
 He should leave. A pressure builds under his palms — the useless read stirring before a door that matters. He stays.
 
-The young one pours tea without being asked. "You're his," he says, not a question, the way you name the owner of a dog.
+The young one pours tea without being asked. "You're his," he says, not a question.
 
 Eli does not know who *his* is. He says nothing.
 
@@ -231,15 +177,15 @@ He looks at Eli plainly. "You're carrying something. Or something's carrying you
 
 He sets the cup down harder than the tea required. "We kept a child the Stack wanted at the causeway. We moved a packet they thought was theirs. The Mandate does not shout. It sends white coats and a king who needs their desal parts." A beat. "You have the idol's party tomorrow. Triple pay. Stage crew, not guest list — don't be late and don't be visible in the wrong corridor."
 
-Eli thinks of the song under his ribs, of Malacca, of the man who had asked after his mother by a tune. "Does he know people in Malacca?"
+"The band on the terrace—" Eli starts.
 
-The old one's eyes sharpen, then soften. "Everyone who matters in this strait knows the old man. You tell the right door you came from him, and the right door opens. You tell the wrong door, and we'll be having this tea with one fewer chair." He pushes the cup closer. "Drink. Names are for doors that know how to listen. You'll know when you need this one."
+"Bait," Babaji says. "Someone fishing the strait with your mother's tune. Malacca can wait until you're paid through Meridian." He pushes the cup closer. "Drink. Names are for doors that know how to listen. You'll know when you need this one."
 
 ---
 
 The tea is still warm in him when the light changes.
 
-He is halfway back along the unfinished promenade, keeping to the seaward side where the concrete is poured and the rebar isn't waiting for a shin. Across the basin the terrace is still lit — the founders keep the band late on Fridays, a dinner set for whoever is left pitching — and the music carries over the water the way sound does at night, arriving softened, almost kind. The guitar finds the four notes again. Eli stops walking to listen, because stopping is the only way he has left to hear her.
+He is halfway back along the unfinished promenade, keeping to the seaward side where the concrete is poured and the rebar isn't waiting for a shin. Across the basin Mei's terrace is still lit — she keeps the kitchen open late on Fridays — and the music carries over the water, softened. The guitar finds the four notes again. Eli stops walking to listen. Stopping is the only way he has left to hear her.
 
 Then the basin fills with something that is not music.
 
@@ -247,15 +193,15 @@ White hulls at the causeway — Mandate livery on one, royal police on another, 
 
 *Voluntary.* The word has the same temperature as Priya used it at noon.
 
-On the terrace the song stops mid-phrase — not because anyone understood, because white coats are already moving through the founders' tables with clipboards and the walk of men who have done this in other ports. Eli watches from the unfinished promenade: not Union black, not Coalition green — Mandate grey at the collar, Eastern health patches, the wrong kind of fever check. He does not run toward it. Everyone with sense is running the other way, and Mei is among them, jug in hand, doing what she always does.
+On the terrace the song stops mid-phrase — not because anyone understood, because white coats are already moving through Mei's tables with clipboards and the walk of men who have done this in other ports. Eli watches from the unfinished promenade: not Union black, not Coalition green — Mandate grey at the collar, Eastern health patches, the wrong kind of fever check. He does not run toward it. Everyone with sense is running the other way, and Mei is among them, jug in hand, doing what she always does.
 
 At the muster point Priya has the access list out and is calling names in ticket order — except the list already has a second column Eli has never seen on a muster sheet, and three names in it were written before the drone spoke. Someone reads aloud: unauthorized threshold integration. Refusal to transfer flagged persons for extended assessment. Cohort review — **anomalous residents**.
 
 The sentence was written before the white coats reached the terrace.
 
-Eli looks for the drummer in the emptying crowd. The band is gone — instruments, cables, the drum box, vanished in the time it takes a terrace to empty. He will braid the four notes and the floodlights together for the rest of his life, and he will be wrong to, and it will not matter.
+Eli looks for the drummer in the emptying crowd. The band is gone — instruments, cables, the drum box, vanished in the time it takes a terrace to empty.
 
-Every phone in the plaza loses its bars at once. The Slack pings stack, and stop.
+Every phone in the plaza loses its bars at once. The chit pings stack, and stop.
 
 ---
 
@@ -263,7 +209,7 @@ At first light he packs the tool roll — crimpers, testers, spare ties, the Fou
 
 Mei meets him at the service door with two boiled eggs and a bag of rice crackers and does not hug him, because hugging is a thing that gets filed.
 
-"Make the tender," she says. "Don't stop. Don't come back through the causeway if they turn you — go forward. Forward pays." She holds his eyes. "We feed people before we file them. That's still true. Go earn for your cousin and come back when the island remembers how to breathe."
+"Make the tender," she says. "They're closing the island behind you. Don't stop. Don't come back through the causeway if they turn you — go forward. Forward pays." She holds his eyes. "We feed people before we file them. That's still true. Go earn for your cousin and come back when the island remembers how to breathe."
 
 Priya is at the marina stairs with his name on a clipboard that is also a manifest. "Deck casual on Suresh's rice run. Cherry Cube call sheet attached. You walk like you belong until something proves you don't." She taps the paper once. "Triple rate if you check in. Zero if you hide. I didn't schedule you to hide."
 
@@ -277,7 +223,7 @@ Eli's throat closes. "Why—"
 
 "Because you were leaving anyway," Babaji says. "And you needed the truth before you went, not after." He looks at the locked island, the white coats still visible at the causeway. "Find your rate. Ask your doors. Don't come back through the causeway if they turn you." He turns to go, then stops. "You're not an orphan, boy. You're a stolen child. There's a difference."
 
-Suresh takes the bag without comment and, at the rail, presses a folded paper into Eli's palm — *chandlery, old town, ask once* — the Malacca door from last night's terrace, now ink. "Don't miss the tender," he says. "Make your rate. I don't lie on manifests for free." He casts off on schedule. Pelangi Reach shrinks behind the marina wall — palms, half-built towers, the bright loop of the train — and Eli stands at the rail with his tool roll and his mother's song under his ribs and the knowledge that both his parents may still be breathing somewhere the net cannot reach, and the man in Malacca still only a name Suresh carried across a terrace, not a destination yet.
+Suresh takes the bag without comment and, at the rail, presses a folded paper into Eli's palm — *chandlery, old town, ask once* — the Malacca door from last night's terrace, now ink. "Not for tonight," he says. "For after Meridian, if the Stack lets you through." He casts off on schedule. "Don't miss the tender." Pelangi Reach shrinks behind the marina wall — palms, half-built towers, the bright loop of the train — and Eli stands at the rail with his tool roll, his Cherry Cube call sheet, and his mother's song still lodged under his ribs where he is not allowed to follow it yet.
 
 The island locks down behind him. Hearth suspended, not surrendered.
 
@@ -323,7 +269,7 @@ Above the lanes, a mosaic says **THE EAST ENDURED** in twelve perfectly fitted l
 
 On a pillar by the document lanes, a notice in four languages restricts small-craft transfer of medical goods pending review, by order of the Office of Corridor Logistics, over a designation and a seal. The man queuing in front of Eli reads it twice and says, to no one, that the same office ran the insulin boats through the worst of the closures, that his sister is alive because of that office, and now this. Nobody answers him. The queue moves.
 
-He had meant to be findable at a service gate with a lanyard and a name on a list. Instead he is here with grease under his nails from a morning that started on the old island pulling nets, and the Stack does not care where a body began — only what the photograph matches.
+He had meant to be findable at a service gate with a lanyard and a name on a list. Instead he is here with grease under his nails from a morning that started on Suresh's boat and the ninth-floor garden, and the Stack does not care where a body began — only what the photograph matches.
 
 He takes a wrong corridor looking for the document lanes.
 
@@ -1746,7 +1692,7 @@ Eli sits apart, holds the count, and keeps, in the cold operational silence wher
 
 He can hear the engine now without becoming it. Nine minutes with the charge at full song, and his hands stayed his — and what his hands did with the minutes was carry people. That is the skill. Not the door, not the record, not the wanting or the not-wanting of them: knowing, with the engine roaring, what his hands are *for*. It is the first thing he has ever owned that no one can confiscate.
 
-And the oldest lesson in the oldest hills, learned by basket-load in the dark: the center was not lo st when Daskar's people buried it. It was kept. There is a way of holding a thing that looks, from the outside, like walking away — and the fill held for twelve thousand years, and the door is still there, and the counting men never got it.
+And the oldest lesson in the oldest hills, learned by basket-load in the dark: the center was not lost when Daskar's people buried it. It was kept. There is a way of holding a thing that looks, from the outside, like walking away — and the fill held for twelve thousand years, and the door is still there, and the counting men never got it.
 
 ---
 
