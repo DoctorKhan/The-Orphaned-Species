@@ -1,6 +1,6 @@
 # Chapters Seven–Eight — decision record
 
-> **Thailand governing draft — LOCKED 2026-07-23.** In `MANUSCRIPT.md`.
+> **File:** `DECISIONS_Chapters_Seven_Eight.md` (renamed from `DRAFT_Chapter_Seven_Eight.md` 2026-07-24). **Thailand governing draft — LOCKED 2026-07-23.** In `MANUSCRIPT.md`.
 
 ## Ch 7 — The Forming Line
 

@@ -1,6 +1,6 @@
 # Chapters Eleven–Thirteen — decision record
 
-> **Drafted directly into `MANUSCRIPT.md` (2026-07-22).** Volume I complete. Flags for veto.
+> **File:** `DECISIONS_Chapters_Eleven_Thirteen.md` (renamed from `DRAFT_Chapter_Eleven_Thirteen.md` 2026-07-24). **Drafted directly into `MANUSCRIPT.md`.** Volume I complete. Flags for veto.
 > **Bangladesh off-page — LOCKED 2026-07-23:** village visit retired; Ch 11 carries lost home through Farida's encrypted messages only.
 
 > **Thailand Ch 5–10 / Mekong retired — LOCKED 2026-07-23:** agricultural witness and temple/Pai grounding belong in Ch 5–10, not Ch 11. Ch 11 = Gulf corridor + Farida messages only.

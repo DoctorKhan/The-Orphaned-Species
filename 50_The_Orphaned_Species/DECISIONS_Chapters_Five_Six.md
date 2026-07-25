@@ -1,6 +1,6 @@
 # Chapters Five–Six — decision record
 
-> **Thailand governing draft — LOCKED 2026-07-23.** Present-day Khun Dang + mountain road added 2026-07-23.
+> **File:** `DECISIONS_Chapters_Five_Six.md` (renamed from `DRAFT_Chapter_Five_Six.md` 2026-07-24). **Thailand governing draft — LOCKED 2026-07-23.** Prose in `MANUSCRIPT.md`; chunk sandbox: `WORKING_Thailand_Chapters_Five_Ten.md`.
 
 ## Ch 5 — The Field That Counts
 

@@ -108,6 +108,11 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 | `31_volume_I_beatsheet.md` | Vol I chapter spine |
 | `38_psionic_combat.md` | Tactical system |
 | `99_open_questions.md` | Decision log + cast name table |
+| `MANUSCRIPT.md` | **Governing** Book I prose (assembled chapters) |
+| `DECISIONS_Chapter_*.md` | Per-chapter **veto flags** — why choices were made; prose lives in `MANUSCRIPT.md` |
+| `WORKING_Thailand_Chapters_Five_Ten.md` | **Lumina/chunk sandbox** for Ch 5–10 — merge into `MANUSCRIPT.md` when stable |
+| `QUARRY_Chapter_One_alternative.md` | Retired alternate Ch 1 — mine only, not canon |
+| `MANUSCRIPT_restructure_quarry.md` | Retired pre-restructure Ch 2–4 prose |
 | `00_NARRATIVE_STRUCTURE.md` | Novel spine, romance synthesis, release thesis |
 | `00_ARCHITECTURE.md` | Layer 1 doc map |
 

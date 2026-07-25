@@ -1,6 +1,6 @@
 # Chapter Two — Something of Hers
 
-> **MERGED into `MANUSCRIPT.md` (2026-07-22) — the manuscript is governing.** This file retains the draft-choice flags as the decision record.
+> **File:** `DECISIONS_Chapter_Two.md` (renamed from `DRAFT_Chapter_Two.md` 2026-07-24). **MERGED into `MANUSCRIPT.md` — the manuscript is governing.** This file retains the draft-choice flags as the decision record.
 >
 > **Opening rev. B (2026-07-24):** Ch 1 = old-island fishing + scheduled departure (Option A). Ch 2 = pier gauntlet → Stack intake **wrong-room overhear** (before document clerk) → ring photograph → worker maze → Cherry Cube hunt → Circuit escape → Malacca breach. Pelangi kiddy-car chase retired to quarry.
 

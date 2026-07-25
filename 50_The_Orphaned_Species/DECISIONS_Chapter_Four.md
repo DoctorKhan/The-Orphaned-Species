@@ -1,6 +1,6 @@
 # Chapter Four — Her People
 
-> **Drafted directly into `MANUSCRIPT.md` (2026-07-22) — the manuscript is governing.** This file is the decision record.
+> **File:** `DECISIONS_Chapter_Four.md` (renamed from `DRAFT_Chapter_Four.md` 2026-07-24). **Drafted directly into `MANUSCRIPT.md` — the manuscript is governing.** This file is the decision record.
 
 ## Draft choices — flagged for veto
 

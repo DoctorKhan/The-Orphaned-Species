@@ -1,6 +1,6 @@
 # Chapter Three — What Didn't Die
 
-> **MERGED into `MANUSCRIPT.md` (2026-07-22) — the manuscript is governing.** This file retains the draft-choice flags as the decision record.
+> **File:** `DECISIONS_Chapter_Three.md` (renamed from `DRAFT_Chapter_Three.md` 2026-07-24). **MERGED into `MANUSCRIPT.md` — the manuscript is governing.** This file retains the draft-choice flags as the decision record.
 
 ## Draft choices — flagged for veto
 

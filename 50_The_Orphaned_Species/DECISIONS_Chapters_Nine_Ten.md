@@ -1,6 +1,6 @@
 # Chapters Nine–Ten — decision record
 
-> **Thailand governing draft — LOCKED 2026-07-23.** In `MANUSCRIPT.md`.
+> **File:** `DECISIONS_Chapters_Nine_Ten.md` (renamed from `DRAFT_Chapter_Nine_Ten.md` 2026-07-24). **Thailand governing draft — LOCKED 2026-07-23.** In `MANUSCRIPT.md`.
 
 ## Ch 9 — Two Teams
 
