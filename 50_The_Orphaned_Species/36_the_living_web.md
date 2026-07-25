@@ -8,7 +8,7 @@
 
 ## 1. The one mechanism
 
-- **The web is the field.** Not a metaphor — it is the anti-entropic medium / ley-line network / living substrate already established. All life is held in it. Eli is a rare **receiver**: he feels the web directly, where others feel nothing.
+- **The web is the field.** Not a metaphor — it is the anti-entropic medium / ley-line network / living substrate already established. All life is held in it. Eli is a rare **receiver**: he feels the web directly, where others feel nothing. **Waking social register:** he **connects the unrelated** — pattern-leaps that look like magic to others, test like science when Emrys and the federation are healthy (`15` § *Uncanny connection*).
 - **Reception = clarification.** He does not *download* or *become*. He **resolves.** A region of the web is initially noise — tangled, faint, undifferentiated. Attention, presence, and practice bring it into focus. At focus, it becomes legible: a person, a place, an event, a structure.
 - **What he clarifies, he learns.** Knowledge, capacity, and history all arrive the same way — as the web coming clear. The practice (returning to the body, distinguishing self from weather, radiate-vs-leak) *is* the clarifying. **The gift and the discipline are one engine, not three.**
 - **One dial: depth.** Near, recent, human-scale threads resolve early and easily. Vast, ancient, deep structures (the gods, the orphaning, the makers) resolve late, faintly, and **never fully.** Fragmentation is not authorial withholding — it is what far structures look like from a clarifying receiver. (This replaces the "two registers" rulebook: there is one continuum, near→deep, not two kinds of capsule.)
@@ -38,11 +38,11 @@ The real dangers:
 
 The cure is practice: **clarification without collection** — receive contact, learn apprenticeship, release the thread when it passes. Volume thresholds: Vol I **survives exposure and meets the first witness-site contact**; Vol II clarifies and releases the mother-thread without seizing the amplifier; Vol III tests whether connected people can govern dangerous conduct without converting connection into command or identity ownership.
 
-## 3a. Melaka opens the receiver; charged grounds hold the teachers — LOCKED
+## 3a. Malacca opens the receiver; charged grounds hold the teachers — LOCKED
 
-**Do not download seven lives at the breach.** The Melaka near-death event turns the receiver **on**, not the archive **in**.
+**Do not download seven lives at the breach.** The Malacca near-death event turns the receiver **on**, not the archive **in**. **Dream-delivered answers** (counting doors, Ila, Pele, symbolic direction) are a separate channel — Eli's **father-line inheritance** (`15` § *Rasel's gift*); they may begin before the breach and continue after. Dreams compress; they do not replace charged-ground contact or the deep dial.
 
-| **Melaka breach** | **Charged grounds (pilgrimage sites, stones, artifacts)** |
+| **Malacca breach** | **Charged grounds (pilgrimage sites, stones, artifacts)** |
 |---|---|
 | Psi plane opens; first sight of the forms | One deep human thread **clarifies** because Eli is **on the ground** at a dense knot |
 | **Sensory overload** + body crash (TBI, hypoxia) — disorienting, not identity horror | A **person** resolves — **other**, visited not inhabited: Ila, Aru, Cuno, etc. |
@@ -51,7 +51,7 @@ The cure is practice: **clarification without collection** — receive contact, 
 
 **Between charged grounds:** occasional echoes or surges — background signal, not a second cast living in his head. **Do not use a "sevenfold signature" or harmonic count on instruments** — that numerology is deprecated. Emrys converges on a **carrier flare** his logs correlate to Maren's suppressed research: the breach event they predicted, not a roster count.
 
-**One-line filter:** *Melaka opens the radio; the stones hold the teachers.*
+**One-line filter:** *Malacca opens the radio; the stones hold the teachers.*
 
 ## 4. Faces resolve *out of* the web (the grief survives)
 

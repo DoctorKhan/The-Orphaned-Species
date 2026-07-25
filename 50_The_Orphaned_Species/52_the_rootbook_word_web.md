@@ -1,6 +1,6 @@
 # The Rootbook / Word-Web
 
-**CANON DESIGN — LOCKED 2026-07-21.** Maren Rahman's encoded field journal becomes the trilogy's distributed Rosetta: a personal record, comparative linguistic tree, scientific notebook, charged-ground atlas, and unfinished model of the living mesh. Eli deciphers it through travel, collaboration, repeatable measurements, and words recovered in different linguistic branches. It is not prophecy, a universal translation device, or an itinerary planted for him.
+**CANON DESIGN — LOCKED 2026-07-21.** **Maren Holt's** encoded field journal becomes the trilogy's distributed Rosetta: a personal record, comparative linguistic tree, scientific notebook, charged-ground atlas, and unfinished model of the living mesh. Eli deciphers it through travel, collaboration, repeatable measurements, and words recovered in different linguistic branches. **His uncanny connection gift** — leaps between seemingly unrelated witnesses — is the living complement to Maren's encoded tree: he links cognate, site, and measurement before the full proof exists, which looks like oracle-work to others and **working hypothesis** to Emrys (`15` § *Uncanny connection*). It is not prophecy, a universal translation device, or an itinerary planted for him.
 
 **Working names:** Eli privately calls it **the Rootbook**. Maren's cover-title may be **শব্দজাল** (*Shabdajal / Word-Web*); exact Bengali romanization, register, and whether Maren herself would use that title remain subject to Bengali-language review. The design is locked; the final title is not.
 
@@ -67,8 +67,8 @@ Sanxingdui evidence may reach Eli through a legitimate research relationship, hi
 
 ### Book I — names and steps
 
-- The Pelangi Reach attack and ring photograph remain the inciting displacement; the journal does **not** replace them.
-- Hassan's Melaka testimony or packet establishes that Maren kept a comparative field book and points toward a recoverable portion of it.
+- The Pelangi Reach Mandate squeeze and ring photograph remain the inciting displacement; the journal does **not** replace them.
+- Hassan's Malacca testimony or packet establishes that Maren kept a comparative field book and points toward a recoverable portion of it.
 - Eli obtains damaged physical pages, a suppressed scan, or both only after the human stakes are established.
 - The **name** constellation exposes the journal's first index and gives Eli a personal message without announcing the cosmology.
 - A **foot/step** correspondence helps identify one next testable movement, but instrument data, witnesses, local knowledge, and enemy action continue to move the route.

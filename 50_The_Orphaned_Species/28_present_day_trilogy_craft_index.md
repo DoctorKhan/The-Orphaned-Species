@@ -25,6 +25,8 @@
 | Patriarchy & bloodlines chord (Tem, 17:1, Qingu) | `37_deep_time_source.md` § *Patriarchy & bloodlines* |
 | True strength vs superficial display (equanimity theme) | `15_character_grounding_and_relatability.md` § *True strength vs superficial display* (LOCKED) |
 | Eli meditation seed — Thailand, delayed fruition | `15_character_grounding_and_relatability.md` § *Eli's meditation seed* (LOCKED) |
+| Rasel's gift — symbolic feeling, dream answers | `15` § *Rasel's gift — symbolic feeling & the dream channel* (LOCKED) |
+| Uncanny connection — pattern leaps, looks like magic | `15` § *Uncanny connection — the clarifier* (LOCKED) |
 | Women characters — no Hollywood "girl power" | `15_character_grounding_and_relatability.md` § *Women characters* (LOCKED) |
 | Wren M/I/A — mystery, intrigue, attraction (LOCKED) | `19` § *Female mystery, intrigue, and attraction*; per-chapter `31`/`32`/`33` § *M/I/A audit* |
 | Archangels / sarim (seventy sons downgraded) | `46_divine_council_roster.md` §§ E, G — **character ladder LOCKED** |
@@ -34,6 +36,8 @@
 | Plot spine (3 vol, acts, gaps) | `29_trilogy_plot_and_development.md` |
 | Full structure / climax | `05_story_architecture.md` |
 | Cultural moment / story-first resonance (2026) | `44_cultural_moment_and_mass_appeal.md` — durable pressures, character engines, organic suspense, cultural guardrails |
+| Quotable refrains / reader spread / revision pass | `53_quotable_refrains.md` — Tier A dialogue bible; voice jobs; anti-cult spread guard |
+| Lay verses (Tao / spiritual-text register) | `54_the_lay_verses.md` — Tier B companion; 25 chapters; Tao, Zen, zine & epigraph layer |
 | Audience / Wren relatability | `43_audience_and_character_recommendations.md` |
 
 ---
@@ -41,7 +45,7 @@
 ## Documents (21–27)
 
 ### `21_present_day_street_skin.md`
-**EdgeRunners-like near-future tone** — port-noir, faction offers as "installs," Pelangi Reach vs Melaka temperature, Tree of Knowledge skin. Not IP pastiche.
+**EdgeRunners-like near-future tone** — port-noir, faction offers as "installs," Pelangi Reach vs Malacca temperature, Tree of Knowledge skin. Not IP pastiche.
 
 ### `22_life_technology_and_two_trees_spine.md` **LOCKED**
 **Discovery throughout; reunification at end.** Life technology vs **death technology** (= ordinary tech, entropic clock). Adapa payoff. Two-Tree union act at climax. Volume Life/Knowledge beat obligations.
@@ -53,7 +57,7 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 **Project Hail Mary register** — slapstick under catastrophe. Primary: **Emrys**. Ensemble: Eli straight man, Wren armor-break, Mei warm-dry. Volume comedy density.
 
 ### `26_present_day_cast_expanded.md`
-**Cast flesh** — provisional names, wants/wounds/habits, scene seeds. Romance is a **dyad** (Rowan off-page, 2026-07).
+**Cast flesh** — provisional names, wants/wounds/habits, scene seeds. Romance becomes a **plural V in Book II**: Wren/Rowan and Wren/Eli; Rowan/Eli non-romantic (locked 2026-07-22).
 
 ### `27_character_development_arcs.md`
 **Development arcs** — volume questions, Manual Override thresholds, Eli seven perceptual stages by volume, fellowship arcs, romance five stages, proof scenes, anti-patterns, chapter checklist.
@@ -76,10 +80,10 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 | Emrys comedy | `24`, `26` | Primary slapstick; measures-when-he-should-touch |
 | Vol I end threshold | `27`, `05` | Personal Manual Override |
 | Vol II end threshold | `27`, `05` | Relational/collective Manual Override |
-| Cast names (provisional) | `26`, `99` | Table in open questions; romance is a **dyad** (Rowan off-page, 2026-07) |
+| Cast names (provisional) | `26`, `99` | Table in open questions; Rowan on-page Book II; plural-V romance lock (2026-07-22) |
 | Romance union | `27`, `19`, `00_NARRATIVE` | Late Vol II commitment at debt; Vol III tested before coda |
 | Romance cost (per chapter) | `31`, `32`, `33`, `19` | Trust up/down on page; five load-bearing beats |
-| M/I/A (per chapter) | `31`, `32`, `33`, `19` § *Female mystery…* | Mystery · Intrigue · Attraction — through-line on dyad scenes |
+| M/I/A (per chapter) | `31`, `32`, `33`, `19` § *Female mystery…* | Mystery · Intrigue · Attraction — track Wren/Rowan and Wren/Eli separately |
 | Contemporary resonance (2026) | `44`, `17`, `18`, `16` | Human attachment, clear dramatic questions, causal escalation, ensemble agency |
 | True strength vs display | `15`, `40` | Equanimity ≠ composure-as-armor; Thailand seed → Manual Override |
 | Women / power registers | `15` § *Women characters* | No Hollywood girl-power swap; relational/somatic/refusal registers |
@@ -94,12 +98,13 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 | `44_cultural_moment_and_mass_appeal.md` | Dated cultural strategy: gender rift, loneliness, polarization, AI, futurelessness, and story-first guardrails |
 | `50_teahouse_pilgrimage.md` | Locked postwar teahouse pilgrimage, cloister discipline, sanctuary readiness, health metrics, chosen clans, and background AI |
 | `51_field_sail_and_mandate_peace.md` | Locked Union physics discovery, Commissioner Ma, field-sail constraints, Mandate industrial partnership, and ceasefire |
+| `53_quotable_refrains.md` | Series refrain bible — memorable lines, character voice jobs, volume spread schedule, revision checklist |
 | `52_the_rootbook_word_web.md` | Locked distributed Rosetta: comparative cipher, travel-based corroboration, Sanxingdui break, and cosmic concordance |
 | `05_story_architecture.md` | Trilogy structure, fellowship, Living Way, climax |
 | `15_character_grounding_and_relatability.md` | Eli TBI, healer, relatability guardrails |
 | `16_reader_attachment.md` | Human gravity before mythology |
 | `17_reveal_order_and_reader_impact.md` | Emotional discovery order |
-| `19_romance_and_divine_pairing.md` | Romance curriculum (dyad; triad option now moot — Rowan off-page 2026-07) |
+| `19_romance_and_divine_pairing.md` | Romance curriculum (Wren/Rowan + Wren/Eli plural V; Rowan/Eli non-romantic) |
 | `31_volume_I_beatsheet.md` | Vol I chapter spine |
 | `38_psionic_combat.md` | Tactical system |
 | `99_open_questions.md` | Decision log + cast name table |

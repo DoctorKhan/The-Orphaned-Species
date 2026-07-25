@@ -10,6 +10,8 @@
 
 Appeal comes from making human stakes irresistible first and letting wonder and politics deepen them. Eli is not “the young male condition,” Wren is not “the female response,” and their relationship is not a staged reconciliation between demographic blocs.
 
+**Charkha guardrail — LOCKED 2026-07-22:** the Measure's pair-severance operation must never make women's employment, education, bodily autonomy, or freedom from coercive dependence into the villain's invention. Its evil is the appropriation of freedom: doubled obligation presented as independence, mutual dependence recoded as shame, care withdrawn or commodified, and opposed grievance stories amplified until people seek from institutions what they can no longer risk seeking from one another. Ancient female selectivity and male competition/risk-bearing may be treated as uneven population-level pressures, never total categories or moral commands. Men are not owed women's dependence; women are not responsible for repairing male isolation; masculine courage is not a currency that purchases intimacy; and honoring chosen risk must never naturalize male death. The positive answer is reciprocal reliance with consent, exit, shared burden, meaningful standing, and public support—not restored hierarchy.
+
 Before retaining a culturally resonant beat, remove its topical label and ask:
 
 1. Does a particular character want something immediate?

@@ -108,7 +108,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 ### 1. Pelangi Reach: the privacy drill that is not only a drill
 
-**Immediate want:** Eli wants to finish an ordinary harbor/maintenance shift and keep his head down after a reopening rumor about Melaka.
+**Immediate want:** Eli wants to finish an ordinary harbor/maintenance shift and keep his head down after a reopening rumor about Malacca.
 
 **Adventure object:** a laminated work rota, a sealed medical-access terminal, a boat key, and a privacy routine everyone treats as boring.
 
@@ -118,11 +118,11 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Reversal:** the system does not fail because it is organized; it survives because enough ordinary people understand limits.
 
-**Cost:** Eli must admit that leaving for Melaka risks more than his own safety. Coworkers will cover duties and take exposure because of him.
+**Cost:** Eli must admit that leaving for Malacca risks more than his own safety. Coworkers will cover duties and take exposure because of him.
 
 **Theme carried:** dependence without ownership. A community can need records without turning people into files.
 
-### 2. Melaka: the wrong password
+### 2. Malacca: the wrong password
 
 **Immediate want:** Eli needs one contact tied to his mother, one object, or one name before local reopening rules shift again.
 
@@ -138,7 +138,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Theme carried:** prophecy-shaped material creates danger; it does not guarantee destiny.
 
-### 3. Melaka breach: the crossing under water
+### 3. Malacca breach: the crossing under water
 
 **Immediate want:** get a wounded person, Wren, or a local ally across a canal, flood channel, ferry gap, or collapsing waterfront route.
 
@@ -300,7 +300,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 ### 13. The manufactured incident: a frame built from records
 
-**Immediate want:** stop a registry sweep of Pelangi Reach or Melaka before it executes — the sweep has legal cover because an "incident" is now on file.
+**Immediate want:** stop a registry sweep of Pelangi Reach or Malacca before it executes — the sweep has legal cover because an "incident" is now on file.
 
 **Adventure object:** a cargo seal scanned twice in one hour in two ports, a clinic timestamp, a berth log, an audit terminal, an official's stamp kit.
 
@@ -470,7 +470,7 @@ These should be simple enough to remember:
 | Location | Page-turning question | Adventure object | Likely reversal |
 |---|---|---|---|
 | Pelangi Reach | Why would Eli leave a place that works? | work rota, boat key, privacy logs | organization protects him better than secrecy alone |
-| Melaka | Which clue is real and which is bait? | token, port stamp, phrase, flooded crossing | the real clue opens the trap |
+| Malacca | Which clue is real and which is bait? | token, port stamp, phrase, flooded crossing | the real clue opens the trap |
 | Free Ports race night | Can they cross while the whole city watches something else? | closure map, timing loops, service tunnel, drone feeds | the cover night is the most-instrumented night |
 | Meridian City | Who owns suppressed knowledge? | archive badge, server cage, old map | the boring maintenance record matters most |
 | Strait | Can they survive ordinary danger while under extraordinary attack? | sail line, cargo seal, medicine box | the pirates are not the whole threat |

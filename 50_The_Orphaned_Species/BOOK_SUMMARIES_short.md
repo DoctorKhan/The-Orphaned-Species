@@ -17,33 +17,39 @@ survived incomplete in the keeper net during puberty. He is not a hero; he is a
 competent, lonely man who mistakes his surge for a compass.
 
 MOVEMENT.
+- The oil/AI collapse, WWIII's ancestry-gated weapon, the three postwar blocs, the puberty-triggered threshold crisis, and the competing responses are reconstructed through ruins, registries, bodies, vocabulary, and contested records rather than a historical preamble.
 - **Opening compression — LOCKED:** Chapter 1 establishes the Foundry, garden,
-  and ordinary refuge before a staged attack seals the north corridor. Chapter
+  and ordinary refuge before the **Mandate political squeeze** seals the north corridor. Chapter
   2 is one sustained flight: escape south; brief atomizing processing in
   Meridian City; accidental recognition of Maren's silver-and-brass wedding ring in
   an archive photograph; north through the Straits; Hassan's physical ring and
-  Wren's colliding extraction in Melaka; Custodian pursuit; a losing fight and
+  Wren's colliding extraction in Malacca; Custodian pursuit; a losing fight and
   asphyxia at the river's edge. The psi plane opens at the **end of Chapter 2**:
   receiver ON, overload, hunted. Salmah drags him out; Hassan is recaptured with
   the ring.
 - Wren folds him into her damaged extraction against her own interest. Emrys, a
   researcher, converges on the breach: instruments log a carrier event matching
-  Maren's suppressed work.
-- Westward through Vietnam's Mekong Delta: an agricultural-witness sequence
+  Maren's suppressed work. A suppressed scan of Maren's Rootbook enters only
+  after the ring and Hassan establish the human stakes; name and foot/step
+  correspondences open bounded tests rather than a complete itinerary.
+- Westward through **Thailand**: an agricultural-witness sequence
   where plant growth traces a forming line in the earth. At a charged site Eli
   meets the practitioner Ila as *other* — grievable, not himself (first full
-  witness, no identity crisis). When evidence and civilians collide, Eli tries
+  witness, no identity crisis). Khun Dang, wat breath, and Pai pass-through ground
+  the arc (plant-medicine threshold — bitter cup — is Book II Ch 6 only).
+  When evidence and civilians collide, Eli tries
   to save both and hesitates. Wren forces the humane evacuation; a grower is
   injured and the clean record is damaged. Eli recognizes the autopilot but
   does not yet override it.
 
 CLIMAX (LOCKED — Göbekli Tepe). Eli races a rival consortium, the Custodians,
 and Crane's program to read the sealed interface behind the fox-pillar before
-the permit window closes. The charge repeats the Mekong bargain with Emrys and
+the permit window closes. The charge repeats the **Thailand** bargain with Emrys and
 the complete record at stake. This time Eli completes personal Manual Override,
-protects civilians over the interface record, and Emrys is taken; the partial
-read reveals the Nephilot — the down-bred carrier line that *is* what folklore
-calls elves.
+protects civilians over the interface record, and Emrys is taken. The partial
+read preserves an ancient selection/control scar associated with inherited
+difference and a powerful male carrier/mighty lineage; the Nephilot/elf identity
+remains unresolved for Book II's Pömmelte trail.
 
 ENDING CHANGE. Eli has met a practitioner as other and chosen the living person
 over the cosmological prize. He follows the next clue west with no known
@@ -84,9 +90,13 @@ CLIMAX / ENDING (LOCKED — Stonehenge / Albion). The ambush forces the formatio
 Eli reaches Maren in a lucid, morally complicated reunion and releases her
 instead of preserving the tether. Awakening spreads the only way it can: the
 freed web's ley lines begin reconnecting, and latent psions near waking grounds
-start to develop — unchosen, at their own rate. Eli and Wren commit quietly
-after the loss, with full knowledge that the road was smoothed (the Weaver
-blessing, discovered mid-volume): the bond is theirs.
+start to develop — unchosen, at their own rate. Rowan, returned through the
+west-corridor Weaver network, survives after helping keep ordinary evacuation
+visible outside the formation. Wren and Rowan affirm their renewed formative
+romance; Eli and Wren make a separate, nonexclusive present-tense commitment.
+Rowan and Eli establish respect and limits, not romance. The Weaver blessing
+and the older formative bond create gravity, never command: the bond remembers;
+each person still chooses.
 
 ENDING CHANGE. The group can hold the pressure without collapsing into worship
 or ownership. The awakened web begins to spread; the first awakening will
@@ -160,7 +170,7 @@ authority. Crane is contained by procedure, not sentenced by Eli. After the
 hearing, Eli visits Hopi lands by invitation and learns that large-scale human
 organization can be federated, seasonal, layered, and free to refuse a permanent
 center. He then reaches the negotiated Colorado mountain settlement. Seeds from
-Arif's garden arrived before him; a disabled survivor and the dead man's specific
+Rasel's garden arrived before him; a disabled survivor and the dead man's specific
 absence remain in ordinary life. Eli is wanted there, but not indispensable. The
 war continues beyond this community, but the ending does not turn it into a
 sequel tease.

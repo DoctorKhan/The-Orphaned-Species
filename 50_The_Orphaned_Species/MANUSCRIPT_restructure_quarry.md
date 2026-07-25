@@ -1,6 +1,6 @@
 # MANUSCRIPT Restructure Quarry — superseded Chapter 2–4 prose
 
-> **Status: QUARRY, not canon (moved out of `MANUSCRIPT.md` 2026-07-22).** This is the pre-restructure Chapter 2–4 prose. The canonical Chapter 2 is `DRAFT_Chapter_Two.md` (sustained flight ending at the breach), which already absorbed and corrected the usable Melaka material here. Known deprecated elements in this prose — do not restore: the direct Pelangi Reach→Melaka route (canon: southern exit through Meridian City first); the "seven chambers / seven rooms" breach framing (canon: undifferentiated field-noise, `36` §3a); Grid/Nodes/Wire/Conductor capitalized jargon (`95` vocab ban); the King-James register passages (locked voice: present-tense close third); the ring ending in Eli's hand (H3: ring remains with Hassan); the chandlery man/boy as breach rescuers (canon: Salmah); solo-Eli-to-Pai immediately after Melaka (canon: Wren fold-in, Vietnam first — the Khun Dang / Hotel California material is quarry for the Thailand grounding hinge).
+> **Status: QUARRY, not canon (moved out of `MANUSCRIPT.md` 2026-07-22).** This is the pre-restructure Chapter 2–4 prose. The canonical Chapter 2 is `DRAFT_Chapter_Two.md` (sustained flight ending at the breach), which already absorbed and corrected the usable Malacca material here. Known deprecated elements in this prose — do not restore: the direct Pelangi Reach→Malacca route (canon: southern exit through Meridian City first); the "seven chambers / seven rooms" breach framing (canon: undifferentiated field-noise, `36` §3a); Grid/Nodes/Wire/Conductor capitalized jargon (`95` vocab ban); the King-James register passages (locked voice: present-tense close third); the ring ending in Eli's hand (H3: ring remains with Hassan); the chandlery man/boy as breach rescuers (canon: Salmah); solo-Eli-to-Pai immediately after Malacca; and the Khun Dang / *Hotel California* route (current Thailand material is the short keeper-house grounding/memory hinge in Ch 11).
 
 ---
 ## Chapter Two — Something of Hers
@@ -103,9 +103,9 @@ He coils a line without looking at Eli. "He won't send the thing. Won't say a wo
 
 Eli waits. The water knocks at the hull.
 
-"Your mother came through here. During the worst of it. With a husband — Bengali. Rahman. Arif, the gardener. He's gone now." Suresh studies the line in his hands. "She ran with the keepers. The ones who hide the children when it comes on them. You were in that net after. That's how you washed up here, isn't it — Pelangi Reach, no papers, Arif's boy on a wage ticket, keeping his head down."
+"Your mother came through here. During the worst of it. With a husband — Rasel, the gardener. Bengali. Gone now." Suresh studies the line in his hands. "She ran with the keepers. The ones who hide the children when it comes on them. You were in that net after. That's how you washed up here, isn't it — Pelangi Reach, no papers, Rasel's boy on a wage ticket, keeping his head down."
 
-"She vanished here. Ten years." He looks at Eli, finally. "That's what your net was told — dead, don't ask. I wasn't there for the last of it. The man in Melaka knew her when she was still running. Says he has something of hers."
+"She vanished here. Ten years." He looks at Eli, finally. "That's what your net was told — dead, don't ask. I wasn't there for the last of it. The man in Malacca knew her when she was still running. Says he has something of hers."
 
 "What band?"
 
@@ -121,11 +121,11 @@ A tingle climbs the back of his neck and into his scalp; the hair stands up alon
 
 "Where is he?" Eli says.
 
-"Old town, by the river. There's a chandlery — ship's stores, rope, batteries, grease, that kind of thing. Ask there and they'll know why you came." Suresh picks the line back up. "Don't ask anywhere else. Not in Melaka, not now. One door, and it's that one. You hear me? And if anyone else comes asking here, no one recognized anything."
+"Old town, by the river. There's a chandlery — ship's stores, rope, batteries, grease, that kind of thing. Ask there and they'll know why you came." Suresh picks the line back up. "Don't ask anywhere else. Not in Malacca, not now. One door, and it's that one. You hear me? And if anyone else comes asking here, no one recognized anything."
 
 Eli opens Mei's bag. The eggs. His crimp tool, wiped clean. A chit with the chandlery address written once and underlined hard.
 
-He did not choose Melaka. Melaka chose him the way the song did — by sounding, by being heard, by making men in white coats run through a resort built for children.
+He did not choose Malacca. Malacca chose him the way the song did — by sounding, by being heard, by making men in white coats run through a resort built for children.
 
 Kiran watches him read the address and says, quieter, "What is that?"
 
@@ -135,7 +135,7 @@ Suresh brings the engine up, slow. "I am not taking you to the man."
 
 "I know."
 
-"No. You don't. I am taking rice and limes to Melaka. You are extra weight. At the pier you carry one crate and walk off when I say. You don't wait for me. You don't look back at me. You don't say my name in that city."
+"No. You don't. I am taking rice and limes to Malacca. You are extra weight. At the pier you carry one crate and walk off when I say. You don't wait for me. You don't look back at me. You don't say my name in that city."
 
 "All right."
 
@@ -159,7 +159,7 @@ Suresh cuts the engine back as the police launch turns near the buoy. For half a
 
 "Then why tell me any of it?"
 
-"Because if I don't, you will ask the wrong person in Melaka and get Mei's terrace burned down."
+"Because if I don't, you will ask the wrong person in Malacca and get Mei's terrace burned down."
 
 Eli holds the rail. The metal is wet.
 
@@ -179,7 +179,7 @@ For a while there is only engine noise and the slap of water under the bow. Eli 
 
 "Then don't look."
 
-The sky goes gray. Melaka begins as cranes and roofs, then old walls, then the river mouth opening between buildings that seem to have survived by agreeing to be useful. A yellow quarantine banner hangs from the customs shed; two soldiers sit under it with rifles across their knees while a woman in a white vest points a thermometer at a fisherman's forehead and waves him through before it beeps.
+The sky goes gray. Malacca begins as cranes and roofs, then old walls, then the river mouth opening between buildings that seem to have survived by agreeing to be useful. A yellow quarantine banner hangs from the customs shed; two soldiers sit under it with rifles across their knees while a woman in a white vest points a thermometer at a fisherman's forehead and waves him through before it beeps.
 
 Suresh cuts the engine to idle.
 
@@ -207,7 +207,7 @@ Ask once.
 
 ## Chapter Three — The Reopening
 
-Now came the southward turning. Melaka lay before him — a city of old stone and river-diesel, where the long wound of the war had learned to move about itself, as wounds will when none may bind them.
+Now came the southward turning. Malacca lay before him — a city of old stone and river-diesel, where the long wound of the war had learned to move about itself, as wounds will when none may bind them.
 
 The supply boat puts him down before noon with a crate of limes in his arms and three men ahead of him who do not look at the checkpoint until the checkpoint looks away. The pier is open again, but not simply open — nothing is, now.
 
@@ -249,7 +249,7 @@ The man with the white eye looks at the boy. The boy closes his schoolbook.
 
 "Men ask after women all day."
 
-"English," Eli says. "Her name was Maren Rahman. Rahman was my father's name — the name she used in her work."
+"English," Eli says. "Her name was Maren Holt. Always Holt. My father was Rasel Khan — Russell on Mandate files. Rasel. I'm Holt, not Khan."
 
 The man's face does not change. That is how Eli knows it has landed.
 
@@ -327,7 +327,7 @@ Behind her, at the far end of the covered way, one of the men from the health ta
 
 "Someone trying to get another person out of the same building."
 
-That is the first clear thing anyone in Melaka has said to him.
+That is the first clear thing anyone in Malacca has said to him.
 
 "You know the man I'm meeting?"
 
@@ -511,7 +511,7 @@ Yet each touch was a door, and the chambers behind were not inhabited by the liv
 
 A woman walking into a room with hands already cold. A soldier setting a name in a book that was wet ere he touched it. The rain upon the roof. A wok above a fire that none of them tend any longer.
 
-He sought to stand, and his legs were not his own. He sought to draw breath, and the air that entered him was not all Melaka's — some of it was old, and charged, caught in a throat not his. He sought to speak, and the soldier's name issued from a mouth that was not his mouth.
+He sought to stand, and his legs were not his own. He sought to draw breath, and the air that entered him was not all Malacca's — some of it was old, and charged, caught in a throat not his. He sought to speak, and the soldier's name issued from a mouth that was not his mouth.
 
 Then was he borne back. The lane was but a lane again. The roof was but a roof. And the light was departing from him, bleeding outward into the Grid; nor could he say how much of himself it had carried away.
 
@@ -527,7 +527,7 @@ Then the chandlery man looks down at him and says something he will never forget
 
 "Not the ring," the man says. "Her son. That's who they're after."
 
-The boy pulls Eli up by one arm. The white eye man takes the knife-man's wrist and breaks it the way a man breaks something he has broken before. Outside the lane, Melaka keeps happening: a moped coughs, someone sings, a shutters rattles.
+The boy pulls Eli up by one arm. The white eye man takes the knife-man's wrist and breaks it the way a man breaks something he has broken before. Outside the lane, Malacca keeps happening: a moped coughs, someone sings, a shutters rattles.
 
 The custodian team has seen the flare. The receiver signature spiked through a body that was not supposed to register. They are not here for him anymore. They are here for whatever he has woken up.
 
@@ -595,7 +595,7 @@ He walked north. It was the longest he had been alone since Pelangi Reach, and t
 
 Pai lay in a valley the mountains had folded shut. The river ran brown and swift. The town was a scar of guesthouses and tattoo-parlors and noodle-stalls that never closed, and behind it the jungle rose as it will in every place where the world has left off its building.
 
-He found work at a lodge upon the valley's far edge — a long wooden house on stilts above the river, kept by a man the locals named Khun Dang, who in the years before the Weapon had been founder of one of the biker gangs that rode the Mae Hong Son loop with no headlamps and less wit. The gang was gone. The lodge was what the road had left him. He cooked for the few travelers who yet came, and he slept upon the floor of the kitchen, because the woman from Melaka had said a hand with no papers and a kitchen floor is the hardest thing in all Asia to mark.
+He found work at a lodge upon the valley's far edge — a long wooden house on stilts above the river, kept by a man the locals named Khun Dang, who in the years before the Weapon had been founder of one of the biker gangs that rode the Mae Hong Son loop with no headlamps and less wit. The gang was gone. The lodge was what the road had left him. He cooked for the few travelers who yet came, and he slept upon the floor of the kitchen, because the woman from Malacca had said a hand with no papers and a kitchen floor is the hardest thing in all Asia to mark.
 
 Khun Dang was old now, and broad, and his hands were seamed with scars that were not of cooking. He watched Eli move above the blade and said nothing for a week. Then, upon an evening when the river was loud and the power had failed again, he brought out a guitar — an old black thing with a soundboard cracked, kept in a case that had outworn more than its owner should have lived to see.
 
@@ -621,7 +621,7 @@ He took the guitar back, played the last verse through, and set it in its case l
 
 "Tomorrow," said Khun Dang, "you cook. After, you play. A man who can feed men and play one song is a man with a home wherever he stays. That is the only home left now."
 
-Eli lay upon the kitchen floor that night with the four chords beneath his ribs beside the song his mother had left him. The seven chambers stood yet open. But for the first time since Melaka, one of them had a door he could shut — the one that was only music, and no one hunted it.
+Eli lay upon the kitchen floor that night with the four chords beneath his ribs beside the song his mother had left him. The seven chambers stood yet open. But for the first time since Malacca, one of them had a door he could shut — the one that was only music, and no one hunted it.
 
 ---
 

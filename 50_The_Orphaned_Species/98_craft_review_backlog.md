@@ -68,18 +68,18 @@
 
 ---
 
-## 5. ◐ Cast consolidation, the triad, and the Eli/healer overlap
+## 5. ◐ Cast consolidation, plural romance, and the Eli/healer overlap
 
 **Problem.** Large named cast (Eli, Wren, Rowan, Emrys, Crane, Somchai, Sol, four Custodians, Priya, Hassan, Thila, Farida, Rico, Lani, Babaji, Suresh, Mei + deep-time threads). Three sub-issues:
 - **Bloat.** Ask which characters merge or drop. The four-person Custodian team especially — a reader will struggle to hold four coerced-carrier antagonists distinct; consider three, or two vivid + two functional.
-- **The Wren/Rowan triad** has an explicitly *open* end-state (`99` Rowan pin). Decide it before Vol II — it colors every Wren scene, and an unresolved triad adds load in an already-dense book.
+- **The Wren/Rowan/Eli relationship shape** was open and risked adding load in an already-dense book. **Resolved 2026-07-22:** plural V—Wren/Rowan and Wren/Eli romantic; Rowan/Eli non-romantic—with Rowan carrying an independent west-corridor recovery function.
 - **Eli/Somchai overlap — ☑ FIXED.** Two fixes: (1) healing is Somchai's alone; Eli only *reads* bodies (`15`, `32_the_warm_hands`, `26`, et al.). (2) The twin deification-refusals are distinct crowns — Somchai refuses the **crown of the body** in **Vol. II Ch. 18** (worship of his healing; reason = bodily limits, *son of a man*), while Eli refuses the **crown of the polis** in the **Book III attack chapters** (the ruler/founder/one-voice; reason = ownership rebuilds the cage). The order builds: Somchai's bodily refusal is the intimate-scale proof Eli later scales up. Locked in `05`, `32` Ch. 18, and `33`'s climax.
 
-**Why it matters.** Diffused attention weakens every thread; the triad and the twin-refusal are specific redundancy risks.
+**Why it matters.** Diffused attention weakens every thread; plural-romance staging and the twin-refusal are specific redundancy risks.
 
 **Evidence.** `26_present_day_cast_expanded.md`; `99` Rowan pin; `33` Ch 26–27.
 
-- **Suggested direction.** A cast-consolidation pass (merge/cut candidates); lock the triad end-state; differentiate the two refusals (healer = *bodily* limits / son-of-a-man; Eli = *political* refusal of the founder role). **RESOLVED / REVISED (2026-07):** Rowan is off-page (romance is a dyad); Lani is folded into an anonymous busker flash; Custodians stay at four. **Priya and Mei remain separate:** Priya carries workplace/systems care, Mei carries food/community care. See `26`, `27`, `99`.
+- **Suggested direction.** A cast-consolidation pass (merge/cut candidates); lock the triad end-state; differentiate the two refusals (healer = *bodily* limits / son-of-a-man; Eli = *political* refusal of the founder role). **RESOLVED / REVISED (2026-07-22):** Rowan returns on-page in Book II because she now carries an independent west-corridor recovery function and a renewed Wren/Rowan romance. The structure is a plural V (Wren/Rowan + Wren/Eli; Rowan/Eli non-romantic), not a cast-expanding quest companion across all volumes. Lani is folded into an anonymous busker flash; Custodians stay at four. **Priya and Mei remain separate:** Priya carries workplace/systems care, Mei carries food/community care. See `26`, `27`, `99`.
 
 **Related:** `99` Rowan pin, #4 (Custodian team), #8 (healer specifics).
 
@@ -93,7 +93,7 @@
 
 **Evidence.** `99` #7 (formerly open); `31` Ch 13; `99` #6.
 
-**Resolution (LOCKED 2026-07-12):** The **sealed-interface race at Göbekli** — permit window, rival consortium, Nephilot reveal, Emrys error — is **Volume I climax** (`31` Ch 13; `99` #6–#7). Vol II opens post-Göbekli with Emrys absent; its clock is **mother tether + Europe corridor + Maren release** (`32` Ch 15–21).
+**Resolution (LOCKED 2026-07-22):** The **sealed-interface race at Göbekli** — permit window, rival consortium, partial selection/control scar, Emrys error — is **Volume I climax** (`31` Ch 13; `99` #6–#7). The Nephilot/elf identity is withheld for the Pömmelte trail. Vol II opens post-Göbekli with Emrys absent; its clock is **mother tether + Europe corridor + Maren release** (`32` Ch 15–21).
 
 **Related:** `99` #7, #9 (Emrys's error — Vol I Göbekli).
 
@@ -107,7 +107,7 @@
 - ☑ **Women / Hollywood "girl power" (LOCKED).** Negative templates + positive power registers. Hub: `15` § *Women characters*.
 - ☑ **Romance cost audit (LOCKED — drafting).** Per-chapter flags in `31`/`32`/`33`; five load-bearing beats + drift risks in `19` § *Romance cost audit*; anti-pattern in `27`.
 - ☑ **Female mystery, intrigue, attraction (LOCKED).** Wren register without femme-fatale: `19` § *Female mystery…* (through-line + § *M/I/A drafting audit*); `26` Wren guardrails; `15` Wren row. **Per-chapter M/I/A** wired in `31`/`32`/`33` § *M/I/A audit* (Vol I–III). Craft rule #7 in `40_concepts.md`; checklist `27` items 5–6; locked row `28`.
-- ☑ **H4 STALE SPINE — RESOLVED (2026-07-15).** Göbekli + Emrys-taken = **Vol I climax** (`31` Ch 13; `99` #6–#7). Mekong = agricultural witness (Ch 5–10), not climax. The Melaka breach now closes Ch 2. Vol II opens post-Göbekli; Stonehenge/Albion + Maren release = Vol II end (`32` Ch 21). Synced across `29`, `31`, `32`, `05`, `19`, `37`, `SOURCE_TO_TRILOGY_MAP`, `00_NARRATIVE_STRUCTURE`.
+- ☑ **H4 STALE SPINE — RESOLVED (2026-07-15).** Göbekli + Emrys-taken = **Vol I climax** (`31` Ch 13; `99` #6–#7). Mekong = agricultural witness (Ch 5–10), not climax. The Malacca breach now closes Ch 2. Vol II opens post-Göbekli; Stonehenge/Albion + Maren release = Vol II end (`32` Ch 21). Synced across `29`, `31`, `32`, `05`, `19`, `37`, `SOURCE_TO_TRILOGY_MAP`, `00_NARRATIVE_STRUCTURE`.
 
 ## One-line summary
 

@@ -4,16 +4,17 @@
 
 ## Drafting frontier (2026-07-22, in order)
 
-1. [x] **Ch 1 ending:** staged Foundry attack drafted (2026-07-22) — attack during the late band set; hearth burns inside Ch 1.
+1. [x] **Ch 1 ending:** Mandate political squeeze drafted (2026-07-24) — Babaji refusal, screening sweep during late band set; hearth forfeited inside Ch 1.
 2. [x] **Ch 2** complete and **merged into MANUSCRIPT.md** (2026-07-22), Salmah seeded at the quay pre-breach.
 3. [x] **Ch 3 — What Didn't Die** drafted (2026-07-22, `DRAFT_Chapter_Three.md`): Salmah named and priced, her cost witnessed at distance; Nura/Ilyas separation with consent visibly not asked; Emrys measures and withholds ("numbers that don't fit my boxes"); grounding via the cup trick + Thailand count; decision scene ends on "I'm not going dark" and Wren's name. **Merged into MANUSCRIPT.md** (2026-07-22); 8 draft choices retained in the stub as decision record.
 4. [x] **Ch 4-13** drafted into MANUSCRIPT.md (2026-07-22) — **VOLUME I DRAFT COMPLETE**. Next: author read-through against decision records, then the passes below.
+4b. [x] **Weavers' Net — Vol I seed (2026-07-24):** Ch 2–5 in `MANUSCRIPT.md` — THRESHOLD HOUSE, green cord, platform knot, house review weave, Net named to Eli. **Remaining:** Ch 6–13 (cooperative Net debt, keeper craft, pilgrimage knots at Göbekli).
 5. [x] **Sensuality pass — RUN 2026-07-22** (eight injections: mee goreng, Cube dazzle, Nura's meal, phosphorescence, the band thinking about light, Wren's plank trip, the Bangladesh feast tasted, the Urfa courtyard). Original spec: the draft runs on obligation-currency; pleasure is instrumentalized (food = debt tokens, beauty = evidence, touch = triage). Inject 1–3 beats per chapter: one free taste, one beauty-stop, one licensed body-awareness beat (Wren's stair-trip armor-break is undrafted; A-column starved). Rule: pleasure must sometimes be free — not foreshadowing, not a debt, not about to burn. Thesis link: grounding IS bodily pleasure; the ending's "victory is breakfast" must be sensorily earned. Candidates: Mei's terrace dish tasted (Ch 1); Cube dazzle before dread (Ch 2); Nura's food flavored (Ch 3); phosphorescence on Pak Din's passage (Ch 4); leaning rice as lovely (Ch 7); the Bangladesh feast eaten (Ch 11); Urfa food in the worst week (Ch 13).
 6. [ ] **Desire pass — Vol I:** for every scene, identify immediate want, deeper desire, legitimate counter-desire, refusal/delay, cost, and changed exit condition. Keep Eli's hidden need—proof he was not abandoned—under the ring trail and Göbekli identity temptation. Convert lore-only turns into desire meeting refusal.
-7. [ ] **Poetic-rhyme pass — Vol I:** keep prose plain around pressure points; strengthen only images that change perception or choice. Audit Maren's ring, Arif's garden, breath, names, food, and repair so recurrence changes meaning rather than merely repeating. Cut sentences that explain an image after it lands.
+7. [ ] **Poetic-rhyme pass — Vol I:** keep prose plain around pressure points; strengthen only images that change perception or choice. Audit Maren's ring, Rasel's garden, breath, names, food, and repair so recurrence changes meaning rather than merely repeating. Cut sentences that explain an image after it lands.
 8. [ ] **Dramatic-multiplicity pass — Vol I:** ensure every major ally and antagonist holds part of the truth, wants something beyond Eli, and can persuasively justify a consequential choice. Preserve humor, appetite, inconvenience, and bodily life beside cosmology; no character becomes the thesis mouthpiece.
 9. [ ] **Ring entry** in `26_present_day_cast_expanded.md` (the Ring as institution with people and incentives — on-page from Ch 1; no-sides audit).
-10. [ ] Research passes, just-in-time: Pelangi Reach island texture (Ch 1), Melaka market/river (Ch 2–3), Sama-Bajau (first Timah scene).
+10. [ ] Research passes, just-in-time: Pelangi Reach island texture (Ch 1), Malacca market/river (Ch 2–3), Sama-Bajau (first Timah scene).
 
 **Canon hubs:** `00_NARRATIVE_STRUCTURE.md`, `WORLD_BIBLE.md`, `29_trilogy_plot_and_development.md`, `31_volume_I_beatsheet.md`, `32_volume_II_beatsheet.md`, `33_volume_III_beatsheet.md`, `35_artifact_chain.md`
 
@@ -28,17 +29,17 @@
 
 ## Book I — *The Breach*
 
-- [ ] Draft Pelangi Reach ordinary life and the staged attack.
-- [ ] Draft the sustained Meridian City–Straits–Melaka flight; breach ends Chapter 2.
+- [ ] Draft Pelangi Reach ordinary life and the Mandate political squeeze (revised 2026-07-24).
+- [ ] Draft the sustained Meridian City–Straits–Malacca flight; breach ends Chapter 2.
 - [ ] Draft aftermath/grounding and Wren's independent extraction (Chs 3–4).
-- [ ] Draft Mekong/Vietnam agricultural witness, Thailand grounding hinge, and Bangladesh home hinge.
+- [x] **Thailand Ch 5–10 governing draft** in `MANUSCRIPT.md` (2026-07-23). Mekong quarry retired.
 - [ ] Draft Gulf/Mesopotamian evidence without repeating it in Book II.
 - [ ] Draft Göbekli: Eli completes personal Manual Override, chooses people over the complete record, and Emrys is taken.
 
 ## Book II — *The Descent*
 
 - [ ] Draft the westward Anatolia → Bosporus/Thrace/Balkans transfer; no Gulf backtrack.
-- [ ] Make the Europe chain causal: Hassan record → dead-zone signature → Pömmelte → broken-line church → Anthea → Cuno → Albion.
+- [ ] Make the Europe chain causal: Hassan record → dead-zone signature → Pömmelte → broken-line church → Anthea → **bitter cup + Lovernios (Anglesey Ch 6)** → Cuno → Albion.
 - [ ] Dramatize the Arta, Enheduanna, and *Inana's Descent* material without turning texts into exposition.
 - [ ] Make melam external field-pressure and ni embodied awe/fear; show ni being converted into persecution and obedience.
 - [ ] Give Maren's release a real strategic cost: Eli surrenders a useful tether and chooses her freedom.

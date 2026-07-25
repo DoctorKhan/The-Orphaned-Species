@@ -1,14 +1,14 @@
 # Preamble World History — Source Material
 
-> **Status:** relocated from the front of `MANUSCRIPT.md` on 2026-07-12. This is world-building source material, not the current opening. Reveal its contents through lived experience, contested records, checkpoints, medical documents, dialogue, and primary-source fragments. It may later support an appendix, companion, or in-world document.
+> **Status:** reconciled 2026-07-22. The manuscript now begins directly with Eli in Chapter One. This file preserves the retired preamble drafts as world-history quarry and governs how their events appear indirectly through contested records, checkpoints, medical documents, dialogue, infrastructure, and primary-source fragments.
 
-## Delivery method — LOCKED (how the preamble reaches the reader without a preamble)
+## Residue-only delivery — LOCKED (how unstated history becomes lived world)
 
-**Governing principle.** Never state the history — let the reader meet its **residue**. Every fact below reaches the page as something a character *does, avoids, carries, misreads, or fights over*. Exposition answers a question nobody asked; residue makes the reader ask it and supply the answer themselves, and that inference is what makes the world feel real rather than briefed. Same discipline as the cosmology's "never say *Igigi* out loud" (`37`, sensory zoning) and reveal order in `17`.
+**Governing principle.** Do not brief the reader on the macro-history before Eli's story. Let the reader reconstruct its **residue**. Every fact below must become something a character *does, avoids, carries, misreads, or fights over*. Ruins, habits, documents, bodies, and disagreements make history costly, partial, and human. Same discipline as the cosmology's "never say *Igigi* out loud" (`37`, sensory zoning) and reveal order in `17`.
 
 **The toolkit (eight techniques):**
 
-1. **Documentary fragment as epigraph.** Real-science citations head chapters (already: Zeberg & Pääbo COVID/Neanderthal on Ch 1). Extend with *in-world* documents — a Union registry form, a Mandate quarantine order, a Free Ports threshold-house handbill — so the artifact carries the fact and dates the world without a narrator.
+1. **Documentary fragment as epigraph.** Real-science citations may head the chapter where their consequence becomes visible. The retired Zeberg & Pääbo epigraph is archived below and can be restored later only if Chapter 1 earns the counterpoint. In-world documents — a Union registry form, a Mandate quarantine order, a Free Ports threshold-house handbill — can carry facts and date the world without a narrator.
 2. **Infrastructure as scar tissue.** The war is legible in what is now normal: distrusted reopening notices, biosecurity floats, a *corridor satellite* you must wait for (tech regressed), sailing revived because the sea outlasted the states. The reader reconstructs the collapse from the ruins.
 3. **Loaded vocabulary, unexplained.** Characters use era/faction words as ordinary nouns — *the machine wars, the hunt, the Fractured, threshold house, before reopening* — never glossed. Meaning accretes through context and repetition.
 4. **Ancestry made bodily, not demographic.** The chr3 marker and "South Asia worst, East Asia spared" never appear as statistics — dramatize the swab logic: a checkpoint that swabs the South Asian dock-workers and waves the East Asian founders through; who fills the refugee towers vs. who runs the Foundry. Demography lands as *who stands in which line*.
@@ -19,27 +19,48 @@
 
 **Fact → vehicle map:**
 
-| Preamble fact | Diegetic vehicle | Status in Ch 1 |
+| World-history fact | Diegetic vehicle | Status in Ch 1 |
 |---|---|---|
-| Bioweapon; ancestry-keyed; South Asia worst, East Asia spared | Checkpoint swab logic; towers vs. Foundry; chr3 epigraph | Epigraph ✓; bodily demography not yet dramatized |
+| Bioweapon; ancestry-keyed; South Asia worst, East Asia spared | Checkpoint swab logic; towers vs. Foundry; optional chr3 epigraph | Meridian intake sorting dramatized ✓; epigraph archived |
 | Heritable legacy (germline integration) | Mandate quarantine of *adolescents* specifically; a mother's dread at a child's fever | Gap |
 | Machine wars (drones/robot soldiers) | A decommissioned drone in the marina; a veteran's offhand line; the plaza *robot dog* as domesticated war-tech | Robot dog present ✓ (could carry more) |
 | Political schism; rigged-election; first woman president | A faded campaign poster; two workers who "no longer share the same reality" | Gap |
 | Three factions (Union / Mandate / Coalition) | Named only as habit — documents, checkpoints, "before reopening"; Pelangi Reach *is* the Coalition gray zone | Implied ✓ (names unspoken) |
-| Union = containment / "the Fractured"; Coalition = threshold houses | A handbill; *Fractured* dropped once, unexplained; a threshold house glimpsed above the docks | Gap (highest-leverage) |
-| Puberty receiver / awakening / second sight | Eli's surge; the Melaka breach; the hummed song; his mother's line | Strongly seeded ✓ |
+| Union = containment / "the Fractured"; Coalition = threshold houses | A handbill; *Fractured* dropped once, unexplained; a threshold house glimpsed above the docks | Threshold-house residue seeded ✓; *Fractured* still held |
+| Puberty receiver / awakening / second sight | Eli's surge; the Malacca breach; the hummed song; his mother's line | Strongly seeded ✓ |
 | Natural carriers pre-existed | "The useless read his mother had"; the hunt that orphaned him | ✓ |
 | Ancient force stirring | Rumor, superstition, the pull toward stones | Held as hook ✓ |
 
-**Priority gaps (where to spend effort, in order).** Ch 1 already converts roughly half the preamble into residue (refugee towers, statelessness, "Arif knew Babaji before the hunt," the reopened port, the receiver in Eli's body). The three highest-leverage remaining seeds:
+**Priority gaps (where to spend effort, in order).** Ch 1 already gives roughly half the archived history lived consequence (refugee towers, statelessness, "Rasel knew Babaji before the hunt," the reopened port, the receiver in Eli's body). The three highest-leverage remaining embodiments:
 
-1. **The "Fractured" / threshold-house split** — one unexplained word + one glimpsed building conveys the whole three-way response to the awakening and raises Eli's personal stakes (what he would be classified as).
-2. **Ancestry-keying made bodily** — a single checkpoint beat where swab-logic sorts by ancestry does more than the entire demographic paragraph.
-3. **One war-fragment from a rememberer** — Babaji or an old sailor, one concrete image, so "the machine wars" is not just a term.
+1. **The "Fractured" half of the threshold split** — the threshold-house building is now glimpsed in Malacca; hold *Fractured* for a later moment when classification threatens a person directly.
+2. **One war-fragment from a rememberer** — Babaji or an old sailor, one concrete image, so "the machine wars" is not just a term.
 
 **Craft guard.** Seed, do not dump: no more than one loaded term or one documentary fragment per scene; let repetition do the assembling. If a beat exists only to convey a fact, cut it — the fact must ride on an action, an object, or a conflict that earns its own place.
 
-## Former preamble
+## Retired manuscript preamble — 2026-07-22 quarry
+
+It began with a severing of arteries. When the neverending conflict in the Middle East forced the closure of the Strait of Hormuz, the oil embargo hardened around the wound. But the old world was too interdependent to survive a localized choke. Deprived of the energy and rare-earth chains the AI economy had been burning through, the bubble burst in a cascading failure — the paper future and the physical one failing together.
+
+The depression that followed elected the first woman president into a hollowed empire. The working classes — exhausted by decades of extraction and stranded when the paper burned — were already primed to fracture. What broke was not only an election but a class severance: those who had built the fortresses and those who had been ordered to live inside them no longer shared the same reality. Recovery programs could not reverse that rot.
+
+The wars widened until they swallowed everything. Cornered nations loosed a weapon built on a real lever — a Neanderthal haplotype, the one that nearly skipped East Asia. It was meant as state control: an artificial bottleneck, turning the host's own biology against itself where the marker sat. Everyone was touched; millions died at once where the marker was common — Bangladesh and India first and worst, half their people carrying it. East Asia had nearly skipped the marker; the East watched the worst of it from a distance. Those who survived passed the alteration down, and the weapon's legacy would not stay where governments had aimed it.
+
+When the fires thinned, the world sorted into three habits of survival — not three new empires so much as three ways of meeting collapse. The Eastern Mandate endured through scale: bruised, brutal, still standing, already stiff with the problem coming next. In the Americas, the Party welded the fracture into the Continental Union — registries, walls, force — a brittle machine that looked strong because it had no spare parts left. And where capitals had burned, the Free Ports Coalition learned what merchants learn when palaces fall: there is no single throne to defend, only harbors, routes, and the willingness to trade with whoever still moves goods. The great networks had failed together, as interdependent things do when embargo, plague, fire, and famine arrive in one lifetime; what kept moving were the ports, not the palaces.
+
+Then puberty came for everyone's children — and the bottleneck's second cost.
+
+Adolescence broke differently. Hormones opened a door the war had already cracked in the genome: fever, stillness, visions that looked like madness from outside. The episodes could last days, sometimes weeks. The Union answered with containment wards — sedation, inhibitors, baseline enforced; survivors who would not normalize were medicated, monitored, and quietly excised as the Fractured. The Mandate answered with corridors and cure. Along the broken lanes, the Free Ports built threshold houses instead — above markets and docks, part clinic, part retreat, part echo of the old vision quest, where no palace script could follow and knowledge passed harbor to harbor like trade goods. What the states had designed as a lock became something they could not monopolize: a shared way of guiding a nervous system through the storm — songs, hands, proximity, the old rhythm of keeping someone alive while the fever ran — passed hand to hand like any other trade good, not a cure, but communal grounding. The Union hunted it as violation; the Mandate framed it as disease; the Coalition integrated it. Not all who entered came back able to live among the living. Those who did returned with a second sight that never fully switched off — waking life threaded with contact, tune, heat, the sense of being addressed. In that contact, the living web — which had slept through the long rigid cage — began to stir again from the bottom of the world upward.
+
+The harbors reopened unevenly. Satellites still lied some nights; registries outlived the emergencies that bore them; blocs learned to hunt the children whose episodes lit the grid. Along the broken lanes, songs still crossed harbor to harbor; neighbors still noticed when you forgot the day. In the gray corridors between the giants, survivors looked for their mothers — and for the songs that might still lead them home.
+
+These were their stories.
+
+> *The major genetic risk factor for severe COVID-19 is inherited from Neanderthals.*
+>
+> — Zeberg & Pääbo, *Nature* 587 (2020)
+
+## Earlier preamble variant
 
 It was a wound that never healed in a battle that never ended. The final cut was the Iran war which spilled the lifeblood of the economy, at least for the United States. The AI bubble burst into a glorious spectacle to rival the best fireworks. A digital fire was burning at the twilight's last gleaming.
 

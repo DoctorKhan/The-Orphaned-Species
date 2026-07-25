@@ -6,6 +6,8 @@
 >
 > This mirrors the three stages named in the Living Way teaching. The **Outer Child** learns through stories, images, and simple rules. The **Inner Child** is the undivided self, whole and born of the Light. The **Adult of the Way** is the passage between them — and these lessons are the road. We do not teach children one thing and adults another. We teach **one truth at two depths**, so a person can grow into it for the rest of their life without ever having to unlearn it.
 >
+> **Verse layer (companion):** `54_the_lay_verses.md` — the same curriculum in Tao-like compressed form for zine, wall, and epigraph spread. Prose here; verses there; enactment in the novel.
+>
 > None of these are commandments handed down from outside. They are descriptions of what your own nature already is once the noise quiets. The good is not added to you. It is uncovered.
 
 ---

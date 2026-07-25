@@ -54,8 +54,8 @@ The local links below work in the shared Projects workspace. A GitHub link is in
 | **Myths** | [README](../Myths/README.md) · [Avatar's Journey](../Myths/Avatar%20Journey.md) · [Pilgrimage Network](../Myths/Pilgrimage%20Network.md) | [GitHub](https://github.com/DoctorKhan/Myths) | Structural ancestry: Wisdom/Experience/Principles became a revelation test; Body/Family/World became the Three Circles. Use the architecture, not the proposed universal religion as an in-story institution. |
 | **annunaki / Sumerian Rebirth** | [README](../annunaki/README.md) · [game overview](../annunaki/overview.md) | None currently | Early game/adaptation prototype. Its sages, lost technologies, Tree of Life, and stone-circle motifs already reached the cosmology. Preserve remaining mechanics for a possible game adaptation rather than importing progression systems into the novel. |
 | **Timeline** | [master notebook](../Timeline/timeline.md) · [myth tradition](../Timeline/myth_tradition.md) · [Adapa](../Timeline/story_adapa.md) | None currently | Primary cosmology laboratory behind the dragons, Two Trees, grid, resets, Albion, and Adapa material. Ideas enter canon only after reconciliation in `00_MASTER_TIMELINE.md`. |
-| **Living Way Knowledge** | [README](../living-way-knowledge/README.md) · [Living Way](../living-way-knowledge/The_Living_Way.md) · [Living Architecture](../living-way-knowledge/The_Living_Architecture.md) · [Living Suttas](../living-way-knowledge/The_Living_Suttas.md) | [GitHub](https://github.com/DoctorKhan/living-way-knowledge) | Practical and ethical counter-current. Its practices and conduct belong across all three novel volumes; its full cross-tradition theology remains companion material. |
-| **Living Way site/app** | [site](../living-way-site/README.md) · [app](../living-way-app/README.md) | Separate consumer repositories | Publication and product surfaces. They consume Living Way knowledge but do not define novel canon. |
+| **Living Way Knowledge** | [README](../living-way/living-way-knowledge/README.md) · [Living Way](../living-way/living-way-knowledge/The_Living_Way.md) · [Lay Verses](../living-way/living-way-knowledge/Mindfulness/The_Lay_Verses_of_the_Living_Way.md) · [Living Architecture](../living-way/living-way-knowledge/The_Living_Architecture.md) · [Living Suttas](../living-way/living-way-knowledge/The_Living_Suttas.md) | [GitHub living-way-knowledge](https://github.com/DoctorKhan/living-way-knowledge) · local monorepo: `../living-way/living-way-knowledge` | Practical and ethical counter-current. **Canonical spiritual-text corpus** (Tao, suttas, precepts, lay verses). Full cross-tradition theology remains companion material; novel dramatizes, library publishes. |
+| **Living Way monorepo** | [justfile](../living-way/justfile) · [site](../living-way/living-way-site/README.md) · [app](../living-way/living-way-app/README.md) · [web](../living-way/living-way-web/README.md) | `../living-way` | Publication pipeline: `just build` → sync knowledge to site/app/web. Replaces standalone `living-way-site` / `living-way-app` paths over time. |
 
 The governing dependency direction is **sibling laboratory -> deliberate reconciliation here -> novel or companion**. It must never reverse into silent bulk copying from an older snapshot.
 
@@ -127,13 +127,13 @@ The last commit of the first sustained phase was September 16, 2025. Much of thi
 
 ## Phase II — The missing affirmative tradition
 
-### December 2025–March 2026 — `../living-way-knowledge`
+### December 2025–March 2026 — `../living-way/living-way-knowledge`
 
-The Living Way work began in December 2025 with *The Scroll of the Living Way* and expanded into a cross-tradition library drawing from Yeshua, Laozi, Gotama, Krishna, mindfulness practice, Musashi, and an architectural synthesis.
+The Living Way work began in December 2025 with *The Scroll of the Living Way* and expanded into a cross-tradition library drawing from Yeshua, Laozi, Gotama, Krishna, mindfulness practice, Musashi, and an architectural synthesis. It now lives in the **`living-way` monorepo** (`living-way-knowledge/` submodule path).
 
 This work supplied something the earlier quartet did not fully possess: a positive tradition that could be handed down without becoming another command structure. Its central posture—sayings as mirrors rather than commandments, practice over obedience, inner recognition over external authority—now supports the current thesis's warning that even a true story can become a new cage.
 
-The local `living-way-site` and `living-way-app` repositories are publication and product consumers of `living-way-knowledge`; they are not primary sources for Book 5's history.
+The local `living-way-site`, `living-way-app`, and `living-way-web` repositories are publication consumers; orchestration is via `../living-way/justfile`. They are not primary sources for Book 5's history.
 
 ### May 23, 2026 — Living Way lessons enter this repository
 
@@ -217,7 +217,7 @@ Commit `5543053` records the current narrative correction. Earlier June material
 - receiving a practice does not grant its mastery;
 - Eli's unusual breadth does not make him the deepest healer or universal protagonist.
 
-The present-day opening also moved away from a tourism-like Boracay/Bangladesh/Pai itinerary. Eli is now raised across borders by fugitive parents, survives the attack that kills his father and removes his mother, lives with a chronic traumatic brain injury, finds accountable refuge in Forest City during a temporary outbreak, and voluntarily leaves for one credible clue in newly reopened Melaka.
+The present-day opening also moved away from a tourism-like Boracay/Bangladesh/Pai itinerary. Eli is now raised across borders by fugitive parents, survives the attack that kills his father and removes his mother, lives with a chronic traumatic brain injury, finds accountable refuge in Forest City during a temporary outbreak, and voluntarily leaves for one credible clue in newly reopened Malacca.
 
 The new guardrails are recorded in:
 

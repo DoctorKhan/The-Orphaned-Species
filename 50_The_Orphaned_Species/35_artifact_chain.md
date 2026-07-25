@@ -283,7 +283,7 @@ The trilogy's closing visual grammar is not a third single tree with one guardia
 
 **Relationship to the plaquette:** the plaquette preserves **one tree** flanked by **two guardians** (bridge before the Two-Tree wound fully hardened). The rainbow tree is the **inverse completion**: **two trees** with **guardians reunited**. Book I opens on the three-symbol bridge; Book III closes on the two-tree union. Same grammar; wound and repair.
 
-**Placement:** Albion / Men-an-Tol remains a candidate site because holed-stone convergence-grammar is already union-native, but the final form should belong to the **living community** rather than a vanished priesthood. The Two-Tree union **act** at Albion (`22` § Climax) — life technology + death technology run together once — is the enacted version of what the symbol depicts.
+**Placement:** the first Two-Tree union **act** occurs at Albion at the end of Book II (`22` § Book II climax; `41`) — life technology + death technology run together once. The final **symbol** belongs to Book III's living community rather than a vanished priesthood, where the exceptional act becomes a revisable civic and scientific practice.
 
 **Craft guardrails:** do not end on a lecture titled "The Rainbow Tree." End on conduct that could only exist if both Trees were joined. Do not let the symbol replace the feathered serpent — guardian reunion and Two-Tree reunion are **paired completions**, not one image doing all the work.
 

@@ -85,7 +85,7 @@ Make atomization relatable through material pressures young people recognize. Th
 - **Work and credential precarity:** people perform usefulness because dismissal can mean losing housing, health care, visa status, community, or identity.
 - **Mistrust of government and institutions:** people know they need standards and protection, but expect registries, safety language, and emergency powers to become ownership.
 - **Relationship breakdown:** romance is asked to replace family, ritual, economic security, meaning, sex, friendship, and repair; then blamed when it cannot.
-- **Fertility anxiety:** people want children, fear children, delay children, cannot afford children, cannot find trustworthy partnership, or experience reproduction as policy, market, lineage, or status pressure.
+- **Fertility anxiety / missing cohorts:** the prewar global baby bust precedes the Weapon; the wars and targeted deaths turn slow aging into demographic rupture. People want children, fear children, delay children, cannot afford children, cannot find trustworthy partnership, or experience reproduction as policy, market, lineage, labor supply, or status pressure. Smartphones and feeds are one contested accelerator through attention displacement and commodified courtship, never the single canonical cause. Destroying the platform does not rebuild trust, housing, third places, or shared obligation.
 - **Loss of shared reality:** feeds, propaganda, state secrecy, factional media, and psion interference make people unsure what can be known together.
 - **Medical and mental-health vulnerability:** bodies are expensive, monitored, medicated, optimized, neglected, and used as proof of deservingness.
 - **Climate and ecological anxiety:** the living world feels unstable, and institutions turn survival into private responsibility or technocratic management.
@@ -94,6 +94,8 @@ Make atomization relatable through material pressures young people recognize. Th
 - **Institutionalized repair:** people need help, but every path to help creates files, diagnoses, eligibility tests, liability, surveillance, or debt.
 
 The point is not that all modern institutions are bad. The point is that young people can feel the central question in their own lives: **where can I belong without being priced, profiled, optimized, recruited, medicated, registered, or turned into content?**
+
+The demographic form of that question is: **who wants me alive, and who merely needs my replacement?** Pronatal policy can subsidize an existing household or coerce a body, but it cannot manufacture desire, intimacy, or durable kinship. Alloparenting is the constructive counter-image when it distributes care without dissolving parent, child, privacy, or consent into the collective.
 
 ### Era expressions
 
@@ -123,6 +125,14 @@ The point is not that all modern institutions are bad. The point is that young p
 
 The Weavers' Net is the accumulated relational infrastructure the order weaves: marriages arranged or blessed, apprenticeships placed, godchildren claimed, houses allied, debts of hospitality remembered. **Each match is a knot; generations of matches are a net** that spans ports, cultures, and blocs — the human counterpart of the living web.
 
+### Formative bonds — difficult to break, never compulsory
+
+A Weaver bond becomes formative through duration and mutual witness, not a ceremony alone. People share houses, survive crossings, tend one another's bodies, hold confidences, learn families, assume obligations, and become a trusted coordinating unit in other people's lives. The bond is therefore stored in more than private feeling: nervous-system habit, domestic routine, community memory, reciprocal debt, and the expectations of people the pair once carried together. Separation can end romance or cohabitation without immediately dissolving that infrastructure.
+
+**Hard to break does not mean impossible to leave.** The bond has no claim to permanent sex, access, labor, forgiveness, location, or reunion. Either person can refuse any present act. A deliberate unbinding may require returning keys and records, transferring responsibilities, naming debts before witnesses, and ensuring dependents are not abandoned; this is accountable disentanglement, not permission to depart. Some bonds are never formally unbound and remain dormant, estranged, or capable of renewal. Governing distinction: **the bond remembers; the person still chooses.**
+
+**Wren / Rowan:** their relationship was formative and never fully unbound. They stopped sharing a life after the failed extraction, but their reflexive coordination, mutual-aid obligations, bodily familiarity, and recognition survived inside the Net. Book II does not manufacture a reunion from nostalgia; it places two people back inside a bond that still has structure, then requires them to choose whether—and under what new terms—it becomes romantic again.
+
 ### How it works
 
 - **Matchmaking is the visible, respectable craft** — the auntie register the setting already honors (*ghotok*, *mei-po*, terrace aunties). Introductions and placements are the same craft applied beyond marriage.
@@ -141,6 +151,181 @@ The Weavers' Net is the accumulated relational infrastructure the order weaves: 
 - Matchmaking scenes stay warm, funny, food-adjacent — the auntie/terrace register (`24`) — before their political depth shows. The reader should enjoy the craft before understanding it is also how power moves.
 - Prefer a Net-knot over luck: anywhere the trilogy needs a clue routed, a safehouse found, or a stranger vouched for, an old match or godparent tie is better than coincidence (the ring-photograph chain is already this shape).
 - **Eli/Wren — LOCKED (2026-07-21): blessed, not built.** A Weaver house quietly vetted Eli and blessed the pairing *after* it formed, without Wren's knowledge — small Vol I favors that read as luck, discovered in Vol II (`32` Act IV Ch 5; re-choosing completes at Ch 7 denouement) at the peak of her *"real, engineered, or both"* fear. The order never arranged the meeting. Full beat and elder-confrontation shape: `19_romance_and_divine_pairing.md` § Weaver bonds, the matchmaker thread. This gives the consent line its personal test case: even a benevolent blessing given without knowledge lands as manipulation.
+
+---
+
+## The Harbor Thread
+
+*Named 2026-07-24; rev. B 2026-07-24. Glossary: `95`. WORLD_BIBLE § Meridian. Not the missing male order (`29` § diagnosis).*
+
+**The Harbor Thread** is the distributed, mostly male **underground** that knows how cargo, bodies, witness, and **expendable male leadership** move when official maps lie — Stack service levels, strait timings, chandlery handoffs, freight ramps, inspection rhythms. **Street:** *the Thread*; *harbor thread* when the port/strait sense matters.
+
+### Status — accepted, not spoken
+
+- **Underground acceptance** — not house (visible servile layer) and not road (rejected). The settlement **uses** the Thread, routes through it, sorts men by it — and **does not talk about it** in polite rooms.
+- **Weaver stance — polite blindness:** the **Weavers' Net** would **ignore the Thread entirely** if it could. They do not initiate, bless, or credit it. They rely on it anyway — harbor packets, crossings, witness handoffs — the way a house relies on a drain it will not discuss. Matchmaking knots women **upward**; the Thread places men **into spending visibility**.
+- **Nobody says *"I'm Harbor Thread."*** They **hold a thread**, **run a thread**, **burn a thread**. Mandate files misread it as harbor-logistics slang.
+
+### Front posts — dangerous male leadership
+
+The Thread is not only a maze. It **sorts whichever male leaders still remain** into **front posts** — public roles where the man is the **expendable interface**: absorb travel risk, blame, targeting, registry attention, and violence so the civil layer behind him does not.
+
+| Front post (examples) | Why it is spending |
+|---|---|
+| Harbor captain / strait runner | Contested water, inspection, seizure |
+| Facility lead under Mandate squeeze | Registry face, first held |
+| Founder / **CEO** | Public target, travel, liability, schedule — **CEO is a dangerous occupation**, not a prize |
+| Idol / public performer on Circuit night | Body in the crowd, security magnet |
+
+**Craft rule:** do not glamorize CEO or founder as Thread reward — it is **placement into exposure**. Forest Foundry's male founders, Cherry Cube's stage, the king's liaison men: front posts the Thread can fill when a woman-led house needs a male face at the dangerous edge.
+
+### What it is not
+
+- **Not an order** — no houses, initiation, or central command. Each man one segment.
+- **Not the Weavers' Net** — women weave **kept** knots upward; Thread routes **spent** men outward into front posts.
+- **Not the missing male order** — proto-network only; Book III cloisters are the third road toward **kept** male standing.
+
+### How it works (maze)
+
+- Segment knowledge — shafts, lifts, which left not to take, which trucks roll at safety car.
+- **Home tongue opens, never owns** — show in dialogue/vowels; varied origins; no omniscient ethnic guide. Do not narrate *Bengali* when culture already reads (`14` § Culture and language).
+- **Eli — LOCKED 2026-07-24:** learned **home tongue and cultural rhythm from his parents** when young (Rasel's district, river names, table speech, Maren's Bangla) — **useful** in Thread corridors (clerk, maze, overhear) because Thread men share the tongue. He was **not raised as Thread**: no ledger rooms, badge math, segment initiation, or institutional memory. Culture **opens**; it does **not** grant trust, routes, or membership. Contrast **Rowan** (Weaver/diaspora embedded). Guardrail: not ancestry-as-destiny (`31` diaspora lock).
+- Exposure priced — badge, wages, family.
+
+### Prose seeds
+
+- Wrong-room (Ch 2): *Hassan holds or we burn the harbor thread.*
+- Elder dock register (optional, one gloss): **Bhatiali men**.
+- Over tea: *"Don't say Thread in here."* / *"Someone Threaded him into that chair."*
+
+---
+
+## The Hinge
+
+*Named 2026-07-24. Glossary: `95`. Timeline: `23_2040_present_frame.md`.*
+
+**The Hinge** is the civilizational turn (~2037–2040 and its permanent settlement): WWIII acute phase, engineered outbreak mortality, armistice partition, puberty-gated episodes, gender inversion, threshold-house spread, emergency architecture that never sunsets.
+
+| Register | Name |
+|---|---|
+| Era / author | **The Hinge** |
+| Street (acute 2037–39) | **the Fever Years** |
+| Street (ongoing episodes/care) | **the Threshold** |
+| Union file | **Activation Event** |
+| Mandate lie | **the Sparing** |
+| Keeper / Weaver | **the Opening** |
+
+**Craft rule:** characters say *Fever Years* or *after the Hinge* — not "engineered outbreak" in dialogue unless a clinician is filing.
+
+### Scientist claiming — post-Hinge cold war
+
+**LOCKED 2026-07-24.** After armistice and bloc partition, the three-way cold war **claims scientists as strategic property** — neuroscientists, physicists, biologists, engineers, clinicians with research capacity. Not optional mobility: **assigned**, **ledgered**, **recalled**, captured at borders, pulled from universities into bloc labs. Union, Mandate, and Coalition each run claiming regimes (names differ; effect the same). Street: *claimed*, *on the bloc ledger*, *assigned*.
+
+| Register | Texture |
+|---|---|
+| Union | Registry + **assigned sector**; refusal = Fractured-adjacent risk |
+| Mandate | **Sparing** rhetoric + **indispensable personnel** files; white-coat transfer |
+| Coalition / ports | **Harbor assignment**, threshold institutes, teahouse consent labs — still claimed |
+
+**Craft rule:** do not Paperclip-paste WWII — show **passports, recall notices, lab transfer, corridor seizure** on-page. **Maren Holt** = **neuroscientist** (British, natural carrier). **Rasel Khan** = **physicist**. Both **claim-category** captures — held before/during formalization; **post-Hinge law** makes the theft permanent and ordinary. Eli's parents are not unique victims; they are **high-value claims**.
+
+### Passport split — mixed-nationality claiming
+
+**LOCKED 2026-07-24.** Scientist claiming routes by **passport / citizenship**, not marriage. A mixed-nationality couple cannot stay in one custody chain — **different papers, different claimants, parallel convoys**.
+
+| Parent | Passport / citizenship | Claimed by | Custody register |
+|---|---|---|---|
+| **Rasel Khan** | Bangladeshi / South Asian file | **Eastern Mandate** | *Russell Khan* — indispensable personnel, black-lab transfer |
+| **Maren Holt** | British / UK file | **Charkha Measure / Ring** (Crane apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
+
+**Why they were separated:** not only attack violence — **claim routing**. Extraction-night intercept: Mandate files **Rasel**; Measure/Ring files **Maren**; no joint holding across orgs. Inter-bloc rules forbid merging chains; even if both survive the handoff, they **leave on different vehicles** toward different jurisdictions. Eli remembers one night; the file system remembers **two nationals, two claims**.
+
+**Eli's passport:** **Eli Holt** on **British (maternal) paperwork** — would Union/Measure-route as British dependent if linked to Maren's claim file; keeper protocol **unlinks** him (*orphan on paper*) so neither chain gets a clean dependent match. His **statelessness** in 2040 is partly real, partly net mercy.
+
+**Craft rule:** Vol I — one border stamp, two file flags, *Russell* vs *Rasel*, *English woman on the file* in separate rooms; save exposition for Vol II suppression scene or corridor documents.
+
+---
+
+**LOCKED 2026-07-24.** When **claimed scientists** flee or are seized, a **living child on the household file** is a **beacon** — hostage value, carrier-adjacent risk, inheritance of classified work, cross-bloc chase trigger. **Keeper net protocol** (Weavers / harbor Thread / clinic corridors): **get the child off the linked file** when possible.
+
+| Layer | What it means |
+|---|---|
+| **Operational** | Split routes during flight — one capture must not end the line |
+| **Violent** | Attack/handoff separates family by force (Eli: TBI, healer, Thailand corridor) |
+| **File security** | **Orphan on paper** — parents *dead* or *unlinked* so the child survives registry, border, and bloc recall |
+
+**Not** a Ministry of Child Security or blanket camp policy on-page unless earned later. **One family, one net decision, one file lie** — protective lying, not abandonment. Street distinction keepers teach: **stolen child**, not orphan. Parents did not choose distance; the net chose **survival over truth**. Blocs may also separate families on capture — same logic, colder paperwork.
+
+**Eli = template case:** extraction splits him from Maren and Rasel; Somchai stabilizes; escape net moves him toward Thailand; net lore = both parents dead; **Eli Holt** on passport, not *son of Russell Khan / Maren Holt, claim-category household*. Pier reveal names the mercy: *dead on the file so you could live.*
+
+**Craft rule:** do not exposition-dump the protocol in Vol I — show wage ticket, wrong corridor flag, *boy on the call sheet*, Babaji's pier line. General rule stays author/keeper register until a scene earns it.
+
+### Capacity claiming — talents and minds
+
+**LOCKED 2026-07-24.** **Scientist claiming** is one belt of a wider post-Hinge regime: **exceptional capacity gets claimed** — neuroscientists, physicists, **visuo-spatial prodigies**, memory outliers, carrier/threshold adolescents, anyone the merged health-border-labor file can **ledger, assign, recall, or seize**. Not only psionics: a child who maps a shaft system once and never forgets is **claim-category** in the wrong room.
+
+| Register | What gets flagged |
+|---|---|
+| Union | **Assigned sector** — science, engineering, spatial aptitude tests, registry cohorts |
+| Mandate | **Indispensable personnel** — white-coat transfer, *extended assessment* |
+| Coalition / ports | **Harbor assignment**, threshold institutes, teahouse consent labs |
+| Street | *claimed*, *on the ledger*, *flagged*, *recall notice* |
+
+### Staying under the radar — LOCKED 2026-07-24
+
+**Social norm, not Eli-only.** After the Hinge, ordinary people **try not to be read as too talented** — scientists, spatial prodigies, fast learners, stable threshold kids, anyone who might **trigger a file**. **Under the radar** is survival literacy: slow down the obvious answer, sandbag aptitude tests, refuse the praise room, share credit, stay **adequate on paper**.
+
+| Register | Texture |
+|---|---|
+| Worker / foster / corridor culture | *Don't finish the puzzle where they can see you.* *Adequate is safe.* |
+| Parent / keeper advice | *Don't flash.* *Stay off the ledger.* |
+| Bloc surface | Merit rhetoric, talent prizes, recall notices — the trap dressed as opportunity |
+| Street irony | The competent get claimed; the flashy get claimed faster |
+
+**Not cowardice** — rational response to **capacity claiming**. **Not foolproof** — files merge, someone clocks you anyway (*boy on the call sheet*), emergency still needs the fast hand. **Craft rule:** show **collective habit** (Priya signs off average times; a clerk yawns through a prodigy; two workers trade the hard splice so neither logs it solo) — Eli inherits the norm from **foster/worker raising**, not unique virtue.
+
+**Craft rule (individual):** show **hidden talent** through work behavior — Eli finishes the diagram in his head but logs the slow time; he remembers the corridor after one walk but doesn't offer to lead. **Performing average** is survival craft, not false modesty.
+
+**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **TBI** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Hinge folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-24 (rev. C):** Priya may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Meridian contract** = scheduled leave away from island scrutiny.
+
+---
+
+## House men, Thread men, and Extras
+
+*Named 2026-07-24; Thread rev. B; Extras rev. C 2026-07-24. Glossary: `95`. Settlement: `29` § inverted order.*
+
+Post-Hinge **inverted order** — three male fates (two spoken, one not):
+
+| Street label | Status | Texture |
+|---|---|---|
+| **House men** | **Visible** acceptance | Badge, wage ticket, Foundry lane, clinic porter — servile civil layer; **belonging without standing**; unkept |
+| **Thread men** | **Underground** acceptance | Harbor Thread — routes, witness, **front-post sorting**; **used, not named**; Weavers' **polite blindness** |
+| **Extras** | Rejection | Demobilized, unmated, uninitiated; perimeter, raiders — *"he went Extra,"* *"he's an Extra"*; insult deliberate (film-extra disposable) |
+
+**Front posts** — dangerous male leadership the Thread fills: harbor captain, facility lead under squeeze, founder/**CEO** (target and liability, not prize), public performer. **CEO is a spending occupation.**
+
+**Third road (Book III):** cloister initiates — **kept** standing earned by rite; neither house servitude nor Thread placement nor Extra.
+
+**Prose:** *"He's house."* / *"Don't say Thread in here."* / *"Extras at the perimeter again."* / *"She won't mourn an Extra son."*
+
+**Guardrails:** house men = indictment of settlement, not virtue; Thread men = necessary underground, not romantic outlawry; Extras = legible, not cartoon villains — the insult is the settlement's, not the book's. Union census: *demobilized male cohort* — file language only.
+
+---
+
+## The Weaving-in
+
+*Named 2026-07-24. Glossary: `95`. Weavers: `29` § The Weavers.*
+
+How the **Weavers' Net** entered organizations after **the Hinge** — not a coup:
+
+1. **Threshold houses** — staffed, supplied, and discreet during quarantine; never left when emergency powers persisted.
+2. **Lay teachings** — unbranded curriculum (grounding, cup trick, meal-as-care) spread as ordinary custom.
+3. **Matchmaking under emergency hiring** — nieces, godchildren, marriages placed into clinics, ports, refugee intake when states hired fast — each a **knot**.
+4. **Human ledger** — when health/border/security databases merged in the Fever Years, Weavers kept what charts forgot.
+
+**Weaver–Thread relation — LOCKED 2026-07-24:** the Net **would ignore the Harbor Thread entirely if it could** — no initiation, no credit, no house record. **Polite blindness:** use the routes, never name the institution. Thread sorts men into **front posts** (spending leadership); Weavers sort women into **kept** knots — complementary, unequal, mutually dependent, mutually unacknowledged in salon speech.
+
+**Thesis line:** *The Weavers survived the Hinge because keeping was organized; men's institutions only knew spending.*
 
 ## The forgotten game — civilization as play that forgot it was playing
 
@@ -196,7 +381,7 @@ Distributed antagonism holds: both readings are true somewhere, and human instit
 
 **Core movement:** the story should develop from external conspiracy, to internal liberation, to species-scale reconnection. The protagonist first discovers that the world has been controlled, then discovers that control works through his own mind, then witnesses humanity recovering the capacities and life technologies that atomization was designed to suppress.
 
-This epistemic movement runs through a second, locked braid: **Body, Family, Civilization**. The circles are not assigned to volumes. Institutions train families, families condition bodies, and bodies reproduce institutions; discovery can move outside-in while consequences move inside-out, or the plot can reverse either direction. An outer conspiracy matters because it can pull an inner lever, and an inner liberation matters only if it changes family and civilization.
+This epistemic movement runs through a second, locked braid: **Body, Family, Civilization**. All three operate throughout the trilogy—institutions train families, families condition bodies, and bodies reproduce institutions—but the reader's decisive understanding advances by volume. **Book I foregrounds Body:** what enters Eli does not own him. **Book II foregrounds Family and loss:** whom he loves does not belong to him. **Book III foregrounds Civilization:** a system calling people family does not earn the right to spend them. The final recognition is that civilization often operates as an engine while borrowing kinship language: it converts bodies, labor, loyalty, attention, and time into organized continuity, then exports injury, displacement, disability, grief, and death as if people were entropic exhaust. The people are never waste in the book's moral voice; the system treats them that way. Institutions still produce real goods, so the answer is accountable coordination that carries its costs rather than exporting them downward.
 
 Short form:
 
@@ -308,7 +493,7 @@ The evolutionary test is coexistence with living power. Humanity previously wors
 
 The final recognition is retrospective inevitability, not fate. Once coexistence is demonstrated, the long history becomes legible: ritual, astronomy, science, law, medicine, communications, computation, and community were all partial rehearsals for living beside power without surrendering agency. It has always been like this because the same problem has always been returning. The ending reveals the pattern; it does not prove that the outcome was guaranteed.
 
-**Book 5 expression:** The living network is discovered through an adventure rather than disclosed as doctrine. **Melaka opens the receiver; charged grounds hold the teachers** — the breach is undifferentiated web-noise, not a bulk download; named practitioners clarify at stones and charged sites under pursuit. **Legends of talking stones** (local folk names; `36` §7a) give ordinary characters a vocabulary for charged-ground behavior before Eli has mechanism — a grower, sailor, or shrine keeper says the stone "remembers" or "answers," and the reader feels the truth before the grid vocabulary arrives. Altered plant growth is noticed first; repeated observations establish a conductor; paired anomalies establish the positive and negative ends of a break; crop formations reveal new lines forming; historical stone geometry reveals inward deflection; Cuno's incomplete transmission finally reveals communication at the center. Each step changes the route and increases pursuit. Cuno remains the cleanest preview of the social form: many minds in the right shape becoming one mind without a master. Eli's overlapping path—identification, charged contact, relation, seeing, surge-discrimination, creation—shows one person maturing across registers without creating classes. The returning healer proves that another person can go much deeper in one practice. The Modern Child is the seed of the wider awakening: capacities return first as symptoms without explanation, then as memory, then as practice.
+**Book 5 expression:** The living network is discovered through an adventure rather than disclosed as doctrine. **Malacca opens the receiver; charged grounds hold the teachers** — the breach is undifferentiated web-noise, not a bulk download; named practitioners clarify at stones and charged sites under pursuit. **Legends of talking stones** (local folk names; `36` §7a) give ordinary characters a vocabulary for charged-ground behavior before Eli has mechanism — a grower, sailor, or shrine keeper says the stone "remembers" or "answers," and the reader feels the truth before the grid vocabulary arrives. Altered plant growth is noticed first; repeated observations establish a conductor; paired anomalies establish the positive and negative ends of a break; crop formations reveal new lines forming; historical stone geometry reveals inward deflection; Cuno's incomplete transmission finally reveals communication at the center. Each step changes the route and increases pursuit. Cuno remains the cleanest preview of the social form: many minds in the right shape becoming one mind without a master. Eli's overlapping path—identification, charged contact, relation, seeing, surge-discrimination, creation—shows one person maturing across registers without creating classes. The returning healer proves that another person can go much deeper in one practice. The Modern Child is the seed of the wider awakening: capacities return first as symptoms without explanation, then as memory, then as practice.
 
 ### Integration map
 

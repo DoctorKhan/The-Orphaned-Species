@@ -14,7 +14,7 @@ Your four sections are already inside the trilogy in embryo. What your framing a
 
 ### 1.1 Biological sovereignty, already in motion
 - **Union / Eastern Mandate / Coalition** are the failed sovereign reaction to a world that no longer agrees on what counts as a protected ecosystem, let alone a protected body.
-- The staged attack on the Foundry in Ch 1 already frames public-health/ biosecurity cover as the only politically credible reason to seal a city and classify residents. The label *anomalous residents* is the novel's equivalent of "biological threat" — bureaucratic, borderless, and arbitrary.
+- The Mandate political squeeze in Ch 1 already frames public-health / biosecurity cover as the politically credible reason to seal a gray port and classify residents. The label *anomalous residents* is the novel's equivalent of "biological threat" — bureaucratic, borderless, and arbitrary.
 - **Wren's network** is itself a biological-sovereignty violation in slow motion: a decentralized carrier-harbor chain operating across jurisdictions. Every port-mile Wren sails is unconsented migration of a population whose biology has already been weaponized — a voluntary immunizing intervention crossing borders the state never authorized.
 - The 72-hour countdown, registry sweeps, and port lockdowns are exactly the geopolitics of a deployed activation construct: the machinery is already there; only the biological trigger was missing.
 
@@ -34,7 +34,7 @@ Your four sections are already inside the trilogy in embryo. What your framing a
 
 ### 2.1 Precautionary principle vs. urgency
 - The core moral test throughout the trilogy is exactly this dilemma at civilian scale:
-    - Ch 10: save the agricultural evidence or the Mekong growers. Wren forces the humane evacuation; Eli hesitates.
+    - Ch 10: save the agricultural evidence or the **Thailand** growers. Wren forces the humane evacuation; Eli hesitates.
     - Ch 13 at Göbekli: Eski's corridor / complete interface record vs. living people. Eli completes his first Manual Override — and Emrys is taken.
 - The consciousness-tech framing in `00_MASTER_TIMELINE` describes **the grid running on tethered souls** and the danger of **harvesting carrier-souls to broadcast through charged grounds.** Any countermeasure that routes additional souls through the same grid mechanism is structurally identical to a biological reversal intervention that creates its own ecological risk.
 

@@ -120,7 +120,7 @@ He stops mopping.
 
 Suresh has felt it. He does not turn around. He keeps his voice down and his eyes on Mei, like a man who has decided the boy can hear the thing but will not be handed it.
 
-"Somebody paid that band," he says to her. "They weren't here for Friday music. They were watching the room." Mei has gone still. "There's a man in Melaka asking after the English woman. By name. Says he's got something of hers, and he'll only put it in the right hands." He sets his cap on the counter. "There. I've carried it. I'm square. I came to you because they brought the song into the restaurant. Do what you want with it."
+"Somebody paid that band," he says to her. "They weren't here for Friday music. They were watching the room." Mei has gone still. "There's a man in Malacca asking after the English woman. By name. Says he's got something of hers, and he'll only put it in the right hands." He sets his cap on the counter. "There. I've carried it. I'm square. I came to you because they brought the song into the restaurant. Do what you want with it."
 
 Mei doesn't answer for a moment. Then she turns and looks across the kitchen at Eli, who is standing very still with the mop in his hands, and her face shuts like a door.
 
@@ -128,7 +128,7 @@ Mei doesn't answer for a moment. Then she turns and looks across the kitchen at 
 
 His mother has been dead ten years.
 
-"Where in Melaka?" Eli says.
+"Where in Malacca?" Eli says.
 
 Mei doesn't move. "You don't even know what's in it."
 
@@ -174,17 +174,17 @@ Neither of them speaks. The water knocks at the hull.
 
 "Where is he?" Eli says.
 
-"Old town, by the river. There's a chandlery — ship's stores, rope, batteries, grease, that kind of thing. Ask there and they'll know why you came." Suresh picks the line back up. "Don't ask anywhere else. Not in Melaka, not now. One door, and it's that one. You hear me? And if anyone else comes asking here, no one recognized anything."
+"Old town, by the river. There's a chandlery — ship's stores, rope, batteries, grease, that kind of thing. Ask there and they'll know why you came." Suresh picks the line back up. "Don't ask anywhere else. Not in Malacca, not now. One door, and it's that one. You hear me? And if anyone else comes asking here, no one recognized anything."
 
 ---
 
 Mei is at the books when he comes in with his bag. She looks at the bag and not at him, which is how he knows she has already done the math and hated every answer.
 
-"Melaka," she says.
+"Malacca," she says.
 
 "A few days."
 
-"A few days." She writes a number, crosses it out, writes it again. "There's no work in Melaka. There's only people looking for people." Still not looking at him. "A man who sends music because he doesn't know the face. You know what that is. If they found Suresh, they can find the kitchen."
+"A few days." She writes a number, crosses it out, writes it again. "There's no work in Malacca. There's only people looking for people." Still not looking at him. "A man who sends music because he doesn't know the face. You know what that is. If they found Suresh, they can find the kitchen."
 
 "I know what it is."
 
@@ -194,7 +194,7 @@ He doesn't answer.
 
 "Then you eat first," she says. "I'm not sending you off to die hungry."
 
-He eats at the pass with Tio and the old man and Mei, the staff meal, the one nobody pays for. No one says anything about Melaka. That is how he knows they all know. Tio gives him the better piece of fish and calls it an accident. The old man pushes the chilli bowl closer without looking up. Mei puts two boiled eggs in his bag after and tells him not to make a speech.
+He eats at the pass with Tio and the old man and Mei, the staff meal, the one nobody pays for. No one says anything about Malacca. That is how he knows they all know. Tio gives him the better piece of fish and calls it an accident. The old man pushes the chilli bowl closer without looking up. Mei puts two boiled eggs in his bag after and tells him not to make a speech.
 
 ---
 
@@ -252,7 +252,7 @@ Suresh brings the engine up, slow. "I am not taking you to the man."
 
 "I know."
 
-"No. You don't. I am taking rice and limes to Melaka. You are extra weight. At the pier you carry one crate and walk off when I say. You don't wait for me. You don't look back at me. You don't say my name in that city."
+"No. You don't. I am taking rice and limes to Malacca. You are extra weight. At the pier you carry one crate and walk off when I say. You don't wait for me. You don't look back at me. You don't say my name in that city."
 
 "All right."
 
@@ -270,7 +270,7 @@ Suresh cuts the engine back as the police launch turns near the buoy. For half a
 
 "Then why tell me any of it?"
 
-"Because if I don't, you will ask the wrong person in Melaka and get Mei's kitchen burned down."
+"Because if I don't, you will ask the wrong person in Malacca and get Mei's kitchen burned down."
 
 Eli holds the rail. The metal is wet.
 
@@ -290,7 +290,7 @@ For a while there is only engine noise and the slap of water under the bow. Eli 
 
 "Then don't look."
 
-The sky goes gray. Melaka begins as cranes and roofs, then old walls, then the river mouth opening between buildings that seem to have survived by agreeing to be useful. A yellow quarantine banner hangs from the customs shed; two soldiers sit under it with rifles across their knees while a woman in a white vest points a thermometer at a fisherman's forehead and waves him through before it beeps.
+The sky goes gray. Malacca begins as cranes and roofs, then old walls, then the river mouth opening between buildings that seem to have survived by agreeing to be useful. A yellow quarantine banner hangs from the customs shed; two soldiers sit under it with rifles across their knees while a woman in a white vest points a thermometer at a fisherman's forehead and waves him through before it beeps.
 
 Suresh cuts the engine to idle.
 
@@ -312,7 +312,7 @@ Ask once.
 
 ## Chapter Three — The Reopening
 
-Melaka smells of rain on old stone and diesel on the river.
+Malacca smells of rain on old stone and diesel on the river.
 
 The supply boat puts him down before noon with a crate of limes in his arms and three men ahead of him who do not look at the checkpoint until the checkpoint looks away. The pier is open again, but not simply open — nothing is, now.
 
@@ -432,7 +432,7 @@ Behind her, at the far end of the covered way, one of the men from the health ta
 
 "Someone trying to get another person out of the same building."
 
-That is the first clear thing anyone in Melaka has said to him.
+That is the first clear thing anyone in Malacca has said to him.
 
 "You know the man I'm meeting?"
 
@@ -618,7 +618,7 @@ Each contact is a door, but the rooms behind them are not people. They are momen
 
 A woman walking into a room with her hands already cold. A soldier writing a name in a book that is already wet. The rain on a roof. A wok over fire none of them are tending anymore.
 
-He tries to stand and his legs are not his. He tries to breathe and the air coming into him is not all Melaka air — some of it is old, charged, caught in a throat that is not his throat. He tries to speak and the soldier's name comes out of a mouth that isn't his.
+He tries to stand and his legs are not his. He tries to breathe and the air coming into him is not all Malacca air — some of it is old, charged, caught in a throat that is not his throat. He tries to speak and the soldier's name comes out of a mouth that isn't his.
 
 And then he is back. The lane is just a lane. The roof is just a roof. The light is leaving him, bleeding out into the grid. He cannot tell how much of him it took with it.
 
@@ -636,7 +636,7 @@ Then the chandlery man looks down at him and says something he will never forget
 
 "Not the packet," the man says. "Her son. That's who they're after."
 
-The boy pulls Eli up by one arm. The white eye man takes the knife-man's wrist and breaks it the way a man breaks something he has broken before. Outside the lane, Melaka keeps happening: a moped coughs, someone sings, a shutters rattles.
+The boy pulls Eli up by one arm. The white eye man takes the knife-man's wrist and breaks it the way a man breaks something he has broken before. Outside the lane, Malacca keeps happening: a moped coughs, someone sings, a shutters rattles.
 
 The custodian team has seen the flare. They have seen the sevenfold signature pour through a body that has no business carrying it. They are not here for him anymore. They are here for whatever he has woken up.
 

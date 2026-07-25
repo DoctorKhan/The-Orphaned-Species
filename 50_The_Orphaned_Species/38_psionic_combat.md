@@ -70,7 +70,7 @@ A Bubble or Block **can be broken if you are strong enough** (user's mechanic) �
 
 ## 3. Meta-rules (range, lock, team)
 
-- **Signature lock.** You can't reliably attack what you can't find. Reliable distance work needs a **known signature** — a target you've touched, tracked, or been given. Strangers are hard; the famous, the recently-breached (Eli after Melaka), and the careless are easy. Masking, decoys, and false signatures are core tradecraft.
+- **Signature lock.** You can't reliably attack what you can't find. Reliable distance work needs a **known signature** — a target you've touched, tracked, or been given. Strangers are hard; the famous, the recently-breached (Eli after Malacca), and the careless are easy. Masking, decoys, and false signatures are core tradecraft.
 - **Conductor / range.** Without a conductor, psionic action is **short-range** (a room, a line of sight, a touch). A **ley line, stone, charged ground, or psion anchor locked to the conductor** extends it — sometimes vast distances. This is why the grid matters and why monitored boundaries (the England ambush) work: cross an instrumented threshold and you light up a conductor that a prepared team is already locked onto.
 - **Team functions.** A designed team divides labor: one **locks** (holds the signature), one or more **lance**, one **shields** the team, one **scouts/masks**. This is the template for the recurring rival team (`05` §5).
 - **Detection ≠ identity.** Sensing a signature reveals direction, intensity, and anomaly — usually **not** a full identity or motive. You know something woke up; you don't yet know who or why.
@@ -108,7 +108,7 @@ Doctrine for set-pieces: **psions do not fight drones; they fight the humans and
 
 ## 6. Worked micro-examples (canon set pieces)
 
-- **Melaka breach.** No combat yet — Eli's near-death breach *lights a conductor* and broadcasts an uncontrolled signature for miles. Two teams that were already contesting a carrier/route now have a lock on him. The breach is the dinner bell (already drafted in the Wren escape).
+- **Malacca breach.** No combat yet — Eli's near-death breach *lights a conductor* and broadcasts an uncontrolled signature for miles. Two teams that were already contesting a carrier/route now have a lock on him. The breach is the dinner bell (already drafted in the Wren escape).
 - **Maritime boarding (Strait).** Deniable psions travel *with* a human boarding party. One masks the boat's approach (soft suite); one lances the helmsman into autopilot error (Block) while pirates do the physical work. Wren must tell a human tactic from an intrusion in her own perception — a §5 false-certainty problem. Boats, weather, and weapons still decide it.
 - **England boundary ambush.** Crossing an instrumented threshold lights a conductor; a prepared team already in position locks the signature and opens with Lances before anyone can explain the site. The defense is a team Bubble held while they get off the conductor — procedural, not mystical (`05` §6, "monitored boundaries").
 - **Albion climax.** Holding collective coherence (a team Bubble around the ground) without it becoming a command hierarchy — the coalition's coherence vs. several teams trying to Break in, Block the holders, or turn the shared field to domination.

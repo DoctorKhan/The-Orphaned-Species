@@ -29,11 +29,12 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Part III — the practitioners** (Aru, Daskar, Ila, Tem, Anthea, Cuno, Lovernios) | `37_deep_time_source.md` | Deep human threads; **resolution varies by row and is set in drafting** (scrambled order) | Recurring people who resolve *out of* the web (he never becomes them), reached at the grounds where the practice originated. **Not a numbered roster and not seven guaranteed descents** — most should reach the reader through artifact, testimony, or living residue; see § *Cross-volume thread inventory* → *menu, not a schedule*. | I–II |
 | **The orphan-and-father thread** | `37_deep_time_source.md` | Motif | Threads era-to-era as texture, never announced as thesis. Each practitioner's material carries one quiet refusal of an offered father — in whatever form that material reaches the page. | I–III |
 | **Patriarchy & bloodlines — recurring chord** | `37_deep_time_source.md` § *Patriarchy & bloodlines* | Motif + dramatization map | Ch **16–17** (Adapa/Qingu, Maren/keeper); Ch **20** (church); deep-time Tem/Anthea at charged grounds. **Plot:** `32`–`33`; **prose:** not yet in `MANUSCRIPT.md`. | II–III |
-| **Broken-line church** | `37_deep_time_source.md` § *The broken-line church* | Present set-piece | Vol II **Ch 20** — negative end / pews, positive end / sacristy. | II |
-| **Nephilot trail — Göbekli → massacre → Alba/elf** | `37_deep_time_source.md` § *Tracking the Nephilot line* | Discovery arc | **Vol I Ch 13** start → **Vol II Ch 19** Pömmelte → **Vol II Ch 21** Alba/elf name. | I–II |
-| **Dead zones & scour** | `37` § *Dead zones*; `38` § *Scour* | World + war mechanic | **I Ch 8, 11** seed → **II Ch 20** named → **III Ch 23** scour warfare. | I–III |
+| **Broken-line church** | `37_deep_time_source.md` § *The broken-line church* | Present set-piece | Vol II **Ch 5** — negative end / pews, positive end / sacristy. | II |
+| **Nephilot trail — Göbekli → massacre → Alba/elf** | `37_deep_time_source.md` § *Tracking the Nephilot line* | Discovery arc | **Vol I Ch 13** start → **Vol II Ch 5** Pömmelte → **Vol II Ch 6** Alba/elf name. | I–II |
+| **Sídhe / gods underground** | `WORLD_BIBLE`; `37_deep_time_source.md` § *The Sídhe layer*; `90` §6E | Layered folklore + coexistence protocol | **Vol II Ch 6–7 corridor:** Rowan enters as west-corridor liaison with a missing-person objective; protocol works first (hawthorn boundary; fresh rowan marks/softens the crossing; narrow grounded-iron interruption only when rowan fails; keeper extraction), then the inherited refrain. Wren accepting Rowan's person-first limit permits their formative bond to renew romantically; no ancestry or prophecy. Carrier blood, mound/place, ancestral dead, and remembered gods remain competing layers until later cosmology clarifies them. Changeling material holds real taking beside historical abuse of disabled or ill people. | II–III |
+| **Dead zones & scour** | `37` § *Dead zones*; `38` § *Scour* | World + war mechanic | **I Ch 4, 7** seed → **II Ch 5** named → **III Ch 7–8** scour warfare. | I–III |
 | **Archangels / sarim layer** | `46` §§ E, G | Name seeds; **agency ON HOLD** | I: *angel* surge + Sora Michael medal → II: Daniel/church/callsign → III: refusal beats. Cross-plane actors TBD (`46` § H). | I–III |
-| **Angelic orders / seraphim** | `46` § H | **ON HOLD** | Cross-plane agency, taxonomy, appearance — not locked. Soft seeds: church art (II Ch 20); name ladder § G. | II–III |
+| **Angelic orders / seraphim** | `46` § H | **ON HOLD** | Cross-plane agency, taxonomy, appearance — not locked. Soft seeds: church art (II Ch 5); name ladder § G. | II–III |
 | **Qingu-blood propaganda vs We-ila truth** | `37_deep_time_source.md` | Motif | The two creation myths surface as clarified fragments and as carried-song fragments that survive in the web (Lira → Derw → … → Eli clarifies them). | II–III |
 | **The wheel / sun-wheel** | `37_deep_time_source.md` | Motif | Recurring image: granary glyph, then chariot banner, then helmet, then final-flag inversion. | I–III |
 | **Social atomization sequence** | `40_concepts.md` | Structural register | Showed as present pressure, not lecture: housing, clan-break, romance overload, managed belonging. Linked to the Three Circles collapse. | I–III |
@@ -58,30 +59,30 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 ### Vol I opening — LOCKED *(no Maren prologue)*
 
-- **Order:** Preamble → **Ch 1 — The Hour That Belongs to No One** *(drafted)*.
-- **Ring dread in Vol I:** Custodians, white coats, planted song, Melaka witness — present-tense hunt, not front-loaded backstory.
+- **Order:** **Ch 1 — The Hour That Belongs to No One** *(drafted)* opens the book; historical backstory is implied through residue, with retired preamble drafts kept in `42`.
+- **Measure dread in Vol I:** Custodians, white coats, planted song, Malacca witness — present-tense hunt, not front-loaded backstory. The full name remains withheld from the reader.
 
 ### Maren suppression scene — Vol II *(relocated from v1 prologue)*
 
-- **Source material:** Suppression method / Ring machinery. Not a deep-time clarification.
-- **When:** Vol II **Ch 17** — Eli learns **how his mother was taken**, paired with mother-trail midpoint (`32`, `29`, `99`).
+- **Source material:** Suppression method / Measure machinery. Not a deep-time clarification.
+- **When:** Vol II **Ch 3** — Eli learns **how his mother was taken**, paired with mother-trail midpoint (`32`, `29`, `99`).
 - **Function:** same as former prologue intent — keeps Crane from straw-man by showing enforcement in action, but **earned** after reader loves Eli and has chased the mother-trail.
-- **Deliverable:** rewrite from `MANUSCRIPT_v1_archive.md` prologue (~1,000–1,500 words); **Rahman** naming; SE Asia extraction/keeper setting; no Crane name.
+- **Deliverable:** rewrite from `MANUSCRIPT_v1_archive.md` prologue (~1,000–1,500 words); **Bengali naming** (no inherited family surname for Eli; father **Rasel** / registry *Russell*); SE Asia extraction/keeper setting; no Crane name.
 - **Not in Vol I.**
 
 ### Ch 1 — The Hour That Belongs to No One
-- **Setting / attachment:** Pelangi Reach ordinary life — garden, Foundry, kitchen crew, made home.
-- **Turn:** staged attack destroys the hearth and seals the north corridor.
+- **Setting / attachment:** old-island fishing open → Reclamation ordinary life — garden, Foundry, kitchen crew, made home.
+- **Turn:** Mandate political squeeze (Babaji keeper refusal) **suspends** the hearth's safety; Eli **leaves on schedule** for Cherry Cube contract as island locks down behind him.
 - **No deep-time clarification fires.** The song is background memory, not the witness lure.
 
 ### Ch 2 — Something of Hers / The Southern Exit *(breach at chapter end)*
-- **One sustained movement:** Pelangi Reach chase → Suresh's harbor net → brief Meridian City processing and **ring photograph** → Straits inspection → reopening Melaka → Hassan's **physical ring** and Wren's colliding extraction → Custodian pursuit → losing Kali fight → asphyxia.
+- **One sustained movement:** scheduled departure on Suresh's boat → pier gauntlet → Stack intake (**wrong-room overhear** before document clerk) → **ring photograph** → worker maze → Cherry Cube concert hunt → Circuit escape → Straits inspection → reopening Malacca → Hassan's **physical ring** and Wren's colliding extraction → Custodian pursuit → **untrained** fight → asphyxia.
 - **Body-register:** *anomalous residents* / *carrier-adjacent* appears before Eli understands that the apparatus reads bodies rather than documents.
 - **Breach:** receiver ON / undifferentiated web-noise; flare lights the grid. Salmah pulls him out; Hassan and the ring are recaptured.
 - **Rule:** Meridian City, the Straits, the witness contact, and the chase do not regain standalone chapters.
 
 ### Ch 3 — What Didn't Die
-- **Setting:** Melaka aftermath and flight.
+- **Setting:** Malacca aftermath and flight.
 - Wren folds Eli in at cost to her extraction; Emrys measures the carrier flare; Three-Circles image surfaces from the overload.
 - **Act turn:** Eli cannot safely return and chooses to follow the surviving fragment.
 
@@ -95,24 +96,24 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Artifact hint:** Double-Fork Stone motif surfaces; dragon and human as paired divergences, not yet visually confirmed.
 
 ### Ch 5 — The Field That Counts
-- **Setting:** Vietnam / Mekong agricultural stop.
+- **Setting:** **Thailand** river-valley agricultural stop.
 - **Local grower expertise** distinguishes anomaly from irrigation/blight; the community is not a clue dispenser.
 - **Custodians a day behind.**
 - **Revelation:** plant growth is tracing something real — the plants are the detector, no message imposed.
-- **Forward clue:** real geometry points south/west toward a forming line in South Asia.
+- **Forward clue:** real geometry points toward a forming line in the **Thailand** valley.
 - **Artifact hint:** Double-Fork Stone's lower fork is now observable in the field, not yet decoded.
 
 ### Ch 6 — Midpoint: A Separate Person
-- **Setting:** Mekong charged site.
+- **Setting:** **Thailand** charged site.
 - **Ila's record resolves** — hands, birth, fever, South Asian specifics Eli could not have invented; terror that it is madness.
-- **Midpoint revelation:** the Seven were separate historical people, not his past lives, fantasy, or inherited ancestor-memory.
+- **Midpoint revelation:** the practitioners were separate historical people, not his past lives, fantasy, or inherited ancestor-memory.
 - **Decision change:** he can receive without being possessed; grief survives: she is real and dead, with nowhere to set the love down.
 - **Forward clue:** Ila's partial record names the kind of place to look — a community where a new line is forming through planted ground.
 - **Source threads active:**
   - Ila = deep human thread, clarified to full resolution later in Vol II at the South Asia ground.
 
 ### Ch 7 — The Forming Line
-- **Setting:** Mekong rice/aquaculture cooperative.
+- **Setting:** **Thailand** rice/aquaculture cooperative.
 - **Custodians and another team converge**; community wants neither faction.
 - **Revelation:** crop formations are new lines forming, not symbols imposed. **Dead ground** beside the paddy — plants won't take, herders avoid — first local contrast with **forming band** (scour scar; vocabulary later).
 - **Psion targeting (plot):** rival team + Custodians contest the **new line** — not Eli alone; war on the grid.
@@ -157,10 +158,10 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 ### Ch 13 — Göbekli and Loss *(VOLUME I CLIMAX)*
 - **Setting:** Göbekli Tepe / contested Anatolian ground.
 - **Aru full-res** fox-pillar (touch under pressure); **Daskar full-res** burial layer.
-- **Nephilot trail (MAJOR REVEAL):** Göbekli = Qingu-reserve seal + down-breeding site — *what the elves are* (`37`, `99` #7).
+- **Nephilot trail (SEED, NOT IDENTITY REVEAL):** Göbekli yields a partial Qingu-reserve / selection scar and begins the westward question. Pömmelte and the Book II trail establish the persecuted carrier population and earn the Alba/elf identification (`37`, `99` #7).
 - Teams converge; old maps fail; **Emrys's serious error**; **Emrys taken** while Eli refuses to sacrifice others.
-- **Romance rupture:** cold shoulder into Vol II Ch 15.
-- **What survives → Vol II:** partial read + Mekong grower knowledge + living network fragment → Europe corridor.
+- **Romance rupture:** cold shoulder into Vol II Ch 1.
+- **What survives → Vol II:** partial read + **Thailand** grower knowledge + living network fragment → Europe corridor.
 
 **Volume I ending locked:**
   - **Climax site:** Göbekli Tepe (`99` #6, #7).
@@ -173,51 +174,50 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 **Published title:** The Orphaned Species: The Descent  
 **Internal movement:** Descent  
-**Reader-experience function:** Book II — Family and civilization  
+**Reader-experience function:** Book II — Family and loss
 **Dramatic question:** Can Eli pursue truth without turning people into instruments of his search?  
 **Immediate objective:** reconstruct the damaged clue, understand the historical network, and determine whether his mother can still be reached.
 
 > **Canonical chapter cards:** `32_volume_II_beatsheet.md`. Opens **post-Göbekli** (Emrys **taken** Vol I Ch 13). **Göbekli / Emrys-taken — Vol I only.**
 
-### Ch 15 — Bodies and Crossings
+### Book II, Ch 1 — Bodies and Crossings
 - **Setting:** Corridor out of Anatolia / post-Göbekli.
 - **The healer and Eli meet** because independent clue chains cross on the same wounded party.
 - **Romance cost:** Wren **bills Vol I's price aloud** (Laleh, Asha, Göbekli, Emrys taken).
 - **Tem's record** introduces distributed contact and broken routes — full-res at **17:1 grain-pit** site.
-- **Forward clue:** Mesopotamia → Europe (Göbekli **resolved Vol I**).
+- **Forward clue:** westward transfer corridor through Bosporus / Thrace (Göbekli and Mesopotamia **resolved Vol I**).
 
-### Ch 16 — The Old Wound
-- **Setting:** Persian Gulf / Mesopotamia; Eridu-flats; Adapa locus.
-- **Adapa watched-depth** (`30_beatsheet_ch09_adapa.md`): obedience closes path to life; lacuna as warning vs lock.
-- **Patriarchy chord (plot):** Qingu-blood vs We-ila; households — provision as love, approved fathers own descent; Eli refuses state file **and** chosen-one ancestry (`37` § *Patriarchy*).
-- **Archangels (plot — register):** disputed *sar* / *malʾakh* translation; Daniel-style national **princes**; faction callsign **"Prince"** / **Persia hold** (`46` § G).
-- **Aru and Daskar disagree** on redeeming the instrument; first stone artifact evidence (continued from Vol I partial read).
-- **Forward clue:** trail continues **west** — dead zones ahead.
+### Book II, Ch 2 — The Westward Transfer
+- **Setting:** Anatolia → Bosporus / Thrace corridor.
+- Hassan moves west under Custodian/private-security medical cover; Wren can open one crossing only by burning another.
+- Eli accepts a slower human handoff rather than registering Somchai and the refugees through an institutional shortcut.
+- A performed-kindness/honey-trap beat tests Eli's ability to distinguish warmth from confirmation; Wren dismantles the reading, not a romantic rival.
+- **Forward clue:** Thrace/Balkan holding site; Hassan's account and Maren's damaged chart point into Europe.
 
-### Ch 17 — What They Took *(MIDPOINT)*
-- **Setting:** Mother-reveal region (SE Asia keeper context or reachable record).
-- **Maren suppression scene:** courteous Ring machinery — how she was taken (`99` #Maren-suppression).
+### Book II, Ch 3 — What They Took *(MIDPOINT)*
+- **Setting:** Thrace/Balkan holding site and recovered record.
+- **Maren suppression scene:** courteous Measure machinery — how she was taken (`99` #Maren-suppression).
 - **Midpoint revelation:** mother's **body dead**; spirit **tethered** in western web — **no usable address**.
 - **Patriarchy rhyme:** keeper hand-to-hand vs registry father-above.
 
-### Ch 18 — The Healer's Kneel
+### Book II, Ch 4 — The Healer's Kneel
 - **Setting:** Anatolia / medical corridor.
 - Witnessed healing → pilgrims/media; *don't tell anyone* broken; Living Way beats (`25`).
 - Distorted stories outrun healer toward Vol III.
 
-### Ch 19 — The Changing Map
+### Book II, Ch 5 — The Changing Map
 - **Setting:** Continental Europe.
 - **Dead zones (plot — name and map):** scoured wedges; fauna refuse; growth blank; Wren detours (`37` § *Dead zones*).
 - **Nephilot trail (plot — massacre):** **Pömmelte** — gendered shafts; aDNA unrelated women/children; **women targeted** (carrier purge).
 - **Broken-line church (plot):** negative end / pews, positive end / sacristy; depleted laity, charged clergy; **Michael/Gabriel** iconography optional (`46` §§ G, H — agency ON HOLD).
 - Rival team temporarily useful; states/firms claim carrier ownership.
 
-### Ch 20 — The Riddling Node
+### Book II, Ch 6 — The Riddling Node
 - **Setting:** Rollright / Men-an-Tol corridor.
 - **Anthea full-res:** sonic resonance; two ends of broken route; Lira carries chord (song, not bloodline).
 
-### Ch 21 — The Chair and the Tether *(volume end)*
-- **Setting:** Stonehenge approach / Albion threshold.
+### Book II, Ch 7 — The Chair and the Tether *(volume end)*
+- **Setting:** Stonehenge relay → Avebury / Albion threshold.
 - **Cuno full-res** at bluestone configuration; lossy record.
 - **Alba → Albion → elf** name beat (one earned line).
 - **England ambush** — instrumented boundary, not magic wall.
@@ -229,33 +229,33 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 **Published title:** The Orphaned Species: The Living World
 **Internal movement:** Choice
-**Reader-experience function:** Book III — Species and coexistence
+**Reader-experience function:** Book III — Civilization, species, and coexistence
 **Dramatic question:** Can free communities protect people from dangerous capacity without turning capacity into an owned identity?
 **Immediate objective:** receive newly awakened refugees, build an accountable federation, and survive public-safety failure plus the opening of the new Awakening War without a permanent center or a doctrine that spends men as the default human ammunition. Hawaiʻi is a temporary refuge where Eli learns reciprocity and refuses militarization; it is not a front.
 
 > **Canonical chapter cards:** `33_volume_III_beatsheet.md`.
 
-### Ch 23–25 — Welcome and harm
+### Book III, Ch 1–3 — Welcome and harm
 
 - A boat of newly awakened refugees reaches Pelangi Reach; Eli's successful temporary coordination saves them and creates pressure for permanent leadership.
-- The shared garden returns: Arif's plants survive through grafts and unfamiliar refugee crops, provoking Eli's fear of replacement.
+- The shared garden returns: Rasel's plants survive through grafts and unfamiliar refugee crops, provoking Eli's fear of replacement.
 - Eli sponsors one disputed refugee under voluntary safeguards.
 - That person commits a serious nonconsensual mind-entry; an ordinary person dies as a direct consequence. The victim is not restored, secretly culpable, or revealed as Crane's agent. Their survivor retains the right not to forgive Eli.
 
-### Ch 26–28 — The systems offered
+### Book III, Ch 4–6 — The systems offered
 
 - Crane offers detection, mandatory training, interoperable records, central emergency command, and enforceable containment. It would prevent some deaths; its permanent identity ownership remains the cage.
 - Eli assumes shared love and purpose entitle him to Wren's threshold network. Wren refuses identities, routes, and command access, materially weakening his plan.
 - The communities build a bounded emergency compact: named purpose, visible decisions, distributed revocation, no requisition of Wren's network, conduct records without identity registry, automatic expiry, appeal, and mandatory review.
 
-### Ch 29–30 — The bounded crown
+### Book III, Ch 7–8 — The bounded crown
 
 - Eli accepts temporary coordinating authority during attack and uses his transmission only through consenting nodes.
 - He could forcibly synchronize all carriers and probably save more people. He refuses to extend the mandate.
 - The coalition survives incompletely; a named man from the exposed holding crew is killed, other men are permanently injured, and a beloved threshold house is lost. The novel does not prove coercion would have failed or treat their constrained volunteering as disposability.
 - The emergency ends and Eli's authority expires. Crane is contained through shared process rather than Eli's personal mercy.
 
-### Ch 31–32 — Judgment and ordinary life
+### Book III, Ch 9–10 — Judgment and ordinary life
 
 - Eli submits to public inquiry concerning the sponsored refugee, the fatal harm, his emergency decisions, and the people his restraint did not save. He accepts real restrictions on future authority.
 - The survivor may accept the process without forgiving him.
@@ -291,7 +291,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Tem — The Hidden Son** | Full-res thread | `37` Part III ch 13 | 17:1 bottleneck grain-pit | Dream-walking, telepathy; the grain-pit as first instruction; dream-network rescues unrelated hidden children |
 | **Anthea — Singer of Frequencies** | Full-res thread | `37` Part III ch 14 | Albion resonant-stone | Sonic resonance; song as substance; different notes answer at two ends of a broken route; daughter Lira carries the chord |
 | **Cuno — Bluestone Mover** | Full-res thread | `37` Part III ch 15 | Stonehenge/Albion circle-center | Collective resonance; last firing; Derw gets geometry/rhythm/positions/spoken-fragment/object; chariots crest the rise |
-| **Lovernios — Druid of Anglesey** | Full-res thread | `37` Part III ch 16 | Anglesey peat-bog / seed-catalog sink | Plant medicine, non-human mind; follows new growth where old line failed; gives seed-catalog to Nia; unsure it survives |
+| **Lovernios — Druid of Anglesey** | Full-res thread | `37` Part III ch 16 | Anglesey peat-bog / seed-catalog sink | Plant medicine, non-human mind; **Book II Ch 6** — paired with **bitter cup** threshold ceremony (`99` #bitter-cup); follows new growth where old line failed; gives seed-catalog to Nia; unsure it survives |
 | **Seven Pairs / Activation** | Watched-depth | `37` Part II ch 6 | Buried/coordinated ground (clarified directly) | 0.9 mya Seven Pairs; 17:1 clamp; genetic wall; the Key pulse — science-floor anchor |
 | **Living Gods / War in Heaven** | Watched-depth | `37` Part II chs 7–8 | Dragon-cadence summary ground (clarified directly) | Supervision era; Igigi sabotage; Younger Dryas rupture; planetary network fracture; Tiamat/Marduk |
 | **Adapa** | Watched-depth | `37` Part II ch 9 / `30_beatsheet_ch09_adapa.md` | Persian Gulf / Eridu-flats ground | Centerpiece deep-structure clarification; boy watching himself in pre-cage; loyalty to the lock; the weeper who accepts his own lock gratefully; Qingu-blood encoded as self-justifying story |
@@ -306,14 +306,14 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Three-Circles Tablet** | I | Ch 7 | First test marker; Body/Family/Civilization not yet understood as three rings; used to tell revelation from breakdown |
 | **Double-Fork Stone** | I | Ch 8–9 motif | Bird/dragon and chimpanzee/human as paired sibling divergences; the dragon first seen in play, not omen (Pai motif catalyzes this) |
 | **Sumerian King List** | I–II | later in Vol I or early Vol II | Kingship as transferable administration, not sacred blood; the control system's public face |
-| **Adapa tablet with lacuna** | II | Ch 16 watched-depth clarification | The lock made visible from inside; obedience as cage chosen reasonably |
+| **Adapa tablet with lacuna** | I | Ch 12 watched-depth clarification | The lock made visible from inside; obedience as cage chosen reasonably |
 | **Enkidu/Shamhat domestication witness** | II | Vol II Mesopotamian leg | Wildness/food/sex/speech/civilization as argument over whether city-life is rescue, corruption, education, or capture |
 | **Arslan Tash Amulet 1** | II–III | Vol II–III border dispute | Covenant invoking ʿOlam, Asherah, El's sons, great council; authenticity/translation disputes give Wren interpretive agency outside Eli and Emrys |
 | **Atrahasis / Eridu Flood material** | II | Vol II Mesopotamia | Creation, labor revolt, and catastrophe as layered stories; beyond one clean origin account |
 | **Tablet of Destinies** | II–III | Vol II–III ownership race | Factions mistake authority records for master key; may be charter / routing charter / ritual copy / propaganda |
-| **Ugaritic council records** | III | Ch 25–26 | Repeated offices across traditions; local gods and stories retain differences; landscape-name fossils |
-| **Babylonian Map of the World** | III | Ch 23 route puzzle | Mythic edge/missing region yields testable next move only when treated as incomplete; compared against live ley data |
-| **Cuno–Derw marked object + geometry/rhythm/sound** | III | Ch 21–22 | Portable geometry and lossy story converge on Albion; no complete manual given |
+| **Ugaritic council records** | III scene bank | Placement open under the current Book III spine | Repeated offices across traditions; local gods and stories retain differences; landscape-name fossils |
+| **Babylonian Map of the World** | III scene bank | Placement open under the current Book III spine | Mythic edge/missing region yields a testable move only when treated as incomplete; compared against live ley data |
+| **Cuno–Derw marked object + geometry/rhythm/sound** | II | Ch 6–7 | Portable geometry and lossy story converge on Albion; no complete manual given |
 
 ---
 
@@ -323,7 +323,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 |---|---|---|
 | **Four-corner opposition** (constructive freedom / destructive control / destructive freedom / constructive control) | I | I → II → III as social layer deepens |
 | **Eli's orphan/body arc** | I | I Manual Override → II relational Manual Override → III public coexistence |
-| **Wren's ring-handler extraction** | I (mentioned) | I → II conflict → III proof-network |
+| **Wren's Unranked extraction network** | I | I → II conflict with Weaver distance doctrine → III proof-network |
 | **Emrys' map-not-territory error** | I | I → II taken/mistake → III test of distributed knowledge |
 | **The healer's kneel/cage/burn** | I (mentioned) | II → III coexistence proof |
 | **Custodians as dark mirror** | I | I → II tracking → III Shield defect |
@@ -356,7 +356,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Trilogy spine:** `05_story_architecture.md`.
 - **Volume I beatsheet:** `31_volume_I_beatsheet.md`.
 - **Volume I drafting in progress:** `MANUSCRIPT.md` and chapter prose file `01_Dreamtime.md`.
-- **Deep-time delivery:** one living web, one dial of depth (full-res threads for the Seven; watched-depth deep structure for cosmology — clarified directly). See `36_the_living_web.md`.
-- **Volume I capped:** **13 chapters**, **no standalone prologue**; Chapter 1 earns and destroys the hearth; Chapter 2 carries the southern flight through the Melaka breach; Chapter 3 is aftermath. **Climax locked at Göbekli Tepe (Ch 13)**; incomplete override at Mekong (Ch 10), completed personal Manual Override at Göbekli; **Emrys taken** at Göbekli.
-- **Volume II locked spine:** opens post-Göbekli; Adapa centerpiece; Europe dead zones / Pömmelte / Albion; **Maren release** at Ch 21.
+- **Deep-time delivery:** one living web, one dial of depth (full-res threads for a minority of practitioners; deep structure for cosmology clarified directly). See `36_the_living_web.md`.
+- **Volume I capped:** **13 chapters**, opening directly with Eli and no historical or Maren/character prologue; backstory arrives through residue. Chapter 1 earns the hearth and the squeeze; Eli **leaves on schedule** (hearth suspended). Chapter 2 carries epic Meridian processing and the southern flight through the Malacca breach; Chapter 3 is aftermath. **Climax locked at Göbekli Tepe (Ch 13)**; incomplete override at **Thailand (Ch 10)**, completed personal Manual Override at Göbekli; **Emrys taken** at Göbekli. **Mekong draft retired.**
+- **Volume II locked spine:** opens post-Göbekli; Bosporus–Thrace/Balkan transfer and Maren truth; Europe dead zones / Pömmelte / Albion; **Maren release** at Ch 7. Adapa remains in Book I Ch 12.
 - **Volume III locked spine:** refugee landing, real failure of freedom, Crane's workable standard, Wren's refusal, bounded emergency authority, costly non-coercion, public inquiry, and shared-garden coda.

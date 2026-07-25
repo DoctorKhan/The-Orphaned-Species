@@ -64,6 +64,22 @@ Default prose is:
 
 Mostly external does not mean emotionally remote. Emotion appears through attention, avoidance, bodily response, work, humor, mistakes, and what a character cannot bring themselves to do.
 
+## Beauty, desire, and dramatic multiplicity — LOCKED 2026-07-22
+
+Beauty is not ornamental language. A beautiful passage makes sound, rhythm, image, and implication alter the reader's experience of the event. It compresses more than it explains, gives the reader room to participate, and makes a surprising perception feel inevitable after it lands. Poetry does not announce grief; it notices the cup still set out for the person who is gone. If a sentence only sounds elevated, it is decoration.
+
+The narrative engine is **desire under pressure**, not information delivery. Desire is attention leaning toward an absence: home, recognition, bodily peace, a mother, another hour, safety without ownership, a future without repeated loss. Mystery asks what happened; desire makes the answer necessary. Suspense is desire delayed, conflict is one defensible desire obstructing another, character is what someone will spend for desire, and tragedy is discovering that the desired thing cannot be possessed without damaging it.
+
+Use the Shakespearean dramatic rule without imitating Shakespearean diction: serious characters must exceed the thesis. Each holds part of the truth, wants contradictory things, and can speak persuasively enough to justify themselves; conduct and cost reveal what their language conceals. Join high and low registers—history with appetite, metaphysics with jokes, public catastrophe with bodily inconvenience. No single character, including Eli, is allowed to understand the whole play.
+
+Every consequential scene therefore needs:
+
+- an immediate want;
+- a deeper desire the immediate want may betray;
+- another person or reality with its own legitimate counter-desire;
+- delay, refusal, reversal, or cost;
+- a changed desire or relationship at the exit, not merely new information.
+
 ## The three prose gears
 
 ### 1. Human gear — the default
@@ -107,6 +123,8 @@ Use images drawn from the viewpoint character's lived vocabulary. Eli's comparis
 
 Prefer one governing image in a passage. Avoid stacking metaphors, repeating a symbol after it has landed, or explaining what an image means.
 
+Recurring images must **change meaning**, not function as franchise tokens. Maren's ring moves from proof to tether to something carried without obedience. Rasel's garden moves from failed inheritance to life continuing without exclusive ownership. Breath moves from involuntary survival to shared regulation to participation without merger. Family moves from absence to the temptation to possess to reciprocal memory. The engine moves from useful infrastructure to civilization's appetite and finally to machinery made answerable to the lives around it. Do not state these arcs in prose; let changed use, context, ownership, and cost perform them.
+
 **Test:** if a lyrical sentence can be removed without changing perception, emotion, rhythm, or meaning, it is decoration. Cut or sharpen it.
 
 ## Setting and atmosphere
@@ -148,6 +166,19 @@ Dialogue should pursue an objective: obtain help, conceal fear, test loyalty, de
 - After an important line, prefer a physical or social response to an explanatory thought.
 
 Avoid interchangeable wisdom. No character should exist mainly to state the book's thesis correctly.
+
+## Culture and language
+
+**LOCKED 2026-07-24.** Do not label ethnicity or nationality in narration when culture is already legible on the page — **language in dialogue**, food, vowels, place-names, remittance headers, garden practice, Thread/Weaver texture, father's district, Dhaka messages, Babu dak nam.
+
+- **Show, don't tag:** *river vowels*, *home tongue*, *Mei's rice sack* — not *Bengali worker*, *Bengali network*.
+- **Dialogue may use Bangla** (translated or untranslated where rhythm carries). Characters may name a language when it matters (*Say it in Bangla*).
+- **Registry violence:** let the **system** sort (*South Asian dock queue*, *family-origin field*) — not Eli's narrator ethnically tagging strangers.
+- **Author/planning docs** may still say Bengali/Bangladesh for geography, naming locks, and cast bios.
+- **Use as needed:** when implication would obscure action or trust, use the language on the page; when culture already reads, omit the label.
+- **Rasel / Russell — LOCKED 2026-07-24 (rev.):** father's **true name is Rasel Khan** — **not renamed Russell.** Say **Rasel** in narration, memory, Bangla, Babaji, Farida. **Russell / Russell Khan:** Mandate files, Stack, lab custody. **Some people call him Russell** — Maren in formal English, Crane colleagues, Anglo clerks — habit or convenience, not always registry violence. **Reader ease:** one natural gloss at first significant mention (*Rasel — Russell on the forms*), then **Rasel** default. When a clerk writes Russell wrong, **correct once**, flat (*"Rasel."*), move on — no ping-pong. **Khan** is on the father's legal name, not Eli's; Eli is **Holt** (mother's matrilineal line — Eli learns why Vol II Europe; until then *Bengali thing* covers **Holt vs Khan** for Anglo clerks).
+
+Glossary: `95` § Culture and language on-page; § Rasel / Russell on-page.
 
 ## Exposition and worldbuilding
 

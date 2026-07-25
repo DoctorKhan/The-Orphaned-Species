@@ -190,55 +190,61 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 **Life beats (minimum):**
 
 - somatic signatures / mother's gift idling in Eli's body;
-- first sight at breach; network chord "held across distance by stones";
+- first sight at the Malacca breach; undifferentiated field-noise before named witnesses;
 - Ila descent → first frightened body-*read* (diagnostic, not healing; practice, not power tier);
-- impossible growth or boundary sense (optional early hook per `17` §2).
+- impossible growth and a forming line read through crops and local practice;
+- Aru/Daskar at Göbekli: contact, gathering, selection scar, and deliberate burial without a complete interface explanation.
 
 **Knowledge beats (minimum):**
 
-- Three Circles vision as first **test**, not doctrine;
-- Three-Circles Tablet as image before terminology;
+- Three Circles vision as first **test**, not doctrine; the physical Tablet may enter later if the open archive placement earns it;
 - Emrys: signature measurable, meaning withheld;
-- registry/psion war as **Knowledge-only** control surface.
+- the Rootbook's name and foot/step correspondences as bounded, correctable research rather than maternal revelation;
+- registry/psion war as **Knowledge-only** control surface;
+- Mesopotamian records and Göbekli measurements produce a partial selection/control hypothesis, not the family or civilization synthesis.
 
-**Reader end state:** *Something alive is happening in bodies and stones; the war is over who controls interfaces.*
+**Reader end state:** *Something alive is happening in bodies, crops, and stones; ancient contact became entangled with selection and command, but the interface's function and the larger human system remain unresolved.*
 
 ### Volume II — *Descent* (Life glimpsed; Knowledge weaponized)
 
 **Life beats (minimum):**
 
 - healer's depth vs Eli's reception-without-mastery;
-- Tem / corridor / South Asia practices — breath, touch, route;
-- Göbekli / Aru — conductor vs **built interface**; burial decommissions the site;
-- Adapa beat — **wrong knowledge** talks someone out of the bridge;
-- relational coherence under psionic pressure (group holds without hierarchy).
+- Tem and corridor practices — breath, touch, route, and care with limits;
+- European dead zones and living conductors; Pömmelte exposes the persecuted carrier/Nephilot history;
+- Cuno / Stonehenge / Avebury — geometry, transmission, living lines, and collective resonance;
+- Maren's tether understood as a life-energy chain; release frees her and begins the sparse awakening;
+- relational coherence under psionic pressure: the group holds without command hierarchy.
 
 **Knowledge beats (minimum):**
 
 - mother-reveal: dead in body, tethered west — **official knowledge true at one level**;
 - registries, prophecy, courtly intrigue as role-assignment;
-- civilization-as-carried-knowledge; managed workforce emerging;
-- Wren/Eli conflict = care vs control (Knowledge used to manage Life).
+- Rootbook knowing/kinship branches, including a wrong key and a living correction;
+- the wider stone-circle network distinguishes conductor, interface, and transmission without making Albion a machine-only answer;
+- Wren/Eli conflict = care vs control (Knowledge used to manage Life);
+- the Albion release joins measured geometry and accountable records to living connection once, temporarily and collectively.
 
-**Reader end state:** *The machine is an interface; native roads worked before it; the split was policy, not physics.*
+**Reader end state:** *Native roads work without ownership; the amplifier's captive monopoly can be broken through release; love itself fails when it becomes a tether.*
 
-### Volume III — *Choice* (reunification earned)
+### Volume III — *The Living World* (reunification becomes civic practice)
 
 **Life beats (minimum):**
 
-- Cuno / Lovernios / Albion — geometry, transmission, living lines;
-- mother tether understood as **life-energy chain**; release frees soul and darkens the ground;
-- spreading fire — practices ungovernable;
-- coexistence proof — anomalous presence at an ordinary meal.
+- the post-release living network produces real refuge, contact, error, harm, repair, and refusal;
+- embodied accounts expose what registries, mobilization tables, and technical categories erase;
+- Sanxingdui breaks the word-tree into the wider living web without false linguistic descent;
+- anomalous presence becomes ordinary reciprocal life rather than spectacle, worship, or exemption from accountability.
 
 **Knowledge beats (minimum):**
 
-- full reframe (the Anunnaki as dragon-serving drone-caste, sub-drones, Anu + 26) as **consequence of evidence**, not lecture;
-- technology repurposed; voluntary limits without registry;
-- Eli refuses throne **and** refuses anti-science retreat;
-- discrimination under attack — real transmission vs manipulation at climax.
+- records, models, AI, independent replication, hearings, and appeals test psionic conviction;
+- the Double-Fork / dragon / panspermia reframe arrives as a consequence of converging evidence, not lecture;
+- technology is repurposed from classification toward translation, medicine, consent, distributed protection, and the jointly verified field-sail proof;
+- Eli accepts bounded authority, refuses forced synchronization, relinquishes the crown when its condition ends, and submits to review;
+- conduct-based safeguards replace compulsory identity registry.
 
-**Reader end state:** *We don't need the machine; we do need each other, standards, and practice — life and knowledge together.*
+**Reader end state:** *We do not need the extractive machine; we do need one another, evidence, limits, practice, and institutions capable of correction — Life and Knowledge checking each other through accountable people.*
 
 ---
 
@@ -280,9 +286,9 @@ Prefer **images before terms**: bread refused, bridge barred, circles, fork, sto
 
 ---
 
-## Climax — the Two-Tree union act ("powers up")
+## Book II climax — the first Two-Tree union act ("powers up")
 
-**LOCKED craft note:** At Albion, Eli should **read as powered up** — a visible step-change — without seizing the amplifier or permanent godhood. The power is **life technology + death technology run together once**: native anti-entropic connection **joined to** entropic-plane instruments, equations, and keys — the reunification dramatized under cost, with help.
+**PLACEMENT RECONCILED 2026-07-22:** This act occurs at Albion/Avebury at the end of **Book II**. Eli should **read as powered up** — a visible step-change — without seizing the amplifier or permanent godhood. The power is **life technology + death technology run together once**: native anti-entropic connection **joined to** entropic-plane instruments, equations, and keys — reunification dramatized under cost, with help. Book III then tests whether that temporary union can become public, correctable civic and scientific practice rather than remain one exceptional act.
 
 ### Life technology (Tree of Life)
 

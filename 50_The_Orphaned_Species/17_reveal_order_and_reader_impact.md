@@ -2,7 +2,7 @@
 
 *Outline guide for making the trilogy entertaining rather than curriculum-shaped. Pair with `05_story_architecture.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `22_life_technology_and_two_trees_spine.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, `28_present_day_trilogy_craft_index.md`, and `35_artifact_chain.md`. This document controls the emotional order of discovery; the master timeline controls chronology.*
 
-*The **preamble/backstory** (war, bioweapon, three factions, the awakening) is delivered by residue, not narration — the LOCKED technique toolkit + fact→vehicle map lives in `42_preamble_world_history_source.md` § "Delivery method."*
+*The **backstory** (war, bioweapon, three factions, the awakening) is delivered by residue, not narration — the LOCKED technique toolkit + fact→vehicle map lives in `42_preamble_world_history_source.md` § "Residue-only delivery." Retired preamble drafts remain quarry only.*
 
 ## Governing rule
 
@@ -47,7 +47,7 @@ The reader must care about what Eli stands to lose before learning what he is.
 
 ### 2. Give one impossible event early
 
-**Current placement — LOCKED:** the Melaka breach closes **Chapter 2**. Chapter 1 earns the ordinary life; Chapter 2 destroys distance between displacement, the ring, pursuit, and the impossible event. Do not postpone the breach to preserve separate Meridian City, Straits, or witness-tour chapters.
+**Current placement — LOCKED:** the Malacca breach closes **Chapter 2**. Chapter 1 earns the ordinary life; Chapter 2 destroys distance between displacement, the ring, pursuit, and the impossible event. Do not postpone the breach to preserve separate Meridian City, Straits, or witness-tour chapters.
 
 The early hook should be undeniable but not explained:
 
@@ -104,6 +104,8 @@ Book I may expose registries, labor systems, selection marks, organized provisio
 Book III supplies the synthesis: civilization behaves like an engine while pretending to be a family. It draws in bodies, labor, attention, fertility, loyalty, and time; converts them into order, security, territory, production, and institutional continuity; then exports injury, displacement, disability, grief, ecological damage, and death into people it can afford to lose. Kinship language—motherland, fatherland, founders, sons and daughters, national family, sacrifice for future generations—turns expenditure into apparent love.
 
 The global baby bust is one of the cleanest proofs, but its full meaning waits for Book III. Book I shows missing cohorts and the bureaucratic value assigned to young bodies. Book II tests bloodline against chosen family, loss, fosterage, and shared care. Only Book III names the contradiction: institutions lament that people no longer form families while preserving the housing, labor, surveillance, and attention systems that make durable intimacy difficult; then they call for births because the engine needs replacement labor. **A civilization can order reproduction; it cannot order belonging.**
+
+**Charkha pair-severance follows the same delay.** Book I supplies symptoms only: Eli and Wren both fear that need will become ownership, and neither yet knows how much of the surrounding loneliness has been cultivated. At the Book II midpoint Rowan finds operational evidence that apparently opposed gender messages were tested and amplified by the same Measure channels. The discovery names **dependency transfer**, not a conspiracy that invented women's autonomy: reciprocal reliance is made shameful while reliance on institutions becomes invisible. Wren carries the intimate recognition—what the pressure did to bodies, trust, and formative bonds—without allowing it to explain away anyone's choices. Book III supplies the withheld synthesis: pair-severance was one belt in the civilization-engine, and its demographic consequence became the excuse for new control. **The Measure did not liberate women from men or men from women. It liberated the engine from both.**
 
 The metaphor must not flatten civilization into pure evil or misuse thermodynamics as literal social physics. Engines produce real work: medicine, food distribution, infrastructure, defense, knowledge, and coordination. That useful output is why people consent. The indictment is that institutions preserve their organized form by exporting entropy downward while treating organizational survival as identical to care. The people discarded are never waste in the novel's moral voice; **the engine treats them as exhaust, and the story restores them as persons.** Governing distinction: **A family remembers whom it has lost. An engine records what the loss purchased.**
 
@@ -169,7 +171,8 @@ The name, rumor, effect, or handiwork arrives chapters before the body does.
 
 Canon examples already running this pattern:
 
-- **Maren** — ring photograph, trail, other people's memories of her, long before the truth of her state (the reunion is the goodbye).
+- **Maren** — ring photograph, trail, other people's memories of her, long before **Book II rescue** (the reunion is the goodbye).
+- **Rasel** — garden, wage ticket, *Russell* on files, pier line (*both taken*); **alive, unrescued** through Book II; **Book III rescue** (Mandate lab reunion).
 - **The healer** — public save → rumor → Eli hears second-hand, before any meeting (LOCKED two-healings order).
 - **The archangel name ladder** — Michael / Gabriel / Persia-prince: allude → reference → recontextualize (`46` § G); names planted volumes before any clarification.
 - **Hassan** — witness who "knows what happened to his mother" is a claim and a ring frame before he is a man in a room.
@@ -213,6 +216,7 @@ Discoveries and pressures:
 - One impossible event pulls him out.
 - The first artifact gives a visual key without explaining the cosmos.
 - The psion war becomes personal.
+- **Meridian Ch 2 — Maren habit only (LOCKED 2026-07-24 rev. C):** Cube overload → **Maren's grounding gesture** (fingers, breath) — **not** martial foreshadow. **No Thailand body memory** before Ch 5. Martial **first on-page Thailand Ch 5–10**.
 - The Three Circles begin as practice, not doctrine.
 - Eli learns that some memories, charges, and impulses are not fully "him."
 - He can begin to override autopilot, but doing so makes him visible.
@@ -229,11 +233,12 @@ Primary reader hook: **kinship, love, possession, release, and grief**.
 
 Discoveries and pressures:
 
-- The mother trail deepens and becomes less rescue-shaped.
+- The mother trail deepens; **parent rescue stays the floor** — cosmology, factions, and prophecy are **means or pressure**, not a power quest.
 - Wren's independent objective conflicts with Eli's trail.
 - The healer rises and is nearly deified.
 - Courtly intrigue, registries, factions, and prophecy pressure intensify.
 - Ancient stories and present households reveal how protection becomes possession, how usefulness can masquerade as love, and how descent can become rank.
+- **Holt vs Khan (Vol II Ch 5–6):** European clerks ask why Eli's surname is not his father's; he says *Bengali thing* — true for **Khan**, incomplete for **Holt**. Pömmelte/Alba reframe **Holt** as **matrilineal Alba/Nephilot** line (mother's name, not patriarchal house); *elf* arrives as folklore compression, not taxonomy.
 - Maren's love, protection, complicity, captivity, and loss refuse both the innocent-mother fantasy and the abandoned-child story.
 - The group learns to remain coherent together under charged fear rather than becoming a command hierarchy.
 

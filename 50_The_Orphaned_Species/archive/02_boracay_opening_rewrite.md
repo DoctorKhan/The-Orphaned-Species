@@ -1,6 +1,6 @@
 # Boracay Opening Rewrite — ARCHIVED
 
-> **SUPERSEDED. Do not use for canon or continuity.** Eli is raised across borders by an English carrier-researcher mother and Bangladeshi father fleeing the suppression network. The Philippines supplies his Filipino martial foundation; a later family attack causes the persistent TBI. During a temporary engineered outbreak within a wider war, Forest City becomes an accountable refuge. The present story opens in newly reopened Melaka, where a local NDE (exact staging TBD) opens the Seven; Emrys converges afterward; the chair belongs to the Albion climax. This file is retained only as a prose quarry for training, sensory texture, and individual lines that can be transplanted after reconciliation.
+> **SUPERSEDED. Do not use for canon or continuity.** Eli is raised across borders by an English carrier-researcher mother and Bangladeshi father fleeing the suppression network. The Philippines supplies his Filipino martial foundation; a later family attack causes the persistent TBI. During a temporary engineered outbreak within a wider war, Forest City becomes an accountable refuge. The present story opens in newly reopened Malacca, where a local NDE (exact staging TBD) opens the Seven; Emrys converges afterward; the chair belongs to the Albion climax. This file is retained only as a prose quarry for training, sensory texture, and individual lines that can be transplanted after reconciliation.
 
 ---
 
@@ -130,7 +130,7 @@ The file in his bag is thin. Too thin for a life. An American adoption certifica
 
 Mother: Elianor Vale. Nationality: British.
 
-Father: Arif Rahman. Nationality: Bangladeshi.
+Father: Rasel. Nationality: Bangladeshi.
 
 There should have been more. There was not.
 
@@ -150,13 +150,13 @@ The message is not from the airline.
 
 It is from an address he does not know.
 
-Subject: Re: Rahman family inquiry
+Subject: Re: Rasel family inquiry
 
 The body knows before the mind. Heat under the breastbone. Salt air gone suddenly cold. He opens it with hands that, by rights, should be shaking and are not.
 
 Mr. Hart,
 
-Do not come through the airport records desk. Do not ask for Arif Rahman by name again. If you are already in transit, continue. If anyone asks, you are visiting for martial arts tourism and onward travel.
+Do not come through the airport records desk. Do not ask for Rasel by name again. If you are already in transit, continue. If anyone asks, you are visiting for martial arts tourism and onward travel.
 
 Your father was not the dangerous one.
 
@@ -280,7 +280,7 @@ Farida's mouth tightens. "You see? American. You think a question is innocent be
 
 Inside the apartment, a ceiling fan turns with a tired clicking sound. There are books in Bengali and English, a framed photograph of a young man Eli recognizes from the river picture, and on a shelf above the television a brass bowl filled with keys. Farida takes his shoes before she takes his bag. She gives him water. She watches until he drinks all of it.
 
-"You are thinner than Arif was," she says. "But the hands are hers."
+"You are thinner than Rasel was," she says. "But the hands are hers."
 
 Eli looks down.
 

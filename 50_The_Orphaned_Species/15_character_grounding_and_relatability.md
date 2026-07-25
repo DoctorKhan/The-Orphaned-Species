@@ -76,11 +76,11 @@ Pair **Part VI** with **Part V** (past-vs-mask Vol I scenes) when drafting.
 
 **Keep it.** It integrates the family loss, political hunt, exile, bodily vulnerability, and uncertain opening of the receiver. Removing it would separate plot elements that currently reinforce one another.
 
-**Cause:** during the politically motivated attack on his family's home in Bangladesh, a blast and collapsing masonry throw Eli into a wall and strike his skull. He survives with a **moderate-to-severe traumatic brain injury** and is initially assumed dead or unlikely to recover. A local medical worker—the future present-day healer—gets him out and stabilizes him; an informal network then separates them and moves Eli into Thailand before the attackers learn he lived. Exact weapon, diagnosis, treatment interval, and escape logistics require research when the scene is drafted.
+**Cause:** during the **extraction attack** (border / third country / keeper handoff — not a legible Dhaka scene), blast and collapsing masonry or vehicle impact throw Eli into a wall and strike his skull. Rasel is **taken** into Mandate custody the same night; Eli is told later his father **did not make it out**. He survives with a **moderate-to-severe traumatic brain injury** and is initially assumed dead or unlikely to recover. A local medical worker—the future present-day healer—gets him out and stabilizes him; an informal network then separates them and moves Eli into Thailand before the attackers learn he lived. Exact weapon, diagnosis, treatment interval, and escape logistics require research when the scene is drafted.
 
-**Cosmological function:** the injury cracks the receiver's filter—the door ajar—but creates no gift. His maternal carrier-line explains sensitivity; the ley-line archive retains the Seven's imprints through the anti-entropic medium; discipline and practice let him survive contact. The injury supplies access, danger, and ambiguity, never mastery.
+**Cosmological function:** the injury cracks the receiver's filter—the door ajar—but creates no gift. His maternal carrier-line explains sensitivity; distinct practitioners persist as threads in the living web; discipline and practice let him survive contact. The injury supplies access, danger, and ambiguity, never mastery.
 
-**Pai distinction:** Pai remains a recovery stop and source of living characters, not the canonical breach. If the motorbike wreck is retained, it must not repeat the brain injury or become a second awakening device. Eli's head is protected; the event creates ordinary bodily danger and vulnerability. The receiver breach still occurs later in Melaka.
+**Pai distinction:** Pai remains a recovery stop and source of living characters, not the canonical breach. If the motorbike wreck is retained, it must not repeat the brain injury or become a second awakening device. Eli's head is protected; the event creates ordinary bodily danger and vulnerability. The receiver breach still occurs later in Malacca.
 
 ### Persistent effects
 
@@ -120,43 +120,145 @@ This is one character's overlapping maturation, not a taxonomy of Seers, Bards, 
 
 These stages overlap. Eli can have an early surge before he can interpret one, a flash of seeing before he can sustain relation, and renewed identification under stress.
 
+## Rasel's gift — symbolic feeling & the dream channel (LOCKED 2026-07-23)
+
+**Eli inherits from his father the ability to *feel symbols* — not decode them intellectually first, but register weight, direction, and rightness in marks, joins, boundaries, plants, stones, bearings, and other things that *mean* before they are explained.** **Rasel Khan** (legendary **claimed** physicist; **gardener in Eli's memory**; **alive in Mandate lab** — Eli believes him dead) read the living world with his eyes shut: soil, stem, season, seam. That is the **father-line** — distinct from Maren's carrier/receiver/song bandwidth (the **mother-line**; **Maren Holt = neuroscientist**). **Naming rhyme (Vol II):** Anglo clerks ask **Holt vs Khan**; Eli says *Bengali thing* (father doesn't pass surname). Later Europe learns **Holt** is **matrilineal Alba/Nephilot** custom — mother's line, same logic, different language. Young Eli got the mother's sensitivity without the father's symbolic fluency, which is why Pelangi Reach reads as **shame in the garden** before it reads as gift.
+
+| Line | Carrier | What it feels like | On-page seeds |
+|---|---|---|---|
+| **Father (Rasel)** | Symbolic feeling — plants, joins, marks, stones, lines on land | *This means something; this points; this is out of place* | Eyes shut in dirt; ring seam; boundary stone bearing; green hands on loan at bleed |
+| **Mother (Maren)** | Receiver bandwidth, song, field contact | Tune, charge, web-thread, diagnostic read under pressure | Hummed fragment; somatic signatures; breach opens filter |
+| **Both in Eli** | Symbol arrives in **dream**; waking gift is **feel-then-test** | Answer given while asleep; direction without proof | Counting doors; Ila dream; Pele dream; Emrys: *note the number* |
+| **Both in Eli** | **Uncanny connection** — unrelated facts link | *These two things rhyme* — whole before proof | Thailand land-reading; Malacca thread; Göbekli sequence; Rootbook / Sanxingdui |
+
+**Dream rule (LOCKED):** **Answers are given in dreams.** Not full cosmology dumps — **symbolic answers**: a name worn smooth (*Ila*), a count to track, a kneeling that must be questioned, a line on a map, a presence that must be negotiated. Dreams are the **delivery channel** for what the symbolic gift is pointing at. They are **genuinely informative and genuinely untrustworthy alone** — the same epistemic discipline as Tao 72 / *Let's test it*: the dream hands you the instrument; waking work (Emrys's numbers, Hạnh's bund, teahouse records) finishes the sentence.
+
+**What dreams are not:**
+- Not the Malacca **seven-life download** (`36` §3a — breach turns receiver **on**, not archive **in**).
+- Not self-validating prophecy — Sol and the Deiwos cells will **misread** Eli's dreams harder than Eli does.
+- Not exclusive — charged grounds, elders, and field contact also teach; dreams are the **private** symbolic channel.
+
+**Messianic function (LOCKED):** symbolic feeling + dream-answers are **why reasonable people think he is chosen by Book III** — he wakes knowing which way to walk, which stone matters, which oath is trap vs relation. The public reads **oracle**; Eli must read **inheritance under test**. Full rise table: `29` § *Messianic rise*.
+
+**Prose rules:**
+1. **Show symbolic feel as body-event** — prickle, seam, wrongness, certainty without caption — before anyone names it psionics.
+2. **Dreams compress time** — Ila register: fever breaks in one image; do not over-explain on waking.
+3. **Rasel rhymes without reincarnation** — Eli recognizes the register in deep threads (Aru breath, Lovernios field line); he is not Rasel returned.
+4. **Father grief ↔ gift delay** — garden failure breaks when he stops performing mastery and accepts **feel → dream → test** as Rasel's actual craft.
+
+**Cross-ref:** `33_the_curriculum.md` §4 (fragments); `27` § Eli; `MANUSCRIPT.md` (Rasel's shoulders, counting dream, Ila dream, green hands); `05` § Pele dream; `17_reveal_order_and_reader_impact.md` (effects before doctrine).
+
+## Uncanny connection — the clarifier (LOCKED 2026-07-23)
+
+**Eli has an uncanny ability to make connections between things that seem unrelated.** A sluice schedule and a rice band; a registry queue and a terrace meal list; a ring seam and a Gulf transfer route; *deiwos* and daylight; Sanxingdui bronze trees and Maren's branching diagram. The link arrives **whole** — often before he can justify it — and is **useful often enough** that others experience it as **magic, oracle, or chosen-one proof**.
+
+This is the **social face** of the same gift named in `36_the_living_web.md`: **clarification** — bringing tangled regions of the web into focus. Symbolic feeling reads **one mark**; dreams deliver **one compressed answer**; uncanny connection is the **leap between domains**.
+
+| Layer | Moves | Looks like to others |
+|---|---|---|
+| **Symbolic feel** (Rasel) | *This stone / seam / plant means* | Green thumb, luck, "he just knows" |
+| **Dream channel** | *Answer while asleep* | Prophecy, vision, divine message |
+| **Uncanny connection** | *These two things are the same pattern* | **Magic** — oracle, messiah, psion, fraud |
+
+**Stack (how it works on-page):**
+
+1. **Plant** two or three details that the reader has seen in **different registers** (kitchen + ledger + field; myth + file + harbor).
+2. **Eli names the bridge** in one breath — no lecture, often wrong tone (facilities hand, not sage).
+3. **Others react** — Wren: *how did you know?* Emrys: *working hypothesis*; crowd: miracle; Crane/Sol: asset.
+
+**Comes in handy (plot jobs):**
+
+- Route and refuge choices before evidence arrives (chalk doors, Malacca thread).
+- Rootbook deciphering — cognate + site + measurement **linked** before the full proof (`52`).
+- Göbekli / patriarchy sequence — **tempting** over-connection Emrys forces him to gap (`MANUSCRIPT` working-hypothesis beat).
+- Book III **re-teaching** *deiwos* — linguistic + practice + what the cells are **doing** (`29` § Deiwos resolution).
+- Teahouse replication — same curriculum noticed across unrelated households (`29` § lay teachings).
+
+**Failure mode (required):** the gift **over-connects**. A sequence that explains too much too neatly is the same error as map-over-territory (`53` — Emrys's error name). **Sanxingdui break** (`52`): forced linguistic fit fails; the larger pattern survives without the easy proof. Eli must learn: **a true leap still needs witnesses** — numbers, bund, independent account, someone who can say *no*.
+
+**Messianic fuel:** strangers hear the **leap**, not the test. They get prophecy without the homework. Sol and Deiwos cells **weaponize** Eli's connections — every lucky bridge becomes mandate. By Book III, **reasonable people** treat his pattern-sight as messiah evidence alongside healings and war coordination (`29` § *Messianic rise*).
+
+**Prose rules:**
+
+1. **Show the leap before the justification** — reader should feel the click, then watch it get tested.
+2. **Never omniscient** — at least one wrong or costly connection per volume; someone pays for a bridge that was only half true.
+3. **Character reactions carry meaning** — Wren honors leaps without granting jurisdiction; Emrys demands the gap list; Mei hears kitchen sense, not cosmology.
+4. **Not a lecture** — if Eli explains the whole pattern, cut it; one line, then action.
+5. **Distinct from surge** — surge is **identification** with charged input; connection is **synthesis** across separate facts (per `15` § perceptual stages 1 vs 6–7).
+
+**Scene template (revision checklist):**
+
+- [ ] Are the unrelated inputs already on the page?
+- [ ] Does Eli's bridge change a **choice** this chapter?
+- [ ] Does someone treat it as magic?
+- [ ] Does a later scene **test or complicate** the bridge?
+
+**Cross-ref:** `36` §1 (clarification); `52` (Rootbook travel); `27` § Eli leadership; `53` § three-beat shape; `90` epigraphs (science floor under the leap).
+
 ## Eli's meditation seed — Thailand (LOCKED)
 
 *Major theme:* Eli's **true strength** is not innate and not conferred by the breach. It is **practice seeded early** and **borne out under challenge** — the same arc as Manual Override in the series: inner work that eventually shows outwardly as equanimity, intimacy, and connection (`15` § *True strength vs superficial display*; `40` Stage 2).
 
-**When and where:** after the family attack, the healer stabilizes child-Eli and the escape network moves him into **Thailand** before hunters learn he lived (`15` § Eli's brain injury). During the recovery interval — before or alongside the **Pai** stop — adults place him near **ordinary temple practice** in northern Thailand *(specific wat, city, and caregiver link TBD at draft; not a mystical tourism beat)*. He learns what a child can learn: **breath, body attention, walking/sitting stillness, returning when the mind runs** — the same register as Aru's practice at Göbekli, encountered as **human discipline**, not as psion training or chosen-one initiation.
+**When and where:** after the family attack, the healer stabilizes child-Eli and the escape network moves him into **Thailand** before hunters learn he lived (`15` § Eli's brain injury). During the recovery interval — before or alongside the **Pai** stop — adults place him near **ordinary temple practice** in northern Thailand *(specific wat, city, and caregiver link TBD at draft; not a mystical tourism beat)*. He learns what a child can learn: **breath, body attention, walking/sitting stillness, returning when the mind runs** — the same register as Aru's practice at Göbekli, encountered as **human discipline**, not as psion training or chosen-one initiation. **No martial in fugitive interval** — wat breath only; **Maren's grounding gesture** (fingers, breath, *stand behind the hands*) may come from **mother on Bali**, not Thailand martial.
+
+**Childhood — Bali — LOCKED 2026-07-24:** Eli **grows up largely on Bali** while parents are fugitive — subak water-sharing, gamelan, communal obligation, living relationship to land and neighbors. **Not** a charged ground, **not** martial training, **not** Vol I on-page visit. Leaks forward as rhythm, food memory, how he reads a room — not exposition blocks. Bangla/culture still from **Rasel and Maren at table**; Bali supplies **place and community**, not replacement for father's line.
+
+**Vol I Thailand order — LOCKED 2026-07-23:** landing contact → **present-day mountain road to Pai ridge** (treacherous; Custodians on water) → **Khun Dang lodge** (*Hotel California* cover craft; three nights; Wren present, not in silence) → **five-day wat silent retreat** (Eli only; methods in schedule) → **keeper stilt-house** → river-valley agricultural witness (Ch 5–10 spine). Pai market staff-twirler = **present-day pass-through**, rhymes at channel-town market later.
+
+**Childhood opacity — LOCKED 2026-07-23 (rev. C):** present-day Thailand Ch 5–10 does **not** dump Bali/fugitive itinerary. Khun Dang does not ask what Eli carries. **No martial body memory before Ch 5** — martial **first on-page** in Thailand sequence. No "when I was twelve" exposition blocks.
 
 **What it is not:**
-- not a download of the Seven or the web;
+- not a download of historical lives or of the web;
 - not spiritual superiority or a TBI cure;
 - not monkhood or permanent renunciation — fugitive childhood continues;
-- not interchangeable with Kali (Philippines / Pelangi Reach) — martial breath is **domain skill**; temple attention is **inner work**. Both bridge into later practice; neither replaces the other.
+- not interchangeable with Kali (Pelangi Reach) — martial breath is **domain skill**; temple attention is **inner work**. Both bridge into later practice; neither replaces the other. **Thailand martial + chi-body — LOCKED 2026-07-24:** Muay Thai/Kali instructor teaches **body-as-unit** activation (chi/lom through frame) → **fast reflexes** when integrated; see § *Eli's Thailand martial + chi-body*.
 
 **Delayed fruition — the plot engine:**
 
 | Phase | On-page register | What the reader sees |
 |---|---|---|
-| **Seed (Thailand, off-page or brief flash)** | Child sits because adults require it; headaches make stillness attractive | Habit, not mastery — one detail (count breath, bare feet on cool stone, bell before dawn) |
-| **Carry (Pelangi Reach → Melaka)** | Training-shell calm **mistaken** for equanimity | Kali footwork + compound competence; meditation recedes into background habit |
-| **First test (Melaka breach)** | Overload, asphyxia, loss of breath | A **fragment** returns — one counted exhale, attention to sole of foot — insufficient alone, but keeps him from total identification |
-| **Vol I proof (Thila / Manual Override)** | Charge deposits; autopilot commands | **Personal Manual Override:** feel charge, do not complete the act — skills **work** for the first time under full pressure |
+| **Seed (Thailand present: mountain → Khun Dang → wat)** | Adult chooses silence; learns cover + methods under pursuit | Mountain road, song, bell, breath, walk, eat, work, scan, stand, metta |
+| **Carry (Pelangi Reach → Malacca)** | Worker competence + Maren habit (breath only) **mistaken** for equanimity | Facilities calm, garden failure, splice refuge; **no martial skill** on-page yet |
+| **First test (Malacca breach)** | Talents **activate** — receiver ON, flare, overload; **not trained** (no martial, no psi control) | Overload, asphyxia, loss of breath; wild fight, not forms | A **fragment** returns — one counted exhale, attention to sole of foot — insufficient alone, but keeps him from total identification |
+| **Vol I proof (Thailand / Manual Override)** | Charge deposits; autopilot commands | **Personal Manual Override:** feel charge, do not complete the act — wat stack **works** under full pressure (Ch 6 stone, Ch 8 bleed, Ch 9 evacuation) |
 | **Vol II (witness sites, mother-reveal)** | Relational hold | Breath stabilizes after contact; can stay with Wren/ensemble without managing or fleeing |
 | **Vol III (authority, inquiry)** | Civilizational equanimity | Accept bounded command, refuse forced synchronization, submit to review — practice scales to **coordinate without owning** |
 
 **Thematic function:** distinguishes **superficial display** (facilities-hand calm, survival competence) from **true strength** (integrated equanimity). The temple years are the **hidden curriculum** Book 1 (*Manual Override*) lives inside the novel — meditation as plot key, not lecture (`00` §8 conveyance channel 2; § Fidelity note).
 
 **Prose rules:**
-1. **Show as habit** — breath before a splice, sitting on a stair after Melaka, one internal half-line (*return to the foot*) — never "when I was in the temple…" blocks.
-2. **Past-vs-mask leak (Vol I):** one beat where Eli's stillness reads as creepy or too calm until a later scene proves it was **practice**, not dissociation.
-3. **Practices regulate attention; they do not erase TBI** — word-retrieval failures, overload, and fatigue remain.
+1. **Show as habit and schedule** — methods appear in pressure scenes as reachable stack (bell → breath → feet → hands), not "when I was in the temple…" exposition blocks.
+2. **Past-vs-mask leak (Vol I):** one beat where Eli's stillness reads as creepy or too calm until Ch 5 wat return proves it was **practice**, not dissociation.
+3. **Practices regulate attention; they do not erase TBI** — word-retrieval failures, overload, and fatigue remain; body scan maps injury without curing it.
 4. **Rhyme, not ownership** — Aru's breath/stillness clarifies at Göbekli; Eli recognizes the register, does not claim to be Aru.
 5. **After breach, grounding before lore** — any calm post-contact is **temple habit + Emrys/Wren presence**, not instant wisdom.
 
 **Cross-ref:** `26` § Eli past; `27` § Eli perceptual arc; `00_NARRATIVE_STRUCTURE.md` §0 fugitive childhood; `36_the_living_web.md` § Manual Override; `33_the_curriculum.md` if present.
 
-## Physical healing — the healer's alone; Eli only reads
+## Eli's Thailand martial + chi-body — LOCKED 2026-07-24 (rev. C)
 
-Eli is **not** a healer. His bodily gift is *diagnostic*: with contact and attention he can **read** a body — locate a bleed, sense where damage or distress sits, feel a fracture's wrongness — the way his gardener father could read a plant by touch. He cannot repair any of it. The read can guide ordinary first aid or point the healer at what to mend; the mending is never his. Even the read is inconsistent, exhausting, and medically bounded.
+*Companion to § *Eli's meditation seed* — learned **present Vol I Ch 5–10**, not before.*
+
+**When and where — LOCKED:** **Thailand only.** Martial + chi-body taught **on-page in Vol I Ch 5–10** (agricultural-witness sequence) — **instructor name TBD** (keeper/corridor fighter; Muay Thai / Kali register). **Not Pelangi. Not Malacca. No Philippines visit.**
+
+**Fugitive Thailand (post-extraction):** Somchai stabilization, TBI recovery, **wat breath seed only** — **no martial**, **no body memory** carried into Pelangi/Meridian/Malacca.
+
+**No Thailand body memory — LOCKED:** zero martial/chi/reflex leaks before Ch 5. Malacca breach fight = **untrained overwhelm**, not Kali. Meridian Cube gesture = **Maren** (mother), not martial foreshadow.
+
+**What he learns (Ch 5–10, first on-page):**
+- **Moving chi / breath through the body** — *lom*, whole frame at once; builds on wat schedule + Maren's earlier gesture.
+- **Martial line work** — range, angle, timing, Muay Thai structure, Kali triangles.
+- **Effect:** fast reflexes when integrated — **bounded**; TBI and overload remain.
+
+**Pelangi Reach:** **no martial teacher.** Talent pressure = **Foundry visuo-spatial** only (Priya sandbags splice times; *adequate is safe*); Meridian contract = scheduled leave away from scrutiny.
+
+**Under the radar:** no public bouts; capacity claiming applies to fight talent too.
+
+**Cross-ref:** `99` § Eli's upbringing; `31` Ch 5–10; `95` *Eli*.
+
+## Physical healing — the healer's alone; Eli reads symbols and bodies
+
+Eli is **not** a healer. His bodily gift is *diagnostic*: with contact and attention he can **read** a body — locate a bleed, sense where damage or distress sits, feel a fracture's wrongness — an application of **Rasel's symbolic feeling** to living tissue (`15` § *Rasel's gift*). He cannot repair any of it. The read can guide ordinary first aid or point the healer at what to mend; the mending is never his. Even the read is inconsistent, exhausting, and medically bounded. **Waking symbolic reads** (stone, seam, boundary, join) and **dream answers** are the same inheritance on different channels — feel first, test second.
 
 The trilogy's only healer is the male medical worker who stabilizes Eli after the attack ending his family's flight and passes him into the escape network. His practical medical competence precedes the gift. The attack exposes him to the suppression apparatus; he and Eli are separated, then meet again when two independent clue trails cross in Volume II. Neither has been knowingly traveling toward the other. Over time the healer can sustain deep repair of severe tissue injury, complicated fractures, and organ damage. He is not Ila reborn, cannot psionically cure the engineered outbreak, and cannot restore information destroyed by Eli's chronic TBI. Ila's record supplies language and comparison, not identity or instant skill.
 
@@ -185,6 +287,8 @@ Their human conflict is **care versus conscription**. They cope with grief by ma
 
 Eli needs ordinary pressures alongside the extraordinary ones:
 
+**Home tongue vs Thread — LOCKED 2026-07-24; upbringing 2026-07-24:** **Bangla and culture** — first from **Rasel and Maren** at table; continued by **keeper foster parents** who raised him after extraction (corridor placement; file orphan/foster — **not** Thread). **Raised as a worker** — labor track, platform wage, facilities hand; no elite path. **Visuo-spatial talent — LOCKED:** strong memory/skills for routes, cable runs, shaft maps, splice geometry — **worker gift**, distinct from carrier line (Maren) and symbolic feeling (Rasel). **TBI** makes it inconsistent. **Capacity claiming** (`40` § Capacity claiming): exceptional minds get flagged — Eli lives **under the radar** with everyone else (*perform adequate, not exceptional*; *stay off the ledger*). Foundry work uses the gift **sanitized**. Home tongue **opens** Thread corridors; he was **not raised Thread**. Contrast **Rowan**. Guardrail: `31` diaspora lock.
+
 - papers, money, shelter, food, transport, medicine, and sleep;
 - fear of detention or return, not only capture by the ring;
 - work shifts, housing obligations, and the practical fear of losing the made home he has earned in Pelangi Reach;
@@ -199,9 +303,11 @@ His competence is domain-specific. Training makes him disciplined under physical
 
 These people make the route a lived social world rather than a sequence of clues. Give each a name, want, and conflict before drafting; neither exists merely to foreshadow Eli.
 
-- **The Pai staff-twirler (girl; name and exact age TBD)** dresses like a jester and performs with a dragon staff. Her movement is playful, difficult, and public: balance, rhythm, misdirection, and delight rather than combat instruction or mystical exposition. The dragon image can rhyme later with the Double-Fork Stone and living dragons, but she is not an oracle, secret lineage-holder, or disguised magical being by default. Eli remembers a person before he recognizes a symbol.
-- **Eli's Pelangi Reach work** should be ordinary, physical, and socially embedded: **facilities at the Forest Foundry compound** (platform wage; Babaji/Arif placement, not wealth). He is not a guest in the refuge and not secretly important to everyone. He earns trust by showing up, missing things, apologizing, covering shifts, being covered for, and learning how a functioning community protects privacy without abolishing responsibility. **Daily luck awareness:** contrast with worse papers in half-built towers, Priya's sign-off, Mei's free-meal list, recognizers who expect him tomorrow — *you shouldn't still be here, and you are.* He does not say *lucky* out loud; he does not forget it. Makes leaving Pelangi Reach a real forfeiture of borrowed safety, not abstract stakes.
-- **The Pelangi Reach martial-arts teacher (man; name TBD)** holds morning practice and teaches several arts, including **Pekiti-Tirsia Kali**. He builds on—and does not replace—the Filipino foundation Eli learned earlier. His instruction should be concrete: footwork, range, angle, timing, restraint, repetition, and how to train safely with people of unequal ability. He is also a community member with outbreak work and obligations beyond teaching.
+- **The Pai staff-twirler (girl; name TBD)** — present-day pass-through on mountain descent (Ch 5); dragon-staff stumble rhymes at channel-town market. Person before symbol; not oracle.
+- **Khun Dang (Pai lodge keeper — LOCKED present Vol I Ch 5)** — ex-biker; teaches Eli *Hotel California* four-chord cover as **quiet cover craft** while hunted; male keeping-fragment (`29`). Wren watches; guitar stays at lodge. *The song spends the watching.*
+- **Eli's Pelangi Reach work** should be ordinary, physical, and socially embedded: **facilities at the Forest Foundry compound** (platform wage; Babaji/Rasel placement, not wealth). He is not a guest in the refuge and not secretly important to everyone. He earns trust by showing up, missing things, apologizing, covering shifts, being covered for, and learning how a functioning community protects privacy without abolishing responsibility. **Daily luck awareness:** contrast with worse papers in half-built towers, Priya's sign-off, Mei's free-meal list, recognizers who expect him tomorrow — *you shouldn't still be here, and you are.* He does not say *lucky* out loud; he does not forget it. Makes leaving Pelangi Reach a real forfeiture of borrowed safety, not abstract stakes. **Talent pressure — LOCKED:** Foundry **visuo-spatial** almost ledgered (Priya sandbags splice times); **no martial on Pelangi**.
+- **Manong Rico Del Rosario — RETIRED 2026-07-24:** Pelangi Kali teacher removed; martial **Thailand Ch 5–10 only**.
+- **Babaji (Pelangi Reach — LOCKED Vol I Ch 1)** — **refuge patron**; **fictional Balaji analogue** (Option B: **not** Balaji on feeds, but same register — eccentric billionaire, robot dogs, chess boards, Reclamation/Foundry shelter). Rasel's old friend; **work not wallet** for Eli; tea + pier orphan reveal; keeper refusal → Mandate squeeze. `26` § Babaji; `99` § Babaji.
 - **The Pelangi Reach sailing community** uses the available sailboats for ordinary recreation, maintenance, training, and later practical transport. Eli learns basic seamanship: knots, points of sail, reefing, keeping watch, reading wind and weather, docking, and taking instruction aboard. By Volume I he can be useful on a boat but is not an expert skipper. The skill earns its place when the unstable maritime passage requires work, judgment, and cooperation that psionics cannot replace.
 
 Together these practices establish a bodily grammar before the cosmology arrives. Staff performance shows controlled play; morning martial training shows disciplined relation to force; sailing shows direction achieved by working with pressure rather than trying to abolish it. The parallels should emerge through action, not explanatory dialogue.
@@ -222,9 +328,11 @@ Albion closes the mother's mystery. It does not reveal Eli's truer self or repla
 
 Bangladesh should remain an unreturnable or not-yet-returnable home. The reason can be political tension after the attack, unresolved legal danger, surveillance, family enemies, risk to surviving contacts, or the simple fact that returning would not restore the life that was destroyed. This keeps the longing active without turning Bangladesh into a symbolic birthplace that can be visited once and solved.
 
-**Father's death — locked shape.** **Arif Rahman** had real political commitments in Bangladesh (rivers, land, labor, or dissent — exact issue TBD). That visibility entangled with the Ring's hunt for Eli's mother and forced the family into flight. The Ring used local machinery — detention, disappearance, riot cover, checkpoint, file — so the official story can read as politics while survivors know the target was the mother and Arif was in the way. **Arif was killed during extraction**, not in Bangladesh on a scene young Eli can reliably remember; the same attack that ends the flight removes the mother and leaves Eli with persistent TBI. Eli's memory of his father should be **living culture** (language, garden, rivers, household) rather than a legible assassination. The garden he keeps in Pelangi Reach is exile soil — craft transplanted, not recovered. Surviving kin in Dhaka (e.g. cousin **Farida**) remain at risk, which is one reason return stays impossible in Volume I.
+**Off-page lock — LOCKED 2026-07-23:** Eli does **not** visit Bangladesh on-page in any volume. No village feast, planting beat, or near-miss return solved in prose. Lost home is carried through Bangla speech, food memory, Meridian City queue humiliations, Farida's encrypted messages (garden photo, corridor warnings), and the Pelangi Reach exile garden.
 
-Eli's main emotional drive is the longing for a livable home: a place where grief, abnormal perception, disability, love, work, privacy, and accountability can coexist without a state, faction, family myth, prophecy, or archive defining him first. Pelangi Reach gives him a temporary made home; Bangladesh remains the lost home; the final community tests whether mature home can exist without ownership. The mother trail matters because it reopens the wound, but the deeper need is belonging without capture.
+**Father's capture — locked shape (rev. 2026-07-24).** **Rasel Khan** — legendary physicist + gardener in Eli's memory. **Bangladeshi passport** → **Mandate** claim. Visibility (science + dissent) entangled with hunt for Maren; family fled Bangladesh. **Extraction night:** attack + **passport split** — Rasel to **Mandate lab**; Maren (British passport) to **Measure/Ring** chain; Eli **TBI**. Keeper net lore = dead; **pier (Ch 1):** taken alive, unrescued. **Eli rescues Rasel — Book III only.** Book II = **rescues Maren** only. Eli's memory = living culture (language, garden, rivers), not legible extraction. Pelangi garden = exile soil + grief without reunion until Book III. Retired: *killed during extraction*; *single chain for both parents*; *father rescued Book II*.
+
+Eli's **fundamental** drive is **parent rescue** — **Maren, Book II**; **Rasel, Book III** (`27` § Fundamental motor). The mother-trail, Malacca, Göbekli, artifacts, and alliances are **means**; he is **not seeking power**. His main emotional need beneath rescue is **home without capture**: grief, abnormal perception, disability, love, work, privacy, and accountability coexisting without state, faction, prophecy, or archive defining him first. Pelangi Reach = temporary made home; Bangladesh = lost home; Book III tests whether mature home exists without ownership — **after** both rescues are addressed on their own terms.
 
 ## Wren and present-tense love
 
@@ -238,16 +346,16 @@ Wren's relationship with Eli is relatable only if built through present conduct.
 
 She is not Anthea returned. Her relationship to Anthea's chord is her own encounter with the archive.
 
-## The Seven must remain people
+## Historical practitioners must remain people
 
-The Seven cannot become seven curriculum levels. Vary their scale and reliability:
+The practitioners cannot become a numbered curriculum or closed roster. Vary their scale and reliability:
 
 - some records are full lives; others are minutes, wounds, or corrupted fragments;
 - some practices fail in Eli's context;
 - carriers disagree about secrecy, technology, violence, love, and collective power;
 - at least one record should seriously mislead him until another corrects it;
 - Eli must name whose grief, desire, or conviction he is feeling.
-- The Seven's practices must not become seven abilities Eli unlocks. His access to a record does not equal the historical practitioner's depth.
+- Their practices must not become abilities Eli unlocks in sequence. His access to a record does not equal the historical practitioner's depth.
 
 The central integration sentence is not *I was them.* It is:
 
@@ -266,11 +374,11 @@ The ley-line mechanism is an adventure spine, not a lecture Eli earns by being s
 
 Every discovery must occur while someone wants something immediate: to cross water, evade surveillance, protect a field, reach an injured person, recover a record, or hold a stone center under attack. At least one interpretation should fail. A failed theory must cost time, safety, trust, or resources rather than merely invite another paragraph of explanation.
 
-Eli never knows the final destination. He leaves Pelangi Reach for one clue in Melaka, then chooses repeatedly whether the next fragment is credible enough to justify risk. Wren can identify routes and traps but does not secretly know the quest map. Emrys can correlate evidence but cannot announce Albion. The late discovery of Albion must result from independent agreement among several sources, not a recovered address or infallible vision.
+Eli never knows the final destination. He leaves Pelangi Reach for one clue in Malacca, then chooses repeatedly whether the next fragment is credible enough to justify risk. Wren can identify routes and traps but does not secretly know the quest map. Emrys can correlate evidence but cannot announce Albion. The late discovery of Albion must result from independent agreement among several sources, not a recovered address or infallible vision.
 
 Keep clue-following psychologically credible. Eli may pursue weak evidence because it concerns his mother, but Wren and others should challenge the cost. Some leads must fail. Some should reveal valuable human or political truths without advancing the cosmological trail. This prevents every stranger and location from feeling prearranged for the protagonist.
 
-Do not treat the locations as levels in a cosmological scavenger hunt. The Philippines supplies an early martial foundation; Pai supplies recovery, play, and the staff-twirler as a person rather than a sign; Bali supplies living agricultural knowledge; Pelangi Reach supplies accountable collective method, continued morning training, and basic sailing; Melaka supplies the breach and immediate human crisis. None exists to validate Eli, and local characters retain agency after he leaves.
+Do not treat the locations as levels in a cosmological scavenger hunt. **Bali** supplies formative childhood (subak, gamelan, community — off-page Vol I). **Thailand Ch 5–10** supplies wat + **first on-page martial**. **No Philippines visit.** Pelangi = worker refuge; Malacca = breach; none exist to validate Eli, and local characters retain agency after he leaves.
 
 Polarity is not moral symbolism. A positive end is not good, a negative end is not evil, and a broken line is not evidence that a place or community is damaged. Stone circles route existing conductors; they do not manufacture energy. Crop circles are changes in growth produced by new line formation, not alien handwriting.
 
@@ -439,7 +547,7 @@ When elements compete, protect them in this order:
 1. Eli's present bodily and emotional reality.
 2. The double orphaning and political/psionic hunt.
 3. His relationships with Wren, the Healer, Emrys, his dead family, and living people on the route.
-4. The Seven as conflicting historical witnesses.
+4. Historical practitioners as conflicting witnesses.
 5. The mother-release and refusal climax.
 6. Cosmological explanation.
 

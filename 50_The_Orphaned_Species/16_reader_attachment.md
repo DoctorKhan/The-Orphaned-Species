@@ -30,6 +30,18 @@ Readers attach to him through concrete wants:
 
 The cosmic material matters only because it threatens these things. If a revelation does not endanger home, body, belonging, trust, ordinary work, love, or self-command, it is probably arriving too early or too abstractly.
 
+### Eli's governing desire — LOCKED 2026-07-22
+
+Eli wants **a place where he can remain: known without being classified, loved without being possessed, and useful without having to earn his right to exist.** This desire, rather than cosmological curiosity, pulls him through the trilogy.
+
+- **Book I — find the home he lost:** he says he wants an explanation and follows Maren's trail, but emotionally he wants proof that he was not abandoned. Göbekli tempts him with the grand identity that could make abandonment seem meaningful. He chooses living people over securing that identity.
+- **Book II — recover the family he lost:** he wants Maren back, another hour with her, and an innocent explanation of her choices. The reunion must be real and mutually desired. He releases her because continuing to keep her would turn love into possession and prolong the machinery consuming others.
+- **Book III — prevent anyone else from losing home:** personal grief expands into the wish to build protection large enough to prevent repetition. That wish is noble and dangerous: it can justify a civilization-engine that classifies, coordinates, and spends people in the name of keeping everyone safe. Eli learns to protect without promising an end to loss or making himself indispensable.
+
+The emotional movement is: **find the home I lost → recover the family I lost → prevent all loss → love and protect without demanding that nothing ever be lost.** A chapter may advance the plot brilliantly and still fail if Eli's desire is absent from it.
+
+The reader is drawn by an unclosed desire, not an unanswered lore question alone. Attach every major cosmological discovery to something a person longs for and something another person may refuse.
+
 ## Introduce people through care, not lore
 
 Before a character becomes important to the mythos, show them in ordinary conduct.

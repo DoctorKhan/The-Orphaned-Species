@@ -51,7 +51,7 @@ Do **not** import setting names, factions, chrome brands, or plot beats from tha
 
 ## What to lean into
 
-### Port-noir present (Melaka, Strait, corridors)
+### Port-noir present (Malacca, Strait, corridors)
 
 - Reopened cities moving around a wound: uneven shipping, forged papers, quarantine theater, quiet bribes.
 - Pursuit under **procedural stress** — sharper, more observed, less lyrical than Pelangi Reach.
@@ -118,7 +118,7 @@ Extends `05_story_architecture.md` § Manuscript Voice. Same lyrical restraint; 
 | Zone | Temperature | Sensory bias |
 |---|---|---|
 | **Pelangi Reach** | Warm, funny, socially dense | Food, garden dirt, mall routines, Bengali banter, sail masts at dawn |
-| **Melaka / pursuit** | Sharp, procedural, port-noir | Diesel on river, wet stone, fryer oil, checkpoints, wrong doors, scooter exhaust |
+| **Malacca / pursuit** | Sharp, procedural, port-noir | Diesel on river, wet stone, fryer oil, checkpoints, wrong doors, scooter exhaust |
 | **Strait / corridors** | Lean, transactional, maritime | Cargo, quarantine floats, patrol lights, forged chits, working decks |
 | **Psi / breach / descent** | Quiet, strange, bodily | Breath loss, hum, tingling/pressure reads, charge before name; no lecture |
 | **Faction scenes** | Cold institutional or charismatic hot | Clipboards, databases, sermon cadence, "for your own good" |
@@ -147,7 +147,7 @@ If a scene only adds cosmology without pursuit, belonging, or bodily stakes, del
 Vol I should **open EdgeRunners-tight** then widen into history:
 
 - **Act I (Pelangi Reach):** lovable ordinary life; planted lure; almost-stay; supply-boat crossing with port danger.
-- **Act II (Melaka):** reopening noir; baited witness; losing fight; asphyxia breach; first network touch reads as **street flare**, not cosmology lecture.
+- **Act II (Malacca):** reopening noir; baited witness; losing fight; asphyxia breach; first network touch reads as **street flare**, not cosmology lecture.
 - **Act III (flight / first descent):** pursuit with teeth; Ila differentiation; first proof that reception ≠ mastery.
 
 End state: Eli has **witnessed** a practitioner at a charged ground **as other**, has first Manual Override, and follows the next clue with **no map** — awakened and hunted in a damaged but functioning world.
