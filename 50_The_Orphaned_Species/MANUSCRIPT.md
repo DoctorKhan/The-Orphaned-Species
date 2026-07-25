@@ -15,9 +15,7 @@
 
 ## Chapter One — The Hour That Belongs to No One
 
-The seagrass meadow lies where the resort pilings end and the old harbor begins — green blades in sand, work done on breath, not clock.
-
-An old woman kneels in it with a curved knife, cutting stems into a net bag tied to her belt. A boy drops from the bright surface, finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again. She does not look up. She has another breath of row left and he has another game, and both have been true since before anyone poured concrete on the Reclamation.
+An old woman kneels underwater at the bottom of the sea, as comfortable as a cook in her kitchen. She has a curved knife, cutting stems into a net bag tied to her belt. A boy drops from the bright surface, finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again. She does not look up. She has another breath of row left and he has another game, and both have been true since before anyone poured concrete on the Reclamation.
 
 From the fishing boat's gunwale Eli watches the two shapes move in the clear dawn water the way he watches kites — a thing that belongs to the strait and not to the Foundry schedule. Suresh names the grandmother the way you name weather. Timah. Her people keep the harbor fringe fed when the causeway queue eats the morning.
 
