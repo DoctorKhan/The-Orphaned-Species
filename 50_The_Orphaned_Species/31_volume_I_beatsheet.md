@@ -67,6 +67,7 @@
 - **Choice → Cost:** Wins race, earns manifest; Wren puts him worker lane; **still boards Saturday PM**. Hearth suspended.
 - **Orphan reveal:** **Mei, Friday dinner** — stolen child, parents taken alive.
 - **Three offers — LOCKED rev. Y:** Suresh race wager; Babaji sponsor papers (via Wren); cohort vs worker lane.
+- **Wren / feelings — LOCKED 2026-07-25:** First meet is **emotional work**, not only paperwork. Eli carries **Friday orphan truth** into Saturday; Wren notices body-before-story (shaking, silence, performative OK). One plain line redirects a substitution — grief ≠ debt, anger ≠ plan — **without** therapist speech. She waits when he can't name it. Catamaran + marina departure = first co-regulation (food, route, *don't burn the thread* as care through action).
 
 ### Ch 2 — Something of Hers / Checkpoints and the Stack *(Eli · Wren escort → Meridian → Malacca breach)*
 - **Timeline — LOCKED rev. Y:** **Saturday last light** — depart Pelangi; strait pier + Stack intake **Saturday eve**. **Saturday night** — **Continue Inn** (game hotel). **Sunday AM** — Cherry Lane → Cube. **Sunday** — Circuit race night, convoy escape, Straits, Malacca breach.
@@ -92,6 +93,7 @@
 - **Revelation:** what saves him before the breach is not the gift but the human web. The ring makes his mother's disappearance concrete; the body-register proves the hunt is more than legal; the breach exposes him as a carrier event. **End state:** home gone, Hassan and the ring lost, receiver open, both teams converging.
 - **Past leak:** Suresh — wrong-note hum at stern, stops (`26` Part V). Shireen — text with photo of Rasel's garden still growing in Dhaka.
 - **Romance / touch — LOCKED 2026-07-25:** **Awkward flirtation** during escort (`19` §4). **Strategic touches on-page:** clipboard at marina gate; **sleeve at pier arch** (*permission, not comfort*); Wren picks routes with hand on his back through crowds if needed. **Optional smash:** strait inspection crush or Malacca crowd jolt before breach — bodies pressed once; neither names it; Eli over-reads in narration. **Convoy near-miss:** Wren at convoy edge, **does not acknowledge** — intrigue, not reunion. No gratitude kiss; field-recognition at breach only.
+- **Wren / feelings — LOCKED 2026-07-25:** Escort is **early emotional help**, not logistics only. After pier arch / stack overload: one plain redirect (*body ahead of head* / *that's fear, not proof*); document-lanes goodbye **I'm sorry** = first acknowledged interior cost. *Be boring* = co-regulation, not only ops.
 - **M/I/A:** **M** — unreadable operator; convoy non-acknowledgment. **I** — light-cross / witness collision (reader ahead of Eli). **A** — strategic touch misread; optional smash; terror + attraction at breach, not fate.
 - **Appeal (2026 timeliness):** optional **validation feed / companion ping** on Eli's phone — warmth without mutual obligation; he distrusts it (AI-intimacy rhyme, `44` § Timeliness A). Chase = **GoT dagger** — safe life burned in one morning.
 
@@ -351,12 +353,12 @@ Meridian City archive, clinical corridors, **cure framing** — not punitive Fra
 
 ## Romance cost audit — Vol I (`19`, `27` § Wren)
 
-**Personal arc lock — 2026-07-22; voice arc 2026-07-25:** Wren is not Eli's political tutor. Book I uses their intimacy to make Eli emotionally legible to himself — and his **narration** uncertain until conduct earns plain names (`14` § *Eli's voice arc*). Each shared chapter must move not only trust but his ability to distinguish a feeling from its survival disguise. By Göbekli he can recognize fear, shame, grief, desire, anger, and loneliness with increasing honesty; that self-knowledge produces confidence. Eli reciprocally learns to notice Wren's feelings beneath competence without treating perception as entitlement. Rowan carries the later civic/political counterpart function. Consent and boundary govern the bond, but **emotional recognition is its Book I content**.
+**Personal arc lock — 2026-07-22; voice arc 2026-07-25; early-on 2026-07-25:** Wren is not Eli's political tutor. Book I uses their intimacy to make Eli emotionally legible to himself — **starting Ch 1 catamaran**, not deferred to Thailand — and his **narration** uncertain until conduct earns plain names (`14` § *Eli's voice arc*). Each shared chapter must move not only trust but his ability to distinguish a feeling from its survival disguise. By Göbekli he can recognize fear, shame, grief, desire, anger, and loneliness with increasing honesty; that self-knowledge produces confidence. Eli reciprocally learns to notice Wren's feelings beneath competence without treating perception as entitlement. Rowan carries the later civic/political counterpart function. Consent and boundary govern the bond, but **emotional recognition is its Book I content from first contact.**
 
 | Ch | Status | Relational job | Personal feeling move |
 |---|---|---|---|
-| 1 | OK + **TOUCH** | Hearth only — establish what romance will cost; catamaran clipboard at gate (strategic contact) | Loneliness as overwork; Eli notices competence, no flirt payoff yet |
-| 2 | **LOCK + TOUCH** | Operational collision; field-recognition at death; sleeve at pier arch; optional smash; convoy non-ack | Terror + attraction together; awkward misread (operational vs want) |
+| 1 | OK + **TOUCH** | Hearth + catamaran; **Wren names body-before-story** after orphan truth | Grief/fear first redirect — not debt, not plan |
+| 2 | **LOCK + TOUCH** | Escort + **early feeling-help** (co-regulation, plain redirect, goodbye *I'm sorry*) | Terror + attraction; fear named before breach |
 | 3 | **SHARPEN + TOUCH** | Debt fear; fold-in proximity; ambiguous brush; flinch at head touch | Gratitude/need vs debt/ownership; want felt, not named |
 | 4 | **SHARPEN + TOUCH** | Laleh/Asha bill + boarding smash + sanctuary after snap | Wanting company without earning it; first warmth not purely operational |
 | 5 | **INSERT** | Escape offer refused on third loyalty | Eli recognizes that wanting Wren is not the same as wanting escape or rescue |

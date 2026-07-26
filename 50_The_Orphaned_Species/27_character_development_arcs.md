@@ -118,7 +118,7 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 - Open: garden fails; **somatic read** misfires in soil — reception without mastery.
 - **Connection leap (early):** Malacca / corridor — links **unrelated** details (Suresh's thread, wage ticket, mother's name) into a trail others read as fate; Eli reads it as *something to test*.
 - Breach: near-death; Seven = catastrophe not power; **one temple habit** keeps him from total fuse (fragment only).
-- Wren through Book I: takes some of his perceptions seriously without mythologizing them; waits for missing words; gives him consequential responsibility; argues with him as an equal; refuses usefulness in place of honest need; desires traits that are his rather than the receiver's. Shared food, humor, silence, attraction, conflict, and repair become his emotional vocabulary.
+- Wren through Book I — **from Ch 1 catamaran:** takes some of his perceptions seriously without mythologizing them; waits for missing words; gives him consequential responsibility; argues with him as an equal; refuses usefulness in place of honest need; desires traits that are his rather than the receiver's. Shared food, humor, silence, attraction, conflict, and repair become his emotional vocabulary **before** Thailand.
 - Mid-Vol I: **Thailand** — **choose people, lose clean agricultural evidence**; **rice band + sluice + spray/burn maps** — connection leap (*the land is reading*) that looks like magic to the cooperative; temple breath and Pai memory hinge — **self-compassion and self-acceptance bear fruit**, while Wren's personal witness helps him recognize fear, shame, grief, and want without converting them into performance; personal Manual Override begins to hold under pressure.
 - End Vol I: **Göbekli** — choose people over **complete interface record**; **working-hypothesis sequence** — uncanny connection **over-reaches**; Emrys forces gaps; **Emrys taken**; partial selection/control scar with Nephilot identity withheld for Book II; rupture with Wren. His ability to oppose Wren without collapsing, obeying, or making the disagreement destiny is personal evidence of the confidence she helped him build.
 
@@ -166,15 +166,24 @@ Eli's through-line is an **ascent into answerability**, not a flat run of refusa
 
 > From **managing danger** to **trusting consent** — without stopping the dirty work.
 
-### Personal function with Eli — LOCKED 2026-07-22
+### Personal function with Eli — LOCKED 2026-07-22; **early-on 2026-07-25**
 
-Wren is the first person in the trilogy who helps Eli understand his feelings from inside them. She does not become therapist, moral instructor, or political tutor. Her presence makes his substitutions fail: she will not accept usefulness as a request for love, investigation as the whole of grief, destiny as an explanation for desire, certainty as a disguise for anger, or competence as proof that he cannot be left. She treats his perceptions as testable and his decisions as consequential, so confidence grows from self-recognition rather than praise.
+Wren is the first person in the trilogy who helps Eli understand his feelings from inside them — **from first contact**, not after Thailand or Göbekli. Book I's emotional work **starts on the catamaran (Ch 1)** and continues through escort, fold-in, and boarding (Ch 2–4). Do not defer feeling-help to mid-book set-pieces.
+
+She does not become therapist, moral instructor, or political tutor. Her presence makes his substitutions fail: she will not accept usefulness as a request for love, investigation as the whole of grief, destiny as an explanation for desire, certainty as a disguise for anger, or competence as proof that he cannot be left. She treats his perceptions as testable and his decisions as consequential, so confidence grows from self-recognition rather than praise.
+
+**How she helps early (Ch 1–4 — conduct, not speeches):**
+- **Names the body before the story** — shaking hands, rage after the raid, grief after Mei's truth; one plain observation (*You're not paying anyone back on this boat* / *That's not debt — that's fear*) without a lecture.
+- **Waits instead of filling** — does not finish his sentences or supply destiny-language when he stalls; silence is permission to find a word.
+- **Refuses performance** — won't let him repeat manifest lines as if they were feelings; operational calm is not the same as being fine.
+- **Regulates without owning** — *Be boring*, route choices, food ordered, sleep enforced — co-regulation through action, then one honest line when the door closes.
+- **Arguments as equality** — disagrees as someone whose choices matter; that teaches him his feelings are real enough to conflict with, not shameful noise to hide.
 
 **Early physical awkwardness — LOCKED 2026-07-25:** Book I includes **initial awkward flirtation** before trust is named. Wren's **strategic touches** (sleeve, wrist, clipboard, steering through a crowd) are professional habit; Eli often **over-reads** them while his narration stays uncertain. One early **smash** (boarding, crush, convoy jolt) and occasional **ambiguous brushes** (cup, manifest, collar) should land without clean acknowledgment — care, habit, and want indistinguishable for a while. Her job is not to clarify every touch; it is to refuse fake names for real needs when the feelings surface in words.
 
 Eli's reciprocal gift is emotional witness. He notices fatigue beneath competence, fear beneath control, tenderness beneath irritation, and desire beneath operational proximity. He sometimes respects a silence instead of extracting it. As he learns to say what he feels, Wren can begin to be seen without assuming that being seen means being captured. Book I only begins this change; it does not complete it.
 
-**Proof rule:** every major Book I Eli/Wren scene should change at least one named feeling or one character's ability to acknowledge it. Operational trust without personal recognition is insufficient.
+**Proof rule:** every major Book I Eli/Wren scene should change at least one named feeling or one character's ability to acknowledge it — **including Ch 1–2 before the breach.** Operational trust without personal recognition is insufficient.
 
 ### Volume beats
 
