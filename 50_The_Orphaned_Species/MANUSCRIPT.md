@@ -1055,7 +1055,7 @@ The boat goes in with the tide — and Eli's palms, still prickling at the worke
 
 ## Chapter Five — The Field That Counts
 
-The contact at the landing is a woman in a faded blue shirt who never gives her name and never needs to. She looks at Eli's hands the way Pak Din looked at them — not his face — and says, to Wren, "The Custodians are on the water. They always are. You don't go up the valley yet."
+The contact at the landing is a woman in a faded blue shirt who never gives her name and never needs to. She reads Eli by his hands, not his face — the loud ones announce themselves there, if you know where to look — and says, to Wren, "The Custodians are on the water. They always are. You don't go up the valley yet."
 
 "Then where?" Wren says, quiet.
 
@@ -1081,7 +1081,7 @@ They do not stop in the town. They go through it on the ridge road — one glimp
 
 Khun Dang's lodge sits on stilts above brown water where the jungle comes down to the kitchen door. It is not a temple. It is not a resort. It is a long wooden house that smells of fish sauce and diesel and rain in the boards, kept by a man broad as a door, seamed with scars that are not from cooking. The gossip in Pai, which Wren collects the way other people collect stamps, says he once founded a biker gang that rode the Mae Hong Son loop with no headlamps and less wit. The gang is gone. The lodge is what the road left him.
 
-He looks at Eli the way the contact looked — hands, not face — and at Wren the way a man looks at weather.
+He looks at Eli's hands before his face, and at Wren the way a man looks at weather.
 
 "Two nights," Wren says. "Then we go down to the wat."
 
@@ -1570,7 +1570,7 @@ Emrys goes very still. Lays the boy's page beside his surviving half-series. Che
 
 "West of south of west," he says quietly. "Continuous. Two independent witnesses — rice and a boy's pencil." He looks up, and his eyes have gone somewhere far. "It doesn't stop, and it doesn't wander. Lines that don't wander are *going* somewhere. Old-world somewhere. Gulf-of-somewhere. There will be a place where lines like this were — " he catches himself, files the lecture, " — there will be a place. West."
 
-West, with less proof than they came for. That is the arithmetic of the valley, and Eli makes himself sit with every term of it: the cleanest record in the world, burned after he spent evacuation seconds trying to save it when Wren had already named it spent; his own hands, so busy arranging how to be indispensable that the human thing went briefly undone. The charge had risen in him during the evacuation — he can name it now, days of Emrys's homework paying off — the old engine, *earn your place, manage it all, be so necessary they can't file you* — and it had turned his competence into a small tyranny of sequencing, him deciding what got carried when, until Wren simply overrode him and the grandmothers lived and the papers burned. He recognized the engine while it ran. He could not yet reach the switch. That is the honest ledger of Chapter One of his education: recognition is not control.
+West, with less proof than they came for. That is the arithmetic of the valley, and Eli makes himself sit with every term of it: the cleanest record in the world, burned after he spent evacuation seconds trying to save it when Wren had already named it spent; his own hands, so busy arranging how to be indispensable that the human thing went briefly undone. The charge had risen in him during the evacuation — he can name it now, days of Emrys's homework paying off — the old engine, *earn your place, manage it all, be so necessary they can't file you* — and it had turned his competence into a small tyranny of sequencing, him deciding what got carried when, until Wren simply overrode him and the grandmothers lived and the papers burned. He recognized the engine while it ran. He could not yet reach the switch. Recognition is not control — that much the valley taught him, and no more.
 
 He finds Wren at the landing at dusk, loading the last of the vials that survived in her bag because she — of course — had pocketed samples the first day, on the principle that anything worth having is worth having twice.
 
