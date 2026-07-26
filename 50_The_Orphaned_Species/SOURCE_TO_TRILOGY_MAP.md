@@ -303,7 +303,10 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 | Artifact / plot pressure | Volume placement | Chapter marker | What it changes |
 |---|---|---|---|
-| **Three-Circles Tablet** | I | Ch 7 | First test marker; Body/Family/Civilization not yet understood as three rings; used to tell revelation from breakdown |
+| **Adapa tablet with a lacuna** | I | Ch 12 | Human-Design Triad (1/3); foolable mind; Tree of Life withheld; inward control |
+| **Enki and Ninmah role-fragment** | I → III | Ch 12 seed; II Ch 3/5; III Ch 2 + late | Human-Design Triad (2/3); not broken; roles/specialties; Umul lacuna |
+| **Sumerian King List (declining reigns)** | I → II | Ch 12 seed; II Ch 3/5 | Human-Design Triad (3/3); mortality memory; contracting reigns |
+| **Three-Circles Tablet** | I | Ch 7 or 11 (physical); Ch 2–3 (vision/aftermath) | Body/Family/Civilization diagnostic |
 | **Double-Fork Stone** | I | Ch 8–9 motif | Bird/dragon and chimpanzee/human as paired sibling divergences; the dragon first seen in play, not omen (Pai motif catalyzes this) |
 | **Sumerian King List** | I–II | later in Vol I or early Vol II | Kingship as transferable administration, not sacred blood; the control system's public face |
 | **Adapa tablet with lacuna** | I | Ch 12 watched-depth clarification | The lock made visible from inside; obedience as cage chosen reasonably |

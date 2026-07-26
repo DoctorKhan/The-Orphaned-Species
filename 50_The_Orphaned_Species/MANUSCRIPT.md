@@ -23,7 +23,11 @@ He is **losing**. Two lengths. Red buoy straight ahead. First boat there wins �
 
 That is the whole strategy, for now: pump.
 
-He braces his knees, rope in one fist, the steering stick loose in the other, and rocks the skiff — pull, release, pull, release — forcing the patched sail to swallow whatever is left. Forward weight: a little glide. Back: almost none. Once the cloth swells and collapses. Twice. Again. His palm burns. Suresh does none of this. Harbor men hate to dance in dead water. Eli learned the pump alone from the stone, watching where the breeze returns when the fairway goes flat.
+He braces his knees, rope in one fist, the steering stick loose in the other, and rocks the skiff — pull, release, pull, release — forcing the patched sail to swallow whatever is left. Forward weight: a little glide. Back: almost none. Once the cloth swells and collapses. Twice. Again. His palm burns. Suresh does none of this. Harbor men hate to dance in dead water.
+
+His father taught him the pump on a borrowed skiff — *feel the cloth, don't fight the air* — hands big around the tiller, Bangla mixed with English when the lesson mattered. His mother taught him the rest: sit on the rail at first light and **watch** until the breeze came back along the storm wall in the same narrow lane, every morning, whether they sailed or not. *Feel it before you see it,* she said, and made him say it back until it was a habit and not a rhyme. Eli was seven, then eight, on a dinghy off a coast he cannot name cleanly anymore — Bali, he thinks, though the word comes with gamelan and wet stone and not with charts. She never let him skip the watching. Rasel called it wasted hours. She called it the only honest forecast.
+
+Eli learned the pump from one parent and the placement from the other. Alone on Pelangi he has only the stone and the fairway and the memory of two people arguing about wind as if wind were a person who could be known.
 
 Suresh leads but he is coasting to a stop. Eli is losing ground slowly — and **buying time**.
 
@@ -45,6 +49,8 @@ From the wall: "**Now!** Hold it!"
 
 He holds it — red and white, sail full, line true — and crosses while Timah is still underwater and Jul is climbing back onto her shoulders, neither knowing they picked a winner. Suresh crosses three lengths behind, rope tangled. Fair loss. The strategy worked because he knew the pocket, the wall, and the channel better than the man ahead of him.
 
+For one stupid second he looks for them on the quay — the old reflex, cut off years ago and still not dead. His mother would have been at the rail with her hair coming loose from its tie, already reading the next shift before the boats tied up. His father would have pretended not to care who won and then adjusted the sheet anyway, muttering about lazy hands. Neither is there. The win lands in his arms alone, salt and rope burn and the hollow where applause from your own people used to go.
+
 ---
 
 Suresh meets him at the marina rail when Eli **pulls in** — arms burning, salt on his knees, the boat put away wrong in his hands. He takes the line without ceremony. For a moment he looks out at Timah's boat, being towed back to the anchor by a harbor boy while Jul waves at no one in particular.
@@ -57,9 +63,25 @@ Suresh coils the skiff's painter at the rail. Eli goes up toward the towers — 
 
 The half-built resort hums around him — laundry, generators, Mei's terrace already cooking. He sleeps in a tower room on Mei's chit circle when he sleeps indoors, not a wage he can send anywhere. The ninth-floor garden is **Rasel**'s — kept for Babaji before the night both parents went on the file as dead.
 
-The seedlings have come up pale again. He works the row on his knees. His palms prickle around the stems and tell him nothing useful. When the light goes he does not go down. He sleeps between the beds with the soil still under his nails, too tired from the win to care where Mei's chit circle ends.
+He takes the service stairs because the lift smells like wet carpet and regret. On the landing he washes his hands at the slop sink until the race salt is gone, then doesn't — his father always said clean hands lie about soil.
 
-His phone buzzes on the landing — Dhaka, Shireen. He doesn't open it yet. He already knows what it will say.
+The seedlings have come up pale again. He kneels in the row Rasel planted for Babaji when the towers still looked like they might reopen — three beds, a gutter line, stakes marked in his father's blocky Bangla, labels bleached by sun. Eli touches each stem the way **Rasel** taught him: thumb and forefinger at the base, not the leaf — *ask the plant, don't grab it* — and waits for the small answer in the stem's stiffness. His palms prickle and tell him nothing useful, the way they always do here, as if exile dirt speaks a dialect his hands haven't earned.
+
+He remembers his mother on this row before the towers finished — not planting, **watering**, one hand on the can, one counting under her breath the way she counted electrodes in rooms he wasn't supposed to enter. *One-two, pause, one-two.* She hummed without words when she thought no one was listening. Rasel watched from the doorway with his sleeves rolled and said she was teaching the tomatoes to breathe. She said he was being poetic again. Eli had been small enough to fit between the beds with a cup, passing water cup by cup because the can was too heavy — **Babu**, not Eli, when she was tired and happy.
+
+He waters wrong anyway — too much, too fast, the way panic waters, not the way Rasel waited for the soil to darken and stop asking. The pale seedlings shiver. Shame is a familiar taste; he has been failing this row for two years the way he failed the dinghy lessons until his mother stopped taking him out and his father took him back to the rail to watch.
+
+He pinches a yellowing leaf the way Rasel showed him — hold, don't tear — and smells crushed stem and hot plastic from the tower cladding. For a moment the ninth floor is a balcony above a different sea, his mother's hum in his teeth, his father's hand on his wrist correcting the tiller. Then it is only Pelangi, and the prickle in his palms, and the row going pale.
+
+When the light goes he does not go down. He sleeps between the beds with the soil still under his nails, too tired from the win to care where Mei's chit circle ends — the same place he slept as a boy when the parents were alive and the world still had a door you could close.
+
+His phone buzzes on the brick edge of the bed — Dhaka, Shireen. He opens it.
+
+A photo: a plot behind her building, wire cages, **tomatoes** heavy on stakes — varieties labeled in Rasel's hand, copied from memory, the ink wrong but the names right. *Amar row still producing. Send something Monday or Amma loses the bed. — Shireen*
+
+He stares at the photo until the screen dims. His father's work, alive in another country, kept by a cousin who still says **Babu** on the line. He types *won the race. Cash Sunday* and doesn't send until he has counted to ten the way his mother counted water.
+
+He already knows what her voice will say when she calls back.
 
 ---
 
@@ -71,11 +93,13 @@ She sits without filling the silence first. "Eat."
 
 He eats. The harbor noise thins. She watches the marina, not his plate — feeding him before she says what she came to say.
 
+The nasi goreng tastes almost right — kecap manis, egg barely set, rice separated the way **his mother** cooked on nights the lab ran late and Rasel came in from the garden with dirt on his forearms and made jokes about physicists who couldn't boil water. Eli's throat tightens on the third bite. Not grief yet. **Recognition.** The body remembering a kitchen before the mind agrees to.
+
 "You slept in **Rasel**'s garden again."
 
 "I was tired—"
 
-"I checked." Not shouting — the quiet of a woman who runs a kitchen and notices everything. "**Rasel Khan** kept that row for Babaji when he still believed the towers would reopen. Your mother helped him water it. You don't get to curl up in the dirt like it's yours because you won a race."
+"I checked." Not shouting — the quiet of a woman who runs a kitchen and notices everything. "**Rasel Khan** kept that row for Babaji when he still believed the towers would reopen. Your mother helped him water it." She taps the table once, the rhythm Eli knows from a hundred evenings he can't date. "She counted while she poured. You do everything else like him and nothing like her, and then you curl up in the dirt like it's yours because you won a race."
 
 He keeps eating. She meant what she said about *eat*.
 
@@ -103,6 +127,8 @@ Mei does not flinch. "Because you were a child on a linked file and the lie was 
 
 That lands wrong in his chest — grief and fury braided so tight he can't pull one strand free. His father alive somewhere with Mandate ink on his name. His whole childhood a paperwork trick.
 
+He sees them split without wanting to — not the vans, not the guns, only the **hands**: his mother's fingers on his sternum, the grounding habit he still uses in bad rooms; his father's palm on the back of his neck, steering him toward the door. *Go with the woman who knows the route.* He was small. He went. The memory stops there on purpose, the way keepers taught him to stop it.
+
 "And my mother." It is not quite a question. "She was in the other van. Was she—"
 
 "Alive." Mei's voice softens, and that is worse. "**Maren Holt.** Albion papers — not the Mandate's chain, the other one. Babaji told me both were taken, not killed. He does not know where she is. Nobody on this reach knows where she is." She looks at him finally. "I am telling you what I was told. Not a map."
@@ -127,6 +153,16 @@ She clears nothing when he leaves — leaves the plate like a place held. On the
 
 The line dies. That was the send-off. There will not be another.
 
+He does not sleep. The ninth-floor room stays dark; the garden through the glass is a smear he can read anyway — Rasel's stakes, his mother's counting rhythm in the dark like a pulse he can't turn off. **Alive.** The word rewrites every year on the reach. The lie wasn't only paperwork; it was permission not to reach.
+
+He lies on his back and lets the memories come — since Mei opened the door he can't stop them.
+
+His **father** lifting him onto the dinghy rail to watch the fairway until his legs ached. **Rasel** saying the wind was a language and the hull a sentence — *listen first* — and getting impatient when Eli grabbed the sheet too early. His **mother** laughing at both of them, tying his life jacket wrong on purpose so he'd fix it himself. A night in a rented room while she ran numbers on a napkin and hummed without words. **Rasel** in the doorway with soil under his nails, saying the world was too loud and the tomatoes weren't.
+
+He presses his palms to his eyes until the pressure hurts. Somewhere in Mandate custody, those hands without dirt. Somewhere on Albion papers, his mother's hum. He doesn't know where. He has never been allowed to know.
+
+When the light comes he goes to work on Mei's cable because motion is the only shelter left.
+
 ---
 
 **Saturday, first light.** The old hotel sits red under the dirt two blocks from the marina — half boarded, half laundry, Babaji's keeper table on the mezzanine where the reopening notice gave up. Eli finds the pier behind it where a fibreglass **launch** waits with a deckhand and no name he knows.
@@ -137,9 +173,9 @@ A woman at the rail takes his measure before he reaches the **stern platform** b
 
 "You're Rasel's boy." Her voice is soft — briefed, unhurried, the tone of someone who works for people who own catamarans. "If you'd come aboard, please. Babaji is waiting."
 
-Eli climbs aboard. The deckhand takes the launch back toward the pier without her.
+The words hit the same place **Rasel** used to when he said *Babu, come here* — not English for the record, home in the throat. Eli climbs aboard. The deckhand takes the launch back toward the pier without her.
 
-Babaji sits in the **aft shade** under a canvas awning — old friend of **Rasel Khan**, Rasel on the forms though Anglo mouths still said Russell, the man whose name got Eli work and not a wallet — with an automatic chess board paused mid-game and a kettle on the side table. He does not stand to greet him. The water holds them apart from Pelangi.
+Babaji sits in the **aft shade** under a canvas awning — old friend of **Rasel Khan**, Rasel on the forms though Anglo mouths still said Russell, the man whose name got Eli work and not a wallet — with an automatic chess board paused mid-game and a kettle on the side table. The chessmen are the cheap magnetic kind Rasel hated and bought anyway because Eli kept losing pieces over the rail on the dinghy. Babaji does not stand to greet him. The water holds them apart from Pelangi.
 
 "Sponsor line reads **Babaji**," he says — the register of a man who thinks in jurisdictions, not harbor slang — and passes a folded contractor sleeve, corners stamped the way only someone who keeps a hotel lab and a brain scanner can manage. "**Foundry contractor. Stage crew.** That's the credential that clears the corridor." He holds it out to Wren first. "**Wren.** Attest it."
 
@@ -151,11 +187,31 @@ He looks at the hotel pier, small in morning haze. "The Mandate does not need a 
 
 Wren prints a Cherry Cube call sheet from the compound roster — forty-eight hours, stage crew, **cash** at intake — and slides it across the **salon table** without hurry. "Compound ledger — corridor worker, not cohort." She says it the way a hostess reads a manifest: calm, unhurried. "Suresh has the hull. I'll make the paperwork legal." A beat, voice barely dropping. "I'm with you through **Meridian City**. Please don't make me do it twice."
 
+Eli's hands won't stay still on the table edge. Friday is still in his chest — Mei's terrace, both parents taken, not dead — and his body is running it like a bill he has to clear before sundown.
+
+Wren sets tea in front of him without asking. "You're not paying anyone back on this boat."
+
+He looks up. The sentence doesn't fit any ledger he knows.
+
+"Eat something," she says, and returns to the tablet. She does not explain further. She does not need to.
+
 "Proceed," Babaji says.
 
 The launch comes back for them. Wren runs it to the pier in silence. Eli learns her name the way harbor men learn routes — by use, not introduction.
 
-The rest of **Saturday** he works Mei's service cable out of habit and tries not to watch the causeway. White hulls gather by afternoon. At dusk a drone crosses the plaza: Pelangi Reach is **cooperating with Eastern health authority documentation review** — voluntary screening, the **local bridge closed**, shelter in place except essential corridor workers.
+Halfway across the harbor he says, too loud, "They told me my father was dead."
+
+Wren keeps both hands on the tiller. "Mei told you otherwise."
+
+"Last night."
+
+"Then that's grief." She still doesn't look at him. "Not a debt you work off before noon. Don't confuse them — people will let you."
+
+Silence again. He doesn't know what to do with the sentence except carry it.
+
+The rest of **Saturday** he works Mei's service cable out of habit and tries not to watch the causeway. Every junction box is a problem his **father** would have solved by talking to the metal — *what are you carrying, what do you want* — and every time Eli's hands hesitate he hears **Maren** say *name it before you touch it*. He names nothing aloud. He works faster instead, as if speed could catch two people who have been gone ten years and were never dead.
+
+White hulls gather by afternoon. At dusk a drone crosses the plaza: Pelangi Reach is **cooperating with Eastern health authority documentation review** — voluntary screening, the **local bridge closed**, shelter in place except essential corridor workers.
 
 Every phone in the plaza loses its bars. The chit pings stack, and stop.
 
@@ -169,9 +225,19 @@ She walks him to the gate — a woman in a royal vest with a tablet and the same
 
 Suresh presses a folded paper into Eli's palm at the rail — *chandlery, old town, ask once* — and keeps his eyes on the channel markers. Wren steps aboard ahead of Eli, tablet tucked under her arm, hostess poise collapsing into the boat's narrow deck without losing the composure. "Thread asked me to hold this for you," Suresh says, meaning the chandlery paper. "Not for tonight — for if the corridor spits you out past Meridian City." He casts off into the Johor channel.
 
-Eli stands at the rail with his tool roll and does not look away from the **old hotel**.
+Eli takes the sheet line the way his mother taught him on the dinghy — three wraps, not two, because the strait runs harder than a lagoon — and makes himself useful without being asked. Suresh grunts approval once and does not look at him again, which is its own kind of blessing.
+
+He stands at the rail with his tool roll and does not look away from the **old hotel**.
 
 White coats and royal police move on Babaji's offices in a column — side door first, then the mezzanine where the keeper table used to be, then the laundry entrance Wren used this morning. Someone breaks a lock that was never much of a lock. A portable brain scanner comes out on a trolley like ordinary furniture. Men in hotel livery are walked to the pier with their hands visible. The red building under the dirt fills with Mandate grey.
+
+His jaw hurts from clenching. Wren holds out a bottle of water. He takes it because refusing would be another kind of performance.
+
+"You're not fine," she says. Not a question. "You don't have to be fine to walk through the next door."
+
+She does not touch his shoulder. She waits beside the rail until Suresh throttles up — no manifest, no route speech, just the space to feel what he is feeling without naming it for him.
+
+Since last night the raid is not only Babaji's hotel. It is **Rasel** saying the towers would reopen and they'd finish the row together. It is **Maren** on the ninth floor with the can, counting while the concrete still smelled new, saying places could be home if you kept watering them. Eli watches white coats take the mezzanine where keepers drank tea and cannot breathe all the way out. His father alive in a lab he can't picture except as **hands without soil**. His mother alive on a western file he can't read. He wants them with a hunger that makes the Cherry Cube cash feel obscene — not escape, **distance from the only people left to find**.
 
 Past the fuel dock **Babaji's catamaran** runs south without running lights — twin hulls low against the horizon, motors barely audible, already gone from the pier that is being emptied behind it.
 
@@ -181,7 +247,7 @@ Pelangi Reach shrinks behind the marina wall. Suresh talks his manifest through 
 
 The island locks down behind him. Hearth suspended, not surrendered.
 
-In his pocket: Suresh's folded word — *ask once* — and Mei's truth that his mother wore Albion papers somewhere west of every map he owns. The arch Wren named is not the last door. It is the first that leads to her.
+In his pocket: Suresh's folded word — *ask once* — and Mei's truth that his mother wore Albion papers somewhere west of every map he owns. He has been carrying **Maren Holt** in his body since before he knew the name — the breath, the counting, the dinghy — and **Rasel Khan** in his failures in the garden and his wins on the water. The arch Wren named is not the last door. It is the first that leads toward them, or toward proof they can still be reached.
 
 ---
 
@@ -199,6 +265,8 @@ Suresh throttles down at the Johor shallows where a quarantine line strings the 
 
 So this is it, Eli thinks. Not one door — a corridor of them. Wren's jaw stays level. The keepers ran from a life measured in queues. It doesn't look like a war. It looks like paperwork with guns — the same appetite Pelangi hung on the marina wall six hours ago, wearing a different vest.
 
+His mother used to make him name the fear before they left a harbor — not to banish it, to **place** it. *That is the pier. That is the line. That is the man with the list.* Since Mei's terrace the habit has come back doubled: he does it now without moving his lips, and each name carries **Maren** behind it — alive, taken, not here — the way a tune you can't stop humming sits under every other thought.
+
 The tender swings toward them.
 
 Suresh holds up his manifest. Wren adds the contractor bundle without being asked and speaks to the officer in the register of a woman who has walked clients through worse doors — soft, precise, unhurried. The officer reads Eli's Cherry Cube call sheet twice. New orders since last night — **screening hold** on gray ports, documentation review, cohort cross-check for anyone with a worker visa from Pelangi Reach.
@@ -212,6 +280,14 @@ The arch is smaller than dread made it and worse: one person at a time on the pa
 Eli steps onto the mark. Wren murmurs, "Be boring." His palms prickle once; he thinks about cable runs, about crimps that hold. The gantry hums. The light decides.
 
 He is through the arch. Relief lasts three steps and turns over, because the machine was not wrong about him. It just hasn't met him yet, and the next queue is already forming at the port shuttle stop.
+
+Wren's hand finds his elbow — steadying, not romantic — and guides him off the painted mark before he can stare at the gantry like it owes him an explanation.
+
+"Your body is ahead of your head," she murmurs. "Breathe before the next door."
+
+He tries. It helps a little. Not enough to feel wise.
+
+His mother's fingers used to do the same at clinic gates — flat on his sternum, counting breaths he couldn't find — and for one vertiginous second Wren's hand and his mother's blur together. He pulls back a half-inch too far. Wren notices. She does not comment. She simply takes her hand away and lets him walk on his own, which is also something his mother would have done once he was breathing again.
 
 Suresh's boat moves on without them — rice, limes, the blue tarp bundle, schedule kept — and does not look back, because looking back is a thing that gets noticed. Eli is on **Meridian City port stone** with Wren beside him, his tool roll, the chandlery paper Suresh pressed at the rail, and a city he was supposed to reach as a worker, not a fugitive — one checkpoint down, the skyline still hidden behind warehouses and quarantine sheds.
 
@@ -229,6 +305,14 @@ On a pillar by the document lanes, a notice restricts small-craft transfer of me
 
 He had meant to check in at a service gate with a lanyard and a name on a list. Instead he is here with grease under his nails, Wren's route through four checkpoints, and the Stack does not care where a body began — only what the photograph matches.
 
+The queue noise layers — boots, readers, a child crying two lanes over — and something in him wants to bolt or fight or both. Wren shifts half a step closer without touching.
+
+"Fear," she says, barely moving her lips. "Not proof. Not destiny. Fear."
+
+He almost laughs — wrong, thin — because no one has said it that plain since Mei scolded him on the terrace.
+
+"Keep walking," she says.
+
 Wren steers him toward the document lanes — mop-and-bucket sign, Bangla on the clerk badges — and Eli hears home tongue through a door that should be locked and isn't, propped with a folded rice sack, the kind Mei's kitchen uses. Voices leak through the gap. Not an argument, a ledger being read aloud in a room too small for the words.
 
 He should keep walking. He steps closer instead, the way you step toward home tongue in a foreign building. Wren does not stop him. She watches the corridor the way she watched the marina gate.
@@ -238,6 +322,8 @@ He should keep walking. He steps closer instead, the way you step toward home to
 "—the packet already touched Coalition water. Stack copies are not the only copies—"
 
 "—English woman on the frame — not on the loudspeakers, you fool, on the **file**—"
+
+The phrase stops his blood. **English woman.** Since last night he has a name for that shape — **Maren Holt** — and a passport that isn't the Mandate's chain. He doesn't know yet that the frame is real. He knows only that someone in this building is already speaking his mother in the wrong register, as paperwork, and his **father** is not in the sentence at all.
 
 A cup clicks. Someone laughs without mirth. "Pelangi is sealed. The strait eats what they seal. Let them hold the causeway — they cannot hold the throat."
 
@@ -249,9 +335,11 @@ Silence. Then a chair scrape — someone standing.
 
 Eli moves before they reach the door.
 
-Wren is waiting at the mouth of the document lanes when he comes back — **Malacca**, **Hassan**, **English woman** — words without a frame yet.
+Wren is waiting at the mouth of the document lanes when he comes back — **Malacca**, **Hassan**, **English woman** — words without a frame yet. His face must be doing something he cannot see.
 
-"This is Meridian City." Soft, final. "Past this desk I can't walk beside you — I'm sorry." A beat, the hostess returning. "**Continue Inn**, arcade tier. Your voucher is on the contractor bundle. Rest tonight." Another beat. "Cherry Lane at first light **Sunday**. Ask for the shaft under Cherry Lane — in Bangla, if you can." She is gone before he can answer.
+"This is Meridian City." Soft, final. "Past this desk I can't walk beside you." A beat — not hostess, not operator. "**I'm sorry.** I would if it were only paperwork."
+
+Another beat, the hostess returning. "**Continue Inn**, arcade tier. Your voucher is on the contractor bundle. Rest tonight." Another beat. "Cherry Lane at first light **Sunday**. Ask for the shaft under Cherry Lane — in Bangla, if you can." She is gone before he can answer.
 
 ---
 
@@ -270,6 +358,8 @@ The frame is grey and institutional: a bench, instruments, a woman's hands mid-w
 *Same soil.*
 
 It lands bodily — hair up along both arms, heat behind the sternum, the certainty arriving whole a full second before his mind can even begin the work of doubting it. He puts his hand flat on the counter because the counter is what there is.
+
+Those hands. He has watched them his whole remembered life — electrode pads, tea cups, his forehead, the tiller when he was too small to hold it alone. **Maren** worrying the ring seam the way she worried problems that wouldn't stay in one language. **Rasel** made the join; she wore it. Alive on the file. Alive somewhere without him. The photograph is not reunion. It is proof the hunger Mei unlocked has an object.
 
 "Where—" he starts.
 
@@ -293,7 +383,13 @@ The ticket goes into another man's file and his own file exhales and shuts. She 
 
 ---
 
-**Saturday night.** **Continue Inn** on the arcade tier — neon pixel font, lobby carpet like grass blocks. Room 408, floor four **live play** until two. Eli sets the tool roll on the bed. The ring photograph lives in his chest. He does not sleep well. He sleeps enough.
+**Saturday night.** **Continue Inn** on the arcade tier — neon pixel font, lobby carpet like grass blocks. Room 408, floor four **live play** until two. Eli sets the tool roll on the bed. The ring photograph lives in his chest — his mother's hands, his father's seam — and he cannot stop turning them over the way he turned the wage ticket over before he spent it.
+
+He plays the cable-management sim until his forearms burn because **Rasel** once said games were honest machines: they told you when you were wrong. His mother said games were **evidence** and the body was the lab. He loses three runs and doesn't care.
+
+On the bunk he presses two fingers below his collarbone and breathes out. *Stand behind the hands.* He says **Maren** in his head for the first time since Mei put the name on the table, and the name hurts like touching a bruise. He says **Rasel** and thinks of Shireen's tomato labels in Dhaka, the row still producing while he sleeps in arcade light a country away from both parents.
+
+He does not sleep well. He sleeps enough.
 
 ---
 

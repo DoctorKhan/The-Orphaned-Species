@@ -148,6 +148,15 @@ These stages overlap. Eli can have an early surge before he can interpret one, a
 3. **Rasel rhymes without reincarnation** — Eli recognizes the register in deep threads (Aru breath, Lovernios field line); he is not Rasel returned.
 4. **Father grief ↔ gift delay** — garden failure breaks when he stops performing mastery and accepts **feel → dream → test** as Rasel's actual craft.
 
+**Parent memory on-page — LOCKED 2026-07-25 (rev. two-phase):** Vol I parent beats run **before and after** Mei's orphan-truth reveal — not only one pass.
+
+| Phase | Reader job | Eli's mind | Craft |
+|---|---|---|---|
+| **Before reveal** | Feel love without the plot | Body-memory, habit, sensory rhyme — often **unlabeled** or half-named | Garden touch, race skills, food recognition, Shireen photo — **depth without dossier** |
+| **After reveal** | Grief + hunger intensify | **Explicit** thinking about Maren/Rasel — alive, taken, unreachable; memories **flood back** with new charge | Same images return **re-framed**; he reaches for parents he can no longer pretend are dead |
+
+**Minimum seeds:** Ch 1 pre-reveal garden/sailing; Ch 1 post-reveal (Shireen → catamaran → marina raid → strait); Ch 2 post-reveal (queues, wrong-room, ring hands, Continue Inn, Cube grounding). **Maren taught him to sail.** Do not front-load lab/conspiracy in either phase; **do** front-load and **return to** love, argument, competence split between parents.
+
 **Cross-ref:** `33_the_curriculum.md` §4 (fragments); `27` § Eli; `MANUSCRIPT.md` (Rasel's shoulders, counting dream, Ila dream, green hands); `05` § Pele dream; `17_reveal_order_and_reader_impact.md` (effects before doctrine).
 
 ## Uncanny connection — the clarifier (LOCKED 2026-07-23)

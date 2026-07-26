@@ -67,6 +67,7 @@
 - **Choice → Cost:** Wins race, earns manifest; Wren puts him worker lane; **still boards Saturday PM**. Hearth suspended.
 - **Orphan reveal:** **Mei, Friday dinner** — stolen child, parents taken alive.
 - **Three offers — LOCKED rev. Y:** Suresh race wager; Babaji sponsor papers (via Wren); cohort vs worker lane.
+- **Parent memory — LOCKED 2026-07-25 (two-phase):** **Pre-reveal** — garden/sailing/food rhymes (`15`). **Post-reveal** — explicit grief/hunger; same images return re-framed; Ch 1 Sat AM–departure + Ch 2 queues/ring/Continue Inn.
 - **Wren / feelings — LOCKED 2026-07-25:** First meet is **emotional work**, not only paperwork. Eli carries **Friday orphan truth** into Saturday; Wren notices body-before-story (shaking, silence, performative OK). One plain line redirects a substitution — grief ≠ debt, anger ≠ plan — **without** therapist speech. She waits when he can't name it. Catamaran + marina departure = first co-regulation (food, route, *don't burn the thread* as care through action).
 
 ### Ch 2 — Something of Hers / Checkpoints and the Stack *(Eli · Wren escort → Meridian → Malacca breach)*
@@ -257,7 +258,8 @@ The on-page sequence therefore moves from **how people survive together** (Çakm
 ### Ch 12 — The Old Wound at Ground *(Eli · Mesopotamian charged ground · Adapa-weight)*
 - **Want:** read the ground without becoming its priest.
 - **Obstacle:** Adapa/Qingu watched-depth (`30`); patriarchy at household scale; plaquette grammar disputed.
-- **Revelation:** control order moves inward; first **stone artifact** evidence; the 5000–3000 BCE bottleneck is the early Dominion's consolidation, not yet the formal **Age of Heroes**. The named Age of Heroes follows around **3500–1200 BCE**, when Eridu–Uruk genealogies, ration/marriage records, king-list traditions, and population evidence show a few male lines expanding while many disappear. The heroic, giant, and divine-son stories preserve the winners' memory of that concentration. The trail then **commits north to Anatolia**.
+- **Mesopotamian Human-Design Triad — LOCKED 2026-07-25:** archive haul yields **one packet, three texts** — **Adapa lacuna** (primary read), **Enki and Ninmah role-fragment**, **Sumerian King List** declining-reign column (`35` § *Mesopotamian Human-Design Triad*). Eli acts on Adapa; Ninmah + King List seed forward. Maren margin or dissident copy may cross-link all three.
+- **Revelation:** control order moves inward; first **stone artifact** evidence; foolable mind + mortal boundary + purposed roles **introduced** (full synthesis Vol II–III). The 5000–3000 BCE bottleneck is the early Dominion's consolidation, not yet the formal **Age of Heroes**. The named Age of Heroes follows around **3500–1200 BCE**, when Eridu–Uruk genealogies, ration/marriage records, king-list traditions, and population evidence show a few male lines expanding while many disappear. The heroic, giant, and divine-son stories preserve the winners' memory of that concentration. The trail then **commits north to Anatolia**.
 - **Past leak:** Emrys — map-over-territory slip when lacuna matches mother's notes (`99` #9 seed).
 
 ### Ch 13 — Göbekli and Loss *(Eli · ensemble action · Şanlıurfa / contested site)*

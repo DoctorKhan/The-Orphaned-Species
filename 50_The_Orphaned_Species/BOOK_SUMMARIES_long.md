@@ -19,6 +19,7 @@
 - **Support:** Babaji (island keeper), Suresh (boat runner), Mei (terrace/hearth), **Wren** (Babaji host/assistant on Pelangi; extraction operator), Nico (pizza-maker), Salmah (Malacca fish-seller), Nura + Ilyas, Laleh + Asha, Shireen (cousin, Dhaka). **Priya Nair — RETIRED 2026-07-25** (Ch 1 attestation/cohort beats → **Wren**).
 - **Deep-time threads** (clarify at charged grounds, met *as other*, never inhabited): **Ila** (Thailand midpoint), **Aru** + **Daskar** (Göbekli), **Tem** (17:1 grain pit), **Adapa** (Mesopotamia), **Anthea** + her pupil **Lira** (Rollright), **Cuno** (Stonehenge) → **Derw** → **Aedan**.
 - **Load-bearing artifacts (5):** Three-Circles Tablet · Göbekli plaquette · Adapa lacuna · Babylonian Map of the World · Men-an-Tol holed stone. (Plus the **Double-Fork Stone** image and **Maren's wedding ring** as a personal object.)
+- **Mesopotamian Human-Design Triad (clue leg throughout):** Adapa lacuna · Enki and Ninmah role-fragment · Sumerian King List declining reigns — one archive packet, three texts (`35` § *Mesopotamian Human-Design Triad*).
 
 ## The world (reconstructed through residue; retired preamble drafts are quarry — `42`, `WORLD_BIBLE` §7)
 
@@ -100,7 +101,7 @@ Contested ports, registry checkpoints, a **Hassan-transfer rumor** (seeds the Bo
 **⚠ Seam (artifact placement):** `35` wants the **Three-Circles Tablet** encountered early, but the compressed Meridian City movement in Ch 2 cannot carry another major discovery without diluting the ring and breach. Preferred first physical appearance: the Gulf corridor here; the circles may appear only as Eli's post-breach image before then.
 
 ### Ch 12 — The Old Wound at Ground (Eli · Mesopotamian charged ground · Adapa weight)
-**[anchors]** Present: Eli, Emrys, ensemble. Objects: first recovered **stone artifact**; the **Adapa lacuna**. Deep thread: **Adapa/Qingu** watched-depth. Eli knows (new): the control order runs *inward* (obedience closes the path to life). Callsign: **"Prince"/"Persia hold"** heard.
+**[anchors]** Present: Eli, Emrys, ensemble. Objects: first recovered **stone artifact**; the **Adapa lacuna**; **Human-Design Triad packet** (Ninmah fragment + King List column seeded). Deep thread: **Adapa/Qingu** watched-depth. Eli knows (new): the control order runs *inward* (obedience closes the path to life); foolable + mortal + purposed — triad introduced, not synthesized. Callsign: **"Prince"/"Persia hold"** heard.
 
 The **Adapa** watched-depth clarifies — obedience closes the path to life; the lacuna argued as warning vs. lock. **Qingu-blood propaganda** vs. **We-ila truth** (bad-blood-kneel vs. practice-and-tuning). The **patriarchy chord** at household scale (approved fathers own descent; sacrifice renamed duty). Faction callsign **"Prince"/"Persia hold"** in psion chatter (archangel/*sarim* ladder, reference-tier). **4.2-ka climate layer:** Eli reads the ~2200 BCE disruption through failed grain stores, salt in channels, abandonment — a pressure, not a global switch. Emrys slips (map over territory) when the lacuna matches Maren's notes (`99` #9 seed). First **stone artifact** evidence.
 **Forward clue:** the trail commits **north to Anatolia**.

@@ -493,7 +493,7 @@ Lesson:
 
 **Governing structure:** Rowan returns on-page in Book II and renews her romance with Wren. Eli/Wren also remains a developing romantic bond. Rowan/Eli is not romantic. The result is a **V centered on Wren**, held through disclosure, consent, and separate terms for each bond—not a competition, closed triad, or automatic group relationship. Rowan has an independent west-corridor objective and cannot exist to validate or threaten Eli's desirability.
 
-Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already coordinated with Wren before Eli understands their history. **Heritage / look — LOCKED 2026-07-25:** **British / Irish diaspora** (strait corridor); **blonde hair, blue eyes.** Wren is **Malay Chinese**, dark hair — visual contrast may register; neither woman staged for comparison. If Wren reads exits, Rowan remembers costs.
+Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already coordinated with Wren before Eli understands their history. **Softer register than Wren** — warmth without hostess performance, cost visible in the face (`26` § Rowan). **Heritage / look — LOCKED 2026-07-25:** **British / Irish diaspora** (strait corridor); **blonde hair, blue eyes.** Wren is **Malay Chinese**, dark hair — visual contrast may register; neither woman staged for comparison. If Wren reads exits, Rowan remembers costs.
 
 The weak question is *whom will Wren choose?* The strong question is: **can two different loves remain truthful without becoming hierarchy, concealment, or custody?**
 
@@ -503,7 +503,7 @@ The weak question is *whom will Wren choose?* The strong question is: **can two 
 
 **Wren / Eli:** emergent bond formed through danger, recognition, refusal, and chosen present-tense commitment. Eli may not treat exclusivity as proof he was chosen or use his uncertainty to demand access to Wren/Rowan's private history.
 
-**Rowan / Eli:** direct, respectful, non-romantic relationship. They speak without Wren translating. Rowan may challenge how Eli's quest consumes routes; Eli may challenge Rowan when protecting the Net obscures an individual. Neither approves the other's bond with Wren.
+**Rowan / Eli:** direct, respectful, **non-romantic** relationship. They speak without Wren translating. Rowan may challenge how Eli's quest consumes routes; Eli may challenge Rowan when protecting the Net obscures an individual. Neither approves the other's bond with Wren. **Emotional asymmetry — LOCKED 2026-07-25:** Rowan is **softer** than Wren (visible grief, less operator polish, person-first patience). Eli enters their shared scenes **emotionally stronger** — Book I's feeling-work with Wren pays off: he names, waits, and co-regulates without collapsing or demanding care. Rowan does not mother him; Eli does not lean on her the way he leaned on Wren early. At least one beat per major shared scene: Eli holds plain speech or boundary Rowan cannot armored her way through — peer strength, not messiah display.
 
 ### Formative bond and renewed desire
 

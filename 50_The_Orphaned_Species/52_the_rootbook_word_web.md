@@ -32,6 +32,9 @@ The first locked candidate constellation is thematic rather than exhaustive:
 | **know / recognize** | Bengali *jnan/gyan* through Sanskrit *jna-* | Tocharian *kna-*; Greek *gnosis*; English *know* | the Knowledge branch and limits of certainty |
 | **brother / kin** | Bengali *bhai* through the older Indic line | Tocharian A *pracar*, B *pracer/procer*; Latin *frater*; English *brother* | chosen clans, relationship, and transmission among people |
 | **foot / step** | Bengali *pa* through Sanskrit *pada/pad* | Tocharian A *pats*, B *ptsa*; Latin *ped-*; English *foot* | pilgrimage: knowledge that must be traveled bodily |
+| **earth / soil / ground** | Sanskrit *bhū-* / *kṣiti-*; Hebrew *adamah* (field-soil); Bengali *mati* | PIE *dʰéǵʰom* (reconstruction under review); English *earth* / *soil*; AT1 **Ancient Earth** gloss in Maren's margin | charged ground, continuity through place; bridge to site evidence and covenant rhymes |
+
+**Same soil — ring inscription as domestic index — LOCKED 2026-07-25:** Maren engraved Rasel's phrase **same soil** on the wedding ring as family speech that also tags the **earth/soil** constellation in the journal — plain English to evade scanners. Vol I Ch 2: Eli's body reads home, not etymology. The constellation opens **bounded** pages only with another key (name, foot/step, or corroborating witness/site); it never decodes the whole book or names the next city from the band alone. Rhymes forward: AT1 house plaque (`35`), Thai soil maps, Göbekli backfill, Albion matriline — same connective motif at different scales (`99` #1; `35` Three-Circles middle ring).
 
 All exact Proto-Indo-European reconstructions, historical derivations, spellings, and Bengali registers require specialist review before manuscript prose. The cognate structure is real; the novel must not flatten inherited Bengali, Sanskrit loans, and learned forms into one process.
 
