@@ -57,11 +57,11 @@ For one stupid second he looks for them on the quay—the old reflex, cut off ye
 
 Kiran comes up the marina steps as Eli **pulls in**—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out at Timah's boat, being towed back to the anchor by a harbor boy while Jul waves at no one in particular.
 
-"You won," Suresh says. "Don't thank the grandmother. She wasn't helping you." He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "**Saturday** tide on the strait. Cherry Cube—the glass tech temple in Meridian City. Circuit weekend, stage crew. They pay **cash** up there, corridor wire, not chits. Babaji's launch **Saturday**, first light, old hotel pier. Walk like you belong until something proves you don't. We're **holding the thread** south through the weekend—don't make the harbor men re-argue your face at every marker." A beat. "Don't make me regret betting on a boy."
+"You won," Suresh says. "Don't thank the grandmother. She wasn't helping you." He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "That wager was the **Cherry Cube**—glass temple in Meridian City, Circuit weekend. Stage crew. They pay **cash** up there, corridor wire, not island chits. **Saturday**, first light: Babaji's launch at the old hotel pier—papers, then you go up. Walk like you belong until something proves you don't. The harbor men already know your face south through the weekend. Don't make them argue it twice." A beat. "Don't make me regret betting on you, boy."
 
-Babaji runs the old hotel and was Rasel's friend—the reason Eli's name ever reached a contractor ledger.
+Babaji runs the old hotel. He was Rasel's friend—how Eli's name ever reached a contractor ledger in the first place.
 
-Eli Holt has no passport that matches his face and no country that will claim him. On Pelangi Reach the morning begins before the paperwork does—and this morning he has won the only **cash** job on the strait before he knew what it was called. He files *thread* under harbor slang and understands, all at once, what he owes Shireen if **Monday** is real.
+Eli Holt has no passport that matches his face and no country that will claim him. On Pelangi Reach the morning begins before the paperwork does—and this morning he has won the only **cash** job on the strait before he knew its name. He understands, all at once, what he owes Shireen if **Monday** is real.
 
 Suresh coils the skiff's painter at the rail. Eli goes up toward the towers—storm wall, tackle shed, the low waterfront the towers rose behind. He is not crew. Not one of the harbor men.
 
@@ -479,9 +479,11 @@ The city has learned to move around its wound.
 
 Stalls are open under tarps. Tourists haven't come back in numbers but the signs wait for them anyway, bright and patient, promising river cruises and rooms with air-conditioning. A trishaw covered in plastic flowers goes by empty, playing music to no one. At the fish auction three jurisdictions' stamps are accepted at one table because the buyers agreed on weights before they agreed on flags. The port's old trick was never harmony. It was making difference predictable enough that strangers could arrive without first becoming subjects. Above a spice warehouse, a hand-painted sign says THRESHOLD HOUSE beneath three coats of whitewash; someone keeps repainting the words, someone else keeps trying to erase them. Eli carries his crate three streets, sets it where a boy points, and becomes a man with no crate and nowhere to be—which in a reopening port is its own kind of flare.
 
+To Eli they are *tongs*, though nobody here calls them that: a tea stand on nearly every corner, kettles blackened underneath, glasses drying mouth-down, three stools even where the pavement has room for one. Each keeper is part bartender, part auntie or uncle, part neighborhood memory. They know who fought before dawn, whose daughter came off which ferry, who owes for six glasses, who has not come home—and which stranger is pretending not to need directions.
+
 At the quay corner a drinks-and-fish stall stands under a blue umbrella—glass jars, a kettle, dried fish hung up like punctuation—run by a broad woman who watches the river the way Suresh watches weather. Eli buys tea because he needs somewhere to stand.
 
-"You looking for work?" she says.
+"Empty north boat," she says, looking at his wet cuffs. "One crate of somebody else's fish. Now you're looking for work?"
 
 "No."
 
