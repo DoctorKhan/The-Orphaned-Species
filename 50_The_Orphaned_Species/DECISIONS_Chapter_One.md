@@ -22,7 +22,7 @@
 
 ## Draft choices — flagged for veto
 
-1. **⟦DC-1⟧ — LOCKED rev. Y.** **Friday AM** race (not dawn departure day). **Eli wins** → earns Cherry Cube manifest (Suresh goes if he loses). Shireen **Monday** deposit = why he races for **cash**. **Two boats only:** Eli in Suresh's skiff vs Suresh in rice tender. **Timah/Jul harvest drift** forces Suresh to bear away in mid-channel pocket; Eli reads **wall-shadow breeze** (fairway watched from quay/storm wall). Harbor wall calls wind — no third racer. **No dawn boat. Kiran retired from Ch 1.**
+1. **⟦DC-1⟧ — LOCKED rev. Y.** **Friday AM** race opens **mid-channel in medias res** (wind pocket → Timah/Jul → wall-shadow finish); terms at Suresh's rail after. **Eli wins** → Cherry Cube manifest. Shireen **Monday** = post-race stake. **Two boats only.** **No dawn boat. Kiran retired from Ch 1.**
 
 2. **⟦DC-2⟧ — LOCKED rev. Y.** **Mei dinner** carries orphan truth (*stolen child*, parents taken alive, Babaji told her years ago). Plate left like a place held. **No Saturday service-door goodbye.**
 

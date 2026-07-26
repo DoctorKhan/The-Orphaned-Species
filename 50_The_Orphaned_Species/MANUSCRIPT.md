@@ -15,67 +15,49 @@
 
 ## Chapter One — The Hour That Belongs to No One
 
-Eli Holt has no passport that matches his face and no country that will claim him. On Pelangi Reach the morning begins before the paperwork does.
+The sail goes slack against the mast and stays there.
 
-An old woman kneels underwater at the bottom of the sea — **Timah**, the harvesters call her, though she answers to nothing shouted from the surface. She holds a curved knife, cutting stems and methodically placing them into a net bag tied to her belt. A boy drops from the bright surface, lovingly finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again. She does not look up.
+He is **losing**. Two lengths. Red buoy straight ahead. First boat there wins — and the wind just died in the pocket mid-channel, the dead patch the towers pull most mornings once you leave the wall. Suresh keeps sailing as if pride could tow a hull. Eli knows better. In a pocket you do not hold course. You **stay moving** until the air comes back somewhere.
 
-Eli watches the two of them from the quay while he coils line — storm wall, tackle shed, the low waterfront the towers rose behind. He is not crew. Not one of the harbor men.
+That is the whole strategy, for now: pump.
 
-At the marina Suresh stands with two strait runners — manifest ink on their wrists, home tongue pitched for argument — working whether the weekend line holds through Circuit traffic. One of them taps a name crossed off the loading slate. Suresh hums four wrong notes under his breath, catches himself, goes flat.
+He braces his knees, rope in one fist, the steering stick loose in the other, and rocks the skiff — pull, release, pull, release — forcing the patched sail to swallow whatever is left. Forward weight: a little glide. Back: almost none. Once the cloth swells and collapses. Twice. Again. His palm burns. Suresh does none of this. Harbor men hate to dance in dead water. Eli learned the pump alone from the stone, watching where the breeze returns when the fairway goes flat.
 
-Suresh pays Eli in chits — credit at Mei's terrace, how Pelangi pays itself — and points at the rice run. "**Saturday** tide on the strait. Cherry Cube weekend. They pay **cash** up there — corridor wire, not chits." He keeps his voice down. "Walk like you belong until something proves you don't. We're **holding the thread** south through the weekend — don't make the harbor men re-argue your face at every marker." He nods at a patched skiff on the rail — sail tied, bailer in the stern. "Ten o'clock. **My** hull. You win, you're on my manifest — Cherry Cube, stage crew, Meridian City. **Cash.** Babaji's launch **Saturday**, hotel pier. You lose, I go myself and you patch till midnight."
+Suresh leads but he is coasting to a stop. Eli is losing ground slowly — and **buying time**.
 
-Eli files *thread* under harbor slang. The manifest is Suresh's unless Eli crosses first — and terrace chits don't wire to Dhaka.
+Then the water ahead of Suresh **moves wrong**.
 
-He slings the pole towel over his shoulder and heads for the towers — garden first, then the wall line at ten.
+An old woman kneels underwater at the bottom of the sea — **Timah**, the harvesters call her, though she answers to nothing shouted from the surface. She holds a curved knife, cutting stems into a net bag tied to her belt. A boy drops from the bright surface, lovingly finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again. She does not look up. **Jul** surfaces between the hulls; their harvest boat has drifted off its anchor, marker floats cutting across the fairway. Timah reaches for a line she cannot see the race through.
 
-His phone buzzes on the ninth-floor landing — Dhaka, Shireen. He doesn't open it yet. He already knows what it will say: **Monday**.
+"Timah!" someone screams from the wall. "**Clear the mark!**"
+
+Suresh will panic wide — heavier, center-channel, no room to slip inside. Eli goes **tight** along the floats. He has watched this every morning: when the pocket empties, Timah's boat drifts leeward; the inside line is shorter, and Suresh will not take it in a crisis.
+
+Suresh yanks the stick. His sail turns wrong. He shouts something in home tongue that is not for children. Eli keeps pumping — still buying time, still inside the marks — and **feels** the air before he sees it: hairs lifting on his forearms, cold on his cheek. The breeze is coming back **along the storm wall first**, low and narrow, before it reaches the open channel. That is the second part of the strategy. Not faster sailing. **Better placement** when the wind returns.
+
+The sail fills.
+
+He leans into it, small corrections with knees and hands until the hull hums and the cloth holds. Do not look at the buoy yet — look at water and air. Break focus now and you break speed. Suresh is still wide, still fouled by Jul and the floats. Eli **runs** the wall-shadow lane he has already chosen.
+
+From the wall: "**Now!** Hold it!"
+
+He holds it — red and white, sail full, line true — and crosses while Timah is still underwater and Jul is climbing back onto her shoulders, neither knowing they picked a winner. Suresh crosses three lengths behind, rope tangled. Fair loss. The strategy worked because he knew the pocket, the wall, and the channel better than the man ahead of him.
 
 ---
+
+Suresh meets him at the marina rail when Eli **pulls in** — arms burning, salt on his knees, the boat put away wrong in his hands. He takes the line without ceremony. For a moment he looks out at Timah's boat, being towed back to the anchor by a harbor boy while Jul waves at no one in particular.
+
+"You won," he says. "Don't thank the grandmother. She wasn't helping you." He writes Eli's name on the loading slate and crosses his own off beside it — the laugh of a man who lost a fair bet, not cruel. Then his voice drops to harbor register. "**Saturday** tide on the strait. Cherry Cube weekend — stage crew, Meridian City. They pay **cash** up there, corridor wire, not chits. Babaji's launch **Saturday**, first light, hotel pier. Walk like you belong until something proves you don't. We're **holding the thread** south through the weekend — don't make the harbor men re-argue your face at every marker." A beat. "Don't make me regret racing a boy."
+
+Eli Holt has no passport that matches his face and no country that will claim him. On Pelangi Reach the morning begins before the paperwork does — and this morning he has won the only **cash** job on the strait before he knew what it was called. He files *thread* under harbor slang and understands, all at once, what he owes Shireen if **Monday** is real.
+
+Suresh coils the skiff's painter at the rail. Eli goes up toward the towers — storm wall, tackle shed, the low waterfront the towers rose behind. He is not crew. Not one of the harbor men.
 
 The half-built resort hums around him — laundry, generators, Mei's terrace already cooking. He sleeps in a tower room on Mei's chit circle, not a wage he can send anywhere. The ninth-floor garden **Rasel** kept for Babaji before the night both parents went on the file as dead.
 
 The seedlings have come up pale again. He pinches one off and works the row on his knees. His palms prickle around the stems and tell him nothing useful.
 
-When the row is done he takes the service stair down for the race.
-
----
-
-The morning race is not official — harbor boys and tower kids on patched sails, a line from the storm wall to the fuel-dock buoy. The wall fills with watchers who are not in the bet: kids from the towers, two harbor men off shift, a kitchen hand with a dish towel still on his shoulder. One of them cups both hands and reads what the towers do to the breeze before the breeze knows itself.
-
-"Ten o'clock!" Suresh casts off the rice tender. Eli casts off **Suresh's skiff** — borrowed hull, borrowed sail, borrowed luck. Harbor terms: first across takes the Cherry Cube manifest; anything else is quay work till midnight. Suresh does not wave. If the boy loses, the harbor man takes the run himself.
-
-The storm wall throws the first gust like a door opening — northeast, cool for a breath, then broken as it crosses the marina, the heat off the towers and the concrete already chewing the edge off it. From the wall, the cupped-hands voice shouts it for both hulls: "Lift at the wall! Dies mid-channel! **Fills along the wall shadow** at the buoy if you're still moving!"
-
-Eli sails to win — not for sport. Shireen's deposit is **Monday** and this is the only **cash** job on the strait this weekend. **Tiller** hard, **sheet** in his other fist, toes braced on the windward bench. The patched sail loads and the cloth cracks like a flag. Suresh is two lengths ahead already, hugging the wall where the breeze is still honest — harbor age, harbor waterline — and not bothering to look back.
-
-Eli pinches up, sailing closer to the wind than speed allows, and loses another half-length. Wrong. He bears off, foots for speed, takes the leeward line, and the gap holds. Suresh's wake ticks against his bow.
-
-Mid-channel the heat wins. The wind does not shift; it **vanishes** — not a header, not a lull, a **pocket**, the whole fairway going slick and wrong while the towers drink the gradient. Both sails slap the mast in the same dead beat. The skiffs glide on ghost momentum. From the wall: "Pump or pray."
-
-Suresh holds his course — straight for the buoy, the dignity of a man who will not dance for air. Eli **works the sheet** — trim, ease, trim — rocking the hull to steal wind that is not there, the trick every harbor boy tries once and remembers. Once. Twice. The sail bellies and collapses.
-
-Then the water ahead of Suresh **moves wrong**.
-
-**Timah** is there — the same old woman he watches from the quay every morning, the one who kneels on the bottom with a net bag and does not look up. Her grandson **Jul** has surfaced between the hulls, bright and shouting, and their little harvest boat has drifted off its anchor into the fairway, a string of marker floats trailing behind it like a second wake. Timah reaches for a tangled line without seeing the race. Jul laughs the way children laugh when the world is only bubbles.
-
-"Timah!" someone screams from the wall. "**Clear the mark!**"
-
-Suresh sees the floats too late. He throws the tiller — hard bear-away — and the patched sail backs and luffs, bleeding the little way he had left. He shouts something in home tongue that is not for children. Eli has watched this fairway from the storm wall every morning — Timah's markers, which way her boat drifts when the pocket empties. He does not shout. He **falls off** a handspan, slides **inside** the float line — tight, ugly, the kind of line harbor men remember — and pumps again, because Shireen is **Monday** and this is the only cash on the strait.
-
-The sail fills.
-
-Not from the open channel yet — from the **wall**, a ribbon of breeze the towers have not eaten, sliding along the storm wall's shadow toward the fuel dock. Suresh is still wide, still fouled, still blocked by Timah's floats and Jul's head like a cork in the lane. Eli's hull catches the ribbon and **runs**.
-
-From the wall: "**Now!** Hold it!"
-
-The fuel-dock buoy is a smear of red and white. Eli crosses it with the sail still drawing and Timah still mid-reach below the surface, Jul climbing back onto her shoulders, neither of them knowing they just picked a manifest. Suresh's hull crosses three lengths behind, sheet tangled, jaw set with the particular anger of a fair loss.
-
-Suresh meets him at the marina rail when Eli **pulls in** — sheet coiled, sail flaked wrong, arms burning from work that counted. He takes the **painter** without ceremony. For a moment he looks out at Timah's boat, being towed back to the anchor by a harbor boy while Jul waves at no one in particular.
-
-"You won," he says. "Don't thank the grandmother. She wasn't helping you." A beat — not cruel, the laugh of a man who lost a fair bet. "**Saturday** tide. Cherry Cube." He writes Eli's name on the loading slate, crosses his own off beside it. "First light tomorrow, hotel pier. Babaji's launch. Don't make me regret racing a boy."
-
-He coils the skiff's painter at the rail and watches Eli climb out with salt on his knees. The harbor is already putting the race away — sails flaked, boys arguing wind on the wall. Eli goes up toward the towers and Mei's terrace because there is nowhere else to spend a win.
+His phone buzzes on the landing — Dhaka, Shireen. He doesn't open it yet. He already knows what it will say.
 
 ---
 
@@ -101,7 +83,7 @@ She clears nothing when he leaves — leaves the plate like a place held. On the
 
 "Babu." Her voice is thin with anger. "The deposit is **Monday**. The clinic won't hold the bed without it."
 
-"I won Suresh's bet," he says. "Cherry Cube manifest. **Cash** at intake. I'll wire **Sunday**, before Monday."
+"I won the race," he says. "Cherry Cube manifest. **Cash** at intake. I'll wire **Sunday**, before Monday."
 
 "Don't promise if you're guessing."
 
