@@ -63,29 +63,33 @@ His phone buzzes on the landing — Dhaka, Shireen. He doesn't open it yet. He a
 
 **Friday night.** Mei closes the kitchen for him — a table on the terrace, marina lights coming on. She sets nasi goreng down hard enough to clatter.
 
+She sits without filling the silence first. "Eat."
+
+"This is the last one on the chit circle," she says. "Eat it like you mean to come back, even if you don't."
+
+He eats. The harbor noise thins. She watches the marina, not his plate — feeding him before she says what she came to say.
+
 "You slept in **Rasel**'s garden again."
 
 "I was tired—"
 
-"I checked." Not shouting — the quiet of a woman who runs a kitchen and notices everything. "**Rasel Khan** kept that row for Babaji when he still believed the towers would reopen. Your mother helped him water it. You don't get to curl up in the dirt like it's yours because you won a race." She sits without filling the silence first. "Eat."
+"I checked." Not shouting — the quiet of a woman who runs a kitchen and notices everything. "**Rasel Khan** kept that row for Babaji when he still believed the towers would reopen. Your mother helped him water it. You don't get to curl up in the dirt like it's yours because you won a race."
 
-"This is the last one on the chit circle," she says. "Eat it like you mean to come back, even if you don't."
+He keeps eating. She meant what she said about *eat*.
 
-He eats. The harbor noise thins.
-
-Mei goes quiet — the kind of quiet that means the kitchen part is over.
+The scold passes. Mei goes quiet.
 
 "Your father is still alive."
 
-Eli's fork stops.
+Eli's fork stops chewing.
 
-"I should have told you before tonight." She looks at the marina, not at him. "Babaji told me years ago. I kept feeding you anyway because feeding is what we do when we can't fix anything."
+"I should have told you before tonight." She looks at the marina, not at him. "Babaji told me years ago. We couldn't do anything about it. But I could feed you."
 
 She waits until he sets the fork down.
 
 "They told you **Rasel Khan** died on the extraction. He didn't." Her voice stays low — not for the empty tables. "That night you were small. Your mother was running with research they wanted buried. **Rasel** was running with her — Bangladeshi papers, a physicist's name on every ledger the Eastern Mandate keeps. When the handoff broke, they didn't kill him. They **took** him. Different passports, different vans. Your mother one way. Your father another. Alive, as far as anyone on this reach knows."
 
-Eli goes still — the kind of still that is not calm. Then the anger comes up hot and plain.
+Eli goes still. Then the anger comes up hot and plain.
 
 "Why didn't you tell me."
 
