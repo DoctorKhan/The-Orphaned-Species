@@ -31,23 +31,15 @@ Eli files *thread* under harbor slang and knows the difference: he is on the man
 
 He slings the pole towel over his shoulder and heads for the towers — garden first, then the wall line at ten.
 
-His phone buzzes on the ninth-floor landing — encrypted header, Dhaka prefix, his cousin Shireen. He doesn't open it in the stairwell. He already knows: **bleeding again**, the clinic's **deposit before Monday**, the scan photo she should not have sent on anything traceable; the old habit of calling him *Babu* when English feels too official. What he owes is not on Pelangi. Terrace chits feed him. They do not cross a broken lane to a cousin who is **pregnant** and cannot use a ward that will ask about **Maren Holt**.
+His phone buzzes on the ninth-floor landing — Dhaka, Shireen. He doesn't open it yet.
 
 ---
 
-Pelangi is one failed resort turned refuge — marina, towers, terrace, promenade — all walkable if you know which stairwells still open. A manifest is not a passport; it is permission to stand in the next line.
+The half-built resort hums around him — laundry, generators, Mei's terrace already cooking. He sleeps in a tower room on Mei's chit circle, not a wage he can send anywhere. The ninth-floor garden **Rasel** kept for Babaji before the night both parents went on the file as dead.
 
-A causeway links Pelangi to mainland ward services. Today the foot line carries **DOCUMENTATION REVIEW IN PROGRESS** and, beneath it, hand-painted: **WE ARE NOT A WARD.** Eli walks past on his way to the stack.
+The seedlings have come up pale again. He pinches one off and works the row on his knees. His palms prickle around the stems and tell him nothing useful.
 
----
-
-The half-built resort hums around him — laundry, generators, Mei's terrace already cooking over the marina. He sleeps in a tower room in this stack: failed megaproject turned refugee fill after the founders walked away — room and meals on Mei's chit circle, not a wage he can send anywhere. A stuck fire door on three, a sack of potting mix abandoned on five that everyone else will step around — he knows the climb by heart — and then the ninth-floor garden **Rasel** kept for Babaji before the night both parents went on the file as dead.
-
-The seedlings have come up pale again. He pinches one off — too thin — and works the row on his knees. His palms prickle around the stems and tell him nothing useful.
-
-Below, the lunch crowd starts on Mei's terrace.
-
-When the row is done he takes the service stair down and resets a breaker Mei pays for in chits — order screens live, Foundry handwork, two dead access points tagged. Then he goes back down for the race.
+When the row is done he takes the service stair down for the race.
 
 ---
 
@@ -65,11 +57,11 @@ He coils the skiff's painter at the rail and watches Eli climb out with salt on 
 
 ---
 
-**Friday night.** Mei closes the kitchen for him after the last cover — not a crate behind the service door, a table on the terrace with the marina lights coming on and the promenade cooling after the race. She brings mee goreng with the burnt edges left in — he said once that was the point, and she remembered for a year without mentioning it — and sits across from him without filling the silence first.
+**Friday night.** Mei closes the kitchen for him — a table on the terrace, marina lights coming on. She brings mee goreng with the burnt edges left in and sits without filling the silence first.
 
 "This is the last one on the chit circle," she says. "Eat it like you mean to come back, even if you don't."
 
-He eats. The harbor noise thins. Shireen's unread message sits in his pocket like a stone.
+He eats. The harbor noise thins.
 
 Mei waits until he sets the fork down.
 
@@ -77,17 +69,23 @@ Mei waits until he sets the fork down.
 
 Eli's throat closes.
 
-"You're not an orphan, boy." She says *boy* the way Rasel might have — home tongue in the throat, not English for the record. "You're a stolen child. I should have told you before tonight." A beat. "I'm telling you now because **tomorrow night** you sail on Suresh's boat whether you feel ready or not — Cherry Cube, **cash**, forward pays. Shireen's clinic won't wait on your feelings."
+"You're not an orphan, boy." She says *boy* the way Rasel might have — home tongue in the throat, not English for the record. "You're a stolen child. I should have told you before tonight." A beat. "I'm telling you now because **tomorrow night** you sail on Suresh's boat — Cherry Cube, **cash**, forward pays."
 
 "I could stay—"
 
-"Where." Not a question. "My terrace. Babaji's hotel. The ninth-floor garden. The reach is getting narrow, Eli. You lost a race and won a job. Take the job."
+"Where." Not a question. "The reach is getting narrow, Eli. You lost a race and won a job. Take the job."
 
-He says nothing. The parents are not dead — that part is new tonight. The wager was already real. Mei's terrace smells of ginger and oil and the particular kindness of feeding someone while the world learns their name.
+She clears nothing when he leaves — leaves the plate like a place held. On the ninth-floor landing his phone rings. Shireen. He steps into the service alcove and answers.
 
-"Eat the rest," she says. "Sleep if you can. **Tomorrow night** you go." She does not hug him. Hugging gets filed. "If we ever open again, you'll hear from us — not through that port arch."
+"Babu." Her voice is thin with anger. "The deposit is **Monday**. The clinic won't hold the bed without it."
 
-She clears nothing when he leaves — leaves the plate like a place held. He walks back through the tower stairwell he knows by heart and does not sleep well. That was the send-off. There will not be another.
+"I'll have it," he says. "Cherry Cube run. **Cash** at intake. I'll wire **Sunday**, before Monday."
+
+"Don't promise if you're guessing."
+
+"I'm not guessing." The race loss still in his knees. "I promise."
+
+The line dies. That was the send-off. There will not be another.
 
 ---
 
@@ -117,11 +115,7 @@ Wren prints a Cherry Cube call sheet from the compound roster — forty-eight ho
 
 The launch comes back for them. Wren runs it to the pier in silence. Eli learns her name the way harbor men learn routes — by use, not introduction.
 
-The rest of **Saturday** he works Mei's service cable out of habit and tries not to watch the causeway. White hulls gather by afternoon — Mandate livery on one, royal police on another. A drone crosses the plaza at dusk and announces, in three languages, that Pelangi Reach is **cooperating with Eastern health authority documentation review**: voluntary screening facility by facility, the **local bridge closed** until further notice, shelter in place except essential corridor workers.
-
-On Mei's terrace white coats move through the tables with clipboards — not Union black, not Coalition green; Mandate grey, Eastern health patches, the wrong kind of fever check. Mei runs the other way with a jug in her hand, doing what she always does. Eli does not go up there. He said goodbye last night.
-
-At the muster point Wren has an access list with a second column Eli has never seen — names written before the drone spoke. Someone reads aloud: unauthorized threshold integration. Refusal to transfer flagged persons. Cohort review — **anomalous residents**.
+The rest of **Saturday** he works Mei's service cable out of habit and tries not to watch the causeway. White hulls gather by afternoon. At dusk a drone crosses the plaza: Pelangi Reach is **cooperating with Eastern health authority documentation review** — voluntary screening, the **local bridge closed**, shelter in place except essential corridor workers.
 
 Every phone in the plaza loses its bars. The chit pings stack, and stop.
 
@@ -183,19 +177,13 @@ Meridian City does not announce itself from the dock. It announces itself as the
 
 ---
 
-The port shuttle is bench seats, wet boots, and a reader at the door that wants manifest, wrist, and the same four questions in a new accent. Wren shows the Cherry Cube call sheet. The reader nods them toward a second queue at the curb — **transit screening**, yellow tape, a gantry smaller than the pier arch and meaner about shoes.
+The port shuttle is bench seats, wet boots, and a reader at the door that wants manifest, wrist, and the same four questions in a new accent. Wren shows the Cherry Cube call sheet and cuts through a service corridor Eli would never have found alone.
 
-Wren takes the line on the left without reading the sign. Eli follows. The gantry hums. His palms prickle once. The light decides green.
+The Stack, when he finally sees it, is a vertical city — lanes and galleries under grow-lights, transit spines on the official map and nothing else. Without Wren he would have stood in the idol's mall concourse until security moved him. She brings him to the **causeway hall** instead — fourth checkpoint since the pier, still not the document lanes.
 
-At the ring interchange Wren does not let him board the pretty bus. She waits for the numbered one that smells of bleach and fried dough, gets off three stops before the mall concourse, and cuts through a service corridor Eli would never have found alone — mop buckets, not arrows.
+Eli reaches the causeway hall with Wren at his shoulder — **documentation review** again, family-origin fields turning half the South Asian dock queue amber before anyone reaches the swab chair. Wren picks the lane. Nobody in line asks why.
 
-The Stack, when he finally sees it, is not one building. It is a vertical city — lanes and galleries and service tiers under grow-lights, transit spines on the official map and nothing else, a place where the translation is instant in six languages and nobody has touched anyone in years. Screens divide arrivals by cohort. Anyone young enough is measured twice: once for risk, once for use. Without Wren he would have stood in the idol's mall concourse until security moved him. She brings him to the **causeway hall** instead — the Eastern Mandate's de facto capital in worker parlance, fourth checkpoint since the pier, still not the document lanes.
-
-Eli reaches the causeway hall with Wren at his shoulder and his boots still wrong for the floor polish — **documentation review** again, family-origin fields turning half the South Asian dock queue amber before anyone reaches the swab chair; an East Asian shipping crew walks through on green while a grandmother in the amber lane is asked for her father's district. Wren picks the lane. Nobody in line asks why. The wall of faces here is the length of a tennis court, laminated, curling, printed by three different offices in three different formats — the missing and the wanted filed together, because at scale the difference stops mattering to the filing.
-
-Above the lanes, a mosaic says **THE EAST ENDURED** in twelve perfectly fitted languages. A cleaner works beneath it wearing six black threads at her wrist. The official histories call Meridian City spared; the worker levels remember that spared was an average, and averages do not attend funerals.
-
-On a pillar by the document lanes, a notice in four languages restricts small-craft transfer of medical goods pending review, by order of the Office of Corridor Logistics, over a designation and a seal. The man queuing in front of Eli reads it twice and says, to no one, that the same office ran the insulin boats through the worst of the closures, that his sister is alive because of that office, and now this. Nobody answers him. The queue moves.
+On a pillar by the document lanes, a notice restricts small-craft transfer of medical goods pending review. The man queuing in front of Eli reads it twice and says, to no one, that the same office ran the insulin boats through the worst of the closures. Nobody answers him. The queue moves.
 
 He had meant to check in at a service gate with a lanyard and a name on a list. Instead he is here with grease under his nails, Wren's route through four checkpoints, and the Stack does not care where a body began — only what the photograph matches.
 
@@ -219,11 +207,9 @@ Silence. Then a chair scrape — someone standing.
 
 Eli moves before they reach the door.
 
-Wren is waiting at the mouth of the document lanes when he comes back with his heart going too fast and his palms hot with the useless read — **Malacca**, **Hassan**, **English woman** — words without a frame to hang them on yet.
+Wren is waiting at the mouth of the document lanes when he comes back — **Malacca**, **Hassan**, **English woman** — words without a frame yet.
 
-"This is Meridian City," she says. "Past this desk I don't walk beside you. **Continue Inn, arcade tier — voucher's on the contractor bundle. Sleep.** Cherry Lane at first light **Sunday**. Ask for the shaft under Cherry Lane. In Bangla. If they ask whose district, say the river name your father used." She does not look at him. "Don't make my lie expensive."
-
-She is gone into the causeway crowd before he can answer — handler distance, final form — and Eli takes the queue alone.
+"This is Meridian City," she says. "Past this desk I don't walk beside you. **Continue Inn, arcade tier — voucher's on the contractor bundle. Sleep.** Cherry Lane at first light **Sunday**. Ask for the shaft under Cherry Lane. In Bangla." She is gone before he can answer.
 
 ---
 
@@ -261,35 +247,17 @@ She does not look up. She knows.
 
 "It's already spent," he says, which is not the same as it not hurting.
 
-The ticket goes into another man's file — some name he will never meet, some case that needed a work history to close — and his own file exhales and shuts. *Records should reach their people,* she says, folding her glasses down as if the sentence were about optometry. *That's the whole job. Upstairs they've decided the job is keeping them.* At the far end of the counter a supervisor's head has come up, the way heads do when a terminal is used at the wrong depth by the wrong lanyard, and she does not hurry — hurrying is a confession — she stamps, tears, and hands him a discharge slip marked **contractor lodging**.
-
-"**Continue Inn**, arcade tier — voucher on the bundle. Sleep." Her Bangla comes back, barely. "Cherry Lane at first light **Sunday**. Ask for the shaft under Cherry Lane. In Bangla. Not tonight."
-
-He does not argue. Wren and the clerk agree on one thing: the circus can wait until he has slept.
+The ticket goes into another man's file and his own file exhales and shuts. She stamps and hands him a discharge slip marked **contractor lodging**. "**Continue Inn**, arcade tier. Cherry Lane at first light **Sunday**. Not tonight."
 
 ---
 
-**Saturday night.** **Continue Inn** sits on the arcade tier where the Stack's worker housing meets its entertainment budget — a hotel built like a cartridge case, neon pixel font on the awning, lobby carpet that wants to be grass blocks underfoot. The desk clerk scans Wren's contractor voucher without looking up from a handheld race. "Room 408. Floor four is **live play** — cabinets, sim rigs, VR bays until two. Quiet hours after. You break a stick, you buy a stick."
-
-The elevator opens on a corridor of actual games. Not wallpaper — **playable**: sit-down fighters with cracked joysticks, a light-gun row, a pod racer with force-feedback that tries to throw you, VR alcoves where men in contractor coveralls still wear their lanyards. Someone has taped a handwritten sign over the OUT OF ORDER sticker on a cable-management sim: *WORK IS ALSO A GAME IF YOU ARE POOR.*
-
-Eli's room is small, clean, and loud through the wall — combo counters, victory jingles, the soft rage of a man losing the same boss for the twentieth time. He sets the tool roll on the bed. The ring photograph lives in his chest now whether or not the tablet is in his hands. Pelangi is a red building under dirt in his memory; Babaji's offices filling with grey coats; Mei leaving a plate like a place held.
-
-He goes back out. He tells himself it is reconnaissance.
-
-He plays the cable sim because it is the only honest thing in the building — connect nodes under a timer, reroute when the board throws faults, the same muscle as Foundry crimps except the failures are cartoon sparks and nobody's remittance depends on it. His hands know the pattern. His head does not stop. He clears three tiers, dies on the fourth, and understands, with a sour clarity, that **Rasel would have been worse at this** and would have laughed, and that the thought is not comfort and is not not comfort.
-
-At one in the morning the floor thins out. He lies on the bed with the tool roll for a pillow and listens to someone three rooms down still running laps in a racing cabinet, engine sound looping through the wall like a tide. He does not sleep well. He sleeps enough.
+**Saturday night.** **Continue Inn** on the arcade tier — neon pixel font, lobby carpet like grass blocks. Room 408, floor four **live play** until two. Eli sets the tool roll on the bed. The ring photograph lives in his chest. He does not sleep well. He sleeps enough.
 
 ---
 
-**Sunday, first light.** Cherry Lane is not on the official map either — atriums and transit spines and nothing else, a city drawn by people who have never carried anything through it. What actually connects Meridian City is men, and one segment at a time.
+**Sunday, first light.** Cherry Lane is not on the official map. What actually connects Meridian City is men, and one segment at a time.
 
-His parents taught him the tongue at table — river names, district, Rasel's scolding — not ledger rooms or badge math. He is not Thread. It is useful anyway.
-
-At Cherry Lane the construction worker from the lay-down is there with his badge already in his hand, turning it over like a man weighing what it costs — another gate, another number on another tablet. He hears the river in Eli's answer and does not look surprised. "If this gate opens on my number twice in a shift, I lose the wage and the bed," he says, and opens it anyway, and gives him the one segment he promised — *down the dead escalator, left at the flooded junction, and that is all I know.* A cleaner at the flooded junction looks at his face, looks at the water, and moves her cart to uncover the dry crossing. A cook in a service galley feeds him rice off the shift pot without being asked and tells him which left not to take. One man — young, tired, a mattress voice — says "I have children," and turns away, and nobody argues, because the network is made of people and people have edges.
-
-The dock mechanic is last, wiping thread grease off his fingers under the freight ramps, and he gives Eli the only thing the whole maze has lacked: a clock. "Freight rolls out of the Cube at the last safety car **tonight**. You want the tire trucks. Not the food trucks — food gets searched, everyone steals food." He looks at Eli once, head to feet. "**Sunday** race. You're on the show call sheet, yeah? Good. Whole city's sealed for the circus. The circus is the only thing left that opens doors — if you come up through the right leak."
+At Cherry Lane a construction worker hears the river in Eli's answer and opens one gate — *down the dead escalator, left at the flooded junction*. A cleaner uncovers the dry crossing. A dock mechanic under the freight ramps gives him the clock: "Freight rolls out of the Cube at the last safety car **tonight**. Tire trucks, not food trucks. **Sunday** race — whole city's sealed for the circus. The circus is the only thing left that opens doors."
 
 ---
 
