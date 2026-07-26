@@ -53,27 +53,57 @@ Eli Holt has no passport that matches his face and no country that will claim hi
 
 Suresh coils the skiff's painter at the rail. Eli goes up toward the towers — storm wall, tackle shed, the low waterfront the towers rose behind. He is not crew. Not one of the harbor men.
 
-The half-built resort hums around him — laundry, generators, Mei's terrace already cooking. He sleeps in a tower room on Mei's chit circle, not a wage he can send anywhere. The ninth-floor garden **Rasel** kept for Babaji before the night both parents went on the file as dead.
+The half-built resort hums around him — laundry, generators, Mei's terrace already cooking. He sleeps in a tower room on Mei's chit circle when he sleeps indoors, not a wage he can send anywhere. The ninth-floor garden is **Rasel**'s — kept for Babaji before the night both parents went on the file as dead.
 
-The seedlings have come up pale again. He pinches one off and works the row on his knees. His palms prickle around the stems and tell him nothing useful.
+The seedlings have come up pale again. He works the row on his knees. His palms prickle around the stems and tell him nothing useful. When the light goes he does not go down. He sleeps between the beds with the soil still under his nails, too tired from the win to care where Mei's chit circle ends.
 
 His phone buzzes on the landing — Dhaka, Shireen. He doesn't open it yet. He already knows what it will say.
 
 ---
 
-**Friday night.** Mei closes the kitchen for him — a table on the terrace, marina lights coming on. She brings mee goreng with the burnt edges left in and sits without filling the silence first.
+**Friday night.** Mei closes the kitchen for him — a table on the terrace, marina lights coming on. She sets nasi goreng down hard enough to clatter.
+
+"You slept in **Rasel**'s garden again."
+
+"I was tired—"
+
+"I checked." Not shouting — the quiet of a woman who runs a kitchen and notices everything. "**Rasel Khan** kept that row for Babaji when he still believed the towers would reopen. Your mother helped him water it. You don't get to curl up in the dirt like it's yours because you won a race." She sits without filling the silence first. "Eat."
 
 "This is the last one on the chit circle," she says. "Eat it like you mean to come back, even if you don't."
 
 He eats. The harbor noise thins.
 
-Mei waits until he sets the fork down.
+Mei goes quiet — the kind of quiet that means the kitchen part is over.
 
-"They told you you were orphaned," she says. Not loud. Not for the empty tables. "You weren't. We lost your mother and father on the extraction — taken alive, as far as anyone knows. Babaji told me years ago. I kept feeding you anyway." She looks at the marina, not at him. "The net said dead so you could live on the file."
+"Your father is still alive."
 
-Eli's throat closes.
+Eli's fork stops.
 
-"You're not an orphan, boy." She says *boy* the way Rasel might have — home tongue in the throat, not English for the record. "You're a stolen child. I should have told you before tonight." A beat. "I'm telling you now because **tomorrow night** you sail on Suresh's boat — Cherry Cube, **cash**, forward pays."
+"I should have told you before tonight." She looks at the marina, not at him. "Babaji told me years ago. I kept feeding you anyway because feeding is what we do when we can't fix anything."
+
+She waits until he sets the fork down.
+
+"They told you **Rasel Khan** died on the extraction. He didn't." Her voice stays low — not for the empty tables. "That night you were small. Your mother was running with research they wanted buried. **Rasel** was running with her — Bangladeshi papers, a physicist's name on every ledger the Eastern Mandate keeps. When the handoff broke, they didn't kill him. They **took** him. Different passports, different vans. Your mother one way. Your father another. Alive, as far as anyone on this reach knows."
+
+Eli goes still — the kind of still that is not calm. Then the anger comes up hot and plain.
+
+"Why didn't you tell me."
+
+"Eli—"
+
+"Years." His voice is too loud for the terrace; he doesn't care. "You let me sleep in his garden and you let me think he was **dead**. Babaji knew. You knew. **Why.**"
+
+Mei does not flinch. "Because you were a child on a linked file and the lie was the only shelter anyone had left." A beat. "I am not sorry we fed you. I am sorry tonight is the first night you got the truth with your meal."
+
+That lands wrong in his chest — grief and fury braided so tight he can't pull one strand free. His father alive somewhere with Mandate ink on his name. His whole childhood a paperwork trick.
+
+"And my mother." It is not quite a question. "She was in the other van. Was she—"
+
+"Alive." Mei's voice softens, and that is worse. "**Maren Holt.** British papers — not the Mandate's chain, the other one. Babaji told me both were taken, not killed. He does not know where she is. Nobody on this reach knows where she is." She looks at him finally. "I am telling you what I was told. Not a map."
+
+"The net said **dead** so you could live." Mei's hands flatten on the table. "A child on the linked file is a beacon — Babaji's word. They split you off the record. Orphan on paper. Stolen child in truth."
+
+"You're not an orphan, boy." She says *boy* the way Rasel might have — home tongue in the throat, not English for the record. "I'm telling you now because **tomorrow night** you sail on Suresh's boat — Cherry Cube, **cash**, forward pays. Your parents are not in that garden. You are still here because we lied for you."
 
 "I could stay—"
 
@@ -97,25 +127,25 @@ The line dies. That was the send-off. There will not be another.
 
 They cross to where Babaji's **catamaran** sits at anchor off the mark — massive twin hulls, wide white bridge, dark glass, twin outboards idling low and mean under the stern platform, the kind of boat that belongs in Monaco and looks obscene next to Pelangi's rice tenders. Authorities have been asking at the hotel desk all week. Everyone on the reach knows what that means — and knows Babaji is not at the desk.
 
-A woman at the rail takes his measure before he reaches the **stern platform** between the hulls — dark hair tied back, linen that reads **host** not **harbor**, strait-port beautiful in the way that makes a room feel underdressed. She does not offer her hand. She has never seen him before and he has never seen her.
+A woman at the rail takes his measure before he reaches the **stern platform** between the hulls — dark hair tied back, linen that reads **host** not **harbor**, composed and strait-port beautiful in the way that makes a room feel underdressed. She does not offer her hand. Hostess distance, not harbor warmth. She has never seen him before and he has never seen her.
 
-"Rasel's boy," she says. Not a question. "Climb. Babaji's waiting."
+"You're Rasel's boy." Her voice is soft — briefed, unhurried, the tone of someone who works for people who own catamarans. "If you'd come aboard, please. Babaji is waiting."
 
 Eli climbs aboard. The deckhand takes the launch back toward the pier without her.
 
 Babaji sits in the **aft shade** under a canvas awning — old friend of **Rasel Khan**, Rasel on the forms though Anglo mouths still said Russell, the man whose name got Eli work and not a wallet — with an automatic chess board paused mid-game and a kettle on the side table. He does not stand to greet him. The water holds them apart from Pelangi.
 
-"Babaji on the sponsor line," the old man says, and passes a folded contractor sleeve — corners stamped the way only someone who keeps a hotel lab and a brain scanner can manage. "Foundry contractor. Stage crew. **Not Balaji** — the registries hunt Balaji." He holds it out to Wren first. "**Wren.** Attest."
+"Sponsor line reads **Babaji**," he says — the register of a man who thinks in jurisdictions, not harbor slang — and passes a folded contractor sleeve, corners stamped the way only someone who keeps a hotel lab and a brain scanner can manage. "**Foundry contractor. Stage crew.** That's the credential that clears the corridor." He holds it out to Wren first. "**Wren.** Attest it."
 
 She takes it, scans the sponsor line on a tablet Eli has not seen before — sponsor queues, corridor exits, who gets to stand in the next line — and attaches compound attestation before his fingers close on the paper. **Foundry contractor**, **stage crew**, **Babaji** sponsor, **Russell** nowhere on the page. She does not look at him while she works. She never does when the lie matters.
 
-"Work, not wallet," Babaji says. "Suresh already owns the hull."
+"Work, not wallet." He says it like a principle, not a proverb. "Rasel understood that. Suresh already owns the hull."
 
-He looks at the hotel pier, small in morning haze. "They're closing on my table — the men who eat there, the hotel, the reach. Last week we refused to transfer a man they wanted at the causeway. That is why they're here." A beat. "I leave on the south run **before they walk the offices**. You leave on Suresh's tender **the same hour they do** — Saturday, last light. Different boat. Don't miss yours because you're watching mine."
+He looks at the hotel pier, small in morning haze. "The Mandate does not need a raid to close a jurisdiction — only paperwork with guns. We refused a transfer at the causeway last week. A man they flagged. They are compressing the corridor around that refusal — my hotel, my table, this reach." A beat. "I run south **before they walk the offices**. You run on Suresh's hull **the same hour** — Saturday, last light. Different vessels. Do not miss your window because you are watching mine."
 
-Wren prints a Cherry Cube call sheet from the compound roster — forty-eight hours, stage crew, **cash** at intake — and slides it across the **salon table** without ceremony. "Corridor worker on the compound ledger. Not cohort. Suresh has the hull. I have the lie that makes it legal." A beat. "I'm your handler through **Meridian City**. Don't make me lie for free."
+Wren prints a Cherry Cube call sheet from the compound roster — forty-eight hours, stage crew, **cash** at intake — and slides it across the **salon table** without hurry. "Compound ledger — corridor worker, not cohort." She says it the way a hostess reads a manifest: calm, unhurried. "Suresh has the hull. I'll make the paperwork legal." A beat, voice barely dropping. "I'm with you through **Meridian City**. Please don't make me do it twice."
 
-"Go," Babaji says.
+"Proceed," Babaji says.
 
 The launch comes back for them. Wren runs it to the pier in silence. Eli learns her name the way harbor men learn routes — by use, not introduction.
 
@@ -127,11 +157,11 @@ Every phone in the plaza loses its bars. The chit pings stack, and stop.
 
 **Saturday, last light.** Eli packs the tool roll — crimpers, testers, spare ties, the contractor lanyard Wren printed on the catamaran — and goes down to the marina through Pelangi pretending to be a city. Drones work slow lines over the water. At the gate men hang lists: assembly points, screening schedules, cohorts. *Review.* Under it: *anomalous.*
 
-Wren is at the marina stairs with his name on a clipboard that is also a manifest. "Compound attestation attached. Worker lane or cohort review — I put you on the worker side. Miss the tide and the second column is all that's left." She does not look at him when she says it. She never does when the lie matters.
+Wren is at the marina stairs with his name on a clipboard that is also a manifest. "Your attestation is attached." Soft, level — the voice that makes queues feel temporary. "Worker lane, not cohort review. If we miss this tide, the second column is all that remains." She does not look at him when she says it. She never does when the lie matters.
 
 She walks him to the gate — a woman in a royal vest with a tablet and the same four questions Wren has already answered on paper: where, how long, employer, health attestation. Wren speaks first. Eli repeats what she puts in his mouth. "Meridian City. Forty-eight hours. Foundry contractor. Stage crew." His palms prickle once on the railing. Useless noise. Wren's hand stays flat on the clipboard until the stamp comes green. Essential corridor worker. The gate opens.
 
-Suresh presses a folded paper into Eli's palm at the rail — *chandlery, old town, ask once* — and keeps his eyes on the channel markers. Wren steps aboard ahead of Eli, tablet tucked under her arm, handler distance collapsing into the boat's narrow deck. "Thread asked me to hold this for you," Suresh says, meaning the chandlery paper. "Not for tonight — for if the corridor spits you out past Meridian City." He casts off into the Johor channel.
+Suresh presses a folded paper into Eli's palm at the rail — *chandlery, old town, ask once* — and keeps his eyes on the channel markers. Wren steps aboard ahead of Eli, tablet tucked under her arm, hostess poise collapsing into the boat's narrow deck without losing the composure. "Thread asked me to hold this for you," Suresh says, meaning the chandlery paper. "Not for tonight — for if the corridor spits you out past Meridian City." He casts off into the Johor channel.
 
 Eli stands at the rail with his tool roll and does not look away from the **old hotel**.
 
@@ -141,7 +171,7 @@ Past the fuel dock **Babaji's catamaran** runs south without running lights — 
 
 Suresh does not turn his head. "Don't **burn the thread** on a health stop."
 
-Pelangi Reach shrinks behind the marina wall. Suresh talks his manifest through a channel marker, then a patrol hail, then a floater line where a boy in a yellow vest reads wrist bands and sends one boat back to dock. Wren stands beside Eli at the rail with her **handler face** already on — bill-reading, exit-counting — and says, quietly, "First arch is still ahead. You do what I say at each door."
+Pelangi Reach shrinks behind the marina wall. Suresh talks his manifest through a channel marker, then a patrol hail, then a floater line where a boy in a yellow vest reads wrist bands and sends one boat back to dock. Wren stands beside Eli at the rail — composed, exit-counting beneath the softness — and says, quietly, "There's still an arch ahead. At each door, please follow my lead."
 
 The island locks down behind him. Hearth suspended, not surrendered.
 
@@ -163,7 +193,7 @@ So this is it, Eli thinks. Not one door — a corridor of them. Wren's jaw stays
 
 The tender swings toward them.
 
-Suresh holds up his manifest. Wren adds the contractor bundle without being asked and talks in the register of a woman who has paid this toll in a previous life. The officer reads Eli's Cherry Cube call sheet twice. New orders since last night — **screening hold** on gray ports, documentation review, cohort cross-check for anyone with a worker visa from Pelangi Reach.
+Suresh holds up his manifest. Wren adds the contractor bundle without being asked and speaks to the officer in the register of a woman who has walked clients through worse doors — soft, precise, unhurried. The officer reads Eli's Cherry Cube call sheet twice. New orders since last night — **screening hold** on gray ports, documentation review, cohort cross-check for anyone with a worker visa from Pelangi Reach.
 
 "Step to the pier."
 
@@ -213,7 +243,7 @@ Eli moves before they reach the door.
 
 Wren is waiting at the mouth of the document lanes when he comes back — **Malacca**, **Hassan**, **English woman** — words without a frame yet.
 
-"This is Meridian City," she says. "Past this desk I don't walk beside you. **Continue Inn, arcade tier — voucher's on the contractor bundle. Sleep.** Cherry Lane at first light **Sunday**. Ask for the shaft under Cherry Lane. In Bangla." She is gone before he can answer.
+"This is Meridian City." Soft, final. "Past this desk I can't walk beside you — I'm sorry." A beat, the hostess returning. "**Continue Inn**, arcade tier. Your voucher is on the contractor bundle. Rest tonight." Another beat. "Cherry Lane at first light **Sunday**. Ask for the shaft under Cherry Lane — in Bangla, if you can." She is gone before he can answer.
 
 ---
 
@@ -673,11 +703,11 @@ Emrys lets out a breath that has been held, Eli realizes, for longer than this c
 
 The courier looks at Eli for a while. Whatever arithmetic she runs, she runs it with her face closed, and he cannot tell if the answer costs her something.
 
-"Then you come with the route as far as the corridor," she says, standing, "you do exactly what the route says, and after that you become someone else's weather." She shoulders the bag. "Wren."
+"Then you come with the route as far as the corridor," she says, standing — voice still level, still soft, as if explaining a connection. "You do exactly what the route says. After that, you become someone else's weather." She shoulders the bag. "Wren."
 
 "What?"
 
-"My name. You're going to be shouting it at some point; it may as well be the right one."
+"My name." A beat. "You're going to be shouting it at some point. It may as well be the right one."
 
 ---
 
@@ -722,7 +752,7 @@ And here is the thing Wren hears, because she has trained herself to hear it: pa
 
 That is what she tells herself she hears.
 
-"All right," Wren says. "The loop."
+"All right," Wren says, soft as a reassurance. "The loop."
 
 The lie takes four words and costs nothing to say. She signals for the bill.
 
@@ -740,7 +770,7 @@ Laleh looks up, and her face does something Wren will keep.
 
 "You said—"
 
-"Get on the bus, Laleh."
+"Get on the bus, Laleh." Her voice stays level — hostess calm, which makes it worse. "Please."
 
 "You *said.*" Not loud. That's the terrible part; she doesn't get loud. She gets clear. "You people are the ones who ask first. That's what they told me about you. The other ones take you where they want. You people *ask.*"
 
@@ -826,15 +856,15 @@ Before they cast off, Wren does a thing that Eli files as strange and the reader
 
 She lays the route out for him. All of it. Not the operational minimum — the whole spine: this coast tonight, the kampung with the blue mosque tomorrow, the handoff at the light where a woman called Ros runs the drying racks, the crossing after, the **Ping valley**, the names of the people at each stop and what they risk by standing there.
 
-"If it changes," she says, "you get told first. Before we move. Every time."
+"If anything changes," she says, "you'll hear it from me first. Before we move. Every time."
 
 "Why are you—"
 
-"Because that's the cell I run." She says it like a fact being installed. "Unranked doesn't mean unaccountable — it means the house can't order me and I still owe the Net. Do you agree to the route?"
+"Because that's the cell I run." Quiet, installed like a cabin announcement. "Unranked doesn't mean unaccountable — it means the house can't order me and I still owe the Net. Do you agree to the route?"
 
 Pak Din, coiling line, raises an eyebrow at his nephew. "Since when does the ferrywoman ask the cargo?"
 
-"Since now," Wren says, and goes forward, and that is the end of the discussion and, though Eli cannot know it, the beginning of a constitution.
+"Since now," Wren says — soft, final — and goes forward, and that is the end of the discussion and, though Eli cannot know it, the beginning of a constitution.
 
 ---
 
@@ -917,15 +947,15 @@ The boat goes in with the tide.
 
 The contact at the landing is a woman in a faded blue shirt who never gives her name and never needs to. She looks at Eli's hands the way Pak Din looked at them — not his face — and says, to Wren, "The Custodians are on the water. They always are. You don't go up the valley yet."
 
-"Then where?" Wren says.
+"Then where?" Wren says, quiet.
 
 "Up." She points inland, where the worked green stops and the hills begin. "Mountain road first. Pai ridge. A lodge — Khun Dang. He clears freight for the Net when the low routes burn." She looks at Eli. "You know the kind of loud he means. After Khun Dang, the wat. Five days silence for the loud one. Then the stilt-house, then the valley. That order. The white cars don't love the hairpins."
 
-Wren looks at Eli. "Can you do five days without talking?"
+Wren looks at Eli. "Could you manage five days without speaking?"
 
 "After the mountain," he says.
 
-"You sat because someone made you sit once. This time you choose," she says. Not gently. Accurately. "Custodians are a day behind on the water. That is not the same as a day behind on you."
+"You sat because someone made you sit once." Not gentle — accurate, delivered softly. "This time you choose. Custodians are a day behind on the water. That is not the same as a day behind on you."
 
 They leave the boat with one bag each and a driver who will not learn their names. The pickup climbs until the river country is a green sheet below and the road is only gravel and prayer.
 

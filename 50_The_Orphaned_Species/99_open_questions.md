@@ -331,21 +331,15 @@ Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED") and Prior
 
 **Guardrails:** forced lab work (Rasel); no easy rescue; complicity possible; Babaji does **not** know exact sites — only *taken, not dead*.
 
-### Babaji — refuge patron; Balaji analogue — LOCKED 2026-07-24 (Option B)
-
-**Not the same person:** **Balaji** = public feed-face / registry chase-target (*cities that don't exist yet*). **Babaji** = local man on Pelangi Reach — **not** Balaji on paper.
-
-**Fictional Balaji register — LOCKED:** Babaji is **essentially a fictional version of Balaji** — eccentric billionaire, **robot dogs**, **automatic chess boards**, wine-car workshop, tech-refuge patron. **Very similar, not identical.** No real-person portrait; no identity reveal on-page.
+### Babaji — refuge patron — LOCKED 2026-07-24
 
 **Primary role:** **refuge provider** — bankrolled/kept **Reclamation / Forest Foundry** corridor as shelter when Forest City failed + outbreak; **Rasel → work not wallet** → Eli's Foundry placement.
 
 **Secondary role:** **keeper refusal** — cell refused flagged-carrier transfer; moved suppressed archive copy → **Mandate squeeze** (Ch 1). Personal power, not corporate PR.
 
-**Name misdirection:** registries hunt **Balaji**; Eli uses **Babaji** at wrong/right doors (`MANUSCRIPT` Ch 1 boat papers).
-
 **Pelangi geography (companion lock):** **Pelangi Reach** = whole island; **Old Pelangi** = traditional half (fictional-Bali register); **Reclamation** = failed Forest City megaproject, now refuge; **Forest Foundry** = compound where Eli works. `WORLD_BIBLE.md` § Pelangi; `00` § Reclamation.
 
-**Cross-ref:** `26` § Babaji; `31` Ch 1; `95` *Babaji*, *Balaji*.
+**Cross-ref:** `26` § Babaji; `31` Ch 1; `95` *Babaji*.
 
 **What Eli carries:** rivers, Bangla scolding, garden knowledge, food rhythm — orphan grief until **Mei Friday dinner**. Pelangi garden = exile soil.
 

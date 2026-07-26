@@ -160,6 +160,7 @@ Do not reduce antagonists to embodiments of ideas. Crane must save lives, coerci
 Dialogue should pursue an objective: obtain help, conceal fear, test loyalty, delay departure, establish authority, make contact, or refuse ownership. Characters rarely say the whole thing they mean.
 
 - Keep voices distinct through priorities, rhythm, vocabulary, and avoidance—not phonetic spelling.
+- **Pelangi Reach contrast — LOCKED 2026-07-25:** **Babaji** = educated, analytical register (jurisdictions, corridors, compression; Srinivasan Balaji model). **Suresh** = harbor slang and wager bluntness. **Mei** = kitchen quiet and scolding love. **Wren** = composed, soft-spoken hostess register (airline / luxury hospitality; comfortable with rich clients). Same scene, four different rhythms.
 - Let humor arise from personality, pressure, embarrassment, and shared history.
 - Allow interruption, misreading, and unfinished business.
 - Put exposition inside disagreement, negotiation, procedure, or consequence.

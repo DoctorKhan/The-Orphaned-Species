@@ -387,7 +387,7 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **Mei Lin** — Pelangi Reach kitchen manager and community hearth. **Ch 1 final dinner (Friday):** delivers **orphan truth** (*stolen child*, parents taken alive). **No on-page overlap with Wren.**
 
-**Wren** — 19; **Malay Chinese**; Unranked extraction operator; Babaji's catamaran host/handler (Ch 1). Dark hair, tied back. See `26` § Wren.
+**Wren** — 19; **Malay Chinese**; Unranked extraction operator; Babaji's catamaran host/handler (Ch 1). Dark hair, tied back; **composed, soft-spoken** (hostess / luxury-hospitality register). See `26` § Wren.
 
 **Continue Inn** — Meridian City arcade-tier worker hotel (Stack). **Live-play** floor: cabinets, sim rigs, VR bays — not theme-only decor. **Ch 2 Saturday night** bunk via Wren's contractor voucher; Eli plays cable-management sim. **Sunday AM** → Cherry Lane → Cube.
 
@@ -399,9 +399,7 @@ A recurring control/garden **function** at three scales (see `40_concepts.md`):
 
 **Hassan al-Ridzuan** — Malacca witness; held with Eli's mother; half-bait with conscience.
 
-**Babaji** — Pelangi Reach refuge patron; fictional Balaji analogue. **Motor catamaran**; **Wren** host/handler. Ch 1 **Saturday AM** catamaran papers; keeper refusal → squeeze → **Saturday PM raid** on hotel; **catamaran south** as Eli departs. Orphan truth: **Mei Friday dinner**. `26` § Babaji.
-
-**Balaji** — **public figure only** (feeds, registries, rumour) — **not Babaji**. The name the Stack hunts; *cities that don't exist yet*. Misdirection asset for Eli at wrong doors. Do not collapse with Babaji on-page.
+**Babaji** — Pelangi Reach refuge patron. **Motor catamaran**; **Wren** host/handler. Ch 1 **Saturday AM** catamaran papers; keeper refusal → squeeze → **Saturday PM raid** on hotel; **catamaran south** as Eli departs. Orphan truth: **Mei Friday dinner**. `26` § Babaji.
 
 **Aedan / the Boy** — the Bronze-Age cave-boy, not Eli's soul-name or former incarnation. An early deep-time receiver — **does not route the cosmology to Eli** (Eli clarifies the deep web directly). *Ember* names him metaphorically; the granary stone **reads live** under him at the return — instrument + song payoff, not present-day palm-heating.
 
