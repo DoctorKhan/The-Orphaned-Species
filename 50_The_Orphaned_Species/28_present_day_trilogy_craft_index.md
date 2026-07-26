@@ -2,12 +2,15 @@
 
 > **Status:** navigation hub for Book 50 present-day **craft and cast** documentation (docs `21`–`27`). Cosmology, deep time, and manuscript draft live elsewhere — see `00_ARCHITECTURE.md`. **When drafting:** start here if unsure which doc governs a decision.
 
+> **HIGH PRIORITY — LOCKED 2026-07-25:** **`55_series_pitch_and_comps.md`** governs shelf positioning, agent/back-cover copy, comps (*Da Vinci Code*, *National Treasure*), clue-chain obligations, and the 10-point revision gate. Check it at outline, draft, and revision alongside `14` and `17`.
+
 ---
 
 ## Quick map — which doc when?
 
 | If you are… | Read first |
 |---|---|
+| **Pitch, comps, back-cover, clue-chain gate** | **`55_series_pitch_and_comps.md`** — **HIGH PRIORITY** |
 | Drafting prose / scene tone | `14_literary_speculative_thriller_style_guide.md` first; then `21_present_day_street_skin.md` + `23_2040_present_frame.md` |
 | Choosing or switching viewpoint | `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED* |
 | Placing a character in a scene | `26_present_day_cast_expanded.md` (includes **past** layers) |
@@ -15,6 +18,7 @@
 | Trauma / internal cages (behavior under stress) | `26` Part VI + `15` § Trauma |
 | Writing Emrys comedy or warmth | `24_comedic_register_slapstick.md` + `16_reader_attachment.md` |
 | Pacing Life vs Knowledge reveals | `22_life_technology_and_two_trees_spine.md` + `17_reveal_order_and_reader_impact.md` |
+| Clue-chain / conspiracy comps (*Da Vinci Code*, *National Treasure*) | **`55`** — Vol I + Vol II + **Vol III** § *chapter-by-chapter pitch audit* |
 | Decoding Maren's Rootbook / linguistic continuity | `52_the_rootbook_word_web.md` + volume beats `31`–`33` |
 | Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit* |
 | Locked beats / open names | `99_open_questions.md` |
@@ -73,6 +77,7 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 
 | Topic | Doc | Decision |
 |---|---|---|
+| **Pitch / comps / clue-chain gate** | **`55`** | **HIGH PRIORITY** — literary speculative deep-history conspiracy thriller; 10-point revision gate |
 | POV architecture | `14` | Eli-dominant close third; only Eli, Wren, and Somchai as recurring interior lenses; one viewpoint per scene; rare away scenes must pass the switch test |
 | Present year (author) | `23` | ~2040, not on-page |
 | Death technology | `22`, `34`, `95` | Ordinary tech = equations in entropic time |
@@ -99,6 +104,7 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 | `50_teahouse_pilgrimage.md` | Locked postwar teahouse pilgrimage, cloister discipline, sanctuary readiness, health metrics, chosen clans, and background AI |
 | `51_field_sail_and_mandate_peace.md` | Locked Union physics discovery, Commissioner Ma, field-sail constraints, Mandate industrial partnership, and ceasefire |
 | `53_quotable_refrains.md` | Series refrain bible — memorable lines, character voice jobs, volume spread schedule, revision checklist |
+| **`55_series_pitch_and_comps.md`** | **HIGH PRIORITY** — shelf, agent/query, back-cover, comps, clue-chain craft, 10-point revision gate |
 | `52_the_rootbook_word_web.md` | Locked distributed Rosetta: comparative cipher, travel-based corroboration, Sanxingdui break, and cosmic concordance |
 | `05_story_architecture.md` | Trilogy structure, fellowship, Living Way, climax |
 | `15_character_grounding_and_relatability.md` | Eli TBI, healer, relatability guardrails |
@@ -108,7 +114,7 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 | `31_volume_I_beatsheet.md` | Vol I chapter spine |
 | `38_psionic_combat.md` | Tactical system |
 | `99_open_questions.md` | Decision log + cast name table |
-| `MANUSCRIPT.md` | **Governing** Book I prose (assembled chapters) |
+| `MANUSCRIPT.md` | **Governing** Book I prose — must pass `55` 10-point pitch gate each revision |
 | `DECISIONS_Chapter_*.md` | Per-chapter **veto flags** — why choices were made; prose lives in `MANUSCRIPT.md` |
 | `WORKING_Thailand_Chapters_Five_Ten.md` | **Lumina/chunk sandbox** for Ch 5–10 — merge into `MANUSCRIPT.md` when stable |
 | `QUARRY_Chapter_One_alternative.md` | Retired alternate Ch 1 — mine only, not canon |
@@ -120,7 +126,8 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 
 ## Drafting workflow (recommended)
 
-1. **Chapter goal** — `31` or `05` volume section  
+0. **Pitch / clue-chain gate** — `55` (10-point checklist; body movement + visual key + domestic cost)
+1. **Chapter goal** — `31` or `05` volume section
 2. **Viewpoint** — Eli by default; if Wren or Somchai, apply `14` § locked away-scene test  
 3. **Who's in the scene** — `26`  
 4. **What changes for them** — `27` checklist  
@@ -138,6 +145,7 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 When adding a new present-day craft decision:
 
 - Put **locked beats** in `99_open_questions.md`
+- Put **pitch/comps obligations** in `55_series_pitch_and_comps.md` when shelf or clue-chain contract changes
 - Put **character name/flesh** in `26`
 - Put **arc / proof scene** in `27`
 - Put **romance cost / chapter friction** in `31`/`32`/`33` (see `19` § *Romance cost audit*)

@@ -1,5 +1,7 @@
 # Volume III — *The Living World* — Beat Sheet
 
+> **HIGH PRIORITY — LOCKED 2026-07-25:** Chapter beats must pass **`55_series_pitch_and_comps.md`** 10-point gate; win condition = **release + coexistence**, not boss-fight or treasure-box. **Vol III chapter-by-chapter audit + end hooks:** `55` § *Book III — chapter-by-chapter pitch audit*.
+
 > **GOVERNING REBUILD — LOCKED 2026-07-13; Rasel rescue 2026-07-24.** Book III is the construction and defense of a distributed living network after Maren's release and the first spreading awakening at the end of Book II. Europe, the tether, the amplifier, and the mother-release do **not** repeat here. Eli **rescues Rasel** (Mandate lab — locate + extract + on-page reunion; exact chapter TBD). Book III tests whether free communities can survive harm, fear, attack, and disagreement without registry, cult, army-state, or permanent ruler.
 
 > **MESSIANIC RISE — LOCKED 2026-07-23:** The trilogy **does not shy away from the messiah shape — it runs it to completion on-page.** By Volume III a substantial public — rebel cells, pilgrims, strait sailors, displaced communities, hostile propagandists, and frightened civilians — **treats Eli as messiah**: **Deiwos**, chosen one, sky-son, healer-king, *Son of Man* (often **against** his refusals), half of the **sons of Deiwos** twin-myth with Somchai. He **rises** in the reader's experience: healings and crossings accumulate; three-circle chalk opens doors; the Awakening War makes him indispensable coordinator; Crane offers the throne; Sol mirrors him as armed prophet; media fragments and rumor **outrun fact**; teahouse visitors project sainthood. **Craft rule:** show the kneel reflex **working** — gratitude, prophecy, annunciation language, unearned saves, Lincoln's throne-shape, communal armor mistaken for coronation. Eli's arc is not "don't look messianic." It is: **the messiah reading is structurally true enough to be dangerous**, then adulthood is proved by **bounded crown, re-teaching the name, and step-down** — not by denying the signs. Companion anti-cult guards (`53`, `54`) govern **reader spread**, not an obligation to hide messianic pressure on-page. Resolution: re-teach *deiwos* as daylit sky / sky-children (`29` § Deiwos resolution), not a denunciation scene.
@@ -93,6 +95,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Forward pressure:** one frightened refugee cannot reliably keep other minds out and asks Eli not to surrender them to a state program.
   **Named people — LOCKED:** the refugee is **Tomas Okafor**, a young electrical worker traveling with his older sister Nia; both want ordinary work, privacy, and a place where their family is not treated as a threat.
 - **War made personal:** the boat's missing places belong mostly to men stopped at checkpoints as probable fighters, recalled by old units, refused civilian passage, or left behind so relatives could take their seats. The men who arrive are searched twice—first as threats, then as labor—and apologize for wounds that make them less useful.
+- **Pitch gate — end hook:** Authority worked — and begins to stick; Tomas asks not to be surrendered to a state program.
 
 ### Ch 2 — Terms of Welcome *(Eli · Pelangi Reach)*
 
@@ -103,6 +106,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
  - **Ancient countervoice:** the Enki/Ninmah–Umul story is encountered here as a warning against treating purpose as institutional usefulness. Eli must protect Tomas's dignity without pretending that dignity removes the need for safeguards.
 - **Crane pressure:** Crane's people provide accurate risk information and medical assistance without demanding immediate surrender. Their usefulness cannot be dismissed.
 - **Relationship:** Wren warns that personal trust is not an institution. Eli hears the warning as excessive control.
+- **Pitch gate — end hook:** Sponsorship locked under voluntary plan; Crane useful without surrender; registry vs safety still unresolved.
 
 ### Ch 3 — The Person Freedom Failed *(Eli · ordinary civic space)*
 
@@ -114,6 +118,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Aftermath:** grief fractures Pelangi Reach. Some refugees are attacked or expelled collectively; others demand that all safeguards be abolished as disguised oppression.
 - **The oldest bill — Mei — LOCKED 2026-07-23:** the split runs through her kitchen, because feeding people before classification was her practice in Book I and she does not stop now. She loses standing, custom, and the compound's business for it, and she pays that without telling Eli he was wrong — which costs him more than the accusation does. **She is the only surviving piece of the Book I hearth the reader has carried since Chapter 1** (she stayed through the occupation while he traveled), so this is the one loss in the trilogy that can be charged against page one. Do not soften it with a reconciliation scene; the ledger stays open until the shared garden.
 - **Emotional consequence:** the survivor does not forgive Eli. The narrative never requires them to.
+- **Pitch gate — end hook:** Nia dead; Amara's accusation; Mei pays compound cost; Pelangi fractures — **San Francisco leg opens**.
 
 ---
 
@@ -147,6 +152,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Record survives:** the lab cannot be heroically saved. Researchers, partial physical prototypes, and separately held records escape by different routes; enough survives because no single archive contains the whole project.
 - **Lincoln Memorial movement:** after the negotiation, Eli encounters the seated founder as an image of union, emancipation, war, and exceptional authority. The monument does not deliver an answer. Its throne-shape clarifies the temptation: a society may need decisive power without needing a permanent indispensable man.
 - **Guardrail:** no quotation-tour or private revelation. Ordinary visitors, security presence, protest material, weather, fatigue, and the unresolved negotiation keep the scene embodied.
+- **Pitch gate — end hook:** Registry seizure + Mandate strikes = **Awakening War**; field-sail record escapes piecemeal; Eli coordinates distributed evac — does not reclaim SF.
 
 ### Ch 5 — The Names They Carry *(Wren · ruined Washington / Lincoln movement)*
 
@@ -164,6 +170,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Independent action:** Wren offers a narrower, consent-bound form of cooperation negotiated by the network's members rather than granted by her alone.
 - **Memorial function:** Wren and Eli leave without a reconciliation scene. The names remain irreducible; coexistence will not require shared interpretation, emotional unity, or forgiveness.
 - **Emrys return:** Emrys reappears as a compromised technical witness in the negotiations—alive, marked by Crane's custody, and unable to pretend that expertise is innocence. His testimony links the Göbekli capture to the registry standard without making him a neutral oracle.
+- **Pitch gate — end hook:** Wren's refusal stands; Emrys compromised witness; memorial names irreducible — **compact or collapse**.
 
 ### Ch 6 — The Compact *(Eli/Wren · relocated government → Hawaiʻi invitation)*
 
@@ -189,6 +196,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Mandate approach:** a secure commercial/scientific channel carries Commissioner Ma's first offer. The Mandate has independently detected the Union experiment and can fabricate the full resonant lattice, but lacks the missing field relationship and trusted external verification. Ma proposes a narrow ceasefire around research, shipping, and orbital corridors. No one mistakes the offer for friendship.
 - **Mandate proof of value:** the same channel warns of a planned biological release against a negotiation or refugee corridor. Mandate environmental monitoring and a psionic sentinel flag the danger; independent laboratory and supply-chain evidence confirms it; a bounded intervention prevents the release. Neither the psionic impression nor the algorithm suffices alone. The incident proves that vigilance can save lives while establishing the compact's requirements for transparency, expiry, review, remedy, and no punishment for thought alone.
 - **Sanxingdui break / Mandate scholarship:** Ma's channel includes legitimate access to Sanxingdui research and named scholars or custodians, not a looted master artifact. The material pattern matches Maren's branching diagrams while refusing Eli's Indo-European cipher. This breaks the word-tree into the larger web and shows the Mandate contributing interpretation as well as machinery.
+- **Pitch gate — end hook:** Bounded compact adopted; Hawaiʻi invitation conditional; Sol and Crane both closing — **war widens before trust completes**.
 
 ---
 
@@ -209,6 +217,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Seed/payoff:** Eli first discovers a frightening version of this capacity during the Pelangi Reach rescue and again when the Hawaiʻi stones answer the network. He can override dissent, enter every available carrier, and force synchronization. It would probably save more people at the distant corridor, but using the refuge as a command instrument would destroy the refuge's consent.
  - **Intermediate near-use — LOCKED:** during the Washington evacuation, Eli briefly begins synchronizing a panicked convoy without consent; Wren breaks the contact and one family loses its safe route. Eli experiences the capacity as efficient, intimate, and wrong before Hawaiʻi makes the temptation catastrophic.
 - **Turn:** the voluntary network beyond Hawaiʻi begins to fail. Eli cannot escape the knowledge that coercion would work, but learns that a refuge cannot survive by becoming the thing people fled.
+- **Pitch gate — end hook:** Temporary crown worn with expiry; corridor crew ordered by name; coercion temptation named — **refusal coming in Ch 8**.
 
 ### Ch 8 — The Cost of Consent *(Eli · Hawaiʻi refuge / distant war corridor)*
 
@@ -222,6 +231,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Crane:** contained through the coalition's procedures and evidence—including Emrys's testimony and Hassan/Sora's records—not personally pardoned or sentenced by Eli. His diagnosis survives even as his claim to permanent ownership fails.
 - **Eli:** the emergency condition ends; his authority expires. He does not renew it through acclaim, necessity rhetoric, or romantic approval.
 - **Armor removed:** once the attack ends, Eli removes the armor before the hearing. No one treats it as his permanent title; its maintenance and use remain subject to community permission.
+- **Pitch gate — end hook:** Named death + threshold house lost; war continues elsewhere; emergency authority **expires** — hearing owed.
 
 ### Ch 9 — The Hearing *(Eli · Hawaiʻi Island civic room)*
 
@@ -234,6 +244,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Local authority:** residents and the stewardship body can limit or revoke federation activity on their land. Eli's sanction and the community's continued permission are separate decisions; neither he nor the federation controls both.
 - **Relationship:** Wren and Eli choose continued relationship after jurisdiction has been separated from love. Separately, Wren and Rowan renegotiate what contact and mutual obligation can survive wartime distance. No destiny language and no instant repair in either bond.
 - **Parallel negotiation:** the hearing prevents Eli from becoming the indispensable personal guarantor of the peace. Commissioner Ma, Union physicists, Free Port representatives, teahouse researchers, and affected communities must produce enforceable terms that survive Eli's sanction and possible absence.
+- **Pitch gate — end hook:** Sanction real; Wren/Eli continue with separated jurisdiction; peace terms must survive **without Eli as guarantor**.
 
 ### Ch 10 — The Shared Garden *(Eli · Hopi lands → Colorado mountains)*
 
@@ -257,6 +268,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Closing rhyme — the birds — LOCKED 2026-07-23 (reserved from Book I Ch 1):** the last ordinary hour returns the first. Eli is up before the others and watches a colony go out to feed — mountain swifts here, not the Pelangi swiftlets, so it is a rhyme and not a relic. **The whole weight is that this is a chosen morning:** he had the crown, the amplifier's road, the permanent office, and a network that wanted him at its center, and he is standing in the cold with a hose over his shoulder because he prefers it. Nobody comments on the birds, nobody names the echo, and the text does not explain it — a reader who has been there since page one will feel it, and a reader who hasn't loses nothing. **Restraint:** no dead birds, no omen, no bird that behaves meaningfully. If the image needs a line of help, cut it.
 - **Mei's ledger:** she is present or reachable, and the Book I hearth is not restored — the point is that he can be wanted by people he failed without being absolved by them.
 - **Outward horizon:** the field-sail measurements continue quietly behind the tea scene. Humanity has not reached the stars; former enemies have agreed to begin building the means together.
+- **Pitch gate — end hook (trilogy close):** Ceasefire process begun; shared garden; swifts rhyme Ch 1; **wanted, not indispensable** — no throne, prophecy, or sequel war hook.
 
 Do not close on a prophecy, throne, cosmic voice, explanatory speech, or new amplifier. Do not tease another future war: the new war in this book remains an unresolved human condition rather than a sequel hook. The extraordinary has not vanished; it has become compatible with an afternoon nobody turns into destiny.
 

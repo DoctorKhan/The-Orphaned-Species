@@ -1,6 +1,8 @@
 # The Orphaned Species — Narrative Structure
 
-*How the thesis becomes a story. Companion to `Thesis.md` (the premise), `00_MASTER_TIMELINE.md` (the cosmology), `50_The_Orphaned_Species/05_story_architecture.md` (the working trilogy, revelation, fellowship, and chapter structure), and `50_The_Orphaned_Species/28_present_day_trilogy_craft_index.md` (present-day craft docs `21`–`27`: street skin, 2040 frame, cast, comedy, development arcs). This doc covers the form, the cast, the plot, and — centrally — **how everything is learned**: the meditations, the consciousness technologies, and the concepts delivered as lived experience rather than lecture.*
+> **HIGH PRIORITY — LOCKED 2026-07-25:** Pitch, comps, clue-chain gate — **`55_series_pitch_and_comps.md`**. Logline and spine must satisfy deep-history conspiracy thriller propulsion alongside thesis.
+
+*How the thesis becomes a story. Companion to `Thesis.md` (the premise), `00_MASTER_TIMELINE.md` (the cosmology), `50_The_Orphaned_Species/05_story_architecture.md` (the working trilogy, revelation, fellowship, and chapter structure), **`50_The_Orphaned_Species/55_series_pitch_and_comps.md` (HIGH PRIORITY — pitch, comps, clue-chain gate)**, and `50_The_Orphaned_Species/28_present_day_trilogy_craft_index.md` (present-day craft docs `21`–`27`: street skin, 2040 frame, cast, comedy, development arcs). This doc covers the form, the cast, the plot, and — centrally — **how everything is learned**: the meditations, the consciousness technologies, and the concepts delivered as lived experience rather than lecture.*
 
 > **Names are provisional.** Eli, Wren, Crane, Emrys, and every historical practitioner are separate characters. The practitioner inventory is not a numbered or closed roster. Aedan names the cave-boy only; Anthea names the historical Singer only.
 

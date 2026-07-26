@@ -1,5 +1,7 @@
 # Character Grounding and Relatability
 
+> **HIGH PRIORITY — LOCKED 2026-07-25:** Domestic cost and desire-before-information — **`55_series_pitch_and_comps.md`**. Attachment powers the clue-chain; pitch gate checklist items 9–10 apply to every scene.
+
 *Craft guardrail for the present-day trilogy. Companion to `/00_NARRATIVE_STRUCTURE.md`, `16_reader_attachment.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, and `28_present_day_trilogy_craft_index.md`. This document protects the human book inside the cosmology.*
 
 ## The governing judgment
@@ -330,7 +332,7 @@ Bangladesh should remain an unreturnable or not-yet-returnable home. The reason 
 
 **Off-page lock — LOCKED 2026-07-23:** Eli does **not** visit Bangladesh on-page in any volume. No village feast, planting beat, or near-miss return solved in prose. Lost home is carried through Bangla speech, food memory, Meridian City queue humiliations, Shireen's encrypted messages (garden photo, corridor warnings), and the Pelangi Reach exile garden.
 
-**Father's capture — locked shape (rev. 2026-07-24).** **Rasel Khan** — legendary physicist + gardener in Eli's memory. **Bangladeshi passport** → **Mandate** claim. Visibility (science + dissent) entangled with hunt for Maren; family fled Bangladesh. **Extraction night:** attack + **passport split** — Rasel to **Mandate lab**; Maren (British passport) to **Measure/Ring** chain; Eli **TBI**. Keeper net lore = dead; **pier (Ch 1):** taken alive, unrescued. **Eli rescues Rasel — Book III only.** Book II = **rescues Maren** only. Eli's memory = living culture (language, garden, rivers), not legible extraction. Pelangi garden = exile soil + grief without reunion until Book III. Retired: *killed during extraction*; *single chain for both parents*; *father rescued Book II*.
+**Father's capture — locked shape (rev. 2026-07-24).** **Rasel Khan** — legendary physicist + gardener in Eli's memory. **Bangladeshi passport** → **Mandate** claim. Visibility (science + dissent) entangled with hunt for Maren; family fled Bangladesh. **Extraction night:** attack + **passport split** — Rasel to **Mandate lab**; Maren (Albion passport) to **Measure/Ring** chain; Eli **TBI**. Keeper net lore = dead; **pier (Ch 1):** taken alive, unrescued. **Eli rescues Rasel — Book III only.** Book II = **rescues Maren** only. Eli's memory = living culture (language, garden, rivers), not legible extraction. Pelangi garden = exile soil + grief without reunion until Book III. Retired: *killed during extraction*; *single chain for both parents*; *father rescued Book II*.
 
 Eli's **fundamental** drive is **parent rescue** — **Maren, Book II**; **Rasel, Book III** (`27` § Fundamental motor). The mother-trail, Malacca, Göbekli, artifacts, and alliances are **means**; he is **not seeking power**. His main emotional need beneath rescue is **home without capture**: grief, abnormal perception, disability, love, work, privacy, and accountability coexisting without state, faction, prophecy, or archive defining him first. Pelangi Reach = temporary made home; Bangladesh = lost home; Book III tests whether mature home exists without ownership — **after** both rescues are addressed on their own terms.
 

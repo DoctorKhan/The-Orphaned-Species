@@ -34,6 +34,7 @@ The content has outgrown any single book. Rather than split it into rival volume
 - `50_The_Orphaned_Species/52_the_rootbook_word_web.md` — **LOCKED distributed Rosetta**: Maren's encoded comparative journal, linguistic roots, living corrections, Sanxingdui break, and cosmic concordance.
 - `50_The_Orphaned_Species/53_quotable_refrains.md` — **LOCKED craft**: Tier A in-scene refrain bible, character voice jobs, reader-spread schedule, revision checklist.
 - `50_The_Orphaned_Species/54_the_lay_verses.md` — **LOCKED companion**: Tier B lay verses; craft rules; maps to `../living-way/living-way-knowledge/Mindfulness/The_Lay_Verses_of_the_Living_Way.md`.
+- `50_The_Orphaned_Species/55_series_pitch_and_comps.md` — **HIGH PRIORITY LOCKED**: shelf positioning, agent/query and back-cover copy, *Da Vinci Code* / *National Treasure* comps, clue-chain craft, 10-point revision gate. Governs every outline, draft, and revision pass alongside `14` and `17`.
 - `50_The_Orphaned_Species/35_artifact_chain.md` — the present-day artifact/story engine: disputed objects, interpretations, and route-changing evidence.
 - `SOURCE_the_surges.md` — the autobiographical floor under Eli (also a Record doc, Layer 3).
 

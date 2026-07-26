@@ -1,5 +1,7 @@
 # Reader Attachment
 
+> **HIGH PRIORITY — LOCKED 2026-07-25:** Attachment powers the clue-chain — ordinary life loss must land before conspiracy scale. Pitch/comps gate: **`55_series_pitch_and_comps.md`** (domestic cost, desire before information).
+
 *Craft guide for making readers care about the characters before asking them to carry the cosmology. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, `24_comedic_register_slapstick.md`, and `28_present_day_trilogy_craft_index.md`.*
 
 ## Governing rule

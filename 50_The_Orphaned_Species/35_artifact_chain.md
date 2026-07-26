@@ -1,5 +1,7 @@
 # The Artifact and Story Chain
 
+> **HIGH PRIORITY — LOCKED 2026-07-25:** Clue-chain propulsion and landmark set-pieces — **`55_series_pitch_and_comps.md`**. Every artifact beat must move the body, picture the object, and pay off within 1–3 chapters where possible.
+
 *Working plot document. Artifacts carry contested stories through the present-day thriller. They are evidence, not collectibles, omniscient narrators, or automatic portals into historical chapters.*
 
 ## Governing rule

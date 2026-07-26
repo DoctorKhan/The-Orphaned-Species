@@ -1,6 +1,6 @@
 # Audience and Character Recommendations
 
-> **Status:** editorial guidance recorded 2026-07-12. This note evaluates the trilogy as a character-led speculative novel for spiritually curious, institutionally skeptical crossover readers. It is guidance, not locked canon. **Contemporary resonance and story-first guardrails:** `44_cultural_moment_and_mass_appeal.md`.
+> **Status:** editorial guidance recorded 2026-07-12. This note evaluates the trilogy as a character-led speculative novel for spiritually curious, institutionally skeptical crossover readers. It is guidance, not locked canon. **Pitch, comps, and clue-chain contract (HIGH PRIORITY):** `55_series_pitch_and_comps.md`. **Contemporary resonance and story-first guardrails:** `44_cultural_moment_and_mass_appeal.md`.
 
 ## The clearest promise
 

@@ -1,6 +1,8 @@
 # Adventure Engine and Scene Bank
 
-*Working guide for making the trilogy page-turning rather than curriculum-shaped. Pair with `05_story_architecture.md`, `17_reveal_order_and_reader_impact.md`, `15_character_grounding_and_relatability.md`, and `35_artifact_chain.md`. This document asks: what makes the reader want the next scene before they understand the doctrine?*
+> **HIGH PRIORITY — LOCKED 2026-07-25:** Clue-chain propulsion, landmark set-pieces, institutional villainy — **`55_series_pitch_and_comps.md`**. Every adventure form must pass `55` 10-point gate (especially body movement, visual key, wonder beat).
+
+*Working guide for making the trilogy page-turning rather than curriculum-shaped. Pair with `05_story_architecture.md`, `17_reveal_order_and_reader_impact.md`, **`55_series_pitch_and_comps.md`**, `15_character_grounding_and_relatability.md`, and `35_artifact_chain.md`. This document asks: what makes the reader want the next scene before they understand the doctrine?*
 
 ## Governing rule
 

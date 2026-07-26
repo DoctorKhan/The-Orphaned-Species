@@ -1,5 +1,7 @@
 # The Rootbook / Word-Web
 
+> **HIGH PRIORITY — LOCKED 2026-07-25:** Expertise fantasy and contested decode — **`55_series_pitch_and_comps.md`**. Rootbook opens bounded sections only; reader learns with Eli, often wrong first.
+
 **CANON DESIGN — LOCKED 2026-07-21.** **Maren Holt's** encoded field journal becomes the trilogy's distributed Rosetta: a personal record, comparative linguistic tree, scientific notebook, charged-ground atlas, and unfinished model of the living mesh. Eli deciphers it through travel, collaboration, repeatable measurements, and words recovered in different linguistic branches. **His uncanny connection gift** — leaps between seemingly unrelated witnesses — is the living complement to Maren's encoded tree: he links cognate, site, and measurement before the full proof exists, which looks like oracle-work to others and **working hypothesis** to Emrys (`15` § *Uncanny connection*). It is not prophecy, a universal translation device, or an itinerary planted for him.
 
 **Working names:** Eli privately calls it **the Rootbook**. Maren's cover-title may be **শব্দজাল** (*Shabdajal / Word-Web*); exact Bengali romanization, register, and whether Maren herself would use that title remain subject to Bengali-language review. The design is locked; the final title is not.

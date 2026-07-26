@@ -2,9 +2,11 @@
 
 > **Status:** governing prose guide, chosen 2026-07-12. Applies to all three volumes of the Layer 1 novel. It controls narrative voice, scene delivery, exposition, and revision—not canon or plot. Local registers remain in `21_present_day_street_skin.md`, `24_comedic_register_slapstick.md`, and `38_psionic_combat.md`.
 
+> **HIGH PRIORITY — LOCKED 2026-07-25:** **`55_series_pitch_and_comps.md`** — clue-chain propulsion, institutional villainy, landmark set-pieces, 10-point revision gate. Prose must **move the body** and **picture the clue**; see `55` checklist items 1–2, 5–8.
+
 ## The chosen mode
 
-*The Orphaned Species* is a **literary speculative thriller**: clean, atmospheric prose; vivid locations; emotionally complex characters; escalating pursuit. It should be accessible to science-fiction readers and literary crossover readers without diluting either the speculative mystery or the human drama.
+*The Orphaned Species* is a **literary speculative deep-history conspiracy thriller** (see `55`): clean, atmospheric prose; vivid locations; emotionally complex characters; escalating pursuit; clue-chain momentum in the *Da Vinci Code* / *National Treasure* register.
 
 The novel's surface is an intimate maritime thriller. Its emotional depth comes from literary fiction. Its extraordinary encounters use restrained visionary language. The cosmology stays beneath all three until events make explanation necessary.
 
@@ -17,6 +19,7 @@ The reader should receive:
 - a young man and an ensemble worth caring about;
 - an ordinary life whose loss matters;
 - immediate objectives, tightening pursuit, and consequential choices;
+- **clue-chain propulsion** — one visual key, one place, one partial answer, one new question (`55`);
 - places that feel inhabited rather than researched;
 - extraordinary events that are undeniable before their interpretation is certain;
 - moral and emotional complexity without narrative vagueness;
@@ -153,6 +156,18 @@ Characters are emotionally complex when their wants conflict, not when the narra
 
 Let characters misunderstand themselves. The narration need not correct them immediately. Revelation should often occur when conduct contradicts self-description.
 
+### Eli's voice arc — LOCKED 2026-07-25
+
+Eli's **close-third narration** changes across the trilogy in sync with emotional development (`27` § Eli, § Wren *Personal function*). He enters uncertain; Wren helps him **feel** without therapizing him on-page. The prose should track that arc — not only what he learns, but **how he sounds while learning it**.
+
+**Volume I — uncertain, substituting.** Default register: tentative, bodily, socially smaller than he wants. He guesses and revises; overload and shame shrink spoken voice (*voice comes out smaller than he wants*). Narration does not rescue him with early certainty — let wrong interpretations stand until conduct contradicts them. Show the survival disguises before the plain name: fear → vigilance, shame → usefulness, grief → investigation, desire → destiny, anger → certainty, loneliness → indispensability. **Early Wren scenes:** desire often arrives as **awkward flirtation** — misread strategic touches, accidental smash or brush, jokes that land wrong (`19` §4). Eli's interior should hedge (*maybe she meant… / maybe that was only the boat*) until conduct earns a plainer name. In Wren scenes, substitutions fail: her presence should **simplify** his interior voice over the chapter — not smarter about cosmology, **more honest about want**. She waits; he finds words; narration may mirror that by shortening sentences and cutting metaphor when he finally names what he means.
+
+**Volume II — persuasive, still possessive.** Voice gains confidence and connective leaps (almost-too-neat links the reader should feel as social/magic danger). Interior certainty can outrun consent — he may sound right about the pattern and wrong about jurisdiction. Let narration notice the gap without lecturing (*he knew the route; he did not know whether the route was his to choose*). Wren continues inward work; Rowan challenges public conduct — **spoken** voice in councils may run ahead of **private** uncertainty.
+
+**Volume III — answerable, not oracular.** He can name fear, anger, grief, and want in plain language without converting them to command. Public coordinator voice and private narration may diverge — messianic misreadings happen **around** him; interior track stays human-scaled. Maturity shows as shorter moral self-justification and willingness to be wrong in public. Step-down scenes return toward Vol I scale (smaller, specific) without Vol I confusion — **humble, not collapsed.**
+
+**Wren's function (all volumes):** not therapist-in-dialogue. She helps him with his feelings by refusing fake names for real needs, taking perceptions seriously, arguing as an equal, and not filling silences (`27` proof rule). **Craft test:** in major Eli/Wren chapters, at least one named feeling moves disguised → acknowledged, and prose register shifts accordingly. Cross-ref: `19` § *Personal function*; `31` personal arc lock.
+
 Do not reduce antagonists to embodiments of ideas. Crane must save lives, coercive systems must answer real dangers, and liberatory factions must offer something genuinely desirable. Moral clarity should emerge from costs and choices, not authorial labeling.
 
 ## Dialogue
@@ -178,6 +193,7 @@ Avoid interchangeable wisdom. No character should exist mainly to state the book
 - **Author/planning docs** may still say Bengali/Bangladesh for geography, naming locks, and cast bios.
 - **Use as needed:** when implication would obscure action or trust, use the language on the page; when culture already reads, omit the label.
 - **Rasel / Russell — LOCKED 2026-07-25 (rev.):** father's **true name is Rasel Khan** — **forms say Rasel**, not Russell. Say **Rasel** in narration, memory, Bangla, Babaji, Shireen. **Russell:** some English mouths only — Maren in formal English, Anglo clerks mishearing, corridor gossip — **habit, not the ink**. **Reader ease:** one natural gloss at first significant mention (*Rasel — though some people said Russell*), then **Rasel** default. When someone says Russell wrong, **correct once**, flat (*"Rasel."*), move on — no ping-pong. **Khan** is on the father's legal name, not Eli's; Eli is **Holt** (mother's matrilineal line — Eli learns why Vol II Europe; until then *Bengali thing* covers **Holt vs Khan** for Anglo clerks).
+- **Albion / British — LOCKED 2026-07-25:** present polity = **Albion** (official, street, passport). Renamed after **monarchy abolished** post-Hinge — councils reclaimed the **old Celtic name**. **Britain / British** = legacy only — pre-Hinge maps, Anglo registries, old extraction files, Eli's habit until **Book II Ch 5 conversation**. Narration and living speech say **Albion** after Ch 5; **British** when a **file, clerk, or outdated mouth** gets the era wrong (same register as Russell/Rasel). One gloss at Ch 5 rename beat; then **Albion** default.
 
 Glossary: `95` § Culture and language on-page; § Rasel / Russell on-page.
 

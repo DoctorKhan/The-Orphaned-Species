@@ -1,5 +1,7 @@
 # Volume I — *The Breach* — Beat Sheet
 
+> **HIGH PRIORITY — LOCKED 2026-07-25:** Chapter beats must pass **`55_series_pitch_and_comps.md`** 10-point clue-chain gate (body movement, visual key, short-loop payoff, domestic cost).
+
 > **CURRENT SPINE — LOCKED 2026-07-23.** Book I runs **the Reclamation, Pelangi Reach → Meridian City → Straits → Malacca → breach → Thailand (agricultural witness + grounding) → Gulf/Mesopotamia → Göbekli Tepe (climax)**. **Thailand is the substantial agricultural-witness sequence** — river-valley rice cooperative, keeper stilt-house network, Khun Dang/wat/Pai pass-through grounding, forming ley line, Ila midpoint, incomplete Manual Override. **No plant-medicine / bitter-cup ceremony in Book I** — that lands Book II Ch 6 (`99` #bitter-cup). **Bangladesh is off-page** — lost home through Shireen's messages, Bangla, food memory, and Pelangi exile garden; no village visit. **Mekong/Vietnam — RETIRED 2026-07-23:** prior Ch 5–10 draft and beats are quarry only. **Book I climaxes at Göbekli Tepe:** Eli chooses people over the complete interface record and Emrys is taken. The old Mekong-climax allocation and the old chapter numbering are retired; use the order below.
 
 > **COSMOLOGICAL FUNCTION — LOCKED 2026-07-15:** Book I establishes the divine knowledge-blueprint and the human fear that turns life-technology into a target. The later resolution is not anti-technology: technological understanding must mature enough to recognize the Nephilot/elven line as fellow persons rather than repeat the ancient killing.
@@ -20,8 +22,8 @@
 
 - **Ch 1 — Pelangi Reach:** **Friday AM** race (Suresh, morning); **Friday PM** Mei **final dinner** / orphan truth (only send-off). **Saturday AM** Babaji **motor catamaran** — **first meet Wren** (handler through Meridian City). **Saturday PM** Wren at marina **before** checkpoint → aboard Suresh → squeeze → **raid on Babaji offices** as Eli departs **last light**. **No packet. No Priya. Wren ≠ Mei.**
 - **Ch 2 — Checkpoints → Meridian → Malacca breach:** **Saturday PM–eve:** **Wren escorts** marina gate → strait pier → pier arch → port shuttle → transit → buses → **causeway hall**; wrong-room overhear; **peels off at document lanes**; clerk → ring photograph → wage ticket → **Continue Inn** (arcade-tier game hotel — live cabinets/VR, contractor voucher). **Sunday AM:** Cherry Lane maze → **Cherry Cube** check-in → **Sunday Circuit** concert hunt → convoy escape → Straits → Malacca breach.
-- **Ch 3 — What Didn't Die:** Salmah pulls Eli back; Hassan and the ring are lost; Wren folds Eli into the damaged extraction; Emrys measures the breach; grounding begins. The chapter reconstructs only enough of the trap to give Eli a consequential decision: disappear if he still can, or follow what the breach and Maren's trail have exposed.
-- **Ch 4 — Her People:** Wren's independent extraction and the maritime departure force the first shared cost, with a real sailor and keeper network indispensable to Eli's survival.
+- **Ch 3 — What Didn't Die:** Salmah pulls Eli back; Hassan and the ring are lost; Wren folds Eli into the damaged extraction; Emrys measures the breach; grounding begins. The chapter reconstructs only enough of the trap to give Eli a consequential decision: disappear if he still can, or follow what the breach and Maren's trail have exposed. **Touch:** fold-in proximity (van/stairwell/safehouse crush optional); **ambiguous brush** passing food or bandage; Eli **flinch vs lean** at head touch — antiseptic memory (Somchai, unnamed). Awkward flirtation = debt fear, not banter (`19` §4).
+- **Ch 4 — Her People:** Wren's independent extraction and the maritime departure force the first shared cost, with a real sailor and keeper network indispensable to Eli's survival. **Touch:** **boarding squeeze** — one signature smash on deck or in a hold; sanctuary **after** Laleh/Asha snap (food, watch, joke); shared-future gesture through teeth. Complementary cowardice may land here.
 
 *The chapter-by-chapter spine for Volume I (Shattering), built on the locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `29_trilogy_plot_and_development.md` (full trilogy plot hub), `21_present_day_street_skin.md` (near-future tone / port-noir skin), `23_2040_present_frame.md` (~2040 texture), `26_present_day_cast_expanded.md` (cast flesh), `27_character_development_arcs.md` (Vol I development + proof scenes), `28_present_day_trilogy_craft_index.md` (craft hub), `99_open_questions.md` (the locked beats #1–#6), `38_psionic_combat.md` (the war), `39_psion_biology.md` (the floor), `36_the_living_web.md` (the web/clarification mechanism), `16_reader_attachment.md` (the human-gravity test).*
 
@@ -89,6 +91,8 @@
 - **Choice → Cost:** Eli **left Pelangi on schedule**; at Meridian he **chooses forward** after the ring photograph rather than disappearing into the worker flow. Wrong-room eavesdropping **pre-echoes** Malacca/Hassan before the photograph confirms. Cost compounds — hearth suspended, helpers exposed, classification narrowly escaped, Hassan recaptured, Salmah punished, signature lit across the grid.
 - **Revelation:** what saves him before the breach is not the gift but the human web. The ring makes his mother's disappearance concrete; the body-register proves the hunt is more than legal; the breach exposes him as a carrier event. **End state:** home gone, Hassan and the ring lost, receiver open, both teams converging.
 - **Past leak:** Suresh — wrong-note hum at stern, stops (`26` Part V). Shireen — text with photo of Rasel's garden still growing in Dhaka.
+- **Romance / touch — LOCKED 2026-07-25:** **Awkward flirtation** during escort (`19` §4). **Strategic touches on-page:** clipboard at marina gate; **sleeve at pier arch** (*permission, not comfort*); Wren picks routes with hand on his back through crowds if needed. **Optional smash:** strait inspection crush or Malacca crowd jolt before breach — bodies pressed once; neither names it; Eli over-reads in narration. **Convoy near-miss:** Wren at convoy edge, **does not acknowledge** — intrigue, not reunion. No gratitude kiss; field-recognition at breach only.
+- **M/I/A:** **M** — unreadable operator; convoy non-acknowledgment. **I** — light-cross / witness collision (reader ahead of Eli). **A** — strategic touch misread; optional smash; terror + attraction at breach, not fate.
 - **Appeal (2026 timeliness):** optional **validation feed / companion ping** on Eli's phone — warmth without mutual obligation; he distrusts it (AI-intimacy rhyme, `44` § Timeliness A). Chase = **GoT dagger** — safe life burned in one morning.
 
 ---
@@ -347,14 +351,14 @@ Meridian City archive, clinical corridors, **cure framing** — not punitive Fra
 
 ## Romance cost audit — Vol I (`19`, `27` § Wren)
 
-**Personal arc lock — 2026-07-22:** Wren is not Eli's political tutor. Book I uses their intimacy to make Eli emotionally legible to himself. Each shared chapter must move not only trust but his ability to distinguish a feeling from its survival disguise. By Göbekli he can recognize fear, shame, grief, desire, anger, and loneliness with increasing honesty; that self-knowledge produces confidence. Eli reciprocally learns to notice Wren's feelings beneath competence without treating perception as entitlement. Rowan carries the later civic/political counterpart function. Consent and boundary govern the bond, but **emotional recognition is its Book I content**.
+**Personal arc lock — 2026-07-22; voice arc 2026-07-25:** Wren is not Eli's political tutor. Book I uses their intimacy to make Eli emotionally legible to himself — and his **narration** uncertain until conduct earns plain names (`14` § *Eli's voice arc*). Each shared chapter must move not only trust but his ability to distinguish a feeling from its survival disguise. By Göbekli he can recognize fear, shame, grief, desire, anger, and loneliness with increasing honesty; that self-knowledge produces confidence. Eli reciprocally learns to notice Wren's feelings beneath competence without treating perception as entitlement. Rowan carries the later civic/political counterpart function. Consent and boundary govern the bond, but **emotional recognition is its Book I content**.
 
 | Ch | Status | Relational job | Personal feeling move |
 |---|---|---|---|
-| 1 | OK | Hearth only — establish what romance will cost (garden, crew, made home) | Loneliness appears as overwork and failed usefulness; Eli cannot name it yet |
-| 2 | **LOCK** | Wren = operational collision; field-recognition at death plants doubt, not destiny | Terror and attraction arrive together; neither is allowed to become fate |
-| 3 | **SHARPEN** | Debt fear; care triangle; suspicion that contact was planted; trust down | Eli begins separating gratitude and need from debt and ownership |
-| 4 | **SHARPEN** | Laleh/Asha bill + resentment + partial sanctuary | Shared food/humor lets Eli experience wanting company without earning it; Wren's irritation reveals care without erasing anger |
+| 1 | OK + **TOUCH** | Hearth only — establish what romance will cost; catamaran clipboard at gate (strategic contact) | Loneliness as overwork; Eli notices competence, no flirt payoff yet |
+| 2 | **LOCK + TOUCH** | Operational collision; field-recognition at death; sleeve at pier arch; optional smash; convoy non-ack | Terror + attraction together; awkward misread (operational vs want) |
+| 3 | **SHARPEN + TOUCH** | Debt fear; fold-in proximity; ambiguous brush; flinch at head touch | Gratitude/need vs debt/ownership; want felt, not named |
+| 4 | **SHARPEN + TOUCH** | Laleh/Asha bill + boarding smash + sanctuary after snap | Wanting company without earning it; first warmth not purely operational |
 | 5 | **INSERT** | Escape offer refused on third loyalty | Eli recognizes that wanting Wren is not the same as wanting escape or rescue |
 | 6 | **INSERT** | Ila grief misread — intimacy down | Investigation fails as a disguise for grief; he cannot explain it yet, but begins to feel the difference |
 | 7 | **SHARPEN** | Documentation vs exit — control argument | Fear of losing proof becomes certainty and command; Wren's resistance makes the substitution visible |
@@ -374,10 +378,10 @@ Meridian City archive, clinical corridors, **cure framing** — not punitive Fra
 
 | Ch | M (mystery) | I (intrigue) | A (attraction) |
 |---|---|---|---|
-| 1 | — | — | Hearth stake only |
-| 2 | Liability; shuts look; known-stranger flash | Light-cross / witness collision | — |
-| 3 | Control masks want; trap misread | Care triangle; genuine contact or planted signal? | — |
-| 4 | Ping; terminal sketch | Laleh/Asha; network | Sanctuary after snap |
+| 1 | — | — | Hearth stake; strategic touch seed (gate) |
+| 2 | Liability; shuts look; known-stranger flash | Light-cross / witness collision | Sleeve; optional smash; misread competence |
+| 3 | Control masks want; trap misread | Care triangle; genuine contact or planted signal? | Fold-in proximity; ambiguous brush |
+| 4 | Ping; terminal sketch | Laleh/Asha; network | Boarding smash; sanctuary after snap |
 | 5 | — | Escape offer refused | Pull, refused |
 | 6 | Colder on Ila grief | — | Down |
 | 7 | Control argument | Exit vs doc | — |

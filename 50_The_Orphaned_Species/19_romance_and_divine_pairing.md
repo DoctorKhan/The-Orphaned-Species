@@ -58,11 +58,24 @@ After pursuit, breach, or boarding, give **one room** where the world narrows to
 
 **4. Slow physical escalation tied to trust, not plot clock.**
 
+Vol I opens with **awkward flirtation**, not smooth chemistry. Eli is uncertain (`14` § *Eli's voice arc*); Wren is hostess-competent until flustered. Neither names attraction; handler logistics sit between them. Touch should often be **misreadable** — the reader and Eli cannot always tell operational habit from care from first unconscious want.
+
+**Three touch registers** (keep distinct on-page):
+
+| Register | Wren's side | Eli's side | Craft note |
+|---|---|---|---|
+| **Strategic / operational** | Wrist, sleeve, back through a crowd, clipboard flat on rail, steering at a checkpoint | Freezes, over-reads, or leans in too long | Her professional habit; **not** proof of romance or free consent while she controls route, papers, or sleep |
+| **Accidental proximity** | One load-bearing **smash** — boat roll, stairwell crush, boarding squeeze, van corner, convoy jolt | Body remembers; mind races; no clean acknowledgment | **One** signature smash in early Vol I (Ch 2–4 band); both over-correct after |
+| **Ambiguous brush** | Passing a cup, fixing collar, hand overlap on manifest, fingers on his when closing a latch | Notices too long; walks a line back | May be care, habit, or first flirt — Wren may not retract or explain |
+
+**Awkward flirtation beats:** missed joke timing; Eli says something too honest then walks it back; Wren goes smoother when embarrassed; complementary cowardice (spider / being cared for) as intimacy before chosen touch. Humor and irritation count as flirt when the body is still deciding.
+
 Recommended ladder (skip or compress only if the chapter earns it):
 
 | Stage | Register | Example |
 |---|---|---|
-| **Proximity under stress** | Shoulders touch, shared watch, her hand on his wrist to stop him | Malacca stairwell; boat rail |
+| **Strategic touch misread** | Operational contact Eli reads as belonging | Sleeve at pier arch; clipboard at gate; wrist to stop him |
+| **Awkward proximity** | Smash or brush; neither names it | Malacca crowd; boarding deck; stairwell after fold-in |
 | **Involuntary tenderness** | One fixes food, bandage, hair, collar; the other lets it happen once | Post-breach; corridor after boarding |
 | **Private language** | Joke, nickname, shared reference nobody else gets | Complementary cowardice (spider / being cared for) |
 | **Named want, unnamed bond** | "I don't want you dead" before "I love you" | Vol I end state |
@@ -111,7 +124,9 @@ The buildup is the product. A single kiss after fifty chapters of earned proximi
 
 Align with `31_volume_I_beatsheet.md`:
 
-- **Ch 3–4:** Wren in the margins — competence noticed, not yet trust.
+- **Ch 1:** catamaran meet — strategic touch seed (clipboard, gate); no flirt payoff yet.
+- **Ch 2–3:** awkward proximity band — sleeve at pier arch; optional **smash** in Malacca chaos or strait crush; fold-in proximity; field-recognition at breach **without** soulmate confirmation.
+- **Ch 4:** boarding squeeze; sanctuary beat **after** snap — first warmth that is not purely operational.
 - **Ch 5:** stairwell contact — survival proximity; **recognition refused on both sides**; she folds him in at cost to her operation.
 - **Ch 7–8:** complementary cowardice; boarding stress; one sanctuary beat (food, watch, joke).
 - **Ch 8+:** one **shared future** gesture — spoken or shown — before South Asia descent deepens the mythic pressure.
@@ -725,7 +740,7 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 
 | Vol | Mystery | Intrigue | Attraction |
 |---|---|---|---|
-| **I** | Unreadable operator; leaks (bun, ping); field-recognition refused | Light-cross; Laleh/Asha; Custodians mirror; Ch 7 fed? | Stairwell proximity; sanctuary **after** snap; complementary cowardice; **no label** |
+| **I** | Unreadable operator; leaks (bun, ping); field-recognition refused | Light-cross; Laleh/Asha; Custodians mirror; Ch 7 fed? | Strategic touch misread; **smash/brush**; stairwell proximity; sanctuary **after** snap; complementary cowardice; **no label** |
 | **II** | Sol secrecy; mother recoil; replacement fear named | Honey-trap; **Vol I rupture** billed; trade fork; file doubt | Repair after rupture; commitment at **debt** (Ch 21) |
 | **III** | Open-handed without fate-language | Crane wedge; indispensable network choice | Parallel release with mother; tired coda touch |
 

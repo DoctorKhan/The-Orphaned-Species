@@ -1,6 +1,6 @@
 # Cultural Moment & Story-First Resonance
 
-> **Status:** editorial + drafting guidance (2026-07-12). Companion to `43_audience_and_character_recommendations.md`, `17_reveal_order_and_reader_impact.md`, `18_adventure_engine_and_scene_bank.md`, `16_reader_attachment.md`, `15_character_grounding_and_relatability.md`, and `28_present_day_trilogy_craft_index.md`. This document contains **no locked story obligations**. Cultural relevance should amplify an already compelling story, never determine a scene by demographic or trend.
+> **Status:** editorial + drafting guidance (2026-07-12). Companion to `43_audience_and_character_recommendations.md`, **`55_series_pitch_and_comps.md` (HIGH PRIORITY — pitch/comps)**, `17_reveal_order_and_reader_impact.md`, `18_adventure_engine_and_scene_bank.md`, `16_reader_attachment.md`, `15_character_grounding_and_relatability.md`, and `28_present_day_trilogy_craft_index.md`. This document contains **no locked story obligations**. Cultural relevance should amplify an already compelling story, never determine a scene by demographic or trend.
 
 ---
 

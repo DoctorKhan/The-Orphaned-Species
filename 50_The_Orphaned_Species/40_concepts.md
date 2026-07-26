@@ -236,11 +236,11 @@ The Thread is not only a maze. It **sorts whichever male leaders still remain** 
 | Parent | Passport / citizenship | Claimed by | Custody register |
 |---|---|---|---|
 | **Rasel Khan** | Bangladeshi / South Asian file | **Eastern Mandate** | **Rasel Khan** on files — indispensable personnel, black-lab transfer |
-| **Maren Holt** | British / UK file | **Charkha Measure / Ring** (Crane apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
+| **Maren Holt** | Albion file (legacy *British* / UK on old registries) | **Charkha Measure / Ring** (Crane apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
 
 **Why they were separated:** not only attack violence — **claim routing**. Extraction-night intercept: Mandate files **Rasel**; Measure/Ring files **Maren**; no joint holding across orgs. Inter-bloc rules forbid merging chains; even if both survive the handoff, they **leave on different vehicles** toward different jurisdictions. Eli remembers one night; the file system remembers **two nationals, two claims**.
 
-**Eli's passport:** **Eli Holt** on **British (maternal) paperwork** — would Union/Measure-route as British dependent if linked to Maren's claim file; keeper protocol **unlinks** him (*orphan on paper*) so neither chain gets a clean dependent match. His **statelessness** in 2040 is partly real, partly net mercy.
+**Eli's passport:** **Eli Holt** on **Albion (maternal) paperwork** — legacy *British* on some Anglo files. Would Union/Measure-route as Albion dependent if linked to Maren's claim file; keeper protocol **unlinks** him (*orphan on paper*) so neither chain gets a clean dependent match. His **statelessness** in 2040 is partly real, partly net mercy.
 
 **Craft rule:** Vol I — one border stamp, two file flags, *Rasel* on the forms (some mouths still say *Russell*), *English woman on the file* in separate rooms; save exposition for Vol II suppression scene or corridor documents.
 

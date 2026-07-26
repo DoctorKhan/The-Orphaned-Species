@@ -1,5 +1,7 @@
 # The Orphaned Species Book I: The Breach
 
+> **Pitch / clue-chain gate — HIGH PRIORITY — LOCKED 2026-07-25:** Every chapter must pass `55_series_pitch_and_comps.md` (body movement, visual key, institutional texture, short-loop payoff, domestic cost, wonder before ambush). Governing prose: `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED*.
+
 > **Drafting lock:** present tense, close third. Eli is the home consciousness. Book I remains in Eli except for Wren's Chapter 4 Laleh-extraction opening, separated from the return to Eli by a hard section break. One scene never enters more than one mind. Governing rule: `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED*.
 
 > **Opening alignment — LOCKED 2026-07-25 (rev. Y):** **Ch 1** — **Friday AM** race (Suresh) — **Eli wins** → earns Cherry Cube manifest; **Friday PM** Mei **dinner send-off / orphan truth**; **Saturday AM** Babaji **catamaran** (**first meet Wren**); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2** — **Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → Sunday Circuit escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. **No Thailand body memory before Ch 5.** Malacca: talents **activate**, not trained. Cube grounding = **Maren**, not martial.
@@ -103,7 +105,7 @@ That lands wrong in his chest — grief and fury braided so tight he can't pull 
 
 "And my mother." It is not quite a question. "She was in the other van. Was she—"
 
-"Alive." Mei's voice softens, and that is worse. "**Maren Holt.** British papers — not the Mandate's chain, the other one. Babaji told me both were taken, not killed. He does not know where she is. Nobody on this reach knows where she is." She looks at him finally. "I am telling you what I was told. Not a map."
+"Alive." Mei's voice softens, and that is worse. "**Maren Holt.** Albion papers — not the Mandate's chain, the other one. Babaji told me both were taken, not killed. He does not know where she is. Nobody on this reach knows where she is." She looks at him finally. "I am telling you what I was told. Not a map."
 
 "The net said **dead** so you could live." Mei's hands flatten on the table. "A child on the linked file is a beacon — Babaji's word. They split you off the record. Orphan on paper. Stolen child in truth."
 
@@ -159,7 +161,7 @@ Every phone in the plaza loses its bars. The chit pings stack, and stop.
 
 ---
 
-**Saturday, last light.** Eli packs the tool roll — crimpers, testers, spare ties, the contractor lanyard Wren printed on the catamaran — and goes down to the marina through Pelangi pretending to be a city. Drones work slow lines over the water. At the gate men hang lists: assembly points, screening schedules, cohorts. *Review.* Under it: *anomalous.*
+**Saturday, last light.** Eli packs the tool roll — crimpers, testers, spare ties, the contractor lanyard Wren printed on the catamaran — and goes down to the marina through Pelangi pretending to be a city. Drones work slow lines over the water. At the gate men hang lists: assembly points, screening schedules, cohorts. *Review.* Under it: *anomalous.* One sheet is already filled — names printed before the bodies arrived, a column for bodily signature Eli does not yet know how to read.
 
 Wren is at the marina stairs with his name on a clipboard that is also a manifest. "Your attestation is attached." Soft, level — the voice that makes queues feel temporary. "Worker lane, not cohort review. If we miss this tide, the second column is all that remains." She does not look at him when she says it. She never does when the lie matters.
 
@@ -179,6 +181,8 @@ Pelangi Reach shrinks behind the marina wall. Suresh talks his manifest through 
 
 The island locks down behind him. Hearth suspended, not surrendered.
 
+In his pocket: Suresh's folded word — *ask once* — and Mei's truth that his mother wore Albion papers somewhere west of every map he owns. The arch Wren named is not the last door. It is the first that leads to her.
+
 ---
 
 *On the record*
@@ -193,7 +197,7 @@ The island locks down behind him. Hearth suspended, not surrendered.
 
 Suresh throttles down at the Johor shallows where a quarantine line strings the channel — floats, a screening pier, a grey cutter idling with its number painted out. A processing tender works the boat ahead: a ferry running half-full, passengers filed one by one through an arch, slow, each made to pause on a painted mark.
 
-So this is it, Eli thinks. Not one door — a corridor of them. Wren's jaw stays level. The keepers ran from a life measured in queues. It doesn't look like a war. It looks like paperwork with guns.
+So this is it, Eli thinks. Not one door — a corridor of them. Wren's jaw stays level. The keepers ran from a life measured in queues. It doesn't look like a war. It looks like paperwork with guns — the same appetite Pelangi hung on the marina wall six hours ago, wearing a different vest.
 
 The tender swings toward them.
 
@@ -269,7 +273,7 @@ It lands bodily — hair up along both arms, heat behind the sternum, the certai
 
 "Where—" he starts.
 
-"Routing," she says, still the form voice, and scrolls once. Chain of custody, processing stamps, a records transfer through a Malacca processing office — and there, in the middle of the routing history, one word from Suresh's folded paper and, ten minutes ago, a voice behind a rice-sack door he was not meant to find. **Malacca.** Two roads, arriving at one door. That is not an explanation. It is the only verification the world is going to offer him, and his body has already accepted it.
+"Routing," she says, still the form voice, and scrolls once. Chain of custody, processing stamps, a records transfer through a Malacca processing office — and there, in the middle of the routing history, one word from Suresh's folded paper and, ten minutes ago, a voice behind a rice-sack door he was not meant to find. **Malacca.** A header he cannot read yet — *extended assessment*, Eastern health authority — sits above the photograph like a lid waiting to close. Two roads, arriving at one door. That is not an explanation. It is the only verification the world is going to offer him, and his body has already accepted it.
 
 Her voice drops out of the form and into Bangla. "The system saw what I saw. Your intake photograph is flagged — resemblance match, records hold, extended assessment. That queue goes up into the Stack, and files that go up do not come down whole. Once they hold you, you are theirs to explain." She looks at the screen, not at him. "A file can close without its body one way from this desk. Discharge to vessel. That lane needs a work history."
 
@@ -517,6 +521,8 @@ The fish seller shoves an oar into Eli's hands. "You pull that," she says, "or y
 
 He pulls.
 
+Malacca waits at the end of the strait — old hotel, fourth floor, a man who carries his mother's ring on a cord. The photograph was not the answer. It was the receipt that the question is still alive.
+
 ---
 
 ## Chapter Three — What Didn't Die
@@ -679,7 +685,7 @@ They eat at dusk — rice and dried fish, which is nothing, except that Nura has
 
 Then, over the empty bowls, the courier lays out the trap in four sentences, which is all of it she'll spend.
 
-"The net was set in Malacca — mark whoever came asking after the English woman on the file. The van was on the river before you lit up." She stacks the bowls. "The ones who ran you down call themselves Custodians — biosecurity paper, somebody else's leash. Learn the name; you'll be seeing the vehicles." A beat. "They set a net for a family and caught a lighthouse. Now every team in the strait knows the lighthouse exists."
+"The net was set in Malacca — mark whoever came asking after the English woman on the file. The van was on the river before you lit up." She stacks the bowls. "The ones who ran you down call themselves Custodians — biosecurity paper, somebody else's leash. Same leash as the brain scanner on Babaji's mezzanine, different badge. Learn the name; you'll be seeing the vehicles." A beat. "They set a net for a family and caught a lighthouse. Now every team in the strait knows the lighthouse exists."
 
 "And the man," Eli says. "Hassan."
 
@@ -720,6 +726,8 @@ He takes the last watch of the night, because the boatman is generous and the pl
 The strait goes about its dark business. Somewhere south, a resort is sealed and a garden is growing pale under ash without him. Somewhere north, a van is driving, and a man in it is holding a ring on a cord because that was the job. The question is still under his ribs — *Maren Holt*, alive on the file, wearing his mother's handwriting — and under the noise in his hands, bedrock under a flood, the thing that didn't die when the keepers said it did.
 
 What didn't die tonight: him. The question. And the debts.
+
+By morning the inland road takes him toward paddies and keeper stones, and the damaged index in his head opens on one word — *name* — that is not her location yet, but is hers.
 
 He counts the heat until it stops burning. Then he drinks.
 
@@ -936,7 +944,7 @@ Her people, she said, that first night on the platform, and he had heard a claim
 
 The valley opens. Somewhere up one of its brown channels, a field is growing wrong in a way that will change everything, but that is tomorrow's freight.
 
-The boat goes in with the tide.
+The boat goes in with the tide — and Eli's palms, still prickling at the worked green, already know tomorrow will argue with him about what growth means.
 
 ---
 
@@ -1013,7 +1021,9 @@ The pickup takes them down out of the jungle on a road that is no kinder than th
 
 The wat sits above the valley like a hand cupped around a flame.
 
-It is not grand — no tourist buses, no donation boards in six languages — just timber and tile gone dark with rain, a sala open on three sides, a bell tower with one bell, and behind the ordination hall a row of kuti so plain they might be chicken sheds if the silence didn't live in them. The abbot greets Eli with joined palms and no questions — not *who are you* but *you may sit*. Eli's body knows the sala before his mind names it. He does not offer the story. Wren does not enter; she takes the stilt-house landing with the boat and waits out the five days the way she waits out everything — facing the water, not counting.
+For one held breath Eli sees only timber and tile gone dark with rain — no curriculum, no mystery, a sala open on three sides and a bell tower with one bell — before his body remembers the sala and the remembering frightens him more than the Custodians on the water below.
+
+It is not grand — no tourist buses, no donation boards in six languages — and behind the ordination hall a row of kuti so plain they might be chicken sheds if the silence didn't live in them. The abbot greets Eli with joined palms and no questions — not *who are you* but *you may sit*. He does not offer the story. Wren does not enter; she takes the stilt-house landing with the boat and waits out the five days the way she waits out everything — facing the water, not counting.
 
 The five days are not explained as a curriculum. They are a schedule, and Eli learns it the way you learn a port — by repetition, not by being told what you are learning.
 
@@ -1153,6 +1163,8 @@ It is not much: waist-high, gray going green at the waterline, planted at the co
 
 "*Hin yim siang*," Kitt says from the tiller, when he sees where Eli is looking. He searches for it in English, gives up halfway. "The stone that — borrows. Borrows voices." He shrugs at his own grandmother's words. "You can talk to it in the day. You don't lend it your voice at night. That's all. Old people's rule."
 
+Before Emrys wires anything, Eli stands one breath at the poured shelf — sand jar, soft oranges, rice wine with its lid — the ordinary shrine holding a door the paddies have known for generations. Then the pull arrives, and the breath is spent.
+
 Emrys is already unpacking a cooler, delighted beyond decency.
 
 Eli has been feeling it for half a kilometer. Not the mixed static — a *pull*, low and particular, the difference between a crowd's roar and one voice saying a name in it. His hands have gone quiet the way they go quiet over a clean splice. The noise has a direction here. The second surface of the world has a *door* in it.
@@ -1204,6 +1216,8 @@ Because that is the revelation, under the grief, and it survives even Wren's col
 A place like the cooperative downriver, where the whole west block has come up drunk, and the farmers have been fighting about it since June.
 
 The drones run the channel at dusk, lazy and on schedule. By then the boat is away south, the stone is alone with its oranges, and somewhere behind Eli's sternum a dead woman's economy of motion is settling into his hands like a language beginning, and the woman at the tiller is not looking at him, all the way down the dark river not looking at him, her people and her ledgers between them like freight.
+
+Downriver, the cooperative's west block waits — drunk rice, a boy's pencil bearing, and the next place the line insists they go.
 
 ---
 
@@ -1296,6 +1310,8 @@ It lands harder than he means it to — or exactly as hard; he can't tell, that 
 "Yes," she says. "It is. And when I'm wrong, I'm wrong alone, and I carry it alone, and you have no idea what that costs, and I am not giving the job to a man because he got loud once in a pump house."
 
 They go to their separate corners of the dark. Nothing is resolved. The frogs sing up and down the forming line, and skip the dead field, all night.
+
+At dawn they leave with half a record and all of the guilt — Malai's clipboard still photographing the boat as they cast off — and the bearing south of west written in a boy's pencil, because the line does not stop at a cooperative's edge.
 
 ---
 
@@ -1428,6 +1444,8 @@ On the west block, in the ruins of the evening, the two teams disengage as blood
 
 That is the lesson of the field that used to count. The war is older than his question. The war doesn't care.
 
+In Wren's bag, the vials she pocketed on day one still smell of the west block. The bearing is not in the ashes. It is in the mud on her boots, and they will follow it anyway.
+
 ---
 
 *On the record*
@@ -1532,7 +1550,7 @@ They take the slow way. The corridor eats the twenty days one checkpoint at a ti
 
 The line, when they finally strike inland along the river country, is there to meet them. Rice gives way to wheat and the wheat is coming up drunk — a band through the stubble fields, arcing north, patient as geology.
 
-North, where the hills hold the oldest stones in the world, and the clock on the circular runs.
+North, where the hills hold the oldest stones in the world, and the clock on the circular runs — and somewhere in a van between here and there, Hassan still holds a ring on a cord, and the question is still alive.
 
 ---
 
@@ -1545,6 +1563,8 @@ North, where the hills hold the oldest stones in the world, and the clock on the
 ## Chapter Twelve — The Old Wound at Ground
 
 The charged ground in the river country is a tell — a town-mound of stacked millennia with a ruined shrine on its crown — and it is nothing like the confluence stone.
+
+From the road the mound is only baked mud and broken brick, patient as debt. Eli lets it be that for one breath — a hill with a crown, workers' lunch tins in the shade — before the pressure layers find him and the courtroom opens.
 
 The stone at the confluence was a voice in a quiet room. The tell is a *courtroom*, and the sessions never ended. Eli feels it from the road: not a pull but a pressure, layered, argumentative, old grief stacked on older grief like the strata themselves. Emrys's needle agrees and then bends past agreement into a range he has no calibration for.
 
@@ -1596,9 +1616,9 @@ It wins the room's laughter and loses the war: the consortium does not need to b
 
 That evening the old city feeds them anyway, because it has been feeding arrivals for nine thousand years and is not about to make an exception for the doomed. A courtyard lokanta under a mulberry tree: lahmacun blistered at the rim, isot pepper dark as dried blood and twice as alive, tea in tulip glasses refilled by a boy who keeps score in chalk, and at the end künefe brought out molten, pistachio-green and shameless, with three forks. Emrys eats his grief. Wren eats like a woman doing inventory and then, quietly, has seconds. Nobody talks about stones for one entire hour, and the mulberry drops a leaf in the tea, and the city holds them the way it has held every pilgrim who ever came up from the plain wanting something from the hills.
 
-The site, when they finally stand on it, is smaller than the age of it and larger than the pictures: the tell like a swelling under the skin of the hills, the enclosures open in their shelters, the great T-pillars standing in their circles with their long hands carved folded at their bellies — beings rendered by people who could not or would not show their faces. Civilians everywhere at the margins: dig workers, a shrine's worth of visitors, tea sellers, two soldiers bored under a flag. And beyond the public sectors, behind screening and a guard rotation the consortium pays for, the sealed enclosure — the one behind the fox pillar, the one the backfill calendar closes first.
+The site, when they finally stand on it, is smaller than the age of it and larger than the pictures: the tell like a swelling under the skin of the hills, the enclosures open in their shelters, the great T-pillars standing in their circles with their long hands carved folded at their bellies — beings rendered by people who could not or would not show their faces. Civilians everywhere at the margins: dig workers, a shrine's worth of visitors, tea sellers, two soldiers bored under a flag.
 
-Eli does not need the screening to know where it is. The whole hill leans toward it the way the rice leaned. His noise, at the boundary rope, goes as quiet and directional as it has ever gone: a door, the oldest door, and behind it something neither dead nor alive — *waiting*, the way instruments wait.
+For one held breath Eli lets the hill be only a hill — fox pillar, folded hands, rain on limestone older than any file that ever hunted his mother — before he feels the lean toward the sealed enclosure and the noise goes quiet and directional as it has ever gone: a door, the oldest door, and behind it something neither dead nor alive — *waiting*, the way instruments wait.
 
 They have three days, one route, and one argument.
 
@@ -1645,6 +1665,8 @@ The rupture comes at the guesthouse, past midnight, over the packed coolers, and
 The words stand in the room like furniture nobody will ever move again.
 
 They go west out of Şanlıurfa two days later, on human doors, with half a plaquette reading, two threads of the oldest testimony on earth, a bag of valley soil, a seedling photograph, and an empty chair in every vehicle they will ride from now on. The partial geometry and the living line both point the same way now, across the Bosporus, into Europe — toward the western gaps in his mother's damaged fieldwork, in a direction that old maps mark with a name none of them says aloud, because it is not yet confirmed, and they have all learned this year what wanting does to a reading.
+
+The ring is still in a van somewhere. Hassan is still in custody. Maren is still on a file routed through Albion. West is not a theory anymore — it is the only door the trail did not burn.
 
 Eli sits apart, holds the count, and keeps, in the cold operational silence where a friendship was, the two things Göbekli actually gave him.
 

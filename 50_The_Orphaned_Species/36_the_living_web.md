@@ -86,7 +86,7 @@ The model makes the climax fall out for free. The mother is not a separate soul 
 
 Human cultures **already remembered** that certain stones and places **hold speech** — without the grid's vocabulary. These are **legends of talking stones**, not one global doctrine:
 
-- **Britain / Albion** — stones that **answer**, **remember names**, or **judge** (Rollright riddling lore; "utterance" stones; ancestor seats).
+- **Britain / Albion** — stones that **answer**, **remember names**, or **judge** (Rollright riddling lore; "utterance" stones; ancestor seats). Present polity: **Albion**.
 - **South and Southeast Asia** — **witness stones**, shrine markers, river-edge seats where the dead are **heard** if you bring the right offering or silence.
 - **Anatolia / Near East** — pillars and **foundation stones** that **receive oath** or **record** what was sworn on the ground where they stand.
 - **Mesopotamian / Gulf memory** — inscribed objects and **foundation deposits** treated as **speaking** to gods or to the land itself.

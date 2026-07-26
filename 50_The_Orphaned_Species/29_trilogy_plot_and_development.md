@@ -1,6 +1,6 @@
 # Trilogy Plot & Development — Spine Hub
 
-> **Status:** navigation and synthesis for **plot mechanics** across three volumes. **Chapter spines:** `31_volume_I_beatsheet.md` (Vol I), `32_volume_II_beatsheet.md` (Vol II), `33_volume_III_beatsheet.md` (Vol III) — romance cost + M/I/A audits per chapter. Open structural commitments: `99_open_questions.md` Priority 2–3. Discovery order: `17_reveal_order_and_reader_impact.md`. Life/Knowledge through-line: `22_life_technology_and_two_trees_spine.md`. Cast/plot intersection: `26` Parts V–VI.
+> **Status:** navigation and synthesis for **plot mechanics** across three volumes. **Chapter spines:** `31_volume_I_beatsheet.md` (Vol I), `32_volume_II_beatsheet.md` (Vol II), `33_volume_III_beatsheet.md` (Vol III) — romance cost + M/I/A audits per chapter. Open structural commitments: `99_open_questions.md` Priority 2–3. Discovery order: `17_reveal_order_and_reader_impact.md`. **Pitch / clue-chain gate (HIGH PRIORITY):** `55_series_pitch_and_comps.md`. Life/Knowledge through-line: `22_life_technology_and_two_trees_spine.md`. Cast/plot intersection: `26` Parts V–VI.
 
 > **POV — LOCKED:** Eli-dominant close third present; Wren and Somchai are the only recurring away lenses; one scene holds one viewpoint. Plot cards that say “ensemble” describe action only. Governing switch test and exact volume deployment: `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED* and beat sheets `31`–`33`.
 
@@ -10,6 +10,7 @@
 
 | Need | Doc |
 |---|---|
+| **Pitch, comps, clue-chain revision gate** | **`55_series_pitch_and_comps.md`** — **HIGH PRIORITY** |
 | POV choice / switch test | `14` § *POV architecture — LOCKED* |
 | Governing sentence + four functions | `05` §1 |
 | Four-corner opposition (politics) | `05` §1 |

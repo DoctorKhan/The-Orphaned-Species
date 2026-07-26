@@ -1,5 +1,7 @@
 # Reveal Order and Reader Impact
 
+> **HIGH PRIORITY — LOCKED 2026-07-25:** Pitch, shelf, agent/back-cover copy, and clue-chain revision gate: **`55_series_pitch_and_comps.md`**. This doc controls **emotional** reveal order; `55` controls **commercial / propulsion** contract.
+
 *Outline guide for making the trilogy entertaining rather than curriculum-shaped. Pair with `05_story_architecture.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `22_life_technology_and_two_trees_spine.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, `28_present_day_trilogy_craft_index.md`, and `35_artifact_chain.md`. This document controls the emotional order of discovery; the master timeline controls chronology.*
 
 *The **backstory** (war, bioweapon, three factions, the awakening) is delivered by residue, not narration — the LOCKED technique toolkit + fact→vehicle map lives in `42_preamble_world_history_source.md` § "Residue-only delivery." Retired preamble drafts remain quarry only.*
@@ -20,6 +22,73 @@ The reader should not feel walked through doctrine in the correct order. The rea
 The plot should discover **effects before causes, practices before doctrines, and human stakes before cosmic claims**.
 
 **Desire before information — LOCKED 2026-07-22:** the reader follows an unanswered longing more deeply than an unanswered fact. Eli's governing desire is to find a place where he can remain—known without classification, loved without possession, useful without earning existence. Book I turns that desire toward lost home and proof he was not abandoned; Book II toward real reunion and the release of family; Book III toward the dangerous wish to prevent all future loss. No artifact, site, historical answer, or cosmological term should arrive unless it intensifies, frustrates, revises, or exacts a cost from a human desire.
+
+## Genre comps and clue-chain craft — LOCKED 2026-07-25
+
+> **Canonical pitch hub:** **`55_series_pitch_and_comps.md`** (agent/query, back-cover, full comps table, 10-point gate). This section retains craft summary for reveal-order work.
+
+**Shelf (author / pitch):** literary speculative **deep-history conspiracy thriller** — the **investigative momentum** of *The Da Vinci Code*, the **landmark chase energy** of *National Treasure*, and a **conspiracy of the ages** the present book only names in part.
+
+**Do not soft-pedal the conspiracy.** The **Charkha Measure** is the human face of a **recurring control apparatus** — torch, trial, asylum, eugenics file, registry, black project, van, clipboard, gene weapon, pair-severance, scientist claiming. The reader should feel: *the world I see is a cover; the faces rhyme across millennia.* That is the same reader contract as Dan Brown — with a harder, longer, more contested answer.
+
+### What those comps actually are
+
+| | *The Da Vinci Code* (2003) | *National Treasure* (2004) |
+|--|---------------------------|----------------------------|
+| **Engine** | One clue → one place → one revelation → next clue | Same, lighter |
+| **Hidden thing** | A **secret truth** (history was lied about) | A **secret object** (treasure was hidden) |
+| **Expertise fantasy** | Reader learns symbology / art / religion **with** the protagonist | Reader learns American history **with** the protagonist |
+| **Antagonist** | Shadow institution (church / secret society rhymes) | Guards + greed; less mythology |
+| **Tone** | Paranoid, urgent, "smart airport read" | Heist fun, family adventure, patriotic wonder |
+| **Depth** | Centuries | One founding generation |
+
+Both are **puzzle-driven adventure thrillers**: propulsion comes from **decoding culture** (buildings, documents, symbols), not only from gunfights.
+
+### What made them succeed — craft to steal
+
+1. **Linear clue propulsion.** Never leave the reader without a **next question** that requires **going somewhere**. Each beat answers one thing and opens two.
+2. **Real, visual, touristable set-pieces.** Churches, museums, monuments — the reader can **see** the clue. Cinematic before cinematic was mandatory.
+3. **Institutional villainy.** The enemy is not only a man with a gun — it is **a file, a registry, a board, a doctrine** that ordinary people serve.
+4. **Expert companion.** Langdon / Riley need a friend who can read the code. Eli needs **Emrys, Wren, keepers, clerks, Mei-memory** — never solo lecture.
+5. **Short-loop payoff.** Major clues pay off within **1–3 chapters**, not only at trilogy end. Brown's chapters end on micro-revelations.
+6. **Accessible prose, high concept.** One sentence pitch; sentences that move; jargon translated through **argument and place**, not glossary.
+7. **"Everything you know is wrong" — but legible.** The hook is revision of **known history**, not invention of opaque lore. Pömmelte, Göbekli, Albion rename, ring on the file — **recognizable names bent**.
+8. **National Treasure's extra lesson:** **wonder without cynicism** at the landmark. Even in a dark book, the **first sight** of a charged ground can carry awe before ambush.
+
+### What this series adopts (explicitly)
+
+- **Clue-trail spine:** Pelangi → Malacca → Thailand/Gulf → Göbekli → Europe → Albion (`95` *clue trail*; `35` artifact chain).
+- **Conspiracy of the ages:** Measure / Ring / Custodians / institutional capture **rhyme** with deep-time suppression (`95` *Charkha Measure*; § Tier 3 pattern recognition below).
+- **Landmark set-pieces:** race fairway, Cube roots, chandlery, Pömmelte shafts, broken-line church, Rollright, Stonehenge, Avebury — each site **does work** (clue + cost + pursuit).
+- **Expertise fantasy:** Rootbook cognates, registry marks, keeper protocol — reader learns **with** Eli, often **wrong first**.
+- **Dual-register clues:** civic fact first (Albion rename, Ch 5), deep rhyme second (Alba / elf / Sídhe, Ch 6) — same beat structure as Brown's "symbol means X" → "and therefore the Church…"
+
+### What this series refuses (thesis, not timidity)
+
+| Comp habit | This series |
+|------------|-------------|
+| One clean conspiracy answer | **Pattern conspiracy** — many faces, one **function** (suppression, acquisition, dependency transfer); apex **assembled**, not drawn (`§ Tier 3`) |
+| Treasure box / single bloodline ending | **Release + coexistence** — Maren freed, grid unowned, federation without HQ |
+| Protagonist owns decoded truth | **Contested evidence** — stale, planted, misread; communities **correct** Maren (`52` Rootbook) |
+| Clue trail = complete map | **No full itinerary** — next person, record, or anomaly only (`95` *clue trail*) |
+| Conspiracy without domestic cost | **Hearth forfeited** (Ch 1), Emrys taken, Laleh lost, named deaths in Vol III |
+| Boss fight with ultimate evil | **Standing condition** — vigilance, not elimination (`§ Tier 3`) |
+| Certainty | **Effects before causes** — governing rule above |
+
+### Drafting obligations (checklist)
+
+Use at **chapter outline** and **revision**:
+
+1. **Does this chapter move the body?** A new place, border, site, or forced departure — not only a new idea.
+2. **Is there one visual key?** Object, architecture, mark, gesture the reader can picture (ring, plaquette, cohort list, pew geometry).
+3. **Does the clue argue with someone?** Clerk, keeper, faction, or Eli's wrong hypothesis — exposition through **disagreement**.
+4. **Payoff within 1–3 chapters?** If the clue only sets up Book III, add a **partial human payoff** now (fear, route change, relationship cost).
+5. **Institutional texture?** Clipboard, white coat, sponsor line, museum board — Measure **felt** in procedure.
+6. **Companion read?** Someone on-page translates; Eli is not the only mouth for history.
+7. **Rhyme check:** does this antagonist **face** echo Crane, Custodians, church drain, registry trap, or pair-severance file — without naming the apex?
+8. **Wonder beat:** before violence at a landmark, **one breath** of awe (Cube spectacle, Göbekli fox-pillar, Stonehenge weather) — *National Treasure* lesson without tone collapse.
+
+**Cross-ref:** **`55`** (pitch hub); `05` § governing story; `35_artifact_chain.md`; `52_the_rootbook_word_web.md`; `18_adventure_engine_and_scene_bank.md`; `14` § exposition; `99` § Charkha / pair-severance.
 
 ## What readers should feel
 
