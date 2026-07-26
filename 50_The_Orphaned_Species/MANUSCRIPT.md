@@ -99,7 +99,11 @@ The nasi goreng tastes almost right — kecap manis, egg barely set, rice separa
 
 "I was tired—"
 
-"I checked." Not shouting — the quiet of a woman who runs a kitchen and notices everything. "**Rasel Khan** kept that row for Babaji when he still believed the towers would reopen. Your mother helped him water it." She taps the table once, the rhythm Eli knows from a hundred evenings he can't date. "She counted while she poured. You do everything else like him and nothing like her, and then you curl up in the dirt like it's yours because you won a race."
+"I checked." Mei reaches across and pinches a clot of rooftop soil from his cuff. She leaves it beside his plate. "**Rasel Khan** kept that row for Babaji."
+
+From the shelf above the till she takes down a photograph Eli has known so long he hardly sees it anymore. Rasel stands in the unfinished garden, one hand black with soil. His mother leans against him, laughing at something outside the frame. At her throat hangs the ring Rasel made her, silver joined to brass, the seam left rough.
+
+"Every evening," Mei says, "while he watched the dead towers, your mother watered that row."
 
 He keeps eating. She meant what she said about *eat*.
 
@@ -107,11 +111,11 @@ The scold passes. Mei goes quiet.
 
 "Your father is still alive."
 
-Eli's fork stops chewing.
+Eli stops chewing.
 
 "I should have told you before tonight." She looks at the marina, not at him. "Babaji told me years ago. We couldn't do anything about it. But I could feed you."
 
-She waits until he sets the fork down.
+She waits until he finishes chewing and swallows.
 
 "They told you **Rasel Khan** died on the extraction. He didn't." Her voice stays low — not for the empty tables. "That night you were small. Your mother was running with research they wanted buried. **Rasel** was running with her — Bangladeshi papers, a physicist's name on every ledger the Eastern Mandate keeps. When the handoff broke, they didn't kill him. They **took** him. Different passports, different vans. Your mother one way. Your father another. Alive, as far as anyone on this reach knows."
 
