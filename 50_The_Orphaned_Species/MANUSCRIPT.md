@@ -41,7 +41,7 @@ A causeway links Pelangi to mainland ward services. Today the foot line carries 
 
 ---
 
-The half-built resort hums around him — laundry, generators, Mei's terrace already cooking over the marina. He sleeps in a tower room in this stack: failed megaproject turned refugee fill after the founders walked away — room and meals on Mei's chit circle, not a wage he can send anywhere. A stuck fire door on three, a sack of potting mix abandoned on five that everyone else will step around — he knows the climb by heart — and then the ninth-floor garden his father kept for Babaji before the night both parents went on the file as dead.
+The half-built resort hums around him — laundry, generators, Mei's terrace already cooking over the marina. He sleeps in a tower room in this stack: failed megaproject turned refugee fill after the founders walked away — room and meals on Mei's chit circle, not a wage he can send anywhere. A stuck fire door on three, a sack of potting mix abandoned on five that everyone else will step around — he knows the climb by heart — and then the ninth-floor garden **Rasel** kept for Babaji before the night both parents went on the file as dead.
 
 The seedlings have come up pale again. He pinches one off — too thin — and works the row on his knees. His palms prickle around the stems and tell him nothing useful.
 
@@ -83,9 +83,9 @@ Eli's throat closes.
 
 "Where." Not a question. "My terrace. Babaji's hotel. The ninth-floor garden. The reach is getting narrow, Eli. You lost a race and won a job. Take the job."
 
-He says nothing. The parents are not dead. That part is new. The wager is real. Mei's terrace smells of ginger and oil and the particular kindness of feeding someone while the world learns their name.
+He says nothing. The parents are not dead — that part is new tonight. The wager was already real. Mei's terrace smells of ginger and oil and the particular kindness of feeding someone while the world learns their name.
 
-"Eat the rest," she says. "Sleep if you can. **Tomorrow night** you go." She does not hug him. Hugging gets filed. "Forward pays. Shireen's clinic won't wait." She holds his eyes a beat. "If we ever open again, you'll hear from us — not through that port arch."
+"Eat the rest," she says. "Sleep if you can. **Tomorrow night** you go." She does not hug him. Hugging gets filed. "If we ever open again, you'll hear from us — not through that port arch."
 
 She clears nothing when he leaves — leaves the plate like a place held. He walks back through the tower stairwell he knows by heart and does not sleep well. That was the send-off. There will not be another.
 
@@ -143,7 +143,7 @@ Past the fuel dock **Babaji's catamaran** runs south without running lights — 
 
 Suresh does not turn his head. "Don't **burn the thread** on a health stop."
 
-Pelangi Reach shrinks behind the marina wall. Suresh talks his manifest through a channel marker, then a patrol hail, then a floater line where a boy in a yellow vest reads wrist bands and sends one boat back to dock. Wren stands beside Eli at the rail with her after-return face already on — bill-reading, exit-counting — and says, quietly, "First arch is still ahead. You do what I say at each door."
+Pelangi Reach shrinks behind the marina wall. Suresh talks his manifest through a channel marker, then a patrol hail, then a floater line where a boy in a yellow vest reads wrist bands and sends one boat back to dock. Wren stands beside Eli at the rail with her **handler face** already on — bill-reading, exit-counting — and says, quietly, "First arch is still ahead. You do what I say at each door."
 
 The island locks down behind him. Hearth suspended, not surrendered.
 
@@ -185,13 +185,13 @@ Meridian City does not announce itself from the dock. It announces itself as the
 
 The port shuttle is bench seats, wet boots, and a reader at the door that wants manifest, wrist, and the same four questions in a new accent. Wren shows the Cherry Cube call sheet. The reader nods them toward a second queue at the curb — **transit screening**, yellow tape, a gantry smaller than the pier arch and meaner about shoes.
 
-Wren takes the line on the left without reading the sign. Eli follows. A grandmother passes. A dock boy with port shoulders is turned aside — gloved hand on the sternum, routine, worse than rough — and walked to a pen where the tablets are thicker. Eli thinks about cable runs. His palms prickle once. The light decides green.
+Wren takes the line on the left without reading the sign. Eli follows. The gantry hums. His palms prickle once. The light decides green.
 
 At the ring interchange Wren does not let him board the pretty bus. She waits for the numbered one that smells of bleach and fried dough, gets off three stops before the mall concourse, and cuts through a service corridor Eli would never have found alone — mop buckets, not arrows.
 
-The Stack, when he finally sees it, is not one building. It is a vertical city — lanes and galleries and service tiers under grow-lights, transit spines on the official map and nothing else, a place where the translation is instant in six languages and nobody has touched anyone in years. Screens divide arrivals by cohort. Anyone young enough is measured twice: once for risk, once for use. Without Wren he would have stood in the idol's mall concourse until security moved him. She brings him to the **causeway hall** instead — the fourth checkpoint since the pier, the second since the buses, and still not the document lanes.
+The Stack, when he finally sees it, is not one building. It is a vertical city — lanes and galleries and service tiers under grow-lights, transit spines on the official map and nothing else, a place where the translation is instant in six languages and nobody has touched anyone in years. Screens divide arrivals by cohort. Anyone young enough is measured twice: once for risk, once for use. Without Wren he would have stood in the idol's mall concourse until security moved him. She brings him to the **causeway hall** instead — the Eastern Mandate's de facto capital in worker parlance, fourth checkpoint since the pier, still not the document lanes.
 
-Meridian City is the Eastern Mandate's de facto administrative and maritime capital — on every chart, every bus sign, every officer's tablet. The workers in the sorting hall call its vertical core the Stack. Eli reaches the causeway hall with Wren at his shoulder and his boots still wrong for the floor polish — **documentation review** again, family-origin fields turning half the South Asian dock queue amber before anyone reaches the swab chair; an East Asian shipping crew walks through on green while a grandmother in the amber lane is asked for her father's district. Wren picks the lane. Nobody in line asks why. The wall of faces here is the length of a tennis court, laminated, curling, printed by three different offices in three different formats — the missing and the wanted filed together, because at scale the difference stops mattering to the filing.
+Eli reaches the causeway hall with Wren at his shoulder and his boots still wrong for the floor polish — **documentation review** again, family-origin fields turning half the South Asian dock queue amber before anyone reaches the swab chair; an East Asian shipping crew walks through on green while a grandmother in the amber lane is asked for her father's district. Wren picks the lane. Nobody in line asks why. The wall of faces here is the length of a tennis court, laminated, curling, printed by three different offices in three different formats — the missing and the wanted filed together, because at scale the difference stops mattering to the filing.
 
 Above the lanes, a mosaic says **THE EAST ENDURED** in twelve perfectly fitted languages. A cleaner works beneath it wearing six black threads at her wrist. The official histories call Meridian City spared; the worker levels remember that spared was an average, and averages do not attend funerals.
 
@@ -217,7 +217,7 @@ The voice that answers is older, tired, familiar in the way keeper rooms are fam
 
 Silence. Then a chair scrape — someone standing.
 
-Eli moves.
+Eli moves before they reach the door.
 
 Wren is waiting at the mouth of the document lanes when he comes back with his heart going too fast and his palms hot with the useless read — **Malacca**, **Hassan**, **English woman** — words without a frame to hang them on yet.
 
@@ -261,13 +261,15 @@ She does not look up. She knows.
 
 "It's already spent," he says, which is not the same as it not hurting.
 
-The ticket goes into another man's file — some name he will never meet, some case that needed a work history to close — and his own file exhales and shuts. *Records should reach their people,* she says, folding her glasses down as if the sentence were about optometry. *That's the whole job. Upstairs they've decided the job is keeping them.* At the far end of the counter a supervisor's head has come up, the way heads do when a terminal is used at the wrong depth by the wrong lanyard, and she does not hurry — hurrying is a confession — she stamps, tears, and points him at a door marked with a mop-and-bucket sign as if she is directing him to a toilet.
+The ticket goes into another man's file — some name he will never meet, some case that needed a work history to close — and his own file exhales and shuts. *Records should reach their people,* she says, folding her glasses down as if the sentence were about optometry. *That's the whole job. Upstairs they've decided the job is keeping them.* At the far end of the counter a supervisor's head has come up, the way heads do when a terminal is used at the wrong depth by the wrong lanyard, and she does not hurry — hurrying is a confession — she stamps, tears, and hands him a discharge slip marked **contractor lodging**.
 
-"Level down. Ask for the shaft under Cherry Lane. In Bangla."
+"**Continue Inn**, arcade tier — voucher on the bundle. Sleep." Her Bangla comes back, barely. "Cherry Lane at first light **Sunday**. Ask for the shaft under Cherry Lane. In Bangla. Not tonight."
+
+He does not argue. Wren and the clerk agree on one thing: the circus can wait until he has slept.
 
 ---
 
-**Continue Inn** sits on the arcade tier where the Stack's worker housing meets its entertainment budget — a hotel built like a cartridge case, neon pixel font on the awning, lobby carpet that wants to be grass blocks underfoot. The desk clerk scans Wren's contractor voucher without looking up from a handheld race. "Room 408. Floor four is **live play** — cabinets, sim rigs, VR bays until two. Quiet hours after. You break a stick, you buy a stick."
+**Saturday night.** **Continue Inn** sits on the arcade tier where the Stack's worker housing meets its entertainment budget — a hotel built like a cartridge case, neon pixel font on the awning, lobby carpet that wants to be grass blocks underfoot. The desk clerk scans Wren's contractor voucher without looking up from a handheld race. "Room 408. Floor four is **live play** — cabinets, sim rigs, VR bays until two. Quiet hours after. You break a stick, you buy a stick."
 
 The elevator opens on a corridor of actual games. Not wallpaper — **playable**: sit-down fighters with cracked joysticks, a light-gun row, a pod racer with force-feedback that tries to throw you, VR alcoves where men in contractor coveralls still wear their lanyards. Someone has taped a handwritten sign over the OUT OF ORDER sticker on a cable-management sim: *WORK IS ALSO A GAME IF YOU ARE POOR.*
 
@@ -317,7 +319,7 @@ The boy comes closer. Looks at his face the way the clerk looked at his face —
 
 "You're late," the security chief says, reading from a tablet. "Holt. Facilities. Wardrobe power, not —" He gestures at the service lift Eli came out of, then frowns at the screen. "And a flag from below — harbor-thread room, wrong corridor. You walk like you belong and you stand like you listened." He adds, quietly, the way people manage the weather around a star: "Two songs left." The boy nods without looking away from Eli.
 
-"I can't come," he says, and it is not an apology, it is arithmetic — the dancers, the crew, the chanting town of people whose safety is his schedule. "But my show leaks. Wardrobe corridor to the freight ramps, it's cleared for my own people, and someone has already been moving bodies through my leak tonight, so one more is nothing." One corner of his mouth. "You have her face. Try to keep it."
+"I can't come," he says, and it is not an apology, it is arithmetic — the dancers, the crew, the chanting town of people whose safety is his schedule. "But my show leaks. Wardrobe corridor to the freight ramps, it's cleared for my own people, and someone has already been moving bodies through my leak **today**, so one more is nothing." One corner of his mouth. "You have her face. Try to keep it."
 
 They put a wardrobe jacket on Eli because everything in the corridor wears one, and for eleven metres a barrier-gap of fans sees him and screams on principle — a surprise guest, a new member, phones up, a wall of lit hands — and the corridor holds and nobody touches anyone and then he is through, down, out, into diesel air and the smell of hot rubber, where the tire trucks are marshalling under the grandstand ribs.
 
