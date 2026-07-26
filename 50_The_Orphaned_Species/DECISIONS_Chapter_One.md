@@ -6,7 +6,7 @@
 
 | When | Beat |
 |------|------|
-| **Friday AM** | Dawn fishing → garden → **morning skiff race** (10 o'clock) vs Suresh; Eli loses (wind dies, pumps sheet too late); Suresh laughs at marina |
+| **Friday AM** | Garden → **morning skiff race** (10 o'clock) vs Suresh; **Eli wins** — wind pocket, Timah/Jul harvest boat drifts into Suresh's line; Eli reads wall-shadow breeze from quay watching; Suresh crosses own name off slate |
 | **Friday PM** | **Mei final dinner** on terrace — orphan truth (*stolen child*, parents taken alive); **only send-off** (no second goodbye Saturday) |
 | **Saturday AM** | Babaji's **motor catamaran** at anchor — **first time Eli meets Wren**; papers, attestation, call sheet; *"I'm your handler through Meridian City"* |
 | **Saturday PM** | Mandate squeeze → **Wren at marina stairs BEFORE checkpoint** → guides gate → boards Suresh → **raid on Babaji's hotel offices** as Eli departs **last light**; Babaji's catamaran runs south in parallel |
@@ -22,7 +22,7 @@
 
 ## Draft choices — flagged for veto
 
-1. **⟦DC-1⟧ — LOCKED rev. Y.** **Friday AM** race (not dawn departure day). Race loss binds Cherry Cube contract + Shireen pressure. Suresh races Eli personally; wind-die / late sheet-pump loss is specific and on-page.
+1. **⟦DC-1⟧ — LOCKED rev. Y.** **Friday AM** race (not dawn departure day). **Eli wins** → earns Cherry Cube manifest (Suresh goes if he loses). Shireen **Monday** deposit = why he races for **cash**. **Two boats only:** Eli in Suresh's skiff vs Suresh in rice tender. **Timah/Jul harvest drift** forces Suresh to bear away in mid-channel pocket; Eli reads **wall-shadow breeze** (fairway watched from quay/storm wall). Harbor wall calls wind — no third racer. **No dawn boat. Kiran retired from Ch 1.**
 
 2. **⟦DC-2⟧ — LOCKED rev. Y.** **Mei dinner** carries orphan truth (*stolen child*, parents taken alive, Babaji told her years ago). Plate left like a place held. **No Saturday service-door goodbye.**
 

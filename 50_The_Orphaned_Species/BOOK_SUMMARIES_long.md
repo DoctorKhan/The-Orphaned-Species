@@ -33,7 +33,7 @@
 **Route:** the Reclamation / Pelangi Reach → (blocked north) → Singapore / Meridian City → Straits → Malacca → breach → **Thailand (agricultural witness + grounding, Ch 5–10)** → Gulf/Mesopotamia → **Göbekli Tepe** (climax). Bangladesh off-page (Shireen messages). **Mekong/Vietnam retired.**
 
 ### Ch 1 — The Hour That Belongs to No One (Eli · old island + Pelangi Reach)
-**[anchors]** Present: Eli; Kiran, Mei, **Wren**, Suresh, Babaji. Objects: fishing line, failing tomatoes, chandlery paper, **Cherry Cube call sheet**. Eli knows by end Ch 1: parents **taken alive** (**Mei, Friday dinner**); **Wren** worker lane + handler to Meridian; **Saturday PM departure** during **raid on Babaji offices**; hearth **suspended**.
+**[anchors]** Present: Eli; Mei, **Wren**, Suresh, Babaji. Objects: fishing line, failing tomatoes, chandlery paper, **Cherry Cube call sheet**. Eli knows by end Ch 1: parents **taken alive** (**Mei, Friday dinner**); **Wren** worker lane + handler to Meridian; **Saturday PM departure** during **raid on Babaji offices**; hearth **suspended**.
 
 **Ch 1 spine (LOCKED rev. Y):** **Friday AM** race → **Friday PM** Mei dinner / orphan truth → **Saturday AM** Babaji catamaran / first meet Wren → **Saturday PM** squeeze, raid, departure. **Ch 2:** **Saturday eve** checkpoints + clerk → **Continue Inn** (game hotel) → **Sunday AM** Cube → Circuit → Malacca breach.
 

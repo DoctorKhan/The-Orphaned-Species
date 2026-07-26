@@ -2,7 +2,7 @@
 
 > **Drafting lock:** present tense, close third. Eli is the home consciousness. Book I remains in Eli except for Wren's Chapter 4 Laleh-extraction opening, separated from the return to Eli by a hard section break. One scene never enters more than one mind. Governing rule: `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED*.
 
-> **Opening alignment — LOCKED 2026-07-25 (rev. Y):** **Ch 1** — **Friday AM** race (Suresh) → **Friday PM** Mei **dinner send-off / orphan truth**; **Saturday AM** Babaji **catamaran** (**first meet Wren**); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2** — **Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → Sunday Circuit escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. **No Thailand body memory before Ch 5.** Malacca: talents **activate**, not trained. Cube grounding = **Maren**, not martial.
+> **Opening alignment — LOCKED 2026-07-25 (rev. Y):** **Ch 1** — **Friday AM** race (Suresh) — **Eli wins** → earns Cherry Cube manifest; **Friday PM** Mei **dinner send-off / orphan truth**; **Saturday AM** Babaji **catamaran** (**first meet Wren**); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2** — **Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → Sunday Circuit escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. **No Thailand body memory before Ch 5.** Malacca: talents **activate**, not trained. Cube grounding = **Maren**, not martial.
 > - **Ch 1 (below):** governing draft — **LOCKED rev. Y** (see opening alignment). Decision record: `DECISIONS_Chapter_One.md`.
 > - **Ch 2 (below):** governing draft — **LOCKED rev. Y:** Wren escort through **causeway hall**; wrong-room overhear; document clerk → **Saturday night Continue Inn** → **Sunday AM** Cube → convoy → Straits → Malacca breach.
 > - **Ch 3 (below):** governing draft, **merged 2026-07-22** — aftermath through "I'm not going dark." Decision record: `DECISIONS_Chapter_Three.md` flags.
@@ -17,21 +17,19 @@
 
 Eli Holt has no passport that matches his face and no country that will claim him. On Pelangi Reach the morning begins before the paperwork does.
 
-An old woman kneels underwater at the bottom of the sea. She holds a curved knife, cutting stems and methodically placing them into a net bag tied to her belt. A boy drops from the bright surface, lovingly finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again. She does not look up.
+An old woman kneels underwater at the bottom of the sea — **Timah**, the harvesters call her, though she answers to nothing shouted from the surface. She holds a curved knife, cutting stems and methodically placing them into a net bag tied to her belt. A boy drops from the bright surface, lovingly finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again. She does not look up.
 
-Eli watches the two of them from Suresh's boat every dawn he rides with Kiran, then goes back to coiling line on the quay — storm wall, tackle shed, the low waterfront the towers rose behind. He is not crew. Not one of the harbor men. He eats Mei's coffee and gets to the garden first.
+Eli watches the two of them from the quay while he coils line — storm wall, tackle shed, the low waterfront the towers rose behind. He is not crew. Not one of the harbor men.
 
 At the marina Suresh stands with two strait runners — manifest ink on their wrists, home tongue pitched for argument — working whether the weekend line holds through Circuit traffic. One of them taps a name crossed off the loading slate. Suresh hums four wrong notes under his breath, catches himself, goes flat.
 
-Mei's boy hits the quay with coffee. "She says eat."
+Suresh pays Eli in chits — credit at Mei's terrace, how Pelangi pays itself — and points at the rice run. "**Saturday** tide on the strait. Cherry Cube weekend. They pay **cash** up there — corridor wire, not chits." He keeps his voice down. "Walk like you belong until something proves you don't. We're **holding the thread** south through the weekend — don't make the harbor men re-argue your face at every marker." He nods at a patched skiff on the rail — sail tied, bailer in the stern. "Ten o'clock. **My** hull. You win, you're on my manifest — Cherry Cube, stage crew, Meridian City. **Cash.** Babaji's launch **Saturday**, hotel pier. You lose, I go myself and you patch till midnight."
 
-Suresh pays Eli in chits — credit at Mei's terrace, how Pelangi pays itself — and points at the rice run. "**Saturday** tide on the strait. Cherry Cube weekend. They pay **cash** up there — corridor wire, not chits." He keeps his voice down. "Walk like you belong until something proves you don't. We're **holding the thread** south through the weekend — don't make the harbor men re-argue your face at every marker." He nods at a patched skiff on the rail — sail tied, bailer in the stern. "Ten o'clock. **My** hull. You win, you patch till midnight and I find another body. You lose, you're on my manifest — Cherry Cube, stage crew, Meridian City. **Cash.** Saturday, Babaji's launch at the hotel pier. He signs what I can't."
-
-Eli files *thread* under harbor slang and knows the difference: he is on the manifest, not in the room — unless he wins the race and stays on the quay.
+Eli files *thread* under harbor slang. The manifest is Suresh's unless Eli crosses first — and terrace chits don't wire to Dhaka.
 
 He slings the pole towel over his shoulder and heads for the towers — garden first, then the wall line at ten.
 
-His phone buzzes on the ninth-floor landing — Dhaka, Shireen. He doesn't open it yet.
+His phone buzzes on the ninth-floor landing — Dhaka, Shireen. He doesn't open it yet. He already knows what it will say: **Monday**.
 
 ---
 
@@ -43,17 +41,41 @@ When the row is done he takes the service stair down for the race.
 
 ---
 
-The morning race is not official — harbor boys and tower kids on patched sails, a line from the storm wall to the fuel-dock buoy, Kiran on the rail shouting wind like scripture. Eli is in **Suresh's skiff** under harbor terms: first across wins the quay, anything else is Meridian City by **Saturday** tide. Suresh is in the rice tender's old hull — same patch sail, same bad joke — because harbor men do not bet on a boy and stay on the quay.
+The morning race is not official — harbor boys and tower kids on patched sails, a line from the storm wall to the fuel-dock buoy. The wall fills with watchers who are not in the bet: kids from the towers, two harbor men off shift, a kitchen hand with a dish towel still on his shoulder. One of them cups both hands and reads what the towers do to the breeze before the breeze knows itself.
 
-Eli sails to win — not for sport, for Pelangi. **Tiller** in one hand, **main sheet** in the other, feet braced on the windward bench. A gust loads the sail and the patched cloth cracks like a flag. He eases a handspan, bears off with the tiller, hauls sheet until the leech stops fluttering. Suresh is two lengths ahead off the storm wall and not looking back.
+"Ten o'clock!" Suresh casts off the rice tender. Eli casts off **Suresh's skiff** — borrowed hull, borrowed sail, borrowed luck. Harbor terms: first across takes the Cherry Cube manifest; anything else is quay work till midnight. Suresh does not wave. If the boy loses, the harbor man takes the run himself.
 
-Mid-channel the wind dies — not a shift, a pocket, the marina heat eating the breeze whole. Eli's sail goes slack against the mast. He **pumps the sheet** — trim, ease, trim — rocking the hull to steal what isn't there, the trick Kiran swears works if you're desperate enough. The sail fills for a breath and collapses again. Too late. Suresh's hull crosses the fuel-dock buoy while Eli is still a hundred metres out, pumping air that won't stay.
+The storm wall throws the first gust like a door opening — northeast, cool for a breath, then broken as it crosses the marina, the heat off the towers and the concrete already chewing the edge off it. From the wall, the cupped-hands voice shouts it for both hulls: "Lift at the wall! Dies mid-channel! **Fills along the wall shadow** at the buoy if you're still moving!"
 
-Suresh meets him at the marina rail when Eli **pulls in** — sheet coiled, sail flaked wrong, arms burning from work that didn't count. He takes the **painter** without sympathy and laughs — not cruel, the laugh of a man who knew the outcome before the line was drawn.
+Eli sails to win — not for sport. Shireen's deposit is **Monday** and this is the only **cash** job on the strait this weekend. **Tiller** hard, **sheet** in his other fist, toes braced on the windward bench. The patched sail loads and the cloth cracks like a flag. Suresh is two lengths ahead already, hugging the wall where the breeze is still honest — harbor age, harbor waterline — and not bothering to look back.
 
-"You lost. **Saturday** tide. Cherry Cube." He writes Eli's name on the loading slate. "First light tomorrow, hotel pier. Babaji's launch. Thread still wants you there anyway — so don't sulk."
+Eli pinches up, sailing closer to the wind than speed allows, and loses another half-length. Wrong. He bears off, foots for speed, takes the leeward line, and the gap holds. Suresh's wake ticks against his bow.
 
-He coils the skiff's painter at the rail and watches Eli climb out with salt on his knees. The harbor is already putting the race away — sails flaked, boys arguing wind, Kiran gone from the wall. Eli goes up toward the towers and Mei's terrace because there is nowhere else to spend a loss.
+Mid-channel the heat wins. The wind does not shift; it **vanishes** — not a header, not a lull, a **pocket**, the whole fairway going slick and wrong while the towers drink the gradient. Both sails slap the mast in the same dead beat. The skiffs glide on ghost momentum. From the wall: "Pump or pray."
+
+Suresh holds his course — straight for the buoy, the dignity of a man who will not dance for air. Eli **works the sheet** — trim, ease, trim — rocking the hull to steal wind that is not there, the trick every harbor boy tries once and remembers. Once. Twice. The sail bellies and collapses.
+
+Then the water ahead of Suresh **moves wrong**.
+
+**Timah** is there — the same old woman he watches from the quay every morning, the one who kneels on the bottom with a net bag and does not look up. Her grandson **Jul** has surfaced between the hulls, bright and shouting, and their little harvest boat has drifted off its anchor into the fairway, a string of marker floats trailing behind it like a second wake. Timah reaches for a tangled line without seeing the race. Jul laughs the way children laugh when the world is only bubbles.
+
+"Timah!" someone screams from the wall. "**Clear the mark!**"
+
+Suresh sees the floats too late. He throws the tiller — hard bear-away — and the patched sail backs and luffs, bleeding the little way he had left. He shouts something in home tongue that is not for children. Eli has watched this fairway from the storm wall every morning — Timah's markers, which way her boat drifts when the pocket empties. He does not shout. He **falls off** a handspan, slides **inside** the float line — tight, ugly, the kind of line harbor men remember — and pumps again, because Shireen is **Monday** and this is the only cash on the strait.
+
+The sail fills.
+
+Not from the open channel yet — from the **wall**, a ribbon of breeze the towers have not eaten, sliding along the storm wall's shadow toward the fuel dock. Suresh is still wide, still fouled, still blocked by Timah's floats and Jul's head like a cork in the lane. Eli's hull catches the ribbon and **runs**.
+
+From the wall: "**Now!** Hold it!"
+
+The fuel-dock buoy is a smear of red and white. Eli crosses it with the sail still drawing and Timah still mid-reach below the surface, Jul climbing back onto her shoulders, neither of them knowing they just picked a manifest. Suresh's hull crosses three lengths behind, sheet tangled, jaw set with the particular anger of a fair loss.
+
+Suresh meets him at the marina rail when Eli **pulls in** — sheet coiled, sail flaked wrong, arms burning from work that counted. He takes the **painter** without ceremony. For a moment he looks out at Timah's boat, being towed back to the anchor by a harbor boy while Jul waves at no one in particular.
+
+"You won," he says. "Don't thank the grandmother. She wasn't helping you." A beat — not cruel, the laugh of a man who lost a fair bet. "**Saturday** tide. Cherry Cube." He writes Eli's name on the loading slate, crosses his own off beside it. "First light tomorrow, hotel pier. Babaji's launch. Don't make me regret racing a boy."
+
+He coils the skiff's painter at the rail and watches Eli climb out with salt on his knees. The harbor is already putting the race away — sails flaked, boys arguing wind on the wall. Eli goes up toward the towers and Mei's terrace because there is nowhere else to spend a win.
 
 ---
 
@@ -73,17 +95,17 @@ Eli's throat closes.
 
 "I could stay—"
 
-"Where." Not a question. "The reach is getting narrow, Eli. You lost a race and won a job. Take the job."
+"Where." Not a question. "The reach is getting narrow, Eli. You won the race and earned the manifest. Take it."
 
 She clears nothing when he leaves — leaves the plate like a place held. On the ninth-floor landing his phone rings. Shireen. He steps into the service alcove and answers.
 
 "Babu." Her voice is thin with anger. "The deposit is **Monday**. The clinic won't hold the bed without it."
 
-"I'll have it," he says. "Cherry Cube run. **Cash** at intake. I'll wire **Sunday**, before Monday."
+"I won Suresh's bet," he says. "Cherry Cube manifest. **Cash** at intake. I'll wire **Sunday**, before Monday."
 
 "Don't promise if you're guessing."
 
-"I'm not guessing." The race loss still in his knees. "I promise."
+"I'm not guessing." The win still in his arms. "I promise."
 
 The line dies. That was the send-off. There will not be another.
 
@@ -659,7 +681,7 @@ Here is the thought. Ten years he has carried his mother as a closed door — *d
 
 The question didn't die. That is what the night proves. It was never dead. It was held under, ten years, the way he was held under — and it came up the same way he did: burning, and loud, and belonging to someone.
 
-Disappearing wouldn't kill it either. Disappearing would only mean carrying it dark, forever, in a borrowed name — the rattling lid, the unpayable ledger: Hassan in a van because he chose a living man over a ring, Salmah's boat under tow, Nura not looking at the courier, Ilyas carrying the bag with the blue thread, Mei's terrace on a list, Kiran in a lane going left. A quiet life on top of all of it, pretending the question isn't under the floor.
+Disappearing wouldn't kill it either. Disappearing would only mean carrying it dark, forever, in a borrowed name — the rattling lid, the unpayable ledger: Hassan in a van because he chose a living man over a ring, Salmah's boat under tow, Nura not looking at the courier, Ilyas carrying the bag with the blue thread, Mei's terrace on a list, the garden on nine going brown. A quiet life on top of all of it, pretending the question isn't under the floor.
 
 *This felt real,* he thinks — all of it, the net, the van, the handwriting on the page. *I may still be wrong about where it leads. Let's test it in the open.*
 
