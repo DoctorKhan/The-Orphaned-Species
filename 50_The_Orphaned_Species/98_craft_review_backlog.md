@@ -70,7 +70,7 @@
 
 ## 5. ◐ Cast consolidation, plural romance, and the Eli/healer overlap
 
-**Problem.** Large named cast (Eli, Wren, Rowan, Emrys, Crane, Somchai, Sol, four Custodians, Priya, Hassan, Thila, Farida, Rico, Lani, Babaji, Suresh, Mei + deep-time threads). Three sub-issues:
+**Problem.** Large named cast (Eli, Wren, Rowan, Emrys, Crane, Somchai, Sol, four Custodians, Hassan, Thila, Shireen, Rico, Lani, Babaji, Suresh, Mei + deep-time threads). Three sub-issues:
 - **Bloat.** Ask which characters merge or drop. The four-person Custodian team especially — a reader will struggle to hold four coerced-carrier antagonists distinct; consider three, or two vivid + two functional.
 - **The Wren/Rowan/Eli relationship shape** was open and risked adding load in an already-dense book. **Resolved 2026-07-22:** plural V—Wren/Rowan and Wren/Eli romantic; Rowan/Eli non-romantic—with Rowan carrying an independent west-corridor recovery function.
 - **Eli/Somchai overlap — ☑ FIXED.** Two fixes: (1) healing is Somchai's alone; Eli only *reads* bodies (`15`, `32_the_warm_hands`, `26`, et al.). (2) The twin deification-refusals are distinct crowns — Somchai refuses the **crown of the body** in **Vol. II Ch. 18** (worship of his healing; reason = bodily limits, *son of a man*), while Eli refuses the **crown of the polis** in the **Book III attack chapters** (the ruler/founder/one-voice; reason = ownership rebuilds the cage). The order builds: Somchai's bodily refusal is the intimate-scale proof Eli later scales up. Locked in `05`, `32` Ch. 18, and `33`'s climax.
@@ -79,7 +79,7 @@
 
 **Evidence.** `26_present_day_cast_expanded.md`; `99` Rowan pin; `33` Ch 26–27.
 
-- **Suggested direction.** A cast-consolidation pass (merge/cut candidates); lock the triad end-state; differentiate the two refusals (healer = *bodily* limits / son-of-a-man; Eli = *political* refusal of the founder role). **RESOLVED / REVISED (2026-07-22):** Rowan returns on-page in Book II because she now carries an independent west-corridor recovery function and a renewed Wren/Rowan romance. The structure is a plural V (Wren/Rowan + Wren/Eli; Rowan/Eli non-romantic), not a cast-expanding quest companion across all volumes. Lani is folded into an anonymous busker flash; Custodians stay at four. **Priya and Mei remain separate:** Priya carries workplace/systems care, Mei carries food/community care. See `26`, `27`, `99`.
+- **Suggested direction.** A cast-consolidation pass (merge/cut candidates); lock the triad end-state; differentiate the two refusals (healer = *bodily* limits / son-of-a-man; Eli = *political* refusal of the founder role). **RESOLVED / REVISED (2026-07-22):** Rowan returns on-page in Book II because she now carries an independent west-corridor recovery function and a renewed Wren/Rowan romance. The structure is a plural V (Wren/Rowan + Wren/Eli; Rowan/Eli non-romantic), not a cast-expanding quest companion across all volumes. Lani is folded into an anonymous busker flash; Custodians stay at four. **Priya RETIRED 2026-07-25:** Ch 1 attestation/cohort beats → **Wren**; Mei carries hearth; Wren carries systems/manifests. See `26`, `27`, `99`.
 
 **Related:** `99` Rowan pin, #4 (Custodian team), #8 (healer specifics).
 

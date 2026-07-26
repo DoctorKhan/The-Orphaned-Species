@@ -249,7 +249,7 @@ The man with the white eye looks at the boy. The boy closes his schoolbook.
 
 "Men ask after women all day."
 
-"English," Eli says. "Her name was Maren Holt. Always Holt. My father was Rasel Khan — Russell on Mandate files. Rasel. I'm Holt, not Khan."
+"English," Eli says. "Her name was Maren Holt. Always Holt. My father was Rasel Khan — Rasel on the forms, though some people said Russell. I'm Holt, not Khan."
 
 The man's face does not change. That is how Eli knows it has landed.
 

@@ -69,7 +69,7 @@ She loves people and is furious that everyone assumes she will absorb the cost. 
 
 ### The ambitious builder with compromised ideals
 
-She genuinely wants to improve the world and also likes power, prestige, or being the person with the answer. Priya or a Forest Foundry founder could embody constructive systems without becoming a saint or corporate caricature.
+She genuinely wants to improve the world and also likes power, prestige, or being the person with the answer. **Wren** or a Forest Foundry founder could embody constructive systems without becoming a saint or corporate caricature.
 
 ### The believer who is neither foolish nor pure
 
@@ -95,7 +95,7 @@ Do not ask Wren to represent women. Give the novel a small constellation whose d
 |---|---|---|
 | **Wren** | Uses control to create exits | Care becomes management |
 | **Mei** | Holds local authority and distributes care | Community survival versus individual rescue |
-| **Priya / builder** | Believes accountable systems can work | Ambition, compromise, and institutional trust |
+| **Wren / builder** | Believes accountable systems can work | Ambition, compromise, and institutional trust |
 | **Thila / grower** | Holds knowledge outsiders want | Land, livelihood, and refusal of extraction |
 | **Female Custodian or regulator** | Believes coercive containment prevents deaths | Safety purchased through ownership |
 | **Female believer/practitioner** | Trusts embodied or spiritual knowledge | Faith without worship or surrender |

@@ -1,14 +1,14 @@
 # Chapters Eleven–Thirteen — decision record
 
 > **File:** `DECISIONS_Chapters_Eleven_Thirteen.md` (renamed from `DRAFT_Chapter_Eleven_Thirteen.md` 2026-07-24). **Drafted directly into `MANUSCRIPT.md`.** Volume I complete. Flags for veto.
-> **Bangladesh off-page — LOCKED 2026-07-23:** village visit retired; Ch 11 carries lost home through Farida's encrypted messages only.
+> **Bangladesh off-page — LOCKED 2026-07-23:** village visit retired; Ch 11 carries lost home through Shireen's encrypted messages only.
 
-> **Thailand Ch 5–10 / Mekong retired — LOCKED 2026-07-23:** agricultural witness and temple/Pai grounding belong in Ch 5–10, not Ch 11. Ch 11 = Gulf corridor + Farida messages only.
+> **Thailand Ch 5–10 / Mekong retired — LOCKED 2026-07-23:** agricultural witness and temple/Pai grounding belong in Ch 5–10, not Ch 11. Ch 11 = Gulf corridor + Shireen messages only.
 
 ## Ch 11 — The Gulf Corridor
 
 1. **Thailand retired from this chapter** — keeper stilt-house, temple/Pai hinge now live in Ch 5–10 per `31`. Ch 11 opens after the cooperative evacuation; westward bureaucracy only.
-2. **Bangladesh off-page:** Farida texts at Andaman/Bay departure — garden photo, *don't come home*, *four days is a photograph at the bazaar*; Eli maps the distance, closes the chart, routes west through human port doors. No village visit.
+2. **Bangladesh off-page:** Shireen texts at Andaman/Bay departure — garden photo, *don't come home*, *four days is a photograph at the bazaar*; Eli maps the distance, closes the chart, routes west through human port doors. No village visit.
 3. **Hassan alive** via transfer rumor ("memory of cartographic interest" — flagged as non-standard language), consistent with Gulf-holding-site canon; no location.
 4. **The shortcut refused** per the card: biometric convoy vs twenty days of human doors; Wren's "told first" constitution in action.
 

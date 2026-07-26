@@ -128,7 +128,7 @@ Rule (`00_NARRATIVE_STRUCTURE` §6): every leg begins with a **clue**, not a des
 ```text
 VOL I — THE BREACH / SHATTERING
   Pelangi Reach → Malacca breach → THAILAND (agricultural witness + grounding)
-  → Bay of Bengal / Andaman (Bangladesh **off-page** — Farida messages only)
+  → Bay of Bengal / Andaman (Bangladesh **off-page** — Shireen messages only)
   → Gulf / Mesopotamian evidence → GÖBEKLI TEPE
   END: interface race; human domestication evidence; Emrys taken
 
@@ -377,7 +377,7 @@ Three ironies, all load-bearing:
 
 | Volume | Public read of Eli | On-page pressure |
 |---|---|---|
-| **I** | Useful, hunted, "on someone's ledger" | Babaji/name offers; Priya's file; **Malacca thread leap**; Thailand *land is reading* |
+| **I** | Useful, hunted, "on someone's ledger" | Babaji/name offers; **Wren's manifest**; **Malacca thread leap**; Thailand *land is reading* |
 | **II** | Healer-king, **Deiwos**, twin with Somchai | Chalk doors; distorted healing outruns; *sons of Deiwos*; Somchai refusal Ch 18; Sol mirror; **Rootbook / Sanxingdui leaps** read as oracle |
 | **III** | **Messiah by default** — chosen, sky-son, indispensable | Pilgrims/media; throne offer; war coordination; **Pele dream**, talking stones; teahouse projection; bounded crown then step-down |
 
@@ -387,7 +387,7 @@ The houses also carry practical knowledge modern institutions neglected because 
 
 In Malacca, the local **Weavers' harbor branch** moves through chandleries, threshold houses, and route ledgers — not a single domestic scene. Eli meets the Net through **knots** (cord, sign, manifest), **house review** (Ch 4), and Wren's **Unranked** cell before he understands the order's full scale. Full matchmaker blessing discovery remains Book II Ch 5.
 
-**Pelangi Reach inciting catastrophe — LOCKED 2026-07-24:** **not a staged attack.** Babaji's keeper cell **refused transfer** of a carrier flagged at causeway screening and **moved suppressed archive material** (Cherry Cube / Maren evidence chain) off Mandate soil. The **Eastern Mandate** responds with corridor freeze, extended-assessment sweep, cohort registry, and causeway hold — unlicensed keeper activity and **anomalous residents** targeted. Pelangi Reach is politically occupied and fragmented, not burned. Eli holds a **Meridian Circuit weekend facilities contract** (≈3× Pelangi wage; **Farida remittance** pressure); flight intersects that commute. Survivors escape through maritime and Bengali diaspora routes into Meridian City, then north by sea to Malacca. Eli survives; most residents remain scattered, detained, or trapped — obligation to return.
+**Pelangi Reach inciting catastrophe — LOCKED 2026-07-24:** **not a staged attack.** Babaji's keeper cell **refused transfer** of a carrier flagged at causeway screening and **moved suppressed archive material** (Cherry Cube / Maren evidence chain) off Mandate soil. The **Eastern Mandate** responds with corridor freeze, extended-assessment sweep, cohort registry, and causeway hold — unlicensed keeper activity and **anomalous residents** targeted. Pelangi Reach is politically occupied and fragmented, not burned. Eli holds a **Meridian Circuit weekend facilities contract** (≈3× Pelangi wage; **Shireen remittance** pressure); flight intersects that commute. Survivors escape through maritime and Bengali diaspora routes into Meridian City, then north by sea to Malacca. Eli survives; most residents remain scattered, detained, or trapped — obligation to return.
 
 | Act | Plot turn | Revelation / cost |
 |---|---|---|

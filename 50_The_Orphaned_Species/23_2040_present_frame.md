@@ -140,7 +140,7 @@ Endurance state frames episodes as **disease to cure** — centralized medicine,
 ### Climate and agriculture
 
 - **Hotter baseline**, worse monsoon volatility, salt intrusion, crop insurance fights — **visible in South Asia climax** (forming ley line vs irrigation vs blight disputes).
-- **Displacement** is regional and bureaucratic, not only cinematic disaster — documents, cousins at risk (Farida in Dhaka), unreturnable Bangladesh for Eli.
+- **Displacement** is regional and bureaucratic, not only cinematic disaster — documents, cousins at risk (Shireen in Dhaka), unreturnable Bangladesh for Eli.
 - **Pelangi Reach:** coastal/tropical refuge — water management stress, but **functioning** community systems (subak memory from Bali childhood rhymes here thematically).
 
 ### Society and relatability (`15`)

@@ -61,7 +61,7 @@ Each major mouth owns **one rhetorical function**. Drafting rule: one quotable p
 |---|---|---|
 | **Mei** | Hearth law — care before classification | Food, terrace, no debt |
 | **Suresh** | Freight honor — no heroism on the boat | Rice, chits, hospitality ceiling |
-| **Priya** | System skin — forms that eat people | Voluntary, signatures, names on exports |
+| **Wren** | System skin — forms that eat people | Voluntary, signatures, names on exports |
 | **Wren** | Operational ethics — freight, ballast, no jurisdiction | Flat, told-first, boundaries |
 | **Emrys** | Epistemology — numbers, map/territory, bandwidth/depth | "Boy," analog instruments, provisional |
 | **Nura / keepers** | Body discipline — cup, heat, one loud thing | Kitchen plain speech |
@@ -183,7 +183,7 @@ Speak rarely; land once with full weight.
 
 | Phrase | Who says it | Function |
 |---|---|---|
-| *Voluntary.* (echo) | Priya, Mei, registry | coercive care |
+| *Voluntary.* (echo) | Wren, Mei, registry | coercive care |
 | *Recoverable strength* | Union ledgers | male expendability |
 | *They get what they deserve* | sympathetic characters | desert-logic (`29`) |
 | *The twins have come* | Sol, sailors | manufactured myth |

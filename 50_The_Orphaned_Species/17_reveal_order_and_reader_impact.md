@@ -172,7 +172,7 @@ The name, rumor, effect, or handiwork arrives chapters before the body does.
 Canon examples already running this pattern:
 
 - **Maren** — ring photograph, trail, other people's memories of her, long before **Book II rescue** (the reunion is the goodbye).
-- **Rasel** — garden, wage ticket, *Russell* on files, pier line (*both taken*); **alive, unrescued** through Book II; **Book III rescue** (Mandate lab reunion).
+- **Rasel** — garden, wage ticket, **Rasel** on forms (some mouths say *Russell*), pier line (*both taken*); **alive, unrescued** through Book II; **Book III rescue** (Mandate lab reunion).
 - **The healer** — public save → rumor → Eli hears second-hand, before any meeting (LOCKED two-healings order).
 - **The archangel name ladder** — Michael / Gabriel / Persia-prince: allude → reference → recontextualize (`46` § G); names planted volumes before any clarification.
 - **Hassan** — witness who "knows what happened to his mother" is a claim and a ring frame before he is a man in a room.

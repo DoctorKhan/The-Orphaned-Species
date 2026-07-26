@@ -86,10 +86,10 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 ### Ch 1 — The Boat at Morning *(Eli · Pelangi Reach harbor)*
 
 - **Want:** bring a pursued boat of newly awakened refugees safely inside the harbor before exposure, interception, weather, and medical collapse converge.
-- **Obstacle:** Pelangi Reach divides among closure, unconditional admission, and accountable intake that could become a registry. Priya demands bodily and workplace safeguards; Mei feeds and stabilizes people before classification; founders see a model to scale and brand.
+- **Obstacle:** Pelangi Reach divides among closure, unconditional admission, and accountable intake that could become a registry. **Wren** demands bodily and workplace safeguards; Mei feeds and stabilizes people before classification; founders see a model to scale and brand.
 - **Choice → Cost:** Eli takes temporary operational control, delegates effectively, and gets everyone ashore. His decisions work.
 - **Political consequence:** residents and connected communities begin treating his successful emergency authority as the natural center of the growing network.
-- **Garden return:** Rasel's plot is thriving under shared care. Mina and Lopa began the recovery; Mei supplies compost; Priya protected it through a maintenance rota; refugee families add unfamiliar crops. Eli's failed tomatoes grow through grafting rather than his father's method. Gratitude arrives with the fear of having been replaced.
+- **Garden return:** Rasel's plot is thriving under shared care. Mina and Lopa began the recovery; Mei supplies compost; **Wren protected it through a maintenance manifest**; refugee families add unfamiliar crops. Eli's failed tomatoes grow through grafting rather than his father's method. Gratitude arrives with the fear of having been replaced.
 - **Forward pressure:** one frightened refugee cannot reliably keep other minds out and asks Eli not to surrender them to a state program.
   **Named people — LOCKED:** the refugee is **Tomas Okafor**, a young electrical worker traveling with his older sister Nia; both want ordinary work, privacy, and a place where their family is not treated as a threat.
 - **War made personal:** the boat's missing places belong mostly to men stopped at checkpoints as probable fighters, recalled by old units, refused civilian passage, or left behind so relatives could take their seats. The men who arrive are searched twice—first as threats, then as labor—and apologize for wounds that make them less useful.

@@ -235,14 +235,14 @@ The Thread is not only a maze. It **sorts whichever male leaders still remain** 
 
 | Parent | Passport / citizenship | Claimed by | Custody register |
 |---|---|---|---|
-| **Rasel Khan** | Bangladeshi / South Asian file | **Eastern Mandate** | *Russell Khan* — indispensable personnel, black-lab transfer |
+| **Rasel Khan** | Bangladeshi / South Asian file | **Eastern Mandate** | **Rasel Khan** on files — indispensable personnel, black-lab transfer |
 | **Maren Holt** | British / UK file | **Charkha Measure / Ring** (Crane apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
 
 **Why they were separated:** not only attack violence — **claim routing**. Extraction-night intercept: Mandate files **Rasel**; Measure/Ring files **Maren**; no joint holding across orgs. Inter-bloc rules forbid merging chains; even if both survive the handoff, they **leave on different vehicles** toward different jurisdictions. Eli remembers one night; the file system remembers **two nationals, two claims**.
 
 **Eli's passport:** **Eli Holt** on **British (maternal) paperwork** — would Union/Measure-route as British dependent if linked to Maren's claim file; keeper protocol **unlinks** him (*orphan on paper*) so neither chain gets a clean dependent match. His **statelessness** in 2040 is partly real, partly net mercy.
 
-**Craft rule:** Vol I — one border stamp, two file flags, *Russell* vs *Rasel*, *English woman on the file* in separate rooms; save exposition for Vol II suppression scene or corridor documents.
+**Craft rule:** Vol I — one border stamp, two file flags, *Rasel* on the forms (some mouths still say *Russell*), *English woman on the file* in separate rooms; save exposition for Vol II suppression scene or corridor documents.
 
 ---
 
@@ -256,9 +256,9 @@ The Thread is not only a maze. It **sorts whichever male leaders still remain** 
 
 **Not** a Ministry of Child Security or blanket camp policy on-page unless earned later. **One family, one net decision, one file lie** — protective lying, not abandonment. Street distinction keepers teach: **stolen child**, not orphan. Parents did not choose distance; the net chose **survival over truth**. Blocs may also separate families on capture — same logic, colder paperwork.
 
-**Eli = template case:** extraction splits him from Maren and Rasel; Somchai stabilizes; escape net moves him toward Thailand; net lore = both parents dead; **Eli Holt** on passport, not *son of Russell Khan / Maren Holt, claim-category household*. Pier reveal names the mercy: *dead on the file so you could live.*
+**Eli = template case:** extraction splits him from Maren and Rasel; Somchai stabilizes; escape net moves him toward Thailand; net lore = both parents dead; **Eli Holt** on passport, not *son of Rasel Khan / Maren Holt, claim-category household*. Pier reveal names the mercy: *dead on the file so you could live.*
 
-**Craft rule:** do not exposition-dump the protocol in Vol I — show wage ticket, wrong corridor flag, *boy on the call sheet*, Babaji's pier line. General rule stays author/keeper register until a scene earns it.
+**Craft rule:** do not exposition-dump the protocol in Vol I — show wage ticket, wrong corridor flag, *boy on the call sheet*, Mei's **Friday dinner** line. General rule stays author/keeper register until a scene earns it.
 
 ### Capacity claiming — talents and minds
 
@@ -282,11 +282,11 @@ The Thread is not only a maze. It **sorts whichever male leaders still remain** 
 | Bloc surface | Merit rhetoric, talent prizes, recall notices — the trap dressed as opportunity |
 | Street irony | The competent get claimed; the flashy get claimed faster |
 
-**Not cowardice** — rational response to **capacity claiming**. **Not foolproof** — files merge, someone clocks you anyway (*boy on the call sheet*), emergency still needs the fast hand. **Craft rule:** show **collective habit** (Priya signs off average times; a clerk yawns through a prodigy; two workers trade the hard splice so neither logs it solo) — Eli inherits the norm from **foster/worker raising**, not unique virtue.
+**Not cowardice** — rational response to **capacity claiming**. **Not foolproof** — files merge, someone clocks you anyway (*boy on the call sheet*), emergency still needs the fast hand. **Craft rule:** show **collective habit** (Wren signs off average times; a clerk yawns through a prodigy; two workers trade the hard splice so neither logs it solo) — Eli inherits the norm from **foster/worker raising**, not unique virtue.
 
 **Craft rule (individual):** show **hidden talent** through work behavior — Eli finishes the diagram in his head but logs the slow time; he remembers the corridor after one walk but doesn't offer to lead. **Performing average** is survival craft, not false modesty.
 
-**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **TBI** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Hinge folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-24 (rev. C):** Priya may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Meridian contract** = scheduled leave away from island scrutiny.
+**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **TBI** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Hinge folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-25 (rev. R):** Wren may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Meridian run** = **Suresh race wager loss** + compound attestation; leave away from island scrutiny.
 
 ---
 
@@ -809,7 +809,7 @@ The trilogy's deep subject is **discovering the meaning of life through three co
 - The **four-corner grid** (`05`) is the *political* expression of circles 2–3. The three circles are the *lived* spiritual path. Eli's outer plot (mother, registry, web) is the vehicle; the inner plot is moving from estranged → befriending at each circle, then unifying the two trees (Life + Knowledge made one; body/family/civ in right relation) — the historical endpoint, **not a throne**.
 - **Mapping to cast:**
   - *Body circle:* Eli's receiver/TBI; the healer's bodily refusal (crown of the body, `05`); the Custodians as "NPCs" who took the collar (programmed, owned).
-  - *Family circle:* Eli's mother search; Wren's prior-love/custody instinct; Pelangi Reach; Farida.
+  - *Family circle:* Eli's mother search; Wren's prior-love/custody instinct; Pelangi Reach; Shireen.
   - *Civilization circle:* Crane; the registry; Sol's faction; the final coalition.
   - *Two-tree unification:* the web clarified as one field; care without ownership; the Vol III endpoint.
 

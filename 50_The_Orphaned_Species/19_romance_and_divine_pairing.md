@@ -478,7 +478,7 @@ Lesson:
 
 **Governing structure:** Rowan returns on-page in Book II and renews her romance with Wren. Eli/Wren also remains a developing romantic bond. Rowan/Eli is not romantic. The result is a **V centered on Wren**, held through disclosure, consent, and separate terms for each bond—not a competition, closed triad, or automatic group relationship. Rowan has an independent west-corridor objective and cannot exist to validate or threaten Eli's desirability.
 
-Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already coordinated with Wren before Eli understands their history. **Look:** black hair; Wren is blonde. The contrast may register, but neither woman is staged for comparison. If Wren reads exits, Rowan remembers costs.
+Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already coordinated with Wren before Eli understands their history. **Heritage / look — LOCKED 2026-07-25:** **British / Irish diaspora** (strait corridor); **blonde hair, blue eyes.** Wren is **Malay Chinese**, dark hair — visual contrast may register; neither woman staged for comparison. If Wren reads exits, Rowan remembers costs.
 
 The weak question is *whom will Wren choose?* The strong question is: **can two different loves remain truthful without becoming hierarchy, concealment, or custody?**
 

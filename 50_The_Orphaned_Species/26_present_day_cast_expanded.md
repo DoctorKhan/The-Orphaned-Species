@@ -48,14 +48,14 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Past:**
 - **Ordinary life:** fugitive years largely **off-page in Vol I** — Bangla, food memory, **Bali rhythm** leak forward; **no martial before Ch 5**. **Upbringing — LOCKED 2026-07-24 (rev. C):** **Bali childhood** with parents (subak, gamelan, community); Bangla/culture from **Rasel and Maren**; **keeper foster parents** after extraction; **raised as a worker**. **Visuo-spatial talent** hidden under capacity claiming; TBI inconsistent. **Fugitive Thailand:** Somchai, wat breath only — **no martial**. **Present Ch 5–10:** first on-page martial + chi-body. **Pelangi:** Foundry only; talent pressure = spatial/splice. Pai, Khun Dang = Vol I present, not exposition dump.
-- **Turn:** extraction attack — father **taken** into **Mandate** lab custody (Bangladeshi passport / **Russell Khan** file), mother **removed** on **Measure/Ring** chain (British passport — **passport split**), **TBI**; healer stabilizes then **escape network separates them** and moves Eli through **Thailand**; outbreak + Pelangi Reach refuge = first place that felt like **chosen** belonging, not only hiding.
-- **Unreconciled:** song with no name; garden kept **badly** (father's craft without mastery); cousin **Farida** still in Dhaka; never got to mourn on his own terms. **Naming:** Maren's **Eli** everywhere official; Rasel's **Babu** (dak nam) at home only — body-memory, not plot key.
+- **Turn:** extraction attack — father **taken** into **Mandate** lab custody (Bangladeshi passport / **Rasel Khan** on files), mother **removed** on **Measure/Ring** chain (British passport — **passport split**), **TBI**; healer stabilizes then **escape network separates them** and moves Eli through **Thailand**; outbreak + Pelangi Reach refuge = first place that felt like **chosen** belonging, not only hiding.
+- **Unreconciled:** song with no name; garden kept **badly** (father's craft without mastery); cousin **Shireen** still in Dhaka; never got to mourn on his own terms. **Naming:** Maren's **Eli** everywhere official; Rasel's **Babu** (dak nam) at home only — body-memory, not plot key.
 
 **Want:** **rescuing his parents** — Maren (Book II), Rasel (Book III). Everything else is means or consequence. Beneath that: a life where he can be ordinary without lying about what he is — cook, garden badly, belong.
 
 **Not seeking:** power, throne, permanent command, chosen-one ownership — though others will offer all of these because he is useful on the rescue path.
 
-**Wound:** believed **orphan** (both parents dead on net lore — **keeper file-security protocol**, child off claim-household link) until **Pelangi pier reveal** (Ch 1); **TBI**; every faction wants to name him.
+**Wound:** believed **orphan** until **Mei, Friday PM dinner (Ch 1)** — *stolen child, parents taken alive*; **TBI**; every faction wants to name him.
 
 **Habit:** goes quiet and competent on the line or over a blade; loses words under rush or surge; touches soil when frightened; **returns to breath** under overload when the habit still works (Thailand seed — see `15` § *Eli's meditation seed*).
 
@@ -65,7 +65,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Scene seeds:** fixes Rina's fire door without being asked; refuses prophecy language once per volume; one moment per volume where he **almost** takes the collar road (registry "for protection") and Wren or Emrys stops him with a look, not a speech.
 
-**Book III garden return — LOCKED:** the plot he believed was his private inheritance has become a shared garden and is healthier for it. Mina, Lopa, Mei, Priya, and refugee growers kept it alive by changing it; grafted tomatoes succeed where Eli's imitation of Rasel failed. Eli must grieve replacement before he can participate without reclaiming ownership.
+**Book III garden return — LOCKED:** the plot he believed was his private inheritance has become a shared garden and is healthier for it. Mina, Lopa, Mei, **Wren** (maintenance manifest), and refugee growers kept it alive by changing it; grafted tomatoes succeed where Eli's imitation of Rasel failed. Eli must grieve replacement before he can participate without reclaiming ownership.
 
 ---
 
@@ -73,10 +73,10 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Function:** constructive control with a body; secret rescuer inside the ring; romance lead.
 
-**Look:** **blonde** — practical, not decorative; tied back, hood-ready, salt-stiff after a run.
+**Heritage / look — LOCKED 2026-07-25:** **Malay Chinese** — East Asian descent; strait-port upbringing (Pelangi/Meridian corridor register). **Dark hair** — practical, not decorative; tied back, hood-ready, salt-stiff after a run.
 
 **Past:**
-- **Ordinary life (softer Wren):** pre-ring **port/refugee intake** during outbreak reopening — manifests, quarantine lanes, shift meals with people from the records/supply side and the wider Bengali–Malaccan mutual-aid web. Before full-time intake swallowed her life, she wanted to design **public rooms that did not humiliate the people waiting in them**: clinics with courtyards, benches that let families sit together, intake desks that did not resemble judgment. Competent but **still allowed ordinary want**: sleep, food, unguarded laughter. Fell for people in **shifts and shared rain**, not extraction adrenaline — first an **older Chinese-Malaysian ex** (protection, access, real age-and-resource asymmetry), then **Rowan** (Bengali, close in age, belonging through the diaspora web).
+- **Ordinary life (softer Wren):** pre-ring **port/refugee intake** during outbreak reopening — manifests, quarantine lanes, shift meals with people from the records/supply side and the wider Bengali–Malaccan mutual-aid web. Before full-time intake swallowed her life, she wanted to design **public rooms that did not humiliate the people waiting in them**: clinics with courtyards, benches that let families sit together, intake desks that did not resemble judgment. Competent but **still allowed ordinary want**: sleep, food, unguarded laughter. Fell for people in **shifts and shared rain**, not extraction adrenaline — first an **older Chinese-Malaysian ex** (same strait-port web; protection, access, real age-and-resource asymmetry), then **Rowan** (**British / Irish diaspora**, close in age — same strait-corridor Weaver house, not the same passport story as Wren).
 - **Turn (layered — REVISED 2026-07-22, author direction: the ring never recruited her):** in their threshold years, Wren and **Rowan — her ply** — **discover the ring together**: a training-sister from their house disappears into a quarantine pickup; they trace her through the Net's capillaries and find the harvest apparatus at the end of the trail. Their first joint rescue attempt fails — *the failed extraction* that ends their shared life (`19` § Formative bond and renewed desire). The ply splits **over doctrine, not love**: Rowan holds the Weaver way — *distance*: corridors, patience, memory; Wren goes **Unranked** (`29` § The Unranked) — off the loom, into the loose cells of leavers who run what the houses won't: contact-range extractions, knife-distance interference, dirty trades. **FINAL REVISION 2026-07-22 (supersedes "ring handler" and "wears the ring's skin" framings; flag `00_NARRATIVE`/`05`/`99` #3 phrasing for the canon pass): Wren was never ring, never inside it, never intimate with it.** She is an Unranked operator; her knowledge of the apparatus is the Unranked's collective adversarial craft plus the co-discovery trace — a striker's knowledge, not an insider's. To Eli, to observers, and to the reader she is simply **unplaceable** — courier? state? contractor? network? — because the category she belongs to isn't public, and that is where the mystery lives: not intimacy with the enemy, but membership in something the world has no name for. The order, meanwhile, has never lost her thread: *you can leave the loom; you cannot leave the ledger* — the houses monitor the Unranked without command, which is the quiet mechanism behind the Weaver blessing (`40`) and a claim on her she never consented to. The grey survives: Unranked cells trade dirty to stay alive, and no house audits their ledgers. Contact with Rowan's strand goes dark — house and Unranked do not correspond directly. **Mira** (love in the Unranked years; the extraction she couldn't save) turns scattered strikes into the organized network. One structure, two ends — Wren/Asha's Unranked cell at contact range, Rowan the west corridor — that do not meet again until Book II. Soft Wren trades for exit-first survival.
 - **Temperament layer (author direction 2026-07-22 — keeps the split honest):** the doctrine was true *and* it was the argument that let a girl who couldn't sit still leave the loom with honor. Wren was **half-brilliant at the Weaver way**: the best route-reader her house had seen and the worst sitter — crossings yes, vigils no. The ply worked because it was complementary — **Rowan the sitter, Wren the runner** — so leaving broke a working machine of two, not just an argument. She has spent years unable to tell whether the infiltration was her choice or the intensity-hunger wearing strategy as its argument, and the book does not answer for her. Rowan's reunion version: *"You didn't leave because inside was the only way. You left because we were slow."* Both true. **The arc's shape:** the woman who left the slowest craft dreams of the ferry-terminal threshold house — courtyards, benches, a place to arrive. She left the loom for speed; her secret blueprint is a loom of her own.
 - **The deepest want (author direction 2026-07-22 — beneath the runner):** she wants to be **taken care of. To be held.** This is the floor under everything: *falls apart when cared for* and *snaps at unasked kindness* are not quirks — the want is so deep that receiving it casually is unbearable. And the older ex taught her that protection becomes control, so she can only be held by someone **strong enough to hold without gripping** — strength that never converts to custody. **She senses that capacity in Eli before it is real** — he is strong enough, but not without developing himself — which is why she helps him come to fruition, and why the helping is never only mentorship or mission: half-knowingly, she is building the one person who could finally hold her safely. His growth matters to her beyond anything she'd admit; his weakness frightens her more than danger does, because if he stays unfinished, no one ever holds her. **Reciprocal fruition** (`19` § Personal function): she grows his emotional capacity — feeling separated from disguise — and his grown strength becomes the holding she wants; the trade is real in both directions and named in neither. **His half of the regulation (author direction 2026-07-22): Eli keeps Wren grounded.** He is the stillest thing in her life — splice-calm, garden patience, the cup-craft steadiness he learned from the lay teachings without knowing their source — and the runner's missing counterweight: near him her speed has somewhere to idle. Behavior, never speech: she starts taking her one-cup rail-stares *beside* him; sleeps through a whole night once when he has the watch; catches herself matching his breath during a crossing and files the discovery with the plank trip. He grounds her the way she opens him — sideways, deniably, in freight terms. **The penetration mechanism (author direction 2026-07-22):** she gets through him because **his armor is amateur counterfeit and she is the professional** — usefulness, deflection-into-work, silence are performances, and she has worn every performance there is; his are glass to her. The inversion completes it: **his gift barely works on her** — her body is trained to lie ("unexpectedly precise when lying"), her signals professionally managed — so the boy who reads everyone must learn this one woman by ordinary means: attention, time, error, repair. What he *can* reach is the one unfaked thing in her — the turbulence itself, the runner's engine — which is why his real stillness regulates what no management ever could. Her skill penetrates his masks; his substance steadies her truth. Neither ability works on what the other actually is — only on what the other pretends. Keep it strictly non-psionic: she reads him as craft, he steadies her as presence; no Lance, no probe, ever, between them. **Climactic register:** her being-held, when it finally comes, is *her* bravest act — the spider-cup inverted; receiving is her cliff. Never staged as a woman completed by a man: it is chosen, late, with her armor set down by her own hands. **Social dimension (`29` § The burden falls on masculine-leaning women):** her unheld state is not only personal wound but the settlement's design — she is the type specimen of the women conscripted into the vacated spending-work, doubly unkept: wrong-shaped for the settlements' warmth, unfiled by any order. When Eli holds her, the book is also showing the first maintenance ever performed on the settlement's load-bearing wall.
@@ -94,6 +94,8 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Voice:** flat under stress; unexpectedly precise when lying; rarely explains twice.
 
+**Deepening — Pelangi Reach Vol I Ch 1–2 (LOCKED 2026-07-25 rev. Y):** See `31` rev. Y opening cards. **Wren:** first meet **Saturday AM catamaran**; **handler through causeway hall**; marina **before** gate **Saturday PM**. **Mei:** **Friday dinner only** — no second goodbye. **No Mei/Wren overlap.**
+
 **Deepening — solo network movement (Vol I Ch 4 opening — corrected 2026-07-22 to match the `31` opening cards and the MANUSCRIPT drafting lock):** the Book I exception is a **Wren-POV** sequence where she moves a carrier out **without Eli on page** — forged manifest, sonic misroute, a decoy left behind. The carrier, **Laleh**, clearly says she will not leave without returning for her younger sister. Wren hears panic instead of refusal, changes Laleh's route without telling her, and calls it triage. Laleh discovers the deception at the handoff, bolts back toward the old route, and both sisters disappear into custody. Wren falsifies the ledger as a completed transfer so the route stays alive. No Eli, rescue, or confession resolves it. The failure becomes the private proof that Wren's care can reproduce the Ring's logic. Return to Eli only after a hard section break (`14` § *POV architecture — LOCKED*).
 
 **Armor-break comedy:** three flawless exits, then trips on a stair she knows; hates that Eli saw it. Complementary cowardice: she'd cup the spider; falls apart when cared for.
@@ -102,7 +104,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Authentic contact — shocking, not sweet (2026-07-21):** when the real thing arrives, it does not feel like a better version of the counterfeit — it feels *wrong*. Manufactured intimacy follows scripts, can be steered, and ends when the operation ends; the authentic version obeys none of her craft. She cannot read its exits, cannot steer it, and it exposes *her* instead of her mark. First reactions: mislabeling (she assumes a con is being run on her and looks for the handler behind Eli), competence collapse (the stair trip; snapping when someone is kind without asking — her existing habit is this beat in miniature), and flight into work. **Drafting rule: write her authentic moments as disorientation beats, not warmth beats.** Warmth is what she knows how to fake; confusion is her evidence it's real — for Wren, comfort reads as suspicious and bewilderment as proof. The middle of her arc is learning to sit in the confusion without converting it into an operation.
 
-**Prior and renewed loves:** Rowan, a Bengali woman close to Wren's age and embedded in the Weavers' Bengali–Malaccan branch, was the significant love before Mira and returns on-page in Book II — **Wren's training ply, never unbound** (`29` § The ply). Their formative bond never fully unbound, and they renew their romance under new terms. An older Chinese-Malaysian ex came earlier, offering experience, protection, and access while creating a real age and resource asymmetry; she remains off-page. Wren/Rowan and Wren/Eli become concurrent romantic bonds; Rowan/Eli is non-romantic. Wren knows the Weavers' rituals but does not speak for all its houses.
+**Prior and renewed loves:** **Rowan** — **British / Irish diaspora** in the strait corridor, close to Wren's age, trained in the **same mixed-diaspora Weaver house** (not Bengali; not Malay Chinese — the harbor branch takes who it takes). Significant love before Mira; returns on-page Book II — **Wren's training ply, never unbound** (`29` § The ply). Their formative bond never fully unbound, and they renew their romance under new terms. An older **Chinese-Malaysian** ex (same strait-port ecology as Wren's **Malay Chinese** upbringing) came earlier, offering experience, protection, and access while creating a real age and resource asymmetry; she remains off-page. Wren/Rowan and Wren/Eli become concurrent romantic bonds; Rowan/Eli is non-romantic. Wren knows the Weavers' rituals but does not speak for all its houses.
 
 **Living female relationship — Asha Noor:** co-founder and quartermaster of the extraction network; a former threshold-house nurse in her early thirties who knew Wren at port intake before she became a handler. Asha is friend, older peer, and civic co-dreamer — never parent, lover, or subordinate. She stores Wren's ferry-terminal drawings and thinks the house should be built now, in pieces, rather than after an imaginary victory. She loves Wren but does not admire all her methods. After Laleh disappears, Asha recognizes the falsified ledger and refuses to certify another route until Wren adds explicit **return rights, informed-route consent, and an independent abort contact**. Their argument is the seed of the network's eventual accountable limits.
 
@@ -142,11 +144,11 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ## Rowan *(on-page in Book II — Wren's prior love; west-corridor liaison)*
 
-**Look:** black hair (Wren is blonde — `19`: the contrast may register, but neither woman is staged for comparison). If Wren reads exits, Rowan remembers costs.
+**Heritage / look — LOCKED 2026-07-25:** **British / Irish diaspora** in the strait corridor — **not Bengali.** **Blonde hair, blue eyes.** Name **Rowan** kept; rowan-branch protocol in Book II = acknowledged coincidence once, then dismissed (`26` § Rowan-branch protocol). Wren is **Malay Chinese**, dark hair — visual contrast may register; neither woman staged for comparison. If Wren reads exits, Rowan remembers costs.
 
 **Decision (reopened and locked 2026-07-22):** Rowan appears in Book II Chapters 5–7 as Wren's prior love—the one before Mira—and as a present-tense Weaver/mutual-aid operator. **Co-discovery (author direction 2026-07-22):** the ring never recruited Wren — she and Rowan discovered it together in their threshold years (the traced training-sister; the first failed rescue that ended their shared life), and the ply split over doctrine: Rowan the outside way, Wren the infiltration. The extraction network is one structure with two ends, and Book II's reunion is the ends meeting. The older Chinese-Malaysian ex remains off-page. Rowan and Wren **renew their romance on-page**. Eli/Wren also remains real; Rowan/Eli is not romantic. The resulting structure is a consent-explicit **V centered on Wren**, not a closed dyad, competitive triangle, or three-way triad.
 
-**Ordinary life:** Bengali, close to Wren's age, formed by port work, shift meals, intake queues, and the Bengali–Malaccan mutual-aid web. She remembers costs in names rather than totals. Affectionate without being yielding; practical, black-haired, dryly funny, and less impressed by Wren's competence than almost anyone alive.
+**Ordinary life:** **British / Irish diaspora**, close to Wren's age, raised in the strait corridor — port work, intake queues, shift meals, Weaver training in a **mixed-diaspora harbor house** (Bangla and Malay and English on the same bench). She remembers costs in names rather than totals. Affectionate without being yielding; practical, dryly funny, and less impressed by Wren's competence than almost anyone alive.
 
 **Training-ply history — LOCKED 2026-07-22:** Rowan and Wren were teenagers training inside the same Weaver branch when they began repeatedly **going together** under the rule that no trainee goes out of sight alone. Their attachment formed in unperformed bodily life: night latrines, washing, menstruation, changing clothes, sickness, nightmares, injuries, shared sleeping space, forbidden laughter, and one girl facing outward while the other was vulnerable. Elders did not assign them. The house ratified the pair only after the choice had become habitual, keeping them as a **ply**. Friendship came first; attraction and romance emerged through its intensity, safety, embarrassment, and survival. This is why their later coordination is instinctive and their separation lives in the body rather than only in memory.
 
@@ -287,11 +289,11 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Bio:** old friend of **Rasel Khan** — Rasel planted for him on **Old Pelangi** before the Reclamation towers. When the net broke after extraction, Rasel sent **a name, not money**; Babaji gave Eli **work at Foundry, not a wallet**. Keeps a small **keeper cell** (tea room, harbor threads) but is **not** a mystic order head.
 
-**On-page texture:** **old hotel** on the Reclamation (half boarded, half laundry — keeper base, **tech labs**, **portable brain scanners**, tea room); plaza **robot dogs** (Eli resets routes as facilities hand); **automatic chess boards**; wine-coloured car parked outside; kettle, four quiet men, *door was open*.
+**On-page texture:** **old hotel** on the Reclamation (half boarded, half laundry — keeper base, **tech labs**, **portable brain scanners**, tea room); **Wren** runs front-of-house — host/assistant, beautiful, composed; plaza **robot dogs**; **automatic chess boards**; **wine-coloured car** parked outside; **massive motor catamaran** at anchor off the channel mark (twin white hulls, wide bridge, dark glass — wrong for Pelangi, perfect for Babaji); hotel **launch** for handler runs; kettle, four quiet men, *door was open*. **Wren has no Mei/terrace overlap on-page.**
 
-**Pelangi Reclamation — LOCKED 2026-07-24 (rev. D):** **not an active tech hub.** The **Forest City / Forest Foundry megaproject failed** and the founders **walked away**; the resort shell is **abandoned mid-boom**, repurposed as **refuge**. Babaji kept critical systems alive (desal, pumps, generators) and runs a **keeper cell** from the **old hotel** with leftover tech — robot dogs, chess boards, brain scanners, patched uplinks — **not** a startup floor. Royal kiosks still **claim** climate-future propaganda; the lived place is **Mei's terrace, tower gardens, and maintenance debt**.
+**Pelangi Reclamation — LOCKED 2026-07-24 (rev. D):** **not an active tech hub.** The **Forest City / Forest Foundry megaproject failed** and the founders **walked away**; the resort shell is **abandoned mid-boom**, repurposed as **refuge**. Babaji kept critical systems alive (desal, pumps, generators) and runs a **keeper cell** from the **old hotel** with leftover tech — robot dogs, chess boards, brain scanners, patched uplinks — **not** a startup floor. Royal kiosks still **claim** climate-future propaganda; the lived place is **Mei's terrace, tower gardens, and maintenance debt** — separate spheres from Babaji's hotel.
 
-**Ch 1 beats — LOCKED:** tea — *Rasel's boy; work not wallet; walk under my name*; keeper refusal named. Pier — orphan reveal (*both taken; dead on the file so you could live*); Eli **still boards**.
+**Ch 1 beats — LOCKED 2026-07-25 (rev. Y):** see `31` opening cards. Catamaran papers; **Wren first on-page Saturday AM**; handler through **causeway hall**; **Saturday PM departure** + raid; Babaji **catamaran south** same hour.
 
 **Guardrails:** does **not** know where Maren/Rasel are held; not rescue GPS; not cosmology expositor; wealth shields, does not solve the war.
 
@@ -299,7 +301,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ## Suresh *(Pelangi Reach supply / boat)*
 
-**Function:** threshold guardian; kitchen-network link to Malacca clue.
+**Function:** threshold guardian; **harbor Thread** contact; **skiff race wager** (lose → Cherry Cube manifest); kitchen-network link to Malacca clue.
 
 **Past:** **family boat** before outbreak — rice and cousins, not heroes; **Iqbal** played music in ports until quarantine pickup.
 
@@ -315,29 +317,15 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 ---
 
-## Priya Nair *(Pelangi Reach facilities scheduler → worker-status liaison)*
+## Priya Nair — **RETIRED 2026-07-25**
 
-**Function:** workplace authority and constructive-control argument at human scale. Priya notices whether Eli can safely keep working, what his documentation exposes him to, and when a protective form becomes a leash. She is distinct from Mei: **Priya protects through systems and work; Mei protects through food, trust, and community.**
-
-**Past:** trained in facilities logistics and occupational safety during the reopening, when a missed inspection could close a whole residential block. She learned that records can force employers to provide rest, medicine, and compensation; she also watched the same records become cohort lists for removal. A former coworker died after staying invisible to avoid a registry flag.
-
-**Want:** build enough documentation to make institutions responsible for workers without making workers legible to hunters.
-
-**Habit:** assigns ticket numbers to personal favors so nobody owes her privately; hesitates before entering health information; notices tremor, fatigue, and overload before Eli admits them.
-
-**Vol I:** signs Eli's shifts, quietly adapts work around his TBI without infantilizing him, and recognizes the Friday overload. When white coats request the facilities cohort, she delays and corrupts the export, costing her job access and placing herself under review.
-
-**Vol II beat:** working as a displaced-worker status liaison, she offers Eli legal protection if he submits a baseline scan, then permits Wren's counter-record to pass. *"It's not ownership, it's visibility,"* she says, and means it. Her mistake is believing good administrators can permanently control how collected data will be used.
-
-**Voice:** concise and procedural until angry; dry about founders; never says *trust the system*, only *make the system sign its name*.
-
-**Guardrails:** not a doctor, maternal substitute, or faceless bureaucrat. Her systems sometimes genuinely protect people. She and Mei may disagree without either representing the single correct form of care.
+**Former function:** Pelangi Reach facilities scheduler → worker-status liaison. **Ch 1 compound attestation, cohort squeeze, call sheet, dawn manifest → Wren** (intake cover on Pelangi). Book III procedural beats → **Wren/Asha network** or **Mei** hearth logistics. Do not reintroduce on-page without author pass.
 
 ---
 
 ## Mei Lin *(Pelangi Reach kitchen manager / community hearth)*
 
-**Function:** local trust, nourishment, and communal protection. She knows who has eaten, who failed to arrive, whose child needs watching, and which rule a community can break without making someone else pay. She is distinct from Priya and does not become the registrar.
+**Function:** local trust, nourishment, and communal protection. She knows who has eaten, who failed to arrive, whose child needs watching, and which rule a community can break without making someone else pay. She is distinct from Wren and does not become the registrar.
 
 **Past:** ran a **smaller kitchen** through the first outbreak wave — fed neighbors through closures; her **younger brother** was sent back to a locked province (he survived; she does not forgive the choice). A cousin died unregistered, leaving Mei suspicious of both invisibility and official visibility.
 
@@ -575,7 +563,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 
 
-## Farida *(Eli's cousin, Dhaka)*
+## Shireen *(Eli's cousin, Dhaka)*
 
 **Function:** lost-home heartbeat; one beat, not a subplot.
 
@@ -609,8 +597,8 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 | Custodians + Sora arc | breach–climax | pursuit | broken/changed |
 | Somchai (nurse / field medic) | mention | reconvene; healings | refusal under pressure |
 | Sol Mendez | — | temptation | echo or end |
-| Farida | one message | optional | optional |
-| Priya / Mei / Suresh | Pelangi Reach; Priya = Vol II status-liaison beat | — | Mei/Suresh optional echo |
+| Shireen | one message | optional | optional |
+| **Wren / Mei / Suresh** | Pelangi Reach; Wren = intake cover + Vol II network | — | Mei/Suresh optional echo |
 | Crane private beat | looms | social rooms | throne offer |
 
 ---
@@ -637,16 +625,16 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 |---|---|---|---|---|
 | **Eli** | 1 | Hard, capable facilities hand; useless at the garden | In the father's plot he talks to the tomatoes in **Bangla** and hums a tune fragment while failing — competence on live junctions, shame in soil | Split: mother's gift / father's craft; no naming either |
 | **Eli** *(meditation seed)* | 1 or 5 | Training-shell calm reads as stoic competence | Mid-overload or post-shift: **counts one exhale** or stills on a stair — out of register for a facilities hand; reader may read dissociation until breach/climax pays it | Thailand temple habit; see `15` § *Eli's meditation seed* — no flashback block |
-| **Mei** | 1 | Kitchen commander during rush | Mid-service she makes Eli **taste the sauce** off the spoon — check he ate — then snaps at the pass without dropping command voice | Smaller-kitchen maternal habit before wartime scale |
-| **Priya** *(Vol II liaison)* | — | *Vol II return* | Pelangi Reach health poster in Ch 1 uses **visibility saves lives**; later she offers the scan and permits a counter-record through | Death tech as sincere care; documentation protects and exposes |
+| **Mei** | 1 | Kitchen commander during rush | **Friday dinner send-off:** *stolen child, not orphan*; *boy* in home tongue; last meal on chit circle | Hearth truth **Friday night** — no second goodbye |
+| **Wren** *(intake / network)* | Ch 1 attestation + cohort squeeze | *Vol II return* | Compound manifest habit; later offers accountable intake limits vs registry capture | Death tech as sincere care; documentation protects and exposes |
 | **Suresh** | 2 | *"I don't carry heroes. I carry rice."* | At the stern he hums **four wrong notes**, stops himself, goes flat — Iqbal's tune, never in public | Musician family grief; rice is real job, not whole identity |
-| **Farida** | 2 | Cousin text: practical, scared | Encrypted message includes a photo: **Rasel's garden in Dhaka still growing** — home continued without Eli | Lost home heartbeat; Eli can't answer |
+| **Shireen** | 2 | Cousin text: practical, scared | Encrypted message includes a photo: **Rasel's garden in Dhaka still growing** — home continued without Eli | Lost home heartbeat; Eli can't answer |
 | **Hassan** | 3 | Exhausted witness; testimony voice | Before handoff he **aligns papers** on a crate edge like a ledger clerk — precise, calm — then hands shake | Fishery accountant before black site; trusted paper once |
 | **Wren** | 3 or 5 | Cold operator; reads exits | After Malacca fold-in she sits on stairs eating a **convenience bun with both hands**, no napkin, staring at nothing — shift-meal habit from port intake days | Softer Wren leaks once; Eli may or may not see |
 | **Jin Pak** | 3 | Fluent mirror; scout charm | Mirrors Eli's accent at the health table, then **slips into his own younger voice** when a scooter backfires — half second, recovers | Scholarship kid, not born spy |
 | **Edda Voss** | 4 | Seer / locker; mystical threat | Before the quay fight she counts breaths on her fingers like **tapping spreadsheet rows** — analyst rhythm, not prayer | Analyst before seer program |
 | **Tomás Reyes** | 4 | Lance; willing violence | One missed strike → footwork reset is **athletic, beautiful** — dock-league or soldier body — then he commits to hurt | Sport/soldier before weapon |
-| **Babaji** | 1 | Tea: *work not wallet*; robot dog/chess workshop texture | Pier: *stolen child, not orphan* | Not Balaji on feeds — **fictional Balaji analogue** |
+| **Babaji** | 1 | **Boat papers** at mark: *work not wallet*; hotel community closing | Leaves south at dawn (parallel) | Not Balaji on feeds — **fictional Balaji analogue** |
 | **Emrys** | 5–6 | Map-not-territory; measures everything | Bandages Eli's crate-cut with **clinic-tier efficiency**, apologizes to the **bandage roll**, won't hold Eli's shoulder | Touched patients before he only touched instruments |
 | **Sora Vithan** | 8 | Shield; team coherence; **St Michael medal** under collar | During boarding chaos she **shields a civilian**, then touches her own **collar** like checking a wedding band — volunteered for protection, got leash | Conscience crack; Mira wound; Michael seed (`46` § G) |
 | **Wren prior-love seed** *(off-page)* | 8 | Wren's custody spike | Wren gets coded ping / manifest name / song fragment — face goes flat, types three words, **deletes**, orders real food for Eli like nothing happened | Eli reads fear; reader may read history (no character appears) |
@@ -795,7 +783,7 @@ Most major cast can carry some mix:
 | **Suresh** | Complicated grief; avoidance | Iqbal's tune forbidden; work as shield |
 | **Hassan al-Ridzuan** | Institutional betrayal; testimony compulsion | black-site rotation; half-bait guilt |
 | **Malai** | Chronic threat hypervigilance; land and contamination grief | *third team* — helplessness → fury; records as defense |
-| **Farida** | Secondary persecution stress | family still entangled in mother hunt |
+| **Shireen** | Secondary persecution stress | family still entangled in mother hunt |
 | **Anonymous busker** *(memory)* | Performer survival | person before symbol; rent fear, not destiny (Lani folded here, 2026-07) |
 
 ## Vol II faces (preview)
@@ -803,7 +791,7 @@ Most major cast can carry some mix:
 | Character | Pattern | Behavior |
 |---|---|---|
 | **Sol Mendez** | Identification/charge spiral break; messiah hunger | charisma as untreated wound; partly right about cages |
-| **Priya Nair** | Trauma bond to visibility | coworker died while hiding; control through accountable paperwork as anxiety management |
+| **Wren** | Trauma bond to visibility | intake queues taught her forms eat people; control through accountable manifests as anxiety management |
 | **Mei Lin** | Parentification / communal overfunction | brother displaced; cousin died unregistered; food and vigilance as protection |
 
 ## Mira Okonkwo *(dead)*

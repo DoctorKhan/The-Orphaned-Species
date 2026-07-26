@@ -67,7 +67,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Source material:** Suppression method / Measure machinery. Not a deep-time clarification.
 - **When:** Vol II **Ch 3** — Eli learns **how his mother was taken**, paired with mother-trail midpoint (`32`, `29`, `99`).
 - **Function:** same as former prologue intent — keeps Crane from straw-man by showing enforcement in action, but **earned** after reader loves Eli and has chased the mother-trail.
-- **Deliverable:** rewrite from `MANUSCRIPT_v1_archive.md` prologue (~1,000–1,500 words); **Bengali naming** (no inherited family surname for Eli; father **Rasel** / registry *Russell*); SE Asia extraction/keeper setting; no Crane name.
+- **Deliverable:** rewrite from `MANUSCRIPT_v1_archive.md` prologue (~1,000–1,500 words); **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths); SE Asia extraction/keeper setting; no Crane name.
 - **Not in Vol I.**
 
 ### Ch 1 — The Hour That Belongs to No One
