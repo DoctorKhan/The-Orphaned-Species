@@ -31,6 +31,8 @@ The plot should discover **effects before causes, practices before doctrines, an
 
 **Do not soft-pedal the conspiracy.** The **Charkha Measure** is the human face of a **recurring control apparatus** — torch, trial, asylum, eugenics file, registry, black project, van, clipboard, gene weapon, pair-severance, scientist claiming. The reader should feel: *the world I see is a cover; the faces rhyme across millennia.* That is the same reader contract as Dan Brown — with a harder, longer, more contested answer.
 
+**Hunt attribution ladder — LOCKED 2026-07-26 (dual-true + costume):** Book I keeps the apex **unnamed**. Eli sees Mandate/father — **Rasel's son / loose ends**. **Charkha wears Mandate's face** for the Eli/mother hunt (Custodian biosecurity cover, Stack-adjacent paper). Late Book I: costume seams (*other chain*, *somebody else's leash*, wrong-badge) without naming Charkha. **Book II names Charkha** — knife: **wore the Mandate's face; got Maren; you've been running their map**; Rasel remains Mandate. Pair-severance naming stays Book II midpoint.
+
 ### What those comps actually are
 
 | | *The Da Vinci Code* (2003) | *National Treasure* (2004) |

@@ -24,4 +24,8 @@ Four calls I made where canon left room. Each is easy to reverse.
 
 6. **⟦DC-6⟧ — LOCKED 2026-07-25.** **Continue Inn** — arcade-tier worker hotel, **live-play** floor (cabinets, sim rigs, VR). Contractor voucher on Wren's bundle. **Saturday night** after document clerk; **Sunday AM** Cherry Lane → Cube. Eli plays cable-management sim (Foundry rhyme; Rasel echo). Circuit = **Sunday** race night.
 
+7. **⟦DC-7⟧ — LOCKED 2026-07-26.** **First table:** Circuit/Cube = lean casino table. **Sora Vithan** soft-hunt glimpse (dark suit, biosecurity badge, collar/medal touch, clocks grounding) — **unnamed** on-page; Custodian label Ch 3. No Crane/Sol/Somchai/Rowan/Emrys dump. Chase grammar: `WORLD_BIBLE.md` § Meridian.
+
+8. **⟦DC-8⟧ — LOCKED 2026-07-26 (trilogy, dual-true + costume).** **Hunt attribution:** Book I Eli sees Mandate/father — **Rasel's son / loose ends**. **Charkha wears Mandate's face** for Eli/mother hunt. No **Charkha/Measure** name in Book I. Late cracks = costume seams. Book II names Charkha — **wore the Mandate's face; got Maren; you've been running their map**. `WORLD_BIBLE.md` § Hunt attribution; `17`.
+
 **Ends at the breach**, per the restructure lock. Wren's rejoin, Salmah's naming and cost, and the immediate aftermath are Chapter 3. The retired Pai/Khun Dang route remains quarry; Thailand now appears only as the shorter Book I grounding/memory hinge in Chapter 11.

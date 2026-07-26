@@ -303,21 +303,27 @@ He tries. It helps a little. Not enough to feel wise.
 
 His mother's fingers used to do the same at clinic gates—flat on his sternum, counting breaths he couldn't find—and for one vertiginous second Wren's hand and his mother's blur together. He pulls back a half-inch too far. Wren notices. She does not comment. She simply takes her hand away and lets him walk on his own, which is also something his mother would have done once he was breathing again.
 
-Suresh's boat moves on without them—rice, limes, the blue tarp bundle, schedule kept—and does not look back, because looking back is a thing that gets noticed. Eli is on **Meridian City port stone** with Wren beside him, his tool roll, the chandlery paper Suresh pressed at the rail, and a city he was supposed to reach as a worker, not a fugitive—one checkpoint down, the skyline still hidden behind warehouses and quarantine sheds.
-
-Meridian City does not announce itself from the dock. It announces itself as the next bus line, and Wren already knows which one.
+Suresh's boat moves on without them—rice, limes, the blue tarp bundle, schedule kept—and does not look back, because looking back is a thing that gets noticed. Eli is on wet stone with Wren beside him, his tool roll, the chandlery paper Suresh pressed at the rail, and no skyline yet—only sheds and painted arrows telling bodies which zone they are leaving.
 
 ---
 
-The port shuttle is bench seats, wet boots, and a reader at the door that wants manifest, wrist, and the same four questions in a new accent. Wren shows the Cherry Cube call sheet and cuts through a service corridor Eli would never have found alone.
+After that the city is not a place. It is **zones**.
 
-The Stack, when he finally sees it, is a vertical city—lanes and galleries under grow-lights, transit spines on the official map and nothing else. Without Wren he would have stood in the idol's mall concourse until security moved him. She brings him to the **causeway hall** instead—fourth checkpoint since the pier, still not the document lanes.
+Leave one. Stand in the middle. Enter the next.
 
-Eli reaches the causeway hall with Wren at his shoulder—**documentation review** again, family-origin fields turning half the South Asian dock queue amber before anyone reaches the swab chair. Wren picks the lane. Nobody in line asks why.
+A glass terminal at every threshold: touchscreen forms in a language that changes accents but not questions—*where, how long, employer, health*—and Wren's thumb already knowing which box before Eli finds it. Palm on the plate. Face to the camera. A soft click that means *again* or *go*. He loses count of which is which.
 
-On a pillar by the document lanes, a notice restricts small-craft transfer of medical goods pending review. Below it, in contractor chalk, someone has written three words in English—*I alone don't know*—no date, no name, already half-scrubbed by a wet rag. The man queuing in front of Eli reads the notice twice and says, to no one, that the same office ran the insulin boats through the worst of the closures. Nobody answers him. The queue moves.
+Port shuttle: bench seats, wet boots, the same four questions in a new mouth. Palm. Face. Then a bus that smells of diesel and disinfectant, then another bus that does not, then a covered walk that claims to be neither dock nor city and asks for the call sheet as if he has never shown it. Palm. Face. Wren cuts a service corridor he would never have found alone and he follows her bag, not the signs.
 
-He had meant to check in at a service gate with a lanyard and a name on a list. Instead he is here with grease under his nails, Wren's route through four checkpoints, and the Stack does not care where a body began—only what the photograph matches.
+Somewhere in the middle—he cannot later say which vehicle—the smear breaks.
+
+Glass. Black cars in a lit underpass, moving like they own the air. A lobby humanoid holds a tray nobody takes, polished as a status proof. Suits with soft briefcases. Women in pale silk cutting across polished stone as if the war never reached this altitude. Grow-lights above a vertical rumor of lanes—and then the Stack is not a rumor. It is a capital that spends money on looking inevitable.
+
+Without Wren he would have stood in the idol's mall concourse until security moved him. She does not take him there. She takes him through one more terminal, one more palm, one more face, into the **causeway hall**—still not the document lanes, only the hall that pretends the middle is over.
+
+Marble the color of cold milk. Ceiling lights that flatter faces and cameras equally. Soft music with no tune. Officers in tailored vests who say *please* like a blade. **Documentation review** again—family-origin fields turning half the South Asian dock queue amber before anyone reaches the swab chair—and the amber looks almost expensive under the glass. Wren picks the lane. Nobody in line asks why. He had meant to check in at a service gate with a lanyard and a name on a list. Instead he is here with grease under his nails in a city dressed for people who never touch dirt, and a body the Stack has already photographed three times without deciding what it is.
+
+On a brushed-steel pillar by the document lanes, a notice restricts small-craft transfer of medical goods pending review—printed clean, Mandate fonts. Below it, in contractor chalk, someone has written three words in English—*I alone don't know*—no date, no name, already half-scrubbed by a wet rag. The man queuing in front of Eli reads the notice twice and says, to no one, that the same office ran the insulin boats through the worst of the closures. Nobody answers him. The queue moves.
 
 The queue noise layers—boots, readers, a child crying two lanes over—and something in him wants to bolt or fight or both. Wren shifts half a step closer without touching.
 
@@ -381,7 +387,7 @@ Those hands. He has watched them his whole remembered life—electrode pads, tea
 
 Her voice drops out of the form and into Bangla. "The system saw what I saw. Your intake photograph is flagged—resemblance match, records hold, extended assessment. That queue goes up into the Stack, and files that go up do not come down whole. Once they hold you, you are theirs to explain." She looks at the screen, not at him. "A file can close without its body one way from this desk. Discharge to vessel. That lane needs a work history."
 
-He understands her one beat before he lets himself understand her.
+Resemblance. He hears it as **Rasel's** face on him—Mandate labs already owning the equations, already owning the name. A claimed physicist's son walking into Meridian with a worker slip. Loose ends. Of course they flagged him. The story fits so well he does not look for a second face wearing the first. He understands the clerk one beat before he lets himself understand her.
 
 The wage ticket comes out of his pocket the way a tooth comes out. A year of Fridays. **Rasel Khan** on the laminate—Babaji's kindness beside it—the one paper that says he was somewhere, legally, doing something, wanted at a rail by people who knew his face. She reads it aloud wrong anyway—*Russell?*—Anglo habit, not the ink.
 
@@ -397,7 +403,7 @@ The ticket goes into another man's file and his own file exhales and shuts. She 
 
 ---
 
-**Saturday night.** **Continue Inn** on the arcade tier—neon pixel font, lobby carpet like grass blocks. Room 408, floor four **live play** until two. In the elevator, where the pixel grass has worn through to concrete, someone has scratched four words: *I alone don't care.* Eli reads them on the way up and does not know why they steadied him.
+**Saturday night.** After the milk-marble hall and the black cars, **Continue Inn** is the comedown the Stack pretends does not exist—arcade tier, neon pixel font, lobby carpet like grass blocks worn to the glue. Room 408, floor four **live play** until two. In the elevator, where the pixel grass has worn through to concrete, someone has scratched four words: *I alone don't care.* Eli reads them on the way up and does not know why they steadied him.
 
 Eli sets the tool roll on the bed. The ring photograph lives in his chest—his mother's hands, his father's seam—and he cannot stop turning them over the way he turned the wage ticket over before he spent it.
 
@@ -411,15 +417,17 @@ He does not sleep well. He sleeps enough.
 
 **Sunday, first light.** Cherry Lane is not on the official map. What actually connects Meridian City is men, and one segment at a time.
 
-At Cherry Lane a construction worker hears the river in Eli's answer and opens one gate—*down the dead escalator, left at the flooded junction*. A cleaner uncovers the dry crossing. A dock mechanic under the freight ramps gives him the clock: "Freight rolls out of the Cube at the last safety car **tonight**. Tire trucks, not food trucks. **Sunday** race—whole city's sealed for the circus. The circus is the only thing left that opens doors."
+At Cherry Lane a construction worker hears the river in Eli's answer and opens one gate—*down the dead escalator, left at the flooded junction*. A cleaner uncovers the dry crossing. A dock mechanic under the freight ramps gives him the clock: "Freight rolls out of the Cube at the last safety car **tonight**. Tire trucks, not food trucks. **Sunday** race—whole city's sealed for the show. The show is the only thing left that opens doors."
 
 ---
 
 Eli hears the Cherry Cube before he sees it, and he hears it through the soles of his feet.
 
-Cherry Lane is directly overhead. He never sees the famous managed bloom, only what it does below: a living root has cracked the service ceiling around its inspection collar, and one wet pink petal has made it through a drain grate into the concrete dark. Someone has drawn a red box around the crack and dated it for repair. The root has grown past the date.
+Cherry Lane is directly overhead. He never sees the famous managed bloom, only what it does below: a living root has cracked the service ceiling around its inspection collar, and one wet pink petal has made it through a drain grate into the concrete dark. Someone has drawn a red box around the crack and dated it for repair. The root has grown past the date. Up there: glass temple, champagne density, a city performing permanence. Down here: wet concrete and the honest smell of rust.
 
-The shaft lets out into service levels and above him the noise is not sound anymore, it is weather—engines going by in packs on the sealed avenues, a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage. The Meridian Circuit: the one night the Stack shuts its own arteries so machines can go in circles, and screens six storeys tall replay the machines to people standing where the machines just were. And for a held breath, before he can stop himself, it is *beautiful*—the cars coming through the underpass like poured light, rivers of tail-lamp red mapped across the dark city, a hundred thousand faces upturned and lit, the whole vertical world dressed in its own reflection. The Stack has thin relationships and perfect spectacle, and just this once, spectacle is enough to make even a hunted man stand still and look. On the mall floor of the Cube, between grandstand feeds, a stage: lights, dancers, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide.
+The shaft lets out into service levels and above him the noise is not sound anymore, it is weather—engines going by in packs on the sealed avenues, a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage. The Meridian Circuit: the one night the Stack shuts its own arteries so machines can go in circles under drone light, and screens six storeys tall replay the machines to people in dark clothes who paid to be seen watching. Black cars idling in VIP slots. Champagne flutes catching grandstand glare. Security in suits with earpieces who never raise their voices. And for a held breath, before he can stop himself, it is *beautiful*—the cars coming through the underpass like poured light, rivers of tail-lamp red mapped across the dark city, a hundred thousand faces upturned and lit, the whole vertical world dressed in its own reflection. The Stack has thin relationships and perfect spectacle, and just this once, spectacle is enough to make even a hunted man stand still and look.
+
+On the Cube floor—glass walls, black stone, a stage that could host a summit or a kill—lights, dancers, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide. Between grandstand feeds, the temple sells frictionless care: upgrades, identity, the future as a product you can hold.
 
 In a service alcove off the shaft, two stagehands share a cigarette. One jerks her chin at the noise above. "Other people are excited," she says, flat. "Like a parade."
 
@@ -427,13 +435,15 @@ The other exhales. "I alone don't care."
 
 They do not look at Eli. They are not performing. It is something you say down here so the parade does not get inside you.
 
-This is the job. Stage power, wardrobe uplink, the afterparty load-in—the contract Wren attested before the sweep, before the wage ticket went into another man's file. He was supposed to check in at the service gate **this morning** with a Foundry contractor lanyard and a name on a list. Instead he is coming up through the roots with grease on his hands, one night at Continue Inn behind him, and no ticket left to spend.
+This is the job. Stage power, wardrobe uplink, the afterparty load-in—the contract Wren attested before the sweep, before the wage ticket went into another man's file. He was supposed to check in at the service gate **this morning** with a Foundry contractor lanyard and a name on a list. Instead he is coming up through the roots with grease on his hands, one night at Continue Inn behind him, and no ticket left to spend—an underdressed body in a city that only smiles at people who already belong.
 
 Eli's head starts to go. It is layered noise wearing sequins—six languages, the chant, the PA, the engines—and the ladder tips in his inner ear, and his hand does the old thing before he can be embarrassed by it: two fingers pressed flat below the collarbone, one long breath out through the teeth. *Stand behind the hands.* The way **she** taught him—his mother—in rooms he can barely remember, before the tower, before everything.
 
-Security has him by the arm a second later—wardrobe margin, staff corridor, a worker who is on the call sheet and not at the gate—and is turning him toward the bad kind of door when a voice says, "Wait."
+Across the wardrobe margin, past the champagne light, a woman in a dark suit is already watching him. Not Cube security—too still, too expensive, biosecurity badge at the hip like jewelry. Soft face. Exhausted eyes. Her fingers touch her own collar once, as if checking a medal or a ring, and something in the gesture says she recognized the grounding before she recognized the boy. She does not shout. She does not need to. The hunt in this city wears suits.
 
-The boy made of brightness is standing in the staging area with a towel around his neck, between numbers, sweat cutting through the stage glass on his face. He is smaller than his screens. Everyone stops when he stops; that is what his life is.
+Security has him by the arm a second later—wardrobe margin, staff corridor, tailored vest, soft voice, a worker who is on the call sheet and not at the gate—and is turning him toward the bad kind of door when a voice says, "Wait."
+
+The boy made of brightness is standing in the staging area with a towel around his neck, between numbers, sweat cutting through the stage glass on his face. He is smaller than his screens. Everyone stops when he stops; that is what his life is—a tailored machine with a pulse.
 
 He is looking at Eli's hand, still flat below the collarbone.
 
@@ -449,17 +459,19 @@ The boy comes closer. Looks at his face the way the clerk looked at his face—t
 
 "I can't come," he says, and it is not an apology, it is arithmetic—the dancers, the crew, the chanting town of people whose safety is his schedule. "But my show leaks. Wardrobe corridor to the freight ramps, it's cleared for my own people, and someone has already been moving bodies through my leak **today**, so one more is nothing." One corner of his mouth. "You have her face. Try to keep it."
 
-They put a wardrobe jacket on Eli because everything in the corridor wears one, and for eleven metres a barrier-gap of fans sees him and screams on principle—a surprise guest, a new member, phones up, a wall of lit hands—and the corridor holds and nobody touches anyone and then he is through, down, out, into diesel air and the smell of hot rubber, where the tire trucks are marshalling under the grandstand ribs.
+When he looks back for the woman in the dark suit, the margin is empty. The table has already rearranged.
 
-At the marshalling pen a convoy officer scans badges and manifests twice—food trucks to the left for search, tire trucks straight through if the seal matches. Eli keeps his eyes on a cable drum and lets the jacket do the talking.
+They put a wardrobe jacket on Eli because everything in the corridor wears one, and for eleven metres a barrier-gap of fans sees him and screams on principle—a surprise guest, a new member, phones up, a wall of lit hands—and the corridor holds and nobody touches anyone and then he is through, down, out, into diesel air and the smell of hot rubber, where the tire trucks are marshalling under the grandstand ribs like the city's honest machinery: black logistics under champagne light.
+
+At the marshalling pen a convoy officer in a dark vest scans badges and manifests twice—food trucks to the left for search, tire trucks straight through if the seal matches. Eli keeps his eyes on a cable drum and lets the jacket do the talking.
 
 A figure stands at the convoy's edge with a cap pulled low and a courier bag across the chest, checking pallets against a list that is not the freight list. She does not look at him. She does not look at him with such precision that, much later, he will understand it took practice.
 
-The last safety car goes by overhead like a sheet tearing. The convoy rolls.
+The last safety car goes by overhead like a sheet tearing. The convoy rolls—black trucks under drone light, leaving the tuxedo city the only way a boy like him can leave it: underneath.
 
 ---
 
-They put him over the side of the harbor into a fish boat running north empty, and the Stack becomes a lit wall behind him, and then a glow, and then weather.
+They put him over the side of the harbor into a fish boat running north empty, and the Stack becomes a lit wall of glass behind him, then a glow, then weather.
 
 North of the city the checkpoints do not stop—a harbor pilot board, a customs launch asking hold contents, a night inspection pier where men with lamps walk the deck and make the skipper show empty holds twice. Eli stays below the gunwale with the net smell and counts doors in his head the way he counted them all day.
 
@@ -481,9 +493,13 @@ Stalls are open under tarps. Tourists haven't come back in numbers but the signs
 
 To Eli they are *tongs*, though nobody here calls them that: a tea stand on nearly every corner, kettles blackened underneath, glasses drying mouth-down, three stools even where the pavement has room for one. Each keeper is part bartender, part auntie or uncle, part neighborhood memory. They know who fought before dawn, whose daughter came off which ferry, who owes for six glasses, who has not come home—and which stranger is pretending not to need directions.
 
-At the quay corner a drinks-and-fish stall stands under a blue umbrella—glass jars, a kettle, dried fish hung up like punctuation—run by a broad woman who watches the river the way Suresh watches weather. Eli buys tea because he needs somewhere to stand.
+At the quay corner a drinks-and-fish stall stands under a blue umbrella—glass jars, a kettle, dried fish hung up like punctuation. A thin man with grey in his beard tends the kettle; a broad woman who watches the river the way Suresh watches weather runs everything else.
 
-"Empty north boat," she says, looking at his wet cuffs. "One crate of somebody else's fish. Now you're looking for work?"
+The man calls after Eli in his father's Bangla. "You walk past tea without looking, *bhai*?"
+
+Eli turns too fast. The man is nobody he knows—a towel over one shoulder, thin wrists showing below his rolled sleeves—but he grins as if they have discovered a cousin between them. Brother, the portable kind. No blood required. He pours a glass before Eli orders.
+
+"Empty north boat," the woman says, looking at his wet cuffs. "One crate of somebody else's fish. Now you're looking for work?"
 
 "No."
 
@@ -942,7 +958,7 @@ The slate does not accept it. The line opens—not Asha's voice alone but a conf
 
 "I didn't ask her agreement."
 
-"We know what you didn't ask." Asha's voice, tired, not cruel. "That's the review. The Weavers are not the Charkha Measure—we don't take bodies because the arithmetic is clean. You taught Laleh that we ask. Then you didn't ask."
+"We know what you didn't ask." Asha's voice, tired, not cruel. "That's the review. The Weavers are not the ones who take bodies because the arithmetic is clean. You taught Laleh that we ask. Then you didn't ask."
 
 "The gantry—"
 

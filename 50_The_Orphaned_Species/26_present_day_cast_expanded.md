@@ -481,6 +481,8 @@ Coherence holder; tries to spare civilians; fraying.
 
 **Archangels (plot — Michael):** carries **St Michael medal** or prayer fragment under the collar — volunteered for the program believing the collar was **protection**, not leash; Michael = the protector title she trusted (`46` § G). Vol I Ch 8 past leak; Vol II broken-line church beat; Vol III defection rhymes with **refused protector** (Crane/Michael parallel — never lecture).
 
+**First appearance — LOCKED 2026-07-26:** **Vol I Ch 2 Meridian Circuit / Cube** — unnamed soft hunter in a suit (biosecurity cover at the first table); clocks Eli's Maren grounding gesture; fingers at collar/medal; does not force the grab (spectacle cover / idol intervenes). **Name + Custodian label:** Ch 3. Boarding conscience leak remains Ch 4+.
+
 **Voice:** soft, exhausted; apologizes to strangers after missions.
 
 ### The Mask / Scout — **Jin "Grey" Pak**
