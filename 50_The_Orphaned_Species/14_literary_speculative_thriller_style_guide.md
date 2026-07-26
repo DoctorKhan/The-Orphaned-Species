@@ -36,7 +36,7 @@ Use close third person, anchored to the viewpoint character's present attention.
 The trilogy uses **Eli-dominant limited multiple viewpoint**, not pure single viewpoint, omniscient narration, or ensemble rotation.
 
 - **Eli is the home consciousness and narrative trunk.** Book I is overwhelmingly Eli; later books widen modestly while keeping him the clear majority lens. Treat the assigned away movements below as a budget, not a quota to fill or a percentage to game.
-- **The only recurring interior lenses are Eli, Wren, and Somchai.** Wren carries rare scenes of operational choice, consent, network cost, and community consequence that Eli cannot witness. Somchai carries rare scenes of bodily autonomy, healing, and refusal of deification that cannot belong honestly to Eli.
+- **The only recurring interior lenses are Eli, Wren, and Somchai.** Wren carries rare scenes of operational choice, consent, network cost, and community consequence that Eli cannot witness. Somchai carries rare scenes of bodily autonomy, healing, and declining deification that cannot belong honestly to Eli.
 - **Do not add regular viewpoint access for Crane, Maren, Emrys, Sora, Sol, or other ensemble members.** Their opacity protects suspense, mystery, and interpretive pressure. A new interior lens would require an explicit architecture revision, not a local drafting convenience.
 - **One scene, one viewpoint.** Never move between minds inside a continuous scene. A chapter may contain more than one viewpoint only across a hard section break, with the new lens established immediately through character-specific attention.
 - **Ensemble describes cast, not viewpoint.** Every crowd, battle, council, or collective-action scene still has one governing consciousness.
@@ -53,7 +53,7 @@ Before leaving Eli, test the proposed scene:
 
 An away scene should normally pass at least four of the five tests. Information Eli lacks is not, by itself, a reason to switch.
 
-**Locked deployment:** Book I is Eli except for Wren's Chapter 8 Laleh-extraction opening, followed by a hard break back to Eli. Book II uses Somchai for the Chapter 15 independent-clue opening and the Somchai-led Chapter 19 healing/refusal movement; it uses Wren for the Chapter 20 route/network-cost opening. Each returns to Eli across a hard break where the chapter continues; Maren's truth and Emrys's capture remain Eli. Book III gives Somchai the bodily-crown refusal and Wren the distributed-network convergence; Eli carries the tether, release, and final coda. If chapter numbering changes during the locked rebuild, preserve these dramatic assignments rather than the numbers themselves.
+**Locked deployment:** Book I is Eli except for Wren's Chapter 8 Laleh-extraction opening, followed by a hard break back to Eli. Book II uses Somchai for the Chapter 15 independent-clue opening and the Somchai-led Chapter 19 healing/hard-no movement; it uses Wren for the Chapter 20 route/network-cost opening. Each returns to Eli across a hard break where the chapter continues; Maren's truth and Emrys's capture remain Eli. Book III gives Somchai the bodily-crown limit and Wren the distributed-network convergence; Eli carries the tether, release, and final coda. If chapter numbering changes during the locked rebuild, preserve these dramatic assignments rather than the numbers themselves.
 
 Default prose is:
 
@@ -80,7 +80,7 @@ Every consequential scene therefore needs:
 - an immediate want;
 - a deeper desire the immediate want may betray;
 - another person or reality with its own legitimate counter-desire;
-- delay, refusal, reversal, or cost;
+- delay, hard no, reversal, or cost;
 - a changed desire or relationship at the exit, not merely new information.
 
 ## The three prose gears

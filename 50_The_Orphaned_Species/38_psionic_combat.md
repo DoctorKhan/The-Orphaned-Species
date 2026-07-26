@@ -139,7 +139,7 @@ Doctrine for set-pieces: **psions do not fight drones; they fight the humans and
 3. **Bubble = coalition.** Defense scales only with coherent minds acting as one without a commander — exactly the political form Volume III must prove.
 4. **The native road is the armor.** The practice that makes you free is the same practice that keeps you un-jammed. Power is never separable from the inner work, so the system can't become a superhero kit.
 5. **Coerced coherence is brittle (§1a).** The political thesis — division-by-force is fair-weather — is literally true in the physics of a shared field: voluntary coherence self-repairs, forced coherence shatters under pressure. The control system cannot be beaten by out-coercing it, only by out-*lasting* it. The climax's honesty depends on this being a temporal law, not a hidden guarantee that coercion fails on the spot.
-6. **Autonomy is the anti-psionic weapon (§3a).** Because every psionic move needs a mind on the other end, the escalation the war is really climbing is toward machines with no mind to reach — the Drift as ordnance. The federation's consent compact is, read at machine scale, a refusal to remove the person from the loop for efficiency's sake.
+6. **Autonomy is the anti-psionic weapon (§3a).** Because every psionic move needs a mind on the other end, the escalation the war is really climbing is toward machines with no mind to reach — the Drift as ordnance. The federation's consent compact is, read at machine scale, a choice not to remove the person from the loop for efficiency's sake.
 
 ## 8. Still open (track in `99_open_questions.md`)
 

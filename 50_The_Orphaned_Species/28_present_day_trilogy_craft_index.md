@@ -97,7 +97,7 @@ Six conflict registers (ecological → technological), sorting machine (racism×
 | M/I/A (per chapter) | `31`, `32`, `33`, `19` § *Female mystery…* | Mystery · Intrigue · Attraction — track Wren/Rowan and Wren/Eli separately |
 | Contemporary resonance (2026) | `44`, `17`, `18`, `16` | Human attachment, clear dramatic questions, causal escalation, ensemble agency |
 | True strength vs display | `15`, `40` | Equanimity ≠ composure-as-armor; Thailand seed → Manual Override |
-| Women / power registers | `15` § *Women characters* | No Hollywood girl-power swap; relational/somatic/refusal registers |
+| Women / power registers | `15` § *Women characters* | No Hollywood girl-power swap; relational/somatic/limit registers |
 
 ---
 

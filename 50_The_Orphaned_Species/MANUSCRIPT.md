@@ -4,7 +4,7 @@
 
 > **Drafting lock:** present tense, close third. Eli is the home consciousness. Book I remains in Eli except for Wren's Chapter 4 Laleh-extraction opening, separated from the return to Eli by a hard section break. One scene never enters more than one mind. Governing rule: `14_literary_speculative_thriller_style_guide.md` § *POV architecture—LOCKED*.
 
-> **Opening alignment—LOCKED 2026-07-25 (rev. Y):** **Ch 1**—**Friday AM** race (Suresh)—**Eli wins** → earns Cherry Cube manifest; **Friday PM** Mei **dinner send-off / orphan truth**; **Saturday AM** Babaji **catamaran** (**first meet Wren**); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → Sunday Circuit escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. **No Thailand body memory before Ch 5.** Malacca: talents **activate**, not trained. Cube grounding = **Maren**, not martial.
+> **Opening alignment—LOCKED 2026-07-26 (rev. Z):** **Ch 1**—**Friday AM** race (Kiran; Suresh holds wager)—**Eli wins** → earns Cherry Cube manifest; **Friday PM** Mei **dinner send-off / orphan truth**; **Saturday AM** Babaji **catamaran** (**first meet Wren**); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → Sunday Circuit escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. **No Thailand body memory before Ch 5.** Malacca: talents **activate**, not trained. Cube grounding = **Maren**, not martial.
 > - **Ch 1 (below):** governing draft—**LOCKED rev. Y** (see opening alignment). Decision record: `DECISIONS_Chapter_One.md`.
 > - **Ch 2 (below):** governing draft—**LOCKED rev. Y:** Wren escort through **causeway hall**; wrong-room overhear; document clerk → **Saturday night Continue Inn** → **Sunday AM** Cube → convoy → Straits → Malacca breach.
 > - **Ch 3 (below):** governing draft, **merged 2026-07-22**—aftermath through "I'm not going dark." Decision record: `DECISIONS_Chapter_Three.md` flags.
@@ -19,43 +19,45 @@
 
 The sail goes slack against the mast and stays there. Not good.
 
-He is **losing** now. Two lengths. Not far ahead, the red buoy taunts him. First boat there wins, but the wind just died in the pocket mid-channel—the dead patch the towers pull most mornings once you leave the wall. Suresh keeps sailing as if pride could tow a hull. Eli knows better. In a pocket you do not hold course. You **stay moving** until the air comes back somewhere.
+He is **losing** now. Two lengths. Not far ahead, the red buoy taunts him. First boat there wins, but the wind just died in the pocket mid-channel. Kiran keeps sailing as if pride could tow a hull. Eli knows better. In a pocket you do not hold course. You **stay moving** until the air comes back somewhere.
 
 That is the whole strategy, for now: pump.
 
-He braces his knees, rope in one fist, the steering stick loose in the other, and rocks the skiff—pull, release, pull, release—forcing the patched sail to swallow whatever is left. Forward weight: a little glide. Back: almost none. Once the cloth swells and collapses. Twice. Again. His palm burns. Suresh does none of this. Harbor men hate to dance in dead water.
+He braces his knees, rope in one fist, the steering stick loose in the other, and rocks the skiff—pull, release, pull, release—forcing the patched sail to swallow whatever is left. Forward weight: a little glide. Back: almost none. Once the cloth swells and collapses. Twice. Again. His palm burns. Kiran does none of this. He is still trying to stare the buoy closer.
 
 His father taught him the pump on a borrowed skiff—*feel the cloth, don't fight the air*—hands big around the tiller, Bangla mixed with English when the lesson mattered. His mother taught him the rest: sit on the rail at first light and **watch** until the breeze came back along the storm wall in the same narrow lane, every morning, whether they sailed or not. *Feel it before you see it,* she said, and made him say it back until it was a habit and not a rhyme. Eli was seven, then eight, on a dinghy off a coast he cannot name cleanly anymore—Bali, he thinks, though the word comes with gamelan and wet stone and not with charts. She never let him skip the watching. Rasel called it wasted hours. She called it the only honest forecast.
 
 Eli learned the pump from one parent and the placement from the other. Alone on Pelangi he has only the stone and the fairway and the memory of two people arguing about wind as if wind were a person who could be known.
 
-Suresh leads but he is coasting to a stop. Eli is losing ground slowly—and **buying time**.
+Kiran leads but he is coasting to a stop. Eli is losing ground slowly—and **buying time**.
 
-Then the water ahead of Suresh **moves wrong**.
+Then the water ahead of Kiran **moves wrong**.
 
 An old woman kneels underwater at the bottom of the sea—**Timah**, the harvesters call her, though she answers to nothing shouted from the surface. She holds a curved knife, cutting stems into a net bag tied to her belt. A boy drops from the bright surface, lovingly finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again. She does not look up. **Jul** surfaces between the hulls; their harvest boat has drifted off its anchor, marker floats cutting across the fairway. Timah reaches for a line she cannot see the race through.
 
 "Timah!" someone screams from the wall. "**Clear the mark!**"
 
-Suresh will panic wide—heavier, center-channel, no room to slip inside. Eli goes **tight** along the floats. He has watched this every morning: when the pocket empties, Timah's boat drifts leeward; the inside line is shorter, and Suresh will not take it in a crisis.
+Kiran will panic wide—heavier, center-channel, no room to slip inside. Eli goes **tight** along the floats. He has watched this every morning: when the pocket empties, Timah's boat drifts leeward; the inside line is shorter, and Kiran has never trusted the gap.
 
-Suresh yanks the stick. His sail turns wrong. He shouts something in home tongue that is not for children. Eli keeps pumping—still buying time, still inside the marks—and **feels** the air before he sees it: hairs lifting on his forearms, cold on his cheek. The breeze is coming back **along the storm wall first**, low and narrow, before it reaches the open channel. That is the second part of the strategy. Not faster sailing. **Better placement** when the wind returns.
+Kiran yanks the stick. His sail turns wrong. The boom slams across; he throws his weight after it, too late, and the hull rolls under him. Sail and mast slap flat. Kiran comes up swearing in a home tongue not meant for children, one hand on the centerboard while a harbor boy pulls toward him.
+
+Eli keeps pumping—still buying time, still inside the marks—and **feels** the air before he sees it: hairs lifting on his forearms, cold on his cheek. The breeze is coming back **along the storm wall first**, low and narrow, before it reaches the open channel. That is the second part of the strategy. Not faster sailing. **Better placement** when the wind returns.
 
 The sail fills.
 
-He leans into it, small corrections with knees and hands until the hull hums and the cloth holds. Do not look at the buoy yet—look at water and air. Break focus now and you break speed. Suresh is still wide, still fouled by Jul and the floats. Eli **runs** the wall-shadow lane he has already chosen.
+He leans into it, small corrections with knees and hands until the hull hums and the cloth holds. Do not look at the buoy yet—look at water and air. Break focus now and you break speed. Beyond the floats, Kiran's sail is still flat on the water. Eli **runs** the wall-shadow lane he has already chosen.
 
-From the wall: "**Now!** Hold it!"
+Suresh's voice from the wall: "**Now!** Hold it!"
 
-He holds it—red and white, sail full, line true—and crosses while Timah is still underwater and Jul is climbing back onto her shoulders, neither knowing they picked a winner. Suresh crosses three lengths behind, rope tangled. Fair loss. He read the pocket, the wall, and the channel better than the man ahead of him, and that was the whole race.
+He holds it—red and white, sail full, line true—and crosses while Timah is still underwater and Jul is climbing back onto her shoulders, neither knowing they picked a winner. Behind him, Kiran stands on the centerboard and hauls his sail out of the water. Fair loss. Eli read the pocket, the wall, and the channel better than the man ahead of him, and that was the whole race.
 
 For one stupid second he looks for them on the quay—the old reflex, cut off years ago and still not dead. His mother would have been at the rail with her hair coming loose from its tie, already reading the next shift before the boats tied up. His father would have pretended not to care who won and then adjusted the sheet anyway, muttering about lazy hands. Neither is there. The win lands in his arms alone, salt and rope burn and the hollow where applause from your own people used to go.
 
 ---
 
-Suresh meets him at the marina rail when Eli **pulls in**—arms burning, salt on his knees, the boat put away wrong in his hands. He takes the line without ceremony. For a moment he looks out at Timah's boat, being towed back to the anchor by a harbor boy while Jul waves at no one in particular.
+Kiran comes up the marina steps as Eli **pulls in**—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out at Timah's boat, being towed back to the anchor by a harbor boy while Jul waves at no one in particular.
 
-"You won," he says. "Don't thank the grandmother. She wasn't helping you." He writes Eli's name on the loading slate and crosses his own off beside it—the laugh of a man who lost a fair bet, not cruel. Then his voice drops to harbor register. "**Saturday** tide on the strait. Cherry Cube weekend—stage crew, Meridian City. They pay **cash** up there, corridor wire, not chits. Babaji's launch **Saturday**, first light, hotel pier. Walk like you belong until something proves you don't. We're **holding the thread** south through the weekend—don't make the harbor men re-argue your face at every marker." A beat. "Don't make me regret racing a boy."
+"You won," Suresh says. "Don't thank the grandmother. She wasn't helping you." He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "**Saturday** tide on the strait. Cherry Cube weekend—stage crew, Meridian City. They pay **cash** up there, corridor wire, not chits. Babaji's launch **Saturday**, first light, hotel pier. Walk like you belong until something proves you don't. We're **holding the thread** south through the weekend—don't make the harbor men re-argue your face at every marker." A beat. "Don't make me regret betting on a boy."
 
 Eli Holt has no passport that matches his face and no country that will claim him. On Pelangi Reach the morning begins before the paperwork does—and this morning he has won the only **cash** job on the strait before he knew what it was called. He files *thread* under harbor slang and understands, all at once, what he owes Shireen if **Monday** is real.
 
@@ -73,8 +75,6 @@ He waters wrong anyway—too much, too fast, the way panic waters. None of Rasel
 
 He pinches a yellowing leaf the way Rasel showed him—hold, don't tear—and smells crushed stem and hot plastic from the tower cladding. For a moment the ninth floor is a balcony above a different sea, his mother's hum in his teeth, his father's hand on his wrist correcting the tiller. Then it is only Pelangi, and the prickle in his palms, and the row going pale.
 
-When the light goes he does not go down. He sleeps between the beds with the soil still under his nails, too tired from the win to care where Mei's chit circle ends—the same place he slept as a boy when the parents were alive and the world still had a door you could close.
-
 His phone buzzes on the brick edge of the bed—Dhaka, Shireen. He opens it.
 
 A photo: a plot behind her building, wire cages, **tomatoes** heavy on stakes—varieties labeled in Rasel's hand, copied from memory, the ink wrong but the names right. *Amar row still producing. Send something Monday or Amma loses the bed.—Shireen*
@@ -85,9 +85,17 @@ He already knows what her voice will say when she calls back.
 
 ---
 
-**Friday night.** Mei closes the kitchen for him—a table on the terrace, marina lights coming on. She sets nasi goreng down hard enough to clatter.
+**Friday night.** Mei keeps a terrace table for both racers. Kiran, hair still stiff with salt, claims Timah reached up from the seabed and pulled his boat over. Eli asks how she did it without looking. By Kiran's third version the grandmother has a second curved knife between her teeth, and Eli is laughing hard enough to put his forehead against the table.
 
-She sits without filling the silence first. "Eat."
+Mei sets down two plates of nasi goreng. "If you drowned as often as you say, I would save money feeding you."
+
+She takes two green coconuts from the icebox and knocks the tops open with the back corner of her cleaver. Kiran looks from one to the other. "There was only one winner."
+
+"One for the winner," Mei says, pushing a coconut toward Eli. She gives Kiran the other. "One for the swimmer."
+
+Kiran eats everything anyway. When the kitchen closes, Mei folds the last fritters into paper and tells him his mother has sent three messages and will send a search party next. He leaves still insisting the capsize was an ambush.
+
+Mei takes his empty plate. She leaves Eli's where it is and sits without filling the silence first. "Eat."
 
 "This is the last one on the chit circle," she says. "Eat it like you mean to come back, even if you don't."
 
@@ -95,13 +103,11 @@ He eats. The harbor noise thins. She watches the marina, not his plate—feeding
 
 The nasi goreng tastes almost right—kecap manis, egg barely set, rice separated the way **his mother** cooked on nights the lab ran late and Rasel came in from the garden with dirt on his forearms and made jokes about physicists who couldn't boil water. Eli's throat tightens on the third bite. Not grief yet. **Recognition.** The body remembering a kitchen before the mind agrees to.
 
-"You slept in **Rasel**'s garden again."
+"You slept in **Rasel**'s garden last night."
 
 "I was tired—"
 
-"I checked." Mei reaches across and pinches a clot of rooftop soil from his cuff. She leaves it beside his plate. "**Rasel Khan** kept that row for Babaji."
-
-From the shelf above the till she takes down a photograph Eli has known so long he hardly sees it anymore. Rasel stands in the unfinished garden, one hand black with soil. His mother leans against him, laughing at something outside the frame. At her throat hangs the ring Rasel made her, silver joined to brass, the seam left rough.
+From the shelf above the till she takes down a photograph Eli has known so long he hardly sees it anymore. His father, Rasel, stands in the unfinished garden, one hand black with soil. His mother leans against him, laughing at something outside the frame. At her throat hangs the ring Rasel made her, silver joined to brass, the seam left rough.
 
 "Every evening," Mei says, "while he watched the dead towers, your mother watered that row."
 
@@ -932,7 +938,7 @@ The slate does not accept it. The line opens—not Asha's voice alone but a conf
 
 "I didn't ask her agreement."
 
-"We know what you didn't ask." Asha's voice, tired, not cruel. "That's the review. The Weavers are not the Ring—we don't take bodies because the arithmetic is clean. You taught Laleh that we ask. Then you didn't ask."
+"We know what you didn't ask." Asha's voice, tired, not cruel. "That's the review. The Weavers are not the Charkha Measure—we don't take bodies because the arithmetic is clean. You taught Laleh that we ask. Then you didn't ask."
 
 "The gantry—"
 

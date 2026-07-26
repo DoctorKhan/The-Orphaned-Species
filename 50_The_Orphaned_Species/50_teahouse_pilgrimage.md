@@ -84,7 +84,7 @@ Discipline means reliable conduct, not submission. A resident preparing for stro
 - attend without being forced and stop on an agreed signal;
 - distinguish observation from interpretation and say *I do not know*;
 - experience charge without automatically acting, suppressing, or turning it into destiny;
-- respect another person's refusal, privacy, and withdrawal;
+- respect another person's boundary, privacy, and withdrawal;
 - accept contradictory evidence and correction without retaliation;
 - notice overload early and ask for support;
 - recover toward their own baseline after controlled contact;
@@ -153,7 +153,7 @@ The network's balance is not sameness. It is **difference remaining in relations
 
 ## Eli's place after Book III
 
-Public messianic projection around Eli survives his refusal of permanent command. His answer is institutional and ordinary: he helps establish the teahouse compact, publishes what can be tested, accepts limits on his own access and authority, and makes the network capable of correcting him.
+Public messianic projection around Eli survives his release of permanent command. His answer is institutional and ordinary: he helps establish the teahouse compact, publishes what can be tested, accepts limits on his own access and authority, and makes the network capable of correcting him.
 
 He does not own the route, found a priesthood, control the clans, or occupy the innermost sanctuary. Communities build and govern their own houses under shared minimum safeguards. Eli teaches, conducts research, gardens, repairs, and receives visitors at an **outer teahouse**. The figure others want to place at the center chooses the threshold.
 

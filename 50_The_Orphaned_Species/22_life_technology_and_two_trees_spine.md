@@ -233,7 +233,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 **Life beats (minimum):**
 
-- the post-release living network produces real refuge, contact, error, harm, repair, and refusal;
+- the post-release living network produces real refuge, contact, error, harm, repair, and the right to say no;
 - embodied accounts expose what registries, mobilization tables, and technical categories erase;
 - Sanxingdui breaks the word-tree into the wider living web without false linguistic descent;
 - anomalous presence becomes ordinary reciprocal life rather than spectacle, worship, or exemption from accountability.

@@ -10,7 +10,7 @@
 
 Appeal comes from making human stakes irresistible first and letting wonder and politics deepen them. Eli is not “the young male condition,” Wren is not “the female response,” and their relationship is not a staged reconciliation between demographic blocs.
 
-**Charkha guardrail — LOCKED 2026-07-22:** the Measure's pair-severance operation must never make women's employment, education, bodily autonomy, or freedom from coercive dependence into the villain's invention. Its evil is the appropriation of freedom: doubled obligation presented as independence, mutual dependence recoded as shame, care withdrawn or commodified, and opposed grievance stories amplified until people seek from institutions what they can no longer risk seeking from one another. Ancient female selectivity and male competition/risk-bearing may be treated as uneven population-level pressures, never total categories or moral commands. Men are not owed women's dependence; women are not responsible for repairing male isolation; masculine courage is not a currency that purchases intimacy; and honoring chosen risk must never naturalize male death. The positive answer is reciprocal reliance with consent, exit, shared burden, meaningful standing, and public support—not restored hierarchy.
+**Charkha guardrail — LOCKED 2026-07-22:** the Charkha's pair-severance operation must never make women's employment, education, bodily autonomy, or freedom from coercive dependence into the villain's invention. Its evil is the appropriation of freedom: doubled obligation presented as independence, mutual dependence recoded as shame, care withdrawn or commodified, and opposed grievance stories amplified until people seek from institutions what they can no longer risk seeking from one another. Ancient female selectivity and male competition/risk-bearing may be treated as uneven population-level pressures, never total categories or moral commands. Men are not owed women's dependence; women are not responsible for repairing male isolation; masculine courage is not a currency that purchases intimacy; and honoring chosen risk must never naturalize male death. The positive answer is reciprocal reliance with consent, exit, shared burden, meaningful standing, and public support—not restored hierarchy.
 
 Before retaining a culturally resonant beat, remove its topical label and ask:
 
@@ -53,7 +53,7 @@ The deepest aspirational fantasy is:
 - Romance complicated by power, consent, and incompatible readings
 - Emrys's humor and capture as an intimate cost
 - Wren's solo Laleh extraction as independent agency
-- Eli's refusal of chosen authority
+- Eli's release of chosen authority
 - An unremarkable afternoon as the reward rather than an anticlimax
 
 Do not add topical material until these elements work on the page.
@@ -74,7 +74,7 @@ The reader must love the life at risk before the cosmology asks for attention. R
 |---|---|---|
 | **I** | Who planted the mother's song, and what did the flare expose? | The Seven separate; the personal Manual Override emerges; the full mother truth remains withheld |
 | **II** | What is tethered at Albion, and who pays for Emrys's error? | The mother truth turns; the relational Manual Override emerges; Emrys is taken |
-| **III** | Can Eli free her without owning the grid? | Release, refusal, and a law of coexistence |
+| **III** | Can Eli free her without owning the grid? | Release, limit, and a law of coexistence |
 
 A recurring object is useful only if it repeatedly changes a decision. It is not owed as a franchise token.
 
@@ -181,7 +181,7 @@ Each position should protect a legitimate value before corrupting it:
 | Crane / registry | Safety, competence, continuity | Preemptive classification and permanent ownership | Can safety remain answerable to the person? |
 | Liberation faction | Dignity, agency, anger at abuse | Charisma, vengeance, purity, unbounded power | Can freedom accept limits and consequences? |
 | Wren / constructive control | Boundaries, defense, enforceable consent | Care becoming management | Can protection preserve authorship? |
-| Eli / constructive freedom | Personhood, pluralism, refusal of capture | Vagueness, exceptionalism, avoidance of civic duty | Can freedom protect bystanders? |
+| Eli / constructive freedom | Personhood, pluralism, declining capture | Vagueness, exceptionalism, avoidance of civic duty | Can freedom protect bystanders? |
 | Believers | Meaning, practice, continuity, community | Certainty, hierarchy, deification | Can faith refuse possession of truth and persons? |
 | Technocrats | Evidence, coordination, scale | Optimization without consent | Can systems see the person they statistically protect? |
 
@@ -207,7 +207,7 @@ Someone must build the threshold house, write the appeal procedure, cook the mea
 
 | Volume | Pressure | Emotional claim | Civic proof |
 |---|---|---|---|
-| **I — Shattering** | Classification, surveillance, social sorting | **You are not the category imposed on you.** Refusal alone is insufficient; choose commitments. | Preserve knowledge or safety without surrendering a person. |
+| **I — Shattering** | Classification, surveillance, social sorting | **You are not the category imposed on you.** A hard no alone is insufficient; choose commitments. | Preserve knowledge or safety without surrendering a person. |
 | **II — Descent** | Distrust, isolation, compulsory care, substitutes for intimacy | **Freedom does not mean needing no one.** Dependence can exist without capture. | Honor an enforceable boundary despite real need. |
 | **III — Choice** | Permanent emergency, authoritarian and revolutionary temptation | **A society can protect people without owning them.** | Constrain harmful conduct through transparent rules, distributed authority, review, care, defense, and exit rights. |
 

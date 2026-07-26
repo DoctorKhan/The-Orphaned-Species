@@ -22,11 +22,11 @@
 
 ## Draft choices — flagged for veto
 
-1. **⟦DC-1⟧ — LOCKED rev. Y.** **Friday AM** race opens **mid-channel in medias res** (wind pocket → Timah/Jul → wall-shadow finish); terms at Suresh's rail after. **Eli wins** → Cherry Cube manifest. Shireen **Monday** = post-race stake. **Two boats only.** **No dawn boat. Kiran retired from Ch 1.**
+1. **⟦DC-1⟧ — LOCKED rev. Z.** **Friday AM** race opens **mid-channel in medias res** (Eli vs Kiran; wind pocket → Timah/Jul → Kiran capsizes → wall-shadow finish); Suresh holds the wager and gives Eli the Cherry Cube manifest after **Eli wins**. Shireen **Monday** = post-race stake. **Two boats only. No dawn boat.**
 
-2. **⟦DC-2⟧ — LOCKED rev. Y.** **Mei dinner** carries orphan truth (*stolen child*, parents taken alive, Babaji told her years ago). Plate left like a place held. **No Saturday service-door goodbye.**
+2. **⟦DC-2⟧ — LOCKED rev. Z.** **Mei dinner** opens with Eli and Kiran laughing about the capsize; Kiran leaves before Mei privately delivers the orphan truth (*stolen child*, parents taken alive, Babaji told her years ago). Eli's previous night asleep in Rasel's garden is **referenced, not shown**. Plate left like a place held. **No Saturday service-door goodbye.**
 
-3. **⟦DC-3⟧ — LOCKED rev. Y.** **Saturday AM catamaran** = first Wren meet. Handler line through Meridian City. Babaji texture (robot dogs, chess, refusal context) without orphan exposition on Babaji's lips.
+3. **⟦DC-3⟧ — LOCKED rev. Y.** **Saturday AM catamaran** = first Wren meet. Handler line through Meridian City. Babaji texture (robot dogs, chess, holdout context) without orphan exposition on Babaji's lips.
 
 4. **⟦DC-4⟧ — LOCKED rev. Y.** **Saturday PM departure** during raid on Babaji hotel offices; hearth suspended; island locked down. Babaji catamaran south in parallel. **Last light**, not dawn.
 

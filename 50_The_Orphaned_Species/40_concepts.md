@@ -242,11 +242,11 @@ The Thread is not only a maze. It **sorts whichever male leaders still remain** 
 | Parent | Passport / citizenship | Claimed by | Custody register |
 |---|---|---|---|
 | **Rasel Khan** | Bangladeshi / South Asian file | **Eastern Mandate** | **Rasel Khan** on files — indispensable personnel, black-lab transfer |
-| **Maren Holt** | Albion file (legacy *British* / UK on old registries) | **Charkha Measure / Ring** (Crane apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
+| **Maren Holt** | Albion file (legacy *British* / UK on old registries) | **Charkha Measure** (Crane apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
 
-**Why they were separated:** not only attack violence — **claim routing**. Extraction-night intercept: Mandate files **Rasel**; Measure/Ring files **Maren**; no joint holding across orgs. Inter-bloc rules forbid merging chains; even if both survive the handoff, they **leave on different vehicles** toward different jurisdictions. Eli remembers one night; the file system remembers **two nationals, two claims**.
+**Why they were separated:** not only attack violence — **claim routing**. Extraction-night intercept: Mandate files **Rasel**; the Charkha files **Maren**; no joint holding across orgs. Inter-bloc rules forbid merging chains; even if both survive the handoff, they **leave on different vehicles** toward different jurisdictions. Eli remembers one night; the file system remembers **two nationals, two claims**.
 
-**Eli's passport:** **Eli Holt** on **Albion (maternal) paperwork** — legacy *British* on some Anglo files. Would Union/Measure-route as Albion dependent if linked to Maren's claim file; keeper protocol **unlinks** him (*orphan on paper*) so neither chain gets a clean dependent match. His **statelessness** in 2040 is partly real, partly net mercy.
+**Eli's passport:** **Eli Holt** on **Albion (maternal) paperwork** — legacy *British* on some Anglo files. Would Union/Charkha-route as Albion dependent if linked to Maren's claim file; keeper protocol **unlinks** him (*orphan on paper*) so neither chain gets a clean dependent match. His **statelessness** in 2040 is partly real, partly net mercy.
 
 **Craft rule:** Vol I — one border stamp, two file flags, *Rasel* on the forms (some mouths still say *Russell*), *English woman on the file* in separate rooms; save exposition for Vol II suppression scene or corridor documents.
 
@@ -292,7 +292,7 @@ The Thread is not only a maze. It **sorts whichever male leaders still remain** 
 
 **Craft rule (individual):** show **hidden talent** through work behavior — Eli finishes the diagram in his head but logs the slow time; he remembers the corridor after one walk but doesn't offer to lead. **Performing average** is survival craft, not false modesty.
 
-**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **TBI** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Hinge folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-25 (rev. R):** Wren may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Meridian run** = **Suresh race wager loss** + compound attestation; leave away from island scrutiny.
+**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **TBI** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Hinge folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-26 (rev. Z):** Wren may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Meridian run** = **Eli beats Kiran in Suresh-held race wager** + compound attestation; leave away from island scrutiny.
 
 ---
 
@@ -381,7 +381,7 @@ Distributed antagonism holds: both readings are true somewhere, and human instit
 
 **Dynamics, not taxonomy.** Nobody lives in one register. Practice moves a person up; fear, exhaustion, and crowds push them down; the Drift is register collapse experienced as transcendence. Manual Override is not a rank achieved but the daily noticing of which register you are currently in. Protagonists get caught in register 1 too — Eli's body lights with certainty about the ring photograph before his mind can test it — and the reader should catch it after learning to spot it in villains.
 
-**Attribution is a weapon.** Declaring which register someone *else's* choice came from is a power move, and every faction makes it: the registry calls carrier choices contagion (programmed → ownership is care); the liberation faction calls all restraint conditioning (programmed → burn it down); Crane calls Eli's refusal a trauma reflex. **Calling a choice programmed is the first step to owning the chooser.** The book itself refuses to certify anyone's register from outside — conduct accumulates; certainty never arrives.
+**Attribution is a weapon.** Declaring which register someone *else's* choice came from is a power move, and every faction makes it: the registry calls carrier choices contagion (programmed → ownership is care); the liberation faction calls all restraint conditioning (programmed → burn it down); Crane calls Eli's hard no a trauma reflex. **Calling a choice programmed is the first step to owning the chooser.** The book itself refuses to certify anyone's register from outside — conduct accumulates; certainty never arrives.
 
 ## Developmental arc of the series
 
@@ -516,7 +516,7 @@ The final recognition is retrospective inevitability, not fate. Once coexistence
 4. **Keep the final conflict subtle.** The last enemy is not only the old controller; it is the temptation to rebuild control with sacred language.
 5. **Let each book shift the reader's question.** From *Who is doing this to us?* to *Why does it work on me?* to *What becomes possible when it stops working?*
 6. **Make lore alter the adventure.** A line discovered must change a route; a polarity must force a choice; a new growth formation must create a deadline; a communicative center must be reached and held. Otherwise keep the mechanism in the cosmology bible.
-7. **Distinguish superficial display from true strength on-page.** Performative composure (Crane, handlers, conquest imagery) must read differently from integrated equanimity (Manual Override, Aru's stillness, refusal without spectacle). Both can look calm; only the second is connected — to body, to others, to the web. Eli's arc **models** the distinction: Thailand meditation seeds inner work early; **fruition arrives under challenge**, not at the temple door. See `15` §§ *True strength vs superficial display*, *Eli's meditation seed*.
+7. **Distinguish superficial display from true strength on-page.** Performative composure (Crane, handlers, conquest imagery) must read differently from integrated equanimity (Manual Override, Aru's stillness, limit without spectacle). Both can look calm; only the second is connected — to body, to others, to the web. Eli's arc **models** the distinction: Thailand meditation seeds inner work early; **fruition arrives under challenge**, not at the temple door. See `15` §§ *True strength vs superficial display*, *Eli's meditation seed*.
 
 ---
 
@@ -814,7 +814,7 @@ The trilogy's deep subject is **discovering the meaning of life through three co
 **Relationship to the rest of the design:**
 - The **four-corner grid** (`05`) is the *political* expression of circles 2–3. The three circles are the *lived* spiritual path. Eli's outer plot (mother, registry, web) is the vehicle; the inner plot is moving from estranged → befriending at each circle, then unifying the two trees (Life + Knowledge made one; body/family/civ in right relation) — the historical endpoint, **not a throne**.
 - **Mapping to cast:**
-  - *Body circle:* Eli's receiver/TBI; the healer's bodily refusal (crown of the body, `05`); the Custodians as "NPCs" who took the collar (programmed, owned).
+  - *Body circle:* Eli's receiver/TBI; the healer's bodily limit (crown of the body, `05`); the Custodians as "NPCs" who took the collar (programmed, owned).
   - *Family circle:* Eli's mother search; Wren's prior-love/custody instinct; Pelangi Reach; Shireen.
   - *Civilization circle:* Crane; the registry; Sol's faction; the final coalition.
   - *Two-tree unification:* the web clarified as one field; care without ownership; the Vol III endpoint.
@@ -828,12 +828,12 @@ The trilogy's deep subject is **discovering the meaning of life through three co
 1. **Three circles incarnated** — body, family, civilization on a person, not in lecture.
 2. **True strength vs display** — equanimity ≠ performative composure; vulnerability is the human register (`15` § *True strength*).
 3. **Romance cost per chapter** — trust up or down on the page (`19` § *Romance cost audit*; `31`/`32`/`33`).
-4. **Women — no Hollywood girl-power swap** — relational/somatic/refusal registers (`15` § *Women characters*).
+4. **Women — no Hollywood girl-power swap** — relational/somatic/limit registers (`15` § *Women characters*).
 5. **Eli meditation seed** — Thailand temple practice; Manual Override fruition under challenge (`15` § *Eli's meditation seed*).
 6. **Herem as decommissioning** — structural memory, not apologetic lecture (§ above).
 7. **Wren M/I/A** — **M**ystery · **I**ntrigue · **A**ttraction per Eli/Wren chapter; through-line: mystery deepens → intrigue exits counterfeit → attraction matures past control (`19` § *Female mystery…*; `31`/`32`/`33` § *M/I/A audit*). Competence attractive; **control is the flaw**.
 
-**The positive form — structure that breathes (the alternative to refusal).** The Civilization circle's *"choose how to fit without being owned"* and the Family circle's de-atomization share one positive answer, so the ending is not renunciation: **temporary, self-dissolving authority** — the *festival crown* (leadership worn and removed, never *becomed*) running on a *fission–fusion* rhythm (split into self-governing groups; reaggregate only at **surplus or necessity**; disperse again). The cost of imbalance runs **both ways** — permanent hierarchy is the cage, permanent dissolution is atomization — so maturity is the *rhythm*, not either pole. This is the positive content of the climax dispersal (`41` §46) and the "third door" (`49` § G). Full statement: `Thesis.md` § "The mature form — structure that breathes."
+**The positive form — structure that breathes (not mere renunciation).** The Civilization circle's *"choose how to fit without being owned"* and the Family circle's de-atomization share one positive answer, so the ending is not renunciation: **temporary, self-dissolving authority** — the *festival crown* (leadership worn and removed, never *becomed*) running on a *fission–fusion* rhythm (split into self-governing groups; reaggregate only at **surplus or necessity**; disperse again). The cost of imbalance runs **both ways** — permanent hierarchy is the cage, permanent dissolution is atomization — so maturity is the *rhythm*, not either pole. This is the positive content of the climax dispersal (`41` §46) and the "third door" (`49` § G). Full statement: `Thesis.md` § "The mature form — structure that breathes."
 
 ---
 

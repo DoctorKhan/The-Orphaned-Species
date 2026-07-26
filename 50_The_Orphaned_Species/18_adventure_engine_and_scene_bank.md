@@ -150,7 +150,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Trick:** Eli survives by using ordinary training: breath, angle, timing, letting the current turn him instead of fighting it.
 
-**Reversal:** the same act that saves someone gives Crane's ring a detectable flare.
+**Reversal:** the same act that saves someone gives the Charkha a detectable flare.
 
 **Cost:** Eli cannot tell which memories are his afterward, and the group loses the obvious safe route.
 
@@ -294,7 +294,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Trick:** the group becomes stronger by preserving differences: Wren's social reading, Eli's reception, the healer's bodily repair, Emrys's measurements or legacy, local custodians' knowledge, and ordinary defenders' timing.
 
-**Reversal:** Eli can take the throne-like shortcut and refuses. The refusal is tactically useful because command coherence is exactly what hostile teams can hijack. (Crane frames the shortcut as *coercion-as-courtesy* — sincere, protective, a cage; grammar + drafted scene in `47_coercion_as_courtesy.md`.)
+**Reversal:** Eli can take the throne-like shortcut and refuses. The hard no is tactically useful because command coherence is exactly what hostile teams can hijack. (Crane frames the shortcut as *coercion-as-courtesy* — sincere, protective, a cage; grammar + drafted scene in `47_coercion_as_courtesy.md`.)
 
 **Cost:** freeing the mother requires release, not possession. Crane survives into accountability rather than giving Eli the clean emotional violence.
 
@@ -481,7 +481,7 @@ These should be simple enough to remember:
 | Healer route | Can need be answered without becoming a leash? | clinic cot, generator, blood bag | the miracle creates a crowd |
 | Göbekli / Anatolia | Which map is alive? | survey stake, buried void, sound test | old maps are traps |
 | Europe | Which boundaries are watched? | bridge, ferry manifest, weather station | avoiding one boundary triggers another |
-| Albion | Can communication happen without a master? | stones, bodies, sound, instruments | refusal of command is the winning move |
+| Albion | Can communication happen without a master? | stones, bodies, sound, instruments | declining command is the winning move |
 
 ## Drafting standard
 

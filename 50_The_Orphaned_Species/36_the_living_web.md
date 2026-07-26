@@ -32,7 +32,7 @@
 The real dangers:
 
 - **Overload** — breach and charged grounds can flood sense, body, and attention; TBI makes recovery slow. Scary, disorienting, costly — he stays **Eli**.
-- **Capture** — factions want him as **container**, registry asset, or weapon. The anti-chosen-one fight is **refusal of ownership**, not sorting selves.
+- **Capture** — factions want him as **container**, registry asset, or weapon. The anti-chosen-one fight is **releasing ownership**, not sorting selves.
 - **Autopilot** — rattle/surge deposits charge; conditioning tries to **execute a command**. Manual Override = feel the charge, don't complete the act — **not** "which person am I?"
 - **Mistaking witness for mastery** — receiving a thread ≠ owning a culture, a dead person's authority, or a skill tree.
 
@@ -93,7 +93,7 @@ Human cultures **already remembered** that certain stones and places **hold spee
 - **Southern Levant / desert margin** — in the old copper country (Timna, the Arabah, Seir), miners' lore says certain stones **answer in the rhythm of the hammer**: the **bellows' breath** waking the fire is the same breath that wakes the stone. A forge, to them, was a place the earth spoke *back* through — holiness was simply *what was made there*. This is the charged-ground legend behind the Safehouse Premise (`90` §8): a maker present only as animating signal, never in person. **Rhyme, not equivalence** — breath animates the machine at the forge as it does the body; the moving air of the bellows is the anti-entropic medium in folk vocabulary.
 - **Women's devotion / Queen of Heaven** — in the later reform era the old goddess cult survived as a *women's* practice: baking and incense offered to the **Queen of Heaven** after the male monotheist word had supposedly won (Jer 44:15–19). A silenced feminine charged ground — the **Palace of the Mothers** (`46` §G), where the withdrawn feminine tier of the council is remembered by the ones the carve-up could not reach.
 
-In the story these tales are usually filed as **metaphor, tourism, or superstition** — until after the breach Eli learns the folk memory was pointing at **real charged-ground behavior**: dense regions of the web where human threads **clarify** under attention and pressure. The Ring and national programs **instrument** charged grounds; ordinary people **tell stories** about them. Both are touching the same substrate.
+In the story these tales are usually filed as **metaphor, tourism, or superstition** — until after the breach Eli learns the folk memory was pointing at **real charged-ground behavior**: dense regions of the web where human threads **clarify** under attention and pressure. The Charkha and national programs **instrument** charged grounds; ordinary people **tell stories** about them. Both are touching the same substrate.
 
 **Craft rule:** introduce talking-stone lore **locally** (one culture's name per scene), from **living characters** (growers, sailors, Emrys's footnotes, a shrine keeper) — never as a lecture that "all cultures knew." Effects before etiology: a stone **feels** like it answers before anyone names the mechanism.
 
@@ -135,7 +135,7 @@ Nothing in the story may therefore *break* a knot. What changes one is a specifi
 Two consequences to hold:
 
 - **Bindings are stable in either direction of forcing.** Push or pull, attack or feed it — a topologically protected object survives both. Factions have been trying both for millennia.
-- **The invariant is binary, not a quantity.** What distinguishes bound from free is a *kind*, not an *amount*. There is no scale of awakening, no power tier, nobody is "more untied" than someone else. This is the anti-superhero design enforced by the physics rather than by authorial refusal.
+- **The invariant is binary, not a quantity.** What distinguishes bound from free is a *kind*, not an *amount*. There is no scale of awakening, no power tier, nobody is "more untied" than someone else. This is the anti-superhero design enforced by the physics rather than by authorial fiat.
 
 ### The tenth knot — the operation, not a place
 

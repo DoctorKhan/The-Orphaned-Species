@@ -16,7 +16,7 @@ A resonance point is an object, sound, or gesture that **recurs across eras whil
 - **The cave-as-nervous-system belongs to Aedan's own deep-time arc.** When Eli later clarifies that thread (and the others), he must identify which historical person a fragment belongs to.
 - **The Modern Child is a coda/echo, not the trunk.** If retained, the child receives the carriers with their meanings stripped off after Eli has made them legible to the reader. The child is the book's open door into the reader's world, not the main decoder.
 
-There are two kinds of rhyme. This doc maps the **object/sound carriers**. The **structural rhymes** (the father-offer-and-refusal in every era; the shared chapter shape *encounter → instruction → first success → glimpse → loss*) are tracked in `37_deep_time_source.md` and aren't repeated here.
+There are two kinds of rhyme. This doc maps the **object/sound carriers**. The **structural rhymes** (the father-offer declined in every era; the shared chapter shape *encounter → instruction → first success → glimpse → loss*) are tracked in `37_deep_time_source.md` and aren't repeated here.
 
 ## Two somatic registers — do not collapse them
 

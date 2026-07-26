@@ -27,13 +27,13 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Part II — Living Gods, War in Heaven** | `37_deep_time_source.md` | Deep web-structure (watched-depth, clarified directly) | Dragon-cadence fragments. Carries the Younger Dryas rupture, grid fracture, Tiamat, chariot-wheel arrival. | III |
 | **Part II — Adapa** | `37_deep_time_source.md` + `30_beatsheet_ch09_adapa.md` | Deep web-structure (watched-depth, clarified directly) | The centerpiece deep-structure clarification. Beat-sheet is canonical. The boy's weep becomes Eli's recognition of autopilot-as-cage. | II |
 | **Part III — the practitioners** (Aru, Daskar, Ila, Tem, Anthea, Cuno, Lovernios) | `37_deep_time_source.md` | Deep human threads; **resolution varies by row and is set in drafting** (scrambled order) | Recurring people who resolve *out of* the web (he never becomes them), reached at the grounds where the practice originated. **Not a numbered roster and not seven guaranteed descents** — most should reach the reader through artifact, testimony, or living residue; see § *Cross-volume thread inventory* → *menu, not a schedule*. | I–II |
-| **The orphan-and-father thread** | `37_deep_time_source.md` | Motif | Threads era-to-era as texture, never announced as thesis. Each practitioner's material carries one quiet refusal of an offered father — in whatever form that material reaches the page. | I–III |
+| **The orphan-and-father thread** | `37_deep_time_source.md` | Motif | Threads era-to-era as texture, never announced as thesis. Each practitioner's material carries one quiet declining of an offered father — in whatever form that material reaches the page. | I–III |
 | **Patriarchy & bloodlines — recurring chord** | `37_deep_time_source.md` § *Patriarchy & bloodlines* | Motif + dramatization map | Ch **16–17** (Adapa/Qingu, Maren/keeper); Ch **20** (church); deep-time Tem/Anthea at charged grounds. **Plot:** `32`–`33`; **prose:** not yet in `MANUSCRIPT.md`. | II–III |
 | **Broken-line church** | `37_deep_time_source.md` § *The broken-line church* | Present set-piece | Vol II **Ch 5** — negative end / pews, positive end / sacristy. | II |
 | **Nephilot trail — Göbekli → massacre → Alba/elf** | `37_deep_time_source.md` § *Tracking the Nephilot line* | Discovery arc | **Vol I Ch 13** start → **Vol II Ch 5** Pömmelte → **Vol II Ch 6** Alba/elf name. | I–II |
 | **Sídhe / gods underground** | `WORLD_BIBLE`; `37_deep_time_source.md` § *The Sídhe layer*; `90` §6E | Layered folklore + coexistence protocol | **Vol II Ch 6–7 corridor:** Rowan enters as west-corridor liaison with a missing-person objective; protocol works first (hawthorn boundary; fresh rowan marks/softens the crossing; narrow grounded-iron interruption only when rowan fails; keeper extraction), then the inherited refrain. Wren accepting Rowan's person-first limit permits their formative bond to renew romantically; no ancestry or prophecy. Carrier blood, mound/place, ancestral dead, and remembered gods remain competing layers until later cosmology clarifies them. Changeling material holds real taking beside historical abuse of disabled or ill people. | II–III |
 | **Dead zones & scour** | `37` § *Dead zones*; `38` § *Scour* | World + war mechanic | **I Ch 4, 7** seed → **II Ch 5** named → **III Ch 7–8** scour warfare. | I–III |
-| **Archangels / sarim layer** | `46` §§ E, G | Name seeds; **agency ON HOLD** | I: *angel* surge + Sora Michael medal → II: Daniel/church/callsign → III: refusal beats. Cross-plane actors TBD (`46` § H). | I–III |
+| **Archangels / sarim layer** | `46` §§ E, G | Name seeds; **agency ON HOLD** | I: *angel* surge + Sora Michael medal → II: Daniel/church/callsign → III: limit beats. Cross-plane actors TBD (`46` § H). | I–III |
 | **Angelic orders / seraphim** | `46` § H | **ON HOLD** | Cross-plane agency, taxonomy, appearance — not locked. Soft seeds: church art (II Ch 5); name ladder § G. | II–III |
 | **Qingu-blood propaganda vs We-ila truth** | `37_deep_time_source.md` | Motif | The two creation myths surface as clarified fragments and as carried-song fragments that survive in the web (Lira → Derw → … → Eli clarifies them). | II–III |
 | **The wheel / sun-wheel** | `37_deep_time_source.md` | Motif | Recurring image: granary glyph, then chariot banner, then helmet, then final-flag inversion. | I–III |
@@ -60,11 +60,11 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 ### Vol I opening — LOCKED *(no Maren prologue)*
 
 - **Order:** **Ch 1 — The Hour That Belongs to No One** *(drafted)* opens the book; historical backstory is implied through residue, with retired preamble drafts kept in `42`.
-- **Measure dread in Vol I:** Custodians, white coats, planted song, Malacca witness — present-tense hunt, not front-loaded backstory. The full name remains withheld from the reader.
+- **Charkha dread in Vol I:** Custodians, white coats, planted song, Malacca witness — present-tense hunt, not front-loaded backstory. The full name remains withheld from the reader.
 
 ### Maren suppression scene — Vol II *(relocated from v1 prologue)*
 
-- **Source material:** Suppression method / Measure machinery. Not a deep-time clarification.
+- **Source material:** Suppression method / Charkha machinery. Not a deep-time clarification.
 - **When:** Vol II **Ch 3** — Eli learns **how his mother was taken**, paired with mother-trail midpoint (`32`, `29`, `99`).
 - **Function:** same as former prologue intent — keeps Crane from straw-man by showing enforcement in action, but **earned** after reader loves Eli and has chased the mother-trail.
 - **Deliverable:** rewrite from `MANUSCRIPT_v1_archive.md` prologue (~1,000–1,500 words); **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths); SE Asia extraction/keeper setting; no Crane name.
@@ -72,7 +72,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 ### Ch 1 — The Hour That Belongs to No One
 - **Setting / attachment:** old-island fishing open → Reclamation ordinary life — garden, Foundry, kitchen crew, made home.
-- **Turn:** Mandate political squeeze (Babaji keeper refusal) **suspends** the hearth's safety; Eli **leaves on schedule** for Cherry Cube contract as island locks down behind him.
+- **Turn:** Mandate political squeeze (Babaji keeper holdout) **suspends** the hearth's safety; Eli **leaves on schedule** for Cherry Cube contract as island locks down behind him.
 - **No deep-time clarification fires.** The song is background memory, not the witness lure.
 
 ### Ch 2 — Something of Hers / The Southern Exit *(breach at chapter end)*
@@ -196,7 +196,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 ### Book II, Ch 3 — What They Took *(MIDPOINT)*
 - **Setting:** Thrace/Balkan holding site and recovered record.
-- **Maren suppression scene:** courteous Measure machinery — how she was taken (`99` #Maren-suppression).
+- **Maren suppression scene:** courteous Charkha machinery — how she was taken (`99` #Maren-suppression).
 - **Midpoint revelation:** mother's **body dead**; spirit **tethered** in western web — **no usable address**.
 - **Patriarchy rhyme:** keeper hand-to-hand vs registry father-above.
 
@@ -362,4 +362,4 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Deep-time delivery:** one living web, one dial of depth (full-res threads for a minority of practitioners; deep structure for cosmology clarified directly). See `36_the_living_web.md`.
 - **Volume I capped:** **13 chapters**, opening directly with Eli and no historical or Maren/character prologue; backstory arrives through residue. Chapter 1 earns the hearth and the squeeze; Eli **leaves on schedule** (hearth suspended). Chapter 2 carries epic Meridian processing and the southern flight through the Malacca breach; Chapter 3 is aftermath. **Climax locked at Göbekli Tepe (Ch 13)**; incomplete override at **Thailand (Ch 10)**, completed personal Manual Override at Göbekli; **Emrys taken** at Göbekli. **Mekong draft retired.**
 - **Volume II locked spine:** opens post-Göbekli; Bosporus–Thrace/Balkan transfer and Maren truth; Europe dead zones / Pömmelte / Albion; **Maren release** at Ch 7. Adapa remains in Book I Ch 12.
-- **Volume III locked spine:** refugee landing, real failure of freedom, Crane's workable standard, Wren's refusal, bounded emergency authority, costly non-coercion, public inquiry, and shared-garden coda.
+- **Volume III locked spine:** refugee landing, real failure of freedom, Crane's workable standard, Wren's boundary, bounded emergency authority, costly non-coercion, public inquiry, and shared-garden coda.

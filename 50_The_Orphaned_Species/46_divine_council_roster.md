@@ -152,7 +152,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | **Broken-line church** | **Michael** or **Gabriel** in glass/statuary at the **pew-side (negative) end** — guardian turned drain; priest claims protection, laity are flat | II Ch 20 |
 | **Landscape + liturgy double-read** | Priest says Michael; Eli reads **Horon** in **Beth-Horon** on the map — god demoted to geography *and* re-promoted to angel (`33` Ch 25) | III |
 | **Faction cover story** | Union or Mandate briefings: "Archangel Protocol" = national psion unit guarding a **portion** (Israel, Persia, etc.) | II–III |
-| **Healer refusal rhyme** | Crowd wants a **messenger of God**; he refuses the demanded miracle and the messenger/son titles **in one motion** — Gabriel arc **without naming Gabriel** | **II Ch 18** (single refusal — LOCKED 2026-07-21; Vol III completes affirmatively: title withered by ordinary consent-based practice, `33` denouement) |
+| **Healer limit rhyme** | Crowd wants a **messenger of God**; he refuses the demanded miracle and the messenger/son titles **in one motion** — Gabriel arc **without naming Gabriel** | **II Ch 18** (single hard no — LOCKED 2026-07-21; Vol III completes affirmatively: title withered by ordinary consent-based practice, `33` denouement) |
 | **Deification inversion** | **Metatron** folklore = what happens when a receiver is **elevated against his will** — Eli's fear made mythic | III |
 
 **Honesty:** Michael and Gabriel are **biblically attested** as names/roles; Raphael/Uriel are **late trad**; Metatron/Sandalphon are **apocryphal** — flag confidence in prose via *who* is speaking (scholar vs keeper vs Crane slide deck).
@@ -186,7 +186,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | Name | Narrative job | How they "appear" |
 |---|---|---|
 | **Michael** | The **protector title** — keeper faith, Shield's conscience, "who guards Israel's portion." The name people trust when they want safety. | **Vol II:** iconography + faction language. **Vol III:** optional **one** watched-depth or full-res clarification at a western/Israel-linked charged ground — *not* an ally with wings; a **fragment** of the portion-holder logic Eli finally reads. Rhymes with **Manual Override** (refuse the protector who owns you). |
-| **Gabriel** | The **messenger title** — crowd crown for the **healer** (*word/cure from above*). | **Vol II:** rumor/iconography; **Ch 18:** healer refuses the demanded miracle and the messenger/Son-of-Man crown in one motion (single refusal — LOCKED 2026-07-21). **Vol III:** affirmative completion — the title withers under ordinary consent-based practice; no second refusal scene. **Whether a real Gabriel acts on the Unseen = ON HOLD** |
+| **Gabriel** | The **messenger title** — crowd crown for the **healer** (*word/cure from above*). | **Vol II:** rumor/iconography; **Ch 18:** healer refuses the demanded miracle and the messenger/Son-of-Man crown in one motion (single hard no — LOCKED 2026-07-21). **Vol III:** affirmative completion — the title withers under ordinary consent-based practice; no second hard-no scene. **Whether a real Gabriel acts on the Unseen = ON HOLD** |
 | **Prince of Persia** | **Rival bloc** — Daniel's blocker. | **Vol II–III:** callsign first; late reveal at minimum **national sar** — **whether an other-plane agent backs the bloc = ON HOLD** |
 
 **Use lightly or not at all as characters:** **Raphael** (European church / Tobit color in Ch 20 only); **Uriel** (optional one line); **Metatron/Sandalphon** (apocrypha — **Eli/healer elevation fear only**, never allies).
@@ -206,10 +206,10 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 |---|---|---|---|
 | *(generic)* **angel** | **Ch 1 or 8:** word-trigger surge in song/prayer — body only (`SOURCE_the_surges`) | — | — |
 | **Michael** | **Ch 8:** **Sora Vithan** — medal or prayer fragment under collar; protector faith, no exposition (`26` § Sora) | **Ch 16:** *sar* vs angel in dispute; **Ch 20:** Michael in church glass at draining end | **Ch 25:** landscape/liturgy double-read; **Ch 29 (optional):** one watched-depth fragment at western charged ground — portion logic, not winged ally |
-| **Gabriel** | — | **Ch 19–20:** annunciation echo in healer rumor; Gabriel in church iconography | **Vol. II Ch. 18:** healer refuses the demanded miracle **and** the messenger/Son-of-Man crown in one motion (costs a sufferer — `32` Ch 18); **Vol III:** title withered by built practice — no second refusal scene *(agency mode ON HOLD — `46` § H)* |
+| **Gabriel** | — | **Ch 19–20:** annunciation echo in healer rumor; Gabriel in church iconography | **Vol. II Ch. 18:** healer refuses the demanded miracle **and** the messenger/Son-of-Man crown in one motion (costs a sufferer — `32` Ch 18); **Vol III:** title withered by built practice — no second hard-no scene *(agency mode ON HOLD — `46` § H)* |
 | **Prince of Persia** | **Ch 13:** rival psion team on the ground (no name yet) | **Ch 16:** Daniel register + unit callsign **"Prince"** or **"Persia hold"** in intercept/briefing | **Ch 28–29:** codename resolves to **national sar** — partition war, not a demon; human operator was wearing a title |
 
-**Cast lock:** **Sora Vithan** carries Michael (Vol I seed → Vol III defection rhymes with refused protector). **Rival national team** wears Persia-prince callsign (Vol I Ch 13 → Vol III reveal). **Healer** carries Gabriel projection (Vol II rumor → Ch 18 single refusal → Vol III withering).
+**Cast lock:** **Sora Vithan** carries Michael (Vol I seed → Vol III defection rhymes with refused protector). **Rival national team** wears Persia-prince callsign (Vol I Ch 13 → Vol III reveal). **Healer** carries Gabriel projection (Vol II rumor → Ch 18 single hard no → Vol III withering).
 
 **Still open (`99`):** Michael vs Gabriel at church draining end; rival team nationality + **Prince** callsign holder's personal name; whether Michael watched-depth lands Ch 25 or Ch 29.
 
@@ -225,11 +225,11 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 
 | Element | Status | Notes |
 |---|---|---|
-| **Name ladder** (Michael, Gabriel, Persia prince) | Plot **seeds** only | Vol I–III references in § G plot ladder — iconography, callsigns, refusal rhymes |
+| **Name ladder** (Michael, Gabriel, Persia prince) | Plot **seeds** only | Vol I–III references in § G plot ladder — iconography, callsigns, limit rhymes |
 | **Sora's Michael medal** | Cast seed | Vol I Ch 8 — faith object, no theology dump |
 | **Broken-line church** | Set-piece geometry | Cherub/seraph **art** at threshold/ceiling optional — miswired polarity; **whether a being is behind the art = ON HOLD** |
 | **Word-triggers** (*angel*, *seraph*, *holy*) | Eli body | `SOURCE_the_surges.md` — sensation only until agency decided |
-| **Healer refusal / Eli anti-throne** | **LOCKED** drama | Independent of whether Gabriel is a real messenger elsewhere |
+| **Healer limit / Eli anti-throne** | **LOCKED** drama | Independent of whether Gabriel is a real messenger elsewhere |
 
 ### What is ON HOLD (decide before prose)
 

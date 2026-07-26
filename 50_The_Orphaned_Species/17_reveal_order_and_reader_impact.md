@@ -58,12 +58,12 @@ Both are **puzzle-driven adventure thrillers**: propulsion comes from **decoding
 ### What this series adopts (explicitly)
 
 - **Clue-trail spine:** Pelangi → Malacca → Thailand/Gulf → Göbekli → Europe → Albion (`95` *clue trail*; `35` artifact chain).
-- **Conspiracy of the ages:** Measure / Ring / Custodians / institutional capture **rhyme** with deep-time suppression (`95` *Charkha Measure*; § Tier 3 pattern recognition below).
+- **Conspiracy of the ages:** Charkha / Custodians / institutional capture **rhyme** with deep-time suppression (`95` *Charkha Measure*; § Tier 3 pattern recognition below).
 - **Landmark set-pieces:** race fairway, Cube roots, chandlery, Pömmelte shafts, broken-line church, Rollright, Stonehenge, Avebury — each site **does work** (clue + cost + pursuit).
 - **Expertise fantasy:** Rootbook cognates, registry marks, keeper protocol — reader learns **with** Eli, often **wrong first**.
 - **Dual-register clues:** civic fact first (Albion rename, Ch 5), deep rhyme second (Alba / elf / Sídhe, Ch 6) — same beat structure as Brown's "symbol means X" → "and therefore the Church…"
 
-### What this series refuses (thesis, not timidity)
+### What this series will not do (thesis, not timidity)
 
 | Comp habit | This series |
 |------------|-------------|
@@ -83,7 +83,7 @@ Use at **chapter outline** and **revision**:
 2. **Is there one visual key?** Object, architecture, mark, gesture the reader can picture (ring, plaquette, cohort list, pew geometry).
 3. **Does the clue argue with someone?** Clerk, keeper, faction, or Eli's wrong hypothesis — exposition through **disagreement**.
 4. **Payoff within 1–3 chapters?** If the clue only sets up Book III, add a **partial human payoff** now (fear, route change, relationship cost).
-5. **Institutional texture?** Clipboard, white coat, sponsor line, museum board — Measure **felt** in procedure.
+5. **Institutional texture?** Clipboard, white coat, sponsor line, museum board — Charkha **felt** in procedure.
 6. **Companion read?** Someone on-page translates; Eli is not the only mouth for history.
 7. **Rhyme check:** does this antagonist **face** echo Crane, Custodians, church drain, registry trap, or pair-severance file — without naming the apex?
 8. **Wonder beat:** before violence at a landmark, **one breath** of awe (Cube spectacle, Göbekli fox-pillar, Stonehenge weather) — *National Treasure* lesson without tone collapse.
@@ -161,7 +161,7 @@ Use images before terminology. Readers remember circles, forks, wounds, boats, f
 The recognition should build in three steps:
 
 1. **Personal:** the body can run rules without the conscious operator.
-2. **Relational:** family can shelter the person, but love can become possession, debt, legacy, or refusal to release.
+2. **Relational:** family can shelter the person, but love can become possession, debt, legacy, or unwillingness to release.
 3. **Civilizational:** large systems exploit the same rules while borrowing the language of kinship to make expenditure feel like belonging.
 
 The reader should first think, "This is about the part of me that lives automatically." Only later should the reader understand that civilization itself may be built to exploit the same mechanism.
@@ -174,7 +174,7 @@ Book III supplies the synthesis: civilization behaves like an engine while prete
 
 The global baby bust is one of the cleanest proofs, but its full meaning waits for Book III. Book I shows missing cohorts and the bureaucratic value assigned to young bodies. Book II tests bloodline against chosen family, loss, fosterage, and shared care. Only Book III names the contradiction: institutions lament that people no longer form families while preserving the housing, labor, surveillance, and attention systems that make durable intimacy difficult; then they call for births because the engine needs replacement labor. **A civilization can order reproduction; it cannot order belonging.**
 
-**Charkha pair-severance follows the same delay.** Book I supplies symptoms only: Eli and Wren both fear that need will become ownership, and neither yet knows how much of the surrounding loneliness has been cultivated. At the Book II midpoint Rowan finds operational evidence that apparently opposed gender messages were tested and amplified by the same Measure channels. The discovery names **dependency transfer**, not a conspiracy that invented women's autonomy: reciprocal reliance is made shameful while reliance on institutions becomes invisible. Wren carries the intimate recognition—what the pressure did to bodies, trust, and formative bonds—without allowing it to explain away anyone's choices. Book III supplies the withheld synthesis: pair-severance was one belt in the civilization-engine, and its demographic consequence became the excuse for new control. **The Measure did not liberate women from men or men from women. It liberated the engine from both.**
+**Charkha pair-severance follows the same delay.** Book I supplies symptoms only: Eli and Wren both fear that need will become ownership, and neither yet knows how much of the surrounding loneliness has been cultivated. At the Book II midpoint Rowan finds operational evidence that apparently opposed gender messages were tested and amplified by the same Charkha channels. The discovery names **dependency transfer**, not a conspiracy that invented women's autonomy: reciprocal reliance is made shameful while reliance on institutions becomes invisible. Wren carries the intimate recognition—what the pressure did to bodies, trust, and formative bonds—without allowing it to explain away anyone's choices. Book III supplies the withheld synthesis: pair-severance was one belt in the civilization-engine, and its demographic consequence became the excuse for new control. **The Charkha did not liberate women from men or men from women. It liberated the engine from both.**
 
 The metaphor must not flatten civilization into pure evil or misuse thermodynamics as literal social physics. Engines produce real work: medicine, food distribution, infrastructure, defense, knowledge, and coordination. That useful output is why people consent. The indictment is that institutions preserve their organized form by exporting entropy downward while treating organizational survival as identical to care. The people discarded are never waste in the novel's moral voice; **the engine treats them as exhaust, and the story restores them as persons.** Governing distinction: **A family remembers whom it has lost. An engine records what the loss purchased.**
 
@@ -387,7 +387,7 @@ Before drafting any chapter, identify which reader question it is feeding:
 8. What does the reader feel before they learn the term?
 9. What ordinary thing is being protected?
 
-If a chapter only adds explanation, delay it or convert the explanation into a desire meeting refusal, choice, and cost.
+If a chapter only adds explanation, delay it or convert the explanation into a desire meeting a hard no, choice, and cost.
 
 ## Present-day street skin (discovery pacing)
 
@@ -395,7 +395,7 @@ When drafting present-day legs, layer this doc's emotional order with the **stre
 
 - Early events should look like **registry chase, illegal psion activity, smuggling, or clinic horror** before they look like cosmology.
 - Middle artifacts should read as **bootleg grid firmware** — fought-over keys, interfaces, maps — before Anatolia/Albion reframe them as Life-bridge grammar.
-- Every faction pitch should feel like an **install offer** (register, weaponize, prophecy, harvest); Eli's refusals are the drama.
+- Every faction pitch should feel like an **install offer** (register, weaponize, prophecy, harvest); Eli's non-install choices under pressure are the drama.
 - Pelangi Reach warmth stays the **anti-Night City** hearth; do not sacrifice lovable ordinary life for noir temperature.
 
 The reader arc at street level: *covert psion war → war over who gets to play the planet → the native road was never the purchased interface.*
@@ -411,7 +411,7 @@ Layer this doc's emotional ladder onto that spine:
 | Something wrong with Eli's body | Life effects first — somatic reads, breach, growth, healing |
 | Something wrong with society | Knowledge lane exposed — registry, registry-as-care, wrong explanations |
 | Something wrong with history | Seven practices — Life road fragments; artifacts as contested tech |
-| Something wrong with gods | Split engineered — interfaces, extraction, Adapa refusal |
+| Something wrong with gods | Split engineered — interfaces, extraction, Adapa's declining life |
 | Something wrong with humanity | Sub-drone / deceivable species — Knowledge without bridge |
 | Ordinary life still worth choosing | **Reunification enacted** — practice + standards + coexistence; ordinary afternoon |
 

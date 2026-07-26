@@ -384,7 +384,7 @@ The damaged section matters because the argument seems to turn on whether every 
 
 - The assigned roles do produce results — specialization is real and necessary. That is not the problem.
 - Umul is not useless even in his afflicted state. The act of caring for him, tending him, developing compassion for him — that is itself useful work. It develops in those who care the very things civilization needs most and most often suppresses.
-- The real failure is the system's refusal to recognize care-work, healing-work, and compassion-work as valid functions. Civilization knows how to assign fate, bread, and office; it does not know how to assign tenderness, presence, or the slow labor of helping a body find its own coherence.
+- The real failure is the system's failure to recognize care-work, healing-work, and compassion-work as valid functions. Civilization knows how to assign fate, bread, and office; it does not know how to assign tenderness, presence, or the slow labor of helping a body find its own coherence.
 - The missing fragment should reveal that **Umul is healed by human hands** — not by a god, not by a decree, but by someone working with the living system directly: breath, charge, organ rhythm, attention. This means the healing knowledge was always known to humanity, embedded in the culture alongside the administrative functions, but suppressed when civilization decided that only assigned-role work was legitimate.
 
 Together this compresses with Adapa in a new way:
@@ -416,7 +416,7 @@ Guardrail: do not make the Arta into literal computer files. The value is the an
 
 **TRILOGY PLACEMENT — LOCKED 2026-07-15:** Enheduanna's hymn is a human and political countervoice, never a magical key, prophecy, or Albion instruction. In **Book I Ch 12**, Eli encounters a damaged/disputed hymn alongside the Adapa material and recognizes a named woman speaking from displacement inside an imperial system. In **Book II Ch 20–21**, Anthea's embodied song is compared with (but never identified as) Enheduanna's authored text; a faction attempts to read the hymn as prophecy, and Eli rejects that use. In **Book III Ch 31**, the hymn's survival informs the public hearing's question of who may preserve, interpret, and authorize a voice. Eli's final bard function is custodial and provisional: he carries a song without owning or canonizing it.
 
-**Recurring contrast — LOCKED:** Enheduanna's voice survives in text; Anthea's in bodies and sound; Maren's is suppressed by an institution; Wren protects voice through refusal and boundaries; Eli receives, alters, and relinquishes rather than possessing any of them. Do not make Eli a new Enheduanna, Inanna avatar, or scripture-founder.
+**Recurring contrast — LOCKED:** Enheduanna's voice survives in text; Anthea's in bodies and sound; Maren's is suppressed by an institution; Wren protects voice through boundaries and hard nos; Eli receives, alters, and relinquishes rather than possessing any of them. Do not make Eli a new Enheduanna, Inanna avatar, or scripture-founder.
 
 Use **Enheduanna** through the Inanna hymn tradition, especially **The Exaltation of Inana** (*Nin-me-sara*) and, if needed, the broader temple-hymn material. Her value is not that she is a token "first woman writer" dropped into the chain. Her value is structural:
 
@@ -443,7 +443,7 @@ Guardrails:
 
 In **Inana's Descent**, Enki creates small liminal beings who do not storm the underworld by force. They sit with Ereshkigal and mirror her pain. Only after that resonance do the life-giving plant and water restore Inana.
 
-Novel use: this is the strongest ancient rhyme for the healer's method. Healing is not command, conquest, diagnosis-by-force, or charisma. It begins with accurate resonance: meeting the suffering system where it is, then applying the right life-energy intervention. This should foreshadow the healer's refusal to be worshipped; the healing belongs to the alignment, not to a new godman. Ereshkigal retains legitimate pain and agency; she is not reduced to a defective system waiting for diagnosis.
+Novel use: this is the strongest ancient rhyme for the healer's method. Healing is not command, conquest, diagnosis-by-force, or charisma. It begins with accurate resonance: meeting the suffering system where it is, then applying the right life-energy intervention. This should foreshadow the healer's declining to be worshipped; the healing belongs to the alignment, not to a new godman. Ereshkigal retains legitimate pain and agency; she is not reduced to a defective system waiting for diagnosis.
 
 Possible line of interpretation: the life-giving plant and water are not magic fuel by themselves. They work because the closed system has first been met without aggression.
 
@@ -460,7 +460,7 @@ The **apkallu** are primeval sages associated with antediluvian wisdom, city fou
 Treat **Uanna/U-An/Oannes** and **Adapa** as related but not safely identical. The traditions overlap because both cluster around Enki/Ea, Eridu, water, antediluvian wisdom, and the boundary between human and divine. But their story-functions differ:
 
 - **Uanna/Oannes** = the older apkallu or intermediary-being transmission function: civilization comes from more-than-human teachers, technicians, or guardians.
-- **Adapa** = the humanized tragic-control function: wisdom enters a mortal priest under divine administration, shame-conditioning, and the refusal of life.
+- **Adapa** = the humanized tragic-control function: wisdom enters a mortal priest under divine administration, shame-conditioning, and the declining of life.
 
 The confusion itself is useful evidence. Later civilizations could no longer tell whether the first teacher was a fish-sage, a priest, a semi-divine technician, or a mortal man made into a symbol. The novel should exploit that uncertainty without flattening the figures into one character.
 

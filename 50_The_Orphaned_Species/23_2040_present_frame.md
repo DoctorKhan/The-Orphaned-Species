@@ -48,7 +48,7 @@ The archived world history rhymes **Late Bronze Age network collapse** (Cline / 
 
 | Bronze Age fate | Historical pattern | Sci-fi bloc | Collapse strategy | Long arc (author) | On-page pressure (2040) |
 |---|---|---|---|---|---|
-| **Total losers** | Mycenaeans, Hittites — hyper-centralized fortress-builders; exploited lower classes for monumental labor; cities burned (internal revolt likely); centralized economy and literacy gone | **Continental Union** | Rigid centralization — registries, walls, force; **brittle**; no spare parts | Looks terrifying now; **hollow tree in the storm** — sudden catastrophic fracture when the next chain breaks | Crane's ring; activation hunts; class severance baked in; "keep the chaos out" |
+| **Total losers** | Mycenaeans, Hittites — hyper-centralized fortress-builders; exploited lower classes for monumental labor; cities burned (internal revolt likely); centralized economy and literacy gone | **Continental Union** | Rigid centralization — registries, walls, force; **brittle**; no spare parts | Looks terrifying now; **hollow tree in the storm** — sudden catastrophic fracture when the next chain breaks | Charkha Measure; activation hunts; class severance baked in; "keep the chaos out" |
 | **Stagnant survivors** | Egypt, Assyria — endured cascading disaster but permanently crippled or pulled inward; massive scale + brutal control | **Eastern Mandate** | Endurance at scale — corridors, efficiency; **too rigid to adapt** at first, but contains older maritime, scientific, mercantile, and plural traditions | Survived the gene drive and collapse; initially stagnant toward the biological shift, then becomes indispensable to the joint field-sail build through internal adaptation rather than Western conversion | Watched acute phase from afar; consolidation; frames threshold episodes as **disease to cure**; later reveals scientists, workers, families, traders, critics, and Commissioner Ma behind the system |
 | **Unprecedented winners (maritime)** | Phoenicians, Cypriots — decentralized coastal city-states; **no head to chop**; stepped into vacuum; spread iron + phonetic alphabet (copyable, person to person) | **Free Ports Coalition — ports** | **Decentralized maritime antifragility** — harbors, routes, trade through broken lanes | Natural vectors for the post-weapon mutation; **birthed the next era** without trying to own it | Malacca, Pelangi Reach, **contested archipelagos** (Hawaiʻi); threshold houses along trade lanes |
 | **Non-palace keepers (inland)** | Pastoral, mound, covenant communities that never depended on palace literacy; outlast burn layers by memory, ritual, distributed skill | **Free Ports Coalition — inland sector** (**Albion**, broken-route Europe) | **Distributed memory** — matriline, song, threshold practice on **broken lines** | Survives when maps and registries lie; Albion contested in Book II | Pömmelte trail → Rollright → Anglesey; **Albion** passport polity (legacy *Britain* on old files) |
@@ -123,7 +123,7 @@ Endurance state frames episodes as **disease to cure** — centralized medicine,
 
 - **Shipping** still moves, but slower, costlier, and dirtier — diesel workboats, insurance waivers, bribes at quarantine floats (already in manuscript).
 - **Satellites:** partial degradation — not a dark sky, but **gaps**: GPS drift, comms blackouts, delayed finance, nations leaning on **terrestrial** routing again. *Plot load:* old embodied routes and stone networks matter beside broken sky.
-- **Cyber:** port systems, hospital records, refugee files, and registry databases are **battlefields** — Crane's ring lives **inside** legitimate systems it helped shape during the outbreak.
+- **Cyber:** port systems, hospital records, refugee files, and registry databases are **battlefields** — the Charkha lives **inside** legitimate systems it helped shape during the outbreak.
 - **States:** blocs field small **psion teams**; contractors and deniable units fill the gaps. Many-sided war, not one secret emperor.
 
 ### The Hinge (past tense, persistent settlement)
@@ -217,7 +217,7 @@ By 2040, elites **know** carriers exist:
 
 - **Detection:** instrument suites + trained teams + AI-assisted pattern matching on biometrics and behavior under stress.
 - **Programs:** recruitment, conscription, registry, black sites — national and contractor.
-- **Crane's ring:** older suppression lineage wearing **lanyards** — health agencies, immigration, museums, foundations.
+- **Charkha Measure:** older suppression lineage wearing **lanyards** — health agencies, immigration, museums, foundations.
 - **Public:** majority still skeptical or unaware; believers split between **prophecy**, **fraud**, and **bioterror panic**.
 
 ---

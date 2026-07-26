@@ -31,7 +31,7 @@ That is not cynicism dressed as wisdom. It is **shared disillusionment that turn
 | **Hearth circle** | Fire, circle, one guitar; after collapse | **This doc** § *Hearth circles* — Book II primary |
 | **The flow** | Post-collapse rendezvous phrase; emergent local rhythms | **This doc** § *The flow* — **Book II primary → Book III wide** (not Vol I) |
 
-Same unbranded household curriculum. Verses drip alone; liturgies assemble when a room needs a shared refusal; **hearth circles mend the body after the institution breaks.**
+Same unbranded household curriculum. Verses drip alone; liturgies assemble when a room needs a shared hard no; **hearth circles mend the body after the institution breaks.**
 
 ---
 
@@ -47,7 +47,7 @@ Same unbranded household curriculum. Verses drip alone; liturgies assemble when 
 
 **Not this:** Cherry Cube chant, healing-pilgrim media, Sol's rally, broken-church drained end, Deiwos chalk as crown.
 
-**Thematic job:** after the **palace** fails, the **circle** still works. Bronze Age Collapse rhyme (`32` Ch 5): centralized systems brittle; local skill, memory, food, and **sitting together** persist. Seeds Book III teahouse and men's cloisters — **found here**, not invented at the crown refusal.
+**Thematic job:** after the **palace** fails, the **circle** still works. Bronze Age Collapse rhyme (`32` Ch 5): centralized systems brittle; local skill, memory, food, and **sitting together** persist. Seeds Book III teahouse and men's cloisters — **found here**, not invented at the crown release.
 
 **Khun Dang rhyme (Book I → II):** Eli hears four chords again in Europe and remembers the lodge — *cook after, play after* — without anyone explaining the lineage.
 
@@ -278,7 +278,7 @@ Novel beats reference **F1–F10**, not the full liturgy.
 | **1** | Somchai witnessed heal | F5 — healer to a patient/corridor wall | beatsheet |
 | **2** | Bosporus transfer | F4 — refugee clinic or ferry | beatsheet |
 | **3** | Maren suppression | F2 — Eli or Hassan, expressionless after the van | beatsheet |
-| **4** | Somchai refusal / Sol approach | **Paired F6/F7** — pilgrims bright, healer dark/dull | beatsheet |
+| **4** | Somchai's hard no / Sol approach | **Paired F6/F7** — pilgrims bright, healer dark/dull | beatsheet |
 | **5** | Broken-line church, Deiwos chalk | Voice line at **draining end** of nave; sacristan answers F6 — **half-antiphon seed** | beatsheet |
 | **6–7** | Rollright / bitter cup | F8 — riddling ground, don't-know as method | beatsheet |
 | **8–19** | Europe, Pömmelte, Rowan | F1 on chalked house beside Deiwos circles — **same wall, two grammars** | beatsheet |
@@ -320,7 +320,7 @@ The ending runs **two teachings**, one personal and one civic. Both refuse the p
 
 | Beat | Deploy |
 |---|---|
-| Temporary crown, coercion temptation | **Contrast only** — Crane/Sol = govern through cleverness and sync; Eli's refusal enacts Tao 65 without naming it |
+| Temporary crown, coercion temptation | **Contrast only** — Crane/Sol = govern through cleverness and sync; Eli's hard no enacts Tao 65 without naming it |
 | Authority expires (Ch 8 end) | Optional **host rule** on a Hawaiʻi threshold wall: *Do not be clever at the threshold.* |
 | Partial Parade assembly | **Not here** — messiah pressure still peaking; save full forms for Ch 10 |
 
@@ -368,7 +368,7 @@ The ending runs **two teachings**, one personal and one civic. Both refuse the p
 | **Khun Dang, Lung Thong** | F3, F6 | Quiet work under watch |
 | **Malai, Gulf curator** | F7 | After apparatus / file reduces people |
 | **Stagehands, clerks (minor)** | F1, voice lines | Under spectacle; not heroes |
-| **Somchai** | F5, F6 (refusal) | Body among bodies; rejects crown |
+| **Somchai** | F5, F6 (hard no) | Body among bodies; rejects crown |
 | **Eli** | **Hears until Ch 9; speaks F8 at inquiry; silent at full service** | Arc: alone → discovers shared → does not lead |
 | **Wren, Rowan, Mei** | voice lines only if ever | Operational; not liturgy carriers |
 | **Sol, Crane, consortium** | **parade only** — never *I alone* | Capture-side grammar |

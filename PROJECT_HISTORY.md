@@ -149,7 +149,7 @@ The `Timeline` repository developed a **Human Integration Project** or **Gracile
 - the split between the Tree of Life and Tree of Knowledge;
 - an anti-entropic planetary grid;
 - the Igigi labor conflict;
-- Adapa's refusal of immortality;
+- Adapa's declining of immortality;
 - genetic repositories, bottlenecks, and interventions;
 - Göbekli Tepe, Stonehenge, Albion, Bell Beaker, and Sintashta transitions;
 - seven facets or functional human capacities;
@@ -272,7 +272,7 @@ The species-level success condition is now explicit: humans must be able to live
 
 On June 23, 2026, the present-day healer was fixed as male and given an unwanted deification arc spanning Volumes II and III. After a witnessed healing, he asks the patient not to tell anyone for practical reasons: patient privacy, route security, surveillance risk, and his finite ability to answer need. The witness tells; testimony becomes rumor, pilgrimage, entitlement, and institutional interest.
 
-Asked whether he is a son of a god, the healer answers, "No. I am the son of a man." Later retelling may convert *a son of a man* into the title *the Son of Man*, making myth formation visible as a process acting against the subject's refusal. The arc moves through all three immature responses to power: kneeling to him, attempting to cage and conscript him, then threatening to burn the fraud or blasphemer when he refuses or fails.
+Asked whether he is a son of a god, the healer answers, "No. I am the son of a man." Later retelling may convert *a son of a man* into the title *the Son of Man*, making myth formation visible as a process acting against the subject's limit. The arc moves through all three immature responses to power: kneeling to him, attempting to cage and conscript him, then threatening to burn the fraud or blasphemer when he refuses or fails.
 
 His survival as a limited, fallible, accountable human neighbor—not a god, public utility, or target—is now one of the required proofs of Volume III's coexistence victory. His exact name and location remain open.
 

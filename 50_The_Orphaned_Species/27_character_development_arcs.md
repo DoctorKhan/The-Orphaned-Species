@@ -107,7 +107,7 @@ Eli begins awkward and confused in ordinary leadership, carrying the private con
 
 1. **Competence (Book I):** he acts decisively and saves people, then mistakes usefulness for entitlement to direct them.
 2. **Interpretation (Book II):** he becomes persuasive and historically informed, then learns that insight does not grant jurisdiction over other people's lives.
-3. **Bounded service (Book III):** Pelangi Reach's refugee death, Wren's refusal, and San Francisco's fall teach him to make authority limited, visible, revocable, and shared.
+3. **Bounded service (Book III):** Pelangi Reach's refugee death, Wren's boundary, and San Francisco's fall teach him to make authority limited, visible, revocable, and shared.
 4. **Stewardship (ending):** he accepts a weaker voluntary response rather than forced synchronization, names the cost, submits to public judgment, and builds systems that work when he is absent.
 
 Responsible leadership is therefore not command or self-erasure. It is making necessary decisions, sharing power, protecting dissent, accepting consequences, and leaving people freer—and less dependent on the leader—than before.
@@ -134,7 +134,7 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 **Vol III**
 - Opening: coordinates the refugee landing successfully; others begin treating temporary authority as natural leadership; **connection-leaps read as messiah proof** in public.
 - Failure: a refugee admitted under his sponsorship commits a fatal nonconsensual mind-entry; Eli remains present to grief and accusation.
-- Wren refusal: recognizes that partnership gives him no jurisdiction over her threshold network.
+- Wren boundary: recognizes that partnership gives him no jurisdiction over her threshold network.
 - Climax: accepts the federation's bounded crown; refuses forced synchronization even though it would probably save more people; authority expires.
 - Reckoning: submits to public inquiry and accepts restrictions on future command.
 - Coda: works in the shared grafted garden and serves on a sailboat crew; wanted, useful, and replaceable; **connections noticed without announcing them** — ordinary mind after the performance (`54` Ch 25).
@@ -145,13 +145,13 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 
 ### Rise-and-mature — the bounded-crown spine (LOCKED, 2026-07-13)
 
-Eli's through-line is an **ascent into answerability**, not a flat run of refusals. He achieves competence, allies, real wins, a following, and temporary command. Maturity requires both accepting authority when permanent refusal would abandon people and surrendering it when necessity ends.
+Eli's through-line is an **ascent into answerability**, not a flat run of nos. He achieves competence, allies, real wins, a following, and temporary command. Maturity requires both accepting authority when permanent renunciation would abandon people and surrendering it when necessity ends.
 
 - **Vol I — prey → agent:** learns to *act* (reads a field, protects **Malai's** Thailand cooperative — a built win); earns Wren and Emrys; survives Malacca. His flare is a double-edged "arrival" (rise = exposure).
 - **Vol II — agent → liberator:** wins against Custodian control, grows a coalition, reaches Maren, releases her, and seeds the first awakening without owning the amplifier. The myth accretes against his will. Liberation outruns the social capacity to hold it.
 - **Vol III — coordinator → answerable member:** his successful refugee response earns real authority. After freedom produces a victim, he accepts a purpose-bound, revocable, self-expiring crown during attack. He refuses to turn it into forced synchronization, loses people or a beloved place that coercion might have saved, steps down, and submits to public judgment.
 
-**He sees the cost of imbalance both ways:** permanent throne becomes the cage; permanent refusal abandons people who need coordinated protection. Maturity is the rhythm—gather authority for a defined necessity, bind it in advance, expose it to review, and disperse it afterward. His final proof is not taking off a symbolic crown by personal virtue; it is accepting that ordinary people can judge and limit him. Positive form: `Thesis.md` § "The mature form — structure that breathes."
+**He sees the cost of imbalance both ways:** permanent throne becomes the cage; permanent renunciation abandons people who need coordinated protection. Maturity is the rhythm—gather authority for a defined necessity, bind it in advance, expose it to review, and disperse it afterward. His final proof is not taking off a symbolic crown by personal virtue; it is accepting that ordinary people can judge and limit him. Positive form: `Thesis.md` § "The mature form — structure that breathes."
 
 ---
 
@@ -501,7 +501,7 @@ They braid: an ordinary practice turns out to be a curriculum fragment worn down
 - **Adopted under pressure, not admiration.** They pick it up because they are cold, grieving, fed, hiding, or useless and need to be useful — never because it is beautiful. Beauty is what they notice years later.
 - **Carried wrong first.** The adopted practice is performed clumsily, at the wrong moment, or for the wrong reason before it becomes theirs. Comedy lives here (`24`).
 - **Altered, with the source named.** Book III versions are visibly changed and the giver is credited by name. **Grafting, again** — the shared garden, the threshold house rota, a mourning rite performed by people who are not from where it came from.
-- **The guard: hosts stay subjects.** The communities are not a supply of technique for the protagonists. At least once a practice must be **withheld** — offered to one character and refused to another, or given with conditions Eli finds inconvenient — and the refusal must be treated as legitimate and never circumvented. Wren's *"everyone inside knows; no one outside is owed the knowing"* (§ *Quiet-culture lock*) is the same rule in her register.
+- **The guard: hosts stay subjects.** The communities are not a supply of technique for the protagonists. At least once a practice must be **withheld** — offered to one character and refused to another, or given with conditions Eli finds inconvenient — and the boundary must be treated as legitimate and never circumvented. Wren's *"everyone inside knows; no one outside is owed the knowing"* (§ *Quiet-culture lock*) is the same rule in her register.
 - **Adoption is reciprocal.** They leave things too: Eli's cooking, Emrys's controls-and-error-bars, Somchai's triage, Wren's exits. A traveler who only receives is a tourist.
 
 **Scene owed:** at least one per volume where a character does something small and *specifically inherited from a named person in an earlier volume*, without commentary — the reader recognizes the source before the character mentions it. Cross-ref the adventure/scene bank for placement: `18_adventure_engine_and_scene_bank.md`.
@@ -547,7 +547,7 @@ No lecture. Reader feels curriculum through **cost paid**.
 | Cure Eli's TBI at climax | Injury = human limit, not upgrade |
 | Eli masters all Seven practices | Distributed gifts (healer depth, Wren ops) |
 | Wren gives up network for love | Her indispensable Vol III choice **binds** network |
-| Wren's refusal is costless or secretly unnecessary | Her boundary weakens the common defense and still remains legitimate |
+| Wren's boundary is costless or secretly unnecessary | Her boundary weakens the common defense and still remains legitimate |
 | Crane redeems via backstory | Complexity ≠ absolution |
 | Healer accepts worship to save lives | Kneel→cage→burn must be refused |
 | Romance deferred to epilogue only | Union **earned** late Vol II, tested Vol III before coda |

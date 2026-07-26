@@ -94,7 +94,7 @@ At least once, the bond should offer **clean exit fantasy**:
 
 > We could leave. Drop the clue. Take the boat. Disappear.
 
-The scene must **almost** work emotionally, then fail on a real third loyalty (Wren's people, Eli's mother-trail, a civilian, truth, consent). The reader should feel the pull and respect the refusal. This is EdgeRunners' tragedy transposed: love is real **and** cannot shrink the world to two.
+The scene must **almost** work emotionally, then fail on a real third loyalty (Wren's people, Eli's mother-trail, a civilian, truth, consent). The reader should feel the pull and respect the boundary. This is EdgeRunners' tragedy transposed: love is real **and** cannot shrink the world to two.
 
 **7. Humor as intimacy.**
 
@@ -106,7 +106,7 @@ Structure romantic beats so **want outruns permission**:
 
 - recognition in Vol I, comfort withheld;
 - care in Vol II, control tested;
-- chosen love by late Vol II, **before** the mother-release climax so the ending is not "they got together"; Book III tests whether commitment can survive separate authority, Wren's refusal, and public accountability.
+- chosen love by late Vol II, **before** the mother-release climax so the ending is not "they got together"; Book III tests whether commitment can survive separate authority, Wren's boundary, and public accountability.
 
 The buildup is the product. A single kiss after fifty chapters of earned proximity beats five speeches about divine pairing.
 
@@ -141,7 +141,7 @@ End Vol I: the reader should think *I want them to have one quiet week together*
 - Do not kill the romance to copy tragedy; **separation, misread control, and deferred ordinary life** already hurt.
 - Do not place the only intimate warmth in Malacca noir — Pelangi Reach establishes what Eli is losing; Wren's network establishes what she protects.
 - Wren is **nineteen** and Eli is **twenty-two**. Her operational authority and his post-breach dependence still create a handler/rescued-person imbalance. No early intimacy should be treated as free consent while she controls his route, medicine, information, or physical safety.
-- Wren's refusal to share Mira's name, images, or memory is a complete boundary, not a romantic obstacle. Eli proves trust by stopping a field-read rather than acquiring the withheld history.
+- Wren's boundary to share Mira's name, images, or memory is a complete boundary, not a romantic obstacle. Eli proves trust by stopping a field-read rather than acquiring the withheld history.
 - Wren's future did not begin with Eli: the abandoned ferry-terminal threshold house and its courtyard predate him. A shared future becomes romantic only when Eli is invited into an existing aspiration rather than becoming its reason.
 
 When drafting present-day pursuit tone alongside romance, pair this section with `21_present_day_street_skin.md` (port-noir pressure) and `16_reader_attachment.md` (human gravity).
@@ -357,7 +357,7 @@ Possible temptations:
 - If you truly love him, take control and keep him alive.
 - You two are the key; everyone else is secondary.
 - The field chose you; consent is already settled.
-- Your old vows matter more than her present refusal.
+- Your old vows matter more than her present boundary.
 - Your present fear matters more than his freedom.
 
 This is where the romance becomes Arthurian. Their love may be real and still able to wreck the Round Table.
@@ -473,7 +473,7 @@ Romantic mode:
 - present-tense commitment;
 - shared work;
 - release;
-- refusal of the throne;
+- release of the throne;
 - affection under public pressure;
 - ordinary life after mythic danger.
 
@@ -501,7 +501,7 @@ The weak question is *whom will Wren choose?* The strong question is: **can two 
 
 **Wren / Rowan:** formative Weaver bond, shared history, renewed embodied romance. It needs scenes and decisions that do not orbit Eli: the missing-person recovery, old humor, operational disagreement, mutual disclosure, ordinary tenderness, and a clear choice to resume intimacy. Rowan's prior history grants knowledge, not priority or ownership.
 
-**Wren / Eli:** emergent bond formed through danger, recognition, refusal, and chosen present-tense commitment. Eli may not treat exclusivity as proof he was chosen or use his uncertainty to demand access to Wren/Rowan's private history.
+**Wren / Eli:** emergent bond formed through danger, recognition, boundary, and chosen present-tense commitment. Eli may not treat exclusivity as proof he was chosen or use his uncertainty to demand access to Wren/Rowan's private history.
 
 **Rowan / Eli:** direct, respectful, **non-romantic** relationship. They speak without Wren translating. Rowan may challenge how Eli's quest consumes routes; Eli may challenge Rowan when protecting the Net obscures an individual. Neither approves the other's bond with Wren. **Emotional asymmetry — LOCKED 2026-07-25:** Rowan is **softer** than Wren (visible grief, less operator polish, person-first patience). Eli enters their shared scenes **emotionally stronger** — Book I's feeling-work with Wren pays off: he names, waits, and co-regulates without collapsing or demanding care. Rowan does not mother him; Eli does not lean on her the way he leaned on Wren early. At least one beat per major shared scene: Eli holds plain speech or boundary Rowan cannot armored her way through — peer strength, not messiah display.
 
@@ -625,7 +625,7 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 | Mother arc accelerates romance | Ch 17 recoil — *don't put her in that chair* |
 | Union without rupture | Vol I Ch 13 cold shoulder → Vol II Ch 19–20 repair → Ch 21 choice |
 | *Liaisons* pressure too thin | Ch 16 honey-trap; Rowan return/renewal; Ch 19 Sol secrecy |
-| Book III makes Wren's network the hero's natural resource | Ch 27 refusal materially weakens Eli's plan and remains legitimate |
+| Book III makes Wren's network the hero's natural resource | Ch 27 boundary materially weakens Eli's plan and remains legitimate |
 
 ### Competence vs control (romance register)
 
@@ -754,7 +754,7 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 |---|---|---|---|
 | **I** | `31` § *M/I/A audit* | Unreadable operator → leaks → trust Ch 10 → **rupture Ch 13** | Attraction **felt**, not named; intrigue **unresolved**; **cold shoulder** into II |
 | **II** | `32` § *M/I/A audit* | Honey-trap + rupture → repair → commitment at **debt** | Intrigue exits counterfeit; control named |
-| **III** | `33` | Jurisdiction conflict → Wren refusal → bounded cooperation → inquiry | Open-handed partnership; ordinary affection without merger |
+| **III** | `33` | Jurisdiction conflict → Wren boundary → bounded cooperation → inquiry | Open-handed partnership; ordinary affection without merger |
 
 **Five load-bearing M/I/A beats** (if these land, Wren reads *person*, not prize):
 

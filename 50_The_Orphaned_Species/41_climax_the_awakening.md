@@ -50,9 +50,9 @@ The fastest tactical solution is to seize the amplifier and force synchronizatio
 
 Eli refuses ownership of a machine that runs on captive persons. He releases Maren and transmits a pattern others may catch rather than an order they must obey.
 
-The refusal costs more and saves fewer. Book II must not secretly reveal that coercion would have failed.
+The hard no costs more and saves fewer. Book II must not secretly reveal that coercion would have failed.
 
-> **Temporal brittleness — LOCKED 2026-07-18.** The reason the refusal is honest and not secretly safe: forced synchronization is **fast and short-lived** (`38_psionic_combat.md` §1a). It would genuinely defuse *this* crisis — coerced coherence wins the acute push — and then decay, defect, and rebuild the controller-and-subject hierarchy it was meant to break. Eli forfeits a real advantage in the moment to refuse a victory that would forfeit the future. Show coercion working and still being the wrong answer; never show it failing on the spot.
+> **Temporal brittleness — LOCKED 2026-07-18.** The reason the hard no is honest and not secretly safe: forced synchronization is **fast and short-lived** (`38_psionic_combat.md` §1a). It would genuinely defuse *this* crisis — coerced coherence wins the acute push — and then decay, defect, and rebuild the controller-and-subject hierarchy it was meant to break. Eli forfeits a real advantage in the moment to refuse a victory that would forfeit the future. Show coercion working and still being the wrong answer; never show it failing on the spot.
 
 ---
 

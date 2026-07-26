@@ -96,7 +96,7 @@ Awakening spreads through threshold houses, river cooperatives, and open grounds
 | **Engine** | Clue → place → revelation → next clue | Same, lighter | Same + **contested** evidence |
 | **Hidden thing** | Secret **truth** (history lied) | Secret **object** (treasure hidden) | Secret **pattern** (function recurs) |
 | **Expertise fantasy** | Reader learns symbology **with** Langdon | Reader learns history **with** Ben | Reader learns Rootbook / registry **with** Eli |
-| **Antagonist** | Shadow institution | Guards + greed | Measure / Ring / Custodians / blocs |
+| **Antagonist** | Shadow institution | Guards + greed | Charkha / Custodians / blocs |
 | **Depth** | Centuries | One founding generation | **Millennia** (assembled, not drawn) |
 | **Ending** | Single revelation | Treasure recovered | **Maren freed; grid unowned** |
 
@@ -139,7 +139,7 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 2. **Visual key** — one object, architecture, mark, or gesture the reader can picture.
 3. **Clue argues** — exposition through disagreement (clerk, keeper, faction, wrong hypothesis).
 4. **Short-loop payoff** — partial human payoff within 1–3 chapters if the clue sets up a later book.
-5. **Institutional texture** — clipboard, white coat, sponsor line, museum board; Measure **felt** in procedure.
+5. **Institutional texture** — clipboard, white coat, sponsor line, museum board; Charkha **felt** in procedure.
 6. **Companion read** — someone on-page translates; Eli is not the only mouth for history.
 7. **Rhyme check** — antagonist face echoes torch / registry / pair-severance / scientist claiming without naming apex.
 8. **Wonder beat** — before violence at a landmark, one breath of awe.
@@ -178,12 +178,12 @@ When pitch, comps, or checklist change:
 
 ## Book I — chapter-by-chapter pitch audit (2026-07-25)
 
-Use with `MANUSCRIPT.md` revision passes. **Pass** = all ten checklist items satisfied or intentionally deferred (Vol I does not name Charkha on-page per `31`).
+Use with `MANUSCRIPT.md` revision passes. **Pass** = all ten checklist items satisfied or intentionally deferred (Vol I first names the **Charkha Measure** during the Ch 4 Weaver review).
 
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
-| 1 | Hour That Belongs to No One | Pelangi → strait | Race buoy; cohort list; brain scanner | Mei vs Eli; Babaji refusal | Orphan truth → departure | Clipboard, cohort, scanner | Wren attests; Mei feeds | Scanner ↔ later Custodians | Timah/fairway (micro) | Hearth suspended; garden; Shireen | Mother/father alive; Albion |
-| 2 | Something of Hers | Stack → Malacca | Ring *same soil*; green cord | Clerk vs system; Hassan vs ring | Ring → chandlery same ch | Arch, file, van, clipboards | Wren, clerk, idol, Emrys foreshadow | Same door × cities | Cube Circuit | Wage ticket spent | Maren on file → Malacca |
+| 1 | Hour That Belongs to No One | Pelangi → strait | Race buoy; cohort list; brain scanner | Mei vs Eli; Babaji holdout | Orphan truth → departure | Clipboard, cohort, scanner | Wren attests; Mei feeds | Scanner ↔ later Custodians | Timah/fairway (micro) | Hearth suspended; garden; Shireen | Mother/father alive; Albion |
+| 2 | Something of Hers | Stack → Malacca | Wedding ring: *same soil*; green cord | Clerk vs system; Hassan vs ring | Ring → chandlery same ch | Arch, file, van, clipboards | Wren, clerk, idol, Emrys foreshadow | Same door × cities | Cube Circuit | Wage ticket spent | Maren on file → Malacca |
 | 3 | What Didn't Die | Platform → inland | Rootbook *name* index | Emrys vs courier threshold | Wafer opens *name* | Custodians named; quarantine tow | Emrys, Nura cup, Wren name | Scanner rhyme explicit | — | Salmah boat; Nura/Ilyas split | Not going dark |
 | 4 | Her People | Depot → river (Wren) | Net ledger; manifest lie | Laleh vs Wren; Asha review | Route constitution seeds | Gantry; Net audit; van | Wren/Emrys/Pak Din | Registry trap shape | Bioluminescence (free) | Laleh lost; Asha rests route | Wren's weight not claim |
 | 5 | Field That Counts | Pai → wat → valley | Bulletins; bait arc | Emrys bait vs real drunk rice | Foot/step index → field | Custodians on water | Khun Dang, abbot, Emrys | White cars watch | Wat arrival; stone prep Ch 6 | Silence cost; coast offer refused | Why mother left |
@@ -208,9 +208,9 @@ Use with `32_volume_II_beatsheet.md` when outlining or drafting. **Pass** = all 
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
 | 1 | Bodies and Crossings | Anatolia corridor; Somchai→Eli | Wounded body; Tem record → 17:1 pit | Somchai terms vs Eli urgency; Wren vs search | Tem pointer → Ch 5 Pömmelte chain | Psion war policy; conscription | Somchai depth; Wren bill Vol I | Kneel→cage→burn | Healer witnessed save (micro) | Emrys gone; usefulness-as-love fight | Reconstruct clue; keep west |
 | 2 | Westward Transfer | Bosporus–Thrace/Balkan | Map fragment; medical-transfer van | Slow handoff vs shortcut; *Liaisons* trap | Hassan move → Ch 3 holding | Custodians + contractor cover | Wren dismantles honey-trap | Dead-zone sig → Pömmelte chain | Ferry/port human scale | Route burned for refugees | Hassan before jurisdiction swallows |
-| 3 | What They Took | Holding site + record | Wedding ring; damaged western chart | Person vs evidence; keeper song vs file | Midpoint: tether not address → Ch 7 | Measure clipboards; courteous suppression | Hassan first-person; Sora leak (off-page) | Registry father-above vs hand-to-hand | — | Mother complicity; partial record lost | Find mother → **release** |
-| 4 | Healer's Kneel | Medical corridor (Somchai→Eli) | Triage table; refused crown | Healer vs pilgrims vs Sol mirror | Rumor outruns → Vol III | Media/faction recruiters | Somchai; Sol establishing pass | Gabriel annunciation after refusal | — | Route narrows; stabilized liability | Stay a body among bodies |
-| 5 | Changing Map | Europe; Wren→Eli | Pömmelte shafts; pew geometry; dead-zone wedge | Rootbook kin wrong → corrected; Rowan vs registry trap | Pömmelte mark → Ch 6 sound route | Holt/Khan clerk; **Albion rename**; dependency-transfer files | Rowan entrance; Emrys absent map | Church drain; Measure A/B scripts | Pömmelte horror awe before inference | Network route burned | Cross without becoming asset |
+| 3 | What They Took | Holding site + record | Wedding ring; damaged western chart | Person vs evidence; keeper song vs file | Midpoint: tether not address → Ch 7 | Charkha clipboards; courteous suppression | Hassan first-person; Sora leak (off-page) | Registry father-above vs hand-to-hand | — | Mother complicity; partial record lost | Find mother → **release** |
+| 4 | Healer's Kneel | Medical corridor (Somchai→Eli) | Triage table; declined crown | Healer vs pilgrims vs Sol mirror | Rumor outruns → Vol III | Media/faction recruiters | Somchai; Sol establishing pass | Gabriel annunciation after the hard no | — | Route narrows; stabilized liability | Stay a body among bodies |
+| 5 | Changing Map | Europe; Wren→Eli | Pömmelte shafts; pew geometry; dead-zone wedge | Rootbook kin wrong → corrected; Rowan vs registry trap | Pömmelte mark → Ch 6 sound route | Holt/Khan clerk; **Albion rename**; dependency-transfer files | Rowan entrance; Emrys absent map | Church drain; Charkha A/B scripts | Pömmelte horror awe before inference | Network route burned | Cross without becoming asset |
 | 6 | Riddling Node | Rollright → Anglesey detour | Hawthorn bend; rowan branches; bitter cup | Rowan *completed route ≠ returned person* vs Wren iron | Anthea/Lira → Stonehenge chair | Changeling record (dual truth) | Keeper fairy-doctor; Cuno edge | Alba/Albion/Sídhe dual register | Mound crossing breath before iron | Anthea killed; Lira carried song | Hold thread without owning |
 | 7 | Chair and Tether | Stonehenge relay → Avebury | Cuno formation; chair answering; chalk circles | Group formation vs command; release not acquisition | **Vol II close** — awakening spreads | England ambush instrumented; Deiwos route | Wren/Rowan/Eli plural V denouement | Ambush = registry geometry | Stonehenge weather **before** ambush | Maren release; healer nearly conscripted | Reach endpoint; **free her** |
 
@@ -235,7 +235,7 @@ Each chapter must close on a **next place + next question**, not a thesis:
 ### Book II comps notes (vs Vol I)
 
 - **Dual-register clues locked:** Ch 5 civic **Albion rename** → Ch 6 keeper **Alba/elf/Sídhe** rhyme (same beat structure as Ch 5 clerk / Ch 6 stone in Vol I spirit).
-- **Institutional villainy escalates:** Measure suppression courteous (Ch 3) → pair-severance files (Ch 5) → instrumented ambush (Ch 7).
+- **Institutional villainy escalates:** Charkha suppression courteous (Ch 3) → pair-severance files (Ch 5) → instrumented ambush (Ch 7).
 - **Win condition preview:** release + relational Manual Override — **not** decoded taxonomy or bloodline answer.
 - **Refuse:** Eli owns mother; elf as single-bullet reveal; Rowan as prophecy; Charkha full engine purpose (Vol III).
 
@@ -250,10 +250,10 @@ Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
 | 1 | Boat at Morning | Pelangi harbor return | Pursued boat; Rasel's grafted garden | Closure vs intake vs accountable welcome | Garden → Ch 2 intake debate | Registry pressure; missing men at checkpoints | Wren/Mei/founders disagree | Checkpoint expendability | Harbor dawn (micro) | Hearth replaced; gratitude/fear | Safe landing without registry |
-| 2 | Terms of Welcome | Pelangi intake | Voluntary plan; consent boundaries | Safety vs registration; Umul usefulness warning | Sponsorship → Ch 3 harm | Crane offers useful aid | Wren: trust ≠ institution | Measure care-as-product | — | Eli stakes credibility early | Include before useful |
+| 2 | Terms of Welcome | Pelangi intake | Voluntary plan; consent boundaries | Safety vs registration; Umul usefulness warning | Sponsorship → Ch 3 harm | Crane offers useful aid | Wren: trust ≠ institution | Charkha care-as-product | — | Eli stakes credibility early | Include before useful |
 | 3 | Person Freedom Failed | Pelangi civic space | Tomas mind-entry; Nia dead | Survivor vs Eli; collective vs safeguards | **Act I bill** — real harm | No victim-as-agent | Mei kitchen standing; Amara accuses | Registry didn't cause all | — | **Mei loses compound**; Book I hearth ledger | Preserve ordinary life |
 | 4 | The Standard | SF → DC passage | Yerba Buena; expendability tables; COGCON/Devolution glimpse | Crane package vs voluntary failure | Ch 3 death → seizure/war | Registry seizure; survival roster; pair-severance record complete | Emrys physics glimpse; Rowan fragments | Devolution = lifeboat gods | Lincoln throne-shape (pressure not speech) | Men as minutes purchased | Prevent collective punishment |
-| 5 | Names They Carry | Wren · Washington/Lincoln | King + Lincoln memorials; name lists | Wren refuses Eli network access | Refusal → Ch 6 compact | Registry families; demobilized names | Rowan pattern vs Wren limit; Emrys returns | Measure files + personal authorship | Memorial awe before argument | Bond damaged; no reconciliation scene | Protect routes ≠ love jurisdiction |
+| 5 | Names They Carry | Wren · Washington/Lincoln | King + Lincoln memorials; name lists | Wren refuses Eli network access | Boundary → Ch 6 compact | Registry families; demobilized names | Rowan pattern vs Wren limit; Emrys returns | Charkha files + personal authorship | Memorial awe before argument | Bond damaged; no reconciliation scene | Protect routes ≠ love jurisdiction |
 | 6 | The Compact | Relocated gov → Hawaiʻi invite | Bounded compact text; talking stones disputed | Crane vs Sol vs federation | Compact → Ch 7 crown | Ma channel; Sanxingdui break; bio-release prevented | Wren negotiated terms; Ma offer | Reciprocal circuit (3 accounts) | Stones answer — relational not oracle | War widens before trust complete | Survive without permanent center |
 | 7 | Crown With an End | Hawaiʻi refuge | Communal armor; Pele reciprocal oath | Refuse base vs save corridor | Near-sync Washington → full temptation | Sol/Crane converge; mobilization | Wren network on terms; local stewards | Male expendability on-page | Pele dream — ask before kneel | Harbor crew names; command horror | Coordinate without owning island |
 | 8 | Cost of Consent | Hawaiʻi + distant corridor | Armor removed; casualty lists | Coercion would save lives — refused anyway | **Climax cost** — named death, house lost | Triage language translated to bodies | Threshold house lost; disabled survivors | Amplifier logic refused | — | Beloved place + named man | Weaker defense chosen |
@@ -262,7 +262,7 @@ Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all
 
 ### Book III clue-chain spine (pitch-facing)
 
-Pelangi refugee crisis → **intake harm (Ch 3)** → SF/Yerba Buena + **Crane Standard** → **Wren refusal (Ch 5)** → **bounded compact** → **Hawaiʻi refuge** → consent refusal at corridor → **hearing/step-down** → **field-sail proof / ceasefire** → teahouse/garden coda. Artifacts: Double-Fork Stone + dragon ghost (late); Rootbook Sanxingdui break; Devolution roster glimpse. Full beats: `33`; peace `51`; teahouse `50`.
+Pelangi refugee crisis → **intake harm (Ch 3)** → SF/Yerba Buena + **Crane Standard** → **Wren boundary (Ch 5)** → **bounded compact** → **Hawaiʻi refuge** → consent limit at corridor → **hearing/step-down** → **field-sail proof / ceasefire** → teahouse/garden coda. Artifacts: Double-Fork Stone + dragon ghost (late); Rootbook Sanxingdui break; Devolution roster glimpse. Full beats: `33`; peace `51`; teahouse `50`.
 
 ### Book III chapter-end hooks (drafting obligation)
 
@@ -272,9 +272,9 @@ Pelangi refugee crisis → **intake harm (Ch 3)** → SF/Yerba Buena + **Crane S
 | 2 | Sponsorship locked; Crane useful; registry vs safety unresolved |
 | 3 | Nia dead; Amara's accusation; Mei pays; Pelangi fractures — **San Francisco leg opens** |
 | 4 | Registry seizure + Mandate strikes = **Awakening War**; field-sail record partial escape; Eli coordinates evac, not heroic return |
-| 5 | Wren's refusal stands; Emrys compromised witness; names irreducible — **compact or collapse** |
+| 5 | Wren's boundary stands; Emrys compromised witness; names irreducible — **compact or collapse** |
 | 6 | Bounded compact adopted; Hawaiʻi invitation; Sol/Crane both closing — **war before trust** |
-| 7 | Crown worn with expiry; corridor ordered; coercion temptation named — **refusal coming** |
+| 7 | Crown worn with expiry; corridor ordered; coercion temptation named — **limit coming** |
 | 8 | Named death + threshold house lost; war continues; authority **expires** |
 | 9 | Sanction real; Wren/Eli continue with separated jurisdiction; peace negotiation **without Eli as guarantor** |
 | 10 | Ceasefire begun; garden shared; swifts rhyme; **ordinary afternoon — no throne** |
@@ -282,7 +282,7 @@ Pelangi refugee crisis → **intake harm (Ch 3)** → SF/Yerba Buena + **Crane S
 ### Book III comps notes (vs Vol I–II)
 
 - **Landmark set-pieces:** Yerba Buena/King memorial, Lincoln, ruined Washington, Hawaiʻi stones, Colorado teahouse — each must **picture** and **cost** something domestic.
-- **Institutional villainy peaks:** Crane Standard + Devolution roster + Charkha dependency-transfer files — faces rhyme with Vol I registry / Vol II Measure / ancient selection marks.
+- **Institutional villainy peaks:** Crane Standard + Devolution roster + Charkha dependency-transfer files — faces rhyme with Vol I registry / Vol II Charkha / ancient selection marks.
 - **Refuse:** boss-fight win; Eli keeps throne; universal forgiveness; coercion revealed as bluff; Hawaiʻi as military base; prophecy close.
 - **Messianic rule:** show kneel reflex **working** (`33` lock) — win is **re-teach deiwos + step-down**, not deny signs.
 - **Rasel rescue:** locate in beats when chapter assigned — must pass same gate (body movement, visual key, domestic cost, desire = father alive not throne).

@@ -18,7 +18,7 @@ The film's deepest engine is not violence. It is **ownership wearing the manners
 |---|---|---|
 | **The unbidden favor** (Bonasera at the wedding; "someday I will ask a service") | A gift no one requested creates a debt no one can name | Crane quietly does Eli's people a real kindness — keeps a carrier off a list, waves the healer's mother's insulin through a checkpoint — and **refuses thanks**. The debt is the payload. |
 | **"You should have come to me first"** | Wounded that you sought justice elsewhere; offers to *be* the justice | Crane, genuinely hurt, notes that carriers trust Pelangi Reach and Eli's "freedom" instead of the state that could protect them. He offers to be the protection they went around. |
-| **The offer he can't refuse** | Refusal is unthinkable because the *alternative* is catastrophe he merely permits, never causes | Registration = the umbrella. Crane doesn't threaten Eli's people. **The breaches do.** He just offers to hold the umbrella over the ones who sign. |
+| **The offer he can't refuse** | Saying no is unthinkable because the *alternative* is catastrophe he merely permits, never causes | Registration = the umbrella. Crane doesn't threaten Eli's people. **The breaches do.** He just offers to hold the umbrella over the ones who sign. |
 | **The horse's head** | The implicit threat made physical, without a word spoken | Not violence — **the file**. Crane's private ledger of carriers who died in custody / in unregistered flares ("each row feels like love"). He shows it as *grief*, not menace. That is the threat, and its being sincere is what makes it land. |
 | **"It's not personal, it's strictly business"** | Coercion laundered into administration; the man disappears into the policy | Crane's entire danger. He is reasonable in reasonable rooms. The evil is the *administrative voice* — the same voice as the divine assembly parceling nations. |
 | **Never raise the voice** | Power that must shout has already lost; menace lives in stillness and courtesy | Canon voice note: "never raises volume in rooms that matter." The quieter he gets, the higher the stakes. |
@@ -56,7 +56,7 @@ That last line is the whole technique: the debt must not feel like a debt. Wren,
 >
 > And that was the trap, whole and gleaming: he was not lying. The door to every safe thing Eli wanted for the people he loved stood open, and the price was only to become the one voice — and one voice, coherent, is exactly the thing a hostile team can seize, exactly the leash the amplifier already was, exactly "find a father, kneel" held out on a saucer by a kind man who kept the dead in a ledger because no one else would.
 
-**Why it has to be sincere:** Adapa's parable is the model — *"the cruelty is that it's not a trick; the door stands open"* (`30_beatsheet_ch09_adapa.md`). Crane's offer must be genuinely right about the danger and genuinely protective, or Eli's refusal costs nothing. The horror is refusing a **good** man's **true** offer because its *shape* is the cage.
+**Why it has to be sincere:** Adapa's parable is the model — *"the cruelty is that it's not a trick; the door stands open"* (`30_beatsheet_ch09_adapa.md`). Crane's offer must be genuinely right about the danger and genuinely protective, or Eli's hard no costs nothing. The horror is refusing a **good** man's **true** offer because its *shape* is the cage.
 
 **How Eli answers (per locked Book III):** not by claiming freedom is harmless and not by refusing all coordination. The communities build a purpose-bound, visible, revocable, self-expiring emergency compact. Eli accepts command under it, refuses to extend it into forced synchronization, steps down when the condition ends, and submits to public review. Crane's diagnosis remains true; his claim that risk must become permanent owned identity is what fails.
 
@@ -74,7 +74,7 @@ That last line is the whole technique: the debt must not feel like a debt. Wren,
 ## Guardrails (do not break)
 
 - **No cartoon evil, no raised voice.** The menace is the courtesy. The moment Crane threatens out loud, the technique dies and so does the character.
-- **The offer is true.** He is right about the danger and sincerely protective. Remove either and the refusal is free.
+- **The offer is true.** He is right about the danger and sincerely protective. Remove either and the hard no is free.
 - **No karmic brotherhood with Eli; accountability, not annihilation** at climax (`26` guardrails).
 - **Business-not-personal is the *tell*, not the excuse.** The administrative voice is the horror — the Igigi register — not a mitigation. The reader should feel *how reasonable he sounds* as the frightening part.
 - **Invoke, don't substitute.** Dynamic, structure, technique: free. Specific dialogue and scene-expression: original only.

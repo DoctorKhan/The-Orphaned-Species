@@ -20,7 +20,7 @@ Your four sections are already inside the trilogy in embryo. What your framing a
 
 ### 1.2 Attribution failure → suspicion of the cure
 - When the Custodians show their mirror — *carriers who took the collar* — that is the geopolitical read: the state instrumentality is indistinguishable from the threat it claims to hunt.
-- **Sol Mendez** enters Vol III as the man who weaponizes this distrust. His forced-unity operation at a distant Pacific corridor is the novel's answer to "who verifies the cure is a cure?" He offers centralized command as the only trustworthy accountability — and Eli's refusal, his temporary authority then voluntary step-down, is the Wren-era answer. Hawaiʻi remains a refuge, not the operation's front.
+- **Sol Mendez** enters Vol III as the man who weaponizes this distrust. His forced-unity operation at a distant Pacific corridor is the novel's answer to "who verifies the cure is a cure?" He offers centralized command as the only trustworthy accountability — and Eli's answer — temporary authority then voluntary step-down, is the Wren-era answer. Hawaiʻi remains a refuge, not the operation's front.
 - **The Shield (Custodian)** is the series' proof that not everyone in a weaponized apparatus is lying. A conscience within the system doesn't redeem the system — it makes the system harder to topple because the rescue narrative keeps it running.
 
 ### 1.3 Global registries → Crane's apparatus
@@ -93,7 +93,7 @@ Your four sections are already inside the trilogy in embryo. What your framing a
 
 ### 5.2 Use it or lose it → Eli's temporary crown and Sol's temptation
 - **Eli's temptation** at the climax is the personal-scale version: he could forcibly synchronize nonconsenting carriers and probably save more people. The trilogy dramatizes the exact psychology of "use it or lose it" at the human level, in one mind.
-- **Sol's path** is the regime-scale version: as state infrastructure degrades under the Awakening War, leaders compound by centralized, ruthless command. In the trilogy, this is not hypothetical — it is the argument he brings to the distant Pacific corridor and its forced-unity operation. Hawaiʻi's refusal to become a base exposes the alternative.
+- **Sol's path** is the regime-scale version: as state infrastructure degrades under the Awakening War, leaders compound by centralized, ruthless command. In the trilogy, this is not hypothetical — it is the argument he brings to the distant Pacific corridor and its forced-unity operation. Hawaiʻi's declining to become a base exposes the alternative.
 - The **Custodians' collar logic** is already the military doctrine that turns carrier biology into a controllable weapon. The moment a commander realizes the collar is failing — that carriers can awaken en masse — is the cinematic equivalent of a chain-of-command collapse. In that window, the temptation to bypass the slowed biology and reach for the fast option rises.
 
 ### 5.3 Tactical strikes on biological assets → charged grounds and threshold architectures
@@ -118,7 +118,7 @@ Your four sections are already inside the trilogy in embryo. What your framing a
 ### 5.5 The autonomy escalation → machines the awakening cannot reach
 - The Awakening War's deepest escalation is not the bomb; it is **autonomy**. Psionic resistance has a hard counter with no mind to jam: fully autonomous systems (`38_psionic_combat.md` §3a). The more the awakened can Block operators, reflect attacks, and read signatures, the harder every state reaches for machines a Block cannot touch.
 - This is the war's *quiet* doomsday logic — less spectacular than nuclear escalation and far more likely to actually happen. It is the **Drift** turned into ordnance: the person removed from the loop precisely so the loop can no longer be reached, persuaded, or woken. In your contemporary frame it maps cleanly onto lethal autonomous weapons displacing human judgment under the same "we cannot afford a mind that hesitates" pressure the bioweapon scenario generates.
-- The trilogy's answer is identical to its answer for the registry and the amplifier: **keep a person in the loop on purpose, and accept the cost of the hesitation.** The federation compact's ban on synchronization-without-consent (`33` Ch 28), read at machine scale, *is* a refusal to remove the person for efficiency's sake. The two trees check each other here exactly: autonomy without embodied judgment is the Drift; embodied power without verification is God-sickness. The war's real question is not "who gets the biggest weapon" but "who is still willing to keep a mind on the trigger."
+- The trilogy's answer is identical to its answer for the registry and the amplifier: **keep a person in the loop on purpose, and accept the cost of the hesitation.** The federation compact's ban on synchronization-without-consent (`33` Ch 28), read at machine scale, *is* a choice not to remove the person for efficiency's sake. The two trees check each other here exactly: autonomy without embodied judgment is the Drift; embodied power without verification is God-sickness. The war's real question is not "who gets the biggest weapon" but "who is still willing to keep a mind on the trigger."
 
 ---
 

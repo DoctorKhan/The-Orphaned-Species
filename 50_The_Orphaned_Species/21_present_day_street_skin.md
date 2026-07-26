@@ -68,9 +68,9 @@ Each corner should pitch Eli a **product**:
 | Crane / constructive control gone wrong | "Register or we can't protect civilians" — safety as ownership |
 | Prophecy / liberation faction | "Stop resisting; burn the registries; live bright" — charisma as chrome |
 | National psion programs | "Serve your bloc; we'll upgrade you" — patriotism as conscription |
-| Ring / amplifier hunt | "One key, one grid, one ruler" — monopoly as immortality |
+| Charkha / amplifier hunt | "One key, one grid, one ruler" — monopoly as immortality |
 
-Eli's refusals are the drama: **I don't want to be installed.**
+Eli's non-install choices under pressure are the drama: **I don't want to be installed.**
 
 ### Tree of Life discovery — present-day braid
 

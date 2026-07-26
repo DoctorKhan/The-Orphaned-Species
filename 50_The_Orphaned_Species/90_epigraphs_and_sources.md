@@ -544,11 +544,11 @@ Often rendered at the memorial in King's March on Washington register:
 
 ### Trilogy mapping — how the memorial **changes the plot** (LOCKED 2026-07-26, rev. affirmative)
 
-**Not atmosphere. Not a refusal beat.** Revelation is where Eli sees **beloved community already working at civic scale** — and learns to **build** the federation's slow clock from that model. Thesis guard (`Thesis.md` § *Mature form*): *The alternative to the throne is not the refusal of the throne.* Adulthood is **structure that breathes** — gather for purpose, disperse, review.
+**Not atmosphere. Not a renunciation beat.** Revelation is where Eli sees **beloved community already working at civic scale** — and learns to **build** the federation's slow clock from that model. Thesis guard (`Thesis.md` § *Mature form*): *The alternative to the throne is not the release of the throne.* Adulthood is **structure that breathes** — gather for purpose, disperse, review.
 
 **King register = construction, not negation:**
 - **Water / Amos** — justice as **ongoing flow** (slow clock), not damming and not merely saying no
-- **Keyboard** — every voice **significant** (polyphonic coordination), not silent keys vs refusal of keys
+- **Keyboard** — every voice **significant** (polyphonic coordination), not silent keys vs declining keys
 - **Multilingual panels** — one obligation, **many tongues**; difference remaining in relationship (`50` teahouse)
 - **Beloved community** — disciplined **unfinished building**; threshold network + Pelangi intake already practice it
 
@@ -633,12 +633,12 @@ Pelangi harm (Ch 3) → Eli tempted by Crane's fast clock (one keyboard, one rec
 | **Multilingual panels** | Ch 4 — SF civic passage | A carrier mother reads a panel in **Tagalog or Arabic**; Eli reads English and realizes the same sentence is **everywhere** — rhymes threshold-network diaspora, Pak Din's chain, Book I Malacca |
 | **Constitution's keyboard** | Ch 4–5 | Registry sorts people into **keys that don't sound**. Optional: a veteran says *some of us were never on the keyboard* — paraphrase, not recitation. Rhymes Ninmah/Umul (value outside classification) |
 | **March photos on glass** | Ch 5 — names | Families hold **paper names** beside etched faces. Names irreducible; photos don't reconcile them |
-| **Beloved community** | Ch 5 — Wren's refusal | Wren's register: **disciplined unfinished construction** — not a slogan. She refuses Eli because the network promised **not to become anyone's army**. Beloved community = consent-bound cooperation, not unity theater |
+| **Beloved community** | Ch 5 — Wren's boundary | Wren's register: **disciplined unfinished construction** — not a slogan. She refuses Eli because the network promised **not to become anyone's army**. Beloved community = consent-bound cooperation, not unity theater |
 | **Walk-through / inward** | Ch 4 | Somchai or Wren goes behind the falls; Eli may stay in the plaza with Crane's folder — **split attention** mirrors split jurisdiction later |
 
 **Rights note:** King speech excerpts are **copyrighted** (Estate of Martin Luther King, Jr.). **Amos 5:24** is safe verbatim. For other lines: (1) short on-site **glimpse** under fair-use discipline, (2) **character paraphrase** in Wren/local voice, (3) estate permission for epigraph edition, or (4) `[VERBATIM TODO — site photo + rights]` until cleared. Same rule as Mitchell Tao → author rendering (`90` § Tao 72).
 
-**What NOT to do:** Eli reciting *I Have a Dream*; memorial as healing; Union flagged righteous because King is on the wall; collapsing psion-harmed and registry-harmed families into one moral; using King to **authorize** Eli's coordination claim (Wren's refusal must still stand).
+**What NOT to do:** Eli reciting *I Have a Dream*; memorial as healing; Union flagged righteous because King is on the wall; collapsing psion-harmed and registry-harmed families into one moral; using King to **authorize** Eli's coordination claim (Wren's boundary must still stand).
 
 ### Suggested scene skeleton (Ch 4)
 

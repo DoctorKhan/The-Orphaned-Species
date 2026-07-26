@@ -244,7 +244,7 @@ When the noise rises,
 find that one.  
 No crown fits it.
 
-*Lesson 3. Adapa failure / Eli refusal. Thomas 3 echo.*
+*Lesson 3. Adapa failure / Eli's hard no. Thomas 3 echo.*
 
 ---
 
@@ -314,7 +314,7 @@ The storm is not the land.
 ### 15 · Named fear
 
 Brave is not the absence of shaking.  
-Brave is the refusal  
+Brave is declining  
 to perform calm  
 you do not have.  
 
@@ -399,7 +399,7 @@ Live the life that is actually yours.
 It was already enough  
 before the crowd spoke.
 
-*Lesson 13. Anthea refusal; Wren–Eli without possession.*
+*Lesson 13. Anthea's limit; Wren–Eli without possession.*
 
 ---
 
@@ -416,7 +416,7 @@ No doctrine.
 No throne.  
 Only the next honest task.
 
-*Tao 72 author rendering. Book III constitution. Eli's refused crown.*
+*Tao 72 author rendering. Book III constitution. Eli's declined crown.*
 
 ---
 
@@ -516,14 +516,14 @@ Wash the bowl.
 | 15 | Named fear | 8 | — | Daskar |
 | 16 | The gift let go | 9 | — | Lovernios, Emrys |
 | 17 | Stillness | 10 | — | Aru |
-| 18 | Forgive, do not rehire | 11 | — | Book III refusal of new kneel |
+| 18 | Forgive, do not rehire | 11 | — | Book III declining of new kneel |
 | 19 | The garden | 12 | — | Field, Two Trees |
 | 20 | The one life | 13 | — | Anthea, romance |
 | 21 | Step back | all | Teaching without teaching | Tao 72, federation |
 | 22 | The washed bowl | 12 | Continuous practice / meal | Teahouse work |
 | 23 | The swept floor | 12 | Repair without performance | Cloisters, maintenance |
 | 24 | Don't-know | 1, 8 | Empirical humility | Eli, teahouse inquiry |
-| 25 | Ordinary again | 5, 13 | Return after seeking | Book III; refused crown |
+| 25 | Ordinary again | 5, 13 | Return after seeking | Book III; declined crown |
 | 26 | The parade (antiphonal) | 3, 10 | Liturgy — fragments → service | Tao 20; Cherry Cube anti-chant → **`54_liturgies.md`** |
 | 27 | Teach not-knowing | 1, 8, 10 | Host humility; no clever rule | Tao 65; teahouse hosts; Wren boundaries |
 | 28 | The hearth circle | 9, 12 | Fire, circle, one guitar | Book II after collapse; Khun Dang rhyme |
@@ -585,7 +585,7 @@ Solo fragments from the antiphonal liturgy may appear alone on walls and in spee
 
 The complete call-and-response, fragment index (F1–F10), stage directions, and novel drip schedule live in **`54_liturgies.md`**.
 
-*Practice: refusal of spectacle. Lessons 3, 10. Seed: Cherry Cube chant (Vol I); teahouse gathering (Vol III).*
+*Practice: declining spectacle. Lessons 3, 10. Seed: Cherry Cube chant (Vol I); teahouse gathering (Vol III).*
 
 ---
 

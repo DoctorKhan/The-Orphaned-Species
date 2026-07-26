@@ -51,7 +51,7 @@ The trilogy should uncover the same abandoned control relation at increasing sca
 
 The embodied gods and their functioning administration no longer exist. Some spirits may survive on other planes, but that does not make them present owners of human life or valid recipients of the old contract. The modern danger is human systems learning to pull instincts whose original context has vanished.
 
-Across the trilogy, historical scenes, present exploitation, and costly acts of conscious refusal should intersect in changing combinations. No volume has a dominant assigned circle. This keeps the civilizational argument inside character and consequence rather than turning it into a repeated lesson structure.
+Across the trilogy, historical scenes, present exploitation, and costly acts of conscious override should intersect in changing combinations. No volume has a dominant assigned circle. This keeps the civilizational argument inside character and consequence rather than turning it into a repeated lesson structure.
 
 ## 2. Why this makes it "masterpiece" material
 

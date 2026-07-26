@@ -67,11 +67,11 @@ Each major mouth owns **one rhetorical function**. Drafting rule: one quotable p
 | **Nura / keepers** | Body discipline — cup, heat, one loud thing | Kitchen plain speech |
 | **Pak Din** | Chain ethics — link payment | Cigarette, boats, don't thank me |
 | **Hạnh** | Peasant science — data walks, bund holds | Cooperative, photocopies, farm |
-| **Somchai** | Bodily limit — son of a man | Triage, refusal, Vol II Ch 18 |
+| **Somchai** | Bodily limit — son of a man | Triage, hard no, Vol II Ch 18 |
 | **Crane** | Ch. 17 mercy — cruelty as order | File, continuity, recoverable strength |
 | **Sol** | Armed prophet — bill comes either way | Necessity over soul; Vol II+ |
 | **Maren** (text) | Index ethics — names as paths | Rootbook marginalia |
-| **Hassan** | Witness morality — person over object | Ring vs living man |
+| **Hassan** | Witness morality — person over object | Wedding ring vs living man |
 
 ---
 
@@ -112,7 +112,7 @@ Each entry: **line · speaker · first seed · repeats · spread guard**
 - **Line:** *"Information is freight; silence is ballast. Told first — every time."*
 - **Speaker:** Wren (spoken); Eli learns it
 - **Seed:** Vol I Ch 10 (delta handshake)
-- **Repeats:** Wren's refusal Vol III; network constitution
+- **Repeats:** Wren's boundary Vol III; network constitution
 - **Spread:** relationship / ops meme
 
 ### 6. Clean?
@@ -133,7 +133,7 @@ Each entry: **line · speaker · first seed · repeats · spread guard**
 - **Line:** *"I don't carry heroes on this boat. I carry rice."*
 - **Speaker:** Suresh
 - **Seed:** Vol I Ch 2 (Malacca directions / departure)
-- **Repeats:** any port refusal of messianic freight
+- **Repeats:** any port declining messianic freight
 - **Spread:** pairs with Pelangi Reach harbor content
 
 ### 9. Data walks / bund holds
@@ -160,7 +160,7 @@ Each entry: **line · speaker · first seed · repeats · spread guard**
 ### 12. Son of a man
 - **Line:** *"No. I am the son of a man."*
 - **Speaker:** Somchai
-- **Seed:** rumor Vol II; **locked refusal** Vol II Ch 18
+- **Seed:** rumor Vol II; **locked hard no** Vol II Ch 18
 - **Repeats:** Gabriel arc withers Vol III (`46` §G)
 - **Guard:** never Eli's line; two crowns lock (`05`)
 
@@ -222,7 +222,7 @@ Use **psion** in dossiers; **psychic** only as slang (`05`).
 | Volume | Push (marketing / reader) | Plant on-page |
 |---|---|---|
 | **I** | `#counttheheat`, *I carry rice*, *Records are for…*, *Numbers first* | cup, Suresh, star, Emrys, Wren freight law |
-| **II** | *Son of a man*, *map over territory*, twins rumor as **warning** | Somchai refusal, Emrys slips, Deiwos chalk |
+| **II** | *Son of a man*, *map over territory*, twins rumor as **warning** | Somchai's hard no, Emrys slips, Deiwos chalk |
 | **III** | *Let's test it*, three rules, rainbow tree, engine/family | inquiry, teahouse, Two-Tree union |
 
 ---
@@ -252,5 +252,5 @@ Use **psion** in dossiers; **psychic** only as slang (`05`).
 - Lay teachings design: `29` § *The lay teachings*
 - Meme / anti-capture spread: conversation craft backlog → this doc
 - Style guardrails: `14` § Dialogue, § Lyricism
-- Somchai refusal: `32` Vol II Ch 18; `26` § Somchai
+- Somchai's hard no: `32` Vol II Ch 18; `26` § Somchai
 - Two-Tree symbol: `35` § *Two-Tree Union*; `95` glossary

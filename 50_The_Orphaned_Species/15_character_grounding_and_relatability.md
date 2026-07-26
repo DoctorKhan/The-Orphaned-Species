@@ -62,7 +62,7 @@ Each major character benefits from three layers (full cast bible: `26_present_da
 2. **The turn** — what made them who they are at story open.
 3. **The unreconciled** — what remains unpaid when Eli arrives.
 
-**Wren example:** softer pre-ring port intake; a prior love (the one before Mira) left the relationship unfinished — that history flares as over-management, not a third body on page.
+**Wren example:** softer pre-Unranked port intake; a prior love (the one before Mira) left the relationship unfinished — that history flares as over-management, not a third body on page.
 
 **Do not** let every backstory be a run, a collar, or a descent. **Do** let past contradict present masks in small scene detail. Eli **cannot shortcut** someone's history through surge or resonance.
 
@@ -106,7 +106,7 @@ The stronger healer can reduce inflammation, headaches, pain, and secondary dama
 - Let other characters underestimate him, but do not make every skeptic cruel or stupid.
 - Show practical adaptations: written lists, repeated routes, quiet spaces, gestures, training patterns, and Wren learning when not to fill a missing word.
 - Research the eventual clinical presentation and use medical/sensitivity readers before final prose.
-- "Brain damage" may appear as Eli's shame-language or the ring's stigmatizing file-language; authorial documents should prefer **traumatic brain injury**.
+- "Brain damage" may appear as Eli's shame-language or the Charkha's stigmatizing file-language; authorial documents should prefer **traumatic brain injury**.
 
 ## Eli's perceptual development — LOCKED
 
@@ -292,7 +292,7 @@ When someone asks whether he is a son of a god, he answers, **"No. I am the son 
 
 His arc passes through **kneel → cage → burn** and survives only when people accept the harder category: an extraordinary human neighbor. He can heal, refuse, fail, become exhausted, be wrong, and remain responsible for his conduct without owing his body to everyone who needs him. That acceptance is one of the concrete proofs of Volume III's coexistence victory.
 
-Their human conflict is **care versus conscription**. They cope with grief by making themself useful, then discover that a stronger healing gift makes every faction and frightened community treat their body as public infrastructure. They must learn that triage, consent, rest, and refusal are part of ethical healing. Their deepest scene should require a defensible *no*, not a larger miracle.
+Their human conflict is **care versus conscription**. They cope with grief by making themself useful, then discover that a stronger healing gift makes every faction and frightened community treat their body as public infrastructure. They must learn that triage, consent, rest, and the right to say no are part of ethical healing. Their deepest scene should require a defensible *no*, not a larger miracle.
 
 ## What keeps Eli human on the page
 
@@ -301,7 +301,7 @@ Eli needs ordinary pressures alongside the extraordinary ones:
 **Home tongue vs Thread — LOCKED 2026-07-24; upbringing 2026-07-24:** **Bangla and culture** — first from **Rasel and Maren** at table; continued by **keeper foster parents** who raised him after extraction (corridor placement; file orphan/foster — **not** Thread). **Raised as a worker** — labor track, platform wage, facilities hand; no elite path. **Visuo-spatial talent — LOCKED:** strong memory/skills for routes, cable runs, shaft maps, splice geometry — **worker gift**, distinct from carrier line (Maren) and symbolic feeling (Rasel). **TBI** makes it inconsistent. **Capacity claiming** (`40` § Capacity claiming): exceptional minds get flagged — Eli lives **under the radar** with everyone else (*perform adequate, not exceptional*; *stay off the ledger*). Foundry work uses the gift **sanitized**. Home tongue **opens** Thread corridors; he was **not raised Thread**. Contrast **Rowan**. Guardrail: `31` diaspora lock.
 
 - papers, money, shelter, food, transport, medicine, and sleep;
-- fear of detention or return, not only capture by the ring;
+- fear of detention or return, not only capture by the Charkha;
 - work shifts, housing obligations, and the practical fear of losing the made home he has earned in Pelangi Reach;
 - embarrassment when symptoms become visible;
 - small wants unrelated to destiny;
@@ -318,7 +318,7 @@ These people make the route a lived social world rather than a sequence of clues
 - **Khun Dang (Pai lodge keeper — LOCKED present Vol I Ch 5)** — ex-biker; teaches Eli *Hotel California* four-chord cover as **quiet cover craft** while hunted; male keeping-fragment (`29`). Wren watches; guitar stays at lodge. *The song spends the watching.*
 - **Eli's Pelangi Reach work** should be ordinary, physical, and socially embedded: **facilities at the Forest Foundry compound** (platform wage; Babaji/Rasel placement, not wealth). He is not a guest in the refuge and not secretly important to everyone. He earns trust by showing up, missing things, apologizing, covering shifts, being covered for, and learning how a functioning community protects privacy without abolishing responsibility. **Daily luck awareness:** contrast with worse papers in half-built towers, **Wren's sign-off**, Mei's free-meal list, recognizers who expect him tomorrow — *you shouldn't still be here, and you are.* He does not say *lucky* out loud; he does not forget it. Makes leaving Pelangi Reach a real forfeiture of borrowed safety, not abstract stakes. **Talent pressure — LOCKED:** Foundry **visuo-spatial** almost ledgered (Wren sandbags splice times); **no martial on Pelangi**.
 - **Manong Rico Del Rosario — RETIRED 2026-07-24:** Pelangi Kali teacher removed; martial **Thailand Ch 5–10 only**.
-- **Babaji (Pelangi Reach — LOCKED Vol I Ch 1 rev. Y)** — refuge patron. **Motor catamaran** at anchor; **Wren** host/handler. **Saturday AM** boat papers; **leaves south Saturday PM** parallel to Eli. Orphan truth: **Mei Friday dinner**, not Babaji on-page. Keeper refusal → squeeze → **raid on hotel offices** as Eli departs. **Voice:** educated American register — Srinivasan Balaji model; jurisdictions, not harbor slang.
+- **Babaji (Pelangi Reach — LOCKED Vol I Ch 1 rev. Y)** — refuge patron. **Motor catamaran** at anchor; **Wren** host/handler. **Saturday AM** boat papers; **leaves south Saturday PM** parallel to Eli. Orphan truth: **Mei Friday dinner**, not Babaji on-page. Keeper holdout → squeeze → **raid on hotel offices** as Eli departs. **Voice:** educated American register — Srinivasan Balaji model; jurisdictions, not harbor slang.
 - **The Pelangi Reach sailing community** uses the available sailboats for ordinary recreation, maintenance, training, and later practical transport. Eli learns basic seamanship: knots, points of sail, reefing, keeping watch, reading wind and weather, docking, and taking instruction aboard. By Volume I he can be useful on a boat but is not an expert skipper. The skill earns its place when the unstable maritime passage requires work, judgment, and cooperation that psionics cannot replace.
 
 Together these practices establish a bodily grammar before the cosmology arrives. Staff performance shows controlled play; morning martial training shows disciplined relation to force; sailing shows direction achieved by working with pressure rather than trying to abolish it. The parallels should emerge through action, not explanatory dialogue.
@@ -341,7 +341,7 @@ Bangladesh should remain an unreturnable or not-yet-returnable home. The reason 
 
 **Off-page lock — LOCKED 2026-07-23:** Eli does **not** visit Bangladesh on-page in any volume. No village feast, planting beat, or near-miss return solved in prose. Lost home is carried through Bangla speech, food memory, Meridian City queue humiliations, Shireen's encrypted messages (garden photo, corridor warnings), and the Pelangi Reach exile garden.
 
-**Father's capture — locked shape (rev. 2026-07-24).** **Rasel Khan** — legendary physicist + gardener in Eli's memory. **Bangladeshi passport** → **Mandate** claim. Visibility (science + dissent) entangled with hunt for Maren; family fled Bangladesh. **Extraction night:** attack + **passport split** — Rasel to **Mandate lab**; Maren (Albion passport) to **Measure/Ring** chain; Eli **TBI**. Keeper net lore = dead; **pier (Ch 1):** taken alive, unrescued. **Eli rescues Rasel — Book III only.** Book II = **rescues Maren** only. Eli's memory = living culture (language, garden, rivers), not legible extraction. Pelangi garden = exile soil + grief without reunion until Book III. Retired: *killed during extraction*; *single chain for both parents*; *father rescued Book II*.
+**Father's capture — locked shape (rev. 2026-07-24).** **Rasel Khan** — legendary physicist + gardener in Eli's memory. **Bangladeshi passport** → **Mandate** claim. Visibility (science + dissent) entangled with hunt for Maren; family fled Bangladesh. **Extraction night:** attack + **passport split** — Rasel to **Mandate lab**; Maren (Albion passport) to the **Charkha Measure** chain; Eli **TBI**. Keeper net lore = dead; **pier (Ch 1):** taken alive, unrescued. **Eli rescues Rasel — Book III only.** Book II = **rescues Maren** only. Eli's memory = living culture (language, garden, rivers), not legible extraction. Pelangi garden = exile soil + grief without reunion until Book III. Retired: *killed during extraction*; *single chain for both parents*; *father rescued Book II*.
 
 Eli's **fundamental** drive is **parent rescue** — **Maren, Book II**; **Rasel, Book III** (`27` § Fundamental motor). The mother-trail, Malacca, Göbekli, artifacts, and alliances are **means**; he is **not seeking power**. His main emotional need beneath rescue is **home without capture**: grief, abnormal perception, disability, love, work, privacy, and accountability coexisting without state, faction, prophecy, or archive defining him first. Pelangi Reach = temporary made home; Bangladesh = lost home; Book III tests whether mature home exists without ownership — **after** both rescues are addressed on their own terms.
 
@@ -415,7 +415,7 @@ The practical constraints remain decisive:
 
 After an attack, show consequences rather than a clean reset: headache, tremor, insomnia, missing time, shame, mistrust, intrusive emotional residue, neurological symptoms, or conflict over whether an experience was authentic. Do not use Eli's TBI as a generic meter for psionic damage. His established disability remains distinct even when an attack aggravates it.
 
-Not every psion is a soldier. Conscription, coercion, asylum, desertion, conscientious refusal, and the right not to become public infrastructure are part of the human conflict. The healer's refusal and Pelangi Reach's privacy practices should make this political reality concrete.
+Not every psion is a soldier. Conscription, coercion, asylum, desertion, conscientious objection, and the right not to become public infrastructure are part of the human conflict. The healer's hard no and Pelangi Reach's privacy practices should make this political reality concrete.
 
 ## Scene-level test
 
@@ -456,10 +456,10 @@ If the remaining answer is only *Eli learns more history or unlocks another capa
 
 **What true strength is in this canon:**
 
-- **Inner work made visible** — breath, stillness, attention, refusal to be steerable (`40` Stage 2; Aru's practice at Göbekli).
+- **Inner work made visible** — breath, stillness, attention, declining to be steerable (`40` Stage 2; Aru's practice at Göbekli).
 - **Intimate awareness** — knows the shape of fear in oneself, therefore can see it in another without owning them.
 - **Connected knowing** — Eli's clarification of the living web; somatic read; song; network — not isolated superiority.
-- **Refusal without spectacle** — Aedan's stone, Somchai's *no*, Eli's climax — power that does not need to seize the amplifier to exist.
+- **Limit without spectacle** — Aedan's stone, Somchai's *no*, Eli's climax — power that does not need to seize the amplifier to exist.
 - **Interdependence without shame** — can need help; can cup the spider; can fall apart when cared for.
 
 **Three Circles test** (`40`, `00_MASTER_TIMELINE`): genuine reconnection radiates **outward** (Body → Family → Civilization) as effluence. Counterfeit calm **leaks** — private serenity bought by wrecking relationships or fleeing the world. If a character's "strength" improves only their interior while degrading bonds, it is display, not integration.
@@ -516,7 +516,7 @@ If the remaining answer is only *Eli learns more history or unlocks another capa
 | **Somatic / diagnostic** | Hands that read heat, pulse, blockage; midwife knowledge; first aid guided by a read | Ila, the healer *(male — power ≠ combat)* |
 | **Sonic / frequency** | Song as substance, throat-sounds, misdirection through rhythm | Anthea, the Singer, Pai |
 | **Concealment / transmission** | Grain pit, dream-chain, hiding a child, passing practice hand to hand | Marra, Tem, Derw's encoding |
-| **Refusal without spectacle** | Not kneeling; not becoming the hoarder; release instead of throne | Aedan's stone, Eli's Manual Override climax |
+| **Limit without spectacle** | Not kneeling; not becoming the hoarder; release instead of throne | Aedan's stone, Eli's Manual Override climax |
 | **Reception / witness** | Breadth of read, not repair; map not territory | Eli, Emrys |
 
 None of these require quips, cold killing competence, or "winning" by acting like the man with the hammer. **Wren's exits and counterfeits are survival craft**, not femme-Bond — her arc is whether love can be real after the game, not whether she out-fights the hunters.
@@ -559,7 +559,7 @@ When elements compete, protect them in this order:
 2. The double orphaning and political/psionic hunt.
 3. His relationships with Wren, the Healer, Emrys, his dead family, and living people on the route.
 4. Historical practitioners as conflicting witnesses.
-5. The mother-release and refusal climax.
+5. The mother-release and hard-no climax.
 6. Cosmological explanation.
 
 The lore exists to intensify the human problem. The human problem never exists merely to deliver lore.

@@ -51,7 +51,7 @@ Different stages require different missing witnesses:
 - an artifact's physical geometry explains one of her sketches;
 - a site produces a repeatable biological or field measurement;
 - an oral or embodied practice reveals a distinction absent from the written gloss;
-- a community refuses access or rejects Maren's interpretation, and that refusal becomes evidence Eli must respect;
+- a community refuses access or rejects Maren's interpretation, and that boundary becomes evidence Eli must respect;
 - independent data contradicts a page and forces a new branch rather than a forced fit.
 
 The locations do not contain passwords Maren planted. They contain parts of reality she could not reproduce or did not understand. The journal gives questions; the journey supplies witnesses.

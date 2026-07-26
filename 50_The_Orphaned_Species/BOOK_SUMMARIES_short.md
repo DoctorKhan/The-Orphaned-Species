@@ -147,7 +147,7 @@ MOVEMENT.
   The communities adopt a bounded emergency compact — purpose-bound, recorded,
   revocable by several communities, Wren's network not requisitionable, identity
   registration forbidden, emergency authority self-expiring. No demographic is
-  born owing military service; defense requires consent, rotation, refusal
+  born owing military service; defense requires consent, rotation, exit rights
   rights, named casualties, and continuing care.
 
 CLIMAX (LOCKED — Book III Ch 7–8). As the new war widens elsewhere, Hawaiʻi becomes a

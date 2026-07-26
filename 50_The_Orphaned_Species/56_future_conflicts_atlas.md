@@ -31,7 +31,7 @@ Full detail: `23_2040_present_frame.md` § Macro timeline, § The Hinge.
 
 | Bloc | Strategy | Fragility | On-page texture |
 |---|---|---|---|
-| **Continental Union** | Rigid centralization — registries, walls, force | Mycenaean-brittle; favored populations; class severance | Crane's ring; Devolution roster; expendability ledger |
+| **Continental Union** | Rigid centralization — registries, walls, force | Mycenaean-brittle; favored populations; class severance | Charkha Measure; Devolution roster; expendability ledger |
 | **Eastern Mandate** | Endurance at scale — corridors, quarantine competence | Stagnant then indispensable; hidden migrant-worker losses | Meridian Stack; cure corridors; blockades; Ma |
 | **Free Ports Coalition** | Decentralized maritime antifragility | No head to chop; sacrificial-port temptation | Malacca, Pelangi gray space, threshold houses, Harbor Thread |
 
@@ -212,7 +212,7 @@ Additional set-pieces: `18_adventure_engine_and_scene_bank.md`. **Not every pin 
 
 **Book III Ch 4 — Revelation:** keeper shows **sanctuary practice at civic scale**; Eli recognizes Pelangi Ch 2; **proposes polyphonic compact** (every key must sound); federation **replicates living form** when Crane keeps registry tier; Wren witnesses Eli try to **solo the chorus**.
 
-**Not:** refusal chain as story engine. **Yes:** slow clock, full keyboard, beloved community as **construction** (`Thesis.md` § *Mature form*).
+**Not:** renunciation-chain as story engine. **Yes:** slow clock, full keyboard, beloved community as **construction** (`Thesis.md` § *Mature form*).
 
 ---
 

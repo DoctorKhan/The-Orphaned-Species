@@ -9,7 +9,7 @@
 Two kinds of thing rhyme across the eras, and they live in two docs:
 
 - **Object/sound carriers** — the Wheel, the Heat, the Song, the Fox-spiral. Tangible things that recur. → `20_resonance_points.md`.
-- **The Lessons** — the *thematic* echoes. The trap the Igigi priest sets at Göbekli is the same trap the chariot-king sets in the Bronze Age, the same trap Crane's ring runs through modern procedure, and the same trap the reader recognizes in their own world. The Lesson is the antidote that recurs against it. → *this doc.*
+- **The Lessons** — the *thematic* echoes. The trap the Igigi priest sets at Göbekli is the same trap the chariot-king sets in the Bronze Age, the same trap the Charkha Measure runs through modern procedure, and the same trap the reader recognizes in their own world. The Lesson is the antidote that recurs against it. → *this doc.*
 
 **Present braid is locked**, so the "present" column belongs to Eli/Wren/Emrys/Crane as the load-bearing reality. The historical carrier's Lesson matters only when Eli can apply it without claiming the carrier's identity or authority.
 
@@ -33,7 +33,7 @@ Two kinds of thing rhyme across the eras, and they live in two docs:
 | 10 | **Be still and listen** | "The world's noise is engineered to capture your attention and energy" (the attention economy / the spectacle) | **Aru / Anthea:** stillness and the listened-for frequency | Eli detects interruption before he understands it, but must listen to Wren, Emrys, growers, and contradictory evidence before naming a line. |
 | 11 | **Forgive — but don't rehire it** | The cycle the wound is meant to start; "injure so severely he cannot avenge it" (Ch. III) — the Qingu wound weaponizes grievance | **The cave-boy / Aedan:** forgive the gods' abandonment without re-installing a father to kneel to | Eli refuses to destroy Crane without excusing him, and refuses to make Emrys, the mother, the Seven, the machine, or old gods into a new parent. |
 | 12 | **Care for every living thing** | The extractive worldview — world (and workforce) as resource to use up; husbandry-as-domination | **Lovernios:** mind is not bounded by species; the gardener, not the extractor | Altered plant growth is evidence and a living consequence, not a disposable sign. The group protects the field and its community while learning from it. |
-| 13 | **You don't have to be someone else to be loved** | The reproductive/social bottleneck — you must be recognized by the elite caste to count | **Anthea — the REFUSAL case.** The warlords want her to accept caste legitimacy and become useful to their line; she refuses. Mirror of Adapa's failure at Lesson 3 | Eli and Wren must love without possession, rescue-fantasy, status, or becoming useful enough to deserve it. |
+| 13 | **You don't have to be someone else to be loved** | The reproductive/social bottleneck — you must be recognized by the elite caste to count | **Anthea — the LIMIT case.** The warlords want her to accept caste legitimacy and become useful to their line; she refuses. Mirror of Adapa's failure at Lesson 3 | Eli and Wren must love without possession, rescue-fantasy, status, or becoming useful enough to deserve it. |
 
 ---
 
@@ -41,8 +41,8 @@ Two kinds of thing rhyme across the eras, and they live in two docs:
 
 A few of these aren't just neat — they're structural spines:
 
-- **Lesson 3 ↔ Adapa (the failure) ↔ cave-boy Aedan / present Eli (the payoff).** Adapa believes the Qingu-lie and locks himself. Aedan's granary-stone recognition gives a deep answer; Eli's refusal of Crane's file **and of an invented eternal identity** makes it present-tense. See `30_beatsheet_ch09_adapa.md`.
-- **Lesson 13 ↔ Anthea (refusal) vs. Adapa (failure).** Anthea is offered elevation-by-becoming-elite and refuses; Adapa accepts the lie that his worth is forfeit. Stage them as deliberate mirrors — the human who outgrew the parent vs. the human who couldn't.
+- **Lesson 3 ↔ Adapa (the failure) ↔ cave-boy Aedan / present Eli (the payoff).** Adapa believes the Qingu-lie and locks himself. Aedan's granary-stone recognition gives a deep answer; Eli's hard no to Crane's file **and of an invented eternal identity** makes it present-tense. See `30_beatsheet_ch09_adapa.md`.
+- **Lesson 13 ↔ Anthea (limit) vs. Adapa (failure).** Anthea is offered elevation-by-becoming-elite and refuses; Adapa accepts the lie that his worth is forfeit. Stage them as deliberate mirrors — the human who outgrew the parent vs. the human who couldn't.
 - **Lesson 4 ↔ somatic signatures (Carrier 3).** Lesson 4's deeper reading ties awakening to **reading another body with care** — attention before doctrine. Let Ila's diagnostic read, Eli's frightened **pressure-read** at a bleed, and the present healer's deeper repair enact Lesson 4 without ever saying so. **Deprecated:** "compassion = warmer hands."
 
 ## Rules for extending this sheet
