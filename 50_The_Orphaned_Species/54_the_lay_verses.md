@@ -524,11 +524,74 @@ Wash the bowl.
 | 23 | The swept floor | 12 | Repair without performance | Cloisters, maintenance |
 | 24 | Don't-know | 1, 8 | Empirical humility | Eli, teahouse inquiry |
 | 25 | Ordinary again | 5, 13 | Return after seeking | Book III; refused crown |
+| 26 | The parade (antiphonal) | 3, 10 | Liturgy — fragments → service | Tao 20; Cherry Cube anti-chant → **`54_liturgies.md`** |
+| 27 | Teach not-knowing | 1, 8, 10 | Host humility; no clever rule | Tao 65; teahouse hosts; Wren boundaries |
+| 28 | The hearth circle | 9, 12 | Fire, circle, one guitar | Book II after collapse; Khun Dang rhyme |
+
+---
+
+### 28 · The hearth circle
+
+When the palace burns,  
+sit in a circle.  
+One fire. One pot.  
+One guitar — if you have it.
+
+Play simple.  
+Pass the song.  
+No one stands above the ring.  
+The song spends the time.  
+The time spends the watching.
+
+Cook after. Play after.  
+That is a home  
+wherever they move you.
+
+*Practice: post-collapse repair. Lessons 9, 12. Seed: Khun Dang (Book I Ch 5); **Book II Ch 5** after Pömmelte; optional Ch 6 grief. Full form: `54_liturgies.md` § Hearth circles.*
+
+---
+
+### 27 · Teach not-knowing
+
+Do not fill the room with answers.  
+Teach them to not-know.
+
+When people think they know,  
+they are hard to guide.  
+When they know they don't know,  
+they find their own way.
+
+Govern without cleverness.  
+The simple pattern is clearest.  
+Content with an ordinary life —  
+show the way back.  
+Do not keep it.
+
+*Practice: host humility; inquiry without oracle. Lessons 1, 8, 10. Tao 65 author rendering. **Scientific method = structured not-knowing** — pairs lay verse 24, *Let's test it*, teahouse preregister, Emrys *provisional* (`22`, `33`). **Primary home: Book III finale (Ch 9–10)** — federation after the bounded crown. Pairs Parade F8 at inquiry; teahouse host enacts after full Parade service. Not Eli's doctrine — wall, host, ordinary work.*
+
+**Condensed forms (same teaching, shorter):**
+
+| Form | Use |
+|---|---|
+| **One breath** | *Teach not-knowing. / Answers make people hard to guide. / Don't-know lets them find the way.* |
+| **Host rule** | *Do not be clever at the threshold. / Ordinary life shows the way back.* |
+| **Tile** | *When they know they don't know, / they find their own way.* |
+
+---
+
+### 26 · The parade (pointer)
+
+Solo fragments from the antiphonal liturgy may appear alone on walls and in speech — *I alone don't know*, *I alone possess nothing* — before the room ever assembles the full form.
+
+The complete call-and-response, fragment index (F1–F10), stage directions, and novel drip schedule live in **`54_liturgies.md`**.
+
+*Practice: refusal of spectacle. Lessons 3, 10. Seed: Cherry Cube chant (Vol I); teahouse gathering (Vol III).*
 
 ---
 
 ## Cross-references
 
+- Antiphonal liturgies: `54_liturgies.md` — Parade Liturgy + Hearth circles
 - In-scene dialogue refrains: `53_quotable_refrains.md`
 - Prose curriculum (child / deeper way): `Lessons_of_the_Living_Way.md`
 - Dramatized antidotes (never recite): `25_rhyme_sheet_lessons.md`

@@ -1,12 +1,24 @@
 # 2040 Present Frame — What Changed (Author Assumption)
 
-> **Status:** LOCKED **author assumption** for the present-day trilogy. The story is set in **~2040** (~14 years from drafting baseline). **Never state the year on-page.** Readers should infer *near future* from texture, not from a caption. Companion to `21_present_day_street_skin.md`, `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `22_life_technology_and_two_trees_spine.md`, and `28_present_day_trilogy_craft_index.md`.
+> **Status:** LOCKED **author assumption** for the present-day trilogy. The story is set in **~2040** (default anchor; **optional author range ~2040–2042** for publication drift — LOCKED 2026-07-26). **Never state the year on-page.** Readers should infer *near future* from texture, not from a caption. Companion to `21_present_day_street_skin.md`, `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `22_life_technology_and_two_trees_spine.md`, `28_present_day_trilogy_craft_index.md`, and **`56_future_conflicts_atlas.md`** (conflict registers, sorting machine, trilogy pressure map — LOCKED 2026-07-26).
 
 ## Rule
 
-- **Author knows:** ~2040.
+- **Author knows:** **~2040** (default). May slide to **~2041–2042** if real-world publication narrows the gap — **zero on-page change**; only internal backstory dates and cast ages at Book I open shift (+1 year per year slid).
 - **Reader gets:** reopening ports, scarred sky, lingering emergency law, familiar phones and kitchens — **accelerated present**, not another planet.
 - **Do not:** open chapters with dates, infodump timelines, or retro-future chrome for its own sake.
+
+### Author year range (publication drift — LOCKED 2026-07-26)
+
+| Anchor | Book I open | Eli / Wren (Vol I) | Hinge end / armed reopening |
+|---|---|---|---|
+| **2040** (default) | ~2039–2040 | **22 / 19** | ~2037–2040 |
+| **2041** | ~2040–2041 | 23 / 20 | ~2038–2041 |
+| **2042** (max buffer) | ~2041–2042 | 24 / 21 | ~2039–2042 |
+
+**Why the range exists:** keeps the macro arc (late-2020s acceleration → early-2030s militarization → mid-2030s war → Fever Years → armed reopening) intact while avoiding a setting that feels **imminent** if the first book ships several years after drafting. **Do not** slide past **2042** without revisiting tech texture and climate load — risk of "future history" rather than accelerated present.
+
+**What does not move:** on-page texture rules, never-date rule, bloc names, Hinge *street names*, Eli/Wren **birth cohort logic** (pre-outbreak natural carrier; threshold adolescence during the Hinge).
 
 ---
 
@@ -20,7 +32,7 @@ The novel opens **after** the acute phase of two overlapping crises. Background 
 | **Early 2030s** | Several states **confirm psionic signatures** in reproducible lab conditions — still disputed publicly, already militarized privately. Carrier registries begin as **health-and-security** programs. |
 | **Mid 2030s** | **Conventional + cyber war** escalates: shipping insurance spikes, satellite constellations attacked/jammed, GPS unreliable in contested corridors, payment and identity systems weaponized. |
 | **~2037–2039** | **The Fever Years** — engineered outbreak during war escalation (acute phase of **the Hinge**); mortality and lockdown politics; **contained** within ~18–30 months via platform vaccines, reduced virulence, and/or hybrid immunity. **Emergency powers do not fully sunset.** |
-| **~2039–2040 (novel present)** | Uneven **armed reopening** after the war's hottest phase: Malacca, Strait ports, and some corridors function again under incompatible armistices. Proxy fighting, blockades, maritime seizures, and drone attacks continue. Pelangi Reach and similar pockets operate as **accountable refuges**. Covert **Psion War** is fully active and harder to hide. Eli is **22**; Wren **19**. |
+| **~2039–2042 (novel present)** | Uneven **armed reopening** after the war's hottest phase: Malacca, Strait ports, and some corridors function again under incompatible armistices. Proxy fighting, blockades, maritime seizures, and drone attacks continue. Pelangi Reach and similar pockets operate as **accountable refuges**. Covert **Psion War** is fully active and harder to hide. **Default anchor 2040:** Eli **22**; Wren **19**. Optional slide: see § *Author year range*. |
 
 The world is **damaged but functioning** — not collapse, not utopia.
 
@@ -116,7 +128,7 @@ Endurance state frames episodes as **disease to cure** — centralized medicine,
 
 ### The Hinge (past tense, persistent settlement)
 
-**The Hinge (~2037–2040)** — civilizational turn: WWIII acute + **Fever Years** + armistice blocs + puberty **Threshold** + **inverted order** + Weavers' **Weaving-in** + **scientist claiming** + **capacity claiming** (talents/minds ledgered like scientists; folk norm: **stay under the radar** — don't be read as too talented). Street: *after the Hinge*, *the Fever Years*, *the Threshold*, *claimed*, *stay off the ledger*. Union file: *Activation Event*; Mandate lie: *the Sparing*; keepers: *the Opening*. Full lock: `95`, `40_concepts.md` § The Hinge, § Scientist claiming, § Capacity claiming, § Staying under the radar.
+**The Hinge (~2037–2040; slides with author anchor to ~2039–2042 max)** — civilizational turn: WWIII acute + **Fever Years** + armistice blocs + puberty **Threshold** + **inverted order** + Weavers' **Weaving-in** + **scientist claiming** + **capacity claiming** (talents/minds ledgered like scientists; folk norm: **stay under the radar** — don't be read as too talented). Street: *after the Hinge*, *the Fever Years*, *the Threshold*, *claimed*, *stay off the ledger*. Union file: *Activation Event*; Mandate lie: *the Sparing*; keepers: *the Opening*. Full lock: `95`, `40_concepts.md` § The Hinge, § Scientist claiming, § Capacity claiming, § Staying under the radar.
 
 ### The outbreak (past tense, persistent scars)
 
@@ -133,12 +145,49 @@ Endurance state frames episodes as **disease to cure** — centralized medicine,
 | **AI** | Ubiquitous assistants, translation, surveillance scoring, fraud detection — **not** AGI rulers | Mei understands three languages at the till; forged papers detected faster; Eli's name surfaces in a database he never joined |
 | **Comms** | Phones/wearables remain; **mesh gaps** force radio, paper, and face-to-face in corridors | Suresh's chits; delayed cargo manifests; "the network's wrong again tonight" |
 | **Biosecurity** | Rapid tests, wastewater monitoring, travel tokens — normalized | Masks in port memory; quarantine floats; travel warnings on Eli's phone |
-| **Robotics** | Service bots, patrol drones, plaza automation — **pet/guard/toy/surveillance** | Robot dog; automatic chess |
+| **Robotics** | **Scarcer than near-future default** — software scaled; **embodied** automation did not. See § *Robotics lock* below | Patched **robot dog** (legacy, one route); fixed **automatic chess**; **drones** at war/perimeter — not a robot in every plaza |
 | **Consciousness science** | Fringe → **funded fringe**: EEG/fMRI + anomaly correlation; Emrys marginalized but instrumented | Chair as engineered key; signatures "measurable, meaning withheld" |
 | **Transport** | EVs common in cities; **maritime still diesel-heavy** in Eli's class | Racing sailboats vs Suresh's stained hull |
 | **Finance/status** | Platform wages, gig facilities work, refugee precarity, crypto-broken remittance lanes | Eli's compound wage; Babaji connection = job, not trust fund |
 
-**Avoid:** flying cars, Mars colonies, full VR life, everyone in spandex, magic holograms everywhere.
+**Avoid:** flying cars, Mars colonies, full VR life, everyone in spandex, magic holograms everywhere, **humanoid robots as background furniture**.
+
+### Robotics lock — humanoid rare; embodied automation scarce (LOCKED 2026-07-26)
+
+**One-line rule:** the world has **more AI in software than bodies in metal**. Humanoid robots are **rare, expensive, and political** — mostly found in **Meridian City / the Stack** and other **power centers** (Union relocated capitals, bloc headquarters, prestige campuses). They **signal industrial reach**, not everyday life.
+
+**Why so few:**
+
+| Factor | Effect |
+|---|---|
+| **No mass industrial base** | Humanoid and service robotics need fabs, precision supply chains, skilled maintenance, and steady power — all **disrupted** by mid-2030s war, Fever Years, satellite gaps, and bloc fragmentation |
+| **Population decline / missing cohort** (`WORLD_BIBLE`) | Shrunken workforces; aging maintainers; **fewer factories retooled** for embodied automation; child infrastructure repurposed — not a robotics boom |
+| **Post-Hinge priorities** | States fund **registries, drones, quarantine, psion teams** — not civilian robot fleets |
+| **Software substitute** | Translation, scoring, surveillance, triage run on **networks and phones**; cheaper than bodies |
+| **The entropy mistake** | Planners treated **embodied** automation like **software** — as if metal bodies could scale without paying the **entropy bill**. **Death technology never breaks the second law**; it only **localizes order temporarily**. Humanoid robots **look like life**; they are **expensive clocks** (`22` § *Death technology*) |
+
+**The entropy mistake (LOCKED 2026-07-26):**
+
+Late-2020s–early-2030s culture **did not understand** that building and maintaining robot bodies is a **continuous fight against entropy** — not a one-time install. Copying a model is cheap; **keeping ordered matter ordered** costs power, heat, precision parts, fabs, and **human maintainers** (fewer after the baby bust). Software scaled because bits don't rust. Humanoid robots didn't because **every body is entropic death technology** — a local island of order that **runs down** unless constantly fed.
+
+**Only life** — keeper chains, healing, living web, bodies that repair — touches the **anti-entropic** register. Meridian's lobby humanoid is **status theater**: pretending the entropy bill was prepaid forever. Pelangi's royal kiosks **promised** robot cities; the island got **patched quadrupeds** and maintenance debt.
+
+**On-page texture (not lecture):** Babaji's robot dog **ticks and stalls**; one humanoid at Stack intake draws stares; a clerk says *we can't get parts*; Eli maintains **cable runs** while the dog route needs a **human** to reset. Tie to Eli's facilities work — he knows embodied systems **decay**.
+
+**What exists on-page (allowed):**
+
+| Type | Where | Texture |
+|---|---|---|
+| **Humanoid robots** | **Meridian City / the Stack**; Union power sites; royal-hub **propaganda** (promised more than delivered) | **Status theater** — lobby greeter, ceremonial guard, intake escort; locals stare; **one humanoid = wealth speech** |
+| **Quadruped / patrol bots** | Legacy at failed megaprojects (**Pelangi** robot dogs); some Stack/Union perimeters | **Patched, few, one route** — pet/guard/toy/surveillance; not a pack |
+| **Fixed automata** | Babaji's chess boards; mall gimmicks | **Not humanoid**; pre-Hinge or imported kits |
+| **Drones / autonomous weapons** | War, corridors, blockades (`38`, `33`) | **Military register** — fought over, jammed, logged; distinct from civilian humanoid scarcity |
+
+**Pelangi rule:** the king's Reclamation hub **wanted** robotics to rival Meridian; the megaproject **failed before scale**. Babaji's **robot dogs and chess boards are leftovers** — maintained by hand, not proof the island is a robot city.
+
+**Guards:** no robot waiter armies; no humanoid servants at **Malacca** chandlery; no "everyone has a home bot." When Eli sees a **humanoid**, it should feel **wrong and loud** — someone's budget talking. Malacca, threshold houses, and Pelangi terrace life stay **human-bodied**.
+
+**Cross-refs:** `05` § Pelangi hub; `26` § Babaji; `WORLD_BIBLE` § Pelangi modernization; `56` § technological register.
 
 ### Climate and agriculture
 
@@ -152,11 +201,13 @@ Still load-bearing in 2040, now **worse or sharper**:
 
 - housing precarity and refugee status;
 - healthcare fear and TBI follow-up gaps;
-- the **global baby bust / missing-cohort crisis** (`WORLD_BIBLE`): aging workforces, repurposed child infrastructure, scarce adolescents, and political fertility anxiety remain background pressure rather than a demographic lecture;
+- the **global baby bust / missing-cohort crisis** (`WORLD_BIBLE`): aging workforces, repurposed child infrastructure, scarce adolescents, political fertility anxiety — and **far fewer embodied robots than near-future fiction assumes** (maintenance labor, factory retooling, and supply chains never recovered; see `23` § *Robotics lock*);
 - institutional mistrust post-outbreak;
 - feeds that fracture reality (AI-slop + state propaganda + prophecy TikTok);
 - loneliness and atomization — **why Pelangi Reach lands**;
 - **the Drift** — the untethering disease: people powered-up and lost in AI/tech feeds, addicted and cut from the real (this world's cyberpsychosis; keepers call it *god-sickness*). Present-day social texture, not just a psion condition; the machine-face of the psi-Drift. Show as behavior — a drifter on the terrace, a companion-ping habit Eli distrusts (`44` § Timeliness). Full concept `40` § *The Drift*; glossary `95`.
+- **the flow** — rendezvous phrase; emerges across **multiple further collapses** Book II–III. First spoken: **corridor break** (Ch 5). Not Vol I. `54` § *The flow*.
+- **the corridor break** (*the Break*) — Book II Ch 4–5 **regional collapse**: west European transfer corridor loses fixed routes/checkpoints/meetups. `54` § *The corridor break*.
 
 **Demographic guard:** do not make smartphones the sole explanation or imply that network collapse restores family formation. Characters may believe or weaponize that thesis. The lived causes remain plural: attention displacement, housing and labor insecurity, migration, care burdens, mistrust, delayed partnership, and lost communal space. The war and Weapon compound an older baby bust into a broken cohort structure. Faction responses reveal their moral logic: Union registry and pronatal discipline; Mandate youth quarantine/research and labor allocation; Ports extended households and alloparenting. The last can heal isolation but must still answer consent, privacy, and who bears the work.
 
@@ -187,7 +238,7 @@ By 2040, elites **know** carriers exist:
 
 - **Status lock:** Pelangi Reach is formally **Coalition gray space**, economically dependent on **Mandate-linked Meridian City**, and politically tolerated until the **Mandate squeeze** (Babaji keeper cell refused flagged-carrier transfer; corridor/registry hold — not a staged attack). It is outside Continental Union jurisdiction and not Mandate territory; dependence is economic and logistical, not sovereignty.
 - **History:** **Forest City / Forest Foundry** megaproject + resort SEZ — **failed and abandoned** when the outbreak hit; founders left. **Babaji** kept the Reclamation corridor alive as **accountable refuge** (desal, pumps, old **hotel** base with **tech labs**, **portable brain scanners**, **robot dogs**).
-- **2040:** not ghost city; **functioning refuge** in a dead resort shell — mall aunties, compound crew, Mei's terrace cafe, sail training, robot dog on Babaji's patched route.
+- **2040:** not ghost city; **functioning refuge** in a dead resort shell — mall aunties, compound crew, Mei's terrace cafe, sail training, **one patched robot dog** on Babaji's route (legacy quadruped, not humanoid staff — `23` § *Robotics lock*).
 - Under pressure: travel warnings, psion surveillance, supply chain dependence on Suresh-class boats.
 
 ### Strait geometry — Mandate throat, Coalition lungs, Meridian ledger — LOCKED 2026-07-24
@@ -245,13 +296,14 @@ Use **scar + habit**, not history lectures:
 
 ---
 
-## Story load — why 2040 works
+## Story load — why ~2040 (–2042) works
 
 - **Death technology** stays **our physics, accelerated** — equations, instruments, registries, chairs.
 - **Life technology** discovery feels **new to the institutions**, not ancient to the reader's world.
 - **EdgeRunners skin** — bodies traded for power, corps/blocs own the upgrade path — lands without cyberpunk pastiche.
 - **Mother's research + Emrys's chair** — plausible classified fringe **now mature enough to weaponize**.
 - **Broken sky → old routes** — causal link without apocalypse.
+- **Publication buffer:** optional **~2041–2042** anchor buys real-world drift without retconning prose texture.
 
 ---
 
@@ -269,6 +321,6 @@ Still decide in draft/research, not here:
 
 ## Quick reference
 
-**Year (author):** ~2040  
+**Year (author):** **~2040** default; optional range **~2040–2042** (publication drift)  
 **Reader:** near future, reopening world, scarred institutions, familiar life under pressure  
-**Never on-page:** 2040, "fourteen years later," decade summaries
+**Never on-page:** 2040, 2041, 2042, "fourteen years later," decade summaries

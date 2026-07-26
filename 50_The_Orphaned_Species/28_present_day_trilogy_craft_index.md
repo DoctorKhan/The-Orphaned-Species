@@ -41,7 +41,10 @@
 | Full structure / climax | `05_story_architecture.md` |
 | Cultural moment / story-first resonance (2026) | `44_cultural_moment_and_mass_appeal.md` — durable pressures, character engines, organic suspense, cultural guardrails |
 | Quotable refrains / reader spread / revision pass | `53_quotable_refrains.md` — Tier A dialogue bible; voice jobs; anti-cult spread guard |
-| Lay verses (Tao / spiritual-text register) | `54_the_lay_verses.md` — Tier B companion; 25 chapters; Tao, Zen, zine & epigraph layer |
+| Lay verses (Tao / spiritual-text register) | `54_the_lay_verses.md` — Tier B companion; 27 chapters; Tao, Zen, zine & epigraph layer |
+| Lay liturgies (antiphonal / call-and-response) | `54_liturgies.md` — fragments → seasonal service; *Parade Liturgy* (Tao 20); *Hearth circles* (Book II post-collapse); *The flow* (post-collapse rendezvous phrase) |
+| Civic memorial anchors (King SF, Lincoln DC) | `90_epigraphs_and_sources.md` §10 — Yerba Buena *Revelation*; site text + Book III Ch 4–5 mapping |
+| Future conflicts / sorting / ~2040 pressure map | `56_future_conflicts_atlas.md` — six registers, bloc fragility, immigration×class×race, staging bank (LOCKED 2026-07-26) |
 | Audience / Wren relatability | `43_audience_and_character_recommendations.md` |
 
 ---
@@ -55,7 +58,10 @@
 **Discovery throughout; reunification at end.** Life technology vs **death technology** (= ordinary tech, entropic clock). Adapa payoff. Two-Tree union act at climax. Volume Life/Knowledge beat obligations.
 
 ### `23_2040_present_frame.md` **LOCKED (author assumption)**
-Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, contained outbreak, psion programs, tech texture, geography notes, prose markers.
+Story set **~2040** (default); optional author range **~2040–2042** for publication drift — **never on-page year.** Macro timeline 2026→2040+: war, contained outbreak, psion programs, tech texture, **robotics scarcity / humanoid rare**, geography notes, prose markers.
+
+### `56_future_conflicts_atlas.md` **LOCKED 2026-07-26**
+Six conflict registers (ecological → technological), sorting machine (racism×class×immigration), bloc fragility, trilogy escalation timeline, good-vs-good collisions, staging scene bank. Companion to `23`; pressure map for drafting.
 
 ### `24_comedic_register_slapstick.md`
 **Project Hail Mary register** — slapstick under catastrophe. Primary: **Emrys**. Ensemble: Eli straight man, Wren armor-break, Mei warm-dry. Volume comedy density.
@@ -79,7 +85,7 @@ Story set **~2040**; **never on-page year.** Macro timeline 2026→2040: war, co
 |---|---|---|
 | **Pitch / comps / clue-chain gate** | **`55`** | **HIGH PRIORITY** — literary speculative deep-history conspiracy thriller; 10-point revision gate |
 | POV architecture | `14` | Eli-dominant close third; only Eli, Wren, and Somchai as recurring interior lenses; one viewpoint per scene; rare away scenes must pass the switch test |
-| Present year (author) | `23` | ~2040, not on-page |
+| Present year (author) | `23` | ~2040 default; ~2040–2042 range; not on-page |
 | Death technology | `22`, `34`, `95` | Ordinary tech = equations in entropic time |
 | Life + death at climax | `22`, `05` | Two-Tree union act; release not throne |
 | Emrys comedy | `24`, `26` | Primary slapstick; measures-when-he-should-touch |

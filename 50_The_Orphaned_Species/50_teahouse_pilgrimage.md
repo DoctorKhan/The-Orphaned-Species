@@ -147,6 +147,8 @@ Minimum protections:
 - no clan claims exclusive descent from the Seven or ownership of a practice, site, capacity, or human type;
 - cross-house visits, replication teams, shared work, and periodic gatherings prevent epistemic closure.
 
+Seasonal gatherings and cloister intervals may use **antiphonal lay forms** from the companion corpus — call-and-response liturgies taught as household custom, not priestcraft (`54_liturgies.md`; primary example: *The Parade Liturgy*). Fragments circulate as sayings long before a house assembles the full service.
+
 The network's balance is not sameness. It is **difference remaining in relationship**.
 
 ## Eli's place after Book III

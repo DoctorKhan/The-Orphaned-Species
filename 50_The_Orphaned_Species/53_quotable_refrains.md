@@ -75,7 +75,7 @@ Each major mouth owns **one rhetorical function**. Drafting rule: one quotable p
 
 ---
 
-## Series refrain bible (12 locked)
+## Series refrain bible (12 locked + 1 street)
 
 Each entry: **line · speaker · first seed · repeats · spread guard**
 
@@ -164,6 +164,14 @@ Each entry: **line · speaker · first seed · repeats · spread guard**
 - **Repeats:** Gabriel arc withers Vol III (`46` §G)
 - **Guard:** never Eli's line; two crowns lock (`05`)
 
+### 13. Meet you in the flow — LOCKED 2026-07-26 (rev. D: multiple collapses)
+- **Line:** *"I'll meet you in the flow."* / *"See you in the flow."*
+- **Speaker:** corridor keepers, displaced families, Weaver hosts — **when maps failed**, not default farewell
+- **Prerequisite:** **multiple further collapses** on-page (Book II–III) — not Hinge alone
+- **Seed:** **Vol II Ch 5** — first spoken after **corridor break** (must **land**)
+- **Density:** **Vol II 2–3 spoken total**; **Vol III 3–5** across war — most beats show rhythm **without** the line (`54` § *Anti-monotony*)
+- **Guard:** **not Vol I**; **missed** rendezvous; **challenging** (wrong rhythm costs); cut the line if shown rhythm suffices; not every collapse gets the slogan
+
 ---
 
 ## Thesis refrains (Book III — plant by Vol I end)
@@ -197,6 +205,7 @@ Terms spread when they **replace a paragraph**:
 
 | Term | Replaces |
 |---|---|
+| **the flow** | "I'll text you the address" / fixed meetup when infrastructure lies — rendezvous by emergent local rhythm (`54` § *The flow*) |
 | **Manual Override** | obeyed the autopilot / surge completed the act |
 | **The Drift** | lost in feed, grid, validation |
 | **Somatic read** | body knowing before mind agrees |
@@ -230,7 +239,7 @@ Use **psion** in dossiers; **psychic** only as slang (`05`).
 
 ## Companion & epigraph layer (Tier B)
 
-- **Primary spread surface:** `54_the_lay_verses.md` — 21 chapters in Tao / wisdom-literature register; maps to Living Way Lessons and lay practices.
+- **Primary spread surface:** `54_the_lay_verses.md` — 26 chapters in Tao / wisdom-literature register; maps to Living Way Lessons and lay practices. **Antiphonal forms:** `54_liturgies.md` — drip fragments first, full service at gatherings.
 - **Dune move:** volume front matter — one page mixing real science, Tao 72 (PD or author rendering), and **lay verses** (`54` Ch 1, 6, 21) — not dialogue refrains.
 - **Household zine (optional):** `54` Chapters 1–8 — cup, watch, threshold, meal, repair, count, map, freight — no plot spoilers.
 - **Do not** title the zine as Eli's doctrine or a registered movement.

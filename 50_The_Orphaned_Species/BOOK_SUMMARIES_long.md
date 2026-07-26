@@ -23,7 +23,7 @@
 
 ## The world (reconstructed through residue; retired preamble drafts are quarry — `42`, `WORLD_BIBLE` §7)
 
-~2040. Iran war → U.S. economic collapse → burst AI bubble → contested election / first woman president → national schism → the "machine wars" (drones, robot soldiers) → an ancestry-keyed **bioweapon** no nation claimed (worst in South Asia, East Asia spared; heritable to survivors' children). Three blocs: **Continental Union** (Americas; registries/walls/force), **Eastern Mandate** (spared; quarantine/cure), **Free Ports Coalition** (harbors/trade/sailing revived). The weapon copied a rare trait: in survivors' children, **puberty forces open a dormant receiver** (fever, stillness, visions). Union cages the "Fractured"; Mandate researches; Coalition runs **threshold houses**. The weapon didn't make the door — it made millions stumble against it. In the earth, something old stirs.
+~2040. Iran war → U.S. economic collapse → burst AI bubble → contested election / first woman president → national schism → the "machine wars" (**drones and autonomous weapons** — not humanoid robot armies) → an ancestry-keyed **bioweapon** no nation claimed (worst in South Asia, East Asia spared; heritable to survivors' children). Three blocs: **Continental Union** (Americas; registries/walls/force), **Eastern Mandate** (spared; quarantine/cure), **Free Ports Coalition** (harbors/trade/sailing revived). The weapon copied a rare trait: in survivors' children, **puberty forces open a dormant receiver** (fever, stillness, visions). Union cages the "Fractured"; Mandate researches; Coalition runs **threshold houses**. The weapon didn't make the door — it made millions stumble against it. In the earth, something old stirs.
 
 ---
 

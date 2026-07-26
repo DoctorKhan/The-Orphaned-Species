@@ -509,6 +509,156 @@ Every later ranged weapon is a development along one line of thinking that begin
 
 ---
 
+## 10. Yerba Buena Gardens — Martin Luther King Jr. Memorial (*Revelation*, 1993)
+
+*Anchor for **Book III Ch 4–5** civic passage (`33`, `05` § American sequence, `29` geographic lock). The memorial is already **LOCKED** as the moral bridge between constitutional structure and lived justice — Lincoln (extraordinary union-preserving power) vs King (unfinished obligation to make freedom real). This section documents the **actual site text and form** so prose can use the memorial honestly without becoming a quotation tour.*
+
+### The site (Houston Conwill, Estella Conwill Majoza, Joseph De Pace)
+
+| Element | What it is | Dramatic use |
+|---|---|---|
+| **Waterfall** | 50′ × 20′ cascade from a 120,000-gallon reflecting pool; roar blocks city noise | Grief and negotiation can happen **inside** sound — registry arguments muffled; inward passage |
+| **Walk behind the falls** | Sheltered walkway under the cascade | Baptism/register without sermon; Eli enters wet air before Crane's dry paperwork |
+| **Amos / water theme** | Rev. Amos Brown suggested water + Amos 5:24 to Conwill; justice as **flow**, not dam | Counter-rhyme to **registry dam**, Devolution roster, expendability tables |
+| **12 glass panels** | Etched civil-rights photos + speech excerpts; each quote in **13 sister-city languages** + Arabic + African dialects | Federation before federation — names in many tongues; Wren reads this faster than Eli |
+| **East granite** | Inscription from King's **1956 San Francisco speech** | Local anchor — justice spoken **here** before the Union recentralized |
+| **West entrance** | Large photo of King | Face before words — person before doctrine |
+
+**Design intent (Conwill):** "sacred space… cultural pilgrimage… journey of transformation." Water softens stone over time — pairs Book II **hearth circles** and Book III **teahouse** (repair by repetition, not spectacle).
+
+### Known inscriptions (verify on-site or from estate-licensed source before publication)
+
+**A. Amos 5:24 (King's frequent citation; **public domain** via Bible):**
+
+> *But let justice roll down like waters, / and righteousness like an ever-flowing stream.*
+
+Often rendered at the memorial in King's March on Washington register:
+
+> *We will not be satisfied until justice rolls down like water and righteousness like a mighty stream.*
+
+**B. 1956 San Francisco speech (east granite — documented by visitors):**
+
+> *I believe that the day will come when all God's children, from bass black to treble white, will be significant on the Constitution's keyboard.*
+
+**C. Twelve panels:** poet Majoza selected excerpts; **no complete public list** found in 2026 research pass. Before quoting any panel verbatim, photograph on-site or obtain **King Estate** permissions. Likely thematic clusters (not confirmed line-by-line): **beloved community**, **nonviolence**, **injustice anywhere**, **the arc of the moral universe**, **freedom and accountability** — match the memorial's "universal principles" framing (MLK Community Foundation).
+
+### Trilogy mapping — how the memorial **changes the plot** (LOCKED 2026-07-26, rev. affirmative)
+
+**Not atmosphere. Not a refusal beat.** Revelation is where Eli sees **beloved community already working at civic scale** — and learns to **build** the federation's slow clock from that model. Thesis guard (`Thesis.md` § *Mature form*): *The alternative to the throne is not the refusal of the throne.* Adulthood is **structure that breathes** — gather for purpose, disperse, review.
+
+**King register = construction, not negation:**
+- **Water / Amos** — justice as **ongoing flow** (slow clock), not damming and not merely saying no
+- **Keyboard** — every voice **significant** (polyphonic coordination), not silent keys vs refusal of keys
+- **Multilingual panels** — one obligation, **many tongues**; difference remaining in relationship (`50` teahouse)
+- **Beloved community** — disciplined **unfinished building**; threshold network + Pelangi intake already practice it
+
+**The causal chain (affirmative):**
+
+```
+Pelangi harm (Ch 3) → Eli tempted by Crane's fast clock (one keyboard, one record)
+    → Revelation: sees SF sanctuary practice + families in polyphonic public space
+    → RECOGNIZES Pelangi Ch 2 voluntary intake as same architecture at civil-rights scale
+    → Proposes POLYPHONIC COMPACT to Crane: detection + conduct review + three accounts
+        + many-voice coordination WITHOUT identity ownership
+    → Crane won't surrender registry pillar; federation ADOPTS the living form anyway (Ch 6)
+    → Ch 5: Eli asks Wren to solo what must stay chorus → she offers CONSENT-BOUND cooperation
+    → Ch 8: force-sync = fast clock; Eli chooses SLOW CLOCK (voluntary coherence) — rhythm, not renunciation
+```
+
+**The hinge beat (Ch 4 — dramatize, don't thesis):**
+
+1. **Arrival:** Eli carries guilt; Crane's folder promises the **fast clock** — one interoperable record, central command, immediate coherence.
+2. **Convergence:** Wet passage — Amara, registry mother, stranger grief — **polyphonic public space**: names held **together**, not merged. Wren or a Yerba Buena keeper (sanctuary steward, MLK Foundation elder, multilingual mutual-aid node) **shows a working practice**: intake, routes, food, silence — **without identity ownership**. Eli recognizes Mei's kitchen and Pelangi's Ch 2 sponsorship terms **at scale**.
+3. **Keyboard inscription:** Not "refuse the keyboard" — **every key must sound**. Crane's tier silences keys (Devolution roster, expendability, registry permanence). Eli asks for the **full keyboard**: many jurisdictions, many tongues, **one obligation** (harm answerable; losses named; three accounts).
+4. **Action (changes plot):** Eli **proposes the polyphonic compact** to Crane — affirmative architecture, not a veto speech. Crane accepts pieces (detection, training, conduct containment) but keeps registry/interoperable identity. Federation communities **replicate what they saw at Revelation** even where Crane's tier wins.
+5. **Eli's mistake (seeds Ch 5):** He tries to **solo** the chorus — centralize coordination under his voice after seeing polyphony on glass. Wren: beloved community is **built with**, not **spoken for**.
+6. **Gain (not just cost):** Federation enters war with a **positive constitution-in-draft** — slow-clock terms already practiced at threshold houses — not merely "we said no to Crane."
+
+**What the memorial generates (compact seeds — Ch 6):**
+
+| Memorial experience | Compact term (affirmative) |
+|---|---|
+| Twelve languages, one sentence | **Three accounts** + **many-voice coordination** |
+| Every key significant | **Full keyboard** — no permanent identity class; conduct reviewable |
+| Water rolling | **Slow clock** — authority self-expires; voluntary coherence over force-sync |
+| Working sanctuary practice shown | **Replication** — adopt living form, not rejected counter-offer |
+| Wren / keeper demonstrates | **Network cooperation by member consent** — not Eli's army |
+| March photos + paper names | **Named losses, human notification** — family remembers; engine records purchase |
+
+**Wren (Ch 5) — memorial as cause:** Eli asks for **solo map** because he saw **chorus** at the falls and reached for centralization. Wren **offers** narrower consent-bound cooperation — the affirmative form. Boundary is not punishment; it is **building correctly**.
+
+**Ch 8 rhyme:** Force-sync = fast clock. Eli chooses **slow clock** — coordinate consenting nodes, leave dissent unseized — the rhythm he saw in water and multilingual panels. **Use, release, review** (`Thesis.md`).
+
+**Devolution + keyboard:** Expendability = **keys never wired to sound**. Memorial teaches **inclusion architecture** Eli must build toward — not only what to reject.
+
+### Civil rights / racism — meaningful throughout (LOCKED 2026-07-26)
+
+**Primary move:** the trilogy does not run a separate "racism subplot." It dramatizes **sorting** — who gets classified, spared, spent, silenced, or owned — as the **same machine** civil-rights history fought at body scale. King's words are meaningful when they **name a practice the book already enacts**, not when quoted at a monument.
+
+**The keyboard (King's 1956 SF line) — trilogy rhyme:**
+
+| Book | Sorting on-page | Keyboard test |
+|---|---|---|
+| **I** | *Anomalous residents*, *carrier-adjacent*, cohort registry, intake flags, worker lane vs cohort, queue humiliation (Eli's mixed/Bangladeshi presentation in the Stack) | Some bodies **pre-read as threat** before documents |
+| **II** | Ninmah/Umul triad; Pömmelte registry mark through **women's names**; national psion asylum/desertion; broken-line church | Institutions assign **roles**; Umul = no slot on the keyboard |
+| **III** | Crane Standard; *protected favored populations*; Devolution roster; expendability ledger; psion-harm vs registry-harm families | Who was **always** on the lifeboat list; who becomes *minutes purchased* |
+
+**Beloved community — practice names (not slogans):** Mei — feed before classification; Pelangi Ch 2 voluntary intake; Pak Din's chain; threshold houses; hearth circles; Yerba Buena sanctuary steward; polyphonic compact; teahouse replication. **Test:** does the room **build with** affected people, or **speak for** them?
+
+**Justice rolls (Amos / water):** slow clock; intake without permanent class; care that flows (kitchen, harbor, clinic) vs registry **dam**. Mei, Khun Dang, sanctuary routes — water register before SF.
+
+**Injustice anywhere:** Mandate squeeze + Union favored populations + Mandate lab (Rasel) — **same grammar**, different flags. Do not collapse into one villain or one victim type.
+
+**Race on-page — locked threads:**
+
+- **Amara / Nia / Tomas Okafor** — Book III harm lands on a **Black family**; Amara's accusation and non-forgiveness are **civil-rights-weight** (state-adjacent sponsorship + community fracture), not generic grief.
+- **Suresh / Iqbal** — cousin disappeared after *carrier-adjacent* quarantine pickup (Book I seed).
+- **Yerba Buena** — **Black steward/keeper with authority** shows sanctuary practice; Eli recognizes, does not lead. Immigrant, Black, Indigenous, displaced in one civic space — **polyphonic**, not Eli's coalition photo op (`05`).
+- **Eli** — mixed heritage, queue humiliation, Deiwos projection on a brown body — **complicates** kneel reflex; does **not** substitute Eli for Black civil-rights experience.
+- **Hopi / Native Hawaiian** — separate obligations; invitation, not template; no collapse into one "minority" story.
+
+**Guards:** no MLK quotation tour; no Eli-as-King; no Union certified righteous because of granite; racism shown through **procedure, ledger, queue, roster, who eats first** — sympathetic characters repeat desert-logic and sorting language over tea.
+
+**Full atlas:** `56_future_conflicts_atlas.md` — six conflict registers, bloc fragility, trilogy escalation timeline, staging scene bank (LOCKED 2026-07-26).
+
+**Volume civic claims (`44`):** I = you are not the imposed category; II = freedom without capture; III = protect without owning — **King register at civilization scale**, planted Book I, named Book III.
+
+---
+
+### Trilogy mapping — staging table (on-page texture)
+
+| Memorial feature | Book beat | How it lands on-page |
+|---|---|---|
+| **Water / Amos line** | Ch 4 — Crane Standard | Eli walks behind the falls **before or between** sessions. He reads *satisfied* / *roll down* while officials speak of **containment**. Justice as flow vs registry as dam — **never named as thesis**; water on skin, one line on glass |
+| **Multilingual panels** | Ch 4 — SF civic passage | A carrier mother reads a panel in **Tagalog or Arabic**; Eli reads English and realizes the same sentence is **everywhere** — rhymes threshold-network diaspora, Pak Din's chain, Book I Malacca |
+| **Constitution's keyboard** | Ch 4–5 | Registry sorts people into **keys that don't sound**. Optional: a veteran says *some of us were never on the keyboard* — paraphrase, not recitation. Rhymes Ninmah/Umul (value outside classification) |
+| **March photos on glass** | Ch 5 — names | Families hold **paper names** beside etched faces. Names irreducible; photos don't reconcile them |
+| **Beloved community** | Ch 5 — Wren's refusal | Wren's register: **disciplined unfinished construction** — not a slogan. She refuses Eli because the network promised **not to become anyone's army**. Beloved community = consent-bound cooperation, not unity theater |
+| **Walk-through / inward** | Ch 4 | Somchai or Wren goes behind the falls; Eli may stay in the plaza with Crane's folder — **split attention** mirrors split jurisdiction later |
+
+**Rights note:** King speech excerpts are **copyrighted** (Estate of Martin Luther King, Jr.). **Amos 5:24** is safe verbatim. For other lines: (1) short on-site **glimpse** under fair-use discipline, (2) **character paraphrase** in Wren/local voice, (3) estate permission for epigraph edition, or (4) `[VERBATIM TODO — site photo + rights]` until cleared. Same rule as Mitchell Tao → author rendering (`90` § Tao 72).
+
+**What NOT to do:** Eli reciting *I Have a Dream*; memorial as healing; Union flagged righteous because King is on the wall; collapsing psion-harmed and registry-harmed families into one moral; using King to **authorize** Eli's coordination claim (Wren's refusal must still stand).
+
+### Suggested scene skeleton (Ch 4)
+
+1. Delegation enters Yerba Buena — gardens above bunker. Crane offers **fast clock**.
+2. **Revelation first.** Keeper shows **working sanctuary practice** (intake, routes, many tongues). Eli recognizes Pelangi Ch 2.
+3. Polyphonic grief in wet passage; keyboard inscription = **every key must sound**.
+4. Eli **proposes polyphonic compact** to Crane — affirmative architecture. Crane keeps registry tier; federation **replicates living form**.
+5. Eli tries to **solo the chorus**; Wren witnesses.
+6. War ignition: communities already practicing slow-clock terms; coordination harder, **model visible**.
+7. Ch 5: Wren **offers** consent-bound cooperation. Ch 6: compact = **replication**, not rejected counter-offer.
+
+### Cross-references
+
+- Beatsheet pins: `33_volume_III_beatsheet.md` Ch 4–5
+- Architecture: `05_story_architecture.md` § MLK memorial
+- Hearth / circle rhyme: `54_liturgies.md` § Hearth circles; Book II post-collapse music
+- Names beat: Ch 5 *The Names They Carry*; expendability ledger Ch 4
+
+---
+
 ## Holding pen (unsorted)
 
 *Drop new papers, quotes, and excerpts here as you find them; we'll file and assign placement later. Anything goes — peer-reviewed papers, archaeology reports, ancient texts (Adapa tablet lines, Enūma Eliš, etc.), or a stray sentence that rhymes with the myth.*

@@ -214,6 +214,12 @@ The Thread is not only a maze. It **sorts whichever male leaders still remain** 
 | Union file | **Activation Event** |
 | Mandate lie | **the Sparing** |
 | Keeper / Weaver | **the Opening** |
+| Street (rendezvous when maps lie) | **the flow** — *I'll meet you in the flow* |
+| Street (Book II regional collapse) | **the corridor break**, *the Break* |
+
+**The flow — post-collapse coordination (LOCKED 2026-07-26; rev. D):** Emerges across **multiple further collapses** — not Vol I reopening, not one event. **Book II:** corridor break (phrase born) + stacked west-corridor breaks. **Book III:** war + evac + holding + teahouse — phrase wide. `54` § *The flow*; `53` §13.
+
+**The corridor break — LOCKED 2026-07-26:** Book II Ch 4–5 **regional collapse** — west European transfer corridor loses fixed coordination (dead zones, registry trap burned, psion-war pressure, inconsistent checkpoints). Displaced populations; emergent rhythms replace pinned meetups. Historical Pömmelte rhyme + present break. Phrase *in the flow* born here.
 
 **Craft rule:** characters say *Fever Years* or *after the Hinge* — not "engineered outbreak" in dialogue unless a clinician is filing.
 

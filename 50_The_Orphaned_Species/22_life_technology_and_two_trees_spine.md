@@ -74,6 +74,8 @@ In this canon, **life technology** is:
 
 It is a **clock of death**: everything it models runs down, decays, and can be falsified in transmission. That is not evil — it is **accurate within the entropic subset**. The tragedy is when it is mistaken for the **whole** of knowing, or when it is used to **bar, sell, or misname** the Life bridge.
 
+**Embodied automation vs. life — the entropy mistake (author — LOCKED 2026-07-26):** Late-2020s planners, megaproject pitch decks, and public imagination treated **humanoid robotics** as if it scaled like **software** — as if ordered metal bodies could proliferate without paying the **entropy bill**. They did not understand that **death technology never breaks the second law**; it **localizes order temporarily** at the cost of power, heat, wear, precision parts, skilled maintenance, and supply chains. **Only life technology** — living systems, keeper practice, the anti-entropic medium — accesses connection that **replenishes**. Humanoid robots **look like** life; they are **expensive clocks**. That misunderstanding is why ~2040 has **AI everywhere and humanoid robots almost nowhere** (`23` § *Robotics lock*). On-page: show maintenance debt and patched leftovers — not a physics lecture.
+
 **Terminology rule:** Do **not** call ordinary tech "death technology" on-page until **late** (Vol II–III). Early prose says *technology, instruments, data, registry, chair, equations* — the name lands when the Two Trees split is finally visible. Same for **life technology** as a label: show **signature-reads** and native road first; name sparingly.
 
 **Wrong framing (split Trees):**

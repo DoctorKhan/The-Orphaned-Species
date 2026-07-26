@@ -303,7 +303,7 @@ The Stack, when he finally sees it, is a vertical city — lanes and galleries u
 
 Eli reaches the causeway hall with Wren at his shoulder — **documentation review** again, family-origin fields turning half the South Asian dock queue amber before anyone reaches the swab chair. Wren picks the lane. Nobody in line asks why.
 
-On a pillar by the document lanes, a notice restricts small-craft transfer of medical goods pending review. The man queuing in front of Eli reads it twice and says, to no one, that the same office ran the insulin boats through the worst of the closures. Nobody answers him. The queue moves.
+On a pillar by the document lanes, a notice restricts small-craft transfer of medical goods pending review. Below it, in contractor chalk, someone has written three words in English — *I alone don't know* — no date, no name, already half-scrubbed by a wet rag. The man queuing in front of Eli reads the notice twice and says, to no one, that the same office ran the insulin boats through the worst of the closures. Nobody answers him. The queue moves.
 
 He had meant to check in at a service gate with a lanyard and a name on a list. Instead he is here with grease under his nails, Wren's route through four checkpoints, and the Stack does not care where a body began — only what the photograph matches.
 
@@ -385,7 +385,9 @@ The ticket goes into another man's file and his own file exhales and shuts. She 
 
 ---
 
-**Saturday night.** **Continue Inn** on the arcade tier — neon pixel font, lobby carpet like grass blocks. Room 408, floor four **live play** until two. Eli sets the tool roll on the bed. The ring photograph lives in his chest — his mother's hands, his father's seam — and he cannot stop turning them over the way he turned the wage ticket over before he spent it.
+**Saturday night.** **Continue Inn** on the arcade tier — neon pixel font, lobby carpet like grass blocks. Room 408, floor four **live play** until two. In the elevator, where the pixel grass has worn through to concrete, someone has scratched four words: *I alone don't care.* Eli reads them on the way up and does not know why they steadied him.
+
+Eli sets the tool roll on the bed. The ring photograph lives in his chest — his mother's hands, his father's seam — and he cannot stop turning them over the way he turned the wage ticket over before he spent it.
 
 He plays the cable-management sim until his forearms burn because **Rasel** once said games were honest machines: they told you when you were wrong. His mother said games were **evidence** and the body was the lab. He loses three runs and doesn't care.
 
@@ -406,6 +408,12 @@ Eli hears the Cherry Cube before he sees it, and he hears it through the soles o
 Cherry Lane is directly overhead. He never sees the famous managed bloom, only what it does below: a living root has cracked the service ceiling around its inspection collar, and one wet pink petal has made it through a drain grate into the concrete dark. Someone has drawn a red box around the crack and dated it for repair. The root has grown past the date.
 
 The shaft lets out into service levels and above him the noise is not sound anymore, it is weather — engines going by in packs on the sealed avenues, a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage. The Meridian Circuit: the one night the Stack shuts its own arteries so machines can go in circles, and screens six storeys tall replay the machines to people standing where the machines just were. And for a held breath, before he can stop himself, it is *beautiful* — the cars coming through the underpass like poured light, rivers of tail-lamp red mapped across the dark city, a hundred thousand faces upturned and lit, the whole vertical world dressed in its own reflection. The Stack has thin relationships and perfect spectacle, and just this once, spectacle is enough to make even a hunted man stand still and look. On the mall floor of the Cube, between grandstand feeds, a stage: lights, dancers, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide.
+
+In a service alcove off the shaft, two stagehands share a cigarette. One jerks her chin at the noise above. "Other people are excited," she says, flat. "Like a parade."
+
+The other exhales. "I alone don't care."
+
+They do not look at Eli. They are not performing. It is something you say down here so the parade does not get inside you.
 
 This is the job. Stage power, wardrobe uplink, the afterparty load-in — the contract Wren attested before the sweep, before the wage ticket went into another man's file. He was supposed to check in at the service gate **this morning** with a Foundry contractor lanyard and a name on a list. Instead he is coming up through the roots with grease on his hands, one night at Continue Inn behind him, and no ticket left to spend.
 
@@ -701,7 +709,7 @@ When she comes back she does not go to the courier. She comes to Eli, and puts a
 
 He holds the cup. The heat is one thing — one loud, simple, single-surfaced thing — and the noise has to stand behind it and wait. He gets to four and loses it, gets to six and loses it, gets to ten. He drinks. For the length of the swallow the world has only one surface.
 
-Nura watches him do it with her arms folded. "Not your fault alone," she says. "Not theirs alone. Both fit in one pot — that's how a kitchen keeps a town." And she goes to pack her one bag, and she does not speak to the courier woman at all, that night or in the morning, and the courier does not ask her to.
+Nura watches him do it with her arms folded. "Not your fault alone," she says. "Not theirs alone. Both fit in one pot — that's how a kitchen keeps a town." She turns back to the stove and, almost to herself: "I alone don't know what the noise wants. I know what the cup wants." And she goes to pack her one bag, and she does not speak to the courier woman at all, that night or in the morning, and the courier does not ask her to.
 
 ---
 
@@ -1020,7 +1028,7 @@ At the drying racks under the light, while the woman called Ros reads the manife
 
 "Thank you," Eli says, because it is all he has.
 
-"Don't thank me. Thank the chain — I'm one link." He looks at Eli's hands again, the way he did the first day. "You'll be a link before you choose it. That's the payment. The loud ones always end up carrying somebody."
+"Don't thank me. Thank the chain — I'm one link." He looks at Eli's hands again, the way he did the first day. "You'll be a link before you choose it. That's the payment. The loud ones always end up carrying somebody." He nods at the strait opening ahead, dark and indifferent. "My teacher used to say, *I alone drift about* — like an honest boat. The parade is on the shore. The water doesn't care."
 
 ---
 
@@ -1105,7 +1113,7 @@ Eli sets his hands on the neck. Wrong at first. Then less wrong. His hands, whic
 
 "It is a song of a snare," Khun Dang says while Eli labors at the bridge. "A fair snare. All men think it of a hotel. It is of the thing you cannot leave once you have seen it." He does not look at Eli's palms. He looks at his face, the way a man checks whether a lesson has landed. "You carried something into my kitchen. I will not ask what. But a man who cannot leave a thing should learn to play while he is caught. The song spends the time. The time spends the watching."
 
-He nods toward the track, the jungle, the low country where white cars wait. "They watch the bright ones — those who light up. You played quiet tonight. Keep quiet. A man who feeds men and plays one song softly in a lodge above a river is the last thing they think to seek."
+He nods toward the track, the jungle, the low country where white cars wait. "They watch the bright ones — those who light up. My teacher used to say, *I alone am dark* — and mean it as praise." A shrug. "You played quiet tonight. Keep quiet. A man who feeds men and plays one song softly in a lodge above a river is the last thing they think to seek."
 
 Wren, in the doorway, says nothing. After a while she goes back to checking the road.
 
@@ -1149,7 +1157,7 @@ On the fifth morning they release him from silence with tea and a nod. He has no
 
 The keeper stilt-house sits over brown water where two channels braid, four hours downriver by longtail, and the woman who runs it has prayer-callused knees and a rule about leaking.
 
-Eli stays four more days because Wren's contact said *wait here*, and because the boat still needs a patched plank, and because the wat taught him that breath done *before* everything — before meals, before sleep, before the nightly inventory of noise — is the only thing that keeps the world's second surface from swallowing him whole. The stilt-house is not the temple. It is the threshold: practical silence, nets drying, a ledger of who passed through, a kettle always hot. The keeper woman watches him sit at dawn without being told to and says, in Thai, *Good. The wat sends better freight than it used to.* She does not ask why he already knows how.
+Eli stays four more days because Wren's contact said *wait here*, and because the boat still needs a patched plank, and because the wat taught him that breath done *before* everything — before meals, before sleep, before the nightly inventory of noise — is the only thing that keeps the world's second surface from swallowing him whole. The stilt-house is not the temple. It is the threshold: practical silence, nets drying, a ledger of who passed through, a kettle always hot. The keeper woman watches him sit at dawn without being told to and says, in Thai, *Good. The wat sends better freight than it used to.* Then, to the kettle, in slow English: "I alone seem foolish. My mind is empty." She does not look at him. It is not a lesson. It is something you say when the world's second surface pushes.
 
 Emrys finds them on the second day after they leave the stilt-house, in a channel town downstream, exactly as promised, by the simple method of being impossible to miss: a foreigner in a many-pocketed vest arguing with a ferry clerk about the safe temperature of fish coolers, in Thai that is fluent, antique, and apparently hilarious.
 
@@ -1191,7 +1199,7 @@ Eli looks out at the paddies going bronze in the last light, and the noise behin
 
 Lung Thong looks at him for a long moment. Behind them, Eli can feel Wren deciding not to intervene, and Emrys physically restraining himself from a lecture on soil conductivity, a struggle audible as a small cough.
 
-"The sluice schedule hasn't changed in six years," the old man says at last, in slow English salted with northern vowels, turning to the fields. "Salinity's been read twice a week since my father did it. The drunk rice doesn't follow the water. It doesn't follow the salt. It doesn't follow the spray runs, the old burn parcels — we know those to the meter, we have reason to — or the soil map." He lights a cigarette, and in the flare of it his eyes are amused and not young. "It follows nothing of ours. It comes up early, it comes up dark, and it runs in a band eighty meters wide, and my grandson can walk you the whole band, because we staked it in June. Not for science. It ruins the yield rows. We stake what ruins yield."
+"The sluice schedule hasn't changed in six years," the old man says at last, in slow English salted with northern vowels, turning to the fields. "Salinity's been read twice a week since my father did it. The drunk rice doesn't follow the water. It doesn't follow the salt. It doesn't follow the spray runs, the old burn parcels — we know those to the meter, we have reason to — or the soil map." He lights a cigarette, and in the flare of it his eyes are amused and not young. "It follows nothing of ours. It comes up early, it comes up dark, and it runs in a band eighty meters wide, and my grandson can walk you the whole band, because we staked it in June. Not for science. It ruins the yield rows. We stake what ruins yield." He blows smoke toward the parade of survey stakes. "My grandfather had one field and one name. *I alone possess nothing,* he used to say — and the tax men hated him for it."
 
 "You mapped it," Emrys says, reverent.
 
@@ -1522,7 +1530,7 @@ A radio on a running man's chest crackles past Eli in the dark — the northern 
 
 "—*Prince* copies. Hold the axis—"
 
-And once, only once, the war glances at the village: three fleeing figures — the doctor's assistant, two children — caught in the open on the long bund with the dread-wall rolling toward them, and on the southern dyke a Custodian breaks formation. Big man, moving wrong for his unit — moving *fast*, un-procedurally — and puts himself and his hardness between the wall and the bund, and holds there, braced like a man leaning into a flood, until the three are down the bank. Through his own noise Eli feels the shape of what it costs him. Then the man walks back to his echelon, and takes his place, and his unit closes around him, and nothing about the white vehicles acknowledges that anything occurred.
+And once, only once, the war glances at the village: three fleeing figures — the doctor's assistant, two children — caught in the open on the long bund with the dread-wall rolling toward them, and on the southern dyke a Custodian breaks formation. Big man, older than the operators around him, grey coming in at the jaw — moving wrong for his unit, moving *fast*, un-procedurally — and puts himself and his hardness between the wall and the bund, and holds there, braced like a man leaning into a flood, until the three are down the bank. Through his own noise Eli feels the shape of what it costs him — and for half a second, across the mud, the man feels Eli feeling it, and turns his head, and looks. Not a threat, and not a greeting. The flat recognition one loud one gives another when the register is bare between them and there is no time left to pretend either is anything but what he is. Then the man walks back to his echelon, and takes his place, and his unit closes around him, and nothing about the white vehicles acknowledges that anything occurred. Eli never learns his name. He does not forget the jaw, or the look, or the fact that the apparatus is made of men who can still, some of them, choose to be late for their orders.
 
 "Move, *move*," Wren is saying, and the last boats load.
 
@@ -1761,6 +1769,8 @@ The rupture comes at the guesthouse, past midnight, over the packed coolers, and
 The words stand in the room like furniture nobody will ever move again.
 
 They go west out of Şanlıurfa two days later, on human doors, with half a plaquette reading, two threads of the oldest testimony on earth, a bag of valley soil, a seedling photograph, and an empty chair in every vehicle they will ride from now on. The partial geometry and the living line both point the same way now, across the Bosporus, into Europe — toward the western gaps in his mother's damaged fieldwork, in a direction that old maps mark with a name none of them says aloud, because it is not yet confirmed, and they have all learned this year what wanting does to a reading.
+
+On the ferry crossing, scratched into the rail where the paint has worn through: *I drift like a wave on the ocean.* No second line. Someone left the wind for the reader to finish.
 
 The ring is still in a van somewhere. Hassan is still in custody. Maren is still on a file routed through Albion. West is not a theory anymore — it is the only door the trail did not burn.
 
