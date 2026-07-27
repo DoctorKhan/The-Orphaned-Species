@@ -175,8 +175,9 @@ absence remain in ordinary life. Eli is wanted there, but not indispensable. The
 war continues beyond this community, but the ending does not turn it into a
 sequel tease.
 
-ENDING CHANGE. Liberator → successful temporary coordinator → answerable ordinary
-member. Continuity can include him without belonging to him.
+ENDING CHANGE. Liberator → strongman-by-proximity (real window) → relinquishes →
+answerable ordinary member. Union outcome: Founders-shaped decentralization
+(what survives collapses). Continuity can include him without belonging to him.
 
 ---
 

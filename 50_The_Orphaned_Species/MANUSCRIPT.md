@@ -4,14 +4,14 @@
 
 > **Drafting lock:** present tense, close third. Eli is the home consciousness. Book I remains in Eli except for Wren's Chapter 4 Laleh-extraction opening, separated from the return to Eli by a hard section break. One scene never enters more than one mind. Governing rule: `14_literary_speculative_thriller_style_guide.md` § *POV architecture—LOCKED*.
 
-> **Opening alignment—LOCKED 2026-07-26 (rev. Z):** **Ch 1**—**Friday AM** race (Kiran; Suresh holds wager)—**Eli wins** → earns Cherry Cube manifest; **Friday PM** Mei **dinner send-off / orphan truth**; **Saturday AM** Babaji **catamaran** (**first meet Wren**); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → Sunday Circuit escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. **No Thailand body memory before Ch 5.** Malacca: talents **activate**, not trained. Cube grounding = **Maren**, not martial.
+> **Opening alignment—LOCKED 2026-07-26 (rev. Z):** **Ch 1**—**Friday AM** race (Kiran; Suresh holds wager)—**Eli wins** → earns Cherry Cube manifest; **Friday PM** Mei **dinner send-off / orphan truth**; **Saturday AM** Babaji **catamaran** (**first meet Wren**); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → Sunday Circuit escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. **No Thailand body memory before Ch 5.** Malacca: **talents** (street = psionic ability; lowercase) **activate**, not trained (`95`). Cube grounding = **Maren**, not martial.
 > - **Ch 1 (below):** governing draft—**LOCKED rev. Y** (see opening alignment). Decision record: `DECISIONS_Chapter_One.md`.
 > - **Ch 2 (below):** governing draft—**LOCKED rev. Y:** Wren escort through **causeway hall**; wrong-room overhear; document clerk → **Saturday night Continue Inn** → **Sunday AM** Cube → convoy → Straits → Malacca breach.
 > - **Ch 3 (below):** governing draft, **merged 2026-07-22**—aftermath through "I'm not going dark." Decision record: `DECISIONS_Chapter_Three.md` flags.
 > - **Ch 4–10 (below):** Thailand agricultural witness sequence—**Ch 5–10 governing draft 2026-07-23.** Rebuilt from retired Mekong quarry; beats per `31`. Decision records: `DECISIONS_Chapter_Four.md`, `DECISIONS_Chapters_Five_Six.md`, `DECISIONS_Chapters_Seven_Eight.md`, `DECISIONS_Chapters_Nine_Ten.md`. Working prose sandbox: `WORKING_Thailand_Chapters_Five_Ten.md` (merge into here when stable).
 > - **Ch 11–13 (below):** Ch 11 Gulf draft needs Thailand hinge removed (now Ch 5–10); Bangladesh off-page via Shireen messages; **Wren routing echo** at Bay of Bengal fuel stop. Ch 12–13 governing per `31` lock.
 >
-> **VOLUME I DRAFT COMPLETE (2026-07-22): 13 chapters, ~30k words.** The retired historical preamble is preserved as world-history quarry in `42_preamble_world_history_source.md`; its events are delivered here through residue and implication. Next passes, in order: author read-through against the decision records; research passes (`100` § frontier item 6 + Before-drafting list); line-edit pass (simile-density note, `2945377` audit); then Vol II.
+> **VOLUME I DRAFT COMPLETE (2026-07-22): 13 chapters, ~30k words.** **Artifact / clue-chain lock pass — 2026-07-26:** Ch 3 **The Circles**; Ch 12 triad (**The Refusal · The Sorting · The Fade**) + **the Exile** + **4.2 ka** + **The Taking** (Arta under hood); Ch 13 **The Bridge** staged (no panspermia). Street shelf: `35` § *Artifact street shelf*. The retired historical preamble is preserved as world-history quarry in `42_preamble_world_history_source.md`; its events are delivered here through residue and implication. Next passes, in order: author read-through against the decision records; research passes (`100` § frontier item 6 + Before-drafting list); line-edit pass (simile-density note, `2945377` audit); then Vol II.
 > - **Superseded Ch 2–4 prose:** moved to `MANUSCRIPT_restructure_quarry.md`. Quarry material (Khun Dang, King James register, seven-chamber framing) is not canon until placed on-page under current voice/route locks.
 > - **`QUARRY_Chapter_One_alternative.md`:** alternative concept-forward Ch 1—**quarry**, not governing (interiority pays off later; see its header).
 
@@ -803,6 +803,22 @@ Numbers first. Even here.
 
 ---
 
+From the same cooler that brought the instrument, Emrys lifts a cloth-wrapped weight the size of a sandwich and sets it on the crate between them.
+
+"Also from the Stack leak," he says. "Not the Rootbook. Different tray. The archive worker pulled it when your flare scrambled the corridor clocks—thought it was a map tile. I thought it was a forgery until I held it."
+
+Under the cloth: a small clay tablet, edges soft with handling, three concentric circles cut around a single center dot. No writing. No names. Only the rings and the point.
+
+Eli's palms lean toward it the way they leaned toward the breach noise—the same geometry he glimpsed for one flooded second when the water took him, three rings nested, then gone. On the crate it is only clay. He can still misread it as a target, a temple plan, a womb, a rank seal, a school exercise. Wren, who has been pretending not to watch, says, "Looks like a hierarchy. Outer ring owns the rest."
+
+"Or a map," Emrys says. "Or astronomy. Or a later cult diagram pressed into old clay to sell to tourists." He taps the center dot with a pencil tip, not quite touching. "What it *does*, if it is anything, is put a person at the middle and draw stress outward. Body. Then the people who hold you. Then the machine that files you." He glances at Eli's hands. "You are still all body. Do not pretend you can read the outer rings yet."
+
+Eli turns the tablet once. The clay is cool. The middle ring sits between the center and the outer—thicker than the rest, as if the carver knew the weak place. He thinks of the photograph of his friend's ring on a registry frame, two metals, one seam, *Same soil.*, and does not say it. He wraps the tablet again when Emrys tells him to. Contested. Heavy. Real enough to carry.
+
+"Provisional," Emrys says, already writing the label. "Three Circles—on the water they'll call it the Circles. Source disputed. Do not let anyone tell you what it means before you have lived the rings."
+
+---
+
 Midmorning, the boatman's binoculars go around, because there is something to see.
 
 Across the flat water, at the town quay, a grey launch has Salmah's boat under tow. Small at this distance, toy-sized: the yellow tape going around her stall, a man on her deck in white going through her nets with a pole, the tarp—folded square as a made bed—shaken out and dropped.
@@ -873,6 +889,7 @@ He counts the heat until it stops burning. Then he drinks.
 
 1. **Hypoxia and sensory flooding.** Transient global hypoxia can acutely alter thalamocortical gating (the brain's sensory filtering); reports of flooding and heightened salience near death exist but are contested. Eli's opened receiver is **in-fiction amplification**, not a claim about anoxic injury outcomes. **Malacca = activation without training**—receiver ON, not skill or curriculum.
 2. **Grounding.** Temperature-focus, breath-counting, and single-object attention are standard somatic de-escalation techniques in trauma care. Keeper practice **extends real technique**; it does not replace medicine. Eli's cup trick and mother's breath are **fragments**, not full psi training.
+3. **The Circles** (Three-Circles Tablet). Fictional/disputed story artifact (`35`). Physical post-breach delivery via Meridian Stack leak; not a known excavated object. Body / Family / Civilization diagnostic only — Eli cannot yet read the outer rings.
 
 ---
 
@@ -1702,7 +1719,7 @@ From the road the mound is only baked mud and broken brick, patient as debt. Eli
 
 The stone at the confluence was a voice in a quiet room. The tell is a *courtroom*, and the sessions never ended. Eli feels it from the road: not a pull but a pressure, layered, argumentative, old grief stacked on older grief like the strata themselves. Emrys's needle agrees and then bends past agreement into a range he has no calibration for.
 
-"Sit before, not after," is all Emrys says, laying out the drill, hands not quite steady. "And boy—at a place like this, hold the count like a rail. This ground has had five thousand years of people asking it to make them important."
+"Sit before, not after," is all Emrys says, laying out the drill, hands not quite steady. "And boy—at a place like this, hold the count like a rail. This ground has had millennia of people asking it to make them important. Different centuries. Different asks. Do not mash them into one sermon."
 
 The thread that takes him is not important. That is the first mercy, and the last.
 
@@ -1710,7 +1727,7 @@ Watched-depth, this time—not standing in a life but *shown* one, at remove, li
 
 And then the length of a life after, rendered as a corridor of identical rooms, comfortable and shrinking; and at the end of it the man's own late understanding arriving like frost: that the instruction he obeyed had been engineered precisely so he would obey it, that his discipline was the lock, that *obedience closes the path to life*—and that the ones who instructed him knew.
 
-Eli comes back with his hands cold and the count still held, and no tears this time. The tell does not deal in grief. It deals in warnings.
+Eli comes back with his hands cold and the count still held, and no tears this time. The tell does not deal in grief. It deals in warnings. Emrys, watching his face, will not let him collapse the thread into the later tablet they are about to open. "Related office," he says. "Not the same calendar day. File them beside each other. Do not weld them."
 
 The ground gives one thing more, material and disputable: in the shrine's robbed-out foundation, where every faction's survey has been and gone, a broken stone plaque the size of a hand—grammar older than the tell, argued over by every dealer and curator in the corridor. Two curators in the nearest city give them two incompatible readings the same afternoon; a third, older, keeps it under glass with a label that says only CONTESTED, which Emrys pronounces the most honest word in Mesopotamian archaeology. But under the disputed grammar, undisputed, cut deep: a mark. A spiral, coiled inside the outline of an eye.
 
@@ -1718,21 +1735,77 @@ Eli's palms know it before anyone speaks. The noise leans toward the little ston
 
 "It recurs," the old curator says, watching him with care. "North of here, in the hills, on the oldest material there is. The diggers call it the selection mark." He taps the glass, once. "No one who uses that name can tell you what was being selected. Or by whom. That, young man, is the whole business of this country: we have the receipts of decisions no one alive was consulted on."
 
-The rest of the receipts fill the archive days that follow, and they are worse than any vision, because they are ordinary: genealogies that narrow; ration lists that count men by grade and women by function; marriage records that read like livestock ledgers; king lists in which lifespans inflate as the names concentrate—a few lines swelling across the record while whole family trees simply stop being written down.
+---
 
-The receipts tempt Eli into a sequence: ground, granary, household, body; a control order moving inward until who may father and who must serve reads as natural law with a notary's seal. The old curator makes him write the gaps beside it—centuries between archives, different polities, missing causes, the lives no clerk counted. The sequence remains on the page under Emrys's heading **working hypothesis**. It explains too much too neatly. What the record proves is smaller and harder: selection, ration, marriage, and recognized fatherhood keep appearing near one another, and the people omitted from the lines are no less dead for the argument being unfinished.
+The packet arrives smelling of flood-mud and photocopy toner—one string, three leaves, a provincial storeroom stamp half scrubbed. Emrys will not let them open it on the shrine steps. He waits for a table with weight on it: borrowed archive room, shuttered against the afternoon, tea going cold because nobody remembers to drink.
 
-Emrys, buried to the elbows in it, makes his one slip on the last evening—small, and Eli catches it only because he has learned the man: a lacuna in a tablet run matching, too neatly, a gap in Maren's old notebooks, and Emrys reconstructing the missing line from her marginalia and writing it into his working copy *as text*, map over territory, the wish smoothing the ground. When Eli questions it he blinks, looks again, and scrubs the line out with more force than the pencil needs.
+He sets the first leaf down like a hot plate.
 
-"Thank you," he says, stiffly, and then, quieter, the real thing: "She used to catch me at that. Twenty years, nobody's caught me at that."
+"Adapa lacuna," he says. "Scholar name. On the water—"
 
-North, then. The plaque's grammar, the selection mark, the narrowing lines, the band in the wheat—every witness they have, living and stone, points into Anatolia, at the hills where the oldest enclosures sleep under their own backfill, and the calendar in Emrys's pocket counts down the days until the newest one joins them.
+"The Refusal," Wren finishes, already leaning over Eli's shoulder. "Don't fill the hole for him."
+
+The photograph shows clay with a bite taken out of the story. What remains is enough to hurt: reed boat, South Wind, heaven's door, bread and water offered under a warning the man cannot check. He refuses. Eli's finger finds the white gap where the decisive line should be and stays there, as if pressure could raise ink. Emrys has written a date on a sticky note and stuck it to the folder edge—*early sail / fifth mill., provisional*—then a second note in smaller hand: *not garden. not drought.*
+
+"Uanna on the hill was office," Emrys says, watching Eli's face for the weld. "This is a different day. Related. Not the same."
+
+Eli reads what is present twice. The third time he only looks at the absence. He does not write into it. When he closes the folder his hands are colder than the tea.
+
+The second leaf is thinner—squeezes, broken lines, a beer-stained joke of gods making people who will not fit. Emrys translates as far as the text holds: odd bodies, then fate, bread, place. Then the run breaks on a name he will not soften.
+
+"Umul," he says. "Ninmah can't slot him."
+
+In the margin, in a hand Eli knows too well to trust at first sight: *held before healed.* Wren taps the break once, light. "Threshold houses call that the Unplaceable. Don't file him as scrap."
+
+"Street name for the whole leaf," Emrys prompts, glasses low.
+
+"The Sorting." Wren's voice is flat, operational. "We seed it. We do not solve it here."
+
+Eli photographs the margin. He does not pretend he understands the care-work yet.
+
+The third leaf is a column of reigns that begin impossible and then, after a Flood line someone has underlined three times in three inks, climb down toward numbers a body could wear. Eli's first impulse is the drawer of genealogies they saw yesterday—the few names swelling while families stop being written. Emrys's hand comes down on the page before he can say it.
+
+"Different argument," Emrys says. "Those are winners concentrating. This is duration contracting. The Fade. Do not put them in one pocket because both make you sad."
+
+Wren has already written *The Fade* on the folder tab in harbor block letters. Emrys leaves it.
+
+Two more leaves are clipped to the string, not inside the triad title. The first is a garden door and a barring—Emrys's pencil in the corner: *~3700*. Eli starts to say *same as Adapa* and stops when Wren's look arrives first.
+
+"Churches downstream call that the Exile," she says. "Later. Rhyme, not twin. Refusal, Sorting, Fade—and later, the Exile. Say it wrong and you'll marry a priest to a drought."
+
+The second clipped leaf has no hero: dust counts, salt crusts, canal abandonment notes, a grain failure table someone photocopied crooked. Emrys's note: *~2200. Fields. Not a boat day.*
+
+That afternoon Eli walks a dry canal bed until the chalk of salt is in his shoes. No vision. No courtroom. Only heat and the shape of a river that stopped answering. He comes back without trying to put the hunger in the same sentence as the Refusal.
+
+On a lower shelf Emrys finds the transfer story and nearly hides it under a blotting pad, then doesn't. Inana at Eridu. Functions loaded into a boat. Uruk waiting. Wren names it before he can lecture.
+
+"The Taking."
+
+"*Arta*," Emrys offers once, as if tasting a foreign coin. "Fitted capacities. Not files." He looks at Eli. "Whoever holds the Taking teaches a city what to want. Your registries are the grandchildren. Ugly ones."
+
+The ordinary receipts are worse because they do not need myth: grade lists, marriage tallies, fatherhood seals, whole lines that simply end. Eli tries, one evening, to draw a single arrow—ground to granary to household to body—and the old curator makes him write the gaps beside it until the arrow looks like a wish. Emrys stamps the page **working hypothesis** and will not let him promote it.
+
+On the wall Emrys makes Eli chalk three stacks and keep them apart with his own hand:
+
+*Refusal — early sail*
+*Exile — ~3700*
+*climate — ~2200*
+
+When Eli says *the ancient wound* once, tired, Wren points at the chalk and does not speak. He erases the phrase himself.
+
+The last evening Emrys fills the Refusal's lacuna from Maren's notebooks—too neat, the wish smoothing the clay into text. Eli catches it because he has learned the man's face when map beats territory. Emrys blinks, looks again, and scrubs the line out hard enough to tear the working copy.
+
+"Thank you," he says, stiffly, and then, quieter: "She used to catch me at that. Twenty years, nobody's caught me at that."
+
+North, then—not because the packet explained itself, but because every disputed thing they can still hold points the same way: the selection mark, the empty line Eli refused to fill, the Unplaceable break, the Fade's falling numbers, the band in the wheat, the hills where the oldest enclosures sleep under their own backfill. The calendar in Emrys's pocket counts down the days until the newest backfill joins them.
 
 ---
 
-*On the record*
+*On the record — author only (not reader text)*
 
-1. **Demographic bottleneck.** The post-Neolithic Y-chromosome bottleneck (a collapse in effective male lineage diversity, roughly 5000–3000 BCE, plausibly social in mechanism) is real published science. The narrowing genealogies and caste-filtered fatherhood shown here dramatize the mainstream "competing patrilineal kin groups" reading; the story's control-order interpretation is fiction layered over genuine data.
+1. **Demographic bottleneck.** The post-Neolithic Y-chromosome bottleneck (a collapse in effective male lineage diversity, roughly 5000–3000 BCE, plausibly social in mechanism) is real published science. The narrowing genealogies and caste-filtered fatherhood shown here dramatize the mainstream "competing patrilineal kin groups" reading; the story's control-order interpretation is fiction layered over genuine data. Keep separate from **The Fade** (King List declining reigns) and from the **4.2 ka** climate witness (~2200 BCE).
+2. **Human-Design Triad + street shelf.** Adapa lacuna, Enki and Ninmah, and the Sumerian King List are real literary traditions; the novel's single archive packet, street names (**The Refusal · The Sorting · The Fade**), and strategic lacuna are story framing. **The Exile** and **The Taking** (Inana and Enki / Arta under the hood) rhyme beside the triad; they are not fourth and fifth packet titles. Full shelf: `35` § *Artifact street shelf*.
+3. **Chronology.** Adapa boat-day (~5500–4000 BCE early-sail window), Adam/Exile (~3700 BCE), and 4.2 ka (~2200 BCE) are kept as separate dials on-page; do not collapse into one person or one catastrophe.
 
 ---
 
@@ -1753,6 +1826,16 @@ That evening the old city feeds them anyway, because it has been feeding arrival
 The site, when they finally stand on it, is smaller than the age of it and larger than the pictures: the tell like a swelling under the skin of the hills, the enclosures open in their shelters, the great T-pillars standing in their circles with their long hands carved folded at their bellies—beings rendered by people who could not or would not show their faces. Civilians everywhere at the margins: dig workers, a shrine's worth of visitors, tea sellers, two soldiers bored under a flag.
 
 For one held breath Eli lets the hill be only a hill—fox pillar, folded hands, rain on limestone older than any file that ever hunted his mother—before he feels the lean toward the sealed enclosure and the noise goes quiet and directional as it has ever gone: a door, the oldest door, and behind it something neither dead nor alive—*waiting*, the way instruments wait.
+
+Before the night routes, they are allowed—because tourists are allowed—ten minutes with a finds case in the site museum annex: small stones under glass, labels in three languages, a guard who has seen every kind of wanting. Emrys stops at a plaquette no larger than a palm: three carved marks in a vertical stack. Snake. Tree. Bird. On the water they will call it **the Bridge**; here it is still a museum label.
+
+Eli's first read is the one the postcards sell. Garden. Tempter. Exile. The Refusal's empty line and the Exile leaf from the river archive lean toward that story like hungry relatives. He almost says *Eden* aloud.
+
+"Guardians," Emrys says, before the word finishes forming. He is already drawing the other split on the glass with a finger that does not touch: under-route and sky-route, two functions flanking a living conductor. "Or low ground, living ground, high ground—if you grew up with charged soil instead of churches." A keeper from the network, the one who vouched the east cut, stands a half-step back and does not correct either of them. Her silence has the weight of a third map she will not donate to a permit week.
+
+Nobody says alien. Nobody says seed from the sky. The Bridge stays a partial diagram—three symbols before later theology compresses them—and Eli's palms recognize the tree the way they recognized the Circles' middle ring: the place things meet, not the place a throne sits. Wren photographs the label, not the stone. "Half a reading is still a reading," she says. "Do not invent the other half because you miss your mother."
+
+They leave the case. The hill is still waiting.
 
 They have three days, one route, and one argument.
 
@@ -1798,7 +1881,7 @@ The rupture comes at the guesthouse, past midnight, over the packed coolers, and
 
 The words stand in the room like furniture nobody will ever move again.
 
-They go west out of Şanlıurfa two days later, on human doors, with half a plaquette reading, two threads of the oldest testimony on earth, a bag of valley soil, a seedling photograph, and an empty chair in every vehicle they will ride from now on. The partial geometry and the living line both point the same way now, across the Bosporus, into Europe—toward the western gaps in his mother's damaged fieldwork, in a direction that old maps mark with a name none of them says aloud, because it is not yet confirmed, and they have all learned this year what wanting does to a reading.
+They go west out of Şanlıurfa two days later, on human doors, with half a reading of the Bridge—snake, tree, bird, still disputed—two threads of the oldest testimony on earth, the cloth-wrapped Circles, a bag of valley soil, a seedling photograph, and an empty chair in every vehicle they will ride from now on. Refusal rhyme incomplete: Aru's counting marks against Daskar's living keep; no triad synthesis, only the pressure to obey a useful story. The partial geometry and the living line both point the same way now, across the Bosporus, into Europe—toward the western gaps in his mother's damaged fieldwork, in a direction that old maps mark with a name none of them says aloud, because it is not yet confirmed, and they have all learned this year what wanting does to a reading.
 
 On the ferry crossing, scratched into the rail where the paint has worn through: *I drift like a wave on the ocean.* No second line. Someone left the wind for the reader to finish.
 
@@ -1816,6 +1899,7 @@ And the oldest lesson in the oldest hills, learned by basket-load in the dark: t
 
 1. **The trough debate.** Large limestone vessels at Göbekli Tepe have been argued as evidence for cereal processing at scale; published capacity estimates and residue analyses support porridge/gruel and possibly fermented preparations, with "brewery" readings contested. The consortium's 960-liter payroll narrative is the fiction's strawman assembled from real interpretive overreach; Emrys's counter-figures track the published skeptical position.
 2. **Deliberate burial.** The backfilling of Göbekli Tepe's enclosures in antiquity appears intentional. Its motive is unknown. Daskar's night of baskets is one invented answer to a genuine archaeological mystery.
+3. **The Bridge** (Göbekli snake/tree/bird plaquette). Staged from a reported Göbekli small find (verify DAI/publication/image rights before any print quotation of a real object). Book I reveal cap: Eden / guardian / lived-geography readings only — **no** on-page panspermia certification.
 
 ---
 

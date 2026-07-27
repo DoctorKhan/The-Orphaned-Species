@@ -303,13 +303,13 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 | Artifact / plot pressure | Volume placement | Chapter marker | What it changes |
 |---|---|---|---|
-| **Adapa tablet with a lacuna** | I | Ch 12 | Human-Design Triad (1/3); foolable mind; Tree of Life withheld; inward control |
-| **Enki and Ninmah role-fragment** | I → III | Ch 12 seed; II Ch 3/5; III Ch 2 + late | Human-Design Triad (2/3); not broken; roles/specialties; Umul lacuna |
-| **Sumerian King List (declining reigns)** | I → II | Ch 12 seed; II Ch 3/5 | Human-Design Triad (3/3); mortality memory; contracting reigns |
+| **The Refusal** / Adapa tablet lacuna | I | Ch 12 | Human-Design Triad (1/3); foolable mind; Tree of Life withheld; inward control |
+| **The Sorting** / Enki and Ninmah role-fragment | I → III | Ch 12 seed; II Ch 3/5; III Ch 2 + late | Human-Design Triad (2/3); not broken; roles/specialties; Umul / The Unplaceable |
+| **The Fade** / Sumerian King List (declining reigns) | I → II | Ch 12 seed; II Ch 3/5 | Human-Design Triad (3/3); mortality memory; contracting reigns |
 | **Three-Circles Tablet** | I | Ch 7 or 11 (physical); Ch 2–3 (vision/aftermath) | Body/Family/Civilization diagnostic |
 | **Double-Fork Stone** | I | Ch 8–9 motif | Bird/dragon and chimpanzee/human as paired sibling divergences; the dragon first seen in play, not omen (Pai motif catalyzes this) |
 | **Sumerian King List** | I–II | later in Vol I or early Vol II | Kingship as transferable administration, not sacred blood; the control system's public face |
-| **Adapa tablet with lacuna** | I | Ch 12 watched-depth clarification | The lock made visible from inside; obedience as cage chosen reasonably |
+| **The Refusal** / Adapa tablet with lacuna | I | Ch 12 watched-depth clarification | The lock made visible from inside; obedience as cage chosen reasonably |
 | **Enkidu/Shamhat domestication witness** | II | Vol II Mesopotamian leg | Wildness/food/sex/speech/civilization as argument over whether city-life is rescue, corruption, education, or capture |
 | **Arslan Tash Amulet 1** | II–III | Vol II–III border dispute | Covenant invoking ʿOlam, Asherah, El's sons, great council; authenticity/translation disputes give Wren interpretive agency outside Eli and Emrys |
 | **Atrahasis / Eridu Flood material** | II | Vol II Mesopotamia | Creation, labor revolt, and catastrophe as layered stories; beyond one clean origin account |

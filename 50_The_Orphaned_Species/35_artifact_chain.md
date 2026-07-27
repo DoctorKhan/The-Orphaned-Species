@@ -45,18 +45,21 @@ Artifacts operate on three levels:
 
 ### Volume I — The Breach
 
-- **Three-Circles Tablet:** physical Meridian City encounter; gives Eli the first body/family/civilization diagnostic grammar.
-- **Double-Fork Stone:** held until Book III with the dragon ghost. Books I–II seed only partial branch/guardian motifs and a living-person Nephilot clue; the full diagram makes the parallel Earth/Heaven bridge-species design a late cosmological reveal.
-- **Göbekli snake/tree/bird plaquette:** three stacked zoom levels (terrestrial / guardian / cosmological); characters see a partial diagram at most; the reader may hold the full bridge reading before Book III certifies panspermia.
-- **King List:** declining pre-Flood duration and the memory of lost immortality; characters debate chronology, myth, biology, and grief.
-- **Adapa tablet:** knowledge turned into obedience; the psychological control mechanism is legible to characters, but its place in the larger plan remains hidden.
-- **Inana and Enki / the Arta:** civilization's intentional blueprint and transferable order; characters recognize designed infrastructure without yet seeing Heaven's full purpose.
+- **The Circles** (Three-Circles Tablet): physical post-breach encounter (Meridian Stack leak delivered at the Malacca kelong, Ch 3); body/family/civilization diagnostic grammar.
+- **The Forks** (Double-Fork Stone): held until Book III with the dragon ghost. Books I–II seed only partial branch/guardian motifs and a living-person Nephilot clue; the full diagram makes the parallel Earth/Heaven bridge-species design a late cosmological reveal.
+- **The Bridge** (Göbekli snake/tree/bird plaquette): three stacked zoom levels (terrestrial / guardian / cosmological); characters see a partial diagram at most; the reader may hold the full bridge reading before Book III certifies panspermia.
+- **Human-Design Triad packet (Ch 12):** **The Refusal · The Sorting · The Fade** as one archive haul — Refusal primary; Sorting + Fade seeded; street names on-page (`MANUSCRIPT` Ch 12).
+- **The Fade** (King List): declining pre-Flood duration and the memory of lost immortality; characters debate chronology, myth, biology, and grief.
+- **The Refusal** (Adapa tablet): knowledge turned into obedience; the psychological control mechanism is legible to characters, but its place in the larger plan remains hidden.
+- **The Sorting** seed (Enki and Ninmah / Umul = **the Unplaceable**): filed in Vol I; full cross-ref payoff Vol II–III.
+- **The Exile** rhyme + **4.2 ka** climate witness: beside the triad, not inside it; separate chronology dials from Adapa boat-day.
+- **The Taking** (Inana and Enki / Arta): civilization's portable order seized into the Boat of Heaven; characters recognize designed infrastructure without yet seeing Heaven's full purpose.
 
 ### Volume II — The Descent
 
 - **Enheduanna's Inanna hymns:** authored voice inside political theology; characters encounter a displaced speaker, while the reader sees the warning about who interprets and owns sacred authority.
 - **Inana's Descent:** descent, surrender, accurate resonance, and restoration; Somchai embodies the method while Eli initially mistakes it for a code.
-- **Enki and Ninmah:** every person has purpose even when no institution can use or classify them; the story seeds the Book III refugee ethic.
+- **The Sorting** (Enki and Ninmah): full cross-ref after Vol I seed — every person has purpose even when no institution can use or classify them; the story seeds the Book III refugee ethic.
 - **Timna serpent / Nehushtan:** a paired historical argument—serpent inside the making, serpent later erased by centralizing authority.
 - **Cuno–Derw object:** incomplete geometry, rhythm, body positions, and transmission; the characters must recreate it collectively and never receive a complete manual.
 
@@ -104,13 +107,13 @@ Discovery-order note: **artifact zero** means oldest/deepest in cosmological pre
 
 | Artifact or story-object | Historical status | Story it carries | Present plot function |
 |---|---|---|---|
-| **Double-Fork Stone** | Fictional story artifact, withheld until Book III | Earth-produced bird/chimpanzee branches beside Heaven/panspermic dragon/human branches | Late biological/cosmological reveal; validates the parallel bridge-species design without making dragons an early taxonomy clue |
-| **Three-Circles Tablet** | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator | Gives the trilogy's practice model a material image while forcing the group to test whether it is cosmology, social diagram, ritual plan, or later forgery |
-| **Göbekli snake/tree/bird plaquette** | Real Göbekli Tepe small find reported in excavation/public outreach material; exact publication, inventory number, and image rights to verify before use | Three carved symbols (snake, tree, bird): Earth's earliest surviving **bridge diagram** — tree = living interface where Heaven meets Earth; snake and bird = the two transmission functions later myth turned into enemies. Three stacked readings: terrestrial (low / Edin / high), guardian (under-route / living route / sky-route), cosmological (Earth-depth / bridge / Heaven-seed). See § *Göbekli plaquette* | Pre-split photograph before theology compresses to Eden, guardian split, or Heaven/Earth covenant; early key for Tree-of-Life imagery; Book I cap — no on-page panspermia certification |
-| **Sumerian King List / Weld-Blundell tradition** | Real textual tradition and surviving manuscripts | Before the Flood, reigns last impossibly long; afterward durations contract toward recognizably human lifespans. The sequence preserves a cultural memory of lost immortality, rhyming with the long lives and later decline of biblical patriarchs. | **Human-Design Triad (3/3)** — mortality as right boundary, not curse; pairs with Adapa and Ninmah (`35` § *Mesopotamian Human-Design Triad*) |
-| **Adapa tablet with a lacuna** | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | **Human-Design Triad (1/3)** + load-bearing object #3; foolable mind; Tree of Life withheld (`99` #10) |
-| **Enki and Ninmah role-fragment** | Real Sumerian literary tradition with fragmentary lines; exact object in the novel may be a copy, photo, or disputed reconstruction | Ninmah creates people whose bodies or capacities do not fit the expected pattern; Enki assigns fates, bread, and places; Umul breaks the text | **Human-Design Triad (2/3)** — **everyone has value**; roles/specialties; Umul lacuna (`35` § *Mesopotamian Human-Design Triad*) |
-| **Inana and Enki / the Arta** | Real Sumerian literary tradition | Civilization-functions are loaded into the Boat of Heaven and transferred from Eridu to Uruk | Shows civilization as **transferable order**: offices, arts, laws, desires, weapons, and rituals can be moved, stolen, installed, or misused |
+| **The Forks** / Double-Fork Stone | Fictional story artifact, withheld until Book III | Earth-produced bird/chimpanzee branches beside Heaven/panspermic dragon/human branches | Late biological/cosmological reveal; street **The Forks**; validates the parallel bridge-species design without making dragons an early taxonomy clue |
+| **The Circles** / Three-Circles Tablet | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator | Street **The Circles**; practice model as material image; test whether cosmology, social diagram, ritual plan, or later forgery |
+| **The Bridge** / Göbekli snake/tree/bird plaquette | Real Göbekli Tepe small find reported in excavation/public outreach material; exact publication, inventory number, and image rights to verify before use | Three carved symbols (snake, tree, bird): Earth's earliest surviving **bridge diagram** — tree = living interface where Heaven meets Earth; snake and bird = the two transmission functions later myth turned into enemies. Three stacked readings: terrestrial (low / Edin / high), guardian (under-route / living route / sky-route), cosmological (Earth-depth / bridge / Heaven-seed). See § *Göbekli plaquette* | Street **The Bridge**; pre-split photograph; Book I cap — no on-page panspermia certification |
+| **The Fade** / Sumerian King List / Weld-Blundell tradition | Real textual tradition and surviving manuscripts | Before the Flood, reigns last impossibly long; afterward durations contract toward recognizably human lifespans. The sequence preserves a cultural memory of lost immortality, rhyming with the long lives and later decline of biblical patriarchs. | **Human-Design Triad (3/3)** — street name **The Fade**; mortality as right boundary, not curse (`35` § *Mesopotamian Human-Design Triad*) |
+| **The Refusal** / Adapa tablet with a lacuna | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | **Human-Design Triad (1/3)** + load-bearing object #3; street name **The Refusal** (first hearing may say “Adapa’s Refusal”); foolable mind; Tree of Life withheld (`99` #10) |
+| **The Sorting** / Enki and Ninmah role-fragment | Real Sumerian literary tradition with fragmentary lines; exact object in the novel may be a copy, photo, or disputed reconstruction | Ninmah creates people whose bodies or capacities do not fit the expected pattern; Enki assigns fates, bread, and places; Umul breaks the text | **Human-Design Triad (2/3)** — street name **The Sorting**; **everyone has value**; roles/specialties; Umul = **The Unplaceable** (`35` § *Mesopotamian Human-Design Triad*) |
+| **The Taking** / Inana and Enki / the Arta | Real Sumerian literary tradition | Civilization-functions are loaded into the Boat of Heaven and carried from Eridu to Uruk | Street **The Taking**; civilization as portable order — offices, arts, laws, desires, weapons, rituals moved, stolen, installed, or misused. Emrys: **Arta** once. |
 | **Enheduanna's Inanna hymns** | Real Sumerian literary tradition attributed to Enheduanna; authorship and transmission require caveats because surviving manuscripts are later copies | A named priestess-poet invokes Inanna's overwhelming power while speaking from exile, institutional displacement, and political danger | Gives the trilogy a historical model for authored voice, sacred rhetoric, female religious authority, and the danger of hymn becoming imperial/theological technology |
 | **Inana's Descent / life-giving plant and water** | Real Sumerian literary tradition | Liminal beings mirror Ereshkigal's pain, then restore Inana with life-giving plant and water | Gives the healer arc an ancient rhyme: restoration through resonance, attention, and correct intervention rather than domination |
 | **Enki and the World Order** | Real Sumerian literary tradition | Enki assigns offices, lands, crafts, borders, fertility, writing, and social functions; Inana contests her allocation | Provides the macro-version of the role-fragment: civilization as a function-allocation machine |
@@ -188,7 +191,7 @@ Guardrail: unless a real archaeological analogue is identified, this is a fictio
 
 **Series-wide placement:**
 
-- **Book I — The Breach (body ring):** Eli encounters the tablet in the Meridian City archive. He is post-breach, shotgun charges through an open receiver, his body running without him. The tablet lands as a diagram he cannot yet read — the reader gets the diagnostic vocabulary before Eli is ready to use it. Physical encounter; the object itself, not a photo or scan.
+- **Book I — The Breach (body ring):** Eli encounters the tablet **post-breach** — Meridian Stack archive leak routed out with the Rootbook wafer and delivered by Emrys at the Malacca kelong (Ch 3). He is shotgun charges through an open receiver, his body running without him. The tablet lands as a diagram he cannot yet read — the reader gets the diagnostic vocabulary before Eli is ready to use it. Physical encounter; the object itself, not a photo or scan. (Route lock: Meridian itself is pre-breach; the tablet does not require a second Meridian tour.)
 - **Book II — The Descent (middle ring):** The tablet re-enters as a re-read, not a new object. Eli now has lived evidence of what the middle ring does when it holds (Somchai's community) and what it costs when it breaks (Maren's loss, Pelangi Reach purged, fellowship fractured). The diagram becomes a question: does he let the charge propagate through a broken ring, or does he build the containment that holds?
 - **Book III — The Return (outer ring):** The full Three Circles reading lands here. Eli has seen all three levels in operation. The diagram becomes his political vocabulary. Pelangi Reach's breakdown was outer-ring failure; the distributed harbor net succeeds because it operates across the middle ring, not despite it. The climax is a structure that holds across all three rings without a single center.
 
@@ -314,32 +317,56 @@ This compresses with the Three-Circles Tablet: the tablet is the social grammar 
 
 Three real Sumerian/Akkadian literary traditions travel together as **one clue leg** — copies, fragments, squeezes, or disputed reconstructions in the same archive packet, never three museum heists. They answer one question in three registers: **what kind of creature is a human, and why mortality is not the wound.**
 
-| Text | Register | Locked reading |
+### Street names — LOCKED 2026-07-26
+
+On-page and in dialogue, the packet is:
+
+**The Refusal · The Sorting · The Fade**
+
+| Street name | Scholar / tradition name | Register | Locked reading |
+|---|---|---|---|
+| **The Refusal** | Adapa tablet lacuna | Mind / limit | Humans are **easily fooled** (Enki's trick; later: prophecy, registry, Drift). **Tree of Life withheld** — not permanent loss, but **protection**: godlike reach + immature grip + immortality would be catastrophic. He refuses the bread of life. |
+| **The Sorting** | Enki and Ninmah role-fragment | Person / gift | **Everyone has value.** Different bodies and capacities receive **real fates, bread, roles, and specialties** — not broken stock; diversity is design. **Bodily decline focuses** effort in time; mortality is a **forcing function**, not a curse. Institutions corrupt this into registry sorting. |
+| **The Fade** | Sumerian King List (declining reigns) | Species / memory | Before the Flood, impossibly long reigns; after, lifespans **contract toward the human scale**. Mortality as **cultural memory of the right boundary**, not proof humans were once gods. Rhymes with Adapa and patriarch chronologies. |
+
+**Craft:** scholars, Emrys, and archive labels may still use the tradition titles; Eli, Wren, keepers, and street speech prefer the locked street names. First hearing of the Adapa text may say “Adapa’s Refusal” or “the Adapa — the Refusal”; afterward use **The Refusal**. Do not rename Umul’s ending as a fourth packet title — it lives inside **The Sorting**. Contested dialogue may say “Enki’s sorting” as a *reading*, not as the street name.
+
+### Artifact street shelf — LOCKED 2026-07-26
+
+Wider clue-chain objects use the same grammar (**The + wound/act**). Scholar/museum labels stay under the hood.
+
+| Street name | Scholar / object | Notes |
 |---|---|---|
-| **Adapa lacuna** | Mind / limit | Humans are **easily fooled** (Enki's trick; later: prophecy, registry, Drift). **Tree of Life withheld** — not permanent loss, but **protection**: godlike reach + immature grip + immortality would be catastrophic. |
-| **Enki and Ninmah role-fragment** | Person / gift | **Everyone has value.** Different bodies and capacities receive **real fates, bread, roles, and specialties** — not broken stock; diversity is design. **Bodily decline focuses** effort in time; mortality is a **forcing function**, not a curse. |
-| **Sumerian King List (declining reigns)** | Species / memory | Before the Flood, impossibly long reigns; after, lifespans **contract toward the human scale**. Mortality as **cultural memory of the right boundary**, not proof humans were once gods. Rhymes with Adapa and patriarch chronologies. |
+| **The Circles** | Three-Circles Tablet | First hearing may say “Three Circles”; afterward **the Circles**. Body → Family → Civilization. |
+| **The Bridge** | Göbekli snake/tree/bird plaquette | Tree where routes meet, flanked by snake and bird. Not “plaquette” in dialogue. Book I: no panspermia. |
+| **The Refusal · The Sorting · The Fade** | Human-Design Triad packet | See table above. |
+| **The Exile** | Genesis Eden / Eden III Adam expulsion | Rhyme to Refusal; **not** a fourth triad member. Spoken: *Refusal, Sorting, Fade — and later, the Exile.* |
+| **The Taking** | Inana and Enki / Arta | Civilization-functions **taken** into the Boat of Heaven — seized, carried, installed. Pair once with the boat image so it does not read as random theft. Emrys may say **Arta** once as term-of-art; street prefers **the Taking**. Rejected: Transfer, Endowments, Gifts (talent/present muddle), Cargo/Load. |
+| **The Forks** | Double-Fork Stone | Sibling branching; Book III with dragon ghost. Emrys may say Double-Fork; street **the Forks**. |
+| **the Rainbow Tree** | Two-Tree Union symbol | Already locked; keep lowercase *the* in running prose if preferred. |
 
-**Umul lacuna (Ninmah text):** the triad's **broken ending**. Civilizations supplied *the useless are useless*; the recovered reading: **held before healed** — care-work and embodied healing are valid when placement fails. Distinct from the **positive Ninmah body**: assigned roles are **good**; the corruption is when institutions honor **only** legible slots.
+**Spoken shelf (Vol I → III):** *The Circles · The Bridge · Refusal, Sorting, Fade — and later, the Exile · The Taking · The Forks · the Rainbow Tree.*
 
-**Related — not fourth triad member:** *Enki and the World Order* (macro office map) and *Inana and Enki / Arta* (transferable civilization-functions) show how the **same role-gift** becomes registry, grid, and **Arta** when offices move between centers (`35` § *Additional Mesopotamian story-objects*). Vol II–III: institutional **misread** of Ninmah's purpose.
+**Umul lacuna (inside The Sorting):** the triad's **broken ending**. Civilizations supplied *the useless are useless*; the recovered reading: **held before healed** — care-work and embodied healing are valid when placement fails. Distinct from the **positive Ninmah body**: assigned roles are **good**; the corruption is when institutions honor **only** legible slots. Optional spoken tag for the Umul gap: **The Unplaceable**.
+
+**Related — not fourth triad member:** *Enki and the World Order* (macro office map) and *Inana and Enki / Arta* (**The Taking** — portable civilization-functions) show how the **same role-gift** becomes registry, grid, and stolen order when offices move between centers (`35` § *Additional Mesopotamian story-objects*). Vol II–III: institutional **misread** of Ninmah's purpose.
 
 **Clue-chain placement — LOCKED (must pay off within 1–3 chapters per beat):**
 
 | Volume | Chapter | Beat |
 |---|---|---|
-| **I** | **12** | **First contact:** Gulf/Mesopotamian archive yields **one packet, three texts** — Adapa lacuna primary; Ninmah fragment + King List column **seeded** (Maren margin or dissident copy). Eli reads Adapa; others filed. |
-| **I** | **13** | Adapa rhyme at Göbekli: obedience/selection vs living group; **incomplete** triad synthesis. |
-| **II** | **3** | Maren record / Hassan testimony **cross-refs** Ninmah fates and King List mortality — **roles vs registry sorting**. |
-| **II** | **5** | Pömmelte/church/registry: faction reads impaired bodies as **broken**; Eli carries Ninmah counter-evidence; **World Order / Arta** rhyme as corrupted macro (`32` Ch 5). |
-| **III** | **2** | Ninmah–**Umul** story as **intake countervoice** (Tomas; include before useful). |
+| **I** | **12** | **First contact:** Gulf/Mesopotamian archive yields **one packet, three texts** — **The Refusal** primary; **The Sorting** + **The Fade** **seeded** (Maren margin or dissident copy). Eli reads the Refusal; others filed. |
+| **I** | **13** | Refusal rhyme at Göbekli: obedience/selection vs living group; **incomplete** triad synthesis. |
+| **II** | **3** | Maren record / Hassan testimony **cross-refs** The Sorting (fates) and The Fade (mortality) — **roles vs registry sorting**. |
+| **II** | **5** | Pömmelte/church/registry: faction reads impaired bodies as **broken**; Eli carries Sorting counter-evidence; **World Order / Arta** rhyme as corrupted macro (`32` Ch 5). |
+| **III** | **2** | Sorting / **Umul** (**The Unplaceable**) as **intake countervoice** (Tomas; include before useful). |
 | **III** | **late (~8–9)** | **Umul lacuna recovery** + full triad synthesis: foolable + mortal + purposed + **healable**; Tree of Life **conditionally** available when Knowledge and Life reunite. |
 
 Guardrail: triad texts are **contested** — forgery, reconstruction, and factional reading must move routes and trust (`99` #10). No single tablet decodes the cosmology.
 
-## The Adapa tablet lacuna — the conditional tree
+## The Refusal — the conditional tree
 
-**Triad member (1/3)** — see § *Mesopotamian Human-Design Triad*. Adapa is also one of the **five load-bearing causal objects** (`99` #10).
+**Street name: The Refusal.** Scholar/tradition: Adapa tablet lacuna. **Triad member (1/3)** — see § *Mesopotamian Human-Design Triad*. Adapa is also one of the **five load-bearing causal objects** (`99` #10).
 
 The Adapa material should include a tablet, copy, photograph, or scholarly reconstruction with a **strategic missing passage**. The gap must not be filled by authorial certainty too early. Different readers inside the story should argue over what the absent line changes:
 
@@ -352,20 +379,39 @@ Working novel reading, to reveal only after competing readings have done real da
 
 This makes Adapa the trilogy's first anatomy of the human condition: a species equipped with knowledge powerful enough to deceive gods and reach heaven, still immature enough that immortality in its hands would be a weapon rather than a gift. The missing line is the moment where protective trickery, mortal preparation, and deferred integration meet — not as punishment, but as the species' own growing edge. **Easily fooled** is established here and paid off later (prophecy bait, destiny leverage, Drift, registry grammar). **Mortality focuses** the species in time — paired with Ninmah's roles and the King List's contracting reigns in the Human-Design Triad.
 
+### Chronology lock — Adapa ≠ Adam ≠ 4.2 ka — LOCKED 2026-07-26
+
+Three separate Mesopotamian-scale layers. **Do not collapse them into one date or one person.**
+
+| Layer | Working date | What it is | What it is not |
+|---|---|---|---|
+| **1. Adapa / The Refusal** (boat-day / Eridu priest tragedy) | **~5500–4000 BCE** (5th-millennium working pin; late Ubaid / early Eridu sail window) | Humanized priest of Eridu; South Wind capsizes a **sail/reed Gulf boat**; refuses bread of life; mortality lock | Not biblical Adam / **The Exile**; not the 4.2 ka drought; not Younger Dryas paddlers |
+| **2. Adam / Eden III / The Exile** | **~3900–3650 BCE** (working midpoint **~3700 BCE**) | Covenant-garden expulsion; ate Knowledge, barred from Life; guilt as internalized law; Genesis bloodline memory | Not Adapa / **The Refusal**; not first biological human; not the Flood |
+| **3. 4.2 ka climate event** | **~2200 BCE** (Flood / deluge working window ~2200–2000 BCE) | Aridification, dust, salt, grain/river failure, abandonment pressure; Ch 12 climate witness | Not Adapa's fishing day; not Adam's birth year |
+
+**Street rhyme — LOCKED 2026-07-26:** **The Refusal** (Adapa) answers **The Exile** (Eden/Adam). Same wound family (Life withheld / mortality locked); different acts (refuse the meal vs eat Knowledge and be cast out). **The Exile is not a fourth Human-Design Triad member** — triad remains **The Refusal · The Sorting · The Fade**. Spoken: *Refusal, Sorting, Fade — and later, the Exile.*
+
+**Related but not a fourth person-date:** **Younger Dryas (~12.9 kya)** — deep paleoclimate underlayer (AMOC / meltwater / monsoon-wind reorganization). May color *why* a broken wind feels cosmic; it is **not** the staged setting of Adapa's boat-day (sails are not attested ~10 kya).
+
+**Uanna vs Adapa:** Uanna carries the older Apkallu *transmission-of-civilization* function; Adapa carries the *humanized tragedy* staged in early-sail Eridu. Related, not safely identical; do not force Uanna's whole golden-age office down into the 5th millennium just to fix the boat.
+
+**Stack (earliest → latest):** Younger Dryas memory → **Adapa / The Refusal ~5th mill.** → **Adam / The Exile ~3700 BCE** → **4.2 ka ~2200 BCE**.
+
 ### The South Wind as paleoclimate memory
 
 The "broken wing of the South Wind" can also carry a grounded environmental reading. Treat this as a plausible hypothesis inside the story, not as settled proof:
 
-- The South Wind that overturns Adapa's boat may preserve memory of dangerous southeasterly Gulf winds, sudden squalls, or a broader shift in seasonal wind reliability.
-- Late Pleistocene and early Holocene sea-level rise flooded the shallow Persian Gulf basin, turning older riverine/marsh landscapes into the Gulf. A community near Eridu could inherit stories from populations displaced by that transgression.
-- Abrupt climate events such as the Younger Dryas are associated with major ocean-atmosphere reorganization: weakened North Atlantic overturning, displacement of rain belts such as the ITCZ, and monsoon shifts. Those mechanisms make the idea of a "stopped" or altered wind physically legible.
-- The chronology must stay cautious. The preserved Adapa texts are much later than the Younger Dryas, and the myth may be a layered memory, not a direct report. The novel can use the science as an interpretive pressure: a mythic broken wind may encode the human experience of climate systems changing beyond political or priestly control.
+- **Boat-day setting:** Adapa's overturned craft belongs to the **early Gulf sail window** (~5500–4000 BCE) — reed/sail temple-provisioning boat, not 10 kya paddled foragers and not Bronze Age freighters.
+- The South Wind may preserve memory of dangerous southeasterly Gulf winds, sudden squalls, or a broader shift in seasonal wind reliability — including older inherited stories of wind failure after sea-level rise filled the Gulf basin.
+- Abrupt climate events such as the **Younger Dryas** are associated with major ocean-atmosphere reorganization: weakened North Atlantic overturning, displacement of rain belts such as the ITCZ, and monsoon shifts. Those mechanisms make a "stopped" or altered wind physically legible as **deep memory under the myth**, not as Adapa's calendar date.
+- The preserved Adapa *texts* are much later than both the boat-day pin and the Younger Dryas; the myth may be layered memory, not a direct report.
+- **4.2 ka** is a separate Ch 12 pressure (fields, rivers, stores) — same Mesopotamian leg, different dial. Do not use it as Adapa's squall.
 
 Narrative use: one faction reads the broken wind as divine jurisdiction; another reads it as a paleoclimate clue; Eli should learn from both without collapsing either into certainty. The useful dramatic point is not "Adapa scientifically caused the wind to stop." It is that ancient people may have encoded a real environmental rupture in divine language, and later authorities converted the rupture into obedience theology.
 
-## Enki and Ninmah — the role-fragment
+## The Sorting — Enki and Ninmah role-fragment
 
-**Triad member (2/3)** — see § *Mesopotamian Human-Design Triad*. This is the other missing-piece story to track alongside Adapa. The likely text is **Enki and Ninmah** rather than **Enki and Ninhursag**, though Ninmah/Ninhursag belong to the overlapping mother-goddess cluster. In the surviving story, the gods complain about labor; Enki, Namma, Ninmah, and the birth-goddesses participate in making humanity as a labor substitute; then, after drinking beer, Ninmah creates a sequence of impaired or socially irregular humans. Enki answers each one by giving a fate, bread, and a place in the social order. Then Enki creates **Umul**, a being so afflicted that Ninmah cannot find a viable place for him.
+**Street name: The Sorting.** Scholar/tradition: Enki and Ninmah. **Triad member (2/3)** — see § *Mesopotamian Human-Design Triad*. This is the other missing-piece story to track alongside **The Refusal**. The likely text is **Enki and Ninmah** rather than **Enki and Ninhursag**, though Ninmah/Ninhursag belong to the overlapping mother-goddess cluster. In the surviving story, the gods complain about labor; Enki, Namma, Ninmah, and the birth-goddesses participate in making humanity as a labor substitute; then, after drinking beer, Ninmah creates a sequence of impaired or socially irregular humans. Enki answers each one by giving a fate, bread, and a place in the social order. Then Enki creates **Umul**, a being so afflicted that Ninmah cannot find a viable place for him.
 
 **TRILOGY FUNCTION — LOCKED 2026-07-25 (rev.):** **Headline:** *Enki and Ninmah* indicates that **everyone has value** — Ninmah's irregular humans are **not broken**; Enki's fates, bread, and places name **real roles and specialties**; difference is design; specialization works. Humans lack the Tree of Life, and **bodily decline is ultimately good** — it forces focus, transmission, and care before the body fails (pairs with Adapa's withheld immortality and the King List's contracting reigns). **Corruption reading second:** later institutions treat only **registry-legible** roles as persons; Umul is where the **text breaks** and empires supply *the useless are useless*. Umul is not a failed worker awaiting placement; he exposes when a society can only value what it can classify. The Umul beat returns in **Vol III Ch 2** (refugee intake) and **Vol III late (~Ch 8–9)** (lacuna recovery). When placement fails, value is **held and healed in relationship** — without denying that **assigned roles in the original myth are good**. Distinct from *Enki and the World Order* (macro allocation) and *Inana and Enki* (transferable civilization-functions) — those show the **corrupted macro layer** (`35` § *Mesopotamian Human-Design Triad*).
 
@@ -404,13 +450,17 @@ The healer's later practice recovers this in living terms: not by deifying himse
 
 Use these as a ranked secondary shelf. The first three are the cleanest additions because they directly support the trilogy's machinery: civilization as transferable functions, healing as resonance, and role-assignment as control. The rest are useful if a plot location, custodian, or antagonist needs them.
 
-### Inana and Enki — the Arta as civilization's carried order
+### Inana and Enki — The Taking (Arta under the hood)
+
+**Street name: The Taking — LOCKED 2026-07-26.** Scholar/term-of-art: Inana and Enki / **Arta**.
 
 The **Arta** are not physical objects. They are the fitted order of civilization: kingship, priesthood, crafts, law, sex, music, truth, deceit, weapons, family offices, ritual offices, and other social powers. Inana receives or takes them from Enki at Eridu and brings them to Uruk in the Boat of Heaven. The term is the novel's Indo-Iranian/PIE-derived adaptation, not a claim that the Sumerian text uses PIE vocabulary.
 
-Novel use: this is the cleanest ancient analogue for **knowledge installed as social capacity**. Civilization is not only buildings and armies; it is a portable inheritance of roles, permissions, arts, seductions, and weapons — distributed by the gods and carried between centers of power. The Arta can be copied, stolen, transferred, misread, or used before a community is mature enough to carry them. The trilogy's version is the grid, the keeper-net, the Custodian registry: modern functions allocated, transferred, and enforced by whoever controls the network.
+Novel use: this is the cleanest ancient analogue for **knowledge installed as social capacity**. Civilization is not only buildings and armies; it is a portable inheritance of roles, permissions, arts, seductions, and weapons — distributed by the gods and **taken** between centers of power. The Taking can be copied, stolen, misread, or used before a community is mature enough to carry it. The trilogy's version is the grid, the keeper-net, the Custodian registry: modern functions allocated and enforced by whoever controls the network.
 
-Guardrail: do not make the Arta into literal computer files. The value is the analogy: functions move between centers of power, and whoever controls the transfer shapes a civilization's instincts. In the novel's prose, introduce **Arta** once with its definition, then use it consistently as a term-of-art. In Emrys's scholarly notes or a custodian's registry, it can appear as a category label.
+**Craft:** street says **the Taking**; pair once with the Boat of Heaven so it does not read as random theft. Emrys may introduce **Arta** once (“fitted capacities”), then prefer street speech. Rejected street names: Transfer, Endowments, Gifts, Cargo, Load.
+
+Guardrail: do not make the Arta into literal computer files. The value is the analogy: functions move between centers of power, and whoever controls the Taking shapes a civilization's instincts.
 
 ### Enheduanna's Inanna hymns — authored sacred voice
 

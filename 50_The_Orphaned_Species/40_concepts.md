@@ -270,6 +270,8 @@ The Thread is not only a maze. It **sorts whichever male leaders still remain** 
 
 **LOCKED 2026-07-24.** **Scientist claiming** is one belt of a wider post-Hinge regime: **exceptional capacity gets claimed** — neuroscientists, physicists, **visuo-spatial prodigies**, memory outliers, carrier/threshold adolescents, anyone the merged health-border-labor file can **ledger, assign, recall, or seize**. Not only psionics: a child who maps a shaft system once and never forgets is **claim-category** in the wrong room.
 
+**Street psi vocabulary — LOCKED 2026-07-26:** harbor speech for psionic ability is lowercase **talented / talents** (*he's talented*, *his talents came on*). Distinct from this section's broader *don't look too talented* survival literacy. Lived: **noise / surge**. File: **psion / carrier**. Full lock: `95` § *talented / talents*; `21`.
+
 | Register | What gets flagged |
 |---|---|
 | Union | **Assigned sector** — science, engineering, spatial aptitude tests, registry cohorts |
@@ -563,9 +565,21 @@ Key language:
 
 **Date:** Adam roughly ~3700 BCE if the Flood is placed near ~2000 BCE and Adam is born 1,656 years before it in the biblical chronology. If the Flood is tied more strictly to the 4.2-kiloyear event (~2200 BCE), Adam shifts earlier, roughly ~3850 BCE. Use the rounded narrative range **~3900-3650 BCE**, with **~3700 BCE** as the working midpoint.
 
+**Street name — LOCKED 2026-07-26: The Exile.** Scholar/tradition: Genesis Eden / Adam expulsion. Not a Human-Design Triad member; the Genesis rhyme to **The Refusal**. Spoken: *Refusal, Sorting, Fade — and later, the Exile.*
+
 This is not the creation of biological humanity. It is the birth of the remembered biblical Adam: the post-Abandonment / pre-Flood covenantal human, living under the moralized garden story that will later become obedience, guilt, chosen status, father-god law, and covenant control.
 
 The Flood belongs later, around the 4.2-kiloyear event / ~2200-2000 BCE depending on how tightly the story is keyed to climate history versus biblical chronology. In the biblical count, Adam precedes that flood by 1,656 years.
+
+**Adapa is earlier and separate — LOCKED 2026-07-26.** Do not identify Adam with Adapa or date Adapa to Eden III or to 4.2 ka.
+
+| Layer | Working date |
+|---|---|
+| **Adapa** (Eridu boat-day) / **The Refusal** | **~5500–4000 BCE** (5th millennium) |
+| **Adam / Eden III** / **The Exile** | **~3900–3650 BCE** (~3700 midpoint) |
+| **4.2 ka / Flood window** | **~2200–2000 BCE** |
+
+Full lock: `35_artifact_chain.md` § *Chronology lock — Adapa ≠ Adam ≠ 4.2 ka*; `00_MASTER_TIMELINE.md` same heading. Human-Design Triad street names: **The Refusal · The Sorting · The Fade**. Genesis rhyme (not triad member): **The Exile**. (`35` § *Mesopotamian Human-Design Triad*; chronology lock street rhyme.)
 
 Key language:
 
@@ -641,7 +655,7 @@ Book formula:
 Do not map Alulim directly to Adam, Alalgar to Seth, and so on. That creates false precision and breaks both traditions. The Sumerian kings are rulers / offices / dynastic containers. The Genesis patriarchs are covenant ancestors.
 
 **2. Adam stays in Eden III.**  
-Adam remains the remembered covenantal ancestor around the current working range of **~3900-3650 BCE**. The Sumerian antediluvian kings belong to the broader late Phase VI / early Phase VII memory of managed cities before the Flood. They are the control system's public face, not the first biological humans.
+Adam remains the remembered covenantal ancestor around the current working range of **~3900-3650 BCE**. The Sumerian antediluvian kings belong to the broader late Phase VI / early Phase VII memory of managed cities before the Flood. They are the control system's public face, not the first biological humans. **Adapa is not Adam:** **The Refusal** (Adapa, ~5500–4000 BCE) is not **The Exile** (Adam/Eden III, ~3700 BCE); the **4.2 ka** Flood window is later still (~2200 BCE).
 
 **3. Genesis 1 can supply the wider human field.**  
 The Cain problem is useful: Cain fears "whoever finds me," receives a protective mark, goes to a named land, finds a wife, and builds a city. The text behaves as if a wider human population already exists. In this canon, that population is the broader **Umannu / Lullu** world outside the Adamic covenant line. Genesis 1 is the human field; Genesis 2 sets apart the Eden III priestly/covenantal line.

@@ -150,7 +150,7 @@
 
 ### [bank] The Archive — polarity-data retrieval *(placement OPEN; this is NOT the Ch 2 Meridian City ring-photo beat)*
 - **Want:** retrieve the paired-anomaly data.
-- **Obstacle:** a state unit and the Custodians converge on the same archive; physical surveillance closes exits; a Custodian psionic probe scrambles recognition and trust (the soft suite). The **Three-Circles Tablet** surfaces here as the first physical artifact — first mistaken for map/hierarchy.
+- **Obstacle:** platform heat, burned routes, Custodian net still closing; Emrys measures the forced-open receiver. The **Three-Circles Tablet** arrives as physical post-breach cargo from the Meridian Stack leak (with Rootbook wafer) — first mistaken for map/hierarchy; Eli cannot yet read outer rings (`35`; `MANUSCRIPT` Ch 3).
 - **Choice → Cost:** they take the data and run. Cost: they're now signature-known to the Custodians; a near-miss exposes Eli further.
 - **Revelation:** **lines break and leave opposed ends** (polarity, not good/evil) — old maps become suspect. **Forward clue:** a coordinate that no longer matches the living coast.
 - **Rootbook recovery:** the archive yields the first coherent folio or confirms where a physical portion survived. A **foot/step** family orders one set of field observations and supplies a testable movement. The Three-Circles Tablet remains the causal artifact; the journal is the comparison frame.
@@ -264,7 +264,8 @@ The on-page sequence therefore moves from **how people survive together** (Çakm
 ### Ch 12 — The Old Wound at Ground *(Eli · Mesopotamian charged ground · Adapa-weight)*
 - **Want:** read the ground without becoming its priest.
 - **Obstacle:** Adapa/Qingu watched-depth (`30`); patriarchy at household scale; plaquette grammar disputed.
-- **Mesopotamian Human-Design Triad — LOCKED 2026-07-25:** archive haul yields **one packet, three texts** — **Adapa lacuna** (primary read), **Enki and Ninmah role-fragment**, **Sumerian King List** declining-reign column (`35` § *Mesopotamian Human-Design Triad*). Eli acts on Adapa; Ninmah + King List seed forward. Maren margin or dissident copy may cross-link all three.
+- **Chronology — LOCKED 2026-07-26:** keep three layers distinct on-page — **Adapa** boat-day **~5500–4000 BCE**; **Adam/Eden III** **~3700 BCE** (if named); **4.2 ka** climate witness **~2200 BCE**. Do not collapse (`35` § *Chronology lock — Adapa ≠ Adam ≠ 4.2 ka*).
+- **Mesopotamian Human-Design Triad — LOCKED 2026-07-25; street names 2026-07-26:** archive haul yields **one packet, three texts** — **The Refusal** (primary read), **The Sorting**, **The Fade** (`35` § *Mesopotamian Human-Design Triad*). Eli acts on the Refusal; Sorting + Fade seed forward. Maren margin or dissident copy may cross-link all three. Scholar titles OK on labels; dialogue prefers street names.
 - **Revelation:** control order moves inward; first **stone artifact** evidence; foolable mind + mortal boundary + purposed roles **introduced** (full synthesis Vol II–III). The 5000–3000 BCE bottleneck is the early Dominion's consolidation, not yet the formal **Age of Heroes**. The named Age of Heroes follows around **3500–1200 BCE**, when Eridu–Uruk genealogies, ration/marriage records, king-list traditions, and population evidence show a few male lines expanding while many disappear. The heroic, giant, and divine-son stories preserve the winners' memory of that concentration. The trail then **commits north to Anatolia**.
 - **Past leak:** Emrys — map-over-territory slip when lacuna matches mother's notes (`99` #9 seed).
 

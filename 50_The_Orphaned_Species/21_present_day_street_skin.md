@@ -37,6 +37,7 @@ Do **not** import setting names, factions, chrome brands, or plot beats from tha
 | Street / cyberpunk read | Canon element | Drafting note |
 |---|---|---|
 | Cyberware, Sandevistan, forced upgrades | Psionic augmentation, registry programs, amplifier keys, Emrys's chair, ground interfaces | Always **mediated** — someone built the interface; someone owns access |
+| Street: *talented* / *talents* (lowercase) | Psionic ability (person / capacities) | Harbor euphemism — *he's talented*, *talents came on*. Not Cap-T brand. Not artifact shelf. Files: psion/carrier; body: noise/surge. Ordinary *talented with X* stays ordinary. `95` |
 | Arasaka / Militech | Nation-state psion teams, bloc programs, emergency databases | Many-sided conflict; no single villain owns the war. **Blocs (locked):** Continental Union (Americas), Eastern Mandate (East), Free Ports Coalition (Strait/gray ports) |
 | Ripperdocs, black clinics | Carrier handlers, conscription, illegal activation, outbreak-cover disappearances | Bodily, transactional, shameful or desperate |
 | Cyberpsychosis (psi face) | **The Drift** — identification with surges/charges; receiver filter breaking under pressure | Horror is **loss of agency**, not colored projectiles |
