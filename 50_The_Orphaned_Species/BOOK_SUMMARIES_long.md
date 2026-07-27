@@ -1,5 +1,7 @@
 # THE ORPHANED SPECIES — Detailed Treatment for Issue-Finding (Books I–III)
 
+> **ROUTE SUPERSESSION — LOCKED 2026-07-26:** `58_sanxingdui_climax_lock.md` governs. Book I ends at Sanxingdui with Rasel recovered, the distributed Tree of Life recognized, and Emrys taken. Mesopotamia / Göbekli relocate to Book II; Rasel is present thereafter. Older chapter summaries below are relocation quarry until rewritten.
+
 *The audit version. Each chapter is broken into: an **[anchors]** line (POV · place · who is present · objects/clues in play · what Eli knows by the end · time/travel), the **event sequence** in order, the **forward clue**, and **⚠ seam** flags wherever the current canon is internally contradictory, superseded, or still an open casting decision. Use the anchors to catch knowledge-state and continuity errors ("how does he know that yet?", "where is the ring right now?"); use the seams list at the end to catch structural contradictions. Grounded in `31`/`32`/`33` (beatsheets), `05`, `35` (artifact chain), `36` (living-web mechanism), `41` (climax mechanism), `26` (cast), `42` (preamble), `WORLD_BIBLE.md`. Chapter numbers follow the current locked rebuild order; renumbering is expected. Compressed pitch version: `BOOK_SUMMARIES_short.md`.*
 
 ---
@@ -8,17 +10,21 @@
 
 - **Eli** — protagonist; given name **Eli** (Maren); **dak nam Babu** (Rasel/Shireen); English paperwork **Eli Holt**; stateless refugee, ~20s; facilities worker at Forest Foundry; natural carrier (receiver, somatic receptivity through palms and nerves — reads bodies, never repairs them); childhood TBI. Home POV for nearly every scene.
 - **Maren Holt** — Eli's mother; **Albion passport**; **neuroscientist**; carrier; dissident; **claimed by the Charkha Measure**; **alive, captive** until **Book II rescue**. **Always Maren Holt.** **Mei Friday dinner (Ch 1):** taken alive, unrescued. **Book II:** trail, reunion, **rescue**, release at Albion.
-- **Rasel Khan** (রাসেল খান — **Rasel** in speech and on forms; *Russell* only in some English mouths) — Eli's father; **Bangladeshi passport**; **legendary physicist**, **gardener in Eli's memory**; **claimed by Eastern Mandate**; **alive in Mandate black-lab custody** — **Mei Friday dinner (Ch 1):** taken alive, unrescued through Book II. **Eli rescues Rasel — Book III.** **Passport split** from Maren. Old friend of **Babaji**. **Khan not passed to Eli.**
+- **Rasel Khan** (রাসেল খান — **Rasel** in speech and on forms; *Russell* only in some English mouths) — Eli's father; **Bangladeshi passport**; **legendary physicist**, **gardener in Eli's memory**; **claimed by Eastern Mandate**; **alive in Mandate field-research custody** — **Mei Friday dinner (Ch 1):** taken alive, location unknown. **Eli recovers Rasel at Sanxingdui — Book I.** **Passport split** from Maren. Old friend of **Babaji**. **Khan not passed to Eli.**
 - **Wren** — 19; **Malay Chinese**; Unranked extraction operator running carriers *out*, never a Charkha insider; love interest; custody flaw (a completed route is not a returned person). Wound: failed to save **Mira Okonkwo**.
 - **Gwyn Emrys** — threshold-consciousness researcher, Maren's former colleague; the anti-father/Merlin; "has the map, not the territory." Taken at the Book I climax.
 - **Somchai Vichai** — Thai field medic; the true healer (depth, vs Eli's bandwidth). Enters Book II.
 - **Sol Mendez** — burned would-be prophet; Eli's dark mirror (messiah hunger). Enters Book II.
 - **Dean Crane** — runs the Charkha's suppression/acquisition apparatus; the reasonable antagonist. Looms in I, negotiates in III.
 - **The Custodians** — rival psion unit, all collared carriers: **Edda Voss** (Lead/Locker, true believer), **Tommy Reyes** (Lance, hurts people, tremor), **Sora Vithan** (Shield/conscience, tied to Mira and to Wren, defection candidate), **Jin "Grey" Pak** (Mask/scout, honey-trap).
-- **Hassan** — witness; ex-clerk held with Maren; carries **Maren's wedding ring**; recaptured in Malacca, rescued in Book II.
+- **Hassan** — witness and former clerk who crosses Rasel's Mandate transfer and
+  Maren's later Charkha custody chain; carries **Rasel's wedding ring**; recaptured
+  in Malacca, rescued in Book II.
 - **Support:** Babaji (island keeper), Suresh (boat runner), Mei (terrace/hearth), **Wren** (Babaji host/assistant on Pelangi; extraction operator), Nico (pizza-maker), Salmah (Malacca fish-seller), Nura + Ilyas, Laleh + Asha, Shireen (cousin, Dhaka). **Priya Nair — RETIRED 2026-07-25** (Ch 1 attestation/cohort beats → **Wren**).
 - **Deep-time threads** (clarify at charged grounds, met *as other*, never inhabited): **Ila** (Thailand midpoint), **Aru** + **Daskar** (Göbekli), **Tem** (17:1 grain pit), **Adapa** (Mesopotamia), **Anthea** + her pupil **Lira** (Rollright), **Cuno** (Stonehenge) → **Derw** → **Aedan**.
-- **Load-bearing artifacts (5):** Three-Circles Tablet · Göbekli plaquette · Adapa lacuna · Babylonian Map of the World · Men-an-Tol holed stone. (Plus the **Double-Fork Stone** image and **Maren's wedding ring** as a personal object.)
+- **Load-bearing artifacts (5):** Three-Circles Tablet · Göbekli plaquette ·
+  Adapa lacuna · Babylonian Map of the World · Men-an-Tol holed stone. Plus the
+  Double-Fork Stone image and **Rasel's wedding ring** as a personal object.
 - **Mesopotamian Human-Design Triad (clue leg throughout):** Adapa lacuna · Enki and Ninmah role-fragment · Sumerian King List declining reigns — one archive packet, three texts (`35` § *Mesopotamian Human-Design Triad*).
 
 ## The world (reconstructed through residue; retired preamble drafts are quarry — `42`, `WORLD_BIBLE` §7)
@@ -29,6 +35,42 @@
 
 # BOOK I — *THE BREACH*
 
+**Governing dramatic question:** Can Eli recover one parent without surrendering
+himself or treating everyone along the route as expendable?
+
+**Governing route:** Pelangi Reach → Meridian City → Malacca → Thailand river
+cooperative → human doors through Laos/Yunnan → Sichuan / Sanxingdui.
+
+**Governing movement:** Eli loses his made home and learns that both parents were
+taken alive. The Malacca breach opens his receiver; Wren and Emrys help him survive
+without agreeing about what he is. In Thailand, a forming line, Ila's witness, a
+cooperative's field records, and a battle between acquisition teams teach him that
+living communities—not artifacts—are the trustworthy instrument. The surviving
+polarity series matches a conservation anomaly at Sanxingdui.
+
+Edda Voss offers biometric access to Rasel in exchange for Eli's first clean scan.
+Eli refuses and accepts the slower human route north, costing Dara her border
+permit. At Sanxingdui, Professor Luo Meilin and conservator Qiao Wen give the group
+bounded access to the conservation record. Maren's language tree fails as a cipher
+and opens into a distributed mesh; Rasel's sabotage has removed the machine's
+invented apex. The Bronze Sacred Tree becomes a model, not a magic key.
+
+In the annex climax, Eli rejects the apparatus's demand for one master cadence.
+Mismatched, consenting living rhythms restore feedback: **the Tree of Life was
+never one tree; it was the living world connected to itself.** He completes the
+personal Manual Override and recovers Rasel. Emrys remains behind to preserve the
+record and is captured. The father-son reunion is loving, furious, and incomplete;
+Rasel reveals that he and Maren helped build the early classifier before resisting
+it. Sora's transfer code sends the damaged group west toward Emrys, Hassan, Göbekli,
+and finally Maren.
+
+**Book I exit:** Rasel present; Emrys captive; Maren alive but unrecovered;
+distributed Tree recognized; Göbekli belongs to Book II.
+
+---
+
+## Retired pre-Sanxingdui Book I chapter treatment — quarry only
+
 **Dramatic question:** Can Eli stay clear-headed enough under pursuit to decide whom to trust?
 **Arc:** overload → first witness site → failed/incomplete override at **Thailand** → completed personal Manual Override at Göbekli, followed by a westward clue with no confirmed destination.
 **Route:** the Reclamation / Pelangi Reach → (blocked north) → Singapore / Meridian City → Straits → Malacca → breach → **Thailand (agricultural witness + grounding, Ch 5–10)** → Gulf/Mesopotamia → **Göbekli Tepe** (climax). Bangladesh off-page (Shireen messages). **Mekong/Vietnam retired.**
@@ -38,7 +80,7 @@
 
 **Ch 1 spine (LOCKED rev. Y):** **Friday AM** race → **Friday PM** Mei dinner / orphan truth → **Saturday AM** Babaji catamaran / first meet Wren → **Saturday PM** squeeze, raid, departure. **Ch 2:** **Saturday eve** checkpoints + clerk → **Continue Inn** (game hotel) → **Sunday AM** Cube → Circuit → Malacca breach.
 
-### Ch 2 — Something of Hers / Checkpoints and the Stack (Eli · pier → Meridian → Malacca breach)
+### Ch 2 — His Hand / Checkpoints and the Stack (Eli · pier → Meridian → Malacca breach)
 **[anchors]** Present: Eli, **Wren** (escort through causeway hall), Mandate processors, Cherry Cube idol, Hassan, Custodians, Salmah. Objects: tool roll, **archive ring photograph**, physical ring with Hassan. Travel: **Saturday eve** marina gate → causeway hall → document lanes → **Continue Inn** → **Sunday AM** Cherry Lane → Cube → **Sunday Circuit** convoy → Straits → Malacca waterfront.
 
 **No Pelangi resort chase.** **Saturday PM–eve:** Wren escort through checkpoints; wrong-room overhear; peels off at document lanes; clerk → ring → wage ticket → **Continue Inn** (live-play game hotel). **Sunday AM:** Cherry Lane maze → **Cube** check-in. **Sunday:** Circuit hunt/escape → Malacca breach.
@@ -135,7 +177,11 @@ The group follows Hassan's transfer through ports, ferries, clinics, and househo
 **Forward clue:** Hassan is moving toward a Thrace/Balkan holding site; his recovered account and Maren's chart will identify the first dead-zone signature and continue the route west through Europe.
 
 ### Book II, Ch 3 — What They Took (Eli · Thrace/Balkan holding site + recovered record) — MIDPOINT
-**[anchors]** Present: Eli; **Hassan** (held, still with the ring); Sora (off-page: leaked the route). Objects: **Maren's wedding ring** (with Hassan); part of Maren's technical record (stays with captors). Eli knows (new): how Maren was taken; that she **built early program tools before defecting**; that her **body is dead** and her spirit is **tethered west, no address**.
+**[anchors]** Present: Eli; Hassan (held, still with the ring); Sora (off-page:
+leaked route). Objects: **Rasel's wedding ring** with Hassan; Maren's engraving and
+part of her technical record. Eli learns how Maren was taken, that she built early
+program tools before defecting, and that her body is dead while her consciousness
+remains tethered west.
 
 The Custodians are moving **Hassan through a westward Bosporus–Thrace/Balkan holding site** because his memory may unlock Maren's sabotaged maps. **Sora has leaked the transfer route to Wren** (without revealing herself — the "correcting an unnecessary detention, not defecting" self-story; puts a discrepancy in Edda's logs). Eli learns **how Maren was taken** (the Charkha's courteous machinery — clipboards, van, neighbor's light out) and that **she helped build the program's early signature/integration tools before becoming a dissident**. When clean record-recovery conflicts with **getting Hassan out**, Eli **chooses the person**; part of Maren's record stays with the captors. **Midpoint reveal:** body dead, spirit tethered west, **no usable address** → search becomes **release**, not rescue. Romance: reaching for Wren as *home*, he's met with recoil (*don't put her in that chair*) — **replacement fear** named; intimacy **down**. **Deluge-tradition** layer (Eridu/Atrahasis/Gilgamesh vs. later biblical reshaping).
 **Forward clue:** only **living observation** (growth, polarity, song) can triangulate west — old maps fail.
@@ -175,7 +221,7 @@ The Custodians are moving **Hassan through a westward Bosporus–Thrace/Balkan h
 
 **Dramatic question:** Can free communities protect people from dangerous capacity without turning capacity into an owned identity — no registry, cult, army-state, or permanent ruler?
 **Arc:** liberator → strongman-by-proximity (real window) → relinquishes under hearing → answerable ordinary member.
-**Parent rescue — LOCKED 2026-07-24:** Eli **rescues Rasel — Book III** (Mandate lab; reunion on-page). Book II delivered Maren rescue only. Stairwell (Ch 1) = both taken alive, no address — not rescue.
+**Parent rescue — LOCKED 2026-07-26:** Eli **recovers Rasel at Sanxingdui — Book I** (reunion on-page; Emrys captured in the escape). Book II delivers Maren's finding and release. Ch 1 = both taken alive, no address — not rescue.
 **Route:** Pelangi Reach refugee crisis → San Francisco (Yerba Buena/King) → ruined Washington (Lincoln) → San Francisco falls / Union breaks / Awakening War → strongman-by-proximity window → Hawaiʻi temporary refuge (oath/work-armor/lessons) → distant war-corridor coordination → hearing / relinquish → Hopi visit by invitation → Colorado mountain shared-garden coda.
 **New war:** WWIII's hottest phase is past, but its armistices leave blockades, drone fleets, proxy forces, and mobilization systems intact. The San Francisco registry seizure and coordinated Eastern Mandate strikes ignite the **Awakening War** (working public name), a distinct multi-front conflict over who may register, conscript, synchronize, shelter, or destroy awakened people. The Union **breaks** into rival islands; Eli inherits real coordinating power **by proximity** (not by conquering the capital), then must relinquish. Outcome polity is **more decentralized** (Founders-shaped recoverable parts — **what survives collapses**). The Continental Union remnant, Eastern Mandate, Crane's apparatus, Sol's coalition, contractors, and local defenses enter for different reasons; none controls the whole. Book III makes this war bodily and domestic. Its recurring obscenity is **male expendability**: young and working-age men are treated first as probable fighters, then as mobilizable strength, then as acceptable loss. Women, children, elders, and civilians remain fully visible, but the story refuses to make a man's death less grievable because duty was assigned to him.
 

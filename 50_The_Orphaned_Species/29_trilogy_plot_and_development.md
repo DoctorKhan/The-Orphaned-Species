@@ -1,5 +1,7 @@
 # Trilogy Plot & Development — Spine Hub
 
+> **ROUTE SUPERSESSION — LOCKED 2026-07-26:** `58_sanxingdui_climax_lock.md` governs all volume allocations. Book I culminates at Sanxingdui (Rasel recovered; distributed Tree of Life recognized; Emrys taken). Göbekli / Mesopotamia move to Book II. Sanxingdui is no longer a Book III-first reveal. Older allocations below are quarry until reconciled.
+
 > **Status:** navigation and synthesis for **plot mechanics** across three volumes. **Chapter spines:** `31_volume_I_beatsheet.md` (Vol I), `32_volume_II_beatsheet.md` (Vol II), `33_volume_III_beatsheet.md` (Vol III) — romance cost + M/I/A audits per chapter. Open structural commitments: `99_open_questions.md` Priority 2–3. Discovery order: `17_reveal_order_and_reader_impact.md`. **Pitch / clue-chain gate (HIGH PRIORITY):** `55_series_pitch_and_comps.md`. Life/Knowledge through-line: `22_life_technology_and_two_trees_spine.md`. Cast/plot intersection: `26` Parts V–VI.
 
 > **POV — LOCKED:** Eli-dominant close third present; Wren and Somchai are the only recurring away lenses; one scene holds one viewpoint. Plot cards that say “ensemble” describe action only. Governing switch test and exact volume deployment: `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED* and beat sheets `31`–`33`.
@@ -70,7 +72,7 @@
 
 **Steady knowledge — LOCKED:** The real spiritual practices in the trilogy develop calm, focused, mature perception. They teach a person to feel instinct without automatically obeying it. A master practitioner's steadiness can be socially felt as melam, producing ni in observers, but the practitioner is not thereby a god or ruler. Eli's practice arc is toward this steadiness: not emotional numbness, but freedom from automatic command.
 
-**Motor:** Books I–II follow a **mother-clue trail** through a westward maritime pilgrimage (Malacca → Thailand witness → Gulf/Mesopotamian evidence → Göbekli → Europe → Albion) while psion war and the Charkha close around Eli. **Book III changes engines:** after Maren's release spreads awakening, Pelangi Reach, the **Thailand river cooperative**, Somchai's clinics, Wren/Asha threshold houses, and open Albion attempt a distributed network under pressure from control and liberation factions. **Burden:** post-breach web-noise, then public awakening without civic capacity. **Temptation:** Books I–II—amplifier and chosen-one identity; Book III—**keep the strongman inheritance** and forced synchronization. **Positive proof:** mother released at the end of Book II → Union breaks → Eli holds real power by proximity → relinquishes under judgment → coexistence survives as decentralized recoverable parts.
+**Motor:** Book I follows the parent trail north through Malacca and Thailand to **Rasel at Sanxingdui**. Book II follows Maren's evidence west through Mesopotamia / Göbekli and Europe to Albion. **Book III changes engines:** after Maren's release spreads awakening, Pelangi Reach, the **Thailand river cooperative**, Somchai's clinics, Wren/Asha threshold houses, and open Albion attempt a distributed network under pressure from control and liberation factions. **Burden:** post-breach web-noise, then public awakening without civic capacity. **Temptation:** Books I–II—machine ownership and chosen-one identity; Book III—**keep the strongman inheritance** and forced synchronization. **Positive proof:** father recovered at the end of Book I → mother released at the end of Book II → Eli holds real power by proximity → relinquishes under judgment → coexistence survives as decentralized recoverable parts.
 
 **Geographic lock for Book III:** Pelangi Reach is the originating refuge and emotional home, not the final political endpoint. The sequence is **Pelangi Reach → San Francisco civic passage → ruined Washington, D.C./relocated-government negotiation → Wren's boundary and bounded compact → Hawaiʻi temporary refuge and hearing → Hopi visit by invitation → Colorado mountain settlement**. Hawaiʻi is the locally governed place where displaced people are received and Eli learns **aloha + kuleana** (presence, care, right-with-responsibility, finite welcome); it is not a front, base, or military prize. San Francisco's Yerba Buena Gardens supplies living civic memory before the capital repeats the old republic's centralizing failure; ruined D.C. supplies the dead capital and Lincoln image. The Hopi visit supplies the large-scale organization lesson; Colorado is one settlement among peers, not a capital. The network's reform spreads through replication and negotiation rather than Eli's personal conversion of the state.
 
@@ -110,7 +112,7 @@
 
 **Geography rule:** each leg must **force a decision**, not decorate. Eli knows only the **next testable lead** until Albion late.
 
-**Locked allocation (2026-07-12; revised 2026-07-16):** **Göbekli is the Book I climax.** Multiple European/Albion sites occupy Book II: Rollright and Men-an-Tol prepare the route, Stonehenge is the relay discovery and Cuno transmission, and **Avebury is the inhabited landscape climax where Maren is released**. Book III is no longer another pilgrimage leg; it is the distributed-community story.
+**Locked allocation (revised 2026-07-26):** **Sanxingdui is the Book I climax.** Göbekli / Mesopotamia move into Book II before the European/Albion chain: Rollright and Men-an-Tol prepare the route, Stonehenge is the relay discovery and Cuno transmission, and **Avebury is the inhabited landscape climax where Maren is released**. Book III is the distributed-community story.
 
 ---
 
@@ -234,8 +236,8 @@ DEEP TIME (author bible):
   Men-an-Tol  = threshold / bridge stone (personal + network)
 
 PRESENT PLOT (Eli's path):
-  Vol I   — Asia maritime → **Thailand witness** → Gulf/Mesopotamia → **Göbekli CLIMAX** (Emrys taken)
-  Vol II  — post-Göbekli: Mesopotamian ARTIFACTS + Europe broken grid → Albion release
+  Vol I   — Asia maritime → **Thailand witness** → **SANXINGDUI CLIMAX** (Rasel recovered; Emrys taken)
+  Vol II  — Mesopotamian archive → **Göbekli** → Europe broken grid → Avebury/Albion release
   Vol III — Pelangi Reach + distributed community network → accountable coexistence
 ```
 
@@ -262,10 +264,12 @@ The route is **not** "visit every sacred site." It is:
 1. **Human clue** (witness, mother's tune, packet) → Malacca.
 2. **Instrument data** (archive polarity) → maritime leg.
 3. **Living detector** (crop/paddy growth) → **Thailand**.
-4. **Textual dispute** (Adapa, King List, plaquette) → Gulf/Mesopotamia **leg** (Vol I Ch 15–16).
-5. **Buried interface** (Göbekli) → **Vol I climax** (Ch 13); Emrys taken.
-6. **Lossy western object** (Cuno–Derw) → Europe (Vol II).
-7. **Node convergence** (Rollright → Stonehenge → Men-an-Tol) → Albion climax (Vol II end).
+4. **Surviving polarity series + conservation record** → Sanxingdui (Book I).
+5. **Rasel's sabotage + distributed living route** → recovery / Emrys capture.
+6. **Transfer code + Mesopotamian textual dispute** → Göbekli (Book II).
+7. **Lossy western objects and living witnesses** → Europe.
+8. **Node convergence** (Rollright → Men-an-Tol → Stonehenge relay) → Avebury /
+   Albion climax.
 
 Full object list: `35_artifact_chain.md`. Wrong readings must **cost** something (`35` governing rule).
 
@@ -329,23 +333,28 @@ Dangers, per no-sides: the ply is the lever on any Weaver — capture one, steer
 
 **The Unranked — those who leave the loom (named 2026-07-22; the order's ronin).** Weavers who leave the houses do not vanish and are not expelled into strangers: they become **Unranked** — outside the houses' standing, inside the order's memory. *You can leave the loom; you cannot leave the ledger*: the Weavers always know who has gone, roughly where, and roughly what they've become, because keeping track of threads is the whole craft — monitoring, never command. The Unranked are not an order; they are **a status that organizes itself** — loose cells of leavers running the work the houses won't: contact-range operations, fast extractions, dirty trades, knife-distance interference with registries and the harvest apparatus. Doctrine of the split in one line: **the houses keep; the Unranked strike.** The houses regard them the way a loom regards a loose thread — with worry, with use, and without disowning: an Unranked cell may be quietly fed a route, a warning, a blessing. This is the mechanism that lets a house **monitor Wren closely enough to bless the Eli pairing without her knowledge** (`40` § The Weavers' Net, Eli/Wren lock). Dangers, per no-sides: no house audits an Unranked ledger — falsifications compound unanswered; cells burn out, tip mercenary, or get harvested; and the order's monitoring is itself a quiet claim the Unranked never consented to — surveillance wearing the face of care, the registry problem inside the family's own house.
 
-**The crafts — divisions within the order (named 2026-07-22; Ajah-analog, loom-named).** The Weavers divide by craft, not rank — a Weaver belongs to a house by residence and to a **craft** by work, and may change crafts the way a hand moves on a loom:
+**The crafts — divisions within the order (LOCKED 2026-07-26; four crafts — trim the loom).** The Weavers organize on **four axes**, not one Ajah taxonomy: **place** (house → harbor branch → corridor), **craft** (work), **status** (house Weaver / Unranked / allied), **bonds** (ply, marriage knot, formative — not crafts). They divide by craft, not rank — a Weaver belongs to a house by residence and to a **craft** by work, and may change crafts. Loom language stays where it earns (Net, loom, Unranked, knot, Weft letter); not every job is a textile stage.
 
-- **Warp** — the long threads: memory, lineage, initiation, the ledgers kept in heads. The elders' craft.
-- **Weft** — the crossing threads: routes, corridors, movement of people and goods. (Rowan is Weft.)
-- **Spinners** — thread from raw fiber: the threshold crafts — holding adolescents through the fever years, the plying of trainees. The source of most plies.
-- **Menders** — repair before replacement: bodies, tools, houses, disputes. The chief carriers of the lay teachings.
-- **Dyers** — plants, remedies, household science under the test-and-record ethic; what works, what harms, recorded honestly.
-- **Knotters** — the Net's ties: matches, marriages, placements, godparenthood. The matchmaker craft.
-- **Selvage** — the finished edge that keeps cloth from unraveling: watch, protection, quiet defense of houses and routes.
+**Four crafts:**
 
-Craft rules: no craft outranks another; the crafts argue (Warp vs Weft is the standing quarrel — keep vs move); a house needs several crafts to be a house; the **Unranked** stand outside all crafts and are missed by each differently. On-page discipline: crafts surface as *what a woman does*, never as taxonomy — the reader assembles the structure the way Eli does, by watching who fixes, who remembers, who moves, who ties.
+- **Warp** — memory, lineage, initiation, house law, ledgers kept in heads; **threshold years and ply recognition** (absorbs retired *Spinners*). The elders' craft.
+- **Weft** — routes, corridors, movement of people and goods, Weft letters. (Rowan is Weft.) Standing quarrel with Warp: *keep vs move*.
+- **Knotters** — matches, marriages, placements, godparenthood. The matchmaker craft. (Asha is Knotter.)
+- **Dyers** — plants, remedies, household science, body-care under the test-and-record ethic; what works, what harms, recorded honestly (absorbs healing half of retired *Menders*).
+
+**Not crafts (retired names = quarry only):**
+
+- **Spinners** — folded into **Warp** (threshold holding + plying).
+- **Menders** — body/remedy → **Dyers**; tool/house repair and ordinary disputes → house competence; law/memory disputes → **Warp**.
+- **Selvage** — watch/defense is **house duty** or **Unranked specialty**, not a peer craft. Masculine-leaning edge work has no warm craft-home.
+
+Craft rules: no craft outranks another; a house needs several crafts to be a house; the **Unranked** stand outside all crafts and are missed by each differently. On-page discipline: crafts surface as *what a woman does*, never as taxonomy — the reader assembles Warp / Weft / Knotter / Dyer the way Eli does, by watching who remembers, who moves, who ties, who tends.
 
 **The missing male order (author direction 2026-07-22 — the diagnosis).** There is no male equivalent, and the book treats that absence as **load-bearing civilizational damage**. Men's keeping-knowledge exists only in fragments — Babaji collecting the lost, Pak Din's chain ("you'll be a link — that's the payment"), Khun Dang feeding travelers, Suresh's freight-honor — individual links with **no chain-order to hold them**: no houses, no plies, no crafts, no lay curriculum with their name on it. **The Harbor Thread (LOCKED 2026-07-24)** is the nearest thing at scale — mostly male **underground**, **accepted but not spoken**, sorting men into **front posts** while moving corridor knowledge — but it remains **segmented, uninitiated, and unkept** as an institution; men hold threads, not an order. **Weavers' polite blindness:** the Net would ignore it entirely if it could. What organizes men at scale is the engine's institutions — armies, crews, gangs, corps, registries — hierarchies that *spend* rather than keep. Two consequences run through the whole trilogy: **the decayed infrastructure everywhere on the page is the symptom** (maintenance is keeping; a civilization whose male half has no keeping-institution cannot maintain what it builds — the half-built towers, dead elevators, patched engines are not war damage only; they are the missing order made visible), and **male expendability** (Book III lock) is its human face — men become mobilizable strength and acceptable loss because no institution files them as *kept*. The thesis line: the Weavers survived the collapse because keeping was organized; the engine's men had only spending, organized. **Male bonding — where it lives across the trilogy (author direction 2026-07-22).** Men in this world have two bonding channels, both unkept, and the trilogy stages them in sequence. **Books I–II: the elder channel** — the surviving male transmission line is vertical, elder to younger, one man at a time: tea poured, a chain explained, a craft shown, a warning given. The drafted Vol I already runs entirely on it (Babaji, Suresh, the chandlery man, Ông Bảy, Pak Din, Emrys — every male bond Eli forms is with an older man keeping him), while male *peer* bonds are thin and severed (Kiran, taken by the lane) — which is the diagnosis in miniature: without an order, men bond up the age ladder or not at all. These elder bonds are the keeper chain's fragments, and they are how the lay teachings reach men. **Book III: the war channel** — mass male bonding arrives the only way the engine ever provided it: comradeship under fire, the unit, the foxhole dyad — the male equivalent of the ply, forged in combat instead of training, intense, primal, and *spent* the moment the engine is done with it (demobilization as unbinding-without-rite: the source of the raider bands — bonded men with nowhere to carry the bond). **The cloisters' deepest function follows:** as the Weavers harvest teen-bonds, the cloisters **harvest war-bonds** — converting comradeship from the spending register into the keeping register: the unit becomes the chain; the men who held a perimeter together become the men who maintain a district together; the bond survives the war instead of dying with it. Elder channel and war channel meet in the cloisters — the old men teach, the war-bonded cohorts carry — and that junction is the male order being born. Craft rule: male bonds are shown almost wordless (work shared, watch kept, a cigarette moved to the other corner of the mouth); the letter culture's absence is their texture — until, perhaps, late in Book III, one cloister man writes another a letter, and does not know how to sign it.
 
 **The inverted order (author direction 2026-07-22 — the postwar gender settlement; street labels LOCKED 2026-07-24, Thread rev. B).** Because keeping was organized and spending was not, **the Hinge** settled asymmetrically: **women hold most functional roles** — clinics, kitchens, records, routes, markets, water, the entire civil layer (the drafted Vol I already shows it: every competent authority on-page is a woman; the men are marginal, service-bound, or damaged). For men three fates — two named in public, one not: **house** — visible acceptance as **house men**, servile civil layer, belonging without standing — **Thread** — **underground acceptance** as **Thread men**: the Harbor Thread routes witness and cargo, **sorts remaining male leaders into front posts** (harbor captain, facility lead, founder/**CEO** as target and liability — **CEO is a dangerous occupation**), **used but not spoken**, **Weavers' polite blindness** (the Net would ignore the Thread entirely if it could) — or **Extra**: **Extras**, rejected, raider pool, bride-theft economy — *"he went Extra,"* *"he's an Extra"* (insult deliberate: disposable as film extras). Against Extras, women's communities field **defense drones** — cheap, war-surplus, autonomous enough — and the drone perimeter is the settlement's hardest edge: it works, it saves women's lives nightly, *and* it is summary justice by remote, the engine's logic wearing the keepers' faces. **No-sides guardrails (firm):** Extras and raiders stay legible; drone justice morally expensive — at least one strike hits a man who came to *ask*; house men are an indictment, not a virtue; Thread is necessary underground, not romantic outlawry; no character delivers the diagnosis as speech — texture, checkpoints, grief.
 
-**The burden falls on masculine-leaning women (author direction 2026-07-22).** The vacated spending-work does not vanish; it is **conscripted onto the women temperamentally nearest it** — the runners, strikers, enforcers, drone operators, Selvage watch-keepers. They carry the absence: defense, interdiction, summary force, the knife-distance work, and they carry it **doubly unkept** — not held in the old women's ways (they are the wrong shape for the settlements' warmth), not filed as anything else (no order exists for what they've become). They are the settlement's load-bearing wall that nobody maintains — the infrastructure-decay diagnosis written into persons. **Wren is the type specimen:** the striker whose intensity may never have been fully chosen, doing vacated work at knife distance, wanting above all to be held and offered a world with no institution that holds women like her. Every drone operator behind every perimeter is a cousin of hers.
+**The burden falls on masculine-leaning women (author direction 2026-07-22).** The vacated spending-work does not vanish; it is **conscripted onto the women temperamentally nearest it** — the runners, strikers, enforcers, drone operators, house-watch and Unranked edge workers. They carry the absence: defense, interdiction, summary force, the knife-distance work, and they carry it **doubly unkept** — not held in the old women's ways (they are the wrong shape for the settlements' warmth), not filed as a craft (watch is duty or Unranked specialty, not a peer home among Warp/Weft/Knotter/Dyer). They are the settlement's load-bearing wall that nobody maintains — the infrastructure-decay diagnosis written into persons. **Wren is the type specimen:** the striker whose intensity may never have been fully chosen, doing vacated work at knife distance, wanting above all to be held and offered a world with no institution that holds women like her. Every drone operator behind every perimeter is a cousin of hers.
 
 **"Not much better" — the settlement's verdict on itself (author direction 2026-07-22).** The founding myth — *men are too dangerous to have around; men caused the wars* — is partly true and functions as **the renaming move**: blame assigned to a sex so it need not be assigned to the engine. And the evidence accumulates on-page that the inversion changed the operators, not the machine: drone perimeters are the registry logic with wings; cohort lists still fill; quiet dominions form inside women's institutions (the fallen Weaver house, the Knotter who compels, the monitoring that never asked); the masculine-leaning women are spent exactly as the engine's men were. **The thesis at gender scale: sides don't fix engines.** The wars were not maleness; they were unkept spending — and a settlement that keeps only half its people, and only the right-shaped half of that half, is running the old machine at half power and calling it peace. No character says this either. The reader assembles it from the drone strike, the raider's face, Wren's exhaustion, and the fallen house — the same way every diagnosis in this book arrives.
 
@@ -412,9 +421,12 @@ In Malacca, the local **Weavers' harbor branch** moves through chandleries, thre
 | **I — Hearth & breach** | Planted song → Malacca; Custodians + Wren light-cross; breach (asphyxia); **overload + hunted** | Lead is bait; can't return to Pelangi Reach |
 | **II — Unstable sea** | Archive data; wrong/planted clue; growth anomaly; grounding | Lines break; maps suspect; **first witness site contact** (Ila midpoint) |
 | **III — Growth & choice** | Forming line; Ila stabilization; two teams fight; hesitation over **agricultural evidence**; Wren forces evacuation | Incomplete override; community knowledge points west |
-| **IV — Göbekli & loss** | Sealed-interface race; Aru/Daskar; selection/control scar; Emrys error | **Emrys taken**; partial read survives; Nephilot identity remains unresolved for Book II; romance **rupture** |
+| **IV — Sanxingdui & loss** | Conservation anomaly; distributed Tree; Rasel's coerced apparatus; living-route extraction | **Rasel recovered; Emrys taken**; Maren complicity disclosed; romance ruptures under the cost |
 
-**Vol I agricultural-witness sequence (LOCKED 2026-07-23):** **Thailand** river-valley rice/aquaculture community — protect people, lose the cleanest clue; grower knowledge points onward toward the western corridor. **Mekong/Vietnam retired.** **Vol I climax (LOCKED #7):** Göbekli Tepe — sealed-interface race; Emrys taken.
+**Vol I sequence (LOCKED 2026-07-26):** Thailand's river cooperative protects
+people and preserves a partial polarity series; that fragment points north to
+Sanxingdui. The climax recovers Rasel through a distributed living route and costs
+Emrys his freedom.
 
 **Not yet on-page locked:** exact South Asia geography; Wren's Malacca extraction identity; Hassan fate; rival team nationality Act III.
 
@@ -424,14 +436,19 @@ In Malacca, the local **Weavers' harbor branch** moves through chandleries, thre
 
 **Dramatic question:** Can Eli pursue truth without instrumenting people?
 
-**Route (macro):** opens **post-Göbekli** (Emrys absent) → westward transfer corridor (Bosporus/Thrace/Balkans; Hassan/Maren reveal) → **Europe** (dead zones, Pömmelte, broken-line church) → **Stonehenge / Albion** → **Maren release**. The Mesopotamian/Adapa material belongs to Book I and is not repeated here.
+**Route (macro):** opens post-Sanxingdui with Rasel present and Emrys absent →
+Mesopotamian archive / Göbekli → Bosporus/Thrace/Balkans (Hassan/Maren reveal) →
+Europe (dead zones, Pömmelte, broken-line church) → Stonehenge relay →
+Avebury/Albion → Maren release.
 
 ### Act I — Bodies and crossings *(Ch 15–16)*
-- Opens **post-Anatolia / post-Göbekli** — Emrys **taken** at Vol I Ch 13; the party moves west, not back toward the Gulf.
+- Opens after Sanxingdui; Rasel travels with the group and Emrys survives only in
+  notes, objections, and the transfer code until his Book III return.
 - Healer + Eli reconverge (independent clue chains).
 - Tem record; Wren vs Eli objective **open conflict**; bills Vol I rupture (Ch 15).
 - Adapa / Qingu / Mesopotamian traces (human scale); **patriarchy chord** at domestic scale (`37` § *Patriarchy*).
-- Aru vs Daskar disagreement already **clarified Vol I** — artifact evidence continues here.
+- Aru and Daskar clarify at Göbekli here, countering Sanxingdui's living relation
+  with selection, burial, and control.
 
 ### Act II — Mother truth *(Ch 17–18)*
 - **Midpoint (Ch 17 — LOCKED):** mother's **body dead**, spirit **tethered** in western web — **no clean address**. **Maren suppression scene** — how she was taken (`99`).
@@ -449,12 +466,15 @@ In Malacca, the local **Weavers' harbor branch** moves through chandleries, thre
 **Resolution:** partial Cuno/Derw + living network → Vol III; Albion likely but not confirmed until independent evidence agrees.
 
 ### Priority 2 — RESOLVED (#7–#10 locked in `99`)
-- **#7** Göbekli race — **Vol I** (`31` Ch 13).
+- **#7** Sanxingdui extraction—Book I; Göbekli race—Book II.
 - **#8** Healer specifics — Somchai trunk Ch 18.
-- **#9** Emrys error — **Vol I Göbekli**.
+- **#9** Emrys capture—Book I Sanxingdui; his earlier maps and later custody shape
+  the Book II Göbekli leg.
 - **#10** Load-bearing artifact subset (5–6 objects).
 
-**Chapter spine:** `32_volume_II_beatsheet.md` (Book II Ch 1–7). The westward transfer carries Hassan/Maren truth; dead zones, Pömmelte, broken-line church, and Nephilot trail then lead to Albion. Adapa and 4.2-ka remain Book I material.
+**Chapter spine:** `32_volume_II_beatsheet.md` (authoritative ten-chapter rebuild).
+Mesopotamia and Göbekli lead into the transfer corridor; dead zones, Pömmelte,
+Rollright, Men-an-Tol, and Stonehenge then lead to Avebury.
 
 ---
 
@@ -503,10 +523,12 @@ In Malacca, the local **Weavers' harbor branch** moves through chandleries, thre
 ### Clue trail
 - **One clue at a time** — witness → archive polarity → wrong agricultural lead → forming line → partial Cuno/Derw → Albion convergence.
 - **Planted/false clues** required (Vol I wrong lead; ring lure from #1).
-- **Community knowledge** survives when Eli's evidence doesn't (Vol I **Thailand** hesitation + Göbekli partial read).
+- **Community knowledge** survives when Eli's evidence doesn't (Thailand's
+  redundant records + Sanxingdui conservation labor).
 
 ### Psion war escalation
-- Vol I: Custodians as field face; teams contest formations; **Emrys taken at Göbekli (Ch 13)**.
+- Vol I: Custodians as field face; teams contest formations; Emrys taken at
+  Sanxingdui after Eli recovers Rasel.
 - Vol II: war as policy; healing rumor; mother tether.
 - Vol III: factions converge on charged grounds; psionic battle at stones; **aftermath ≠ battle**.
 
@@ -529,7 +551,7 @@ Full 22-step table: `05` §8. Rule: **each revelation changes a decision**; max 
 
 Key hinges:
 - **#6** Seven separate (Vol I midpoint)
-- **#7** Personal Manual Override (Vol I Göbekli climax)
+- **#7** Personal Manual Override (Vol I Sanxingdui climax)
 - **#11** Mother tether (Vol II midpoint)
 - **#12** Collective Manual Override (Vol II end)
 - **#19–#22** Grid souls, mother chain, amplifier release, coexistence law (Vol III)
@@ -541,7 +563,7 @@ Key hinges:
 | Plot beat | Character proof |
 |---|---|
 | Vol I **Thailand** witness — hesitate between people and agricultural proof | Wren forces evacuation; **Malai** cooperative pays; Eli carries the unfinished choice |
-| Vol I Göbekli — choose people over complete record | Eli completes Manual Override; rupture; Emrys error on page; **Emrys taken** |
+| Vol I Sanxingdui—choose distributed living relation over the clean machine record | Eli completes Manual Override; Rasel recovered; Emrys taken; reunion refuses innocence |
 | Vol II — trade fork | Wren third loyalty |
 | Vol II — Wren custody instinct | Rowan's person-first recovery limit; Wren accepts correction before romantic renewal |
 | Vol II–III — plural V | Wren/Rowan + Wren/Eli named separately; Rowan/Eli non-romantic; formative durability never substitutes for consent |

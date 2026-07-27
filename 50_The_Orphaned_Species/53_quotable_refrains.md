@@ -71,7 +71,7 @@ Each major mouth owns **one rhetorical function**. Drafting rule: one quotable p
 | **Crane** | Ch. 17 mercy — cruelty as order | File, continuity, recoverable strength |
 | **Sol** | Armed prophet — bill comes either way | Necessity over soul; Vol II+ |
 | **Maren** (text) | Index ethics — names as paths | Rootbook marginalia |
-| **Hassan** | Witness morality — person over object | Wedding ring vs living man |
+| **Hassan** | Witness morality—person over object | Rasel's wedding ring vs living man |
 
 ---
 
@@ -97,7 +97,7 @@ Each entry: **line · speaker · first seed · repeats · spread guard**
 ### 3. Map over territory
 - **Line:** *"Map over territory"* (diagnosis, not sermon — narrator or Eli catching Emrys)
 - **Speaker:** Eli learning Emrys's error name
-- **Seed:** Vol I Ch 10+ (Göbekli prep)
+- **Seed:** Book I Ch 10+ (northbound choice); deepen during Book II Göbekli prep.
 - **Repeats:** Emrys slip at tell; Eli's inquiry; any model mistaken for ground
 - **Spread:** usable in any field — science, politics, relationships
 

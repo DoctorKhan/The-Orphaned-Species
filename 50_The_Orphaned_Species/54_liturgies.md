@@ -208,6 +208,48 @@ Book I = damaged but functioning reopening (`23`). Book II–III = **cascade of 
 
 ---
 
+## Body score — anti-parade dance (LOCKED 2026-07-26)
+
+The full Parade Liturgy at the Vol III seasonal gathering is not speech alone. It is a **room's body** refusing spectacle with the same energy shape as the Cube chant. Plant satisfying sounds and motions early so Ch 10 reads as recognition. Do **not** name *dance* as doctrine; show the room moving.
+
+### Score bank (use; do not dump)
+
+| Kind | Seeds that earn feeling |
+|---|---|
+| **Sounds** | One bell then silence; bare feet on wood/earth; clap that starts messy and locks; staff-tips meeting; rice into a metal bowl; four slow guitar chords; engine under a song; two-syllable Cube chant; unfinished last clap |
+| **Motions** | Heel-to-toe rounds; spiral in/out; drop-on-purpose then catch (staff-twirler); one faces out while one turns in (ply watch); *stand behind the hands*; hands weaving past each other (keep vs move); hundred hands lifting; basket fill in silence |
+| **Images** | Firelight feast on a hill; paddies as mirrors; night-market bulbs; Cube bloom sealed; mountain eating sky; green cord knot; kids dancing badly and meaning it |
+
+### Architectures
+
+1. **Parade (antagonist)** — Cube/Circuit: sync bass, two-syllable chant, dancers as payroll beauty, clap that finishes too clean.
+2. **Gathering (deep-time rhyme)** — Göbekli/Aru: strangers arrive hungry → feast → stones walked upright → later burial as keeping (grief and craft same motion).
+3. **Anti-parade (Vol III service)** — seasonal gathering sequence (not Eli-led):
+
+| Beat | Body |
+|---|---|
+| Arrive | Many paths into one room; no processional aisle owned by one face |
+| Settle | One bell; silence held; bare feet or work shoes — no stage shoes |
+| Antiphon | *I alone* call-and-response while the room **slowly spirals** or walks a heel-to-toe ring |
+| Weave | Two loose choruses cross (keep/hold center vs move/thread through) — Warp/Weft quarrel without craft names |
+| Soften | Clap starts messy, finds unison, **leaves the last clap missing** |
+| Work | Tea, wash bowl, garden — ordinary motion is the coda |
+
+**Counter-rhyme rule:** Cube finishes every phrase; the service leaves one beat empty for the room to keep.
+
+### Vol I seed map (body, not liturgy lines)
+
+| Place | Plant |
+|---|---|
+| Cherry Cube | Spectacle sync; dancers; chant; too-clean finish |
+| Malacca market | Kids dance badly; almost-lock stamp; unfinished clap |
+| Pai road | Staff drop-on-purpose; chestnut drum sparks |
+| Wat | Heel-to-toe rounds; shared count with no leader |
+| Khun Dang | Four chords as snare-time under the hunt |
+| Göbekli (Aru/Daskar) | Feast + hundred hands; later silent basket fill |
+
+---
+
 ## The Parade Liturgy — fragment index
 
 Novel beats reference **F1–F10**, not the full liturgy.
@@ -338,7 +380,7 @@ The ending runs **two teachings**, one personal and one civic. Both refuse the p
 | Beat | Deploy |
 |---|---|
 | Hopi lesson — coordination without permanent sovereign | Tao 65 **enacted** — Eli listens; hosts decide; no single answer imported |
-| Seasonal gathering | **Full Parade Liturgy** first — not Eli-led |
+| Seasonal gathering | **Full Parade Liturgy** first — not Eli-led; run **Body score** anti-parade sequence (bell → spiral/ring walk → antiphon → messy-to-unison clap with last beat missing → ordinary work) |
 | Immediately after | **Host rule** or one-breath Ch 27 — *Teach not-knowing. / Do not keep it.* Then ordinary work (tea, garden, wash bowl) |
 | Eli at outer teahouse | **Enacts Ch 27** — pours tea, asks what the visitor **observed**; does not interpret for them (`33` tea image) |
 | Shared garden | **Ordinary life** — grafted seedlings, not Eli's inheritance; *content with an ordinary life* |

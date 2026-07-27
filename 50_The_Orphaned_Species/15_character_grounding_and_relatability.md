@@ -341,9 +341,18 @@ Bangladesh should remain an unreturnable or not-yet-returnable home. The reason 
 
 **Off-page lock — LOCKED 2026-07-23:** Eli does **not** visit Bangladesh on-page in any volume. No village feast, planting beat, or near-miss return solved in prose. Lost home is carried through Bangla speech, food memory, Meridian City queue humiliations, Shireen's encrypted messages (garden photo, corridor warnings), and the Pelangi Reach exile garden.
 
-**Father's capture — locked shape (rev. 2026-07-24).** **Rasel Khan** — legendary physicist + gardener in Eli's memory. **Bangladeshi passport** → **Mandate** claim. Visibility (science + dissent) entangled with hunt for Maren; family fled Bangladesh. **Extraction night:** attack + **passport split** — Rasel to **Mandate lab**; Maren (Albion passport) to the **Charkha Measure** chain; Eli **TBI**. Keeper net lore = dead; **pier (Ch 1):** taken alive, unrescued. **Eli rescues Rasel — Book III only.** Book II = **rescues Maren** only. Eli's memory = living culture (language, garden, rivers), not legible extraction. Pelangi garden = exile soil + grief without reunion until Book III. Retired: *killed during extraction*; *single chain for both parents*; *father rescued Book II*.
+**Father's capture — locked shape (rev. 2026-07-26).** Rasel Khan—legendary
+physicist and gardener in Eli's memory. Bangladeshi passport → Mandate claim;
+Maren's Albion passport → Charkha chain. Ch 1 reveals both were taken alive.
+**Eli recovers Rasel at Sanxingdui at the end of Book I.** Book II rescues Maren.
+Rasel's return does not restore childhood: he is loving, angry, compromised, and
+able to oppose Eli.
 
-Eli's **fundamental** drive is **parent rescue** — **Maren, Book II**; **Rasel, Book III** (`27` § Fundamental motor). The mother-trail, Malacca, Göbekli, artifacts, and alliances are **means**; he is **not seeking power**. His main emotional need beneath rescue is **home without capture**: grief, abnormal perception, disability, love, work, privacy, and accountability coexisting without state, faction, prophecy, or archive defining him first. Pelangi Reach = temporary made home; Bangladesh = lost home; Book III tests whether mature home exists without ownership — **after** both rescues are addressed on their own terms.
+Eli's fundamental drive is parent rescue—**Rasel in Book I, Maren in Book II**.
+Malacca, Sanxingdui, Göbekli, artifacts, and alliances are means; he is not seeking
+power. Book III tests mature home after both reunions: grief, disability, love,
+work, privacy, and accountability coexisting without any state, faction, prophecy,
+or archive defining him first.
 
 ## Wren and present-tense love
 

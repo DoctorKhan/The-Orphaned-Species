@@ -1,5 +1,7 @@
 # The Rootbook / Word-Web
 
+> **SANXINGDUI TIMING — LOCKED 2026-07-26:** The decisive Sanxingdui break now occurs in late Book I at the Sanxingdui climax, not first in Book III. It breaks Eli's language-tree model into a larger living mesh while Rasel's physics and Thai field data establish the distributed Tree of Life. Book III applies the consequence to the field sail. Governing lock: `58_sanxingdui_climax_lock.md`.
+
 > **HIGH PRIORITY — LOCKED 2026-07-25:** Expertise fantasy and contested decode — **`55_series_pitch_and_comps.md`**. Rootbook opens bounded sections only; reader learns with Eli, often wrong first.
 
 **CANON DESIGN — LOCKED 2026-07-21.** **Maren Holt's** encoded field journal becomes the trilogy's distributed Rosetta: a personal record, comparative linguistic tree, scientific notebook, charged-ground atlas, and unfinished model of the living mesh. Eli deciphers it through travel, collaboration, repeatable measurements, and words recovered in different linguistic branches. **His uncanny connection gift** — leaps between seemingly unrelated witnesses — is the living complement to Maren's encoded tree: he links cognate, site, and measurement before the full proof exists, which looks like oracle-work to others and **working hypothesis** to Emrys (`15` § *Uncanny connection*). It is not prophecy, a universal translation device, or an itinerary planted for him.
@@ -34,7 +36,12 @@ The first locked candidate constellation is thematic rather than exhaustive:
 | **foot / step** | Bengali *pa* through Sanskrit *pada/pad* | Tocharian A *pats*, B *ptsa*; Latin *ped-*; English *foot* | pilgrimage: knowledge that must be traveled bodily |
 | **earth / soil / ground** | Sanskrit *bhū-* / *kṣiti-*; Hebrew *adamah* (field-soil); Bengali *mati* | PIE *dʰéǵʰom* (reconstruction under review); English *earth* / *soil*; AT1 **Ancient Earth** gloss in Maren's margin | charged ground, continuity through place; bridge to site evidence and covenant rhymes |
 
-**Same soil — ring inscription as domestic index — LOCKED 2026-07-25:** Maren engraved Rasel's phrase **same soil** on the wedding ring as family speech that also tags the **earth/soil** constellation in the journal — plain English to evade scanners. Vol I Ch 2: Eli's body reads home, not etymology. The constellation opens **bounded** pages only with another key (name, foot/step, or corroborating witness/site); it never decodes the whole book or names the next city from the band alone. Rhymes forward: AT1 house plaque (`35`), Thai soil maps, Göbekli backfill, Albion matriline — same connective motif at different scales (`99` #1; `35` Three-Circles middle ring).
+**Same soil — ring inscription as domestic index — LOCKED 2026-07-26:** Rasel
+made and wore the wedding ring; **same soil** was his family phrase. Maren had it
+engraved inside as her answer and later used it to tag the Rootbook's earth/soil
+constellation. Book I Ch 2 reads the band as proof of Rasel and home. Only after
+Hassan's Book II testimony does it open Maren's bounded index. It never decodes the
+whole journal or names a destination by itself.
 
 All exact Proto-Indo-European reconstructions, historical derivations, spellings, and Bengali registers require specialist review before manuscript prose. The cognate structure is real; the novel must not flatten inherited Bengali, Sanskrit loans, and learned forms into one process.
 
@@ -66,7 +73,7 @@ The locked turn is:
 
 > **The tree of words sits inside the web of life. It is not the whole web.**
 
-Sanxingdui evidence may reach Eli through a legitimate research relationship, high-quality record, or Mandate-era collaboration rather than requiring the established westward Books I–II route to detour through Sichuan. If the novel later places Eli at the site, that travel must arise from the plot and contemporary custodianship, not from treating the site as his clue.
+Eli reaches Sanxingdui in late Book I because the northbound route, Edda's true proof, and the Mandate's coerced field-physics program converge on **Rasel**, not because the site is a cipher awaiting Eli. Access comes through legitimate research relationships and contemporary Chinese custodianship. Local scholars and conservators already possess the material evidence and interpretive authority; Eli supplies one embodied observation, Rasel supplies field physics, and the Thai cooperative supplies independent living-ground measurements.
 
 ## Trilogy progression
 
@@ -88,7 +95,7 @@ Possible first personal line, subject to prose revision:
 - The **know/recognize** constellation becomes central as Sanskrit, Tocharian, Greek, Germanic, and other branches demonstrate continuity through transformation.
 - The **brother/kin** material rhymes with the group's movement from ancestry toward chosen relationship and with the social danger of turning kinship into rank.
 - At least one trusted key is wrong, one of Maren's readings is corrected by a living community, and one page implicates her voluntary work with Crane.
-- Non-Indo-European comparisons begin to strain Eli's belief that a single human language family explains the pattern; the decisive Sanxingdui break arrives through the Mandate relationship in Book III.
+- Non-Indo-European comparisons strain Eli's belief that a single human language family explains the pattern; the decisive Sanxingdui break arrives through the Mandate/Rasel relationship in late Book I. Book III tests its wider scientific and civic consequence.
 - Cuno's geometry, Derw's transmission, living field behavior, and the journal converge independently on Albion. The Rootbook never contains Albion as a simple destination or Maren's spirit as a recoverable address.
 - Releasing Maren remains a choice against prolonging reunion. The fully decoded journal cannot substitute for letting her go.
 

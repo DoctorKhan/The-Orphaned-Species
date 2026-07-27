@@ -1,4 +1,4 @@
-# Chapter Two — Something of Hers
+# Chapter Two — His Hand
 
 > **File:** `DECISIONS_Chapter_Two.md` (renamed from `DRAFT_Chapter_Two.md` 2026-07-24). **MERGED into `MANUSCRIPT.md` — the manuscript is governing.** This file retains the draft-choice flags as the decision record.
 >
@@ -8,7 +8,14 @@
 
 Four calls I made where canon left room. Each is easy to reverse.
 
-1. **⟦DC-1⟧ — RESOLVED AND DRAFTED (2026-07-22; Wren escort updated rev. Y 2026-07-25).** Full Meridian transit now in-file: **Wren escorts** marina gate → strait pier → pier arch → port shuttle → transit → buses → **causeway hall**; peels off at **document lanes**. Failed evasion (hospitality has a ceiling — the carton buys only *boarded at Johor* on the transfer slip); the arch ("it hasn't met him yet"); Commissioner Ma seed (corridor-logistics notice + the insulin-boats grumble); the **records clerk** (home tongue on page — Bangla in dialogue, not ethnic tag in narration) and the **ring photograph** (surge-recognition before verification; routing metadata carries the chandlery name — two roads, one door, which is why he burns his cover in Malacca); **the cost = his wage ticket**, spent into another man's file (rhymes with Ch 1's "only paper he has left"); the worker maze (badge risk, the hard no with children, the mechanic's clock); Cherry Cube on race night — idol recognition via the **grounding gesture** (two fingers below the collarbone, the long breath, Maren's teaching), one memory ("records are for people you don't intend to come back to — then she came back"), wardrobe-corridor exit, fans scream at a surprise guest, nobody used as a shield; **Circuit escape** on the tire trucks at the last safety car; **Wren at convoy edge** — second sighting (first meet Ch 1 catamaran); deliberately does-not-look with practice (preserving Malacca wrist-catch as operational re-contact); northbound fish boat with the first psionic brush (cutter pressure, the counted doors that stop one beat late). Idol stage name deliberately withheld on-page; the crowd chants two syllables. Provisional naming deferred to cast doc if ever needed.
+1. **⟦DC-1⟧ — RESOLVED AND DRAFTED (ring ownership revised
+   2026-07-26).** Wren escorts Eli through the causeway and leaves at the document
+   lanes. The records clerk shows him a Mandate intake frame: **Rasel's scarred
+   hand beside Rasel's silver-and-brass wedding ring** in an evidence tray. Eli
+   recognizes hand, seam, and *same soil* before verification; routing metadata
+   carries the Malacca contact. Maren engraved Rasel's phrase, but Book I reads the
+   image as proof of the father. The cost remains Eli's wage ticket. Cherry Cube,
+   Circuit escape, convoy, and the first psionic brush remain unchanged.
 
 2. **The three-rings fragment at the breach** (§ breach). `99 #2` permits "one ordered fragment may surface (three concentric circles)." I took the option because it plants the Three-Circles grammar wordlessly before the Meridian tablet names it. Cut it and the breach is pure undifferentiated noise, which is also canon-clean.
 

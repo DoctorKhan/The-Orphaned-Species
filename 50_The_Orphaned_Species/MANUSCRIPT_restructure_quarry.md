@@ -3,7 +3,7 @@
 > **Status: QUARRY, not canon (moved out of `MANUSCRIPT.md` 2026-07-22).** This is the pre-restructure Chapter 2–4 prose. The canonical Chapter 2 is in `MANUSCRIPT.md` (sustained flight ending at the breach); decision flags live in `DECISIONS_Chapter_Two.md`, which absorbed and corrected the usable Malacca material here. Known deprecated elements in this prose — do not restore: the direct Pelangi Reach→Malacca route (canon: southern exit through Meridian City first); the "seven chambers / seven rooms" breach framing (canon: undifferentiated field-noise, `36` §3a); Grid/Nodes/Wire/Conductor capitalized jargon (`95` vocab ban); the King-James register passages (locked voice: present-tense close third); the ring ending in Eli's hand (H3: ring remains with Hassan); the chandlery man/boy as breach rescuers (canon: Salmah); solo-Eli-to-Pai immediately after Malacca; and the Khun Dang / *Hotel California* route (current Thailand material is the short keeper-house grounding/memory hinge in Ch 11).
 
 ---
-## Chapter Two — Something of Hers
+## Chapter Two — His Hand
 
 In the morning the children's train starts its bright useless loop and the waterparks cough their pumps awake. Eli is in the garden pinching pale seedlings when his phone buzzes once — Suresh, no text, only a location pin at the marina that loads slow, three bars and then nothing, then three words when the signal finally catches: *tide tonight. ask me then.*
 
@@ -105,7 +105,9 @@ Eli waits. The water knocks at the hull.
 
 "Your mother came through here. During the worst of it. With a husband — Rasel, the gardener. Bengali. Gone now." Suresh studies the line in his hands. "She ran with the keepers. The ones who hide the children when it comes on them. You were in that net after. That's how you washed up here, isn't it — Pelangi Reach, no papers, Rasel's boy on a wage ticket, keeping his head down."
 
-"She vanished here. Ten years." He looks at Eli, finally. "That's what your net was told — dead, don't ask. I wasn't there for the last of it. The man in Malacca knew her when she was still running. Says he has something of hers."
+"They vanished here. Ten years." He looks at Eli, finally. "That's what your net
+was told—dead, don't ask. The man in Malacca crossed both their transfer chains.
+Says he has your father's ring."
 
 "What band?"
 
@@ -405,15 +407,19 @@ The room goes small.
 
 Eli looks at the ring. The man sees him look and shakes his head before Eli can move.
 
-"It is hers," the man says. "And if you take it up here, now, you waste everything she spent to put it in your reach."
+"It is his," the man says. "And if you take it up here, now, you waste everything
+both of them spent to put it in your reach."
 
 "What is it?"
 
-"Her wedding ring. Your father's work — silver and brass, joined at a seam he never filed smooth." He swallows. "And the thing they used to pull you here. Enough of her in it to make you forget there's a living man in the room."
+"Your father's wedding ring. His work—silver and brass, joined at a seam he never
+filed smooth. Your mother had his words cut inside." He swallows. "Enough of both
+of them in it to make you forget there's a living man in the room."
 
 Below, in the street, someone shouts.
 
-The man reaches for Eli's wrist and misses. "Your mother said if this ever found you, you were to choose the living person over the ring."
+The man reaches for Eli's wrist and misses. "They both said if this ever found
+you, you were to choose the living person over the ring."
 
 Eli stands very still.
 
@@ -433,7 +439,8 @@ The man looks toward the door, then back to Eli.
 
 "Roof— hatch at the end— forget the ring—"
 
-The ring on the bed pulls at him the way the song did. Her thumb worrying the seam when she was thinking. Her voice, low: *same soil.* Her, in his hand if he just closes it.
+The ring on the bed pulls at him the way the song did. Rasel's scarred hand in the
+garden. His voice, low: *same soil.* His father, in his hand if he just closes it.
 
 Eli reaches for the man's arm instead.
 

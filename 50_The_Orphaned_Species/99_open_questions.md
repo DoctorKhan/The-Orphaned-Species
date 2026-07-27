@@ -9,7 +9,8 @@
 - **Shelf:** literary speculative **deep-history conspiracy thriller** — *Da Vinci Code* investigative momentum + *National Treasure* landmark chase.
 - **Conspiracy:** **of the ages** — Charkha Measure = present face of recurring suppression apparatus (pattern, not single bullet).
 - **Win:** release + coexistence + grid unowned — **not** treasure box, bloodline reveal, or protagonist-owned truth.
-- **Motor on pitch:** parent rescue (Maren Book II, Rasel Book III) — power accretes as misread, not motive.
+- **Motor on pitch:** parent rescue (Rasel Book I, Maren Book II)—power accretes
+  as misread, not motive. Book III changes engines to governance and consequence.
 - **Revision gate:** every chapter pass uses `55` 10-point checklist (body movement, visual key, institutional texture, wonder beat, domestic cost, etc.).
 - **Vol II drafting:** `55` § *Book II — chapter-by-chapter pitch audit* + `32_volume_II_beatsheet.md` chapter cards.
 - **Vol III drafting:** `55` § *Book III — chapter-by-chapter pitch audit* + `33_volume_III_beatsheet.md` chapter cards.
@@ -30,10 +31,13 @@ Do not solve these by adding more mythology. Solve them by deciding who wants wh
 
 ## Priority -1 — trilogy allocation revision (LOCKED 2026-07-12)
 
-- **Book I ends at Göbekli Tepe.** Pelangi Reach → Malacca → maritime/Gulf evidence → sealed-interface race. Emrys is taken at the climax; Eli chooses people over the complete record.
+- **Book I ends at Sanxingdui.** Pelangi Reach → Malacca → Thailand →
+  northbound human doors → Sichuan. Eli recognizes the distributed Tree of Life,
+  recovers Rasel, and loses Emrys to capture at the climax. Mesopotamia and Göbekli
+  belong to Book II.
 - **Book II ends at Albion with Maren's release.** Anatolia → Europe → Stonehenge / Men-an-Tol / tethered ground. Eli **rescues Maren** (trail, reunion, release). The release begins the spreading awakening through the living web.
-- **Book III is the community/network book.** Eli **rescues Rasel** (Mandate lab — locate + extract + on-page reunion). Pelangi Reach, the **Thailand river cooperative**, Somchai's clinic network, Wren/Asha threshold houses, and an open Albion ground attempt durable connection without central ownership. Crane's surviving apparatus pressures standardization; Sol pressures militarized centralization. The climax tests whether temporary coordination can disperse after necessity.
-- **Parent rescue schedule — LOCKED 2026-07-24:** Eli **rescues mother — Book II**; Eli **rescues father — Book III**. **Pier (Ch 1 dawn):** learns both **taken alive**, locations unknown — **not rescue**. Vol I–II after pier: father **alive, unrescued** (Mandate / **Rasel Khan** file). Exact Book III chapter for Rasel rescue TBD.
+- **Book III is the community/network book.** Rasel is already present after his Sanxingdui rescue at the end of Book I. Pelangi Reach, the **Thailand river cooperative**, Somchai's clinic network, Wren/Asha threshold houses, and an open Albion ground attempt durable connection without central ownership. Crane's surviving apparatus pressures standardization; Sol pressures militarized centralization. The climax tests whether temporary coordination can disperse after necessity.
+- **Parent rescue schedule — LOCKED 2026-07-26:** Eli **rescues father — Book I at Sanxingdui**; Eli **finds and releases mother — Book II at Albion**. Ch 1 learns both were taken alive, locations unknown. Rasel's recovery directly costs Emrys's capture and reveals Maren's early complicity.
 
 **Eli's fundamental motor — LOCKED 2026-07-24:** **Parent rescue** is what he is **fundamentally doing** — not seeking power, throne, registry, or permanent command. Malacca, Göbekli, artifacts, alliances, cosmology = **means** or **consequences**. Factions offer power because he is useful on the rescue path; messiah/coordinator accretion in Book III is **misread**, not motive. Craft: scenes should show how the move serves rescue; power temptations land because rescue *seems* to require them. `27` § Fundamental motor; `05` § Desire spine.
 - **Book III opening — LOCKED:** Eli returns to **Pelangi Reach** as a boat of newly awakened refugees arrives under pursuit / exposure pressure. The refuge is divided: close the harbor to preserve the community; admit everyone because awakening changed the moral scale; or create accountable intake that risks becoming a registry. **Wren** argues for signed procedures and worker/resident safety while resisting universalizing one refuge as the network template; Mei insists arrivals are fed and stabilized before classification; founders want to scale and brand the model. Eli coordinates the immediate emergency successfully. The success creates the new danger: residents, outsiders, and allied nodes begin treating his temporary decision as permanent authority.
@@ -196,7 +200,17 @@ See `biological_countermeasures_in_world.md` for the full external-world mapping
 
 **Chapter placement — LOCKED:** Chapter 1 establishes and destroys the Pelangi Reach hearth. Chapter 2 carries the entire southern flight—escape, brief Meridian City processing and ring photograph, Straits passage, Malacca witness collision, pursuit, and asphyxia—and ends with the receiver opening. Chapter 3 is rescue, overload, Wren/Emrys convergence, and choice. The transit locations do not regain standalone setup chapters.
 
-**A witness in newly-reopened Malacca who claims to know what happened to Eli's mother — reached through the harbor, carrying one personal detail and her wedding ring. Half-bait.** Not a cosmological artifact (those enter after the breach); human stakes first. **Mandate political squeeze** at Pelangi Reach (Babaji's cell refused a flagged-carrier transfer and moved suppressed archive material) forces Eli out before he has a quest. In Meridian City, a dissident documenting the Cherry Cube's luxury deliberately accesses a suppressed logistics/medical archive and finds a frame from Maren's extraction-era research showing her silver-and-brass wedding ring. The dissident copies the frame and its Malacca contact metadata before being classified and suppressed. An archive worker routes the evidence through the harbor network; Eli sees it during processing, recognizes the imperfect seam and “same soil” inscription, and follows the contact trail north to Malacca. The photograph is not addressed to him and is not a coincidence; it is the end of a chain of deliberate human choices. The physical ring remains with Hassan. The mother's tune may recur as atmosphere or keeper-network texture, but it is no longer the inciting lure.
+**A witness in newly reopened Malacca claims to have crossed both parents' custody
+chains and carries Rasel's wedding ring. Half-bait.** Human stakes precede
+cosmology. The Pelangi squeeze forces Eli out before he has a quest. In Meridian,
+a dissident accesses a suppressed Mandate logistics/medical archive and finds an
+intake frame showing Rasel's scarred hand beside his silver-and-brass wedding ring.
+The dissident copies the frame and Malacca contact metadata before suppression. An
+archive worker routes it through the harbor network. Eli recognizes Rasel's hand,
+the imperfect seam, and **“same soil,”** then follows the contact north. Rasel gave
+the physical ring to Hassan during transfer. Hassan later crossed Maren's custody
+chain, where she recognized the band and its inscription. The photograph is the
+end of deliberate human choices, not a coincidence.
 
 **The Harbor Thread — LOCKED 2026-07-24 (rev. B):** mostly male **underground** corridor network (Stack, strait, chandlery, witness). **Accepted but not spoken** — polite rooms don't name it. **Weavers' polite blindness** — would ignore entirely if corridors allowed. **Front posts:** sorts remaining male leaders into expendable public roles — **CEO/founder as dangerous occupation**, harbor captain, facility lead, idol schedule. Not an order. **Eli and Thread culture — LOCKED 2026-07-24:** parents taught him **home tongue and cultural rhythm** when young — **useful** in Thread corridors because many Thread men share it; he was **not raised as Thread** (no ledgers, badge math, segment initiation). Culture opens; never owns. Glossary `95`; `40_concepts.md`.
 
@@ -216,15 +230,38 @@ See `biological_countermeasures_in_world.md` for the full external-world mapping
 
 - **Meridian idol connection — LOCKED:** the fictional pop star performing at the Cherry Cube knew Maren as a child/young subject of her early protective-integration work. Maren helped him through an episode and refused to let the program classify him as property. He recognizes Eli through resemblance, a grounding gesture, and the circulated evidence frame; he offers one personal memory of Maren and a plausible backstage/service escape during the Meridian Circuit. He is a person with agency and security obligations, not a secret lore dispenser or convenient permanent ally.
 - **Who carries/controls it:** a witness who was **held alongside the mother and got out** — a real person with their own debt, not a clue-dispenser. (Decide alongside #8 Healer / escape-network specifics whether this witness connects to that network.) Behind the witness, unknown to Eli, a team is using the mother-thread as a lure.
-- **The personal object — LOCKED:** **Maren's wedding ring**, made from visibly joined **silver and brass** with an imperfect seam Rasel made or repaired himself. Maren wore it on a cord while doing fieldwork. The inner surface is engraved **“same soil”** — Rasel and Maren's private promise that two people from different places could make one home, a phrase Eli heard in family life. **Intimate first, concordance rhyme second:** at Vol I Ch 2 Eli reads only home; Maren also used Rasel's English as a **Rootbook index hook** (earth/soil constellation — `52`) and cross-linked it to charged-ground and comparative work (including AT1's **Ancient Earth** line — `35`). The phrase is not GPS or a decoder ring; it is the **domestic register** of the trilogy's connective motif — different forms, one ground; relationship persisting through transformation — rhyming across sites, cognates, and artifacts as Eli assembles the pattern. In captivity, Maren gave it to Hassan because she believed he had the better chance to escape. Hassan knows that she found the seam with her thumbnail and turned the ring when thinking — an unrecorded handling detail that confirms lived proximity.
-- **Ring and Three-Circles Tablet — LOCKED 2026-07-25:** the wedding ring is the **middle ring made portable** — Family (kinship, care, attachment, repair) worn on the body before Eli can read the diagram. It is **not** part of the tablet and not three bands on the band. Vol I order: **ring photograph** (Ch 2, emotional authentication) → **breach fragment** (three concentric circles at Malacca — `#2`) → **physical Three-Circles Tablet** (post-breach archive; Gulf corridor if Ch 2 cannot carry another object — `35`, `BOOK_SUMMARIES_long.md`). The ring on a **registry file** = outer circle (Civilization) capturing a middle-ring object. Book II tablet re-read lands after Eli has **lost** the ring with Hassan — middle-ring break lived, not theoretical.
-- **Why he trusts a weak clue:** the photograph catches the ring's joined silver-and-brass seam and “same soil” inscription. Recognition lands as a **surge** before he can verify provenance. His body lights with certainty before his mind can test the image; his gift and flaw remain fused. The mother's tune may echo nearby as memory or keeper-network texture, but the ring image gives him the Malacca direction.
+- **The personal object — LOCKED 2026-07-26:** **Rasel's wedding ring**, visibly
+  joined silver and brass with the imperfect seam he made himself. Rasel wore it
+  for years; the wear mark and his scarred hand authenticate the intake photograph.
+  **“Same soil”** was Rasel's phrase for two origins making one home. Maren had it
+  engraved inside as her answer. **Intimate first, concordance second:** Book I
+  reads father, garden, and home. In Book II, Hassan reveals that Maren recognized
+  the ring and used the phrase as a bounded Rootbook earth/soil index. It is never
+  GPS or a decoder ring. Rasel gave the band to Hassan during transfer as proof for
+  Eli; Hassan's later contact with Maren connects the two custody chains without
+  changing ownership.
+- **Ring and Three-Circles Tablet — LOCKED 2026-07-26:** Rasel's wedding ring is
+  the middle ring made portable—Family worn on the body before Eli can read the
+  diagram. It is not part of the tablet. Book I order: Rasel intake photograph →
+  physical ring with Hassan → breach fragment → Three-Circles Tablet. A family
+  object in a registry evidence tray shows Civilization capturing Family. Book II
+  re-reads the ring through Maren's engraving and Hassan's testimony.
+- **Why he trusts a weak clue:** the photograph catches Rasel's scarred hand, the
+  joined silver-and-brass seam, and the **“same soil”** inscription in the evidence
+  tray. Recognition lands as a surge before Eli verifies provenance. The ring
+  image and routed metadata give him Malacca.
 - **Why it can't be tested from Pelangi Reach:** the witness won't/can't travel (hunted, dying, or it's a physical handoff they won't trust to monitored wartime comms). The truth only resolves on-site.
 - **What it promises:** **truth, not reunion** — a witness to how she died (seeds the Vol II reveal: dead in body, tethered west). Keep reunion off the table here so "the reunion is the goodbye" still has somewhere to fall.
 - **What it costs by end of Act I:** he forfeits the Pelangi Reach refuge, the compound crew, Mei's terrace, the people who know his name, and the father's garden; and the lead is **half-bait** — following it is what gets him run down and breached (#2), starting the reunion-as-bait engine on page one. Irony to bank: a man whose palms **read bodies** is choked/drowned at the breach, and at the threshold **the receiver opens** to undifferentiated field-noise (not seven lives downloaded — `36` §3a).
 - **Crossing function:** Suresh's supply boat is the last Pelangi Reach threshold, not a sailboat adventure. It develops Suresh as a practical port-runner with guilt and hard limits, plants Eli's basic deck competence, shows Pelangi Reach receding as a real home, and explains the danger of port networks through musicians, chandlery, checkpoints, cargo, quarantine cover, quiet bribes, and people who remember faces.
 
-**Hassan's fate — LOCKED:** Hassan survives Malacca but is **recaptured by the Custodians, acting for the Charkha, before completing the handoff**. Eli sees enough of the two-metal ring to know the lead is real, then loses both Hassan and the object during the breach. The Custodians transfer Hassan through a **Bosporus–Thrace/Balkan holding corridor** because his knowledge of Maren may unlock her sabotaged maps. Hassan returns alive in Volume II custody, carrying first-person knowledge of Maren's imprisonment and complicity that no archive can replace. **Sora quietly leaks the transfer route to Wren** — her first active betrayal of the unit and first conduct-based step toward defection. Hassan's return forces a choice between rescuing a person and recovering evidence. He is harmed and pressured but not retained merely to be tortured on page.
+**Hassan's fate — LOCKED:** Hassan survives Malacca but is recaptured before
+completing the handoff. Eli sees Rasel's ring and chooses Hassan over the object,
+then loses both during the breach. Hassan is valuable because he crossed Rasel's
+Mandate transfer and Maren's Charkha holding chain; his memory can connect Maren to
+her sabotaged maps. He returns alive in Book II with first-person knowledge no
+archive can replace. Sora leaks his route. The rescue again forces person versus
+evidence.
 
 **Still open:** precise Thrace/Balkan holding-site geography and rescue mechanics.
 
@@ -293,7 +330,7 @@ See `biological_countermeasures_in_world.md` for the full external-world mapping
 
 ### The Weavers (order) — LOCKED DIRECTION (2026-07-19; named 2026-07-21)
 
-The Bengali–Malaccan harbor branch is not the whole structure Eli encounters. It is one branch of **the Weavers' Net** — a much wider, women-led transnational order: distributed houses, visiting routes, clinics, kitchens, schools, farms, ports, and repair crews with overlapping contacts and no central command. **Book I integration (LOCKED 2026-07-24):** name the Net on-page from Malacca — knots, ledgers, **Knotter** craft (Asha), **Unranked** cells (Wren), **Weft** letters, harbor-house consent review. **No Malacca queer-household set-piece.** Full Weaver blessing on Eli/Wren remains Book II Ch 5. The order has locally adapted rituals and tests of attention, hospitality, memory, discretion, truth-telling, repair, reciprocity, and declining. It protects people across gender and culture while women retain long-memory and initiation authority. It carries herbs, sanitation recipes, and household cures, but its ethic is test-and-record: inherited knowledge may work, fail, or harm depending on dose, body, and condition. A diluted vinegar-water cleaner and a separate baking-soda-water wash are recurring household practices; for some people the baking-soda facial rinse works remarkably well after expensive products failed, while others experience irritation or worsening. The order preserves both outcomes, records conditions, and treats persistent or scarring acne clinically. It is not a secret army, eugenic sisterhood, bloodline, or shadow government. **Name chosen (2026-07-21): the Weavers** (formerly working name *the Wide Net*) — Bene Gesserit-analogous in function (training, tests, long memory, initiation authority, quiet influence beside power) with the eugenic/messiah-engineering half explicitly refused; full analogy block and guardrails: `29_trilogy_plot_and_development.md` § The Weavers. The order are **matchmakers** — a *political* pairing program (marriages, placements, godparenthood, house alliances), not a breeding program; the accumulated **Weavers' Net** (`40_concepts.md` § The Weavers' Net) is partly how it retains power, and the consent line (proposed and blessed, never compelled) is its standing internal drama. The structure and narrative function are locked. Before drafting its rites, choose two or three specific houses and consult the relevant living traditions rather than inventing a universal “women's wisdom.”
+The Bengali–Malaccan harbor branch is not the whole structure Eli encounters. It is one branch of **the Weavers' Net** — a much wider, women-led transnational order: distributed houses, visiting routes, clinics, kitchens, schools, farms, ports, and repair crews with overlapping contacts and no central command. **Book I integration (LOCKED 2026-07-24):** name the Net on-page from Malacca — knots, ledgers, **Knotter** craft (Asha), **Unranked** cells (Wren), **Weft** letters, harbor-house consent review. **No Malacca queer-household set-piece.** Full Weaver blessing on Eli/Wren remains Book II Ch 5. **Organization trim (LOCKED 2026-07-26):** four crafts only — **Warp · Weft · Knotters · Dyers**; place / craft / status / bonds as separate axes; Spinners/Menders/Selvage retired (`29`, `40`, `95`). The order has locally adapted rituals and tests of attention, hospitality, memory, discretion, truth-telling, repair, reciprocity, and declining. It protects people across gender and culture while women retain long-memory and initiation authority. It carries herbs, sanitation recipes, and household cures, but its ethic is test-and-record: inherited knowledge may work, fail, or harm depending on dose, body, and condition. A diluted vinegar-water cleaner and a separate baking-soda-water wash are recurring household practices; for some people the baking-soda facial rinse works remarkably well after expensive products failed, while others experience irritation or worsening. The order preserves both outcomes, records conditions, and treats persistent or scarring acne clinically. It is not a secret army, eugenic sisterhood, bloodline, or shadow government. **Name chosen (2026-07-21): the Weavers** (formerly working name *the Wide Net*) — Bene Gesserit-analogous in function (training, tests, long memory, initiation authority, quiet influence beside power) with the eugenic/messiah-engineering half explicitly refused; full analogy block and guardrails: `29_trilogy_plot_and_development.md` § The Weavers. The order are **matchmakers** — a *political* pairing program (marriages, placements, godparenthood, house alliances), not a breeding program; the accumulated **Weavers' Net** (`40_concepts.md` § The Weavers' Net) is partly how it retains power, and the consent line (proposed and blessed, never compelled) is its standing internal drama. The structure and narrative function are locked. Before drafting its rites, choose two or three specific houses and consult the relevant living traditions rather than inventing a universal “women's wisdom.”
 
 ### 5. Psionic combat rules — SEEDED (`38_psionic_combat.md`)
 
@@ -325,7 +362,10 @@ Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED") and Prior
 
 **Rasel Khan** — Eli's Bangladeshi father; full legal name **Rasel Khan** (রাসেল খান). **True name — LOCKED; forms say Rasel, not Russell.** **Bangladeshi passport.** Narration & home: **Rasel**; **some English mouths say Russell** (Maren in formal English, Anglo clerks, colleagues — habit, not the ink). **Claimed by Eastern Mandate.** **Public legend:** legendary physicist; **private life Eli remembers:** gardener, **Babu**. Not a carrier. **Old friend of Babaji** — Old Pelangi; **work not wealth** for Eli. Name register: § *Rasel / Russell* below.
 
-**Rasel / Russell — name register — LOCKED 2026-07-25 (rev.):** **Rasel** = true name **and form spelling**. **Russell** = some people's spoken English habit — **not** official paperwork. **Reader ease:** one natural gloss at first significant Vol I mention (*Rasel — though some people said Russell*), then **Rasel** in narration; no ping-pong. Eli corrects once when a mouth gets it wrong (Ch 2 wage ticket). **Book III (optional):** lab staff say **Russell**; door or file reads **Rasel Khan**; reunion beat *That isn't my name.* `95` § *Rasel / Russell*; `14` § Culture.
+**Rasel / Russell — name register — LOCKED 2026-07-26:** **Rasel** is the true
+name and form spelling; *Russell* is some English speakers' habit, never official
+paperwork. In Book I Ch 11, a lab technician says *Russell* and Rasel answers,
+*That isn't my name.*
 
 **Why they fled Bangladesh:** carrier hunt + **scientist claiming** (post-Hinge bloc scramble — Maren a **claimed neuroscientist**, Rasel a **claimed physicist**; Charkha/Mandate both wanted the minds). The Charkha uses local machinery — detention, disappearance, riot cover, checkpoint, file — so the **official story can read as politics** while survivors know they were closing on Maren **and** filing Rasel on the ledger.
 
@@ -343,7 +383,7 @@ Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED") and Prior
 
 **Orphan reveal — Mei Friday dinner — LOCKED 2026-07-25 (rev. Y):** **Friday PM**, after **race win** — **Mei final dinner** on terrace. *Not an orphan — stolen child; parents taken alive; Babaji told her years ago; net said dead so you could live.* No map. Eli **still leaves Saturday PM** (earned manifest + squeeze; Shireen remittance). Malacca **confirms / deepens**; does not replace dinner truth. **Retired:** stairwell reveal; Babaji stairwell; pier reveal; Saturday/Sunday dawn departure.
 
-**Parent rescue schedule — LOCKED 2026-07-24:** **Rescue ≠ Mei dinner reveal.** Friday dinner = both **taken alive**, no address. **Eli rescues Maren — Book II** (mother-trail, suppression truth, reunion, release at Albion). **Eli rescues Rasel — Book III** (Mandate lab; locate + extract + on-page reunion — exact chapter TBD). Vol I–II: father **alive, unrescued**; garden grief without reunion. **Do not rescue Rasel in Book II.**
+**Parent rescue schedule — LOCKED 2026-07-26:** **Rescue ≠ Mei dinner reveal.** Friday dinner = both **taken alive**, no address. **Eli rescues Rasel — Book I at Sanxingdui** (Mandate field program; locate + extract + on-page reunion). **Eli finds and releases Maren — Book II** (mother-trail, suppression truth, reunion, release at Albion). Book III begins with both parent quests resolved and tests the world their discoveries create.
 
 **Guardrails:** forced lab work (Rasel); no easy rescue; complicity possible; Babaji does **not** know exact sites — only *taken, not dead*.
 
@@ -405,13 +445,18 @@ Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED") and Prior
 
 **Maren "dead" vs alive — prose lock (REVISED 2026-07-25 rev. Y):** **Stairwell retired.** **Mei, Friday PM dinner (Ch 1):** *not an orphan; both taken; dead on the file so you could live.* Eli **still boards Saturday PM.** Malacca trail confirms/deepens.
 
-**Bangladesh after — OFF-PAGE LOCK 2026-07-23:** remains **lost home**, not solved graveyard. **No on-page visit in any volume.** Political danger, files, surveillance, and surviving kin (e.g. cousin **Shireen** in Dhaka) stay at risk; continuity arrives through encrypted messages, Bangla, food memory, and the Pelangi exile garden — not a village feast or near-miss return beat. The Vol I climax remains Göbekli, not Bangladesh.
+**Bangladesh after — OFF-PAGE LOCK 2026-07-26:** remains lost home, not solved
+graveyard. No on-page visit in any volume. Shireen's route appears as a choice Eli
+refuses in Book I; continuity otherwise arrives through messages, Bangla, food
+memory, and the Pelangi exile garden. The Book I climax is Sanxingdui.
 
-**Still open (Vol II/III):** exact extraction geography; exact Mandate lab site and program name; **Book III chapter for Rasel rescue/reunion**; whether Rasel knows Eli survived; whether coerced work included instruments that later locate Eli.
+**Still open (publication pass):** exact fictional annex/program name; final
+museum-access and border-procedure research; whether Rasel knew Eli survived before
+the Sanxingdui camera gap; and the precise limits of Rasel's coerced work.
 
 ## Priority 2 — required before Volume II can carry the middle
 
-### 7. Volume I external race at Göbekli — LOCKED (Vol I climax)
+### 7. Retired allocation — Göbekli is now Book II quarry
 
 **The race: reach the sealed interface at Göbekli Tepe before the rival consortium re-seals the dig.** The prize is not a relic but **reactivation/reading access to the first buried instrument** behind the fox-pillar — a partial Qingu-reserve seal and the original **selection mark** (spiral-in-the-eye). The factions believe a complete read could establish the founding carrier record or recover its selection logic. Book I does not obtain that complete read.
 
@@ -443,7 +488,10 @@ Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED") and Prior
 **The five that actually move bodies:**
 
 1. **Three-Circles Tablet** — enters Vol I (early enough to make Body/Family/Civilization visible without a lecture); the framing object. Real-text category.
-2. **Göbekli plaquette** (snake/tree/bird grammar) — **Vol I** Ch 13; the selection-mark key at the fox-pillar; points to the sealed interface. Disputed object. **Layered reading LOCKED 2026-07-21** (`35` § *Göbekli plaquette*): three stacked zooms (terrestrial / guardian / cosmological); tree = bridge where Heaven meets Earth; Book I cap — no on-page panspermia certification.
+2. **Göbekli plaquette** (snake/tree/bird grammar)—**Book II**; selection-mark
+key at the fox-pillar and counter-image to Sanxingdui. Disputed object. Three
+stacked readings (terrestrial / guardian / cosmological); no on-page panspermia
+certification until Book III.
 3. **The Refusal** *(scholar: Adapa lacuna)* — **Vol I Ch 12** (Gulf/Mesopotamian archive); **a textual mystery + a missing physical fragment + a forged reconstruction in conflict** (all three at once). Points to inward control and the Human-Design Triad; Dilmun/Qingu memory, not a standing site. *(Prior note "Vol II Mesopotamian leg" — **retired**; Book II does not backtrack south.)*
 4. **The Map of the World** (compared to live ley data) — Vol II; turns the abstract grid into a route. Modern copy / disputed.
 5. **Men-an-Tol holed stone** (mother-line threshold) — Vol II Ch 6; the body-memory bridge; partially awakened living ground, not a portable relic.
@@ -537,7 +585,8 @@ Still open (fine to settle at Vol II/III beatsheet revision): rate and radius of
 Deep-time material is reached by **clarifying the living web at charged grounds** (mechanism: `36_the_living_web.md` §3a, §7a, §8). Each deep thread or structure resolves at the stone/charged ground where its content happened — **not** as a bulk download at Malacca. Human cultures often preserved this as **legends of talking stones** (local names; folk memory of charged grounds); Eli learns the stories were pointing at real behavior without the grid's vocabulary.
 
 - **Locked — delivery rule:** Malacca = receiver opens + overload + grid flare — **not** identity crisis (`36` §3). First **witness-site contact** = Vol I midpoint (partial **Ila** — pin exact stone below).
-- **Locked:** Aru's thread → **Göbekli Tepe (Vol I Ch 13)**, clarified at the fox-pillar Aru carved.
+- **Locked:** Aru's thread → **Göbekli Tepe in early Book II**, clarified at the
+  fox-pillar Aru carved.
 - **Locked — bitter cup / plant-medicine threshold (2026-07-23):** **Book II Ch 6, Anglesey leg** — keeper-supervised consent-bound ceremony paired with **Lovernios** full-res at the peat bog / seed-catalog sink. **Not Book I Thailand** (wat = breath/Aru only). v1 § *The Medicine* in `MANUSCRIPT_v1_archive.md` = quarry; adapt for Albion; no Book III serpent-as-Makers-face dump. Partial memory on exit (body changed; daylight mind cannot carry all).
 - **Locked — Lovernios witness site (2026-07-23):** **Anglesey peat bog / seed-catalog sink**, Book II Ch 6 — paired with bitter cup above.
 - **Open:** witness sites for Ila, Tem, Anthea, Cuno, and Aedan's deep-time arc — pin each to a stone/charged ground along `35_artifact_chain.md` and the legs in `00_NARRATIVE_STRUCTURE.md`. *(Lovernios pinned; others remain open.)*
@@ -564,8 +613,13 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 
 ## Next practical step
 
-**Priority 1 is locked (#1–#6) and the Volume I beat sheet exists: `31_volume_I_beatsheet.md`** (**13 chapters**, no prologue; **breach closes Ch 2**; **Göbekli Ch 13 = Vol I climax**; **Thailand Ch 5–10** = agricultural witness; Mekong draft retired). **Trilogy plot hub:** `29_trilogy_plot_and_development.md` — act-level Vol II–III, revelation links, and the locked design decisions formerly tracked as #7–#14.
+**Priority 1 is locked and the Volume I beat sheet exists:
+`31_volume_I_beatsheet.md`** (13 chapters, no prologue; breach closes Ch 2;
+Thailand Ch 5–10; Sanxingdui Ch 11–13; Rasel recovered; Emrys taken).
 
 Next: **draft prose** — per `05` §13, write the Pelangi Reach opening through the first irreversible Malacca escape (Ch 1–5), then reassess scene length against the trilogy/single-novel question. Before drafting, run each major character through `16_reader_attachment.md` (ordinary need, private wound, repeated behavior, relationship-changing action) and keep `17_reveal_order_and_reader_impact.md`'s order: emotional escalation first, terminology second. Add courtly-intrigue/hospitality pressure to at least one Act II chapter so the volume isn't only physical pursuit.
 
-**All open questions (#7–#14) are now LOCKED** — the design layer is closed. Vol II drafting may proceed on `32_volume_II_beatsheet.md`; Vol III on `33_volume_III_beatsheet.md` + `41`. Remaining **scene-level choices** are charged-ground staging (Tem, full Ila witness stone, Aedan arc ground, and the precise dig/shrine/military texture at Göbekli) plus Vol I prose Ch 1–5 (Pelangi Reach → Malacca). **Lovernios + bitter cup pinned Book II Ch 6.** These choices may shape presentation, but cannot reopen the locked causal decisions.
+**The design layer is closed.** Book II drafting proceeds from the new
+10-chapter spine in `32_volume_II_beatsheet.md`; Book III from
+`33_volume_III_beatsheet.md` + `41`. Remaining choices are scene-level research and
+prose, not volume allocation.

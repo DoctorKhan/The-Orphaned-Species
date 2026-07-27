@@ -1,22 +1,24 @@
 # Volume I — *The Breach* — Beat Sheet
 
-> **HIGH PRIORITY — LOCKED 2026-07-25:** Chapter beats must pass **`55_series_pitch_and_comps.md`** 10-point clue-chain gate (body movement, visual key, short-loop payoff, domestic cost).
+> **AUTHORITATIVE ROUTE — LOCKED 2026-07-26:** `58_sanxingdui_climax_lock.md` supersedes the former Act IV and every Göbekli-as-Book-I lock below. Book I runs **Pelangi Reach → Meridian → Malacca → Thailand → Sichuan / Sanxingdui**. Eli recovers Rasel, recognizes the distributed Tree of Life, completes personal Manual Override through the living route, and loses Emrys to capture. Existing Gulf/tell/Göbekli cards are relocation quarry for Book II.
 
-> **CURRENT SPINE — LOCKED 2026-07-23.** Book I runs **the Reclamation, Pelangi Reach → Meridian City → Straits → Malacca → breach → Thailand (agricultural witness + grounding) → Gulf/Mesopotamia → Göbekli Tepe (climax)**. **Thailand is the substantial agricultural-witness sequence** — river-valley rice cooperative, keeper stilt-house network, Khun Dang/wat/Pai pass-through grounding, forming ley line, Ila midpoint, incomplete Manual Override. **No plant-medicine / bitter-cup ceremony in Book I** — that lands Book II Ch 6 (`99` #bitter-cup). **Bangladesh is off-page** — lost home through Shireen's messages, Bangla, food memory, and Pelangi exile garden; no village visit. **Mekong/Vietnam — RETIRED 2026-07-23:** prior Ch 5–10 draft and beats are quarry only. **Book I climaxes at Göbekli Tepe:** Eli chooses people over the complete interface record and Emrys is taken. The old Mekong-climax allocation and the old chapter numbering are retired; use the order below.
+> **HIGH PRIORITY — LOCKED 2026-07-25; place-craft 2026-07-26:** Chapter beats must pass **`55_series_pitch_and_comps.md`** clue-chain gate (body movement, visual key, short-loop payoff, domestic cost, **wonder + place lie**). Place geometry / lies / Silo grammar: `14` § *Place-craft — Silo grammar*.
+
+> **CURRENT SPINE — LOCKED 2026-07-26.** Book I runs **the Reclamation, Pelangi Reach → Meridian City → Straits → Malacca → breach → Thailand (agricultural witness + grounding) → northbound human corridor → Sichuan / Sanxingdui (climax)**. Thailand remains the substantial agricultural-witness sequence. Bangladesh remains off-page. Sanxingdui pays the father-rescue promise, reveals the distributed Tree of Life, completes Eli's first personal Manual Override, and directly prices Rasel's recovery with Emrys's capture.
 
 > **COSMOLOGICAL FUNCTION — LOCKED 2026-07-15:** Book I establishes the divine knowledge-blueprint and the human fear that turns life-technology into a target. The later resolution is not anti-technology: technological understanding must mature enough to recognize the Nephilot/elven line as fellow persons rather than repeat the ancient killing.
 
 > **Pelangi pressure — LOCKED 2026-07-16:** Pelangi Reach is a compromised royal tech-hub project under climate stress, not a preserved island utopia. The king's desalination, AI, flood, cooling, biotech, and **aspirational** robotics (mostly undelivered — `23` § *Robotics lock*) compete with Meridian City while older water, farming, temple, kinship, and craft institutions keep the island relational. Those institutions are changing, losing land, and being packaged for development; the island is less what it was, but not simply worse.
 
-> **BOOK I CLIMAX — REVISED AND LOCKED 2026-07-22:** Göbekli is one moral/action climax, not a cosmological or civilizational lecture. The interface race and assault force Eli to choose between preserving the complete record and saving people. He completes **personal Manual Override** himself: he feels the command/charge, refuses autopilot and ownership, and breaks the interface's clean read to protect the living group. The complete record is lost or damaged, **Emrys is taken**, and Eli survives without a total explanation. Book I proves ancient embodied contact and preserves a partial selection/control scar associated with a powerful male carrier/mighty lineage, but Eli cannot yet explain how contact, lineage, household, labor, and civilization fit together. **Nephilim** may appear only as a disputed later archive label, not a species answer. Family and loss govern Book II; civilization's engine/exhaust synthesis belongs to Book III. Panspermia, dragons, the full Heaven/Earth design, and the Double-Fork reveal remain for later books.
+> **BOOK I CLIMAX — REVISED AND LOCKED 2026-07-26:** Sanxingdui is one moral/action climax, not a cosmological lecture. The Mandate apparatus and containment assault force Eli to choose between a clean, controllable machine read with immediate access to Rasel and a distributed living route that no one person can own. Eli completes **personal Manual Override** himself, protects the caught staff and civilians, and breaks the apparatus's proprietary read. **Rasel is recovered; Emrys is taken.** Book I recognizes the Tree of Life as the living world connected to itself but does not reveal the full plane hierarchy, panspermia, dragon taxonomy, immortality answer, or Two-Tree union.
 
-> **GÖBEKLI FUNCTION / REVEAL CAP — LOCKED 2026-07-17:** In full canon, Göbekli is a **communication station**, like the other stone circles: it routes live transmission and reception through the planetary conductors. It does **not** store consciousness or amplify the field. Book I does not reveal that answer. By the ending, Eli's group knows only that the buried geometry is a real, responsive interface associated with contact and control; their measurements cannot distinguish receiver, transmitter, archive, or amplifier. The “complete record” at stake means the site's archaeological record plus a clean recording of its activation—not minds or history stored inside the stones. The communication function becomes legible later through the wider circle network.
+> **GÖBEKLI RELOCATION — LOCKED 2026-07-26:** Göbekli retains its communication-station authorial function and incomplete selection/control reading, but appears in Book II. Its older Book I cards below are quarry for that relocation.
 
 > **ROOTBOOK — LOCKED 2026-07-21:** Maren's encoded comparative field journal enters only after the ring and human witness have established the emotional trail. A damaged scan or folio recovered through the Malacca/Meridian evidence chain reveals a first **name** index and later a **foot/step** correspondence. It points to bounded tests, never the whole pilgrimage. Full design: `52_the_rootbook_word_web.md`.
 
 > **Orphan reveal — LOCKED 2026-07-25 (rev. Y):** Eli believes **both parents dead** (net lore) until **Mei, Friday PM dinner** — *not an orphan; taken alive; dead on the file so you could live.* **Still leaves Saturday PM.** Malacca trail confirms/deepens; does not replace dinner truth.
 
-> **Opening order — LOCKED 2026-07-25 (rev. Y):** **Ch 1** — **Friday AM** race → **Friday PM** Mei dinner / orphan truth → **Saturday AM** Babaji **catamaran** (first meet **Wren**) → **Saturday PM** squeeze, **raid on Babaji offices**, **departure** (Wren at marina **before** gate; aboard Suresh). **Ch 2** — **Saturday PM–eve:** Wren guides checkpoints → document lanes → clerk/ring → **Continue Inn** (game hotel). **Sunday AM:** Cherry Lane → **Cube** → **Sunday Circuit** → Straits → Malacca breach. **Ch 3** aftermath → **Ch 4** Wren POV Laleh. Thailand Ch 5–10; Gulf/Göbekli Ch 11–13.
+> **Opening order — LOCKED 2026-07-26:** **Ch 1** — Friday race / orphan truth / Babaji / departure. **Ch 2** — Meridian / Cube / Malacca breach. **Ch 3** aftermath. **Ch 4** Wren POV Laleh. Thailand Ch 5–10. Replacement Ch 11–13: northbound route / Sanxingdui / Rasel reunion and aftermath.
 
 ### Current opening cards — authoritative order
 
@@ -35,7 +37,7 @@
 
 > **Diaspora support lock:** strait-corridor workers, families, students, cooks, mechanics, nurses, dockhands, and women's social circles provide intermittent practical help across the route. No one knows the whole web, and help is never guaranteed. Each intervention carries exposure or material cost; Eli is assisted through relationship and recognition, not ancestry-as-destiny. Shared language/culture may **open** a first conversation; it does not **grant** routes, trust, or Thread standing.
 
-> **Weavers' Net — Vol I integration — LOCKED 2026-07-24:** Book I names the order on-page from Malacca onward — **Weavers' Net**, harbor houses, **Knotter** craft (Asha), **Unranked** status (Wren), **Weft** letters, consent review, route-rest. **No Malacca queer-household set-piece** — the order's discretion is background law, not a domestic tour. Full blessing discovery remains Book II Ch 5. Rowan off-page via Weft only. **Aes Sedai weight** comes from institution visible early: tests, ledger, house review, knots that move ports.
+> **Weavers' Net — Vol I integration — LOCKED 2026-07-24; crafts trim 2026-07-26:** Book I names the order on-page from Malacca onward — **Weavers' Net**, harbor houses, **Knotter** craft (Asha), **Unranked** status (Wren), **Weft** letters, consent review, route-rest. **Four crafts only:** Warp · Weft · Knotters · Dyers (`29`, `40`, `95`). Rowan off-page via Weft. **No Malacca queer-household set-piece** — the order's discretion is background law, not a domestic tour. Full blessing discovery remains Book II Ch 5. **Institutional weight** comes from tests, ledger, house review, knots that move ports — not a seven-Ajah taxonomy.
 
 > **Babaji — LOCKED 2026-07-24:** refuge patron, robot dogs, chess boards. `26` § Babaji.
 > **Inciting catastrophe — LOCKED 2026-07-26 (rev. Z):** **not a staged attack or explosion.** Babaji's cell **refused transfer** of a flagged carrier at the causeway and **moved suppressed archive copy** (Cherry Cube / Maren evidence chain) off Mandate soil. The **Eastern Mandate** responds with **administrative strangulation**: corridor logistics freeze, extended-assessment sweep, cohort registry, causeway hold. Eli **beats Kiran in Suresh's skiff-race wager** → earns Cherry Cube weekend manifest (**cash**, Shireen clinic wire); after the squeeze he **leaves on schedule** — hearth suspended, island locked down behind him. The **hunt begins at Meridian intake/concert**, not a Pelangi resort chase (kiddy-car sequence retired to quarry). Pelangi occupied and fragmented, not burned.
@@ -70,11 +72,12 @@
 - **Parent memory — LOCKED 2026-07-25 (two-phase):** **Pre-reveal** — garden/sailing/food rhymes (`15`). **Post-reveal** — explicit grief/hunger; same images return re-framed; Ch 1 Sat AM–departure + Ch 2 queues/ring/Continue Inn.
 - **Wren / feelings — LOCKED 2026-07-25:** First meet is **emotional work**, not only paperwork. Eli carries **Friday orphan truth** into Saturday; Wren notices body-before-story (shaking, silence, performative OK). One plain line redirects a substitution — grief ≠ debt, anger ≠ plan — **without** therapist speech. She waits when he can't name it. Catamaran + marina departure = first co-regulation (food, route, *don't burn the thread* as care through action).
 
-### Ch 2 — Something of Hers / Checkpoints and the Stack *(Eli · Wren escort → Meridian → Malacca breach)*
+### Ch 2 — His Hand / Checkpoints and the Stack *(Eli · Wren escort → Meridian → Malacca breach)*
 - **Timeline — LOCKED rev. Y:** **Saturday last light** — depart Pelangi; strait pier + Stack intake **Saturday eve**. **Saturday night** — **Continue Inn** (game hotel). **Sunday AM** — Cherry Lane → Cube. **Sunday** — Circuit race night, convoy escape, Straits, Malacca breach.
 - **Wren escort — LOCKED rev. Y:** Handler from **Saturday AM catamaran** through **causeway hall**; **marina gate before checkpoint**; aboard Suresh through strait pier + arch; port shuttle, transit, buses; goodbye at **document lanes** (sends Eli to **Continue Inn**). Eli **alone** after — clerk, **Saturday night sleep**, **Sunday** Cube, convoy, Straits.
 - **Meridian / Malacca — LOCKED 2026-07-24 (rev. C):** **No Thailand body memory** before Ch 5. Ch 2: **Maren grounding gesture** at Cube overload; **receiver activations** (palms, flags, strait, *lit up*) — **talents activate, not trained**. **No martial foreshadow.** Malacca fight = **untrained** → asphyxia → receiver **ON without control**.
-- **Want:** make the Cherry Cube check-in; survive intake; learn why an archive photograph contains his mother's ring.
+- **Want:** make the Cherry Cube check-in; survive intake; learn why a Mandate
+  archive photograph shows Rasel's hand and wedding ring.
 - **Attachment:** worker identity — tool roll, call sheet, *walk like you belong*.
 - **Obstacle:** screening hold at pier; Stack intake flags resemblance; ring photo triggers hunt; concert security; Circuit as only exit.
 - **Movement 1 — Pier gauntlet (with Wren):** marina gate (Wren first); Suresh casts off; strait screening pier; Wren handles manifest; **pier arch together** (*Be boring*); Suresh continues without them.
@@ -82,7 +85,7 @@
 - **Movement 2 — Meridian intake (Saturday eve):** epic Stack reveal; document clerk; Cherry Cube archive packet; ring photograph; wage-ticket cost to escape classification; **Continue Inn** check-in — arcade tier, **live-play** cabinets/sims/VR (Foundry muscle rhyme; Rasel echo).
 - **Movement 2b — Continue Inn (Saturday night):** contractor voucher bunk; Eli plays cable-management sim; poor sleep; ring photo + Pelangi raid in head.
 - **Wrong-room overhear — LOCKED rev. Y:** at causeway hall approach, **before document lanes** — Eli detours to Harbor Thread back room; **Wren watches, does not stop him**. Fragments: Malacca chandlery, Hassan, English woman on file. Wren **goodbye at document lanes** (Continue Inn voucher); Eli alone for clerk.
-- **Movement 3 — Cherry Cube + Circuit (Sunday):** **Sunday AM** show crew check-in via Cherry Lane maze; idol vouch; security hunt (**intake flag + Thread sighting**); wardrobe leak; **Sunday Circuit** race-night convoy escape. **Parade Liturgy drip — LOCKED 2026-07-25:** F8 chalk on causeway pillar; F1 scratched in Continue Inn elevator; **paired echo** in Cube service alcove (voice line + F1) — anti-chant to spectacle-chant; not named as liturgy (`54_liturgies.md`).
+- **Movement 3 — Cherry Cube + Circuit (Sunday):** **Sunday AM** show crew check-in via Cherry Lane maze; idol vouch; security hunt (**intake flag + Thread sighting**); wardrobe leak; **Sunday Circuit** race-night convoy escape. **Parade Liturgy drip — LOCKED 2026-07-25:** F8 chalk on causeway pillar; F1 scratched in Continue Inn elevator; **paired echo** in Cube service alcove (voice line + F1) — anti-chant to spectacle-chant; not named as liturgy (`54_liturgies.md`). **Body score seed — LOCKED 2026-07-26:** Cube spiral dancers + grandstand clap that finishes too clean; Malacca kids leave the last clap open (`54` § *Body score*).
 - **First table — LOCKED 2026-07-26:** Circuit/Cube = trilogy's **first casino table** (Casino Royale capital). Lean masks only: Wren, clerk–Thread, idol, Ma seed, **Sora soft-hunt glimpse (unnamed suit; collar/medal; clocks grounding)** — Custodian name Ch 3. No Crane/Sol/Somchai/Rowan/Emrys. **Chase grammar:** later capitals repeat *expensive room → masks flash → underside exit* (`WORLD_BIBLE.md` § Meridian).
 - **Commissioner Ma seed — light, not a reveal:** a convoy seal, shipping notice, or worker's complaint carries Ma's public designation. The same logistics office once kept medicine or desalination parts moving and now enforces a damaging restriction. Eli registers infrastructure, not a future ally; the detail earns Ma's Book III arrival without softening Meridian City's clinical pressure (`51_field_sail_and_mandate_peace.md`).
 - **Movement 3 — the Meridian Circuit escape:** a scheduled Formula One–scale street race has sealed the central avenues, diverted transit, and filled the city with grandstands, service vehicles, drones, and controlled crowds. The archive worker's recognition triggers a quiet search; the worker chain gets Eli beneath Cherry Lane, and the Cherry Cube performer opens a wardrobe leak into the harbor logistics convoy. Wren is glimpsed at the convoy edge on her own operation and deliberately does not acknowledge him—the near-miss before Malacca, not a rescue. The escape is earned by the city's own event, but the route leaves helpers exposed and funnels Eli toward the Straits. Meridian City does not expand into a separate institutional tour.
@@ -92,7 +95,11 @@
 - **Movement 4 — witness collision:** in reopening Malacca, Hassan's physical ring confirms the photograph while Wren's extraction of Nura and Ilyas fouls the handoff. Eli sees enough to know the lead is real and not enough to understand the trap.
 - **Movement 5 — chapter-end breach:** scooter flight → **untrained** close-quarters fight (no Kali yet — terror, wrong blocks) → choke/drowning at the river's edge. Salmah reaches him only after the psi plane opens in the final pages. End the chapter on receiver ON, overwhelming field-noise, and the grid flare—not explanation.
 - **Choice → Cost:** Eli **left Pelangi on schedule**; at Meridian he **chooses forward** after the ring photograph rather than disappearing into the worker flow. Wrong-room eavesdropping **pre-echoes** Malacca/Hassan before the photograph confirms. Cost compounds — hearth suspended, helpers exposed, classification narrowly escaped, Hassan recaptured, Salmah punished, signature lit across the grid.
-- **Revelation:** what saves him before the breach is not the gift but the human web. The ring makes his mother's disappearance concrete; the body-register proves the hunt is more than legal; the breach exposes him as a carrier event. **End state:** home gone, Hassan and the ring lost, receiver open, both teams converging.
+- **Revelation:** what saves him before the breach is not the gift but the human
+  web. Rasel's ring makes his father's survival concrete; Maren's engraving hides
+  the secondary trail. The body-register proves the hunt is more than legal; the
+  breach exposes Eli as a carrier event. **End state:** home gone, Hassan and the
+  ring lost, receiver open, both teams converging.
 - **Past leak:** Suresh — wrong-note hum at stern, stops (`26` Part V). Shireen — text with photo of Rasel's garden still growing in Dhaka.
 - **Romance / touch — LOCKED 2026-07-25:** **Awkward flirtation** during escort (`19` §4). **Strategic touches on-page:** clipboard at marina gate; **sleeve at pier arch** (*permission, not comfort*); Wren picks routes with hand on his back through crowds if needed. **Optional smash:** strait inspection crush or Malacca crowd jolt before breach — bodies pressed once; neither names it; Eli over-reads in narration. **Convoy near-miss:** Wren at convoy edge, **does not acknowledge** — intrigue, not reunion. No gratitude kiss; field-recognition at breach only.
 - **Wren / feelings — LOCKED 2026-07-25:** Escort is **early emotional help**, not logistics only. After pier arch / stack overload: one plain redirect (*body ahead of head* / *that's fear, not proof*); document-lanes goodbye **I'm sorry** = first acknowledged interior cost. *Be boring* = co-regulation, not only ops.
@@ -110,7 +117,15 @@
 - **Attachment:** Malacca alive and improvised — working people, not heritage scenery; small kindnesses to a stranger far from home.
 - **Obstacle:** documents and jurisdictions disagree; the handoff keeps slipping; **the Custodians** are in the city under biosecurity cover, watching for activation rather than ordinary fever/heat, and **Wren** is extracting **Nura Salleh**, a threshold-house cook and latent carrier, with her son **Ilyas**. Their family route, safehouse, and timing foul Hassan's witness handoff (the light-cross). The lure tightens around Eli without his seeing it.
 - **Choice → Cost:** he commits to the handoff despite the wrongness he can feel. Cost: exposure; Hassan is placed at greater risk by attempting the transfer.
-- **Revelation (dramatic irony through observable conduct, not a POV switch):** the reader can infer before Eli does that the lead is bait and the Custodians are waiting. Hassan has **Maren's silver-and-brass wedding ring**, worn on a cord and passed to him in captivity; its imperfect seam and **"same soil"** inscription can authenticate it, but Eli still has to reach him. **The chain so far:** Eli glimpsed **"anomalous residents"** and **"carrier-adjacent"** on a Meridian City intake form — the body-register. Then the archive photograph of this ring. He has seen the register and he is holding the body that was catalogued in it. The reader connects. Eli does not. The synthesis is one thought away. **Forward clue:** the handoff is set for a place he has to reach fast. Eli glimpses the ring before the operation collapses.
+- **Revelation (dramatic irony through observable conduct, not a POV switch):**
+  the lead is bait and the Custodians are waiting. Hassan has **Rasel's
+  silver-and-brass wedding ring**, given to him by Rasel during transfer; its
+  imperfect seam, long wear mark, and **“same soil”** inscription authenticate it.
+  A Mandate intake photograph showed Rasel's scarred hand and the band in an
+  evidence tray. Maren later recognized it in Hassan's custody and used the
+  inscription as a bounded Rootbook index. **Forward clue:** the handoff is set for
+  a place Eli must reach fast; he chooses Hassan over taking the ring before the
+  operation collapses.
 - **Past leak:** Hassan — aligns papers like a clerk, then hands shake. Jin — accent mirror slips to younger voice on backfire. Optional Wren — convenience-bun habit during the Ch 2 collision.
 - **Romance cost (SHARPEN):** Wren treats Eli as **liability to her extraction**, not interest — if they exchange a look, she shuts it down. Eli may misread her competence as **belonging offered**; it isn't. No access to her interior and no chemistry beat yet — only **collision of operations**.
 - **M/I/A:** **M** — unreadable operator; shuts down look. **I** — observable misalignment lets the reader infer that the light-cross fouls another operation before Eli can name it. **A** — none yet (misread only).
@@ -178,8 +193,8 @@
 ### Ch 5 — The Field That Counts *(Eli · Thailand river-valley agricultural stop)*
 - **Parade Liturgy drip — LOCKED 2026-07-25:** Khun Dang quotes F6 (*I alone am dark*) as praise for playing quiet; stilt-house keeper mutters F5 at dawn — not explained (`54_liturgies.md`).
 - **Want:** test the growth report.
-- **Attachment:** local growers; keeper stilt-house; **Khun Dang** (Pai ridge, present); Pai staff-twirler pass-through.
-- **Grounding hinge:** **mountain road → Khun Dang / *Hotel California* (3 nights) → five-day wat → stilt-house** — all present-day; childhood undisclosed.
+- **Attachment:** local growers; keeper stilt-house; **Khun Dang** (Pai ridge, present); Pai staff-twirler pass-through; **mountain-road landings** — winch crew, shrine, **coffee spur** (Chiang Dao–coded quiet farm; old lesbian couple; beans for the skull-wire; not a Net set-piece; mountain *not for sale*), Pai carnival market texture.
+- **Grounding hinge:** **mountain road (lived stair) → coffee spur → Pai pass-through → Khun Dang / *Hotel California* (3 nights) → five-day wat → stilt-house** — all present-day; childhood undisclosed. **Geography lock:** Pai keeps the hairpin stair + tourist landing; coffee farm borrows Chiang Dao quiet/agricultural mountain presence without renaming the route. Road is not empty corridor: lives cling to the landings. **Body score seeds:** Pai staff drop-on-purpose; wat heel-to-toe shared count after one bell; Khun Dang four chords as snare-time (`54` § *Body score*).
 - **Past leak:** Pai market staff-twirler → channel-town performer rhyme (present callback, not flashback).
 - **Obstacle:** the report is partly stale (a line broke); the community wants no outsiders; the Custodians are a day behind.
 - **Choice → Cost:** he trusts living local expertise over his own vision and over the planted lead. Cost: time lost; the wrong clue cost them a margin.
@@ -231,13 +246,44 @@
 - **Want:** protect the people in front of him.
 - **Obstacle:** the impossible split — secure the cleanest version of the clue, or get the community clear. A charge rises that wants to make him *useful at any cost* (the old autopilot: earn safety by competence).
 - **Choice → Cost:** Eli tries to save both the people and the cleanest agricultural evidence. The charge turns competence into command; he recognizes the autopilot but cannot yet stop it. **Wren makes the humane choice for him**, forcing the evacuation while he hesitates over the record. A named grower is injured and the clean documentation is damaged. Eli leaves Thailand with less proof, guilt over the delay, and no private victory to hide behind.
-- **Revelation:** **community knowledge, not Eli's power, preserves enough to point westward** — a grower's observation, a coordinate that no longer matches the old map, one half of a polarity reading. **Forward clue:** surviving fragment bends toward Gulf / Mesopotamian corridor and the **sealed-interface race** — Göbekli not yet named. The lesson is incomplete: recognition is not yet control.
+- **Revelation:** **community knowledge, not Eli's power, preserves the next clue** — Kitt's two field maps reveal a fork rather than a line to one destination. Maren's wafer wakes a bounded conservation checksum (**GHC / TREE 1 / R. KHAN**). **Forward clue:** the correspondence and Rasel's initials point north toward the Sanxingdui research relationship. The lesson is incomplete: recognition is not yet control.
 - **Romance cost (SHARPEN):** **Trust up, label withheld** — one physical beat max; he stops filling her silences once, or she lets him make a wrong choice. **No** "I love you," no destiny speech (`19` Vol I mid-arc).
 - **M/I/A:** **M** — partial visibility via behavior (not confession). **I** — Eli's hesitation becomes a new liability. **A** — hand held/released; trust up, label withheld.
 
 ---
 
-## ACT IV — Westward Race and Göbekli *(quarry — rebuild chapter count while drafting)*
+## ACT IV — Father and the Living Tree *(AUTHORITATIVE — LOCKED 2026-07-26)*
+
+### Ch 11 — Human Doors *(Eli · Thailand → Laos/Yunnan → Sichuan)*
+- **Immediate want:** reach Rasel before the Mandate moves him; resist the four-day road home to Bangladesh.
+- **Opposing wants:** Edda wants clean voluntary intake; Dara wants to preserve her family freight permit; Emrys wants the fastest evidentiary route; Wren refuses to decide for Eli.
+- **Clock:** north freight list closes; Edda's protected line is faster; Rasel's current clip may be the last.
+- **Choice → cost:** Eli refuses the biometric protected route after seeing genuine proof that Rasel lives. Sora covertly corrupts a border reading; Dara's cross-border license is suspended.
+- **Revelation:** Edda tells the truth and is therefore more dangerous; Rasel is sabotaging forced convergence at a Guanghan program.
+- **Changed exit:** Professor Luo accepts them only after verifying Malai's permission and says Rasel bought time through her institution's stolen data.
+- **Romance cost:** Eli invokes “told first”; Wren discloses the Penang household cost without asking to be forgiven.
+
+### Ch 12 — The Tree with No Top *(Eli · Sanxingdui Museum / conservation program)*
+- **Immediate want:** see Rasel.
+- **Opposing wants:** Luo and Qiao protect site, staff, and interpretive authority; Emrys wants the correspondence to become a model; Wren wants an extraction route; Eli wants the object to answer his family question.
+- **Wonder:** Bronze Sacred Tree—three tiers, nine birds, descending dragon, missing top—experienced first as ancient Shu art, not a cipher.
+- **Choice / discipline:** Eli accepts that the objects owe him no response and that the language tree fails. Malai's data, conservation traces, and Maren's diagram show correspondence without proving descent.
+- **Revelation:** the larger form is a mesh, not one linguistic or genealogical tree. Rasel has sabotaged the Mandate's invented virtual top—the central node their apparatus requires.
+- **Changed exit:** a live camera gap shows Rasel using Eli's breath count; two extraction routes emerge: documented service passage and living drainage/shelterbelt route.
+
+### Ch 13 — The Living Route *(Eli · conservation campus / Mandate annex / greenhouse aftermath)*
+- **Immediate want:** get Rasel out without sacrificing staff or Emrys.
+- **Opposing wants:** Edda wants controlled registration; Rasel wants to destroy the concentration bridge; Emrys wants citable evidence; Luo protects institutional and cultural sovereignty; Wren moves people first.
+- **Clock:** annex activates; staff become synchronized; ordinary emergency response will close the site.
+- **Choice → cost:** the machine absorbs Eli's practiced breath as input. Remembering Kitt's fork and the conservation phase delays, Eli stops seeking one perfect rhythm. Multiple people hold distinct cadences and reciprocal feedback. The clean read dissolves.
+- **Tree-of-Life reveal cap:** **the Tree of Life was never one tree; it is the living world connected to itself.** No full planes, immortality, panspermia, dragon taxonomy, or Two-Tree union.
+- **Cost:** Rasel recovered; Emrys remains at the recorder bank and is captured. Sora protects civilians and exits wounded without receiving instant absolution.
+- **Aftermath:** father-son reunion is collision, anger, and partial truth—not restoration. Rasel reveals that Maren built the first classifier, he built coupling instruments, and Maren later sabotaged the system. Sora identifies Emrys's westward transfer. Book II becomes a moral mother quest.
+- **Ending image:** a neglected tomato tied to Rasel's torn lab cuff; Emrys's empty bucket; morning beyond greenhouse glass.
+
+---
+
+## RETIRED ACT IV — Westward Race and Göbekli *(Book II relocation quarry)*
 
 ### Taş Tepeler revelation ladder — LOCKED 2026-07-16
 
@@ -270,7 +316,7 @@ The on-page sequence therefore moves from **how people survive together** (Çakm
 - **Past leak:** Emrys — map-over-territory slip when lacuna matches mother's notes (`99` #9 seed).
 
 ### Ch 13 — Göbekli and Loss *(Eli · ensemble action · Şanlıurfa / contested site)*
-- **Parade Liturgy drip — LOCKED 2026-07-25:** Bosporus ferry rail — F9 first line only; reader finishes the wind; **ON PAGE** (`54_liturgies.md`).
+- **Parade Liturgy drip — LOCKED 2026-07-25:** Bosporus ferry rail — F9 first line only; reader finishes the wind; **ON PAGE** (`54_liturgies.md`). **Body score coda:** dock child claps once unanswered (Malacca hole / Cube anti-rhyme); Aru feast feet find a count; Daskar burial is silence without clap (`54` § *Body score*).
 - **Want:** read the buried interface before rival teams weaponize or re-seal it (`99` #7).
 - **Attachment:** civilians at dig/shrine/military margin; Emrys's correlation work; **Eshe**-weight in the Daskar fragment.
 - **Obstacle:** **competing teams converge**; old maps fail; **current growth/polarity** is the viable route. **Emrys's serious error** exposes the group or mistimes the window (`99` #9). The factions also fight over what the material record licenses them to claim: a consortium presentation sensationalizes six troughs as a 960-litre brewery and "beer payroll" for coerced labor; the group counters with the actual vessel capacities (about **453 litres total theoretical capacity**), their separate contexts, and the stronger porridge/gruel interpretation. The correction is not trivia — it exposes the consortium turning uncertainty into ownership.
@@ -292,7 +338,9 @@ The on-page sequence therefore moves from **how people survive together** (Çakm
 - **The fight:** factions converge under physical and psionic pressure; civilians in the margin.
 - **The choice:** protect living people / companions **vs.** complete interface record and pursuit of captors.
 - **The cost:** Eli completes personal Manual Override and chooses people; **Emrys is taken**; cleanest interface read lost or partial; **Aru/Daskar** clarify at pillar under pressure.
-- **What survives → Vol II:** grower knowledge from Thailand + partial Göbekli read + living network fragment → Gulf/Europe corridor; Emrys absent; tether west unresolved; Nephilot trail begun.
+- **What survives → Vol II:** grower knowledge from Thailand + Sanxingdui's
+  distributed-network model + Rasel's physics + Sora's transfer code → Mesopotamia,
+  Göbekli, and Europe; Emrys absent; Maren's tether unresolved.
 
 **Thailand agricultural-witness sequence (Ch 5–10) — LOCKED 2026-07-23, not climax:** forming ley line, Ila midpoint, temple/Pai grounding, incomplete recognition of autopilot, and Wren's forced humane choice while Eli hesitates over **agricultural** evidence. **Mekong/Vietnam retired** — prior draft is quarry only. Bangladesh off-page (`99` Priority 1). Border-era spray/burn scar discipline and cooperative water practice require research before prose.
 

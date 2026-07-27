@@ -30,7 +30,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **The orphan-and-father thread** | `37_deep_time_source.md` | Motif | Threads era-to-era as texture, never announced as thesis. Each practitioner's material carries one quiet declining of an offered father — in whatever form that material reaches the page. | I–III |
 | **Patriarchy & bloodlines — recurring chord** | `37_deep_time_source.md` § *Patriarchy & bloodlines* | Motif + dramatization map | Ch **16–17** (Adapa/Qingu, Maren/keeper); Ch **20** (church); deep-time Tem/Anthea at charged grounds. **Plot:** `32`–`33`; **prose:** not yet in `MANUSCRIPT.md`. | II–III |
 | **Broken-line church** | `37_deep_time_source.md` § *The broken-line church* | Present set-piece | Vol II **Ch 5** — negative end / pews, positive end / sacristy. | II |
-| **Nephilot trail — Göbekli → massacre → Alba/elf** | `37_deep_time_source.md` § *Tracking the Nephilot line* | Discovery arc | **Vol I Ch 13** start → **Vol II Ch 5** Pömmelte → **Vol II Ch 6** Alba/elf name. | I–II |
+| **Nephilot trail — Göbekli → massacre → Alba/elf** | `37_deep_time_source.md` § *Tracking the Nephilot line* | Discovery arc | **Book II** Göbekli start → Pömmelte → Alba/elf name. | II |
 | **Sídhe / gods underground** | `WORLD_BIBLE`; `37_deep_time_source.md` § *The Sídhe layer*; `90` §6E | Layered folklore + coexistence protocol | **Vol II Ch 6–7 corridor:** Rowan enters as west-corridor liaison with a missing-person objective; protocol works first (hawthorn boundary; fresh rowan marks/softens the crossing; narrow grounded-iron interruption only when rowan fails; keeper extraction), then the inherited refrain. Wren accepting Rowan's person-first limit permits their formative bond to renew romantically; no ancestry or prophecy. Carrier blood, mound/place, ancestral dead, and remembered gods remain competing layers until later cosmology clarifies them. Changeling material holds real taking beside historical abuse of disabled or ill people. | II–III |
 | **Dead zones & scour** | `37` § *Dead zones*; `38` § *Scour* | World + war mechanic | **I Ch 4, 7** seed → **II Ch 5** named → **III Ch 7–8** scour warfare. | I–III |
 | **Archangels / sarim layer** | `46` §§ E, G | Name seeds; **agency ON HOLD** | I: *angel* surge + Sora Michael medal → II: Daniel/church/callsign → III: limit beats. Cross-plane actors TBD (`46` § H). | I–III |
@@ -75,7 +75,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Turn:** Mandate political squeeze (Babaji keeper holdout) **suspends** the hearth's safety; Eli **leaves on schedule** for Cherry Cube contract as island locks down behind him.
 - **No deep-time clarification fires.** The song is background memory, not the witness lure.
 
-### Ch 2 — Something of Hers / The Southern Exit *(breach at chapter end)*
+### Ch 2 — His Hand / The Southern Exit *(breach at chapter end)*
 - **One sustained movement:** scheduled departure on Suresh's boat → pier gauntlet → Stack intake (**wrong-room overhear** before document clerk) → **ring photograph** → worker maze → Cherry Cube concert hunt → Circuit escape → Straits inspection → reopening Malacca → Hassan's **physical ring** and Wren's colliding extraction → Custodian pursuit → **untrained** fight → asphyxia.
 - **Body-register:** *anomalous residents* / *carrier-adjacent* appears before Eli understands that the apparatus reads bodies rather than documents.
 - **Breach:** receiver ON / undifferentiated web-noise; flare lights the grid. Salmah pulls him out; Hassan and the ring are recaptured.
@@ -178,14 +178,18 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 **Dramatic question:** Can Eli pursue truth without turning people into instruments of his search?  
 **Immediate objective:** reconstruct the damaged clue, understand the historical network, and determine whether his mother can still be reached.
 
-> **Canonical chapter cards:** `32_volume_II_beatsheet.md`. Opens **post-Göbekli** (Emrys **taken** Vol I Ch 13). **Göbekli / Emrys-taken — Vol I only.**
+> **Canonical chapter cards:** `32_volume_II_beatsheet.md`. Opens
+> post-Sanxingdui with Rasel present and Emrys taken; Mesopotamia and Göbekli occur
+> in Book II.
 
 ### Book II, Ch 1 — Bodies and Crossings
-- **Setting:** Corridor out of Anatolia / post-Göbekli.
+- **Setting:** Sichuan exit → westward research corridor → Mesopotamia / Göbekli.
 - **The healer and Eli meet** because independent clue chains cross on the same wounded party.
-- **Romance cost:** Wren **bills Vol I's price aloud** (Laleh, Asha, Göbekli, Emrys taken).
+- **Romance cost:** Wren bills Book I's price aloud (Laleh, Asha, Dara's permit,
+  Sanxingdui, Emrys taken).
 - **Tem's record** introduces distributed contact and broken routes — full-res at **17:1 grain-pit** site.
-- **Forward clue:** westward transfer corridor through Bosporus / Thrace (Göbekli and Mesopotamia **resolved Vol I**).
+- **Forward clue:** Göbekli custody evidence points into the Bosporus / Thrace
+  transfer corridor.
 
 ### Book II, Ch 2 — The Westward Transfer
 - **Setting:** Anatolia → Bosporus / Thrace corridor.
@@ -361,5 +365,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Volume I drafting in progress:** `MANUSCRIPT.md` and chapter prose file `01_Dreamtime.md`.
 - **Deep-time delivery:** one living web, one dial of depth (full-res threads for a minority of practitioners; deep structure for cosmology clarified directly). See `36_the_living_web.md`.
 - **Volume I capped:** **13 chapters**, opening directly with Eli and no historical or Maren/character prologue; backstory arrives through residue. Chapter 1 earns the hearth and the squeeze; Eli **leaves on schedule** (hearth suspended). Chapter 2 carries epic Meridian processing and the southern flight through the Malacca breach; Chapter 3 is aftermath. **Climax locked at Göbekli Tepe (Ch 13)**; incomplete override at **Thailand (Ch 10)**, completed personal Manual Override at Göbekli; **Emrys taken** at Göbekli. **Mekong draft retired.**
-- **Volume II locked spine:** opens post-Göbekli; Bosporus–Thrace/Balkan transfer and Maren truth; Europe dead zones / Pömmelte / Albion; **Maren release** at Ch 7. Adapa remains in Book I Ch 12.
+- **Volume II locked spine:** opens post-Sanxingdui; Mesopotamia / Göbekli;
+  Bosporus–Thrace/Balkan transfer and Maren truth; European dead zones / Pömmelte /
+  Stonehenge relay / Avebury; Maren release at Ch 10.
 - **Volume III locked spine:** refugee landing, real failure of freedom, Crane's workable standard, Wren's boundary, bounded emergency authority, costly non-coercion, public inquiry, and shared-garden coda.

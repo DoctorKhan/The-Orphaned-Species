@@ -51,7 +51,9 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 - **Turn:** extraction attack — father **taken** into **Mandate** lab custody (Bangladeshi passport / **Rasel Khan** on files), mother **removed** on the **Charkha Measure** chain (**Albion passport** — **passport split**), **TBI**; healer stabilizes then **escape network separates them** and moves Eli through **Thailand**; outbreak + Pelangi Reach refuge = first place that felt like **chosen** belonging, not only hiding.
 - **Unreconciled:** song with no name; garden kept **badly** (father's craft without mastery); cousin **Shireen** still in Dhaka; never got to mourn on his own terms. **Naming:** Maren's **Eli** everywhere official; Rasel's **Babu** (dak nam) at home only — body-memory, not plot key.
 
-**Want:** **rescuing his parents** — Maren (Book II), Rasel (Book III). Everything else is means or consequence. Beneath that: a life where he can be ordinary without lying about what he is — cook, garden badly, belong.
+**Want:** rescuing his parents—Rasel (Book I), Maren (Book II). Everything else is
+means or consequence. Beneath that: a life where he can be ordinary without lying
+about what he is—cook, garden badly, belong.
 
 **Not seeking:** power, throne, permanent command, chosen-one ownership — though others will offer all of these because he is useful on the rescue path.
 
@@ -162,6 +164,8 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Formative-bond lock:** Wren and Rowan never completed a deliberate Weaver unbinding. They stopped cohabiting and ended sexual/romantic contact, but shared routes, community obligations, ply-bonded bodily familiarity, and reflexive coordination remained embedded in them and in the people who once depended on them together. Their Book II reunion therefore has immediate gravity without granting either woman bodily or romantic access to the other. **The body remembers whom it trusted; the person still chooses.**
 
+**Craft — Weft — LOCKED 2026-07-26:** Rowan is **Weft** (routes, corridors, Weft letters), not Warp/Knotter/Dyer. West-corridor liaison work is her craft made visible.
+
 **Book II objective:** Rowan's west-corridor branch is shielding local keeper houses, displaced families, and people returned altered from threshold events. A person under her responsibility has gone missing near the mound-path. She will cooperate with Eli's group only while their investigation serves recovery and does not expose the corridor. Her want is not Wren, Eli, or reconciliation: **bring the missing person home and leave the local network harder to own than she found it.**
 
 **Rowan-branch protocol:** Rowan works beside a local fairy-doctor/keeper descendant rather than replacing local knowledge. She insists on fresh rowan branches before grounded iron: living boundary before severance. Her line—*“A completed route is not a returned person”*—is spoken to Wren in the present, not remembered as a dead lover's wisdom. Rowan is not a carrier, Sídhe descendant, reincarnation, or magically named figure. The name coincidence is acknowledged once and dismissed.
@@ -225,7 +229,10 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Voice:** earnest, slightly dusty academic; self-deprecating after failure, never cruel.
 
-**Arc:** converges post-Malacca flare; teaches Eli the scientific habits that become field instincts; his timing error at Göbekli has consequences without making him foolish; **taken** Vol II; chair/key Albion; not the breach cause.
+**Arc:** converges post-Malacca flare; teaches Eli scientific habits that become
+field instincts; objects to the northbound choice but follows; preserves the
+Sanxingdui apparatus record and is **taken at the Book I climax**. His maps and
+absence shape Book II; Crane returns him as a compromised witness in Book III.
 
 **Guardrails:** stress leakage from someone who understands the war — not a clown who doesn't.
 
@@ -391,7 +398,14 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Backstory:** held in the same black-site rotation as Eli's mother for weeks; saw her **removed alive**, not killed on scene; escaped during a transfer accident; believes he owes the dead truth, not the living hope.
 
-**What he carries — LOCKED:** Maren's wedding ring: silver and brass visibly joined at Rasel's imperfect seam, worn by Maren on a cord during fieldwork. Its inner face reads **“same soil”** — the couple's private promise that two people from different places could make one home, a phrase Eli heard growing up; Maren also used it as a Rootbook index hook (`52`, `99` #1). **Three-Circles rhyme:** the ring is the **middle ring made portable** — not part of the diagram tablet (`35`). She gave it to Hassan in captivity because she believed he had the better chance of escaping. Hassan saw her turn it to the seam with her thumbnail whenever she was thinking — a detail no stolen file would contain.
+**What he carries — LOCKED 2026-07-26:** Rasel's wedding ring: silver and brass
+joined at Rasel's imperfect seam, worn for years on Rasel's hand. Its inner face
+reads **“same soil”**—Rasel's phrase for two origins making one home, engraved by
+Maren as her answer. A Mandate intake frame shows Rasel's scarred hand and the ring
+in an evidence tray. Rasel later gives it to Hassan during transfer as proof for
+Eli. Hassan subsequently crosses Maren's custody chain; she recognizes the band
+and links the inscription to a bounded Rootbook index. **Three-Circles rhyme:** the
+ring is the middle ring made portable, never a piece of the tablet.
 
 **Why he helps:** guilt + genuine need to tell a boy what happened; doesn't know the Charkha is using him as a lure until late Act I (or knows and hates it — pick at draft).
 
@@ -403,7 +417,10 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Scene seeds:** handoff slips twice; Eli glimpses the ring before it can be transferred; Hassan is recaptured by the Custodians during the breach; transferred through a Gulf holding site because his memory may unlock Maren's damaged maps; returns alive in Volume II custody; Eli must choose Hassan's extraction over the clean recovery of Maren's evidence.
 
-**Guardrails:** not a walking exposition scroll, disposable martyr, or torture-delivery device; the ring authenticates proximity without making every claim true. “Same soil” remains a family phrase, not a secret map or prophecy.
+**Guardrails:** not a walking exposition scroll, disposable martyr, or
+torture-delivery device; the ring authenticates Hassan's proximity to **both
+parents at different points in the custody chain** without making every claim
+true. “Same soil” remains a family phrase, not a secret map or prophecy.
 
 ---
 

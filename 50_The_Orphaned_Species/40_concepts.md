@@ -125,6 +125,30 @@ The demographic form of that question is: **who wants me alive, and who merely n
 
 The Weavers' Net is the accumulated relational infrastructure the order weaves: marriages arranged or blessed, apprenticeships placed, godchildren claimed, houses allied, debts of hospitality remembered. **Each match is a knot; generations of matches are a net** that spans ports, cultures, and blocs — the human counterpart of the living web.
 
+### Organization — four axes (LOCKED 2026-07-26)
+
+Not one Ajah taxonomy. Full craft lock: `29` § The crafts.
+
+| Axis | Units | Rule |
+|---|---|---|
+| **Place** | house → harbor branch → corridor | No HQ; overlapping contacts; houses may refuse; conference weave when routes cross |
+| **Craft** | **Warp · Weft · Knotters · Dyers** | By work, not rank; may change craft |
+| **Status** | house Weaver / **Unranked** / allied | *Houses keep; Unranked strike*; Unranked outside crafts, still on the ledger |
+| **Bonds** | ply · marriage knot · formative bond | Not crafts; orthogonal to craft membership |
+
+**Crafts (jobs):**
+
+| Craft | Job |
+|---|---|
+| **Warp** | Memory, lineage, initiation, house law; threshold years + ply recognition |
+| **Weft** | Routes, corridors, movement; Weft letters (Rowan) |
+| **Knotters** | Matches, blessings, placements, godparenthood (Asha) |
+| **Dyers** | Plants, remedies, household science, body-care; test-and-record |
+
+**Retired craft names (quarry only):** Spinners → Warp; Menders → Dyers + house competence / Warp; Selvage → house watch duty or Unranked specialty (no peer craft-home for edge labor).
+
+**On-page:** crafts as *what a woman does* — never a taxonomy speech.
+
 ### Formative bonds — difficult to break, never compulsory
 
 A Weaver bond becomes formative through duration and mutual witness, not a ceremony alone. People share houses, survive crossings, tend one another's bodies, hold confidences, learn families, assume obligations, and become a trusted coordinating unit in other people's lives. The bond is therefore stored in more than private feeling: nervous-system habit, domestic routine, community memory, reciprocal debt, and the expectations of people the pair once carried together. Separation can end romance or cohabitation without immediately dissolving that infrastructure.

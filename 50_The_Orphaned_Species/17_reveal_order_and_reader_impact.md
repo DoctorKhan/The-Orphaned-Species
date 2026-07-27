@@ -242,11 +242,15 @@ The name, rumor, effect, or handiwork arrives chapters before the body does.
 
 Canon examples already running this pattern:
 
-- **Maren** — ring photograph, trail, other people's memories of her, long before **Book II rescue** (the reunion is the goodbye).
-- **Rasel** — garden, wage ticket, **Rasel** on forms (some mouths say *Russell*), pier line (*both taken*); **alive, unrescued** through Book II; **Book III rescue** (Mandate lab reunion).
+- **Maren** — her engraving inside Rasel's ring, Rootbook trail, and other
+  people's memories long before Book II release (the reunion is the goodbye).
+- **Rasel** — garden, wage ticket, **Rasel** on forms (some mouths say
+  *Russell*), pier line (*both taken*); proof of life and recovery at Sanxingdui in
+  the Book I climax; present, compromised, and active thereafter.
 - **The healer** — public save → rumor → Eli hears second-hand, before any meeting (LOCKED two-healings order).
 - **The archangel name ladder** — Michael / Gabriel / Persia-prince: allude → reference → recontextualize (`46` § G); names planted volumes before any clarification.
-- **Hassan** — witness who "knows what happened to his mother" is a claim and a ring frame before he is a man in a room.
+- **Hassan** — witness who crossed Rasel's transfer and Maren's later custody
+  chain; first a routed claim and ring frame, then a living man Eli must choose.
 
 **Anti-pattern:** introducing a hinted character in the same volume as their first mention without the mention having done any work. If the gap is short, cut the hint and let them simply arrive.
 

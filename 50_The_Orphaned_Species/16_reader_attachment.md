@@ -36,7 +36,11 @@ The cosmic material matters only because it threatens these things. If a revelat
 
 Eli wants **a place where he can remain: known without being classified, loved without being possessed, and useful without having to earn his right to exist.** This desire, rather than cosmological curiosity, pulls him through the trilogy.
 
-- **Book I — find the home he lost:** he says he wants an explanation and follows Maren's trail, but emotionally he wants proof that he was not abandoned. Göbekli tempts him with the grand identity that could make abandonment seem meaningful. He chooses living people over securing that identity.
+- **Book I — find the home he lost:** he says he wants an explanation and follows
+  Maren's trail, but emotionally he wants proof that he was not abandoned.
+  Sanxingdui gives him Rasel alive and implicated, not an answer grand enough to
+  erase the abandonment. He chooses a living, difficult father over a clean origin
+  story and loses Emrys in the extraction.
 - **Book II — recover the family he lost:** he wants Maren back, another hour with her, and an innocent explanation of her choices. The reunion must be real and mutually desired. He releases her because continuing to keep her would turn love into possession and prolong the machinery consuming others.
 - **Book III — prevent anyone else from losing home:** personal grief expands into the wish to build protection large enough to prevent repetition. That wish is noble and dangerous: it can justify a civilization-engine that classifies, coordinates, and spends people in the name of keeping everyone safe. Eli learns to protect without promising an end to loss or making himself indispensable.
 

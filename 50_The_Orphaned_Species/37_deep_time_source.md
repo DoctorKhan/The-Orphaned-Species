@@ -124,7 +124,9 @@ Energy moves **along the broken route through the building** — parishioners ar
 - **Dead zone ≠ moral stain on locals.** A village beside a scour is not "evil"; someone **upstream** cut the line.
 - **Plot fuel:** dead zones explain why old maps fail, why Crane's archives mark **forbidden wedges**, why Wren detours, why the rice **forming line** is worth killing for — it's new life on a wounded net.
 
-**When:** seeds **Vol I** (maritime detour, South Asia growers' distinction, **Göbekli climax**); name and map **Vol II** (corridor, dead zones, Emrys's absence); **Vol III** — network federation.
+**When:** Book I seeds the distinction through Thailand growers and Sanxingdui's
+distributed model; Book II tests selection/control at Göbekli and follows the
+corridor/dead-zone map; Book III scales the network into federation.
 
 ### Tracking the Nephilot line — Göbekli → massacre → Alba / “elves” (LOCKED discovery arc)
 
@@ -157,7 +159,7 @@ The westward trail does not end with an etymological “elf” click. In Ireland
 
 | Step | Where / when | What Eli learns | Adventure hook |
 |---|---|---|---|
-| **1. Göbekli anchor** | **Vol I — Göbekli Tepe (Ch 13)** (`29`, `31`) | **Selection scar and westward question, not the elf answer.** Aru/Daskar at the **fox-pillar**; the spiral-in-the-eye is a **selection mark**, not mere signature. The incomplete read associates a Qingu-reserve seal, inherited difference, a powerful male carrier/mighty lineage, labor, and reproductive control. It does **not** yet prove a down-breeding system or identify the Nephilot. The burial decommissions the interface, not necessarily the conductor. First-farmer / Basal Eurasian evidence gives Book II a trackable question rather than a solved genealogy. | Contested dig; **faction race to reach the sealed interface first**; touch pillar under pressure; complete record sacrificed; **Emrys taken** |
+| **1. Göbekli anchor** | **Book II** (`32`) | Selection scar and westward question, not the elf answer. Aru/Daskar at the fox-pillar; the spiral-in-the-eye is a selection mark. The incomplete read associates inherited difference, lineage, labor, and reproductive control without proving a down-breeding system. | Contested dig; faction race; Emrys's captive-transfer evidence; complete record remains partial |
 | **2. The trail west** | Vol II corridor / archives | aDNA maps + ley anomalies: minority component and **gift clusters** move toward Europe; carriers **not** one village — scattered, matrilineal pockets. Screening logic: invisible bodies, **magic at the stone** betrays them (`00` Phase IX). | Stale map; wrong hypothesis; planted lead |
 | **3. Massacre ground** | **Vol II — Europe** | A **ring sanctuary** (locked primary: **Pömmelte**, ~2321–2211 BCE — “German Stonehenge”; shaft burials of **dismembered women, juveniles, children** vs dignified **male** graves). Secondary rhyme: **Gomolava** (~800 BCE — 77 killed, **~87% female**, victims **unrelated**, gathered from many settlements). | Eli at excavated/charged site or museum+aDNA drop; somatic cold in the shafts |
 | **4. Women targeted** | Same scene + aftershock | Purge is **not** generic war: **women and children** annihilated while men buried with honor; unrelated victims = **sweep for carriers** (gift-screening), not one clan wiped. Rhymes **Anthea**, **witch-hunts**, chr3 weapon’s gendered politics, patriarchy chord. | Eli grieves **others**; refuses to own their dead |
@@ -188,7 +190,9 @@ The conventional/cyber world war has a covert psionic theater. Countries and all
 | **Strait / maritime corridor** | Deniable psions travel with or manipulate a boarding group, linking the piracy threat to the larger war without making every pirate an occult agent. Wren must distinguish a human tactic from an intrusion in her own perception. |
 | **Bali / agricultural formation** | A newly forming line draws foreign survey teams and local security pressure. Competing psions attack one another around a community that wants neither faction there. Protecting residents matters more than securing the clue. |
 | **South Asia** | The healer is targeted for conscription while another psion cell seeks protection. Eli cannot save both the route and every person; the healer's right to refuse becomes operationally costly. |
-| **Göbekli / Anatolia** | Teams fight for the buried routing geometry at **Vol I climax**. Old maps lure one force into a dead site while living observations expose a new route. **Emrys is taken during or after this contest (Vol I Ch 13).** |
+| **Göbekli / Anatolia** | In Book II, teams fight for buried routing geometry
+while old maps mislead and living observations expose the route. Emrys is already
+captive; evidence at the site reveals part of his transfer. |
 | **Europe** | Cross-border pursuit becomes a chain of ambushes, uneasy alliances, decoys, and attacks through dreams. National allies in the conventional war may be enemies in the psionic theater. |
 | **England boundary** | A monitored threshold on the approach to Albion detects the group's crossing and triggers an immediate prepared psion-team attack. The boundary is an instrumented/signature condition, not a magic wall; the scene proves Albion is contested rather than safely hidden. |
 | **Albion** | Several psion groups converge, each intending to control, destroy, nationalize, privatize, or free the ground. The final battle requires holding the communicative center without letting any team turn collective coherence into domination. |

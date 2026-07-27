@@ -18,7 +18,7 @@ Trilogy maturation (`05`):
 
 | Volume | Dramatic question | Developmental move | Manual Override threshold |
 |---|---|---|---|
-| **I · Shattering** | Can Eli act without turning people into evidence? | **Remain yourself and choose the living** | **Personal/operational:** withstand charge; sacrifice the complete Göbekli record for people |
+| **I · Shattering** | Can Eli act without turning people into evidence? | **Remain yourself and choose the living** | Withstand charge; choose Hassan over Rasel's ring, then recover Rasel through Sanxingdui's distributed living route |
 | **II · Descent** | Can Eli **rescue and release** his mother without possessing her story? | **Remain yourself in relationship; release** | **Relational/web:** hold grief without possession; Maren rescued and released; awakening spreads |
 | **III · The Living World** | Can free communities connect without creating a new center that owns them? | **Coordinate, then disperse** | **Civilizational:** temporary authority ends after necessity; coexistence survives attack and dispute |
 
@@ -52,7 +52,12 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 
 ### Fundamental motor — LOCKED 2026-07-24
 
-**What Eli is fundamentally doing:** **rescuing his parents** — **Maren, Book II**; **Rasel, Book III**. Everything else **follows from that** or is **means** toward it: the mother-trail, Malacca, Göbekli, artifacts, alliances, corridors, even cosmology when it opens a route or a lock. He is **not fundamentally seeking power.** Registry, prophecy, amplifier, throne, and coordinator authority **accrete around him**; factions **offer** power because he is useful on the rescue path. His maturity is refusing to confuse **getting them back** with **owning the world that took them**.
+**What Eli is fundamentally doing:** **rescuing his parents** — **Rasel, Book I;
+Maren, Book II**. Everything else follows from that or is a means toward it:
+Malacca, Sanxingdui, Göbekli, artifacts, alliances, corridors, and even cosmology
+when it opens a route or lock. Book III begins after both rescues and turns the
+motor outward: can he help keep others from being taken without owning the system
+that protects them?
 
 | Layer | Content |
 |---|---|
@@ -60,7 +65,7 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 | **Means** | Clues, routes, witnesses, records, skills, alliances, deep-time reads |
 | **Misread (by others)** | Chosen one, heir, coordinator, indispensable founder |
 | **Misread (by Eli, early)** | If I solve the mystery / earn the record / become necessary, I can get them back |
-| **Mature correction** | Rescue without possession; release Maren; refuse crown; still rescue Rasel in Book III |
+| **Mature correction** | Recover Rasel without demanding innocence; release Maren without possession; refuse the permanent crown |
 
 **Craft rule:** when Eli takes a job, follows a thread, or accepts help, the scene should **also** answer *how does this move the parent rescue?* Power temptations land because rescue **seems** to require them — then cost proves otherwise.
 
@@ -120,7 +125,12 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 - Breach: near-death; Seven = catastrophe not power; **one temple habit** keeps him from total fuse (fragment only).
 - Wren through Book I — **from Ch 1 catamaran:** takes some of his perceptions seriously without mythologizing them; waits for missing words; gives him consequential responsibility; argues with him as an equal; refuses usefulness in place of honest need; desires traits that are his rather than the receiver's. Shared food, humor, silence, attraction, conflict, and repair become his emotional vocabulary **before** Thailand.
 - Mid-Vol I: **Thailand** — **choose people, lose clean agricultural evidence**; **rice band + sluice + spray/burn maps** — connection leap (*the land is reading*) that looks like magic to the cooperative; temple breath and Pai memory hinge — **self-compassion and self-acceptance bear fruit**, while Wren's personal witness helps him recognize fear, shame, grief, and want without converting them into performance; personal Manual Override begins to hold under pressure.
-- End Vol I: **Göbekli** — choose people over **complete interface record**; **working-hypothesis sequence** — uncanny connection **over-reaches**; Emrys forces gaps; **Emrys taken**; partial selection/control scar with Nephilot identity withheld for Book II; rupture with Wren. His ability to oppose Wren without collapsing, obeying, or making the disagreement destiny is personal evidence of the confidence she helped him build.
+- End Vol I: **Sanxingdui** — recognize the Tree of Life as distributed living
+  relation, complete the personal Manual Override through unsynchronized consent,
+  and extract Rasel; **Emrys is taken** while preserving the record. The reunion
+  exposes Rasel and Maren's compromised work instead of resolving abandonment.
+  Göbekli's selection/control counter-image and the Nephilot question move to
+  Book II.
 
 **Vol II**
 - European pursuit: past carriers **disagree**; stops seeking one authority.
@@ -352,12 +362,15 @@ Grief is not unique to Eli. Every point-of-view or near-POV character faces a he
 ## Eli — grief as reception without mastery
 
 ### Grief strands (two distinct losses)
-- **Father (Rasel):** garden failure = shame = unrecognized grief. He tends the plot badly to stay close to a man he misses and resents for leaving. **Stairwell (Ch 1):** learns father **taken alive**, unrescued — **rescue Book III only.**
+- **Father (Rasel):** garden failure = shame = unrecognized grief. He tends the
+  plot badly to stay close to a man he misses and resents for leaving. Ch 1: taken
+  alive. Book I climax: recovered at Sanxingdui, where reunion exposes love,
+  abandonment, and compromised work at once.
 - **Mother (Maren):** believed orphan → **Mei Friday dinner** learns **taken alive** → **Book II rescue**, reunion, release. Father grief must not be leached into mother-quest.
 
 | Grief | Starting form | Development | Proof |
 |---|---|---|---|
-| Rasel | Shame dressed as incompetence in the garden; grief routed through "I should have been better at what he loved" | **Symbolic gift surfaces** in Vol I–II; father **alive but unrescued** after **Mei dinner** | **Rescues Rasel — Book III** (Mandate lab); **green hands** / garden craft owned after both parents addressed |
+| Rasel | Shame dressed as incompetence in the garden; grief routed through "I should have been better at what he loved" | Learns Rasel is alive, rejects Edda's scan bargain, then recovers him at Sanxingdui | Reunion refuses restoration; father and son garden, argue about complicity and control, and remain separate moral agents |
 | Maren | Grief-as-quest; finding her = finding home | Lucid reunion, then release; accepts that both wanting more time and letting go can be true simultaneously | **Rescues Maren — Book II**; releases her at Albion |
 
 ### Development markers
@@ -442,7 +455,7 @@ Track each major choice against **Body / Family / Civilization**:
 | Choice | Body | Family | Civilization |
 |---|---|---|---|
 | Leave Pelangi Reach | Exhaustion, TBI | Kitchen crew, garden | Exposes refuge |
-| Vol I climax | Manual Override + Göbekli choice | Malai's Thailand cooperative (witness) | Emrys taken; factions partial read |
+| Vol I climax | Manual Override + Sanxingdui living route | Malai's cooperative, Luo/Qiao's conservation work, Rasel's sabotage | Rasel recovered; Emrys taken; distributed Tree recognized |
 | Emrys taken | — | Rescue him vs press on | Grid race |
 | Release mother | Grief in chest | Orphaning complete | Node darkens |
 | Climax | Union act cost | Wren open-handed | Fire spreads; no throne |
@@ -471,7 +484,7 @@ Every reconnection that counts has the same shape, and a character can stall at 
 
 | Character | How they were severed | What reconnection actually is | Proof |
 |---|---|---|---|
-| **Eli** | Double orphan; exile from Bangladesh; TBI eating the memories; every faction offering him a *better* lineage (the practitioners, the Nephilot, prophecy) | Rasel recovered as a **specific man** — gardener, loved, difficult — not a martyr; and the discovery that the inheritance is a **practice** (hands in soil, feeding people) rather than a name or a bloodline | **Rescues Rasel — Book III** (Mandate lab); tends the garden properly after both parents addressed — father's hands finally arriving; keeps **Eli**; **Book III grafted garden** — the plot he believed was his private inheritance is shared, altered, and healthier for it (`26` § *Book III garden return*). **Grafting is the thesis image: a line that lives by being changed.** |
+| **Eli** | Double orphan; exile from Bangladesh; TBI eating the memories; every faction offering him a *better* lineage | Rasel recovered at Sanxingdui as a specific man—gardener, loved, difficult, implicated—not a martyr; inheritance becomes practice rather than bloodline | Releases Maren in Book II; in Book III works beside Rasel without becoming his extension; the grafted garden is shared, altered, and healthier for it. **A line lives by being changed.** |
 | **Wren** | No ancestral claim on the Weavers' Bengali–Malaccan branch; her belonging is entirely earned, and Mira's death made her doubt she has the right to any of it | **Chosen kinship is lineage** — the web she joined through work, obligation, and love hands her something real: the quiet-culture adaptation (`§ Quiet-culture lock`) and its threshold rituals. She also inherits its *cost*, and must decide which half to pass on | The **ferry-terminal threshold house**: she is rebuilding the ancestral form (arrive, don't be processed) as an institution that survives her — and, with Asha, adds consent, return rights, and appeal, i.e. **alters the inheritance rather than reproducing it** |
 | **Emrys** | Career destroyed; expelled from the institution that was his line of descent; his dead colleague's work orphaned with him | **Craft-lineage** — the scientific habits (controls, signal/noise, falsifiability) are an inheritance he can hand down without owning the answer. Being a *link*, not a terminus | Eli recalls Emrys's principles at a critical moment when Emrys is absent or taken — transmission proved by working without the teacher present; Emrys does not become Eli's father or the owner of the historical record |
 | **Somchai** | Healer with no legitimate line to point at; the tradition he works in was persecuted into invisibility, so the world offers him only *divine election* as an explanation | Locating the gift in an **ordinary human teacher** — someone's grandmother, a ward, a war, a person who showed him — which is exactly what makes deification refusable. *Son of a man, not son of god* | Names where it came from, to one person, without ceremony; refuses the crowd miracle because a handed-down craft has limits and a divinity doesn't |

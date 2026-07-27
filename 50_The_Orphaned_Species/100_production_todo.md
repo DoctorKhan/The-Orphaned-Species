@@ -1,5 +1,10 @@
 # The Orphaned Species — Production Todo
 
+> **ROUTE REBUILD — COMPLETED 2026-07-26:** `58_sanxingdui_climax_lock.md`
+> governs. Book I Ch 11–13 now run northbound route → Sanxingdui → Rasel
+> reunion / Emrys capture / Maren disclosure. Mesopotamia and Göbekli are allocated
+> to Book II. Book III no longer rescues Rasel.
+
 **Status:** current working checklist, 2026-07-16; **drafting-state audit 2026-07-22** (see `MANUSCRIPT.md` header § Assembly state)
 
 ## Drafting frontier (2026-07-22, in order)
@@ -7,12 +12,22 @@
 1. [x] **Ch 1 ending:** Mandate political squeeze drafted (2026-07-24) — Babaji holdout, screening sweep during late band set; hearth forfeited inside Ch 1.
 2. [x] **Ch 2** complete and **merged into MANUSCRIPT.md** (2026-07-22), Salmah seeded at the quay pre-breach.
 3. [x] **Ch 3 — What Didn't Die** drafted (2026-07-22, `DECISIONS_Chapter_Three.md`): Salmah named and priced, her cost witnessed at distance; Nura/Ilyas separation with consent visibly not asked; Emrys measures and withholds ("numbers that don't fit my boxes"); grounding via the cup trick + Thailand count; decision scene ends on "I'm not going dark" and Wren's name. **Merged into MANUSCRIPT.md** (2026-07-22); 8 draft choices retained in the stub as decision record.
-4. [x] **Ch 4-13** drafted into MANUSCRIPT.md (2026-07-22) — **VOLUME I DRAFT COMPLETE**. Next: author read-through against decision records, then the passes below.
-4b. [x] **Weavers' Net — Vol I seed (2026-07-24):** Ch 2–5 in `MANUSCRIPT.md` — THRESHOLD HOUSE, green cord, platform knot, house review weave, Net named to Eli. **Remaining:** Ch 6–13 (cooperative Net debt, keeper craft, pilgrimage knots at Göbekli).
+4. [x] **Book I governing sequence complete:** Ch 4–10 retained and revised;
+   replacement Ch 11–13 drafted through Sichuan, Sanxingdui, Rasel reunion, Emrys
+   capture, and Maren disclosure. Former Gulf/tell/Göbekli prose is labeled quarry.
+4b. [x] **Weavers' Net — Vol I seed:** threshold house, green cord, platform
+   knot, house-review weave, cooperative debt, and human-door route all appear in
+   the governing draft. Göbekli pilgrimage knots belong to Book II.
 5. [x] **Sensuality pass — RUN 2026-07-22** (eight injections: mee goreng, Cube dazzle, Nura's meal, phosphorescence, the band thinking about light, Wren's plank trip, the Bangladesh feast tasted, the Urfa courtyard). Original spec: the draft runs on obligation-currency; pleasure is instrumentalized (food = debt tokens, beauty = evidence, touch = triage). Inject 1–3 beats per chapter: one free taste, one beauty-stop, one licensed body-awareness beat (Wren's stair-trip armor-break is undrafted; A-column starved). Rule: pleasure must sometimes be free — not foreshadowing, not a debt, not about to burn. Thesis link: grounding IS bodily pleasure; the ending's "victory is breakfast" must be sensorily earned. Candidates: Mei's terrace dish tasted (Ch 1); Cube dazzle before dread (Ch 2); Nura's food flavored (Ch 3); phosphorescence on Pak Din's passage (Ch 4); leaning rice as lovely (Ch 7); the Bangladesh feast eaten (Ch 11); Urfa food in the worst week (Ch 13).
-6. [ ] **Desire pass — Vol I:** for every scene, identify immediate want, deeper desire, legitimate counter-desire, hard no/delay, cost, and changed exit condition. Keep Eli's hidden need—proof he was not abandoned—under the ring trail and Göbekli identity temptation. Convert lore-only turns into desire meeting a hard no.
-7. [ ] **Poetic-rhyme pass — Vol I:** keep prose plain around pressure points; strengthen only images that change perception or choice. Audit Maren's ring, Rasel's garden, breath, names, food, and repair so recurrence changes meaning rather than merely repeating. Cut sentences that explain an image after it lands.
-8. [ ] **Dramatic-multiplicity pass — Vol I:** ensure every major ally and antagonist holds part of the truth, wants something beyond Eli, and can persuasively justify a consequential choice. Preserve humor, appetite, inconvenience, and bodily life beside cosmology; no character becomes the thesis mouthpiece.
+6. [x] **Desire pass — Vol I:** completed against the governing 13-chapter
+   sequence. Eli's abandonment fear drives the Rasel scan offer; each clue now
+   changes route, cost, or relationship.
+7. [x] **Poetic-rhyme / restraint pass — Vol I:** author research notes moved out
+   of reader text; explanatory after-sentences cut; ring, garden, breath, names,
+   food, and repair recur with changed meaning.
+8. [x] **Dramatic-multiplicity pass — Vol I:** Wren, Emrys, Edda, Sora, Rasel,
+   Malai, Luo, and Qiao retain independent motives, authority, and consequential
+   choices.
 9. [ ] **Charkha Measure entry** in `26_present_day_cast_expanded.md` (the Charkha as institution with people and incentives — on-page from Ch 1; no-sides audit).
 10. [ ] Research passes, just-in-time: Pelangi Reach island texture (Ch 1), Malacca market/river (Ch 2–3), Sama-Bajau (first Timah scene).
 
@@ -20,8 +35,11 @@
 
 ## Before drafting
 
-- [ ] Lock the Book I scene cards: POV, immediate want, obstacle, choice, cost, revelation, and forward consequence for every scene.
-- [ ] Finalize the Book I artifact handoffs: Three-Circles Tablet → partial tree/guardian evidence → King List/Adapa material → Göbekli climax.
+- [x] Lock the Book I scene cards: POV, immediate want, obstacle, choice, cost,
+  revelation, and forward consequence for every scene.
+- [x] Finalize the Book I clue handoffs: ring → Malacca breach → Thailand forming
+  line / polarity series → Sanxingdui conservation record → Rasel / westward
+  transfer code. King List, Adapa, and Göbekli move to Book II.
 - [ ] Name and ground the remaining cast: Pelangi Reach residents, Tomas and Nia's surrounding relationships, Sol's coalition, Sora's defection path, Hassan's rescuers, and Book III survivors.
 - [ ] Define the *Elmarillion* excerpts and reader-only deep-history layer.
 - [ ] Verify research-sensitive references before prose locks: Göbekli plaquette, Timna serpent, Arslan Tash, Sumerian texts, Enheduanna, *Inana's Descent*, and PIE/Indo-Iranian terminology — **including the Deiwos/Divine Twins citations** (`52` § deiwos entry: RV 1.116.3–5 Bhujyu rescue, Homeric Hymn 33, Alcaeus fr. 34, Pliny NH 2.101, Ward 1968, West 2007 — confirm verse/fragment numbers and the *Divó nápātā* epithet attestations).
@@ -29,17 +47,24 @@
 
 ## Book I — *The Breach*
 
-- [ ] Draft Pelangi Reach ordinary life and the Mandate political squeeze (revised 2026-07-24).
-- [ ] Draft the sustained Meridian City–Straits–Malacca flight; breach ends Chapter 2.
-- [ ] Draft aftermath/grounding and Wren's independent extraction (Chs 3–4).
+- [x] Draft Pelangi Reach ordinary life and the Mandate political squeeze.
+- [x] Draft the sustained Meridian City–Straits–Malacca flight; breach ends Chapter 2.
+- [x] Draft aftermath/grounding and Wren's independent extraction (Chs 3–4).
 - [x] **Thailand Ch 5–10 governing draft** in `MANUSCRIPT.md` (2026-07-23). Mekong quarry retired.
-- [ ] Draft Gulf/Mesopotamian evidence without repeating it in Book II.
-- [ ] Draft Göbekli: Eli completes personal Manual Override, chooses people over the complete record, and Emrys is taken.
+- [x] Draft northbound route from Thailand: Shireen return-choice, Edda's true Rasel proof, human-door cost, Sichuan entry.
+- [x] Draft Sanxingdui through legitimate Chinese custodianship: Bronze Sacred Tree as model, local scholars with authority, language-tree break, Rasel's coerced apparatus.
+- [x] Draft Sanxingdui climax: distributed living route over machine read; Rasel recovered; Emrys taken.
+- [x] Draft father-son aftermath and Rasel's disclosure that Maren helped build the early tools before resisting.
 
 ## Book II — *The Descent*
 
-- [ ] Draft the westward Anatolia → Bosporus/Thrace/Balkans transfer; no Gulf backtrack.
-- [ ] Make the Europe chain causal: Hassan record → dead-zone signature → Pömmelte → broken-line church → Anthea → **bitter cup + Lovernios (Anglesey Ch 6)** → Cuno → Albion.
+- [x] Rebuild Book II scene spine with Rasel present and Emrys absent; relocate
+  Mesopotamian archive and Göbekli / Taş Tepeler into the westward route.
+- [x] Lock the westward causal route through Mesopotamia/Anatolia →
+  Bosporus/Thrace/Balkans; no Gulf backtrack.
+- [x] Lock the Europe clue chain: Hassan record → dead-zone signature → Pömmelte
+  → broken-line church → Rollright/Men-an-Tol → bitter cup / Lovernios → Stonehenge
+  relay → Avebury release.
 - [ ] Dramatize the Arta, Enheduanna, and *Inana's Descent* material without turning texts into exposition.
 - [ ] Make melam external field-pressure and ni embodied awe/fear; show ni being converted into persecution and obedience.
 - [ ] Give Maren's release a real strategic cost: Eli surrenders a useful tether and chooses her freedom.
@@ -47,6 +72,8 @@
 
 ## Book III — *The Living World*
 
+- [x] Remove Rasel-rescue allocation; give him an independent scientific and civic
+  conflict after his Book I recovery.
 - [ ] Draft named refugee/victim relationships before the Pelangi Reach death.
 - [ ] Dramatize Enki/Ninmah–Umul as dignity beyond institutional usefulness.
 - [ ] Stage Eli's intermediate near-synchronization attempt during the Washington evacuation.

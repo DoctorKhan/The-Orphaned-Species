@@ -1,8 +1,10 @@
 # Volume II — *The Descent* — Beat Sheet
 
+> **AUTHORITATIVE ROUTE — LOCKED 2026-07-26:** `58_sanxingdui_climax_lock.md` governs. Book II begins after Sanxingdui with **Rasel present and Emrys captured/absent**. Mesopotamian archive and **Göbekli / Taş Tepeler move into Book II** as the selection/control counter-image to Sanxingdui's distributed Tree of Life, before the route continues through the Bosporus–Balkans and Europe to Maren at Albion. Older post-Göbekli opening assumptions below are stale.
+
 > **HIGH PRIORITY — LOCKED 2026-07-25:** Chapter beats must pass **`55_series_pitch_and_comps.md`** 10-point clue-chain gate (landmark set-pieces, dual-register clues, short-loop payoff). **Vol II chapter-by-chapter audit + end hooks:** `55` § *Book II — chapter-by-chapter pitch audit*.
 
-> **CURRENT SPINE — LOCKED.** Book II runs **post-Göbekli Anatolia → westward transfer corridor (Bosporus/Thrace/Balkans) → Europe → Rollright/Men-an-Tol → Stonehenge relay → Avebury climax**, and ends with **Maren's release + relational Manual Override + the first spreading awakening** (`41` = the Book II climax mechanism). **Stonehenge is the relay discovery and Cuno transmission site, not the emotional climax. Avebury is the inhabited, distributed landscape where the ambush, reunion, release, and awakening occur.** **Göbekli and Emrys's capture are Book I** (`31` Ch 13) — do not stage them here; Emrys is absent through Book II (charts/notes/absence only). Adapa, the 4.2-ka layer, and the inward control-order revelation remain in Book I Ch 12. The chapter cards below are in current order.
+> **CURRENT SPINE — LOCKED 2026-07-26.** Book II runs **post-Sanxingdui with Rasel present → westward research/human corridor → Mesopotamian archive / Göbekli → Bosporus/Thrace/Balkans → Europe → Rollright/Men-an-Tol → Stonehenge relay → Avebury climax**, and ends with **Maren's release + relational Manual Override + the first spreading awakening** (`41` = the Book II climax mechanism). **Stonehenge is the relay discovery and Cuno transmission site, not the emotional climax. Avebury is the inhabited, distributed landscape where the ambush, reunion, release, and awakening occur.** Emrys was captured at Sanxingdui and remains absent through Book II (charts/notes/absence only). The old chapter cards below require a new causal and geographic pass.
 
 > **FAMILY AND LOSS — THEMATIC LOCK 2026-07-22; parent rescue 2026-07-24:** Book II is where Eli understands family across the whole movement: shelter and inheritance, secrecy and complicity, usefulness mistaken for love, protection becoming possession, chosen kin, biological descent, and the necessity of release. Eli **rescues Maren — Book II** (not Rasel). The ancient household and lineage evidence from Book I becomes emotionally legible through Maren, Rasel, Wren, the healer, Pömmelte, and the Rootbook's kinship branch. Maren's release proves: **whom I love does not belong to me.** Book II may plant the mechanisms later scaled by states, but it does not yet state civilization's engine/exhaust synthesis; that recognition belongs to Book III.
 
@@ -14,11 +16,11 @@
 
 > **COSMOLOGICAL FUNCTION — LOCKED 2026-07-15:** Book II reveals that the Drift is purposeful pressure: humanity has brought the Tree of Knowledge toward fruition while severing it from life. Maren's release begins the education by which technological intelligence can become understanding rather than fear of life-technology and the Nephilot/elven line.
 >
-> **GEOGRAPHY / REVEAL LOCK — 2026-07-15:** Book I owns the Gulf/Mesopotamia Adapa chapter (Book I Ch 12). Book II does not backtrack south or repeat the 4.2-ka/control-order material. Hassan is transferred west after Göbekli through a **Bosporus–Thrace/Balkan holding corridor** because Maren's sabotaged maps point toward Albion. The Maren midpoint is Book II Ch 3, on the Anatolia-to-Europe path.
+> **GEOGRAPHY / REVEAL LOCK — 2026-07-26:** Book II owns the Mesopotamian archive, Adapa / 4.2-ka distinctions, Taş Tepeler, and Göbekli. The route must compress travel through causal handoffs rather than tourism. Hassan's transfer continues through a **Bosporus–Thrace/Balkan holding corridor** because Maren's sabotaged maps point toward Albion.
 
 *Chapter-by-chapter spine for Volume II (Descent), built on locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `29_trilogy_plot_and_development.md` (trilogy hub), `SOURCE_TO_TRILOGY_MAP.md` (atlas), `31_volume_I_beatsheet.md` (Vol I), `30_beatsheet_ch09_adapa.md` (Adapa watched-depth), `37_deep_time_source.md` (deep-time + LOCKED §§: patriarchy, dead zones, Nephilot trail, broken-line church), `38_psionic_combat.md` (war + scour), `27_character_development_arcs.md` (Vol II arcs), `99_open_questions.md` (open pins).*
 
-> **Locked inputs this sheet chains together:** opens **post-Göbekli** (Emrys **taken** at Vol I climax — `31` Ch 13) → Eli and **Somchai** meet on **independent clue chains** (#8) → **Tem** full-res at a **17:1 bottleneck** grain-pit site → the **westward transfer** carries Hassan/Maren truth → **Europe:** **dead zones named**, **Pömmelte massacre and the first clear Nephilot/elf identification**, **broken-line church** → **Anthea** (Rollright) + **bitter cup / Lovernios** (Anglesey) + **Cuno** (Stonehenge) + **Alba → Albion** name beat → **England ambush** → **Maren release** + **relational Manual Override** (Volume II end threshold). **Adapa/Qingu and the 4.2-ka control revelation are Book I Ch 12, not repeated here.** **Archangel ladder:** Michael / Gabriel / Persia prince — reference in Vol II (`46` § G). **Göbekli / Aru / Daskar / Emrys-taken — Vol I only** (`31` Ch 13; `99` #7). **Plant-medicine threshold (bitter cup) — Book II Ch 6 only** (`99` #bitter-cup); **not** Book I Thailand.
+> **Locked inputs this sheet chains together:** opens **post-Sanxingdui** (Rasel recovered; Emrys taken) → Sora's transfer code and Rasel's knowledge force the westward route → Mesopotamian archive / Adapa distinctions → Göbekli selection/control counter-image and captive-transfer evidence → Eli and **Somchai** meet on independent clue chains → Hassan/Maren truth in the Bosporus–Thrace corridor → **Europe:** dead zones, Pömmelte, broken-line church → Anthea / Rollright, bitter cup / Lovernios, Cuno / Stonehenge → Avebury / Albion release. Plant-medicine threshold remains Book II only.
 
 > **ROOTBOOK — LOCKED 2026-07-21:** Book II expands Maren's journal from the first name/step index into a comparative tree of **knowing** and **kinship**. One key is wrong, a living community corrects one of Maren's readings, and recovered pages expose her voluntary work with Crane. The journal contributes to the Albion convergence but never names Maren's tether as a recoverable address. Full design: `52_the_rootbook_word_web.md`.
 
@@ -30,7 +32,86 @@
 
 ---
 
-## Vol II opening — LOCKED
+## AUTHORITATIVE BOOK II SCENE SPINE — LOCKED 2026-07-26
+
+### Ch 1 — What Came Home *(Eli · Sichuan exit / westbound handoff)*
+- **Immediate want:** keep Rasel free and learn where Edda moved Emrys.
+- **Opposing wants:** Rasel wants to expose the Mandate physics before pursuing Maren; Wren wants to rest Sora's compromised route; Sora wants protection without yet testifying; Eli wants movement now.
+- **Choice → cost:** Eli refuses to treat Rasel's return as restoration and accepts a public data release that makes their location easier to track. Rasel's evidence survives; their quiet exit does not.
+- **Revelation:** Emrys and Hassan share a west-corridor transfer category. Rasel knows the category was historically used for failed maps and charged-ground research.
+- **Emotional job:** father and son discover that love survived without agreement, innocence, or shared memory.
+- **End hook:** a Mesopotamian archive packet contains Maren's next bounded checksum and the same centralizing fiction Rasel sabotaged.
+
+### Ch 2 — The Refusal *(Eli · Mesopotamian archive / tell)*
+- **Immediate want:** recover the packet before Edda's legal hold reaches the archive.
+- **Opposing wants:** local curator protects context and refuses extraction; Rasel wants Maren's technical marginalia; Eli wants a mother-answer; Wren wants Hassan's live route prioritized.
+- **Action:** contested plaque, Adapa lacuna, dry canal witness, Refusal / Sorting / Fade kept chronologically distinct. The archive is gained through a legitimate relationship, not theft.
+- **Choice → cost:** Eli chooses the curator's slow, witnessed process; Edda obtains the outbound route.
+- **Revelation:** Life was refused under a warning the receiver could not verify; institutions later converted difference into sorting. The selection mark points to Göbekli, while Emrys's covert recorder packet proves he is alive.
+- **End hook:** Göbekli conservation window and captive-security movement converge on one date.
+
+### Ch 3 — The Buried Instrument *(Eli · Göbekli / Taş Tepeler)*
+- **Immediate want:** use Emrys's packet to locate him and read the interface before the consortium seals access.
+- **Opposing wants:** consortium wants monetizable ownership; Edda wants the transfer undisturbed; Rasel wants to test the Sanxingdui model; local researchers reject a one-capital theory.
+- **Counter-image:** Sanxingdui branches access; Göbekli makes contact repeatable and therefore governable. The Bridge plaquette remains disputed.
+- **Choice → cost:** Eli saves site workers / visitors during a containment clash rather than following Emrys's departing vehicle. Emrys remains captive; the complete activation record is lost.
+- **Revelation:** contact became selection and managed access, but the site does not explain the full civilization engine.
+- **End hook:** the departing convoy leaves an injured prisoner carrying Hassan's transfer signature; Somchai's clinic receives them.
+
+### Ch 4 — The Healer's Terms *(Somchai POV → hard break → Eli · corridor clinic)*
+- **Immediate want:** Somchai keeps the injured prisoner alive without becoming faction property; Eli needs the testimony.
+- **Opposing wants:** pilgrims want a miracle; security wants a registered healer; Eli wants Somchai to risk another read; Somchai refuses ownership from all sides.
+- **Choice → cost:** Somchai heals openly enough to expose himself, then denies Eli access until the patient consents.
+- **Revelation:** the patient identifies the Bosporus–Thrace holding route and confirms Hassan is alive. “Kneel → cage → burn” begins around Somchai.
+- **End hook:** one extraction window; Wren's Net and Eli's parent trail want incompatible uses of it.
+
+### Ch 5 — What They Took *(Eli · Thrace/Balkan holding site)*
+- **Immediate want:** get Hassan out.
+- **Opposing wants:** Edda offers Emrys for the Rootbook fragment; Rasel wants the technical record; Wren moves the person first; Hassan refuses to become evidence until safe.
+- **Choice → cost:** Eli chooses Hassan over the clean Maren file. Emrys is moved again; part of Maren's record remains behind.
+- **Midpoint revelation:** Maren's body is dead; something of her is tethered west. She built the classifier, resisted, and sabotaged the maps. Search becomes release, not rescue.
+- **Romance cost:** Eli reaches for Wren as replacement home; she refuses the chair.
+- **End hook:** Hassan's first-person account identifies a dead-zone signature matching Pömmelte's carrier purge.
+
+### Ch 6 — The Changing Map *(Wren POV → hard break → Eli · Pömmelte / broken-line church)*
+- **Immediate want:** recover a missing threshold-house person while following the dead-zone signature.
+- **Opposing wants:** Wren wants to sever the compromised route; Rowan insists a completed route is not a returned person; Eli wants the historical proof; local descendants want the dead treated as people, not carrier samples.
+- **Action:** Pömmelte reveals targeted women/children and a surveillance geometry; the broken-line church repeats inward control at domestic scale. Corridor break destroys fixed routes.
+- **Choice → cost:** Wren burns registry access to recover the missing person, sacrificing her network's clean map.
+- **Revelation:** Charkha dependency-transfer records show opposed grievance scripts aimed at durable horizontal reliance. The first Deiwos chalk shelter opens and burdens Eli.
+- **End hook:** living song / polarity rather than maps points toward Rollright and Men-an-Tol.
+
+### Ch 7 — The Riddling Ground *(Eli · Rollright / Men-an-Tol)*
+- **Immediate want:** hold Anthea's thread without claiming it.
+- **Opposing wants:** Rowan negotiates the weak crossing; Wren wants iron used immediately; a local keeper prioritizes the missing living person; Eli wants contact prolonged.
+- **Choice → cost:** Eli permits iron to sever the contact once the person is recovered, losing more of Anthea's message.
+- **Revelation:** rowan negotiates; iron breaks. Sídhe names a layered memory of carrier, place, ancestor, and remembered god. Wren/Rowan renew by explicit choice, not inherited ply.
+- **End hook:** the carried chord requires the Anglesey threshold before Stonehenge can answer.
+
+### Ch 8 — The Bitter Cup *(Eli · Anglesey / Lovernios ground)*
+- **Immediate want:** recover the missing interval under a closing pursuit clock.
+- **Opposing wants:** keeper enforces consent and abort rules; Eli wants to rush; Rasel distrusts uninstrumented contact; Wren refuses to certify Eli's choice for him.
+- **Choice → cost:** Eli enters under bounded protocol and exits with only partial memory, bodily depletion, and no universal key.
+- **Revelation:** Lovernios shows growth as living map and plant intelligence as relationship, not oracle. A changeling record holds both a real taking and the harm done to an innocent disabled child.
+- **End hook:** the interval and Cuno's geometry make Stonehenge a live relay; hostile teams are already there.
+
+### Ch 9 — The Chair *(Eli · Stonehenge relay / Albion approach)*
+- **Immediate want:** reach Maren before factions convert the tether into an amplifier.
+- **Opposing wants:** Edda wants controlled containment; Sol wants forced unity; Rasel wants one final instrumented verification; Wren/Rowan keep evacuation from becoming sacrifice.
+- **Choice → cost:** the group forms without one owner; Eli refuses to enter Maren until she recognizes and invites him.
+- **Revelation:** Cuno's formation makes many minds one antenna without one sovereign. The relay points to the inhabited Avebury landscape, not a throne at Stonehenge.
+- **End hook:** Maren is lucid, compromised, and asking not to be kept.
+
+### Ch 10 — Release *(Eli · Avebury / inhabited Albion ground)*
+- **Immediate want:** remain with his mother.
+- **Opposing wants:** Maren wants release; Rasel wants time; Eli's grief wants preservation; Sol argues the tether is strategically indispensable.
+- **Choice → cost:** Eli releases Maren and surrenders a usable stabilizing signal. The group holds relational Manual Override under attack without worship, betrayal, or command hierarchy.
+- **Resolution:** awakening spreads through the living web. Wren/Rowan and Wren/Eli name separate chosen bonds; Rowan/Eli establish respect and no romance.
+- **Book III ignition:** Sol recruits forced unity; Edda's diagnosis of unmanaged danger gains evidence; communities receive capacity before civic structure.
+
+---
+
+## RETIRED PRE-SANXINGDUI BOOK II REBUILD QUARRY
 
 **Ch 1** opens on the **corridor out of Anatolia / post-Göbekli** — no recap prologue. Vol I's surviving fragments (**Thailand** grower knowledge + partial Göbekli read) and **Emrys's absence** are the luggage Eli trusts. **Maren suppression** is **not** a prologue; it lands **Ch 3** when Eli is ready to receive how she was taken.
 
@@ -69,7 +150,13 @@
 ### Ch 3 — What They Took *(Eli · Thrace/Balkan holding site + recovered record)*
 - **Want:** find his mother.
 - **Attachment:** Maren as **person**, not plot device — song, harbor chain, research (`26` Maren layer).
-- **Obstacle:** courteous **Charkha suppression machinery** — clipboards, van, neighbor's light out (`99` #Maren-suppression). The Custodians are moving **Hassan through a Thrace/Balkan holding site** because his memory may unlock Maren's sabotaged maps. **Sora has leaked the transfer route to Wren**, without revealing herself as the source. Hassan remains alive with the wedding ring and first-person knowledge no archive can replace. Eli learns both **how Maren was taken** and why the program could find her: she willingly helped build the program's early signature and integration tools before becoming a dissident.
+- **Obstacle:** courteous Charkha suppression machinery—clipboards, van,
+  neighbor's light out. The Custodians are moving Hassan through a Thrace/Balkan
+  holding site because his memory may unlock Maren's sabotaged maps. Sora has
+  leaked the route. Hassan remains alive with **Rasel's wedding ring** and
+  first-person knowledge of both custody chains. Eli learns how Maren was taken and
+  why the program could find her: she willingly helped build its early signature
+  tools before becoming a dissident.
  - **Release cost — LOCKED:** Maren's tether is still stabilizing the western awakening and could help locate other trapped carriers. Releasing her will scatter that usable signal and make the network harder to defend. Eli must surrender a strategic advantage, not merely rescue a captive.
 - **Choice → Cost:** when a clean evidence recovery conflicts with getting Hassan out, Eli chooses the person; part of Maren's technical record remains with the captors. He receives the surviving account without converting complicity into betrayal or resistance into absolution. Cost: grief with neither rescue fantasy nor innocent-mother story left.
 - **Revelation (MIDPOINT):** mother's **body is dead**; something of her is **tethered** in the western web of charged grounds — **no usable address**. Search becomes **release**, not rescue. Her sabotage damaged the grid but also helped produce the broken charts now guiding them. **Forward clue:** only **living observation** (growth, polarity, song) can triangulate west — old maps fail.

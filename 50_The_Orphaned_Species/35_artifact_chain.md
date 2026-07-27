@@ -109,7 +109,7 @@ Discovery-order note: **artifact zero** means oldest/deepest in cosmological pre
 |---|---|---|---|
 | **The Forks** / Double-Fork Stone | Fictional story artifact, withheld until Book III | Earth-produced bird/chimpanzee branches beside Heaven/panspermic dragon/human branches | Late biological/cosmological reveal; street **The Forks**; validates the parallel bridge-species design without making dragons an early taxonomy clue |
 | **The Circles** / Three-Circles Tablet | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator | Street **The Circles**; practice model as material image; test whether cosmology, social diagram, ritual plan, or later forgery |
-| **The Bridge** / Göbekli snake/tree/bird plaquette | Real Göbekli Tepe small find reported in excavation/public outreach material; exact publication, inventory number, and image rights to verify before use | Three carved symbols (snake, tree, bird): Earth's earliest surviving **bridge diagram** — tree = living interface where Heaven meets Earth; snake and bird = the two transmission functions later myth turned into enemies. Three stacked readings: terrestrial (low / Edin / high), guardian (under-route / living route / sky-route), cosmological (Earth-depth / bridge / Heaven-seed). See § *Göbekli plaquette* | Street **The Bridge**; pre-split photograph; Book I cap — no on-page panspermia certification |
+| **The Bridge** / Göbekli snake/tree/bird plaquette | Real Göbekli Tepe small find reported in excavation/public outreach material; exact publication, inventory number, and image rights to verify before use | Three carved symbols (snake, tree, bird): Earth's earliest surviving **bridge diagram**—tree = living interface where Heaven meets Earth; snake and bird = transmission functions later myth turned into enemies. Three stacked readings: terrestrial, guardian, cosmological. See § *Göbekli plaquette* | Street **The Bridge**; Book II discovery; no on-page panspermia certification until Book III |
 | **The Fade** / Sumerian King List / Weld-Blundell tradition | Real textual tradition and surviving manuscripts | Before the Flood, reigns last impossibly long; afterward durations contract toward recognizably human lifespans. The sequence preserves a cultural memory of lost immortality, rhyming with the long lives and later decline of biblical patriarchs. | **Human-Design Triad (3/3)** — street name **The Fade**; mortality as right boundary, not curse (`35` § *Mesopotamian Human-Design Triad*) |
 | **The Refusal** / Adapa tablet with a lacuna | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | **Human-Design Triad (1/3)** + load-bearing object #3; street name **The Refusal** (first hearing may say “Adapa’s Refusal”); foolable mind; Tree of Life withheld (`99` #10) |
 | **The Sorting** / Enki and Ninmah role-fragment | Real Sumerian literary tradition with fragmentary lines; exact object in the novel may be a copy, photo, or disputed reconstruction | Ninmah creates people whose bodies or capacities do not fit the expected pattern; Enki assigns fates, bread, and places; Umul breaks the text | **Human-Design Triad (2/3)** — street name **The Sorting**; **everyone has value**; roles/specialties; Umul = **The Unplaceable** (`35` § *Mesopotamian Human-Design Triad*) |
@@ -154,7 +154,12 @@ This wording must be treated as a **selected scholarly reading**, not an unconte
 - It places the cosmic council at household scale, fitting the Three Circles braid: civilization's divine offices enter family protection and bodily fear.
 - Its debated authenticity and uncertain market provenance make it dramatically honest. A faction can call it a forgery; a custodian can defend it; material analysis and comparative inscriptions can alter confidence without producing certainty.
 - It gives the artifact chain a real reason to pass through stories and scholarship rather than certified flashback.
-- **Domestic register — LOCKED 2026-07-25:** Maren Holt cross-indexed AT1's **Ancient Earth** covenant line to Rasel's engraved **same soil** on her wedding ring (`99` #1; `52` earth/soil constellation). Household plaque grammar and family-band grammar rhyme; Eli hears home at Vol I Ch 2, argues the concordance later.
+- **Domestic register — LOCKED 2026-07-26:** Maren Holt cross-indexed AT1's
+  **Ancient Earth** covenant line to **same soil** inside Rasel's wedding ring
+  (`99` #1; `52`). The phrase is Rasel's; Maren had it engraved as her answer and
+  later used it as a bounded journal index. Household plaque grammar and family-band
+  grammar rhyme; Eli hears his father and home in Book I, then follows Maren's
+  concealed concordance in Book II.
 
 In the plot, the protagonists need not steal or possess the original. A high-resolution scan, old squeeze, unpublished photograph, disputed reading, or missing dossier can provide the clue while the physical object remains inaccessible or lost during war.
 
@@ -195,7 +200,15 @@ Guardrail: unless a real archaeological analogue is identified, this is a fictio
 - **Book II — The Descent (middle ring):** The tablet re-enters as a re-read, not a new object. Eli now has lived evidence of what the middle ring does when it holds (Somchai's community) and what it costs when it breaks (Maren's loss, Pelangi Reach purged, fellowship fractured). The diagram becomes a question: does he let the charge propagate through a broken ring, or does he build the containment that holds?
 - **Book III — The Return (outer ring):** The full Three Circles reading lands here. Eli has seen all three levels in operation. The diagram becomes his political vocabulary. Pelangi Reach's breakdown was outer-ring failure; the distributed harbor net succeeds because it operates across the middle ring, not despite it. The climax is a structure that holds across all three rings without a single center.
 
-**Maren's wedding ring — middle-ring rhyme — LOCKED 2026-07-25:** The silver-and-brass wedding ring (`99` #1) is the **Family circle made wearable** — covenant on the body (cord, chest, hands) before Eli encounters this tablet. Two metals, one imperfect seam = transformation that still holds; *same soil* = middle-ring mediation in Rasel's English (two origins, one home). The ring **rhymes with** the diagram; it is not a shard of the tablet. **Vol I sequence:** ring photograph → Malacca breach may surface one ordered fragment (three concentric circles) → physical tablet encounter post-breach. **Registry photograph** of the ring = Civilization (outer) absorbing a Family (middle) token. **Book II:** tablet re-enters as re-read after Pelangi loss, Maren's capture, and Hassan recaptured with the ring — Eli understands the middle ring from loss, not from jewelry.
+**Rasel's wedding ring — middle-ring rhyme — LOCKED 2026-07-26:** The
+silver-and-brass band is the **Family circle made wearable**. Rasel made and wore
+it; Maren engraved his phrase *same soil*. Two metals, one imperfect seam =
+transformation that still holds. The ring rhymes with the Three-Circles diagram;
+it is not a shard. **Book I:** Mandate intake photograph of Rasel's hand → physical
+ring with Hassan → Malacca breach → Three-Circles fragment. **Book II:** Hassan
+reveals that Maren recognized the ring and indexed *same soil* into the Rootbook.
+The registry image is Civilization absorbing a Family token; the ownership remains
+Rasel's throughout.
 
 ## Göbekli snake/tree/bird plaquette — the bridge diagram
 
@@ -291,7 +304,11 @@ The trilogy's closing visual grammar is not a third single tree with one guardia
 
 **Relationship to the plaquette:** the plaquette preserves **one tree** flanked by **two guardians** (bridge before the Two-Tree wound fully hardened). The rainbow tree is the **inverse completion**: **two trees** with **guardians reunited**. Book I opens on the three-symbol bridge; Book III closes on the two-tree union. Same grammar; wound and repair.
 
-**Placement:** the first Two-Tree union **act** occurs at Albion at the end of Book II (`22` § Book II climax; `41`) — life technology + death technology run together once. The final **symbol** belongs to Book III's living community rather than a vanished priesthood, where the exceptional act becomes a revisable civic and scientific practice.
+**Placement:** Sanxingdui provides the first distributed Tree-of-Life recognition
+in Book I; Göbekli supplies the selection/control counter-image in Book II. The
+first full Two-Tree union act occurs at Albion at the end of Book II. The final
+symbol belongs to Book III's living community, where an exceptional act becomes a
+revisable civic and scientific practice.
 
 **Craft guardrails:** do not end on a lecture titled "The Rainbow Tree." End on conduct that could only exist if both Trees were joined. Do not let the symbol replace the feathered serpent — guardian reunion and Two-Tree reunion are **paired completions**, not one image doing all the work.
 

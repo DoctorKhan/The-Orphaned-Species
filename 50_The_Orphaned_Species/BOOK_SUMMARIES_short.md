@@ -1,5 +1,9 @@
 # THE ORPHANED SPECIES — Short Versions (Books I–III)
 
+> **CURRENT ROUTE — LOCKED 2026-07-26:** Book I ends at Sanxingdui with Rasel
+> recovered and Emrys taken. Book II carries Mesopotamia / Göbekli west to Maren's
+> release at Avebury. Book III governs the network after both parent quests.
+
 Grounded in the locked beatsheets (31/32/33), `05_story_architecture.md`,
 `41_climax_the_awakening.md`, and `WORLD_BIBLE.md`. These are synopsis treatments,
 not prose. All locked beats and guardrails are preserved.
@@ -8,7 +12,42 @@ not prose. All locked beats and guardrails are preserved.
 
 ---
 
-## BOOK I — *THE BREACH*  (Volume I: Shattering)
+## BOOK I — *THE BREACH*
+
+Eli Holt loses his made home at Pelangi Reach when a Mandate intake frame shows
+his father's scarred hand beside Rasel's wedding ring, proving he survived. A
+flight through Meridian and Malacca
+opens a dangerous receiver in him and draws Wren, Emrys, and the Custodians into
+the same hunt. In Thailand, a river cooperative teaches him that living people,
+crops, breath, redundant records, and disagreement can measure what no faction may
+own.
+
+The surviving polarity series points north. Edda Voss offers biometric access to
+Rasel in exchange for Eli's clean scan; Eli refuses and accepts a human route whose
+cost lands on Dara. At Sanxingdui, conservation evidence breaks Maren's language
+tree into a distributed living mesh. Eli rejects an apparatus demanding one master
+rhythm, completes the personal Manual Override through mismatched consenting
+cadences, and recovers Rasel. Emrys stays to preserve the evidence and is captured.
+The reunion reveals love, anger, and parental complicity rather than innocence.
+
+## BOOK II — *THE DESCENT*
+
+Rasel is present; Emrys is absent. Sora's transfer code and Rasel's knowledge pull
+the group west through a Mesopotamian archive and Göbekli, whose selection machinery
+is the counter-image to Sanxingdui's distributed Tree. The route then crosses the
+Bosporus/Thrace corridor, where Hassan's recovery proves Maren helped build the
+classifier before sabotaging it and survives only as a lucid tether.
+
+European dead zones, Pömmelte, Rollright, Men-an-Tol, the bitter cup, and
+Stonehenge's relay converge on Avebury. Eli reaches Maren and chooses release over
+keeping her available to him. Her release spreads the first awakening and leaves
+the world without a civic form capable of holding it.
+
+---
+
+## Retired pre-Sanxingdui Book I–II summaries — quarry only
+
+### BOOK I — *THE BREACH*  (former allocation)
 
 PREMISE. Eli works facilities at the Forest Foundry in Pelangi Reach, a wartime
 refuge on the ruined Malay coast, and keeps his dead father's garden badly. He
@@ -21,8 +60,8 @@ MOVEMENT.
 - **Opening compression — LOCKED:** Chapter 1 establishes the Foundry, garden,
   and ordinary refuge before the **Mandate political squeeze** seals the north corridor. Chapter
   2 is one sustained flight: escape south; brief atomizing processing in
-  Meridian City; accidental recognition of Maren's silver-and-brass wedding ring in
-  an archive photograph; north through the Straits; Hassan's physical ring and
+  Meridian City; recognition of Rasel's scarred hand and silver-and-brass wedding
+  ring in an intake photograph; north through the Straits; Hassan's physical ring and
   Wren's colliding extraction in Malacca; Custodian pursuit; a losing fight and
   asphyxia at the river's edge. The psi plane opens at the **end of Chapter 2**:
   receiver ON, overload, hunted. Salmah drags him out; Hassan is recaptured with
@@ -57,7 +96,7 @@ destination, carrying grief and obligation.
 
 ---
 
-## BOOK II — *THE DESCENT*  (Volume II: Descent)
+### BOOK II — *THE DESCENT*  (former allocation)
 
 PREMISE. Post-Göbekli, Emrys is gone. The question turns inward: can Eli pursue
 truth without turning people into instruments of his search?

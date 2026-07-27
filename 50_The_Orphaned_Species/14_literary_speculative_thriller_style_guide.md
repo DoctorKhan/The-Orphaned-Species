@@ -126,7 +126,13 @@ Use images drawn from the viewpoint character's lived vocabulary. Eli's comparis
 
 Prefer one governing image in a passage. Avoid stacking metaphors, repeating a symbol after it has landed, or explaining what an image means.
 
-Recurring images must **change meaning**, not function as franchise tokens. Maren's ring moves from proof to tether to something carried without obedience. Rasel's garden moves from failed inheritance to life continuing without exclusive ownership. Breath moves from involuntary survival to shared regulation to participation without merger. Family moves from absence to the temptation to possess to reciprocal memory. The engine moves from useful infrastructure to civilization's appetite and finally to machinery made answerable to the lives around it. Do not state these arcs in prose; let changed use, context, ownership, and cost perform them.
+Recurring images must change meaning, not function as franchise tokens.
+**Rasel's ring** moves from proof of the father, to a test of person-over-evidence,
+to Maren's concealed index, to a family object returned without restoring the old
+family. Rasel's garden moves from failed inheritance to life continuing without
+exclusive ownership. Breath moves from involuntary survival to shared regulation
+to participation without merger. Do not state these arcs in prose; let changed
+use, context, ownership, and cost perform them.
 
 **Test:** if a lyrical sentence can be removed without changing perception, emotion, rhythm, or meaning, it is decoration. Cut or sharpen it.
 
@@ -143,6 +149,49 @@ Build setting through selective recurrence:
 - **one changing detail:** a repaired door is forced again; a familiar stall closes; patrol lights appear beyond the breakwater.
 
 Avoid travelogue inventory. Choose two or three details that establish place and one that participates in the scene.
+
+### Place-craft — Silo grammar — LOCKED 2026-07-26
+
+Borrow the *Silo* lesson without borrowing the dystopia: **the place is a plot engine**, not a backdrop. Intimate camera, epic container — place arrives through Eli’s soles, breath, stomach, wrong turn; not travelogue.
+
+**Five moves (every major location):**
+
+1. **Signature geometry** — one body-memorable shape. Return visits reuse the same knees/breath/sound memory.
+2. **Class and truth as altitude** — up/down (or surface/Thread, bund/dead field, tourist path/sealed door) is who eats, who knows, who is watched. Force Eli’s body through the grade change.
+3. **Lived systems before lore** — how the place *runs* (tongs, wage tickets, gantries, sluices, backfill clocks) before what it *means*.
+4. **Wonder + dread in the same room** — wonder before ambush (`55` §8). Awe that can turn poisonous.
+5. **Revisit changed** — Pelangi return (Vol III); Meridian as memory/scar; Göbekli after Emrys taken.
+
+**Craft rule — each major location gets all four:**
+
+| # | Requirement |
+|---|---|
+| 1 | **Wonder breath** — one held moment of awe before violence or thesis |
+| 2 | **Signature sensation** — sound, smell, pressure, or floor-hum unique to that place |
+| 3 | **Ritual/machine that runs without Eli** — system visible in labor |
+| 4 | **Place lie** — what the place claims about itself vs what is true underneath |
+
+**Book I signature geometries + place lies:**
+
+| Place | Geometry | Sensation | Machine / ritual | The lie |
+|---|---|---|---|---|
+| **Pelangi / open strait** | Fairway + open water | Hull hum, wind on cheek, salt | Race marks, harbor wager, Timah’s harvest | *Freedom / you belong to yourself* — still a corridor with cutters |
+| **Pelangi Reach (hearth)** | Storm wall → towers → exile garden | Generator hum, terrace smoke | Chit circle, Mei’s kitchen, Babaji papers | *Safe refuge that can hold you* — gray space; squeeze takes the hearth |
+| **Meridian / Stack** | Vertical cliff + Thread maze; **malls as literal silos** — sealed atriums, spiral escalators, stacked rings of shop/class | Palm-click, perfume/ozone vs diesel; atrium wind that is not weather | Gantries, Circuit parade, wage ticket; escalator helix as public stair | *Inevitable permanence / the outside is optional* — purchased spectacle; maps lie; Thread is the real city |
+| **Cherry Cube** | Glass temple over cracked roots | Floor-song through soles; bloom light | Idol show, freight under grandstand | *Living future you can hold* — reliquary orchard; parade owns you |
+| **Malacca** | River + night-market lanes | String bulbs, satay smoke, wet stone | Tongs, fish auction stamps, clipboard nets | *War has a night off / peace as infrastructure* — softness watched; vans wait |
+| **Thailand mountain road** *(Pai ↔ Chiang Mai hairpin stair)* | Spiral/switchback road as **living stair** — Silo helix in asphalt; **landings have lives** | First-gear shelf, gorge drop, ginger for the skull-wire; smoky farm coffee under limestone mountain | Winch crews, shrines; **coffee spur** (Chiang Dao–coded: quiet farmstay couple, mountain not for sale); **Pai** as carnival landing; Khun Dang lodge | *Up is escape / safety* — up is only a delay; the low routes still burn |
+| **Thailand wat** | Sala + bell + valley below *(after the stair)* | One bell-stroke in the dark; tile under heel | Dawn schedule, bowls, sweeping | *Holy calm that finishes you* — return practice, not graduation |
+| **Thailand fields** | Bund marks + forming band + dead field | Light crossing rice twice; frogs skip silence | Sluice logs, Malai’s clipboard, polarity vials | *Miracle you can keep* — also a prize; record may force flight |
+| **The tell / archive** | Mound strata + shrine crown | Courtroom pressure; chalk dust; cold tea | Contested plaque, photocopy packet, date stacks | *One ancient wound / one sermon* — separate dials; lacuna invites forgery |
+| **Göbekli** | Hill + fox pillar + sealed door | Limestone rain; hill ringing; door lean | Consortium slides, backfill clock, tourist rope | *Civilization as payroll / ownable past* — gathering first; burial as keeping |
+
+**Mappings (Silo → trilogy):** spiral stair → **(1)** Meridian Thread / Circles (body→kin→machine); **(2)** Meridian **mall atriums as literal silos** (sealed cylinder, spiral escalators, level = class); **(3)** Thailand **Pai–Chiang Mai hairpin road** as lived outdoor stair; forbidden curiosity → Rootbook / sealed enclosure / don’t fill the lacuna; cleaning theater → registry arches, Circuit, consortium presentation; mechanical hum → Cube floor-song, tell pressure, hill ringing. Do **not** name *Silo* on-page — stage the geometry.
+
+**Body score — anti-parade (LOCKED 2026-07-26):** sound/motion seeds in Book I
+(Cube too-clean clap; Malacca unfinished clap; wat shared heel-to-toe count; Pai
+staff drop) and Book II (Göbekli feast feet / silent fill) pay off as the Book III
+seasonal gathering's room-body.
 
 ## Character interiority
 

@@ -16,7 +16,12 @@
 
 This sentence is the story's filter. A subplot, historical descent, location, faction, or piece of lore belongs in the novel only if it intensifies at least one part of it.
 
-The emotional motor is **parent rescue** — **Maren, Book II**; **Rasel, Book III** — **LOCKED 2026-07-24.** Everything else follows or is **means**: clues, routes, witnesses, Göbekli, artifacts, alliances. Eli is **not fundamentally seeking power**; throne, registry, and coordinator authority **accrete** because he is useful on the rescue path. Beneath rescue: longing for **home, belonging, and meaning** when every system wants to classify the self before the self can live — a safe place where no one turns him or the people he loves into property.
+The emotional motor is **parent rescue** — **Rasel, Book I; Maren, Book II** —
+**LOCKED 2026-07-26.** Everything else follows or is a means: clues, routes,
+witnesses, Sanxingdui, Göbekli, artifacts, and alliances. Eli is not fundamentally
+seeking power; throne, registry, and coordinator authority accrete because he is
+useful on the rescue path. Book III begins after both reunions and asks whether his
+attempt to prevent any further loss will reproduce the machinery that took them.
 
 ### The four dramatic functions
 
@@ -374,7 +379,7 @@ The answer must be proved at three increasing scales:
 
 **Three-scale discovery lock — 2026-07-22:** **Book I / body:** *What enters me does not own me.* Eli discovers that his receiver capacity is inherited and ancient, then completes personal Manual Override without receiving a full account of civilization. **Book II / family and loss:** *Whom I love does not belong to me.* Eli learns the truth of Maren and Rasel, experiences reunion, and releases Maren rather than convert love into continued possession. **Book III / civilization:** *A system calling me family does not earn the right to spend me.* The engine/exhaust recognition becomes explicit only after the reader has lived through family loss; earlier books plant its mechanisms without stating the synthesis.
 
-**Desire spine — LOCKED 2026-07-22; fundamental motor 2026-07-24:** Eli is **fundamentally rescuing his parents** (Maren → Book II; Rasel → Book III). He wants a place where he can remain — known without classification, loved without possession, useful without earning existence — **with them and after them**. The plot draws him through transformations of that desire: **rescue the family I lost → recover home → prevent all loss → love and protect without demanding that nothing ever be lost.** He is **not seeking power**; power is offered because rescue routes through war, registry, and prophecy. Book I's trail matters as **means**; Book II's reunion matters because keeping Maren would be possession; Book III's politics matter because preventing repeated loss can build the engine that spends people — **and** because Rasel is still in Mandate custody. Every major reveal must alter a desire, relationship, route, or cost. Information alone is not a story turn.
+**Desire spine — LOCKED 2026-07-26:** Eli is **fundamentally rescuing his parents** (**Rasel → Book I; Maren → Book II**). He wants a place where he can remain — known without classification, loved without possession, useful without earning existence — **with them and after them**. The plot draws him through transformations of that desire: **rescue the family I lost → recover home → prevent all loss → love and protect without demanding that nothing ever be lost.** He is **not seeking power**; power is offered because rescue routes through war, registry, and prophecy. Book I's Sanxingdui reunion matters because recovering Rasel directly costs Emrys; Book II's reunion matters because keeping Maren would be possession; Book III's politics matter because preventing repeated loss can build the engine that spends people. Every major reveal must alter a desire, relationship, route, or cost. Information alone is not a story turn.
 
 Book III then locks the following sequence:
 
@@ -488,7 +493,15 @@ This is also the publishing boundary. The novel gives readers **experience and p
 - Open in Pelangi Reach ordinary life, not childhood exposition or cosmology: old-island fishing open, work shift, money/status pressure (**Shireen remittance**; **Meridian Circuit contract**), training morning, sailboats, food, privacy norms, and the fragile refuge Eli chose. The **Mandate political squeeze** follows Babaji's keeper cell refusing a flagged-carrier transfer and moving suppressed archive material; authorities seal and fragment the refuge through screening holds and cohort registry. Eli **leaves on schedule** for Cherry Cube while the island locks down behind him — hearth **suspended**, not a resort chase — and the hunt closes at **Meridian intake/concert**.
 - **Opening compression — LOCKED:** Chapter 1 holds the hearth and the squeeze; Eli departs on time. Chapter 2 is one continuous escalation—pier gauntlet, Stack intake (**wrong-room overhear**, ring photograph), Cherry Cube concert hunt, Circuit escape, Straits crossing, Hassan/Wren collision, Custodian pursuit, asphyxia—and ends with the receiver opening. Chapter 3 holds rescue, overload, Wren/Emrys convergence, and the first consequential post-breach choice. Do not expand Meridian City, the Straits, the witness contact, or the chase back into separate setup chapters.
 - The man's morning martial-arts practice and the sailboats are present-tense hearth details, not only memory.
-- Political violence at Pelangi Reach forces Eli out before he has a chosen quest. In Meridian City, an archive worker recognizes his resemblance to Maren and routes a dissident's suppressed Cherry Cube evidence— including a Maren extraction-era frame with the silver-and-brass wedding ring—through the harbor network. Eli **beats Kiran in the skiff race**, winning the wager Suresh holds and earning **Circuit-weekend Stack work** before the Mandate squeeze hits. A scheduled Meridian Circuit street race seals the central avenues and supplies the service-corridor escape when the system begins searching. Eli recognizes the “same soil” seam and follows the contact trail north by sea to Malacca. The physical ring remains with Hassan; the photograph gives the displaced Eli a reason to continue. The mother's tune may remain as atmosphere or keeper-network texture, but it is not the inciting lure.
+- Political violence at Pelangi Reach forces Eli out before he has a chosen quest.
+  In Meridian, an archive worker routes suppressed evidence through the harbor
+  network: a Mandate intake frame showing **Rasel's scarred hand beside his
+  silver-and-brass wedding ring**. Eli recognizes the hand, imperfect seam, and
+  **“same soil”** inscription, then follows the routed metadata to Malacca. Rasel
+  has already given the physical ring to Hassan during transfer. Hassan later
+  crosses Maren's custody chain, where she recognizes her engraving and links the
+  phrase to a bounded journal index. The photograph gives Book I its father hunt;
+  the concealed index gives Book II its mother trail.
 - Eli leaves Pelangi Reach because the attack makes staying dangerous; he chooses Malacca only after the Meridian City photograph restores a personal direction.
 - Malacca becomes the first rupture corridor: the clue, the pursuit, and the breach converge there.
 - Rival psion teams collide around a carrier, route, or record.
@@ -682,7 +695,7 @@ This schedule is a decision ledger, not a curriculum. The reader-facing reveal o
 | 5 | Crop formations are new lines, not imposed messages | Volume I Act III (Thailand Ch 5–10) | Protecting the living field matters more than possessing a symbol |
 | 6 | First practitioner met **as other** at a **charged ground** | Volume I midpoint | Witness + grief; apprenticeship without ownership |
 | 7 | Eli recognizes a charge but cannot yet stop the autopilot | Volume I Ch 10 (Thailand) | Incomplete override; Wren makes the humane choice |
-| 7b | Sealed interface + partial selection/control scar; Emrys taken | **Volume I climax (Göbekli Ch 13)** | Eli completes personal Manual Override, chooses people over complete record; Nephilot identity remains unresolved for Book II; romance rupture; Vol II opens in loss |
+| 7b | Distributed Tree recognized; Rasel extracted; Emrys taken | **Volume I climax (Sanxingdui Ch 13)** | Eli completes personal Manual Override through mismatched living cadences; reunion arrives with anger and compromised history; Vol II opens with Rasel present and Emrys absent |
 | 8 | Stones route rather than generate energy | Volume II | Buried and intact sites acquire different tactical meanings |
 | 9 | A witnessed healing exceeds ordinary expectation; the healer asks for secrecy | Volume II | Protecting his identity and finite capacity becomes a route constraint, not a humility performance |
 | 10 | Historical factions weaponized the same human vulnerabilities | Volume II | Eli stops seeking a morally pure ancestral authority |

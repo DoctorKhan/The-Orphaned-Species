@@ -1,5 +1,7 @@
 # Life Technology & Two Trees — Discovery Spine
 
+> **SANXINGDUI REVEAL — LOCKED 2026-07-26:** Book I may name **Tree of Life** late at Sanxingdui after the distributed living route is experienced and independently checked through Rasel's physics, Thai field data, and Chinese scholarship. The allowed discovery is that the Tree of Life is the living world connected to itself—not the full plane hierarchy, immortality answer, panspermia account, dragon taxonomy, or Two-Tree union. `58_sanxingdui_climax_lock.md` governs.
+
 > **Status:** LOCKED craft instruction for the trilogy's **through-line**. Anti-entropic / life technology is **discovered throughout** — present plot, artifacts, Seven descents, and practices — not dumped at the climax. The **end result** is the **reunification of the Tree of Life and the Tree of Knowledge**, not victory for either tree alone. Pair with `34_two_energies_and_planes.md` (cosmology), `17_reveal_order_and_reader_impact.md` (emotional order), `21_present_day_street_skin.md` (present-day skin), `28_present_day_trilogy_craft_index.md` (craft hub), `33_the_curriculum.md` (practices), `35_artifact_chain.md` (objects), `05_story_architecture.md` (structure), and `40_concepts.md` (Eden III).
 
 **Book III operating rule — LOCKED 2026-07-16:** The two trees check one another continuously. Knowledge supplies records, instruments, models, and public verification; psionic life supplies embodied attention, empathy, and feedback from living systems. Knowledge catches projection and coercive charisma; psionics catches abstraction and the people erased by a category. Their union is enacted through consent, independent verification, and reversible authority—not through Eli's private certainty.
@@ -269,7 +271,7 @@ If a chapter only explains cosmology without effect, practice, object, or cost �
 
 | When | Allow | Withhold |
 |---|---|---|
-| **Vol I** | somatic reads, flare, hum, circles, signature, grid ( vague ) | Tree of Life, anti-entropic, ley line lecture, Anunnaki dump |
+| **Vol I** | somatic reads, flare, hum, circles, signature, grid; late Sanxingdui recognition of **Tree of Life** as distributed living connection | full plane hierarchy, immortality answer, panspermia, dragon taxonomy, Two-Tree union, Anunnaki dump |
 | **Vol II** | conductor, interface, native road, tether, practice names | **death technology**, **life technology** as labels; full Two Trees sermon |
 | **Vol III** | Tree of Life, Tree of Knowledge, reunification **in action**; optional late name **death technology** on-page once | abstract Eden essay; victory speech |
 

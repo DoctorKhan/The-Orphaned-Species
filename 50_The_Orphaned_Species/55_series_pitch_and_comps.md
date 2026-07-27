@@ -1,5 +1,7 @@
 # Series Pitch, Comps & Clue-Chain Craft
 
+> **PITCH ROUTE SUPERSESSION — LOCKED 2026-07-26:** Book I now culminates at **Sanxingdui**, where Eli recovers Rasel and recognizes the distributed Tree of Life; Emrys is taken. Göbekli / Mesopotamia move to Book II. `58_sanxingdui_climax_lock.md` governs; older Book I Göbekli pitch rows below are stale until rewritten.
+
 > **Status: HIGH PRIORITY — LOCKED 2026-07-25**
 >
 > **Governing rule:** This document sits beside `14_literary_speculative_thriller_style_guide.md` and `17_reveal_order_and_reader_impact.md`. Every volume outline, chapter beat, scene draft, and revision pass must satisfy **both** the human/emotional spine **and** the clue-chain / conspiracy-thriller contract defined here. If a scene is thematically true but does not move the body, advance a clue, or exact a domestic cost, it fails the pitch test.
@@ -16,13 +18,36 @@
 
 ## Elevator pitch (30 seconds)
 
-A refugee with dangerous perceptual gifts loses his made home on a paired island when a mother's wedding ring surfaces on a global registry file. To learn whether she was taken or abandoned him, he follows a clue trail from Malacca's reopening streets through Thailand, Göbekli Tepe, and the stone circles of Europe — while every bloc wants to register, weaponize, worship, or erase people like him. The trail does not lead to one secret society. It leads to a **pattern**: torch, trial, asylum, eugenics file, black project, van, clipboard — the same function wearing new faces for millennia. He is not decoding history to own it. He is trying to **free his mother** and prove that no one needs the machine.
+A refugee with dangerous perceptual gifts loses his made home when his father's
+wedding ring proves his parents were taken, not dead. He follows a clue trail from
+Malacca through Thailand to Sanxingdui, where a bronze tree and a coerced experiment
+lead him to his living father—and cost him another friend. The hunt then turns west
+through Göbekli and Europe's stone landscapes toward his mother, while every bloc
+wants to register, weaponize, worship, or erase people like him. The conspiracy is
+not one secret society but a recurring function: classify, sever, acquire, command.
+To recover his family, Eli must learn that connection without consent is only
+another machine.
 
 ---
 
 ## Agent / query paragraph
 
-*THE ORPHANED SPECIES* is a literary speculative **deep-history conspiracy thriller** for readers who loved the clue-chain propulsion of *The Da Vinci Code* and the landmark wonder of *National Treasure*, but want the conspiracy to run **deeper than a single revelation** and the stakes to land at **home**, not in a vault. Book I opens on Eli Holt's fragile ordinary life at Pelangi Reach — facilities work, a father's garden tended badly, neighbors who expect him tomorrow — then burns it when a two-metal wedding ring and a Malacca witness prove his English mother Maren may still be alive and held somewhere in the old extraction network. The hunt moves through real charged grounds (Göbekli, Pömmelte, Stonehenge, Albion) via Maren's encoded Rootbook and a harbor Thread Eli was never initiated into but inherited by accent and rhythm. Antagonists are **institutional**: the Charkha Measure, Custodian rings, cohort registries, scientist-claiming blocs — faces of an ages-long apparatus that suppresses carriers, severs pairs, and converts dependence into ownership. Eli's motor is **parent rescue**, not throne-seeking; his gift is witness without ownership. The trilogy ends not with certainty or a boss-fight apex evil, but with **Maren released**, a grid no faction owns, and communities learning to connect without becoming a new state. Complete trilogy; Book I draft in progress.
+*THE ORPHANED SPECIES* is a literary speculative **deep-history conspiracy
+thriller** with the clue propulsion of *The Da Vinci Code* and the landmark wonder
+of *National Treasure*, but with the stakes at home rather than in a vault. Book I
+opens on Eli Holt's fragile ordinary life at Pelangi Reach—facilities work, a
+father's garden tended badly, neighbors who expect him tomorrow—and burns it when a
+two-metal wedding ring on Rasel's intake file proves his father survived. The
+trail runs through
+Malacca and a Thailand river cooperative to Sanxingdui, where the Bronze Sacred
+Tree helps Eli recognize a distributed living network, recover his father Rasel,
+and lose Emrys to capture. Book II carries Rasel and the absence of Emrys west
+through Mesopotamia, Göbekli, and Europe's charged landscapes to Maren's release at
+Avebury. Institutional antagonists—Custodian teams, cohort registries, and
+scientist-claiming blocs—repeat an ancient function: suppress carriers, sever
+pairs, and convert dependence into ownership. Eli's motor is parent rescue, not a
+throne. Book III tests whether the network born from those rescues can survive
+without becoming a registry, cult, army-state, or permanent ruler.
 
 **Comps:** *The Da Vinci Code* (investigative clue-chain, institutional shadow); *National Treasure* (landmark set-pieces, expertise fantasy); *Project Hail Mary* (warmth under catastrophe — Emrys register); literary crossover speculative (Atwood-adjacent restraint on visionary material, not tone).
 
@@ -32,11 +57,21 @@ A refugee with dangerous perceptual gifts loses his made home on a paired island
 
 ## Back-cover copy — trilogy
 
-**They told him his mother was dead. The ring on the file says otherwise.**
+**They told him his father was dead. His ring is sitting in an evidence tray.**
 
-Eli Holt has spent years building a life on borrowed time: worker shifts at a climate-tech compound, a garden he cannot make thrive, Bengali on the terrace and silence about the parents who moved him through borders until the world broke. When Pelangi Reach falls to a registry sweep and a Malacca chandlery yields a witness who knew his mother, Eli follows a trail that was never meant to survive — silver and brass on a cord, *same soil* engraved inside, a packet the harbor Thread would burn if they could.
+Eli Holt has spent years building a life on borrowed time: worker shifts at a
+climate-tech compound, a garden he cannot make thrive, Bengali on the terrace and
+silence about the parents who moved him through borders until the world broke.
+When Pelangi Reach falls to a registry sweep, a Mandate intake image shows his
+father's scarred hand beside the wedding ring Rasel made and wore. A witness in
+Malacca carries the physical band—silver and brass, *same soil* engraved inside—
+and has crossed both parents' custody chains.
 
-Every step west opens another question that requires **going somewhere**: Thailand's witness corridor, the fox-pillars of Göbekli, the shaft graves of Pömmelte, pew geometry in a broken-line church, weather over Stonehenge, the councils of **Albion** where Maren's consciousness still tethers to ground. Eli learns with the reader — Rootbook cognates, registry marks, keeper protocol — often wrong first, corrected by communities who were never asked permission to be decoded.
+Every answer opens another question that requires **going somewhere**: Thailand's
+witness corridor, Sanxingdui's conservation halls, the fox-pillars of Göbekli, the
+shaft graves of Pömmelte, weather over Stonehenge, and the inhabited landscape of
+Avebury where Maren remains tethered. Eli learns with the reader—often wrong first,
+corrected by communities who were never asked permission to be decoded.
 
 The enemy is not only men with guns. It is the **file**, the **clipboard**, the **cohort list**, the **scientist claimed** by bloc — the Charkha Measure and its ancestors, the same function in new uniforms: acquire, suppress, sever pairs, transfer dependency. Factions offer Eli a throne because he is useful on the rescue path. He refuses to become the vessel.
 
@@ -48,7 +83,15 @@ To free his mother he must release his need for her innocence. To survive the aw
 
 **Home first. Then the hunt.**
 
-On the Reclamation — a salvaged island district where fintech towers depend on fishing villages for food, repair, and legitimacy — Eli Holt keeps his head down until a king's registry sweep and a lost race wager put him on a Cherry Cube call sheet and in the path of a mother's ring. Malacca's reopening streets offer a witness, a flare that lights every grid, and a choice: people or the complete record at Göbekli. He chooses people. **Emrys is taken.** The buried system is real. The trail points west.
+On Pelangi Reach—a salvaged island district where glass towers depend on fishing
+villages for food, repair, and legitimacy—Eli Holt keeps his head down until a
+registry sweep and a lost race wager put him on a Cherry Cube call sheet and in the
+path of his father's ring. Malacca opens a dangerous receiver in him. Thailand
+teaches him that people, crops, breath, and disagreement can measure what no
+machine can own. At Sanxingdui, the Bronze Sacred Tree leads him to the father he
+thought dead and into an apparatus built to make every living signal obey one
+rhythm. Eli breaks the rhythm and brings Rasel out. **Emrys is taken.** Home is
+possible again—but it is angry, compromised, and pointing west.
 
 *For readers who want the opening hearth to matter before the mythology arrives — and who want every clue to cost something.*
 
@@ -58,7 +101,12 @@ On the Reclamation — a salvaged island district where fintech towers depend on
 
 **Rescue is not reunion. Reunion is not innocence.**
 
-The artifact trail deepens through Anatolia and Europe: Pömmelte's purge, Hassan's return from Custodian custody, Maren's willing collaboration and later dissidence, the Alba name chain and Albion's post-Hinge rename. Eli and Wren choose commitment without destiny. At the charged grounds of Stonehenge and Men-an-Tol, Eli **releases** Maren — and the release begins an awakening the world has no structure to hold.
+With Rasel present and Emrys captive, the trail turns through a Mesopotamian
+archive and Göbekli's selection machinery, then west through Pömmelte, Rollright,
+Men-an-Tol, and Stonehenge. Hassan's rescue reveals Maren's willing collaboration
+and later sabotage. At Avebury, Eli finds his mother lucid enough to want more time
+and chooses to **release** her anyway. The release begins an awakening the world has
+no structure to hold.
 
 *The Da Vinci Code's "history was lied about" — but the lie is a **pattern**, not a bloodline, and the answer is a person freed, not a code solved.*
 
@@ -127,7 +175,10 @@ Awakening spreads through threshold houses, river cooperatives, and open grounds
 
 ## Clue-trail spine (pitch-facing)
 
-Pelangi Reach → Malacca → Thailand / Gulf corridor → Göbekli → Europe (Pömmelte, church geometry, circles) → **Albion** (rename Ch 5; Alba / elf / Sídhe rhyme Ch 6) → distributed network (Vol III). Artifacts: ring, Rootbook, plaquettes, cohort lists, registry marks. Full chain: `35_artifact_chain.md`, `95_glossary.md` *clue trail*.
+Pelangi Reach → Malacca → Thailand → **Sanxingdui / Rasel** → Mesopotamia /
+Göbekli → Europe (Pömmelte, church geometry, circles) → **Avebury / Albion /
+Maren** → distributed network (Vol III). Artifacts: ring, Rootbook, conservation
+records, plaquettes, cohort lists, registry marks.
 
 ---
 
@@ -142,9 +193,10 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 5. **Institutional texture** — clipboard, white coat, sponsor line, museum board; Charkha **felt** in procedure.
 6. **Companion read** — someone on-page translates; Eli is not the only mouth for history.
 7. **Rhyme check** — antagonist face echoes torch / registry / pair-severance / scientist claiming without naming apex.
-8. **Wonder beat** — before violence at a landmark, one breath of awe.
+8. **Wonder beat** — before violence at a landmark, one breath of awe. Full **place-craft** (`14` § *Place-craft — Silo grammar*): wonder + signature sensation + machine that runs without Eli + **place lie** staged before it cracks.
 9. **Domestic cost** — hearth, relationship, or ordinary promise broken or taxed.
 10. **Desire before information** — clue intensifies Eli's longing (home, mother, belonging), not only curiosity.
+11. **Altitude / grade change** — Eli’s body crosses who-eats / who-knows / who-is-watched (Stack↔Thread, bund↔dead field, tourist path↔sealed door).
 
 ---
 
@@ -183,7 +235,7 @@ Use with `MANUSCRIPT.md` revision passes. **Pass** = all ten checklist items sat
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
 | 1 | Hour That Belongs to No One | Pelangi → strait | Race buoy; cohort list; brain scanner | Mei vs Eli; Babaji holdout | Orphan truth → departure | Clipboard, cohort, scanner | Wren attests; Mei feeds | Scanner ↔ later Custodians | Timah/fairway (micro) | Hearth suspended; garden; Shireen | Mother/father alive; Albion |
-| 2 | Something of Hers | Stack → Malacca | Wedding ring: *same soil*; green cord | Clerk vs system; Hassan vs ring | Ring → chandlery same ch | Arch, file, van, clipboards | Wren, clerk, idol, Emrys foreshadow | Same door × cities | Cube Circuit | Wage ticket spent | Maren on file → Malacca |
+| 2 | His Hand | Stack → Malacca | Rasel's wedding ring: *same soil*; green cord | Clerk vs system; Hassan vs ring | Ring → chandlery same ch | Arch, file, van, clipboards | Wren, clerk, idol, Emrys foreshadow | Same door × cities | Cube Circuit | Wage ticket spent | Rasel alive on file → Malacca |
 | 3 | What Didn't Die | Platform → inland | Rootbook *name* index | Emrys vs courier threshold | Wafer opens *name* | Custodians named; quarantine tow | Emrys, Nura cup, Wren name | Scanner rhyme explicit | — | Salmah boat; Nura/Ilyas split | Not going dark |
 | 4 | Her People | Depot → river (Wren) | Net ledger; manifest lie | Laleh vs Wren; Asha review | Route constitution seeds | Gantry; Net audit; van | Wren/Emrys/Pak Din | Registry trap shape | Bioluminescence (free) | Laleh lost; Asha rests route | Wren's weight not claim |
 | 5 | Field That Counts | Pai → wat → valley | Bulletins; bait arc | Emrys bait vs real drunk rice | Foot/step index → field | Custodians on water | Khun Dang, abbot, Emrys | White cars watch | Wat arrival; stone prep Ch 6 | Silence cost; coast offer refused | Why mother left |
@@ -196,7 +248,8 @@ Use with `MANUSCRIPT.md` revision passes. **Pass** = all ten checklist items sat
 | 12 | Old Wound at Ground | Tell → archive | Selection mark plaque | Curator CONTESTED; Emrys slip | Plaque → Göbekli bearing | Ration/marriage ledgers | Curator, Emrys caught | Selection receipts rhyme | Mound breath before court | — | Obedience warning |
 | 13 | Göbekli and Loss | Şanlıurfa site | Fox pillar; plaquette; baskets | Emrys vs consortium invoice | People chosen over record | Consortium camera; Custodians | Wren/Eli rupture | Counting men / selection | Hill breath before door | Emrys taken; friendship cold | Manual Override; keeping |
 
-**Vol I close:** west on human doors; ring/Hassan/Maren Albion file open; pattern conspiracy felt, apex not drawn.
+**Vol I close:** Rasel recovered; Hassan and Rasel's ring remain in the westward
+custody chain; Maren's Rootbook index opens; pattern conspiracy felt, apex not drawn.
 
 ---
 
@@ -208,7 +261,7 @@ Use with `32_volume_II_beatsheet.md` when outlining or drafting. **Pass** = all 
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
 | 1 | Bodies and Crossings | Anatolia corridor; Somchai→Eli | Wounded body; Tem record → 17:1 pit | Somchai terms vs Eli urgency; Wren vs search | Tem pointer → Ch 5 Pömmelte chain | Psion war policy; conscription | Somchai depth; Wren bill Vol I | Kneel→cage→burn | Healer witnessed save (micro) | Emrys gone; usefulness-as-love fight | Reconstruct clue; keep west |
 | 2 | Westward Transfer | Bosporus–Thrace/Balkan | Map fragment; medical-transfer van | Slow handoff vs shortcut; *Liaisons* trap | Hassan move → Ch 3 holding | Custodians + contractor cover | Wren dismantles honey-trap | Dead-zone sig → Pömmelte chain | Ferry/port human scale | Route burned for refugees | Hassan before jurisdiction swallows |
-| 3 | What They Took | Holding site + record | Wedding ring; damaged western chart | Person vs evidence; keeper song vs file | Midpoint: tether not address → Ch 7 | Charkha clipboards; courteous suppression | Hassan first-person; Sora leak (off-page) | Registry father-above vs hand-to-hand | — | Mother complicity; partial record lost | Find mother → **release** |
+| 3 | What They Took | Holding site + record | Rasel's ring; Maren's hidden index; damaged western chart | Person vs evidence; keeper song vs file | Midpoint: tether not address → Ch 7 | Charkha clipboards; courteous suppression | Hassan first-person; Sora leak (off-page) | Registry father-above vs hand-to-hand | — | Mother complicity; partial record lost | Find mother → **release** |
 | 4 | Healer's Kneel | Medical corridor (Somchai→Eli) | Triage table; declined crown | Healer vs pilgrims vs Sol mirror | Rumor outruns → Vol III | Media/faction recruiters | Somchai; Sol establishing pass | Gabriel annunciation after the hard no | — | Route narrows; stabilized liability | Stay a body among bodies |
 | 5 | Changing Map | Europe; Wren→Eli | Pömmelte shafts; pew geometry; dead-zone wedge | Rootbook kin wrong → corrected; Rowan vs registry trap | Pömmelte mark → Ch 6 sound route | Holt/Khan clerk; **Albion rename**; dependency-transfer files | Rowan entrance; Emrys absent map | Church drain; Charkha A/B scripts | Pömmelte horror awe before inference | Network route burned | Cross without becoming asset |
 | 6 | Riddling Node | Rollright → Anglesey detour | Hawthorn bend; rowan branches; bitter cup | Rowan *completed route ≠ returned person* vs Wren iron | Anthea/Lira → Stonehenge chair | Changeling record (dual truth) | Keeper fairy-doctor; Cuno edge | Alba/Albion/Sídhe dual register | Mound crossing breath before iron | Anthea killed; Lira carried song | Hold thread without owning |
@@ -245,7 +298,7 @@ Each chapter must close on a **next place + next question**, not a thesis:
 
 ## Book III — chapter-by-chapter pitch audit (2026-07-25)
 
-Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all ten checklist items planned on-page. **Win condition:** release + coexistence + bounded authority + step-down — **not** boss-fight, throne, or treasure box. **Charkha full engine** + dependency-transfer payoff land here (Ch 4–5). **Rasel rescue** on-page (chapter TBD in beats — likely mid/late Act II or Act III; flag in beats when staged).
+Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all ten checklist items planned on-page. **Win condition:** release + coexistence + bounded authority + step-down — **not** boss-fight, throne, or treasure box. **Charkha full engine** + dependency-transfer payoff land here (Ch 4–5). Rasel has been present since the Book I Sanxingdui rescue.
 
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
@@ -285,6 +338,6 @@ Pelangi refugee crisis → **intake harm (Ch 3)** → SF/Yerba Buena + **Crane S
 - **Institutional villainy peaks:** Crane Standard + Devolution roster + Charkha dependency-transfer files — faces rhyme with Vol I registry / Vol II Charkha / ancient selection marks.
 - **Refuse:** boss-fight win; Eli keeps throne; universal forgiveness; coercion revealed as bluff; Hawaiʻi as military base; prophecy close.
 - **Messianic rule:** show kneel reflex **working** (`33` lock) — win is **re-teach deiwos + step-down**, not deny signs.
-- **Rasel rescue:** locate in beats when chapter assigned — must pass same gate (body movement, visual key, domestic cost, desire = father alive not throne).
+- **Rasel consequence:** give him an independent Book III stake and conflict; do not repeat the rescue already completed at Sanxingdui.
 
 **Vol III close:** coexistence survives real failure; bounded authority given away; field-sail ceasefire process; teahouse seeds; war unresolved human condition; Eli **wanted, not indispensable**.
