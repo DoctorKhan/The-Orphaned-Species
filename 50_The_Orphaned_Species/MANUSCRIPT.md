@@ -45,17 +45,21 @@ Eli keeps pumping—still buying time, still inside the marks—and **feels** th
 
 The sail fills.
 
-He leans into it, small corrections with knees and hands until the hull hums and the cloth holds. Do not look at the buoy yet—look at water and air. Break focus now and you break speed. Beyond the floats, Kiran's sail is still flat on the water. Eli **runs** the wall-shadow lane he has already chosen.
+And for one stolen breath—before strategy, before the buoy—the pocket opens into the real sea.
+
+Beyond the storm wall the strait goes wide and bright: open water the color of hammered tin and then, farther out, a blue so clean it looks impossible under the half-built towers. Sun climbs the wave-backs. A freighter is a dark stitch on the horizon. Gulls hang as if nailed to air. The hull hums under his knees and the patched cloth holds like a living thing agreeing with him, and something in his chest—older than the wager, older than the towers—opens with a stupid clean joy. *This.* This is why you stay on an island that will not claim you. Not the paperwork. The open water answering when you place yourself right.
+
+He leans into it, small corrections with knees and hands. Do not look at the buoy yet—look at water and air. Break focus now and you break speed. Beyond the floats, Kiran's sail is still flat on the water. Eli **runs** the wall-shadow lane he has already chosen, carrying the open sea in his peripheral vision like a secret he is not supposed to need.
 
 Suresh's voice from the wall: "**Now!** Hold it!"
 
-He holds it—red and white, sail full, line true—and crosses while Timah is still underwater and Jul is climbing back onto her shoulders, neither knowing they picked a winner. Behind him, Kiran stands on the centerboard and hauls his sail out of the water. Fair loss. Eli read the pocket, the wall, and the channel better than the man ahead of him, and that was the whole race.
+He holds it—red and white, sail full, line true—and crosses while Timah is still underwater and Jul is climbing back onto her shoulders, neither knowing they picked a winner. Behind him, Kiran stands on the centerboard and hauls his sail out of the water. Fair loss. Eli read the pocket, the wall, and the channel better than the man ahead of him, and that was the whole race. The open water is still out there, glittering, indifferent, his for that one lane and no longer.
 
-For one stupid second he looks for them on the quay—the old reflex, cut off years ago and still not dead. His mother would have been at the rail with her hair coming loose from its tie, already reading the next shift before the boats tied up. His father would have pretended not to care who won and then adjusted the sheet anyway, muttering about lazy hands. Neither is there. The win lands in his arms alone, salt and rope burn and the hollow where applause from your own people used to go.
+For one stupid second he looks for them on the quay—the old reflex, cut off years ago and still not dead. His mother would have been at the rail with her hair coming loose from its tie, already reading the next shift before the boats tied up. His father would have pretended not to care who won and then adjusted the sheet anyway, muttering about lazy hands. Neither is there. The win lands in his arms alone, salt and rope burn and the hollow where applause from your own people used to go—and under it, still, the sea's brief yes.
 
 ---
 
-Kiran comes up the marina steps as Eli **pulls in**—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out at Timah's boat, being towed back to the anchor by a harbor boy while Jul waves at no one in particular.
+Kiran comes up the marina steps as Eli **pulls in**—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out past Timah's boat—being towed back to the anchor by a harbor boy while Jul waves at no one in particular—to the open strait beyond the marks. The sea is still bright. Still wide. Still the thing that made the win feel like belonging for a breath. Suresh sees Eli looking and does not mock it.
 
 "You won," Suresh says. "Don't thank the grandmother. She wasn't helping you." He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "That wager was the **Cherry Cube**—glass temple in Meridian City, Circuit weekend. Stage crew. They pay **cash** up there, corridor wire, not island chits. **Saturday**, first light: Babaji's launch at the old hotel pier—papers, then you go up. Walk like you belong until something proves you don't. The harbor men already know your face south through the weekend. Don't make them argue it twice." A beat. "Don't make me regret betting on you, boy."
 
@@ -307,21 +311,21 @@ Suresh's boat moves on without them—rice, limes, the blue tarp bundle, schedul
 
 ---
 
-After that the city is not a place. It is **zones**.
+After that Meridian arrives as a maze that pretends to be a city.
 
-Leave one. Stand in the middle. Enter the next.
+Leave one zone. Stand in the middle with no horizon. Enter the next. The air changes temperature without a door you can name. He loses east. He loses up. Elevators open onto floors that look like the floor he just left, only colder, and Wren's bag is the only true north he has.
 
-A glass terminal at every threshold: touchscreen forms in a language that changes accents but not questions—*where, how long, employer, health*—and Wren's thumb already knowing which box before Eli finds it. Palm on the plate. Face to the camera. A soft click that means *again* or *go*. He loses count of which is which.
+A glass terminal at every threshold: touchscreen forms in a language that changes accents but not questions—*where, how long, employer, health*—and Wren's thumb already knowing which box before Eli finds it. Palm on the plate. Face to the camera. A soft click that means *again* or *go*. The clicks stack in his chest like a second heartbeat he did not ask for. He cannot say, later, whether he passed four gates or fourteen.
 
-Port shuttle: bench seats, wet boots, the same four questions in a new mouth. Palm. Face. Then a bus that smells of diesel and disinfectant, then another bus that does not, then a covered walk that claims to be neither dock nor city and asks for the call sheet as if he has never shown it. Palm. Face. Wren cuts a service corridor he would never have found alone and he follows her bag, not the signs.
+Port shuttle: bench seats, wet boots, the same four questions in a new mouth. Palm. Face. Through the shuttle window the Stack rises wrong—not a skyline you approach, a cliff you are already inside, glass stacked on glass until the sky is a rumor between towers. Then a bus that smells of diesel and disinfectant, then another that smells of perfume and ozone, then a covered walk that claims to be neither dock nor city and asks for the call sheet as if he has never shown it. Palm. Face. Wren cuts a service corridor he would never have found alone—steam, a prayer chalked on a pipe, Bangla and Mandarin arguing over the same valve—and he follows her bag, not the signs. The signs lie. The signs are decoration for people who already know the Thread.
 
-Somewhere in the middle—he cannot later say which vehicle—the smear breaks.
+Somewhere in the middle—he cannot later say which vehicle—the smear breaks, and for three seconds the maze opens its throat and shows him what it spends to look inevitable.
 
-Glass. Black cars in a lit underpass, moving like they own the air. A lobby humanoid holds a tray nobody takes, polished as a status proof. Suits with soft briefcases. Women in pale silk cutting across polished stone as if the war never reached this altitude. Grow-lights above a vertical rumor of lanes—and then the Stack is not a rumor. It is a capital that spends money on looking inevitable.
+Glass. Black cars in a lit underpass, moving like they own the air. A lobby humanoid holds a tray nobody takes, polished as a status proof. Suits with soft briefcases. Women in pale silk cutting across polished stone as if the war never reached this altitude. Grow-lights above a vertical orchard of lanes—and the light is beautiful in a way that hurts, because nothing that expensive should feel this calm while Pelangi hangs under ash. The Stack is not a rumor. It is a capital that bought the right to look permanent.
 
-Without Wren he would have stood in the idol's mall concourse until security moved him. She does not take him there. She takes him through one more terminal, one more palm, one more face, into the **causeway hall**—still not the document lanes, only the hall that pretends the middle is over.
+Without Wren he would have stood in the idol's mall concourse until security moved him—gaping, small, a moth at a chandelier. She does not take him there. She takes him through one more terminal, one more palm, one more face, into the **causeway hall**—still not the document lanes, only the hall that pretends the middle is over.
 
-Marble the color of cold milk. Ceiling lights that flatter faces and cameras equally. Soft music with no tune. Officers in tailored vests who say *please* like a blade. **Documentation review** again—family-origin fields turning half the South Asian dock queue amber before anyone reaches the swab chair—and the amber looks almost expensive under the glass. Wren picks the lane. Nobody in line asks why. He had meant to check in at a service gate with a lanyard and a name on a list. Instead he is here with grease under his nails in a city dressed for people who never touch dirt, and a body the Stack has already photographed three times without deciding what it is.
+Marble the color of cold milk. Ceiling lights that flatter faces and cameras equally. Soft music with no tune, the kind that makes panic feel impolite. Officers in tailored vests who say *please* like a blade. **Documentation review** again—family-origin fields turning half the South Asian dock queue amber before anyone reaches the swab chair—and the amber looks almost expensive under the glass. Wren picks the lane. Nobody in line asks why. He had meant to check in at a service gate with a lanyard and a name on a list. Instead he is here with grease under his nails in a city dressed for people who never touch dirt, and a body the Stack has already photographed three times without deciding what it is. The maze has him. He just has not admitted it yet.
 
 On a brushed-steel pillar by the document lanes, a notice restricts small-craft transfer of medical goods pending review—printed clean, Mandate fonts. Below it, in contractor chalk, someone has written three words in English—*I alone don't know*—no date, no name, already half-scrubbed by a wet rag. The man queuing in front of Eli reads the notice twice and says, to no one, that the same office ran the insulin boats through the worst of the closures. Nobody answers him. The queue moves.
 
@@ -415,25 +419,31 @@ He does not sleep well. He sleeps enough.
 
 ---
 
-**Sunday, first light.** Cherry Lane is not on the official map. What actually connects Meridian City is men, and one segment at a time.
+**Sunday, first light.** Cherry Lane is not on the official map. What actually connects Meridian City is men, and one segment at a time—and for an hour Eli is lost inside that truth.
 
-At Cherry Lane a construction worker hears the river in Eli's answer and opens one gate—*down the dead escalator, left at the flooded junction*. A cleaner uncovers the dry crossing. A dock mechanic under the freight ramps gives him the clock: "Freight rolls out of the Cube at the last safety car **tonight**. Tire trucks, not food trucks. **Sunday** race—whole city's sealed for the show. The show is the only thing left that opens doors."
+He asks wrong once and gets a polite blank. Asks right—river in the vowels—and a construction worker's face changes the way a lock changes when it recognizes a key. *Down the dead escalator, left at the flooded junction—no, your other left—if you see the shrine with the plastic flowers you went too far.* The escalator is a black throat. Water stands in the junction like a held breath. He takes the wrong left, finds the plastic flowers, turns back sweating, finds the dry crossing only when a cleaner kicks a grate open with her heel and does not ask his name. A dock mechanic under the freight ramps looks at his hands before his face and gives him the clock: "Freight rolls out of the Cube at the last safety car **tonight**. Tire trucks, not food trucks. **Sunday** race—whole city's sealed for the show. The show is the only thing left that opens doors."
+
+Eli wants to ask what the Cube is. The mechanic laughs once, not unkindly. "You'll know when the floor sings."
 
 ---
 
-Eli hears the Cherry Cube before he sees it, and he hears it through the soles of his feet.
+He hears the Cherry Cube before he sees it, and he hears it through the soles of his feet—a low, living vibration, as if the city has a heart and he has finally stepped onto the rib.
 
-Cherry Lane is directly overhead. He never sees the famous managed bloom, only what it does below: a living root has cracked the service ceiling around its inspection collar, and one wet pink petal has made it through a drain grate into the concrete dark. Someone has drawn a red box around the crack and dated it for repair. The root has grown past the date. Up there: glass temple, champagne density, a city performing permanence. Down here: wet concrete and the honest smell of rust.
+Then the shaft offers him one stolen view upward through a maintenance slit, and for a held breath he understands why people come to Meridian to be ruined by wanting.
 
-The shaft lets out into service levels and above him the noise is not sound anymore, it is weather—engines going by in packs on the sealed avenues, a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage. The Meridian Circuit: the one night the Stack shuts its own arteries so machines can go in circles under drone light, and screens six storeys tall replay the machines to people in dark clothes who paid to be seen watching. Black cars idling in VIP slots. Champagne flutes catching grandstand glare. Security in suits with earpieces who never raise their voices. And for a held breath, before he can stop himself, it is *beautiful*—the cars coming through the underpass like poured light, rivers of tail-lamp red mapped across the dark city, a hundred thousand faces upturned and lit, the whole vertical world dressed in its own reflection. The Stack has thin relationships and perfect spectacle, and just this once, spectacle is enough to make even a hunted man stand still and look.
+Above: the managed bloom. Cherry canopy under glass—whole trees forced into eternal spring, pink so dense it looks edible, petals falling in a wind that is not weather but engineered breath. Walkways float through the blossom like jewelry. Light comes from everywhere and nowhere. Somewhere a string section is playing something old enough to feel stolen. The Cube's glass walls hold the orchard the way a reliquary holds a saint: beautiful, sealed, priced. For three seconds Eli forgets the file, the wage ticket, the van. His throat tightens with a stupid clean awe—*this is what money can make of living wood*—and he hates that he loves it.
 
-On the Cube floor—glass walls, black stone, a stage that could host a summit or a kill—lights, dancers, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide. Between grandstand feeds, the temple sells frictionless care: upgrades, identity, the future as a product you can hold.
+The slit angles shut. Cherry Lane is directly overhead again. Below: what the temple costs. A living root has cracked the service ceiling around its inspection collar, and one wet pink petal has made it through a drain grate into the concrete dark. Someone has drawn a red box around the crack and dated it for repair. The root has grown past the date. The honest smell of rust. Water ticking. His awe does not leave; it just learns a basement.
+
+The shaft lets out into service levels and above him the noise is not sound anymore, it is weather—engines going by in packs on the sealed avenues, a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage. The Meridian Circuit: the one night the Stack shuts its own arteries so machines can go in circles under drone light, and screens six storeys tall replay the machines to people in dark clothes who paid to be seen watching. Black cars idling in VIP slots. Champagne flutes catching grandstand glare. Security in suits with earpieces who never raise their voices. And again—worse this time, because he has already been soft for the bloom—the cars come through the underpass like poured light, rivers of tail-lamp red mapped across the dark city, a hundred thousand faces upturned and lit, the whole vertical world dressed in its own reflection. He stands still. He looks. Wonder before the ambush; his body knows the order even if his fear does not.
+
+On the Cube floor—glass walls, black stone, a stage that could host a summit or a kill—lights, dancers, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide. Between grandstand feeds, the temple sells frictionless care: upgrades, identity, the future as a product you can hold. Eli's palms prickle toward the stage the way they prickled toward the gantry—wrong hunger, beautiful hunger—and he puts two fingers below his collarbone before he can be embarrassed by needing them in a room this expensive.
 
 In a service alcove off the shaft, two stagehands share a cigarette. One jerks her chin at the noise above. "Other people are excited," she says, flat. "Like a parade."
 
 The other exhales. "I alone don't care."
 
-They do not look at Eli. They are not performing. It is something you say down here so the parade does not get inside you.
+They do not look at Eli. They are not performing. It is something you say down here so the parade does not get all the way inside you—and Eli understands, hearing it, that the parade already has a piece of him.
 
 This is the job. Stage power, wardrobe uplink, the afterparty load-in—the contract Wren attested before the sweep, before the wage ticket went into another man's file. He was supposed to check in at the service gate **this morning** with a Foundry contractor lanyard and a name on a list. Instead he is coming up through the roots with grease on his hands, one night at Continue Inn behind him, and no ticket left to spend—an underdressed body in a city that only smiles at people who already belong.
 
@@ -479,19 +489,27 @@ At the strait's pinch a grey cutter with its number painted out sits at anchor a
 
 He sleeps two hours against the net locker and dreams that someone is counting doors in a long corridor, slow and even, and wakes with his heart going, and in the dark the counting continues for one more beat before it stops.
 
-Malacca begins as cranes and roofs, then old walls, then the river mouth opening between buildings that look like they survived by agreeing to be useful. A yellow quarantine banner hangs from the customs shed. Men with clipboards work the pier in three languages—last port, purpose, health, the same four questions wearing different vests. The skipper, who has asked Eli nothing the whole way, which is its own kind of payment, hands him a crate of dried fish as the officer stamps a chit and looks through him without seeing him.
+Malacca begins as cranes and roofs, then old walls, then the river mouth opening between buildings that look like they survived by agreeing to be useful. Dusk is already in the water. A yellow quarantine banner hangs from the customs shed. Men with clipboards work the pier in three languages—last port, purpose, health, the same four questions wearing different vests. The skipper, who has asked Eli nothing the whole way, which is its own kind of payment, hands him a crate of dried fish as the officer stamps a chit and looks through him without seeing him.
 
 "You carry one crate off and you walk," the skipper says. "You were never aboard."
 
-*Ask once,* says Suresh's paper in his pocket. He walks.
+*Ask once,* says Suresh's paper in his pocket. He walks—into evening, into the city's answer to being wounded.
 
 ---
 
-The city has learned to move around its wound.
+The night market has already lit itself.
 
-Stalls are open under tarps. Tourists haven't come back in numbers but the signs wait for them anyway, bright and patient, promising river cruises and rooms with air-conditioning. A trishaw covered in plastic flowers goes by empty, playing music to no one. At the fish auction three jurisdictions' stamps are accepted at one table because the buyers agreed on weights before they agreed on flags. The port's old trick was never harmony. It was making difference predictable enough that strangers could arrive without first becoming subjects. Above a spice warehouse, a hand-painted sign says THRESHOLD HOUSE beneath three coats of whitewash; someone keeps repainting the words, someone else keeps trying to erase them. Eli carries his crate three streets, sets it where a boy points, and becomes a man with no crate and nowhere to be—which in a reopening port is its own kind of flare.
+String bulbs hang in crooked constellations over Jonker lanes—warm yellow, some dead, some buzzing like insects that learned to sing. Smoke from charcoal and satay oil rises and turns gold under the lights. A whole street smells of grilled stingray, pandan, fried shallot, something sweet he cannot name. Stalls are open under tarps; tourists haven't come back in numbers but the signs wait for them anyway, bright and patient, promising river cruises and rooms with air-conditioning, and under the signs the living city has refused to wait: aunties flipping cakes, a boy juggling knives for coins, a woman carving fruit into flowers nobody will buy and doing it anyway because the knife remembers how. A trishaw covered in plastic flowers goes by empty, playing music to no one—and then, two turns later, playing to a knot of kids who dance badly and laugh as if the war has a night off.
 
-To Eli they are *tongs*, though nobody here calls them that: a tea stand on nearly every corner, kettles blackened underneath, glasses drying mouth-down, three stools even where the pavement has room for one. Each keeper is part bartender, part auntie or uncle, part neighborhood memory. They know who fought before dawn, whose daughter came off which ferry, who owes for six glasses, who has not come home—and which stranger is pretending not to need directions.
+Eli stops with the crate still on his shoulder.
+
+For a held breath the market is enough. Heat on his face. Chili oil in the back of his throat. Someone laughing in three languages at once. Lantern light on wet stone after the afternoon rain. The river somewhere near, carrying the smell of mud and diesel and jasmine from a stall that should not work and somehow does. He has been hunted through glass and marble since Pelangi; here the city is food and light and elbows, and his body—traitor, grateful—softens toward it the way it softened toward the open strait. Wonder before the ambush. He does not know the ambush is already drawing its net. He only knows that for one stupid clean second he wants to put the crate down and buy something hot and stand in the crowd like a person who belongs to a night.
+
+At the fish auction three jurisdictions' stamps are accepted at one table because the buyers agreed on weights before they agreed on flags. The port's old trick was never harmony. It was making difference predictable enough that strangers could arrive without first becoming subjects. Above a spice warehouse, a hand-painted sign says THRESHOLD HOUSE beneath three coats of whitewash; someone keeps repainting the words, someone else keeps trying to erase them. The market lights make even the whitewash look almost holy.
+
+He carries his crate three streets deeper, sets it where a boy points, and becomes a man with no crate and nowhere to be—which in a reopening port is its own kind of flare. The awe does not leave; it just learns it can be watched.
+
+To Eli they are *tongs*, though nobody here calls them that: a tea stand on nearly every corner of the night market's edge, kettles blackened underneath, glasses drying mouth-down, three stools even where the pavement has room for one. Each keeper is part bartender, part auntie or uncle, part neighborhood memory. They know who fought before dawn, whose daughter came off which ferry, who owes for six glasses, who has not come home—and which stranger is pretending not to need directions while the string bulbs make his face look briefly soft.
 
 At the quay corner a drinks-and-fish stall stands under a blue umbrella—glass jars, a kettle, dried fish hung up like punctuation. A thin man with grey in his beard tends the kettle; a broad woman who watches the river the way Suresh watches weather runs everything else.
 
@@ -531,7 +549,7 @@ Outside, Eli walks two turns before he reads it. *Old hotel. Fourth floor. Back 
 
 ---
 
-By late afternoon the rain comes hard and brief, hitting the street like thrown gravel, then leaving steam rising off the drains.
+The rain has already come and gone—hard, brief, gravel on the street—leaving the night market's lanes steaming under the bulbs. Wet stone. Oil rainbows. The string lights doubled in every puddle.
 
 Two streets from the hotel he sees why the chandlery man moved his witness. Two health workers have set a folding table by the bridge—one taking names, one watching a screen—with a soldier beside them pretending not to be. Down at the river steps a white van waits with its rear doors shut. They aren't checking everyone. They're drawing a net around one approach. Same four questions again, Eli thinks. Different city. Same door.
 
