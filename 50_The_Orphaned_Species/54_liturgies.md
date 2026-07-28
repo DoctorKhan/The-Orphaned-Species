@@ -76,7 +76,7 @@ Book I = damaged but functioning reopening (`23`). Book II–III = **cascade of 
 | Collapse | Volume | Scope | What breaks | Phrase / rhythm |
 |---|---|---|---|---|
 | **The corridor break** | **II** Ch 4–5 | Regional — Albion approach corridor | Routes, registry traps, checkpoints, maps | **First spoken** — *in the flow* |
-| **England ambush / instrumented boundary** | **II** Ch 7 | Albion charged-ground fracture | Chair relay, fixed extraction windows | Rhythm: crossing windows, keeper handoffs |
+| **England ambush / instrumented boundary** | **II** Ch 9 | Albion transmission-station seizure | Station routes, artifact provenance, fixed extraction windows | Rhythm: crossing windows, keeper handoffs |
 | **Awakening War ignition** | **III** Ch 4 | Multi-front — SF + Pacific | Registry seizure, ports, comms | Phrase **spreads** |
 | **Distributed evac** | **III** Ch 4–5 | Diaspora corridors | City coordination, fixed shelters | Convoy/meal rhythms multiply |
 | **Corridor holding / Bima** | **III** Ch 8 | Exposed harbor-grid | Force-sync temptation; named loss | War-scar open hours |

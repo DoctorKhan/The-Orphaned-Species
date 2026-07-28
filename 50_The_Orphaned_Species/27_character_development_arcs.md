@@ -24,13 +24,13 @@ Trilogy maturation (`05`):
 
 Romance runs the **same thesis** as cosmology: *clinging = cage; release = adulthood* — mother and Wren through Book II; in Book III, partnership must coexist with separate duties and institutions.
 
-**Three-volume human progression — LOCKED 2026-07-22:** Book I is **feeling and self-knowledge**: Eli becomes emotionally legible to himself and grows personal confidence. Book II is **consent and control**: he learns that understanding, loving, needing, rescuing, remembering, or belonging to someone does not grant possession of body, mind, story, relationship, route, or future. Book III is **politics and civilization**: those same control problems scale into authority, institutions, and the engine that spends people while calling itself family. Preserve the sequence; do not make Book I primarily political or let Book II announce the full civilization synthesis early.
+**Four-volume human progression — REVISED AND LOCKED 2026-07-28:** Book I is **feeling and self-knowledge**: Eli becomes emotionally legible to himself and grows personal confidence. Book II is **consent and control**: he learns that understanding, loving, needing, rescuing, remembering, or belonging to someone does not grant possession of body, mind, story, relationship, route, or future. Book III is **politics, civilization, and necessary authority**: those same control problems scale into institutions and the engine that spends people while calling itself family; Eli accepts bounded command and prepares to release it. Book IV is **subtle power, embodiment, succession, and maintenance**: the women's lenses expose how rooms, care, pregnancy, access, and recognition govern beneath decrees, while the Weavers and men's cloisters learn whether necessary institutions can enter power without becoming owners. Preserve the sequence; Eli's actual relinquishment and the final civic settlement now occur during Rowan's labor in Book IV.
 
-**Wren / Rowan function distinction — LOCKED 2026-07-22; Rowan softer / Eli stronger 2026-07-25:** Wren is personal; Rowan is political **and** softer in temperament. Wren's primary effect on Eli is inward and emotional: she helps him distinguish fear, shame, grief, desire, anger, and loneliness from the survival strategies that impersonate them. His Book I confidence grows because he begins to understand what he feels, trust his perceptions, name what he wants, and choose without making usefulness or destiny his authority. **Rowan is softer than Wren** — less hostess armor, more visible cost, person-first patience — so when Eli and Rowan share scenes (Book II+), **Eli must be emotionally stronger**: steadier voice, plain naming, boundaries without collapse. He is not Rowan's tutor and not her romance; he is the man Wren's early help made capable of **holding space** for someone gentler than Wren without needing to be held the same way. Rowan's later relationship with Eli belongs to public life: she challenges, supports, and limits him as he becomes a political leader and helps translate private conviction into accountable conduct among communities. Do not give Wren Rowan's civic-teacher function or reduce Wren/Eli to freedom-with-boundary. Do not give Rowan Wren's Book I emotional-tutor function for Eli. Boundary makes Wren/Eli intimacy possible; emotional recognition is what that intimacy is for.
+**Wren / Rowan function distinction — LOCKED 2026-07-22; Rowan softer / Eli stronger 2026-07-25; Rowan/Eli revised 2026-07-28:** Wren is personal; Rowan is political **and** softer in temperament. Wren's primary effect on Eli is inward and emotional. Rowan's later bond with him belongs to public life. Rowan/Eli remains direct, affectionate, political, nonsexual, and non-romantic through Book III; only deniable charge is seeded. In Book IV, conscious attraction leads to repeated sex before political work, mutual steadiness, and care make romance real. Rowan's desire for children predates Eli, but choosing him as co-parent and choosing conception occur only after romance. Do not give Rowan Wren's Book I emotional-tutor function for Eli. Wren neither brokers nor authorizes Rowan/Eli.
 
 **Wren's past-lover / social-world lock:** Wren's history includes two significant bisexual or queer relationships. **Rowan** is **British / Irish diaspora** in the strait corridor, close to Wren's age, embedded in the **same mixed-diaspora Weaver house** through training, trust, port work, and shared obligations, and appears on-page in Book II. An **older Chinese-Malaysian ex** belongs to the same transnational social ecology but remains off-page; she offered Wren experience, protection, and access while the age and resource difference created real asymmetry. Neither relationship is reduced to a type: Rowan represents belonging, mutual affection, and the person whom Wren could not turn into a manageable memory; the older ex represents power, protection, ambition, and the danger of confusing care with control. The wider community includes marriages, children, and additional affectionate or erotic bonds under negotiated or imperfect terms. Eli initially tries to reduce the arrangements to deception or a single category. Wren teaches him that marriage organizes responsibility but does not exhaust affection; plural attachment requires consent, honesty, boundaries, and accountability, and no arrangement is universally ethical. A past relationship remains real when both people are alive and changed, but history never makes either automatically available to the other.
 
-**Rowan return / renewed-romance payoff — LOCKED 2026-07-22:** In Book II, Rowan returns as the west-corridor liaison responsible for a person missing near the Sídhe ground. Wren initially reaches for iron—the clean severance/custody solution—but Rowan confronts her in the present: *“A completed route is not a returned person.”* Rowan insists on a bounded living connection long enough to recover the missing person. Wren's capacity to accept correction without commandeering the operation makes renewed intimacy possible. Their romance develops after the extraction through explicit disclosure, ordinary tenderness, and negotiated limits—not rescue gratitude. Wren tells Rowan about Eli before asking to resume physical intimacy. Wren/Rowan and Wren/Eli become concurrent real bonds; Rowan/Eli remains non-romantic. This is not destiny, ancestry, or a woman reduced to symbol. The branch negotiates before iron breaks; Wren learns protection and love can do the same.
+**Rowan return / renewed-romance payoff — LOCKED 2026-07-22; jealousy architecture 2026-07-28:** In Book II, Rowan returns as the west-corridor liaison responsible for a person missing near the Sídhe ground. Wren initially reaches for iron—the clean severance/custody solution—but Rowan confronts her in the present: *“A completed route is not a returned person.”* Rowan insists on a bounded living connection long enough to recover the missing person. Wren's capacity to accept correction without commandeering the operation makes renewed intimacy possible. Their romance develops after the extraction through explicit disclosure, ordinary tenderness, and negotiated limits—not rescue gratitude. Wren tells Rowan about Eli before asking to resume physical intimacy. Wren/Rowan and Wren/Eli become concurrent, continuing real bonds; Rowan/Eli remains non-romantic. The romances are different rather than ranked: Wren/Rowan is formative recognition, Weaver fluency, recovered trust, and embodied history; Wren/Eli is present-tense discovery, emotional naming, grounding, and future-making. Rowan's return makes Eli feel rejected, deprioritized, and provisional. Wren does not end or diminish Rowan to reassure him; she chooses Eli specifically and consequentially, until he understands that being specially chosen does not require being chosen alone. His jealousy recedes because the bonds are not interchangeable and his place is real. This is not destiny, ancestry, or a woman reduced to symbol. The branch negotiates before iron breaks; Wren learns protection and love can do the same.
 
 **Training ply / formative Weaver-bond rule — LOCKED 2026-07-22:** During adolescent training, Wren and Rowan repeatedly chose each other for the Weaver custom of **going together**: no trainee goes out of sight alone during night latrines, washing, water runs, illness, watches, or the vulnerable edges of camp. The house eventually ratified, rather than assigned, them as a **ply**. Their bodies learned safety together before friendship became romance. Separation ended their shared romantic life but did not erase that primal coordination or its later social structure. They never completed an unbinding; each still anticipates the other's movements and carries obligations witnessed by their network. That makes reunion bodily immediate, not inevitable. Every renewed touch and promise requires present consent. Arc line: **the body remembers whom it trusted; the person still chooses.**
 
@@ -102,7 +102,7 @@ The final maturity is not diminished desire. Eli still wants home, family, safet
 | "If I'm useful enough, I won't be abandoned" | Garden failure; inclusion unrelated to competence; choosing people over evidence | Fails, remains included, and ends as a useful but replaceable community member |
 | "The intense feeling must mean destiny" | Sol Mendez; surge on mother's tune | Refuses throne; refuses prophecy role |
 | "Finding mother = finding home" | Lucid reunion; Maren's complicity; reunion prolongs the tether | **Releases her** at Albion although both want another hour |
-| "I must become the weapon to save everyone" | Amplifier temptation; Book III attack; the visible cost of voluntary coordination | Uses bounded authority, refuses forced synchronization, steps down, and accepts review |
+| "I must become the weapon to save everyone" | Amplifier temptation; Book III attack; Book IV continuity trap | Uses bounded authority, refuses forced synchronization, prepares transfer, and completes relinquishment only when institutions can survive it |
 | "Being right places me outside ordinary judgment" | Sponsored refugee's harm; public inquiry | Testifies without controlling the conclusion and accepts real limits on future authority |
 | "My name/lineage is the answer" | Seven are separate people | Keeps **Eli**; Rasel's language and craft; Bangladeshi self enough |
 
@@ -127,8 +127,9 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 - Mid-Vol I: **Thailand** — **choose people, lose clean agricultural evidence**; **rice band + sluice + spray/burn maps** — connection leap (*the land is reading*) that looks like magic to the cooperative; temple breath and Pai memory hinge — **self-compassion and self-acceptance bear fruit**, while Wren's personal witness helps him recognize fear, shame, grief, and want without converting them into performance; personal Manual Override begins to hold under pressure.
 - End Vol I: **Sanxingdui** — recognize the Tree of Life as distributed living
   relation, complete the personal Manual Override through unsynchronized consent,
-  and extract Rasel; **Emrys is taken** while preserving the record. The reunion
-  exposes Rasel and Maren's compromised work instead of resolving abandonment.
+  and recover Rasel; **Wren burns her own standing to authenticate the civilian
+  evacuation**. The reunion exposes Rasel and Maren's compromised work instead of
+  resolving abandonment.
   Göbekli's selection/control counter-image and the Nephilot question move to
   Book II.
 
@@ -136,7 +137,7 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 - European pursuit: past carriers **disagree**; stops seeking one authority.
 - **Anglesey (Ch 6):** bitter cup under keeper consent → **Lovernios** full-res; plant intelligence rhymes Rasel's garden; vertical threshold without Book III cosmology dump.
 - **Rootbook leaps:** cognate + site + measurement linked before full proof; **Sanxingdui break** — forced connection fails, larger pattern survives (`52`).
-- Mother-reveal: Maren is dead in body and tethered; her love and complicity coexist.
+- Mother-reveal: Maren is alive, held, and wired in — kept working by a reunion the Charkha keeps almost-happening; her love and complicity coexist.
 - Reunion: Eli and Maren receive real lucid time together and both want more.
 - Climax: releases Maren and the innocent account of her; refuses amplifier ownership; seeds a sparse awakening.
 - End: liberation outruns social capacity and creates refugees, uncontrolled capacities, and a political vacuum.
@@ -145,21 +146,36 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 - Opening: coordinates the refugee landing successfully; others begin treating temporary authority as natural leadership; **connection-leaps read as messiah proof** in public.
 - Failure: a refugee admitted under his sponsorship commits a fatal nonconsensual mind-entry; Eli remains present to grief and accusation.
 - Wren boundary: recognizes that partnership gives him no jurisdiction over her threshold network.
-- Climax: accepts the federation's bounded crown; refuses forced synchronization even though it would probably save more people; authority expires.
-- Reckoning: submits to public inquiry and accepts restrictions on future command.
-- Coda: works in the shared grafted garden and serves on a sailboat crew; wanted, useful, and replaceable; **connections noticed without announcing them** — ordinary mind after the performance (`54` Ch 25).
+- Climax: accepts the federation's bounded crown; refuses forced synchronization even though it would probably save more people; prepares a constitutional transfer.
+- Hinge: the certification/handover is attacked; the continuity clause keeps his bounded mandate active while the Weavers and men's cloisters become indispensable civic powers.
+- Romance: Rowan/Eli remains nonsexual and non-romantic. Plant only a few
+  deniable signals inside political trust; no pregnancy.
+
+**Vol IV**
+- Women's court: Rowan and Wren experience Eli's continued rule and the formal
+  rise of the Weavers and men's cloisters from inside the rooms where subtle
+  power operates. Rowan/Eli attraction becomes conscious; repeated sex precedes
+  romance. Rowan then separately chooses co-parenthood and when to pursue
+  conception; pregnancy politics follow.
+- Failure pressure: protection becomes surveillance; attestation approaches registry; cloister loyalty approaches a personal guard; pregnancy is offered as succession.
+- Climax: during Rowan's labor, the prepared transfer succeeds. Eli relinquishes; the Weavers accept audit and no identity monopoly; the constitutional cloisters accept civilian distributed command.
+- Coda: child without title; three distinct romances; Wren's parental role explicitly negotiated; Eli wanted, useful, and replaceable.
 
 ### Internal war (constant)
 
-**Grandiosity vs humility** — chosen-one chord fed by fallen and factions; mature answer is **collective** (fire spreads, not messiah). **Messianic rise (LOCKED 2026-07-23):** by Vol III the world *should* read him as messiah — Deiwos, chosen, twin-myth, indispensable war-coordinator. His proof is not hiding the signs; it is **bounded crown, re-teaching, step-down** while the projection continues around him.
+**Grandiosity vs humility** — chosen-one chord fed by fallen and factions; mature answer is **collective** (fire spreads, not messiah). **Messianic rise (LOCKED 2026-07-23; endgame revised 2026-07-28):** by Vol III the world *should* read him as messiah—Deiwos, chosen, twin-myth, indispensable war-coordinator. Book III proves he can bind the crown and prepare release; Book IV makes release difficult enough to matter. His proof is not hiding the signs but re-teaching the name, submitting his continued mandate to constraint, and relinquishing during the birth while projection continues around him.
 
 ### Rise-and-mature — the bounded-crown spine (LOCKED, 2026-07-13)
 
 Eli's through-line is an **ascent into answerability**, not a flat run of nos. He achieves competence, allies, real wins, a following, and temporary command. Maturity requires both accepting authority when permanent renunciation would abandon people and surrendering it when necessity ends.
 
-- **Vol I — prey → agent:** learns to *act* (reads a field, protects **Malai's** Thailand cooperative — a built win); earns Wren and Emrys; survives Malacca. His flare is a double-edged "arrival" (rise = exposure).
+- **Vol I — prey → agent:** learns to *act* (reads a field, protects **Malai's**
+  Thailand cooperative—a built win); earns Wren's trust, survives Malacca, and
+  recovers Rasel without acquiring an expert guide. His flare is a double-edged
+  "arrival" (rise = exposure).
 - **Vol II — agent → liberator:** wins against Custodian control, grows a coalition, reaches Maren, releases her, and seeds the first awakening without owning the amplifier. The myth accretes against his will. Liberation outruns the social capacity to hold it.
-- **Vol III — coordinator → answerable member:** his successful refugee response earns real authority. After freedom produces a victim, he accepts a purpose-bound, revocable, self-expiring crown during attack. He refuses to turn it into forced synchronization, loses people or a beloved place that coercion might have saved, steps down, and submits to public judgment.
+- **Vol III — coordinator → bounded ruler:** his successful refugee response earns real authority. After freedom produces a victim, he accepts a purpose-bound, revocable crown during attack, refuses forced synchronization, and prepares transfer. An attack on certification activates the continuity clause and prevents the planned step-down.
+- **Vol IV — ruler → answerable member and father:** court factions learn to prolong emergency, the Weavers and men's cloisters become powers beside him, and Rowan's pregnancy is pressed into succession mythology. Eli helps build a successor structure that can survive him, then relinquishes during the birth rather than transmit office by blood.
 
 **He sees the cost of imbalance both ways:** permanent throne becomes the cage; permanent renunciation abandons people who need coordinated protection. Maturity is the rhythm—gather authority for a defined necessity, bind it in advance, expose it to review, and disperse it afterward. His final proof is not taking off a symbolic crown by personal virtue; it is accepting that ordinary people can judge and limit him. Positive form: `Thesis.md` § "The mature form — structure that breathes."
 
@@ -170,11 +186,13 @@ Eli's through-line is an **ascent into answerability**, not a flat run of nos. H
 ### Starting state
 
 - **Old in survival, young in love** — master of counterfeit, never held real thing.
-- Official hunter / secret rescuer; belief in rescue **cauterized** after Mira.
+- House Weaver / junior Knotter; skilled at humane intake, frightened that correct
+  procedure may still deliver a person into harm.
 
 ### Arc sentence
 
-> From **managing danger** to **trusting consent** — without stopping the dirty work.
+> From **making the placement correct** to **remaining answerable for the person
+> received**—without abandoning useful institutions.
 
 ### Personal function with Eli — LOCKED 2026-07-22; **early-on 2026-07-25**
 
@@ -200,16 +218,22 @@ Eli's reciprocal gift is emotional witness. He notices fatigue beneath competenc
 | Vol | Stage | Belief under pressure | Proof scene |
 |---|---|---|---|
 | **I** | Recognition refused → emotional recognition | "Intimacy is trap or tool" | Across the flight, Eli begins distinguishing fear, shame, grief, desire, anger, and loneliness; Wren lets him see uncertainty and want beneath competence |
-| **I–II** | Solo extraction (see `26`) | "I save people by control" | Carrier run without Eli on page |
-| **II** | Thaw tested | "Love = manage him safe" | Trade fork: her people vs Eli — neither is currency |
+| **I–II** | Intake worker → displaced person | "A correct placement is care" | Signs the Sanxingdui evacuation with her own name; people escape and her standing burns |
+| **II** | Thaw tested / first recovery | "Love = place him somewhere safe" | Rowan makes Wren remain answerable beyond the completed movement |
 | **II–III** | Choice / union | "Commitment without destiny" | Present-tense commitment **before** climax |
-| **III** | Union tested | "Network ≠ weapon for Eli" | Refuses Eli identities, routes, and command access; offers only cooperation authorized by the network's members |
+| **III** | Union tested | "Network ≠ weapon for Eli" | Refuses Eli identities, routes, and command access; offers only cooperation authorized by the threshold houses |
 
 ### Development markers
 - Stops filling Eli's silences → lets him find words.
 - Admits when protection became control.
 - Lets Eli make a risky choice she disagrees with.
-- **Formative love returns (Book II):** Rowan appears with an objective independent of Wren, confronts her custody instinct, and renews their romance only after changed conduct and disclosure. Wren/Rowan and Wren/Eli are separate real bonds; Rowan/Eli is non-romantic. Neither romance solves Wren's wound.
+- **Formative love returns (Book II):** Rowan appears with an objective independent
+  of Wren, confronts the Knotter's faith in completed placement, and renews their
+  romance only after changed conduct and disclosure. Wren/Rowan and Wren/Eli are
+  separate, continuing real bonds with different romantic grammars; Rowan/Eli is
+  non-romantic through Book III. Eli's jealousy exposes fear of being provisional
+  and resolves through Wren's specific choice of him, not exclusivity or Rowan's
+  demotion.
 - **Sora defection or confrontation** — Mira wound faced, not solved by romance.
 
 ### Romance five stages (`00_NARRATIVE_STRUCTURE`)
@@ -223,31 +247,6 @@ Eli's reciprocal gift is emotional witness. He notices fatigue beneath competenc
 **Romance cost (drafting):** trust up or down each Eli/Wren chapter — `31`/`32`/`33` § *Romance cost audit*; five load-bearing beats `19` § *Romance cost audit*.
 
 **M/I/A (drafting):** at least one register (**M**ystery · **I**ntrigue · **A**ttraction) moves on each Eli/Wren chapter — `31`/`32`/`33` § *M/I/A audit*; five load-bearing beats + through-line `19` § *Female mystery…* § *M/I/A drafting audit*. **Arc:** mystery deepens → intrigue exits counterfeit → attraction matures past control.
-
----
-
-## Professor Emrys — scientific teacher → integrated collaborator
-
-### Arc sentence
-
-> From gifted scientific teacher and damaged insider to an integrated collaborator who can pass on the tools without needing to own the answer.
-
-### Volume beats
-
-| Vol | State | Flaw active | Turn |
-|---|---|---|---|
-| **I** | Converges on flare; kindness + slapstick | Measures when he should touch | Earns trust through undignified competence |
-| **II** | Guide; correlates what Eli feels | Serious error — wrong read costs civilians or trust | Relinquishes authority; apologizes without sulking |
-| **II** | **Taken** | Anti-father withdraws violently | Eli surpasses him — integration without master |
-| **III** | Reunited or lost | Chair/key at Albion | Steps back; map watches territory act |
-
-### Proves development
-
-- Stops lecturing when Eli's body says stop.
-- Makes error **on page**; repair costs something.
-- Does not become Eli's father or owner of the historical record.
-
----
 
 ## Somchai Vichai, RN / field medic (energetic healer) — service vs conscription
 
@@ -330,30 +329,39 @@ Coerced family → **fracture** → broken/changed by Vol III.
 
 Grief is not unique to Eli. Every point-of-view or near-POV character faces a heartbreak that is present from page one and that develops across the volumes. The development is not "getting over it" — it is learning what the loss actually asks of them, and finding the form that keeps the dead person alive inside them without letting the loss own the living.
 
-**Wren's arc through grief** is the pivot the cast was missing. Where Eli learns release through the mother tether (cosmological scale), Wren learns it through smaller, more visceral failures — Mira, the extraction that went wrong, Nura's family split in Malacca, Salmah's boat seized. Her starting error is not cruelty — it is the belief that *saving people* is the same as *grieving well*. She has to learn that rescue is not closure, that consent matters more than outcome, and that letting someone leave can be an act of love.
+**Wren's arc through grief** is the pivot the cast was missing. Where Eli learns
+release through the mother tether, Wren learns it through institutional failure:
+Mira's official transfer, families processed correctly and received badly,
+Salmah's seized boat, and her own displacement after Sanxingdui. Her starting
+error is not cruelty; it is believing humane administration can certify a humane
+outcome. She must learn that placement is not return and documentation is not
+closure.
 
 ---
 
 ## Wren — learning to grieve without consuming the mourner
 
 ### Starting state
-- **Grief as operational fuel.** Mira's death is the engine of the extraction network. Wren saves people because she could not save Mira; every success feels like a debt paid, every failure like Mira again.
-- Protective silence = protection = management. She does not distinguish between keeping people safe and keeping people from choosing.
-- **Emotion as inventory.** She accounts for losses the way she accounts for routes: itemized, compartmented, not spoken.
+- **Grief as procedural fuel.** Mira's death makes Wren determined to build a
+  desk that cannot lose people the way the official transfer lost Mira.
+- Protective procedure = protection = management. She does not yet distinguish
+  between placing someone safely and remaining answerable to their choice.
+- **Emotion as inventory.** She accounts for losses the way she accounts for
+  placements: itemized, compartmented, not spoken.
 
 ### Grief development arc
 
 || Volume | Stage | What she believes about loss | What she learns | Proof scene |
 |---|---|---|---|---|
-|| **I** | Grief as forward motion | \"If I keep saving, the debt clears\" | Extraction success saves bodies and fractures a family she was supposed to protect | Nura/Ilyas separation: she makes the triage choice without Nura's consent, and the cost is not strategic — it is personal. Nura never fully trusts her again. |
-|| **I–II** | Grief as identity | \"I am the one who doesn't leave\" | Some people cannot be rescued; staying available to that truth is harder than running another extraction | Malacca aftermath: learns Hassan's fate through Sora's leak; Wren cannot save Hassan either, and the knowledge sits in her without converting to another operation. |
-|| **II** | Grief as history | \"What I carry is someone else's story\" | Mira's story is *hers* not because she owned Mira but because she is the one still alive who remembers the specific weight of her — and that memory belongs to no faction, no cause, no Eli | Quiet scene: Wren handles a small object Mira gave her (a bracelet, a ticket stub, a button) while Eli watches. She does not explain. He understands the extraction network is her argument with death and that some arguments are not meant to be won. |
+|| **I** | Grief as correct procedure | \"If the placement is sound, the person is safe\" | A humane desk cannot control what waits beyond it | Sanxingdui: Wren's authenticated evacuation works and burns her own standing; she becomes a displaced arrival. |
+|| **I–II** | Grief as identity | \"I am the one who receives people properly\" | Receiving help exposes needs no professional composure can process | Rowan's corridor receives Wren under rules Wren did not write. |
+|| **II** | Grief as history | \"What I carry is someone else's story\" | Mira's story belongs to no institution, cause, or lover | Quiet scene: Wren handles a small object Mira gave her while Eli watches and does not demand explanation. |
 || **II–III** | Grief as choosing | \"I can hold what I lost and still choose what remains\" | Grief does not require either forgetting or walling off; it can be part of the person who stays | Commits to Eli knowing he could break as Mira did; does not make him responsible for her fear. |
 || **III** | Grief as open hand | \"This is still with me and it does not decide for me\" | Network members grieve too; center is not required for love to be real | Wren's network holds its own losses without Wren as manager; she participates as equal. |
 
 ### Development markers
 - Tells Eli about Mira without using Mira to possess him.
-- Accepts Nura's permanent distrust without re-running the extraction logic.
+- Accepts Qiao's anger and the local houses' review without trying to purchase absolution through more useful work.
 - Lets a network member grieve in public without fixing or redirecting.
 - Chooses Eli knowing she could lose him — not despite Mira, but having carried Mira.
 
@@ -376,28 +384,6 @@ Grief is not unique to Eli. Every point-of-view or near-POV character faces a he
 ### Development markers
 - Grieves Rasel on page, in private, without converting father-loss into mother-quest energy.
 - After Maren's release/end, keeps both losses present without allowing either to become the instrument factions want him to be.
-
----
-
-## Professor Emrys — grief as irrelevance and recovery
-
-### Arc sentence
-> From **grief disguised as comic failure** to **grief acknowledged without shame** — the slapstick mask drops, the person remains.
-
-### Grief strand
-- Carries unresolved grief (implied: a child or younger person he failed — check `26` § Emrys). His slapstick and over-talking are ways of not being the serious, sorrowful person he thinks he must be.
-
-| Volume | Stage | Belief about grief | Learns | Proof |
-|---|---|---|---|---|
-| I | Humor as deflection | Grief is undignified; being funny keeps people from seeing what he lost | The historical practitioners do not need him to perform competence *or* comedy | Simple admission: tells Eli he was responsible for someone who did not make it; no joke, no fix |
-| II | Taken | Grief is solitary | Being taken during pursuit costs Eli and Wren; his absence is a wound they carry | Does not apologize for being taken; when he returns, presence is enough |
-| III | Reunited or lost | Grief is finally private, not public | Keeps his own counsel; shares only when asked | Sits with Eli in silence after a death in the refugee landing; no speech required |
-
-### Development markers
-- One scene where he stops performing and just sits with someone else's grief without fixing it.
-- No redemptive death for Emrys — the arc is that he *stays* and learns to be a person who witnessed loss without turning it into a teaching moment.
-
----
 
 ## Somchai Vichai — grief as cost of a gift he did not choose
 
@@ -455,8 +441,7 @@ Track each major choice against **Body / Family / Civilization**:
 | Choice | Body | Family | Civilization |
 |---|---|---|---|
 | Leave Pelangi Reach | Exhaustion, TBI | Kitchen crew, garden | Exposes refuge |
-| Vol I climax | Manual Override + Sanxingdui living route | Malai's cooperative, Luo/Qiao's conservation work, Rasel's sabotage | Rasel recovered; Emrys taken; distributed Tree recognized |
-| Emrys taken | — | Rescue him vs press on | Grid race |
+| Vol I climax | Manual Override + Sanxingdui living route | Malai's cooperative, Luo/Qiao's conservation work, Rasel's sabotage | Rasel recovered; Wren displaced; distributed Tree recognized |
 | Release mother | Grief in chest | Orphaning complete | Node darkens |
 | Climax | Union act cost | Wren open-handed | Fire spreads; no throne |
 
@@ -486,7 +471,6 @@ Every reconnection that counts has the same shape, and a character can stall at 
 |---|---|---|---|
 | **Eli** | Double orphan; exile from Bangladesh; TBI eating the memories; every faction offering him a *better* lineage | Rasel recovered at Sanxingdui as a specific man—gardener, loved, difficult, implicated—not a martyr; inheritance becomes practice rather than bloodline | Releases Maren in Book II; in Book III works beside Rasel without becoming his extension; the grafted garden is shared, altered, and healthier for it. **A line lives by being changed.** |
 | **Wren** | No ancestral claim on the Weavers' Bengali–Malaccan branch; her belonging is entirely earned, and Mira's death made her doubt she has the right to any of it | **Chosen kinship is lineage** — the web she joined through work, obligation, and love hands her something real: the quiet-culture adaptation (`§ Quiet-culture lock`) and its threshold rituals. She also inherits its *cost*, and must decide which half to pass on | The **ferry-terminal threshold house**: she is rebuilding the ancestral form (arrive, don't be processed) as an institution that survives her — and, with Asha, adds consent, return rights, and appeal, i.e. **alters the inheritance rather than reproducing it** |
-| **Emrys** | Career destroyed; expelled from the institution that was his line of descent; his dead colleague's work orphaned with him | **Craft-lineage** — the scientific habits (controls, signal/noise, falsifiability) are an inheritance he can hand down without owning the answer. Being a *link*, not a terminus | Eli recalls Emrys's principles at a critical moment when Emrys is absent or taken — transmission proved by working without the teacher present; Emrys does not become Eli's father or the owner of the historical record |
 | **Somchai** | Healer with no legitimate line to point at; the tradition he works in was persecuted into invisibility, so the world offers him only *divine election* as an explanation | Locating the gift in an **ordinary human teacher** — someone's grandmother, a ward, a war, a person who showed him — which is exactly what makes deification refusable. *Son of a man, not son of god* | Names where it came from, to one person, without ceremony; refuses the crowd miracle because a handed-down craft has limits and a divinity doesn't |
 | **Maren** | Cut herself off — birth name **Holt** abandoned, family and country left behind; then removed from her own son's life and finally from her body | She cannot reconnect herself. **Eli restores her to the line** by receiving her whole: courageous, complicit, delaying. Releasing the innocent mother is what makes her an ancestor instead of a symbol | Release at Albion. **A symbol you kneel to is not an ancestor** — the release is the lineage move, not only the grief move |
 | **Crane** | The failure mode incarnate: converts descent into **registry** — pedigree, file, managed line, risk permanently written into identity | *None.* He offers the counterfeit: belonging through classification. He would give every orphan a documented line and own them by it | Book III — the registry's genealogical logic is shown doing real protective work, and it still ends in ownership. Contained, not redeemed |
@@ -515,7 +499,7 @@ They braid: an ordinary practice turns out to be a curriculum fragment worn down
 - **Carried wrong first.** The adopted practice is performed clumsily, at the wrong moment, or for the wrong reason before it becomes theirs. Comedy lives here (`24`).
 - **Altered, with the source named.** Book III versions are visibly changed and the giver is credited by name. **Grafting, again** — the shared garden, the threshold house rota, a mourning rite performed by people who are not from where it came from.
 - **The guard: hosts stay subjects.** The communities are not a supply of technique for the protagonists. At least once a practice must be **withheld** — offered to one character and refused to another, or given with conditions Eli finds inconvenient — and the boundary must be treated as legitimate and never circumvented. Wren's *"everyone inside knows; no one outside is owed the knowing"* (§ *Quiet-culture lock*) is the same rule in her register.
-- **Adoption is reciprocal.** They leave things too: Eli's cooking, Emrys's controls-and-error-bars, Somchai's triage, Wren's exits. A traveler who only receives is a tourist.
+- **Adoption is reciprocal.** They leave things too: Eli's cooking, Rasel's controls-and-error-bars, Somchai's triage, Wren's placement discipline. A traveler who only receives is a tourist.
 
 **Scene owed:** at least one per volume where a character does something small and *specifically inherited from a named person in an earlier volume*, without commentary — the reader recognizes the source before the character mentions it. Cross-ref the adventure/scene bank for placement: `18_adventure_engine_and_scene_bank.md`.
 

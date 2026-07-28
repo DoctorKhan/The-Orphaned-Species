@@ -33,9 +33,16 @@ For concrete scene forms, use `18_adventure_engine_and_scene_bank.md`. This sect
 2. **A line, then a break.** Separate observations reveal that the growth follows a conductor and that an interrupted conductor leaves two opposed ends. “Positive” and “negative” describe polarity, never good and evil.
 3. **Dead zones.** Patches where **plants won't grow** and **animals won't go** — herders, sailors, and old maps already know the bad ground before Eli has vocabulary. Later: these mark **intentional severance** (*scour*), not a clean break with two live ends. See § *Dead zones* below.
 4. **Formation, not inscription.** A crop circle is recognized as the biological effect of new ley lines forming through cultivated land. The plants are the detector; no one has stamped a message into them.
-5. **Routing by stone.** Historical records and physical tests show that standing stones deflect lines inward. Burial or destruction can disable an interface without erasing the underlying planetary conductor.
-6. **Communication at the center.** Only after the earlier pieces are combined does the group understand why people stood at the center of a circle: convergence allows transmission and reception.
-7. **Use without ownership.** The final problem is ethical as well as tactical. Eli can communicate through the network, but refuses to make it a throne, proprietary machine, or new priesthood.
+5. **Routing by stone.** Historical records and physical tests show that
+   standing-stone grounds are transmission stations. Burial or destruction can
+   disable a station without erasing the underlying planetary conductor.
+6. **Artifact wisdom with provenance.** Only after the earlier pieces are
+   combined does the group understand that each station receives and forwards
+   the bounded wisdom of its associated artifact. Geometry retains
+   route, witness, loss, and correction; no human center creates the message.
+7. **Use without ownership.** The final problem is ethical as well as tactical.
+   Eli can witness and help retransmit through the network, but refuses to make
+   it a throne, proprietary machine, master key, or new priesthood.
 
 **The authorial route makes the ladder physical; Eli never sees this table:**
 
@@ -61,7 +68,7 @@ The chain cannot belong wholly to his mother. Some clues come from her research;
 
 **Rootbook integration — LOCKED 2026-07-21:** Maren's encoded comparative journal organizes questions across this chain but does not contain it. Linguistic reconstruction can open only bounded pages. Each consequential reading still requires an independent object, living witness, local correction, or repeatable field observation. Sanxingdui marks the limit of the linguistic tree and the opening into the older living mesh. See `52_the_rootbook_word_web.md`.
 
-**Albion is a late convergence, not a quest marker.** Eli does not know that his mother's spirit is there, that Emrys's chair is there, or that Stonehenge is the final operational ground. In Volume II he can learn only that she is dead in body and tethered somewhere in a western network. The endpoint becomes identifiable in Europe when Cuno's geometry, Derw's carried fragments, his mother's research, and the behavior of the living lines independently agree.
+**Albion is a late convergence, not a quest marker.** Eli does not know that his mother is there, or that Stonehenge is the final operational ground. In Volume II he can learn only that she is alive and held somewhere in a western network, working a ground he cannot name. The endpoint becomes identifiable in Europe when Cuno's geometry, Derw's carried fragments, his mother's research, and the behavior of the living lines independently agree.
 
 ### The broken-line church (LOCKED scene)
 
@@ -307,7 +314,7 @@ The Seven are **Aru, Daskar, Ila, Tem, Anthea, Cuno, and Lovernios**: separate p
 | 3 | **Ila**, the Midwife | 19 | Early farming South Asia, date/site TBD | Healing touch, the diagnostic conduit | Bodies leak into one another; illness travels along attention |
 | 4 | **Tem**, the Hidden Son | 6 -> ~30 | 17:1 bottleneck, ~3000 BCE | Dream-walking, telepathy across unrelated hidden communities | Consciousness is non-local; mind is not in the skull |
 | 5 | **Anthea**, the Singer of Frequencies | 23 | Bronze Age Anatolia, ~1500 BCE | Sonic resonance, song as substance | Matter is a slow song; the right pitch unties knots |
-| 6 | **Cuno**, the Bluestone Mover | 70s | Stonehenge / Albion, ~2000 BCE | Collective resonance, group consciousness amplified by geometry | Many minds in the right shape make one mind; the structure is the antenna |
+| 6 | **Cuno**, the Bluestone Mover | 70s | Stonehenge / Albion, ~2000 BCE | Transmission-station routing; preservation of provenance and bounded wisdom | No station is the source; distinct artifact teachings can share a network without becoming one command |
 | 7 | **Lovernios**, the Druid of Anglesey | 60s | 60 CE | Plant medicine, non-human intelligence | Mind is not bounded by species; knowledge need not remain inside a lineage |
 
 The progression is inward-to-outward: breath -> body -> other bodies -> minds -> matter -> structure -> species. This is a thematic curriculum, not one soul's evolution or Eli's power ladder. Eli receives the Seven scrambled; integration discovers relationships without forcing them into a single authoritative sequence. Aedan receives only partial echoes. A present-day medical worker develops far more healing depth than Eli, demonstrating that reception of a record and mastery of a practice are different things.
@@ -368,7 +375,7 @@ Watched-depth. The boy watches; he is not in the scenes. Voice should drift towa
 The supervision era. Anunnaki walking among humans. Enki teaching, Tiamat singing the oceans. The golden age remembered as Eden, as Dilmun, as the Dreaming. People communicate along living planetary conductors without yet needing monumental stone interfaces. The boy understands that his village's song is a fragment of what was sung here, but not yet how sound, line, and mind connect.
 
 **8. War in Heaven**
-The generational conflict. The Igigi rising against the Anunnaki. The boy sees the climate/interface sabotage from above, then the Younger Dryas rupture from below: cold, failed winds, broken migration, dead larder, volcanic sky, and communities forced toward dependence. The planetary network fractures with the catastrophe: routes fail, and paired ends remain where continuity existed before. The later or staged fall of orbital hardware may appear as fire-from-heaven, but the chapter must not depend on a literal Younger Dryas comet. Marduk kills Tiamat — and Tiamat is the dragon at the cave's mouth. The boy understands which side his cave is on, but the vision still does not name positive, negative, or ley line. The reader receives the break before the manual.
+The generational conflict. The Igigi rising against the Anunnaki. The boy sees the Younger Dryas rupture: cold, failed winds, broken migration, dead larder, volcanic sky, and communities forced toward dependence — driven by the locked thermal-nucleation **craft** event (`59_younger_dryas_nucleation_lock.md`), not a classical comet crater. The planetary network fractures with the catastrophe: routes fail, and paired ends remain where continuity existed before. Later or staged fall of orbital hardware may appear as fire-from-heaven on a separate date; the chapter must not depend on classical YDIH crater physics. Marduk kills Tiamat — and Tiamat is the dragon at the cave's mouth. The boy understands which side his cave is on, but the vision still does not name positive, negative, or ley line. The reader receives the break before the manual.
 
 **9. Adapa** *(longest chapter — the book's heart)*
 The cave shows the boy the whole tragedy in full close-up — priest of **Eridu** *(in the master canon, the first city in the orphan-builds-walls line: the place a cursed wanderer answered exile with permanence; see master timeline, "Cain, Eridu, and the first city")*, fishing the Persian Gulf, the South Wind capsizing the boat, the words of power, the broken wing. The summoning to Anu. Enki's warning. The bread and water refused. The realization, too late, that the warning *was* the trap. Adapa returns to earth mortal — and the boy, watching beside the reader, understands: this is the cage seen working from the inside, a man choosing his own lock not under torture but reasonably, gratefully, on good advice. He is not Adapa. He sees what Adapa is, which is worse. *(Story shown, not inhabited — Adapa is a parable the cave plays for him, the universal "before" picture against which the Seven of Part III will each be a different answer. **The second floor:** Adapa serves in the city the orphan first built to defy the wandering curse, and the priests of that city now teach the people to kneel — the defiant settlement has become the submission-engine.)*
@@ -404,8 +411,31 @@ Running through all seven is the orphan-and-father thread (see the section above
 **14. The Singer of Frequencies** *(Bronze Age Anatolia, ~1500 BCE — Anthea, 23 — Practice: sonic resonance)*
 **Anthea**, twenty-three, can sing stones soft and wounds closed. She does not know how — she only knows the village brings her their sick and stuck plows. She sometimes touches Tem's dream-network, but as another listening post rather than his descendant. One night she dreams a chord and wakes able to hold it until light bends. Different notes answer at the two ends of a broken route; neither is evil, and the interval between them reveals that the ends belong to one severed conductor. She teaches her daughter **Lira**. Patriarchal cults kill Anthea for witchcraft; Lira and others scatter carrying the chord. It eventually reaches Aedan's village through a broken, undocumented transmission chain. Wren is not Anthea reborn.
 
-**15. The Bluestone Mover** *(Stonehenge / Albion, ~2000 BCE — Cuno, 70s — Practice: collective resonance)*
-**Cuno**, an Albian elder in his seventies, is tuning a planetary instrument. He has spent his life learning a collective geometry that rhymes with Anthea's individual chord without requiring descent from her. He knows the full operational distinction: ley lines are conductors; broken lines retain opposed ends; new formations alter growth; the bluestones deflect multiple routes into the center; bodies and sound complete the communicative arrangement. The circle's last firing coordinates dozens of practitioners, including **Derw**, sixteen. At full resonance Cuno receives an overwhelming fragment from the deeper archive: images of the grid's origin, corruption, and intended use, but no clean explanation and no guarantee that his interpretation is right. He cannot hold it all. Under pressure he divides what remains among the circle's geometry, a rhythmic sequence, bodily positions, a brief spoken account, and one marked object. He gives the portable pieces to Derw and orders him away, passing the record beyond his own family and authority rather than founding a priesthood around himself. Aedan's partial receiver-record catches the chord, Derw's flight, and the name **Aedan**, "ember," across the field; Cuno is not addressing a future incarnation. Then the chariots crest the rise. Later transmission loses, alters, and withholds parts, so Eli cannot receive this manual whole: he must rediscover its pieces in the present and use Cuno's record only to assemble them. The universe never explains itself to him directly.
+**15. The Bluestone Mover** *(Stonehenge / Albion, ~2000 BCE — Cuno, 70s — Practice: transmission routing)*
+**Cuno**, an Albian elder in his seventies, tends one station in a much older
+network. He has spent his life learning how a charged ground receives the
+bounded wisdom carried by an artifact and sends it onward without claiming to
+be its source. He knows the operational distinctions: ley lines are conductors;
+broken lines retain opposed ends; new formations alter growth; the bluestones
+route several transmissions through the same ground; each route must preserve
+its artifact sign, keeper chain, known losses, and independent witness. Bodies
+and sound can open or attest a channel, but human minds do not merge and no
+keeper receives the whole archive.
+
+During Stonehenge's last transmission, Cuno and the other keepers, including
+sixteen-year-old **Derw**, forward several distinct teachings as armed riders
+approach. An attempted seizure begins stripping names from the routes so that
+the invaders' authority can appear to be the source. Cuno cannot save every
+channel. He divides the surviving routing record among the circle's geometry,
+artifact signs, a rhythmic checksum, a brief spoken account, witness marks, and
+one marked object. He gives the portable pieces to Derw and orders him away,
+passing the record beyond his own family and authority rather than founding a
+priesthood around himself. Aedan's partial receiver-record catches one
+transmission, Derw's flight, and the name **Aedan**, "ember," across the field;
+Cuno is not addressing a future incarnation. Then the riders crest the rise.
+Later transmission loses, alters, and withholds parts, so Eli cannot receive
+this routing grammar whole: he must test it against the artifacts and living
+stations in the present. The universe never explains itself to him directly.
 
 **16. The Druid of Anglesey** *(60 CE — Lovernios, 60s — Practice: plant medicine, non-human mind)*
 **Lovernios** — his name means *fox*, a rhyme with Aru rather than proof of lineage — is an elder druid familiar with several practices through accumulated teaching. What is distinctly his is conversation with plants. He follows changes in growth where an old line has failed and a new one is forming, preserving a living map that no imperial survey can see. As Suetonius's legions cross the strait, he gives the seed-catalog to **Nia**, nine, and they sink it into the peat. Lovernios dies unsure whether the knowledge will survive. Nia runs; Eli's later reception proves transmission can cross broken lines.
@@ -469,7 +499,7 @@ Every chapter has a hook in the existing timeline (`30_The_Human_Experiment/src/
 | 12 | Agricultural catastrophe | Timeline Phase VI | Healing touch, diagnostic conduit (`practices` — diagnostic conduit technique) |
 | 13 | 17:1 bottleneck | Timeline Phase VI | Dream-walking, telepathy (`practices` — psionic development, dream work) |
 | 14 | Bronze Age cult transition | Timeline Phase IX onset | Sonic resonance (Consciousness Technologies — sound healing) |
-| 15 | Stonehenge last stand | `20_part_control/40_generational_war.md` | Collective resonance, geometry-as-antenna |
+| 15 | Stonehenge last transmission | `20_part_control/40_generational_war.md` | Artifact-wisdom routing; provenance preserved under seizure |
 | 16 | Roman conquest of Albion | Timeline Phase X | Plant medicine, non-human mind (Consciousness Technologies — plant medicines) |
 | 17–18 | Present | Timeline Phase X (current tension) | Seven records held by Eli; capacities remain distributed across living people |
 

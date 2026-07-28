@@ -33,6 +33,17 @@ Those accounts should disagree. The characters remain in the present, test the v
 
 Artifacts are not a quest inventory. Each object must change the route, divide the group, expose a false interpretation, or force a costly choice. Some should be authentic ancient objects, some later copies, some missing fragments known only from scans or stories, and at least one a planted or misidentified object. The protagonists should rarely possess a famous museum object; photographs, squeezes, casts, translations, private fragments, stolen metadata, and displaced custodians are usually more plausible.
 
+**Transmission rule — LOCKED 2026-07-27:** every major artifact can transmit wisdom or information in some form. Transmission may be **material** (geometry, wear, composition, damage), **human** (custody chain, inherited practice, story, or obligation), **linguistic** (index, inscription, or comparative pattern), or **ley-mediated** through **dream reception** at a damaged ground. The carved spheres are listening/interface stones, not control stones: the people later called the **First Dreamers**—more accurately, the **Last Dreamers**—received symbolic dreams, warnings, images, and route-information as the final organized custodians of a capacity all humans and creatures already possessed. Not every object is an active ley device, and no object delivers a complete answer. Each artifact must specify what it can transmit, to whom, under what conditions, and what distortion or cost accompanies reception. An artifact can be misread, but it cannot be narratively mute.
+
+**Transmission-station lock — REVISED 2026-07-28:** charged stone grounds are
+transmission stations. Each station receives, preserves, and sends onward the
+bounded wisdom carried by its associated artifact. Artifacts never collapse
+into one master key, and Stonehenge is only one station in the network.
+Cuno's geometry preserves routing, provenance, loss, and witness positions so
+the wisdom of the Circles, Refusal, Map, Bridge, Men-an-Tol passage, and other
+objects can travel without one interpreter owning it. Human participants
+witness, consent, interpret, and retransmit; their minds do not merge.
+
 **Rootbook / Word-Web status — LOCKED 2026-07-21:** Maren's encoded comparative field journal is the interpretive matrix running beside this chain, not a sixth cosmological artifact or a master itinerary. Regular linguistic transformations open bounded passages, while artifacts, living speakers, communities, and repeatable field observations corroborate or correct them. The journal is distributed evidence and an unfinished relationship with Maren, never a self-authenticating key. Full design: `52_the_rootbook_word_web.md`.
 
 ## Placement and visibility architecture — LOCKED 2026-07-15
@@ -61,7 +72,9 @@ Artifacts operate on three levels:
 - **Inana's Descent:** descent, surrender, accurate resonance, and restoration; Somchai embodies the method while Eli initially mistakes it for a code.
 - **The Sorting** (Enki and Ninmah): full cross-ref after Vol I seed — every person has purpose even when no institution can use or classify them; the story seeds the Book III refugee ethic.
 - **Timna serpent / Nehushtan:** a paired historical argument—serpent inside the making, serpent later erased by centralizing authority.
-- **Cuno–Derw object:** incomplete geometry, rhythm, body positions, and transmission; the characters must recreate it collectively and never receive a complete manual.
+- **Cuno–Derw object:** incomplete station geometry, artifact signs, routing
+  intervals, witness marks, provenance, and known losses; the characters must
+  test it against several artifacts and never receive a complete manual.
 
 ### Volume III — The Living World
 
@@ -107,8 +120,8 @@ Discovery-order note: **artifact zero** means oldest/deepest in cosmological pre
 
 | Artifact or story-object | Historical status | Story it carries | Present plot function |
 |---|---|---|---|
-| **The Forks** / Double-Fork Stone | Fictional story artifact, withheld until Book III | Earth-produced bird/chimpanzee branches beside Heaven/panspermic dragon/human branches | Late biological/cosmological reveal; street **The Forks**; validates the parallel bridge-species design without making dragons an early taxonomy clue |
-| **The Circles** / Three-Circles Tablet | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator | Street **The Circles**; practice model as material image; test whether cosmology, social diagram, ritual plan, or later forgery |
+| **The Forks** / Double-Fork Stone | Fictional story artifact, withheld until Book III | Earth-produced bird/chimpanzee branches beside Heaven/panspermic dragon/human branches; the parallel branches carry distinct Earth–Heaven departure functions | Late biological/cosmological reveal; street **The Forks**; validates the parallel bridge-species design and reframes the human urge to leave Earth without making dragons an early taxonomy clue |
+| **The Circles** / Three-Circles Tablet | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator; an index grammar for selecting relations in the damaged ley network | Street **The Circles**; first Meridian recovery artifact; practice model as material image; test whether cosmology, social diagram, ritual plan, or later forgery |
 | **The Bridge** / Göbekli snake/tree/bird plaquette | Real Göbekli Tepe small find reported in excavation/public outreach material; exact publication, inventory number, and image rights to verify before use | Three carved symbols (snake, tree, bird): Earth's earliest surviving **bridge diagram**—tree = living interface where Heaven meets Earth; snake and bird = transmission functions later myth turned into enemies. Three stacked readings: terrestrial, guardian, cosmological. See § *Göbekli plaquette* | Street **The Bridge**; Book II discovery; no on-page panspermia certification until Book III |
 | **The Fade** / Sumerian King List / Weld-Blundell tradition | Real textual tradition and surviving manuscripts | Before the Flood, reigns last impossibly long; afterward durations contract toward recognizably human lifespans. The sequence preserves a cultural memory of lost immortality, rhyming with the long lives and later decline of biblical patriarchs. | **Human-Design Triad (3/3)** — street name **The Fade**; mortality as right boundary, not curse (`35` § *Mesopotamian Human-Design Triad*) |
 | **The Refusal** / Adapa tablet with a lacuna | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | **Human-Design Triad (1/3)** + load-bearing object #3; street name **The Refusal** (first hearing may say “Adapa’s Refusal”); foolable mind; Tree of Life withheld (`99` #10) |

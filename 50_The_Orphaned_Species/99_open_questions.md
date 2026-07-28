@@ -33,11 +33,12 @@ Do not solve these by adding more mythology. Solve them by deciding who wants wh
 
 - **Book I ends at Sanxingdui.** Pelangi Reach → Malacca → Thailand →
   northbound human doors → Sichuan. Eli recognizes the distributed Tree of Life,
-  recovers Rasel, and loses Emrys to capture at the climax. Mesopotamia and Göbekli
-  belong to Book II.
+  recovers Rasel, and watches Wren spend her real name and house standing to open
+  the civilian gate. Wren loses her work, papers, and safe return; Qiao loses
+  clearance. Nobody is captured. Mesopotamia and Göbekli belong to Book II.
 - **Book II ends at Albion with Maren's release.** Anatolia → Europe → Stonehenge / Men-an-Tol / tethered ground. Eli **rescues Maren** (trail, reunion, release). The release begins the spreading awakening through the living web.
 - **Book III is the community/network book.** Rasel is already present after his Sanxingdui rescue at the end of Book I. Pelangi Reach, the **Thailand river cooperative**, Somchai's clinic network, Wren/Asha threshold houses, and an open Albion ground attempt durable connection without central ownership. Crane's surviving apparatus pressures standardization; Sol pressures militarized centralization. The climax tests whether temporary coordination can disperse after necessity.
-- **Parent rescue schedule — LOCKED 2026-07-26:** Eli **rescues father — Book I at Sanxingdui**; Eli **finds and releases mother — Book II at Albion**. Ch 1 learns both were taken alive, locations unknown. Rasel's recovery directly costs Emrys's capture and reveals Maren's early complicity.
+- **Parent rescue schedule — LOCKED 2026-07-27:** Eli **rescues father — Book I at Sanxingdui**; Eli **finds and releases mother — Book II at Albion**. Ch 1 learns both were taken alive, locations unknown. Rasel's recovery directly costs Wren's protected standing and Qiao's institutional access and reveals Maren's early complicity.
 
 **Eli's fundamental motor — LOCKED 2026-07-24:** **Parent rescue** is what he is **fundamentally doing** — not seeking power, throne, registry, or permanent command. Malacca, Göbekli, artifacts, alliances, cosmology = **means** or **consequences**. Factions offer power because he is useful on the rescue path; messiah/coordinator accretion in Book III is **misread**, not motive. Craft: scenes should show how the move serves rescue; power temptations land because rescue *seems* to require them. `27` § Fundamental motor; `05` § Desire spine.
 - **Book III opening — LOCKED:** Eli returns to **Pelangi Reach** as a boat of newly awakened refugees arrives under pursuit / exposure pressure. The refuge is divided: close the harbor to preserve the community; admit everyone because awakening changed the moral scale; or create accountable intake that risks becoming a registry. **Wren** argues for signed procedures and worker/resident safety while resisting universalizing one refuge as the network template; Mei insists arrivals are fed and stabilized before classification; founders want to scale and brand the model. Eli coordinates the immediate emergency successfully. The success creates the new danger: residents, outsiders, and allied nodes begin treating his temporary decision as permanent authority.
@@ -95,18 +96,18 @@ Working character bible from cast review. Core names and relationships are now f
 |---|---|---|
 | Malacca witness | Hassan al-Ridzuan | held with mother; half-bait with conscience |
 | Wren's dead love | Mira Okonkwo | ties Wren + Custodian Shield |
-| Shield / defection | Sora Vithan | Mira's partner; Wren extraction failure |
+| Shield / defection | Sora Vithan | Mira's partner; Mira died after an official transfer Wren helped process |
 | Lance | Tomás Reyes | collateral guilt |
 | Lead / Locker | Edda Voss | true believer manager |
 | Mask / Scout | Jin Pak | coerced idealist |
 | Vol I cooperative water keeper | **Malai Somboon ("Malai," provisional)** | Thai lead within a river-valley rice/aquaculture cooperative |
 | Prophecy face | Solomon "Sol" Mendez | burned carrier, Vol II |
-| Workplace / status liaison | **Wren** (Pelangi intake cover; network manifests) | compound attestation, cohort squeeze, extraction routes |
+| Workplace / status liaison | **Wren** (Pelangi house placement desk; network manifests) | compound attestation, cohort squeeze, placements and public-room logistics |
 | Kitchen / hearth | Mei Lin | food, local trust; **Ch 1 Friday dinner** orphan truth |
 | Healer | Somchai Vichai, RN / field medic | energetic healer; two public healings + hard no |
 | Shireen (cousin) | Shireen | one Dhaka message beat |
 | Martial instructor | **TBD** (Thailand Ch 5–10) | present Vol I — MT/Kali + chi-body |
-| Wren's formative prior love / Book II west-corridor liaison | **Rowan** | on-page Book II Ch 5–7; renewed Wren/Rowan romance; Eli/Wren also real; Rowan/Eli non-romantic (`26`, `27`) |
+| Wren's formative prior love / Book II west-corridor liaison | **Rowan** | on-page Book II Ch 5–7; renewed Wren/Rowan romance; Eli/Wren also real; Rowan/Eli only faintly charged in Book III; Book IV sex precedes romance, then chosen conception (`26`, `27`, `60`) |
 
 ### Core cast locks — RESOLVED 2026-07-19
 
@@ -118,9 +119,9 @@ Working character bible from cast review. Core names and relationships are now f
 
 **Locked look (cast):** **Wren** — **Malay Chinese** (East Asian descent); dark hair, tied back, hood-ready. **Rowan** — **British / Irish diaspora** (strait corridor); **blonde hair, blue eyes** (Book II on-page).
 
-**Complex pasts (craft):** every major character gets **ordinary life → turn → unreconciled** — not only run/network backstory. Wren's pre-Unranked softer life + a prior love is the template (`26` § Complex pasts; `15` § Complex pasts). **Vol I past-vs-mask scene bank:** `26` Part V — one leak per character, mapped to chapters in `31`. **Trauma & internal cages:** `26` Part VI — per-character patterns; `15` § Trauma & internal cages.
+**Complex pasts (craft):** every major character gets **ordinary life → turn → unreconciled** — not only network backstory. Wren's earlier front-of-house life, her valid transfer of Mira, and a prior love are the template (`26` § Complex pasts; `15` § Complex pasts). **Vol I past-vs-mask scene bank:** `26` Part V — one leak per character, mapped to chapters in `31`. **Trauma & internal cages:** `26` Part VI — per-character patterns; `15` § Trauma & internal cages.
 
-**Deepened existing:** Wren solo extraction chapter; Emrys slapstick + measures-when-he-should-touch (`24`); Crane private humane beat; Mei constructive control; Suresh/Iqbal grief; Hassan witness morality; Rowan's Book II return, independent recovery objective, formative Weaver bond, and renewed romance with Wren.
+**Deepened existing:** Wren's placement and evacuation accountability; ensemble humor under catastrophe; Crane private humane beat; Mei constructive control; Suresh/Iqbal grief; Hassan witness morality; Rowan's Book II entrance, independent recovery objective, formative Weaver bond, and renewed romance with Wren.
 
 **Character development arcs:** `27_character_development_arcs.md` — volume questions, Manual Override thresholds, Eli perceptual stages by volume, fellowship arcs, romance stages, proof scenes.
 
@@ -128,7 +129,7 @@ Working character bible from cast review. Core names and relationships are now f
 
 ### Rowan — RESOLVED / REOPENED (locked 2026-07-22)
 
-- **Decision:** Rowan appears **on-page in Book II Ch 5–7** as Wren's formative prior love and a west-corridor Weaver liaison with her own missing-person/network objective. Wren/Rowan renews romantically through changed conduct and explicit choice. Eli/Wren also remains real; Rowan/Eli is non-romantic. This is a **plural V centered on Wren**, not a competition or three-way triad. Wren and Rowan never completed a Weaver unbinding, so the old bond retains embodied and social structure without granting permanent consent. See `26` § Rowan, `27` § Wren, `19` § Rowan returns.
+- **Decision — REVISED 2026-07-28:** Rowan appears **on-page in Book II Ch 5–7** as Wren's formative prior love and a west-corridor Weaver liaison with her own missing-person/network objective. Wren/Rowan renews romantically; Eli/Wren also remains real. Rowan/Eli remains nonsexual and non-romantic through Book III. Book III plants only deniable charge with complete political explanations. In Book IV they consciously recognize attraction and have sex several times before the bond becomes romantic. Rowan's wish for motherhood predates Eli; she initially avoids pregnancy, then after romance separately chooses him as co-parent and decides when to pursue conception. Book IV contains three distinct dyads and court pressure to rank them. See `19`, `26`, `27`, and `60`.
 
 ## Priority 0 — cosmology revision adopted for outlining
 
@@ -159,6 +160,12 @@ How the deep-past material reaches the present-day trilogy is **resolved**: see 
 - **Locked delivery rule (`36` §3a, §3):** Malacca = **receiver ON** + overload + grid flare — **not** seven lives downloaded, **not** identity crisis. Named threads clarify **at charged grounds** under pressure. **Talking stones** (`36` §7a): local folk memory of charged-ground behavior.
 
 **Follow-up sweep — COMPLETE (2026-07 four-term pass + this pass).** Legacy conceptual terms (*memory capsule, lived-life/watched-vision, resonance braid*) now survive only in intentional deprecation lists (`36` §2, `37` §5/§12, `95`, this file); the `36` §10 four-term sweep (protocol/shard/mesh/node) is done — *shard* and *node* remain retired web-vocabulary (see the ban at `95_glossary.md` § LOCKED vocab and `23_2040_present_frame.md` § Craft lock), not live terms. Live-frame leftovers fixed: `10` (carrier-imprints→practitioner imprints), `15` (carrier-memory→deep-thread memory; historical carrier→practitioner), `25`/`39` (protocol→practice). `36` governs.
+
+### 0c. Younger Dryas physical mechanism — LOCKED 2026-07-27; owner deferred
+
+**Locked:** thermal-nucleation **craft** at ~12.9 kya — zero bedrock crater; ice lattice failure → meltwater → AMOC; Black Mat PGMs as ablative craft ash. **Intent: unintentional crash** (not a planned climate strike). **Contact posture:** Earth = experiment/study; regular visitation avoided (**Andaman** analogy). File: `59_younger_dryas_nucleation_lock.md`.
+
+**Open:** who sent/piloted the craft; whether it was Anunnaki hardware, Igigi vessel, maker remnant, or other; what it was trying to do before failure; how the accident relates to the Two-stage Fall (~10.8–10.0 kya orbital loss) and remaining Generational War politics. Do not invent a classical YDIH crater to paper over this.
 
 ## Priority 1b — external-world political effect on trilogy warfare
 
@@ -198,7 +205,7 @@ See `biological_countermeasures_in_world.md` for the full external-world mapping
 
 ### 1. Opening causal chain — LOCKED
 
-**Chapter placement — LOCKED:** Chapter 1 establishes and destroys the Pelangi Reach hearth. Chapter 2 carries the entire southern flight—escape, brief Meridian City processing and ring photograph, Straits passage, Malacca witness collision, pursuit, and asphyxia—and ends with the receiver opening. Chapter 3 is rescue, overload, Wren/Emrys convergence, and choice. The transit locations do not regain standalone setup chapters.
+**Chapter placement — LOCKED:** Chapter 1 establishes and destroys the Pelangi Reach hearth. Chapter 2 carries the entire southern flight—escape, brief Meridian City processing and ring photograph, Straits passage, Malacca witness collision, pursuit, and asphyxia—and ends with the receiver opening. Chapter 3 is rescue, overload, local Weaver hospitality, the Babaji archive handoff, and choice. The transit locations do not regain standalone setup chapters.
 
 **A witness in newly reopened Malacca claims to have crossed both parents' custody
 chains and carries Rasel's wedding ring. Half-bait.** Human stakes precede
@@ -215,6 +222,14 @@ end of deliberate human choices, not a coincidence.
 **The Harbor Thread — LOCKED 2026-07-24 (rev. B):** mostly male **underground** corridor network (Stack, strait, chandlery, witness). **Accepted but not spoken** — polite rooms don't name it. **Weavers' polite blindness** — would ignore entirely if corridors allowed. **Front posts:** sorts remaining male leaders into expendable public roles — **CEO/founder as dangerous occupation**, harbor captain, facility lead, idol schedule. Not an order. **Eli and Thread culture — LOCKED 2026-07-24:** parents taught him **home tongue and cultural rhythm** when young — **useful** in Thread corridors because many Thread men share it; he was **not raised as Thread** (no ledgers, badge math, segment initiation). Culture opens; never owns. Glossary `95`; `40_concepts.md`.
 
 **The Hinge / House men / Thread men / Extras / Weaving-in / Scientist claiming — LOCKED 2026-07-24:** **The Hinge** = civilizational turn (~2037–40). **Scientist claiming:** post-armistice cold war — **all scientists claimed** by bloc (ledgered, assigned). **Maren Holt = neuroscientist.** Men's fates: **house men** (visible acceptance), **Thread men** (underground acceptance — used, not talked about), **Extras** (rejected — *"he went Extra"*). **Front posts** = spending leadership (CEO included). **Weaving-in** = Weavers post-Hinge; **polite blindness** toward Thread. Book III cloisters = third road. Retire *road men*.
+
+**Extras trilogy deployment — LOCKED 2026-07-28:** Book I names the *Extra
+lane* once at Meridian intake. Book II makes Rowan's missing person a
+demobilized Extra man and routes Wren/Rowan's first recovery through a diverse
+Extra settlement while Sol recruits from the same population. Book III shows
+Extras divided rather than unified under Sol; Extra men, veterans, Thread elders,
+and Eli co-found the cloisters. The end removes *Extra* as an enforceable civic
+category, not personal freedom to reject intimacy or household membership.
 
 **Meridian worker maze — wrong-room overhear — LOCKED 2026-07-24:** at Stack **intake level**, **before the document clerk**, Eli blunders into a **Harbor Thread back room** (Thread ledger meeting — not a lore summit). Fragments only: **Malacca chandlery**, **Hassan**, archive **packet** off Stack soil, **English woman on the file**, *the strait eats what they seal*; *burn the harbor thread*. Someone clocks the **boy on the call sheet**; Eli flees. The ring photograph at the clerk desk **confirms** what his body half-heard. Cube security carries a **Thread corridor flag** (misfiled as harbor-thread ledger) alongside intake resemblance.
 
@@ -251,7 +266,7 @@ end of deliberate human choices, not a coincidence.
   tray. Recognition lands as a surge before Eli verifies provenance. The ring
   image and routed metadata give him Malacca.
 - **Why it can't be tested from Pelangi Reach:** the witness won't/can't travel (hunted, dying, or it's a physical handoff they won't trust to monitored wartime comms). The truth only resolves on-site.
-- **What it promises:** **truth, not reunion** — a witness to how she died (seeds the Vol II reveal: dead in body, tethered west). Keep reunion off the table here so "the reunion is the goodbye" still has somewhere to fall.
+- **What it promises:** **truth, not reunion** — a witness to **how she was taken and who holds her** (seeds the Vol II reveal: alive, held west, wired into the ground). Keep reunion off the table here so "the reunion is the goodbye" still has somewhere to fall.
 - **What it costs by end of Act I:** he forfeits the Pelangi Reach refuge, the compound crew, Mei's terrace, the people who know his name, and the father's garden; and the lead is **half-bait** — following it is what gets him run down and breached (#2), starting the reunion-as-bait engine on page one. Irony to bank: a man whose palms **read bodies** is choked/drowned at the breach, and at the threshold **the receiver opens** to undifferentiated field-noise (not seven lives downloaded — `36` §3a).
 - **Crossing function:** Suresh's supply boat is the last Pelangi Reach threshold, not a sailboat adventure. It develops Suresh as a practical port-runner with guilt and hard limits, plants Eli's basic deck competence, shows Pelangi Reach receding as a real home, and explains the danger of port networks through musicians, chandlery, checkpoints, cargo, quarantine cover, quiet bribes, and people who remember faces.
 
@@ -278,7 +293,7 @@ evidence.
 3. **The threshold — asphyxia, not concussion.** He is choked down and held under at the river's edge, or driven off a quay into the harbor and pinned/tangled. Near-death by loss of breath. The hypoxia **rings the old childhood TBI** (names blur, the old skull-fracture hums, the original attack bleeds in) — so the head wound is present-tense without being repeated.
 4. **The plane opens — receiver ON (`36` §3a).** At the edge of death the **psi plane opens to Eli for the first time** — first contact with the sight (`38_psionic_combat.md`): he *sees* the forms as he's dying. **Sensory overload** — too much signal at once; hypoxia and old TBI ring together. **No identity crisis:** he does not think the dead are him. Catastrophe, not power: he is **exposed and hunted** from this moment (grid flare). One ordered fragment may surface (three concentric circles). **Named historical threads clarify later at charged grounds** under pressure; see § Charged-ground triggers below.
 5. **Pulled back — LOCKED:** **Salmah**, a Malacca fish seller and small-boat owner who knows the river's currents, uses a boat hook and mooring line to haul him clear and performs rough practical resuscitation. She has no gift and does not see the psi-plane forms. The Custodians later suspend her market access and seize her boat under quarantine authority, making the cost of helping Eli economic and civic rather than fatal.
-6. **Aftermath / signal.** The breach **lights his signature** across the grid (the "dinner bell," `38`), so both contesting teams lock onto him; Emrys and Wren converge; Eli escapes into the reopening chaos, changed and now loud.
+6. **Aftermath / signal.** The breach **lights his signature** across the grid (the "dinner bell," `38`), so both contesting teams lock onto him; Wren moves him through one night of bounded local hospitality; Eli escapes into the reopening chaos, changed and now loud.
 
 - **Whom Eli tries to reach:** the breach happens while he is chasing — or being chased away from — the narrow Malacca clue about his mother (decide alongside #1). His attempt to protect the bystander-rescuer or reach the clue is what costs him.
 - **Public signal:** the grid-flare (psionic) plus an ordinary near-fatal assault with witnesses in a reopening port — drawing both teams and ordinary authorities.
@@ -286,24 +301,66 @@ evidence.
 
 ### 3. Wren's independent objective — LOCKED
 
-**Final resolution (2026-07-22; supersedes the handler version below): Wren is an Unranked extraction operator who was never recruited by the Charkha Measure.** She and Rowan traced the apparatus from outside after a training-sister disappeared. Wren later left the Weaver distance doctrine for contact-range rescues, counterfeit files, and dirty trades. Since she failed to save Mira, her present-tense want has been **keeping that quiet extraction network, and its people, alive and uncompromised.** Public appearance: unplaceable courier. Actual role: rescuer and striker. Knowledge: collective adversarial craft, never insider access.
+**Final resolution — LOCKED 2026-07-27:** Wren is a **house Weaver**, not
+Unranked, and does **Knotter** work: placements, attestations, household
+connections, intake, and the practical obligations that let a person belong
+somewhere. She is **not** part of an extraction ring, an Unranked strike cell, the
+Charkha, or any covert rescue organization in Book I. Her public employment is
+Babaji's Pelangi front-of-house and travel operation. Her competence comes from
+reopening-era port and refugee intake: she knows how forms, queues, translation,
+transport, and institutional tone can protect or humiliate a person. She does not
+begin the trilogy with counterfeit-route tradecraft or a secret roster of people
+to save. “Ranked” means standing inside a house and answerability to its review,
+not superiority over another craft.
 
-**Why it satisfies the constraints:**
+**Book I objective:** do her job without letting Babaji's humane intake become
+another ownership system. She attests Eli's legitimate work, guides him through
+Meridian's public machinery, and later stays because she has become responsible
+for choices she personally made—not because she was secretly running a parallel
+operation. At Sanxingdui she uses her real name and Babaji-linked standing to make
+a civilian evacuation legible. That choice saves people and permanently burns her
+employment, travel standing, and safe return. **The woman who knew how to receive
+arrivals becomes an arrival.**
 
-- **Not the forbidden three.** Not *protect Eli* (he's a threat to it); not *escape Crane* (it is an active rescue network, not flight); not *resolve Anthea* (her sonic resonance becomes a tool for moving people unseen, not the goal).
-- **The constructive-control corner with a body.** She is already *doing* the accountable, consent-based, exit-rights alternative to the registry — person by person. The Volume III coexistence proof is her network grown up. This is why she can attack Eli's vagueness.
-- **Grows from her wound.** "Belief in rescue cauterized" is the engine: she's stopped believing she can save anyone and can't stop trying to get people out, and hates herself for both the failures and the hope. Eli is the rescue she didn't plan and who keeps surviving — slowly un-cauterizing the belief.
-- **Stays grey.** No clean railroad: she runs extractions with the counterfeit (lies, seduction, betrayal, brutal triage; people left behind, people used as decoys, people killed to save others). Divided loyalties, dirty hands, ashamed of the game.
+**Book II expansion:** displacement sends a house Weaver to Rowan's
+west-corridor Weft from the receiving side. Wren contributes Knotter knowledge:
+intake design, languages, placements, manifests, appeals, rooms, and
+institutional reading. She is a novice at clandestine recovery. If Book II uses
+one recovery movement, it is Wren's first consequential attempt and the source of
+her temptation to confuse a completed transfer with completed care. Rowan's
+person-first correction—**“A completed route is not a returned person”**—belongs
+to that present-tense conflict. Wren's later threshold network grows from what
+she learns and builds in Book II; it is not retroactive Book I extraction
+backstory.
 
-**Conflict with the mother-trail, per volume:**
+**Volume progression:**
 
-- **I** — she's in Malacca for an *extraction*, not for Eli; the breach-flare threatens to bring the Charkha down on her operation ("I came to see what died"). Eli turns out to *be* the flare. She folds him in against her own interest, and it **costs her network**, seeding her resentment and the romance.
-- **II** — her people and Eli's trail pull apart geographically; the trade fork sharpens (a faction dangles her people's safety for delivering Eli — neither lover is the other's currency, but now it's *her* people on the scale).
-- **III** — her network becomes the coexistence proof; she makes the **indispensable choice** (already reserved for her in `05` §7) — binding it to accountable limits, refusing to let any faction, Crane, *or Eli* weaponize it. Her objective and the trilogy's victory condition merge.
+- **I — intake worker → displaced person:** skill without secret affiliation;
+  helping Eli and the Sanxingdui civilians costs her the institutional standing
+  that made the skill usable.
+- **II — displaced Knotter → mutual-aid builder:** Rowan's corridor receives and
+  limits her. Wren helps turn improvised hospitality into consent, appeal, return,
+  and review procedures without claiming the people who use them.
+- **III — builder → answerable member:** the threshold network becomes one civic
+  proof among several. Wren refuses Crane, Sol, or Eli command access and also
+  accepts that the network can judge and overrule her.
 
-**Light-cross with the opening clue — LOCKED:** Wren is extracting **Nura Salleh**, a middle-aged threshold-house cook and newly detected carrier, together with her young son **Ilyas**. Nura is **not** the witness/mother-lure. Her safehouse and transport timing collide with Hassan's handoff. Eli's breach-flare contaminates the clean family route; Wren folds Eli into the escape, and the only surviving revision separates Nura and Ilyas onto different routes. Both survive and later reunite, but Nura permanently distrusts Wren for making the choice without her full consent.
+**Weavers across the trilogy — LOCKED:** Book I shows the Monsoon houses as
+distributed civic infrastructure—clerks, kitchens, attestations, waiting rooms,
+work placements, and local help—without making the order a mission-control
+network. Wren, not Rowan, guides Eli through Meridian; local Weavers help in
+small, bounded ways. Rowan remains off-page until Book II because her Weft belongs
+to the west-corridor problem. Book II makes the order active through Rowan's
+corridor, Wren's first recovery work, and conflict between moving a person and
+receiving one well. Book III tests the houses publicly against registries,
+scaling, review, and Eli's claim to emergency access. The Weavers are one
+answerable institution among several, never a shadow government that secretly
+routes the whole quest.
 
-**Still open:** her sonic-resonance tool vs. her ignorance of what carriers are *for* (she uses the gift without understanding it). **Resolved:** Wren is Unranked and never a Charkha insider; Nura and Ilyas are her Malacca extraction.
+**Retired material:** Nura/Ilyas as Wren's Malacca extraction; Laleh/Asha's
+forged-manifest subplot; Unranked status; sonic misroutes; decoys; secret
+extraction ledgers; “official hunter / secret rescuer”; pre-Book-II Weaver
+strike training; and the premise that Wren's people compete with Eli's trail.
 
 ### 4. Recurring rival psion team — LOCKED (names open)
 
@@ -324,13 +381,13 @@ evidence.
 
 **Limits (not omnipotent):** they mistake decoys, expose their own signatures, fracture under the metabolic toll and their disagreements, and can be outmaneuvered by ordinary tradecraft and by their internal cracks. Consequences accumulate across encounters — wounds, a half-defection, mounting burnout — so by Vol III the team is broken/changed, not a renewable obstacle.
 
-**Resolves dangling threads:** the **Malacca lure** is set by the Charkha and executed by the Custodians (they run Eli down at the breach). **Wren's affiliation:** Wren is Unranked, not part of the Charkha; the Custodians know her as an adversarial route operator whose cell has spoiled prior harvests. Her flight with Eli makes her network a visible target, and the Shield's tie to Mira makes it personal without requiring former colleagues.
+**Resolves dangling threads:** the **Malacca lure** is set by the Charkha and executed by the Custodians (they run Eli down at the breach). **Wren's affiliation:** Wren is a house Weaver doing junior Knotter work, not part of the Charkha and not an Unranked route operator. The Custodians know her through signed placements, attestations, and Babaji's public rooms. Her flight with Eli makes those legitimate civic links visible, and the Shield's tie to Mira makes it personal without requiring former colleagues.
 
 **Still open:** final team name + member names; the exact relation (sister/lover/recruit) between the Shield and the woman Wren failed to save; which member, if any, actually defects and when.
 
 ### The Weavers (order) — LOCKED DIRECTION (2026-07-19; named 2026-07-21)
 
-The Bengali–Malaccan harbor branch is not the whole structure Eli encounters. It is one branch of **the Weavers' Net** — a much wider, women-led transnational order: distributed houses, visiting routes, clinics, kitchens, schools, farms, ports, and repair crews with overlapping contacts and no central command. **Book I integration (LOCKED 2026-07-24):** name the Net on-page from Malacca — knots, ledgers, **Knotter** craft (Asha), **Unranked** cells (Wren), **Weft** letters, harbor-house consent review. **No Malacca queer-household set-piece.** Full Weaver blessing on Eli/Wren remains Book II Ch 5. **Organization trim (LOCKED 2026-07-26):** four crafts only — **Warp · Weft · Knotters · Dyers**; place / craft / status / bonds as separate axes; Spinners/Menders/Selvage retired (`29`, `40`, `95`). The order has locally adapted rituals and tests of attention, hospitality, memory, discretion, truth-telling, repair, reciprocity, and declining. It protects people across gender and culture while women retain long-memory and initiation authority. It carries herbs, sanitation recipes, and household cures, but its ethic is test-and-record: inherited knowledge may work, fail, or harm depending on dose, body, and condition. A diluted vinegar-water cleaner and a separate baking-soda-water wash are recurring household practices; for some people the baking-soda facial rinse works remarkably well after expensive products failed, while others experience irritation or worsening. The order preserves both outcomes, records conditions, and treats persistent or scarring acne clinically. It is not a secret army, eugenic sisterhood, bloodline, or shadow government. **Name chosen (2026-07-21): the Weavers** (formerly working name *the Wide Net*) — Bene Gesserit-analogous in function (training, tests, long memory, initiation authority, quiet influence beside power) with the eugenic/messiah-engineering half explicitly refused; full analogy block and guardrails: `29_trilogy_plot_and_development.md` § The Weavers. The order are **matchmakers** — a *political* pairing program (marriages, placements, godparenthood, house alliances), not a breeding program; the accumulated **Weavers' Net** (`40_concepts.md` § The Weavers' Net) is partly how it retains power, and the consent line (proposed and blessed, never compelled) is its standing internal drama. The structure and narrative function are locked. Before drafting its rites, choose two or three specific houses and consult the relevant living traditions rather than inventing a universal “women's wisdom.”
+The Bengali–Malaccan harbor branch is not the whole structure Eli encounters. It is one branch of **the Weavers' Net** — a much wider, women-led transnational order: distributed houses, visiting routes, clinics, kitchens, schools, farms, ports, and repair crews with overlapping contacts and no central command. **Book I integration (LOCKED 2026-07-27):** show the order through bounded civic acts—intake, food, attestations, placements, waiting rooms, local route knowledge. Wren is a house Weaver doing junior **Knotter** work; Asha is a senior Knotter/reviewer. Rowan is a **Weft** and remains off-page until Book II. No house secretly routes the whole quest. **Organization trim (LOCKED 2026-07-26):** four crafts only — **Warp · Weft · Knotters · Dyers**; place / craft / status / bonds as separate axes; Spinners/Menders/Selvage retired (`29`, `40`, `95`). The order has locally adapted rituals and tests of attention, hospitality, memory, discretion, truth-telling, repair, reciprocity, and declining. It protects people across gender and culture while women retain long-memory and initiation authority. It carries herbs, sanitation recipes, and household cures, but its ethic is test-and-record: inherited knowledge may work, fail, or harm depending on dose, body, and condition. It is not a secret army, eugenic sisterhood, bloodline, shadow government, or extraction service. **Name chosen (2026-07-21): the Weavers** (formerly working name *the Wide Net*) — Bene Gesserit-analogous in function (training, tests, long memory, initiation authority, quiet influence beside power) with the eugenic/messiah-engineering half explicitly refused; full analogy block and guardrails: `29_trilogy_plot_and_development.md` § The Weavers. The order are **matchmakers** — a *political* pairing program (marriages, placements, godparenthood, house alliances), not a breeding program; the accumulated **Weavers' Net** (`40_concepts.md` § The Weavers' Net) is partly how it retains power, and the consent line (proposed and blessed, never compelled) is its standing internal drama.
 
 ### 5. Psionic combat rules — SEEDED (`38_psionic_combat.md`)
 
@@ -342,16 +399,16 @@ Still open:
 - Whether artifacts can store a charged attack (ties to `35_artifact_chain.md`).
 - Propagated the plane-local-visibility clause into `/00_NARRATIVE_STRUCTURE.md:91` (the only master doc carrying the "not colored projectiles" rule). Done.
 
-### 6. Volume I climax — LOCKED (Göbekli Tepe)
+### 6. Volume I climax — LOCKED (Sanxingdui)
 
-Full lock in `31_volume_I_beatsheet.md` ("Volume I climax — LOCKED") and Priority 2 **#7** (sealed-interface race).
+Full lock in `58_sanxingdui_climax_lock.md` and `31_volume_I_beatsheet.md`.
 
-- **Site — LOCKED:** **Göbekli Tepe** contested ground — dig / shrine / military margin (`99` #7).
-- **Race:** reach the **sealed interface** behind the fox-pillar before permit window closes.
-- **Prize:** Qingu-reserve seal + **selection mark** + a clean activation record. The complete founding record is lost; Book I retains only the partial selection/control scar, with Nephilot identity deferred to Book II.
-- **The choice:** protect living people / companions **vs.** complete interface record and pursuit of Emrys's captors.
-- **The cost:** Eli chooses people; **Emrys is taken**; partial Aru/Daskar clarification at fox-pillar.
-- **What survives → Vol II:** partial read + **Thailand** grower knowledge + network fragment → Europe corridor.
+- **Site:** Sanxingdui conservation and coupling complex.
+- **Race:** break the master-cadence apparatus while evacuating staff and reaching Rasel.
+- **Prize:** Rasel alive and the distributed Tree recognized through conservation divergence, Rootbook failure, and living cadence.
+- **The choice:** one clean controlling rhythm versus consenting, mismatched people.
+- **The cost:** Wren signs the civilian evacuation in her real name and loses work, papers, house standing, and safe return; Qiao loses clearance. Nobody is captured.
+- **What survives → Vol II:** Rasel, the unfinished Rootbook, the Bosporus transfer code, and Wren's forced expansion beyond protected house work.
 
 **Thailand agricultural sequence (Ch 5–10) — LOCKED 2026-07-23:** **Present-day order:** mountain road → **Khun Dang** → wat → stilt-house → forming line, Ila, Malai, war on field. Childhood undisclosed. **Mekong retired.**
 
@@ -375,7 +432,7 @@ paperwork. In Book I Ch 11, a lab technician says *Russell* and Rasel answers,
 
 **Rasel "dead" vs captive — prose lock (mirrors Maren):** keeper net and Babaji tell Eli his father **did not make it out** — Eli grows up on **believed death**. **Author fact:** **alive** in Mandate lab — ID **Rasel Khan** (some staff still say Russell). **Cross-ref:** Maren + orphan reveal locks below.
 
-**Maren alive, location unknown — LOCKED 2026-07-24:** **alive** since extraction; **nobody in Eli's world knows where**. **Albion passport** (legacy **British** on some files) → claimed by the **Charkha Measure**, not Mandate — **passport split** from Rasel. **Maren Holt — neuroscientist — LOCKED 2026-07-24:** Albion-born; natural carrier; Crane/Emrys-era work on signature, threshold, and neural integration — **neuroscience first**, not generic "consciousness researcher." **Post-Hinge scientist claiming — LOCKED 2026-07-24:** after armistice, three-bloc cold war **claims all scientists** as property (ledgered, assigned, seized). Maren and Rasel are **claim-category** captures — high-value minds the blocs will not release; **different orgs because different papers**. Extraction may predate formalization; **post-Hinge law** makes the theft permanent and ordinary. `40_concepts.md` § Scientist claiming, § Passport split.
+**Maren alive, location unknown — LOCKED 2026-07-24:** **alive** since extraction; **nobody in Eli's world knows where**. **Albion passport** (legacy **British** on some files) → claimed by the **Charkha Measure**, not Mandate — **passport split** from Rasel. **Maren Holt — neuroscientist — LOCKED 2026-07-24:** Albion-born; natural carrier; early-program work on signature, threshold, and neural integration — **neuroscience first**, not generic "consciousness researcher." **Post-Hinge scientist claiming — LOCKED 2026-07-24:** after armistice, three-bloc cold war **claims all scientists** as property (ledgered, assigned, seized). Maren and Rasel are **claim-category** captures — high-value minds the blocs will not release; **different orgs because different papers**. Extraction may predate formalization; **post-Hinge law** makes the theft permanent and ordinary. `40_concepts.md` § Scientist claiming, § Passport split.
 
 **Eli believes he is an orphan — LOCKED 2026-07-25 (rev. Y):** net lore = **both parents dead / did not make it out**. **Truth:** both **taken alive** extraction night. **Vol I:** Eli POV = orphan grief until **Mei, Friday PM dinner (Ch 1)**.
 
@@ -443,6 +500,8 @@ paperwork. In Book I Ch 11, a lab technician says *Russell* and Rasel answers,
 
 **Maren's complicity and release — LOCKED:** Maren **neuroscientist** willingly joined Crane's early program because she believed measurement, neural signature recognition, and guided integration could protect vulnerable people. The work produced real benefits and became the basis for registry, suppression, targeting, and amplifier systems. She became a dissident after recognizing that temporary safeguards had become permanent ownership and subjects could not withdraw. She delayed exposure while trying to reform the program internally; at least one named subject paid for that delay. Eli initially believes she resisted from the beginning. The Volume II mother reveal breaks that innocent version without negating her love or courage. Eli and Maren then receive a real lucid reunion and both want more time. The **Book II climax** releases her without absolving or condemning her into one role; that limited first awakening creates Book III's civic crisis.
 
+**How the release works — LOCKED (supersedes the dead-in-body/tethered-spirit version):** Maren is **alive** throughout, kept alive because only she can restore and maintain the model she sabotaged, which makes her the Albion ground's **living operator** rather than one of its harvested dead. The Charkha holds her not with a cell but with **the reunion it keeps almost-happening** — she stays at the console because she believes she will get her son back. It follows that **no rescue can free her and only Eli can:** he must refuse in person to be what they promised her. She walks out **alive** and does not come home — he does not recover a mother, he meets a woman with her own life. Release still darkens that ground, still scatters the dead threads bound to the wider grid once the practice spreads, still defuels the amplifier, and still costs Eli a usable stabilizing signal. **Grief without a corpse:** release is only a choice because she could have been kept. ⟦Flagged for veto: the no-corpse ending — the earlier version had her ascend and be lost forever.⟧
+
 **Maren "dead" vs alive — prose lock (REVISED 2026-07-25 rev. Y):** **Stairwell retired.** **Mei, Friday PM dinner (Ch 1):** *not an orphan; both taken; dead on the file so you could live.* Eli **still boards Saturday PM.** Malacca trail confirms/deepens.
 
 **Bangladesh after — OFF-PAGE LOCK 2026-07-26:** remains lost home, not solved
@@ -463,7 +522,7 @@ the Sanxingdui camera gap; and the precise limits of Rasel's coerced work.
 - **What is raced for:** the sealed interface + a clean recording of its activation and selection record. **Book I reveal cap:** the partial result associates inherited difference, selection, a powerful male carrier/mighty lineage, labor, and reproductive control, but does not prove how they fit or identify the Nephilot/“elves.” Pömmelte and the westward Book II trail supply the missing population and persecution evidence.
 - **Who else races:** Crane's state psion program (wants to re-seal/control), the **Custodians** (collared team, may be pointed at the site), and a **private dig consortium** (permit-holder, the clock they're on). Sol Mendez's liberation faction as a possible fourth runner.
 - **Deadline:** the excavation permit / sealed-sector window **closes on a hard date** — the site is re-buried under the consortium's permit and the interface becomes unreachable for a generation. Delay = the answer stays buried and Crane keeps the seal.
-- **Culmination:** at the fox-pillar, under pressure, Eli clarifies Aru/Daskar + the selection mark; the faction race and the deep reveal hit in the same beat. Emrys's error (see #9) is what nearly hands the interface to the consortium — he trusts the map and mistimes the window.
+- **Book II culmination of this leg:** at the fox-pillar, local curators, Rasel, and Eli keep incompatible readings visible long enough to expose the selection mark without turning one scholar into an oracle.
 
 ### 8. Healer specifics — LOCKED
 
@@ -476,12 +535,31 @@ the Sanxingdui camera gap; and the precise limits of Rasel's coerced work.
 - **What he refuses:** a patronage/spectacle arrangement that would turn a clinic into a shrine and his body into public infrastructure. In Volume III he publishes his limits and names people he could not save, preventing the movement from making him a god. His hard no does not mean declining ordinary nursing care.
 - **Hard limits:** cannot cure the engineered outbreak retroactively, restore neural information destroyed by Eli's TBI, heal without bodily/metabolic cost, or substitute for diagnostics and ordinary medicine.
 
-### 9. Emrys's error and fate — LOCKED
+### 9. Emrys — CUT FROM THE TRILOGY (LOCKED 2026-07-27)
 
-**The error (from #7):** he trusts the *map* over the *territory* — the aDNA/ley model says the sealed sector opens on a published window; the present dig reality has shifted. He commits the group to the wrong entry time and **nearly hands the Göbekli interface to the consortium**. His expertise, normally the group's edge, becomes the blind spot because he reads the abstraction instead of the live ground.
+**Professor Gwyn Emrys is removed.** No on-page appearance, no offstage existence, no name in files. The scholar-companion role is retired with him — Eli has **no expert translator**. This is a thesis correction, not only a cast cut: Emrys stood where the communities should stand, and every reading he supplied was a reading someone with an actual claim to the material should have made.
 
-- **Whom it endangers:** Eli (exposed at the pillar during the wrong window), Wren (caught between factions by the timing), and the discovery itself (the record nearly sealed by the wrong side).
-- **Fate:** **survives Volume III.** His arc is outgrowing the anti-father. He does NOT take back command at the Vol III climax — he lets Eli's distributed, many-voiced method stand without seizing the lead. Ordinary conduct payoff: he stays as a scholar-advisor, corrects his own earlier maps in print, and mentors without owning. The "anti-father" he defeats is the urge to be the necessary man.
+**The map-over-territory error is retired with him.** The feelings-versus-evidence axis it served is not a theme this trilogy runs. Where a wrong reading is needed, it comes from an institution (registry, consortium epigrapher, Custodian archive) or from **Eli's own over-connection** (`15` § failure mode) — never from a mentor's grief.
+
+**Function redistribution — LOCKED:**
+
+| Retired function | Now carried by |
+|---|---|
+| Post-breach measurement / *door off its hinges* | **The courier** — she calls it a threshold episode and is **wrong**, and no authority corrects her. Eli carries the wrong label until Thailand. |
+| Recognizing Maren's hand on the Rootbook wafer | **Eli.** He knows his mother's handwriting; the wafer's provenance is the keeper net. |
+| Rootbook cognate work | **Eli**, wrong first, **corrected by living communities** (`52`) — the locked design, now with no scholar shortcut. |
+| Three Circles provenance / *provisional* discipline | **Babaji** hands it over before departure; the caution is the keeper net's, not a scholar's. |
+| Bait vs. real anomaly (Thailand) | **Eli**, confirmed by **Wren** — an operator's read on what a trap looks like. |
+| Band measurement, polarity series, instrumentation | **Malai and the cooperative** — their own record of their own miracle, their grid, their photocopies. |
+| *Bandwidth, not depth / reading is not repair* | **Somchai.** The healer defines the healer's gift. |
+| Clinic-steps collapse care (sugar, pulse, notebook) | **Somchai** — he is a medical worker. |
+| Coupling series, trace alignment at Sanxingdui | **Qiao Wen and Luo Meilin** — legitimate custodians reading their own material. |
+| Book III physics / complex-time work | **Rasel.** He is the physicist. |
+| Primary comedic carrier (`24`) | **Malai's dryness, Qiao's refusal to translate the dishes, Babaji's robot dogs and chess.** |
+
+**Climax price — LOCKED:** Rasel's recovery at Sanxingdui costs **Wren** her protected civic life: she signs the emergency receiving order in her real name, opening the public gate and losing employment, travel status, house standing, and Pelangi return. **Qiao Wen** is not captured; she loses accreditation and access after touching the official conservation line. The cost remains local and rhymes with Salmah's boat, the platform keeper's exposed hospitality, and Dara's permit.
+
+**Book III:** Qiao returns as an institutionally compromised witness under surveillance; her testimony links Sanxingdui's clearance retaliation to the registry standard without making her a neutral oracle. Hassan and Sora's records carry the rest.
 
 ### 10. Artifact chain reduction — LOCKED (5 objects + Human-Design Triad)
 
@@ -499,8 +577,8 @@ certification until Book III.
 **Mesopotamian Human-Design Triad — LOCKED 2026-07-25; street names 2026-07-26:** **The Refusal** + **The Sorting** + **The Fade** travel as **one clue leg** (same archive packet, three texts) and recur across the trilogy — foolable mind, purposed roles/specialties, mortal focus (`35` § *Mesopotamian Human-Design Triad*). The Refusal is **both** triad member and load-bearing object #3. The Sorting and The Fade are **mandatory clue-chain texts** with chapter pins in `35`; not a fourth/fifth load-bearing *object*, but equal narrative weight to the triad thesis. **Umul / The Unplaceable** (inside The Sorting) pays off Vol III late.
 
 - **Each points to the next testable action**, not a lecture (per `35`).
-- **Wrong reading that costs the group:** the Adapa forgery — someone (Emrys or a rival) trusts the reconstructed text and mis-times a move; the Göbekli plaquette's grammar is misread once before Eli reads it at the pillar; registry reads Ninmah as "broken stock" and costs a route or a person.
-- **Other interpreters:** Emrys (scholar), the consortium's epigrapher (rival), Maren's suppressed research (the mother's line), a Custodian with archive access. No object is Eli-only.
+- **Wrong reading that costs the group:** the Adapa forgery — a consortium epigrapher or Eli trusts the reconstructed text and mis-times a move; the Göbekli plaquette's grammar is misread once before the group tests it at the pillar; registry reads Ninmah as "broken stock" and costs a route or a person.
+- **Other interpreters:** local curators, the consortium's epigrapher, Maren's suppressed research, Rasel, and a Custodian with archive access. No object is Eli-only.
 
 ## Priority 3 — required before Volume III can land
 
@@ -607,7 +685,7 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 
 - Final volume count: current working shape is a trilogy; reassess only after the Volume I beat sheet proves scene length.
 - Companion nonfiction: keep Books 1–4 as optional slim companions unless drafting proves otherwise.
-- Surnames and local names: Eli, Wren, Crane, Emrys, Aedan, and Anthea are stable enough; surnames and local-character names remain open.
+- Surnames and local names: Eli, Wren, Crane, Aedan, and Anthea are stable enough; surnames and local-character names remain open.
 - **Maren suppression scene (Vol II, LOCKED):** not a Vol I prologue. When Eli learns **how his mother was taken**, dramatize the Charkha's courteous machinery (clipboards, wellness language, unmarked van, neighbor's light going out) in **SE Asia extraction/keeper context** — personal, earned, ~1,000–1,500 words. The evidence must also reveal that Maren once willingly helped build the signature/integration tools now locating her; the scene is persecution and consequence at once. Harvest v1 prologue tone from `MANUSCRIPT_v1_archive.md`; rewrite **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths) and geography. Pair with mother-trail evidence (Vol II midpoint region: **alive, location unknown** — partial sense / captivity register only, not proof of death). **Vol I** seeds dread only: tune, Suresh, Malacca witness — no cold-open abduction.
 - Final home — LOCKED DIRECTION: Albion closes the mother-thread but must not declare Eli's truer home. After the Hawaiʻi refuge, Eli visits Hopi lands by invitation, then reaches a negotiated Colorado mountain settlement. The Hopi visit teaches, through living governance and the broader American archaeological record, that large-scale organization need not become one permanent center; it can be layered, seasonal, federated, reversible, and free to refuse. It is not mystical validation or a single Indigenous voice. Exact staging requires Hopi-led research and consultation before prose.
 
@@ -615,7 +693,8 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 
 **Priority 1 is locked and the Volume I beat sheet exists:
 `31_volume_I_beatsheet.md`** (13 chapters, no prologue; breach closes Ch 2;
-Thailand Ch 5–10; Sanxingdui Ch 11–13; Rasel recovered; Emrys taken).
+Thailand Ch 5–10; Sanxingdui Ch 11–13; Rasel recovered; Wren displaced; Qiao's
+clearance lost).
 
 Next: **draft prose** — per `05` §13, write the Pelangi Reach opening through the first irreversible Malacca escape (Ch 1–5), then reassess scene length against the trilogy/single-novel question. Before drafting, run each major character through `16_reader_attachment.md` (ordinary need, private wound, repeated behavior, relationship-changing action) and keep `17_reveal_order_and_reader_impact.md`'s order: emotional escalation first, terminology second. Add courtly-intrigue/hospitality pressure to at least one Act II chapter so the volume isn't only physical pursuit.
 

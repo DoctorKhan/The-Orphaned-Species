@@ -28,13 +28,22 @@ Remaining together prolongs her tether and feeds the system holding other souls.
 
 The amplifier scales psionic control through trapped souls. They are both fuel and routing channel: their isolated signatures let the machine lock, block, and route force across many targets.
 
-Maren remains tethered by unfinished attachment and hope of reunion. When Eli stops using reunion as proof that love survived, her release demonstrates a path the other trapped souls can follow. Her clarity propagates through the connected field. Enough souls leave that the amplifier loses its fuel and switchboard.
+Maren is alive and held at the console by unfinished attachment and hope of reunion — a leash, not a binding. When Eli stops using reunion as proof that love survived, she stops restoring the model and walks off the ground, and **the living demonstration is what the trapped dead can follow**: they watch someone let go on purpose. Her clarity propagates through the connected field. Enough souls leave that the amplifier loses its fuel and its switchboard at once — she was the switchboard.
 
 The machine goes dark because its captives walk out, not because Eli becomes its better owner.
 
 **Why release works (mechanism — `40` § The three registers of choice):** the amplifier is powered by **unexamined wanting** — threads kept taut by what they still want, signatures isolated by predictable attachment. It is a machine that runs on autopilot, and it needs its fuel *predictable*: the lock, block, and routing functions all assume each captive signature will keep pulling toward what it lost. A true choice is the one input the design cannot metabolize. Eli releasing Maren — giving up reunion on purpose, without hurry — is not sabotage; it is the demonstration that going slack where the machine assumes taut is possible. Each soul that makes the same choice removes fuel *and* switchboard. The machine was engineered for a species that could be counted on; the release proves the count wrong.
 
-At the same moment, a small number of prepared people and charged grounds enter collective coherence. Eli's transmission provides a seed pattern rather than a command. Those able and willing to catch it become temporarily harder to isolate and signature-lock: their signal participates in a connected field rather than standing as a solitary point cut off from it.
+At the same moment, the reactivated transmission stations begin forwarding the
+bounded wisdom carried by the artifact chain: relation rather than center,
+verification rather than obedience, an edge that corrects the map, a living
+bridge rather than ownership, and return of the person rather than completion
+of the route. Eli supplies none of that wisdom; the artifacts do. His release
+of Maren is a living demonstration of what those transmitted teachings demand;
+the stations
+do not originate it or turn it into a seventh message. Prepared people may
+receive an artifact's wisdom, witness the release, reject either, or pass the
+wisdom onward. Their minds remain their own.
 
 This is the first awakening. It is a local and distributed breach in the old monopoly, not universal enlightenment.
 
@@ -61,7 +70,7 @@ The hard no costs more and saves fewer. Book II must not secretly reveal that co
 | Strand | Action | Dependency |
 |---|---|---|
 | **Maren and Eli** | Achieve lucid reunion; confront her complicity; choose release; trapped souls begin leaving the amplifier | Release requires a living field to receive and propagate the path |
-| **Distributed coherence** | Wren's early network, allied carriers, and prepared grounds hold voluntary connection long enough to catch Eli's seed pattern | The field fails if the amplifier continues burning the same trapped souls |
+| **Transmission stations** | Wren's early network, allied carriers, and prepared grounds keep the stations open long enough to receive and forward each artifact's bounded wisdom; Maren's release enacts those teachings at the crisis point | The chain fails if the amplifier continues burning the same trapped souls or one interpreter collapses every artifact's wisdom into command |
 | **Attack** | Custodians and faction teams lock, block, and scour; some coerced carriers defect when the machine loses leverage | Pressure makes amplifier seizure the genuinely better tactical option |
 
 The strands resolve together: Maren's release defuels the machine while the voluntary field gives release somewhere to go.
@@ -74,7 +83,8 @@ The strands resolve together: Maren's release defuels the machine while the volu
 
 - Eli loses Maren after truly receiving her back.
 - He loses the innocent account of her.
-- Holding the seed transmission under attack causes severe metabolic and neurological harm; it does not cure his TBI.
+- Holding contact while the stations transmit under attack causes severe
+  metabolic and neurological harm; it does not cure his TBI.
 - At least one named person pays for the slower voluntary route.
 
 ### Limits

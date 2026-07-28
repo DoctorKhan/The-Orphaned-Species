@@ -1,232 +1,67 @@
-# THE ORPHANED SPECIES — Short Versions (Books I–III)
+# THE ORPHANED SPECIES — Short Versions (Books I–IV)
 
-> **CURRENT ROUTE — LOCKED 2026-07-26:** Book I ends at Sanxingdui with Rasel
-> recovered and Emrys taken. Book II carries Mesopotamia / Göbekli west to Maren's
-> release at Avebury. Book III governs the network after both parent quests.
+> **CURRENT ROUTE, CAST, AND ENDGAME — LOCKED 2026-07-28:** Book I ends at Sanxingdui with Rasel recovered. Book II carries the westward route to Maren's release and Wren/Rowan renewal. Book III governs awakening, war, bounded rule, deniable Rowan/Eli attraction, and an attacked handover; there is no Rowan/Eli sex, romance, or pregnancy yet. Book IV is the women-led court volume and carries conscious attraction, repeated sex before romance, Rowan's later choice to pursue conception, pregnancy, birth, and Eli's final relinquishment. Governing architecture: `60_volume_IV_court_of_threads.md`.
+>
+> **PARENT / OBJECT CLARITY — 2026-07-27:** **Maren Holt** = **neuroscientist** (signature / classifier / integration work); her object is the **Rootbook** (encoded field journal). Linguistic correspondences are a **cipher method** inside that journal—not her profession. **Rasel Khan** = **physicist / gardener**; his objects are the **wedding ring** (*same soil*) and later **coupling / field instruments**. Do not call Maren a comparative philologist.
 
-Grounded in the locked beatsheets (31/32/33), `05_story_architecture.md`,
-`41_climax_the_awakening.md`, and `WORLD_BIBLE.md`. These are synopsis treatments,
-not prose. All locked beats and guardrails are preserved.
+Grounded in the locked beatsheets (`31`/`32`/`33`) and governing docs (`05`, `41`, `52`, `55`, `58`, `WORLD_BIBLE.md`). These are synopsis treatments, not prose.
 
-> **For the detailed, chapter-by-chapter version** — enough event-level detail to see the story unfold — see **`BOOK_SUMMARIES_long.md`**. This file is the compressed pitch version.
+For full chapter-level event detail, see `BOOK_SUMMARIES_long.md`.
 
 ---
 
 ## BOOK I — *THE BREACH*
 
-Eli Holt loses his made home at Pelangi Reach when a Mandate intake frame shows
-his father's scarred hand beside Rasel's wedding ring, proving he survived. A
-flight through Meridian and Malacca
-opens a dangerous receiver in him and draws Wren, Emrys, and the Custodians into
-the same hunt. In Thailand, a river cooperative teaches him that living people,
-crops, breath, redundant records, and disagreement can measure what no faction may
-own.
+Eli Holt loses his made home at Pelangi Reach when Mei tells him both parents were taken alive, not killed. Flight through Meridian City puts a Mandate intake frame in front of him: his father Rasel's scarred hand beside Rasel's two-metal wedding ring—*same soil*—proving the physicist survived. Malacca opens a dangerous receiver in Eli and costs Hassan (and the physical ring) to Custodian capture.
 
-The surviving polarity series points north. Edda Voss offers biometric access to
-Rasel in exchange for Eli's clean scan; Eli refuses and accepts a human route whose
-cost lands on Dara. At Sanxingdui, conservation evidence breaks Maren's language
-tree into a distributed living mesh. Eli rejects an apparatus demanding one master
-rhythm, completes the personal Manual Override through mismatched consenting
-cadences, and recovers Rasel. Emrys stays to preserve the evidence and is captured.
-The reunion reveals love, anger, and parental complicity rather than innocence.
+At a kelong aftermath, Wren produces **Maren's Rootbook**—a damaged wafer of her neuroscientist field journal, encoded partly through word-correspondences—and a disputed **Three Circles** tablet carried through Babaji's archive chain. Eli chooses not to go dark. In Thailand, a river cooperative teaches him that living people, crops, and disagreement can measure what no faction may own. A burned field record still leaves a fork map and checksum pointing to Rasel's Mandate research initials.
+
+Edda Voss offers biometric access to Rasel in exchange for Eli's clean scan; Eli refuses Bangladesh refuge and the protected line, accepting a human corridor whose cost lands on others (including Dara's permit). At Sanxingdui, Chinese conservation evidence and Rasel's coerced coupling apparatus break the Rootbook's **language-tree model** into a distributed living mesh—not because Maren was a philologist, but because her journal's cipher assumed one trunk where the land shows a mesh. Eli rejects an apparatus demanding one master rhythm, completes personal Manual Override through consenting, mismatched cadences, and recovers Rasel. Wren authenticates the civilian evacuation and pays publicly: employment suspended, travel reviewed, house standing referred, Pelangi return withdrawn. Qiao loses clearance. The reunion surfaces parental complicity (Maren built early classifiers; Rasel built coupling tools) and remains loving, furious, incomplete.
+
+**Book I exit:** Rasel present; Wren displaced but physically present; Qiao outside the institution she served; Maren alive but unrecovered; Rootbook open but unfinished; distributed Tree recognized. Göbekli / Mesopotamia belong to Book II.
+
+---
 
 ## BOOK II — *THE DESCENT*
 
-Rasel is present; Emrys is absent. Sora's transfer code and Rasel's knowledge pull
-the group west through a Mesopotamian archive and Göbekli, whose selection machinery
-is the counter-image to Sanxingdui's distributed Tree. The route then crosses the
-Bosporus/Thrace corridor, where Hassan's recovery proves Maren helped build the
-classifier before sabotaging it and survives only as a lucid tether.
+Rasel and Wren are present. Sora's transfer code, Rasel's knowledge, and Hassan's westward custody pull the group through Mesopotamian archive and **Göbekli** (selection/control counter-image to Sanxingdui), then a **Bosporus–Thrace/Balkan holding corridor** into Europe. Displaced from her house role, Wren undertakes her first consequential clandestine recovery beside Rowan, a Weft whose missing person is a demobilized man classified as Extra. Their search enters an Extra settlement and exposes the Weaver houses' polite blindness just as Sol offers rejected men public names, brotherhood, and purpose. Hassan returns with Rasel's ring; Maren's Rootbook kin branch and complicity record deepen. European charged grounds and dead zones—**Pömmelte**, **Rollright**, **Men-an-Tol**, **Stonehenge**, and **Avebury**—converge on the mother quest. Cuno's record reveals the stone grounds as transmission stations that forward the distinct wisdom carried by artifacts without making one master message. Eli reaches Maren (neuroscientist, Charkha captive) and chooses **release** over keeping her available to him. That release enacts the transmitted teachings rather than becoming a transmission itself, spreading the first awakening and leaving the world without a civic form capable of holding it.
 
-European dead zones, Pömmelte, Rollright, Men-an-Tol, the bitter cup, and
-Stonehenge's relay converge on Avebury. Eli reaches Maren and chooses release over
-keeping her available to him. Her release spreads the first awakening and leaves
-the world without a civic form capable of holding it.
+**Book II exit:** Maren released; first awakening spreading laterally; Europe/amplifier repeat closed.
 
 ---
 
-## Retired pre-Sanxingdui Book I–II summaries — quarry only
+## BOOK III — *THE LIVING WORLD*
 
-### BOOK I — *THE BREACH*  (former allocation)
+After Maren's release, the awakening spreads—ley lines reactivating, latents developing by proximity, threshold care scaling into contested infrastructure—exactly when the registry argument needs its best evidence. Pelangi Reach receives a pursued refugee boat; Eli's successful temporary coordination makes everyone want to make him permanent. He sponsors one disputed refugee under a voluntary plan; that person commits a serious nonconsensual mind-entry and an ordinary person dies. The harm is real and not Crane's fault.
 
-PREMISE. Eli works facilities at the Forest Foundry in Pelangi Reach, a wartime
-refuge on the ruined Malay coast, and keeps his dead father's garden badly. He
-carries a hidden receiver gift — a somatic signature-read in his palms — that he
-survived incomplete in the keeper net during puberty. He is not a hero; he is a
-competent, lonely man who mistakes his surge for a compass.
+San Francisco and ruined Washington make the federation distinguish living justice from dead-capital order. Crane's Standard becomes attractive after Sol's pressure and emergency seizure; Mandate and Union strikes ignite the **Awakening War**. Wren refuses Eli jurisdiction over her threshold network; communities adopt a bounded emergency compact and accept Hawaiʻi's invitation to use, not own, a damaged Pacific facility.
 
-MOVEMENT.
-- The oil/AI collapse, WWIII's ancestry-gated weapon, the three postwar blocs, the puberty-triggered threshold crisis, and the competing responses are reconstructed through ruins, registries, bodies, vocabulary, and contested records rather than a historical preamble.
-- **Opening compression — LOCKED:** Chapter 1 establishes the Foundry, garden,
-  and ordinary refuge before the **Mandate political squeeze** seals the north corridor. Chapter
-  2 is one sustained flight: escape south; brief atomizing processing in
-  Meridian City; recognition of Rasel's scarred hand and silver-and-brass wedding
-  ring in an intake photograph; north through the Straits; Hassan's physical ring and
-  Wren's colliding extraction in Malacca; Custodian pursuit; a losing fight and
-  asphyxia at the river's edge. The psi plane opens at the **end of Chapter 2**:
-  receiver ON, overload, hunted. Salmah drags him out; Hassan is recaptured with
-  the ring.
-- Wren folds him into her damaged extraction against her own interest. Emrys, a
-  researcher, converges on the breach: instruments log a carrier event matching
-  Maren's suppressed work. A suppressed scan of Maren's Rootbook enters only
-  after the ring and Hassan establish the human stakes; name and foot/step
-  correspondences open bounded tests rather than a complete itinerary.
-- Westward through **Thailand**: an agricultural-witness sequence
-  where plant growth traces a forming line in the earth. At a charged site Eli
-  meets the practitioner Ila as *other* — grievable, not himself (first full
-  witness, no identity crisis). Khun Dang, wat breath, and Pai pass-through ground
-  the arc (plant-medicine threshold — bitter cup — is Book II Ch 6 only).
-  When evidence and civilians collide, Eli tries
-  to save both and hesitates. Wren forces the humane evacuation; a grower is
-  injured and the clean record is damaged. Eli recognizes the autopilot but
-  does not yet override it.
+At Hawaiʻi, Eli discovers he could force synchronization, probably save more people, and refuses. The basalt station transmits the distinct wisdom of a growers' seed ledger and then the disputed Forks artifact. The Forks' human/chimp branch is partly testable; its bird/dragon branch arrives with a bounded nonhuman memory of panspermic intervention but remains scientifically contested. Eli's crucial response is restraint: possible surviving bridge beings are persons, not proof to hunt. Extras divide among Sol, consent-bound defense, mutual aid, and refusal; a perimeter drone strikes a man who came to ask rather than raid. A holding action elsewhere falls disproportionately on men; a named life is lost; a threshold house is destroyed. Extra men, veterans, Harbor Thread elders, and Eli co-found men's cloisters whose standing does not depend on household or romantic acceptance. Rowan and Eli's public partnership carries a faint charge that remains fully readable as political trust.
 
-CLIMAX (LOCKED — Göbekli Tepe). Eli races a rival consortium, the Custodians,
-and Crane's program to read the sealed interface behind the fox-pillar before
-the permit window closes. The charge repeats the **Thailand** bargain with Emrys and
-the complete record at stake. This time Eli completes personal Manual Override,
-protects civilians over the interface record, and Emrys is taken. The partial
-read preserves an ancient selection/control scar associated with inherited
-difference and a powerful male carrier/mighty lineage; the Nephilot/elf identity
-remains unresolved for Book II's Pömmelte trail.
+Eli begins the inquiry and prepares constitutional transfer. A coordinated attack compromises the council and its successors during certification. Weaver attestations and routes preserve the delegates; cloister defense and repair preserve the assembly. Both movements rise into formal power, and the compact's continuity clause retains Eli.
 
-ENDING CHANGE. Eli has met a practitioner as other and chosen the living person
-over the cosmological prize. He follows the next clue west with no known
-destination, carrying grief and obligation.
+**Book III exit:** the ruler prepared to release power has acquired a court; neither rising institution is yet safely bounded; Rowan/Eli remains an unrealized possibility.
 
 ---
 
-### BOOK II — *THE DESCENT*  (former allocation)
+## BOOK IV — *THE COURT OF THREADS* *(working title)*
 
-PREMISE. Post-Göbekli, Emrys is gone. The question turns inward: can Eli pursue
-truth without turning people into instruments of his search?
+Book IV moves principally through Rowan and Wren. The emergency court turns access, placement, medical privacy, household recognition, rumor, ceremony, and delayed messages into instruments of rule. The Weavers control much of trust and passage; the men's cloisters hold defense, reconstruction, veteran loyalty, and civic standing. Both are internally divided. Rowan and Eli consciously recognize attraction and have sex several times before political work, post-sex care, and missing one another make the bond romantic. They desire each other directly; Wren's availability is not the cause.
 
-MOVEMENT.
-- Eli and Somchai, a Thai field medic whose healing draws pilgrims, cross on the
-  same wounded party. Somchai refuses deification and Eli's urgency alike —
-  "kneel → cage → burn" is the pressure every practitioner faces.
-- At Mesopotamian ground, the Adapa/Qingu watched-depth clarifies: obedience
-  closes the path to life. Eli refuses both the state's ancestry file and the
-  chosen-one flattery. The patriarchy chord sounds at household scale — approved
-  fathers own descent; sacrifice of the lower member renamed duty.
-- The Maren midpoint: through a westward Bosporus–Thrace/Balkan holding site, Eli learns how his mother was
-  taken — and that she helped build the program's early tools before becoming a
-  dissident. Body dead; something of her tethered west with no usable address.
-  Search becomes *release*, not rescue.
-- Europe: dead zones are named and mapped; Pömmelte shows women and children
-  were the targeted carriers (purge, not war); a broken-line church drains its
-  congregation through pew-side geometry. Sol Mendez, a man consumed by messiah
-  hunger, makes his first approach — a mirror Eli cannot unsee. Wren detours the
-  party around registry traps at the cost of her own network access.
-- Anthea (Rollright/Men-an-Tol) and Cuno at Stonehenge clarify the formation;
-  Alba/Albion/elf remains a subordinate inference before the ambush.
-- Three chalked circles begin appearing on gateposts — anti-registry cells
-  recognizing Eli as *Deiwos*, the fossil sky-word surfacing in every local
-  language at once. Shelter arrives unasked, carrying a name that also carries
-  the kneel; the England ambush escape is held open by chalk Eli has never seen.
+Women already occupy much of the work once coded male—freight, construction, maintenance, perimeter defense, drones, transport, and command—because war removed men and Books I–II's civic sorting rejected many survivors while the work remained. The cloisters' rise cannot become a restoration of male job entitlement or the displacement of women who earned authority. Court conflict turns on aptitude, consent, rotation, recovery, care, and who receives public standing.
 
-CLIMAX / ENDING (LOCKED — Stonehenge / Albion). The ambush forces the formation;
-Eli reaches Maren in a lucid, morally complicated reunion and releases her
-instead of preserving the tether. Awakening spreads the only way it can: the
-freed web's ley lines begin reconnecting, and latent psions near waking grounds
-start to develop — unchosen, at their own rate. Rowan, returned through the
-west-corridor Weaver network, survives after helping keep ordinary evacuation
-visible outside the formation. Wren and Rowan affirm their renewed formative
-romance; Eli and Wren make a separate, nonexclusive present-tense commitment.
-Rowan and Eli establish respect and limits, not romance. The Weaver blessing
-and the older formative bond create gravity, never command: the bond remembers;
-each person still chooses.
+Rowan has wanted motherhood independently of Eli. During their early sexual relationship she does not want pregnancy and uses contraception; sex is not an audition for fatherhood. Only after romance does she choose Eli as co-parent and decide when to pursue conception. Pregnancy then becomes a succession weapon. Factions try to name her consort, the child heir, and Wren mistress or official; protection approaches custody. Wren fears the Rowan/Eli biological future may make her peripheral. The three romances remain distinct, and Wren's parental role is negotiated separately.
 
-ENDING CHANGE. The group can hold the pressure without collapsing into worship
-or ownership. The awakened web begins to spread; the first awakening will
-destabilize society.
+During Rowan's labor, the reconstituted assembly reaches succession while a court faction moves to recognize the child as heir. Wren faces outward for Rowan; Eli remains lover and father rather than reclaiming the center. The Weavers certify a reviewable process instead of bloodline and accept limits on attestation; constitutional cloisters accept civilian distributed command. Eli activates the prepared transfer before the child's first breath.
+
+**Series exit:** the child has no title or inherited claim. The Weavers and cloisters retain civic standing without becoming hidden sovereign or personal army. Eli is wanted but not indispensable.
 
 ---
 
-## BOOK III — *THE LIVING WORLD*  (Volume III: Choice)
-
-PREMISE. After Maren's release the awakening spreads geographically — ley lines
-reactivating, latents developing by proximity, threshold care scaling into
-critical infrastructure — which hands the registry argument its best evidence
-just as the machine dies. The real test: can free communities protect people
-from dangerous capacity without turning capacity into an owned identity —
-without registry, cult, army-state, or permanent ruler? Rumor has already
-twinned Eli and Somchai as the returned *sons of Deiwos* (sea-rescuer and
-healer); dark-line refuges that kept their grounds asleep for generations
-claim the right not to connect at all.
-
-NEW WAR. The San Francisco registry seizure and coordinated Eastern Mandate
-strikes ignite the **Awakening War**, a distinct conflict over who may register,
-conscript, synchronize, shelter, or destroy awakened people. Old states, Crane's
-apparatus, Sol's forced-unity coalition, contractors, and local defenses fight
-different versions of it. The war's recurring obscenity is **male expendability**:
-young and working-age men become probable fighters, mobilizable strength, and
-acceptable loss. The story keeps every class of civilian victim visible while
-refusing to make a man's death less grievable because duty was assigned to him.
-
-ISLAND LOGIC. Islands recur because water boundaries slow outbreak transmission,
-make arrivals visible, and give communities time for quarantine, observation,
-local food, repair, and self-government. They are insulated but not invulnerable:
-ports are choke points, supplies fail, and isolation can become coercive closure.
-
-MOVEMENT.
-- Newly awakened refugees reach Pelangi Reach; Eli coordinates competently and
-  succeeds — which pressures everyone to make his temporary authority permanent.
-  He sponsors one disputed refugee under a voluntary plan. That person commits a
-  serious nonconsensual mind-entry; an ordinary person dies. The survivor does
-  not forgive him. The harm is real and cannot be blamed on Crane.
-- San Francisco civic passage and ruined Washington force the federation to
-  distinguish living justice from dead-capital order; Crane's registry becomes
-  attractive after Sol's pressure and the city's emergency seizure. Eastern
-  Mandate strikes and Union retaliation turn the seizure into open war.
-- Wren refuses Eli access to her threshold network; the communities adopt a
-  bounded compact, then accept Hawaiʻi's invitation. There the oath, armor, and
-  attack test the compact before the hearing.
-- Wren refuses Eli access to her threshold network: love grants no jurisdiction.
-  The communities adopt a bounded emergency compact — purpose-bound, recorded,
-  revocable by several communities, Wren's network not requisitionable, identity
-  registration forbidden, emergency authority self-expiring. No demographic is
-  born owing military service; defense requires consent, rotation, exit rights
-  rights, named casualties, and continuing care.
-
-CLIMAX (LOCKED — Book III Ch 7–8). As the new war widens elsewhere, Hawaiʻi becomes a
-temporary refuge for the displaced, wounded, and frightened. Eli learns from its
-stewards that refuge requires reciprocity, ecological limits, consent, and the
-right to refuse militarization. He accepts the compact's temporary crown to
-coordinate aid at a distant Pacific corridor, then discovers he *could* forcibly
-synchronize nonconsenting carriers and probably save more people. He refuses the
-extension and refuses to turn Hawaiʻi into a base. A holding action elsewhere
-falls mostly on men whose volunteering is constrained by duty and shame. A named
-man dies, others return permanently injured, and a beloved threshold house is
-lost. The aftermath is triage, missing-person work, wreckage, family
-notification, and long care—not a victory tableau. The book does NOT prove
-coercion would have failed — Crane may be right.
-
-ENDING (LOCKED — Hearing + Shared Garden). Eli steps down and submits to an
-ordinary public inquiry, including scrutiny of why men bore the holding action
-and whether their consent was materially free; accepts real limits on his future
-authority. Crane is contained by procedure, not sentenced by Eli. After the
-hearing, Eli visits Hopi lands by invitation and learns that large-scale human
-organization can be federated, seasonal, layered, and free to refuse a permanent
-center. He then reaches the negotiated Colorado mountain settlement. Seeds from
-Rasel's garden arrived before him; a disabled survivor and the dead man's specific
-absence remain in ordinary life. Eli is wanted there, but not indispensable. The
-war continues beyond this community, but the ending does not turn it into a
-sequel tease.
-
-ENDING CHANGE. Liberator → strongman-by-proximity (real window) → relinquishes →
-answerable ordinary member. Union outcome: Founders-shaped decentralization
-(what survives collapses). Continuity can include him without belonging to him.
-
----
-
-## TRILOGY THROUGH-LINE
-- Tree of Knowledge (testable understanding) + Tree of Life (living connection)
-  reunited as *result*, not last-minute reveal.
-- Receiver, not healer; bandwidth, not depth. Eli learns from the dead without
-  owning them.
-- The web is one living system; bad psions' toolkit collapses at once when its
-  discrete point of control is unplugged — power disperses to obsolete machine,
-  not a new owner.
-- Victory is fragile, human, partial, and re-corruptible. The ending is a
-  practice, not a switch.
+## Four-book through-line
+- **Three Circles → Two Trees:** testable understanding plus living connection, not a throne.
+- **Parent objects:** Rasel's ring / physics · Maren's Rootbook / neuroscience journal.
+- **Receiver, not healer; bandwidth, not depth:** Eli learns from the dead *as other*.
+- **Anti-Paul:** rises so apex release reads as sacrifice; graduates where Paul fell.
+- **Form that breathes:** temporary authority requires succession machinery; personal willingness to step down is not enough.
+- **Fragile, partial, re-corruptible victory:** a practice, not a switch.

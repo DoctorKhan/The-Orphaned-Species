@@ -78,7 +78,7 @@ It is a **clock of death**: everything it models runs down, decays, and can be f
 
 **Embodied automation vs. life — the entropy mistake (author — LOCKED 2026-07-26):** Late-2020s planners, megaproject pitch decks, and public imagination treated **humanoid robotics** as if it scaled like **software** — as if ordered metal bodies could proliferate without paying the **entropy bill**. They did not understand that **death technology never breaks the second law**; it **localizes order temporarily** at the cost of power, heat, wear, precision parts, skilled maintenance, and supply chains. **Only life technology** — living systems, keeper practice, the anti-entropic medium — accesses connection that **replenishes**. Humanoid robots **look like** life; they are **expensive clocks**. That misunderstanding is why ~2040 has **AI everywhere and humanoid robots almost nowhere** (`23` § *Robotics lock*). On-page: show maintenance debt and patched leftovers — not a physics lecture.
 
-**Terminology rule:** Do **not** call ordinary tech "death technology" on-page until **late** (Vol II–III). Early prose says *technology, instruments, data, registry, chair, equations* — the name lands when the Two Trees split is finally visible. Same for **life technology** as a label: show **signature-reads** and native road first; name sparingly.
+**Terminology rule:** Do **not** call ordinary tech "death technology" on-page until **late** (Vol II–III). Early prose says *technology, instruments, data, registry, equations* — the name lands when the Two Trees split is finally visible. Same for **life technology** as a label: show **signature-reads** and native road first; name sparingly.
 
 **Wrong framing (split Trees):**
 
@@ -154,7 +154,7 @@ Present plot discovers **effects** of the field under wartime pressure:
 - psion combat as invasion of attention and biology;
 - healer whose repair gift Eli wholly lacks (Eli reads bodies, cannot mend them);
 - artifacts mistaken for grid keys;
-- chair/site as **interface**, not source;
+- charged site as **interface**, not source;
 - mother tether as **life-energy harvest**;
 - spreading practices making the amplifier worthless.
 
@@ -175,7 +175,7 @@ Eli **clarifies** the web; he does not "unlock levels." Each clarification shoul
 
 **Death technology** is ordinary tech — not the enemy. The braid must show it **throughout** before the name lands:
 
-- Emrys's instruments, signatures, equations; the chair as engineered **key**;
+- Emrys's instruments, signatures, equations;
 - mother's research encoded in symbols and measure;
 - registries, archives, broken satellites, computers, border systems;
 - Cuno's geometry as **arrangement you can test**;
@@ -216,13 +216,13 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 - healer's depth vs Eli's reception-without-mastery;
 - Tem and corridor practices — breath, touch, route, and care with limits;
 - European dead zones and living conductors; Pömmelte exposes the persecuted carrier/Nephilot history;
-- Cuno / Stonehenge / Avebury — geometry, transmission, living lines, and collective resonance;
+- Cuno / Stonehenge / Avebury — station geometry, artifact-wisdom transmission, living lines, provenance, and loss;
 - Maren's tether understood as a life-energy chain; release frees her and begins the sparse awakening;
 - relational coherence under psionic pressure: the group holds without command hierarchy.
 
 **Knowledge beats (minimum):**
 
-- mother-reveal: dead in body, tethered west — **official knowledge true at one level**;
+- mother-reveal: alive, held west, wired into the ground — **official knowledge (the death on the file) false, and deliberately so**;
 - registries, prophecy, courtly intrigue as role-assignment;
 - Rootbook knowing/kinship branches, including a wrong key and a living correction;
 - the wider stone-circle network distinguishes conductor, interface, and transmission without making Albion a machine-only answer;
@@ -258,7 +258,7 @@ A chapter **counts** toward this spine if it includes at least one of:
 
 1. **Felt effect** — body, plant, stone, dream, or room behaves in a way that implies the field (no glossary yet).
 2. **Partial practice** — breath, stillness, touch, geometry, song, or override that **works once** under cost.
-3. **Contested object** — artifact, charged ground, chair, tablet, crop pattern — fought over because it **does something**.
+3. **Contested object** — artifact, charged ground, tablet, crop pattern — fought over because it **does something**.
 4. **Wrong name** — faction or character confidently mislabels a Life effect as registry/prophecy, or a Knowledge tool as mere control.
 5. **Split exposed** — scene shows Knowledge used to **bar, sell, or manage** Life, or Life offered **without** consent/test.
 6. **Joining gesture** — someone pairs accountability with care (healer's limit; Wren's harbor discipline; Emrys's measure after contact).
@@ -307,7 +307,7 @@ Native anti-entropic participation — what the Seven proved without the machine
 
 What we already call **technology**: physics in entropic time, equations, measure, engineered interfaces. At the climax this includes:
 
-- Emrys's instruments and the **chair as key** (interface, not source);
+- Emrys's instruments and the charged site as **interface**, not source;
 - the mother's **encoded research** — symbols, correlations, predictions;
 - Cuno's geometry, stone arrangement, data that can be **tested**;
 - coalition coherence held with **standards**, not charisma alone.
@@ -318,9 +318,9 @@ Not soul-harvest necromancy — the **same clock** Adapa trusted when he heard *
 
 | Life technology | Death technology |
 |---|---|
-| reaches the mother across the bridge | chair + stones + geometry **key** the ground |
-| holds collective coherence | mother's equations + Emrys's measures **locate** the tether |
-| releases attachment — frees her spirit | accountable knowing of **why** reunion prolongs the chain |
+| reaches the mother where she stands | stones + geometry **read** the ground |
+| holds collective coherence | mother's equations + Emrys's measures **locate** her |
+| releases attachment — she walks out alive | accountable knowing of **why** reunion is the leash |
 | native road fires through bodies, sound, warmth | instruments discriminate real signal vs psion forgery |
 | spreading fire — practices ungovernable | tech repurposed from classification → translation, consent, documentation |
 

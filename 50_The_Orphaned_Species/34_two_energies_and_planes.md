@@ -54,7 +54,7 @@ The gods' two-Tree demand was met by extraction — humans as **farmers and past
 - **meat / surplus → physical** (the embodied gods and their temples eat);
 - **the aroma → life-energy**, released in the burning and rising to beings who consume it without a mouth, on the other plane (*"a pleasing aroma to the LORD"*, Gen 8:21 / Lev 1:9; the flood gods, starved while humanity drowned, **"gather like flies over the sacrifice"**, Gilgamesh XI).
 
-Crops and livestock also **map the grid** (living ley-detectors), so agriculture served the gods twice — fuel *and* network — and the humans never. The **grid/amplifier runs on life-energy harvested from trapped souls**, not calories: the mother is tethered as a *life-energy* source.
+Crops and livestock also **map the grid** (living ley-detectors), so agriculture served the gods twice — fuel *and* network — and the humans never. The **grid/amplifier runs on life-energy harvested from trapped souls**, not calories. **Maren is the exception that proves the design:** she is **alive**, not harvested — the ground's *operator* rather than its fuel, because a living tuned mind can restore and steer the model while a bound soul can only burn.
 
 **The escalation, and the cure.** Once the purpose was *forgotten*, the provisioning instinct kept firing without its result and escalated — grain → the best → a life → a child. **Forgetting is what turns sacrifice into human sacrifice.** So understanding the purpose **defuses** it (undeceivability; Manual Override on one instinct). The drive still fires today as donation, tithing, taxation — split on **reciprocity**: contribution that funds real shared goods (mature) vs. tribute upward to an authority that returns nothing (the cage). *(Social home: the provisioning instinct in `95_glossary.md`; the Civilization circle in `/00_NARRATIVE_STRUCTURE.md` and `40_concepts.md`.)*
 
@@ -82,7 +82,7 @@ Humans are **one-Tree** (Knowledge — death technology in the physics sense) by
 At Albion, Eli briefly runs **life technology + death technology together** — reunification as power-up, not permanent promotion:
 
 - **Life technology:** native connection, bridge, release, collective geometry, spreading fire.
-- **Death technology:** instruments, chair/key, encoded research, geometry you can test, accountable measure.
+- **Death technology:** instruments, encoded research, geometry you can test, accountable measure.
 
 The union act is **temporary, costly, and collective**. The **Adapa** parable pays off here: bread/water of "death" was the Life bridge misread through the entropic clock. Full drafting notes: `22_life_technology_and_two_trees_spine.md` § Climax.
 
@@ -101,7 +101,7 @@ The union act is **temporary, costly, and collective**. The **Adapa** parable pa
 | **Guardian caste / daimones** — Watchers (bird), Apkallū (snake) | the Unseen | demigod; gone in body, persist as spirits | no — the sight only | **free-willed, forked**: faithful guide Eli, fallen (*daimon→demon*) whisper to Crane |
 | **The jinn** *(distinct native species — new)* | the Unseen (spirit-plane), coexisting with Earth | made of the **medium** ("smokeless fire" = life-energy), not entropic matter; not normally embodied | no — invisible to locked perception; the sight only | **free-willed, forked** (righteous vs. **Shayateen**); self-fuelled **Life-native, one-Tree** (like the "aliens" of §3) — *not* extractive gods, *not* the human dead |
 | **Hybrids** — Gibborim (sterile) / Nephilot (fertile, hidden) | physical | embodied | yes | mortal |
-| **The human dead** | spirit-plane | discarnate | no — the sight only | formerly human; persist, act, **can be tethered** (Eli's mother) |
+| **The human dead** | spirit-plane | discarnate | no — the sight only | formerly human; persist, act, **can be tethered** and burned as grid fuel (**not** Eli's mother — she is alive and runs a ground) |
 | **Humans** | entropic subset | embodied | yes | one-Tree (Knowledge); the deceivable species |
 
 **The jinn — a distinct line, held apart from three neighbours it is easy to confuse it with.** The jinn are the free-willed **non-human people native to the Unseen** who share Earth's plane with humanity but sit in the register the locks hide. They are **their own species**, not a remapping: *not the human dead* (never embodied, never human), *not the gods or guardians* (not part of the serpents' engineered drone/manager hierarchy — no two-Tree extraction appetite), and *not the Makers/dragons above*. Like the dragons and the §3 "aliens" they are **Life-native and self-fuelled** (one-Tree), which is exactly why they carry **free will and moral accountability**: they are neighbours, not instruments. The moral fork the book runs everywhere runs through them too — **righteous jinn** who keep faith and may aid, and the **Shayateen** (deceivers) whose whole function is exploiting human **autopilot** to misguide, the demonic edge of the same spiritual war the fallen gods and guardians wage (`/00_NARRATIVE_STRUCTURE.md` § "the war is spiritual"; ties to the deception apparatus and the player-vs-NPC test).

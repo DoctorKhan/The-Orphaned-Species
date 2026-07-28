@@ -148,7 +148,7 @@ Endurance state frames episodes as **disease to cure** — centralized medicine,
 | **Comms** | Phones/wearables remain; **mesh gaps** force radio, paper, and face-to-face in corridors | Suresh's chits; delayed cargo manifests; "the network's wrong again tonight" |
 | **Biosecurity** | Rapid tests, wastewater monitoring, travel tokens — normalized | Masks in port memory; quarantine floats; travel warnings on Eli's phone |
 | **Robotics** | **Scarcer than near-future default** — software scaled; **embodied** automation did not. See § *Robotics lock* below | Patched **robot dog** (legacy, one route); fixed **automatic chess**; **drones** at war/perimeter — not a robot in every plaza |
-| **Consciousness science** | Fringe → **funded fringe**: EEG/fMRI + anomaly correlation; Emrys marginalized but instrumented | Chair as engineered key; signatures "measurable, meaning withheld" |
+| **Consciousness science** | Fringe → **funded fringe**: EEG/fMRI + anomaly correlation; Emrys marginalized but instrumented | signatures "measurable, meaning withheld" |
 | **Transport** | EVs common in cities; **maritime still diesel-heavy** in Eli's class | Racing sailboats vs Suresh's stained hull |
 | **Finance/status** | Platform wages, gig facilities work, refugee precarity, crypto-broken remittance lanes | Eli's compound wage; Babaji connection = job, not trust fund |
 
@@ -300,10 +300,10 @@ Use **scar + habit**, not history lectures:
 
 ## Story load — why ~2040 (–2042) works
 
-- **Death technology** stays **our physics, accelerated** — equations, instruments, registries, chairs.
+- **Death technology** stays **our physics, accelerated** — equations, instruments, registries.
 - **Life technology** discovery feels **new to the institutions**, not ancient to the reader's world.
 - **EdgeRunners skin** — bodies traded for power, corps/blocs own the upgrade path — lands without cyberpunk pastiche.
-- **Mother's research + Emrys's chair** — plausible classified fringe **now mature enough to weaponize**.
+- **Mother's research + Emrys's instruments** — plausible classified fringe **now mature enough to weaponize**.
 - **Broken sky → old routes** — causal link without apocalypse.
 - **Publication buffer:** optional **~2041–2042** anchor buys real-world drift without retconning prose texture.
 

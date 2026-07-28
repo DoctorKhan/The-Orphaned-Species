@@ -36,7 +36,7 @@ Do **not** import setting names, factions, chrome brands, or plot beats from tha
 
 | Street / cyberpunk read | Canon element | Drafting note |
 |---|---|---|
-| Cyberware, Sandevistan, forced upgrades | Psionic augmentation, registry programs, amplifier keys, Emrys's chair, ground interfaces | Always **mediated** — someone built the interface; someone owns access |
+| Cyberware, Sandevistan, forced upgrades | Psionic augmentation, registry programs, amplifier keys, ground interfaces | Always **mediated** — someone built the interface; someone owns access |
 | Street: *talented* / *talents* (lowercase) | Psionic ability (person / capacities) | Harbor euphemism — *he's talented*, *talents came on*. Not Cap-T brand. Not artifact shelf. Files: psion/carrier; body: noise/surge. Ordinary *talented with X* stays ordinary. `95` |
 | Arasaka / Militech | Nation-state psion teams, bloc programs, emergency databases | Many-sided conflict; no single villain owns the war. **Blocs (locked):** Continental Union (Americas), Eastern Mandate (East), Free Ports Coalition (Strait/gray ports) |
 | Ripperdocs, black clinics | Carrier handlers, conscription, illegal activation, outbreak-cover disappearances | Bodily, transactional, shameful or desperate |
@@ -57,7 +57,7 @@ Do **not** import setting names, factions, chrome brands, or plot beats from tha
 - Reopened cities moving around a wound: uneven shipping, forged papers, quarantine theater, quiet bribes.
 - Pursuit under **procedural stress** — sharper, more observed, less lyrical than Pelangi Reach.
 - Rival teams, Custodians, deniable contractors; fights that **lose** before they win (the breach is asphyxia, not prowess).
-- Objects that **look like bootleg firmware** before they look like sacred history: keys, chairs, tablets, ground maps, "activation" clinics.
+- Objects that **look like bootleg firmware** before they look like sacred history: keys, tablets, ground maps, "activation" clinics.
 - Language of **interfaces, installs, keys, harvest, registry** — all credible as street tech until late reframes name them as locks on the Life bridge.
 
 ### Faction pressure as product offers
@@ -162,7 +162,7 @@ See `31_volume_I_beatsheet.md` for chapter cards.
 Vol II–III deepen the same skin:
 
 - Artifacts and stones increasingly read as **war prizes** before they read as sacred grammar.
-- Mother-thread and chair/key imagery stay **interface language** until Albion reframe.
+- Mother-thread and interface/key imagery stay **interface language** until Albion reframe.
 - Climax resolution remains **spreading fire**, not winning the psionic war — transcend the need for the machine.
 - **Romance:** Vol II tests care-as-control; Vol III pays off **chosen** intimacy after buildup — affection without ownership (`19_romance_and_divine_pairing.md` § Street romance register).
 

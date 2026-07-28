@@ -29,7 +29,7 @@ The curriculum was layered, its surviving records the recovered **fragments** of
 | **Threshold** — controlled metabolic stress | Supervised extremes — fasting, cold, heat, exertion, sensory deprivation, guided near-death thresholds — to crack the system open | **Daskar** (heat/cold, the body's field) |
 | **Dream** — trance discipline | Sustained altered states keeping the non-local channel exercised | **Tem** (dream-walking) |
 | **The Song** — acoustic resonance | The lost throat-sounds and overtone chant — the phonemes that still *do* something — performed inside resonant architecture | **Anthea** (sonic resonance) |
-| **Geometry** — the collective amplifier | Many practitioners in formation at a **charged ground**; bodies + sound + stone entraining into one coherent field | **Cuno** (collective resonance) |
+| **Station geometry** — routing without ownership | A **charged ground** receives and forwards an artifact's bounded wisdom; witnesses preserve provenance, loss, disagreement, and exits without merging minds | **Cuno** (transmission routing) |
 | **The Diet / the green mind** — plant-medicine | Specific psychoactive and metabolic dietary regimes, to trigger and to sustain the altered metabolism | **Lovernios** (plant intelligence) |
 | **Transmission** — the load-bearing layer | Elder-to-child from infancy, so activation never resets; the lineage *is* the maintenance | (all; the child-chain) |
 

@@ -105,7 +105,9 @@ The demographic form of that question is: **who wants me alive, and who merely n
 - **Agriculture:** settled accumulation creates property, hoarding, depletion, and priestly oversight. The social body begins carrying loads it was not built to carry.
 - **17:1 bottleneck:** mating, lineage, and family are captured by hierarchy. Men become competitors for recognized fatherhood; women become controlled reproductive territory; children become dynastic output. The science floor is a Y-line effective-population collapse under social inequality, not a literal count of seventeen mothers for every father.
 - **Bronze Age cults:** gender fracture and father-submission harden. Anthea is dangerous because her song restores direct relation: body to body, mother to daughter, matter to mind, without the institution.
-- **Stonehenge / Albion:** Cuno is the antidote. Collective resonance is what atomization exists to prevent: many minds in the right shape becoming one mind.
+- **Stonehenge / Albion:** Cuno is the antidote. He preserves a network in
+  which no station, keeper, or ruler can pretend to be the source: distinct
+  artifact-wisdoms travel with provenance and correction intact.
 - **Anglesey:** Rome breaks the druidic memory-web by killing elders, burning groves, and cutting the line between plant knowledge, child, place, and ritual.
 - **Modern Child:** the end-state echo. The child receives fragments without context: hot palms, a tune, a fox dream. The inheritance survives, but the social structure that explained it is gone.
 
@@ -114,7 +116,9 @@ The demographic form of that question is: **who wants me alive, and who merely n
 1. **Show atomization at household scale.** A child taken from an elder, a woman made afraid of her own gift, a man competing for permission to matter, a couple asked to carry too much, a village split into captives and fugitives.
 2. **Do not make it a sermon.** Let the reader feel the missing network by seeing what had to replace it.
 3. **Keep the villain procedural.** No single person needs to hate the family. The system can break bonds through piety, safety, mobility, opportunity, entertainment, optimization, and fear.
-4. **Use Cuno as the clean antidote.** His collective resonance is not merely a power; it is the memory of what society was before atomization.
+4. **Use Cuno as the clean antidote.** His station record remembers a society
+   capable of transmitting shared wisdom without erasing the distinct people,
+   objects, and places that carried it.
 5. **Let the Modern Child inherit symptoms, not explanations.** The reader holds the map; the child holds the fragments.
 
 ---
@@ -155,7 +159,13 @@ A Weaver bond becomes formative through duration and mutual witness, not a cerem
 
 **Hard to break does not mean impossible to leave.** The bond has no claim to permanent sex, access, labor, forgiveness, location, or reunion. Either person can refuse any present act. A deliberate unbinding may require returning keys and records, transferring responsibilities, naming debts before witnesses, and ensuring dependents are not abandoned; this is accountable disentanglement, not permission to depart. Some bonds are never formally unbound and remain dormant, estranged, or capable of renewal. Governing distinction: **the bond remembers; the person still chooses.**
 
-**Wren / Rowan:** their relationship was formative and never fully unbound. They stopped sharing a life after the failed extraction, but their reflexive coordination, mutual-aid obligations, bodily familiarity, and recognition survived inside the Net. Book II does not manufacture a reunion from nostalgia; it places two people back inside a bond that still has structure, then requires them to choose whether—and under what new terms—it becomes romantic again.
+**Wren / Rowan:** their relationship was formative and never fully unbound. They
+stopped sharing a life when Wren chose Knotter/intake work inside institutions and
+Rowan chose Weft corridor work across them; no failed extraction sits in their
+backstory. Their reflexive coordination, mutual-aid obligations, bodily
+familiarity, and recognition survived inside the Net. Book II gives them their
+first live recovery together and requires them to choose whether—and under what
+new terms—the bond becomes romantic again.
 
 ### How it works
 
@@ -182,7 +192,7 @@ A Weaver bond becomes formative through duration and mutual witness, not a cerem
 
 *Named 2026-07-24; rev. B 2026-07-24. Glossary: `95`. WORLD_BIBLE § Meridian. Not the missing male order (`29` § diagnosis).*
 
-**The Harbor Thread** is the distributed, mostly male **underground** that knows how cargo, bodies, witness, and **expendable male leadership** move when official maps lie — Stack service levels, strait timings, chandlery handoffs, freight ramps, inspection rhythms. **Street:** *the Thread*; *harbor thread* when the port/strait sense matters.
+**The Harbor Thread** is the distributed, mostly male **underground** that knows how cargo, bodies, witness, and **expendable male leadership** move when official maps lie — Stack service levels, strait timings, chandlery handoffs, freight ramps, inspection rhythms. Bengali workers call it the **Shromik Line** (*shromik* = worker); **street:** *the Thread*; *harbor thread* when the port/strait sense matters.
 
 ### Status — accepted, not spoken
 
@@ -336,11 +346,13 @@ Post-Hinge **inverted order** — three male fates (two spoken, one not):
 
 **Front posts** — dangerous male leadership the Thread fills: harbor captain, facility lead under squeeze, founder/**CEO** (target and liability, not prize), public performer. **CEO is a spending occupation.**
 
-**Third road (Book III):** cloister initiates — **kept** standing earned by rite; neither house servitude nor Thread placement nor Extra.
+**Three-volume deployment — LOCKED 2026-07-28:** Book I names the *Extra lane* once at Meridian intake when an unsponsored tradesman is diverted despite a valid work certificate. Book II makes Rowan's missing person a demobilized man stripped of house standing and presumed to be a raider; Wren and Rowan's recovery enters an Extra settlement diverse enough to defeat the category. Sol recruits from the same population by offering names, brotherhood, protection, and purpose. Book III shows Extras divided among Sol, community defense, refusal, mutual aid, and public testimony.
+
+**Third road (Book III):** the first cloisters are co-founded by Extra men, veterans, Harbor Thread elders, and Eli. They confer **kept** standing through attention, repair, watch, care, restraint, and accountable service—neither house servitude nor Thread placement nor a certificate of romantic acceptability. The Weavers do not grant admission or legitimacy.
 
 **Prose:** *"He's house."* / *"Don't say Thread in here."* / *"Extras at the perimeter again."* / *"She won't mourn an Extra son."*
 
-**Guardrails:** house men = indictment of settlement, not virtue; Thread men = necessary underground, not romantic outlawry; Extras = legible, not cartoon villains — the insult is the settlement's, not the book's. Union census: *demobilized male cohort* — file language only.
+**Guardrails:** house men = indictment of settlement, not virtue; Thread men = necessary underground, not romantic outlawry; Extras = legible, not cartoon villains — the insult is the settlement's, not the book's. Personal and romantic rejection remain free; they cannot erase civic protection or standing. Some men refuse every offered institution and remain protected. The ending invalidates *Extra* as a civic category rather than “correcting” every Extra into household acceptability. Union census: *demobilized male cohort* — file language only.
 
 ---
 
@@ -498,7 +510,9 @@ This stage includes:
 
 - ley lines as living conductors that can break into positive and negative ends or form along new routes
 - crop circles as the effect of newly forming ley lines on plant growth
-- stone circles as routing interfaces that deflect ley lines into a communicative center, not monuments or energy sources
+- stone grounds as transmission stations that forward bounded artifact-wisdom
+  with provenance intact, not monuments, energy sources, or thrones for a
+  central receiver
 - plant medicine and plant intelligence as relationship, not extraction
 - healing technologies based on attention, warmth, sound, and field-sensing
 - collective mind without hierarchy
@@ -525,7 +539,7 @@ The evolutionary test is coexistence with living power. Humanity previously wors
 
 The final recognition is retrospective inevitability, not fate. Once coexistence is demonstrated, the long history becomes legible: ritual, astronomy, science, law, medicine, communications, computation, and community were all partial rehearsals for living beside power without surrendering agency. It has always been like this because the same problem has always been returning. The ending reveals the pattern; it does not prove that the outcome was guaranteed.
 
-**Book 5 expression:** The living network is discovered through an adventure rather than disclosed as doctrine. **Malacca opens the receiver; charged grounds hold the teachers** — the breach is undifferentiated web-noise, not a bulk download; named practitioners clarify at stones and charged sites under pursuit. **Legends of talking stones** (local folk names; `36` §7a) give ordinary characters a vocabulary for charged-ground behavior before Eli has mechanism — a grower, sailor, or shrine keeper says the stone "remembers" or "answers," and the reader feels the truth before the grid vocabulary arrives. Altered plant growth is noticed first; repeated observations establish a conductor; paired anomalies establish the positive and negative ends of a break; crop formations reveal new lines forming; historical stone geometry reveals inward deflection; Cuno's incomplete transmission finally reveals communication at the center. Each step changes the route and increases pursuit. Cuno remains the cleanest preview of the social form: many minds in the right shape becoming one mind without a master. Eli's overlapping path—identification, charged contact, relation, seeing, surge-discrimination, creation—shows one person maturing across registers without creating classes. The returning healer proves that another person can go much deeper in one practice. The Modern Child is the seed of the wider awakening: capacities return first as symptoms without explanation, then as memory, then as practice.
+**Book-series expression:** The living network is discovered through an adventure rather than disclosed as doctrine. **Malacca opens the receiver; charged grounds hold the teachers** — the breach is undifferentiated web-noise, not a bulk download; named practitioners clarify at stones and charged sites under pursuit. **Legends of talking stones** (local folk names; `36` §7a) give ordinary characters a vocabulary for charged-ground behavior before Eli has mechanism — a grower, sailor, or shrine keeper says the stone "remembers" or "answers," and the reader feels the truth before the grid vocabulary arrives. Altered plant growth is noticed first; repeated observations establish a conductor; paired anomalies establish the positive and negative ends of a break; crop formations reveal new lines forming; historical stone geometry reveals routing; Cuno's incomplete transmission finally reveals that charged stone grounds are stations forwarding the bounded wisdom of artifacts. Each step changes the route and increases pursuit. Cuno previews the mature social form: knowledge moves widely while provenance, difference, consent, and the right to correct it survive. Eli's overlapping path—identification, charged contact, relation, seeing, surge-discrimination, creation—shows one person maturing across registers without creating classes. The returning healer proves that another person can go much deeper in one practice. The Modern Child is the seed of the wider awakening: capacities return first as symptoms without explanation, then as memory, then as practice.
 
 ### Integration map
 
@@ -889,4 +903,7 @@ The book's answer to *cyberpsychosis*: the condition of feeling **super-powered 
 
 **Naming by register (one history, many liturgies).** Street: **the Drift** (*drift-sick*, *drifted*, *out on the Drift*). Keepers: **god-sickness** (they recognize the old god-disease returning). Union: a cold clinical file, one more thing to sedate and register (matched pair with **the Fractured**). Which term a character uses tells you which world they belong to.
 
-**Antidote:** **grounding** — the keeper practice Emrys teaches; re-tethering to body, kin, and ground. **Craft rule:** show through behavior; never diagnose on-page unless a character would plausibly use the word (`26` trauma-craft rule). Glossary: `95` *The Drift / god-sickness*; street skin: `21`; present texture: `23`.
+**Antidote:** **grounding**—distributed keeper practice, re-tethering to body,
+kin, and ground. Eli learns it through breath, ordinary care, and communities,
+not an expert teacher. **Craft rule:** show through behavior; never diagnose
+on-page unless a character would plausibly use the word (`26` trauma-craft rule).

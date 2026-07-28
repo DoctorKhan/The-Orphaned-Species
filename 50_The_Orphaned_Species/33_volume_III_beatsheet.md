@@ -1,5 +1,20 @@
 # Volume III — *The Living World* — Beat Sheet
 
+> **BOOK IV ENDGAME SUPERSESSION — LOCKED 2026-07-28:**
+> `60_volume_IV_court_of_threads.md` governs the ending. Book III no longer ends
+> with completed inquiry, expired authority, Colorado retirement, or trilogy
+> closure. Eli prepares transfer after refusing forced synchronization; an attack
+> on certification triggers the compact's continuity clause. The Weavers and
+> men's cloisters save continuity and rise into formal power. Rowan/Eli remains
+> non-romantic and nonsexual in Book III; only deniable attraction is planted.
+> Book IV owns conscious attraction, repeated sex before romance, chosen
+> conception, pregnancy, birth, final institutional settlement, and actual
+> relinquishment. Older Ch 8–10
+> closure material below is retained as staging quarry only where it does not
+> contradict this lock.
+
+> **COMPLEX-TIME SUPERSESSION — LOCKED 2026-07-27:** Any field-sail references below are retired quarry. Book III's novel physics concerns **complex time** and the possibility of lateral/sideways movement through adjacent temporal states. The peace/research sequence must build toward testable complex-time work, not a field-sail craft.
+
 > **SANXINGDUI SUPERSESSION — LOCKED 2026-07-26:** The first Sanxingdui material-pattern / word-tree break now occurs in Book I as part of the Rasel and Tree-of-Life climax (`58_sanxingdui_climax_lock.md`). Book III may apply and extend that scientific insight to the reciprocal circuit and field sail, but does not discover Sanxingdui for the first time. Older “Sanxingdui break arrives here” and Book III Rasel-rescue language below is stale.
 
 > **HIGH PRIORITY — LOCKED 2026-07-25:** Chapter beats must pass **`55_series_pitch_and_comps.md`** 10-point gate; win condition = **release + coexistence**, not boss-fight or treasure-box. **Vol III chapter-by-chapter audit + end hooks:** `55` § *Book III — chapter-by-chapter pitch audit*.
@@ -15,7 +30,7 @@
 > field physics and institutional memory, while Eli retains the final choice about
 > his own capacity.
 
-> **MESSIANIC RISE — LOCKED 2026-07-23:** The trilogy **does not shy away from the messiah shape — it runs it to completion on-page.** By Volume III a substantial public — rebel cells, pilgrims, strait sailors, displaced communities, hostile propagandists, and frightened civilians — **treats Eli as messiah**: **Deiwos**, chosen one, sky-son, healer-king, *Son of Man* (often **against** his attempts to stay ordinary), half of the **sons of Deiwos** twin-myth with Somchai. He **rises** in the reader's experience: healings and crossings accumulate; three-circle chalk opens doors; the Awakening War makes him indispensable coordinator; Crane offers the throne; Sol mirrors him as armed prophet; media fragments and rumor **outrun fact**; teahouse visitors project sainthood. **Craft rule:** show the kneel reflex **working** — gratitude, prophecy, annunciation language, unearned saves, Lincoln's throne-shape, communal armor mistaken for coronation. Eli's arc is not "don't look messianic." It is: **the messiah reading is structurally true enough to be dangerous**, then adulthood is proved by **bounded crown, re-teaching the name, and step-down** — not by denying the signs. Companion anti-cult guards (`53`, `54`) govern **reader spread**, not an obligation to hide messianic pressure on-page. Resolution: re-teach *deiwos* as daylit sky / sky-children (`29` § Deiwos resolution), not a denunciation scene.
+> **MESSIANIC RISE — LOCKED 2026-07-23; endgame revised 2026-07-28:** The series does not shy away from the messiah shape. By Volume III a substantial public treats Eli as Deiwos, chosen one, healer-king, or Son of Man. He rises through real coordination, signs, rumor, and projection. Book III proves bounded use and an attempted handover; the attack and continuity clause carry the crown into Book IV, where pregnancy adds heir mythology. Adulthood is finally proved by institutional transfer during the birth, not by denying the signs.
 
 > **CIVILIZATION AS ENGINE — THEMATIC LOCK 2026-07-22:** Book III makes explicit what Books I–II only plant. Civilization repeatedly calls itself family—motherland, fatherland, founders, sons and daughters, national household, sacrifice for future generations—but often operates as an engine. It draws in bodies, labor, attention, fertility, loyalty, and time; converts them into order, security, production, territory, and institutional continuity; and exports injury, displacement, disability, grief, ecological damage, and death into people it can afford to lose. Those people are not exhaust in the novel's moral voice: **the engine treats them as exhaust, and the story restores them as persons.** The metaphor is structural, not literal thermodynamics and not a claim that civilization produces no good. Medicine, infrastructure, defense, knowledge, and coordination are real outputs and explain consent. The indictment is that the system exports entropy downward while kinship language disguises expenditure as love. Governing distinction: **A family remembers whom it has lost. An engine records what the loss purchased.** Eli's mature answer is: **A system calling me family does not earn the right to spend me.**
 
@@ -25,7 +40,11 @@
 
 > **INSTINCT / INSTITUTION PAYOFF — LOCKED 2026-07-22:** Book III does not reveal that sex differences were wholly fabricated. Female selectivity and male competition, display, protection, and risk-bearing remain ancient population-level pressures, unevenly expressed and never individual destiny. The Charkha's intervention was to sever them from relationship and institutionalize their harshest outputs: selection without knowledge, rejection without continued standing, courage without reciprocal care, and sacrifice without memory. The answer is conscious form rather than denial or compulsory reenactment: women remain free to choose; rejected men remain kept; masculine risk can be honored without being owed; no sacrifice buys intimacy; no sex carries an automatic duty to die. **The Charkha made women sort men they no longer knew, and made men sacrifice themselves for communities that would not remember them.**
 
-> **PLURAL-ROMANCE CONTINUITY — LOCKED 2026-07-22:** Book III must not quietly demote the Wren/Rowan romance after renewing it in Book II. Wren/Rowan and Wren/Eli continue as separate romantic bonds; Rowan/Eli remains non-romantic. Rowan stays primarily with the west-corridor/Albion keeper network rather than becoming a permanent quest companion. Give Wren/Rowan at least two live, consequential contacts and one eventual in-person rotation or visit: their distance, work, and network obligations create real strain. The formative bond is durable but never standing consent. **The bond remembers; the person still chooses.**
+> **EXTRAS PAYOFF — LOCKED 2026-07-28:** Extras are a divided political constituency, not Sol's reserve army. Some join him, some defend communities on consent-bound terms, some build mutual aid, some refuse every bloc, and some testify about house servitude, Thread exploitation, and drone violence. A perimeter drone must strike at least one man who came to ask rather than raid. Extra men, disabled and demobilized veterans, Harbor Thread elders, and Eli co-found the first men's cloisters; neither Eli nor the Weavers bestow standing on them. The end state does not make every man household-acceptable: it removes *Extra* as a valid reason to deny protection, appeal, care, grief, or meaningful civic standing.
+
+> **WOMEN CARRYING VACATED WORK — LOCKED 2026-07-28:** Books I–II have already made women common in freight, maintenance, construction, perimeter defense, drones, transport, route work, and command because war removed men and civic sorting rejected many male survivors while the work remained. Book III makes the double truth visible: these women possess real skill and authority, and many have also been made to carry old spending-work without relief from care or bodily burdens. The cloisters do not form to reclaim male-coded jobs. Their rise must create negotiation over shared work, rotation, recovery, and power without displacing women or restoring sex caste.
+
+> **ROMANCE EXPANSION — REVISED AND LOCKED 2026-07-28:** Book III must not quietly demote Wren/Rowan after renewing it in Book II. Wren/Rowan and Wren/Eli continue as differently textured romances. Rowan/Eli remains affectionate, direct, political, nonsexual, and non-romantic. Plant only deniable charge with complete nonromantic explanations: Eli seeks Rowan's reaction, she can steady or confront him, and one practical touch briefly alters attention. No explicit desire, near-kiss, jealous Wren, prolonged body description, or future-romance dialogue. Book IV owns conscious attraction, repeated sex before romance, and later chosen conception. Full architecture: `60_volume_IV_court_of_threads.md`.
 
 > **COSMOLOGICAL FUNCTION — LOCKED 2026-07-15:** Book III tests the intended resolution of the Drift. Humanity's technological intelligence must become understanding of life-technology, allowing recognition of the Nephilot/elven line as fellow persons. The civic choice is therefore not technology versus nature but coexistence versus fear-driven extermination, coercive ownership, or self-destruction.
 
@@ -43,7 +62,7 @@
 
 > **Tree of Knowledge in practice — LOCKED 2026-07-16:** The empirical-humility scenes are not generic scientific method; they are the Tree of Knowledge functioning correctly. A living signal becomes a public, revisable account: observation is separated from interpretation, alternatives are tested, other people can check the claim, and the conclusion changes when reality disagrees. The Tree of Life supplies contact; Knowledge asks what the contact predicts, what else could explain it, who can verify it, and what must be done if the test fails.
 
-> **Temporary authority and collapse resilience — LOCKED 2026-07-16; strongman-by-proximity 2026-07-26:** The Continental Union **breaks** in Book III — capital seized, legitimacy fractures, regions and apparatuses act like rival islands. Emergency authority may be necessary, but it must expire. **Path A — Eli becomes a real strongman for a window:** he does not conquer the Union like Kamehameha; power **pours into him by proximity** — messiah pressure, Continuity/Devolution vacuum, ports/clinics/awakened communities and even Union officers treating his compact as the working center. Mid-book he issues real orders and looks indispensable. **Victory is relinquishing after it was real** (Washington step-down), not pretending he never held it. **What survives collapses** is Founders-shaped decentralization: no permanent executive center, recoverable parts, local capacity, renewable emergency power, exit rights — the constitutional suspicion of concentrated permanence, rhyming with Bronze Age Collapse (palace dies; distributed communities hold). Hawaiian unification rhyme: Nuʻuanu/permanent mōʻī = wrong path (Crane/Sol/keep the crown); Kauaʻi acknowledgment + demilitarize + expire = mature path.
+> **Temporary authority and collapse resilience — REVISED AND LOCKED 2026-07-28:** The Continental Union breaks in Book III and power pours into Eli by proximity. He issues real orders under a bounded compact, refuses forced synchronization, and prepares transfer. An attack makes the continuity provision fire before certification completes. Book III's victory is that he binds power and genuinely attempts release; Book IV tests whether the institutions around him can stop needing or prolonging him. Final relinquishment occurs during Rowan's labor.
 
 > **NEW WAR — LOCKED 2026-07-18:** WWIII's hottest phase has passed, but its incompatible armistices leave blockades, proxy forces, drone fleets, and mobilization systems intact. Maren's release then creates a new strategic resource no state believes it can leave uncontrolled. The San Francisco registry seizure and the Eastern Mandate's coordinated Pacific strikes ignite the **Awakening War** (working public name): an openly renewed, multi-front war over who may register, conscript, synchronize, shelter, or destroy awakened people. The Continental Union, Eastern Mandate, Crane's security apparatus, Sol's forced-unity coalition, contractors, and local defense groups enter for different reasons; none fully controls the conflict. This is a new war born from the old one's weapons and unfinished hatreds, not merely WWIII's last battle.
 
@@ -53,7 +72,7 @@
 
 > **EASTERN MANDATE — REVISED AND LOCKED 2026-07-21:** The Mandate is initially experienced as faceless through automated strikes, cure corridors, blockades, distant policy, and Meridian City's clinical machinery. That is wartime perspective, not the nature of an entire civilization. Book III breaks the compression when peace requires contact: Commissioner Ma, scientists, engineers, sailors, workers, families, officials, and internal critics reveal incompatible interests inside the Mandate. Ma is not a redemption face and humanization does not erase responsibility for the offensive. The governing rule is: **show faceless pressure first; reveal the people inside it when relationship becomes possible; never confuse humanization with acquittal.** Full character, peace, and field-sail lock: `51_field_sail_and_mandate_peace.md`.
 
-> **FIELD SAIL / PEACE ENGINE — LOCKED 2026-07-21:** During the Union visit, Eli and Emrys encounter an unfinished classified physics program built from inertial anomalies, charged-ground measurements, ancient orbital records, and failed resonant lattices. Eli identifies the missing feedback relationship but does not finish the science alone; Union physicists, Emrys, independent replicators, and Mandate engineers complete and test it. The Union holds theory; the Mandate holds the industrial capacity to build; the Free Ports and teahouses hold open verification and consent-bound field research. A small replicated proof and joint civilian compact create the material basis for ceasefire. No crewed starship launches in the trilogy.
+> **COMPLEX-TIME / PEACE ENGINE — LOCKED 2026-07-27:** During the Union visit, Eli and Rasel encounter an unfinished classified physics program built from inertial anomalies, charged-ground measurements, ancient orbital records, and failed resonant lattices. Eli identifies the missing feedback relationship but does not finish the science alone; Union physicists, Rasel, independent replicators, and Mandate engineers complete and test it. The Union holds theory; the Mandate holds industrial capacity; the Free Ports and teahouses hold open verification and consent-bound field research. A small replicated proof of lateral movement through adjacent temporal states and a joint civilian compact create material grounds for ceasefire. No crewed starship launches in the trilogy.
 
 > **ROOTBOOK CONCORDANCE — LOCKED 2026-07-21:** Maren's word-tree opens into a wider scientific concordance: language, evolution, ecology, field behavior, and extraterrestrial records preserve continuity through transformation. Sanxingdui is the decisive non-linguistic rhyme, not a Proto-Indo-European outpost. The pattern helps Eli see the field sail's missing feedback relationship; collaborating scientists must still derive, replicate, and govern the result. Full design: `52_the_rootbook_word_web.md`.
 
@@ -64,11 +83,11 @@
 >
 > **Internal movement:** liberator → **strongman-by-proximity (real window)** → relinquishes → answerable ordinary member.
 >
-> **Victory condition:** coexistence survives a real failure of freedom, the Union’s fracture, the Awakening War, and an internal public reckoning. Eli **actually holds** continental coordinating power for a season, then expires it under judgment — communities less dependent on him than before. Outcome polity is **more decentralized** (Founders-shaped recoverable parts), not a restored throne-capital. Hawaiʻi remains a temporary refuge and learning community, not a front or military prize. After the hearing, field-sail proof supports a limited Union–Mandate ceasefire; principal research, shipping, and orbital corridors stand down first, while proxy violence and accountability remain unresolved.
+> **Victory condition:** coexistence survives a real failure of freedom, the Union’s fracture, the Awakening War, and an internal public reckoning. Eli **actually holds** continental coordinating power, accepts sanction, and begins transfer. A coordinated attack prevents clean certification, so a bounded continuity clause retains him into Book IV. Outcome polity is **more decentralized** (Founders-shaped recoverable parts), not a restored throne-capital. Hawaiʻi remains a temporary refuge and learning community, not a front or military prize. Complex-time verification supports a limited Union–Mandate ceasefire process; principal research, shipping, and orbital corridors stand down first, while proxy violence and accountability remain unresolved.
 >
 > **POV:** Eli remains the trunk. Wren owns the chapter in which she refuses Eli access to the threshold network. Other ensemble action is observed through one of those two minds; one scene holds one viewpoint.
 >
-> **Geographic movement — LOCKED 2026-07-19:** Pelangi Reach refugee crisis → San Francisco civic passage → ruined Washington, D.C. / relocated-government negotiation → Wren's boundary and bounded compact → Hawaiʻi Island invitation, relation/oath/armor, refuge lessons → Hopi visit by invitation and large-scale organization lesson → Colorado mountain settlement coda. Hawaiʻi is not a front: it is the temporary refuge where the compact is learned and where war's displaced consequences arrive.
+> **Geographic movement — REVISED 2026-07-28:** Pelangi Reach refugee crisis → San Francisco civic passage → ruined Washington, D.C. / relocated-government negotiation → Wren's boundary and bounded compact → Hawaiʻi Island invitation, relation/armor/refuge lessons → distant corridor operation → hearing → attacked handover. Hawaiʻi is not a front: it is the temporary refuge where the compact is learned and where war's displaced consequences arrive. The former Hopi/Colorado coda moves out of the active Book III sequence; the shared garden and teahouse close Book IV.
 
 ---
 
@@ -79,13 +98,15 @@
 3. A refugee admitted under Eli's sponsorship commits a serious nonconsensual mind-entry; an ordinary person dies as a direct consequence.
 4. San Francisco's Yerba Buena Gardens King memorial and the ruins of Washington turn the private harm into a public argument about union, justice, and emergency power. **At Revelation Eli sees beloved community at civic scale and proposes the polyphonic compact** — slow-clock federation architecture seeded here.
 5. Crane's standard becomes attractive; San Francisco falls under emergency registry seizure while the Eastern Mandate begins coordinated Pacific strikes. The **Union breaks** into rival centers (capital, relocated gov, regions, Crane apparatus, Sol coalition, Free Port edges). Awakening War opens. Eli does **not** race to retake SF as throne-city.
-6. Before the Union research archive is lost, Eli and Emrys help preserve the unfinished field-sail record. Wren refuses Eli access to her threshold network. The federation adopts a bounded compact and accepts the Hawaiʻi invitation.
+6. Before the Union research archive is lost, Eli and Rasel help preserve the unfinished complex-time record. Wren refuses Eli access to her threshold network. The federation adopts a bounded compact and accepts the Hawaiʻi invitation.
 7. **Strongman-by-proximity — LOCKED 2026-07-26:** power **pours into Eli** — messiah pressure, Continuity vacuum, communities and Union officers treating his compact as the working center. He coordinates evacuations, medicine, communications, and local defense across multiple regions; he issues real orders and looks like the indispensable strongman. He still refuses to turn Hawaiʻi into a war base. San Francisco is one emergency site among many; any later visit is reconstruction as ordinary participant, not heroic restoration.
    **Cause of fracture:** Mandate pressure hits a Union already corrupted and over-centralizing; the attack exposes the breaks; further centralization makes damage cascade.
 7b. At Hawaiʻi, **aloha + kuleana** and communal work-armor. Refuge receives the war’s displaced. Strongman window and care-duty collide.
 8. Eli’s strongman authority is **real**, then he refuses the extension that would forcibly synchronize nonconsenting carriers (and probably save more people) and **relinquishes** under hearing/judgment — Path A complete.
 9. The voluntary coalition survives incompletely. A holding action Eli authorizes is staffed largely by ordinary men whose “choice” is narrowed by duty, shame, conscription history, and the knowledge that somebody must stay. A named man established first as a worker, friend, or family member is killed; others return burned, amputated, neurologically injured, or not at all. A beloved threshold house is also lost. The narrative never converts their sacrifice into proof that Eli chose correctly.
-10. Eli steps down and submits to an ordinary public inquiry. He accepts limits placed on his future authority.
+10. Eli begins the inquiry and constitutional transfer. The handover is attacked;
+    the continuity clause retains him, and Book IV completes judgment and
+    relinquishment.
 11. Commissioner Ma's Mandate delegation, Union survivors, and independent researchers replicate a small field-sail effect and establish a limited ceasefire and joint civilian program. At the later teahouse and shared garden, Eli is wanted but not indispensable; the ship remains years away.
 
 The precise refugee, victim, survivor, named male battlefield death, disabled survivors, and lost threshold house are now cast: Tomas Okafor, Nia Okafor, Amara Okafor, and Bima Prasetyo. Their dramatic functions remain locked.
@@ -104,6 +125,10 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Forward pressure:** one frightened refugee cannot reliably keep other minds out and asks Eli not to surrender them to a state program.
   **Named people — LOCKED:** the refugee is **Tomas Okafor**, a young electrical worker traveling with his older sister Nia; both want ordinary work, privacy, and a place where their family is not treated as a threat.
 - **War made personal:** the boat's missing places belong mostly to men stopped at checkpoints as probable fighters, recalled by old units, refused civilian passage, or left behind so relatives could take their seats. The men who arrive are searched twice—first as threats, then as labor—and apologize for wounds that make them less useful.
+- **Extras return:** one arriving man was marked Extra after demobilization and
+  still carries the lower-concourse stamp seen in Book I's Meridian system.
+  Pelangi's intake cannot make household sponsorship the price of refuge without
+  reproducing the category it claims to oppose.
 - **Pitch gate — end hook:** Authority worked — and begins to stick; Tomas asks not to be surrendered to a state program.
 
 ### Ch 2 — Terms of Welcome *(Eli · Pelangi Reach)*
@@ -155,10 +180,14 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Why it works:** the system would prevent some deaths, coordinate scarce specialists, identify repeat harm across jurisdictions, and give frightened ordinary people a visible remedy.
 - **Why it owns:** temporary risk categories become permanent identities; data crosses purposes; opting out itself becomes suspicion; no meaningful exit exists once a person is classified.
 - **The expendability ledger:** the Standard's evacuation and mobilization tables classify working-age men first as security risks and then as usable capacity. A wounded conscript is described as “recoverable strength”; a dead crew becomes minutes purchased. Eli sees that clean administration can save civilians while making particular men easier to spend.
-- **The complete dependency-transfer record:** Emrys and Rowan's separately preserved fragments join the Union archive's population, labor, platform, and household studies. The chain shows Measure analysts tracking which messages shortened partnerships, reduced informal help, increased service dependence, and converted care into a purchasable or registrable transaction. No master memo claims to have caused society; the horror is iterative policy—successful alienation repeatedly measured, funded, and scaled. The same offices later drafted pronatal appeals when missing cohorts threatened institutional continuity.
+- **The complete dependency-transfer record:** Qiao's institutional fragments and Rowan's corridor records join the Union archive's population, labor, platform, and household studies. The chain shows Measure analysts tracking which messages shortened partnerships, reduced informal help, increased service dependence, and converted care into a purchasable or registrable transaction. No master memo claims to have caused society; the horror is iterative policy—successful alienation repeatedly measured, funded, and scaled. The same offices later drafted pronatal appeals when missing cohorts threatened institutional continuity.
+- **Extra ledger:** Union file language calls them a *demobilized male cohort*,
+  risk-scores lack of household sponsorship, and then routes the same men toward
+  expendable labor and security pools. Sol's recruitment succeeds because his
+  public naming reverses the file's first humiliation before it asks for obedience.
 - **Choice → Cost:** several admirable communities accept portions of the standard freely. Eli cannot dismiss them as cowards or collaborators.
 - **Crane:** civil, useful, and sincere. He does not need to have engineered the death; reality has made his argument for him.
-- **Secret research:** Union officials expose Eli and Emrys to an unfinished compartmented physics program because its inertial and vacuum anomalies correlate with charged-ground and collective-coherence data. The equations nearly close, but every fixed-waveform lattice loses the effect. Eli can distinguish what the apparatus is forcing from what the field is answering; he supplies a testable missing relationship, not a completed derivation. Emrys and the physicists begin translating it into a revised model (`51_field_sail_and_mandate_peace.md`).
+- **Secret research:** Union officials expose Eli and Rasel to an unfinished compartmented physics program because its inertial and vacuum anomalies correlate with charged-ground and collective-coherence data. The equations nearly close, but every fixed-waveform lattice loses the effect. Eli can distinguish what the apparatus is forcing from what the field is answering; he supplies a testable missing relationship, not a completed derivation. Rasel and the physicists begin translating it into a revised model.
 - **War ignition:** while the delegation is away from the harbor district, Sol's coalition and proxy networks trigger a registry seizure as Eastern Mandate forces strike Pacific communications, ports, and selected Union facilities. The Union retaliates and orders mobilization. What officials call a contained security emergency becomes the **Awakening War** before the chapter ends — one of **Book III's multiple further collapses** (multi-front; stacks after Book II **corridor break** and west fractures). *In the flow* **spreads** in evac corridors. The Union **breaks** into rival islands. Eli does **not** reclaim San Francisco as throne; **strongman-by-proximity** begins as Continuity vacuum and communities pour coordinating power into his compact while he runs distributed evacuation.
 - **Record survives:** the lab cannot be heroically saved. Researchers, partial physical prototypes, and separately held records escape by different routes; enough survives because no single archive contains the whole project.
 - **Washington movement (deferred):** Lincoln Memorial and dead-capital argument land **Ch 5** in ruined D.C. — not here.
@@ -170,20 +199,25 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Want:** protect the people whose routes and identities depend on her promise that the threshold network will never become anyone's army.
 - **Public pressure:** families harmed by uncontrolled psions and carriers harmed by compulsory registration gather in the same memorial space, each carrying names the other side's policy can erase. The survivor from Chapter 3 may attend and refuses symbolic reconciliation with Eli.
 - **Names against numbers:** demobilized men, widowers, fathers, brothers, and families of missing conscripts insist on naming what official language compresses into readiness and loss. One living veteran is visibly disabled and neither inspirational nor spiritually repaired.
+- **Extra testimony:** speakers disagree in public. One joined Sol because he was
+  the first person to use the man's name; another defended a threshold house but
+  refuses every uniform; another describes unpaid house service; a Thread elder
+  admits that usefulness never became kept standing. The hearing does not require
+  one male spokesman or one explanation.
 - **Rowan names the political pattern; Wren names its human limit:** Rowan can prove that the same apparatus amplified incompatible gender stories, but refuses the seduction of explaining every private failure from above. Wren's testimony is smaller and harder: the Charkha could cultivate suspicion, not choose whom she loved, what she feared, whom she hurt, or whether she returned. Their two accounts keep structural analysis and personal responsibility in the same room.
 - **Civic register:** ruined Washington's archives, registry families, and **Lincoln Memorial** expose the dead capital's broken promise of union and exceptional authority. **Yerba Buena King memorial (Ch 4)** already supplied the living counterpoint — water, multilingual panels, names-in-many-tongues, disciplined beloved community. D.C. asks what remains when a country **inscribes** justice on granite but **preserves** systems that cannot tolerate unowned people.
 - **King words on-page (Ch 4 echo, Ch 5 cost):** no dream-quote. At most: Amos 5:24 / *justice rolls* (PD) glimpsed on glass; *Constitution's keyboard* paraphrased by a local voice; **beloved community** as Wren's practice (consent-bound network), not a recited slogan (`90` §10).
 - **Critical function — LOCKED:** the King memorial is the moral bridge between constitutional structure and lived justice. Lincoln can represent the extraordinary power required to preserve union; King represents the unfinished obligation to make freedom real for people institutions have excluded, surveilled, or controlled. The scene prevents Eli and the Union from confusing procedural order with justice.
 - **Obstacle:** Eli needs routes and relays for defense. He assumes shared love entitles him to **solo** what the memorial showed must stay **chorus** — he tries to centralize under his voice after seeing polyphony on glass.
 - **Memorial cause — LOCKED 2026-07-26 (affirmative):** Wren **offers** consent-bound cooperation negotiated by members — the beloved-community form Eli saw working at Revelation. Her boundary is **building correctly**, not punishment. Love doesn't grant jurisdiction; **polyphony can't be requisitioned**.
- - **Emrys return — LOCKED:** Crane releases Emrys as a bargaining witness during the relocated-government negotiation, expecting his Göbekli expertise to validate registry infrastructure. Emrys is alive, physically marked by custody, and politically compromised; instead he confirms that Crane's standard grew from the same capture apparatus that took him. His testimony changes the terms of the compact but does not absolve him.
+ - **Qiao testimony — LOCKED:** Qiao appears during the relocated-government negotiation under institutional surveillance, expected to validate registry infrastructure. Instead she documents how Sanxingdui's clearance retaliation punished bounded custodianship and civilian evacuation. Her testimony changes the terms of the compact without making her a neutral oracle.
 - **Choice → Cost:** Wren withholds solo command access; **offers** member-negotiated cooperation instead — weaker logistically, structurally correct. Eli must recognize he tried to **solo the chorus** after seeing polyphony at the falls.
 - **Locked meaning:** love gives Eli no jurisdiction over what Wren built or the people who trusted her. The narrative honors her boundary without pretending it is costless.
 - **Relationship consequence:** the Eli/Wren bond is damaged but not theatrically broken. Eli must recognize that he tried to convert partnership into infrastructure. Rowan joins the network deliberation remotely from the west corridor and supports Wren's boundary without speaking for her; she also challenges any attempt to turn their formative bond into automatic alignment.
 - **Independent action:** Wren offers a narrower, consent-bound form of cooperation negotiated by the network's members rather than granted by her alone.
 - **Memorial function:** Wren and Eli leave without a reconciliation scene. The names remain irreducible; coexistence will not require shared interpretation, emotional unity, or forgiveness.
-- **Emrys return:** Emrys reappears as a compromised technical witness in the negotiations—alive, marked by Crane's custody, and unable to pretend that expertise is innocence. His testimony links the Göbekli capture to the registry standard without making him a neutral oracle.
-- **Pitch gate — end hook:** Wren's boundary stands; Emrys compromised witness; memorial names irreducible — **compact or collapse**.
+- **Qiao testimony:** Qiao appears as a compromised institutional witness in the negotiations—professionally barred, watched, and unable to pretend that expertise is politically innocent. Her testimony links Sanxingdui retaliation to the registry standard without making her a neutral oracle.
+- **Pitch gate — end hook:** Wren's boundary stands; Qiao's pressured testimony enters the record; memorial names remain irreducible — **compact or collapse**.
 
 ### Ch 6 — The Compact *(Eli/Wren · relocated government → Hawaiʻi invitation)*
 
@@ -195,7 +229,10 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   - several independent communities can revoke command;
   - Wren's network cannot be requisitioned without its members' consent;
   - identity registration is forbidden, while harmful conduct remains documentable and reviewable;
-  - emergency authority expires automatically;
+  - emergency authority expires automatically unless the compact's narrowly
+    defined continuity clause is triggered by a failed or compromised
+    certification; any extension remains recorded, reviewable, and directed
+    toward a new vote;
   - remedies, appeal, and post-crisis inquiry are mandatory.
   - no sex or age category creates an automatic duty to fight; defense roles require affirmative consent, rotation, the right to refuse, named casualty reporting, recovery care, and family notification by a person rather than a dashboard.
   - every major psionic, scientific, medical, or security decision carries an embodied account, a technical account, and a relational account; no one register can silently substitute for the others.
@@ -230,6 +267,15 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Place under pressure:** the new community has already accumulated ordinary attachments—water schedules, repair crews, local objections, children, growers, clinic work, and one threshold house built through negotiated permission. The war's displaced people threaten capacity and comfort, not because they are invaders but because every bed, boat, and water tank is finite.
 - **Learning:** local stewards teach Eli that refuge is **aloha under kuleana** — show up, care, take the duty that comes with the welcome, keep the island demilitarized. The communal armor is work gear for ash, heat, rain, and rescue—not battle armor or a crown.
 - **Hawaiian teachings — LOCKED 2026-07-26 (rev.):** hosts teach (by invitation) living practice, not tourist slogan. **Center: aloha + kuleana.** Do not turn every beat into an anti-ownership sermon.
+- **Artifact/station payoff — LOCKED 2026-07-28:** a growers' seed ledger
+  first proves the basalt ground is a transmission station carrying the bounded
+  wisdom of an artifact. Qiao's disputed-custody case then brings **the Forks**.
+  The lower primate divergence is partly testable; the upper bird/dragon
+  divergence arrives with a bounded nonhuman memory of panspermic intervention
+  but remains scientifically contested. The station transmits the artifact's
+  wisdom with provenance and objections attached; it does not originate the
+  message or transmit Eli's interpretation. Eli's decisive act is restraint:
+  possible survivors are persons, not proof to hunt.
   - **Aloha** — mutual presence and care (*alo* presence/face + *hā* breath in common teaching gloss); the living “aloha philosophy.” Not greeting-card “hello.” Includes **aloha ʻāina**. Soft spa packaging may appear as Drift/tourist residue that locals correct.
   - **Kuleana** — **right and responsibility** together. Primary civic lesson for temporary crown, compact, and armor: welcome comes with duty; beds, water, and harbor are finite. Street gloss: **right and responsibility**.
   - **Mālama ʻāina** — tend the land; ecology sets how wide the door can open.
@@ -239,11 +285,20 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   - **Wayfinding** (light texture) — know by attending.
   **Guards:** (1) Native Hawaiian hosts teach; (2) not utopia — hierarchy, conquest, and political violence may be named; (3) research/consultation before prose; (4) keep Hawaiian and Hopi lessons distinct. Spoken throughline: *Aloha without kuleana is a postcard.*
 - **Command horror:** Eli must send a harbor-and-grid crew to hold an exposed corridor against a landing and synchronized drone assault. Most are men, and several volunteer in the strained way men volunteer when everyone is watching who will stand up. The scene stays with names, banter, bad equipment, fear, bowel and bladder, blast pressure, burns, confusion, and failed extraction; it never cuts from the order straight to a clean tactical result.
+- **Divided Extra agency:** former Extras appear on opposing and nonaligned paths:
+  Sol volunteers, consent-bound defense crews, independent rescue teams, and men
+  who refuse the battle entirely. A defense drone strikes a man approaching a
+  perimeter to ask for entry; the resulting inquest is mandatory even while the
+  wider attack makes the mistake easy to excuse.
 - **Pele dream:** before or during arrival, Eli dreams of a presence understood through the name and stories of Pele. The dream appears to require that he kneel and swear an oath. Final terms are reciprocal service and humility before the place; the community can decline the awakening. **Quiet ownership beat only here** (not the chapter’s thesis): he is not crowned by the encounter; revelation grants no command over unwilling people. Research/consultation before prose; Pele is not a generic volcanic oracle.
 - **Kneeling:** Eli kneels voluntarily as humility and relation, not submission to a new sovereign.
 - **Communal armor:** after the oath, local makers, healers, boatworkers, refugee engineers, and threshold-house members fit Eli with practical, uncomfortable, repairable armor for heat, ash, pressure, field exposure, and attack — **kuleana** made wearable: equipment and duty, not a costume.
 - **Seed/payoff:** Eli first discovers a frightening version of this capacity during the Pelangi Reach rescue and again when the Hawaiʻi stones answer the network. He can override dissent, enter every available carrier, and force synchronization. It would probably save more people at the distant corridor, but using the refuge as a command instrument would destroy the refuge's consent.
- - **Intermediate near-use — LOCKED:** during the Washington evacuation, Eli briefly begins synchronizing a panicked convoy without consent; Wren breaks the contact and one family loses its safe route. Eli experiences the capacity as efficient, intimate, and wrong before Hawaiʻi makes the temptation catastrophic.
+- **Intermediate temptation — REVISED IN DRAFT:** during the Washington
+  evacuation, Eli attempts to requisition Wren's whole route network under
+  personal command. She refuses; the west bridge falls before enough voluntary
+  replies arrive. The cost is real, but the novel preserves actual
+  force-synchronization for the Hawaiʻi crisis rather than repeating it early.
 - **Turn:** the voluntary network beyond Hawaiʻi begins to fail. Eli cannot escape the knowledge that coercion would work, but learns that a refuge cannot survive by becoming the thing people fled.
 - **Pitch gate — end hook:** Temporary crown worn with expiry; corridor crew ordered by name; coercion temptation named — **limit coming in Ch 8**.
 
@@ -257,13 +312,15 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **No vindication:** the novel does not prove that coercion would secretly have failed. Crane may be correct that it would have saved these lives.
 - **Victory:** enough independent communities remain connected to repel capture, evacuate civilians, and continue cooperation after immediate necessity passes. No permanent commander, registry, cult, or army-state emerges.
 - **Continental Union survival:** the Union's eventual victory is adaptive rather than military. When San Francisco's command center fails, secondary cities, ports, farms, clinics, Indigenous governments, and local administrations continue operating. The Union can survive only by accepting distributed authority, redundant corridors, non-centralized records, renewable emergency powers, and meaningful exit rights.
-- **Crane:** contained through the coalition's procedures and evidence—including Emrys's testimony and Hassan/Sora's records—not personally pardoned or sentenced by Eli. His diagnosis survives even as his claim to permanent ownership fails.
-- **Eli:** the emergency condition ends; his authority expires. He does not renew it through acclaim, necessity rhetoric, or romantic approval.
+- **Crane:** contained through the coalition's procedures and evidence—including Qiao's testimony and Hassan/Sora's records—not personally pardoned or sentenced by Eli. His diagnosis survives even as his claim to permanent ownership fails.
+- **Eli:** the immediate attack condition ends and he initiates the compact's
+  inquiry and transfer procedure. His authority has not yet expired; Book III
+  must show concrete preparation to surrender it before the handover is attacked.
 - **Armor removed:** once the attack ends, Eli removes the armor before the hearing. No one treats it as his permanent title; its maintenance and use remain subject to community permission.
-- **Tao 65 / teach not-knowing (LOCKED 2026-07-25):** holding the line against forced sync **is** governing without cleverness — dramatize, do not recite (`54_the_lay_verses.md` Ch 27; `54_liturgies.md` § Book III finale). Optional threshold tile after authority expires.
+- **Tao 65 / teach not-knowing (LOCKED 2026-07-25; moved 2026-07-28):** holding the line against forced sync **is** governing without cleverness—dramatize, do not recite. The optional threshold tile after authority finally expires moves to Book IV.
 - **Pitch gate — end hook:** Named death + threshold house lost; war continues elsewhere; emergency authority **expires** — hearing owed.
 
-### Ch 9 — The Hearing *(Eli · Hawaiʻi Island civic room)*
+### Ch 9 — The Hearing Begins *(Eli · Hawaiʻi Island civic room)*
 - **Parade Liturgy — Eli speaks (LOCKED 2026-07-25):** F8 as inquiry testimony (*I alone don't know* — honest limit, not performance); one listener answers a line with him; not yet full service (`54_liturgies.md` § master map).
 - **Tao 65 / teach not-knowing (LOCKED 2026-07-25):** supporters/enemies both want Eli to **fill the room with answers** (vindication or sacrifice). He refuses — testimony stays provisional. **Parallel negotiation** enacts Ch 27: peace terms survive **without Eli as guarantor**; communities find their own way while he is under sanction (`54_the_lay_verses.md` Ch 27; `54_liturgies.md` § Book III finale).
 
@@ -271,7 +328,15 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Obstacle:** supporters want a ceremonial vindication, enemies want a symbolic sacrifice, and Eli's usefulness tempts everyone to exempt him from ordinary consequence.
 - **Hoʻoponopono rhyme — LOCKED 2026-07-26:** local hosts or stewards may frame the hearing as **setting things right in relationship** (living practice / analogy — Eli does not officiate). Inquiry = repair and accountability, not acquittal theater. Aloha does not cancel kuleana; care does not erase cost.
 - **Inquiry scope:** the refugee he sponsored; whether safeguards were adequate; the death in Chapter 3; uses of emergency authority; why the holding action fell disproportionately on men; whether their consent was materially free; the people and place lost in Chapter 8; lifetime care, reparations, future safeguards, and Eli's eligibility to command again.
-- **Choice → Cost:** Eli testifies without controlling the conclusion and accepts restrictions on his future authority. The exact sanction may be decided in drafting, but it must be real.
+- **Cloister compact begins here:** Extra men, veterans, Harbor Thread elders, and
+  Eli propose a keeping-order built from repair, watch, care, restraint, appeal,
+  and the right to leave. Extra participants hold authorship and veto. Weaver
+  houses may share practices but cannot select initiates, certify mate-worthiness,
+  or confer legitimacy.
+- **Choice → Cost:** Eli testifies without controlling the conclusion and accepts
+  that restrictions and transfer will be real. Certification, sanction, and
+  succession remain incomplete when the hearing delegates move toward the formal
+  handover.
 - **Survivor:** Amara Okafor may acknowledge the process while still refusing Eli forgiveness.
 - **Civic proof:** an anomalous person accepts accountability without surrendering ownership of their nature; ordinary people constrain power without declaring a class of persons state property.
 - **Local authority:** residents and the stewardship body can limit or revoke federation activity on their land. Eli's sanction and the community's continued permission are separate decisions; neither he nor the federation controls both.
@@ -279,9 +344,45 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Parallel negotiation:** the hearing prevents Eli from becoming the indispensable personal guarantor of the peace. Commissioner Ma, Union physicists, Free Port representatives, teahouse researchers, and affected communities must produce enforceable terms that survive Eli's sanction and possible absence.
 - **Pitch gate — end hook:** Sanction real; Wren/Eli continue with separated jurisdiction; peace terms must survive **without Eli as guarantor**.
 
-### Ch 10 — The Shared Garden *(Eli · Hopi lands → Colorado mountains)*
+### Ch 10 — The Broken Handover *(Eli · constituent assembly / provisional court)*
+
+> **REBUILD LOCK 2026-07-28:** The former shared-garden/trilogy-coda material
+> retained below is quarry for the eventual Book IV coda. The active Chapter 10
+> job is the constitutional handover, coordinated attack, continuity-clause
+> extension, institutional rise, and deniable Rowan/Eli attraction seeds. Sex,
+> romance, conception, and pregnancy belong to Book IV.
+
+- **Want:** complete certification, transfer command, and make the compact work
+  without Eli as personal guarantor.
+- **Attack:** a coordinated strike kills, scatters, or compromises enough
+  delegates, records, and intended successors that no replacement can be
+  credibly authenticated. Different court factions exploit different parts; do
+  not reveal one mastermind.
+- **Weaver rise:** Wren, Rowan, Asha, and multiple houses evacuate delegates,
+  preserve living attestations, restore trusted messages, and place survivors.
+  Their success makes Weaver participation in formal government unavoidable and
+  dangerous.
+- **Cloister rise:** Extra men, veterans, Thread elders, repair crews, and the
+  forming cloisters hold the perimeter, move casualties, restore infrastructure,
+  and prevent abandoned fighters from being remobilized without consent. Their
+  success gives them public standing, force, and direct leverage over Eli.
+- **Continuity clause:** the pre-existing compact retains Eli only until a
+  successor can be credibly certified. The extension is bounded and reviewable;
+  factions immediately acquire incentives to prolong it.
+- **Rowan/Eli charge:** their direct political intimacy remains nonsexual and
+  non-romantic. One final dual-reading beat may make a future crossing possible
+  without promising it. Wren/Rowan and Wren/Eli remain intact.
+- **End hook:** Eli still holds the crown he prepared to surrender, and the two
+  grassroots institutions now stand inside government. The court exists before
+  it has an heir story to organize around.
 
 - **Time:** enough has passed that cooperation is no longer forced by battle.
+- **Cloister proof:** the Colorado residence is maintained and governed by its
+  first cohort—former Extras, veterans, a Thread elder, and other men who chose
+  the work—not by Eli. One resident remains unmarried and outside any household;
+  his protection and standing are unremarkable. Another leaves without erasure.
+  In ordinary speech, *Extra* has begun to sound like the slur it always was
+  rather than a category a gate may enforce.
 - **Governance:** Hawaiʻi remains a locally invited refuge under conditional, renewable use rights. After the hearing, Eli travels by invitation through Hopi lands and then reaches a Colorado mountain settlement built through negotiated land, water, and local governance. The Colorado community is one node among Pelangi Reach, **Thailand river cooperative**, clinic, threshold-house, open-Albion, Hawaiʻi, and Hopi-connected networks—not their capital.
 - **Teahouse beginning — LOCKED 2026-07-21:** the Colorado node includes an early teahouse at the public threshold: tea, baseline meditation, private observation records, ordinary work, health/recovery measurement by consent, and a small cloister residence. It is one beginning of the wider pilgrimage network, not its headquarters. Stronger charged-ground access is treated as site-specific research clearance, never spiritual promotion. The mature system may be implied through later routes and replication, but the chapter shows it through conduct rather than explaining the entire future (`50_teahouse_pilgrimage.md`). **Parade Liturgy — first full service (LOCKED 2026-07-25; body score 2026-07-26):** seasonal gathering uses the complete antiphon from `54_liturgies.md` — **not Eli-led**; counter-instrument after messiah pressure peaks. **Body score:** one bell → silence → heel-to-toe ring or slow spiral while *I alone* is answered → two choruses weave (hold center / thread through) → clap starts messy, locks, **last clap missing** → tea/wash/garden. Cube finished every phrase; this room leaves a beat empty. Seeds planted Vol I (Cube, Malacca kids, Pai staff, wat rounds, Göbekli gathering). Full bank: `54` § *Body score*. **Tao 65 / Ch 27 (LOCKED 2026-07-25):** host speaks one-breath *Teach not-knowing* **after** Parade service, then ordinary work — pairs F10 coda on garden wall; Eli **enacts** Ch 27 at outer threshold (pour tea, ask what visitor observed). **Partial Parade** may land Ch 7 post-limit meal if needed — not both full forms before Ch 10.
 - **Field-sail proof / peace:** enough time has passed for Union, Mandate, and independent teams to reproduce a small anomalous change in a test mass or orbital object's motion under preregistered conditions. The result establishes the joint civilian program and a limited ceasefire with inspection, distributed custody, and a ban on captive psionic pilots. Construction remains years away. Commissioner Ma may attend the teahouse as a negotiating equal; the scene does not become a launch ceremony (`51_field_sail_and_mandate_peace.md`). **Epistemic rhyme (LOCKED 2026-07-25):** field-sail = **scientific method as not-knowing** — hypothesis, replication, revision; ship not launched; adventure open. Same floor as Ch 27 / Tao 65 and *Let's test it*.
@@ -294,7 +395,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Eli:** serves within a sailboat crew and still takes instruction. He is useful but replaceable. At the teahouse he teaches and receives visitors at the outer threshold rather than occupying an inner sanctuary; public messianic projection survives, but his ordinary standing becomes a daily institutional fact.
 - **Armor's afterlife:** the armor hangs in a shared workroom or returns to its makers for repair. Eli may wear it again only by consent and need; the image does not become a relic or crown.
 - **Wren:** affectionate without merger; she retains work, routes, loyalties, and authority that do not belong to either partner.
-- **Rowan:** arrives on a scheduled west-corridor/keeper rotation rather than relocating for romance. She and Wren share ordinary intimacy in the social world without spectacle; Rowan also works, disagrees, and leaves on her own timetable. Eli and Rowan coordinate one practical task directly, confirming respect without romantic convergence.
+- **Rowan — MOVE TO BOOK IV CODA:** she and Wren share ordinary intimacy without spectacle; Rowan also works and disagrees on her own authority. Her direct romance with Eli remains distinct from Wren/Eli and Wren/Rowan.
 - **Unforgiven:** Amara Okafor can share the social world without forgiving Eli. Coexistence does not require emotional unanimity.
 - **Final recognition:** Eli is wanted there, but he is not indispensable. Continuity can include him without belonging to him.
 - **Rootbook afterlife:** Eli adds an observation rather than a final doctrine. Other hands have already corrected his wording in the margin. The open, annotated book remains on an ordinary shelf or worktable, useful because its relationships can be tested again.
@@ -302,9 +403,11 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Closing rhyme — the birds — LOCKED 2026-07-23 (reserved from Book I Ch 1):** the last ordinary hour returns the first. Eli is up before the others and watches a colony go out to feed — mountain swifts here, not the Pelangi swiftlets, so it is a rhyme and not a relic. **The whole weight is that this is a chosen morning:** he had the crown, the amplifier's road, the permanent office, and a network that wanted him at its center, and he is standing in the cold with a hose over his shoulder because he prefers it. Nobody comments on the birds, nobody names the echo, and the text does not explain it — a reader who has been there since page one will feel it, and a reader who hasn't loses nothing. **Restraint:** no dead birds, no omen, no bird that behaves meaningfully. If the image needs a line of help, cut it.
 - **Mei's ledger:** she is present or reachable, and the Book I hearth is not restored — the point is that he can be wanted by people he failed without being absolved by them.
 - **Outward horizon:** the field-sail measurements continue quietly behind the tea scene. Humanity has not reached the stars; former enemies have agreed to begin building the means together.
-- **Pitch gate — end hook (trilogy close):** Ceasefire process begun; shared garden; swifts rhyme Ch 1; **wanted, not indispensable** — no throne, prophecy, or sequel war hook.
+- **Pitch gate — MOVE TO BOOK IV CODA:** ceasefire process begun; shared garden; swifts rhyme Ch 1; **wanted, not indispensable**.
 
-Do not close on a prophecy, throne, cosmic voice, explanatory speech, or new amplifier. Do not tease another future war: the new war in this book remains an unresolved human condition rather than a sequel hook. The extraordinary has not vanished; it has become compatible with an afternoon nobody turns into destiny.
+**Book IV coda guard:** the eventual series ending must not close on a prophecy,
+throne, cosmic voice, explanatory speech, or new amplifier. The extraordinary
+becomes compatible with an afternoon nobody turns into destiny.
 
 ---
 
@@ -332,4 +435,6 @@ Do not close on a prophecy, throne, cosmic voice, explanatory speech, or new amp
 - The spiritual commonality hinted across traditions is not that all religions are interchangeable. Each can preserve, distort, or rediscover its highest claims; none is Eli’s endorsement machine.
 - The talking stones are not a magical property deed or shortcut around local governance.
 - The armor is communal equipment, not evidence that Eli has been chosen to rule.
-- Eli ends as an answerable participant, not a hidden ruler, saint, martyr, or indispensable founder.
+- Eli ends Book III as a bounded ruler retained by the continuity clause, not an
+  unreviewable sovereign. He ends the series in Book IV as an answerable
+  participant, not a hidden ruler, saint, martyr, or indispensable founder.

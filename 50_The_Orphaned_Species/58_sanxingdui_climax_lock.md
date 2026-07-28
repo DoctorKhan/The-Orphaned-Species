@@ -2,13 +2,13 @@
 
 **STATUS: AUTHORITATIVE — LOCKED 2026-07-26.**
 
-This document supersedes every earlier allocation that places the Gulf, Mesopotamian archive, Taş Tepeler circuit, or Göbekli climax in Book I; delays Sanxingdui to Book III; leaves Rasel off-page after Book I; or makes Book I end only with Emrys's capture.
+This document supersedes every earlier allocation that places the Gulf, Mesopotamian archive, Taş Tepeler circuit, or Göbekli climax in Book I; delays Sanxingdui to Book III; leaves Rasel off-page after Book I; retains Professor Emrys; makes Wren a pre-Book-II extraction operator; or pays for Rasel's recovery with another captive.
 
 ## New trilogy hinge
 
 | Volume | Emotional promise | Discovery / action climax | Ending |
 |---|---|---|---|
-| **I — The Breach** | Find the father | **Sanxingdui:** Eli recognizes the distributed Tree of Life and chooses its living route over a controllable machine interface | **Rasel recovered; Emrys taken; Maren revealed as an early builder who later resisted** |
+| **I — The Breach** | Find the father | **Sanxingdui:** Eli recognizes the distributed Tree of Life and chooses its living route over a controllable machine interface | **Rasel recovered; Wren displaced; Maren revealed as an early builder who later resisted** |
 | **II — The Descent** | Find the mother | **Göbekli → Mesopotamia → Europe → Albion:** the group discovers how living connection became selection, classification, and controlled access; Eli finds and releases Maren | Mother released; awakening spreads without adequate social form |
 | **III — The Living World** | Build a world capable of holding awakened capacity | Registry crisis, war, bounded authority, public inquiry, reciprocal Two-Tree institutions | Eli steps down into answerable membership |
 
@@ -18,7 +18,7 @@ This document supersedes every earlier allocation that places the Gulf, Mesopota
 
 The route remains geographically coherent inside maritime and Asian worlds. The Thailand-to-Gulf travel, Mesopotamian archive, Taş Tepeler circuit, and Göbekli permit race move out of Book I. Bangladesh remains off-page through Shireen, food, language, and Rasel's gardens.
 
-The growing band in Thailand does **not** point west to one sacred capital. Its geometry and periodic behavior correspond to data in Rasel's Mandate research. The surviving cooperative record, Maren's bounded Rootbook page, Edda's true statement that Rasel lives, and Emrys's independent measurements jointly point north toward a Mandate research collaboration in Sichuan.
+The growing band in Thailand does **not** point west to one sacred capital. Its geometry and periodic behavior correspond to data in Rasel's Mandate research. The cooperative's own surviving measurements, Maren's bounded Rootbook page, Edda's true statement that Rasel lives, and Rasel's coerced coupling series jointly point north toward a Mandate research collaboration in Sichuan.
 
 Sanxingdui is not “Eli's clue” and does not await him. Chinese archaeologists, conservators, historians, and local custodians already possess the objects, documentation, and interpretive authority. The plot brings Eli there because **Rasel is there** and because the Mandate apparatus has attempted to operationalize a field relationship discovered through legitimate conservation and materials research.
 
@@ -70,15 +70,20 @@ Edda's Gulf/route offer that “Rasel Khan is alive” remains **true**, but the
 
 - **Eli:** receiver and embodied bridge, never sole source.
 - **Rasel:** field physics and sabotage knowledge.
-- **Wren:** evacuation, route, and consent under pressure.
-- **Emrys:** empirical distinctions and the fatal map-over-territory choice.
+- **Wren:** intake logistics, translation, evacuation, and consent under pressure.
+- **Wren's cultural bridge:** Wren is Malay-Chinese and grew up with Mandarin,
+  Malay, English, port shorthand, and Chinese cultural conduct. Her family taught
+  her how to move through language, food, elder etiquette, paperwork, and public
+  rooms, but not the specialist details of Sanxingdui or Ancient Shu. She gets the
+  group to Luo and Qiao because she knows how to ask without claiming. She does
+  not interpret the objects or speak for Sichuan custodians.
 - **Chinese archaeologist/conservator and local staff:** custodianship, material knowledge, refusal of extractive interpretation, and control of access.
 - **Edda and Custodians:** managed-danger argument and attempt to register the event.
 - **Sora:** first costly operational betrayal, protecting civilians or releasing a route.
 
 ### Required action
 
-- The apparatus activates during a containment / extraction attempt.
+- The apparatus activates during a containment attempt.
 - Civilians and staff are caught inside a synchronized attention or signature event.
 - Eli is offered the clean machine read and immediate access to Rasel.
 - He recognizes the old command to become indispensable.
@@ -86,9 +91,18 @@ Edda's Gulf/route offer that “Rasel Khan is alive” remains **true**, but the
 - Success requires several people acting without one controlling consciousness.
 - The people survive; the clean record is broken or rendered non-proprietary.
 - Rasel escapes with Eli's group.
-- Emrys is captured because he remains with the documented apparatus / map long enough to preserve evidence or cover Rasel's exit.
+- Wren authenticates the civilian evacuation with her own name and Babaji-linked
+  intake standing when anonymous instructions would fail. The people get out, but
+  the act burns her employment, travel standing, and safe return to Pelangi Reach.
+  She leaves Sanxingdui physically free and socially displaced.
+- Qiao and Luo preserve the legitimate record through ordinary institutional
+  custody. Qiao is not taken. She loses clearance and access to the conservation
+  work; Luo remains under formal scrutiny for the access she authorized.
 
-Emrys's capture is the direct price of Rasel's recovery. Eli leaves with his biological father and loses the man who became a surrogate father.
+No new captive pays for Rasel's recovery. The costs fall in different currencies:
+Wren loses standing and homeward passage; Qiao loses work and access; the local
+institution absorbs surveillance; Eli receives a father who cannot restore the
+years taken from them.
 
 ## Required aftermath
 
@@ -101,8 +115,9 @@ The closing movement must include:
 - Rasel correcting at least one idealized childhood memory;
 - Eli's anger that Rasel survived but did not return;
 - Rasel refusing easy absolution;
-- Emrys's empty place made material;
-- a first credible disclosure about Maren.
+- Wren's unusable papers and the impossibility of returning to her old desk made
+  material;
+- a first credible disclosure about Maren — including the book's **first dated proof of life** (see below).
 
 ### Book II wound
 
@@ -110,13 +125,18 @@ Rasel reveals:
 
 > Maren was not merely taken for discovering the system. She helped build its early neural-signature tools before she understood—or admitted—what they would become. She later sabotaged the work and disappeared into the Charkha chain.
 
+**Dated proof of life — LOCKED.** The same disclosure must carry a **when**, not only a *what*: a courtesy request routed Mandate-to-Charkha **two winters ago** reached Rasel carrying Maren's correction in her own hand. Ch 1 gave Eli decade-old hearsay from Mei (*taken, not killed; not a map*); this is the first evidence that his mother is breathing **now**. It must arrive in the same breath as the complicity, so the proof and the wound are one sentence and neither can be enjoyed alone. Book I then exits on a living woman, not a routing code.
+
 This does not make Maren secretly evil. It makes Book II's question moral rather than logistical:
 
 > Can Eli love and free his mother without requiring her to be innocent?
 
 ## Book II relocation
 
-Book II begins with Rasel physically present and Emrys absent.
+Book II begins with Rasel physically present and Wren present but displaced. She
+remains a house Weaver and Knotter, but has no extraction ring or hidden operator
+identity to fall back on. Her encounter with Rowan's west-corridor Weft begins
+her recovery and network-building work; it does not reveal a secret Book I life.
 
 The route moves west through the evidence chain toward Maren:
 
@@ -138,14 +158,14 @@ Göbekli retains:
 - the Bridge plaquette;
 - Aru and Daskar threads;
 - the consortium's ownership reading;
-- the map-over-territory consequence, now investigated without Emrys physically present;
+- competing map-versus-ground readings, assigned to institutions, Eli, and local experts rather than a traveling scholar;
 - the partial selection/control scar.
 
 It no longer carries:
 
 - the Book I climax;
 - Rasel's first reunion;
-- Emrys's capture;
+- any surrogate-father capture;
 - the first completed personal Manual Override.
 
 Eli completes his first personal Manual Override at Sanxingdui.
@@ -192,6 +212,5 @@ Preserve useful prose, research questions, objects, and conflicts for relocation
 
 1. Replace Book I Chapters 11–13 with a northbound Sichuan sequence and full Sanxingdui climax.
 2. Draft the Rasel reunion and Maren disclosure.
-3. Rebuild Book II scene cards around Rasel-present / Emrys-absent and the relocated Mesopotamia–Göbekli sequence.
+3. Rebuild Book II scene cards around Rasel-present, Wren-displaced, and the relocated Mesopotamia–Göbekli sequence.
 4. Run stale-route reconciliation across every summary, pitch, glossary, and production checklist.
-

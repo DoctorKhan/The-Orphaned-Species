@@ -1,5 +1,7 @@
 # The Field Sail and the Mandate Peace
 
+> **SUPERSEDED 2026-07-27:** This document's field-sail premise is retired. The governing Book III space-travel mechanism is **complex time** and lateral/sideways temporal movement (`29` § Complex time and Mandate peace). Preserve this file as historical quarry only; do not treat field-sail construction or field-sail ceasefire language as current canon.
+
 > **Status: LOCKED 2026-07-21.** Book III discovers an unfinished Continental Union physics program whose completion opens a practical road to space. The Union has theory and anomalous records; the Eastern Mandate has the industrial system capable of building the first full-scale craft; the Free Ports and teahouse network supply open verification, routes, and consent-bound field research. No bloc can finish or safely control the project alone. The resulting scientific compact creates the material basis for ceasefire and negotiated peace. Companion to `23_2040_present_frame.md`, `26_present_day_cast_expanded.md`, `29_trilogy_plot_and_development.md`, `33_volume_III_beatsheet.md`, `34_two_energies_and_planes.md`, and `50_teahouse_pilgrimage.md`.
 
 ## Governing dramatic function

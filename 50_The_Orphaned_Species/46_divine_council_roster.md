@@ -127,7 +127,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | **Rival bloc operator** | Unnamed prince of Persia/Greece blocking a message | Dan 10:13, 20 ◆ |
 | **Messenger/transmitter** | One who carries word between planes — often misread | **Gabriel** (Dan 8–9) ◆ |
 | **Healer/guide (late)** | European church compression | **Raphael** (Tobit — use sparingly) ◇ |
-| **Apocryphal elevation** | Human or practitioner **misremembered as angel** | **Metatron**, **Sandalphon** (3 Enoch) ○ — rhyme with **Seven / chair-transmitter** folklore, not literal beings |
+| **Apocryphal elevation** | Human or practitioner **misremembered as angel** | **Metatron**, **Sandalphon** (3 Enoch) ○ — rhyme with **Seven / human-transmitter** folklore, not literal beings |
 
 **Psalm 82 is the hinge:** the council is judged and sentenced to *die like men* — so later ages could only remember them as **angels** ( diminished gods), not as living administrators on the ground.
 

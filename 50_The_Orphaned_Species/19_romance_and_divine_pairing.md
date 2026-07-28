@@ -489,9 +489,9 @@ Lesson:
 
 > Love is not less sacred because it is chosen in time.
 
-## Rowan returns — plural V, not triad (LOCKED 2026-07-22)
+## Rowan returns — plural V, not triad (LOCKED 2026-07-22; jealousy architecture 2026-07-28)
 
-**Governing structure:** Rowan returns on-page in Book II and renews her romance with Wren. Eli/Wren also remains a developing romantic bond. Rowan/Eli is not romantic. The result is a **V centered on Wren**, held through disclosure, consent, and separate terms for each bond—not a competition, closed triad, or automatic group relationship. Rowan has an independent west-corridor objective and cannot exist to validate or threaten Eli's desirability.
+**Governing structure — Book II:** Rowan returns on-page in Book II and renews a continuing romance with Wren. Eli/Wren also remains a developing romantic bond. Rowan/Eli is not romantic. Book II therefore forms a **V centered on Wren**, held through disclosure, consent, and separate terms for each bond—not a contest with one eventual winner, closed triad, or automatic group relationship. Rowan has an independent west-corridor objective and cannot exist merely to validate or threaten Eli's desirability. Her return **does** provoke jealousy; the jealousy exposes Eli's fear of insignificance and must never reduce Rowan or Wren/Rowan to a device. Book III preserves this non-romantic structure while planting only deniable charge; the Rowan/Eli bond changes category in Book IV.
 
 Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already coordinated with Wren before Eli understands their history. **Softer register than Wren** — warmth without hostess performance, cost visible in the face (`26` § Rowan). **Heritage / look — LOCKED 2026-07-25:** **British / Irish diaspora** (strait corridor); **blonde hair, blue eyes.** Wren is **Malay Chinese**, dark hair — visual contrast may register; neither woman staged for comparison. If Wren reads exits, Rowan remembers costs.
 
@@ -499,9 +499,9 @@ The weak question is *whom will Wren choose?* The strong question is: **can two 
 
 ### Separate bonds, separate obligations
 
-**Wren / Rowan:** formative Weaver bond, shared history, renewed embodied romance. It needs scenes and decisions that do not orbit Eli: the missing-person recovery, old humor, operational disagreement, mutual disclosure, ordinary tenderness, and a clear choice to resume intimacy. Rowan's prior history grants knowledge, not priority or ownership.
+**Wren / Rowan:** formative Weaver bond, shared history, renewed embodied romance. This is a romance of **recognition**: shared Weaver language, bodily familiarity, recovered trust, old desire, and the experience of reclaiming something interruption changed but did not make false. It needs scenes and decisions that do not orbit Eli: the missing-person recovery, old humor, operational disagreement, mutual disclosure, ordinary tenderness, and a clear choice to resume and continue intimacy. Rowan's prior history grants knowledge, not automatic priority or ownership.
 
-**Wren / Eli:** emergent bond formed through danger, recognition, boundary, and chosen present-tense commitment. Eli may not treat exclusivity as proof he was chosen or use his uncertainty to demand access to Wren/Rowan's private history.
+**Wren / Eli:** emergent romance of **discovery**, formed through danger, emotional naming, grounding, boundary, chosen tenderness, and a future made deliberately together. Eli may not treat exclusivity as proof he was chosen or use his uncertainty to demand access to Wren/Rowan's private history. He does, however, need and receive positive evidence that he is not incidental: Wren names what she wants with him that belongs specifically to their bond and gives that bond undivided, consequential attention.
 
 **Rowan / Eli:** direct, respectful, **non-romantic** relationship. They speak without Wren translating. Rowan may challenge how Eli's quest consumes routes; Eli may challenge Rowan when protecting the Net obscures an individual. Neither approves the other's bond with Wren. **Emotional asymmetry — LOCKED 2026-07-25:** Rowan is **softer** than Wren (visible grief, less operator polish, person-first patience). Eli enters their shared scenes **emotionally stronger** — Book I's feeling-work with Wren pays off: he names, waits, and co-regulates without collapsing or demanding care. Rowan does not mother him; Eli does not lean on her the way he leaned on Wren early. At least one beat per major shared scene: Eli holds plain speech or boundary Rowan cannot armored her way through — peer strength, not messiah display.
 
@@ -519,9 +519,31 @@ Renewal requires five beats:
 
 ### Character errors
 
-- **Eli:** mistakes exclusivity for proof that he has finally been chosen. He learns that love can be real without making him its center.
+- **Eli:** Rowan's return makes him feel **rejected, deprioritized, and provisional**. The women's bodily ease seems to prove that Rowan is the real love and he was what happened during an absence. He initially mistakes exclusivity for the only reliable proof that he has finally been chosen. He learns that distinct significance—not supremacy—is what he needs: Rowan cannot occupy his place because she does not share his bond with Wren, just as he cannot occupy hers.
 - **Wren:** mistakes managing danger for maintaining love. She learns to disclose, ask, and let each bond retain its own boundaries.
 - **Rowan:** risks treating formative history as superior knowledge of who Wren truly is. She learns that knowing Wren before Eli does not grant a prior claim on Wren's future.
+
+### Jealousy, priority, and being chosen
+
+The jealousy must be emotionally credible rather than corrected by doctrine. Wren
+and Rowan coordinate before speech, remember each other's bodies, and resume a
+romantic register Eli has never seen. Eli may behave hurt, withdraw, or ask an
+awkward honest question; he may not punish Wren, demand a ranking, inspect the
+women's privacy, or convert pain into permission.
+
+Wren's answer is neither abstract reassurance nor equal-time arithmetic. She
+**chooses Eli too**. She identifies the life, tenderness, steadiness, and future
+that are particular to them, then proves the choice at a consequential moment by
+being fully present to their bond. This can make Eli a situational priority
+without establishing permanent supremacy. The same rule protects Rowan: when
+Wren is with either partner, that relationship is not treated as leftover time
+from the other.
+
+Eli's jealousy eases because he feels special and deliberately chosen, not
+because Rowan becomes less loved. The emotional discovery is that plural love
+can be asymmetrical without becoming a hierarchy: different histories, desires,
+obligations, erotic textures, and futures can all be real. Security comes from
+specificity, truthful conduct, and repair—not interchangeability or possession.
 
 ### Scene tests and guardrails
 
@@ -533,19 +555,51 @@ Renewal requires five beats:
 - Do not make the women's love ornamental, voyeuristic, or a temporary obstacle.
 - Do not make bisexuality or plural love exotic texture or effortless moral superiority.
 - Do not make Eli the judge or hidden center.
-- Do not force Rowan/Eli romance to make the structure symmetrical.
+- Do not cure Eli's jealousy by demoting Rowan, making the romances identical, or giving Eli permanent priority.
+- Do not pretend jealousy vanishes on contact with the correct politics; let Eli feel it, name it, and discover what it is actually asking for.
+- Do not force Rowan/Eli romance merely to make the structure symmetrical. Book
+  III contains only deniable attraction, no sex or romance. In Book IV they have
+  consensual sex several times **before** either names or assumes romance. Sex
+  grants no relationship status. Romance emerges only when repeated intimacy,
+  public work, disagreement, and ordinary care create an independently credible
+  bond.
 - Do not let formative durability become mystical compulsion.
 - No bond may claim destiny as settled consent.
 
 The required victory is not frictionless polyamory. It is that each bond becomes more truthful than the ownership models trying to contain it.
 
-## The three-volume romantic spine
+## The four-volume romantic spine
 
 > Volume I: Can I trust you with what I am?
 >
 > Volume II: Can I love you without using you?
 >
-> Volume III: Can I choose you without owning you?
+> Volume III: Can political trust deepen without being claimed, ranked, or
+> prematurely named?
+>
+> Volume IV: Can we make a household and a future without turning either into a
+> court, rank, or inheritance?
+
+**Book III–IV expansion — REVISED AND LOCKED 2026-07-28:** Book II ends as a V
+centered on Wren. Book III keeps that relationship shape. Rowan/Eli remains
+nonsexual and non-romantic; at most three dual-reading signals suggest a future
+possibility while retaining complete political explanations.
+
+In Book IV, Rowan and Eli consciously recognize mutual desire and have sex on
+several separate occasions before the bond becomes romantic. Neither uses sex as
+proof of love, status, access, or future obligation. Their romance develops later
+through physical familiarity, political work, disagreement, steadiness, and
+care. Wren neither brokers nor authorizes it, but material disclosure rules
+still apply. Rowan's wish for motherhood predates Eli. Early sex is contracepted
+and explicitly not a choice of father. Only after romance does Rowan choose Eli
+as co-parent and decide when to pursue conception.
+
+Book IV therefore develops three distinct romantic dyads: Wren/Rowan
+recognition, Wren/Eli discovery, and Rowan/Eli construction. The court tries to
+convert that chosen pregnancy into hierarchy—Rowan as consort, Eli as sovereign,
+Wren as mistress or official—and the relationships refuse without pretending
+the bonds are identical. Full architecture:
+`60_volume_IV_court_of_threads.md`.
 
 Or, more explicitly:
 
@@ -640,7 +694,16 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 
 ### Plural-bond note (LOCKED 2026-07-22)
 
-Rowan returns and Wren/Rowan renews romantically. Eli/Wren remains real; Rowan/Eli remains non-romantic. Each bond needs its own consent, conflict, tenderness, and exit rights. Wren may not use one relationship to regulate the other; Eli and Rowan speak directly rather than making Wren translate their limits. The formative Wren/Rowan bond is difficult to break because it is embodied and socially distributed, but **the bond remembers; the person still chooses**.
+Rowan returns and Wren/Rowan renews romantically. Eli/Wren remains real;
+Rowan/Eli remains nonsexual and non-romantic **through Book III**. Each bond
+needs its own consent, conflict, tenderness, and exit rights. Wren may not use
+one relationship to regulate the other; Eli and Rowan speak directly rather
+than making Wren translate their limits. Book III may plant only deniable charge
+after their direct bond has acquired an independent grammar. Conscious
+attraction, repeated sex before romance, and any later co-parenting decision
+belong to Book IV. The formative Wren/Rowan bond is difficult to break because
+it is embodied and socially distributed, but **the bond remembers; the person
+still chooses**.
 
 **Weavers' Net quiet-culture lock:** Wren's history belongs to an order whose discretion protects people from registries, platforms, and hostile kin — **everyone inside the house knows; no one outside is owed the knowing.** Render belonging through **Net conduct** (consent review, ledgers, knots, Weft letters), not a coming-out lecture or Malacca household set-piece. The Laleh failure is the personal test: Wren broke Weaver law while claiming Weaver care (`31` Ch 4).
 

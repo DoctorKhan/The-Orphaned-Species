@@ -107,11 +107,11 @@
 
 ## 5. Archaeology
 
-### 5.1 Younger Dryas as manipulated climate rupture — **[REVISED; impact non-load-bearing]**
-- **Claim (gloss):** the golden age ends when the Igigi sabotage the Anunnaki orbital/interface system. The Younger Dryas is the visible climate rupture caused or amplified by that sabotage; the later or staged loss of orbital hardware is the mythic "fall from heaven."
-- **Test:** Younger Dryas paleoclimate remains a real abrupt event; evidence continues to support major ocean-atmosphere reorganization, meltwater routing, volcanic/geochemical anomalies, rain-belt shifts, and regional ecological stress.
-- **Falsifier:** there is no need to defend Younger Dryas impact/airburst signatures. If platinum spikes, microspherules, or nanodiamonds fail replication, the cosmology does not fail; only an obsolete impact version fails.
-- *Note:* This is a deliberate guardrail. The Younger Dryas impact hypothesis has become too weak and too contested to carry the cosmology. Use it only as an in-world rumor, factional misreading, or discarded theory.
+### 5.1 Younger Dryas via thermal-nucleation craft — **[REVISED 2026-07-27; LOCKED]**
+- **Claim (gloss):** a low-kinetic technological/exotic **craft** nucleates catastrophic northern ice liquefaction without a bedrock crater; meltwater flush disrupts AMOC; Black Mat PGMs are ablative craft ash. **Event was unintentional** (crash/failure). Earth is ordinarily **studied as an experiment**; regular visitation avoided (Andaman analogy). Governing lock: `59_younger_dryas_nucleation_lock.md`. Owner/crew deferred.
+- **Test:** Younger Dryas paleoclimate remains a real abrupt event; evidence continues to support major ocean-atmosphere reorganization and meltwater routing. PGM / exotic-ash horizons may persist without a correctly dated primary crater or shocked-quartz footprint matching classical YDIH.
+- **Falsifier for classical YDIH only:** a required primary crater + chondritic match is *not* part of the lock. Failure of classical impact proofs does not falsify nucleation-craft canon.
+- *Note:* Classical YDIH stays contested in the reader world; in-story truth is zero-crater thermal nucleation **accident**, not kinetic comet and not intentional climate warfare.
 
 ### 5.2 Targeted-purge aDNA shows cross-kin selection, not local raiding — **[LIVE]** *(the sharp one)*
 - **Claim (gloss):** the gendered massacres are bloodline purges hunting the hidden carriers (Phase IX–X), screened at the stone sites.

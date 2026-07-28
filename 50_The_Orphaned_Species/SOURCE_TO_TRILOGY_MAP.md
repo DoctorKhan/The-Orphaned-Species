@@ -201,7 +201,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 ### Book II, Ch 3 — What They Took *(MIDPOINT)*
 - **Setting:** Thrace/Balkan holding site and recovered record.
 - **Maren suppression scene:** courteous Charkha machinery — how she was taken (`99` #Maren-suppression).
-- **Midpoint revelation:** mother's **body dead**; spirit **tethered** in western web — **no usable address**.
+- **Midpoint revelation:** mother **alive**, held west, **wired into the ground as its operator** — **no usable address**.
 - **Patriarchy rhyme:** keeper hand-to-hand vs registry father-above.
 
 ### Book II, Ch 4 — The Healer's Kneel
@@ -220,9 +220,10 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Setting:** Rollright / Men-an-Tol corridor.
 - **Anthea full-res:** sonic resonance; two ends of broken route; Lira carries chord (song, not bloodline).
 
-### Book II, Ch 7 — The Chair and the Tether *(volume end)*
-- **Setting:** Stonehenge relay → Avebury / Albion threshold.
-- **Cuno full-res** at bluestone configuration; lossy record.
+### Book II, Ch 9–10 — The Transmission Station / Release *(volume end)*
+- **Setting:** Stonehenge transmission station → Avebury / Albion threshold.
+- **Cuno full-res** at bluestone configuration; lossy routing and provenance
+  record for distinct artifact-wisdoms.
 - **Alba → Albion → elf** name beat (one earned line).
 - **England ambush** — instrumented boundary, not magic wall.
 - **Maren release** + **relational Manual Override** — volume end threshold (`32`).
@@ -294,7 +295,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Ila — The Midwife** | Full-res thread | `37` Part III ch 12 | South Asia rice/field ground | Healing touch, diagnostic conduit; first frightened *body-read* echo (Eli reads, does not heal); does not equate bandwidth with depth |
 | **Tem — The Hidden Son** | Full-res thread | `37` Part III ch 13 | 17:1 bottleneck grain-pit | Dream-walking, telepathy; the grain-pit as first instruction; dream-network rescues unrelated hidden children |
 | **Anthea — Singer of Frequencies** | Full-res thread | `37` Part III ch 14 | Albion resonant-stone | Sonic resonance; song as substance; different notes answer at two ends of a broken route; daughter Lira carries the chord |
-| **Cuno — Bluestone Mover** | Full-res thread | `37` Part III ch 15 | Stonehenge/Albion circle-center | Collective resonance; last firing; Derw gets geometry/rhythm/positions/spoken-fragment/object; chariots crest the rise |
+| **Cuno — Bluestone Mover** | Full-res thread | `37` Part III ch 15 | Stonehenge/Albion transmission station | Last forwarding under seizure; Derw gets geometry/artifact signs/routing checksum/witness marks/spoken fragment/object; riders crest the rise |
 | **Lovernios — Druid of Anglesey** | Full-res thread | `37` Part III ch 16 | Anglesey peat-bog / seed-catalog sink | Plant medicine, non-human mind; **Book II Ch 6** — paired with **bitter cup** threshold ceremony (`99` #bitter-cup); follows new growth where old line failed; gives seed-catalog to Nia; unsure it survives |
 | **Seven Pairs / Activation** | Watched-depth | `37` Part II ch 6 | Buried/coordinated ground (clarified directly) | 0.9 mya Seven Pairs; 17:1 clamp; genetic wall; the Key pulse — science-floor anchor |
 | **Living Gods / War in Heaven** | Watched-depth | `37` Part II chs 7–8 | Dragon-cadence summary ground (clarified directly) | Supervision era; Igigi sabotage; Younger Dryas rupture; planetary network fracture; Tiamat/Marduk |
@@ -367,5 +368,5 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Volume I capped:** **13 chapters**, opening directly with Eli and no historical or Maren/character prologue; backstory arrives through residue. Chapter 1 earns the hearth and the squeeze; Eli **leaves on schedule** (hearth suspended). Chapter 2 carries epic Meridian processing and the southern flight through the Malacca breach; Chapter 3 is aftermath. **Climax locked at Göbekli Tepe (Ch 13)**; incomplete override at **Thailand (Ch 10)**, completed personal Manual Override at Göbekli; **Emrys taken** at Göbekli. **Mekong draft retired.**
 - **Volume II locked spine:** opens post-Sanxingdui; Mesopotamia / Göbekli;
   Bosporus–Thrace/Balkan transfer and Maren truth; European dead zones / Pömmelte /
-  Stonehenge relay / Avebury; Maren release at Ch 10.
+  Stonehenge transmission station / Avebury; Maren release at Ch 10.
 - **Volume III locked spine:** refugee landing, real failure of freedom, Crane's workable standard, Wren's boundary, bounded emergency authority, costly non-coercion, public inquiry, and shared-garden coda.

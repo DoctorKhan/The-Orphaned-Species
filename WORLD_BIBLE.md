@@ -1,7 +1,15 @@
 # THE ORPHANED SPECIES — WORLD BIBLE
 _Locking document. Chapter drafts must not contradict what is specified here._
 
-> **HIGH PRIORITY — SANXINGDUI CLIMAX LOCKED 2026-07-26:** Book I now runs Pelangi → Meridian → Malacca → Thailand → **Sanxingdui**, where Eli recovers **Rasel**, recognizes the distributed **Tree of Life**, completes his first personal Manual Override, and loses **Emrys** to capture. **Göbekli / Mesopotamia move to Book II** on the westward route to Maren. Sanxingdui is ancient Shu material under legitimate Chinese custodianship—not an alien depot, lost Western colony, or cipher awaiting Eli. Governing lock and stale-material disposition: `50_The_Orphaned_Species/58_sanxingdui_climax_lock.md`.
+> **HIGH PRIORITY — SANXINGDUI CLIMAX REVISED 2026-07-27:** Book I runs Pelangi
+> → Meridian → Malacca → Thailand → **Sanxingdui**, where Eli recovers **Rasel**
+> and recognizes the distributed **Tree of Life**. Professor Emrys does not
+> exist. Wren authenticates the civilian evacuation with her own name, saving the
+> people and burning her employment, travel standing, and safe return. Qiao is
+> not captured; she loses clearance and access. No new captive pays for Rasel.
+> Governing lock: `50_The_Orphaned_Species/58_sanxingdui_climax_lock.md`.
+>
+> **YD MECHANISM — LOCKED 2026-07-27:** Younger Dryas physical cause is a low-kinetic thermal-nucleation **craft** (zero crater; meltwater → AMOC; ablative PGM ash). **Unintentional crash.** Earth ordinarily treated as **experiment/study**; regular visitation avoided (**Andaman** analogy). Owner/crew deferred. `50_The_Orphaned_Species/59_younger_dryas_nucleation_lock.md`.
 
 > **HIGH PRIORITY — LOCKED 2026-07-25:** Shelf, agent/back-cover copy, comps (*Da Vinci Code* / *National Treasure*), clue-chain obligations, and 10-point revision gate: **`50_The_Orphaned_Species/55_series_pitch_and_comps.md`**. Manuscript and beatsheets must pass the pitch test before prose is "done."
 
@@ -13,19 +21,84 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 
 **Taking / changeling guard — LOCKED:** “The taking” compresses several histories: actual extraction of gifted children and artists; recruitment or abduction into keeper/carrier communities; threshold illness that returns someone behaviorally changed; state substitution of a person with a file or compliant role; and cruel stories imposed on disabled, neurodivergent, ill, or failing-to-thrive people. The novel may validate disappearance, coercion, and altered states but must never imply that a disabled child is not human or that folkloric abuse was justified. Fairy doctors are remembered predecessors of threshold keepers: mixed local practitioners who knew protocols, plants, timing, family history, and repair, sometimes helping and sometimes causing harm. Female sovereignty figures such as Áine, Clíodhna, and Brigid preserve the claim that rule requires relationship with land rather than mere possession of it; they are regional traditions and presences, not interchangeable entries in a decoder ring. These older protocols anticipate the trilogy's coexistence test: neither kneel, burn, nor cage—learn how to live beside powerful neighbors without surrendering accountability.
 
-**ROWAN IN BOOK II / RENEWED ROMANCE — LOCKED 2026-07-22; heritage 2026-07-25:** Wren's former love **Rowan** appears on-page in Book II Chapters 5–7. She is **British / Irish diaspora** in the strait corridor (**not Bengali**), human, blonde, blue-eyed, and unconnected to a secret Sídhe bloodline. Name **Rowan** kept; rowan-tree protocol = coincidence once dismissed. Since separating from Wren she has remained inside the wider Weaver/mutual-aid ecology and now works as a west-corridor liaison protecting local keeper houses, displaced families, and people returned from threshold events. Her present objective is to recover a missing person and keep the local corridor from becoming infrastructure for Eli's quest, Wren's custody system, or any faction registry. Her reunion with Wren develops into a **renewed romance in the present**, not nostalgia, symbolic closure, or a jealousy device.
+**ROWAN IN BOOK II / RENEWED ROMANCE — LOCKED 2026-07-22; heritage 2026-07-25; jealousy architecture 2026-07-28:** Wren's former love **Rowan** appears on-page in Book II Chapters 5–7. She is **British / Irish diaspora** in the strait corridor (**not Bengali**), human, blonde, blue-eyed, and unconnected to a secret Sídhe bloodline. Name **Rowan** kept; rowan-tree protocol = coincidence once dismissed. Since separating from Wren she has remained inside the wider Weaver/mutual-aid ecology and now works as a west-corridor liaison protecting local keeper houses, displaced families, and people returned from threshold events. Her present objective is to recover a missing person and keep the local corridor from becoming infrastructure for Eli's quest, Wren's custody system, or any faction registry. Her reunion with Wren develops into a **renewed, continuing romance in the present**, not nostalgia or symbolic closure. The renewal does provoke real jealousy in Eli, but Rowan and the women's love may not be reduced to a jealousy device.
 
-At the mound crossing, **Rowan herself insists on fresh rowan branches before iron**. Wren wants the clean tactical solution—break the crossing, close the route, eliminate uncertainty. Rowan answers with her established rule, **“A completed route is not a returned person.”** The living boundary holds long enough to locate the missing person; iron becomes necessary only for extraction. This is a Family-circle conflict between two living women: protection must remain answerable to the person protected. The shared name is acknowledged once as coincidence, never prophecy, ancestry, reincarnation, or proof that Rowan “is” the plant.
+**WEAVERS ACROSS THE TRILOGY — LOCKED 2026-07-27:** Wren is a **house Weaver
+and Knotter**, not Unranked: placements, attestations, household connections,
+intake, and welcome. She does not run extractions in Book I. Book I shows Monsoon
+houses through distributed civic acts in Pelangi, Meridian, and Malacca; Wren
+guides Meridian, while local clerks, kitchens, and waiting rooms help within
+bounds. Rowan does not appear or secretly route them there. Book II introduces
+Rowan's west-corridor Weft and Wren's first clandestine recovery. Book III tests
+the resulting threshold network against registries, scale, review, and emergency
+claims to access. The Weavers are one answerable institution, not mission control
+or a shadow government.
 
-The renewed Wren/Rowan romance is explicit, reciprocal, and negotiated. It begins through changed conduct rather than crisis-kissing: Wren follows Rowan's person-first limit; Rowan sees Wren accept correction without converting it into command. Tenderness returns through ordinary acts, then an acknowledged kiss or night together chosen without emergency pressure. Wren discloses her developing bond with Eli before asking Rowan for renewed intimacy; Rowan sets terms and remains free to refuse. Eli is neither rival nor prize. He and Rowan develop respect but no romance. By Book II's end, the shape is a **V centered on Wren**: Wren/Rowan and Wren/Eli are real bonds; Rowan/Eli is not romantic. No bond grants authority over another, and no one is required to call the arrangement family before living it. Rowan survives, keeps her own network and right to leave, and never becomes an accessory who blesses the “main” couple.
+**EXTRAS ACROSS THE TRILOGY — LOCKED 2026-07-28:** *Extra* is a street slur
+for a man whom no household, Harbor Thread segment, former unit, or civic
+institution will claim responsibility for. It is neither a Weaver status nor a
+synonym for criminal. Book I uses the term once at Meridian's *Extra lane*, where
+an unsponsored tradesman is treated as dangerous before any dangerous conduct.
+Book II makes Rowan's missing person a demobilized man stripped of house standing
+and presumed to be a raider; Wren and Rowan's recovery enters an Extra settlement
+of workers, injured veterans, rejected sons, mutual-aid crews, and actual
+predators. Sol recruits there by offering public names, brotherhood, protection,
+and purpose. Book III shows Extras divided among Sol, consent-bound defense,
+mutual aid, refusal, and testimony. Extra men, veterans, Harbor Thread elders,
+and Eli co-found the men's cloisters; the Weavers may share practice but do not
+grant legitimacy. The ending invalidates *Extra* as a civic category without
+making household membership or intimacy compulsory. Governing line: **A person
+may reject a man; a civilization may not make him disposable because of it.**
+
+**FOUR-VOLUME ENDGAME / BOOK IV COURT — LOCKED 2026-07-28:** The series is
+now a four-volume arc. Book III ends after Eli has accepted and exercised bounded
+emergency authority, refused forced synchronization, and prepared a
+constitutional transfer. A coordinated attack during certification kills,
+scatters, or compromises enough of the provisional council that the compact's
+continuity clause extends Eli's mandate until a successor can be credibly
+certified. The Weavers save delegates, attest identities, restore routes, and
+place survivors; the men's cloisters hold perimeters, move casualties, repair
+infrastructure, and prevent discarded fighters from being silently remobilized.
+Both movements consequently rise into formal but internally divided civic power.
+Book IV is a women-led court-intrigue volume, principally through Rowan and Wren.
+Its power grammar is access, placement, messages, household recognition, medical
+privacy, ceremony, and attestation. Book III plants only deniable Rowan/Eli
+attraction inside political trust; they have no sex and no romance in that
+volume. In Book IV they consciously recognize attraction and have consensual sex
+several times before repeated intimacy, public work, and care make the bond
+romantic. Rowan's independent desire for motherhood predates Eli. She initially
+avoids pregnancy, then after romance separately chooses him as co-parent and
+decides when to pursue conception. Pregnancy, court pressure, the
+Weaver/cloister balance, and the reconstituted succession process run through
+Book IV. During Rowan's labor, Eli activates the prepared transfer; the Weavers
+refuse a monopoly on legitimacy, the constitutional cloisters accept civilian
+distributed command, and the child is born without title or inherited claim.
+Governing architecture:
+`50_The_Orphaned_Species/60_volume_IV_court_of_threads.md`.
+
+At the mound crossing, **Rowan herself insists on fresh rowan branches before
+iron**. Wren, a house Weaver and Knotter but a novice at clandestine recovery,
+wants to treat arrival at the next threshold as completion. Rowan answers with
+the line born from this present case: **“A completed route is not a returned
+person.”** The living boundary holds long enough to locate the missing person;
+iron becomes necessary only after recovery. This is a Family-circle conflict
+between two living women: placement must remain answerable to the person placed.
+
+The renewed Wren/Rowan romance is explicit, reciprocal, and negotiated. It begins through changed conduct rather than crisis-kissing: Wren follows Rowan's person-first limit; Rowan sees Wren accept correction without converting it into command. Tenderness returns through ordinary acts, then an acknowledged kiss or night together chosen without emergency pressure. Wren discloses her developing bond with Eli before asking Rowan for renewed intimacy; Rowan sets terms and remains free to refuse. Eli and Rowan are not competing claimants, but Eli initially **feels rejected and deprioritized** when their old bodily fluency returns. His fear is not simply that Wren will have another lover; it is that he was provisional—a relationship formed while she was separated from the person who truly knew her. Wren does not cure this by ending or diminishing Rowan. She chooses Eli positively and specifically, naming and enacting what belongs uniquely to their bond and giving it consequential attention without declaring permanent rank. Eli learns that the bonds are not interchangeable: Wren/Rowan is a romance of formative recognition, shared Weaver grammar, recovered trust, and embodied history; Wren/Eli is a romance of present-tense discovery, emotional naming, grounding, and a future made deliberately together. Feeling specially chosen makes him secure enough not to experience Rowan's different intimacy as rejection. By Book II's end, the shape is a **V centered on Wren**: Wren/Rowan and Wren/Eli are continuing real romances; Rowan/Eli is respectful and non-romantic. Priority may change with circumstance, but no bond becomes a permanent hierarchy or grants authority over another. No one is required to call the arrangement family before living it. Rowan survives, keeps her own network and right to leave, and never becomes an accessory who blesses the “main” couple.
 
 **WREN PERSONAL / ROWAN POLITICAL — LOCKED 2026-07-22:** These women must not perform the same developmental function for Eli. Wren is personal. In Book I she helps Eli become emotionally legible to himself: fear is not vigilance, shame is not usefulness, grief is not investigation, desire is not destiny, anger is not certainty, and loneliness is not a mandate to become indispensable. Through ordinary intimacy, disagreement, attraction, silence, and repair, he learns to trust his perceptions, name what he feels, understand what he wants, and choose with growing confidence. He reciprocally sees the frightened, tired, desiring person beneath Wren's operational competence without claiming access to her. Rowan is political. In the later books she challenges, supports, and limits Eli as a public leader, helping test whether private conviction can become accountable conduct among communities. Consent and boundary remain conditions of Wren/Eli intimacy, not its central meaning. Governing line: **Wren helps Eli become inwardly human; Rowan helps him become publicly answerable.**
 
-**THREE-VOLUME HUMAN PROGRESSION — LOCKED 2026-07-22; parent rescue 2026-07-24:** Book I centers **feeling and self-knowledge**; Eli's confidence grows from becoming emotionally legible to himself, especially through Wren. Book II centers **consent and control**; Eli **rescues Maren**; its proof is that real love never makes another person property, culminating in Maren's release. Book III centers **politics and civilization**; Eli **rescues Rasel** while refusing power the rescue path seems to require. **Fundamental motor:** parent rescue — not a power quest; cosmology, war, and coordinator authority are **means or misread**. The themes rhyme across all books, but their primary revelation order must remain distinct.
+**FOUR-VOLUME HUMAN PROGRESSION — REVISED AND LOCKED 2026-07-28; parent rescue 2026-07-24:** Book I centers **feeling and self-knowledge**; Eli's confidence grows from becoming emotionally legible to himself, especially through Wren. Book II centers **consent and control**; Eli rescues and releases Maren, proving that real love never makes another person property. Book III centers **politics, civilization, and necessary authority**: free communities suffer real harm, Eli accepts bounded command, refuses forced synchronization, and discovers that preparing to relinquish is not the same as being able to do so. Book IV centers **subtle power, embodiment, succession, and maintenance**: women experience the court from inside its rooms, pregnancy becomes contested political property, the Weavers and men's cloisters learn to survive formal power, and Eli's relinquishment becomes institutionally possible during the birth. **Fundamental motor:** parent rescue and the search for a home that does not own its members—not a power quest. The themes rhyme across all books, but their primary revelation order must remain distinct.
 
 **THE PLY / FORMATIVE WEAVER BONDS — LOCKED 2026-07-22:** Among adolescent Weaver trainees, a **ply** begins as **going together**, not as an assigned pair or adult contract. The practical rule is *no one goes out of sight alone*: young trainees accompany one another to night latrines, washing places, water runs, infirmaries, watches, strange houses, and the edge of camp. They rotate at first, then often keep choosing the same person. This is especially intimate among girls, who may guard one another while urinating, menstruating, washing, changing, crying, vomiting, or tending an injury. The repeated bodily truth is: **I can lower my guard because you are facing outward.** The house does not create the bond. Once the choice has become unmistakable, it **keeps** what adolescence and survival already wove by recognizing the pair as a ply—perhaps through adjoining sleeping rolls, a shared watch, or cord the teenagers divide and braid themselves.
 
-A ply is the Weaver culture's serious recognition of best friendship as a primary adolescent bond. It is not inherently romantic or sexual and is not lesser than romance. Survival intensity and bodily vulnerability can, however, carry friendship into attraction before either young person can sort the categories. Nervous systems learn one another: footsteps, breathing, the silence that means *leave me* and the silence that means *come find me*. Adult Weaver bonds grow from these repeated choices, shared houses, crossings survived, bodies tended, confidences kept, families introduced, and communities learning to rely on the pair. Wren and Rowan formed a training ply and later became lovers. Their romance ended after the failed extraction, but the embodied adolescent trust and accumulated social memory did not. Adult **unbinding** names the deliberate release and practical disentangling of routes, keys, dependents, and obligations; ratification never grants permanent bodily access, romantic claim, or control. Governing lines: **Your ply watched the dark while you were vulnerable. The body remembers whom it trusted; the person must still choose.**
+A ply is the Weaver culture's serious recognition of best friendship as a primary
+adolescent bond. Wren and Rowan formed a training ply and later became lovers.
+Their romance ended when Wren chose institutional Knotter/intake work and Rowan
+chose Weft corridor work—not after a failed extraction—but the embodied trust
+and social memory remained. Adult **unbinding** names deliberate practical
+disentangling; ratification never grants permanent bodily access, romantic claim,
+or control. **The body remembers whom it trusted; the person must still choose.**
 
 **PELANGI REACH — ISLAND SETTING LOCKED 2026-07-16:** Pelangi Reach is a living hybrid between a planned near-future resort/technology development and an older Indonesian island civic ecology. Its inherited water coordination, gardens, shrines, craft districts, music, processions, fishing communities, and practical obligations are not mystical décor or a single undifferentiated "Bali"; they are locally governed, historically layered, contested, and alive. The reclaimed harbor, migrant/refugee networks, Foundry compound, garden belt, and outer-water settlements reorganize the failed development into a wartime refuge. Pelangi Reach embodies the trilogy's two-tree problem: automation, surveillance, and logistics survive only when brought into relationship with soil, water, bodies, memory, and reciprocal care.
 
@@ -49,6 +122,21 @@ The Charkha's operative insight is: **a bonded pair can refuse the state; two is
 
 **Instinct / institution distinction — LOCKED:** at the population level, female reproductive selectivity and male status competition, display, protection, and risk-bearing are ancient pressures, unevenly expressed rather than universal commands. The Charkha did not invent the sorting or the sacrifice. It **severed each from care**: selectivity became permanent social exclusion; rejection became civic death; courage became disposability; sacrifice became an admission price men were expected to pay without being kept, recovered, or grieved. A mature society does not abolish attraction, rejection, competition, or chosen masculine risk. It makes rejection survivable, standing revisable, and dangerous service voluntary, shared, witnessed, honored, recoverable, and grieved. Women owe no man intimacy or dependence; sacrifice purchases no sexual access; no sex creates an automatic duty to fight. Governing line: **The Charkha made women sort men they no longer knew, and made men sacrifice themselves for communities that would not remember them.**
 
+**WOMEN IN HISTORICALLY MALE-CODED WORK — LOCKED 2026-07-28:** Across Books
+I–II, women visibly occupy much of the work the old world coded male: freight,
+water and power maintenance, construction, perimeter defense, drone operation,
+command, enforcement, transport, repair, and dangerous route work. This is not
+proof that the work naturally belongs to either sex. Wars killed and conscripted
+men; household and civic sorting made many surviving men Extras, house
+dependents, or deniable Thread labor; institutions still required the work and
+loaded it onto available women without removing pregnancy, domestic, sexual, or
+care burdens. Some women gain real skill, identity, pleasure, status, and power
+there; others are simply spent in a new register. The men's cloisters do not rise
+to reclaim “men's jobs,” displace these women, or restore compulsory roles.
+Book IV makes the allocation of defense, repair, command, care, and bodily risk a
+court conflict: work and authority must be redistributed by aptitude, consent,
+training, rotation, and continuing care—not returned to a sex caste.
+
 **Reveal order is fixed.** Book I shows the emotional effects without political explanation: fear of need, intimacy mistaken for capture, exhaustion sold as competence, and institutional mediation where community once stood. Book II reveals the operation at midpoint through records Rowan can interpret and makes its personal cost legible through Wren; neither woman reduces her choices or their relationship to manipulation. Book III reveals the system purpose and demographic consequence: the Charkha helped make durable partnership harder, then its allied institutions lamented falling births because the civilization-engine needed replacement inputs. Governing lines: **Freedom is not the absence of need; it is the power to choose whom and what one depends upon. The Charkha did not liberate women from men or men from women. It liberated the engine from both.**
 
 **Hunt attribution — dual-true + Mandate costume (LOCKED 2026-07-26):**
@@ -66,7 +154,11 @@ The Charkha's operative insight is: **a bonded pair can refuse the state; two is
 
 **Aesthetic lock — Casino Royale capital (LOCKED 2026-07-26):** Stack **surface** = cold international glamour — glass towers, black official cars, tailored crowds, clinical hospitality, palm/face terminals as soft procedure. **Meridian Circuit** night is the Bond set-piece (sealed avenues, grandstands, drones, champagne density). **Cherry Cube** is the glamorous interior venue (tech temple + idol floor), not a food-court mall. **Underside** = Harbor Thread shafts, Cherry Lane roots, Continue Inn arcade grit, tire-truck marshalling — the construction-chase under the tuxedo. Tone: Craig Bond — brutal, stylish, expensive; no gadgets, no wink. Book I Ch 2 must read *expensive city, hunted boy, spectacle as cover.*
 
-**Circuit night = first table (LOCKED 2026-07-26):** Meridian Circuit / Cube is the trilogy's **first casino table** — expensive room, spectacle as cover, masks flash by *conduct*, not dossier. **Keep lean:** Wren (handler / convoy non-look), clerk–Thread care, idol (star as tailored machine), Ma seed, **one new hunter face** — **Sora Vithan** (Custodian Shield) in suit/biosecurity cover, soft hunt, collar/medal habit; **no name on-page** until Ch 3. **Do not** dump Crane, Sol, Somchai, Rowan, Emrys onto this table.
+**Circuit night = first table (LOCKED 2026-07-27):** Meridian Circuit / Cube is
+the trilogy's first casino table. Keep lean: Wren (Knotter/intake guide, then
+convoy non-look), local Weaver/Thread care, idol, Ma seed, and Sora Vithan. Rowan
+does not help them through Meridian; her west-corridor Weft enters in Book II.
+Professor Emrys does not exist.
 
 **Chase grammar — trilogy (LOCKED 2026-07-26):** every later capital / set-piece room repeats Meridian's move at rising stakes — *expensive room → 2–3 masks flash → Eli exits through the underside.* Fuller ensemble only when earned (e.g. Crane's mercy table Vol II; Sol's armed-prophet table Vol III). Meridian teaches the grammar; it is not the cast dump.
 
@@ -159,7 +251,7 @@ These are **armistice-era / post-collapse blocs**, not peaceful post-war societi
 - **Rasel Khan (Eli's father) = Bangladeshi physicist.** **Bangladeshi passport.** **Claimed by Eastern Mandate** — **Rasel Khan** on files. **Alive in Mandate field-research custody.** Ch 1: taken alive, location unknown. **Eli recovers Rasel at Sanxingdui — Book I climax.** **Passport split** from Maren at extraction.
 - **Maren's work = neuroscience, complicity, then the carrier/keeper underground.**
   Before the outbreak she studied naturally occurring carriers with Crane and
-  Emrys, helping build tools that aid integration and enable capture. After turning
+  the early research program, helping build tools that aid integration and enable capture. After turning
   dissident, she enters the Southeast Asian keeper network. Hassan crosses her
   custody chain after Rasel gives him **Rasel's ring**; Maren recognizes her
   engraving and turns the family object into a bounded journal handoff.
