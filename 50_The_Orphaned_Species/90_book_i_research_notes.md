@@ -8,14 +8,26 @@
 ## Chapter One — somatic interoception
 
 Ordinary nerves read heat, pressure, and paresthesia from body and near-body states.
-Eli's **somatic signatures**—the mother's diagnostic read through palms—are
-**in-fiction amplification**, not a verified clinical phenotype.
+Real anchor: A. D. Craig's interoception model ("How Do You Feel? An Interoceptive
+Moment with Your Neurobiological Self," *Nature Reviews Neuroscience*, 2009) names
+the actual pathway — fine-grained internal-state signaling that ordinary bodies
+already do. Eli's **somatic signatures**—the mother's diagnostic read through
+palms—are **in-fiction amplification** of that real pathway, not a verified
+clinical phenotype.
 
 ## Chapter Three — hypoxia, grounding, and the Circles
 
 - **Hypoxia and sensory flooding.** Transient global hypoxia can acutely alter
-  thalamocortical gating; reports of flooding and heightened salience near death
-  exist but are contested. Eli's opened receiver is **in-fiction amplification**.
+  thalamocortical gating. Two real, checkable anchors sharpen this beyond generic
+  "contested" hand-waving: Borjigin et al. (*PNAS*, 2013) found a transient surge
+  of highly synchronized gamma-band activity in the seconds after cardiac arrest
+  in rats, proposed as a possible correlate of vivid near-death consciousness;
+  Timmermann et al. (*Frontiers in Psychology*, 2018) found that controlled DMT
+  dosing produces experience-reports that resemble published near-death-experience
+  reports more closely than other altered states. Together they give the Malacca
+  breach a real floor and a real bridge to the puberty DMT trips — both converge
+  on the same neurophenomenological territory (`90_epigraphs_and_sources.md` §5D).
+  Eli's opened receiver remains **in-fiction amplification** on top of that floor.
   **Malacca = activation without training**—receiver on, not skill or curriculum.
 - **Grounding.** Temperature-focus, breath-counting, and single-object attention are
   standard somatic de-escalation techniques in trauma care. Keeper practice extends

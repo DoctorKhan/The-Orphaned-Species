@@ -411,6 +411,50 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **Suggested placement:** Epigraph opening a **threshold-house** chapter (Vol I Ch 1–2 region) or before Eli’s hidden puberty is named.
 
+### D. Near-death breach & the DMT/NDE convergence (Malacca threshold floor)
+
+**Mechanism anchor:**
+- **Borjigin, J., et al. (2013).** "Surge of neurophysiological coherence and connectivity in the dying brain." *PNAS*, 110(35), 14432–14437. https://doi.org/10.1073/pnas.1308285110 — a transient surge of highly synchronized, elevated gamma-band activity in the seconds following cardiac arrest, proposed as a possible neural correlate of the vivid, hyper-real consciousness reported in human near-death experiences.
+- **Timmermann, C., et al. (2018).** "DMT Models the Near-Death Experience." *Frontiers in Psychology*, 9, 1424. https://doi.org/10.3389/fpsyg.2018.01424 — controlled intravenous DMT dosing produces phenomenological reports (ego dissolution, a sense of passing a threshold, encountering other beings/presences) that statistically resemble published near-death-experience reports more closely than other altered states studied.
+
+**Why it matters to this book:** the Malacca near-death breach and the puberty DMT trips are currently two separate triggers into "the receiver opens." These two papers are a real, peer-reviewed bridge between them — both converge on the same neurophenomenological territory (gamma surge / DMT-like ego dissolution near death), supporting them as two doors onto one threshold rather than unrelated mechanisms. Replaces the vaguer "reports of flooding and heightened salience near death exist but are contested" note in `90_book_i_research_notes.md` Ch 3 with named, checkable anchors.
+
+**Honesty flag:** Borjigin's finding is in rats at the moment of cardiac arrest, not proof of subjective experience; Timmermann's is a phenomenological self-report comparison, not proof DMT and NDEs share a mechanism. Keep both as real floor + speculative gloss, same register as the existing puberty/DMT material — never claim either paper proves an afterlife or a shared "field."
+
+**Suggested placement:** epigraph or "On the record" note after the Malacca breach chapter (Book I); cross-reference from `90_book_i_research_notes.md` Ch 3 and WORLD_BIBLE §4.
+
+### E. Adult activation under stress — the evolutionary-capacitor floor
+
+**Mechanism anchor:**
+- **Rutherford, S. L., & Lindquist, S. (1998).** "Hsp90 as a capacitor for morphological evolution." *Nature*, 396, 336–342. https://doi.org/10.1038/24550 — the chaperone protein Hsp90 normally buffers and masks a large reservoir of cryptic genetic variation; under stress, its buffering capacity is overwhelmed and previously silent variation suddenly becomes visible as new traits.
+
+**Why it matters to this book:** direct floor for WORLD_BIBLE §2's claim that "adult activation is possible under illness, stress, charged-ground exposure, or deliberate induction, but is less predictable." Real biology already has a documented case where stress doesn't create new variation — it stops hiding variation that was always there, exactly the shape of the "dormant birthright" claim already made for the Nephilot/receiver lineage.
+
+**Honesty flag:** Hsp90 capacitor evidence is strongest in flies and plants; extrapolation to a human psionic receiver is fiction. Cite it only for the buffering/release logic, never as if Hsp90 itself were "the" receiver gene.
+
+**Suggested placement:** epigraph or craft note wherever an adult (not adolescent) character activates under duress.
+
+### F. EPAS1 — a real hybrid-inheritance trait floor (optional, for Nephilot/High-Place material)
+
+**Mechanism anchor:**
+- **Huerta-Sánchez, E., et al. (2014).** "Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA." *Nature*, 512, 194–197. https://doi.org/10.1038/nature13408 — modern Tibetans carry an EPAS1 variant, inherited through ancient interbreeding with Denisovans, that lets them thrive at extreme altitude where non-carriers develop dangerous over-thickened blood.
+
+**Why it matters to this book:** a real, well-established case of "interbreeding with an archaic lineage grants a specific, measurable superhuman-seeming trait" — the same shape as the Nephilot/gibborim inheritance claim, and geographically apt: it's specifically about mountain survival, rhyming with the High-Place Watcher-descent geography (Hermon/Meru/Olympus/Kunlun/Zaphon) already in this document.
+
+**Honesty flag:** optional, not required — nothing currently on the page claims a specific inherited physical trait for a Nephilot character. Use only if a scene needs one concrete, citable example of hybrid ancestry conferring a real capacity; do not retrofit it as "proof" of psionic ability.
+
+**Suggested placement:** craft note for Book III/IV mountain settings (Colorado, Hopi lands) if a Nephilot-descended character's physical resilience needs a real anchor.
+
+### G. HERV / syncytin — optional germline-construct precedent (lower priority)
+
+**Mechanism anchor:** ancient endogenous retroviruses make up roughly 8% of the human genome; some of that fossil viral DNA has been domesticated into essential functions — most notably the **syncytin genes** (retroviral envelope genes co-opted to fuse cells into the placenta's syncytiotrophoblast layer), without which placental live birth as we know it would not exist.
+
+**Why it matters to this book:** real precedent for "a germline-integrating retroviral construct becomes generative, not only parasitic" — relevant if a future scene needs the construct/provirus framed as something the genome has already done successfully, not only as a weapon.
+
+**Honesty flag:** lowest priority of the additions here — nothing currently on the page makes this specific claim. Add only if a scene needs it; don't force a reference.
+
+**Suggested placement:** none yet — hold as background floor for a future Book II–IV scene about the construct's biology, if needed.
+
 ---
 
 ## 5.5. Continuity of government — the real floor under the Union's survival annex
@@ -657,6 +701,23 @@ Pelangi harm (Ch 3) → Eli tempted by Crane's fast clock (one keyboard, one rec
 - Architecture: `05_story_architecture.md` § MLK memorial
 - Hearth / circle rhyme: `54_liturgies.md` § Hearth circles; Book II post-collapse music
 - Names beat: Ch 5 *The Names They Carry*; expendability ledger Ch 4
+
+---
+
+## 11. The Laschamps Excursion — geomagnetic collapse as Earth's Tier-0 pressure test
+
+*Anchor for `00_MASTER_TIMELINE.md`'s new Phase IV beat, "The Laschamps Test," and for the formal **Tier 0 — the Ground (Earth Itself)** addition to the three-tier taxonomy. Kept deliberately separate from the Phase V / Younger Dryas material (`59_younger_dryas_nucleation_lock.md`) — different real event, ~30,000 years apart, different physical mechanism (geomagnetic excursion vs. thermal-nucleation craft crash/AMOC disruption).*
+
+**Mechanism anchor:**
+- **Cooper, A., Turney, C. S. M., et al. (2021).** "A global environmental crisis 42,000 years ago." *Science*, 371(6531), 811–818. https://doi.org/10.1126/science.abb8677 — dates the **Laschamps geomagnetic excursion** to ~41,000–42,000 years ago, when Earth's dipole field collapsed to roughly 6–10% of modern strength for several centuries, weakening the magnetosphere's shielding against cosmic radiation and UV, and coinciding with atmospheric ionization changes (auroral ovals expanding toward the equator).
+
+**The finding (paraphrase):** the field collapse is real, dated, and independently corroborated by multiple paleomagnetic records (this paper is not the sole source for the excursion itself, only the widely-cited synthesis tying it to surface environmental and human-behavioral consequences). The paper additionally proposes — as an argument, not settled consensus — that the resulting UV/radiation increase coincides with archaeological upticks in cave habitation, ochre use, and tailored-clothing technology, and with the approximate window of Neanderthal population decline in Europe.
+
+**Why it matters to this book:** gives the new **Tier 0** material a real, checkable floor: Earth's own field genuinely destabilizes on its own cycle, independent of any alien tier's actions, and real (if disputed) archaeology already links that destabilization to exactly the behavioral shifts the cave's reading dramatizes — cave retreat, ochre, sewn clothing, and a sky full of low-latitude auroras.
+
+**Honesty flag:** the geomagnetic collapse and its dating are real and well-supported. The **causal link** to cave-art intensification, ochre-as-sunscreen, tailored-clothing emergence, and Neanderthal decline is a genuine, actively-debated archaeological argument — other researchers dispute the dating precision of some cave-art and Neanderthal-extinction correlations, or favor other explanations (cultural diffusion, climate cooling unrelated to the magnetic field, sampling gaps). Keep the causal chain as "the cave's reading," same register as the fungal-gap debate (§1) and the pineal/DMT material (§5C) — never claim the paper proves Earth acted with intent, only that the physical event and the correlated archaeology are real.
+
+**Suggested placement:** craft note / possible epigraph for the new Phase IV "Laschamps Test" beat (`00_MASTER_TIMELINE.md`); background floor for the Tier 0 taxonomy addition. No on-page Book 5 scene currently requires this — hold as deep-time cosmology floor unless a scene calls for it.
 
 ---
 
