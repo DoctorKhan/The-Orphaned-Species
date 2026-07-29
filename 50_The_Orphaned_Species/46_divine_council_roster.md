@@ -194,7 +194,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 **What to avoid**
 
 - **Angel team-up** in Act III — breaks cast load and duplicates the Seven.
-- **Gabriel as romantic or guide figure** — collides with Wren/Emrys/healer.
+- **Gabriel as romantic or guide figure** — collides with Wren's healer/guide role.
 - **Michael saves Eli** — Michael is the name of the cage dressed as protection.
 - **Explaining all four archangels in one chapter** — spread across Vol II reference and Vol III recontextualization.
 

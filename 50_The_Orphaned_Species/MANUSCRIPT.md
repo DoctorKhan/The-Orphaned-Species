@@ -23,7 +23,7 @@
 
 ## Chapter One—The Hour That Belongs to No One
 
-The sail goes slack against the mast and stays there. The wind just died. Not good. The red buoy taunts him, now within sight. First boat there wins.
+The red buoy taunts him, now within sight. First boat there wins. The sail goes slack against the mast and stays there. Mid-channel pocket and the wind just died. Not good. 
 
 Kiran passes him. Eli is **losing** now. Kiran keeps sailing as if pride could tow a hull. Eli knows better. In a pocket you do not hold course. You **stay moving** until the air comes back somewhere.
 
@@ -2660,11 +2660,11 @@ The wall is already half down. Confirmation still hurts.
 
 "You let me think you were only a gardener."
 
-"I was also a gardener." Rasel looks at the yellow tomato. "Maren tried to break her own model before the handoff—split maps, corrupted labels. The Charkha took her because only she could restore it. West."
+"I was also a gardener." Rasel looks at the yellow tomato. "Maren tried to break her own model before the handoff—split maps, corrupted labels. They took her because only she could restore it. Not the ones who came for me. West."
 
 "Took." Eli hears his own voice come out flat. "Ten years ago."
 
-"No." Rasel does not look up from the tomato. "Two winters ago a man came through here with a courtesy request—Mandate to Charkha, one lab to another, would I confirm a coupling constant for a colleague working an old ground. He had her correction in the margin. Her hand." He turns the fruit a quarter turn, the way you check a thing for rot you already know isn't there. "You do not send a correction from a dead woman. They wanted me to know she was working. They wanted me steady."
+"No." Rasel does not look up from the tomato. "Two winters ago a man came through here with a courtesy request—one office lending to another, wrong badge for the room he stood in, would I confirm a coupling constant for a colleague working an old ground. He had her correction in the margin. Her hand." He turns the fruit a quarter turn, the way you check a thing for rot you already know isn't there. "You do not send a correction from a dead woman. They wanted me to know she was working. They wanted me steady."
 
 The room goes very far away and comes back.
 

@@ -5421,7 +5421,7 @@ The men's cloister proposal arrives on the second day.
 Malik Foster presents it beside Owen, Arman, the former Harbor Thread elder,
 Jalen by audio, and six men who disagree about almost every political question.
 
-They do not ask Eli to found them.
+They ask Eli to help found them.
 
 "Keeping-order," the elder says. "Repair. Watch. Care. Restraint. Grief.
 Appeal. A place a man can remain when no household chooses him."
@@ -5461,7 +5461,7 @@ A man can leave without losing his record of service, care, or grief.
 
 The compact recognizes the first cloister council provisionally.
 
-Eli signs as witness, not founder.
+Eli signs as founder, not figurehead.
 
 Sol calls it domestication.
 

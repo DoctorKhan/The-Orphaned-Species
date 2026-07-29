@@ -316,7 +316,7 @@ URL: https://www.livius.org/sources/content/anet/266-the-sumerian-king-list/
 
 ## 8. Yahweh's southern origin — Shasu, Timna, Nehushtan, and the Dionysus witness
 
-*The furnace-god / desert-margin strand. Concept treatment in `45_divine_names.md` ("The southern origin," "The Ish Elohim," "The Dionysus witness"); objects in `35_artifact_chain.md` (Timna serpent, Nehushtan). All of this is **contested / minority** scholarship — cite it as an argued position, never as settled fact. Handling discipline is the same as AT1: characters argue toward it; it never decodes the cosmology.*
+*The furnace-god / desert-margin strand. Concept treatment in `45_divine_names.md` ("The southern origin," "The Ish Elohim," "The Dionysus witness"); objects in `35_artifact_chain.md` (Timna serpent, Nehushtan). **On-page naming lock:** do not use the divine name in prose or epigraph. The present-day plot encounters it through the Kuntillet ʿAjrud / Khirbet el-Qom inscriptions — material evidence of "Yahweh and his Asherah" — and the argument happens over pottery, squeezes, and disputed readings. All of this is **contested / minority** scholarship — cite it as an argued position, never as settled fact. Handling discipline is the same as AT1: characters argue toward it; it never decodes the cosmology.*
 
 **The framing claim (minority hypothesis):** Yahweh is not native to the Canaanite pantheon. He originates as an outsider god of the southern smelting deserts (Edom / Midian / Seir), is grafted into El's throne late, and over centuries absorbs El, Baal, and Elyon. The **Kenite / Midianite hypothesis** (F. W. Ghillany, 1862) is revived today chiefly through **Nissim Amzallag**'s work reading Yahweh as a patron of furnace metallurgy.
 
@@ -332,9 +332,9 @@ URL: https://www.livius.org/sources/content/anet/266-the-sumerian-king-list/
 
 **Epigraph candidates (verify wording against the chosen translation/edition):**
 
-- **1 Kings 19:11–12** — the theophany to Elijah: Yahweh is *not* in the wind, the earthquake, or the fire, but in the *"still small voice"* / *"a sound of thin silence"* (qol demamah daqqah). The book's register for how contact actually arrives — quiet, missable, the opposite of spectacle. Pairs with Eli's surge phenomenology (`SOURCE_the_surges.md`).
-- **2 Kings 18:4** — Hezekiah *"broke in pieces the bronze serpent that Moses had made, for until those days the people of Israel had made offerings to it; it was called Nehushtan."* The Serpent-Slaying at human scale; anchor for the Nehushtan artifact-chain entry.
-- **Exodus 7:1** — *"See, I have made you as God (Elohim) to Pharaoh"* — the **ish elohim** / human-theophany line (see also Elijah calling fire, 1 Kings 18). The living-web practitioner in old vocabulary.
+|- **1 Kings 19:11–12** — the theophany to Elijah: the **still small voice** / **sound of thin silence** (qol demamah daqqah). The book's register for how contact actually arrives — quiet, missable, the opposite of spectacle. Pairs with Eli's surge phenomenology (`SOURCE_the_surges.md`). The divine name does not appear in the epigraph; the verse stands on its imagery.
+|- **2 Kings 18:4** — Hezekiah's destruction of the bronze serpent. The Serpent-Slaying at human scale; anchor for the Nehushtan artifact-chain entry.
+|- **Exodus 7:1** — *"See, I have made you as God (Elohim) to Pharaoh"* — the **ish elohim** / human-theophany line (see also Elijah calling fire, 1 Kings 18). The living-web practitioner in old vocabulary.
 
 **The Dionysus witness (classical, real, citable):**
 

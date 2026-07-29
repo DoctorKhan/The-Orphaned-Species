@@ -267,7 +267,7 @@ The Thread is not only a maze. It **sorts whichever male leaders still remain** 
 | Mandate | **Sparing** rhetoric + **indispensable personnel** files; white-coat transfer |
 | Coalition / ports | **Harbor assignment**, threshold institutes, teahouse consent labs — still claimed |
 
-**Craft rule:** do not Paperclip-paste WWII — show **passports, recall notices, lab transfer, corridor seizure** on-page. **Maren Holt** = **neuroscientist** (British, natural carrier). **Rasel Khan** = **physicist**. Both **claim-category** captures — held before/during formalization; **post-Hinge law** makes the theft permanent and ordinary. Eli's parents are not unique victims; they are **high-value claims**.
+**Craft rule:** do not Paperclip-paste WWII — show **passports, recall notices, lab transfer, corridor seizure** on-page. **Maren Holt** = **neuroscientist** (Albion, legacy *British* on old files; natural carrier). **Rasel Khan** = **physicist**. Both **claim-category** captures — held before/during formalization; **post-Hinge law** makes the theft permanent and ordinary. Eli's parents are not unique victims; they are **high-value claims**.
 
 ### Passport split — mixed-nationality claiming
 

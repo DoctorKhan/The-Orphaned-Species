@@ -62,7 +62,7 @@ Each major character benefits from three layers (full cast bible: `26_present_da
 2. **The turn** — what made them who they are at story open.
 3. **The unreconciled** — what remains unpaid when Eli arrives.
 
-**Wren example:** softer pre-Unranked port intake; a prior love (the one before Mira) left the relationship unfinished — that history flares as over-management, not a third body on page.
+**Wren example:** softer early-Knotter port intake; a prior love (the one before Mira) left the relationship unfinished — that history flares as over-management, not a third body on page.
 
 **Do not** let every backstory be a run, a collar, or a descent. **Do** let past contradict present masks in small scene detail. Eli **cannot shortcut** someone's history through surge or resonance.
 

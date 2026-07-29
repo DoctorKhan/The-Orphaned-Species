@@ -36,7 +36,7 @@ The novel opens **after** the acute phase of two overlapping crises. Background 
 
 The world is **damaged but functioning** — not collapse, not utopia.
 
-**Psionic origin lock:** rare natural carriers existed before the outbreak; this is why states, Maren, Crane, and Emrys could study them in the early 2030s. The construct weaponizes that research to lower or destabilize the receiver threshold in a much larger population. Eli was born before the outbreak and inherits the natural route. The outbreak expands and exposes psionics; it does not create them.
+**Psionic origin lock:** rare natural carriers existed before the outbreak; this is why states, Maren, and Crane could study them in the early 2030s. The construct weaponizes that research to lower or destabilize the receiver threshold in a much larger population. Eli was born before the outbreak and inherits the natural route. The outbreak expands and exposes psionics; it does not create them.
 
 ---
 

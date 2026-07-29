@@ -1141,7 +1141,7 @@ Wren reads the list twice.
 
 "No. It is what a house would call this after the person carrying it escaped."
 
-The modern Charkha packet uses the same structure without the mythic names:
+A modern packet uses the same structure without the mythic names:
 pairing protocols, medical classifications, route authority, reproductive
 screening, archive privileges, labor assignments, mourning permissions.
 Functions detached from the people who perform them and installed wherever a
@@ -3644,7 +3644,8 @@ to see the courtyard but can.
 She has not decided where to stand when Rowan enters.
 
 Blonde hair cut shorter than before. Blue eyes. Rain darkening the shoulders of
-her work coat. Fatigue visible instead of converted into posture.
+her work coat. She carries the night's argument the way someone twice her age
+carries a bad back — folded into the posture, not shown on the face.
 
 Rowan stops.
 
