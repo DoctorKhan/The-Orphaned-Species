@@ -146,6 +146,7 @@ Discovery-order note: **artifact zero** means oldest/deepest in cosmological pre
 | **Babylonian Map of the World** | Real artifact/textual map | The known world sits inside a larger mythic geography whose edges are narrated rather than measured | Supplies a deliberately incomplete topology; becomes useful only when compared with changing ley-line data |
 | **Nebra Sky Disc or another verified European sky-object** | Real artifact; use requires route/date research | Sky knowledge can be encoded in portable material without becoming a universal key | Bridges the Near Eastern story chain toward Europe while forcing the group to distinguish transmitted knowledge from independent discovery |
 | **Cuno–Derw marked object** | Fictional artifact already native to the story | Geometry, rhythm, body positions, and a lossy account survive the last firing | Converges the artifact stories in Albion without providing a complete manual or proving one bloodline owns the knowledge |
+| **Maros-Pangkep ochre hands** | Real excavated cave art, Sulawesi, Indonesia; oldest figurative panels dated ~43,900–45,500 ya (Aubert et al. 2019), hand stencils to ~39,900 ya (Aubert et al. 2014); dating precision remains debated | Red-ochre hand stencils and animal figures from the same window as the real Laschamps geomagnetic collapse | Texture/corroboration only, never a sixth quest artifact; encountered as photograph, cast, or scholarly account; rhymes old hand-on-stone with new hand-on-glass (Cherry Lane / Meridian palm-terminals) without ranking either |
 
 ## Arslan Tash Amulet 1 — the covenant in the household
 
@@ -574,6 +575,14 @@ Novel use: the broken eagle-serpent covenant can echo human/non-human treaty fai
 **Erra and Ishum** is optional, probably Volume III material. It carries plague, panic, violence, and civilizational breakdown, with Ishum functioning as restraint, witness, or conscience around Erra's destructive force.
 
 Novel use: this can mirror modern state violence and war panic. The important question is not whether destructive force exists; it is whether anyone can restrain it before civilization converts fear into extermination.
+
+### The Maros-Pangkep ochre hands — the Laschamps floor made visible
+
+**Real anchor:** the **Maros-Pangkep** limestone karst of Sulawesi, Indonesia, holds some of the oldest known figurative art and hand stencils on record — red- and mulberry-ochre hand stencils and animal figures (Leang Bulu' Sipong and neighboring caves), dated by uranium-series methods to as early as ~43,900–45,500 years for the oldest figurative panel and ~39,900 years for early hand stencils (Aubert, M., et al., *Nature*, 2014 and 2019). The dates sit inside the same window as the real Laschamps Excursion (~42–41 kya, `90_epigraphs_and_sources.md` §11), on the same side of the planet this trilogy is already set in.
+
+Novel use: not a physical object the group carries, but a **photograph, cast, or scholarly account** encountered in the present-day plot — a researcher's slide, a museum loan record, a smuggled scan — the same evidentiary discipline this chain already uses for the Nebra disc and the Ugaritic tablet. It never becomes a sixth load-bearing quest artifact; the locked five (Circles, Forks, Bridge, the Human-Design Triad, Map) keep that role. Its function is texture and grounding: a real, dated, regionally-adjacent instance of humans marking a wall with their own ochre-stained hands during the exact pressure window Tier 0's Laschamps Test names in `00_MASTER_TIMELINE.md`. A character with the right training (Wren, a Weaver elder, a museum contact) can recognize the hand stencil as kin to Cherry Lane's managed living landscape, or to Meridian's palm-terminals — an old hand pressed to stone answering the same need as a new hand pressed to glass, without the story ranking either technology.
+
+Guardrail: keep it real and disputed like every other object in this chain — some researchers contest the uranium-series dating precision on the oldest Sulawesi panels, and the causal link to any planetary-scale event (Laschamps included) is the cave's reading, not the archaeology's claim. Never let a character "solve" the Laschamps Test by holding this image; it corroborates a structural pressure, it does not prove Tier 0 acted with intent.
 
 ## The Arslan Tash and Destinies guardrails
 
