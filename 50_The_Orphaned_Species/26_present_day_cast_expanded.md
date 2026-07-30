@@ -497,7 +497,7 @@ Removed from the trilogy. There is no scholar-companion; Eli has no expert trans
 
 **Habit:** measures time in breaths, not minutes; laughs at checkpoint maps; surfaces mid-sentence with dinner in one hand.
 
-**Scene seeds:** the early image (Jul bouncing off her back while she picks the meadow); teaches Eli breath as *preparation, not panic* — the same asphyxia threshold that broke him open, held open safely by practice; the underwater crossing when no surface route is left; the shifted seagrass line she read years ago as a season, not an anomaly; the survey team's consent forms arriving dressed as care.
+**Scene seeds:** the early image (Jul bouncing off her back while she picks the meadow — the local kids call the game *going dolphin*); teaches Eli breath as *preparation, not panic* — the CO2 contraction wall is an alarm, not real failure, and the same asphyxia threshold that broke him open in Malacca turns out to have a door in it when he stops fighting the spasm and lets the dive reflex take over, held open safely by her practice and inheritance (full psychology: `18` seed 15 § Trick); the underwater crossing when no surface route is left, using that same door under real stakes; the shifted seagrass line she read years ago as a season, not an anomaly; the survey team's consent forms arriving dressed as care.
 
 **Voice:** economical, amused, unimpressed by urgency; names water and current conditions the way Salmah names river ones.
 
@@ -594,6 +594,8 @@ Coherence holder; tries to spare civilians; fraying.
 **Archangels (plot — Michael):** carries **St Michael medal** or prayer fragment under the collar — volunteered for the program believing the collar was **protection**, not leash; Michael = the protector title she trusted (`46` § G). Vol I Ch 8 past leak; Vol II broken-line church beat; Vol III defection rhymes with **refused protector** (Crane/Michael parallel — never lecture).
 
 **First appearance — LOCKED 2026-07-26:** **Vol I Ch 2 Meridian Circuit / Cube** — unnamed soft hunter in a suit (biosecurity cover at the first table); clocks Eli's Maren grounding gesture; fingers at collar/medal; does not force the grab (spectacle cover / idol intervenes). **Name + Custodian label:** Ch 3. Boarding conscience leak remains Ch 4+.
+
+**Why she's posted there — added 2026-07-29:** not incidental biosecurity coverage. Circuit night is a mass-entrainment event (`39_psion_biology.md` § *Circuit night as living entrainment ritual*) — the idol's stage broadcast, amplified by a stadium locking to one rhythm, makes a genuine carrier signature stand out against baseline noise the way nothing else in the city would. The Custodians already know this and quietly staff it as a standing detection net; Sora's presence at "the first table" is her doing exactly the job she volunteered for, which is what makes her hesitation at the grab (spectacle cover, not conscience — not yet) the correct read this early. Her conscience crack is still Ch 2 per the defection path above; her competence is not in question.
 
 **Voice:** soft, exhausted; apologizes to strangers after missions.
 

@@ -111,6 +111,13 @@ Endurance state frames episodes as **disease to cure** — centralized medicine,
 
 **Catastrophe-vigilance contribution — LOCKED 2026-07-21:** Mandate environmental sequencing, laboratory and supply-chain monitoring, public-health coordination, and consent-bound psionic sentinels have stopped real biological releases. This competence helped the Mandate survive and becomes part of the final compact. Its failure was allowing successful emergency vigilance to expand into permanent clinical jurisdiction. The mature rule monitors dangerous processes intensely while requiring corroboration, review, expiry, appeal, and no punishment for thought alone. See `51_field_sail_and_mandate_peace.md`.
 
+**Not as different as they claim — LOCKED 2026-07-29.** The Union and the Mandate advertise themselves as opposites — corporate-directed continuity versus collective security — but both run on the identical root failure: a competent emergency measure that never sunset, because the people it protected were the ones with the power to decide when the emergency ended.
+
+- **The Union becomes socialism for large business.** Registries and ledger discipline fall on individuals — carriers, the unregistered, ordinary debt and wage risk — while the hot-site inheritors and the enterprises tied to them get their losses absorbed, their contracts guaranteed, their failures rescued. Market discipline for citizens; the ledger softens for the connected.
+- **The Mandate becomes clearance for the connected.** "The East survived" is the compressed official story; South Asian residents and migrant workers inside the Stack's own capital did not survive it evenly (§ Capital structure above). Vigilance apparatus built to catch real biological threats becomes the same apparatus that decides who is cleared, who is classified, who is Stack-protected — and who is triage. Collective sacrifice in the propaganda; individual exposure in the ward and the dock.
+
+Same shape, different vocabulary: an insider class gets its risk socialized by the state; an outsider class is told the state's protection is universal and finds out otherwise. Neither bloc is lying about its founding competence — the Union's continuity apparatus and the Mandate's vigilance apparatus both did real, necessary work during the collapse (`15` § No sides, only incentives). The corruption is what happened after the emergency should have ended and didn't, not the emergency response itself.
+
 ### Craft rule
 
 - **Union:** disease / vulnerability / isolate / sedate  

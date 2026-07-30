@@ -1,13 +1,19 @@
 # Volume IV — *The Court of Threads* — Architecture Lock
 
-> **STATUS — LOCKED 2026-07-28:** The series is a four-volume arc. Book III no
-> longer completes Eli's relinquishment or the final civic settlement. It ends
-> with an interrupted constitutional transfer, Eli's bounded mandate continuing,
-> and the Weavers and men's cloisters elevated into rival-adjacent civic powers.
-> Book III contains only deniable Rowan/Eli attraction—no sex or romance. Book IV
-> carries conscious attraction, repeated sex before romance, Rowan's later
-> decision to pursue pregnancy, childbirth, institutional settlement, and Eli's
-> final relinquishment.
+> **STATUS — REVISED 2026-07-29:** The series is a four-volume arc. Book III
+> **does** complete Eli's first relinquishment — not the final civic settlement
+> (the teahouse/garden/birds coda still belongs to Book IV), but a real,
+> completed constitutional transfer that holds for a genuine stretch of time,
+> with the Weavers and men's cloisters elevated into civic power through
+> building it rather than surviving an attack on it. Book IV opens by
+> summarizing that working stretch, then a coordinated attack on the *working*
+> settlement forces the reconstituted institutions to decide, deliberately and
+> on the record, whether to invoke the dormant continuity clause planted at the
+> end of Book III and ask Eli to accept renewed bounded authority. Book III
+> contains only deniable Rowan/Eli attraction—no sex or romance. Book IV carries
+> conscious attraction, repeated sex before romance, Rowan's later decision to
+> pursue pregnancy, childbirth, institutional settlement, and Eli's **second**
+> and final relinquishment.
 
 *The Court of Threads* is a working title. The architecture below is canon even
 if the title changes.
@@ -16,20 +22,37 @@ if the title changes.
 
 ## 1. Book III → Book IV hinge
 
-Eli does not decide to keep power. By late Book III he has used real bounded
-authority, refused forced synchronization, and prepared a constitutional
-transfer. During the certification and handover, a coordinated attack kills,
-scatters, or compromises enough of the provisional council and its intended
-successors that no replacement can be credibly authenticated.
+Eli does not decide to keep power the first time, and he does not seize it back
+the second. By late Book III he has used real bounded authority, refused forced
+synchronization, and completed a constitutional transfer — distributed
+credentials, redundant verification, no single ceremony an attack could have
+reached all at once. It works. For a real stretch of time — long enough that
+the reader and Eli both feel it, not a paragraph of summary that evaporates —
+the constituent assembly, the Weavers, and the men's cloisters govern without
+him, and he is a private citizen: father-adjacent, useful, ordinary, replaceable.
 
-The emergency compact's pre-existing continuity clause extends Eli's mandate
-until a constituent assembly can be safely reconstituted and certify a
-successor. The extension is public, reviewable, and legally bounded, but every
-faction that benefits from delay now has a reason to keep the certification
-crisis unresolved. Eli's Book IV danger is not crude seizure. It is becoming the
-permanent answer to emergencies other people learn to prolong.
+Book IV opens on that stretch briefly, then breaks it. A coordinated attack
+kills, scatters, or compromises enough of the assembly and its officers that no
+routine succession can be credibly authenticated — not a strike on an
+incomplete process this time, but on a working one, precisely because it is
+working and precisely because that costs someone real leverage. Different court
+factions exploit different parts of the opening; do not reveal one mastermind.
 
-Two civic movements save continuity during the attack:
+The compact's dormant continuity clause — stated on the record at the end of
+Book III, then not used — can be invoked to restore Eli's bounded mandate until
+a successor is safely reconstituted and certified. It does not fire
+automatically. The reconstituted institutions **choose** to invoke it,
+explicitly, with everyone in the room having already watched the alternative
+work — which is the only way "temporary is fine, permanent is not" can be
+dramatized honestly rather than asserted. The extension is public, reviewable,
+and legally bounded, but every faction that benefits from delay now has a
+reason to keep the certification crisis unresolved. Eli's Book IV danger is not
+crude seizure. It is becoming the permanent answer to emergencies other people
+learn to prolong — a temptation sharper the second time, because everyone
+involved, including Eli, now knows exactly how well the alternative can work
+and exactly how fragile it turned out to be.
+
+Two civic movements save continuity during the second crisis:
 
 - **The Weavers** evacuate delegates, preserve living attestations, place
   survivors, restore routes, and determine which identities and messages can
@@ -38,8 +61,9 @@ Two civic movements save continuity during the attack:
   infrastructure, protect assembly remnants, and keep demobilized fighters from
   being discarded or remobilized without limit.
 
-Their success elevates both movements into formal political power. Neither rise
-is granted by Eli, and neither institution is unified.
+Their crisis response deepens political power they had already earned in Book
+III by building the first transfer. Neither rise is granted by Eli, and neither
+institution is unified.
 
 Book III plants only retrospectively legible Rowan/Eli charge. Eli looks for
 Rowan's political reaction, she can steady or confront him without triggering

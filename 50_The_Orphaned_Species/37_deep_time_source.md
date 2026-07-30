@@ -232,7 +232,9 @@ Under the present-day Eli braid, the modern child is no longer the present frame
 
 The progression echoes two separate receiver arcs: Aedan's partial heat-migration and Eli's fuller differentiation of the archive. The child wakes on the far end of transmission, not one reincarnating line.
 
-## The wheel — the book's central image
+## The wheel — a corrupted-symbol beat, not the series icon
+
+**Superseded as "central image" — 2026-07-29:** the series' flagship recurring visual is the Sanxingdui tree (`35_artifact_chain.md` § *Series icon*). Real-world swastika/sun-wheel imagery must never anchor covers or marketing. The scene below may remain as an in-story beat about how one glyph gets reinterpreted across conquest — it is content, not brand.
 
 The village already wears the swastika. To them it is the sun-wheel: cycle, song, the turning year. The Sintashta arrive carrying the same shape as the chariot-wheel: conquest, axis, hammer. **One glyph, opposite meanings.** This image recurs — on a temple lintel at Göbekli Tepe, on a Bronze Age helmet, on a flag in the final chapter.
 

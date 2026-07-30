@@ -170,3 +170,15 @@ When editing older prose, prefer this file over:
 - What the craft was *trying* to do before it failed (study pass? retrieval? unauthorized landing?)
 - Relation to the later / staged orbital-interface fall (~10.8–10.0 kya Two-stage Fall)
 - How much of Phase V Generational War politics survives once sabotage is revisited
+
+## Book III payoff — proposed 2026-07-29
+
+A recovered fragment of the craft survives, ablative material scattered by the same catastrophic breakup that seeded the globally-distributed Black Mat PGM layer — with a heavier piece having come down in or near what is now the **Strait of Malacca**. Whoever first recovered it (deep antiquity, colonial-era salvage, or modern dredging — left undetermined) passed it into custody the Eastern Mandate's precursor institutions eventually inherited without fully understanding.
+
+In the present-day story, the fragment is housed in a quiet research annex connected to **the Cherry Cube** in Meridian City — which retroactively explains both why the Cube sits where it does and why anomalous material moves through it (Book I Ch 2's Three-Circles Tablet transfer is not a coincidence Wren's network exploited once; the Cube is already the Mandate's working site for this kind of object). Some of the Cube's "too-perfect" technology — the forced eternal-bloom cherry canopy, the frictionless identity/upgrade systems — may be quietly derived from proximity to and study of the fragment, the same relationship ancient charged grounds had to their local anomalies, run through a corporate register instead of a priesthood.
+
+This gives the Strait of Malacca's modern chokepoint importance (trade, oil, security) a second, hidden layer: the region has been strategically significant since deep prehistory, not only since modern shipping economics — and every faction's stated reason for caring about the strait (trade security, biosecurity, gray-zone control) is a **costume** over that deeper truth, the same pattern already locked for the Mandate's Rasel-hunt concealing the Charkha's Maren-hunt (`WORLD_BIBLE.md` § Hunt attribution).
+
+**Reveal timing:** Book III, alongside the Forks/Bridge cosmological certification already capped there. Book I and Book II text should not reference this; the Cherry Cube stays surface spectacle plus logistics cover for now.
+
+**Still open, unchanged by this note:** who piloted the craft, what it was doing, and how this reconciles with Generational War politics remain deferred exactly as listed above — this only adds "a fragment survived and was recovered near the strait," not a resolution of the craft's origin or mission.

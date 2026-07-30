@@ -1,17 +1,22 @@
 # Volume III — *The Living World* — Beat Sheet
 
-> **BOOK IV ENDGAME SUPERSESSION — LOCKED 2026-07-28:**
-> `60_volume_IV_court_of_threads.md` governs the ending. Book III no longer ends
-> with completed inquiry, expired authority, Colorado retirement, or trilogy
-> closure. Eli prepares transfer after refusing forced synchronization; an attack
-> on certification triggers the compact's continuity clause. The Weavers and
-> men's cloisters save continuity and rise into formal power. Rowan/Eli remains
+> **BOOK IV ENDGAME SUPERSESSION — REVISED 2026-07-29:**
+> `60_volume_IV_court_of_threads.md` governs the ending. Book III ends with a
+> **completed** transfer — not full trilogy closure (the teahouse/garden/birds
+> coda still belongs to Book IV), but a real, earned success: Eli prepares
+> transfer after refusing forced synchronization, certification completes
+> without incident, and decentralized governance genuinely holds for a stretch
+> of time. The Weavers and men's cloisters rise into formal power through their
+> role in *making the transfer work*, not through crisis response to an attack.
+> Book IV opens by summarizing that working stretch, then a coordinated attack
+> on the working settlement (not on an incomplete certification) forces the
+> reconstituted institutions to ask Eli — explicitly, not through an automatic
+> continuity clause — to accept renewed bounded authority. Rowan/Eli remains
 > non-romantic and nonsexual in Book III; only deniable attraction is planted.
 > Book IV owns conscious attraction, repeated sex before romance, chosen
-> conception, pregnancy, birth, final institutional settlement, and actual
-> relinquishment. Older Ch 8–10
-> closure material below is retained as staging quarry only where it does not
-> contradict this lock.
+> conception, pregnancy, birth, final institutional settlement, and the
+> **second** relinquishment. Older Ch 8–10 closure material below is retained as
+> staging quarry only where it does not contradict this lock.
 
 > **COMPLEX-TIME SUPERSESSION — LOCKED 2026-07-27:** Any field-sail references below are retired quarry. Book III's novel physics concerns **complex time** and the possibility of lateral/sideways movement through adjacent temporal states. The peace/research sequence must build toward testable complex-time work, not a field-sail craft.
 
@@ -30,7 +35,7 @@
 > field physics and institutional memory, while Eli retains the final choice about
 > his own capacity.
 
-> **MESSIANIC RISE — LOCKED 2026-07-23; endgame revised 2026-07-28:** The series does not shy away from the messiah shape. By Volume III a substantial public treats Eli as Deiwos, chosen one, healer-king, or Son of Man. He rises through real coordination, signs, rumor, and projection. Book III proves bounded use and an attempted handover; the attack and continuity clause carry the crown into Book IV, where pregnancy adds heir mythology. Adulthood is finally proved by institutional transfer during the birth, not by denying the signs.
+> **MESSIANIC RISE — LOCKED 2026-07-23; endgame revised 2026-07-28:** The series does not shy away from the messiah shape. By Volume III a substantial public treats Eli as Deiwos, chosen one, healer-king, or Son of Man. He rises through real coordination, signs, rumor, and projection. Book III proves bounded use and a completed handover; a later attack on the working settlement carries the crown back to him in Book IV, where pregnancy adds heir mythology. Adulthood is finally proved by institutional transfer during the birth, not by denying the signs.
 
 > **CIVILIZATION AS ENGINE — THEMATIC LOCK 2026-07-22:** Book III makes explicit what Books I–II only plant. Civilization repeatedly calls itself family—motherland, fatherland, founders, sons and daughters, national household, sacrifice for future generations—but often operates as an engine. It draws in bodies, labor, attention, fertility, loyalty, and time; converts them into order, security, production, territory, and institutional continuity; and exports injury, displacement, disability, grief, ecological damage, and death into people it can afford to lose. Those people are not exhaust in the novel's moral voice: **the engine treats them as exhaust, and the story restores them as persons.** The metaphor is structural, not literal thermodynamics and not a claim that civilization produces no good. Medicine, infrastructure, defense, knowledge, and coordination are real outputs and explain consent. The indictment is that the system exports entropy downward while kinship language disguises expenditure as love. Governing distinction: **A family remembers whom it has lost. An engine records what the loss purchased.** Eli's mature answer is: **A system calling me family does not earn the right to spend me.**
 
@@ -62,7 +67,7 @@
 
 > **Tree of Knowledge in practice — LOCKED 2026-07-16:** The empirical-humility scenes are not generic scientific method; they are the Tree of Knowledge functioning correctly. A living signal becomes a public, revisable account: observation is separated from interpretation, alternatives are tested, other people can check the claim, and the conclusion changes when reality disagrees. The Tree of Life supplies contact; Knowledge asks what the contact predicts, what else could explain it, who can verify it, and what must be done if the test fails.
 
-> **Temporary authority and collapse resilience — REVISED AND LOCKED 2026-07-28:** The Continental Union breaks in Book III and power pours into Eli by proximity. He issues real orders under a bounded compact, refuses forced synchronization, and prepares transfer. An attack makes the continuity provision fire before certification completes. Book III's victory is that he binds power and genuinely attempts release; Book IV tests whether the institutions around him can stop needing or prolonging him. Final relinquishment occurs during Rowan's labor.
+> **Temporary authority and collapse resilience — REVISED AND LOCKED 2026-07-28:** The Continental Union breaks in Book III and power pours into Eli by proximity. He issues real orders under a bounded compact, refuses forced synchronization, and prepares transfer. Certification completes without incident. Book III's victory is that he binds power and genuinely completes release — decentralized governance holds for a real stretch before Book IV opens. Book IV tests whether it survives a coordinated attack, and whether he and the institutions choose to restore it a second time rather than let force settle the question. Final relinquishment occurs during Rowan's labor.
 
 > **NEW WAR — LOCKED 2026-07-18:** WWIII's hottest phase has passed, but its incompatible armistices leave blockades, proxy forces, drone fleets, and mobilization systems intact. Maren's release then creates a new strategic resource no state believes it can leave uncontrolled. The San Francisco registry seizure and the Eastern Mandate's coordinated Pacific strikes ignite the **Awakening War** (working public name): an openly renewed, multi-front war over who may register, conscript, synchronize, shelter, or destroy awakened people. The Continental Union, Eastern Mandate, Crane's security apparatus, Sol's forced-unity coalition, contractors, and local defense groups enter for different reasons; none fully controls the conflict. This is a new war born from the old one's weapons and unfinished hatreds, not merely WWIII's last battle.
 
@@ -83,7 +88,7 @@
 >
 > **Internal movement:** liberator → **strongman-by-proximity (real window)** → relinquishes → answerable ordinary member.
 >
-> **Victory condition:** coexistence survives a real failure of freedom, the Union’s fracture, the Awakening War, and an internal public reckoning. Eli **actually holds** continental coordinating power, accepts sanction, and begins transfer. A coordinated attack prevents clean certification, so a bounded continuity clause retains him into Book IV. Outcome polity is **more decentralized** (Founders-shaped recoverable parts), not a restored throne-capital. Hawaiʻi remains a temporary refuge and learning community, not a front or military prize. Complex-time verification supports a limited Union–Mandate ceasefire process; principal research, shipping, and orbital corridors stand down first, while proxy violence and accountability remain unresolved.
+> **Victory condition:** coexistence survives a real failure of freedom, the Union’s fracture, the Awakening War, and an internal public reckoning. Eli **actually holds** continental coordinating power, accepts sanction, and begins transfer. Certification completes; decentralized governance holds for a real stretch before a coordinated attack in Book IV tests whether it survives without him and whether it can be restored a second time. Outcome polity is **more decentralized** (Founders-shaped recoverable parts), not a restored throne-capital. Hawaiʻi remains a temporary refuge and learning community, not a front or military prize. Complex-time verification supports a limited Union–Mandate ceasefire process; principal research, shipping, and orbital corridors stand down first, while proxy violence and accountability remain unresolved.
 >
 > **POV:** Eli remains the trunk. Wren owns the chapter in which she refuses Eli access to the threshold network. Other ensemble action is observed through one of those two minds; one scene holds one viewpoint.
 >
@@ -104,9 +109,10 @@
 7b. At Hawaiʻi, **aloha + kuleana** and communal work-armor. Refuge receives the war’s displaced. Strongman window and care-duty collide.
 8. Eli’s strongman authority is **real**, then he refuses the extension that would forcibly synchronize nonconsenting carriers (and probably save more people) and **relinquishes** under hearing/judgment — Path A complete.
 9. The voluntary coalition survives incompletely. A holding action Eli authorizes is staffed largely by ordinary men whose “choice” is narrowed by duty, shame, conscription history, and the knowledge that somebody must stay. A named man established first as a worker, friend, or family member is killed; others return burned, amputated, neurologically injured, or not at all. A beloved threshold house is also lost. The narrative never converts their sacrifice into proof that Eli chose correctly.
-10. Eli begins the inquiry and constitutional transfer. The handover is attacked;
-    the continuity clause retains him, and Book IV completes judgment and
-    relinquishment.
+10. Eli begins the inquiry and constitutional transfer. The handover succeeds;
+    decentralized governance holds for a real stretch. Book IV opens with that
+    settlement under coordinated attack, and completes judgment and a second,
+    harder-won relinquishment.
 11. Commissioner Ma's Mandate delegation, Union survivors, and independent researchers replicate a small field-sail effect and establish a limited ceasefire and joint civilian program. At the later teahouse and shared garden, Eli is wanted but not indispensable; the ship remains years away.
 
 The precise refugee, victim, survivor, named male battlefield death, disabled survivors, and lost threshold house are now cast: Tomas Okafor, Nia Okafor, Amara Okafor, and Bima Prasetyo. Their dramatic functions remain locked.
@@ -335,7 +341,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   or confer legitimacy.
 - **Choice → Cost:** Eli testifies without controlling the conclusion and accepts
   that restrictions and transfer will be real. Certification, sanction, and
-  succession remain incomplete when the hearing delegates move toward the formal
+  succession move toward completion as the hearing delegates finalize the formal
   handover.
 - **Survivor:** Amara Okafor may acknowledge the process while still refusing Eli forgiveness.
 - **Civic proof:** an anomalous person accepts accountability without surrendering ownership of their nature; ordinary people constrain power without declaring a class of persons state property.
@@ -344,37 +350,48 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Parallel negotiation:** the hearing prevents Eli from becoming the indispensable personal guarantor of the peace. Commissioner Ma, Union physicists, Free Port representatives, teahouse researchers, and affected communities must produce enforceable terms that survive Eli's sanction and possible absence.
 - **Pitch gate — end hook:** Sanction real; Wren/Eli continue with separated jurisdiction; peace terms must survive **without Eli as guarantor**.
 
-### Ch 10 — The Broken Handover *(Eli · constituent assembly / provisional court)*
+### Ch 10 — The Handover *(Eli · constituent assembly / provisional court)*
 
-> **REBUILD LOCK 2026-07-28:** The former shared-garden/trilogy-coda material
-> retained below is quarry for the eventual Book IV coda. The active Chapter 10
-> job is the constitutional handover, coordinated attack, continuity-clause
-> extension, institutional rise, and deniable Rowan/Eli attraction seeds. Sex,
-> romance, conception, and pregnancy belong to Book IV.
+> **REBUILD LOCK — REVISED 2026-07-29:** The former shared-garden/trilogy-coda
+> material retained below is quarry for the eventual Book IV coda. The active
+> Chapter 10 job is the constitutional handover **succeeding**, institutional
+> rise earned through building it rather than surviving an attack, a dormant
+> continuity clause planted but not fired, and deniable Rowan/Eli attraction
+> seeds. Sex, romance, conception, and pregnancy belong to Book IV. The
+> coordinated attack formerly staged here now opens Book IV instead, striking a
+> working settlement rather than an incomplete certification (`60` § 1).
 
 - **Want:** complete certification, transfer command, and make the compact work
   without Eli as personal guarantor.
-- **Attack:** a coordinated strike kills, scatters, or compromises enough
-  delegates, records, and intended successors that no replacement can be
-  credibly authenticated. Different court factions exploit different parts; do
-  not reveal one mastermind.
-- **Weaver rise:** Wren, Rowan, Asha, and multiple houses evacuate delegates,
-  preserve living attestations, restore trusted messages, and place survivors.
-  Their success makes Weaver participation in formal government unavoidable and
-  dangerous.
-- **Cloister rise:** Extra men, veterans, Thread elders, repair crews, and the
-  forming cloisters hold the perimeter, move casualties, restore infrastructure,
-  and prevent abandoned fighters from being remobilized without consent. Their
-  success gives them public standing, force, and direct leverage over Eli.
-- **Continuity clause:** the pre-existing compact retains Eli only until a
-  successor can be credibly certified. The extension is bounded and reviewable;
-  factions immediately acquire incentives to prolong it.
+- **How it succeeds:** no single ceremony, no single signature — distributed
+  credentials, redundant verification across multiple communities, and
+  witnessed attestation that no single attack could plausibly reach all of at
+  once. Certification completes because it was built to have no single point of
+  failure, the lesson the Union and Mandate never learned about their own
+  emergency powers (`23_2040_present_frame.md` § Not as different as they
+  claim).
+- **Weaver rise:** Wren, Rowan, Asha, and multiple houses build and cross-verify
+  the living attestations that make distributed certification credible in the
+  first place — not emergency triage, deliberate infrastructure. Their success
+  makes Weaver participation in formal government earned and, soon, difficult
+  to dislodge.
+- **Cloister rise:** Extra men, veterans, Thread elders, and repair crews staff
+  the transfer's physical logistics — securing records, escorting witnesses,
+  holding sites during the vote — without a crisis forcing their hand. Their
+  success gives them public standing and civic legitimacy before any attack
+  ever tests it.
+- **Continuity clause — planted, not fired:** the compact retains a dormant
+  provision allowing Eli's mandate to be reinstated, bounded and reviewable, if
+  a future certification is ever compromised. It is stated on the record and
+  then not used. Chekhov's clause for Book IV — the reader should half-forget
+  it until it matters.
 - **Rowan/Eli charge:** their direct political intimacy remains nonsexual and
   non-romantic. One final dual-reading beat may make a future crossing possible
   without promising it. Wren/Rowan and Wren/Eli remain intact.
-- **End hook:** Eli still holds the crown he prepared to surrender, and the two
-  grassroots institutions now stand inside government. The court exists before
-  it has an heir story to organize around.
+- **End hook:** the crown is no longer Eli's. The two grassroots institutions
+  stand inside government because they built it, not because they survived an
+  attack on it — which is exactly what makes the new settlement worth attacking
+  in Book IV, and exactly what the reader should not yet suspect is coming.
 
 - **Time:** enough has passed that cooperation is no longer forced by battle.
 - **Cloister proof:** the Colorado residence is maintained and governed by its
@@ -435,6 +452,7 @@ becomes compatible with an afternoon nobody turns into destiny.
 - The spiritual commonality hinted across traditions is not that all religions are interchangeable. Each can preserve, distort, or rediscover its highest claims; none is Eli’s endorsement machine.
 - The talking stones are not a magical property deed or shortcut around local governance.
 - The armor is communal equipment, not evidence that Eli has been chosen to rule.
-- Eli ends Book III as a bounded ruler retained by the continuity clause, not an
-  unreviewable sovereign. He ends the series in Book IV as an answerable
-  participant, not a hidden ruler, saint, martyr, or indispensable founder.
+- Eli ends Book III as a private citizen who completed a bounded transfer, not
+  an unreviewable sovereign retained by emergency law. He ends the series in
+  Book IV as an answerable participant, not a hidden ruler, saint, martyr, or
+  indispensable founder — proved twice, not once.

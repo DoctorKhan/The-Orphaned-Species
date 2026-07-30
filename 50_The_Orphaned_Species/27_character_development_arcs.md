@@ -147,7 +147,7 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 - Failure: a refugee admitted under his sponsorship commits a fatal nonconsensual mind-entry; Eli remains present to grief and accusation.
 - Wren boundary: recognizes that partnership gives him no jurisdiction over her threshold network.
 - Climax: accepts the federation's bounded crown; refuses forced synchronization even though it would probably save more people; prepares a constitutional transfer.
-- Hinge: the certification/handover is attacked; the continuity clause keeps his bounded mandate active while the Weavers and men's cloisters become indispensable civic powers.
+- Hinge: the certification/handover succeeds — decentralized governance holds for a real stretch, with the Weavers and men's cloisters earning civic power by building it. Book IV opens by breaking that stretch: an attack on the *working* settlement leads the institutions to deliberately invoke the dormant continuity clause and ask Eli back into bounded authority.
 - Romance: Rowan/Eli remains nonsexual and non-romantic. Plant only a few
   deniable signals inside political trust; no pregnancy.
 
@@ -174,8 +174,8 @@ Eli's through-line is an **ascent into answerability**, not a flat run of nos. H
   recovers Rasel without acquiring an expert guide. His flare is a double-edged
   "arrival" (rise = exposure).
 - **Vol II — agent → liberator:** wins against Custodian control, grows a coalition, reaches Maren, releases her, and seeds the first awakening without owning the amplifier. The myth accretes against his will. Liberation outruns the social capacity to hold it.
-- **Vol III — coordinator → bounded ruler:** his successful refugee response earns real authority. After freedom produces a victim, he accepts a purpose-bound, revocable crown during attack, refuses forced synchronization, and prepares transfer. An attack on certification activates the continuity clause and prevents the planned step-down.
-- **Vol IV — ruler → answerable member and father:** court factions learn to prolong emergency, the Weavers and men's cloisters become powers beside him, and Rowan's pregnancy is pressed into succession mythology. Eli helps build a successor structure that can survive him, then relinquishes during the birth rather than transmit office by blood.
+- **Vol III — coordinator → bounded ruler → private citizen:** his successful refugee response earns real authority. After freedom produces a victim, he accepts a purpose-bound, revocable crown during attack, refuses forced synchronization, and completes transfer. Decentralized governance genuinely holds for a real stretch before the volume ends.
+- **Vol IV — private citizen → bounded ruler again → answerable member and father:** an attack on the working settlement leads the reconstituted institutions to deliberately invoke the dormant continuity clause and ask Eli back in. Court factions learn to prolong the second emergency, the Weavers and men's cloisters deepen powers beside him, and Rowan's pregnancy is pressed into succession mythology. Eli helps build a successor structure that can survive him, then relinquishes a second and final time during the birth rather than transmit office by blood.
 
 **He sees the cost of imbalance both ways:** permanent throne becomes the cage; permanent renunciation abandons people who need coordinated protection. Maturity is the rhythm—gather authority for a defined necessity, bind it in advance, expose it to review, and disperse it afterward. His final proof is not taking off a symbolic crown by personal virtue; it is accepting that ordinary people can judge and limit him. Positive form: `Thesis.md` § "The mature form — structure that breathes."
 

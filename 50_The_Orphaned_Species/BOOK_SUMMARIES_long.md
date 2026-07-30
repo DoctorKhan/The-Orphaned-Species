@@ -181,8 +181,8 @@
 # BOOK III — *THE LIVING WORLD*
 
 **Dramatic question:** Can free communities protect people from dangerous capacity without turning capacity into an owned identity—no registry, cult, army-state, or permanent ruler?
-**Arc:** liberator → strongman-by-proximity → bounded ruler → attempted relinquishment → retained by a continuity clause after an attacked handover.
-**Route:** Pelangi Reach refugee crisis → San Francisco (Yerba Buena/King) → ruined Washington → Union rupture / **Awakening War** → bounded compact → Hawaiʻi temporary refuge → distant corridor operation → public hearing → attempted constitutional transfer → attacked handover.
+**Arc:** liberator → strongman-by-proximity → bounded ruler → completed relinquishment → private citizen (attack and second bounded mandate move to Book IV, `60_volume_IV_court_of_threads.md`).
+**Route:** Pelangi Reach refugee crisis → San Francisco (Yerba Buena/King) → ruined Washington → Union rupture / **Awakening War** → bounded compact → Hawaiʻi temporary refuge → distant corridor operation → public hearing → constitutional transfer succeeds.
 **Numbering lock:** Book III runs 1–10.
 
 ---
@@ -218,8 +218,8 @@ Eli **refuses forced synchronization**; coordinates consenting nodes; leaves dis
 ## Book III, Ch 9 — The Hearing Begins (Eli · Hawaiʻi civic room)
 Ordinary public inquiry examines sponsored refugee, Ch 3 death, his emergency authority, disproportionate male holding-cost, materially free consent, lifetime care, Ch 8 losses, and the drone killing. Eli testifies without controlling conclusion; accepts real limits on future authority. Extra men, veterans, Harbor Thread elders, and Eli begin a cloister compact with participant authorship and veto; Weaver houses cannot select initiates or confer legitimacy. Crane is contained by coalition procedures/evidence, not pardoned or sentenced. Local authority can limit/revoke federation activity. Wren/Eli choose continued relationship after jurisdiction is separated from love—no destiny language, no instant repair.
 
-## Book III, Ch 10 — The Broken Handover (Eli · Hawaiʻi repair hall)
-The sanctioned ruler opens a seven-desk constitutional transfer in a repair hall. Living attestations matter more than identity keys. A coordinated, multi-actor attack kills Celia Park, injures Asha Raman, compromises delegates and successor credentials, and nearly turns emergency continuity into seizure. Weaver routes preserve the human attestations; cloister crews and women-led local defense preserve the assembly. Both movements earn formal power through indispensable action, not endorsement by Eli. Because the transition began before his authority expired but certification could not safely finish, the compact's continuity clause retains him under narrowed, reviewable authority.
+## Book III, Ch 10 — The Handover (Eli · Hawaiʻi repair hall)
+**REVISED 2026-07-29 — casualty placement flagged, not yet decided:** the sanctioned ruler opens a seven-desk constitutional transfer in a repair hall. Living attestations matter more than identity keys. Distributed credentials and redundant verification across multiple communities mean no single point of failure exists to attack — certification completes. Weaver routes and cloister crews earn formal power through building the transfer, not surviving an attack on it. Eli becomes a private citizen; decentralized governance holds for a real stretch before Book IV's coordinated attack on the *working* settlement (`60_volume_IV_court_of_threads.md`). **Open question:** the previous version's attack killed Celia Park and injured Asha Raman during this chapter — does that casualty beat move to Book IV's attack instead, or does Book III need a different cost for this chapter now that the handover itself succeeds? Not decided by this pass.
 
 **Book III exit:** Eli genuinely tried to relinquish and instead acquired a court. Rowan/Eli attraction remains deniable and nonromantic. Book IV must decide whether the institutions that saved continuity can accept limits and complete the transfer.
 

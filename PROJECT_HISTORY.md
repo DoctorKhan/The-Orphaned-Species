@@ -59,6 +59,18 @@ The local links below work in the shared Projects workspace. A GitHub link is in
 
 The governing dependency direction is **sibling laboratory -> deliberate reconciliation here -> novel or companion**. It must never reverse into silent bulk copying from an older snapshot.
 
+## Open integration task — The Cosmic Game's reincarnation cosmology (flagged 2026-07-28)
+
+The old four-book series (`../Documents/Projects/Universal-Book-Compiler/books_config.yaml`) ran **The Social Game → Manual Override → The Human Experiment (subtitled "The Orphaned Species") → The Cosmic Game**, not the current 10/20/30/40 order, and the current `40_Consciousness_Technologies` replaced a much larger, mostly unmigrated book: **The Cosmic Game: A User's Guide to the Meaning of Life** (`../Documents/Projects/Books/The_Cosmic_Game/`, ~90,000-word target, 12 chapters + appendices, of which current `40_Consciousness_Technologies` is 434 lines).
+
+**The Cosmic Game is a full reincarnation cosmology** — Earth as a "cosmic university," the soul as eternal individuated consciousness choosing "charges" as pre-incarnation curriculum, a three-phase learning cycle, graduation ending the reincarnation cycle, a literal "life review" as cosmic thesis defense, graduated souls serving as guardian-angel-style mentors, and eventual co-creator status. **Confirmed by the author (2026-07-28): this reincarnation layer is real, intended canon** — not a discarded early draft. It is not currently reflected anywhere in `50_The_Orphaned_Species` or `30_The_Human_Experiment`, both of which run species-scale (one engineered species, one forced departure) rather than soul-scale (many lives, individually chosen curricula).
+
+**Working hypothesis, not yet decided:** the reincarnation layer may nest as the individual-soul-scale ring underneath the species-scale story, consistent with the "verdict is fractal, not only civilizational" lock in `50_The_Orphaned_Species/17_reveal_order_and_reader_impact.md` § "The court metaphor is an entry point" — i.e., a person's own reincarnation arc and the species' departure arc could be two scales of the same engine-of-growth mechanism, rather than competing cosmologies. This has not been reconciled with the "faithful Watchers as spirit-plane defense" or "human dead persist on the spirit plane, can be tethered as grid fuel" material already locked in `34_two_energies_and_planes.md` — that table currently treats "the human dead" as a single discarnate category without a reincarnation cycle, which will need to change or be clarified if reincarnation is canon.
+
+**Also worth recovering before deciding:** The Cosmic Game's Part 4 ("The Trial of the Framework," `../Documents/Projects/Books/The_Cosmic_Game/src/95_archive/`) is a different kind of trial than the Iblīs/Watchers court-proceeding material locked this session — a meta-literary roundtable cross-examining whether the theory itself is credible (materialist science vs. Christian tradition vs. the book's own framework), not an in-story cosmological trial of humanity. Some of its dialogue ("a creator who constantly intervenes... keeps them as children forever"; grace as "the ever-present possibility of Manual Override") anticipates ideas rebuilt independently this session from a different entry point, suggesting real continuity worth mining rather than starting from scratch.
+
+**Next step:** a dedicated pass through `../Documents/Projects/Books/The_Cosmic_Game/src/95_archive/` (not yet fully read) before deciding how reincarnation reconciles with the current spirit-plane/dead taxonomy and whether Consciousness Technologies should absorb more of the original Cosmic Game content.
+
 ## Phase 0 — Early motifs and the single-book precursor
 
 ### March 2025 — `../annunaki`
@@ -303,6 +315,10 @@ The healer can attend a meal without being worshipped. Eli can work aboard a sai
 On June 24, 2026, unresolved structural decisions were separated into `50_The_Orphaned_Species/99_open_questions.md` so the main architecture does not become a dumping ground for every undecided mechanism.
 
 Two artifact concepts were also added to the chain. The **Three-Circles Tablet** is a fictional or disputed tablet showing three concentric circles with a dot at the center, giving Body, Family, and Civilization a visual object without claiming a verified ancient source for the modern framework. The **Adapa tablet lacuna** makes the missing part of the Adapa story a plot problem: characters can argue over what Adapa almost understood, what later transmission lost, and how helpful warnings become cages.
+
+## Phase XIV — Four-volume map held (brief split reversed)
+
+On July 29, 2026, Book I was briefly split into two volumes (Breach Ch 1–3 / Living Route Ch 4–13) and later books were renumbered upward to five. The same day the split was reversed: ~17k words is novella length, not a durable Book I, and the Thailand→Sanxingdui sequence belongs inside the Breach volume's single arc. Authoritative map: `SERIES_STRUCTURE.md` (I Breach, II Descent, III Living World, IV Court of Threads).
 
 ## Current source-of-truth hierarchy
 

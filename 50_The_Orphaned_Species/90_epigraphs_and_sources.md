@@ -40,6 +40,50 @@ A living collection of real scientific papers, excerpts, and quotes that anchor 
 > — Author, *Journal* (year)
 ```
 
+## Layer 0 — in-world document epigraphs (fictional sources)
+
+**Purpose:** the citation layer above anchors myth to real science. This layer does the other job Dune's Irulan epigraphs did for Herbert: move dense institutional/historical texture *out* of scene prose and into a compressed fragment the reader meets before the scene starts, so the scene itself can move at speed. It reuses assets the project already has — the Rootbook, Charkha registry forms, conservation records, disputed translations, harbor broadsheets — as the source of the fragment, rather than inventing a new device.
+
+**Never mix with Layer 1 (real-science epigraph) in the same chapter opening.** Keep them typographically and functionally distinct so a reader always knows which kind of truth they're reading:
+
+| | Layer 1 (real science) | Layer 0 (in-world document) |
+|---|---|---|
+| **Source** | A real paper, verbatim | A fictional document: Rootbook margin, registry form, broadsheet, conservation label, disputed translation |
+| **Attribution line** | Author (year), *Journal* | In-world document name, hand/office, place — no real-world date format; use the story's own calendar/place markers |
+| **Job** | Tilts the floor under the myth — "this part is real" | Delivers institutional/historical texture *before* the scene needs it, so dialogue and action don't have to carry it |
+| **Placement** | Chapter opening, part divider | Chapter opening, or a section break within a chapter, wherever a scene is about to lean on unexplained procedure or backstory |
+
+**Rule:** a Layer 0 epigraph earns its place only if it removes work from the scene that follows — a term the scene would otherwise have to explain in dialogue, a piece of history the narration would otherwise have to stop and deliver. If the scene works fine without it, cut it; don't pad every chapter head out of habit (same discipline as Layer 3's "default silent" rule above).
+
+**Template:**
+
+```markdown
+> [Fragment: form language, margin note, broadcast text, or disputed translation — kept short, one document, no character explaining it]
+>
+> — *[In-world document name], [hand/office/place]*
+```
+
+**Worked example — Chapter One, retrofitted:**
+
+A Rootbook fragment ahead of the chapter, in Rasel's hand — plants the object and the father's voice before Mei ever produces the notebook on-page, so the reveal lands as recognition instead of first introduction:
+
+```markdown
+> *Water before light. Roots argue with nothing; they only grow toward what feeds them. A boy will do the same, if you let him.*
+>
+> — Rootbook, margin note, unsigned hand later confirmed as Rasel Khan's
+```
+
+A second candidate, for the Ch 2 Babaji/Wren attestation scene specifically — this is the scene the jargon-thinning pass touched last time, and a one-line registry fragment ahead of it would let "sponsor line," "corridor worker," and "cohort" land as already-familiar terms instead of a cluster the dialogue has to introduce and define at once:
+
+```markdown
+> COMPOUND ATTESTATION — MERIDIAN CORRIDOR AUTHORITY
+> Bearer classification: WORKER LANE. (Reclassification to COHORT REVIEW is not reversible from this form.)
+>
+> — standard-issue attestation sleeve, Meridian Circuit processing office
+```
+
+Neither is inserted into `MANUSCRIPT.md` yet — these are drafts to evaluate the device before committing it to the reader-facing text.
+
 ## How to use this file
 
 - **Add freely.** Paste new papers, quotes, and excerpts under the relevant section. Rough is fine; we tidy later.

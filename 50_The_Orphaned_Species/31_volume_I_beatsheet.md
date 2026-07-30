@@ -6,6 +6,8 @@
 > displaced. Professor Emrys does not exist. Existing Gulf/Göbekli cards are
 > relocation quarry for Book II.
 
+> **Laos closure / Vietnam detour — LOCKED 2026-07-29:** the intended Ch 11 crossing (Thailand → Laos/Yunnan → Sichuan) is interrupted — the same rising regional emergency that later erupts into the Sanxingdui civilian evacuation closes the Laos border first, while the group is already en route. The forced detour runs north through Vietnam instead, in monsoon season: unexploded ordnance and unmanaged dioxin hotspots (Da Nang, A Lưới Valley), mapped and partially contained before the Hinge, now live and unmarked because nobody is left to maintain clearance — and rising floodwater shifts buried ordnance and spreads contaminated sediment past any old clearance line, so even "cleared" ground can't be trusted. Rain, mud, and brown water hiding what's underfoot are the sequence's texture, not set dressing. Full route rationale: `00_NARRATIVE_STRUCTURE.md` § beat 5. **Ch 11 needs a revision pass** to weave this into its existing Edda/Dara/Sora mechanics (below) — not a replacement of that chapter's want/opposition/clock structure, an added leg before it resolves.
+
 > **HIGH PRIORITY — LOCKED 2026-07-25; place-craft 2026-07-26:** Chapter beats must pass **`55_series_pitch_and_comps.md`** clue-chain gate (body movement, visual key, short-loop payoff, domestic cost, **wonder + place lie**). Place geometry / lies / Silo grammar: `14` § *Place-craft — Silo grammar*.
 
 > **CURRENT SPINE — LOCKED 2026-07-27.** Book I runs the Reclamation, Pelangi
@@ -271,7 +273,8 @@
 
 ## ACT IV — Father and the Living Tree *(AUTHORITATIVE — LOCKED 2026-07-26)*
 
-### Ch 11 — Human Doors *(Eli · Thailand → Laos/Yunnan → Sichuan)*
+### Ch 11 — Human Doors *(Eli · Thailand → [Laos closed → Vietnam detour] → Yunnan → Sichuan)*
+- **Route complication — flagged for integration:** the Laos crossing closes as the regional emergency that later triggers Sanxingdui's civilian evacuation starts to bite. The group is forced through Vietnam's UXO fields and unmanaged dioxin hotspots instead — real physical hazard, not lore. This needs to land inside the existing want/opposition/clock below (does it change what Edda offers, give Sora's border-reading corruption a new target, or cost Dara's freight permit differently?), not sit beside it as an unrelated detour.
 - **Immediate want:** reach Rasel before the Mandate moves him; resist the four-day road home to Bangladesh.
 - **Opposing wants:** Edda wants clean voluntary intake; Dara wants to preserve
   her family freight permit; Wren refuses to decide for Eli; Eli wants the fastest

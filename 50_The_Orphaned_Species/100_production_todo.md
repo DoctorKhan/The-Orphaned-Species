@@ -6,14 +6,21 @@
 > Nobody is captured. Emrys does not exist. Mesopotamia and Göbekli are allocated
 > to Book II. Book III no longer rescues Rasel.
 
-> **BOOK IV ARCHITECTURE AND DRAFT — COMPLETED 2026-07-28:** The series now ends in a
-> women-led court volume. Book III's handover is attacked; Eli continues under a
-> continuity clause; the Weavers and men's cloisters rise; Rowan/Eli receives
-> only deniable attraction seeds. Book IV carries conscious attraction, repeated
-> sex before romance, chosen conception, pregnancy, childbirth, institutional
-> settlement, and Eli's relinquishment. The governing spine is in
-> `60_volume_IV_court_of_threads.md`; complete ten-chapter drafts now exist for
-> Books II–IV. The former Book III shared-garden coda now closes Book IV.
+> **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-07-29, PROSE NOT YET RECONCILED:**
+> The series now ends in a women-led court volume. Book III's handover **succeeds**
+> and decentralized governance holds for a real stretch; Book IV opens on that
+> stretch, then a coordinated attack on the *working* settlement leads the
+> institutions to deliberately invoke a dormant continuity clause and ask Eli
+> back into bounded authority; the Weavers and men's cloisters deepen power
+> already earned in Book III; Rowan/Eli receives only deniable attraction seeds.
+> Book IV carries conscious attraction, repeated sex before romance, chosen
+> conception, pregnancy, childbirth, institutional settlement, and Eli's second
+> and final relinquishment. The governing spine is in
+> `60_volume_IV_court_of_threads.md`. **Complete ten-chapter drafts exist for
+> Books II–IV written under the prior premise (attacked/incomplete first
+> handover) — those drafts need a reconciliation pass against this revision,
+> particularly Book III's ending chapters and Book IV Ch. 1.** The former Book
+> III shared-garden coda still closes Book IV.
 
 **Status:** four-volume drafting pass complete, 2026-07-28. Remaining unchecked
 items are research verification, cast-bible cleanup, publication expansion, or

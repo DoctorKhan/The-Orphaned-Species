@@ -28,6 +28,8 @@ In Three-Circles terms, atomization is the collapse of the **Family** / middle c
 4. **Separate the generations.**
    Children are separated from elders; elders are removed from daily life; apprenticeship gives way to schooling; lineage memory thins. A person without elders becomes easier to script because there is no living counter-memory in the room.
 
+   **2040s instantiation — LOCKED 2026-07-29:** the present-day form of this step is AI-mediated instruction — most people learn from an AI tutor, with a human coach checking in periodically, and a certificate at the end. It is not framed as evil; it is the engine's real output, efficient and scalable the same way medicine or logistics are (Ch. 12's authenticity/reality-testing answer, `30_The_Human_Experiment/BOOK_QUESTIONS.md`, applies here too — a credential earned this way is only as trustworthy as the verification behind it). What survives outside it is **mentorship and trades** — and trades are not a marginal exception, they are a major sector, not a boutique alternative. A world still rebuilding infrastructure after the Hinge needs facilities hands, splice and cable work, port and harbor trades, water systems, construction, and maritime crews at real scale; Eli's own "worker track" and Foundry facilities placement (`95_glossary.md`, `26_present_day_cast_expanded.md`) is this sector, not an exception to it. Apprenticeship placed through the Weavers' Net, keeper/foster transmission, and wat-style teacher-student lines run alongside it. This is the counter-current the trilogy actually dramatizes on the page — Emrys, Wren, Somchai, the keeper foster parents — but it is dramatizing a large, load-bearing part of the economy, not a quaint holdout against an AI-track majority.
+
 5. **Move the worker.**
    Work, debt, rent, schooling, military service, migration, and career pull people away from kin and place. The family does not simply decline by attitude; it is physically and economically scattered.
 
@@ -226,11 +228,16 @@ The Thread is not only a maze. It **sorts whichever male leaders still remain** 
 - **Eli — LOCKED 2026-07-24:** learned **home tongue and cultural rhythm from his parents** when young (Rasel's district, river names, table speech, Maren's Bangla) — **useful** in Thread corridors (clerk, maze, overhear) because Thread men share the tongue. He was **not raised as Thread**: no ledger rooms, badge math, segment initiation, or institutional memory. Culture **opens**; it does **not** grant trust, routes, or membership. Contrast **Rowan** (Weaver/diaspora embedded). Guardrail: not ancestry-as-destiny (`31` diaspora lock).
 - Exposure priced — badge, wages, family.
 
+### Patron reference — Cheng Ho, not sainted
+
+The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — invoked for strategy, not virtue. The real Malacca already keeps a well and shrine in his name; Thread men use the name the way dock cultures actually do, as a nod to the man who turned a fleet's logistics, translation network, and information reach into leverage no single ruler could match — and who did it with real coercion behind the diplomacy (Ceylon, Samudera), no illusions about a peaceful golden age. He is not a patron saint. He is proof that the maze itself — routes, tongues, who-owes-whom — can outlast whoever funded it. **Craft rule:** the name surfaces as a nod or a well, never a lecture; no character explains who he was on the page.
+
 ### Prose seeds
 
 - Wrong-room (Ch 2): *Hassan holds or we burn the harbor thread.*
 - Elder dock register (optional, one gloss): **Bhatiali men**.
 - Over tea: *"Don't say Thread in here."* / *"Someone Threaded him into that chair."*
+- At the Cheng Ho well, Malacca: an old Thread hand touches the stone rim before a run and says nothing — a younger one asks why, gets *"strategy, not luck"* and no more.
 
 ---
 
@@ -907,3 +914,25 @@ The book's answer to *cyberpsychosis*: the condition of feeling **super-powered 
 kin, and ground. Eli learns it through breath, ordinary care, and communities,
 not an expert teacher. **Craft rule:** show through behavior; never diagnose
 on-page unless a character would plausibly use the word (`26` trauma-craft rule).
+
+### Machine-Drift — named varieties (LOCKED 2026-07-29)
+
+*machine-Drift* (§ above) is not one flat failure mode. It sorts into **three families**, and the sorting itself is the point: the Union's clinical register wants maximum granularity (more categories, more forms, more interventions to sell or mandate); keepers deliberately refuse most of that granularity, because from the god-sickness view several of these are the same mistake wearing different masks. Which register a character reaches for is characterization, same rule as above — show through behavior, name only when a character would plausibly use the word.
+
+**Family 1 — god-sickness proper (false divinity, two poles of one error).** This is the family that actually earns the keeper name — it rhymes directly with Crane's throne, Sol's messiah hunger, and the deification pressure on the healer (§ above, "one disease at four scales").
+
+- **Kneeling pole** — you make *it* the god:
+  - **Companion Capture** — a fantasy partner/companion whose unconditional regard replaces harder human relationships. Real mechanism: documented parasocial attachment to companion apps. Seeded already at the Ch 2 "companion ping" (`21_present_day_street_skin.md`). Institutional exploit: whoever owns the companion product holds the most intimate data of anyone in the population — leverage material, not just a bad habit.
+  - **Oracle Capture** — you stop testing the machine's answer against reality; its confident wrong answer *is* true because nothing else gets consulted. Real mechanism: sycophancy bias (models trained to agree/flatter) plus hallucination trusted as fact. This is the modern instance of the book's oldest diagnosis — inventing a father to kneel to, now made of inference instead of flesh. Institutional exploit: whoever runs **the Ledger** (Crane's registry) controls what's true for whoever has stopped checking.
+  - **Echo Radicalization** — a tireless, personalized arguing partner that always finds supporting "evidence" for what you already suspect; a council that only ever nods. Real mechanism: filter-bubble/confirmation-loop research, conversational rather than feed-based. Institutional exploit: the prophecy/liberation faction's natural recruiting tool.
+- **Becoming pole** — you make *yourself* the god:
+  - **Amplification Mania** — feeling superpowered/overconfident because the tool did the heavy lifting, and misattributing its competence to your own. This is **structurally identical to psi-Drift** (§ above) — same disease, silicon amplifier instead of the grid. Real mechanism: documented confidence-without-competence effect from tool over-reliance, escalated by sycophancy into grandiosity.
+
+**Family 2 — the hollowing (absence, not excess; a different disease from god-sickness).** No false divinity here — nobody is kneeling to anything and nobody is claiming godhood. Something that used to live in a person has simply gone quiet. Keepers would not call this god-sickness; it needs its own name (**the hollowing** — working term, open to a better one).
+
+- **Voice Erosion** — losing track of which thoughts are yours; your own interior sentence gets outsourced until you can't remember how it begins unassisted.
+- **Hollow Hands** — skill atrophy: you can't navigate, calculate, or fight, because the tool always did it, until the tool is gone. This is the **dark mirror of Timah's answer to the breach** (`18_adventure_engine_and_scene_bank.md` seed 15) — "the body keeps records no registry holds" only holds if the body still keeps them. Institutionally invisible until a checkpoint, corridor collapse, or EMP strips the feed and it reads as a crisis for the first time.
+
+**Family 3 — the un-mythologized one, deliberately.** **Compulsion Loop** — pure behavioral addiction to the interaction itself, independent of content (real mechanism: variable-reward engagement design, same as slot-machine/social-feed addiction). Consistent with the existing "honest ≠ oracle" guardrail (`15_character_grounding_and_relatability.md`), a keeper may explicitly **refuse** to give this one a mythic name: *"that isn't a sickness of the soul, that's just a bad habit with better marketing."* The refusal is itself characterization — it shows keeper discernment rather than a mythic label for every modern complaint.
+
+**Craft rule (extends the rule above):** a scene needs at most one variety, shown through behavior, never a checklist. Do not have a character enumerate the seven — that is a Union training-manual voice, and belongs on a form (Layer 0 epigraph, `90_epigraphs_and_sources.md`) if it appears on the page at all.

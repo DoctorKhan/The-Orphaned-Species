@@ -354,4 +354,4 @@ Pelangi refugee crisis → **intake harm (Ch 3)** → SF/Yerba Buena + **Crane S
 - **Messianic rule:** show kneel reflex **working** (`33` lock) — win is **re-teach deiwos + step-down**, not deny signs.
 - **Rasel consequence:** give him an independent Book III stake and conflict; do not repeat the rescue already completed at Sanxingdui.
 
-**Vol III close:** coexistence survives real failure; bounded authority is offered an exit but the handover is attacked; complex-time verification supports a narrow ceasefire process; Eli remains under a continuity clause rather than by acclamation; war remains an unresolved human condition.
+**Vol III close:** coexistence survives real failure; bounded authority is offered an exit and the handover succeeds, holding for a real stretch — a private citizen, not by acclamation; complex-time verification supports a narrow ceasefire process; war remains an unresolved human condition. (Book IV opens on that working stretch, then breaks it — `60_volume_IV_court_of_threads.md`.)
