@@ -5,7 +5,7 @@
 > Professor Emrys does not exist. Mesopotamia and Göbekli move into Book II before
 > the route continues west to Maren.
 
-> **HIGH PRIORITY — LOCKED 2026-07-25:** Chapter beats must pass **`55_series_pitch_and_comps.md`** 10-point clue-chain gate (landmark set-pieces, dual-register clues, short-loop payoff). **Vol II chapter-by-chapter audit + end hooks:** `55` § *Book II — chapter-by-chapter pitch audit*.
+> **HIGH PRIORITY — LOCKED 2026-07-25; pressure rules 2026-07-29:** Chapter beats must pass **`55_series_pitch_and_comps.md`** clue-chain gate (landmark set-pieces, dual-register clues, short-loop payoff) **and** the **Three pressure rules** (two live clocks — rescue vs network/registry/**Sol**; antagonist present-tense job; cost → next chapter). Book II dual-clock map: `55` § *Book II — dual-clock & cost→next map*. **Vol II chapter-by-chapter audit + end hooks:** `55` § *Book II — chapter-by-chapter pitch audit*.
 
 > **CURRENT SPINE — LOCKED 2026-07-27.** Book II runs post-Sanxingdui with
 > Rasel present and Wren displaced → Mesopotamia/Göbekli → Bosporus/Balkans →

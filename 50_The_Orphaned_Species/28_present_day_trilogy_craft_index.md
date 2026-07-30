@@ -1,8 +1,8 @@
-# Present-Day Trilogy — Craft Index
+# Present-Day Series — Craft Index
 
-> **Status:** navigation hub for Book 50 present-day **craft and cast** documentation (docs `21`–`27`). Cosmology, deep time, and manuscript draft live elsewhere — see `00_ARCHITECTURE.md`. **When drafting:** start here if unsure which doc governs a decision.
+> **Status:** navigation hub for Book 50 present-day **craft and cast** documentation (docs `21`–`27`). Cosmology, deep time, and manuscript draft live elsewhere — see `00_ARCHITECTURE.md`. **When drafting:** start here if unsure which doc governs a decision. Filename still contains `trilogy` for legacy path stability; contents govern the **series** (Books I–IV; optional V–VI — `SERIES_STRUCTURE.md`). Do not call the novel a trilogy in new materials.
 
-> **HIGH PRIORITY — LOCKED 2026-07-25:** **`55_series_pitch_and_comps.md`** governs shelf positioning, agent/back-cover copy, comps (*Da Vinci Code*, *National Treasure*), clue-chain obligations, and the 10-point revision gate. Check it at outline, draft, and revision alongside `14` and `17`.
+> **HIGH PRIORITY — LOCKED 2026-07-25; pressure rules 2026-07-29:** **`55_series_pitch_and_comps.md`** governs shelf positioning, agent/back-cover copy, comps (*Da Vinci Code*, *National Treasure*), clue-chain obligations, checklist items 1–14, and the **Three pressure rules** (two live clocks; antagonist present-tense job; cost → next chapter). Check it at outline, draft, and revision alongside `14` and `17`.
 
 ---
 
@@ -37,7 +37,7 @@
 | Angelic orders / seraphim / cherubim | `46` § H — **ON HOLD** (cross-plane agency TBD) |
 | Dead zones / psion scour | `37` § *Dead zones*; `38` § *Scour & ground targeting* |
 | Nephilot trail / Alba–elf / Pömmelte massacre | `37` § *Tracking the Nephilot line*; `90` §6 |
-| Plot spine (3 vol, acts, gaps) | `29_trilogy_plot_and_development.md` |
+| Plot spine (Books I–IV acts, gaps; V–VI open) | `29_trilogy_plot_and_development.md` (legacy filename) |
 | Full structure / climax | `05_story_architecture.md` |
 | Cultural moment / story-first resonance (2026) | `44_cultural_moment_and_mass_appeal.md` — durable pressures, character engines, organic suspense, cultural guardrails |
 | Quotable refrains / reader spread / revision pass | `53_quotable_refrains.md` — Tier A dialogue bible; voice jobs; anti-cult spread guard |
@@ -61,7 +61,7 @@
 Story set **~2040** (default); optional author range **~2040–2042** for publication drift — **never on-page year.** Macro timeline 2026→2040+: war, contained outbreak, psion programs, tech texture, **robotics scarcity / humanoid rare**, geography notes, prose markers.
 
 ### `56_future_conflicts_atlas.md` **LOCKED 2026-07-26**
-Six conflict registers (ecological → technological), sorting machine (racism×class×immigration), bloc fragility, trilogy escalation timeline, good-vs-good collisions, staging scene bank. Companion to `23`; pressure map for drafting.
+Six conflict registers (ecological → technological), sorting machine (racism×class×immigration), bloc fragility, series escalation timeline, good-vs-good collisions, staging scene bank. Companion to `23`; pressure map for drafting.
 
 ### `24_comedic_register_slapstick.md`
 **Project Hail Mary register** — slapstick under catastrophe. Primary: **Emrys**. Ensemble: Eli straight man, Wren armor-break, Mei warm-dry. Volume comedy density.

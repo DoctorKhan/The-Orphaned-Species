@@ -531,6 +531,8 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **The finding (paraphrase):** Early Anatolian/Near Eastern farmers carry a distinct **Basal Eurasian** component — a "ghost lineage" absent in other ancient groups — consistent with a **sealed/refugium nursery** unsealing into the Neolithic spread. In canon this rhymes with **Qingu** stock at Phase VI; **Nephilot** carriers follow a separate down-breeding path but the **archaeogenetic trail Eli can follow begins here**.
 
+**Precision update (2026-07-29) — isolation window and modern distribution:** the Basal Eurasian lineage split from other non-African populations an estimated **60,000–100,000 years ago**, before the ~50,000–60,000-year-ago Neanderthal admixture event non-Africans otherwise share — which is why the lineage carries little to no Neanderthal DNA (the seal's signature, already the canon's load-bearing detail, line 658 above). Isolation ended with admixture in the Middle East roughly **25,000 years ago**, forming the Natufians/early Levantine farmers (~44% Basal Eurasian ancestry), Neolithic Iranians (~48–66%), and — via Anatolian farmers (~30–44%) — the Early European Farmer lineage that carried it to Britain. **Modern distribution** (present-day admixture fractions, for texture and any on-page precision the Rootbook/word-web material wants): Qataris/Yemenis and other Arabian Peninsula populations ≈45% (highest surviving fraction, consistent with the Persian Gulf/Dilmun siting); Levant 35–38%; Iran ≈35%; Anatolia/Caucasus 25–30%; modern Europeans <20%.
+
 **Suggested placement:** author research notes for the Book II Göbekli sequence;
 not reader-sequence prose. Epigraph optional.
 

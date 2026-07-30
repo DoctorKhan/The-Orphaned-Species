@@ -1,6 +1,6 @@
 # Literary Speculative Thriller — Style Guide
 
-> **Status:** governing prose guide, chosen 2026-07-12. Applies to all three volumes of the Layer 1 novel. It controls narrative voice, scene delivery, exposition, and revision—not canon or plot. Local registers remain in `21_present_day_street_skin.md`, `24_comedic_register_slapstick.md`, and `38_psionic_combat.md`.
+> **Status:** governing prose guide, chosen 2026-07-12. Applies to all Layer 1 novel volumes (currently Books I–IV; any later V–VI inherit this guide unless overridden). It controls narrative voice, scene delivery, exposition, and revision—not canon or plot. Local registers remain in `21_present_day_street_skin.md`, `24_comedic_register_slapstick.md`, and `38_psionic_combat.md`. Volume map: `SERIES_STRUCTURE.md`.
 
 > **HIGH PRIORITY — LOCKED 2026-07-25:** **`55_series_pitch_and_comps.md`** — clue-chain propulsion, institutional villainy, landmark set-pieces, 10-point revision gate. Prose must **move the body** and **picture the clue**; see `55` checklist items 1–2, 5–8.
 
@@ -33,7 +33,7 @@ Use close third person, anchored to the viewpoint character's present attention.
 
 ### POV architecture — LOCKED
 
-The trilogy uses **Eli-dominant limited multiple viewpoint**, not pure single viewpoint, omniscient narration, or ensemble rotation.
+The series uses **Eli-dominant limited multiple viewpoint** (Books I–III), not pure single viewpoint, omniscient narration, or ensemble rotation. Book IV overrides camera per `60_volume_IV_court_of_threads.md`.
 
 - **Eli is the home consciousness and narrative trunk.** Book I is overwhelmingly Eli; later books widen modestly while keeping him the clear majority lens. Treat the assigned away movements below as a budget, not a quota to fill or a percentage to game.
 - **The only recurring interior lenses are Eli, Wren, and Somchai.** Wren carries rare scenes of operational choice, consent, network cost, and community consequence that Eli cannot witness. Somchai carries rare scenes of bodily autonomy, healing, and declining deification that cannot belong honestly to Eli.
@@ -41,7 +41,7 @@ The trilogy uses **Eli-dominant limited multiple viewpoint**, not pure single vi
 - **One scene, one viewpoint.** Never move between minds inside a continuous scene. A chapter may contain more than one viewpoint only across a hard section break, with the new lens established immediately through character-specific attention.
 - **Ensemble describes cast, not viewpoint.** Every crowd, battle, council, or collective-action scene still has one governing consciousness.
 - **Keep thematic chapter titles.** Do not label chapters by viewpoint character; rare away movements should not promise a rotating-cast structure.
-- **Return home.** Book endings, and especially the trilogy's final ordinary-life coda, return to Eli.
+- **Return home.** Book endings, and especially any series ordinary-life coda, return to Eli (Book IV coda currently holds the shared-garden close; later volumes must not erase it without an explicit lock).
 
 Before leaving Eli, test the proposed scene:
 
@@ -171,22 +171,26 @@ Borrow the *Silo* lesson without borrowing the dystopia: **the place is a plot e
 | 3 | **Ritual/machine that runs without Eli** — system visible in labor |
 | 4 | **Place lie** — what the place claims about itself vs what is true underneath |
 
+**Flora as place-engine — LOCKED 2026-07-29:** Tropical plants and trees are not wallpaper. Name them when Eli’s body meets them (smell, shade, food, work, failure). Prefer **specifics over “jungle/green”**: coconut palm, frangipani, bougainvillea, rain tree, banana, papaya, holy basil, chili, tomato, mangrove, casuarina, chempaka, jackfruit, bamboo, teak, water hyacinth, lotus, morning glory, lemongrass, flame tree. Let flora **argue** Living Route vs sealed orchard (Pelangi volunteers / Meridian Cube cherry under glass). Garden failure is character: Eli waters wrong; Rasel teaches *ask the plant*; Maren’s basil = *green first*. Thailand’s forming band lives among named paddies-and-margins plants, not abstract miracle-green. One or two lived names per beat; refuse botanical travelogue.
+
 **Book I signature geometries + place lies:**
 
 | Place | Geometry | Sensation | Machine / ritual | The lie |
 |---|---|---|---|---|
-| **Pelangi / open strait** | Fairway + open water | Hull hum, wind on cheek, salt | Race marks, harbor wager, Timah’s harvest | *Freedom / you belong to yourself* — still a corridor with cutters |
-| **Pelangi Reach (hearth)** | Storm wall → towers → exile garden | Generator hum, terrace smoke | Chit circle, Mei’s kitchen, Babaji papers | *Safe refuge that can hold you* — gray space; squeeze takes the hearth |
+| **Pelangi / open strait** | Fairway + open water | Hull hum, wind on cheek, salt; coconut fronds on storm wall | Race marks, harbor wager, Timah’s harvest | *Freedom / you belong to yourself* — still a corridor with cutters |
+| **Pelangi Reach (hearth)** | Storm wall → towers → exile garden | Generator hum, terrace smoke, crushed basil/chili, frangipani sweet over diesel | Chit circle, Mei’s kitchen, Babaji papers; rain-tree shade | *Safe refuge that can hold you* — gray space; squeeze takes the hearth |
 | **Meridian / Stack** | Vertical cliff + Thread maze; **malls as literal silos** — sealed atriums, spiral escalators, stacked rings of shop/class | Palm-click, perfume/ozone vs diesel; atrium wind that is not weather | Gantries, Circuit parade, wage ticket; escalator helix as public stair | *Inevitable permanence / the outside is optional* — purchased spectacle; maps lie; Thread is the real city |
-| **Cherry Cube** | Glass temple over cracked roots | Floor-song through soles; bloom light | Idol show, freight under grandstand | *Living future you can hold* — reliquary orchard; parade owns you |
-| **Malacca** | River + night-market lanes | String bulbs, satay smoke, wet stone | Tongs, fish auction stamps, clipboard nets | *War has a night off / peace as infrastructure* — softness watched; vans wait |
-| **Thailand mountain road** *(Pai ↔ Chiang Mai hairpin stair)* | Spiral/switchback road as **living stair** — Silo helix in asphalt; **landings have lives** | First-gear shelf, gorge drop, ginger for the skull-wire; smoky farm coffee under limestone mountain | Winch crews, shrines; **coffee spur** (Chiang Dao–coded: quiet farmstay couple, mountain not for sale); **Pai** as carnival landing; Khun Dang lodge | *Up is escape / safety* — up is only a delay; the low routes still burn |
+| **Cherry Cube** | Glass temple over cracked roots | Floor-song through soles; bloom light | Idol show, freight under grandstand; **forced cherry vs Pelangi volunteer trees** | *Living future you can hold* — reliquary orchard; parade owns you |
+| **Malacca** | River + night-market lanes + mangrove stilts | String bulbs, satay smoke, wet stone, jasmine, mangrove flower on tide | Tongs, fish auction stamps, clipboard nets; holy basil in paint tin | *War has a night off / peace as infrastructure* — softness watched; vans wait |
+| **Coastal passage** | Island anchors + mangrove channels | Chempaka on tide, casuarina needle-song, jackfruit at landings | Pak Din’s engine shrine, rice aft | *Open water is free* — contractors run dark |
+| **Thailand mountain road** *(Pai ↔ Chiang Mai hairpin stair)* | Spiral/switchback road as **living stair** — Silo helix in asphalt; **landings have lives** | First-gear shelf, gorge drop, ginger for the skull-wire; fern/fig/wild banana; smoky farm coffee under limestone mountain | Winch crews, shrines; **coffee spur**; **Pai** as carnival landing; Khun Dang lodge | *Up is escape / safety* — up is only a delay; the low routes still burn |
 | **Thailand wat** | Sala + bell + valley below *(after the stair)* | One bell-stroke in the dark; tile under heel | Dawn schedule, bowls, sweeping | *Holy calm that finishes you* — return practice, not graduation |
-| **Thailand fields** | Bund marks + forming band + dead field | Light crossing rice twice; frogs skip silence | Sluice logs, Malai’s clipboard, polarity vials | *Miracle you can keep* — also a prize; record may force flight |
+| **Thailand fields** | Bund marks + forming band + dead field; banana/bamboo/lotus margins | Light crossing rice twice; frogs skip silence; kapok fluff, crushed mint | Sluice logs, Malai’s clipboard, polarity vials | *Miracle you can keep* — also a prize; record may force flight |
+| **Sanxingdui greenhouse** | Empty benches + surviving tomato | Wet mineral soil; chili seed; volunteer basil | Irrigation ticks; lab-cuff stake | *Home restored* — home is three people telling truth badly |
 | **The tell / archive** | Mound strata + shrine crown | Courtroom pressure; chalk dust; cold tea | Contested plaque, photocopy packet, date stacks | *One ancient wound / one sermon* — separate dials; lacuna invites forgery |
 | **Göbekli** | Hill + fox pillar + sealed door | Limestone rain; hill ringing; door lean | Consortium slides, backfill clock, tourist rope | *Civilization as payroll / ownable past* — gathering first; burial as keeping |
 
-**Mappings (Silo → trilogy):** spiral stair → **(1)** Meridian Thread / Circles (body→kin→machine); **(2)** Meridian **mall atriums as literal silos** (sealed cylinder, spiral escalators, level = class); **(3)** Thailand **Pai–Chiang Mai hairpin road** as lived outdoor stair; forbidden curiosity → Rootbook / sealed enclosure / don’t fill the lacuna; cleaning theater → registry arches, Circuit, consortium presentation; mechanical hum → Cube floor-song, tell pressure, hill ringing. Do **not** name *Silo* on-page — stage the geometry.
+**Mappings (Silo → series):** spiral stair → **(1)** Meridian Thread / Circles (body→kin→machine); **(2)** Meridian **mall atriums as literal silos** (sealed cylinder, spiral escalators, level = class); **(3)** Thailand **Pai–Chiang Mai hairpin road** as lived outdoor stair; forbidden curiosity → Rootbook / sealed enclosure / don’t fill the lacuna; cleaning theater → registry arches, Circuit, consortium presentation; mechanical hum → Cube floor-song, tell pressure, hill ringing. Do **not** name *Silo* on-page — stage the geometry.
 
 **Body score — anti-parade (LOCKED 2026-07-26):** sound/motion seeds in Book I
 (Cube too-clean clap; Malacca unfinished clap; wat shared heel-to-toe count; Pai
@@ -207,7 +211,7 @@ Let characters misunderstand themselves. The narration need not correct them imm
 
 ### Eli's voice arc — LOCKED 2026-07-25
 
-Eli's **close-third narration** changes across the trilogy in sync with emotional development (`27` § Eli, § Wren *Personal function*). He enters uncertain; Wren helps him **feel** without therapizing him on-page. The prose should track that arc — not only what he learns, but **how he sounds while learning it**.
+Eli's **close-third narration** changes across the series in sync with emotional development (`27` § Eli, § Wren *Personal function*). He enters uncertain; Wren helps him **feel** without therapizing him on-page. The prose should track that arc — not only what he learns, but **how he sounds while learning it**.
 
 **Volume I — uncertain, substituting.** Default register: tentative, bodily, socially smaller than he wants. He guesses and revises; overload and shame shrink spoken voice (*voice comes out smaller than he wants*). Narration does not rescue him with early certainty — let wrong interpretations stand until conduct contradicts them. Show the survival disguises before the plain name: fear → vigilance, shame → usefulness, grief → investigation, desire → destiny, anger → certainty, loneliness → indispensability. **Early Wren scenes:** desire often arrives as **awkward flirtation** — misread strategic touches, accidental smash or brush, jokes that land wrong (`19` §4). Eli's interior should hedge (*maybe she meant… / maybe that was only the boat*) until conduct earns a plainer name. In Wren scenes, substitutions fail: her presence should **simplify** his interior voice over the chapter — not smarter about cosmology, **more honest about want**. She waits; he finds words; narration may mirror that by shortening sentences and cutting metaphor when he finally names what he means.
 

@@ -6,6 +6,7 @@
 > Nobody is captured. Emrys does not exist. Mesopotamia and Göbekli are allocated
 > to Book II. Book III no longer rescues Rasel.
 
+> **Soft-inconsistency fix — 2026-07-29:** Do not call Layer 1 a trilogy. Current map Books I–IV; optional V–VI unallocated (`SERIES_STRUCTURE.md`).
 > **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-07-29, PROSE NOT YET RECONCILED:**
 > The series now ends in a women-led court volume. Book III's handover **succeeds**
 > and decentralized governance holds for a real stretch; Book IV opens on that
@@ -22,9 +23,9 @@
 > particularly Book III's ending chapters and Book IV Ch. 1.** The former Book
 > III shared-garden coda still closes Book IV.
 
-**Status:** four-volume drafting pass complete, 2026-07-28. Remaining unchecked
-items are research verification, cast-bible cleanup, publication expansion, or
-superseded-plan notes—not missing chapter drafts.
+**Status:** Books I–IV drafting pass complete, 2026-07-28 (volume map: `SERIES_STRUCTURE.md`; optional V–VI unallocated). Remaining unchecked
+items are research verification, cast-bible cleanup, publication expansion, III/IV redesign reconciliation, or
+superseded-plan notes—not missing chapter drafts for I–IV. Do not call the series a trilogy.
 
 ## Drafting frontier (2026-07-22, in order)
 
@@ -48,8 +49,22 @@ superseded-plan notes—not missing chapter drafts.
 8. [x] **Dramatic-multiplicity pass — Vol I:** Wren, Edda, Sora, Rasel,
    Malai, Luo, and Qiao retain independent motives, authority, and consequential
    choices.
+8b. [x] **Three pressure rules — Book I pass (LOCKED 2026-07-29 in `55`):**
+    Thailand Ch 5–10 + Ch 11 Vietnam dual-clock (Laos closed; UXO mud; Wren
+    house ping; Qiao four-hour conservation window) + Ch 12 access clock;
+    soft-lie/coach cuts; flora pass. Book II Ch 1–5 dual-clock verification
+    against governing draft still open. Maps: `55` § *Three pressure rules*.
+8c. [x] **Book I remaining gaps — closed 2026-07-29:** Mei arrest residue already
+    on-page (Suresh: *the list took the terrace*); Vietnam/UXO detour woven into
+    Ch 11; thin chapters thickened past ~1.5k (incl. Ch 8 clinic/pack, Ch 10 blank
+    page / dual clocks); Ch 11–12 pressure clocks; Timah/Sama-Bajau + sea-grape
+    texture; Ch 4 platform morning; Ch 7 coop lived day; Ch 13 west-door landing;
+    light Ch 2 Stack compression. Book I ~37–38k and still short of trade-novel
+    length, but structural + texture holes from the 2026-07-29 audit are closed.
+    Further length is optional expansion, not missing machinery.
 9. [ ] **Charkha Measure entry** in `26_present_day_cast_expanded.md` (the Charkha as institution with people and incentives — on-page from Ch 1; no-sides audit).
-10. [ ] Research passes, just-in-time: Pelangi Reach island texture (Ch 1), Malacca market/river (Ch 2–3), Sama-Bajau (first Timah scene).
+10. [~] Research passes, just-in-time: Pelangi Reach Timah/Sama-Bajau seeded in Ch 1;
+    Malacca market already dense; remaining: deeper island texture as needed.
 
 **Canon hubs:** `00_NARRATIVE_STRUCTURE.md`, `WORLD_BIBLE.md`, `29_trilogy_plot_and_development.md`, `31_volume_I_beatsheet.md`, `32_volume_II_beatsheet.md`, `33_volume_III_beatsheet.md`, `60_volume_IV_court_of_threads.md`, `35_artifact_chain.md`
 

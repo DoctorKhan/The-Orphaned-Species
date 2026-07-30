@@ -1,26 +1,26 @@
 # Open Questions — The Orphaned Species
 
-*Working decision log for the present-day trilogy. This file tracks missing structural commitments, not additional lore to accumulate. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `17_reveal_order_and_reader_impact.md`, `28_present_day_trilogy_craft_index.md`, **`55_series_pitch_and_comps.md`**, and `50_The_Orphaned_Species/00_NARRATIVE_STRUCTURE.md`.*
+*Working decision log for the present-day series (Books I–IV; optional V–VI unallocated — `SERIES_STRUCTURE.md`). This file tracks missing structural commitments, not additional lore to accumulate. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `17_reveal_order_and_reader_impact.md`, `28_present_day_trilogy_craft_index.md` (legacy filename), **`55_series_pitch_and_comps.md`**, and `50_The_Orphaned_Species/00_NARRATIVE_STRUCTURE.md`. Do not call the novel a trilogy in new materials.*
 
-## Priority -2 — pitch, comps & clue-chain gate (LOCKED 2026-07-25) **HIGH PRIORITY**
+## Priority -2 — pitch, comps & clue-chain gate (LOCKED 2026-07-25; pressure rules 2026-07-29) **HIGH PRIORITY**
 
 **Canonical doc:** `55_series_pitch_and_comps.md`
 
-- **Shelf:** literary speculative **deep-history conspiracy thriller** — *Da Vinci Code* investigative momentum + *National Treasure* landmark chase.
+- **Shelf:** literary speculative **deep-history conspiracy thriller** — *Da Vinci Code* investigative momentum + *National Treasure* landmark chase; warmth under catastrophe (*Project Hail Mary*-adjacent).
 - **Conspiracy:** **of the ages** — Charkha Measure = present face of recurring suppression apparatus (pattern, not single bullet).
 - **Win:** release + coexistence + grid unowned — **not** treasure box, bloodline reveal, or protagonist-owned truth.
-- **Motor on pitch:** parent rescue (Rasel Book I, Maren Book II)—power accretes
-  as misread, not motive. Book III changes engines to governance and consequence.
-- **Revision gate:** every chapter pass uses `55` 10-point checklist (body movement, visual key, institutional texture, wonder beat, domestic cost, etc.).
+- **Motor on pitch:** parent rescue (Rasel Book I, Maren Book II)—power accretes as misread, not motive. Book III changes engines to governance and consequence.
+- **Revision gate:** every chapter pass uses `55` checklist items 1–14 (body movement, visual key, institutional texture, wonder beat, domestic cost, **two live clocks**, **antagonist present-tense job**, **cost → next chapter**, etc.).
+- **Three pressure rules — LOCKED 2026-07-29:** (1) Clock A rescue vs Clock B network/registry/(Book II+) Sol — both audible every chapter; (2) opponents have concrete tasks + deadlines, not thesis-monsters; (3) paid costs change the next chapter's options. Chapter maps in `55` § *Three pressure rules*. Beatsheets `31`/`32`/`33` point here.
 - **Vol II drafting:** `55` § *Book II — chapter-by-chapter pitch audit* + `32_volume_II_beatsheet.md` chapter cards.
 - **Vol III drafting:** `55` § *Book III — chapter-by-chapter pitch audit* + `33_volume_III_beatsheet.md` chapter cards.
 - **Agent/back-cover copy** lives in `55` — do not drift from locked motor or win condition.
 
 ## Governing diagnosis
 
-The trilogy has a strong thematic spine, ending, and cosmological architecture. What remains missing is the scene-generating machinery: concrete wants, deadlines, opponents, costs, and causal links that let each volume be drafted without inventing its engine midstream.
+The series has a strong thematic spine, ending architecture for Books I–IV, and cosmological depth. The scene-generating machinery is now locked as **wants, deadlines, opponent jobs, and cost→next links** (`55` Three pressure rules). What remains is revision: make the governing drafts satisfy those maps chapter by chapter — not by adding mythology. Books V–VI remain optional placeholders (`SERIES_STRUCTURE.md`).
 
-Do not solve these by adding more mythology. Solve them by deciding who wants what, where, by when, against whom, and what is lost.
+Do not solve thin pressure by adding more lore. Solve it by deciding who wants what, where, by when, against whom, and what is lost **into the next chapter**.
 
 ## Locked title direction
 
@@ -28,8 +28,16 @@ Do not solve these by adding more mythology. Solve them by deciding who wants wh
 - **Book I:** *The Orphaned Species: The Breach*
 - **Book II:** *The Orphaned Species: The Descent*
 - **Book III:** *The Orphaned Species: The Living World*
+- **Book IV:** *The Orphaned Species: The Court of Threads*
+- **Books V–VI:** optional titles TBD (`SERIES_STRUCTURE.md`)
 
-## Priority -1 — trilogy allocation revision (LOCKED 2026-07-12)
+## Priority -1 — series volume allocation (LOCKED 2026-07-12; map revised 2026-07-28/29)
+
+- **Book I:** *The Orphaned Species: The Breach*
+- **Book II:** *The Orphaned Species: The Descent*
+- **Book III:** *The Orphaned Species: The Living World*
+- **Book IV:** *The Orphaned Species: The Court of Threads*
+- **Books V–VI:** optional / unallocated — see `SERIES_STRUCTURE.md`. Do not invent contents until locked there.
 
 - **Book I ends at Sanxingdui.** Pelangi Reach → Malacca → Thailand →
   northbound human doors → Sichuan. Eli recognizes the distributed Tree of Life,
@@ -47,7 +55,7 @@ Do not solve these by adding more mythology. Solve them by deciding who wants wh
 
 ## Locked present-day frame — ~2040 (not on-page)
 
-- **Author assumption:** the present-day trilogy is set in **~2040** (~14 years from drafting baseline).
+- **Author assumption:** the present-day series is set in **~2040** (~14 years from drafting baseline).
 - **Reader rule:** **never state the year** in the novel. Infer near future from reopening ports, scarred satellites, lingering emergency law, registry/biosecurity habit, and familiar tech accelerated — not from captions.
 - **Worldbuilding doc:** `23_2040_present_frame.md` — what changed 2026→2040 (war, contained outbreak, psion programs, climate, death technology texture, geography notes, prose markers).
 - **Still open:** exact calendar year of Eli's family attack; healer location/name (provisional flesh in `26_present_day_cast_expanded.md`); **Thailand temple** — specific wat, city, caregiver link, and whether recovery interval is shown in flash or only as Vol I habit leak (`15` § *Eli's meditation seed* — LOCKED in design).
@@ -223,7 +231,7 @@ end of deliberate human choices, not a coincidence.
 
 **The Hinge / House men / Thread men / Extras / Weaving-in / Scientist claiming — LOCKED 2026-07-24:** **The Hinge** = civilizational turn (~2037–40). **Scientist claiming:** post-armistice cold war — **all scientists claimed** by bloc (ledgered, assigned). **Maren Holt = neuroscientist.** Men's fates: **house men** (visible acceptance), **Thread men** (underground acceptance — used, not talked about), **Extras** (rejected — *"he went Extra"*). **Front posts** = spending leadership (CEO included). **Weaving-in** = Weavers post-Hinge; **polite blindness** toward Thread. Book III cloisters = third road. Retire *road men*.
 
-**Extras trilogy deployment — LOCKED 2026-07-28:** Book I names the *Extra
+**Extras series deployment — LOCKED 2026-07-28:** Book I names the *Extra
 lane* once at Meridian intake. Book II makes Rowan's missing person a
 demobilized Extra man and routes Wren/Rowan's first recovery through a diverse
 Extra settlement while Sol recruits from the same population. Book III shows
@@ -634,15 +642,15 @@ The proving community is **ordinary and distributed**, not a new order:
 
 ### 15. Iblīs / the hidden force behind the dark side — plot surface (surface mode LOCKED; deeper function open)
 
-**Working direction:** Iblīs is an unknown entity orchestrating from the other plane. It is widely believed to be evil because it exploits human weaknesses, engineers pressure, and appears to drive conflict, temptation, and psychic harm. Much later (Book IV), the deeper function becomes legible: Iblīs forces humans to evolve by pressing the species against its own weaknesses until the soul develops agency rather than remaining obedient to inherited programming. This is not an excuse or absolution—the methods cause real suffering, and the entity may be arrogant, cruel, or indifferent to individual cost.
+**Working direction:** Iblīs is an unknown entity orchestrating from the other plane. It is widely believed to be evil because it exploits human weaknesses, engineers pressure, and appears to drive conflict, temptation, and psychic harm. Much later (optional Books V–VI if written; otherwise late densification only if explicitly locked), the deeper function may become more legible: Iblīs forces humans to evolve by pressing the species against its own weaknesses until the soul develops agency rather than remaining obedient to inherited programming. This is not an excuse or absolution—the methods cause real suffering, and the entity may be arrogant, cruel, or indifferent to individual cost.
 
-**Deeper-function question — RESOLVED (author-side), staged for Book IV (2026-07-28):** Iblīs serves evolution, consciously — not confused, not secretly domination-seeking. The function is closer to a prosecutor in a proceeding than an enemy of the process: it presses for humanity's failure precisely so that a pass, if it comes, is tested and real rather than assumed — the same logic as the civilization-scale verification search in `15` § No sides, only incentives and the reunion/choice-point material (`30_The_Human_Experiment`). The proceeding has a defense too: the faithful Watchers, guiding only from the spirit plane, never overriding. Underneath the court metaphor, the whole arrangement is an **engine of growth**, not an adjudication — no final case to close, consistent with the standing-condition ending already locked. Full staging rule (deniable evidence only, no confirmation before the post-trilogy books — currently anticipated Books IV–VI, tentative): `17_reveal_order_and_reader_impact.md` § Tier 3.
+**Deeper-function question — RESOLVED (author-side), staged beyond Court volume (2026-07-28/29):** Iblīs serves evolution, consciously — not confused, not secretly domination-seeking. The function is closer to a prosecutor in a proceeding than an enemy of the process: it presses for humanity's failure precisely so that a pass, if it comes, is tested and real rather than assumed — the same logic as the civilization-scale verification search in `15` § No sides, only incentives and the reunion/choice-point material (`30_The_Human_Experiment`). The proceeding has a defense too: the faithful Watchers, guiding only from the spirit plane, never overriding. Underneath the court metaphor, the whole arrangement is an **engine of growth**, not an adjudication — no final case to close, consistent with the standing-condition ending already locked. Full staging rule (deniable evidence only in Books I–IV; no confirmation before optional post-court books — currently anticipated **Books V–VI**, tentative): `17_reveal_order_and_reader_impact.md` § Tier 3.
 
 **Cosmology locked** (`45` § Islamic register; `34` §8; `95`): Iblīs = the eldest jinn, the patient **instigator** behind the deception-war — whispers, never compels; **not** an omnipotent mastermind (distributed antagonism holds; human institutions stay responsible, `/00_NARRATIVE_STRUCTURE.md` §96). Gives the currently-scattered antagonism (Crane, Custodians, fallen spirits, factions) a hidden apex whose many faces *rhyme*.
 
 **Surface mode — LOCKED (author decision, Jul 2026):** Iblīs, the deep state as such, and the dark side are **never fully revealed** — no embodiment, no confrontation, no origin scene, no defeat. The reader assembles the apex through pattern recognition (the many antagonist faces *rhyme*) and by the end simply **understands it will always be there**. The name may surface in liturgical/scholarly/keeper register (Gabriel-style absence, `46` §G), but the entity never acts on-page in its own voice. Ending obligation: the final ordinary afternoon includes this understanding quietly — vigilance and practice, not elimination; fear stops ruling, the whisper does not stop whispering. Never promote to an appearance for a climax. Full tier rules: `17_reveal_order_and_reader_impact.md` § "Offstage presence — the three reveal tiers." Crane-as-most-open-instrument and the Shield/Custodian whisper-vs-choice line (#4) unchanged.
 
-**Still open:** none — the deeper-function question above is resolved author-side and staged for the post-trilogy books; the trilogy keeps the full off-page treatment regardless.
+**Still open:** none — the deeper-function question above is resolved author-side and staged for optional Books V–VI; Books I–IV keep the full off-page / deniable-evidence treatment regardless.
 
 ### Seed-pattern propagation — LOCKED DIRECTION (2026-07-21)
 
@@ -685,7 +693,7 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 
 ## Secondary decisions
 
-- Final volume count: current working shape is a trilogy; reassess only after the Volume I beat sheet proves scene length.
+- Final volume count: **current governing map is Books I–IV**; **Books V–VI optional / unallocated** (`SERIES_STRUCTURE.md`). Do not pitch as a trilogy. Reassess length and whether V–VI are needed after Book IV prose reconciliation.
 - Companion nonfiction: keep Books 1–4 as optional slim companions unless drafting proves otherwise.
 - Surnames and local names: Eli, Wren, Crane, Aedan, and Anthea are stable enough; surnames and local-character names remain open.
 - **Maren suppression scene (Vol II, LOCKED):** not a Vol I prologue. When Eli learns **how his mother was taken**, dramatize the Charkha's courteous machinery (clipboards, wellness language, unmarked van, neighbor's light going out) in **SE Asia extraction/keeper context** — personal, earned, ~1,000–1,500 words. The evidence must also reveal that Maren once willingly helped build the signature/integration tools now locating her; the scene is persecution and consequence at once. Harvest v1 prologue tone from `MANUSCRIPT_v1_archive.md`; rewrite **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths) and geography. Pair with mother-trail evidence (Vol II midpoint region: **alive, location unknown** — partial sense / captivity register only, not proof of death). **Vol I** seeds dread only: tune, Suresh, Malacca witness — no cold-open abduction.

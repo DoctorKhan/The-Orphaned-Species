@@ -14,7 +14,7 @@
 
 ## One-line pitch
 
-**Literary speculative deep-history conspiracy thriller** — *The Da Vinci Code*'s investigative momentum and *National Treasure*'s landmark chase, but the conspiracy is **of the ages** (the Charkha Measure is only the present face of a recurring suppression apparatus), clues are **contested**, and the win is **release and coexistence**, not a treasure box or a single decoded truth.
+**Literary speculative deep-history conspiracy thriller** — *The Da Vinci Code*'s investigative momentum and *National Treasure*'s landmark chase for the **plot engine**, but the **prose register** runs closer to N.K. Jemisin or Madeline Miller than to either comp: denser, more sensory, more restrained around grief. The conspiracy is **of the ages** (the Charkha Measure is only the present face of a recurring suppression apparatus), clues are **contested**, and the win is **release and coexistence**, not a treasure box or a single decoded truth.
 
 ---
 
@@ -58,15 +58,20 @@ Avebury. Institutional antagonists—Custodian teams, cohort registries, and
 scientist-claiming blocs—repeat an ancient function: suppress carriers, sever
 pairs, and convert dependence into ownership. Eli's motor is parent rescue, not a
 throne. Book III tests whether the network born from those rescues can survive
-without becoming a registry, cult, army-state, or permanent ruler.
+without becoming a registry, cult, army-state, or permanent ruler. Book IV
+follows the working federation into a women-led court—bounded authority,
+succession pressure, and Eli's second and final relinquishment. Optional later
+volumes may follow; the present query spine is Books I–IV.
 
-**Comps:** *The Da Vinci Code* (investigative clue-chain, institutional shadow); *National Treasure* (landmark set-pieces, distributed expertise rather than a single oracle); *Project Hail Mary* (warmth under catastrophe); literary crossover speculative (Atwood-adjacent restraint on visionary material, not tone).
+**Structural comps** (plot engine): *The Da Vinci Code* (investigative clue-chain, institutional shadow); *National Treasure* (landmark set-pieces, distributed expertise rather than a single oracle); *Project Hail Mary* (warmth under catastrophe).
 
-**Word count target:** trilogy, ~300k–360k total (TBD per volume split).
+**Prose comps** (sentence-level register — LOCKED 2026-07-29, do not calibrate voice to the structural comps' plainness): **N.K. Jemisin** (*The Broken Earth*) for dense, morally complex worldbuilding delivered through intimate close-POV without exposition dumps; **Madeline Miller** (*Circe*) for myth handled at embodied, human scale rather than grand distance; **David Mitchell** (*Cloud Atlas*, *The Bone Clocks*) for a millennia-spanning interconnected cosmology that trusts the reader to hold terminology across a long arc; **Emily St. John Mandel** (*Station Eleven*) for restrained, damaged-but-functioning post-collapse texture. These four govern the actual sentence — not Brown's transparent, utilitarian delivery style.
+
+**Word count target:** Books I–IV currently (~110k drafted; trade-novel length TBD per volume). Optional Books V–VI unallocated (`SERIES_STRUCTURE.md`). Do not pitch as a trilogy.
 
 ---
 
-## Back-cover copy — trilogy
+## Back-cover copy — series
 
 **They told him his father was dead. His ring is sitting in an evidence tray.**
 
@@ -144,7 +149,7 @@ Awakening spreads through threshold houses, river cooperatives, and open grounds
 | **Sub-shelf** | Deep-history conspiracy / clue-chain adventure |
 | **Engine** | One clue → one place → revelation → next clue |
 | **Depth** | Conspiracy of the **ages** (pattern, not single bullet) |
-| **Tone** | Warm human prose under institutional pursuit; awe before ambush at landmarks |
+| **Tone** | Warm human prose under institutional pursuit; awe before ambush at landmarks. **Register runs literary** (Jemisin/Miller/Mitchell/Mandel), not Brown's plain utilitarian delivery — see § *Prose comps* above |
 | **Win condition** | Release + coexistence + grid unowned — not decoded truth alone |
 
 **Do not soft-pedal the conspiracy.** The reader contract matches Dan Brown's *the world I see is a cover* — with a harder, longer, more contested answer. Charkha Measure = present face of recurring control apparatus: torch, trial, asylum, eugenics file, registry, black project, van, clipboard, gene weapon, pair-severance, scientist claiming.
@@ -152,6 +157,8 @@ Awakening spreads through threshold houses, river cooperatives, and open grounds
 ---
 
 ## Comps — what they are and what to steal
+
+**Structural comps only — REVISED 2026-07-29.** The table and "craft to steal" list below describe what this series borrows from Brown/Treasure at the level of **plot mechanics** (clue propulsion, institutional villainy, set-piece pacing). None of it is a prose-voice instruction. Sentence-level register is governed by the **prose comps** above (Jemisin/Miller/Mitchell/Mandel) and by `14_literary_speculative_thriller_style_guide.md`, which already locks a denser, more restrained voice than either structural comp uses.
 
 | | *The Da Vinci Code* (2003) | *National Treasure* (2004) | *This series* |
 |--|---------------------------|----------------------------|---------------|
@@ -169,7 +176,7 @@ Awakening spreads through threshold houses, river cooperatives, and open grounds
 3. **Institutional villainy** — enemy is file, registry, board, doctrine — not only a gun.
 4. **Distributed expertise** — Wren, keepers, clerks, growers, clinicians, curators, Rasel, and Mei-memory; never one traveling oracle.
 5. **Short-loop payoff** — major clues land within **1–3 chapters**.
-6. **Accessible prose, high concept** — one-sentence pitch; jargon through argument and place.
+6. **Legible stakes, high concept** — one-sentence pitch; jargon through argument and place. **Not "accessible prose"** in Brown's plain, transparent sense — the sentence itself may run literary and dense (Jemisin/Miller register); what must stay accessible is *what the reader needs to know to keep following the trail*, not the syntax carrying it.
 7. **"Everything you know is wrong" — but legible** — bend Pömmelte, Göbekli, Albion; don't invent opaque lore.
 8. **Wonder before ambush** (*National Treasure*) — one breath of awe at a charged ground before violence.
 
@@ -211,6 +218,100 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 9. **Domestic cost** — hearth, relationship, or ordinary promise broken or taxed.
 10. **Desire before information** — clue intensifies Eli's longing (home, mother, belonging), not only curiosity.
 11. **Altitude / grade change** — Eli’s body crosses who-eats / who-knows / who-is-watched (Stack↔Thread, bund↔dead field, tourist path↔sealed door).
+12. **Two live clocks** — every chapter advances (or visibly threatens) **both** the rescue clock and the network/registry clock; finishing one must worsen or endanger the other (`55` § *Three pressure rules*).
+13. **Antagonist job** — at least one opposing force has a **present-tense task with a deadline**, not only an ideology (`55` § *Three pressure rules*).
+14. **Cost → next chapter** — the chapter's paid cost must change what is possible, forced, or forbidden in the **next** chapter — not only the moral temperature (`55` § *Three pressure rules*).
+
+---
+
+## Three pressure rules — LOCKED 2026-07-29
+
+> **Why:** clue-chain + domestic cost alone can still produce chapters that *feel* serious while remaining single-spine (follow the trail) and thematically billed. These three rules force overlapping deadlines, human opponents with jobs, and causal consequence between chapters. They do **not** require GoT multi-POV, Ned-deaths, or court paste over living-route chapters.
+
+### Rule 1 — Two live clocks
+
+Every chapter must keep **both** clocks audible. One may dominate the scene; the other must still move, threaten, or bill.
+
+| Clock | What it is | Street feel |
+|-------|------------|-------------|
+| **A — Rescue** | Parent trail: proof → location → recovery → (Book II) release | *Find them / reach them / free them* |
+| **B — Network / registry** | Wren's people, civic links, placements, cooperatives, Extra/settlement care; **and** registry / Custodian / claiming pressure (Book II+ adds **Sol**'s recruitment as a rival claim on the same wounded population) | *Keep my people uncompromised / don't become the asset that burns them* |
+
+**Hard test:** if Eli could ignore Clock B for three chapters and only chase parents, the draft is failing. If Wren's people never force a trade against the parent trail, Clock B is décor.
+
+**Sol timing:** face/news may seed Book I; **on-page job** begins Book II (healer corridor / Extra recruitment) and becomes a third pressure on Clock B, never a replacement for Wren's network stake.
+
+### Rule 2 — Antagonists with present-tense jobs
+
+Opponents are not thesis-monsters. Each major opposing force on a chapter must have:
+
+1. a **concrete task** (close a quarantine window; deliver a transfer van; photograph a band; sign an evacuation; recruit ten Extras before night),
+2. a **deadline** (shift end, border closing, concert encore, monsoon window, custody pickup),
+3. a **reason a competent person would do it** (career, collar survival, civilian safety, house standing, hunger for belonging).
+
+**Book I field faces (use roles, not sermons):**
+
+| Face | Present-tense job (examples) |
+|------|------------------------------|
+| **Edda Voss (Locker)** | Hold Eli's signature long enough to finish quarantine paperwork / hand him to claiming chain |
+| **Lance** | Drop an activated carrier before the breach spreads through a port crowd |
+| **Sora Vithan (Shield)** | Keep team coherence and civilian cover; later: leak Hassan's route without open defection |
+| **Mask / Scout** | Soft-hunt, honey-trap, false signature — *Liaisons* work with a clock |
+| **Mandate / registry clerks** | Clear cohort lists, wage tickets, intake photos — boredom with teeth |
+| **Edda / clean-intake offer (Ch 11)** | Get Rasel under voluntary registration before the annex moves him |
+| **Northern / rival team** | Site and claim the forming band's documentation before Custodians do |
+
+**Refuse:** villains who only "represent control," speeches that explain Charkha, Crane as cartoon. Crane may loom; his **argument** lands through people doing jobs.
+
+### Rule 3 — Costs that change the next chapter
+
+A "domestic cost" that only darkens mood fails. The paid cost must alter **options**:
+
+- a route closes or opens,
+- a paper, boat, permit, standing, or ally is spent,
+- a person is safer / exposed / unavailable,
+- the next chapter's opening condition is different because of this bill.
+
+**Hard test:** write one sentence: *Because X was paid in Ch N, Ch N+1 cannot do Y and must do Z.* If you cannot, the cost is temperature.
+
+### Book I — dual-clock & cost→next map (drafting / revision obligation)
+
+Use with the chapter audit table above. **Pass** = both clocks move; one antagonist job is on-page; cost→next sentence is true of the governing draft or flagged for revision.
+
+| Ch | Clock A (rescue) | Clock B (network / registry) | Antagonist job (present-tense) | Cost → next chapter |
+|----|------------------|------------------------------|--------------------------------|---------------------|
+| 1 | Orphan truth: both alive; Albion/father trail opens | Mandate squeeze; Babaji raid; hearth suspended; Wren attests under watch | Cohort/registry sweep clears the island before Eli's Saturday departure | Because hearth is suspended and Babaji's offices are hit, Ch 2 **must** run Meridian under Wren's papers — no home fallback |
+| 2 | Ring on file (*same soil*); Hassan has the band | Circuit soft-hunt; Extra-lane; wage ticket spent; Wren peels off to protect house links | Sora/Custodian soft-hunt at Circuit; intake clerk processes Eli as loose end | Because Hassan takes the ring into the chase, Ch 3 opens with **ring + Hassan lost** and Salmah already exposed |
+| 3 | "I'm not going dark"; Rootbook *name* seed | Salmah's boat seized; platform hospitality burns heat onto local house | Custodians close quarantine tow / reclaim Hassan | Because Salmah and the platform are billed, Ch 4's passage must use **disclosed, bounded** help — no invisible extraction |
+| 4 | North/ping valley trail toward mother-evidence | Wren discloses full route; civic links become visible freight | Inspection/gantry; Custodians a day behind | Because Wren named every stop, Ch 5's coast offer / bait arc can burn **those named people** if they linger |
+| 5 | Foot/step index → living field, not planted lead | Growers' silence cost; Custodians on water; coast escape refused | Custodians site the anomaly for quarantine claim | Because they refuse the clean coast exit, Ch 6 must enter the confluence **on the Custodian clock** |
+| 6 | Stone/Ila witness without ownership | Wren cools (3°); local keeper risk | Drones schedule the band | Because the stone names the west block, Ch 7's cooperative fight is **forced geography**, not optional side quest |
+| 7 | Document forming line vs flee | Niran/stake; Malai's people; dual teams; pump fight | Custodians **and** northern team race to own the band record | Because documentation and people collide, Ch 8 inherits wounded civilians + health-fax pressure |
+| 8 | Bleed-read / clinic vs repair | Niran's leg; crash cost; apparatus reads admission | District health notice turns care into registry bait | Because the health fax is live, Ch 9's battle cannot be "quiet science" — cover is already burning |
+| 9 | Record vs vials | Pump house; forty families; Wren overrides | Custodians + northern team fight through the formation | Because the clean record burns, Ch 10 must evacuate with **half-series only** and argue freight terms |
+| 10 | Ash + half copy → west | Shame/anger repair; cooperative keeps a copy; Wren's constitution | Pursuit still live; Malai counts bodies not metaphors | Because Wren renegotiates terms, Ch 11's human-door choice is **between people**, not Eli alone |
+| 11 | Rasel before Mandate move; Bangladesh closed | Dara's permit; Sora/border corruption; Laos closes → Vietnam hazard | Edda: clean voluntary scan/registration before annex transfer | Because Dara's permit and the clean scan are refused, Ch 12 arrives at Sanxingdui on **civilian accreditation only** — no protected line |
+| 12 | Tree/mesh opens annex route to Rasel | Luo/Qiao clearance at risk; Wren working doors | Conservation/security clocks; coerced program wants model cadence | Because access is borrowed not owned, Ch 13's evacuation signature will **spend Wren's standing** to open the gate |
+| 13 | Rasel recovered; Manual Override personal | Wren displaced; Qiao barred; civilians out | Apparatus demands master cadence; accreditation/emergency gate | Because Wren is displaced and Rasel is free, Book II Ch 1 **must** open with a present father **and** a network bill already unpaid |
+
+### Book II — dual-clock & cost→next map (drafting / revision obligation)
+
+Clock B now includes **Sol** as rival claimant on wounded / Extra / pilgrim populations. Hassan recovery is a Clock A *instrument* (mother trail) that repeatedly bills Clock B (routes burned).
+
+| Ch | Clock A (rescue / Maren) | Clock B (network / registry / Sol) | Antagonist job | Cost → next |
+|----|--------------------------|-------------------------------------|----------------|-------------|
+| 1 | Reconstruct westward clue; Tem → 17:1 | Wren bills displacement; usefulness-as-love fight; conscription pressure | Psion-war intake / conscription desks want bodies | Because Eli pushes urgency over Wren's terms, Ch 2's handoff runs with **trust already taxed** |
+| 2 | Hassan transfer toward western hold | Wren burns a refugee route to kill a *Liaisons* trap | Custodians + contractor move the van on a custody clock | Because the clean route burns, Ch 3's holding-site entry is uglier and slower — no shortcut door |
+| 3 | Midpoint: tether not address; release becomes the real end | Mother complicity; partial record lost | Charkha clipboards: courteous suppression / pair prep | Because the clean Maren file is incomplete, Ch 4 cannot "go get her" — only heal and keep west |
+| 4 | Healer depth confirmed; rumor outruns | Sol establishes: recruit the wounded into one voice | Media/faction recruiters; Sol's first on-page job | Because Sol has a public claim on the healed, Ch 5's Extra settlement is already contested ground |
+| 5 | Pömmelte mark → sound route; Albion rename | Callum recovery; Extra settlement; **route burned**; Sol recruiters | Sol: name/brotherhood/purpose before night; Charkha pair-severance files | Because Wren/Rowan burn the clean corridor for people, Ch 6 must use **living detours** (Rollright/Men-an-Tol) |
+| 6 | Anthea/Lira → Stonehenge thread | Wren/Rowan renewed on terms; Anthea killed | Pursuit + keeper consent rules | Because iron severs after recovery, Ch 7–8 inherit a **partial** chord and a depleted Eli |
+| 7–8 | Bitter cup / station approach under pursuit | Network keeps evacuation from becoming sacrifice | Instrumented ambush prep; Edda containment clock | Because the cup gives no universal key, Ch 9–10 must free Maren by **conduct**, not decoded address |
+| 9–10 | Maren released; awakening spreads | Healer nearly conscripted; Wren/Rowan route cost paid; **Sol watches and takes a mandate** | Edda containment; Sol forced-unity pitch | Because Maren walks free and Sol has a sermon, Book III opens with **awakening without ownership tools** and a rival unifier already working |
+
+### Book III — pressure note
+
+Same three rules. Clock A becomes **keep the rescued world from re-caging** (intake, Tomas/Nia, compact, crown-with-end). Clock B becomes **Wren's network jurisdiction vs Eli's public power** + registry/Crane/Sol. Cost→next is already strong in the Ch 3→4 bill (Nia/Mei → war); revision must keep that causal spine and refuse costs that only shame Eli.
 
 ---
 
@@ -218,7 +319,7 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 
 | Need | Doc |
 |---|---|
-| **Governing Book I prose / revision gate** | **`MANUSCRIPT.md`** + **`55`** 10-point checklist |
+| **Governing Book I prose / revision gate** | **`MANUSCRIPT.md`** + **`55`** checklist (items 1–14) + **Three pressure rules** |
 | Emotional reveal order | `17_reveal_order_and_reader_impact.md` |
 | Prose voice | `14_literary_speculative_thriller_style_guide.md` |
 | Governing story sentence | `05_story_architecture.md` §1 |

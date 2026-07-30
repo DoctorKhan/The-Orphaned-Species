@@ -2,9 +2,9 @@
 
 > **CAST / WEAVER SUPERSESSION — LOCKED 2026-07-27:** `58_sanxingdui_climax_lock.md`, `26_present_day_cast_expanded.md`, and `99_open_questions.md` §3/#9 govern over stale material below. Wren is a house Weaver doing junior Knotter work in Book I, not Unranked and not an extraction operator. Rowan is a west-corridor Weft who first appears in Book II; she does not guide Meridian City. Book I ends with Rasel recovered, Wren displaced after signing the civilian evacuation, Qiao's clearance lost, and nobody captured. Emrys does not exist; all references to him below are retired-role quarry pending line-level cleanup.
 
-> **HIGH PRIORITY — LOCKED 2026-07-25:** **`55_series_pitch_and_comps.md`** — shelf, agent/back-cover copy, comps, clue-chain obligations, 10-point revision gate. Every structural choice here must pass the pitch test in `55` (body movement, institutional villainy, domestic cost, pattern conspiracy — not single-bullet reveal).
+> **HIGH PRIORITY — LOCKED 2026-07-25; pressure 2026-07-29:** **`55_series_pitch_and_comps.md`** — shelf, agent/back-cover copy, comps, clue-chain obligations, revision gate (items 1–14), **Three pressure rules** (two live clocks; antagonist present-tense job; cost → next chapter). Every structural choice here must pass the pitch test in `55` (body movement, institutional villainy, domestic cost, pattern conspiracy — not single-bullet reveal).
 
-> **Status:** working structural synthesis based on current canon. **The final volume count is four, locked 2026-07-28.** Plot spine: `29_trilogy_plot_and_development.md`; Book I: `31`; Book II: `32`; Book III: `33`; Book IV women-led court/pregnancy/succession architecture: `60_volume_IV_court_of_threads.md`. Older three-volume closure and Book III step-down language is superseded by `60`.
+> **Status:** working structural synthesis based on current canon. **Current governing map: Books I–IV** (`SERIES_STRUCTURE.md`). **Books V–VI optional / unallocated** — append only; do not renumber I–IV. Plot spine: `29_trilogy_plot_and_development.md` (legacy filename); Book I: `31`; Book II: `32`; Book III: `33`; Book IV women-led court/pregnancy/succession architecture: `60_volume_IV_court_of_threads.md`. Older three-volume / “trilogy” closure language is superseded.
 
 ## 1. The governing story
 
@@ -57,7 +57,7 @@ For near-future **street skin** (port-noir pressure, faction offers as "installs
 
 ### Home, belonging, and meaning
 
-The trilogy should speak directly to contemporary loneliness, housing precarity, displacement, surveillance, medical fear, fertility anxiety, relationship breakdown, institutional mistrust, political sorting, and spiritual hunger. Eli is not looking for a grand identity; he is trying to keep a life in which he can be ordinary without lying about what he is.
+The series should speak directly to contemporary loneliness, housing precarity, displacement, surveillance, medical fear, fertility anxiety, relationship breakdown, institutional mistrust, political sorting, and spiritual hunger. Eli is not looking for a grand identity; he is trying to keep a life in which he can be ordinary without lying about what he is.
 
 Use three recurring forms of home:
 
@@ -75,7 +75,7 @@ Use a Truby-style four-corner opposition to keep the conflict from collapsing in
 
 > When dangerous human capacities return, should society protect freedom or impose control?
 
-The answer must not be simple anti-authoritarianism. The trilogy needs adult politics: freedom without structure can become cult, chaos, exploitation, or charismatic capture; control without consent becomes ownership.
+The answer must not be simple anti-authoritarianism. The series needs adult politics: freedom without structure can become cult, chaos, exploitation, or charismatic capture; control without consent becomes ownership.
 
 | Corner | Character or faction | Viewpoint | Dramatic pressure |
 |---|---|---|---|
@@ -114,7 +114,7 @@ The lesson is not to add more lore. It is to make existing lore causal and emoti
 
 ### Prophecy and charismatic leaders
 
-Use prophecy-shaped material and charismatic-leader pressure as **bait, pressure, and misreading**, not as the truth of the trilogy. Readers understand prophecy instantly, and factions inside the story would absolutely manufacture, exploit, or believe it. The book can use that voltage without surrendering to chosen-one logic.
+Use prophecy-shaped material and charismatic-leader pressure as **bait, pressure, and misreading**, not as the truth of the series. Readers understand prophecy instantly, and factions inside the story would absolutely manufacture, exploit, or believe it. The book can use that voltage without surrendering to chosen-one logic.
 
 Rule: **every prophecy must create danger, not guarantee destiny.**
 
@@ -320,7 +320,7 @@ England should contain the clean example. When Eli's group crosses a watched bou
 
 ### Technology as rehearsal for coexistence — LOCKED
 
-The trilogy must lead the reader to infer that technology is humanity's **external apprenticeship for powers returning in living form**. This cannot arrive as Emrys's closing lecture. It must become unavoidable through repeated plot evidence:
+The series must lead the reader to infer that technology is humanity's **external apprenticeship for powers returning in living form**. This cannot arrive as Emrys's closing lecture. It must become unavoidable through repeated plot evidence:
 
 1. A supposedly magical capacity first resembles something technology has already made ordinary: distant communication, expanded memory, invisible imaging, flight, repair, distributed cognition, or collective coordination.
 2. Instruments make part of the phenomenon measurable without explaining it away. Mechanism reduces panic while leaving genuine mystery intact.
@@ -345,7 +345,7 @@ The exact number of volumes remains open, but the current material naturally for
 
 **Series title:** **The Orphaned Species**.
 
-Use commercial subtitles for the published trilogy and keep the abstract labels as internal movement names. Avoid using **Manual Override** as a trilogy subtitle because it already names the separate practice/manual book in the larger project.
+Use commercial subtitles for the published series and keep the abstract labels as internal movement names. Avoid using **Manual Override** as a series subtitle because it already names the separate practice/manual book in the larger project.
 
 | Published title | Internal movement | Reader-experience function |
 |---|---|---|
@@ -372,7 +372,7 @@ Use the **Volume** labels as dramatic movements and the reveal-order document's 
 
 ### Classic spine — costly belonging and accountable power (LOCKED 2026-07-13)
 
-The trilogy's permanent dramatic question is:
+The series' permanent dramatic question is:
 
 > **How can people belong to one another without owning one another?**
 
@@ -431,7 +431,7 @@ Likely distribution follows the thriller rather than chronology. The **Three-Cir
 
 ### The Three Circles as a mixed civilizational braid — LOCKED
 
-The Three Circles are not only a test of whether practice radiates outward. They are the trilogy's method for uncovering **why civilization repeatedly rebuilds the absent gods' order**.
+The Three Circles are not only a test of whether practice radiates outward. They are the series' method for uncovering **why civilization repeatedly rebuilds the absent gods' order**.
 
 They are **not three curriculum units and not one circle per volume**. Plot determines the boundaries of Shattering, Descent, and Choice. Body, Family, and Civilization remain entangled in every volume because each continually produces the others: institutions train families, families condition bodies, and bodies reproduce institutions. The order of discovery can move outside-in, inside-out, or jump scales whenever the pursuit, relationship, historical record, or immediate danger makes that movement dramatically necessary.
 
@@ -447,7 +447,7 @@ The embodied gods and their functioning supervisory system are gone. Under the n
 
 This is not a claim that all instinct, family, or civilization is corrupt or alien-made. Attachment, reciprocity, protection, play, curiosity, kinship, and cooperation also belong to the living human animal. The drama comes from distinguishing those capacities from the installed or captured behaviors that route life upward. The alternative is not isolation or primitivism; it is adult coordination without an owner.
 
-Across the trilogy—and in different combinations rather than a repeated formula—the plot must supply three kinds of proof:
+Across the series—and in different combinations rather than a repeated formula—the plot must supply three kinds of proof:
 
 1. a historical imprint shows the behavior while a god-administered order still gives it a function;
 2. a present institution exploits the surviving behavior after its original recipient is gone;
@@ -461,9 +461,9 @@ Across the trilogy—and in different combinations rather than a repeated formul
 - Let different characters carry different scale combinations. Eli need not personally exemplify every pitfall; Wren, the healer, Emrys, Crane, historical carriers, families, and institutions distribute the argument.
 - The climax must not "solve Civilization" after completing Body and Family. It must force one choice whose bodily, relational, and civilizational consequences cannot be separated.
 
-### The Living Way across the trilogy — LOCKED
+### The Living Way across the series — LOCKED
 
-The Living Way is the ethical and practical counter-current of the whole trilogy. It must be **dramatized as conduct before it is named as a framework**. The novel should not stop for a universal-religion lecture, quote whole companion texts, or imply that one new creed replaces all prior traditions. Characters encounter practices through particular people, places, needs, and consequences. The complete cross-tradition synthesis remains in Layer 2, especially `Lessons_of_the_Living_Way.md`, *The Native Road*, and the separate **`living-way/living-way-knowledge`** library (canonical verses: `Mindfulness/The_Lay_Verses_of_the_Living_Way.md`; Zen: `Zen/The_Everyday_Mind_of_the_Living_Way.md`; precepts: `Musashi/The_Twenty-One_Precepts_of_the_Living_Way.md`; sutta register: `The_Living_Suttas.md`).
+The Living Way is the ethical and practical counter-current of the whole series. It must be **dramatized as conduct before it is named as a framework**. The novel should not stop for a universal-religion lecture, quote whole companion texts, or imply that one new creed replaces all prior traditions. Characters encounter practices through particular people, places, needs, and consequences. The complete cross-tradition synthesis remains in Layer 2, especially `Lessons_of_the_Living_Way.md`, *The Native Road*, and the separate **`living-way/living-way-knowledge`** library (canonical verses: `Mindfulness/The_Lay_Verses_of_the_Living_Way.md`; Zen: `Zen/The_Everyday_Mind_of_the_Living_Way.md`; precepts: `Musashi/The_Twenty-One_Precepts_of_the_Living_Way.md`; sutta register: `The_Living_Suttas.md`).
 
 The inner victory is a greater understanding of life that cannot be confiscated. Homes can be lost, records burned, communities scattered, and institutions captured, but breaking out of autopilot, returning into the body, seeing charges arise, and learning to hold them consciously becomes portable freedom. This is why the story must dramatize practice, not only politics: the external struggle protects the conditions for life, while the internal practice teaches a person how not to be owned from the inside.
 
@@ -478,7 +478,7 @@ The table records likely accumulations in the existing plot, not a lesson schedu
 
 This inalienable inner victory should become a clear end-of-book strength threshold rather than a private mood. The likely shape is two-stage: **Volume I ends with personal Manual Override**, where Eli can feel a charge, recognize autopilot, and not let conditioning complete the action; **Volume II ends with relational or collective Manual Override**, where the group can hold charged fear, loyalty, pain, and psychic pressure without collapsing into possession, worship, obedience, or betrayal. That is what makes them strong enough for what comes next. Volume III then tests whether this strength can become public civilization without becoming another cage. Full fellowship development arcs: `27_character_development_arcs.md`.
 
-The trilogy still performs a maturation, but these are cumulative pressures rather than exclusive volume subjects:
+The series still performs a maturation, but these are cumulative pressures rather than exclusive volume subjects:
 
 > **Volume I:** remain yourself.
 >
@@ -652,15 +652,15 @@ Required proof:
 
 The community may remain small, endangered, and imperfect. It may contain fear, crime, resentment, accidents, and political disagreement. What it cannot do is resolve difference through the inherited options of kneeling, burning, or caging. That repeatable social form—not victory over Crane, possession of the grid, or universal awakening—is the positive victory of the third book.
 
-This is the "it has always been like this" landing. The trilogy should not end by announcing a new age from above. It should let the reader recognize the pattern from below: science, ordinary law, healing, relationship, technology, and practice were always partial rehearsals for the same mature form of life. The answer was not hidden because it was exotic; it was hidden because fear kept turning it into worship, extermination, or control.
+This is the "it has always been like this" landing. The series should not end by announcing a new age from above. It should let the reader recognize the pattern from below: science, ordinary law, healing, relationship, technology, and practice were always partial rehearsals for the same mature form of life. The answer was not hidden because it was exotic; it was hidden because fear kept turning it into worship, extermination, or control.
 
-In Eden language, the ending is the union of the **Tree of Knowledge** and the **Tree of Life**. Knowledge without life becomes classification, prediction, registry, and control. Life without knowledge remains vulnerable to omen, priestcraft, panic, and charismatic manipulation. The mature form is both: living connection disciplined by testable understanding, and scientific accountability held inside reciprocal life. **Discovery spine:** both Trees are **found throughout** the trilogy; reunification is the **result**, not a last-minute reveal — see `22_life_technology_and_two_trees_spine.md`.
+In Eden language, the ending is the union of the **Tree of Knowledge** and the **Tree of Life**. Knowledge without life becomes classification, prediction, registry, and control. Life without knowledge remains vulnerable to omen, priestcraft, panic, and charismatic manipulation. The mature form is both: living connection disciplined by testable understanding, and scientific accountability held inside reciprocal life. **Discovery spine:** both Trees are **found throughout** the series; reunification is the **result**, not a last-minute reveal — see `22_life_technology_and_two_trees_spine.md`.
 
 The final movement comes full circle, but not as a reset or geographic retreat. It carries the ordinary life Pelangi Reach established—food, work, sailing, jokes, affection, repairs, fatigue, privacy, and mutual dependence—into a larger, locally governed Hawaiʻi Island community. Pelangi Reach remains the emotional origin and one living federation community; Hawaiʻi proves that the answer can expand without becoming a new center. Ordinary life is no longer taken for granted, and it is no longer treated as lesser than transcendence. It has been consciously chosen after the characters understand what domination, worship, immortality, ownership, and fear would have cost.
 
 ### Reform pressure on the Continental Union — LOCKED
 
-The federation does not reform the Continental Union because Eli persuades Washington in a single encounter. D.C. makes the Union's safety argument public; Hawaiʻi and the other settlements make a competing system visible and repeatable. Conditional admission, local authority, transparent records, review, exit rights, and successful mixed communities create pressure through replication, negotiation, defections, and public comparison. The Union may adopt reforms, fracture, or resist; the trilogy proves a viable alternative rather than promising a completed national conversion.
+The federation does not reform the Continental Union because Eli persuades Washington in a single encounter. D.C. makes the Union's safety argument public; Hawaiʻi and the other settlements make a competing system visible and repeatable. Conditional admission, local authority, transparent records, review, exit rights, and successful mixed communities create pressure through replication, negotiation, defections, and public comparison. The Union may adopt reforms, fracture, or resist; the series proves a viable alternative rather than promising a completed national conversion.
 
 ### Final movement — the unremarkable afternoon
 

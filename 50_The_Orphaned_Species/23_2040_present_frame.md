@@ -1,6 +1,6 @@
 # 2040 Present Frame — What Changed (Author Assumption)
 
-> **Status:** LOCKED **author assumption** for the present-day trilogy. The story is set in **~2040** (default anchor; **optional author range ~2040–2042** for publication drift — LOCKED 2026-07-26). **Never state the year on-page.** Readers should infer *near future* from texture, not from a caption. Companion to `21_present_day_street_skin.md`, `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `22_life_technology_and_two_trees_spine.md`, `28_present_day_trilogy_craft_index.md`, and **`56_future_conflicts_atlas.md`** (conflict registers, sorting machine, trilogy pressure map — LOCKED 2026-07-26).
+> **Status:** LOCKED **author assumption** for the present-day series (Books I–IV; optional V–VI unallocated — `SERIES_STRUCTURE.md`). The story is set in **~2040** (default anchor; **optional author range ~2040–2042** for publication drift — LOCKED 2026-07-26). **Never state the year on-page.** Readers should infer *near future* from texture, not from a caption. Companion to `21_present_day_street_skin.md`, `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `22_life_technology_and_two_trees_spine.md`, `28_present_day_trilogy_craft_index.md` (legacy filename), and **`56_future_conflicts_atlas.md`** (conflict registers, sorting machine, series pressure map — LOCKED 2026-07-26).
 
 ## Rule
 
@@ -157,7 +157,7 @@ Same shape, different vocabulary: an insider class gets its risk socialized by t
 | **Robotics** | **Scarcer than near-future default** — software scaled; **embodied** automation did not. See § *Robotics lock* below | Patched **robot dog** (legacy, one route); fixed **automatic chess**; **drones** at war/perimeter — not a robot in every plaza |
 | **Consciousness science** | Fringe → **funded fringe**: EEG/fMRI + anomaly correlation; Emrys marginalized but instrumented | signatures "measurable, meaning withheld" |
 | **Transport** | EVs common in cities; **maritime still diesel-heavy** in Eli's class | Racing sailboats vs Suresh's stained hull |
-| **Finance/status** | Platform wages, gig facilities work, refugee precarity, crypto-broken remittance lanes | Eli's compound wage; Babaji connection = job, not trust fund |
+| **Finance/status** | Platform wages, gig facilities work, refugee precarity, **crypto-broken remittance lanes** (street: *transfer* / *push* / *clear* — no brand names on-page) | Island **chits** vs Meridian **cash**; Eli → Shireen clinic **phone transfer** after Cube intake; squeeze kills bars **and** remittance |
 
 **Avoid:** flying cars, Mars colonies, full VR life, everyone in spandex, magic holograms everywhere, **humanoid robots as background furniture**.
 
@@ -252,7 +252,7 @@ By 2040, elites **know** carriers exist:
 
 ### Strait geometry — Mandate throat, Coalition lungs, Meridian ledger — LOCKED 2026-07-24
 
-**Author note:** real-world strait economics (Hormuz shock → AI bubble burst; Malacca as eastern seaborne choke; demand/proxy metrics diverging from official dashboards) inform **texture only** — not on-page exposition or a second oil-war plot. The trilogy's first energy severance is **Hormuz** (`42`, `WORLD_BIBLE.md` §1); **2040** is uneven **armed reopening**, not a fresh embargo episode.
+**Author note:** real-world strait economics (Hormuz shock → AI bubble burst; Malacca as eastern seaborne choke; demand/proxy metrics diverging from official dashboards) inform **texture only** — not on-page exposition or a second oil-war plot. The series' first energy severance is **Hormuz** (`42`, `WORLD_BIBLE.md` §1); **2040** is uneven **armed reopening**, not a fresh embargo episode.
 
 **One-line map:** **Meridian City** is the Eastern Mandate's **brain and ledger** on the Singapore anchor; the **Strait of Malacca** is the bloc's **throat** (and everyone's); **Malacca** and **Pelangi Reach** are Free Ports **lungs** in the same body of water — economically breathed by Meridian, politically **not** Mandate territory, always one patrol from being filed.
 

@@ -1,8 +1,14 @@
 # SERIES STRUCTURE — the authoritative volume map
 
-> **Read this first if you are unsure how many books this series has, what's in each one, or what a file name refers to.** The series is **four volumes**. A same-day experiment on **2026-07-29** briefly split the original 13-chapter Book I into two (Breach / Living Route) and shifted later volumes up; that split was **reversed the same day**. If any other document states a five-volume map or treats Thailand/Sanxingdui as a separate Book II, **this file wins**.
+> **Read this first if you are unsure how many books this series has, what's in each one, or what a file name refers to.**
+>
+> **Current governing map: Books I–IV.** Do not call the Layer 1 novel a **trilogy** in new prose, pitch, or agent materials — that label is stale.
+>
+> **Books V–VI:** optional / not yet allocated. May be added later (deeper metaphysics, reincarnation, Iblīs deeper-function staging, post-court generations). Until a volume card exists here, do not invent Book V/VI contents in other docs.
+>
+> A same-day experiment on **2026-07-29** briefly split the original 13-chapter Book I into two (Breach / Living Route) and shifted later volumes up; that split was **reversed the same day**. If any other document states a five-volume map from that experiment or treats Thailand/Sanxingdui as a separate Book II, **this file wins**.
 
-## The four volumes, current state
+## The current volumes (I–IV)
 
 | # | Title | File | Chapters | Words (approx.) | Notes |
 |---|---|---|---|---|---|
@@ -10,6 +16,21 @@
 | **II** | The Descent | `50_The_Orphaned_Species/MANUSCRIPT_BOOK_II.md` | — | ~29,900 | Westward route; Maren release at Albion |
 | **III** | The Living World | `50_The_Orphaned_Species/MANUSCRIPT_BOOK_III.md` | — | ~23,900 | Network / Hawaiʻi / federation arc |
 | **IV** | The Court of Threads | `50_The_Orphaned_Species/MANUSCRIPT_BOOK_IV.md` | — | ~14,800 | Women-led court; Rowan/Eli; birth / relinquishment |
+
+## Possible later volumes (V–VI) — not locked
+
+| # | Status | Notes |
+|---|---|---|
+| **V** | **Open** | Placeholder only. Candidate space: post-court world, metaphysics denser than Book IV allows, reincarnation decision if locked on. |
+| **VI** | **Open** | Placeholder only. Candidate space: further generations / Iblīs deeper-function confirmation if still withheld from I–IV. |
+
+Do not renumber I–IV to make room for V–VI. New books append.
+
+## Soft-inconsistency rule (LOCKED 2026-07-29)
+
+- Prefer **series**, **present-day series**, **Layer 1 novels**, or **Books I–IV**.
+- Filenames that still say `trilogy` (`29_trilogy_plot_and_development.md`, `28_present_day_trilogy_craft_index.md`) are **legacy names** — contents govern the series; do not rename unless doing a deliberate repo pass.
+- Pitch / query / back-cover copy: **never** “trilogy” unless the published product is later cut to three.
 
 ## Why the brief split was reversed
 
@@ -21,5 +42,6 @@ The split tried to even volume lengths and give Thailand its own title identity.
 - **Book II** = Descent (Albion / Wren–Rowan / Charkha reveal / Maren's release).
 - **Book III** = Living World (network / Hawaiʻi / federation / Extras–cloisters).
 - **Book IV** = Court of Threads (women-led court; Rowan/Eli romance arc; birth / succession).
-- Beatsheet filenames (`31_volume_I`, `32_volume_II`, `33_volume_III`) still match this four-volume numbering.
-- If you find a "Book V" or "Living Route as Book II" notice dated 2026-07-29, it is stale — translate back using the table above.
+- **Books V–VI** = optional append-only; unallocated until this file gains rows with titles and governing spines.
+- Beatsheet filenames (`31_volume_I`, `32_volume_II`, `33_volume_III`, `60_volume_IV`) match I–IV numbering.
+- If you find a "Book V" or "Living Route as Book II" notice dated 2026-07-29 from the reversed split, it is stale — translate back using the I–IV table above.

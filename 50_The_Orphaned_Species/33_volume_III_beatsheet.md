@@ -22,7 +22,7 @@
 
 > **SANXINGDUI SUPERSESSION — LOCKED 2026-07-26:** The first Sanxingdui material-pattern / word-tree break now occurs in Book I as part of the Rasel and Tree-of-Life climax (`58_sanxingdui_climax_lock.md`). Book III may apply and extend that scientific insight to the reciprocal circuit and field sail, but does not discover Sanxingdui for the first time. Older “Sanxingdui break arrives here” and Book III Rasel-rescue language below is stale.
 
-> **HIGH PRIORITY — LOCKED 2026-07-25:** Chapter beats must pass **`55_series_pitch_and_comps.md`** 10-point gate; win condition = **release + coexistence**, not boss-fight or treasure-box. **Vol III chapter-by-chapter audit + end hooks:** `55` § *Book III — chapter-by-chapter pitch audit*.
+> **HIGH PRIORITY — LOCKED 2026-07-25; pressure rules 2026-07-29:** Chapter beats must pass **`55_series_pitch_and_comps.md`** gate (items 1–14) **and** the **Three pressure rules** (Clock A = keep the rescued world from re-caging; Clock B = Wren-network jurisdiction vs Eli's public power + registry/Crane/Sol; cost → next chapter). Win condition = **release + coexistence**, not boss-fight or treasure-box. **Vol III chapter-by-chapter audit + end hooks:** `55` § *Book III — chapter-by-chapter pitch audit*.
 
 > **GOVERNING REBUILD — LOCKED 2026-07-26.** Book III is the construction and defense of a distributed living network after Maren's release and the first spreading awakening at the end of Book II. Europe, the tether, the amplifier, the mother-release, and the Rasel rescue do **not** repeat here. Rasel has been physically present since the Sanxingdui ending of Book I. Book III tests whether free communities can survive harm, fear, attack, and disagreement without registry, cult, army-state, or permanent ruler.
 

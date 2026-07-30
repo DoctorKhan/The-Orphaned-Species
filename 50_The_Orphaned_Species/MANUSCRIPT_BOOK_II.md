@@ -1,5 +1,7 @@
 # The Orphaned Species Book II: The Descent
 
+> **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–14 and the **Three pressure rules** (Clock A Maren/rescue vs Clock B Wren-network/registry/**Sol**; antagonist present-tense job; cost → next chapter). Dual-clock map: `55` § *Book II — dual-clock & cost→next map*. Beats: `32_volume_II_beatsheet.md`.
+
 > **Governing draft begun 2026-07-28.** Present tense, close third. Eli remains
 > the home consciousness; Somchai and Wren receive only the locked away
 > movements in `32_volume_II_beatsheet.md`. This manuscript begins the morning

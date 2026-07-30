@@ -1,5 +1,7 @@
 # The Orphaned Species Book III: The Living World
 
+> **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–14 and the **Three pressure rules** (Clock A = keep the rescued world from re-caging; Clock B = Wren-network jurisdiction vs public power + registry/Crane/Sol; cost → next chapter). Beats: `33_volume_III_beatsheet.md`.
+
 > **Governing draft begun 2026-07-28.** Present tense, close third. Eli remains
 > the home consciousness; Wren receives only the locked away movements in
 > `33_volume_III_beatsheet.md`. Book III begins after Maren's release has had

@@ -25,7 +25,7 @@ The plot should discover **effects before causes, practices before doctrines, an
 
 ## Genre comps and clue-chain craft — LOCKED 2026-07-25
 
-> **Canonical pitch hub:** **`55_series_pitch_and_comps.md`** (agent/query, back-cover, full comps table, 10-point gate). This section retains craft summary for reveal-order work.
+> **Canonical pitch hub:** **`55_series_pitch_and_comps.md`** (agent/query, back-cover, full comps table, checklist items 1–14, **Three pressure rules**). This section retains craft summary for reveal-order work.
 
 **Shelf (author / pitch):** literary speculative **deep-history conspiracy thriller** — the **investigative momentum** of *The Da Vinci Code*, the **landmark chase energy** of *National Treasure*, and a **conspiracy of the ages** the present book only names in part.
 

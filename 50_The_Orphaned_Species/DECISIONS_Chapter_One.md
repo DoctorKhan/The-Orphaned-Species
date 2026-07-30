@@ -24,13 +24,17 @@
 
 1. **⟦DC-1⟧ — LOCKED rev. Z.** **Friday AM** race opens **mid-channel in medias res** (Eli vs Kiran; wind pocket → Timah/Jul → Kiran capsizes → wall-shadow finish); Suresh holds the wager and gives Eli the Cherry Cube manifest after **Eli wins**. Shireen **Monday** = post-race stake. **Two boats only. No dawn boat.**
 
-2. **⟦DC-2⟧ — LOCKED rev. Z.** **Mei dinner** opens with Eli and Kiran laughing about the capsize; Kiran leaves before Mei privately delivers the orphan truth (*stolen child*, parents taken alive, Babaji told her years ago). Eli's previous night asleep in Rasel's garden is **referenced, not shown**. Plate left like a place held. **No Saturday service-door goodbye.**
+2. **⟦DC-2⟧ — LOCKED rev. Z + craft 2026-07-29.** **Mei dinner** opens with Eli and Kiran laughing about the capsize; Kiran leaves before Mei privately delivers the orphan truth (*stolen child*, parents taken alive, Babaji told her years ago). **Rootbook charged on-page:** Eli opens it—Maren's hand, forked *Name* page—Mei closes it and withholds (*Babaji's people move paper*). Plate left like a place held. **No Saturday service-door goodbye.**
 
-3. **⟦DC-3⟧ — LOCKED rev. Y.** **Saturday AM catamaran** = first Wren meet. Handler line through Meridian City. Babaji texture (robot dogs, chess, holdout context) without orphan exposition on Babaji's lips.
+3. **⟦DC-3⟧ — LOCKED rev. Y + craft 2026-07-29.** **Saturday AM catamaran** = first Wren meet. Handler line through Meridian City. **Accelerated:** papers + attest + last-light window + grief line on launch; jurisdiction speech and tea-ledger beat compressed. Babaji texture without orphan exposition on Babaji's lips.
 
 4. **⟦DC-4⟧ — LOCKED rev. Y.** **Saturday PM departure** during raid on Babaji hotel offices; hearth suspended; island locked down. Babaji catamaran south in parallel. **Last light**, not dawn.
 
 5. **⟦DC-5⟧ — LOCKED rev. Y.** **Option A** — no Pelangi resort chase (kiddy-car retired to quarry). Hunt begins at Meridian intake/concert (Ch 2).
+
+6. **⟦DC-6⟧ — LOCKED craft 2026-07-29.** **Cold-reader noun friction:** Cherry Cube / Circuit / Thread / Weaver / Albion / Eastern Mandate labels thinned or delayed out of Ch 1 surface; cash-job want and parent-alive want land clean; Cube named in Ch 2 when Eli arrives.
+
+7. **⟦DC-7⟧ — LOCKED craft 2026-07-29.** **Shireen remittance = phone transfer**, not bank wire. Suresh: *Real transfer, not island chits.* Eli to Shireen: *Cash hits at intake—I'll transfer Sunday* (Monday clinic deposit). Squeeze kills bars **and** remittance lane. No on-page crypto brand names; street plumbing only (`23` crypto-broken remittance lanes).
 
 ## Superseded (do not restore without author pass)
 

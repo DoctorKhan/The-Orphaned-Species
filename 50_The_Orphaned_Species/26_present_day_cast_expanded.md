@@ -701,7 +701,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Age:** mid-20s. **Want:** keep the remaining family off official questions about Rasel and the foreign mother.
 
-**Scene:** one encrypted message or missed call Eli can't answer safely — *Babu, don't come home; they're still asking about your mother; I'm fine; are you eating* — dak nam in Bangla, remittance pressure underneath.
+**Scene:** one encrypted message or missed call Eli can't answer safely — *Babu, don't come home; they're still asking about your mother; I'm fine; are you eating* — dak nam in Bangla, **phone-transfer remittance** pressure underneath (clinic deposit Monday; Eli promises Sunday push from Cube cash).
 
 **Voice:** Bangla text mix; practical, scared, not poetic; uses **Babu** (Rasel's old habit), not Eli, in intimate lines.
 
