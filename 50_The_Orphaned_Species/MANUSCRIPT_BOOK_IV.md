@@ -1,14 +1,590 @@
 # The Orphaned Species Book IV: The Court of Threads
 
-> **Governing draft begun 2026-07-28.** Book IV is led through women's
+> **Governing draft begun 2026-07-28; Ch. 1 revised 2026-07-29.** Book IV is led through women's
 > perspectives, principally Wren and Rowan, in close third present. Eli is
 > experienced primarily from outside as ruler, lover, symbol, and prospective
-> father. The volume begins days after Book III's broken handover and spans
-> roughly ten months through final transfer, birth, and an ordinary later coda.
+> father. The volume opens seven months into a **successful** decentralized
+> settlement, then breaks it: a coordinated attack on the working government
+> leads the reconstituted institutions to deliberately invoke a dormant
+> continuity clause and ask Eli back into bounded authority a second time. The
+> volume spans roughly ten months from there through final transfer, birth, and
+> an ordinary later coda.
 
 ## Chapter One—The Doors
 
-Wren receives three seating plans before breakfast.
+The quarterly review opens with a missing delegate.
+
+Seven months of this, and it is the first time it has happened. That is what makes it wrong before anyone can say why.
+
+Tarek Mensah's aircraft landed forty minutes ago. His route witness confirms he left the harbor. The vehicle assigned to the repair hall never arrived.
+
+Wren delays the session.
+
+The Union jurist objects.
+
+"We have alternate quorum."
+
+"His identity key was used at the east gate twelve minutes ago."
+
+"Then he is present."
+
+"No one saw him."
+
+"The system authenticated."
+
+Wren looks toward Asha Raman.
+
+Asha sits at the central verification table with three ledgers open: technical credentials, living attestations, and objections — the same three she has kept open every session since the handover held. Seven months of steady work have not made her less tired. They have made the tiredness look earned instead of frightened.
+
+"A key is not a person," she says, out of habit, because she has said it so many times it has become a kind of prayer.
+
+Nobody has needed the reminder in seven months. That is what makes today wrong.
+
+This is what slow government looks like when something is finally testing whether it still holds.
+
+---
+
+The repair hall has no ceremonial dignity. It never did. That was the point, once — no throne, no palace, nothing built to be defended for its own sake. Its roof trusses still carry load ratings. Two gantries hang above the delegate floor. Machine bays hold medical stations, food, and the seven verification desks, spaced far enough apart that no single blast radius could touch more than two — Wren's design, built into the compact from the day the handover succeeded, insurance nobody thought they'd need to use. The public enters through doors wide enough for freight.
+
+Outside, first-cloister crews manage the perimeter beside local defenders.
+
+Not beneath them.
+
+Owen Price still enforces the written rule against turning every available man into security. Malik Foster's twenty are seven months into a no-scarf, no-recruitment agreement that has mostly held. Harbor Threads run transport. Disabled veterans staff the information desk because somebody finally noticed they know every route in the building.
+
+Women remain everywhere in the work.
+
+Leilani controls the airspace.
+
+Local electricians maintain the barrier.
+
+Weaver houses verify arrivals.
+
+Mina leads medical, and has had almost nothing to do for seven months, and has stopped complaining about it exactly as much as she still privately misses being needed for something other than routine.
+
+Eli sits among ordinary delegates.
+
+No raised platform. Seven months of that too. The arrangement still creates more attention than a throne would, and he has stopped noticing it the way you stop noticing a scar.
+
+Rowan arrives through the west door with Callum and three route witnesses.
+
+Wren meets her at the verification line.
+
+They do not kiss for the cameras.
+
+They touch foreheads briefly after the last witness confirms.
+
+Eli sees.
+
+The jealousy that once told him he was being replaced doesn't even bother appearing anymore. Seven months teaches a body what three weeks couldn't.
+
+Rowan catches him watching anyway.
+
+"Problem?" she asks.
+
+"No."
+
+"You look like you have one."
+
+"I often look like this."
+
+"Unfortunate."
+
+Respect arrives wearing irritation, same as always. No one in the room mistakes it for courtship. No one has had reason to, in seven months, which is its own kind of proof.
+
+---
+
+Tarek is found in a maintenance shed.
+
+Alive. Sedated. His identity key gone.
+
+The false key at the east gate has already authenticated two technical records and one delegate substitution.
+
+Asha freezes the verification desks.
+
+Every screen in the hall displays:
+
+**AUTHENTICATION COMPROMISED.**
+
+The public galleries erupt.
+
+Crane's observers request control of verification.
+
+Weaver houses object.
+
+Sol's delegates accuse the Union.
+
+Union delegates accuse the Mandate.
+
+Commissioner Ma's remote representative provides evidence that the false key used a Union continuity cipher.
+
+The Union says the cipher was stolen in San Francisco, seven months ago, in the same window when the original transfer was being finalized — a theft that sat dormant until today.
+
+Both can be true.
+
+Wren goes to Tarek.
+
+He cannot speak. His body remembers the vehicle route in fragments: citrus cleaner, a woman's hand on his shoulder, one wheel striking a pothole, a voice using Eli's name to tell him the schedule changed.
+
+Technical account identifies three possible vehicles.
+
+Relational account identifies the exploit:
+
+trust in seven months of working government became the weapon.
+
+The assembly begins rebuilding attestation person by person.
+
+That is when the first strike hits.
+
+---
+
+It does not come from outside.
+
+One of the field-damping units beneath Verification Desk Four reverses phase.
+
+Delegates nearest it receive one another's fear without source or boundary.
+
+A woman runs toward a door that exists only in somebody else's memory.
+
+A Union official strikes a man reaching for his own medication.
+
+Two awakened delegates lock into involuntary coherence and amplify the panic.
+
+Eli stands.
+
+His standing here carries no authority to give that order — he is a private citizen at a public table, same as everyone in the room, and for a half-second his body doesn't know what to do with that fact under pressure.
+
+He does not enter the room.
+
+"Ground Desk Four," he calls.
+
+Nobody obeys because he is ruler. He isn't. They obey because the instruction names a machine and Bima trained half the repair crew to distrust patriotic switches years before any of this had a name.
+
+Leilani kills the desk circuit.
+
+Callum puts a manual ground through the floor bus.
+
+Rowan and Wren move delegates toward different exits, preventing the crowd from becoming one crush.
+
+The second strike comes from the air.
+
+Maintenance drones descend through the roof vents with legitimate repair credentials. One releases an obscurant that blinds cameras and field perception together. Another targets the distributed copy desks.
+
+Leilani seizes two.
+
+The third detonates above Asha's table.
+
+Wren reaches her after the blast.
+
+Asha is conscious. Blood runs from one ear. A fragment has entered below her collarbone.
+
+"Ledgers," she says.
+
+"People first."
+
+"That is why I said ledgers. They contain objections."
+
+Wren gives one to Rowan and one to a young Weaver from the north house.
+
+The third is digital and already corrupted.
+
+Living attestations begin leaving by seven routes.
+
+Not copies of identity.
+
+People who can say whom they saw, what they witnessed, and which objections remained unresolved.
+
+The Weavers become government while evacuating it — the same thing they were seven months ago, when it worked without anyone having to prove it under fire.
+
+---
+
+Outside, the perimeter receives three contradictory orders.
+
+Union command directs all demobilized personnel to form a defense line.
+
+Sol's channel directs Extra men to seize the hall before the registry does.
+
+The compact dispatch requests voluntary defense of evacuation routes.
+
+Malik hears Sol's voice first.
+
+"Brothers, this is the hour they planned to steal. Hold the assembly for the people."
+
+Several men lift red scarves from inside their shirts.
+
+Owen blocks the armory door with his chair.
+
+"No remobilization without role and exit."
+
+"We're under attack," Malik says.
+
+"Yes."
+
+"They need us."
+
+"Then ask the men."
+
+"There's no time."
+
+The old sentence.
+
+Malik looks at the hall doors.
+
+Women and children are coming through. Asha is carried on a worktable. Tarek is unconscious on a stretcher. Union troops are moving toward the north barrier without compact authorization.
+
+"Roles!" Malik shouts. "Evacuation lane. Medical carry. North barrier. Infrastructure. Nobody goes because he's standing nearest."
+
+Men choose.
+
+Some refuse.
+
+One red-scarf group tries to enter the hall under Sol's order.
+
+The cloister crews stop them.
+
+Not with a glorious charge.
+
+With forklifts, locked freight gates, foam extinguishers, and six veterans who know how quickly a rifle becomes a funeral inside a crowded building.
+
+At the south perimeter, Union officers begin scanning every escaping man as a probable attacker.
+
+Owen turns the information desk into an appeal station while drones cross overhead.
+
+"Name," he says.
+
+"Sanjay Rao."
+
+"Destination?"
+
+"Medical carry."
+
+"Witness?"
+
+"Me."
+
+The answer is a woman carrying the other end of the stretcher.
+
+"Go."
+
+No household sponsor.
+
+No Extra flag.
+
+Standing made civic in the middle of collapse — the same standing that was made civic seven months ago on an ordinary afternoon, tested now against something worse than paperwork.
+
+---
+
+The fourth strike targets the station routes.
+
+Every active ground connected to the assembly receives a counterfeit teaching:
+
+**ONLY THE CHOSEN VOICE CAN PRESERVE THE PEOPLE.**
+
+It bears three artifact signs and no provenance.
+
+Cuno's grammar catches the lie.
+
+Not because the content is metaphysically false.
+
+Because no witness chain accompanies it, losses are omitted, and three bounded teachings have been collapsed into one instruction.
+
+Local keepers refuse forwarding.
+
+Two stations shut down.
+
+One under Union control transmits anyway.
+
+The counterfeit reaches supporters who never stopped, in seven quiet months, treating Eli as Deiwos underneath their ordinary courtesy.
+
+They begin gathering outside the west gate, asking him to take command.
+
+"The stones chose him," a man says.
+
+Wren hears through the route channel.
+
+"No," she says. "Somebody forged the custody."
+
+The distinction does not move a crowd.
+
+Eli steps onto the loading platform.
+
+People kneel.
+
+He could use the projection to clear the routes.
+
+Instead he holds up the damaged physical ledger from Asha's table.
+
+"This contains objections," he says. "The message you received erased them."
+
+"Lead us," someone calls.
+
+"Evacuate through the marked lanes. Follow local crews."
+
+"Take the crown."
+
+"There is no crown. I gave it back seven months ago and meant it."
+
+The crowd moves because he speaks.
+
+His refusal still functions as command.
+
+There is no clean exterior to power once enough people project it onto a body — not even seven months of proof that he'd actually let it go.
+
+---
+
+The fifth strike kills Celia Park.
+
+She is moving the Sideways physical reference clock out of the east lab when a targeted round crosses the service yard.
+
+The clock survives in its case.
+
+Park does not.
+
+Rasel reaches her after Mina.
+
+The medical account takes forty seconds.
+
+No pulse.
+
+Catastrophic head injury.
+
+No intervention.
+
+Rasel sits in the yard with one hand on the clock case and blood on his sleeve.
+
+Commissioner Ma's channel requests confirmation that the research record survived.
+
+Rasel closes the channel.
+
+For five minutes, peace waits for a grieving man to decide whether an object should travel before the person who carried it.
+
+Then he sends the reference clock with Park's named custody record.
+
+Not because the science matters more.
+
+Because she designed it to survive her.
+
+The ceasefire negotiation continues without its principal Union physicist.
+
+Loss does not make continuity immoral.
+
+Erasing the person to praise continuity would.
+
+---
+
+Eli enters the hall again after the active strikes end.
+
+The delegate floor is wet from sprinklers. One gantry hangs at an angle. The seven verification desks are damaged, missing, or compromised.
+
+Amina Cole is unaccounted for after her transport route diverted.
+
+Asha is in surgery.
+
+Owen remains at the perimeter and cannot leave without collapsing the appeal process.
+
+Park is dead.
+
+Malia's local council revokes use of the repair hall until safety review.
+
+Captain Velez's clinic vessel has been ordered away to receive casualties.
+
+Tarek remains sedated.
+
+No seven-person council can verify itself today.
+
+No quorum can prove that the surviving records are clean.
+
+The attack has done, in one afternoon, what it would have taken a hostile state years to argue: it has made seven months of proof feel like an accident that finally ran out of luck.
+
+The Union jurist finds the dormant clause and reads it aloud — the same clause that was read into the record seven months ago and answered, on tape, in front of witnesses: *understood and not needed.*
+
+"The compact permits reinstating the prior coordinator's authority, bounded and reviewable, until a successor is credibly recertified. It requires a vote of the constituent remnants. It does not fire on its own."
+
+"His authority ended cleanly seven months ago," Amara says through a surviving screen. "Ending it a second time on purpose is not the same as it never having ended."
+
+"No one is arguing it wasn't real," Wren says. "We're arguing what happens now that something tried to prove it wasn't."
+
+"Convenient, that the door was left unlocked."
+
+"It was left unlocked on purpose, in front of you, on the record, specifically so it wouldn't have to be broken down today."
+
+Both things are true, and everyone in the room knows it.
+
+The constituent remnants vote — not on whether the clause fires, because it cannot fire itself, but on whether to open the door they built and locked together.
+
+Every faction understands the incentive.
+
+Eli's supporters want the vote to pass.
+
+Union continuity officials prefer one known coordinator to a fractured council under fire.
+
+Weaver houses now possess the attestations required to end the crisis without him, and vote knowing that, and vote yes anyway, because ending it without him today would cost more than it would prove.
+
+Cloister crews now possess the perimeter force required to keep an assembly alive, and vote the same way, for the same reason.
+
+Sol's people benefit from a visible king they can pressure, oppose, or convert.
+
+Crane benefits from every hour distributed verification looks less reliable than his registry.
+
+Unknown attackers benefit most if no successor is ever trusted again.
+
+The vote passes.
+
+Eli does not cast one.
+
+Wren finds him before the result is read aloud.
+
+"You understand what we're doing," she says. "We're not undoing seven months. We're admitting it needs defending, once, on purpose, by people who watched it work."
+
+"I understand."
+
+"Then say it back to me."
+
+"This isn't mine again. It's borrowed a second time, by people who know exactly what they're risking, for exactly as long as it takes to make it safe to give back."
+
+"Say the last part slower next time. You'll need to mean it twice."
+
+One line goes up on the surviving display, not as a legal default but as a recorded, witnessed choice:
+
+**CONTINUITY COORDINATOR (REINSTATED BY VOTE): ELI HOLT.**
+
+He looks for Wren.
+
+She is beside Asha's empty table, assigning living attestations to new holders.
+
+She does not come stand beside him.
+
+She does not leave.
+
+Both matter.
+
+---
+
+Rowan finds him in the west service corridor.
+
+His left hand has begun shaking. The field reversal reopened the old injury and left bright gaps in his vision.
+
+"Sit," she says.
+
+"I have a review in six minutes."
+
+"Then shake while sitting."
+
+He lowers himself onto a tool case.
+
+Rowan checks the back of his neck for a field burn. Her fingers are cool and practical. When they touch the skin below his hair, his attention changes.
+
+Only for a second.
+
+Pain can do that.
+
+Relief can.
+
+The fact that Rowan does not approach him through worship, apology, or romance can.
+
+She feels him go still and removes her hand.
+
+"Burn?" he asks.
+
+"Minor."
+
+"Then why did you stop?"
+
+"You were listening."
+
+"For the answer."
+
+"Perhaps."
+
+Every interpretation has a complete nonromantic explanation.
+
+Neither supplies another.
+
+"Wren?" he asks.
+
+"Working."
+
+"Is she angry?"
+
+"Ask her."
+
+"I am asking whether the government can function."
+
+"No, you're not."
+
+He almost smiles.
+
+"Will the western routes verify again?"
+
+"Under the same conditions as before. No central custody. Independent appeal. Weaver decisions reviewable by people outside the houses. Cloister force answerable to civilian terms. Nothing about today changes what we agreed seven months ago — it just proves we meant it."
+
+"They saved the assembly twice now."
+
+"Which is why nobody will be able to pretend, after today, that any of this was luck the first time."
+
+"And you?"
+
+"I was elected to carry an attestation, not become your adviser."
+
+"I need one."
+
+"You have hundreds."
+
+"Most want the office."
+
+"So will some of us, for exactly as long as this vote lasts, and not one day longer. Hold us to that the way you're asking us to hold you."
+
+---
+
+The first daily continuity review begins at sunset.
+
+Eli reports every order issued since the vote passed.
+
+Evacuation.
+
+Medical priority.
+
+Temporary perimeter command.
+
+Preservation of the ceasefire channel.
+
+Suspension of compromised verification.
+
+No force synchronization.
+
+No identity registry.
+
+The review authorizes another twenty-four hours, on the record, by name, with an expiry clock visible to everyone in the room — the thing that didn't exist the first time this happened, because the first time didn't need it.
+
+Outside the chamber, Weaver delegates and cloister councils begin the work of proving, a second time, that borrowed authority can still be returned on schedule.
+
+At midnight, Wren enters the review room.
+
+She puts Asha's surviving objection ledger on the table.
+
+"This stays open," she says.
+
+"Good."
+
+"Not symbolic."
+
+"I know."
+
+"Do you?"
+
+He turns to the first page. Nia's name, in Amara's hand. Bima's, in Mei's. Celia Park's, added today by Rasel.
+
+Every system in the room wants to become continuity.
+
+The ledger remembers what continuity costs — the first time, and now this one.
+
+Wren sits across from him.
+
+She is neither consort nor subordinate, and she has not gone, and this time neither of them mistakes the borrowed crown for a home.
+
+---
+
+Days later, Wren receives three seating plans before breakfast.
 
 The Union plan places continuity officials closest to Eli because they control
 the legal archive.
@@ -26,7 +602,7 @@ The court does not officially exist.
 This is what everyone calls it.
 
 The review chamber occupies a repaired machine bay beside the hall where the
-handover failed. Eli works at a table on the floor. Delegates enter through two
+attack happened. Eli works at a table on the floor. Delegates enter through two
 public doors under compact witness. Every twenty-four hours, the constituent
 remnants decide whether the continuity clause remains active.
 

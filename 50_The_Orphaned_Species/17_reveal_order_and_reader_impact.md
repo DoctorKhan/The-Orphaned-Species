@@ -210,6 +210,8 @@ Working order under the new model:
 
 Each layer should recontextualize the prior layer. Do not dump the full ladder at once.
 
+**Checkable at revision — LOCKED 2026-07-29:** this principle now has a drafting-gate teeth version, not just a value everyone agrees with in the abstract — `55_series_pitch_and_comps.md` § *Drafting & revision gate*, item 15, the **term-density budget**: no more than one new named concept per chapter, and as chapters fill toward full novel length, the added pages go to breathing room around existing terms, not faster introduction of new ones.
+
 **The 17:1 ratio reveal — LOCKED 2026-07-28:** the reader first meets the skewed hybrid sex ratio as proof of a designed bottleneck — the creators engineering mass elimination. Later understanding recontextualizes it: nobody designed it. The crosses were forbidden precisely because of this outcome, someone crossed the line anyway, and the ratio is plain biology doing to incompatible lineages what it always does. The horror moves from *they built a trap* to *nature doesn't negotiate, and the prohibition existed for a reason* — stage it the same way as the taxonomy above, apparent design first, indifferent biology second.
 
 ### 9. Save the robot/sub-drone reveal for a gut-punch

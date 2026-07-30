@@ -221,6 +221,7 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 12. **Two live clocks** — every chapter advances (or visibly threatens) **both** the rescue clock and the network/registry clock; finishing one must worsen or endanger the other (`55` § *Three pressure rules*).
 13. **Antagonist job** — at least one opposing force has a **present-tense task with a deadline**, not only an ideology (`55` § *Three pressure rules*).
 14. **Cost → next chapter** — the chapter's paid cost must change what is possible, forced, or forbidden in the **next** chapter — not only the moral temperature (`55` § *Three pressure rules*).
+15. **Term-density budget — LOCKED 2026-07-29.** No more than **one new named concept** (faction, cosmological term, institution) per chapter, unless it is replacing or recontextualizing one already introduced (`17` § *Delay the full taxonomy*). As chapters fill toward full novel length, the added pages must be spent on breathing room around existing terms — companion translation, sensory grounding, domestic stakes — not on introducing new vocabulary faster to match the added plot. If a chapter needs a second new term to function, cut one of the two or split the chapter; don't let both land in the same reader-sequence unit.
 
 ---
 
