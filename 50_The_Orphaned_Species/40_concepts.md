@@ -140,7 +140,7 @@ Not one Ajah taxonomy. Full craft lock: `29` § The crafts.
 | **Place** | house → harbor branch → corridor | No HQ; overlapping contacts; houses may refuse; conference weave when routes cross |
 | **Craft** | **Warp · Weft · Knotters · Dyers** | By work, not rank; may change craft |
 | **Status** | house Weaver / **Unranked** / allied | *Houses keep; Unranked strike*; Unranked outside crafts, still on the ledger |
-| **Bonds** | ply · marriage knot · formative bond | Not crafts; orthogonal to craft membership |
+| **Bonds** | ply · marriage knot · formative bond | Not crafts; orthogonal to craft membership. **Ply distribution LOCKED 2026-07-29:** ~⅓ sealed / ~⅓ rotate / ~⅓ unpaired cohort-only (`19`, `95`) |
 
 **Crafts (jobs):**
 
