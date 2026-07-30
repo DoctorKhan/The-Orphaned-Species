@@ -1,0 +1,27 @@
+book:
+  title: "The Consciousness Technologies"
+  subtitle: "Rediscovering Ancient Tools for Modern Liberation"
+  author: "Rez Khan"
+  description: "A comprehensive guide to psychedelics, plant medicines, and consciousness-altering practices as tools for breaking free from programming and accessing authentic spiritual experience."
+  keywords: ["psychedelics", "consciousness", "spirituality", "plant medicine", "liberation"]
+  language: "en"
+
+build:
+  source_dir: "src"
+  output_dir: "output/final"
+
+output:
+  markdown:
+    filename: "The_Consciousness_Technologies_Complete_Book.md"
+  html:
+    filename: "index.html"
+    template: "book_template.html"
+
+metadata:
+  version: "2.0"
+  last_updated: "2024-07-06"
+  word_count_target: 80000
+  
+# Gap-based structure configuration
+structure_type: "gap_based"
+gap_increment: 10

@@ -1,0 +1,33 @@
+book:
+  title: "Manual Override"
+  subtitle: "A Practical Guide to Conscious Living"
+  author: "Rez Khan"
+  description: "A comprehensive framework for understanding consciousness, breaking free from unconscious patterns, and developing genuine agency in daily life."
+
+build:
+  source_dir: "src"
+  output_dir: "output/final"
+
+output:
+  markdown:
+    filename: "Manual_Override_Complete_Book.md"
+  html:
+    filename: "index.html"
+    template: "book_template.html"
+
+metadata:
+  version: "2.0"
+  last_updated: "2024-07-06"
+  word_count_target: 80000
+  
+# Gap-based structure configuration
+structure_type: "gap_based"
+gap_increment: 10
+
+# Auto-scanning will find all numbered directories and files
+# No need to manually list structure - it's built automatically from:
+# 10_introduction/
+# 20_part_foundations/  
+# 30_part_mechanisms/
+# 40_part_application/
+# 90_appendix/

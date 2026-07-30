@@ -1,0 +1,28 @@
+# Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary/editor files
+*.swp
+*.swo
+*.bak
+.DS_Store
+
+# Build/output folders - keep final compiled books but ignore temp files
+output/web_build/
+output/temp/
+site/
+build/
+dist/
+assets/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+Thumbs.db
+.DS_Store

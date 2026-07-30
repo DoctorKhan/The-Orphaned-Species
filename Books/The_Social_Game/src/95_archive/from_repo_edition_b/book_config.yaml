@@ -1,0 +1,27 @@
+book:
+  title: "The Social Game"
+  subtitle: "How collective systems program individual consciousness"
+  author: "Rez Khan"
+  description: "An examination of social programming, digital manipulation, and the construction of collective reality."
+  keywords: ["social programming", "digital manipulation", "collective consciousness", "social systems"]
+  language: "en"
+
+build:
+  source_dir: "src"
+  output_dir: "output/final"
+
+output:
+  markdown:
+    filename: "The_Social_Game_Complete_Book.md"
+  html:
+    filename: "index.html"
+    template: "book_template.html"
+
+metadata:
+  version: "2.0"
+  last_updated: "2024-07-06"
+  word_count_target: 80000
+  
+# Gap-based structure configuration
+structure_type: "gap_based"
+gap_increment: 10

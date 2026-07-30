@@ -1,0 +1,9 @@
+# Chapter 15: The Spark
+
+For hundreds of thousands of years, our ancestors lived in a deep and dreamless stasis. They made the same teardrop-shaped hand-axe, generation after generation, a tool so stable it has been called the species' longest-running joke. They were successful survivors, but their world was static, their minds locked in the immediate present.
+
+Then, starting around 50,000 years ago, a fire was lit in the human mind. Archaeologists call this sudden transformation the **Upper Paleolithic Revolution**, the dawn of what it means to be fully human, or **behavioral modernity**. The methodical gray of the Stone Age is shattered by a creative explosion. We find the first bone flutes, proving the existence of music. We find delicate bone needles, which signal the invention of tailored clothing to survive the Ice Age. We find shell jewelry, a clear sign of personal identity and social status.
+
+The most spectacular evidence of this new mind is found deep within the caves of Europe. In places like Chauvet and Lascaux, our ancestors created breathtaking galleries of art. They painted thundering herds of bison and horses, used the natural contours of the rock to give their figures a three-dimensional life, and left their handprints as a signature across time. These were not mere decorations; they were the external signs of an internal revolution—a world of myth, ritual, and shared symbols.
+
+This was not a slow, gradual dawn. It was a cognitive big bang. What could have been the catalyst? The artifacts—the spear-throwers, the flutes, the paintings—are the symptoms, not the cause. They are the products of a mind that could suddenly think in the abstract and the symbolic. To understand the spark, we must look at the animal that held the flame. The answer is not carved on a cave wall, but written in our own anatomy.

@@ -1,0 +1,36 @@
+book:
+  title: "The Human Experiment"
+  subtitle: "Reclaiming Our Origins, Purpose, and Evolutionary Destiny"
+  author: "Rez Khan"
+  description: "A comprehensive exploration of human origins, intervention theories, and our evolutionary destiny through the lens of functional mythology."
+
+# Use flat compile via gap-based auto-scanning (no YAML TOC required)
+structure_type: "gap_based"
+# toc_file: "toc.yml"  # unused in gap_based mode
+
+gap_increment: 10
+
+# Auto-scanning will find all numbered directories and files
+# No need to manually list structure - it's built automatically from:
+# 00_introduction/
+# 05_part_crime_scene/
+# 10_part_investigation/
+# 15_part_aftermath/
+# 20_part_liberation/
+# 90_appendix/
+
+build:
+  source_dir: "src"
+  output_dir: "output/final"
+
+output:
+  markdown:
+    filename: "The_Human_Experiment_Complete_Book.md"
+  html:
+    filename: "index.html"
+    theme: "clean"
+
+metadata:
+  description: "A deep dive into the human condition and social dynamics."
+  keywords: ["human nature", "society", "psychology", "philosophy"]
+  language: "en"

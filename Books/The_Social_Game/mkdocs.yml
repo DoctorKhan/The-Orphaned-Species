@@ -1,0 +1,107 @@
+site_name: The Social Game
+site_description: An examination of social programming, digital manipulation, and
+  the construction of collective reality.
+site_author: Rez Khan
+site_url: https://universalbookcompiler.com/10_The_Social_Game/
+site_dir: ../site_build
+docs_dir: docs
+nav:
+- index.md
+- The Social Game: the-social-game.md
+- Part I Intro:
+  - part-1-part-i-intro.md
+  - chapter-1-opening-clue-grackles.md
+  - chapter-2-what-i-found-in-bali.md
+  - chapter-3-the-first-principle-social-rhythm.md
+  - chapter-4-what-i-discovered-in-the-desert.md
+  - chapter-5-the-second-principle-playful-sovereignty.md
+  - chapter-6-the-water-discovery-natures-reset-button.md
+  - chapter-7-the-workshop-discovery-true-vs-false-hierarchy.md
+  - chapter-8-what-i-found-in-hawaii.md
+  - chapter-9-the-palo-alto-discovery-when-play-becomes-prison.md
+  - chapter-10-the-third-principle-true-vs-false-hierarchy.md
+  - chapter-11-the-marionettes-discovery.md
+  - chapter-12-the-reality-whirlpool-a-first-aid-kit-for-emotional-hijacking.md
+- 'Part 2: The Cosmic Mystery':
+  - part-2-the-cosmic-mystery.md
+  - chapter-13-the-great-forgetting.md
+  - chapter-14-the-ancient-playbook.md
+  - chapter-15-the-ancient-pattern.md
+  - chapter-16-the-hollow-middle-how-they-isolated-us.md
+  - chapter-17-digital-accelerant-false-democracy.md
+  - chapter-18-science-as-verification.md
+  - chapter-19-part-4-the-meta-game.md
+- 'Part 4: The Meta-Game':
+  - part-3-the-meta-game.md
+  - chapter-20-practical-implementation-guide.md
+  - chapter-21-meta-game.md
+  - chapter-22-the-unsolved-mystery.md
+  - chapter-23-counter-strategy-principles.md
+  - chapter-24-the-war-on-play.md
+  - chapter-25-sovereign-mind-principles.md
+  - chapter-26-science-of-sovereign-connection.md
+  - chapter-27-strategists-dilemma.md
+  - chapter-28-appendix-b-practical-exercises-and-field-manuals.md
+  - chapter-29-exercise-b1-flotilla-formation-guide.md
+  - chapter-30-exercise-b2-three-spheres-audit.md
+  - chapter-31-exercise-b3-identifying-your-strings.md
+  - chapter-32-exercise-b4-the-three-doors-practice.md
+  - chapter-33-exercise-b5-the-30-day-field-manual.md
+  - chapter-34-glossary-of-terms.md
+- Downloads: downloads/index.md
+theme:
+  name: material
+  palette:
+  - scheme: default
+    primary: deep purple
+    accent: purple
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - scheme: slate
+    primary: deep purple
+    accent: purple
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  features:
+  - navigation.tabs
+  - navigation.sections
+  - navigation.expand
+  - navigation.top
+  - navigation.footer
+  - search.highlight
+  - search.share
+  - content.code.copy
+  - content.action.edit
+  - content.action.view
+  - content.tabs.link
+  font:
+    text: Inter
+    code: Fira Code
+plugins:
+- search
+markdown_extensions:
+- pymdownx.highlight
+- pymdownx.superfences
+- pymdownx.tabbed
+- pymdownx.details
+- pymdownx.critic
+- pymdownx.caret
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.tilde
+- admonition
+- codehilite
+- toc
+- tables
+- footnotes
+- attr_list
+- md_in_html
+extra_css:
+- stylesheets/custom.css
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/DoctorKhan/Universal-Book-Compiler
+copyright: Copyright &copy; 2025 Rez Khan

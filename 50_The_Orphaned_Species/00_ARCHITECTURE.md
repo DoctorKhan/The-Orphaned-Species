@@ -68,9 +68,16 @@ The content has outgrown any single book. Rather than split it into rival volume
 
 Slim non-fiction the novel dramatizes — your four original "teaching" books, **not deleted but promoted** to the reference shelf. For readers who want to go from feeling it to understanding and practicing it.
 
-- **The Native Road** *(the practices, usable)* — `10_Manual_Override/` + `40_The_Consciousness_Technologies/`, merged: breath, stillness, healing touch, resonance, dream, plant-mind, the field. The "how to actually walk the native road."
-- **The True History** *(the cosmology/mythology, readable)* — `30_The_Human_Experiment/`: the Makers, the guardians, the planes, the orphaning — the story of the species, distilled from the master timeline.
-- **The Cage** *(how control works)* — `20_The_Social_Game/`: the spectacle, hierarchy, atomization. (Can stand alone, or fold into The True History.)
+> **Companion home — LOCKED 2026-07-29:** Canonical trees live in-repo under
+> **`Books/`**. Root paths `10_Manual_Override`, `20_The_Social_Game`,
+> `30_The_Human_Experiment`, and `40_The_Consciousness_Technologies` are
+> **compatibility symlinks** into `Books/` (Cosmic Game sits at
+> `Books/The_Cosmic_Game/`). Merge history: `Books/MERGE_CHECKLIST.md`,
+> `Books/LAYER2_MERGE_STATUS.md`. Edit under `Books/` only.
+
+- **The Native Road** *(the practices, usable)* — `Books/Manual_Override/` + `Books/The_Cosmic_Game/`: breath, stillness, healing touch, resonance, dream, plant-mind, the field. The "how to actually walk the native road."
+- **The True History** *(the cosmology/mythology, readable)* — `Books/The_Human_Experiment/`: the Makers, the guardians, the planes, the orphaning — the story of the species, distilled from the master timeline.
+- **The Cage** *(how control works)* — `Books/The_Social_Game/`: the spectacle, hierarchy, atomization. (Can stand alone, or fold into The True History.)
 
 ---
 
@@ -88,8 +95,8 @@ The author's bible — the bedrock under the fiction. Optionally published as a 
 
 ## The descent — the reading paths
 
-- **Most readers: Layer 1 only.** A complete, gripping trilogy. They never need to know the rest is there.
-- **The hungry: Layer 1 → 2.** Feel it, then learn and practice it (the Native Road; the True History).
+- **Most readers: Layer 1 only.** A complete, gripping present-day series (Books I–IV). They never need to know the rest is there.
+- **The hungry: Layer 1 → 2.** Feel it, then learn and practice it (the Native Road; the True History) via `Books/`.
 - **The obsessive: → Layer 3.** The full cosmology, the proof, the floor.
 
 ## Why the architecture *is* the argument
