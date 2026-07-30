@@ -142,17 +142,50 @@ The cloisters divide among:
 
 - constitutional houses seeking civic standing without permanent
   militarization;
-- veterans who believe only Eli can keep them from becoming disposable again;
+- veterans who believe only Eli can keep them from being disposable again;
 - former Extras who distrust household and Weaver authority;
 - mutual-aid houses centered on work, grief, disability, repair, and continued
   obligation;
 - ambitious commanders tempted to convert representation into personal force;
-- Sol-influenced chapters offering masculine sovereignty and faster certainty.
+- Sol-influenced chapters offering masculine sovereignty and faster certainty;
+- **dissolve-the-cloister** voices (scarcity-era): push men into marriage,
+  household absorption, or personal service to the court — opposed by
+  constitutional chapters who refuse Extra→prize as the only arc;
+- **classify-and-monitor** voices (a separate, earlier controversy, still live in Book IV): Crane-aligned and Union-aligned officials who want the cloisters registered and surveilled not because men are scarce but because organized men *at all* are alarming in a world whose only precedent for male organization at scale is spending institutions — armies, crews, gangs, corps (`29` § the missing male order; founding controversy: `33` Ch 9). This argument predates and is distinct from the scarcity-era dissolve push; it never fully goes away even after the cloisters prove themselves, because distrust of a category doesn't retire on a track record alone.
 
 Their Book IV test is whether a men's keeping-order can resist becoming a
-praetorian guard, spending-machine, or mating/acceptability authority. They must
-transfer loyalty from Eli's person to a civic compact without surrendering the
-standing they earned.
+praetorian guard, spending-machine, mating/acceptability authority, **or a cartel
+of scarce men**. They must transfer loyalty from Eli's person to a civic compact
+without surrendering the standing they earned — and without letting scarcity
+turn citizens into prizes.
+
+### Cloister purpose transform — LOCKED 2026-07-30
+
+Book III founds cloisters as a response to **Extra disposability**: standing,
+grief, repair, and defense for men no household or institution will claim.
+Book III's war and Book IV's opening attack then create **scarce-male leverage**
+(Paraguay rhyme): surviving men become prizes for households, succession plots,
+consort tracks, and private protection rackets.
+
+**Do not dissolve the cloisters because men are suddenly valuable.** That is a
+court argument factions will make ("marry them off / house them / conscript them
+— brotherhoods are obsolete"). The lock is the opposite:
+
+- **Extra era:** cloisters keep men from being **nothing**.
+- **Scarcity era:** cloisters keep men from being **property**.
+
+Purpose transforms, necessity deepens. Constitutional cloisters become a check
+on scarce-male capture: refuse heir farms, refuse private husband-armies, protect
+the right to refuse household absorption, rotate dangerous service, and keep
+civic standing available without romance or bloodline. Ambitious chapters that
+treat scarcity as a mandate to rule are the failure mode.
+
+Governing line: **When men were Extra, cloisters kept them from being nothing.
+When men became scarce, cloisters keep them from being property.**
+
+**Mirror of the Weavers' own test.** Both rising institutions face the same axis in Book IV, in different currencies. The Weavers risk converting earned trust into "permanent hidden sovereignty" over attestation and legitimacy (§ The Weavers above); the cloisters risk converting earned standing into a new form of ownership over men's bodies and loyalty, just wearing marriage/heir language instead of Extra-discard language. Neither institution's growth is safe by default. Both are tested on whether power, once earned, converts into another kind of cage — the same question the book keeps asking about civilization generally, run twice through two different institutions so the reader feels the pattern rather than being told it once and asked to generalize.
+
+**The claim-review mechanic — gives the check teeth, not just a value.** Any formal household claim on a man — consort, named heir-father, personal protector, permanent household attachment — requires cloister review and the man's own standing testimony before it can be recorded by the court or the Weavers' attestation system. This is the same shape as the Weavers' own "extra witness" requirement for asymmetric ply bonds (`19_romance_and_divine_pairing.md` § The ply): a collective body gives an individual leverage to refuse that he would not credibly have alone against a court faction with real power. Dramatize this as an actual hearing or refusal scene — a household or succession faction brings a claim, the cloister and the man himself are heard, and the claim is denied or modified on the record — not as a principle characters state to each other in the abstract.
 
 ### No sex-bloc simplification
 
@@ -166,18 +199,21 @@ and repair.
 
 Women already hold much of the work the old world coded male: freight, grid and
 water maintenance, construction, convoy leadership, perimeter defense, drone
-operation, enforcement, repair, and command. War killed or conscripted many men;
-the postwar settlement then classified many survivors as house dependents,
-deniable Thread labor, or Extras while continuing to demand the same functions.
-Women inherited the vacancies without being relieved of pregnancy, domestic,
-sexual, or caregiving burdens.
+operation, enforcement, repair, and command. Pre-I wars killed and conscripted
+many people of both sexes; the postwar settlement then classified many **surviving
+men** as house dependents, deniable Thread labor, or Extras while continuing to
+demand the same functions — an **Extra surplus**, not scarce-prince demography
+(see `33` § male demography / Paraguay rhyme). Women inherited vacancies without
+relief from pregnancy, domestic, sexual, or caregiving burdens. Book III and
+IV's opening attack then create the male-scarcity condition that flips leverage.
 
 Book IV treats this as lived social structure rather than a slogan. Some women
 love the work and defend authority they earned. Some want relief from compulsory
 danger. Some fear the cloisters will use restored male standing to displace
 them. Some cloister chapters mistake dignity for entitlement to “men's work.”
 Some Weaver houses preserve female control by continuing to classify unattached
-men as presumptive threats.
+men as presumptive threats. After the IV opening cull, some factions reverse and
+**overvalue** remaining men as demographic assets — the Paraguay poison.
 
 The settlement may not solve this by restoring traditional roles or by declaring
 sex irrelevant to every bodily circumstance. Work and dangerous service become

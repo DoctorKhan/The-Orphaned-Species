@@ -135,20 +135,29 @@ The Charkha's operative insight is: **a bonded pair can refuse the state; two is
 
 **Instinct / institution distinction — LOCKED:** at the population level, female reproductive selectivity and male status competition, display, protection, and risk-bearing are ancient pressures, unevenly expressed rather than universal commands. The Charkha did not invent the sorting or the sacrifice. It **severed each from care**: selectivity became permanent social exclusion; rejection became civic death; courage became disposability; sacrifice became an admission price men were expected to pay without being kept, recovered, or grieved. A mature society does not abolish attraction, rejection, competition, or chosen masculine risk. It makes rejection survivable, standing revisable, and dangerous service voluntary, shared, witnessed, honored, recoverable, and grieved. Women owe no man intimacy or dependence; sacrifice purchases no sexual access; no sex creates an automatic duty to fight. Governing line: **The Charkha made women sort men they no longer knew, and made men sacrifice themselves for communities that would not remember them.**
 
-**WOMEN IN HISTORICALLY MALE-CODED WORK — LOCKED 2026-07-28:** Across Books
+**WOMEN IN HISTORICALLY MALE-CODED WORK — LOCKED 2026-07-28; demographic stack 2026-07-30:** Across Books
 I–II, women visibly occupy much of the work the old world coded male: freight,
 water and power maintenance, construction, perimeter defense, drone operation,
 command, enforcement, transport, repair, and dangerous route work. This is not
-proof that the work naturally belongs to either sex. Wars killed and conscripted
-men; household and civic sorting made many surviving men Extras, house
-dependents, or deniable Thread labor; institutions still required the work and
-loaded it onto available women without removing pregnancy, domestic, sexual, or
-care burdens. Some women gain real skill, identity, pleasure, status, and power
+proof that the work naturally belongs to either sex. Pre-I wars damaged both
+sexes; household and civic sorting made many surviving men Extras, house
+dependents, or deniable Thread labor (**Extra surplus**, not scarce-prince
+demography); institutions still required the work and loaded it onto available
+women without removing pregnancy, domestic, sexual, or care burdens. **Do not
+place a Paraguay-scale male wipeout before Book I** — scarce surviving men would
+gain reproductive/political leverage that contradicts Extra disposability.
+**Book III** spends men hardest in the Awakening War; **Book IV's opening attack**
+empties the court of many remaining men; only then does Paraguay-style
+male-prize leverage appear. Some women gain real skill, identity, pleasure, status, and power
 there; others are simply spent in a new register. The men's cloisters do not rise
-to reclaim “men's jobs,” displace these women, or restore compulsory roles.
-Book IV makes the allocation of defense, repair, command, care, and bodily risk a
+to reclaim “men's jobs,” displace these women, or restore compulsory roles — and
+in Book IV they must also refuse dissolving into private scarce-male power.
+**Cloister transform — LOCKED 2026-07-30:** when men were Extra, cloisters kept
+them from being nothing; when men become scarce, cloisters keep them from being
+property. Book IV makes the allocation of defense, repair, command, care, and bodily risk a
 court conflict: work and authority must be redistributed by aptitude, consent,
-training, rotation, and continuing care—not returned to a sex caste.
+training, rotation, and continuing care—not returned to a sex caste, and not
+converted into consort/heir capture of the survivors.
 
 **Reveal order is fixed.** Book I shows the emotional effects without political explanation: fear of need, intimacy mistaken for capture, exhaustion sold as competence, and institutional mediation where community once stood. Book II reveals the operation at midpoint through records Rowan can interpret and makes its personal cost legible through Wren; neither woman reduces her choices or their relationship to manipulation. Book III reveals the system purpose and demographic consequence: the Charkha helped make durable partnership harder, then its allied institutions lamented falling births because the civilization-engine needed replacement inputs. Governing lines: **Freedom is not the absence of need; it is the power to choose whom and what one depends upon. The Charkha did not liberate women from men or men from women. It liberated the engine from both.**
 

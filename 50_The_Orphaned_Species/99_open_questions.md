@@ -239,6 +239,14 @@ Extras divided rather than unified under Sol; Extra men, veterans, Thread elders
 and Eli co-found the cloisters. The end removes *Extra* as an enforceable civic
 category, not personal freedom to reject intimacy or household membership.
 
+**Male demography / Paraguay rhyme — LOCKED 2026-07-30:** No Paraguay-scale male
+wipeout before Book I (would elevate survivors as scarce prizes and break Extra
+logic). Pre-I = Extra surplus via sorting. Book III war begins true male scarcity.
+Book IV opening attack = court-emptying male-heavy cull; then scarce-male leverage.
+Cloisters do not become obsolete: **Extra era → keep men from being nothing;
+scarcity era → keep men from being property.** `33`; `60` § cloister purpose
+transform; `WORLD_BIBLE`.
+
 **Meridian worker maze — wrong-room overhear — LOCKED 2026-07-24:** at Stack **intake level**, **before the document clerk**, Eli blunders into a **Harbor Thread back room** (Thread ledger meeting — not a lore summit). Fragments only: **Malacca chandlery**, **Hassan**, archive **packet** off Stack soil, **English woman on the file**, *the strait eats what they seal*; *burn the harbor thread*. Someone clocks the **boy on the call sheet**; Eli flees. The ring photograph at the clerk desk **confirms** what his body half-heard. Cube security carries a **Thread corridor flag** (misfiled as harbor-thread ledger) alongside intake resemblance.
 
 **Meridian Circuit contract — LOCKED 2026-07-26 (rev. Z):** Eli **beats Kiran in a harbor skiff race**, winning the wager Suresh holds → earns a **Cherry Cube Circuit-night show contract** in the Stack — **stage/wardrobe/AV facilities** for the fictional K-pop-scale idol's race-weekend set and afterparty load-in (same trade as Foundry: uplinks, power, cable runs, service corridors). **Cash** at intake under **Shireen remittance pressure**. **Wren attests compound side** and prints call sheet; Suresh holds the transport hull. The Mandate sweep intersects this commute; he burns his Pelangi wage ticket escaping intake and reaches the Cube **from below** (worker maze), late and off the official gate — **on the call sheet but not through the door**. The idol encounter is therefore **job + recognition**, not coincidence.
