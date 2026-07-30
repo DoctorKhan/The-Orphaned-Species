@@ -114,7 +114,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 - [x] Dramatize Enki/Ninmah–Umul as dignity beyond institutional usefulness.
 - [x] Replace the planned Washington near-synchronization with the sharper Wren-network requisition attempt; preserve the actual force-synchronization temptation for Hawaiʻi.
 - [x] Return Qiao as an institutionally compromised witness under surveillance; make her testimony change the negotiation.
-- [x] Preserve the revised route: Pelangi Reach → San Francisco → ruined Washington → bounded compact → Hawaiʻi refuge → distant corridor operation → hearing → broken handover. Hawaiʻi is never changed into a front or military base by Eli. The former Hopi/Colorado coda is retired.
+- [x] Preserve the revised route: Pelangi Reach → San Francisco → ruined Washington → bounded compact → Hawaiʻi refuge → distant corridor operation → hearing → handover succeeds (Book IV opens on the working stretch, then breaks it — see 2026-07-29 revision above). Hawaiʻi is never changed into a front or military base by Eli. The former Hopi/Colorado coda is retired.
 - [x] Reveal the Forks with the dragon witness: Earth-produced chimpanzee/bird branches beside Heaven-seeded human/dragon branches; retain disputed provenance and independent-test limits.
 - [x] Make the decisive response recognition and restraint, not technology-versus-nature: possible bridge-species survivors are persons, not proof to hunt or threats to preempt.
 

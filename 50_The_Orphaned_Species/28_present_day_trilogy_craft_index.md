@@ -19,6 +19,7 @@
 | Writing Emrys comedy or warmth | `24_comedic_register_slapstick.md` + `16_reader_attachment.md` |
 | Pacing Life vs Knowledge reveals | `22_life_technology_and_two_trees_spine.md` + `17_reveal_order_and_reader_impact.md` |
 | Clue-chain / conspiracy comps (*Da Vinci Code*, *National Treasure*) | **`55`** — Vol I + Vol II + **Vol III** § *chapter-by-chapter pitch audit* |
+| **Bible → site discoveries / activations** | **`61_site_activation_map.md`** — recipe card + per-volume site tables; use when fleshing II–IV |
 | Decoding Maren's Rootbook / linguistic continuity | `52_the_rootbook_word_web.md` + volume beats `31`–`33` |
 | Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit* |
 | Locked beats / open names | `99_open_questions.md` |

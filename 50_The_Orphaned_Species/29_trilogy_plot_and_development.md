@@ -107,7 +107,7 @@
 
 **San Francisco fall / Union break / new-war ignition — LOCKED; proximity inheritance 2026-07-26:** while Eli is in ruined D.C., the new Continental capital is seized under emergency registry authority as coordinated Eastern Mandate strikes hit Pacific communications, ports, and selected Union facilities. The Union retaliates and mobilizes; the collision ignites the **Awakening War**. The fall is political and civic before it is physical — and it **breaks the Union into rival islands** (capital remnant, relocated Continuity gov, regions, Crane apparatus, Sol coalition, Free Port edges). Hawaiʻi remains outside as temporary refuge, receiving displaced consequences.
 
-**Eli does not reclaim the capital as throne — REVISED 2026-07-28:** he does **not** race west to restore San Francisco as indispensable command city or crown himself restoration symbol. Instead power pours into him by proximity: messiah pressure, Continuity vacuum, ports/clinics/awakened communities and Union officers treating his compact as the working center. Mid-Book III he is a real strongman—real orders, real coordination across regions—without conquest of the capital. He prepares to relinquish after the war window, but the attacked handover and continuity clause retain him through Book IV. Keeping power by choice remains the Sol/Crane rhyme; being institutionally trapped in necessary rule is Book IV's subtler danger.
+**Eli does not reclaim the capital as throne — REVISED 2026-07-28:** he does **not** race west to restore San Francisco as indispensable command city or crown himself restoration symbol. Instead power pours into him by proximity: messiah pressure, Continuity vacuum, ports/clinics/awakened communities and Union officers treating his compact as the working center. Mid-Book III he is a real strongman—real orders, real coordination across regions—without conquest of the capital. He prepares to relinquish after the war window, and the handover succeeds — decentralized governance holds for a real stretch before an attack on that working settlement leads institutions to deliberately invoke the dormant continuity clause and retain him a second time through Book IV. Keeping power by choice remains the Sol/Crane rhyme; being institutionally trapped in necessary rule is Book IV's subtler danger.
 
 **Cause of the fall — LOCKED:** Mandate pressure hits a Union already weakened by corruption and the habit of justifying permanent authority. The attack exposes fractures; the Union's impulse to centralize further makes the damage cascade. The Mandate strikes; Union brittleness makes the strike catastrophic.
 
@@ -618,7 +618,7 @@ Rollright, Men-an-Tol, and Stonehenge then lead to Avebury.
 - **#13** Crane accountability shape
 - **#14** Final community geography + post-battle dispute test
 
-**Chapter spine:** `33_volume_III_beatsheet.md` (Book III Ch 1–10), revised toward refugee landing, real harm, Crane standard, Wren boundary, bounded crown, partial inquiry, deniable Rowan/Eli charge, attacked handover, and Weaver/cloister rise. Book IV owns sex, romance, conception, pregnancy, and birth: `60_volume_IV_court_of_threads.md`.
+**Chapter spine:** `33_volume_III_beatsheet.md` (Book III Ch 1–10), revised toward refugee landing, real harm, Crane standard, Wren boundary, bounded crown, partial inquiry, deniable Rowan/Eli charge, a **successful** handover, and Weaver/cloister rise through building it. Book IV owns sex, romance, conception, pregnancy, birth, and the second attack/second relinquishment: `60_volume_IV_court_of_threads.md`.
 
 ---
 

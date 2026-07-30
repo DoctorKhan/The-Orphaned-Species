@@ -4,13 +4,18 @@
 >
 > **PARENT / OBJECT CLARITY — 2026-07-27:** **Maren** = **neuroscientist**; owns the **Rootbook** (encoded field journal). Word-correspondences inside it are a **cipher method**, not her profession—do not call her a comparative philologist. **Rasel** = **physicist/gardener**; owns the **wedding ring** and coupling/field instruments. Full Rootbook design: `52_the_rootbook_word_web.md`.
 >
-> **FOUR-VOLUME ENDGAME SUPERSESSION — LOCKED 2026-07-28:** Book III's former
+> **FOUR-VOLUME ENDGAME SUPERSESSION — REVISED 2026-07-29:** Book III's former
 > step-down, hearing completion, and shared-garden trilogy coda below are stale.
-> It now ends with an attacked constitutional handover, continuity-clause rule,
-> formal rise of the Weavers and men's cloisters, and only deniable Rowan/Eli
-> attraction. There is no Rowan/Eli sex, romance, or pregnancy in Book III. Book
-> IV is women-led and owns conscious attraction, repeated sex before romance,
-> chosen conception, pregnancy, childbirth, institutional settlement, and Eli's
+> It now ends with a **completed** constitutional handover — distributed,
+> redundant, no single point of failure — formal rise of the Weavers and men's
+> cloisters through building it, Eli a private citizen, and only deniable
+> Rowan/Eli attraction. There is no Rowan/Eli sex, romance, or pregnancy in Book
+> III. Book IV opens on a real stretch of working decentralized governance, then
+> breaks it: a coordinated attack on the *working* settlement leads the
+> institutions to deliberately invoke a dormant continuity clause and ask Eli
+> back into bounded authority a second time. Book IV is women-led and owns
+> conscious attraction, repeated sex before romance, chosen conception,
+> pregnancy, childbirth, institutional settlement, and Eli's second and final
 > relinquishment. Governing architecture: `60_volume_IV_court_of_threads.md`.
 
 *The audit version. Each chapter is broken into: an **[anchors]** line (POV · place · who is present · objects/clues in play · what Eli knows by the end · time/travel), the **event sequence** in order, the **forward clue**, and **⚠ seam** flags wherever the current canon is internally contradictory, superseded, or still an open casting decision. Use the anchors to catch knowledge-state and continuity errors ("how does he know that yet?", "where is the ring right now?"); use the seams list at the end to catch structural contradictions. Grounded in `31`/`32`/`33` (beatsheets), `05`, `35` (artifact chain), `36` (living-web mechanism), `41` (climax mechanism), `26` (cast), `42` (preamble), `52` (Rootbook), `WORLD_BIBLE.md`. Chapter numbers follow the current locked rebuild order; renumbering is expected. Compressed pitch version: `BOOK_SUMMARIES_short.md`.*
@@ -283,7 +288,7 @@ Eli does not abandon the birth to occupy the political center. From Rowan's room
 3. **Hassan ring tracking — LOCKED sequence.** Photograph → Malacca physical → recaptured at breach → Thrace/Balkan holding → Book II rescue.
 4. **Chapter numbering — RESOLVED.** Book I 1–13; Books II–IV 1–10 each.
 5. **Rowan returns in Book II Ch 5.** No prior forced setup; relationship disclosed, not explained.
-6. **Book III casting specifics — RESOLVED IN DRAFT.** Tomas Okafor's nonconsensual entry kills Nia Okafor; Amara survives without forgiving Eli. Bima Prasetyo and Teo Marquez die during the corridor operation; Blue Roof House is destroyed; the hearing sanctions Eli; the attacked handover kills Celia Park and injures Asha Raman.
+6. **Book III/IV casting specifics — RESOLVED IN DRAFT, revised 2026-07-29.** Tomas Okafor's nonconsensual entry kills Nia Okafor; Amara survives without forgiving Eli. Bima Prasetyo and Teo Marquez die during the corridor operation; Blue Roof House is destroyed; the hearing sanctions Eli. The casualty placement flagged above is now decided: Celia Park's death and Asha Raman's injury moved to **Book IV Ch. 1**'s attack on the working settlement (drafted), since Book III's handover itself now succeeds without an attack.
 7. **Hawaiʻi/Pele — cultural consultation required.** Local residents decision-makers, not approving witnesses.
 8. **Iblīs / hidden force — OPEN.** Lean recommendation: late/felt principle only, never embodied (`99` #15).
 9. **Maren profession wording — LOCKED.** Neuroscientist; Rootbook linguistic cipher ≠ philologist career. Keep summaries and pitch copy from drifting.

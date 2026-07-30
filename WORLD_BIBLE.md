@@ -52,17 +52,26 @@ grant legitimacy. The ending invalidates *Extra* as a civic category without
 making household membership or intimacy compulsory. Governing line: **A person
 may reject a man; a civilization may not make him disposable because of it.**
 
-**FOUR-VOLUME ENDGAME / BOOK IV COURT — LOCKED 2026-07-28 (brief five-volume renumber 2026-07-29 reversed same day; see `SERIES_STRUCTURE.md`):** The series is
+**FOUR-VOLUME ENDGAME / BOOK IV COURT — REVISED 2026-07-29 (brief five-volume renumber 2026-07-29 reversed same day; see `SERIES_STRUCTURE.md`):** The series is
 a four-volume arc. Book III ends after Eli has accepted and exercised bounded
-emergency authority, refused forced synchronization, and prepared a
-constitutional transfer. A coordinated attack during certification kills,
-scatters, or compromises enough of the provisional council that the compact's
-continuity clause extends Eli's mandate until a successor can be credibly
-certified. The Weavers save delegates, attest identities, restore routes, and
-place survivors; the men's cloisters hold perimeters, move casualties, repair
-infrastructure, and prevent discarded fighters from being silently remobilized.
-Both movements consequently rise into formal but internally divided civic power.
-Book IV is a women-led court-intrigue volume, principally through Rowan and Wren.
+emergency authority, refused forced synchronization, and **completed** a
+constitutional transfer — distributed across seven independently verified
+desks, no single point of failure, no single ceremony an attack could have
+reached. It succeeds. Decentralized governance holds for a real stretch of
+time; Eli becomes a private citizen. The Weavers and men's cloisters rise into
+formal civic power by **building** the transfer, not by surviving an attack on
+it. Book IV opens on that working stretch, then breaks it: a coordinated attack
+on the *working* government kills, scatters, or compromises enough of the
+reconstituted council that the reconstituted institutions — not an automatic
+legal default — **deliberately vote** to invoke the compact's dormant
+continuity clause and ask Eli back into bounded authority a second time. Both
+movements' power deepens through this second crisis response, on top of what
+they already earned building the first success. Book IV is a women-led
+court-intrigue volume, principally through Rowan and Wren. The volume's climax
+is therefore Eli's **second and final** relinquishment, not his first — proved
+once by success, twice by choice under worse conditions. Full redesign:
+`50_The_Orphaned_Species/33_volume_III_beatsheet.md` and
+`50_The_Orphaned_Species/60_volume_IV_court_of_threads.md` § 1.
 Its power grammar is access, placement, messages, household recognition, medical
 privacy, ceremony, and attestation. Book III plants only deniable Rowan/Eli
 attraction inside political trust; they have no sex and no romance in that

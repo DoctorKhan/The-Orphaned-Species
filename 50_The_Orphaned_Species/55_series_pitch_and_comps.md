@@ -431,7 +431,7 @@ Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all
 
 ### Book III clue-chain spine (pitch-facing)
 
-Pelangi refugee crisis → **intake harm (Ch 3)** → SF/Yerba Buena + **Crane Standard** → **Wren boundary (Ch 5)** → **bounded compact** → **Hawaiʻi refuge** → consent limit at corridor → **hearing/step-down** → **complex-time proof / ceasefire process** → broken handover. Artifacts: Double-Fork Stone + dragon ghost (late); Rootbook Sanxingdui break; Devolution roster glimpse. Full beats: `33`; peace `51`; teahouse `50`.
+Pelangi refugee crisis → **intake harm (Ch 3)** → SF/Yerba Buena + **Crane Standard** → **Wren boundary (Ch 5)** → **bounded compact** → **Hawaiʻi refuge** → consent limit at corridor → **hearing/step-down** → **complex-time proof / ceasefire process** → handover succeeds (Book IV opens on the working stretch, then breaks it). Artifacts: Double-Fork Stone + dragon ghost (late); Rootbook Sanxingdui break; Devolution roster glimpse. Full beats: `33`; peace `51`; teahouse `50`.
 
 ### Book III chapter-end hooks (drafting obligation)
 

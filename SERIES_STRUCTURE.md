@@ -46,5 +46,6 @@ The split tried to even volume lengths and give Thailand its own title identity.
 - **Book IV** = Court of Threads (women-led court; Rowan/Eli romance arc; birth / succession).
 - **Books V–VI** = optional append-only; unallocated until this file gains rows with titles and governing spines.
 - **Layer 2 companions** live under `Books/` (Manual Override, Social Game, Human Experiment, Cosmic Game). Root `10`–`40` are compatibility symlinks into `Books/`.
+- **Fleshing discoveries:** `50_The_Orphaned_Species/61_site_activation_map.md` — site → carrier → bible bite → partial truth.
 - Beatsheet filenames (`31_volume_I`, `32_volume_II`, `33_volume_III`, `60_volume_IV`) match I–IV numbering.
 - If you find a "Book V" or "Living Route as Book II" notice dated 2026-07-29 from the reversed split, it is stale — translate back using the I–IV table above.

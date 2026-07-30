@@ -73,7 +73,7 @@ Artifacts operate on three levels:
 - **Enheduanna's Inanna hymns:** authored voice inside political theology; characters encounter a displaced speaker, while the reader sees the warning about who interprets and owns sacred authority.
 - **Inana's Descent:** descent, surrender, accurate resonance, and restoration; Somchai embodies the method while Eli initially mistakes it for a code.
 - **The Sorting** (Enki and Ninmah): full cross-ref after Vol I seed — every person has purpose even when no institution can use or classify them; the story seeds the Book III refugee ethic.
-|- **Timna serpent / Nehushtan:** a paired historical argument—serpent inside the making, serpent later erased by centralizing authority.
+- **Timna serpent / Nehushtan:** a paired historical argument—serpent inside the making, serpent later erased by centralizing authority.
 |- **Cuno–Derw object:** incomplete station geometry, artifact signs, routing
   intervals, witness marks, provenance, and known losses; the characters must
   test it against several artifacts and never receive a complete manual.

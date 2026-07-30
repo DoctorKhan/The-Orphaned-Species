@@ -92,7 +92,7 @@
 >
 > **POV:** Eli remains the trunk. Wren owns the chapter in which she refuses Eli access to the threshold network. Other ensemble action is observed through one of those two minds; one scene holds one viewpoint.
 >
-> **Geographic movement — REVISED 2026-07-28:** Pelangi Reach refugee crisis → San Francisco civic passage → ruined Washington, D.C. / relocated-government negotiation → Wren's boundary and bounded compact → Hawaiʻi Island invitation, relation/armor/refuge lessons → distant corridor operation → hearing → attacked handover. Hawaiʻi is not a front: it is the temporary refuge where the compact is learned and where war's displaced consequences arrive. The former Hopi/Colorado coda moves out of the active Book III sequence; the shared garden and teahouse close Book IV.
+> **Geographic movement — REVISED 2026-07-29:** Pelangi Reach refugee crisis → San Francisco civic passage → ruined Washington, D.C. / relocated-government negotiation → Wren's boundary and bounded compact → Hawaiʻi Island invitation, relation/armor/refuge lessons → distant corridor operation → hearing → handover succeeds (Book IV opens on the working stretch, then breaks it). Hawaiʻi is not a front: it is the temporary refuge where the compact is learned and where war's displaced consequences arrive. The former Hopi/Colorado coda moves out of the active Book III sequence; the shared garden and teahouse close Book IV.
 
 ---
 
@@ -321,7 +321,8 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Crane:** contained through the coalition's procedures and evidence—including Qiao's testimony and Hassan/Sora's records—not personally pardoned or sentenced by Eli. His diagnosis survives even as his claim to permanent ownership fails.
 - **Eli:** the immediate attack condition ends and he initiates the compact's
   inquiry and transfer procedure. His authority has not yet expired; Book III
-  must show concrete preparation to surrender it before the handover is attacked.
+  must show concrete preparation to surrender it, and the handover succeeds —
+  the surrender actually completes, not merely gets attempted.
 - **Armor removed:** once the attack ends, Eli removes the armor before the hearing. No one treats it as his permanent title; its maintenance and use remain subject to community permission.
 - **Tao 65 / teach not-knowing (LOCKED 2026-07-25; moved 2026-07-28):** holding the line against forced sync **is** governing without cleverness—dramatize, do not recite. The optional threshold tile after authority finally expires moves to Book IV.
 - **Pitch gate — end hook:** Named death + threshold house lost; war continues elsewhere; emergency authority **expires** — hearing owed.
