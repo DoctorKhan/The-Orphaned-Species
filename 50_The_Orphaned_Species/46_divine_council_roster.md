@@ -167,7 +167,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | Refuse messenger/son title | Vol II **Ch 18** (merged into the single scene — LOCKED 2026-07-21) | Healer — anti-Gabriel, anti-*Son of Man* in one motion; in Vol III the title has simply withered |
 | "Archangel Protocol" as war language | Vol III **Ch 23–28** | Factions claim **portions** via angel names |
 
-**Status:** pinned in plot layer; **not yet in `MANUSCRIPT.md` prose.**
+**Status:** pinned in plot layer; **not yet in `manuscripts/I_The_Breach.md` prose.**
 
 ### Character ladder — allude → reference → recontextualize *(plot seeds — agency ON HOLD)*
 

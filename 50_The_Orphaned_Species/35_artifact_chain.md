@@ -61,7 +61,7 @@ Artifacts operate on three levels:
 - **The Circles** (Three-Circles Tablet): physical post-breach encounter (Meridian Stack leak delivered at the Malacca kelong, Ch 3); body/family/civilization diagnostic grammar.
 - **The Forks** (Double-Fork Stone): held until Book III with the dragon ghost. Books I–II seed only partial branch/guardian motifs and a living-person Nephilot clue; the full diagram makes the parallel Earth/Heaven bridge-species design a late cosmological reveal.
 - **The Bridge** (Göbekli snake/tree/bird plaquette): three stacked zoom levels (terrestrial / guardian / cosmological); characters see a partial diagram at most; the reader may hold the full bridge reading before Book III certifies panspermia.
-- **Human-Design Triad packet (Ch 12):** **The Refusal · The Sorting · The Fade** as one archive haul — Refusal primary; Sorting + Fade seeded; street names on-page (`MANUSCRIPT` Ch 12).
+- **Human-Design Triad packet (Ch 12):** **The Refusal · The Sorting · The Fade** as one archive haul — Refusal primary; Sorting + Fade seeded; street names on-page (`manuscripts/I_The_Breach.md` Ch 12).
 - **The Fade** (King List): declining pre-Flood duration and the memory of lost immortality; characters debate chronology, myth, biology, and grief.
 - **The Refusal** (Adapa tablet): knowledge turned into obedience; the psychological control mechanism is legible to characters, but its place in the larger plan remains hidden.
 - **The Sorting** seed (Enki and Ninmah / Umul = **the Unplaceable**): filed in Vol I; full cross-ref payoff Vol II–III.
@@ -353,7 +353,7 @@ This compresses with the Three-Circles Tablet: the tablet is the social grammar 
 
 **Why this object and not a generic guardian-tree:** it is already on the page, already real, and already load-bearing:
 
-- **Already drafted, already vivid** — `MANUSCRIPT.md` Ch 12 describes it in full: three tiers of branches, nine birds, a dragon descending headfirst beside the trunk, and a top that is missing (`MANUSCRIPT.md:2010-2014`). No new object needs inventing.
+- **Already drafted, already vivid** — `manuscripts/I_The_Breach.md` Ch 12 describes it in full: three tiers of branches, nine birds, a dragon descending headfirst beside the trunk, and a top that is missing (`manuscripts/I_The_Breach.md:2010-2014`). No new object needs inventing.
 - **Real and verifiable** — modeled on the actual excavated Sanxingdui Sacred Tree (Sichuan, Bronze Age Shu culture), a real museum artifact whose top is genuinely unresolved/missing. The story's central visual metaphor (a tree whose top nobody has found, per `58_sanxingdui_climax_lock.md`) is not invented poetry — it is the real object's own condition. This satisfies the project's real-science citation floor while still being freshly unfamiliar to most Western readers, unlike an invented Western dragon-and-tree fantasy image.
 - **Bookends the trilogy by itself, no new symbol required:** Book I shows it broken and incomplete (Eli finds Rasel at the site where the top is missing); Book III's dragon ghost and rainbow tree/feathered-serpent reunion (`35_artifact_chain.md` § *Two-Tree union*) complete what Sanxingdui left open. A cover series can run: Book I — the bronze tree, one dragon, broken top; Book II — a single-guardian variant from the compression ladder (§ *Series-wide placement* above); Book III — two trunks reunited, guardians as feathered serpent. Same grammar, evolving image, no invented mythology.
 

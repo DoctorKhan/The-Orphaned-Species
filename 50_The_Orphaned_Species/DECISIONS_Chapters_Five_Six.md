@@ -1,6 +1,6 @@
 # Chapters Five–Six — decision record
 
-> **File:** `DECISIONS_Chapters_Five_Six.md` (renamed from `DRAFT_Chapter_Five_Six.md` 2026-07-24). **Thailand governing draft — LOCKED 2026-07-23.** Prose in `MANUSCRIPT.md`; chunk sandbox: `WORKING_Thailand_Chapters_Five_Ten.md`.
+> **File:** `DECISIONS_Chapters_Five_Six.md` (renamed from `DRAFT_Chapter_Five_Six.md` 2026-07-24). **Thailand governing draft — LOCKED 2026-07-23.** Prose in `manuscripts/I_The_Breach.md`; chunk sandbox: `archive/manuscripts/working_thailand_ch5-10.md`.
 
 ## Ch 5 — The Field That Counts
 

@@ -4,6 +4,8 @@
 >
 > **Current governing map: Books I–IV.** Do not call the Layer 1 novel a **trilogy** in new prose, pitch, or agent materials — that label is stale.
 >
+> **Governing manuscripts** live under `50_The_Orphaned_Species/manuscripts/`. Stale/quarry prose lives under `50_The_Orphaned_Species/archive/manuscripts/`.
+>
 > **Books V–VI:** optional / not yet allocated. May be added later (deeper metaphysics, reincarnation, Iblīs deeper-function staging, post-court generations). Until a volume card exists here, do not invent Book V/VI contents in other docs.
 >
 > A same-day experiment on **2026-07-29** briefly split the original 13-chapter Book I into two (Breach / Living Route) and shifted later volumes up; that split was **reversed the same day**. If any other document states a five-volume map from that experiment or treats Thailand/Sanxingdui as a separate Book II, **this file wins**.
@@ -12,10 +14,10 @@
 
 | # | Title | File | Chapters | Words (approx.) | Notes |
 |---|---|---|---|---|---|
-| **I** | The Breach | `50_The_Orphaned_Species/MANUSCRIPT.md` | 1–13 | ~42,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) |
-| **II** | The Descent | `50_The_Orphaned_Species/MANUSCRIPT_BOOK_II.md` | — | ~29,900 | Westward route; Maren release at Albion |
-| **III** | The Living World | `50_The_Orphaned_Species/MANUSCRIPT_BOOK_III.md` | — | ~23,900 | Network / Hawaiʻi / federation arc |
-| **IV** | The Court of Threads | `50_The_Orphaned_Species/MANUSCRIPT_BOOK_IV.md` | — | ~14,800 | Women-led court; Rowan/Eli; birth / relinquishment |
+| **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~42,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) |
+| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | — | ~29,900 | Westward route; Maren release at Albion |
+| **III** | The Living World | `50_The_Orphaned_Species/manuscripts/III_The_Living_World.md` | — | ~23,900 | Network / Hawaiʻi / federation arc |
+| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | — | ~14,800 | Women-led court; Rowan/Eli; birth / relinquishment |
 
 ## Possible later volumes (V–VI) — not locked
 

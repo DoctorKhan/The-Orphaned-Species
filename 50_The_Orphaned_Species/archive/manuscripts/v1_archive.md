@@ -1,6 +1,6 @@
 # The Orphaned Species
 
-> **ARCHIVED V1.** This file is retired as the canonical manuscript. It remains only as a prose quarry for Maren, Aru, Pai, sensory texture, and individual salvageable scenes. The current manuscript is `MANUSCRIPT.md`.
+> **ARCHIVED V1.** This file is retired as the canonical manuscript. It remains only as a prose quarry for Maren, Aru, Pai, sensory texture, and individual salvageable scenes. The current manuscript is `manuscripts/I_The_Breach.md`.
 
 *working title — manuscript draft. Present-day braid (the trunk; the doorway into an epic across the whole history of humankind). Voice: present tense, close third on Eli; **eloquent diction + VARIED sentence length — rhythm through contrast: short sentences to punch, long ones to sing, and rarely more than one or two long sentences before a short one resets the breath. Eloquent but NOT run-on; resonant but NOT blunt.** Rises toward myth-cadence in the deep-time (still varied). Meaning under the surface. **Seed hints of the deep history throughout** — the epic must breathe under even the smallest present-day moment. Bible: `/00_NARRATIVE_STRUCTURE.md`. Eli's surge phenomenology drawn from `/SOURCE_the_surges.md`.*
 

@@ -1,6 +1,6 @@
 # Thailand Chapters Five–Ten — working sandbox
 
-> **Status: WORKING (2026-07-24).** Chunk-sized prose for Lumina/editing — **not governing alone.** Merge stable changes into `MANUSCRIPT.md` Ch 5–10. Beat checklists: `DECISIONS_Chapters_Five_Six.md`, `DECISIONS_Chapters_Seven_Eight.md`, `DECISIONS_Chapters_Nine_Ten.md`. Spine: `31_volume_I_beatsheet.md`.
+> **Status: WORKING (2026-07-24).** Chunk-sized prose for Lumina/editing — **not governing alone.** Merge stable changes into `manuscripts/I_The_Breach.md` Ch 5–10. Beat checklists: `DECISIONS_Chapters_Five_Six.md`, `DECISIONS_Chapters_Seven_Eight.md`, `DECISIONS_Chapters_Nine_Ten.md`. Spine: `31_volume_I_beatsheet.md`.
 
 ## Chapter Five — The Field That Counts
 

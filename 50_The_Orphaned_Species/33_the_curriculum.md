@@ -59,7 +59,7 @@ Because the genes were only silenced, the architecture lies dormant in billions.
 
 He is a half-trained adept who never knew there was a curriculum. Part of his arc is discovering that the scattered things that kept him alive were always **one practice** — and that **his father's symbolic feeling** (plants, seams, stones, bearings) and **dream-delivered answers** were the oldest layers, running before the breach ever opened.
 
-**Bitter cup placement — LOCKED 2026-07-23:** the plant-medicine threshold ceremony lands **on-page in Book II Ch 6** (Anglesey approach, keeper-supervised), paired with **Lovernios** full-res at the peat bog. Book I Thailand carries **breath/wat** (Aru floor) only. Sensory draft material in `MANUSCRIPT_v1_archive.md` § *The Medicine* is **quarry** — adapt for Albion, strip v1 cosmology dump; vertical contact may register somatically without the Book III dragon/serpent-as-face reveal.
+**Bitter cup placement — LOCKED 2026-07-23:** the plant-medicine threshold ceremony lands **on-page in Book II Ch 6** (Anglesey approach, keeper-supervised), paired with **Lovernios** full-res at the peat bog. Book I Thailand carries **breath/wat** (Aru floor) only. Sensory draft material in `archive/manuscripts/v1_archive.md` § *The Medicine* is **quarry** — adapt for Albion, strip v1 cosmology dump; vertical contact may register somatically without the Book III dragon/serpent-as-face reveal.
 
 **Rasel inheritance — LOCKED 2026-07-23:** Eli **inherits symbolic feeling from his father**, not from Maren's receiver line. Dreams are where **answers are given** — symbolic, compressed, directional. Waking life is where they are **tested**. See `15` § *Rasel's gift*.
 

@@ -1,6 +1,6 @@
 # Chapter One — The Hour That Belongs to No One
 
-> **File:** `DECISIONS_Chapter_One.md` (created 2026-07-25). **MERGED into `MANUSCRIPT.md` — the manuscript is governing.** This file is the decision record for **rev. Y** opening lock.
+> **File:** `DECISIONS_Chapter_One.md` (created 2026-07-25). **MERGED into `manuscripts/I_The_Breach.md` — the manuscript is governing.** This file is the decision record for **rev. Y** opening lock.
 
 ## Spine — LOCKED rev. Y (2026-07-25)
 
@@ -40,11 +40,11 @@
 
 - rev. J: stairwell orphan reveal; Saturday dawn departure
 - rev. B and earlier: Priya attestation; boat papers at channel mark same day as race only
-- `QUARRY_Chapter_One_alternative.md` — concept quarry, not governing
+- `archive/manuscripts/quarry_ch1_alternative.md` — concept quarry, not governing
 
 ## Cross-refs
 
-- Governing prose: `MANUSCRIPT.md` Ch 1
+- Governing prose: `manuscripts/I_The_Breach.md` Ch 1
 - Beatsheet: `31_volume_I_beatsheet.md` opening cards
 - Cast: `26_present_day_cast_expanded.md` § Wren, Mei, Babaji
 - Open questions: `99_open_questions.md` § Orphan reveal

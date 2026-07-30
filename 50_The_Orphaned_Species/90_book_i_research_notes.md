@@ -1,6 +1,6 @@
 # Book I Research Notes
 
-> **Author-only companion to `MANUSCRIPT.md`.** These notes were removed from the
+> **Author-only companion to `manuscripts/I_The_Breach.md`.** These notes were removed from the
 > governing reader sequence on 2026-07-26 so the novel does not stop to defend its
 > premises. They remain here as fact-checking, sensitivity-review, and revision
 > prompts.

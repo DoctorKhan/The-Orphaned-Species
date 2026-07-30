@@ -20,9 +20,9 @@ A living collection of real scientific papers, excerpts, and quotes that anchor 
 - **Honesty in layer 3 only.** Distinguish **anchor** (real paper) from **gloss** (fiction). Example: *"Real COVID modulated severity in carriers; the novel's weapon is speculative."*
 - **Paragraph breaks in myth-historical prose** (archival history, Part II cadence): one beat per paragraph — weapon geography separate from coalition sort; puberty separate from bloc responses. Long blocks read like lecture; short blocks read like scripture.
 - **Export:** Layer 3 can become endnotes, a closing *Notes on the Record* section, or stay inline in the markdown master — same content, three layouts.
-- **Master bibliography:** This file + `WORLD_BIBLE.md` §8. `MANUSCRIPT.md` carries only what belongs on the reader's path.
+- **Master bibliography:** This file + `WORLD_BIBLE.md` §8. `manuscripts/I_The_Breach.md` carries only what belongs on the reader's path.
 
-**Template (copy into `MANUSCRIPT.md` after each chapter that earns an anchor):**
+**Template (copy into `manuscripts/I_The_Breach.md` after each chapter that earns an anchor):**
 
 ```markdown
 ---
@@ -82,7 +82,7 @@ A second candidate, for the Ch 2 Babaji/Wren attestation scene specifically — 
 > — standard-issue attestation sleeve, Meridian Circuit processing office
 ```
 
-Neither is inserted into `MANUSCRIPT.md` yet — these are drafts to evaluate the device before committing it to the reader-facing text.
+Neither is inserted into `manuscripts/I_The_Breach.md` yet — these are drafts to evaluate the device before committing it to the reader-facing text.
 
 ## How to use this file
 

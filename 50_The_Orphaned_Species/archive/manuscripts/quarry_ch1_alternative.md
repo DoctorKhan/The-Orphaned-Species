@@ -1,6 +1,6 @@
 # Chapter One — The Hour That Belongs to No One *(alternative draft — QUARRY)*
 
-> **File:** `QUARRY_Chapter_One_alternative.md` (renamed from `DRAFT_Chapter_One.md` 2026-07-24). **Status: QUARRY, not governing (audit 2026-07-22).** The governing Ch 1 is in `MANUSCRIPT.md` — ordinary life first, effects before terminology (`17` § attachment before mythology). This draft opens on concept vocabulary ("NPC," "Circle one," tower/sedation backstory) that page one has not earned and that conflicts with the locked keeper-net history. **Worth mining later:** the NPC/autopilot interiority (once the concept is earned mid-volume), the "warmth that is not fever" somatic register, and the befriend-the-part-that-tries move (Curriculum material, `33_the_curriculum.md`).
+> **File:** `archive/manuscripts/quarry_ch1_alternative.md` (renamed from `DRAFT_Chapter_One.md` 2026-07-24). **Status: QUARRY, not governing (audit 2026-07-22).** The governing Ch 1 is in `manuscripts/I_The_Breach.md` — ordinary life first, effects before terminology (`17` § attachment before mythology). This draft opens on concept vocabulary ("NPC," "Circle one," tower/sedation backstory) that page one has not earned and that conflicts with the locked keeper-net history. **Worth mining later:** the NPC/autopilot interiority (once the concept is earned mid-volume), the "warmth that is not fever" somatic register, and the befriend-the-part-that-tries move (Curriculum material, `33_the_curriculum.md`).
 
 The fever comes first, the way it always does, as a warmth behind the eyes that is not fever.
 

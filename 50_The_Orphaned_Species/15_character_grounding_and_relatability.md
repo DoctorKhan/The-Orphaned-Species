@@ -157,7 +157,7 @@ These stages overlap. Eli can have an early surge before he can interpret one, a
 
 **Minimum seeds:** Ch 1 pre-reveal garden/sailing; Ch 1 post-reveal (Shireen → catamaran → marina raid → strait); Ch 2 post-reveal (queues, wrong-room, ring hands, Continue Inn, Cube grounding). **Maren taught him to sail.** Do not front-load lab/conspiracy in either phase; **do** front-load and **return to** love, argument, competence split between parents.
 
-**Cross-ref:** `33_the_curriculum.md` §4 (fragments); `27` § Eli; `MANUSCRIPT.md` (Rasel's shoulders, counting dream, Ila dream, green hands); `05` § Pele dream; `17_reveal_order_and_reader_impact.md` (effects before doctrine).
+**Cross-ref:** `33_the_curriculum.md` §4 (fragments); `27` § Eli; `manuscripts/I_The_Breach.md` (Rasel's shoulders, counting dream, Ila dream, green hands); `05` § Pele dream; `17_reveal_order_and_reader_impact.md` (effects before doctrine).
 
 ## Uncanny connection — the clarifier (LOCKED 2026-07-23)
 
@@ -181,7 +181,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 
 - Route and refuge choices before evidence arrives (chalk doors, Malacca thread).
 - Rootbook deciphering — cognate + site + measurement **linked** before the full proof (`52`).
-- Göbekli / patriarchy sequence — **tempting** over-connection Emrys forces him to gap (`MANUSCRIPT` working-hypothesis beat).
+- Göbekli / patriarchy sequence — **tempting** over-connection Emrys forces him to gap (`manuscripts/I_The_Breach.md` working-hypothesis beat).
 - Book III **re-teaching** *deiwos* — linguistic + practice + what the cells are **doing** (`29` § Deiwos resolution).
 - Teahouse replication — same curriculum noticed across unrelated households (`29` § lay teachings).
 

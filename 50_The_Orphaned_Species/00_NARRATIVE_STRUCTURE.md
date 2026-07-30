@@ -73,7 +73,7 @@ Avebury/Albion; Vol III Pelangi Reach + distributed federation.*
 
 **The legs:**
 - **Vol I opening — LOCKED:** **Ch 1 (Eli · Pelangi Reach), with no historical preamble.** The collapse is reconstructed through residue (`42`). No Maren prologue in Book I (`17` — attachment before mythology).
-- **Maren suppression scene — LOCKED for Vol II:** the v1 "predator before protagonist" prologue **relocates** to when Eli learns **how his mother was taken** — same courteous clipboards/vans machinery, now personal and earned. Setting: extraction corridor / keeper safehouse / border night (SE Asia), not US county health. **~1,000–1,500 words max;** show method, not keeper lecture; no Crane name on-page. Harvest prose from `MANUSCRIPT_v1_archive.md` prologue; rewrite **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths) + geography. **Do not front-load Vol I.**
+- **Maren suppression scene — LOCKED for Vol II:** the v1 "predator before protagonist" prologue **relocates** to when Eli learns **how his mother was taken** — same courteous clipboards/vans machinery, now personal and earned. Setting: extraction corridor / keeper safehouse / border night (SE Asia), not US county health. **~1,000–1,500 words max;** show method, not keeper lecture; no Crane name on-page. Harvest prose from `archive/manuscripts/v1_archive.md` prologue; rewrite **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths) + geography. **Do not front-load Vol I.**
 - **0 · Fugitive childhood and recovery — the body and first communities.** Eli
   grows up largely on Bali with fugitive parents. The family extraction takes both
   parents alive and causes his TBI. Somchai + escape net → Thailand; wat breath
@@ -108,7 +108,7 @@ Avebury/Albion; Vol III Pelangi Reach + distributed federation.*
 - **Ch 6 (escape, Wren):** relocate to the Malacca pursuit and maritime escape; Wren enters as herself, not Anthea returned.
 - **Ch 7 (Rollright / Aru descent):** RELOCATE—Aru/Göbekli → early Book II;
   Rollright → later Book II / Albion leg.
-- **The Medicine (bitter cup / plant-medicine threshold):** **Book II Ch 6, Anglesey leg** — keeper-supervised, consent-bound, paired with **Lovernios** full-res at the peat bog (`32` Ch 6; `99` #bitter-cup). **Not Book I Thailand** (wat = breath/Aru only). Retain useful sensory material from `MANUSCRIPT_v1_archive.md` § *The Medicine* as **quarry** — adapt for Albion; strip v1 cosmology dump; no Book III serpent-as-Makers-face reveal here. Lead with **terror, overwhelm, and pursuit** everywhere else; the cup is a **chosen threshold under pressure**, not a cure.
+- **The Medicine (bitter cup / plant-medicine threshold):** **Book II Ch 6, Anglesey leg** — keeper-supervised, consent-bound, paired with **Lovernios** full-res at the peat bog (`32` Ch 6; `99` #bitter-cup). **Not Book I Thailand** (wat = breath/Aru only). Retain useful sensory material from `archive/manuscripts/v1_archive.md` § *The Medicine* as **quarry** — adapt for Albion; strip v1 cosmology dump; no Book III serpent-as-Makers-face reveal here. Lead with **terror, overwhelm, and pursuit** everywhere else; the cup is a **chosen threshold under pressure**, not a cure.
 
 ## Larger cycle possibility — three trilogies, not one nine-book Eli saga
 

@@ -17,13 +17,13 @@ The content has outgrown any single book. Rather than split it into rival volume
 **POV — REVISED AND LOCKED 2026-07-28:** Eli is the home consciousness in close third present through Books I–III. Wren and Somchai are the only recurring away lenses there, used rarely and only for consequential choices Eli cannot witness; one scene always has one viewpoint. Book IV deliberately changes the camera: Rowan and Wren become the principal recurring consciousnesses, with bounded female away lenses only for consequential choices they cannot witness. Eli is experienced largely from outside as ruler, lover, symbol, and prospective father. Full Book IV override: `60_volume_IV_court_of_threads.md`.
 
 **Maps to:**
-- `50_The_Orphaned_Species/MANUSCRIPT.md` — Book I governing draft; the
+- `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` — Book I governing draft; the
   reader sequence ends before its explicitly labeled relocation quarry.
-- `50_The_Orphaned_Species/MANUSCRIPT_BOOK_II.md` — Book II complete
+- `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` — Book II complete
   ten-chapter draft.
-- `50_The_Orphaned_Species/MANUSCRIPT_BOOK_III.md` — Book III complete
+- `50_The_Orphaned_Species/manuscripts/III_The_Living_World.md` — Book III complete
   ten-chapter draft.
-- `50_The_Orphaned_Species/MANUSCRIPT_BOOK_IV.md` — Book IV complete
+- `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` — Book IV complete
   ten-chapter draft plus later coda.
 - `00_NARRATIVE_STRUCTURE.md` — the novel's bible/spine (working doc, not published).
 - `50_The_Orphaned_Species/37_deep_time_source.md` — the deep-past cave stratum, nested.

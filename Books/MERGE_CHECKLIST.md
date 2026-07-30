@@ -39,5 +39,5 @@ Do not blind-rebuild `output/final` until an editorial TOC pass chooses slim vs 
 ## Do not
 
 - Edit companions under `the former external Books folder` (leftover)
-- Import companion lectures into `MANUSCRIPT*.md`
+- Import companion lectures into `manuscripts/*.md`
 - Treat `output/` / `site_build/` as editable canon

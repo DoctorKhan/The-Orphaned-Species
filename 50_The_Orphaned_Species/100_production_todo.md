@@ -30,7 +30,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 ## Drafting frontier (2026-07-22, in order)
 
 1. [x] **Ch 1 ending:** Mandate political squeeze drafted (2026-07-24) — Babaji holdout, screening sweep during late band set; hearth forfeited inside Ch 1.
-2. [x] **Ch 2** complete and **merged into MANUSCRIPT.md** (2026-07-22), Salmah seeded at the quay pre-breach.
+2. [x] **Ch 2** complete and **merged into manuscripts/I_The_Breach.md** (2026-07-22), Salmah seeded at the quay pre-breach.
 3. [x] **Ch 3 — What Didn't Die** drafted and revised: Salmah named and priced; one-night local Weaver hospitality; Rootbook wafer through Babaji's archive chain; Eli recognizes Maren's hand and marks his first inference provisional; grounding via the platform keeper's cup + Thailand count; decision ends on "I'm not going dark."
 4. [x] **Book I governing sequence complete:** Ch 4–10 retained and revised;
    replacement Ch 11–13 drafted through Sichuan, Sanxingdui, Rasel reunion,
@@ -85,7 +85,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 - [x] Draft Pelangi Reach ordinary life and the Mandate political squeeze.
 - [x] Draft the sustained Meridian City–Straits–Malacca flight; breach ends Chapter 2.
 - [x] Draft aftermath/grounding, local Weaver hospitality, and Wren's disclosed placement route (Chs 3–4).
-- [x] **Thailand Ch 5–10 governing draft** in `MANUSCRIPT.md` (2026-07-23). Mekong quarry retired.
+- [x] **Thailand Ch 5–10 governing draft** in `manuscripts/I_The_Breach.md` (2026-07-23). Mekong quarry retired.
 - [x] Draft northbound route from Thailand: Shireen return-choice, Edda's true Rasel proof, human-door cost, Sichuan entry.
 - [x] Draft Sanxingdui through legitimate Chinese custodianship: Bronze Sacred Tree as model, local scholars with authority, language-tree break, Rasel's coerced apparatus.
 - [x] Draft Sanxingdui climax: distributed living route over machine read; Rasel recovered; Wren displaced; Qiao loses clearance.
@@ -129,7 +129,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 
 ## Stale-material policy
 
-- Retain `MANUSCRIPT_v1_archive.md`, `MANUSCRIPT.recovery_backup_2026-06-30.md`, and `archive/` as labeled prose quarries/backups, not canon.
+- Retain `archive/manuscripts/v1_archive.md`, `archive/manuscripts/recovery_2026-06-30.md`, and `archive/` as labeled prose quarries/backups, not canon.
 - `36_the_living_web.md` governs and supersedes the removed memory-capsule mechanism.
 - `31`/`32`/`33` current beatsheets govern; older allocations inside supporting docs are quarry only.
 - Do not restore superseded Boracay-first, long-opening, Gulf-backtrack, duplicate-Adapa, or early-dragon reveals.

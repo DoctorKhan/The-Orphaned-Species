@@ -82,7 +82,7 @@ Each entry: **line · speaker · first seed · repeats · spread guard**
 ### 1. Count the heat
 - **Line:** *"Hold it. Don't drink yet. Count the heat until the count holds."*
 - **Speaker:** Nura (keeper); Eli repeats in practice
-- **Seed:** Vol I Ch 3 (`MANUSCRIPT.md` — Thailand transit platform; Mekong draft retired)
+- **Seed:** Vol I Ch 3 (`manuscripts/I_The_Breach.md` — Thailand transit platform; Mekong draft retired)
 - **Repeats:** Eli's night watch; Thailand temple; teahouse baseline (`50_teahouse_pilgrimage.md`)
 - **Spread:** `#counttheheat` — cup ritual, no lore required
 - **Guard:** not a mystic init; somatic de-escalation only

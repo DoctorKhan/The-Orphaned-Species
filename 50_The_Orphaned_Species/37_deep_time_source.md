@@ -98,7 +98,7 @@ Energy moves **along the broken route through the building** — parishioners ar
 
 ### Dead zones — barren ground & intentional severance (LOCKED)
 
-*Discovery ladder **step 3**. Distinct from **broken lines** (two live opposed ends) and **forming lines** (plants grow *differently*). Full tactical layer: `38_psionic_combat.md` § *Scour & ground targeting*. **Not yet in `MANUSCRIPT.md` prose.***
+*Discovery ladder **step 3**. Distinct from **broken lines** (two live opposed ends) and **forming lines** (plants grow *differently*). Full tactical layer: `38_psionic_combat.md` § *Scour & ground targeting*. **Not yet in `manuscripts/I_The_Breach.md` prose.***
 
 **What Eli notices first (no jargon):**
 
@@ -137,7 +137,7 @@ corridor/dead-zone map; Book III scales the network into federation.
 
 ### Tracking the Nephilot line — Göbekli → massacre → Alba / “elves” (LOCKED discovery arc)
 
-*Present-day investigation chain: the **Nephilot** (hidden fertile carriers, ≈25% guardian-blood) are remembered as **Elves** and **Albians**; the western retreat name **Alba** survives in place and folk memory. Full cosmology: `00_MASTER_TIMELINE` Phase VI / IX; glossary: `95_glossary.md` (Nephilot, Albians, Qingu); purge archaeology: Pömmelte, Gomolava (`00` Phase IX). **Not yet in `MANUSCRIPT.md` prose.***
+*Present-day investigation chain: the **Nephilot** (hidden fertile carriers, ≈25% guardian-blood) are remembered as **Elves** and **Albians**; the western retreat name **Alba** survives in place and folk memory. Full cosmology: `00_MASTER_TIMELINE` Phase VI / IX; glossary: `95_glossary.md` (Nephilot, Albians, Qingu); purge archaeology: Pömmelte, Gomolava (`00` Phase IX). **Not yet in `manuscripts/I_The_Breach.md` prose.***
 
 **Craft rule:** **effects before terminology.** Eli follows genetics, growth anomalies, massacre aDNA, and place-names before anyone says “elf.” Folklore is the **compression layer**, not the thesis. Avoid real-world racial “pure blood” language; carriers are **invisible until gifts show** at charged grounds.
 
@@ -271,7 +271,7 @@ The thread, beat by beat: the **oral truth lives wordlessly in the village Song*
 
 **Craft rule:** never announce the thesis on-page. Show the cage at **domestic scale** (sister taken, neighbor sells out, registry lists, grain pit) — statistics don't wound; faces do.
 
-**Status in plot layer:** pinned in **`32_volume_II_beatsheet.md`** (Ch 16–17 patriarchy; Ch 20 church) and **`33_volume_III_beatsheet.md`**. **Not yet in `MANUSCRIPT.md` prose.**
+**Status in plot layer:** pinned in **`32_volume_II_beatsheet.md`** (Ch 16–17 patriarchy; Ch 20 church) and **`33_volume_III_beatsheet.md`**. **Not yet in `manuscripts/I_The_Breach.md` prose.**
 
 | Beat | Deep-time chapter / era | What the reader gets | Bloodline note |
 |---|---|---|---|

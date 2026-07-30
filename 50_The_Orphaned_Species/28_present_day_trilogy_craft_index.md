@@ -120,11 +120,11 @@ Six conflict registers (ecological → technological), sorting machine (racism×
 | `31_volume_I_beatsheet.md` | Vol I chapter spine |
 | `38_psionic_combat.md` | Tactical system |
 | `99_open_questions.md` | Decision log + cast name table |
-| `MANUSCRIPT.md` | **Governing** Book I prose — must pass `55` 10-point pitch gate each revision |
-| `DECISIONS_Chapter_*.md` | Per-chapter **veto flags** — why choices were made; prose lives in `MANUSCRIPT.md` |
-| `WORKING_Thailand_Chapters_Five_Ten.md` | **Lumina/chunk sandbox** for Ch 5–10 — merge into `MANUSCRIPT.md` when stable |
-| `QUARRY_Chapter_One_alternative.md` | Retired alternate Ch 1 — mine only, not canon |
-| `MANUSCRIPT_restructure_quarry.md` | Retired pre-restructure Ch 2–4 prose |
+| `manuscripts/I_The_Breach.md` | **Governing** Book I prose — must pass `55` 10-point pitch gate each revision |
+| `DECISIONS_Chapter_*.md` | Per-chapter **veto flags** — why choices were made; prose lives in `manuscripts/I_The_Breach.md` |
+| `archive/manuscripts/working_thailand_ch5-10.md` | **Lumina/chunk sandbox** for Ch 5–10 — merge into `manuscripts/I_The_Breach.md` when stable |
+| `archive/manuscripts/quarry_ch1_alternative.md` | Retired alternate Ch 1 — mine only, not canon |
+| `archive/manuscripts/restructure_quarry_ch2-4.md` | Retired pre-restructure Ch 2–4 prose |
 | `00_NARRATIVE_STRUCTURE.md` | Novel spine, romance synthesis, release thesis |
 | `00_ARCHITECTURE.md` | Layer 1 doc map |
 

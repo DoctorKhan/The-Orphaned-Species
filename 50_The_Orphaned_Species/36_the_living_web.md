@@ -232,7 +232,7 @@ Corollaries (inherited from `05` §10–11): no clarification hands him an exact
 | Material | File | Disposition under the web model |
 |---|---|---|
 | The historical practitioners' **scene detail** (Aru, Daskar, Ila, Tem, Anthea, Cuno, Lovernios) | `37_deep_time_source.md` | **Retained as content.** Reframe only: they are deep human **threads that resolve**, not carriers Eli becomes. Scene detail stays canonical. |
-| The **drafted Aru descent** | `MANUSCRIPT_v1_archive.md` | Retained. Reframe: a thread clarified to full resolution (§5). Trigger-site anchoring (Göbekli fox-pillar) still works as a charged ground (§8). |
+| The **drafted Aru descent** | `archive/manuscripts/v1_archive.md` | Retained. Reframe: a thread clarified to full resolution (§5). Trigger-site anchoring (Göbekli fox-pillar) still works as a charged ground (§8). |
 | The **cosmology blocks** (Seven Pairs, war in heaven, Adapa) | `37`, `30_beatsheet_ch09_adapa.md`, `00_MASTER_TIMELINE.md` | Retained. Reframe: deep web-structure clarified late and partially (§6); **delete the Aedan-nesting framing.** |
 | The **chapter mapping / capsule inventory** | `SOURCE_TO_TRILOGY_MAP.md` | Retained as route map. Reframe the "delivery rule" and "capsule inventory" to clarification at charged grounds; strike the lived-life/watched-vision/Aedan columns. |
 | `36_memory_capsules.md` | — | **Removed.** Superseded in full by this doc. |

@@ -1,6 +1,6 @@
 # The Orphaned Species — Silmarillion-style Source-to-Chapter Mapping
 
-*Maps the deep-time source material in `37_deep_time_source.md` and related documents to chapters in the present-day trilogy. Built from `05_story_architecture.md`, `31_volume_I_beatsheet.md`, `36_the_living_web.md`, `35_artifact_chain.md`, `37_deep_time_source.md`, `46_divine_council_roster.md`, `45_divine_names.md`, `40_concepts.md`, `00_MASTER_TIMELINE.md`, and `MANUSCRIPT.md`. This is a planning/synthesis document. When a chapter is already drafted, the draft location is noted.*
+*Maps the deep-time source material in `37_deep_time_source.md` and related documents to chapters in the present-day trilogy. Built from `05_story_architecture.md`, `31_volume_I_beatsheet.md`, `36_the_living_web.md`, `35_artifact_chain.md`, `37_deep_time_source.md`, `46_divine_council_roster.md`, `45_divine_names.md`, `40_concepts.md`, `00_MASTER_TIMELINE.md`, and `manuscripts/I_The_Breach.md`. This is a planning/synthesis document. When a chapter is already drafted, the draft location is noted.*
 
 ---
 
@@ -28,7 +28,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Part II — Adapa** | `37_deep_time_source.md` + `30_beatsheet_ch09_adapa.md` | Deep web-structure (watched-depth, clarified directly) | The centerpiece deep-structure clarification. Beat-sheet is canonical. The boy's weep becomes Eli's recognition of autopilot-as-cage. | II |
 | **Part III — the practitioners** (Aru, Daskar, Ila, Tem, Anthea, Cuno, Lovernios) | `37_deep_time_source.md` | Deep human threads; **resolution varies by row and is set in drafting** (scrambled order) | Recurring people who resolve *out of* the web (he never becomes them), reached at the grounds where the practice originated. **Not a numbered roster and not seven guaranteed descents** — most should reach the reader through artifact, testimony, or living residue; see § *Cross-volume thread inventory* → *menu, not a schedule*. | I–II |
 | **The orphan-and-father thread** | `37_deep_time_source.md` | Motif | Threads era-to-era as texture, never announced as thesis. Each practitioner's material carries one quiet declining of an offered father — in whatever form that material reaches the page. | I–III |
-| **Patriarchy & bloodlines — recurring chord** | `37_deep_time_source.md` § *Patriarchy & bloodlines* | Motif + dramatization map | Ch **16–17** (Adapa/Qingu, Maren/keeper); Ch **20** (church); deep-time Tem/Anthea at charged grounds. **Plot:** `32`–`33`; **prose:** not yet in `MANUSCRIPT.md`. | II–III |
+| **Patriarchy & bloodlines — recurring chord** | `37_deep_time_source.md` § *Patriarchy & bloodlines* | Motif + dramatization map | Ch **16–17** (Adapa/Qingu, Maren/keeper); Ch **20** (church); deep-time Tem/Anthea at charged grounds. **Plot:** `32`–`33`; **prose:** not yet in `manuscripts/I_The_Breach.md`. | II–III |
 | **Broken-line church** | `37_deep_time_source.md` § *The broken-line church* | Present set-piece | Vol II **Ch 5** — negative end / pews, positive end / sacristy. | II |
 | **Nephilot trail — Göbekli → massacre → Alba/elf** | `37_deep_time_source.md` § *Tracking the Nephilot line* | Discovery arc | **Book II** Göbekli start → Pömmelte → Alba/elf name. | II |
 | **Sídhe / gods underground** | `WORLD_BIBLE`; `37_deep_time_source.md` § *The Sídhe layer*; `90` §6E | Layered folklore + coexistence protocol | **Vol II Ch 6–7 corridor:** Rowan enters as west-corridor liaison with a missing-person objective; protocol works first (hawthorn boundary; fresh rowan marks/softens the crossing; narrow grounded-iron interruption only when rowan fails; keeper extraction), then the inherited refrain. Wren accepting Rowan's person-first limit permits their formative bond to renew romantically; no ancestry or prophecy. Carrier blood, mound/place, ancestral dead, and remembered gods remain competing layers until later cosmology clarifies them. Changeling material holds real taking beside historical abuse of disabled or ill people. | II–III |
@@ -67,7 +67,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Source material:** Suppression method / Charkha machinery. Not a deep-time clarification.
 - **When:** Vol II **Ch 3** — Eli learns **how his mother was taken**, paired with mother-trail midpoint (`32`, `29`, `99`).
 - **Function:** same as former prologue intent — keeps Crane from straw-man by showing enforcement in action, but **earned** after reader loves Eli and has chased the mother-trail.
-- **Deliverable:** rewrite from `MANUSCRIPT_v1_archive.md` prologue (~1,000–1,500 words); **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths); SE Asia extraction/keeper setting; no Crane name.
+- **Deliverable:** rewrite from `archive/manuscripts/v1_archive.md` prologue (~1,000–1,500 words); **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths); SE Asia extraction/keeper setting; no Crane name.
 - **Not in Vol I.**
 
 ### Ch 1 — The Hour That Belongs to No One
@@ -363,7 +363,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Source roots:** `37_deep_time_source.md` (harvested deep-past scene detail), `00_MASTER_TIMELINE.md`, `36_the_living_web.md`, `35_artifact_chain.md`, `46_divine_council_roster.md`, `45_divine_names.md`, `40_concepts.md`.
 - **Trilogy spine:** `05_story_architecture.md`.
 - **Volume I beatsheet:** `31_volume_I_beatsheet.md`.
-- **Volume I drafting in progress:** `MANUSCRIPT.md` and chapter prose file `01_Dreamtime.md`.
+- **Volume I drafting in progress:** `manuscripts/I_The_Breach.md` and chapter prose file `01_Dreamtime.md`.
 - **Deep-time delivery:** one living web, one dial of depth (full-res threads for a minority of practitioners; deep structure for cosmology clarified directly). See `36_the_living_web.md`.
 - **Volume I capped:** **13 chapters**, opening directly with Eli and no historical or Maren/character prologue; backstory arrives through residue. Chapter 1 earns the hearth and the squeeze; Eli **leaves on schedule** (hearth suspended). Chapter 2 carries epic Meridian processing and the southern flight through the Malacca breach; Chapter 3 is aftermath. **Climax locked at Göbekli Tepe (Ch 13)**; incomplete override at **Thailand (Ch 10)**, completed personal Manual Override at Göbekli; **Emrys taken** at Göbekli. **Mekong draft retired.**
 - **Volume II locked spine:** opens post-Sanxingdui; Mesopotamia / Göbekli;

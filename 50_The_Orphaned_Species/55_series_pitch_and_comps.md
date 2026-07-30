@@ -320,7 +320,7 @@ Same three rules. Clock A becomes **keep the rescued world from re-caging** (int
 
 | Need | Doc |
 |---|---|
-| **Governing Book I prose / revision gate** | **`MANUSCRIPT.md`** + **`55`** checklist (items 1–14) + **Three pressure rules** |
+| **Governing Book I prose / revision gate** | **`manuscripts/I_The_Breach.md`** + **`55`** checklist (items 1–14) + **Three pressure rules** |
 | Emotional reveal order | `17_reveal_order_and_reader_impact.md` |
 | Prose voice | `14_literary_speculative_thriller_style_guide.md` |
 | Governing story sentence | `05_story_architecture.md` §1 |
@@ -346,7 +346,7 @@ When pitch, comps, or checklist change:
 
 ## Book I — chapter-by-chapter pitch audit (2026-07-25)
 
-Use with `MANUSCRIPT.md` revision passes. **Pass** = all ten checklist items satisfied or intentionally deferred (Vol I first names the **Charkha Measure** during the Ch 4 Weaver review).
+Use with `manuscripts/I_The_Breach.md` revision passes. **Pass** = all ten checklist items satisfied or intentionally deferred (Vol I first names the **Charkha Measure** during the Ch 4 Weaver review).
 
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|

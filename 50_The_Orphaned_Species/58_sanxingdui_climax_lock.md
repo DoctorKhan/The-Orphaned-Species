@@ -200,7 +200,7 @@ Book III may revisit the scientific and civic consequence of this break, but it 
 
 The following existing material is now **quarry**, even where older headings say LOCKED:
 
-- `MANUSCRIPT.md` Chapters 11–13 in their current Gulf / tell / Göbekli form;
+- `manuscripts/I_The_Breach.md` Chapters 11–13 in their current Gulf / tell / Göbekli form;
 - `31_volume_I_beatsheet.md` Act IV and its Göbekli climax;
 - Book I Gulf/Göbekli allocations in `00_ARCHITECTURE.md`, `29_trilogy_plot_and_development.md`, `BOOK_SUMMARIES_*`, `55_series_pitch_and_comps.md`, and `100_production_todo.md`;
 - Book III-first Sanxingdui allocation in `33_volume_III_beatsheet.md` and `52_the_rootbook_word_web.md`;
