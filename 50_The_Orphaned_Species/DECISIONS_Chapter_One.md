@@ -32,7 +32,7 @@
 
 5. **⟦DC-5⟧ — LOCKED rev. Y.** **Option A** — no Pelangi resort chase (kiddy-car retired to quarry). Hunt begins at Meridian intake/concert (Ch 2).
 
-6. **⟦DC-6⟧ — LOCKED craft 2026-07-29.** **Cold-reader noun friction:** Cherry Cube / Circuit / Thread / Weaver / Albion / Eastern Mandate labels thinned or delayed out of Ch 1 surface; cash-job want and parent-alive want land clean; Cube named in Ch 2 when Eli arrives.
+6. **⟦DC-6⟧ — LOCKED craft 2026-07-29; job clarity 2026-07-30.** **Cold-reader noun friction:** Cherry Cube / Circuit / Thread / Weaver / Albion / Eastern Mandate labels thinned or delayed out of Ch 1 surface; cash-job want and parent-alive want land clean; Cube named in Ch 2 when Eli arrives. **Job stack on-page:** Suresh names Circuit-weekend Cube show (concert before street race); Babaji names Foundry sleeve as **cover** and Cube show as **job**; gate speech repeats cover only; Wren: *show call Sunday—concert first, race after* + second-set closet beat.
 
 7. **⟦DC-7⟧ — LOCKED craft 2026-07-29.** **Shireen remittance = phone transfer**, not bank wire. Suresh: *Real transfer, not island chits.* Eli to Shireen: *Cash hits at intake—I'll transfer Sunday* (Monday clinic deposit). Squeeze kills bars **and** remittance lane. No on-page crypto brand names; street plumbing only (`23` crypto-broken remittance lanes).
 

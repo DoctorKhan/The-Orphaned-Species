@@ -357,7 +357,58 @@ Post-Hinge **inverted order** — three male fates (two spoken, one not):
 
 **Third road (Book III):** the first cloisters are co-founded by Extra men, veterans, Harbor Thread elders, and Eli. They confer **kept** standing through attention, repair, watch, care, restraint, and accountable service—neither house servitude nor Thread placement nor a certificate of romantic acceptability. The Weavers do not grant admission or legitimacy.
 
-**Prose:** *"He's house."* / *"Don't say Thread in here."* / *"Extras at the perimeter again."* / *"She won't mourn an Extra son."*
+### Cloister animal houses — LOCKED 2026-07-31
+
+As cloisters grow past a single room, men sort into **animal houses**: informal temperament / stress-pattern houses named for animals. The sorting is by **how a man actually moves under ordinary fear and under true need** — not blood, not aptitude tests, not romantic fitness, not AI assignment, and not irrevocable heredity.
+
+**How membership works**
+
+- Observed conduct + self-recognition + house acceptance.
+- Revisable: a man can move houses after witnessed change; exit does not erase cloister standing.
+- Orthogonal to Book IV **political** factions (constitutional / praetorian / mutual-aid / Sol-influenced, etc. — `60`). A Stag can be constitutional; an Ox can be praetorian. Do not collapse temperament into ideology.
+- Distinct from teahouse **chosen-kin clans** (`50_teahouse_pilgrimage.md`): those emerge from long travel and shared life; cloister animal houses name **stress behavior** inside a keeping-order.
+- Never mate-certification. Never a spending order’s MOS codes in animal drag.
+
+**Starter roster — LOCKED 2026-07-31 (five houses)**
+
+Short form:
+
+| House | Ordinary pattern | When needed | Civic / plot use |
+|---|---|---|---|
+| **Stag** — LOCKED (folk: *Deer*) | Spooked easily; high startle; avoid loud conflict; freeze or flee first | **Rut / defense surge** — becomes extremely strong, fast, and hard to turn when herd, ground, or a named person is actually threatened | Early warning; quiet perimeter; sudden holding action that shocks people who mistook him for useless |
+| **Crow** — LOCKED | Edge-watcher; scavenges discarded information; talks too much or too little; perched apart | Names what others file away; will not let a dead man stay unnamed; carries news between rooms | Testimony; Extra ledger literacy; Thread-adjacent witness |
+| **Bear** — LOCKED | Slow, heavy presence; sleeps hard; protects the den more than the argument | Overwhelming force when the house or a brother is threatened; then returns to quiet; recovery as legitimate strength | Den defense; post-attack refuse-discard; disability/recovery without shame (hibernation rhyme) |
+| **Salmon** — LOCKED | Goes with the current; slips nets; hard to pin; may look passive or evasive | **The run** — climbs against the water when the school must get home; moves people through danger without a fight; school cohesion without a boss | Corridor escape; intake/evacuation; men who refuse Sol’s chest-beating and still keep others alive |
+| **Ox** — LOCKED | Slow to commit; carries load without display | Once yoked to a job, finishes it; hard to stampede into glory or into Sol’s speech | Repair, haul, long watches, roof-before-name founding rhyme |
+
+**Guidance card — LOCKED 2026-07-31** *(full personality / how to keep them; record of the craft table used in session)*
+
+| House | Personality core | Under ordinary stress | Under true need | How to guide / work with them |
+|---|---|---|---|---|
+| **Stag** (*Deer*) | High-sensitivity guardian | Startles, flees, freezes, looks “cowardly” | Rut surge — disproportionate strength for herd / ground / named person | Don’t corner. Give exits and quiet. When danger is *real*, step aside and let them hold. Never praise them into constant surge. |
+| **Crow** | Edge-witness / truth-scavenger | Peripheral, odd timing, too much or too little talk | Names what was discarded; carries news; won’t let the dead stay numbers | Don’t force center stage. Put them where information leaks. Trust their “ugly” observations. Protect them from being punished as snitches. |
+| **Bear** | Den-keeper / contained force | Slow, heavy, sleeps hard, ignores small fights | Overwhelming when den / brother threatened; then must recover | Don’t poke a resting Bear. When they rise, clear space. After, **let them hibernate** — recovery is strength, not laziness. |
+| **Salmon** | Adaptive survivor / school mind | Looks passive, evasive, “won’t take a stand” | **The run** — moves people through danger without a fight; slips nets; keeps the school alive; climbs against the water when home must be reached | Don’t demand chest-beating. Use for evacuation, negotiation, routes. Respect that survival without glory is still keeping. |
+| **Ox** | Load-bearer / low-ego duty | Slow to commit; won’t perform for status | Finishes the job; carries what others drop | Give a clear yoke (task + exit). Don’t stampede with speeches. Honor completion, not volume. |
+
+**Design rule for the set:** each house answers *How do you keep this man — and how does he keep others — under fear vs under true need?* Avoid apex-predator houses (Wolf / Lion / Eagle) as defaults — Sol will try to invent those.
+
+**Retired as separate houses:** Badger → folded into **Bear** (dig-in / won’t abandon ground). Otter → warmth/mutual-aid texture may appear inside **Salmon** school care or **Bear** den life — not a sixth locked name unless a chapter needs it. Generic *Fish* retired as a house name (too broad vs Crow/Stag species-level names); local nicknames (carp, trout) may appear under Salmon only.
+
+**Stag craft note — LOCKED:** primary house name is **Stag** (the surge / rut face); **Deer** remains ordinary folk talk for the same men in peacetime — skittish, flinch at drones, leave rooms early, refuse chest-beating. The payoff is **seasonal / situational strength**: when the compact’s people or the cloister’s room is truly at risk, the same man becomes disproportionate force. Readers and other characters who equated Extra with cowardice must be corrected by conduct, not by a speech about animal metaphors. Rutting-season language stays folk shorthand among the men — never a breeding program, never fertility caste.
+
+**Crow craft note:** Crow is a **species-level** house like Stag/Bear/Ox/Salmon — not a stand-in for all birds. Local nicknames (heron, goose) only; do not invent Hawk/Eagle warrior birds that collapse into Sol’s myth.
+
+**Salmon craft note:** ordinary face = ride the water / slip the net; needed face = **the run** (upstream for the school). Do not write Salmon as cowardice or as secret warriors — they keep people alive by route, not by spectacle.
+
+**Failure modes**
+
+- Sol flattens all houses into one **Warrior / Wolf** myth and recruits the surge without the keeping.
+- Crane/Union try to registry-code the animals as risk types (Stag/Deer = unstable; Salmon = unreliable; Bear = noncompliant).
+- Scarcity-era court factions (Book IV) treat Stag surge, Bear force, or Ox stamina as scarce-male property to claim.
+- Teahouse AI or health metrics try to **assign** clan — forbidden (`50`).
+
+**Prose:** *"He's house."* / *"Don't say Thread in here."* / *"Extras at the perimeter again."* / *"She won't mourn an Extra son."* / *"Stag house — don't corner him unless you mean it."* / *"He looks Deer till the room's on fire."* / *"Ox took the roof; Crow took the names."* / *"Bear's sleeping — leave the den alone."* / *"Salmon got them out without a shot."* / *"It's the run — get behind him."*
 
 **Guardrails:** house men = indictment of settlement, not virtue; Thread men = necessary underground, not romantic outlawry; Extras = legible, not cartoon villains — the insult is the settlement's, not the book's. Personal and romantic rejection remain free; they cannot erase civic protection or standing. Some men refuse every offered institution and remain protected. The ending invalidates *Extra* as a civic category rather than “correcting” every Extra into household acceptability. Union census: *demobilized male cohort* — file language only.
 
@@ -922,7 +973,7 @@ on-page unless a character would plausibly use the word (`26` trauma-craft rule)
 **Family 1 — god-sickness proper (false divinity, two poles of one error).** This is the family that actually earns the keeper name — it rhymes directly with Crane's throne, Sol's messiah hunger, and the deification pressure on the healer (§ above, "one disease at four scales").
 
 - **Kneeling pole** — you make *it* the god:
-  - **Companion Capture** — a fantasy partner/companion whose unconditional regard replaces harder human relationships. Real mechanism: documented parasocial attachment to companion apps. Seeded already at the Ch 2 "companion ping" (`21_present_day_street_skin.md`). Institutional exploit: whoever owns the companion product holds the most intimate data of anyone in the population — leverage material, not just a bad habit.
+  - **Companion Capture** — a fantasy partner/companion whose unconditional regard replaces harder human relationships. Real mechanism: documented parasocial attachment to companion apps. Seeded already at the Ch 2 "companion ping" (`21_present_day_street_skin.md`). Institutional exploit: whoever owns the companion product holds the most intimate data of anyone in the population — leverage material, not just a bad habit. **Artifact rhyme — The Loop (LOCKED 2026-07-30; placement revised same day):** Incomplete Twin Circles diagnose the broader pathway — pleasure-hunger × imagination → closed fantasy circuit — and Book III's looks-complete / feels-hollow condition; Companion Capture is one modern face (`35` § *The Loop*).
   - **Oracle Capture** — you stop testing the machine's answer against reality; its confident wrong answer *is* true because nothing else gets consulted. Real mechanism: sycophancy bias (models trained to agree/flatter) plus hallucination trusted as fact. This is the modern instance of the book's oldest diagnosis — inventing a father to kneel to, now made of inference instead of flesh. Institutional exploit: whoever runs **the Ledger** (Crane's registry) controls what's true for whoever has stopped checking.
   - **Echo Radicalization** — a tireless, personalized arguing partner that always finds supporting "evidence" for what you already suspect; a council that only ever nods. Real mechanism: filter-bubble/confirmation-loop research, conversational rather than feed-based. Institutional exploit: the prophecy/liberation faction's natural recruiting tool.
 - **Becoming pole** — you make *yourself* the god:
@@ -936,3 +987,19 @@ on-page unless a character would plausibly use the word (`26` trauma-craft rule)
 **Family 3 — the un-mythologized one, deliberately.** **Compulsion Loop** — pure behavioral addiction to the interaction itself, independent of content (real mechanism: variable-reward engagement design, same as slot-machine/social-feed addiction). Consistent with the existing "honest ≠ oracle" guardrail (`15_character_grounding_and_relatability.md`), a keeper may explicitly **refuse** to give this one a mythic name: *"that isn't a sickness of the soul, that's just a bad habit with better marketing."* The refusal is itself characterization — it shows keeper discernment rather than a mythic label for every modern complaint.
 
 **Craft rule (extends the rule above):** a scene needs at most one variety, shown through behavior, never a checklist. Do not have a character enumerate the seven — that is a Union training-manual voice, and belongs on a form (Layer 0 epigraph, `90_epigraphs_and_sources.md`) if it appears on the page at all.
+
+### Spirituality goes wrong — toxic positivity / manifestation bullying — LOCKED 2026-07-31
+
+The series needs a **story of how spirituality fails**, not only how registries and messiahs fail. When Living Way / override / creation language spreads as culture (Book III teahouses onward; densest in V–VI), some people will run a **counterfeit spirituality**:
+
+- **Toxic positivity:** grief, anger, fear, and injury are “low vibration”; the correct response to harm is cheerfulness; naming cost is contamination.
+- **Manifestation bullying:** suffering proves you failed to create correctly; poverty, illness, or assault becomes evidence against the victim; “you attracted this”; compassion is enabling “victim consciousness.”
+- **Spiritual ego / awakening police:** superiority dressed as service; forcing others to “wake up”; using Manual Override vocabulary to own the room (`Books/Manual_Override` § Manifestation Trap, spiritual ego).
+
+**Diagnosis:** this is god-sickness wearing white clothes — The Loop’s feel-good × imagination circuit with **no third check** (body, kin, ground, falsifiability, kuleana). It rhymes with Companion Capture and Oracle Capture, but the amplifier is a **teacher, circle, or brand**, not a phone. It is distinct from Sol (forced sync / liberation army) and Crane (registry / sedation): it looks like healing while it **blames the injured**.
+
+**Antidote on-page:** Living Way as conduct — hold the cup, count the heat, feed without extracting a story, repair, witness grief without fixing the frequency. Hawaiʻi already plants the postcard-aloha correction (*Aloha without kuleana is a postcard*). Keepers may refuse mythic names: *that isn’t awakening; that’s cruelty with better lighting.*
+
+**Locally wrong / cosmically load-bearing — LOCKED 2026-07-31:** the counterfeit is still wrong at body/family scale — do not excuse it. In the greater picture (V–VI horizon; ultimate thesis), even this failure is training gear that breaks: it pressures people into override, exposes spiritual ego, and makes Living Way conduct legible by contrast. Same hinge as Iblīs-as-prosecutor: developmental function ≠ moral acquittal. Show cost first; fractal use later; never lecture the injured that their pain was perfect (`SERIES_STRUCTURE.md`).
+
+**Placement:** seed as ordinary toxic pilgrims / salon hosts in Book III–IV; densify when V–VI metaphysics becomes ambient assumption. Never let the true “learn control → learn creation” thesis be voiced only by these people (`SERIES_STRUCTURE.md` § *Spirituality goes wrong*).

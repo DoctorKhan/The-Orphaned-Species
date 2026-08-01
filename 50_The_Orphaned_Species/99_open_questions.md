@@ -1,6 +1,6 @@
 # Open Questions — The Orphaned Species
 
-*Working decision log for the present-day series (Books I–IV; optional V–VI unallocated — `SERIES_STRUCTURE.md`). This file tracks missing structural commitments, not additional lore to accumulate. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `17_reveal_order_and_reader_impact.md`, `28_present_day_trilogy_craft_index.md` (legacy filename), **`55_series_pitch_and_comps.md`**, and `50_The_Orphaned_Species/00_NARRATIVE_STRUCTURE.md`. Do not call the novel a trilogy in new materials.*
+*Working decision log for the present-day series (Books I–IV civic; Books V–X Lifetime Orchestra count locked — `SERIES_STRUCTURE.md`). This file tracks missing structural commitments, not additional lore to accumulate. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `17_reveal_order_and_reader_impact.md`, `28_present_day_trilogy_craft_index.md` (legacy filename), **`55_series_pitch_and_comps.md`**, and `50_The_Orphaned_Species/00_NARRATIVE_STRUCTURE.md`. Do not call the novel a trilogy in new materials.*
 
 ## Priority -2 — pitch, comps & clue-chain gate (LOCKED 2026-07-25; pressure rules 2026-07-29) **HIGH PRIORITY**
 
@@ -8,19 +8,32 @@
 
 - **Shelf:** literary speculative **deep-history conspiracy thriller** — *Da Vinci Code* investigative momentum + *National Treasure* landmark chase; warmth under catastrophe (*Project Hail Mary*-adjacent).
 - **Conspiracy:** **of the ages** — Charkha Measure = present face of recurring suppression apparatus (pattern, not single bullet).
-- **Win:** release + coexistence + grid unowned — **not** treasure box, bloodline reveal, or protagonist-owned truth.
+- **Win:** release + coexistence + grid unowned — **not** treasure box, bloodline reveal, or protagonist-owned truth. *(Ultimate metaphysical win — learn control → learn creation — is V–X Lifetime Orchestra; `SERIES_STRUCTURE.md`.)*
 - **Motor on pitch:** parent rescue (Rasel Book I, Maren Book II)—power accretes as misread, not motive. Book III changes engines to governance and consequence.
-- **Revision gate:** every chapter pass uses `55` checklist items 1–14 (body movement, visual key, institutional texture, wonder beat, domestic cost, **two live clocks**, **antagonist present-tense job**, **cost → next chapter**, etc.).
+- **Revision gate:** every chapter pass uses `55` checklist items 1–20 (body movement, visual key, institutional texture, wonder beat, domestic cost, **two live clocks**, **antagonist present-tense job**, **cost → next chapter**, **density parity**, **chemistry**, **brand face**, **Book I complete meal**, etc.).
 - **Three pressure rules — LOCKED 2026-07-29:** (1) Clock A rescue vs Clock B network/registry/(Book II+) Sol — both audible every chapter; (2) opponents have concrete tasks + deadlines, not thesis-monsters; (3) paid costs change the next chapter's options. Chapter maps in `55` § *Three pressure rules*. Beatsheets `31`/`32`/`33` point here.
+- **Five delivery upgrades — LOCKED 2026-07-31:** (1) II–IV density parity with Book I; (2) antagonist weekly jobs; (3) cast chemistry non-thesis every 1–2 chapters; (4) brand face = Rasel's ring; (5) Book I Ch 11–13 complete meal. `55` § *Five delivery upgrades*.
 - **Vol II drafting:** `55` § *Book II — chapter-by-chapter pitch audit* + `32_volume_II_beatsheet.md` chapter cards.
 - **Vol III drafting:** `55` § *Book III — chapter-by-chapter pitch audit* + `33_volume_III_beatsheet.md` chapter cards.
 - **Agent/back-cover copy** lives in `55` — do not drift from locked motor or win condition.
 
 ## Governing diagnosis
 
-The series has a strong thematic spine, ending architecture for Books I–IV, and cosmological depth. The scene-generating machinery is now locked as **wants, deadlines, opponent jobs, and cost→next links** (`55` Three pressure rules). What remains is revision: make the governing drafts satisfy those maps chapter by chapter — not by adding mythology. Books V–VI remain optional placeholders (`SERIES_STRUCTURE.md`).
+The series has a strong thematic spine, ending architecture for Books I–IV, and cosmological depth. The scene-generating machinery is now locked as **wants, deadlines, opponent jobs, and cost→next links** (`55` Three pressure rules). What remains for I–IV is revision: make the governing drafts satisfy those maps chapter by chapter — not by adding mythology.
+
+**Ultimate metaphysical thesis — LOCKED 2026-07-30:** the point of it all is **learn control → learn creation**. From the Player view the world is artificial training gear meant to break; autopilot fails so you can step in; consequence is the only mirror. *Belong without owning* is intermediate curriculum. Full text: `SERIES_STRUCTURE.md` § *Ultimate metaphysical thesis*. Books V–X dramatize it; I–IV only stage symptoms.
+
+**Lifetime Orchestra — count LOCKED +6 (2026-07-31):** Books **V–X** = Bridge → 4 past-life novels → Ω. Titles/eras/cards still open. `62_lifetime_orchestra.md`; map in `SERIES_STRUCTURE.md` § *Lifetime Orchestra (V–X)*.
+
+**Family total — LOCKED 2026-07-31:** **14 core books** = 10 Layer 1 novels + 4 Layer 2 companions. Satellites outside (`63`). `SERIES_STRUCTURE.md` § *Family total*.
+
+**Technology teaches meaning — LOCKED 2026-07-31:** Horizon concepts arrive through **runnable tech** (instruments, practices, labs, failed runs, verified protocols), not cosmology sermons. Point: technology (death + life joined; Trees checking each other) teaches the meaning of life so people are **not afraid of it**. Parent: `SERIES_STRUCTURE.md` § *Technology teaches meaning*; spine: `22` § same; orchestra delivery: `62`.
 
 Do not solve thin pressure by adding more lore. Solve it by deciding who wants what, where, by when, against whom, and what is lost **into the next chapter**.
+
+**Deep-time residue density — LOCKED 2026-07-30:** The Master Timeline is larger than four novels. Embody more of it through **fossils in rooms** (~one residue every 1–2 chapters: object / place / practice / saying / bureaucratic form / bodily reaction), not Phase lectures. Ancient faces: **I** living plants/Sanxingdui tree · **II** Sídhe/Göbekli/Refusal · **III** Forks+Loop+Umul · **IV** court as fossil temple. Per-chapter 5-question test in `17_reveal_order_and_reader_impact.md` § *Deep-time residue density*. Wired into `31`/`32`/`33`/`60`; Book I Ch 1–3 manuscript seeded 2026-07-30; **Book I Ch 5–13 + Book II Ch 1–2/6 residue prose pass 2026-07-30** (full chapter residue lines now on beatsheets).
+
+**Anocracy / Continental Union fracture — LOCKED 2026-07-31:** Book III Union shatter = hybrid-regime failure under war shock (civic costume + Continuity capacity), not democracy-or-dictatorship failed. Strongman-by-proximity = fill the incoherent middle; compact refuses that middle. Never say *anocracy* on-page. Full lock: `33_volume_III_beatsheet.md` § *Anocracy / Union fracture*; research floor `90` §5.6.
 
 ## Locked title direction
 
@@ -29,7 +42,7 @@ Do not solve thin pressure by adding more lore. Solve it by deciding who wants w
 - **Book II:** *The Orphaned Species: The Descent*
 - **Book III:** *The Orphaned Species: The Living World*
 - **Book IV:** *The Orphaned Species: The Court of Threads*
-- **Books V–VI:** optional titles TBD (`SERIES_STRUCTURE.md`)
+- **Books V–X:** Lifetime Orchestra — count locked +6; titles TBD (`SERIES_STRUCTURE.md`; `62`)
 
 ## Priority -1 — series volume allocation (LOCKED 2026-07-12; map revised 2026-07-28/29)
 
@@ -37,7 +50,7 @@ Do not solve thin pressure by adding more lore. Solve it by deciding who wants w
 - **Book II:** *The Orphaned Species: The Descent*
 - **Book III:** *The Orphaned Species: The Living World*
 - **Book IV:** *The Orphaned Species: The Court of Threads*
-- **Books V–VI:** optional / unallocated — see `SERIES_STRUCTURE.md`. Do not invent contents until locked there.
+- **Books V–X:** Lifetime Orchestra — **+6 locked** (Bridge → 4 past lives → Ω) — see `SERIES_STRUCTURE.md`. Titles/eras/cards open; do not invent chapter plots until want / clocks / opponent job exist.
 
 - **Book I ends at Sanxingdui.** Pelangi Reach → Malacca → Thailand →
   northbound human doors → Sichuan. Eli recognizes the distributed Tree of Life,
@@ -199,6 +212,8 @@ Your bioweapon-to-nuclear escalation scenario requires one condition the trilogy
 
 **The writers' implication.** The trilogy's war does NOT escalate to strategic nuclear exchange. It stops short at the tactical/precision level: strikes on charged grounds and threshold houses, registry seizures, scorched-port maneuvers, and the forced-unity argument at a distant Pacific corridor. Hawaiʻi remains a refuge receiving displaced consequences, not a battlefield. The reader must feel the nuclear/annihilation logic without seeing the word—operative as Sol's survival threshold and as the Custodian doctrine that turns carrier biology into a controllable weapon.
 
+**Nuclear restraint extended to WWIII itself — LOCKED 2026-07-30.** The same attribution-failure logic above is not unique to the present-day psion war — it's one consistent rule for the whole 2026–2040 timeline. WWIII itself, including former Russia's collapse (`WORLD_BIBLE.md` §1, §1a-iii), does not involve strategic nuclear exchange either. This isn't a separate, softer restraint that happened to also hold twice — it's the same reason working at both scales: a war fought by cornered nations and covert programs, with no clean single attributable aggressor, never crosses into a threshold that requires exactly that clarity to trigger. Keeping this as one rule rather than two avoids the awkward question of why the current war would show more restraint than the war that preceded it.
+
 **If you want a surgical lift, plant one of the following on-page:**
 - A Sol speech/argument citing a "hard window" after which containment becomes annihilation; do NOT name the weapon.
 - A Custodian briefing that names charged grounds as biological assets eligible for sterilization.
@@ -245,11 +260,13 @@ logic). Pre-I = Extra surplus via sorting. Book III war begins true male scarcit
 Book IV opening attack = court-emptying male-heavy cull; then scarce-male leverage.
 Cloisters do not become obsolete: **Extra era → keep men from being nothing;
 scarcity era → keep men from being property.** `33`; `60` § cloister purpose
-transform; `WORLD_BIBLE`.
+transform; `WORLD_BIBLE`. **Animal houses — LOCKED 2026-07-31:** cloister houses
+by stress behavior (**Stag** / folk *Deer*; **Crow**; **Bear**; **Salmon**; **Ox**).
+`40` § *Cloister animal houses*.
 
 **Meridian worker maze — wrong-room overhear — LOCKED 2026-07-24:** at Stack **intake level**, **before the document clerk**, Eli blunders into a **Harbor Thread back room** (Thread ledger meeting — not a lore summit). Fragments only: **Malacca chandlery**, **Hassan**, archive **packet** off Stack soil, **English woman on the file**, *the strait eats what they seal*; *burn the harbor thread*. Someone clocks the **boy on the call sheet**; Eli flees. The ring photograph at the clerk desk **confirms** what his body half-heard. Cube security carries a **Thread corridor flag** (misfiled as harbor-thread ledger) alongside intake resemblance.
 
-**Meridian Circuit contract — LOCKED 2026-07-26 (rev. Z):** Eli **beats Kiran in a harbor skiff race**, winning the wager Suresh holds → earns a **Cherry Cube Circuit-night show contract** in the Stack — **stage/wardrobe/AV facilities** for the fictional K-pop-scale idol's race-weekend set and afterparty load-in (same trade as Foundry: uplinks, power, cable runs, service corridors). **Cash** at intake under **Shireen remittance pressure**. **Wren attests compound side** and prints call sheet; Suresh holds the transport hull. The Mandate sweep intersects this commute; he burns his Pelangi wage ticket escaping intake and reaches the Cube **from below** (worker maze), late and off the official gate — **on the call sheet but not through the door**. The idol encounter is therefore **job + recognition**, not coincidence.
+**Meridian Circuit contract — LOCKED 2026-07-26 (rev. Z); job/timeline clarified 2026-07-30:** Two different races. **Friday AM** = Pelangi harbor skiff race (Eli beats Kiran; Suresh holds wager). Prize = **Cherry Cube Circuit-weekend facilities contract**: stage/wardrobe/AV for the fictional K-pop-scale idol's **Sunday afternoon concert**, then **afterparty load-in**, then escape cover during **Sunday night Meridian Circuit** street race. Same trade as Foundry (uplinks, power, cable runs, service corridors)—different venue. **Cover paper** says *Foundry contractor / stage crew* (Babaji sponsor clears corridor); **call sheet / what Eli knows** = Cube show, concert before Circuit. **Cash** at intake under **Shireen remittance pressure**. **Wren attests** and prints call sheet; plants tablet pickup (*second set / wardrobe closet*). Suresh holds the transport hull. The Mandate sweep intersects this commute; he burns his Pelangi wage ticket escaping intake and reaches the Cube **from below** (worker maze), late and off the official gate — **on the call sheet but not through the door**. Idol encounter during/after the concert; freight escape during Circuit. Job + recognition, not coincidence.
 
 **Pelangi inciting squeeze — LOCKED 2026-07-24:** Babaji's keeper cell **refused transfer** of a young carrier flagged at causeway screening and **moved a suppressed archive copy** off Mandate soil. Eastern Mandate response: corridor logistics freeze, extended-assessment sweep, cohort registry, causeway hold — king's office cooperating with Eastern health authority. **Not an explosion.** Registry tells on-page: pre-printed cohort lists, bodily-signature notices, *anomalous residents* language. Pelangi occupied and fragmented; Book III return obligation intact.
 
@@ -259,7 +276,7 @@ transform; `WORLD_BIBLE`.
 
 - **How it reaches him:** Mandate squeeze at Pelangi Reach forces displacement; the **compound/port network** gets survivors toward Meridian City through workers, boats, and food-runs. Eli **beats Kiran in Suresh's race wager** and earns Circuit-weekend Stack work before the sweep hits. In Meridian City, an archive worker recognizes Eli's resemblance to Maren, compares his intake record with the Cherry Cube dissident's suppressed evidence packet, and deliberately routes one ring frame through a processing/migrant network. The scheduled **Meridian Circuit**—a Formula One–scale street race—has already sealed central streets and created service corridors, diverted transit, and controlled crowds; Wren uses that infrastructure to get Eli out when the quiet search begins. The clue and escape are both passed through human choices, not delivered by coincidence. The mother's tune may remain as background or keeper-network texture.
 
-- **Meridian idol connection — LOCKED:** the fictional pop star performing at the Cherry Cube knew Maren as a child/young subject of her early protective-integration work. Maren helped him through an episode and refused to let the program classify him as property. He recognizes Eli through resemblance, a grounding gesture, and the circulated evidence frame; he offers one personal memory of Maren and a plausible backstage/service escape during the Meridian Circuit. He is a person with agency and security obligations, not a secret lore dispenser or convenient permanent ally.
+- **Meridian idol connection — LOCKED (rev. B — jacket/dance mechanism, 2026-07-30):** the fictional pop star performing at the Cherry Cube knew Maren as a child/young subject of her early protective-integration work. Maren helped him through an episode and refused to let the program classify him as property. A wardrobe accident puts Eli in the star's own signature jacket during the crowd surge; the star pulls him into the number as the fastest available cover (impromptu surprise-guest bit), and **recognizes him mid-performance**, up close, through resemblance, a grounding gesture, and the circulated evidence frame — not backstage, and not through supernatural certainty. He has to finish the number holding that shock under trained composure. Only afterward, backstage, does he act on it: vouches for Eli to security, opens the wardrobe/service escape during the Meridian Circuit, and gives him one personal memory of Maren in the brief window available. He is a person with agency and security obligations, not a secret lore dispenser or convenient permanent ally. Full mechanism: `31_volume_I_beatsheet.md` § *Cherry Cube concert*.
 - **Who carries/controls it:** a witness who was **held alongside the mother and got out** — a real person with their own debt, not a clue-dispenser. (Decide alongside #8 Healer / escape-network specifics whether this witness connects to that network.) Behind the witness, unknown to Eli, a team is using the mother-thread as a lure.
 - **The personal object — LOCKED 2026-07-26:** **Rasel's wedding ring**, visibly
   joined silver and brass with the imperfect seam he made himself. Rasel wore it
@@ -658,7 +675,7 @@ The proving community is **ordinary and distributed**, not a new order:
 
 **Surface mode — LOCKED (author decision, Jul 2026):** Iblīs, the deep state as such, and the dark side are **never fully revealed** — no embodiment, no confrontation, no origin scene, no defeat. The reader assembles the apex through pattern recognition (the many antagonist faces *rhyme*) and by the end simply **understands it will always be there**. The name may surface in liturgical/scholarly/keeper register (Gabriel-style absence, `46` §G), but the entity never acts on-page in its own voice. Ending obligation: the final ordinary afternoon includes this understanding quietly — vigilance and practice, not elimination; fear stops ruling, the whisper does not stop whispering. Never promote to an appearance for a climax. Full tier rules: `17_reveal_order_and_reader_impact.md` § "Offstage presence — the three reveal tiers." Crane-as-most-open-instrument and the Shield/Custodian whisper-vs-choice line (#4) unchanged.
 
-**Still open:** none — the deeper-function question above is resolved author-side and staged for optional Books V–VI; Books I–IV keep the full off-page / deniable-evidence treatment regardless.
+**Still open:** none — the deeper-function question above is resolved author-side and staged for optional Books V–VI; Books I–IV keep the full off-page / deniable-evidence treatment regardless. **Ultimate metaphysical thesis (2026-07-30)** expands the same engine: artificial training world meant to break; learn control → learn creation (`SERIES_STRUCTURE.md`).
 
 ### Seed-pattern propagation — LOCKED DIRECTION (2026-07-21)
 
@@ -701,7 +718,7 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 
 ## Secondary decisions
 
-- Final volume count: **current governing map is Books I–IV**; **Books V–VI optional / unallocated** (`SERIES_STRUCTURE.md`). Do not pitch as a trilogy. Reassess length and whether V–VI are needed after Book IV prose reconciliation.
+- Final volume count: **14 locked core** = **10** Layer 1 novels (I–IV civic + V–X Orchestra) + **4** Layer 2 companions. Satellites outside that number (`63`). Full table: `SERIES_STRUCTURE.md` § *Family total*. Civic pitch may stop at I–IV. Do not pitch as a trilogy.
 - Companion nonfiction: keep Books 1–4 as optional slim companions unless drafting proves otherwise.
 - Surnames and local names: Eli, Wren, Crane, Aedan, and Anthea are stable enough; surnames and local-character names remain open.
 - **Maren suppression scene (Vol II, LOCKED):** not a Vol I prologue. When Eli learns **how his mother was taken**, dramatize the Charkha's courteous machinery (clipboards, wellness language, unmarked van, neighbor's light going out) in **SE Asia extraction/keeper context** — personal, earned, ~1,000–1,500 words. The evidence must also reveal that Maren once willingly helped build the signature/integration tools now locating her; the scene is persecution and consequence at once. Harvest v1 prologue tone from `archive/manuscripts/v1_archive.md`; rewrite **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths) and geography. Pair with mother-trail evidence (Vol II midpoint region: **alive, location unknown** — partial sense / captivity register only, not proof of death). **Vol I** seeds dread only: tune, Suresh, Malacca witness — no cold-open abduction.

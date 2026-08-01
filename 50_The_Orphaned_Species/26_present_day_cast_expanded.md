@@ -333,6 +333,8 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Early collaboration — LOCKED:** Maren **willingly joined Crane's research program** from **neuroscience** — neural signatures, threshold states, integration protocols. She believed measurement and guided integration could protect people with unusual perception from misdiagnosis, institutional violence, and uncontrolled states. Crane did not steal the first tools; she helped build them.
 
+**Site — LOCKED 2026-07-30:** the program's early facility was the sealed research annex connected to **the Cherry Cube** in Meridian City (`59_younger_dryas_nucleation_lock.md`) — the same annex later revealed in Book III to house study of the recovered Younger Dryas craft fragment. Maren's work there predates that discovery; she had no idea what the annex actually sat next to. This is where she grounded the future Cherry Cube idol as a child (`26` idol beat) and where Mei's Book I dinner-table detail — "his mother had work in Meridian City sometimes" (`31_volume_I_beatsheet.md` § *Mei's Cherry Cube seed*) — actually points, unknown to anyone saying it at the time.
+
 **What she enabled:** signature recognition, differentiation practices, threshold monitoring, and early mapping between bodily episodes and charged-ground effects. These methods genuinely helped some people. They also became the technical basis for registries, carrier detection, suppression, targeting, and the amplifier program.
 
 **Turn:** she discovered that emergency safeguards were becoming permanent ownership infrastructure and that research subjects could not meaningfully withdraw. She copied records, sabotaged part of the mapping work, and fled with Rasel and Eli. Her resistance saved lives but did not erase the systems her earlier work made possible.
@@ -694,6 +696,24 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 ---
 
 
+
+## Devra Aldis *(Continental Union — continuity-roster inheritor; Book III hearing, one testimony beat)*
+
+**Function:** gives the insider-trading / asset-dumping mechanic (`95_glossary.md` § *Insider trading and asset dumping*; `23_2040_present_frame.md` § *Not as different as they claim*) a face — the financial-axis counterpart to Owen Price's war-testimony beat in the same hearing.
+
+**Ordinary life:** inherited a warm-site continuity seat from a parent who bought a place on the roster before the 2027 crash; has spent her whole adult ledger life inside the pattern without ever once calling it a crime.
+
+**Turn:** called to the Book III accountability hearing to explain one specific dump — a "review" she and her seat profited from days before it was scheduled — because someone in the room lost a pension, a clinic deposit, or a family's whole ledger balance to that exact crash.
+
+**Wound / unreconciled:** does not deny it. "It wasn't illegal" is as close as she comes to defense — the lived version of the glossary line that nobody on the continuity roster calls it a crime.
+
+**Voice:** flat, procedural, competent — same register as the hearing's other Union officials (counsel, jurist, casualty officer); euphemism and paperwork, not menace.
+
+**Book III placement — drafted:** testimony beat is written, immediately after Owen Price's and before Rowan's afternoon session (`manuscripts/III_The_Living_World.md`, ~line 2867). Confronted by **Nora Castellanos**, a one-line witness whose mother's clinic deposit was wiped by the exact dump Devra is questioned about.
+
+**Guardrails:** not a mustache-twirling villain — she is exactly what "socialism for large business" produces: ordinary, unashamed, procedurally protected. One testimony beat, not a subplot; no confession, no redemption arc.
+
+---
 
 ## Shireen *(Eli's cousin, Dhaka)*
 

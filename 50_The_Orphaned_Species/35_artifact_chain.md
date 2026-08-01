@@ -56,6 +56,8 @@ Artifacts operate on three levels:
 2. **Contested artifacts** arrive as fragments, scans, translations, or rival readings; characters act on incomplete evidence.
 3. **Deep-lore artifacts** are understood most fully by the reader through the *Elmarillion*. Characters never possess the complete synthesis. The mystery is structured incompleteness, not arbitrary concealment.
 
+**Deep-time residue density — LOCKED 2026-07-30:** the Master Timeline is larger than four novels. Embody more of it through fossils in rooms — objects, wrongly behaving places, half-true sayings, bureaucratic fossils, bodily reactions — not Phase lectures. Quota: ~one residue every 1–2 chapters. Ancient faces: I = living plants/Sanxingdui tree; II = Sídhe/Göbekli/Refusal; III = Forks+Loop+Umul; IV = court as fossil temple. Full craft lock: `17_reveal_order_and_reader_impact.md` § *Deep-time residue density*.
+
 ### Volume I — The Breach
 
 - **The Circles** (Three-Circles Tablet): physical post-breach encounter (Meridian Stack leak delivered at the Malacca kelong, Ch 3); body/family/civilization diagnostic grammar.
@@ -70,6 +72,7 @@ Artifacts operate on three levels:
 
 ### Volume II — The Descent
 
+- **The Loop** seed only (optional): unnoticed hatch-mark rhyme permitted; no street name, no working reading. Full diagnostic lands Book III/IV. § *The Loop*.
 - **Enheduanna's Inanna hymns:** authored voice inside political theology; characters encounter a displaced speaker, while the reader sees the warning about who interprets and owns sacred authority.
 - **Inana's Descent:** descent, surrender, accurate resonance, and restoration; Somchai embodies the method while Eli initially mistakes it for a code.
 - **The Sorting** (Enki and Ninmah): full cross-ref after Vol I seed — every person has purpose even when no institution can use or classify them; the story seeds the Book III refugee ethic.
@@ -80,6 +83,7 @@ Artifacts operate on three levels:
 
 ### Volume III — The Living World
 
+- **The Loop** (Incomplete Twin Circles): primary street-name and working reading. Book III can look like victory from outside — federation, bounded crown, release — while remaining unsatisfying for Eli; The Loop names that counterfeit completion / atomization aftermath. Optional Book IV court re-read (succession / consort / belonging fantasies). Full lock: § *The Loop*.
 - **Tablet of Destinies fragments:** competing claims about who may authorize, name, or command the system; Crane and Sol weaponize opposite readings.
 - **Atrahasis and catastrophe evidence:** labor, extraction, reset, and survival as civic evidence rather than a new quest object.
 - **Unified two-tree image:** a partial final recognition that Knowledge and Life were always intended to converge; it may remain reader-facing rather than becoming a collectible solution.
@@ -124,6 +128,7 @@ Discovery-order note: **artifact zero** means oldest/deepest in cosmological pre
 |---|---|---|---|
 | **The Forks** / Double-Fork Stone | Fictional story artifact, withheld until Book III | Earth-produced bird/chimpanzee branches beside Heaven/panspermic dragon/human branches; the parallel branches carry distinct Earth–Heaven departure functions | Late biological/cosmological reveal; street **The Forks**; validates the parallel bridge-species design and reframes the human urge to leave Earth without making dragons an early taxonomy clue |
 | **The Circles** / Three-Circles Tablet | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator; an index grammar for selecting relations in the damaged ley network | Street **The Circles**; first Meridian recovery artifact; practice model as material image; test whether cosmology, social diagram, ritual plan, or later forgery |
+| **The Loop** / Incomplete Twin Circles | Fictional or disputed portable seal, pendant, plaque, or diagram; never market as a verified ancient object | Two incomplete circles with opposed hatching; when joined they form an infinity. One hatch = desire to feel good; the other = imagination. Joined without a third check = closed fantasy/delusion circuit (Drift pathway). Also names atomization’s aftermath, and Book III’s “looks complete from outside / unsatisfying within” hollowness | Street **The Loop**; **Book III** primary (optional IV court re-read); Book II seed only; not a rival to The Circles; wrong readings seduce (eternal love, destiny, Two-Tree union, civic victory) |
 | **The Bridge** / Göbekli snake/tree/bird plaquette | Real Göbekli Tepe small find reported in excavation/public outreach material; exact publication, inventory number, and image rights to verify before use | Three carved symbols (snake, tree, bird): Earth's earliest surviving **bridge diagram**—tree = living interface where Heaven meets Earth; snake and bird = transmission functions later myth turned into enemies. Three stacked readings: terrestrial, guardian, cosmological. See § *Göbekli plaquette* | Street **The Bridge**; Book II discovery; no on-page panspermia certification until Book III |
 | **The Fade** / Sumerian King List / Weld-Blundell tradition | Real textual tradition and surviving manuscripts | Before the Flood, reigns last impossibly long; afterward durations contract toward recognizably human lifespans. The sequence preserves a cultural memory of lost immortality, rhyming with the long lives and later decline of biblical patriarchs. | **Human-Design Triad (3/3)** — street name **The Fade**; mortality as right boundary, not curse (`35` § *Mesopotamian Human-Design Triad*) |
 | **The Refusal** / Adapa tablet with a lacuna | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | **Human-Design Triad (1/3)** + load-bearing object #3; street name **The Refusal** (first hearing may say “Adapa’s Refusal”); foolable mind; Tree of Life withheld (`99` #10) |
@@ -213,9 +218,11 @@ Guardrail: unless a real archaeological analogue is identified, this is a fictio
 
 **Series-wide placement:**
 
-- **Book I — The Breach (body ring):** Eli encounters the tablet **post-breach** — Meridian Stack archive leak routed out with the Rootbook wafer and delivered by Emrys at the Malacca kelong (Ch 3). He is shotgun charges through an open receiver, his body running without him. The tablet lands as a diagram he cannot yet read — the reader gets the diagnostic vocabulary before Eli is ready to use it. Physical encounter; the object itself, not a photo or scan. (Route lock: Meridian itself is pre-breach; the tablet does not require a second Meridian tour.)
-- **Book II — The Descent (middle ring):** The tablet re-enters as a re-read, not a new object. Eli now has lived evidence of what the middle ring does when it holds (Somchai's community) and what it costs when it breaks (Maren's loss, Pelangi Reach purged, fellowship fractured). The diagram becomes a question: does he let the charge propagate through a broken ring, or does he build the containment that holds?
+- **Book I — The Breach (body ring):** Babaji hands Eli the tablet directly on Pelangi Reach **before departure** (Ch 1) — kept among Maren's effects for years, given as a plain, unexplained act of loyalty to Rasel and quiet hope for the boy, not a scholarly or institutional transfer (`99_open_questions.md` § *Three Circles provenance*: "Babaji hands it over before departure; the caution is the keeper net's, not a scholar's"). Eli carries it through the Meridian run without understanding it. At the Malacca breach its mere presence on his body is proximate when his receiver activates under trauma — shotgun charges through an open receiver, his body running without him — and the diagram surfaces as an incomplete vision, lost to the water before he can tell anyone (the founding dream-reception case). The physical tablet remains with him afterward, still a diagram he cannot yet read — the reader gets the diagnostic vocabulary before Eli is ready to use it. Physical encounter throughout; the object itself, not a photo or scan.
+- **Book II — The Descent (middle ring):** The tablet re-enters as a re-read, not a new object. Eli now has lived evidence of what the middle ring does when it holds (Somchai's community) and what it costs when it breaks (Maren's loss, Pelangi Reach purged, fellowship fractured). The diagram becomes a question: does he let the charge propagate through a broken ring, or does he build the containment that holds? **This is also where Rasel's information-theory reading of the same diagram runs in parallel** — a signal fully recorded stops being itself — seeding the entropy/one-time-pad discovery ladder that pays off across Book II (`22_life_technology_and_two_trees_spine.md` § *Rasel's information-theory thread*; `32_volume_II_beatsheet.md` Ch 1–2, 9–10).
 - **Book III — The Return (outer ring):** The full Three Circles reading lands here. Eli has seen all three levels in operation. The diagram becomes his political vocabulary. Pelangi Reach's breakdown was outer-ring failure; the distributed harbor net succeeds because it operates across the middle ring, not despite it. The climax is a structure that holds across all three rings without a single center.
+
+**Activation and the Weavers' quiet interest — LOCKED 2026-07-30 (rev. B — corrected: no Emrys, Babaji not Weaver-affiliated).** The tablet stays inert through the rest of Book I (Ch 8's "receiver, not healer" confirms only the general capacity, not this specific object). **Full activation is Sanxingdui** (`58_sanxingdui_climax_lock.md`): contact between the tablet and a living ley-ground for the first time closes the circuit the Malacca drowning only cracked open, giving the already-locked climax recognition — choosing the living route over the machine interface — a physical, embodied mechanism rather than a purely intellectual one. **Separately, and unknown to Eli:** Wren, a house Weaver trained to read carrier signatures (a discipline the Weavers' Net inherited from Maren's own pre-capture research), watches what the tablet does to him across the journey and forms her own professional judgment that he's a likely receiver. She reports this upward through her own Weaver channel without telling him — not a pre-planned test, not Babaji's doing (Babaji is not Weaver-affiliated; his gift was purely personal), just her ordinary professional habit of treating a correct report as care, exercised on him without his consent. **Reveal timing:** Book II Ch 6 ("The Changing Map," Wren POV) — the Ch 1 tablet re-read already seeds it ("Wren sees institutions surrounding an exposed person"); Book I text should not disclose that she's already flagged him.
 
 **Rasel's wedding ring — middle-ring rhyme — LOCKED 2026-07-26:** The
 silver-and-brass band is the **Family circle made wearable**. Rasel made and wore
@@ -226,6 +233,55 @@ ring with Hassan → Malacca breach → Three-Circles fragment. **Book II:** Has
 reveals that Maren recognized the ring and indexed *same soil* into the Rootbook.
 The registry image is Civilization absorbing a Family token; the ownership remains
 Rasel's throughout.
+
+## The Loop — Incomplete Twin Circles — LOCKED 2026-07-30
+
+Street name: **The Loop**. Scholar under the hood: *Incomplete Twin Circles* / *Double-Hatch Infinity*. Fictional or disputed portable object (seal, pendant, plaque, stamped diagram, or worn copy). Never market as a verified ancient find.
+
+**Form:** two **incomplete** circles with **opposed hatching**. Separately they are readable as two faculties. Joined end-to-end they become an **infinity** (∞). The join-point should look worn — the seductive part of the object is the join, not either circle alone.
+
+**Working reading:**
+- **Hatch A / one incomplete circle:** desire to feel good — craving, comfort-seeking, hedonic pull, relief-hunger.
+- **Hatch B / the other:** imagination — image-making, storying, simulation, “what if,” unconstrained mental theater.
+- **Joined ∞ without a third check:** closed circuit — imagination generates the feeling; the feeling demands more imagination; reality thins until fantasy hardens into delusion / psychosis. This is a **Drift pathway**, not a separate disease.
+
+**Atomization reading — LOCKED 2026-07-30:** The Loop also names what happens when the **middle ring fails**. When kinship, household memory, elder transmission, romance, repair, and local obligation thin out (**The Circles** outer exposure / social atomization), the isolated person still has pleasure-hunger and imagination. With no durable horizontal check, those two faculties fuse into a private infinity — companion apps, grievance theaters, destiny myths, feed romance, Sol-style forced belonging sold as home. Disconnection does not erase desire or imagination; it removes the third check that would have kept them from sealing. So The Loop is both a psychological failure mode and the **felt consequence of atomization**: fantasy filling the space where relation used to stand.
+
+**Governing line:** **Either circle alone is human. Joined without a third check, they become a trap.**
+
+**Companion line (atomization):** **When the middle ring breaks, pleasure and imagination do not disappear — they close into a loop.**
+
+The third check may be body, kin, evidence, consent, grief, or ordinary work — whatever interrupts the self-sealing join. Mature practice keeps both faculties alive without letting them fuse into an untested infinity.
+
+**Wrong readings (must land first and feel seductive):**
+- eternal love / twin-soul mark
+- life/death cycle blessing
+- Two-Tree union already achieved
+- destiny / completion of the self
+- “complete yourself”
+
+**Correct discrimination:**
+- **The Circles** = Body / Family / Civilization (social-moral scale).
+- **The Loop** = pleasure-drive × imagination → fantasy Drift (psychological failure mode).
+- Do not let characters or the narrator collapse the Loop into Circles, Trees, or rainbow-tree grammar.
+
+**Transmission:** primarily **material** (geometry, opposed hatching, worn join) and **human** (custody stories, keeper warnings, Drift-sick redrawing). Optional thin dream residue of two unfinished rings trying to meet — never a complete doctrinal download. Distortion cost: the object invites identification with the infinity reading before the hatch difference is noticed.
+
+**Series placement — Book III primary; Book IV optional re-read — REVISED 2026-07-30:**
+- **Book III** carries the street name and working reading. This is where the polity can look good from outside — federation forming, bounded crown accepted, transfer prepared, coexistence partly working — while remaining **unsatisfying for Eli**: usefulness without belonging, recognition without home, victory that still feels like a closed loop. The Loop diagnoses that hollowness without canceling the real civic goods.
+- **Book IV** may re-read it in court: succession fantasies, consort/heir capture, belonging sold as completion, institutions that look finished and still leave people sealed inside private infinities.
+- **Book II** may plant only an unnoticed hatch-mark rhyme (Extra settlement graffiti, companion UI, Sol iconography) **without** naming The Loop or delivering the working reading.
+- **Book I** may plant only an unnoticed hatch-mark rhyme (Cube product, companion UI, graffiti) without naming The Loop.
+- Not a pilgrimage stop or door-opening MacGuffin in any volume.
+
+**Craft guards:**
+- Not a quest MacGuffin that opens doors.
+- Not proof that ancient people taught modern psychology.
+- Not a moral ban on pleasure or imagination.
+- Not a claim that Book III's civic work was fake — the Loop names the *personal* counterfeit of completion, not the absence of real public goods.
+- Show the disease through behavior; name the symbol only when a character would.
+
+Cross-ref: `40_concepts.md` § *The Drift* / Companion Capture / Compulsion Loop; `95_glossary.md`; `33_volume_III_beatsheet.md`; `60_volume_IV_court_of_threads.md`.
 
 ## Göbekli snake/tree/bird plaquette — the bridge diagram
 
@@ -377,7 +433,7 @@ On-page and in dialogue, the packet is:
 
 **Craft:** scholars, Emrys, and archive labels may still use the tradition titles; Eli, Wren, keepers, and street speech prefer the locked street names. First hearing of the Adapa text may say “Adapa’s Refusal” or “the Adapa — the Refusal”; afterward use **The Refusal**. Do not rename Umul’s ending as a fourth packet title — it lives inside **The Sorting**. Contested dialogue may say “Enki’s sorting” as a *reading*, not as the street name.
 
-### Artifact street shelf — LOCKED 2026-07-26
+### Artifact street shelf — LOCKED 2026-07-26; The Loop added 2026-07-30
 
 Wider clue-chain objects use the same grammar (**The + wound/act**). Scholar/museum labels stay under the hood.
 
@@ -386,12 +442,13 @@ Wider clue-chain objects use the same grammar (**The + wound/act**). Scholar/mus
 | **The Circles** | Three-Circles Tablet | First hearing may say “Three Circles”; afterward **the Circles**. Body → Family → Civilization. |
 | **The Bridge** | Göbekli snake/tree/bird plaquette | Tree where routes meet, flanked by snake and bird. Not “plaquette” in dialogue. Book I: no panspermia. |
 | **The Refusal · The Sorting · The Fade** | Human-Design Triad packet | See table above. |
+| **The Loop** | Incomplete Twin Circles / Double-Hatch Infinity | **Book III** primary Drift / atomization / counterfeit-completion diagnostic; optional Book IV court re-read; Book II seed only. Full lock: § *The Loop*. |
 | **The Exile** | Genesis Eden / Eden III Adam expulsion | Rhyme to Refusal; **not** a fourth triad member. Spoken: *Refusal, Sorting, Fade — and later, the Exile.* |
 | **The Taking** | Inana and Enki / Arta | Civilization-functions **taken** into the Boat of Heaven — seized, carried, installed. Pair once with the boat image so it does not read as random theft. Emrys may say **Arta** once as term-of-art; street prefers **the Taking**. Rejected: Transfer, Endowments, Gifts (talent/present muddle), Cargo/Load. |
 | **The Forks** | Double-Fork Stone | Sibling branching; Book III with dragon ghost. Emrys may say Double-Fork; street **the Forks**. |
 | **the Rainbow Tree** | Two-Tree Union symbol | Already locked; keep lowercase *the* in running prose if preferred. |
 
-**Spoken shelf (Vol I → III):** *The Circles · The Bridge · Refusal, Sorting, Fade — and later, the Exile · The Taking · The Forks · the Rainbow Tree.*
+**Spoken shelf (Vol I → III):** *The Circles · The Bridge · Refusal, Sorting, Fade — and later, The Loop · the Exile · The Taking · The Forks · the Rainbow Tree.*
 
 **Umul lacuna (inside The Sorting):** the triad's **broken ending**. Civilizations supplied *the useless are useless*; the recovered reading: **held before healed** — care-work and embodied healing are valid when placement fails. Distinct from the **positive Ninmah body**: assigned roles are **good**; the corruption is when institutions honor **only** legible slots. Optional spoken tag for the Umul gap: **The Unplaceable**.
 

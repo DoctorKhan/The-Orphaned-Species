@@ -4,7 +4,27 @@
 
 > **HIGH PRIORITY — LOCKED 2026-07-25; pressure 2026-07-29:** **`55_series_pitch_and_comps.md`** — shelf, agent/back-cover copy, comps, clue-chain obligations, revision gate (items 1–14), **Three pressure rules** (two live clocks; antagonist present-tense job; cost → next chapter). Every structural choice here must pass the pitch test in `55` (body movement, institutional villainy, domestic cost, pattern conspiracy — not single-bullet reveal).
 
-> **Status:** working structural synthesis based on current canon. **Current governing map: Books I–IV** (`SERIES_STRUCTURE.md`). **Books V–VI optional / unallocated** — append only; do not renumber I–IV. Plot spine: `29_trilogy_plot_and_development.md` (legacy filename); Book I: `31`; Book II: `32`; Book III: `33`; Book IV women-led court/pregnancy/succession architecture: `60_volume_IV_court_of_threads.md`. Older three-volume / “trilogy” closure language is superseded.
+> **Status:** working structural synthesis based on current canon. **Current governing map: Books I–IV civic + Books V–X Lifetime Orchestra (+6 locked)** (`SERIES_STRUCTURE.md`). Titles for V–X open; append only; do not renumber I–IV. Plot spine: `29_trilogy_plot_and_development.md` (legacy filename); Book I: `31`; Book II: `32`; Book III: `33`; Book IV: `60_volume_IV_court_of_threads.md`; orchestra: `62`. Older three-volume / “trilogy” closure language is superseded.
+
+## 0. Ultimate metaphysical thesis — LOCKED 2026-07-30
+
+Full text: `SERIES_STRUCTURE.md` § *Ultimate metaphysical thesis*.
+
+**I–IV dramatic question remains:** *How can people belong to one another without owning one another?* That is real and load-bearing — and it is **intermediate curriculum** inside an artificial training world, not the final answer.
+
+**Final answer (V–X horizon, author-side):** the world (from the Player view) is training gear meant to break; autopilot is meant to fail so you can step in; consequence is the only mirror for beings who cannot see themselves; the point of it all is **learn control → learn creation**.
+
+Do not lecture this in Books I–IV. Dramatize only its symptoms: override under pressure, systems that teach by failing, crowns that return, love that becomes property, the middle way as first lucid stick-time.
+
+**Technology teaches meaning — LOCKED 2026-07-31:** Introduce horizon concepts through **runnable tech**, not sermons. Point: technology (death + life joined) teaches the meaning of life so people are **not afraid of it**. `SERIES_STRUCTURE.md` § *Technology teaches meaning*; `22` § same; `62`.
+
+**Lifetime Orchestra — +6 locked:** V Bridge · VI–IX past lives · X Ω. `SERIES_STRUCTURE.md`; `62`.
+
+**Family total — LOCKED 2026-07-31:** **14 core** = 10 Layer 1 + 4 Layer 2 companions; satellites outside (`63`; `SERIES_STRUCTURE.md` § *Family total*).
+
+**Spirituality goes wrong — LOCKED 2026-07-31:** also dramatize the **counterfeit** of this thesis — toxic positivity, manifestation bullying, spiritual ego — people who use light-language to blame the injured and own the room. Distinct from Crane and Sol. Full lock: `SERIES_STRUCTURE.md` § *Spirituality goes wrong*; `40_concepts.md`. **Greater-picture hinge:** locally wrong stays wrong; cosmically, even that failure can be training gear that breaks (developmental function, not acquittal).
+
+**Hell — LOCKED 2026-07-31:** infinite loop that cannot be escaped in a non-entropic / deathless world; Earth's death is a circuit breaker. **Life is the solution to hell.** `SERIES_STRUCTURE.md` § *Hell*.
 
 ## 1. The governing story
 
@@ -383,7 +403,7 @@ The answer must be proved at three increasing scales:
 3. **Book III — civilization and necessary authority:** freedom produces a real victim. Crane's diagnosis—that unregulated psionic capacity can destroy civilians—is proven true even though his permanent registry remains wrong. War reveals civilization's concealed operating logic. Eli accepts bounded command, refuses forced synchronization, and completes transfer; the succession machinery he helped build actually holds — until Book IV's attack on the working settlement tests whether it can be defended and released a second time, proving that one success does not retire the question.
 4. **Book IV — embodiment and subtle power:** the women-led court reveals how access, care, pregnancy, attestation, defense, and household recognition govern beneath decrees. The Weavers and men's cloisters must enter public power without becoming hidden sovereign or personal guard. Eli relinquishes only after other institutions can carry consequence and survive his absence.
 
-**Four-scale discovery lock — REVISED 2026-07-28:** **Book I / body:** *What enters me does not own me.* **Book II / family and loss:** *Whom I love does not belong to me.* **Book III / civilization:** *A system calling me family does not earn the right to spend me.* **Book IV / continuity:** *What keeps us alive must still permit us to replace it.* The engine/exhaust recognition remains Book III; Book IV tests the institutions built in response.
+**Four-scale discovery lock — REVISED 2026-07-28; hero/Taoist hinge 2026-07-30:** **Book I / body:** *What enters me does not own me.* **Book II / family and loss:** *Whom I love does not belong to me.* **Book III / civilization:** *A system calling me family does not earn the right to spend me* — and while Eli wears the hero's surface, **things are not what they seem** (engine in kinship costume; care that owns; victory that is only a stretch). **Book IV / continuity:** *What keeps us alive must still permit us to replace it* — and Eli earns the Living Way / Taoist maturity that **violence leads to violence**, so when cornered between pacifism and finishing the enemy he answers provisionally: **perhaps there is a middle way** (defend without becoming the cycle). Engine/exhaust recognition remains Book III; Book IV tests the institutions built in response **and** whether Eli can stop feeding the loop.
 
 **Desire spine — LOCKED 2026-07-26:** Eli is **fundamentally rescuing his parents** (**Rasel → Book I; Maren → Book II**). He wants a place where he can remain — known without classification, loved without possession, useful without earning existence — **with them and after them**. The plot draws him through transformations of that desire: **rescue the family I lost → recover home → prevent all loss → love and protect without demanding that nothing ever be lost.** He is **not seeking power**; power is offered because rescue routes through war, registry, and prophecy. Book I's Sanxingdui reunion matters because recovering Rasel directly costs Emrys; Book II's reunion matters because keeping Maren would be possession; Book III's politics matter because preventing repeated loss can build the engine that spends people. Every major reveal must alter a desire, relationship, route, or cost. Information alone is not a story turn.
 

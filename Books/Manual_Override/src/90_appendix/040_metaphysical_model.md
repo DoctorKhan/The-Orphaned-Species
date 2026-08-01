@@ -38,6 +38,8 @@ Unlike the between-lives state where souls can get caught in infinite loops with
 
 These "timers" prevent souls from remaining stuck indefinitely in destructive charge patterns, unlike the timeless between-lives state where such loops could continue forever.
 
+**Hell definition — LOCKED into novel canon 2026-07-31; life as solution same day:** Hell is an **infinite loop that cannot be escaped in a non-entropic world — a world without death.** The deathless / no-entropy plane can sustain endless unresolved-charge repetition; Earth's entropy and mortality are circuit breakers that make override learnable. **Life is the solution to hell** — incarnation is the escape hatch from infinite repetition; lucid life cures what deathless looping cannot. Novel staging: `SERIES_STRUCTURE.md` § *Hell*; `00_MASTER_TIMELINE.md` § Two Trees.
+
 **Human Level as Advanced Training:**
 
 The human experience represents sophisticated gameplay where:

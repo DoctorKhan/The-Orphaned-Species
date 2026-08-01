@@ -18,6 +18,47 @@
 *The Court of Threads* is a working title. The architecture below is canon even
 if the title changes.
 
+> **VIOLENCE CYCLE / TAOIST MATURITY — LOCKED 2026-07-30; middle way 2026-07-30:** Book III made Eli
+> the hero and showed that **things under heroism are not what they seem**. Book
+> IV is where he **understands the loop**: violence answers violence; emergency
+> crowns answer emergency crowns; the attack on the working settlement is not a
+> new problem but the same engine wearing a different costume. His mature answer
+> is not a crusade and not a lecture on Taoism by name. It is **Living Way /
+> Taoist conduct** already seeded in the series — soft over hard, teach
+> not-knowing, step back, refuse clever rule, let institutions find their way
+> without him as guarantor (`54` verses 21 / 27; Tao 65 / 72 mapping; Hawaiʻi
+> aloha–kuleana without permanent throne).
+>
+> **When pushed — pacifism vs force — LOCKED 2026-07-30:** factions and loved
+> ones will corner him between two absolutes: *never fight* and *finish them
+> before they finish us*. He does **not** convert to doctrinaire pacifism, and he
+> does **not** rejoin the expendability engine. Under pressure he offers the only
+> honest third: **perhaps there is a middle way** — defend without becoming the
+> cycle; refuse revenge that purchases the next attack; keep force bounded,
+> witnessed, temporary, and answerable; prefer de-escalation, repair, and
+> institutional succession over decisive slaughter. Dramatize the line as
+> provisional speech under fire (*perhaps*), not as a finished creed. On-page
+> proof: declining escalation that would "win"; refusing heir mythology; second
+> and final relinquishment during birth; returning to ordinary work. He still
+> defends people when attack is present; maturity is refusing to **become** the
+> cycle.
+
+> **THE LOOP artifact — optional Book IV re-read — LOCKED 2026-07-30:** Street
+> **The Loop** (Incomplete Twin Circles) lands its working reading in **Book III**
+> (`33`; `35` § *The Loop*). Book IV may re-read it in court without making it a
+> new quest object: succession fantasies, consort/heir capture, belonging sold as
+> completion, institutions that look finished while people remain sealed inside
+> private infinities. **Do not conflate** this artifact with the violence-cycle
+> “loop” language above — same English word, different load: one is
+> pleasure×imagination / atomization / counterfeit completion; the other is
+> emergency crowns answering emergency crowns.
+
+> **DEEP-TIME RESIDUE / ANCIENT FACE — LOCKED 2026-07-30:** Book IV ancient face =
+> **court as fossil temple** — offices without gods; refuse heir mythology.
+> Attestation, consort, protector, heir, and claim-review should feel like
+> degraded older claiming systems wearing civic clothes. Quota: ~one deep-time
+> residue every 1–2 chapters (`17` § *Deep-time residue density*).
+
 ---
 
 ## 1. Book III → Book IV hinge
@@ -138,7 +179,15 @@ public loyalty, supply capacity, and the memory of holding communities together
 under attack. Many men regard Eli as founder, brother, and the first ruler who
 treated them as citizens rather than expendable bodies.
 
-The cloisters divide among:
+The cloisters divide among **political** factions (below). Separately, Book III
+already sorted many chapters into **animal houses** (Stag/Deer,
+Crow, Bear, Salmon, Ox — `40` § *Cloister animal houses*). Temperament ≠ ideology:
+do not map Stag to cowardice or dissolve votes, or Ox to praetorian loyalty.
+Book IV pressure: scarce-male factions try to claim surge-houses (especially
+Stag in crisis, Bear force, Ox under load) as property; constitutional chapters defend house
+as revisable keeping-pattern, not breeding or MOS code.
+
+Political factions:
 
 - constitutional houses seeking civic standing without permanent
   militarization;
@@ -151,7 +200,7 @@ The cloisters divide among:
 - **dissolve-the-cloister** voices (scarcity-era): push men into marriage,
   household absorption, or personal service to the court — opposed by
   constitutional chapters who refuse Extra→prize as the only arc;
-- **classify-and-monitor** voices (a separate, earlier controversy, still live in Book IV): Crane-aligned and Union-aligned officials who want the cloisters registered and surveilled not because men are scarce but because organized men *at all* are alarming in a world whose only precedent for male organization at scale is spending institutions — armies, crews, gangs, corps (`29` § the missing male order; founding controversy: `33` Ch 9). This argument predates and is distinct from the scarcity-era dissolve push; it never fully goes away even after the cloisters prove themselves, because distrust of a category doesn't retire on a track record alone.
+- **classify-and-monitor** voices (a separate, earlier controversy, still live in Book IV): Crane-aligned and Union-aligned officials who want the cloisters registered and surveilled not because men are scarce but because organized men *at all* are alarming in a world whose only precedent for male organization at scale is spending institutions — armies, crews, gangs, corps (`29` § the missing male order; founding controversy: `33` Ch 9). This argument predates and is distinct from the scarcity-era dissolve push; it never fully goes away even after the cloisters prove themselves, because distrust of a category doesn't retire on a track record alone. Crane may try to risk-code animal houses (Stag/Deer = unstable; Salmon = unreliable) — same reflex, new taxonomy.
 
 Their Book IV test is whether a men's keeping-order can resist becoming a
 praetorian guard, spending-machine, mating/acceptability authority, **or a cartel

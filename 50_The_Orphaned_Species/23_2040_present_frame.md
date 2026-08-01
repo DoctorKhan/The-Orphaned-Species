@@ -75,7 +75,11 @@ The archived world history rhymes **Late Bronze Age network collapse** (Cline / 
 
 Treat the puberty threshold as **two answers to the same fever**: two political structures, two responses. **Do not lecture** — show through ward vs house texture, Nico's episode, Pelangi Reach threshold culture, Custodian hunts.
 
+**Background pressure — the Boreal Route (LOCKED 2026-07-30):** by 2040 the thawing Arctic coast of former Russia (now Free Ports Coalition remnant territory, `WORLD_BIBLE.md` § 1a-iii) carries a real, maturing shipping corridor — short-season, expensive, genuinely growing, the same slow bend in the trend line the real-world Northern Sea Route shows in the mid-2020s. Eastern Mandate money and diplomacy lean on it hard, hedging against Malacca dependency; Continental Union holds a brittle Alaska-side claim. Texture only — news crawl, checkpoint chatter, a manifest detail — never a set-piece and never explained as anyone's scheme. This is deliberately the *ordinary* corridor story, sitting next to Malacca's *extraordinary* one (`59_younger_dryas_nucleation_lock.md` § *Two corridors, one hidden*).
+
 ### Continental Union — the quarantine model
+
+**Cube note:** the Union's own bloc-cube (white) is one of three worldwide, sited in a Union capital not yet fixed on-page. Full framework: `95_glossary.md` § *The Three Cubes*.
 
 The Union classifies threshold onset as a **neurological contagion** — latent vulnerability from the gene wars. Centralized consensus requires a mappable psyche; unmapped reality = structural threat.
 
@@ -88,6 +92,8 @@ The Union classifies threshold onset as a **neurological contagion** — latent 
 | **Long arc** | **Suppresses evolution** — psychological fortress, Mycenaean-brittle; fights citizens' biology | Union looks strong; antifragility score: low |
 
 ### Free Ports Coalition — the keeper chain *(author shorthand)*
+
+**Cube note:** the Coalition's own bloc-cube (blue) is sited at **Delphi** — already a Free Ports Coalition port and already charged ground (the oracle, the spark-ecology mechanism). Full framework: `95_glossary.md` § *The Three Cubes*.
 
 No central authority for quarantine or inhibitor distribution. Adaptation through **linked threshold houses** on trade routes.
 
@@ -113,7 +119,10 @@ Endurance state frames episodes as **disease to cure** — centralized medicine,
 
 **Not as different as they claim — LOCKED 2026-07-29.** The Union and the Mandate advertise themselves as opposites — corporate-directed continuity versus collective security — but both run on the identical root failure: a competent emergency measure that never sunset, because the people it protected were the ones with the power to decide when the emergency ended.
 
+**Anocracy / Union fracture — LOCKED 2026-07-31:** the Union's Book III shatter is not mysterious sudden death of a healthy state. Author diagnosis: it is already a **hybrid / anocratic** regime — democratic costume + Continuity authoritarian capacity — the regime type political science finds most failure-prone under shock (`90` § *Anocracy*; `33` § *Anocracy / Union fracture*). Hollow-tree brittleness (§ Mycenaean rhyme above) and this hybrid diagnosis are the same tree: no spare parts *and* incoherent middle.
+
 - **The Union becomes socialism for large business.** Registries and ledger discipline fall on individuals — carriers, the unregistered, ordinary debt and wage risk — while the hot-site inheritors and the enterprises tied to them get their losses absorbed, their contracts guaranteed, their failures rescued. Market discipline for citizens; the ledger softens for the connected.
+- **Insider trading and dumping are routine Union business, not scandal.** The same continuity-roster class trades ahead of the ledger's own public announcements as a matter of course, then dumps into the liquidity that follows before a scheduled "review" lands. The crash that follows is paid for by whoever bought in after them; enforcement exists on paper and has never once pointed inward (`95_glossary.md` § *Insider trading and asset dumping*).
 - **The Mandate becomes clearance for the connected.** "The East survived" is the compressed official story; South Asian residents and migrant workers inside the Stack's own capital did not survive it evenly (§ Capital structure above). Vigilance apparatus built to catch real biological threats becomes the same apparatus that decides who is cleared, who is classified, who is Stack-protected — and who is triage. Collective sacrifice in the propaganda; individual exposure in the ward and the dock.
 
 Same shape, different vocabulary: an insider class gets its risk socialized by the state; an outsider class is told the state's protection is universal and finds out otherwise. Neither bloc is lying about its founding competence — the Union's continuity apparatus and the Mandate's vigilance apparatus both did real, necessary work during the collapse (`15` § No sides, only incentives). The corruption is what happened after the emergency should have ended and didn't, not the emergency response itself.

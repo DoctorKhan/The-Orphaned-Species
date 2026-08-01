@@ -1,12 +1,14 @@
 # The Orphaned Species Book II: The Descent
 
-> **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–14 and the **Three pressure rules** (Clock A Maren/rescue vs Clock B Wren-network/registry/**Sol**; antagonist present-tense job; cost → next chapter). Dual-clock map: `55` § *Book II — dual-clock & cost→next map*. Beats: `32_volume_II_beatsheet.md`.
+> **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29; delivery upgrades 2026-07-31:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–20 and the **Three pressure rules** + **Five delivery upgrades** (Clock A Maren/rescue vs Clock B Wren-network/registry/**Sol**; antagonist weekly jobs; cost → next; density parity; cast chemistry; brand face = ring). Dual-clock map: `55` § *Book II — dual-clock & cost→next map*. Beats: `32_volume_II_beatsheet.md`.
 
 > **Governing draft begun 2026-07-28.** Present tense, close third. Eli remains
 > the home consciousness; Somchai and Wren receive only the locked away
 > movements in `32_volume_II_beatsheet.md`. This manuscript begins the morning
 > after Book I's Sanxingdui recovery and follows the authoritative ten-chapter
 > spine. Retired Book II prose in other files is quarry, not reader sequence.
+>
+> **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1 Three Circles three-way read + Rasel entropy sentence (*signal you could record completely…*); Ch 2 Adapa wrong-first destiny hunger; Ch 6 Extra settlement unnoticed twin incomplete circles (Loop hatch-mark only — no street name). Ancient face = Sídhe/Göbekli/Refusal. Craft lock: `17` § *Deep-time residue density*; beats: `32`.
 
 ## Chapter One—What Came Home
 
@@ -373,6 +375,10 @@ Rasel leans closer.
 "Could be wear."
 
 "Could be where it breaks."
+
+Rasel does not take the tablet back. He looks at it the way he looked at the split tomato—measurement before comfort. "A signal you could record completely," he says, almost to the clay, "would already have stopped being this one."
+
+Eli files it under one of Baba's strange sentences. Wren's eyes flick once—extra attention, not explanation—and she does not translate.
 
 Wren folds the cloth over the tablet. "Could be we have three minutes."
 
@@ -890,6 +896,12 @@ Eli reads the archive translation.
 
 A man is offered the food and water of life. He has been warned they are death.
 He refuses. The offer is withdrawn. The warning remains.
+
+Eli's first wrong hunger is immediate and private: that the lacuna is a map to
+Maren, that Refusal is a destiny with his name under it, that the missing
+passage will tell him which gate to walk through next. The tray does not
+cooperate. It is broken clay and school tradition and an absence given more
+space than the surviving words.
 
 "Who warned him?" Wren asks.
 
@@ -4127,6 +4139,13 @@ Help without ownership. Or recruitment priced later.
 Wren cannot tell.
 
 That is also the danger.
+
+On the loading-bay wall behind the organizers, someone has chalked two incomplete
+circles, hatch-marks opposite each other, almost ready to join into something
+that looks finished. No name under them. Eli's eye wants to read destiny or love
+or Sol's brand and then moves on because the pump man is still missing and chalk
+is cheap. He does not ask. Nobody answers questions about wall marks in a place
+that already has too many names for men.
 
 ---
 
@@ -7759,7 +7778,10 @@ families outside call after him. He carries a medication crate and tells them
 which intake line to use.
 
 Sora and Tommy take a route neither names. Edda remains with the damaged
-facility long enough to evacuate its living staff, then submits no surrender.
+facility long enough to evacuate its living staff — the door out stands open
+the whole time, unguarded, nobody's job to stop her — and she does not walk
+through it. She submits no surrender. Someone will have to come and take the
+badge from her hand; she will not set it down herself.
 
 Callum sends a message from Raben Yard:
 

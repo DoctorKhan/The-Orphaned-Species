@@ -2,11 +2,11 @@
 
 > **RECOMBINED 2026-07-29 — restored to a single 13-chapter volume.** The 2026-07-29 split (Ch 1–3 as Book I / Ch 4–13 as Book II *The Living Route*) is reversed. Later volumes return to four-book numbering (Descent = Book II, Living World = Book III, Court of Threads = Book IV). Map: `SERIES_STRUCTURE.md` at the repo root.
 
-> **Pitch / clue-chain gate—HIGH PRIORITY—LOCKED 2026-07-25; pressure rules 2026-07-29:** Every chapter must pass `55_series_pitch_and_comps.md` (body movement, visual key, institutional texture, short-loop payoff, domestic cost, wonder before ambush, **two live clocks**, **antagonist present-tense job**, **cost → next chapter**). Governing prose: `14_literary_speculative_thriller_style_guide.md` § *POV architecture—LOCKED*.
+> **Pitch / clue-chain gate—HIGH PRIORITY—LOCKED 2026-07-25; pressure rules 2026-07-29; delivery upgrades 2026-07-31:** Every chapter must pass `55_series_pitch_and_comps.md` (body movement, visual key, institutional texture, short-loop payoff, domestic cost, wonder before ambush, **two live clocks**, **antagonist present-tense job**, **cost → next chapter**, **density parity**, **chemistry**, **brand face = ring**, **Ch 11–13 complete meal**). Governing prose: `14_literary_speculative_thriller_style_guide.md` § *POV architecture—LOCKED*.
 
 > **Drafting lock:** present tense, close third. Eli is the home consciousness throughout Book I. The retired Wren/Laleh extraction opening is not part of the governing draft. One scene never enters more than one mind. Governing rule: `14_literary_speculative_thriller_style_guide.md` § *POV architecture—LOCKED*.
 
-> **Opening alignment—LOCKED 2026-07-26 (rev. Z):** **Ch 1**—**Friday AM** race (Kiran; Suresh holds wager)—**Eli wins** → earns Cherry Cube manifest; **Friday PM** Mei **dinner send-off / orphan truth**; **Saturday AM** Babaji **catamaran** (**first meet Wren**); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → Sunday Circuit escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. Malacca: **talents** (street = psionic ability; lowercase) **activate**, not trained (`95`). Cube grounding = **Maren**, not martial. **Ch 3** — aftermath through "I'm not going dark."
+> **Opening alignment—LOCKED 2026-07-26 (rev. Z); job/timeline 2026-07-30:** **Ch 1**—**Friday AM** harbor skiff race (Kiran; Suresh holds wager)—**Eli wins** → earns **Cube Circuit-weekend show contract** (Sunday concert stage/wardrobe before Circuit race; Foundry sleeve = corridor cover); **Friday PM** Mei **dinner send-off / orphan truth**; **Saturday AM** Babaji **catamaran** (**first meet Wren**; cover vs job + second-set closet); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → **Sunday afternoon concert** → **Sunday night Circuit** escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. Malacca: **talents** (street = psionic ability; lowercase) **activate**, not trained (`95`). Cube grounding = **Maren**, not martial. **Ch 3** — aftermath through "I'm not going dark."
 > - **Ch 1 (below):** governing draft—**LOCKED rev. Y** (see opening alignment). Decision record: `DECISIONS_Chapter_One.md`.
 > - **Ch 2 (below):** governing draft—**LOCKED rev. Y:** Wren escort through **causeway hall**; wrong-room overhear; document clerk → **Saturday night Continue Inn** → **Sunday AM** Cube → convoy → Straits → Malacca breach.
 > - **Ch 3 (below):** governing draft, **merged 2026-07-22**—aftermath through "I'm not going dark." Decision record: `DECISIONS_Chapter_Three.md` flags.
@@ -17,14 +17,16 @@
 > - **Ch 8** — Ila's Hands
 > - **Ch 9** — Two Teams
 > - **Ch 10** — People Over Evidence
-> - **Ch 11–13** — **governing Sanxingdui rebuild, revised 2026-07-27.** Human Doors → Tree with No Top → Living Route; Rasel recovered, Wren displaced, Qiao's clearance lost, Maren complicity disclosed. Professor Emrys does not exist. Former Gulf/Göbekli material is preserved only after the appendix-quarry heading and is not reader-sequence canon.
+> - **Ch 11–13** — **governing Sanxingdui rebuild, revised 2026-07-27.** Human Doors → Tree with No Top → Living Route; Rasel recovered, Wren displaced, Qiao's clearance lost, Maren complicity disclosed. Professor Emrys does not exist. Former Gulf/Göbekli ending prose lives in `../archive/manuscripts/relocation_quarry_book_i_gulf_gobekli.md` (not reader-sequence canon).
 >
-> **BOOK I GOVERNING DRAFT — RECOMBINED 2026-07-29: 13 chapters, ~42k reader-sequence words.** The reader sequence ends before `APPENDIX — RELOCATION QUARRY`. Scene desire/opposition, antagonist continuity, and prose-restraint passes carry over. Author research notes: `90_book_i_research_notes.md`; the labeled quarry remains available for Book II adaptation.
+> **BOOK I GOVERNING DRAFT — RECOMBINED 2026-07-29: 13 chapters, ~42k reader-sequence words.** The reader sequence ends at *The Living Route* (Sanxingdui). Scene desire/opposition, antagonist continuity, and prose-restraint passes carry over. Author research notes: `90_book_i_research_notes.md`; Gulf/Mesopotamia/Göbekli quarry: `../archive/manuscripts/relocation_quarry_book_i_gulf_gobekli.md` (Book II adaptation).
 >
 > **Craft revision pass — 2026-07-29 (Book I gaps closed):** Ch 11 Laos-closed → Vietnam monsoon/UXO shelf → Sora gate; thin Ch 6/8/9/10/12 lived expansions; Ch 12 Qiao four-hour access clock; Mei terrace residue confirmed on-page.
 > **Craft revision pass — 2026-07-29 (flora / living route):** Named tropical plants as place-engine (Pelangi garden/marina; coastal chempaka/mangrove/casuarina; Thailand valley margins; Cube sealed orchard vs volunteer trees; Sanxingdui greenhouse basil/chili echo). Craft lock: `14` § *Flora as place-engine*.
 > **Craft revision pass — 2026-07-29 (pressure / literary):** Thailand Ch 5–10 dual-clock bills (Ros racks closed; shrine photo deadline; stay-for-polarity cost→next; health-fax claim window); Ch 7 leave/Ch 8 continuity fixed; soft-lie and coach-label cuts (Fear line, wat curriculum tags, band/miracle tag, Meridian cylinder tag).
 > **Craft revision pass — 2026-07-29 (Ch 1 commercial open):** Saturday AM accelerated; Rootbook charged at Mei dinner (*Name* / forked page / withheld); early noun friction cut (Cube delayed to Ch 2; Thread/Weaver/Albion/Mandate labels thinned); Ch 3 wafer rhymes Friday object.
+> **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1–3 seeded per `17` § *Deep-time residue density* — garden as living craft vs Foundry cables; missing-cohort play court; Mei Meridian/baby Cube grief-seed; Extra lane as vacated standing; Three Circles wrong-first middle-ring read; kelong ask-the-water practice + basil rhyme. Ancient face = living plants → Sanxingdui.
+> **Craft revision pass — 2026-07-30 (residue density continued):** Ch 5 coffee mountain *not for sale*; Ch 7 dead-ground wrong-reading catch; Ch 11 border form as claiming fossil; Ch 12 missing-top hunger refused; Ch 13 mismatched cadences over master rhythm. Beatsheet residue lines Ch 6–13: `31`.
 > **Craft revision pass — 2026-07-27:** Wren pre-door choice groundwork; Maren classifier / Rasel coupling seeded (Ch 3); Ch 1–2 memory density trim; Ch 13 ending space + Wren pre-door choice; Ch 5/11 thinned; thesis-repetition cuts; civilian-cost callbacks; irreversible polarity-week loss; Ch 6 consent turn into Ch 7; Ch 12 perception-before-mesh; dangling clue quieting.
 > - **Superseded Ch 2–4 prose:** moved to `archive/manuscripts/restructure_quarry_ch2-4.md`. Quarry material (Khun Dang, King James register, seven-chamber framing) is not canon until placed on-page under current voice/route locks.
 > - **`archive/manuscripts/quarry_ch1_alternative.md`:** alternative concept-forward Ch 1—**quarry**, not governing (interiority pays off later; see its header).
@@ -71,9 +73,9 @@ For one stupid second he looks for them on the quay—the old reflex, cut off ye
 
 Kiran comes up the marina steps as Eli pulls in—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out past Timah's boat—being towed back to the anchor by a harbor boy while Jul waves at no one in particular—to the open strait beyond the marks. The sea is still bright. Still wide. Still the thing that made the win feel like belonging for a breath. Suresh sees Eli looking and does not mock it. On the wall someone is already arguing in Bajau and Malay about whether the race owed Timah a clear mark or Timah owed the race a clear fairway. The argument is older than the towers. It will outlive the wager.
 
-"You won," Suresh says. "Don't thank the grandmother. She wasn't helping you." He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "That wager was cash work up the strait—Meridian City, weekend stage crew. Real transfer, not island chits. Saturday, first light: Babaji's launch at the old hotel pier—papers, then you go. Walk like you belong until something proves you don't." A beat. "Don't make me regret betting on you, boy."
+"You won," Suresh says. "Don't thank the grandmother. She wasn't helping you." He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "That wager was cash work up the strait—Meridian City, Circuit weekend. Idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's launch at the old hotel pier—papers, then you go. Walk like you belong until something proves you don't." A beat. "Don't make me regret betting on you, boy."
 
-Babaji runs the old hotel. He was Rasel's friend—how Eli's name ever reached a contractor ledger in the first place. This morning Eli has won the only cash job on the strait before he knew its name. He understands, all at once, what he owes Shireen if Monday is real.
+Babaji runs the old hotel. He was Rasel's friend—how Eli's name ever reached a contractor ledger in the first place. This morning Eli has won the only cash job on the strait before he knew its name: not Foundry day-shift wages, but weekend show money in the Stack if he can get there. He understands, all at once, what he owes Shireen if Monday is real.
 
 Suresh coils the skiff's painter at the rail. Eli goes up toward the towers—storm wall, tackle shed, the low waterfront the towers rose behind. He is not crew. Not one of the harbor men.
 
@@ -81,7 +83,7 @@ Coconut palms lean over the storm wall where the developers never finished the s
 
 He takes the service stairs because the lift smells like wet carpet and regret. On the landing he washes his hands at the slop sink until the race salt is gone, then doesn't—his father always said clean hands lie about soil.
 
-The seedlings have come up pale again. He kneels in the row Rasel planted when the towers still looked like they might reopen—three beds, stakes marked in his father's blocky Bangla, labels bleached by sun: tomato, chili, a stubborn patch of holy basil Maren used to pinch into rice. A papaya volunteer has claimed the corner pot, leaves like green hands against the cladding, fruit small and hard because Eli never thins it right. Beyond the glass, a single rain tree on the plaza throws a pool of shade the robot dog prefers to any programmed route. Eli touches each stem the way Rasel taught him: thumb and forefinger at the base, not the leaf—*ask the plant, don't grab it*—and waits for the small answer in the stem's stiffness. His palms prickle and tell him nothing useful. They always do here.
+The seedlings have come up pale again. He kneels in the row Rasel planted when the towers still looked like they might reopen—three beds, stakes marked in his father's blocky Bangla, labels bleached by sun: tomato, chili, a stubborn patch of holy basil Maren used to pinch into rice. A papaya volunteer has claimed the corner pot, leaves like green hands against the cladding, fruit small and hard because Eli never thins it right. Beyond the glass, a single rain tree on the plaza throws a pool of shade the robot dog prefers to any programmed route. Below the tree the old play court still has its painted circles—faded hopscotch, a goal without a net—but the kids who should have filled it never quite arrived in numbers; the reach got older crews and empty swings instead, and nobody on the terrace talks about that as a category, only as weather. Eli touches each stem the way Rasel taught him: thumb and forefinger at the base, not the leaf—*ask the plant, don't grab it*—and waits for the small answer in the stem's stiffness. His palms prickle and tell him nothing useful. They always do here. Cables he can force into agreement; living wood only answers if you ask without owning the reply. The Meridian job will pay in the first language. This row speaks the second.
 
 He remembers his mother on this row—watering, one hand on the can, humming without words. Rasel in the doorway, sleeves rolled, saying she was teaching the tomatoes to breathe. Eli small enough to pass water cup by cup because the can was too heavy—Babu, not Eli, when she was tired and happy. She used to crush a basil leaf under his nose when the lab smell stayed in his clothes: *green first, then the rest of the world.*
 
@@ -181,6 +183,10 @@ He sees them split without wanting to—not the vans, not the guns, only the han
 
 "You're not an orphan, boy." She says *boy* the way Rasel might have—home tongue in the throat, not English for the record. "I'm telling you now because tomorrow night you sail on Suresh's boat—cash, forward pays. Your parents are not in that garden. You are still here because we lied for you, but the reach is getting narrow, Eli. They want this whole strait closed. You have to leave."
 
+She softens one more inch—kitchen warmth, not a lead. "Your mother had work up the strait sometimes. Meridian City. Once she brought you along as a baby—came back talking about glass and trees that never dropped their flowers. I don't know more than that. She was tired and happy and she wanted you to see something pretty." She shrugs, as if the detail is only color for the grief. "Eat. Don't make a map of my leftovers."
+
+He files it under nothing useful—pretty glass, a city he is already sailing toward for cash—and does not ask. Mei would not have an answer if he did.
+
 He hears Shireen's voice from an hour ago—*the deposit is Monday*—laid flat over Mei's, both of them asking the same thing of him in different currencies: go, and go now, because staying costs someone he loves. There is no version of tonight where he gets to sit still with what he has just learned.
 
 She clears his plate when he finally stands, but leaves it a moment first—the way you leave a door held for someone still deciding whether to walk through it. The notebook stays on her side of the table. He does not ask for it again. Asking would make him stay.
@@ -203,13 +209,13 @@ The words hit the same place Rasel used to when he said *Babu, come here*. Eli c
 
 Babaji sits in the aft shade—automatic chess paused mid-game, kettle on the side table, the cheap magnetic pieces Rasel hated and bought anyway because Eli kept losing them over the rail. He does not stand.
 
-"Sponsor line reads Babaji." He passes a folded contractor sleeve. "Foundry. Stage crew. That clears the corridor." He holds it out to the woman first. "Wren. Attest it."
+"Sponsor line reads Babaji." He passes a folded contractor sleeve. "Paper says Foundry stage crew—that clears the corridor. Job is Cube show: Sunday concert before Circuit night. Power, wardrobe uplink, afterparty before the cars." He holds it out to the woman first. "Wren. Attest it."
 
 She scans it on a tablet and signs before Eli's fingers close on the paper. Babaji's name where a sponsor goes. Russell nowhere at all. She does not look at him while she works.
 
 "I run south before they walk the offices," Babaji says. "You run on Suresh's hull the same hour—Saturday, last light. Different vessels. Do not miss your window watching mine."
 
-Wren slides a call sheet across—forty-eight hours, cash at intake. "Worker lane. Not the other line. I'm with you through Meridian City. Please don't make me do it twice."
+Wren slides a call sheet across—forty-eight hours, cash at intake. "Worker lane. Not the other line. Show call Sunday—concert first, race after. I'm with you through Meridian City. Please don't make me do it twice." A beat, flat as packing inventory: "When the crew breaks for the second set, wardrobe closet marked maintenance. Ninety seconds. Then you go back to cables." She does not explain. She does not look at him while she says it.
 
 Friday is still in Eli's chest—Mei's terrace, both parents taken, the notebook she would not let him keep—and his hands won't stay still on the table edge.
 
@@ -235,7 +241,7 @@ At the pier he is already moving—Mei's service cable, junction after junction,
 
 Wren is at the marina stairs with his name on a clipboard that is also a manifest. "Your attestation is attached." Soft, level—the voice that makes queues feel temporary. "Worker lane, not cohort review. If we miss this tide, the second column is all that remains." Her eyes stay on the clipboard, where the lie is.
 
-She walks him to the gate—a woman in a royal vest with a tablet and the same four questions Wren has already answered on paper: where, how long, employer, health attestation. Wren speaks first. Eli repeats what she puts in his mouth. "Meridian City. Forty-eight hours. Foundry contractor. Stage crew." His palms prickle once on the railing. Useless noise. Wren's hand stays flat on the clipboard until the stamp comes green. Essential corridor worker. The gate opens.
+She walks him to the gate—a woman in a royal vest with a tablet and the same four questions Wren has already answered on paper: where, how long, employer, health attestation. Wren speaks first. Eli repeats what she puts in his mouth—the cover, not the Cube. "Meridian City. Forty-eight hours. Foundry contractor. Stage crew." His palms prickle once on the railing. Useless noise. Wren's hand stays flat on the clipboard until the stamp comes green. Essential corridor worker. The gate opens.
 
 Suresh presses a folded paper into Eli's palm at the rail—*chandlery, old town, ask once*—and keeps his eyes on the channel markers. Wren steps aboard ahead of Eli, tablet under her arm, hostess poise collapsing into the boat's narrow deck without losing composure. Suresh does not greet her the way he would greet a harbor wife, and she does not wait for it—two people sharing a hull on old terms: no warmth spent, and none owed. When she moves past him to the rail he shifts his weight to give her the better footing without being asked. She answers with a short nod at the helm. "Someone asked me to hold this for you," Suresh says, meaning the chandlery paper. "Not for tonight—for if the corridor spits you out past Meridian." He casts off into the Johor channel.
 
@@ -345,7 +351,7 @@ At the next desk, a man in a demobilization coat lays a pump-repair certificate 
 
 "Extra lane," a woman behind Eli says, pulling her daughter closer.
 
-The man hears. His shoulders rise, then settle. He picks up the certificate before security has a reason to pick it up for him and walks toward the down escalator. He has threatened no one. Two officers watch him as if the threat is merely late.
+The man hears. His shoulders rise, then settle. He picks up the certificate before security has a reason to pick it up for him and walks toward the down escalator. He has threatened no one. Two officers watch him as if the threat is merely late. The sign is new plastic over an older appetite: a place to put men the city no longer knows how to seat—valid skill, no receiving household, standing vacated and then refilled as danger. Eli does not have a name for that history. He only has the escalator going down.
 
 On a brushed-steel pillar by the document lanes, a notice restricts small-craft transfer of medical goods pending review—printed clean, Mandate fonts. Below it, in contractor chalk, someone has written three words in English—*I alone don't know*—no date, no name, already half-scrubbed by a wet rag. The man queuing in front of Eli reads the notice twice and says, to no one, that the same office ran the insulin boats through the worst of the closures. Nobody answers him. The queue moves.
 
@@ -465,7 +471,7 @@ He does not sleep well. He sleeps enough.
 
 **Sunday, first light.** Cherry Lane is not on the official map. What actually connects Meridian City is men, and one segment at a time—and for an hour Eli is lost inside that truth.
 
-He asks wrong once and gets a polite blank. Asks right—river in the vowels—and a construction worker's face changes the way a lock changes when it recognizes a key. *Down the dead escalator, left at the flooded junction—no, your other left—if you see the shrine with the plastic flowers you went too far.* The escalator is a black throat. Water stands in the junction like a held breath. He takes the wrong left, finds the plastic flowers, turns back sweating, finds the dry crossing only when a cleaner kicks a grate open with her heel and does not ask his name. A dock mechanic under the freight ramps looks at his hands before his face and gives him the clock: "Freight rolls out of the Cube at the last safety car **tonight**. Tire trucks, not food trucks. **Sunday** race—whole city's sealed for the show. The show is the only thing left that opens doors."
+He asks wrong once and gets a polite blank. Asks right—river in the vowels—and a construction worker's face changes the way a lock changes when it recognizes a key. *Down the dead escalator, left at the flooded junction—no, your other left—if you see the shrine with the plastic flowers you went too far.* The escalator is a black throat. Water stands in the junction like a held breath. He takes the wrong left, finds the plastic flowers, turns back sweating, finds the dry crossing only when a cleaner kicks a grate open with her heel and does not ask his name. A dock mechanic under the freight ramps looks at his hands before his face and gives him the clock: "Show's already loading upstairs—idol concert first, whole afternoon. Street race after dark. Freight rolls out of the Cube at the last safety car **tonight**. Tire trucks, not food trucks. **Sunday**—concert before Circuit; the show is the only thing left that opens doors."
 
 Eli wants to ask what the Cube is. The mechanic laughs once, not unkindly. "You'll know when the floor sings."
 
@@ -479,9 +485,9 @@ Above: the managed bloom. Cherry canopy under glass—whole trees forced into et
 
 The slit angles shut. Cherry Lane is directly overhead again. Below: what the temple costs. A living root has cracked the service ceiling around its inspection collar, and one wet pink petal has made it through a drain grate into the concrete dark. Someone has drawn a red box around the crack and dated it for repair. The root has grown past the date. The honest smell of rust. Water ticking. His awe does not leave; it just learns a basement.
 
-The shaft lets out into service levels and above him the noise is not sound anymore, it is weather—engines going by in packs on the sealed avenues, a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage. The Meridian Circuit: the one night the Stack shuts its own arteries so machines can go in circles under drone light, and screens six storeys tall replay the machines to people in dark clothes who paid to be seen watching. Black cars idling in VIP slots. Champagne flutes catching grandstand glare. Security in suits with earpieces who never raise their voices. And again—worse this time, because he has already been soft for the bloom—the cars come through the underpass like poured light, rivers of tail-lamp red mapped across the dark city, a hundred thousand faces upturned and lit, the whole vertical world dressed in its own reflection. He stands still. He looks. Wonder before the ambush; his body knows the order even if his fear does not.
+The shaft lets out into service levels and above him the noise is not race engines yet—it is a concert wearing a city's lungs: a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage, PA chatter in six languages, dancers' counts cutting clean through the mess. Screens six storeys tall replay a boy's face to people in dark clothes who paid to be seen watching. Black cars already idle in VIP slots for the street race that will seal the avenues after dark. Champagne flutes catch grandstand glare meant for later. Security in suits with earpieces who never raise their voices. Eli stands still. He looks. Wonder before the ambush; his body knows the order even if his fear does not.
 
-On the Cube floor—glass walls, black stone, a stage that could host a summit or a kill—lights, dancers turning a tight spiral that never frays, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide. On the downbeat every hand in the grandstand finishes the clap together—too clean, no leftover beat for anyone who arrived late. Between grandstand feeds, the temple sells frictionless care: upgrades, identity, the future as a product you can hold. Eli's palms prickle toward the stage the way they prickled toward the gantry—wrong hunger, beautiful hunger—and he puts two fingers below his collarbone before he can be embarrassed by needing them in a room this expensive.
+On the Cube floor—glass walls, black stone, a stage that could host a summit or a kill—lights, dancers turning a tight spiral that never frays, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide. On the downbeat every hand in the grandstand finishes the clap together—too clean, no leftover beat for anyone who arrived late. Between feeds, the temple sells frictionless care: upgrades, identity, the future as a product you can hold. Eli's palms prickle toward the stage the way they prickled toward the gantry—wrong hunger, beautiful hunger—and he puts two fingers below his collarbone before he can be embarrassed by needing them in a room this expensive.
 
 In a service alcove off the shaft, two stagehands share a cigarette. One jerks her chin at the noise above. "Other people are excited," she says, flat. "Like a parade."
 
@@ -489,17 +495,17 @@ The other exhales. "I alone don't care."
 
 They do not look at Eli. They are not performing. It is something you say down here so the parade does not get all the way inside you—and Eli understands, hearing it, that the parade already has a piece of him.
 
-This is the job. Stage power, wardrobe uplink, the afterparty load-in—the contract Wren attested before the sweep, before the wage ticket went into another man's file. He was supposed to check in at the service gate **this morning** with a Foundry contractor lanyard and a name on a list. Instead he is coming up through the roots with grease on his hands, one night at Continue Inn behind him, and no ticket left to spend—an underdressed body in a city that only smiles at people who already belong.
+This is the job he thought he won. Stage power, wardrobe uplink, afterparty load-in before Circuit night—the contract Wren attested before the sweep, before the wage ticket went into another man's file. Cover paper said Foundry stage crew so the corridor would open; the call sheet said Cube show. He was supposed to check in at the service gate **this morning** with a Foundry contractor lanyard and a name on a list. Instead he is coming up through the roots with grease on his hands, one night at Continue Inn behind him, and no ticket left to spend—an underdressed body in a city that only smiles at people who already belong.
 
-The job has two layers, and only Wren has ever admitted to knowing both. On the surface: stage power, cable runs he can read with his hands closed. Underneath, words she gave him once, flat as a packing list, back on the catamaran, and never repeated since: *When the crew breaks for the second set, the wardrobe closet marked maintenance. Ninety seconds. Don't look at what's inside longer than it takes to close your hand around it.*
+The job has two layers, and only Wren has ever admitted to knowing both. On the surface: stage power, cable runs he can read with his hands closed, the idol's afternoon concert before the cars. Underneath, words she gave him once, flat as a packing list, back on the catamaran, and never repeated since: *When the crew breaks for the second set, the wardrobe closet marked maintenance. Ninety seconds. Don't look at what's inside longer than it takes to close your hand around it.*
 
-The closet is exactly where she said it would be. It is not a vault. It is a **hold point**: a case tagged for the same freight manifest as the tire trucks, parked here for the one hour a year when the Stack's own security is watching six storeys of screens instead of a service corridor. Circuit night moves cargo the way it moves crowds: in the open, under cover of being looked at. Whatever this is, someone decided it travels safer inside a spectacle than inside a vault, and Wren's people learned the manifest before the Stack finished writing it.
+The closet is exactly where she said it would be. It is not a vault. It is a **hold point**: a case tagged for the same freight manifest as the tire trucks that will roll when the Circuit starts after dark, parked here for the one hour a year when the Stack's own security is watching a concert instead of a service corridor. Circuit weekend moves cargo the way it moves crowds: in the open, under cover of being looked at. Whatever this is, someone decided it travels safer inside a spectacle than inside a vault, and Wren's people learned the manifest before the Stack finished writing it.
 
 Under a service light gone amber with age, a shallow case. Inside the case, wrapped in cloth the same way his mother used to wrap seedlings against the cold: three concentric circles cut into something that is not quite stone and not quite metal. Small enough to close a fist around. Old enough that his hands know it before his mind agrees to. Not a screen. Not a chip. A weight, and a cold that does not come from the air conditioning. A second scrap of paper is folded under it, no signature: *Kelong, east channel, past the third net stake. Ask for the netmaker. Don't say what it is.*
 
 He does not look at the circles longer than ninety seconds allow. He wraps it back, presses it flat against his ribs inside the wardrobe jacket, and is back at the cable run before the second set ends, hands steady, doing a job that was never really about cables.
 
-Eli's head starts to go. It is layered noise wearing sequins—six languages, the chant, the PA, the engines—and underneath all of it, against his ribs, a cold that has started keeping its own time. The ladder tips in his inner ear, and his hand does the old thing before he can be embarrassed by it: two fingers pressed flat below the collarbone, one long breath out through the teeth. *Stand behind the hands.* The way **she** taught him—his mother—in rooms he can barely remember, before the tower, before everything. He does not know yet that the two things in his chest—the shape under his ribs and the noise behind his eyes—are answering the same question.
+Eli's head starts to go. It is layered noise wearing sequins—six languages, the chant, the PA, the dancers' counts—and underneath all of it, against his ribs, a cold that has started keeping its own time. The ladder tips in his inner ear, and his hand does the old thing before he can be embarrassed by it: two fingers pressed flat below the collarbone, one long breath out through the teeth. *Stand behind the hands.* The way **she** taught him—his mother—in rooms he can barely remember, before the tower, before everything. He does not know yet that the two things in his chest—the shape under his ribs and the noise behind his eyes—are answering the same question.
 
 Across the wardrobe margin, past the champagne light, a woman in a dark suit is already watching him. Not Cube security—too still, too expensive, biosecurity badge at the hip like jewelry. Soft face. Exhausted eyes. Her fingers touch her own collar once, as if checking a medal or a ring, and something in the gesture says she recognized the grounding before she recognized the boy. She does not shout. She does not need to. The hunt in this city wears suits.
 
@@ -519,11 +525,13 @@ The boy comes closer. Looks at his face the way the clerk looked at his face—t
 
 "You're late," the security chief says, reading from a tablet. "Holt. Facilities. Wardrobe power, not—" He gestures at the service lift Eli came out of, then frowns at the screen. "And a flag from below—harbor-thread room, wrong corridor. You walk like you belong and you stand like you listened." He adds, quietly, the way people manage the weather around a star: "Two songs left." The boy nods without looking away from Eli.
 
-"I can't come," he says, and it is not an apology, it is arithmetic—the dancers, the crew, the chanting town of people whose safety is his schedule. "But my show leaks. Wardrobe corridor to the freight ramps, it's cleared for my own people, and someone has already been moving bodies through my leak **today**, so one more is nothing." One corner of his mouth. "You have her face. Try to keep it."
+"I can't come," he says, and it is not an apology, it is arithmetic—the dancers, the crew, the chanting town of people whose safety is his schedule. "But my show leaks. Wardrobe corridor to the afterparty load-in, then the freight ramps once Circuit seals the streets—it's cleared for my own people, and someone has already been moving bodies through my leak **today**, so one more is nothing." One corner of his mouth. "You have her face. Try to keep it."
 
 When he looks back for the woman in the dark suit, the margin is empty. The table has already rearranged.
 
-They put a wardrobe jacket on Eli because everything in the corridor wears one. For eleven metres a barrier-gap of fans sees him and screams on principle—a surprise guest, a new member, phones up, a wall of lit hands. The corridor holds. Nobody touches anyone. Then he is through, down, out, into diesel air and the smell of hot rubber. The tire trucks are marshalling under the grandstand ribs like the city's honest machinery: black logistics under champagne light.
+They put a wardrobe jacket on Eli because everything in the corridor wears one. For eleven metres a barrier-gap of fans sees him and screams on principle—a surprise guest, a new member, phones up, a wall of lit hands. The corridor holds. Nobody touches anyone. Then he is through, down, into afterparty staging: cable crates, champagne cases, a sound check for a room that will fill when the concert empties. Outside the Cube glass, dusk is already thickening. Avenues are being sealed for the Meridian Circuit—the one night the Stack shuts its own arteries so machines can go in circles under drone light. Engines warm in packs. Screens switch from the boy's face to cars. And again—worse this time, because he has already been soft for the bloom and the concert—the cars come through the underpass like poured light, rivers of tail-lamp red mapped across the dark city, a hundred thousand faces upturned and lit, the whole vertical world dressed in its own reflection.
+
+Then diesel air and the smell of hot rubber. The tire trucks are marshalling under the grandstand ribs like the city's honest machinery: black logistics under champagne light.
 
 At the marshalling pen a convoy officer in a dark vest scans badges and manifests twice—food trucks to the left for search, tire trucks straight through if the seal matches. Eli keeps his eyes on a cable drum and lets the jacket do the talking.
 
@@ -848,9 +856,13 @@ claim.
 
 ---
 
-From the same bag the woman lifts a cloth-wrapped weight the size of a sandwich
-and sets it between them. Babaji's note is clipped to the cloth: **different tray;
-source disputed; carry, do not conclude.**
+From beside the drying wardrobe jacket she lifts the cloth-wrapped weight the size of a sandwich
+—the same cold shape that rode against Eli's ribs through the Cube, the Circuit, and the water—
+and sets it between them. Babaji's note is clipped to the cloth; she did not put it there. The case
+came with it: **different tray; source disputed; carry, do not conclude.**
+
+"You already carried it," she says, not looking at him. "I'm only making sure you know what
+you carried. And that you don't make a religion out of clay before breakfast."
 
 Under the cloth: a small clay tablet, edges soft with handling, three concentric circles cut around a single center dot. No writing. No names. Only the rings and the point.
 
@@ -863,10 +875,13 @@ it. Don't promote yourself to expert because it resembles the thing you saw whil
 you were drowning."
 
 Eli turns the tablet once. The clay is cool. The middle ring sits between the
-center and the outer—thicker than the rest, as if the carver knew the weak place.
-He thinks of his father's band in an evidence tray, two metals, one seam, *same
-soil*, and does not say it. He wraps the tablet again. Contested. Heavy. Real
-enough to carry.
+center and the outer—thicker than the rest, as if the carver knew the weak place—
+not the throne, not the edge, the place where damage and care both travel if
+anything travels at all. He thinks of his father's band in an evidence tray, two
+metals, one seam, *same soil*, and does not say it. He wraps the tablet again.
+Contested. Heavy. Real enough to carry. Whatever the rings meant when they were
+cut, the city he left and the city that drowned him both still sort people as if
+someone had already decided which circle owned which body.
 
 ---
 
@@ -884,7 +899,7 @@ Eli stands there with the co-op's street name folded into the same pocket as Sur
 
 ---
 
-They eat at dusk: rice and dried fish. Nothing, except that the platform keeper has done something to the nothing. The fish is crisped in its own fat with torn herbs from the platform's one battered pot—lemongrass and a handful of holy basil gone wild in a paint tin. The rice is finished with salted cooking water the way harbor women do it. One lime is cut six ways because the keeper, leaving on the produce truck's schedule, insisted with one look that it be everyone's. Mangrove flowers have dropped into the water under the stilts; the tide takes them without ceremony. For a few minutes the kelong is only a place where people are eating something good.
+They eat at dusk: rice and dried fish. Nothing, except that the platform keeper has done something to the nothing. The fish is crisped in its own fat with torn herbs from the platform's one battered pot—lemongrass and a handful of holy basil gone wild in a paint tin—the same green Maren crushed under his nose on the ninth floor, asking before naming. The rice is finished with salted cooking water the way harbor women do it. One lime is cut six ways because the keeper, leaving on the produce truck's schedule, insisted with one look that it be everyone's. Before she goes she touches the rail once, the way older fishers still do—ask the water before you ask the ledger—and nobody explains the habit because the habit is older than the forms that want to replace it. Mangrove flowers have dropped into the water under the stilts; the tide takes them without ceremony. For a few minutes the kelong is only a place where people are eating something good.
 
 Then, over the empty bowls, the courier lays out the trap in four sentences, which is all of it she'll spend.
 
@@ -1096,7 +1111,7 @@ The stair is not empty. Lives cling to the landings the way ferns cling to the r
 
 At a washed-out shoulder, a crew of six is winching a red truck back onto the asphalt; a monk in orange sits on the guardrail smoking and offering no advice, which is somehow useful. One switchback later, a shrine no bigger than a cupboard is thick with plastic flowers and cans of energy drink, and someone has left a fresh garland that still smells of temple markets. A school van comes down too fast and everyone hugs the cliff. The driver of their pickup swears once, fondly, as if the road were a relative.
 
-They leave the main hairpins for a spur—quieter road, mist in the cuts, a coffee slope under tin drying racks, a hand-painted board: *coffee · farmstay · slow*. Two women run it. Coffee first, no names asked, a paper twist of beans pressed into Eli's palm for the next hairpin. Wren pays for diesel. They do not stay the night.
+They leave the main hairpins for a spur—quieter road, mist in the cuts, a coffee slope under tin drying racks, a hand-painted board: *coffee · farmstay · slow*. Two women run it. Coffee first, no names asked, a paper twist of beans pressed into Eli's palm for the next hairpin. Wren pays for diesel. A tourist couple from the next table asks if the mountain is for sale as an experience package; one of the women laughs once, without heat, and says the mountain is not for sale, only the coffee, and even the coffee decides when it is ready. They do not stay the night.
 
 Back on the stair, Pai announces itself in lights and noodle steam—a landing, not a destination. They go through on the ridge road without stopping: one glimpse of a night market, a staff spun for tourists, jackets sold to people who thought mountains were a weekend. Then jungle again, and a track Wren would not admit to carrying on any map.
 
@@ -1401,7 +1416,7 @@ Here the line is wider—the eighty meters swelling toward a hundred—and it ha
 
 —which is the other thing, the thing the cooperative doesn't discuss in front of the children. Off the band's western edge sits a low field, two hectares, that nothing loves. One step down in altitude from the bund's worked life into a silence that feels like a cut wire. The rice in it germinates and stalls. The frogs skip it. Egrets land at its margin and do not walk in. It is not the old contamination. It tests clean, cleaner than clean, Malai says, and her mouth goes thin. It is just *dead*, in a way that no assay names—dead the way a socket is dead when the wire behind the wall has been cut out and carried off. Wonder and dread in the same horizon: the band singing, the socket mute.
 
-Eli stands at its edge with his palms roaring soft static, and the static, over that ground, goes *silent*—not calm: absent, a channel switched off—and he steps back from the silence before he has decided to. Behind him the sluice gates thunk on Malai's schedule without asking his opinion. The machine runs. The prize is already growing.
+Eli stands at its edge with his palms roaring soft static, and the static, over that ground, goes *silent*—not calm: absent, a channel switched off—and he steps back from the silence before he has decided to. For one stupid second he wants the dead field to be a coded message left for him—a blank on a map that means *go here*—and the want itself feels like the Cube's glass orchard: appetite pretending to be reading. The socket does not care what he wants. Behind him the sluice gates thunk on Malai's schedule without asking his opinion. The machine runs. The prize is already growing.
 
 They document for two days under the cooperative's control: stake maps, water and
 soil in labeled vials, polarity readings on the extension office's instruments,
@@ -1946,17 +1961,17 @@ A coffee truck that smells permanently scorched. A school administrator who lets
 
 Nobody knows the whole route. Nobody is impressed by Eli.
 
-At the Lao freight platform the licensed man has already gone home. The border board is wet with rain and a printed notice: **CROSSING SUSPENDED — TEMPORARY SECURITY / ENVIRONMENTAL REVIEW.** Temporary has the look of a word that will outlive the people waiting under it. A woman selling boiled eggs says the same rising emergency that is emptying the northern museums has closed the Laos gate first—evac notices, contractor convoys, something about a research campus that will not name itself.
+At the Lao freight platform the licensed man has already gone home. The border board is wet with rain and a printed notice: **CROSSING SUSPENDED — TEMPORARY SECURITY / ENVIRONMENTAL REVIEW.** Temporary has the look of a word that will outlive the people waiting under it—an older appetite for deciding who may pass, wearing today's fonts. A woman selling boiled eggs says the same rising emergency that is emptying the northern museums has closed the Laos gate first—evac notices, contractor convoys, something about a research campus that will not name itself.
 
 Dara reads the notice twice. "North through Laos is dead."
 
 "Edda's line still runs," Wren says.
 
-"Edda's line is not mine." Dara turns the map. "Vietnam. Then Yunnan if the rain allows. My cousin drove coffee that way before the Hinge. He said the old clearance maps lie now."
+"Edda's line is not mine." Dara does not look up. "You saw the intake square. Palm, face, blood spot—one clean chain to a form with Mandate letterhead. Cross a working checkpoint now and that chain reads you before you finish walking through it. I do not care whose hand is really under the stamp. I care that the stamp exists." She turns the map. "Vietnam. Then Yunnan if the rain allows. No checkpoint worth the name for two hundred kilometers. My cousin drove coffee that way before the Hinge. He said the old clearance maps lie now."
 
 "Lie how?" Eli asks.
 
-"The bombs move when the water rises." She stamps a new sheet hard enough to bruise the carbon. "Walk like you belong until something under the mud proves you don't."
+"The bombs move when the water rises." She stamps a new sheet hard enough to bruise the carbon. "Walk like you belong until something under the mud proves you don't. Mud does not run your palm through a registry."
 
 ---
 
@@ -1964,7 +1979,7 @@ The Vietnam road arrives as monsoon before it arrives as road.
 
 Rain thick enough to erase the hills. Red mud that climbs the wheel wells and then the floor mats. Banana and cassava cling to slopes that should not hold them. In the low places the brown water stands in fields that were once marked *cleared*—old American war language still on the district boards, faded, with no one left to keep the promise. A sign at a fork shows a skull and a boot and a date from before Eli was born. Under it, in newer paint: **DO NOT FOLLOW STANDING WATER.**
 
-They change to a high-clearance produce truck outside Điện Biên. The driver is a woman who will not take passengers who ask too many questions about the cargo. Dara becomes commercially offended in Vietnamese that Eli does not have; Wren becomes quiet in a way that means she is counting exits.
+They change to a high-clearance produce truck outside Điện Biên. The driver is a woman who will not take passengers who ask too many questions about the cargo, and will not take anything that leaves a record either. Dara pays her in gold weighed off a strip sewn into her jacket hem—the currency that survives when a permit does not—and the driver bites a corner off one piece before it disappears into her own seam. No receipt. No name asked. Dara becomes commercially offended in Vietnamese that Eli does not have; Wren becomes quiet in a way that means she is counting exits.
 
 For three hours the plan works.
 
@@ -1980,7 +1995,11 @@ Eli feels nothing special in his palms—no sacred warning, only the ordinary dr
 
 She walks the verge with a stick, testing, the way Malai walks a bund. The stick finds something once—a dull *tock* under silt—and she marks it with a scrap of red plastic from a fertilizer bag and goes around. Wren follows her line. Eli follows Wren's. The truck creeps after them in first gear while rain finds the collar of his jacket and the bright wire in his skull lights for reasons that have nothing to do with talent.
 
-On the far side a stand of bamboo has grown through an old concrete pad. Lotus pads hold a still pool where a farm once was. A child watches them from a porch and does not wave. The driver lights a cigarette with hands that do not shake and says, almost kindly, "You are late for being afraid. Good. Fear makes you step wrong."
+On the far side a stand of bamboo has grown through an old concrete pad. Lotus pads hold a still pool where a farm once was. A child watches them from a porch and does not wave. Behind the child, a man works a fish trap in water that used to be a rice paddy, one arm curled short against his chest and never straightened, moving with the ease of a limb he has always had rather than one he lost. On the next porch a woman feeds ducks from a chipped bowl, counting them aloud as they come—four, four, four—the way people count something they have learned not to expect to stay whole. Nobody in the yard looks at the truck as if a truck were unusual. Only the mud gets that look.
+
+Eli's ledger reaches for this the way it reached for Salmah's boat, the Thai voice gone quiet, and finds nothing to write. No border closed to make this. No permit expired. Only decades, and water that never stopped carrying what was put into it.
+
+The driver lights a cigarette with hands that do not shake and says, almost kindly, "You are late for being afraid. Good. Fear makes you step wrong."
 
 They sleep that night in a tin-roof shed smelling of wet rice sacks and diesel. Wren checks her tablet for house messages and finds one from a Chiang Rai contact: Ros's cousin asked if the boy with the loud hands was worth a closed border. Wren does not show Eli the message. She shows him the rain instead.
 
@@ -2186,6 +2205,8 @@ Another says maybe the makers never finished.
 A third says old things break.
 
 The teacher accepts all three and moves them along.
+
+Eli almost invents a fourth—that the missing top is waiting for him, a prophecy with his name filed under bronze—and catches the hunger before it hardens. The room does not owe him a trunk. It owes him weather and interval and the patience of a thing that branched without asking permission.
 
 Only after they are gone does Eli's noise settle into a direction.
 
@@ -2596,7 +2617,7 @@ Water does not choose one place.
 
 The conservation traces were never simultaneous. The life was in the delay.
 
-He stops trying to hold one perfect count.
+He stops trying to hold one perfect count. The hunger to be the central rhythm—necessary enough that family cannot leave—does not vanish; he simply refuses to feed it the only breath he has. The living world does not need one master meter. It needs mismatch that still answers.
 
 With his right hand he taps four against the culvert wall.
 
@@ -2876,609 +2897,6 @@ West is not home yet. It is only the next door that does not own them.
 
 ---
 
-## APPENDIX — RELOCATION QUARRY FROM THE FORMER BOOK I ENDING
-
-> Everything below this heading is preserved development material, not part of the current reader sequence. Mesopotamia and Göbekli will be adapted into Book II.
-
-## RETIRED ROUTE QUARRY—Chapter Eleven—The Gulf Corridor
-
-> **Not reader-sequence canon after 2026-07-26.** Preserve Edda's true offer, Zahra, the human-doors cost, and the registration dilemma for adaptation to the northbound Sichuan route. Gulf geography and the Göbekli clock move to Book II.
-
-The west is not a direction. It is a bureaucracy.
-
-That is the education after Thailand, after the half-burned record and the night the pumps failed, after Malai watched their boat become a heartbeat on the water and did not wave.
-
-At an Andaman fuel anchorage the agent lays three routes across a chart with a chipped teacup holding down each corner.
-
-West is containers and human doors.
-
-North is Bangladesh.
-
-Eli sees the green before he reads the names. Four days by coastal boat if the patrols are lazy. Two more inland. Pond water under jackfruit shade. Rasel's lime cuttings behind Shireen's building, if the photographs have not lied. He puts one finger on the river road and leaves it there.
-
-His phone catches a signal from shore.
-
-Shireen's message has been waiting eleven hours.
-
-*Babu, don't come home. They asked at the union hall again. Not police. Good shoes. Clinic says lie down; I'm fine. Khachis na?*
-
-Then a photograph: Rasel's garden in Dhaka, still green, someone else's hands tying up the beans. A lime tree Eli does not remember planting because he was too young when they fled. In the corner, almost outside the frame, the red plastic chair his father repaired with wire three separate times rather than buy again.
-
-A second message arrives while he looks.
-
-*The village would feast you. That is the problem. Your face is her face. Four days is a photograph at the bazaar.*
-
-The agent pretends to study a fuel invoice. Wren stands by the open slats with one shoulder to the room, watching the tender traffic. Nobody tells Eli what to do.
-
-"How old is the picture?" he asks.
-
-"This morning," the agent says.
-
-"The patrol window?"
-
-"Not my route."
-
-"You put it on the chart."
-
-"Maps include cliffs."
-
-Eli enlarges the photograph until the wire on the chair becomes a gray ladder of pixels. He can go home. Not safely, not intelligently, but physically. Four days north. Shireen's clinic deposit paid late because he promised a Sunday transfer from a job that became a manhunt. His father's garden being kept by hands that are not his. A village prepared to feed him and therefore betray him without meaning to.
-
-He types three answers and deletes them.
-
-*Coming.*
-
-*Leave now.*
-
-*Tell me where Amma put the documents.*
-
-What he sends is: *I ate. Wire cleared?*
-
-The lie is so ordinary it hurts worse.
-
-Her reply comes at once. *Cleared. Don't be a hero. They are only useful at funerals.*
-
-The signal drops.
-
-Eli lifts his finger from the north road.
-
-"West," he says.
-
-Wren turns from the slats. Her face gives him nothing generous enough to resent. She folds the Bangladesh corner under the chart and sets the teacup on it.
-
-"West," she agrees.
-
-That is the first border.
-
----
-
-The Gulf, after so much green, is metal.
-
-At Sohar the heat comes off the container stacks after sunset as if the day has been stored for later use. Cranes move above the port with their red lights blinking, patient mechanical birds picking through a city made entirely of locked rooms. The shipping agent's office occupies the back half of a refrigeration repair shop. Compressors crowd the front. The door between the businesses does not close, so every conversation occurs under the cough and start of machines trying to keep food alive.
-
-The agent is a widow named Zahra al-Harthi who wears a grease-dark shop coat over an immaculate blue dress and distrusts Wren by name.
-
-"Last time your people used my truck," she says, "it returned with someone else's axle."
-
-"The axle was better."
-
-"The axle was stolen."
-
-"Better and stolen can occupy the same object."
-
-Zahra looks at Eli. "She talks like this when she owes money."
-
-"She talks like this all the time."
-
-Zahra's mouth twitches despite herself. Wren sees it and chooses not to collect the victory.
-
-On the worktable, beneath a fan that only rearranges the heat, lies a detention transfer copied onto thermal paper. The print is already fading.
-
-**MALE. EST. 60–70. MALACCA INTAKE.**
-
-**NONCOMPLIANT MEMORY OF CARTOGRAPHIC INTEREST.**
-
-**TRANSFER: WEST CORRIDOR / STAGE TWO.**
-
-No name. No destination. In the intake photograph, half obscured by another detainee's shoulder, is Hassan's left hand. Two fingers curl around something under his shirt. The cord shows at his neck.
-
-Eli knows the hand because it was the hand that held out his father's ring and
-failed to reach him before the river closed.
-
-"Alive at this stamp," Zahra says. "Nine days after Malacca."
-
-"Where did this come from?"
-
-"Someone who has decided not to decide yet."
-
-Wren studies the discrepancy code at the bottom. Her thumb finds the blank place on her wrist where a private slate would be if the port were safe enough to wear one.
-
-"Sora," she says.
-
-It is the first time Eli has heard the name.
-
-"The woman from the Cube?"
-
-"The woman who could have closed her hand and didn't."
-
-"One of them is helping us."
-
-"One of them moved a number from one column to another." Wren gives the paper back to Zahra. "Do not turn a clerical betrayal into a conscience until it costs her."
-
-The repair-shop door opens. Emrys comes in carrying two coolers and a sunburn distributed with scientific precision everywhere his hat failed to cover. He sets the coolers down, refuses water, accepts water, drinks all of it, and spreads a consortium circular over Hassan's transfer sheet as if bad news has to compete for table space.
-
-Şanlıurfa. Taş Tepeler. Conservation decision ratified and funded.
-
-Backfill.
-
-An excavated sector at Göbekli Tepe—including the screened enclosure behind the fox pillar—will be reburied on a hard calendar date. Whatever can still be measured cleanly will disappear under protective earth for at least a generation.
-
-"Sixteen days," Emrys says.
-
-Zahra reads the date. "Your northern human route is twenty."
-
-"Nineteen if nobody gets married."
-
-"Somebody always gets married."
-
-Emrys takes off his glasses and cleans lenses that are not dirty. "There is an institutional convoy in six."
-
-Nobody told him about it. The silence says so.
-
-Zahra pulls a gray intake tablet from under the workbench. "Biosecurity contractor. Refrigerated medical freight, staff rotation, controlled passage at every land gate. Three spaces. Clean papers at the far end."
-
-"Price," Wren says.
-
-"Palm, face, blood spot. Live intake. No substitutions."
-
-Eli looks at Hassan's photograph beneath the circular. Six days puts them north before the backfill crews seal the enclosure and before Hassan's transfer trail cools completely. Twenty days leaves them arriving in the last weather of the permit, if they arrive at all.
-
-Emrys says, "We give them one scan they almost certainly have already."
-
-"They have pictures," Wren says. "Not consent. Not a clean chain."
-
-"The distinction will comfort us when the hill is closed."
-
-Zahra wakes the tablet. It asks for a contractor token. She supplies one from a card kept inside the lining of her coat.
-
-The intake screen does not open.
-
-Instead a woman's face fills it.
-
-Captain Edda Voss has removed the suit she wore in Malacca. Without it she looks less official and more tired. Pale hair scraped back. A bruise yellowing along one jaw. Nothing behind her but a white wall and the small mechanical sound of filtered air.
-
-"Eli Holt," she says.
-
-The recording was waiting for his token.
-
-Wren reaches to kill the screen. Eli catches her wrist.
-
-Not hard. Enough.
-
-She looks at his hand. He lets go.
-
-Edda continues.
-
-"Rasel Khan is alive."
-
-Nobody in the room moves.
-
-"Eastern Mandate research custody. Claim category: physicist. I have a current verification, not a rumor. Use the protected intake offered to you and I will release the first page before transit. Complete voluntary assessment at destination and I will request contact."
-
-Emrys looks at Eli, then away.
-
-On the tablet Edda glances down, once, at whatever script or conscience sits below the camera.
-
-"You believe we are hunting you because you are Maren Holt's son. That is partly true. You are also an untrained carrier who opened in a public market, entrained bystanders, and has since crossed four jurisdictions while broadcasting a signature you cannot control. In the Thai valley, eleven people were injured during a contest over ground you helped expose. One remains unable to speak."
-
-Eli sees the Custodian sitting down in the rice. The children on the bund. The pump house burning.
-
-"I did not attack the field."
-
-Edda cannot hear him. The recording continues anyway.
-
-"Captain Voss's offer is limited to six hours. It is safer for the people moving you than the route you are currently considering. Ask Wren what happened to the last household inspected on her behalf."
-
-The screen returns to intake.
-
-For a moment the only sound is a compressor failing to turn over in the front shop.
-
-Zahra reaches past them and switches off the tablet.
-
-"She is correct about one thing," she says. "My truck is safer with you on their manifest than under my floor."
-
-Wren's face closes.
-
-"Whose household?" Eli asks.
-
-"Not now."
-
-"Told first."
-
-The words land between them. Their agreement at the river, brought out for its first hard use.
-
-Wren looks toward Zahra. Zahra gives one small nod.
-
-"Penang," Wren says. "Two years ago. A route burned after I moved a carrier through a family kitchen. The family lost the lease. One son disappeared for nine days. He came back."
-
-"How?"
-
-"He doesn't say."
-
-Emrys puts both hands on the worktable. "The offer contains proof of Rasel."
-
-"It contains the promise of proof," Wren says.
-
-"From a woman who told the truth about the valley."
-
-"A jailer can count."
-
-"And a fugitive can make captivity sound like the only moral danger in the world."
-
-That one reaches her. Wren goes still.
-
-Eli looks again at the dead intake tablet. His father alive behind a door Edda can touch. Six days. A scan. A first page. Perhaps a voice. Perhaps Rasel's hands without dirt.
-
-The old engine does not come as a roar. It comes reasonably.
-
-*One file already exists. One more cannot orphan you twice.*
-
-He knows that voice now.
-
-Knowing it does not make it weak.
-
-"Can the convoy take only me?" he asks.
-
-Wren's answer is immediate. "Yes."
-
-Emrys's is, "Boy—"
-
-"Could it?"
-
-Zahra studies the powered-down tablet. "It could."
-
-Eli waits for Wren to forbid it. She does not. That is worse and better.
-
-He puts his palm on the intake glass. The machine stays dark under it.
-
-Four in.
-
-Six out.
-
-Not a vote. Not an omen. A body under pressure and time leaving the room.
-
-If he enters, Zahra's truck stays clean. The hill remains reachable. His father becomes one page less imaginary. Wren and Emrys continue without him.
-
-And his body becomes the credential through which every door after this one may claim to know him.
-
-He lifts his hand.
-
-"Human doors."
-
-Emrys turns away sharply enough to make the fan lift his shirt at the back.
-
-Wren does not thank Eli. She picks up Hassan's fading transfer sheet and holds it beside the consortium date.
-
-"Then we have fourteen days to make a twenty-day road."
-
----
-
-They make eleven before the road collects its price.
-
-Zahra drives the first freight leg herself because the refrigeration unit has begun cutting out and because, she says, if Wren is going to return another truck with the wrong axle she wants to witness the crime.
-
-Eli and Emrys ride behind crates of insulin packs and veterinary antibiotics whose paperwork is more complete than theirs. Wren rides in front with a ledger open on her knee. At each gate Zahra becomes a different version of impatient: commercial at the port, familial at the district road, magnificently offended at a military barrier where a boy young enough to be her nephew asks her to open the refrigeration compartment in forty-degree heat.
-
-"You spoil it, your commander buys it," she tells him.
-
-He looks at the seal. Looks at her. Waves them through.
-
-Human doors.
-
-At the next crossing the door is a woman selling tea from a caravan who takes Zahra's empty medicine cartons and gives back three worker badges. At the next it is a mechanic who removes the tracking unit from the truck and installs it on a bus going south. At the next it is a wedding convoy—somebody always gets married—and Zahra's refrigerated truck disappears among horns, ribbons, and twelve cars whose drivers consider lanes a colonial rumor.
-
-For six hours the plan works.
-
-Then the border post receives Edda's correction.
-
-The gate comes down behind them as well as ahead.
-
-Wren sees it in the side mirror. "Don't run."
-
-Zahra's hands stay loose on the wheel. "I was not asking."
-
-Two officers approach the cab. A third walks toward the refrigeration doors with a handheld scanner.
-
-Under the crates, Eli's palms begin to roar.
-
-Not the field. Not the dead. Four human signatures outside, one afraid, one bored, one carrying the tight hard quiet he felt before the white vehicles entered Malai's valley. A carrier, weak or shielded, traveling with ordinary customs.
-
-He touches Emrys's sleeve and points once toward the doors.
-
-Emrys nods. Takes off his glasses. Puts them back on.
-
-The latch turns.
-
-From the cab Zahra begins shouting.
-
-Not pleading. Shouting about temperature excursions, chain of custody, ruined insulin, the officer's badge number, his supervisor's mother's competence, and the exact invoice she will send the ministry when children die because a man with a scanner wanted to feel tall.
-
-The latch stops halfway.
-
-The carrier outside reaches.
-
-Eli feels the probe as a hand laid against the inside of his skull.
-
-His old injury lights white. Names loosen. The crate edge becomes the rail of a dinghy, then a hospital cot, then nothing he can keep. Panic supplies the next instruction: push back, hard, make the reaching mind recoil.
-
-He gathers without knowing how.
-
-Emrys sees his face. "Cup," he whispers.
-
-There is no cup.
-
-Eli closes both hands around the cold metal neck of an insulin case.
-
-Temperature. Weight. Condensation under his thumb.
-
-Four in.
-
-The probe presses.
-
-Six out.
-
-He does not push. He lets the fear move through without giving it a direction.
-
-Outside, Zahra throws the truck into gear.
-
-The half-caught refrigeration door tears the scanner from the officer's hand. Wren has the gate lever—Eli never sees how—and the barrier rises one meter, not enough for the truck, enough for Zahra to aim at the rotten hinge instead of the striped arm. Metal folds across the windshield. The wedding ribbons catch on it and snap free behind them.
-
-Gunfire does not follow.
-
-Authority follows more efficiently.
-
-By sunset Zahra's commercial license is suspended across three ports. Her truck appears on every inspection list between the Gulf and the river. The refrigeration unit finally dies in a date grove twelve kilometers from the next human door.
-
-They move the medicine into two farm vans while it is still cold.
-
-Zahra stands beside her useless truck reading the suspension notice on Wren's slate. She reads it twice. Hands the slate back.
-
-"My husband built that license," she says. "Thirty-one years without a missed renewal."
-
-Wren says, "I can place the truck south. New plates."
-
-"I did not say truck."
-
-No one speaks.
-
-Zahra looks at Eli. He would prefer anger. What she gives him is accounting.
-
-"The officer at the door had a seizure after we left. Your people say you did not strike him."
-
-"I didn't."
-
-"Good." She wipes grease from her thumb onto the shop coat she still wears. "Then I lost the license for a choice I made, not an attack you hid from me. Keep that distinction. It is expensive."
-
-She takes one of the farm vans and the spoiled temperature logger. The other carries them north.
-
-Human doors do not mean costless doors. They mean the person paying can look back at you.
-
----
-
-They reach the river country with two days left before the permit window narrows to staff and contractors.
-
-Rice has given way to wheat. In a stubble field beyond the road, the wheat is coming up drunk—a darker band arcing north, ignoring parcel lines, patient as weather.
-
-Emrys asks the driver to stop.
-
-Nobody does. There is no time.
-
-Eli watches the band through dust until the road bends and loses it. North, where the hills hold the oldest stones in the world. North, where Hassan's transfer turns west again on a line Sora risked enough to leak but not enough to break. North, where Edda has proof of his father and now knows which doors he chose instead.
-
-On the floor between his boots, Zahra's dead temperature logger blinks one red number until its battery gives out.
-
-The road keeps going.
-
----
-
-## RELOCATION QUARRY—Chapter Twelve—The Old Wound at Ground
-
-> **Not Book I canon after 2026-07-26.** Move the Mesopotamian archive, Refusal / Sorting / Fade material, and uncertainty discipline into Book II before Göbekli.
-
-The charged ground in the river country is a tell—signature geometry: a town-mound of stacked millennia, a ruined shrine on its crown, strata you can read with your feet if you are foolish enough to climb. It is nothing like the confluence stone.
-
-From the road the mound is only baked mud and broken brick, patient as debt. Heat shimmers. A goat path corkscrews up past pottery sherds the color of old teeth. For one held breath Eli lets it be a hill with a crown—workers' lunch tins in the shade, a transistor radio playing a football match from a century that still believes in football, the ordinary machine of a site that digs and eats and goes home—before the pressure layers find him and the courtroom opens.
-
-Wonder first: the mound against a hard blue sky, so old it looks soft, the shrine a broken tooth of brick catching sun. Then dread in the same inhale—the soft lie of the place arriving with the beauty: *one wound. one sermon. climb and be made important.* Emrys's needle agrees and then bends past agreement into a range he has no calibration for.
-
-The stone at the confluence was a voice in a quiet room. The tell is a *courtroom*, and the sessions never ended. Eli feels it from the road: not a pull but a pressure, layered, argumentative, old grief stacked on older grief like the strata themselves—altitude as time, each step up a different century's ask.
-
-"Sit before, not after," is all Emrys says, laying out the drill, hands not quite steady. "And boy—at a place like this, hold the count like a rail. This ground has had millennia of people asking it to make them important. Different centuries. Different asks. Do not mash them into one sermon."
-
-The thread that takes him is not important. That is the first mercy, and the last.
-
-Watched-depth, this time—not standing in a life but *shown* one, at remove, like testimony: a man in a reed-and-brick office, ledgers in clay, a scribe or steward or sage—the thread renders him with a title worn smooth to *Uanna*—a careful man, a *good* man in the way institutions certify goodness: obedient early, obedient often. And the vision's single scene, compressed like a seal impression: the man offered something—food that is more than food, in a setting that is more than a meal, a doorway standing open in the fabric of what he is permitted—and the man, *because he had been instructed, because obedience had always been the safe read*, declining. Refusing the bread. Choosing the rule over the door.
-
-And then the length of a life after, rendered as a corridor of identical rooms, comfortable and shrinking; and at the end of it the man's own late understanding arriving like frost: that the instruction he obeyed had been engineered precisely so he would obey it, that his discipline was the lock, that *obedience closes the path to life*—and that the ones who instructed him knew.
-
-Eli comes back with his hands cold and the count still held, and no tears this time. The tell does not deal in grief. It deals in warnings. Emrys, watching his face, will not let him collapse the thread into the later tablet they are about to open. "Related office," he says. "Not the same calendar day. File them beside each other. Do not weld them."
-
-The ground gives one thing more, material and disputable: in the shrine's robbed-out foundation, where every faction's survey has been and gone, a broken stone plaque the size of a hand—grammar older than the tell, argued over by every dealer and curator in the corridor. Two curators in the nearest city give them two incompatible readings the same afternoon; a third, older, keeps it under glass with a label that says only CONTESTED, which Emrys pronounces the most honest word in Mesopotamian archaeology. But under the disputed grammar, undisputed, cut deep: a mark. A spiral, coiled inside the outline of an eye.
-
-Eli's palms know it before anyone speaks. The noise leans toward the little stone the way the rice leaned toward the band.
-
-"It recurs," the old curator says, watching him with care. "North of here, in the hills, on the oldest material there is. The diggers call it the selection mark." He taps the glass, once. "No one who uses that name can tell you what was being selected. Or by whom. That, young man, is the whole business of this country: we have the receipts of decisions no one alive was consulted on."
-
----
-
-The packet arrives smelling of flood-mud and photocopy toner—one string, three leaves, a provincial storeroom stamp half scrubbed. Emrys will not let them open it on the shrine steps. He waits for a table with weight on it: borrowed archive room, shuttered against the afternoon, tea going cold because nobody remembers to drink.
-
-He sets the first leaf down like a hot plate.
-
-"Adapa lacuna," he says. "Scholar name. On the water—"
-
-"The Refusal," Wren finishes, already leaning over Eli's shoulder. "Don't fill the hole for him."
-
-The photograph shows clay with a bite taken out of the story. What remains is enough to hurt: reed boat, South Wind, heaven's door, bread and water offered under a warning the man cannot check. He refuses. Eli's finger finds the white gap where the decisive line should be and stays there, as if pressure could raise ink. Emrys has written a date on a sticky note and stuck it to the folder edge—*early sail / fifth mill., provisional*—then a second note in smaller hand: *not garden. not drought.*
-
-"Uanna on the hill was office," Emrys says, watching Eli's face for the weld. "This is a different day. Related. Not the same."
-
-Eli reads what is present twice. The third time he only looks at the absence. He does not write into it. When he closes the folder his hands are colder than the tea.
-
-The second leaf is thinner—squeezes, broken lines, a beer-stained joke of gods making people who will not fit. Emrys translates as far as the text holds: odd bodies, then fate, bread, place. Then the run breaks on a name he will not soften.
-
-"Umul," he says. "Ninmah can't slot him."
-
-In the margin, in a hand Eli knows too well to trust at first sight: *held before healed.* Wren taps the break once, light. "Threshold houses call that the Unplaceable. Don't file him as scrap."
-
-"Street name for the whole leaf," Emrys prompts, glasses low.
-
-"The Sorting." Wren's voice is flat, operational. "We seed it. We do not solve it here."
-
-Eli photographs the margin. He does not pretend he understands the care-work yet.
-
-The third leaf is a column of reigns that begin impossible and then, after a Flood line someone has underlined three times in three inks, climb down toward numbers a body could wear. Eli's first impulse is the drawer of genealogies they saw yesterday—the few names swelling while families stop being written. Emrys's hand comes down on the page before he can say it.
-
-"Different argument," Emrys says. "Those are winners concentrating. This is duration contracting. The Fade. Do not put them in one pocket because both make you sad."
-
-Wren has already written *The Fade* on the folder tab in harbor block letters. Emrys leaves it.
-
-Two more leaves are clipped to the string, not inside the triad title. The first is a garden door and a barring—Emrys's pencil in the corner: *~3700*. Eli starts to say *same as Adapa* and stops when Wren's look arrives first.
-
-"Churches downstream call that the Exile," she says. "Later. Rhyme, not twin. Refusal, Sorting, Fade—and later, the Exile. Say it wrong and you'll marry a priest to a drought."
-
-The second clipped leaf has no hero: dust counts, salt crusts, canal abandonment notes, a grain failure table someone photocopied crooked. Emrys's note: *~2200. Fields. Not a boat day.*
-
-That afternoon Eli walks a dry canal bed until the chalk of salt is in his shoes. No vision. No courtroom. Only heat and the shape of a river that stopped answering. He comes back without trying to put the hunger in the same sentence as the Refusal.
-
-On a lower shelf Emrys finds the transfer story and nearly hides it under a blotting pad, then doesn't. Inana at Eridu. Functions loaded into a boat. Uruk waiting. Wren names it before he can lecture.
-
-"The Taking."
-
-"*Arta*," Emrys offers once, as if tasting a foreign coin. "Fitted capacities. Not files." He looks at Eli. "Whoever holds the Taking teaches a city what to want. Your registries are the grandchildren. Ugly ones."
-
-The ordinary receipts are worse because they do not need myth: grade lists, marriage tallies, fatherhood seals, whole lines that simply end. Eli tries, one evening, to draw a single arrow—ground to granary to household to body—and the old curator makes him write the gaps beside it until the arrow looks like a wish. Emrys stamps the page **working hypothesis** and will not let him promote it.
-
-On the wall Emrys makes Eli chalk three stacks and keep them apart with his own hand:
-
-*Refusal — early sail*
-*Exile — ~3700*
-*climate — ~2200*
-
-When Eli says *the ancient wound* once, tired, Wren points at the chalk and does not speak. He erases the phrase himself.
-
-The last evening Emrys fills the Refusal's lacuna from Maren's notebooks—too neat, the wish smoothing the clay into text. Eli catches it because he has learned the man's face when map beats territory. Emrys blinks, looks again, and scrubs the line out hard enough to tear the working copy.
-
-"Thank you," he says, stiffly, and then, quieter: "She used to catch me at that. Twenty years, nobody's caught me at that."
-
-North, then—not because the packet explained itself, but because every disputed thing they can still hold points the same way: the selection mark, the empty line Eli refused to fill, the Unplaceable break, the Fade's falling numbers, the band in the wheat, the hills where the oldest enclosures sleep under their own backfill. The calendar in Emrys's pocket counts down the days until the newest backfill joins them.
-
----
-
-*On the record — author only (not reader text)*
-
-1. **Demographic bottleneck.** The post-Neolithic Y-chromosome bottleneck (a collapse in effective male lineage diversity, roughly 5000–3000 BCE, plausibly social in mechanism) is real published science. The narrowing genealogies and caste-filtered fatherhood shown here dramatize the mainstream "competing patrilineal kin groups" reading; the story's control-order interpretation is fiction layered over genuine data. Keep separate from **The Fade** (King List declining reigns) and from the **4.2 ka** climate witness (~2200 BCE).
-2. **Human-Design Triad + street shelf.** Adapa lacuna, Enki and Ninmah, and the Sumerian King List are real literary traditions; the novel's single archive packet, street names (**The Refusal · The Sorting · The Fade**), and strategic lacuna are story framing. **The Exile** and **The Taking** (Inana and Enki / Arta under the hood) rhyme beside the triad; they are not fourth and fifth packet titles. Full shelf: `35` § *Artifact street shelf*.
-3. **Chronology.** Adapa boat-day (~5500–4000 BCE early-sail window), Adam/Exile (~3700 BCE), and 4.2 ka (~2200 BCE) are kept as separate dials on-page; do not collapse into one person or one catastrophe.
-
----
-
-## RELOCATION QUARRY—Chapter Thirteen—Göbekli and Loss
-
-> **Not Book I canon after 2026-07-26.** Preserve the consortium conflict, Bridge object, Emrys map-over-territory failure, civilian geometry, and action language for Book II. The Book I climax is now Sanxingdui per `58_sanxingdui_climax_lock.md`.
-
-Şanlıurfa in the permit window's final week is a city with too many rental four-wheel-drives and too many men whose sunglasses cost more than the hotels.
-
-The consortium holds a presentation in a conference room with simultaneous translation and pastry: satellite maps, drone footage, and a branded rendering of the past. Six stone troughs, the presenter says, laser pointer circling; nearly a thousand liters of capacity; *a brewery, ladies and gentlemen—beer as payroll. Organized labor, managed provisioning, the first wage. Civilization begins as a labor contract*—and on the screen, seamlessly, the labor contract begins to look like a license: heritage as precedent, precedent as ownership, the sealed enclosure as the natural property of whoever best monetizes its meaning.
-
-Emrys stands up in the question period the way other men throw punches.
-
-Vessel capacities, he says, actual and published: roughly four hundred fifty liters *total, theoretical*, across contexts that are not even contemporary with each other; residue work supporting cereal porridge and gruel at least as strongly as fermentation; feasting, yes—provisioning, yes—but the evidence showing *gathering*, reciprocity, seasonal cooperation, not a payroll office in the hills. "You have taken uncertainty," he finishes, glasses shaking slightly in his hand, "and rendered it as an invoice. The stones deserve a better accountant."
-
-It wins the room's laughter and loses the war: the consortium does not need to be right, it needs to be *cited*. But it puts the group's faces in that room, on that camera, in that week—Emrys's old defiance announcing to every faction at once that the people the bulletins warned them about have arrived.
-
-That evening the old city feeds them anyway, because it has been feeding arrivals for nine thousand years and is not about to make an exception for the doomed. A courtyard lokanta under a mulberry tree: lahmacun blistered at the rim, isot pepper dark as dried blood and twice as alive, tea in tulip glasses refilled by a boy who keeps score in chalk, and at the end künefe brought out molten, pistachio-green and shameless, with three forks. Emrys eats his grief. Wren eats like a woman doing inventory and then, quietly, has seconds. Nobody talks about stones for one entire hour, and the mulberry drops a leaf in the tea, and the city holds them the way it has held every pilgrim who ever came up from the plain wanting something from the hills.
-
-The site, when they finally stand on it, is smaller than the age of it and larger than the pictures. Signature geometry, already in his knees: the hill swelling under the skin of the plain, the fox pillar at the public rope, the sealed enclosure he cannot see and cannot stop leaning toward. Circles of T-pillars with long hands folded at their bellies—beings rendered by people who could not or would not show their faces. Civilians at every grade of altitude: dig workers in the trenches, tourists on the boardwalk with phones up, tea sellers under a tarp, two soldiers bored under a flag. The machine that runs without him is already running—tickets, ropes, a guide explaining troughs in three languages, the consortium's story still sticky from the conference room: *civilization begins as payroll; the past is ours to invoice.*
-
-Wonder before the lean.
-
-Rain on limestone. The fox pillar wet and animal and patient. For one held breath Eli lets the hill be only a hill—folded hands, cold stone under his palm through the air he does not yet touch, older than any file that ever hunted his mother—and something in him that is not the noise goes quiet with awe. *People stood here and meant it.* Then the soft lie cracks into dread in the same room: the sealed door behind the public story, the complete record singing its trap, the place pretending the past can be owned. The noise goes quiet and directional as it has ever gone—a door, the oldest door, and behind it something neither dead nor alive—*waiting*, the way instruments wait.
-
-Before the night routes, they are allowed—because tourists are allowed—ten minutes with a finds case in the site museum annex: small stones under glass, labels in three languages, a guard who has seen every kind of wanting. Emrys stops at a plaquette no larger than a palm: three carved marks in a vertical stack. Snake. Tree. Bird. On the water they will call it **the Bridge**; here it is still a museum label.
-
-Eli's first read is the one the postcards sell. Garden. Tempter. Exile. The Refusal's empty line and the Exile leaf from the river archive lean toward that story like hungry relatives. He almost says *Eden* aloud.
-
-"Guardians," Emrys says, before the word finishes forming. He is already drawing the other split on the glass with a finger that does not touch: under-route and sky-route, two functions flanking a living conductor. "Or low ground, living ground, high ground—if you grew up with charged soil instead of churches." A keeper from the network, the one who vouched the east cut, stands a half-step back and does not correct either of them. Her silence has the weight of a third map she will not donate to a permit week.
-
-Nobody says alien. Nobody says seed from the sky. The Bridge stays a partial diagram—three symbols before later theology compresses them—and Eli's palms recognize the tree the way they recognized the Circles' middle ring: the place things meet, not the place a throne sits. Wren photographs the label, not the stone. "Half a reading is still a reading," she says. "Do not invent the other half because you miss your mother."
-
-They leave the case. The hill is still waiting.
-
-They have three days, one route, and one argument.
-
-Emrys's route is a map: a backfilled service trench from the older excavations, running under the screening line—surveyed, drawn, in the archives, *his* kind of true. Wren's route is the living one: the seasonal water, the grass growing wrong along a buried cut further east, the polarity thread Eli's palms can follow like a hand-rail—slower, uglier, unmapped. The night watchman the network vouches for confirms the east cut exists. The archive confirms the trench. They cannot do both.
-
-"The trench is *documented*," Emrys says, and there it is again—map over territory, the wish smoothing the ground—and this time Eli catches it and cannot stop it, because this time the man is not reconstructing a tablet line. He is forty years and one guilt too deep. "Her notes marked the trench. She meant to come here, boy. I am not walking past her route to follow grass."
-
-He goes at the wrong hour, to the wrong door, trusting the drawn world. The trench is real. It is also six years re-collapsed at the far end—the live ground knew; the grass over it grows *right*—and the noise of his digging brings the consortium's private security at exactly the moment the Custodians' watchers, drawn by the presentation, converge to see what the consortium has caught.
-
-What happens next happens in nine minutes, and Eli will spend years unpacking them.
-
-The compound wakes in layers—floodlights, radios, one warning shot that sends the shrine visitors screaming into the dig lanes, civilians suddenly everywhere between armed and armored men; and under it, immediately, the other war: pressure fronts rolling off the Custodian line, a dome going up somewhere, the hill itself *ringing* like struck bronze as three factions' instruments wake each other around the sealed enclosure. And in Eli—standing at the east cut with Wren, one hand on the living route, the door forty meters away and open to him, open, the interface turning toward his signature like a face turning—the charge rises.
-
-It is the biggest one of his life and it is perfectly, transparently articulate. *Go now. The record, whole—everything the founders left, everything she wanted, and Emrys pulled from a trench and carried to a van in one move if you are fast, and you are fast now—be the one who saves it all, be so necessary that no one can ever file you, earn it, EARN—*
-
-He feels it. He knows it—the engine, the old drone-deep engine, wearing his mother's face and Emrys's rescue and the founding record all at once, conditioning reaching for his legs to complete itself.
-
-He holds the count.
-
-One breath wide. In the width of it: the shrine visitors pinned in the dig lane between the floodlights and the dread; Wren already moving toward them because of course she is; the watchman who vouched for them standing exposed by his own gate; Emrys—visible, briefly, far off, upright between two silhouettes at the trench mouth, not struggling, his glasses catching the floodlight once, being *walked*, procedurally, toward the white vehicles.
-
-And Eli—feeling the charge in full, naming it, and for the first time in his life *not letting it finish*—turns away from the door.
-
-He spends the nine minutes as a facilities worker at the world's oldest facility: killing the string of floodlights with a thrown breaker at the generator sled; being at the gap in the fence saying *this way, auntie, this way* in three languages while dig workers and pilgrims pour through; putting his body and his quiet, in one bad moment, between a fleeing family and a pressure-front's edge, and holding, the way a big man on a dyke held once, because now he knows it can be done. The record he does not go to. The van he does not chase. The choice goes through him like the choke went through him at Malacca—a death, of a kind; the drowning of the boy who believed being useful enough would make him unfileable—and on the far side of it he is still moving, still small, still himself. His.
-
-The site gives him what it chooses to, at the end, unearned: as the factions' geometries tear at each other over the sealed enclosure, the hill's charge sloshes like water in a struck bowl, and at the fox pillar—the public one, the one anyone may stand at, ten steps from the fleeing crowd—two threads reach him, full-resolution, in the fractured seconds while he steadies an old woman at the rope.
-
-Aru: hands on this stone when this stone was young—a carver, spiral-eyed mark under his palm, and around him not slaves, not a payroll: a *gathering*—hill full of firelight, strangers arriving with the harvest hunger, porridge in troughs and something laughing and fermented in the small vessels, feet finding a shared count on packed earth before anyone named a song, cooperation bought with feast and wonder, massive stones walked upright by a hundred hands that did not understand and did not need to—an alliance, wary and real, between those who knew what the circles were for and those who were fed and awed and glad of the work. And in Aru, under the craft-joy: the first cold thread of noticing—that the ones who knew had begun to *count*, and that some of the marks he was made to carve were not for wonder. They were for selection.
-
-Daskar: later, so much later—the same circles old, the fires ordered now, and Daskar in the dark of a decided night, helping bury the center. Fill carried by basket, by hundreds, in silence—no clap, no feast rhythm, only the soft thud of earth and breath—a lifetime of it: the instrument the gathering had raised being put to sleep by the grandchildren of the raisers, *on purpose*, the way you decommission what can no longer be kept safe—because the counting men were coming, and something in Daskar's keeping—a name he holds like warmth against the dark, *Eshe*, *Eshe*—could not be allowed to pass into counted hands. The center going silent under the fill. Grief and craft in the same motion. The first great act of keeping, executed in earth.
-
-Then the threads pay out, and the hill is just a hill full of soldiers, and the window is over.
-
-The consortium seals the breach and accelerates the backfill by a week, for security. The Custodians' vehicles are gone by dawn, and Emrys with them—his coolers orphaned in the guesthouse, his pencil still in the tablet-room's cup, his sandwich, wrapped in laboratory film, going stale in a vest no one will wear now. The sealed enclosure sleeps behind the fox pillar for a generation, its material context read by no one and its brief activation captured cleanly by no instrument, which is, Eli tells himself, a kind of tie.
-
-It does not feel like a tie. It feels like a man is gone.
-
-The rupture comes at the guesthouse, past midnight, over the packed coolers, and it is quiet, which makes it worse.
-
-"Your watchman's gate," Eli says. "Your corridor. Your vouched-for route stood there lit up while they walked him—"
-
-"My route held," Wren says, level, gray with her own night. "Every person on it is accounted for. He left the route. I told him the trench was watched. I told you he'd go anyway—I told you at the presentation, watch him, he's bleeding." A beat, and then, because she is Wren and will not soften even the true things, especially the true things: "I told you."
-
-The words stand in the room like furniture nobody will ever move again.
-
-They go west out of Şanlıurfa two days later, on human doors, with half a reading of the Bridge—snake, tree, bird, still disputed—two threads of the oldest testimony on earth, the cloth-wrapped Circles, a bag of valley soil, a seedling photograph, and an empty chair in every vehicle they will ride from now on. Refusal rhyme incomplete: Aru's counting marks against Daskar's living keep; no triad synthesis, only the pressure to obey a useful story. The partial geometry and the living line both point the same way now, across the Bosporus, into Europe—toward the western gaps in his mother's damaged fieldwork, in a direction that old maps mark with a name none of them says aloud, because it is not yet confirmed, and they have all learned this year what wanting does to a reading.
-
-On the ferry crossing, scratched into the rail where the paint has worn through: *I drift like a wave on the ocean.* No second line. Someone left the wind for the reader to finish. On the dock behind them a child claps once for a street trick and no one answers—the hole left open, the way the Malacca kids left it, the way the Cube never would.
-
-The ring is still in a van somewhere. Hassan is still in custody. Maren was alive two winters ago with a pencil in her hand, correcting a stranger's arithmetic for people who own her. West is not a theory anymore—it is the only door the trail did not burn.
-
-Eli sits apart, holds the count, and keeps, in the cold operational silence where a friendship was, the two things Göbekli actually gave him.
-
-He can hear the engine now without becoming it. Nine minutes with the charge at full song, and his hands stayed his—and what his hands did with the minutes was carry people. That is the skill. Not the door, not the record, not the wanting or the not-wanting of them: knowing, with the engine roaring, what his hands are *for*. It is the first thing he has ever owned that no one can confiscate.
-
-And the oldest lesson in the oldest hills, learned by basket-load in the dark: the center was not lost when Daskar's people buried it. It was kept. There is a way of holding a thing that looks, from the outside, like walking away—and the fill held for twelve thousand years, and the door is still there, and the counting men never got it.
-
----
-
-*On the record*
-
-1. **The trough debate.** Large limestone vessels at Göbekli Tepe have been argued as evidence for cereal processing at scale; published capacity estimates and residue analyses support porridge/gruel and possibly fermented preparations, with "brewery" readings contested. The consortium's 960-liter payroll narrative is the fiction's strawman assembled from real interpretive overreach; Emrys's counter-figures track the published skeptical position.
-2. **Deliberate burial.** The backfilling of Göbekli Tepe's enclosures in antiquity appears intentional. Its motive is unknown. Daskar's night of baskets is one invented answer to a genuine archaeological mystery.
-3. **The Bridge** (Göbekli snake/tree/bird plaquette). Staged from a reported Göbekli small find (verify DAI/publication/image rights before any print quotation of a real object). Book I reveal cap: Eden / guardian / lived-geography readings only — **no** on-page panspermia certification.
-
----
-
 *End of Book I: The Breach.*
+
+> Former Gulf / Mesopotamia / Göbekli ending prose lives in `../archive/manuscripts/relocation_quarry_book_i_gulf_gobekli.md` (not reader sequence).

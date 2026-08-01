@@ -2,7 +2,7 @@
 
 > **File:** `DECISIONS_Chapter_Two.md` (renamed from `DRAFT_Chapter_Two.md` 2026-07-24). **MERGED into `manuscripts/I_The_Breach.md` — the manuscript is governing.** This file retains the draft-choice flags as the decision record.
 >
-> **Opening rev. Y (2026-07-25):** Ch 1 = **Friday AM** race → **Friday PM** Mei dinner / orphan truth → **Saturday AM** Babaji **catamaran** (first meet **Wren**) → **Saturday PM** squeeze + raid + departure. Ch 2 = **Saturday eve** Wren escort → document lanes → clerk/ring → **Continue Inn** (game hotel) → **Sunday AM** Cube → **Sunday Circuit** → Malacca breach. Pelangi kiddy-car chase retired to quarry. **Priya RETIRED** — attestation beats → Wren.
+> **Opening rev. Y (2026-07-25); job/timeline 2026-07-30:** Ch 1 = **Friday AM** harbor race → **Friday PM** Mei dinner / orphan truth → **Saturday AM** Babaji **catamaran** (first meet **Wren**; Foundry cover vs Cube show job) → **Saturday PM** squeeze + raid + departure. Ch 2 = **Saturday eve** Wren escort → document lanes → clerk/ring → **Continue Inn** (game hotel) → **Sunday AM** Cube → **Sunday afternoon idol concert** → **Sunday night Circuit** → Malacca breach. Pelangi kiddy-car chase retired to quarry. **Priya RETIRED** — attestation beats → Wren.
 
 ## Draft choices — flagged for veto
 
@@ -29,7 +29,7 @@ Four calls I made where canon left room. Each is easy to reverse.
 
 **Also folded in, silently, as canon corrections to the source prose** (flagging so you know they're deliberate, not drift): the water-rescuer is the fish seller (Salmah), **not** the chandlery man/boy as the old Ch 3 had it; the witness is **named Hassan and is retaken**, not rescued to the roof; the breach is **field-noise, not "seven chambers"** (the old source used the deprecated seven-lives framing — `36` §3a); and the whole thing is in present-tense close third, **not** the King-James "Elmarillion" register the old Ch 3–4 drifted into.
 
-6. **⟦DC-6⟧ — LOCKED 2026-07-25.** **Continue Inn** — arcade-tier worker hotel, **live-play** floor (cabinets, sim rigs, VR). Contractor voucher on Wren's bundle. **Saturday night** after document clerk; **Sunday AM** Cherry Lane → Cube. Eli plays cable-management sim (Foundry rhyme; Rasel echo). Circuit = **Sunday** race night.
+6. **⟦DC-6⟧ — LOCKED 2026-07-25; concert→Circuit clarified 2026-07-30.** **Continue Inn** — arcade-tier worker hotel, **live-play** floor (cabinets, sim rigs, VR). Contractor voucher on Wren's bundle. **Saturday night** after document clerk; **Sunday AM** Cherry Lane → Cube. Eli plays cable-management sim (Foundry rhyme; Rasel echo). **Sunday afternoon** = idol **concert** (Eli's surface job: stage power / wardrobe). **Sunday night** = **Meridian Circuit** street race (tire-truck freight escape). Concert before race — never simultaneous.
 
 7. **⟦DC-7⟧ — LOCKED 2026-07-26.** **First table:** Circuit/Cube = lean casino table. **Sora Vithan** soft-hunt glimpse (dark suit, biosecurity badge, collar/medal touch, clocks grounding) — **unnamed** on-page; Custodian label Ch 3. No Crane/Sol/Somchai/Rowan/Emrys dump. Chase grammar: `WORLD_BIBLE.md` § Meridian.
 

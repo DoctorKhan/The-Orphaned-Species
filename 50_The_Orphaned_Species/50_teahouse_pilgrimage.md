@@ -137,6 +137,8 @@ The long pilgrimage repeatedly brings people together under different conditions
 
 They are relationships, not discovered biological or psionic kinds. Science may study group health; it may not manufacture the groups. AI may reveal coercion or closure; it may not recommend a person's destined home.
 
+**Distinct from cloister animal houses — LOCKED 2026-07-31:** men's cloisters also use **animal houses** (Stag/Deer, Crow, Bear, Salmon, Ox) named for **stress behavior** inside a keeping-order (`40` § *Cloister animal houses*). Those are temperament houses, revisable, not blood. Teahouse/pilgrimage clans here remain **chosen kin from shared life**. Do not merge the two systems into one taxonomy, and never let AI or health metrics assign either.
+
 Minimum protections:
 
 - membership is chosen and may be left without civil death;

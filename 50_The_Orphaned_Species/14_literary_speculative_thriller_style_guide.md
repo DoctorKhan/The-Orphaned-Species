@@ -315,6 +315,18 @@ Do not make the novel carry the explanatory duties of the Companions or Record.
 - Avoid repeated rhetorical templates, especially tricolons, oppositional aphorisms, and “not X but Y.” Their force declines quickly.
 - Trust a strong final image or action. Do not append its interpretation.
 
+### Generic-cadence / AI-pattern checklist — LOCKED 2026-07-31
+
+The existing rule above against "not X but Y" is necessary but not sufficient — generic machine-cadence drift shows up in more shapes than that one template. Flag and cut on sight:
+
+1. **Hedge-contrast constructions.** "Not because X, but because Y"; "It wasn't X. It was Y." Cut unless the contrast changes what the reader can do with the next sentence.
+2. **Undifferentiated litany-lists.** Four or more comma-separated noun phrases in one sentence, each carrying roughly equal weight, none grounded in a specific body or sense. This simulates density instead of earning it. Pick the one image doing real work and cut the rest, or give each fragment its own short sentence so it earns its own beat.
+3. **Abstraction without a body in the room.** A noun like "the selection mark" or "the disputed thing" may not appear bare in a list or aphorism until it has been touched, smelled, or physically reacted to on the page at least once. If it hasn't earned a body yet, it isn't allowed to function as shorthand yet.
+4. **Echo-closers.** A final sentence that just repeats an image from earlier in the same paragraph for a sense of "landing," without the line itself costing or revealing anything new. Test: if the closing line's only job is to sound like an ending, cut it and end on the last sentence that actually changed something (see final-sentence test below).
+5. **Rhythm drift from the book's own register.** Long cumulative sentences built on colons and stacked em dashes read as generically "literary" rather than as this book. Check any long sentence against the surrounding scene's established rhythm — usually short and declarative per this guide's default prose gears — before trusting one that "sounds right" in isolation.
+
+Patterns 1, 2, and 5 are mechanically searchable during revision: scan drafts for comma chains of four or more items, for "not because" / "not X, but," and for sentences running long enough to need a second breath. Patterns 3 and 4 need an actual read-through, not a search.
+
 ### Opening-image discipline — LOCKED 2026-07-24
 
 Derived from the governing Ch 1 Timah/Jul pass. Apply to chapter opens, zero-significance plants, and any scene whose job is ordinary life before the breach.

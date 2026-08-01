@@ -521,6 +521,23 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 ---
 
+## 5.6. Anocracy — the political-science floor under the Union's fracture
+
+*Author diagnosis for **why the Continental Union breaks in Book III** (`33_volume_III_beatsheet.md` § *Anocracy / Union fracture*). Companion to Continuity / Devolution (§5.5): Continuity is the bunker apparatus; anocracy is the regime-type failure mode.*
+
+**Finding (paraphrase):** Hybrid / partial-democratic regimes (**anocracies**) — mixing democratic contestation with autocratic capacity — are markedly more prone to **state failure and civil conflict** than consolidated democracies or coherent autocracies. Classic floor: State Failure / Political Instability Task Force (Goldstone et al.) — partial democracies often cited at roughly **seven times** the odds of failure relative to full democracies and autocracies. Related civil-war literature: Hegre et al.; Fearon & Laitin; Regan & Bell (2010) — risk peaks in the **early years after becoming hybrid**, especially after **democracy → anocracy** transitions, and rises with transition magnitude. Caveats exist (measurement / endogeneity debates, e.g. Vreeland 2008 on Polity components); use as **structural diagnosis**, not a magic number to recite.
+
+**Why it matters to this book:** the Continental Union is not "democracy failed" or "dictatorship failed." It is already the dangerous middle — rights talk, courts, and party legitimacy beside Continuity bunkers, registry permanence, and an expendability ledger. Awakening War pressure does not create the fracture; it detonates a hybrid that could neither process grievance nor hold coherent command. Eli filling the vacuum as strongman-by-proximity is the same failure mode wearing a human face. The compact refuses that middle.
+
+**Honesty / craft flags:**
+- **Author term only** — never put *anocracy* on-page.
+- Show: rival legitimacy centers; Continuity vocabulary next to civic language; elections/paper that do not bind the survival roster; factional competition under emergency powers.
+- Do not blame a real 2020s party; the Continentalist Party is post-collapse; the hybrid is structural inheritance + emergency that never sunset (`23` § *Not as different as they claim*).
+
+**Suggested placement:** no epigraph. Texture Book III Ch 4–7 Union fracture and strongman window.
+
+---
+
 ## 6. Nephilot purge — Pömmelte, Gomolava, Basal Eurasian trail
 
 *Anchors for Eli's **tracking the carrier line from Göbekli westward** and the **massacre / Alba → elf** beats (`37` § *Tracking the Nephilot line*).*

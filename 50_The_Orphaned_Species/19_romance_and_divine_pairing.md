@@ -1,6 +1,8 @@
 # Romance and Divine Pairing
 
-*Working architecture for romance across the present-day trilogy. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md` (volume romance stages + proof scenes), and `28_present_day_trilogy_craft_index.md`. This document keeps the mythic charge of beloved-across-lifetimes material while protecting the current canon: recognition is real pressure, not automatic proof of ownership, reincarnation, or moral permission.*
+*Working architecture for romance across the present-day series. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md` (volume romance stages + proof scenes), and `28_present_day_trilogy_craft_index.md`. This document keeps the mythic charge of beloved-across-lifetimes material while protecting the current canon: recognition is real pressure, not automatic proof of ownership, reincarnation, or moral permission.*
+
+> **Satellite books / author brands — LOCKED 2026-07-31:** Wren/Rowan spicy and other niche books, plus the **two-brand** publishing model (literary + romance), live in `63_adjacent_books_and_author_brands.md`. Satellites may heighten intimacy; they may not undo concurrent choice, ply grammar, or main-series staging.
 
 ## Core principle
 
@@ -454,7 +456,7 @@ Their conflict should not be only whether they admit feelings. It should be whet
 
 Required pressures:
 
-- Wren's independent objective conflicts openly with Eli's mother-trail.
+- **Wren's independent objective conflicts openly with Eli's mother-trail — concrete mechanism LOCKED 2026-07-30 (rev. B — corrected: Babaji is not Weaver-affiliated, no Cube-heist framing for this object):** the tablet Babaji gives Eli on Pelangi Reach before departure is a plain personal gift — loyalty to Rasel, nothing institutional. But across Book I, Wren — a house Weaver trained to read carrier signatures, inherited from Maren's own research — watches what it does to him and forms her own professional judgment that he's a likely receiver. She reports it upward through her own Weaver channel without telling him: not an engineered assignment, her own independent act (`35_artifact_chain.md` § *activation and the Weavers' quiet interest*). She wasn't ordered to; she did what her training treats as correct, which is precisely her named flaw ("a correct placement is care") rather than a break from her characterization. **Reveal:** Book II Ch 6 (`32_volume_II_beatsheet.md`, her POV chapter) — Eli's anger is not that she never cared, but that she read him and passed judgment on him to an institution without his knowledge or consent.
 - Eli withholds something because he fears losing belonging.
 - Wren manages an outcome because she believes the alternative will get someone killed.
 - The divine-pairing interpretation becomes socially or tactically dangerous.

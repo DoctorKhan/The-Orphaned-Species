@@ -4,6 +4,10 @@
 > Edit here. The old external folder at `~/Projects/Books` is a leftover only
 > (see its `MOVED_TO_REPO.md`); do not treat it as source of truth.
 
+> **Family total — LOCKED 2026-07-31:** **14 core books** = **4** Layer 2 companions
+> (this folder) + **10** Layer 1 novels (I–X). Satellites are outside that number.
+> Authoritative map: `../SERIES_STRUCTURE.md` § *Family total*.
+
 | Book | Path | Role |
 |---|---|---|
 | Manual Override | `Manual_Override/` | Native Road (practices) |

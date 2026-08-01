@@ -2,6 +2,8 @@
 
 **STATUS: AUTHORITATIVE — LOCKED 2026-07-26.**
 
+> **COMPLETE MEAL CROSS-REF — LOCKED 2026-07-31:** Book I Ch 11–13 must read as a finished thriller that also opens the series — chase, landmark wonder, Rasel recovered, irreversible costs — not setup-only. `55` § *Five delivery upgrades* #5; `31` Act IV. Series brand face remains Rasel's ring; volume secondary face = Sanxingdui tree.
+
 This document supersedes every earlier allocation that places the Gulf, Mesopotamian archive, Taş Tepeler circuit, or Göbekli climax in Book I; delays Sanxingdui to Book III; leaves Rasel off-page after Book I; retains Professor Emrys; makes Wren a pre-Book-II extraction operator; or pays for Rasel's recovery with another captive.
 
 ## New trilogy hinge
@@ -51,7 +53,7 @@ Rasel Khan is alive in Eastern Mandate research custody. He has been compelled t
 
 - field coupling and signature physics;
 - the measurable relationship among living systems, conductive ground, attention, and ancient geometry;
-- an apparatus intended to make a distributed relationship concentratable, recordable, and governable.
+- an apparatus intended to make a distributed relationship concentratable, recordable, and governable — **the same project that hits an information-theoretic wall he only fully understands in Book II** (`22_life_technology_and_two_trees_spine.md` § *Rasel's information-theory thread*): a signal fully recorded stops being itself.
 
 He is brought into the Sanxingdui research program because Mandate scans of the bronze tree's geometry and materials produce relationships resembling his field models. Legitimate research exists beneath the coercive program; the Mandate did not discover, own, or create Sanxingdui.
 
@@ -83,6 +85,7 @@ Edda's Gulf/route offer that “Rasel Khan is alive” remains **true**, but the
 
 ### Required action
 
+- **Tablet activation — LOCKED 2026-07-30 (rev. B — corrected: Babaji gave it, not Emrys).** Eli has carried the Three-Circles Tablet (`35_artifact_chain.md` § *activation and the Weavers' quiet interest*) since Babaji gave it to him on Pelangi Reach before he ever left; it has stayed dormant, a diagram he can't yet use. Contact with the Bronze Tree's living ground activates it for the first time — the same circuit the Malacca drowning only cracked open now closes. This is the physical mechanism underneath the recognition below, not a separate event: he doesn't just observe the tree and understand the distributed reading intellectually, the object completes itself in his hands at the exact moment he has to choose.
 - The apparatus activates during a containment attempt.
 - Civilians and staff are caught inside a synchronized attention or signature event.
 - Eli is offered the clean machine read and immediate access to Rasel.

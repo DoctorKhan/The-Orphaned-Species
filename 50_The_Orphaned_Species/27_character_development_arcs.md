@@ -20,11 +20,12 @@ Trilogy maturation (`05`):
 |---|---|---|---|
 | **I · Shattering** | Can Eli act without turning people into evidence? | **Remain yourself and choose the living** | Withstand charge; choose Hassan over Rasel's ring, then recover Rasel through Sanxingdui's distributed living route |
 | **II · Descent** | Can Eli **rescue and release** his mother without possessing her story? | **Remain yourself in relationship; release** | **Relational/web:** hold grief without possession; Maren rescued and released; awakening spreads |
-| **III · The Living World** | Can free communities connect without creating a new center that owns them? | **Coordinate, then disperse** | **Civilizational:** temporary authority ends after necessity; coexistence survives attack and dispute |
+| **III · The Living World** | Can free communities connect without creating a new center that owns them? | **Coordinate, then disperse** — hero surface; things are not what they seem | **Civilizational:** temporary authority ends after necessity; coexistence survives attack and dispute |
+| **IV · Court of Threads** | Can institutions keep people without owning them — twice? | **Soft over hard; middle way under pressure** | **Continuity:** second relinquishment; Living Way / Taoist maturity; *perhaps there is a middle way*; child inherits no crown |
 
 Romance runs the **same thesis** as cosmology: *clinging = cage; release = adulthood* — mother and Wren through Book II; in Book III, partnership must coexist with separate duties and institutions.
 
-**Four-volume human progression — REVISED AND LOCKED 2026-07-28:** Book I is **feeling and self-knowledge**: Eli becomes emotionally legible to himself and grows personal confidence. Book II is **consent and control**: he learns that understanding, loving, needing, rescuing, remembering, or belonging to someone does not grant possession of body, mind, story, relationship, route, or future. Book III is **politics, civilization, and necessary authority**: those same control problems scale into institutions and the engine that spends people while calling itself family; Eli accepts bounded command and prepares to release it. Book IV is **subtle power, embodiment, succession, and maintenance**: the women's lenses expose how rooms, care, pregnancy, access, and recognition govern beneath decrees, while the Weavers and men's cloisters learn whether necessary institutions can enter power without becoming owners. Preserve the sequence; Eli's actual relinquishment and the final civic settlement now occur during Rowan's labor in Book IV.
+**Four-volume human progression — REVISED AND LOCKED 2026-07-28; hero/Taoist hinge 2026-07-30:** Book I is **feeling and self-knowledge**: Eli becomes emotionally legible to himself and grows personal confidence. Book II is **consent and control**: he learns that understanding, loving, needing, rescuing, remembering, or belonging to someone does not grant possession of body, mind, story, relationship, route, or future. Book III is **politics, civilization, and necessary authority**: those same control problems scale into institutions and the engine that spends people while calling itself family; Eli accepts bounded command, becomes the public hero, and learns that **under heroism things are not what they seem** — then completes the first release. Book IV is **subtle power, embodiment, succession, and maintenance**: the women's lenses expose how rooms, care, pregnancy, access, and recognition govern beneath decrees; the Weavers and men's cloisters learn whether necessary institutions can enter power without becoming owners; and Eli's interior answer matures into **Living Way / Taoist conduct** — violence answers violence; when cornered between pacifism and finishing them, he answers provisionally that **perhaps there is a middle way**. Preserve the sequence; Eli's second and final relinquishment and the final civic settlement now occur during Rowan's labor in Book IV.
 
 **Wren / Rowan function distinction — LOCKED 2026-07-22; Rowan softer / Eli stronger 2026-07-25; Rowan/Eli revised 2026-07-28:** Wren is personal; Rowan is political **and** softer in temperament. Wren's primary effect on Eli is inward and emotional. Rowan's later bond with him belongs to public life. Rowan/Eli remains direct, affectionate, political, nonsexual, and non-romantic through Book III; only deniable charge is seeded. In Book IV, conscious attraction leads to repeated sex before political work, mutual steadiness, and care make romance real. Rowan's desire for children predates Eli, but choosing him as co-parent and choosing conception occur only after romance. Do not give Rowan Wren's Book I emotional-tutor function for Eli. Wren neither brokers nor authorizes Rowan/Eli.
 
@@ -37,6 +38,50 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 **Quiet-culture lock:** this Bengali–Malaccan network learned discretion through persecution. Inside the trusted web, Wren's relationships are recognized through food, rooms, caregiving, teasing, invitations, children, and continuing obligation; outside it, people use flexible kin terms and disclose no relationship information without consent. **Everyone inside knows; no one outside is owed the knowing.** Wren inherits both sides of the adaptation: fierce privacy protects people, but her arc must confront the point at which protective silence becomes management or erasure. At least one older/younger disagreement should make both the survival logic and the cost of quietness legible.
 
 **Past on page:** development is forward — but scenes should **leak** ordinary-life detail (food, sleep, pre-war job, old relationship) before explaining it. Full past layers: `26` § Complex pasts.
+
+---
+
+## Character singularity — LOCKED 2026-07-30
+
+Memorable characters are not merely well-written people. They are **specific pressures arranged so that only this story could produce them.** The trap in a world this dense is writing excellent thematic delivery systems who are not individually strange. Do not ask anyone to *represent* Extra status, attestation, cloister life, expendability, or autonomy. Ask each person for a **private style of surviving those pressures**.
+
+**Five builders (use for every major character):**
+
+1. **Private wound** — what they are always protecting against (not a trauma résumé).
+2. **Social strategy** — how they survive other people: charm, competence, invisibility, usefulness, distance, piety, wit, threat, serenity.
+3. **Perceptual distortion** — what they consistently over-read, under-read, or refuse to see.
+4. **Bodily pattern** — how stress, desire, fear, fatigue, or authority shows up in the body.
+5. **World-specific pressure** — Extra status, attestation, Thread invisibility, registry fear, ply asymmetry, carrier danger, cloister standing, reproductive leverage, charged-ground burden. Interiority must be inseparable from *Orphaned Species* conditions.
+
+**Uniqueness test:** strip the lore terms. Can the reader still tell Eli from Wren from Rowan from Sol from Ma in a single paragraph of action or dialogue? If not, the figure is still too idea-shaped.
+
+**Scene kit (each major character owes):** one ordinary object that belongs to them; one phrasing habit; one bad interpretive habit; one kind of room where they become most themselves; one want that would embarrass them if named accurately.
+
+### Core five — non-transferable cores
+
+| Character | Core | Distinctive noticing | Distinctive misread | Generic failure mode |
+|---|---|---|---|---|
+| **Eli** | A worker whose perceptions are so sharp they keep being mistaken for destiny | Infrastructure, sound, layout, timing, pressure, interruption — systems before faces | Converts need into usefulness, intensity into meaning, rescue into jurisdiction | Chosen-one glow; eloquent suffering; too little petty shame or worker competence |
+| **Wren** | Care formalized into management so thoroughly she partly mistakes management for love | Exits, supplies, sleeping bodies, information order in a room | Reads some tenderness as risk to operational clarity; confuses custody with protection | Softness only in romance; competence always admirable; privacy that exists only to be healed |
+| **Rowan** | Soft-tempered, clear-eyed political intelligence; gentleness without surrender of clarity | Seating, delays, who has been fed, whose name is absent, who pretends not to watch | Softness mistaken for mildness; political care mistaken for coldness | Becomes only “the political one”; iron when stakes rise; symbolic role with Eli too early |
+| **Sol** | A body that has already paid; treats hesitation, moderation, and delay as cowardice or betrayal | Abandonment, half-measures, survival thresholds | Redescribes private wound as universal necessity; reads Eli’s caution as complicity | Cartoon zealotry; wrong too often; temptation-only function |
+| **Ma** | Humane fluency inside procedural violence; courtesy that can deliver the terrible | Flows, thresholds, population consequence, what can still be stabilized | Restraint that looks like mercy and still spends people | “Reasonable official”; humanization as pardon; exposition mouthpiece |
+
+**Distinction set (keep sharp):**
+- Eli reads systems through the body and wants to remain without earning it.
+- Wren turns care into management and fears possession disguised as safety.
+- Rowan reads institutions through rooms and bodies; soft but unsparing.
+- Sol turns suffering into mandate and finds caution morally obscene.
+- Ma speaks with careful restraint from inside a system that still harms.
+
+**Fast scene prompts:**
+- **Eli** — fixes something practical while emotionally misreading what someone needs.
+- **Wren** — arranges a humane process perfectly, then sees the process about to erase someone anyway.
+- **Rowan** — enters a polite room and maps the real power within thirty seconds.
+- **Sol** — makes a morally appalling argument that lands because it names a real abandonment.
+- **Ma** — explains a brutal policy in language so careful it becomes more chilling, not less.
+
+**Governing rule:** uniqueness lives in off-center human specificity — wrongness in taste, bad habit of interpretation, secret vanity, humiliating need, non-transferable speech rhythm, a form of courage that creates its own trouble. Companion: `15` (relatability), `16` (attachment), `26` (cast flesh), `43` (Wren selfhood outside Eli).
 
 ---
 
@@ -222,6 +267,8 @@ Eli's reciprocal gift is emotional witness. He notices fatigue beneath competenc
 | **II** | Thaw tested / first recovery | "Love = place him somewhere safe" | Rowan makes Wren remain answerable beyond the completed movement |
 | **II–III** | Choice / union | "Commitment without destiny" | Present-tense commitment **before** climax |
 | **III** | Union tested | "Network ≠ weapon for Eli" | Refuses Eli identities, routes, and command access; offers only cooperation authorized by the threshold houses |
+
+**"A correct placement is care" — concrete content LOCKED 2026-07-30 (rev. B — corrected: Babaji is not Weaver-affiliated and did not orchestrate this).** This flaw isn't only the Sanxingdui evacuation. Across Book I, Wren — trained to read carrier signatures, a discipline the Weavers' Net inherited from Maren's own research — watches what the tablet Babaji gave Eli (a plain personal gift, nothing to do with her network) does to him, forms her own professional judgment that he's a likely receiver, and reports it upward through her own Weaver channel without telling him. Not an assignment engineered from Ch 1, not Babaji's doing — her own habit of treating a correct report as care, exercised on a person who never consented to being read (`19_romance_and_divine_pairing.md` § Volume II required pressures; `35_artifact_chain.md` § *activation and the Weavers' quiet interest*). Surfaces Book II Ch 6.
 
 ### Development markers
 - Stops filling Eli's silences → lets him find words.
@@ -570,6 +617,7 @@ For Eli (and POV allies when featured):
 7. **Past-vs-mask leak** scheduled? (`26` Part V — one habit/object, no exposition)
 8. **Trauma pattern** active under stress? (`26` Part VI — behavior, not diagnosis lecture)
 9. **Lineage owed?** — if this chapter touches a character's severance or inheritance, which of the three parts moves (specific dead / practice over status / free to alter)? Proved by object, hand, or habit — never stated (§ *Lineage reconnection*)
+10. **Singularity owed?** — does this chapter prove a non-transferable habit (object, phrasing, misread, room effect, embarrassing want), or only a thematic function? (§ *Character singularity*)
 
 If none change, chapter may be pure plot — add human cost or cut.
 

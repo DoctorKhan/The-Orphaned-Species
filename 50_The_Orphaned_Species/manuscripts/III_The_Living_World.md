@@ -2864,6 +2864,46 @@ She does.
 
 The names return the ledger to bodies.
 
+Nora Castellanos wants to know where her mother's clinic deposit went.
+
+She holds up the receipt before the clerk calls the hearing back to order, so it has to be entered before the next Union witness can speak without looking at it.
+
+"Thursday morning it was there," she says. "Thursday afternoon it was gone. Not spent. Gone. The account still says my mother's name on it."
+
+The clerk reads the transfer record into evidence: a holding sold under a seat inherited, not earned — the paperwork calls it a **continuity seat** — cleared four hours before the public review that halved the fund's value.
+
+The seat belongs to Devra Aldis.
+
+She does not deny the timing.
+
+"The review was scheduled," she says.
+
+"Announced," Nora says. "Not scheduled. You knew before it was announced."
+
+"I knew before it was public. That isn't the same as illegal."
+
+"Say what happened to my mother's deposit."
+
+"It depreciated."
+
+"Say what you did to it."
+
+Devra looks at the clerk instead of at Nora.
+
+"I sold."
+
+"Say who bought it."
+
+"I don't have that information."
+
+"You have all of it. You just don't have to give it to me."
+
+The room does not applaud and does not object. Devra Aldis is not lying under the hearing's own rules, and everyone in it can see the distance between that and being innocent.
+
+"It wasn't illegal," she says again, quieter, as if repeating it might make it sound less like an answer.
+
+Eli watches the clerk enter it exactly as spoken, without softening it — Idris Bell's name, Malik's name, now this — because the ledger's only remaining mercy is that it writes down precisely what it is told.
+
 ---
 
 Rowan presents the dependency-transfer record after lunch.

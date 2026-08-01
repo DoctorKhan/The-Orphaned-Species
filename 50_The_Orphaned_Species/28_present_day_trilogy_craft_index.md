@@ -1,6 +1,6 @@
 # Present-Day Series — Craft Index
 
-> **Status:** navigation hub for Book 50 present-day **craft and cast** documentation (docs `21`–`27`). Cosmology, deep time, and manuscript draft live elsewhere — see `00_ARCHITECTURE.md`. **When drafting:** start here if unsure which doc governs a decision. Filename still contains `trilogy` for legacy path stability; contents govern the **series** (Books I–IV; optional V–VI — `SERIES_STRUCTURE.md`). Do not call the novel a trilogy in new materials.
+> **Status:** navigation hub for Book 50 present-day **craft and cast** documentation (docs `21`–`27`). Cosmology, deep time, and manuscript draft live elsewhere — see `00_ARCHITECTURE.md`. **When drafting:** start here if unsure which doc governs a decision. Filename still contains `trilogy` for legacy path stability; contents govern the **series** (Books I–IV civic; Books V–X Lifetime Orchestra — `SERIES_STRUCTURE.md`). Do not call the novel a trilogy in new materials.
 
 > **HIGH PRIORITY — LOCKED 2026-07-25; pressure rules 2026-07-29:** **`55_series_pitch_and_comps.md`** governs shelf positioning, agent/back-cover copy, comps (*Da Vinci Code*, *National Treasure*), clue-chain obligations, checklist items 1–14, and the **Three pressure rules** (two live clocks; antagonist present-tense job; cost → next chapter). Check it at outline, draft, and revision alongside `14` and `17`.
 
@@ -19,9 +19,15 @@
 | Writing Emrys comedy or warmth | `24_comedic_register_slapstick.md` + `16_reader_attachment.md` |
 | Pacing Life vs Knowledge reveals | `22_life_technology_and_two_trees_spine.md` + `17_reveal_order_and_reader_impact.md` |
 | Clue-chain / conspiracy comps (*Da Vinci Code*, *National Treasure*) | **`55`** — Vol I + Vol II + **Vol III** § *chapter-by-chapter pitch audit* |
-| **Bible → site discoveries / activations** | **`61_site_activation_map.md`** — recipe card + per-volume site tables; use when fleshing II–IV |
+| Bible → site discoveries / activations | **`61_site_activation_map.md`** — recipe card + per-volume site tables; use when fleshing II–IV |
+| **Ultimate metaphysical thesis (V–X)** | **`SERIES_STRUCTURE.md`** § *Ultimate metaphysical thesis* — artificial world / training wheels / learn control → learn creation; do not lecture in I–IV |
+| **Lifetime Orchestra (+6 / V–X)** | **`SERIES_STRUCTURE.md`** § *Lifetime Orchestra*; `62_lifetime_orchestra.md` — Bridge → 4 past lives → Ω |
+| **Technology teaches meaning** | **`SERIES_STRUCTURE.md`** + `22` § *Technology teaches meaning* — concepts via runnable tech |
+| **Spirituality goes wrong** | **`SERIES_STRUCTURE.md`** + `40_concepts.md` § *Spirituality goes wrong* — toxic positivity / manifestation bullying; seed III–IV; densify V–X |
 | Decoding Maren's Rootbook / linguistic continuity | `52_the_rootbook_word_web.md` + volume beats `31`–`33` |
 | Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit* |
+| **Adjacent books / author brands (1–2 names)** | **`63_adjacent_books_and_author_brands.md`** — Wren/Rowan spicy Priority A; Brand A literary + Brand B romance; no per-book or AI-author roster |
+| **Cloister animal houses (Stag, Crow, Bear, Salmon, Ox)** | **`40_concepts.md`** § *Cloister animal houses* — five animal houses by stress pattern; seed `33` Ch 9; Book IV `60` |
 | Locked beats / open names | `99_open_questions.md` |
 | Volume I chapter order | `31_volume_I_beatsheet.md` |
 | Volume II chapter order | `32_volume_II_beatsheet.md` |
@@ -47,6 +53,10 @@
 | Civic memorial anchors (King SF, Lincoln DC) | `90_epigraphs_and_sources.md` §10 — Yerba Buena *Revelation*; site text + Book III Ch 4–5 mapping |
 | Future conflicts / sorting / ~2040 pressure map | `56_future_conflicts_atlas.md` — six registers, bloc fragility, immigration×class×race, staging bank (LOCKED 2026-07-26) |
 | Audience / Wren relatability | `43_audience_and_character_recommendations.md` |
+| Character singularity — non-transferable cores | `27_character_development_arcs.md` § *Character singularity* (LOCKED 2026-07-30) |
+| Deep-time residue density / ancient face per volume | `17_reveal_order_and_reader_impact.md` § *Deep-time residue density* (LOCKED 2026-07-30); `35` § placement |
+| Anocracy / Continental Union fracture (Book III) | `33_volume_III_beatsheet.md` § *Anocracy / Union fracture* (LOCKED 2026-07-31); `90` §5.6; `WORLD_BIBLE` §1a; `23` |
+| Five delivery upgrades (density / antagonist jobs / chemistry / brand face / Book I meal) | `55_series_pitch_and_comps.md` § *Five delivery upgrades* (LOCKED 2026-07-31); checklist items 16–20 |
 
 ---
 
@@ -71,7 +81,7 @@ Six conflict registers (ecological → technological), sorting machine (racism×
 **Cast flesh** — provisional names, wants/wounds/habits, scene seeds. Romance becomes a **plural V in Book II**: Wren/Rowan and Wren/Eli; Rowan/Eli non-romantic (locked 2026-07-22).
 
 ### `27_character_development_arcs.md`
-**Development arcs** — volume questions, Manual Override thresholds, Eli seven perceptual stages by volume, fellowship arcs, romance five stages, proof scenes, anti-patterns, chapter checklist.
+**Development arcs** — volume questions, Manual Override thresholds, Eli seven perceptual stages by volume, fellowship arcs, romance five stages, proof scenes, anti-patterns, chapter checklist. **Character singularity** (LOCKED 2026-07-30): five builders + non-transferable cores for Eli / Wren / Rowan / Sol / Ma.
 
 ### Trauma & past (inside `26`)
 - **Part 0** — complex pasts (ordinary life → turn → unreconciled)

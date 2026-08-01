@@ -6,7 +6,7 @@
 > displaced. Professor Emrys does not exist. Existing Gulf/Göbekli cards are
 > relocation quarry for Book II.
 
-> **Laos closure / Vietnam detour — LOCKED 2026-07-29; prose integrated 2026-07-29:** the intended Ch 11 crossing (Thailand → Laos/Yunnan → Sichuan) is interrupted — the same rising regional emergency that later erupts into the Sanxingdui civilian evacuation closes the Laos border first, while the group is already en route. The forced detour runs north through Vietnam instead, in monsoon season: unexploded ordnance and unmanaged dioxin/clearance hotspots, mapped and partially contained before the Hinge, now live and unmarked because nobody is left to maintain clearance — and rising floodwater shifts buried ordnance past any old clearance line. Rain, mud, and brown water hiding what's underfoot are the sequence's texture. **Governing draft Ch 11 now carries this** (Laos notice → Vietnam shelf walk → Sora gate → Dara permit death → Sichuan). Full route rationale: `00_NARRATIVE_STRUCTURE.md` § beat 5.
+> **Laos closure / Vietnam detour — LOCKED 2026-07-29; prose integrated 2026-07-29; motive sharpened 2026-07-30:** the intended Ch 11 crossing (Thailand → Laos/Yunnan → Sichuan) is interrupted — the same rising regional emergency that later erupts into the Sanxingdui civilian evacuation closes the Laos border first, while the group is already en route. The forced detour runs north through Vietnam instead, in monsoon season: unexploded ordnance and unmanaged dioxin/clearance hotspots, mapped and partially contained before the Hinge, now live and unmarked because nobody is left to maintain clearance — and rising floodwater shifts buried ordnance past any old clearance line. Rain, mud, and brown water hiding what's underfoot are the sequence's texture. Dara's choice is deliberate, not just forced: she refuses Edda's official "protected intake" line because any working checkpoint runs Eli's palm/face/blood-spot through the same Mandate-lettered registry — the mud road has no checkpoint worth the name. Eli believes he's staying under the Mandate's radar; the group doesn't yet know Charkha is the one who actually finds him at the Chinese border regardless. **Governing draft Ch 11 now carries this** (Laos notice → Vietnam shelf walk → Sora gate → Dara permit death → Sichuan). Full route rationale: `00_NARRATIVE_STRUCTURE.md` § beat 5.
 
 > **HIGH PRIORITY — LOCKED 2026-07-25; place-craft 2026-07-26; pressure rules 2026-07-29:** Chapter beats must pass **`55_series_pitch_and_comps.md`** clue-chain gate (body movement, visual key, short-loop payoff, domestic cost, **wonder + place lie**) **and** the **Three pressure rules** (two live clocks; antagonist present-tense job; cost → next chapter). Book I dual-clock map: `55` § *Book I — dual-clock & cost→next map*. Place geometry / lies / Silo grammar: `14` § *Place-craft — Silo grammar*.
 
@@ -89,6 +89,8 @@
 
 **Ch 1 (Eli · Pelangi Reach), with no historical preamble.** The collapse is reconstructed through residue (`42`). No standalone Maren prologue in Book I. Suppression is felt through Custodians, white coats, and the mother-trail — attachment before mythology (`17`). **Hunt attribution — LOCKED 2026-07-26 (dual-true + costume):** Eli sees Mandate/father — **Rasel's son / loose ends**. **Charkha wears Mandate's face** for the Eli/mother hunt. **Do not name Charkha on-page in Book I.** Late cracks = seams in the costume (*other chain*, *somebody else's leash*). **Book II** names Charkha — **wore the Mandate's face; got Maren; you've been running their map**.
 
+> **DEEP-TIME RESIDUE / ANCIENT FACE — LOCKED 2026-07-30:** Book I ancient face = **living plants / Sanxingdui tree** (Tree of Life as distributed relation). Quota: ~one deep-time residue every 1–2 chapters (`17` § *Deep-time residue density*). Social texture alone does not count unless it also fossils an older category. Per chapter: name the residue, the available wrong reading, and the human cost.
+
 ---
 
 ## ACT I — Hearth and Breach
@@ -99,14 +101,17 @@
 - **Obstacle:** Mandate squeeze; Babaji keeper holdout; authorities raid hotel.
 - **Choice → Cost:** Wins race, earns manifest; Wren puts him worker lane; **still boards Saturday PM**. Hearth suspended.
 - **Orphan reveal:** **Mei, Friday dinner** — stolen child, parents taken alive.
+- **Deep-time residue — LOCKED 2026-07-30:** (1) Rasel's garden as reception-without-mastery / living craft vs Foundry cables; (2) missing-cohort texture — empty kid infrastructure or older work crew visible without lecture; (3) Rootbook forked *Name* page as unfinished older inquiry. Wrong reading: garden grief = only personal failure; notebook = destiny key. Cost: he leaves the living plot for Stack cash.
+- **Mei's Cherry Cube seed — LOCKED 2026-07-30:** in the same dinner conversation, Mei adds one small, warm, undertechnical detail: his mother had work in Meridian City sometimes, and once brought him along as a baby. She doesn't know more than that — a kitchen-table fact, not a lead, and Eli doesn't treat it as one. **Reads as pure grief-color in Book I; detonates in Book III** when the Cherry Cube's research annex is revealed (`59_younger_dryas_nucleation_lock.md`) and this offhand line turns out to be load-bearing — it's the same site where the idol's Ch 2 debt to Maren was earned, though nothing in Book I connects the two. Do not let Mei know or imply anything about the annex — she genuinely knows only the fact, not its meaning.
 - **Three offers — LOCKED rev. Z:** Suresh-held race wager (Eli vs Kiran); Babaji sponsor papers (via Wren); cohort vs worker lane.
 - **Parent memory — LOCKED 2026-07-25 (two-phase):** **Pre-reveal** — garden/sailing/food rhymes (`15`). **Post-reveal** — explicit grief/hunger; same images return re-framed; Ch 1 Sat AM–departure + Ch 2 queues/ring/Continue Inn.
 - **Wren / feelings — LOCKED 2026-07-25:** First meet is **emotional work**, not only paperwork. Eli carries **Friday orphan truth** into Saturday; Wren notices body-before-story (shaking, silence, performative OK). One plain line redirects a substitution — grief ≠ debt, anger ≠ plan — **without** therapist speech. She waits when he can't name it. Catamaran + marina departure = first co-regulation (food, route, *don't burn the thread* as care through action).
 
 ### Ch 2 — His Hand / Checkpoints and the Stack *(Eli · Wren escort → Meridian → Malacca breach)*
-- **Timeline — LOCKED rev. Y:** **Saturday last light** — depart Pelangi; strait pier + Stack intake **Saturday eve**. **Saturday night** — **Continue Inn** (game hotel). **Sunday AM** — Cherry Lane → Cube. **Sunday** — Circuit race night, convoy escape, Straits, Malacca breach.
+- **Timeline — LOCKED rev. Y / job 2026-07-30:** **Saturday last light** — depart Pelangi; strait pier + Stack intake **Saturday eve**. **Saturday night** — **Continue Inn** (game hotel). **Sunday AM** — Cherry Lane → Cube. **Sunday afternoon** — idol **concert**; **Sunday night** — Circuit freight escape → Straits → Malacca breach.
 - **Wren escort — LOCKED rev. Y:** Handler from **Saturday AM catamaran** through **causeway hall**; **marina gate before checkpoint**; aboard Suresh through strait pier + arch; port shuttle, transit, buses; goodbye at **document lanes** (sends Eli to **Continue Inn**). Eli **alone** after — clerk, **Saturday night sleep**, **Sunday** Cube, convoy, Straits.
 - **Meridian / Malacca — LOCKED 2026-07-24 (rev. C):** **No Thailand body memory** before Ch 5. Ch 2: **Maren grounding gesture** at Cube overload; **receiver activations** (palms, flags, strait, *lit up*) — **talents activate, not trained**. **No martial foreshadow.** Malacca fight = **untrained** → asphyxia → receiver **ON without control**.
+- **Deep-time residue — LOCKED 2026-07-30:** (1) Extra lane as fossil of discarded male standing; (2) Cube managed eternal cherry bloom vs Pelangi volunteer trees — engineered Life without Wild; (3) bodily surge toward stage/gantry before meaning. Wrong reading: Extra = criminal; Cube = paradise; surge = destiny. Cost: wage ticket; receiver opens without control.
 - **Want:** make the Cherry Cube check-in; survive intake; learn why a Mandate
   archive photograph shows Rasel's hand and wedding ring.
 - **Attachment:** worker identity — tool roll, call sheet, *walk like you belong*.
@@ -126,7 +131,13 @@
   surveillance. Local workers and bounded Weaver/Thread help supply separate
   corrections. Rowan is not present.
 - **Worker-network beat — LOCKED rev. Y:** **Sunday AM**, after Continue Inn — **construction worker** at Cherry Lane gate recognizes Eli's speech and gives one partial shaft route beneath Cherry Lane. He cannot guide the whole group and risks losing his badge and wages by opening the gate. The route works only because a cleaner, cook, and dock mechanic each supply the next correction.
-- **Cherry Cube concert — LOCKED:** a fictional K-pop-scale idol performs on a mall floor above the circuit during **Meridian Circuit** race night. **Eli's contract is Cherry Cube show crew** — stage/wardrobe/AV facilities for the set and afterparty; he reaches the Cube **from below**, late and off-gate, on the call sheet but hunted. The star knew Maren as a child/young subject of her early protective-integration work; she helped him survive an episode and refused to let the program classify him as property. He recognizes Eli through Maren's face, a grounding gesture, and the circulated archive frame—not through supernatural certainty. Security stops Eli in a staff corridor (wrong route, intake flag); the star vouches the booked worker and opens the wardrobe leak into harbor freight. He gives Eli one personal memory of Maren. Fans mistake Eli for a surprise performer; Wren uses the crowd and wardrobe corridor without treating fans as shields. The star helps, but cannot become a secret cosmology expositor or abandon the people whose safety depends on him.
+- **Cherry Cube concert — LOCKED (rev. C — jacket + dance recognition, 2026-07-30):** a fictional K-pop-scale idol performs on a mall floor above the circuit during **Meridian Circuit** race night. **Eli's contract is Cherry Cube show crew** — stage/wardrobe/AV facilities for the set and afterparty; he reaches the Cube **from below**, late and off-gate, on the call sheet but hunted. The star knew Maren as a child/young subject of her early protective-integration work **at the sealed annex connected to the Cube itself** (`59_younger_dryas_nucleation_lock.md` § *Same site as Maren's early work* — not sayable on-page until Book III); she helped him survive an episode and refused to let the program classify him as property.
+  **The jacket:** in the wardrobe-leak chaos, a panicked dresser shoves the star's own signature stage jacket at Eli to get him moving (or he grabs it himself) — instantly fan-recognizable under stage lighting, at a distance, to a crowd already primed for a surprise-guest rumor.
+  **The surge:** the crowd sweeps Eli toward the stage; he doesn't walk into it. The star, seeing a stranger in his own jacket about to be mobbed or flagged by his own security, makes the fastest possible vouch available to him — he pulls Eli into the number as an impromptu surprise-guest bit. Nobody questions a man who's clearly supposed to be up there.
+  **The comedy is Eli's terror, not his skill** — a beat behind, badly mirroring the dancer beside him, panic under a plastered smile; the crowd reads every stumble as charm (`24_comedic_register_slapstick.md` register).
+  **Recognition happens here, mid-routine — not backstage.** Up close, in a partnered move, the star sees Maren's face, a grounding gesture, and the circulated archive frame in Eli — not through supernatural certainty. He has to keep performing through it: trained composure holding over the gut-punch, one missed beat, an ad-libbed change that keeps Eli close. Eli feels something go wrong in the man beside him and has no idea why.
+  **Backstage aftermath:** the number ends; the star walks him off in the transition. Security stops Eli in a staff corridor (wrong route, intake flag); the star vouches the booked worker — protecting someone personal now, not a stranger — and opens the wardrobe leak into harbor freight. In the short window before he has to let Eli go, he gives him one personal memory of Maren.
+  Wren uses the crowd and wardrobe corridor without treating fans as shields. The star helps, but cannot become a secret cosmology expositor or abandon the people whose safety depends on him.
 - **Movement 4 — north through the Straits:** the harbor network gets him onto a northbound vessel. Inspection and the first brush of psionic interference keep the journey active.
 - **Movement 4 — witness collision:** in reopening Malacca, Hassan's physical
   ring confirms the photograph while a quarantine sweep and Custodian operation
@@ -187,6 +198,7 @@
 
 ### [bank] What Didn't Die / grounding / maritime departure *(→ current Ch 3–4)*
 
+- **Deep-time residue — LOCKED 2026-07-30 (Ch 3–4):** (1) Three Circles tablet as plain clay with available wrong readings (hierarchy / map / astronomy / target) before Body/Family/Civilization; (2) kelong hospitality as practice older than registries — cup-count, lime divided, mangrove flowers taken by tide without ceremony; (3) Rootbook *Name* forked page as unfinished older inquiry, not destiny key. Wrong reading: tablet = rank seal; hospitality = Weaver conspiracy; *Name* = map home. Cost: Salmah's boat; choosing open pursuit over going dark.
 - A courier labels Eli's breach a threshold episode and is wrong; no expert
   arrives to correct her. Eli carries the wrong label until Thailand.
 - Wren finds him through Babaji's legitimate fallback contacts and receives him
@@ -194,7 +206,14 @@
   her job and house standing under scrutiny.
 - Babaji supplies the bounded Rootbook page and Three Circles object before the
   route breaks. Eli recognizes his mother's handwriting and makes the first wrong
-  comparisons himself.
+  comparisons himself. **Author note (not on-page here) — corrected 2026-07-30:**
+  the Three Circles object is a plain, personal gift — Babaji's own loyalty to
+  Rasel, nothing institutional. Play it exactly as an ordinary, generous gift
+  from a family friend. What isn't on-page yet: Wren, watching what the object
+  does to Eli across the journey, quietly forms her own professional judgment
+  about him and reports it through her own Weaver channel without telling him —
+  her act alone, not Babaji's and not a plan laid before Ch 1. Surfaces Book II
+  Ch 6 (`35_artifact_chain.md` § *activation and the Weavers' quiet interest*).
 - Grounding comes from breath already practiced, food, sleep, Salmah's practical
   care, Wren's body-before-story attention, and later the wat. No scholar teaches
   it.
@@ -212,6 +231,7 @@
 
 ### Ch 5 — The Field That Counts *(Eli · Thailand river-valley agricultural stop)*
 - **Parade Liturgy drip — LOCKED 2026-07-25:** Khun Dang quotes F6 (*I alone am dark*) as praise for playing quiet; stilt-house keeper mutters F5 at dawn — not explained (`54_liturgies.md`).
+- **Deep-time residue — LOCKED 2026-07-30:** (1) plant growth as detector before any message — living mesh, not imposed symbol; (2) mountain shrine / coffee spur as place that refuses sale (Wild vs managed Life rhyme with Cube); (3) wat heel-to-toe shared count as practice without doctrine. Wrong reading: plants = coded map for Eli; mountain = tourist set; wat = therapy. Cost: stale clue burns margin; he trusts growers over his vision.
 - **Want:** test the growth report.
 - **Attachment:** local growers; keeper stilt-house; **Khun Dang** (Pai ridge, present); Pai staff-twirler pass-through; **mountain-road landings** — winch crew, shrine, **coffee spur** (Chiang Dao–coded quiet farm; old lesbian couple; beans for the skull-wire; not a Net set-piece; mountain *not for sale*), Pai carnival market texture.
 - **Grounding hinge:** **mountain road (lived stair) → coffee spur → Pai pass-through → Khun Dang / *Hotel California* (3 nights) → five-day wat → stilt-house** — all present-day; childhood undisclosed. **Geography lock:** Pai keeps the hairpin stair + tourist landing; coffee farm borrows Chiang Dao quiet/agricultural mountain presence without renaming the route. Road is not empty corridor: lives cling to the landings. **Body score seeds:** Pai staff drop-on-purpose; wat heel-to-toe shared count after one bell; Khun Dang four chords as snare-time (`54` § *Body score*).
@@ -224,6 +244,7 @@
 - **M/I/A:** **M** — —. **I** — escape offer / third loyalty. **A** — weary proximity optional; pull felt, refused.
 
 ### Ch 6 — Midpoint: First Witness *(Eli · first witness site — Thailand approach)*
+- **Deep-time residue — LOCKED 2026-07-30:** (1) talking-stone / witness ground as place that behaves wrongly before mechanism; (2) Ila received as **other** — dead apprenticeship, not identity proof; (3) partial record naming planted-ground communities as living detectors. Wrong reading: Ila = destiny twin / past life; stone = personal oracle. Cost: grief with nowhere to set the love down; Wren goes colder.
 - **Want:** stand at a charged site long enough for a thread to clarify without collapsing from exhaustion.
 - **Obstacle:** at a **witness site** (witness stone / shrine marker / charged ground — pin exact site in `99`), a thread clarifies — hands, a birth, a fever, South Asian specifics (partial **Ila** contact); local **talking-stone lore** may precede the mechanism (`36` §7a); pursuit pressure won't wait.
 - **Choice → Cost:** he receives her as **other** — real, dead, grievable — without claiming her. Cost: grief with nowhere to set the love down.
@@ -237,6 +258,7 @@
 
 ### Ch 7 — The Forming Line *(Eli · Thailand rice/aquaculture cooperative)*
 - **Parade Liturgy drip — LOCKED 2026-07-25:** Lung Thong cites grandfather's F3 on the dyke — farmer register, not sermon.
+- **Deep-time residue — LOCKED 2026-07-30:** crop band as new line forming (Life mesh), distinguished from **dead ground** / scour scar and legacy contamination — place fossils without Phase names. Wrong reading: band = faction message or Eli's private map. Cost: asking growers for help paints a target on them.
 - **Want:** find and document the forming line before the Custodians.
 - **Attachment:** rice and seasonal-aquaculture farmers who already distinguish the anomaly from irrigation failure, salinity, blight, pesticide damage, industrial pollution, and remembered border-era spray or burn scars; their land, water, livelihood, and wary hospitality.
 - **Obstacle:** the Custodians **and another team** converge; the community wants neither faction; the formation is fragile.
@@ -248,6 +270,7 @@
 
 ### Ch 8 — Ila's Hands *(Eli · the Thailand cooperative)*
 - **Parade Liturgy drip — LOCKED 2026-07-25:** F7 after district health fax — Malai, flat, when apparatus notices the band (*I alone am dull* next to the file's bright certainty); draft at prose pass (`54_liturgies.md`).
+- **Deep-time residue — LOCKED 2026-07-30:** first body-read as practice older than gift mythology — pressure finds the bleed; slowing is ordinary hands. Elders' knowledge as unfinished older category the record doesn't hold. Wrong reading: Eli = healer/messiah. Cost: metabolic crash; bandwidth ≠ depth.
 - **Want:** help, and not be useless.
 - **Obstacle:** someone is hurt (the converging conflict draws first blood); Eli has Ila's record but no mastery.
 - **Choice → Cost:** he attempts his **first frightened body-read** — a **pressure-read at a bleed**: he feels exactly where it is bleeding and guides hands to it, but the slowing is ordinary pressure, not a gift (he does **not** heal). Cost: even the read is real but small, and costs him badly (metabolic crash; recovery grind).
@@ -255,6 +278,7 @@
 
 ### Ch 9 — Two Teams *(Eli · ensemble action · the Thailand cooperative)*
 - **Parade Liturgy drip — LOCKED 2026-07-25:** Pak Din at strait — F4 drift saying; **ON PAGE** (`54_liturgies.md`).
+- **Deep-time residue — LOCKED 2026-07-30:** factions contest **charged ground** (not only people) — first on-page scour appetite; war older than Eli. Wrong reading: the clue is the war's object; civilians are scenery. Cost: clean evidence jeopardized when Wren forces civilian-first.
 - **Want:** survive the convergence; protect the documentation / the people.
 - **Obstacle:** the Custodians and the rival team **attack each other** around the formation; civilians in the crossfire; entrainment-driven panic (`38`); **psion teams contest the ground** — first on-page hint that factions **target charged sites**, not only people (`38` § *Scour* — vocabulary later); rival unit **callsign** in chatter (Persia-prince seed — name later, `46` § G); **the Shield's conscience cracks** toward (not yet into) defection.
 - **Choice → Cost:** Wren commits to getting civilians out over securing the clean clue — forcing Eli's hand. Cost: the cleanest evidence is now in jeopardy.
@@ -263,6 +287,7 @@
 - **Revelation:** the war began before Eli existed and doesn't care about his clue. **Forward clue:** to save people, the documentation must be sacrificed.
 
 ### Ch 10 — People Over Evidence *(Eli · the Thailand cooperative)*
+- **Deep-time residue — LOCKED 2026-07-30:** Kitt's fork maps (two destinations, not one trunk) + blank page as incomplete older inquiry; wafer checksum **GHC / TREE 1 / R. KHAN** as bureaucratic/technical fossil pointing to Sanxingdui mesh. Wrong reading: fork = choose the true capital; blank = failure. Cost: clean docs burned; competence-as-command almost wins.
 - **Want:** protect the people in front of him.
 - **Obstacle:** the impossible split — secure the cleanest version of the clue, or get the community clear. A charge rises that wants to make him *useful at any cost* (the old autopilot: earn safety by competence).
 - **Choice → Cost:** Eli tries to save both the people and the cleanest agricultural evidence. The charge turns competence into command; he recognizes the autopilot but cannot yet stop it. **Wren makes the humane choice for him**, forcing the evacuation while he hesitates over the record. A named grower is injured and the clean documentation is damaged. Eli leaves Thailand with less proof, guilt over the delay, and no private victory to hide behind.
@@ -274,7 +299,11 @@
 
 ## ACT IV — Father and the Living Tree *(AUTHORITATIVE — LOCKED 2026-07-26)*
 
+> **COMPLETE MEAL — LOCKED 2026-07-31:** Ch 11–13 must satisfy `55` § *Five delivery upgrades* #5 — finished thriller (chase, wonder, father recovered, irreversible costs) that also opens Book II. Not setup-only. Secondary brand face = Sanxingdui tree; series brand face remains Rasel's ring.
+
 ### Ch 11 — Human Doors *(Eli · Thailand → Laos closed → Vietnam detour → Yunnan → Sichuan)*
+- **Deep-time residue — LOCKED 2026-07-30:** (1) border forms / suspended crossings as bureaucratic fossils of claiming; (2) Edda's biometric "protected line" as managed access rhyme with Göbekli later; (3) living freight/human doors vs institutional shortcut. Wrong reading: protected line = mercy; detour = wasted subplot. Cost: Dara's permit; Sora gate risk.
+- **Delivery — LOCKED 2026-07-31:** antagonist job = Edda's clean-scan clock; chemistry = road logistics / irritation with Wren/Dara without thesis; wonder deferred to Ch 12 tree — keep hunger for Rasel and fear for papers audible.
 - **Route — integrated 2026-07-29:** Laos freight crossing suspends under the same rising emergency that will empty Sanxingdui civilians; group detours Vietnam monsoon roads where old clearance maps lie and floodwater moves ordnance; Sora soft-helps at a highland post; Dara's permit dies; Sichuan arrives late. Dual clocks: Rasel move vs Wren/Dara civilian cost.
 - **Immediate want:** reach Rasel before the Mandate moves him; resist the four-day road home to Bangladesh.
 - **Opposing wants:** Edda wants clean voluntary intake; Dara wants to preserve
@@ -292,6 +321,8 @@
 - **Romance cost:** Eli invokes “told first”; Wren discloses the Penang household cost without asking to be forgiven.
 
 ### Ch 12 — The Tree with No Top *(Eli · Sanxingdui Museum / conservation program)*
+- **Deep-time residue / ancient face payoff — LOCKED 2026-07-30:** Bronze Sacred Tree = Book I ancient face staged as wonder first (Shu art), then mesh without one trunk. Greenhouse / shelterbelt living route foreshadows Ch 13. Wrong reading: missing top = broken prophecy for Eli; tree = one genealogical trunk; conservation = mere museum. Cost: language-tree model fails; family answer does not arrive as possession.
+- **Delivery — LOCKED 2026-07-31:** wonder-before-ambush mandatory; antagonist job = conservation/security + coerced cadence clocks; chemistry = Luo/Qiao/Wren competence without lecture; ring memory may flash when family answer fails.
 - **Immediate want:** see Rasel.
 - **Opposing wants:** Luo and Qiao protect site, staff, and interpretive
   authority; Rasel's coerced program wants the correspondence to become a model;
@@ -305,6 +336,8 @@
   route.
 
 ### Ch 13 — The Living Route *(Eli · conservation campus / Mandate annex / greenhouse aftermath)*
+- **Deep-time residue / ancient face close — LOCKED 2026-07-30:** living drainage/shelterbelt + greenhouse tomatoes as distributed Tree enacted; multiple mismatched cadences defeat one master rhythm; neglected tomato tied to lab cuff = Living over Knowledge apparatus. Wrong reading: Manual Override = Eli's private power; reunion = restoration. Cost: Wren's standing burned; Qiao's clearance; father-son collision incomplete.
+- **Delivery — LOCKED 2026-07-31:** climax must **satisfy** — father out, civilians out, Wren's cost paid and felt — then open Maren/west unpaid. Chemistry in greenhouse collision (food, tomato, unfinished love) before Book II road.
 - **Immediate want:** get Rasel out without sacrificing staff or local custodians.
 - **Opposing wants:** Edda wants controlled registration; Rasel wants to destroy
   the concentration bridge; Luo and Qiao protect institutional and cultural

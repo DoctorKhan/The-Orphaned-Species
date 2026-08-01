@@ -222,6 +222,11 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 13. **Antagonist job** — at least one opposing force has a **present-tense task with a deadline**, not only an ideology (`55` § *Three pressure rules*).
 14. **Cost → next chapter** — the chapter's paid cost must change what is possible, forced, or forbidden in the **next** chapter — not only the moral temperature (`55` § *Three pressure rules*).
 15. **Term-density budget — LOCKED 2026-07-29.** No more than **one new named concept** (faction, cosmological term, institution) per chapter, unless it is replacing or recontextualizing one already introduced (`17` § *Delay the full taxonomy*). As chapters fill toward full novel length, the added pages must be spent on breathing room around existing terms — companion translation, sensory grounding, domestic stakes — not on introducing new vocabulary faster to match the added plot. If a chapter needs a second new term to function, cut one of the two or split the chapter; don't let both land in the same reader-sequence unit.
+16. **Volume density parity — LOCKED 2026-07-31.** Books II–IV must match Book I's **pressure + residue + people** density, not only its plot spine. A chapter that advances architecture without lived place, cast chemistry, or antagonist job fails even if the beat card is complete (`55` § *Five delivery upgrades*).
+17. **Antagonist weekly job — LOCKED 2026-07-31.** Across each volume, opposing forces keep **present-tense work with deadlines** audible at least every 1–2 chapters (not ideology alone). Soft-hunt / clerk / Sol recruit / Continuity roster / registry sweep all count if someone is doing a job by a clock (`55` § *Five delivery upgrades*).
+18. **Cast chemistry (non-thesis) — LOCKED 2026-07-31.** Every 1–2 chapters include at least one beat of **wanting to hang with these people**: food, banter, irritation, mutual competence, shared sleep/travel logistics — not a moral argument. Desire between people spikes as often as cosmology (`55` § *Five delivery upgrades*).
+19. **Brand face check — LOCKED 2026-07-31.** Series/cover/pitch default image = **Rasel's two-metal wedding ring (*same soil*)**. Volume may add a secondary face (I tree; II Refusal/stone; III Loop; IV court seal) but must not bury the ring as the stranger's first memory (`55` § *Five delivery upgrades*).
+20. **Book I complete meal — LOCKED 2026-07-31.** Ch 11–13 must read as a finished thriller (chase, landmark wonder, father recovered, irreversible costs) that also opens the series — not as setup that withholds satisfaction until Book II (`55` § *Five delivery upgrades*; `58`).
 
 ---
 
@@ -264,6 +269,8 @@ Opponents are not thesis-monsters. Each major opposing force on a chapter must h
 
 **Refuse:** villains who only "represent control," speeches that explain Charkha, Crane as cartoon. Crane may loom; his **argument** lands through people doing jobs.
 
+**Weekly cadence — LOCKED 2026-07-31:** do not let more than **one chapter** pass without an audible antagonist job somewhere in the volume's present (hunt, registry, Continuity, Sol, Mandate strike clock, court faction filing). Ideology without a job fails Rule 2 even if thematically correct. Full package: § *Five delivery upgrades*.
+
 ### Rule 3 — Costs that change the next chapter
 
 A "domestic cost" that only darkens mood fails. The paid cost must alter **options**:
@@ -274,6 +281,58 @@ A "domestic cost" that only darkens mood fails. The paid cost must alter **optio
 - the next chapter's opening condition is different because of this bill.
 
 **Hard test:** write one sentence: *Because X was paid in Ch N, Ch N+1 cannot do Y and must do Z.* If you cannot, the cost is temperature.
+
+---
+
+## Five delivery upgrades — LOCKED 2026-07-31
+
+> **Why:** architecture, World Bible, and moral locks are ahead of reader delivery. Series that move readers are hungrier on every page, clearer as a product, and more fun to be inside. These five upgrades are **HIGH PRIORITY** revision gates beside the checklist (items 16–20) and the Three pressure rules. They do **not** authorize more lore, earlier cosmology, or glossary front-loading.
+
+### 1. Volume density parity (Books II–IV → Book I standard)
+
+**Standard:** Book I's governing draft density of **pressure + deep-time residue + people**.  
+**Fail:** a chapter that is only a correct beat-card summary (route → reveal → exit) without sensory place, domestic texture, antagonist job, or cast chemistry.  
+**Fix:** thicken lived scenes; do not add Phase lectures to "fill" length. Residue quota (`17`) and chemistry quota (below) count toward parity.
+
+### 2. Antagonists with weekly jobs
+
+Extend Rule 2 across the volume: opposing forces keep **present-tense work with deadlines** audible at least every 1–2 chapters. Soft-hunt, clerk, Continuity roster, registry sweep, Sol recruit, Mandate strike window, court filing all count. The reader should feel chased by **people doing jobs**, not only by systems and themes.
+
+### 3. Cast chemistry that isn't thesis
+
+Every 1–2 chapters: at least one beat where the reader wants to **stay in the room** with these people — food, banter, irritation, competence, shared logistics, awkward care — without a moral argument landing in the same beat. Romance/friendship hunger should spike as often as cosmology. Attachment docs (`16`, `19`) govern truth; this upgrade governs **frequency and warmth**.
+
+### 4. Brand face — Rasel's ring
+
+**Series / cover / stranger-memory default — LOCKED:** **Rasel's two-metal wedding ring (*same soil*)** — already the back-cover lead (*His ring is sitting in an evidence tray*).  
+**Volume secondary faces (optional, never replace the series default in pitch):**  
+
+| Volume | Secondary face |
+|---|---|
+| I | Sanxingdui bronze tree / living plants |
+| II | Refusal lacuna / stone station |
+| III | The Loop (Incomplete Twin Circles) |
+| IV | Court seal / empty chair |
+
+Do not let Circles / Loop / Tree / Rootbook compete equally in the one-sentence pitch. The ring wins first memory; others earn later.
+
+### 5. Book I as a complete meal
+
+Ch 11–13 (Human Doors → Tree with No Top → Living Route) must deliver a **finished thriller satisfaction**: chase clocks, landmark wonder, father recovered, irreversible public costs (Wren displaced, Qiao barred), parental complicity opened — **and** still open Book II (Maren west, Göbekli unpaid). Fail if the ending reads only as "setup for the real series." Governing climax: `58_sanxingdui_climax_lock.md`.
+
+### Revision priority order
+
+1. Book I Ch 11–13 complete-meal pass  
+2. Antagonist job audit Books I–IV (fill silent stretches)  
+3. Chemistry beats every 1–2 chapters where thin  
+4. Books II–IV density parity toward Book I  
+5. Pitch/cover materials: ring-first; secondary faces labeled as volume-only  
+
+**Do not "fix" delivery by adding factions, earlier panspermia, or taxonomy.** Hunger, clarity, and company first.
+
+---
+
+## Dual-clock & cost→next maps (volume audits)
 
 ### Book I — dual-clock & cost→next map (drafting / revision obligation)
 
@@ -320,7 +379,7 @@ Same three rules. Clock A becomes **keep the rescued world from re-caging** (int
 
 | Need | Doc |
 |---|---|
-| **Governing Book I prose / revision gate** | **`manuscripts/I_The_Breach.md`** + **`55`** checklist (items 1–14) + **Three pressure rules** |
+| **Governing Book I prose / revision gate** | **`manuscripts/I_The_Breach.md`** + **`55`** checklist (items 1–20) + **Three pressure rules** + **Five delivery upgrades** |
 | Emotional reveal order | `17_reveal_order_and_reader_impact.md` |
 | Prose voice | `14_literary_speculative_thriller_style_guide.md` |
 | Governing story sentence | `05_story_architecture.md` §1 |

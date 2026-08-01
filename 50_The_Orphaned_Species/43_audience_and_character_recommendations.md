@@ -112,3 +112,5 @@ At least three of these women should speak to one another about an objective tha
 6. Ensure Maren becomes a morally complicated actor, not only the lost mother and metaphysical tether.
 
 The governing principle is simple: **relatability comes less from admirable traits than from recognizable negotiations**—between duty and desire, care and resentment, safety and autonomy, love and self-preservation, belief and embarrassment, competence and exhaustion.
+
+**Character singularity — LOCKED 2026-07-30:** for non-transferable cores (Eli / Wren / Rowan / Sol / Ma), five builders, uniqueness test, and scene kit, see `27_character_development_arcs.md` § *Character singularity*. Relatability without singularity still produces interchangeable thematic agents.

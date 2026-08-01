@@ -2,7 +2,7 @@
 
 > **SANXINGDUI REVEAL — LOCKED 2026-07-26:** Book I may name **Tree of Life** late at Sanxingdui after the distributed living route is experienced and independently checked through Rasel's physics, Thai field data, and Chinese scholarship. The allowed discovery is that the Tree of Life is the living world connected to itself—not the full plane hierarchy, immortality answer, panspermia account, dragon taxonomy, or Two-Tree union. `58_sanxingdui_climax_lock.md` governs.
 
-> **Status:** LOCKED craft instruction for the trilogy's **through-line**. Anti-entropic / life technology is **discovered throughout** — present plot, artifacts, Seven descents, and practices — not dumped at the climax. The **end result** is the **reunification of the Tree of Life and the Tree of Knowledge**, not victory for either tree alone. Pair with `34_two_energies_and_planes.md` (cosmology), `17_reveal_order_and_reader_impact.md` (emotional order), `21_present_day_street_skin.md` (present-day skin), `28_present_day_trilogy_craft_index.md` (craft hub), `33_the_curriculum.md` (practices), `35_artifact_chain.md` (objects), `05_story_architecture.md` (structure), and `40_concepts.md` (Eden III).
+> **Status:** LOCKED craft instruction for the trilogy's **through-line**. Anti-entropic / life technology is **discovered throughout** — present plot, artifacts, Seven descents, and practices — not dumped at the climax. The **end result** is the **reunification of the Tree of Life and the Tree of Knowledge**, not victory for either tree alone. **Technology teaches meaning — LOCKED 2026-07-31** (concepts via runnable tech so life is not feared; parent `SERIES_STRUCTURE.md`). Pair with `34_two_energies_and_planes.md` (cosmology), `17_reveal_order_and_reader_impact.md` (emotional order), `21_present_day_street_skin.md` (present-day skin), `28_present_day_trilogy_craft_index.md` (craft hub), `33_the_curriculum.md` (practices), `35_artifact_chain.md` (objects), `05_story_architecture.md` (structure), `40_concepts.md` (Eden III), and `62_lifetime_orchestra.md` (V–X Lifetime Orchestra).
 
 **Book III operating rule — LOCKED 2026-07-16:** The two trees check one another continuously. Knowledge supplies records, instruments, models, and public verification; psionic life supplies embodied attention, empathy, and feedback from living systems. Knowledge catches projection and coercive charisma; psionics catches abstraction and the people erased by a category. Their union is enacted through consent, independent verification, and reversible authority—not through Eli's private certainty.
 
@@ -52,6 +52,35 @@ Every volume, act, and major descent should deliver at least one **life-technolo
 One-line filter for any chapter:
 
 > *What did Eli or the reader just discover about **life** (connection, healing, field, anti-entropy) — and what did they discover about **knowledge** (measurement, symbol, registry, test) — and are those discoveries still split, or beginning to join?*
+
+### Technology teaches meaning — LOCKED 2026-07-31
+
+> **Parent lock:** `SERIES_STRUCTURE.md` § *Technology teaches meaning*.
+
+Horizon and deep concepts are introduced **through technology** (instruments,
+practices, labs, vessels, failed runs, verified protocols) — not as cosmology
+sermons. **The point of the tech spine:** death technology joined to life
+technology can teach the **meaning of life** so people are **not afraid of it**.
+Fear shrinks when what looked like death, magic, or doom becomes **operational**:
+measurable, costly, revisable, consent-bound, shareable. This is Adapa inverted —
+inside the entropic clock, Life looks like death until both Trees run together.
+
+| Fear | Tech face that teaches | Meaning without lecture |
+|---|---|---|
+| Death / ending | Entropy clock; timers that break loops | Life as circuit-breaker; mortality not only wound |
+| Loss of control | Override / choice-point tools; autopilot made visible | Step-in possible; failure is sensor |
+| Time as prison | Complex time (lateral / adjacent states) | Time has structure |
+| One body / one shot | Mobile locus; one will–many streams as interface | Self as pointer; multiplicity operable |
+| Cosmic orphanhood | Panspermia as engineering cycle | Inside a test that can be authored |
+| Infinite dread | Convergence vs hell-as-unescaped-loop | Lucid creation, not deathless repetition |
+
+**Scene filter:** Does this beat give someone a **tool they can run, fail, and
+verify** under a deadline — or only a speech about what it means? Prefer the tool.
+Meaning is what the working (or honestly failing) tech forces characters to notice.
+
+**Still binds:** reciprocal circuit (Life ↔ Knowledge ↔ people); humility as
+empirical honesty; AI never interprets the person; no revelation without a witness;
+terminology rules for naming death/life technology late.
 
 ---
 
@@ -175,13 +204,27 @@ Eli **clarifies** the web; he does not "unlock levels." Each clarification shoul
 
 **Death technology** is ordinary tech — not the enemy. The braid must show it **throughout** before the name lands:
 
-- Emrys's instruments, signatures, equations;
+- Rasel's instruments, signatures, equations;
 - mother's research encoded in symbols and measure;
 - registries, archives, broken satellites, computers, border systems;
 - Cuno's geometry as **arrangement you can test**;
 - science, falsifiers, consent practices — accountable knowing.
 
 If a volume only adds Life-mystery without entropic-plane tools, it rebuilds **Life without Knowledge**. If it only adds tech-as-control without native connection, it stays **Adapa's trap**.
+
+### Rasel's information-theory thread — the one-time pad — LOCKED 2026-07-30
+
+**Real science, citable:** Shannon proved (*Communication Theory of Secrecy Systems*, 1949) that a cipher achieves **unconditional** secrecy — not merely computationally hard, but mathematically unbreakable regardless of resources — if and only if the key is truly random, at least as long as the message, and **used exactly once**. This is the **one-time pad**. Its real-world failure mode is documented: Soviet one-time pads reused during WWII were broken by the **Venona** project, because reuse reintroduces statistical pattern into what is supposed to have none. Separately, Schrödinger (*What Is Life?*, 1944) frames living organisms as systems that stay locally ordered by continuously exporting entropy to their surroundings — "feeding on negative entropy."
+
+**The bridge (fictional extension, not a real-science claim):** a living network stays uncapturable for the *same structural reason* a one-time pad stays unbreakable — nothing about it is ever recorded, fixed, or reused. Compressing it into a stable, recordable key is the informational equivalent of reusing the pad, and it breaks the same way Venona broke it. Rasel's coerced apparatus — already locked to attempt making the field "concentratable, recordable, and governable" (`58_sanxingdui_climax_lock.md`) — hits this as a **hard mathematical wall**, not merely a moral failure. This gives the already-locked Sanxingdui choice (machine route = ownership; living route = "cannot be recorded as a complete proprietary read") a citable-science mechanism, and it backs up the Tablet of Destinies' distributed-fragments design (`35_artifact_chain.md`): a key that was never allowed to exist whole in one recordable place.
+
+**Terminology discipline applies unchanged:** this stays inside Rail C's already-sanctioned vocabulary (equations, entropy, signal, key, measure) throughout Book II. Do **not** attach the labels "life technology" / "death technology" to it before Vol III's naming per the terminology-discipline table below.
+
+**Discovery ladder (Book II, full detail: `32_volume_II_beatsheet.md`):**
+- **Ch 1 seed:** Rasel reads the Three-Circles Tablet's propagation diagram as an information structure, not a myth — *a signal you could record completely would already have stopped being this one.* Unresolved; Eli files it as one of Baba's strange sentences.
+- **Ch 2 technical rhyme:** sitting beside the Adapa lacuna, Rasel connects it to his own sabotage — he broke his captors' apparatus by reintroducing exactly the non-repeating uniqueness they were trying to compress out of it.
+- **Ch 9 realization:** Rasel's "one final instrumented verification" (already locked) is where he and Eli understand *why* the instrumented approach cannot fully hold Maren — recording her is the wrong tool by the same logic.
+- **Ch 10 functional payoff:** the release itself — un-recorded, once-only, freely given — is the one-time-pad-consistent act. Still not formally named; Eli functionally understands it before the label exists for him.
 
 ---
 
@@ -307,7 +350,7 @@ Native anti-entropic participation — what the Seven proved without the machine
 
 What we already call **technology**: physics in entropic time, equations, measure, engineered interfaces. At the climax this includes:
 
-- Emrys's instruments and the charged site as **interface**, not source;
+- Rasel's instruments and the charged site as **interface**, not source — now pointed at verifying the ground rather than recording/keying it, the reunified use of the same math that once served extraction (§ *Rasel's information-theory thread* above);
 - the mother's **encoded research** — symbols, correlations, predictions;
 - Cuno's geometry, stone arrangement, data that can be **tested**;
 - coalition coherence held with **standards**, not charisma alone.
@@ -319,7 +362,7 @@ Not soul-harvest necromancy — the **same clock** Adapa trusted when he heard *
 | Life technology | Death technology |
 |---|---|
 | reaches the mother where she stands | stones + geometry **read** the ground |
-| holds collective coherence | mother's equations + Emrys's measures **locate** her |
+| holds collective coherence | mother's equations + Rasel's measures **locate** her |
 | releases attachment — she walks out alive | accountable knowing of **why** reunion is the leash |
 | native road fires through bodies, sound, warmth | instruments discriminate real signal vs psion forgery |
 | spreading fire — practices ungovernable | tech repurposed from classification → translation, consent, documentation |

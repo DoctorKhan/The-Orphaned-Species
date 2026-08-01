@@ -23,6 +23,50 @@ The plot should discover **effects before causes, practices before doctrines, an
 
 **Desire before information — LOCKED 2026-07-22:** the reader follows an unanswered longing more deeply than an unanswered fact. Eli's governing desire is to find a place where he can remain—known without classification, loved without possession, useful without earning existence. Book I turns that desire toward lost home and proof he was not abandoned; Book II toward real reunion and the release of family; Book III toward the dangerous wish to prevent all future loss. No artifact, site, historical answer, or cosmological term should arrive unless it intensifies, frustrates, revises, or exacts a cost from a human desire.
 
+## Deep-time residue density — LOCKED 2026-07-30
+
+The Master Timeline (Phases 0–X) is larger than four novels can fully stage. That is intentional. The novels must still **embody more of it** than a clue-chain alone currently risks delivering. Embodiment means **fossils in the rooms**, not earlier cosmology lectures.
+
+**Governing rule:** every deep-time claim first arrives as one of:
+- an object with wrong wear;
+- a place that behaves wrongly;
+- a practice someone still uses without knowing why;
+- a folk saying that is half true;
+- a bureaucratic form that preserved an older category;
+- a bodily reaction before any explanation.
+
+If it exists only in `00_MASTER_TIMELINE.md`, it is not yet in the novel.
+
+**Density quota — LOCKED:** roughly **one deep-time residue every 1–2 chapters**. Not one midbook lore scene. Social-world texture (Extra, remittance, drones, registries) does **not** count toward this quota unless it also carries an older fossil (e.g. Extra as discarded worker after vacant divine office; registry as claiming made bureaucratic).
+
+**Wrong first, true later:** characters should misread ancient material early. Circles as cosmology map before Body/Family/Civilization; Loop as destiny/love mark before fantasy/atomization; Sídhe as fairy folklore before layered underground survival; Forks as monster story before sibling branching.
+
+**Institutions as fossils:** present systems are degraded inheritance — Extra, registry, scientist claiming, cloister/Weaver rivalry, pronatal policy. Readers feel deep time when they recognize: *this is not new; it is unfinished older systems wearing modern clothes.*
+
+**Ancient face per volume — LOCKED:**
+
+| Volume | Ancient face | Function |
+|---|---|---|
+| **I** | Living plants / Sanxingdui tree | Tree of Life is distributed relation |
+| **II** | Sídhe / Göbekli / Adapa–Refusal packet | Gods underground; contact became command; Refusal |
+| **III** | Forks + Loop + Umul | Coexistence test; hollow completion; heal not spend |
+| **IV** | Court as fossil temple | Offices without gods; refuse heir mythology |
+
+**Per-chapter drafting test (add to beatsheet work):**
+1. What ordinary want drives this chapter?
+2. What World-Bible social pressure is visible?
+3. What one deep-time residue appears (object / place / practice / saying / form / body)?
+4. What wrong reading is available?
+5. What human cost pays for contact with it?
+
+If #3 is blank too often, the chapter under-embodies the timeline.
+
+**Do not:** explain Anunnaki early; narrate Phase charts on-page; resolve panspermia before Book III; turn every chapter into a museum visit. More deep time ≠ more exposition. More deep time = more **unexplained continuities**.
+
+Companion: `35_artifact_chain.md` § placement; `42` § residue-only delivery; beatsheets `31`/`32`/`33` residue lines; `00_MASTER_TIMELINE.md` (chronology, not on-page order).
+
+**Five delivery upgrades — LOCKED 2026-07-31 (cross-ref):** hunger and company before more lore. Volume density parity; antagonist weekly jobs; cast chemistry non-thesis; brand face = Rasel's ring; Book I Ch 11–13 complete meal. Canonical lock: `55_series_pitch_and_comps.md` § *Five delivery upgrades* (checklist items 16–20).
+
 ## Genre comps and clue-chain craft — LOCKED 2026-07-25
 
 > **Canonical pitch hub:** **`55_series_pitch_and_comps.md`** (agent/query, back-cover, full comps table, checklist items 1–14, **Three pressure rules**). This section retains craft summary for reveal-order work.
@@ -291,7 +335,13 @@ Craft rules:
 
 **Deeper-function question — RESOLVED (author-side), staged for the post-trilogy books (2026-07-28):** Iblīs serves evolution, consciously — closer to a prosecutor in a proceeding than an enemy of the process. It presses humanity to fail so that passing means something, the same way the civilization-scale verification search (`15` § No sides, only incentives; the reunion/choice-point material in `30_The_Human_Experiment`) requires real resistance to produce a real, tested result rather than an assumed one. Books I–III still owe it the full Tier 3 treatment above — no embodiment, no monologue, no confirmation, no character ever gets a verdict — but may plant **deniable** evidence compatible with this reading: a whisper that reads, in hindsight, as pressure-testing rather than pure malice; a failure that was survivable and, faced honestly, produced growth; a near-miss where giving in would have been the actual loss. None of this may be legible as "the test was friendly" before the reveal — it must still read as a real, costly, standing threat for the whole trilogy.
 
-**The court metaphor is an entry point, not the final register.** Underneath prosecution and defense, the proceeding is an **engine of growth**, not an adjudication — there is no final case to close, which is why the Tier 3 ending is a standing condition rather than a verdict-and-elimination. Pressure, guidance, and a self-built verification system are three parts of one continuously running developmental mechanism, operating at every scale the trilogy already tracks (body, family, civilization, species) — the same shape as the reinforcement-learning search in `15` and `30_The_Human_Experiment`, just named legibly at last. **The verdict is fractal, not only civilizational — confirmed 2026-07-28.** An individual's own pass or fail is real and separate from whether humanity-in-aggregate graduates; a person can complete their own Three-Circles work while the species around them mostly doesn't, or fail their own while the species scrapes through. No character's arc is validated or voided by the species-level outcome — each is its own instance of the same engine, which is what keeps any single ordinary life (the trilogy's actual ending register) load-bearing on its own terms rather than a footnote to a cosmic result. The payoff across the later books is not a swerve but a widening: the reader who understood "trial" learns it was always "training," and neither reading has to be wrong for the other to be true. Exact placement across the post-trilogy books (currently anticipated as Books IV–VI, tentative) is open; the trilogy itself changes nothing about its own restraint (`99` #15).
+**The court metaphor is an entry point, not the final register.** Underneath prosecution and defense, the proceeding is an **engine of growth**, not an adjudication — there is no final case to close, which is why the Tier 3 ending is a standing condition rather than a verdict-and-elimination. Pressure, guidance, and a self-built verification system are three parts of one continuously running developmental mechanism, operating at every scale the trilogy already tracks (body, family, civilization, species) — the same shape as the reinforcement-learning search in `15` and `30_The_Human_Experiment`, just named legibly at last.
+
+**Ultimate metaphysical thesis — LOCKED 2026-07-30 (V–VI horizon):** that engine of growth is not only civic evolution. From the Player / soul-plane view, the embodied world and its control architectures are **artificial training gear meant to break**; autopilot fails so the operator can step in; consequence is the only feedback for beings who cannot see themselves; the point is **learn control → learn creation**. I–IV *belong without owning* remains real intermediate curriculum. Full lock: `SERIES_STRUCTURE.md` § *Ultimate metaphysical thesis*. Do not confirm on-page in Books I–IV.
+
+**Locally wrong / cosmically load-bearing — LOCKED 2026-07-31:** when the story marks something as wrong (Drift, manifestation bullying, forced sync, a crown that returns), eventually open the fractal use — that failure was sensor/pressure in the training picture — without moral acquittal or gaslighting the injured. Cost first; greater picture later.
+
+**The verdict is fractal, not only civilizational — confirmed 2026-07-28.** An individual's own pass or fail is real and separate from whether humanity-in-aggregate graduates; a person can complete their own Three-Circles work while the species around them mostly doesn't, or fail their own while the species scrapes through. No character's arc is validated or voided by the species-level outcome — each is its own instance of the same engine, which is what keeps any single ordinary life (the trilogy's actual ending register) load-bearing on its own terms rather than a footnote to a cosmic result. The payoff across the later books is not a swerve but a widening: the reader who understood "trial" learns it was always "training," and neither reading has to be wrong for the other to be true. Exact placement across the post-trilogy books (currently anticipated as Books IV–VI, tentative) is open; the trilogy itself changes nothing about its own restraint (`99` #15).
 
 **The defense — LOCKED 2026-07-28.** The proceeding has two sides, not one. The faithful Watchers (Tier 2, "faithful guide Eli" in `34_two_energies_and_planes.md` § planes table) are the defense: spirit guides who act only from the spirit plane — dream, omen, resonance, the same register Anu+26 uses — never embodied, never overriding, never arguing the case for humanity by winning it for them. Prosecution and defense are both non-coercive; neither may compel a verdict. The verdict is supplied by conduct alone — which is also why the faithful Watchers' restraint during the ancient purges (`00_MASTER_TIMELINE.md` § "the faithful Watchers' restraint") is not a failure of nerve: a defense that could simply intervene and win would collapse the same proceeding Iblīs's restraint keeps intact from the other side.
 
