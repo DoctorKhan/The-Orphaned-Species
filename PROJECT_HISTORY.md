@@ -219,7 +219,7 @@ Commit `8fba2d6` removed 429 generated files and approximately 358,000 generated
 
 ## Phase V — Resonance instead of reincarnation
 
-Commit `5543053` records the current narrative correction. Earlier June material used a reincarnation braid in which Eli, the Seven, Wren, and Crane repeated identities across history. The revised structure rejects that mechanism:
+Commit `5543053` records the current narrative correction. Earlier June material used a reincarnation braid in which Eli, the Seven, Wren, and Lang repeated identities across history. The revised structure rejects that mechanism:
 
 - the Seven are distinct historical subjects, not Eli's past lives;
 - Eli's maternal line explains receptivity, not ownership of other lives;

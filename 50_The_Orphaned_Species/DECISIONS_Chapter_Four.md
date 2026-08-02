@@ -1,5 +1,7 @@
 # Chapter Four — Her People
 
+> **SUPERSEDED — 2026-08-01.** **Professor Emrys does not exist** (`99_open_questions.md` §9, LOCKED 2026-07-27). Item 5 below (Emrys travels by freight) is retired-role quarry; the "breath before / log counted dreams" homework beat needs reattribution or removal. Preserved for scene salvage only.
+
 > **File:** `DECISIONS_Chapter_Four.md` (renamed from `DRAFT_Chapter_Four.md` 2026-07-24). **Drafted directly into `manuscripts/I_The_Breach.md` — the manuscript is governing.** This file is the decision record.
 
 ## Draft choices — flagged for veto

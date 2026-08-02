@@ -65,7 +65,7 @@ If #3 is blank too often, the chapter under-embodies the timeline.
 
 Companion: `35_artifact_chain.md` § placement; `42` § residue-only delivery; beatsheets `31`/`32`/`33` residue lines; `00_MASTER_TIMELINE.md` (chronology, not on-page order).
 
-**Five delivery upgrades — LOCKED 2026-07-31 (cross-ref):** hunger and company before more lore. Volume density parity; antagonist weekly jobs; cast chemistry non-thesis; brand face = Rasel's ring; Book I Ch 11–13 complete meal. Canonical lock: `55_series_pitch_and_comps.md` § *Five delivery upgrades* (checklist items 16–20).
+**Five delivery upgrades — LOCKED 2026-07-31; PITCH/VISUAL REVISED 2026-08-01 (cross-ref):** hunger and company before more lore. Volume density parity; antagonist weekly jobs; cast chemistry non-thesis; Rasel's ring owns the first causal pitch memory while the Sanxingdui tree owns the series visual system; Book I Ch 11–13 complete meal. Canonical lock: `55_series_pitch_and_comps.md` § *Five delivery upgrades* (checklist items 16–20).
 
 ## Genre comps and clue-chain craft — LOCKED 2026-07-25
 
@@ -95,7 +95,7 @@ Both are **puzzle-driven adventure thrillers**: propulsion comes from **decoding
 1. **Linear clue propulsion.** Never leave the reader without a **next question** that requires **going somewhere**. Each beat answers one thing and opens two.
 2. **Real, visual, touristable set-pieces.** Churches, museums, monuments — the reader can **see** the clue. Cinematic before cinematic was mandatory.
 3. **Institutional villainy.** The enemy is not only a man with a gun — it is **a file, a registry, a board, a doctrine** that ordinary people serve.
-4. **Expert companion.** Langdon / Riley need a friend who can read the code. Eli needs **Emrys, Wren, keepers, clerks, Mei-memory** — never solo lecture.
+4. **No single expert companion.** Langdon / Riley need a friend who can read the code; Eli deliberately does not get one (`99_open_questions.md` §9). He reads through **Wren, keepers, clerks, local custodians, Mei-memory** — never solo lecture, and never one recurring expert carrying the role alone.
 5. **Short-loop payoff.** Major clues pay off within **1–3 chapters**, not only at trilogy end. Brown's chapters end on micro-revelations.
 6. **Accessible prose, high concept.** One sentence pitch; sentences that move; jargon translated through **argument and place**, not glossary.
 7. **"Everything you know is wrong" — but legible.** The hook is revision of **known history**, not invention of opaque lore. Pömmelte, Göbekli, Albion rename, ring on the file — **recognizable names bent**.
@@ -117,7 +117,7 @@ Both are **puzzle-driven adventure thrillers**: propulsion comes from **decoding
 | Treasure box / single bloodline ending | **Release + coexistence** — Maren freed, grid unowned, federation without HQ |
 | Protagonist owns decoded truth | **Contested evidence** — stale, planted, misread; communities **correct** Maren (`52` Rootbook) |
 | Clue trail = complete map | **No full itinerary** — next person, record, or anomaly only (`95` *clue trail*) |
-| Conspiracy without domestic cost | **Hearth forfeited** (Ch 1), Emrys taken, Laleh lost, named deaths in Vol III |
+| Conspiracy without domestic cost | **Hearth forfeited** (Ch 1), Wren displaced (Sanxingdui), Laleh lost, named deaths in Vol III |
 | Boss fight with ultimate evil | **Standing condition** — vigilance, not elimination (`§ Tier 3`) |
 | Certainty | **Effects before causes** — governing rule above |
 
@@ -131,7 +131,7 @@ Use at **chapter outline** and **revision**:
 4. **Payoff within 1–3 chapters?** If the clue only sets up Book III, add a **partial human payoff** now (fear, route change, relationship cost).
 5. **Institutional texture?** Clipboard, white coat, sponsor line, museum board — Charkha **felt** in procedure.
 6. **Companion read?** Someone on-page translates; Eli is not the only mouth for history.
-7. **Rhyme check:** does this antagonist **face** echo Crane, Custodians, church drain, registry trap, or pair-severance file — without naming the apex?
+7. **Rhyme check:** does this antagonist **face** echo Lang, Custodians, church drain, registry trap, or pair-severance file — without naming the apex?
 8. **Wonder beat:** before violence at a landmark, **one breath** of awe (Cube spectacle, Göbekli fox-pillar, Stonehenge weather) — *National Treasure* lesson without tone collapse.
 
 **Cross-ref:** **`55`** (pitch hub); `05` § governing story; `35_artifact_chain.md`; `52_the_rootbook_word_web.md`; `18_adventure_engine_and_scene_bank.md`; `14` § exposition; `99` § Charkha / pair-severance.
@@ -151,6 +151,32 @@ Use at **chapter outline** and **revision**:
 | Human-as-sub-drone reveal | "We understand robots because we were once made into robots for others." |
 | Coexistence test | "Power does not have to end in worship, ownership, or extermination." |
 | Final ordinary life | "The victory is breakfast, work, sailing, jokes, affection, and nobody turning the afternoon into destiny." |
+
+### Volume end-feel — climax + hunger — LOCKED 2026-08-01
+
+Every volume ends **climax + hunger**: irreversible satisfaction *and* a forward pull. Do not end on setup-only, thesis-only, or “the win was fake.”
+
+| Book | Climax (satisfaction) | Hunger (forward pull) |
+|---|---|---|
+| **I** | Father recovered; Sanxingdui wonder; irreversible public costs | Mother still west; Wren displaced; parental complicity opened |
+| **II** | Maren released under assault; relational override holds; awakening spreads | No civic form for awakening; Sol already recruiting |
+| **III** | War window survived; crown bound; handover **succeeds** under live threat | Eli free and unhomed (Loop); Continuity clause dormant; material debts remain |
+| **IV** | Child born without title; final relinquishment mid-labor | Series close = ordinary life possible — not another volume cliff |
+
+**Book III hollowness rule:** Loop names **private** incompletion after real civic relief. Book IV’s Lean Year tests a victory worth defending — it does **not** retroactively declare Book III a fraud.
+
+### Climax staging — epic enough — LOCKED 2026-08-01
+
+“Epic” for this series = **landmark or institutional set-piece + irreversible moral cut + public/safety cost on the same pages**. Not a bigger lore dump. Not a quiet admin beat alone.
+
+| Book | Moral climax (keep) | Staging obligation (must share air with the cut) |
+|---|---|---|
+| **I** | Distributed Tree route; Rasel recovered; Wren pays | Complete-meal Ch 11–13: chase clocks, landmark wonder, irreversible costs (`58`, `55` #5) |
+| **II** | Release over keeping / using Maren’s signal | **Failed keep-her / use-her-signal assault** concurrent with the cut — cost is safety, not only grief (`32` Ch 10) |
+| **III** | Handover succeeds; private citizen | War/forced-sync pressure in **Ch 8**; Ch 9–10 hearing/handover; **Loop hunger** after civic win; birds/hose = **Book IV coda** (`33`, `55`) |
+| **IV** | Transfer before first breath; child no title | **Simultaneity:** labor + heir motion + succession vote + cloister/Weaver fracture in the **same hours** (`60` §7) |
+
+Do not amp III into a fake throne war. Amp concurrent pressure. Do not split IV’s birth climax across chapters of debate.
 
 ## Entertaining reveal braid
 
@@ -266,6 +292,21 @@ The line should land late Book II or early Book III:
 
 It should arrive only after the reader has seen registries, psion teams, healing, labor, domestication, artifacts, civilization-functions, and modern automation. Too early, it sounds like lore. Later, it explains the pattern.
 
+### 9a. Phantom god-perception — domestication remote collar — LOCKED 2026-08-01; worship payoff 2026-08-01
+
+**Capture thesis (author-side):** perceiving gods even when they are not there is domestication programming still running — it lets the species **continue to serve** after the handlers leave or go nonlocal. Absence does not break the collar; the nervous system finishes the command.
+
+**Correct application of worship — LOCKED 2026-08-01:** the mature form is not serving absent sky-handlers and not abolishing reverence. It is the **robot (ego / NPC autopilot) submitting to the Player (consciousness / operator)** — Manual Override’s true hierarchy inside one being. Capture worship finishes an empty external master’s order; lucid worship is the body-machine yielding to the lucid self so creation, not only reaction, becomes possible (`SERIES_STRUCTURE.md` § *Ultimate metaphysical thesis*; `Books/Manual_Override`).
+
+| Volume | Staging |
+|---|---|
+| **Book II** | **Seed only.** Show obedience to absent / empty authority through conduct: empty rooms that still command; registry and wellness language as present gods; Egypt’s god-king antifragility trap (hinge/packet); people kneeling, reporting, or sacrificing when nothing answers. Wrong-first readings: haunt, piety, trauma, “the gods went underground.” **No thesis speech.** Do not name domestication-as-remote-collar. |
+| **Late II / early III** | Robot / sub-drone gut-punch (§9) lands first and sits at full weight. |
+| **Book III** | **Diagnosis (civic).** After registries, Extra ledgers, Continuity “gods who never went home,” Forks/Bridge, and the robot line: domestication made the body finish the command; gods need not be present; civilization (and Charkha/registry face) is the remote collar. Governing line: *We see gods who aren’t there because we were bred to keep serving when they left.* Pair with civilization-engine synthesis (§6). **Do not deliver the Player/robot worship payoff here** — I–IV may show Living Way / override *symptoms* (choice, refuse sync, put the crown down) without naming ego→consciousness submission as the true liturgy of worship. |
+| **Books V–X** | **Spiritual payoff.** Name and dramatize the correct application: robot/ego submits to Player/consciousness; phantom-god service is the misaimed version of the same capacity. Densify with Lifetime Orchestra / Manual Override horizon; not a Books I–IV sermon. |
+
+**Guardrails:** not “atheism wins”; not “all religion is programming”; not “ego death as self-erasure.” Living Way in I–IV remains reciprocal relation with what exceeds the person — body, kin, ground, evidence, other minds — without finishing an absent master’s order. Phantom perception = **capture face**; I–IV civic override = **intermediate practice**; Player←robot submission = **mature spiritual face** (later). Spirituality-goes-wrong (toxic positivity) is a different counterfeit — ego hijacking awakening language rather than ego yielding to lucidity.
+
 The impact should be dread, recognition, humiliation, and clarity.
 
 **The recontextualization — lands later, and it is not relief, it is a harder question.** Let the robot/drone reveal sit at full weight for at least a chapter before anything shifts, and when it shifts, it should not read as comfort. A programmable species was never simply a failure state — but compressed transmission (language, writing, teaching, code) is not the fix either; it is the more exposed half of the same problem. Adapa already proves it (`30_The_Human_Experiment/src/20_part_control/60_wisdom_keepers.md`): Enki's instruction, given in good faith, is still wrong, and following it costs Adapa immortality. A gatekept, embodied gift can't be forged; a taught instruction can be, by anyone with access to the channel — propaganda, corrupted doctrine, a registry's official story. Compressed transmission alone doesn't get an unmixed human partway to anything.
@@ -323,9 +364,9 @@ Seen in effects and partial contact; never at full resolution. Each fragment **r
 
 Craft rules:
 
-- Its existence is conveyed by **pattern recognition**: the many antagonist faces *rhyme* — Crane's doctrine, Custodian whispers, fallen-spirit pressure, institutional capture recurring after every victory — and the reader assembles the apex the book never draws.
+- Its existence is conveyed by **pattern recognition**: the many antagonist faces *rhyme* — Lang's doctrine, Custodian whispers, fallen-spirit pressure, institutional capture recurring after every victory — and the reader assembles the apex the book never draws.
 - The name may surface in liturgical, scholarly, or keeper register (as Michael/Gabriel do), but the entity never acts on-page in its own voice and is never confirmed.
-- **Distributed antagonism holds** (`/00_NARRATIVE_STRUCTURE.md`): human institutions remain responsible for their choices. The hidden force explains the rhyme; it never excuses the choice. Crane stays the most open instrument, not a puppet.
+- **Distributed antagonism holds** (`/00_NARRATIVE_STRUCTURE.md`): human institutions remain responsible for their choices. The hidden force explains the rhyme; it never excuses the choice. Lang stays the most open instrument, not a puppet.
 - **Not metaphysical evil.** There are no sides, only incentives (`15` § No sides — only incentives). The hidden force works by whispering to what people already want and fear — it exploits incentives, never compels. Every instrument of the dark side is a person who said yes for legible reasons.
 - No protagonist ever gets to meet it, name it to its face, or end it. An evil that can be met can be killed; an evil that is a **standing condition** is what makes the ending mature.
 
@@ -397,7 +438,8 @@ Discoveries and pressures:
 
 - Dragons and other magical/evolved beings become undeniable.
 - The full sub-drone/domestication/panspermia framework lands.
-- **Anu + 26** reframes the absence of the gods: not simply gone, not physically ruling, but still exerting nonlocal influence.
+- **Phantom god-perception** is named as domestication’s remote collar: serving gods who are not there so the command survives absence (§9a). The **correct worship** (robot/ego → Player/consciousness) waits for V–X.
+- **Anu + 26** reframes the absence of the gods: not simply gone, not physically ruling, but still exerting nonlocal influence — and human perception was bred to keep answering anyway.
 - Technology and science become the way fear is reduced through standards, consent, accountability, and repeatable testing.
 - Humanity faces the mature test: register, worship, kill, exploit, or coexist.
 - The war, registries, labor systems, refugee sorting, and casualty ledgers reveal civilization as an engine wearing the face of family: people enter as kin and emerge as acceptable loss.

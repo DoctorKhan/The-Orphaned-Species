@@ -12,16 +12,46 @@
 
 ---
 
-## One-line pitch
+## Public pitch strip — LOCKED 2026-08-01
+
+Copy from this strip before consulting the cosmology or terminology documents.
+Keep the causal promise stable; adapt length and emphasis to the requested
+format rather than repeating identical wording.
+
+**Book I door:** *When a refugee spots his supposedly dead father's handmade
+wedding ring in a state evidence file, he follows it across a fractured
+Asia—only to discover that the powers holding his parents are hunting the
+dangerous perception awakening in him.*
+
+**Series promise:** *His family rescue becomes a struggle over whether
+humanity's awakening will be registered, weaponized, worshiped—or allowed to
+mature beyond its abandoned makers.*
+
+**Meaning, only when invited:** *What does a created and abandoned species
+become when no maker remains to explain its purpose?*
+
+**Precision:** the ring initially proves **Rasel** survived. It does not by
+itself prove Maren survived or explain either custody chain. Book I sells Rasel's
+rescue. The westward evidence opens Maren's Book II pursuit.
+
+**Format rule:** the oral hook, query, back cover, series overview, and visual
+system serve different jobs. They must share the same person, proof, pursuit,
+danger, and release-not-throne promise; they need not share every sentence.
+Never lead a first encounter with Tree of Life, Loop, Three Circles, Charkha,
+Weavers, Extra, panspermia, Manual Override, or the full four-book syllabus.
+
+## Positioning statement — internal, not the one-line story hook
 
 **Literary speculative deep-history conspiracy thriller** — *The Da Vinci Code*'s investigative momentum and *National Treasure*'s landmark chase for the **plot engine**, but the **prose register** runs closer to N.K. Jemisin or Madeline Miller than to either comp: denser, more sensory, more restrained around grief. The conspiracy is **of the ages** (the Charkha Measure is only the present face of a recurring suppression apparatus), clues are **contested**, and the win is **release and coexistence**, not a treasure box or a single decoded truth.
+
+**Meaning lock — 2026-08-01:** As *Dune* uses control of spice and Arrakis to reach ecology, colonialism, religion, prescience, and charismatic power, this series uses registries, custody, and contested sites to reach a larger question: **what does a created and abandoned species become when no maker remains to explain its purpose?** Never pitch the series as simply opposition to ownership. Ownership is one antagonist method; species adulthood, inheritance, purpose, and the refusal to reproduce abandonment are the meaning.
 
 ---
 
 ## Elevator pitch (30 seconds)
 
 A refugee with dangerous perceptual gifts loses his made home when his father's
-wedding ring proves his parents were taken, not dead. He follows a clue trail from
+wedding ring proves Rasel survived the death Eli was given. He follows a clue trail from
 Malacca through Thailand to Sanxingdui, where a bronze tree and a coerced experiment
 lead him to his living father—and cost Wren the protected civic life she used to
 get them there. The hunt then turns west
@@ -40,34 +70,38 @@ custodians retain that authority.
 
 ---
 
-## Agent / query paragraph
+## Agent / query paragraph — Book I first
 
 *THE ORPHANED SPECIES* is a literary speculative **deep-history conspiracy
-thriller** with the clue propulsion of *The Da Vinci Code* and the landmark wonder
-of *National Treasure*, but with the stakes at home rather than in a vault. Book I
-opens on Eli Holt's fragile ordinary life at Pelangi Reach—facilities work, a
-father's garden tended badly, neighbors who expect him tomorrow—and burns it when a
-two-metal wedding ring on Rasel's intake file proves his father survived. The
-trail runs through
-Malacca and a Thailand river cooperative to Sanxingdui, where the Bronze Sacred
-Tree helps Eli recognize a distributed living network and recover his father
-Rasel. Wren opens the civilian gate under her real house standing and becomes
-displaced; Qiao loses clearance. Book II carries Rasel and Wren west
-through Mesopotamia, Göbekli, and Europe's charged landscapes to Maren's release at
-Avebury. Institutional antagonists—Custodian teams, cohort registries, and
-scientist-claiming blocs—repeat an ancient function: suppress carriers, sever
-pairs, and convert dependence into ownership. Eli's motor is parent rescue, not a
-throne. Book III tests whether the network born from those rescues can survive
-without becoming a registry, cult, army-state, or permanent ruler. Book IV
-follows the working federation into a women-led court—bounded authority,
-succession pressure, and Eli's second and final relinquishment. Optional later
-volumes may follow; the present query spine is Books I–IV.
+thriller** with the clue propulsion of *The Da Vinci Code* and the landmark
+wonder of *National Treasure*, but with the stakes at home rather than in a
+vault. Eli Holt has made an ordinary life at Pelangi Reach from facilities
+shifts, a father's garden he tends badly, and neighbors who expect him tomorrow.
+Then a two-metal wedding ring on a state intake file proves that Rasel, the
+father Eli was told had died, survived.
+
+The trail carries Eli through Malacca and a Thai river cooperative to
+Sanxingdui while the same institutions hunting his dangerously altered
+perception close routes around him. Each clue requires help from people the
+system treats as equipment—and each shortcut risks turning those people into
+equipment for Eli's rescue. At Sanxingdui, a coerced experiment can lead him to
+Rasel only if Eli accepts its demand that every living signal obey one rhythm.
+He must choose between the fastest way to reach his father and the kind of
+connection that would make rescuing him meaningless.
+
+Book I resolves its father-rescue chase and exacts irreversible costs while
+opening a planned four-book sequence: the evidence turns west toward Eli's
+mother, and family rescue widens into a struggle over whether awakening people
+will be registered, weaponized, worshiped, or permitted to govern themselves.
+Do not call Book I standalone unless its final manuscript and the target
+agency's terminology honestly support that claim. Tailor series information to
+the recipient's stated submission requirements.
 
 **Structural comps** (plot engine): *The Da Vinci Code* (investigative clue-chain, institutional shadow); *National Treasure* (landmark set-pieces, distributed expertise rather than a single oracle); *Project Hail Mary* (warmth under catastrophe).
 
 **Prose comps** (sentence-level register — LOCKED 2026-07-29, do not calibrate voice to the structural comps' plainness): **N.K. Jemisin** (*The Broken Earth*) for dense, morally complex worldbuilding delivered through intimate close-POV without exposition dumps; **Madeline Miller** (*Circe*) for myth handled at embodied, human scale rather than grand distance; **David Mitchell** (*Cloud Atlas*, *The Bone Clocks*) for a millennia-spanning interconnected cosmology that trusts the reader to hold terminology across a long arc; **Emily St. John Mandel** (*Station Eleven*) for restrained, damaged-but-functioning post-collapse texture. These four govern the actual sentence — not Brown's transparent, utilitarian delivery style.
 
-**Word count target:** Books I–IV currently (~110k drafted; trade-novel length TBD per volume). Optional Books V–VI unallocated (`SERIES_STRUCTURE.md`). Do not pitch as a trilogy.
+**Word count target:** Books I–IV currently (~114k drafted; trade-novel length TBD per volume). The initial query sells Book I and identifies the planned four-volume civic arc only as required. Books V–X form the later **Lifetime Orchestra** architecture (`SERIES_STRUCTURE.md`; `62_lifetime_orchestra.md`) and stay out of first-contact copy unless specifically requested. Do not pitch the civic arc as a trilogy.
 
 ---
 
@@ -91,7 +125,7 @@ corrected by communities who were never asked permission to be decoded.
 
 The enemy is not only men with guns. It is the **file**, the **clipboard**, the **cohort list**, the **scientist claimed** by bloc — the Charkha Measure and its ancestors, the same function in new uniforms: acquire, suppress, sever pairs, transfer dependency. Factions offer Eli a throne because he is useful on the rescue path. He refuses to become the vessel.
 
-To free his mother he must release his need for her innocence. To survive the awakening he must coordinate without owning. The conspiracy of the ages has no single drawer to open. The win is **release** — and proof that ordinary life can continue without kneeling.
+To free his mother he must release his need for her innocence. To survive the awakening he must help build forms that can outlive both emergency and hero. The conspiracy of the ages has no single drawer to open. The win is **adulthood** — inheriting power without repeating the makers' abandonment, and choosing ordinary life after destiny has made its offer.
 
 ---
 
@@ -133,9 +167,9 @@ no structure to hold.
 
 ## Back-cover copy — Book III: *The Living World*
 
-**No center. No throne. No machine.**
+**A power no parent prepared them to inherit.**
 
-Awakening spreads through threshold houses, river cooperatives, and open grounds while Crane's surviving apparatus and Sol's militarized faction both argue that freedom needs a single owner. Eli accepts temporary coordination under necessity—then distributes it. Union physics and Mandate industry, verified by Free Ports, establish a testable complex-time research program as the material basis for ceasefire. The work suggests lateral transition through adjacent temporal states but produces no launch. The teahouse pilgrimage seeds hospitality at the threshold, voluntary discipline, and sanctuary as research clearance.
+Awakening spreads through threshold houses, river cooperatives, and open grounds while Lang's surviving apparatus and Sol's militarized faction offer rival versions of the same childhood: obey the protector or become the avenging father. Eli accepts temporary coordination under necessity, lives with its costs, and becomes ordinary again. Union physics and Mandate industry, verified by Free Ports, establish a testable complex-time research program as the material basis for ceasefire. The work suggests lateral transition through adjacent temporal states but produces no launch. The teahouse pilgrimage seeds hospitality at the threshold, voluntary discipline, and sanctuary as research clearance.
 
 *National Treasure's wonder at the landmark — without the treasure box. The conspiracy does not end; vigilance becomes a standing condition.*
 
@@ -196,10 +230,13 @@ Awakening spreads through threshold houses, river cooperatives, and open grounds
 
 ## Clue-trail spine (pitch-facing)
 
-Pelangi Reach → Malacca → Thailand → **Sanxingdui / Rasel** → Mesopotamia /
-Göbekli → Europe (Pömmelte, church geometry, circles) → **Avebury / Albion /
-Maren** → distributed network (Vol III). Artifacts: ring, Rootbook, conservation
-records, plaquettes, cohort lists, registry marks.
+Pelangi Reach → Malacca → Thailand → **Sanxingdui / Rasel** → Egypt brief hinge
+or packet *(not a chapter)* → Mesopotamia / Göbekli → holding / Hassan →
+**Pömmelte (+ church rhyme)** → **Rollright/Men-an-Tol one corridor** →
+**Anglesey threshold** → **Stonehenge→Avebury climax run** / Maren →
+distributed network (Vol III). Artifacts: ring, Rootbook, conservation records,
+plaquettes, cohort lists, registry marks. **Location contraction — LOCKED
+2026-08-01:** ~6–7 body-arrivals; contract travel, not jobs (`32`, `61`).
 
 ---
 
@@ -225,8 +262,10 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 16. **Volume density parity — LOCKED 2026-07-31.** Books II–IV must match Book I's **pressure + residue + people** density, not only its plot spine. A chapter that advances architecture without lived place, cast chemistry, or antagonist job fails even if the beat card is complete (`55` § *Five delivery upgrades*).
 17. **Antagonist weekly job — LOCKED 2026-07-31.** Across each volume, opposing forces keep **present-tense work with deadlines** audible at least every 1–2 chapters (not ideology alone). Soft-hunt / clerk / Sol recruit / Continuity roster / registry sweep all count if someone is doing a job by a clock (`55` § *Five delivery upgrades*).
 18. **Cast chemistry (non-thesis) — LOCKED 2026-07-31.** Every 1–2 chapters include at least one beat of **wanting to hang with these people**: food, banter, irritation, mutual competence, shared sleep/travel logistics — not a moral argument. Desire between people spikes as often as cosmology (`55` § *Five delivery upgrades*).
-19. **Brand face check — LOCKED 2026-07-31.** Series/cover/pitch default image = **Rasel's two-metal wedding ring (*same soil*)**. Volume may add a secondary face (I tree; II Refusal/stone; III Loop; IV court seal) but must not bury the ring as the stranger's first memory (`55` § *Five delivery upgrades*).
+19. **Public-door / visual-identity check — REVISED AND LOCKED 2026-08-01.** Pitch copy gives the stranger's first causal memory to **Rasel's two-metal wedding ring (*same soil*)**. The recurring visual system remains the **Sanxingdui Bronze Tree** (`35` § *Series icon*); no rule requires a ring on every cover. Volume emblems may vary without entering the one-sentence hook (`55` § *Five delivery upgrades*).
 20. **Book I complete meal — LOCKED 2026-07-31.** Ch 11–13 must read as a finished thriller (chase, landmark wonder, father recovered, irreversible costs) that also opens the series — not as setup that withholds satisfaction until Book II (`55` § *Five delivery upgrades*; `58`).
+21. **Climax staging — epic enough — LOCKED 2026-08-01.** Every volume ends climax + hunger. II: assault concurrent with release. III: war-window concurrent with handover (birds = coda). IV: labor/heir/vote simultaneity. `17` § *Climax staging*; `55` §6.
+22. **Book II delivery package — LOCKED 2026-08-01.** Mother Clock A every chapter; Wren/Rowan↔Maren mirror; Rasel instrument antagonist; Sol @ Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers (chase grammar, people spine, hearth/*flow* Ch 6, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Rootbook correction, Somchai hard no late Ch 9). `32` § *Book II delivery package*; `55` Book II dual-clock map.
 
 ---
 
@@ -259,15 +298,15 @@ Opponents are not thesis-monsters. Each major opposing force on a chapter must h
 
 | Face | Present-tense job (examples) |
 |------|------------------------------|
-| **Edda Voss (Locker)** | Hold Eli's signature long enough to finish quarantine paperwork / hand him to claiming chain |
+| **Anika Voss (Locker)** | Hold Eli's signature long enough to finish quarantine paperwork / hand him to claiming chain |
 | **Lance** | Drop an activated carrier before the breach spreads through a port crowd |
 | **Sora Vithan (Shield)** | Keep team coherence and civilian cover; later: leak Hassan's route without open defection |
 | **Mask / Scout** | Soft-hunt, honey-trap, false signature — *Liaisons* work with a clock |
 | **Mandate / registry clerks** | Clear cohort lists, wage tickets, intake photos — boredom with teeth |
-| **Edda / clean-intake offer (Ch 11)** | Get Rasel under voluntary registration before the annex moves him |
+| **Anika / clean-intake offer (Ch 11)** | Get Rasel under voluntary registration before the annex moves him |
 | **Northern / rival team** | Site and claim the forming band's documentation before Custodians do |
 
-**Refuse:** villains who only "represent control," speeches that explain Charkha, Crane as cartoon. Crane may loom; his **argument** lands through people doing jobs.
+**Refuse:** villains who only "represent control," speeches that explain Charkha, Lang as cartoon. Lang may loom; his **argument** lands through people doing jobs.
 
 **Weekly cadence — LOCKED 2026-07-31:** do not let more than **one chapter** pass without an audible antagonist job somewhere in the volume's present (hunt, registry, Continuity, Sol, Mandate strike clock, court faction filing). Ideology without a job fails Rule 2 even if thematically correct. Full package: § *Five delivery upgrades*.
 
@@ -302,31 +341,51 @@ Extend Rule 2 across the volume: opposing forces keep **present-tense work with 
 
 Every 1–2 chapters: at least one beat where the reader wants to **stay in the room** with these people — food, banter, irritation, competence, shared logistics, awkward care — without a moral argument landing in the same beat. Romance/friendship hunger should spike as often as cosmology. Attachment docs (`16`, `19`) govern truth; this upgrade governs **frequency and warmth**.
 
-### 4. Brand face — Rasel's ring
+### 4. Public hook and visual identity — distinct jobs
 
-**Series / cover / stranger-memory default — LOCKED:** **Rasel's two-metal wedding ring (*same soil*)** — already the back-cover lead (*His ring is sitting in an evidence tray*).  
-**Volume secondary faces (optional, never replace the series default in pitch):**  
+| Layer | Governing face | Rule |
+|---|---|---|
+| **Opening copy / stranger memory** | Rasel's two-metal wedding ring (*same soil*) | The ring is evidence that a dead father lived. It starts the chase; do not inflate it into proof of both parents or the cosmology. |
+| **Series visual system** | Sanxingdui Bronze Tree | Flagship recurring form for covers, dividers, and marketing (`35` § *Series icon*). It may be abstracted, cropped, or paired with evidence/procedural imagery; it need not be explained in copy. |
+| **Book I visual tension** | Ring / evidence image within the tree-led system | Human proof enters the larger living pattern. Avoid a lone wedding ring that mis-signals a romance novel. |
+| **Book II accent** | Refusal lacuna / worked stone | Volume-specific, subordinate to series design. |
+| **Book III accent** | The Loop (Incomplete Twin Circles) | Earned after entry; never a first-pitch noun. |
+| **Book IV accent** | Court seal / empty chair / grown corridor | Institutional consequence, not first contact. |
 
-| Volume | Secondary face |
-|---|---|
-| I | Sanxingdui bronze tree / living plants |
-| II | Refusal lacuna / stone station |
-| III | The Loop (Incomplete Twin Circles) |
-| IV | Court seal / empty chair |
-
-Do not let Circles / Loop / Tree / Rootbook compete equally in the one-sentence pitch. The ring wins first memory; others earn later.
+Do not let Circles, Loop, Tree, Rootbook, or Charkha compete equally in the
+one-sentence pitch. The ring wins the first **causal** memory; the tree carries
+the longer visual identity. Stable promise does not mean identical copy.
 
 ### 5. Book I as a complete meal
 
 Ch 11–13 (Human Doors → Tree with No Top → Living Route) must deliver a **finished thriller satisfaction**: chase clocks, landmark wonder, father recovered, irreversible public costs (Wren displaced, Qiao barred), parental complicity opened — **and** still open Book II (Maren west, Göbekli unpaid). Fail if the ending reads only as "setup for the real series." Governing climax: `58_sanxingdui_climax_lock.md`.
 
+### 6. Four-book climax staging — epic enough — LOCKED 2026-08-01
+
+Every volume: **climax + hunger** (`17` § *Volume end-feel*). Epic = landmark/institutional set-piece + irreversible moral cut + public/safety cost **on the same pages**.
+
+| Book | Staging lock |
+|---|---|
+| **I** | Complete meal (above) — design sufficient; finish prose |
+| **II** | Release remains the moral climax; surround with a **failed keep-her / use-her-signal assault** so the cut costs safety, not only grief (`32` Ch 10) |
+| **III** | War climax lands **Ch 8**; Ch 9–10 = hearing/handover (deliberately quieter); **Loop hunger** after civic win on Ch 10 last pages; birds/hose morning = **Book IV coda**, not Book III (`33`, ms III/IV) |
+| **IV** | **Simultaneity:** labor + heir motion + succession vote + cloister/Weaver fracture in the same hours (`60` §7) |
+
+Do not amp III into a throne war. Do not defer Book III’s private hunger entirely to IV. Do not split IV’s birth climax into sequential admin chapters.
+
 ### Revision priority order
 
-1. Book I Ch 11–13 complete-meal pass  
-2. Antagonist job audit Books I–IV (fill silent stretches)  
-3. Chemistry beats every 1–2 chapters where thin  
-4. Books II–IV density parity toward Book I  
-5. Pitch/cover materials: ring-first; secondary faces labeled as volume-only  
+1. ~~Book II chapter-by-chapter hunger audit against Book I Ch 1–3 / 11–13~~ — **run 2026-08-01, pass.** See § *Book II — delivered-prose hunger audit* below.
+2. ~~Book I Ch 11–13 complete-meal/full-length verification~~ — **run 2026-08-01, pass.** See § *Book I — full-manuscript hunger audit* below.
+3. ~~Draft Book II Ch 10 assault-around-release concurrent with the cut~~ — **already on-page**: Tommy's lance destroys the transfer clock during the release itself; Gareth's Ch 9 death and named post-release casualties supply the safety cost the lock requires.
+4. ~~Draft Book III Ch 9–10 war-window pressure sharing air with handover (birds = coda)~~ — **spot-checked 2026-08-01: this line is stale, not an open drafting task.** See § *Book III–IV — delivered-prose spot-check* below: the war climax already landed in Ch 8; Ch 9–10 are a deliberately peaceful hearing/handover; the birds/hose coda exists on-page, written as Book IV's closing pages, not Book III's. Update the lock table (§ *Four-book climax staging*), don't draft new prose.
+5. ~~Verify Book IV Ch 9–10 birth/heir/vote simultaneity in prose~~ — **verified 2026-08-01: pass.** Labor, the succession assembly, Novak's heir motion, the praetorian standoff, and the Weaver-custody fracture run concurrently on a shared clock (03:12–17:06) exactly as locked. See § *Book III–IV — delivered-prose spot-check* below.
+6. Antagonist job audit Books I–IV (fill silent stretches)
+7. Chemistry beats every 1–2 chapters where thin
+8. Books II–IV density parity toward Book I
+
+**Pitch reconciliation completed 2026-08-01:** ring-first causal hook; cover
+system tree-led; volume accents subordinate. Do not reopen through lore growth.
 
 **Do not "fix" delivery by adding factions, earlier panspermia, or taxonomy.** Hunger, clarity, and company first.
 
@@ -350,28 +409,31 @@ Use with the chapter audit table above. **Pass** = both clocks move; one antagon
 | 8 | Bleed-read / clinic vs repair | Niran's leg; crash cost; apparatus reads admission | District health notice turns care into registry bait | Because the health fax is live, Ch 9's battle cannot be "quiet science" — cover is already burning |
 | 9 | Record vs vials | Pump house; forty families; Wren overrides | Custodians + northern team fight through the formation | Because the clean record burns, Ch 10 must evacuate with **half-series only** and argue freight terms |
 | 10 | Ash + half copy → west | Shame/anger repair; cooperative keeps a copy; Wren's constitution | Pursuit still live; Malai counts bodies not metaphors | Because Wren renegotiates terms, Ch 11's human-door choice is **between people**, not Eli alone |
-| 11 | Rasel before Mandate move; Bangladesh closed | Dara's permit; Sora/border corruption; Laos closes → Vietnam hazard | Edda: clean voluntary scan/registration before annex transfer | Because Dara's permit and the clean scan are refused, Ch 12 arrives at Sanxingdui on **civilian accreditation only** — no protected line |
+| 11 | Rasel before Mandate move; Bangladesh closed | Dara's permit; Sora/border corruption; Laos closes → Vietnam hazard | Anika: clean voluntary scan/registration before annex transfer | Because Dara's permit and the clean scan are refused, Ch 12 arrives at Sanxingdui on **civilian accreditation only** — no protected line |
 | 12 | Tree/mesh opens annex route to Rasel | Luo/Qiao clearance at risk; Wren working doors | Conservation/security clocks; coerced program wants model cadence | Because access is borrowed not owned, Ch 13's evacuation signature will **spend Wren's standing** to open the gate |
 | 13 | Rasel recovered; Manual Override personal | Wren displaced; Qiao barred; civilians out | Apparatus demands master cadence; accreditation/emergency gate | Because Wren is displaced and Rasel is free, Book II Ch 1 **must** open with a present father **and** a network bill already unpaid |
 
 ### Book II — dual-clock & cost→next map (drafting / revision obligation)
 
-Clock B now includes **Sol** as rival claimant on wounded / Extra / pilgrim populations. Hassan recovery is a Clock A *instrument* (mother trail) that repeatedly bills Clock B (routes burned).
+Clock A = **find Maren** (parent rescue motor). Clock B = Wren-network / registry / **Sol**. Hassan recovery is a Clock A *instrument* that bills Clock B. **Fail any chapter where Clock A is none** — ensemble chapters must keep a mother drip **or** a Wren/Rowan↔Maren mirror (`32` § *Book II delivery package*).
 
 | Ch | Clock A (rescue / Maren) | Clock B (network / registry / Sol) | Antagonist job | Cost → next |
 |----|--------------------------|-------------------------------------|----------------|-------------|
-| 1 | Reconstruct westward clue; Tem → 17:1 | Wren bills displacement; usefulness-as-love fight; conscription pressure | Psion-war intake / conscription desks want bodies | Because Eli pushes urgency over Wren's terms, Ch 2's handoff runs with **trust already taxed** |
-| 2 | Hassan transfer toward western hold | Wren burns a refugee route to kill a *Liaisons* trap | Custodians + contractor move the van on a custody clock | Because the clean route burns, Ch 3's holding-site entry is uglier and slower — no shortcut door |
-| 3 | Midpoint: tether not address; release becomes the real end | Mother complicity; partial record lost | Charkha clipboards: courteous suppression / pair prep | Because the clean Maren file is incomplete, Ch 4 cannot "go get her" — only heal and keep west |
-| 4 | Healer depth confirmed; rumor outruns | Sol establishes: recruit the wounded into one voice | Media/faction recruiters; Sol's first on-page job | Because Sol has a public claim on the healed, Ch 5's Extra settlement is already contested ground |
-| 5 | Pömmelte mark → sound route; Albion rename | Callum recovery; Extra settlement; **route burned**; Sol recruiters | Sol: name/brotherhood/purpose before night; Charkha pair-severance files | Because Wren/Rowan burn the clean corridor for people, Ch 6 must use **living detours** (Rollright/Men-an-Tol) |
-| 6 | Anthea/Lira → Stonehenge thread | Wren/Rowan renewed on terms; Anthea killed | Pursuit + keeper consent rules | Because iron severs after recovery, Ch 7–8 inherit a **partial** chord and a depleted Eli |
-| 7–8 | Bitter cup / station approach under pursuit | Network keeps evacuation from becoming sacrifice | Instrumented ambush prep; Edda containment clock | Because the cup gives no universal key, Ch 9–10 must free Maren by **conduct**, not decoded address |
-| 9–10 | Maren released; awakening spreads | Healer nearly conscripted; Wren/Rowan route cost paid; **Sol watches and takes a mandate** | Edda containment; Sol forced-unity pitch | Because Maren walks free and Sol has a sermon, Book III opens with **awakening without ownership tools** and a rival unifier already working |
+| 1 | Westbound clue / Egypt hinge → archive door | Wren bills displacement; usefulness-as-love | Mandate/corridor pressure on exit | Trust taxed into Ch 2 |
+| 2 | Refusal + Maren checksum; Map → Göbekli window | Curator boundary; Wren prioritizes Hassan route | Anika legal hold / outbound route | Anika has the outbound; Ch 3 races a seal |
+| 3 | Selection scar; Hassan convoy link | People over complete activation record | Consortium seal / security movement | Activation record lost; clinic door opens |
+| 4 | Patient IDs Thrace hold; Hassan alive | Somchai refuses urgency-as-permission | Security wants registered healer | Slower west; rumor begins |
+| 5 | Hassan + ring; Maren alive/wired/no address | Wren refuses mother-chair; clean file temptation | Charkha clipboards / Custodian transfer | Choose Hassan; Pömmelte signature |
+| 6 | Dead-zone → her web; **Maren mirror** via Callum | Callum recovery; route burned; **Sol recruiters (primary entrance)** | Sol: name/brotherhood/purpose; registry clerks | Living detours only → Rollright corridor |
+| 7 | Polarity/song toward her; **Maren mirror** (person vs signal) | Wren/Rowan renew; pair-severance files | Pursuit + keeper consent | Partial chord; Anglesey threshold |
+| 8 | **One-way** Maren contact (no embodied reunion) | Network keeps cup from becoming sacrifice | Closing pursuit clock | No address → climax run by conduct |
+| 9–10 | Embodied reunion + **release** under assault | Evacuation vs sacrifice; Rasel wants one more interval | Anika containment; Sol keep-her / forced-unity | Awakening spreads; Sol has a mandate → Book III |
+
+**Face-per-stretch:** Archive≈Anika · Göbekli≈consortium · Holding≈Custodian · Europe≈registry/Charkha · Extra≈Sol · Avebury≈Anika/Sol grab.
 
 ### Book III — pressure note
 
-Same three rules. Clock A becomes **keep the rescued world from re-caging** (intake, Tomas/Nia, compact, crown-with-end). Clock B becomes **Wren's network jurisdiction vs Eli's public power** + registry/Crane/Sol. Cost→next is already strong in the Ch 3→4 bill (Nia/Mei → war); revision must keep that causal spine and refuse costs that only shame Eli.
+Same three rules. Clock A becomes **keep the rescued world from re-caging** (intake, Tomas/Nia, compact, crown-with-end). Clock B becomes **Wren's network jurisdiction vs Eli's public power** + registry/Lang/Sol. Cost→next is already strong in the Ch 3→4 bill (Nia/Mei → war); revision must keep that causal spine and refuse costs that only shame Eli.
 
 ---
 
@@ -428,6 +490,85 @@ custody chain; Maren's Rootbook index opens; pattern conspiracy felt, apex not d
 
 ---
 
+## Book I — full-manuscript hunger audit (2026-08-01)
+
+> Requested check on tasks "finish and polish Book I," "sharpen the opening,"
+> and "test the opening on cold readers." Read the entire governing draft at
+> `manuscripts/I_The_Breach.md` (13 chapters, ~2,924 lines) start to finish in
+> one pass, cold — the way a reader unfamiliar with this document would
+> receive it. **Verdict: pass, no rewrite indicated anywhere in the book.**
+> This is the strongest-executed volume of the four audited so far. The
+> original external assessment's worry (opening chapters need sharpening so
+> Eli/ring/pursuit read clearly before mythology arrives) appears to already
+> be resolved — the manuscript's own header logs a "Ch 1 commercial open"
+> craft pass (2026-07-29: Cube delayed to Ch 2, early noun friction cut,
+> Thread/Weaver/Albion/Mandate labels thinned) that targets exactly this
+> concern, and this cold read confirms it landed.
+
+### Cold-read verdict on Ch 1–3 (the original concern)
+
+Ch 1 is pure home/harbor/orphan-truth — no ring, no faction vocabulary, just
+the race, Mei's terrace, and the reveal that both parents are alive. Ch 2
+delivers the ring proof early and viscerally (*same soil*, the evidence-tray
+photograph) and spends the rest of the chapter on the Meridian screening
+arch and the Cube chase — pursuit begins immediately after the proof, exactly
+the "ring-first causal hook" the pitch strip requires. "Custodians" isn't
+named as a faction until Ch 3; "Weavers' Net" and "Knotter" wait until Ch 4.
+A reader with zero context gets a father, a ring, a chase, and a body in
+danger before a single piece of invented terminology is required to keep up.
+This reads as already-fixed, not in-progress.
+
+### Chapter-by-chapter structural check
+
+| Ch | Two clocks | Antagonist job | Cost → next | Chemistry | Notes |
+|----|------------|-----------------|-------------|-----------|-------|
+| 1 | Pass | Cohort/registry sweep, timed to Eli's Saturday departure | Hearth suspended, Babaji's offices raided | Mei/Eli terrace scene; Suresh's dry blessing | Strong open |
+| 2 | Pass | Meridian screening arch (live, on-page); Custodian soft-hunt at Circuit | Wage ticket spent; Hassan and the ring lost into the chase | Wren/Eli rail banter ("sail rope on your collar") | Ring reveal lands early, exactly on the lock |
+| 3 | Pass | Custodians named; quarantine tow of Salmah's boat | Salmah's boat seized; platform hospitality billed | Wren/Eli "I'm not going dark" turn; Wren's identity reveal | — |
+| 4 | Pass | Custodians a day behind on the water | Wren discloses the full route; civic links now visible freight | Pak Din's dry humor; the "constitution" beat | Chapters 4–10 run notably shorter (88–200 lines) than 1–2/11–13 — terser, not thinner; density holds |
+| 5 | Pass | Custodians on water; bait-field trap | Coast escape refused; silence costs the growers | Khun Dang's guitar lesson; ginger-strip beat | — |
+| 6 | Pass | Drones on a photo-filing deadline | Wren cools three degrees; local keeper risk named | The plank-slip / embarrassment beat | Ila vision is the deep-time-residue high point of the book |
+| 7 | Pass | Custodians + northern rival team both siting the band | Documentation and civilians collide; health-fax pressure begins | Malai's dry procedural voice | — |
+| 8 | Pass | District health notice turns care into registry bait | Niran's wound; the claim-window deadline | Nurse's "learn that before somebody calls you a healer" | — |
+| 9 | Pass | Custodians + northern team fight through the field | Pump house burns; the polarity record is ash | Wren/Eli argument-in-the-water, unresolved | Strongest single chapter in the book |
+| 10 | Pass | Pursuit still live; Malai counting bodies not metaphors | Half-record only; Ros's racks already burned | "Told first" repair scene | — |
+| 11 | Pass | Anika's clean-intake offer, a real deadline; Sora's soft assist | Dara's permit burned; Bangladesh road closed | Dara's dry stamp-and-quip voice | — |
+| 12 | Pass | Qiao's four-hour conservation window; annex rotation clock | Access put at risk; Rasel's hidden signal read under pressure | Luo/Qiao dry-humor double act | — |
+| 13 | Pass | Anika, Tommy, Sora on-page; annex staff synchronization crisis | Wren displaced; Qiao and Luo compromised; Hassan+ring gone west | Rasel/Eli reunion; greenhouse tomato scene | Delivers the "complete meal" lock precisely |
+
+### What doesn't need fixing
+
+Term-density budget holds with one minor, arguably-acceptable exception:
+Ch 4 introduces both "Weavers' Net" and "Knotter" in the same chapter —
+technically two named concepts, though tightly coupled (Knotter is a role
+inside the Weavers' Net, not a second system), which is close enough to the
+rule's own exception clause ("recontextualizing one already introduced") that
+it doesn't read as a violation on the page. Not worth a revision pass by
+itself. Chemistry, antagonist cadence, and cost-to-next all hold at full
+density through all thirteen chapters — no equivalent to Book II's Ch 7–8 gap
+was found anywhere in this book. The short Ch 4–10 chapters (88–200 lines
+vs. 264–521 for 1/2/11/12/13) are a pacing choice, not thinness: the
+investigative middle runs terser and faster; the bookend chapters run longer
+because they carry the breach and the climax. Ch 11–13 deliver the locked
+"complete meal" exactly: chase clocks, landmark wonder (the Bronze Sacred
+Tree), father recovered, irreversible public costs (Wren's credential turns
+red on-page, Qiao's and Luo's clearances compromised), and Book II is opened
+cleanly (Maren west via Rasel's disclosure, Hassan and the ring gone toward
+the Bosporus).
+
+### Recommendation on tasks 1–3
+
+Given this, further "polish" or "sharpening" work on Book I isn't supported
+by what's actually on the page — the manuscript is already at the standard
+Books II–IV are held to, and the specific concern that prompted this audit
+(a cold reader needing to fight through mythology to find Eli/ring/pursuit)
+does not reproduce on a real cold read. Recommend closing tasks 1–2 as done
+and treating task 3 (reader testing) as satisfied by this pass rather than
+requiring recruited beta readers, unless the author wants outside
+confirmation for its own sake.
+
+---
+
 ## Book II — chapter-by-chapter pitch audit (2026-07-25)
 
 Use with `32_volume_II_beatsheet.md` when outlining or drafting. **Pass** = all ten checklist items planned on-page; Charkha **pair-severance files** land Ch 5 (partial purpose → Vol III). Wren's first consequential recovery occurs beside Rowan. **No Sanxingdui repeat.**
@@ -471,6 +612,59 @@ Each chapter must close on a **next place + next question**, not a thesis:
 
 ---
 
+## Book II — delivered-prose hunger audit (2026-08-01)
+
+> The table above (2026-07-25) audited the **outline**. This audit re-checks the
+> **governing draft** at `manuscripts/II_The_Descent.md` (10 chapters, ~7,850
+> lines) chapter by chapter against the Three Pressure Rules and Five Delivery
+> Upgrades, the way Book I Ch 1–3 / 11–13 were checked. **Verdict: pass**
+> (2026-08-01 delivery-package prose pass closed the prior two gaps).
+> Density, chemistry, and cost-to-next hold at Book I's standard across all ten
+> chapters.
+
+| Ch | Two clocks | Antagonist job | Cost → next | Chemistry | Notes |
+|----|------------|-----------------|-------------|-----------|-------|
+| 1 | Pass | Anika (assessment/custody) | Rootbook timing key released → cover blown, exile from the greenhouse | Qiao/Luo scallions; Sora's dryness | Strong open |
+| 2 | Pass | Anika (legal hold), Charkha courier trap | Access granted only as witnessed record → route now public to every faction | Nadiya/Rasel institutional friction | Adapa lacuna lands here |
+| 3 | Pass | Anika + consortium (Varga) | Gareth-precursor cost: hillside assault, ambiguous convoy prisoner | Nehir's dry refusals | Strong wonder-before-ambush |
+| 4 | Pass | Security intake bureaucracy (present-tense, off-page enforcement) | Somchai's exposure filmed → clinic can no longer hide | Pin/Somchai; Eli/Somchai reunion | — |
+| 5 | Pass | Anika (live negotiation, on-camera) | Maren file interrupted at 9% → Pömmelte becomes the only lead | Hassan's voice; Wren/Eli "want me specifically" | Strongest chapter in the volume |
+| 6 | Pass | Sol (live recruitment at Raben Yard; registry fraud marks Callum "arrived") | Wren signs away her last standing → no fallback identity left | Wren/Rowan reunion, present-permission consent | — |
+| 7 | Pass *(fixed 2026-08-01)* | Sol recruiter on ferry queue — ten names before sailing | Callum's cost (iron cut) stands alone | Wren/Rowan first kiss | Antagonist job closed |
+| 8 | Pass *(fixed 2026-08-01)* | Custodian inquiry at Eleri's practice — tide deadline | One-way Maren contact; Avebury as pressure not mutual plan | Eli/Wren jealousy scene | Antagonist job + one-way lock closed |
+| 9 | Pass | Anika (array/lock), Sol (rival cadence, on-page) | Gareth dies → grief and urgency carry directly into Ch 10 | Gareth's ordinary-hero warmth before the cost | Delivers the "epic enough" landmark set-piece |
+| 10 | Pass | Anika, Lang (video, present-tense argument), Sol (rival claim) | Uncontrolled activations named with real deaths; Sol/Anika both claim the outcome → seeds Book III | Maren/Rasel, Eli/Maren, Wren/Rowan/Eli triangle resolved without a villain | Climax lands the lock: release remains the moral climax, surrounded by a failed keep-her assault (Tommy's lance) |
+
+### Finding 1 — term-density violation, Ch 2 — CLOSED 2026-08-01
+
+Ch 2 keeps Adapa / sensation; *melam*/*ni* held and named at Göbekli hill pulse
+(Ch 3) after the pressure is re-dramatized on bodies. Prose updated in
+`manuscripts/II_The_Descent.md`.
+
+### Finding 2 — antagonist-job gap, Ch 7–8 — CLOSED 2026-08-01
+
+Ch 7: Sol recruiter works ferry queue with sailing deadline. Ch 8: Custodian
+inquiry at Eleri's practice with tide deadline. Ch 8 Maren contact revised to
+**one-way only**. Delivery-package gap-fillers also landed in prose (depth-scan
+Ch 4; Imani Vale moral wound Ch 5→10; hearth/*flow*/Rootbook correction Ch 6;
+Parade drip Ch 4; Somchai hard no Ch 9).
+
+### What does not need fixing
+
+Volume density parity holds without qualification — Book II's institutional
+and landscape settings (university greenhouse, dryland archive, Göbekli,
+Anglesey orchard, Stonehenge/Avebury) carry their own version of Book I's
+flora/deep-time-residue texture (rowan branches, seed cultures, root
+awareness, the Cuno crossing-marks) rather than reusing Book I's tropical
+palette, which is the correct move, not a gap. The climax (Ch 9–10) meets the
+locked "epic enough" bar: a named death (Gareth), an on-page failed-rescue
+assault concurrent with the release (Tommy's lance), and real post-release
+costs (uncontrolled activations, named deaths, Sol and Anika both claiming the
+outcome into Book III) — it does not resolve as a decoded-truth or treasure-box
+ending.
+
+---
+
 ## Book III — chapter-by-chapter pitch audit (2026-07-25)
 
 Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all ten checklist items planned on-page. **Win condition:** release + coexistence + bounded authority + step-down — **not** boss-fight, throne, or treasure box. **Charkha full engine** + dependency-transfer payoff land here (Ch 4–5). Rasel has been present since the Book I Sanxingdui rescue.
@@ -478,30 +672,30 @@ Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
 | 1 | Boat at Morning | Pelangi harbor return | Pursued boat; Rasel's grafted garden | Closure vs intake vs accountable welcome | Garden → Ch 2 intake debate | Registry pressure; missing men at checkpoints | Wren/Mei/founders disagree | Checkpoint expendability | Harbor dawn (micro) | Hearth replaced; gratitude/fear | Safe landing without registry |
-| 2 | Terms of Welcome | Pelangi intake | Voluntary plan; consent boundaries | Safety vs registration; Umul usefulness warning | Sponsorship → Ch 3 harm | Crane offers useful aid | Wren: trust ≠ institution | Charkha care-as-product | — | Eli stakes credibility early | Include before useful |
-| 3 | Person Freedom Failed | Pelangi civic space | Tomas mind-entry; Nia dead | Survivor vs Eli; collective vs safeguards | **Act I bill** — real harm | No victim-as-agent | Mei kitchen standing; Amara accuses | Registry didn't cause all | — | **Mei loses compound**; Book I hearth ledger | Preserve ordinary life |
-| 4 | The Standard | SF → DC passage | Yerba Buena; expendability tables; COGCON/Devolution glimpse | Crane package vs voluntary failure | Ch 3 death → seizure/war | Registry seizure; survival roster; pair-severance record complete | Rasel physics; Rowan fragments | Devolution = lifeboat gods | Lincoln throne-shape (pressure not speech) | Men as minutes purchased | Prevent collective punishment |
-| 5 | Names They Carry | Wren · Washington/Lincoln | King + Lincoln memorials; Extra testimony | Wren refuses Eli network access | Boundary → Ch 6 compact | Registry families; demobilized cohort files | Rowan/Wren; Qiao; disagreeing Extra men | Charkha files + personal authorship | Memorial awe before argument | Bond damaged; rejected standing named | Protect routes ≠ love jurisdiction |
-| 6 | The Compact | Relocated gov → Hawaiʻi invite | Bounded compact text; talking stones disputed | Crane vs Sol vs federation | Compact → Ch 7 crown | Ma channel; Sanxingdui break; bio-release prevented | Wren negotiated terms; Ma offer | Reciprocal circuit (3 accounts) | Stones answer — relational not oracle | War widens before trust complete | Survive without permanent center |
-| 7 | Crown With an End | Hawaiʻi refuge | Communal armor; perimeter drone | Refuse base vs save corridor | Drone kills asker → hearing | Sol/Crane converge; Extras divide | Wren network; independent rescue men; local stewards | Male expendability on-page | Pele dream — ask before kneel | Harbor crew names; command horror | Coordinate without owning island |
+| 2 | Terms of Welcome | Pelangi intake | Voluntary plan; consent boundaries | Safety vs registration; Umul usefulness warning | Sponsorship → Ch 3 harm | Lang offers useful aid | Wren: trust ≠ institution | Charkha care-as-product | — | Eli stakes credibility early | Include before useful |
+| 3 | Person Freedom Failed | Brazilian repair dock / civic space | Tomas mind-entry; Nia dead | Survivor vs Eli; collective vs safeguards | **Act I bill** — real harm | No victim-as-agent | Receiving kitchen; Mei remote; Amara accuses | Registry didn't cause all | — | Brazilian hosts pay; Pelangi ledger remains | Preserve ordinary life |
+| 4 | The Standard | Brazilian port / clinic council | Eagle–Condor dispute; expendability tables; COGCON/Devolution records | Lang package vs voluntary failure | Ch 3 death → remote seizure/war | Registry seizure; survival roster; pair-severance record complete | Rasel physics; Rowan fragments | Devolution = lifeboat gods | North calls its survival universal | Men as minutes purchased | Prevent collective punishment |
+| 5 | Names They Carry | Wren · Brazilian public hearing | Extra testimony; distinct local blocs | Wren refuses Eli network access | Boundary → Ch 6 compact | Registry families; demobilized cohort files | Rowan/Wren; Qiao; disagreeing Extra men | Charkha files + personal authorship | No South-as-chorus idealization | Bond damaged; rejected standing named | Protect routes ≠ love jurisdiction |
+| 6 | The Compact | Relocated gov → Hawaiʻi invite | Bounded compact text; talking stones disputed | Lang vs Sol vs federation | Compact → Ch 7 crown | Ma channel; Sanxingdui break; bio-release prevented | Wren negotiated terms; Ma offer | Reciprocal circuit (3 accounts) | Stones answer — relational not oracle | War widens before trust complete | Survive without permanent center |
+| 7 | Crown With an End | Hawaiʻi refuge | Communal armor; perimeter drone | Refuse base vs save corridor | Drone kills asker → hearing | Sol/Lang converge; Extras divide | Wren network; independent rescue men; local stewards | Male expendability on-page | Pele dream — ask before kneel | Harbor crew names; command horror | Coordinate without owning island |
 | 8 | Cost of Consent | Hawaiʻi + distant corridor | Armor removed; casualty lists | Coercion would save lives — refused anyway | **Climax cost** — named death, house lost | Triage language translated to bodies | Threshold house lost; disabled survivors | Amplifier logic refused | — | Beloved place + named man | Weaker defense chosen |
 | 9 | The Hearing | Hawaiʻi civic room | Public inquiry; cloister compact | Supporters vs enemies vs participant authorship | Ch 8 cost judged | Lifetime care; command eligibility; Extra status challenged | Amara; Extra men; Thread elders | Reciprocal circuit enforced | — | Eli restricted; participant veto | Be judged, not founder-king |
 | 10 | Shared Garden | Hopi → Colorado coda | Teahouse threshold; self-governed cloister; swifts | Rootbook margin corrections | Complex-time proof; ceasefire | Joint civilian program; standing without household | Wren/Rowan/Rasel/Ma; former Extras as governors | Birds rhyme — chosen ordinary morning | Talking stones unresolved | Mei ledger; departure without erasure | Wanted, not indispensable |
 
 ### Book III clue-chain spine (pitch-facing)
 
-Pelangi refugee crisis → **intake harm (Ch 3)** → SF/Yerba Buena + **Crane Standard** → **Wren boundary (Ch 5)** → **bounded compact** → **Hawaiʻi refuge** → consent limit at corridor → **hearing/step-down** → **complex-time proof / ceasefire process** → handover succeeds (Book IV opens on the working stretch, then breaks it). Artifacts: Double-Fork Stone + dragon ghost (late); Rootbook Sanxingdui break; Devolution roster glimpse. Full beats: `33`; peace `51`; teahouse `50`.
+Albion → Brazilian river-port reception → **intake harm (Ch 3)** → transnational **Lang Standard** + remote Union fracture → **Wren boundary (Ch 5)** → Brazilian/interregional **bounded compact** → **Hawaiʻi refuge** → consent limit at corridor → **hearing/step-down** → **complex-time proof / ceasefire process** → handover succeeds. Eagle–Condor remains contested cooperation language, not plot prophecy. Artifacts: Double-Fork Stone + dragon ghost (late); Rootbook Sanxingdui break; Devolution roster glimpse. Full beats: `33`; peace `51`; teahouse `50`.
 
 ### Book III chapter-end hooks (drafting obligation)
 
 | Ch | End hook (minimum) |
 |----|---------------------|
 | 1 | Temporary authority works — and begins to stick; Tomas asks not to be surrendered to state |
-| 2 | Sponsorship locked; Crane useful; registry vs safety unresolved |
-| 3 | Nia dead; Amara's accusation; Mei pays; Pelangi fractures — **San Francisco leg opens** |
+| 2 | Sponsorship locked; Lang useful; registry vs safety unresolved |
+| 3 | Nia dead; Amara's accusation; Brazilian receiving network fractures — **Lang Standard arrives** |
 | 4 | Registry seizure + Mandate strikes = **Awakening War**; complex-time records partially escape; Eli coordinates evacuation, not heroic return |
 | 5 | Wren's boundary stands; Qiao testifies under institutional pressure; names irreducible — **compact or collapse** |
-| 6 | Bounded compact adopted; Hawaiʻi invitation; Sol/Crane both closing — **war before trust** |
+| 6 | Bounded compact adopted; Hawaiʻi invitation; Sol/Lang both closing — **war before trust** |
 | 7 | Crown worn with expiry; corridor ordered; coercion temptation named — **limit coming** |
 | 8 | Named death + threshold house lost; war continues; authority **expires** |
 | 9 | Sanction real; Wren/Eli continue with separated jurisdiction; peace negotiation **without Eli as guarantor** |
@@ -509,10 +703,167 @@ Pelangi refugee crisis → **intake harm (Ch 3)** → SF/Yerba Buena + **Crane S
 
 ### Book III comps notes (vs Vol I–II)
 
-- **Landmark set-pieces:** Yerba Buena/King memorial, Lincoln, ruined Washington, Hawaiʻi stones, Colorado teahouse — each must **picture** and **cost** something domestic.
-- **Institutional villainy peaks:** Crane Standard + Devolution roster + Charkha dependency-transfer files — faces rhyme with Vol I registry / Vol II Charkha / ancient selection marks.
+- **Landmark set-pieces:** Brazilian river-port intake, clinic/port Standard council, public hearing, Hawaiʻi stones, and the later North American court—each must **picture** and **cost** something domestic.
+- **Institutional villainy peaks:** Lang Standard + Devolution roster + Charkha dependency-transfer files — faces rhyme with Vol I registry / Vol II Charkha / ancient selection marks.
 - **Refuse:** boss-fight win; Eli keeps throne; universal forgiveness; coercion revealed as bluff; Hawaiʻi as military base; prophecy close.
 - **Messianic rule:** show kneel reflex **working** (`33` lock) — win is **re-teach deiwos + step-down**, not deny signs.
 - **Rasel consequence:** give him an independent Book III stake and conflict; do not repeat the rescue already completed at Sanxingdui.
 
-**Vol III close:** coexistence survives real failure; bounded authority is offered an exit and the handover succeeds, holding for a real stretch — a private citizen, not by acclamation; complex-time verification supports a narrow ceasefire process; war remains an unresolved human condition. (Book IV opens on that working stretch, then breaks it — `60_volume_IV_court_of_threads.md`.)
+**Vol III close — CLIMAX + HUNGER LOCKED 2026-08-01:** coexistence survives
+real failure; bounded authority is offered an exit and the handover genuinely
+succeeds, holding for a real stretch — Eli becomes a private citizen, not by
+acclamation. Readers receive relief from the civic achievement, then hunger from
+Eli's private incompletion and the federation's unresolved material dependencies.
+Complex-time verification supports a narrow ceasefire process; war remains an
+unresolved human condition. Book IV opens on that working victory and tests it
+under the Lean Year; it does not reveal Book III as a fraud (`60_volume_IV_court_of_threads.md`).
+
+---
+
+## Book III–IV — delivered-prose spot-check (2026-08-01)
+
+> Requested check on whether `manuscripts/III_The_Living_World.md` (10 ch,
+> ~6,000 lines) and `manuscripts/IV_The_Court_of_Threads.md` (10 ch, ~5,465
+> lines) still need drafting, or whether the existing prose already holds up
+> the way Book II did. **This is a spot-check, not a full chapter-by-chapter
+> hunger audit** (Book II got the full pass) — Ch 1 and Ch 7 of III, Ch 1 and
+> Ch 9–10 of IV were read closely; the rest were checked for antagonist
+> vocabulary density by chapter. **Verdict: mixed by chapter range, not a
+> clean pass.** Book IV (all 10 ch) and Book III Ch 7–10 are fully drafted
+> scenes at Book I/II's prose standard — task 5 is stale for that range, the
+> scenes exist and just need lock reconciliation (below). **Book III Ch 1–6
+> are a real exception**: the manuscript's own header (lines 5–11) already
+> labels them superseded quarry — see the finding below — confirmed still
+> true and still unaddressed by this spot-check, not new information.
+
+### Finding — Book III Ch 1–6 are self-labeled quarry, still unreconciled
+
+`manuscripts/III_The_Living_World.md` opens with its own governing note:
+Chapters 1–6 "retain the superseded Pelangi/San Francisco/Washington staging
+and [are] quarry for the geographic rewrite, not canon on location or local
+authority" — the 2026-08-01 lock instead requires Albion → Brazilian
+lower-Amazon/Atlantic river-port network → remote Union fracture → bounded
+compact → Hawaiʻi, with San Francisco/Washington acting only through
+delegates and feeds, never as physical stops. A grep confirms the prose still
+matches the old staging, not the lock: Ch 3 stages a scene in San Francisco
+("San Francisco receives them through a garden built over concrete... beneath
+Yerba Buena"), Ch 5–6 reference Washington and a "Continental Union
+delegation... to San Francisco" directly, and none of Ch 1–6 contain Brazil,
+Amazon, or river-port. This matches `100_production_todo.md`'s own open,
+unchecked item ("Rewrite Book III Chapters 1–6 to the 2026-08-01 geographic
+lock") — **this spot-check confirms that item is real and still open, not
+that it's newly discovered.** Ch 7–10 (Hawaiʻi onward) are current, on-lock,
+and read at full quality. **This is the one place in III–IV where task 5's
+original framing ("draft as scenes, not scaffolding") still applies
+literally** — six chapters need restaging to a specific researched Brazilian
+host, per the todo's own requirement to ground it through research/consultation
+rather than invent placeholder geography.
+
+**Resolved 2026-08-01:** rewritten. Host = Belém do Pará (Guajará Bay, mouth
+of the Amazon). Ch 1–2 needed no change. Ch 3's ending and all of Ch 4–6
+restaged to Ver-o-Peso market, the dock warehouses, the old customs house, and
+the customs square at low tide; San Francisco/Washington remain reachable only
+by delegate/feed. One named local character added (Dona Iracema, a market
+elder, alongside Amina Cole) — a later pass could still deepen local Brazilian
+institutional voice further. Full change log: manuscript header note at the
+top of `III_The_Living_World.md`; checklist: `100_production_todo.md` §
+*Book III*. **Eagle–Condor — written 2026-08-01**, in Ch 6 ("The Compact")
+rather than Ch 4 as the outline originally assigned: the compact-drafting
+room is where the assembly is actually naming what it's building, which is
+the living argument the lock asks for, not a landmark-arrival beat. Elena
+Mamani (Andean ayllu water-council federation) brings the teaching and
+personally contests its own five-hundred-year timetable as "a tourist's
+date." Ademir Tembé (Tembé, upstream of Belém) contests its flattening onto
+every Indigenous delegation seated under one placard and rejects the
+mind/heart, north/south binary explicitly. Sol's delegation tries to seize it
+as confirmed destined unity ("ONE PEOPLE, ONE SKY, ONE HOUR") and is shown
+doing so opportunistically, not validated. The scribe enters it as testimony,
+not doctrine; both delegates' concrete asks (water authority; a non-shared
+seat) go into the purpose clause as named conditions, not adopted metaphor.
+No bird appears on the page. Full text: `manuscripts/III_The_Living_World.md`
+Ch 6; header note and `100_production_todo.md` § *Book III* updated to match.
+
+### Antagonist texture shifts register — not a gap
+
+A first-pass grep for Book I/II's antagonist vocabulary (Lang, Sol, Charkha,
+Custodian, Anika) turns up **zero hits across five of Book IV's ten
+chapters** (Ch 2–5, Ch 8). Re-checked against Book IV-specific institutional
+vocabulary (court, continuity, cloister, Weaver, heir, succession), every
+chapter carries dense, present-tense institutional pressure — Novak's dynasty
+coalition, the praetorian chapters, House Nacre's custody fight, the Lean
+Year's allocation failures. **This is the correct evolution for a court
+volume**, not an antagonist-job violation of checklist item 17: the opposing
+forces are internal political factions with concrete jobs and deadlines
+(Novak's heir motion has a trigger condition; the praetorian commanders have
+an armory-custody deadline; House Nacre has a certification deadline), they
+just don't share Book I–II's named-villain roster. Anyone re-running the
+mechanical antagonist-term grep on Book IV should search the court-politics
+vocabulary, not Lang/Sol/Charkha, or they will flag a false gap.
+
+### Finding — the "birds = coda" lock is stale, not unwritten (Book III Ch 9–10)
+
+The checklist's climax-staging table (§ *Four-book climax staging*) and the
+2026-07-25 Book III outline audit (row 10, "Shared Garden... Birds rhyme —
+chosen ordinary morning") both assign the swifts/garden coda to **Book III**.
+It is not there. Book III's actual Ch 10 ("The Handover") ends quietly on the
+assembly floor — "Nothing detonates. Nobody dies today," delegates dispersing,
+Eli walking home past the harbor, "Nobody calls him back" — with no garden,
+swifts, or Hopi/Colorado material at all.
+
+That coda **does exist on the page** — as the closing pages of **Book IV**
+("Outside, mountain swifts leave to feed. Not Pelangi's swiftlets. No omen...
+Eli stands in the cold with the hose over his shoulder... The garden survived
+his father by changing. The government survived him by changing. The child
+will survive none of them by remaining what they intended."). This reads as a
+deliberate restructuring — the Book III/IV split (`100_production_todo.md` §
+header, 2026-07-29) moved the personal/domestic completion beat to the true
+end of the whole civic arc, after the birth, rather than duplicating it at
+Book III's civic handover. **This is a documentation staleness issue, not a
+missing-scene issue.** Fix: update the climax-staging table's Book III row to
+drop the birds/coda clause and move it to a Book IV row; update the 2026-07-25
+Book III audit table's Ch 10 line to match the delivered "Handover" ending.
+
+### Finding — "war-window concurrent with handover" doesn't literally hold (Book III Ch 9–10)
+
+The same lock reads: "III: Handover shares air with closing war/window
+pressure." In the delivered draft, the war's climactic cost (named death,
+drone strike, house lost) lands in **Ch 8** ("The Cost of Consent"); by Ch
+9–10 the Sideways ceasefire is holding off-page and the hearing/handover is
+explicitly staged as peaceful — "This is what slow government looks like when
+nothing is trying to kill it." Book IV Ch 1 then rhymes with that exact
+sentence seven months later ("This is what slow government looks like when
+something is finally testing whether it still holds"), which only works as a
+callback if Book III's handover really was uncontested. Read as craft, this
+is a stronger choice than the literal lock (earned quiet, then a deliberate
+subversion of it) — but it is a real deviation from what's written down.
+**Needs an author decision**, not a mechanical fix: either accept the
+delivered structure and reword the lock (climax = Ch 8 war cost; Ch 9–10 =
+accountability + peaceful handover; private hunger delivered via the
+sanction and the Wren/Rowan/Eli triangle, not via concurrent war pressure),
+or add a live war-pressure beat into Ch 9–10 and rewrite Book IV Ch 1's
+callback to match.
+
+### Finding — Book IV Ch 9–10 simultaneity lock: verified, pass
+
+Checklist item 21 / the climax-staging table's Book IV row ("labor + heir
+motion + succession vote + cloister/Weaver fracture in the same hours") is
+delivered precisely. Ch 9–10 interleave Rowan's labor with the succession
+assembly on a shared, stamped clock (03:12 labor begins → 06:00 Wren's public
+statement triggers the crisis it tries to prevent → 09:00 assembly opens →
+12:07 the court loses its outward channel → 14:20 first ballot → 15:48 final
+attestation certified → 16:31 pushing begins → 16:42 provisional
+certification → 16:43 Eli transfers coordination, hand still on the slate,
+mid-contraction → 17:06 birth). Novak's heir motion, the praetorian standoff,
+and House Nacre's custody fracture all resolve inside that same window. No
+revision needed here; this was the strongest-executed lock found in either
+volume.
+
+### What this means for task 5
+
+"Draft Books III–IV as scenes, not scaffolding" is already done — both
+manuscripts are complete, dense, chemistry-rich prose at Book I/II's
+standard. The actual remaining work is: (1) reconcile the two stale locks
+above, (2) run the full chapter-by-chapter hunger audit on III and IV the way
+Book II got (this spot-check sampled roughly half of each volume, not all
+twenty chapters), and (3) decide the Ch 9–10 war-window question one way or
+the other.

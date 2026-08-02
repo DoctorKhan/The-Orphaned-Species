@@ -18,7 +18,7 @@
 >
 > - **No character ever says or knows there are seven.** No "one to go," no completed set, no missing seventh. The curriculum is recovered **partially and out of order**, and stays incomplete at the end.
 > - **The layers are uneven.** Some arrive as a full clarified life, some as a translated line on a broken object, some as a living person's habit that turns out to be the same thing worn down. Some never arrive at all.
-> - **The map is reader-facing, late, and provisional.** If anyone assembles this table on the page, it should be Emrys or a companion volume — a *reconstruction offered for testing*, immediately complicated by evidence that does not fit.
+> - **The map is reader-facing, late, and provisional.** If anyone assembles this table on the page, it should be Rasel or a companion volume — a *reconstruction offered for testing*, immediately complicated by evidence that does not fit.
 
 The curriculum was layered, its surviving records the recovered **fragments** of one practice. The order is inward → outward (breath → body → other bodies → minds → matter → structure → species) — a developmental logic, not a sequence anyone recovers in order.
 
@@ -35,12 +35,12 @@ The curriculum was layered, its surviving records the recovered **fragments** of
 
 ## 3. The efficiency core (the Tao)
 
-The whole practice is organized around one principle (`39` §3, the efficiency principle): **the cost of connection is a function of efficiency, and perfect efficiency — alignment with the Tao, *wu wei*, non-forcing — minimizes the expenditure.** The curriculum is *how you carry the two-Tree (god-level) demand without becoming an extractor* — the discipline of drawing from the field rather than forcing or harvesting. (Emrys's drafted line is the whole thesis in miniature: *"You can't lift it. You can only stop being so loud that it can't be heard."*)
+The whole practice is organized around one principle (`39` §3, the efficiency principle): **the cost of connection is a function of efficiency, and perfect efficiency — alignment with the Tao, *wu wei*, non-forcing — minimizes the expenditure.** The curriculum is *how you carry the two-Tree (god-level) demand without becoming an extractor* — the discipline of drawing from the field rather than forcing or harvesting. (Rasel's drafted line is the whole thesis in miniature: *"You can't lift it. You can only stop being so loud that it can't be heard."*)
 
 This is the fork the trilogy turns on:
 
 - **The native curriculum** — efficient, distributed, self-fuelled (the dragon's way). Sustainable.
-- **The machine** — the grid/amplifier brute-forcing activation by entrainment, paid for by extraction and trapped souls (the gods' way). The shortcut Crane's side wants.
+- **The machine** — the grid/amplifier brute-forcing activation by entrainment, paid for by extraction and trapped souls (the gods' way). The shortcut Lang's side wants.
 
 ## 4. The present-day re-assembly (the plot)
 
@@ -49,19 +49,19 @@ Because the genes were only silenced, the architecture lies dormant in billions.
 | Fragment in Eli's life | Curriculum layer |
 |---|---|
 | **Rasel's garden — eyes shut, symbolic feel** | The Diet / green mind + **symbolic register** (father-line) |
-| **Dreams — counting doors, Ila, Pele, names worn smooth** | **Dream / trance** (Tem layer) — *answers given in sleep* |
+| **Dreams — counting doors, Ila, Pele, names worn smooth** | **Dream / trance** (Tem layer) — *fragments received without provenance* |
 | The fire / somatic signatures | Threshold / diagnostic read (heat, tingling, pressure) |
 | The tune his mother hummed | The Song (acoustic) |
 | The Kali (footwork, breath, range) | Breath / coherence (and discipline) |
-| The bitter cup (Book II Ch 6, Anglesey leg — **not** Book I Thailand) | The Diet (plant-medicine) |
+| The bitter cup (Book II Ch 8, Anglesey threshold — **not** Book I Thailand) | The Diet (plant-medicine) |
 | The breach (near-death) | Threshold (the violent, accidental version) |
 | The stone circles | Geometry (collective) |
 
-He is a half-trained adept who never knew there was a curriculum. Part of his arc is discovering that the scattered things that kept him alive were always **one practice** — and that **his father's symbolic feeling** (plants, seams, stones, bearings) and **dream-delivered answers** were the oldest layers, running before the breach ever opened.
+He is a half-trained adept who never knew there was a curriculum. Part of his arc is discovering that the scattered things that kept him alive were always **one practice** — and that **his father's symbolic feeling** (plants, seams, stones, bearings) and his own vivid, source-uncertain dreaming were among the oldest layers, running before the breach ever opened.
 
-**Bitter cup placement — LOCKED 2026-07-23:** the plant-medicine threshold ceremony lands **on-page in Book II Ch 6** (Anglesey approach, keeper-supervised), paired with **Lovernios** full-res at the peat bog. Book I Thailand carries **breath/wat** (Aru floor) only. Sensory draft material in `archive/manuscripts/v1_archive.md` § *The Medicine* is **quarry** — adapt for Albion, strip v1 cosmology dump; vertical contact may register somatically without the Book III dragon/serpent-as-face reveal.
+**Bitter cup placement — LOCKED 2026-07-23; chapter remapped 2026-08-01:** the plant-medicine threshold ceremony lands **on-page in Book II Ch 8** (Anglesey threshold, keeper-supervised), paired with **Lovernios** full-res at the peat bog. Book I Thailand carries **breath/wat** (Aru floor) only. Sensory draft material in `archive/manuscripts/v1_archive.md` § *The Medicine* is **quarry** — adapt for Albion, strip v1 cosmology dump; vertical contact may register somatically without the Book III dragon/serpent-as-face reveal.
 
-**Rasel inheritance — LOCKED 2026-07-23:** Eli **inherits symbolic feeling from his father**, not from Maren's receiver line. Dreams are where **answers are given** — symbolic, compressed, directional. Waking life is where they are **tested**. See `15` § *Rasel's gift*.
+**Rasel inheritance — LOCKED 2026-07-23; dream rule revised 2026-08-01:** Eli **inherits symbolic feeling from his father**, not from Maren's receiver line. Dream receptivity is not Rasel's private oracle and not proof of inheritance; it is a broadly human capacity unusually vivid in Eli, shaped by both symbolic fluency and receiver bandwidth. Dreams provide compressed material without a source label. Waking life is where it is **recorded, tested, corroborated, or discarded**. See `15` § *Rasel's gift* and `36` §3a.
 
 ## 5. Bridge & discipline
 

@@ -16,6 +16,8 @@
 > artificial-world / training-wheels thesis via Bridge → past lives → Ω.
 > Structure: `50_The_Orphaned_Species/62_lifetime_orchestra.md`. Do not invent
 > chapter plots until a volume has want / clocks / opponent job.
+>
+> **V–X drafting freeze — LOCKED 2026-08-01:** Orchestra stays notebook / count lock only until Books I–IV each pass complete-meal and climax-staging tests. Not an I–IV revision gate.
 
 > A same-day experiment on **2026-07-29** briefly split the original 13-chapter Book I into two (Breach / Living Route) and shifted later volumes up; that split was **reversed the same day**. If any other document states a five-volume map from that experiment or treats Thailand/Sanxingdui as a separate Book II, **this file wins**.
 
@@ -51,8 +53,11 @@ owning* are **intermediate curriculum** — the ethics of the training set.
 | Movement | What it looks like | What it is |
 |---|---|---|
 | **I–IV** | Belong without owning; parent rescue; middle way | First override of the **social / civic autopilot** inside the training world |
-| **V–X** | Bridge; past-life orchestra; braid / creation | Seeing that the world itself is training gear meant to break; learn control → learn creation |
+| **III (diagnosis)** | Phantom gods / remote collar named | Capture worship exposed — serving absence because domestication finishes the command (`17` §9a) |
+| **V–X** | Bridge; past-life orchestra; braid / creation | Seeing that the world itself is training gear meant to break; learn control → learn creation; **correct worship** = robot (ego) submits to Player (consciousness) |
 | **Endgame (X)** | Not utopia, not escape-as-victory | Lucid creation — a Player who can build without needing the cage to teach them |
+
+**Worship ladder — LOCKED 2026-08-01:** capture form = phantom god-perception / empty thrones (seed II, diagnose III). Mature form = **ego/robot → Player/consciousness** (spiritual payoff in V–X, not a Books I–IV sermon). I–IV may practice Living Way and refuse sync without naming that liturgy.
 
 **Cast guard for multi-incarnation:** Eli/Wren may open V (Bridge) as the same people later
 in life. Across incarnations they are **not** an eternal destined couple — that
@@ -60,7 +65,7 @@ would convert present-tense choice into cosmic ownership and undo I–IV. Later
 lives rhyme by function and unfinished work; recognition ≠ claim.
 
 **Spirituality goes wrong — LOCKED 2026-07-31; greater-picture hinge 2026-07-31:** the series must dramatize
-**counterfeit spirituality**, not only Crane-registry and Sol-messiah. When the
+**counterfeit spirituality**, not only Lang-registry and Sol-messiah. When the
 ultimate thesis becomes cultural assumption (especially Books III–VI teahouse /
 pilgrim ecology), some people will weaponize it as **toxic positivity** and
 **manifestation bullying**: your suffering is a vibration you chose; grief is
@@ -147,8 +152,8 @@ delivery spine: `22` § *Technology teaches meaning*; orchestra/V–X: `62`.
 |---|---|---|---|---|---|
 | **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~42,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) |
 | **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | — | ~29,900 | Westward route; Maren release at Albion |
-| **III** | The Living World | `50_The_Orphaned_Species/manuscripts/III_The_Living_World.md` | — | ~23,900 | Network / Hawaiʻi / federation arc |
-| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | — | ~14,800 | Women-led court; Rowan/Eli; birth / relinquishment |
+| **III** | The Living World | `50_The_Orphaned_Species/manuscripts/III_The_Living_World.md` | — | ~23,900 | Brazil / Hawaiʻi / federation arc |
+| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | — | ~14,800 | North American court; Costa Rica hinge; Rowan/Eli; birth / relinquishment |
 
 ## Lifetime Orchestra (V–X) — count LOCKED 2026-07-31; titles open
 
@@ -159,7 +164,7 @@ each volume has a card (want / clocks / opponent job). Full craft:
 
 | # | Role | Status | Notes |
 |---|---|---|---|
-| **V** | **Bridge — late civic** | Role locked; title/card open | Same bodies later in life; desire still personal; training gear begins to *show* via tech (complex time densifies). Not a future-civilization invent. |
+| **V** | **Bridge — late civic** | Role locked; title/card open | Same bodies later in life. Neo-śramaṇa practice and young people's seasonal **flights** emerge from the teahouse routes; Tara's generation builds affiliations the founders did not design. The personal test is letting the young leave without surrendering care. Training gear begins to *show* via tech (complex time densifies). Not a future-civilization invent. |
 | **VI** | **Past life 1** | Role locked; title/era/card open | Master Timeline shelf; one primary archetype; standalone-capable |
 | **VII** | **Past life 2** | Role locked; title/era/card open | Same |
 | **VIII** | **Past life 3** | Role locked; title/era/card open | Same |
@@ -210,8 +215,8 @@ The split tried to even volume lengths and give Thailand its own title identity.
 
 - **Book I** includes the Thailand agricultural-witness sequence and Sanxingdui climax (Ch 4–13). Do not treat those as a separate volume.
 - **Book II** = Descent (Albion / Wren–Rowan / Charkha reveal / Maren's release).
-- **Book III** = Living World (network / Hawaiʻi / federation / Extras–cloisters).
-- **Book IV** = Court of Threads (women-led court; Rowan/Eli romance arc; birth / succession).
+- **Book III** = Living World (Brazilian river-port network / Hawaiʻi / federation / Extras–cloisters).
+- **Book IV** = Court of Threads (North American court / Costa Rica hinge; Rowan/Eli romance arc; birth / succession).
 - **Books V–X** = Lifetime Orchestra — **count LOCKED +6** (Bridge → 4 past lives → Ω). Titles/cards open. Ultimate metaphysical thesis + technology teaches meaning apply. `62_lifetime_orchestra.md`.
 - **Family total — LOCKED:** **14 core** = 10 Layer 1 novels + 4 Layer 2 companions. Satellites outside that number (`63`). See § *Family total*.
 - **Layer 2 companions** live under `Books/` (Manual Override, Social Game, Human Experiment, Cosmic Game). Root `10`–`40` are compatibility symlinks into `Books/`.

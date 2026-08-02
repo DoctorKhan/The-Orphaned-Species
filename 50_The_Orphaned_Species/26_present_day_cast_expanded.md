@@ -2,7 +2,7 @@
 
 > **Status:** working cast bible for scene generation. Fleshes recommendations from cast review session; **does not** replace locked beats in `99_open_questions.md` where those docs win on conflict. Companion to `05_story_architecture.md` §5 (fellowship), `15_character_grounding_and_relatability.md`, `16_reader_attachment.md`, `19_romance_and_divine_pairing.md`, `24_comedic_register_slapstick.md`, `27_character_development_arcs.md` (volume arcs and proof scenes), and `28_present_day_trilogy_craft_index.md`. **Structure:** Part 0 complex pasts · Parts I–II cast · Part III placement · Part IV comedy · **Part V past-vs-mask (Vol I)** · **Part VI trauma patterns** · Part VII open items.
 
-**Provisional names** — change freely until locked in `99_open_questions.md`.
+**Naming convention — LOCKED 2026-08-01:** cast headings preserve full identities for production use. Manuscript prose gives each recurring character one stable handle; see `14_literary_speculative_thriller_style_guide.md` § *One-character, one-handle rule*. Do not vary names merely for rhythm.
 
 ---
 
@@ -27,12 +27,12 @@ Each major entry should hold **three layers**:
 **Do not:**
 - dump past in dialogue blocks;
 - use tragic backstory as automatic excuse;
-- tie every history only to **missions** (Wren had an ordinary intake life before displacement; Crane built systems he now weaponizes).
+- tie every history only to **missions** (Wren had an ordinary intake life before displacement; Lang built systems he now weaponizes).
 
 **Do:**
 - give each person **one appetite or habit from before the war** (food, sleep, music, a body care ritual);
 - give **one relationship that predates the fellowship** where possible;
-- let past **contradict the mask** in scene (Crane's private ledger, Wren eating badly after a placement shift, Rasel tending plants with a physicist's precision).
+- let past **contradict the mask** in scene (Lang's private ledger, Wren eating badly after a placement shift, Rasel tending plants with a physicist's precision).
 
 **Eli cannot shortcut** someone's past through surge or resonance — a lover from before the war knows Wren in ways field-recognition can't replace (`19` consent curriculum).
 
@@ -47,7 +47,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 **Function:** receiver, clue-follower, moral decision-maker; constructive freedom corner.
 
 **Past:**
-- **Ordinary life:** fugitive years largely **off-page in Vol I** — Bangla, food memory, **Bali rhythm** leak forward; **no martial before Ch 5**. **Upbringing — LOCKED 2026-07-24 (rev. C):** **Bali childhood** with parents (subak, gamelan, community); Bangla/culture from **Rasel and Maren**; **keeper foster parents** after extraction; **raised as a worker**. **Visuo-spatial talent** hidden under capacity claiming; TBI inconsistent. **Fugitive Thailand:** Somchai, wat breath only — **no martial**. **Present Ch 5–10:** first on-page martial + chi-body. **Pelangi:** Foundry only; talent pressure = spatial/splice. Pai, Khun Dang = Vol I present, not exposition dump. **Sailing memory — LOCKED 2026-07-25:** **Maren** taught dinghy watch (feel before see, fairway breeze lane, name fear at harbor, sheet wraps); **Rasel** taught pump and *feel the cloth*. Vol I Ch 1 race/garden must seed both before reveal.
+- **Ordinary life:** fugitive years largely **off-page in Vol I** — Bangla, food memory, **Bali rhythm** leak forward; **no martial before Ch 5**. **Upbringing — LOCKED 2026-07-24 (rev. C):** **Bali childhood** with parents (subak, gamelan, community); Bangla/culture from **Rasel and Maren**; **keeper foster parents** after extraction; **raised as a worker**. **Visuo-spatial talent** hidden under capacity claiming; TBI inconsistent. **Fugitive Thailand:** Somchai, wat breath only — **no martial**. **Present Ch 5–10:** first on-page martial + chi-body — **Kru Dao** (Ch 7 MT/Kali). **Pelangi:** Foundry only; talent pressure = spatial/splice. Pai, Khun Dang = knife/kitchen/song, not martial syllabus. **Sailing memory — LOCKED 2026-07-25:** **Maren** taught dinghy watch (feel before see, fairway breeze lane, name fear at harbor, sheet wraps); **Rasel** taught pump and *feel the cloth*. Vol I Ch 1 race/garden must seed both before reveal.
 - **Turn:** extraction attack — father **taken** into **Mandate** lab custody (Bangladeshi passport / **Rasel Khan** on files), mother **removed** on the **Charkha Measure** chain (**Albion passport** — **passport split**), **TBI**; healer stabilizes then **escape network separates them** and moves Eli through **Thailand**; outbreak + Pelangi Reach refuge = first place that felt like **chosen** belonging, not only hiding.
 - **Unreconciled:** song with no name; garden kept **badly** (father's craft without mastery); cousin **Shireen** still in Dhaka; never got to mourn on his own terms. **Naming:** Maren's **Eli** everywhere official; Rasel's **Babu** (dak nam) at home only — body-memory, not plot key.
 
@@ -55,7 +55,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 means or consequence. Beneath that: a life where he can be ordinary without lying
 about what he is—cook, garden badly, belong.
 
-**Not seeking:** power, throne, permanent command, chosen-one ownership — though others will offer all of these because he is useful on the rescue path.
+**Not seeking:** power, throne, permanent command, or a chosen-one identity that explains his loss — though others will offer all of these because he is useful on the rescue path.
 
 **Wound:** believed **orphan** until **Mei, Friday PM dinner (Ch 1)** — *stolen child, parents taken alive*; **TBI**; every faction wants to name him.
 
@@ -67,7 +67,7 @@ about what he is—cook, garden badly, belong.
 
 **Scene seeds:** fixes Rina's fire door without being asked; refuses prophecy language once per volume; one moment per volume where he **almost** takes the collar road (registry "for protection") and Wren, Somchai, or Rasel stops him with a look, not a speech.
 
-**Book III garden return — LOCKED:** the plot he believed was his private inheritance has become a shared garden and is healthier for it. Mina, Lopa, Mei, **Wren** (maintenance manifest), and refugee growers kept it alive by changing it; grafted tomatoes succeed where Eli's imitation of Rasel failed. Eli must grieve replacement before he can participate without reclaiming ownership.
+**Book III garden return — LOCKED:** the plot he believed was his private inheritance has become a shared garden and is healthier for it. Mina, Lopa, Mei, **Wren** (maintenance manifest), and refugee growers kept it alive by changing it; grafted tomatoes succeed where Eli's imitation of Rasel failed. Eli must grieve replacement before he can participate without making himself the garden's author again.
 
 ---
 
@@ -163,7 +163,7 @@ remains nonsexual and non-romantic through Book III, where only deniable charge
 appears. Their direct relationship changes category in Book IV. Wren belongs to
 the Weavers but does not speak for all houses.
 
-**Living female relationship — Asha Noor:** senior Knotter and former
+**Living female relationship — Asha Raman:** senior Knotter and former
 threshold-house nurse who knew Wren through port intake. Asha is friend, older
 peer, craft reviewer, and civic co-dreamer—never parent, lover, or subordinate.
 She stores Wren's ferry-terminal drawings and thinks the house should be built
@@ -191,7 +191,7 @@ rules; Volume III choice binding the threshold network to accountable limits.
 
 ---
 
-## Asha Noor *(Wren's friend; senior Weaver Knotter)*
+## Asha Raman *(Wren's friend; senior Weaver Knotter)*
 
 **Function:** living non-romantic female relationship for Wren; craft reviewer
 who can distinguish a valid placement from a person actually received.
@@ -331,19 +331,19 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Ordinary life:** British **neuroscientist**, wife to Rasel, mother to Eli. Curious, persuasive, impatient with disciplinary boundaries; capable of making a research room feel like a conspiracy and a kitchen feel like a laboratory. The private tune belongs to family life before it becomes a clue.
 
-**Early collaboration — LOCKED:** Maren **willingly joined Crane's research program** from **neuroscience** — neural signatures, threshold states, integration protocols. She believed measurement and guided integration could protect people with unusual perception from misdiagnosis, institutional violence, and uncontrolled states. Crane did not steal the first tools; she helped build them.
+**Early collaboration — LOCKED:** Maren **willingly joined Lang's research program** from **neuroscience** — neural signatures, threshold states, integration protocols. She believed measurement and guided integration could protect people with unusual perception from misdiagnosis, institutional violence, and uncontrolled states. Lang did not steal the first tools; she helped build them.
 
 **Site — LOCKED 2026-07-30:** the program's early facility was the sealed research annex connected to **the Cherry Cube** in Meridian City (`59_younger_dryas_nucleation_lock.md`) — the same annex later revealed in Book III to house study of the recovered Younger Dryas craft fragment. Maren's work there predates that discovery; she had no idea what the annex actually sat next to. This is where she grounded the future Cherry Cube idol as a child (`26` idol beat) and where Mei's Book I dinner-table detail — "his mother had work in Meridian City sometimes" (`31_volume_I_beatsheet.md` § *Mei's Cherry Cube seed*) — actually points, unknown to anyone saying it at the time.
 
 **What she enabled:** signature recognition, differentiation practices, threshold monitoring, and early mapping between bodily episodes and charged-ground effects. These methods genuinely helped some people. They also became the technical basis for registries, carrier detection, suppression, targeting, and the amplifier program.
 
-**Turn:** she discovered that emergency safeguards were becoming permanent ownership infrastructure and that research subjects could not meaningfully withdraw. She copied records, sabotaged part of the mapping work, and fled with Rasel and Eli. Her resistance saved lives but did not erase the systems her earlier work made possible.
+**Turn:** she discovered that emergency safeguards were becoming permanent requisition infrastructure and that research subjects could not meaningfully withdraw. She copied records, sabotaged part of the mapping work, and fled with Rasel and Eli. Her resistance saved lives but did not erase the systems her earlier work made possible.
 
 **Extraction — LOCKED 2026-07-24:** **Albion passport** (legacy *British* on some files) → claimed by the **Charkha Measure**; **Rasel** (Bangladeshi passport) → **Eastern Mandate**. **Passport split:** different citizenship, different claiming orgs, **parallel convoys** — not one van. Site unknown to keeper net until **Book II rescue**. `40` § Passport split.
 
-**Moral wound:** at least one early subject was contained using a signature model Maren defended as temporary and humane. She chose to preserve the wider program rather than expose the abuse immediately because she still believed she could reform it from inside. That delay must acquire a name and human consequence before the mother-release climax.
+**Moral wound:** at least one early subject was contained using a signature model Maren defended as temporary and humane. She chose to preserve the wider program rather than expose the abuse immediately because she still believed she could reform it from inside. **On-page name — LOCKED 2026-08-01:** **Imani Vale** — Hassan seeds the ledger in Book II Ch 5; Maren confirms at Avebury Ch 10 (`manuscripts/II_The_Descent.md`). Mother is a person with a ledger, not only a prize.
 
-**Crane:** former intellectual partner. Crane believes Maren abandoned responsibility when danger became politically difficult; Maren came to believe Crane loved protection more than persons. Each has evidence that the other is partly right.
+**Lang:** former intellectual partner. Lang believes Maren abandoned responsibility when danger became politically difficult; Maren came to believe Lang loved protection more than persons. Each has evidence that the other is partly right.
 
 **Rasel:** grounded her tendency to turn every culture, practice, and anomaly into evidence. He understood systems through land, labor, and consequence and challenged her willingness to accept institutional means for humane ends.
 
@@ -359,7 +359,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 Removed from the trilogy. There is no scholar-companion; Eli has no expert translator. Functions redistributed to the courier, Eli, Babaji, Wren, Malai, Somchai, Luo/Qiao, and Rasel. Full redistribution table and the reasoning: `99_open_questions.md` § 9.
 
-## Dean Crane *(antagonist, constructive control gone wrong)*
+## Peter Lang *(antagonist, constructive control gone wrong)*
 
 **Function:** destructive control corner; face of the Charkha; throne offer at Albion.
 
@@ -378,9 +378,9 @@ Removed from the trilogy. There is no scholar-companion; Eli has no expert trans
 
 **Guardrails:** no karmic brotherhood with Eli; accountability without annihilation at climax.
 
-**Playing him — coercion as courtesy (*Godfather* grammar):** the menace is never in the voice; it is in the favor that becomes a debt, the protection that becomes a leash, the offer that is *sincere and right about the danger* and still a cage. Seed an un-thanked favor early (Vol I–II), call it in at the throne offer (Vol III Ch 27); the private file of the dead is the un-stated threat, shown as grief. Full mapping + drafted seed/payoff scenes in `47_coercion_as_courtesy.md`.
+**Playing him — coercion as courtesy (*Godfather* grammar):** the menace is never in the voice; it is in the favor that becomes a debt, the protection that becomes a leash, the offer that is *sincere and right about the danger* and still a cage. Seed an un-thanked favor early (Vol I–II), call it in at the throne offer (Vol III Ch 4, "The Standard" — confirmed via `47_coercion_as_courtesy.md`); the private file of the dead is the un-stated threat, shown as grief. Full mapping + drafted seed/payoff scenes in `47_coercion_as_courtesy.md`.
 
-**The predictive apparatus (2026-07-21):** Crane's registry is not merely a list — it is a **behavioral forecasting instrument**: profiles, stress models, incident projections. He predicts carriers, officials, and Eli. Play his trilogy arc as **hit-rate, not ideology**: **Vol I** — his forecasts of Eli mostly *land*, two beats ahead, and the reader should find it humiliating on Eli's behalf. **Vol II** — small misses begin; he files them as noise. **Vol III** — the throne offer is engineered for the Eli he modeled, and that Eli does not arrive: the terminal predictive failure. He is never out-argued; his model simply stops working — and he cannot admit the miss, because a person his instrument cannot predict is an *agent*, a person rather than an asset, and the registry's premise dies with that admission (`40` § The three registers of choice). His inability to update is the tragedy: he would rather break than concede that the miss is the person.
+**The predictive apparatus (2026-07-21):** Lang's registry is not merely a list — it is a **behavioral forecasting instrument**: profiles, stress models, incident projections. He predicts carriers, officials, and Eli. Play his trilogy arc as **hit-rate, not ideology**: **Vol I** — his forecasts of Eli mostly *land*, two beats ahead, and the reader should find it humiliating on Eli's behalf. **Vol II** — small misses begin; he files them as noise. **Vol III** — the throne offer is engineered for the Eli he modeled, and that Eli does not arrive: the terminal predictive failure. He is never out-argued; his model simply stops working — and he cannot admit the miss, because a person his instrument cannot predict is an *agent*, a person rather than an asset, and the registry's premise dies with that admission (`40` § The three registers of choice). His inability to update is the tragedy: he would rather break than concede that the miss is the person.
 
 ---
 
@@ -403,19 +403,21 @@ Removed from the trilogy. There is no scholar-companion; Eli has no expert trans
 
 **Two healings (required):**
 1. **Early (Vol II):** public save → rumor → Eli hears second-hand.
-2. **Late (Vol II Ch 18 — LOCKED single hard no, 2026-07-21):** crowd demands miracle → he **refuses** the healing-on-demand *and* the messenger/*Son-of-Man* crown in one motion → someone suffers because help was withheld → he still refuses ownership → coalition must decide if he's fraud, blasphemer, or a man with limits → **the scene ends on him back at triage.** The moment does not repeat in Vol III: there, the title has withered — ordinary consent-based practice, a tired man eating, nobody asking for miracles (`33` denouement).
+2. **Late (Vol II — LOCKED single hard no, 2026-07-21; remapped 2026-08-01):** crowd demands miracle → he **refuses** the healing-on-demand *and* the messenger/*Son-of-Man* crown in one motion → someone suffers because help was withheld → he still refuses divinity, conscription, and inexhaustible service → coalition must decide if he's fraud, blasphemer, or a man with limits → **the scene ends on him back at triage.** Stage on **late Ch 9 ensemble or pre-climax beat** (retired Ch 18 pin = quarry). The moment does not repeat in Vol III: there, the title has withered — ordinary consent-based practice, a tired man eating, nobody asking for miracles (`33` denouement).
 
 **Weighting rule (LOCKED 2026-07-22):** **lean in II, flowers in III.** Book II presence = the structural jobs only (the question's hardest case, the small crown, worship's control group, depth embodied, the twins braid, the release's hands — plus the depth-scan below); no travelogue, no friendship filler, no second beat of anything. Book III is his flowering (practice scaled, the capstone embodied). The final revelation depends on his *earliness*, not his prominence.
 
-**The depth-scan — the divergence reveal (author direction 2026-07-22; PINNED Vol II Ch 17, directly before the Ch 18 hard no — the diptych: the gift freely given, then the gift demanded; with Ch 19's blessing-discovery it completes a three-chapter consent triptych. Prerequisites: Ch 15 reconvergence trust; must precede the Maren release — Eli needs wound-told-from-nature before he can release without losing himself — and the late-II twins rumor, so the private truth stands against the public myth. Consent-gated):** Somchai's depth-perception reads nervous systems the way Eli's palms read signatures — and one quiet scene uses it to deliver a truth no instrument in this world offers kindly. **Naturally divergent people conform to society by lifelong labor and assume everyone else is doing the same — and they simply aren't.** Somchai reads Eli (asked first — the scan is the arch's dark mirror made consensual: the apparatus reads bodies to *file*; he reads to *recognize*) and tells him plainly: most people are *quiet inside*. No second surface. No noise being managed behind the face. Eli has spent his life masking toward a species whose interior he imagined as his own, grading himself against a calm that was never effortful for them — and his loneliness was structural, not a failure of discipline. Two more edges to the scene: **he can tell wound from nature** — which parts of Eli are scar (the TBI, forever) and which are *him* (the receiver, always was) — the Ch 8 "signal from scar" question answered at depth; and **he finds the hidden kin** — one seemingly ordinary person nearby scans as divergent-masking too, carrying the same invisible labor, which turns the reveal from Eli's singularity into a scattered quiet population (seeds the threshold-generation reframe and the capstone's *held before healed*). Guardrails: no clinical vocabulary on-page (trauma-craft rule holds — the register is *quiet inside / loud inside*, keeper words); Somchai includes himself among the loud-inside without ceremony; the scene is recognition, never diagnosis, and the reveal's emotion is not pity but the specific relief of a man learning the game was real and he had been playing it on the hardest setting.
+**The depth-scan — the divergence reveal (author direction 2026-07-22; REMAPPED 2026-08-01 onto ten-chapter spine: **Book II Ch 4** after consenting heal / before hard-no fully blooms — diptych with late hard no on Ch 9 ensemble or pre-climax beat; retired Ch 17/18/19 pins are quarry. Must precede the Maren release — Eli needs wound-told-from-nature before he can release without losing himself — and the late-II twins rumor, so the private truth stands against the public myth. Consent-gated):** Somchai's depth-perception reads nervous systems the way Eli's palms read signatures — and one quiet scene uses it to deliver a truth no instrument in this world offers kindly. **Naturally divergent people conform to society by lifelong labor and assume everyone else is doing the same — and they simply aren't.** Somchai reads Eli (asked first — the scan is the arch's dark mirror made consensual: the apparatus reads bodies to *file*; he reads to *recognize*) and tells him plainly: most people are *quiet inside*. No second surface. No noise being managed behind the face. Eli has spent his life masking toward a species whose interior he imagined as his own, grading himself against a calm that was never effortful for them — and his loneliness was structural, not a failure of discipline. Two more edges to the scene: **he can tell wound from nature** — which parts of Eli are scar (the TBI, forever) and which are *him* (the receiver, always was) — the Ch 8 "signal from scar" question answered at depth; and **he finds the hidden kin** — one seemingly ordinary person nearby scans as divergent-masking too, carrying the same invisible labor, which turns the reveal from Eli's singularity into a scattered quiet population (seeds the threshold-generation reframe and the capstone's *held before healed*). Guardrails: no clinical vocabulary on-page (trauma-craft rule holds — the register is *quiet inside / loud inside*, keeper words); Somchai includes himself among the loud-inside without ceremony; the scene is recognition, never diagnosis, and the reveal's emotion is not pity but the specific relief of a man learning the game was real and he had been playing it on the hardest setting.
 
 **Guardrails:** not a physician and not Ila reborn; does not diagnose beyond his training; works with and refers to doctors; cannot fix Eli's TBI core; cannot cure the outbreak retroactively. Energetic healing does not make him medically omniscient, erase triage, or guarantee repair.
 
-**Not a doubling of Eli (LOCKED — `05` "two limits, two crowns"):** Somchai and Eli are the trilogy's two limit-the-crown figures, but they decline **different crowns for different reasons**, so the beats build instead of echoing. **Somchai = the crown of the body** — worship of his *healing* (miracle / relic / Son-of-Man), declined on the **limits of the body** (*son of a man*); his **Vol. II Ch. 18** hard no costs a sufferer and is the intimate-scale proof. **Eli = the crown of the polis** — the ruler/founder/one-voice, declined because ownership rebuilds the cage during the **Book III attack**, scaling the healer's proof up to civilizational stakes. **Eli is not a healer and never faces Somchai's crown; Somchai wants no power and never faces Eli's.**
+**Not a doubling of Eli (LOCKED — `05` "two limits, two crowns"):** Somchai and Eli are the trilogy's two limit-the-crown figures, but they decline **different crowns for different reasons**, so the beats build instead of echoing. **Somchai = the crown of the body** — worship of his *healing* (miracle / relic / Son-of-Man), declined on the **limits of the body** (*son of a man*); his **Vol. II Ch. 18** hard no costs a sufferer and is the intimate-scale proof. **Eli = the crown of the polis** — the ruler/founder/one-voice, released because a necessary role becomes arrested development when civilization cannot imagine continuing without its hero. **Eli is not a healer and never faces Somchai's crown; Somchai wants no power and never faces Eli's.**
 
 ---
 
-## Babaji *(Pelangi Reach — refuge patron; Vol I Ch 1)*
+## Arun Subramaniam, called Babaji *(Pelangi Reach — refuge patron; Vol I Ch 1)*
+
+**Name register — LOCKED 2026-08-01:** **Arun Subramaniam** is his legal name. **Babaji** is the affectionate community name used by Pelangi residents, workers, and children; it is not his birth name or a mystical office. Official records use **Arun Subramaniam** or **A. Subramaniam**, but the legal name appears on-page only if a document actually matters. Reader-facing narration and familiar dialogue use **Babaji**.
 
 **Function:** **refuge provider** first — eccentric billionaire who kept the **Reclamation / Forest Foundry** corridor alive as accountable shelter when the Forest City megaproject failed and the outbreak hit. **Keeper holdout** second — personal line, not an order: refused flagged-carrier transfer at causeway; moved suppressed archive material off Mandate soil → **Mandate squeeze** (Ch 1 night).
 
@@ -565,11 +567,11 @@ true. “Same soil” remains a family phrase, not a secret map or prophecy.
 
 **Unit:** deniable national/bloc team under biosecurity cover; contracted to the Charkha; carriers who **took the collar**.
 
-### Lead / Locker — **Captain Edda Voss**
+### Lead / Locker — **Captain Anika Voss**
 
 **Past:** signals analyst before the **seer program** — spreadsheets before signatures; believed managed danger was **professionalism**, not betrayal.
 
-Seer; holds signatures; rations team coherence. True believer in **managed danger** — Crane's argument with a uniform. Fears Crane; uses him. No defection.
+Seer; holds signatures; rations team coherence. True believer in **managed danger** — Lang's argument with a uniform. Fears Lang; uses him. No defection.
 
 **Habit:** counts breaths before engagement; never wastes a lance on a decoy twice.
 
@@ -591,9 +593,9 @@ Coherence holder; tries to spare civilians; fraying.
 
 **Defection path:** Vol I — conscience crack at boarding; Vol II — contact; Vol III — into Wren's network or dead trying.
 
-**First covert betrayal — LOCKED:** after the Custodians recapture Hassan in Malacca, Sora leaks his Gulf transfer route to Wren rather than freeing him directly. She tells herself she is correcting an unnecessary civilian detention, not defecting. The leak enables Hassan's Volume II rescue and places a discrepancy in Edda's internal logs.
+**First covert betrayal — LOCKED:** after the Custodians recapture Hassan in Malacca, Sora leaks his Gulf transfer route to Wren rather than freeing him directly. She tells herself she is correcting an unnecessary civilian detention, not defecting. The leak enables Hassan's Volume II rescue and places a discrepancy in Anika's internal logs.
 
-**Archangels (plot — Michael):** carries **St Michael medal** or prayer fragment under the collar — volunteered for the program believing the collar was **protection**, not leash; Michael = the protector title she trusted (`46` § G). Vol I Ch 8 past leak; Vol II broken-line church beat; Vol III defection rhymes with **refused protector** (Crane/Michael parallel — never lecture).
+**Archangels (plot — Michael):** carries **St Michael medal** or prayer fragment under the collar — volunteered for the program believing the collar was **protection**, not leash; Michael = the protector title she trusted (`46` § G). Vol I Ch 8 past leak; Vol II broken-line church beat; Vol III defection rhymes with **refused protector** (Lang/Michael parallel — never lecture).
 
 **First appearance — LOCKED 2026-07-26:** **Vol I Ch 2 Meridian Circuit / Cube** — unnamed soft hunter in a suit (biosecurity cover at the first table); clocks Eli's Maren grounding gesture; fingers at collar/medal; does not force the grab (spectacle cover / idol intervenes). **Name + Custodian label:** Ch 3. Boarding conscience leak remains Ch 4+.
 
@@ -647,7 +649,9 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 ---
 
-## The burned prophet — **Solomon "Sol" Mendez** *(prophecy / destructive freedom face)*
+## The burned prophet — **Diego "Sol" Méndez** *(prophecy / destructive freedom face)*
+
+**Name register — LOCKED 2026-08-01:** **Diego Méndez** is the legal identity; **Sol** is the sole reader-facing handle. The manuscript may give the surname once at introduction. It does not alternate among Diego, Méndez, and Sol.
 
 **Age:** 30s. **Function:** charismatic temptation; Vol II entrance.
 
@@ -657,13 +661,13 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Want:** a world where no one can be collared again — by destroying every structure, including Eli's limits.
 
-**Partly right:** Crane is real; registries are cages. **Wholly wrong:** Eli as messiah; consent as cowardice.
+**Partly right:** Lang is real; registries are cages. **Wholly wrong:** Eli as messiah; consent as cowardice.
 
 **Voice:** sermon cadence that slips into tenderness; burned hands or scarred temples from his break event.
 
 **Habit:** touches people's wrists to "read" them — manipulation dressed as gift.
 
-**Arc:** tempts Eli when Sanxingdui's civilian costs make bounded consent look weak; one crowd scene where Eli refuses messianic identity publicly; Sol may die, burn out, or remain a dangerous movement behind Book III's militarized-liberation pressure. His signature argument lands during the Book III attack: *goodness that lets people die to stay unstained is vanity; who are you to be so precious about your one soul?* It presses Eli to convert bounded emergency coordination into forced synchronization. Drafted material in `49_machiavelli_toolkit.md` is tonal and doctrinal quarry; the governing placement is `33` Ch 29–30.
+**Arc:** tempts Eli when Sanxingdui's civilian costs make bounded consent look weak; one crowd scene where Eli refuses messianic identity publicly; Sol may die, burn out, or remain a dangerous movement behind Book III's militarized-liberation pressure. His signature argument lands during the Book III attack: *goodness that lets people die to stay unstained is vanity; who are you to be so precious about your one soul?* It presses Eli to convert bounded emergency coordination into forced synchronization. Drafted material in `49_machiavelli_toolkit.md` is tonal and doctrinal quarry; the governing placement is a Book III crowd-crush amid the factions grabbing at the healer (`33` — chapter not yet re-pinned after the Act restructure).
 
 **Guardrails:** not comic; not correct about destiny; must threaten real civilians. His case is *partly true* (Eli's restraint really did cost a life) — grant it force; he is wrong only that the massacre is the sole alternative.
 
@@ -687,7 +691,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Voice:** exact, courteous, materially specific. Speaks in capacity, time, tolerances, crew, maintenance, and reciprocal obligation rather than visionary abstractions. Hospitality is real; so is leverage.
 
-**Eli relationship:** counterpart, not disciple. Ma distrusts distributed safeguards as slow and vulnerable; Eli distrusts how Ma's logistics can turn dependence into tribute. Their central question is not whether the field sail should be built but who can prevent ownership of the road.
+**Eli relationship:** counterpart, not disciple. Ma distrusts distributed safeguards as slow and vulnerable; Eli distrusts how Ma's logistics can turn dependence into tribute. Their central question is not whether the field sail should be built but whether a road inherited from older powers can remain plural, revisable, and answerable to the people who travel it.
 
 **Guardrails:** not the lone good Easterner, not a mystical Muslim navigator, not a benevolent trader cleansed of force, not a mouthpiece for all Chinese or Mandate people, and not a late ally who cancels the Pacific offensive. Other Mandate scientists, sailors, workers, families, officials, and critics must be visible around him.
 
@@ -697,7 +701,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 
 
-## Devra Aldis *(Continental Union — continuity-roster inheritor; Book III hearing, one testimony beat)*
+## Dana Morris *(Continental Union — continuity-roster inheritor; Book III hearing, one testimony beat)*
 
 **Function:** gives the insider-trading / asset-dumping mechanic (`95_glossary.md` § *Insider trading and asset dumping*; `23_2040_present_frame.md` § *Not as different as they claim*) a face — the financial-axis counterpart to Owen Price's war-testimony beat in the same hearing.
 
@@ -709,7 +713,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Voice:** flat, procedural, competent — same register as the hearing's other Union officials (counsel, jurist, casualty officer); euphemism and paperwork, not menace.
 
-**Book III placement — drafted:** testimony beat is written, immediately after Owen Price's and before Rowan's afternoon session (`manuscripts/III_The_Living_World.md`, ~line 2867). Confronted by **Nora Castellanos**, a one-line witness whose mother's clinic deposit was wiped by the exact dump Devra is questioned about.
+**Book III placement — drafted:** testimony beat is written, immediately after Owen Price's and before Rowan's afternoon session (`manuscripts/III_The_Living_World.md`, ~line 2867). Confronted by **Nora Castellanos**, a one-line witness whose mother's clinic deposit was wiped by the exact dump Dana is questioned about.
 
 **Guardrails:** not a mustache-twirling villain — she is exactly what "socialism for large business" produces: ordinary, unashamed, procedurally protected. One testimony beat, not a subplot; no confession, no redemption arc.
 
@@ -731,7 +735,15 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 ## Filipino teacher — **Manong Rico Del Rosario** *(RETIRED 2026-07-24)*
 
-**Status:** Pelangi Kali teacher removed. Martial **Thailand Ch 5–10 only** (instructor TBD). Do not use on Pelangi or as pre-Ch 5 body memory.
+**Status:** Pelangi Kali teacher removed. Martial **Thailand Ch 7+ only** — instructor **Kru Dao** (LOCKED 2026-08-01; `manuscripts/I_The_Breach.md`). Do not use on Pelangi or as pre-Ch 5 body memory.
+
+---
+
+## Kru Dao *(Thailand cooperative — martial / chi-body instructor; Vol I Ch 7)*
+
+**Function:** first on-page MT/Kali + flare-discipline teacher after wat breath. Makes Eli someone who can leave a room alive — not a champion. Scar through eyebrow; grey temples; no backstory dump.
+
+**Guardrails:** does not own Eli; does not follow the quest; fight only if the run ends.
 
 ---
 
@@ -747,10 +759,10 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 | Malai + Thailand river cooperative | agricultural witness (Ch 5–10) | — | optional network echo | optional civic echo |
 | Custodians + Sora arc | breach–climax | pursuit | broken/changed | bounded consequence |
 | Somchai (nurse / field medic) | mention | reconvene; healings | hard no under pressure | public-care limit |
-| Sol Mendez | — | temptation | echo or end | remnants may enter court |
+| Sol Méndez | — | temptation | echo or end | remnants may enter court |
 | Shireen | one message | optional | optional |
 | **Wren / Mei / Suresh** | Pelangi Reach; Wren = intake cover + Vol II network | — | Mei/Suresh optional echo |
-| Crane private beat | looms | social rooms | throne offer |
+| Lang private beat | looms | social rooms | throne offer |
 
 ---
 
@@ -782,7 +794,7 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 | **Hassan** | 3 | Exhausted witness; testimony voice | Before handoff he **aligns papers** on a crate edge like a ledger clerk — precise, calm — then hands shake | Fishery accountant before black site; trusted paper once |
 | **Wren** | 3 or 5 | Cold operator; reads exits | After Malacca fold-in she sits on stairs eating a **convenience bun with both hands**, no napkin, staring at nothing — shift-meal habit from port intake days | Softer Wren leaks once; Eli may or may not see |
 | **Jin Pak** | 3 | Fluent mirror; scout charm | Mirrors Eli's accent at the health table, then **slips into his own younger voice** when a scooter backfires — half second, recovers | Scholarship kid, not born spy |
-| **Edda Voss** | 4 | Seer / locker; mystical threat | Before the quay fight she counts breaths on her fingers like **tapping spreadsheet rows** — analyst rhythm, not prayer | Analyst before seer program |
+| **Anika Voss** | 4 | Seer / locker; mystical threat | Before the quay fight she counts breaths on her fingers like **tapping spreadsheet rows** — analyst rhythm, not prayer | Analyst before seer program |
 | **Tomás Reyes** | 4 | Lance; willing violence | One missed strike → footwork reset is **athletic, beautiful** — dock-league or soldier body — then he commits to hurt | Sport/soldier before weapon |
 | **Babaji** | 1 | **Boat papers** at mark: *work not wallet*; hotel community closing | Leaves south at dawn (parallel) | Refuge patron; keeper cell |
 | **Sora Vithan** | 8 | Shield; team coherence; **St Michael medal** under collar | During boarding chaos she **shields a civilian**, then touches her own **collar** like checking a wedding band — volunteered for protection, got leash | Conscience crack; Mira wound; Michael seed (`46` § G) |
@@ -790,9 +802,9 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 | **Anonymous busker** *(memory)* | 9 | Agricultural stop; maybe busker echo | A street-performer's move triggers **half-second flash**: Pai noodles, failed trick, **laugh** — not omen; Lani's beat folded here (2026-07) | Person before symbol; ≤ sensory flash |
 | **Malai** | 5–10 | *"Third team this monsoon"* — furious water keeper | Photographs a gauge before touching it; scolds a broken sluice like a coworker; refuses Eli's hand when he steps off the marked bund | Cooperative records precede factions |
 | **Somchai** *(body memory)* | 12 or 5 | Not on-page Vol I | Eli feverish post-breach or post-healing attempt: **antiseptic + stay-with-me** body memory, no name | Vol II reconvergence pays name |
-| **Edda / Crane** *(loom)* | 7 | Archive = enemy data | Metadata on a record: **Crane** linked to pre-war **community clinic outreach** and outbreak tracing — same signature, earlier care | Crane built cages from life-saving tools |
-| **Sol Mendez** | — | *Vol II first on-page* | Reserve: stadium-break sermon echoes Vol I news clip on Eli's phone in Ch 2 — face on screen only | Optional background texture |
-| **Dean Crane** | 7 or 13 | Antagonist looms via Custodians | See **Edda/Crane** row — no in-person Vol I (recommend locked) | Private ledger beat stays Vol II–III |
+| **Anika / Lang** *(loom)* | 7 | Archive = enemy data | Metadata on a record: **Lang** linked to pre-war **community clinic outreach** and outbreak tracing — same signature, earlier care | Lang built cages from life-saving tools |
+| **Sol Méndez** | — | *Vol II first on-page* | Reserve: stadium-break sermon echoes Vol I news clip on Eli's phone in Ch 2 — face on screen only | Optional background texture |
+| **Peter Lang** | 7 or 13 | Antagonist looms via Custodians | See **Anika/Lang** row — no in-person Vol I (recommend locked) | Private ledger beat stays Vol II–III |
 | **Mira** *(dead)* | 8 | Wren's wound unspoken | Wren passes a **sonic/resonance tuner** or musician's clip on a manifest — goes still, hands it off faster than needed | Dead love; no name on-page |
 
 ### Scene rules (Vol I)
@@ -819,10 +831,10 @@ Pair with **Part V** (past-vs-mask leaks) and **Part 0** (complex pasts). Guardr
 - Show pathology as **competence's shadow** — Wren over-documents because a valid transfer once killed Mira; Eli over-connects because uncertainty feels like abandonment.
 - Trigger in **relationship** — Wren's custody instinct spikes when she over-manages Eli; Eli's identification spikes when Seven rhyme with grief.
 - Bill **cost in body** — crash after healing, migraine after archive, can't eat after a run.
-- Let mature move be **recognize autopilot → relation without ownership** (Manual Override), not diagnosis → cure.
+- Let the mature move be **recognize autopilot → choose a more truthful relation and action** (Manual Override), not diagnosis → cure.
 
 **Do not:**
-- Use trauma as **excuse** for villainy (Crane, Tommy can be wrong *and* wounded).
+- Use trauma as **excuse** for villainy (Lang, Tommy can be wrong *and* wounded).
 - Treat mental injury as **cosmic upgrade** (especially Eli's TBI or psion contact).
 - Reduce characters to one symptom ("the anxious one," "the guilt one").
 - **Magically cure** anything — practices help; gifts don't erase tissue or history.
@@ -834,9 +846,9 @@ Most major cast can carry some mix:
 | Pattern | On-page behavior | Examples |
 |---|---|---|
 | **Hypervigilance** | exits before faces; sleep debt; can't sit with back to door | Wren, Hassan, Custodians |
-| **Moral injury** | harm while trying to help; *"don't call that a win"* | Wren, Sora, Tommy, Mei, Crane |
+| **Moral injury** | harm while trying to help; *"don't call that a win"* | Wren, Sora, Tommy, Mei, Lang |
 | **Ambiguous loss** | gone but not gone; hope reopens wound | Eli (mother), Wren (soft prior self), Suresh (Iqbal) |
-| **Institutional betrayal** | trusted paper/system; it ate someone | Hassan, Jin, Edda, Mei |
+| **Institutional betrayal** | trusted paper/system; it ate someone | Hassan, Jin, Anika, Mei |
 | **Survivor guilt** | lived because someone else didn't | Wren, Sora, Suresh, Eli |
 | **Coercive-control hangover** | collar/registry logic internalized | Custodians, Eli (almost takes collar Vol I) |
 
@@ -893,7 +905,7 @@ Most major cast can carry some mix:
 | **Deification trauma** (Vol II–III) | crowd demand = parentification at scale |
 | **Filial duty bind** | aging mother in queue vs strangers needing miracles |
 
-### Dean Crane
+### Peter Lang
 
 | Pattern | Behavior |
 |---|---|
@@ -908,7 +920,7 @@ Most major cast can carry some mix:
 
 | Member | Pattern | Behavior |
 |---|---|---|
-| **Edda Voss** | Belief fusion; institutional dependency | analyst mind fused to seer role; fear of Crane + need for him |
+| **Anika Voss** | Belief fusion; institutional dependency | analyst mind fused to seer role; fear of Lang + need for him |
 | **Tomás Reyes** | Moral injury; self-punishment through violence | child collateral; hurts because feeling is worse (alexithymia register) |
 | **Sora Vithan** | Betrayer trauma; loyalty bind | volunteered to protect Mira; wore uniform when she died; team vs conscience |
 | **Jin Pak** | Identity diffusion; youth coercive recruitment | mirrors ops; voice slip = self returning |
@@ -930,7 +942,7 @@ Most major cast can carry some mix:
 
 | Character | Pattern | Behavior |
 |---|---|---|
-| **Sol Mendez** | Identification/charge spiral break; messiah hunger | charisma as untreated wound; partly right about cages |
+| **Sol Méndez** | Identification/charge spiral break; messiah hunger | charisma as untreated wound; partly right about cages |
 | **Wren** | Trauma bond to visibility | intake queues taught her forms eat people; control through accountable manifests as anxiety management |
 | **Mei Lin** | Parentification / communal overfunction | brother displaced; cousin died unregistered; food and vigilance as protection |
 

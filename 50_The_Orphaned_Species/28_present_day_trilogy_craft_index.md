@@ -16,7 +16,7 @@
 | Placing a character in a scene | `26_present_day_cast_expanded.md` (includes **past** layers) |
 | Tracking growth across a volume | `27_character_development_arcs.md` |
 | Trauma / internal cages (behavior under stress) | `26` Part VI + `15` § Trauma |
-| Writing Emrys comedy or warmth | `24_comedic_register_slapstick.md` + `16_reader_attachment.md` |
+| Writing fellowship comedy or warmth (primary carrier open — see `24` NEEDS AUTHOR DECISION) | `24_comedic_register_slapstick.md` + `16_reader_attachment.md` |
 | Pacing Life vs Knowledge reveals | `22_life_technology_and_two_trees_spine.md` + `17_reveal_order_and_reader_impact.md` |
 | Clue-chain / conspiracy comps (*Da Vinci Code*, *National Treasure*) | **`55`** — Vol I + Vol II + **Vol III** § *chapter-by-chapter pitch audit* |
 | Bible → site discoveries / activations | **`61_site_activation_map.md`** — recipe card + per-volume site tables; use when fleshing II–IV |
@@ -25,12 +25,13 @@
 | **Technology teaches meaning** | **`SERIES_STRUCTURE.md`** + `22` § *Technology teaches meaning* — concepts via runnable tech |
 | **Spirituality goes wrong** | **`SERIES_STRUCTURE.md`** + `40_concepts.md` § *Spirituality goes wrong* — toxic positivity / manifestation bullying; seed III–IV; densify V–X |
 | Decoding Maren's Rootbook / linguistic continuity | `52_the_rootbook_word_web.md` + volume beats `31`–`33` |
-| Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit* |
+| Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit*; **Inana dual-face** (healing + Wren/Rowan) — `35` § *Inana's Descent*, `19` § *Rowan returns* |
 | **Adjacent books / author brands (1–2 names)** | **`63_adjacent_books_and_author_brands.md`** — Wren/Rowan spicy Priority A; Brand A literary + Brand B romance; no per-book or AI-author roster |
-| **Cloister animal houses (Stag, Crow, Bear, Salmon, Ox)** | **`40_concepts.md`** § *Cloister animal houses* — five animal houses by stress pattern; seed `33` Ch 9; Book IV `60` |
+| **Cloister animal houses (Stag, Fox, Bear, Salmon, Ox)** | **`40_concepts.md`** § *Cloister animal houses* — five maturation-and-mentorship lineages with rites of passage; never temperament, occupational, military, or civic categories; Crow retired (bird/flight later); seed `33` Ch 9 |
+| **Phantom god-perception / correct worship** | **`17`** §9a + **`40`** — II seed; III civic diagnosis; **V–X** payoff = ego/robot → Player/consciousness; not atheism |
 | Locked beats / open names | `99_open_questions.md` |
 | Volume I chapter order | `31_volume_I_beatsheet.md` |
-| Volume II chapter order | `32_volume_II_beatsheet.md` |
+| Volume II chapter order | `32_volume_II_beatsheet.md` — **delivery package** (mother Clock A, Maren mirror, Rasel, Sol, Ch 8 one-way, contraction) |
 | Volume III chapter order | `33_volume_III_beatsheet.md` |
 | Science citations / epigraphs / *On the record* | `90_epigraphs_and_sources.md` § *Citation layer* |
 | Patriarchy & bloodlines chord (Tem, 17:1, Qingu) | `37_deep_time_source.md` § *Patriarchy & bloodlines* |
@@ -45,18 +46,18 @@
 | Dead zones / psion scour | `37` § *Dead zones*; `38` § *Scour & ground targeting* |
 | Nephilot trail / Alba–elf / Pömmelte massacre | `37` § *Tracking the Nephilot line*; `90` §6 |
 | Plot spine (Books I–IV acts, gaps; V–VI open) | `29_trilogy_plot_and_development.md` (legacy filename) |
-| Full structure / climax | `05_story_architecture.md` |
+| Full structure / climax | `05_story_architecture.md`; **end-feel + epic staging** — `17` § *Volume end-feel* / *Climax staging*; `55` §6; I=`58`; II=`32` Ch 10; III=`33` Ch 9–10; IV=`60` §7 |
 | Cultural moment / story-first resonance (2026) | `44_cultural_moment_and_mass_appeal.md` — durable pressures, character engines, organic suspense, cultural guardrails |
 | Quotable refrains / reader spread / revision pass | `53_quotable_refrains.md` — Tier A dialogue bible; voice jobs; anti-cult spread guard |
 | Lay verses (Tao / spiritual-text register) | `54_the_lay_verses.md` — Tier B companion; 27 chapters; Tao, Zen, zine & epigraph layer |
 | Lay liturgies (antiphonal / call-and-response) | `54_liturgies.md` — fragments → seasonal service; *Parade Liturgy* (Tao 20); *Hearth circles* (Book II post-collapse); *The flow* (post-collapse rendezvous phrase) |
-| Civic memorial anchors (King SF, Lincoln DC) | `90_epigraphs_and_sources.md` §10 — Yerba Buena *Revelation*; site text + Book III Ch 4–5 mapping |
+| Retired Book III civic memorial quarry (King SF, Lincoln DC) | `90_epigraphs_and_sources.md` §10 — no longer physical Book III stops after 2026-08-01 Brazil lock; retain only as Union feed/archive or future quarry |
 | Future conflicts / sorting / ~2040 pressure map | `56_future_conflicts_atlas.md` — six registers, bloc fragility, immigration×class×race, staging bank (LOCKED 2026-07-26) |
 | Audience / Wren relatability | `43_audience_and_character_recommendations.md` |
 | Character singularity — non-transferable cores | `27_character_development_arcs.md` § *Character singularity* (LOCKED 2026-07-30) |
 | Deep-time residue density / ancient face per volume | `17_reveal_order_and_reader_impact.md` § *Deep-time residue density* (LOCKED 2026-07-30); `35` § placement |
 | Anocracy / Continental Union fracture (Book III) | `33_volume_III_beatsheet.md` § *Anocracy / Union fracture* (LOCKED 2026-07-31); `90` §5.6; `WORLD_BIBLE` §1a; `23` |
-| Five delivery upgrades (density / antagonist jobs / chemistry / brand face / Book I meal) | `55_series_pitch_and_comps.md` § *Five delivery upgrades* (LOCKED 2026-07-31); checklist items 16–20 |
+| Five delivery upgrades (density / antagonist jobs / chemistry / public door vs visual identity / Book I meal) | `55_series_pitch_and_comps.md` § *Five delivery upgrades* (LOCKED 2026-07-31; pitch/visual revised 2026-08-01); checklist items 16–20 |
 
 ---
 
@@ -75,7 +76,7 @@ Story set **~2040** (default); optional author range **~2040–2042** for public
 Six conflict registers (ecological → technological), sorting machine (racism×class×immigration), bloc fragility, series escalation timeline, good-vs-good collisions, staging scene bank. Companion to `23`; pressure map for drafting.
 
 ### `24_comedic_register_slapstick.md`
-**Project Hail Mary register** — slapstick under catastrophe. Primary: **Emrys**. Ensemble: Eli straight man, Wren armor-break, Mei warm-dry. Volume comedy density.
+**Project Hail Mary register** — slapstick under catastrophe. Primary carrier open — see `24` NEEDS AUTHOR DECISION (Emrys purge). Ensemble: Eli straight man, Wren armor-break, Mei warm-dry. Volume comedy density.
 
 ### `26_present_day_cast_expanded.md`
 **Cast flesh** — provisional names, wants/wounds/habits, scene seeds. Romance becomes a **plural V in Book II**: Wren/Rowan and Wren/Eli; Rowan/Eli non-romantic (locked 2026-07-22).
@@ -99,7 +100,7 @@ Six conflict registers (ecological → technological), sorting machine (racism×
 | Present year (author) | `23` | ~2040 default; ~2040–2042 range; not on-page |
 | Death technology | `22`, `34`, `95` | Ordinary tech = equations in entropic time |
 | Life + death at climax | `22`, `05` | Two-Tree union act; release not throne |
-| Emrys comedy | `24`, `26` | Primary slapstick; measures-when-he-should-touch |
+| Fellowship comedy | `24`, `26` | Primary slapstick carrier open — **NEEDS AUTHOR DECISION** (Emrys purge, see `24`) |
 | Vol I end threshold | `27`, `05` | Personal Manual Override |
 | Vol II end threshold | `27`, `05` | Relational/collective Manual Override |
 | Cast names (provisional) | `26`, `99` | Table in open questions; Rowan on-page Book II; plural-V romance lock (2026-07-22) |

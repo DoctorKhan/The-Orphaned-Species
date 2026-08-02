@@ -72,7 +72,7 @@ Read these for **shape and pedagogy**, not for plot quotation. Real tradition li
 - Named redeemer at the center of every verse
 - Rank, purity, or activation caste
 - Commands without concrete image
-- Verses that **deliver the answer** (Crane/Sol register) instead of **arranging the test**
+- Verses that **deliver the answer** (Lang/Sol register) instead of **arranging the test**
 
 **The series teacher-test in verse form:** the real ones hand you the instrument; the counterfeits hand you the invoice.
 
@@ -188,7 +188,7 @@ I may still be wrong.
 Let us see  
 what repeats.
 
-*Practice: empirical humility. Lessons 1, 8. Seed: Emrys, Eli, teahouse protocol.*
+*Practice: empirical humility. Lessons 1, 8. Seed: Eli, teahouse protocol (speaker for the empirical-humility beat TBD — see `53_quotable_refrains.md` NEEDS AUTHOR DECISION).*
 
 ---
 
@@ -202,7 +202,7 @@ Walk the ground.
 Let the ground  
 correct you.
 
-*Lesson: be true, not right. Seed: Emrys's error name, registry.*
+*Lesson: be true, not right. Seed: the map-vs-territory error (speaker TBD — see `53_quotable_refrains.md` NEEDS AUTHOR DECISION), registry.*
 
 ---
 
@@ -322,7 +322,7 @@ Say *I am afraid.*
 The lie that hides fear  
 hands fear the keys.
 
-*Lesson 8. Daskar; Crane's false composure.*
+*Lesson 8. Daskar; Lang's false composure.*
 
 ---
 
@@ -337,7 +337,7 @@ what is owed
 has already turned  
 into tax.
 
-*Lesson 9. Lovernios; Emrys's key without priesthood.*
+*Lesson 9. Lovernios; Babaji's tablet given without priesthood.*
 
 ---
 
@@ -504,7 +504,7 @@ Wash the bowl.
 | 3 | The threshold | 4 | Hospitality without extraction | Mei, Pelangi |
 | 4 | The meal | 9 | Meal as care | Terrace, cannery |
 | 5 | Repair | 12 | Repair before replacement | Cloisters, maintenance |
-| 6 | The count and the question | 1, 8 | Empirical humility | Emrys, Eli, teahouse |
+| 6 | The count and the question | 1, 8 | Empirical humility | Eli, teahouse (speaker TBD) |
 | 7 | Map and ground | 1 | — | Registry, Göbekli |
 | 8 | Freight | — | Information ethics | Wren handshake |
 | 9 | The open hand | 2 | — | — |
@@ -514,7 +514,7 @@ Wash the bowl.
 | 13 | The two held | 6 | — | Eli–Wren |
 | 14 | Weather | 7 | — | Manual Override |
 | 15 | Named fear | 8 | — | Daskar |
-| 16 | The gift let go | 9 | — | Lovernios, Emrys |
+| 16 | The gift let go | 9 | — | Lovernios, Babaji |
 | 17 | Stillness | 10 | — | Aru |
 | 18 | Forgive, do not rehire | 11 | — | Book III declining of new kneel |
 | 19 | The garden | 12 | — | Field, Two Trees |
@@ -567,7 +567,7 @@ Content with an ordinary life —
 show the way back.  
 Do not keep it.
 
-*Practice: host humility; inquiry without oracle. Lessons 1, 8, 10. Tao 65 author rendering. **Scientific method = structured not-knowing** — pairs lay verse 24, *Let's test it*, teahouse preregister, Emrys *provisional* (`22`, `33`). **Primary home: Book III finale (Ch 9–10)** — federation after the bounded crown. Pairs Parade F8 at inquiry; teahouse host enacts after full Parade service. Not Eli's doctrine — wall, host, ordinary work.*
+*Practice: host humility; inquiry without oracle. Lessons 1, 8, 10. Tao 65 author rendering. **Scientific method = structured not-knowing** — pairs lay verse 24, *Let's test it*, teahouse preregister, provisional empiricism (`22`, `33`). **Primary home: Book III finale (Ch 9–10)** — federation after the bounded crown. Pairs Parade F8 at inquiry; teahouse host enacts after full Parade service. Not Eli's doctrine — wall, host, ordinary work.*
 
 **Condensed forms (same teaching, shorter):**
 

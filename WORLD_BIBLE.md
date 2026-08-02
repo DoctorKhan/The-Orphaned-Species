@@ -15,6 +15,21 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 
 > **HIGH PRIORITY — LOCKED 2026-07-25:** Shelf, agent/back-cover copy, comps (*Da Vinci Code* / *National Treasure*), clue-chain obligations, and 10-point revision gate: **`50_The_Orphaned_Species/55_series_pitch_and_comps.md`**. Manuscript and beatsheets must pass the pitch test before prose is "done."
 
+**PUBLIC DOOR / VISUAL IDENTITY — REVISED AND LOCKED 2026-08-01:** The first
+public story memory is causal and human: a state evidence file shows the
+handmade wedding ring of the father Eli was told had died; Eli follows it. The
+ring initially proves **Rasel alone** survived. It does not prove Maren's status,
+explain the custody chain, or disclose the cosmology. Book I copy sells Rasel's
+rescue plus the dangerous perception awakening in Eli. The wider series promise
+is whether awakening people will be registered, weaponized, worshiped, or
+allowed to mature beyond their abandoned makers. The **ring owns the copy
+hook**; the **Sanxingdui Bronze Tree owns the recurring visual system**. No rule
+requires a ring on every cover. Query, oral pitch, back cover, series overview,
+and meaning statement keep one causal promise but use format-appropriate
+language; do not copy one paragraph mechanically across them. Canonical strip:
+`50_The_Orphaned_Species/55_series_pitch_and_comps.md` § *Public pitch strip*;
+visual canon: `35_artifact_chain.md` § *Series icon*.
+
 **Hell — LOCKED 2026-07-31:** an infinite loop that cannot be escaped in a non-entropic world — a world without death. Unresolved charge with no mortality circuit-breaker. **Life is the solution to hell** — embodiment/entropy end loops; lucid life (override, Living Way, creation) is the cure, not abolishing death. `SERIES_STRUCTURE.md` § *Hell*; `00_MASTER_TIMELINE.md`; Manual Override hell worlds.
 
 **ULTIMATE METAPHYSICAL THESIS — LOCKED 2026-07-30:** From the Player / soul-plane view, the embodied world and its control architectures are **artificial training gear**. Training wheels are meant to break; autopilot is meant to fail so the operator can step in. Beings cannot see themselves directly — consequence inside the artifice is the only feedback. Failure is the sensor. The point of it all is **learn control → learn creation**. *Belong without owning* (Books I–IV) is intermediate ethics inside that curriculum, not the final answer. Full staging, cast guard, and companion links: `SERIES_STRUCTURE.md` § *Ultimate metaphysical thesis*. Do not dump as I–IV doctrine. **Spirituality goes wrong — LOCKED 2026-07-31:** dramatize toxic positivity / manifestation bullying as counterfeit of this thesis (`40` § *Spirituality goes wrong*). **Locally wrong / cosmically load-bearing:** harm stays harm; greater picture may show the failure as training pressure — not acquittal.
@@ -66,10 +81,12 @@ desks, no single point of failure, no single ceremony an attack could have
 reached. It succeeds. Decentralized governance holds for a real stretch of
 time; Eli becomes a private citizen. The Weavers and men's cloisters rise into
 formal civic power by **building** the transfer, not by surviving an attack on
-it. Book IV opens on that working stretch, then breaks it: a coordinated attack
-on the *working* government kills, scatters, or compromises enough of the
-reconstituted council that the reconstituted institutions — not an automatic
-legal default — **deliberately vote** to invoke the compact's dormant
+it. Book IV opens on that working stretch, then the **Lean Year** begins: a
+fictional North Pacific VEI-6 / low-VEI-7 eruption perturbs routes, weather, and
+harvests; an already brittle food system turns uneven shortage into export holds,
+hoarding, emergency-credential abuse, convoy seizures, rival forecasts, and
+collapsing interregional trust. No mastermind creates the whole crisis. The
+reconstituted institutions — not an automatic legal default — **deliberately vote** to invoke the compact's dormant
 continuity clause and ask Eli back into bounded authority a second time. Both
 movements' power deepens through this second crisis response, on top of what
 they already earned building the first success. Book IV is a women-led
@@ -93,6 +110,108 @@ distributed command, and the child is born without title or inherited claim.
 Governing architecture:
 `50_The_Orphaned_Species/60_volume_IV_court_of_threads.md`.
 
+**BOOK V FLIGHTS / NEO-ŚRAMAṆA BRIDGE — LOCKED 2026-08-01:** Book IV seeds
+traveling practices, young repair and harvest crews, and the closing mountain
+swifts; it does not found a new order. In the later-life Book V bridge, a loose
+neo-śramaṇa movement grows from teahouses, service houses, work-song, voluntary
+simplicity, contemplation, psionic restraint, and practical care. Young people
+then reorganize the routes into seasonal, self-chosen mobile cohorts called
+**flights**. Flights take temporary bird names from route, season, or task and
+carry labor, seed, repair, medicine, song, news, and technique between distinct
+settlements. They are not ethnic tribes, permanent clans, personality kinds,
+animal houses, or a youth caste. A flight must permit landing: members may
+leave, return home, change routes, remain unaffiliated, and challenge mentors or
+sponsors without civil death. Book V's personal test is Tara's generation—and
+potentially Tara herself—joining a form the founders did not design. Eli,
+Rowan, and Wren must honor the right to leave without pretending care requires
+indifference. Capture paths stay active: charismatic teachers, spiritual rank,
+commercial sponsorship, labor exploitation, smuggling, sexual hierarchy,
+psionic elitism, gang loyalty, and contempt for those who remain at home. The
+governing generational movement is: **the parents built a society in which the
+young could leave; the young use that freedom to build a society their parents
+do not understand.** Full social form: `50_teahouse_pilgrimage.md`; Book V
+bridge: `62_lifetime_orchestra.md`.
+
+**BRAZIL → HAWAIʻI / COSTA RICA HINGE — LOCKED 2026-08-01:** Book III's
+first six chapters move physically through a specific Brazilian lower-Amazon /
+Atlantic river-port network; exact host community and municipality remain open
+for research and consultation. Book II's Albion exit crosses the Atlantic.
+Pelangi remains an active home-node through Mei, cargo, testimony, work-song,
+and reciprocal obligations, but Eli does not have to stand there for it to
+remain home. The fatal welcome failure, Lang Standard debate, Wren's network
+boundary, and compact formation occur in Brazil. San Francisco, Washington,
+and Continental Union fracture remain consequential at a distance through
+delegates, feeds, refugees, records, and demands; they are not Book III's
+physical itinerary. Chapters 7–10 remain Hawaiʻi/Pacific. Book IV's principal
+court remains in North America. During the Lean Year, some northern populations
+move through **Costa Rica**, a Central American—not South American—receiving
+and transfer hinge, toward established South American and Pacific nodes. Costa
+Rican communities govern admission and may refuse the court's terms. Eli,
+Rowan, Wren, and the court do not solve the volume by fleeing south.
+
+**COSTA RICAN GROWN CORRIDOR / TREES AS CIVIC INFRASTRUCTURE — LOCKED
+2026-08-01:** Costa Rica's Book IV route is not principally a highway, camp, or
+single national program. It is a federation of watershed councils, biological
+corridor committees, farms, nurseries, clinics, ports, Indigenous territories,
+and neighborhood receiving houses whose usable capacity was **grown over
+decades**. Mixed tree cover cools work and sleeping areas, slows runoff, holds
+slopes and soil, improves infiltration, shelters food and coffee systems,
+provides fruit/fodder/fiber/repair material, and keeps pollinator and wildlife
+routes open. These functions—not scenery—explain why the hinge survives the
+Lean Year. They also impose its limit: admitting people faster than water,
+shade, food trees, sanitation, housing, and local consent can regenerate would
+kill the corridor while appearing generous. The councils therefore count
+**canopy, water, slope, nursery, and harvest time**, not just beds.
+
+The trees do not speak, vote, remember human history, or form a secret psionic
+internet. Sensitive people may perceive stress, fungal imbalance, interrupted
+water, or the accumulated coherence of an old mixed stand, but every perception
+must be checked by growers, hydrology, soil measures, and repeat observation.
+A mature guanacaste may shelter a public council because shade is useful and
+the tree is culturally legible; it is not an oracle. The mature Two-Trees form
+is practical: living response changes a decision, public knowledge tests that
+response, and neither becomes property or revelation.
+
+**Conflict:** Continuity wants emergency clearing, standardized fast-growing
+stock, sensor rights, and a northern allocation key. Route firms and carbon
+markets convert living mosaics into interchangeable canopy credits. Sol calls
+the forest proof that borders and refusal are obsolete. Some local conservation
+actors also carry real failures—land exclusion, paternalism, unequal payments,
+tourism capture, and romanticizing forest over farm. Costa Rican characters
+disagree over selective cutting, grafted and native stock, working land,
+housing, and who bears preservation costs. Their answer is neither untouched
+wilderness nor extractive emergency: named local authority, mixed working
+landscapes, published ecological limits, salvage before live felling, and
+restoration labor paid as indispensable work.
+
+**Intergenerational transmission:** The grown corridor is also a teaching
+system. Older growers and restoration crews teach adolescents and newly arrived
+adults by working beside them; younger children may sort large seeds, fill pots,
+carry light water, mark rainfall, notice flowering dates, and sing or move with
+repetitive work only under safe, voluntary, age-bounded conditions. Song keeps
+pace and carries sequences—what gets soaked, what cannot be mixed, when tools
+stop—not mystical botanical truth. School, play, and refusal remain protected.
+The practice integrates newcomers into useful relationship without making
+children an emergency labor pool. By Book V, some wandering youth know how to
+leave a place with a nursery, a shade plan, and trained successors rather than
+merely passing through it.
+
+**EAGLE–CONDOR TEACHING — LOCKED AS CONTESTED, NOT COSMIC FACT 2026-08-01:**
+Characters encounter several living versions of a pan-American Eagle–Condor
+teaching: northern and southern peoples, knowledge systems, or historical paths
+may have an opportunity to fly in relation after centuries of separation. The
+narrative does not certify a single ancient origin, a 500-year timetable, a
+North=mind/technology versus South=heart/nature binary, or inevitable unity.
+An Andean or pan-Indigenous carrier may introduce one version; Brazilian and
+Costa Rican participants may correct its flattening of the Americas and ask
+who disappears when only two birds are named. Its best reading is the compact:
+cooperation without merger, reciprocal technology and living knowledge, and
+sovereign peoples retaining the right to refuse. Its capture paths are equally
+real: Sol uses it to preach forced hemispheric unity; the North American court
+uses it to call southern resources a destined obligation; commercial and
+spiritual actors turn it into branding. No meaningful bird behavior confirms
+the teaching. Conduct does.
+
 At the mound crossing, **Morwen**, a local keeper who travels with them, lays
 fresh rowan branches and states the old boundary rule before iron; **Rowan**
 holds that same line against premature closure. Wren, a house Weaver and
@@ -108,6 +227,19 @@ The renewed Wren/Rowan romance is explicit, reciprocal, and negotiated. It begin
 **WREN PERSONAL / ROWAN POLITICAL — LOCKED 2026-07-22:** These women must not perform the same developmental function for Eli. Wren is personal. Across Book I (Pelangi/Meridian/Malacca breach through the Thailand journey to Sanxingdui) she helps Eli become emotionally legible to himself: fear is not vigilance, shame is not usefulness, grief is not investigation, desire is not destiny, anger is not certainty, and loneliness is not a mandate to become indispensable. Through ordinary intimacy, disagreement, attraction, silence, and repair, he learns to trust his perceptions, name what he feels, understand what he wants, and choose with growing confidence. He reciprocally sees the frightened, tired, desiring person beneath Wren's operational competence without claiming access to her. Rowan is political. In the later books she challenges, supports, and limits Eli as a public leader, helping test whether private conviction can become accountable conduct among communities. Consent and boundary remain conditions of Wren/Eli intimacy, not its central meaning. Governing line: **Wren helps Eli become inwardly human; Rowan helps him become publicly answerable.**
 
 **FOUR-VOLUME HUMAN PROGRESSION — LOCKED 2026-07-28 (brief five-volume renumber 2026-07-29 reversed same day; see `SERIES_STRUCTURE.md`); parent rescue 2026-07-24; hero/Taoist hinge 2026-07-30:** Book I centers **feeling and self-knowledge**; Eli's confidence grows from becoming emotionally legible to himself, especially through Wren, across the Pelangi/Meridian/Malacca breach and the Thailand journey to Sanxingdui. Book II centers **consent and control**; Eli rescues and releases Maren, proving that real love never makes another person property. Book III centers **politics, civilization, and necessary authority**: free communities suffer real harm, Eli accepts bounded command and becomes the public hero while learning that **things under heroism are not what they seem**, refuses forced synchronization, and completes a real first handover. Book IV centers **subtle power, embodiment, succession, and Living Way / Taoist maturity**: women experience the court from inside its rooms, pregnancy becomes contested political property, the Weavers and men's cloisters learn to survive formal power, and Eli — pushed between pacifism and finishing the enemy — answers that **perhaps there is a middle way**, then makes relinquishment institutionally possible during the birth. **Fundamental motor:** parent rescue and the search for a home that does not own its members—not a power quest. The themes rhyme across all books, but their primary revelation order must remain distinct.
+
+**READER END-FEELING / CLIMAX + HUNGER — LOCKED 2026-08-01:** Each volume must
+end with a delivered climax and a new appetite, not with the climax secretly
+invalidated. **Book I:** Rasel recovered; home damaged; Maren's westward trail
+opens. **Book II:** Maren released; awakening spreads; the world has no form to
+hold it. **Book III:** the constitutional handover genuinely succeeds and
+decentralized governance holds; readers feel relief, then Eli's private hunger
+and the federation's unresolved material dependencies create the desire to see
+whether the victory survives. **Book IV:** birth and relinquishment genuinely
+end hereditary command; readers feel earned ordinary warmth and hunger for the
+later spiritual/wandering arc. The Loop is a name for private incompletion and
+unfinished debt, never a verdict that Book III's civic goods were fake. Book IV
+tests Book III's victory; it does not expose it as a narrative fraud.
 
 **THE PLY / FORMATIVE WEAVER BONDS — LOCKED 2026-07-22:** Among adolescent Weaver trainees, a **ply** begins as **going together**, not as an assigned pair or adult contract. The practical rule is *no one goes out of sight alone*: young trainees accompany one another to night latrines, washing places, water runs, infirmaries, watches, strange houses, and the edge of camp. They rotate at first, then often keep choosing the same person. This is especially intimate among girls, who may guard one another while urinating, menstruating, washing, changing, crying, vomiting, or tending an injury. The repeated bodily truth is: **I can lower my guard because you are facing outward.** The house does not create the bond. Once the choice has become unmistakable, it **keeps** what adolescence and survival already wove by recognizing the pair as a ply—perhaps through adjoining sleeping rolls, a shared watch, or cord the teenagers divide and braid themselves.
 
@@ -125,7 +257,7 @@ or control. **The body remembers whom it trusted; the person must still choose.*
 
 **THE RECLAMATION — PAIRED-ISLAND LOCK, RECONCILED 2026-07-22:** Pelangi Reach is a larger inhabited island and a smaller artificial island joined by causeways, ferries, utility lines, and unequal dependence. The smaller island—usually called **the Reclamation**—was salvaged from a failed development project and carries the former Forest City functions: Forest Foundry, data and repair facilities, worker housing, refugee intake, experimental infrastructure, gardens, harbor logistics, fintech and luxury zones, and the fragile refuge Eli calls home. It is not the whole Pelangi system. The larger old island contains villages, water systems, temples, farms, fishing communities, migrant neighborhoods, and craft districts; the outer coast carries storm barriers, fishing settlements, floating infrastructure, and the greatest climate exposure. The Reclamation cannot feed, repair, supply, or socially legitimize itself without the larger island. The old island is asked to preserve the new land while the new land is asked to justify changing the old island.
 
-**BABAJI — LOCKED 2026-07-24:** **Babaji** — eccentric billionaire refuge patron (robot dogs, automatic chess boards, Reclamation/Forest Foundry shelter). Rasel's old friend; gave Eli **work, not wallet**; keeper holdout triggers Book I Mandate squeeze. `26` § Babaji; `99` § Babaji.
+**ARUN SUBRAMANIAM / BABAJI — LOCKED 2026-08-01:** **Arun Subramaniam** is the eccentric billionaire refuge patron (robot dogs, automatic chess boards, Reclamation/Forest Foundry shelter). Pelangi's community calls him **Babaji** affectionately; it is neither his birth name nor a mystical office. Official records use Arun Subramaniam or A. Subramaniam. Rasel's old friend; gave Eli **work, not wallet**; keeper holdout triggers Book I Mandate squeeze. `26` § Babaji; `99` § Babaji.
 
 Pelangi's older water coordination, farming, temple obligations, craft, music, procession, kinship, and ecological knowledge keep the island from becoming another Meridian, but the culture is changing: younger residents leave or become platform workers, rituals are packaged for visitors, land is lost, and old water systems are redesigned around campuses. The past was neither pure nor equal; what is mourned is a changing relationship among land, water, work, and obligation. The king is neither villain nor saint: he genuinely seeks sovereignty and protection from Meridian while pursuing prestige, control, and legacy.
 
@@ -135,11 +267,11 @@ AI is embedded infrastructure rather than a single superintelligence. After the 
 
 The machine wars and ancestry-keyed Weapon therefore strike an already old, low-fertility world and turn gradual decline into a **missing-cohort crisis**. Children and adolescents become scarce without becoming narrative commodities. The Union answers with registries, incentives, reproductive surveillance, and national-family rhetoric; the Mandate treats young people—especially activated adolescents—as strategic medical and labor capacity; the Ports improvise extended households, threshold houses, fosterage, and alloparenting, with uneven safeguards against coercion. Book I shows the pressure as bodily residue: empty child infrastructure, older workforces, automated care, labor sorting, and disproportionate attention to the young. Book II asks whether bloodline, protection, chosen kin, and shared child-rearing constitute family or possession. Book III reveals the engine beneath pronatal language: states need births, workers, soldiers, caregivers, and taxpayers, but command cannot manufacture desire, intimacy, or family. **A civilization can order reproduction; it cannot order belonging.**
 
-**THE CHARKHA MEASURE / PAIR-SEVERANCE — LOCKED 2026-07-26:** **The Charkha Measure** is the formal name of Crane's transnational suppression-and-acquisition apparatus; **the Charkha** is the ordinary spoken and reader-facing shorthand. **Measure** appears mainly in formal records and technical program language. One of its long operations is not women's liberation or employment, which remain real exercises of agency, but the capture of emancipatory language for **dependency transfer**. The Charkha arranges conditions in which women inherit men's old economic obligations without relief from bodily, domestic, and caregiving burdens, then calls the resulting overload independence; it simultaneously makes men less necessary to institutions while leaving many emotionally untrained to become necessary to actual people. It amplifies opposed grievance scripts: women are taught that dependence on any man is submission; men that women's independence is dispossession; women that vulnerability is failure; men that tenderness is surrender. The aim is not genuine independence. It is to move reliance away from reciprocal human bonds and upward into employers, platforms, registries, credentialing systems, therapeutic authorities, security structures, and the state.
+**THE CHARKHA MEASURE / PAIR-SEVERANCE — LOCKED 2026-07-26:** **The Charkha Measure** is the formal name of Lang's transnational suppression-and-acquisition apparatus; **the Charkha** is the ordinary spoken and reader-facing shorthand. **Measure** appears mainly in formal records and technical program language. One of its long operations is not women's liberation or employment, which remain real exercises of agency, but the capture of emancipatory language for **dependency transfer**. The Charkha arranges conditions in which women inherit men's old economic obligations without relief from bodily, domestic, and caregiving burdens, then calls the resulting overload independence; it simultaneously makes men less necessary to institutions while leaving many emotionally untrained to become necessary to actual people. It amplifies opposed grievance scripts: women are taught that dependence on any man is submission; men that women's independence is dispossession; women that vulnerability is failure; men that tenderness is surrender. The aim is not genuine independence. It is to move reliance away from reciprocal human bonds and upward into employers, platforms, registries, credentialing systems, therapeutic authorities, security structures, and the state.
 
 The Charkha's operative insight is: **a bonded pair can refuse the state; two isolated individuals must negotiate with it separately.** Its research families use anodyne language such as **Pair-Severance**, **Dyadic Resilience Suppression**, **Cross-Sex Confidence Reduction**, **Household Permeability**, and the **Dual-Harness Program**. It does not create every conflict, secretly author every movement, or compel anyone; it funds, tests, recommends, ranks, and algorithmically amplifies whatever already weakens horizontal trust. The same method is used between young and old, parent and child, citizen and migrant, bonded and unbonded. Gender is the most intimate proving ground, not the only one.
 
-**BELIEF FUSION AS DEPENDENCY-TRANSFER, CASE STUDY EDDA VOSS — LOCKED 2026-07-31:** Pair-Severance's mechanism does not stop at its targets; it also runs on the Charkha's own operators, and **Captain Edda Voss** is that pattern completed rather than an exception to it. A signals analyst before the seer program, she lost a child or younger sibling to an uncontrolled carrier episode — a failure the informal, unregistered networks around her did not catch in time. She does not remember this as bad luck. She remembers it as proof that reciprocal, unmonitored care cannot be trusted to hold. Every cycle afterward that rewards compliance and punishes independent judgment confirms the lesson rather than testing it, until resistance stops being weighed case by case and simply stops being tried — not despair, but a trained reflex she experiences as professionalism. **Managed danger, not betrayal**, in her own words. Her fusion to the seer role is this pattern finished: analyst rigor married to institutional dependency until neither survives separation from the other. She fears Crane and needs him for the same reason a person who has stopped believing an exit exists stops checking for the door — not because the door is guarded, but because the last hundred checks all confirmed it wasn't worth the cost of looking. No amnesty and no visible exit changes this from outside; only a cost her belief cannot absorb — arrest, forced testimony, the apparatus itself failing around her — opens the door, and even then there is no redemption arc, only account-taking (`26_present_day_cast_expanded.md` § The Custodians; `27_character_development_arcs.md` § Custodians — grief as coercion). Generalize with care: this is what Pair-Severance produces in anyone run through enough cycles of it, not a trait unique to her.
+**BELIEF FUSION AS DEPENDENCY-TRANSFER, CASE STUDY ANIKA VOSS — LOCKED 2026-07-31:** Pair-Severance's mechanism does not stop at its targets; it also runs on the Charkha's own operators, and **Captain Anika Voss** is that pattern completed rather than an exception to it. A signals analyst before the seer program, she lost a child or younger sibling to an uncontrolled carrier episode — a failure the informal, unregistered networks around her did not catch in time. She does not remember this as bad luck. She remembers it as proof that reciprocal, unmonitored care cannot be trusted to hold. Every cycle afterward that rewards compliance and punishes independent judgment confirms the lesson rather than testing it, until resistance stops being weighed case by case and simply stops being tried — not despair, but a trained reflex she experiences as professionalism. **Managed danger, not betrayal**, in her own words. Her fusion to the seer role is this pattern finished: analyst rigor married to institutional dependency until neither survives separation from the other. She fears Lang and needs him for the same reason a person who has stopped believing an exit exists stops checking for the door — not because the door is guarded, but because the last hundred checks all confirmed it wasn't worth the cost of looking. No amnesty and no visible exit changes this from outside; only a cost her belief cannot absorb — arrest, forced testimony, the apparatus itself failing around her — opens the door, and even then there is no redemption arc, only account-taking (`26_present_day_cast_expanded.md` § The Custodians; `27_character_development_arcs.md` § Custodians — grief as coercion). Generalize with care: this is what Pair-Severance produces in anyone run through enough cycles of it, not a trait unique to her.
 
 **Instinct / institution distinction — LOCKED:** at the population level, female reproductive selectivity and male status competition, display, protection, and risk-bearing are ancient pressures, unevenly expressed rather than universal commands. The Charkha did not invent the sorting or the sacrifice. It **severed each from care**: selectivity became permanent social exclusion; rejection became civic death; courage became disposability; sacrifice became an admission price men were expected to pay without being kept, recovered, or grieved. A mature society does not abolish attraction, rejection, competition, or chosen masculine risk. It makes rejection survivable, standing revisable, and dangerous service voluntary, shared, witnessed, honored, recoverable, and grieved. Women owe no man intimacy or dependence; sacrifice purchases no sexual access; no sex creates an automatic duty to fight. Governing line: **The Charkha made women sort men they no longer knew, and made men sacrifice themselves for communities that would not remember them.**
 
@@ -154,23 +286,27 @@ demography); institutions still required the work and loaded it onto available
 women without removing pregnancy, domestic, sexual, or care burdens. **Do not
 place a Paraguay-scale male wipeout before Book I** — scarce surviving men would
 gain reproductive/political leverage that contradicts Extra disposability.
-**Book III** spends men hardest in the Awakening War; **Book IV's opening attack**
-empties the court of many remaining men; only then does Paraguay-style
+**Book III** spends men hardest in the Awakening War; **Book IV's Lean Year**
+exposes and deepens that loss through convoy, repair, and long-route service;
+the imbalance accumulates across two crises rather than arriving in a single
+Book IV slaughter. Only then does Paraguay-style
 male-prize leverage appear. Some women gain real skill, identity, pleasure, status, and power
 there; others are simply spent in a new register. The men's cloisters do not rise
 to reclaim “men's jobs,” displace these women, or restore compulsory roles — and
 in Book IV they must also refuse dissolving into private scarce-male power.
 **Cloister transform — LOCKED 2026-07-30:** when men were Extra, cloisters kept
 them from being nothing; when men become scarce, cloisters keep them from being
-property. **Behavior clans — LOCKED 2026-07-31:** cloisters sort into animal
-houses by stress behavior (Stag/Deer, Crow, Bear, Salmon, Ox) — revisable temperament,
-not blood or registry; Stags look spooked (*Deer*) until true need, then surge strong
-(`40` § *Cloister behavior clans*). Book IV makes the allocation of defense, repair, command, care, and bodily risk a
+property. **Animal houses — MATURATION / MENTORSHIP ONLY; REVISED 2026-08-01:**
+cloister teaching lineages (**Stag**; folk speech may say **Deer**; **Fox, Bear,
+Salmon, Ox**) with rites of
+passage; never temperament, job, military, or civic categories. Crow retired so
+bird/flight language stays free for swifts coda and Book V flights (`40` §
+*Cloister animal houses*). Book IV makes the allocation of defense, repair, command, care, and bodily risk a
 court conflict: work and authority must be redistributed by aptitude, consent,
 training, rotation, and continuing care—not returned to a sex caste, and not
 converted into consort/heir capture of the survivors.
 
-**Reveal order is fixed.** Book I shows the emotional effects without political explanation: fear of need, intimacy mistaken for capture, exhaustion sold as competence, and institutional mediation where community once stood. Book II reveals the operation at midpoint through records Rowan can interpret and makes its personal cost legible through Wren; neither woman reduces her choices or their relationship to manipulation. Book III reveals the system purpose and demographic consequence: the Charkha helped make durable partnership harder, then its allied institutions lamented falling births because the civilization-engine needed replacement inputs. Governing lines: **Freedom is not the absence of need; it is the power to choose whom and what one depends upon. The Charkha did not liberate women from men or men from women. It liberated the engine from both.**
+**Reveal order is fixed.** Book I shows the emotional effects without political explanation: fear of need, intimacy mistaken for capture, exhaustion sold as competence, and institutional mediation where community once stood. Book II reveals the operation at midpoint through records Rowan can interpret and makes its personal cost legible through Wren; neither woman reduces her choices or their relationship to manipulation. Book III reveals the system purpose and demographic consequence: the Charkha helped make durable partnership harder, then its allied institutions lamented falling births because the civilization-engine needed replacement inputs. **Phantom god-perception / correct worship — LOCKED 2026-08-01:** Book II seeds; Book III civic diagnosis (domestication remote collar); **V–X** spiritual payoff = robot/ego submits to Player/consciousness (`17` §9a; `40`; `SERIES_STRUCTURE.md`). Governing lines: **Freedom is not the absence of need; it is the power to choose whom and what one depends upon. The Charkha did not liberate women from men or men from women. It liberated the engine from both. We see gods who aren’t there because we were bred to keep serving when they left.**
 
 **Hunt attribution — dual-true + Mandate costume (LOCKED 2026-07-26):**
 - **Truth:** **Eastern Mandate and Charkha both** pursue him — different claims. **Mandate half is real but narrower:** Rasel claim, archive/Babaji squeeze, Stack bureaucracy that can flag a physicist's son. **Charkha half is real and deeper:** mother-trail / carrier harvest. **Maren → Charkha; Rasel → Mandate.**
@@ -195,7 +331,7 @@ convoy non-look), local Weaver/Thread care, idol, Ma seed, and Sora Vithan. Rowa
 does not help them through Meridian; her west-corridor Weft enters in Book II.
 Professor Emrys does not exist.
 
-**Chase grammar — trilogy (LOCKED 2026-07-26):** every later capital / set-piece room repeats Meridian's move at rising stakes — *expensive room → 2–3 masks flash → Eli exits through the underside.* Fuller ensemble only when earned (e.g. Crane's mercy table Vol II; Sol's armed-prophet table Vol III). Meridian teaches the grammar; it is not the cast dump.
+**Chase grammar — trilogy (LOCKED 2026-07-26):** every later capital / set-piece room repeats Meridian's move at rising stakes — *expensive room → 2–3 masks flash → Eli exits through the underside.* Fuller ensemble only when earned (e.g. Lang's mercy table Vol II; Sol's armed-prophet table Vol III). Meridian teaches the grammar; it is not the cast dump.
 
 Meridian is a modern Tower of Babel in reverse: many languages and communities are translated into standardized records, risk codes, and interoperable systems without being truly understood. It contains real competence, safety, food, beauty, and multilingual life; its danger is translation without relationship, where every person becomes legible to the system before being known by another person. The official claim that Singapore and “the East” were spared by the haplotype weapon is a founding lie of compression: the city's Chinese majority was comparatively protected while South Asian residents and migrant workers, along with other vulnerable communities, suffered unevenly and were then obscured by aggregate survival statistics. This history must remain socially visible; it helps explain why Bengali workers maintain the capital while navigating it through a parallel human geography.
 
@@ -275,7 +411,7 @@ These are **armistice-era / post-collapse blocs**, not peaceful post-war societi
 
 - **World / Machine War:** public geopolitical conflict driven by political fracture, resources, shipping, ideology, cyberwar, and economic collapse. Its hottest global phase has ended by Book I, but armed reopening includes proxy battles, patrols, sanctions, blockades, piracy, drone strikes, and incompatible ceasefires.
 - **Modern Psion War:** a covert theater nested inside the world war after states confirm psionic signatures. National programs, the Charkha Measure, contracted teams such as the Custodians, independents, mercenaries, and liberation cells fight over carriers, charged grounds, records, and amplifier access.
-- **Causal boundary:** psions did not cause the world war; Crane does not secretly control it. The public war supplies damaged infrastructure, emergency authority, displacement systems, health data, and deniable casualties that the Psion War exploits.
+- **Causal boundary:** psions did not cause the world war; Lang does not secretly control it. The public war supplies damaged infrastructure, emergency authority, displacement systems, health data, and deniable casualties that the Psion War exploits.
 - **Reverse influence:** psion operations can affect particular negotiations, command decisions, intelligence failures, panics, and battles without controlling the whole geopolitical conflict.
 - **Book I status:** armed reopening outside; covert Psion War fully active and becoming harder to conceal. Eli's flare exposes him to a war already underway.
 - **Book II change:** Maren's release and the spreading awakening break the old monopoly on rare isolated carriers and the tethered amplifier. Neither war ends. The covert arms race becomes a public political struggle over awakened people.
@@ -299,7 +435,7 @@ These are **armistice-era / post-collapse blocs**, not peaceful post-war societi
 - **Maren Holt (Eli's mother) = Albion-born, a natural carrier, and a neuroscientist.** **Albion passport** (legacy **British** on some extraction files). **Always Maren Holt.** **Claimed by the Charkha Measure** — not Mandate. **Alive — LOCKED 2026-07-24:** taken at extraction; **passport split** from Rasel (different citizenship → different orgs); **location unknown** to keeper net. Eli **believed orphan** until **Mei Friday dinner (Ch 1)** — **keeper child-separation protocol:** off the claim-household file (*dead on the file so you could live*). **Post-Hinge scientist claiming — LOCKED 2026-07-24:** after armistice, the three-bloc cold war **claims all scientists** as strategic property. **Book I:** Eli **rescues Rasel** at Sanxingdui (Mandate lab). **Book II:** suppression scene, complicity, **Eli rescues Maren**, release at Albion.
 - **Rasel Khan (Eli's father) = Bangladeshi physicist.** **Bangladeshi passport.** **Claimed by Eastern Mandate** — **Rasel Khan** on files. **Alive in Mandate field-research custody.** Ch 1: taken alive, location unknown. **Eli recovers Rasel at Sanxingdui — Book I climax.** **Passport split** from Maren at extraction.
 - **Maren's work = neuroscience, complicity, then the carrier/keeper underground.**
-  Before the outbreak she studied naturally occurring carriers with Crane and
+  Before the outbreak she studied naturally occurring carriers with Lang and
   the early research program, helping build tools that aid integration and enable capture. After turning
   dissident, she enters the Southeast Asian keeper network. Hassan crosses her
   custody chain after Rasel gives him **Rasel's ring**; Maren recognizes her
@@ -425,7 +561,7 @@ These are **armistice-era / post-collapse blocs**, not peaceful post-war societi
   - **Maren's keepers** = that present-day dissenter/keeper underground.
   - **Pelangi Reach itself = a carrier refuge** established by an eccentric keeper ("Babaji," the old man on the island); its guardians (the "mafia" Eli meets) form a local underground cell. **Rasel Khan** (রাসেল খান — **Rasel** in speech and on forms; *Russell* in some English mouths) **was Babaji's friend** — gardener who helped plant the island; when the net broke he asked Babaji to find Eli **work, not money**. Eli's cover against the Continentalist Party registry is **Rasel's boy on a wage ticket**, not a mistaken heir — see MS antique-car / tea scene (interstitial before Ch Two).
   - Eli's post-breach **wide-receiver** status (`39` §4: receiver/reflector, TBI-breached filter) lets charged grounds clarify distinct historical witnesses without turning them into his incarnations or a pre-set roster. His stateless drift through the carrier network becomes the species rediscovering itself through particular people, practices, and corrections.
-  - **Current trilogy journey spine (reconciled 2026-07-23):** **Book I** — Pelangi Reach → Meridian City → Malacca breach → **Thailand** (mountain/Pai **Khun Dang** → wat → river cooperative Ch 5–10) → Gulf → Göbekli (**Bangladesh off-page**). **Book II** — west to Albion. **Book III** — network / Hawaiʻi / federation. **Childhood opacity:** no fugitive-years montage. **Mekong retired.**
+  - **Current series journey spine (revised 2026-08-01):** **Book I** — Pelangi Reach → Meridian City → Malacca breach → **Thailand** → Sanxingdui. **Book II** — west through Mesopotamia / Göbekli and Europe to Albion. **Book III** — Atlantic crossing → Brazilian lower-Amazon / river-port network (Ch 1–6) → Hawaiʻi/Pacific (Ch 7–10); Pelangi remains active at distance. **Book IV** — North American court with a Costa Rican evacuation hinge into established South American / Caribbean / Pacific routes. **Childhood opacity:** no fugitive-years montage. **Mekong retired.**
 - **Parent evidence chain:** a Mandate intake photograph of Rasel's scarred hand
   beside his wedding ring and Hassan's possession of the physical band establish
   the Book I father trail. Rasel gave Hassan the ring during transfer. Hassan later

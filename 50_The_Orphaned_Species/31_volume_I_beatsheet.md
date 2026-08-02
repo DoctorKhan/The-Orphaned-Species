@@ -6,7 +6,7 @@
 > displaced. Professor Emrys does not exist. Existing Gulf/Göbekli cards are
 > relocation quarry for Book II.
 
-> **Laos closure / Vietnam detour — LOCKED 2026-07-29; prose integrated 2026-07-29; motive sharpened 2026-07-30:** the intended Ch 11 crossing (Thailand → Laos/Yunnan → Sichuan) is interrupted — the same rising regional emergency that later erupts into the Sanxingdui civilian evacuation closes the Laos border first, while the group is already en route. The forced detour runs north through Vietnam instead, in monsoon season: unexploded ordnance and unmanaged dioxin/clearance hotspots, mapped and partially contained before the Hinge, now live and unmarked because nobody is left to maintain clearance — and rising floodwater shifts buried ordnance past any old clearance line. Rain, mud, and brown water hiding what's underfoot are the sequence's texture. Dara's choice is deliberate, not just forced: she refuses Edda's official "protected intake" line because any working checkpoint runs Eli's palm/face/blood-spot through the same Mandate-lettered registry — the mud road has no checkpoint worth the name. Eli believes he's staying under the Mandate's radar; the group doesn't yet know Charkha is the one who actually finds him at the Chinese border regardless. **Governing draft Ch 11 now carries this** (Laos notice → Vietnam shelf walk → Sora gate → Dara permit death → Sichuan). Full route rationale: `00_NARRATIVE_STRUCTURE.md` § beat 5.
+> **Laos closure / Vietnam detour — LOCKED 2026-07-29; prose integrated 2026-07-29; motive sharpened 2026-07-30:** the intended Ch 11 crossing (Thailand → Laos/Yunnan → Sichuan) is interrupted — the same rising regional emergency that later erupts into the Sanxingdui civilian evacuation closes the Laos border first, while the group is already en route. The forced detour runs north through Vietnam instead, in monsoon season: unexploded ordnance and unmanaged dioxin/clearance hotspots, mapped and partially contained before the Hinge, now live and unmarked because nobody is left to maintain clearance — and rising floodwater shifts buried ordnance past any old clearance line. Rain, mud, and brown water hiding what's underfoot are the sequence's texture. Dara's choice is deliberate, not just forced: she refuses Anika's official "protected intake" line because any working checkpoint runs Eli's palm/face/blood-spot through the same Mandate-lettered registry — the mud road has no checkpoint worth the name. Eli believes he's staying under the Mandate's radar; the group doesn't yet know Charkha is the one who actually finds him at the Chinese border regardless. **Governing draft Ch 11 now carries this** (Laos notice → Vietnam shelf walk → Sora gate → Dara permit death → Sichuan). Full route rationale: `00_NARRATIVE_STRUCTURE.md` § beat 5.
 
 > **HIGH PRIORITY — LOCKED 2026-07-25; place-craft 2026-07-26; pressure rules 2026-07-29:** Chapter beats must pass **`55_series_pitch_and_comps.md`** clue-chain gate (body movement, visual key, short-loop payoff, domestic cost, **wonder + place lie**) **and** the **Three pressure rules** (two live clocks; antagonist present-tense job; cost → next chapter). Book I dual-clock map: `55` § *Book I — dual-clock & cost→next map*. Place geometry / lies / Silo grammar: `14` § *Place-craft — Silo grammar*.
 
@@ -17,6 +17,10 @@
 > institutional surveillance—not another captive.
 
 > **COSMOLOGICAL FUNCTION — LOCKED 2026-07-15:** Book I establishes the divine knowledge-blueprint and the human fear that turns life-technology into a target. The later resolution is not anti-technology: technological understanding must mature enough to recognize the Nephilot/elven line as fellow persons rather than repeat the ancient killing.
+
+> **USE / CAPTURE / CORRECTION — LOCKED 2026-08-01:** Book I establishes the series' pitfall rhythm at human scale. Port ledgers protect wages and expose routes; checkpoints can quarantine and sort; martial or competitive play can teach restraint and become humiliation or recruitment; temple, kin, and craft discipline can keep a person alive and demand obedience in payment. At least one sympathetic keeper, clerk, coach, or protector must overreach for an intelligible reason. Eli's early lesson is not that institutions are traps. It is that a necessary function never excuses an unanswerable form.
+
+> **DREAMING — BOOK I LOCK 2026-08-01:** Eli already dreams vividly, but neither he nor the narration names a psionic vocation. In the counting-doors dream, a stag runs a corridor while doors close behind it; at the last closed door it turns with one antler broken, and Eli wakes before the charge. He reads no house, destiny, or lesson. The image remains equally available as trauma, fatigue, bodily alarm, coincidence, or contact. No dream gives him a usable itinerary or proves itself within the scene. Record the sensory residue; withhold the explanation.
 
 > **Pelangi pressure — LOCKED 2026-07-16:** Pelangi Reach is a compromised royal tech-hub project under climate stress, not a preserved island utopia. The king's desalination, AI, flood, cooling, biotech, and **aspirational** robotics (mostly undelivered — `23` § *Robotics lock*) compete with Meridian City while older water, farming, temple, kinship, and craft institutions keep the island relational. Those institutions are changing, losing land, and being packaged for development; the island is less what it was, but not simply worse.
 
@@ -123,7 +127,7 @@
 - **Movement 2b — Continue Inn (Saturday night):** contractor voucher bunk; Eli plays cable-management sim; poor sleep; ring photo + Pelangi raid in head.
 - **Wrong-room overhear — LOCKED rev. Y:** at causeway hall approach, **before document lanes** — Eli detours to Harbor Thread back room; **Wren watches, does not stop him**. Fragments: Malacca chandlery, Hassan, English woman on file. Wren **goodbye at document lanes** (Continue Inn voucher); Eli alone for clerk.
 - **Movement 3 — Cherry Cube + Circuit (Sunday):** **Sunday AM** show crew check-in via Cherry Lane maze; idol vouch; security hunt (**intake flag + Thread sighting**); wardrobe leak; **Sunday Circuit** race-night convoy escape. **Parade Liturgy drip — LOCKED 2026-07-25:** F8 chalk on causeway pillar; F1 scratched in Continue Inn elevator; **paired echo** in Cube service alcove (voice line + F1) — anti-chant to spectacle-chant; not named as liturgy (`54_liturgies.md`). **Body score seed — LOCKED 2026-07-26:** Cube spiral dancers + grandstand clap that finishes too clean; Malacca kids leave the last clap open (`54` § *Body score*).
-- **First table — LOCKED 2026-07-26:** Circuit/Cube = trilogy's **first casino table** (Casino Royale capital). Lean masks only: Wren, clerk–Thread, idol, Ma seed, **Sora soft-hunt glimpse (unnamed suit; collar/medal; clocks grounding)** — Custodian name Ch 3. No Crane/Sol/Somchai/Rowan/Emrys. **Chase grammar:** later capitals repeat *expensive room → masks flash → underside exit* (`WORLD_BIBLE.md` § Meridian).
+- **First table — LOCKED 2026-07-26:** Circuit/Cube = trilogy's **first casino table** (Casino Royale capital). Lean masks only: Wren, clerk–Thread, idol, Ma seed, **Sora soft-hunt glimpse (unnamed suit; collar/medal; clocks grounding)** — Custodian name Ch 3. No Lang/Sol/Somchai/Rowan/Emrys. **Chase grammar:** later capitals repeat *expensive room → masks flash → underside exit* (`WORLD_BIBLE.md` § Meridian).
 - **Commissioner Ma seed — light, not a reveal:** a convoy seal, shipping notice, or worker's complaint carries Ma's public designation. The same logistics office once kept medicine or desalination parts moving and now enforces a damaging restriction. Eli registers infrastructure, not a future ally; the detail earns Ma's Book III arrival without softening Meridian City's clinical pressure (`51_field_sail_and_mandate_peace.md`).
 - **Movement 3 — the Meridian Circuit escape:** a scheduled Formula One–scale
   street race seals the avenues. Wren is at the convoy edge because Babaji's
@@ -192,7 +196,7 @@
 - **Revelation:** at the edge of death **the psi plane opens to him for the first time** (first sight of the forms) — **sensory overload**; body crash. Catastrophe, not power: he is **hunted** from this moment (grid flare). **Forward action:** **Salmah**, a local fish seller and small-boat owner, uses current knowledge, a boat hook, and a mooring line to haul him out and performs rough resuscitation.
 - **Hassan / ring cost:** while Eli is driven toward the water, Hassan is recaptured with the ring still in the captors' control. Eli cannot reach him without abandoning the immediate fight and endangering the bystander. Hassan's loss survives as a human obligation into Volume II, not merely a missing object.
 - **Salmah cost:** helping Eli places her on the quarantine record; the Custodians suspend her market access and seize her boat as contaminated evidence. Eli survives by transferring danger into an ordinary worker's life.
-- **Past leak:** Edda — breath count like spreadsheet rows. Tommy — athletic footwork reset before violence. Eli — optional flinch at head touch (Somchai, unnamed).
+- **Past leak:** Anika — breath count like spreadsheet rows. Tommy — athletic footwork reset before violence. Eli — optional flinch at head touch (Somchai, unnamed).
 - **Romance cost (INSERT):** at the threshold — **field-recognition without consent** (magnitude, not meaning): a flash of *known stranger* in the choke/dark. Neither can act on it. Plants "is this fed?" for Ch 3 — **not** soulmate confirmation.
 - **M/I/A:** **M** — *known stranger* flash (no actor). **I** — —. **A** — —
 
@@ -221,7 +225,7 @@
   Weaver houses do not reveal a secret route command. Rowan remains off-page.
 - The Custodians are collared carriers and therefore Eli's dark mirror. They are
   not defined through opposition to a secret Wren career.
-- Romance cost: Eli fears that receiving help creates ownership; Wren fears that
+- Romance cost: Eli fears that receiving help creates a debt that will decide his future; Wren fears that
   correct placement can still produce harm. Their first shared-future fantasy
   fails because neither can return safely to the life imagined.
 
@@ -248,7 +252,7 @@
 - **Want:** stand at a charged site long enough for a thread to clarify without collapsing from exhaustion.
 - **Obstacle:** at a **witness site** (witness stone / shrine marker / charged ground — pin exact site in `99`), a thread clarifies — hands, a birth, a fever, South Asian specifics (partial **Ila** contact); local **talking-stone lore** may precede the mechanism (`36` §7a); pursuit pressure won't wait.
 - **Choice → Cost:** he receives her as **other** — real, dead, grievable — without claiming her. Cost: grief with nowhere to set the love down.
-- **Revelation (MIDPOINT):** **first full site witness** — apprenticeship and grief, not identity proof. Decision changes: he can learn from the dead without owning them. **Forward clue:** Ila's partial record names the kind of place to look — a community where a new line is forming through planted ground.
+- **Revelation (MIDPOINT):** **first full site witness** — apprenticeship and grief, not identity proof. Decision changes: he can learn from the dead without becoming them or treating one life as a complete lesson. **Forward clue:** Ila's partial record names the kind of place to look — a community where a new line is forming through planted ground.
 - **Romance cost (INSERT):** Wren sees Eli **grieve a woman in the record** (Ila) — misreads as identification/destiny hunger. She goes colder; he doesn't explain (can't yet). Intimacy **down** — prevents midpoint from feeling like romance high.
 - **M/I/A:** **M** — she misreads his grief; goes colder. **I** — —. **A** — **down**.
 
@@ -299,14 +303,14 @@
 
 ## ACT IV — Father and the Living Tree *(AUTHORITATIVE — LOCKED 2026-07-26)*
 
-> **COMPLETE MEAL — LOCKED 2026-07-31:** Ch 11–13 must satisfy `55` § *Five delivery upgrades* #5 — finished thriller (chase, wonder, father recovered, irreversible costs) that also opens Book II. Not setup-only. Secondary brand face = Sanxingdui tree; series brand face remains Rasel's ring.
+> **COMPLETE MEAL — LOCKED 2026-07-31; PITCH/VISUAL REVISED 2026-08-01:** Ch 11–13 must satisfy `55` § *Five delivery upgrades* #5 — finished thriller (chase, wonder, father recovered, irreversible costs) that also opens Book II. Not setup-only. Rasel's ring owns the public causal hook; the Sanxingdui tree owns the series visual system.
 
 ### Ch 11 — Human Doors *(Eli · Thailand → Laos closed → Vietnam detour → Yunnan → Sichuan)*
-- **Deep-time residue — LOCKED 2026-07-30:** (1) border forms / suspended crossings as bureaucratic fossils of claiming; (2) Edda's biometric "protected line" as managed access rhyme with Göbekli later; (3) living freight/human doors vs institutional shortcut. Wrong reading: protected line = mercy; detour = wasted subplot. Cost: Dara's permit; Sora gate risk.
-- **Delivery — LOCKED 2026-07-31:** antagonist job = Edda's clean-scan clock; chemistry = road logistics / irritation with Wren/Dara without thesis; wonder deferred to Ch 12 tree — keep hunger for Rasel and fear for papers audible.
+- **Deep-time residue — LOCKED 2026-07-30:** (1) border forms / suspended crossings as bureaucratic fossils of claiming; (2) Anika's biometric "protected line" as managed access rhyme with Göbekli later; (3) living freight/human doors vs institutional shortcut. Wrong reading: protected line = mercy; detour = wasted subplot. Cost: Dara's permit; Sora gate risk.
+- **Delivery — LOCKED 2026-07-31:** antagonist job = Anika's clean-scan clock; chemistry = road logistics / irritation with Wren/Dara without thesis; wonder deferred to Ch 12 tree — keep hunger for Rasel and fear for papers audible.
 - **Route — integrated 2026-07-29:** Laos freight crossing suspends under the same rising emergency that will empty Sanxingdui civilians; group detours Vietnam monsoon roads where old clearance maps lie and floodwater moves ordnance; Sora soft-helps at a highland post; Dara's permit dies; Sichuan arrives late. Dual clocks: Rasel move vs Wren/Dara civilian cost.
 - **Immediate want:** reach Rasel before the Mandate moves him; resist the four-day road home to Bangladesh.
-- **Opposing wants:** Edda wants clean voluntary intake; Dara wants to preserve
+- **Opposing wants:** Anika wants clean voluntary intake; Dara wants to preserve
   her family freight permit; Wren refuses to decide for Eli; Eli wants the fastest
   evidentiary route.
 - **Wren's route competence:** Malay-Chinese, with Mandarin among her home
@@ -314,9 +318,9 @@
   etiquette well enough to reach Luo without pretending to know Ancient Shu history.
   Her family taught cultural conduct, not specialist detail. She opens a respectful
   door; Chinese scholars and conservators retain interpretive authority.
-- **Clock:** north freight list closes; Edda's protected line is faster; Rasel's current clip may be the last.
+- **Clock:** north freight list closes; Anika's protected line is faster; Rasel's current clip may be the last.
 - **Choice → cost:** Eli refuses the biometric protected route after seeing genuine proof that Rasel lives. Sora covertly corrupts a border reading; Dara's cross-border license is suspended.
-- **Revelation:** Edda tells the truth and is therefore more dangerous; Rasel is sabotaging forced convergence at a Guanghan program.
+- **Revelation:** Anika tells the truth and is therefore more dangerous; Rasel is sabotaging forced convergence at a Guanghan program.
 - **Changed exit:** Professor Luo accepts them only after verifying Malai's permission and says Rasel bought time through her institution's stolen data.
 - **Romance cost:** Eli invokes “told first”; Wren discloses the Penang household cost without asking to be forgiven.
 
@@ -339,7 +343,7 @@
 - **Deep-time residue / ancient face close — LOCKED 2026-07-30:** living drainage/shelterbelt + greenhouse tomatoes as distributed Tree enacted; multiple mismatched cadences defeat one master rhythm; neglected tomato tied to lab cuff = Living over Knowledge apparatus. Wrong reading: Manual Override = Eli's private power; reunion = restoration. Cost: Wren's standing burned; Qiao's clearance; father-son collision incomplete.
 - **Delivery — LOCKED 2026-07-31:** climax must **satisfy** — father out, civilians out, Wren's cost paid and felt — then open Maren/west unpaid. Chemistry in greenhouse collision (food, tomato, unfinished love) before Book II road.
 - **Immediate want:** get Rasel out without sacrificing staff or local custodians.
-- **Opposing wants:** Edda wants controlled registration; Rasel wants to destroy
+- **Opposing wants:** Anika wants controlled registration; Rasel wants to destroy
   the concentration bridge; Luo and Qiao protect institutional and cultural
   sovereignty; Wren moves civilians first.
 - **Clock:** annex activates; staff become synchronized; ordinary emergency response will close the site.
@@ -407,12 +411,12 @@ The on-page sequence therefore moves from **how people survive together** (Çakm
 
 ---
 
-## Volume I climax — LOCKED (#6, #7, #9 — Göbekli)
+## RETIRED — former "Volume I climax" (Göbekli; superseded by `58_sanxingdui_climax_lock.md`, quarry only)
 
 - **Site:** **Göbekli Tepe** contested ground — dig / shrine / military margin (`99` #7 present-day staging).
 - **Race:** reach the **sealed interface** behind the fox-pillar before the permit window closes and the consortium re-buries the sector.
 - **Prize:** reactivation/reading access to the first buried instrument — Qingu-reserve seal + **selection mark** (spiral-in-the-eye); partial record of a powerful male carrier/mighty lineage whose authority became hierarchy. The founding record of the **Nephilot** (*what the elves are*) remains incomplete and is recovered through the Pömmelte trail in Book II.
-- **Who races:** Crane program, Custodians, private dig consortium; Sol faction possible fourth.
+- **Who races:** Lang program, Custodians, private dig consortium; Sol faction possible fourth.
 - **Error:** institutional model and Eli's over-connection trust map over live ground.
 - **The fight:** factions converge under physical and psionic pressure; civilians in the margin.
 - **The choice:** protect living people / companions **vs.** complete interface record and pursuit of captors.
@@ -456,7 +460,7 @@ The on-page sequence therefore moves from **how people survive together** (Çakm
 - **Eli:** hid puberty in keeper net; fears **Fractured** file-language (`26`); somatic read = gift **Union would sedate**. Arc: from "earn safety by usefulness" → recognition at Thailand → completed Manual Override at Göbekli.
 - **Wren:** house Weaver / Knotter inside Babaji's intake system. Volume I cost:
   authenticating care until her own standing burns at Sanxingdui.
-- **Custodians:** carriers who **took the collar** — Union quarantine internalized; Edda believes managed danger. Shield's conscience = someone who remembers the harbor way.
+- **Custodians:** carriers who **took the collar** — Union quarantine internalized; Anika believes managed danger. Shield's conscience = someone who remembers the harbor way.
 - **Nico:** ongoing **Fractured-adjacent** cost — episode without full rewiring? or keepers saved him but left gaps? One line in Ch 4 callback enough.
 - **Mei:** constructive control = **threshold house** without naming it; breaking one rule for Eli = keeper way vs registry.
 
@@ -480,7 +484,7 @@ Meridian City archive, clinical corridors, **cure framing** — not punitive Fra
 ## Still open (track in `99_open_questions.md`)
 
 - Exact South Asia geography and the rival team's identity in Ch 7–10 (a national unit, or a third faction).
-- Whether **Crane** appears in person in Vol I or only looms behind the Custodians (recommend: looms; the field face is the Custodians; save Crane for the Vol III confrontation).
+- Whether **Lang** appears in person in Vol I or only looms behind the Custodians (recommend: looms; the field face is the Custodians; save Lang for the Vol III confrontation).
 - Precise Act II geography (Meridian City archive; **Thailand** river-valley cooperative, keeper house, witness site, temple/Pai staging) and which leg carries the planted/false clue.
 - Names: the Custodians and members; the witness; the South Asia growers.
 - Length check: **13 chapters**, no prologue. Chapter 2 is intentionally long and propulsive; reassess whether its five movements remain one unbroken escalation after drafting it.
@@ -496,7 +500,7 @@ Meridian City archive, clinical corridors, **cure framing** — not punitive Fra
 |---|---|---|---|
 | 1 | OK + **TOUCH** | Hearth + catamaran; **Wren names body-before-story** after orphan truth | Grief/fear first redirect — not debt, not plan |
 | 2 | **LOCK + TOUCH** | Escort + **early feeling-help** (co-regulation, plain redirect, goodbye *I'm sorry*) | Terror + attraction; fear named before breach |
-| 3 | **SHARPEN + TOUCH** | Debt fear; fold-in proximity; ambiguous brush; flinch at head touch | Gratitude/need vs debt/ownership; want felt, not named |
+| 3 | **SHARPEN + TOUCH** | Debt fear; fold-in proximity; ambiguous brush; flinch at head touch | Gratitude/need vs compulsory debt; want felt, not named |
 | 4 | **SHARPEN + TOUCH** | Boarding squeeze + sanctuary under ordinary passage | Wanting company without earning it; first warmth not purely professional |
 | 5 | **INSERT** | Escape offer fails because neither can safely return | Wanting Wren is not the same as wanting rescue |
 | 6 | **INSERT** | Ila grief misread — intimacy down | Investigation fails as a disguise for grief; he cannot explain it yet, but begins to feel the difference |

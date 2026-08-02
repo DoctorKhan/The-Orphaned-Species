@@ -12,7 +12,7 @@ Eli receives what he has wanted since page one: lucid contact with Maren. The cl
 
 Maren is not restored to innocence:
 
-- she loved Eli and resisted Crane;
+- she loved Eli and resisted Lang;
 - she helped build signature tools later used to classify and cage people;
 - she protected Eli at another person's expense;
 - she delayed acting because action threatened her access to him;
@@ -36,8 +36,8 @@ The machine goes dark because its captives walk out, not because Eli becomes its
 
 At the same moment, the reactivated transmission stations begin forwarding the
 bounded wisdom carried by the artifact chain: relation rather than center,
-verification rather than obedience, an edge that corrects the map, a living
-bridge rather than ownership, and return of the person rather than completion
+verification rather than obedience, an edge that corrects the map, contact that
+does not complete understanding, and return of the person rather than completion
 of the route. Eli supplies none of that wisdom; the artifacts do. His release
 of Maren is a living demonstration of what those transmitted teachings demand;
 the stations
@@ -55,9 +55,9 @@ This is the first awakening. It is a local and distributed breach in the old mon
 
 The release nearly fails. Hostile teams scour prepared grounds, people break coherence, and Maren is close to being consumed permanently.
 
-The fastest tactical solution is to seize the amplifier and force synchronization through every available signature. It would probably work. Crane offers the throne in the language of responsibility; Sol's armed-prophet logic reaches the same conclusion from the opposite side.
+The fastest tactical solution is to seize the amplifier and force synchronization through every available signature. It would probably work. Lang offers the throne in the language of responsibility; Sol's armed-prophet logic reaches the same conclusion from the opposite side.
 
-Eli refuses ownership of a machine that runs on captive persons. He releases Maren and transmits a pattern others may catch rather than an order they must obey.
+Eli refuses the machine's promise that one son can complete history by keeping his mother useful. He releases Maren and transmits a pattern others may catch rather than an order they must obey.
 
 The hard no costs more and saves fewer. Book II must not secretly reveal that coercion would have failed.
 
@@ -74,6 +74,19 @@ The hard no costs more and saves fewer. Book II must not secretly reveal that co
 | **Attack** | Custodians and faction teams lock, block, and scour; some coerced carriers defect when the machine loses leverage | Pressure makes amplifier seizure the genuinely better tactical option |
 
 The strands resolve together: Maren's release defuels the machine while the voluntary field gives release somewhere to go.
+
+---
+
+## Staging — the assault is concurrent, not a background clause (LOCKED 2026-08-01)
+
+The Attack strand must be staged as a real, visible psionic-war set piece running *through* the reunion and the choice, not sequenced before or after it (`38_psionic_combat.md` register). Concretely:
+
+- Eli chooses release while hostile teams are actively closing on the console — not in a secured interior moment that later cuts to an offstage attack. The clock is in the room.
+- At least one named ally is lost or gravely hurt defending a transmission station **on-page, in the same stretch as the choice** — this is the "named person" the Cost section below already requires; it must be seen, not reported afterward.
+- The release's effect must be visible at scale as it happens: multiple contested charged grounds losing hostile lock and going dark in sequence, not a single console event described in retrospect. Combatants on both sides feel the field empty in real time.
+- Maren is genuinely close to being consumed permanently during this — the danger to her must be live and physical, concurrent with Eli's choice, not resolved by the choice arriving in time as a narrative convenience.
+
+This keeps the climax's moral cut (releasing the reunion) and its public cost (a real death, a visible multi-ground event) on the same page, instead of letting the psionic war remain a stated pressure the reader is told about rather than shown.
 
 ---
 
@@ -102,11 +115,11 @@ The strands resolve together: Maren's release defuels the machine while the volu
 - newly awakened people flee states, factions, families, and medical systems unequipped to receive them;
 - some people wake without training or reliable control;
 - communities disagree over admission, testing, documentation, treatment, and containment;
-- Crane's amplifier monopoly weakens while his argument for standardized public safety becomes stronger;
+- Lang's amplifier monopoly weakens while his argument for standardized public safety becomes stronger;
 - Wren's threshold network becomes essential infrastructure that must not become Eli's property;
 - Eli's role in the release creates a following and makes temporary coordination feel like natural kingship.
 
-The Book II climax answers the family question: Eli can love and release. Book III must answer the civic question the awakening creates: whether dangerous freedom can become accountable life without permanent ownership.
+The Book II climax answers the family question: Eli can love and release without requiring innocence, restoration, or continued availability. Book III must answer the civic question the awakening creates: whether dangerous freedom can become accountable life, and whether a necessary leader can become ordinary again.
 
 ---
 

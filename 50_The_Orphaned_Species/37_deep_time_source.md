@@ -50,21 +50,21 @@ For concrete scene forms, use `18_adventure_engine_and_scene_bank.md`. This sect
 |---|---|---|
 | **Thailand, Vol I Ch 5–10** | Martial + temple training teaches Eli to read line, range, angle, entry, and pressure through the body. Chi-body integration adds fast reflex when the frame is one unit. **First on-page** — Malacca breach precedes this. | Practical skill under pursuit; pays off Vol II+ |
 | **Pai, recovery period** | A girl dressed like a jester twirls a dragon staff with practiced rhythm, balance, and misdirection. Eli encounters the dragon first as playful human art, not as doctrine or proof. | She gives Pai an independent life and later makes the dragon side of the Double-Fork Stone feel remembered rather than newly assigned. She is not a clue dispenser or magical disguise. |
-| **Bali, childhood and possible return** | People working the subak landscape already distinguish ordinary irrigation effects from an inexplicable change in rice growth. Eli's mother records it but cannot explain it. On return, local growers—not Eli—recognize that a new geometry is forming. | A visually legible field investigation becomes a race to document the change before Crane's people close the site. The community has its own knowledge and stakes. |
+| **Bali, childhood and possible return** | People working the subak landscape already distinguish ordinary irrigation effects from an inexplicable change in rice growth. Eli's mother records it but cannot explain it. On return, local growers—not Eli—recognize that a new geometry is forming. | A visually legible field investigation becomes a race to document the change before Lang's people close the site. The community has its own knowledge and stakes. |
 | **Pelangi Reach, outbreak refuge** | Residents compare observations, plot them, and separate rumor from repeatable pattern. The sailing community teaches Eli basic seamanship on local sailboats. **No martial teacher on Pelangi (LOCKED 2026-07-24).** | The refuge supplies method, durable relationships, and ordinary competence. Sailing makes him useful but not masterful during the later maritime escape. |
 | **Malacca** | The near-death breach makes Eli feel an unseen discontinuity before he can interpret it. Growth on either side of the same apparent route behaves differently. | The inciting maritime crisis and pursuit force him to act on incomplete perception. The first clue saves a life or an escape, but also reveals his signature to the Charkha. |
-| **Meridian City** | A fragment of his mother's research and ordinary geospatial records show paired anomalies on opposite sides of missing stretches. Emrys can measure opposition but cannot explain its origin. | Retrieval under surveillance turns the abstract clue into a heist/chase. The data establishes polarity while leaving its use unknown. |
+| **Meridian City** | A fragment of his mother's research and ordinary geospatial records show paired anomalies on opposite sides of missing stretches; the polarity can be measured, but nobody can yet explain its origin. | Retrieval under surveillance turns the abstract clue into a heist/chase. The data establishes polarity while leaving its use unknown. |
 | **The maritime corridor** | A broken route across the strait has two ends. Eli and Wren learn that maps based on the old network are dangerous because new lines can form and old ones can fail. **Dead zones** — goats won't cross a barren wedge; fishermen detour; growth maps show a **blank** where a route used to run. | Human danger—piracy, checkpoints, and the wider war—forces a live navigation test. The ley discovery complicates the escape; it does not replace material threats. |
 | **South Asia** | Present agricultural knowledge and Ila's independent record connect abnormal growth with the formation of a new line. Growers distinguish **forming line** (curved band, different growth) from **dead ground** (nothing takes). | The group must protect people and crops affected by the discovery rather than treating a community as a clue dispenser. A failed interpretation has bodily consequences. |
-| **Göbekli / Anatolia** | Aru and Daskar's records separate the natural conductor from its built interface: stones redirect; burial decommissions the site. | Crane controls the obvious site, forcing the group to reconstruct geometry from partial records and terrain while being hunted. |
-| **Continental Europe** | Broken lines explain why some ancient grounds are silent and why others answer from unexpected directions. **The broken-line church** (see below): a nave built on one end of a break, sacristy/back room on the other — parishioners depleted, clergy charged. | The route becomes a moving puzzle. Each endpoint changes the next destination, and Crane's superior old maps become less reliable than the protagonists' living observations. |
+| **Göbekli / Anatolia** | Aru and Daskar's records separate the natural conductor from its built interface: stones redirect; burial decommissions the site. | Lang controls the obvious site, forcing the group to reconstruct geometry from partial records and terrain while being hunted. |
+| **Continental Europe** | Broken lines explain why some ancient grounds are silent and why others answer from unexpected directions. **The broken-line church** (see below): a nave built on one end of a break, sacristy/back room on the other — parishioners depleted, clergy charged. | The route becomes a moving puzzle. Each endpoint changes the next destination, and Lang's superior old maps become less reliable than the protagonists' living observations. |
 | **Stonehenge and Albion** | Cuno's imperfect record supplies the missing arrangement of bodies, sound, and stone. At the center, the network becomes communication rather than merely sensation. | The discovery pays off as action: reach the center, hold the geometry under attack, distinguish a real transmission from manipulation, and release Eli's mother without taking control of the network. |
 
-**Adventure rules:** show evidence before terminology; require at least one wrong hypothesis; let Wren, Emrys, the healer, farmers, sailors, and local custodians each solve something Eli cannot; and make every lore discovery alter the route, the pursuit, or a relationship. If a revelation changes none of those, it belongs in the bible rather than the novel.
+**Adventure rules:** show evidence before terminology; require at least one wrong hypothesis; let Wren, the healer, farmers, sailors, and local custodians each solve something Eli cannot; and make every lore discovery alter the route, the pursuit, or a relationship. If a revelation changes none of those, it belongs in the bible rather than the novel.
 
 **Clue-chain rule:** Eli leaves Pelangi Reach knowing only that one person or object connected to his mother may be in Malacca. Every later movement must be earned by a fragment he can test: a name in a damaged record, a ship or cargo mark, a coordinate that no longer matches the coast, a growth report, a rhythm, one half of a polarized reading, a historical image, or a place encoded incompletely in Cuno and Derw's transmission. The clue should point to the next investigation, never summarize the remaining journey.
 
-The chain cannot belong wholly to his mother. Some clues come from her research; others arise from the Seven, living communities, the changing ley network, Wren's contacts, Emrys's measurements, or enemy operations. Otherwise the adventure becomes a parental scavenger hunt. At least one clue is stale because a line broke, one is sincerely misread, and one is planted by a psion faction. An apparent dead end should force a human choice or new relationship rather than being solved by a stronger vision.
+The chain cannot belong wholly to his mother. Some clues come from her research; others arise from the Seven, living communities, the changing ley network, Wren's contacts, or enemy operations. Otherwise the adventure becomes a parental scavenger hunt. At least one clue is stale because a line broke, one is sincerely misread, and one is planted by a psion faction. An apparent dead end should force a human choice or new relationship rather than being solved by a stronger vision.
 
 **Rootbook integration — LOCKED 2026-07-21:** Maren's encoded comparative journal organizes questions across this chain but does not contain it. Linguistic reconstruction can open only bounded pages. Each consequential reading still requires an independent object, living witness, local correction, or repeatable field observation. Sanxingdui marks the limit of the linguistic tree and the opening into the older living mesh. See `52_the_rootbook_word_web.md`.
 
@@ -90,7 +90,7 @@ Energy moves **along the broken route through the building** — parishioners ar
 **Craft locks:**
 
 - **Polarity ≠ morality** (`15`, `20` Carrier 5): negative is not "evil pews"; positive is not "good priests." The **misplacement** is the crime — one end parked on the laity, one on the clergy. Some priests may not know; the building does the work.
-- **No lecture.** Eli feels it before he names it. Wren or Emrys may supply one tested sentence later. Never "node" on-page — **end of the break**, **pew-side end**, **back-room end**.
+- **No lecture.** Eli feels it before he names it. Wren or a local custodian may supply one tested sentence later. Never "node" on-page — **end of the break**, **pew-side end**, **back-room end**.
 - **Not all churches.** Most are ordinary stone on ordinary ground. This one **earns** its scene because the break + footprint align — reader should infer cargo-cult inheritance (decommissioned interface → parish built on the wound).
 - **Payoff:** Eli recognizes the same **father-above / children-below drain** as registry logic and patriarchy chord — submission taxed as devotion. He refuses to **fix** it for them (no new priesthood); may warn one parishioner or leave a marker for keeper chain. Optional: one priest feels the drain and doesn't know why.
 
@@ -129,7 +129,7 @@ Energy moves **along the broken route through the building** — parishioners ar
 - **Effects before thesis.** "The goats won't" → blank on the growth map → mother's note on *deliberate grid damage* → only then *scour*.
 - **Not every bad field.** Blight, salt, war debris, climate — Eli must **misread once** (wrong hypothesis costs time).
 - **Dead zone ≠ moral stain on locals.** A village beside a scour is not "evil"; someone **upstream** cut the line.
-- **Plot fuel:** dead zones explain why old maps fail, why Crane's archives mark **forbidden wedges**, why Wren detours, why the rice **forming line** is worth killing for — it's new life on a wounded net.
+- **Plot fuel:** dead zones explain why old maps fail, why Lang's archives mark **forbidden wedges**, why Wren detours, why the rice **forming line** is worth killing for — it's new life on a wounded net.
 
 **When:** Book I seeds the distinction through Thailand growers and Sanxingdui's
 distributed model; Book II tests selection/control at Göbekli and follows the
@@ -160,13 +160,13 @@ The westward trail does not end with an etymological “elf” click. In Ireland
 
 **Sovereignty and calendar:** Áine, Clíodhna, Brigid, and related female figures preserve regional memories of land granting or withdrawing legitimacy. Do not flatten them into one queen or literal Nephilot family. Samhain, Imbolc, Bealtaine, and Lughnasadh are seasonal observation and gathering windows when ecology, human attention, and particular grounds align; they are not universal game-calendar events. The story payoff is not “fairies are real.” It is that premodern communities kept incomplete protocols for coexistence with powerful neighbors, including the land and the dead.
 
-**The “Alba = elves” beat (when it lands):** not Tolkien exposition. One earned line — e.g. Emrys, a scholar, or a place-name fossil: **Alba** (the people) → **Albion** (where they ran) → later tongues compress the hidden carriers into **ælf / elf** (bright/other folk). The reader should feel the etymology **click**, not receive a lecture.
+**The “Alba = elves” beat (when it lands):** not Tolkien exposition. One earned line — e.g. a scholar, or a place-name fossil: **Alba** (the people) → **Albion** (where they ran) → later tongues compress the hidden carriers into **ælf / elf** (bright/other folk). The reader should feel the etymology **click**, not receive a lecture.
 
 **Discovery ladder (present-day — cumulative, not one scene):**
 
 | Step | Where / when | What Eli learns | Adventure hook |
 |---|---|---|---|
-| **1. Göbekli anchor** | **Book II** (`32`) | Selection scar and westward question, not the elf answer. Aru/Daskar at the fox-pillar; the spiral-in-the-eye is a selection mark. The incomplete read associates inherited difference, lineage, labor, and reproductive control without proving a down-breeding system. | Contested dig; faction race; Emrys's captive-transfer evidence; complete record remains partial |
+| **1. Göbekli anchor** | **Book II** (`32`) | Selection scar and westward question, not the elf answer. Aru/Daskar at the fox-pillar; the spiral-in-the-eye is a selection mark. The incomplete read associates inherited difference, lineage, labor, and reproductive control without proving a down-breeding system. | Contested dig; faction race; Hassan's captive-transfer evidence; complete record remains partial |
 | **2. The trail west** | Vol II corridor / archives | aDNA maps + ley anomalies: minority component and **gift clusters** move toward Europe; carriers **not** one village — scattered, matrilineal pockets. Screening logic: invisible bodies, **magic at the stone** betrays them (`00` Phase IX). | Stale map; wrong hypothesis; planted lead |
 | **3. Massacre ground** | **Vol II — Europe** | A **ring sanctuary** (locked primary: **Pömmelte**, ~2321–2211 BCE — “German Stonehenge”; shaft burials of **dismembered women, juveniles, children** vs dignified **male** graves). Secondary rhyme: **Gomolava** (~800 BCE — 77 killed, **~87% female**, victims **unrelated**, gathered from many settlements). | Eli at excavated/charged site or museum+aDNA drop; somatic cold in the shafts |
 | **4. Women targeted** | Same scene + aftershock | Purge is **not** generic war: **women and children** annihilated while men buried with honor; unrelated victims = **sweep for carriers** (gift-screening), not one clan wiped. Rhymes **Anthea**, **witch-hunts**, chr3 weapon’s gendered politics, patriarchy chord. | Eli grieves **others**; refuses to own their dead |
@@ -193,18 +193,18 @@ The conventional/cyber world war has a covert psionic theater. Countries and all
 |---|---|
 | **Pelangi Reach** | Accountable privacy practices prevent outbreak records from becoming a recruitment list. Residents unknowingly shelter people wanted by more than one national program. |
 | **Malacca** | Two teams contest a carrier or route during the reopening crisis. Eli's breach makes him detectable to both, turning a local emergency into the first battle he cannot understand. |
-| **Meridian City** | A state unit, Crane's acquisition team, and the protagonists converge on the same research archive. The psionic attack scrambles recognition and trust while physical surveillance closes the exits. |
+| **Meridian City** | A state unit, Lang's acquisition team, and the protagonists converge on the same research archive. The psionic attack scrambles recognition and trust while physical surveillance closes the exits. |
 | **Strait / maritime corridor** | Deniable psions travel with or manipulate a boarding group, linking the piracy threat to the larger war without making every pirate an occult agent. Wren must distinguish a human tactic from an intrusion in her own perception. |
 | **Bali / agricultural formation** | A newly forming line draws foreign survey teams and local security pressure. Competing psions attack one another around a community that wants neither faction there. Protecting residents matters more than securing the clue. |
 | **South Asia** | The healer is targeted for conscription while another psion cell seeks protection. Eli cannot save both the route and every person; the healer's right to refuse becomes operationally costly. |
 | **Göbekli / Anatolia** | In Book II, teams fight for buried routing geometry
-while old maps mislead and living observations expose the route. Emrys is already
+while old maps mislead and living observations expose the route. Hassan is already
 captive; evidence at the site reveals part of his transfer. |
 | **Europe** | Cross-border pursuit becomes a chain of ambushes, uneasy alliances, decoys, and attacks through dreams. National allies in the conventional war may be enemies in the psionic theater. |
 | **England boundary** | A monitored threshold on the approach to Albion detects the group's crossing and triggers an immediate prepared psion-team attack. The boundary is an instrumented/signature condition, not a magic wall; the scene proves Albion is contested rather than safely hidden. |
 | **Albion** | Several psion groups converge, each intending to control, destroy, nationalize, privatize, or free the ground. The final battle requires holding the communicative center without letting any team turn collective coherence into domination. |
 
-**Character consequence:** Eli initially experiences every psionic contact as another threat to identity. Wren knows operational survival but not metaphysics. Emrys understands instruments but has never survived a team attack. The healer knows what the attacks do to bodies. Their cooperation becomes a defensible form of group coherence—strong enough to resist hostile teams without reproducing their command structure.
+**Character consequence:** Eli initially experiences every psionic contact as another threat to identity. Wren knows operational survival but not metaphysics. Rasel understands instruments but has never survived a team attack. The healer knows what the attacks do to bodies. Their cooperation becomes a defensible form of group coherence—strong enough to resist hostile teams without reproducing their command structure.
 
 ## The cave / archive mechanic
 
@@ -287,7 +287,7 @@ The thread, beat by beat: the **oral truth lives wordlessly in the village Song*
 
 | Present beat | Rhymes with |
 |---|---|
-| Union **registries**, Crane clinic lists, chr3 **ancestry-gated** weapon | Who is legible, who may reproduce, who is marked |
+| Union **registries**, Lang clinic lists, chr3 **ancestry-gated** weapon | Who is legible, who may reproduce, who is marked |
 | **Tem record** (Vol II — witness site still open in `99`) | Grain pit, dream-network, pedigree is not destiny |
 | **Broken-line church** (Vol II late / Vol III Act I Europe — `37` § *The broken-line church*) | Pew-side end drains laity; back-room end feeds clergy — father-above geometry made architectural |
 | **Adapa / Qingu fragments** (Vol II Act II) | Bloodline as **propaganda** — Eli refuses the state's file *and* chosen-one ancestry |
@@ -337,6 +337,52 @@ Plus the frame children: **the Boy** himself (~14) in the cave-life stratum, **E
 
 This child-chain is also the book's quiet answer to social atomization: the control system wins by separating children from elders and cutting memory from household life; knowledge survives because fragments find new people before institutions fully intercept them.
 
+### Work-song, movement, and the child-chain — LOCKED 2026-08-01
+
+Song is first encountered here as something people **do work with**, not as a
+performance laid over labor. Breath marks effort; call-and-answer gives a group
+room to coordinate without staring at one another; repeated language carries
+sequence, weather, plant knowledge, jokes, and names. Movement teaches beside
+it. A younger child can carry, sort, bind, imitate, or enter only on the answer
+before taking up a dangerous or strength-heavy part of the task. Correction is
+often an offered demonstration, a repeated phrase, or a slowed movement—not a
+speech.
+
+This rests on a strong anthropological floor: across many forager societies,
+children learn subsistence skills through observation, play, mixed-age peer
+groups, scaled tools, and progressively real participation. It does **not**
+establish that labor was the single origin of music or dance. The books may
+dramatize a plausible continuity—task rhythm becoming song, and a useful step
+continuing after the tools are set down—but no narrator or character may name
+the first song or first dance as a recovered fact.
+
+The motif carries four different loads:
+
+- **Aru / early Göbekli:** wild-grain cutting coordinates blades and breath;
+  children enter through safe portions of real work; the bend-step-lift survives
+  into play after the baskets leave.
+- **Aedan's Singing Village:** the inherited work-song holds technique and
+  ecological memory alongside sacred throat-sounds. Verses can be forgotten,
+  joked through, or changed. It is alive because no one performs it exactly
+  alone.
+- **Hawaiʻi reconstruction / Book III:** demoralized, multilingual repair crews
+  do not revive one ancestral form. A sorting chant gives children safe,
+  consequential work; its rhythm moves into the lifting crew; the children keep
+  the movement after the tools are locked away. Society begins making culture
+  before it has finished making shelter.
+- **The inversion:** the chariot line, procession, collar, and Mandate apparatus
+  demand that bodies conform to one meter. A healthy rhythm adjusts for fatigue,
+  age, injury, and the late learner; coerced cadence calls those variations
+  error.
+
+Research floor: [Lew-Levy et al., *How Do Hunter-Gatherer Children Learn
+Subsistence Skills?*](https://doi.org/10.1007/s12110-017-9302-2) (observation,
+play, participation, peer transmission, and gradual mastery); [Keller et al.,
+*Searching for Roots of Entrainment and Joint Action in Early Musical
+Interactions*](https://pmc.ncbi.nlm.nih.gov/articles/PMC3288575/) (imitation,
+turn-taking, and adaptive timing). The specific evolutionary route from labor
+rhythm to song or dance remains conjectural.
+
 ---
 
 ## Part I — The Last Village
@@ -347,7 +393,7 @@ Present-tense. Tight, sensory, five short chapters. The world ends fast.
 The grandfather's warning. The haunted cave. The opening manifesto: *we cannot build what we refuse to imagine.*
 
 **2. The Singing Fields**
-The village at work — religion as song, farming as ritual for deities long-past. This is religion *before* it hardens into a father: no one above anyone, the gods named but not feared, worship as participation in a cycle rather than submission to a throne. A curved band in the grain has begun growing differently from the rest of the field. The villagers debate water, blight, trampling, and omen; no one treats it as a diagram or knows they are watching a new ley line make itself visible. Establish the sun-wheel painted on the granary, the names of the absent gods (Ki, Enki, the names that survived in the village without their meanings). The boy learning a song his grandfather refused to teach him — and note *which* song: it carries throat-sounds the boy can shape but the trader-tongues cannot, sounds that live nowhere else, the last phonemes that still *do* something (quietly seed why, in Ch 17, the stone warms when he sings — these are the lost sounds the consciousness technologies run on; see timeline Phase IX, "the lost sounds were the song"). *Plant the contrast the whole book will pay off: this is what the orphan looks like before it invents a parent, and plant the growth anomaly before anyone has language for its cause.*
+The village at work — religion as song, farming as ritual for deities long-past. This is religion *before* it hardens into a father: no one above anyone, the gods named but not feared, worship as participation in a cycle rather than submission to a throne. The song is also instruction. The youngest enter at the answer and take the safe parts—carrying, laying, binding—while older hands demonstrate the blade-work. A missed movement changes the next phrase; the work is not stopped for a lesson. After the tools are put down, children repeat the bend-step-lift until adults join and work becomes dance without anyone announcing a boundary. A curved band in the grain has begun growing differently from the rest of the field. The villagers debate water, blight, trampling, and omen; no one treats it as a diagram or knows they are watching a new ley line make itself visible. Establish the sun-wheel painted on the granary, the names of the absent gods (Ki, Enki, the names that survived in the village without their meanings). The boy learning a song his grandfather refused to teach him — and note *which* song: it carries throat-sounds the boy can shape but the trader-tongues cannot, sounds that live nowhere else, the last phonemes that still *do* something (quietly seed why, in Ch 17, the stone warms when he sings — these are the lost sounds the consciousness technologies run on; see timeline Phase IX, "the lost sounds were the song"). *Plant the contrast the whole book will pay off: this is what the orphan looks like before it invents a parent, and plant the growth anomaly before anyone has language for its cause.*
 
 **3. The Wheel on the Horizon**
 Dust. A sound that isn't thunder. The Sintashta arrive at the edge of the wheat, following the altered band because its geometry is visible from the rise. The boy sees their banner first — the same shape as the granary symbol, *rotated*, *armed*. The Singer recognizes what the village does not — not only the banner but the *speech*: the strangers carry a word the village has never needed, a name for god that means *the bright sky above you*, spoken the way you speak of a master. Two tongues meet at the edge of the wheat, and only one of them has a word for *kneel*. The first crop formation therefore creates adventure consequence before cosmological explanation: it has made the village legible to the wrong people.
@@ -393,7 +439,7 @@ Seven historical chapters, seven distinct people, one practice per chapter. In t
 Running through all seven is the orphan-and-father thread (see the section above): in each era a **father-figure of submission is offered** — the priest who won't explain, the lord who claims your children, the cult that demands the knee — and each of the Seven, instead of kneeling, **develops a capacity instead.** The father-offer escalates across the chapters (a silent priesthood at Göbekli → an explicit patriarchal cult by Anthea's era → the wheel-and-hammer sky-father of the frame raid), tracking the historical hardening of religion into submission. The answer is never rebellion-as-drama; it is quieter and more total — the orphan simply outgrows the need for the parent.
 
 **10. The Carver of the Foxes** *(Göbekli Tepe, ~9600 BCE — Aru, 22 — Practice: breath, stillness)*
-**Aru** is one of the youngest carvers, twenty-two, still proving himself. He works fox and vulture and aurochs into stone for reasons no one will say. The builders repeatedly shift a pillar by hand-widths because the enclosure is not merely circular: each stone must turn an unseen route toward the common center. The hill is also a provisioning machine. During the wild-grain harvest, visiting bands grind coarse meal in a continuous stone-on-stone chorus; water carriers move between workers while hunters bring gazelle and cooks turn the grain into communal food. The food is never named as wages. Its allocation nevertheless creates obligation: hunters eat on returning, haulers when the pillar moves, carvers when the day's line is accepted. Hospitality, ritual reciprocity, and labor control are still the same act viewed from different positions.
+**Aru** is one of the youngest carvers, twenty-two, still proving himself. He works fox and vulture and aurochs into stone for reasons no one will say. The builders repeatedly shift a pillar by hand-widths because the enclosure is not merely circular: each stone must turn an unseen route toward the common center. The hill is also a provisioning machine. During the wild-grain harvest, visiting bands grind coarse meal in a continuous stone-on-stone chorus; cutters use call-and-answer to separate the fall and lift of their blades; water carriers move between workers while hunters bring gazelle and cooks turn the grain into communal food. Children enter through baskets, sorting, imitation, and the sung answer before they are trusted with the cutting edge. The food is never named as wages. Its allocation nevertheless creates obligation: hunters eat on returning, haulers when the pillar moves, carvers when the day's line is accepted. Hospitality, ritual reciprocity, labor control, and teaching are still the same gathering viewed from different positions.
 
 **Selé**, the old woman who carries water to the work-site, moves naturally through this food-and-labor system. She teaches Aru to sit with his breath while he carves, "so the stone knows who is touching it." Months in, mid-chisel, he falls into a silence beneath thought that watches the chisel work without him. He recognizes that the watcher does not need the carver. He cannot tell anyone — but **Sib**, the eight-year-old who sweeps the stone-dust, catches him sitting too still and asks what he's looking at. Aru carves the answer into the fox instead: a small spiral inside its eye. Sib is the only one who ever notices it. The boy feels the cave noticing too. Aru supplies placement without theory: stone redirects something that already exists.
 
@@ -472,7 +518,7 @@ A child in a city today dreams of a cave. They wake humming a tune their mother 
 Real scientific papers and quotes are collected in **`90_epigraphs_and_sources.md`** — a living file we add to over time. The book is myth, but it rests on the actual record. **Three layers** (see `90` § *Citation layer*):
 
 1. **Epigraph** before chapter — one verified quote.
-2. **Prose** — no inline citations except in character voice (registry text, Emrys, broadsheets).
+2. **Prose** — no inline citations except in character voice (registry text, archive material, broadsheets).
 3. ***On the record*** after chapter — 0–3 plain bullets for readers who want the anchor; omit when none applies.
 
 The effect we want is the floor of fact under the dream — the science quietly confirming what the myth just dramatized, without breaking voice inside the scene.

@@ -81,33 +81,37 @@ Characters never need the phase names. You do, off-page, to pick the right bite.
 
 ## Book II — The Descent (flesh priority)
 
-Route: post-Sanxingdui → Mesopotamia archive → Göbekli → Bosporus/Balkans → Pömmelte → Rollright / Men-an-Tol → Anglesey → Stonehenge → Avebury.
+Route: post-Sanxingdui → **Egypt brief hinge or packet** → Mesopotamia → Göbekli → Bosporus/holding → **Pömmelte (+ church rhyme)** → **Rollright/Men-an-Tol one corridor** → **Anglesey threshold** → **Stonehenge→Avebury climax run**.
+
+**Location contraction — LOCKED 2026-08-01:** ~6–7 body-arrivals; contract travel, not jobs. Church ⊂ Pömmelte; Rollright+Men-an-Tol = one corridor; Anglesey = threshold not tour; Stonehenge→Avebury = one climax run. Every stop: chase next-door **and** relationship cost.
 
 | Ch / Site | Activates (carrier) | Bible bite to pull | Partial truth | Deep-lore hold | Next door |
 |---|---|---|---|---|---|
-| 1 · Sichuan exit / greenhouse | Credential red; tomato stake | Release ≠ restoration | Father present; Wren barred | — | West archive |
-| 2 · Mesopotamian archive / tell | **Refusal** (Adapa); triad residue; Map | Knowledge→obedience; 4.2 ka vs Adapa day | Centralizing fiction; Göbekli window | Full god politics | Göbekli |
+| 1 · Sichuan exit / greenhouse | Credential red; tomato stake | Release ≠ restoration | Father present; Wren barred | — | West (via Egypt hinge or direct) |
+| **1 hinge · Egypt / Nile House** *(not a full chapter)* | BAC-survivor god-king costume; optional uraeus/benben half-read | Survived collapse by hardening divine kingship | Endurance ≠ adulthood; contested Mesopotamia→pharaoh claim | Full Egyptology tour; volume open | Mesopotamia archive |
+| 2 · Mesopotamian archive / tell | **Refusal** (Adapa); triad residue; Map; Egypt packet OK if hinge skipped | Knowledge→obedience; 4.2 ka vs Adapa day | Centralizing fiction; Göbekli window | Full god politics | Göbekli |
 | 3 · Göbekli / Taş Tepeler | **Bridge** plaquette; buried instrument | Contact → selection / managed access | Counter-image to Sanxingdui branches | Panspermia zoom | West corridor |
 | 4–5 · Bosporus / holding | Hassan; Charkha naming | Costume hunt; Maren alive + tethered | Running their map | Departure-drone network named late | Pömmelte |
-| 6 · Pömmelte / broken-line church | Dead-zone; purge geometry | Nephilot / carrier hunt; ni→persecution | Women/children targeted; control rhymes | Full Nephilot taxonomy | Rollright |
-| 7 · Rollright / Men-an-Tol | Situated stone; song/polarity | Station network (not one capital) | Passage ≠ collection | Full station manual | Anglesey |
-| 8 · Anglesey / Lovernios | **Bitter cup**; peat bog | Threshold under consent; seed catalog | Body changed; daylight incomplete | Serpent-as-Makers face | Stonehenge |
-| 9 · Stonehenge | Cuno geometry; transmission station | Circles wisdom routed; witnesses distinct | One station among several | Merge-minds fantasy | Avebury |
-| 10 · Avebury / Albion | Maren release; inhabited ground | Love ≠ ownership | Mother freed; web begins to wake | Engine/exhaust civic synthesis | Book III |
+| 6 · **Pömmelte + church rhyme** *(one arrival)* | Dead-zone; purge geometry; pew-side drain | Nephilot / carrier hunt; ni→persecution; domestic control | Women/children targeted; control rhymes | Full Nephilot taxonomy; separate church trip | Rollright corridor |
+| 7 · **Rollright / Men-an-Tol** *(one corridor)* | Situated stones; song/polarity; Callum | Station network (not one capital); Sídhe layered | Passage ≠ collection; completed route ≠ returned person | Full station manual; two separate trips | Anglesey threshold |
+| 8 · **Anglesey** *(threshold, not tour)* | **Bitter cup**; peat bog; **one-way** Maren contact | Threshold under consent; seed catalog | Body changed; daylight incomplete; hunger without embodied reunion | Island tourism; mutual reunion (save for Avebury); Serpent-as-Makers face | Stonehenge→Avebury run |
+| 9–10 · **Stonehenge → Avebury** *(one climax run)* | Cuno geometry; Maren release under assault | Circles wisdom routed; love ≠ ownership | One station among several; mother freed; web wakes | Two sightseeing days; merge-minds fantasy | Book III |
 
-**Flesh order:** fill blank carriers first (exact object on-page), then wrong-first argument, then desire cost. Do not add new sites until these activate cleanly.
+**Egypt placement — LOCKED 2026-08-01:** hinge or packet only; never Book II/III volume open; never full landmark chapter. Book III = Mandate-face only (`33`).
+
+**Flesh order:** fill blank carriers first (exact object on-page), then wrong-first argument, then desire cost. Do not add new full sites until these activate cleanly.
 
 ---
 
 ## Book III — The Living World
 
-Route: Pelangi → SF → ruined D.C. → compact → Hawaiʻi → corridor → hearing → successful handover.
+Route: Albion exit → Atlantic → Brazilian lower-river network → Hawaiʻi → corridor → hearing → successful handover. **Egypt = Mandate-face only** (no pilgrimage; seed was Book II hinge/packet).
 
 | Ch / Site | Activates | Bible bite | Partial truth | Hold | Next |
 |---|---|---|---|---|---|
-| 1–2 · Pelangi harbor | Refugee boat; intake fight | Peace-as-infrastructure (Malacca rhyme) | Welcome can become registry | — | Fracture |
-| 3–4 · SF / Yerba Buena | King memorial; Crane standard | Beloved community vs Continuity | Polyphonic compact proposed | Full Continuity lore dump | War |
-| 5 · Ruined Washington | Lincoln; Devolution roster | Gods-who-kept-lifeboats rhyme | Survival hierarchy visible | Phase VII lecture | Compact |
+| 1–2 · Brazilian lower-river harbor | Refugee boat; intake fight | Peace-as-infrastructure (Malacca rhyme) | Welcome can become registry | Generic mystical Amazon | Fracture |
+| 3–4 · Brazilian repair dock / port-clinic council | Nia's death; Lang Standard; Eagle–Condor dispute | Cooperation without merger vs transnational ownership | Polyphonic compact proposed | Prophecy as narrator-certified truth | War |
+| 5 · Brazilian public hearing / remote Union records | Names; Devolution roster | Gods-who-kept-lifeboats rhyme | Survival hierarchy visible; South remains plural | South-as-moral-chorus | Compact |
 | 6–7 · Hawaiʻi refuge | Aloha + kuleana; crown-with-end | Stewardship ≠ base | Strongman-by-proximity | — | Corridor |
 | 8–9 · War corridor | Forced sync; cloisters rise | Labor/extraction (Atrahasis civic) | Extras as constituency | Destinies tablet full | Hearing |
 | mid/late | **Forks** + dragon ghost (when earned) | Parallel bridge species | Humanity one branch | Complete panspermia manual | — |
@@ -122,8 +126,8 @@ Route: Pelangi → SF → ruined D.C. → compact → Hawaiʻi → corridor → 
 | Site / beat | Activates | Bible bite | Partial truth | Hold |
 |---|---|---|---|---|
 | Working settlement (7 months in) | Missing delegate; key-not-person | Successful Life polity under test | Something can still break it | — |
-| Attack / continuity clause | Second bounded crown | Temporary authority ≠ throne | Ask-back is institutional, not destiny | Permanent messiah |
-| Court / household | Pregnancy, access, attestation | Relation without ownership at civic scale | Women-led power already earned | Sex-caste restoration |
+| Lean Year / continuity clause | Second bounded crown | Temporary authority ≠ throne | Ask-back answers interregional allocation failure, not destiny | Permanent messiah |
+| Court / household | Pregnancy, access, attestation | No emergency role or family bond hardens into inherited status | Women-led power already earned | Sex-caste restoration |
 | Birth / final transfer | Child inherits no title | Cycle-break in miniature | Relinquishment is the point | Books V–VI metaphysics |
 
 ---
@@ -133,10 +137,10 @@ Route: Pelangi → SF → ruined D.C. → compact → Hawaiʻi → corridor → 
 Use when a chapter feels empty of discovery. Assign a site before drafting:
 
 - [ ] Timna serpent / Nehushtan (furnace + smashed snake) — Book II archive or European rhyme
-- [ ] Enheduanna voice (who owns sacred speech) — Book II story/image, not collectible
-- [ ] Inana’s Descent method (Somchai) — Book II practice before doctrine
+- [ ] Enheduanna voice (who owns sacred speech) — Book II archive story/image, not collectible
+- [ ] Inana’s Descent — dual face: Somchai healing practice **and** Wren/Rowan romance rhyme (Book II; `35`, `19`)
 - [ ] Sorting / Unplaceable full payoff — Book II→III refugee ethic
-- [ ] Tablet of Destinies fragments — Book III Crane vs Sol
+- [ ] Tablet of Destinies fragments — Book III Lang vs Sol
 - [ ] Atrahasis labor/reset as civic evidence — Book III war
 - [ ] Departure-drone / Last Dreamers layer — Book II late / III
 - [ ] Unified two-tree image — Book III end / IV coda (partial OK)

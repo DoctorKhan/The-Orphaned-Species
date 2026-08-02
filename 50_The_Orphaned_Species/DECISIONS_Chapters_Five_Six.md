@@ -1,5 +1,7 @@
 # Chapters Five–Six — decision record
 
+> **SUPERSEDED — 2026-08-01.** **Professor Emrys does not exist** (`99_open_questions.md` §9, LOCKED 2026-07-27). Item 6 below (stilt-house → Emrys → bait/band) is retired-role quarry pending rework. Preserved for scene salvage only.
+
 > **File:** `DECISIONS_Chapters_Five_Six.md` (renamed from `DRAFT_Chapter_Five_Six.md` 2026-07-24). **Thailand governing draft — LOCKED 2026-07-23.** Prose in `manuscripts/I_The_Breach.md`; chunk sandbox: `archive/manuscripts/working_thailand_ch5-10.md`.
 
 ## Ch 5 — The Field That Counts

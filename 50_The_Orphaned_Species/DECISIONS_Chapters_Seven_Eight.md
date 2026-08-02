@@ -1,5 +1,7 @@
 # Chapters Seven–Eight — decision record
 
+> **SUPERSEDED — 2026-08-01.** **Professor Emrys does not exist** (`99_open_questions.md` §9, LOCKED 2026-07-27). Item 2 below (Emrys on the clinic steps) is retired-role quarry; the bandwidth-vs-depth beat needs reattribution before it can seed Somchai's gift. Preserved for scene salvage only.
+
 > **File:** `DECISIONS_Chapters_Seven_Eight.md` (renamed from `DRAFT_Chapter_Seven_Eight.md` 2026-07-24). **Thailand governing draft — LOCKED 2026-07-23.** In `manuscripts/I_The_Breach.md`.
 
 ## Ch 7 — The Forming Line

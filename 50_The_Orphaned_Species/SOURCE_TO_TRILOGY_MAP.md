@@ -1,5 +1,7 @@
 # The Orphaned Species — Silmarillion-style Source-to-Chapter Mapping
 
+> **SUPERSEDED — 2026-08-01.** `58_sanxingdui_climax_lock.md` (LOCKED 2026-07-26) governs the actual Volume I/II climax staging over the chapter maps below: Book I's climax is **Sanxingdui**, not Göbekli; **nobody is captured** there (Wren is displaced, Qiao's clearance is lost); Göbekli is now a **Book II** counter-image site. **Professor Emrys does not exist** (`99_open_questions.md` §9) — every "Emrys taken," "Emrys's error," and Emrys-as-guide beat below is retired-role quarry, preserved for scene salvage only, not current canon. Current canon: `00_NARRATIVE_STRUCTURE.md`, `05_story_architecture.md`, `31_volume_I_beatsheet.md`, `32_volume_II_beatsheet.md`.
+
 *Maps the deep-time source material in `37_deep_time_source.md` and related documents to chapters in the present-day trilogy. Built from `05_story_architecture.md`, `31_volume_I_beatsheet.md`, `36_the_living_web.md`, `35_artifact_chain.md`, `37_deep_time_source.md`, `46_divine_council_roster.md`, `45_divine_names.md`, `40_concepts.md`, `00_MASTER_TIMELINE.md`, and `manuscripts/I_The_Breach.md`. This is a planning/synthesis document. When a chapter is already drafted, the draft location is noted.*
 
 ---
@@ -66,8 +68,8 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 - **Source material:** Suppression method / Charkha machinery. Not a deep-time clarification.
 - **When:** Vol II **Ch 3** — Eli learns **how his mother was taken**, paired with mother-trail midpoint (`32`, `29`, `99`).
-- **Function:** same as former prologue intent — keeps Crane from straw-man by showing enforcement in action, but **earned** after reader loves Eli and has chased the mother-trail.
-- **Deliverable:** rewrite from `archive/manuscripts/v1_archive.md` prologue (~1,000–1,500 words); **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths); SE Asia extraction/keeper setting; no Crane name.
+- **Function:** same as former prologue intent — keeps Lang from straw-man by showing enforcement in action, but **earned** after reader loves Eli and has chased the mother-trail.
+- **Deliverable:** rewrite from `archive/manuscripts/v1_archive.md` prologue (~1,000–1,500 words); **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths); SE Asia extraction/keeper setting; no Lang name.
 - **Not in Vol I.**
 
 ### Ch 1 — The Hour That Belongs to No One
@@ -245,11 +247,11 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - A boat of newly awakened refugees reaches Pelangi Reach; Eli's successful temporary coordination saves them and creates pressure for permanent leadership.
 - The shared garden returns: Rasel's plants survive through grafts and unfamiliar refugee crops, provoking Eli's fear of replacement.
 - Eli sponsors one disputed refugee under voluntary safeguards.
-- That person commits a serious nonconsensual mind-entry; an ordinary person dies as a direct consequence. The victim is not restored, secretly culpable, or revealed as Crane's agent. Their survivor retains the right not to forgive Eli.
+- That person commits a serious nonconsensual mind-entry; an ordinary person dies as a direct consequence. The victim is not restored, secretly culpable, or revealed as Lang's agent. Their survivor retains the right not to forgive Eli.
 
 ### Book III, Ch 4–6 — The systems offered
 
-- Crane offers detection, mandatory training, interoperable records, central emergency command, and enforceable containment. It would prevent some deaths; its permanent identity ownership remains the cage.
+- Lang offers detection, mandatory training, interoperable records, central emergency command, and enforceable containment. It would prevent some deaths; its permanent identity ownership remains the cage.
 - Eli assumes shared love and purpose entitle him to Wren's threshold network. Wren refuses identities, routes, and command access, materially weakening his plan.
 - The communities build a bounded emergency compact: named purpose, visible decisions, distributed revocation, no requisition of Wren's network, conduct records without identity registry, automatic expiry, appeal, and mandatory review.
 
@@ -258,7 +260,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - Eli accepts temporary coordinating authority during attack and uses his transmission only through consenting nodes.
 - He could forcibly synchronize all carriers and probably save more people. He refuses to extend the mandate.
 - The coalition survives incompletely; a named man from the exposed holding crew is killed, other men are permanently injured, and a beloved threshold house is lost. The novel does not prove coercion would have failed or treat their constrained volunteering as disposability.
-- The emergency ends and Eli's authority expires. Crane is contained through shared process rather than Eli's personal mercy.
+- The emergency ends and Eli's authority expires. Lang is contained through shared process rather than Eli's personal mercy.
 
 ### Book III, Ch 9–10 — Judgment and ordinary life
 
@@ -296,7 +298,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Tem — The Hidden Son** | Full-res thread | `37` Part III ch 13 | 17:1 bottleneck grain-pit | Dream-walking, telepathy; the grain-pit as first instruction; dream-network rescues unrelated hidden children |
 | **Anthea — Singer of Frequencies** | Full-res thread | `37` Part III ch 14 | Albion resonant-stone | Sonic resonance; song as substance; different notes answer at two ends of a broken route; daughter Lira carries the chord |
 | **Cuno — Bluestone Mover** | Full-res thread | `37` Part III ch 15 | Stonehenge/Albion transmission station | Last forwarding under seizure; Derw gets geometry/artifact signs/routing checksum/witness marks/spoken fragment/object; riders crest the rise |
-| **Lovernios — Druid of Anglesey** | Full-res thread | `37` Part III ch 16 | Anglesey peat-bog / seed-catalog sink | Plant medicine, non-human mind; **Book II Ch 6** — paired with **bitter cup** threshold ceremony (`99` #bitter-cup); follows new growth where old line failed; gives seed-catalog to Nia; unsure it survives |
+| **Lovernios — Druid of Anglesey** | Full-res thread | `37` Part III ch 16 | Anglesey peat-bog / seed-catalog sink | Plant medicine, non-human mind; **Book II Ch 8** — paired with **bitter cup** threshold ceremony (`99` #bitter-cup); follows new growth where old line failed; gives seed-catalog to Nia; unsure it survives |
 | **Seven Pairs / Activation** | Watched-depth | `37` Part II ch 6 | Buried/coordinated ground (clarified directly) | 0.9 mya Seven Pairs; 17:1 clamp; genetic wall; the Key pulse — science-floor anchor |
 | **Living Gods / War in Heaven** | Watched-depth | `37` Part II chs 7–8 | Dragon-cadence summary ground (clarified directly) | Supervision era; Igigi sabotage; Younger Dryas rupture; planetary network fracture; Tiamat/Marduk |
 | **Adapa** | Watched-depth | `37` Part II ch 9 / `30_beatsheet_ch09_adapa.md` | Persian Gulf / Eridu-flats ground | Centerpiece deep-structure clarification; boy watching himself in pre-cage; loyalty to the lock; the weeper who accepts his own lock gratefully; Qingu-blood encoded as self-justifying story |
@@ -316,7 +318,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Sumerian King List** | I–II | later in Vol I or early Vol II | Kingship as transferable administration, not sacred blood; the control system's public face |
 | **The Refusal** / Adapa tablet with lacuna | I | Ch 12 watched-depth clarification | The lock made visible from inside; obedience as cage chosen reasonably |
 | **Enkidu/Shamhat domestication witness** | II | Vol II Mesopotamian leg | Wildness/food/sex/speech/civilization as argument over whether city-life is rescue, corruption, education, or capture |
-| **Arslan Tash Amulet 1** | II–III | Vol II–III border dispute | Covenant invoking ʿOlam, Asherah, El's sons, great council; authenticity/translation disputes give Wren interpretive agency outside Eli and Emrys |
+| **Arslan Tash Amulet 1** | II–III | Vol II–III border dispute | Covenant invoking ʿOlam, Asherah, El's sons, great council; authenticity/translation disputes give Wren or a local custodian interpretive agency outside Eli |
 | **Atrahasis / Eridu Flood material** | II | Vol II Mesopotamia | Creation, labor revolt, and catastrophe as layered stories; beyond one clean origin account |
 | **Tablet of Destinies** | II–III | Vol II–III ownership race | Factions mistake authority records for master key; may be charter / routing charter / ritual copy / propaganda |
 | **Ugaritic council records** | III scene bank | Placement open under the current Book III spine | Repeated offices across traditions; local gods and stories retain differences; landscape-name fossils |
@@ -332,7 +334,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Four-corner opposition** (constructive freedom / destructive control / destructive freedom / constructive control) | I | I → II → III as social layer deepens |
 | **Eli's orphan/body arc** | I | I Manual Override → II relational Manual Override → III public coexistence |
 | **Wren's Unranked extraction network** | I | I → II conflict with Weaver distance doctrine → III proof-network |
-| **Emrys' map-not-territory error** | I | I → II taken/mistake → III test of distributed knowledge |
+| ~~Emrys' map-not-territory error~~ *(retired — Emrys does not exist)* | — | superseded; see `53_quotable_refrains.md` NEEDS AUTHOR DECISION flags for the map-not-territory beat's replacement |
 | **The healer's kneel/cage/burn** | I (mentioned) | II → III coexistence proof |
 | **Custodians as dark mirror** | I | I → II tracking → III Shield defect |
 | **Anunnaki drone-caste / elder spirit-plane council / new model / dragons** | III only | III reframe, not lecture |
@@ -353,7 +355,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 5. **Let characters disagree about interpretation.** Preserve evidence that does not fit Eli's preferred reading.
 6. **No historical culture used only to confirm cosmology.** Every era/people has its own life before it rhymes with the book's thesis.
 7. **No clarification provides an exact solution** to the present problem; it supplies apprenticeship or fragment.
-8. **The final victory is not victory over Crane** — it is coexistence surviving the crisis that created the coalition.
+8. **The final victory is not victory over Lang** — it is coexistence surviving the crisis that created the coalition.
 9. **The ending is an unremarkable afternoon** — no throne, no cosmic voice, no explanatory speech, no promise of the next war.
 
 ---
@@ -369,4 +371,4 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Volume II locked spine:** opens post-Sanxingdui; Mesopotamia / Göbekli;
   Bosporus–Thrace/Balkan transfer and Maren truth; European dead zones / Pömmelte /
   Stonehenge transmission station / Avebury; Maren release at Ch 10.
-- **Volume III locked spine:** refugee landing, real failure of freedom, Crane's workable standard, Wren's boundary, bounded emergency authority, costly non-coercion, public inquiry, and shared-garden coda.
+- **Volume III locked spine:** refugee landing, real failure of freedom, Lang's workable standard, Wren's boundary, bounded emergency authority, costly non-coercion, public inquiry, and shared-garden coda.

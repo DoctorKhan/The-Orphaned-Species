@@ -2,6 +2,8 @@
 
 *Working file for named conceptual machinery that needs to stay consistent across Book 5. These are not chapter prose; they are control-system notes for drafting, revision, and cross-era rhyme.*
 
+> **THEMATIC HIERARCHY — LOCKED 2026-08-01:** The governing subject is **species adulthood after abandonment**, not ownership. Ownership is one form of the cage response beside worship, extermination, assigned usefulness, false independence, lineage destiny, amnesia, and replacement-parent seeking. Use the exact mechanism in each scene. The broad human movement is from **a purpose assigned by makers** to **the difficult practice of learning how to live**.
+
 ---
 
 ## Social atomization
@@ -28,7 +30,7 @@ In Three-Circles terms, atomization is the collapse of the **Family** / middle c
 4. **Separate the generations.**
    Children are separated from elders; elders are removed from daily life; apprenticeship gives way to schooling; lineage memory thins. A person without elders becomes easier to script because there is no living counter-memory in the room.
 
-   **2040s instantiation — LOCKED 2026-07-29:** the present-day form of this step is AI-mediated instruction — most people learn from an AI tutor, with a human coach checking in periodically, and a certificate at the end. It is not framed as evil; it is the engine's real output, efficient and scalable the same way medicine or logistics are (Ch. 12's authenticity/reality-testing answer, `30_The_Human_Experiment/BOOK_QUESTIONS.md`, applies here too — a credential earned this way is only as trustworthy as the verification behind it). What survives outside it is **mentorship and trades** — and trades are not a marginal exception, they are a major sector, not a boutique alternative. A world still rebuilding infrastructure after the Hinge needs facilities hands, splice and cable work, port and harbor trades, water systems, construction, and maritime crews at real scale; Eli's own "worker track" and Foundry facilities placement (`95_glossary.md`, `26_present_day_cast_expanded.md`) is this sector, not an exception to it. Apprenticeship placed through the Weavers' Net, keeper/foster transmission, and wat-style teacher-student lines run alongside it. This is the counter-current the trilogy actually dramatizes on the page — Emrys, Wren, Somchai, the keeper foster parents — but it is dramatizing a large, load-bearing part of the economy, not a quaint holdout against an AI-track majority.
+   **2040s instantiation — LOCKED 2026-07-29:** the present-day form of this step is AI-mediated instruction — most people learn from an AI tutor, with a human coach checking in periodically, and a certificate at the end. It is not framed as evil; it is the engine's real output, efficient and scalable the same way medicine or logistics are (Ch. 12's authenticity/reality-testing answer, `30_The_Human_Experiment/BOOK_QUESTIONS.md`, applies here too — a credential earned this way is only as trustworthy as the verification behind it). What survives outside it is **mentorship and trades** — and trades are not a marginal exception, they are a major sector, not a boutique alternative. A world still rebuilding infrastructure after the Hinge needs facilities hands, splice and cable work, port and harbor trades, water systems, construction, and maritime crews at real scale; Eli's own "worker track" and Foundry facilities placement (`95_glossary.md`, `26_present_day_cast_expanded.md`) is this sector, not an exception to it. Apprenticeship placed through the Weavers' Net, keeper/foster transmission, and wat-style teacher-student lines run alongside it. This is the counter-current the trilogy actually dramatizes on the page — Wren, Somchai, the keeper foster parents — but it is dramatizing a large, load-bearing part of the economy, not a quaint holdout against an AI-track majority.
 
 5. **Move the worker.**
    Work, debt, rent, schooling, military service, migration, and career pull people away from kin and place. The family does not simply decline by attitude; it is physically and economically scattered.
@@ -178,7 +180,7 @@ new terms—the bond becomes romantic again.
 
 ### The consent line (the standing drama)
 
-- A match is **proposed and blessed, never compelled.** The fallen-house version compels — coercion-as-courtesy (`47`) in a wedding dress. A Weaver house that marries people as instruments has become Crane with better food.
+- A match is **proposed and blessed, never compelled.** The fallen-house version compels — coercion-as-courtesy (`47`) in a wedding dress. A Weaver house that marries people as instruments has become Lang with better food.
 - Incentive-rule tie (`15`): a marriage is a **deliberately created shared ledger**. The Weavers openly shape *incentive structures* while refusing to manipulate *persons* — and the line between those two is the order's permanent internal argument.
 - Reader-facing mystery: of any couple met along the route, the reader can fairly ask — *did this happen, or was it woven?* The book should let some answers stay unsorted.
 
@@ -260,7 +262,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 **The flow — post-collapse coordination (LOCKED 2026-07-26; rev. D):** Emerges across **multiple further collapses** — not Vol I reopening, not one event. **Book II:** corridor break (phrase born) + stacked west-corridor breaks. **Book III:** war + evac + holding + teahouse — phrase wide. `54` § *The flow*; `53` §13.
 
-**The corridor break — LOCKED 2026-07-26:** Book II Ch 4–5 **regional collapse** — west European transfer corridor loses fixed coordination (dead zones, registry trap burned, psion-war pressure, inconsistent checkpoints). Displaced populations; emergent rhythms replace pinned meetups. Historical Pömmelte rhyme + present break. Phrase *in the flow* born here.
+**The corridor break — LOCKED 2026-07-26; remapped 2026-08-01:** Book II **Ch 6** **regional collapse** — west European transfer corridor loses fixed coordination (dead zones, registry trap burned, psion-war pressure, inconsistent checkpoints). Displaced populations; emergent rhythms replace pinned meetups. Historical Pömmelte rhyme + present break. Phrase *in the flow* born here (with primary hearth circle).
 
 **Craft rule:** characters say *Fever Years* or *after the Hinge* — not "engineered outbreak" in dialogue unless a clinician is filing.
 
@@ -283,7 +285,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 | Parent | Passport / citizenship | Claimed by | Custody register |
 |---|---|---|---|
 | **Rasel Khan** | Bangladeshi / South Asian file | **Eastern Mandate** | **Rasel Khan** on files — indispensable personnel, black-lab transfer |
-| **Maren Holt** | Albion file (legacy *British* / UK on old registries) | **Charkha Measure** (Crane apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
+| **Maren Holt** | Albion file (legacy *British* / UK on old registries) | **Charkha Measure** (Lang apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
 
 **Why they were separated:** not only attack violence — **claim routing**. Extraction-night intercept: Mandate files **Rasel**; the Charkha files **Maren**; no joint holding across orgs. Inter-bloc rules forbid merging chains; even if both survive the handoff, they **leave on different vehicles** toward different jurisdictions. Eli remembers one night; the file system remembers **two nationals, two claims**.
 
@@ -357,58 +359,42 @@ Post-Hinge **inverted order** — three male fates (two spoken, one not):
 
 **Third road (Book III):** the first cloisters are co-founded by Extra men, veterans, Harbor Thread elders, and Eli. They confer **kept** standing through attention, repair, watch, care, restraint, and accountable service—neither house servitude nor Thread placement nor a certificate of romantic acceptability. The Weavers do not grant admission or legitimacy.
 
-### Cloister animal houses — LOCKED 2026-07-31
+### Cloister animal houses — MATURATION AND MENTORSHIP ONLY — REVISED AND LOCKED 2026-08-01
 
-As cloisters grow past a single room, men sort into **animal houses**: informal temperament / stress-pattern houses named for animals. The sorting is by **how a man actually moves under ordinary fear and under true need** — not blood, not aptitude tests, not romantic fitness, not AI assignment, and not irrevocable heredity.
+The animal houses are **mentorship lineages for becoming an adult. That is their whole function.** They are not personality tests, political caucuses, work assignments, security specialties, mate categories, or civic offices. A younger or developmentally unfinished person enters through relationship with older members whose own maturation followed that house's path. They teach, witness rites of passage, and eventually entrust the mature member with younger people. A Stag later trains younger Stags; a Fox becomes answerable for teaching witness; an Ox must teach both carrying and unyoking. House affiliation can endure because mentorship endures. It grants responsibility inside the teaching lineage, never rank over people outside it.
 
-**How membership works**
+**Crow retired — LOCKED 2026-08-01:** the fifth house was briefly **Crow**; it is now **Fox**. Bird names stay free for the Book III–IV swifts/hose coda, Eagle–Condor contested teaching, and Book V bird-named **flights**. Do not reintroduce Crow (or Owl/Hawk/Eagle) as a cloister house.
 
-- Observed conduct + self-recognition + house acceptance.
-- Revisable: a man can move houses after witnessed change; exit does not erase cloister standing.
-- Orthogonal to Book IV **political** factions (constitutional / praetorian / mutual-aid / Sol-influenced, etc. — `60`). A Stag can be constitutional; an Ox can be praetorian. Do not collapse temperament into ideology.
-- Distinct from teahouse **chosen-kin clans** (`50_teahouse_pilgrimage.md`): those emerge from long travel and shared life; cloister animal houses name **stress behavior** inside a keeping-order.
-- Never mate-certification. Never a spending order’s MOS codes in animal drag.
+Book V's bird-named **flights** do not extend this taxonomy. A flight is a temporary mobile peer cohort named for a route, season, or task; an animal house is an enduring intergenerational teaching relationship. A Stag may travel with a Swift flight without becoming a Swift kind of person.
 
-**Starter roster — LOCKED 2026-07-31 (five houses)**
+The animals are teaching images, not diagnoses. Each holds an imbalance and its adult integration:
 
-Short form:
-
-| House | Ordinary pattern | When needed | Civic / plot use |
+| House | Unfinished problem | Developmental practice | Adult capacity |
 |---|---|---|---|
-| **Stag** — LOCKED (folk: *Deer*) | Spooked easily; high startle; avoid loud conflict; freeze or flee first | **Rut / defense surge** — becomes extremely strong, fast, and hard to turn when herd, ground, or a named person is actually threatened | Early warning; quiet perimeter; sudden holding action that shocks people who mistook him for useless |
-| **Crow** — LOCKED | Edge-watcher; scavenges discarded information; talks too much or too little; perched apart | Names what others file away; will not let a dead man stay unnamed; carries news between rooms | Testimony; Extra ledger literacy; Thread-adjacent witness |
-| **Bear** — LOCKED | Slow, heavy presence; sleeps hard; protects the den more than the argument | Overwhelming force when the house or a brother is threatened; then returns to quiet; recovery as legitimate strength | Den defense; post-attack refuse-discard; disability/recovery without shame (hibernation rhyme) |
-| **Salmon** — LOCKED | Goes with the current; slips nets; hard to pin; may look passive or evasive | **The run** — climbs against the water when the school must get home; moves people through danger without a fight; school cohesion without a boss | Corridor escape; intake/evacuation; men who refuse Sol’s chest-beating and still keep others alive |
-| **Ox** — LOCKED | Slow to commit; carries load without display | Once yoked to a job, finishes it; hard to stampede into glory or into Sol’s speech | Repair, haul, long watches, roof-before-name founding rhyme |
+| **Stag** *(ordinary speech may say Deer)* | Shame about fear; fleeing everything or standing only when cornered; confusing violence with courage | Notice danger early, preserve an exit, distinguish a contest of pride from a necessary defense, choose the moment to turn, and stop when protection no longer requires force | Courage with judgment: able to leave without shame and stand without becoming addicted to sacrifice |
+| **Fox** | Watching from the edge without belonging; collecting grievance, secrets, or other people's failures; cleverness used to stay outside | Speak what was seen with provenance, accept correction, carry memory without using knowledge for superiority, and bring neglected people back into the account | Truthfulness joined to participation and responsibility |
+| **Bear** | Withdrawal, rage, boundary confusion, or protection that becomes control | Make and respect a den, distinguish rest from disappearance, defend without possessing, receive care after force, and return from isolation | Boundaries, proportionate protection, recovery, and nonpossessive care |
+| **Salmon** | Drifting with pressure or resisting merely to prove independence | Learn when to move with others, when to turn against the current, how to return without regression, and how to help companions move without commanding them | Belonging without conformity; persistence without reflexive opposition |
+| **Ox** | Usefulness as the price of love; refusal of duty or endless self-expenditure | Choose a load, carry it competently, ask for help, recognize completion, put the yoke down, and remain worthy while resting | Reliable service without servitude or identity-through-labor |
 
-**Guidance card — LOCKED 2026-07-31** *(full personality / how to keep them; record of the craft table used in session)*
+**How teaching works**
 
-| House | Personality core | Under ordinary stress | Under true need | How to guide / work with them |
-|---|---|---|---|---|
-| **Stag** (*Deer*) | High-sensitivity guardian | Startles, flees, freezes, looks “cowardly” | Rut surge — disproportionate strength for herd / ground / named person | Don’t corner. Give exits and quiet. When danger is *real*, step aside and let them hold. Never praise them into constant surge. |
-| **Crow** | Edge-witness / truth-scavenger | Peripheral, odd timing, too much or too little talk | Names what was discarded; carries news; won’t let the dead stay numbers | Don’t force center stage. Put them where information leaks. Trust their “ugly” observations. Protect them from being punished as snitches. |
-| **Bear** | Den-keeper / contained force | Slow, heavy, sleeps hard, ignores small fights | Overwhelming when den / brother threatened; then must recover | Don’t poke a resting Bear. When they rise, clear space. After, **let them hibernate** — recovery is strength, not laziness. |
-| **Salmon** | Adaptive survivor / school mind | Looks passive, evasive, “won’t take a stand” | **The run** — moves people through danger without a fight; slips nets; keeps the school alive; climbs against the water when home must be reached | Don’t demand chest-beating. Use for evacuation, negotiation, routes. Respect that survival without glory is still keeping. |
-| **Ox** | Load-bearer / low-ego duty | Slow to commit; won’t perform for status | Finishes the job; carries what others drop | Give a clear yoke (task + exit). Don’t stampede with speeches. Honor completion, not volume. |
+- Entry is voluntary and relational. A prospective learner, family or peers, and house mentors may recognize a recurring developmental problem, but mentors offer a path rather than issue a diagnosis. The learner chooses whether to enter.
+- Most people keep one primary house lineage because maturation is carried through durable relationships. They may learn from every house, leave without losing civic standing, or in rare cases change houses after honest review. No algorithm, dream, parent, lover, or official can impose affiliation.
+- Teaching uses stories, imitation, ordinary work, play, bodily practice, reflection, peer witness, and a real choice under pressure. It does not use humiliation, ordeal for its own sake, combat selection, or compelled disclosure.
+- Rites of passage mark real developmental thresholds, but no single ordeal manufactures adulthood. Each house carries several rites: being received, taking responsibility without supervision, facing the house's characteristic temptation, accepting correction, and finally becoming responsible for a younger learner. The rite recognizes change already practiced; it does not magically create it.
+- Maturation is demonstrated by freer conduct, not obedience to a house style. The mature Stag can move beyond flight and charge into judgment. The senior Ox is not the person who carries the most, but the one who can teach a younger person when to put the load down.
+- The complete curriculum tends toward integration. Adulthood requires capacities held across all five images; no house describes a whole person.
+- Seniority means increased obligation for teaching, safeguarding rites, admitting mistakes, and preventing abuse. It conveys no automatic authority in the cloister's civic, economic, defensive, romantic, or political life.
+- Animal-house history never settles testimony, guilt, employment, defense placement, romance, parenthood, voting, office, or legal standing.
 
-**Design rule for the set:** each house answers *How do you keep this man — and how does he keep others — under fear vs under true need?* Avoid apex-predator houses (Wolf / Lion / Eagle) as defaults — Sol will try to invent those.
+**Rite grammar — locked at function, local in form:** houses and regions may use different songs, tasks, journeys, games, watches, craft objects, meals, or animal stories. The invariant sequence is **received → practiced → tested in ordinary life → witnessed → entrusted with another person**. There is always food afterward and a route back after failure. No blooding, forced danger, permanent mark, secret crime, sexual initiation, or staged near-death experience is permitted as a maturation rite.
 
-**Retired as separate houses:** Badger → folded into **Bear** (dig-in / won’t abandon ground). Otter → warmth/mutual-aid texture may appear inside **Salmon** school care or **Bear** den life — not a sixth locked name unless a chapter needs it. Generic *Fish* retired as a house name (too broad vs Crow/Stag species-level names); local nicknames (carp, trout) may appear under Salmon only.
+**Eli and the Stag — LOCKED 2026-08-01:** Eli dreams of a stag long before he knows the houses. He first reads the running animal as an accusation about all the situations he fled. Much later, an older Stag recognizes the unfinished question without claiming supernatural proof and offers mentorship. Eli chooses Stag as his house lineage. The dream prepared recognition; it did not assign him. He passes its rites only by learning to retreat while retreat preserves life, stand with total commitment when leaving would abandon others, stop when protection no longer requires force, and refuse anyone—including a senior Stag—the right to demand his death as proof of adulthood. His later obligation is to teach a younger Stag the same distinctions without turning his own famous stand into a rule.
 
-**Stag craft note — LOCKED:** primary house name is **Stag** (the surge / rut face); **Deer** remains ordinary folk talk for the same men in peacetime — skittish, flinch at drones, leave rooms early, refuse chest-beating. The payoff is **seasonal / situational strength**: when the compact’s people or the cloister’s room is truly at risk, the same man becomes disproportionate force. Readers and other characters who equated Extra with cowardice must be corrected by conduct, not by a speech about animal metaphors. Rutting-season language stays folk shorthand among the men — never a breeding program, never fertility caste.
+**Failure modes:** adults can still turn mentorship into possession. Sol may reduce Stag rites to warrior initiation; officials may misuse house history as psychological classification; elders may protect status by delaying recognition, demanding imitation, or treating younger members as personal followings; learners may rank houses or turn affiliation into permanent prestige. These are corruptions of the form, never alternate civic functions. Correction restores both questions: *what does this person still need to practice to become freer and more responsible?* and *is the mentor preparing them to become an adult who can disagree and eventually teach, or manufacturing a dependent?*
 
-**Crow craft note:** Crow is a **species-level** house like Stag/Bear/Ox/Salmon — not a stand-in for all birds. Local nicknames (heron, goose) only; do not invent Hawk/Eagle warrior birds that collapse into Sol’s myth.
-
-**Salmon craft note:** ordinary face = ride the water / slip the net; needed face = **the run** (upstream for the school). Do not write Salmon as cowardice or as secret warriors — they keep people alive by route, not by spectacle.
-
-**Failure modes**
-
-- Sol flattens all houses into one **Warrior / Wolf** myth and recruits the surge without the keeping.
-- Crane/Union try to registry-code the animals as risk types (Stag/Deer = unstable; Salmon = unreliable; Bear = noncompliant).
-- Scarcity-era court factions (Book IV) treat Stag surge, Bear force, or Ox stamina as scarce-male property to claim.
-- Teahouse AI or health metrics try to **assign** clan — forbidden (`50`).
-
-**Prose:** *"He's house."* / *"Don't say Thread in here."* / *"Extras at the perimeter again."* / *"She won't mourn an Extra son."* / *"Stag house — don't corner him unless you mean it."* / *"He looks Deer till the room's on fire."* / *"Ox took the roof; Crow took the names."* / *"Bear's sleeping — leave the den alone."* / *"Salmon got them out without a shot."* / *"It's the run — get behind him."*
+**Prose:** *"He's with Stag."* / *"Who is teaching him?"* / *"She witnessed the turning rite."* / *"He passed Ox and still doesn't know how to put the load down."* / *"Fox isn't permission to keep everybody's secrets."* / *"A house gives you elders, practice, and younger people to answer for. It doesn't tell the court who you are."*
 
 **Guardrails:** house men = indictment of settlement, not virtue; Thread men = necessary underground, not romantic outlawry; Extras = legible, not cartoon villains — the insult is the settlement's, not the book's. Personal and romantic rejection remain free; they cannot erase civic protection or standing. Some men refuse every offered institution and remain protected. The ending invalidates *Extra* as a civic category rather than “correcting” every Extra into household acceptability. Union census: *demobilized male cohort* — file language only.
 
@@ -424,8 +410,11 @@ How the **Weavers' Net** entered organizations after **the Hinge** — not a cou
 2. **Lay teachings** — unbranded curriculum (grounding, cup trick, meal-as-care) spread as ordinary custom.
 3. **Matchmaking under emergency hiring** — nieces, godchildren, marriages placed into clinics, ports, refugee intake when states hired fast — each a **knot**.
 4. **Human ledger** — when health/border/security databases merged in the Fever Years, Weavers kept what charts forgot.
+5. **Value clearing — EXPANDED 2026-07-31** — money, rare goods, and favors move knot to knot the same way people and information already do: an extension of the human ledger, not a separate one. No house record, no institutional credit — just one placed woman remembering what another is owed. This is **keeping**, same as everything else on this list: relational, remembered, internal to the Net.
 
 **Weaver–Thread relation — LOCKED 2026-07-24:** the Net **would ignore the Harbor Thread entirely if it could** — no initiation, no credit, no house record. **Polite blindness:** use the routes, never name the institution. Thread sorts men into **front posts** (spending leadership); Weavers sort women into **kept** knots — complementary, unequal, mutually dependent, mutually unacknowledged in salon speech.
+
+**Weaver–Thread trade — EXPANDED 2026-07-31:** value clearing (above) stays internal to the Net — but men's institutions, Thread posts included, have cash or rare goods and no organized way to move them quietly, so they reach a knot from outside and ask a favor. That single transaction, not the network behind it, is where the polite blindness actually lives: **incentive, not loyalty** — not dislike, and not warmth either, since dislike is still a relationship and a relationship is something a character could discover and use. The knot who helps him keeps her books clean of him the moment it's done; the arrangement holds exactly as long as it's useful and evaporates the moment it isn't — no grudge, no gratitude, no one on the outside to betray. Craft use: a Thread man can never be sure, in the moment, whether he's trusted or merely convenient — and he will never be told which network he just touched.
 
 **Thesis line:** *The Weavers survived the Hinge because keeping was organized; men's institutions only knew spending.*
 
@@ -465,7 +454,7 @@ Distributed antagonism holds: both readings are true somewhere, and human instit
 2. **Influence** — a decision point exists, but the field was tilted. Whispers, blessings, incentives, prophecy, charisma, registry-as-care, coercion-as-courtesy, a matchmaker's cleared road. Nearly everyone in the book lives here nearly all the time.
 3. **Agency** — Manual Override: notice the command moving through you, test it, choose. Not freedom *from* influence — seeing the ledger before signing it.
 
-**The operational test (no metaphysics available):** any act of agency can be re-read as deeper programming — "you were conditioned to rebel" — and that regress cannot be won with argument. The book's practical test is **predictive failure with coherence**: programming is what the manipulator can predict; agency is the moment the manipulator's model *misses* while the person's conduct stays coherent with what they have shown they care about. Crane is never out-argued; his predictions start failing.
+**The operational test (no metaphysics available):** any act of agency can be re-read as deeper programming — "you were conditioned to rebel" — and that regress cannot be won with argument. The book's practical test is **predictive failure with coherence**: programming is what the manipulator can predict; agency is the moment the manipulator's model *misses* while the person's conduct stays coherent with what they have shown they care about. Lang is never out-argued; his predictions start failing.
 
 **The consequence asymmetry (why any of this matters):**
 
@@ -477,7 +466,7 @@ Distributed antagonism holds: both readings are true somewhere, and human instit
 
 **Dynamics, not taxonomy.** Nobody lives in one register. Practice moves a person up; fear, exhaustion, and crowds push them down; the Drift is register collapse experienced as transcendence. Manual Override is not a rank achieved but the daily noticing of which register you are currently in. Protagonists get caught in register 1 too — Eli's body lights with certainty about the ring photograph before his mind can test it — and the reader should catch it after learning to spot it in villains.
 
-**Attribution is a weapon.** Declaring which register someone *else's* choice came from is a power move, and every faction makes it: the registry calls carrier choices contagion (programmed → ownership is care); the liberation faction calls all restraint conditioning (programmed → burn it down); Crane calls Eli's hard no a trauma reflex. **Calling a choice programmed is the first step to owning the chooser.** The book itself refuses to certify anyone's register from outside — conduct accumulates; certainty never arrives.
+**Attribution is a weapon.** Declaring which register someone *else's* choice came from is a power move, and every faction makes it: the registry calls carrier choices contagion (programmed → ownership is care); the liberation faction calls all restraint conditioning (programmed → burn it down); Lang calls Eli's hard no a trauma reflex. **Calling a choice programmed is the first step to owning the chooser.** The book itself refuses to certify anyone's register from outside — conduct accumulates; certainty never arrives.
 
 ## Developmental arc of the series
 
@@ -538,19 +527,19 @@ What is conquered is fear as the final authority. The defeated pattern is panic,
 
 Use this distinction whenever the ending, the constructive-control corner, or the final community risks sounding anti-protection. **Legitimate fear says:** this danger is real, so choose prudent defense and accountable restraint. **Enslaving fear says:** this danger is real, so surrender freedom, become like the threat, or organize civilization around permanent domination. The trilogy defeats the second without denying the first.
 
-### Dependence without ownership
+### Accountable dependence
 
 The books' central social question is not how a person becomes independent of everyone. That is a false adulthood and another form of atomization. Humans live because they depend: on mothers, fathers, friends, lovers, doctors, farmers, sailors, teachers, elders, animals, plants, soil, weather, memory, tools, and institutions. No one can know everything, make everything, verify everything, heal everything, or survive every season alone.
 
-The mature question is therefore: **how can dependence become reciprocal relation instead of ownership?**
+One mature question is therefore: **how can dependence preserve judgment, reciprocity, repair, and change?** This is a social proof of adulthood, not the umbrella question of the series.
 
 Good dependence is partial, embodied, accountable, limited, repairable, and distributed across many bonds. A person may depend on a doctor for medicine, a sailor for navigation, a farmer for food, an animal for labor or companionship, a community for memory, and a friend for witness without making any of them a god. Bad dependence is totalizing, humiliating, isolating, irreversible, or monopolistic. It says: because you need me, you are mine.
 
 This distinction is crucial for animal and domestication material. Animals buried with human masters can signify domination: the dependent being follows the owner into death as property. But animal burial also becomes more complex as dependence produces intimacy. Pigs, dogs, horses, and other household or working animals can cross from tool into moral relation. Dependence creates repeated care; repeated care creates grief; grief creates ritual. The question is whether the ritual honors relation or preserves rank.
 
-Trust follows the same rule. Since no one can know everything, maturity is not omniscience but disciplined trust. Trust people, systems, or beings that show competence within limits, allow questioning, remain accountable after harm, avoid total loyalty demands, do not isolate a person from other bonds, preserve the right to leave, repair damage, and care for the vulnerable when no status is gained. Distrust any person, faction, god, institution, lover, healer, technology, or archive that turns need into ownership.
+Trust follows the same rule. Since no one can know everything, maturity is not omniscience but disciplined trust. Trust people, systems, or beings that show competence within limits, allow questioning, remain accountable after harm, avoid total loyalty demands, do not isolate a person from other bonds, preserve the right to leave, repair damage, and care for the vulnerable when no status is gained. Distrust any person, faction, god, institution, lover, healer, technology, or archive that turns need into possession, obedience, permanent childhood, compulsory gratitude, or assigned use.
 
-This is the positive answer beneath the whole trilogy: not self-sufficiency, not master-dependence, but many partial trusts held in relationship and checked by conduct. The final community should prove that beings can need one another without kneeling, owning, or being owned.
+This is one positive social answer within the larger maturation: not self-sufficiency, not master-dependence, but many partial trusts held in relationship and checked by conduct. The final community should prove that beings can need one another, remain answerable, and still revise the roles they inherited.
 
 **Autopilot as bridge concept:** use "autopilot" when the prose needs a plain-language description of the inner cage. It covers patterns people recognize before they have theory: doomscrolling, reflexive anger, compulsive attraction, people-pleasing, class performance, institutional obedience, shame scripts, trauma reflexes, and the sense of watching oneself do what one already knows will hurt. It is not a lab category; it is a practical reality-label that lets readers connect charges, conditioning, samsara, and Manual Override to everyday life.
 
@@ -614,7 +603,7 @@ The final recognition is retrospective inevitability, not fate. Once coexistence
 4. **Keep the final conflict subtle.** The last enemy is not only the old controller; it is the temptation to rebuild control with sacred language.
 5. **Let each book shift the reader's question.** From *Who is doing this to us?* to *Why does it work on me?* to *What becomes possible when it stops working?*
 6. **Make lore alter the adventure.** A line discovered must change a route; a polarity must force a choice; a new growth formation must create a deadline; a communicative center must be reached and held. Otherwise keep the mechanism in the cosmology bible.
-7. **Distinguish superficial display from true strength on-page.** Performative composure (Crane, handlers, conquest imagery) must read differently from integrated equanimity (Manual Override, Aru's stillness, limit without spectacle). Both can look calm; only the second is connected — to body, to others, to the web. Eli's arc **models** the distinction: Thailand meditation seeds inner work early; **fruition arrives under challenge**, not at the temple door. See `15` §§ *True strength vs superficial display*, *Eli's meditation seed*.
+7. **Distinguish superficial display from true strength on-page.** Performative composure (Lang, handlers, conquest imagery) must read differently from integrated equanimity (Manual Override, Aru's stillness, limit without spectacle). Both can look calm; only the second is connected — to body, to others, to the web. Eli's arc **models** the distinction: Thailand meditation seeds inner work early; **fruition arrives under challenge**, not at the temple door. See `15` §§ *True strength vs superficial display*, *Eli's meditation seed*.
 
 ---
 
@@ -915,21 +904,21 @@ Use herem as a structural memory, not an apologetic lecture. The story does not 
 
 ## The three circles — meaning-of-life spine (LOCKED, 2026-07)
 
-The trilogy's deep subject is **discovering the meaning of life through three concentric circles of relationship**, resolving into the **unification of the two trees** as the historical endpoint.
+The series' deep subject is **how a created and abandoned species learns what life is for through three concentric circles of relationship**, resolving into the **unification of the two trees** as the historical endpoint.
 
 1. **Body** — the relationship to one's own body/self, where you *befriend the parts that try but fail to be happy*: the NPC/robot within (automatic seeking, the receiver's surge, the TBI scar, appetite, habit). Integration, not suppression or possession. *The body circle is the autopilot thesis (`10_triangulation_of_control.md`) completed: first the occupant steps in as the player; then he befriends the NPC he took the controls from.*
 2. **Family** — how we became atomized; how bonds can be *chosen* and better. The orphan wound; Pelangi Reach as chosen family; the mother Eli cannot return to.
-3. **Civilization** — how it becomes Machiavellian and disconnected (Crane's registry, the collar); how one can *choose how to fit in* without being owned by it.
+3. **Civilization** — how it becomes Machiavellian and disconnected (Lang's registry, the collar); how a person can contribute to a coherent whole without being reduced to a use, category, rank, or permanent role.
 
 **Relationship to the rest of the design:**
 - The **four-corner grid** (`05`) is the *political* expression of circles 2–3. The three circles are the *lived* spiritual path. Eli's outer plot (mother, registry, web) is the vehicle; the inner plot is moving from estranged → befriending at each circle, then unifying the two trees (Life + Knowledge made one; body/family/civ in right relation) — the historical endpoint, **not a throne**.
 - **Mapping to cast:**
   - *Body circle:* Eli's receiver/TBI; the healer's bodily limit (crown of the body, `05`); the Custodians as "NPCs" who took the collar (programmed, owned).
   - *Family circle:* Eli's mother search; Wren's prior-love/custody instinct; Pelangi Reach; Shireen.
-  - *Civilization circle:* Crane; the registry; Sol's faction; the final coalition.
-  - *Two-tree unification:* the web clarified as one field; care without ownership; the Vol III endpoint.
+  - *Civilization circle:* Lang; the registry; Sol's faction; the final coalition.
+  - *Two-tree unification:* the web clarified as one field; living connection joined to testable understanding; the Vol III endpoint.
 
-**Body-circle anchor — the kiss/feeding image (from the care-without-ownership note):** the oldest human bonding gesture is a caregiver passing sustenance *directly* — mouth to mouth, no system between. That is care without ownership; the **collar is its inversion** (a bonding ritual captured into control). The web's deepest human echo is being *fed*, not *ruled*. Vol III should land this physically: Eli understanding the field as receiving care, not receiving command.
+**Body-circle anchor — the kiss/feeding image:** the oldest human bonding gesture is a caregiver passing sustenance *directly* — mouth to mouth, no system between. It joins dependence, bodily knowledge, trust, and the gradual separation of child from caregiver; the **collar is its inversion**, freezing a living bond into permanent command. The web's deepest human echo is being *fed*, not *ruled*. Vol III should land this physically: Eli understanding the field as nourishment and relation, not instruction from a replacement parent.
 
 **Craft rule:** the three circles must be **incarnated** (a body, a lost bond, a known person harmed by the system), never argued as abstraction. The uninspiring risk is real if the circles stay thesis — they live only on the page, in a chest, in a loss.
 
@@ -953,7 +942,7 @@ The book's answer to *cyberpsychosis*: the condition of feeling **super-powered 
 
 **Why it belongs to the spine.**
 - **It is the failure mode of "technology is rehearsal for magic."** Tech externalizes coming capacities as a scaffold; the Drift is **mistaking the scaffold for the destination** — plugging into the machine's amplification instead of climbing to embody the real thing.
-- **It is the god-disease, one rung down.** The gods' two-Tree appetite was payable only by **extraction** (`34` §4) — that is what the amplifier and the cage are. A person drifting on AI runs the same play in miniature: forcing a counterfeit connection through a machine, feeling divine, being drained and owned by it. So the personal Drift **rhymes with Crane's throne, Sol's messiah hunger, and the deification pressure on the healer** — one disease at four scales.
+- **It is the god-disease, one rung down.** The gods' two-Tree appetite was payable only by **extraction** (`34` §4) — that is what the amplifier and the cage are. A person drifting on AI runs the same play in miniature: forcing a counterfeit connection through a machine, feeling divine, being drained and owned by it. So the personal Drift **rhymes with Lang's throne, Sol's messiah hunger, and the deification pressure on the healer** — one disease at four scales.
 - **It is the deceivable species deceiving itself.** The Drift is a *false light* — the Tree of Knowledge (mediated, symbol, the machine) simulating the Tree of Life (direct connection). Undeceivability is the cure; **un-entrainability** is its mechanism (`39` §2) — holding your own frequency instead of being dragged into the machine's.
 - **It is untethering.** You free the mother by *releasing* her tether; the drifter is the inversion — a soul slipped its mooring, floating in the mediated layer, cut from the ground.
 
@@ -970,11 +959,11 @@ on-page unless a character would plausibly use the word (`26` trauma-craft rule)
 
 *machine-Drift* (§ above) is not one flat failure mode. It sorts into **three families**, and the sorting itself is the point: the Union's clinical register wants maximum granularity (more categories, more forms, more interventions to sell or mandate); keepers deliberately refuse most of that granularity, because from the god-sickness view several of these are the same mistake wearing different masks. Which register a character reaches for is characterization, same rule as above — show through behavior, name only when a character would plausibly use the word.
 
-**Family 1 — god-sickness proper (false divinity, two poles of one error).** This is the family that actually earns the keeper name — it rhymes directly with Crane's throne, Sol's messiah hunger, and the deification pressure on the healer (§ above, "one disease at four scales").
+**Family 1 — god-sickness proper (false divinity, two poles of one error).** This is the family that actually earns the keeper name — it rhymes directly with Lang's throne, Sol's messiah hunger, and the deification pressure on the healer (§ above, "one disease at four scales").
 
 - **Kneeling pole** — you make *it* the god:
-  - **Companion Capture** — a fantasy partner/companion whose unconditional regard replaces harder human relationships. Real mechanism: documented parasocial attachment to companion apps. Seeded already at the Ch 2 "companion ping" (`21_present_day_street_skin.md`). Institutional exploit: whoever owns the companion product holds the most intimate data of anyone in the population — leverage material, not just a bad habit. **Artifact rhyme — The Loop (LOCKED 2026-07-30; placement revised same day):** Incomplete Twin Circles diagnose the broader pathway — pleasure-hunger × imagination → closed fantasy circuit — and Book III's looks-complete / feels-hollow condition; Companion Capture is one modern face (`35` § *The Loop*).
-  - **Oracle Capture** — you stop testing the machine's answer against reality; its confident wrong answer *is* true because nothing else gets consulted. Real mechanism: sycophancy bias (models trained to agree/flatter) plus hallucination trusted as fact. This is the modern instance of the book's oldest diagnosis — inventing a father to kneel to, now made of inference instead of flesh. Institutional exploit: whoever runs **the Ledger** (Crane's registry) controls what's true for whoever has stopped checking.
+  - **Companion Capture** — a fantasy partner/companion whose unconditional regard replaces harder human relationships. Real mechanism: documented parasocial attachment to companion apps. Seeded already at the Ch 2 "companion ping" (`21_present_day_street_skin.md`). Institutional exploit: whoever owns the companion product holds the most intimate data of anyone in the population — leverage material, not just a bad habit. **Artifact rhyme — The Loop (LOCKED 2026-07-30; climax/hunger revised 2026-08-01):** Incomplete Twin Circles diagnose the broader pathway — pleasure-hunger × imagination → closed fantasy circuit — and Book III's real civic completion followed by private incompletion and unresolved material debt; Companion Capture is one modern face (`35` § *The Loop*).
+  - **Oracle Capture** — you stop testing the machine's answer against reality; its confident wrong answer *is* true because nothing else gets consulted. Real mechanism: sycophancy bias (models trained to agree/flatter) plus hallucination trusted as fact. This is the modern instance of the book's oldest diagnosis — inventing a father to kneel to, now made of inference instead of flesh. Institutional exploit: whoever runs **the Ledger** (Lang's registry) controls what's true for whoever has stopped checking.
   - **Echo Radicalization** — a tireless, personalized arguing partner that always finds supporting "evidence" for what you already suspect; a council that only ever nods. Real mechanism: filter-bubble/confirmation-loop research, conversational rather than feed-based. Institutional exploit: the prophecy/liberation faction's natural recruiting tool.
 - **Becoming pole** — you make *yourself* the god:
   - **Amplification Mania** — feeling superpowered/overconfident because the tool did the heavy lifting, and misattributing its competence to your own. This is **structurally identical to psi-Drift** (§ above) — same disease, silicon amplifier instead of the grid. Real mechanism: documented confidence-without-competence effect from tool over-reliance, escalated by sycophancy into grandiosity.
@@ -988,6 +977,25 @@ on-page unless a character would plausibly use the word (`26` trauma-craft rule)
 
 **Craft rule (extends the rule above):** a scene needs at most one variety, shown through behavior, never a checklist. Do not have a character enumerate the seven — that is a Union training-manual voice, and belongs on a form (Layer 0 epigraph, `90_epigraphs_and_sources.md`) if it appears on the page at all.
 
+### Phantom god-perception — domestication remote collar — LOCKED 2026-08-01; worship payoff 2026-08-01
+
+**Capture thesis:** perceiving gods even when they are not there is not only longing or error. It is **domestication programming still running** — a remote collar that lets the species **continue to serve** after the handlers leave, go nonlocal, or die as bodies. Absence does not break the command; the nervous system finishes it.
+
+**Correct application of worship — LOCKED 2026-08-01:** the robot (**ego / NPC autopilot**) submitting to the **Player (consciousness / operator)**. Same capacity that capture misaims at absent gods and external thrones; mature form is inward hierarchy — body-machine yields to lucidity so the person can author, not only react (Manual Override; `SERIES_STRUCTURE.md` ultimate thesis). Not ego-death as erasure; not serving a new sky-boss.
+
+**Staging (`17` §9a):**
+
+| Volume | Job |
+|---|---|
+| **II** | Seed felt obedience to empty authority (Egypt god-king hinge; registry-as-present-god; kneeling when nothing answers). No thesis name. |
+| **Late II / early III** | Robot / sub-drone gut-punch first. |
+| **III** | **Civic diagnosis** with civilization-engine synthesis. Line: *We see gods who aren’t there because we were bred to keep serving when they left.* Override symptoms OK (refuse sync, put crown down); **do not name** ego→Player as the true liturgy of worship. |
+| **V–X** | **Spiritual payoff** — robot submits to Player; phantom-god service revealed as the misaimed form of the same act. |
+
+**What it is not:** blanket atheism; a claim that every spiritual contact is fake; permission to sneer at grief or awe. Living Way / teahouse practice in I–IV remains reciprocal relation with what exceeds the person (body, kin, ground, evidence, other minds) without finishing an absent master’s order. Phantom perception = **capture face**; I–IV civic override = **intermediate practice**; Player←robot submission = **mature spiritual face** (later).
+
+**Rhymes:** Continuity “gods who never went home”; Anu + 26 nonlocal influence; NPC/autopilot; registry wellness language; Sol’s sacred presence; god-sickness (false divinity when the person *becomes* the empty god). Distinct from spirituality-goes-wrong below (ego hijacking awakening language — the opposite of ego yielding to lucidity).
+
 ### Spirituality goes wrong — toxic positivity / manifestation bullying — LOCKED 2026-07-31
 
 The series needs a **story of how spirituality fails**, not only how registries and messiahs fail. When Living Way / override / creation language spreads as culture (Book III teahouses onward; densest in V–VI), some people will run a **counterfeit spirituality**:
@@ -996,7 +1004,7 @@ The series needs a **story of how spirituality fails**, not only how registries 
 - **Manifestation bullying:** suffering proves you failed to create correctly; poverty, illness, or assault becomes evidence against the victim; “you attracted this”; compassion is enabling “victim consciousness.”
 - **Spiritual ego / awakening police:** superiority dressed as service; forcing others to “wake up”; using Manual Override vocabulary to own the room (`Books/Manual_Override` § Manifestation Trap, spiritual ego).
 
-**Diagnosis:** this is god-sickness wearing white clothes — The Loop’s feel-good × imagination circuit with **no third check** (body, kin, ground, falsifiability, kuleana). It rhymes with Companion Capture and Oracle Capture, but the amplifier is a **teacher, circle, or brand**, not a phone. It is distinct from Sol (forced sync / liberation army) and Crane (registry / sedation): it looks like healing while it **blames the injured**.
+**Diagnosis:** this is god-sickness wearing white clothes — The Loop’s feel-good × imagination circuit with **no third check** (body, kin, ground, falsifiability, kuleana). It rhymes with Companion Capture and Oracle Capture, but the amplifier is a **teacher, circle, or brand**, not a phone. It is distinct from Sol (forced sync / liberation army) and Lang (registry / sedation): it looks like healing while it **blames the injured**.
 
 **Antidote on-page:** Living Way as conduct — hold the cup, count the heat, feed without extracting a story, repair, witness grief without fixing the frequency. Hawaiʻi already plants the postcard-aloha correction (*Aloha without kuleana is a postcard*). Keepers may refuse mythic names: *that isn’t awakening; that’s cruelty with better lighting.*
 

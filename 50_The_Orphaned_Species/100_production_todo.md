@@ -10,7 +10,7 @@
 > **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-07-29, PROSE NOT YET RECONCILED:**
 > The series now ends in a women-led court volume. Book III's handover **succeeds**
 > and decentralized governance holds for a real stretch; Book IV opens on that
-> stretch, then a coordinated attack on the *working* settlement leads the
+> stretch, then the Lean Year's converging allocation, credential, route, and trust failures lead the
 > institutions to deliberately invoke a dormant continuity clause and ask Eli
 > back into bounded authority; the Weavers and men's cloisters deepen power
 > already earned in Book III; Rowan/Eli receives only deniable attraction seeds.
@@ -46,7 +46,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 7. [x] **Poetic-rhyme / restraint pass — Vol I:** author research notes moved out
    of reader text; explanatory after-sentences cut; ring, garden, breath, names,
    food, and repair recur with changed meaning.
-8. [x] **Dramatic-multiplicity pass — Vol I:** Wren, Edda, Sora, Rasel,
+8. [x] **Dramatic-multiplicity pass — Vol I:** Wren, Anika, Sora, Rasel,
    Malai, Luo, and Qiao retain independent motives, authority, and consequential
    choices.
 8b. [x] **Three pressure rules — Book I pass (LOCKED 2026-07-29 in `55`):**
@@ -82,11 +82,18 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 
 ## Book I — *The Breach*
 
+- [x] **Full-manuscript hunger audit — run 2026-08-01, pass.** Cold read of
+  all 13 chapters against the same criteria used for Book II: no rewrite
+  indicated anywhere. Confirms the original concern that prompted this pass
+  (opening chapters needing sharpening around Eli/ring/pursuit before
+  mythology arrives) is already resolved by the 2026-07-29 "Ch 1 commercial
+  open" craft pass logged in the manuscript header. Full findings:
+  `55_series_pitch_and_comps.md` § *Book I — full-manuscript hunger audit*.
 - [x] Draft Pelangi Reach ordinary life and the Mandate political squeeze.
 - [x] Draft the sustained Meridian City–Straits–Malacca flight; breach ends Chapter 2.
 - [x] Draft aftermath/grounding, local Weaver hospitality, and Wren's disclosed placement route (Chs 3–4).
 - [x] **Thailand Ch 5–10 governing draft** in `manuscripts/I_The_Breach.md` (2026-07-23). Mekong quarry retired.
-- [x] Draft northbound route from Thailand: Shireen return-choice, Edda's true Rasel proof, human-door cost, Sichuan entry.
+- [x] Draft northbound route from Thailand: Shireen return-choice, Anika's true Rasel proof, human-door cost, Sichuan entry.
 - [x] Draft Sanxingdui through legitimate Chinese custodianship: Bronze Sacred Tree as model, local scholars with authority, language-tree break, Rasel's coerced apparatus.
 - [x] Draft Sanxingdui climax: distributed living route over machine read; Rasel recovered; Wren displaced; Qiao loses clearance.
 - [x] Draft father-son aftermath and Rasel's disclosure that Maren helped build the early tools before resisting.
@@ -105,6 +112,31 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 - [x] Give Maren's release a real strategic cost: Eli surrenders a useful tether and chooses her freedom.
 - [x] Make Sol witness the release and derive his forced-unity mandate.
 - [x] Stage Wren's first consequential clandestine recovery beside Rowan; preserve Knotter/Weft complement and keep Rowan out of Meridian City.
+- [x] **Book II chapter-by-chapter hunger audit — run 2026-08-01** against
+  `manuscripts/II_The_Descent.md` (governing draft). **Verdict: pass, density
+  parity with Book I holds.** Every chapter carries an active want, a
+  present-tense antagonist job or its network-recruitment equivalent, a
+  domestic/bodily cost, and non-thesis chemistry (Qiao/Luo, Rasel/Nadiya,
+  Sora's dryness, the Wren/Rowan/Eli triangle resolved without a villain).
+  Ch 10's climax delivers the locked "failed keep-her assault concurrent with
+  release" (Tommy's lance; Gareth's Ch 9 death; uncontrolled post-release
+  activations and deaths named, not hand-waved). Two specific gaps found and
+  left for a revision pass, not a rewrite:
+  - [x] **Term-density violation, Ch 2 — CLOSED 2026-08-01.** Ch 2 now keeps
+    only Adapa (+ Arta, explicitly flagged on-page as Haddad's disputed gloss,
+    not canon vocabulary). *melam*/*ni* are held and named at the Göbekli hill
+    pulse (Ch 3) after the sensation is re-dramatized on bodies first —
+    exactly the fix recommended. Verified directly in
+    `manuscripts/II_The_Descent.md` 2026-08-01.
+  - [x] **Antagonist-job gap, Ch 7–8 — CLOSED 2026-08-01.** Ch 7 now has a Sol
+    recruiter working the ferry queue with a real deadline (ten names before
+    the next sailing). Ch 8 opens with a Custodian inquiry reaching Eleri's
+    registered practice with a tide deadline. Both verified directly in the
+    manuscript. Additional gap-fillers also landed beyond what this audit
+    flagged (depth-scan Ch 4; Imani Vale moral wound Ch 5→10; hearth/Rootbook
+    correction Ch 6; Somchai hard-no Ch 9) — see `55` for the full list.
+  Full findings: `55_series_pitch_and_comps.md` § *Book II — delivered-prose
+  hunger audit*.
 
 ## Book III — *The Living World*
 
@@ -114,7 +146,30 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 - [x] Dramatize Enki/Ninmah–Umul as dignity beyond institutional usefulness.
 - [x] Replace the planned Washington near-synchronization with the sharper Wren-network requisition attempt; preserve the actual force-synchronization temptation for Hawaiʻi.
 - [x] Return Qiao as an institutionally compromised witness under surveillance; make her testimony change the negotiation.
-- [x] Preserve the revised route: Pelangi Reach → San Francisco → ruined Washington → bounded compact → Hawaiʻi refuge → distant corridor operation → hearing → handover succeeds (Book IV opens on the working stretch, then breaks it — see 2026-07-29 revision above). Hawaiʻi is never changed into a front or military base by Eli. The former Hopi/Colorado coda is retired.
+- [x] **Rewrite Book III Chapters 1–6 to the 2026-08-01 geographic lock — done
+  2026-08-01; Ch 1–3 Belém restage completed same day (second pass).** Host:
+  Belém do Pará / Guajará Bay. Ch 1–3 now open and run at Belém (not Pelangi
+  physical harbor); Pelangi = remote home-node via Mei/cargo/channel. Ch 4–6
+  already Belém waterfront. Local agency: Amina Cole + Dona Iracema from Ch 1.
+  Loop hunger beat landed Ch 10 end. Climax docs synced (war Ch 8; handover
+  Ch 9–10; birds = Book IV).
+- [x] **Eagle–Condor living-teaching scene — written 2026-08-01.** Landed in
+  Ch 6 ("The Compact"), between "They begin." and "Purpose comes first" —
+  the compact-drafting room, not Ch 4 as the outline originally assigned,
+  because that's where the assembly is actually naming what it's building.
+  Elena Mamani (Andean ayllu water-council federation) brings the teaching
+  and personally contests its own five-hundred-year timetable ("a tourist's
+  date"). Ademir Tembé (Tembé, upstream of Belém) contests its flattening
+  onto every Indigenous delegation in the room and rejects the mind/heart,
+  north/south binary by name. Sol's delegation tries to seize it as confirmed
+  destined unity and is shown doing so opportunistically. The scribe enters
+  it as testimony, not doctrine; both delegates' concrete asks (water
+  authority; a non-shared seat) go into the purpose clause as named
+  conditions, not adopted metaphor. No bird appears on the page.
+- [x] **Costa Rica hinge geography — working lock 2026-08-01:** Limón–Tortuguero
+  + Reventazón / Turrialba nursery network (`60`; Yuliana Mora on-page in IV).
+  Still open for consultation densification: species mixtures, Indigenous
+  jurisdiction detail, work-song wording — do not invent guanacaste monoculture.
 - [x] Reveal the Forks with the dragon witness: Earth-produced chimpanzee/bird branches beside Heaven-seeded human/dragon branches; retain disputed provenance and independent-test limits.
 - [x] Make the decisive response recognition and restraint, not technology-versus-nature: possible bridge-species survivors are persons, not proof to hunt or threats to preempt.
 

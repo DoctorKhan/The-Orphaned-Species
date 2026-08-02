@@ -8,6 +8,8 @@
 
 *The Orphaned Species* can be timely without becoming a culture-war tract. Its strongest contemporary rhyme is the fear that dependence will be exploited: care will become control, belonging will require conformity, intimacy will become possession, and assistance will quietly classify its recipient.
 
+That rhyme is an entrance, not the destination. The durable subject is adulthood after abandonment: how people inherit bodies, families, powers, stories, and institutions whose makers cannot explain or repair them. Scenes should therefore name the exact pressure—worship, erasure, assigned usefulness, false independence, obedience, disposability, amnesia, or possession—rather than defaulting to ownership as the explanation for all of them.
+
 Appeal comes from making human stakes irresistible first and letting wonder and politics deepen them. Eli is not “the young male condition,” Wren is not “the female response,” and their relationship is not a staged reconciliation between demographic blocs.
 
 **Charkha guardrail — LOCKED 2026-07-22:** the Charkha's pair-severance operation must never make women's employment, education, bodily autonomy, or freedom from coercive dependence into the villain's invention. Its evil is the appropriation of freedom: doubled obligation presented as independence, mutual dependence recoded as shame, care withdrawn or commodified, and opposed grievance stories amplified until people seek from institutions what they can no longer risk seeking from one another. Ancient female selectivity and male competition/risk-bearing may be treated as uneven population-level pressures, never total categories or moral commands. Men are not owed women's dependence; women are not responsible for repairing male isolation; masculine courage is not a currency that purchases intimacy; and honoring chosen risk must never naturalize male death. The positive answer is reciprocal reliance with consent, exit, shared burden, meaningful standing, and public support—not restored hierarchy.
@@ -32,16 +34,16 @@ Headlines will change before publication. Build around conflicts that will not:
 | Loneliness and brittle friendship | Belonging versus conformity | Eli substitutes usefulness for being wanted; male friendship must carry what romance cannot |
 | Gender distrust | Intimacy versus possession | Wren protects autonomy; Eli learns that pain grants no title to another person |
 | AI-mediated attention | Assistance versus dependency | The install metaphor; care shaped by hidden incentives; knowledge without participation |
-| Political sorting | Safety versus autonomy | Crane's registry, constructive control, and freedom's duty to protect bystanders |
+| Political sorting | Safety versus autonomy | Lang's registry, constructive control, and freedom's duty to protect bystanders |
 | Economic and social precarity | Usefulness versus inherent worth | Pelangi Reach, meaningful work, stable shelter, and people who expect one another tomorrow |
 
 The durable promise is:
 
-> **You can need other people without kneeling to them. You can protect other people without owning them.**
+> **You were made for someone else's purpose. You are still capable of learning how to live.**
 
 The deepest aspirational fantasy is:
 
-> **To be known without being classified, needed without being exploited, and loved without being owned.**
+> **To inherit a damaged world without having to obey it, erase it, or face it alone.**
 
 ---
 
@@ -51,7 +53,7 @@ The deepest aspirational fantasy is:
 - A maritime clue trail that turns geography into pursuit
 - An ensemble capable of consequential choices
 - Romance complicated by power, consent, and incompatible readings
-- Emrys's humor and capture as an intimate cost
+- Wren's Sanxingdui displacement as an intimate cost
 - Wren's solo Laleh extraction as independent agency
 - Eli's release of chosen authority
 - An unremarkable afternoon as the reward rather than an anticlimax
@@ -73,8 +75,8 @@ The reader must love the life at risk before the cosmology asks for attention. R
 | Volume | Question | Answer |
 |---|---|---|
 | **I** | Who planted the mother's song, and what did the flare expose? | The Seven separate; the personal Manual Override emerges; the full mother truth remains withheld |
-| **II** | What is tethered at Albion, and who pays for Emrys's error? | The mother truth turns; the relational Manual Override emerges; Emrys is taken |
-| **III** | Can Eli free her without owning the grid? | Release, limit, and a law of coexistence |
+| **II** | What is tethered at Albion, and who pays to reach it? | The mother truth turns; the relational Manual Override emerges; Maren is released, not kept |
+| **III** | Can Eli release what he loves and help build a world that does not require him at its center? | Release, limit, succession, and a law of coexistence |
 
 A recurring object is useful only if it repeatedly changes a decision. It is not owed as a franchise token.
 
@@ -134,15 +136,15 @@ Power and exit rights must remain visible. Two injuries can both be real without
 
 ### Male friendship — an answer romance cannot carry
 
-If Wren is Eli's only road out of isolation, the story makes women responsible for male social survival. Eli, Emrys, Somchai, and other men need relationships that include noticing deterioration before crisis, direct requests after the safer language of work and jokes, challenge without humiliation, practical care without embarrassment, and remaining after weakness or loss of status.
+If Wren is Eli's only road out of isolation, the story makes women responsible for male social survival. Eli, Somchai, and other men need relationships that include noticing deterioration before crisis, direct requests after the safer language of work and jokes, challenge without humiliation, practical care without embarrassment, and remaining after weakness or loss of status.
 
 The offered masculinity is:
 
 > **Competence without domination; strength without display; purpose without supremacy; brotherhood without a common enemy.**
 
-### Crane — care that claims title
+### Lang — care that claims title
 
-Crane should offer things abandoned people plausibly crave: coherence, competence, protection, a role, a name, and someone willing to accept responsibility. His corruption is not absence of care. It is the belief that care grants title to the cared-for person.
+Lang should offer things abandoned people plausibly crave: coherence, competence, protection, a role, a name, and someone willing to accept responsibility. His corruption is not absence of care. It is the belief that care grants title to the cared-for person.
 
 His implicit promise is:
 
@@ -178,7 +180,7 @@ Each position should protect a legitimate value before corrupting it:
 
 | Position | Legitimate need | Corrupted form | Story test |
 |---|---|---|---|
-| Crane / registry | Safety, competence, continuity | Preemptive classification and permanent ownership | Can safety remain answerable to the person? |
+| Lang / registry | Safety, competence, continuity | Preemptive classification and permanent ownership | Can safety remain answerable to the person? |
 | Liberation faction | Dignity, agency, anger at abuse | Charisma, vengeance, purity, unbounded power | Can freedom accept limits and consequences? |
 | Wren / constructive control | Boundaries, defense, enforceable consent | Care becoming management | Can protection preserve authorship? |
 | Eli / constructive freedom | Personhood, pluralism, declining capture | Vagueness, exceptionalism, avoidance of civic duty | Can freedom protect bystanders? |
@@ -209,7 +211,7 @@ Someone must build the threshold house, write the appeal procedure, cook the mea
 |---|---|---|---|
 | **I — Shattering** | Classification, surveillance, social sorting | **You are not the category imposed on you.** A hard no alone is insufficient; choose commitments. | Preserve knowledge or safety without surrendering a person. |
 | **II — Descent** | Distrust, isolation, compulsory care, substitutes for intimacy | **Freedom does not mean needing no one.** Dependence can exist without capture. | Honor an enforceable boundary despite real need. |
-| **III — Choice** | Permanent emergency, authoritarian and revolutionary temptation | **A society can protect people without owning them.** | Constrain harmful conduct through transparent rules, distributed authority, review, care, defense, and exit rights. |
+| **III — Choice** | Permanent emergency, authoritarian and revolutionary temptation | **A society can use power and still return its heroes to ordinary life.** | Constrain harmful conduct through transparent rules, distributed authority, review, care, defense, and exit rights. |
 
 ---
 
@@ -220,7 +222,7 @@ For any culturally resonant scene, ask:
 1. What does the character want before the theme enters?
 2. How is the pressure visible in conduct rather than announced?
 3. Who benefits from the character's coping strategy, and who bears its cost?
-4. What legitimate need is being converted into leverage or ownership?
+4. What legitimate need is being distorted here—into obedience, compulsory usefulness, disposability, isolation, worship, erasure, or possession?
 5. Are power, risk, and exit rights clear without turning the scene into a debate?
 6. Does the relationship or institution preserve agency in a concrete way?
 7. If all topical language disappeared, would the scene still belong in the novel?
@@ -232,7 +234,7 @@ For any culturally resonant scene, ask:
 1. **Ch 1–2:** make Pelangi Reach and its people desirable without depending on cosmology.
 2. **Ch 3–5:** make pursuit escalate causally; add a hard deadline only if the world produces one.
 3. **Ch 8:** give Wren and Asha immediate objectives and consequences that remain meaningful without Eli.
-4. **Vol II Ch 17:** dramatize replacement fear through conduct rather than a thesis line.
+4. **Vol II, chapter TBD** (previously cited as "Ch 17," beyond the current ten-chapter Book II spine — see `19_romance_and_divine_pairing.md` for the consolidated flag): dramatize replacement fear through conduct rather than a thesis line.
 5. **Opening movement:** remove topical labels and test whether readers care, understand the immediate danger, and want the next chapter.
 
 ---

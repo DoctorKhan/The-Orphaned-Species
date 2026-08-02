@@ -502,7 +502,7 @@ He gets up. The stillness gets up with him. And the stones, the old patient coun
 
 ---
 
-*[Pilgrimage chapter — plant-medicine threshold. **Placement LOCKED 2026-07-23: Book II Ch 6, Anglesey leg** — paired with Lovernios full-res at peat bog. Not Book I Thailand. Retain sensory/threshold material; adapt for Albion keeper context; strip v1 cosmology dump. Quarry only until Vol II draft.]*
+*[Pilgrimage chapter — plant-medicine threshold. **Placement LOCKED 2026-07-23; remapped 2026-08-01: Book II Ch 8, Anglesey threshold** — paired with Lovernios full-res at peat bog. Not Book I Thailand. Retain sensory/threshold material; adapt for Albion keeper context; strip v1 cosmology dump. Quarry only until Vol II draft.]*
 
 ## The Medicine
 

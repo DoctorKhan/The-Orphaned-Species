@@ -1,5 +1,7 @@
 # Chapters Eleven–Thirteen — decision record
 
+> **SUPERSEDED — 2026-08-01.** `58_sanxingdui_climax_lock.md` (LOCKED 2026-07-26) moves the Ch 11–13 climax from Göbekli to **Sanxingdui**; **nobody is captured** (Wren displaced, Qiao's clearance lost); **Professor Emrys does not exist** (`99_open_questions.md` §9). The decisions below — and the manuscript prose they fed — are retired-role quarry pending a Ch 11–13 rewrite pass to the Sanxingdui staging; preserved here for scene salvage only.
+
 > **File:** `DECISIONS_Chapters_Eleven_Thirteen.md` (renamed from `DRAFT_Chapter_Eleven_Thirteen.md` 2026-07-24). **Drafted directly into `manuscripts/I_The_Breach.md`.** Volume I complete. Flags for veto.
 > **Bangladesh off-page — LOCKED 2026-07-23:** village visit retired; Ch 11 carries lost home through Shireen's encrypted messages only.
 

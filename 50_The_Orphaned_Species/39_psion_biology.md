@@ -27,7 +27,7 @@ The cryptochrome sensor sitting in the pineal makes the long-canonical **"pineal
 
 When two oscillating systems couple, they **entrain** (sync). A psion broadcasting a powerful rhythmic frequency (amplified theta/gamma) at a baseline human drags the weaker brain into mirroring it — **inducing fear, calm, or suggestibility by biologically altering the target's brain state, not by speaking to it.**
 
-This is the mechanism under the book's whole thesis:
+This is the mechanism under the book's **kneel** posture—one part of the larger maturation thesis:
 - **Worship is partly *entrained*.** The god-kings broadcast awe and submission; "find a father, kneel" becomes literal neurology. The deceivable species is the *entrainable* species.
 - **The combat Block is entrainment-jamming**, and the **native-road counter is refusing to entrain** — holding your own frequency (the inner ring, Aru's stillness). Undeceivability = un-entrainability.
 - **Why suppress the masses:** an awakened human who holds their own coherence **can't be entrained**, and could jam the broadcast or entrain others. "You don't want the miners waking up" gets a mechanism.
@@ -92,10 +92,16 @@ Why no skeleton reads as "Nephilim": the edge is **subtle non-coding regulatory 
 
 **This is a great in-world rationale — but stated naively it is unfalsifiable special pleading** ("the method erases the evidence by design"). The mature, science-floor version converts it into a real prediction: re-analysis with **pangenome/graph-genome references or de novo assembly** of the candidate non-coding loci should *recover* signatures linear mapping discards. Killable, even topical. Logged as **`91_predictions_and_falsifiers.md` §1.4 [LIVE]**. Use the falsifiable form; never the naive one.
 
-## 7. Prose discipline
+## 7. Sleep-state reception — speculative lock 2026-08-01
 
-- **Never lectured.** This whole doc is Record-layer floor. In the novel it surfaces only as *felt* experience and as the thing **Emrys measures** — instruments register a signature, a metabolic crash, an entrainment, without explaining the mystery away.
+Sleep does not open a supernatural mailbox. In the fictional amplification model, reduced external sensory competition, altered thalamocortical gating, memory consolidation, interoceptive activity, and high associative processing make weak field-correlated material easier to register and much harder to source. The result is vivid compression: genuine external signal may be recombined with trauma, recent perception, bodily distress, expectation, and ordinary dream imagery. Recall strength is not evidence strength. No scan can read a dream's origin directly; corroboration must come from information the dreamer could not reasonably know, independent witnesses or instruments, and repeatable conditions. Hostile psions can also seed or bias dream material, so a dream is never admissible by itself as identity, guilt, consent, diagnosis, route authority, or civic command.
+
+Eli is unusually receptive during sleep, not biologically unique and not a separate magical class. Later research may connect his pattern to the communities remembered as the Last Dreamers, but this names an organized human practice, not a hereditary caste. The real scientific floor concerns sleep, perception, memory, and source-monitoring; field reception is the speculative addition.
+
+## 8. Prose discipline
+
+- **Never lectured.** This whole doc is Record-layer floor. In the novel it surfaces only as *felt* experience and as the thing **the Charkha's instruments measure** — instruments register a signature, a metabolic crash, an entrainment, without explaining the mystery away.
 - **Felt before mechanism.** The reader feels the entrainment (awe, dread, the inability to hold one's own mind) before anyone names theta/gamma. Effects before terminology.
 - **Somatic signatures are not activation.** Felt heat/tingling/pressure in Eli's palms is a **read**, not what Custodians track.
-- **Keep the speculative seam visible.** Where the science is real (electrocytes, cryptochrome, entrainment, reference bias) it can be cited as epigraph or in Emrys's mouth; where it's the tweak (amplified broadcast/read at distance), let it stay mystery, not assertion.
+- **Keep the speculative seam visible.** Where the science is real (electrocytes, cryptochrome, entrainment, reference bias) it can be cited as epigraph or in a scientist character's mouth (Rasel, Luo, Qiao); where it's the tweak (amplified broadcast/read at distance), let it stay mystery, not assertion.
 - **The biology never closes the mystery.** Per `91` §7, the maker never submits to measurement. The hardware predicts; the field behind it does not. Biology explains the antenna, never the signal.

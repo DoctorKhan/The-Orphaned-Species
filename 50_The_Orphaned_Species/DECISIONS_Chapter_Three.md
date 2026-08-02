@@ -1,5 +1,7 @@
 # Chapter Three — What Didn't Die
 
+> **SUPERSEDED — 2026-08-01.** **Professor Emrys does not exist** (`99_open_questions.md` §9, LOCKED 2026-07-27). The Emrys-dependent choices below (#4, #5) — and the corresponding manuscript prose — are retired-role quarry pending rework; Emrys does not "formalize," "endorse," or "withhold" anything on-page. Preserved for scene salvage only (Nura's grounding beat, the childhood-bond half-memory, and the "you have her hands" line may still be usable if reattributed).
+
 > **File:** `DECISIONS_Chapter_Three.md` (renamed from `DRAFT_Chapter_Three.md` 2026-07-24). **MERGED into `manuscripts/I_The_Breach.md` — the manuscript is governing.** This file retains the draft-choice flags as the decision record.
 
 ## Draft choices — flagged for veto

@@ -10,7 +10,7 @@ This is not a late superweapon, an escape from Earth's problems, a completed sta
 
 - instruments, mathematics, materials science, and public replication from the Tree of Knowledge;
 - living feedback, trained attention, and the anti-entropic medium from the Tree of Life;
-- former enemies accepting dependence without ownership;
+- former enemies accepting accountable dependence without surrendering judgment;
 - humanity answering the old war-in-heaven pattern differently.
 
 The gods sabotaged the orbital/interface system, won their generational war, and stranded themselves on Earth. Humanity reaches an analogous threshold and refuses sabotage. Its road back into space begins only when opposed civilizations build together.
@@ -23,7 +23,7 @@ During the Continental Union sequence in Book III, Eli and Emrys are shown a com
 - vacuum experiments that appear to exchange momentum with no local reaction mass;
 - gravitational and timing anomalies at charged grounds;
 - sensor records from the damaged ancient orbital/interface system;
-- correlated field and biological data inherited from Maren, Crane, Emrys, and earlier consciousness programs;
+- correlated field and biological data inherited from Maren, Lang, Emrys, and earlier consciousness programs;
 - failed resonant-lattice prototypes whose effects vanish when researchers force a fixed waveform.
 
 The Union team has most of the mathematical structure but treats the living component as noise, contamination, or an operator effect to be eliminated. Eli recognizes the missing relationship: stable coupling is not a fixed command imposed on the field. It is a continuous feedback process in which the lattice must detect, answer, and re-balance against the larger field.

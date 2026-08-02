@@ -24,7 +24,7 @@
 
 ## The four layers (shallow → deep)
 
-1. **The mother's gift / the half he didn't choose.** Inherited carrier receptivity — **somatic read** through palms and nerves. Emrys: *"You have her hands."* Involuntary half vs. father's garden craft (`99` #1). Eli'd trade the gift for his father's plain green thumb — the garden fails because he **reads wrong or reads noise**, not because heat doesn't grow tomatoes.
+1. **The mother's gift / the half he didn't choose.** Inherited carrier receptivity — **somatic read** through palms and nerves. Rasel, post-Sanxingdui reunion: *"You have her hands."* (Retimed 2026-08-01 — the line's earlier Ch 1–4 delivery belonged to the retired Emrys; `99` §9.) Involuntary half vs. father's garden craft (`99` #1). Eli'd trade the gift for his father's plain green thumb — the garden fails because he **reads wrong or reads noise**, not because heat doesn't grow tomatoes.
 
 2. **His tell — findable before he understands.** Mixed idle signatures + surge certainty. **Activation** (breach, charged grounds) = grid flare — not "they track his warm hands."
 

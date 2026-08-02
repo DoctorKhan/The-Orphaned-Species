@@ -90,7 +90,7 @@ The one carrier that belongs to the *cage*, not the archive's liberating thread 
 | The arrival | 3 | The Sintashta banner: the same shape, *rotated, armed* — the chariot-wheel | conquest, axis, hammer; the wheel turned into an axle |
 | Across eras | — | Recurs on a Göbekli temple lintel, a Bronze Age helmet, and a flag in the final chapter | the same form carrying conquest wherever the cage hardens |
 | Cave-boy return | Local ch 17 | The granary's sun-wheel still faintly visible on a foundation stone; Aedan sits on it to sing | the cycle outlasts the conquest that rotated it |
-| Present trunk | Crane's institutions / modern flags / ground-security | The same wheel-logic appears as credentials, surveillance loops, roads, screens, committees, and extraction systems | the old axle has become procedure |
+| Present trunk | Lang's institutions / modern flags / ground-security | The same wheel-logic appears as credentials, surveillance loops, roads, screens, committees, and extraction systems | the old axle has become procedure |
 
 **Arc:** sun/cycle → axle/conquest → state emblem → endures under the singer. **Craft note:** this is the carrier that lets temperature and shape do the editorializing so the prose never has to say "Igigi" out loud.
 

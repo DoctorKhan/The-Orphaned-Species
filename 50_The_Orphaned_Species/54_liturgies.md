@@ -14,7 +14,7 @@ That is not cynicism dressed as wisdom. It is **shared disillusionment that turn
 
 **Not knowing is okay.** *I alone don't know* is not failure; it is the honest floor the capture side cannot register or sell. It pairs with *Let's test it* and teahouse inquiry — you do not need certainty to stay kind, to eat, to walk the next mile.
 
-**The scientific method is structured not-knowing.** Hypothesis, test, revision, peer check — Knowledge functioning correctly (`22`, `33` Tree of Knowledge in practice). The capture side sells **answers** (registry, prophecy, sync, throne). The federation spreads **procedures that stay open**: preregister, measure, publish nulls, let the room find its way. Tao 65 and Emrys's *provisional* are the same gesture at different scales.
+**The scientific method is structured not-knowing.** Hypothesis, test, revision, peer check — Knowledge functioning correctly (`22`, `33` Tree of Knowledge in practice). The capture side sells **answers** (registry, prophecy, sync, throne). The federation spreads **procedures that stay open**: preregister, measure, publish nulls, let the room find its way. Tao 65 and *provisional* empiricism are the same gesture at different scales.
 
 **Life remains an adventure.** Disillusionment is not despair. Once the false parade-meaning drops, what is left is not nothing — it is **the living road**: drift like a wave, blow like wind, fed by the Mother rather than the spectacle. The orphaned species is not abandoned; it is **people who stopped kneeling to manufactured purpose and found each other on the threshold anyway**. Adventure is what happens when you do not require the crowd's script to authorize the next step.
 
@@ -47,7 +47,7 @@ Same unbranded household curriculum. Verses drip alone; liturgies assemble when 
 
 **Not this:** Cherry Cube chant, healing-pilgrim media, Sol's rally, broken-church drained end, Deiwos chalk as crown.
 
-**Thematic job:** after the **palace** fails, the **circle** still works. Bronze Age Collapse rhyme (`32` Ch 5): centralized systems brittle; local skill, memory, food, and **sitting together** persist. Seeds Book III teahouse and men's cloisters — **found here**, not invented at the crown release.
+**Thematic job:** after the **palace** fails, the **circle** still works. Bronze Age Collapse rhyme (`32` Ch 6 Pömmelte): centralized systems brittle; local skill, memory, food, and **sitting together** persist. Seeds Book III teahouse and men's cloisters — **found here**, not invented at the crown release.
 
 **Khun Dang rhyme (Book I → II):** Eli hears four chords again in Europe and remembers the lodge — *cook after, play after* — without anyone explaining the lineage.
 
@@ -57,7 +57,7 @@ Same unbranded household curriculum. Verses drip alone; liturgies assemble when 
 
 | Ch | After what | Scene |
 |---|---|---|
-| **5** | **Pömmelte** + Bronze Age collapse residue (burned admin, displaced families) | Weaver **threshold house** or camp edge: circle around cook-fire; refugee or keeper with **guitar**; local song + one traveler song; Eli remembers Khun Dang; Wren watches without operational speech — **primary hearth circle** |
+| **5** | **Pömmelte / Ch 6** + Bronze Age collapse residue (burned admin, displaced families) + **corridor break** | Weaver **threshold house** or camp edge: circle around cook-fire; refugee or keeper with **guitar**; local song + one traveler song; Eli remembers Khun Dang; Wren watches without operational speech — **primary hearth circle**; *in the flow* first spoken when maps/pins lie |
 | **6** (optional, quieter) | **Anthea** killed; Rollright grief | Smaller circle — voice and fire only, or borrowed guitar; grief without sermon; pairs Wren/Rowan ordinary work beat |
 | **2** (optional, light) | Westward corridor strain | Campfire fragment only — one song, no circle named |
 
@@ -75,7 +75,7 @@ Book I = damaged but functioning reopening (`23`). Book II–III = **cascade of 
 
 | Collapse | Volume | Scope | What breaks | Phrase / rhythm |
 |---|---|---|---|---|
-| **The corridor break** | **II** Ch 4–5 | Regional — Albion approach corridor | Routes, registry traps, checkpoints, maps | **First spoken** — *in the flow* |
+| **The corridor break** | **II** Ch 6 | Regional — Albion approach / west-corridor (Pömmelte stretch) | Routes, registry traps, checkpoints, maps | **First spoken** — *in the flow* |
 | **England ambush / instrumented boundary** | **II** Ch 9 | Albion transmission-station seizure | Station routes, artifact provenance, fixed extraction windows | Rhythm: crossing windows, keeper handoffs |
 | **Awakening War ignition** | **III** Ch 4 | Multi-front — SF + Pacific | Registry seizure, ports, comms | Phrase **spreads** |
 | **Distributed evac** | **III** Ch 4–5 | Diaspora corridors | City coordination, fixed shelters | Convoy/meal rhythms multiply |
@@ -119,10 +119,10 @@ Book I = damaged but functioning reopening (`23`). Book II–III = **cascade of 
 | Volume | Collapses (stack) | On-page | Job |
 |---|---|---|---|
 | **I** | None — reopening holds | **Absent** | Addresses, chits, Wren routes still work |
-| **II** | **Multiple** — corridor break (Ch 4–5) + west-corridor fractures (Ch 6–7) | **Phrase born; rhythms stack** | First *in the flow* after corridor break; repeated handoffs add patterns |
+| **II** | **Multiple** — corridor break (**Ch 6**) + west-corridor fractures (Ch 7–8) | **Phrase born; rhythms stack** | First *in the flow* at Ch 6 hearth/break; repeated handoffs add patterns |
 | **III** | **Multiple** — Awakening War + evac + holding actions + teahouse under war | **Phrase wide** | Cross-bloc default; each front adds its own rhythm |
 
-**Book II:** corridor break Ch 4→5 (first phrase) → Ch 6–7 handoffs deepen habit → optional grief hearth after Anthea. **Book III:** each war beat adds a rendezvous rhythm — do not rely on one collapse to carry the phrase.
+**Book II:** corridor break **Ch 6** (first phrase + primary hearth) → Ch 7–8 handoffs deepen habit → optional grief hearth after Anthea. **Book III:** each war beat adds a rendezvous rhythm — do not rely on one collapse to carry the phrase.
 
 ### Anti-monotony — when to deploy (LOCKED 2026-07-26)
 
@@ -150,7 +150,7 @@ Book I = damaged but functioning reopening (`23`). Book II–III = **cascade of 
 
 | Volume | Spoken *in the flow* | Rhythm without phrase |
 |---|---|---|
-| **II** | **2–3 times** total (first = Ch 5 weight; 1–2 later handoffs) | Often — convoy, pot, song hour **shown** |
+| **II** | **2–3 times** total (first = **Ch 6** weight; 1–2 later handoffs) | Often — convoy, pot, song hour **shown** |
 | **III** | **3–5 times** across war arc — not every evac scene | Most corridors: behavior only |
 
 **Make it challenging (dramatize cost):**
@@ -170,25 +170,25 @@ Book I = damaged but functioning reopening (`23`). Book II–III = **cascade of 
 
 **Street:** *the corridor break*, *the Break* (when context is clear).
 
-**What it is:** a **present-day regional fracture** — not the Hinge, not global war — when the **Albion approach / west European transfer corridor** stops behaving like a map. Book II Ch 4–5.
+**What it is:** a **present-day regional fracture** — not the Hinge, not global war — when the **Albion approach / west European transfer corridor** stops behaving like a map. Book II **Ch 6** (Pömmelte / Extra settlement stretch — remapped from older Ch 4–5 pins onto the ten-chapter spine).
 
 **Causes (stack — show through pressure, not lecture):**
 
 | Layer | On-page texture |
 |---|---|
 | **National psion war** | Policy, conscription, asylum denials, contractor corridors (`38`; Book II Ch 1+) |
-| **Dead zones + broken lines** | Charts blank; detours; grounds answer inconsistently (Ch 4–5) |
-| **Registry trap** | Mapped Weaver route becomes capture geometry — Wren **burns** it (Ch 5) |
+| **Dead zones + broken lines** | Charts blank; detours; grounds answer inconsistently (**Ch 6**) |
+| **Registry trap** | Mapped Weaver route becomes capture geometry — Wren **burns** it (**Ch 6**) |
 | **Custodian pursuit** | Hassan transfer; rival teams; carrier-ownership claims |
 | **Institutional brittleness** | Checkpoints disagree; one crossing opens by closing another |
 
-**What breaks:** fixed addresses, scheduled meetups, registry pins, central corridor clocks, trust in Emrys's absent charts. **What persists:** threshold houses, keeper hours, convoy habits, meal pots, song — **emergent rhythms**.
+**What breaks:** fixed addresses, scheduled meetups, registry pins, central corridor clocks, trust in old expert charts. **What persists:** threshold houses, keeper hours, convoy habits, meal pots, song — **emergent rhythms**.
 
 **Rhyme:** Bronze Age collapse layer at Pömmelte (historical) **over** present corridor break (now) — palace fails; circle and flow survive.
 
 **Phrase birth:** *I'll meet you in the flow* **first spoken here** (corridor break / hearth circle) — but the **world keeps building rhythms** through **later collapses** in Book II–III. Not a one-time invention; a **pattern that spreads** as maps keep failing.
 
-**Cross-refs:** `32` Ch 4–5; `56` escalation timeline; `40` § *The Hinge* register table.
+**Cross-refs:** `32` Ch 6; `56` escalation timeline; `40` § *The Hinge* register table.
 
 ---
 
@@ -305,9 +305,9 @@ Novel beats reference **F1–F10**, not the full liturgy.
 | **8** | Night raid, registry fax | F7 — Malai after apparatus notices the band | beatsheet |
 | **9** | Pak Din boat, war approaching | F4 — boatman's drift saying | **ON PAGE** |
 | **10** | Field fight, Eli's command failure | — (dramatize cost; no fragment — silence earns Ch 13) | — |
-| **11** | Gulf archive | F7 — curator after narrowing genealogies (*dull* next to Emrys's slip) | beatsheet |
+| **11** | Gulf archive | F7 — curator after narrowing genealogies | beatsheet |
 | **12** | — | — | — |
-| **13** | Emrys taken, westbound | F9 — scratched on ferry gunwale or sailor's reply | **ON PAGE** |
+| **13** | Rasel recovered; Wren displaced, westbound | F9 — scratched on ferry gunwale or sailor's reply | **ON PAGE** |
 
 **Vol I reader effect:** six or seven stray lines; one accidental call-and-response at the Cube. Eli thinks people are eccentric. The reader starts to pattern-match.
 
@@ -336,7 +336,7 @@ Novel beats reference **F1–F10**, not the full liturgy.
 |---|---|---|---|
 | **1–2** | Pelangi refugee landing | F1 — harbor worker under welcome parade | beatsheet |
 | **3** | Freedom failed | F2 — survivor or Eli, flat face after harm | beatsheet |
-| **4–5** | Crane standard, Lincoln movement | Voice lines only — crowd purpose; **no** congregational answer yet | beatsheet |
+| **4–5** | Lang standard, Lincoln movement | Voice lines only — crowd purpose; **no** congregational answer yet | beatsheet |
 | **6–8** | Throne, war, bounded crown | F8 — Eli at compact (*I alone don't know* as honest limit) | beatsheet |
 | **9** | Public inquiry | Eli **speaks F8 as testimony** — first time he uses the language himself; room answers one line with him | beatsheet |
 | **7 or 9** | Hawaiʻi cloister / post-hearing meal | **Partial assembly** — first two stanzas only; elders stop before wind lines; adventure still open | beatsheet |
@@ -362,7 +362,7 @@ The ending runs **two teachings**, one personal and one civic. Both refuse the p
 
 | Beat | Deploy |
 |---|---|
-| Temporary crown, coercion temptation | **Contrast only** — Crane/Sol = govern through cleverness and sync; Eli's hard no enacts Tao 65 without naming it |
+| Temporary crown, coercion temptation | **Contrast only** — Lang/Sol = govern through cleverness and sync; Eli's hard no enacts Tao 65 without naming it |
 | Authority expires (Ch 8 end) | Optional **host rule** on a Hawaiʻi threshold wall: *Do not be clever at the threshold.* |
 | Partial Parade assembly | **Not here** — messiah pressure still peaking; save full forms for Ch 10 |
 
@@ -395,9 +395,9 @@ The ending runs **two teachings**, one personal and one civic. Both refuse the p
 |---|---|
 | Field-sail proof | **Institutional not-knowing** — preregistered test, independent replication, published uncertainty; ship **years away** (adventure continues) |
 | Teahouse protocol | Observation sealed before discussion; *Let's test it* as daily law |
-| Eli at threshold | Does not oracle — asks what the visitor **observed**; same move as Emrys's numbers, without the lecture |
+| Eli at threshold | Does not oracle — asks what the visitor **observed**; numbers-first instinct, without the lecture |
 
-**Anti-pattern:** Crane's registry and Sol's prophecy = **clever answers that close the room**. Science and Tao 65 = **keep the room open**.
+**Anti-pattern:** Lang's registry and Sol's prophecy = **clever answers that close the room**. Science and Tao 65 = **keep the room open**.
 
 ---
 
@@ -413,7 +413,7 @@ The ending runs **two teachings**, one personal and one civic. Both refuse the p
 | **Somchai** | F5, F6 (hard no) | Body among bodies; rejects crown |
 | **Eli** | **Hears until Ch 9; speaks F8 at inquiry; silent at full service** | Arc: alone → discovers shared → does not lead |
 | **Wren, Rowan, Mei** | voice lines only if ever | Operational; not liturgy carriers |
-| **Sol, Crane, consortium** | **parade only** — never *I alone* | Capture-side grammar |
+| **Sol, Lang, consortium** | **parade only** — never *I alone* | Capture-side grammar |
 
 ---
 

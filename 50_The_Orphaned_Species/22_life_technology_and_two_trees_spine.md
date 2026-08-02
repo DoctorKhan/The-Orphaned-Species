@@ -245,7 +245,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 **Knowledge beats (minimum):**
 
 - Three Circles vision as first **test**, not doctrine; the physical Tablet may enter later if the open archive placement earns it;
-- Emrys: signature measurable, meaning withheld;
+- the Charkha's grid: signature measurable, meaning withheld;
 - the Rootbook's name and foot/step correspondences as bounded, correctable research rather than maternal revelation;
 - registry/psion war as **Knowledge-only** control surface;
 - Mesopotamian records and Göbekli measurements produce a partial selection/control hypothesis, not the family or civilization synthesis.
@@ -293,6 +293,20 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 **Reader end state:** *We do not need the extractive machine; we do need one another, evidence, limits, practice, and institutions capable of correction — Life and Knowledge checking each other through accountable people.*
 
+### Volume IV continuation — Costa Rica's grown corridor
+
+Book IV prevents the Two Trees from remaining a completed Book III idea. The
+Costa Rican route makes them ordinary infrastructure. Living trees cool,
+infiltrate, stabilize, feed, shelter, and connect; growers, hydrologists,
+ecologists, councils, and public measurements determine what those effects can
+actually support. Psionic sensitivity may generate an early warning, never a
+land-use command. The split-Tree failures are equally concrete: Continuity
+turns canopy into a sensor and allocation surface; markets turn different
+living stands into exchangeable credits; spiritual rhetoric treats rootedness
+as consent to political merger. The joined form is a locally governed decision
+that can cut, plant, admit, refuse, measure, and revise without declaring either
+forest or model sacred.
+
 ---
 
 ## What counts as a discovery beat
@@ -304,7 +318,7 @@ A chapter **counts** toward this spine if it includes at least one of:
 3. **Contested object** — artifact, charged ground, tablet, crop pattern — fought over because it **does something**.
 4. **Wrong name** — faction or character confidently mislabels a Life effect as registry/prophecy, or a Knowledge tool as mere control.
 5. **Split exposed** — scene shows Knowledge used to **bar, sell, or manage** Life, or Life offered **without** consent/test.
-6. **Joining gesture** — someone pairs accountability with care (healer's limit; Wren's harbor discipline; Emrys's measure after contact).
+6. **Joining gesture** — someone pairs accountability with care (healer's limit; Wren's harbor discipline; Rasel's measure after contact).
 
 If a chapter only explains cosmology without effect, practice, object, or cost — **delay or rewrite**.
 
@@ -327,7 +341,7 @@ Prefer **images before terms**: bread refused, bridge barred, circles, fork, sto
 - Do **not** save all life technology for Göbekli or Albion.
 - Do **not** make the amplifier the "true" life tech — it is **extractive interface**.
 - Do **not** reunify by abolishing Knowledge (anti-science mysticism) or abolishing Life (registry forever).
-- Do **not** let Eli become the sole bearer of reunification — healer, Wren, Emrys, communities, and Seven threads **distribute** both Trees.
+- Do **not** let Eli become the sole bearer of reunification — healer, Wren, Rasel, communities, and Seven threads **distribute** both Trees.
 - Do **not** confuse reunification with universal awakening or grid seizure — end state is **coexistence + practice + standards**, fire catching.
 - Do **not** end on cosmology alone — end on **ordinary life** that demonstrates the union.
 
@@ -372,9 +386,9 @@ Not soul-harvest necromancy — the **same clock** Adapa trusted when he heard *
 ### Guardrails for the power-up
 
 - **Temporary.** After the act, Eli returns to **human scale** — not permanent two-Tree extraction appetite.
-- **Collective.** Wren, healer, Emrys, stones, coalition — held together, not solo transformation.
+- **Collective.** Wren, healer, Rasel, stones, coalition — held together, not solo transformation.
 - **Costly.** Bodily crash, grief (mother gone for good), coherence spent.
-- **Not the throne.** Crane's offer weaponizes the same join **forever** — registry + harvest. Eli's version is **union without ownership**.
+- **Not the throne.** Lang's offer weaponizes the same join **forever** — registry + harvest. Eli's version is **union without ownership**.
 - **Distributed ending.** Others carry practices forward.
 
 Drafting: psi-plane POV — Life warmth + measured line/geometry **closing once**, then **opening into release**.

@@ -40,7 +40,7 @@ Eli wants **a place where he can remain: known without being classified, loved w
   Maren's trail, but emotionally he wants proof that he was not abandoned.
   Sanxingdui gives him Rasel alive and implicated, not an answer grand enough to
   erase the abandonment. He chooses a living, difficult father over a clean origin
-  story and loses Emrys in the extraction.
+  story; nobody is captured, but the cost lands on Wren and Qiao instead.
 - **Book II — recover the family he lost:** he wants Maren back, another hour with her, and an innocent explanation of her choices. The reunion must be real and mutually desired. He releases her because continuing to keep her would turn love into possession and prolong the machinery consuming others.
 - **Book III — prevent anyone else from losing home:** personal grief expands into the wish to build protection large enough to prevent repetition. That wish is noble and dangerous: it can justify a civilization-engine that classifies, coordinates, and spends people in the name of keeping everyone safe. Eli learns to protect without promising an end to loss or making himself indispensable.
 
@@ -60,7 +60,7 @@ For other characters, the same rule applies: show what they maintain before show
 - The healer should be seen doing ordinary medicine, washing, triaging, refusing, and getting tired before miracle pressure gathers around him.
 - The Pai staff-twirler should be seen performing because play and beauty matter, not because the dragon image foreshadows a symbol.
 - The Pelangi Reach martial-arts teacher should open morning practice whether five people come or no one does.
-- Crane should believe fear is the only honest political force before he becomes an antagonist label.
+- Lang should believe fear is the only honest political force before he becomes an antagonist label.
 
 Readers attach when a character has a life before the plot eats it.
 
@@ -77,8 +77,7 @@ Possible anchors:
 | Healer | Washes his hands too long; checks on patients after hours; falls asleep at meals; says no before he can explain why. |
 | Pai staff-twirler | Jokes when frightened; keeps practicing even after humiliation; performs because beauty is not optional during crisis. |
 | Pelangi Reach teacher | Begins morning training on time; corrects footwork before philosophy; treats restraint as a skill. |
-| Emrys | Overtrusts maps, notes, and old systems; reorganizes evidence when afraid; fears meaninglessness more than danger. |
-| Crane | Reduces fear to policy; interprets every unregulated bond as a future disaster. |
+| Lang | Reduces fear to policy; interprets every unregulated bond as a future disaster. |
 
 These anchors should recur under changed pressure. Familiarity creates attachment; changed context creates development.
 
@@ -89,9 +88,8 @@ Perfect characters are hard to love. Give each major character mistakes that ari
 - Eli hides information because he fears belonging will be revoked.
 - Wren controls situations because she has seen unregulated power destroy people.
 - The healer refuses public worship but may also refuse intimacy.
-- Emrys overtrusts maps, texts, and old systems because he fears meaningless suffering.
 - The Pai staff-twirler treats danger as theater until theater fails to protect someone.
-- Crane's best argument is that frightened societies really do hurt people when power is unaccountable.
+- Lang's best argument is that frightened societies really do hurt people when power is unaccountable.
 
 Readers care when flaws create consequences and when the flaw is human before it is thematic.
 
@@ -146,7 +144,7 @@ Specific losses can include:
 - the boat Eli learned on;
 - the kitchen where people stopped treating him as a guest;
 - the healer's right to eat one meal in peace;
-- Wren's chance to save someone without becoming Crane;
+- Wren's chance to save someone without becoming Lang;
 - the staff-twirler's ability to perform without being called an omen;
 - a child, patient, coworker, teacher, neighbor, field, route, or room the reader has already inhabited.
 

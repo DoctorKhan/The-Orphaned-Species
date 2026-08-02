@@ -37,7 +37,7 @@ The series uses **Eli-dominant limited multiple viewpoint** (Books I–III), not
 
 - **Eli is the home consciousness and narrative trunk.** Book I is overwhelmingly Eli; later books widen modestly while keeping him the clear majority lens. Treat the assigned away movements below as a budget, not a quota to fill or a percentage to game.
 - **The only recurring interior lenses are Eli, Wren, and Somchai.** Wren carries rare scenes of operational choice, consent, network cost, and community consequence that Eli cannot witness. Somchai carries rare scenes of bodily autonomy, healing, and declining deification that cannot belong honestly to Eli.
-- **Do not add regular viewpoint access for Crane, Maren, Emrys, Sora, Sol, or other ensemble members.** Their opacity protects suspense, mystery, and interpretive pressure. A new interior lens would require an explicit architecture revision, not a local drafting convenience.
+- **Do not add regular viewpoint access for Lang, Maren, Sora, Sol, or other ensemble members.** Their opacity protects suspense, mystery, and interpretive pressure. A new interior lens would require an explicit architecture revision, not a local drafting convenience.
 - **One scene, one viewpoint.** Never move between minds inside a continuous scene. A chapter may contain more than one viewpoint only across a hard section break, with the new lens established immediately through character-specific attention.
 - **Ensemble describes cast, not viewpoint.** Every crowd, battle, council, or collective-action scene still has one governing consciousness.
 - **Keep thematic chapter titles.** Do not label chapters by viewpoint character; rare away movements should not promise a rotating-cast structure.
@@ -53,7 +53,7 @@ Before leaving Eli, test the proposed scene:
 
 An away scene should normally pass at least four of the five tests. Information Eli lacks is not, by itself, a reason to switch.
 
-**Locked deployment:** Book I is Eli except for Wren's Chapter 8 Laleh-extraction opening, followed by a hard break back to Eli. Book II uses Somchai for the Chapter 15 independent-clue opening and the Somchai-led Chapter 19 healing/hard-no movement; it uses Wren for the Chapter 20 route/network-cost opening. Each returns to Eli across a hard break where the chapter continues; Maren's truth and Emrys's capture remain Eli. Book III gives Somchai the bodily-crown limit and Wren the distributed-network convergence; Eli carries the tether, release, and final coda. If chapter numbering changes during the locked rebuild, preserve these dramatic assignments rather than the numbers themselves.
+**Locked deployment:** Book I is Eli except for Wren's Chapter 8 Laleh-extraction opening, followed by a hard break back to Eli. Book II uses Somchai for the Chapter 15 independent-clue opening and the Somchai-led Chapter 19 healing/hard-no movement; it uses Wren for the Chapter 20 route/network-cost opening. Each returns to Eli across a hard break where the chapter continues; Maren's truth and the Sanxingdui climax remain Eli. Book III gives Somchai the bodily-crown limit and Wren the distributed-network convergence; Eli carries the tether, release, and final coda. If chapter numbering changes during the locked rebuild, preserve these dramatic assignments rather than the numbers themselves.
 
 Default prose is:
 
@@ -71,7 +71,7 @@ Mostly external does not mean emotionally remote. Emotion appears through attent
 
 Beauty is not ornamental language. A beautiful passage makes sound, rhythm, image, and implication alter the reader's experience of the event. It compresses more than it explains, gives the reader room to participate, and makes a surprising perception feel inevitable after it lands. Poetry does not announce grief; it notices the cup still set out for the person who is gone. If a sentence only sounds elevated, it is decoration.
 
-The narrative engine is **desire under pressure**, not information delivery. Desire is attention leaning toward an absence: home, recognition, bodily peace, a mother, another hour, safety without ownership, a future without repeated loss. Mystery asks what happened; desire makes the answer necessary. Suspense is desire delayed, conflict is one defensible desire obstructing another, character is what someone will spend for desire, and tragedy is discovering that the desired thing cannot be possessed without damaging it.
+The narrative engine is **desire under pressure**, not information delivery. Desire is attention leaning toward an absence: home, recognition, bodily peace, a mother, another hour, useful power without compulsory purpose, a future that does not repeat the makers' failures. Mystery asks what happened; desire makes the answer necessary. Suspense is desire delayed, conflict is one defensible desire obstructing another, character is what someone will spend for desire, and tragedy is discovering that getting the desired thing may destroy the reason it was wanted.
 
 Use the Shakespearean dramatic rule without imitating Shakespearean diction: serious characters must exceed the thesis. Each holds part of the truth, wants contradictory things, and can speak persuasively enough to justify themselves; conduct and cost reveal what their language conceals. Join high and low registers—history with appetite, metaphysics with jokes, public catastrophe with bodily inconvenience. No single character, including Eli, is allowed to understand the whole play.
 
@@ -160,7 +160,7 @@ Borrow the *Silo* lesson without borrowing the dystopia: **the place is a plot e
 2. **Class and truth as altitude** — up/down (or surface/Thread, bund/dead field, tourist path/sealed door) is who eats, who knows, who is watched. Force Eli’s body through the grade change.
 3. **Lived systems before lore** — how the place *runs* (tongs, wage tickets, gantries, sluices, backfill clocks) before what it *means*.
 4. **Wonder + dread in the same room** — wonder before ambush (`55` §8). Awe that can turn poisonous.
-5. **Revisit changed** — Pelangi return (Vol III); Meridian as memory/scar; Göbekli after Emrys taken.
+5. **Revisit changed** — Pelangi return (Vol III); Meridian as memory/scar; Sanxingdui after Rasel's recovery.
 
 **Craft rule — each major location gets all four:**
 
@@ -221,11 +221,11 @@ Eli's **close-third narration** changes across the series in sync with emotional
 
 **Wren's function (all volumes):** not therapist-in-dialogue. She helps him with his feelings **from first contact (Vol I Ch 1–2)** by refusing fake names for real needs, taking perceptions seriously, arguing as an equal, and not filling silences (`27` proof rule). Do not defer emotional recognition to Thailand or Göbekli. **Craft test:** in major Eli/Wren chapters, at least one named feeling moves disguised → acknowledged, and prose register shifts accordingly — **including catamaran and checkpoint scenes.** Cross-ref: `19` § *Personal function*; `31` personal arc lock.
 
-Do not reduce antagonists to embodiments of ideas. Crane must save lives, coercive systems must answer real dangers, and liberatory factions must offer something genuinely desirable. Moral clarity should emerge from costs and choices, not authorial labeling.
+Do not reduce antagonists to embodiments of ideas. Lang must save lives, coercive systems must answer real dangers, and liberatory factions must offer something genuinely desirable. Moral clarity should emerge from costs and choices, not authorial labeling.
 
 ## Dialogue
 
-Dialogue should pursue an objective: obtain help, conceal fear, test loyalty, delay departure, establish authority, make contact, or refuse ownership. Characters rarely say the whole thing they mean.
+Dialogue should pursue an objective: obtain help, conceal fear, test loyalty, delay departure, establish authority, make contact, resist an assigned role, or set a boundary. Characters rarely say the whole thing they mean.
 
 - Keep voices distinct through priorities, rhythm, vocabulary, and avoidance—not phonetic spelling.
 - **Pelangi Reach contrast — LOCKED 2026-07-25:** **Babaji** = educated, analytical register (jurisdictions, corridors, compression; Srinivasan Balaji model). **Suresh** = harbor slang and wager bluntness. **Mei** = kitchen quiet and scolding love. **Wren** = composed, soft-spoken hostess register (airline / luxury hospitality; comfortable with rich clients). Same scene, four different rhythms.
@@ -274,7 +274,7 @@ Every scene should alter at least one of these:
 
 A reflective scene may be quiet, but it cannot be static. A meal can recruit an ally, expose a lie, make departure harder, or establish the ordinary future someone will later sacrifice.
 
-Pursuit should escalate by changing the problem, not merely adding more pursuers. Surveillance becomes identification; identification becomes restriction; restriction forces dependence; dependence invites ownership.
+Pursuit should escalate by changing the problem, not merely adding more pursuers. Surveillance becomes identification; identification becomes restriction; restriction forces dependence; dependence lets another person or institution assign the terms of survival.
 
 ## Violence, psi, and bodily stakes
 
@@ -290,7 +290,7 @@ Keep the lovers capable of political, practical, and metaphysical disagreement. 
 
 ## Humor
 
-Humor keeps bodies and relationships alive under enormous stakes. Use dry observation, physical indignity, failed competence, local banter, and affection. Do not use jokes to cancel grief, mock sincere belief, or release tension before a consequence lands. See `24_comedic_register_slapstick.md` for Emrys and ensemble calibration.
+Humor keeps bodies and relationships alive under enormous stakes. Use dry observation, physical indignity, failed competence, local banter, and affection. Do not use jokes to cancel grief, mock sincere belief, or release tension before a consequence lands. See `24_comedic_register_slapstick.md` for ensemble calibration.
 
 ## Register by story layer
 
@@ -327,6 +327,43 @@ The existing rule above against "not X but Y" is necessary but not sufficient �
 
 Patterns 1, 2, and 5 are mechanically searchable during revision: scan drafts for comma chains of four or more items, for "not because" / "not X, but," and for sentences running long enough to need a second breath. Patterns 3 and 4 need an actual read-through, not a search.
 
+### Human-prose lock — LOCKED 2026-08-01
+
+The goal is not merely to avoid detectable templates. Prose must feel written by a particular consciousness with partial knowledge, private taste, and uneven attention.
+
+- **Let observation outrun interpretation.** When a wet sleeve, mistimed joke, wrong tool, untouched plate, or delayed answer carries the feeling, stop there. Do not add the sentence explaining what it represents.
+- **Allow residue.** People leave arguments half-understood, use the wrong word, notice irrelevant things, and remember details that do not organize themselves into theme. A scene need not close its conceptual account.
+- **Refuse automatic polish.** Do not give every paragraph a setup, reversal, and quotable landing. Do not make adjacent characters speak in equally compressed wisdom. An awkward, practical, or incomplete line is often more credible.
+- **Keep thought local.** Close narration may infer from what the viewpoint character knows now; it may not quietly become the author's essay voice. Replace abstract judgments with the next thing the body notices or does.
+- **Protect idiolect.** Eli notices load, timing, repairs, routes, bodily noise, and whether he is useful. Wren notices access, presentation, obligation, risk, and what a room is pretending. Somchai notices bodies, supplies, time, and the cost of delay. Rowan notices legitimacy, precedent, private leverage, and futures being arranged. If a sentence could move unchanged between their viewpoints, revise it.
+- **Do not manufacture humanity with clutter.** Random food, fragments, slang, and physical business are not a substitute for motive. Concrete detail belongs because this person would notice it and because it alters pressure, relation, or rhythm.
+- **Read aloud across page boundaries.** Repetition often hides between scenes: the same fragment cadence, the same “not X / because Y” correction, the same abstract noun, the same solemn final image. Keep an isolated strong sentence only if the surrounding pages have not already spent its music.
+
+Revision test: highlight every sentence that tells the reader what the previous sentence meant. Delete it first. Restore only the information the scene cannot function without, in the viewpoint character's own vocabulary.
+
+### One-character, one-handle rule — LOCKED 2026-08-01
+
+Give every recurring character **one stable reader-facing name**. A full identity may appear at the first introduction, on a legal record, or when a formal mode of address matters in the scene. After that, ordinary narration uses the chosen handle and does not casually alternate among first name, surname, title, nickname, and code name.
+
+| Full identity in the cast bible | Stable manuscript handle |
+|---|---|
+| Eli Holt | **Eli** |
+| Wren | **Wren** |
+| Rowan | **Rowan** |
+| Rasel Khan | **Rasel** |
+| Maren Holt | **Maren** |
+| Asha Raman | **Asha** |
+| Arun Subramaniam | **Babaji** |
+| Peter Lang | **Lang** |
+| Diego Méndez | **Sol** |
+| Anika Voss | **Anika** |
+| Sabine Novak | **Novak** |
+| Paul Henley | **Henley** |
+| Selin Aras | **Selin** |
+| Dana Morris | **Dana** |
+
+**Exceptions must carry information.** A surname on a credential, a full name read into testimony, *Doctor* in a formal hearing, or **Babu** in Rasel's intimate speech may remain because the register is doing story work. Do not use an exception merely to vary the prose. Planning tables may retain full identities for production clarity; reader-facing summaries and manuscript prose follow the stable handle after first mention.
+
 ### Opening-image discipline — LOCKED 2026-07-24
 
 Derived from the governing Ch 1 Timah/Jul pass. Apply to chapter opens, zero-significance plants, and any scene whose job is ordinary life before the breach.
@@ -360,7 +397,7 @@ Protect:
 - the maritime corridor as a source of plot, labor, culture, and atmosphere;
 - Eli's facilities skill, gardening failure, injury, and dependence on others;
 - Wren's independent wants, relationships, failures, pleasures, and boundaries;
-- Crane's serious public-safety case and sincere capacity for care;
+- Lang's serious public-safety case and sincere capacity for care;
 - evidence before terminology and experience before doctrine;
 - civic victories enacted by groups, rules, and conduct rather than proclaimed by heroes.
 

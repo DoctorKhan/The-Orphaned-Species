@@ -14,7 +14,7 @@
 
 | # | Role | Notes |
 |---|---|---|
-| **V** | Bridge — late civic | Post–IV present; same bodies; gear shows via tech |
+| **V** | Bridge — late civic | Post–IV present; same bodies later in life; neo-śramaṇas and youth flights; gear shows via tech |
 | **VI** | Past life 1 | Master Timeline; one archetype; standalone-capable |
 | **VII** | Past life 2 | Same |
 | **VIII** | Past life 3 | Same |
@@ -43,6 +43,13 @@ development. On the page it should feel like an **orchestra**:
 | **Conductor / Player** | Lucidity that arrives late — hearing the whole without abolishing the parts |
 | **Coda / creation** | Graduation: can write new music, not only play the training piece |
 
+**Correct worship — LOCKED 2026-08-01:** V–X owns the spiritual payoff Book III only
+diagnoses. Capture worship = serving phantom/absent gods (domestication remote
+collar). **Mature worship** = the **robot (ego / NPC autopilot) submitting to the
+Player (consciousness)** — Manual Override’s true inward hierarchy. I–IV may show
+override symptoms; do not sermonize ego→Player as liturgy before the Orchestra
+densifies it. `17` §9a; `40`; `SERIES_STRUCTURE.md`.
+
 **Rule:** no lifetime exists to illustrate a thesis. If a life cannot carry a novel
 without metaphysics, it is not ready. Metaphysics is what an attentive reader
 hears when enough parts have played.
@@ -50,6 +57,62 @@ hears when enough parts have played.
 **Cast guard (inherited):** Eli/Wren may open a bridge volume as the same people
 later in life. Across incarnations they are **not** an eternal destined couple.
 Later lives rhyme by **function and unfinished work**; recognition ≠ claim.
+
+## Book V bridge — the generation that leaves — LOCKED 2026-08-01
+
+Book V inherits the teahouse pilgrimage after it has become ordinary enough for
+a younger generation to change it. The first **neo-śramaṇas** are not a church
+or a single doctrine. They are wandering practitioners—workers, healers,
+veterans, former cloister residents, psions and nonpsions—who combine attention,
+voluntary simplicity, work-song, restraint, service, mourning, and inquiry.
+Some travel; some keep houses; none owns the path.
+
+Young people reorganize this wandering into seasonal mobile cohorts called
+**flights**. Outsiders may romanticize them as “bird tribes,” but the groups are
+not ethnic peoples or permanent clans. A flight chooses a temporary bird name
+from its route, season, behavior, or work: a Swift flight may carry repair
+parts quickly between mountain houses; a Tern flight may follow coastal
+harvests and clinics. Names expire or change when the group does.
+
+A flight can carry apprentices, harvest workers, athletes, musicians, medics,
+research witnesses, seed, tools, news, and songs between settlements. It is a
+peer affiliation across houses, not another house. The distinctions remain
+hard:
+
+- **animal house:** enduring intergenerational mentorship for maturation;
+- **neo-śramaṇa path:** a discipline of spiritual inquiry and service, open to
+  people who wander and people who remain;
+- **flight:** temporary, self-chosen movement with a practical route and an end.
+
+The healthy form must be able to **land**. Membership grants no civic identity,
+mate claim, spiritual rank, sanctuary access, or lifelong debt. People may
+leave, return home, change flights, travel alone, or stay in one place without
+being called less awake. Sponsors, wages, cargo, mentors, route risks, and exit
+conditions remain visible and appealable.
+
+The capture paths are plot, not footnotes: a flight can become a gang, cult,
+smuggling route, prestige club, disposable labor pool, sexual hierarchy, or
+psionic elite. A charismatic neo-śramaṇa can turn renunciation into obedience.
+Merchants can fund mobility and quietly own its destinations. Settlements can
+admire glamorous wanderers while devaluing the young who remain and keep daily
+life running.
+
+**Personal engine:** Tara's generation joins affiliations Eli, Rowan, and Wren
+did not design; Tara may join a flight. The adults who built a society in which
+children could leave must now live the difference between protection and
+possession. Eli may accept the principle and fear the particular route. Rowan
+may trust Tara and distrust a mentor. Wren may recognize every capture risk and
+still know that total surveillance would destroy the freedom being protected.
+Care requires a road home, not a leash.
+
+**Bridge function:** the young carry practices and instruments into places the
+founders cannot interpret for them. Their movement supplies the human network
+through which complex-time evidence begins to densify. The metaphysical plot
+therefore arrives through routes, bodies, tools, missing people, and contested
+observations—not through a neo-śramaṇa sermon.
+
+Governing line: **The parents built a society in which the young could leave.
+The young use that freedom to build a society their parents do not understand.**
 
 ## Direction preference — past lives through the Master Timeline (working 2026-07-31)
 

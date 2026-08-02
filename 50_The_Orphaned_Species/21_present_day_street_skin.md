@@ -1,6 +1,6 @@
 # Present-Day Street Skin — Near-Future Tone Instructions
 
-> **Status:** working craft guide. Use when drafting present-day legs (Pelangi Reach through Albion), pursuit scenes, faction pressure, and early cosmology reveals. Pair with `05_story_architecture.md` (structure), `17_reveal_order_and_reader_impact.md` (discovery order), `22_life_technology_and_two_trees_spine.md` (life-tech discovery throughout; reunification end state), `23_2040_present_frame.md` (author ~2040 assumption; what changed; never date on-page), `24_comedic_register_slapstick.md` (Emrys comedy), `26_present_day_cast_expanded.md` (cast flesh), `27_character_development_arcs.md` (volume arcs), `28_present_day_trilogy_craft_index.md` (craft hub), `31_volume_I_beatsheet.md` (Vol I), `38_psionic_combat.md` (combat register), and `34_two_energies_and_planes.md` (Two Trees cosmology). This doc controls **temperature and texture**, not canon facts.
+> **Status:** working craft guide. Use when drafting present-day legs (Pelangi Reach through Albion), pursuit scenes, faction pressure, and early cosmology reveals. Pair with `05_story_architecture.md` (structure), `17_reveal_order_and_reader_impact.md` (discovery order), `22_life_technology_and_two_trees_spine.md` (life-tech discovery throughout; reunification end state), `23_2040_present_frame.md` (author ~2040 assumption; what changed; never date on-page), `24_comedic_register_slapstick.md` (fellowship comedy — primary carrier open, see `24` NEEDS AUTHOR DECISION), `26_present_day_cast_expanded.md` (cast flesh), `27_character_development_arcs.md` (volume arcs), `28_present_day_trilogy_craft_index.md` (craft hub), `31_volume_I_beatsheet.md` (Vol I), `38_psionic_combat.md` (combat register), and `34_two_energies_and_planes.md` (Two Trees cosmology). This doc controls **temperature and texture**, not canon facts.
 
 ## Governing principle
 
@@ -66,7 +66,7 @@ Each corner should pitch Eli a **product**:
 
 | Corner | Street read |
 |---|---|
-| Crane / constructive control gone wrong | "Register or we can't protect civilians" — safety as ownership |
+| Lang / constructive control gone wrong | "Register or we can't protect civilians" — safety as permanent category and custody |
 | Prophecy / liberation faction | "Stop resisting; burn the registries; live bright" — charisma as chrome |
 | National psion programs | "Serve your bloc; we'll upgrade you" — patriotism as conscription |
 | Charkha / amplifier hunt | "One key, one grid, one ruler" — monopoly as immortality |
@@ -107,7 +107,7 @@ Each Seven descent should land as **historical proof** that native road works wi
 
 - Keep Pelangi Reach **warm, funny, populated** — robot dog, mall aunties, compound workers, terrace cafe, father's garden — the Lucy-shaped ordinary life.
 - Let leaving Pelangi Reach **hurt** the way leaving a small safe apartment hurts.
-- Show every "upgrade" offer as **tempting and partly true** — Crane is right about danger; prophecy is seductive; registry feels like care.
+- Show every "upgrade" offer as **tempting and partly true** — Lang is right about danger; prophecy is seductive; registry feels like care.
 - Name the Eden answer only at maturity: **Knowledge disciplined by life; life protected by knowledge** — not Knowledge replacing Life.
 
 ---
@@ -164,7 +164,7 @@ Vol II–III deepen the same skin:
 - Artifacts and stones increasingly read as **war prizes** before they read as sacred grammar.
 - Mother-thread and interface/key imagery stay **interface language** until Albion reframe.
 - Climax resolution remains **spreading fire**, not winning the psionic war — transcend the need for the machine.
-- **Romance:** Vol II tests care-as-control; Vol III pays off **chosen** intimacy after buildup — affection without ownership (`19_romance_and_divine_pairing.md` § Street romance register).
+- **Romance:** Vol II tests care-as-control; Vol III pays off **chosen** intimacy after buildup — affection between separate, changing adults (`19_romance_and_divine_pairing.md` § Street romance register).
 
 ---
 

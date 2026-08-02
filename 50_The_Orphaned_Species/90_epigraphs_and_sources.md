@@ -11,7 +11,7 @@ A living collection of real scientific papers, excerpts, and quotes that anchor 
 | Layer | Where | What | Reader effect |
 |---|---|---|---|
 | **1. Epigraph** | *Before* a chapter (blockquote, one quote max) | Verified author words only — `[VERBATIM TODO]` until pasted from PDF | Myth first; then the floor tilts under it |
-| **2. Prose** | Chapter body | **No** `(Zeberg 2020)`, **no** superscripts, **no** "studies show" unless a **character** says it (Emrys, a registry pamphlet, a harbor broadsheet) | Story stays story |
+| **2. Prose** | Chapter body | **No** `(Zeberg 2020)`, **no** superscripts, **no** "studies show" unless a **character** says it (Rasel, a registry pamphlet, a harbor broadsheet) | Story stays story |
 | **3. On the Record** | *After* a chapter, separated by `---` | 0–3 plain-language bullets + optional DOI; label in italics: *On the record* | Optional read for the curious; skippable without losing plot |
 
 **Rules:**
@@ -512,12 +512,12 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 **Why it matters to this book:** the honest, verifiable anchor under the trilogy's oldest cosmological move — **the gods who never went home**, the frozen throne, the lifeboat with a guest list. It lets the deep-time orphaning rhyme with a documented present-day structure, which is the science-fiction grounding the thesis depends on (`Thesis.md` § *Why science fiction*).
 
 **Honesty / craft flags for the author:**
-- **The real terms may appear on the page** — sited to the **Continental Union leg of Book III** (`33_volume_III_beatsheet.md` § *Continuity architecture*; `biological_countermeasures_in_world.md` § VI). This is diegetically clean because the **Continental Union is the successor polity to the United States** (`WORLD_BIBLE.md` §1a): FCD-1, COGCON, and Devolution are the Union's *inherited* institutions, so a 2040 relocated-capital official using them is realism, not anachronism. The government Eli negotiates with is *already devolved* — ruined Washington, relocated capital.
+- **The real terms may appear on the page** through Continental Union delegates, documents, secure feeds, and refugees during Book III's Brazilian leg (`33_volume_III_beatsheet.md` § *Continuity architecture*; `biological_countermeasures_in_world.md` § VI). This is diegetically clean because the **Continental Union is the successor polity to the United States** (`WORLD_BIBLE.md` §1a): FCD-1, COGCON, and Devolution are inherited institutions. The cast does not physically enter ruined Washington or a relocated capital after the 2026-08-01 geography lock.
 - **Structure, not partisanship** — attach no real 2020s administration or party; the Continentalist Party is post-collapse; these are inherited institutions.
 - Present it as an **administrative document / ordinary bureaucratic vocabulary**, never a briefing — a designation roster, a site manifest, names Eli knows *missing* from a survival list; one or two real terms, once or twice.
 - The AI-plus-bio "who pulls the plug" thread (six firms with more capability than the state) is the **recursion** (`Thesis.md`); one line of texture at most, not a subplot.
 
-**Suggested placement:** no epigraph. Surfaces on-page through the Book III Union leg — the relocated-government negotiation, the registry-as-intake / Devolution-as-exit sorting apparatus (Ch 4–5) — and, sub-surface, the Göbekli "safe reactivation by a consortium that already built its own warm sites" sharpening.
+**Suggested placement:** no epigraph. Surfaces on-page through remote Union pressure in Brazil—the registry-as-intake / Devolution-as-exit sorting apparatus (Ch 4–5)—and, sub-surface, the Göbekli "safe reactivation by a consortium that already built its own warm sites" sharpening.
 
 ---
 
@@ -617,16 +617,16 @@ Every later ranged weapon is a development along one line of thinking that begin
 
 ---
 
-## 10. Yerba Buena Gardens — Martin Luther King Jr. Memorial (*Revelation*, 1993)
+## 10. Yerba Buena Gardens — RETIRED BOOK III PHYSICAL STOP 2026-08-01
 
-*Anchor for **Book III Ch 4–5** civic passage (`33`, `05` § American sequence, `29` geographic lock). The memorial is already **LOCKED** as the moral bridge between constitutional structure and lived justice — Lincoln (extraordinary union-preserving power) vs King (unfinished obligation to make freedom real). This section documents the **actual site text and form** so prose can use the memorial honestly without becoming a quotation tour.*
+*Research quarry retained for possible Union feeds, archives, or later use. Under the Brazil → Hawaiʻi Book III lock, the cast does not visit Yerba Buena or Washington. The bounded compact now grows through Brazilian receiving, clinic, port, labor, neighborhood, Indigenous, municipal, and threshold practice—not through Eli interpreting an American memorial.*
 
 ### The site (Houston Conwill, Estella Conwill Majoza, Joseph De Pace)
 
 | Element | What it is | Dramatic use |
 |---|---|---|
 | **Waterfall** | 50′ × 20′ cascade from a 120,000-gallon reflecting pool; roar blocks city noise | Grief and negotiation can happen **inside** sound — registry arguments muffled; inward passage |
-| **Walk behind the falls** | Sheltered walkway under the cascade | Baptism/register without sermon; Eli enters wet air before Crane's dry paperwork |
+| **Walk behind the falls** | Sheltered walkway under the cascade | Baptism/register without sermon; Eli enters wet air before Lang's dry paperwork |
 | **Amos / water theme** | Rev. Amos Brown suggested water + Amos 5:24 to Conwill; justice as **flow**, not dam | Counter-rhyme to **registry dam**, Devolution roster, expendability tables |
 | **12 glass panels** | Etched civil-rights photos + speech excerpts; each quote in **13 sister-city languages** + Arabic + African dialects | Federation before federation — names in many tongues; Wren reads this faster than Eli |
 | **East granite** | Inscription from King's **1956 San Francisco speech** | Local anchor — justice spoken **here** before the Union recentralized |
@@ -663,24 +663,24 @@ Often rendered at the memorial in King's March on Washington register:
 **The causal chain (affirmative):**
 
 ```
-Pelangi harm (Ch 3) → Eli tempted by Crane's fast clock (one keyboard, one record)
+Pelangi harm (Ch 3) → Eli tempted by Lang's fast clock (one keyboard, one record)
     → Revelation: sees SF sanctuary practice + families in polyphonic public space
     → RECOGNIZES Pelangi Ch 2 voluntary intake as same architecture at civil-rights scale
-    → Proposes POLYPHONIC COMPACT to Crane: detection + conduct review + three accounts
+    → Proposes POLYPHONIC COMPACT to Lang: detection + conduct review + three accounts
         + many-voice coordination WITHOUT identity ownership
-    → Crane won't surrender registry pillar; federation ADOPTS the living form anyway (Ch 6)
+    → Lang won't surrender registry pillar; federation ADOPTS the living form anyway (Ch 6)
     → Ch 5: Eli asks Wren to solo what must stay chorus → she offers CONSENT-BOUND cooperation
     → Ch 8: force-sync = fast clock; Eli chooses SLOW CLOCK (voluntary coherence) — rhythm, not renunciation
 ```
 
 **The hinge beat (Ch 4 — dramatize, don't thesis):**
 
-1. **Arrival:** Eli carries guilt; Crane's folder promises the **fast clock** — one interoperable record, central command, immediate coherence.
+1. **Arrival:** Eli carries guilt; Lang's folder promises the **fast clock** — one interoperable record, central command, immediate coherence.
 2. **Convergence:** Wet passage — Amara, registry mother, stranger grief — **polyphonic public space**: names held **together**, not merged. Wren or a Yerba Buena keeper (sanctuary steward, MLK Foundation elder, multilingual mutual-aid node) **shows a working practice**: intake, routes, food, silence — **without identity ownership**. Eli recognizes Mei's kitchen and Pelangi's Ch 2 sponsorship terms **at scale**.
-3. **Keyboard inscription:** Not "refuse the keyboard" — **every key must sound**. Crane's tier silences keys (Devolution roster, expendability, registry permanence). Eli asks for the **full keyboard**: many jurisdictions, many tongues, **one obligation** (harm answerable; losses named; three accounts).
-4. **Action (changes plot):** Eli **proposes the polyphonic compact** to Crane — affirmative architecture, not a veto speech. Crane accepts pieces (detection, training, conduct containment) but keeps registry/interoperable identity. Federation communities **replicate what they saw at Revelation** even where Crane's tier wins.
+3. **Keyboard inscription:** Not "refuse the keyboard" — **every key must sound**. Lang's tier silences keys (Devolution roster, expendability, registry permanence). Eli asks for the **full keyboard**: many jurisdictions, many tongues, **one obligation** (harm answerable; losses named; three accounts).
+4. **Action (changes plot):** Eli **proposes the polyphonic compact** to Lang — affirmative architecture, not a veto speech. Lang accepts pieces (detection, training, conduct containment) but keeps registry/interoperable identity. Federation communities **replicate what they saw at Revelation** even where Lang's tier wins.
 5. **Eli's mistake (seeds Ch 5):** He tries to **solo** the chorus — centralize coordination under his voice after seeing polyphony on glass. Wren: beloved community is **built with**, not **spoken for**.
-6. **Gain (not just cost):** Federation enters war with a **positive constitution-in-draft** — slow-clock terms already practiced at threshold houses — not merely "we said no to Crane."
+6. **Gain (not just cost):** Federation enters war with a **positive constitution-in-draft** — slow-clock terms already practiced at threshold houses — not merely "we said no to Lang."
 
 **What the memorial generates (compact seeds — Ch 6):**
 
@@ -709,7 +709,7 @@ Pelangi harm (Ch 3) → Eli tempted by Crane's fast clock (one keyboard, one rec
 |---|---|---|
 | **I** | *Anomalous residents*, *carrier-adjacent*, cohort registry, intake flags, worker lane vs cohort, queue humiliation (Eli's mixed/Bangladeshi presentation in the Stack) | Some bodies **pre-read as threat** before documents |
 | **II** | Ninmah/Umul triad; Pömmelte registry mark through **women's names**; national psion asylum/desertion; broken-line church | Institutions assign **roles**; Umul = no slot on the keyboard |
-| **III** | Crane Standard; *protected favored populations*; Devolution roster; expendability ledger; psion-harm vs registry-harm families | Who was **always** on the lifeboat list; who becomes *minutes purchased* |
+| **III** | Lang Standard; *protected favored populations*; Devolution roster; expendability ledger; psion-harm vs registry-harm families | Who was **always** on the lifeboat list; who becomes *minutes purchased* |
 
 **Beloved community — practice names (not slogans):** Mei — feed before classification; Pelangi Ch 2 voluntary intake; Pak Din's chain; threshold houses; hearth circles; Yerba Buena sanctuary steward; polyphonic compact; teahouse replication. **Test:** does the room **build with** affected people, or **speak for** them?
 
@@ -729,7 +729,7 @@ Pelangi harm (Ch 3) → Eli tempted by Crane's fast clock (one keyboard, one rec
 
 **Full atlas:** `56_future_conflicts_atlas.md` — six conflict registers, bloc fragility, trilogy escalation timeline, staging scene bank (LOCKED 2026-07-26).
 
-**Volume civic claims (`44`):** I = you are not the imposed category; II = freedom without capture; III = protect without owning — **King register at civilization scale**, planted Book I, named Book III.
+**Volume civic claims (`44`):** I = an imposed category is not a self; II = dependence need not cancel judgment; III = emergency power must end; IV = no child inherits the answer — **King register at civilization scale**, planted Book I, named Book III.
 
 ---
 
@@ -737,33 +737,109 @@ Pelangi harm (Ch 3) → Eli tempted by Crane's fast clock (one keyboard, one rec
 
 | Memorial feature | Book beat | How it lands on-page |
 |---|---|---|
-| **Water / Amos line** | Ch 4 — Crane Standard | Eli walks behind the falls **before or between** sessions. He reads *satisfied* / *roll down* while officials speak of **containment**. Justice as flow vs registry as dam — **never named as thesis**; water on skin, one line on glass |
+| **Water / Amos line** | Ch 4 — Lang Standard | Eli walks behind the falls **before or between** sessions. He reads *satisfied* / *roll down* while officials speak of **containment**. Justice as flow vs registry as dam — **never named as thesis**; water on skin, one line on glass |
 | **Multilingual panels** | Ch 4 — SF civic passage | A carrier mother reads a panel in **Tagalog or Arabic**; Eli reads English and realizes the same sentence is **everywhere** — rhymes threshold-network diaspora, Pak Din's chain, Book I Malacca |
 | **Constitution's keyboard** | Ch 4–5 | Registry sorts people into **keys that don't sound**. Optional: a veteran says *some of us were never on the keyboard* — paraphrase, not recitation. Rhymes Ninmah/Umul (value outside classification) |
 | **March photos on glass** | Ch 5 — names | Families hold **paper names** beside etched faces. Names irreducible; photos don't reconcile them |
 | **Beloved community** | Ch 5 — Wren's boundary | Wren's register: **disciplined unfinished construction** — not a slogan. She refuses Eli because the network promised **not to become anyone's army**. Beloved community = consent-bound cooperation, not unity theater |
-| **Walk-through / inward** | Ch 4 | Somchai or Wren goes behind the falls; Eli may stay in the plaza with Crane's folder — **split attention** mirrors split jurisdiction later |
+| **Walk-through / inward** | Ch 4 | Somchai or Wren goes behind the falls; Eli may stay in the plaza with Lang's folder — **split attention** mirrors split jurisdiction later |
 
 **Rights note:** King speech excerpts are **copyrighted** (Estate of Martin Luther King, Jr.). **Amos 5:24** is safe verbatim. For other lines: (1) short on-site **glimpse** under fair-use discipline, (2) **character paraphrase** in Wren/local voice, (3) estate permission for epigraph edition, or (4) `[VERBATIM TODO — site photo + rights]` until cleared. Same rule as Mitchell Tao → author rendering (`90` § Tao 72).
 
 **What NOT to do:** Eli reciting *I Have a Dream*; memorial as healing; Union flagged righteous because King is on the wall; collapsing psion-harmed and registry-harmed families into one moral; using King to **authorize** Eli's coordination claim (Wren's boundary must still stand).
 
-### Suggested scene skeleton (Ch 4)
+### Retired scene skeleton (quarry only; not current Ch 4)
 
-1. Delegation enters Yerba Buena — gardens above bunker. Crane offers **fast clock**.
+1. Delegation enters Yerba Buena — gardens above bunker. Lang offers **fast clock**.
 2. **Revelation first.** Keeper shows **working sanctuary practice** (intake, routes, many tongues). Eli recognizes Pelangi Ch 2.
 3. Polyphonic grief in wet passage; keyboard inscription = **every key must sound**.
-4. Eli **proposes polyphonic compact** to Crane — affirmative architecture. Crane keeps registry tier; federation **replicates living form**.
+4. Eli **proposes polyphonic compact** to Lang — affirmative architecture. Lang keeps registry tier; federation **replicates living form**.
 5. Eli tries to **solo the chorus**; Wren witnesses.
 6. War ignition: communities already practicing slow-clock terms; coordination harder, **model visible**.
 7. Ch 5: Wren **offers** consent-bound cooperation. Ch 6: compact = **replication**, not rejected counter-offer.
 
 ### Cross-references
 
-- Beatsheet pins: `33_volume_III_beatsheet.md` Ch 4–5
-- Architecture: `05_story_architecture.md` § MLK memorial
+- Former beatsheet pins: superseded 2026-08-01
+- Architecture: `05_story_architecture.md` § Brazilian civic movement
 - Hearth / circle rhyme: `54_liturgies.md` § Hearth circles; Book II post-collapse music
 - Names beat: Ch 5 *The Names They Carry*; expendability ledger Ch 4
+
+---
+
+## 10A. Eagle–Condor — living movement, disputed history, no narrator certification
+
+**Canon use lock (2026-08-01):** Book III encounters the Eagle–Condor through a
+named Andean or pan-Indigenous participant in Brazil. Treat it as a family of
+living teachings and political movements with multiple tellings, not a single
+objectively verified ancient prophecy. Its future is contingent: an opportunity
+for relationship, not fate. Brazilian and later Costa Rican participants expose
+the geographic and cultural flattening produced by a simple North/South binary.
+
+**Research anchors:**
+
+- Indigenous Science and Peace Studies at the University for Peace explicitly
+  locates its Costa Rican work where Eagle and Condor “meet,” making Costa Rica
+  a useful contemporary hinge rather than South American scenery:
+  https://www.ispsprogram.org/the-prophecy
+- University of Toronto's overview emphasizes multiple tellings and reads the
+  movement through Indigenous sovereignty, collaboration, borders, and imposed
+  colonial divisions rather than one metaphysical formula:
+  https://varsityblues.ca/sports/2023/1/27/bva-education-pieces-uniting-the-eagle-and-the-condor.aspx
+- Lívia Penedo Jacob's peer-reviewed comparison of North American,
+  Hispanic-American, and Brazilian Indigenous literatures warns—by method and
+  subject—against collapsing distinct traditions into a mainstream pan-Indigenous
+  category. Its uirapuru/eagle/condor frame is especially relevant to the Brazil
+  guard: https://doi.org/10.5007/2175-8026.2022.e84905
+- Contemporary movement accounts commonly describe many oral versions and the
+  future as potential rather than guarantee, but ancient-origin and exact
+  500-year claims remain difficult to verify independently:
+  https://blog.pachamama.org/the-eagle-and-the-condor-prophecy
+
+**On-page guards:** no North=mind/science/man and South=heart/nature/woman
+essentialism; no claim that Brazil is simply “the Condor”; no Costa Rica mislabeled
+as South America; no bird omen; no Eli fulfillment; no prophecy used to make
+southern resources a northern entitlement. Sol and the court may attempt every
+one of those captures. Other characters must contest them in conduct and speech.
+
+---
+
+## 10B. Costa Rica — trees as grown civic infrastructure
+
+**Canon use lock (2026-08-01):** Book IV's Costa Rican route is supported by
+linked protected and working landscapes, not an enchanted jungle or unused
+green refuge. Trees matter through water infiltration, erosion and slope
+control, shade, microclimate, soil, food and farm production, habitat
+connectivity, and accumulated restoration labor. Capacity therefore has a
+biological clock. A government can requisition beds faster than a community can
+grow dry-season water, canopy, roots, or harvest.
+
+**Research anchors:**
+
+- Costa Rica's National System of Conservation Areas describes biological
+  corridors as locally governed through committees, management plans,
+  participatory biological monitoring, productive best practices, and landscape
+  restoration—not simply strips of untouched park:
+  https://sinac.go.cr/ES/correbiolo/Paginas/default.aspx
+- FAO's family-farming record describes shade-grown coffee as an agroforestry
+  system combining coffee with fruit, timber, leguminous, and other shade trees:
+  https://www.fao.org/family-farming/detail/es/c/1619095/
+- Costa Rican field research indexed by FAO AGRIS found *Erythrina* shade trees
+  increased litter and relative water infiltration in intensively managed
+  coffee, both relevant to soil conservation and erosion reduction. Use as a
+  bounded mechanism, not proof that every tree mix works everywhere:
+  https://agris.fao.org/search/en/providers/122653/records/6473aa4113d110e4e7a7b39b
+- Costa Rica's Ministry of Culture documents the guanacaste as a national symbol
+  since 1959 and as a tree that gave a region its name. It may shade one public
+  scene, but must not become a national oracle or stand in for the country's
+  ecological and cultural diversity:
+  https://www.mcj.go.cr/sala-de-prensa/noticias/guanacaste-el-arbol-que-dio-nombre-una-provincia-y-se-convirtio-en-simbolo
+
+**On-page guards:** no generic rainforest; no claim that forest is empty of
+people; no single “Indigenous view”; no psionic tree speech or stored human
+memories; no forest-versus-farm purity story; no carbon-credit solution that
+makes different stands interchangeable. Show title, labor, payment, tourism,
+housing, conservation, and selective-use conflicts inside the receiving side.
 
 ---
 
@@ -790,7 +866,7 @@ Pelangi harm (Ch 3) → Eli tempted by Crane's fast clock (one keyboard, one rec
 
 ### Enheduanna / Inanna hymn material
 
-**Use lock (2026-07-15):** Use the hymn as an authored human voice across the trilogy, not as a magical key or prophecy. Placement: Book I Ch 12 (damaged/disputed text beside Adapa); Book II Ch 20–21 (contrast with Anthea and rejection of prophetic misuse); Book III Ch 31 (public hearing question of voice, preservation, and authorization). Eli carries the song without owning or canonizing it. Choose a public-domain translation or paraphrase; do not quote an unselected modern edition.
+**Use lock (2026-07-15); placement revised 2026-08-01 for the current ten-chapter spines:** Use the hymn as an authored human voice across the trilogy, not as a magical key or prophecy. Placement: **likely Book II Ch 2** ("The Refusal," Mesopotamian archive — Adapa's current home after `58_sanxingdui_climax_lock.md` moved Mesopotamian material out of Book I; not independently confirmed, verify before drafting); Book II, chapter TBD (contrast with Anthea and rejection of prophetic misuse — previously "Ch 20–21," beyond the current spine); **Book III Ch 9** ("The Hearing Begins" — a strong match for "public hearing question of voice, preservation, and authorization"). Eli carries the song without owning or canonizing it. Choose a public-domain translation or paraphrase; do not quote an unselected modern edition.
 
 **Candidate use:** sacred authored voice, hymn as rhetoric, priestly displacement, and Inanna's dangerous undomesticated power. This can connect Anthea, Wren, Eli's mother, the Pai performer, and Eli's later bard function without turning any of them into Enheduanna reincarnated.
 
@@ -818,8 +894,8 @@ Pelangi harm (Ch 3) → Eli tempted by Crane's fast clock (one keyboard, one rec
 **The trilogy's thesis in verse — mapping:**
 
 - *Awe lost → religion*: the kneel — Deiwos, the sons-of-Deiwos crown, Sol's mandate, the healer's deification pressure. Awe's genuine object (the living world, the web, the daylit sky) mislaid, and worship rushing to fill the vacancy.
-- *Self-trust lost → authority*: the registry thesis in one line — Crane's "safety as ownership," the arch, the desert-logic; and inward, the autopilot: the person who no longer trusts themselves obeys the engine.
+- *Self-trust lost → authority*: the registry thesis in one line — Lang's "safety as ownership," the arch, the desert-logic; and inward, the autopilot: the person who no longer trusts themselves obeys the engine.
 - *The Master steps back*: Eli's refused throne; Washington's step-down; temporary authority with expiry dates; the seed pattern transmitted as invitation, never command; "coordinate, then disperse."
-- *Teaches without a teaching*: **the lay teachings' literal design** — the unbranded curriculum (grounding as cooking, watch-keeping as seamanship, hosting as manners) — nothing presented as a system, therefore nothing to confiscate, register, or sell; and the reveal discipline itself (effects before doctrine; no thesis in dialogue). **Author's reading (2026-07-23): teaching-without-teaching = experimental, scientific discovery** — the teacher arranges the conditions and steps back; the learner's own *tested* experience is the teaching. Science is this pedagogy made institutional (the empirical-humility lock: *this felt real; I may still be wrong; let's test it*). The drafted book already runs it in every true teacher: Nura's "hold it, count the heat" (no explanation — discovery); Emrys's homework ("numbers, boy — we keep ourselves honest": he never tells Eli what he is; he has Eli **measure himself**); Ông Bảy's "what do you see?"; Hạnh's "learn to farm." The false teachers do the opposite — Crane, Sol, and the consortium all *deliver conclusions*: doctrine, prophecy, invoice. The trilogy's teacher-test in one line: **the real ones hand you the instrument; the counterfeits hand you the answer.**
+- *Teaches without a teaching*: **the lay teachings' literal design** — the unbranded curriculum (grounding as cooking, watch-keeping as seamanship, hosting as manners) — nothing presented as a system, therefore nothing to confiscate, register, or sell; and the reveal discipline itself (effects before doctrine; no thesis in dialogue). **Author's reading (2026-07-23): teaching-without-teaching = experimental, scientific discovery** — the teacher arranges the conditions and steps back; the learner's own *tested* experience is the teaching. Science is this pedagogy made institutional (the empirical-humility lock: *this felt real; I may still be wrong; let's test it*). The drafted book already runs it in every true teacher: Nura's "hold it, count the heat" (no explanation — discovery); Ông Bảy's "what do you see?"; Hạnh's "learn to farm." The false teachers do the opposite — Lang, Sol, and the consortium all *deliver conclusions*: doctrine, prophecy, invoice. The trilogy's teacher-test in one line: **the real ones hand you the instrument; the counterfeits hand you the answer.**
 
 **Placement candidates:** Book III epigraph (the stepping-back volume — strongest); alternatively the lay-teachings/cloister movement. **Refrain bible (Tier A dialogue):** `53_quotable_refrains.md`. **Lay verses (Tier B companion):** `54_the_lay_verses.md` Ch 21 (*Step back*). **Rights note (research pass):** the quoted rendering is Stephen Mitchell's (copyrighted); for publication use a public-domain translation (Legge 1891) or the author's own rendering from the Chinese, or clear permissions. The mapping survives any translation.

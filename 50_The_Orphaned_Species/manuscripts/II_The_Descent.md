@@ -1,6 +1,6 @@
 # The Orphaned Species Book II: The Descent
 
-> **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29; delivery upgrades 2026-07-31:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–20 and the **Three pressure rules** + **Five delivery upgrades** (Clock A Maren/rescue vs Clock B Wren-network/registry/**Sol**; antagonist weekly jobs; cost → next; density parity; cast chemistry; brand face = ring). Dual-clock map: `55` § *Book II — dual-clock & cost→next map*. Beats: `32_volume_II_beatsheet.md`.
+> **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29; delivery upgrades 2026-07-31; pitch/visual revised 2026-08-01:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–20 and the **Three pressure rules** + **Five delivery upgrades** (Clock A Maren/rescue vs Clock B Wren-network/registry/**Sol**; antagonist weekly jobs; cost → next; density parity; cast chemistry; ring-first causal hook / tree-led visual identity). Dual-clock map: `55` § *Book II — dual-clock & cost→next map*. Beats: `32_volume_II_beatsheet.md`.
 
 > **Governing draft begun 2026-07-28.** Present tense, close third. Eli remains
 > the home consciousness; Somchai and Wren receive only the locked away
@@ -9,6 +9,18 @@
 > spine. Retired Book II prose in other files is quarry, not reader sequence.
 >
 > **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1 Three Circles three-way read + Rasel entropy sentence (*signal you could record completely…*); Ch 2 Adapa wrong-first destiny hunger; Ch 6 Extra settlement unnoticed twin incomplete circles (Loop hatch-mark only — no street name). Ancient face = Sídhe/Göbekli/Refusal. Craft lock: `17` § *Deep-time residue density*; beats: `32`.
+>
+> **Inana's Descent — dual face — LOCKED 2026-08-01:** Ch 2 archive seeds Descent + Enheduanna; Ch 4 Somchai = healing face; Ch 6–7 Wren/Rowan renewal = romance face (gates/attend/return-with-cost through conduct). `35` § *Inana's Descent*; `19` § *Rowan returns*.
+>
+> **Egypt — brief hinge / packet only — LOCKED 2026-08-01:** not a volume open. Ch 1 westbound Nile House / Mandate corridor hinge **or** Ch 2 Egyptian comparative packet. Job: BAC survival by hardening divine kingship. Contested Mesopotamia→pharaoh claim only. Book III = Mandate-face only (`32`, `33`, `61`).
+>
+> **Location contraction — LOCKED 2026-08-01:** ~6–7 body-arrivals; church ⊂ Ch 6 Pömmelte; Ch 7 Rollright+Men-an-Tol one corridor; Ch 8 Anglesey threshold not tour; Ch 9–10 Stonehenge→Avebury one climax run. Every stop: chase next-door + relationship cost (`32`, `61`).
+>
+> **Delivery package — LOCKED 2026-08-01:** mother Clock A every chapter + dual-clock delivery cards Ch 1–10; Wren/Rowan↔Maren mirror; Rasel instrument antagonist; Sol @ Extra settlement; Ch 8 one-way Maren contact only; term budget; antagonist face-per-stretch; gap-fillers wired — hearth/*flow* Ch 6, Maren moral wound, Somchai depth-scan Ch 4, Sora, Parade drip, Rootbook living correction, Somchai hard no late Ch 9 (`32` § *Book II delivery package*).
+>
+> **Psionics / belonging draft lock — 2026-08-01:** This is primarily the book in which psionic difference becomes visible and frightening. Eli's question beneath the mother-search is where he can belong and whom he can trust when neither he nor others can reliably distinguish perception, projection, coercion, illness, fraud, or revelation. Atomization stays embodied in isolation, rooms, procedure, family concealment, cult warmth, registry pressure, and lost shared reality; do not make characters lecture the total social diagnosis. Small practices—witness, consent, meals, song, attestation, kin, craft, exchange—help before they overreach. Book III, not this manuscript, scales them into a polity.
+>
+> **Dreamer draft lock — 2026-08-01:** Eli's vivid dreams intensify here without becoming prophecy or route instructions. Use one trauma/misread, one later-verifiable quiet detail, and one possibly psion-contaminated dream. He cannot distinguish contact from memory, body, expectation, ordinary dreaming, or intrusion by vividness. Characters record and test; Sol interprets; Lang pathologizes or extracts. Late recognition stops at *sleep may be receptive and provenance is poor*. Do not call Eli **the Dreamer**.
 
 ## Chapter One—What Came Home
 
@@ -970,7 +982,7 @@ archive."
 He hears the sentence. He also sees the seconds in the corner of Wren's slate,
 counting toward the hold.
 
-"If Edda reaches this building, none of us gets the metadata."
+"If Anika reaches this building, none of us gets the metadata."
 
 "If I give you unreviewed custody because armed people are approaching, armed
 people govern the archive without entering it."
@@ -1039,7 +1051,7 @@ Nadiya looks toward the ceiling as if an overdue guest has finally knocked.
 
 ---
 
-Edda Voss does not enter with a weapon.
+Anika Voss does not enter with a weapon.
 
 She sends a court officer, two archive-security specialists, and a physician
 carrying an emergency order for Sora Vithan's return to protective medical
@@ -1191,14 +1203,17 @@ goddess.
 institution innocent. Institutional preservation does not make the voice
 false."
 
-Haddad's margin calls the radiance *melam*: pressure presented as the visible
-fact of power. A second disputed term, *ni*, names the bodily awe or fear that
-pressure provokes.
+Haddad's margin tries to name the radiance as pressure presented as the visible
+fact of power, then the bodily awe or fear that pressure provokes. Nadiya
+refuses both loanwords for the council record.
+
+"Keep the sensation," she says. "Do not decorate it with vocabulary the room
+cannot yet carry."
 
 Eli remembers the annex machine making obedience feel like the body's own
 conclusion.
 
-"So ni is control."
+"So the feeling is control."
 
 "No," Nadiya says. "Fear is not an order. Awe is not consent. Institutions
 teach bodies to mistake the feeling for a command."
@@ -1207,9 +1222,8 @@ Wren looks at Sora's collar.
 
 "And teach everyone watching that submission proves the power was rightful."
 
-The distinction enters their working vocabulary. *Melam* for pressure reaching
-the body from outside. *Ni* for what the body does with it. Neither word excuses
-the next choice.
+The distinction enters without new street names: pressure from outside; what
+the body does with it. Neither excuse the next choice.
 
 Haddad's last failed overlay uses *Inana's Descent* as a seven-stage operating
 sequence. At every gate, surrender one capacity. Reach the underworld empty.
@@ -1266,11 +1280,8 @@ The conservation records attached to the line point north and west, toward a
 hill whose excavated enclosures are being covered again under a contested
 preservation schedule.
 
-Göbekli.
-
-Not a coordinate from an ancient world map. A modern institutional rhyme: a
-place opened, interpreted, governed, and returned to the ground while rival
-systems argue over who may make it answer.
+Göbekli. The clue is modern: excavation permits, conservation schedules, and a
+site repeatedly opened and covered while institutions fight over its meaning.
 
 Hassan's transfer category appears in the same modern packet.
 
@@ -1333,7 +1344,7 @@ Above them, the public-floor chime sounds twice.
 
 Sora stands.
 
-"Edda is here."
+"Anika is here."
 
 The lights remain on. Students continue reading. Pumps that no longer touch the
 river hold the oldest rooms cool.
@@ -1477,7 +1488,7 @@ The consortium has pastry.
 
 It also has satellite composites, ground-penetrating scans, a reconstruction
 with cleaner edges than any exposed stone, and a man named Pavel Varga who
-speaks about uncertainty as if it were a temporary defect in ownership.
+speaks about uncertainty as if it were a temporary defect in the institution.
 
 The donor presentation takes place in the site project room while rain begins
 to tick against the shelter roof.
@@ -1715,7 +1726,7 @@ Sora looks toward the white convoy.
 
 The middle vehicle is transmitting.
 
-"Edda is using the survey clock," she says.
+"Anika is using the survey clock," she says.
 
 "For what?" Wren asks.
 
@@ -1752,6 +1763,11 @@ Rain comes down hard enough to erase the plain.
 The pulse leaves the ground through every synchronized instrument at once.
 Visitor screens flash white. The mobile power unit trips, restarts, and feeds
 the error back. A pressure front runs beneath the boardwalk.
+
+Rasel names what the archive refused to street: *melam*—pressure presented as
+the visible fact of power. What the body does with it, the disputed *ni*,
+arrives as awe that wants to become obedience. The hill does not need the
+words. The crowd supplies the mistake.
 
 People fall toward the center.
 
@@ -1803,7 +1819,7 @@ The old pressure offers the same bargain in a new voice.
 
 *Hold the system. Do not break what you can command.*
 
-He can feel the phases. He could take the clock away from Edda and make it his.
+He can feel the phases. He could take the clock away from Anika and make it his.
 Turn the crowd outward. Stop the convoy. Keep every person upright.
 
 One source. One correct rhythm.
@@ -1852,7 +1868,15 @@ Hands.
 Hands on limestone when the edges are new. A carver's thumb following the
 spiral around an eye. Fires across the hill. Troughs holding porridge, grain,
 water, something fermented enough to make strangers laugh before they share
-weight. Hundreds of bodies moving stone without one reason among them: hunger,
+weight. Beyond the fires, people cut wild grain in a line. One voice falls with
+the blades and the others answer on the lift. A child at the end carries a
+short basket and joins only the answer. When he comes in late, the woman beside
+him lengthens her note and slows her hands. By dusk he is laying the cut heads
+the right way without being told. After the baskets are carried off, the
+children keep the bend, step, lift. Empty hands make it ridiculous. The adults
+laugh and take it up.
+
+Hundreds of bodies move stone without one reason among them: hunger,
 obligation, awe, exchange, courtship, fear, craft, the pleasure of accomplishing
 what should be too heavy.
 
@@ -2356,11 +2380,7 @@ end of the week strangers were sleeping outside Somchai's mother's building.
 
 "I didn't record this one," Pin says.
 
-"I know."
-
-It is not forgiveness. It is also not punishment.
-
-"Check the refrigerator."
+"I know." Somchai hands him the refrigerator key. "Check the insulin."
 
 Pin goes.
 
@@ -2509,6 +2529,42 @@ Somchai looks down at his hands.
 "The body keeps cheap things."
 
 For a moment neither knows what the reunion should require.
+
+Somchai glances at the curtain, then back. "May I?"
+
+"May you what?"
+
+"Read you the way I read a patient when instruments are lying. Not a scan they
+can file. Depth. Consent first."
+
+Eli almost refuses on instinct. Then he thinks of the annex machine that made
+obedience feel like the body's own conclusion.
+
+"Yes."
+
+Somchai does not touch his head. Two fingers rest lightly at Eli's wrist, the
+way a nurse checks a pulse before asking anything expensive.
+
+The room does not change. Eli does.
+
+"You are loud inside," Somchai says, quiet enough that Wren need not hear.
+"Most people are quiet. No second surface. No noise being managed behind the
+face. Naturally divergent people labor their whole lives to look ordinary and
+assume everyone else is doing the same labor. They aren't."
+
+Eli waits for pity. It does not arrive.
+
+"I can tell wound from nature," Somchai continues. "The old injury is scar. The
+receiver was always you. Do not spend the rest of this route trying to sand
+yourself down to a calm that was never effortful for them."
+
+He withdraws his hand.
+
+"Pin," he adds, almost as an afterthought. "Also loud. Scattered quiet
+population. Not a singularity."
+
+Pin, across the room with the refrigerator, does not look up. He does not need
+to. The recognition is for Eli.
 
 Then Eli remembers the woman behind the curtain.
 
@@ -2662,7 +2718,7 @@ She looks back at Eli.
 The woman in front told me the rear lock would open if the system chose a
 cleaner load."
 
-"Edda?"
+"Anika?"
 
 "She did not give her name."
 
@@ -2711,6 +2767,14 @@ Some bring records. Some bring children. One brings flowers wrapped in a
 hospital discharge sheet. Two men stand apart and photograph everyone who
 enters. A woman has written **HEALER** on cardboard in three languages.
 
+On the corridor wall beside the old restaurant menu board, someone has chalked
+a half-line in three languages and left it unfinished:
+
+*I alone—*
+
+Nobody explains it. Somchai wipes the chalk with his sleeve before the pilgrims
+can turn a fragment into a hymn.
+
 Somchai tears the sign in half.
 
 "That seems unfriendly," says a man beside Eli.
@@ -2747,7 +2811,7 @@ Wren has already moved within reach.
 
 "Who are you?" Eli asks.
 
-"Sol Mendez."
+"Sol Méndez."
 
 Sora, across the waiting room, goes rigid.
 
@@ -3093,12 +3157,12 @@ A voice answers from the ceiling.
 
 "Me."
 
-Edda Voss appears on the observation glass.
+Anika appears on the observation glass.
 
 Not a recording. Live enough that the scar beside her mouth tightens when she
 sees Sora's closed collar.
 
-"You returned," Edda says.
+"You returned," Anika says.
 
 "Open twelve."
 
@@ -3131,9 +3195,9 @@ A pause.
 Then: "Copy is gone."
 
 Not the physical wafer. A mirrored fragment lifted through one of the witnessed
-archive exchanges, perhaps. Enough to make the packet look like ownership.
+archive exchanges, perhaps. Enough to make the packet look authorized.
 
-Edda opens the data case remotely.
+Anika opens the data case remotely.
 
 A screen wakes.
 
@@ -3143,7 +3207,7 @@ the camera.
 
 No sound.
 
-Edda says, "The clean file contains nineteen hours. Initial classifier design.
+Anika says, "The clean file contains nineteen hours. Initial classifier design.
 Subject-selection objections. Sabotage sequence. Current western placement."
 
 "Current?"
@@ -3173,7 +3237,7 @@ Rasel steps toward the evidence room.
 
 "Show a timestamp."
 
-Edda does.
+Anika does.
 
 Rasel's breath leaves him.
 
@@ -3193,7 +3257,7 @@ Sora looks at pen twelve, then at the evidence room.
 
 "There will be a purge when the shift changes."
 
-Edda's face remains composed. "There will be a transfer."
+Anika's face remains composed. "There will be a transfer."
 
 "Same drains."
 
@@ -3201,7 +3265,7 @@ Edda's face remains composed. "There will be a transfer."
 
 "Your model said I would return alone."
 
-For the first time Edda's gaze moves away.
+For the first time Anika's gaze moves away.
 
 Small miss.
 
@@ -3314,7 +3378,7 @@ Building it.
 
 Eli stares.
 
-Edda gives the recording sound.
+Anika gives the recording sound.
 
 "The false-positive rate is acceptable if the intervention remains voluntary,"
 Maren says. "We are identifying people who need shielding before overload, not
@@ -3509,6 +3573,27 @@ The line does not belong to her yet. It strikes anyway.
 "She said not to let you make her innocent because you needed a mother."
 
 The ring shifts in Rasel's palm.
+
+"There was a name," Hassan adds.
+
+Eli looks up.
+
+"Early program. Subject she defended as temporary hold—signature model,
+humane framing. Delay so she could reform the room from inside. The delay
+acquired a person."
+
+"Who?"
+
+"Imani Vale. Longitudinal trial. She asked to leave. Your mother delayed the
+withdrawal because the data completed a cohort—temporary, humane framing.
+Lang's office used the instability from the delay as proof she needed
+protection. She never left. Your mother told me the name herself through the
+glass. Said if you came asking for a saint, give you a ledger."
+
+Rasel closes his fist around the ring until the metal bites.
+
+Eli files *Imani Vale* beside *alive* and *wired* and finds that mother
+will not become a prize again without that name sitting in the room.
 
 ---
 
@@ -4134,7 +4219,7 @@ that drains people."
 
 The organizer gives them.
 
-Help without ownership. Or recruitment priced later.
+Help with no price named. Or recruitment priced later.
 
 Wren cannot tell.
 
@@ -4221,7 +4306,25 @@ The Rootbook's kin branch supplies another correspondence. A line of names held
 through mothers rather than fathers, changing sound across languages without
 changing the relation being tracked.
 
-**HOLT**, Maren wrote beside one branch.
+**HOLT**, Maren wrote beside one branch. She linked the branch to a single
+surviving matriline at the enclosure—one continuous house, one continuous
+hunt.
+
+Marta shakes her head before Eli can make the line into proof.
+
+"Your mother's journal is wrong there," she says. "Useful elsewhere. Not here.
+These women did not share one house. The mark tracked across communities that
+refused each other. Continuity of surveillance is not continuity of kin."
+
+Anke confirms the isotope mismatch with the calm of someone who has waited to
+say it to a visitor carrying a treasured book.
+
+Eli feels the correction land. Maren's Rootbook is relationship and unfinished
+evidence, not a GPS. A living community has just defeated one of her readings
+before Avebury can pretend the journal knows the way home.
+
+**HOLT** remains true as Maren's mother's line. The single-house inference does
+not.
 
 Eli stares.
 
@@ -4316,12 +4419,8 @@ is courtesy or cowardice.
 
 The terminal contains two ledgers hidden beneath routine household records.
 
-The first is Weaver.
-
-Wren's name appears beside Eli's.
-
-Not a pairing order. A vetting trail. Small favors from Book I rendered as
-entries: harbor reference checked, violence history reviewed, sponsor claim
+The first is Weaver. Wren's name appears beside Eli's at the head of a vetting
+trail: harbor reference checked, violence history reviewed, sponsor claim
 tested, ordinary work confirmed, route assistance permitted.
 
 At the bottom:
@@ -4432,12 +4531,8 @@ Eli remains with the ledgers, understanding that being blessed can feel like
 being handled and that Wren has asked Rowan for something she did not ask him
 to provide.
 
-The jealousy arrives ugly and immediate.
-
-Not because Wren loved someone else.
-
-Because she knew how to want Rowan without confusing the wanting for a missing
-chair.
+The jealousy arrives ugly and immediate. Wren had asked Rowan plainly. With Eli,
+want still came dragging an empty chair behind it.
 
 ---
 
@@ -4501,6 +4596,38 @@ Rasel compares the interval with Maren's chart. Hassan compares it with the
 transfer mark. The living route and the damaged record agree only in direction:
 west, toward a chain of riddling grounds where straight paths fail and old
 stories keep putting people under hills.
+
+---
+
+Night after the break, the threshold house cooks.
+
+The corridor that was supposed to carry them west has stopped behaving like a
+map. Dead-zone wedges blank the charts. Registry pins return capture geometry.
+Checkpoints open and close without schedule. Meetups fail. Families sleep in
+the yard with their bags still packed because packing is the only control left.
+
+Somebody has already named it without ceremony: the Break. The corridor break.
+
+Around a cook-fire at the camp edge, people sit in a circle—displaced families,
+a Weaver host with a guitar missing two strings, Pin sharing salt he did not
+need to share. No stage. No prophet. Local song, then one traveler song Eli
+recognizes from Khun Dang's lodge without knowing he would remember it until
+his throat does.
+
+Wren watches without operational speech.
+
+When the meal ends and the pins on Anke's borrowed wall still lie, a woman with
+flood-mud on her boots says to her cousin, almost casually:
+
+"I'll meet you in the flow."
+
+Not a slogan. A logistics sentence for when fixed routes, checkpoints, and
+meetups fail. The cousin nods. They do not set a clock.
+
+Eli files the phrase the way he files cheap soap and ordinary grief. Mother-hunt
+logistics without tourism. The palace failed. The circle still works.
+
+---
 
 At the roadside shelter, somebody has drawn a circle in white chalk around a
 simple word:
@@ -4591,9 +4718,22 @@ The tea is not free.
 
 Sol's network has reached the island before them.
 
+At the ferry queue, a recruiter in an ordinary dark coat works the line with a
+clipboard and a present-tense deadline: ten names before the next sailing, or
+the Raben Yard meal roster loses its Albion allotment. He offers public
+standing, brotherhood, and a place on Sol's island list. When he reaches Eli he
+does not ask belief. He asks whether the gardener's son will stand with men who
+have been filed as excess.
+
+Hassan steps between them.
+
+"He is the son of a gardener," Hassan says, and charges the recruiter for the
+correction. The man writes Eli's name anyway—job done, sailing clock met—and
+moves on to the next demobilized coat.
+
 So has Somchai's rumor. A ferry worker shows Hassan a feed of the clinic
 healing and asks whether the large man traveling with them is the other son.
-Hassan says Eli is the son of a gardener and charges him for the correction.
+Hassan repeats the gardener line. The worker buys tea instead of theology.
 
 Somchai himself remains east with the moving clinic. His messages contain
 patient counts, fuel needs, and no miracle.
@@ -4689,7 +4829,7 @@ small enough to make crawling a choice the body remembers.
 
 The path reaches it across wet ground. No visitor center. No sealed interface.
 Only a farm agreement, a gate that must remain closed, and stones whose stories
-have outlived every institution attempting to own them.
+have outlived every institution that tried to settle what they meant.
 
 Morwen stops the group at the final hedge.
 
@@ -5203,6 +5343,24 @@ Neither calls that completion.
 
 ## Chapter Eight—The Bitter Cup
 
+Before the cup, a Custodian inquiry reaches Eleri's registered practice.
+
+Two officers in biosecurity cover, clipboard deadline stamped for the afternoon
+tide: confirm whether an unlicensed altered-state procedure is scheduled;
+produce the consent ledger; identify any Holt/Khan travelers on the island.
+They do not storm the orchard. They schedule. The job is present-tense and has
+an end time.
+
+Eleri shows them the hospice garden and the seed library. She does not show
+them the threshold room. She tells them the truth that fits their form: no
+unlicensed medical theater; no public ceremony; patients may refuse.
+
+"If we return at sixteen hundred," one says.
+
+"You will find a closed clinic," she answers. "I keep ordinary hours."
+
+They leave a notice on the gate. The paper flutters. The deadline remains.
+
 The keeper makes Eli write the reason he may stop.
 
 Not the reason he wants to begin.
@@ -5536,132 +5694,63 @@ Maren opens her eyes.
 
 She is older.
 
-Every prior recording failed to prepare him for the reciprocal fact of her
-seeing him.
+Eli reaches for reciprocity and finds only pressure: her counting, the electrode
+bite, a face that does not settle on him as if he were a person in the room.
 
-Her face changes through disbelief, calculation, and a grief too large to
-perform in the time they have.
+He says *Mum* into the channel.
 
-"Babu?"
+Nothing answers that name.
 
-The childhood name arrives inside his body rather than through sound.
+What arrives instead are fragments without a mutual lock—recognition-hunger
+without a conversation that can hold it.
 
-"Mum."
+*Babu*—the childhood name lands inside his body rather than through sound, then
+slides away as if she had spoken toward someone who might once have been him.
 
-He has not called anyone that in years. The word remains the right size.
+"I'm coming," he says.
 
-Maren looks past him as if trying to identify the channel.
+The channel does not confirm receipt.
 
-"You shouldn't be here."
-
-"I'm coming."
-
-"No."
-
-"We know Albion. We know the ground."
-
-"You know a direction."
-
-"I'll bring you home."
-
-Pain crosses her face.
-
-"Don't promise me a house."
+*Don't*—pain, house, promise—words arrive incomplete. He fills them with what
+he wants: *I'll bring you home.* The refusal that follows is hers, or his fear
+wearing her voice: do not promise a house.
 
 "Dad is alive."
 
-The signal changes.
+For one moment the signal softens—hope without address—then hardens again.
 
-For one moment Maren is only a woman receiving impossible news.
+*Inside the correction.*
 
-"Rasel?"
+"Where?"
 
-"Here."
+No map. No room number. Only the sense of a living operator wired into ground,
+and a direction west of the tourist stones.
 
-Eli reaches toward the room. Rasel is somewhere beside his altered body. The
-contact cannot find him without widening.
-
-Maren stops him.
-
-"No. They'll see the bridge."
-
-"He has the ring."
-
-She laughs once. It becomes a broken sound.
-
-"Of course Hassan kept the impossible object."
-
-"Mum, where are you?"
-
-"Inside the correction."
-
-"Address."
-
-"Listen to me."
-
-He does not. Wanting has become loud enough to resemble action.
-
-"Stonehenge?"
-
-"Not the center."
-
-"Avebury?"
-
-Recognition flashes.
-
-Enough.
+Stonehenge flares as geometry. Not the center. Something inhabited beyond it—
+Avebury as felt pressure, not a shared plan.
 
 "We're coming."
 
-"Babu. I do not need you to put me back."
+Wanting has become loud enough to resemble action.
 
-"You're captive."
+What she needs arrives as one clear word before the rest frays:
 
-"Yes."
+*Release.*
 
-"Then let me get you out."
+Operator. Classifier. Mother. Do not keep any of them running because you want
+one more answer.
 
-"Out is not the same as back."
+"I can't," he says to a face that may not hear him.
 
-The sentence reaches the room where Wren sits, the field where Callum lay, the
-whole route of completed files.
+*You don't have authority yet.*
 
-"What do you want?"
+*They are trying to make you the only compatible interruption.*
 
-Maren closes her eyes.
+The signal constricts.
 
-When she opens them, the scientist has returned because precision is the only
-care the channel permits.
-
-"Release. The operator, the classifier, the mother you remember. Do not keep
-any of them running because you want one more answer."
-
-"You're asking me to kill you?"
-
-"No."
-
-"Then what?"
-
-"I don't know what survives the cut."
-
-Fear enters cleanly.
-
-"I can't."
-
-"You don't have authority yet."
-
-"Yet?"
-
-"They are trying to make you the only compatible interruption."
-
-The signal constricts around her.
-
-Somebody has noticed.
-
-"Who?"
-
-"Crane built the first room. Charkha owns this one. Edda keeps believing those
-are different facts."
+Somebody has noticed. Lang's first room. Charkha's ownership. Anika's useful
+distinction between those facts. Names without a mutual briefing—leaked
+pressure, not a dialogue they finish together.
 
 "Mum—"
 
@@ -5671,15 +5760,10 @@ The phrase enters from far away.
 
 Eli holds the contact.
 
-Maren hears it too.
-
-"Go."
+He cannot tell whether she holds him back. The channel does not prove she saw
+him. Recognition-hunger is not reunion.
 
 "I just found you."
-
-"And I found you alive."
-
-"Come to the room," Somchai says again.
 
 Two pressures touch Eli's right palm.
 
@@ -5687,15 +5771,12 @@ The physical signal.
 
 Maren's face begins to break into root, electrode, peat water, memory.
 
-"I love you," Eli says.
+"I love you," Eli says into a closing interval.
 
-"I know."
+No answering *I know*. Only cut.
 
-"That's not—"
-
-"It is enough for this contact."
-
-She releases first.
+Charkha, or the apparatus wearing that function, severs before reciprocity can
+lock.
 
 Eli returns vomiting into the basin with Somchai's fingers at his wrist and
 Rasel saying Maren's name as if repetition can reopen a channel.
@@ -5705,23 +5786,24 @@ Rasel saying Maren's name as if repetition can reopen a channel.
 Daylight keeps almost none of it.
 
 Eli remembers Nia's hands around the seed packet. Lovernios in peat. Roots as
-decisions without a master. Maren's face. The word *release*.
+decisions without a master. Maren's face half-turned. The word *release*. The
+hunger of almost touching someone who did not fully lock onto him.
 
 The rest drains when he tries to report it.
 
 Rasel asks for exact phrases.
 
-"She said inside the correction."
+"She said inside the correction. Or I heard it."
 
 "Before or after Avebury?"
 
-"Before."
+"Avebury was a pressure. Not a conversation."
 
 "What did her eyes track when you said Stonehenge?"
 
-"I don't know."
+"I don't know if she heard me."
 
-"Did the signal phase change at Crane?"
+"Did the signal phase change at Lang?"
 
 "I don't know."
 
@@ -5953,14 +6035,10 @@ Hostile field traffic is already gathering there.
 
 ## Chapter Nine—The Transmission Station
 
-Stonehenge has a staff entrance.
-
-Eli is absurdly relieved.
-
-Not a secret tunnel or priest's gate. A painted metal door beside the service
-yard, opening onto electrical cabinets, cleaning supplies, stacked crowd
+Stonehenge has a staff entrance: a painted metal door beside the service yard,
+opening onto electrical cabinets, cleaning supplies, stacked crowd
 barriers, and a handwritten notice reminding contractors not to leave milk in
-the break-room refrigerator.
+the break-room refrigerator. Eli is absurdly relieved.
 
 The stones rise beyond all of it.
 
@@ -6052,7 +6130,7 @@ Then every phone in the service yard receives the same emergency notice.
 **UNLICENSED FIELD EVENT. REMAIN CLEAR OF MONUMENT. AUTHORIZED CONTAINMENT
 INBOUND.**
 
-Edda.
+Anika.
 
 Thirty seconds later another message arrives through the chalk shelters.
 
@@ -6070,6 +6148,35 @@ Somchai reads it over Eli's shoulder.
 
 "Then mythology may wait outside."
 
+A woman from Sol's meal line pushes through the chalk shelters with a boy whose
+breathing has gone wrong under the rain. She points at Somchai.
+
+"Heal him. You healed the convoy woman. Do it."
+
+The twins rumor has already made him public property. Someone behind her says
+*messenger*. Someone else says *son of*—and does not finish because finishing
+would require a god they do not have.
+
+Somchai kneels long enough to open an airway the ordinary way, then stops when
+the crowd presses for the field they filmed at the clinic.
+
+"No," he says.
+
+Not to the boy. To the demand.
+
+"I will not heal on command. I am not your messenger. I am not a son of anyone
+who owes you miracles."
+
+The boy still needs a hospital. Somchai gets him into Gareth's works van toward
+the nearest clinic that will take an ordinary emergency. Someone in the line
+curses him. Someone else films the refusal. A person he could have tried to
+reach by field does not get the field.
+
+The scene ends with him back at triage supplies in the service yard, restocking
+gauze with hands that shake once and then do not.
+
+Lean. Structural. The crown of the body declined. Flowers wait for another book.
+
 ---
 
 The first argument is about instruments.
@@ -6081,12 +6188,12 @@ purpose is recorded.
 
 Sol's people offer twelve.
 
-Edda's convoy brings an array already synchronized.
+Anika's convoy brings an array already synchronized.
 
 By the time the rain stops, four systems have arrived to prevent one another
-from owning the ground.
+from deciding what the ground means.
 
-Edda stands beyond the eastern barrier with Tommy Reyes and Jin Pak. Her field
+Anika stands beyond the eastern barrier with Tommy Reyes and Jin Pak. Her field
 team wears no theatrical armor. Gray weather gear, medical cases, lawful
 notices. The instruments behind them are the threat.
 
@@ -6099,7 +6206,7 @@ He raises no weapon.
 "Open the station," he calls. "Let every living signature hold every other.
 They cannot isolate a people who become one."
 
-Edda answers through the public-address system.
+Anika answers through the public-address system.
 
 "Untrained synchronization causes seizure, identity loss, and involuntary
 entry. Clear the field."
@@ -6172,15 +6279,15 @@ could cross the deaths of their keepers.
 
 Hassan looks at the Map. "The edge corrects the center's claim."
 
-Somchai touches the bridge. "Contact does not become ownership."
+Somchai touches the bridge. "Contact is not comprehension."
 
 Wren rests two muddy fingers beside Men-an-Tol. "A completed route is not a
 returned person."
 
 Rasel studies the seed sign. "Knowledge survives its owner."
 
-The crossing shape brightens beneath their hands, not because it receives the
-teachings but because all six routes pass through it.
+The crossing shape brightens beneath their hands as all six routes pass through
+it.
 
 "Stonehenge is a transmission station," Eli says.
 
@@ -6196,22 +6303,22 @@ Rasel's frustration becomes visible.
 
 "You already know she is there."
 
-"I know a contact occurred."
+"I know a contact occurred. One-way. She may not have locked onto me."
 
-"She recognized you."
+"You heard her."
 
-"Altered."
+"Fragments. Hunger. Release. Not a mutual room."
 
 "She said my name."
 
-"Through me."
+"Or I wanted her to. The channel did not prove receipt."
 
 "Exactly."
 
 The word reveals the problem.
 
-Rasel wants Eli to become an instrument because the instrument has already
-worked.
+Rasel wants Eli to become an instrument because a partial contact already
+worked well enough to make him hungry for a complete one.
 
 "I won't enter her without recognition here," Eli says.
 
@@ -6240,7 +6347,7 @@ Somchai closes the medical case.
 Gareth's radio crackles.
 
 The public center reports that several visitors refused evacuation after Sol's
-message. Two staff remain with them. Edda's order has closed the ordinary road.
+message. Two staff remain with them. Anika's order has closed the ordinary road.
 
 Wren rolls up the projected station map.
 
@@ -6270,7 +6377,7 @@ Rowan sits beside the man who cannot stand.
 
 Gareth unlocks the emergency vehicle gate.
 
-Sol's volunteers open a lane through their own crowd. Edda's officers refuse to
+Sol's volunteers open a lane through their own crowd. Anika's officers refuse to
 move the containment vehicles until Sora walks into the road and stands where
 advancing would require them to run down one of their own.
 
@@ -6285,7 +6392,7 @@ assigned channels.
 
 The amplifier is stripping the provenance from Stonehenge's transmissions.
 
-Edda's array locks to the first pulse.
+Anika's array locks to the first pulse.
 
 Sol's network answers with one chant.
 
@@ -6302,7 +6409,7 @@ Rasel takes the seed record to the northern crossing.
 
 Somchai carries the bridge measurements south.
 
-Sora holds the eastern path with the Refusal account, body between Edda's array
+Sora holds the eastern path with the Refusal account, body between Anika's array
 and the station.
 
 Hassan takes the Map west. He has no talent anyone has measured, only
@@ -6330,7 +6437,7 @@ Sol reaches the outer path.
 "That is why you will lose."
 
 Behind him, people take up the same cadence. Forced coherence works. Panic at
-the northern path eases. Edda's lock loses its grip on three signatures. The
+the northern path eases. Anika's lock loses its grip on three signatures. The
 acute crisis bends toward Sol because fifty bodies accepting one rhythm are
 stronger than four people preserving disagreement.
 
@@ -6389,7 +6496,7 @@ He does not enter.
 
 "Mum," he says. "If this is you, ask."
 
-Edda's array drives a lock through the eastern route. Sora drops to one
+Anika's array drives a lock through the eastern route. Sora drops to one
 knee.
 
 Sol's cadence presses from the west, offering strength without uncertainty.
@@ -6531,7 +6638,7 @@ Maren turns toward the intrusion.
 
 "Then still a cage."
 
-Edda's lock strikes again.
+Anika's lock strikes again.
 
 Sora falls.
 
@@ -6568,7 +6675,7 @@ Stonehenge returns as an attack.
 
 ---
 
-Edda's field lance misses Eli and strikes the service power cabinet.
+Anika's field lance misses Eli and strikes the service power cabinet.
 
 The emergency vehicle gate begins to close.
 
@@ -6581,7 +6688,7 @@ blinded its safety edge.
 Eli runs.
 
 The transmission breaks behind him. Maren's route remains in Rasel's recorder
-as an incomplete direction. Sol's people surge toward the monument. Edda's team
+as an incomplete direction. Sol's people surge toward the monument. Anika's team
 moves to contain them. For several seconds every faction mistakes the broken
 contact for defeat and tries to become the next center.
 
@@ -6789,12 +6896,12 @@ slopes with the ground rather than the building. Roots have entered through one
 wall and been trained into transparent channels so technicians can watch them
 respond to field changes.
 
-At the lowest door, Edda waits.
+At the lowest door, Anika waits.
 
 Tommy Reyes stands behind her with the lance rig. Jin Pak is absent. Sora has
 not reached them.
 
-Edda carries no weapon.
+Anika carries no weapon.
 
 "You have seven minutes before operator transfer becomes irreversible."
 
@@ -6834,7 +6941,7 @@ could keep the moral question from becoming urgent.
 
 "Which is why trained judgment exists."
 
-Edda turns her slate toward them.
+Anika turns her slate toward them.
 
 Across the western network, signatures are failing as the transfer begins.
 Heart rhythms, seizure alerts, field spikes. Some belong to captives. Some to
@@ -6853,7 +6960,7 @@ The argument is not a lie.
 
 "Every cage is temporary when it closes."
 
-Edda's expression does not change.
+Anika's expression does not change.
 
 "Gareth Llewelyn would be alive if the field had accepted one command."
 
@@ -6861,22 +6968,22 @@ The name lands accurately.
 
 "Yes," Eli says.
 
-Edda was prepared for denial.
+Anika was prepared for denial.
 
 "Forced synchronization would have cleared the gate," he says. "It would have
 worked."
 
 "Then choose the method that saves people."
 
-"And owns them after."
+"And leaves them unable to refuse the next command."
 
-"Alive people may contest ownership."
+"Alive people may object afterward."
 
 "Captives don't."
 
 Tommy looks away.
 
-Edda opens the door anyway.
+Anika opens the door anyway.
 
 "Seven minutes," she says.
 
@@ -6973,7 +7080,7 @@ larger system to hold.
 
 Maren helped design the grammar.
 
-"Crane's first classifier separated overload from stable perception," she says.
+"Lang's first classifier separated overload from stable perception," she says.
 "It saved people from sedation and institutionalization."
 
 "Then it became the registry," Eli says.
@@ -7000,16 +7107,20 @@ Maren looks at the correction queue.
 "A woman named Imani Vale. She asked to leave the longitudinal trial. I delayed
 the withdrawal because her data completed a cohort."
 
-Not abstract complicity. A person.
+Not abstract complicity. A person. Hassan's ledger name, spoken again in the
+room where the delay still runs.
 
 "What happened?"
 
-"Crane's office classified the instability created by the delay as evidence she
+"Lang's office classified the instability created by the delay as evidence she
 needed protection. She never left."
 
 "Alive?"
 
 "I don't know."
+
+Hassan already gave him the name. Hearing it from her mouth does not make it
+easier.
 
 Eli wants innocence badly enough to feel anger when she refuses to supply it.
 
@@ -7113,7 +7224,7 @@ machine that offers it."
 
 ---
 
-Crane appears on every display.
+Lang appears on every display.
 
 Middle-aged, composed, seated in a room with a small bonsai behind him and no
 visible security apparatus. His face is familiar from files and warrants but
@@ -7141,7 +7252,7 @@ An honest sentence shaped to survive accountability.
 
 "Open every captive channel," Eli says.
 
-"That would cause the uncontrolled reconnection Edda described."
+"That would cause the uncontrolled reconnection Anika described."
 
 "Then close the amplifier."
 
@@ -7156,7 +7267,7 @@ An honest sentence shaped to survive accountability.
 "For the people currently alive because the network catches dangerous events
 before they propagate."
 
-Crane brings up the casualty forecast.
+Lang brings up the casualty forecast.
 
 If Maren walks off without replacement: hundreds of acute episodes across
 active grounds. Dozens of probable deaths. Violence, seizure, involuntary
@@ -7179,7 +7290,7 @@ Maren laughs without humor.
 
 "I wrote that phrase into the first trial."
 
-Crane looks at her.
+Lang looks at her.
 
 Grief crosses his face. Real and useless.
 
@@ -7198,7 +7309,7 @@ truth.
 
 Maren touches the console.
 
-"Help that cannot survive a person's no is ownership."
+"Help that cannot survive a person's no is command."
 
 "And freedom that kills bystanders?"
 
@@ -7214,7 +7325,7 @@ Outside, Sol's people enter the Avebury field.
 
 Their cadence hits the amplifier as one living wave.
 
-Crane's forecast improves.
+Lang's forecast improves.
 
 "There," he says. "Voluntary coherence at scale."
 
@@ -7228,7 +7339,7 @@ Sol's voice enters the room.
 
 Same answer. Different revolution.
 
-Edda moves toward the operator frame.
+Anika moves toward the operator frame.
 
 "Decision."
 
@@ -7240,7 +7351,7 @@ Not one message. Six.
 
 The Three Circles arrive as relation without a center. The Refusal preserves
 the right to contradict authority. The Babylonian Map carries testimony from
-its edge. Göbekli carries contact without ownership. Men-an-Tol distinguishes a
+its edge. Göbekli carries contact without a complete account. Men-an-Tol distinguishes a
 completed passage from a returned person. The seed record gives knowledge
 without an owner.
 
@@ -7262,7 +7373,7 @@ Wren's voice resolves.
 
 "We can receive release."
 
-Crane hears her.
+Lang hears her.
 
 "You cannot receive the acute load."
 
@@ -7293,10 +7404,8 @@ toward what it lost. The amplifier routes through the tension."
 
 The timer reaches one minute.
 
-Maren returns to the support frame.
-
-Not because she chooses the transfer. Because the ports must be removed in
-sequence or her body arrests before choice reaches the field.
+Maren returns to the support frame. The ports must come out in sequence; remove
+them together and her heart may stop before she reaches the field.
 
 Rasel begins disconnecting under her instruction.
 
@@ -7359,7 +7468,7 @@ He could save more people now.
 
 He steps away.
 
-Edda catches his arm.
+Anika catches his arm.
 
 "You are allowing preventable harm."
 
@@ -7412,7 +7521,7 @@ becomes a white seam through the world.
 
 Sol's cadence surges to catch the signatures.
 
-Edda's array locks from outside.
+Anika's array locks from outside.
 
 Both offer order.
 
@@ -7465,14 +7574,9 @@ She does not disappear.
 She becomes a woman on the floor, breathing badly, held by Somchai, no longer
 occupying every ground at once.
 
-The living demonstration enters the amplifier.
+The living demonstration enters the amplifier. Eli gives no command.
 
-One captive thread releases.
-
-Then another.
-
-Not because Eli commands them. Because the impossible input has occurred: a
-person choosing to stop pulling toward what they most want.
+One captive thread releases. Then another.
 
 The child releases the father.
 
@@ -7485,7 +7589,7 @@ never empty.
 
 The amplifier loses fuel.
 
-Edda's lock collapses first.
+Anika's lock collapses first.
 
 Sol's unified cadence holds longer. It catches dozens of freed signatures and
 stabilizes the acute surge exactly as promised.
@@ -7507,7 +7611,7 @@ A child wakes screaming in a language no one in the house speaks. Three
 patients seize near an old ground. A frightened officer fires at someone whose
 hands begin to glow with field pressure.
 
-Crane's forecast becomes bodies.
+Lang's forecast becomes bodies.
 
 So does freedom.
 
@@ -7576,7 +7680,7 @@ abilities are minor. Some aren't. There have been deaths."
 
 "No reliable count."
 
-"Crane was right."
+"Lang was right."
 
 "About the cost."
 
@@ -7602,7 +7706,7 @@ Wren gives him water.
 
 "Sol?"
 
-"Already calling the release proof that unity works. Edda is calling it proof
+"Already calling the release proof that unity works. Anika is calling it proof
 unmanaged capacity cannot remain free. Both have footage."
 
 "Sora?"
@@ -7721,7 +7825,7 @@ She takes his hand.
 
 "I won't."
 
-"And do not let Crane make accountability into another tether."
+"And do not let Lang make accountability into another tether."
 
 "What should happen to you?"
 
@@ -7777,7 +7881,7 @@ Somchai leaves with the mobile clinic before anyone can arrange a ceremony. The
 families outside call after him. He carries a medication crate and tells them
 which intake line to use.
 
-Sora and Tommy take a route neither names. Edda remains with the damaged
+Sora and Tommy take a route neither names. Anika remains with the damaged
 facility long enough to evacuate its living staff — the door out stands open
 the whole time, unguarded, nobody's job to stop her — and she does not walk
 through it. She submits no surrender. Someone will have to come and take the

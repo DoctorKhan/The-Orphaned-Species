@@ -41,7 +41,7 @@ Use this pattern for psionic training and war:
 - Let a "game" be real before the characters know it is real.
 - Let success produce guilt, exposure, or a new enemy rather than clean advancement.
 
-Possible local translation: Pelangi Reach's morning training, Wren's route drills, Emrys's threshold tests, and hostile psion-team encounters should all feel like contests with legible rules before they become metaphysics.
+Possible local translation: Pelangi Reach's morning training, Wren's route drills, local custodians' threshold tests, and hostile psion-team encounters should all feel like contests with legible rules before they become metaphysics.
 
 ### Ali Baba pattern
 
@@ -79,10 +79,10 @@ Every major concept needs a physical adventure form.
 | Fear conquered | A dangerous route is taken with preparation, not panic. |
 | Legitimate fear | A gate is locked, a lookout posted, a child moved, a crossing delayed. |
 | Fear as ruler | A faction demands permanent control because danger is real. |
-| Dependence without ownership | Someone saves Eli, then refuses to own him; someone needs a guide without surrendering judgment. |
+| Accountable dependence | Someone saves Eli without setting the course of his life; someone needs a guide without surrendering judgment. |
 | Trust under uncertainty | A map, body, secret, or patient must be entrusted to someone with incomplete credentials. |
 | Social atomization | A clue fails because the human network that preserved it was broken. |
-| Home without ownership | A refuge gives duties and limits, not worship or guest privilege. |
+| Made home after exile | A refuge gives duties, recognition, privacy, and limits—not worship, permanent childhood, or guest privilege. |
 | Prophecy as bait | A fragment seems to predict Eli, and accepting it would hand him to a faction. |
 | Science as anti-fear discipline | A terrifying omen becomes testable, but testing exposes the group. |
 | Living network | A route, crop, song, or stone responds only when several people coordinate without command. |
@@ -122,7 +122,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Cost:** Eli must admit that leaving for Malacca risks more than his own safety. Coworkers will cover duties and take exposure because of him.
 
-**Theme carried:** dependence without ownership. A community can need records without turning people into files.
+**Theme carried:** accountable dependence. A community can need records without turning people into files or treating a provisional category as identity.
 
 ### 2. Malacca: the wrong password
 
@@ -158,7 +158,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 ### 4. Meridian City archive: the adult room is a cave
 
-**Immediate want:** retrieve or photograph a suppressed research fragment before a state unit and Crane's team seal access.
+**Immediate want:** retrieve or photograph a suppressed research fragment before a state unit and Lang's team seal access.
 
 **Adventure object:** a server cage, old map drawer, climate-controlled artifact room, visitor badge, broken elevator, and timed power cut.
 
@@ -168,9 +168,9 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Reversal:** the clean data are less useful than a maintenance log or marginal note made by someone ignored.
 
-**Cost:** Emrys becomes necessary, and Eli must trust a man who looks too much like a future owner of the truth.
+**Cost:** the archive's gatekeeper becomes necessary, and Eli must trust an institution that looks too much like a future owner of the truth.
 
-**Theme carried:** knowledge needs institutions but must not be owned by them.
+**Theme carried:** knowledge needs institutions, but no institution completes its meaning by filing it.
 
 ### 5. Strait boarding: pirates, psions, and the ordinary knife
 
@@ -216,9 +216,9 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Reversal:** the saved person's witness becomes rumor before the healer can stop it.
 
-**Cost:** a crowd arrives. Need becomes entitlement. Crane and a liberation faction both learn where the healer is.
+**Cost:** a crowd arrives. Need becomes entitlement. Lang and a liberation faction both learn where the healer is.
 
-**Theme carried:** dependence without ownership. Gratitude can become a leash.
+**Theme carried:** gratitude under pressure. A gift can become a debt that assigns the recipient's future.
 
 ### 8. Courtly hospitality: the dangerous meal
 
@@ -234,7 +234,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Cost:** accepting hospitality creates a debt; refusing it exposes a weaker ally.
 
-**Theme carried:** trust under uncertainty. Need must not become ownership.
+**Theme carried:** trust under uncertainty. Need must not cancel judgment or the right to change course.
 
 ### 9. Artifact scene: the disputed image
 
@@ -254,7 +254,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 ### 10. Göbekli / buried interface: the dead site
 
-**Immediate want:** reach or reconstruct a stone arrangement while Crane controls the obvious site.
+**Immediate want:** reach or reconstruct a stone arrangement while Lang controls the obvious site.
 
 **Adventure object:** terrain, pillar shadows, survey stakes, buried void, sound test, missing stone, weather front.
 
@@ -262,9 +262,9 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Trick:** old maps lead a pursuing team to a dead site. Living observations point elsewhere.
 
-**Reversal:** Emrys's measurement is correct but his interpretation is wrong. He trusts the map over the territory.
+**Reversal:** Rasel's measurement is correct but his interpretation is wrong. He trusts the map over the territory.
 
-**Cost:** someone is captured, injured, or forced to destroy a record to prevent ownership.
+**Cost:** someone is captured, injured, or forced to destroy a record before it becomes a compulsory identity, route, or weapon.
 
 **Theme carried:** knowledge must stay answerable to the living world.
 
@@ -290,13 +290,13 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Adventure object:** stones, sound, body positions, weather, injured allies, instrument readings, hostile teams, a failing route out.
 
-**Rule learned:** communication requires arrangement, not ownership. The center works through many differentiated people, not one master.
+**Rule learned:** communication requires arrangement and difference. The center works through many differentiated people, not one master rhythm.
 
-**Trick:** the group becomes stronger by preserving differences: Wren's social reading, Eli's reception, the healer's bodily repair, Emrys's measurements or legacy, local custodians' knowledge, and ordinary defenders' timing.
+**Trick:** the group becomes stronger by preserving differences: Wren's social reading, Eli's reception, the healer's bodily repair, Rasel's measurements, local custodians' knowledge, and ordinary defenders' timing.
 
-**Reversal:** Eli can take the throne-like shortcut and refuses. The hard no is tactically useful because command coherence is exactly what hostile teams can hijack. (Crane frames the shortcut as *coercion-as-courtesy* — sincere, protective, a cage; grammar + drafted scene in `47_coercion_as_courtesy.md`.)
+**Reversal:** Eli can take the throne-like shortcut and refuses. The hard no is tactically useful because command coherence is exactly what hostile teams can hijack. (Lang frames the shortcut as *coercion-as-courtesy* — sincere, protective, a cage; grammar + drafted scene in `47_coercion_as_courtesy.md`.)
 
-**Cost:** freeing the mother requires release, not possession. Crane survives into accountability rather than giving Eli the clean emotional violence.
+**Cost:** freeing the mother requires release, not possession. Lang survives into accountability rather than giving Eli the clean emotional violence.
 
 **Theme carried:** the final victory is not domination, chaos, messiah, or registry. It is accountable coexistence.
 
@@ -306,13 +306,13 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Adventure object:** a cargo seal scanned twice in one hour in two ports, a clinic timestamp, a berth log, an audit terminal, an official's stamp kit.
 
-**Rule learned:** an institution can manufacture a legible crime to solve a political problem. The frame is administrative convenience, not sadism — a subordinate builds the pretext because the doctrine rewards it, without Crane ever ordering it.
+**Rule learned:** an institution can manufacture a legible crime to solve a political problem. The frame is administrative convenience, not sadism — a subordinate builds the pretext because the doctrine rewards it, without Lang ever ordering it.
 
 **Trick:** the fabrication is exposed with the framers' own audit tools. Discovery comes through boring records and procedure — timestamps, access lists, a maintenance log — never through confession or psionics.
 
 **Reversal:** the good-faith official who ran the sweep finds the fabrication and flips — and exposing it burns the official, not the faction. The protagonists gain an ally through *procedure* rather than hospitality or rescue, at real cost to that ally's place in the system.
 
-**Cost:** Pelangi Reach is on file anyway. And the deeper door opens: who taught Crane's people that registries equal safety?
+**Cost:** Pelangi Reach is on file anyway. And the deeper door opens: who taught Lang's people that registries equal safety?
 
 **Theme carried:** trust under uncertainty, seen from the institutional side. "Register or we can't protect civilians" is credible precisely because there is now an incident on record.
 
@@ -346,7 +346,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Cost:** helping puts her village on the sampling map. A heritable bodily adaptation is exactly what bloc programs and registry logic want to draw blood for, and the survey teams arrive dressed as care. Worse: her people are functionally paperless — statelessness protected them for generations, until bodies themselves became data.
 
-**Theme carried:** dependence without ownership, at the level of the genome. The factions war over an amplifier someone else built while a grandmother whose body is proof that Earth shapes its people to itself picks dinner off the seabed beneath the surveillance grid. The book never has to say it.
+**Theme carried:** inheritance without predetermined purpose, at the level of the genome. The factions war over an amplifier someone else built while a grandmother whose body is proof that Earth keeps shaping its people picks dinner off the seabed beneath the surveillance grid. The book never has to say it.
 
 ## Reusable Adventure Devices
 
@@ -364,7 +364,7 @@ The registries, frame-ups, and fabricated incidents in this world are all built 
 ### Thresholds
 
 - A port gate after reopening.
-- A clinic door where records become ownership.
+- A clinic door where a record becomes a person's permanent identity.
 - A ferry or strait crossing.
 - A field boundary where crops change.
 - A private collection room.
@@ -439,13 +439,13 @@ Hidden test: Eli thinks the lesson is surveillance. Wren is testing whether he t
 
 Reversal: one watcher is real, one is imagined, and one is a civilian Wren refuses to endanger.
 
-### Emrys's differentiation test
+### Eli's own differentiation practice
 
-Rules: identify whether an image, sensation, phrase, or memory belongs to Eli, one of the Seven, a planted false certainty, or ordinary trauma.
+Rules: identify whether an image, sensation, phrase, or memory belongs to Eli, one of the Seven, a planted false certainty, or ordinary trauma — with no expert to ask.
 
 Hidden test: the answer is not classification alone; it is whether Eli changes behavior before knowing.
 
-Reversal: Emrys is wrong once, and the correction comes from Eli's body or Wren's social reading.
+Reversal: Eli is wrong once, alone, and the correction comes only afterward, from his own body or Wren's social reading.
 
 ### Psion-team encounter
 

@@ -36,7 +36,7 @@ The novel opens **after** the acute phase of two overlapping crises. Background 
 
 The world is **damaged but functioning** — not collapse, not utopia.
 
-**Psionic origin lock:** rare natural carriers existed before the outbreak; this is why states, Maren, and Crane could study them in the early 2030s. The construct weaponizes that research to lower or destabilize the receiver threshold in a much larger population. Eli was born before the outbreak and inherits the natural route. The outbreak expands and exposes psionics; it does not create them.
+**Psionic origin lock:** rare natural carriers existed before the outbreak; this is why states, Maren, and Lang could study them in the early 2030s. The construct weaponizes that research to lower or destabilize the receiver threshold in a much larger population. Eli was born before the outbreak and inherits the natural route. The outbreak expands and exposes psionics; it does not create them.
 
 ---
 
@@ -44,12 +44,12 @@ The world is **damaged but functioning** — not collapse, not utopia.
 
 “Post-war” in older notes means **after the single hottest global phase**, not peace. Use *armed reopening*, *armistice-era*, or *post-collapse* in new planning prose.
 
-The archived world history rhymes **Late Bronze Age network collapse** (Cline / *1177 BC*) through pressure, not lecture. **Survival was not wall thickness or army size — it was antifragility:** adapt to chaos rather than rigidly resist it. Interdependent top-heavy systems seized when one supply chain broke. Use this table for faction behavior, long-arc fate, and Eli's corridor texture; **do not name Mycenae, Hittites, Egypt, Assyria, Phoenicia, Cypriots, Cline, or 1177 BC on-page.**
+The archived world history rhymes **Late Bronze Age network collapse** (Cline / *1177 BC*) through pressure, not lecture. **Survival was not wall thickness or army size — it was antifragility:** adapt to chaos rather than rigidly resist it. Interdependent top-heavy systems seized when one supply chain broke. Use this table for faction behavior, long-arc fate, and Eli's corridor texture; **do not name Mycenae, Hittites, Assyria, Phoenicia, Cypriots, Cline, or 1177 BC on-page** as a lecture list. **Egypt exception — LOCKED 2026-08-01:** Egypt may appear on-page only as Book II's **brief hinge / archive packet** (divine-kingship survival trap) or Book III **Mandate-face** pressure — never as a volume open or BAC checklist item (`32`, `33`, `61`).
 
 | Bronze Age fate | Historical pattern | Sci-fi bloc | Collapse strategy | Long arc (author) | On-page pressure (2040) |
 |---|---|---|---|---|---|
 | **Total losers** | Mycenaeans, Hittites — hyper-centralized fortress-builders; exploited lower classes for monumental labor; cities burned (internal revolt likely); centralized economy and literacy gone | **Continental Union** | Rigid centralization — registries, walls, force; **brittle**; no spare parts | Looks terrifying now; **hollow tree in the storm** — sudden catastrophic fracture when the next chain breaks | Charkha Measure; activation hunts; class severance baked in; "keep the chaos out" |
-| **Stagnant survivors** | Egypt, Assyria — endured cascading disaster but permanently crippled or pulled inward; massive scale + brutal control | **Eastern Mandate** | Endurance at scale — corridors, efficiency; **too rigid to adapt** at first, but contains older maritime, scientific, mercantile, and plural traditions | Survived the gene drive and collapse; initially stagnant toward the biological shift, then becomes indispensable to the joint field-sail build through internal adaptation rather than Western conversion | Watched acute phase from afar; consolidation; frames threshold episodes as **disease to cure**; later reveals scientists, workers, families, traders, critics, and Commissioner Ma behind the system |
+| **Stagnant survivors** | Egypt, Assyria — endured cascading disaster but permanently crippled or pulled inward; massive scale + brutal control | **Eastern Mandate** | Endurance at scale — corridors, efficiency; **too rigid to adapt** at first, but contains older maritime, scientific, mercantile, and plural traditions | Survived the gene drive and collapse; initially stagnant toward the biological shift, then becomes indispensable to the joint field-sail build through internal adaptation rather than Western conversion | Watched acute phase from afar; consolidation; frames threshold episodes as **disease to cure**; later reveals scientists, workers, families, traders, critics, and Commissioner Ma behind the system. **Book II seed:** Egypt hinge/packet = god-king endurance trap; **Book III:** Mandate-face only |
 | **Unprecedented winners (maritime)** | Phoenicians, Cypriots — decentralized coastal city-states; **no head to chop**; stepped into vacuum; spread iron + phonetic alphabet (copyable, person to person) | **Free Ports Coalition — ports** | **Decentralized maritime antifragility** — harbors, routes, trade through broken lanes | Natural vectors for the post-weapon mutation; **birthed the next era** without trying to own it | Malacca, Pelangi Reach, **contested archipelagos** (Hawaiʻi); threshold houses along trade lanes |
 | **Non-palace keepers (inland)** | Pastoral, mound, covenant communities that never depended on palace literacy; outlast burn layers by memory, ritual, distributed skill | **Free Ports Coalition — inland sector** (**Albion**, broken-route Europe) | **Distributed memory** — matriline, song, threshold practice on **broken lines** | Survives when maps and registries lie; Albion contested in Book II | Pömmelte trail → Rollright → Anglesey; **Albion** passport polity (legacy *Britain* on old files) |
 
@@ -164,7 +164,7 @@ Same shape, different vocabulary: an insider class gets its risk socialized by t
 | **Comms** | Phones/wearables remain; **mesh gaps** force radio, paper, and face-to-face in corridors | Suresh's chits; delayed cargo manifests; "the network's wrong again tonight" |
 | **Biosecurity** | Rapid tests, wastewater monitoring, travel tokens — normalized | Masks in port memory; quarantine floats; travel warnings on Eli's phone |
 | **Robotics** | **Scarcer than near-future default** — software scaled; **embodied** automation did not. See § *Robotics lock* below | Patched **robot dog** (legacy, one route); fixed **automatic chess**; **drones** at war/perimeter — not a robot in every plaza |
-| **Consciousness science** | Fringe → **funded fringe**: EEG/fMRI + anomaly correlation; Emrys marginalized but instrumented | signatures "measurable, meaning withheld" |
+| **Consciousness science** | Fringe → **funded fringe**: EEG/fMRI + anomaly correlation; fringe researchers (including Maren's own work) marginalized but instrumented | signatures "measurable, meaning withheld" |
 | **Transport** | EVs common in cities; **maritime still diesel-heavy** in Eli's class | Racing sailboats vs Suresh's stained hull |
 | **Finance/status** | Platform wages, gig facilities work, refugee precarity, **crypto-broken remittance lanes** (street: *transfer* / *push* / *clear* — no brand names on-page) | Island **chits** vs Meridian **cash**; Eli → Shireen clinic **phone transfer** after Cube intake; squeeze kills bars **and** remittance |
 
@@ -224,8 +224,8 @@ Still load-bearing in 2040, now **worse or sharper**:
 - feeds that fracture reality (AI-slop + state propaganda + prophecy TikTok);
 - loneliness and atomization — **why Pelangi Reach lands**;
 - **the Drift** — the untethering disease: people powered-up and lost in AI/tech feeds, addicted and cut from the real (this world's cyberpsychosis; keepers call it *god-sickness*). Present-day social texture, not just a psion condition; the machine-face of the psi-Drift. Show as behavior — a drifter on the terrace, a companion-ping habit Eli distrusts (`44` § Timeliness). Full concept `40` § *The Drift*; glossary `95`.
-- **the flow** — rendezvous phrase; emerges across **multiple further collapses** Book II–III. First spoken: **corridor break** (Ch 5). Not Vol I. `54` § *The flow*.
-- **the corridor break** (*the Break*) — Book II Ch 4–5 **regional collapse**: west European transfer corridor loses fixed routes/checkpoints/meetups. `54` § *The corridor break*.
+- **the flow** — rendezvous phrase; emerges across **multiple further collapses** Book II–III. First spoken: **corridor break** (**Ch 6**). Not Vol I. `54` § *The flow*.
+- **the corridor break** (*the Break*) — Book II **Ch 6** **regional collapse**: west European transfer corridor loses fixed routes/checkpoints/meetups. `54` § *The corridor break*.
 
 **Demographic guard:** do not make smartphones the sole explanation or imply that network collapse restores family formation. Characters may believe or weaponize that thesis. The lived causes remain plural: attention displacement, housing and labor insecurity, migration, care burdens, mistrust, delayed partnership, and lost communal space. The war and Weapon compound an older baby bust into a broken cohort structure. Faction responses reveal their moral logic: Union registry and pronatal discipline; Mandate youth quarantine/research and labor allocation; Ports extended households and alloparenting. The last can heal isolation but must still answer consent, privacy, and who bears the work.
 
@@ -319,7 +319,7 @@ Use **scar + habit**, not history lectures:
 - **Death technology** stays **our physics, accelerated** — equations, instruments, registries.
 - **Life technology** discovery feels **new to the institutions**, not ancient to the reader's world.
 - **EdgeRunners skin** — bodies traded for power, corps/blocs own the upgrade path — lands without cyberpunk pastiche.
-- **Mother's research + Emrys's instruments** — plausible classified fringe **now mature enough to weaponize**.
+- **Mother's research + the Charkha's instruments** — plausible classified fringe **now mature enough to weaponize**.
 - **Broken sky → old routes** — causal link without apocalypse.
 - **Publication buffer:** optional **~2041–2042** anchor buys real-world drift without retconning prose texture.
 

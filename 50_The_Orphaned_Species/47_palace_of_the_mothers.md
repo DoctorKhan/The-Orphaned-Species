@@ -12,7 +12,7 @@ Eli had been following the thin thread — the one that feels like his mother's 
 
 It is a court. Not a throne room — a court of rooms, a warren of low doors and braziers gone to ash, and it is full of women.
 
-They do not look at him. They are occupied: grinding, pouring, setting small round loaves on a tray that is not there. One rocks a child that is not there. Another sits with her back to a pillar, eyes closed, listening the way Emrys listens to a carrier flare — as if the silence has a frequency. None of them are Eli. That is the first mercy: he is standing in the thread, but he is not them, and they are not him.
+They do not look at him. They are occupied: grinding, pouring, setting small round loaves on a tray that is not there. One rocks a child that is not there. Another sits with her back to a pillar, eyes closed, listening the way a technician listens to a carrier flare — as if the silence has a frequency. None of them are Eli. That is the first mercy: he is standing in the thread, but he is not them, and they are not him.
 
 He knows the name before he knows the face. *Asherah.* Not a title he was taught; a shape the web resolves when he stops trying to name it. She is at the center, where the rooms converge, and she is not crowned. She is the place the rooms hold. Around her the others — Anat with her war-stained hands, the birth-goddesses in a knot like midwives waiting, Shalim with the dusk-light on her shoulders — and they are arguing, or remembering an argument, the way a family does when the house has been taken but the furniture is still theirs.
 

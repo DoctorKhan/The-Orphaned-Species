@@ -1,6 +1,32 @@
 # The Orphaned Species Book III: The Living World
 
-> **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–14 and the **Three pressure rules** (Clock A = keep the rescued world from re-caging; Clock B = Wren-network jurisdiction vs public power + registry/Crane/Sol; cost → next chapter). Beats: `33_volume_III_beatsheet.md`.
+> **GEOGRAPHY REDRAFT LOCK — 2026-08-01; Ch 1–6 RESTAGED 2026-08-01.** The
+> governing route is Albion exit → Atlantic crossing → Belém do Pará, at the
+> mouth of the Amazon on Guajará Bay (Chapters 1–6) → Hawaiʻi/Pacific (Chapters
+> 7–10). Pelangi remains an active home-node through Mei, cargo, song,
+> testimony, and reciprocal obligation — not the physical receiving harbor.
+> Chapters 1–6 stage at Belém's waterfront (Guajará Bay, Ver-o-Peso, dock
+> warehouses, old customs house). San Francisco and Washington act only through
+> delegates, feeds, refugees, records, and demands. Local agency: Amina Cole's
+> reception desk with Dona Iracema (market elder). Preserved: Tomas/Nia/Amara
+> harm, Lang's Standard, Wren's boundary, remote Union fracture, compact.
+>
+> **EAGLE–CONDOR LOCK — WRITTEN 2026-08-01.** Landed in Ch 6 ("The Compact"),
+> in the scene between "They begin." and "Purpose comes first," not Ch 4 as
+> the 2026-07-25 outline originally assigned — the compact-drafting room is
+> where the assembly is actually naming what it's building, which is the
+> living argument this lock asks for. Elena Mamani (Andean ayllu water-council
+> federation) brings the living teaching and personally contests its own
+> five-hundred-year timetable as a "tourist's date." Ademir Tembé (Tembé,
+> upstream of Belém) contests its flattening onto every Indigenous delegation
+> in the room and rejects the mind/heart, north/south binary by name. Sol's
+> delegation tries to seize it as confirmed destined unity ("ONE PEOPLE, ONE
+> SKY, ONE HOUR") and is shown doing so opportunistically. The scribe enters
+> it as testimony, not doctrine; both delegates' concrete asks (water
+> authority; a non-shared seat) go into the purpose clause as named
+> conditions, not as adopted metaphor. No bird appears on the page.
+
+> **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–14 and the **Three pressure rules** (Clock A = keep the rescued world from re-caging; Clock B = Wren-network jurisdiction vs public power + registry/Lang/Sol; cost → next chapter). Beats: `33_volume_III_beatsheet.md`.
 
 > **Governing draft begun 2026-07-28; Ch. 10 revised 2026-07-29.** Present tense, close third. Eli remains
 > the home consciousness; Wren receives only the locked away movements in
@@ -9,14 +35,20 @@
 > handover **succeeding** — distributed, redundant, no single point of failure —
 > and Eli a private citizen. Decentralized governance holds for a real stretch
 > before Book IV opens on it and then breaks it (`60_volume_IV_court_of_threads.md` § 1).
+>
+> **Book II inheritance draft lock — 2026-08-01:** The federation grows from practices readers have already watched help small groups: consent-bound psionic witness, shared meals and hearth circles, work-song and child participation, living attestation, chosen kin, craft transmission, and plural exchange. Scale them here into review teams, accountable intake, service houses and cloisters, portable training, distributed credentials, apprenticeships, and modular routes. Do not present these as ideas Eli suddenly invents. Their enlargement must create delay, bureaucracy, jurisdiction, exclusion, and capture alongside capacity.
+>
+> **Dreaming draft lock — 2026-08-01:** Research may connect Eli's sleep-state receptivity to the Last Dreamers, but never crown him with a recovered identity. Preserve false alarms, recording, corroboration, and hostile contamination beside the verified cases. A dream report is an embodied account, not evidence by itself. The drafted Pele sequence correctly leaves cultural authority with Malia and the local community: contact and prior expectation remain possible, and nothing in the dream grants command.
+>
+> **Animal-house draft lock — REVISED 2026-08-01:** Stag, Fox, Bear, Salmon, and Ox are mentorship lineages for maturation, with older members teaching younger ones through ordinary practice and rites of passage. They are never temperament sorting, work crews, military specialties, political factions, or civic ranks. Crow retired so bird/flight language stays free for the swifts coda and Book V flights. The animal gives a developmental path; mature members remain responsible for the next generation. Eli's broken-antler dream stirs at the founding but is not understood or allowed to assign him.
 
 ## Chapter One—The Boat at Morning
 
-The boat enters Pelangi Reach without lights.
+The boat enters Guajará Bay without lights.
 
 At first Eli mistakes it for one of the dead hulls.
 
-There are six beyond the eastern breakwater now, vessels whose owners cannot
+There are six beyond the outer dolphin piles now, vessels whose owners cannot
 afford fuel, clearance, or the fees required to make abandonment official. They
 sit at different angles in the dawn and teach the harbor what neglect looks like
 at every stage. The incoming boat moves among them with its engine off.
@@ -38,9 +70,10 @@ to discard anything that can still embarrass its manufacturer.
 
 "Too many."
 
-The storm wall on the eastern horizon is still only a bruise. In another hour
-it will cover the strait. A patrol drone turns above the shipping lane, following
-a route too regular to be searching and too low to be weather.
+Rain is already building over the river mouth. In another hour it will arrive
+on the schedule every stevedore trusts more than any government. A patrol
+drone turns above the shipping lane, following a route too regular to be
+searching and too low to be weather.
 
 Eli feels the boat before he sees a face.
 
@@ -51,7 +84,8 @@ returns carrying everyone else's fear with it.
 The harbor answers.
 
 Screens wake in cabins where nobody has touched them. A mooring alarm sounds on
-the west pier. Three swiftlets leave the old hotel roof at once and wheel inland.
+the Ver-o-Peso pier. Three black vultures leave the iron roof of the old customs
+house at once and wheel inland.
 
 Wren lowers her radio.
 
@@ -69,24 +103,18 @@ Wren lowers her radio.
 
 She accepts the correction without accepting the habit behind it.
 
-Pelangi Reach has changed since Eli left.
+Belém has received them for eleven days.
 
-The hotel still leans over the water in the same improbable posture, patched
-concrete resting on columns that every engineer describes as temporary. The
-kelong walks have been rebuilt in three woods and one printed composite. New
-shade cloth covers the clinic deck. Solar film darkens the south roof. The old
-dining room has become a dispatch floor whose wall maps carry routes to
-threshold houses, station keepers, clinics, repair yards, Weaver kitchens, and
-communities that do not belong to any of them.
+Long enough after the Atlantic crossing to learn which market stall feeds before
+classification, which dock warehouse still has power after rain, and which
+reception desk will argue with Union blue-gray without raising a weapon. The
+converted customs house carries wall maps to threshold houses, clinic fleets,
+Weaver kitchens, and river communities that do not belong to any of them.
+Nothing on the maps is called a capital. People still say *Pelangi* when they
+mean the home-node across the ocean—Mei, cargo, song, reciprocal obligation—
+as if a name could travel without the body.
 
-Nothing on the maps is called a capital.
-
-People call Pelangi anyway.
-
-Eli has been home eleven days.
-
-Long enough to learn where the bowls moved. Not long enough to stop being a
-visitor in the work.
+Eli is useful here. He is not home.
 
 "Patrol turn," Bima says.
 
@@ -94,8 +122,8 @@ The drone banks toward the unlit boat.
 
 Wren switches channels.
 
-"Reach council. Unknown vessel inside eastern wreck line. Probable awakening
-event. Patrol contact in four minutes. Weather in forty."
+"Port receiving. Unknown vessel inside outer wreck line. Probable awakening
+event. Patrol contact in four minutes. Rain in forty."
 
 Responses arrive over one another.
 
@@ -105,19 +133,23 @@ Responses arrive over one another.
 
 "Keep them outside until health clears."
 
-"If you close the boom they hit the south reef."
+"If you close the boom they hit the sandbar."
 
 "If you open it, the patrol has jurisdiction inside."
 
 "It already thinks it does."
 
-Mei's voice cuts through from the hotel kitchen.
+Mei's voice cuts through from Pelangi on a delayed kitchen channel, half a
+second behind the rain.
 
 "How many breakfasts?"
 
 Nobody knows.
 
 "Make thirty," Eli says.
+
+Dona Iracema, already at the cook-fire under the market roof, does not wait for
+translation. Amina Cole at the reception desk marks thirty without looking up.
 
 Wren looks at him.
 
@@ -138,8 +170,8 @@ actuator has failed again.
 
 The council keeps arguing.
 
-Closure has reasons. Three children at the Reach developed uncontrolled
-contact after the awakening spread. One sleeps only beneath a grounded canopy.
+Closure has reasons. Three children in the Belém receiving network developed
+uncontrolled contact after the awakening spread. One sleeps only beneath a grounded canopy.
 Two residents left because every communal room began feeling occupied from
 inside. A woman on the north walk can make people remember a fire that never
 happened when she becomes frightened. Nobody here believes danger is a word
@@ -235,7 +267,7 @@ The boat has no power with which to obey.
 
 Eli takes the radio.
 
-"Reach council, propose temporary pier command until all bodies are ashore or
+"Port receiving, propose temporary pier command until all bodies are ashore or
 the vessel is refused. Bima controls water approach. Wren controls intake and
 workplace boundaries. Mina controls medical. Mei controls immediate food and
 shelter. I coordinate contact and patrol interference. Any one lead can stop the
@@ -256,8 +288,8 @@ The drone turns its camera toward the launch.
 The storm moves over the sun.
 
 Votes arrive badly. Two explicit yeses. One no. Three conditional assents. A
-founder who says, "Proceed," as if the Reach were still a company and his verb
-could settle ownership.
+founder who says, "Proceed," as if the receiving network were still a company
+and his verb could settle authority.
 
 Wren counts.
 
@@ -453,7 +485,7 @@ On the pier, Mina shouts numbers.
 "Walking to blue line. Nonwalking stay aboard. No touching without asking.
 Anyone hearing thoughts that aren't theirs, say it before you move."
 
-The first passenger steps onto Pelangi Reach.
+The first passenger steps onto the Belém dock.
 
 Nobody cheers.
 
@@ -581,7 +613,7 @@ Every lead has cleared the landing inside their area. Medical wants isolation
 for six. Wren wants separate sleeping spaces, named abort contacts, no work
 assignment for seventy-two hours, and an immediate rule against using perceived
 thought as evidence of intent. Several residents want the boat turned back out
-once the storm passes. Two founders are already discussing how Pelangi's intake
+once the storm passes. Two founders are already discussing how Belém's intake
 model could be licensed to other harbors.
 
 Mei brings Tomas a bowl.
@@ -594,12 +626,8 @@ She kneels so he can see her beneath the hood without removing it.
 
 "Your sister did."
 
-Tomas begins crying.
-
-Not because the food is kind.
-
-Because for one sentence there is a way somebody can know something about him
-without having taken it from inside his head.
+Tomas begins crying. Mei pretends to check the bowl for peanuts again and gives
+him time to stop.
 
 "Last body is ashore," Wren tells Eli.
 
@@ -700,8 +728,6 @@ Mei hands him a bucket.
 
 "West bed."
 
-Not ownership. Work.
-
 He carries water.
 
 At the third row, Wren finds him.
@@ -715,7 +741,7 @@ health shelter. Tomas is one."
 
 "Reasonable."
 
-"She wants her wife brought through from Batam as soon as the corridor opens."
+"She wants her wife brought through from the Santarém corridor as soon as it opens."
 
 "Can we?"
 
@@ -756,7 +782,7 @@ Tomas looks at him.
 
 The harbor beyond him is returning to work. Bima tests the boom actuator with a
 hammer. Mei's kitchen vent begins breathing steam. On the hotel roof, the
-swiftlets leave in small groups rather than one dark body.
+vultures leave in small groups rather than one dark body.
 
 "When you told everyone what to do," Tomas says, "it became quiet."
 
@@ -789,7 +815,7 @@ someone."
 
 Eli looks at the acceptance order on the table.
 
-Crane's program would give an answer. Detection, training, containment, a bed
+Lang's program would give an answer. Detection, training, containment, a bed
 behind a locked door, records that never forget what Tomas might become.
 
 It would also keep other people safer.
@@ -808,25 +834,18 @@ Tomas looks between them.
 
 "Will you surrender me?"
 
-Outside, someone calls Eli's name from the pier.
-
-Not because he is the nearest worker.
-
-Because yesterday authority worked.
-
-And working things acquire believers faster than limits.
+Outside, someone calls Eli's name from the pier. Bima is closer. So are two
+members of the council. Nobody calls for them.
 
 "Not today," Eli says.
 
-It is not enough to become a promise.
-
-It becomes one anyway.
+Tomas exhales as if Eli promised more.
 
 ## Chapter Two—Terms of Welcome
 
 The first argument is about a curtain.
 
-Pelangi Reach has six grounded sleeping rooms and twelve people who now require
+The dock warehouse has six grounded sleeping rooms and twelve people who now require
 them. The clinic proposes two cots per room. Wren proposes hanging conductive
 curtains between the cots. Bima says the available cloth will not carry a
 reliable ground after three wash cycles. Mina says reliability after three wash
@@ -929,11 +948,11 @@ That is becoming its own warning.
 
 ---
 
-Crane's clinic sends the curtains.
+Lang's clinic sends the curtains.
 
 They arrive by noon in sealed crates with grounding straps, sleep monitors,
 field-damping layers, and a medical team waiting offshore for permission to
-enter. The equipment is better than anything Pelangi can fabricate. Each
+enter. The equipment is better than anything the receiving network can fabricate. Each
 curtain has a transparent strip at face height so nobody can be isolated
 without being seen.
 
@@ -949,12 +968,12 @@ Wren reads it four times.
 
 "Can be copied first."
 
-Crane requests a public call.
+Lang requests a public call.
 
 The dispatch room fills. Residents stand in the hall. Tomas remains in the
 clinic by choice, listening through an ordinary speaker.
 
-Crane appears without the bonsai.
+Lang appears without the bonsai.
 
 His background is a medical operations floor busy enough to prove he has other
 problems and carefully framed enough not to reveal where.
@@ -1011,7 +1030,7 @@ Several people in the room trust him more for saying it.
 
 "We do both. You are proposing to document only after injury."
 
-Crane brings up three cases with names removed. A driver whose panic made every
+Lang brings up three cases with names removed. A driver whose panic made every
 passenger see the road as open. A caregiver who entered a sleeping patient's
 memory and responded to an assault that had happened twenty years before. A
 child whose interference stopped a heart monitor long enough to hide an
@@ -1021,11 +1040,11 @@ In two cases, prior signs existed in another jurisdiction.
 
 No record followed.
 
-"Those deaths were preventable," Crane says.
+"Those deaths were preventable," Lang says.
 
 Eli feels the room move toward him.
 
-Not Crane.
+Not Lang.
 
 They wait for Eli to defeat the argument.
 
@@ -1033,7 +1052,7 @@ He cannot.
 
 "Some were," he says.
 
-Crane nods once.
+Lang nods once.
 
 "The Standard does not require you to believe these people are bad. It requires
 you to remember what the next community has a right to know."
@@ -1054,7 +1073,7 @@ Wren answers.
 
 "Neither is a file."
 
-Crane looks at her with something close to respect.
+Lang looks at her with something close to respect.
 
 "Your proposed system depends on local competence, honest self-report,
 distributed records, continuing relationships, and communities willing to
@@ -1078,9 +1097,9 @@ Wren does not call him a liar.
 
 The call ends without victory.
 
-Pelangi accepts the curtains.
+Belém accepts the curtains.
 
-The fact enters Crane's argument and theirs.
+The fact enters Lang's argument and theirs.
 
 ---
 
@@ -1161,7 +1180,7 @@ Eli sits with it.
 
 Tomas studies him.
 
-Eli could tell him about usefulness at Pelangi. The boy on the call sheet.
+Eli could tell him about usefulness at Pelangi, spoken from here. The boy on the call sheet.
 The hard splice. The childhood habit of solving a room before it could decide
 whether to keep him.
 
@@ -1396,15 +1415,15 @@ Nia stands beside them with both arms folded. Tomas identifies the live lead
 without reaching into either person's mind. Bima changes the arrangement and
 makes him do it again.
 
-Crane's curtains dry on the clinic rail.
+Lang's curtains dry on the clinic rail.
 
 His risk data remain accurate.
 
-Pelangi's welcome remains real.
+Belém's welcome remains real. Pelangi's remote kitchen remains real.
 
 Neither fact protects the next person by itself.
 
-At noon, the Batam route opens long enough for one passenger launch.
+At noon, the Santarém corridor opens long enough for one passenger launch.
 
 Amara Okafor steps onto the pier carrying two tool cases and finds her wife
 before anyone asks for a document.
@@ -1422,7 +1441,7 @@ For twelve days, nothing terrible happens.
 
 This becomes evidence according to whoever is speaking.
 
-Tomas sleeps beneath Crane's curtains. He reports contact before entering the
+Tomas sleeps beneath Lang's curtains. He reports contact before entering the
 kitchen twice and leaves once when Ilyas asks him to. He attends grounding
 practice with Mina, field hygiene with Rasel by screen, and an ordinary
 electrical safety review conducted by Bima, who fails him for answering a
@@ -1451,14 +1470,13 @@ At himself for being relieved there is a tomorrow.
 Amara and Nia take a room above the old laundry. They have been married four
 years and physically together for nine months of them. Amara repairs steering
 systems and small engines. Nia can make a failing pump confess through a
-bulkhead. Their first argument at Pelangi concerns whether the room's ceiling
+bulkhead. Their first argument in Belém concerns whether the room's ceiling
 fan is noisy enough to repair.
 
 Amara says yes.
 
-Nia says it is communicating.
-
-They become ordinary quickly.
+Nia says it is communicating. The argument continues through breakfast and two
+borrowed screwdrivers.
 
 Nia joins the harbor crew on provisional shifts. Amara helps rebuild the
 workboat that carried them in, beginning with the engine locker where a man hid
@@ -1469,8 +1487,9 @@ He hates it.
 
 He does it.
 
-Mei learns that Nia dislikes sweet coffee and gives it to her incorrectly for
-three mornings because Nia's face when betrayed by sugar makes Lopa laugh.
+Dona Iracema learns from Mei's cargo note that Nia dislikes sweet coffee and
+gives it to her incorrectly for three mornings because Nia's face when betrayed
+by sugar makes Amina laugh.
 
 The boat refugees stop eating at one table.
 
@@ -1735,7 +1754,7 @@ Eli's forced entry broke the contact and left him conscious, vomiting, unable
 to recognize written words. The door is locked from the outside under the
 temporary-danger clause.
 
-Crane's medical team waits beyond the harbor.
+Lang's medical team waits beyond the harbor.
 
 This time Wren lets them enter.
 
@@ -1774,7 +1793,7 @@ every person from the boat is screened by the state program.
 The third attack is on the forms.
 
 Refugees burn copies on the east walk, arguing that the review created the file
-Crane needed to take Tomas. One woman tears up her own incident report and says
+Lang needed to take Tomas. One woman tears up her own incident report and says
 no harm can be answered under a system that ends in confinement.
 
 Each side holds one piece of the body.
@@ -1949,11 +1968,11 @@ She carries a tray past him without slowing.
 
 Tomas is transferred at dawn.
 
-Crane's team accepts Pelangi's conditions: named destination, counsel access,
+Lang's team accepts Belém's conditions: named destination, counsel access,
 medical rather than punitive hold, daily outside contact, no research use
 without separate consent, review in seven days.
 
-Crane signs.
+Lang signs.
 
 The permanent registry entry is created anyway.
 
@@ -1967,34 +1986,39 @@ Neutral isn't dead.
 
 The repair is.
 
-By noon Pelangi Reach has split into three councils, two intake lines, and one
+By noon Belém has split into three councils, two intake lines, and one
 kitchen everyone still uses while denying that shared hunger constitutes
-agreement.
+agreement. Mei's delayed channel from Pelangi carries the same argument in
+another accent and does not resolve it.
 
-A Continental Union delegation sends an invitation to San Francisco.
-
-Crane's Standard will be presented there in full: universal detection,
-mandatory training, interoperable records, central emergency command, and
-reviewable containment.
+The Atlantic corridor's civilian councils, three Union delegations, and Lang's
+program will convene at these same docks to present the Standard in full:
+universal detection, mandatory training, interoperable records, central
+emergency command, and reviewable containment. San Francisco and Washington
+will attend by screen. Nobody from Belém will surrender the room to a screen.
 
 This morning, every part of it looks less like tyranny than it did yesterday.
 
-Eli reads the invitation beside the ruined garden bed where someone has pulled
-up the grafted tomato by its roots.
+Eli reads the invitation beside the ruined planter where someone has pulled up
+a grafted tomato cutting Mei sent from Pelangi—seed that Belém growers have not
+yet agreed may enter their ecology.
 
 He presses the wet soil back into the hole although there is nothing left to
 hold.
 
 ## Chapter Four—The Standard
 
-San Francisco receives them through a garden built over concrete.
+The Standard arrives through rain that arrives on schedule.
 
-The security vehicle enters beneath Yerba Buena before dawn and rises into rain
-among loading docks, museum service doors, hardened air intakes, and guards
-wearing the blue-gray of the Continental Union. Above them, water is already
-falling at the King memorial.
+Union launches and civilian boats pack Guajará Bay before dawn, past cargo
+lighters riding high on an incoming tide, and tie up beneath the iron trusses
+of the same converted dock warehouse where Belém's receiving network has been
+working for weeks. Guards in Union blue-gray share the covered walk with
+stevedores who have been loading the same berth since before anyone wore that
+uniform. By the hour the afternoon rain is due, everyone on the water already
+knows to expect it.
 
-Crane's folder waits on every seat.
+Lang's folder waits on every seat.
 
 **THE COMMON SAFETY STANDARD**
 
@@ -2017,43 +2041,55 @@ Wren reads the index and closes the folder.
 
 "At least it's there."
 
-The vehicle stops.
+The launch stops short of the pier.
 
-An official apologizes that the conference entrance is not ready. A
-demonstration has blocked the east stairs, three registry families are camped
-inside the public atrium, and a security sweep has found an unlicensed field
-signature near the negotiation rooms.
+An official apologizes that the negotiation hall is not ready. Market vendors
+have refused to clear the customs square until their stalls are guaranteed
+against seizure, three registry families are camped inside the old passenger
+terminal, and a security sweep has found an unlicensed field signature near
+the warehouse the talks were meant to use.
 
-"We can hold here," the official says.
+"We can hold you aboard," the official says.
 
-Amara opens the door.
+Amara opens the hatch.
 
-"I'm not meeting anybody in a garage."
+"I'm not meeting anybody in a boat."
 
-They follow her into rain.
+They follow her onto the dock in the rain.
 
 ---
 
-The memorial's waterfall makes privacy without silence.
+The market makes privacy without silence.
 
-Water drops over stone and glass into a sheltered passage where visitors can
-walk behind it. The city remains visible through the moving surface: umbrellas,
-security lights, a child pulling away from an adult to put both hands against
-the wet glass.
+Ver-o-Peso runs the length of the waterfront under an iron roof shipped from
+Europe a century before anyone at this table was born, and the rain drums
+against it loud enough that two people standing close can talk without being
+overheard by a third standing near. The bay stays visible past the stalls:
+fishing boats riding the tide against their lines, a child pulling away from an
+adult to put both hands flat against a crate of ice.
 
-Names and words appear, blur, return.
+Herb-sellers call their remedies over the drumming.
 
-A woman in a yellow rain shell directs arrivals beneath the overhang. She is in
-her sixties, Black, close-haired, carrying a ring of laminated route cards
-rather than credentials.
+A woman in a yellow rain cape directs arrivals under the market's clock tower.
+She is in her sixties, Black, close-haired, carrying a ring of laminated route
+cards rather than credentials.
 
 "Negotiation party?" she asks.
 
 The Union official begins presenting clearances.
 
-"Not to me. I'm Amina Cole. Sanctuary desk is short two people and the police
-line moved our families. If you're only passing, pass left. If you can carry,
-take a color."
+"Not to me. I'm Amina Cole. Reception desk is short two people and the port
+police moved our families off the customs steps. If you're only passing, pass
+left. If you can carry, take a color."
+
+A second woman works the next trestle table, sorting ration cards by
+household size with the speed of someone who has done it since before Amina
+arrived. Dona Iracema ran the herb stalls at Ver-o-Peso for thirty years before
+the crossings started; she is the reason the desk exists at all, and the
+reason Amina defers to her on anything involving the market families.
+
+"She asks," Dona Iracema says without looking up, meaning Amina, "because I
+taught her to ask instead of assume."
 
 Wren takes green before asking what it means.
 
@@ -2079,15 +2115,16 @@ Amina looks at her face, then at the closed folder under her arm.
 
 "For nobody to make me useful for ten minutes."
 
-"Bench behind the west glass."
+"Bench behind the ice stall. Nobody asks anything of a person sitting near
+ice."
 
 Amara goes.
 
-The sanctuary practice is not part of the memorial administration. It began
-when displacement camps filled the convention spaces and outlived three
-temporary governments. Volunteers keep separate route cards: shelter, food,
+The reception practice is not part of any port authority. It began when the
+first crossings filled the passenger terminal and outlived two changes of
+customs command. Volunteers keep separate route cards: shelter, food,
 medicine, legal witness, missing-person search. Names stay with the people or
-with a holder they choose. The desk records capacity—four beds, one van, two
+with a holder they choose. The desk records capacity—four beds, one boat, two
 interpreters—without building a permanent identity from the person who uses it.
 
 "How do you stop somebody taking the same bed twice?" the Union official asks.
@@ -2102,13 +2139,13 @@ interpreters—without building a permanent identity from the person who uses it
 
 "At this scale we have forty-seven desks."
 
-Amina points across the gardens.
+Amina points across the market.
 
-The system is not invisible. It is people in rain shells, local databases that
-do not interoperate cleanly, union kitchens, church vans, mosque rooms, queer
-housing circles, disability groups, family chats, clinic lists, and one
-municipal shelter whose director has been fighting federal access for two
-years.
+The system is not invisible. It is people in rain capes, local ledgers that do
+not interoperate cleanly, dock unions, market stallholder associations, parish
+kitchens, terreiro mutual aid, riverine family networks that take in cousins
+of cousins without asking who counts as one, disability groups, and one
+hospital wing whose director has been fighting federal access for two years.
 
 It has gaps.
 
@@ -2136,31 +2173,34 @@ invented it."
 
 "For the next man to be stopped if she's right."
 
-Through the glass, Amara watches the water.
+Past the ice stall, Amara watches the tide come in under the fishing boats.
 
-Nobody in the passage agrees on what safety requires.
+Nobody at the market agrees on what safety requires.
 
-They remain in the same public room.
+They remain in the same public room anyway.
 
-Amina returns with tea.
+Amina returns with tea brewed from something Dona Iracema sells by the fistful.
 
-"The old preacher compared a constitution to a keyboard," she says, nodding
-toward one of the inscriptions. "People like to remember the music part. Harder
-part is every key has to sound."
+"My grandmother ran a stall here through three currencies and two floods," she
+says. "She used to say the market doesn't care what you call your money. It
+cares whether the fish is fresh and whether you'll be back tomorrow to answer
+for today's scale."
 
-"Even the wrong one?" Eli asks.
+"Even when today goes badly?" Eli asks.
 
-"You ever heard a piano with one key stuck down?"
+"Especially then. Ask any vendor what happens to the one who doesn't come
+back."
 
 She leaves him with the cup.
 
-On the glass beyond the falling water, justice rolls.
+Out past the awning, the tide keeps rising against the pilings, indifferent to
+which delegation gets there first.
 
 The rain makes the rest unreadable.
 
 ---
 
-Crane's negotiation room has no windows and perfect humidity.
+Lang's negotiation room has no windows and perfect humidity.
 
 The folders open automatically when he enters.
 
@@ -2168,7 +2208,7 @@ He is present in person, wearing a dark civilian suit with a small field monitor
 at the throat. Tommy Reyes stands behind the Union security line, no longer in
 Custodian gray. Sora is absent. Nobody offers an explanation.
 
-Crane begins with Nia.
+Lang begins with Nia.
 
 Her name, occupation, marriage, arrival date, incident time, medical sequence.
 No photograph of the body.
@@ -2189,7 +2229,7 @@ Amara watches him assemble the record.
 
 "You added my address."
 
-Crane looks to an analyst.
+Lang looks to an analyst.
 
 "Remove it from this display."
 
@@ -2203,7 +2243,7 @@ Crane looks to an analyst.
 
 "There it is."
 
-Crane waits.
+Lang waits.
 
 "What?"
 
@@ -2240,7 +2280,7 @@ Review.
 
 No true deletion.
 
-Crane demonstrates the system using events that occurred during the eleven days
+Lang demonstrates the system using events that occurred during the eleven days
 after Nia died. In one harbor, prior sleep-entry reports allowed a family to
 separate rooms before a child was harmed. In another, a healer's record brought
 the correct metabolic support to a collapse. A mobile team used compatible
@@ -2257,11 +2297,11 @@ strict limits and still chose screening.
 
 "Your diagnosis contains truth," Eli says.
 
-Crane's expression does not change, but the room does.
+Lang's expression does not change, but the room does.
 
 People expected battle.
 
-"Then accept the Standard," Crane says.
+"Then accept the Standard," Lang says.
 
 "Not the identity tier."
 
@@ -2297,7 +2337,7 @@ coordination across many communities, with each retaining an exit."
 
 That earns a few exhausted laughs.
 
-Crane studies the route card.
+Lang studies the route card.
 
 "Who commands during the interval in which every jurisdiction is consulting
 its conscience?"
@@ -2308,7 +2348,7 @@ its conscience?"
 
 Eli has no answer ready.
 
-Crane sees.
+Lang sees.
 
 "You," he says.
 
@@ -2325,11 +2365,7 @@ Crane sees.
 "You are already the exception your system requires. Your objection is that I
 have made the exception legible."
 
-The throne arrives as an administrative conclusion.
-
-Not a crown.
-
-A field in a form that somebody must fill.
+Lang turns the form around. The coordinator field is blank.
 
 ---
 
@@ -2530,7 +2566,7 @@ Park looks at the apparatus she built and the exit she was not selected to use.
 Rasel opens the survival roster on the official's abandoned slate.
 
 Ministers. Command staff. Technical custodians. Families under derivative
-eligibility. Crane.
+eligibility. Lang.
 
 Park is absent.
 
@@ -2611,12 +2647,12 @@ Some refuse.
 
 Enough answer.
 
-They move through a museum loading corridor, behind the waterfall, and into a
-city whose official command has broken into guarded islands. Amina's desk is
-gone. Her route cards have spread among the people moving.
+They move through a warehouse loading corridor, past the tide gates, and into
+a port whose official command has broken into guarded islands. Amina's desk
+is gone. Her route cards have spread among the people moving.
 
-Eli assigns buses, clinics, witnesses, harbor passages, and field escorts. He
-does it well. Each success produces another request. A district council asks
+Eli assigns boats, clinics, witnesses, dock passages, and field escorts. He
+does it well. Each success produces another request. A riverine district asks
 him to confirm an evacuation. A Union unit asks whether to hold a bridge. A
 threshold house asks permission to deny armed arrivals.
 
@@ -2624,7 +2660,7 @@ threshold house asks permission to deny armed arrivals.
 
 "We need one answer."
 
-Crane appears on every surviving civic channel.
+Lang appears on every surviving civic channel.
 
 "The Standard is active under emergency authority. Report field status and
 comply with assigned movement."
@@ -2660,8 +2696,8 @@ The power has no title.
 
 This makes it worse.
 
-On the fourth night after San Francisco, a clinic requests authority to move
-twenty-one awakened children across a closed state line. Wren wakes Eli.
+On the fourth night after the crisis, a clinic requests authority to move
+twenty-one awakened children across a closed river district. Wren wakes Eli.
 
 On the fifth, a defense crew asks whether it may abandon an exposed fuel depot
 to escort civilian boats. She wakes him.
@@ -2670,31 +2706,27 @@ On the sixth, a woman wants Eli to tell her husband that hearing desire does not
 make acting on it inevitable. Wren routes the request to a counselor and lets
 Eli sleep.
 
-By the time they reach Washington, she has become the person who decides which
-grief is governmental.
+By the time the tide has turned six times, she has become the person who
+decides which grief is governmental.
 
-The train enters the dead capital from the north.
+The public session moves from the warehouse to the customs square because no
+room the port controls can hold the crowd, and because too many people refuse
+another sealed room.
 
-It runs without windows in the forward cars because blast damage left too much
-glass waiting to become weather. The old city appears through patched rear
-panels: apartment shells, memorial stone, flood barriers, federal buildings
-occupied by agencies that exist only in other cities, trees growing through
-security lanes.
-
-The Continental Union maintains Washington as archive, symbol, and negotiation
-ground.
+The Continental Union maintains the square as archive, symbol, and negotiation
+ground for this whole stretch of coast.
 
 Not capital.
 
 Nobody agrees where the capital is.
 
-That is why everyone keeps returning here.
+That is why everyone keeps returning to a dockside customs square instead.
 
 ---
 
-The names begin before the Lincoln Memorial.
+The names begin along the warehouse ironwork.
 
-Families have tied them to crowd barriers on cloth, paper, sleeves cut from
+Families have tied them to the trusses on cloth, paper, sleeves cut from
 uniforms, pieces of sail, medication packets, and the backs of mobilization
 orders.
 
@@ -2726,14 +2758,15 @@ Amara touches the cloth once.
 
 She leaves it.
 
-The public session occupies the lower approach because the memorial chamber
-cannot hold the crowd and because too many people refuse another sealed room.
-The reflecting pool is partly drained. Temporary clinic tents stand where
-tourists once took photographs. Armed Union personnel keep a perimeter wide
+The public session occupies the square because the warehouse floor cannot hold
+the crowd and because too many people refuse another sealed room. The tide has
+pulled back further than the schedule promised, leaving wet mud and stranded
+skiffs where boats float at every other hour. Temporary clinic tents stand
+where market stalls usually run. Armed Union personnel keep a perimeter wide
 enough to be called public.
 
-The stone figure above them remains seated through every claim made in its
-name.
+A clerk reads the session open from a printed charter, the way the compact's
+predecessor documents have always been read aloud rather than only posted.
 
 One nation.
 
@@ -2743,7 +2776,7 @@ Preservation.
 
 Emancipation.
 
-The words have survived better than the institutions that used them.
+The words survive the reading better than the institutions that wrote them.
 
 Wren sits with Rowan on a field screen positioned at the witness table.
 
@@ -2872,7 +2905,7 @@ She holds up the receipt before the clerk calls the hearing back to order, so it
 
 The clerk reads the transfer record into evidence: a holding sold under a seat inherited, not earned — the paperwork calls it a **continuity seat** — cleared four hours before the public review that halved the fund's value.
 
-The seat belongs to Devra Aldis.
+The seat belongs to Dana Morris.
 
 She does not deny the timing.
 
@@ -2888,7 +2921,7 @@ She does not deny the timing.
 
 "Say what you did to it."
 
-Devra looks at the clerk instead of at Nora.
+Dana looks at the clerk instead of at Nora.
 
 "I sold."
 
@@ -2898,7 +2931,7 @@ Devra looks at the clerk instead of at Nora.
 
 "You have all of it. You just don't have to give it to me."
 
-The room does not applaud and does not object. Devra Aldis is not lying under the hearing's own rules, and everyone in it can see the distance between that and being innocent.
+The room does not applaud and does not object. Dana is not lying under the hearing's own rules, and everyone in it can see the distance between that and being innocent.
 
 "It wasn't illegal," she says again, quieter, as if repeating it might make it sound less like an answer.
 
@@ -3080,9 +3113,9 @@ The absence enters the record too.
 
 The attack on Wren's network begins as a request from Eli.
 
-They are in a service corridor beneath the memorial. His temporary coordination
-room contains twelve screens, four maps, no bed, and the smell of clothing worn
-too long.
+They are in a service corridor beneath the customs square. His temporary
+coordination room contains twelve screens, four maps, no bed, and the smell of
+clothing worn too long.
 
 "We need one route view," he says.
 
@@ -3139,7 +3172,7 @@ It also contains expectation.
 
 "No," she says again.
 
-"I'm not Crane."
+"I'm not Lang."
 
 "Then don't ask for his access."
 
@@ -3167,7 +3200,7 @@ He walks to the map.
 
 "That is what every emergency center says."
 
-"You watched San Francisco break."
+"You watched the port break."
 
 "I watched forty-seven imperfect systems move people after the official doors
 locked."
@@ -3286,7 +3319,7 @@ Union counsel asks whether Pelangi's voluntary system failed Nia.
 
 "Yes."
 
-Crane's counsel asks whether prior registry would likely have identified Tomas
+Lang's counsel asks whether prior registry would likely have identified Tomas
 as high risk.
 
 "Yes."
@@ -3328,7 +3361,7 @@ The chair asks whether Amara will join a reconciliation session.
 
 "Do not schedule my forgiveness."
 
-The answer survives the memorial acoustics without help.
+The answer survives the open square without amplification or help.
 
 After the hearing, the Union offers a revised Standard.
 
@@ -3341,7 +3374,7 @@ too weak and eleven declaring it fascism.
 
 Sol announces a people's command.
 
-Crane activates another registry region.
+Lang activates another registry region.
 
 Wren's route circles send their first consolidated offer under member-written
 terms.
@@ -3376,7 +3409,7 @@ Sol's observers release the exchange publicly under the title:
 
 **THEY CANNOT EVEN NAME POWER.**
 
-Eli reads it in the temporary chamber beneath the National Archives.
+Eli reads it in the temporary chamber beneath the old customs house.
 
 "He's right," he says.
 
@@ -3392,13 +3425,14 @@ The chairs belong to communities whose connections failed, delegates who were
 stopped, people who refused the venue, and two groups that object to being
 represented by one face. Nobody removes them.
 
-Crane's Standard is not under negotiation here.
+Lang's Standard is not under negotiation here.
 
 That matters.
 
 They are not writing a weaker version of his system.
 
-Amina joins from a replacement sanctuary desk in Oakland. Mei joins from a
+Amina joins from a replacement desk two piers down, Dona Iracema beside her
+sorting ration cards through the interference. Mei joins from a
 kitchen operating on one generator. Rowan joins from the Raben Yard. Nadiya
 joins from an archive room with no visible institution around it. Union city
 councils, threshold houses, clinics, harbor crews, Weaver circles, refugee
@@ -3409,11 +3443,11 @@ Some have constitutions.
 
 Some have a key shared among six people.
 
-Eli places the white route card from Yerba Buena on the table.
+Eli places the white route card from Ver-o-Peso on the table.
 
 "We have working forms already," he says. "Pelangi's intake. Threshold-house
-abort contacts. Sanctuary routes that record beds without owning the person who
-uses one. Harbor command that ends when the landing ends. Conduct findings with
+abort contacts. Sanctuary routes that record beds without turning a guest into
+a permanent case. Harbor command that ends when the landing ends. Conduct findings with
 separate accounts."
 
 "Pelangi killed Nia Okafor," somebody says.
@@ -3428,11 +3462,109 @@ The correction hurts more because she gives it.
 "We don't," Eli says. "We copy what worked, record what failed, and let the next
 version be corrected."
 
-Crane's Standard offers a building.
+Lang's Standard offers a building.
 
 This assembly offers scaffolding under weather.
 
 They begin.
+
+---
+
+Elena Mamani asks to speak before anyone opens the purpose clause.
+
+She represents a federation of highland ayllu water councils, joining by a
+connection that drops twice in the first minute and comes back apologizing
+for itself. Behind her, a woven cloth hangs where a flag would go in a
+different kind of room.
+
+"You keep asking what to call this thing you're building," she says. "We have
+already been told what to call it. Eagle and Condor, flying the same sky
+again after five hundred years apart. Mind meeting heart. North meeting
+south. I did not come here to teach you the word. I came here to tell you
+what my grandmother told me was wrong with it."
+
+The room, mid-argument a moment ago, goes quiet in the specific way a room
+goes quiet for an elder.
+
+"Which part," Wren asks.
+
+"The five hundred years. My grandmother's teacher counted it differently.
+Her teacher's teacher differently again. A number that convenient was made
+convenient by someone selling it whole." Elena's screen freezes on her hand
+raised mid-gesture, then releases. "The eagle and the condor are real birds
+in a real teaching. The date is a tourist's date."
+
+Sol's delegation seizes the opening before the correction finishes landing.
+
+**THE PROPHECY IS CONFIRMED BY ITS OWN KEEPER**, their statement reads,
+already circulating. **ONE PEOPLE, ONE SKY, ONE HOUR.**
+
+Elena reads it off a second screen someone holds up for her.
+
+"I did not confirm an hour."
+
+"They'll use the sentence anyway," Eli says.
+
+"They always do. That is not a reason to stop giving them the correct
+sentence."
+
+Ademir Tembé has been listening without unmuting. He is Tembé, from the
+river country upstream of Belém, and has spent the whole session so far
+objecting to being seated under a single **INDIGENOUS GOVERNMENTS** placard
+alongside delegations his own people have historical grievances with.
+
+"You want cooperation," he says now. "Good. So do we. But do not let one
+Andean teaching become the ceiling over every river and forest delegation in
+this room. My people never told this story. Some of my neighbors did, after
+the missions taught it to them alongside the date. I will not perform
+agreement with a teaching that is not mine so the assembly can feel unified
+by lunch."
+
+"I did not ask you to," Elena says.
+
+"Sol's people are asking everyone to."
+
+"Then correct them. Do not correct me for having a grandmother."
+
+The exchange holds two things true that do not resolve each other: the
+teaching is real, carried, and hers to bring into the room: and it is not
+universal, not everyone's inheritance, and not evidence that history has a
+publishable schedule.
+
+The Union scribe, unsure what to do with either fact, asks whether to enter
+"Eagle and Condor" into the purpose clause as a governing metaphor.
+
+"No," Elena says, before Ademir can.
+
+"No," Ademir says, half a second behind her, and almost laughs at the
+overlap.
+
+"Enter it as testimony," Wren says. "Not doctrine."
+
+The scribe writes: *One delegation offered a living teaching of cooperation
+between distant peoples; another delegation named its flattening and misuse;
+neither account is adopted as the compact's origin story.*
+
+Eli feels the old pull to resolve it into a single clean sentence he could
+carry forward as proof the room agrees on something beautiful.
+
+He does not reach for it.
+
+"What do you want in the compact," he asks Elena, "if not the metaphor?"
+
+"Water councils keep their own authority over water. That is all I actually
+came to ask for."
+
+"And you," he asks Ademir.
+
+"A seat that is mine, not a category I share with people who displaced my
+grandparents. And no one deciding, in either direction, whether my river runs
+on heart or on mind."
+
+Both go into the purpose clause as named conditions, not as poetry.
+
+No bird crosses the record. Only two people, disagreeing carefully, in a
+room that needs the disagreement more than it needs the sky.
 
 ---
 
@@ -3482,7 +3614,7 @@ No permanent identity registry.
 Adjudicated harmful conduct may travel with notice, appeal, expiry or review,
 and the same complete record available to the person affected.
 
-Crane sends an objection:
+Lang sends an objection:
 
 **A PERSON WHO REFUSES IDENTIFICATION CANNOT BE RELIABLY ATTACHED TO PRIOR
 CONDUCT.**
@@ -3579,7 +3711,7 @@ Seven communities nominate him anyway.
 Two nominate Wren. She declines because the routes cannot remain independent if
 their most visible keeper becomes command.
 
-One nominates Crane to make the point that competence should matter more than
+One nominates Lang to make the point that competence should matter more than
 symbol.
 
 Three nominate local officials who refuse responsibility beyond their regions.
@@ -3606,7 +3738,7 @@ Eli hears the old trap in a new sentence: you can, therefore you owe.
 
 He also sees the evacuation map.
 
-The fast systems already exist. Crane's registry can coordinate them. Sol's
+The fast systems already exist. Lang's registry can coordinate them. Sol's
 cadence can synchronize them. The slower compact exists only as agreements
 still being copied into rooms under attack.
 
@@ -3702,7 +3834,7 @@ not ask to be mistaken for calm.
 "I am authorized to offer a seventy-two-hour exclusion around three civilian
 shipping corridors and two research channels," he says.
 
-"The Mandate struck San Francisco," Eli says.
+"The Mandate struck this harbor," Eli says.
 
 "The Mandate struck military routing embedded in civilian systems. Civilians
 died. The distinction remains operational and morally insufficient."
@@ -3770,7 +3902,7 @@ The corridor remains open.
 
 No outbreak occurs.
 
-Crane cites the success as proof of detection.
+Lang cites the success as proof of detection.
 
 Sol cites it as proof hidden enemies are everywhere.
 
@@ -3815,7 +3947,7 @@ Hawaiʻi refuses a request to base defensive aircraft at the invited facility.
 
 It accepts two boats of wounded people.
 
-Crane sends Eli a final message before departure:
+Lang sends Eli a final message before departure:
 
 **YOUR COMPACT USED DETECTION, INTEROPERABLE TECHNICAL RECORDS, TRAINED
 SPECIALISTS, AND CENTRAL COORDINATION TO STOP THE RELEASE.**
@@ -3828,7 +3960,7 @@ Then:
 
 **THE DRIVERS WENT HOME.**
 
-Crane does not reply.
+Lang does not reply.
 
 Wren meets Eli beside the transport ramp.
 
@@ -3856,8 +3988,8 @@ This time he does not translate hurt into rejection.
 
 Both answers remain true.
 
-Behind them, the first official copy of the compact leaves Washington by six
-different routes.
+Behind them, the first official copy of the compact leaves the customs house
+by six different routes.
 
 Ahead, Hawaiʻi waits with beds, water limits, damaged roofs, and the authority
 to send them away.
@@ -4019,6 +4151,22 @@ She makes him remove it.
 The men's arrival does not restore a natural division of labor.
 
 It creates another negotiation over who gets to rest.
+
+The two children beside the clinic spend the second morning kicking loose
+washers through the mud. Leilani's mother sets three paint tins beneath the
+eave and drops one washer into each: sound, bent, rusted. She gives the three
+words three notes. The children answer as they sort. Before lunch they can tell
+a surface stain from metal that will shear, and she makes them teach the next
+child instead of proving it again to her.
+
+The ground crew steals the tune for passing gutter lengths. Hands. Clear. Lift.
+The answer stretches when Bima's shoulder catches and waits when a new pair of
+hands comes in late. By Friday it has words from three languages and no agreed
+version.
+
+After the tools are locked away, the children keep the bend, clear, lift with
+empty hands, making the bend deeper each time. Bima joins them, solemnly at
+first, then misses the lift so badly that Leilani has to sit down laughing.
 
 ---
 
@@ -4256,7 +4404,7 @@ still attached.
 Within an hour Sol calls the memory proof that humanity requires a single
 defender against hidden rivals.
 
-Crane's surviving offices call it a biosecurity threat.
+Lang's surviving offices call it a biosecurity threat.
 
 The compact publishes neither claim as fact.
 
@@ -4666,7 +4814,7 @@ On the tactical map it appears stable, broad, and beautifully simple.
 
 Same cage with no visible jailer.
 
-Crane sends a different offer.
+Lang sends a different offer.
 
 Registry teams can assign compatible defenders, predict fatigue, and replace
 weak links before failure. Their model would increase civilian survival by
@@ -4690,12 +4838,11 @@ She does not absolve him with grammar.
 
 ---
 
-The first assault targets the ground paths.
+The first assault targets the ground paths. Three drones strike the conductors
+feeding the compact's local transmission stations while the nearby crews are
+still evacuating.
 
-Not the people.
-
-Three drones strike the conductors feeding the compact's local transmission
-stations. The stations do not power the defense field; they carry the bounded
+The stations do not power the defense field; they carry the bounded
 teachings and lived records by which separated communities correct one another.
 Blind the routes and every group begins mistaking its piece for the whole.
 
@@ -4755,9 +4902,7 @@ replaced.
 
 The command rises in him.
 
-He touches the network.
-
-Not a request. The beginning of synchronization.
+He touches the network and begins to synchronize it before anyone answers.
 
 Across the map, panic falls. The south cell steadies. The eastern carriers lift
 their heads as his interval enters them.
@@ -4835,7 +4980,7 @@ The second assault arrives during dispersal.
 This is the weakness everyone predicted.
 
 The compact cells separate to breathe, eat, leave, object, and replace. Sol's
-field remains continuous. Crane's assigned units remain continuous.
+field remains continuous. Lang's assigned units remain continuous.
 
 The attackers strike the junction in the gap.
 
@@ -4974,7 +5119,7 @@ This is the moment.
 He can force the gather, stop the remaining strike, hold the cells until every
 boat and every person in Blue Roof clears.
 
-He sees the future Crane offered: fewer dead in the next five minutes.
+He sees the future Lang offered: fewer dead in the next five minutes.
 
 He sees the one Sol offers: nobody leaves until the danger is over.
 
@@ -5036,14 +5181,10 @@ Eleven minutes during which neither man became time.
 
 ---
 
-Hawaiʻi receives the wounded after midnight.
-
-Not a victory procession.
-
-Contaminated work clothes sealed in bags. Phones held by people whose hands no
-longer work. Missing-person lists contradicting the final manifest. A boot
-without a foot. Medication labeled for Blue Roof residents who no longer have
-rooms.
+Hawaiʻi receives the wounded after midnight. Contaminated work clothes go into
+sealed bags at the dock. A medic unlocks a phone for a man whose hands no longer
+work. The missing-person list and the final manifest disagree by four names.
+Nobody can find the owner of a single mud-filled boot.
 
 Jalen arrives with the children and a field injury that has taken color vision
 from one eye.
@@ -5105,7 +5246,7 @@ The compact holds the junction.
 Sol's forced field wins two adjacent engagements and begins fracturing as
 exhausted members flee or are punished for trying.
 
-Crane's units save three civilian routes and place every survivor into permanent
+Lang's units save three civilian routes and place every survivor into permanent
 status review.
 
 The compact evacuates fewer people than forced synchronization might have.
@@ -5185,6 +5326,13 @@ The crown has ended.
 The judgment has not.
 
 ## Chapter Nine—The Hearing Begins
+
+Before the doors open, a Continuity liaison posts a timed notice on the hall's
+side board: **REINSTATEMENT RECOMMENDATION DUE 17:40** — forty minutes before
+emergency authority expires. Present-tense job. Deadline. The liaison does not
+argue ideology; she collects signatures for a memo that would put Eli back at
+the top of the chart "pending certification risk." Wren removes the notice,
+photographs it, and files the photograph as evidence of the job itself.
 
 Malia refuses to call the hearing hoʻoponopono.
 
@@ -5325,7 +5473,7 @@ The delegate dislikes a system that does not turn necessity into innocence.
 The finding approves the emergency interruption and requires care for the harm
 it caused.
 
-Tomas remains confined under Crane's program. His counsel reports that the
+Tomas remains confined under Lang's program. His counsel reports that the
 registry has delayed an independent reassessment.
 
 The hearing orders the compact's legal network to challenge the delay.
@@ -5400,12 +5548,8 @@ Eli looks at the names on the wall.
 
 From the back of the room, Owen says, "Then no one alone knows."
 
-Another voice repeats it.
-
-Not a chant.
-
-An answer preventing honest limit from becoming royal humility performed for
-applause.
+Another voice repeats it. Then the room returns to the question before Eli can
+turn the answer into a speech.
 
 The hearing recommends a permanent prohibition on unilateral
 force-synchronization and an emergency procedure requiring independent embodied,
@@ -5472,7 +5616,7 @@ Appeal. A place a man can remain when no household chooses him."
 
 "Military?" asks a Union delegate.
 
-"Some houses may train defense."
+"Some chapters may train defense."
 
 "Religious?"
 
@@ -5511,6 +5655,87 @@ Sol calls it domestication.
 
 Several young men join anyway.
 
+The animal names arrive two evenings later.
+
+Not from Eli.
+
+The Harbor Thread elder brings five pieces of sailcloth saved from houses that
+did not survive the war. Each carries an animal worked in faded thread: antler,
+wing, paw, fish, horn.
+
+"Jobs?" Malik asks.
+
+"No."
+
+"Teams?"
+
+"No."
+
+"Then what are they for?"
+
+The elder looks toward a boy sitting outside the room. Sixteen, perhaps. Old
+enough for three institutions to have called him a man whenever they needed
+something lifted.
+
+"So he doesn't have to guess alone."
+
+The boy was at the west perimeter when the drones came. He left his post before
+the warning order. Two younger boys left with him. All three survived. He has
+been asking whether leaving made him a coward.
+
+The elder sits beside him.
+
+"Why did you run?"
+
+"I was afraid."
+
+"Good. What did you notice?"
+
+"The targeting light."
+
+"Who else noticed?"
+
+"Nobody."
+
+"Why did the others come?"
+
+"I told them."
+
+"Then fear did its first job."
+
+He does not declare the boy brave. He does not excuse the abandoned post. They
+walk the decision forward together: who was exposed when he left, whether he
+could have warned them, where the nearest cover was, what he would do if the
+same light appeared with children behind him and no open route.
+
+Only after the questions does the elder unfold the cloth with the antler.
+
+"Stag is one way to study it," he says. "If you want."
+
+"What happens if I pass?"
+
+"You get someone younger to answer for."
+
+Across the room, other older men begin arguing about the remaining cloths.
+What Fox owes the truth after speaking it. Whether Bear may call isolation
+rest if nobody knows where he is. How an Ox learns that a finished load can be
+put down. Whether Salmon returns home or merely repeats the route that hurt
+him.
+
+They agree on almost nothing except that the animals are not work crews and no
+rite may injure a boy to prove he can bear injury.
+
+Eli sees the broken antler.
+
+For a moment he smells the net locker from the passage north: salt rope, diesel,
+his own frightened sweat. The memory does not open far enough to explain
+itself.
+
+The elder folds the cloth and gives it to the boy to return tomorrow if he
+chooses.
+
+No one records a classification.
+
 ---
 
 The Sideways negotiation continues in another building.
@@ -5523,16 +5748,9 @@ Dr. Park, Rasel, Commissioner Ma, Mandate engineers, Union survivors,
 independent replicators, harbor representatives, and affected communities write
 terms without waiting for his approval.
 
-The adaptive lattice reproduces a lateral timing displacement in four of seven
-preregistered trials.
-
-Small.
-
-Inconsistent.
-
-Not a vessel.
-
-Enough to make destroying the other side's laboratory materially foolish.
+The adaptive lattice reproduces a small lateral timing displacement in four of
+seven preregistered trials. Nobody has a vessel. Both sides now have laboratories
+worth keeping intact.
 
 The limited ceasefire covers research custody, three shipping corridors,
 inspection, and a ban on captive psionic operators.
@@ -5737,6 +5955,15 @@ He goes to sleep before it finishes.
 
 ## Chapter Ten—The Handover
 
+The night before the assembly, Amina brings leftover market rice and fried
+plantain into the preparation room and refuses to let anyone open a ledger
+until the plates are empty. Owen argues with Celia about salt. Malia tells a
+story about a cousin who once certified a fishing boat with the wrong stamp
+and still eats with the family that forgave him. Eli washes bowls. For twenty
+minutes nobody is a federation. That is the point.
+
+---
+
 The constituent assembly opens with all seven delegates present.
 
 Nobody remarks on it. That is the point. Wren has spent three weeks making sure nobody would have a reason to remark on it: seven certification desks instead of one, each cross-verified by two of the others, no single key that opens more than a third of what it takes to seat a government. If someone wanted to compromise a legitimate handover, they would need to be in seven places at once, and the seven places would need to disagree with each other about which lie to tell.
@@ -5815,13 +6042,11 @@ No one in the room mistakes it for courtship.
 
 ---
 
-By midday the seven desks have cross-certified everything they need to cross-certify, and there is nothing left to do but the thing nobody built a machine for.
+By midday the seven desks have cross-certified the record. Wren calls the vote
+on transfer. Eli's name appears nowhere on the ballot.
 
-Wren calls the vote.
-
-Not a vote on him. A vote on the compact — whether the distributed structure they spent three months building can stand without a single coordinating authority at its center. Whether seven desks, two orders, and a living ledger are a government or just a very well-organized emergency that hasn't ended yet.
-
-The assembly says yes.
+The assembly says yes: seven desks, two orders, and the living ledger will
+continue after his authority expires.
 
 There is no drone strike to answer it with, no gantry falling, no name added to the ledger in someone else's grieving hand. There is only Asha closing three ledgers, and a Union jurist reading the transfer language aloud because reading it aloud is the last ceremonial thing anyone has agreed to keep, and Eli standing to sign a document that removes his own name from the top line of an organizational chart.
 
@@ -5843,7 +6068,7 @@ Eli signs.
 
 Nothing detonates. Nobody dies today. Tarek Mensah, whose diverted vehicle became a small crisis eleven days ago and taught Wren exactly why seven desks needed to disagree with each other, gives a two-minute account of a route he trusts again and sits back down.
 
-That is the whole disaster this handover has to survive: a man late to a meeting, safely.
+The handover survives a late arrival and an argument over mileage.
 
 Owen watches his own perimeter crew stand down from a threat level that never rose, and looks almost disappointed, and does not say so.
 
@@ -5855,7 +6080,8 @@ No household sponsor.
 
 No Extra flag.
 
-Standing made civic on an ordinary afternoon, which is a smaller thing to witness than standing made civic in the middle of collapse, and a better one.
+The woman folds the credential into her bag. The veteran has already called the
+next person forward.
 
 ---
 
@@ -5873,9 +6099,9 @@ Eli finds Wren by the objection ledger afterward.
 
 He turns to the first page. Nia's name, in Amara's hand. Bima's, in Mei's. No new names today.
 
-"I know," he says again, and means the second time.
+"I know," he says again.
 
-Wren sits across from him. She is neither consort nor subordinate, and she has not gone, and there is nothing left this afternoon that requires her to prove either fact with a crisis.
+Wren sits across from him and opens the ledger to the next blank line.
 
 ---
 
@@ -5891,7 +6117,7 @@ There isn't much. A tool case. A change of clothes. The damaged Rootbook page he
 
 "No."
 
-"Good," she says, and means it the way Wren means things, which is to say completely and without decoration. "Sit while I check your hand. It's still shaking."
+"Good. Sit while I check your hand. It's still shaking."
 
 "It's not shaking."
 
@@ -5903,18 +6129,32 @@ There isn't much. A tool case. A change of clothes. The damaged Rootbook page he
 
 "So I'm told."
 
-Her fingers are cool and practical against his wrist. For a second his attention changes — not for the reason it used to, not the old hunger to be needed by whoever is closest — just a man noticing a hand that isn't asking him for anything.
-
-She feels him go still and lets go first this time, on her own schedule, not his.
+Her fingers are cool against his wrist. His pulse jumps once under them. Rowan
+notices and lets go without comment.
 
 "You're free," she says, like a diagnosis. "Try not to make a religion out of it."
 
 ---
 
-That night the repair hall empties in stages: delegates first, then crews, then the last Weaver house closing its own ledger and walking out without being told to. Eli walks home — an ordinary word, applied to a room he hasn't earned the right to call that yet, but will, eventually, the way anyone earns an ordinary word — past a harbor that has stopped waiting for him to decide anything on its behalf.
+That night the repair hall empties in stages: delegates first, then crews, then
+the last Weaver house closing its ledger and walking out without being told.
+Eli takes his tool case home past the harbor. At the third turn he stops and
+looks back. The lights are still on over all seven desks.
 
-Behind him, seven desks, two orders, and a government built to survive a day exactly like this one without needing him to survive it for them.
+Nobody calls him back.
 
-It held.
+The civic win is real. He can feel it the way he feels a clean splice—load
+distributed, no single point of failure, the room continuing without his name
+on the top line. Relief arrives. It does not become belonging.
 
-**Book III ends here — not with an ending. With a stretch of ordinary weeks nobody had to interrupt.**
+On a warehouse wall someone has chalked two incomplete circles, hatch-marks
+opposed, almost ready to join into an infinity. Street name waits for people
+who need a word for the sealed feeling after a finished job: usefulness without
+home, recognition without rest, a completion that still loops privately. Eli
+does not name it. He puts his palm against the wall beside the chalk and finds
+no answer waiting for him there.
+
+He walks on. The federation holds. He remains unfinished inside it.
+
+That private hunger is not proof the handover was theater. It is the debt Book
+IV will have to test under weather, not the excuse to call today's victory fake.

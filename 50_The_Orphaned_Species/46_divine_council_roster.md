@@ -109,7 +109,7 @@ Frame: Targum Pseudo-Jonathan on Deut 32:8 reads "**70 angels**" for the divine 
 
 ## G. Archangels — incorporation (LOCKED)
 
-*How the book uses **archangels** without adding a new species, a winged rescue squad, or a decoder ring. Full cosmology: `45_divine_names.md` (Psalm 82, Deut 32:8–9); roster: §§ B–E above; plot: `32` Ch 16 & 20, `33` Ch 25–26; Eli's body: `SOURCE_the_surges.md` (word-trigger *angel*).*
+*How the book uses **archangels** without adding a new species, a winged rescue squad, or a decoder ring. Full cosmology: `45_divine_names.md` (Psalm 82, Deut 32:8–9); roster: §§ B–E above; plot: `32` late Ch 9 (Gabriel/healer hard-no) and Ch 6 (Michael/Gabriel church iconography) confirmed against the current ten-chapter spine — **remaining chapter numbers below (Ch 16 sar dispute, Ch 19–20 annunciation, `33` Ch 25–29 Beth-Horon/Archangel Protocol) are unverified against current Book II/III structure and NEED AUTHOR DECISION on placement**; Eli's body: `SOURCE_the_surges.md` (word-trigger *angel*).*
 
 ### What they are in canon
 
@@ -148,24 +148,24 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | Device | Example on-page | Volume |
 |---|---|---|
 | **Word-trigger surge** | Lyric or prayer hits *angel* — sternum heat, hair up; Eli grades it, no explanation (`SOURCE_the_surges`) | I+ |
-| **Translation fight** | Archive or amulet: *sar* vs *malʾakh* vs "guardian angel" — Wren or a keeper picks the reading that matches their fear | II Ch 16 |
-| **Broken-line church** | **Michael** or **Gabriel** in glass/statuary at the **pew-side (negative) end** — guardian turned drain; priest claims protection, laity are flat | II Ch 20 |
-| **Landscape + liturgy double-read** | Priest says Michael; Eli reads **Horon** in **Beth-Horon** on the map — god demoted to geography *and* re-promoted to angel (`33` Ch 25) | III |
+| **Translation fight** | Archive or amulet: *sar* vs *malʾakh* vs "guardian angel" — Wren or a keeper picks the reading that matches their fear | II — **NEEDS AUTHOR DECISION (chapter unverified against current spine)** |
+| **Broken-line church** | **Michael** or **Gabriel** in glass/statuary at the **pew-side (negative) end** — guardian turned drain; priest claims protection, laity are flat | II Ch 6 |
+| **Landscape + liturgy double-read** | Priest says Michael; Eli reads **Horon** in **Beth-Horon** on the map — god demoted to geography *and* re-promoted to angel (`33`) | III — **NEEDS AUTHOR DECISION (chapter unverified against current 10-chapter Book III spine)** |
 | **Faction cover story** | Union or Mandate briefings: "Archangel Protocol" = national psion unit guarding a **portion** (Israel, Persia, etc.) | II–III |
-| **Healer limit rhyme** | Crowd wants a **messenger of God**; he refuses the demanded miracle and the messenger/son titles **in one motion** — Gabriel arc **without naming Gabriel** | **II Ch 18** (single hard no — LOCKED 2026-07-21; Vol III completes affirmatively: title withered by ordinary consent-based practice, `33` denouement) |
+| **Healer limit rhyme** | Crowd wants a **messenger of God**; he refuses the demanded miracle and the messenger/son titles **in one motion** — Gabriel arc **without naming Gabriel** | **II late Ch 9** (single hard no — LOCKED 2026-07-21; Vol III completes affirmatively: title withered by ordinary consent-based practice, `33` denouement) |
 | **Deification inversion** | **Metatron** folklore = what happens when a receiver is **elevated against his will** — Eli's fear made mythic | III |
 
-**Honesty:** Michael and Gabriel are **biblically attested** as names/roles; Raphael/Uriel are **late trad**; Metatron/Sandalphon are **apocryphal** — flag confidence in prose via *who* is speaking (scholar vs keeper vs Crane slide deck).
+**Honesty:** Michael and Gabriel are **biblically attested** as names/roles; Raphael/Uriel are **late trad**; Metatron/Sandalphon are **apocryphal** — flag confidence in prose via *who* is speaking (scholar vs keeper vs Lang slide deck).
 
 ### Plot pins (synced to beat sheets)
 
 | Beat | Chapter | Move |
 |---|---|---|
-| *Sarim* register surfaces | Vol II **Ch 16** | Mesopotamian leg — Daniel-style "princes" in dispute; not yet winged |
-| Archangel iconography at wrong end | Vol II **Ch 20** | Broken-line church — Michael/Gabriel as **miswired guardians** |
-| Gods → angels → map | Vol III **Ch 25** | Roster in stone + liturgy; Deut 32 / Psalm 82 as **evidence**, not sermon |
-| Refuse messenger/son title | Vol II **Ch 18** (merged into the single scene — LOCKED 2026-07-21) | Healer — anti-Gabriel, anti-*Son of Man* in one motion; in Vol III the title has simply withered |
-| "Archangel Protocol" as war language | Vol III **Ch 23–28** | Factions claim **portions** via angel names |
+| *Sarim* register surfaces | Vol II — **NEEDS AUTHOR DECISION (chapter unverified)** | Mesopotamian leg — Daniel-style "princes" in dispute; not yet winged |
+| Archangel iconography at wrong end | Vol II **Ch 6** | Broken-line church — Michael/Gabriel as **miswired guardians** |
+| Gods → angels → map | Vol III — **NEEDS AUTHOR DECISION (chapter unverified)** | Roster in stone + liturgy; Deut 32 / Psalm 82 as **evidence**, not sermon |
+| Refuse messenger/son title | Vol II **late Ch 9** (merged into the single scene — LOCKED 2026-07-21) | Healer — anti-Gabriel, anti-*Son of Man* in one motion; in Vol III the title has simply withered |
+| "Archangel Protocol" as war language | Vol III — **NEEDS AUTHOR DECISION (chapter unverified)** | Factions claim **portions** via angel names |
 
 **Status:** pinned in plot layer; **not yet in `manuscripts/I_The_Breach.md` prose.**
 
@@ -178,7 +178,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | Phase | Volume | What the reader gets | Names to spend |
 |---|---|---|---|
 | **Allude** | I | Body only — word-trigger surge on *angel*; maybe Shield's medal, a patch, a line in a prayer; **no wings, no theology** | *angel* (generic) |
-| **Reference** | II | Names attach to **institutions and blocs** — Daniel *sar* dispute (Ch 16); Michael/Gabriel **miswired** in church (Ch 20); briefings say "Archangel Protocol" / "Michael's corridor" / "Persia prince holding the line" | **Michael**, **Gabriel**, **Prince of Persia** (unnamed ◆) |
+| **Reference** | II | Names attach to **institutions and blocs** — Daniel *sar* dispute (chapter TBD); Michael/Gabriel **miswired** in church (Ch 6); briefings say "Archangel Protocol" / "Michael's corridor" / "Persia prince holding the line" | **Michael**, **Gabriel**, **Prince of Persia** (unnamed ◆) |
 | **Recontextualize** | III | Names pay off — **mode TBD** (recognition vs. contact vs. both) | **Michael**, **Gabriel**, **Prince of Persia** |
 
 **Pick three, not seven.** Treat only these as load-bearing "characters":
@@ -186,10 +186,10 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | Name | Narrative job | How they "appear" |
 |---|---|---|
 | **Michael** | The **protector title** — keeper faith, Shield's conscience, "who guards Israel's portion." The name people trust when they want safety. | **Vol II:** iconography + faction language. **Vol III:** optional **one** watched-depth or full-res clarification at a western/Israel-linked charged ground — *not* an ally with wings; a **fragment** of the portion-holder logic Eli finally reads. Rhymes with **Manual Override** (refuse the protector who owns you). |
-| **Gabriel** | The **messenger title** — crowd crown for the **healer** (*word/cure from above*). | **Vol II:** rumor/iconography; **Ch 18:** healer refuses the demanded miracle and the messenger/Son-of-Man crown in one motion (single hard no — LOCKED 2026-07-21). **Vol III:** affirmative completion — the title withers under ordinary consent-based practice; no second hard-no scene. **Whether a real Gabriel acts on the Unseen = ON HOLD** |
+| **Gabriel** | The **messenger title** — crowd crown for the **healer** (*word/cure from above*). | **Vol II:** rumor/iconography; **late Ch 9:** healer refuses the demanded miracle and the messenger/Son-of-Man crown in one motion (single hard no — LOCKED 2026-07-21). **Vol III:** affirmative completion — the title withers under ordinary consent-based practice; no second hard-no scene. **Whether a real Gabriel acts on the Unseen = ON HOLD** |
 | **Prince of Persia** | **Rival bloc** — Daniel's blocker. | **Vol II–III:** callsign first; late reveal at minimum **national sar** — **whether an other-plane agent backs the bloc = ON HOLD** |
 
-**Use lightly or not at all as characters:** **Raphael** (European church / Tobit color in Ch 20 only); **Uriel** (optional one line); **Metatron/Sandalphon** (apocrypha — **Eli/healer elevation fear only**, never allies).
+**Use lightly or not at all as characters:** **Raphael** (European church / Tobit color in the Ch 6 broken-line church scene only); **Uriel** (optional one line); **Metatron/Sandalphon** (apocrypha — **Eli/healer elevation fear only**, never allies).
 
 **What to avoid**
 
@@ -205,13 +205,13 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | Name | Vol I — allude | Vol II — reference | Vol III — recontextualize |
 |---|---|---|---|
 | *(generic)* **angel** | **Ch 1 or 8:** word-trigger surge in song/prayer — body only (`SOURCE_the_surges`) | — | — |
-| **Michael** | **Ch 8:** **Sora Vithan** — medal or prayer fragment under collar; protector faith, no exposition (`26` § Sora) | **Ch 16:** *sar* vs angel in dispute; **Ch 20:** Michael in church glass at draining end | **Ch 25:** landscape/liturgy double-read; **Ch 29 (optional):** one watched-depth fragment at western charged ground — portion logic, not winged ally |
-| **Gabriel** | — | **Ch 19–20:** annunciation echo in healer rumor; Gabriel in church iconography | **Vol. II Ch. 18:** healer refuses the demanded miracle **and** the messenger/Son-of-Man crown in one motion (costs a sufferer — `32` Ch 18); **Vol III:** title withered by built practice — no second hard-no scene *(agency mode ON HOLD — `46` § H)* |
-| **Prince of Persia** | **Ch 13:** rival psion team on the ground (no name yet) | **Ch 16:** Daniel register + unit callsign **"Prince"** or **"Persia hold"** in intercept/briefing | **Ch 28–29:** codename resolves to **national sar** — partition war, not a demon; human operator was wearing a title |
+| **Michael** | **Ch 8:** **Sora Vithan** — medal or prayer fragment under collar; protector faith, no exposition (`26` § Sora) | *sar* vs angel in dispute (chapter TBD); **Ch 6:** Michael in church glass at draining end | landscape/liturgy double-read and optional watched-depth fragment at western charged ground — portion logic, not winged ally (chapters TBD, `33`) |
+| **Gabriel** | — | annunciation echo in healer rumor (chapter TBD); Gabriel in church iconography (**Ch 6**) | **Vol II late Ch 9:** healer refuses the demanded miracle **and** the messenger/Son-of-Man crown in one motion (costs a sufferer); **Vol III:** title withered by built practice — no second hard-no scene *(agency mode ON HOLD — `46` § H)* |
+| **Prince of Persia** | **Ch 13:** rival psion team on the ground (no name yet) | Daniel register + unit callsign **"Prince"** or **"Persia hold"** in intercept/briefing (chapter TBD) | codename resolves to **national sar** — partition war, not a demon; human operator was wearing a title (chapters TBD, `33`) |
 
-**Cast lock:** **Sora Vithan** carries Michael (Vol I seed → Vol III defection rhymes with refused protector). **Rival national team** wears Persia-prince callsign (Vol I Ch 13 → Vol III reveal). **Healer** carries Gabriel projection (Vol II rumor → Ch 18 single hard no → Vol III withering).
+**Cast lock:** **Sora Vithan** carries Michael (Vol I seed → Vol III defection rhymes with refused protector). **Rival national team** wears Persia-prince callsign (Vol I Ch 13 → Vol III reveal). **Healer** carries Gabriel projection (Vol II rumor → late Ch 9 single hard no → Vol III withering).
 
-**Still open (`99`):** Michael vs Gabriel at church draining end; rival team nationality + **Prince** callsign holder's personal name; whether Michael watched-depth lands Ch 25 or Ch 29.
+**Still open (`99`):** Michael vs Gabriel at church draining end; rival team nationality + **Prince** callsign holder's personal name; **NEEDS AUTHOR DECISION — chapter placement (2026-08-01):** the *sar* dispute, annunciation echo, Beth-Horon double-read, Archangel Protocol war language, and Michael watched-depth beats were all pinned to a pre-consolidation Book II/III chapter count and need re-placement against the current ten-chapter spines (`32`, `33`) before drafting.
 
 ---
 
@@ -399,6 +399,6 @@ Each new entry: assign a confidence flag and, if speculative, mark it ○ so the
 
 - **Keep the spins opposed.** Same rule as `45_divine_names.md`: each culture remembers the same council with its own theology. To Moab, Chemosh is *the* god; to Israel, he is a defeated rival son; in this canon, he is one Igigi-tier administrator of a parceled nation. Let the contradiction stand — it's evidence of the carve-up, not a problem to solve. The strongest instance of this is intra-Israelite and *in living memory*: Yahweh was originally a southern smelting-desert god (Shasu / Edom / Midian), **not** the Canaanite El, and was grafted onto El's throne late — Kuntillet ʿAjrud still pairs "Yahweh *and his* Asherah," and the Mesha Stele (840 BCE) treats Yahweh as an independent rival national god. The merger into "Yahweh = El" was still unfinished when much of the canon was written. The carve-up, in other words, was not remote myth but a recorded realignment the book's own "one history, many liturgies" rule is modeled on.
 
-- **Archangels = late memory, not a new tier.** When a keeper, priest, or Crane briefing says "archangel," the reader should eventually hear **seventy sons downgraded** (§ G): national administrators remembered as guardians after Psalm 82. Show through iconography, translation fights, and place-name double-reads — never a winged exposition dump.
+- **Archangels = late memory, not a new tier.** When a keeper, priest, or Lang briefing says "archangel," the reader should eventually hear **seventy sons downgraded** (§ G): national administrators remembered as guardians after Psalm 82. Show through iconography, translation fights, and place-name double-reads — never a winged exposition dump.
 
 - **Never ancient-aliens trivia.** The payload is the wound, not the spotter's-guide. The roster matters because an orphaned species keeps the names of its withdrawn administrators long after it has forgotten what they were — and kneels to their faint echo anyway.

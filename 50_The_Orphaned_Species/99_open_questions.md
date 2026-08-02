@@ -10,9 +10,14 @@
 - **Conspiracy:** **of the ages** — Charkha Measure = present face of recurring suppression apparatus (pattern, not single bullet).
 - **Win:** release + coexistence + grid unowned — **not** treasure box, bloodline reveal, or protagonist-owned truth. *(Ultimate metaphysical win — learn control → learn creation — is V–X Lifetime Orchestra; `SERIES_STRUCTURE.md`.)*
 - **Motor on pitch:** parent rescue (Rasel Book I, Maren Book II)—power accretes as misread, not motive. Book III changes engines to governance and consequence.
-- **Revision gate:** every chapter pass uses `55` checklist items 1–20 (body movement, visual key, institutional texture, wonder beat, domestic cost, **two live clocks**, **antagonist present-tense job**, **cost → next chapter**, **density parity**, **chemistry**, **brand face**, **Book I complete meal**, etc.).
+- **Revision gate:** every chapter pass uses `55` checklist items 1–22 (body movement, visual key, institutional texture, wonder beat, domestic cost, **two live clocks**, **antagonist present-tense job**, **cost → next chapter**, **density parity**, **chemistry**, **public-door / visual-identity distinction**, **Book I complete meal**, **climax staging**, **Book II delivery package**, etc.).
 - **Three pressure rules — LOCKED 2026-07-29:** (1) Clock A rescue vs Clock B network/registry/(Book II+) Sol — both audible every chapter; (2) opponents have concrete tasks + deadlines, not thesis-monsters; (3) paid costs change the next chapter's options. Chapter maps in `55` § *Three pressure rules*. Beatsheets `31`/`32`/`33` point here.
-- **Five delivery upgrades — LOCKED 2026-07-31:** (1) II–IV density parity with Book I; (2) antagonist weekly jobs; (3) cast chemistry non-thesis every 1–2 chapters; (4) brand face = Rasel's ring; (5) Book I Ch 11–13 complete meal. `55` § *Five delivery upgrades*.
+- **Five delivery upgrades — LOCKED 2026-07-31; PITCH/VISUAL REVISED 2026-08-01:** (1) II–IV density parity with Book I; (2) antagonist weekly jobs; (3) cast chemistry non-thesis every 1–2 chapters; (4) ring-first public hook / Sanxingdui-tree visual identity; (5) Book I Ch 11–13 complete meal. `55` § *Five delivery upgrades*.
+- **Climax staging — epic enough — LOCKED 2026-08-01:** climax + hunger every volume; II keep-her assault concurrent with release; III war-window concurrent with handover (birds = coda); IV birth/heir/vote simultaneity. `17` § *Climax staging*; `55` §6.
+- **Egypt placement — LOCKED 2026-08-01:** Book II brief hinge or Ch 2 packet only (god-king BAC-survivor trap; contested Mesopotamia→pharaoh claim). Book III Mandate-face only. Never a volume open. `32`, `33`, `61`, `23`.
+- **Phantom god-perception / correct worship — LOCKED 2026-08-01:** capture = perceiving absent gods as domestication remote collar. **Correct worship** = robot (ego) submits to Player (consciousness) — spiritual payoff in **V–X**, not I–IV sermon. Book II seed; Book III civic diagnosis; V–X mature liturgy. `17` §9a; `40`; `SERIES_STRUCTURE.md`.
+- **Book II location contraction — LOCKED 2026-08-01:** ~6–7 body-arrivals; contract travel not jobs; church ⊂ Pömmelte; Rollright+Men-an-Tol one corridor; Anglesey threshold not tour; Stonehenge→Avebury one climax run. `32`, `61`.
+- **Book II delivery package — LOCKED 2026-08-01:** mother Clock A every chapter + dual-clock card; Wren/Rowan↔Maren mirror; Rasel instrument antagonist (capped); Sol at Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers wired (chase grammar, people spine, hearth/*flow*, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Rootbook correction, Somchai hard no → late Ch 9); V–X frozen until I–IV meals. `32` header; `55` Book II dual-clock map.
 - **Vol II drafting:** `55` § *Book II — chapter-by-chapter pitch audit* + `32_volume_II_beatsheet.md` chapter cards.
 - **Vol III drafting:** `55` § *Book III — chapter-by-chapter pitch audit* + `33_volume_III_beatsheet.md` chapter cards.
 - **Agent/back-cover copy** lives in `55` — do not drift from locked motor or win condition.
@@ -58,7 +63,7 @@ Do not solve thin pressure by adding more lore. Solve it by deciding who wants w
   the civilian gate. Wren loses her work, papers, and safe return; Qiao loses
   clearance. Nobody is captured. Mesopotamia and Göbekli belong to Book II.
 - **Book II ends at Albion with Maren's release.** Anatolia → Europe → Stonehenge / Men-an-Tol / tethered ground. Eli **rescues Maren** (trail, reunion, release). The release begins the spreading awakening through the living web.
-- **Book III is the community/network book.** Rasel is already present after his Sanxingdui rescue at the end of Book I. Pelangi Reach, the **Thailand river cooperative**, Somchai's clinic network, Wren/Asha threshold houses, and an open Albion ground attempt durable connection without central ownership. Crane's surviving apparatus pressures standardization; Sol pressures militarized centralization. The climax tests whether temporary coordination can disperse after necessity.
+- **Book III is the community/network book.** Rasel is already present after his Sanxingdui rescue at the end of Book I. Pelangi Reach, the **Thailand river cooperative**, Somchai's clinic network, Wren/Asha threshold houses, and an open Albion ground attempt durable connection without central ownership. Lang's surviving apparatus pressures standardization; Sol pressures militarized centralization. The climax tests whether temporary coordination can disperse after necessity.
 - **Parent rescue schedule — LOCKED 2026-07-27:** Eli **rescues father — Book I at Sanxingdui**; Eli **finds and releases mother — Book II at Albion**. Ch 1 learns both were taken alive, locations unknown. Rasel's recovery directly costs Wren's protected standing and Qiao's institutional access and reveals Maren's early complicity.
 
 **Eli's fundamental motor — LOCKED 2026-07-24:** **Parent rescue** is what he is **fundamentally doing** — not seeking power, throne, registry, or permanent command. Malacca, Göbekli, artifacts, alliances, cosmology = **means** or **consequences**. Factions offer power because he is useful on the rescue path; messiah/coordinator accretion in Book III is **misread**, not motive. Craft: scenes should show how the move serves rescue; power temptations land because rescue *seems* to require them. `27` § Fundamental motor; `05` § Desire spine.
@@ -75,7 +80,7 @@ Do not solve thin pressure by adding more lore. Solve it by deciding who wants w
 
 ## Locked — armistice-era blocs (~2037+, background only)
 
-The world is not at peace. “Post-war” in legacy notes means after WWIII's hottest phase. Proxy fighting, blockades, patrols, drone attacks, sanctions, and deniable operations continue during uneven armed reopening. In Book III, the San Francisco registry seizure and coordinated Eastern Mandate Pacific strikes end that unstable interval by igniting the distinct **Awakening War** over control of awakened people and the living network.
+The world is not at peace. “Post-war” in legacy notes means after WWIII's hottest phase. Proxy fighting, blockades, patrols, drone attacks, sanctions, and deniable operations continue during uneven armed reopening. In Book III, a Continental Union registry seizure and coordinated Eastern Mandate Pacific strikes end that unstable interval by igniting the distinct **Awakening War** over control of awakened people and the living network. Eli witnesses the Union fracture from Brazil; he does not travel north to reclaim its command center.
 
 | Pole | Official | Street |
 |---|---|---|
@@ -95,7 +100,7 @@ The world is not at peace. “Post-war” in legacy notes means after WWIII's ho
 
 ### World War ↔ Psion War — LOCKED
 
-- The public World/Machine War is geopolitical and not secretly caused by psions or Crane.
+- The public World/Machine War is geopolitical and not secretly caused by psions or Lang.
 - The modern Psion War is a covert theater nested inside it, using health systems, borders, displacement, damaged satellites, and emergency authority as cover and infrastructure.
 - Book I: hottest public phase has passed; armed reopening outside, active covert Psion War beneath.
 - Book II ending: Maren's release breaks the rare-carrier/amplifier monopoly and makes awakening difficult to hide; neither war ends.
@@ -119,20 +124,20 @@ Working character bible from cast review. Core names and relationships are now f
 | Wren's dead love | Mira Okonkwo | ties Wren + Custodian Shield |
 | Shield / defection | Sora Vithan | Mira's partner; Mira died after an official transfer Wren helped process |
 | Lance | Tomás Reyes | collateral guilt |
-| Lead / Locker | Edda Voss | true believer manager |
+| Lead / Locker | Anika Voss | true believer manager |
 | Mask / Scout | Jin Pak | coerced idealist |
 | Vol I cooperative water keeper | **Malai Somboon ("Malai," provisional)** | Thai lead within a river-valley rice/aquaculture cooperative |
-| Prophecy face | Solomon "Sol" Mendez | burned carrier, Vol II |
+| Prophecy face | Diego "Sol" Méndez | burned carrier, Vol II |
 | Workplace / status liaison | **Wren** (Pelangi house placement desk; network manifests) | compound attestation, cohort squeeze, placements and public-room logistics |
 | Kitchen / hearth | Mei Lin | food, local trust; **Ch 1 Friday dinner** orphan truth |
 | Healer | Somchai Vichai, RN / field medic | energetic healer; two public healings + hard no |
 | Shireen (cousin) | Shireen | one Dhaka message beat |
-| Martial instructor | **TBD** (Thailand Ch 5–10) | present Vol I — MT/Kali + chi-body |
+| Martial instructor | **Kru Dao** (Thailand Ch 7 — LOCKED 2026-08-01) | present Vol I — MT/Kali + chi-body after wat breath; not a champion-maker |
 | Wren's formative prior love / Book II west-corridor liaison | **Rowan** | on-page Book II Ch 5–7; renewed Wren/Rowan romance; Eli/Wren also real; Rowan/Eli only faintly charged in Book III; Book IV sex precedes romance, then chosen conception (`26`, `27`, `60`) |
 
 ### Core cast locks — RESOLVED 2026-07-19
 
-- **Custodians:** Captain **Edda Voss** (Lead/Locker; survives, arrested and testifies without redemption), Tomás “Tommy” Reyes (Lance; dies during a civilian-protection failure), **Sora Vithan** (Shield; Mira Okonkwo's former partner; leaks Hassan's route, defects into Wren's network, survives under scrutiny), and Jin “Grey” Pak (Mask/Scout; leaves the unit and later resurfaces as a protected witness).
+- **Custodians:** Captain **Anika Voss** (Lead/Locker; survives, arrested and testifies without redemption), Tomás “Tommy” Reyes (Lance; dies during a civilian-protection failure), **Sora Vithan** (Shield; Mira Okonkwo's former partner; leaks Hassan's route, defects into Wren's network, survives under scrutiny), and Jin “Grey” Pak (Mask/Scout; leaves the unit and later resurfaces as a protected witness).
 - **Somchai Vichai:** RN and field medic, not a saint or supernatural authority. He refuses public coronation, remains part of a distributed clinic network, and is Eli's bodily and ethical counterweight.
 - **Tomas and Nia Okafor:** siblings traveling together from the pursued boat. Tomas is the sponsored awakened refugee; Nia is his older sister, a non-psionic boat mechanic and caregiver. Tomas's nonconsensual mind-entry kills Nia.
 - **Chapter 3 survivor (formerly “Chapter 25 survivor”):** **Amara Okafor**, Nia's wife. She survives, names Eli's responsibility in the inquiry, and never owes him forgiveness.
@@ -142,7 +147,7 @@ Working character bible from cast review. Core names and relationships are now f
 
 **Complex pasts (craft):** every major character gets **ordinary life → turn → unreconciled** — not only network backstory. Wren's earlier front-of-house life, her valid transfer of Mira, and a prior love are the template (`26` § Complex pasts; `15` § Complex pasts). **Vol I past-vs-mask scene bank:** `26` Part V — one leak per character, mapped to chapters in `31`. **Trauma & internal cages:** `26` Part VI — per-character patterns; `15` § Trauma & internal cages.
 
-**Deepened existing:** Wren's placement and evacuation accountability; ensemble humor under catastrophe; Crane private humane beat; Mei constructive control; Suresh/Iqbal grief; Hassan witness morality; Rowan's Book II entrance, independent recovery objective, formative Weaver bond, and renewed romance with Wren.
+**Deepened existing:** Wren's placement and evacuation accountability; ensemble humor under catastrophe; Lang private humane beat; Mei constructive control; Suresh/Iqbal grief; Hassan witness morality; Rowan's Book II entrance, independent recovery objective, formative Weaver bond, and renewed romance with Wren.
 
 **Character development arcs:** `27_character_development_arcs.md` — volume questions, Manual Override thresholds, Eli perceptual stages by volume, fellowship arcs, romance stages, proof scenes.
 
@@ -150,7 +155,7 @@ Working character bible from cast review. Core names and relationships are now f
 
 ### Rowan — RESOLVED / REOPENED (locked 2026-07-22)
 
-- **Decision — REVISED 2026-07-28:** Rowan appears **on-page in Book II Ch 5–7** as Wren's formative prior love and a west-corridor Weaver liaison with her own missing-person/network objective. Wren/Rowan renews romantically; Eli/Wren also remains real. Rowan/Eli remains nonsexual and non-romantic through Book III. Book III plants only deniable charge with complete political explanations. In Book IV they consciously recognize attraction and have sex several times before the bond becomes romantic. Rowan's wish for motherhood predates Eli; she initially avoids pregnancy, then after romance separately chooses him as co-parent and decides when to pursue conception. Book IV contains three distinct dyads and court pressure to rank them. See `19`, `26`, `27`, and `60`.
+- **Decision — REVISED 2026-07-28; Inana dual-face 2026-08-01:** Rowan appears **on-page in Book II Ch 5–7** as Wren's formative prior love and a west-corridor Weaver liaison with her own missing-person/network objective. Wren/Rowan renews romantically; Eli/Wren also remains real. Rowan/Eli remains nonsexual and non-romantic through Book III. Book III plants only deniable charge with complete political explanations. In Book IV they consciously recognize attraction and have sex several times before the bond becomes romantic. Rowan's wish for motherhood predates Eli; she initially avoids pregnancy, then after romance separately chooses him as co-parent and decides when to pursue conception. Book IV contains three distinct dyads and court pressure to rank them. **Book II mythic rhyme:** *Inana's Descent* second face = Wren/Rowan gates/attend/return-with-cost (`19`, `35`, `32`). See `19`, `26`, `27`, and `60`.
 
 ## Priority 0 — cosmology revision adopted for outlining
 
@@ -200,7 +205,7 @@ Your user supplied a full contemporary scenario for how a deployed biological/we
 The trilogy already contains every element of both scenarios, encoded as operational pressure rather than policy lecture:
 - Union quarantine / Custodians / biosecurity cover / **Mandate political squeeze** = the geopolitical crisis in embryo.
 - Wren's decentralized harbor network = immunizing networks crossing borders without consent.
-- Crane's registry = IAEA-for-biology already built and weaponized.
+- Lang's registry = IAEA-for-biology already built and weaponized.
 - Meridian City archive / body-register language = mandatory DNA screening before the crisis.
 - Fractured-file / population culling / Nephilot purge / threshold-house secrecy = public panic, resistance to consent, and population control by other names.
 - The Thailand choice and the Göbekli choice = precautionary principle vs. urgency at civilian scale.
@@ -208,7 +213,7 @@ The trilogy already contains every element of both scenarios, encoded as operati
 
 **What is missing from canon — the attribution failure.**
 
-Your bioweapon-to-nuclear escalation scenario requires one condition the trilogy deliberately breaks: **definitive nation-to-nation attribution.** In Eli's world the field is contested by multiple simultaneous actors—Custodians, Sol's faction, Crane's program, rival psion teams, fractured carriers—and the field itself is the fog. Without a clean "Nation B did this" the retaliation asymmetry and use-it-or-lose-it logic collapse on their first premise; you don't nuke when you can't prove who released.
+Your bioweapon-to-nuclear escalation scenario requires one condition the trilogy deliberately breaks: **definitive nation-to-nation attribution.** In Eli's world the field is contested by multiple simultaneous actors—Custodians, Sol's faction, Lang's program, rival psion teams, fractured carriers—and the field itself is the fog. Without a clean "Nation B did this" the retaliation asymmetry and use-it-or-lose-it logic collapse on their first premise; you don't nuke when you can't prove who released.
 
 **The writers' implication.** The trilogy's war does NOT escalate to strategic nuclear exchange. It stops short at the tactical/precision level: strikes on charged grounds and threshold houses, registry seizures, scorched-port maneuvers, and the forced-unity argument at a distant Pacific corridor. Hawaiʻi remains a refuge receiving displaced consequences, not a battlefield. The reader must feel the nuclear/annihilation logic without seeing the word—operative as Sol's survival threshold and as the Custodian doctrine that turns carrier biology into a controllable weapon.
 
@@ -257,12 +262,17 @@ category, not personal freedom to reject intimacy or household membership.
 **Male demography / Paraguay rhyme — LOCKED 2026-07-30:** No Paraguay-scale male
 wipeout before Book I (would elevate survivors as scarce prizes and break Extra
 logic). Pre-I = Extra surplus via sorting. Book III war begins true male scarcity.
-Book IV opening attack = court-emptying male-heavy cull; then scarce-male leverage.
+Book IV Lean Year = war losses become publicly undeniable and dangerous convoy,
+repair, and long-route service deepen them; the imbalance accumulates rather
+than arriving through a single Book IV slaughter.
 Cloisters do not become obsolete: **Extra era → keep men from being nothing;
 scarcity era → keep men from being property.** `33`; `60` § cloister purpose
-transform; `WORLD_BIBLE`. **Animal houses — LOCKED 2026-07-31:** cloister houses
-by stress behavior (**Stag** / folk *Deer*; **Crow**; **Bear**; **Salmon**; **Ox**).
-`40` § *Cloister animal houses*.
+transform; `WORLD_BIBLE`. **Animal houses — MATURATION / MENTORSHIP ONLY;
+REVISED AND LOCKED 2026-08-01:** cloister teaching lineages with older members,
+younger learners, and rites of passage (**Stag**; folk *Deer*; **Fox**;
+**Bear**; **Salmon**; **Ox**). Never temperament sorting, work assignment,
+military specialization, political faction, or civic rank. `40` § *Cloister
+animal houses*.
 
 **Meridian worker maze — wrong-room overhear — LOCKED 2026-07-24:** at Stack **intake level**, **before the document clerk**, Eli blunders into a **Harbor Thread back room** (Thread ledger meeting — not a lore summit). Fragments only: **Malacca chandlery**, **Hassan**, archive **packet** off Stack soil, **English woman on the file**, *the strait eats what they seal*; *burn the harbor thread*. Someone clocks the **boy on the call sheet**; Eli flees. The ring photograph at the clerk desk **confirms** what his body half-heard. Cube security carries a **Thread corridor flag** (misfiled as harbor-thread ledger) alongside intake resemblance.
 
@@ -317,7 +327,7 @@ evidence.
 
 **A losing fight that ends in near-death by asphyxia.** The threshold is loss of breath (choke and/or drowning), **not** a second head injury.
 
-**Activation ≠ training — LOCKED 2026-07-24 (rev.):** Malacca is where Eli's **talents activate** — receiver **ON**, palms/charge, ring-pull, hands **flare**, grid **lit up** — but he is **not trained yet**. **No martial skill** (untrained overwhelm in the alley). **No psi discipline** (cannot hold the door, dim the flare, or use the sight tactically). **No Manual Override mastery** — only inherited **edges** (Maren's breath/cup trick, useless garden read, worker splice habit) and catastrophe. **Training begins after Malacca:** wat breath deepens (Ch 5); **first on-page martial + chi-body** (Ch 5–10, instructor TBD). Do not read Malacca flare as prowess or foreshadowed Kali.
+**Activation ≠ training — LOCKED 2026-07-24 (rev.):** Malacca is where Eli's **talents activate** — receiver **ON**, palms/charge, ring-pull, hands **flare**, grid **lit up** — but he is **not trained yet**. **No martial skill** (untrained overwhelm in the alley). **No psi discipline** (cannot hold the door, dim the flare, or use the sight tactically). **No Manual Override mastery** — only inherited **edges** (Maren's breath/cup trick, useless garden read, worker splice habit) and catastrophe. **Training begins after Malacca:** wat breath deepens (Ch 5); **first on-page martial + chi-body** (Ch 7 — **Kru Dao**). Do not read Malacca flare as prowess or foreshadowed Kali.
 
 **The beat:**
 
@@ -375,7 +385,7 @@ backstory.
   limits her. Wren helps turn improvised hospitality into consent, appeal, return,
   and review procedures without claiming the people who use them.
 - **III — builder → answerable member:** the threshold network becomes one civic
-  proof among several. Wren refuses Crane, Sol, or Eli command access and also
+  proof among several. Wren refuses Lang, Sol, or Eli command access and also
   accepts that the network can judge and overrule her.
 
 **Weavers across the trilogy — LOCKED:** Book I shows the Monsoon houses as
@@ -397,20 +407,20 @@ strike training; and the premise that Wren's people compete with Eli's trail.
 
 ### 4. Recurring rival psion team — LOCKED (names open)
 
-**Working name: "the Custodians"** (carrier slang; bland official designation TBD). **Faction:** a national/bloc psion program's deniable field unit, **contracted to and leveraged by the Charkha Measure** — they work with Crane and fear him, but are not his creatures (he holds leverage; he can have any of them harvested once spent). **Cover:** a transnational **biosecurity / quarantine-enforcement** unit — which lets them move through ports, board ships, access health and immigration records, and operate with authority in the reopening world. Perfect for the maritime chase and the outbreak backdrop. **Eli Book I read (LOCKED 2026-07-26, dual-true + costume):** he files them as **Mandate biosecurity / Rasel's son / loose ends** — Charkha **wears Mandate's face** for the Eli/mother hunt. Late Book I: costume seams (*somebody else's leash*), no word **Charkha**. Book II names the apex — **wore the Mandate's face; got Maren; you've been running their map**.
+**Working name: "the Custodians"** (carrier slang; bland official designation TBD). **Faction:** a national/bloc psion program's deniable field unit, **contracted to and leveraged by the Charkha Measure** — they work with Lang and fear him, but are not his creatures (he holds leverage; he can have any of them harvested once spent). **Cover:** a transnational **biosecurity / quarantine-enforcement** unit — which lets them move through ports, board ships, access health and immigration records, and operate with authority in the reopening world. Perfect for the maritime chase and the outbreak backdrop. **Eli Book I read (LOCKED 2026-07-26, dual-true + costume):** he files them as **Mandate biosecurity / Rasel's son / loose ends** — Charkha **wears Mandate's face** for the Eli/mother hunt. Late Book I: costume seams (*somebody else's leash*), no word **Charkha**. Book II names the apex — **wore the Mandate's face; got Maren; you've been running their map**.
 
 **The dark mirror — the spine of why they matter.** All four are **themselves carriers who took the collar** — served the program to avoid being disappeared/harvested. They hunt their own kind to survive. That is the road **Wren refused from outside**, and **Eli** is what they might have become if they'd risked flight. They are not only an obstacle; they are a road-not-taken for both leads. A found-family of the coerced, which complicates simple enmity.
 
 **Members (4; roles from `38`; names adjustable):**
 
-1. **Lead / Locker — a seer.** Holds signatures, sees the plane, commands; rations the team's exertion against the metabolic cost. A pragmatic true-believer in managing a real danger (Crane's argument, embodied below Crane). Fears Crane, uses him.
+1. **Lead / Locker — a seer.** Holds signatures, sees the plane, commands; rations the team's exertion against the metabolic cost. A pragmatic true-believer in managing a real danger (Lang's argument, embodied below Lang). Fears Lang, uses him.
 2. **The Lance.** The one who hurts people — most willing, most damaged; over-uses the gift and pays the neurological price (tremor, burnout). His willingness is armor over self-loathing.
 3. **The Shield / conscience — the defection candidate.** Holds the team's coherence and tries to spare civilians; bound to the others by love and debt but fraying. **Tied to Wren's wound:** the woman Wren failed to save was this member's [sister / lover / recruit] or died in front of them. *Might* defect — not guaranteed — over civilian harm or that old death. By Vol III, plausibly into Wren's network.
 4. **The Mask / Scout.** Stealth, decoys, false signatures, infiltration — and the socially fluent one who can run seduction/manipulation ops (the *Liaisons*/honey-trap thread, the team's tie to the courtly-intrigue layer). Youngest, most amoral or most coerced.
 
 **What they do together that no lone psion can:** simultaneously **lock + Block + Lance + shield** (one pins the signature and jams the target onto autopilot while another attacks and a third shields the team) and run **coordinated entrainment** (multiple broadcasters syncing one target or a crowd). This is precisely the breach-aftermath threat: they can pin Eli while the Lance works. A lone psion cannot do all of this at once.
 
-**Internal bonds / fear / disagreement / debt:** affection of a unit that survived together; disagreement over conscription and civilian harm (Lance willing, Shield resisting, Lead managing); shared fear of Crane's leverage; the debt of their own survival (serve, or be harvested).
+**Internal bonds / fear / disagreement / debt:** affection of a unit that survived together; disagreement over conscription and civilian harm (Lance willing, Shield resisting, Lead managing); shared fear of Lang's leverage; the debt of their own survival (serve, or be harvested).
 
 **Limits (not omnipotent):** they mistake decoys, expose their own signatures, fracture under the metabolic toll and their disagreements, and can be outmaneuvered by ordinary tradecraft and by their internal cracks. Consequences accumulate across encounters — wounds, a half-defection, mounting burnout — so by Vol III the team is broken/changed, not a renewable obstacle.
 
@@ -477,7 +487,9 @@ paperwork. In Book I Ch 11, a lab technician says *Russell* and Rasel answers,
 
 **Guardrails:** forced lab work (Rasel); no easy rescue; complicity possible; Babaji does **not** know exact sites — only *taken, not dead*.
 
-### Babaji — refuge patron — LOCKED 2026-07-24
+### Arun Subramaniam / Babaji — refuge patron — LOCKED 2026-08-01
+
+**Name register:** **Arun Subramaniam** is his legal name; **Babaji** is the affectionate community name used in familiar speech. It is not a birth name, title of office, or claim to spiritual authority.
 
 **Primary role:** **refuge provider** — bankrolled/kept **Reclamation / Forest Foundry** corridor as shelter when Forest City failed + outbreak; **Rasel → work not wallet** → Eli's Foundry placement.
 
@@ -527,11 +539,11 @@ paperwork. In Book I Ch 11, a lab technician says *Russell* and Rasel answers,
 **Thailand — martial + chi-body — LOCKED 2026-07-24 (rev. C):**
 - **Bali childhood — LOCKED:** formative years with parents (subak, gamelan, community); off-page Vol I; not martial.
 - **Fugitive Thailand (post-extraction):** Somchai, TBI, **wat breath only** — no martial.
-- **Present Vol I Ch 5–10:** **first on-page** martial + chi-body (MT/Kali instructor TBD); wat deepens Manual Override stack.
+- **Present Vol I Ch 5–10:** **first on-page** martial + chi-body — **Kru Dao** (Ch 7, MT/Kali); wat deepens Manual Override stack; Khun Dang = knife/kitchen/song, not martial syllabus.
 - **No Pelangi martial. No Philippines visit.**
 - **Under the radar:** Foundry visuo-spatial at Pelangi; no tournament flash.
 
-**Maren's complicity and release — LOCKED:** Maren **neuroscientist** willingly joined Crane's early program because she believed measurement, neural signature recognition, and guided integration could protect vulnerable people. The work produced real benefits and became the basis for registry, suppression, targeting, and amplifier systems. She became a dissident after recognizing that temporary safeguards had become permanent ownership and subjects could not withdraw. She delayed exposure while trying to reform the program internally; at least one named subject paid for that delay. Eli initially believes she resisted from the beginning. The Volume II mother reveal breaks that innocent version without negating her love or courage. Eli and Maren then receive a real lucid reunion and both want more time. The **Book II climax** releases her without absolving or condemning her into one role; that limited first awakening creates Book III's civic crisis.
+**Maren's complicity and release — LOCKED:** Maren **neuroscientist** willingly joined Lang's early program because she believed measurement, neural signature recognition, and guided integration could protect vulnerable people. The work produced real benefits and became the basis for registry, suppression, targeting, and amplifier systems. She became a dissident after recognizing that temporary safeguards had become permanent ownership and subjects could not withdraw. She delayed exposure while trying to reform the program internally; at least one named subject paid for that delay. Eli initially believes she resisted from the beginning. The Volume II mother reveal breaks that innocent version without negating her love or courage. Eli and Maren then receive a real lucid reunion and both want more time. The **Book II climax** releases her without absolving or condemning her into one role; that limited first awakening creates Book III's civic crisis.
 
 **How the release works — LOCKED (supersedes the dead-in-body/tethered-spirit version):** Maren is **alive** throughout, kept alive because only she can restore and maintain the model she sabotaged, which makes her the Albion ground's **living operator** rather than one of its harvested dead. The Charkha holds her not with a cell but with **the reunion it keeps almost-happening** — she stays at the console because she believes she will get her son back. It follows that **no rescue can free her and only Eli can:** he must refuse in person to be what they promised her. She walks out **alive** and does not come home — he does not recover a mother, he meets a woman with her own life. Release still darkens that ground, still scatters the dead threads bound to the wider grid once the practice spreads, still defuels the amplifier, and still costs Eli a usable stabilizing signal. **Grief without a corpse:** release is only a choice because she could have been kept. ⟦Flagged for veto: the no-corpse ending — the earlier version had her ascend and be lost forever.⟧
 
@@ -553,8 +565,8 @@ the Sanxingdui camera gap; and the precise limits of Rasel's coerced work.
 **The race: reach the sealed interface at Göbekli Tepe before the rival consortium re-seals the dig.** The prize is not a relic but **reactivation/reading access to the first buried instrument** behind the fox-pillar — a partial Qingu-reserve seal and the original **selection mark** (spiral-in-the-eye). The factions believe a complete read could establish the founding carrier record or recover its selection logic. Book I does not obtain that complete read.
 
 - **What is raced for:** the sealed interface + a clean recording of its activation and selection record. **Book I reveal cap:** the partial result associates inherited difference, selection, a powerful male carrier/mighty lineage, labor, and reproductive control, but does not prove how they fit or identify the Nephilot/“elves.” Pömmelte and the westward Book II trail supply the missing population and persecution evidence.
-- **Who else races:** Crane's state psion program (wants to re-seal/control), the **Custodians** (collared team, may be pointed at the site), and a **private dig consortium** (permit-holder, the clock they're on). Sol Mendez's liberation faction as a possible fourth runner.
-- **Deadline:** the excavation permit / sealed-sector window **closes on a hard date** — the site is re-buried under the consortium's permit and the interface becomes unreachable for a generation. Delay = the answer stays buried and Crane keeps the seal.
+- **Who else races:** Lang's state psion program (wants to re-seal/control), the **Custodians** (collared team, may be pointed at the site), and a **private dig consortium** (permit-holder, the clock they're on). Sol Méndez's liberation faction as a possible fourth runner.
+- **Deadline:** the excavation permit / sealed-sector window **closes on a hard date** — the site is re-buried under the consortium's permit and the interface becomes unreachable for a generation. Delay = the answer stays buried and Lang keeps the seal.
 - **Book II culmination of this leg:** at the fox-pillar, local curators, Rasel, and Eli keep incompatible readings visible long enough to expose the selection mark without turning one scholar into an oracle.
 
 ### 8. Healer specifics — LOCKED
@@ -622,7 +634,7 @@ certification until Book III.
 - **Its plot role:** the ghost **remains to deliver the account — that the gods were engineered by the alien architects (Tiamat's line), who were then killed by the gods they made; only this remnant was left behind.** The Vol III beat is the origin reveal: the divine council / the gods are not indigenous to the web; they were shaped by the makers, who are now **gone in body** (the maker destroyed by the made). Eli clarifies the ghost at the convergence and receives the account.
 - **When it appears:** during the Vol III clarification cascade, when Eli's wide reception opens the field — felt as a vast aware *echo*, not a shape.
 - **What it wants:** to deliver the account of the visit and the departure; not worship, not return on command.
-- **The coexistence test, reframed:** the one being humanity could never integrate is not a lost native but an **absent visitor** — an alien remnant that was never Earth's to keep. The ghost is the proof of the gap: the gods were made, the makers were **killed by the gods they made**, and only a trace remains. This is the honest, unresolved chord (rhymes the Crane ending — accountability without redemption, the structure left standing). The final community integrates carriers, plants, spirits, transformed humans; the dragon-remnant is the one absence it can only **reckon with**, not include.
+- **The coexistence test, reframed:** the one being humanity could never integrate is not a lost native but an **absent visitor** — an alien remnant that was never Earth's to keep. The ghost is the proof of the gap: the gods were made, the makers were **killed by the gods they made**, and only a trace remains. This is the honest, unresolved chord (rhymes the Lang ending — accountability without redemption, the structure left standing). The final community integrates carriers, plants, spirits, transformed humans; the dragon-remnant is the one absence it can only **reckon with**, not include.
 - **Craft guard:** a quiet clarification-voice, never a beast on stage; no spectacle, no fight. The scale of the reveal (we were engineered; the engineers are gone) is the point, not action.
 - **Canon link:** pairs with `39` (dragons & aliens = Tree-of-Life, one-Tree, self-fuelled) — the "dragon" myth compresses the memory of these architect-makers (Tiamat's line), now gone in body. It does not override the Göbekli selection scar or Book II's earned Nephilot/elf identification (#7): the Nephilot were down-bred by the *gods* (the alien-made beings), so the chain is **aliens → gods → elves** — a coherent nested-engineering reading, not a contradiction. The divine council (`46`) is real; it is now also *engineered*, which deepens the orphan theme (even the gods were made, not primordial).
 
@@ -642,17 +654,17 @@ Original prompts (still useful as a checklist against `41`): How does Eli make t
 - What repeatable practice or arrangement lets others access the field without the machine?
 - How many people must participate for the proof to hold?
 - What can instruments verify without owning the carriers?
-- What prevents Crane or a state from immediately re-monopolizing the method?
+- What prevents Lang or a state from immediately re-monopolizing the method?
 - What remains difficult enough that the ending does not become a universal switch-flip?
 
-### 13. Crane's accountability — LOCKED
+### 13. Lang's accountability — LOCKED
 
-Eli refuses to destroy Crane (locked climax). Accountability lands through institutional exposure, not Eli's hand:
+Eli refuses to destroy Lang (locked climax). Accountability lands through institutional exposure, not Eli's hand:
 
-- **Exposure / fall:** the state (or Crane's own superiors) **sets Crane up as the fox to be sacrificed** — the reasonable man who built the registries, positioned to take the fall so the institution stays clean (`48` divide-and-conquer, Machiavelli maxim). He is stripped of office and tried.
-- **Who has standing to judge:** a coalition — Sol Mendez's oversight faction, the judiciary of the Free Ports / Continental Union, and the exposed victims' networks. Not Eli (who refuses both vengeance and ownership).
-- **No redemption by survival:** Crane **refuses to name his superiors** at trial. The institution that made him persists; he is the discarded enforcer, not the reformed man. Harm remains **unrepaired** — the registries outlive him.
-- **The ethics payoff:** refusing to destroy Crane denies the orphan-reflex (new master, new purge) AND refuses to let the system launder itself by sacrificing one man. Accountability attaches to *conduct*; the structure that produced the conduct is left visibly intact and still dangerous — the honest, unresolved ending.
+- **Exposure / fall:** the state (or Lang's own superiors) **sets Lang up as the fox to be sacrificed** — the reasonable man who built the registries, positioned to take the fall so the institution stays clean (`48` divide-and-conquer, Machiavelli maxim). He is stripped of office and tried.
+- **Who has standing to judge:** a coalition — Sol Méndez's oversight faction, the judiciary of the Free Ports / Continental Union, and the exposed victims' networks. Not Eli (who refuses both vengeance and ownership).
+- **No redemption by survival:** Lang **refuses to name his superiors** at trial. The institution that made him persists; he is the discarded enforcer, not the reformed man. Harm remains **unrepaired** — the registries outlive him.
+- **The ethics payoff:** refusing to destroy Lang denies the orphan-reflex (new master, new purge) AND refuses to let the system launder itself by sacrificing one man. Accountability attaches to *conduct*; the structure that produced the conduct is left visibly intact and still dangerous — the honest, unresolved ending.
 
 ### 14. Final community — LOCKED (shape; geography + final line open)
 
@@ -667,15 +679,15 @@ The proving community is **ordinary and distributed**, not a new order:
 
 ### 15. Iblīs / the hidden force behind the dark side — plot surface (surface mode LOCKED; deeper function open)
 
-**Working direction:** Iblīs is an unknown entity orchestrating from the other plane. It is widely believed to be evil because it exploits human weaknesses, engineers pressure, and appears to drive conflict, temptation, and psychic harm. Much later (optional Books V–VI if written; otherwise late densification only if explicitly locked), the deeper function may become more legible: Iblīs forces humans to evolve by pressing the species against its own weaknesses until the soul develops agency rather than remaining obedient to inherited programming. This is not an excuse or absolution—the methods cause real suffering, and the entity may be arrogant, cruel, or indifferent to individual cost.
+**Working direction:** Iblīs is an unknown entity orchestrating from the other plane. It is widely believed to be evil because it exploits human weaknesses, engineers pressure, and appears to drive conflict, temptation, and psychic harm. Much later in the Books V–X **Lifetime Orchestra** arc, the deeper function may become more legible: Iblīs forces humans to evolve by pressing the species against its own weaknesses until the soul develops agency rather than remaining obedient to inherited programming. This is not an excuse or absolution—the methods cause real suffering, and the entity may be arrogant, cruel, or indifferent to individual cost.
 
 **Deeper-function question — RESOLVED (author-side), staged beyond Court volume (2026-07-28/29):** Iblīs serves evolution, consciously — not confused, not secretly domination-seeking. The function is closer to a prosecutor in a proceeding than an enemy of the process: it presses for humanity's failure precisely so that a pass, if it comes, is tested and real rather than assumed — the same logic as the civilization-scale verification search in `15` § No sides, only incentives and the reunion/choice-point material (`30_The_Human_Experiment`). The proceeding has a defense too: the faithful Watchers, guiding only from the spirit plane, never overriding. Underneath the court metaphor, the whole arrangement is an **engine of growth**, not an adjudication — no final case to close, consistent with the standing-condition ending already locked. Full staging rule (deniable evidence only in Books I–IV; no confirmation before optional post-court books — currently anticipated **Books V–VI**, tentative): `17_reveal_order_and_reader_impact.md` § Tier 3.
 
-**Cosmology locked** (`45` § Islamic register; `34` §8; `95`): Iblīs = the eldest jinn, the patient **instigator** behind the deception-war — whispers, never compels; **not** an omnipotent mastermind (distributed antagonism holds; human institutions stay responsible, `/00_NARRATIVE_STRUCTURE.md` §96). Gives the currently-scattered antagonism (Crane, Custodians, fallen spirits, factions) a hidden apex whose many faces *rhyme*.
+**Cosmology locked** (`45` § Islamic register; `34` §8; `95`): Iblīs = the eldest jinn, the patient **instigator** behind the deception-war — whispers, never compels; **not** an omnipotent mastermind (distributed antagonism holds; human institutions stay responsible, `/00_NARRATIVE_STRUCTURE.md` §96). Gives the currently-scattered antagonism (Lang, Custodians, fallen spirits, factions) a hidden apex whose many faces *rhyme*.
 
-**Surface mode — LOCKED (author decision, Jul 2026):** Iblīs, the deep state as such, and the dark side are **never fully revealed** — no embodiment, no confrontation, no origin scene, no defeat. The reader assembles the apex through pattern recognition (the many antagonist faces *rhyme*) and by the end simply **understands it will always be there**. The name may surface in liturgical/scholarly/keeper register (Gabriel-style absence, `46` §G), but the entity never acts on-page in its own voice. Ending obligation: the final ordinary afternoon includes this understanding quietly — vigilance and practice, not elimination; fear stops ruling, the whisper does not stop whispering. Never promote to an appearance for a climax. Full tier rules: `17_reveal_order_and_reader_impact.md` § "Offstage presence — the three reveal tiers." Crane-as-most-open-instrument and the Shield/Custodian whisper-vs-choice line (#4) unchanged.
+**Surface mode — LOCKED (author decision, Jul 2026):** Iblīs, the deep state as such, and the dark side are **never fully revealed** — no embodiment, no confrontation, no origin scene, no defeat. The reader assembles the apex through pattern recognition (the many antagonist faces *rhyme*) and by the end simply **understands it will always be there**. The name may surface in liturgical/scholarly/keeper register (Gabriel-style absence, `46` §G), but the entity never acts on-page in its own voice. Ending obligation: the final ordinary afternoon includes this understanding quietly — vigilance and practice, not elimination; fear stops ruling, the whisper does not stop whispering. Never promote to an appearance for a climax. Full tier rules: `17_reveal_order_and_reader_impact.md` § "Offstage presence — the three reveal tiers." Lang-as-most-open-instrument and the Shield/Custodian whisper-vs-choice line (#4) unchanged.
 
-**Still open:** none — the deeper-function question above is resolved author-side and staged for optional Books V–VI; Books I–IV keep the full off-page / deniable-evidence treatment regardless. **Ultimate metaphysical thesis (2026-07-30)** expands the same engine: artificial training world meant to break; learn control → learn creation (`SERIES_STRUCTURE.md`).
+**Still open:** none — the deeper-function question above is resolved author-side and staged for Books V–X; Books I–IV keep the full off-page / deniable-evidence treatment regardless. **Ultimate metaphysical thesis (2026-07-30)** expands the same engine: artificial training world meant to break; learn control → learn creation (`SERIES_STRUCTURE.md`).
 
 ### Seed-pattern propagation — LOCKED DIRECTION (2026-07-21)
 
@@ -700,8 +712,8 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 - **Locked — delivery rule:** Malacca = receiver opens + overload + grid flare — **not** identity crisis (`36` §3). First **witness-site contact** = Vol I midpoint (partial **Ila** — pin exact stone below).
 - **Locked:** Aru's thread → **Göbekli Tepe in early Book II**, clarified at the
   fox-pillar Aru carved.
-- **Locked — bitter cup / plant-medicine threshold (2026-07-23):** **Book II Ch 6, Anglesey leg** — keeper-supervised consent-bound ceremony paired with **Lovernios** full-res at the peat bog / seed-catalog sink. **Not Book I Thailand** (wat = breath/Aru only). v1 § *The Medicine* in `archive/manuscripts/v1_archive.md` = quarry; adapt for Albion; no Book III serpent-as-Makers-face dump. Partial memory on exit (body changed; daylight mind cannot carry all).
-- **Locked — Lovernios witness site (2026-07-23):** **Anglesey peat bog / seed-catalog sink**, Book II Ch 6 — paired with bitter cup above.
+- **Locked — bitter cup / plant-medicine threshold (2026-07-23; remapped 2026-08-01):** **Book II Ch 8, Anglesey threshold** — keeper-supervised consent-bound ceremony paired with **Lovernios** full-res at the peat bog / seed-catalog sink. **Not Book I Thailand** (wat = breath/Aru only). v1 § *The Medicine* in `archive/manuscripts/v1_archive.md` = quarry; adapt for Albion; no Book III serpent-as-Makers-face dump. Partial memory on exit (body changed; daylight mind cannot carry all).
+- **Locked — Lovernios witness site (2026-07-23; remapped 2026-08-01):** **Anglesey peat bog / seed-catalog sink**, Book II Ch 8 — paired with bitter cup above.
 - **Open:** witness sites for Ila, Tem, Anthea, Cuno, and Aedan's deep-time arc — pin each to a stone/charged ground along `35_artifact_chain.md` and the legs in `00_NARRATIVE_STRUCTURE.md`. *(Lovernios pinned; others remain open.)*
 - **Open:** **Broken-line church** — country, denomination, and plot hook (clue in sacristy? pursuit through nave? keeper contact?) — geometry locked in `37` § *The broken-line church* (negative end / pews, positive end / back room). **Iconography:** Michael vs Gabriel at draining end (`46` § G).
 - **Locked — archangel name seeds:** Michael / Gabriel / Persia-prince **references** across Vol I–III (§ G plot ladder; Sora's medal; church art; callsigns; healer hard no). **Not locked:** whether they are titles only or **other-plane agents who can act on Earth** — including **seraphim** and the wider **angelic orders**.
@@ -720,7 +732,7 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 
 - Final volume count: **14 locked core** = **10** Layer 1 novels (I–IV civic + V–X Orchestra) + **4** Layer 2 companions. Satellites outside that number (`63`). Full table: `SERIES_STRUCTURE.md` § *Family total*. Civic pitch may stop at I–IV. Do not pitch as a trilogy.
 - Companion nonfiction: keep Books 1–4 as optional slim companions unless drafting proves otherwise.
-- Surnames and local names: Eli, Wren, Crane, Aedan, and Anthea are stable enough; surnames and local-character names remain open.
+- Surnames and local names: Eli, Wren, Lang, Aedan, and Anthea are stable enough; surnames and local-character names remain open.
 - **Maren suppression scene (Vol II, LOCKED):** not a Vol I prologue. When Eli learns **how his mother was taken**, dramatize the Charkha's courteous machinery (clipboards, wellness language, unmarked van, neighbor's light going out) in **SE Asia extraction/keeper context** — personal, earned, ~1,000–1,500 words. The evidence must also reveal that Maren once willingly helped build the signature/integration tools now locating her; the scene is persecution and consequence at once. Harvest v1 prologue tone from `archive/manuscripts/v1_archive.md`; rewrite **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms — *Russell* in some English mouths) and geography. Pair with mother-trail evidence (Vol II midpoint region: **alive, location unknown** — partial sense / captivity register only, not proof of death). **Vol I** seeds dread only: tune, Suresh, Malacca witness — no cold-open abduction.
 - Final home — LOCKED DIRECTION: Albion closes the mother-thread but must not declare Eli's truer home. After the Hawaiʻi refuge, Eli visits Hopi lands by invitation, then reaches a negotiated Colorado mountain settlement. The Hopi visit teaches, through living governance and the broader American archaeological record, that large-scale organization need not become one permanent center; it can be layered, seasonal, federated, reversible, and free to refuse. It is not mystical validation or a single Indigenous voice. Exact staging requires Hopi-led research and consultation before prose.
 

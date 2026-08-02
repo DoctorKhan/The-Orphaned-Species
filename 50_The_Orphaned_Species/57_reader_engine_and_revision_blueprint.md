@@ -6,7 +6,7 @@
 
 ### One-sentence series
 
-A stateless young sailor follows the trail of the parents he was taught were dead into a buried network linking human consciousness to ancient sites, then must stop every state, cult, and frightened community—including his own followers—from turning awakening into ownership.
+A stateless young sailor follows the trail of the parents he was taught were dead into a buried network linking human consciousness to ancient sites, then must decide what humanity will become when its inherited powers awaken and no maker remains to explain their purpose.
 
 ### The surface story
 
@@ -16,7 +16,7 @@ The reader never has to understand the full cosmology to understand what Eli wan
 
 ### The deeper story
 
-Can people develop knowledge, capacity, and coordination without rebuilding the machinery of ownership?
+What does a created and abandoned species become when it can no longer ask its makers what it is for—and can it inherit their powers without repeating their failures?
 
 The deeper question must be embodied in choices before it is named in dialogue.
 
@@ -33,7 +33,7 @@ If a scene fulfills none of these contracts, cut it or move it to a companion.
 
 | Volume | Reader question | False answer | Costly answer | Ending change |
 |---|---|---|---|---|
-| I — *The Breach* | Is the buried system real, and can Eli recover his father? | A clean machine record and institutional access will make Eli whole. | At Sanxingdui the distributed Tree of Life proves real; Eli chooses living relationship over a controllable interface. | Rasel recovered; Emrys taken; Maren's complicity disclosed. |
+| I — *The Breach* | Is the buried system real, and can Eli recover his father? | A clean machine record and institutional access will make Eli whole. | At Sanxingdui the distributed Tree of Life proves real; Eli chooses living relationship over a controllable interface. | Rasel recovered; nobody captured — Wren displaced, Qiao's clearance lost; Maren's complicity disclosed. |
 | II — *The Descent* | Did Maren betray Eli, and can she be recovered? | Rescue means retrieving and preserving her. | Göbekli reveals contact becoming control; Maren helped build the apparatus, resisted it, and must be released rather than kept useful. | Eli frees his mother without requiring her innocence or continued availability. Awakening spreads. |
 | III — *The Living World* | Who may govern dangerous awakened capacity? | Safety requires a registry, army, savior, or permanent center. | Free communities need enforceable limits, temporary authority, consent, accountability, and the right to refuse connection. | Eli accepts authority, causes real harm, relinquishes it, and becomes answerable rather than indispensable. |
 
@@ -54,8 +54,8 @@ A revelation earns its place only if it does at least two of the following:
 - **Victims:** parents stolen for what they knew → at least Maren helped build early tools before resisting.
 - **Mandate hunt:** Rasel's state pursues loose ends → the Charkha is wearing the Mandate's face.
 - **Courier:** Wren is a paid handler → she is an independent extractor protecting a larger network.
-- **Empiricist:** Emrys protects uncertainty → grief makes him fill gaps and trust the wrong map.
 - **Custodians:** faceless hunters → coerced carriers preserving their own found family.
+- **Wren:** clean operator with a clean exit → burns her own standing and homecoming to authenticate the Sanxingdui evacuation.
 - **Ancient record:** truth will liberate → a complete record is also a control prize.
 - **Awakening:** liberation → capacity without social forms can kill.
 - **Eli:** answer to the crisis → treating him as the answer recreates the crisis.
@@ -90,8 +90,8 @@ The journey is a chain of experiential chambers. Each chamber needs:
 | Meridian / Cherry Cube | Frictionless vertical splendor | Classification, synchronized attention, worker lanes | Accept recognition and legitimacy | Rasel's hand and ring expose him |
 | Malacca | Plural harbor life | Human routes, favors, boats, threshold houses | Chase the mother-clue alone | Breach activates him and damages Wren's extraction |
 | Thai valley | Living fields and disciplined care | Cooperative records and water governance | Own the first clean proof | The record burns while people survive |
-| Northbound corridor | Human doors across machine borders | Documents, favors, freight, biometrics | Take Edda's protected route to Rasel | The human route costs time and exposes keepers |
-| Sanxingdui | Monumental branching tree and living-ground correspondence | Museum, conservation, Mandate apparatus, legitimate scholarship | Concentrate the living signal into a clean machine read | Rasel recovered; record broken; Emrys taken |
+| Northbound corridor | Human doors across machine borders | Documents, favors, freight, biometrics | Take Anika's protected route to Rasel | The human route costs time and exposes keepers |
+| Sanxingdui | Monumental branching tree and living-ground correspondence | Museum, conservation, Mandate apparatus, legitimate scholarship | Concentrate the living signal into a clean machine read | Rasel recovered; record broken; nobody captured — Wren and Qiao pay in standing and access |
 
 ## Character engines
 
@@ -103,7 +103,7 @@ The journey is a chain of experiential chambers. Each chamber needs:
 - **Gift:** receives broadly, reads systems and bodies, learns across domains.
 - **Limit:** access is not mastery; he cannot heal; overload and TBI impose real cost.
 - **Book I error:** tries to solve people and evidence as one logistics problem.
-- **Book I proof:** at Göbekli he recognizes the command in his body and chooses against it.
+- **Book I proof:** at Sanxingdui he recognizes the command in his body and chooses against it.
 
 Eli must be allowed pettiness, appetite, humor, cowardice, error, and occasions when local people do not find him important.
 
@@ -116,16 +116,6 @@ Eli must be allowed pettiness, appetite, humor, cowardice, error, and occasions 
 - **Book I movement:** handler → compromised rescuer → partner who agrees to disclosure, not obedience.
 
 Wren cannot always have the final aphorism. At least once per movement, her operational certainty must cause avoidable relational harm.
-
-### Emrys
-
-- **Surface want:** produce a defensible record before institutions bury or monetize it.
-- **Hidden want:** finish Maren's work and be forgiven by someone who is not present.
-- **Strength:** protects distinctions and uncertainty.
-- **Failure:** grief makes the map more real than the territory.
-- **Book I movement:** comic empiricist → necessary teacher → increasingly compromised father-figure → taken because he chooses the documented route.
-
-His capture must result from an understandable choice, not authorial punishment.
 
 ### The Custodian lead
 
@@ -141,7 +131,7 @@ The lead must:
 - offer a bounded surrender that is genuinely safer for someone other than Eli;
 - lose something because another Custodian disobeys.
 
-Crane remains distant. The Custodian lead carries the Book I antagonistic relationship.
+Lang remains distant. The Custodian lead carries the Book I antagonistic relationship.
 
 ## Mystery discipline
 
@@ -198,7 +188,7 @@ Each appearance changes Eli's judgment of the unit.
 Chapter 11 needs at least three full scenes:
 
 1. Shireen's message and Eli's active choice not to turn toward Bangladesh.
-2. Edda's true proof that Rasel lives and a protected-route bargain in which registration is materially tempting.
+2. Anika's true proof that Rasel lives and a protected-route bargain in which registration is materially tempting.
 3. A northbound checkpoint failure that costs a keeper safety or livelihood.
 
 Chapter 12 needs:
@@ -207,17 +197,17 @@ Chapter 12 needs:
 2. the Bronze Sacred Tree encountered as ancient Shu material before any field reading;
 3. named Chinese experts with independent stakes and interpretive authority;
 4. Rasel's coerced apparatus discovered beneath the public research program;
-5. an argument over language-tree versus living-mesh interpretation that damages Emrys and Eli's trust.
+5. an argument over language-tree versus living-mesh interpretation that damages Eli's trust in Rasel's instrumented approach.
 
 Chapter 13 needs:
 
 1. public / scholarly conflict over Mandate appropriation;
 2. one free evening of human attachment;
 3. reconnaissance of machine and living routes;
-4. Emrys choosing the documented apparatus;
+4. Anika or the consortium pressing the documented apparatus as the safe choice;
 5. a sustained multi-party assault with civilians in the geometry;
 6. Eli's embodied override;
-7. Rasel's extraction and the negative-space loss of Emrys;
+7. Rasel's extraction and the cost that lands on Wren and Qiao instead of a new captive;
 8. father-son aftermath and Maren-complicity disclosure that make Book II emotionally inevitable.
 
 ### Pass 4 — Desire and silence
@@ -240,7 +230,7 @@ Volume I is not finished when every planned event has prose. It is finished when
 - the Custodian lead is memorable and partially persuasive;
 - Eli makes at least one wrong consequential choice before the correct climax choice;
 - Wren's methods save people and damage trust;
-- Emrys's capture is caused by his established wound and directly prices Rasel's recovery;
+- Wren's and Qiao's costs are caused by their established positions and directly price Rasel's recovery;
 - Sanxingdui resolves the volume's emotional and action questions while preserving the larger mystery;
 - removing the author notes does not make the story unintelligible;
 - the ending creates grief and forward necessity, not merely sequel information.

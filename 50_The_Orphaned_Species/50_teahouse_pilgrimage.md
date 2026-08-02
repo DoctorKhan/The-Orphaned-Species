@@ -137,7 +137,7 @@ The long pilgrimage repeatedly brings people together under different conditions
 
 They are relationships, not discovered biological or psionic kinds. Science may study group health; it may not manufacture the groups. AI may reveal coercion or closure; it may not recommend a person's destined home.
 
-**Distinct from cloister animal houses — LOCKED 2026-07-31:** men's cloisters also use **animal houses** (Stag/Deer, Crow, Bear, Salmon, Ox) named for **stress behavior** inside a keeping-order (`40` § *Cloister animal houses*). Those are temperament houses, revisable, not blood. Teahouse/pilgrimage clans here remain **chosen kin from shared life**. Do not merge the two systems into one taxonomy, and never let AI or health metrics assign either.
+**Distinct from cloister animal houses — REVISED AND LOCKED 2026-08-01:** men's cloisters use **animal houses** (**Stag**; folk speech may say **Deer**; **Fox, Bear, Salmon, Ox**) as enduring mentorship lineages for learning adult capacities and later guiding younger members (`40` § *Cloister animal houses*). They are not temperaments, jobs, security specialties, political blocs, or civic ranks. Teahouse/pilgrimage clans here remain **chosen kin from shared life**, not pedagogical lineages. Do not merge the systems, and never let AI or health metrics assign either. Crow retired so bird/flight language stays free for swifts coda and Book V flights.
 
 Minimum protections:
 
@@ -152,6 +152,40 @@ Minimum protections:
 Seasonal gatherings and cloister intervals may use **antiphonal lay forms** from the companion corpus — call-and-response liturgies taught as household custom, not priestcraft (`54_liturgies.md`; primary example: *The Parade Liturgy*). Fragments circulate as sayings long before a house assembles the full service.
 
 The network's balance is not sameness. It is **difference remaining in relationship**.
+
+## Neo-śramaṇas and flights — Book V maturation — LOCKED 2026-08-01
+
+The pilgrimage eventually produces wandering practitioners whom later speakers
+call **neo-śramaṇas**. The name describes a family of renunciant and
+investigative practices, not a revived ancient religion, ordained class, or
+claim that every traveler follows South Asian doctrine. Their common proof is
+conduct: carry little, remain answerable, work where received, serve without
+acquiring dependents, distinguish experience from authority, and return
+extraordinary insight to ordinary care. A neo-śramaṇa may travel alone, keep a
+teahouse, join a flight, leave the practice, use technology, raise children, or
+hold no sanctuary clearance.
+
+By Book V, primarily young travelers begin forming seasonal **flights** along
+the pilgrimage and work routes. Bird names are chosen and temporary; they name
+a journey, not a human type. Flights move skills, labor, songs, seed, tools,
+medicine, news, and research observations between settlements. They grow from
+peer choice and practical need rather than assignment by parents, houses, AI,
+or the state.
+
+Flights are distinct from both chosen-kin clans and cloister animal houses. A
+clan may become a home; an animal house mentors maturation across generations;
+a flight travels together for a bounded season or task. None confers authority
+over the others. A sound flight publishes its route obligations, sponsorship,
+wages or exchange, cargo, adult safeguarding roles where minors travel, and a
+way to leave or return. It does not require romantic availability, permanent
+loyalty, shared metaphysical belief, or severance from home.
+
+The form remains vulnerable to capture by charismatic teachers, merchants,
+recruiters, gangs, smugglers, psionic prestige, sexual coercion, and the romance
+of rootlessness. Communities must also resist treating those who stay—growers,
+carers, disabled youth, local apprentices, parents—as spiritually unfinished.
+The correction is never to abolish movement. It is to keep routes plural,
+sponsorship visible, labor answerable, and landing possible.
 
 ## Eli's place after Book III
 

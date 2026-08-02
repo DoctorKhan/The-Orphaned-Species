@@ -15,7 +15,7 @@
 | Phase | Period | Trilogy |
 |---|---|---|
 | **Acceleration** | Late 2020s | Off-page backstory: climate displacement ↑; AI/biotech mature |
-| **Militarization** | Early 2030s | Carrier registries as health-and-security; Maren/Crane/Emrys research |
+| **Militarization** | Early 2030s | Carrier registries as health-and-security; Maren/Lang research |
 | **Hinge wars** | Mid 2030s | Cyber + shipping war; identity systems weaponized |
 | **Fever Years** | ~2037–39 | Outbreak + lockdown; emergency powers; merged databases |
 | **Armed reopening** | ~2039–40 | **Book I opens here** — Malacca, Strait, Pelangi |
@@ -53,7 +53,7 @@ Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs b
 
 **Immigration texture (LOCKED):** regional, **bureaucratic** displacement — documents, remittance, cousin networks, quarantine floats, extended-assessment sweeps — not cinematic exodus alone. Shireen/Dhaka; unreturnable Bangladesh; Bengali diaspora routes; forged papers vs AI detection.
 
-**Beloved community practices (affirmative — not slogans):** Mei feed-before-classify; Pelangi Ch 2 voluntary intake; Pak Din chain; threshold houses; hearth circles; Yerba Buena sanctuary; polyphonic compact; teahouse replication. Full register: `90` §10.
+**Beloved community practices (affirmative—not slogans):** Mei feed-before-classify; Pelangi intake; Pak Din chain; threshold houses; hearth circles; Brazilian receiving kitchens and public hearing; polyphonic compact; teahouse replication. The Book III physical Yerba Buena stop is retired under the 2026-08-01 geography lock.
 
 **Guards:** no Eli-as-King; Black/immigrant characters with agency; Hopi/Native Hawaiian threads separate; sorting shown through **clerk, lane, roster, queue** — sympathetic characters repeat desert-logic over tea.
 
@@ -100,7 +100,7 @@ Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs b
 | Registry = intake; Devolution = exit | Saved / catalogued / spent |
 | Union wards vs threshold houses | Sedate vs integrate; Fractured label |
 | Merged databases | Health + border + security |
-| Sponsorship harm | Crane diagnosis true; registry wrong (Tomas/Nia/Amara) |
+| Sponsorship harm | Lang diagnosis true; registry wrong (Tomas/Nia/Amara) |
 | Force-sync | Fast clock wins acute; slow clock wins war (`38` §1a) |
 
 **Book load:** Vol III Ch 2–3 harm; Ch 4 Standard; Ch 8 climax temptation.
@@ -115,8 +115,8 @@ Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs b
 | Messiah/Deiwos | Kneel reflex; messiah rise to completion (`33` header) |
 | Propaganda stack | AI slop + state + prophecy TikTok |
 | **The flow** | Rendezvous phrase — **multiple collapses** Book II–III; first at *corridor break*, wide by war/evac (`54`, `53` §13) |
-| **The corridor break** | Book II Ch 4–5 — first named regional fracture; Albion approach (`54`) |
-| **Further collapses (stack)** | Book II Ch 6–7 + Book III war/evac/holding/teahouse — rhythms accumulate (`54`) |
+| **The corridor break** | Book II **Ch 6** — first named regional fracture; Albion approach / Pömmelte stretch (`54`) |
+| **Further collapses (stack)** | Book II Ch 7–8+ + Book III war/evac/holding/teahouse — rhythms accumulate (`54`) |
 
 **Book load:** Vol I intake; Vol III memorial families irreducible; `44` volume civic claims.
 
@@ -138,7 +138,7 @@ Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs b
 
 | Volume | Dominant conflicts | Key locked beats |
 |---|---|---|
-| **I — Shattering** | Hunt, intake sorting, Strait geometry, forming ley contest, Göbekli sacrifice | Mandate squeeze; Meridian forms; Malacca breach; Custodians; Emrys taken |
+| **I — Shattering** | Hunt, intake sorting, Strait geometry, forming ley contest, Sanxingdui choice | Mandate squeeze; Meridian forms; Malacca breach; Custodians; Wren displaced |
 | **II — Descent** | National psion war, family/possession, Pömmelte purge, awakening spreads | Maren release; hearth circle; England ambush; Ninmah/Umul rhyme |
 | **III — Choice** | Awakening War, Standard vs polyphonic compact, force-sync, hearing, replication | Okafor harm; Revelation; Bima Prasetyo; compact; field-sail ceasefire |
 
@@ -157,8 +157,8 @@ Beatsheets: `31`, `32`, `33`. Plot hub: `29`.
 
 VOL II — multiple further collapses
 ├── Westward transfer; psion war as policy
-├── **The corridor break** (Ch 4–5) → *in the flow* first spoken
-├── Pömmelte + hearth circle; Ch 6–7 handoffs stack rhythms
+├── **The corridor break** (**Ch 6**) → *in the flow* first spoken + primary hearth
+├── Pömmelte + hearth circle same stretch; Ch 7–8 handoffs stack rhythms
 ├── England ambush / Albion fracture (Ch 7)
 └── Maren release + first spreading awakening
 
@@ -185,7 +185,7 @@ VOL III — multiple further collapses
 | Local care vs scale | Mei vs founders' brand (`33` Ch 3 Mei bill) |
 | Cooperation vs solo map | Wren polyphony vs Eli centralizing (`90` §10; `33` Ch 5) |
 | Refuge vs militarization | Hawaiʻi hosts vs war coordinators (`33` Ch 7–8) |
-| Vigilance vs ownership | Mandate bio monitoring vs person-registry (`51`) |
+| Vigilance vs permanent custody | Mandate bio monitoring vs person-registry (`51`) |
 | Malacca openness vs Mandate pressure | Entrepôt vs Stack (`23` Strait geometry) |
 
 ---
@@ -199,8 +199,8 @@ VOL III — multiple further collapses
 | Desal/water allocation dispute (Reclamation vs island) | Ecological + class | I background / III return |
 | Threshold house overflow — ward truck vs keeper song | Biopolitical | I–III threshold culture |
 | Remittance app failure; manifest race | Economic | I Ch 1–2 |
-| Yerba Buena mutual-aid kitchen; polyphonic grief | Social + King | III Ch 4 |
-| Memorial names; psion-harm vs registry-harm | Social | III Ch 5 |
+| Brazilian receiving kitchen / port-clinic council; polyphonic grief | Social + institutional | III Ch 3–4 |
+| Brazilian public hearing; psion-harm vs registry-harm | Social | III Ch 5 |
 | Hawaiʻi port — three protocols on one episode | Geo + biopolitical | III Ch 7 |
 | Post-ceasefire teahouse; Ma as equal; field-sail on wall | Technological | III Ch 10 (`51`) |
 
@@ -208,9 +208,9 @@ Additional set-pieces: `18_adventure_engine_and_scene_bank.md`. **Not every pin 
 
 ---
 
-## MLK / Yerba Buena — causal hinge (summary; full text `90` §10)
+## MLK / Yerba Buena — RETIRED FROM THE PHYSICAL BOOK III ROUTE 2026-08-01
 
-**Book III Ch 4 — Revelation:** keeper shows **sanctuary practice at civic scale**; Eli recognizes Pelangi Ch 2; **proposes polyphonic compact** (every key must sound); federation **replicates living form** when Crane keeps registry tier; Wren witnesses Eli try to **solo the chorus**.
+Retain the research and imagery as quarry or as material visible through Union records. Book III Ch 4 now takes place in a Brazilian port/clinic council. The polyphonic compact grows from working Brazilian, Pelangi, clinic, threshold-house, and other forms rather than from Eli interpreting an American memorial.
 
 **Not:** renunciation-chain as story engine. **Yes:** slow clock, full keyboard, beloved community as **construction** (`Thesis.md` § *Mature form*).
 
@@ -223,8 +223,8 @@ Additional set-pieces: `18_adventure_engine_and_scene_bank.md`. **Not every pin 
 3. **Named cost for war** — body, attachment, aftermath (`33` WAR THESIS).
 4. **No clean firefights** — no anonymous enemy waves or glamour last stands.
 5. **Immigrants with agency** — Babaji cell, Suresh, Shireen, Okafor family, Yerba Buena steward, threshold diaspora.
-6. **Positive forms collide** — safety vs admission, vigilance vs ownership, speed vs consent.
-7. **Volume civic claims** (`44`): I = not the imposed category; II = dependence without capture; III = protect without owning.
+6. **Positive forms collide** — safety vs admission, vigilance vs privacy, speed vs consent, continuity vs the return to ordinary life.
+7. **Volume civic claims** (`44`): I = an imposed category is not a self; II = dependence need not cancel judgment; III = emergency power must end; IV = no child inherits the answer.
 
 ---
 

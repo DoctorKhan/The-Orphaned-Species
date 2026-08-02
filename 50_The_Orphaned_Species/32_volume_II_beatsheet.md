@@ -11,6 +11,14 @@
 > Rasel present and Wren displaced → Mesopotamia/Göbekli → Bosporus/Balkans →
 > Europe → Rowan's west-corridor Weft and Wren's first recovery → Albion release.
 
+> **PRIMARY DRAMATIC IDENTITY — LOCKED 2026-08-01:** Book II is the psionics-and-belonging volume. Psionic ability comes to the fore as a frightening, poorly understood human difference: carriers and witnesses cannot always distinguish perception, projection, memory, coercion, illness, or fraud; families conceal; clinics set limits; states classify; frightened communities expel; Sol offers sacred unity; Lang offers managed safety; lineage offers destiny. Eli's underlying question is **where can someone like me belong, and whom can I trust?** Atomization belongs here as lived pressure—the loss of shared reality and ordinary standing—not as a comprehensive social diagnosis or repeated abstract vocabulary.
+>
+> **DREAMER ARC — BOOK II LOCK 2026-08-01:** Dream uncertainty is a principal intimate expression of the psionic problem. Eli's vivid dreams increase, but he does not know whether they are contact, trauma, body, memory, projection, ordinary symbol-making, or intrusion. Include three different evidentiary outcomes across the volume: an apparent warning that proves trauma or misreading; an unshowy detail independently verified later; and one dream that remains plausibly contaminated by another psion. Late Book II allows the group to infer that sleep is a receptive state with poor provenance. It does not reveal Eli as **the Dreamer**, grant an itinerary, or let a dream settle a dispute.
+>
+> **CERTAINTY AS ADMISSION PRICE:** Lang says *we know what you are; submit.* Sol says *we know what you are; join.* Bloodline mythology says *we know what you are; inherit.* The humane communities do not answer with a rival total explanation. Their offer is enacted: *we do not completely know what you are; you may still eat here, work here, disagree, and leave.* This must remain costly and imperfect; shelter can still become custody, witness can become surveillance, and family can still make secrecy into authority.
+>
+> **BOOK II → III SOCIAL INHERITANCE — LOCKED 2026-08-01:** Book II discovers small, situated forms rather than designing a polity: witness pairs and consent before contact; hearth circles and shared meals; work-song and child participation; Weaver routes and living attestation; ply and chosen kin; craft/elder transmission; exchange among distinct post-collapse communities. Each first solves a local problem and then overreaches. Book III scales the corrected fragments: mixed psion/nonpsion review, accountable intake, service houses and cloisters, reconstruction teaching, distributed credentials with external appeal, local apprenticeships, modular exchange, and refusal of forced synchronization. Book II supplies experiences; Book III supplies institutions.
+
 > **FAMILY AND LOSS — THEMATIC LOCK 2026-07-22; parent rescue 2026-07-24:** Book II is where Eli understands family across the whole movement: shelter and inheritance, secrecy and complicity, usefulness mistaken for love, protection becoming possession, chosen kin, biological descent, and the necessity of release. Eli **rescues Maren — Book II** (not Rasel). The ancient household and lineage evidence from Book I becomes emotionally legible through Maren, Rasel, Wren, the healer, Pömmelte, and the Rootbook's kinship branch. Maren's release proves: **whom I love does not belong to me.** Book II may plant the mechanisms later scaled by states, but it does not yet state civilization's engine/exhaust synthesis; that recognition belongs to Book III.
 
 > **CONSENT AND CONTROL — THEMATIC LOCK 2026-07-22:** Family and loss become dramatic through consent. Book I teaches Eli to understand what he feels; Book II asks what feeling permits him to do. Every major bond should test a distinct boundary: body, mind, memory, story, route, secrecy, care, rescue, formative history, psychic contact, or the right to leave. Love and responsibility create obligations, but they do not confer unlimited access. Recur through conduct rather than speeches: ask before entering, disclose what materially affects another bond, accept a hard no that causes real loss, stop a field-read that could supply needed truth, let a rescued person define rescue, and release a loved presence both people want to prolong. The governing proof is Maren: **Eli may love, need, understand, and be loved by her without acquiring the right to keep her.**
@@ -18,14 +26,53 @@
 > **CHARKHA NAME + MOTHER — REVEAL LOCK 2026-07-26 (dual-true + costume):** Book I never names **Charkha / Measure**. Eli saw Mandate/father (Rasel's son / loose ends). **Charkha wore Mandate's face** for the Eli/mother hunt. Late cracks = costume seams, no apex name. **Book II names Charkha** — knife: **wore the Mandate's face; got Maren; you've been running their map** (Rasel remains Mandate).
 >
 > **CHARKHA PAIR-SEVERANCE — REVEAL LOCK 2026-07-22:** Book II reveals the operation, not yet the whole civilization-engine. Early chapters show the residue: fear of dependence, institutional mediation, doubled burdens, and intimacy misread as capture. At the midpoint Rowan finds records showing that Charkha-linked offices tested and amplified opposed gender grievance scripts under **dependency transfer**, **household permeability**, and **dyadic resilience** programs. The target was not women's autonomy or work; it was durable horizontal reliance. Wren makes the discovery personal by recognizing how the atmosphere exploited her fear of possession and the unresolved Wren/Rowan ply, while refusing to let policy erase either woman's choices. Book III alone reveals the full demographic and engine purpose.
+> **Interpretive ceiling — LOCKED 2026-08-01:** the files prove that someone has deliberately made horizontal trust harder. They do not authorize Book II characters to explain modern atomization, the whole civilization-engine, or every damaged relationship. Rowan can identify an operation; Wren can feel the assault on authorship; the full scale meaning waits for Book III.
 
 > **COSMOLOGICAL FUNCTION — LOCKED 2026-07-15:** Book II reveals that the Drift is purposeful pressure: humanity has brought the Tree of Knowledge toward fruition while severing it from life. Maren's release begins the education by which technological intelligence can become understanding rather than fear of life-technology and the Nephilot/elven line.
 >
-> **GEOGRAPHY / REVEAL LOCK — 2026-07-26:** Book II owns the Mesopotamian archive, Adapa / 4.2-ka distinctions, Taş Tepeler, and Göbekli. The route must compress travel through causal handoffs rather than tourism. Hassan's transfer continues through a **Bosporus–Thrace/Balkan holding corridor** because Maren's sabotaged maps point toward Albion.
+> **USE / CAPTURE / CORRECTION — LOCKED 2026-08-01:** Book II makes inheritance double-edged. Song, dance, ritual, archive, family, ply, and spiritual contact preserve knowledge through displacement and institutional collapse; the same forms can become compulsory cadence, authorized memory, presumed access, lineage destiny, or proof that a powerful feeling must be obeyed. Each major inheritance should help before it overreaches. Correction keeps the practice while restoring choice, provenance, dissent, and the right to leave.
+>
+> **GEOGRAPHY / REVEAL LOCK — 2026-07-26; EGYPT PLACEMENT 2026-08-01:** Book II owns the Mesopotamian archive, Adapa / 4.2-ka distinctions, Taş Tepeler, and Göbekli. The route must compress travel through causal handoffs rather than tourism. Hassan's transfer continues through a **Bosporus–Thrace/Balkan holding corridor** because Maren's sabotaged maps point toward Albion.
+>
+> **EGYPT — BRIEF HINGE / PACKET ONLY — LOCKED 2026-08-01:** Egypt is **not** a Book II or Book III volume open and **not** a full landmark chapter. Prefer a **brief Ch 1 westbound hinge** (Nile House handoff, conservation/museum tell, or Mandate corridor paper — hours to a couple of days max) **or** an Egyptian comparative **packet inside Ch 2's Mesopotamian archive sequence**. One irreversible job: Egypt shows what Late Bronze Age survival looked like when the palace *did not* fall — **divine kingship as antifragility's trap** (endurance by hardening the god-king). "Pharaohs trace to Mesopotamia" may appear only as a **contested curator / Nile House / scholarly claim**, never narrator-certified fact. Then Mesopotamia owns Refusal; Göbekli owns contact→selection. Book III: Egypt stays **Mandate-face only** (feeds, Continuity costume, distant officials) — no Egyptian pilgrimage. Cross-ref: `23` stagnant-survivor row; `61`; `33`.
+
+> **PHANTOM GOD-PERCEPTION — SEED ONLY — LOCKED 2026-08-01:** Book II does **not** discover that perceiving absent gods is domestication programming for continued service. It **seeds the felt pattern**: obedience to empty authority; registry/wellness language as a present god; Egypt’s god-king trap; kneeling or reporting when nothing answers; Sídhe/gods-underground residue as wrong-first haunt/piety. Late II may approach the robot/sub-drone gut-punch (`17` §9) but must not name the remote-collar thesis. Full discovery = Book III (`17` §9a; `40` § *Phantom god-perception*).
+>
+> **LOCATION CONTRACTION — LOCKED 2026-08-01:** Contract **travel days**, not jobs. Target ~**6–7 places the body arrives**, not ten museum pins. Every stop must change **(a)** the chase's next door **and** **(b)** a relationship cost. **Do not drop:** Mesopotamia · Göbekli · Hassan holding · Pömmelte · Avebury. **Staging rules:** (1) **Broken-line church folds into Ch 6 Pömmelte** as domestic inward-control rhyme — not a separate trip. (2) **Rollright + Men-an-Tol = one corridor set-piece** (Ch 7) — two stones, one people beat (Callum / Sídhe). (3) **Anglesey = threshold room, not island tour** (Ch 8) — bitter cup + Lovernios + Maren contact, then leave. (4) **Stonehenge → Avebury = one continuous climax run** (Ch 9–10) — station then inhabited ground, not two sightseeing days. Egypt remains hinge/packet. People-drama and ancient-tech discovery share air; sites that only advance relics fail. `61`.
 
 > **DEEP-TIME RESIDUE / ANCIENT FACE — LOCKED 2026-07-30:** Book II ancient face = **Sídhe / Göbekli / Adapa–Refusal packet** (gods underground; contact became command; Refusal). Quota: ~one deep-time residue every 1–2 chapters (`17` § *Deep-time residue density*). Loop hatch-mark seed only — no street name. Per chapter: residue · wrong reading · human cost.
 
-> **DELIVERY UPGRADES — LOCKED 2026-07-31:** Match Book I density (pressure + residue + people). Antagonist job audible every 1–2 chapters. Cast chemistry non-thesis every 1–2 chapters. Brand face = Rasel's ring (returns Ch 5); secondary = Refusal/stone. `55` § *Five delivery upgrades*.
+> **DELIVERY UPGRADES — LOCKED 2026-07-31; PITCH/VISUAL REVISED 2026-08-01:** Match Book I density (pressure + residue + people). Antagonist job audible every 1–2 chapters. Cast chemistry non-thesis every 1–2 chapters. Rasel's ring returns as causal evidence in Ch 5; the Sanxingdui tree remains the series visual system; Refusal/stone is the Book II accent. `55` § *Five delivery upgrades*.
+>
+> **CLIMAX STAGING — EPIC ENOUGH — LOCKED 2026-08-01:** Ch 10 release remains the moral climax; surround with a **failed keep-her / use-her-signal assault** so the cut costs safety, not only grief. `17` § *Climax staging*; `55` §6.
+>
+> **INANA'S DESCENT — DUAL FACE — LOCKED 2026-08-01:** Same myth, two Book II jobs. (1) **Healing** — Somchai Ch 4 attend-then-restore; Eli's Manual Override misread; Maren release completes the civic face. (2) **Wren/Rowan romance** — archive seed Ch 2; Ch 6–7 renewal = gates/attend/return-with-cost through conduct (Dumuzi shadow = Eli provisional fear only). Never cast the women as Inana/Ereshkigal. `35` § *Inana's Descent*; `19` § *Rowan returns*.
+>
+> **BOOK II DELIVERY PACKAGE — LOCKED 2026-08-01** (critique decisions):
+>
+> 1. **Mother-hunt Clock A — drip + dual-clock card:** Every chapter must advance **finding Maren** with at least one concrete beat (checksum, sabotaged chart, Hassan line, dead-zone signature, tether rumor, cut contact, wired-operator truth, release pressure). Chapter cards carry **Clock A / Clock B / antagonist job / cost→next**; fail if Clock A is none. Motor remains parent rescue — ancient tech is path and trap, not the desire.
+> 2. **Wren/Rowan ↔ Maren mirror:** When ensemble (Wren/Rowan/Callum) dominates a stretch, their people-problem must **rhyme a Maren problem** so the mother hunt stays emotionally present: *completed route ≠ returned person* ↔ Maren as completed operator/placement vs returned mother; person-first recovery ↔ refuse treating her as useful signal; possession-fear / pair-severance ↔ Charkha leash built from love and usefulness; ply automaticity ↔ reunion that assumes access. Mirror by conduct, not speech equating the women to Maren.
+> 3. **Rasel = instrument antagonist (capped):** Recurring want = one more reading / hold the stabilizing signal. Love without agreement. Proof scenes at least: early entropy/sabotage rhyme; Stonehenge “one more interval”; Avebury release opposition. Elsewhere quieter — not a wise sidekick tour guide.
+> 4. **Sol entrance — Extra settlement primary:** Ch 6 Extra world is Sol’s clear job beat (recruiters offering name/brotherhood/purpose to discarded men). Optional light touch Ch 4–5 only if needed; do not debut him only at Avebury.
+> 5. **Ch 8 Maren contact — one-way only:** Eli hears/feels her through the interval; she may not fully lock onto him as a mutual scene. Recognition-hunger without embodied reunion. No location, no plan, no long talk. **First embodied mutual reunion = Ch 10 Avebury.**
+> 6. **Term budget on the mother trail:** Max **one new proper term per chapter**; else street paraphrase. Priority names: **Charkha** (knife mid-book), **Sídhe** or gods-underground line (once), **Extra**. Deiwos / pair-severance = conduct first; labels thinner or later.
+> 7. **Contraction cut-list (prose):** Delete/forbid — separate church travel day; second Rollright day; Anglesey sightseeing; Stonehenge tour day before Avebury.
+> 8. **Antagonist face-per-stretch:** Archive≈Anika/legal · Göbekli≈consortium seal · Holding≈Custodian transfer · Europe≈registry/Charkha clerks · Extra settlement≈Sol recruiters · Avebury≈Anika and/or Sol keep-her grab. Every chapter: *who is working a deadline on-page?*
+> 9. **Consultation / scope:** Finish Book II mother-trail pass → III research sprint (Brazil/Hawaiʻi/Hopi) → III prose. **V–X Lifetime Orchestra frozen** as notebook only until I–IV each pass complete-meal / climax-staging tests — not a revision gate.
+>
+> **GAP-FILLERS FROM EXISTING DOCS — WIRED 2026-08-01; PROSE LANDED 2026-08-01** in `manuscripts/II_The_Descent.md` (were locked elsewhere, underused on the spine):
+>
+> 10. **Chase grammar** — § *Book II chase grammar* below. One hunt: Maren's damaged station-map; three braids (mother map / gods walked / carrier descent).
+> 11. **People spine** — § *Book II people spine* below. Same rope as Book I (hearth→father), re-seated for II.
+> 12. **Hearth circle + *the flow*** (`54`): after corridor break / Pömmelte (Ch 6) — cook-fire circle (chemistry + BAC rhyme); *in the flow* born when maps lie — mother-hunt logistics without tourism. Primary hearth = Ch 6 night; do not invent new bonding tech.
+> 13. **Maren's named moral wound** (`26`): before Ch 10, at least one early subject contained by a signature model she defended must acquire a **name and human consequence** (Hassan testimony, Rootbook redaction, or compromised recording). Mother is a person with a ledger, not only a prize.
+> 14. **Somchai depth-scan** (`26`): remap from retired Ch 17 → **Ch 4** (after consenting heal / before hard no fully blooms) or quiet beat before climax run. Consent-gated; Eli needs wound-told-from-nature before he can release Maren without erasing himself. Twins rumor stays late-II and thinner.
+> 15. **Sora** (`26`): already leaked Hassan's route; keep her as Clock A instrument + Mira wound pressure on Wren (failed extraction / uniform guilt) — rhymes possession vs person without a new subplot. Ch 1 presence; later testimony temptation stays costly.
+> 16. **Parade Liturgy drip** (`54`): sparse *I alone* / fragment lines only — corridor or clinic wall before climax; never full antiphon in II. Seeds Book III room without teaching doctrine.
+> 17. **Rootbook living correction** (`52`): one key wrong; a living community corrects one of Maren's readings before Avebury — journal is relationship + unfinished evidence, never GPS.
+> 18. **Witness-pair / consent staircase** (header social inheritance): curator→patient→Hassan→Callum→bitter-cup abort→Maren defines release — already the book's cumulative action; do not invent parallel polity tech.
+> 19. **Dreamer restraint** (ms header): vivid dreams intensify; provenance poor; no route GPS; do not call Eli *the Dreamer*.
+> 20. **Somchai hard no** (`26`): late-II crowd demand → refuse healing-on-demand + crown in one motion → back at triage. Remap from retired Ch 18 into **late Ch 9 ensemble or pre-climax beat** — lean structural only; flowers in III.
 
 *Chapter-by-chapter spine for Volume II (Descent), built on locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `29_trilogy_plot_and_development.md` (trilogy hub), `SOURCE_TO_TRILOGY_MAP.md` (atlas), `31_volume_I_beatsheet.md` (Vol I), `30_beatsheet_ch09_adapa.md` (Adapa watched-depth), `37_deep_time_source.md` (deep-time + LOCKED §§: patriarchy, dead zones, Nephilot trail, broken-line church), `38_psionic_combat.md` (war + scour), `27_character_development_arcs.md` (Vol II arcs), `99_open_questions.md` (open pins).*
 
@@ -34,7 +81,7 @@
 > clue chain → Hassan/Maren truth → Rowan's corridor and first recovery →
 > Albion release.
 
-> **ROOTBOOK — LOCKED 2026-07-21:** Book II expands Maren's journal from the first name/step index into a comparative tree of **knowing** and **kinship**. One key is wrong, a living community corrects one of Maren's readings, and recovered pages expose her voluntary work with Crane. The journal contributes to the Albion convergence but never names Maren's tether as a recoverable address. Full design: `52_the_rootbook_word_web.md`.
+> **ROOTBOOK — LOCKED 2026-07-21:** Book II expands Maren's journal from the first name/step index into a comparative tree of **knowing** and **kinship**. One key is wrong, a living community corrects one of Maren's readings, and recovered pages expose her voluntary work with Lang. The journal contributes to the Albion convergence but never names Maren's tether as a recoverable address. Full design: `52_the_rootbook_word_web.md`.
 
 > **Volume II dramatic question:** *Can Eli pursue truth without turning people into instruments of his search?*
 > **Internal movement:** descent. **Ending change:** the group can hold charged fear, loyalty, pain, and psychic pressure **without** collapsing into possession, worship, obedience, or betrayal — **relational Manual Override**.
@@ -65,7 +112,7 @@
 > additional cosmological keys. Cuno's marked fragment is an incomplete
 > operating aid subordinate to Men-an-Tol. **The Loop** may appear only as an
 > unnoticed hatch-mark seed in Book II; street name and working reading land in
-> Book III (`35` § *The Loop*). Enheduanna, Inana's Descent, the Sorting,
+> Book III (`35` § *The Loop*). Enheduanna, Inana's Descent (**dual face:** healing + Wren/Rowan), the Sorting,
 > Timna/Nehushtan, and other comparisons may appear as stories, images, or
 > scholarly disputes but may not initiate further quest stops.
 >
@@ -76,15 +123,61 @@
 > and Avebury. Every success removes a safe option.
 >
 > **Recurring human lines:** Maren reaches Eli between revelation and climax
-> through one compromised recording and one cut-short live contact. Rasel remains
+> through one compromised recording and one **one-way** interval contact (not a mutual reunion). Rasel remains
 > an emotional opponent through the second half because he wants more time and
-> better instruments for Maren. Somchai's healing rumor, refusals, and bodily
-> cost recur after his entrance. Rowan's missing person is **Callum Price**, a
+> better instruments for Maren. Somchai's healing rumor, refusals, bodily
+> cost, and **one consent-gated depth-scan** recur after his entrance. Rowan's missing person is **Callum Price**, a
 > demobilized flood-pump technician stripped of house standing and filed as a
 > likely raider. Recovery returns him as a person with choices, not as proof that
-> every Extra is harmless.
+> every Extra is harmless. **Sora** remains the Hassan-route leak and Mira-wound pressure on Wren.
+> **Hearth circle** and ***the flow*** (`54`) carry post-break belonging when maps fail.
+
+---
+
+## Book II chase grammar — LOCKED 2026-08-01
+
+**Motor sentence:** Maren sabotaged a living station-map and was wired into its western end. Eli runs her damaged trail. Relics and Rootbook open doors; each door teaches contact became command and carriers were hunted; he thinks he is finding an address — he is assembling a leash — until he cuts it.
+
+| Braid | Through-line |
+|---|---|
+| **A. Mother's map** | Checksums, sabotaged charts, Hassan memory, living polarity — *where is she / what did she break?* |
+| **B. Gods walked** | Refusal → Bridge → stations → went underground |
+| **C. Carrier descent** | Selection → purge → Holt/matriline → Sídhe/Alba |
+
+| Stop | Gives the chase | Next door |
+|---|---|---|
+| Egypt hinge | God-king endurance trap; disputed Mesopotamia→throne claim | Refusal archive |
+| Mesopotamia | Refusal + Map omission + Maren checksum | Göbekli window |
+| Göbekli | Contact→selection; Bridge; people over complete record | Hassan convoy |
+| Holding | Ring; Charkha named; Maren alive/wired/no address; dead-zone sig | Pömmelte |
+| Pömmelte (+ church) | Purge = surveillance network; Holt hinge; corridor break; hearth; *flow* | Living song detours |
+| Rollright/Men-an-Tol | Passage grammar; Sídhe; Callum = person not placement | Anglesey threshold |
+| Anglesey | Living/plant interval; **one-way** Maren contact | Stonehenge→Avebury run |
+| Stonehenge→Avebury | Stations forward bounded wisdom; embodied reunion; release under assault | Book III |
+
+---
+
+## Book II people spine — LOCKED 2026-08-01
+
+Same *kind* of rope as Book I (belonging → trust → paid cost → living community → parent → public price), re-seated:
+
+| Engine | Drama |
+|---|---|
+| Eli ↔ Rasel | Love without agreement; instrument hunger vs release |
+| Eli ↔ Wren | Usefulness billed; mother-chair refuse; thaw without exclusivity cure |
+| Wren ↔ Rowan | Formative return; iron vs person-first; renew by choice; Maren mirrors |
+| Eli vs Wren/Rowan | Provisional fear — not a contest with a winner |
+| Somchai | Heal → refuse ownership; depth-scan before release |
+| Hassan / Callum / Sora | Living person over file; leak that enables chase; Mira wound |
+| Eli ↔ Maren | Find → one-way hunger → embodied reunion → release |
+| Sol | Counterfeit fellowship at Extra settlement → keep-her / Book III mandate |
+
+**Rule:** every site advances a relationship cost, not only a relic (`55` chemistry + Clock A).
+
+---
 
 ### Ch 1 — What Came Home *(Eli · Sichuan exit / westbound handoff)*
+- **Delivery card — LOCKED 2026-08-01:** **Clock A:** westbound mother trail / Hassan category / Egypt→archive door. **Clock B:** Wren displacement bill; Sora protection-without-testimony. **Antagonist:** exit tracking after public data release. **People:** Rasel≠restoration; usefulness-as-love named.
 - **Deep-time residue — LOCKED 2026-07-30:** Three Circles reread (Rasel = coupling diagram; Wren = institutions around exposed person; Eli = middle ring as damage/care path) + Rasel's entropy sentence as practice/saying without lecture. Wrong reading: tablet = family reunion key; entropy line = mystic prophecy. Cost: quiet exit burned by public data release.
 - **Immediate want:** keep Rasel free and learn whether Wren can cross the next
   border after her papers fail.
@@ -101,17 +194,19 @@
   **Seed — LOCKED 2026-07-30 (rev. B — corrected: her read, not a provenance tell):** Wren's read of what the tablet is doing to Eli is sharper than casual observation should allow — not because she knows where it came from (Babaji's gift is plain and personal), but because she recognizes a carrier-signature pattern her Weaver training taught her to watch for. Eli notices the extra attention, says nothing yet. (Full mechanism and reveal: `35_artifact_chain.md` § *activation and the Weavers' quiet interest*; surfaces Ch 6.)
   **Entropy seed — LOCKED 2026-07-30:** Rasel's own read of the diagram runs alongside Wren's and Eli's — he sees it as an information structure, not a myth, and says something like *a signal you could record completely would already have stopped being this one.* He doesn't explain further; grief chapter, not a lecture. Eli files it as one of Baba's strange sentences (`22_life_technology_and_two_trees_spine.md` § *Rasel's information-theory thread*).
 - **Emotional job:** father and son discover that love survived without agreement, innocence, or shared memory.
-- **End hook:** a Mesopotamian archive packet contains Maren's next bounded checksum and the same centralizing fiction Rasel sabotaged.
+- **Egypt hinge (optional travel / required rhyme) — LOCKED 2026-08-01:** somewhere in the westbound handoff, a **brief** Nile House, conservation, or Mandate-corridor contact stages Egypt's job without opening a volume there: survival when the palace endured by hardening divine kingship. If a speaker claims early pharaohs descend from / were installed from Mesopotamia, mark it as disputed. The hinge's next door is the Mesopotamian archive (Ch 2), not a second Egyptian chapter. Packet-only staging inside Ch 2 also satisfies this lock.
+- **End hook:** a Mesopotamian archive packet contains Maren's next bounded checksum and the same centralizing fiction Rasel sabotaged (reached via Egypt hinge or direct handoff).
 
 ### Ch 2 — The Refusal *(Eli · Mesopotamian archive / tell)*
-- **Deep-time residue / ancient face — LOCKED 2026-07-30:** Adapa lacuna + Refusal as object/place with wrong wear; dry canal as unfinished older category; Rasel's sabotage rhyme beside myth without equating them on-page. Wrong reading: Refusal = Eli's personal destiny; lacuna = missing treasure map. Cost: slow witnessed process; Edda gets the outbound route.
-- **Immediate want:** recover the packet before Edda's legal hold reaches the archive.
+- **Delivery card — LOCKED 2026-08-01:** **Clock A:** Maren checksum + Map → Göbekli window. **Clock B:** Wren prioritizes Hassan route. **Antagonist:** Anika legal hold. **People:** curator hard boundary; Inana seed for Wren. **Term budget:** Refusal / Adapa street first.
+- **Deep-time residue / ancient face — LOCKED 2026-07-30:** Adapa lacuna + Refusal as object/place with wrong wear; dry canal as unfinished older category; Rasel's sabotage rhyme beside myth without equating them on-page. Wrong reading: Refusal = Eli's personal destiny; lacuna = missing treasure map. Cost: slow witnessed process; Anika gets the outbound route.
+- **Immediate want:** recover the packet before Anika's legal hold reaches the archive.
 - **Opposing wants:** local curator protects context and refuses extraction; Rasel wants Maren's technical marginalia; Eli wants a mother-answer; Wren wants Hassan's live route prioritized.
-- **Action:** contested plaque, Adapa lacuna, dry canal witness, Refusal / Sorting / Fade kept chronologically distinct. The archive is gained through a legitimate relationship, not theft.
+- **Action:** contested plaque, Adapa lacuna, dry canal witness, Refusal / Sorting / Fade kept chronologically distinct. The archive is gained through a legitimate relationship, not theft. **Inana's Descent seed — LOCKED 2026-08-01:** Enheduanna hymn + Descent text/image appear here; Haddad overlay = seven-stage conquest; curator keeps attend-then-restore. Wren hears both (romance face seed — no self-identification). **Egypt packet allowed here — LOCKED 2026-08-01:** if the Ch 1 hinge was skipped, Egyptian comparative material (uraeus/benben/ankh-tree half-reading; BAC-survivor god-king claim; disputed Mesopotamia→kingship line) may enter as archive/Nile House loan — still not a travel chapter (`35` single-guardian row; `61`).
 - **Map function:** the Babylonian Map is compared with live ley behavior and
   Hassan's transfer metadata. Its narrated edges reveal an omission rather than
   coordinates; the mismatch identifies the Göbekli conservation window.
-- **Choice → cost:** Eli chooses the curator's slow, witnessed process; Edda obtains the outbound route.
+- **Choice → cost:** Eli chooses the curator's slow, witnessed process; Anika obtains the outbound route.
 - **Revelation:** Life was refused under a warning the receiver could not verify;
   institutions later converted difference into sorting. The selection mark points
   to Göbekli, while Hassan's transfer metadata points west.
@@ -119,10 +214,12 @@
 - **End hook:** Göbekli conservation window and security movement converge.
 
 ### Ch 3 — The Buried Instrument *(Eli · Göbekli / Taş Tepeler)*
+- **Delivery card — LOCKED 2026-08-01:** **Clock A:** Hassan convoy link west. **Clock B:** Wren sees people-over-evidence hold. **Antagonist:** consortium seal. **People:** Eli chooses workers/visitors over complete activation record (Rasel may want the record).
 - **Deep-time residue / ancient face — LOCKED 2026-07-30:** Göbekli as place where contact became repeatable/governable (counter-image to Sanxingdui branches); Bridge plaquette disputed; optional unnoticed Loop hatch-mark only — no street name. Wrong reading: site = one-capital origin story; plaquette = complete answer. Cost: activation record lost saving people.
+- **Work-song residue — LOCKED 2026-08-01:** the fox-pillar contact includes wild-grain cutters separating blade-fall from lift through call-and-answer, a child entering through basket work and the sung response, and the work-step continuing as play after the baskets leave. This is embodied transmission, not a claim to have recovered the origin of music or dance (`37` § *Work-song, movement, and the child-chain*).
 - **Immediate want:** read the interface before the consortium seals access and
   test Hassan's transfer metadata.
-- **Opposing wants:** consortium wants monetizable ownership; Edda wants the transfer undisturbed; Rasel wants to test the Sanxingdui model; local researchers reject a one-capital theory.
+- **Opposing wants:** consortium wants monetizable ownership; Anika wants the transfer undisturbed; Rasel wants to test the Sanxingdui model; local researchers reject a one-capital theory.
 - **Counter-image:** Sanxingdui branches access; Göbekli makes contact repeatable and therefore governable. The Bridge plaquette remains disputed.
 - **Choice → cost:** Eli saves site workers and visitors rather than following the
   security convoy carrying Hassan-linked evidence. The complete activation record
@@ -131,10 +228,11 @@
 - **End hook:** the departing convoy leaves an injured prisoner carrying Hassan's transfer signature; Somchai's clinic receives them.
 
 ### Ch 4 — The Healer's Terms *(Somchai POV → hard break → Eli · corridor clinic)*
-- **Deep-time residue — LOCKED 2026-07-30:** body as disciplined receiver (Karahan rhyme without naming) — heal openly then refuse ownership; “kneel → cage → burn” as half-true folk arc around Somchai. Wrong reading: healer = property / miracle franchise. Cost: clinic exposure; consent before testimony.
+- **Delivery card — LOCKED 2026-08-01:** **Clock A:** patient IDs Thrace hold / Hassan alive. **Clock B:** clinic exposure; pilgrim pressure. **Antagonist:** security wants registered healer. **People:** Somchai bodily boundary. **Depth-scan — remapped here from retired Ch 17 (`26`):** after consenting heal, one quiet consent-gated depth-read of Eli — naturally divergent people labor to conform; others aren't doing the same labor — private truth before later twins rumor and before Maren release. **Parade drip:** optional corridor/clinic *I alone* fragment only (`54`) — no full antiphon.
+- **Deep-time residue — LOCKED 2026-07-30:** body as disciplined receiver (Karahan rhyme without naming) — heal openly, then refuse the roles others assign him; “kneel → cage → burn” as half-true folk arc around Somchai. Wrong readings: healer = god, property, inexhaustible service, or miracle franchise. Cost: clinic exposure; consent before testimony.
 - **Immediate want:** Somchai keeps the injured prisoner alive without becoming faction property; Eli needs the testimony.
-- **Opposing wants:** pilgrims want a miracle; security wants a registered healer; Eli wants Somchai to risk another read; Somchai refuses ownership from all sides.
-- **Choice → cost:** Somchai heals openly enough to expose himself, then denies Eli access until the patient consents.
+- **Opposing wants:** pilgrims want a miracle; security wants a registered healer; Eli wants Somchai to risk another read; Somchai refuses divinity, conscription, and Eli's use of urgency as permission.
+- **Choice → cost:** Somchai heals openly enough to expose himself, then denies Eli access until the patient consents. **Inana healing face — LOCKED 2026-08-01:** Somchai lives attend-then-restore; Eli reaches for a gate/code reading (`35` § *Inana's Descent*).
 - **Revelation:** the patient identifies the Bosporus–Thrace holding route and confirms Hassan is alive. “Kneel → cage → burn” begins around Somchai.
 - **End hook:** one recovery window; Rowan's corridor will open only under
   person-first terms.
@@ -144,9 +242,10 @@
   either faction property or Eli's instrument.
 
 ### Ch 5 — What They Took *(Eli · Thrace/Balkan holding site)*
+- **Delivery card — LOCKED 2026-08-01:** **Clock A:** Hassan + ring; Maren alive/wired/no address; **Maren moral wound seed** (named subject / redacted consequence via Hassan or record — full name lands by Ch 9). **Clock B:** Wren refuses mother-chair. **Antagonist:** Charkha clipboards / Custodian transfer. **Term:** **Charkha** knife lands here if not earlier in hold. **People:** choose Hassan over clean file.
 - **Deep-time residue — LOCKED 2026-07-30:** holding site as managed claiming fossil; ring *same soil* returns as object with wrong wear; Maren as living operator wired into ground = contact-become-command rhyme. Wrong reading: clean Maren file = mercy; ring = only family token. Cost: Hassan over clean file; part of record left behind.
 - **Immediate want:** get Hassan out.
-- **Opposing wants:** Edda offers a clean Maren file for the Rootbook fragment;
+- **Opposing wants:** Anika offers a clean Maren file for the Rootbook fragment;
   Rasel wants the technical record; Wren moves Hassan first; Hassan refuses to
   become evidence until safe.
 - **Choice → cost:** Eli chooses Hassan over the clean Maren file; part of
@@ -160,6 +259,10 @@
 - **End hook:** Hassan's first-person account identifies a dead-zone signature matching Pömmelte's carrier purge.
 
 ### Ch 6 — The Changing Map *(Wren POV → hard break → Eli · Pömmelte / broken-line church)*
+- **Location contraction — LOCKED 2026-08-01:** **one body-arrival.** Pömmelte purge geometry and the broken-line church's domestic inward-control rhyme share this chapter — church is not a separate geography day.
+- **Delivery card — LOCKED 2026-08-01:** **Clock A:** dead-zone → her western web; Holt/matriline hinge. **Clock B:** Callum recovery; route burned. **Antagonist:** Sol recruiters (primary entrance) + registry clerks. **Maren mirror:** completed route ≠ returned person. **Gap-fillers:** **hearth circle** night after break (`54`); ***in the flow*** first spoken when maps/pins lie (`54`); **Rootbook living correction** — one of Maren's readings defeated by a living speaker/community (`52`) — journal is relationship, not GPS.
+- **Clock A + Maren mirror — LOCKED 2026-08-01:** Keep mother hunt audible (dead-zone signature → her sabotaged western web). Callum / Wren–Rowan *completed route ≠ returned person* **mirrors** Maren as completed operator/placement vs mother to be returned — by conduct, not a speech equating them.
+- **Sol entrance — LOCKED 2026-08-01:** Extra settlement is Sol’s primary Book II job beat — organizers offer public names, brotherhood, and purpose to the same discarded population. Optional earlier light touch only; do not save his debut for Avebury alone.
 - **Deep-time residue — LOCKED 2026-07-30:** Pömmelte purge geometry + broken-line church as domestic inward control; Extra settlement as vacant divine office wearing modern clothes; optional unnoticed **Loop hatch-mark** only. Wrong reading: Extra = predator class; hatch-mark = destiny/love seal. Cost: Wren burns placement credential; Weaver quiet-interest confession.
 - **Immediate want:** recover **Callum Price**, a missing demobilized flood-pump
   technician filed as Extra, while following the dead-zone signature.
@@ -183,43 +286,49 @@
 - **Wren's confession — LOCKED 2026-07-30 (rev. C — folds in the retired "Weaver blessing discovery" quarry beat, `32` line 322):** Under the Callum recovery's own pressure (a person treated as a completed placement instead of someone returned), Wren tells Eli the truth she's been sitting on since the Ch 1 tablet re-read: the tablet itself really was just Babaji's gift, personal and unconnected to her network — but she recognized what it was doing to Eli, formed her own judgment that he's a receiver, and reported him upward through her own Weaver channel without telling him. Nobody assigned her to do this; nobody engineered his Ch 1 escort around it. It's her own professional habit, exercised on him without asking. Shaken by what she's just admitted to herself as much as to him, she goes to her own house's records to find out how far it went — and finds an **answering trail already there**: her report was received, read, and quietly acted on above her, the path smoothed in small ways she never authorized and only half-notices in hindsight (a door that opened easily, a delay that resolved itself). She asks an elder outright whether the whole thing — her placement with him, what grew between them — was ever truly hers. The elder answers plainly, an expired ledger open between them: *"We didn't tie you. We cleared the path and watched where you walked."* It is meant as reassurance and lands as something closer to vertigo — true, and not enough. **Eli's anger is not that she never cared — it's that he was read, filed, and quietly accommodated by an institution neither of them controlled, using the same private experience (the tablet, the Malacca vision, arguably their own bond) he thought belonged only to the two of them.** This is the concrete content of her named flaw, "a correct placement is care" (`27_character_development_arcs.md`), not a new betrayal grafted on. No clean forgiveness scene — both of them now carry the "real, engineered, or both" question into Ch 7 and beyond, per the Vol II lesson that love without consent becomes control even when sincere (`19_romance_and_divine_pairing.md`).
 - **End hook:** living song / polarity rather than maps points toward Rollright and Men-an-Tol.
 
-### Ch 7 — The Riddling Ground *(Eli · Rollright / Men-an-Tol)*
+### Ch 7 — The Riddling Ground *(Eli · Rollright / Men-an-Tol — one corridor)*
+- **Location contraction — LOCKED 2026-08-01:** **one corridor set-piece.** Rollright and Men-an-Tol are two stones in one continuous arrival — do not stage as separate trips. One people beat (Callum recovery / Sídhe / Wren–Rowan) carries both.
+- **Delivery card — LOCKED 2026-08-01:** **Clock A:** living polarity west toward her ground; Anthea chord incomplete. **Clock B:** Callum person-first; Wren/Rowan renew. **Antagonist:** pair-severance ledger / Charkha foundations (Rowan's cold file). **Maren mirror:** person ≠ placement; refuse ply automaticity ↔ refuse keeping mother as useful signal. **Term:** **Sídhe** once (or gods-underground paraphrase). **Inana romance face:** gates/attend/return-with-cost as conduct.
+- **Clock A + Maren mirror — LOCKED 2026-08-01:** Living song/polarity still points west toward her ground. Person-first recovery + refuse ply automaticity **mirrors** the coming demand to return Maren as a person, not keep her as useful signal / assumed access.
 - **Deep-time residue / ancient face — LOCKED 2026-07-30:** Sídhe as layered underground survival (carrier/place/ancestor/remembered god) before fairy folklore settle; iron severs; rowan negotiates. Wrong reading: Sídhe = simple fairy tale; iron = permanent solution. Cost: more of Anthea's message lost; Callum refuses house custody.
 - **Immediate want:** hold Anthea's thread without claiming it.
 - **Opposing wants:** Rowan negotiates the weak crossing; Wren wants iron used immediately; a local keeper prioritizes the missing living person; Eli wants contact prolonged.
 - **Choice → cost:** Eli permits iron to sever the contact once Callum is
   recovered, losing more of Anthea's message. Callum refuses immediate return to
   house custody and chooses the unaffiliated repair crew that helped find him.
-- **Revelation:** rowan negotiates; iron breaks. Sídhe names a layered memory of carrier, place, ancestor, and remembered god. Wren/Rowan renew by explicit choice, not inherited ply.
+- **Revelation:** rowan negotiates; iron breaks. Sídhe names a layered memory of carrier, place, ancestor, and remembered god. Wren/Rowan renew by explicit choice, not inherited ply. **Inana romance face — LOCKED 2026-08-01:** renewal = gates/attend/return-with-cost as conduct (`35`, `19`).
 - **Transfer-records reveal — LOCKED 2026-07-30 (moved here from Ch 6 to give it room):** while tracing how a registry trap penetrated her network, Rowan finds a second, colder ledger — Charkha-linked foundations, platform contractors, employer programs, and registry offices tested and amplified opposed gender-grievance messaging under program names like "dependency transfer," "household permeability," and "dyadic resilience." The target was never women's autonomy or work; it was **durable horizontal reliance** — people relying on each other instead of institutions (the same "middle ring" thesis already locked in `35_artifact_chain.md` § *Three-Circles Tablet*, now documented as deliberate policy, not metaphor). Rowan recognizes the political architecture immediately; Wren experiences it as an assault on authorship — if some of the pressure between her and Rowan was engineered, were her own boundaries ever hers? Rowan's answer is conduct, not reassurance: influence is not command, autonomy is not isolation, and they choose each other again with the manipulation visible. This lands **beside**, not on top of, their renewal — the same chapter proving both that the bond survives scrutiny and that scrutiny doesn't resolve everything. Files are partial; Book III alone supplies the full demographic/engine purpose (`29_trilogy_plot_and_development.md` § *Charkha pair-severance*).
 - **End hook:** the carried chord requires the Anglesey threshold before Stonehenge can answer.
 
-### Ch 8 — The Bitter Cup *(Eli · Anglesey / Lovernios ground)*
+### Ch 8 — The Bitter Cup *(Eli · Anglesey / Lovernios — threshold, not tour)*
+- **Location contraction — LOCKED 2026-08-01:** Anglesey is a **threshold room**, not an island tour. Arrive → bitter cup under consent/abort → Lovernios / living-map interval → brief Maren contact → leave for the Stonehenge–Avebury climax run. No second sightseeing day.
+- **Delivery card — LOCKED 2026-08-01:** **Clock A:** **one-way** Maren contact only (recognition-hunger; no address/plan). **Clock B:** Wren/Rowan ordinary non-crisis space; Eli names provisional fear. **Antagonist:** pursuit clock + keeper abort authority (consent staircase). **People:** Eli obeys abort; Rasel distrusts uninstrumented contact. **Term budget:** no new cosmology names — bitter cup / Lovernios as place-acts.
 - **Deep-time residue — LOCKED 2026-07-30:** Lovernios plant intelligence as relationship not oracle (Book I garden rhyme at scale); changeling record holds real taking + harm to innocent. Wrong reading: plants = map home; contact = universal key. Cost: partial memory; bodily depletion; Maren's refusal misread as captivity speaking.
 - **Immediate want:** recover the missing interval under a closing pursuit clock.
 - **Opposing wants:** keeper enforces consent and abort rules; Eli wants to rush; Rasel distrusts uninstrumented contact; Wren refuses to certify Eli's choice for him.
 - **Choice → cost:** Eli enters under bounded protocol and exits with only partial memory, bodily depletion, and no universal key.
 - **Revelation:** Lovernios shows growth as living map and plant intelligence as relationship, not oracle. A changeling record holds both a real taking and the harm done to an innocent disabled child.
-- **Maren contact:** the recovered interval permits a brief live exchange.
-  Maren recognizes Eli, refuses his promise to bring her home, and begins to name
-  what release means before Charkha cuts the contact. Eli hears the refusal but
-  still treats it as captivity speaking.
+- **Maren contact — one-way only — LOCKED 2026-08-01:** the recovered interval permits Eli to hear/feel Maren — recognition-hunger, a refused “bring me home,” the beginning of what release means — **without** a full mutual locked scene. She may not fully lock onto him; Charkha can cut before reciprocity. No usable location, no plan, no long talk. Eli may still misread the refusal as captivity speaking. **First embodied mutual reunion = Ch 10 Avebury.** Do not let Ch 8 steal the climax payoff.
 - **Relationship aftermath:** Wren and Rowan receive ordinary, non-crisis space
   after their renewed choice. Eli names the fear that he was provisional rather
   than trying to become operationally indispensable.
 - **End hook:** the interval and Cuno's geometry identify Stonehenge as a live
   transmission station; hostile teams are already there.
 
-### Ch 9 — The Transmission Station *(Eli · Stonehenge / Albion approach)*
+### Ch 9 — The Transmission Station *(Eli · Stonehenge / Albion approach — climax run opens)*
+- **Location contraction — LOCKED 2026-08-01:** Ch 9–10 are **one continuous climax run** (Stonehenge station → Avebury inhabited ground), not two sightseeing days.
+- **Delivery card — LOCKED 2026-08-01:** **Clock A:** station geometry → Avebury inhabited ground; Maren lucid/compromised/asking not to be kept; **moral wound name lands** if not fully named in Ch 5. **Clock B:** Wren/Rowan keep evacuation ≠ sacrifice. **Antagonist:** Anika containment + Sol forced-unity converge. **Rasel:** one more instrumented interval (capped). **People:** Somchai refuses healing-field without continuing consent; Eli refuses enter until invited.
+- **Rasel instrument beat — LOCKED 2026-08-01:** Rasel argues for one more instrumented interval / hold the signal — love without agreement; capped proof scene (not a lecture tour).
 - **Deep-time residue — LOCKED 2026-07-30:** stone grounds as transmission stations forwarding bounded wisdom with loss intact — not one master message; entropy argument against complete recording. Wrong reading: Stonehenge = throne / single amplifier owned by hero. Cost: refuse entering Maren until invited; usable signal left unstable.
 - **Immediate want:** reach Maren before factions convert her ground into an amplifier.
-- **Opposing wants:** Edda wants controlled containment; Sol wants forced unity; Rasel wants one final instrumented verification; Wren/Rowan keep evacuation from becoming sacrifice.
+- **Opposing wants:** Anika wants controlled containment; Sol wants forced unity; Rasel wants one final instrumented verification; Wren/Rowan keep evacuation from becoming sacrifice.
 - **Choice → cost:** the group routes the bounded wisdom carried by the artifact
   chain without assigning one owner or central interpreter; Eli refuses to enter
   Maren until she recognizes and invites him.
 - **Ensemble proof:** Rasel argues for one more instrumented interval; Somchai
   refuses to hold Maren in a healing field without her continuing consent. The
   disagreement makes Eli's eventual restraint relational rather than solitary.
+- **Somchai hard no — LOCKED remapped 2026-08-01 (`26`):** if crowd/faction pressure peaks on approach, stage his single late hard no here or immediately pre-climax — refuse healing-on-demand + messenger crown in one motion; someone suffers; scene ends back at triage. Lean structural only; do not steal Ch 10 air.
 - **Entropy realization — LOCKED 2026-07-30:** the argument over "one more instrumented interval" is where Rasel and Eli finally understand *why* the instrumented approach can't fully hold her — recording her is the same category of error as recording the tablet's signal (`22_life_technology_and_two_trees_spine.md` § *Rasel's information-theory thread*). Not yet named as such; felt as a technical conviction, not a speech.
 - **Revelation:** Cuno's geometry identifies stone grounds as transmission
   stations. Each artifact carries bounded wisdom; a station receives and
@@ -229,10 +338,12 @@
 - **End hook:** Maren is lucid, compromised, and asking not to be kept.
 
 ### Ch 10 — Release *(Eli · Avebury / inhabited Albion ground)*
-- **Deep-time residue / ancient face close — LOCKED 2026-07-30:** release as once-only unrecorded act (Refusal enacted); awakening spreads laterally through living web — no owned grid. Wrong reading: release = abandonment; awakening = Eli's gift to keep. Cost: mother walks out alive and does not come home; stabilizing signal surrendered.
+- **Delivery card — LOCKED 2026-08-01:** **Clock A:** embodied mutual reunion → release (only cut that works). **Clock B:** relational Manual Override under assault. **Antagonist:** Anika and/or Sol keep-her / use-her-signal assault **same beat window**. **People:** Maren defines release; Rasel wants time; Wren/Rowan + Wren/Eli name separate bonds; Hassan/Somchai/Callum leave as living consequences. **Inana healing close:** attend-then-release.
+- **Deep-time residue / ancient face close — LOCKED 2026-07-30:** release as once-only unrecorded act (Refusal enacted); awakening spreads laterally through living web — no owned grid. Wrong reading: release = abandonment; awakening = Eli's gift to keep. Cost: mother walks out alive and does not come home; stabilizing signal surrendered; **safety cost of the concurrent assault**.
 - **Immediate want:** take his mother home.
-- **Opposing wants:** Maren wants released — from the console *and* from being his mother again; Rasel wants time; Eli's grief wants preservation; Sol argues her signal is strategically indispensable.
-- **Choice → cost:** Eli refuses the reunion the Charkha built — the only cut that works, and only he can make it. Maren walks out **alive** and does not come home; Eli surrenders a usable stabilizing signal and the mother he came for. The group holds relational Manual Override under attack without worship, betrayal, or command hierarchy.
+- **Opposing wants:** Maren wants released — from the console *and* from being his mother again; Rasel wants time; Eli's grief wants preservation; Sol argues her signal is strategically indispensable; Anika wants controlled containment.
+- **Climax staging — assault concurrent with the cut — LOCKED 2026-08-01:** a **failed keep-her / use-her-signal assault** (Anika containment and/or Sol forced-unity grab for the stabilizing signal) runs in the **same beat window** as Eli's release choice. The moral climax remains release, not winning a fight — but the cut must cost **safety and route**, not only grief. The group holds relational Manual Override under that attack without worship, betrayal, or command hierarchy. Do not stage a quiet goodbye with the assault deferred off-page.
+- **Choice → cost:** Eli refuses the reunion the Charkha built — the only cut that works, and only he can make it. Maren walks out **alive** and does not come home; Eli surrenders a usable stabilizing signal and the mother he came for. **Inana healing/civic face close — LOCKED 2026-08-01:** attend-then-release, not storm-and-keep (`35`).
 - **Entropy payoff — LOCKED 2026-07-30:** the release itself — un-recorded, once-only, freely given, never to be repeated the same way twice — is the functional answer to Ch 9's argument, though nobody names it in those terms yet. Eli understands it before the vocabulary exists for him (`22_life_technology_and_two_trees_spine.md` § *Rasel's information-theory thread*).
 - **Resolution:** awakening spreads through the living web. Wren/Rowan and Wren/Eli name separate chosen bonds; Rowan/Eli establish respect and no romance.
 - **Aftermath:** Maren chooses a recovery house outside Eli and Rasel's household.
@@ -240,11 +351,13 @@
   testify; Somchai leaves with a consent-bound clinic route; Callum's repair crew
   becomes one source of Book III's divided Extra constituency. The following
   morning Eli experiences the release as grief rather than disguised victory.
-- **Book III ignition:** Sol recruits forced unity; Edda's diagnosis of unmanaged danger gains evidence; communities receive capacity before civic structure.
+- **Book III ignition:** Sol recruits forced unity; Anika's diagnosis of unmanaged danger gains evidence; communities receive capacity before civic structure.
 
 ---
 
 ## RETIRED PRE-SANXINGDUI BOOK II REBUILD QUARRY
+
+> **QUARRY NOTICE — 2026-08-01:** Chapter numbers below are **superseded** by the ten-chapter authoritative spine above. Useful locks migrate there (corridor break / hearth / *flow* → **Ch 6**; Somchai hard no → **late Ch 9**; Rootbook correction → **Ch 6**; Parade drips stay sparse). Do not draft from quarry chapter indices.
 
 **Ch 1** opens on the **corridor out of Anatolia / post-Göbekli** — no recap prologue. Vol I's surviving fragments, Rasel's bounded knowledge, and Wren's displacement are the luggage Eli trusts. **Maren suppression** is **not** a prologue; it lands **Ch 3** when Eli is ready to receive how she was taken.
 
@@ -294,7 +407,7 @@
 - **Choice → Cost:** when a clean evidence recovery conflicts with getting Hassan out, Eli chooses the person; part of Maren's technical record remains with the captors. He receives the surviving account without converting complicity into betrayal or resistance into absolution. Cost: grief with neither rescue fantasy nor innocent-mother story left.
 - **Revelation (MIDPOINT):** mother **alive**, held in the western web of charged grounds and **wired into one as its operator** — **no usable address**. Rescue stays possible; the turn to **release** is Eli's choice at the climax, not a fact handed to him here. Her sabotage damaged the grid but also helped produce the broken charts now guiding them. **Forward clue:** only **living observation** (growth, polarity, song) can triangulate west — old maps fail.
 - **Recovered record:** Hassan's first-person account and Maren's damaged western chart replace the need for another Mesopotamian explanation chapter. Deluge material remains a Book I record and returns here only as a political memory Maren was trying to keep out of registry hands.
-- **Rootbook cost:** the recovered pages open the **know/recognize** constellation while also preserving Maren's clinical language from the period when she still believed Crane's system could protect people. A redacted subject name becomes a concrete moral absence, not merely a cipher problem.
+- **Rootbook cost:** the recovered pages open the **know/recognize** constellation while also preserving Maren's clinical language from the period when she still believed Lang's system could protect people. A redacted subject name becomes a concrete moral absence, not merely a cipher problem.
 - **Human-Design Triad — LOCKED 2026-07-25:** Maren's record or Hassan's testimony **cross-refs** the Vol I Ch 12 packet — Ninmah fates vs registry **sorting**; King List contracting reigns vs carrier **cohort lists** (`35` § *Mesopotamian Human-Design Triad*). Eli can argue **not broken / purposed** against Charkha categories; synthesis still incomplete.
 - **Patriarchy rhyme:** keeper **hand-to-hand** transmission (song, harbor) vs registry **father-above** file logic.
 - **Past leak:** Eli — hums mother's tune wrong on purpose; can't finish it.
@@ -312,8 +425,8 @@
 - **Obstacle:** extraordinary but **medically grounded** healing draws pilgrims, media, faction recruiters — testimony travels despite *don't tell anyone*.
 - **Choice → Cost:** he refuses deification — the demanded miracle *and* the messenger/*Son-of-Man* crown the crowd's annunciation language is already offering — and Eli's urgency alike, **then goes back to triage: the scene ends on the work** (single scene — LOCKED 2026-07-21; does not repeat in Vol III). Cost: route narrows; someone he stabilized becomes a liability.
 - **Revelation:** **Living Way** load — kindness when hard; forgive without rehiring harm; tend living things (`25`). Distorted healing stories **outrun** the healer toward Vol III. **Parade Liturgy — paired echoes (LOCKED 2026-07-25):** pilgrims/media pressure; Somchai or corridor voices trade F6/F7 fragments under spectacle — still unnamed (`54_liturgies.md`).
-- **SOL — first on-page pass (establishing, so Book III's forced-synchronization temptation isn't cold):** drawn by the healing rumors, **Sol Mendez** makes a soft first approach to Eli—not the armed-prophet argument yet, but recognition and fellowship: the man who begged for help and got a pamphlet, offering the understanding no one gave him. **Deliberate mirror to the healer this same chapter**—one refuses the crown deification offers, the other was consumed by it. Eli deflects but cannot unsee that Sol is a version of himself; the loneliness lands. Drafted "Establishing" scene in `49_machiavelli_toolkit.md`; keep charisma horrifying, not comic (`26`).
-- **Forward clue:** European **broken/re-formed lines** — next leg requires **living detours**, not Crane's old charts.
+- **SOL — first on-page pass (establishing, so Book III's forced-synchronization temptation isn't cold):** drawn by the healing rumors, **Sol Méndez** makes a soft first approach to Eli—not the armed-prophet argument yet, but recognition and fellowship: the man who begged for help and got a pamphlet, offering the understanding no one gave him. **Deliberate mirror to the healer this same chapter**—one refuses the crown deification offers, the other was consumed by it. Eli deflects but cannot unsee that Sol is a version of himself; the loneliness lands. Drafted "Establishing" scene in `49_machiavelli_toolkit.md`; keep charisma horrifying, not comic (`26`).
+- **Forward clue:** European **broken/re-formed lines** — next leg requires **living detours**, not Lang's old charts.
 - **Corridor break — builds (LOCKED 2026-07-26):** dead zones, inconsistent checkpoints, burned handoffs — fixed corridor coordination **failing**; full **corridor break** lands Ch 5 when Wren burns the registry trap (`54` § *The corridor break*).
 - **Romance cost (INSERT):** Eli **does not tell Wren** about Sol's approach (or tells her too late). Secrecy = immature love. When she learns, Wren names **messiah hunger** in him aloud; control flares. Sol is **rival destiny**, not comic villain — partly right about cages (`26` Sol).
 - **M/I/A:** **M** — secrecy; messiah hunger misread. **I** — Sol as rival destiny. **A** — loneliness lands; no dyad comfort.
@@ -369,7 +482,7 @@
 - **Pitch gate — end hook:** Rollright/Men-an-Tol ahead; Pömmelte mark = surveillance network; Rowan/Wren charged; pair-severance files partial.
 
 ### Ch 6 — The Riddling Node *(Eli · ensemble action · Rollright / Men-an-Tol corridor)*
-- **Want:** hold a thread long enough to learn without owning it.
+- **Want:** hold a thread long enough to learn without mistaking contact for comprehension.
 - **Obstacle:** **Anthea** full-res under present pressure — sonic resonance; different notes at **two ends of a broken route**; she teaches **Lira** and is killed; chord reaches Aedan's village through unknown chain (`37` ch 14).
 - **Choice → Cost:** Eli receives Anthea as **other**, not ancestor. Cost: grief; Lira fragment is **carried song**, not bloodline proof.
 - **Sídhe protocol beat — LOCKED:** before the folklore explanation, a practical boundary works. A road or access path bends around a lone hawthorn at a mound-edge; hostile pursuit ignores it and destabilizes the ground. A local keeper/fairy-doctor descendant lays **fresh rowan branches** across the vehicle doors and carries one while entering the path. The rowan marks and softens the weak crossing long enough to find the missing person, but cannot hold it under attack. Only then does the keeper use deliberately grounded worked iron to interrupt the threshold and extract the living person, at the cost of cutting off the contact Eli wanted. Governing contrast: **rowan negotiates; iron breaks**. Neither is universal anti-magic. The keeper's first concern is the altered or missing person, not proving folklore.
@@ -380,7 +493,7 @@
   or a rejected status substitute for finding the missing man. The living boundary allows recovery;
   iron is used only afterward. This is Wren's first clandestine recovery and the
   origin of the line in their shared story.
-- **Romance beat — earned reopening:** after the recovered person is stable and immediate danger has passed, Wren and Rowan share ordinary work before intimacy: cleaning mud from kit, dividing food, correcting each other's packing by old reflex. A remembered teenage *going together* detail makes the ply history bodily rather than expository: a latrine joke, one automatically facing outward, or the old signal meaning *come find me*. They name that the ply never fully unbound and that bodily memory does not equal permission. Wren discloses her bond with Eli without apology or concealment. Rowan refuses to be hidden, made secondary, or recruited as Wren's conscience. A kiss or night together follows explicit mutual choice; it reopens the relationship but solves none of the logistical or emotional terms.
+- **Romance beat — earned reopening:** after the recovered person is stable and immediate danger has passed, Wren and Rowan share ordinary work before intimacy: cleaning mud from kit, dividing food, correcting each other's packing by old reflex. A remembered teenage *going together* detail makes the ply history bodily rather than expository: a latrine joke, one automatically facing outward, or the old signal meaning *come find me*. They name that the ply never fully unbound and that bodily memory does not equal permission. Wren discloses her bond with Eli without apology or concealment. Rowan refuses to be hidden, made secondary, or recruited as Wren's conscience. A kiss or night together follows explicit mutual choice; it reopens the relationship but solves none of the logistical or emotional terms. **Inana romance face payoff — LOCKED 2026-08-01:** gates/attend/return-with-cost land as conduct (armor shed, person-first, choice after danger); optional one-line archive echo only — no myth-lecture. Dumuzi shadow = Eli's provisional fear (`19`, `35`).
 - **Eli jealousy beat — LOCKED 2026-07-28:** Eli does not object because he believes all plural love is false; he is hurt because Wren/Rowan's history appears to make him incidental. He names some version of *I don't know whether there is a place for me when she is here* without asking Wren to cancel the renewed intimacy, disclose its private details, or rank them. Wren takes the feeling seriously but refuses exclusivity as its cure.
 - **Hearth circle — grief (optional, LOCKED 2026-07-26):** after **Anthea**'s death — smaller fire, voice or borrowed guitar; circle without sermon; pairs ordinary-work renewal (`54_liturgies.md` § Hearth circles; lay verse 28). Not Eli-led.
 - **Personal meaning of the files:** Wren and Rowan do not decide that the Charkha caused their love, separation, or renewal. They recognize the weapon more precisely: it trained each to hear need as a claim and vulnerability as defeat, then waited for real fear and real mistakes to finish the work. Their fresh consent is not proof they escaped influence; it is authorship practiced with influence named.
@@ -400,21 +513,22 @@
 - **Resolution (VOLUME END):** **Maren's lucid reunion and release** are the emotional climax. Relational Manual Override is enacted by the group as the means of release, not as a competing revelation. The first awakening begins to spread. **Sol witnesses the release as proof that dispersed awakening is too dangerous to leave voluntary; he begins recruiting for forced unity, turning Book II's liberation into Book III's opposing mandate.**
 - **Rowan's climax function:** Rowan coordinates evacuation, keeper houses, and ordinary bodies outside the psionic formation. She refuses to let the relational miracle make everyone forget who needs transport, medication, food, and names recorded. She survives and retains an objective beyond either romance.
 - **Denouement — plural bonds named:** after the release, Wren and Rowan affirm that their renewed relationship continues; distance and work remain real, and neither promises permanent access. Eli and Wren make their own quiet present-tense commitment with room to refuse and without exclusivity. Wren has disclosed each bond to the other; Rowan and Eli speak directly and establish respect, boundaries, and no romance. **The Weaver blessing of Eli/Wren and the formative history of Wren/Rowan create gravity, not command. The bond remembers; each person still chooses.**
-- **M/I/A:** **M** — Wren is visible inside both bonds without either partner owning the whole of her. **I** — separate debts and terms remain unpaid. **A** — Wren/Rowan continuation and Eli/Wren commitment are named separately; room to refuse remains.
+- **M/I/A:** **M** — Wren is visible inside both bonds without either bond becoming her whole identity. **I** — separate debts and terms remain unpaid. **A** — Wren/Rowan continuation and Eli/Wren commitment are named separately; room to refuse remains.
 - **Pitch gate — end hook (Vol II close):** Maren freed; awakening spreading; Wren's new recovery work and Rowan's corridor have paid a real cost; Sol recruits forced unity → Vol III.
 
 ---
 
-## Volume II climax — LOCKED
+## Volume II climax — LOCKED 2026-07-27; staging revised 2026-08-01
 
 - **Site:** **Stonehenge transmission station → Avebury inhabited ring** (Ch
-  9–10). Stonehenge receives and forwards the bounded wisdom carried by each
+  9–10) — **one continuous climax run** (location contraction 2026-08-01), not two sightseeing days. Stonehenge receives and forwards the bounded wisdom carried by each
   artifact; Cuno's fragment preserves the routing grammar. It is not a master
   antenna. Avebury supplies the distributed human landscape for the ambush,
   reunion, and **Maren release** (midpoint Ch 5; full release beat per `05` /
   `99` Maren lock).
+- **Staging — LOCKED 2026-08-01:** moral climax = release; **failed keep-her / use-her-signal assault** concurrent with the cut (`17` § *Climax staging*). Epic = safety cost + irreversible cut on the same pages — not a quiet goodbye alone.
 - **Weavers:** Wren begins Book II displaced and expands from Knotter work into her first consequential recovery; Rowan enters as the west-corridor Weft. Rowan did not participate in Meridian City.
-- **Mother:** midpoint Ch 5 — **alive**, held west, wired into the ground, no address; Ch 8 permits a cut-short live contact; **Book II climax** releases her and she leaves alive (`05`).
+- **Mother:** midpoint Ch 5 — **alive**, held west, wired into the ground, no address; Ch 8 **one-way** contact only (no embodied mutual reunion); **Book II climax** Ch 10 releases her and she leaves alive (`05`; delivery package 2026-08-01).
 - **Patriarchy / bloodlines:** Book I Ch 12 carries the seed; Book II keeps the human consequence in Ch 2 (archive dispute) and Ch 6 (church pew-side drain).
 - **Nephilot arc:** **Book I seeds an unnamed carrier/mighty lineage** → Ch 6 Pömmelte reveals the tracked and persecuted population → Ch 7 subordinate Alba/elf inference.
 - **Dead zones:** Vol I seeds (Ch 4 goats, Ch 7 dead ground) → **named and mapped Ch 6**.
@@ -462,8 +576,8 @@ The following are **not unresolved canon**; they are local staging choices: the 
 | 3 | **LOCK** | Eli chooses people over perfect evidence; Wren sees the choice hold |
 | 4 | **LOCK** | Somchai's bodily boundary; Sol offers counterfeit recognition |
 | 5 | **LOCK** | Mother/Wren replacement fear; Eli reaches for Wren as home and is refused |
-| 6 | **LOCK** | Rowan returns with independent objective; disclosure; fluency makes Eli feel provisional |
-| 7 | **LOCK** | Person-first recovery; Wren/Rowan renew only after conduct and explicit choice |
+| 6 | **LOCK** | Rowan returns with independent objective; disclosure; fluency makes Eli feel provisional; **Inana romance face** begins as conduct |
+| 7 | **LOCK** | Person-first recovery; Wren/Rowan renew only after conduct and explicit choice (**Inana romance face** payoff — gates/attend/return-with-cost) |
 | 8 | **LOCK** | Ordinary Wren/Rowan aftermath; Eli names jealousy without making a claim |
 | 9 | **LOCK** | Wren chooses Eli positively; neither romance grants operational authority |
 | 10 | **LOCK** | Separate bonds continue; Rowan/Eli respect and boundaries remain non-romantic |

@@ -2,17 +2,18 @@
 
 **STATUS: AUTHORITATIVE — LOCKED 2026-07-26.**
 
-> **COMPLETE MEAL CROSS-REF — LOCKED 2026-07-31:** Book I Ch 11–13 must read as a finished thriller that also opens the series — chase, landmark wonder, Rasel recovered, irreversible costs — not setup-only. `55` § *Five delivery upgrades* #5; `31` Act IV. Series brand face remains Rasel's ring; volume secondary face = Sanxingdui tree.
+> **COMPLETE MEAL CROSS-REF — LOCKED 2026-07-31; PITCH/VISUAL REVISED 2026-08-01; CLIMAX STAGING 2026-08-01:** Book I Ch 11–13 must read as a finished thriller that also opens the series — chase, landmark wonder, Rasel recovered, irreversible costs — not setup-only. Four-book climax staging (II assault-around-release; III war-window with handover; IV birth simultaneity): `17` § *Climax staging*; `55` §6. Rasel's ring remains the public causal hook; the Sanxingdui tree is the series visual identity.
 
 This document supersedes every earlier allocation that places the Gulf, Mesopotamian archive, Taş Tepeler circuit, or Göbekli climax in Book I; delays Sanxingdui to Book III; leaves Rasel off-page after Book I; retains Professor Emrys; makes Wren a pre-Book-II extraction operator; or pays for Rasel's recovery with another captive.
 
 ## New trilogy hinge
 
-| Volume | Emotional promise | Discovery / action climax | Ending |
-|---|---|---|---|
-| **I — The Breach** | Find the father | **Sanxingdui:** Eli recognizes the distributed Tree of Life and chooses its living route over a controllable machine interface | **Rasel recovered; Wren displaced; Maren revealed as an early builder who later resisted** |
-| **II — The Descent** | Find the mother | **Göbekli → Mesopotamia → Europe → Albion:** the group discovers how living connection became selection, classification, and controlled access; Eli finds and releases Maren | Mother released; awakening spreads without adequate social form |
-| **III — The Living World** | Build a world capable of holding awakened capacity | Registry crisis, war, bounded authority, public inquiry, reciprocal Two-Tree institutions | Eli steps down into answerable membership |
+| Volume | Emotional promise | Discovery / action climax | Staging (epic enough — 2026-08-01) | Ending |
+|---|---|---|---|---|
+| **I — The Breach** | Find the father | **Sanxingdui:** Eli recognizes the distributed Tree of Life and chooses its living route over a controllable machine interface | Complete-meal Ch 11–13: chase + wonder + irreversible costs | **Rasel recovered; Wren displaced; Maren revealed as an early builder who later resisted** |
+| **II — The Descent** | Find the mother | **Göbekli → Mesopotamia → Europe → Albion:** living connection became selection; Eli finds and **releases** Maren | Release + **failed keep-her / use-her-signal assault** concurrent (`32` Ch 10) | Mother released; awakening spreads without adequate social form |
+| **III — The Living World** | Build a world capable of holding awakened capacity | Registry crisis, war, bounded authority, public inquiry, reciprocal Two-Tree institutions | Handover under **closing war/window pressure**; birds = coda after climax (`33`) | Eli steps down into answerable membership; private Loop hunger remains |
+| **IV — The Court of Threads** | Refuse inherited crown | Birth without title; second and final relinquishment | **Simultaneity:** labor + heir motion + vote + institution fracture (`60` §7) | Child no title; wanted, not indispensable |
 
 ## Book I route
 
@@ -20,7 +21,7 @@ This document supersedes every earlier allocation that places the Gulf, Mesopota
 
 The route remains geographically coherent inside maritime and Asian worlds. The Thailand-to-Gulf travel, Mesopotamian archive, Taş Tepeler circuit, and Göbekli permit race move out of Book I. Bangladesh remains off-page through Shireen, food, language, and Rasel's gardens.
 
-The growing band in Thailand does **not** point west to one sacred capital. Its geometry and periodic behavior correspond to data in Rasel's Mandate research. The cooperative's own surviving measurements, Maren's bounded Rootbook page, Edda's true statement that Rasel lives, and Rasel's coerced coupling series jointly point north toward a Mandate research collaboration in Sichuan.
+The growing band in Thailand does **not** point west to one sacred capital. Its geometry and periodic behavior correspond to data in Rasel's Mandate research. The cooperative's own surviving measurements, Maren's bounded Rootbook page, Anika's true statement that Rasel lives, and Rasel's coerced coupling series jointly point north toward a Mandate research collaboration in Sichuan.
 
 Sanxingdui is not “Eli's clue” and does not await him. Chinese archaeologists, conservators, historians, and local custodians already possess the objects, documentation, and interpretive authority. The plot brings Eli there because **Rasel is there** and because the Mandate apparatus has attempted to operationalize a field relationship discovered through legitimate conservation and materials research.
 
@@ -59,13 +60,13 @@ He is brought into the Sanxingdui research program because Mandate scans of the 
 
 Rasel has delayed or sabotaged weaponization while protecting local staff where he can. He is neither a helpless captive nor a secret master of the site.
 
-Edda's Gulf/route offer that “Rasel Khan is alive” remains **true**, but the offer and confrontation move onto the northbound Book I route. Edda earns credibility by telling a truth Eli desperately wants.
+Anika's Gulf/route offer that “Rasel Khan is alive” remains **true**, but the offer and confrontation move onto the northbound Book I route. Anika earns credibility by telling a truth Eli desperately wants.
 
 ## Sanxingdui climax
 
 ### Competing routes
 
-1. **The machine route:** Rasel's coerced apparatus concentrates the signal into a clean, classifiable interface. It promises proof, repeatability, access to Rasel, and institutional protection. It also converts relationship into ownership.
+1. **The machine route:** Rasel's coerced apparatus concentrates the signal into a clean, classifiable interface. It promises proof, repeatability, access to Rasel, and institutional protection. It also mistakes a living relation for an instruction that can be completed and put to use.
 2. **The living route:** distributed across soil, roots, bodies, weather, local knowledge, and voluntary coordination. It cannot be seized by one operator or recorded as a complete proprietary read.
 
 ### Required participants
@@ -80,7 +81,7 @@ Edda's Gulf/route offer that “Rasel Khan is alive” remains **true**, but the
   group to Luo and Qiao because she knows how to ask without claiming. She does
   not interpret the objects or speak for Sichuan custodians.
 - **Chinese archaeologist/conservator and local staff:** custodianship, material knowledge, refusal of extractive interpretation, and control of access.
-- **Edda and Custodians:** managed-danger argument and attempt to register the event.
+- **Anika and Custodians:** managed-danger argument and attempt to register the event.
 - **Sora:** first costly operational betrayal, protecting civilians or releasing a route.
 
 ### Required action
@@ -160,7 +161,7 @@ Göbekli retains:
 - the fox-pillar / sealed-interface material;
 - the Bridge plaquette;
 - Aru and Daskar threads;
-- the consortium's ownership reading;
+- the consortium's single-authorized-reading claim;
 - competing map-versus-ground readings, assigned to institutions, Eli, and local experts rather than a traveling scholar;
 - the partial selection/control scar.
 
@@ -183,7 +184,7 @@ The material grammar still corresponds to Maren's diagrams and to the Thai field
 
 - linguistic descent is one real but bounded form of continuity;
 - material, ecological, geometric, and embodied relationships may rhyme without proving migration, colony, shared ethnicity, or one lost human empire;
-- correspondence is a question to test, not ownership of another culture's meaning.
+- correspondence is a question to test, not authority over another culture's meaning.
 
 Book III may revisit the scientific and civic consequence of this break, but it does not discover it for the first time.
 

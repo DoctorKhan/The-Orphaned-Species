@@ -8,7 +8,7 @@
 
 Romance should be one of the trilogy's main proof systems:
 
-> Can love survive power without becoming destiny, ownership, rescue, leverage, or worship?
+> Can people unfinished by abandonment learn adult love—chosen in the present, answerable to reality, and able to survive need, power, memory, and change?
 
 The romance cannot be only a slow-burn attachment. It needs to become a curriculum of love. Eli and Wren should learn what love is by surviving its counterfeits:
 
@@ -252,7 +252,7 @@ For Eli and Wren, the third loyalties include:
 - the healer's right to limits;
 - truth under pressure;
 - consent;
-- the possibility of coexistence after Crane.
+- the possibility of coexistence after Lang.
 
 If romance has no third loyalty, the relationship becomes private melodrama. If the third loyalty always wins, the romance becomes decorative. The power comes from genuine collision.
 
@@ -334,7 +334,7 @@ A prophecy faction may think:
 
 > This proves the chosen pair.
 
-Crane may think:
+Lang may think:
 
 > This is why anomalous bonds must be registered and controlled.
 
@@ -480,7 +480,7 @@ The mature response is not:
 
 The mature response is:
 
-> There is something here, but it does not own us.
+> There is something here, but it does not decide for us.
 
 Romantic mode:
 
@@ -497,15 +497,17 @@ Required proof:
 - Wren does not use love as justification to steer him.
 - Wren makes an indispensable choice based on her own objective.
 - Eli refuses to make Wren the compensation for losing his mother.
-- Their commitment happens before the climax, so the ending is not "they get together" but "their bond survives the temptation to become ownership."
+- Their commitment happens before the climax, so the ending is not "they get together" but "their bond survives knowledge, unequal capacity, conflicting duties, and the freedom to change."
 
 Lesson:
 
 > Love is not less sacred because it is chosen in time.
 
-## Rowan returns — plural V, not triad (LOCKED 2026-07-22; jealousy architecture 2026-07-28)
+## Rowan returns — plural V, not triad (LOCKED 2026-07-22; jealousy architecture 2026-07-28; Inana dual-face 2026-08-01)
 
 **Governing structure — Book II:** Rowan returns on-page in Book II and renews a continuing romance with Wren. Eli/Wren also remains a developing romantic bond. Rowan/Eli is not romantic. Book II therefore forms a **V centered on Wren**, held through disclosure, consent, and separate terms for each bond—not a contest with one eventual winner, closed triad, or automatic group relationship. Rowan has an independent west-corridor objective and cannot exist merely to validate or threaten Eli's desirability. Her return **does** provoke jealousy; the jealousy exposes Eli's fear of insignificance and must never reduce Rowan or Wren/Rowan to a device. Book III preserves this non-romantic structure while planting only deniable charge; the Rowan/Eli bond changes category in Book IV.
+
+**Mythic rhyme — Inana's Descent dual face — LOCKED 2026-08-01:** Book II's Mesopotamian *Inana's Descent* is not only Somchai's healing grammar. Its **second face** belongs to Wren/Rowan recognition romance: successive gates = shedding armor, house rank, ply automaticity, and possession-fear before touch is allowed; attend-don't-storm = person-first recovery and answering pair-severance by conduct; return-with-cost = renewal only after danger and disclosure. **Dumuzi shadow** is Eli's provisional fear (left above / incidental), never a literal substitute-sacrifice and never a cue to demote him or identify either woman as Inana/Ereshkigal. Seed the text in the archive (Ch 2); pay off in Ch 6–7 through behavior, not pillow myth-lecture. Full placement: `35` § *Inana's Descent*; beats: `32`.
 
 Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already coordinated with Wren before Eli understands their history. **Softer register than Wren** — warmth without hostess performance, cost visible in the face (`26` § Rowan). **Heritage / look — LOCKED 2026-07-25:** **British / Irish diaspora** (strait corridor); **blonde hair, blue eyes.** Wren is **Malay Chinese**, dark hair — visual contrast may register; neither woman staged for comparison. If Wren reads exits, Rowan remembers costs.
 
@@ -580,7 +582,7 @@ specificity, truthful conduct, and repair—not interchangeability or possession
 - Do not let formative durability become mystical compulsion.
 - No bond may claim destiny as settled consent.
 
-The required victory is not frictionless polyamory. It is that each bond becomes more truthful than the ownership models trying to contain it.
+The required victory is not frictionless polyamory. It is that each bond becomes more truthful than the inherited scripts trying to name, rank, instrumentalize, or contain it.
 
 ## The four-volume romantic spine
 
@@ -631,8 +633,7 @@ The central romance becomes richer if surrounded by distorted or partial forms o
 | **Eli / Wren** | Present-tense chosen love under mythic pressure | Destiny as ownership |
 | **Eli / mother** | Love that must release rather than rescue | Reunion as possession |
 | **Healer / public** | Compassion under demand | Care as entitlement and worship |
-| **Crane / subjects** | Paternal protection through policy | Safety as ownership |
-| **Emrys / Eli** | Guidance, measurement, anti-father pressure | Knowledge as authority |
+| **Lang / subjects** | Paternal protection through policy | Safety as ownership |
 | **Historical households** | Transmission of life and practice | Family as hierarchy, debt, and approved descent |
 | **Prophecy faction / Eli** | Devotional romance with the chosen figure | Adoration as capture |
 
@@ -671,29 +672,31 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 
 | Volume | Doc | Dramatic job | End state |
 |---|---|---|---|
-| **I** | `31` § *Romance cost audit* | Recognition refused → forced alliance; rupture over the Sanxingdui extraction and Emrys's capture | Cold shoulder into Vol II—union deferred |
-| **II** | `32` § *Romance cost audit* | Bill Vol I rupture; mother recoil; **repair before union** | Commitment at **debt** (Ch 21) |
+| **I** | `31` § *Romance cost audit* | Recognition refused → forced alliance; rupture over Wren's Sanxingdui displacement | Cold shoulder into Vol II—union deferred |
+| **II** | `32` § *Romance cost audit* | Bill Vol I rupture; mother recoil; **repair before union** | Commitment at **debt** (chapter TBD — see note below) |
 | **III** | `33` | Union tested by jurisdiction: Wren refuses Eli her network; he accepts that love grants no command access | Partnership without merger; affection survives separate duties and judgment |
+
+> **NEEDS AUTHOR DECISION — Emrys/chapter-sweep cleanup (2026-08-01):** every Book II sub-chapter citation below (previously Ch 15–21) was pinned to a pre-consolidation chapter count and is beyond the current ten-chapter Book II spine (`32`). None could be independently re-verified against current chapter content, so they're marked "chapter TBD" rather than guessed. Book III's "Ch 27–31" citations *were* verifiable — they match `33_volume_III_beatsheet.md` Ch 9 (Wren/Eli's jurisdiction-boundary scene) and are fixed below.
 
 ### Five load-bearing beats (if these land, romance reads *chosen*)
 
 1. **Vol I Ch 7** — suspicion spoken aloud after the soft probe: is the contact genuine or planted? Exact phrasing must arise from the scene (`00` §6c).
 2. **Vol I Ch 9** — escape offer (*we could leave*) — almost works; fails on third loyalty.
-3. **Vol I Ch 13** — **rupture** when Emrys taken (cold shoulder; blame or *I told you*).
-4. **Vol II Ch 17** — mother midpoint **cools** romance (replacement fear) — separate from Emrys rupture.
-5. **Vol II Ch 21** — present-tense commitment at **unpaid cost** — not ambush adrenaline.
-6. **Vol III Ch 27–31** — Wren refuses Eli access to her network; he later submits his own authority to limits and review. Their relationship survives without either becoming the other's jurisdiction.
+3. **Vol I Ch 13** — **rupture** when Wren signs the Sanxingdui evacuation and burns her own standing to get Rasel and the civilians out; Eli cannot convert her cost into debt, rescue, or a claim on her next choice (cold shoulder; blame or *I told you*).
+4. **Vol II, chapter TBD** — mother midpoint **cools** romance (replacement fear) — separate from the Ch 13 rupture.
+5. **Vol II, chapter TBD** — present-tense commitment at **unpaid cost** — not ambush adrenaline.
+6. **Vol III Ch 9** — Wren refuses Eli access to her network; he later submits his own authority to limits and review. Their relationship survives without either becoming the other's jurisdiction.
 
 ### Drift risks (too-easy failure modes)
 
 | Risk | Antidote |
 |---|---|
 | Field-recognition reads as soulmate QED | Ch 4 magnitude without meaning; Ch 7 misread fight |
-| Wren keeps choosing him = reward fantasy | Laleh/Asha bill (Ch 8); resentment through Vol II Ch 15 |
-| Mother arc accelerates romance | Ch 17 recoil — *don't put her in that chair* |
-| Union without rupture | Vol I Ch 13 cold shoulder → Vol II Ch 19–20 repair → Ch 21 choice |
-| *Liaisons* pressure too thin | Ch 16 honey-trap; Rowan return/renewal; Ch 19 Sol secrecy |
-| Book III makes Wren's network the hero's natural resource | Ch 27 boundary materially weakens Eli's plan and remains legitimate |
+| Wren keeps choosing him = reward fantasy | Laleh/Asha bill (Ch 8); resentment through Vol II (chapter TBD) |
+| Mother arc accelerates romance | Recoil (Vol II, chapter TBD) — *don't put her in that chair* |
+| Union without rupture | Vol I Ch 13 cold shoulder → Vol II repair (chapter TBD) → commitment (chapter TBD) |
+| *Liaisons* pressure too thin | Honey-trap; Rowan return/renewal; Sol secrecy (all Vol II, chapters TBD) |
+| Book III makes Wren's network the hero's natural resource | Ch 9 boundary materially weakens Eli's plan and remains legitimate |
 
 ### Competence vs control (romance register)
 
@@ -736,7 +739,7 @@ Wren and Rowan formed a ply during Weaver training before they became lovers. Th
 - **The bracelet is unbinding's mirror action — LOCKED 2026-07-29.** Returning the other's bracelet is what makes an ending witnessed and real, the same way making it was what made the bond real. Keeping it — worn or put away, doesn't matter which — is what makes an ending incomplete, without needing a line of exposition to say so. **Wren and Rowan never did this.** Neither returned what the other made. Whether either still has it, still wears it, or has simply never decided what to do with it is open craft material for Book II and beyond — a concrete object sitting alongside the surviving teen-era letter already banked (§ *The letter culture*), not a metaphor needing to be explained on the page.
 
 - **Text anchors subtext.** Because confirmed queer love exists in the spine (Wren bi/pan LOCKED; Rowan and Mira canon), ambiguous intimacy elsewhere in the order reads as honest pattern — some bonds are romantic, some are not — never as a tease the book refuses to pay. Without the anchor it would be queerbaiting; with it, it is texture the world itself produces.
-- **The order refuses to sort its bonds — and that is the thesis.** Filing every deep bond as *romance* or *just friends* is classification-as-ownership, the registry move. The Weavers decline it internally; the book declines it on the page. Relation without ownership, enacted at ensemble scale.
+- **The order refuses to sort its bonds — one intimate expression of the thesis, not the whole of it.** Filing every deep bond as *romance* or *just friends* repeats the registry habit: a living relation is treated as complete once named. The Weavers decline that reduction internally; the book declines it on the page. Adult relation remains chosen, specific, revisable, and answerable to conduct.
 - **Two romances, not stealth triangle.** Wren/Rowan and Wren/Eli are named as separate real bonds. Rowan and Eli are not rivals for possession of Wren and are not covertly romantic. Each may object to conduct that affects them, but neither approves or governs the other bond.
 - **Counterfeit test applies.** Hostile teams can simulate coherence-intimacy; handlers weaponize closeness. Bank one beat where a bond is revealed as operational, and one where a real bond survives being *accused* of being operational.
 - **No exotic texture** (§ Guardrails). The subtext lives in ordinary gestures — who packs whose kit, who someone reaches for when a line goes taut, who is allowed to interrupt whom — never in italicized meaningful glances.
@@ -787,10 +790,10 @@ Intrigue is **moral grey + competing obligations + performed relation** — the 
 | Source | Function |
 |---|---|
 | **Wren's split role** | Unranked contact-range rescuer vs the slower Weaver distance doctrine — every fold-in costs **her people** (Laleh, Asha) |
-| **Asha Noor** | Living female relationship — friend, quartermaster, **civic conscience**; argues consent architecture; not rival, not expositor |
+| **Asha Raman** | Living female relationship — friend, quartermaster, **civic conscience**; argues consent architecture; not rival, not expositor |
 | **Light-cross (Malacca)** | Her extraction fouls his witness — intrigue through **operations**, not seduction |
 | **Counterfeit nearby** | Jin mirror-charm, registry kindness, Sol fellowship — Wren reads **use**; Eli learns true vs played (`19` § Romance cost audit Ch 16) |
-| **Crane wedge (Vol III)** | File leverage on Wren — *did she manage him from the start?* — intrigue via **institution**, not bedroom |
+| **Lang wedge (Vol III)** | File leverage on Wren — *did she manage him from the start?* — intrigue via **institution**, not bedroom |
 | **Third loyalty always present** | Network, Mira wound, civilians — intrigue **collides** with want |
 
 **Wren is not Merteuil.** She is a **defector from the game** learning consent — intrigue tests whether she can exit the counterfeit without becoming another handler. Asha's consent review (Ch 8) is intrigue as **ethical pressure**, not jealousy.
@@ -825,7 +828,7 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 |---|---|---|---|
 | **I** | Unreadable operator; leaks (bun, ping); field-recognition refused | Light-cross; Laleh/Asha; Custodians mirror; Ch 7 fed? | Strategic touch misread; **smash/brush**; stairwell proximity; sanctuary **after** snap; complementary cowardice; **no label** |
 | **II** | Sol secrecy; mother recoil; replacement fear named | Honey-trap; **Vol I rupture** billed; trade fork; file doubt | Repair after rupture; commitment at **debt** (Ch 21) |
-| **III** | Open-handed without fate-language | Crane wedge; indispensable network choice | Parallel release with mother; tired coda touch |
+| **III** | Open-handed without fate-language | Lang wedge; indispensable network choice | Parallel release with mother; tired coda touch |
 
 **Per-chapter M/I/A lines:** `31` / `32` / `33` § *M/I/A audit* (drafting).
 
@@ -843,18 +846,18 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 
 1. **Vol I Ch 7** — *is this fed?* — intrigue spoken; mystery misread (trap vs destiny).
 2. **Vol I Ch 8** — Laleh/Asha + sanctuary **after** snap — all three registers on one page.
-3. **Vol I Ch 14** — hand held/released — attraction up; mystery via **behavior**, not confession.
-4. **Vol I Ch 13** — Emrys taken — **rupture**; all three registers down on comfort.
-5. **Vol II Ch 16–17** — honey-trap dismantled; mother **recoil** — intrigue + attraction **down**.
-6. **Vol III Ch 27 / Ch 31** — she refuses command access; after the crisis they choose continued relationship without undoing her boundary or his sanction.
+3. **Vol I, chapter TBD — NEEDS AUTHOR DECISION (2026-08-01: cited "Ch 14," which doesn't exist in the current 13-chapter Book I spine)** — hand held/released — attraction up; mystery via **behavior**, not confession. Likely lands inside Ch 13 alongside the rupture below, or opens Book II; needs placement.
+4. **Vol I Ch 13** — Wren signs the Sanxingdui evacuation, burning her own standing — **rupture**; all three registers down on comfort.
+5. **Vol II, chapter TBD — NEEDS AUTHOR DECISION (2026-08-01: cited "Ch 16–17," beyond the current ten-chapter Book II spine)** — honey-trap dismantled; mother **recoil** — intrigue + attraction **down**.
+6. **Vol III Ch 9** — she refuses command access; after the crisis they choose continued relationship without undoing her boundary or his sanction. (Matches `33_volume_III_beatsheet.md` Ch 9: "Wren and Eli choose continued relationship after jurisdiction has been separated from love.")
 
 **Drift risks:**
 
 | Vol | Risk | Guard |
 |---|---|---|
-| **I** | Ch 5+8+14 tenderness without Ch 7+9+13 friction | Bill resentment on dialogue; at least one register **down** before Ch 14 |
-| **II** | Ch 21 union without Ch 17–19 damage | Mother midpoint **cools** romance; **Vol I rupture** must be billed Ch 15 |
-| **III** | Mother goodbye → Wren as sequential consolation | Release beats **parallel**; Ch 30 coda without fate-language |
+| **I** | Ch 5+8+[TBD, see beat 3 above]+13 tenderness without enough friction beforehand | Bill resentment on dialogue; at least one register **down** before the hand-held/released beat |
+| **II** | Ch 10 (Avebury release) union without earlier damage — **exact damage chapters NEEDS AUTHOR DECISION (cited Ch 17–19/21, beyond current spine)** | Mother midpoint **cools** romance; Vol I rupture must be billed early in Book II |
+| **III** | Mother goodbye → Wren as sequential consolation | Release beats **parallel**; coda (Ch 10) without fate-language |
 
 ### Other women (brief)
 
@@ -862,7 +865,7 @@ Mystery/intrigue/attraction are **not romance-only**: **Mei** (rules as love lan
 
 ## End-state image
 
-The final romantic image should be ordinary and chosen: affection without prophecy, closeness without ownership, shared work without hierarchy.
+The final romantic image should be ordinary and chosen: affection without prophecy, closeness that leaves room for separate selves, shared work without permanent rank.
 
 Possible register:
 

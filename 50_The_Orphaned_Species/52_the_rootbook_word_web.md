@@ -4,13 +4,13 @@
 
 > **HIGH PRIORITY — LOCKED 2026-07-25:** Expertise fantasy and contested decode — **`55_series_pitch_and_comps.md`**. Rootbook opens bounded sections only; reader learns with Eli, often wrong first.
 
-**CANON DESIGN — LOCKED 2026-07-21.** **Maren Holt's** encoded field journal becomes the trilogy's distributed Rosetta: a personal record, comparative linguistic tree, scientific notebook, charged-ground atlas, and unfinished model of the living mesh. Eli deciphers it through travel, collaboration, repeatable measurements, and words recovered in different linguistic branches. **His uncanny connection gift** — leaps between seemingly unrelated witnesses — is the living complement to Maren's encoded tree: he links cognate, site, and measurement before the full proof exists, which looks like oracle-work to others and **working hypothesis** to Emrys (`15` § *Uncanny connection*). It is not prophecy, a universal translation device, or an itinerary planted for him.
+**CANON DESIGN — LOCKED 2026-07-21.** **Maren Holt's** encoded field journal becomes the trilogy's distributed Rosetta: a personal record, comparative linguistic tree, scientific notebook, charged-ground atlas, and unfinished model of the living mesh. Eli deciphers it through travel, collaboration, repeatable measurements, and words recovered in different linguistic branches. **His uncanny connection gift** — leaps between seemingly unrelated witnesses — is the living complement to Maren's encoded tree: he links cognate, site, and measurement before the full proof exists, which looks like oracle-work to others and **working hypothesis** to a scientist present (Rasel, Luo, Qiao) (`15` § *Uncanny connection*). It is not prophecy, a universal translation device, or an itinerary planted for him.
 
-**Working names:** Eli privately calls it **the Rootbook**. Maren's cover-title may be **শব্দজাল** (*Shabdajal / Word-Web*); exact Bengali romanization, register, and whether Maren herself would use that title remain subject to Bengali-language review. The design is locked; the final title is not.
+**Working names — LOCKED for prose 2026-08-01 pending specialist polish:** Eli privately calls it **the Rootbook**. Maren's cover-title on-page is **শব্দজাল** (*Shabdajal* — Word-Web). Use that Bengali title when a character reads the cover; do not invent alternatives mid-draft. Exact register/diacritics remain open to Bengali-language review, but the working form is fixed so manuscripts stop waiting on TBD.
 
 ## What the journal is
 
-Maren did not create the knowledge alone. The journal assembles her own consciousness and field research with contributions, citations, corrections, rubbings, transcriptions, measurements, and disagreements from linguists, growers, clinicians, custodians, local historians, and other subjects or collaborators. Different hands remain visible. Eli eventually learns that some people named in it paid for Maren's delay in breaking with Crane's program.
+Maren did not create the knowledge alone. The journal assembles her own consciousness and field research with contributions, citations, corrections, rubbings, transcriptions, measurements, and disagreements from linguists, growers, clinicians, custodians, local historians, and other subjects or collaborators. Different hands remain visible. Eli eventually learns that some people named in it paid for Maren's delay in breaking with Lang's program.
 
 Each major entry aligns several kinds of evidence:
 
@@ -73,7 +73,7 @@ The locked turn is:
 
 > **The tree of words sits inside the web of life. It is not the whole web.**
 
-Eli reaches Sanxingdui in late Book I because the northbound route, Edda's true proof, and the Mandate's coerced field-physics program converge on **Rasel**, not because the site is a cipher awaiting Eli. Access comes through legitimate research relationships and contemporary Chinese custodianship. Local scholars and conservators already possess the material evidence and interpretive authority; Eli supplies one embodied observation, Rasel supplies field physics, and the Thai cooperative supplies independent living-ground measurements.
+Eli reaches Sanxingdui in late Book I because the northbound route, Anika's true proof, and the Mandate's coerced field-physics program converge on **Rasel**, not because the site is a cipher awaiting Eli. Access comes through legitimate research relationships and contemporary Chinese custodianship. Local scholars and conservators already possess the material evidence and interpretive authority; Eli supplies one embodied observation, Rasel supplies field physics, and the Thai cooperative supplies independent living-ground measurements.
 
 ## Trilogy progression
 
@@ -94,7 +94,7 @@ Possible first personal line, subject to prose revision:
 
 - The **know/recognize** constellation becomes central as Sanskrit, Tocharian, Greek, Germanic, and other branches demonstrate continuity through transformation.
 - The **brother/kin** material rhymes with the group's movement from ancestry toward chosen relationship and with the social danger of turning kinship into rank.
-- At least one trusted key is wrong, one of Maren's readings is corrected by a living community, and one page implicates her voluntary work with Crane.
+- At least one trusted key is wrong, one of Maren's readings is corrected by a living community, and one page implicates her voluntary work with Lang.
 - Non-Indo-European comparisons strain Eli's belief that a single human language family explains the pattern; the decisive Sanxingdui break arrives through the Mandate/Rasel relationship in late Book I. Book III tests its wider scientific and civic consequence.
 - Cuno's geometry, Derw's transmission, living field behavior, and the journal converge independently on Albion. The Rootbook never contains Albion as a simple destination or Maren's spirit as a recoverable address.
 - Releasing Maren remains a choice against prolonging reunion. The fully decoded journal cannot substitute for letting her go.
@@ -103,7 +103,7 @@ Possible first personal line, subject to prose revision:
 
 - Eli and collaborators compare linguistic branching with evolution, neural organization, ecological networks, psionic signatures, and field geometry.
 - Union physics and later extraterrestrial evidence show the same deep rule: continuity need not preserve an unchanged object; it can preserve relationship through lawful transformation.
-- This principle helps Eli recognize the missing feedback relationship in the field-sail work, but it is not a magic equation. Union physicists, Emrys, independent replicators, Mandate engineers, and living-field witnesses still complete and test the science.
+- This principle helps Eli recognize the missing feedback relationship in the field-sail work, but it is not a magic equation. Union physicists, Rasel, independent replicators, Mandate engineers, and living-field witnesses still complete and test the science.
 - Evidence beyond Earth reframes humanity as the most recent local experiment in a long dance of life and knowledge through time and space—not the final species, a chosen bloodline, or the owner of the mesh.
 - Eli adds pages; other people annotate, contest, and correct them. The Rootbook becomes a tradition because it remains participatory and revisable.
 
@@ -137,7 +137,7 @@ The word web's sharpest political edge. From mid–Book II, rebel cells hail Eli
 
 - The Rootbook is an interpretive matrix, **not a sixth cosmological artifact** added to the five-object causal chain.
 - It never supplies the whole route, a complete cosmic history, or a list of future destinations.
-- Eli does not solve it alone. Emrys, Wren, linguists, speakers, scientists, growers, custodians, and other affected people each resolve or contest parts he cannot.
+- Eli does not solve it alone. Rasel, Wren, linguists, speakers, scientists, growers, custodians, and other affected people each resolve or contest parts he cannot.
 - AI may search correspondences and test cipher hypotheses; it cannot determine lived meaning, validate provenance by itself, or replace the three accounts of the reciprocal circuit.
 - Similar words prove linguistic relationship only where historical linguistics supports it. Similar images elsewhere are questions or structural rhymes, not automatic proof of common descent.
 - Maren is not omniscient. At least one error harms the route, one correction changes Eli's view of her, and one redacted name restores a subject whom her technical language had obscured.

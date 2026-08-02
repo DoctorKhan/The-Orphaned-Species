@@ -8,7 +8,7 @@
 
 ## 1. The one mechanism
 
-- **The web is the field.** Not a metaphor — it is the anti-entropic medium / ley-line network / living substrate already established. All life is held in it. Eli is a rare **receiver**: he feels the web directly, where others feel nothing. **Waking social register:** he **connects the unrelated** — pattern-leaps that look like magic to others, test like science when Emrys and the federation are healthy (`15` § *Uncanny connection*).
+- **The web is the field.** Not a metaphor — it is the anti-entropic medium / ley-line network / living substrate already established. All life is held in it. Eli is a rare **receiver**: he feels the web directly, where others feel nothing. **Waking social register:** he **connects the unrelated** — pattern-leaps that look like magic to others, test like science when the federation is healthy (`15` § *Uncanny connection*).
 - **Reception = clarification.** He does not *download* or *become*. He **resolves.** A region of the web is initially noise — tangled, faint, undifferentiated. Attention, presence, and practice bring it into focus. At focus, it becomes legible: a person, a place, an event, a structure.
 - **What he clarifies, he learns.** Knowledge, capacity, and history all arrive the same way — as the web coming clear. The practice (returning to the body, distinguishing self from weather, radiate-vs-leak) *is* the clarifying. **The gift and the discipline are one engine, not three.**
 - **One dial: depth.** Near, recent, human-scale threads resolve early and easily. Vast, ancient, deep structures (the gods, the orphaning, the makers) resolve late, faintly, and **never fully.** Fragmentation is not authorial withholding — it is what far structures look like from a clarifying receiver. (This replaces the "two registers" rulebook: there is one continuum, near→deep, not two kinds of capsule.)
@@ -23,7 +23,7 @@
 | **"Resonance braid" as a named device** | the spine docs | Redundant; the web *is* the connection. Drop the term. |
 | **Aedan routing the cosmology for Eli** | `36`, `37`, the source-map | Removed entirely. The cosmology is deep web-structure he clarifies directly (§6) |
 | **Two registers (lived-life vs watched-vision)** | `36` §1 | One dial of depth (§1, §6); the *felt* difference survives as resolution, not as two mechanisms |
-| **"Sevenfold signature" / harmonic carrier count on instruments** | spine, beatsheets, draft prose | **Removed.** Emrys reads a **carrier flare** correlated to Maren's research — not a number-of-practitioners pattern |
+| **"Sevenfold signature" / harmonic carrier count on instruments** | spine, beatsheets, draft prose | **Removed.** The Charkha's grid reads a **carrier flare** at Malacca — a detection event, not a number-of-practitioners pattern |
 
 ## 3. The danger is overload and capture, not possession — LOCKED
 
@@ -40,7 +40,11 @@ The cure is practice: **clarification without collection** — receive contact, 
 
 ## 3a. Malacca opens the receiver; charged grounds hold the teachers — LOCKED
 
-**Do not download seven lives at the breach.** The Malacca near-death event turns the receiver **on**, not the archive **in**. **Dream-delivered answers** (counting doors, Ila, Pele, symbolic direction) are a separate channel — Eli's **father-line inheritance** (`15` § *Rasel's gift*); they may begin before the breach and continue after. Dreams compress; they do not replace charged-ground contact or the deep dial.
+**Do not download seven lives at the breach.** The Malacca near-death event turns the waking receiver **up**, not the archive **in**. Dreaming is the same human receptivity under sleep conditions: sensory gating is lowered, associative material is high, and provenance is poor. It may therefore begin before the breach and intensify afterward. Rasel's symbolic fluency and Maren's receiver bandwidth help explain why Eli notices and retains these dreams, but dreams are not a private father-line oracle and not proof of special ancestry. The capacity is broadly human (`29` § *First/Last Dreamer correction*); Eli is unusually receptive, vivid, and persistent.
+
+**Dreams deliver fragments, not answers.** Counting doors, an unfamiliar name, a bodily arrangement, red earth, kneeling, a sound, or a direction may contain external information. The same dream may also contain trauma, expectation, recent language, ordinary symbolic substitution, hostile influence, or coincidence. It never arrives with source labels. A dream cannot certify whether it came from the living web, another psion, memory, the body, or Eli's own sleeping mind. Waking corroboration establishes information; consequences and consent establish what may be done with it. Dreams compress; they do not replace charged-ground contact, clinical evidence, or the deep dial.
+
+**Dream progression — LOCKED 2026-08-01:** Book I presents vivid dreams as plausibly traumatic or ordinary, with no declared Dreamer identity. Book II makes them frequent and frightening as psionics comes forward; at least one apparent warning is trauma, one quiet detail proves verifiable, and one experience remains plausibly contaminated by another psion. Late Book II permits only the realization that sleep is a receptive state whose products lack provenance. Book III connects this carefully to the Last Dreamers and tests dream fragments through independent accounts; the Pele dream remains culturally and politically nonbinding. Book IV shows maturity as reduced obedience: Eli can wake from a powerful dream without reorganizing other people's lives around it.
 
 | **Malacca breach** | **Charged grounds (pilgrimage sites, stones, artifacts)** |
 |---|---|
@@ -49,9 +53,11 @@ The cure is practice: **clarification without collection** — receive contact, 
 | Signature **flares** the grid ("dinner bell") — **hunted from here on** | Factions race him **to the next charged ground**; artifacts name where to go |
 | One ordered fragment may surface (three concentric circles) | Full immersion only when charged ground + pressure earns it (`§8`) |
 
-**Between charged grounds:** occasional echoes or surges — background signal, not a second cast living in his head. **Do not use a "sevenfold signature" or harmonic count on instruments** — that numerology is deprecated. Emrys converges on a **carrier flare** his logs correlate to Maren's suppressed research: the breach event they predicted, not a roster count.
+**Between charged grounds:** occasional echoes or surges — background signal, not a second cast living in his head. **Do not use a "sevenfold signature" or harmonic count on instruments** — that numerology is deprecated. The Charkha's grid converges on a **carrier flare** at Malacca: a detection event on Lang's apparatus, not a roster count.
 
 **One-line filter:** *Malacca opens the radio; the stones hold the teachers.*
+
+**Dream filter:** *A dream may contain information. It does not contain its own interpretation.*
 
 ## 4. Faces resolve *out of* the web (the grief survives)
 
@@ -95,7 +101,7 @@ Human cultures **already remembered** that certain stones and places **hold spee
 
 In the story these tales are usually filed as **metaphor, tourism, or superstition** — until after the breach Eli learns the folk memory was pointing at **real charged-ground behavior**: dense regions of the web where human threads **clarify** under attention and pressure. The Charkha and national programs **instrument** charged grounds; ordinary people **tell stories** about them. Both are touching the same substrate.
 
-**Craft rule:** introduce talking-stone lore **locally** (one culture's name per scene), from **living characters** (growers, sailors, Emrys's footnotes, a shrine keeper) — never as a lecture that "all cultures knew." Effects before etiology: a stone **feels** like it answers before anyone names the mechanism.
+**Craft rule:** introduce talking-stone lore **locally** (one culture's name per scene), from **living characters** (growers, sailors, a researcher's footnotes, a shrine keeper) — never as a lecture that "all cultures knew." Effects before etiology: a stone **feels** like it answers before anyone names the mechanism.
 
 ## 7b. Knots — tangle, binding, and the tenth  *(UNADOPTED — not canon)*
 
@@ -124,13 +130,13 @@ The web has structure, and **not all of it formed naturally.** This is the field
 
 The tied knots are **infrastructure**. They pinned the living substrate so the cold system could be laid over it and run on it — the *High Places over the Wild* (`Thesis.md` § *Return to nature*) given a mechanism. Each holds a region of web taut; the tension is what the grid drew on. The amplifier is a tied knot, small and new. Trapped souls are what taut threads are made of.
 
-**Count discipline:** the number **nine** is *attested, not verified*. Records agree on nine; the candidate sites do not fully agree with each other, at least two claims contradict, and Emrys will argue for a different count from field data. Unlike the practitioners (§4), a fixed number is *permissible* here — these are built objects and someone built a specific number of them — but the characters never hold a confirmed list, and the story must not pay off a completed set.
+**Count discipline:** the number **nine** is *attested, not verified*. Records agree on nine; the candidate sites do not fully agree with each other, at least two claims contradict, and Rasel will argue for a different count from field data. Unlike the practitioners (§4), a fixed number is *permissible* here — these are built objects and someone built a specific number of them — but the characters never hold a confirmed list, and the story must not pay off a completed set.
 
 ### The knots are topological, not tight
 
 **A binding is not strong. It is *shaped*.** This is the single most important thing to get right, because it is what makes the whole climax non-violent and non-heroic: a tied knot cannot be destroyed by force, no matter how much force. It persists the way a knotted field configuration persists — because undoing it requires a **change of topology**, not an application of power. Force only feeds it.
 
-Nothing in the story may therefore *break* a knot. What changes one is a specific, correctly-shaped transformation applied from within — small, precise, and useless if you get the shape wrong. This is Emrys's line already drafted, arriving as physics: *"You can't lift it. You can only stop being so loud that it can't be heard."* And it is the reason Crane's program cannot work by scale: **an amplifier adds magnitude to a problem that is not made of magnitude.**
+Nothing in the story may therefore *break* a knot. What changes one is a specific, correctly-shaped transformation applied from within — small, precise, and useless if you get the shape wrong. This is Rasel's line already drafted, arriving as physics: *"You can't lift it. You can only stop being so loud that it can't be heard."* And it is the reason Lang's program cannot work by scale: **an amplifier adds magnitude to a problem that is not made of magnitude.**
 
 Two consequences to hold:
 
@@ -139,7 +145,7 @@ Two consequences to hold:
 
 ### The tenth knot — the operation, not a place
 
-**Every faction reads the tenth as construction.** A tenth binding, tied by the right person at the right ground, completing the pattern and delivering the field to whoever tied it. Crane's amplifier program is an attempt to tie it. Sol wants it tied for the other side. Prophecy language ("the one who will bind the threads") is read the same way by devotees and enemies. **They are all reading an addition into what is a subtraction.**
+**Every faction reads the tenth as construction.** A tenth binding, tied by the right person at the right ground, completing the pattern and delivering the field to whoever tied it. Lang's amplifier program is an attempt to tie it. Sol wants it tied for the other side. Prophecy language ("the one who will bind the threads") is read the same way by devotees and enemies. **They are all reading an addition into what is a subtraction.**
 
 **The tenth operation is untying.** It was never lost and nobody suppressed it: **release leaves nothing behind.** It builds no monument, founds no lineage, certifies no authority, and produces no artifact — so it vanished from the record while nine bindings stayed visible for ten thousand years. *The absence of evidence is the evidence.*
 
@@ -169,18 +175,18 @@ Everything follows from that:
 
 ### The physics register — how this reaches the page
 
-**Emrys carries it, under falsifiability discipline.** He offers the topology as an *analogy that happens to have real mathematics behind it*, immediately marks what would falsify it, and is at least once visibly wrong about the fit. Per `Thesis.md` § *Why science fiction*: the mechanism is stated so it can be **argued with**, never so it must be believed. No character says "Klein bottle" as an incantation, and the word arrives late, from the one person entitled to reach for it, hedged.
+**Rasel carries it, under falsifiability discipline.** He offers the topology as an *analogy that happens to have real mathematics behind it*, immediately marks what would falsify it, and is at least once visibly wrong about the fit. Per `Thesis.md` § *Why science fiction*: the mechanism is stated so it can be **argued with**, never so it must be believed. No character says "Klein bottle" as an incantation, and the word arrives late, from the one person entitled to reach for it, hedged.
 
-**Real anchors (current — for Emrys's register, and for `91_predictions_and_falsifiers.md`):**
+**Real anchors (current — for Rasel's register, and for `91_predictions_and_falsifiers.md`):**
 
 | Real result | What it lends |
 |---|---|
 | **Momentum-space Klein bottle from Z₂ gauge fields** — projective symmetry algebra makes the Brillouin zone non-orientable instead of a torus; classified by a **Z₂ invariant** rather than a Chern number; edge modes at two edges related by a **nonlocal twist** ([Nat. Commun. 2022](https://arxiv.org/abs/2204.12438)) | The tenth knot's geometry; binary-not-quantity invariant; **an imposed gauge field changes the topology of the state space** — the grid laid over the substrate, exactly |
-| **Klein bottle quadrupole topological insulators observed in electric circuits** ([J. Appl. Phys., 2025](https://pubs.aip.org/aip/jap/article/137/21/213105/3348185/Observation-of-Klein-bottle-quadrupole-topological)); **Brillouin Klein space in 3D acoustic crystals** ([Sci. Bull. 2024](https://www.sciencedirect.com/science/article/abs/pii/S2095927324003372)) | It has been *built and measured* — Emrys can cite benchtop realizations, and the **acoustic** one lets the Song layer touch real literature |
+| **Klein bottle quadrupole topological insulators observed in electric circuits** ([J. Appl. Phys., 2025](https://pubs.aip.org/aip/jap/article/137/21/213105/3348185/Observation-of-Klein-bottle-quadrupole-topological)); **Brillouin Klein space in 3D acoustic crystals** ([Sci. Bull. 2024](https://www.sciencedirect.com/science/article/abs/pii/S2095927324003372)) | It has been *built and measured* — Rasel can cite benchtop realizations, and the **acoustic** one lets the Song layer touch real literature |
 | **Hopfions — 3D knotted solitons**, directly observed after femtosecond-laser nucleation ([2026](https://phys.org/news/2026-05-laser-isolated-hopfions.html)); **hopfion rings** nucleated by current pulses, stable under *both* field directions ([Adv. Mater. 2026](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523417)) | Knots as real, persistent structures **in a field**; stability against forcing in either direction |
-| **Hopf number controlled by spin-orbit torque** — knot topology changed by a specific applied twist, not by brute force ([arXiv 2511.23027](https://arxiv.org/pdf/2511.23027); [APS 2026](https://journals.aps.org/apsos/abstract/10.1103/ngvg-h27j)) | **The untying mechanism.** A correctly-shaped transformation changes the invariant; magnitude never does. Crane's amplifier fails for a reason a physicist could state |
+| **Hopf number controlled by spin-orbit torque** — knot topology changed by a specific applied twist, not by brute force ([arXiv 2511.23027](https://arxiv.org/pdf/2511.23027); [APS 2026](https://journals.aps.org/apsos/abstract/10.1103/ngvg-h27j)) | **The untying mechanism.** A correctly-shaped transformation changes the invariant; magnitude never does. Lang's amplifier fails for a reason a physicist could state |
 
-**Discipline:** these are analogies with real mathematics, not claims that the web *is* a magnetic lattice. The novel's job is the shape — protected-by-topology, changed-by-twist-not-force, non-orientable-so-no-outside. Preserve at least one piece of evidence that does not fit Emrys's model (`36` §8 corollaries).
+**Discipline:** these are analogies with real mathematics, not claims that the web *is* a magnetic lattice. The novel's job is the shape — protected-by-topology, changed-by-twist-not-force, non-orientable-so-no-outside. Preserve at least one piece of evidence that does not fit Rasel's model (`36` §8 corollaries).
 
 ### One operation, three scales — the Three Circles as technique
 

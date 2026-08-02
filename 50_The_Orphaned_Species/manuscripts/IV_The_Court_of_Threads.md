@@ -4,11 +4,46 @@
 > perspectives, principally Wren and Rowan, in close third present. Eli is
 > experienced primarily from outside as ruler, lover, symbol, and prospective
 > father. The volume opens seven months into a **successful** decentralized
-> settlement, then breaks it: a coordinated attack on the working government
-> leads the reconstituted institutions to deliberately invoke a dormant
-> continuity clause and ask Eli back into bounded authority a second time. The
+> settlement, then the **Lean Year** exposes its most convenient hub: a
+> fictional North Pacific eruption meets low reserves, export holds, rival
+> forecasts, hoarding, dormant Continuity credentials, private force, and
+> opportunistic seizures across routes, supply, medicine, water, crops,
+> displacement, security, and trust. Local societies continue;
+> cross-network obligations seize. The reconstituted institutions deliberately
+> invoke a dormant continuity clause and ask Eli back into narrow interregional
+> authority a second time. The
 > volume spans roughly ten months from there through final transfer, birth, and
 > an ordinary later coda.
+>
+> **NORTH–SOUTH ROUTE LOCK — 2026-08-01; WATERSHED 2026-08-01:** The court remains
+> in North America. Evacuation hinge = **Limón–Tortuguero** receiving with
+> **Reventazón / Turrialba** nursery-farm capacity (`60`). Yuliana Mora is the
+> on-page route clerk face. Costa Rica sets capacity and may refuse. Eli/Rowan/
+> Wren/court do not flee south. Eagle–Condor = contested rhetoric, not omen.
+>
+> **GROWN-CORRIDOR TREE LOCK — 2026-08-01:** Costa Rican passage capacity was
+> grown through linked watersheds, working farms, nurseries, clinics, ports,
+> biological corridors, and mixed tree cover. Trees supply shade, infiltration,
+> slope stability, food, soil, and habitat connection; they are infrastructure,
+> not tropical atmosphere. This is why the route survives and why it cannot
+> absorb everyone. Psions may notice stress, but local practice and public
+> measurement govern. Trees do not speak or remember for humans. Work songs and
+> safe, voluntary nursery tasks transmit sequence across generations; children
+> never become an emergency labor reserve.
+>
+> **Bronze Age collapse test — LOCKED 2026-08-01:** no single-cause apocalypse
+> and no total survival. Outcomes diverge. The court becomes a functional palace
+> and fails; portable practices and modular local capacity keep failures from
+> synchronizing. By the final transfer, society has already governed through a
+> material loss of the center. Post-collapse religious change appears only in
+> seed: service houses, itinerant teaching, shared discipline and meals, new
+> messianisms, and the first signs that liberating practices can harden again.
+>
+> **Dream maturity — LOCKED 2026-08-01:** If Eli dreams in this volume, the
+> experience creates no instruction, policy, succession claim, or interpretation
+> of Rowan's pregnancy or the child's future. His growth is the ability to
+> record a powerful dream and continue without making other people live inside
+> it.
 
 ## Chapter One—The Doors
 
@@ -94,255 +129,164 @@ Respect arrives wearing irritation, same as always. No one in the room mistakes 
 
 ---
 
-Tarek is found in a maintenance shed.
+The first notice is not an alarm.
 
-Alive. Sedated. His identity key gone.
+It is a shipping refusal.
 
-The false key at the east gate has already authenticated two technical records and one delegate substitution.
+The *Tern* has six thousand tonnes of spring wheat under compact contract and
+permission to leave the northern coast. Its receiving port will not certify the
+cargo because a new ash forecast puts the harbor inside the closure cone.
 
-Asha freezes the verification desks.
+Twenty minutes later the forecast changes.
 
-Every screen in the hall displays:
+The harbor is clear. The rail line feeding it is not.
 
-**AUTHENTICATION COMPROMISED.**
+The assembly opens three models on the west wall. The Mandate model shows a
+short northern cooling and a late monsoon. The Union model shows two failed
+grain seasons. The growers' network refuses both curves and sends photographs:
+ash in irrigation screens, wheat jointing too early under a warm week, orchard
+buds open before the cold that may now come.
 
-The public galleries erupt.
+The caldera is a red shape in the North Pacific, far enough away that nobody in
+the hall heard it. The first images arrived twelve hours late through military
+channels and then everywhere at once. A dark column. Lightning inside it. A
+coast leaving beneath people who had names before they became a scale bar.
 
-Crane's observers request control of verification.
+No model agrees on how much sulfur reached the high air.
 
-Weaver houses object.
+Every model agrees that planting has already happened.
 
-Sol's delegates accuse the Union.
+"Publish the range," Asha says.
 
-Union delegates accuse the Mandate.
+The Union delegate wants a single planning figure.
 
-Commissioner Ma's remote representative provides evidence that the false key used a Union continuity cipher.
+"There isn't one."
 
-The Union says the cipher was stolen in San Francisco, seven months ago, in the same window when the original transfer was being finalized — a theft that sat dormant until today.
+"People cannot ration against a range."
 
-Both can be true.
+"Then they will have to learn."
 
-Wren goes to Tarek.
+For seven months the verification desks have decided whether a person, cargo,
+message, or obligation is what it claims to be. They were not built to decide
+how much uncertainty a frightened port must accept.
 
-He cannot speak. His body remembers the vehicle route in fragments: citrus cleaner, a woman's hand on his shoulder, one wheel striking a pothole, a voice using Eli's name to tell him the schedule changed.
+By noon, five grain exporters announce temporary holds.
 
-Technical account identifies three possible vehicles.
-
-Relational account identifies the exploit:
-
-trust in seven months of working government became the weapon.
-
-The assembly begins rebuilding attestation person by person.
-
-That is when the first strike hits.
-
----
-
-It does not come from outside.
-
-One of the field-damping units beneath Verification Desk Four reverses phase.
-
-Delegates nearest it receive one another's fear without source or boundary.
-
-A woman runs toward a door that exists only in somebody else's memory.
-
-A Union official strikes a man reaching for his own medication.
-
-Two awakened delegates lock into involuntary coherence and amplify the panic.
-
-Eli stands.
-
-His standing here carries no authority to give that order — he is a private citizen at a public table, same as everyone in the room, and for a half-second his body doesn't know what to do with that fact under pressure.
-
-He does not enter the room.
-
-"Ground Desk Four," he calls.
-
-Nobody obeys because he is ruler. He isn't. They obey because the instruction names a machine and Bima trained half the repair crew to distrust patriotic switches years before any of this had a name.
-
-Leilani kills the desk circuit.
-
-Callum puts a manual ground through the floor bus.
-
-Rowan and Wren move delegates toward different exits, preventing the crowd from becoming one crush.
-
-The second strike comes from the air.
-
-Maintenance drones descend through the roof vents with legitimate repair credentials. One releases an obscurant that blinds cameras and field perception together. Another targets the distributed copy desks.
-
-Leilani seizes two.
-
-The third detonates above Asha's table.
-
-Wren reaches her after the blast.
-
-Asha is conscious. Blood runs from one ear. A fragment has entered below her collarbone.
-
-"Ledgers," she says.
-
-"People first."
-
-"That is why I said ledgers. They contain objections."
-
-Wren gives one to Rowan and one to a young Weaver from the north house.
-
-The third is digital and already corrupted.
-
-Living attestations begin leaving by seven routes.
-
-Not copies of identity.
-
-People who can say whom they saw, what they witnessed, and which objections remained unresolved.
-
-The Weavers become government while evacuating it — the same thing they were seven months ago, when it worked without anyone having to prove it under fire.
+By evening, temporary has acquired armed guards.
 
 ---
 
-Outside, the perimeter receives three contradictory orders.
+Tarek brings the *Tern* record to Wren after midnight.
 
-Union command directs all demobilized personnel to form a defense line.
+The ship has received a second destination under a Union continuity cipher. The
+order sends it to a warm-site harbor whose survival roster predates the compact.
+The key is valid. The office that issued it no longer possesses authority over
+the grain.
 
-Sol's channel directs Extra men to seize the hall before the registry does.
+"Henley," Wren says.
 
-The compact dispatch requests voluntary defense of evacuation routes.
+"His office."
 
-Malik hears Sol's voice first.
+"Difference?"
 
-"Brothers, this is the hour they planned to steal. Hold the assembly for the people."
+"The court will spend six days deciding. The ship sails in four hours."
 
-Several men lift red scarves from inside their shirts.
+Asha freezes the shared routing credential.
 
-Owen blocks the armory door with his chair.
+Henley's office calls that theft of emergency capacity. Three Union ports stop
+accepting compact attestations until the key is restored. A Mandate insurer
+withdraws coverage from any vessel carrying disputed grain. Two Free Port
+captains agree to sail anyway and triple their price.
 
-"No remobilization without role and exit."
+The food still exists.
 
-"We're under attack," Malik says.
-
-"Yes."
-
-"They need us."
-
-"Then ask the men."
-
-"There's no time."
-
-The old sentence.
-
-Malik looks at the hall doors.
-
-Women and children are coming through. Asha is carried on a worktable. Tarek is unconscious on a stretcher. Union troops are moving toward the north barrier without compact authorization.
-
-"Roles!" Malik shouts. "Evacuation lane. Medical carry. North barrier. Infrastructure. Nobody goes because he's standing nearest."
-
-Men choose.
-
-Some refuse.
-
-One red-scarf group tries to enter the hall under Sol's order.
-
-The cloister crews stop them.
-
-Not with a glorious charge.
-
-With forklifts, locked freight gates, foam extinguishers, and six veterans who know how quickly a rifle becomes a funeral inside a crowded building.
-
-At the south perimeter, Union officers begin scanning every escaping man as a probable attacker.
-
-Owen turns the information desk into an appeal station while drones cross overhead.
-
-"Name," he says.
-
-"Sanjay Rao."
-
-"Destination?"
-
-"Medical carry."
-
-"Witness?"
-
-"Me."
-
-The answer is a woman carrying the other end of the stretcher.
-
-"Go."
-
-No household sponsor.
-
-No Extra flag.
-
-Standing made civic in the middle of collapse — the same standing that was made civic seven months ago on an ordinary afternoon, tested now against something worse than paperwork.
+The road to it has begun charging admission.
 
 ---
 
-The fourth strike targets the station routes.
+The Sol depot opens the following morning.
 
-Every active ground connected to the assembly receives a counterfeit teaching:
+It is not opened by starving people. It is opened by men with cutting torches,
+two depot workers, and a crowd holding bowls for the cameras.
 
-**ONLY THE CHOSEN VOICE CAN PRESERVE THE PEOPLE.**
+**THEY HID BREAD BEHIND NAMES**, the feed says.
 
-It bears three artifact signs and no provenance.
+The depot did hide grain. It also holds seed wheat, fungicide, and the next
+month's clinic alcohol under the same inventory category because the old system
+was built by somebody who thought dry goods were one thing.
 
-Cuno's grammar catches the lie.
+The crowd distributes the first trucks without violence.
 
-Not because the content is metaphysically false.
+The third truck goes to a district that supplied the men who cut the doors.
 
-Because no witness chain accompanies it, losses are omitted, and three bounded teachings have been collapsed into one instruction.
+The fourth disappears from the public feed.
 
-Local keepers refuse forwarding.
+Local councils ask the assembly whether taking hidden food is theft, emergency
+release, or restitution. Eli sits among ordinary delegates and says nothing
+until the chair calls his name.
 
-Two stations shut down.
+"Which law applies?" she asks.
 
-One under Union control transmits anyway.
+"More than one."
 
-The counterfeit reaches supporters who never stopped, in seven quiet months, treating Eli as Deiwos underneath their ordinary courtesy.
+"That is not an answer."
 
-They begin gathering outside the west gate, asking him to take command.
+"It is the problem."
 
-"The stones chose him," a man says.
-
-Wren hears through the route channel.
-
-"No," she says. "Somebody forged the custody."
-
-The distinction does not move a crowd.
-
-Eli steps onto the loading platform.
-
-People kneel.
-
-He could use the projection to clear the routes.
-
-Instead he holds up the damaged physical ledger from Asha's table.
-
-"This contains objections," he says. "The message you received erased them."
-
-"Lead us," someone calls.
-
-"Evacuate through the marked lanes. Follow local crews."
-
-"Take the crown."
-
-"There is no crown. I gave it back seven months ago and meant it."
-
-The crowd moves because he speaks.
-
-His refusal still functions as command.
-
-There is no clean exterior to power once enough people project it onto a body — not even seven months of proof that he'd actually let it go.
+Nobody kneels. Several people record him anyway.
 
 ---
 
-The fifth strike kills Celia Park.
+Outside the hall, government does not stop.
 
-She is moving the Sideways physical reference clock out of the east lab when a targeted round crosses the service yard.
+The north harbor council closes one berth and keeps two working. Pelangi's
+clinic accepts local witnesses after the shared credential channel goes dirty.
+Three farming settlements reject a seed instruction bearing Henley's key and
+plant from their own ledgers. A cloister chapter refuses a Union order to
+mobilize every available man and still sends two voluntary convoy crews.
 
-The clock survives in its case.
+None asks Eli.
 
-Park does not.
+What they cannot settle locally begins stacking between them. Two clinics claim
+the same dialysis shipment. A boat carrying displaced children has permission
+to leave one jurisdiction and no clean receiving attestation in the next. One
+island has cassava and no milling parts. Another has rice seed and no confidence
+that the rain will come. The Mandate will hold its ceasefire corridor for six
+more hours without a verified counterparty.
 
-Rasel reaches her after Mina.
+The towns have not failed.
 
-The medical account takes forty seconds.
+The roads between them are beginning to.
+
+---
+
+Northstar Continuity arrives on the fourth day with a custody order for the
+Sideways physical reference clock.
+
+The order calls the clock a strategic forecasting instrument.
+
+Celia Park calls it what it is.
+
+"A reference," she says. "It tells us when the models disagree with themselves.
+It does not tell you whether wheat will grow."
+
+Northstar's counsel says a reference this valuable cannot remain under local
+custody during a continental food emergency.
+
+"That sentence is why it stays."
+
+The repair vehicle at the east gate carries valid contracts with three blocs.
+Its security drone carries no compact warrant.
+
+When the gate crew refuses entry, the drone crosses the service yard.
+
+Celia is moving the clock into its transit case when the round finds her.
+
+The clock survives.
+
+She does not.
+
+Rasel reaches her after Mina. The medical account takes forty seconds.
 
 No pulse.
 
@@ -350,51 +294,110 @@ Catastrophic head injury.
 
 No intervention.
 
-Rasel sits in the yard with one hand on the clock case and blood on his sleeve.
+The crowd at the allocation desks hears the shot before it knows what happened.
+One door locks under Northstar's emergency code. The other opens inward against
+people already pressing through it.
 
-Commissioner Ma's channel requests confirmation that the research record survived.
+Wren reaches Asha beneath a fallen display frame.
 
-Rasel closes the channel.
+Asha is conscious. Blood runs from one ear. A metal edge has entered below her
+collarbone.
 
-For five minutes, peace waits for a grieving man to decide whether an object should travel before the person who carried it.
+"Ledgers," she says.
 
-Then he sends the reference clock with Park's named custody record.
+"People first."
 
-Not because the science matters more.
+"That is why I said ledgers. They contain objections."
 
-Because she designed it to survive her.
+Wren gives one to Rowan and one to a young Weaver from the north house. The
+third is digital and already locked behind Henley's disputed credential.
 
-The ceasefire negotiation continues without its principal Union physicist.
+Living attestations leave by seven routes.
 
-Loss does not make continuity immoral.
+Not copies of identity.
 
-Erasing the person to praise continuity would.
+People who can say whom they saw, what they witnessed, and which objections
+remained unresolved.
+
+The Weavers become government while evacuating one room. The cloisters hold the
+medical lane, refuse general remobilization, and ask each available person for a
+named task and an exit.
+
+The old institutions call this delay.
+
+The people carried out alive call it something else.
 
 ---
 
-Eli enters the hall again after the active strikes end.
+That night a station teaching begins moving through Sol channels and then
+through one Union-controlled ground:
 
-The delegate floor is wet from sprinklers. One gantry hangs at an angle. The seven verification desks are damaged, missing, or compromised.
+**ONLY THE CHOSEN VOICE CAN PRESERVE THE PEOPLE.**
 
-Amina Cole is unaccounted for after her transport route diverted.
+It bears three artifact signs and no provenance. Cuno's grammar catches the lie.
+The message reports no loss in transit. Three separate teachings have been
+pressed into one clean instruction.
+
+Local keepers refuse forwarding.
+
+The Union ground transmits anyway.
+
+By morning people gather outside the west gate asking Eli to direct the grain.
+
+He steps onto the loading platform with Asha's damaged objection ledger.
+
+"The message you received erased this," he says.
+
+"Lead us," someone calls.
+
+"Follow your local crews. Send disputed routes to public review."
+
+"Take command."
+
+"For which grain? For how long? Under whose count?"
+
+The questions anger them because questions do not open a silo.
+
+The crowd moves when he marks the medical lane.
+
+His refusal still functions as command.
+
+---
+
+On the sixth day, three jurisdictions suspend their cross-route delegates. Two
+say the compact cannot protect stores. One says the compact is becoming a grain
+state. All three continue governing locally.
+
+The seven-desk system can authenticate a record. It cannot produce a common
+obligation when half the parties reject the authority that would enforce it.
+
+No quorum can certify the emergency allocation calendar.
+
+No clean calendar means the *Tern*, the dialysis shipment, six seed contracts,
+and the northern evacuation corridor all remain disputed.
+
+The dormant continuity clause does not activate itself.
+
+The surviving institutions vote on whether to invoke it.
+
+Eli enters the hall as a private citizen while they decide whether to ask him
+to leave it that way.
+
+The hall is still standing.
+
+The east lab is sealed around Celia's blood. One verification desk answers to
+Henley's credential, two answer to the compact, and four refuse any allocation
+record touching the disputed grain.
 
 Asha is in surgery.
 
-Owen remains at the perimeter and cannot leave without collapsing the appeal process.
+Amina Cole has not reached the hall after House Ilyara diverted her from a port
+where crowds were searching incoming passengers for hidden ration keys.
 
 Park is dead.
 
-Malia's local council revokes use of the repair hall until safety review.
-
-Captain Velez's clinic vessel has been ordered away to receive casualties.
-
-Tarek remains sedated.
-
-No seven-person council can verify itself today.
-
-No quorum can prove that the surviving records are clean.
-
-The attack has done, in one afternoon, what it would have taken a hostile state years to argue: it has made seven months of proof feel like an accident that finally ran out of luck.
+The government has not lost its people all at once. It has lost agreement about
+what those people may bind one another to do.
 
 The Union jurist finds the dormant clause and reads it aloud — the same clause that was read into the record seven months ago and answered, on tape, in front of witnesses: *understood and not needed.*
 
@@ -402,7 +405,7 @@ The Union jurist finds the dormant clause and reads it aloud — the same clause
 
 "His authority ended cleanly seven months ago," Amara says through a surviving screen. "Ending it a second time on purpose is not the same as it never having ended."
 
-"No one is arguing it wasn't real," Wren says. "We're arguing what happens now that something tried to prove it wasn't."
+"No one is arguing it wasn't real," Wren says. "We're arguing what happens now that nobody agrees who can move food across a border."
 
 "Convenient, that the door was left unlocked."
 
@@ -416,17 +419,17 @@ Every faction understands the incentive.
 
 Eli's supporters want the vote to pass.
 
-Union continuity officials prefer one known coordinator to a fractured council under fire.
+Union continuity officials prefer one known coordinator to a fractured allocation council.
 
-Weaver houses now possess the attestations required to end the crisis without him, and vote knowing that, and vote yes anyway, because ending it without him today would cost more than it would prove.
+Weaver houses possess the receiving attestations needed to move families and cargo, but not the authority to decide which claim outranks another. They vote yes rather than convert trusted passage into hidden allocation power.
 
-Cloister crews now possess the perimeter force required to keep an assembly alive, and vote the same way, for the same reason.
+Cloister crews possess enough convoy capacity to choose routes by force. They vote yes rather than pretend an escort has the right to decide who eats.
 
 Sol's people benefit from a visible king they can pressure, oppose, or convert.
 
-Crane benefits from every hour distributed verification looks less reliable than his registry.
+Lang benefits from every hour distributed verification looks less reliable than his registry.
 
-Unknown attackers benefit most if no successor is ever trusted again.
+Route cartels benefit from every day no public allocation calendar can be trusted.
 
 The vote passes.
 
@@ -434,7 +437,7 @@ Eli does not cast one.
 
 Wren finds him before the result is read aloud.
 
-"You understand what we're doing," she says. "We're not undoing seven months. We're admitting it needs defending, once, on purpose, by people who watched it work."
+"You understand what we're doing," she says. "We're not undoing seven months. We're admitting the roads need coordinating, once, on purpose, by people who watched the towns work without you."
 
 "I understand."
 
@@ -446,7 +449,12 @@ Wren finds him before the result is read aloud.
 
 One line goes up on the surviving display, not as a legal default but as a recorded, witnessed choice:
 
-**CONTINUITY COORDINATOR (REINSTATED BY VOTE): ELI HOLT.**
+**CROSS-ROUTE CONTINUITY COORDINATOR (REINSTATED BY VOTE): ELI HOLT.**
+
+Below it, Wren adds the limit before anyone can call the title short.
+
+**NO LOCAL AUTHORITY. PURPOSE: SHARED CORRIDORS, CONTESTED SUPPLY, CEASEFIRE,
+RECERTIFICATION.**
 
 He looks for Wren.
 
@@ -462,7 +470,7 @@ Both matter.
 
 Rowan finds him in the west service corridor.
 
-His left hand has begun shaking. The field reversal reopened the old injury and left bright gaps in his vision.
+His left hand has begun shaking. The shot, the crowd, and six days without sleep have reopened the old injury and left bright gaps in his vision.
 
 "Sit," she says.
 
@@ -554,6 +562,9 @@ No force synchronization.
 
 No identity registry.
 
+No order to a farm, clinic, school, water council, harbor, or local defense
+whose decision does not cross another jurisdiction.
+
 The review authorizes another twenty-four hours, on the record, by name, with an expiry clock visible to everyone in the room — the thing that didn't exist the first time this happened, because the first time didn't need it.
 
 Outside the chamber, Weaver delegates and cloister councils begin the work of proving, a second time, that borrowed authority can still be returned on schedule.
@@ -601,8 +612,8 @@ The court does not officially exist.
 
 This is what everyone calls it.
 
-The review chamber occupies a repaired machine bay beside the hall where the
-attack happened. Eli works at a table on the floor. Delegates enter through two
+The review chamber occupies a repaired machine bay beside the east lab where
+Celia died. Eli works at a table on the floor. Delegates enter through two
 public doors under compact witness. Every twenty-four hours, the constituent
 remnants decide whether the continuity clause remains active.
 
@@ -732,7 +743,7 @@ one seat.
 Union continuity officials support it until they learn technical custody does
 not mean central custody.
 
-Crane sends a six-page note explaining why every distributed attestation
+Lang sends a six-page note explaining why every distributed attestation
 eventually recreates his identity tier badly.
 
 Nobody invited him.
@@ -759,27 +770,24 @@ Asha watches by screen.
 
 ---
 
-The attack inquiry works from layers.
+The Lean Year inquiry works from claims.
 
-No layer explains the whole.
+No claim explains the whole.
 
-Tarek's stolen key used a Union continuity cipher issued from Minister Jonas
-Vale's office. Vale says the cipher escaped during San Francisco. Logs show his
-staff accessed the dormant credential two days before the handover.
+The order redirecting the *Tern* used a Union continuity cipher issued from
+Minister Jonas Henley's office. Henley says the warm sites would otherwise have
+received nothing. Logs show his staff reviewed the grain destination before
+any public export hold.
 
-The reversed field-damping unit contains parts purchased by a Sol-linked relief
-front and firmware written by a contractor that also serves Union security.
+A Sol-linked relief front cut open a concealed depot, then withheld the truck
+ledger after the fourth vehicle disappeared.
 
-The counterfeit station teaching uses Sol's unity language but travels first
+The counterfeit station teaching uses Sol's unity language and travels first
 through a ground under Union control.
 
 The drone that killed Celia Park was launched from a civilian repair vehicle
 leased by Northstar Continuity, a private contractor with clients in three
 blocs.
-
-Somebody coordinated timing.
-
-Or several actors watched the same vulnerability and arrived together.
 
 The court wants one villain.
 
@@ -787,15 +795,15 @@ One villain produces one trial, one ending, one clean restoration of trust.
 
 Wren refuses the shape.
 
-"Vale loses access pending adjudication," she tells Eli. "The Sol cell gets a
+"Henley loses access pending adjudication," she tells Eli. "The Sol cell gets a
 conduct warrant. Northstar's licenses freeze where the compact has
 jurisdiction. The station ground enters independent custody."
 
-"And the coordinator?"
+"What connects them?"
 
-"Unknown."
+"The shortage. They did not need one another."
 
-"Crane?"
+"Lang?"
 
 "Benefits. No proof."
 
@@ -963,7 +971,7 @@ The rules double her work.
 
 They also make the doors legible.
 
-Minister Vale appeals his suspension.
+Minister Paul Henley appeals his suspension.
 
 Malik appeals a denied Sol delegation.
 
@@ -978,7 +986,7 @@ Wren records it.
 
 Rowan's western delegation arrives at the harbor in rain.
 
-The official audience list schedules them for three days later, after Vale's
+The official audience list schedules them for three days later, after Henley's
 appeal and a continuity-law briefing.
 
 Wren did not approve the order.
@@ -1014,7 +1022,7 @@ pump part wrapped in a towel.
 
 Rowan hands her the case.
 
-"This disqualifies Vale from succession certification."
+"This disqualifies Henley from succession certification."
 
 "Proof?"
 
@@ -1061,7 +1069,7 @@ Rowan notices Eli's mouth during an argument about evidence.
 
 This is inconvenient.
 
-They stand on opposite sides of the public filing desk while Minister Vale's
+They stand on opposite sides of the public filing desk while Minister Henley's
 counsel demands the western witness enter protective custody before speaking.
 
 "Custody under whose office?" Rowan asks.
@@ -1076,7 +1084,7 @@ counsel demands the western witness enter protective custody before speaking.
 
 Eli says, "She testifies in public or through a holder she chooses."
 
-Vale's counsel turns to him.
+Henley's counsel turns to him.
 
 "Coordinator, this witness possesses restricted cipher information."
 
@@ -1103,19 +1111,19 @@ They no longer explain all of it.
 
 ---
 
-The western witness is Elena Ruiz, former communications custodian in Vale's
+The western witness is Elena Ruiz, former communications custodian in Henley's
 continuity office.
 
 She testifies from behind a transparent screen by her own choice. No face
 broadcast leaves the room.
 
-After San Francisco, Vale's office received an order to destroy dormant
+After San Francisco, Henley's office received an order to destroy dormant
 credentials compromised during evacuation. Elena watched a deputy preserve
 three under a sealed continuity exception.
 
-Tarek's was one.
+The grain-routing key used on the *Tern* was one.
 
-"Did Minister Vale give the order?" asks his counsel.
+"Did Minister Henley give the order?" asks his counsel.
 
 "He signed the exception."
 
@@ -1123,26 +1131,26 @@ Tarek's was one.
 
 "The attached list carried all three."
 
-"Did he order the attack?"
+"Did he order the diversion?"
 
 "I have no evidence of that."
 
-"Did he know anyone would misuse the key?"
+"Did he know the key could supersede the compact allocation?"
 
 "I have no evidence of that."
 
 The counsel turns toward the assembly.
 
-"Then this proves prudent preservation exploited by an enemy."
+"Then this proves prudent preservation used during an emergency."
 
 Elena opens her own copy of the exception.
 
 "The stated purpose was to preserve emergency succession options outside the
 compact certification process."
 
-Vale did not need to plan the attack.
+Henley did not need to cause the shortage.
 
-He kept a hidden door through which an attack could make his office necessary.
+He kept a hidden door through which shortage could make his office necessary.
 
 The technical record confirms the signature.
 
@@ -1151,7 +1159,7 @@ The relational record shows Elena objected and was reassigned.
 The embodied account is her presence, pulse visible at her throat, refusing
 protective custody while the office she served calls her confused.
 
-Vale loses eligibility for the successor council pending full adjudication.
+Henley loses eligibility for the successor council pending full adjudication.
 
 His supporters call the removal a Weaver coup.
 
@@ -1424,7 +1432,7 @@ for them. She is in the network residence, available by choice and expecting
 Rowan the following evening.
 
 Rowan goes to Eli's room because they have finished work, eaten, argued about
-Vale's replacement, and still want one another when nothing urgent remains.
+Henley's replacement, and still want one another when nothing urgent remains.
 
 At the door, she stops him.
 
@@ -1657,18 +1665,8 @@ become attention. They make each other less ceremonial. Rowan can tell Eli his
 premise is foolish without making him defend his right to exist. Eli asks for
 her reaction before the advisers finish speaking.
 
-Wren sees a future-facing quality in it.
-
-Construction.
-
-It frightens her.
-
-Not because either has withdrawn choice.
-
-Because the court recognizes construction better than recognition or
-discovery.
-
-It knows how to turn a man and woman, ruler and possible mother, into a line
+Wren sees them making plans they will have to inhabit. The court sees it too.
+It has forms ready for a man and woman, a ruler and a possible mother, a line
 that continues.
 
 The public language gathers around Rowan.
@@ -1755,7 +1753,7 @@ Humane power has begun learning the irritation of being answerable.
 
 The pro-dynasty coalition requests a household declaration.
 
-Its chair, Sabine Rook, was a Union constitutional mediator before the old
+Its chair, Sabine Novak, was a Union constitutional mediator before the old
 government broke. She is neither zealot nor gossip.
 
 "The continuity crisis is prolonged by ambiguity," she tells the three in a
@@ -1773,7 +1771,7 @@ factions manufacture hierarchy because you refuse to state one."
 
 "There isn't one."
 
-Rook folds her hands.
+Novak folds her hands.
 
 "If Eli is incapacitated, who speaks?"
 
@@ -1816,7 +1814,7 @@ Continuing obligation when present desire cannot speak.
 
 "Then law can name the conflict."
 
-Rook looks toward the gallery.
+Novak looks toward the gallery.
 
 "The public requires more than beautiful uncertainty."
 
@@ -1824,7 +1822,7 @@ Rook looks toward the gallery.
 
 The session ends without declaration.
 
-Rook's coalition gains support.
+Novak's coalition gains support.
 
 Its strongest argument is not morality.
 
@@ -1943,7 +1941,7 @@ Two Weaver protection circles.
 
 The men's household liaison.
 
-Rook's coalition requested access and was denied.
+Novak's coalition requested access and was denied.
 
 "Rowan first," Wren says.
 
@@ -2284,6 +2282,66 @@ His silence is participation without center.
 
 ---
 
+The collapse does not grant them a second clean day.
+
+A dry cold reaches the northern grain districts before the harvest crews do.
+Farther south, rain comes late and then hard enough to lift seed from the
+terraces. Neither event proves the worst forecast. Both are enough to make
+people trade as if it has already come true.
+
+Costa Rica refuses the first northern evacuation number.
+
+The Limón–Tortuguero receiving councils, speaking with the Reventazón nursery
+network inland, return counts instead of hemispheric gratitude. The court
+requested twelve thousand places and called the corridor a shared obligation.
+They answer with clinic beds, liters of water, roofs that held through the last
+rain, roofs that did not, families already waiting, two roads with unstable
+slopes on the Caribbean side. Then the counts continue: shade at the hottest
+crossings, nursery losses above Turrialba, fruit expected before the dry
+months, young roots on the roaded hill above the clinic. They offer places for
+three thousand one hundred and eighty named people, reviewable in ten days.
+
+A Continuity delegate calls the refusal a betrayal of the Eagle and Condor.
+
+The reply comes from a Costa Rican route clerk in Limón—**Yuliana Mora**, who
+keeps a thermos of coffee under the desk and will not let the Continuity man
+speak until she has poured for the local nursery lead first. Chemistry before
+theology. The nursery lead drinks. Then Yuliana reads the line:
+
+**FLYING TOGETHER DOES NOT MEAN LANDING ON US.**
+
+A court contractor sends back a faster plan. Clear the living strip beside the
+road. Put the shelters there. Replace what was cut with one certified tree that
+grows quickly and reports cleanly to the northern models.
+
+The reply includes a photograph of coffee under mixed shade, a culvert crowded
+with roots, and the slope above the clinic after rain.
+
+**TWELVE THOUSAND FIT ON YOUR MAP. THEY DO NOT FIT THROUGH MARCH.**
+
+The councils mark stormfall for beams. They open already hardened ground for
+temporary roofs and divide the planting order among several locally chosen
+species. The intake number does not change.
+
+The smaller movement begins that evening. It reaches the next harbor alive.
+
+A storm closes two sea routes while replacement water membranes are still on
+the third. Leaf disease appears in nurseries that shared the same emergency
+stock. A retaliatory patrol closes a bridge after somebody fires on an
+unmarked convoy. Conflicting emergency keys corrupt pump instructions three
+jurisdictions away. None of it has one author.
+
+The outcomes refuse symmetry. Pelangi rewinds its pumps by hand and stays open.
+The north harbor rations berth power and keeps medicine moving. One mountain
+council closes its gate to new arrivals and posts armed men beside the cistern.
+West Slope waits for a central membrane allocation that never becomes clean
+enough to authorize. Salt reaches its storage tanks. The settlement evacuates
+and does not reopen.
+
+Eli can negotiate the route between two councils. He cannot order either one
+to receive a family, surrender water, plant a crop, or call its defense home.
+The distinction frustrates everyone most when it matters.
+
 The transfer package takes shape over the next month.
 
 Seven coordination seats become nine, so one death cannot produce easy deadlock.
@@ -2375,19 +2433,19 @@ Desire remains desire even when pregnancy becomes possible.
 
 ---
 
-The attack inquiry finds the delays in the same week.
+The Lean Year inquiry finds the delays in the same week.
 
-Vale's office preserved the cipher because uncertainty kept continuity authority
+Henley's office preserved the cipher because uncertainty kept continuity authority
 inside his institution.
 
-Northstar delayed release of drone telemetry while negotiating renewed security
-contracts.
+Northstar delayed release of the service-yard telemetry while negotiating
+renewed security contracts.
 
-A Sol-linked relief front withheld the field-unit purchase record until its
-people could frame the strike as proof of revolution.
+A Sol-linked relief front withheld the fourth-truck ledger until its people
+could frame the depot seizure as proof of revolution.
 
 House Ilyara received an attestation capable of restoring quorum eleven hours
-after the attack.
+after the allocation vote failed.
 
 It delivered the attestation four days later.
 
@@ -2403,7 +2461,7 @@ It also prolonged Eli.
 
 The custody record names a senior Weaver:
 
-Seleni Var.
+Selin Aras.
 
 She was among the first people to teach Wren that a correct placement sometimes
 requires a lie at the door.
@@ -2418,7 +2476,7 @@ Rowan watches Wren read the name.
 
 "That is no longer the useful question."
 
-The inquiry summons Seleni.
+The inquiry summons Selin.
 
 Before she appears, a private clinical notice reaches Rowan:
 
@@ -2430,7 +2488,7 @@ The court has already begun using the word heir.
 
 ## Chapter Five—The Rumor
 
-Asha interviews Seleni Var with her damaged hand visible.
+Asha interviews Selin with her damaged hand visible.
 
 Not for sympathy.
 
@@ -2438,7 +2496,7 @@ Because institutions behave differently when the cost of their survival sits at
 the table.
 
 The review room has one door, two public observers, and no Weaver guard.
-Seleni notices every choice before sitting.
+Selin notices every choice before sitting.
 
 "You transferred the ledger," she says.
 
@@ -2453,7 +2511,7 @@ witness."
 
 "People died when we kept the right questions private."
 
-Seleni is in her seventies and still carries the quiet authority of someone who
+Selin is in her seventies and still carries the quiet authority of someone who
 has placed thousands of people without once describing herself as powerful. She
 taught Wren how to use ordinary rooms against predatory systems. She also taught
 three generations of Weavers that external review could not understand the
@@ -2462,7 +2520,7 @@ ethics of protection.
 Asha opens the custody record.
 
 "House Ilyara received the Mensah quorum attestation eleven hours after the
-attack."
+allocation vote failed."
 
 "A damaged witness reached us."
 
@@ -2480,13 +2538,13 @@ attack."
 
 "Did she ask you to?"
 
-Seleni does not answer.
+Selin does not answer.
 
 The room records the absence.
 
 "Amina Cole," Asha says.
 
-Seleni's face changes by less than a breath.
+Selin's face changes by less than a breath.
 
 "Alive?"
 
@@ -2518,7 +2576,7 @@ The word alive enters the observers before Asha can contain it.
 
 "Able to choose?"
 
-Seleni looks toward the public observers.
+Selin looks toward the public observers.
 
 "This room is not neutral."
 
@@ -2527,7 +2585,7 @@ Seleni looks toward the public observers.
 The next record is a message from Amina, delivered through an independent
 sanctuary desk that no longer accepts Ilyara custody.
 
-**I ASKED TO RETURN ON DAY SIX. SELENI SAID THE ROUTE WAS UNSAFE. ON DAY NINE I
+**I ASKED TO RETURN ON DAY SIX. SELIN SAID THE ROUTE WAS UNSAFE. ON DAY NINE I
 LEARNED THE ASSEMBLY STILL LACKED QUORUM.**
 
 Amina's attestation could have certified two missing delegates and allowed a
@@ -2562,7 +2620,7 @@ Protection and power occupying the same room.
 
 "Both."
 
-Seleni's composure breaks.
+Selin's composure breaks.
 
 "Do you think public office will protect the houses? They will standardize
 attestation, demand names, train clerks, and call our refusal corruption."
@@ -2571,13 +2629,13 @@ attestation, demand names, train clerks, and call our refusal corruption."
 
 "You speak from the office they gave you."
 
-"I speak from the bed the attack gave me."
+"I speak from the bed the service-yard shooting gave me."
 
 Asha lifts her right hand.
 
 The fingers do not fully answer.
 
-"We saved the assembly," Seleni says.
+"We saved the assembly," Selin says.
 
 "Yes."
 
@@ -2585,7 +2643,7 @@ The fingers do not fully answer.
 
 "It gives us standing. It does not give us innocence."
 
-Seleni hears her own lesson returned in altered form.
+Selin hears her own lesson returned in altered form.
 
 The review suspends her custody authority pending adjudication.
 
@@ -2631,11 +2689,8 @@ system outside the room.
 
 "Medication?"
 
-Mina reviews the list.
-
-Ordinary medicine first.
-
-Ordinary uncertainty.
+Mina reviews the list she would use for any early pregnancy and circles the
+places where she does not know enough.
 
 No glowing sign.
 
@@ -2667,11 +2722,8 @@ She tells him directly.
 
 "I'm pregnant."
 
-Eli sits.
-
-Not because the moment is sacred.
-
-His knees fail to understand the next task.
+Eli reaches for the chair and catches it with the back of his knee. He sits
+hard.
 
 "Are you—"
 
@@ -2712,9 +2764,7 @@ closed partition and does not turn privacy into disappearance.
 
 "Yes."
 
-Fatherhood gives him relationship.
-
-Not the list.
+Eli folds his hands between his knees. He does not ask again.
 
 ---
 
@@ -2726,13 +2776,9 @@ No witness.
 
 Rowan tells her.
 
-Wren's first feeling is happiness so clean it hurts.
-
-Her second is loss.
-
-Not a person lost.
-
-A future closing around a biological fact she cannot share.
+Wren's first feeling is happiness so clean it hurts. Then she sees the public
+family portraits before anyone has taken one, the empty place where the court
+will put her, and hates that this arrives so quickly.
 
 She hates herself for the sequence and refuses to lie about it.
 
@@ -2797,22 +2843,13 @@ The entry says:
 **MATERIAL PRIVATE CHANGE AFFECTING POSSIBLE SECURITY AND SUCCESSION
 CONFLICTS. SUBJECT CONTROLS DISCLOSURE.**
 
-The wording is ugly.
-
-Ugly wording can protect beautiful things from institutional appetite.
-
 Appointment metadata leaks before the day ends.
-
-Not the test.
-
-Not the result.
-
 One delayed clinic entry. Eli's unscheduled arrival. Wren's conflict notice.
 Mina's request for prenatal supply availability with no patient named.
 
 The court assembles a pregnancy from shadows.
 
-Rook's coalition issues no confirmation.
+Novak's coalition issues no confirmation.
 
 It announces a public gathering:
 
@@ -2845,7 +2882,7 @@ said she is pregnant.
 
 Wren cancels the venue authorization.
 
-Rook appeals within nine minutes.
+Novak appeals within nine minutes.
 
 Outside the review house, crowds begin gathering anyway.
 
@@ -2921,7 +2958,7 @@ succession process. My medical information remains mine. Pregnancy does not
 change my delegate authority except where I choose or where a specific bodily
 limit makes work impossible."
 
-Sabine Rook stands.
+Novak stands.
 
 "No one asks to own your body."
 
@@ -3218,7 +3255,33 @@ He looks toward the security chief.
 The easy answer is to move Rowan into a safer, kinder room while reviewing
 procedure.
 
-"Yes," he says.
+The security chief offers another version.
+
+"The Costa Rican maternal network has surgical capacity. We can transfer her
+under sealed continuity protection."
+
+"No," Wren says.
+
+"You have not reviewed the site."
+
+"I reviewed their reply. They accept patients. They declined the category
+*protected dynastic continuity*."
+
+Rowan looks at Eli.
+
+"You asked another country to receive me before asking me whether I was going?"
+
+He did not ask. The office attached to his authority did.
+
+The distinction is legally important again.
+
+It does not answer her.
+
+"I didn't know they asked," he says.
+
+"That isn't an answer."
+
+"No." He looks at the security chief. "And yes. Revoke the hold."
 
 He revokes the hold in public.
 
@@ -3337,6 +3400,243 @@ law without consenting to symbolize any of them.
 
 ## Chapter Seven—The Two Houses
 
+The first regional games of the Lean Year are held in a freight yard because
+the stadium roof belongs to the clinic now.
+
+Nobody proposes postponement.
+
+The settlements have postponed enough things into extinction.
+
+Children run the short course in the morning. They carry empty filter housings
+through painted gates, trade them at the line, crawl under a length of net, and
+finish by fitting three wooden shapes into the mouth of a broken pump. The
+youngest forget the course. Older children double back for them and lose.
+
+Adults cheer louder for that than for speed.
+
+By noon the yard holds two repair exchanges, a seed table, six kitchens, an
+appeal clerk, a row of hand-built timing lamps, and enough betting to keep Wren
+from believing the day innocent.
+
+The old network board failed before the second heat. Its manufacturer no
+longer recognizes the yard's certification key. Two apprentices open the back,
+remove the sealed timing cell, and replace it with three light gates whose code
+is projected on a sheet for anyone to inspect.
+
+The crowd complains about the delay.
+
+Then three people find an error.
+
+The apprentices fix it in public.
+
+The main event is a route relay built from work no one can romanticize: lift,
+balance, signal, hand off, climb. The loads are weighted like medicine cases.
+The final runner must cross a narrow beam with a ceramic insulator in both
+hands. Dropping it adds time. Breaking it disqualifies the team.
+
+North Harbor races Pelangi in the fourth heat.
+
+The children use the roof chant to count the first lift.
+
+Three notes up. Two notes back.
+
+A Pelangi coach changes the answer to the settlement name. By the second
+repetition, the opposite stand answers with its own.
+
+The work rhythm becomes a border in less than a minute.
+
+Leilani walks over and takes the coach's clapper.
+
+He says he was building spirit.
+
+"Build it without borrowing the children," she says.
+
+She gives the clapper to a girl in a West Slope shirt. West Slope has no yard
+and no team. The girl restores the old answer, badly at first. Both stands have
+to listen to follow her.
+
+North Harbor wins the heat by four tenths.
+
+Their last runner, Tala Mirov, reaches the beam already behind. Halfway across,
+her body settles. Not visibly enough for most of the yard. Wren feels the air
+draw narrow beside her, the way a room does when one person's balance is being
+held by another nervous system.
+
+Tala crosses without touching a foot down.
+
+The green lamp fires.
+
+Pelangi's last runner throws the unbroken insulator at the ground.
+
+It glances off the beam and strikes a child above the eye.
+
+For three seconds the yard has no politics. Medics from both teams are on their
+knees. Tala holds the child's hands. The Pelangi runner stands where he threw
+the thing and says, "I did that," before anyone can give him a kinder sentence.
+
+Then the settlement flags begin moving.
+
+Cheat travels faster than the medics.
+
+Psion follows.
+
+Someone behind Wren says they should never have been allowed in the same heat.
+
+The rules do not classify competitors by what they are. They prohibit external
+field assistance during an active leg, just as they prohibit powered braces
+outside the declared equipment class. A violation belongs first to the act and
+then to whoever committed it.
+
+That distinction lasts until anger finds a shorter word.
+
+A cloister captain walks the Pelangi edge with red cords looped over his wrist.
+He tells the runners that people who train together should defend
+together. He says the court lets gifted bodies steal from ordinary ones and
+then asks ordinary bodies to guard the peace.
+
+Two runners take cords.
+
+One of them looks toward an older man beside the water station before closing
+his fist.
+
+"Ren," the man says.
+
+"Don't tell me to give it back."
+
+"I won't."
+
+Ren looks surprised enough to become younger.
+
+The man wears a repaired antler stitched inside his collar, visible only where
+the seam has opened.
+
+"But this is not your turning," he says.
+
+"I didn't say it was."
+
+"You looked at me."
+
+The captain holds out another red cord to someone else.
+
+"What are you turning toward?" the older Stag asks.
+
+Ren watches the cord change hands.
+
+"Them."
+
+"For what role?"
+
+"I don't know."
+
+"What ends it?"
+
+Ren says nothing.
+
+"Who gets to tell you that you became the danger?"
+
+"This is why nobody asks the houses before a fight."
+
+"A house is where you practice becoming someone who can answer after one. It
+doesn't choose the fight."
+
+The other runner knots his cord around his wrist.
+
+Ren gives his back.
+
+The older Stag does not praise him. He takes Ren to help clear space around the
+injured child.
+
+Malik sees him before Wren reaches them.
+
+"Recruiting is closed here," Malik says.
+
+"They asked."
+
+"You brought sizes."
+
+The captain looks toward Eli's distant security detail, making the refusal a
+test of loyalty.
+
+Malik takes the remaining cords and drops them into a wash bucket.
+
+The captain shoves him.
+
+North Harbor mechanics leave their equipment table. Pelangi freight workers
+close from the other side. Half the people approaching have fought beside one
+another. That does not make the moment safer.
+
+The child's medic stands up with blood across both palms.
+
+"Move this somewhere I don't have a patient."
+
+It is not a plea.
+
+They move.
+
+The field review takes forty-two minutes.
+
+Tala submits her declared equipment record and refuses a mind-read. The refusal
+does not count against her. The open timing lamps show a second field signature
+entering the beam from the east stand. Three ordinary camera angles place a
+grain broker named Venn under the signal mast at the same time. His credit slate
+holds wagers placed through four kitchens and two repair stalls.
+
+Venn says he only steadied a frightened runner.
+
+Tala turns on him.
+
+"You entered me."
+
+He says he never touched her thoughts.
+
+"You used my body to settle your account."
+
+The officials void the heat. They do not disqualify Tala. Venn loses his market
+table for the day and cannot bid on new public supply contracts pending an
+outside appeal. His grain is not burned or seized. The kitchens buy it through
+two other sellers at the posted staple rate because punishment is not allowed
+to become a food shortage.
+
+Pelangi's runner accepts suspension for the throw and asks to speak to the
+injured child's family. The family declines.
+
+The refusal is entered without criticism.
+
+One service house offers the North Harbor team a cleansing silence before it
+will serve them. Tala asks what is being cleansed.
+
+The host says only the disturbance.
+
+The kitchen beside them carries its pots across the aisle. By supper the first
+house has lost its hospitality badge for the day, though its members remain
+free to pray, eat, and argue. They sit in a tight group and call the decision
+persecution.
+
+No one resolves this before dark.
+
+The games continue with a shorter course and independent spotters at the beam.
+North Harbor and Pelangi do not rerun their heat. Their mechanics still finish
+the brace they had agreed to build for West Slope. Pelangi's medic changes the
+dressing over Tala's old ankle injury. Tala does not thank the team whose runner
+hurt a child. She thanks the medic by name.
+
+At the long tables, people sit with their settlements until the food begins to
+move.
+
+Then the bowls ignore the flags.
+
+Wren watches a runner who had taken a red cord show a North Harbor child
+how to brace a cracked filter housing. Across from him, Venn's sister records
+statements for the appeal against her own brother. The service house that lost
+its badge sings after eating. Nobody joins them. Nobody makes them stop.
+
+Harmony is too clean a word for it.
+
+There are only too many unfinished relationships for one hatred to govern at
+once.
+
+---
+
 By the sixth month, the court has built two chambers it pretends are waiting
 rooms.
 
@@ -3405,8 +3705,8 @@ Malik sits beside him wearing no red scarf.
 Across the yard, House Nacre proposes sole Weaver authority over living
 attestation.
 
-Seleni's suspension has radicalized the senior houses. They argue no scalable
-system can protect intimate truth without reproducing registry ownership.
+Selin's suspension has radicalized the senior houses. They argue no scalable
+system can protect intimate truth without turning confidence into registry material.
 
 Asha answers from the review table.
 
@@ -3425,10 +3725,10 @@ Amina Cole lifts her cane.
 She has returned thinner, still dizzy when standing, and unwilling to let
 survival be mistaken for endorsement.
 
-"You saved me from Union custody," she tells Seleni. "Then kept saving me after
+"You saved me from Union custody," she tells Selin. "Then kept saving me after
 I asked you to stop."
 
-Seleni receives the sentence without defense.
+Selin receives the sentence without defense.
 
 "I believed return would put you in danger."
 
@@ -3515,7 +3815,7 @@ office."
 
 The praetorian chapters hear betrayal.
 
-The constitutional houses hear proof.
+The constitutional chapters hear proof.
 
 Neither stops wanting his personal blessing.
 
@@ -3584,7 +3884,7 @@ don't want romance to decide it."
 
 "Residence?"
 
-"Not automatic. I want rooms in the child's life, not ownership of every room."
+"Not automatic. I want rooms in the child's life, not a key to every room."
 
 Rowan looks down at the clothes between them.
 
@@ -3618,14 +3918,16 @@ The child moves under Rowan's hand while the filing transmits.
 
 ---
 
-The attack inquiry issues its layered findings.
+The Lean Year inquiry issues its layered findings.
 
-Minister Vale's office preserved credentials to retain an emergency succession
-path outside compact control. No evidence proves Vale ordered their theft.
+Minister Henley's office preserved credentials to retain an emergency grain
+path outside compact control and redirected the *Tern* toward a survival-roster
+harbor. The destination may have saved people. The concealed authority denied
+every other claimant a hearing.
 
-A Sol-linked cell built the field reversal and counterfeit unity teaching. Its
-leaders intended seizure, though surviving records do not prove they chose the
-exact hour.
+A Sol-linked cell opened the depot and circulated the counterfeit unity
+teaching. Its leaders exposed concealed grain, favored their own district, and
+failed to account for the fourth truck.
 
 Northstar Continuity targeted Sideways custody and killed Celia Park while
 serving overlapping clients. Its command chain terminates in shell entities.
@@ -3636,28 +3938,30 @@ after immediate danger to secure Weaver standing.
 Union station personnel forwarded the counterfeit teaching after local keepers
 objected.
 
-An unknown coordinator supplied timing information to at least two layers.
+Three route firms concealed unused capacity while bidding on emergency charters.
+Their ships later moved food no public fleet could have moved in time.
 
-The unknown remains.
+No common command chain joins these acts. The eruption is not a defendant, and
+necessity is not an acquittal.
 
-The court demands a name.
+The court demands one name.
 
-The inquiry refuses to invent one.
+The inquiry returns six findings.
 
-Vale faces adjudication for credential concealment.
+Henley faces adjudication for credential concealment.
 
 Sol-linked actors face conduct charges.
 
 Northstar assets freeze where jurisdiction reaches.
 
-Seleni loses custody authority and remains a Weaver if her house continues to
+Selin loses custody authority and remains a Weaver if her house continues to
 recognize her.
 
 The station ground moves under local and independent stewardship.
 
 No final villain absorbs the system's choices.
 
-Ordinary law inherits the unfinished hunt.
+Ordinary law inherits the work.
 
 ---
 
@@ -3676,7 +3980,7 @@ Two public test handovers before the binding vote.
 Automatic end of Eli's continuity role upon certification.
 
 No emergency extension available for pregnancy, household threat, public
-acclamation, or incomplete attack attribution.
+acclamation, or unresolved Lean Year liability.
 
 The praetorian cloisters reject the calendar.
 
@@ -3727,7 +4031,7 @@ At thirty-three weeks, Rowan can no longer see her own feet.
 
 This improves nothing about the succession debate.
 
-Sabine Rook presents the dynasty proposal in a room packed beyond its air
+Novak presents the dynasty proposal in a room packed beyond its air
 capacity. The child turns beneath Rowan's ribs whenever the crowd volume rises,
 whether from sound, field pressure, or ordinary discomfort nobody can establish.
 
@@ -3751,7 +4055,7 @@ At adulthood, the child may renounce all claim.
 
 "Claim to what?" Rowan asks.
 
-Rook answers without embarrassment.
+Novak answers without embarrassment.
 
 "Symbolic continuity. Arbitration standing. The right to convene the houses in
 constitutional failure."
@@ -3786,7 +4090,7 @@ says.
 
 "By containing it."
 
-Rook looks toward the praetorian cloister seats.
+Novak looks toward the praetorian cloister seats.
 
 "If Eli transfers tomorrow, four armed chapters may refuse. If his child is
 recognized within a compact settlement, they have continuity without rebellion."
@@ -3799,7 +4103,7 @@ Rowan feels the child move again.
 
 The body inside her is real.
 
-So is the civil war Rook fears.
+So is the civil war Novak fears.
 
 That does not make one payment for the other.
 
@@ -3829,7 +4133,7 @@ A cloister delegate rises.
 
 "Then the world is not ready to use my child as repair."
 
-Rook asks, "Do you deny that blood continuity could prevent immediate conflict?"
+Novak asks, "Do you deny that blood continuity could prevent immediate conflict?"
 
 "No."
 
@@ -3874,7 +4178,7 @@ No child required.
 
 "Process can carry continuity," Wren says. "Blood can carry relationship."
 
-Rook studies the test failures.
+Novak studies the test failures.
 
 "Until the process is attacked."
 
@@ -3960,7 +4264,7 @@ The court receives one statement:
 
 **ROWAN IS UNDER MEDICAL ASSESSMENT. NO SUCCESSION CONSEQUENCE EXISTS.**
 
-Rook's coalition suspends debate.
+Novak's coalition suspends debate.
 
 The praetorian chapters gather anyway.
 
@@ -3981,7 +4285,16 @@ Not labor.
 Rowan leaves the clinic the next afternoon exhausted, angry, and still
 pregnant.
 
-The rotating council completed the six-hour test while Eli remained with her.
+During the fourth hour of the rotating council's six-hour test, a landslide
+closes the route carrying insulin and grid bearings north. The valley clinic
+opens its local reserve before asking. The harbor redirects a smaller boat. A
+mountain council refuses the boat's awakened escort but offers a ground crew at
+the boundary. The rotating council settles who carries liability across the
+transfer and which fuel account pays for the detour.
+
+Eli remains beside Rowan's hospital bed. Nobody requests his confirmation.
+
+The rotating council completes the six-hour test.
 
 A disputed fuel convoy waited twenty minutes longer than it would have under
 him.
@@ -4067,7 +4380,7 @@ The cloisters prepare oaths.
 
 The Weavers prepare attestations.
 
-Rook prepares an heir motion she promises not to introduce unless the assembly
+Novak prepares an heir motion she promises not to introduce unless the assembly
 fails.
 
 Every room claims to be preparing for contingency.
@@ -4218,7 +4531,7 @@ AFTER.**
 
 The statement produces exactly the crisis it tries to prevent.
 
-Rook convenes the dynasty coalition.
+Novak convenes the dynasty coalition.
 
 Praetorian cloisters move toward the assembly.
 
@@ -4229,14 +4542,8 @@ Continuity law asks Eli to authorize a twenty-four-hour precautionary extension.
 
 He is in the birth room.
 
-Wren does not carry the request inside yet.
-
-Not because she controls whether he knows.
-
-Because the request has no immediate deadline and Rowan is vomiting through a
-contraction.
-
-Power includes timing.
+The request has no immediate deadline. Rowan is vomiting through a contraction.
+Wren records the time and leaves the slate outside.
 
 She records the delay.
 
@@ -4250,7 +4557,7 @@ Asha leads attestation review with one arm still weak.
 
 Owen and Malik sit on opposite sides of the cloister delegation.
 
-Rook introduces her heir motion exactly as promised:
+Novak introduces her heir motion exactly as promised:
 
 only if the assembly fails.
 
@@ -4265,7 +4572,7 @@ Any credible threat to the continuity household.
 Under those conditions, Eli remains coordinator and the child becomes protected
 continuity person until another vote.
 
-"The child is being born during constitutional fracture," Rook says. "Ignoring
+"The child is being born during constitutional fracture," Novak says. "Ignoring
 the symbol does not disarm those prepared to kill for or against it."
 
 Amina answers.
@@ -4350,15 +4657,13 @@ Sometimes she says yes.
 
 Once she says no and he removes his hand immediately.
 
-Pain does not cancel consent.
-
 Rowan moves, leans, curses, rests for seconds, and begins again.
 
 No serenity.
 
 No goddess performance.
 
-Her body is doing dangerous ordinary work.
+Another contraction takes her before she reaches the bed.
 
 Mina offers options as conditions change.
 
@@ -4375,7 +4680,7 @@ the west approach and Rowan's medical status remains uncertain.
 
 Without the attestations, the council lacks certification.
 
-Without certification, Rook's definition of failure activates.
+Without certification, Novak's definition of failure activates.
 
 The Weavers can create the dynasty by trying to prevent the cloisters from
 creating one.
@@ -4443,13 +4748,28 @@ they helped build.
 
 ---
 
+At 12:07, the court loses its outward channel.
+
+Not sabotage. A replacement coupling installed during the first allocation week cracks
+under ordinary heat. The central relay goes dark for ninety-three minutes.
+
+The harbor redirects an incoming grain vessel under local witness. Two clinics
+exchange refrigerated medicine through a fishing cooperative. Growers west of
+the ridge reject a contaminated seed lot. Constitutional cloister companies
+take orders from the civilian councils in front of them. Three service houses
+open their kitchens and sleeping floors without waiting for an admissions list.
+
+When the relay returns, the screen fills with notices of decisions already
+made. There are objections, costs, and one request for cross-route review.
+There is no queue asking permission to continue.
+
 At 14:20, the first succession ballot begins.
 
 The ceasefire corridor holds.
 
 The praetorian chapters remain isolated but not disarmed.
 
-Rook's coalition prepares the heir motion if certification fails.
+Novak's coalition prepares the heir motion if certification fails.
 
 Wren returns to the clinic.
 
@@ -4562,7 +4882,7 @@ The review body votes six to two.
 
 Provisional quorum.
 
-Rook introduces the Continuity Household motion.
+Novak introduces the Continuity Household motion.
 
 She does not enjoy doing it.
 
@@ -4669,7 +4989,7 @@ House Nacre refuses.
 
 House Ilyara splits.
 
-Seleni Var appears from her suspended seat.
+Selin appears from her suspended seat.
 
 She has no authority to release anything.
 
@@ -4685,7 +5005,7 @@ leave."
 
 Amina watches from the assembly.
 
-Seleni continues.
+Selin continues.
 
 "If the houses become the sole source of personhood, we have built the quiet
 registry."
@@ -4861,10 +5181,6 @@ Rowan looks up.
 
 Wren does.
 
-Not because romance assigns the place.
-
-Because Rowan asks.
-
 They name the child Tara.
 
 The name is told first to the people in the room and not released publicly until
@@ -4876,7 +5192,7 @@ The ordinary birth record lists parents according to Rowan and Eli's directive.
 
 Wren's named kin role appears in the private care plan, not the civic register.
 
-Outside, Rook withdraws the heir motion.
+Outside, Novak withdraws the heir motion.
 
 The pro-dynasty coalition does not dissolve.
 
@@ -4925,9 +5241,8 @@ It has made errors occur while carrying another person.
 
 Tara wakes and begins objecting to the cold.
 
-Wren takes her after asking.
-
-Her role has become ordinary through repetition.
+Wren takes her after asking. Tara settles against her shoulder before Wren
+reaches the window.
 
 Two mornings a week when routes permit.
 
@@ -4974,7 +5289,7 @@ The Weavers hold public route offices under audit and appeal.
 
 House Nacre still challenges two rules.
 
-Seleni teaches no apprentices while her custody suspension remains.
+Selin teaches no apprentices while her custody suspension remains.
 
 Asha chairs nothing permanently and complains this creates excessive meetings.
 
@@ -4983,6 +5298,19 @@ twice.
 
 The institutions survived Eli by becoming capable of irritating everybody
 without him.
+
+Practices have traveled farther than the charters.
+
+At damaged settlements, people sit for one quiet breath before beginning work,
+eat from one pot when there is enough, name the absent, and teach repair through
+the short answering songs that children carried out of Hawaiʻi. Some call the
+places cloisters. Some call them kitchens or service houses. Some refuse a
+name because names attract offices.
+
+One traveling teacher says Eli founded the practice. Owen sends back the dates
+showing he did not. Another house hangs Eli's refusal above its door and begins
+testing visitors on the wording. The local council makes it take the sign down.
+The nail holes remain above the door.
 
 ---
 
@@ -5000,9 +5328,6 @@ Rowan kisses her.
 
 Later she kisses Eli differently.
 
-Three romances remain visible in ordinary behavior and impossible to rank
-without losing what each is.
-
 Wren and Rowan share shorthand, old laughter, and the relief of being known
 before explanation.
 
@@ -5010,8 +5335,6 @@ Wren and Eli still build home through questions and present choice.
 
 Rowan and Eli argue about public work, then remember the private future they
 constructed through acts no court invented.
-
-They do not occupy one undifferentiated bond.
 
 They share some rooms, not every room.
 
@@ -5033,7 +5356,7 @@ She has not forgiven him.
 The social world does not require her to.
 
 Tomas remains in supervised treatment under a revised conduct order, no longer
-held solely by Crane's registry. Amara receives updates as his sister-in-law
+held solely by Lang's registry. Amara receives updates as his sister-in-law
 because she chooses to, not because anybody makes family into compulsory care.
 
 Mei sends food and a message about the compound account.
@@ -5062,7 +5385,7 @@ Maren has added a correction to the Rootbook concordance from her own residence.
 
 Other hands correct her correction.
 
-The book sits on an ordinary shelf when not in use.
+When not in use, the book sits on the lowest shelf beside two repair manuals.
 
 Somchai eats lunch beneath the observation wall.
 
@@ -5103,6 +5426,20 @@ Then begins.
 He listens before interpreting.
 
 Hospitality, not deepest access.
+
+---
+
+Six young people leave after breakfast for a northern harvest house.
+
+Two trained in repair, one in seed care, one in field medicine. The youngest
+knows the answering part of every work-song and none of the verses in the right
+order. They carry borrowed tools, Rasel's rejected seeds, three route
+attestations, and enough food to reach the next kitchen.
+
+Their parents call them a crew. The cloister calls them apprentices. They have
+not agreed what they are.
+
+They go anyway.
 
 ---
 

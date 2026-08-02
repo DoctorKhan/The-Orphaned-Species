@@ -32,7 +32,7 @@ There are **no truly good or evil sides** in this book. What plays out as "sides
 **Rules:**
 
 - **No one acts from alignment.** A character never does something because they are "on the dark side" or "one of the good ones." Every action traces to an incentive: wage, safety, debt, love, standing, doctrine believed sincerely, a child, a boat, a career, absolution. If a character's action can only be explained by which side they're on, the scene is broken — find the incentive or cut the action.
-- **Every faction pitch is partly true and locally rational.** Crane is right about danger; registry feels like care; the prophecy faction offers real belonging; bloc service pays and protects families. The cast doc's `Want:` fields are this rule enforced per-character — no entry ships without one.
+- **Every faction pitch is partly true and locally rational.** Lang is right about danger; registry feels like care; the prophecy faction offers real belonging; bloc service pays and protects families. The cast doc's `Want:` fields are this rule enforced per-character — no entry ships without one.
 - **Allies have incentives too.** Wren runs her extraction network out of guilt and love, and it conflicts with Eli's trail every volume. **Wren's manifests protect and expose**; Mei's care has limits; Salmah charges fairly. Help that costs the helper nothing is a sign the incentive ledger wasn't done.
 - **Antagonists switch when incentives switch — never from persuasion alone.** The good-faith official flips on the frame-up (seed 13) because the fabrication betrays what the system promised *them*, not because Eli gives a speech. Conversion scenes must show the incentive breaking, not the argument winning.
 - **This runs all the way up.** Even Tier 3 (`17` § Offstage presence) is not metaphysical evil: the hidden force *exploits incentives* — it whispers to what people already want and fear; it never compels. The Shayateen work autopilot, not possession. Distributed antagonism holds because every instrument of the dark side is a person who said yes for reasons a reader could recognize in themselves.
@@ -70,7 +70,7 @@ Each major character benefits from three layers (full cast bible: `26_present_da
 
 Pathology on this project is **injury to attachment, agency, and truth** — internal mirrors of external cages (registry, collar, prophecy, ownership). Full craft guide + per-character patterns: `26_present_day_cast_expanded.md` Part VI.
 
-**Rules:** show behavior under pressure; no diagnosis on-page unless character would use the word; no trauma as villain excuse; no magical cure (Eli's TBI floor in § Eli's brain injury). Mature move = recognize autopilot, relation without ownership — not diagnosis → cure.
+**Rules:** show behavior under pressure; no diagnosis on-page unless character would use the word; no trauma as villain excuse; no magical cure (Eli's TBI floor in § Eli's brain injury). Mature move = recognize autopilot, choose a more truthful relation and action — not diagnosis → cure.
 
 Pair **Part VI** with **Part V** (past-vs-mask Vol I scenes) when drafting.
 
@@ -122,7 +122,7 @@ This is one character's overlapping maturation, not a taxonomy of Seers, Bards, 
 
 These stages overlap. Eli can have an early surge before he can interpret one, a flash of seeing before he can sustain relation, and renewed identification under stress.
 
-## Rasel's gift — symbolic feeling & the dream channel (LOCKED 2026-07-23)
+## Rasel's gift — symbolic feeling; dreaming under test (LOCKED 2026-07-23; revised 2026-08-01)
 
 **Eli inherits from his father the ability to *feel symbols* — not decode them intellectually first, but register weight, direction, and rightness in marks, joins, boundaries, plants, stones, bearings, and other things that *mean* before they are explained.** **Rasel Khan** (legendary **claimed** physicist; **gardener in Eli's memory**; **alive in Mandate lab** — Eli believes him dead) read the living world with his eyes shut: soil, stem, season, seam. That is the **father-line** — distinct from Maren's carrier/receiver/song bandwidth (the **mother-line**; **Maren Holt = neuroscientist**). **Naming rhyme (Vol II):** Anglo clerks ask **Holt vs Khan**; Eli says *Bengali thing* (father doesn't pass surname). Later Europe learns **Holt** is **matrilineal Alba/Nephilot** custom — mother's line, same logic, different language. Young Eli got the mother's sensitivity without the father's symbolic fluency, which is why Pelangi Reach reads as **shame in the garden** before it reads as gift.
 
@@ -130,23 +130,25 @@ These stages overlap. Eli can have an early surge before he can interpret one, a
 |---|---|---|---|
 | **Father (Rasel)** | Symbolic feeling — plants, joins, marks, stones, lines on land | *This means something; this points; this is out of place* | Eyes shut in dirt; ring seam; boundary stone bearing; green hands on loan at bleed |
 | **Mother (Maren)** | Receiver bandwidth, song, field contact | Tune, charge, web-thread, diagnostic read under pressure | Hummed fragment; somatic signatures; breach opens filter |
-| **Both in Eli** | Symbol arrives in **dream**; waking gift is **feel-then-test** | Answer given while asleep; direction without proof | Counting doors; Ila dream; Pele dream; Emrys: *note the number* |
+| **Both in Eli** | Vivid **dream reception**; waking gift is **feel-then-test** | Fragment received while asleep; source and meaning unknown | Counting doors; Ila-name texture; Pele dream; independent corroboration |
 | **Both in Eli** | **Uncanny connection** — unrelated facts link | *These two things rhyme* — whole before proof | Thailand land-reading; Malacca thread; Göbekli sequence; Rootbook / Sanxingdui |
 
-**Dream rule (LOCKED):** **Answers are given in dreams.** Not full cosmology dumps — **symbolic answers**: a name worn smooth (*Ila*), a count to track, a kneeling that must be questioned, a line on a map, a presence that must be negotiated. Dreams are the **delivery channel** for what the symbolic gift is pointing at. They are **genuinely informative and genuinely untrustworthy alone** — the same epistemic discipline as Tao 72 / *Let's test it*: the dream hands you the instrument; waking work (Emrys's numbers, Hạnh's bund, teahouse records) finishes the sentence.
+**Dream rule (LOCKED 2026-08-01):** **Dreams may contain information, but never their own interpretation or provenance.** A name worn smooth (*Ila*), a count, a bodily position, a line, a sound, red earth, or kneeling may prove meaningful later. It may also be trauma, expectation, ordinary dream construction, bodily distress, hostile psionic influence, or coincidence. Eli cannot tell from vividness. The dream offers material for inquiry; waking work, independent evidence, cultural authority, consent, and consequences determine whether anything follows.
 
 **What dreams are not:**
 - Not the Malacca **seven-life download** (`36` §3a — breach turns receiver **on**, not archive **in**).
 - Not self-validating prophecy — Sol and the Deiwos cells will **misread** Eli's dreams harder than Eli does.
-- Not exclusive — charged grounds, elders, and field contact also teach; dreams are the **private** symbolic channel.
+- Not an itinerary, command channel, clean warning system, or guaranteed external contact.
+- Not a recovered true identity: Eli may later learn that historical communities would have called this function Dreaming, but he does not become **the Dreamer**.
+- Not exclusive — charged grounds, elders, instruments, and field contact also teach; dreaming is the private sleep register of a broadly human receptivity, not Eli's owned channel.
 
-**Messianic function (LOCKED):** symbolic feeling + dream-answers are **why reasonable people think he is chosen by Book III** — he wakes knowing which way to walk, which stone matters, which oath is trap vs relation. The public reads **oracle**; Eli must read **inheritance under test**. Full rise table: `29` § *Messianic rise*.
+**Messianic function (LOCKED; revised 2026-08-01):** symbolic feeling plus a few retrospectively verified dreams help reasonable people think he is chosen by Book III. Public retelling deletes the false dreams, corroborating labor, cultural correction, and uncertainty until Eli appears to wake already knowing. The public reads **oracle**; Eli must retain **reception under test**. Full rise table: `29` § *Messianic rise*.
 
 **Prose rules:**
 1. **Show symbolic feel as body-event** — prickle, seam, wrongness, certainty without caption — before anyone names it psionics.
 2. **Dreams compress time** — Ila register: fever breaks in one image; do not over-explain on waking.
 3. **Rasel rhymes without reincarnation** — Eli recognizes the register in deep threads (Aru breath, Lovernios field line); he is not Rasel returned.
-4. **Father grief ↔ gift delay** — garden failure breaks when he stops performing mastery and accepts **feel → dream → test** as Rasel's actual craft.
+4. **Father grief ↔ gift delay** — garden failure breaks when he stops performing mastery and accepts **feel → record → test** as Rasel's actual craft. Dream material enters the same test; it is not automatically Rasel's voice.
 
 **Parent memory on-page — LOCKED 2026-07-25 (rev. two-phase):** Vol I parent beats run **before and after** Mei's orphan-truth reveal — not only one pass.
 
@@ -163,7 +165,7 @@ These stages overlap. Eli can have an early surge before he can interpret one, a
 
 **Eli has an uncanny ability to make connections between things that seem unrelated.** A sluice schedule and a rice band; a registry queue and a terrace meal list; a ring seam and a Gulf transfer route; *deiwos* and daylight; Sanxingdui bronze trees and Maren's branching diagram. The link arrives **whole** — often before he can justify it — and is **useful often enough** that others experience it as **magic, oracle, or chosen-one proof**.
 
-This is the **social face** of the same gift named in `36_the_living_web.md`: **clarification** — bringing tangled regions of the web into focus. Symbolic feeling reads **one mark**; dreams deliver **one compressed answer**; uncanny connection is the **leap between domains**.
+This is the **social face** of the same gift named in `36_the_living_web.md`: **clarification** — bringing tangled regions of the web into focus. Symbolic feeling reads **one mark**; dreams offer **one compressed fragment without a source label**; uncanny connection is the **leap between domains**.
 
 | Layer | Moves | Looks like to others |
 |---|---|---|
@@ -175,17 +177,17 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 
 1. **Plant** two or three details that the reader has seen in **different registers** (kitchen + ledger + field; myth + file + harbor).
 2. **Eli names the bridge** in one breath — no lecture, often wrong tone (facilities hand, not sage).
-3. **Others react** — Wren: *how did you know?* Emrys: *working hypothesis*; crowd: miracle; Crane/Sol: asset.
+3. **Others react** — Wren: *how did you know?* a scientist present (Rasel, Luo, Qiao): *working hypothesis*; crowd: miracle; Lang/Sol: asset.
 
 **Comes in handy (plot jobs):**
 
 - Route and refuge choices before evidence arrives (chalk doors, Malacca thread).
 - Rootbook deciphering — cognate + site + measurement **linked** before the full proof (`52`).
-- Göbekli / patriarchy sequence — **tempting** over-connection Emrys forces him to gap (`manuscripts/I_The_Breach.md` working-hypothesis beat).
+- Göbekli / patriarchy sequence — **tempting** over-connection; institutional pushback (a local researcher, not a traveling scholar) forces him to the gap (`58` § *Göbekli's new function*).
 - Book III **re-teaching** *deiwos* — linguistic + practice + what the cells are **doing** (`29` § Deiwos resolution).
 - Teahouse replication — same curriculum noticed across unrelated households (`29` § lay teachings).
 
-**Failure mode (required):** the gift **over-connects**. A sequence that explains too much too neatly is the same error as map-over-territory (`53` — Emrys's error name). **Sanxingdui break** (`52`): forced linguistic fit fails; the larger pattern survives without the easy proof. Eli must learn: **a true leap still needs witnesses** — numbers, bund, independent account, someone who can say *no*.
+**Failure mode (required):** the gift **over-connects**. A sequence that explains too much too neatly is the same error as map-over-territory (`53`). **Sanxingdui break** (`52`): forced linguistic fit fails; the larger pattern survives without the easy proof. Eli must learn: **a true leap still needs witnesses** — numbers, bund, independent account, someone who can say *no*.
 
 **Messianic fuel:** strangers hear the **leap**, not the test. They get prophecy without the homework. Sol and Deiwos cells **weaponize** Eli's connections — every lucky bridge becomes mandate. By Book III, **reasonable people** treat his pattern-sight as messiah evidence alongside healings and war coordination (`29` § *Messianic rise*).
 
@@ -193,7 +195,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 
 1. **Show the leap before the justification** — reader should feel the click, then watch it get tested.
 2. **Never omniscient** — at least one wrong or costly connection per volume; someone pays for a bridge that was only half true.
-3. **Character reactions carry meaning** — Wren honors leaps without granting jurisdiction; Emrys demands the gap list; Mei hears kitchen sense, not cosmology.
+3. **Character reactions carry meaning** — Wren honors leaps without granting jurisdiction; a local expert demands the gap list; Mei hears kitchen sense, not cosmology.
 4. **Not a lecture** — if Eli explains the whole pattern, cut it; one line, then action.
 5. **Distinct from surge** — surge is **identification** with charged input; connection is **synthesis** across separate facts (per `15` § perceptual stages 1 vs 6–7).
 
@@ -242,7 +244,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 2. **Past-vs-mask leak (Vol I):** one beat where Eli's stillness reads as creepy or too calm until Ch 5 wat return proves it was **practice**, not dissociation.
 3. **Practices regulate attention; they do not erase TBI** — word-retrieval failures, overload, and fatigue remain; body scan maps injury without curing it.
 4. **Rhyme, not ownership** — Aru's breath/stillness clarifies at Göbekli; Eli recognizes the register, does not claim to be Aru.
-5. **After breach, grounding before lore** — any calm post-contact is **temple habit + Emrys/Wren presence**, not instant wisdom.
+5. **After breach, grounding before lore** — any calm post-contact is **temple habit + Wren's presence**, not instant wisdom.
 
 **Cross-ref:** `26` § Eli past; `27` § Eli perceptual arc; `00_NARRATIVE_STRUCTURE.md` §0 fugitive childhood; `36_the_living_web.md` § Manual Override; `33_the_curriculum.md` if present.
 
@@ -333,7 +335,7 @@ Bangladesh cannot exist only as the place where his family died. Carry it throug
 - food habits, household routines, songs, weather, rivers, work, and family arguments;
 - his father's virtues, flaws, political commitments, and unfinished obligations;
 - surviving friends, associates, messages, objects, or networks even if the closest family is gone;
-- choices Eli makes differently from Wren and Emrys because of how he was raised.
+- choices Eli makes differently from Wren because of how he was raised.
 
 Albion closes the mother's mystery. It does not reveal Eli's truer self or replace Bangladesh as home.
 
@@ -387,14 +389,14 @@ The ley-line mechanism is an adventure spine, not a lecture Eli earns by being s
 
 - farmers and growers distinguish altered plant growth from irrigation, disease, weather, and trampling;
 - Pelangi Reach residents teach Eli to compare distributed reports and discard attractive false patterns;
-- Emrys can measure paired opposition but cannot feel or interpret everything;
+- local researchers and custodians can measure paired opposition but cannot feel or interpret everything;
 - Wren turns partial knowledge into routes, tests, and survival decisions;
 - historical records show earlier observations without becoming an infallible manual;
 - Eli's sensitivity detects a problem, but detection is not explanation.
 
 Every discovery must occur while someone wants something immediate: to cross water, evade surveillance, protect a field, reach an injured person, recover a record, or hold a stone center under attack. At least one interpretation should fail. A failed theory must cost time, safety, trust, or resources rather than merely invite another paragraph of explanation.
 
-Eli never knows the final destination. He leaves Pelangi Reach for one clue in Malacca, then chooses repeatedly whether the next fragment is credible enough to justify risk. Wren can identify routes and traps but does not secretly know the quest map. Emrys can correlate evidence but cannot announce Albion. The late discovery of Albion must result from independent agreement among several sources, not a recovered address or infallible vision.
+Eli never knows the final destination. He leaves Pelangi Reach for one clue in Malacca, then chooses repeatedly whether the next fragment is credible enough to justify risk. Wren can identify routes and traps but does not secretly know the quest map. No one carries a master itinerary. The late discovery of Albion must result from independent agreement among several sources, not a recovered address or infallible vision.
 
 Keep clue-following psychologically credible. Eli may pursue weak evidence because it concerns his mother, but Wren and others should challenge the cost. Some leads must fail. Some should reveal valuable human or political truths without advancing the cosmological trail. This prevents every stranger and location from feeling prearranged for the protagonist.
 
@@ -459,7 +461,7 @@ If the remaining answer is only *Eli learns more history or unlocks another capa
 | Dissociation performing as calm | Equanimity — feels charge, does not execute the command (`Manual Override`) |
 | Confidence that **demands an audience** | Strength that **does not require witnesses** |
 | Trauma worn as aesthetic | Trauma **integrated** — shows as behavior, cost, repair |
-| Control of **others** as substitute for self-work | Relation without ownership — connected, not fused |
+| Control of **others** as substitute for self-work | Adult relation — connected, differentiated, answerable, and able to change |
 
 **Thematic line:** **Control is the cage's posture. Equanimity is the awakening's posture.** Both can look calm on the surface. The test is whether the calm is **connected** (to body, to others, to the living web) or **compartmentalized** (dissociation, domination, performance).
 
@@ -481,7 +483,7 @@ If the remaining answer is only *Eli learns more history or unlocks another capa
 |---|---|---|
 | Under attack | Flawless composure; body untouched by cost | Acts cleanly; hands shake after; sleeps badly |
 | Protecting someone | Manages, routes, decides *for* them | Offers capacity; leaves room to refuse |
-| Grief | Converts to policy or performance (Crane's ledger) | Mourns in behavior — object, habit, silence |
+| Grief | Converts to policy or performance (Lang's ledger) | Mourns in behavior — object, habit, silence |
 | Desire / romance | Pursuit as conquest; destiny as permission | Initiative + restraint; vulnerability as gift, not collapse |
 | Power offered | Takes the room; never wrong | Asks; triages; admits limit |
 | Stillness | Frozen hypervigilance (Wren pre-arc) | Breath, watch, un-rushed presence (Aru register) |
@@ -490,20 +492,19 @@ If the remaining answer is only *Eli learns more history or unlocks another capa
 
 1. **One tell per scene** — don't stack counterfeit and authentic cues in the same beat.
 2. **Eli and the reader may misread** — survival competence and equanimity look alike until cost shows.
-3. **Villains can be sincere** — Crane's display is believable care; that is why it is dangerous.
+3. **Villains can be sincere** — Lang's display is believable care; that is why it is dangerous.
 4. **Growth = less steerable, not less afraid** — sympathetic characters stay scared; they stop obeying fear as final authority (`40` § Legitimate fear vs. fear as ruler).
 
 ### Cast compass (not types)
 
 | Character | Superficial register | True-strength register (earned or native) |
 |---|---|---|
-| **Crane** | Reasonable voice; never raises volume; paternal composure | *(withheld)* — grief misfiled as policy; no inner work on-page |
-| **Edda Voss** | Seer mystique; breath-counting as threat | Analyst rhythm — belief fused to role, not equanimity |
-| **Sol Mendez** | Charisma, sermon cadence | Untreated wound performing as prophecy |
+| **Lang** | Reasonable voice; never raises volume; paternal composure | *(withheld)* — grief misfiled as policy; no inner work on-page |
+| **Anika Voss** | Seer mystique; breath-counting as threat | Analyst rhythm — belief fused to role, not equanimity |
+| **Sol Méndez** | Charisma, sermon cadence | Untreated wound performing as prophecy |
 | **Wren** | Cold operator; flawless exits | Softness leaks (stairwell bun); falls apart when cared for — arc moves toward real strength *after* the game |
 | **Eli** | Hard facilities hand; training-shell calm | **Thailand seed → delayed fruition** — temple breath under charge; Manual Override; cup-the-spider courage; relation without identification |
 | **Somchai** | Could play god | *Son of a man* — limits, consent, triage as moral acts |
-| **Emrys** | Map-not-territory authority | Learns touch over measurement; frailty without collapse |
 | **Thila Sen** | Fury as only note | Barefoot bund; lullaby to scarecrow — land-grief **and** practical care |
 | **Aru** *(deep time)* | — | Breath, stillness — awareness holding itself |
 
@@ -526,7 +527,7 @@ If the remaining answer is only *Eli learns more history or unlocks another capa
 | **Sonic / frequency** | Song as substance, throat-sounds, misdirection through rhythm | Anthea, the Singer, Pai |
 | **Concealment / transmission** | Grain pit, dream-chain, hiding a child, passing practice hand to hand | Marra, Tem, Derw's encoding |
 | **Limit without spectacle** | Not kneeling; not becoming the hoarder; release instead of throne | Aedan's stone, Eli's Manual Override climax |
-| **Reception / witness** | Breadth of read, not repair; map not territory | Eli, Emrys |
+| **Reception / witness** | Breadth of read, not repair; map not territory | Eli |
 
 None of these require quips, cold killing competence, or "winning" by acting like the man with the hammer. **Wren's exits and counterfeits are survival craft**, not femme-Bond — her arc is whether love can be real after the game, not whether she out-fights the hunters.
 
@@ -534,10 +535,10 @@ None of these require quips, cold killing competence, or "winning" by acting lik
 
 | Hollywood template | Why it fails here |
 |---|---|
-| Competence **as personality** (quips, swagger, always right) | Control is the **cage's** posture — Crane, factions, handlers (`00` relatability rule) |
+| Competence **as personality** (quips, swagger, always right) | Control is the **cage's** posture — Lang, factions, handlers (`00` relatability rule) |
 | Action beats without **cost, fear, or wrongness** | Relatability lives in fumble, shame, fatigue, need |
 | Trauma as **aesthetic** (suffering displayed, never integrated) | Trauma = injury to attachment/agency — show **behavior**, not mood board |
-| "Strong" = **never needs help** | The thesis is **interdependence without ownership** — Wren/Eli built on complementary cowardice |
+| "Strong" = **never needs help** | Adulthood requires accountable dependence — Wren/Eli are built on complementary cowardice and the risk of receiving care |
 | Woman wins by **becoming the system** | Patriarchy critique: women are **targets and carriers** of suppressed knowledge, not honorary enforcers |
 | **Male dominance = universal power** | Conflates the cage with the cure — see *Power registers* above |
 
@@ -566,7 +567,7 @@ When elements compete, protect them in this order:
 
 1. Eli's present bodily and emotional reality.
 2. The double orphaning and political/psionic hunt.
-3. His relationships with Wren, the Healer, Emrys, his dead family, and living people on the route.
+3. His relationships with Wren, the Healer, his dead family, and living people on the route.
 4. Historical practitioners as conflicting witnesses.
 5. The mother-release and hard-no climax.
 6. Cosmological explanation.

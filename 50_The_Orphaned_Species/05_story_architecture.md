@@ -22,7 +22,7 @@ Do not lecture this in Books I–IV. Dramatize only its symptoms: override under
 
 **Family total — LOCKED 2026-07-31:** **14 core** = 10 Layer 1 + 4 Layer 2 companions; satellites outside (`63`; `SERIES_STRUCTURE.md` § *Family total*).
 
-**Spirituality goes wrong — LOCKED 2026-07-31:** also dramatize the **counterfeit** of this thesis — toxic positivity, manifestation bullying, spiritual ego — people who use light-language to blame the injured and own the room. Distinct from Crane and Sol. Full lock: `SERIES_STRUCTURE.md` § *Spirituality goes wrong*; `40_concepts.md`. **Greater-picture hinge:** locally wrong stays wrong; cosmically, even that failure can be training gear that breaks (developmental function, not acquittal).
+**Spirituality goes wrong — LOCKED 2026-07-31:** also dramatize the **counterfeit** of this thesis — toxic positivity, manifestation bullying, spiritual ego — people who use light-language to blame the injured and own the room. Distinct from Lang and Sol. Full lock: `SERIES_STRUCTURE.md` § *Spirituality goes wrong*; `40_concepts.md`. **Greater-picture hinge:** locally wrong stays wrong; cosmically, even that failure can be training gear that breaks (developmental function, not acquittal).
 
 **Hell — LOCKED 2026-07-31:** infinite loop that cannot be escaped in a non-entropic / deathless world; Earth's death is a circuit breaker. **Life is the solution to hell.** `SERIES_STRUCTURE.md` § *Hell*.
 
@@ -64,7 +64,7 @@ The longing for home supplies the heart. The clue trail moves the body. Encounte
 
 **Genre comps — LOCKED 2026-07-25:** deep-history **conspiracy clue-chain thriller** (*Da Vinci Code* investigative momentum + *National Treasure* landmark chase), with a **conspiracy of the ages** (Charkha Measure and recurring suppression apparatus). **Canonical pitch hub:** `55_series_pitch_and_comps.md`. Craft checklist also: `17` § *Genre comps and clue-chain craft*.
 
-**POV — LOCKED:** Eli is the home consciousness in close third present. Wren and Somchai are the only recurring away lenses. Their rare scenes must contain consequential choices Eli cannot witness, and a hard section break must separate every viewpoint change. “Ensemble” identifies who acts, not who narrates. Maren's truth, Emrys's capture, the tether/release, and the final coda remain Eli; Wren owns the Laleh extraction and distributed-network convergence; Somchai owns the bodily-crown limit. Full switch test and volume deployment: `14` § *POV architecture — LOCKED*.
+**POV — LOCKED:** Eli is the home consciousness in close third present. Wren and Somchai are the only recurring away lenses. Their rare scenes must contain consequential choices Eli cannot witness, and a hard section break must separate every viewpoint change. “Ensemble” identifies who acts, not who narrates. Maren's truth, the tether/release, and the final coda remain Eli; Wren owns the Laleh extraction and distributed-network convergence; Somchai owns the bodily-crown limit. Full switch test and volume deployment: `14` § *POV architecture — LOCKED*.
 
 Default prose style: **lyrical but restrained; warm and human; socially funny; sensory-textured; mostly external/cinematic; flowing and contemporary-simple; lightly interpretive; dry in humor; specific with names, jobs, objects, and places.** Let emotion arrive through what people do, notice, expect, and joke about. Prefer concrete social texture over abstract interior explanation: a stuck fire door, a saved phone charger, a bad knot that holds, a chess move nobody asked for.
 
@@ -91,7 +91,7 @@ Relatability rule: whenever the mythic conflict risks becoming abstract, ground 
 
 ### Four-Corner Opposition
 
-Use a Truby-style four-corner opposition to keep the conflict from collapsing into Eli versus Crane. The core debate:
+Use a Truby-style four-corner opposition to keep the conflict from collapsing into Eli versus Lang. The core debate:
 
 > When dangerous human capacities return, should society protect freedom or impose control?
 
@@ -100,13 +100,13 @@ The answer must not be simple anti-authoritarianism. The series needs adult poli
 | Corner | Character or faction | Viewpoint | Dramatic pressure |
 |---|---|---|---|
 | **1. Constructive freedom** | **Eli** | Power must be shared through consent, practice, limits, and ordinary accountability. No one owns the field. | He must prove freedom can protect civilians without becoming vague, passive, or messianic. |
-| **2. Destructive control** | **Crane** | Psions and anomalous beings are too dangerous to remain unregistered; containment and command are necessary. | He is right about danger and wrong that danger justifies ownership. |
+| **2. Destructive control** | **Lang** | Psions and anomalous beings are too dangerous to remain unregistered; containment and command are necessary. | He is right about danger and wrong that danger justifies ownership. |
 | **3. Destructive freedom** | **Prophecy/liberation faction** | Burn the registries, unleash awakening, follow the chosen one, reject limits and accountability. | This is Eli's own anti-ownership instinct corrupted into charisma, chaos, and future violence. |
 | **4. Constructive control** | **Wren / Pelangi Reach / ethical regulator** | Freedom needs form: boundaries, triage, consent practices, defense, law, and consequences for harm. | This corner attacks Eli's vagueness and gives Wren an objective beyond protecting him. |
 
 This structure should create multi-party friction:
 
-- Crane attacks Eli's naivety: unregulated psionic conflict gets civilians killed.
+- Lang attacks Eli's naivety: unregulated psionic conflict gets civilians killed.
 - The prophecy/liberation faction attacks Eli's ego and exhaustion: stop resisting the chosen role.
 - Wren attacks Eli's lack of a civic plan: what happens when someone actually harms people?
 - The healer exposes the bodily cost of every ideology: need does not make a person's body public property.
@@ -123,8 +123,8 @@ The lesson is not to add more lore. It is to make existing lore causal and emoti
 | Ecology, politics, religion, and technology forming one system | Anti-entropic energy, ley lines, agricultural growth, stone routing, psion programs, and the world war must cause one another's problems. |
 | A central burden with corrupting potential | The historical record burdens Eli; the amplifier and chosen-one identity tempt him. |
 | Deep history felt beneath the plot | Keep most cosmology in the bible. Let ruins, customs, injuries, songs, arguments, and consequences reveal it. |
-| A fellowship rather than a solitary savior | Wren, Emrys, the healer, and local allies solve different parts of the trail and make indispensable choices. |
-| An antagonist with a serious argument | Crane is right that unregulated psionic warfare can destroy lives. He is wrong that permanent coercive control is the only answer. |
+| A fellowship rather than a solitary savior | Wren, the healer, local custodians, and local allies solve different parts of the trail and make indispensable choices. |
+| An antagonist with a serious argument | Lang is right that unregulated psionic warfare can destroy lives. He is wrong that permanent coercive control is the only answer. |
 | A home worth protecting | Bangladesh and Pelangi Reach provide the emotional hearth against which exile and departure acquire meaning. |
 | Moral resolution through costly action | Mercy, consent, release, and hard nos must cost safety, knowledge, power, or reunion. |
 | Landscape as story | Ports, crops, water, broken lines, mountains, weather, borders, and stone sites determine action. |
@@ -144,7 +144,7 @@ Allowed uses:
 - psion-planted false certainty or future-memory traps;
 - factional recruitment language built from real fragments;
 - media, pilgrims, or desperate families turning a true event into a sacred sign;
-- Crane using anti-messiah rhetoric while building a managerial priesthood through registry, classification, and permanent control;
+- Lang using anti-messiah rhetoric while building a managerial priesthood through registry, classification, and permanent control;
 - Cuno's lossy "Aedan" transmission or the Adapa lacuna being misread as destiny rather than warning;
 - Eli's mother's notes sounding prophetic because they are incomplete research written under duress.
 
@@ -164,7 +164,7 @@ Guardrails:
 
 The **order builds, it doesn't echo**: Somchai's Vol. II Ch. 18 limit is the **proof at intimate/bodily scale** — that you can hold a real gift and not be owned by it, *and that the limit costs* (someone suffers because he won't be their miracle; he refuses anyway). Eli then **scales that up** to civilizational stakes during the Book III attack. The healer teaches by demonstration, not lecture; Eli's harder, political limit stands on the healer's proven one.
 
-**Messianic rise — Eli must read as messiah by Book III (LOCKED 2026-07-23; endgame revised 2026-07-28).** By Volume III Eli rises in messiah-shape: Deiwos chalk, healings, war coordination, Crane's throne offer, and pilgrim/media projection. The drama is myth forming against its subject's will. Book III gives him the bounded crown and an attempted handover; Book IV makes the prolonged court and eventual relinquishment the final test.
+**Messianic rise — Eli must read as messiah by Book III (LOCKED 2026-07-23; endgame revised 2026-07-28).** By Volume III Eli rises in messiah-shape: Deiwos chalk, healings, war coordination, Lang's throne offer, and pilgrim/media projection. The drama is myth forming against its subject's will. Book III gives him the bounded crown and an attempted handover; Book IV makes the prolonged court and eventual relinquishment the final test.
 - Charisma is not automatically evil, but it becomes dangerous when people outsource judgment, consent, or responsibility to it.
 - The final victory must require many people making accountable choices. No prophecy, bloodline, title, or sacred leader saves the world.
 
@@ -207,7 +207,7 @@ Eli never knows the final destination. The outline knows the macro-route; the ch
 
 1. Eli begins in Pelangi Reach, then leaves for one narrow clue in Malacca, not a quest to Albion.
 2. A clue indicates only the next investigation, never the remaining itinerary.
-3. The chain does not belong entirely to his mother. It also comes from living communities, historical practitioners, Wren's contacts, Emrys's measurements, the changing network, and enemy operations.
+3. The chain does not belong entirely to his mother. It also comes from living communities, historical practitioners, Wren's contacts, the changing network, and enemy operations.
 4. At least one clue is stale because a ley line broke.
 5. At least one clue is sincerely misread.
 6. At least one clue is planted by a psion faction.
@@ -251,13 +251,12 @@ The story needs recurring relationships strong enough to carry the cosmology.
 |---|---|---|---|
 | **Eli** | Receiver, clue-follower, moral decision-maker | Hold all Seven without permanent capture | Wants his mother badly enough to rationalize weak clues and dangerous risks |
 | **Wren** | Survivor, operational partner, eventual beloved | Read people, routes, manipulation, and immediate danger | Must stop treating intimacy as either a weapon or trap; needs a goal independent of Eli |
-| **Emrys** | Researcher, incomplete guide, anti-father | Measure and correlate what Eli only feels | Mistakes map for territory; must make a serious error and relinquish authority |
 | **The healer** | Embodied medical conscience and deification test | Perform deeper physical repair, judge bodily cost, and remain human under worship | Must refuse conscription by factions, communities, and eventually Eli; public testimony drives him through kneel → cage → burn pressure |
-| **Crane** | Ideological antagonist and organizer | Turn institutions, fear, and genuine danger into durable control | Must demonstrate why his policy is persuasive, not merely cruel |
+| **Lang** | Ideological antagonist and organizer | Turn institutions, fear, and genuine danger into durable control | Must demonstrate why his policy is persuasive, not merely cruel |
 | **Recurring rival psion team** | Field-level adversarial fellowship | Coordinate attack and defense better than the protagonists initially can | Members need loyalty, fear, disagreement, and at least one choice that complicates simple enmity |
 | **Local allies** | Keep places alive beyond the protagonist | Supply agricultural, maritime, medical, linguistic, historical, custodial, and embodied knowledge; this includes the Pai dragon-staff performer, Pelangi Reach's morning martial-arts teacher, and its sailors | Their needs may conflict with preserving the clue or helping Eli |
 
-Full flesh for present-day cast (provisional names, scene seeds, new roles): `26_present_day_cast_expanded.md`. Character development arcs and proof scenes: `27_character_development_arcs.md`. Emrys slapstick register: `24_comedic_register_slapstick.md`. Craft index: `28_present_day_trilogy_craft_index.md`.
+Full flesh for present-day cast (provisional names, scene seeds, new roles): `26_present_day_cast_expanded.md`. Character development arcs and proof scenes: `27_character_development_arcs.md`. Craft index: `28_present_day_trilogy_craft_index.md`.
 
 ### Wren's missing requirement
 
@@ -274,11 +273,11 @@ Do not use a new anonymous psion squad at every location. Design one recurring t
 - distinct operational functions based on the eventual psionic rules;
 - affection or obligation toward one another;
 - different beliefs about conscription and civilian harm;
-- a reason to fear Crane as well as work with him;
+- a reason to fear Lang as well as work with him;
 - one member who could defect but is not guaranteed to;
 - consequences that accumulate across encounters.
 
-This gives the war a human face below Crane.
+This gives the war a human face below Lang.
 
 ### Courtly intrigue and social manipulation
 
@@ -293,19 +292,19 @@ Use *Game of Thrones* / *Dangerous Liaisons* energy as social technique, not cos
 - scholarship, philanthropy, asylum, and care can hide ownership claims;
 - someone can win a scene by causing two other factions to misread each other;
 - Wren should be competent here: reading threat, desire, leverage, and performance before Eli understands what room he is in;
-- Crane should be most dangerous when he appears reasonable, civil, and socially indispensable.
+- Lang should be most dangerous when he appears reasonable, civil, and socially indispensable.
 
 This layer should express the **Social Game** in present tense. The old court has become foundations, agencies, conferences, clinics, black-budget programs, media ecosystems, private collections, and humanitarian corridors. The dramatic question is whether the protagonists can move through these rooms without becoming pieces on someone else's board.
 
-## 6. Crane's argument and Eli's answer
+## 6. Lang's argument and Eli's answer
 
-Crane's strongest case:
+Lang's strongest case:
 
 > Psions enter dreams, alter perception, expose private memory, injure bodies, and attack in coordinated teams. Nations already weaponize them. Leaving this power unregulated means surrendering civilians to whoever organizes first.
 
 The story should prove that this diagnosis contains truth. Otherwise Eli defeats a straw man.
 
-Crane's error is his conclusion: because risk exists, consciousness must be registered, classified, conscripted, suppressed, or centrally controlled forever.
+Lang's error is his conclusion: because risk exists, consciousness must be registered, classified, conscripted, suppressed, or centrally controlled forever.
 
 Eli's answer must be operational rather than rhetorical:
 
@@ -340,7 +339,7 @@ England should contain the clean example. When Eli's group crosses a watched bou
 
 ### Technology as rehearsal for coexistence — LOCKED
 
-The series must lead the reader to infer that technology is humanity's **external apprenticeship for powers returning in living form**. This cannot arrive as Emrys's closing lecture. It must become unavoidable through repeated plot evidence:
+The series must lead the reader to infer that technology is humanity's **external apprenticeship for powers returning in living form**. This cannot arrive as a mentor's closing lecture. It must become unavoidable through repeated plot evidence:
 
 1. A supposedly magical capacity first resembles something technology has already made ordinary: distant communication, expanded memory, invisible imaging, flight, repair, distributed cognition, or collective coordination.
 2. Instruments make part of the phenomenon measurable without explaining it away. Mechanism reduces panic while leaving genuine mystery intact.
@@ -351,7 +350,7 @@ The series must lead the reader to infer that technology is humanity's **externa
 
 These beats may occur in any volume and should be braided into pursuit, medicine, communication, surveillance, and the psionic war. No scene exists merely to compare a phone to telepathy.
 
-The final coalition is successful only if it demonstrates the distinction Crane denies: **regulate harmful conduct without making a person's nature state property**. Magical beings are neither automatically holy nor exempt from accountability. They can be dangerous, mistaken, selfish, or criminal. Coexistence means the same reciprocal moral world applies to everyone, while compulsory registration, segregation, conscription, experimentation, worship, and extermination are refused. Science belongs on the freedom side only when it remains falsifiable, consent-bound, transparent about limits, and open to review. It becomes Crane's tool the moment testing turns into ownership.
+The final coalition is successful only if it demonstrates the distinction Lang denies: **regulate harmful conduct without making a person's nature state property**. Magical beings are neither automatically holy nor exempt from accountability. They can be dangerous, mistaken, selfish, or criminal. Coexistence means the same reciprocal moral world applies to everyone, while compulsory registration, segregation, conscription, experimentation, worship, and extermination are refused. Science belongs on the freedom side only when it remains falsifiable, consent-bound, transparent about limits, and open to review. It becomes Lang's tool the moment testing turns into ownership.
 
 Psion accountability should therefore have standards, not sacred exemptions: what was observed, under what conditions, with whose consent, with what physiological cost, with what independent witnesses or instruments, and with what remedies if harm occurred. This is the constructive-control answer to both priestly manipulation and anti-regulatory chaos.
 
@@ -383,7 +382,7 @@ Use the **Volume** labels as dramatic movements and the reveal-order document's 
 
 | Volume | Plot movement | Internal movement | External movement | Ending change |
 |---|---|---|---|---|
-| **I — Shattering** | Hearth, breach, westward pursuit, sealed-interface race | Prey → active player | Pelangi Reach → Malacca → Gulf corridor → **Göbekli** | Eli sacrifices complete evidence for living people; Emrys is taken; ancient embodied contact and a later selection/control scar are proven, but their civilizational meaning remains unresolved |
+| **I — Shattering** | Hearth, breach, westward pursuit, sealed-interface race | Prey → active player | Pelangi Reach → Malacca → Thailand → **Sanxingdui** | Eli chooses the distributed living route over Rasel's coerced machine interface and recovers him; nobody is captured — Wren is displaced, Qiao's clearance is lost (`58_sanxingdui_climax_lock.md`) |
 | **II — Descent** | European pursuit, mother truth, tether, release | Player → liberator who must relinquish | Anatolia → Europe → **Stonehenge / Men-an-Tol / Albion** | Eli releases Maren; the web begins a spreading awakening; liberation outruns social capacity |
 | **III — The Living World** | Community construction, federation conflict, Union break, counter-revolution, bounded rule, completed succession | Liberator → strongman-by-proximity → private citizen | **Pelangi Reach → Washington, D.C. → Hawaiʻi Island refuge + constituent assembly** | Coexistence survives attack; handover succeeds and holds for a real stretch; Weavers and cloisters rise by building it; Rowan/Eli charge remains deniable |
 | **IV — The Court of Threads** | Women's court, pregnancy, institutional rivalry, succession, birth | Subtle power → reviewable institutions; ruler → father/citizen | Emergency court + distributed federation | Eli relinquishes during birth; no dynasty; Weaver and cloister power survives under public limits |
@@ -394,40 +393,40 @@ Use the **Volume** labels as dramatic movements and the reveal-order document's 
 
 The series' permanent dramatic question is:
 
-> **How can people belong to one another without owning one another?**
+> **What does an abandoned, created species become when nobody remains to tell it what it is for?**
+
+The relational question—how people may belong to one another without possession—is one important proof, not the umbrella meaning. The larger test includes whether people can inherit without obeying, depend without surrendering judgment, exercise power without becoming its identity, encounter difference without worship or extermination, and make new life without repeating abandonment.
 
 The answer must be proved at three increasing scales:
 
-1. **Book I — hearth:** Eli fails at his father's garden and remains included. At the climax he chooses living people over complete evidence; Emrys is taken partly because of that choice. Right conduct does not erase tragedy.
-2. **Book II — family:** Eli and Maren receive a real, lucid reunion — she is **alive**, and he could take her with him. Maren loved him and resisted Crane, but also helped build signature tools later used to cage others, protected Eli at another person's expense, and delayed acting to preserve access to him. Both want more time. Staying together is exactly what the Charkha built her leash to produce, and it keeps her at the console consuming other captive lives, so Eli releases both her presence and his need for her innocence. She leaves alive and does not come home. The first awakening is limited, fragile, and socially destabilizing; it creates Book III rather than solving it.
-3. **Book III — civilization and necessary authority:** freedom produces a real victim. Crane's diagnosis—that unregulated psionic capacity can destroy civilians—is proven true even though his permanent registry remains wrong. War reveals civilization's concealed operating logic. Eli accepts bounded command, refuses forced synchronization, and completes transfer; the succession machinery he helped build actually holds — until Book IV's attack on the working settlement tests whether it can be defended and released a second time, proving that one success does not retire the question.
+1. **Book I — hearth:** Eli fails at his father's garden and remains included. At the climax he chooses the distributed living route over Rasel's coerced machine interface; nobody is captured, but Wren and Qiao pay in standing and access. Right conduct does not erase every cost.
+2. **Book II — family:** Eli and Maren receive a real, lucid reunion — she is **alive**, and he could take her with him. Maren loved him and resisted Lang, but also helped build signature tools later used to cage others, protected Eli at another person's expense, and delayed acting to preserve access to him. Both want more time. Staying together is exactly what the Charkha built her leash to produce, and it keeps her at the console consuming other captive lives, so Eli releases both her presence and his need for her innocence. She leaves alive and does not come home. The first awakening is limited, fragile, and socially destabilizing; it creates Book III rather than solving it.
+3. **Book III — civilization and necessary authority:** freedom produces a real victim. Lang's diagnosis—that unregulated psionic capacity can destroy civilians—is proven true even though his permanent registry remains wrong. War reveals civilization's concealed operating logic. Eli accepts bounded command, refuses forced synchronization, and completes transfer; the succession machinery he helped build actually holds — until Book IV's Lean Year tests whether it can coordinate material survival and release authority a second time, proving that one success does not retire the question.
 4. **Book IV — embodiment and subtle power:** the women-led court reveals how access, care, pregnancy, attestation, defense, and household recognition govern beneath decrees. The Weavers and men's cloisters must enter public power without becoming hidden sovereign or personal guard. Eli relinquishes only after other institutions can carry consequence and survive his absence.
 
-**Four-scale discovery lock — REVISED 2026-07-28; hero/Taoist hinge 2026-07-30:** **Book I / body:** *What enters me does not own me.* **Book II / family and loss:** *Whom I love does not belong to me.* **Book III / civilization:** *A system calling me family does not earn the right to spend me* — and while Eli wears the hero's surface, **things are not what they seem** (engine in kinship costume; care that owns; victory that is only a stretch). **Book IV / continuity:** *What keeps us alive must still permit us to replace it* — and Eli earns the Living Way / Taoist maturity that **violence leads to violence**, so when cornered between pacifism and finishing the enemy he answers provisionally: **perhaps there is a middle way** (defend without becoming the cycle). Engine/exhaust recognition remains Book III; Book IV tests the institutions built in response **and** whether Eli can stop feeding the loop.
+**Four-scale discovery lock — REVISED 2026-08-01; hero/Taoist hinge 2026-07-30:** **Book I / body:** *What enters me does not tell me who I am.* **Book II / family and loss:** *Love does not require innocence, restoration, or endless availability.* **Book III / civilization:** *A system calling me family does not earn the right to spend me* — and while Eli wears the hero's surface, **things are not what they seem** (engine in kinship costume; care that freezes people into use; victory that is only a stretch). **Book IV / continuity:** *What keeps us alive must still permit us to replace it* — and Eli earns the Living Way / Taoist maturity that **violence leads to violence**, so when cornered between pacifism and finishing the enemy he answers provisionally: **perhaps there is a middle way** (defend without becoming the cycle). Engine/exhaust recognition remains Book III; Book IV tests the institutions built in response **and** whether Eli can stop feeding the loop.
 
-**Desire spine — LOCKED 2026-07-26:** Eli is **fundamentally rescuing his parents** (**Rasel → Book I; Maren → Book II**). He wants a place where he can remain — known without classification, loved without possession, useful without earning existence — **with them and after them**. The plot draws him through transformations of that desire: **rescue the family I lost → recover home → prevent all loss → love and protect without demanding that nothing ever be lost.** He is **not seeking power**; power is offered because rescue routes through war, registry, and prophecy. Book I's Sanxingdui reunion matters because recovering Rasel directly costs Emrys; Book II's reunion matters because keeping Maren would be possession; Book III's politics matter because preventing repeated loss can build the engine that spends people. Every major reveal must alter a desire, relationship, route, or cost. Information alone is not a story turn.
+**Desire spine — LOCKED 2026-07-26; thematic revision 2026-08-01:** Eli is **fundamentally rescuing his parents** (**Rasel → Book I; Maren → Book II**). He wants a place where he can remain — known beyond classification, loved when he is not useful, expected tomorrow — **with them and after them**. The plot draws him through transformations of that desire: **rescue the family I lost → recover home → prevent all loss → love and protect without demanding that nothing ever be lost.** He is **not seeking power**; power is offered because rescue routes through war, registry, and prophecy. Book I's Sanxingdui reunion matters because recovering Rasel costs other people; Book II's reunion matters because keeping Maren available would continue the very machinery he came to end; Book III's politics matter because the wish to prevent repeated loss can build the engine that spends people. Every major reveal must alter a desire, relationship, route, or cost. Information alone is not a story turn.
 
 Book III then locks the following sequence:
 
-- **Crane's workable offer:** universal detection, mandatory training, interoperable records, central emergency command, and enforced containment would prevent some deaths. Admirable communities accept parts of it freely. The danger is that temporary risk categories become permanent identities and no person can meaningfully leave the system.
-- **Washington, D.C. civic movement:** after the fatal refugee incident, a federation delegation enters Continental Union jurisdiction to negotiate recognition, training standards, records, containment, and emergency coordination. The Lincoln Memorial gives the necessary-power argument a physical image—the seated founder, union preserved through war, emancipation joined to exceptional authority—without functioning as a wisdom vending machine. At the Martin Luther King, Jr. Memorial, families harmed by uncontrolled psions and carriers harmed by registration hold names in the same public space without collapsing into one moral story. Eli listens rather than resolves them. D.C. produces the bounded compact through argument, testimony, and procedure, not monument epiphany.
-- **American sequence — REVISED 2026-07-29:** **Hawaiʻi refuge → San Francisco → ruined Washington, D.C. → Union break → strongman-by-proximity → bounded crown → constituent handover succeeds.** Eli does not reclaim the capital as throne. Book III ends with him a private citizen and decentralized governance holding for a real stretch; Book IV opens on that stretch before a coordinated attack asks the question again. Hopi/Colorado shared-garden and ordinary-member closure move to the Book IV settlement/coda as research and route permit.
-- **San Francisco civic movement:** the federation travels through a Pacific relief or federation corridor to Yerba Buena Gardens. The King memorial's water, etched passages, reflection, gardens, and public gathering echo the talking stones without becoming supernatural. The scene holds immigrant, Black, Indigenous, and displaced communities in one civic space without collapsing them into one story. Wren understands the scene more readily than Eli: public meaning is assembled, contested, and answerable to people, not delivered as a singular revelation.
-- **MLK memorial — critical moral bridge AND plot hinge (LOCKED 2026-07-26, rev. affirmative):** beloved community **already working** at civic scale; Eli recognizes Pelangi practice, **proposes polyphonic compact**, learns slow clock vs Crane's fast clock. Lincoln (Ch 5) = throne temptation; King (Ch 4) = **full keyboard / polyphonic construction** → federation replication (`90` §10; `Thesis.md` § *Mature form*).
+- **Lang's workable offer:** universal detection, mandatory training, interoperable records, central emergency command, and enforced containment would prevent some deaths. Admirable communities accept parts of it freely. The danger is that temporary risk categories become permanent identities and no person can meaningfully leave the system.
+- **Brazilian civic movement — LOCKED 2026-08-01:** after Albion, the cast crosses the Atlantic into a specific lower-Amazon / Atlantic river-port receiving network. Following the fatal refugee incident, clinic, port, labor, neighborhood, Indigenous, municipal, threshold, and transregional participants negotiate recognition, training, records, containment, passage, and emergency coordination. These are not one harmonious “South.” The bounded compact emerges through argument, testimony, refusal, and working institutions rather than an American monument epiphany.
+- **Book III sequence — REVISED 2026-08-01:** **Brazilian reception and harm → Lang Standard through port/clinic systems → remote Union break → Wren boundary → interregional compact → Hawaiʻi refuge → bounded crown → constituent handover succeeds.** Eli never travels north to reclaim a capital. San Francisco and Washington remain consequential through records, delegates, refugees, feeds, and continuity demands. Book IV brings the court physically into North America and uses Costa Rica as a locally governed evacuation hinge.
+- **Eagle–Condor hinge:** a named Andean or pan-Indigenous participant offers one version as the possibility of cooperation without merger. Brazilian participants reject the North=mind/technology, South=heart/nature reduction and the presumption that Brazil is simply the Condor. Costa Rican participants later expose the missing isthmus in the binary. The compact—not a bird omen—is the affirmative form. Sol's forced unity and northern resource entitlement are its captures.
 - **Historical-sequence lock:** Book II teaches three distinct ruptures in three distinct registers: the **4.2 ka event** in Mesopotamia through climate and subsistence evidence; the **deluge traditions** through Eridu/Atrahasis/Gilgamesh and later biblical reshaping; and the **Late Bronze Age Collapse** through Anatolian and European material remains. They are not collapsed into one catastrophe. The synthesis is that climate pressure, story-making, and brittle centralized systems interact without producing one inevitable outcome.
-- **Ruined Washington:** the capital has moved inland for logistics and security. Eli passes damaged federal archives, surviving monuments, abandoned emergency infrastructure, memorial visitors, scavengers, registry families preserving names, and competing claims about what the old republic promised. The Lincoln Memorial becomes the major surviving image of union, emancipation, wartime necessity, and indispensable-founder power. The MLK argument has already happened in San Francisco; D.C. asks what remains after a country builds monuments to justice but preserves systems that cannot tolerate unowned people.
-- **Relocated capital:** the Continental Union offers recognition, medicine, supplies, and legal protection in exchange for registry access and federal oversight. Eli goes not as a chosen savior but because the Union is about to define Hawaiʻi, the talking stones, the refugee death, and Maren's legacy without the people affected by them.
+- **Remote Union pressure:** ruined Washington, San Francisco's seizure, inherited continuity vocabulary, and the relocated government reach Brazil through documents and people. The Union offers recognition, medicine, supplies, and legal protection in exchange for registry access, cargo priority, and oversight. Brazilian hosts can refuse the bargain; Eli cannot turn their rooms into an extraterritorial American capital.
 - **Wren's boundary:** Eli needs the threshold-house network and assumes shared love and purpose entitle him to its identities, routes, or command capacity. Wren refuses because people trusted her precisely on the promise that it would not become Eli's army. Her boundary materially damages his plan and the relationship, but the narrative honors it.
 - **The bounded crown:** Eli accepts temporary emergency coordination because permanent renunciation can also abandon people. The authority is purpose-bound, visible, recorded, revocable by several independent communities, unable to requisition Wren's network without consent, and self-expiring.
 - **The coercive temptation:** during the distant Pacific war corridor, Eli can override dissent and forcibly synchronize carriers. It would probably save more people. He refuses that extension of authority and refuses to turn Hawaiʻi into a command base. The voluntary coalition survives incompletely: a named man from an exposed holding crew is killed, other men are permanently injured, and a beloved threshold house is lost. The book does not declare the choice painless or unquestionably correct, and it does not mistake constrained male volunteering for disposability.
-- **Answerability proved, then tested again:** Eli opens the public inquiry and completes transfer after the crisis. He does not control the hearing. Certification succeeds. Book IV opens on that working settlement, then a coordinated attack forces the institutions to decide, on the record, whether to invoke the dormant continuity rule and ask him back — testing whether the first accountability was real or just untested.
+- **Answerability proved, then tested again:** Eli opens the public inquiry and completes transfer after the crisis. He does not control the hearing. Certification succeeds. Book IV opens on that working settlement, then the Lean Year's allocation and trust crisis forces the institutions to decide, on the record, whether to invoke the dormant continuity rule and ask him back — testing whether the first accountability was real or just untested.
 - **Hawaiʻi Island temporary refuge:** the refuge is a locally invited, locally governed federation community on the Big Island of Hawaiʻi, not a front, base, military prize, network capital, or empty paradise available to outsiders. A Native Hawaiian-led stewardship body and existing residents retain the land and governing authority; the newcomers receive conditional, renewable use rights tied to water, housing, ecological limits, maintenance, and review. The precise district, institution, and legal model require research before prose. Eli does not found, own, name, militarize, or spiritually validate the place.
-- **Talking stones and reciprocal oath — LOCKED direction:** local stones answer through a disputed mix of field behavior, geology, old technology, practice, and interpretation. In a dream, a presence Eli understands through the name and stories of Pele appears to require kneeling and an oath. Eli asks whether the oath protects the place or owns him; the final terms are reciprocal service, non-possession, community consent limits, and no authority over unwilling persons. He kneels voluntarily as humility, not submission. The scene requires cultural research and local consultation before prose; Pele is not a generic volcanic oracle or Eli's endorsement machine.
+- **Talking stones and reciprocal oath — LOCKED direction; dream provenance revised 2026-08-01:** local stones answer through a disputed mix of field behavior, geology, old technology, practice, and interpretation. Eli dreams of red earth, a female presence, the cost of arrival, and kneeling without permission; only later, through Hawaiian hosts, does he understand the possible relation to Pele. Contact, prior expectation, and ordinary dream construction remain live readings. The resulting civic terms—reciprocal service, non-possession, community consent limits, and no authority over unwilling persons—come from negotiation with living people, not from the dream. He kneels voluntarily as humility, not submission. The scene requires cultural research and local consultation before prose; Pele is not a generic volcanic oracle or Eli's endorsement machine.
 - **Communal armor — LOCKED direction:** after the oath, local makers, healers, boatworkers, refugee engineers, and threshold-house members fit Eli with practical, uncomfortable, repairable armor for heat, ash, pressure, field exposure, and attack. It is communal equipment made through many people's labor, not a divine superhero suit or permanent crown. Eli removes it before the public inquiry and can wear it again only by consent and need.
 
-This is the operational answer to Crane: power can be used without becoming ownership only when its holder can be observed, limited, judged, and returned to ordinary membership.
+This is the operational answer to Lang: emergency power can serve life rather than become a permanent identity only when its holder can be observed, limited, judged, and returned to ordinary membership.
 
-> **STRUCTURAL REVISION — LOCKED 2026-07-12:** The volume allocations above govern. The older detailed Volume I–III act material immediately below is retained temporarily as a **scene quarry** only and must be rebuilt. In particular: Göbekli and Emrys's capture move to the **Book I climax**; Europe/Stonehenge/Albion and Maren's release move to **Book II**; Book III is no longer the pilgrimage-to-release volume but the construction and defense of a distributed living network.
+> **STRUCTURAL REVISION — LOCKED 2026-07-12; superseded 2026-07-26 by `58_sanxingdui_climax_lock.md`.** The volume allocations above govern. The older detailed Volume I–III act material immediately below is retained temporarily as a **scene quarry** only and must be rebuilt. Göbekli and any surrogate-father capture do **not** move to the Book I climax — Sanxingdui is the Book I climax, nobody is captured there, and Emrys does not exist (`99_open_questions.md` §9). Göbekli is now Book II's counter-image site. Europe/Stonehenge/Albion and Maren's release move to **Book II**; Book III is no longer the pilgrimage-to-release volume but the construction and defense of a distributed living network.
 
 ### The artifact-and-story pursuit — plot engine, order provisional
 
@@ -440,7 +439,7 @@ The artifacts are a distributed evidence chain, not a museum heist or fixed chec
 | Preserve the memory of lost duration | **Sumerian King List** | Impossible pre-Flood reigns contract after the Flood, rhyming with declining patriarchal lifespans; rival factions debate whether this encodes real longevity, dynastic myth, calendrical confusion, or grief |
 | Make wrong knowledge personal | **Adapa tablet with a lacuna** | A warning from a trusted helper becomes evidence that obedience can close the path to life; the missing passage becomes an argument over what Adapa almost knew and why he still refused life |
 | Make domestication morally double | **Enkidu/Shamhat domestication witness** | Wildness, food, sex, grooming, clothing, speech, and city life become an argument over whether civilization is rescue, corruption, education, seduction, or capture |
-| Recover the suppressed relation | **Arslan Tash Amulet 1** and its disputed covenant reading invoking ʿOlam, Asherah, El's sons, and the council | A custodian's story disrupts father-only theology; authenticity and translation disputes give Wren or another character interpretive agency outside Eli and Emrys |
+| Recover the suppressed relation | **Arslan Tash Amulet 1** and its disputed covenant reading invoking ʿOlam, Asherah, El's sons, and the council | A custodian's story disrupts father-only theology; authenticity and translation disputes give Wren or a local custodian interpretive agency outside Eli |
 | Reveal labor and reset propaganda | **Atrahasis / Eridu Flood material** | Creation, labor revolt, and catastrophe appear as layered stories rather than one clean origin account |
 | Focus the ownership race | **Tablet of Destinies claims or fragments** | Factions mistake authority records for a master key; the protagonists must determine whether they are reading a charter, routing charter, ritual copy, or propaganda |
 | Reconcile divine names without flattening them | **Ugaritic council records** | Repeated offices become visible across traditions while local gods and stories retain their differences |
@@ -462,8 +461,8 @@ The embodied gods and their functioning supervisory system are gone. Under the n
 | Circle | Instinct or adaptation formed under the gods | Pitfall after the gods are gone | What the novel must dramatize |
 |---|---|---|---|
 | **Body** | Work, endure, provision upward, obey the stronger signal, earn safety through usefulness, suppress anomalous perception | The person treats the body as equipment owned by employer, state, family, mission, or ideal; exhaustion becomes virtue and automatic charge becomes identity | Eli's TBI, hunger, panic, sleep, touch-aversion, and psi limits must alter decisions. He has to stop offering competence as the price of care. The healer's body likewise cannot be public property. |
-| **Family** | Seek a superior protector, organize descent through approved fathers, compete for selection, equate provision with love, sacrifice the lower member for the household's survival | Parent becomes miniature god; partner becomes possession or resource; child becomes legacy; care becomes debt; gender and generation become command hierarchies; or atomization collapses the middle ring entirely, leaving the individual exposed to civilization without mediation | Eli must distinguish his mother from the role of saving mother, Wren from destiny, Emrys from father, and the healer's care from obligation. Historical households must show both the transmission of life and the first place domination learns to call itself love. The present plot must also show why healthy kinship, chosen household, elders, and local bonds protect the individual from direct institutional capture. |
-| **Civilization** | Feed the temple, surrender surplus, accept chosen intermediaries, mobilize for divine war, punish the anomalous, wait for command from above | Sacrifice becomes taxation without reciprocity; priesthood becomes bureaucracy; divine selection becomes caste and credential; holy war becomes permanent mobilization; dead infrastructure becomes sacred | Each corridor should expose one surviving institutional form, not deliver a lecture. By Albion the reader should recognize the psion registry, national programs, corporate extraction, Crane's paternal management, and the amplifier itself as modern claimants to the vacant god-office. |
+| **Family** | Seek a superior protector, organize descent through approved fathers, compete for selection, equate provision with love, sacrifice the lower member for the household's survival | Parent becomes miniature god; partner becomes possession or resource; child becomes legacy; care becomes debt; gender and generation become command hierarchies; or atomization collapses the middle ring entirely, leaving the individual exposed to civilization without mediation | Eli must distinguish his mother from the role of saving mother, Wren from destiny, any local guide from a father, and the healer's care from obligation. Historical households must show both the transmission of life and the first place domination learns to call itself love. The present plot must also show why healthy kinship, chosen household, elders, and local bonds protect the individual from direct institutional capture. |
+| **Civilization** | Feed the temple, surrender surplus, accept chosen intermediaries, mobilize for divine war, punish the anomalous, wait for command from above | Sacrifice becomes taxation without reciprocity; priesthood becomes bureaucracy; divine selection becomes caste and credential; holy war becomes permanent mobilization; dead infrastructure becomes sacred | Each corridor should expose one surviving institutional form, not deliver a lecture. By Albion the reader should recognize the psion registry, national programs, corporate extraction, Lang's paternal management, and the amplifier itself as modern claimants to the vacant god-office. |
 
 This is not a claim that all instinct, family, or civilization is corrupt or alien-made. Attachment, reciprocity, protection, play, curiosity, kinship, and cooperation also belong to the living human animal. The drama comes from distinguishing those capacities from the installed or captured behaviors that route life upward. The alternative is not isolation or primitivism; it is adult coordination without an owner.
 
@@ -478,7 +477,7 @@ Across the series—and in different combinations rather than a repeated formula
 - Never add a scene merely to "cover" a circle. Attach the idea to an objective, obstacle, reversal, betrayal, rescue, or irreversible choice.
 - A major plotline should usually disturb at least two circles at once. The strongest turns hit all three: bodily survival, intimate loyalty, and public consequence become inseparable.
 - Stagger cause and explanation. A character may suffer a bodily reflex in Volume I, discover its family transmission later, and only much later learn the old civilizational function—or encounter those layers in the reverse order.
-- Let different characters carry different scale combinations. Eli need not personally exemplify every pitfall; Wren, the healer, Emrys, Crane, historical carriers, families, and institutions distribute the argument.
+- Let different characters carry different scale combinations. Eli need not personally exemplify every pitfall; Wren, the healer, Lang, historical carriers, families, and institutions distribute the argument.
 - The climax must not "solve Civilization" after completing Body and Family. It must force one choice whose bodily, relational, and civilizational consequences cannot be separated.
 
 ### The Living Way across the series — LOCKED
@@ -493,7 +492,7 @@ The table records likely accumulations in the existing plot, not a lesson schedu
 |---|---|---|---|
 | **I — Shattering** | **Return to the body under overload.** The Way exists before Eli has a name for it. | 3: know who you are; 5: come back to now; 7: you are not your storms; 8: tell the truth about fear; 13: worth is original | Eli uses breath, sensory orientation, and honest dependence to recover after breach and witness-site contact — **not** to solve "who am I?" Pelangi Reach demonstrates that privacy, care, organization, and freedom can coexist. Protecting a community matters more than possessing clean evidence. |
 | **II — Descent** | **Move from self-regulation into relation, care, and limits.** Practices become recognizable across cultures without becoming interchangeable. | 1: be true, not right; 4: kindness when hard; 10: stillness and listening; 11: forgive without rehiring harm; 12: tend living things | The healer's consent and limits establish that service is not conscription. Eli learns from breath, touch, sound, plant intelligence, and historical practitioners without claiming mastery or cultural ownership. Conflicting witnesses force truth-seeking over doctrinal certainty. |
-| **III — Choice** | **Use authority without becoming its owner.** | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Eli accepts bounded emergency command, refuses forced synchronization, and prepares transfer; the handover attack triggers continuity rule. |
+| **III — Choice** | **Use authority, then become ordinary again.** | 2: hold lightly; 6: let the two be one; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Eli accepts bounded emergency command, refuses forced synchronization, and prepares transfer; the handover attack triggers continuity rule. |
 | **IV — Court** | **Make necessary power capable of ending itself.** | 2: hold lightly; 9: give without keeping score; 11: mercy with boundaries; 12: stewardship | Women expose subtle power; Weavers and cloisters accept public limits; Eli relinquishes during Rowan's labor; the child inherits no crown. |
 
 This inalienable inner victory should become a clear end-of-book strength threshold rather than a private mood. The likely shape is two-stage: **Volume I ends with personal Manual Override**, where Eli can feel a charge, recognize autopilot, and not let conditioning complete the action; **Volume II ends with relational or collective Manual Override**, where the group can hold charged fear, loyalty, pain, and psychic pressure without collapsing into possession, worship, obedience, or betrayal. That is what makes them strong enough for what comes next. Volume III then tests whether this strength can become public civilization without becoming another cage. Full fellowship development arcs: `27_character_development_arcs.md`.
@@ -504,7 +503,7 @@ The series still performs a maturation, but these are cumulative pressures rathe
 >
 > **Volume II:** remain yourself in relationship.
 >
-> **Volume III:** give what you learned without owning the people who receive it.
+> **Volume III:** help build a world that can continue without making you its answer.
 
 This is also the publishing boundary. The novel gives readers **experience and proof through consequence**. The companion material gives them explicit exercises, comparative theology, and a repeatable path. If a Living Way passage does not create a choice, cost, relationship change, or embodied practice in the scene, it belongs in the companion layer rather than the novel.
 
@@ -608,7 +607,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 ### SUPERSEDED SCENE QUARRY — former Volume III allocation
 
-**Dramatic question:** Can Eli free his mother and oppose Crane without becoming the next owner of the system?
+**Dramatic question:** Can Eli free his mother and oppose Lang without becoming the next owner of the system?
 
 **Immediate objective:** locate the tethered ground before rival teams activate, destroy, or nationalize it.
 
@@ -642,9 +641,9 @@ This is also the publishing boundary. The novel gives readers **experience and p
 - The healer keeps bodies alive but refuses impossible demands. The crowd and coalition must decide whether his hard no makes him a fraud, a blasphemer, public property, or an extraordinary man entitled to limits.
 - Wren makes an indispensable choice based on her own objective.
 - Eli reaches his mother and learns that reunion prolongs her tether.
-- Crane offers the throne in the language of responsibility and civilian safety.
+- Lang offers the throne in the language of responsibility and civilian safety.
 
-**Climax choices:** Eli releases his mother, refuses ownership of the amplifier, and refuses to destroy Crane without excusing or freeing him from accountability.
+**Climax choices:** Eli releases his mother, refuses ownership of the amplifier, and refuses to destroy Lang without excusing or freeing him from accountability.
 
 **Two-Tree union act:** Under psionic attack at the stones, Eli joins **life technology** (native anti-entropic connection and release) with **death technology** (ordinary entropic-plane instruments, his mother's encoded equations, and Cuno's measurable station-routing record). Stonehenge forwards the distinct wisdom carried by the artifacts without combining it into a master signal; Maren's release enacts that wisdom under pressure but does not add a new transmission. The reader should feel both trees at once; the **move is release and transmission**, not seizing the grid. The label *death technology* pays off the Adapa bread/water of "death" misnaming. Temporary and costly, but never a merger of minds. See `22_life_technology_and_two_trees_spine.md` § Climax.
 
@@ -670,7 +669,7 @@ Required proof:
 - a durable community or network that does not depend on Eli's command, bloodline, continued presence, or unique moral purity.
 - a public inquiry that can judge Eli, compensate or protect those harmed where possible, restrict his future authority, and preserve the victim's family's right not to forgive him.
 
-The community may remain small, endangered, and imperfect. It may contain fear, crime, resentment, accidents, and political disagreement. What it cannot do is resolve difference through the inherited options of kneeling, burning, or caging. That repeatable social form—not victory over Crane, possession of the grid, or universal awakening—is the positive victory of the third book.
+The community may remain small, endangered, and imperfect. It may contain fear, crime, resentment, accidents, and political disagreement. What it cannot do is resolve difference through the inherited options of kneeling, burning, or caging. That repeatable social form—not victory over Lang, possession of the grid, or universal awakening—is the positive victory of the third book.
 
 This is the "it has always been like this" landing. The series should not end by announcing a new age from above. It should let the reader recognize the pattern from below: science, ordinary law, healing, relationship, technology, and practice were always partial rehearsals for the same mature form of life. The answer was not hidden because it was exotic; it was hidden because fear kept turning it into worship, extermination, or control.
 
@@ -716,13 +715,13 @@ This schedule is a decision ledger, not a curriculum. The reader-facing reveal o
 | Order | Revelation | Likely placement | Decision it changes |
 |---|---|---|---|
 | 1 | Eli cannot trust every surge/command as his own will | Volume I opening | He accepts help with grounding and register-reading |
-| 2 | Organized psion teams exist and attack one another | Volume I Act I | He cannot treat Crane as the only threat |
+| 2 | Organized psion teams exist and attack one another | Volume I Act I | He cannot treat Lang as the only threat |
 | 3 | Plant growth is tracing something real | Volume I Act II | The group risks an agricultural investigation |
 | 4 | Lines break and leave opposed ends | Volume I late | Old maps become suspect |
 | 5 | Crop formations are new lines, not imposed messages | Volume I Act III (Thailand Ch 5–10) | Protecting the living field matters more than possessing a symbol |
 | 6 | First practitioner met **as other** at a **charged ground** | Volume I midpoint | Witness + grief; apprenticeship without ownership |
 | 7 | Eli recognizes a charge but cannot yet stop the autopilot | Volume I Ch 10 (Thailand) | Incomplete override; Wren makes the humane choice |
-| 7b | Distributed Tree recognized; Rasel extracted; Emrys taken | **Volume I climax (Sanxingdui Ch 13)** | Eli completes personal Manual Override through mismatched living cadences; reunion arrives with anger and compromised history; Vol II opens with Rasel present and Emrys absent |
+| 7b | Distributed Tree recognized; Rasel recovered; nobody captured | **Volume I climax (Sanxingdui Ch 13)** | Eli completes personal Manual Override through mismatched living cadences; reunion arrives with anger and compromised history; Vol II opens with Rasel present, Wren displaced, and Qiao's clearance lost |
 | 8 | Stones route rather than generate energy | Volume II | Buried and intact sites acquire different tactical meanings |
 | 9 | A witnessed healing exceeds ordinary expectation; the healer asks for secrecy | Volume II | Protecting his identity and finite capacity becomes a route constraint, not a humility performance |
 | 10 | Historical factions weaponized the same human vulnerabilities | Volume II | Eli stops seeking a morally pure ancestral authority |
@@ -824,7 +823,7 @@ Wren's past relationships introduce the pattern personally. **Rowan** is **Briti
 5. **The first volume's climax location:** South Asia is structurally strongest, but the precise community and agricultural setting require research.
 6. **The Volume I ending clue:** what points onward without revealing Albion.
 7. **Psionic combat rules:** what one psion can do, what requires a team, effective range, detection, defense, physiological consequences, and failure modes.
-8. **The revelation ledger:** track what Eli, Wren, Emrys, Crane, each faction, and the reader know after every chapter.
+8. **The revelation ledger:** track what Eli, Wren, Lang, each faction, and the reader know after every chapter.
 
 ## 13. Recommended drafting order
 

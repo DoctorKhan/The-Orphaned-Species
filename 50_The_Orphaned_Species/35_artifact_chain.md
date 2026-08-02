@@ -73,8 +73,8 @@ Artifacts operate on three levels:
 ### Volume II — The Descent
 
 - **The Loop** seed only (optional): unnoticed hatch-mark rhyme permitted; no street name, no working reading. Full diagnostic lands Book III/IV. § *The Loop*.
-- **Enheduanna's Inanna hymns:** authored voice inside political theology; characters encounter a displaced speaker, while the reader sees the warning about who interprets and owns sacred authority.
-- **Inana's Descent:** descent, surrender, accurate resonance, and restoration; Somchai embodies the method while Eli initially mistakes it for a code.
+- **Enheduanna's Inanna hymns:** authored voice inside political theology; characters encounter a displaced speaker, while the reader sees the warning about who interprets and owns sacred authority. **Book II archive** (not Book I — Mesopotamia relocated).
+- **Inana's Descent — dual face (LOCKED 2026-08-01):** (1) **healing** — Somchai embodies attend-then-restore; Eli misreads seven gates as Manual Override. (2) **Wren/Rowan romance** — same myth supplies successive surrender of armor/claim before renewed intimacy; attend, don't storm. Hub: § *Inana's Descent*; romance: `19` § *Rowan returns*.
 - **The Sorting** (Enki and Ninmah): full cross-ref after Vol I seed — every person has purpose even when no institution can use or classify them; the story seeds the Book III refugee ethic.
 - **Timna serpent / Nehushtan:** a paired historical argument—serpent inside the making, serpent later erased by centralizing authority.
 |- **Cuno–Derw object:** incomplete station geometry, artifact signs, routing
@@ -84,7 +84,7 @@ Artifacts operate on three levels:
 ### Volume III — The Living World
 
 - **The Loop** (Incomplete Twin Circles): primary street-name and working reading. Book III can look like victory from outside — federation, bounded crown, release — while remaining unsatisfying for Eli; The Loop names that counterfeit completion / atomization aftermath. Optional Book IV court re-read (succession / consort / belonging fantasies). Full lock: § *The Loop*.
-- **Tablet of Destinies fragments:** competing claims about who may authorize, name, or command the system; Crane and Sol weaponize opposite readings.
+- **Tablet of Destinies fragments:** competing claims about who may authorize, name, or command the system; Lang and Sol weaponize opposite readings.
 - **Atrahasis and catastrophe evidence:** labor, extraction, reset, and survival as civic evidence rather than a new quest object.
 - **Unified two-tree image:** a partial final recognition that Knowledge and Life were always intended to converge; it may remain reader-facing rather than becoming a collectible solution.
 
@@ -128,14 +128,14 @@ Discovery-order note: **artifact zero** means oldest/deepest in cosmological pre
 |---|---|---|---|
 | **The Forks** / Double-Fork Stone | Fictional story artifact, withheld until Book III | Earth-produced bird/chimpanzee branches beside Heaven/panspermic dragon/human branches; the parallel branches carry distinct Earth–Heaven departure functions | Late biological/cosmological reveal; street **The Forks**; validates the parallel bridge-species design and reframes the human urge to leave Earth without making dragons an early taxonomy clue |
 | **The Circles** / Three-Circles Tablet | Fictional or highly disputed diagram tablet; do not present as a known real object unless a verified analogue is found | Three concentric circles with a dot at the center: Body, Family, Civilization around the conscious operator; an index grammar for selecting relations in the damaged ley network | Street **The Circles**; first Meridian recovery artifact; practice model as material image; test whether cosmology, social diagram, ritual plan, or later forgery |
-| **The Loop** / Incomplete Twin Circles | Fictional or disputed portable seal, pendant, plaque, or diagram; never market as a verified ancient object | Two incomplete circles with opposed hatching; when joined they form an infinity. One hatch = desire to feel good; the other = imagination. Joined without a third check = closed fantasy/delusion circuit (Drift pathway). Also names atomization’s aftermath, and Book III’s “looks complete from outside / unsatisfying within” hollowness | Street **The Loop**; **Book III** primary (optional IV court re-read); Book II seed only; not a rival to The Circles; wrong readings seduce (eternal love, destiny, Two-Tree union, civic victory) |
+| **The Loop** / Incomplete Twin Circles | Fictional or disputed portable seal, pendant, plaque, or diagram; never market as a verified ancient object | Two incomplete circles with opposed hatching; when joined they form an infinity. One hatch = desire to feel good; the other = imagination. Joined without a third check = closed fantasy/delusion circuit (Drift pathway). Also names atomization’s aftermath, and Book III’s **real civic completion followed by private incompletion**: victory holds while belonging and material sufficiency remain unresolved | Street **The Loop**; **Book III** primary (optional IV court re-read); Book II seed only; not a rival to The Circles; wrong readings seduce (eternal love, destiny, Two-Tree union, civic victory) |
 | **The Bridge** / Göbekli snake/tree/bird plaquette | Real Göbekli Tepe small find reported in excavation/public outreach material; exact publication, inventory number, and image rights to verify before use | Three carved symbols (snake, tree, bird): Earth's earliest surviving **bridge diagram**—tree = living interface where Heaven meets Earth; snake and bird = transmission functions later myth turned into enemies. Three stacked readings: terrestrial, guardian, cosmological. See § *Göbekli plaquette* | Street **The Bridge**; Book II discovery; no on-page panspermia certification until Book III |
 | **The Fade** / Sumerian King List / Weld-Blundell tradition | Real textual tradition and surviving manuscripts | Before the Flood, reigns last impossibly long; afterward durations contract toward recognizably human lifespans. The sequence preserves a cultural memory of lost immortality, rhyming with the long lives and later decline of biblical patriarchs. | **Human-Design Triad (3/3)** — street name **The Fade**; mortality as right boundary, not curse (`35` § *Mesopotamian Human-Design Triad*) |
 | **The Refusal** / Adapa tablet with a lacuna | Real textual tradition with fragmentary witnesses; the specific missing-passage tablet in the novel may be a fictional witness, copy, or disputed reconstruction | A human refuses life after receiving a warning he cannot verify; the missing passage may contain what Adapa almost understood or what later editors could not preserve | **Human-Design Triad (1/3)** + load-bearing object #3; street name **The Refusal** (first hearing may say “Adapa’s Refusal”); foolable mind; Tree of Life withheld (`99` #10) |
 | **The Sorting** / Enki and Ninmah role-fragment | Real Sumerian literary tradition with fragmentary lines; exact object in the novel may be a copy, photo, or disputed reconstruction | Ninmah creates people whose bodies or capacities do not fit the expected pattern; Enki assigns fates, bread, and places; Umul breaks the text | **Human-Design Triad (2/3)** — street name **The Sorting**; **everyone has value**; roles/specialties; Umul = **The Unplaceable** (`35` § *Mesopotamian Human-Design Triad*) |
-| **The Taking** / Inana and Enki / the Arta | Real Sumerian literary tradition | Civilization-functions are loaded into the Boat of Heaven and carried from Eridu to Uruk | Street **The Taking**; civilization as portable order — offices, arts, laws, desires, weapons, rituals moved, stolen, installed, or misused. Emrys: **Arta** once. |
+| **The Taking** / Inana and Enki / the Arta | Real Sumerian literary tradition | Civilization-functions are loaded into the Boat of Heaven and carried from Eridu to Uruk | Street **The Taking**; civilization as portable order — offices, arts, laws, desires, weapons, rituals moved, stolen, installed, or misused. Archive material: **Arta** once. |
 | **Enheduanna's Inanna hymns** | Real Sumerian literary tradition attributed to Enheduanna; authorship and transmission require caveats because surviving manuscripts are later copies | A named priestess-poet invokes Inanna's overwhelming power while speaking from exile, institutional displacement, and political danger | Gives the trilogy a historical model for authored voice, sacred rhetoric, female religious authority, and the danger of hymn becoming imperial/theological technology |
-| **Inana's Descent / life-giving plant and water** | Real Sumerian literary tradition | Liminal beings mirror Ereshkigal's pain, then restore Inana with life-giving plant and water | Gives the healer arc an ancient rhyme: restoration through resonance, attention, and correct intervention rather than domination |
+| **Inana's Descent / life-giving plant and water** | Real Sumerian literary tradition | Liminal beings mirror Ereshkigal's pain, then restore Inana with life-giving plant and water | **Dual face (2026-08-01):** healer rhyme (Somchai / attend-then-restore) **and** Book II Wren/Rowan romance rhyme (gates = successive surrender of claim; return with cost; Dumuzi shadow = Eli's provisional fear, not literal sacrifice). Never identify the women as Inana/Ereshkigal |
 || **Enki and the World Order** | Real Sumerian literary tradition | Enki assigns offices, lands, crafts, borders, fertility, writing, and social functions; Inana contests her allocation | Provides the macro-version of the role-fragment: civilization as a function-allocation machine ||
 || **Kuntillet ʿAjrud / Khirbet el-Qom inscriptions** | Real epigraphic finds: jar inscriptions and wall texts from northern Negev/central hill country sites, 8th c. BCE; some readings disputed | Material evidence for a divine pair — a consort figure alongside the national god — preserved on ordinary pottery, not royal theology | The **on-page anchor for Yahweh's southern origin argument** without using the divine name; characters encounter squeezes, photos, or disputed transcriptions of *"Yahweh and his Asherah"* and argue polytheism vs. monotheism vs. household cult vs. later theological erasure; same contested-evidence discipline as AT1 ||
 || **Arslan Tash Amulet 1 (AT1)**
@@ -268,7 +268,7 @@ The third check may be body, kin, evidence, consent, grief, or ordinary work —
 **Transmission:** primarily **material** (geometry, opposed hatching, worn join) and **human** (custody stories, keeper warnings, Drift-sick redrawing). Optional thin dream residue of two unfinished rings trying to meet — never a complete doctrinal download. Distortion cost: the object invites identification with the infinity reading before the hatch difference is noticed.
 
 **Series placement — Book III primary; Book IV optional re-read — REVISED 2026-07-30:**
-- **Book III** carries the street name and working reading. This is where the polity can look good from outside — federation forming, bounded crown accepted, transfer prepared, coexistence partly working — while remaining **unsatisfying for Eli**: usefulness without belonging, recognition without home, victory that still feels like a closed loop. The Loop diagnoses that hollowness without canceling the real civic goods.
+- **Book III** carries the street name and working reading. This is where the polity's victory becomes real — federation forming, bounded crown accepted, transfer completed, coexistence partly working — while Eli remains **unsatisfied in private**: usefulness without belonging, recognition without home. The Loop diagnoses that incompletion and the federation's remaining debt without canceling the civic goods. Book IV tests what was built.
 - **Book IV** may re-read it in court: succession fantasies, consort/heir capture, belonging sold as completion, institutions that look finished and still leave people sealed inside private infinities.
 - **Book II** may plant only an unnoticed hatch-mark rhyme (Extra settlement graffiti, companion UI, Sol iconography) **without** naming The Loop or delivering the working reading.
 - **Book I** may plant only an unnoticed hatch-mark rhyme (Cube product, companion UI, graffiti) without naming The Loop.
@@ -294,7 +294,7 @@ A real small-find from the Göbekli Tepe excavations is described in public-faci
 | Zoom | Reading | When it pays off |
 |---|---|---|
 | **Terrestrial** | Snake = low places (Abzu, waters) · Tree = **Edin** (living substrate, steppe, uncut life) · Bird = high places (charged grounds, Hermon, megaliths) | Book I — what Aru's people could live inside without cosmic vocabulary |
-| **Guardian** | Snake = under-route (Apkallū) · Tree = living conductor / ley route · Bird = sky-route (Watchers / Nephilim) | Book I–II — Emrys, keeper tradition, fox-pillar, two-tree grammar |
+| **Guardian** | Snake = under-route (Apkallū) · Tree = living conductor / ley route · Bird = sky-route (Watchers / Nephilim) | Book I–II — keeper tradition, fox-pillar, two-tree grammar |
 | **Cosmological** | Snake = Earth-depth / organic serpent-line · Tree = **bridge-interface** (where Heaven's seed meets Earth's biology) · Bird = Heaven-seed / transmission / the drop from above | Book III — Double-Fork Stone, dragon memory, panspermia |
 
 The three-domain map is how the symbol **kept working on Earth** after Heaven went quiet. Panspermia is what it may have meant when both orders were still in contact (~10,800 BCE fall → Göbekli response). Same stone; different zoom.
@@ -346,7 +346,7 @@ Book III's convergence image completes the ladder: the plaquette is the **pre-sp
 
 ### Book I reveal cap
 
-Book I does **not** certify the panspermia decode on-page. At Ch 13: Eli may read Eden (popular); Emrys may read guardian split (functional); a keeper may quietly recognize the three-domain map (lived geography). **Nobody** names alien seeding or the full Heaven/Earth design. The reader may hold the deepest layer; the characters earn it in Book III.
+Book I does **not** certify the panspermia decode on-page. At Ch 13: Eli may read Eden (popular); Rasel may read guardian split (functional); a keeper may quietly recognize the three-domain map (lived geography). **Nobody** names alien seeding or the full Heaven/Earth design. The reader may hold the deepest layer; the characters earn it in Book III.
 
 The artifact should become the **reader's first key** for later tablets, seals, reliefs, and amulets that show ONE tree with ONE guardian — because by the time those images were made, the domains had drifted apart. Each later image is now a single guardian and a single tree, showing where the split became permanent:
 
@@ -391,13 +391,13 @@ Some later symbols **look like** the plaquette or rainbow-tree grammar without b
 
 - **Caduceus** (Hermes' winged staff with two serpents) — similar geometry (axis + twin serpents + sky-wings), different meaning. Hermes is messenger, boundary-crosser, and commerce in Greek tradition — not the Two-Tree union, not the feathered serpent, not Göbekli's bridge diagram. Do not fold the caduceus into the deep-time roster or the compression ladder.
 - **Rod of Asclepius** (single serpent on a staff) — healing / Life-route imagery only; closer to Somchai's lane than to union symbolism. Modern hospitals often confuse it with the caduceus; that mix-up may appear as ambient **Drift** texture (institutions wearing the wrong emblem) without becoming a plot key.
-- **DNA double helix** — Eli or Emrys may privately notice the twist-rhyme with two intertwined trunks; keep it a character aside, not authorial proof.
+- **DNA double helix** — Eli or Rasel may privately notice the twist-rhyme with two intertwined trunks; keep it a character aside, not authorial proof.
 
 **Rule:** if a symbol shares a shape, a character may say so; the canon does not claim equivalence.
 
 **Series-wide placement:**
 
-- **Book I — The Breach:** Eli first sees the plaquette as a photograph or high-res scan (Emrys's collection or archive research). He tentatively reads it as Eden-like; Wren disputes; a keeper may quietly feel the three-domain map (low / Edin / high) without naming the Zoning Model. The Snake + Tree + Bird question is raised but not resolved — it is the reader's first visual grammar for all later Tree-of-Life imagery. Panspermia is not certified on-page.
+- **Book I — The Breach:** Eli first sees the plaquette as a photograph or high-res scan (archive research). He tentatively reads it as Eden-like; Wren disputes; a keeper may quietly feel the three-domain map (low / Edin / high) without naming the Zoning Model. The Snake + Tree + Bird question is raised but not resolved — it is the reader's first visual grammar for all later Tree-of-Life imagery. Panspermia is not certified on-page.
 - **Book II — The Descent:** The group encounters multiple single-tree / single-guardian artifacts across different cultures (Egypt, Canaan, Mesopotamia, Anatolia, Albion). Each encounter applies the plaquette's grammar and reveals a different faction's half-reading of the split. The reader learns that the plaquette was unusual precisely because it preserved the pair.
 - **Book III — The Return:** The **rainbow tree** (Two-Tree Union symbol) is found or made — two intertwined trunks, guardians as feathered serpent; the cosmological zoom lands with the Double-Fork Stone and dragon memory. The plaquette's three-symbol bridge and the union symbol's two-tree twist are read as wound and repair. The trilogy's final image is not one tree or one guardian but both routes and both guardians restored — which is also what the Three Circles outer ring demands: civilization that holds both without forcing one to own the other.
 
@@ -406,6 +406,13 @@ This compresses with the Three-Circles Tablet: the tablet is the social grammar 
 ## Series icon — the Sanxingdui tree (LOCKED 2026-07-29)
 
 **The flagship recurring visual for covers, chapter dividers, and marketing is the Sanxingdui Bronze Tree itself — not an invented dragon-and-tree emblem, not the sun-wheel.** It supersedes `37_deep_time_source.md` § *The wheel* as the book's "central image" claim; that section is retitled and kept as an in-story beat about a corrupted symbol, not the series icon (real-world swastika/sun-wheel imagery must never anchor marketing or cover art).
+
+**Pitch distinction — LOCKED 2026-08-01:** The tree owns the recurring visual
+system; Rasel's two-metal wedding ring owns the first causal memory in pitch
+copy. The ring may appear inside Book I's evidence/tree design, but it is not a
+mandatory emblem on every cover. Visual continuity and story-hook simplicity
+are different jobs (`55_series_pitch_and_comps.md` § *Public hook and visual
+identity*).
 
 **Why this object and not a generic guardian-tree:** it is already on the page, already real, and already load-bearing:
 
@@ -431,7 +438,7 @@ On-page and in dialogue, the packet is:
 | **The Sorting** | Enki and Ninmah role-fragment | Person / gift | **Everyone has value.** Different bodies and capacities receive **real fates, bread, roles, and specialties** — not broken stock; diversity is design. **Bodily decline focuses** effort in time; mortality is a **forcing function**, not a curse. Institutions corrupt this into registry sorting. |
 | **The Fade** | Sumerian King List (declining reigns) | Species / memory | Before the Flood, impossibly long reigns; after, lifespans **contract toward the human scale**. Mortality as **cultural memory of the right boundary**, not proof humans were once gods. Rhymes with Adapa and patriarch chronologies. |
 
-**Craft:** scholars, Emrys, and archive labels may still use the tradition titles; Eli, Wren, keepers, and street speech prefer the locked street names. First hearing of the Adapa text may say “Adapa’s Refusal” or “the Adapa — the Refusal”; afterward use **The Refusal**. Do not rename Umul’s ending as a fourth packet title — it lives inside **The Sorting**. Contested dialogue may say “Enki’s sorting” as a *reading*, not as the street name.
+**Craft:** scholars and archive labels may still use the tradition titles; Eli, Wren, keepers, and street speech prefer the locked street names. First hearing of the Adapa text may say “Adapa’s Refusal” or “the Adapa — the Refusal”; afterward use **The Refusal**. Do not rename Umul’s ending as a fourth packet title — it lives inside **The Sorting**. Contested dialogue may say “Enki’s sorting” as a *reading*, not as the street name.
 
 ### Artifact street shelf — LOCKED 2026-07-26; The Loop added 2026-07-30
 
@@ -444,8 +451,8 @@ Wider clue-chain objects use the same grammar (**The + wound/act**). Scholar/mus
 | **The Refusal · The Sorting · The Fade** | Human-Design Triad packet | See table above. |
 | **The Loop** | Incomplete Twin Circles / Double-Hatch Infinity | **Book III** primary Drift / atomization / counterfeit-completion diagnostic; optional Book IV court re-read; Book II seed only. Full lock: § *The Loop*. |
 | **The Exile** | Genesis Eden / Eden III Adam expulsion | Rhyme to Refusal; **not** a fourth triad member. Spoken: *Refusal, Sorting, Fade — and later, the Exile.* |
-| **The Taking** | Inana and Enki / Arta | Civilization-functions **taken** into the Boat of Heaven — seized, carried, installed. Pair once with the boat image so it does not read as random theft. Emrys may say **Arta** once as term-of-art; street prefers **the Taking**. Rejected: Transfer, Endowments, Gifts (talent/present muddle), Cargo/Load. |
-| **The Forks** | Double-Fork Stone | Sibling branching; Book III with dragon ghost. Emrys may say Double-Fork; street **the Forks**. |
+| **The Taking** | Inana and Enki / Arta | Civilization-functions **taken** into the Boat of Heaven — seized, carried, installed. Pair once with the boat image so it does not read as random theft. Archive material may say **Arta** once as term-of-art; street prefers **the Taking**. Rejected: Transfer, Endowments, Gifts (talent/present muddle), Cargo/Load. |
+| **The Forks** | Double-Fork Stone | Sibling branching; Book III with dragon ghost. Archive material may say Double-Fork; street **the Forks**. |
 | **the Rainbow Tree** | Two-Tree Union symbol | Already locked; keep lowercase *the* in running prose if preferred. |
 
 **Spoken shelf (Vol I → III):** *The Circles · The Bridge · Refusal, Sorting, Fade — and later, The Loop · the Exile · The Taking · The Forks · the Rainbow Tree.*
@@ -561,13 +568,13 @@ The **Arta** are not physical objects. They are the fitted order of civilization
 
 Novel use: this is the cleanest ancient analogue for **knowledge installed as social capacity**. Civilization is not only buildings and armies; it is a portable inheritance of roles, permissions, arts, seductions, and weapons — distributed by the gods and **taken** between centers of power. The Taking can be copied, stolen, misread, or used before a community is mature enough to carry it. The trilogy's version is the grid, the keeper-net, the Custodian registry: modern functions allocated and enforced by whoever controls the network.
 
-**Craft:** street says **the Taking**; pair once with the Boat of Heaven so it does not read as random theft. Emrys may introduce **Arta** once (“fitted capacities”), then prefer street speech. Rejected street names: Transfer, Endowments, Gifts, Cargo, Load.
+**Craft:** street says **the Taking**; pair once with the Boat of Heaven so it does not read as random theft. Archive material may introduce **Arta** once (“fitted capacities”), then prefer street speech. Rejected street names: Transfer, Endowments, Gifts, Cargo, Load.
 
 Guardrail: do not make the Arta into literal computer files. The value is the analogy: functions move between centers of power, and whoever controls the Taking shapes a civilization's instincts.
 
 ### Enheduanna's Inanna hymns — authored sacred voice
 
-**TRILOGY PLACEMENT — LOCKED 2026-07-15:** Enheduanna's hymn is a human and political countervoice, never a magical key, prophecy, or Albion instruction. In **Book I Ch 12**, Eli encounters a damaged/disputed hymn alongside the Adapa material and recognizes a named woman speaking from displacement inside an imperial system. In **Book II Ch 20–21**, Anthea's embodied song is compared with (but never identified as) Enheduanna's authored text; a faction attempts to read the hymn as prophecy, and Eli rejects that use. In **Book III Ch 31**, the hymn's survival informs the public hearing's question of who may preserve, interpret, and authorize a voice. Eli's final bard function is custodial and provisional: he carries a song without owning or canonizing it.
+**TRILOGY PLACEMENT — LOCKED 2026-07-15; route-corrected 2026-08-01:** Enheduanna's hymn is a human and political countervoice, never a magical key, prophecy, or Albion instruction. In **Book II Mesopotamian archive (Ch 2)**, Eli and company encounter damaged/disputed hymn material beside Adapa / Refusal / Taking evidence; a named woman speaks from displacement inside an imperial system (**not Book I** — Mesopotamia relocated). Later Book II, Anthea's embodied song may be compared with (but never identified as) Enheduanna's authored text; a faction attempts to read the hymn as prophecy, and Eli rejects that use. In **Book III**, the hymn's survival informs a public hearing's question of who may preserve, interpret, and authorize a voice. Eli's final bard function is custodial and provisional: he carries a song without owning or canonizing it.
 
 **Recurring contrast — LOCKED:** Enheduanna's voice survives in text; Anthea's in bodies and sound; Maren's is suppressed by an institution; Wren protects voice through boundaries and hard nos; Eli receives, alters, and relinquishes rather than possessing any of them. Do not make Eli a new Enheduanna, Inanna avatar, or scripture-founder.
 
@@ -588,15 +595,24 @@ Guardrails:
 - Do not flatten her into a modern feminist symbol, a prophetess, or an Inanna avatar. She is a political, priestly, literary, and embodied person inside a real power system.
 - Do not make her "solve" Inanna. Her hymn should intensify the question of power: how does a person invoke overwhelming force without becoming its mouthpiece or its property?
 
-### Inana's Descent — healing by resonance
+### Inana's Descent — dual face (healing + Wren/Rowan)
 
-**TRILOGY FUNCTION — LOCKED 2026-07-15:** This myth supplies the trilogy's descent-and-restoration grammar, distinct from Enheduanna's authored-voice motif. Eli first misreads the seven gates as a technique for surrendering powers to gain a final ability; he later understands surrender as the condition for meeting another consciousness without owning it.
+**TRILOGY FUNCTION — LOCKED 2026-07-15; dual face LOCKED 2026-08-01:** This myth supplies the trilogy's descent-and-restoration grammar, distinct from Enheduanna's authored-voice motif. It has **two Book II faces** that must not collapse into one lecture:
 
-**Placement — LOCKED:** In **Book II Ch 15**, Eli encounters the myth while Somchai sits with a patient; Somchai lives the method while Eli reaches for a code. In **Book II Ch 21**, Eli surrenders complete knowledge, the Maren tether, strategic control, and the fantasy of restoring his mother unchanged. The group's formation mirrors the liminal beings: it stays present with the suffering system rather than overpowering it. In **Book III**, Eli applies the same grammar to civic collapse; forced synchronization would be an army storming the underworld, while bounded presence allows voluntary restoration.
+1. **Healing face** — Somchai / Eli / Maren / civic. Attend, then restore. Eli first misreads the seven gates as a Manual Override technique (surrender powers to gain a final ability); he later understands surrender as the condition for meeting another consciousness without owning it.
+2. **Romance face — Wren/Rowan** — same grammar applied to formative love's return. Gates = successive surrender of armor, rank, ply automaticity, and possession-fear before intimacy is allowed. Attend, don't storm = Rowan's person-first protocol and the pair-severance answer (influence ≠ command). Return with cost = renewal only after danger and disclosure. **Dumuzi shadow** = Eli's fear of being the one left above / made provisional — emotional pressure, **not** a literal substitute-sacrifice plot and not a cue to demote him. Do **not** cast Wren or Rowan as Inana, Ereshkigal, or Dumuzi; the rhyme is structural, not reincarnation.
+
+**Placement — LOCKED 2026-08-01 (10-chapter Book II spine):**
+- **Ch 2 (Mesopotamian archive):** text/image enters; Haddad-style overlay misreads Descent as seven-stage conquest; Nadiya/curator keeps the attend-then-restore reading. Wren hears both — seeds later conduct without naming herself.
+- **Ch 4 (Somchai):** healing face lived on-page; Eli reaches for a code; Somchai practices resonance.
+- **Ch 6–7 (Rowan return / Callum recovery / earned reopening):** romance face pays off through conduct — collision, person-first limit, disclosure, explicit choice after danger. Optional one-line echo of the archive reading allowed; no myth-lecture pillow talk.
+- **Ch 10 (Maren release):** healing/civic face completes for Eli — surrender of tether and unchanged-mother fantasy; group stays present rather than overpowering. Book III reuses the grammar on civic collapse (forced sync = storming the underworld).
 
 In **Inana's Descent**, Enki creates small liminal beings who do not storm the underworld by force. They sit with Ereshkigal and mirror her pain. Only after that resonance do the life-giving plant and water restore Inana.
 
-Novel use: this is the strongest ancient rhyme for the healer's method. Healing is not command, conquest, diagnosis-by-force, or charisma. It begins with accurate resonance: meeting the suffering system where it is, then applying the right life-energy intervention. This should foreshadow the healer's declining to be worshipped; the healing belongs to the alignment, not to a new godman. Ereshkigal retains legitimate pain and agency; she is not reduced to a defective system waiting for diagnosis.
+**Healing novel use:** strongest ancient rhyme for the healer's method. Healing is not command, conquest, diagnosis-by-force, or charisma. Accurate resonance first; then life-energy intervention. Foreshadows the healer declining worship; Ereshkigal retains legitimate pain and agency.
+
+**Romance novel use:** strongest ancient rhyme for Wren/Rowan's Book II renewal. Recognition without automatic access; stripping of claim before touch; restoration that costs someone watching (Eli) without making him disposable. Pair with `19` § *Rowan returns*.
 
 Possible line of interpretation: the life-giving plant and water are not magic fuel by themselves. They work because the closed system has first been met without aggression.
 
