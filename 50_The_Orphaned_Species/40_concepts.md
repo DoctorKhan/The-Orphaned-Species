@@ -2,7 +2,7 @@
 
 *Working file for named conceptual machinery that needs to stay consistent across Book 5. These are not chapter prose; they are control-system notes for drafting, revision, and cross-era rhyme.*
 
-> **THEMATIC HIERARCHY — LOCKED 2026-08-01:** The governing subject is **species adulthood after abandonment**, not ownership. Ownership is one form of the cage response beside worship, extermination, assigned usefulness, false independence, lineage destiny, amnesia, and replacement-parent seeking. Use the exact mechanism in each scene. The broad human movement is from **a purpose assigned by makers** to **the difficult practice of learning how to live**.
+> **THEMATIC HIERARCHY — REVISED AND LOCKED 2026-08-02:** The governing subject is **species adulthood after self-orphaning**, not ownership. Humanity turned against the gods and their progeny, killed them, destroyed the bridges between worlds, and later mistook the silence it created for abandonment. Ownership is one form of the cage response beside worship, extermination, assigned usefulness, false independence, lineage destiny, amnesia, and replacement-parent seeking. Use the exact mechanism in each scene. The broad human movement is from **a purpose assigned by makers—or violently rejected** to **the difficult practice of learning how to live after the founding crime is understood**.
 
 ---
 
@@ -902,9 +902,9 @@ Use herem as a structural memory, not an apologetic lecture. The story does not 
 
 ---
 
-## The three circles — meaning-of-life spine (LOCKED, 2026-07)
+## The three circles — meaning-of-life spine (LOCKED, 2026-07; self-orphaning revision 2026-08-02)
 
-The series' deep subject is **how a created and abandoned species learns what life is for through three concentric circles of relationship**, resolving into the **unification of the two trees** as the historical endpoint.
+The series' deep subject is **how a created and self-orphaned species learns what life is for through three concentric circles of relationship**, resolving into the **unification of the two trees** as the historical endpoint. The species is not merely grieving absent makers; it is learning what it did to them and whether it can meet their surviving progeny without repeating the founding violence.
 
 1. **Body** — the relationship to one's own body/self, where you *befriend the parts that try but fail to be happy*: the NPC/robot within (automatic seeking, the receiver's surge, the TBI scar, appetite, habit). Integration, not suppression or possession. *The body circle is the autopilot thesis (`10_triangulation_of_control.md`) completed: first the occupant steps in as the player; then he befriends the NPC he took the controls from.*
 2. **Family** — how we became atomized; how bonds can be *chosen* and better. The orphan wound; Pelangi Reach as chosen family; the mother Eli cannot return to.

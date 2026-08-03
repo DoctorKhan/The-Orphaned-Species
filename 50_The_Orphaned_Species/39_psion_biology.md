@@ -35,7 +35,35 @@ This is the mechanism under the book's **kneel** posture—one part of the large
 
 **Circuit night as living entrainment ritual — proposed 2026-07-29 (Book I texture, implicit only):** the Cherry Cube's idol spectacle is Meridian City's own hollowed-out descendant of "worship is partly entrained" — the god-king broadcast run through pop culture and consumer tech instead of temple and throne, its original mechanism forgotten by nearly everyone still doing it. The idol (Book I Ch 2) carries a trace of the field from his own adolescent activation-adjacent crisis, which Maren once grounded (`26_present_day_cast_expanded.md` idol beat); his stage presence entrains a stadium the way a much smaller broadcast entrains one nearby mind, scaled by tens of thousands of bodies locking to the same rhythm — hence claps "too clean, no leftover beat for anyone who arrived late." This is why Eli's hands prickle at the show specifically, and why Mandate/Custodian security (Sora Vithan, on this reading) has a quiet standing interest in the event: a mass-entrainment ritual is a detection net for free, since genuine carriers register differently against a stadium of baseline brains forced into one rhythm. Keep this felt, not explained, in Book I prose — no character states the mechanism on-page before it's earned.
 
-## 3. The energetics (hardware-facing) — full model in `34`
+## 3. Switch state — activation and exposure
+
+The receiver hardware is **not permanently on.** A psion can move between a **dormant** state and an **active** state — consciously, unconsciously, or under external pressure. This switch is the single most important vulnerability in the field.
+
+### Dormant state
+- The astrocyte broadcaster is quiescent; the cryptochrome receiver runs at baseline sensitivity.
+- The carrier registers as an ordinary body to instruments: no flare, no signature, no broadcast.
+- This is the **evaded state** — the reason most carriers live ordinary lives undetected.
+
+### Active state
+- The receiver **flares**: the astrocyte capacitor charges and the cryptochrome stack resolves external EM frequencies sharply.
+- This is what the Custodian registry hunts: **activation**, not body warmth. Somatic signatures in palms are a *read*, not the hunt target — the hunt targets the switched-on broadcast.
+- Activation can be triggered by: charged ground proximity, artifact contact, emotional surge, dream-state opening, intentional practice, or hostile psionic induction.
+- **Cost:** an active receiver is an exposed antenna. Strong external EM fields — industrial transformers, MRI magnets, high-voltage lines, damaged grid infrastructure — can **overload, burn, or hijack** the broadcast. A carrier switched on near a strong source is not just reading; they are being *written*.
+- **Ley-line intersections** are the sharpest version of this risk: where multiple charged-ground conduits cross, field intensity can spike into **disorientation, induced behavior, identity bleed, or permanent filter damage** — depending on the carrier’s coherence and the duration of exposure.
+- **Hostile use:** the Charkha Measure and Lang’s registry both know this. Their teams use portable EM emitters, charged-ground proximity, and artifact adjacency to **force activation** before they close in — the carrier lights up first, then they have a signature to track.
+
+### Switching off under pressure
+- The native-road practice (Living Way / Manual Override / held rhythm) is partly the ability to **lower the receiver** when activation would be fatal — refusing to entrain, refusing to broadcast, refusing to resolve the field when the field is a weapon.
+- Eli’s TBI gives him both a weaker filter (he flares more easily) and a practiced override (he can drop the connection when he feels the prickling start). This is not supernatural willpower; it is learned regulation of the same hardware.
+- **Rule:** switching off is not denial. It is **discipline under overload** — the difference between closing your eyes in a flash-bang and pretending the light isn’t there.
+
+### Real vs. speculative anchors
+- *Real anchor:* neural entrainment is real; EM fields affect brain state; cryptochrome is a real magnetosensing protein; astrocytes really do regulate neural signaling.
+- *Speculative tweak:* coherent skull-broadcast at distance, ley-line physics as a measurable conductor network, and the precise overload mechanics at intersections. Keep the seam visible: instruments register a signature and a crash; the field behind it remains the deeper thing.
+
+---
+
+## 4. The energetics (hardware-facing) — full model in `34`
 
 > **The full cosmological model** — two energies · two planes · the one-/two-Tree cost · the sacrifice economy · the efficiency principle — is canonical in **`34_two_energies_and_planes.md`**, with the practice in **`33_the_curriculum.md`**. What stays here is hardware-facing:
 
@@ -56,7 +84,9 @@ One hardware, expressed differently: **dragons & aliens** (Tree of Life, one-Tre
 
 ### Warmth vs. activation
 
-Eli's carrier hardware can produce **somatic signatures** in palms and nerves — localized **heat**, **tingling**, **pressure**, a **single pulse**, **cold spots** — felt as interface reads on bodies and nearby biology. These are **not** permanent "warm hands," not healing rays, and **not** the primary hunt target.
+Eli's carrier hardware can produce **somatic signatures** in palms and nerves — localized **heat**, **tingling**, **pressure**, **single pulse**, **cold spots** — felt as interface reads on bodies and nearby biology. These are **not** permanent "warm hands," not healing rays, and **not** the primary hunt target.
+
+**Healing is a separate faculty, not receiver output — LOCKED:** The healer does not manipulate energy directly or regulate the receiver. Their gift has two parts: (1) a **scan** of the body's energy field, like a CT scanner, that detects what is wrong — reading the field's geometry without altering it; (2) an **alignment** that communicates with body cells to trigger self-repair. The body mends itself; the healer's work is the scan and the alignment, never tissue reconstruction. Eli's gift is the read through palms and nerves; the healer's gift is the field scan and alignment. The two can cooperate but are mechanistically distinct.
 
 **Working signature map (LOCKED — full table `32_the_warm_hands.md`):**
 

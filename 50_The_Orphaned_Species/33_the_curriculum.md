@@ -14,7 +14,7 @@
 
 ## 2. The layers
 
-> **Reconciliation — the count is reconstruction, not structure (2026-07-21).** The table below is **the companion layer's analytic map of a dead civilization's practice** — the tidy version, assembled with hindsight. It is **not** a roster the trilogy walks, a chapter allocation, a checklist Eli completes, or a number any character or instrument can read off. Per `36_the_living_web.md` §2 and §4, the practitioners are **deep threads discovered as they recur**, not a pre-declared set of seven; the count may settle near seven and must never be *imposed*. Three rules follow, and they govern any drafting use of this doc:
+> **Reconciliation — the count is reconstruction, not structure (2026-07-21).** The table below is **the companion layer's analytic map of a dead civilization's practice** — the tidy version, assembled with hindsight. It is **not** a roster the series walks, a chapter allocation, a checklist Eli completes, or a number any character or instrument can read off. Per `36_the_living_web.md` §2 and §4, the practitioners are **deep threads discovered as they recur**, not a pre-declared set of seven; the count may settle near seven and must never be *imposed*. Three rules follow, and they govern any drafting use of this doc:
 >
 > - **No character ever says or knows there are seven.** No "one to go," no completed set, no missing seventh. The curriculum is recovered **partially and out of order**, and stays incomplete at the end.
 > - **The layers are uneven.** Some arrive as a full clarified life, some as a translated line on a broken object, some as a living person's habit that turns out to be the same thing worn down. Some never arrive at all.
@@ -25,7 +25,7 @@ The curriculum was layered, its surviving records the recovered **fragments** of
 | Layer | Practice | The Seven |
 |---|---|---|
 | **Breath** — the floor | Cardio-respiratory coherence; regulated breath locking heart-rhythm into a steady coherent state, drilled from childhood | **Aru** (breath, stillness) |
-| **The Conduit** — touch / transfer | Healing touch and the diagnostic conduit; the body-to-body channel | **Ila** (healing touch) |
+|| **The Conduit** — touch / transfer | **Diagnostic scan:** the healer can scan the energy field of the body like a CT scanner to detect what is wrong — reading the field's geometry, not manipulating it. **Healing touch:** once the read is done, the healer creates an energy field alignment that communicates with body cells to trigger self-repair. The body mends itself; the healer aligns and supports, never reconstructs directly. | **Ila** (healing touch) |
 | **Threshold** — controlled metabolic stress | Supervised extremes — fasting, cold, heat, exertion, sensory deprivation, guided near-death thresholds — to crack the system open | **Daskar** (heat/cold, the body's field) |
 | **Dream** — trance discipline | Sustained altered states keeping the non-local channel exercised | **Tem** (dream-walking) |
 | **The Song** — acoustic resonance | The lost throat-sounds and overtone chant — the phonemes that still *do* something — performed inside resonant architecture | **Anthea** (sonic resonance) |
@@ -37,7 +37,7 @@ The curriculum was layered, its surviving records the recovered **fragments** of
 
 The whole practice is organized around one principle (`39` §3, the efficiency principle): **the cost of connection is a function of efficiency, and perfect efficiency — alignment with the Tao, *wu wei*, non-forcing — minimizes the expenditure.** The curriculum is *how you carry the two-Tree (god-level) demand without becoming an extractor* — the discipline of drawing from the field rather than forcing or harvesting. (Rasel's drafted line is the whole thesis in miniature: *"You can't lift it. You can only stop being so loud that it can't be heard."*)
 
-This is the fork the trilogy turns on:
+This is the fork the series turns on:
 
 - **The native curriculum** — efficient, distributed, self-fuelled (the dragon's way). Sustainable.
 - **The machine** — the grid/amplifier brute-forcing activation by entrainment, paid for by extraction and trapped souls (the gods' way). The shortcut Lang's side wants.

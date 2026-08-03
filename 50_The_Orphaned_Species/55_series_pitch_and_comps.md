@@ -25,10 +25,10 @@ dangerous perception awakening in him.*
 
 **Series promise:** *His family rescue becomes a struggle over whether
 humanity's awakening will be registered, weaponized, worshiped—or allowed to
-mature beyond its abandoned makers.*
+mature beyond the violence that made it an orphaned species.*
 
-**Meaning, only when invited:** *What does a created and abandoned species
-become when no maker remains to explain its purpose?*
+**Meaning, only when invited:** *What does a created and self-orphaned species
+become after it turns against its makers and their progeny?*
 
 **Precision:** the ring initially proves **Rasel** survived. It does not by
 itself prove Maren survived or explain either custody chain. Book I sells Rasel's
@@ -44,7 +44,7 @@ Weavers, Extra, panspermia, Manual Override, or the full four-book syllabus.
 
 **Literary speculative deep-history conspiracy thriller** — *The Da Vinci Code*'s investigative momentum and *National Treasure*'s landmark chase for the **plot engine**, but the **prose register** runs closer to N.K. Jemisin or Madeline Miller than to either comp: denser, more sensory, more restrained around grief. The conspiracy is **of the ages** (the Charkha Measure is only the present face of a recurring suppression apparatus), clues are **contested**, and the win is **release and coexistence**, not a treasure box or a single decoded truth.
 
-**Meaning lock — 2026-08-01:** As *Dune* uses control of spice and Arrakis to reach ecology, colonialism, religion, prescience, and charismatic power, this series uses registries, custody, and contested sites to reach a larger question: **what does a created and abandoned species become when no maker remains to explain its purpose?** Never pitch the series as simply opposition to ownership. Ownership is one antagonist method; species adulthood, inheritance, purpose, and the refusal to reproduce abandonment are the meaning.
+**Meaning lock — REVISED 2026-08-02:** As *Dune* uses control of spice and Arrakis to reach ecology, colonialism, religion, prescience, and charismatic power, this series uses registries, custody, war, family rescue, and contested sites to reach a larger question: **what does a created and self-orphaned species become after it turns against its makers and their progeny?** Never pitch the series as simply opposition to ownership. Ownership is one antagonist method; species adulthood, inheritance, purpose, war, love, loss, ordinary life, and the refusal to repeat the founding violence are the meaning. The books must feel like lived adventures before they feel like a thesis.
 
 ---
 

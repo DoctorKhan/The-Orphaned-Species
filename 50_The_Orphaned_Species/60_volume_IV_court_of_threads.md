@@ -24,6 +24,39 @@
 *The Court of Threads* is a working title. The architecture below is canon even
 if the title changes.
 
+> **GLOBAL COORDINATION PLOT — LOCKED 2026-08-02:** Book IV is not a project to
+> unify the world under Eli or to make succession the primary adventure. The
+> Lean Year is a practical survival crisis: the eruption disrupts weather,
+> harvests, shipping, medicine, fuel, and communications; competing forecasts,
+> export holds, hidden reserves, route seizures, and damaged trust jam the links
+> between otherwise functioning local societies. Eli is recalled to build a
+> temporary cross-route survival network connecting Union remnants, Mandate and
+> Coalition nodes, island ports, clinics, farms, and local governments. He solves
+> concrete failures—food, medicine, convoy passage, forecast verification,
+> refugee movement, and psionic escalation—without creating a world government
+> or overriding local sovereignty. The achievement is interoperability without
+> merger: divided regions can coordinate enough to survive. Rowan's relationship,
+> pregnancy, and the birth run inside this crisis as human and institutional
+> clocks; they do not replace the material plot. The final relinquishment proves
+> the network can continue without Eli.
+
+> **SECOND MANDATE / WASHINGTON RHYME — LOCKED 2026-08-02:** Book IV's
+> institutions, not Eli, deliberately ask him back after the first handover
+> proves real but the Lean Year seizes the interregional layer. This is a second,
+> narrower provisional civil-political mandate for cross-route survival, not a
+> restoration of presidency, monarchy, or permanent emergency rule. The first
+> relinquishment follows war; the second follows material crisis. Eli's final
+> legitimacy lies in returning the authority both times.
+
+> **LEAN YEAR VIOLENCE / ACTION BALANCE LOCK — 2026-08-02:** Book IV is not a
+> second interstate war, but it retains physical danger. Scarcity produces
+> armed convoy seizures, depot fights, border clashes, private security around
+> hoarded reserves, and pressure from Union or Mandate remnants against ports.
+> Include at least one visible battle in which Eli prevents escalation without
+> pretending force is unnecessary. Book III is interstate war and
+> reunification; Book IV is convoy defense, low-intensity conflict, and the
+> struggle to keep emergency violence from becoming permanent.
+
 > **VIOLENCE CYCLE / TAOIST MATURITY — LOCKED 2026-07-30; middle way 2026-07-30:** Book III made Eli
 > the hero and showed that **things under heroism are not what they seem**. Book
 > IV is where he **understands the loop**: force answers shortage with seizure;

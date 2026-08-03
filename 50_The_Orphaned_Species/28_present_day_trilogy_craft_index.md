@@ -42,7 +42,7 @@
 | Women characters — no Hollywood "girl power" | `15_character_grounding_and_relatability.md` § *Women characters* (LOCKED) |
 | Wren M/I/A — mystery, intrigue, attraction (LOCKED) | `19` § *Female mystery, intrigue, and attraction*; per-chapter `31`/`32`/`33` § *M/I/A audit* |
 | Archangels / sarim (seventy sons downgraded) | `46_divine_council_roster.md` §§ E, G — **character ladder LOCKED** |
-| Angelic orders / seraphim / cherubim | `46` § H — **ON HOLD** (cross-plane agency TBD) |
+|| Angelic orders / seraphim / cherubim | `46` § H — **real, deferred to Books V+** (cross-plane agency and taxonomy locked for later; Books I–IV use callsigns, iconography, and sensation only) |
 | Dead zones / psion scour | `37` § *Dead zones*; `38` § *Scour & ground targeting* |
 | Nephilot trail / Alba–elf / Pömmelte massacre | `37` § *Tracking the Nephilot line*; `90` §6 |
 | Plot spine (Books I–IV acts, gaps; V–VI open) | `29_trilogy_plot_and_development.md` (legacy filename) |
@@ -50,7 +50,7 @@
 | Cultural moment / story-first resonance (2026) | `44_cultural_moment_and_mass_appeal.md` — durable pressures, character engines, organic suspense, cultural guardrails |
 | Quotable refrains / reader spread / revision pass | `53_quotable_refrains.md` — Tier A dialogue bible; voice jobs; anti-cult spread guard |
 | Lay verses (Tao / spiritual-text register) | `54_the_lay_verses.md` — Tier B companion; 27 chapters; Tao, Zen, zine & epigraph layer |
-| Lay liturgies (antiphonal / call-and-response) | `54_liturgies.md` — fragments → seasonal service; *Parade Liturgy* (Tao 20); *Hearth circles* (Book II post-collapse); *The flow* (post-collapse rendezvous phrase) |
+| Lay liturgies (antiphonal / call-and-response) | `54_litanies.md` — fragments → seasonal service; *Parade Liturgy* (Tao 20); *Hearth circles* (Book II post-collapse); *The flow* (post-collapse rendezvous phrase) |
 | Retired Book III civic memorial quarry (King SF, Lincoln DC) | `90_epigraphs_and_sources.md` §10 — no longer physical Book III stops after 2026-08-01 Brazil lock; retain only as Union feed/archive or future quarry |
 | Future conflicts / sorting / ~2040 pressure map | `56_future_conflicts_atlas.md` — six registers, bloc fragility, immigration×class×race, staging bank (LOCKED 2026-07-26) |
 | Audience / Wren relatability | `43_audience_and_character_recommendations.md` |

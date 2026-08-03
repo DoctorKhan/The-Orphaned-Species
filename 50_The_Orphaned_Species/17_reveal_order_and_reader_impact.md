@@ -77,6 +77,8 @@ Companion: `35_artifact_chain.md` § placement; `42` § residue-only delivery; b
 
 **Hunt attribution ladder — LOCKED 2026-07-26 (dual-true + costume):** Book I keeps the apex **unnamed**. Eli sees Mandate/father — **Rasel's son / loose ends**. **Charkha wears Mandate's face** for the Eli/mother hunt (Custodian biosecurity cover, Stack-adjacent paper). Late Book I: costume seams (*other chain*, *somebody else's leash*, wrong-badge) without naming Charkha. **Book II names Charkha** — knife: **wore the Mandate's face; got Maren; you've been running their map**; Rasel remains Mandate. Pair-severance naming stays Book II midpoint.
 
+**Hidden-war knowledge lock — 2026-08-02:** Eli and ordinary civilians do not know that psions exist as a strategic population or that Union, Mandate, Coalition, and Charkha-linked forces have fought a covert psion war for years. Public incidents are explained as biosecurity, neurological illness, terrorism, infrastructure failure, or conventional military action. Eli discovers the existence of the war, the rival state programs, and the Charkha control/destroy split as separate shocks; do not give him the vocabulary early. The Charkhas operate inside and between governments, especially through Coalition gray space, but no single Charkha commands the blocs.
+
 ### What those comps actually are
 
 | | *The Da Vinci Code* (2003) | *National Treasure* (2004) |
@@ -159,8 +161,8 @@ Every volume ends **climax + hunger**: irreversible satisfaction *and* a forward
 | Book | Climax (satisfaction) | Hunger (forward pull) |
 |---|---|---|
 | **I** | Father recovered; Sanxingdui wonder; irreversible public costs | Mother still west; Wren displaced; parental complicity opened |
-| **II** | Maren released under assault; relational override holds; awakening spreads | No civic form for awakening; Sol already recruiting |
-| **III** | War window survived; crown bound; handover **succeeds** under live threat | Eli free and unhomed (Loop); Continuity clause dormant; material debts remain |
+| **II** | Maren released under assault; damaged life-technology understood; first human–elven reply arrives without ownership; awakening spreads | No civic form for awakening or contact; Sol already recruiting forced unity |
+| **III** | Continental Union defensive capacity reunified for the Mandate war; war window survived; crown bound; handover **succeeds** under live threat | Eli free and unhomed (Loop); Continuity clause dormant; material debts remain |
 | **IV** | Child born without title; final relinquishment mid-labor | Series close = ordinary life possible — not another volume cliff |
 
 **Book III hollowness rule:** Loop names **private** incompletion after real civic relief. Book IV’s Lean Year tests a victory worth defending — it does **not** retroactively declare Book III a fraud.

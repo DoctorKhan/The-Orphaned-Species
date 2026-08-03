@@ -113,7 +113,7 @@
 | `51_field_sail_and_mandate_peace.md` | LIVE *(inferred)* | Field-sail program / peace process. |
 | `52_the_rootbook_word_web.md` | LIVE *(inferred)* | Rootbook linguistic artifact. |
 | `53_quotable_refrains.md` | LIVE | Recurring in-world phrases. Three orphaned Emrys quotes removed and bank renumbered (12+1 → 9+1) 2026-08-01; Somchai/Gabriel citation fixed to "Vol II late Ch 9." |
-| `54_liturgies.md` | LIVE *(inferred)* — **Collision with `54_the_lay_verses.md`** | Parade Liturgy master map. |
+| `54_litanies.md` | LIVE *(inferred)* — **Collision with `54_the_lay_verses.md`** | Parade Liturgy master map. |
 | `54_the_lay_verses.md` | LIVE — **Collision** | Tao-rhyme verse bank. Re-checked 2026-08-01 — citations in-range; earlier "stale" flag was a false positive. |
 | `32_the_warm_hands.md` | LIVE *(inferred)* — **Collision with `32_volume_II_beatsheet.md`** | In-world practice/text. |
 
@@ -146,7 +146,7 @@
 | `32` | `32_volume_II_beatsheet.md`, `32_the_warm_hands.md` | Rename the latter — e.g. `32b_the_warm_hands.md` or move to Tier 7 numbering. |
 | `33` | `33_volume_III_beatsheet.md`, `33_the_curriculum.md` | Same pattern. |
 | `47` | `47_coercion_as_courtesy.md`, `47_palace_of_the_mothers.md` | Both Tier 7 — give one a new number. |
-| `54` | `54_liturgies.md`, `54_the_lay_verses.md` | Same. |
+| `54` | `54_litanies.md`, `54_the_lay_verses.md` | Same. |
 | `90` | `90_epigraphs_and_sources.md`, `90_book_i_research_notes.md` | Same. |
 
 ## Recommended next steps (not yet executed)

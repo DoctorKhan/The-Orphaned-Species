@@ -86,7 +86,7 @@ The flare changes who can identify Eli and which routes remain safe. A registry 
 
 ### Ensemble agency without a quota
 
-The trilogy is **Eli-dominant limited multiple viewpoint**. Wren and Somchai are the only recurring away lenses; ensemble presence never implies ensemble viewpoint. Whenever the narrative leaves Eli, the other character should want something immediate and make a decision whose consequences belong partly to them. The book does not owe a rotating-POV structure or a quota of non-Eli chapters. One continuous scene holds one viewpoint, and any departure must pass the governing switch test in `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED*.
+The series is **Eli-dominant limited multiple viewpoint**. Wren and Somchai are the only recurring away lenses; ensemble presence never implies ensemble viewpoint. Whenever the narrative leaves Eli, the other character should want something immediate and make a decision whose consequences belong partly to them. The book does not owe a rotating-POV structure or a quota of non-Eli chapters. One continuous scene holds one viewpoint, and any departure must pass the governing switch test in `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED*.
 
 ---
 

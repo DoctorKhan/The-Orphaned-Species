@@ -5544,12 +5544,37 @@ The opponents want confession.
 
 Eli looks at the names on the wall.
 
-"I alone don't know."
+The room answers with him. Not one voice — the gathered community, speaking it together, alternating Voice and All the way through, Tao Te Ching-structured:
 
-From the back of the room, Owen says, "Then no one alone knows."
+"Other people are excited, as though they were at a parade."
 
-Another voice repeats it. Then the room returns to the question before Eli can
-turn the answer into a speech.
+*I alone don't care. I alone am expressionless,*
+
+"like an infant before it can smile. Other people have what they need."
+
+*I alone possess nothing. I alone drift about,*
+
+"like someone without a home."
+
+*I alone seem foolish. My mind is empty.*
+
+"Other people are bright."
+
+*I alone am dark.*
+
+"Other people are sharp."
+
+*I alone am dull.*
+
+"Other people have a purpose."
+
+*I alone don't know. I drift like a wave on the ocean. I blow as aimless as the wind.*
+
+Then the capstone, slower, once — the room finishing what it knows:
+
+*I am different from ordinary people. I am fed by the Mother — not by the parade.*
+
+The hearing does not treat this as a victory or a breakdown. It moves to the question before Eli can turn the answer into a speech.
 
 The hearing recommends a permanent prohibition on unilateral
 force-synchronization and an emergency procedure requiring independent embodied,

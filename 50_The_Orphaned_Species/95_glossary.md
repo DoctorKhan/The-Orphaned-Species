@@ -24,7 +24,7 @@
 
 **Tiamat & Abzu** — the primordial source (Phase 0). Tiamat is organic creation itself; her murder by **Marduk** (of the Igigi) is the thesis statement — mechanical control killing organic development. Tiamat is "the dragon at the cave's mouth." Her murder is also the **makers' end in body**: what remains of her architect line is the spectral **dragon-remnant** (`99` #11), so the "alien visitor" of folklore is this same line, gone in body.
 
-**The Dragons** — the "ancient creatures" the cave is named for. *Not* mythic fire-breathers but an extraordinarily long-lived **reptilian lineage in evolutionary stasis** — Tiamat's organic line, the road humanity *didn't* take: comparable capacities reached by pure biology instead of installed locks. Their "fire" is biological thermal control; their "telepathy" is infrasonic/ultrasonic resonance felt as a voice in the skull. The living precedent of the Singer's song and Aedan's heat. **Tiamat's line *is* the alien architect species** (`00_MASTER_TIMELINE`, "the true alien masters"; `99` #11): panspermic, not Earth-native, the biological makers who engineered the gods — now **gone in body** (Tiamat murdered by the gods), persisting only as the spectral **dragon-remnant** Eli clarifies. "Long-lived reptilian line" and "alien visitor who came and left" are one being at two distances; folklore compresses the deep-time presence into a visitation.
+**The Dragons** — the "ancient creatures" the cave is named for. *Not* mythic fire-breathers but an extraordinarily long-lived **Earth-born marine reptilian lineage**, descended from an ancient archosaur/marine-reptile branch and convergent in some capacities with whales and dolphins. Their broad "wings" are fins for steering through water, pressure, and charged currents, not flight organs. Tiamat is the apex ancestor/architect of this native line, not an extraterrestrial visitor. Their "fire" is biological thermal control; their "telepathy" is infrasonic/ultrasonic resonance felt as a voice in the skull. They domesticated existing **Homo erectus** populations through protection, provisioning, selective partnership, and teaching—not creation from nothing. Dragon-made hearths cooked meat, reduced pathogen load, and opened long social periods that helped accelerate human cooperation, tool culture, and brain development. Later Anunnaki domestication turned that bounded reciprocity into extraction. The living precedent of the Singer's song and Aedan's heat; the dragon body is now gone, persisting only as the spectral **dragon-remnant** Eli clarifies.
 
 **The Generational War / War in Heaven** — the civil war between elder (**Anunnaki**) and younger (**Igigi / Olympians**) generations. *(The separate gods-vs-Tier-1 war, Marduk slaying Tiamat, is the **Serpent-Slaying**.)* Göbekli Tepe is built in the aftermath as a memorial to the defeated and as ground-side replacement infrastructure. **YD physical mechanism — LOCKED 2026-07-27:** `59_younger_dryas_nucleation_lock.md` (thermal-nucleation **craft**, zero crater). Prior "Igigi sabotage of the climate/interface thermostat caused YD" gloss is **deferred** pending a separate politics lock; do not treat classical YDIH (kinetic comet + crater) as load-bearing.
 
@@ -150,7 +150,7 @@ pieces.
 
 **The Forks** *(scholar: Double-Fork Stone)* — a fictional, disputed story artifact bearing two non-hierarchical Y-shaped divergences: an older reptilian/archosaur root into bird and dragon, and an older primate root into chimpanzee and human. It depicts sibling branching, never birds descending from dragons or humans from chimpanzees. Independent evidence can partly validate the lower fork, teaching the characters how to investigate—but not automatically believe—the upper fork. Archive material may say Double-Fork; street **the Forks**. Book III with dragon ghost.
 
-**The artifact/story chain** — present-day objects and their conflicting scholarly, inherited, factional, and resonance accounts. Artifacts change routes and choices but never certify a complete flashback. **Street shelf — LOCKED 2026-07-26; The Loop added 2026-07-30:** **The Circles · The Bridge · The Refusal · The Sorting · The Fade — and later, The Loop · the Exile · The Taking · The Forks · the Rainbow Tree.** Scholar names under the hood. Core candidates also include Enheduanna's Inanna hymns, Inana's Descent, Enki and the World Order, Enkidu/Shamhat, Arslan Tash Amulet 1, Flood traditions, apkallu/Uanna witnesses, Lamashtu/Pazuzu amulets, Tablet of Destinies fragments, Ugaritic council records, Babylonian world map, a European sky-object, and the Cuno–Derw record. Full table: `35` § *Artifact street shelf*.
+**The artifact/story chain** — present-day objects and their conflicting scholarly, inherited, factional, and resonance accounts. Artifacts change routes and choices but never certify a complete flashback. **Street shelf — LOCKED 2026-07-26; The Loop added 2026-07-30:** **The Circles · The Bridge · The Refusal · The Sorting · The Fade — and later, The Loop · the Exile · The Taking · The Forks · the Rainbow Tree.** Scholar names under the hood. Core candidates also include Enheduanna's Inanna hymns, Inana's Descent, Enki and the World Order, Enkidu/Shamhat, Arslan Tash Amulet 1, Flood traditions, apkallu/Uanna witnesses, Lamashtu/Pazuzu amulets, Tablet of Destinies fragments, Ugaritic council records, Babylonian world map, and a European sky-object. Full table: `35` § *Artifact street shelf*.
 
 **Melam** — novel technical use of the Sumerian term for divine radiance, splendor, or terrifying presence. In the trilogy it names external field-pressure emitted by a powerful being, artifact, charged ground, or system. It is not identical to life-energy.
 
@@ -291,27 +291,42 @@ is not Wren's status. **Wren is a house Weaver and Knotter.** `29`.
 
 **Fork/departure relation — LOCKED 2026-07-27:** the **Double-Fork Stone** is the late index showing that human and dragon branches are parallel Earth–Heaven bridge species, each carrying a distinct form of the departure function. It is not a genealogy, does not say humans descend from dragons, and reframes the recurring human dream of leaving Earth as one branch's inherited route-home impulse.
 
-**The Charkha Measure** *(ordinary shorthand: **the Charkha**; **Measure** mainly
-in formal records and technical program language)* — Lang's apparatus and the
-trilogy's named human face of the control system. **Reveal (LOCKED
-2026-07-26):** unnamed in Book I—Eli sees Mandate/father (Rasel's son / loose
-ends). Charkha wears Mandate's face for the Eli/mother hunt (costume, not total
-false flag). Late Book I: seams, no apex name. Book II names Charkha—*wore the
-Mandate's face; got Maren; you've been running their map* (Rasel = Mandate).
-**Not a state and not a corporation:** a covert, transnational, deniable
-syndicate distributed inside legitimate institutions—health agencies,
-immigration, intelligence services, security contractors, foundations, academic
-and museum boards, refugee offices. It is the current operating form of an
-ancient carrier-suppression apparatus. Primary functions: suppression,
-acquisition, and dependency transfer. Pair-severance programs exploit real
+**The Charkhas / Charkha Measure** *(ordinary shorthand: **the Charkha**;
+**Measure** mainly in formal records and technical program language)* — a family
+of covert lineages, not a single state, corporation, or omniscient mastermind.
+**Origin lock — 2026-08-02:** the first Charkhas were human factions formed after
+the original elf encounters around one question: control the elves or destroy
+them. The control lineage developed classification, containment, harnessing,
+and carrier registries; the destruction lineage developed purges, dead-zone
+scour, and anti-elven weapons. They shared methods and founding fear while
+remaining rivals. Across centuries their descendants embedded themselves in
+governments, militaries, intelligence services, clinics, research institutions,
+religious authorities, contractors, and Coalition ports. Different Charkhas can
+serve, infiltrate, betray, or attack one another inside the same government.
+The Union and Eastern Mandate each maintain their own official psion programs;
+the Charkhas operate in and around those programs, conducting deniable
+extractions, recruitment, sabotage, and proxy attacks. Coalition gray space is
+their principal refuge and interchange, not a unified headquarters.
+
+**Current reveal (LOCKED 2026-08-02):** unnamed in Book I—Eli sees
+Mandate/father (Rasel's son / loose ends). The Charkha Measure wears Mandate's
+face for the Eli/mother hunt (costume, not total false flag). Late Book I: seams,
+no apex name. Book II names Charkha—*wore the Mandate's face; got Maren; you've
+been running their map* (Rasel = Mandate). The public does not know the psion
+programs or the long psion wars; official incidents appear as biosecurity,
+neurological illness, terrorism, infrastructure failure, or ordinary military
+action. Eli discovers the hidden war and the Charkha history piecemeal, and
+must not begin with this vocabulary.
+
+The Charkha Measure is the specific control-line apparatus claiming Maren. Its
+primary functions are suppression, acquisition, dependency transfer, and
+strategic use of life-technology. Pair-severance programs exploit real
 grievances; they do not invent autonomy, compel every choice, or secretly cause
-every social change. Most members act from security, career, profit, and sincere
-fear of dangerous capacity. It remains one player among many, not a
-planet-controlling mastermind. **Wren was never inside it and is not its field
-adversary in Book I:** she knows institutions from intake, not secret harvest
-routes. Book II teaches her the corridor-facing conflict. Legacy planning
-references to “the Ring” mean the Charkha and are deprecated, not a second
-organization.
+every social change. Most members act from security, career, profit, ideology,
+or sincere fear of dangerous capacity. Wren was never inside it and is not its
+field adversary in Book I: she knows institutions from intake, not secret
+harvest routes. Legacy planning references to “the Ring” mean the Charkha and
+are deprecated, not a second organization.
 
 **Psion / psychic terminology** — use **psion** as the controlled term for trained, detected, or operational consciousness-capable people. Use **psychic** only as colloquial speech, media shorthand, outsider vocabulary, dismissal, or deliberate imprecision.
 

@@ -34,6 +34,32 @@ Not all "minds acting as one" are equal. The §1 multiplier rewards coherent min
 
 This is Machiavelli Ch. 20 at the scale of a single shared field: division-by-force **holds in the calm and shatters under real pressure** (`48_divide_and_conquer.md`). The strategic doctrine and the combat physics are the same law read at two scales.
 
+## 1.5. The carrier as exposed antenna — activation and exposure
+
+The receiver hardware is **not permanently on.** A psion can move between a **dormant** state and an **active** state — consciously, unconsciously, or under external pressure. This switch is the single most important vulnerability in the field, and every rule below assumes the carrier is already switched on.
+
+### Dormant state
+- The astrocyte broadcaster is quiescent; the cryptochrome receiver runs at baseline sensitivity.
+- The carrier registers as an ordinary body to instruments: no flare, no signature, no broadcast.
+- This is the **evaded state** — the reason most carriers live ordinary lives undetected.
+
+### Active state
+- The receiver **flares**: the astrocyte capacitor charges and the cryptochrome stack resolves external EM frequencies sharply.
+- This is what the Custodian registry hunts: **activation**, not body warmth. Somatic signatures in palms are a *read*, not the hunt target — the hunt targets the switched-on broadcast.
+- Activation can be triggered by: charged ground proximity, artifact contact, emotional surge, dream-state opening, intentional practice, or hostile psionic induction.
+- **Cost:** an active receiver is an exposed antenna. Strong external EM fields — industrial transformers, MRI magnets, high-voltage lines, damaged grid infrastructure — can **overload, burn, or hijack** the broadcast. A carrier switched on near a strong source is not just reading; they are being *written*.
+- **Ley-line intersections** are the sharpest version of this risk: where multiple charged-ground conduits cross, field intensity can spike into **disorientation, induced behavior, identity bleed, or permanent filter damage** — depending on the carrier's coherence and the duration of exposure.
+- **Hostile use:** the Charkha Measure and Lang's registry both know this. Their teams use portable EM emitters, charged-ground proximity, and artifact adjacency to **force activation** before they close in — the carrier lights up first, then they have a signature to track.
+
+### Switching off under pressure
+- The native-road practice (Living Way / Manual Override / held rhythm) is partly the ability to **lower the receiver** when activation would be fatal — refusing to entrain, refusing to broadcast, refusing to resolve the field when the field is a weapon.
+- Eli's TBI gives him both a weaker filter (he flares more easily) and a practiced override (he can drop the connection when he feels the prickling start). This is not supernatural willpower; it is learned regulation of the same hardware.
+- **Rule:** switching off is not denial. It is **discipline under overload** — the difference between closing your eyes in a flash-bang and pretending the light isn't there.
+
+### Real vs. speculative anchors
+- *Real anchor:* neural entrainment is real; EM fields affect brain state; cryptochrome is a real magnetosensing protein; astrocytes really do regulate neural signaling.
+- *Speculative tweak:* coherent skull-broadcast at distance, ley-line physics as a measurable conductor network, and the precise overload mechanics at intersections. Keep the seam visible: instruments register a signature and a crash; the field behind it remains the deeper thing.
+
 ## 2. The four primitives
 
 ### A. The Bubble — coherence field (defense)
@@ -91,6 +117,20 @@ This makes the war's arms race legible and thematically exact. The more psionic 
 - **Masking works at the sensor, not the mind.** Decoys, false signatures, and material concealment (the grounding rule) degrade machine sensors as they always have.
 
 Doctrine for set-pieces: **psions do not fight drones; they fight the humans and the data behind them, and lose the ones they cannot reach.** The horror of the fully autonomous strike is precisely that there is no one on the other end to persuade, deceive, or wake.
+
+## 3a. Asymmetric warfare — light infantry vs chariot (LOCKED 2026-08-01)
+
+*Historical precedent: Bronze Age systems collapse (~1200 BCE).*
+
+The Awakening War's combat doctrine is **distributed, adaptive, non-state actors** against static, top-heavy capture apparatus. The capture side (Lang's registry, Sol's unified command, Charkha palace-style logistics) has heavy expensive chariots — centralized command, long supply chains, instrumented thresholds, ordnance that needs a registry signature to target. The federation has drift — shorter supply chains, lighter command, hearth-circle coherence, uneven terrain.
+
+**Sea Peoples precedent (~1200 BCE):** light infantry swarming chariot forces in uneven terrain; javelins and longer swords against heavy armor; migrating with ox-carts loaded with women and children — not just armies but displaced populations. The mechanism: starving tribe sacks a coastal city for food → survivors join the fleet → fleet grows larger → sacks the next city. The capture side's supply chains break first; the centralized palace economies cannot flex.
+
+**Same physics in the Awakening War:** the capture side's vulnerability is centralized data (the registry). Deny or poison the data and the machine is blind. Every hard action exposes a signature; the hunter becomes findable. The federation fights by masking, decoy, false signatures, and material concealment — not by building a bigger chariot.
+
+**The asymmetry is not moral; it is structural.** The capture side wins engagements (acute push); the federation wins over time because it costs less to maintain a distributed field than a coercive one. Coercion buys the battle and forfeits the war.
+
+---
 
 ## 4. Costs, physiology, recovery
 

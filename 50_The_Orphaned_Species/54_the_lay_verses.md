@@ -524,7 +524,7 @@ Wash the bowl.
 | 23 | The swept floor | 12 | Repair without performance | Cloisters, maintenance |
 | 24 | Don't-know | 1, 8 | Empirical humility | Eli, teahouse inquiry |
 | 25 | Ordinary again | 5, 13 | Return after seeking | Book III; declined crown |
-| 26 | The parade (antiphonal) | 3, 10 | Liturgy — fragments → service | Tao 20; Cherry Cube anti-chant → **`54_liturgies.md`** |
+| 26 | The parade (antiphonal) | 3, 10 | Litany — fragments → service | Tao 20; Cherry Cube anti-chant → **`54_litanies.md`** |
 | 27 | Teach not-knowing | 1, 8, 10 | Host humility; no clever rule | Tao 65; teahouse hosts; Wren boundaries |
 | 28 | The hearth circle | 9, 12 | Fire, circle, one guitar | Book II after collapse; Khun Dang rhyme |
 
@@ -547,7 +547,7 @@ Cook after. Play after.
 That is a home  
 wherever they move you.
 
-*Practice: post-collapse repair. Lessons 9, 12. Seed: Khun Dang (Book I Ch 5); **Book II Ch 5** after Pömmelte; optional Ch 6 grief. Full form: `54_liturgies.md` § Hearth circles.*
+*Practice: post-collapse repair. Lessons 9, 12. Seed: Khun Dang (Book I Ch 5); **Book II Ch 5** after Pömmelte; optional Ch 6 grief. Full form: `54_litanies.md` § Hearth circles.*
 
 ---
 
@@ -583,7 +583,7 @@ Do not keep it.
 
 Solo fragments from the antiphonal liturgy may appear alone on walls and in speech — *I alone don't know*, *I alone possess nothing* — before the room ever assembles the full form.
 
-The complete call-and-response, fragment index (F1–F10), stage directions, and novel drip schedule live in **`54_liturgies.md`**.
+The complete call-and-response, fragment index (F1–F10), stage directions, and novel drip schedule live in **`54_litanies.md`**.
 
 *Practice: declining spectacle. Lessons 3, 10. Seed: Cherry Cube chant (Vol I); teahouse gathering (Vol III).*
 
@@ -591,7 +591,7 @@ The complete call-and-response, fragment index (F1–F10), stage directions, and
 
 ## Cross-references
 
-- Antiphonal liturgies: `54_liturgies.md` — Parade Liturgy + Hearth circles
+- Antiphonal litanies: `54_litanies.md` — Parade Liturgy + Hearth circles
 - In-scene dialogue refrains: `53_quotable_refrains.md`
 - Prose curriculum (child / deeper way): `Lessons_of_the_Living_Way.md`
 - Dramatized antidotes (never recite): `25_rhyme_sheet_lessons.md`

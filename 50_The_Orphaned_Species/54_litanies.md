@@ -1,8 +1,10 @@
-# Lay Liturgies — Antiphonal Forms
+# Lay Litanies — Antiphonal Forms
 
 > **Status:** LOCKED craft instruction (2026-07-25). Companion to `54_the_lay_verses.md` (Tier B solo verses), `53_quotable_refrains.md` (Tier A dialogue), `29_trilogy_plot_and_development.md` § *Lay teachings*, `50_teahouse_pilgrimage.md`, and `Lessons_of_the_Living_Way.md` (Lessons 3, 10). **Layer 2 companion material** — not default novel prose (`14` § faux-scripture guard).
 >
 > **Source:** author rendering after Laozi Tao Te Ching Ch 20 (see `../living-way/living-way-knowledge/Laozi/The_Unforced_Leader_Tao_Te_Ching.md`). Not a copyrighted translation.
+>
+> **Second litany:** *The Drifting Heart* — author original, Leader / Chorus form, departure / threshold register — added 2026-08-01.
 
 ---
 
@@ -51,7 +53,7 @@ Same unbranded household curriculum. Verses drip alone; liturgies assemble when 
 
 **Khun Dang rhyme (Book I → II):** Eli hears four chords again in Europe and remembers the lodge — *cook after, play after* — without anyone explaining the lineage.
 
-**Parade Liturgy relation:** hearth circle may include a **single** *I alone* line sung by whoever knows it — not the full antiphon. Optional: two voices accidentally pair voice-line + F1 the way Cube stagehands did.
+**Parade Liturgy relation:** the full litany appears at the Cube — **one voice** may speak the Voice lines ("Other people are excited..."), but every *I alone* response is the **whole room together**, flat, not sung, not performed. Do not reduce to a single line, an accidental pairing, or a cigarette-side joke. Plant the group form from Vol I so Vol III reads as recognition, not exposition.
 
 ### Book II placement (LOCKED 2026-07-26)
 
@@ -198,7 +200,7 @@ Book I = damaged but functioning reopening (`23`). Book II–III = **cascade of 
 
 **Phase 1 — fragments (Vol I–II).** Single lines without context: tile, boatman, auntie after bad news. The reader hears *I alone don't know* and does not yet know it is half of something.
 
-**Phase 2 — paired echoes (late Vol II).** Two voices finish fragments. Still not named as liturgy.
+**Phase 2 — group utterance under spectacle (Vol II).** Two or three voices speak the setup line ("Other people are excited..."), then **the gathered group finishes the stanza together** — *I alone* lines in unison. Still not named as liturgy; the group form is already present but unrecognized.
 
 **Phase 3 — the service (Vol III / teahouse).** First full antiphon at a **seasonal gathering** — cloister interval, post-inquiry feast, threshold meal when pilgrims arrive from spectacle-churches or marked houses. Not a church; a room that refuses the parade together.
 
@@ -241,7 +243,7 @@ The full Parade Liturgy at the Vol III seasonal gathering is not speech alone. I
 
 | Place | Plant |
 |---|---|
-| Cherry Cube | Spectacle sync; dancers; chant; too-clean finish |
+| Cherry Cube | **Anti-chant in service alcove** — crew speaks the full *I alone* litany together, unironic, the way a crowd says the national anthem; spectacle-chant above (two-syllable, too-clean finish) |
 | Malacca market | Kids dance badly; almost-lock stamp; unfinished clap |
 | Pai road | Staff drop-on-purpose; chestnut drum sparks |
 | Wat | Heel-to-toe rounds; shared count with no leader |
@@ -277,7 +279,7 @@ Novel beats reference **F1–F10**, not the full liturgy.
 
 ## On-page placement — master map
 
-**Governing rule:** each volume escalates **form**, not **explanation**. Fragments → paired echoes → partial assembly → full service. The reader should recognize the liturgy before any character names it.
+**Governing rule:** the "I alone" lines are **always a group utterance** — a chant, not a call-and-response between individuals. A single voice may set up the contrast ("Other people are excited..."), but the reply (*I alone don't care / I alone am expressionless / I alone don't know*) is the **whole room saying it together**, flat, not sung. The liturgy escalates by occasion and length, not by moving from solo to group. Plant the group form from Vol I.
 
 ### What counts as "the parade" (antagonist rhythm)
 
@@ -291,12 +293,12 @@ Novel beats reference **F1–F10**, not the full liturgy.
 
 ---
 
-### Volume I — *The Breach* (fragments + one paired echo)
+### Volume I — *The Breach* (fragments + full litany)
 
 | Ch | Scene pressure | Deploy | Status |
 |---|---|---|---|
 | **1** | Hearth send-off | — (too early; parade not yet named) | — |
-| **2** | Stack intake, Cube spectacle | F8 pillar; F1 elevator; **paired echo** service alcove | **ON PAGE** |
+| **2** | Stack intake, Cube spectacle | F8 pillar; F1 elevator; **full litany** in service alcove — one voice speaks Voice lines, room answers All together, flat, unironic | **ON PAGE** |
 | **3** | Platform overload, Nura cup | F8 — keeper mutter after cup trick | **ON PAGE** |
 | **4** | Wren extraction | — (operational tempo) | — |
 | **5** | Mountain lodge, stilt-house | F6 Khun Dang; F5 keeper at dawn | **ON PAGE** |
@@ -313,7 +315,7 @@ Novel beats reference **F1–F10**, not the full liturgy.
 
 ---
 
-### Volume II — *The Descent* (paired echoes + parade pressure)
+### Volume II — *The Descent* (fragment pressure + group utterance under spectacle)
 
 | Ch | Scene pressure | Deploy | Status |
 |---|---|---|---|
@@ -432,7 +434,7 @@ The liturgy is the federation's counter-instrument, not Eli's doctrine (`53` ant
 
 | Surface | Use |
 |---|---|
-| **`54_liturgies.md`** | Full antiphon + this map |
+| **`54_litanies.md`** | Full antiphon + this map |
 | **Living Way zine** | Fragment cards F1–F9 on separate pages; full liturgy last |
 | **Teahouse replica** | Seasonal gathering script for real-world spread |
 | **Volume epigraphs** | Single fragment per book: I = F8; II = F6; III = F10 |
@@ -541,9 +543,76 @@ Rhyme-sheet row optional (`25`); enactment in scenes beats naming the Lesson.
 ---
 
 ## Cross-references
-
-- Solo verses: `54_the_lay_verses.md` — Ch 24 (*Don't-know*), Ch 27 (*Teach not-knowing*, Tao 65)
-- In-scene dialogue: `53_quotable_refrains.md`
-- Lay teachings spread: `29` § *Lay teachings*
-- Seasonal gatherings: `50_teahouse_pilgrimage.md` § *Families, hearths, and clans*
-- Orphan species title beat: `52_the_rootbook_word_web.md` — *népoth₁e* / sky-children
+|
+|- Solo verses: `54_the_lay_verses.md` — Ch 24 (*Don't-know*), Ch 27 (*Teach not-knowing*, Tao 65)
+|- In-scene dialogue: `53_quotable_refrains.md`
+|- Lay teachings spread: `29` § *Lay teachings*
+|- Seasonal gatherings: `50_teahouse_pilgrimage.md` § *Families, hearths, and clans*
+|- Orphan species title beat: `52_the_rootbook_word_web.md` — *népoth₁e* / sky-children
+|- **The Drifting Heart:** Leader / Chorus departure litany — `54_litanies.md` § *The Drifting Heart*
+|
+|---
+|
+|## The Drifting Heart — departure / threshold liturgy
+|
+|**Status:** author original, added 2026-08-01. Leader / Chorus form. Not sourced from Tao 20; companion to the Parade Liturgy, not a fragment of it.
+|
+|**Register:** departure, crossing, not-knowing what comes next. The Parade Liturgy says *I alone* to dissolve private disillusionment; this liturgy says *we are all alone* to acknowledge shared uncertainty when the road ahead has no answer.
+|
+|**When to deploy:**
+|
+|- Before a crossing whose outcome is unknown — corridor break, Pömmelte aftermath, Albion approach.
+|- Between collapse beats in Vol III, when communities are waiting rather than celebrating.
+|- Not a seasonal gathering form; not a victory liturgy. It is for moments when the group is genuinely directionless and honest about it.
+|
+|**Drafting guard:** do not let Eli lead it. It is a room utterance, like the Parade Liturgy. The Leader voice is one person naming the pressure; the Chorus answers with the shared fact. The ending is intentionally unresolved — *Or just an empty space... Where nothing is lost, And nothing is found* — and the scene moves into ordinary motion afterward.
+|
+|---
+|
+|### Full text
+|
+|**Leader:** Everyone knows just what to do!
+|**Chorus:** I alone have no clue.
+|
+|**Leader:** Everyone has a place to go!
+|**Chorus:** I alone drift below.
+|
+|**Leader:** Everyone feels so sure and bright!
+|**Chorus:** I alone sit in night.
+|
+|**Leader:** Everyone feels so safe and warm!
+|**Chorus:** I alone face the storm.
+|
+|**Leader:** Is anyone there? Does anyone care?
+|**Chorus:**
+|We are all alone.
+|We are all unknown.
+|
+|**Leader:** Is this the end of the road we trace?
+|**Chorus:**
+|Or just an empty space...
+|Where nothing is lost,
+|And nothing is found.
+|
+|---
+|
+|### On-page placement (master map)
+|
+|| Volume | Chapter | After what | Scene |
+|---|---|---|---|
+|| **II** | **5–6** | Broken-line church decode / Pömmelte aftermath | Group in unfamiliar ground, road ahead genuinely unknown; leader voice = Somchai or a keeper naming the pressure; chorus = the gathered group. First full utterance on-page. |
+|| **II** | optional | West-corridor fracture | Quieter partial — first two stanzas only, no wind lines. |
+|| **III** | **7–9** | Inquiry / compact / war pressure | Between collapse beats, when communities are waiting. Group form; Eli present but does not lead. |
+|| **III** | **10 coda** | Seasonal gathering or teahouse | Second liturgy alongside Parade Liturgy at the same gathering — two registers, two moments. |
+|
+|**Volume II reader effect:** first honest naming of shared uncertainty. Eli recognizes the form before he can use it.
+|**Volume III reader effect:** the room already knows the form; now it uses it to stay open when outcome is unknown.
+|
+|---
+|
+|## How to run it
+|
+|1. **Leader** = one person, naming what everyone already feels.
+|2. **Chorus** = full room, flat, not sung — same group-utterance rule as the Parade Liturgy.
+|3. **Ending:** do not resolve the empty space. Let the scene move into ordinary motion — tea, pot, road, sleep.
+|4. **Do not** let Eli explain it. Let him hear it and recognize it, like he does the Parade Liturgy.

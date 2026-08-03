@@ -2,7 +2,7 @@
 
 > **HIGH PRIORITY — LOCKED 2026-07-25:** Clue-chain propulsion, landmark set-pieces, institutional villainy — **`55_series_pitch_and_comps.md`**. Every adventure form must pass `55` 10-point gate (especially body movement, visual key, wonder beat).
 
-*Working guide for making the trilogy page-turning rather than curriculum-shaped. Pair with `05_story_architecture.md`, `17_reveal_order_and_reader_impact.md`, **`55_series_pitch_and_comps.md`**, `15_character_grounding_and_relatability.md`, and `35_artifact_chain.md`. This document asks: what makes the reader want the next scene before they understand the doctrine?*
+*Working guide for making the series page-turning rather than curriculum-shaped. Pair with `05_story_architecture.md`, `17_reveal_order_and_reader_impact.md`, **`55_series_pitch_and_comps.md`**, `15_character_grounding_and_relatability.md`, and `35_artifact_chain.md`. This document asks: what makes the reader want the next scene before they understand the doctrine?*
 
 ## Governing rule
 
@@ -70,7 +70,7 @@ That is the desired feeling for ley lines, psion teams, artifacts, resonance imp
 
 **Story-first resonance (2026):** pair this engine with attachment to Pelangi Reach's ordinary life, a clear dramatic question, causally escalating pursuit, and consequential ensemble agency. A literal countdown or trackable object is optional, never a quota — `44_cultural_moment_and_mass_appeal.md`.
 
-## Adventure contract for this trilogy
+## Adventure contract for this series
 
 Every major concept needs a physical adventure form.
 
@@ -212,7 +212,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Rule learned:** healing is work with limits, not holy authority.
 
-**Trick:** the healer combines conventional medicine with field-sensing. The miraculous part is inseparable from skill, triage, and exhaustion.
+**Trick:** the healer combines conventional medicine with an energy-field scan that detects what is wrong (like a CT scanner reading the body's field geometry), then creates a field alignment that communicates with body cells to trigger self-repair. The miraculous part is inseparable from skill, triage, and exhaustion.
 
 **Reversal:** the saved person's witness becomes rumor before the healer can stop it.
 
@@ -252,21 +252,29 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Theme carried:** myth as contested memory, not proof.
 
-### 10. Göbekli / buried interface: the dead site
+### 10. Göbekli Tepe — the buried instrument (LOCKED 2026-08-01)
 
-**Immediate want:** reach or reconstruct a stone arrangement while Lang controls the obvious site.
+**Setting:** Disputed military zone on the Turkish–Syrian border buffer. Joint Turkish military / international heritage consortium controls access; Lang's Standard embedded as civilian research overseer. Managed-access heritage masks reactivation of the buried instrument.
 
-**Adventure object:** terrain, pillar shadows, survey stakes, buried void, sound test, missing stone, weather front.
+**Ancient layer:** ~9600 BCE. Aru carves the fox-pillar; Daskar refuses and buries the instrument. The site is the first ground-side response to the Heaven-fall — an unstable contact made permanent in stone. Apkallu division: interpreters (snake / teahouse) who read and transmitted, and non-interpreters (bird / registry) who maintained but did not interpret. The interpreter side is silenced; the registry side becomes institutional.
 
-**Rule learned:** stones redirect living conductors; burial can decommission an interface.
+**Present-day controllers:** Lang's Standard operates inside the consortium as civilian research overseer. The site is managed-access heritage — authorized teams only. The interpreter-side trench system is cordoned as "unstable excavation" / military storage. The registry-side enclosures (tour-accessible T-pillars) remain open.
 
-**Trick:** old maps lead a pursuing team to a dead site. Living observations point elsewhere.
+**Why sneak in:** Eli's group needs the fox-pillar void. The open side is monitored but routine; the sealed side is where the buried instrument lives. Entry is through the open registry-side enclosures, then descent into the sealed interpreter trench — using the Apkallu division itself as the entry route.
 
-**Reversal:** Rasel's measurement is correct but his interpretation is wrong. He trusts the map over the territory.
+**Eli's contact:** At the fox-pillar void, buried stone geometry redirects living conductors. The registry side hums with institutional command-frequency. The teahouse side holds the silenced interpreting practice. Aru and Daskar become present-tense here. Eli reads the site as a field: one frequency commanding, one frequency waiting to be read.
+
+**Adventure object:** terrain, pillar shadows, survey stakes, buried void, sound test, missing stone, weather front, fox-pillar seal.
+
+**Rule learned:** stones redirect living conductors; burial can decommission an interface; the Apkallu division is physical — one side open, one side sealed, and the seal is the argument.
+
+**Trick:** old maps lead a pursuing team to the open registry-side (the dead site). Living observations point to the sealed interpreter trench.
+
+**Reversal:** Rasel's measurement is correct but his interpretation is wrong. He trusts the consortium map over the territory.
 
 **Cost:** someone is captured, injured, or forced to destroy a record before it becomes a compulsory identity, route, or weapon.
 
-**Theme carried:** knowledge must stay answerable to the living world.
+**Theme carried:** knowledge must stay answerable to the living world; the buried instrument is not a monument — it is a silenced practice waiting for a body that can read it without turning it into command.
 
 ### 11. Europe boundary: the threshold that watches back
 

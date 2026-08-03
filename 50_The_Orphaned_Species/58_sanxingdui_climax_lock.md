@@ -106,7 +106,15 @@ Anika's Gulf/route offer that “Rasel Khan is alive” remains **true**, but th
 No new captive pays for Rasel's recovery. The costs fall in different currencies:
 Wren loses standing and homeward passage; Qiao loses work and access; the local
 institution absorbs surveillance; Eli receives a father who cannot restore the
-years taken from them.
+years taken from them. **Ender's Game recontextualization — LOCKED 2026-08-01:**
+Rasel's recovery is also the completion of a plan he and Maren designed. The
+reunion re-labels the entire quest: Eli's receiver opening in Ch 2, the orphan
+truth at Mei's dinner, and his choice to follow the clue to Sanxingdui were all
+expected inputs to an instrument Maren built. He did not rescue his father; his
+father used him to finish the work. Book II's moral question sharpens: Can Eli
+love and free his mother without requiring her to be innocent — and can he claim
+any act as his own when his first fully self-directed choice was a maneuver he
+was designed for?
 
 ## Required aftermath
 

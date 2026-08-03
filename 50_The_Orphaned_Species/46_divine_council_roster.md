@@ -171,9 +171,9 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 
 ### Character ladder — allude → reference → recontextualize *(plot seeds — agency ON HOLD)*
 
-*Michael, Gabriel, and Persia-prince **names** are worth planting across the trilogy. **Whether they are titles only, or other-plane agents who can act on Earth, is not decided** — see § H.*
+*Michael, Gabriel, and Persia-prince **names** are worth planting across the series. **Whether they are titles only, or other-plane agents who can act on Earth, is not decided** — see § H.*
 
-**Best shape for this trilogy:**
+**Best shape for this series:**
 
 | Phase | Volume | What the reader gets | Names to spend |
 |---|---|---|---|
@@ -186,8 +186,8 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | Name | Narrative job | How they "appear" |
 |---|---|---|
 | **Michael** | The **protector title** — keeper faith, Shield's conscience, "who guards Israel's portion." The name people trust when they want safety. | **Vol II:** iconography + faction language. **Vol III:** optional **one** watched-depth or full-res clarification at a western/Israel-linked charged ground — *not* an ally with wings; a **fragment** of the portion-holder logic Eli finally reads. Rhymes with **Manual Override** (refuse the protector who owns you). |
-| **Gabriel** | The **messenger title** — crowd crown for the **healer** (*word/cure from above*). | **Vol II:** rumor/iconography; **late Ch 9:** healer refuses the demanded miracle and the messenger/Son-of-Man crown in one motion (single hard no — LOCKED 2026-07-21). **Vol III:** affirmative completion — the title withers under ordinary consent-based practice; no second hard-no scene. **Whether a real Gabriel acts on the Unseen = ON HOLD** |
-| **Prince of Persia** | **Rival bloc** — Daniel's blocker. | **Vol II–III:** callsign first; late reveal at minimum **national sar** — **whether an other-plane agent backs the bloc = ON HOLD** |
+|| **Gabriel** | The **messenger title** — crowd crown for the **healer** (*word/cure from above*). | **Vol II:** rumor/iconography; **late Ch 9:** healer refuses the demanded miracle and the messenger/Son-of-Man crown in one motion (single hard no — LOCKED 2026-07-21). **Vol III:** affirmative completion — the title withers under ordinary consent-based practice; no second hard-no scene. **Whether a real Gabriel acts on the Unseen = ON HOLD** |
+|| **Prince of Persia** | **Rival bloc** — Daniel's blocker. | **Vol II–III:** callsign first; late reveal as **national sar** — human operator wearing a title (Ch 13 seed). Whether an other-plane agent backs the bloc = **ON HOLD → § H** |
 
 **Use lightly or not at all as characters:** **Raphael** (European church / Tobit color in the Ch 6 broken-line church scene only); **Uriel** (optional one line); **Metatron/Sandalphon** (apocrypha — **Eli/healer elevation fear only**, never allies).
 
@@ -198,7 +198,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 - **Michael saves Eli** — Michael is the name of the cage dressed as protection.
 - **Explaining all four archangels in one chapter** — spread across Vol II reference and Vol III recontextualization.
 
-**Why this is best for the book:** It honors why archangel names matter to readers while keeping the thesis: **the orphaned species kneels to titles long after the administrators are gone** — and late in the trilogy Eli learns which titles were always **portions**, not persons.
+**Why this is best for the book:** It honors why archangel names matter to readers while keeping the thesis: **the orphaned species kneels to titles long after the administrators are gone** — and late in the series Eli learns which titles were always **portions**, not persons.
 
 ### Plot ladder — chapter pins (LOCKED)
 
@@ -207,19 +207,21 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | *(generic)* **angel** | **Ch 1 or 8:** word-trigger surge in song/prayer — body only (`SOURCE_the_surges`) | — | — |
 | **Michael** | **Ch 8:** **Sora Vithan** — medal or prayer fragment under collar; protector faith, no exposition (`26` § Sora) | *sar* vs angel in dispute (chapter TBD); **Ch 6:** Michael in church glass at draining end | landscape/liturgy double-read and optional watched-depth fragment at western charged ground — portion logic, not winged ally (chapters TBD, `33`) |
 | **Gabriel** | — | annunciation echo in healer rumor (chapter TBD); Gabriel in church iconography (**Ch 6**) | **Vol II late Ch 9:** healer refuses the demanded miracle **and** the messenger/Son-of-Man crown in one motion (costs a sufferer); **Vol III:** title withered by built practice — no second hard-no scene *(agency mode ON HOLD — `46` § H)* |
-| **Prince of Persia** | **Ch 13:** rival psion team on the ground (no name yet) | Daniel register + unit callsign **"Prince"** or **"Persia hold"** in intercept/briefing (chapter TBD) | codename resolves to **national sar** — partition war, not a demon; human operator was wearing a title (chapters TBD, `33`) |
+|| **Prince of Persia** | **Ch 13:** rival psion team on the ground (no name yet) | Daniel register + unit callsign **"Prince"** or **"Persia hold"** in intercept/briefing (chapter TBD) | codename resolves to **national sar** — partition war, not a demon; human operator was wearing a title (chapters TBD, `33`) — other-plane backing = **ON HOLD → § H** |
 
 **Cast lock:** **Sora Vithan** carries Michael (Vol I seed → Vol III defection rhymes with refused protector). **Rival national team** wears Persia-prince callsign (Vol I Ch 13 → Vol III reveal). **Healer** carries Gabriel projection (Vol II rumor → late Ch 9 single hard no → Vol III withering).
 
-**Still open (`99`):** Michael vs Gabriel at church draining end; rival team nationality + **Prince** callsign holder's personal name; **NEEDS AUTHOR DECISION — chapter placement (2026-08-01):** the *sar* dispute, annunciation echo, Beth-Horon double-read, Archangel Protocol war language, and Michael watched-depth beats were all pinned to a pre-consolidation Book II/III chapter count and need re-placement against the current ten-chapter spines (`32`, `33`) before drafting.
+**Still open (`99`):** rival team nationality + **Prince** callsign holder's personal name — **LOCKED (2026-08-01):** Middle Eastern / Persian Gulf framing; name is author choice. **Michael watched-depth — LOCKED:** portion-logic Eli reads at a charged ground in Vol III, not an encounter; chapter pin deferred to `33` against the ten-chapter spine — placement needs author decision.
 
 ---
 
-## H. Angelic orders & seraphim — **ON HOLD**
+## H. Angelic orders & seraphim — real, deferred to Books V+
 
-*Author direction (Jul 2026): angelic beings — including **seraphim** and the named **archangels** — may **act from the Unseen / spirit register and impact the physical plane** (omen, dream, charged-ground contest, grid pressure, pursuit, aid, or harm). That is **not foreclosed**. Decisions about **which orders are real actors vs. misread memory vs. both**, and **how they appear on-page**, are **deliberately paused** until the plane map in `34_two_energies_and_planes.md` §8 and the guardian/jinn lines are reconciled.*
+*Author direction: angelic beings — including **seraphim** and the named **archangels** — are **real** discarnate actors on the Unseen. Their appearance, cross-plane agency, taxonomy, and relation to existing cosmology tenants (guardian caste / jinn / Igigi discarnate / Anu + 26) are **deliberately deferred to Books V+**. Books I–IV treat them as memory, title, callsign, iconography, and somatic word-trigger only. The healer's refusal of the Gabriel crown, Sora's medal, and the broken-line church art are human-scale textures that carry the weight of the real thing without it showing up.*
 
-**Do not draft load-bearing angel scenes until this section is unlocked.**
+**Lock for Books I–IV:** no angelic being manifests, intervenes, or speaks on-page. Eli's surge-word triggers (*angel*, *seraph*, *holy*) are body-sensation only (`SOURCE_the_surges.md`). The broken-line church's cherub/seraph art is miswired polarity — whether a being is behind the art remains unanswered through Book IV.
+
+**Do not draft load-bearing angel/seraph appearance scenes until Books V+ unlock.**
 
 ### What stays usable now (soft pins — not cosmology locks)
 

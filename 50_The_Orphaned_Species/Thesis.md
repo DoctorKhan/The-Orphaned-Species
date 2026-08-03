@@ -8,9 +8,21 @@
 
 **Can humankind evolve into an adult species?**
 
-> **THEMATIC HIERARCHY — LOCKED 2026-08-01:** The series is about **species adulthood after abandonment**: what a created species becomes when it can no longer ask its makers what it is for. **Ownership is not the master theme.** It is one technique of arrested development—the **cage** response below—beside worship, extermination, false independence, assigned usefulness, lineage destiny, amnesia, and the search for a replacement parent. Governing polarity: **arrested development versus adulthood**, or at the human scale, **being assigned a purpose versus learning how to live**. Drafts must not translate every form of care, love, power, knowledge, home, or conflict into ownership language. Use the more exact failure and the more exact positive act: remembering, inheriting, questioning, choosing, making, tending, depending, remaining, releasing, or becoming answerable.
+> **CLASSIC-SERIES CRAFT LOCK — 2026-08-02:** The themes are roots, not the
+> whole tree. The books must also deliver human attachment, varied genre energy,
+> battles, pursuit, love, sex, humor, food, work, grief, wonder, and recovery.
+> Book I moves as conspiracy adventure/family thriller; Book II as descent,
+> haunted archaeology, first contact, and release; Book III as war epic and
+> political transformation; Book IV as material survival crisis, romance, and
+> construction of a livable future. No character is a theme label, no antagonist
+> is only a thesis, and no revelation exists only to expand lore. Set pieces carry
+> intimate stakes; named losses have ordinary-life context and aftermath; the
+> final answer is real but incomplete, leaving people capable of continuing
+> without a master or permanent hero.
 
-Not "can we survive." The experiment is developmental: a species moving through **orphan → adolescent → adult**. Adulthood here has a precise meaning — **self-authoring**. An adult species no longer needs masters standing over it, and no longer needs to *destroy* the powers it doesn't understand. It knows what it is and what it's doing here, and it lives by that understanding rather than by fear.
+> **THEMATIC HIERARCHY — REVISED AND LOCKED 2026-08-02:** The series is about **species adulthood after self-orphaning**: what a created species becomes after it turns against its makers and their progeny, kills them, destroys the bridges between worlds, and then mistakes the silence it created for abandonment. **Ownership is not the master theme.** It is one technique of arrested development—the **cage** response below—beside worship, extermination, false independence, assigned usefulness, lineage destiny, amnesia, and the search for a replacement parent. Governing polarity: **arrested development versus adulthood**, or at the human scale, **being assigned a purpose versus learning how to live**. Drafts must not translate every form of care, love, power, knowledge, home, or conflict into ownership language. Use the more exact failure and the more exact positive act: remembering, inheriting, questioning, choosing, making, tending, depending, remaining, releasing, or becoming answerable.
+
+Not "can we survive." The experiment is developmental: a species moving through **self-orphaned → adolescent → adult**. Adulthood here has a precise meaning — **self-authoring**. An adult species no longer needs masters standing over it, and no longer needs to *destroy* the powers it doesn't understand. It knows what it did, what it is, and what it is doing here, and it lives by that understanding rather than by inherited guilt or fear.
 
 That is the whole arc. Everything in the timeline is a stage of one childhood.
 
@@ -30,7 +42,9 @@ The novels uncover this through the **Three Circles: Body, Family, Civilization*
 
 ## The orphaning is felt as lineage amnesia
 
-The species-scale orphaning is not an abstraction the characters discuss. **It is lived, at human scale, as not knowing where you came from.** A person cut off from their dead is the same creature as a species cut off from its makers: both invent a story to fill the hole, and the story fear writes is always a master.
+The species-scale self-orphaning is not an abstraction the characters discuss. **It is lived, at human scale, as not knowing what happened to the people who made you.** A person cut off from their dead is the same creature as a species that killed or erased its makers and then forgot the crime: both invent a story to fill the hole, and the story fear writes is always a master. The series does not make humanity personally guilty for an ancestral act; it makes humanity responsible for what it does after learning the truth.
+
+> **SELF-ORPHANING / FOUNDING CRIME — LOCKED 2026-08-02:** Humanity was not simply abandoned by the gods. Human factions turned against the gods and their progeny, killed them, destroyed the stone-and-ley bridges, and built later civilization around the silence. The elves' departure is therefore a witness to a human-made historical wound, not a rescue problem or divine punishment. The great question is whether the descendants of the killers can meet surviving elven persons without repeating control, extermination, or worship. Eli inherits responsibility without personal blame; understanding the crime is the condition for ending its inheritance.
 
 The severance has a mechanism, and it is the middle circle collapsing (`40_concepts.md` § *lineage memory thins*): elders removed from daily life, apprenticeship replaced by schooling, migration and war and displacement, records held by institutions rather than families, the dead reduced to a surname. **A person without elders is easier to script, because there is no living counter-memory in the room.** That is why every control system in the timeline works on descent — the managed bloodlines, the covenant internalized through lineage, the registry, the pedigree, the file. Own the line and you own who a person is allowed to be.
 

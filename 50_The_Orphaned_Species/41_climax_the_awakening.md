@@ -1,6 +1,6 @@
 # Book II Climax Mechanism — Maren's Release and the First Awakening
 
-> **PLACEMENT — LOCKED 2026-07-13.** This mechanism ends Book II, not Book III. It breaks the amplifier's trapped-soul monopoly, releases Maren, and begins a sparse, unstable awakening. It does **not** disable every hostile psion, settle the war, or prove that free communities can govern dangerous capacity. Its social consequences create Book III.
+> **PLACEMENT — LOCKED 2026-07-13; witness-transition revised 2026-08-02.** This mechanism ends Book II, not Book III. It breaks the amplifier's forced-routing monopoly, releases Maren, and begins a sparse, unstable awakening. The original elven spirits at the site are willing custodians and witnesses, not trapped fuel; they pass on peacefully when humanity's first act of understanding is complete. The mechanism does **not** disable every hostile psion, settle the war, or prove that free communities can govern dangerous capacity. Its social consequences create Book III.
 
 *Uses `38_psionic_combat.md` (signature-lock, coherence, scour), `36_the_living_web.md` (connected field), `34_two_energies_and_planes.md` (life/death technology), and `22_life_technology_and_two_trees_spine.md` (Two-Tree union). Book III's civic answer is locked in `05_story_architecture.md` § *Classic spine* and `33_volume_III_beatsheet.md`.*
 
@@ -28,9 +28,9 @@ Remaining together prolongs her tether and feeds the system holding other souls.
 
 The amplifier scales psionic control through trapped souls. They are both fuel and routing channel: their isolated signatures let the machine lock, block, and route force across many targets.
 
-Maren is alive and held at the console by unfinished attachment and hope of reunion — a leash, not a binding. When Eli stops using reunion as proof that love survived, she stops restoring the model and walks off the ground, and **the living demonstration is what the trapped dead can follow**: they watch someone let go on purpose. Her clarity propagates through the connected field. Enough souls leave that the amplifier loses its fuel and its switchboard at once — she was the switchboard.
+Maren is alive and held at the console by unfinished attachment and hope of reunion — a leash, not a binding. When Eli stops using reunion as proof that love survived, she stops restoring the model and walks off the ground. **The willing elven witnesses observe the act; the living human signatures caught in the amplifier can then follow its relational pattern** and choose release rather than obey a command. Maren's clarity propagates through the connected field. Enough human signatures leave the routing lattice that the amplifier loses its fuel and its switchboard at once — she was the switchboard. The elven spirits pass on only after witnessing this transition, as honor and completion rather than escape.
 
-The machine goes dark because its captives walk out, not because Eli becomes its better owner.
+The machine goes dark because its human captives are no longer predictable inputs, not because Eli becomes its better owner.
 
 **Why release works (mechanism — `40` § The three registers of choice):** the amplifier is powered by **unexamined wanting** — threads kept taut by what they still want, signatures isolated by predictable attachment. It is a machine that runs on autopilot, and it needs its fuel *predictable*: the lock, block, and routing functions all assume each captive signature will keep pulling toward what it lost. A true choice is the one input the design cannot metabolize. Eli releasing Maren — giving up reunion on purpose, without hurry — is not sabotage; it is the demonstration that going slack where the machine assumes taut is possible. Each soul that makes the same choice removes fuel *and* switchboard. The machine was engineered for a species that could be counted on; the release proves the count wrong.
 
@@ -69,8 +69,8 @@ The hard no costs more and saves fewer. Book II must not secretly reveal that co
 
 | Strand | Action | Dependency |
 |---|---|---|
-| **Maren and Eli** | Achieve lucid reunion; confront her complicity; choose release; trapped souls begin leaving the amplifier | Release requires a living field to receive and propagate the path |
-| **Transmission stations** | Wren's early network, allied carriers, and prepared grounds keep the stations open long enough to receive and forward each artifact's bounded wisdom; Maren's release enacts those teachings at the crisis point | The chain fails if the amplifier continues burning the same trapped souls or one interpreter collapses every artifact's wisdom into command |
+| **Maren and Eli** | Achieve lucid reunion; confront her complicity; choose release; human captive signatures begin leaving the amplifier while the elven witnesses observe | Release requires a living field to receive and propagate the path |
+| **Transmission stations** | Wren's early network, allied carriers, and prepared grounds keep the stations open long enough to receive and forward each artifact's bounded wisdom; Maren's release enacts those teachings at the crisis point | The chain fails if the amplifier continues burning the same human captive signatures or one interpreter collapses every artifact's wisdom into command |
 | **Attack** | Custodians and faction teams lock, block, and scour; some coerced carriers defect when the machine loses leverage | Pressure makes amplifier seizure the genuinely better tactical option |
 
 The strands resolve together: Maren's release defuels the machine while the voluntary field gives release somewhere to go.
@@ -112,12 +112,13 @@ This keeps the climax's moral cut (releasing the reunion) and its public cost (a
 
 ### Consequences that generate Book III
 
-- newly awakened people flee states, factions, families, and medical systems unequipped to receive them;
-- some people wake without training or reliable control;
-- communities disagree over admission, testing, documentation, treatment, and containment;
-- Lang's amplifier monopoly weakens while his argument for standardized public safety becomes stronger;
-- Wren's threshold network becomes essential infrastructure that must not become Eli's property;
-- Eli's role in the release creates a following and makes temporary coordination feel like natural kingship.
+|- newly awakened people flee states, factions, families, and medical systems unequipped to receive them;
+|- some people wake without training or reliable control;
+|- communities disagree over admission, testing, documentation, treatment, and containment;
+|- Lang's amplifier monopoly weakens while his argument for standardized public safety becomes stronger;
+|- Wren's threshold network becomes essential infrastructure that must not become Eli's property;
+|- Eli's role in the release creates a following and makes temporary coordination feel like natural kingship.
+|- **Real-world subtext:** Albion climax is the series' Stage 4 exit — expensive, clumsy, politically thankless construction after dependency atrophy. The governing rule: announcements are not steel in the ground; leverage depreciates with every use; dependent parties rebuild replacement capacity the moment they notice the squeeze. **Dark ceiling:** historical precedent — 1200 BCE Bronze Age collapse, only Egypt survived and it was permanently exhausted; exit doors can close permanently. This is the civic argument Book III must dramatize through institutions, limits, repair, and ordinary coexistence — not a single epiphany.
 
 The Book II climax answers the family question: Eli can love and release without requiring innocence, restoration, or continued availability. Book III must answer the civic question the awakening creates: whether dangerous freedom can become accountable life, and whether a necessary leader can become ordinary again.
 

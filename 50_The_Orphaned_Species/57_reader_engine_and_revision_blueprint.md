@@ -16,9 +16,40 @@ The reader never has to understand the full cosmology to understand what Eli wan
 
 ### The deeper story
 
-What does a created and abandoned species become when it can no longer ask its makers what it is for—and can it inherit their powers without repeating their failures?
+What does a created and self-orphaned species become after it turns against its makers and their progeny—and can it inherit their powers without repeating the founding violence?
 
 The deeper question must be embodied in choices before it is named in dialogue.
+
+## Classic-series craft lock — 2026-08-02
+
+The cosmology is the root system, not the whole reading experience. The series
+must remain alive through varied genre engines and ordinary human texture:
+
+- Book I is a conspiracy adventure and family thriller.
+- Book II is a descent, haunted-archaeology, first-contact, and release story.
+- Book III is a war epic and political transformation.
+- Book IV is a material survival crisis, romance, and construction of a livable
+  future.
+
+Characters must not become theme labels: Maren is not merely complicity, Rasel
+not merely science, Wren not merely boundaries, Sol not merely forced unity.
+Give the cast private wants, humor, appetite, skill, shame, sexuality, error,
+and moments of being wrong. Balance battles and pursuit with meals, sex, jokes,
+repairs, music, work, jealousy, exhaustion, grief, and recovery. Let antagonists
+be persuasive and sometimes useful. Let revelations change relationships or
+decisions, not merely expand taxonomy. Set pieces must carry intimate stakes,
+and named losses must retain ordinary-life context and aftermath.
+
+The series should be rereadable because its images and refrains carry several
+meanings without becoming lectures: the bronze tree, the ring, the stones, the
+elves passing on, the Union's fall, the birth room, and the morning work after
+the crown is gone. The final answer is real but incomplete: people become able
+to continue the work without a master, a single truth, or a permanent hero.
+
+**Drafting test:** no scene may exist only to deliver a theme, lore, or moral
+conclusion. It must also move a body, advance a clue, change a relationship,
+create a cost, or start a clock. The grand ideas should be felt through action,
+not announced above it.
 
 ## The four reader contracts
 

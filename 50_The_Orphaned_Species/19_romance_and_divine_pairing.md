@@ -42,7 +42,7 @@ Attraction and communication travel through more than one channel, and different
 
 Use the **emotional grammar** of near-future stories where love lands because ordinary life is scarce — shared meals, a door that locks, a joke that survives the day, a future spoken aloud before anyone has earned it. Do not import plot beats or character types from any specific IP. The register belongs to this pair: Eli (orphan, **somatic read**, wants belonging) and Wren (handler, reads exits, failed to save someone she loved). **Volume romance stages and proof scenes:** `27_character_development_arcs.md` § Wren.
 
-### Why this register fits the trilogy
+### Why this register fits the series
 
 The present-day war sells **borrowed power and borrowed time**. Romance under that pressure should feel like **Lucy's moon made human for this canon**: not a corporate product, but a credible picture of ordinary life two people might still choose — work, food, sleep, privacy, touch, a place that is theirs for one night. Pelangi Reach is Eli's hearth; Wren's safe routes and extraction network are her version of the locked door. The reader must want that life **for them** before prophecy, registry, or the mother-trail can threaten it.
 
@@ -189,7 +189,7 @@ The question is not whether the intensity is fake. The question is whether inten
 
 Erec and Enide matters because the problem begins after the lovers are joined. Love can become retreat, softness, neglect of duty, or a private world too small for public responsibility.
 
-For the trilogy, do not make "getting together" the final romantic event. After Eli and Wren choose each other, the story should ask whether love enlarges their responsibility or becomes escape.
+For the series, do not make "getting together" the final romantic event. After Eli and Wren choose each other, the story should ask whether love enlarges their responsibility or becomes escape.
 
 ### Yvain and Laudine: obligation, failure, and repair
 
@@ -209,7 +209,7 @@ Wren should understand that romantic language can be a tool. She reads rooms, ex
 
 The Grail tradition does not simply reject earthly love. It tests love against purity, service, humility, divided loyalty, and surrender. Lancelot's greatness is real, but his dividedness matters.
 
-For this trilogy, the Grail lesson is:
+For this series, the Grail lesson is:
 
 > Romance does not beat everything. Mature love knows when to stay, when to release, when to refuse possession, and when not to make the beloved into salvation.
 
@@ -393,7 +393,7 @@ The adult form is:
 
 The bond can be transcendent, but it cannot override present consent, responsibility, or accountability.
 
-## Eli and Wren across the trilogy
+## Eli and Wren across the series
 
 ### Volume I: recognition is not love
 
@@ -659,7 +659,7 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 - Do not let past-life echoes outrank present consent.
 - Do not answer every romantic ambiguity with lore.
 - Do not make destiny false merely to stay morally clean; the stronger move is to make destiny real pressure that still requires freedom.
-- Do not let the romance become private escape from the trilogy's public stakes.
+- Do not let the romance become private escape from the series' public stakes.
 - Do not let public stakes flatten the lovers into symbols.
 
 ## Romance cost audit (LOCKED — drafting)

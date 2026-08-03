@@ -5,8 +5,8 @@ _Locking document. Chapter drafts must not contradict what is specified here._
 
 > **HIGH PRIORITY — SANXINGDUI CLIMAX REVISED 2026-07-27:** Book I runs Pelangi
 > → Meridian → Malacca → Thailand → **Sanxingdui**, where Eli recovers **Rasel**
-> and recognizes the distributed **Tree of Life**. Professor Emrys does not
-> exist. Wren authenticates the civilian evacuation with her own name, saving the
+> and recognizes the distributed **Tree of Life**. **No scholar-companion.**
+> Wren authenticates the civilian evacuation with her own name, saving the
 > people and burning her employment, travel standing, and safe return. Qiao is
 > not captured; she loses clearance and access. No new captive pays for Rasel.
 > Governing lock: `50_The_Orphaned_Species/58_sanxingdui_climax_lock.md`.

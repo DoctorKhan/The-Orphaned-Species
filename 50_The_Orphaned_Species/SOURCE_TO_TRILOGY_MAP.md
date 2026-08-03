@@ -41,12 +41,12 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **The wheel / sun-wheel** | `37_deep_time_source.md` | Motif | Recurring image: granary glyph, then chariot banner, then helmet, then final-flag inversion. | I–III |
 | **Social atomization sequence** | `40_concepts.md` | Structural register | Showed as present pressure, not lecture: housing, clan-break, romance overload, managed belonging. Linked to the Three Circles collapse. | I–III |
 | **Divine council / seventy sons of El** | `46_divine_council_roster.md`, `45_divine_names.md` | Cosmology role / map | Surfaces as landscape-name rhyme (Beth-Horon, Beth-Shemesh, Anathoth, Jericho) and as Sumerian-Mesopotamian-Canaanite-Hebrew register homologies. | III |
-| **Artifact chain: Three-Circles Tablet → Sumerian King List → Adapa tablet → Enkidu/Shamhat → Arslan Tash Amulet → Atrahasis → Tablet of Destinies → Ugaritic council records → Babylonian Map of the World → Cuno–Derw object** | `35_artifact_chain.md` | Plot engine | Each encounter creates an immediate objective or reversal; points to next investigation without revealing itinerary. | I–III |
+| Artifact chain: Three-Circles Tablet → Sumerian King List → Adapa tablet → Enkidu/Shamhat → Arslan Tash Amulet → Atrahasis → Tablet of Destinies → Ugaritic council records → Babylonian Map of the World | `35_artifact_chain.md` | Plot engine | Each encounter creates an immediate objective or reversal; points to next investigation without revealing itinerary. | I–III |
 | **Living Way practices (lessons 1–13)** | `25_rhyme_sheet_lessons.md` | Conduct | Accumulated across the trilogy as embodied choices; dramatized before named; companion layer supplies explicit comparative theology. | I–III |
 | **Technology as rehearsal for coexistence** | `05_story_architecture.md` §7 | Structural rhythm | Repeated plot evidence: telephones rehearse telepathy, archives rehearse expanded memory, stone circles rehearse collective mind, etc. | I–III |
 | **The deep-time child / Modern Child** | `37_deep_time_source.md` | Open-door echo | Optional 3-beat device: opening seed, waking signal against Adapa, final echo. Coda-shaped, not plot-bearing. | I / II / III |
 | **Pai dragon-staff motif** | `37_deep_time_source.md` | Motif / character | Girl in jester dragondancer costume; Eli encounters the dragon first as playful human art, not doctrine or omen. Gives the dragon side of the Double-Fork Stone a remembered, human-scale feel. | I |
-| **Cuno's incomplete transmission** | `37_deep_time_source.md` | Deep web-structure (Albion) | Geometry + rhythm + body positions + spoken fragment + marked object passed to Derw; lossy; Eli must rediscover in the present. | III |
+| **Cuno's incomplete transmission** | `37_deep_time_source.md` | Deep web-structure (Albion) | Geometry + rhythm + body positions + spoken fragment; lossy; Eli must rediscover in the present. | III |
 | **The living network** | `23_40_concepts.md` §Stage 3 | Plot/testament | Discovered through adventure, not doctrine: altered plant growth → conductor → crop formation → stone deflection → collective resonance. | I–III |
 
 ---
@@ -323,7 +323,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Tablet of Destinies** | II–III | Vol II–III ownership race | Factions mistake authority records for master key; may be charter / routing charter / ritual copy / propaganda |
 | **Ugaritic council records** | III scene bank | Placement open under the current Book III spine | Repeated offices across traditions; local gods and stories retain differences; landscape-name fossils |
 | **Babylonian Map of the World** | III scene bank | Placement open under the current Book III spine | Mythic edge/missing region yields a testable move only when treated as incomplete; compared against live ley data |
-| **Cuno–Derw marked object + geometry/rhythm/sound** | II | Ch 6–7 | Portable geometry and lossy story converge on Albion; no complete manual given |
+|| **Rootbook comparative linguistics + Derw fragments** | II | Ch 6–7 | Alba → Albion → elf etymology unlocks Albion as the endpoint without giving anyone a complete manual |
 
 ---
 

@@ -126,7 +126,7 @@
 - **Movement 2 — Meridian intake (Saturday eve):** epic Stack reveal; document clerk; Cherry Cube archive packet; ring photograph; wage-ticket cost to escape classification; **Continue Inn** check-in — arcade tier, **live-play** cabinets/sims/VR (Foundry muscle rhyme; Rasel echo).
 - **Movement 2b — Continue Inn (Saturday night):** contractor voucher bunk; Eli plays cable-management sim; poor sleep; ring photo + Pelangi raid in head.
 - **Wrong-room overhear — LOCKED rev. Y:** at causeway hall approach, **before document lanes** — Eli detours to Harbor Thread back room; **Wren watches, does not stop him**. Fragments: Malacca chandlery, Hassan, English woman on file. Wren **goodbye at document lanes** (Continue Inn voucher); Eli alone for clerk.
-- **Movement 3 — Cherry Cube + Circuit (Sunday):** **Sunday AM** show crew check-in via Cherry Lane maze; idol vouch; security hunt (**intake flag + Thread sighting**); wardrobe leak; **Sunday Circuit** race-night convoy escape. **Parade Liturgy drip — LOCKED 2026-07-25:** F8 chalk on causeway pillar; F1 scratched in Continue Inn elevator; **paired echo** in Cube service alcove (voice line + F1) — anti-chant to spectacle-chant; not named as liturgy (`54_liturgies.md`). **Body score seed — LOCKED 2026-07-26:** Cube spiral dancers + grandstand clap that finishes too clean; Malacca kids leave the last clap open (`54` § *Body score*).
+- **Movement 3 — Cherry Cube + Circuit (Sunday):** **Sunday AM** show crew check-in via Cherry Lane maze; idol vouch; security hunt (**intake flag + Thread sighting**); wardrobe leak; **Sunday Circuit** race-night convoy escape. **Parade Liturgy drip — LOCKED 2026-07-25:** F8 chalk on causeway pillar; F1 scratched in Continue Inn elevator; **the full litany in the Cube service alcove** — the gathered crew speaks it together, unironic, not a single voice answering, not performed, the way a crowd says the national anthem at a game; anti-chant to the spectacle-chant above; not named as liturgy (`54_liturgies.md`). **Body score seed — LOCKED 2026-07-26:** Cube spiral dancers + grandstand clap that finishes too clean; Malacca kids leave the last clap open (`54` § *Body score*).
 - **First table — LOCKED 2026-07-26:** Circuit/Cube = trilogy's **first casino table** (Casino Royale capital). Lean masks only: Wren, clerk–Thread, idol, Ma seed, **Sora soft-hunt glimpse (unnamed suit; collar/medal; clocks grounding)** — Custodian name Ch 3. No Lang/Sol/Somchai/Rowan/Emrys. **Chase grammar:** later capitals repeat *expensive room → masks flash → underside exit* (`WORLD_BIBLE.md` § Meridian).
 - **Commissioner Ma seed — light, not a reveal:** a convoy seal, shipping notice, or worker's complaint carries Ma's public designation. The same logistics office once kept medicine or desalination parts moving and now enforces a damaging restriction. Eli registers infrastructure, not a future ally; the detail earns Ma's Book III arrival without softening Meridian City's clinical pressure (`51_field_sail_and_mandate_peace.md`).
 - **Movement 3 — the Meridian Circuit escape:** a scheduled Formula One–scale
@@ -234,7 +234,8 @@
 ## ACT II — The Unstable Sea *(current-order chapters resume here)*
 
 ### Ch 5 — The Field That Counts *(Eli · Thailand river-valley agricultural stop)*
-- **Parade Liturgy drip — LOCKED 2026-07-25:** Khun Dang quotes F6 (*I alone am dark*) as praise for playing quiet; stilt-house keeper mutters F5 at dawn — not explained (`54_liturgies.md`).
+- **Deep-time residue — LOCKED 2026-08-01:** Ila's record points toward a community where a new line is forming through planted ground. Her read is ground-focused: she mapped the ley line's signature through the paddy, not a body. Eli encounters her through document, not live meeting — a keeper's testimony, a field note, a Rootbook entry. She is the first practitioner he meets who works on ground, not flesh.
+- **Parade Liturgy drip — LOCKED 2026-07-25:** Khun Dang quotes F6 (*I alone am dark*) as praise for playing quiet; stilt-house keeper mutters F5 at dawn — not explained (`54_litanies.md`).
 - **Deep-time residue — LOCKED 2026-07-30:** (1) plant growth as detector before any message — living mesh, not imposed symbol; (2) mountain shrine / coffee spur as place that refuses sale (Wild vs managed Life rhyme with Cube); (3) wat heel-to-toe shared count as practice without doctrine. Wrong reading: plants = coded map for Eli; mountain = tourist set; wat = therapy. Cost: stale clue burns margin; he trusts growers over his vision.
 - **Want:** test the growth report.
 - **Attachment:** local growers; keeper stilt-house; **Khun Dang** (Pai ridge, present); Pai staff-twirler pass-through; **mountain-road landings** — winch crew, shrine, **coffee spur** (Chiang Dao–coded quiet farm; old lesbian couple; beans for the skull-wire; not a Net set-piece; mountain *not for sale*), Pai carnival market texture.
@@ -248,11 +249,11 @@
 - **M/I/A:** **M** — —. **I** — escape offer / third loyalty. **A** — weary proximity optional; pull felt, refused.
 
 ### Ch 6 — Midpoint: First Witness *(Eli · first witness site — Thailand approach)*
-- **Deep-time residue — LOCKED 2026-07-30:** (1) talking-stone / witness ground as place that behaves wrongly before mechanism; (2) Ila received as **other** — dead apprenticeship, not identity proof; (3) partial record naming planted-ground communities as living detectors. Wrong reading: Ila = destiny twin / past life; stone = personal oracle. Cost: grief with nowhere to set the love down; Wren goes colder.
+- **Deep-time residue — LOCKED 2026-08-01:** (1) Ila's ground record reaches full resolution here — not a live meeting, but the keeper's full testimony and a partial Rootbook page confirm the forming ley line's signature through planted ground; (2) talking-stone / witness ground behaves wrongly before mechanism. Wrong reading: Ila = destiny twin / past life; stone = personal oracle. Cost: grief with nowhere to set the love down; Wren goes colder.
 - **Want:** stand at a charged site long enough for a thread to clarify without collapsing from exhaustion.
-- **Obstacle:** at a **witness site** (witness stone / shrine marker / charged ground — pin exact site in `99`), a thread clarifies — hands, a birth, a fever, South Asian specifics (partial **Ila** contact); local **talking-stone lore** may precede the mechanism (`36` §7a); pursuit pressure won't wait.
+- **Obstacle:** at a **witness site** (witness stone / shrine marker / charged ground — pin exact site in `99`), Ila's ground record clarifies — the ley line's signature through paddy and crop, South Asian specifics; local **talking-stone lore** may precede the mechanism (`36` §7a); pursuit pressure won't wait.
 - **Choice → Cost:** he receives her as **other** — real, dead, grievable — without claiming her. Cost: grief with nowhere to set the love down.
-- **Revelation (MIDPOINT):** **first full site witness** — apprenticeship and grief, not identity proof. Decision changes: he can learn from the dead without becoming them or treating one life as a complete lesson. **Forward clue:** Ila's partial record names the kind of place to look — a community where a new line is forming through planted ground.
+- **Revelation (MIDPOINT):** the ground record is apprenticeship, not identity proof. Ila mapped the line; he can follow it without becoming her. Decision changes: he can learn from the ground without claiming it. **Forward clue:** Ila's partial record names the kind of place to look — a community where a new line is forming through planted ground.
 - **Romance cost (INSERT):** Wren sees Eli **grieve a woman in the record** (Ila) — misreads as identification/destiny hunger. She goes colder; he doesn't explain (can't yet). Intimacy **down** — prevents midpoint from feeling like romance high.
 - **M/I/A:** **M** — she misreads his grief; goes colder. **I** — —. **A** — **down**.
 
@@ -272,16 +273,15 @@
 - **Romance cost (SHARPEN):** Wren wants **exit strategy**; Eli wants **documentation** — control flare (*I'll manage the risk*). She does not defer silently; he does not win the argument. Complementary cowardice: she'll face armed teams; won't sit still for his plan.
 - **M/I/A:** **M** — control argument exposes manage-danger-first. **I** — exit vs evidence / community exposure. **A** — —
 
-### Ch 8 — Ila's Hands *(Eli · the Thailand cooperative)*
-- **Parade Liturgy drip — LOCKED 2026-07-25:** F7 after district health fax — Malai, flat, when apparatus notices the band (*I alone am dull* next to the file's bright certainty); draft at prose pass (`54_liturgies.md`).
-- **Deep-time residue — LOCKED 2026-07-30:** first body-read as practice older than gift mythology — pressure finds the bleed; slowing is ordinary hands. Elders' knowledge as unfinished older category the record doesn't hold. Wrong reading: Eli = healer/messiah. Cost: metabolic crash; bandwidth ≠ depth.
+### Ch 8 — Ila's Ground *(Eli · the Thailand cooperative)*
+- **Deep-time residue — LOCKED 2026-08-01:** Ila's ground record confirms what the growers already know — the new line forming through planted ground is not an anomaly to exploit, it is a living system to tend. Eli encounters her through document: a keeper's testimony, a field note, a partial Rootbook page showing the ley line's signature across paddy and crop. She mapped the ground; he is learning to read it.
 - **Want:** help, and not be useless.
-- **Obstacle:** someone is hurt (the converging conflict draws first blood); Eli has Ila's record but no mastery.
-- **Choice → Cost:** he attempts his **first frightened body-read** — a **pressure-read at a bleed**: he feels exactly where it is bleeding and guides hands to it, but the slowing is ordinary pressure, not a gift (he does **not** heal). Cost: even the read is real but small, and costs him badly (metabolic crash; recovery grind).
-- **Revelation:** **bandwidth is not depth** — he is a receiver, not a healer (seeds the Vol II healer). **Forward clue:** the community's own elders hold knowledge the record doesn't.
+- **Obstacle:** someone is hurt (the converging conflict draws first blood); Eli has Ila's ground record but no mastery.
+- **Choice → Cost:** he attempts a **ground-read at a damaged field** — he feels the break in the line and guides the growers to a repair point, but the fix is ordinary labor, not a gift (he does not heal the ground). Cost: even the read is real but small, and costs him badly (metabolic crash; recovery grind).
+- **Revelation:** **bandwidth is not depth** — he is a receiver, not a healer (seeds the Vol II body/ground pair). **Forward clue:** the community's own elders hold knowledge the record doesn't.
 
 ### Ch 9 — Two Teams *(Eli · ensemble action · the Thailand cooperative)*
-- **Parade Liturgy drip — LOCKED 2026-07-25:** Pak Din at strait — F4 drift saying; **ON PAGE** (`54_liturgies.md`).
+- **Parade Liturgy drip — LOCKED 2026-07-25:** Pak Din at strait — F4 drift saying; **ON PAGE** (`54_litanies.md`).
 - **Deep-time residue — LOCKED 2026-07-30:** factions contest **charged ground** (not only people) — first on-page scour appetite; war older than Eli. Wrong reading: the clue is the war's object; civilians are scenery. Cost: clean evidence jeopardized when Wren forces civilian-first.
 - **Want:** survive the convergence; protect the documentation / the people.
 - **Obstacle:** the Custodians and the rival team **attack each other** around the formation; civilians in the crossfire; entrainment-driven panic (`38`); **psion teams contest the ground** — first on-page hint that factions **target charged sites**, not only people (`38` § *Scour* — vocabulary later); rival unit **callsign** in chatter (Persia-prince seed — name later, `46` § G); **the Shield's conscience cracks** toward (not yet into) defection.
@@ -354,8 +354,16 @@
   and access; Luo faces formal scrutiny. Sora protects civilians and exits wounded.
 - **Aftermath:** father-son reunion is collision, anger, and partial truth—not
   restoration. Rasel reveals that Maren built the first classifier, he built
-  coupling instruments, and Maren later sabotaged the system. Book II becomes a
-  moral mother quest.
+  coupling instruments, and Maren later sabotaged the system. **Ender's Game
+  reveal — LOCKED:** Rasel adds that the capture was not a defeat — he walked
+  into the Mandate program. Maren's sabotage was Phase 1 of a twenty-year plan
+  to build a distributed alternative to the Mandate's coupling instruments. Eli's
+  receiver opening in Ch 2 was the expected activation of an instrument Maren
+  designed. The orphan truth Mei served at dinner (*taken alive, not killed*) was
+  the bait that would make Eli run toward Sanxingdui with the right signature.
+  Eli didn't rescue his father — his father used him to complete the work. Book II
+  becomes a moral mother quest and a moral question about Eli's own autonomy:
+  his first fully self-directed act was a maneuver he was designed for.
 - **Ending image:** a neglected tomato tied to Rasel's torn lab cuff; Wren's
   rejected travel credential on the greenhouse table; morning beyond glass.
 
@@ -396,7 +404,7 @@ The on-page sequence therefore moves from **how people survive together** (Çakm
   curator corrects him.
 
 ### Ch 13 — Göbekli and Loss *(Eli · ensemble action · Şanlıurfa / contested site)*
-- **Parade Liturgy drip — LOCKED 2026-07-25:** Bosporus ferry rail — F9 first line only; reader finishes the wind; **ON PAGE** (`54_liturgies.md`). **Body score coda:** dock child claps once unanswered (Malacca hole / Cube anti-rhyme); Aru feast feet find a count; Daskar burial is silence without clap (`54` § *Body score*).
+- **Parade Liturgy drip — LOCKED 2026-07-25:** Bosporus ferry rail — F9 first line only; reader finishes the wind; **ON PAGE** (`54_litanies.md`). **Body score coda:** dock child claps once unanswered (Malacca hole / Cube anti-rhyme); Aru feast feet find a count; Daskar burial is silence without clap (`54` § *Body score*).
 - **Want:** read the buried interface before rival teams weaponize or re-seal it (`99` #7).
 - **Attachment:** civilians at dig/shrine/military margin; local research; Eshe
   weight in the Daskar fragment.

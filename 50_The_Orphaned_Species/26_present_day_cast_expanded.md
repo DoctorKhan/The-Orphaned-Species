@@ -355,10 +355,6 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 ---
 
-## Professor Emrys — **CUT 2026-07-27**
-
-Removed from the trilogy. There is no scholar-companion; Eli has no expert translator. Functions redistributed to the courier, Eli, Babaji, Wren, Malai, Somchai, Luo/Qiao, and Rasel. Full redistribution table and the reasoning: `99_open_questions.md` § 9.
-
 ## Peter Lang *(antagonist, constructive control gone wrong)*
 
 **Function:** destructive control corner; face of the Charkha; throne offer at Albion.

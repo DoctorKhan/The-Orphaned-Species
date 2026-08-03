@@ -4,7 +4,7 @@
 
 ## Governing principle
 
-The present-day trilogy can **feel** like near-future street cyberpunk — ports, registries, deniable teams, bodies traded for power — without becoming a cyberpunk IP pastiche or replacing the epic horizontal axis.
+The present-day series can **feel** like near-future street cyberpunk — ports, registries, deniable teams, bodies traded for power — without becoming a cyberpunk IP pastiche or replacing the epic horizontal axis.
 
 **The skin is the Tree of Knowledge lane.** Mediated power: transmitted, registry-able, hackable, deceivable, installable, debt-bearing.
 

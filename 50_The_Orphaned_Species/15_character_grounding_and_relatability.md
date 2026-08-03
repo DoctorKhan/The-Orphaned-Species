@@ -2,7 +2,7 @@
 
 > **HIGH PRIORITY — LOCKED 2026-07-25:** Domestic cost and desire-before-information — **`55_series_pitch_and_comps.md`**. Attachment powers the clue-chain; pitch gate checklist items 9–10 apply to every scene.
 
-*Craft guardrail for the present-day trilogy. Companion to `/00_NARRATIVE_STRUCTURE.md`, `16_reader_attachment.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, and `28_present_day_trilogy_craft_index.md`. This document protects the human book inside the cosmology.*
+*Craft guardrail for the present-day series. Companion to `/00_NARRATIVE_STRUCTURE.md`, `16_reader_attachment.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, and `28_present_day_trilogy_craft_index.md`. This document protects the human book inside the cosmology.*
 
 ## The governing judgment
 
@@ -273,7 +273,11 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 
 Eli is **not** a healer. His bodily gift is *diagnostic*: with contact and attention he can **read** a body — locate a bleed, sense where damage or distress sits, feel a fracture's wrongness — an application of **Rasel's symbolic feeling** to living tissue (`15` § *Rasel's gift*). He cannot repair any of it. The read can guide ordinary first aid or point the healer at what to mend; the mending is never his. Even the read is inconsistent, exhausting, and medically bounded. **Waking symbolic reads** (stone, seam, boundary, join) and **dream answers** are the same inheritance on different channels — feel first, test second.
 
-The trilogy's only healer is the male medical worker who stabilizes Eli after the attack ending his family's flight and passes him into the escape network. His practical medical competence precedes the gift. The attack exposes him to the suppression apparatus; he and Eli are separated, then meet again when two independent clue trails cross in Volume II. Neither has been knowingly traveling toward the other. Over time the healer can sustain deep repair of severe tissue injury, complicated fractures, and organ damage. He is not Ila reborn, cannot psionically cure the engineered outbreak, and cannot restore information destroyed by Eli's chronic TBI. Ila's record supplies language and comparison, not identity or instant skill.
+The trilogy's only healer is the male medical worker who stabilizes Eli after the attack ending his family's flight and passes him into the escape network. His practical medical competence precedes the gift. The attack exposes him to the suppression apparatus; he and Eli are separated, then meet again when two independent clue trails cross in Volume II. Neither has been knowingly traveling toward the other. Over time the healer can sustain deep repair of severe tissue injury, complicated fractur
+
+The healer's mechanism — LOCKED: **healing has two parts.** First, a **scan** of the body's energy field — like a CT scanner — that detects what is wrong by reading the field's geometry without altering it. Second, an **alignment** that communicates with body cells to trigger self-repair. The body mends itself; he does not reconstruct tissue. This is distinct from Eli's receiver reads and from receiver regulation of any kind.
+
+Over time the healer can sustain deep repair of severe tissue injury, complicated fractures, and organ damage. He is not Ila reborn, cannot psionically cure the engineered outbreak, and cannot restore information destroyed by Eli's chronic TBI. Ila's record supplies language and comparison, not identity or instant skill.
 
 This distribution protects the collective thesis: Eli has unusual bandwidth across many registers (reading, not repair), while another person holds the healing entirely. The healer requires an independent want, relationships, moral pressure, and choices that do not orbit Eli.
 

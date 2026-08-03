@@ -360,24 +360,35 @@ URL: https://www.livius.org/sources/content/anet/266-the-sumerian-king-list/
 
 ## 8. Yahweh's southern origin — Shasu, Timna, Nehushtan, and the Dionysus witness
 
-*The furnace-god / desert-margin strand. Concept treatment in `45_divine_names.md` ("The southern origin," "The Ish Elohim," "The Dionysus witness"); objects in `35_artifact_chain.md` (Timna serpent, Nehushtan). **On-page naming lock:** do not use the divine name in prose or epigraph. The present-day plot encounters it through the Kuntillet ʿAjrud / Khirbet el-Qom inscriptions — material evidence of "Yahweh and his Asherah" — and the argument happens over pottery, squeezes, and disputed readings. All of this is **contested / minority** scholarship — cite it as an argued position, never as settled fact. Handling discipline is the same as AT1: characters argue toward it; it never decodes the cosmology.*
+*The furnace-god / desert-margin strand. Concept treatment in `45_divine_names.md` ("The southern origin," "The Ish Elohim," "The Dionysus witness"); objects in `35_artifact_chain.md` (Timna serpent, Nehushtan). **On-page naming policy:** use the divine names in scenes where characters read the Kuntillet ʿAjrud / Khirbet el-Qom inscriptions, the Timna serpent, or the Nehushtan record — the names are the evidence, the argument is the scene, and the narrator never certifies. All of this is **contested / minority** scholarship — cite it as an argued position, never as settled fact. Handling discipline is the same as AT1: characters argue toward it; it never decodes the cosmology.*
 
 **The framing claim (minority hypothesis):** Yahweh is not native to the Canaanite pantheon. He originates as an outsider god of the southern smelting deserts (Edom / Midian / Seir), is grafted into El's throne late, and over centuries absorbs El, Baal, and Elyon. The **Kenite / Midianite hypothesis** (F. W. Ghillany, 1862) is revived today chiefly through **Nissim Amzallag**'s work reading Yahweh as a patron of furnace metallurgy.
 
-**Evidence anchors to verify before use:**
+**Research roadmap — four categories (argument scene proceeds against this scaffold even while individual lineations remain debated):**
 
-- **Shasu inscriptions** — Egyptian topographical lists (Soleb temple, reign of Amenhotep III, 14th c. BCE; repeated under Ramses II) naming *tꜣ šꜣsw yhwꜣ*, "the land of the Shasu of Yhw." Oldest attestation of the name; places it among southern nomads. Verify the Soleb/ʿAmarah West readings and current Egyptological consensus (it is widely cited but the identification with the biblical divine name is debated).
-- **Timna** — the copper-smelting site in the Arabah with a Midianite tent-shrine (excavations of Beno Rothenberg; ongoing work by Erez Ben-Yosef). The **gilded copper serpent** find is the object for `35_artifact_chain.md`. Verify site phase, the serpent's context and current interpretation.
-- **Kuntillet ʿAjrud** — the "Yahweh of Samaria" and "Yahweh of Teman" inscriptions (already cited in this project for Asherah). The regional-manifestation angle is the new use: one name instantiated per place.
-- **Mesha Stele** (King Mesha of Moab, ~840 BCE; Louvre) — Mesha boasts of dedicating the **vessels of Yahweh** to his god Chemosh after taking an Israelite city. Shows Yahweh treated as an **independent rival national god**, *not yet fused with El*, in the 9th c. BCE — corroborates the late-merger reading. (Chemosh is already in the roster at `46` §B; this adds the Yahweh-as-rival angle that the carve-up then absorbed.)
-- **Amzallag, Nissim.** "Yahweh, the Canaanite God of Metallurgy?" *Journal for the Study of the Old Testament* 33.4 (2009): 387–404. The anchor for the smelter-god reading. Flag it in the bibliography as a specific scholar's thesis, not consensus.
+1. **Linguistic and Topographical Anchors (The Southern Connection)**
+   - Onomastic/toponymic data: whether Late Bronze Age Egyptian lists (Soleb, 14th c. BCE; ʿAmarah West, Ramses II) genuinely point to a geographic/tribal name associated with Yhw (*tꜣ šꜣsw yhwꜣ*, "land of the Shasu of Yhw"). Proving the linguistic bridge between 14th-century Egyptian references and Iron Age deity requires showing the name circulated among southern nomads long before it appeared in central Canaan.
+   - The "Yahweh of Teman" epigraphy: Kuntillet ʿAjrud inscriptions name "Yahweh of Samaria and his Asherah" alongside "Yahweh of Teman" (Edom). Determining whether Teman denotes the primary, older sanctuary zone or merely a regional variant is load-bearing for the southern-origin argument.
+
+2. **The El-Yahweh Synthesis Mechanism**
+   - Pantheon integration: how Yahweh transitions from an independent localized deity into the supreme Canaanite creator-god. Early traditions cast El as pantheon head and Yahweh as warrior-storm god (comparable to Baal/Hadad); the merger requires showing how El's attributes were systematically mapped onto Yahweh during monarchic state formation.
+   - The Deut. 32:8–9 paradigm: tracking how the "Most High" (El Elyon) apportioned nations to lesser deities, with Yahweh receiving Jacob as his allotment. This is the canonical image of the control-era carve-up and the mechanics of the merger.
+
+3. **Material Culture and Metallurgy (The Kenite/Midianite Hypothesis)**
+   - Metallurgy and volcanic imagery: early poetic depictions of Yahweh "marching from Seir, Edom, Sinai, or Teman" amid earthquake, fire, and steaming smoke (Judges 5:4–5; Habakkuk 3:3). Linked to copper-smelting operations in the Arabah valley (Timna), suggesting Yahweh's earliest practitioners were mobile desert smiths or caravaneers.
+   - Material signatures of early cults: differentiating highland household religion (pillar figurines, dietary taboos) from Philistine/Canaanite urban centers during Iron Age I to isolate when a distinct "Yahwistic" material culture crystallized.
+
+4. **Epigraphic Verification of Early Iron Age Texts**
+   - Disentangling controversial artifacts: Mount Ebal lead curse tablet, disputed lines on the Mesha Stele. Because these sit at the center of paleographic debates over dating and letter-forms, establishing their authenticity and exact readings is necessary to prove whether Yahweh's name was actively used in cultic cursing or interstate conflict as early as the 12th–9th centuries BCE.
+
+**Argument-scene handling:** the present-day debate can be written against these four categories without pinning every disputed lineation first. Characters argue from the categories and the partial evidence; the narrator never certifies which reading is correct. **Primary epigraphic anchor:** the Kuntillet ʿAjrud / Khirbet el-Qom inscriptions (8th c. BCE, excavated) — "Yahweh and his Asherah," "Yahweh of Samaria," "Yahweh of Teman" — already loaded in `35_artifact_chain.md` as the on-page anchor for Yahweh's southern origin. The three contested objects — AT1 lineation, Shasu/Soleb/ʿAmarah readings, Mesha Stele "vessels of Yahweh" — fall inside categories 1 and 4 and should be treated as argued positions within the scaffold, not as standalone proofs. The scene does not depend on them locking first.
 
 **Why it matters to this book:** A maker who never travels but forms creatures from Earth's own ore through fire and the moving air of the bellows is a degraded folk-memory of the **Safehouse Premise** — the makers present only as animating signal, never in person. Timna reads as a **charged ground** (holiness = what was made there). The **bellows / moving air as the demiurgic factor** rhymes with the anti-entropic medium and the psionic signal: breath animates the machine at the forge as in the body. Keep all of this as *rhyme*, never stated equivalence.
 
 **Epigraph candidates (verify wording against the chosen translation/edition):**
 
-|- **1 Kings 19:11–12** — the theophany to Elijah: the **still small voice** / **sound of thin silence** (qol demamah daqqah). The book's register for how contact actually arrives — quiet, missable, the opposite of spectacle. Pairs with Eli's surge phenomenology (`SOURCE_the_surges.md`). The divine name does not appear in the epigraph; the verse stands on its imagery.
-|- **2 Kings 18:4** — Hezekiah's destruction of the bronze serpent. The Serpent-Slaying at human scale; anchor for the Nehushtan artifact-chain entry.
+|- **1 Kings 19:11–12** — the theophany to Elijah: the **still small voice** / **sound of thin silence** (qol demamah daqqah). The book's register for how contact actually arrives — quiet, missable, the opposite of spectacle. Pairs with Eli's surge phenomenology (`SOURCE_the_surges.md`).
+|- **2 Kings 18:4** — Hezekiah broke in pieces the bronze serpent Moses had made; the people had made offerings to it and it was called Nehushtan. The Serpent-Slaying at human scale; anchor for the Nehushtan artifact-chain entry.
 |- **Exodus 7:1** — *"See, I have made you as God (Elohim) to Pharaoh"* — the **ish elohim** / human-theophany line (see also Elijah calling fire, 1 Kings 18). The living-web practitioner in old vocabulary.
 
 **The Dionysus witness (classical, real, citable):**
@@ -762,7 +773,7 @@ Pelangi harm (Ch 3) → Eli tempted by Lang's fast clock (one keyboard, one reco
 
 - Former beatsheet pins: superseded 2026-08-01
 - Architecture: `05_story_architecture.md` § Brazilian civic movement
-- Hearth / circle rhyme: `54_liturgies.md` § Hearth circles; Book II post-collapse music
+- Hearth / circle rhyme: `54_litanies.md` § Hearth circles; Book II post-collapse music
 - Names beat: Ch 5 *The Names They Carry*; expendability ledger Ch 4
 
 ---

@@ -84,7 +84,7 @@ The evidence-trail characters can argue from:
 
 **Handling rule — same as everywhere:** the Kenite hypothesis is **real but minority** scholarship. Treat it exactly like AT1: **contested evidence the characters argue over**, never a decoder ring. A faction over-reads it; a scholar insists it only shows an outsider desert god absorbed late; the disagreement changes confidence and action without settling the cosmology.
 
-**On-page naming lock:** do **not** use the divine name literally in prose or epigraph. The present-day plot encounters it through the **Kuntillet ʿAjrud** and **Khirbet el-Qom** inscriptions — the material evidence that says *"Yahweh and his Asherah"* — and the argument happens over that pottery, squeezes, and disputed readings. The name stays inside the artifacts; characters refer to the figure by role, geography, or scholarly label. This keeps the cosmology underdetermined and avoids triggering the very reactions the contested-evidence discipline is designed to prevent.
+**On-page naming policy:** use the divine names **inside artifact-bound scenes** where characters are literally reading the **Kuntillet ʿAjrud** or **Khirbet el-Qom** inscriptions, the Timna serpent, or the Nehushtan record. The names are the evidence; the argument over them is the scene. The narrator never certifies which reading is correct. Outside those scenes, characters refer to the figure by role, geography, or scholarly label. This keeps cosmology underdetermined without artificially censoring the material the characters are disputing.
 
 ---
 

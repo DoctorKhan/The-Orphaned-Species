@@ -17,18 +17,18 @@ The gods sabotaged the orbital/interface system, won their generational war, and
 
 ## The unfinished Union program
 
-During the Continental Union sequence in Book III, Eli and Emrys are shown a compartmented government physics program preserved beneath the visible registry and defense apparatus. The program assembled several bodies of evidence that official physics could not reconcile:
+During the Continental Union sequence in Book III, Eli and Rasel are shown a compartmented government physics program preserved beneath the visible registry and defense apparatus. The program assembled several bodies of evidence that official physics could not reconcile:
 
 - tiny inertial discrepancies during high-coherence collective events;
 - vacuum experiments that appear to exchange momentum with no local reaction mass;
 - gravitational and timing anomalies at charged grounds;
 - sensor records from the damaged ancient orbital/interface system;
-- correlated field and biological data inherited from Maren, Lang, Emrys, and earlier consciousness programs;
+- correlated field and biological data inherited from Maren, Lang, and earlier consciousness programs;
 - failed resonant-lattice prototypes whose effects vanish when researchers force a fixed waveform.
 
 The Union team has most of the mathematical structure but treats the living component as noise, contamination, or an operator effect to be eliminated. Eli recognizes the missing relationship: stable coupling is not a fixed command imposed on the field. It is a continuous feedback process in which the lattice must detect, answer, and re-balance against the larger field.
 
-Eli **does not finish the equations alone**. His trained perception identifies the missing variable and supplies falsifiable predictions. Emrys and surviving Union physicists translate that insight into mathematics; independent teams test it; Mandate engineers later solve the manufacturing and control problems. Credit remains plural and recorded.
+Eli **does not finish the equations alone**. His trained perception identifies the missing variable and supplies falsifiable predictions. Rasel and surviving Union physicists translate that insight into mathematics; independent teams test it; Mandate engineers later solve the manufacturing and control problems. Credit remains plural and recorded.
 
 ## The technology — the field sail
 

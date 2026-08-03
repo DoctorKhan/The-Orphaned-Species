@@ -239,5 +239,5 @@ Retain the research and imagery as quarry or as material visible through Union r
 | Civil rights + King memorial | `90_epigraphs_and_sources.md` §10 |
 | Durable reader pressures | `44_cultural_moment_and_mass_appeal.md` |
 | Pelangi paired islands | `05_story_architecture.md` § Pelangi Reach |
-| Hearth circles | `54_liturgies.md` § Hearth circles |
+| Hearth circles | `54_litanies.md` § Hearth circles |
 | Open names / cast | `99_open_questions.md` |

@@ -491,11 +491,39 @@ The shaft lets out into service levels and above him the noise is not race engin
 
 On the Cube floor—glass walls, black stone, a stage that could host a summit or a kill—lights, dancers turning a tight spiral that never frays, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide. On the downbeat every hand in the grandstand finishes the clap together—too clean, no leftover beat for anyone who arrived late. Between feeds, the temple sells frictionless care: upgrades, identity, the future as a product you can hold. Eli's palms prickle toward the stage the way they prickled toward the gantry—wrong hunger, beautiful hunger—and he puts two fingers below his collarbone before he can be embarrassed by needing them in a room this expensive.
 
-In a service alcove off the shaft, two stagehands share a cigarette. One jerks her chin at the noise above. "Other people are excited," she says, flat. "Like a parade."
+In a service alcove off the shaft, the whole crew has stopped. Not a hush — the noise above doesn't change — but down here the work pauses in a way that feels chosen, not ordered. A stagehand jerks her chin at the ceiling.
 
-The other exhales. "I alone don't care."
+"Other people are excited," she says, flat. "As though they were at a parade."
 
-They do not look at Eli. They are not performing. It is something you say down here so the parade does not get all the way inside you—and Eli understands, hearing it, that the parade already has a piece of him.
+The room answers in unison:
+
+*I alone don't care. I alone am expressionless,*
+
+"like an infant before it can smile. Other people have what they need."
+
+*I alone possess nothing. I alone drift about,*
+
+"like someone without a home."
+
+*I alone seem foolish. My mind is empty.*
+
+"Other people are bright."
+
+*I alone am dark.*
+
+"Other people are sharp."
+
+*I alone am dull.*
+
+"Other people have a purpose."
+
+*I alone don't know. I drift like a wave on the ocean. I blow as aimless as the wind.*
+
+Then the capstone, slower, once — not a performance, just the room finishing what it knows:
+
+*I am different from ordinary people. I am fed by the Great Mother.*
+
+They do not look at Eli. They are not showing off. It is something you say down here so the parade does not get all the way inside you — and Eli understands, hearing it, that the parade already has a piece of him.
 
 This is the job he thought he won. Stage power, wardrobe uplink, afterparty load-in before Circuit night—the contract Wren attested before the sweep, before the wage ticket went into another man's file. Cover paper said Foundry stage crew so the corridor would open; the call sheet said Cube show. He was supposed to check in at the service gate **this morning** with a Foundry contractor lanyard and a name on a list. Instead he is coming up through the roots with grease on his hands, one night at Continue Inn behind him, and no ticket left to spend—an underdressed body in a city that only smiles at people who already belong.
 

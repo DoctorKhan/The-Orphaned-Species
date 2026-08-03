@@ -15,7 +15,7 @@
 ## Standing cast (so names stay straight)
 
 - **Eli** — protagonist; given name **Eli** (Maren); **dak nam Babu** (Rasel/Shireen); English paperwork **Eli Holt**; stateless refugee; facilities worker at Forest Foundry; natural carrier (palm/nervous-system receptivity—reads bodies, cannot repair them); childhood TBI. Home POV for nearly every scene.
-- **Maren Holt** — Eli's mother; manuscript handle **Maren**. **Albion passport**; **neuroscientist** (signature / classifier / integration research—not a philologist); carrier; dissident; author of the **Rootbook** (encoded comparative field journal); **claimed by the Charkha Measure**; **alive, captive** until **Book II release**. Mei Friday dinner (Ch 1): taken alive, unrescued. Book II: trail, reunion, release at Albion.
+- **Maren Holt** — Eli's mother; manuscript handle **Maren**. **Albion passport**; **neuroscientist** (signature / classifier / integration research—not a philologist); carrier; dissident; author of the **Rootbook** (encoded comparative field journal); claimed by the Charkha Measure, then escaped into a distributed receiver community. **Alive, self-constrained at the Albion interface until Book II release**: she remains because she understands enough of the damaged life-technology to keep human–elven contact from becoming a massacre, not because she passively awaits rescue. Mei Friday dinner (Ch 1): taken alive, unrescued. Book II: trail, reunion, comprehension, release at Albion.
 - **Rasel Khan** (রাসেল খান — manuscript handle **Rasel**; *Russell* only in some English mouths) — Eli's father; **Bangladeshi passport**; **physicist/gardener**; maker of the **wedding ring** (*same soil*); builder of **coupling / field instruments**; **claimed by Eastern Mandate**; **alive in Mandate field-research custody** until **Book I Sanxingdui recovery**. Mei Friday dinner (Ch 1): taken alive, location unknown. Old friend of **Babaji**.
 - **Wren** — 19; **Malay Chinese**; house Weaver doing junior **Knotter** work through Babaji: intake, placements, attestations, public rooms, and route logistics. She is not Unranked and does not run extractions in Book I. Mira died after a valid official transfer Wren helped process, teaching her that completed paperwork is not a returned person.
 - **Somchai Vichai** — Thai field medic; true healer (depth vs. Eli's bandwidth). Enters Book II.
@@ -27,7 +27,7 @@
 - **Deep-time threads:** **Ila** (Thailand midpoint), **Aru** + **Daskar** (Göbekli — Book II), **Tem** (17:1 grain pit), **Adapa** (Mesopotamia — Book II), **Anthea** + pupil **Lira** (Rollright), **Cuno** (Stonehenge) → **Derw** → **Aedan**.
 - **Load-bearing artifacts (by volume):**
   - **Book I:** Rasel's wedding ring · Maren's Rootbook wafer · Three-Circles Tablet · Thai coop logs / Kitt fork map · Sanxingdui Bronze Sacred Tree (model) + TREE 1 coupling series
-  - **Book II:** ring returns with Hassan · Rootbook kin/complicity pages · Göbekli Bridge plaquette · Adapa Refusal · Sorting/Fade triad · Men-an-Tol · Cuno–Derw package · Pömmelte registry marks · optional unnoticed **Loop** hatch-mark seed only
+  - **Book II:** ring returns with Hassan · Rootbook kin/complicity pages · Göbekli Bridge plaquette · Adapa Refusal · Sorting/Fade triad · Men-an-Tol · Pömmelte registry marks · optional unnoticed **Loop** hatch-mark seed only
   - **Book III:** Double-Fork Stone + dragon ghost · Rainbow Tree / Two-Tree union image · Three Circles as civic grammar · **The Loop** (Incomplete Twin Circles — street name + working reading) · Rootbook margin corrections (open shelf)
   - **Book IV:** optional Loop court re-read (succession / belonging-as-completion); Circles as court grammar; no new quest MacGuffin
 - **Mesopotamian Human-Design Triad:** Adapa lacuna · Enki and Ninmah role-fragment · Sumerian King List declining reigns (full drama Book II; Sorting seed may appear earlier).
@@ -147,7 +147,7 @@
 **Forward clue:** selection mark → Göbekli conservation window; Hassan metadata points west.
 
 ## Book II, Ch 3 — The Buried Instrument (Eli · Göbekli / Taş Tepeler)
-**[anchors]** Present: Eli, ensemble, local researchers; Anika pressure. Objects: Bridge plaquette (disputed); Göbekli as managed-access interface (Sanxingdui counter-image).
+**[anchors]** Present: Eli, ensemble, local researchers; Anika pressure. Objects: Bridge plaquette (real object; primary source Köksal-Schmidt & Schmidt 2007); Göbekli as managed-access interface (Sanxingdui counter-image).
 **Event sequence:** Contact became selection and governable access. Eli saves site workers/visitors rather than following Hassan-linked convoy; complete activation record lost. Optional unnoticed Loop hatch-mark only.
 **Forward clue:** injured prisoner with Hassan's transfer signature → Somchai's clinic.
 
@@ -185,8 +185,8 @@
 
 ## Book II, Ch 10 — Release (Eli · Avebury / inhabited Albion ground) — **BOOK II CLIMAX**
 **[anchors]** Present: Eli, Maren, ensemble under attack. Objects: none new as MacGuffin—release itself is the act.
-**Event sequence:** Eli refuses the reunion the Charkha built; Maren walks out **alive** and does not come home; usable stabilizing signal surrendered. Relational Manual Override under attack without worship/betrayal/command hierarchy. Awakening spreads laterally through the living web. Wren/Rowan and Wren/Eli name separate chosen bonds; Rowan/Eli respect, no romance. Aftermath: Maren chooses recovery house outside the parents' household; Callum's repair crew seeds Book III Extra constituencies.
-**Book II exit:** Maren free; first awakening loose; world lacks civic form to hold it.
+**Event sequence:** Eli refuses the reunion the Charkha built; Maren walks out **alive** and does not come home; usable stabilizing signal surrendered. Relational Manual Override under attack without worship/betrayal/command hierarchy. The original elven spirits at the site, willing custodians who have remained to honor humanity's transition, witness the first successful act of understanding and pass on peacefully. A partial living Nephilot/elven reply follows. Awakening spreads laterally through the living web. Wren/Rowan and Wren/Eli name separate chosen bonds; Rowan/Eli respect, no romance. Aftermath: Maren chooses recovery house outside the parents' household; Callum's repair crew seeds Book III Extra constituencies.
+**Book II exit:** Maren free; the elven witnesses have passed on; first awakening loose; world lacks civic form to hold either awakening or contact.
 **⚠ Seam:** Rowan does not guide Meridian City; Wren's field recovery is displacement-forced expansion, not proof she ran Book I extractions.
 
 ---
@@ -235,14 +235,15 @@ Ordinary public inquiry examines sponsored refugee, Ch 3 death, his emergency au
 ## Book III, Ch 10 — The Handover (Eli · Hawaiʻi repair hall)
 The sanctioned ruler opens a seven-desk constitutional transfer in a repair hall. Living attestations matter more than identity keys. Distributed credentials and redundant verification across multiple communities mean no single point of failure exists to attack — certification completes. Weaver routes and cloister crews earn formal power through building the transfer, not surviving an attack on it. Eli becomes a private citizen; decentralized governance holds for a real stretch before Book IV's Lean Year exposes coupled material dependencies (`60_volume_IV_court_of_threads.md`). Celia Park's death and Asha Raman's injury belong to **Book IV Ch. 1**, not this chapter. Readers should feel the relief of a genuine civic achievement before Eli's personal hunger returns: usefulness without belonging.
 
-**Book III exit:** Eli genuinely relinquishes power, and the institutions genuinely hold. He has still acquired a court around himself emotionally and remains unfinished in private. Rowan/Eli attraction remains deniable and nonromantic. Book IV tests whether institutions can accept limits under attack and scarce-male pressure; it does not expose Book III's victory as counterfeit.
+**Book III exit:** Eli genuinely relinquishes power, and the institutions genuinely hold. The Mandate strike that broke the Union used part of Rasel's coupling model; Rasel's responsibility is real but complicated by his belief that he was preventing a worse escalation. Eli has still acquired a court around himself emotionally and remains unfinished in private. Rowan/Eli attraction remains deniable and nonromantic. Book IV tests whether institutions can accept limits under attack and scarce-male pressure; it does not expose Book III's victory as counterfeit.
 
 ---
 
 # BOOK IV — *THE COURT OF THREADS* *(working title)*
 
-**Dramatic question:** Can a court built around one necessary man survive intimacy, pregnancy, and succession without turning love into office or a child into a crown?
-**Arc:** emergency court → competing houses → reproductive dynasty pressure → audited institutions → transfer before birth.
+**Dramatic question — LOCKED 2026-08-02:** Can divided regions coordinate food, medicine, routes, evidence, and defense through a material crisis without creating a world government or making Eli permanent?
+**Arc:** working federation → eruption and Lean Year → cross-route survival network → competing emergency claims → audited institutions → transfer during birth.
+**Plot emphasis — LOCKED 2026-08-02:** Book IV's primary engine is global survival coordination, not courtly ownership or succession intrigue. The eruption disrupts weather, harvests, shipping, medicine, fuel, and communications; local societies continue while the links between them fail. Eli is recalled to repair those links through a temporary, reviewable network connecting Union remnants, Mandate and Coalition nodes, ports, clinics, farms, and local governments. He does not unify the world politically; he creates interoperability without merger. Rowan/Eli intimacy, chosen conception, pregnancy, and childbirth run inside this material crisis as personal and institutional clocks. The birth and final handover coincide because both require a transfer to systems that can continue without Eli.
 **Demographic flip:** Book III war losses begin scarcity; Lean Year convoy, repair, and long-route service expose and deepen it without an overnight cull. Paraguay leverage arrives; cloisters transform from Extra standing to anti-property boundary (`60` § cloister purpose transform).
 **POV:** principally Wren and Rowan; Asha receives one bounded away lens. Eli is experienced mainly from outside as ruler, lover, symbol, and prospective father.
 **Route:** North American emergency court over roughly ten months → Costa Rican evacuation hinge and negotiated southern/Pacific routes → reconstituted assembly and birth room → shared garden and teahouse coda. The principal court does not flee south.

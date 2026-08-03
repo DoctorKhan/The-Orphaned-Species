@@ -219,7 +219,7 @@ Use **psion** in dossiers; **psychic** only as slang (`05`).
 
 ## Companion & epigraph layer (Tier B)
 
-- **Primary spread surface:** `54_the_lay_verses.md` — 26 chapters in Tao / wisdom-literature register; maps to Living Way Lessons and lay practices. **Antiphonal forms:** `54_liturgies.md` — drip fragments first, full service at gatherings.
+- **Primary spread surface:** `54_the_lay_verses.md` — 26 chapters in Tao / wisdom-literature register; maps to Living Way Lessons and lay practices. **Antiphonal forms:** `54_litanies.md` — drip fragments first, full service at gatherings.
 - **Dune move:** volume front matter — one page mixing real science, Tao 72 (PD or author rendering), and **lay verses** (`54` Ch 1, 6, 21) — not dialogue refrains.
 - **Household zine (optional):** `54` Chapters 1–8 — cup, watch, threshold, meal, repair, count, map, freight — no plot spoilers.
 - **Do not** title the zine as Eli's doctrine or a registered movement.
