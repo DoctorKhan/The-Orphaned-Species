@@ -1839,6 +1839,8 @@ The array loses its shared clock.
 
 The pressure does not vanish. It fragments.
 
+This is what Manual Override looks like — not a switch flipped, but a decision made under pressure: refuse the single command that would hold everyone upright and trust the room to answer instead.
+
 People stumble in different directions. Worse for one second. Human after.
 
 Nehir's staff open the outer rope and move visitors onto the rain path. Wren

@@ -110,6 +110,7 @@
 - **Three offers — LOCKED rev. Z:** Suresh-held race wager (Eli vs Kiran); Babaji sponsor papers (via Wren); cohort vs worker lane.
 - **Parent memory — LOCKED 2026-07-25 (two-phase):** **Pre-reveal** — garden/sailing/food rhymes (`15`). **Post-reveal** — explicit grief/hunger; same images return re-framed; Ch 1 Sat AM–departure + Ch 2 queues/ring/Continue Inn.
 - **Wren / feelings — LOCKED 2026-07-25:** First meet is **emotional work**, not only paperwork. Eli carries **Friday orphan truth** into Saturday; Wren notices body-before-story (shaking, silence, performative OK). One plain line redirects a substitution — grief ≠ debt, anger ≠ plan — **without** therapist speech. She waits when he can't name it. Catamaran + marina departure = first co-regulation (food, route, *don't burn the thread* as care through action).
+- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Mandate squeeze / keeper holdout / raid). What family/individual program operates? (Earn safety by usefulness; orphan grief disguised as competent worker). What pressure exceeds the program's vocabulary? (Wren sees body-before-story; Mei serves food before classification). What practice emerges—or fails to emerge—in the gap? (First co-regulation; hearth suspended, not restored; trust earned without debt).
 
 ### Ch 2 — His Hand / Checkpoints and the Stack *(Eli · Wren escort → Meridian → Malacca breach)*
 - **Timeline — LOCKED rev. Y / job 2026-07-30:** **Saturday last light** — depart Pelangi; strait pier + Stack intake **Saturday eve**. **Saturday night** — **Continue Inn** (game hotel). **Sunday AM** — Cherry Lane → Cube. **Sunday afternoon** — idol **concert**; **Sunday night** — Circuit freight escape → Straits → Malacca breach.
@@ -157,6 +158,7 @@
 - **Romance / touch — LOCKED 2026-07-25:** **Awkward flirtation** during escort (`19` §4). **Strategic touches on-page:** clipboard at marina gate; **sleeve at pier arch** (*permission, not comfort*); Wren picks routes with hand on his back through crowds if needed. **Optional smash:** strait inspection crush or Malacca crowd jolt before breach — bodies pressed once; neither names it; Eli over-reads in narration. **Convoy near-miss:** Wren at convoy edge, **does not acknowledge** — intrigue, not reunion. No gratitude kiss; field-recognition at breach only.
 - **Wren / feelings — LOCKED 2026-07-25:** Escort is **early emotional help**, not logistics only. After pier arch / stack overload: one plain redirect (*body ahead of head* / *that's fear, not proof*); document-lanes goodbye **I'm sorry** = first acknowledged interior cost. *Be boring* = co-regulation, not only ops.
 - **M/I/A:** **M** — unreadable operator; convoy non-acknowledgment. **I** — light-cross / witness collision (reader ahead of Eli). **A** — strategic touch misread; optional smash; terror + attraction at breach, not fate.
+- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Stack intake / Custodian classification / Extra lane). What family/individual program operates? (Earn safety by usefulness; worker identity as shelter). What pressure exceeds the program's vocabulary? (Wren's body-before-story; wrong-room overhear; ring photograph before meaning). What practice emerges—or fails to emerge—in the gap? (Worker network opens partial route; communal chant in Cube alcove; recognition without command).
 - **Appeal (2026 timeliness):** optional **validation feed / companion ping** on Eli's phone — warmth without mutual obligation; he distrusts it (AI-intimacy rhyme, `44` § Timeliness A). Chase = **GoT dagger** — safe life burned in one morning.
 
 ---
@@ -243,8 +245,9 @@
 - **Past leak:** Pai market staff-twirler → channel-town performer rhyme (present callback, not flashback).
 - **Obstacle:** the report is partly stale (a line broke); the community wants no outsiders; the Custodians are a day behind.
 - **Choice → Cost:** he trusts living local expertise over his own vision and over the planted lead. Cost: time lost; the wrong clue cost them a margin.
-- **Revelation:** **plant growth is tracing something real** — the plants are the detector, no message imposed. **Forward clue:** the real geometry points south/west toward a forming line in South Asia.
-- **Past leak:** street performer staff-stumble → **Pai market callback** (three nights ago on-page).
+|- **Revelation:** **plant growth is tracing something real** — the plants are the detector, no message imposed. **Forward clue:** the real geometry points south/west toward a forming line in South Asia.
+|- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Custodian classification / registry logic; planted lead as institutional lure). What family/individual program operates? (Eli's earned-safety autopilot; trust his own vision over local expertise). What pressure exceeds the program's vocabulary? (Growers' ordinary knowledge; living mesh before message). What practice emerges—or fails to emerge—in the gap? (He trusts local expertise over planted lead; time lost; wrong clue burns margin).
+|- **Past leak:** street performer staff-stumble → **Pai market callback** (three nights ago on-page).
 - **Romance cost (INSERT — escape offer):** one **clean exit fantasy** — *we could drop the clue, take the boat, disappear* (`19` §6). Must **almost** work emotionally; fails on **third loyalty** (Wren's people / Asha's route / a civilian / truth). Reader feels pull **and** respects the boundary. No label, no kiss.
 - **M/I/A:** **M** — —. **I** — escape offer / third loyalty. **A** — weary proximity optional; pull felt, refused.
 
@@ -255,7 +258,8 @@
 - **Choice → Cost:** he receives her as **other** — real, dead, grievable — without claiming her. Cost: grief with nowhere to set the love down.
 - **Revelation (MIDPOINT):** the ground record is apprenticeship, not identity proof. Ila mapped the line; he can follow it without becoming her. Decision changes: he can learn from the ground without claiming it. **Forward clue:** Ila's partial record names the kind of place to look — a community where a new line is forming through planted ground.
 - **Romance cost (INSERT):** Wren sees Eli **grieve a woman in the record** (Ila) — misreads as identification/destiny hunger. She goes colder; he doesn't explain (can't yet). Intimacy **down** — prevents midpoint from feeling like romance high.
-- **M/I/A:** **M** — she misreads his grief; goes colder. **I** — —. **A** — **down**.
+|- **M/I/A:** **M** — she misreads his grief; goes colder. **I** — —. **A** — **down**.
+|- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Pursuit clock / registry chase / Custodian containment). What family/individual program operates? (Eli's grief-as-identity hazard; Wren's standing-as-protection). What pressure exceeds the program's vocabulary? (Ila's record is apprenticeship, not destiny; grief without a place to land). What practice emerges—or fails to emerge—in the gap? (He receives her as other; Wren withdraws; intimacy down, not destroyed).
 
 ---
 

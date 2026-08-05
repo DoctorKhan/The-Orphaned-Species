@@ -1551,6 +1551,82 @@ Eli's.
 
 ---
 
+By midafternoon the clinic queue has stalled.
+
+Twelve people wait in the narrow corridor between intake and examination.
+One child is crying. A clinic worker has left the desk to fetch water. The
+interpreter is talking to three people at once and losing all of them. Someone
+has moved a chair into the doorway and is using it to block the draft from the
+opening door, which lets in rain and the smell of wet diesel. The queue does
+not move.
+
+Nobody calls for a coordinator.
+
+An older woman from the river market — Dona Iracema, who has been directing
+traffic since morning without a badge — steps around the chair and reroutes the
+family at the front toward the overflow cot because she sees the child's face
+and recognizes the fever pattern. The clinic worker returns with water and
+hands it to the interpreter, who passes it to the mother without stopping the
+explanation. The welder from the intake crew takes over crowd position at the
+door without being asked and stops the draft with his body. The interpreter,
+freed from managing three conversations, finishes the one that matters most.
+
+The queue begins moving again within ninety seconds.
+
+Eli watches from the doorway with Wren. He has not spoken. Nobody has looked
+to him for an order.
+
+"Who decided that?" he asks quietly.
+
+"Nobody," Wren says. "They decided together."
+
+The redistribution is faster than the commander-led version would have been,
+and quieter, and it leaves no one with a story about who was in charge. That
+is exactly the point.
+
+He does not record it as a management lesson. He lets it stand as a fact the
+harbor already knew and he is only now learning to read.
+
+---
+
+By midafternoon the clinic queue has stalled.
+
+Twelve people wait in the narrow corridor between intake and examination.
+One child is crying. A clinic worker has left the desk to fetch water. The
+interpreter is talking to three people at once and losing all of them. Someone
+has moved a chair into the doorway and is using it to block the draft from the
+opening door, which lets in rain and the smell of wet diesel. The queue does
+not move.
+
+Nobody calls for a coordinator.
+
+An older woman from the river market — Dona Iracema, who has been directing
+traffic since morning without a badge — steps around the chair and reroutes the
+family at the front toward the overflow cot because she sees the child's face
+and recognizes the fever pattern. The clinic worker returns with water and
+hands it to the interpreter, who passes it to the mother without stopping the
+explanation. The welder from the intake crew takes over crowd position at the
+door without being asked and stops the draft with his body. The interpreter,
+freed from managing three conversations, finishes the one that matters most.
+
+The queue begins moving again within ninety seconds.
+
+Eli watches from the doorway with Wren. He has not spoken. Nobody has looked
+to him for an order.
+
+"Who decided that?" he asks quietly.
+
+"Nobody," Wren says. "They decided together."
+
+The redistribution is faster than the commander-led version would have been,
+and quieter, and it leaves no one with a story about who was in charge. That
+is exactly the point.
+
+He does not record it as a management lesson. He lets it stand as a fact the
+harbor already knew and he is only now learning to read.
+
+---
+
 The next morning brings clean weather.
 
 The workboat sits against the maintenance pier with its aft deck open. Nia and
@@ -2671,9 +2747,33 @@ Sol appears on the channels his people seized.
 
 Between them, the city asks Eli what to do.
 
-He gives an answer.
+He does not answer yet.
 
-Then another.
+A coastal fishing cohort sends a boat list with its own condition: no children
+moved without a parent present, no armed arrivals before civilians, no route
+assigned by a registry. A threshold house sends the same three conditions from
+a different direction. A clinic cooperative sends a medical priority list that
+reads as refusal when read sideways — patients first means armed actors last,
+and the order is deliberate. A repair crew reroutes three fuel wagons without
+asking and leaves a note saying the bridge will hold only if the crossing
+respects the same order.
+
+The communities arrive at the same corridor and the same refusal set without a
+coordinator. They do not merge into one body. They keep their own conditions
+and the route holds because the conditions match.
+
+Lang's Standard tries to force the corridor onto the same communities. Sol's
+people try to seize it as liberation. Both commands land on rooms that have
+already decided the terms themselves and answer the messengers with the
+conditions, not obedience.
+
+Eli reads the conditions and understands that the city is not asking him for a
+route. It is asking him to recognize the route it has already built.
+
+He gives an answer that names what the rooms have already named.
+
+Then another, and each one is shorter because the corridor is already
+speaking.
 
 By midnight, nobody remembers that his harbor authority ended when the last
 body reached the pier.
@@ -3989,7 +4089,27 @@ This time he does not translate hurt into rejection.
 Both answers remain true.
 
 Behind them, the first official copy of the compact leaves the customs house
-by six different routes.
+by six different routes. The original signed document stays locked in the
+assembly room because the dispute over shelter allocation is still open and
+nobody wants to risk it being cited as settled.
+
+A Brazilian host and a Union officer spend two hours arguing about whether the
+compact permits closing a clinic ward to make room for incoming wounded. The
+host reads the purpose clause. The officer reads the continuity clause. They
+arrive at the same answer from opposite directions: shared notice, named review
+date, opt-out preserved, testimony from the affected party before closure. The
+document sits on the table between them, unopened.
+
+Three days later, a storage shed in the customs square burns. The fire crew
+pulls charred timbers and one water-damaged box from the ashes. The box
+contained the compact's only sealed signed copy and the witness seals. No one
+panics. Amara calls the registry office to report the loss and then drafts a
+new witness list from the six transmitted copies already in the field. Wren
+checks the date on the review clause. It is six months away. The compact
+continues without the paper.
+
+What Eli learns in that week is that civic order does not live in the document.
+It lives in the habit of returning to the table before anybody is forced.
 
 Ahead, Hawaiʻi waits with beds, water limits, damaged roofs, and the authority
 to send them away.
@@ -6172,14 +6292,57 @@ The civic win is real. He can feel it the way he feels a clean splice—load
 distributed, no single point of failure, the room continuing without his name
 on the top line. Relief arrives. It does not become belonging.
 
-On a warehouse wall someone has chalked two incomplete circles, hatch-marks
-opposed, almost ready to join into an infinity. Street name waits for people
-who need a word for the sealed feeling after a finished job: usefulness without
-home, recognition without rest, a completion that still loops privately. Eli
-does not name it. He puts his palm against the wall beside the chalk and finds
-no answer waiting for him there.
+On a warehouse wall someone has chalked two incomplete circles, hatch-marks opposed, almost ready to join into an infinity. Some people already call it The Loop — not a diagnosis, just a name for a thing anyone can feel. Street name waits for people who need a word for the sealed feeling after a finished job: usefulness without home, recognition without rest, a completion that still loops privately. Eli does not name it. He puts his palm against the wall beside the chalk and finds no answer waiting for him there.
 
 He walks on. The federation holds. He remains unfinished inside it.
 
 That private hunger is not proof the handover was theater. It is the debt Book
 IV will have to test under weather, not the excuse to call today's victory fake.
+
+---
+
+They walk to the shore after the last delegate has left.
+
+The morning is ordinary. Heat rises from the asphalt. A vendor pushes a cart
+of coffee and mango toward the repair hall. A child tests a bicycle on the
+promenade. The harbor does not look like a place that almost chose a ruler
+yesterday.
+
+Wren stops where the promenade turns to stone.
+
+A flock of swifts is moving above the water, turning without a leader, each
+bird answering the same shift in wind the others feel. The shape opens and
+closes and opens again. No bird is commanding. No bird is following. They are
+simply attending to the same air together and letting the shape arise from
+what they share.
+
+"They could be doing that with a commander," Eli says.
+
+"They could," Wren answers.
+
+A single swift peels away from the flock and lands on the stone railing ten
+paces from them. It adjusts its wings, looks at nothing in particular, and
+takes off again without urgency. Another follows. Then three more.
+
+No bird asks permission. No bird waits for a signal. They land, they rest,
+they leave when the air moves.
+
+Eli watches his own hands. They are not shaking now.
+
+He looks at Wren.
+
+"What now?" he asks.
+
+"We keep the compact," she says. "And we walk home."
+
+It is not a proclamation. It is the only answer that would let them walk
+without becoming something the birds would not recognize.
+
+They turn back toward the repair hall. The swifts continue over the water,
+turning in relation without merging, each one whole inside the shared flight.
+
+The book does not end with a promise. It ends with a practice.
+
+Birds land. People choose the ordinary.
+
+The work continues.
