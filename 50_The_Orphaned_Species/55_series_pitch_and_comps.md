@@ -266,6 +266,7 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 20. **Book I complete meal — LOCKED 2026-07-31.** Ch 11–13 must read as a finished thriller (chase, landmark wonder, father recovered, irreversible costs) that also opens the series — not as setup that withholds satisfaction until Book II (`55` § *Five delivery upgrades*; `58`).
 21. **Climax staging — epic enough — LOCKED 2026-08-01.** Every volume ends climax + hunger. II: assault concurrent with release. III: war-window concurrent with handover (birds = coda). IV: labor/heir/vote simultaneity. `17` § *Climax staging*; `55` §6.
 22. **Book II delivery package — LOCKED 2026-08-01.** Mother Clock A every chapter; Wren/Rowan↔Maren mirror; Rasel instrument antagonist; Sol @ Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers (chase grammar, people spine, hearth/*flow* Ch 6, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Rootbook correction, Somchai hard no late Ch 9). `32` § *Book II delivery package*; `55` Book II dual-clock map.
+23. **Three-Term scene check — LOCKED 2026-08-05.** Every chapter must answer four questions: what cultural program operates? what family/individual program operates? what pressure exceeds the program's vocabulary? what practice emerges—or fails to emerge—in the gap? A chapter that cannot name all four elements needs rework before it is "done." `00_THREE_TERM_MODEL.md` § *Scene filter*. Applies to `31`, `32`, `33`, and `34`.
 
 ---
 
