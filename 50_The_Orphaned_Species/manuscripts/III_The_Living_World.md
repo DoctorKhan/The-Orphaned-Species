@@ -5285,6 +5285,23 @@ for the final civilian boat to clear.
 
 The operational report records eleven minutes purchased.
 
+It does not record the other cost.
+
+Tomas Okafor is found by Eli in the morning review not far from the junction
+access hatch, where he had been carrying cable for the evacuation rig. The
+body shows no weapon, no blow, only burns consistent with live rail and the
+compression mark of a collapsing stanchion. He is twenty-one. He came
+awakened from the crossing with his sister Nia and a request for ordinary work.
+He does not get ordinary work. He gets the first hour of a war he did not
+start, holding a wire that was never meant to carry current alone.
+
+Eli stands beside the sheet long enough to read the name twice.
+
+The threshold house review lists three losses. Blue Roof is one. The others
+are not named in the public summary.
+
+Wren knows the list. She does not speak it.
+
 Wren deletes the phrase from the public summary.
 
 Owen Price makes her put it back.
