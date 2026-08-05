@@ -1,38 +1,37 @@
-# The Consciousness Technologies
+# The Cosmic Game
 
-Rediscovering Ancient Tools for Modern Liberation
+T2 at civilization scale — Bridge → past lives → Ω.
 
-A comprehensive guide to psychedelics, plant medicines, and consciousness-altering practices as tools for breaking free from programming and accessing authentic spiritual experience.
+A companion to *The Orphaned Species*. Not a how-to, not a cosmology lecture, not a manifesto. It is a field companion for the practice of lucid creation at the scale where communities, lineages, and planes meet.
 
 ## About
 
-This repository contains the source files and compiled output for "The Consciousness Technologies", part of the Universal Book Compiler series.
+This book is Layer 2 companion material. It takes the civic and personal practices dramatized in the novels and carries them to the horizon where they become ambient culture — not as belief, but as shared conduct.
+
+## What it covers
+
+- The Bridge: compact forms that hold difference without merger
+- The past lives as practice lineage, not identity recovery
+- Ω: convergence without ownership; lucid creation; the practice that makes victory survivable
+
+## Scope
+
+Audience: novel readers first, practitioners second.
+Tone: investigative companion + practical field guide.
+Constraint: it explains what the novels dramatize. It does not replace the novels.
 
 ## Structure
 
-- `src/` - Source markdown files
-- `output/` - Compiled book outputs
-- `book_config.yaml` - Book configuration
-
-## Building
-
-This book is built using the Universal Book Compiler system. To compile:
-
-```bash
-python3 compile_book.py --book-number 4
-```
-
-## Web Version
-
-The GitBook-style web version is available at: https://doctorkhan.github.io/The-Consciousness-Technologies-Book/
+- `book-outline.md` — chapter-level map
+- `src/` — source markdown
+- `output/` — compiled outputs
 
 ## Series
 
-This book is part of the Universal Book Compiler series:
-- [Manual Override](https://github.com/DoctorKhan/Manual-Override-Book)
-- [The Social Game](https://github.com/DoctorKhan/The-Social-Game-Book)  
-- [The Human Experiment](https://github.com/DoctorKhan/The-Human-Experiment-Book)
-- [The Consciousness Technologies](https://github.com/DoctorKhan/The-Consciousness-Technologies-Book)
+- [Manual Override](../Manual_Override/README.md)
+- [The Social Game](../The_Social_Game/README.md)
+- [The Human Experiment](../The_Human_Experiment/README.md)
+- **The Cosmic Game** (this volume)
 
 ## License
 

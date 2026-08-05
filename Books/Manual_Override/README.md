@@ -9,11 +9,12 @@ A groundbreaking exploration of individual consciousness, free will, and persona
 This repository contains the source files and compiled output for "Manual Override", part of the Universal Book Compiler series.
 
 **Key Frameworks:**
-- **The Cosmic Rhythm**: The natural three-phase cycle of consciousness (Exploring → Awakening → Returning)
-- **The Four Freedoms**: Advanced navigation tools (Anatta, Ahimsa, Akatta, Wu Wei)
-- **The Multiplanar Hypothesis**: Understanding consciousness across multiple dimensions
-- **Temperature Metrics**: Nirvana as a cooling measurement, not a destination
-- **NPC/Player Framework**: Shifting from unconscious character to conscious player
+- **Three-Term Model:** T1a cultural programming, T1b family/individual programming, T2 what you do
+- **Three Circles:** body → family → civilization; untying technique at every scale
+- **NPC/Player Framework:** Shifting from unconscious autopilot to conscious agency
+- **Manual Override:** the body-scale untying practice — feel it, don't complete the act
+- **Release:** the family-scale untying practice — give up the want that keeps the thread tight
+- **Threshold / Contact:** the practice at the body boundary where programming is felt and refused
 
 ## Terminology (consistency)
 
