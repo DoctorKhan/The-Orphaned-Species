@@ -651,6 +651,10 @@ Two streets from the hotel he sees why the chandlery man moved his witness. Two 
 
 The tingle in his hands goes sharp, as if the skin has learned to listen.
 
+Eli's eyes go to the screen before his body does. The health worker's tablet is angled to catch faces at the bridge mouth, not temperatures. The soldier's tablet is turned the other way, toward the river steps. The white van has no windows that open. He has walked past three camera nodes in the last twenty metres—doorbell, traffic, handheld—and none of them have looked at his fever. They have looked at his face. The Mandate does not need to ask who you are. It records you until it needs to.
+
+He steps back before the next camera reaches him.
+
 At the next corner someone catches his wrist, and he jerks back—all elbows, no plan—and the woman lets go before either of them gets hurt.
 
 "Don't," she says. Younger than him, he thinks, though the way she holds herself makes the guess uncertain. Short hair under a cap, rainwater on one cheek, a courier bag across her chest. Nothing about her says police. Nothing about her says safe. "The front of the hotel is watched. The river steps are worse."
@@ -738,7 +742,9 @@ The first operator is off the scooter and closing before Eli is set. He throws h
 
 "Hassan—"
 
-"Not the ring," Hassan says, over a shoulder, almost gentle. "*You.* You're the door. Don't let them—"
+"Not the ring." Hassan's hand finds Eli's wrist. His palm is hot, the grip almost steady. "Listen—before they took me, Rasel left a note. Not for the file. For the next person who came asking. I was supposed to carry it out. I failed." He presses a folded square into Eli's hand. "Three loops. That's the instrument. That's the word. Guanghan. That's where they have him."
+
+"Not the ring," Hassan says, over a shoulder, almost gentle. "You're the door. Don't let them—"
 
 And then the first operator's hands are on Eli's throat, and the world tilts, because pressure at the neck reaches the old fracture faster than anything else.
 
@@ -1879,6 +1885,16 @@ Dara stamps the freight sheet. "Good. West road was not mine."
 ---
 
 The dataset request on Maren's wafer does not open at the yard. It opens a door for something else.
+
+Eli does not request it by accident. He has spent the crossing from Thailand turning Hassan's three words and the tablet's three rings against each other like stones until they make a shape. The note said *Guanghan*. The tablet shows three concentric loops with a center point — the same diagram the Mandate uses to label what Rasel calls coupling instruments.
+
+His first try fails. He feeds the tablet's geometry alone into the conservation network — three rings, one point — and the slate returns a generic artifact index: temple seals, school exercises, rank insignia. The Mandate's catalog knows the shape but does not know which version Rasel cut. The image is not unique enough to be a key.
+
+He sits back. Wren watches him without asking, which means she sees the dead end before he names it.
+
+"Not the image," he says. "The name. Hassan said Guanghan. The wafer has a checksum that names the series. I need both."
+
+He tells Wren what Hassan said — the three loops, the instrument, the word Guanghan. She listens without correcting him, which is how he knows the connection holds. Together they feed the conservation network the citation code from the wafer, not from memory, not from hope — from the geometry of the thing Rasel's own hands cut into clay.
 
 Dara supplies a conservation-network credential from a card sewn into her permit wallet. The slate thinks for a moment, then refuses the dataset and fills instead with a woman's face.
 
