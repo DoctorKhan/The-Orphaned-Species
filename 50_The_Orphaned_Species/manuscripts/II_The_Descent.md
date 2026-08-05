@@ -7576,7 +7576,7 @@ She does not disappear.
 She becomes a woman on the floor, breathing badly, held by Somchai, no longer
 occupying every ground at once.
 
-The living demonstration enters the amplifier. Eli gives no command.
+The living demonstration enters the amplifier. Eli gives no command. This is relational Manual Override: release without command, let the thread choose.
 
 One captive thread releases. Then another.
 

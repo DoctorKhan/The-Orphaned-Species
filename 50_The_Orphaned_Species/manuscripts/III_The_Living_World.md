@@ -6209,6 +6209,8 @@ The continuity clause is read into the record and not invoked. Wren makes sure o
 
 Eli signs.
 
+It is also the final Manual Override he will ever need: the transfer names a bounded, reviewable release, not a crown, and the room has already proved it can hold authority without a single source.
+
 ---
 
 Nothing detonates. Nobody dies today. Tarek Mensah, whose diverted vehicle became a small crisis eleven days ago and taught Wren exactly why seven desks needed to disagree with each other, gives a two-minute account of a route he trusts again and sits back down.

@@ -593,6 +593,8 @@ Wren sits across from him.
 
 She is neither consort nor subordinate, and she has not gone, and this time neither of them mistakes the borrowed crown for a home.
 
+Outside, on a retaining wall near the harbor approach, someone has chalked the old incomplete circles — two arcs, opposed hatch-marks, almost joined. The Loop. A clerk walking past stops, looks, and walks on without saying anything. Wren sees it later and does not erase it. The mark stays because the court needs to remember that belonging is not the same as completion, and that a finished job can still loop privately inside the person who did it.
+
 ---
 
 Days later, Wren receives three seating plans before breakfast.
@@ -1433,6 +1435,10 @@ Rowan the following evening.
 
 Rowan goes to Eli's room because they have finished work, eaten, argued about
 Henley's replacement, and still want one another when nothing urgent remains.
+
+Sex is not a claim. It is not a contract, not a title, not a step toward
+household or succession. It is what two people choose in the same room they
+have already chosen to argue in.
 
 At the door, she stops him.
 
