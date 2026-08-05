@@ -7,11 +7,13 @@ They do not replace the novels, sermonize, or invent cosmology.
 
 ---
 
-## Scope lock
+## Scope lock — FINAL 2026-08-05
 
 - **Audience:** novel readers first, practitioners second, general audience third.
 - **Tone:** investigative companion + practical field guide. Not fiction, not philosophy, not lecture.
 - **Length:** one focused volume each, ~40–70k words. Appendices carry evidentiary weight; main text carries choice, cost, and practice.
+- **Deliverable contract:** each companion opens with a scene the reader could step into; closes with a practice the reader could use; never opens with cosmology, theory, or taxonomy speech.
+- **Non-negotiable:** no companion may solve what the novels are still testing. If a passage does not create choice, cost, or relationship change, it belongs in Layer 3 (the Record), not in a companion.
 
 ---
 

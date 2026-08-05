@@ -20,9 +20,9 @@
 [x] 13. Ch 6 — compact-as-conduct not document
 
 **Craft-level beats**
-[ ] 14. Write somatic mechanism for Drift / god-sickness / synchronization refusal
-[ ] 15. Add Sol offer-works-for-someone check to every Sol scene in beatsheet
-[ ] 16. Lock companion-layer scope (practitioners / general audience / novel readers)
-[ ] 17. Specify temple/oath/armor/coda ritual mechanics
+[x] 14. Write somatic mechanism for Drift / god-sickness / synchronization refusal
+[x] 15. Add Sol offer-works-for-someone check to every Sol scene in beatsheet
+[x] 16. Lock companion-layer scope (practitioners / general audience / novel readers)
+[x] 17. Specify temple/oath/armor/coda ritual mechanics
 [ ] 18. Enumerate required bridging-capacity gestures across all four volumes
 [ ] 19. Map Book III instruments to "technology teaches meaning" principle
