@@ -2367,7 +2367,12 @@ No one pretends the wound is clean.
 Eli walks back to the route vehicle with mud on his boots and a headache he
 does not name. Wren asks whether he believes the truce will last.
 
-"Until the next bridge," he says. "Then we walk again."
+"Perhaps there is a middle way," he says. "Not peace. Not victory. A way
+that holds until the next bridge."
+
+"Then we walk again."
+
+"Yes. Then we walk again."
 
 The outcomes refuse symmetry. Pelangi rewinds its pumps by hand and stays open.
 The north harbor rations berth power and keeps medicine moving. One mountain
@@ -5499,5 +5504,22 @@ The government survived him by changing.
 The child will survive none of them by remaining what they intended.
 
 He turns off the water before the roots drown.
+
+At the review hall, the pro-dynasty coalition meets in the old anteroom and does
+not disband. The first fuel decision is delayed by argument. A praetorian chapter
+that refused the oath still encamped outside the perimeter sends a request for
+winter fuel that the council must answer or refuse on paper.
+
+Tara sleeps through the argument. She receives no title, no field sign, no
+station acknowledgment. Before the first breath, the crown had ceased to be
+Eli's. After it, she is still only a child.
+
+The work-song Rowan heard in Hawaiʻi is now in the teahouse route ledger, taught
+to children who will never meet the grower who first carried it. That is how
+practice survives the body that made it.
+
+The Loop does not speak. It does not need to. People enter it when usefulness
+becomes home and completion becomes silence. Eli knows the door. He does not
+open it.
 
 Nobody comments on the birds.
