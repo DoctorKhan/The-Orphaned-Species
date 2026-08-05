@@ -2337,6 +2337,37 @@ stock. A retaliatory patrol closes a bridge after somebody fires on an
 unmarked convoy. Conflicting emergency keys corrupt pump instructions three
 jurisdictions away. None of it has one author.
 
+Eli reaches the bridge before the second convoy does.
+
+The first convoy is medical. The second is grain, escorted by men whose
+brother was hit on the same road three days earlier. Both crews are awake,
+armed, and convinced the other side chose this delay to starve them. The
+bridge is narrow. One vehicle blocks the lane. A second tries to pass on the
+shoulder and slides on mud.
+
+Eli steps into the middle of the lane with his hands open.
+
+The escort captain recognizes him. That recognition is not safety. It is
+attention. The man could fire to make the world simpler. Eli does not ask him
+to be good. He asks him to wait twelve minutes while the injured driver is
+unhooked from the steering column and the medical convoy passes through with
+its cargo intact.
+
+The captain waits.
+
+The grain convoy does not move until the medical convoy is over the river and
+its escort has counted the crates. Then the captain tells Eli the bridge will
+hold one vehicle at a time until a local crew can reinforce the abutment.
+
+No battle follows.
+No retaliation is planned.
+No one pretends the wound is clean.
+
+Eli walks back to the route vehicle with mud on his boots and a headache he
+does not name. Wren asks whether he believes the truce will last.
+
+"Until the next bridge," he says. "Then we walk again."
+
 The outcomes refuse symmetry. Pelangi rewinds its pumps by hand and stays open.
 The north harbor rations berth power and keeps medicine moving. One mountain
 council closes its gate to new arrivals and posts armed men beside the cistern.
