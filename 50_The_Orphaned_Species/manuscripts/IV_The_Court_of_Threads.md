@@ -16,8 +16,9 @@
 > an ordinary later coda.
 >
 > **NORTH–SOUTH ROUTE LOCK — 2026-08-01; WATERSHED 2026-08-01:** The court remains
-> in North America. Evacuation hinge = **Limón–Tortuguero** receiving with
-> **Reventazón / Turrialba** nursery-farm capacity (`60`). Yuliana Mora is the
+> in North America. Evacuation hinge = **Nosara–Samara** receiving with
+> **Tenorio–Miravalles watershed zone** nursery-farm capacity toward **Monteverde**
+> cloud forest (`60`). Yuliana Mora is the
 > on-page route clerk face. Costa Rica sets capacity and may refuse. Eli/Rowan/
 > Wren/court do not flee south. Eagle–Condor = contested rhetoric, not omen.
 >
@@ -2297,19 +2298,19 @@ people trade as if it has already come true.
 
 Costa Rica refuses the first northern evacuation number.
 
-The Limón–Tortuguero receiving councils, speaking with the Reventazón nursery
-network inland, return counts instead of hemispheric gratitude. The court
+The Nosara–Samara receiving councils, speaking with the Tenorio–Miravalles
+nursery network inland, return counts instead of hemispheric gratitude. The court
 requested twelve thousand places and called the corridor a shared obligation.
 They answer with clinic beds, liters of water, roofs that held through the last
 rain, roofs that did not, families already waiting, two roads with unstable
-slopes on the Caribbean side. Then the counts continue: shade at the hottest
-crossings, nursery losses above Turrialba, fruit expected before the dry
+slopes on the Pacific side. Then the counts continue: shade at the hottest
+crossings, nursery losses in the watershed zone, fruit expected before the dry
 months, young roots on the roaded hill above the clinic. They offer places for
 three thousand one hundred and eighty named people, reviewable in ten days.
 
 A Continuity delegate calls the refusal a betrayal of the Eagle and Condor.
 
-The reply comes from a Costa Rican route clerk in Limón—**Yuliana Mora**, who
+The reply comes from a Costa Rican route clerk in Samara—**Yuliana Mora**, who
 keeps a thermos of coffee under the desk and will not let the Continuity man
 speak until she has poured for the local nursery lead first. Chemistry before
 theology. The nursery lead drinks. Then Yuliana reads the line:

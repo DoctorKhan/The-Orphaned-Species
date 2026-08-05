@@ -253,8 +253,7 @@ learn to prolong — a temptation sharper the second time, because everyone
 involved, including Eli, now knows exactly how well the alternative can work
 and exactly how fragile it turned out to be.
 
-**North–south movement / Costa Rica hinge — LOCKED 2026-08-01; WORKING WATERSHED 2026-08-01:** Primary receiving-and-transfer hinge = **Caribbean-slope corridor** linking **Limón–Tortuguero** coastal nodes with inland nursery/farm capacity in the **Reventazón watershed** (Turrialba side) and existing biological-corridor practice toward the San Juan. Do **not** flatten to national guanacaste iconography or treat Costa Rica as empty passage. Species mixtures, Indigenous jurisdiction specifics, dry-season water limits, and work-song wording remain **consultation-required** before denser on-page naming — but the hinge geography is no longer TBD. The court
-remains physically in North America. The volume is not solved by moving Eli,
+**North–south movement / Costa Rica hinge — LOCKED 2026-08-01; WORKING WATERSHED 2026-08-01:** Primary receiving-and-transfer hinge = **Pacific-slope corridor** linking **Nosara–Samara** coastal nodes with inland nursery/farm capacity in the **Tenorio–Miravalles watershed zone** and existing biological-corridor practice toward Monteverde cloud forest. Do **not** flatten to generic rainforest iconography or treat Costa Rica as empty passage. Species mixtures, Indigenous jurisdiction specifics, dry-season water limits, and work-song wording remain **consultation-required** before denser on-page naming — but the hinge geography is no longer TBD. The court remains physically in North America. The volume is not solved by moving Eli,
 Rowan, Wren, or the palace south. As northern harvest and route failures deepen,
 some families, clinic patients, apprentices, and work crews move through a
 locally governed Costa Rican receiving-and-transfer network toward Brazilian,
@@ -276,7 +275,10 @@ stabilize slopes, feed households and animals, and keep pollinator and wildlife
 movement open. That inherited work is why the route functions after northern
 systems fail. It cannot be surge-scaled like warehouse space. Every admission
 number includes dry-season water, canopy, slope, sanitation, nursery stock,
-food-tree yield, and the labor needed to keep all of them alive.
+food-tree yield, and the labor needed to keep all of them alive. Monteverde's
+older emergent specimens and Pacific-slope ceibas function as both infrastructure
+and civic landmarks: shade corridors, slope anchors, named meeting places,
+and durable proof that the corridor is inherited work, not improvised shelter.
 
 This makes trees active political stakes without making them magical. A psion
 may notice water stress or a stand's disrupted coherence before an instrument
