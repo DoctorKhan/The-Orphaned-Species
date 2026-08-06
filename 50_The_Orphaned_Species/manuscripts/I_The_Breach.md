@@ -1971,38 +1971,11 @@ Dara reads the form over his shoulder. "She is correct about one thing. My permi
 
 "Real."
 
-"The traces?"
-
 Eli runs the clip backward and stops on the nine lines. Not random. Not Malai's
 series either. The lines are being forced toward convergence. The loops are
 Rasel's craft; the file labels them **coupling instruments**.
 
-"Can the official line take only me?" Eli asks.
-
-Wren's answer is immediate. "Yes."
-
-"Would they leave everyone else alone?"
-
-"No."
-
-"Could it be safer for Dara anyway?"
-
-This time Wren waits.
-
-"Yes."
-
-The word costs her. He can hear it.
-
-"Whose household?" he asks.
-
-"Eli—"
-
-"Told first."
-
-"Mira's," Wren says. "Official transfer. Every signature valid. Her household
-lost the lease, and she died in the place the papers called safe."
-
-The answer is less convenient than remorse.
+The recording proves a man is alive in Guanghan. It does not prove the man is Rasel. The face is angled away from the camera. The hand on the bench is scarred, but the scar is at the thumb—visible in the Mandate intake photograph too, where the band is turned just enough that the inscription does not read. Anika's clip does not show the ring close enough to confirm wear pattern. The voice says "That isn't my name," which could be coercion or it could be someone else refusing a label.
 
 Eli looks at his father under the white light. The old engine arrives quietly, dressed as arithmetic.
 
@@ -2217,7 +2190,21 @@ Only then does Luo accept the packet.
 
 "Alive this morning."
 
-"I need to see him."
+"Show me."
+
+Luo opens the conservation staff directory on her tablet. The list is ordinary: names, roles, clearance levels, emergency contacts. One name stops Eli. Same family name. Same research background. A technical worker who has been in the program for eighteen months—long enough to be institutionalized, long enough to be coerced into the coupling work.
+
+"That's him," Eli says.
+
+Wren leans in. She reads the entry twice, then pulls up the Mandate intake photograph Hassan carried and the biometric fragment from the conservator's supplementary log. The palm print does not close around the scar. The surname matches; the hand does not.
+
+"Not him," she says.
+
+Eli stares at the name. Six hours of road and border detour resolved to a man who has never met Rasel, who has been in the program longer than Eli has been searching, who will stay there whether Eli finds his father or not. The false identification costs them nothing and everything: the six hours already spent, the margin closing on the civilian evacuation, the fragile trust in his own read.
+
+"Someone else, then," he says.
+
+Luo's face does not change. "Your father bought time through our institution's stolen data. The name he used here is not on any list I can show you without review. He is in the annex tonight. The work alias is not the problem. Getting him out before they move him is."
 
 "Many people need things from this site." Luo opens the van door. "You are not here to explain our tree to us. You are here because your father used our work to buy time, and the time is nearly gone."
 
@@ -2317,6 +2304,26 @@ Qiao opens the conservation model of Tree No. 1: components, joins, corrosion, r
 Qiao brings up nine traces in three tiers.
 
 The same geometry as Anika's clip. Not the same behavior. Here the lines wander independently within bounded relationships. When one moves, adjacent traces answer late and imperfectly. None becomes the master frequency.
+
+Rasel is not among the people walking the floor above. Luo pulls up the staff list first: twenty-six names on day rotation, nine tonight. Three of them match the description Anika gave—field physicist, coerced into coupling work, work alias. One is a Charkha plant, a staff member with a similar surname and a ring with a different inscription, inserted to intercept anyone looking for Rasel. The other two are real researchers with no connection to the program.
+
+"The record does not tell you which is which," Luo says.
+
+Eli looks at the three names. None of them is Rasel. None of them can be eliminated without evidence.
+
+"Show me the ring," he says.
+
+Wren opens Hassan's image. The band is turned just enough that the inscription does not read. Luo calls up the Mandate intake photograph; it shows the same scar at the thumb, the same angle, the same hidden inscription. The conservator's supplementary log has a partial palm print—only the base of the palm and the scar line, not enough for a biometric match. Maren's Rootbook index entry is embedded in a comparative field journal, not flagged as personal identification; Wren extracts it with the same archival skill she used at the intake desk, reading the paper structure rather than the content.
+
+The three strands do not converge on any of the three staff matches until Wren cross-checks the ring's alloy composition against a sample Suresh kept from the Pelangi workshop—raspel brass, coastal copper, a trace of tin from a batch Rasel mixed himself. The Charkha plant's ring is pure silicon carbide, Mandate issue, no Pelangi signature. The other two staff members have no ring at all.
+
+Only one staff member matches all three strands: the alloy, the biometric fragment, and the Rootbook index entry decoded against Maren's comparative field journal.
+
+He is using a different name in the conservation records. He is in the annex tonight.
+
+Qiao opens the live camera feed. The diagnostic loop repeats every forty-three seconds. In the gap, Rasel looks directly at the camera and holds up four fingers, closes them, holds up six. Maren's watering count. Then he taps the mast twice, pauses, taps twice again.
+
+He has not been found. He has been waiting to be read.
 
 "Environmental vibration?" Eli asks.
 
@@ -2759,6 +2766,11 @@ Then Wren shoots the lock.
 The door opens on smoke, suppressant, and a man Eli has spent half his life remembering at the wrong age.
 
 "Babu," Rasel says.
+
+Eli did not confirm this by recognition. He confirmed it by cross-referencing Hassan's ring inscription against Maren's Rootbook index, Wren's archival extraction from the comparative field journal, the conservator's partial palm print against the Mandate intake photograph, and Suresh's Pelangi workshop alloy sample against the ring's material composition. The Charkha plant was eliminated when the ring's inscription did not match the Rootbook entry under Wren's archival method. Three independent strands converged on one name, one face, one man standing on the other side of glass that was not designed to hold a reunion.
+
+The proof does not end with Eli. The distributed network that brought him here—Hassan carrying the ring, Sora corrupting the border reading, Malai indexing Maren's journal, Rasel sabotaging the coupling apparatus from inside—operated without a center, without a commander, without a document that names the whole operation. The evidence exists in fragments that only make sense when cross-referenced: a ring, a palm print, an alloy sample, a water count. No single piece names the network. No single person controls it. This is the first proof that a hidden social system can survive institutional capture without leaving a smoking-gun document.
+
 
 Eli hits him hard enough to hurt them both.
 
