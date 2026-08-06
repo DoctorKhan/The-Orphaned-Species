@@ -2975,6 +2975,11 @@ Eli waters the tomato from a bottle before they leave—too little this time, le
 
 "West," Rasel answers.
 
+He thinks back to the skiff—pull, release, pull, release—forcing the patched
+sail to swallow whatever wind was left. Not the win. The lane. He did not
+outrun the storm. He outplaced it. That is the only skill he has brought this
+far, and it is the only one he will need west.
+
 The surviving tomato holds to its borrowed stake.
 
 ---

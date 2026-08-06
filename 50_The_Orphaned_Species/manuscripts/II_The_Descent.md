@@ -2957,7 +2957,25 @@ Somchai comes in carrying a tray of unused medications from bay three.
 
 "Also good."
 
-Eli has the transfer file in his hand from the clinic search — Hassan's movement log, timestamps, site codes. He has been reading it while Somchai argued with the pharmacist. The others are looking at the depot as a building. Eli has been looking at it as a system, the way he looked at the freight corridors in Pelangi for three months: where the cameras blind, where the handoff gaps are, where the system trusts an exit more than an entry.
+Before Eli can start on the depot timing, Wren holds up a hand. She has been
+looking at the medication tray, not the route.
+
+"Three of these are expired," she says. "The lot numbers match the batch the
+pharmacy recalled last month."
+
+Somchai checks the tray without surprise. "I was told the replacement arrived."
+
+"It did. The shelves here weren't updated."
+
+He does not argue. He marks the three vials with a red pen from his pocket and
+puts them in a separate tray. No speech. No correction. The team is already
+moving; this is caught without breaking stride.
+
+Eli starts on the depot timing. Wren is already two steps ahead of him on the
+medication recall.
+
+The compact does not work because Eli is the one who sees everything. It works
+because Wren sees what Eli misses, and she does not make him thank her for it.
 
 "Wait," he says. "There's a window between shift change and decontamination. The system clears the outgoing team's return credentials before it loads the incoming team's checks. We have ninety seconds where the gate is green for anybody carrying a medical transponder that was just cleared out."
 
@@ -3659,6 +3677,11 @@ He thinks of Aylin's body stopping the interview before her mouth did.
 
 Consent is not only the word that grants access. It is attention paid before
 wanting turns another person into an answer.
+
+The Mandate is not one door. It is a cage built of doors — each one opening
+onto a smaller room than the last. Wren knows this because she has spent six
+weeks mapping it from the inside. She has not told Eli yet. She is waiting for
+the moment when he asks instead of assumes.
 
 "I'm sorry."
 
@@ -6160,6 +6183,11 @@ reach by field does not get the field.
 
 The scene ends with him back at triage supplies in the service yard, restocking
 gauze with hands that shake once and then do not.
+
+Wren sees the clip later. She does not forward it. She writes the date in the
+objection ledger under a new heading: **REFUSAL AS GOVERNANCE**.
+
+She does not yet know that the heading will outlast the man who refused.
 
 Lean. Structural. The crown of the body declined. Flowers wait for another book.
 

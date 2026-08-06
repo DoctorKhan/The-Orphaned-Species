@@ -2917,6 +2917,8 @@ One rises. One does not.
 
 The refusal becomes another sign.
 
+Eli feels it in his palms — not the flare of Malacca or Sanxingdui, but something quieter, more structural. He is not standing at the center of a room. He is standing inside three rooms at once, nested like the circles he saw under the water in Malaysia. The inner ring: the two men kneeling because their bodies remember a debt before their minds can name it. The middle ring: Wren beside him, the renewed bond that survived distance without declaring its shape, the tether that does not claim him. The outer ring: the compact itself — the door the room built and locked together, the system that will vote on whether to open it. He is not the key. He is the person who asked the door to open.
+
 ---
 
 The first Extra witness gives only his name.

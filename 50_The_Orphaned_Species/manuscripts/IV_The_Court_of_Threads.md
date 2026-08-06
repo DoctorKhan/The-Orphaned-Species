@@ -92,6 +92,8 @@ Women remain everywhere in the work.
 
 Leilani controls the airspace.
 
+Birds pass through it in the same way routes pass through border posts — flocking, then separating, then rejoining without ever asking permission from the ground. The settlement's airspace policy is simple: anything with wings that does not carry a weapon gets a corridor. The corridor has no walls. It has only the habit of not colliding, which the birds taught before the first ground station opened.
+
 Local electricians maintain the barrier.
 
 Weaver houses verify arrivals.
@@ -458,6 +460,8 @@ Route cartels benefit from every day no public allocation calendar can be truste
 
 The vote passes.
 
+Eli watches it happen and feels the whole structure lay itself out in front of him the way the Three Circles did under the water in Malaysia. The inner ring — Rowan beside him, her body steady, the child already moving inside her, the personal cost of every person in this room. The middle ring — Wren at the verification desk, the renewed bond between them that does not need a name, the tether that held through seven months without either of them asking it to perform. The outer ring — the compact itself, the door the room built and locked, the system that just voted to remain open instead of closing around one man. He did not fight the Cage. He helped the people inside it build a door large enough that no one had to be king to keep it shut.
+
 Eli does not cast one.
 
 Wren finds him before the result is read aloud.
@@ -814,6 +818,42 @@ Asha watches by screen.
 "It doesn't feel good."
 
 "That is not a constitutional defect."
+
+---
+
+Two weeks later, House Ilyara sends a custody request for the original objection
+ledger.
+
+The request cites a clause in the review-body agreement that allows a Weaver
+house to assume temporary physical custody when the rotating holder is under
+"operational duress." Wren has been awake for twenty-one hours. The north
+harbor credential channel is dirty. A Sol-linked cell has just claimed
+responsibility for a clinic diversion that did not happen. Wren's desk holds
+three versions of the same routing form, each signed by a different authority.
+
+"Operational duress," Wren says.
+
+She reads the clause. It is real. It was written into the agreement by Wren
+herself as a safeguard against exactly the kind of centralized seizure the
+original compact allowed.
+
+"Clever," she says.
+
+She does not contest the request. She sends House Ilyara a copy of the ledger
+encrypted under a key the house already holds, plus a second copy held by a
+cloister chapter whose witness authority predates the compact. The original
+remains in the rotating-custody safe.
+
+House Ilyara's request was not wrong. It was early.
+
+Wren writes a note to the review body asking for a fourteen-day window before
+the clause can be invoked again. The note passes by two votes.
+
+Asha watches from the hospital bed.
+
+"You built a door and left it unlocked," she says.
+
+"I built a door," Wren says. "Now I'm learning who walks through it."
 
 ---
 
@@ -4529,15 +4569,55 @@ transfer and which fuel account pays for the detour.
 
 Eli remains beside Rowan's hospital bed. Nobody requests his confirmation.
 
-The rotating council completes the six-hour test.
+Half an hour later, the same landslide blocks the road carrying replacement
+parts for the east-grid water pump. The harbor has no boat small enough to
+carry the parts. The mountain council that refused the escort cannot clear the
+slide alone. The rotating council votes to reroute the boat through the south
+channel, but the south channel has not been cleared of drift since the coup.
 
-A disputed fuel convoy waited twenty minutes longer than it would have under
-him.
+The council cannot agree on clearance priority. The vote splits three-two. The
+minority refuses to recognize the result. The water pump runs dry for six hours
+before a repair crew from the north harbor arrives with a portable bypass.
 
-The convoy proceeded.
+Eli is not in the room.
 
-Commissioner Ma accepted a ceasefire correction from the council without
-requesting Eli's confirmation.
+Commissioner Ma calls him.
+
+"Not my council," Eli says.
+
+"This is the channel we agreed," Ma says.
+
+"Then the channel is working."
+
+"It isn't."
+
+"Then the compact is learning."
+
+Eli does not go. The repair crew fixes the pump. The council schedules a
+second test for the following week.
+
+The second test fails differently.
+
+A clinic in the west settlement reports a sterilization supply shortage. The
+rotating council authorizes a transfer from the central reserve. The central
+reserve has been depleted by three jurisdictions that did not report their
+drawdown during the emergency. The authorization arrives three hours too late.
+
+Eli receives the report at Rowan's bedside. He reads it. He calls the central
+reserve custodian — a Weaver named Celan who was appointed by the old system
+and retained because nobody else knew the inventory codes.
+
+"Release the reserve without authorization," Eli says.
+
+"That violates the transfer agreement."
+
+"The agreement assumed accurate reporting."
+
+Celan releases the reserve.
+
+The west clinic receives the supplies. The council schedules a review of
+reporting compliance. Eli does not attend. He sits beside Rowan's bed while the
+council fixes what he would have fixed faster and with less legitimacy.
 
 The world continued while the ruler sat beside a hospital bed.
 
@@ -4602,6 +4682,94 @@ No vessel disappears.
 No cosmic voice explains the result.
 
 Rasel writes Park's name on every release.
+
+Wren notices the gap on the thirty-second day.
+
+The west settlement has not submitted a single objection to the review body
+since the review opened. The settlement is not quiet. It is processing
+appeals — Wren can see the local route traffic — but none have reached the
+review body's intake channel.
+
+Wren sends a query. The west settlement's liaison answers that the channel is
+working and no objections require review.
+
+Wren sends a second query with an attachment: a routing complaint from a west
+settlement clinic that was filed twelve days earlier and never acknowledged.
+
+The liaison does not answer for two days. When he does, he says the complaint
+was resolved locally and therefore did not require review.
+
+"The review body is optional," he says.
+
+Wren reads the sentence twice. She knows it is wrong. The review body is not
+optional for any jurisdiction that accepted the compact attestation. The west
+settlement signed.
+
+She does not call Eli. She does not call Amina. She calls the west settlement's
+route officer — a woman named Lira who once filed an objection against her own
+household's routing preference and lost the appeal.
+
+"Your channel is not working," Wren says.
+
+"It is."
+
+"Then your objections are not reaching it."
+
+Lira is quiet for a long time.
+
+"The complaints are not going forward because the household decided they would
+not be heard fairly by the review body," she says.
+
+"Who decided?"
+
+"The council."
+
+"Which council?"
+
+"The one we elected after the coup. The one that thinks the review body is a
+Weaver trick."
+
+Wren considers.
+
+"You have a right to appeal the composition of the review body," she says.
+
+"We do not have the time."
+
+"Then you have a right to file objections anyway. The review body can only
+reject them on procedural grounds. It cannot refuse to receive them."
+
+"It will not change the outcome."
+
+"Then why are you afraid to let it try?"
+
+Lira does not answer.
+
+Wren sends three couriers with intake forms and blank attestation sheets. The
+couriers arrive with repair credentials, clinic supplies, and a work-song from
+the north harbor crew. The west settlement council tries to turn them back at
+the boundary. The repair crew sets up a table under the escort route marker and
+begins accepting objections while the council watches.
+
+By evening, fourteen objections are in the channel. The review body receives
+them within the hour. The west settlement council files a protest. The review
+body answers that protest is itself an objection and is therefore within
+jurisdiction.
+
+The compact does not heal the west settlement's distrust. It simply proves
+that the distrust cannot be resolved by silence.
+
+Wren writes Lira's name in the ledger as the person who closed the six-week
+gap without Eli's involvement.
+
+She does not tell Eli until the vote is scheduled.
+
+He reads the entry and does not speak.
+
+"It worked," he says.
+
+"It worked because she let it."
+
+He nods. He knows the difference.
 
 The final assembly vote is scheduled for the week Rowan reaches thirty-eight
 weeks.
@@ -5228,7 +5396,89 @@ The first vote ties.
 
 ---
 
+House Nacre's technical counsel raises a certification objection during the
+recess.
+
+The objection cites a clause in the transfer agreement that requires each
+regional seat to have a verified delegate record with at least thirty days of
+continuous field contact before the final assembly vote. The northernmost seat
+has twenty-eight.
+
+The thirty-day rule was written into the agreement by Eli's office six months
+earlier as a safeguard against rushed certification during an emergency. He
+does not remember drafting it. Wren does.
+
+"We can waive the continuity requirement," Amina says.
+
+"Not without invalidating the rule that makes the rest certifiable," Wren
+answers.
+
+The northern certification team has been operating under fire for two weeks.
+Their delegate was wounded during a supply-route dispute. The substitute has
+twenty-eight days of verified field contact. The thirtieth day falls three days
+after the scheduled vote.
+
+Novak's coalition moves to delay the vote until the full thirty days are
+complete.
+
+"We cannot hold the council hostage to a calendar," Eli says.
+
+"The calendar was your suggestion," Novak says.
+
+He looks at Wren.
+
+"I know."
+
+The delay forces the court to run the succession vote and the birth on a
+collision course. Rowan reaches thirty-eight weeks during the three-day delay.
+Practice contractions become regular. Mina tells her the birth window has
+opened.
+
+Eli stands in the corridor outside the assembly while the vote is delayed and
+the birth window opens and Rowan is writing new terms for the clinic route
+because she cannot stop working. He does not call a healer. He does not call
+his security detail. He stands with his hands at his sides and waits for the
+room to decide whether the compact can be postponed for a child who has not
+yet arrived.
+
+He is not afraid. He is practicing the Untying at every scale at once: the inner ring — his own body, which has no authority over Rowan's labor and would not use it if it did. The middle ring — the bond to the woman who taught him what consent looks like in ordinary minutes, not only in crisis. The outer ring — the government that has outgrown him, the room that does not need his command to do what it was built to do. What he learned in the paddy fields and under the culvert wall at Sanxingdui holds here the way it held at the wat: stop trying to be the center. Let the system answer. The birth will happen with or without his instruction. The vote will pass with or without his voice. He is not the Untying. He is the person who stopped tightening the knot.
+
+The northern team submits the final attestation on the second day. The third
+day is consumed by objections. The vote is retaken at midnight.
+
+It passes by one seat.
+
+The delay does not weaken the transfer. It proves the rule works even when it
+is inconvenient to the person who wrote it.
+
+Wren writes the certification timestamp in the objection ledger.
+
+She underlines the date twice.
+
+In Book II, Somchai refused a crowd that had come to be healed. He told them
+he could not give them what they wanted, and he told them why, and he stood in
+the doorway until they chose to leave or stay without him. The refusal did not
+endear him. It made him the medic who would not pretend.
+
+This vote is the same refusal at institutional scale. The court is not giving
+the crowd what it came for—a single ruler, a named heir, a clean succession.
+It is telling the crowd why it cannot have those things and waiting to see
+whether the crowd chooses to stay or leave without them.
+
+The analogy would be easier to make if Somchai were here to hear it.
+
+He is not. His refusal lives in the ledger instead, in the clause Wren
+defended, in the thirty-day rule that delayed the vote and proved itself.
+
+The compact survives by refusing to perform what people came to collect.
+
+---
+
 Outside, the praetorian commanders demand Eli's personal instruction.
+
+Five chapters encamped outside the perimeter send a joint request for
+continuity command under the old oath. The request arrives with a deadline:
+Eli answers before dawn or the chapters assume the defense grid is uncommanded.
 
 Constitutional cloister crews hold communications access but refuse to fire on
 men they trained beside.
@@ -5286,6 +5536,27 @@ The armories remain closed.
 No civil war resolves in one speech.
 
 Enough armed people choose the compact for the assembly to continue.
+
+The workaround arrives from a direction nobody on either side expected.
+
+A repair crew from the north harbor — the same crew that bypassed the dry water
+pump two weeks earlier — shows up at the perimeter with a portable grid
+monitor, a crate of filter housings, and a work-song they learned from children
+who ran the short course in the brace yard. They do not carry weapons. They
+carry the repair record of every settlement on the route.
+
+The praetorian commanders watch them through the fence.
+
+"What are they doing?" one commander asks.
+
+"Governing," Malik says.
+
+The repair crew sets up the monitor and begins routing power through the
+civilian network. The grid comes back under the compact without a single shot.
+The commanders who rejected the oath stand down because their own supply
+channels now depend on the same network.
+
+The compact does not win the praetorian chapters. It outlives them.
 
 ---
 
@@ -5457,6 +5728,49 @@ He stays.
 
 ---
 
+Eli has not slept in eleven days.
+
+His hand shakes. He has refused to call a healer. He has refused to let
+anyone else make the succession decision. He has refused to claim the birth as
+continuity proof. He has refused to name a successor. He has refused to stay
+after the vote and he has refused to leave before it.
+
+He stands in the corridor outside the assembly with his hands at his sides and
+thinks back to the strait.
+
+Not the breach itself. The morning after.
+
+He and Kiran in the skiff, the patched sail swallowing whatever wind was left,
+the wall-shadow lane he chose because he could not outrun the storm but he could
+outplace it. His father's hands teaching him to feel the cloth before he saw
+the air. His mother's voice making the lesson habit and not rhyme. The open
+water still out there, glittering, indifferent, his for that one lane and no
+longer.
+
+He had thought then that the win was the point.
+
+He knows now that the lane was.
+
+The compact is not a victory. It is a lane chosen under pressure in a channel
+that has not stopped shifting. It requires the same thing the skiff required:
+feel the air before you see it. Keep the wall on one side and the open water on
+the other. Do not look at the buoy yet—look at the water and the air. Break
+focus now and you break speed.
+
+The assembly votes.
+
+The result is announced.
+
+The court stops belonging to him at 16:43.
+
+Rowan's next contraction begins.
+
+Eli puts down the slate.
+
+He stays.
+
+---
+
 The child is born at 17:06.
 
 One last push, then a pressure Rowan thought would never end releases into
@@ -5517,6 +5831,41 @@ The praetorian chapters do not vanish.
 The new council's first fuel decision is delayed by argument.
 
 Government without Eli begins imperfectly before the placenta is delivered.
+
+The court does not publish a retrospective. The feed does not declare a new
+era. The child receives no title. The compact continues because it was built
+to continue, not because it has been proven.
+
+Eli sits in the corridor and does not sleep.
+
+He thinks back to the strait.
+
+Not the breach itself. The morning after. The skiff with the patched sail, the
+wall-shadow lane he chose because he could not outrun the storm but he could
+outplace it. His father's hands teaching him to feel the cloth before he saw
+the air. His mother's voice making the lesson habit and not rhyme. The open
+water still out there, glittering, indifferent, his for that one lane and no
+longer.
+
+He had thought then that the win was the point.
+
+He knows now that the lane was.
+
+The compact is not a victory. It is a lane chosen under pressure in a channel
+that has not stopped shifting. It requires the same thing the skiff required:
+feel the air before you see it. Keep the wall on one side and the open water on
+the other. Do not look at the buoy yet—look at the water and the air. Break
+focus now and you break speed.
+
+He has handed the slate to the council. The council has taken it. The child is
+born. The objection ledger is open. The repair crew is routing power through the
+civilian network. The west settlement is filing objections again. The yard has
+three names and a work-song.
+
+The breach is closed. The descent is over. The living world continues without
+him.
+
+The lane holds.
 
 ---
 
@@ -5796,3 +6145,20 @@ becomes home and completion becomes silence. Eli knows the door. He does not
 open it.
 
 Nobody comments on the birds.
+
+Morning reaches the insects. The swifts leave the ledge the way they arrived:
+without leader, without signal, without asking permission from the man who
+turned off the water.
+
+Eli stands in the cold and feels the air before he sees it.
+
+The garden is not the strait. The hose is not the tiller. The roots are not
+the open water.
+
+The same discipline applies.
+
+Feel it before you see it.
+
+The lane holds.
+
+---
