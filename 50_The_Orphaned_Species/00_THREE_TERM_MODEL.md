@@ -51,7 +51,34 @@ This is why the **Eagle–Condor compact** belongs in Book III. It is not a trea
 - multiple households, clinics, ports, and repair crews aligning on a shared route
 - the compact appearing as conduct, not as a document
 
-The bird tribes are not a metaphor. They are what the novels are building toward: people who have unlearned T1a as fixed command and T1b as binding tether, and who now move together by attention — the way birds do at sunset, when the old route no longer fits and the new shape is found in the air between them.
+**Conditions for emergence (LOCKED 2026-08-05):**
+
+Bird-tribe dynamics are not magic. They require all of the following to be true simultaneously:
+
+1. **T1a gap.** The cultural program must not be actively suppressing emergent coordination. Works when authority is absent, overwhelmed, or delayed. Fails when the registry, spectacle, or control system treats unsupervised crowd movement as threat and can deploy counter-measures before the pattern stabilizes.
+
+2. **T1b substrate.** Participants must have some prior capacity for trust and thread — built through shared habit, common identity, or prior relationship. Works in groups that already carry relational infrastructure (harbor Thread, clinic cooperative, fishing cohort). Fails with atomized strangers who default to panic or waiting for a commander.
+
+3. **T2 seed.** At least one person must notice the autopilot and model a different response visible enough to be copied. Eli in the harbor, Wren at intake, Somchai in the clinic — their function is not leadership but demonstration. Without a seed, the crowd defaults to T1a script.
+
+4. **Scale boundary.** The pattern is bounded by signal fidelity: roughly 40–150 people with reliable signal. Beyond that, nested structure is required — flocks within flocks, crews within ports. The Eagle–Condor compact works because it is two bounded flocks negotiating shared airspace, not a continent flying as one organism.
+
+5. **Stress calibration.** Moderate pressure invites coordination; existential threat collapses it back into command. Works under manageable stress that makes the old formation visible as insufficient without triggering fight/flight/freeze. Fails under direct physical threat where people want a commander.
+
+6. **Time to stabilize.** Emergent coordination takes minutes to hours to settle. If a control system intervenes with an explicit commander or spectacle event before the pattern stabilizes, the crowd defaults to the provided authority.
+
+**Failure modes (LOCKED 2026-08-05):**
+
+- **Capture by spectacle.** The engine absorbs the emergent pattern and credits itself: "look how well the crowd coordinates under our guidance." The actual coordination gets attributed to the authority that arrived late.
+- **Free-rider capture.** Someone exploits the coordination for private gain — redirecting redistributed resources, using the pattern to serve a hidden agenda.
+- **Scale collapse.** At nation or civilization scale, pure emergence is too slow and fragile. Upper levels need bounded, revocable, consent-bound structure — not permanent authority.
+- **Internal fragmentation.** Without ongoing T2 practice, the flock reverts to old formation when the seeding practitioners are removed or captured.
+
+**What the novels show:**
+
+Bird-tribe dynamics are not utopian. They are demonstrations of a specific social technology under specific conditions. The Eagle–Condor compact is the strongest test: two communities, different navigational habits, sharing airspace without merging. It works because all six conditions hold — and because the compact is designed to expire, be revised, and be revoked.
+
+The engine cannot produce bird-tribe dynamics. It has no vocabulary for emergence. It sees only the absence of command and calls it chaos. The practitioner sees the pattern and calls it practice.
 
 ---
 

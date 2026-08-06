@@ -2957,37 +2957,15 @@ Somchai comes in carrying a tray of unused medications from bay three.
 
 "Also good."
 
-"We need the ambulance."
+Eli has the transfer file in his hand from the clinic search — Hassan's movement log, timestamps, site codes. He has been reading it while Somchai argued with the pharmacist. The others are looking at the depot as a building. Eli has been looking at it as a system, the way he looked at the freight corridors in Pelangi for three months: where the cameras blind, where the handoff gaps are, where the system trusts an exit more than an entry.
 
-"No."
+"Wait," he says. "There's a window between shift change and decontamination. The system clears the outgoing team's return credentials before it loads the incoming team's checks. We have ninety seconds where the gate is green for anybody carrying a medical transponder that was just cleared out."
 
-"You haven't heard the plan."
+Somchai looks at him. "Where did you learn that?"
 
-"The plan uses the ambulance."
+"Pelangi. I watched them load and unload the same corridor. The Mandate trusts the exit more than the entry. It's faster to believe somebody already left than to verify somebody just arrived."
 
-"To enter a medical holding site."
-
-"This ambulance carries three patients to a surgeon before dawn."
-
-"There are other vehicles."
-
-"Take one."
-
-Sora says, "The medical transponder is what opens the decontamination gate."
-
-Somchai looks at her. "Then find another medical transponder."
-
-"Registered to whom?"
-
-"Not my patients."
-
-Wren folds the inventory sheet.
-
-"Can the clinic travel without its exterior identity?"
-
-"No."
-
-"Then we don't take it."
+Rasel studies the transfer file, then Eli's face. "He's right."
 
 Eli hears the route close.
 
@@ -4760,9 +4738,15 @@ Hassan listens.
 
 Wren hums the notes under her breath.
 
-The third tone does not resolve.
+Eli is looking at the sketch in his pocket — the one Hassan drew from memory in the transit pen, three marks spaced the same interval as the pump alarm, Callum's mark on the drainage sketch, the tablet's three rings with a center point. Each site is not a separate thing. Each site is the same diagram written into stone at a different scale.
 
-It leans west.
+Pömmelte: three concentric rings.
+Rollright: three standing stones, the same spacing as the pump alarm.
+Men-an-Tol: three uprights with a piercing at the center.
+
+He has been carrying Rasel's diagram for weeks without reading it as a map. The sites are the instrument Hassan described. Not three separate places. One thing, repeated.
+
+He does not say this aloud. He does not need to. Wren turns from the stones and meets his eye before he speaks, the way she does when his hands have given him away.
 
 "Men-an-Tol," says the local keeper.
 
