@@ -2733,7 +2733,7 @@ The pressure in Eli changes from a ring into weather.
 
 He feels the shelterbelt roots in rain, fungi along buried wood, bodies running without one stride, the Yazi River beyond the park carrying ten thousand unrelated movements through the same basin. No voice. No master picture. Relationship everywhere, complete nowhere.
 
-The Tree of Life was never one tree.
+The Tree of Life was never one tree. The Tree of Knowledge was never a rival to it. They are mutual checks: the Tree of Knowledge names what is known; the Tree of Life names what is still alive to answer. One without the other becomes either scripture or rootlessness. Together they are the mesh that Eli's talent has been reading without naming.
 
 It is the living world connected to itself.
 
