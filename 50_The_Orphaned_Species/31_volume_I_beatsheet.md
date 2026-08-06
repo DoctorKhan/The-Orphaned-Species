@@ -163,11 +163,69 @@
 
 ---
 
-## SCENE BANK — Malacca / Meridian City beats (mine into Ch 2–4; NOT current order)
+---
 
-*Detailed beats retained from the earlier draft. This is a **bank, not a spine**: pull the witness and breach material into current Ch 2, the aftermath/grounding material into Ch 3, and the Wren departure material into Ch 4. Do not restore the bank's old sequence. Some beats (e.g. the polarity-data archive) have no fixed home yet. Current-order chapters resume at Ch 5 below the bank.*
+### Ch 3 — What Didn't Die *(Eli · Malacca grounding / maritime departure)*
+- **Deep-time residue — LOCKED 2026-08-05:** (1) Three Circles tablet as plain clay with available wrong readings (hierarchy / map / astronomy / target) before Body/Family/Civilization; (2) kelong hospitality as practice older than registries—cup-count, lime divided, mangrove flowers taken by tide without ceremony; (3) Rootbook *Name* forked page as unfinished older inquiry, not destiny key. Wrong reading: tablet = rank seal; hospitality = Weaver conspiracy; *Name* = map home. Cost: Salmah's boat; choosing open pursuit over going dark.
+- **Delivery — LOCKED 2026-08-05:** What cultural program operates?
+  ( Custodian classification; registry logic; breach-as-contagion label). What
+  family/individual program operates? (Eli's earned-safety autopilot;
+  Wren's placement-as-care; Salmah's ordinary generosity). What pressure
+  exceeds the program's vocabulary? (breath already practiced; food, sleep,
+  Salmah's practical care; Wren's body-before-story attention). What practice
+  emerges—or fails to emerge—in the gap? (grounding comes from ordinary
+  practice, not institutional care; hearth suspended, not restored; trust
+  earned without debt).
+- **Want:** recover enough to move without being classified.
+- **Attachment:** Salmah as ordinary rescuer; Wren's bounded help; Babaji's
+  fallback contacts.
+- **Choice → Cost:** Eli chooses open pursuit over going dark. Cost: Salmah's
+  boat seized; her market access suspended; Eli transfers danger into an
+  ordinary worker's life.
+- **Revelation:** the human web saves him before the breach—Rasel's ring,
+  Maren's engraving, the body-register proving the hunt is more than legal.
+  The receiver opens; both teams converge.
+- **Romance cost:** Eli fears receiving help creates a debt that will decide
+  his future; Wren fears correct placement can still produce harm. Their first
+  shared-future fantasy fails because neither can return safely to the life
+  imagined.
+- **End hook:** Wren departs at document lanes. Eli is alone after.
 
-### [bank] The Reopening — Malacca witness contact *(→ current Ch 2)*
+---
+
+### Ch 4 — Babaji's Fallback *(Eli · Malacca departure → northbound)*
+- **Deep-time residue — LOCKED 2026-08-05:** harbor network as practice older
+  than registries; the worker route as civic infrastructure invisible to
+  authority.
+- **Delivery — LOCKED 2026-08-05:** What cultural program operates?
+  (Custodian containment; pursuit clock; Extra lane as managed disposal). What
+  family/individual program operates? (Eli's grief-as-identity hazard;
+  Wren's displacement-as-cost; Salmah's ordinary courage). What pressure
+  exceeds the program's vocabulary? (harbor Thread recognizing Eli's speech;
+  cleaner, cook, dock mechanic each supplying the next correction; worker
+  network opening a partial route). What practice emerges—or fails to
+  emerge—in the gap? (communal chant in Cube alcove; recognition without
+  command; the route that works because several bounded people each supply
+  one correction).
+- **Want:** reach the northbound vessel without being flagged or followed.
+- **Attachment:** harbor Thread; Cherry Cube wardrobe corridor; Suresh;
+  construction worker at Cherry Lane gate.
+- **Choice → Cost:** the worker at Cherry Lane gate opens the gate and risks
+  losing his badge and wages. The route works only because a cleaner, cook,
+  and dock mechanic each supply the next correction. Cost: helpers exposed;
+  Eli's signature lit across the grid.
+- **Revelation:** the crowd redistributes without a commander—worker network,
+  not extraction team. Wren uses the crowd and wardrobe corridor without
+  treating fans as shields.
+- **Romance cost:** field-recognition without consent—a flash of *known
+  stranger* in the choke/dark. Neither can act on it. Plants "is this fed?"
+  for Ch 5—not soulmate confirmation.
+- **End hook:** Wren at convoy edge, does not acknowledge. Eli aboard
+  northbound vessel. Receiver open. Both teams converging.
+
+---
+
+## ACT II — The Unstable Sea *(current-order chapters resume here)*
 - **Want:** make the witness contact.
 - **Attachment:** Malacca alive and improvised — working people, not heritage scenery; small kindnesses to a stranger far from home.
 - **Obstacle:** documents and jurisdictions disagree; the handoff keeps slipping;
@@ -321,19 +379,14 @@
 - **Delivery — LOCKED 2026-07-31:** antagonist job = Anika's clean-scan clock; chemistry = road logistics / irritation with Wren/Dara without thesis; wonder deferred to Ch 12 tree — keep hunger for Rasel and fear for papers audible.
 - **Route — integrated 2026-07-29:** Laos freight crossing suspends under the same rising emergency that will empty Sanxingdui civilians; group detours Vietnam monsoon roads where old clearance maps lie and floodwater moves ordnance; Sora soft-helps at a highland post; Dara's permit dies; Sichuan arrives late. Dual clocks: Rasel move vs Wren/Dara civilian cost.
 - **Immediate want:** reach Rasel before the Mandate moves him; resist the four-day road home to Bangladesh.
-- **Opposing wants:** Anika wants clean voluntary intake; Dara wants to preserve
-  her family freight permit; Wren refuses to decide for Eli; Eli wants the fastest
-  evidentiary route.
-- **Wren's route competence:** Malay-Chinese, with Mandarin among her home
-  languages, Wren reads the public characters, transport bureaucracy, and family
-  etiquette well enough to reach Luo without pretending to know Ancient Shu history.
-  Her family taught cultural conduct, not specialist detail. She opens a respectful
-  door; Chinese scholars and conservators retain interpretive authority.
+- **Opposing wants:** Anika wants clean voluntary intake; Dara wants to preserve her family freight permit; Wren refuses to decide for Eli; Eli wants the fastest evidentiary route.
+- **Wren's route competence:** Malay-Chinese, with Mandarin among her home languages, Wren reads the public characters, transport bureaucracy, and family etiquette well enough to reach Luo without pretending to know Ancient Shu history. Her family taught cultural conduct, not specialist detail. She opens a respectful door; Chinese scholars and conservators retain interpretive authority.
 - **Clock:** north freight list closes; Anika's protected line is faster; Rasel's current clip may be the last.
 - **Choice → cost:** Eli refuses the biometric protected route after seeing genuine proof that Rasel lives. Sora covertly corrupts a border reading; Dara's cross-border license is suspended.
 - **Revelation:** Anika tells the truth and is therefore more dangerous; Rasel is sabotaging forced convergence at a Guanghan program.
 - **Changed exit:** Professor Luo accepts them only after verifying Malai's permission and says Rasel bought time through her institution's stolen data.
-- **Romance cost:** Eli invokes “told first”; Wren discloses the Penang household cost without asking to be forgiven.
+- **Romance cost:** Eli invokes "told first"; Wren discloses the Penang household cost without asking to be forgiven.
+- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (border forms / suspended crossings as bureaucratic fossils of claiming; Anika's biometric "protected line" as managed access; living freight/human doors vs institutional shortcut). What family/individual program operates? (Eli's earned-safety autopilot; Wren's placement-as-care; Dara's family freight as personal standing). What pressure exceeds the program's vocabulary? (Vietnam monsoon roads hiding ordnance; floodwater shifting buried clearance lines; the detour as deliberate refusal of the Mandate's managed access). What practice emerges—or fails to emerge—in the gap? (living route through unmanaged terrain; human doors instead of institutional shortcuts; Dara's permit death as cost of refusal).
 
 ### Ch 12 — The Tree with No Top *(Eli · Sanxingdui Museum / conservation program)*
 - **Deep-time residue / ancient face payoff — LOCKED 2026-07-30:** Bronze Sacred Tree = Book I ancient face staged as wonder first (Shu art), then mesh without one trunk. Greenhouse / shelterbelt living route foreshadows Ch 13. Wrong reading: missing top = broken prophecy for Eli; tree = one genealogical trunk; conservation = mere museum. Cost: language-tree model fails; family answer does not arrive as possession.
@@ -349,6 +402,7 @@
 - **Changed exit:** a live camera gap shows Rasel using Eli's breath count; two
   escape paths emerge: documented service passage and living drainage/shelterbelt
   route.
+- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (conservation-as-control; Mandate invented virtual top; demand that the object answer Eli's family question). What family/individual program operates? (Eli's competence-as-worth; hunger for a family answer that confirms his identity; Wren's civilian-first boundary). What pressure exceeds the program's vocabulary? (the tree as mesh, not trunk; objects that owe no response; Manual Override not as private power). What practice emerges—or fails to emerge—in the gap? (accepting correspondence without descent; conservation as civic act, not extraction; the tree revealing its own incompleteness).
 
 ### Ch 13 — The Living Route *(Eli · conservation campus / Mandate annex / greenhouse aftermath)*
 - **Deep-time residue / ancient face close — LOCKED 2026-07-30:** living drainage/shelterbelt + greenhouse tomatoes as distributed Tree enacted; multiple mismatched cadences defeat one master rhythm; neglected tomato tied to lab cuff = Living over Knowledge apparatus. Wrong reading: Manual Override = Eli's private power; reunion = restoration. Cost: Wren's standing burned; Qiao's clearance; father-son collision incomplete.
@@ -395,40 +449,7 @@ The tepes are not a tour of interchangeable stone circles. They are a distribute
 
 The on-page sequence therefore moves from **how people survive together** (Çakmaktepe), through **how shared life becomes ritual** (Nevalı Çori), to **how the body learns resonance** (Karahan), and finally to **the unresolved scar of contact becoming selection and command** (Göbekli). Eli encounters the pieces but does not yet possess the family or civilizational interpretation. Göbekli is the visual and moral climax: the buried enclosures, rising pillars, rival teams, and failing route make the choice between the complete record and living people physically overwhelming. Its revelation remains deliberately incomplete; family/loss, the engine/exhaust synthesis, panspermia, dragons, and the full Heaven/Earth design stay for later books.
 
-### Ch 11 — The Gulf Corridor *(Eli · ensemble · maritime → Mesopotamia approach)*
-- **Parade Liturgy drip:** Gulf archive curator after narrowing genealogies—F7
-  beside Eli's over-connected reading.
-- **Want:** keep the western fragment alive before rivals close the corridor.
-- **Obstacle:** contested ports, registry checkpoints, Hassan-transfer rumor, competing teams on the same clock (`99` #7 deadline).
-- **Choice → Cost:** Eli accepts slower human routes over a clean institutional shortcut. Cost: time; exposure.
-- **Bangladesh off-page:** Shireen texts during Bay of Bengal / Andaman departure — garden photo, practical fear, *four days is a photograph at the bazaar*; Eli maps the distance, closes the chart, routes west through human port doors. No feast, no village.
-- **Note:** Thailand grounding and agricultural witness belong in Ch 5–10, not here. Do not repeat the stilt-house/temple hinge in this chapter.
-- **Forward clue:** **Göbekli permit window** — sealed sector closes on a hard date.
-
-### Ch 12 — The Old Wound at Ground *(Eli · Mesopotamian charged ground · Adapa-weight)*
-- **Want:** read the ground without becoming its priest.
-- **Obstacle:** Adapa/Qingu watched-depth (`30`); patriarchy at household scale; plaquette grammar disputed.
-- **Chronology — LOCKED 2026-07-26:** keep three layers distinct on-page — **Adapa** boat-day **~5500–4000 BCE**; **Adam/Eden III** **~3700 BCE** (if named); **4.2 ka** climate witness **~2200 BCE**. Do not collapse (`35` § *Chronology lock — Adapa ≠ Adam ≠ 4.2 ka*).
-- **Mesopotamian Human-Design Triad — LOCKED 2026-07-25; street names 2026-07-26:** archive haul yields **one packet, three texts** — **The Refusal** (primary read), **The Sorting**, **The Fade** (`35` § *Mesopotamian Human-Design Triad*). Eli acts on the Refusal; Sorting + Fade seed forward. Maren margin or dissident copy may cross-link all three. Scholar titles OK on labels; dialogue prefers street names.
-- **Revelation:** control order moves inward; first **stone artifact** evidence; foolable mind + mortal boundary + purposed roles **introduced** (full synthesis Vol II–III). The 5000–3000 BCE bottleneck is the early Dominion's consolidation, not yet the formal **Age of Heroes**. The named Age of Heroes follows around **3500–1200 BCE**, when Eridu–Uruk genealogies, ration/marriage records, king-list traditions, and population evidence show a few male lines expanding while many disappear. The heroic, giant, and divine-son stories preserve the winners' memory of that concentration. The trail then **commits north to Anatolia**.
-- **Past leak:** Eli over-connects a lacuna to his mother's notes; the local
-  curator corrects him.
-
-### Ch 13 — Göbekli and Loss *(Eli · ensemble action · Şanlıurfa / contested site)*
-- **Parade Liturgy drip — LOCKED 2026-07-25:** Bosporus ferry rail — F9 first line only; reader finishes the wind; **ON PAGE** (`54_litanies.md`). **Body score coda:** dock child claps once unanswered (Malacca hole / Cube anti-rhyme); Aru feast feet find a count; Daskar burial is silence without clap (`54` § *Body score*).
-- **Want:** read the buried interface before rival teams weaponize or re-seal it (`99` #7).
-- **Attachment:** civilians at dig/shrine/military margin; local research; Eshe
-  weight in the Daskar fragment.
-- **Obstacle:** competing teams converge; an institutional model and Eli's own
-  over-connection mistime the window.
-- **Choice → Cost:** Eli protects civilians and sacrifices the complete interface
-  record. No companion is captured as payment.
-- **Revelation — full-res threads:** **Aru** at fox-pillar (spiral eye, selection mark), with seasonal milling and reciprocal feasting coordinating the workforce without reducing the gathering to a modern market. The site was an interaction between cultures: local communities were offered beer, porridge, and communal feasts—welcome relief when food was scarce—in exchange for labor. They cooperated to move and erect massive stones for purposes they did not understand; at Göbekli this is a practical alliance, the **Age of Gathering**, not yet a coercive labor regime. Fragments point toward a later rupture beginning in earnest around **5000 BCE**, when exchange becomes counted ration, priestly command, and controlled work, but Book I does not give Eli the household or civilizational model that explains the change. **Daskar** at burial layer (center silent under fill), where later fixed troughs, heated-stone cereal cooking, and possible fermented mash preserve the provisioning system's earlier cooperative memory even as other sites begin to enforce it. **Male-lineage seed:** Göbekli preserves a Qingu-reserve seal and an association among inherited difference, selection, lineage, labor, and reproductive control; it does not yet prove the complete causal system. Book II's Pömmelte trail supplies the missing human population and gendered family history. Book III names how civilization scales the pattern into an engine that spends people while calling them kin.
-- **Forward clue (into Vol II):** partial geometry + living network + western gaps in Maren's damaged fieldwork point toward **Europe**. Eli does not yet know she is tethered; "Albion" is not confirmed.
-- **Romance cost:** relocate to Book II and derive it from Eli treating Wren's
-  displacement or Rowan's corridor as usable infrastructure.
-
----
+## RETIRED ACT IV — Westward Race and Göbekli *(Book II relocation quarry)*
 
 ## RETIRED — former "Volume I climax" (Göbekli; superseded by `58_sanxingdui_climax_lock.md`, quarry only)
 

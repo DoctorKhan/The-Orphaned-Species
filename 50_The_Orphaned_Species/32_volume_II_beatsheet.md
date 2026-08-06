@@ -377,7 +377,7 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 
 ## ACT I — Bodies and Crossings
 
-### Ch 1 — Bodies and Crossings *(Somchai opening → hard break → Eli · Anatolia–Europe corridor)*
+#### [RETIRED] Ch 1 — Bodies and Crossings *(Somchai opening → hard break → Eli · Anatolia–Europe corridor)*
 - **POV staging:** Somchai opens on the wounded party before Eli arrives; his scene turns when he stabilizes the person despite knowing that witnesses will expose his capacity. Hard break. Eli then governs the collision of clue chains and Wren's first field-recovery clock.
 - **Want (Somchai):** keep the wounded person alive while keeping his body and route private. **(Eli, after break):** reconstruct the damaged Vol I clue; keep moving west. **(Wren, observed by Eli):** finish the recovery without pretending her former house standing still protects anyone.
 - **Attachment:** the healer as **other practitioner** (depth vs Eli's bandwidth); Wren's still-absent prior-love history surfaces as over-management before Rowan enters on-page in Ch 5 (`26` § Rowan; `19` § formative Weaver bonds).
@@ -389,7 +389,7 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 - **M/I/A:** **M** — over-management surfaces. **I** — open objective conflict vs Eli/healer. **A** — resentment on dialogue; no warmth.
 - **Pitch gate — end hook:** 17:1 bottleneck named; Hassan transfer clock west; Somchai rumor already outrunning silence.
 
-### Ch 2 — The Westward Transfer *(Eli · Anatolia → Bosporus / Thrace corridor)*
+#### [RETIRED] Ch 2 — The Westward Transfer *(Eli · Anatolia → Bosporus / Thrace corridor)*
 - **Want:** keep the westward route alive and locate Hassan before the transfer disappears into competing jurisdictions.
 - **Attachment:** ports, ferries, refugee clinics, and households at human scale—people carrying one another through a corridor that treats them as files.
 - **Obstacle:** the Custodians and a private security contractor move Hassan through the **Bosporus–Thrace/Balkan corridor** under medical-transfer cover. Wren's route contacts can open one crossing only by burning another.
@@ -405,7 +405,7 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 
 ## ACT II — The Old Wound (personal)
 
-### Ch 3 — What They Took *(Eli · Thrace/Balkan holding site + recovered record)*
+#### [RETIRED] Ch 3 — What They Took *(Eli · Thrace/Balkan holding site + recovered record)*
 - **Want:** find his mother.
 - **Attachment:** Maren as **person**, not plot device — song, harbor chain, research (`26` Maren layer).
 - **Obstacle:** courteous Charkha suppression machinery—clipboards, van,
@@ -431,7 +431,7 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 
 ## ACT III — Europe and Loss
 
-### Ch 4 — The Healer's Kneel *(Somchai trunk → hard break → Eli for Sol approach · Anatolia / medical corridor)*
+#### [RETIRED] Ch 4 — The Healer's Kneel *(Somchai trunk → hard break → Eli for Sol approach · Anatolia / medical corridor)*
 - **POV staging:** Somchai's hard no and its bodily/social cost complete before the hard break. Sol then approaches Eli in a distinct Eli scene; the narration does not carry Somchai's thoughts across the boundary.
 - **Want (healer):** stay a body among bodies.
 - **Obstacle:** extraordinary but **medically grounded** healing draws pilgrims, media, faction recruiters — testimony travels despite *don't tell anyone*.
@@ -448,7 +448,7 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 
 ## ACT IV — The Changing Map (Europe)
 
-### Ch 5 — The Changing Map *(Wren opening → hard break → Eli · continental Europe)*
+#### [RETIRED] Ch 5 — The Changing Map *(Wren opening → hard break → Eli · continental Europe)*
 - **POV staging:** Wren opens beside Rowan inside a west-corridor threshold house, discovers that the mapped route has become a registry trap, and chooses the living detour at a cost to both women's access. This is Wren's first consequential clandestine recovery and Rowan's first on-page appearance. Hard break. Eli governs the crossing, including whether to trust their living route over the archived map.
 - **Want (Wren):** keep the threshold houses and travelers out of the registry while finding a viable detour. **(Eli, after break):** cross Europe without becoming anyone's registered asset.
 - **Attachment:** Wren's network as **operational threshold houses**; ordinary parish/community caught in geometry.
@@ -493,7 +493,7 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 - **M/I/A:** **M** — Rowan makes Wren's formative past physically present. **I** — detour trust and old coordination complicate Eli's reading; he mistakes fluency for rank. **A** — Eli/Wren thaw continues while Wren/Rowan charge returns without permission to act on it yet.
 - **Pitch gate — end hook:** Rollright/Men-an-Tol ahead; Pömmelte mark = surveillance network; Rowan/Wren charged; pair-severance files partial.
 
-### Ch 6 — The Riddling Node *(Eli · ensemble action · Rollright / Men-an-Tol corridor)*
+#### [RETIRED] Ch 6 — The Riddling Node *(Eli · ensemble action · Rollright / Men-an-Tol corridor)*
 - **Want:** hold a thread long enough to learn without mistaking contact for comprehension.
 - **Obstacle:** **Anthea** full-res under present pressure — sonic resonance; different notes at **two ends of a broken route**; she teaches **Lira** and is killed; chord reaches Aedan's village through unknown chain (`37` ch 14).
 - **Choice → Cost:** Eli receives Anthea as **other**, not ancestor. Cost: grief; Lira fragment is **carried song**, not bloodline proof.
@@ -515,7 +515,7 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 - **Changeling guard:** a local record shows both a real taking and an innocent disabled child once treated as a substitute. Eli must hold both truths: something did take people, and people used that fear to harm those who never left. This is a Family-circle test of whether altered behavior cancels personhood. It does not.
 - **Pitch gate — end hook:** Stonehenge ground live; Lovernios fragment carried; Wren/Rowan renewed on explicit terms; gods-went-underground line lands subordinate.
 
-### Ch 7 — The Station and the Leash *(Eli · ensemble action · Stonehenge → Avebury approach · Albion threshold)*
+#### [RETIRED] Ch 7 — The Station and the Leash *(Eli · ensemble action · Stonehenge → Avebury approach · Albion threshold)*
 - **Want:** reach the western endpoint before hostile teams activate it.
 - **Attachment:** Wren/Rowan renewed formative bond; Eli/Wren developing present-tense bond; Rowan/Eli respectful but non-romantic; Derw's lossy package.
 - **Romance resolution — distinct bonds, no ranking (LOCKED 2026-07-28):** under consequential pressure, Wren gives Eli undivided attention and chooses the particular future, tenderness, and grounding they have built together. This is not equal-time reassurance and does not interrupt, demote, or close Wren/Rowan. Eli understands that Wren/Rowan's recognition romance and Wren/Eli's discovery romance are not interchangeable positions in a contest. Feeling specifically loved and deliberately chosen lets him stop reading Rowan as a threat. Priority remains contextual rather than permanent; Wren continues both romances.

@@ -764,7 +764,7 @@ It is not a vision. That is the first true thing about it and the only thing he 
 
 He has felt one edge of this his whole life, in the garden, in his hands over a sick man's chest—*reception,* the tower called it, and taught him to fear the word. He never once felt the whole. The whole is not a gift. The whole is drowning twice. No one had taught him to hold a door, or fight, or narrow the flood—only to keep his hands moving when his head broke.
 
-For a moment the roar almost holds still, and in the stillness one thing surfaces, ordered where everything else is noise—not a word, not a face: three rings, one inside the next inside the next. Then the water takes it back.
+For a moment the roar almost holds still, and in the stillness one thing surfaces, ordered where everything else is noise—not a word, not a face: three rings, one inside the next inside the next. The inner ring is tight and hot—the body's own charge, the hands wanting before the mind names it. The middle ring is wider—the tether, the relationship held taut by hope of reunion, the mother still alive on a file he cannot read. The outer ring is widest of all—the system that holds both, the Mandate that made the file, the Cage that keeps the door closed. Then the water takes it back.
 
 He is below the lane, looking up through diesel sheen, and he cannot tell where his skin leaves off. A kitchen he has never walked hums with the same hunger as the one under his hands at home. Rain on this roof is rain in a chamber that has no place for him. None of it is inhabited. They are not people. They are pressures in the second surface—grief caught around a foundation when it was new, a breath repeated at a circle before the circle was broken—and they do not know him. They know only that something living has taken hold of the wire, and they answer the way anything answers a bell.
 
@@ -1436,6 +1436,8 @@ He dims it with the wat stack. She nods once—not praise, permission to continu
 Wren watches from the bund mark without entering the pad. After, when Eli's forearms shake, Kru Dao hands him water and says, "Tomorrow. Same hour. If the white cars come, you run first and fight only if the run ends. I am not making a champion. I am making someone who can leave a room alive."
 
 He files her name beside Malai's and Khun Dang's: people who teach without owning him.
+
+The wat has given him three words before he has a name for the practice. The first is *dim*: the inner ring, the body's own charge, the hands wanting before the mind names it. The second is *leave*: the middle ring, the relationship that binds you to a place or a person, the tether you cannot cut without cost. The third is *teach without owning*: the outer ring, the system that claims authority over the people inside it. He does not yet know that the same untying works at every scale. He only knows that Kru Dao's hour feels different from anything the Cube or the Mandate offered: she is not asking him to become a better instrument. She is asking him to remain a person who can stop himself.
 
 They walk single file. That is the cooperative in one image, Eli will think later: everyone walks on the marks, because the marks are how forty families know what is true.
 
@@ -2698,11 +2700,7 @@ The conservation traces were never simultaneous. The life was in the delay.
 
 He stops trying to hold one perfect count. The hunger to be the central rhythm—necessary enough that family cannot leave—does not vanish; he simply refuses to feed it the only breath he has. The living world does not need one master meter. It needs mismatch that still answers.
 
-With his right hand he taps four against the culvert wall.
-
-With his left, five.
-
-He breathes six.
+What he does next has no name in any manual. Right hand taps four against the culvert wall—body scale, the inner ring, the only thing he can control. Left hand taps five—middle ring, the family tether, the relationship he cannot sever but can loosen. Breath six—outer ring, the system itself, the field that holds all the others. He is not resolving the knot. He is refusing to tighten it. That is the Untying: not a command, but an abstention visible enough that everyone nearby can copy it.
 
 Wren, face in rainwater, sees his hands.
 

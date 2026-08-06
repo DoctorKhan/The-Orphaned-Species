@@ -3482,35 +3482,48 @@ This is how she knows the rule may be usable.
 
 ---
 
-The threat report unravels under review.
+The threat report does not arrive as a finished thing.
 
-The Sol cipher is authentic but old.
+It arrives as fragments that do not match until Wren lines them up on the
+review room table: a cipher hand, a vehicle still, a simulation record, a
+channel note, a timestamped routing log.
 
-The sender copied it from a seized channel.
+She is the one who notices the overlap.
 
-The sentinel's vehicle image contains details shown in a security simulation
-the previous day.
+Eli watches her work the way he watched Rasel cut the clay tablet — not trying
+to see the object, but trying to see what the object was cut around.
 
-The planned attack may never have existed.
+"The Sol cipher is authentic but old," she says. "The sender copied it from a
+seized channel. The vehicle image contains details from a security simulation
+the previous day."
 
-Somebody manufactured enough danger to make confinement reasonable.
+Eli traces each connection himself, not because he doubts her but because the
+review requires two people to certify every finding.
 
-Who benefits remains unclear.
+The seized channel appears in the Union routing log under a code Henley's office
+preserved. The simulation was run by Northstar security before the Lean Year
+allocation vote. The vehicle's door seal matches a depot vehicle in the
+southern corridor.
 
-Dynasty supporters gain a protected mother.
+Each piece is authentic. Each piece was taken from a different context.
 
-Security gains jurisdiction.
+The attack they describe may never have existed.
 
-Weaver protectors gain medical access.
+Eli writes the conclusion himself, because the hearing requires a named author:
 
-Cloister loyalists gain household standing.
+*The threat was assembled from existing materials. The materials were real. The
+attack they compose was not.*
 
-Eli's continuity appears necessary.
+The report names four beneficiaries:
 
-The false threat is not harmless.
+- Dynasty supporters, who gain a protected mother.
+- Security services, who gain jurisdiction over a household.
+- Weaver protectors, who gain medical access.
+- Cloister loyalists, who gain household standing.
 
-It teaches every faction how little force is required to convert pregnancy into
-public custody.
+It does not name an author.
+
+It does not need to. The method is the message.
 
 Novak finds Selin in the corridor outside the review chamber.
 
@@ -3790,8 +3803,8 @@ persecution.
 No one resolves this before dark.
 
 The games continue with a shorter course and independent spotters at the beam.
-North Harbor and Pelangi do not rerun their heat. Their mechanics still finish
-the brace they had agreed to build for West Slope. Pelangi's medic changes the
+North Harbor and Pelangi do not rerun their heat. Their mechanics still finish the
+brace they had agreed to build for West Slope. Pelangi's medic changes the
 dressing over Tala's old ankle injury. Tala does not thank the team whose runner
 hurt a child. She thanks the medic by name.
 
@@ -3809,6 +3822,53 @@ Harmony is too clean a word for it.
 
 There are only too many unfinished relationships for one hatred to govern at
 once.
+
+---
+
+That night, Wren misroutes a housing attestation.
+
+She has been awake for nineteen hours. The objection ledger is open on the
+table. Three pending appeals require route verification. The north harbor
+credential channel is dirty. Her eyes are reading words she has seen twelve
+times before and seeing them for the first time.
+
+The form goes to House Ilyara instead of House Weaver.
+
+It is caught by a Weaver apprentice named Del who is sorting inbound attestations
+by jurisdiction because the sorting algorithm crashed at midnight. Del has not
+slept either. She recognizes the route code because her sister lives in the
+district the form names.
+
+She brings it to Wren's table.
+
+"Wrong house," Del says.
+
+Wren looks. She sees the error immediately. She also sees that the correct
+household would have accepted it without review because the route matches an
+existing exception list.
+
+"Fix it," Wren says.
+
+"I did. The copy is already in the right bin."
+
+Wren stares.
+
+"When?"
+
+"While you were reading the second appeal."
+
+Eli walks past with a cup of tea. He sees the two versions on the table. He
+sees the correction stamp. He says nothing. He does not need to. The system
+caught the error without him. Wren writes a note to the apprentice's supervisor
+recommending Del for route verification duty.
+
+She does not sleep after. She goes back to the appeals. The next error is
+caught by a cloister chapter that answers to a household Wren has never heard
+of. The one after that is caught by a North Harbor medic who happened to be
+carrying a copy of the shared routing credential.
+
+The compact works because it has redundant eyes. It does not work because Eli
+is awake.
 
 ---
 
@@ -4482,6 +4542,41 @@ requesting Eli's confirmation.
 The world continued while the ruler sat beside a hospital bed.
 
 This is evidence stronger than any speech.
+
+---
+
+The street argument begins with a name.
+
+The freight yard where the games were held has no official name. The locals
+call it the brace yard after the repair exchange. The Weavers call it the
+transfer hall in route ledgers. The Continuity office issues a memorandum
+naming it the Unity Plaza. A group of harbor workers covers the sign with a
+tarp before the ink is dry.
+
+The argument lasts three days.
+
+A woman from the north settlement argues that the yard should carry the name
+of the medic who died there during the coup. A young Weaver argues that names
+belong to the people who use the space, not the people who died in it. A
+cloister chapter argues that the yard should remain unnamed because naming is
+the first step toward ownership. A child argues that it should be called the
+beam yard because that is where the interesting thing happened.
+
+The feed covers the argument as civic engagement. The private messages call it
+useless.
+
+Eli reads the thread while Rowan sleeps. Wren sees the message count and does
+not open it. She knows the argument is not about a yard. It is about whether
+the new order has the right to rename the things people survived.
+
+The tarp stays for eleven days. Then a rainstorm tears it. The sign reads
+Unity Plaza for three weeks. Then somebody paints the beam name underneath in
+white. The Weaver house files an objection. The cloister chapter declines to
+enforce it. The harbor workers host a meal under both names.
+
+No court resolves the question. The yard acquires two names, then three, then
+a work-song that incorporates all of them. The compact survives another test
+it never knew it was taking.
 
 ---
 

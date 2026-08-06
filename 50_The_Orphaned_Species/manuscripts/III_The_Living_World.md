@@ -5462,7 +5462,50 @@ The crown has ended.
 
 The judgment has not.
 
-## Chapter Nine—The Hearing Begins
+Before he sits, Eli asks Wren for the packet. She hands it over without
+comment: testimony files, route logs, injury reports, Arman's drone footage,
+Owen's eleven-minute audio, Amara's written statement, and Leilani's empty
+envelope.
+
+He reads each one twice.
+
+The first pass lets him feel what the witness felt. The second pass lets him
+look for what the witness did not say.
+
+Amara names the sleep-entry incident and Eli's deciding vote. She does not name
+the fact that she stood between him and the door. She does not name the moment
+her own fatigue turned from personal cost into structural warning. She leaves
+the gap clean enough that someone reading quickly would see guilt.
+
+Owen's audio is a field report on the compact's dispersal rhythm under assault.
+He records the stations going down, the field fragmenting, the casualties that
+followed. He does not record the moment before the attack when Sol's field
+surge nearly collapsed the local one. That moment is missing from the file but
+present in Eli's own body — the pressure against his palms, the hum he felt
+before the drones struck. The drone footage shows the impact sequence but not
+the field overlap. The two files contradict each other without speaking.
+
+Arman's footage is technically complete. It lacks audio from the transmission
+station's last two minutes. That absence is itself evidence: somebody scrubbed
+the record. But why those two minutes? What happened in them that required
+deletion?
+
+Leilani's envelope is empty.
+
+He sits with the contradictions for an hour before the doors open. Wren does
+not interrupt. Malia does not offer a shortcut. The room lets him work, the way
+a proper threshold lets a person stand still before crossing.
+
+He writes three questions for himself, not for the record:
+
+1. What did each witness see that they chose not to say?
+2. What is missing from every file that was not missing by accident?
+3. If the Union's registry teams had predicted the attack, what would they
+   have done differently?
+
+The third question is the one that will open the hearing. Not by accusation. By
+invitation.
+
 
 Before the doors open, a Continuity liaison posts a timed notice on the hall's
 side board: **REINSTATEMENT RECOMMENDATION DUE 17:40** — forty minutes before
@@ -6226,7 +6269,7 @@ The continuity clause is read into the record and not invoked. Wren makes sure o
 
 Eli signs.
 
-It is also the final Manual Override he will ever need: the transfer names a bounded, reviewable release, not a crown, and the room has already proved it can hold authority without a single source.
+It is also the final Untying he will ever need: the transfer names a bounded, reviewable release, not a crown, and the room has already proved it can hold authority without a single source.
 
 ---
 

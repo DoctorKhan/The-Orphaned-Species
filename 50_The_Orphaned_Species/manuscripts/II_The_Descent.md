@@ -1839,7 +1839,7 @@ The array loses its shared clock.
 
 The pressure does not vanish. It fragments.
 
-This is what Manual Override looks like — not a switch flipped, but a decision made under pressure: refuse the single command that would hold everyone upright and trust the room to answer instead.
+This is what the Untying looks like — not a switch flipped, but a decision made under pressure: refuse the single command that would hold everyone upright and trust the room to answer instead.
 
 People stumble in different directions. Worse for one second. Human after.
 
@@ -7335,21 +7335,9 @@ Wren reaches Eli through the station network.
 
 Not one message. Six.
 
-The Three Circles arrive as relation without a center. The Refusal preserves
-the right to contradict authority. The Babylonian Map carries testimony from
-its edge. Göbekli carries contact without a complete account. Men-an-Tol distinguishes a
-completed passage from a returned person. The seed record gives knowledge
-without an owner.
+The Three Circles arrive as relation without a center. The inner ring—body scale, the charge that moves through a palm before the mind names it—arrives from Men-an-Tol: a completed passage, a returned person, the body's own boundary. The middle ring—family scale, the tether held by hope of reunion—arrives from Stonehenge: Maren's release, the mother choosing not to occupy every ground at once, the thread going slack without being cut. The outer ring—civilization scale, the system that claims authority over the people inside it—arrives from Göbekli and the Babylonian Map: testimony from its edge, contact without a complete account, the refusal that preserves the right to contradict authority.
 
-Stonehenge has transmitted what each artifact taught into Avebury's inhabited
-ring.
-
-Other stations answer. At those grounds, residents, keepers, clinic workers,
-Raben repair crews, Nadiya's archive contacts, Thailand growers, and a few
-people at Pelangi Reach choose which artifact's teaching they can receive and
-attest. The stations send those distinct wisdoms onward. The pattern remains
-sparse and irregular. No mind contains the whole route, and no receiver is
-compelled.
+The Refusal preserves the right to contradict authority. The seed record gives knowledge without an owner. No mind contains the whole route, and no receiver is compelled.
 
 The network is weaker than Sol's unified wave.
 
@@ -7560,7 +7548,7 @@ She does not disappear.
 She becomes a woman on the floor, breathing badly, held by Somchai, no longer
 occupying every ground at once.
 
-The living demonstration enters the amplifier. Eli gives no command. This is relational Manual Override: release without command, let the thread choose.
+The living demonstration enters the amplifier. Eli gives no command. This is relational Untying: release without command, let the thread choose.
 
 One captive thread releases. Then another.
 
