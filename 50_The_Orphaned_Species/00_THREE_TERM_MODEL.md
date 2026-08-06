@@ -88,6 +88,31 @@ If the answer to 1 and 2 is "nothing visible," the scene lacks pressure. If the 
 
 ---
 
+## The makers' arrival and seeding
+
+The makers arrived long before 0.9 mya — biological payload delivered in frozen asteroid eggs, thawed on earth. They seeded life, guided its early development, and returned periodically to study, adjust, and cultivate promising branches. The dinosaurs were one such branch: a domestication experiment the makers watched closely before the K-Pg extinction reset the substrate.
+
+The 0.9 mya event was a later chromosomal tuning project on an already-existing hominin line. The makers returned with a compatibility technology — a tuning instrument — designed to close the 24×23 fertility gap between the domesticated line and the Sub-Drone line. Earth's own ley-line network provided the substrate: the instrument was tuned to the planet's meridian charge-density patterns, so the fusion happened along the lines earth was already expressing. The 24th chromosome pair fused into 23 in the domesticated line, creating the human karyotype. But the fusion was incomplete — it created a dependency on periodic re-exposure to the Sub-Drone line's 24th chromosome to maintain fertility. That is why the compatibility project is "not a single fusion event but an ongoing crossbreeding protocol."
+
+**Earth-native parallel intelligence — Leviathan / Tiamat:** earth's ocean produced its own complex intelligence periodically, triggered by charge-density threshold crossings along the ley-line network. These are not maker creations. They are earth-native, autonomous, and distinct from the maker-plane dragons. The makers studied them the same way they studied the hominin line — as independent branches of the same planetary experiment.
+
+---
+
+## The Forked species
+
+The chromosomal upgrade produced a species with a latent capacity to fork: to branch into parallel forms, be reabsorbed back into earth-like biology, or attempt space-faring. This capacity is not supernatural. It is the biological consequence of an unfinished fusion — a species that carries the memory of a crossing in every cell.
+
+The name is **Forked**. It maps directly onto the Double-Fork Stone and the forking/reabsorption mechanic that runs through the series. The Forked are not a new species. They are the domesticated line carrying the upgrade scar — the capacity to bridge scales, to operate inside systems without being captured by them, and to choose whether to remain earth-bound, reabsorb, or branch outward.
+
+**Within the fork, two possibilities:**
+
+- **Outward — become space-faring:** branch away from earth, carry the bridging capacity beyond the planetary substrate. This is the T1a pull: expansion, spectacle, the civilization that must grow or die.
+- **Inward — reabsorb into earth-like biology:** return to the planetary body, let the upgrade dissolve back into the meridian system that held it. This is the T1b pull: reconnection, origin, the body that remembers where it came from.
+
+T2 is the practice in the fork itself: the capacity to hold both possibilities without completing either. The intermediate species is the species that can stand in that gap without being captured by either pull.
+
+---
+
 ## The intermediate species
 
 The "intermediate species" is the capacity created by Term 2: the ability to sit between gods and animals, between cultures, between planes, without being consumed by either.

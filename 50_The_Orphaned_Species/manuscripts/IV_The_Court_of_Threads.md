@@ -130,6 +130,30 @@ Respect arrives wearing irritation, same as always. No one in the room mistakes 
 
 ---
 
+That evening, the public feed runs a retrospective titled **SEVEN MONTHS WITHOUT A KING**.
+
+The montage shows Wren at the verification desk, Asha with three ledgers open, Leilani on the airspace monitor, Mina in the clinic with empty intake slots, Rowan arriving through the west door with route witnesses, Eli sitting among ordinary delegates. The voiceover calls the settlement the first functional transfer of continuity authority in the compact era. Commenters use words like mature, resolved, post-heroic.
+
+The feed does not show Eli's left hand shaking in the service corridor an hour earlier. It does not show Asha's damaged objection ledger or the fire inspector opening a door Rowan was not supposed to walk through. It does not show the Continuity delegate calling Costa Rican refusal a betrayal of the Eagle and Condor, or the Sol depot opening under cutting torches, or the bridge confrontation where two armed convoys waited for Eli to make the world simpler.
+
+The public image is not false. It is selective.
+
+Eli watches the feed in the review residence with the sound off. Wren stands behind him. Rowan is on the couch with her boots still on, reviewing route complaints.
+
+"He looks peaceful," Rowan says.
+
+"He is."
+
+"Are you?"
+
+Eli considers the question the way he considers every question that matters: by trying to answer it honestly before the room supplies a preferred version.
+
+"No," he says.
+
+Rowan nods. She does not tell him to be grateful for the image. She does not tell him the image is necessary. She knows both without him saying them.
+
+---
+
 The first notice is not an alarm.
 
 It is a shipping refusal.
@@ -595,6 +619,26 @@ Wren sits across from him.
 She is neither consort nor subordinate, and she has not gone, and this time neither of them mistakes the borrowed crown for a home.
 
 Outside, on a retaining wall near the harbor approach, someone has chalked the old incomplete circles — two arcs, opposed hatch-marks, almost joined. The Loop. A clerk walking past stops, looks, and walks on without saying anything. Wren sees it later and does not erase it. The mark stays because the court needs to remember that belonging is not the same as completion, and that a finished job can still loop privately inside the person who did it.
+
+---
+
+That morning, a Northern travel writer files a dispatch titled **THE RULER WHO RESIGNED BEFORE DAWN**.
+
+It describes Eli sitting among ordinary delegates, Wren with the objection ledger, Rowan's public disclosure statement, the absence of throne or palace, the crowd that waited outside the review hall without kneeling. The piece argues that the settlement has produced a new model: government by attention rather than command. Commenters call it elegant. Children in one Pelangi schoolroom draw the assembly as a circle with no center.
+
+The dispatch does not mention Asha's hospital bed, the Sol depot opened under cutting torches, the bridge where two armed convoys almost killed one another, the threat report that unraveled only after it had already confined a pregnant woman, or the fact that Eli has not slept through a night in eleven days.
+
+Eli reads the dispatch while waiting for Mina to examine his hand. The shaking has moved into his forearm.
+
+"He makes us look like we know what we are doing," Rowan says.
+
+"He knows what we are doing."
+
+"Do you?"
+
+Eli watches the child move under Rowan's ribs during the morning meeting and decides that knowing is overrated.
+
+"Some of it," he says.
 
 ---
 
@@ -2892,7 +2936,47 @@ Mina's request for prenatal supply availability with no patient named.
 
 The court assembles a pregnancy from shadows.
 
-Novak's coalition issues no confirmation.
+Novak meets with Mara Dey in a stairwell that does not appear in the building's
+published map.
+
+Mara is the scheduler who once classified Rowan by exit time. Her transfer to
+continuity-household coordination was presented as promotion. She understands it
+as surveillance.
+
+"The court assumes the celebration will make the child real by repetition,"
+Novak says. "We do not need the pregnancy confirmed. We need the platform
+occupied before anyone can say no."
+
+"Rowan will refuse."
+
+"Then Eli sits beside an empty chair and lets the crowd fill it. The image
+does the work."
+
+"What if Rowan attends?"
+
+"Then she sits beside him and lets the court believe what the room has already
+written."
+
+Mara names the route officers who have been moving clinic appointments to
+morning slots so the cleaner schedule appears in the public appointment feed.
+
+"Timing alone does not create a claim," Novak says.
+
+"Consistency does."
+
+Novak gives her a printed authorization form for the central platform. It does
+not mention Rowan, Eli, or a child. It mentions continuity, future possibility,
+and a right of public assembly derived from the compact's emergency clause.
+
+Mara signs.
+
+"You are building a photograph from absence," she says.
+
+"Evidence works better when it is not invented," Novak answers. "That is why
+this one will be hard to overturn."
+
+Downstairs, Wren files a privacy directive under Rowan's medical record. She
+does not know the form exists yet.
 
 It announces a public gathering:
 
@@ -3427,6 +3511,54 @@ The false threat is not harmless.
 
 It teaches every faction how little force is required to convert pregnancy into
 public custody.
+
+Novak finds Selin in the corridor outside the review chamber.
+
+Selins custody suspension has not kept her from the building. She arrives
+before witnesses and leaves after them, which means she is present for every
+conversation nobody wants recorded.
+
+"Wren thinks the threat was manufactured," Novak says. "She is right."
+
+"Then Eli revokes it and becomes the ruler who protected his household."
+
+"He revokes it publicly and the factions learn how to build a better one."
+
+Selin considers.
+
+"The court can investigate without concluding," she says. "A review that names
+no author is also a review that does not expose the method."
+
+"I want the method exposed."
+
+"Then you are asking for a public instruction manual."
+
+Novak's mouth moves. The words do not come.
+
+"The review suspends Rowan's protection but calls the suspension temporary,"
+Selin says. "Eli continues to transfer authority. The praetorian chapters
+prepare a loyalty statement. Wren spends the week defending privacy rules
+instead of asking who designed the cipher."
+
+"That leaves the threat in place."
+
+"That leaves the threat as a problem the next transfer will inherit."
+
+Novak looks toward the review room where Eli is already telling the chair he
+will not extend his continuity role because of the pregnancy.
+
+"Good," she says.
+
+She does not mean it.
+
+Selin returns to her seat and says nothing about the threat until the review
+adjourns. When she speaks, she names only the overlap between the security
+simulation and the sentinel image. The sentence is narrow enough to be safe and
+broad enough to be useful.
+
+The inquiry opens the following morning.
+
+It will not name an author before the succession vote.
 
 Rowan changes clinic routes again.
 
@@ -4424,7 +4556,37 @@ The cloisters prepare oaths.
 The Weavers prepare attestations.
 
 Novak prepares an heir motion she promises not to introduce unless the assembly
-fails.
+votes against certification.
+
+A stranger arrives at the clinic door with a petition signed by forty-two people
+asking Eli to bless the child before birth as continuity person. He stands in the
+corridor reading it while Mina changes the dressing on Rowan's leg. Rowan hears
+the paper crackle.
+
+"Tell him no," she says.
+
+Eli looks through the doorframe.
+
+She does not look up from the bed.
+
+"He is not here to bless things," she says. "He is here to finish the transfer."
+
+Eli hands the petition back unsigned.
+
+The stranger leaves. Three people waiting in the hall watch him go. Nobody
+applauds. Nobody follows him out.
+
+That night Rowan asks Eli to stay away from the clinic until after the vote.
+
+"I need to know the boundary is mine," she says.
+
+He agrees without making her explain that the boundary is also his.
+
+The child kicks at the exact moment the border guard reports a false alarm at
+the northern bridge. Rowan feels it and smiles without meaning to.
+
+Wren writes it in the birth log as the first recorded action not initiated by
+law, command, or the court.
 
 Every room claims to be preparing for contingency.
 
@@ -4477,6 +4639,22 @@ No station receives the event.
 No public field monitor.
 
 The room belongs to Rowan before it belongs to history.
+
+---
+
+By evening, the feed has a new phrase: **THE BIRTH THE COURT DID NOT CLAIM**.
+
+Commentators note that no platform has been reserved, no public witness assigned, no field monitor attached. The child will be registered under ordinary personhood rules. The hospital room contains no succession seat, no continuity station, no appointed heir witness. The story calls it restraint. Some readers call it cowardice. The coalition does not call it anything because they cannot yet decide whether absence is loss or proof.
+
+Wren reads the feed while removing chairs.
+
+The public wants a palace drama. The court has given them a clinic.
+
+Rowan hears a reporter ask Eli whether he will name the child before birth. He says the child will name itself or not, and that either answer belongs to the child.
+
+The clip plays three times before the network editors decide it is either insulting or reverent and stop labeling it.
+
+Inside, Rowan drinks water. Outside, a thousand arguments wait for a body.
 
 ---
 
