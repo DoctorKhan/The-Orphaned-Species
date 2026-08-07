@@ -169,6 +169,26 @@ abstract:
   forecloses the temptation to hand the young a finished doctrine instead
   of a thing they have to earn for themselves.
 
+**Source material for Book V's own liturgy — LOCKED 2026-08-06.** The
+Gospel of Thomas, the Gospel of Mary, and the Gospel of Philip are
+available raw material for Book V's neo-śramaṇa sayings and litanies,
+using the same method already working for `54_litanies.md`'s Laozi
+renderings: **an author rendering, tracked honestly in the craft doc
+("Source: after Gospel of Thomas §22" etc.), never named as its source
+on-page.** Public-domain ancient texts, same as the Tao Te Ching — no
+attribution problem, no reason to withhold the paper trail from this
+bible even while the manuscript stays silent about it. Thomas's non-dual
+sayings ("when you make the two one... you will enter the kingdom," §22)
+are the strongest fit — a direct rhyme with the series' own Two-Trees-
+reunited/rainbow-tree closing image, not a coincidence worth flagging
+on-page. **What stays open, not certified:** whether these texts carry
+"the original teachings of Jesus" more faithfully than the canonical
+gospels is a live, arguable position a Book V character can hold or
+discover — never an authorial verdict. Same discipline already locked for
+Delphi and the Sídhe material: rhymes with real, disputed history, never
+asserted as documented fact. Verses themselves are a later pass, in
+`54_litanies.md`, once specific Book V scenes need them.
+
 **The payoff is the whole orchestra, not a lesson — LOCKED 2026-08-06.**
 Book V's generation is the first for whom the correction above is not an
 idea to accept but a civilization to inherit: the "thousands of years" is
