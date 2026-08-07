@@ -98,9 +98,15 @@ admire glamorous wanderers while devaluing the young who remain and keep daily
 life running.
 
 **Personal engine:** Tara's generation joins affiliations Eli, Rowan, and Wren
-did not design; Tara may join a flight. The adults who built a society in which
+did not design; Tara may join a flight. **Two founder children — LOCKED
+2026-08-06:** **Tara** (Rowan/Eli, born end of IV) and **Wren/Eli's son** (born
+in the IV→V interval — surprise pregnancy after Wren's latent repair capacity
+surfaced unexplained; see `60` § End state and `99` § latent repair lock). Two
+children of the founders with the same rule — no title, no claim, no destiny —
+and different mothers, different bonds, different routes into the question the
+volume asks. The adults who built a society in which
 children could leave must now live the difference between protection and
-possession. Eli may accept the principle and fear the particular route. Rowan
+possession — twice over, and never the same way twice. Eli may accept the principle and fear the particular route. Rowan
 may trust Tara and distrust a mentor. Wren may recognize every capture risk and
 still know that total surveillance would destroy the freedom being protected.
 Care requires a road home, not a leash.
@@ -113,6 +119,33 @@ observations—not through a neo-śramaṇa sermon.
 
 Governing line: **The parents built a society in which the young could leave.
 The young use that freedom to build a society their parents do not understand.**
+
+**Opening misreading — LOCKED 2026-08-06.** Book V opens on the young
+generation's own theological mistake, arrived at independently rather than
+inherited: that the physical world is a hell, designed as a prison, its
+architect a jealous warden — the Gnostic error, with **Yahweh** slotted in
+as the demiurge. It is an available mistake, not an invented one — the
+bible's own layered cosmology hands them the raw material to get it wrong:
+the "two planes" doctrine already reads as confinement if encountered
+secondhand (the physical world as a **restricted, entropic subset**, the
+locks that **seal humans inside** it, `95_glossary.md` § *The two planes*),
+and the pantheon's real layering — the unmanifest Anu+26 elder council at
+the apex, the seventy territorial sons/gods-of-the-nations below, the
+fallen Watcher/Igigi who "whisper and steer" beneath that — hands them an
+actual wrong tier to mistake for the whole picture, the same conflation
+historical Gnosticism made with the Hebrew Bible's god. **The correction,
+never stated as doctrine on-page:** the constraints are not a jailer's
+cruelty but a designer's structure — every lock, every limit, every hard
+thing exists so a conscious being *chooses* to step in and meet it, the
+same "never compulsion" logic already governing the Shayāṭīn and Eli's own
+refusable calling (`00_NARRATIVE_STRUCTURE.md` § *Chosen integrator*). **A
+video game is designed to offer challenges; it is not a hell** — difficulty
+is not malice, and a world built to be met is not a world built to punish.
+The realization lands through lived experience — flights, guardian-spirit
+contact, complex-time densification — never through a sermon, the same
+discipline already locked as "not a chakra/level-up checklist on-page"
+(§ *What this is not*): the game metaphor is felt in what the young
+generation does with the challenges, never spoken aloud as cosmology.
 
 ## Direction preference — past lives through the Master Timeline (working 2026-07-31)
 
