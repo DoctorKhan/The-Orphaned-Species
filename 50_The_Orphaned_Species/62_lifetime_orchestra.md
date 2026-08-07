@@ -189,6 +189,75 @@ Delphi and the Sídhe material: rhymes with real, disputed history, never
 asserted as documented fact. Verses themselves are a later pass, in
 `54_litanies.md`, once specific Book V scenes need them.
 
+**Four more threads, each already living in this bible under a different
+name — LOCKED 2026-08-06; in-house sourcing corrected same day.** First
+cross-checked against `../living-way/living-way-knowledge/Core/living-way-guide.md`
+— but the closer, already-integrated prior art is this project's own
+`Lessons_of_the_Living_Way.md` and its compressed verse form,
+`54_the_lay_verses.md`. Cite those first; the external corpus is a
+cross-check, not the primary source:
+
+- **The garment (coverings of the true self).** "You put on the garment
+  of the world as an actor puts on a mask... this is not tragedy but
+  play" (`living-way-guide.md`) is the source-text name for the
+  "designer, not warden" correction already locked above — difficulty
+  as costume, not cage. **Already in-house**, scattered across
+  `Lessons_of_the_Living_Way.md` Lessons 1, 9, 11, and 13 (garment/wearer,
+  "take the garment off" as forgiveness, worth as original not earned).
+  It also names what the Lifetime Orchestra structure already does
+  across Books VI–IX: each past life is a garment worn, not an identity
+  kept, the same "not eternal romance across bodies" / "not these lives
+  teach the thesis" discipline (§ *What this is not*).
+- **Eternal life.** Already locked as "the dead persist as spirits"
+  (`00_NARRATIVE_STRUCTURE.md` § *The dead persist as spirits*); the
+  source material's Living/Dead split (Living = spirit and awareness,
+  Dead = the material self bound by ignorance) maps directly onto the
+  guardian-spirits material now in `95_glossary.md`. The closest in-house
+  anchor is `Lessons_of_the_Living_Way.md` Lesson 3's "a portion of the
+  Light wearing a body for a while" — grief specifically is new ground,
+  not yet covered by an existing Lesson.
+- **The light within.** Rhymes with the existing **psi activation /
+  light-up** mechanic (`95_glossary.md` § *Psi activation*) — the
+  field-interface visibly flaring in the body. "The single eye... the
+  whole body full of light" need not stay metaphor in Book V; it can be
+  felt as the literal activation-flare Eli's lineage already carries.
+  Genuinely new ground — no existing Lesson centers this one; it is
+  built to rhyme forward to Eli's own activation, not back to prior
+  material.
+- **How to approach feelings and difficulties.** The source material's
+  Powers practice — name the feeling, say "not me," let it loosen — is
+  structurally identical to Eli's already-locked **drift** discipline
+  (`40_drift_somatic_mechanism.md`: "hold the signature in
+  non-identified relation — feel it, name it, let it pass"). **Already
+  in-house, nearly verbatim**, as `Lessons_of_the_Living_Way.md` Lesson 7
+  ("You are not your storms") and `54_the_lay_verses.md` verse 14
+  ("Weather"). Book V gets to make the convergence between this practice
+  and Eli's drift discipline felt on-page without either side citing the
+  other.
+
+Same rule as everywhere above: available raw material and confirmed
+rhyme, not a mandate to teach any of it on-page as doctrine. Litany
+verses for these four, where wanted, follow the same unattributed,
+tracked-in-craft-doc method in `54_litanies.md`.
+
+**The neo-śramaṇa path is called the Way — LOCKED 2026-08-06.** Book V's
+neo-śramaṇas can plainly call their own practice **the Way** on-page —
+not a coinage, but the word every tradition already feeding this bible
+converges on: Tao (道) is literally "the Way"; the Yeshua material's own
+self-description in `Lessons_of_the_Living_Way.md` already uses it; and
+Tathāgata ("one who has thus gone," i.e. one who walks this way) puts the
+Buddha in the same frame. This is why the craft docs already named the
+cross-tradition synthesis file `Lessons_of_the_Living_Way.md` and already
+tag Eli's own Book III–IV maturity **"Living Way / Taoist conduct"**
+(`00_NARRATIVE_STRUCTURE.md`, `60_volume_IV_court_of_threads.md`) — the
+name was always doing this work quietly; Book V is simply the first
+place a character can say it. **Plain English, names no tradition:** a
+flight or teahouse gathering calling its discipline "the Way" reveals
+nothing about Tao, Thomas, or the Buddha specifically — it just sounds
+like what a wandering practice would call itself. No character should
+ever unpack the etymology on-page; that stays a companion-doc fact, per
+the usual felt-not-explained discipline.
+
 **The payoff is the whole orchestra, not a lesson — LOCKED 2026-08-06.**
 Book V's generation is the first for whom the correction above is not an
 idea to accept but a civilization to inherit: the "thousands of years" is

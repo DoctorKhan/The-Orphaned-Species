@@ -10,7 +10,17 @@
 >
 > **Fourth litany:** *The Low Place* — author rendering after Laozi Tao Te Ching Ch 8, Laurel Cube's counter-liturgy — added 2026-08-06.
 >
-> **Fifth litany:** *The Single One* — author rendering after Gospel of Thomas §22 (see `../living-way/living-way-knowledge/Core/living-way-guide.md` § *Step 2 — Make the Two One*), Book V's non-duality litany — added 2026-08-06.
+> **Fifth litany:** *The Single One* — author rendering after Gospel of Thomas §22, already present in-house as `Lessons_of_the_Living_Way.md` **Lesson 6 ("Let the two be one")** and `54_the_lay_verses.md` **verse 13 ("The two held")**; external source `../living-way/living-way-knowledge/Core/living-way-guide.md` § *Step 2 — Make the Two One* cross-checks the same rendering. Book V's non-duality litany — added 2026-08-06.
+>
+> **Sixth litany:** *The Garment* — author rendering after the source material's garment/mask sayings, already present in-house across `Lessons_of_the_Living_Way.md` **Lessons 1, 9, 11, and 13** (garment/wearer, "take the garment off" as forgiveness, worth as original not earned); external cross-check `living-way-guide.md` § *Your Divine Origin*, `Treatise_of_the_Living_Architecture.md` § *"You put on the garment of the world..."*. Book V's costume-not-cage litany — added 2026-08-06.
+>
+> **Seventh litany:** *Living and Dead* — author rendering after the source material's Living/Dead distinction; the closest in-house anchor is `Lessons_of_the_Living_Way.md` **Lesson 3**'s "a portion of the Light wearing a body for a while," extended here toward grief specifically, which no existing lesson covers directly. External cross-check `living-way-guide.md` § *The Living vs. the Dead*. Book V's eternal-life litany — added 2026-08-06.
+>
+> **Eighth litany:** *The Lamp* — author rendering after the single-eye/light-of-the-body sayings; genuinely new ground, not covered by an existing Lesson, chosen to rhyme forward with Eli's already-locked activation-flare (`95_glossary.md` § *Psi activation*) rather than back to prior material. External cross-check `The_Gospel_of_the_Living_One.md` § *IV. The Light of Life*. Book V's light-within litany — added 2026-08-06.
+>
+> **Ninth litany:** *Not Me* — author rendering after the Gospel of Mary's Powers practice, already present in-house, nearly verbatim, as `Lessons_of_the_Living_Way.md` **Lesson 7 ("You are not your storms")** and `54_the_lay_verses.md` **verse 14 ("Weather")**; external cross-check `living-way-guide.md` § *Identify the Powers*. Book V's feelings-and-difficulties litany — added 2026-08-06.
+>
+> **On the name "the Way":** all five new litanies (5–9) sit under a term the craft docs already use — `Lessons_of_the_Living_Way.md` and Eli's own "Living Way / Taoist conduct" (`00_NARRATIVE_STRUCTURE.md`, `60_volume_IV_court_of_threads.md`) — because Tao (道), the Yeshua material's own self-description, and Tathāgata ("one who walks this way") converge on the same plain word across traditions. See `62_lifetime_orchestra.md` § *The neo-śramaṇa path is called the Way* for the on-page naming decision this licenses for Book V.
 
 ---
 
@@ -729,7 +739,7 @@ and the mountain is only a mountain.
 
 ## The Single One — Book V's non-duality litany
 
-**Status:** author rendering after Gospel of Thomas §22, added 2026-08-06. Leader / Chorus form. Companion to `62_lifetime_orchestra.md` § *Opening misreading* / § *How it's learned*.
+**Status:** author rendering after Gospel of Thomas §22, added 2026-08-06. Leader / Chorus form. Companion to `62_lifetime_orchestra.md` § *Opening misreading* / § *How it's learned*. **Already in-house** as `Lessons_of_the_Living_Way.md` Lesson 6 ("Let the two be one") and `54_the_lay_verses.md` verse 13 ("The two held") — this litany is the antiphonal, communal-recitation form of the same lesson, not a competing version of it.
 
 **Register:** the collapse of imposed division — prisoner/warden, inside/outside, above/below, male/female — read as garments laid over a single thing, not the thing's true shape. Where the other four litanies answer a specific cube's or bloc's failure mode, this one answers Book V's own opening error directly: the Gnostic prison-reading is itself a divided-seeing, and the correction is not a counter-argument but a return to before the line was drawn.
 
@@ -772,3 +782,203 @@ and un-draws it.
 | **V** | wherever the Gnostic-error correction lands (`62` § *Opening misreading*) | One of the four concrete learning beats has already landed for a specific character | Discovered fragment among a flight or at a teahouse gathering gone ordinary; spoken by someone who has stopped arguing the prison-reading, not someone still making the case |
 
 **Reader effect:** closes Book V's own error-to-correction arc, and the "two made one" language rhymes forward with the trilogy's closing Two-Trees-reunited / rainbow-tree image (`35_artifact_chain.md` § *Two-Tree Union*) — the same move at two different scales, never stated as the same move.
+
+---
+
+## The Garment — costume, not cage
+
+**Status:** author rendering after the source material's garment/mask sayings, added 2026-08-06. Leader / Chorus form. Companion to `62_lifetime_orchestra.md` § *Four more threads*. **Already in-house**, scattered across `Lessons_of_the_Living_Way.md` Lessons 1, 9, 11, and 13 — this litany gathers what those four lessons each touch once into a single antiphonal form.
+
+**Register:** the body and its difficulty as something worn, not something one is — the "designer, not warden" correction from a different angle than *The Single One*: not two things made one, but one thing recognized as costume rather than cage. Doubles as an unstated name for what the Lifetime Orchestra structure already does across the past-life volumes: garments worn, not identities kept.
+
+**When to deploy:**
+
+- A natural fit anywhere a flight member or founder's child feels the physical difficulty of their situation as punishment rather than as a hard thing they agreed to meet — same register as the video-game correction, felt rather than argued.
+- Pairs well with a capture-path failure (`62` § *How it's learned*): someone who mistook the costume for the cage is exactly who ends up captured, since they can no longer imagine taking it off.
+- **Do not** let anyone use this to minimize real harm or real grief — it answers the *prison* misreading specifically, not every hard thing that happens to a person.
+
+**Drafting guard:** never let a character say "costume" and "cage" in the same breath as an explained metaphor — dramatize the recognition, same rule as everywhere else.
+
+---
+
+### Full text
+
+**Leader:** What did you come here wearing?
+**Chorus:** A garment. Skin, and a name, and a hundred small fears that felt like bone.
+
+**Leader:** Who told you the mask was the face?
+**Chorus:** No one told me. I forgot to ask, and forgetting did the rest.
+
+**Leader:** When the seam pulls tight and the breath runs short —
+**Chorus:** That is not the world closing in. That is the fitting room, and the door is still there.
+
+**Leader:** Was it a cage you were locked in, or a costume you agreed to wear before you walked on stage?
+**Chorus:** I do not remember agreeing. I only remember waking mid-scene, certain the walls were real.
+
+**Leader:** What happens when you finally take it off?
+**Chorus:**
+Not tragedy.
+Not rescue.
+Just a person, setting down what they were carrying,
+and picking up the next thing, lighter.
+
+---
+
+### On-page placement
+
+| Volume | Chapter | After what | Scene |
+|---|---|---|---|
+| **V** | wherever a character mistakes a hard, met thing for a punishment | A capture-path near-miss, or a founder naming their own old mistake | Private or small-group; the one speaking has already survived mistaking the costume for the cage |
+
+**Reader effect:** gives Book V a second, plainer name for the same correction as *The Single One* — useful where the non-duality register would land too abstract for the scene.
+
+---
+
+## Living and Dead — the eternal-life litany
+
+**Status:** author rendering after the source material's Living/Dead distinction, added 2026-08-06. Leader / Chorus form. Companion to `00_NARRATIVE_STRUCTURE.md` § *The dead persist as spirits* and `95_glossary.md` § *Guardian spirits*.
+
+**Register:** grief answered without denial — the dead are not gone, but nothing here pretends the loss isn't real. Living and Dead are read as states of a person, not just as before/after death: a person can be materially alive and functionally "dead" (bound by fear, ignorance, wanting), which is the same register as the drift discipline below, aimed outward at loss instead of inward at feeling.
+
+**When to deploy:**
+
+- A death in the flight or founders' generation — this is a mourning litany first, a cosmology second.
+- Fits a guardian-spirit contact scene directly: someone who has just been touched at a cube, grieving, recognizes the contact as continuity rather than a new miracle (`59_younger_dryas_nucleation_lock.md` § *The contact moment*).
+- **Do not** let this read as consolation-on-demand. It is said by people who have already sat with the loss, not offered to shortcut sitting with it.
+
+**Drafting guard:** no character states "the dead aren't really dead" as a comfort line in the moment of loss — this litany is for after, said in unison or by someone already through the worst of it.
+
+---
+
+### Full text
+
+**Leader:** They will ask you which of the dead you grieve.
+**Chorus:** I grieve none of them as gone. The ones who loved me only put down the garment.
+
+**Leader:** What is dead, if not the body in the ground?
+**Chorus:** What is dead is the self that forgot it was more than its wanting, more than its fear, more than the name on the stone.
+
+**Leader:** And what is living, if the body can die?
+**Chorus:** What is living was never the body's to lose.
+
+**Leader:** How do you speak to someone who has put down their garment?
+**Chorus:** The same way you always spoke to them. They hear differently now. Not less.
+
+**Leader:** What do you owe the dead?
+**Chorus:**
+Not a monument.
+Not a debt repaid in grief.
+Only this: keep living the part they can no longer hold,
+so nothing they carried is set down twice.
+
+---
+
+### On-page placement
+
+| Volume | Chapter | After what | Scene |
+|---|---|---|---|
+| **V** | wherever a founder-generation death lands | Burial, wake, or a guardian-spirit contact scene shortly after a loss | Communal or two-voice; said by someone already through the sharpest grief, never offered as an interruption to it |
+
+**Reader effect:** lets Book V handle death without either denying the loss or explaining away the cosmology — the reader who has tracked guardian spirits since `59` feels the "put down the garment" line do double work.
+
+---
+
+## The Lamp — the light-within litany
+
+**Status:** author rendering after the single-eye / light-of-the-body sayings, added 2026-08-06. Leader / Chorus form. Companion to `95_glossary.md` § *Psi activation / light-up*.
+
+**Register:** the light is not arriving from outside; it was already there, and the practice is uncovering it, not acquiring it. Deliberately lets "light" carry both the mystical and the literal — Eli's lineage's activation-flare — without the litany itself ever specifying which one it means.
+
+**When to deploy:**
+
+- A carrier's first activation-flare, framed from the inside rather than clinically — the felt experience, not the diagnostic read.
+- Fits a teahouse or flight gathering where someone is taught to notice their own gift starting, before anyone names it a "gift."
+- **Do not** let this become a chakra/level-up checklist moment (`62` § *What this is not*) — it names an uncovering, not an unlock.
+
+**Drafting guard:** never let a character explain that "light" means the psi field — let the hands-first image do the work; a reader who has tracked somatic signatures will feel it without being told.
+
+---
+
+### Full text
+
+**Leader:** Where does the light come from that lets you see?
+**Chorus:** Not from outside. Outside only shows me what the lamp already lit.
+
+**Leader:** What happens when the eye stays single, and stops splitting the room into what it wants and what it fears?
+**Chorus:** The whole body fills with light, the way a house fills with morning once someone opens every door at once.
+
+**Leader:** Can the lamp be hidden?
+**Chorus:** It can be covered. It cannot be put out. Even covered, the hand that covers it glows at the edges.
+
+**Leader:** What lights first, when a room has been dark a long time?
+**Chorus:** Not the corners. The hands. Always the hands first.
+
+**Leader:** And when it finally shows?
+**Chorus:**
+Not a miracle arriving from elsewhere.
+Only what was always burning,
+finally let through the skin.
+
+---
+
+### On-page placement
+
+| Volume | Chapter | After what | Scene |
+|---|---|---|---|
+| **V** | a young carrier's first felt activation | Before any clinical or diagnostic framing is offered | Private, or spoken by a mentor to someone mid-flare; "the hands first" should land as recognizable to any reader who has followed Eli's somatic signatures since Book I |
+
+**Reader effect:** gives the reader who has tracked Eli's diagnostic hand-reads since Book I a direct, felt echo — the next generation's gift arriving through the same door his did.
+
+---
+
+## Not Me — the feelings-and-difficulties litany
+
+**Status:** author rendering after the Gospel of Mary's Powers practice, added 2026-08-06. Leader / Chorus form. Companion to `40_drift_somatic_mechanism.md`. **Already in-house, nearly verbatim**, as `Lessons_of_the_Living_Way.md` Lesson 7 ("You are not your storms") and `54_the_lay_verses.md` verse 14 ("Weather") — this litany is that same lesson's antiphonal, practice-aloud form.
+
+**Register:** a practice litany, not a narrative one — meant to be usable the way a breathing count is usable, in the moment a feeling arrives. Structurally identical to the drift discipline already locked for Eli: name it, hold it in non-identified relation, let it pass.
+
+**When to deploy:**
+
+- Taught within a flight or teahouse as a plain practice, not a doctrine — the neo-śramaṇa equivalent of a breathing exercise.
+- Fits directly before or after a drift-risk moment: a character about to identify with a surge instead of holding it in relation recites or is walked through this first.
+- Works at any register from panic to low-grade dread — it is deliberately not cube-specific or crisis-specific.
+
+**Drafting guard:** never let a character explain that this *is* the drift discipline in different words — let a reader who knows `40_drift_somatic_mechanism.md` feel the convergence unassisted.
+
+---
+
+### Full text
+
+**Leader:** Name what rose in you just now.
+**Chorus:** Fear.
+
+**Leader:** Is it yours?
+**Chorus:** It rose in me. It is not me.
+
+**Leader:** Name what rose in you just now.
+**Chorus:** Wanting.
+
+**Leader:** Is it yours?
+**Chorus:** It rose in me. It is not me.
+
+**Leader:** Name what rose in you just now.
+**Chorus:** Anger, dressed as certainty.
+
+**Leader:** Is it yours?
+**Chorus:** It rose in me. It is not me.
+
+**Leader:** Then what are you, when the rising passes and nothing rises to take its place?
+**Chorus:**
+Still here.
+Still breathing.
+The one thing that never once needed naming.
+
+---
+
+### On-page placement
+
+| Volume | Chapter | After what | Scene |
+|---|---|---|---|
+| **V** | any drift-risk moment, panic, or low-grade dread | A surge, a fear, a captured flight's near-miss | Usable solo (internal) or as a mentor walking a younger carrier through it aloud; deliberately portable, not tied to one scene type |
+
+**Reader effect:** a reader who has tracked Eli's drift discipline since `40_drift_somatic_mechanism.md` recognizes the next generation practicing, in different words, the same thing he had to learn alone.
