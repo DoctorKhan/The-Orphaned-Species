@@ -65,9 +65,11 @@ Beyond the storm wall the strait goes wide and bright: open water the color of h
 
 He leans into it, small corrections with knees and hands. Do not look at the buoy yet—look at water and air. Break focus now and you break speed. Beyond the floats, Kiran's sail is still flat on the water. Eli runs the wall-shadow lane he has already chosen, carrying the open sea in his peripheral vision like a secret he is not supposed to need.
 
+The sheet jerks wrong against his fist—give where there should be none, cordage answering slack instead of load. He doesn't look down; looking costs speed, and his palm already knows what his eyes would only confirm. A strand gone. Then a second, fraying faster than plain age has any right to. The sail wants to spill everything it just found. He wraps the tail twice more around his knuckles and holds against the failing lay with nothing but grip and the flat of his forearm, betting the last threads outlast the buoy.
+
 Suresh's voice from the wall: "Now! Hold it!"
 
-He holds it—red and white, sail full, line true—and crosses while Timah is still underwater and Jul is climbing back onto her shoulders, neither knowing they picked a winner. Behind him, Kiran stands on the centerboard and hauls his sail out of the water. Fair loss. Eli read the pocket, the wall, and the channel better than the man ahead of him, and that was the whole race. The open water is still out there, glittering, indifferent, his for that one lane and no longer.
+Race call and literal command land on him in the same breath—he holds it, rope and wind and his own fist one strained argument, red and white, sail full, line true—and crosses while Timah is still underwater and Jul is climbing back onto her shoulders, neither knowing they picked a winner. Behind him, Kiran stands on the centerboard and hauls his sail out of the water. Fair loss. Eli read the pocket, the wall, and the channel better than the man ahead of him, and that was the whole race—that, and a hand that would not let go of rope that had already half decided to let go of him. The open water is still out there, glittering, indifferent, his for that one lane and no longer.
 
 For one stupid second he looks for them on the quay—the old reflex, cut off years ago and still not dead. His mother would have been at the rail with her hair coming loose from its tie, already reading the next shift before the boats tied up. His father would have pretended not to care who won and then adjusted the sheet anyway, muttering about lazy hands. Neither is there. The win lands in his arms alone, salt and rope burn and the hollow where applause from your own people used to go—and under it, still, the sea's brief yes.
 
@@ -76,6 +78,8 @@ For one stupid second he looks for them on the quay—the old reflex, cut off ye
 Kiran comes up the marina steps as Eli pulls in—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out past Timah's boat—being towed back to the anchor by a harbor boy while Jul waves at no one in particular—to the open strait beyond the marks. The sea is still bright. Still wide. Still the thing that made the win feel like belonging for a breath. Suresh sees Eli looking and does not mock it. On the wall someone is already arguing in Bajau and Malay about whether the race owed Timah a clear mark or Timah owed the race a clear fairway. The argument is older than the towers. It will outlive the wager.
 
 "You won," Suresh says. "Don't thank the grandmother. She wasn't helping you." He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "That wager was cash work up the strait—Meridian City, Circuit weekend. Idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's launch at the old hotel pier—papers, then you go. Walk like you belong until something proves you don't." A beat. "Don't make me regret betting on you, boy."
+
+Suresh crouches to coil the loose sheet before Eli can, and his thumb finds the frayed end before his eyes do. He goes still the way harbor men go still—not surprised, just paying closer attention than he wants noticed. He runs his thumb along the cut once, the way he'd check a splice he hadn't tied himself. "That's not chew," he says, mostly to the rope. "That's not salt-rot either." He doesn't finish the thought out loud, and he doesn't finish it for Eli. He folds the frayed end into his own palm instead of the bin, and says nothing else about it—not to Eli, not to the wall, not, as far as Eli can tell, to himself.
 
 Babaji runs the old hotel. He was Rasel's friend—how Eli's name ever reached a contractor ledger in the first place. This morning Eli has won the only cash job on the strait before he knew its name: not Foundry day-shift wages, but weekend show money in the Stack if he can get there. He understands, all at once, what he owes Shireen if Monday is real.
 
@@ -112,6 +116,8 @@ She takes two green coconuts from the icebox and knocks the tops open with the b
 "One for the winner," Mei says, pushing a coconut toward Eli. She gives Kiran the other. "One for the swimmer."
 
 Kiran eats everything anyway. When the kitchen closes, Mei folds the last fritters into paper and tells him his mother has sent three messages and will send a search party next. He leaves still insisting the capsize was an ambush.
+
+Mei watches him go, then stands a moment too long at the rail before she comes back to the table. Suresh had stopped at her counter an hour before service, said four words she has not repeated to anyone, and left before she could ask a fifth. She has decided, somewhere in the time it took Kiran to walk away still laughing, what she is going to do about a thing she cannot name.
 
 Mei takes his empty plate. She leaves Eli's where it is and sits without filling the silence first. "Eat."
 
@@ -1423,7 +1429,7 @@ Her name is Malai Somboon; she is somewhere past fifty; and before she says one 
 
 Before polarity work, Malai sends him to the shaded pad behind the pump house.
 
-**Kru Dao** waits there—short, grey at the temples, a scar through one eyebrow that she never explains. She teaches Muay Thai and Kali to people who need to move under pursuit without becoming a spectacle. She does not ask Eli's story. She looks at his hands the way Khun Dang did, then at his feet.
+**Kru Dao** waits there—short, grey at the temples, a scar through one eyebrow that she never explains. She teaches Muay Thai and Kali to people who need to move under pursuit without becoming a spectacle. She does not ask Eli's story. Where Khun Dang read his hands like weather, she reads his stance like an exit route: weight, sightline, the door he hasn't noticed. She looks at his hands once, dismissively, then at his feet.
 
 "Wat gave you breath," she says. "Breath without footwork is a prayer for someone else's rescue. Again."
 
@@ -2248,6 +2254,8 @@ Wren does not laugh, which makes Luo glance at her with the beginning of approva
 
 Qiao meets them at the next gallery with a tablet and the expression of a man who has already lost an argument with a scheduler. "Your conservation window is four hours," he says. "After that the annex security rotation changes and my clearance becomes a courtesy, not a right."
 
+He says it the way a man says a fact he has already weighed. Eleven years to earn that clearance — the pit at first light before the buses, the bronze answering instruments the way it never answered paper. He is not going to say the rest: that he has already decided to spend it.
+
 Clock B, Eli thinks, without needing Wren to say it: someone else's job with a deadline that is not his father's face.
 
 The Bronze Sacred Tree occupies a room tall enough to give it weather.
@@ -2655,7 +2663,7 @@ The machine translates it as command.
 
 Nine traces snap toward one.
 
-Anika enters the chamber with three Custodians. Tommy Reyes, left hand trembling. Jin Pak carrying a case. Sora last, rain on her hair, collar open enough to show the small medal beneath it.
+Anika enters the chamber with three Custodians. Tommy Reyes, left hand trembling. The scout carrying a case. Sora last, rain on her hair, collar open enough to show the small medal beneath it.
 
 Anika looks at the central trace.
 
