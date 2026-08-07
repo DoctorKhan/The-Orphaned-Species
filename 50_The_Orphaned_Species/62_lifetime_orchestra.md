@@ -141,11 +141,33 @@ same "never compulsion" logic already governing the Shayāṭīn and Eli's own
 refusable calling (`00_NARRATIVE_STRUCTURE.md` § *Chosen integrator*). **A
 video game is designed to offer challenges; it is not a hell** — difficulty
 is not malice, and a world built to be met is not a world built to punish.
-The realization lands through lived experience — flights, guardian-spirit
-contact, complex-time densification — never through a sermon, the same
-discipline already locked as "not a chakra/level-up checklist on-page"
-(§ *What this is not*): the game metaphor is felt in what the young
-generation does with the challenges, never spoken aloud as cosmology.
+Never spoken aloud as cosmology, same discipline already locked as "not a
+chakra/level-up checklist on-page" (§ *What this is not*).
+
+**How it's learned — concrete experience, not exposition.** No character
+states the correction; it accumulates through specific encounters already
+available in the Book V plot, not a list of categories to dramatize in the
+abstract:
+
+- **A capture-path failure, seen up close.** Watching a flight curdle into
+  a gang, cult, prestige club, or psionic elite (§ *Book V bridge* above)
+  shows what a challenge looks like *captured* — someone else's will
+  imposed on it — and throws the difference from a challenge freely met
+  into relief by contrast, without anyone naming the contrast.
+- **A guardian-spirit touch answering a want no one else knew about.**
+  One of the founders' children — Tara or Wren/Eli's son — receives cube
+  contact mid-crisis, and it lands tailored to the specific thing they
+  were struggling with that day. A warden doesn't personalize; only a
+  designer would.
+- **Complex-time evidence felt, not read.** As the network's evidence
+  densifies (§ *Bridge function* above), a young carrier experiences a
+  direct echo of a specific deep-time life — recognizing a gesture, a
+  fear, a skill they never learned in this body — instead of being told
+  the orchestra exists.
+- **A founder's honest doubt, not their certainty.** Eli, Rowan, or Wren
+  admits they only half-understand the structure themselves, which
+  forecloses the temptation to hand the young a finished doctrine instead
+  of a thing they have to earn for themselves.
 
 **The payoff is the whole orchestra, not a lesson — LOCKED 2026-08-06.**
 Book V's generation is the first for whom the correction above is not an
