@@ -5,6 +5,12 @@
 > **Source:** author rendering after Laozi Tao Te Ching Ch 20 (see `../living-way/living-way-knowledge/Laozi/The_Unforced_Leader_Tao_Te_Ching.md`). Not a copyrighted translation.
 >
 > **Second litany:** *The Drifting Heart* — author original, Leader / Chorus form, departure / threshold register — added 2026-08-01.
+>
+> **Third litany:** *The Reed and the Branch* — author rendering after Laozi Tao Te Ching Ch 76, Heather Cube's counter-liturgy — added 2026-08-06.
+>
+> **Fourth litany:** *The Low Place* — author rendering after Laozi Tao Te Ching Ch 8, Laurel Cube's counter-liturgy — added 2026-08-06.
+>
+> **Fifth litany:** *The Single One* — author rendering after Gospel of Thomas §22 (see `../living-way/living-way-knowledge/Core/living-way-guide.md` § *Step 2 — Make the Two One*), Book V's non-duality litany — added 2026-08-06.
 
 ---
 
@@ -311,6 +317,8 @@ Novel beats reference **F1–F10**, not the full liturgy.
 | **12** | — | — | — |
 | **13** | Rasel recovered; Wren displaced, westbound | F9 — scratched on ferry gunwale or sailor's reply | **ON PAGE** |
 
+**Pilgrim-ring texture — LOCKED 2026-08-06:** the queued pilgrims waiting at the Cube's outer and middle rings (`95_glossary.md` § *Pilgrim rings*) are where stray Tier-A fragments like F8 and F1 actually live — chalked on a barrier, scratched into a numbered-pass rail, murmured by someone who has waited years for a ring they'll never see move. None of them reach the full antiphon; the ring system sells proximity, not release. The **full litany** in the service alcove belongs to the show crew instead — Eli's own side, workers who bypassed every ring and never paid for any of it — so the real communal *I alone* happens by accident, off to the side, among people who weren't devoted enough to queue. Do not let a ring-pilgrim character speak into the alcove's full antiphon in Vol I; that convergence is Book III's to earn.
+
 **Vol I reader effect:** six or seven stray lines; one accidental call-and-response at the Cube. Eli thinks people are eccentric. The reader starts to pattern-match.
 
 ---
@@ -616,3 +624,151 @@ Rhyme-sheet row optional (`25`); enactment in scenes beats naming the Lesson.
 |2. **Chorus** = full room, flat, not sung — same group-utterance rule as the Parade Liturgy.
 |3. **Ending:** do not resolve the empty space. Let the scene move into ordinary motion — tea, pot, road, sleep.
 |4. **Do not** let Eli explain it. Let him hear it and recognize it, like he does the Parade Liturgy.
+
+---
+
+## The Reed and the Branch — Heather Cube's counter-liturgy
+
+**Status:** author rendering after Laozi *Tao Te Ching* Ch 76, added 2026-08-06. Leader / Chorus form. Companion to `59_younger_dryas_nucleation_lock.md` § *Heather Cube access — the Reserve*.
+
+**Register:** rigidity read as death, softness read as life — the precise inversion of the Reserve's own mythology, which sells hardness and unhesitating boldness as strength. Where the Parade Liturgy dissolves manufactured unity into shared disillusionment, this liturgy dissolves manufactured courage into the plain fact that the hard thing is usually the thing already dying.
+
+**When to deploy:**
+
+- Not a seasonal gathering form and not communal — this one is private, almost always solo or two-voice, discovered rather than performed.
+- The natural home is a **cut-off Reserve defector** (§ *A free character type this generates*, `59`) encountering the words after losing access — withdrawal past, fearlessness gone, the lines finally making literal sense to someone who has just learned what brittle feels like from the inside.
+- Could also surface as something scratched or murmured near Heather Cube itself, in the same register as the Cherry Cube's stray F-fragments — never the full text on a wall, a half-line at most.
+- **Do not** let a Reserve member currently in good standing recognize or use it. Its meaning only opens after the fall, not before.
+
+**Drafting guard:** never let a character explain the Union's brittleness aloud while reciting this — dramatize the recognition, not the thesis (same rule as everywhere else this bible uses Tao material). No clinical vocabulary; this is a body's discovery, not a diagnosis.
+
+---
+
+### Full text
+
+**Leader:** The strong man stands stiff as iron in the wind.
+**Chorus:** I was born soft, and soft I remain.
+
+**Leader:** The dead tree does not bend, does not break, does not fall.
+**Chorus:** Until it falls all at once.
+
+**Leader:** They gave me a name for courage, and it was steel.
+**Chorus:** Steel is only iron that forgot it could rust.
+
+**Leader:** What outlasts the winter, the branch or the reed?
+**Chorus:**
+The reed bends low and rises after.
+The branch that would not bend lies broken in the yard.
+
+**Leader:** Who kneels first, the strong or the wise?
+**Chorus:**
+The wise kneel to the ground that feeds them.
+The strong kneel only when they break.
+
+---
+
+### On-page placement
+
+| Volume | Chapter | After what | Scene |
+|---|---|---|---|
+| **IV** | TBD, wherever the court's North American chapters land | A former Reserve member is cut off or defects | Solo or two-voice discovery, private, no audience; the character recognizes their own condition in the words without narration explaining the parallel |
+
+**Reader effect:** the reader who has tracked Heather Cube's kneeling-induction ritual (`59` § *Kneeling — the one stable ritual*) feels the last couplet land as a direct, ugly rhyme with that ceremony — never stated, only felt.
+
+---
+
+## The Low Place — Laurel Cube's counter-liturgy
+
+**Status:** author rendering after Laozi *Tao Te Ching* Ch 8, added 2026-08-06. Leader / Chorus form. Companion to `59_younger_dryas_nucleation_lock.md` § *Laurel Cube access — Festival Games*.
+
+**Register:** water's humility — dwelling low, serving without contending, claiming nothing. Unlike the Parade Liturgy's disillusionment or the Reed and the Branch's private reckoning, this one is warm and communal, matching Laurel's own festival culture: sung or spoken at the margins of the Games, among pilgrims who did not win and are making peace with that.
+
+**When to deploy:**
+
+- Free Ports gatherings, ideally at the edges of the Festival Games (`59` § *Laurel Cube access*) — after the contests, among the pilgrims who did not win a vision-quest slot.
+- Fits keeper-house hospitality scenes: hosted, communal, no stage, no winner privileged over anyone else in the room.
+- Pairs naturally with Laurel's carrier-bias rule — this liturgy is sung by people who may never personally receive Wisdom's clarity, making peace with that in advance rather than after a loss.
+
+**Drafting guard:** keep it un-bitter. This is not the Parade Liturgy's disillusionment or the Reed and the Branch's reckoning — it should read as contentment, not consolation. No character frames it as a consolation prize.
+
+---
+
+### Full text
+
+**Leader:** The highest good does not climb the mountain to be seen.
+**Chorus:** I flow to the low place nobody wants.
+
+**Leader:** The strong man fights for the summit and the view.
+**Chorus:** I ask for the valley, and the valley is enough.
+
+**Leader:** They built a tower to hold what they found there.
+**Chorus:** I hold nothing. I only pass through, and give what I carry away.
+
+**Leader:** Who deserves the clear sight, the loud or the low?
+**Chorus:**
+Not the one who shouts loudest for it.
+Not the one who pays the most for it.
+The water finds its own level, and asks no one's permission.
+
+**Leader:** What does the sea refuse?
+**Chorus:**
+Nothing. That is why it is the sea,
+and the mountain is only a mountain.
+
+---
+
+### On-page placement
+
+| Volume | Chapter | After what | Scene |
+|---|---|---|---|
+| **II–III** | wherever Laurel Cube / Delphi Free Port texture lands | Festival Games conclude | Communal, at the margins, among pilgrims who did not win a vision-quest slot; hosted by a keeper house, not performed for an audience |
+
+**Reader effect:** completes the three-cube counter-liturgy set without repeating a register — Cherry gets disillusionment (Tao 20), Heather gets private reckoning (Tao 76), Laurel gets contentment (Tao 8).
+
+---
+
+## The Single One — Book V's non-duality litany
+
+**Status:** author rendering after Gospel of Thomas §22, added 2026-08-06. Leader / Chorus form. Companion to `62_lifetime_orchestra.md` § *Opening misreading* / § *How it's learned*.
+
+**Register:** the collapse of imposed division — prisoner/warden, inside/outside, above/below, male/female — read as garments laid over a single thing, not the thing's true shape. Where the other four litanies answer a specific cube's or bloc's failure mode, this one answers Book V's own opening error directly: the Gnostic prison-reading is itself a divided-seeing, and the correction is not a counter-argument but a return to before the line was drawn.
+
+**When to deploy:**
+
+- Not tied to a cube or a bloc — this is the neo-śramaṇa / flight register, discovered rather than institutional, fitting the teahouse-pilgrimage-gone-ordinary texture already locked for Book V.
+- Best placed *after* one of the concrete "how it's learned" beats (`62` § *How it's learned*) — a capture-path failure, a tailored guardian touch, a felt complex-time echo, a founder's admitted doubt — as the moment that crystallizes what was already lived, never as the thing that teaches it.
+- **Do not** let anyone recite this as an argument against the prison-reading. It only works spoken by someone who has already stopped needing to win that argument.
+
+**Drafting guard:** never let a character explain the non-duality while reciting it — same rule as everywhere else this bible uses source material. No character says "warden" or "designer" in the same breath as this text.
+
+---
+
+### Full text
+
+**Leader:** Watch the child still at the breast. Has anyone told it yet that the hand which feeds and the mouth which is fed are two things?
+**Chorus:** It knows one thing. Warm, and whole, and not yet asked to choose a side.
+
+**Leader:** They will teach it inside from outside, above from below, prisoner from warden.
+**Chorus:** Before the teaching, there was only the one water.
+
+**Leader:** Make the two into one, and the inside like the outside, and the outside like the inside.
+**Chorus:** One eye where there were two, watching each other across a line that was never there.
+
+**Leader:** Make the high like the low, the hand in place of the hand, the eye in place of the eye.
+**Chorus:** Not a new thing built. The old division, finally let go.
+
+**Leader:** Who enters the kingdom — the one who never divided the world, or the one who divided it and then remembered?
+**Chorus:**
+Not the child who stays a child.
+The one who grows, and grows past the line,
+and un-draws it.
+
+---
+
+### On-page placement
+
+| Volume | Chapter | After what | Scene |
+|---|---|---|---|
+| **V** | wherever the Gnostic-error correction lands (`62` § *Opening misreading*) | One of the four concrete learning beats has already landed for a specific character | Discovered fragment among a flight or at a teahouse gathering gone ordinary; spoken by someone who has stopped arguing the prison-reading, not someone still making the case |
+
+**Reader effect:** closes Book V's own error-to-correction arc, and the "two made one" language rhymes forward with the trilogy's closing Two-Trees-reunited / rainbow-tree image (`35_artifact_chain.md` § *Two-Tree Union*) — the same move at two different scales, never stated as the same move.
