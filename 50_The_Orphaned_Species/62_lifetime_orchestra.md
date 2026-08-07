@@ -147,6 +147,28 @@ discipline already locked as "not a chakra/level-up checklist on-page"
 (§ *What this is not*): the game metaphor is felt in what the young
 generation does with the challenges, never spoken aloud as cosmology.
 
+**The payoff is the whole orchestra, not a lesson — LOCKED 2026-08-06.**
+Book V's generation is the first for whom the correction above is not an
+idea to accept but a civilization to inherit: the "thousands of years" is
+not backstory color, it is the actual runtime of the process this bible
+has been staging since the deep-time lives — the Seven's independent
+refusals of the offered father (`37_deep_time_source.md` § *The Seven
+quietly cut against it*), the Two Trees split and slowly reunited
+(`35_artifact_chain.md` § *Two-Tree Union*), the no-single-owner principle
+now governing three warring blocs' relationship to the cube fragments
+(`59_younger_dryas_nucleation_lock.md` § *The holistic lock*), the
+guardian-spirits still keeping faith across every fall. None of it was
+aimed at Book V specifically; Book V is simply the first era standing far
+enough downstream to see the pattern completed rather than in progress.
+**Still not a taught thesis — same discipline already locked above**
+(§ *What this is not* — "these lives teach the reader the thesis" is
+explicitly refused): the young generation does not receive a lecture on
+"the meaning of life." They are simply the first to grow up inside a
+society that already, structurally, works the corrected way — chosen, not
+owned; met, not punished; freed, not deceived — and only in hindsight,
+living it, do they, and the reader, recognize what every prior life in the
+orchestra was quietly rehearsing.
+
 ## Direction preference — past lives through the Master Timeline (working 2026-07-31)
 
 **Prefer past lives.** Default lifetime-novels inhabit eras already on
