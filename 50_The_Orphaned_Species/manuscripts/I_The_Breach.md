@@ -65,7 +65,11 @@ Beyond the storm wall the strait goes wide and bright: open water the color of h
 
 He leans into it, small corrections with knees and hands. Do not look at the buoy yet—look at water and air. Break focus now and you break speed. Beyond the floats, Kiran's sail is still flat on the water. Eli runs the wall-shadow lane he has already chosen, carrying the open sea in his peripheral vision like a secret he is not supposed to need.
 
-The sheet jerks wrong against his fist—give where there should be none, cordage answering slack instead of load. He doesn't look down; looking costs speed, and his palm already knows what his eyes would only confirm. A strand gone. Then a second, fraying faster than plain age has any right to. The sail wants to spill everything it just found. He wraps the tail twice more around his knuckles and holds against the failing lay with nothing but grip and the flat of his forearm, betting the last threads outlast the buoy.
+The sheet jerks wrong against his fist—give where there should be none, cordage answering slack instead of load. He doesn't look down; looking costs speed, and his palm already knows what his eyes would only confirm. A strand gone. Then a second, fraying faster than plain age has any right to.
+
+For one whole second the skiff stops being a thing he understands. The hull leans hard into the gap where tension used to live; water climbs the leeward rail close enough to taste, cold and sudden against his knuckles. His heart slams once, high and stupid in his throat—the same old animal alarm that used to count doors in a room before he knew why he was counting them. *Not here.* Not for a wager, not in a strait where no one is keeping his name on any list that matters. He thinks, faster than thought should move, of Shireen's voice he hasn't heard yet today, a clinic deposit due Monday, and how fast the bottom of the channel would make that debt permanent and unpayable both.
+
+The sail wants to spill everything it just found. He wraps the tail twice more around his knuckles and holds against the failing lay with nothing but grip and the flat of his forearm—forearm already burning, palm opening into a thin white line he will feel for days—betting the last threads outlast the buoy before his hand does.
 
 Suresh's voice from the wall: "Now! Hold it!"
 
