@@ -30,7 +30,7 @@ Her present design also carries several risks:
 - Her wounds and habits mostly serve danger, rescue, or romance.
 - Her visible softness is small and familiar—eating badly, falling apart when cared for, an old love—while her operational competence receives much more space.
 - If her principal vulnerability is that she secretly wants care, she can feel written to make a guarded woman romantically accessible rather than fully known.
-- **Resolved (2026-07):** Eli is **22**; Wren is **19** (`31` Ch 5). Operational dependence and handler knowledge remain the consent issue, not age gap alone.
+- **Resolved (2026-07):** Eli is **21**; Wren is **18** (`31` Ch 5). Operational dependence and handler knowledge remain the consent issue, not age gap alone.
 
 The solution is not to make Wren warmer. It is to give her a **self that does not exist for Eli or the war**.
 
@@ -104,7 +104,7 @@ At least three of these women should speak to one another about an objective tha
 
 ## Immediate drafting choices
 
-1. **Resolved:** Eli is 22; Wren is 19. The remaining power issue is operational dependence, not an older handler/younger rescued person.
+1. **Resolved:** Eli is 21; Wren is 18. The remaining power issue is operational dependence, not an older handler/younger rescued person.
 2. **Added:** Asha Raman, Wren's living non-romantic friend and extraction-network co-founder.
 3. **Added:** daylight swimming as ordinary pleasure; designing a humane threshold house in an abandoned ferry terminal as Wren's pre-Eli ambition.
 4. **Placed:** the Wren-only Laleh extraction failure opens Volume I Chapter 8 in Wren POV; a hard section break precedes the return to Eli.

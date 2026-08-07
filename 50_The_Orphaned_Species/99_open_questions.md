@@ -2,6 +2,53 @@
 
 *Working decision log for the present-day series (Books I–IV civic; Books V–X Lifetime Orchestra count locked — `SERIES_STRUCTURE.md`). This file tracks missing structural commitments, not additional lore to accumulate. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `17_reveal_order_and_reader_impact.md`, `28_present_day_trilogy_craft_index.md` (legacy filename), **`55_series_pitch_and_comps.md`**, and `50_The_Orphaned_Species/00_NARRATIVE_STRUCTURE.md`. Do not call the novel a trilogy in new materials.*
 
+## Architecture synthesis lock — 2026-08-06
+
+Full-depth review (all governing docs + `Books/` survey) confirms the locked
+family shape and records the *why*, so the count stops being relitigated:
+
+- **14 core = 10 Layer 1 novels + 4 Layer 2 companions.** Satellites outside
+  (`63`; only the Wren/Rowan Brand B romance is justified now).
+- **Why 4 civic volumes (I–IV):** each volume owns one distinct Term-2 scale
+  (I feeling/self-knowledge · II consent/control · III politics/authority ·
+  IV subtle power/succession). The site activation map (`61`) assigns every
+  timeline phase a carrier *inside* the four volumes; the pull list is fully
+  allocated; nothing requires a fifth civic book. Three would collapse the
+  scales; five would sprawl. Self-terminating ("ordinary life possible — not
+  another volume cliff"); civic pitch may stop at I–IV.
+- **Why V Bridge:** the only non-sermon path from civic to metaphysical — the
+  young leaving a society built so they could leave; gear shows via tech.
+- **Why exactly 4 past lives (VI–IX):** the era shortlist (Göbekli/early
+  control · Refusal–Adapa · Abandonment *or* Sanxingdui · Age of Heroes/Albian)
+  maps to the control pattern's four distinct failure modes. Fewer and the
+  orchestra cannot accumulate the parts Ω must hold at once; more and each
+  life loses full-novel attention (Model B compression rejected for immersion
+  tax). Standalone test is hard: a life that can't carry a novel without
+  metaphysics is not ready.
+- **Why one Ω (X):** braid + lucid creation + Iblīs-as-engine. A second
+  metaphysical capstone would sermonize.
+- **Why 4 companions:** clean Three-Term mapping (SG=T1a · MO=T2 body ·
+  HE=origin · CG=T2 civilization→infinite). Companion rule unchanged: explain
+  what the novels dramatize; never solve what the novels are still testing.
+- **Refused:** future-Earth cycle, ninth-book Eli saga sprawl, destiny
+  reincarnation romance, per-character satellite spam.
+
+**Critical path (LOCKED order):**
+1. II–IV density parity with I (IV is the emergency).
+2. **Cosmic Game reconciliation BEFORE Book II finalizes** — soul-scale
+   reincarnation (author-confirmed canon 2026-07-28) vs `34`'s single-category
+   human-dead taxonomy. Working hypothesis: soul-scale ring nested under
+   species-scale (fractal verdict). Propagates backward into Book II's Maren
+   release / tethered-soul mechanics and forward into V–X's braid premise.
+   Route: dedicated `95_archive/` pass incl. "Trial of the Framework."
+3. Climax-mechanism author decisions (`41`): named death, lattice density,
+   Custodian fates, re-corruption seed, seed-pattern sensory form.
+4. V–X per-life cards (want / Clock A+B / antagonist job) → era locks VI–IX →
+   reading-order decision (lean: A remembering-backward with C soft-link
+   packaging).
+5. Companion migrations (see `99_active_todo.md` 8b–8d; Cosmic Game scaffold
+   gated on item 2).
+
 ## Priority -2 — pitch, comps & clue-chain gate (LOCKED 2026-07-25; pressure rules 2026-07-29) **HIGH PRIORITY**
 
 **Canonical doc:** `55_series_pitch_and_comps.md`
@@ -36,7 +83,13 @@ The series has a strong thematic spine, ending architecture for Books I–IV, an
 
 Do not solve thin pressure by adding more lore. Solve it by deciding who wants what, where, by when, against whom, and what is lost **into the next chapter**.
 
-**Deep-time residue density — LOCKED 2026-07-30:** The Master Timeline is larger than four novels. Embody more of it through **fossils in rooms** (~one residue every 1–2 chapters: object / place / practice / saying / bureaucratic form / bodily reaction), not Phase lectures. Ancient faces: **I** living plants/Sanxingdui tree · **II** Sídhe/Göbekli/Refusal · **III** Forks+Loop+Umul · **IV** court as fossil temple. Per-chapter 5-question test in `17_reveal_order_and_reader_impact.md` § *Deep-time residue density*. Wired into `31`/`32`/`33`/`60`; Book I Ch 1–3 manuscript seeded 2026-07-30; **Book I Ch 5–13 + Book II Ch 1–2/6 residue prose pass 2026-07-30** (full chapter residue lines now on beatsheets).
+**Deep-time residue density — LOCKED 2026-08-30:** The Master Timeline is larger than four novels. Embody more of it through **fossils in rooms** (~one residue every 1–2 chapters: object / place / practice / saying / bureaucratic form / bodily reaction), not Phase lectures. Ancient faces: **I** living plants/Sanxingdui tree · **II** Sídhe/Göbekli/Refusal · **III** Forks+Loop+Umul · **IV** court as fossil temple. Per-chapter 5-question test in `17_reveal_order_and_reader_impact.md` § *Deep-time residue density*. Wired into `31`/`32`/`33`/`60`; Book I Ch 1–3 manuscript seeded 2026-07-30; **Book I Ch 5–13 + Book II Ch 1–2/6 residue prose pass 2026-07-30** (full chapter residue lines now on beatsheets).
+
+**Rootbook word-web prose pass — DRAFT-ALERT 2026-08-06:** The comparative cipher, reader apprenticeship track, and philological beats are locked in `52_the_rootbook_word_web.md` and `charkha-craft-lock.md`, but most have no manuscript coverage. Required prose landing per volume:
+- **Book II:** *népoth₁e* / "sky-children" first bounded unlock; Eli/El/Asherah name-line marginal note; Charkha artifact (spoked wheel on stone tablet) as organization relic; reader sees recurring word forms before reconstruction lands.
+- **Book III:** *népoth₁e* capstone as series-title decode; Divine Twins rumor + St. Elmo's fire maritime texture; Brazilian teahouse triple-register as reciprocal-circuit embryo; Maren's full error/correction/redaction set.
+- **All volumes:** reader-facing cognate puzzle must have enough recurring forms on-page to attempt the relationship before each answer lands (`52` § *The comparative cipher*, `17` § *Expertise fantasy*).
+Track detail: `98_craft_review_backlog.md` #7.
 
 **Anocracy / Continental Union fracture — LOCKED 2026-07-31:** Book III Union shatter = hybrid-regime failure under war shock (civic costume + Continuity capacity), not democracy-or-dictatorship failed. Strongman-by-proximity = fill the incoherent middle; compact refuses that middle. Never say *anocracy* on-page. Full lock: `33_volume_III_beatsheet.md` § *Anocracy / Union fracture*; research floor `90` §5.6.
 
@@ -113,6 +166,8 @@ The world is not at peace. “Post-war” in legacy notes means after WWIII's ho
 - The outbreak does not create psionic capacity, the field, or souls. It lowers and destabilizes access to receiver biology already latent in humanity, making activation far more widespread and visible.
 - Eli was born around 2018, experienced natural pre-outbreak adolescent threshold symptoms, and is not a post-outbreak gene-drive child. His TBI creates no power.
 - Children infected before puberty form the first mass threshold cohort by the novel present; later descendants can inherit the construct. Adults can also activate less predictably under extreme stress, illness, deliberate induction, charged ground, and—after Book II—Maren's release through the living web.
+- **Latent repair / somatic capacities in survivors — LOCKED 2026-08-06:** the outbreak survivor population carries more than receiver thresholds. Latent **self-repair and regulatory capacities** also surface — slowly, unevenly, and mostly unwitnessed — in the same population, accelerating after Book II's release. Presentation is bodily, not theatrical: old damage quietly resolving, expected degenerations failing to arrive, infertility reversing without procedure. Nobody is certified healed; the clinics simply begin logging the pattern. Wren's changed body (→ `60` § End state) is one on-page instance, not an exception. Guardrails: these capacities cannot be summoned, commanded, or productized; they do not reverse the acute dead; they do not make anyone unkillable; and they arrive without explanation — Somchai's trained healing remains categorically different (directed, other-focused, costly).
+- **Early reproductive decline as construct consequence — LOCKED 2026-08-06:** the construct's cost is not only psionic. A **minority** of construct survivors show **early reproductive decline** — fertility falling in the early-to-mid twenties where the old world expected a decade more. Statistical, not universal; known enough to change behavior (some people, told their window may close early, try younger than they otherwise would — a rational, biology-coerced choice the pronatal machinery exploits), rare enough to stay deniable, and unverifiable enough that no state can screen for it without becoming the registry. Wren's Book IV infertility diagnosis (~23–24) is one instance — legible to the *reader* as weapon consequence, not yet to her. The IV→V latent-repair reversal is then the same biology at opposite sign: the weapon's cost quietly reversed by the weapon's other gift. This is the Two Trees in a body, and it stays unexplained on-page.
 
 ## Cast flesh — expanded profiles (`26_present_day_cast_expanded.md`)
 
@@ -137,7 +192,7 @@ Working character bible from cast review. Core names and relationships are now f
 
 ### Core cast locks — RESOLVED 2026-07-19
 
-- **Custodians:** Captain **Anika Voss** (Lead/Locker; survives, arrested and testifies without redemption), Tomás “Tommy” Reyes (Lance; dies during a civilian-protection failure), **Sora Vithan** (Shield; Mira Okonkwo's former partner; leaks Hassan's route, defects into Wren's network, survives under scrutiny), and Jin “Grey” Pak (Mask/Scout; leaves the unit and later resurfaces as a protected witness).
+- **Custodians:** Captain **Anika Voss** (Lead/Locker; survives, arrested and testifies without redemption), Tomás "Tommy" Reyes (Lance; dies during a civilian-protection failure), **Sora Vithan** (Shield; Mira Okonkwo's former partner; leaks Hassan's route, defects into Wren's network, survives under scrutiny). **Jin "Grey" Pak RETIRED 2026-08-06** — fourth member is **the scout**, unnamed on-page.
 - **Somchai Vichai:** RN and field medic, not a saint or supernatural authority. He refuses public coronation, remains part of a distributed clinic network, and is Eli's bodily and ethical counterweight.
 - **Tomas and Nia Okafor:** siblings traveling together from the pursued boat. Tomas is the sponsored awakened refugee; Nia is his older sister, a non-psionic boat mechanic and caregiver. Tomas's nonconsensual mind-entry kills Nia.
 - **Chapter 3 survivor (formerly “Chapter 25 survivor”):** **Amara Okafor**, Nia's wife. She survives, names Eli's responsibility in the inquiry, and never owes him forgiveness.
@@ -409,14 +464,14 @@ strike training; and the premise that Wren's people compete with Eli's trail.
 
 **Working name: "the Custodians"** (carrier slang; bland official designation TBD). **Faction:** a national/bloc psion program's deniable field unit, **contracted to and leveraged by the Charkha Measure** — they work with Lang and fear him, but are not his creatures (he holds leverage; he can have any of them harvested once spent). **Cover:** a transnational **biosecurity / quarantine-enforcement** unit — which lets them move through ports, board ships, access health and immigration records, and operate with authority in the reopening world. Perfect for the maritime chase and the outbreak backdrop. **Eli Book I read (LOCKED 2026-07-26, dual-true + costume):** he files them as **Mandate biosecurity / Rasel's son / loose ends** — Charkha **wears Mandate's face** for the Eli/mother hunt. Late Book I: costume seams (*somebody else's leash*), no word **Charkha**. Book II names the apex — **wore the Mandate's face; got Maren; you've been running their map**.
 
-**The dark mirror — the spine of why they matter.** All four are **themselves carriers who took the collar** — served the program to avoid being disappeared/harvested. They hunt their own kind to survive. That is the road **Wren refused from outside**, and **Eli** is what they might have become if they'd risked flight. They are not only an obstacle; they are a road-not-taken for both leads. A found-family of the coerced, which complicates simple enmity.
+**The dark mirror — the spine of why they matter.** All are **themselves carriers who took the collar** — served the program to avoid being disappeared/harvested. They hunt their own kind to survive. That is the road **Wren refused from outside**, and **Eli** is what they might have become if they'd risked flight. They are not only an obstacle; they are a road-not-taken for both leads. A found-family of the coerced, which complicates simple enmity.
 
-**Members (4; roles from `38`; names adjustable):**
+**Members (3 named + 1 unnamed — REVISED 2026-08-06):** Jin "Grey" Pak retired (never spoke on-page across two manuscripts). The fourth Custodian is now **the scout** — an unnamed functional role for stealth/decoy work — unless a want-driven beat earns a name. Named roster:
 
 1. **Lead / Locker — a seer.** Holds signatures, sees the plane, commands; rations the team's exertion against the metabolic cost. A pragmatic true-believer in managing a real danger (Lang's argument, embodied below Lang). Fears Lang, uses him.
 2. **The Lance.** The one who hurts people — most willing, most damaged; over-uses the gift and pays the neurological price (tremor, burnout). His willingness is armor over self-loathing.
 3. **The Shield / conscience — the defection candidate.** Holds the team's coherence and tries to spare civilians; bound to the others by love and debt but fraying. **Tied to Wren's wound:** the woman Wren failed to save was this member's [sister / lover / recruit] or died in front of them. *Might* defect — not guaranteed — over civilian harm or that old death. By Vol III, plausibly into Wren's network.
-4. **The Mask / Scout.** Stealth, decoys, false signatures, infiltration — and the socially fluent one who can run seduction/manipulation ops (the *Liaisons*/honey-trap thread, the team's tie to the courtly-intrigue layer). Youngest, most amoral or most coerced.
+4. **The Mask / Scout — UNNAMED (2026-08-06).** Stealth, decoys, false signatures, infiltration, and the socially fluent one who can run seduction/manipulation ops (the *Liaisons*/honey-trap thread, the team's tie to the courtly-intrigue layer). On-page: **the scout**, no name — if the honey-trap beat (`32` *Liaisons*) or another want-driven scene needs a face, promote then and not before.
 
 **What they do together that no lone psion can:** simultaneously **lock + Block + Lance + shield** (one pins the signature and jams the target onto autopilot while another attacks and a third shields the team) and run **coordinated entrainment** (multiple broadcasters syncing one target or a crowd). This is precisely the breach-aftermath threat: they can pin Eli while the Lance works. A lone psion cannot do all of this at once.
 
@@ -728,6 +783,13 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 **Pilgrimage pathway (full map):** `29_trilogy_plot_and_development.md` § Pilgrimage pathway — macro route, three tiers of place, Albion sequence, **Dilmun vs present-day stops**.
 
 **Dilmun:** deep-time nursery memory (Persian Gulf / Qingu reserve in `00_MASTER_TIMELINE`); present plot meets it through **Mesopotamian artifact leg** (Vol II), not as a mandatory Tier-C charged ground like Stonehenge unless `#7` race adds a Gulf port beat.
+
+## Poly-structure pitfalls — parked for later development (2026-08-07)
+
+Two more real polyamory pitfalls surfaced alongside the escape-hatch, hub-labor, and irreplaceable-history issues now locked in `27_character_development_arcs.md` § *Witnessing, not taming*. Not yet developed into scenes; kept here so they aren't lost.
+
+- **Asymmetric social markers reading as hierarchy.** Rowan/Eli get a child and formal co-parent status in Book IV; Wren/Eli have no equivalent marker. The bible is deliberate that the bonds aren't ranked, but a reader — or Wren herself — could still feel the visible asymmetry. May need one scene addressing it head-on rather than trusting subtext alone to land it.
+- **Compersion failure.** Not jealousy-as-anger, but the quieter failure of genuinely trying to feel happy for a partner's happiness with someone else and not quite managing it — then feeling guilty about the failure on top of the original feeling. Currently unused anywhere in the bible.
 
 ## Secondary decisions
 

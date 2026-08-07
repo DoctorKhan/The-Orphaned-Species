@@ -39,6 +39,18 @@
 - **Do not conflate:** somatic signature (felt read) vs. **activation** (measurable flare). Wren may say "you're loud" about **flare**, not fever-trick.
 - **Union mistake:** registry treats all anomalous reads as **contagion / Fractured** — suppresses the diagnostic gift along with threshold episodes.
 
+## Extension — the anticipatory read (timing, not content) — LOCKED 2026-08-06
+
+**One-line meaning:** the same nerve/palm receptivity that reads a body's present condition also picks up the involuntary physiological build just **before** a shift — a caught breath, a muscle tightening a half-second ahead of a laugh, a flinch, an interruption. It is a **rhythm read, not a content read**: Eli feels *when* something is about to move, never *what* it means or *why*. This is not a fifth signature in the taxonomy above (it doesn't map to a condition); it is the same gift's leading edge.
+
+**Why this doesn't contradict anything already locked:**
+
+- **Not the trained body-language games** (`23_2040_present_frame.md` § *Body-language literacy games*) — those read content (interest, threat, deception) and are Wren's domain, learnable from modules. This is psionic, involuntary, and reads only tempo — categorically different, and explicitly not something the games could teach.
+- **Not a fix for his established blind spot** — he can feel exactly when a beat will land while still having no idea what someone actually wants or feels (`00_NARRATIVE_STRUCTURE.md`: "can still misread unfamiliar social games and Wren's methods"). Timing and comprehension are separate axes; this gift only ever touches the first.
+- **Explains, in-world, why he reads as the ensemble's dry straight man** (`24_comedic_register_slapstick.md` § *Ensemble*) — his deadpan lands because he can feel the room's actual beat, not because he's calculating a joke. Never let a character or narrator name this connection on-page; it should be felt the way the rest of his gift already is.
+
+**Prose discipline:** same restraint as the rest of this file — a held breath he feels before he understands why he waited half a second longer, a line landing "on the beat" without him choosing the beat consciously. No mind-reading language, no "he knew what she was about to say" — only the bodily precursor, never the content.
+
 ## Plot hooks (`31` beatsheet)
 
 - **Ch 1:** garden — hands get **wrong reads** in soil (tingling? flat nothing?) — not "warm useless gift"

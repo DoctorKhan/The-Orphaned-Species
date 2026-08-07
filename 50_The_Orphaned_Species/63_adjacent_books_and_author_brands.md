@@ -102,6 +102,18 @@ replace main-series romance staging. They are **not** part of the locked
 
 ---
 
+## 3a. Adjacent media beyond books (games) — PARKED note, 2026-08-07
+
+**Not a commitment, not a project — a standing note that the door is open.** Same "satellites are chapels" spirit as § 2, extended past print: this world's abilities (somatic signatures, the timing-read extension, the trained body-language games, and any later-added, more overtly scifi/fantasy powers not yet fit for the novel's bounded design) are raw material for a possible future **board game, card game, or video game** — a *Dune* precedent, not a *Dune* commitment: Herrick/Villeneuve-era Dune games gamify prescience, the Voice, Mentat calculation, and melee combat into flashy discrete mechanics, and none of that pressure ever bent the novels themselves, which stay restrained and interior about all of it.
+
+**The split this protects:** the novel keeps Eli bounded, human-earned, and power-≠-combat, exactly as already locked (`15_character_grounding_and_relatability.md` § *Eli's Thailand martial + chi-body*; `32_the_warm_hands.md`). A future game adaptation is free to gamify any ability — including speculative ones that don't fit this novel's register at all, like an energy-through-the-body-and-into-the-environment ability enabling combat-grade reflexes, floated as possibly belonging to "some future scifi/fantasy version," undecided whether it's even set in this world — without either side needing to reconcile with the other. Canon restraint and game spectacle are allowed to diverge on purpose.
+
+**The primer concept, if it's ever needed:** Dune games open with a spice explainer — the one substance that makes everything else (prescience, travel, power) possible. This world's equivalent double-act is already sitting in the bible, unbuilt as a game concept: **ley lines** (the living web / charged grounds — the resource and connective tissue, already the thing guardian-spirit contact and complex-time evidence run on) and **the three cubes** (Power/Courage/Wisdom, one per bloc, already a faction-power system with a built-in "no single owner" balance rule — `59_younger_dryas_nucleation_lock.md` § *The holistic lock*). Between them: a resource/setting concept (ley lines) and a faction-ability concept (cubes) — the same two-part shape spice/Great-Houses gives Dune games, already sitting in canon rather than needing invention.
+
+**Action item: none yet.** This is a placeholder for a door, not a design doc. Revisit only if a specific game project becomes real.
+
+---
+
 ## 4. Index
 
 | Need | Doc |
