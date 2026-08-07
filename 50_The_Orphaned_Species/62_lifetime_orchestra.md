@@ -120,6 +120,18 @@ observations—not through a neo-śramaṇa sermon.
 Governing line: **The parents built a society in which the young could leave.
 The young use that freedom to build a society their parents do not understand.**
 
+**Cold open, before the opening misreading — LOCKED 2026-08-06.** Book V's
+actual first pages are comedy, not cosmology: **"The three visitors"**
+(`24_comedic_register_slapstick.md` § *The three visitors*) — three bloc
+delegations, each for their own self-interested reason, converging by
+coincidence on Wren/Eli's son's birth, none of them acknowledging what
+their arrival together looks like. This is where the IV→V interval
+(§ *Personal engine* above) actually lands on the page, since the interval
+itself is a gap between books rather than a shelf either book covers. The
+heavier correction-arc below follows it, not the reverse — the reader
+meets this generation laughing at institutions before meeting the error
+they'll have to out-grow.
+
 **Opening misreading — LOCKED 2026-08-06.** Book V opens on the young
 generation's own theological mistake, arrived at independently rather than
 inherited: that the physical world is a hell, designed as a prison, its
