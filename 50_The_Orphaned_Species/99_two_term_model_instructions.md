@@ -43,7 +43,7 @@ This is a **structural overlay**, not a draft checklist. It maps every major mis
 | Community | Norm | Fatal gap |
 |---|---|---|
 | Pelangi Reach | Culture-first, negotiated, incomplete | The Reclamation's wealth dependency; the refugee who exposes the myth |
-| Meridian City | Registry, order, evidence-based control | Cannot account for what it has not measured; Eli's receiver |
+| Singapore | Registry, order, evidence-based control | Cannot account for what it has not measured; Eli's receiver |
 | Malacca cooperative | Live fields, Maren's bounded journal, Anika's offer | War pressure + Rasel's coerced physics; cannot hold the civilian gate |
 | Albion cloister | Men's cloister, repair crews, veterans, thread elders | Post-release relief that cannot fund itself; Somchai's crown temptation |
 | Brazilian river settlements | River-port network, clinics, growers, threshold houses | Continental fracture; Lang's persuasive offer when welcome fails |

@@ -166,14 +166,14 @@ Same shape, different vocabulary: an insider class gets its risk socialized by t
 | **Robotics** | **Scarcer than near-future default** — software scaled; **embodied** automation did not. See § *Robotics lock* below | Patched **robot dog** (legacy, one route); fixed **automatic chess**; **drones** at war/perimeter — not a robot in every plaza |
 | **Consciousness science** | Fringe → **funded fringe**: EEG/fMRI + anomaly correlation; fringe researchers (including Maren's own work) marginalized but instrumented | signatures "measurable, meaning withheld" |
 | **Transport** | EVs common in cities; **maritime still diesel-heavy** in Eli's class | Racing sailboats vs Suresh's stained hull |
-| **Finance/status** | Platform wages, gig facilities work, refugee precarity, **crypto-broken remittance lanes** (street: *transfer* / *push* / *clear* — no brand names on-page) | Island **chits** vs Meridian **cash**; Eli → Shireen clinic **phone transfer** after Cube intake; squeeze kills bars **and** remittance |
+| **Finance/status** | Platform wages, gig facilities work, refugee precarity, **crypto-broken remittance lanes** (street: *transfer* / *push* / *clear* — no brand names on-page) | Island **chits** vs Singapore **cash**; Eli → Shireen clinic **phone transfer** after Cube intake; squeeze kills bars **and** remittance |
 | **Education** | AI-scaled curriculum, drilling, testing, and translation running **repurposed child infrastructure** on skeleton human staff; real craft and skill still transmitted hand-to-hand, never screen-to-screen. See § *Education lock* below | A half-empty schoolhouse with one overworked instructor and an adaptive drill app; Rasel teaching garden chemistry no tutor app could give Eli |
 
 **Avoid:** flying cars, Mars colonies, full VR life, everyone in spandex, magic holograms everywhere, **humanoid robots as background furniture**.
 
 ### Robotics lock — humanoid rare; embodied automation scarce (LOCKED 2026-07-26)
 
-**One-line rule:** the world has **more AI in software than bodies in metal**. Humanoid robots are **rare, expensive, and political** — mostly found in **Meridian City / the Stack** and other **power centers** (Union relocated capitals, bloc headquarters, prestige campuses). They **signal industrial reach**, not everyday life.
+**One-line rule:** the world has **more AI in software than bodies in metal**. Humanoid robots are **rare, expensive, and political** — mostly found in **Singapore / the Core** and other **power centers** (Union relocated capitals, bloc headquarters, prestige campuses). They **signal industrial reach**, not everyday life.
 
 **Why so few:**
 
@@ -189,7 +189,7 @@ Same shape, different vocabulary: an insider class gets its risk socialized by t
 
 Late-2020s–early-2030s culture **did not understand** that building and maintaining robot bodies is a **continuous fight against entropy** — not a one-time install. Copying a model is cheap; **keeping ordered matter ordered** costs power, heat, precision parts, fabs, and **human maintainers** (fewer after the baby bust). Software scaled because bits don't rust. Humanoid robots didn't because **every body is entropic death technology** — a local island of order that **runs down** unless constantly fed.
 
-**Only life** — keeper chains, healing, living web, bodies that repair — touches the **anti-entropic** register. Meridian's lobby humanoid is **status theater**: pretending the entropy bill was prepaid forever. Pelangi's royal kiosks **promised** robot cities; the island got **patched quadrupeds** and maintenance debt.
+**Only life** — keeper chains, healing, living web, bodies that repair — touches the **anti-entropic** register. Singapore's lobby humanoid is **status theater**: pretending the entropy bill was prepaid forever. Pelangi's royal kiosks **promised** robot cities; the island got **patched quadrupeds** and maintenance debt.
 
 **On-page texture (not lecture):** Babaji's robot dog **ticks and stalls**; one humanoid at Stack intake draws stares; a clerk says *we can't get parts*; Eli maintains **cable runs** while the dog route needs a **human** to reset. Tie to Eli's facilities work — he knows embodied systems **decay**.
 
@@ -202,7 +202,7 @@ Late-2020s–early-2030s culture **did not understand** that building and mainta
 | **Fixed automata** | Babaji's chess boards; mall gimmicks | **Not humanoid**; pre-Hinge or imported kits |
 | **Drones / autonomous weapons** | War, corridors, blockades (`38`, `33`) | **Military register** — fought over, jammed, logged; distinct from civilian humanoid scarcity |
 
-**Pelangi rule:** the king's Reclamation hub **wanted** robotics to rival Meridian; the megaproject **failed before scale**. Babaji's **robot dogs and chess boards are leftovers** — maintained by hand, not proof the island is a robot city.
+**Pelangi rule:** the king's Reclamation hub **wanted** robotics to rival Singapore; the megaproject **failed before scale**. Babaji's **robot dogs and chess boards are leftovers** — maintained by hand, not proof the island is a robot city.
 
 **Guards:** no robot waiter armies; no humanoid servants at **Malacca** chandlery; no "everyone has a home bot." When Eli sees a **humanoid**, it should feel **wrong and loud** — someone's budget talking. Malacca, threshold houses, and Pelangi terrace life stay **human-bodied**.
 
@@ -283,27 +283,27 @@ By 2040, elites **know** carriers exist:
 
 ### Pelangi Reach (made home)
 
-- **Status lock:** Pelangi Reach is formally **Coalition gray space**, economically dependent on **Mandate-linked Meridian City**, and politically tolerated until the **Mandate squeeze** (Babaji keeper cell refused flagged-carrier transfer; corridor/registry hold — not a staged attack). It is outside Continental Union jurisdiction and not Mandate territory; dependence is economic and logistical, not sovereignty.
+- **Status lock:** Pelangi Reach is formally **Coalition gray space**, economically dependent on **Mandate-linked Singapore**, and politically tolerated until the **Mandate squeeze** (Babaji keeper cell refused flagged-carrier transfer; corridor/registry hold — not a staged attack). It is outside Continental Union jurisdiction and not Mandate territory; dependence is economic and logistical, not sovereignty.
 - **History:** **Forest City / Forest Foundry** megaproject + resort SEZ — **failed and abandoned** when the outbreak hit; founders left. **Babaji** kept the Reclamation corridor alive as **accountable refuge** (desal, pumps, old **hotel** base with **tech labs**, **portable brain scanners**, **robot dogs**).
 - **2040:** not ghost city; **functioning refuge** in a dead resort shell — mall aunties, compound crew, Mei's terrace cafe, sail training, **one patched robot dog** on Babaji's route (legacy quadruped, not humanoid staff — `23` § *Robotics lock*).
 - Under pressure: travel warnings, psion surveillance, supply chain dependence on Suresh-class boats.
 
-### Strait geometry — Mandate throat, Coalition lungs, Meridian ledger — LOCKED 2026-07-24
+### Strait geometry — Mandate throat, Coalition lungs, Singapore ledger — LOCKED 2026-07-24
 
 **Author note:** real-world strait economics (Hormuz shock → AI bubble burst; Malacca as eastern seaborne choke; demand/proxy metrics diverging from official dashboards) inform **texture only** — not on-page exposition or a second oil-war plot. The series' first energy severance is **Hormuz** (`42`, `WORLD_BIBLE.md` §1); **2040** is uneven **armed reopening**, not a fresh embargo episode.
 
-**One-line map:** **Meridian City** is the Eastern Mandate's **brain and ledger** on the Singapore anchor; the **Strait of Malacca** is the bloc's **throat** (and everyone's); **Malacca** and **Pelangi Reach** are Free Ports **lungs** in the same body of water — economically breathed by Meridian, politically **not** Mandate territory, always one patrol from being filed.
+**One-line map:** **Singapore** is the Eastern Mandate's **brain and ledger** on the Singapore anchor; the **Strait of Malacca** is the bloc's **throat** (and everyone's); **Malacca** and **Pelangi Reach** are Free Ports **lungs** in the same body of water — economically breathed by Singapore, politically **not** Mandate territory, always one patrol from being filed.
 
 | Node | Bloc | Function | Relation |
 |---|---|---|---|
-| **Singapore / Meridian City / the Stack** | **Eastern Mandate** | De facto **administrative + maritime capital** — port, finance, quarantine, translation, archives, risk codes | **By function, not throne:** security, industry, energy, launch stay **polycentric** across member states. Coordinates the strait; does **not** own Coalition ports. |
+| **Singapore / Singapore / the Core** | **Eastern Mandate** | De facto **administrative + maritime capital** — port, finance, quarantine, translation, archives, risk codes | **By function, not throne:** security, industry, energy, launch stay **polycentric** across member states. Coordinates the strait; does **not** own Coalition ports. |
 | **Strait of Malacca** | **Contested geography** | Global choke for eastern energy, food, rare inputs, remittance, refugee, and gray traffic | Mandate **needs** it; Union and Mandate **both press** it; Coalition **routes around** official corridors (Weavers' Net, threshold houses, **Harbor Thread**). |
 | **Malacca** | **Free Ports Coalition** | Reopening **entrepôt** — plural port law, chandlery handoffs, biosecurity cover | **Not** Singapore; **not** Mandate soil. Noir counterpoint to Stack atomization. |
-| **Pelangi Reach (Johor)** | **Coalition gray space** | **Abandoned resort / failed Forest City shell → refuge** | **Economically dependent** on Mandate-linked Meridian; **sovereignty not** Mandate. Babaji's old-hotel keeper cell. Causeway geography without merger. |
+| **Pelangi Reach (Johor)** | **Coalition gray space** | **Abandoned resort / failed Forest City shell → refuge** | **Economically dependent** on Mandate-linked Singapore; **sovereignty not** Mandate. Babaji's old-hotel keeper cell. Causeway geography without merger. |
 
 **Performance vs. real throughput (2040 texture):** Mandate and Stack dashboards can show **competence and reopening** while strait traffic, remittance, tourism, and smallholder margins run **thinner** than aggregate statistics imply — the same structural rhyme as proxy metrics (electricity, freight, credit) diverging from headline growth, without naming real-world states on-page. **Cherry Cube** frictionless care vs. **Cherry Lane** roots cracking the ceiling; Malacca heritage signs vs. empty trishaws; Pelangi towers vs. island water stress.
 
-**Book I load:** Ch 1 = old-island fishing + Pelangi hearth + **Mandate squeeze** + **scheduled Meridian departure**; Ch 2 = pier gauntlet → Stack intake → **wrong-room overhear** (Harbor Thread, before clerk) → ring photograph → concert hunt → race escape → strait → **Malacca** breach; Ch 4 = Weavers' **harbor-house** review on the Net; Suresh/**Harbor Thread** parallel geography = what the official map omits.
+**Book I load:** Ch 1 = old-island fishing + Pelangi hearth + **Mandate squeeze** + **scheduled Singapore departure**; Ch 2 = pier gauntlet → Core intake → **wrong-room overhear** (Harbor Thread, before clerk) → ring photograph → concert hunt → race escape → strait → **Malacca** breach; Ch 4 = Weavers' **harbor-house** review on the Net; Suresh/**Harbor Thread** parallel geography = what the official map omits.
 
 ### Malacca / Strait (opening noir)
 
@@ -314,7 +314,7 @@ By 2040, elites **know** carriers exist:
 ### Maritime corridors
 
 - Piracy + inspection + **psion probe** on same boarding.
-- Meridian City-class archive cities: **high surveillance archives** (Ch 7).
+- Singapore-class archive cities: **high surveillance archives** (Ch 7).
 
 ### South Asia (Vol I agricultural witness — Ch 9–14)
 

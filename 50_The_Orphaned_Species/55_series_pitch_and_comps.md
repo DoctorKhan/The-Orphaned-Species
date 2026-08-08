@@ -400,7 +400,7 @@ Use with the chapter audit table above. **Pass** = both clocks move; one antagon
 
 | Ch | Clock A (rescue) | Clock B (network / registry) | Antagonist job (present-tense) | Cost → next chapter |
 |----|------------------|------------------------------|--------------------------------|---------------------|
-| 1 | Orphan truth: both alive; Albion/father trail opens | Mandate squeeze; Babaji raid; hearth suspended; Wren attests under watch | Cohort/registry sweep clears the island before Eli's Saturday departure | Because hearth is suspended and Babaji's offices are hit, Ch 2 **must** run Meridian under Wren's papers — no home fallback |
+| 1 | Orphan truth: both alive; Albion/father trail opens | Mandate squeeze; Babaji raid; hearth suspended; Wren attests under watch | Cohort/registry sweep clears the island before Eli's Saturday departure | Because hearth is suspended and Babaji's offices are hit, Ch 2 **must** run Singapore under Wren's papers — no home fallback |
 | 2 | Ring on file (*same soil*); Hassan has the band | Circuit soft-hunt; Extra-lane; wage ticket spent; Wren peels off to protect house links | Sora/Custodian soft-hunt at Circuit; intake clerk processes Eli as loose end | Because Hassan takes the ring into the chase, Ch 3 opens with **ring + Hassan lost** and Salmah already exposed |
 | 3 | "I'm not going dark"; Rootbook *name* seed | Salmah's boat seized; platform hospitality burns heat onto local house | Custodians close quarantine tow / reclaim Hassan | Because Salmah and the platform are billed, Ch 4's passage must use **disclosed, bounded** help — no invisible extraction |
 | 4 | North/ping valley trail toward mother-evidence | Wren discloses full route; civic links become visible freight | Inspection/gantry; Custodians a day behind | Because Wren named every stop, Ch 5's coast offer / bait arc can burn **those named people** if they linger |
@@ -511,7 +511,7 @@ custody chain; Maren's Rootbook index opens; pattern conspiracy felt, apex not d
 Ch 1 is pure home/harbor/orphan-truth — no ring, no faction vocabulary, just
 the race, Mei's terrace, and the reveal that both parents are alive. Ch 2
 delivers the ring proof early and viscerally (*same soil*, the evidence-tray
-photograph) and spends the rest of the chapter on the Meridian screening
+photograph) and spends the rest of the chapter on the Singapore screening
 arch and the Cube chase — pursuit begins immediately after the proof, exactly
 the "ring-first causal hook" the pitch strip requires. "Custodians" isn't
 named as a faction until Ch 3; "Weavers' Net" and "Knotter" wait until Ch 4.
@@ -524,7 +524,7 @@ This reads as already-fixed, not in-progress.
 | Ch | Two clocks | Antagonist job | Cost → next | Chemistry | Notes |
 |----|------------|-----------------|-------------|-----------|-------|
 | 1 | Pass | Cohort/registry sweep, timed to Eli's Saturday departure | Hearth suspended, Babaji's offices raided | Mei/Eli terrace scene; Suresh's dry blessing | Strong open |
-| 2 | Pass | Meridian screening arch (live, on-page); Custodian soft-hunt at Circuit | Wage ticket spent; Hassan and the ring lost into the chase | Wren/Eli rail banter ("sail rope on your collar") | Ring reveal lands early, exactly on the lock |
+| 2 | Pass | Singapore screening arch (live, on-page); Custodian soft-hunt at Circuit | Wage ticket spent; Hassan and the ring lost into the chase | Wren/Eli rail banter ("sail rope on your collar") | Ring reveal lands early, exactly on the lock |
 | 3 | Pass | Custodians named; quarantine tow of Salmah's boat | Salmah's boat seized; platform hospitality billed | Wren/Eli "I'm not going dark" turn; Wren's identity reveal | — |
 | 4 | Pass | Custodians a day behind on the water | Wren discloses the full route; civic links now visible freight | Pak Din's dry humor; the "constitution" beat | Chapters 4–10 run notably shorter (88–200 lines) than 1–2/11–13 — terser, not thinner; density holds |
 | 5 | Pass | Custodians on water; bait-field trap | Coast escape refused; silence costs the growers | Khun Dang's guitar lesson; ginger-strip beat | — |
@@ -685,7 +685,7 @@ Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all
 
 ### Book III clue-chain spine (pitch-facing)
 
-Albion → Brazilian river-port reception → **intake harm (Ch 3)** → transnational **Lang Standard** + remote Union fracture → **Wren boundary (Ch 5)** → Brazilian/interregional **bounded compact** → **Hawaiʻi refuge** → consent limit at corridor → **hearing/step-down** → **complex-time proof / ceasefire process** → handover succeeds. Eagle–Condor remains contested cooperation language, not plot prophecy. Artifacts: Double-Fork Stone + dragon ghost (late); Rootbook Sanxingdui break; Devolution roster glimpse. Full beats: `33`; peace `51`; teahouse `50`.
+Albion → Brazilian river-port reception → **intake harm (Ch 3)** → transnational **Lang Standard** + remote Union fracture → **Wren boundary (Ch 5)** → Brazilian/interregional **bounded compact** → **Hawaiʻi refuge** → consent limit at corridor → **hearing/step-down** → **complex-time proof / ceasefire process** → handover incomplete under war pressure. Eagle–Condor remains contested cooperation language, not plot prophecy. Artifacts: Double-Fork Stone + dragon ghost (late); Rootbook Sanxingdui break; Devolution roster glimpse. Full beats: `33`; peace `51`; teahouse `50`.
 
 ### Book III chapter-end hooks (drafting obligation)
 
@@ -710,14 +710,16 @@ Albion → Brazilian river-port reception → **intake harm (Ch 3)** → transna
 - **Messianic rule:** show kneel reflex **working** (`33` lock) — win is **re-teach deiwos + step-down**, not deny signs.
 - **Rasel consequence:** give him an independent Book III stake and conflict; do not repeat the rescue already completed at Sanxingdui.
 
-**Vol III close — CLIMAX + HUNGER LOCKED 2026-08-01:** coexistence survives
-real failure; bounded authority is offered an exit and the handover genuinely
-succeeds, holding for a real stretch — Eli becomes a private citizen, not by
-acclamation. Readers receive relief from the civic achievement, then hunger from
-Eli's private incompletion and the federation's unresolved material dependencies.
-Complex-time verification supports a narrow ceasefire process; war remains an
-unresolved human condition. Book IV opens on that working victory and tests it
-under the Lean Year; it does not reveal Book III as a fraud (`60_volume_IV_court_of_threads.md`).
+**Vol III close — CLIMAX + HUNGER REVISED 2026-08-07:** coexistence survives
+real failure; bounded authority is offered an exit but the handover is
+**incomplete** — the compact fractures under war pressure. Eli holds emergency
+power; the institutions are too damaged to receive a clean transfer. Readers
+receive uncertainty from the civic failure, then hunger from the work of
+reconstruction that passes to Book IV. Complex-time verification supports a
+narrow ceasefire process; war remains an unresolved human condition. Book IV
+opens on that wreckage and tests whether the broken compact can be rebuilt
+better than before, not because it never fractured, but because the
+reconstruction is voluntary and reviewable.
 
 ---
 

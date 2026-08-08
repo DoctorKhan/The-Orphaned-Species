@@ -245,13 +245,15 @@ Wren sets tea in front of him without asking. "You're not paying anyone back in 
 
 The launch comes back. Halfway across the harbor Eli says, too loud, "They told me my father was dead."
 
-Wren keeps both hands on the tiller. "Mei told you otherwise."
+Wren keeps both hands on the tiller. Her knuckles whiten. One beat, then she
+resets. "Mei told you otherwise."
 
 "Last night."
 
 "Then that's grief. Not a debt you work off before noon."
 
-He doesn't know what to do with the sentence except carry it.
+He doesn't know what to do with the sentence except carry it. He watches her
+hands return to ordinary control and understands the cost of keeping them there.
 
 At the pier he is already moving—Mei's service cable, junction after junction, faster than the work needs, as if speed could catch two people who were never dead. White hulls gather at the reach's edge before he closes the first box. By the second, a drone crosses the plaza: voluntary screening, bridge closed, shelter in place except essential corridor workers. It does not feel voluntary. Every phone loses its bars before the third. The chit pings stack, and stop. Remittance lane dead with them—nothing leaves Pelangi until somebody reopens the corridor.
 
@@ -275,6 +277,8 @@ She sits on the gunwale with the tablet dark for once—no clipboard, no queue. 
 
 It is the first time all day he has seen her with nothing to perform. On the catamaran she was hostess distance; at the gate she was the voice that made the queue feel temporary. Out here, with only Suresh to see her and Suresh not looking, her shoulders drop half an inch and she does not know he notices. Not resting-tired. The other kind—the kind Mei gets after the last plate is cleared and there is no one left to feed.
 
+A soft chime comes from the tablet in her bag. She ignores it. It chimes once more, then a third time—insistent, private—and she reaches in and kills it with a thumb on the bezel, not the screen. Whatever it was, she is not answering it while Eli is in earshot.
+
 "You're staring," she says, without turning her head.
 
 "Don't flatter yourself. You've got sail rope on your collar." There is no rope on her collar. It buys him half a second to look away first, which is the only reason he says it.
@@ -291,29 +295,39 @@ She does not answer that. But she does not look away from the water either, and 
 
 He looks back at the old hotel instead, small now, going grey at the edges the way everything does from water, and lets her have the last word. She stands close enough that he can hear her breathing settle, far enough that it does not ask anything of him either.
 
-White coats and royal police move on Babaji's offices in a column—side door first, then the mezzanine, then the laundry entrance Wren used this morning. Someone breaks a lock that was never much of a lock. A portable brain scanner comes out on a trolley like ordinary furniture. Men in hotel livery are walked to the pier with their hands visible. The red building under the dirt fills with grey.
+White coats and royal police move on Babaji's offices in a column—side door
+first, then the mezzanine, then the laundry entrance Wren used this morning. The
+red building under the dirt fills with grey. A portable brain scanner comes out
+on a trolley like ordinary furniture. Men in hotel livery are walked to the pier
+with their hands visible. Behind Eli's eyes: Mei's closed notebook on her table.
+In his pocket: Suresh's folded word. Rasel's promise to finish the row. Maren on
+the ninth floor with the can. The terrace lights he looks for across the water
+are already gone. His father alive in a lab he can't picture except as hands
+without soil. His mother alive on a western file he can't read. He wants them
+with a hunger that makes the Singapore cash feel obscene—not escape, distance
+from the only people left to find.
 
-His jaw hurts from clenching. Wren holds out a bottle of water. He takes it because refusing would be another kind of performance.
+Wren holds out water. He takes it because refusing would be another kind of
+performance.
 
-"You're not fine," she says. Not a question. "You don't have to be fine to walk through the next door."
+"You're not fine," she says. Not a question. "You don't have to be fine to walk
+through the next door."
 
-She does not touch his shoulder. She waits beside the rail until Suresh throttles up—just the space to feel what he is feeling without naming it for him.
+She does not touch his shoulder. She waits beside the rail until Suresh throttles
+up—just the space to feel what he is feeling without naming it for him.
 
-He looks for the terrace lights across the water and does not find them. "Suresh—" He does not finish it.
+Suresh keeps his eyes on the channel markers. "Don't burn the thread on a health
+stop."
 
-Suresh keeps his eyes on the channel markers. "The list took the terrace too." Not a question, and not an answer to one Eli asked out loud. "Free meals. Nobody's name checked at the door. That was always going to be somebody's evidence eventually." He does not say *arrested*. He does not say where, or for how long. This is the only answer coming. Asking twice would cost Suresh something he cannot afford tonight.
-
-Since last night the raid is not only Babaji's hotel. It is Rasel saying they'd finish the row together. It is Maren on the ninth floor with the can, saying places could be home if you kept watering them. It is the notebook Mei closed on his fingers—*Name*, forked into other words, still on her table while he runs. Eli watches white coats take the mezzanine and cannot breathe all the way out. His father alive in a lab he can't picture except as hands without soil. His mother alive on a western file he can't read. He wants them with a hunger that makes the Singapore cash feel obscene—not escape, distance from the only people left to find.
-
-Past the fuel dock Babaji's catamaran runs south without running lights—twin hulls low against the horizon, already gone from the pier that is being emptied behind it.
-
-Suresh does not turn his head. "Don't burn the thread on a health stop."
-
-Pelangi Reach shrinks behind the marina wall. Wren stands beside Eli at the rail and says, quietly, "There's still an arch ahead. At each door, please follow my lead."
+Pelangi Reach shrinks behind the marina wall. Wren stands beside Eli at the rail
+and says, quietly, "There's still an arch ahead. At each door, please follow my
+lead."
 
 The island locks down. Hearth suspended, not surrendered.
 
-In his pocket: Suresh's folded word—*ask once*—and Mei's truth. Behind his eyes: the page she would not let him keep. The arch Wren named is the first door that leads toward them.
+In his pocket: Suresh's folded word—*ask once*—and Mei's truth. Behind his eyes:
+the page she would not let him keep. The arch Wren named is the first door that
+leads toward them.
 
 ---
 
@@ -339,9 +353,11 @@ The arch is smaller than dread made it and worse: one person at a time on the pa
 
 Eli steps onto the mark, and Wren stays behind the line—whatever she knows, she can't hand it to him here, one body at a time is the whole point of the arch. The gantry leans in. His palms prickle once and then hard, the wrong way, toward the machine, the young man's fate reaching across the pen for him. He has no method yet, only his mother's: two fingers below the collarbone, one breath out through the teeth. *Stand behind the hands.* It is not enough and it is all he owns. He puts his attention on cable runs, on crimps that hold, on nothing that lights, and holds it there while the gantry decides whether he is a thing it recognizes.
 
+The light holds on his face a beat too long. Somewhere behind the gantry a screen updates—he can see it in the corner of his eye, a photograph pulled and discarded too quickly for anyone but him to notice. The clerk on the far side of the arch stops writing, looks up, meets his eyes, and looks away again before the gantry has finished. Not suspicion. Recognition. The kind that knows it is not allowed to speak.
+
 The gantry hesitates. Then hums, and passes him, for reasons that are not skill—he will know that later—but that were, this once, at least partly his.
 
-He is through the arch. Relief lasts three steps and turns over, because the machine was not wrong about him. It just hasn't met him yet, and the next queue is already forming at the port shuttle stop.
+He is through the arch. Relief lasts three steps and turns over, because behind him a screen flickers and the gantry re-engages on the young man with port shoulders—same biometric pull, same hesitation—only this time a red light stacks with the green and two officers step in. The machine was not wrong about Eli. It was distracted. It is not distracted now.
 
 Wren's hand finds his elbow—steadying, not romantic—and guides him off the painted mark before he can stare at the gantry like it owes him an explanation.
 
@@ -404,8 +420,6 @@ register, as paperwork.
 
 A cup clicks. Someone laughs without mirth. "Pelangi is sealed. The strait eats what they seal. Let them hold the causeway—they cannot hold the throat."
 
-Eli's hand finds the doorframe. His knuckles whiten.
-
 The voice that answers is older, tired, familiar in the way keeper rooms are
 familiar—still, kettle, no registry cold—not the same man, the same *kind* of
 still. "The boy is on a call sheet **Sunday**. If he is clever, he is below. If he
@@ -416,7 +430,11 @@ Silence. Then a chair scrape—someone standing.
 
 Eli moves before they reach the door.
 
-Wren is waiting at the mouth of the document lanes when he comes
+He catches **one name** before Wren's hand is on his arm: **Malacca**, **Hassan**,
+**English woman**, **claimed physicist**—but the syllables run together and he
+cannot tell which phrase belongs to which person. By the time he is in the
+document lane, he is reconstructing the overhear from half-heard fragments and
+his own hunger. Wren watches him do it and says nothing.
 back—**Malacca**, **Hassan**, **English woman**, **claimed physicist**—words
 without a frame yet. His face must be doing something he cannot see.
 

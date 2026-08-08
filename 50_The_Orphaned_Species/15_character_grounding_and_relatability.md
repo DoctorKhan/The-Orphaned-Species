@@ -254,16 +254,16 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 
 **When and where — LOCKED:** **Thailand only.** Martial + chi-body taught **on-page in Vol I Ch 5–10** (agricultural-witness sequence) — **instructor name TBD** (keeper/corridor fighter; Muay Thai / Kali register). **Not Pelangi. Not Malacca. No Philippines visit.**
 
-**Fugitive Thailand (post-extraction):** Somchai stabilization (post-attack care — the head injury is **not** from the attack), **wat breath seed only** — **no martial**, **no body memory** carried into Pelangi/Meridian/Malacca. The Fever scar comes later, at Pelangi during the outbreak (`26` § Eli turn).
+**Fugitive Thailand (post-extraction):** Somchai stabilization (post-attack care — the head injury is **not** from the attack), **wat breath seed only** — **no martial**, **no body memory** carried into Pelangi/Singapore/Malacca. The Fever scar comes later, at Pelangi during the outbreak (`26` § Eli turn).
 
-**No Thailand body memory — LOCKED:** zero martial/chi/reflex leaks before Ch 5. Malacca breach fight = **untrained overwhelm**, not Kali. Meridian Cube gesture = **Maren** (mother), not martial foreshadow.
+**No Thailand body memory — LOCKED:** zero martial/chi/reflex leaks before Ch 5. Malacca breach fight = **untrained overwhelm**, not Kali. Singapore Cube gesture = **Maren** (mother), not martial foreshadow.
 
 **What he learns (Ch 5–10, first on-page):**
 - **Moving chi / breath through the body** — *lom*, whole frame at once; builds on wat schedule + Maren's earlier gesture.
 - **Martial line work** — range, angle, timing, Muay Thai structure, Kali triangles.
 - **Effect:** fast reflexes when integrated — **bounded**; TBI and overload remain.
 
-**Pelangi Reach:** **no martial teacher.** Talent pressure = **Foundry visuo-spatial** only (Wren sandbags splice times; *adequate is safe*); Meridian contract = scheduled leave away from scrutiny.
+**Pelangi Reach:** **no martial teacher.** Talent pressure = **Foundry visuo-spatial** only (Wren sandbags splice times; *adequate is safe*); Singapore contract = scheduled leave away from scrutiny.
 
 **Under the radar:** no public bouts; capacity claiming applies to fight talent too.
 
@@ -345,7 +345,7 @@ Albion closes the mother's mystery. It does not reveal Eli's truer self or repla
 
 Bangladesh should remain an unreturnable or not-yet-returnable home. The reason can be political tension after the attack, unresolved legal danger, surveillance, family enemies, risk to surviving contacts, or the simple fact that returning would not restore the life that was destroyed. This keeps the longing active without turning Bangladesh into a symbolic birthplace that can be visited once and solved.
 
-**Off-page lock — LOCKED 2026-07-23:** Eli does **not** visit Bangladesh on-page in any volume. No village feast, planting beat, or near-miss return solved in prose. Lost home is carried through Bangla speech, food memory, Meridian City queue humiliations, Shireen's encrypted messages (garden photo, corridor warnings), and the Pelangi Reach exile garden.
+**Off-page lock — LOCKED 2026-07-23:** Eli does **not** visit Bangladesh on-page in any volume. No village feast, planting beat, or near-miss return solved in prose. Lost home is carried through Bangla speech, food memory, Singapore queue humiliations, Shireen's encrypted messages (garden photo, corridor warnings), and the Pelangi Reach exile garden.
 
 **Father's capture — locked shape (rev. 2026-07-26).** Rasel Khan—legendary
 physicist and gardener in Eli's memory. Bangladeshi passport → Mandate claim;

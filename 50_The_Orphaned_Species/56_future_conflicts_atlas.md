@@ -32,7 +32,7 @@ Full detail: `23_2040_present_frame.md` § Macro timeline, § The Hinge.
 | Bloc | Strategy | Fragility | On-page texture |
 |---|---|---|---|
 | **Continental Union** | Rigid centralization — registries, walls, force | Mycenaean-brittle; favored populations; class severance | Charkha Measure; Devolution roster; expendability ledger |
-| **Eastern Mandate** | Endurance at scale — corridors, quarantine competence | Stagnant then indispensable; hidden migrant-worker losses | Meridian Stack; cure corridors; blockades; Ma |
+| **Eastern Mandate** | Endurance at scale — corridors, quarantine competence | Stagnant then indispensable; hidden migrant-worker losses | Singapore Stack; cure corridors; blockades; Ma |
 | **Free Ports Coalition** | Decentralized maritime antifragility | No head to chop; sacrificial-port temptation | Malacca, Pelangi gray space, threshold houses, Harbor Thread |
 
 Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs brittle palace**.
@@ -46,7 +46,7 @@ Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs b
 | Sorting layer | Class | Race / xenophobia / migration |
 |---|---|---|
 | **Documents** | Worker lane vs cohort vs claimed-scientist file | *Anomalous residents*, *carrier-adjacent* — body before passport |
-| **Labor** | Platform wage, gig facilities, fintech towers vs island fishers | Migrant losses under "East survived" (Meridian) |
+| **Labor** | Platform wage, gig facilities, fintech towers vs island fishers | Migrant losses under "East survived" (Singapore) |
 | **Health/security** | Union wards vs threshold houses | Quarantine pickup (Iqbal); biosecurity cover |
 | **War** | *Recoverable strength*, *minutes purchased* | Men pre-read as fighters; scapegoating by presentation |
 | **Survival** | Devolution roster, *protected favored populations* | Who was always on the lifeboat list |
@@ -125,7 +125,7 @@ Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs b
 | Pressure | Issues |
 |---|---|
 | Autonomous weapons | No mind to jam; fight data and operators (`38` §3a) — **not** humanoid infantry swarms |
-| Humanoid / embodied robots | **Rare** — Meridian, power centers, status theater; **entropy mistake** (treated like software; death tech never breaks second law); industrial base + population decline limit production (`23` § *Robotics lock*, `22` § *Death technology*) |
+| Humanoid / embodied robots | **Rare** — Singapore, power centers, status theater; **entropy mistake** (treated like software; death tech never breaks second law); industrial base + population decline limit production (`23` § *Robotics lock*, `22` § *Death technology*) |
 | Field sail | Union theory / Mandate build / teahouse verify — none alone (`51`) |
 | AI infrastructure | Translation at till + surveillance scoring + dependency transfer |
 | Satellite gaps | Terrestrial routes and stones matter again |
@@ -138,7 +138,7 @@ Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs b
 
 | Volume | Dominant conflicts | Key locked beats |
 |---|---|---|
-| **I — Shattering** | Hunt, intake sorting, Strait geometry, forming ley contest, Sanxingdui choice | Mandate squeeze; Meridian forms; Malacca breach; Custodians; Wren displaced |
+| **I — Shattering** | Hunt, intake sorting, Strait geometry, forming ley contest, Sanxingdui choice | Mandate squeeze; Singapore forms; Malacca breach; Custodians; Wren displaced |
 | **II — Descent** | National psion war, family/possession, Pömmelte purge, awakening spreads | Maren release; hearth circle; England ambush; Ninmah/Umul rhyme |
 | **III — Choice** | Awakening War, Standard vs polyphonic compact, force-sync, hearing, replication | Okafor harm; Revelation; Bima Prasetyo; compact; field-sail ceasefire |
 
@@ -151,7 +151,7 @@ Beatsheets: `31`, `32`, `33`. Plot hub: `29`.
 ```
 ~2040 OPENING (Vol I)
 ├── Pelangi Mandate squeeze (registry as diplomacy)
-├── Meridian intake / body register
+├── Singapore intake / body register
 ├── Malacca breach → hunted receiver
 └── Agricultural + Gulf + Göbekli clue chain
 

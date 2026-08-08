@@ -79,7 +79,7 @@ A second candidate, for the Ch 2 Babaji/Wren attestation scene specifically — 
 > COMPOUND ATTESTATION — MERIDIAN CORRIDOR AUTHORITY
 > Bearer classification: WORKER LANE. (Reclassification to COHORT REVIEW is not reversible from this form.)
 >
-> — standard-issue attestation sleeve, Meridian Circuit processing office
+> — standard-issue attestation sleeve, Singapore Circuit processing office
 ```
 
 Neither is inserted into `manuscripts/I_The_Breach.md` yet — these are drafts to evaluate the device before committing it to the reader-facing text.

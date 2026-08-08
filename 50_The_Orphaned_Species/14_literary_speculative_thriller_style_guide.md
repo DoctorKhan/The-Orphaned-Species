@@ -160,7 +160,7 @@ Borrow the *Silo* lesson without borrowing the dystopia: **the place is a plot e
 2. **Class and truth as altitude** — up/down (or surface/Thread, bund/dead field, tourist path/sealed door) is who eats, who knows, who is watched. Force Eli’s body through the grade change.
 3. **Lived systems before lore** — how the place *runs* (tongs, wage tickets, gantries, sluices, backfill clocks) before what it *means*.
 4. **Wonder + dread in the same room** — wonder before ambush (`55` §8). Awe that can turn poisonous.
-5. **Revisit changed** — Pelangi return (Vol III); Meridian as memory/scar; Sanxingdui after Rasel's recovery.
+5. **Revisit changed** — Pelangi return (Vol III); Singapore as memory/scar; Sanxingdui after Rasel's recovery.
 
 **Craft rule — each major location gets all four:**
 
@@ -171,7 +171,7 @@ Borrow the *Silo* lesson without borrowing the dystopia: **the place is a plot e
 | 3 | **Ritual/machine that runs without Eli** — system visible in labor |
 | 4 | **Place lie** — what the place claims about itself vs what is true underneath |
 
-**Flora as place-engine — LOCKED 2026-07-29:** Tropical plants and trees are not wallpaper. Name them when Eli’s body meets them (smell, shade, food, work, failure). Prefer **specifics over “jungle/green”**: coconut palm, frangipani, bougainvillea, rain tree, banana, papaya, holy basil, chili, tomato, mangrove, casuarina, chempaka, jackfruit, bamboo, teak, water hyacinth, lotus, morning glory, lemongrass, flame tree. Let flora **argue** Living Route vs sealed orchard (Pelangi volunteers / Meridian Cube cherry under glass). Garden failure is character: Eli waters wrong; Rasel teaches *ask the plant*; Maren’s basil = *green first*. Thailand’s forming band lives among named paddies-and-margins plants, not abstract miracle-green. One or two lived names per beat; refuse botanical travelogue.
+**Flora as place-engine — LOCKED 2026-07-29:** Tropical plants and trees are not wallpaper. Name them when Eli’s body meets them (smell, shade, food, work, failure). Prefer **specifics over “jungle/green”**: coconut palm, frangipani, bougainvillea, rain tree, banana, papaya, holy basil, chili, tomato, mangrove, casuarina, chempaka, jackfruit, bamboo, teak, water hyacinth, lotus, morning glory, lemongrass, flame tree. Let flora **argue** Living Route vs sealed orchard (Pelangi volunteers / Singapore Cube cherry under glass). Garden failure is character: Eli waters wrong; Rasel teaches *ask the plant*; Maren’s basil = *green first*. Thailand’s forming band lives among named paddies-and-margins plants, not abstract miracle-green. One or two lived names per beat; refuse botanical travelogue.
 
 **Book I signature geometries + place lies:**
 
@@ -179,7 +179,7 @@ Borrow the *Silo* lesson without borrowing the dystopia: **the place is a plot e
 |---|---|---|---|---|
 | **Pelangi / open strait** | Fairway + open water | Hull hum, wind on cheek, salt; coconut fronds on storm wall | Race marks, harbor wager, Timah’s harvest | *Freedom / you belong to yourself* — still a corridor with cutters |
 | **Pelangi Reach (hearth)** | Storm wall → towers → exile garden | Generator hum, terrace smoke, crushed basil/chili, frangipani sweet over diesel | Chit circle, Mei’s kitchen, Babaji papers; rain-tree shade | *Safe refuge that can hold you* — gray space; squeeze takes the hearth |
-| **Meridian / Stack** | Vertical cliff + Thread maze; **malls as literal silos** — sealed atriums, spiral escalators, stacked rings of shop/class | Palm-click, perfume/ozone vs diesel; atrium wind that is not weather | Gantries, Circuit parade, wage ticket; escalator helix as public stair | *Inevitable permanence / the outside is optional* — purchased spectacle; maps lie; Thread is the real city |
+| **Singapore / Stack** | Vertical cliff + Thread maze; **malls as literal silos** — sealed atriums, spiral escalators, stacked rings of shop/class | Palm-click, perfume/ozone vs diesel; atrium wind that is not weather | Gantries, Circuit parade, wage ticket; escalator helix as public stair | *Inevitable permanence / the outside is optional* — purchased spectacle; maps lie; Thread is the real city |
 | **Cherry Cube** | Glass temple over cracked roots | Floor-song through soles; bloom light | Idol show, freight under grandstand; **forced cherry vs Pelangi volunteer trees** | *Living future you can hold* — reliquary orchard; parade owns you |
 | **Malacca** | River + night-market lanes + mangrove stilts | String bulbs, satay smoke, wet stone, jasmine, mangrove flower on tide | Tongs, fish auction stamps, clipboard nets; holy basil in paint tin | *War has a night off / peace as infrastructure* — softness watched; vans wait |
 | **Coastal passage** | Island anchors + mangrove channels | Chempaka on tide, casuarina needle-song, jackfruit at landings | Pak Din’s engine shrine, rice aft | *Open water is free* — contractors run dark |
@@ -190,7 +190,7 @@ Borrow the *Silo* lesson without borrowing the dystopia: **the place is a plot e
 | **The tell / archive** | Mound strata + shrine crown | Courtroom pressure; chalk dust; cold tea | Contested plaque, photocopy packet, date stacks | *One ancient wound / one sermon* — separate dials; lacuna invites forgery |
 | **Göbekli** | Hill + fox pillar + sealed door | Limestone rain; hill ringing; door lean | Consortium slides, backfill clock, tourist rope | *Civilization as payroll / ownable past* — gathering first; burial as keeping |
 
-**Mappings (Silo → series):** spiral stair → **(1)** Meridian Thread / Circles (body→kin→machine); **(2)** Meridian **mall atriums as literal silos** (sealed cylinder, spiral escalators, level = class); **(3)** Thailand **Pai–Chiang Mai hairpin road** as lived outdoor stair; forbidden curiosity → Rootbook / sealed enclosure / don’t fill the lacuna; cleaning theater → registry arches, Circuit, consortium presentation; mechanical hum → Cube floor-song, tell pressure, hill ringing. Do **not** name *Silo* on-page — stage the geometry.
+**Mappings (Silo → series):** spiral stair → **(1)** Singapore Thread / Circles (body→kin→machine); **(2)** Singapore **mall atriums as literal silos** (sealed cylinder, spiral escalators, level = class); **(3)** Thailand **Pai–Chiang Mai hairpin road** as lived outdoor stair; forbidden curiosity → Rootbook / sealed enclosure / don’t fill the lacuna; cleaning theater → registry arches, Circuit, consortium presentation; mechanical hum → Cube floor-song, tell pressure, hill ringing. Do **not** name *Silo* on-page — stage the geometry.
 
 **Body score — anti-parade (LOCKED 2026-07-26):** sound/motion seeds in Book I
 (Cube too-clean clap; Malacca unfinished clap; wat shared heel-to-toe count; Pai

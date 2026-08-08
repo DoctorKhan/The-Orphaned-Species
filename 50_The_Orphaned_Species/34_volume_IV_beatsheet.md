@@ -60,11 +60,12 @@
 > 1–2 chapters.
 >
 > **BRONZE AGE COLLAPSE TEST — LOCKED 2026-08-01:** Book IV is the
-> civilization-scale test of Book III's decentralization. The historical rhyme
-> is systemic, not a Sea Peoples reenactment: tightly coupled centers lose
-> archives, specialized supply, routes, and legitimacy under several pressures
-> at once; outcomes are uneven; people, knowledge, and exchange continue in
-> altered forms after central institutions fail.
+> civilization-scale test of Book III's decentralization after its failure
+> under war pressure. The historical rhyme is systemic, not a Sea Peoples
+> reenactment: tightly coupled centers lose archives, specialized supply,
+> routes, and legitimacy under several pressures at once; outcomes are uneven;
+> people, knowledge, and exchange continue in altered forms after central
+> institutions fail.
 >
 > **RELIGIOUS AFTERLIFE — LOCKED 2026-08-01:** The large post-collapse religious
 > and philosophical transformations are a delayed structural rhyme. Book IV
@@ -138,8 +139,9 @@
 - **Revelation:** the Lean Year begins as incompatible forecasts, not as an
   omniscient disaster summary. First harvest losses are serious but survivable.
   What breaks the convenient hub is convergent capture, not a single attack.
-- **Book III → IV hinge — LOCKED 2026-07-29:** summary of the working stretch,
-  then Lean Year begins.
+- **Book III → IV hinge — REVISED 2026-08-07:** summary of the incomplete
+  handover under war pressure and Eli holding emergency power, then Lean Year
+  begins.
 
 ---
 
@@ -310,16 +312,32 @@
   of rule without Eli at the center.
 - **Attachment:** Rowan and Wren as principal lenses; Eli largely seen from
   outside.
+- **Social-intimacy machinery — ADDED 2026-08-07:** Gossip is intelligence.
+  Seating charts, who-is-not-speaking-to-whom, delayed messages, and the version
+  of a bond that circulates among houses are as load-bearing as any formal vote.
+  Rowan and Wren's intimacy is itself an instrument: the court reads it as
+  consort/heir capture, which both protects and constrains them. A rival Knotter
+  (Sable or equivalent) choreographs public versions of private moments to make
+  Rowan look either isolated or captured, depending on which faction needs the
+  story. One scene: a Knotter over-writes Rowan's placement narrative on-record
+  to make her look loyal to Eli while moving her into a household that can be
+  monitored. Rowan and Wren must learn to weaponize their own bond's visibility
+  without letting the court own its meaning. The governing register: **a smile
+  that rearranges your reputation is as dangerous as a knife.** See Ch 8
+  pregnancy-as-information-war; see `19_romance_and_divine_pairing.md` §
+  *Rowan/Wren public intimacy as court weapon*.
 - **Choice → Cost:** the Weavers and men's cloisters deepen political power they
   earned in Book III by building the first transfer. Neither rise is granted by
-  Eli, and neither institution is unified.
+  Eli, and neither institution is unified. Rowan and Wren's bond deepens inside
+  the machinery that wants to own it.
 - **Revelation:** the court fails as a functional palace. Society changes shape
   and continues. By the climax, ports, farms, clinics, councils, Weaver routes,
   and cloister companies have already operated through a real interval without
   Eli or a trusted center.
 - **End hook:** Rowan and Eli consciously recognize attraction and have sex.
   Post-sex care and missing one another matter more than the act. Wren is
-  present; the bond is named; room to refuse remains.
+  present; the bond is named; room to refuse remains. The court learns one
+  version of what happened; Rowan, Wren, and Eli hold a different one.
 
 ---
 

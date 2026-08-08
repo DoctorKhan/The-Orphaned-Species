@@ -985,7 +985,13 @@ clinic by choice, listening through an ordinary speaker.
 Lang appears without the bonsai.
 
 His background is a medical operations floor busy enough to prove he has other
-problems and carefully framed enough not to reveal where.
+problems and carefully framed enough not to reveal where. The camera angle is
+chosen. The cup at his elbow is positioned. The whole room is a feed Wren
+would have trusted six months ago. She does not trust it now. She knows the
+angle, the cut, the quiet edit that turns a conversation into a monologue. She
+has watched Eli learn to look away from screens the way a sailor learns to look
+away from a fixed point after twenty minutes at sea—because the instrument lies
+by stillness, by pretending the world is only what it frames.
 
 "The curtains reduce involuntary contact during sleep in sixty-eight percent of
 observed cases," he says. "They increase panic in nine percent. Do not use
@@ -1612,11 +1618,11 @@ Nobody calls for a coordinator.
 
 An older woman from the river market — Dona Iracema, who has been directing
 traffic since morning without a badge — steps around the chair and reroutes the
-family at the front toward the overflow cot because she sees the child's face
-and recognizes the fever pattern. The clinic worker returns with water and
-hands it to the interpreter, who passes it to the mother without stopping the
-explanation. The welder from the intake crew takes over crowd position at the
-door without being asked and stops the draft with his body. The interpreter,
+family at the front toward the overflow cot. She misjudges the distance by one
+cot and assigns a fevered woman to a bed already occupied by a child with
+chickenpox. The mother stops her before the curtain closes. Iracema apologizes
+to the room and moves the chair again, this time placing the welder from the
+intake crew at the doorway. He stops the draft with his body. The interpreter,
 freed from managing three conversations, finishes the one that matters most.
 
 The queue begins moving again within ninety seconds.
@@ -3409,6 +3415,23 @@ circle chooses. They may authorize routes, observers, supplies, field
 coordination, or nothing. I will consolidate only the capacities they offer.
 You receive no identities you do not need."
 
+He listens. He does not hear what he wanted.
+
+"Give me the whole network," he says. "For the duration. I'll return it clean."
+
+Wren's expression does not change. "No."
+
+"I'm not asking for custody. I'm asking for the emergency."
+
+"That is the only time asking matters." She meets his eyes. "If I hand you the
+network under pressure, it stops being theirs. Next time, you will not ask."
+
+He wants to argue. He wants to say this is different. Instead he hears himself
+echoing the argument Lang will use in four days and does not want to be that
+man in this room.
+
+"Then send the request."
+
 "How long?"
 
 "First answers in twenty minutes. Most in two hours."
@@ -3436,6 +3459,11 @@ Seventeen people die in the evacuation queue.
 The route that answers first saves forty-three from the south approach.
 
 No arithmetic resolves the boundary.
+
+The dead include a woman from the west intake desk who told Eli her brother's
+route three days earlier. The saved include the family she had been trying to
+reach. Eli meets both outcomes in the same corridor and understands that Wren's
+boundary did not protect the woman. It only made her death legible.
 
 ---
 
@@ -3983,6 +4011,12 @@ The delegate writes this as if it were picturesque.
 Malia sees.
 
 "That was jurisdiction, not a proverb."
+
+She does not add that some of her people still call the old dreaming research by
+the name the elders use: the time when sleep is not private but a corridor, and
+the people who walk it are not prophets but witnesses. Last Dreamers is a term
+the Union archives borrowed. In her language the gift has no noun. It is a way
+of walking softly in a room that is larger than the body.
 
 The facility came to the council's attention because basalt markers along an
 old field boundary began answering a seed ledger placed in the ruined

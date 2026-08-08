@@ -156,7 +156,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Theme carried:** body before cosmology. The impossible arrives through a concrete survival problem.
 
-### 4. Meridian City archive: the adult room is a cave
+### 4. Singapore archive: the adult room is a cave
 
 **Immediate want:** retrieve or photograph a suppressed research fragment before a state unit and Lang's team seal access.
 
@@ -326,7 +326,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 ### 14. Race night: the city rewired for one evening
 
-**Immediate want:** make a crossing (person, packet, patient) through a monitored port city on the one night its entire routing logic is suspended — a street race staged as proof to investors that the city is "back": the Free Ports' answer to Meridian City's **Meridian Circuit** (canon, Vol I Ch 2 — race infrastructure already supplied Eli's escape corridors, `99` #1). Reopening cities compete through spectacle; this is the second city to try it, and this time the protagonists are not improvising through it — they planned for it.
+**Immediate want:** make a crossing (person, packet, patient) through a monitored port city on the one night its entire routing logic is suspended — a street race staged as proof to investors that the city is "back": the Free Ports' answer to Singapore's **Singapore Circuit** (canon, Vol I Ch 2 — race infrastructure already supplied Eli's escape corridors, `99` #1). Reopening cities compete through spectacle; this is the second city to try it, and this time the protagonists are not improvising through it — they planned for it.
 
 **Adventure object:** the published road-closure map, barriers, marshal posts, timing loops, broadcast drones, crowd wristbands, a service tunnel under the circuit.
 
@@ -482,7 +482,7 @@ These should be simple enough to remember:
 | Pelangi Reach | Why would Eli leave a place that works? | work rota, boat key, privacy logs | organization protects him better than secrecy alone |
 | Malacca | Which clue is real and which is bait? | token, port stamp, phrase, flooded crossing | the real clue opens the trap |
 | Free Ports race night | Can they cross while the whole city watches something else? | closure map, timing loops, service tunnel, drone feeds | the cover night is the most-instrumented night |
-| Meridian City | Who owns suppressed knowledge? | archive badge, server cage, old map | the boring maintenance record matters most |
+| Singapore | Who owns suppressed knowledge? | archive badge, server cage, old map | the boring maintenance record matters most |
 | Strait | Can they survive ordinary danger while under extraordinary attack? | sail line, cargo seal, medicine box | the pirates are not the whole threat |
 | Strait diver village | What does the body record that no registry holds? | goggles, seagrass knife, survey consent form | the elder read the anomaly years ago and called it a season |
 | Bali / South Asia | Is the crop a message or an effect? | irrigation gate, measuring string, seed sacks | local growers understand the anomaly first |

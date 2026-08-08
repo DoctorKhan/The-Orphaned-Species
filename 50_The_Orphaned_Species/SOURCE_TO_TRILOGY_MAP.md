@@ -81,7 +81,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **One sustained movement:** scheduled departure on Suresh's boat → pier gauntlet → Stack intake (**wrong-room overhear** before document clerk) → **ring photograph** → worker maze → Cherry Cube concert hunt → Circuit escape → Straits inspection → reopening Malacca → Hassan's **physical ring** and Wren's colliding extraction → Custodian pursuit → **untrained** fight → asphyxia.
 - **Body-register:** *anomalous residents* / *carrier-adjacent* appears before Eli understands that the apparatus reads bodies rather than documents.
 - **Breach:** receiver ON / undifferentiated web-noise; flare lights the grid. Salmah pulls him out; Hassan and the ring are recaptured.
-- **Rule:** Meridian City, the Straits, the witness contact, and the chase do not regain standalone chapters.
+- **Rule:** Singapore, the Straits, the witness contact, and the chase do not regain standalone chapters.
 
 ### Ch 3 — What Didn't Die
 - **Setting:** Malacca aftermath and flight.
@@ -367,7 +367,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Volume I beatsheet:** `31_volume_I_beatsheet.md`.
 - **Volume I drafting in progress:** `manuscripts/I_The_Breach.md` and chapter prose file `01_Dreamtime.md`.
 - **Deep-time delivery:** one living web, one dial of depth (full-res threads for a minority of practitioners; deep structure for cosmology clarified directly). See `36_the_living_web.md`.
-- **Volume I capped:** **13 chapters**, opening directly with Eli and no historical or Maren/character prologue; backstory arrives through residue. Chapter 1 earns the hearth and the squeeze; Eli **leaves on schedule** (hearth suspended). Chapter 2 carries epic Meridian processing and the southern flight through the Malacca breach; Chapter 3 is aftermath. **Climax locked at Göbekli Tepe (Ch 13)**; incomplete override at **Thailand (Ch 10)**, completed personal Manual Override at Göbekli; **Emrys taken** at Göbekli. **Mekong draft retired.**
+- **Volume I capped:** **13 chapters**, opening directly with Eli and no historical or Maren/character prologue; backstory arrives through residue. Chapter 1 earns the hearth and the squeeze; Eli **leaves on schedule** (hearth suspended). Chapter 2 carries epic Singapore processing and the southern flight through the Malacca breach; Chapter 3 is aftermath. **Climax locked at Göbekli Tepe (Ch 13)**; incomplete override at **Thailand (Ch 10)**, completed personal Manual Override at Göbekli; **Emrys taken** at Göbekli. **Mekong draft retired.**
 - **Volume II locked spine:** opens post-Sanxingdui; Mesopotamia / Göbekli;
   Bosporus–Thrace/Balkan transfer and Maren truth; European dead zones / Pömmelte /
   Stonehenge transmission station / Avebury; Maren release at Ch 10.

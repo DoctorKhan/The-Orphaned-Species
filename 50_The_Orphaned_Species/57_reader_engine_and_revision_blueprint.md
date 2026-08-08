@@ -27,9 +27,8 @@ must remain alive through varied genre engines and ordinary human texture:
 
 - Book I is a conspiracy adventure and family thriller.
 - Book II is a descent, haunted-archaeology, first-contact, and release story.
-- Book III is a war epic and political transformation.
-- Book IV is a material survival crisis, romance, and construction of a livable
-  future.
+- Book III is a war epic in which the decentralized compact fractures under military pressure; Eli accepts a narrow wartime mandate, wins battles and saves people, but the first relinquishment is incomplete because the compact no longer exists intact.
+- Book IV is the reconstruction of that compact under scarcity: a material survival crisis, romance, and construction of a livable future — this time from a position of proven voluntary choice, not fractured necessity.
 
 Characters must not become theme labels: Maren is not merely complicity, Rasel
 not merely science, Wren not merely boundaries, Sol not merely forced unity.
@@ -66,7 +65,8 @@ If a scene fulfills none of these contracts, cut it or move it to a companion.
 |---|---|---|---|---|
 | I — *The Breach* | Is the buried system real, and can Eli recover his father? | A clean machine record and institutional access will make Eli whole. | At Sanxingdui the distributed Tree of Life proves real; Eli chooses living relationship over a controllable interface. | Rasel recovered; nobody captured — Wren displaced, Qiao's clearance lost; Maren's complicity disclosed. |
 | II — *The Descent* | Did Maren betray Eli, and can she be recovered? | Rescue means retrieving and preserving her. | Göbekli reveals contact becoming control; Maren helped build the apparatus, resisted it, and must be released rather than kept useful. | Eli frees his mother without requiring her innocence or continued availability. Awakening spreads. |
-| III — *The Living World* | Who may govern dangerous awakened capacity? | Safety requires a registry, army, savior, or permanent center. | Free communities need enforceable limits, temporary authority, consent, accountability, and the right to refuse connection. | Eli accepts authority, causes real harm, relinquishes it, and becomes answerable rather than indispensable. |
+|| III — *The Living World* | Who may govern dangerous awakened capacity? | Safety requires a registry, army, savior, or permanent center. | The compact fractures under war pressure; Eli accepts bounded wartime command and wins battles, but the first relinquishment is incomplete because the compact no longer exists intact. | Eli holds emergency power; the institutions are too damaged to receive a clean handover; the work of reconstruction passes to Book IV. |
+|| IV — *The Court of Threads* | Can a broken compact be rebuilt better than before? | Reconstruction requires the same strongman; permanent emergency rule is the only reliable answer. | Under Lean Year scarcity, the rebuilt compact proves that decentralized governance can survive both war and material crisis — not because it never fractured, but because the reconstruction is voluntary and reviewable. | Eli relinquishes a second and final time during Rowan's labor; the child inherits no crown; the network continues without him. |
 
 ## The revelation rule
 
@@ -118,7 +118,7 @@ The journey is a chain of experiential chambers. Each chamber needs:
 | Chamber | Promise | Machine | Temptation | Consequence |
 |---|---|---|---|---|
 | Pelangi Reach | Wind, boats, improvised home | Chits, manifests, harbor relationships | Stay useful and undocumented | The shelter closes; Eli leaves |
-| Meridian / Cherry Cube | Frictionless vertical splendor | Classification, synchronized attention, worker lanes | Accept recognition and legitimacy | Rasel's hand and ring expose him |
+| Singapore / Cherry Cube | Frictionless vertical splendor | Classification, synchronized attention, worker lanes | Accept recognition and legitimacy | Rasel's hand and ring expose him |
 | Malacca | Plural harbor life | Human routes, favors, boats, threshold houses | Chase the mother-clue alone | Breach activates him and damages Wren's extraction |
 | Thai valley | Living fields and disciplined care | Cooperative records and water governance | Own the first clean proof | The record burns while people survive |
 | Northbound corridor | Human doors across machine borders | Documents, favors, freight, biometrics | Take Anika's protected route to Rasel | The human route costs time and exposes keepers |

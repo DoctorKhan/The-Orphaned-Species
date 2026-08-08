@@ -8,8 +8,12 @@
 
 > **Soft-inconsistency fix — 2026-07-29:** Do not call Layer 1 a trilogy. Current map Books I–IV; optional V–VI unallocated (`SERIES_STRUCTURE.md`).
 > **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-07-29, PROSE NOT YET RECONCILED:**
-> The series now ends in a women-led court volume. Book III's handover **succeeds**
-> and decentralized governance holds for a real stretch; Book IV opens on that
+> The series now ends in a women-led court volume. Book III's handover is
+> **incomplete** — the compact fractures under war pressure, leaving Eli
+> holding emergency power and the institutions too damaged to receive a clean
+> transfer. Book IV opens on that wreckage: the reconstituted institutions
+> deliberate whether to rebuild the compact or accept permanent emergency
+> rule.
 > stretch, then the Lean Year's converging allocation, credential, route, and trust failures lead the
 > institutions to deliberately invoke a dormant continuity clause and ask Eli
 > back into bounded authority; the Weavers and men's cloisters deepen power
@@ -90,7 +94,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
   open" craft pass logged in the manuscript header. Full findings:
   `55_series_pitch_and_comps.md` § *Book I — full-manuscript hunger audit*.
 - [x] Draft Pelangi Reach ordinary life and the Mandate political squeeze.
-- [x] Draft the sustained Meridian City–Straits–Malacca flight; breach ends Chapter 2.
+- [x] Draft the sustained Singapore–Straits–Malacca flight; breach ends Chapter 2.
 - [x] Draft aftermath/grounding, local Weaver hospitality, and Wren's disclosed placement route (Chs 3–4).
 - [x] **Thailand Ch 5–10 governing draft** in `manuscripts/I_The_Breach.md` (2026-07-23). Mekong quarry retired.
 - [x] Draft northbound route from Thailand: Shireen return-choice, Anika's true Rasel proof, human-door cost, Sichuan entry.
@@ -111,7 +115,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 - [x] Make melam external field-pressure and ni embodied awe/fear; show ni being converted into persecution and obedience.
 - [x] Give Maren's release a real strategic cost: Eli surrenders a useful tether and chooses her freedom.
 - [x] Make Sol witness the release and derive his forced-unity mandate.
-- [x] Stage Wren's first consequential clandestine recovery beside Rowan; preserve Knotter/Weft complement and keep Rowan out of Meridian City.
+- [x] Stage Wren's first consequential clandestine recovery beside Rowan; preserve Knotter/Weft complement and keep Rowan out of Singapore.
 - [x] **Book II chapter-by-chapter hunger audit — run 2026-08-01** against
   `manuscripts/II_The_Descent.md` (governing draft). **Verdict: pass, density
   parity with Book I holds.** Every chapter carries an active want, a

@@ -17,7 +17,7 @@ This document supersedes every earlier allocation that places the Gulf, Mesopota
 
 ## Book I route
 
-**Pelangi Reach → Meridian City → Malacca → Thailand agricultural witness → Sichuan / Sanxingdui.**
+**Pelangi Reach → Singapore → Malacca → Thailand agricultural witness → Sichuan / Sanxingdui.**
 
 The route remains geographically coherent inside maritime and Asian worlds. The Thailand-to-Gulf travel, Mesopotamian archive, Taş Tepeler circuit, and Göbekli permit race move out of Book I. Bangladesh remains off-page through Shireen, food, language, and Rasel's gardens.
 

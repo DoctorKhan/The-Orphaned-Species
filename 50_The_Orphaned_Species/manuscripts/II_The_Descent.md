@@ -812,7 +812,11 @@ holds and the walls remember water as a dark mineral line above the doors.
 Nadiya moves them through the building by its working routes. Seed technicians
 receive the cultures and record the temperature interruption. A nurse sees Sora
 in a room with two exits and no security glass. Wren signs nothing on her
-behalf.
+behalf. The nurse does not call it seizure. She calls it a night call—old
+language from the delta clinics where people still say a sleeper can answer
+without waking and the dreamer is a witness, not a source. Eli writes the term
+down because it sounds like Malia's language and because he does not yet know
+whether the resemblance is contamination or inheritance.
 
 Rasel watches each instrument they pass.
 
@@ -834,9 +838,15 @@ At the lower stair Nadiya stops them.
 
 "The person who sent your message was Dr. Samir Haddad. He died eight years
 ago. His credentials remain in a legacy mirror because three governments and
-two occupying authorities have each failed to complete the same migration."
+two occupying authorities have each failed to complete the same migration. The
+mirror still answers in his voice."
 
-"Someone used the mirror," Wren says.
+She shows them the reply. It is short. It gives a route reference, a time,
+and a request that Eli carry something small and heavy across a border that no
+longer exists on any map they own.
+
+"The tablet you carry," Nadiya says, "is not the only thing that outlasted the
+people who made it. It is only the one that fits in a pocket."
 
 "Someone who knew a dead man's key would pass systems that reject living
 disputes."
@@ -1504,7 +1514,12 @@ Different enclosures overlap in time. Paths cut earlier walls. Fill from one
 place enters another. Workers, visitors, rain channels, monitoring cables,
 roots—everything crosses the circles without obeying them.
 
-"Not one," Eli says.
+At his feet, a barley shoot grows from a crack in the limestone. It is not
+supposed to be here. The soil is thin. The season is wrong. It looks like the
+kind of thing that happens after a long cold stops and the ground forgets it
+was ever asleep. Eli does not know whether the site remembers the thaw or the
+barley does, but he knows better than to tell Rasel. His father would ask for
+a carbon date and ruin the only clean thing on the hill.
 
 Rasel studies the ground. "That is not a measurement."
 
@@ -2840,13 +2855,13 @@ The room loses air.
 
 "Where?" Eli asks.
 
-"Transfer depot east of the Bosporus. Then the Thrace route."
+"East of the water. Then north through the passes."
 
 She pauses. The collar at her throat pulses once—not field, just the memory of field—and she shifts her weight before she gives him the next piece.
 
-"Six days." Her eyes hold his. "The depot is called Maltepe. I am not sure the name is right. If I am wrong, do not use it."
+"Six days." Her eyes hold his. "The depot they used is called Maltepe. I am not sure the name is right. If I am wrong, do not use it."
 
-"Was he in the convoy today?"
+"Was Hassan in the convoy today?"
 
 "No."
 
@@ -3414,7 +3429,19 @@ Subject-selection objections. Sabotage sequence. Current western placement."
 
 "Verified forty-one hours ago."
 
-The body believes before the mind permits it.
+Rasel leans toward the screen. His hand lifts to the frame as if to verify a
+face by touch. He stops himself.
+
+"Timestamp hash," he says.
+
+Anika does not provide one.
+
+"Origin routing?"
+
+"Classified under active transfer protocols."
+
+He accepts both answers without pressing. The instruments in his blood know the
+shape of verification; his blood has stopped listening to them.
 
 Maren alive now. Not two winters. Not a correction surviving its writer.
 
@@ -7110,9 +7137,11 @@ They work for twenty-two minutes while the old stones hold no answer.
 
 Gareth does not return.
 
-His access keys remain clipped to the orange waterproof.
+His access keys remain clipped to the orange waterproof. Wren lifts them from the ground and straps them to her own belt without speaking.
 
-The slower route has a body now.
+Sora's ear is bleeding. She presses a folded dressing against it with one hand and watches the gate with the other.
+
+The slower route has a body now. It also has a medic who cannot stop shaking.
 
 Eli removes the high-visibility vest Gareth gave him and lays it beside the
 keys.
@@ -7884,6 +7913,11 @@ The lance destroys the transfer clock.
 
 The room erupts into unsynchronized signal.
 
+One reconnection arcs through Hassan's side. He folds against the control panel,
+gasping, and Somchai is already beside him before he can explain the pain.
+Eli cannot tell whether the burn is field or terminal. Hassan is breathing.
+That is the first mercy. That he cannot feel his left hand is the second.
+
 ---
 
 Maren loses her legs.
@@ -8082,20 +8116,24 @@ Eli closes his eyes.
 
 Wren gives him water.
 
-"Sol?"
+Eli's hand is not steady. He sets the cup down before he can feel the tremor.
+
+"Gareth?"
+"His partner came."
+Eli closes his eyes.
+"Did we use his name?"
+"Only with permission."
+"Good."
+"Somchai?"
 
 "Already calling the release proof that unity works. Anika is calling it proof
 unmanaged capacity cannot remain free. Both have footage."
 
 "Sora?"
-
+"Sora?"
 "Tommy left with her. Not Custodian custody. Not yet anything else."
 
-"Somchai?"
-
-"Working."
-
-Of course.
+Eli tries to sit.
 
 Eli tries to sit. The room tilts. Wren puts one hand behind his shoulder and
 waits for him to decide whether to continue.

@@ -106,7 +106,7 @@ This carrier lets the Filipino martial foundation and later Thailand training ma
 | Bali / childhood | Eli's mother and local growers document a rice-growth geometry that irrigation, disease, and trampling do not explain | plants provide the first evidence; local knowledge precedes Eli's interpretation |
 | Pelangi Reach refuge | Residents pool growth reports and reject false correlations | accountable collective method can see more than a gifted individual |
 | Malacca breach | Eli feels an interruption in an unseen route during the crisis but cannot name it | sensation begins the mystery; it is not yet knowledge |
-| Meridian City records | paired anomalies on opposite sides of missing routes produce opposed readings | a broken line leaves positive and negative ends; polarity is not morality |
+| Singapore records | paired anomalies on opposite sides of missing routes produce opposed readings | a broken line leaves positive and negative ends; polarity is not morality |
 | Maritime escape | old maps fail under pursuit because a route has broken and another is forming; **dead zones** force detours — barren wedges animals won't cross | discovery changes physical movement and survival rather than pausing it |
 | Ila / South Asia | cultivated plants change along a new geometry over time; growers distinguish **forming band** from **dead ground** (nothing takes) | crop circles are new line formation; dead ground beside it suggests **scour**, not blight |
 | Eli's first descents | He recognizes carrier movements as angles rather than ideas: chisel-line, hand-over-body scan, dream-path, song-shape | practices share geometry beneath different people and cultures |

@@ -140,9 +140,16 @@ The feed does not show Eli's left hand shaking in the service corridor an hour e
 
 The public image is not false. It is selective.
 
-Eli watches the feed in the review residence with the sound off. Wren stands behind him. Rowan is on the couch with her boots still on, reviewing route complaints.
-
-"He looks peaceful," Rowan says.
+Eli watches the feed in the review residence with the sound off. The image
+moves in clean frames, edited for continuity, narrated by a voice that calls
+the settlement mature and post-heroic. Eli knows the maker. He knows the angle
+chosen before the lens was put on the tripod. He knows what was held out of
+frame: Asha's damaged objection ledger, the fire inspector opening a door Rowan
+was not supposed to walk through, the Continuity delegate calling Costa Rican
+refusal a betrayal of the Eagle and Condor, the Sol depot opening under cutting
+torches, the bridge confrontation where two armed convoys waited for him to
+make the world simpler. The feed is not false. It is a room with one wall
+removed, and the room beyond is the same one they are standing in.
 
 "He is."
 
@@ -227,6 +234,10 @@ The caldera is a red shape in the North Pacific, far enough away that nobody in
 the hall heard it. The first images arrived twelve hours late through military
 channels and then everywhere at once. A dark column. Lightning inside it. A
 coast leaving beneath people who had names before they became a scale bar.
+
+In the harbor below, the first ash falls like coarse flour. A child catches it
+on a sleeve and looks at the gray smear the way children look at evidence—no
+opinion yet, just observation.
 
 No model agrees on how much sulfur reached the high air.
 
@@ -3296,17 +3307,35 @@ Neither is her question.
 "Rare."
 
 Rowan cancels the journey.
-
 The public statement says nothing about weakness.
-
 It names an evidence team, remote witness procedure, abort conditions, and the
 woman who will lead.
-
 The team returns with the certification.
-
 Rowan's absence does not make the work ownerless.
 
 This is competence too.
+
+The next morning, a Knotter from House Tey arrives with a household proposal written in competent care.
+
+She offers Rowan a room in the western residence, closer to the clinic, closer to Eli, under Weaver attestation. The wording is practical: reduced travel, medical witness, child-ready infrastructure, no interruption to Rowan's certification work. The record the Knotter leaves behind frames the move as Rowan's choice, motivated by pregnancy and family proximity.
+
+Rowan reads it twice.
+
+The first read shows what the sentence says: Rowan chooses proximity to Eli because she is carrying his child.
+
+The second read shows what the sentence does: it places Rowan in a house whose attestation ledger feeds directly into the succession review body, where every visitor, every meal, every late-night message becomes material.
+
+Wren sees the record before Rowan replies.
+
+'I can revise the wording,' the Knotter says. She is polite. She means it. She also knows that the version which enters the record governs what the court is permitted to imagine.
+
+'It is accurate,' Rowan says.
+
+'Mostly.'
+
+'Then leave it.'
+
+The Knotter does. The proposal becomes part of Rowan's placement history before noon. What it describes did not happen. What it describes is already beginning to.
 
 ---
 

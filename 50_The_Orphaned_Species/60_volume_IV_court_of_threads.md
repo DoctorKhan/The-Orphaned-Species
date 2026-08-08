@@ -1,52 +1,58 @@
 # Volume IV — *The Court of Threads* — Architecture Lock
 
-> **STATUS — REVISED 2026-07-29:** The series is a four-volume arc. Book III
-> **does** complete Eli's first relinquishment — not the final civic settlement
-> (the teahouse/garden/birds coda still belongs to Book IV), but a real,
-> completed constitutional transfer that holds for a genuine stretch of time,
-> with the Weavers and men's cloisters elevated into civic power through
-> building it rather than surviving an attack on it. Book IV opens by
-> summarizing that working stretch, then the **Lean Year** begins: a large
+> **STATUS — REVISED 2026-08-07:** The series is a four-volume arc. Book III
+> ends with Eli holding emergency wartime power and the institutions too
+> damaged to receive a clean handover — the first relinquishment is
+> **incomplete**, not because Eli refused it, but because the compact it
+> required fractured under military pressure. Book IV opens on that wreckage:
+> a war-damaged world in which the decentralized compact cannot be restored
+> by declaration. The **Lean Year** tests whether the same practices that
+> failed under war pressure can prove themselves under scarcity: a large
 > fictional North Pacific caldera eruption after northern spring planting
-> perturbs weather and transport without becoming a Yellowstone-scale apocalypse.
-> An already brittle food system converts uneven harvest loss into competing
-> forecasts, export holds, hoarding, credential abuse, convoy seizures, and
-> collapsing interregional trust. No one causes the whole crisis. Local
-> government continues while cross-network verification, trade, medicine, food,
-> and trust begin to seize. The reconstituted institutions decide, deliberately
-> and on the record, whether to invoke the dormant continuity clause planted at
-> the end of Book III and ask Eli to accept narrow cross-route authority. Book III
-> contains only deniable Rowan/Eli attraction—no sex or romance. Book IV carries
-> conscious attraction, repeated sex before romance, Rowan's later decision to
-> pursue pregnancy, childbirth, institutional settlement, and Eli's **second**
-> and final relinquishment.
+> perturbs weather and transport without becoming a Yellowstone-scale
+> apocalypse. An already brittle food system converts uneven harvest loss
+> into competing forecasts, export holds, hoarding, credential abuse,
+> convoy seizures, and collapsing interregional trust. Local societies keep
+> governing while cross-network verification, trade, medicine, food, and
+> trust begin to seize. The reconstituted institutions decide, deliberately
+> and on the record, whether to rebuild the compact or accept permanent
+> emergency rule. Book III contains only deniable Rowan/Eli attraction—no
+> sex or romance. Book IV carries conscious attraction, repeated sex before
+> romance, Rowan's later decision to pursue pregnancy, childbirth,
+> institutional settlement, and Eli's **second** and final relinquishment —
+> this time from a position of proven voluntary choice, not fractured
+> necessity.
 
 *The Court of Threads* is a working title. The architecture below is canon even
 if the title changes.
 
-> **GLOBAL COORDINATION PLOT — LOCKED 2026-08-02:** Book IV is not a project to
-> unify the world under Eli or to make succession the primary adventure. The
-> Lean Year is a practical survival crisis: the eruption disrupts weather,
-> harvests, shipping, medicine, fuel, and communications; competing forecasts,
-> export holds, hidden reserves, route seizures, and damaged trust jam the links
-> between otherwise functioning local societies. Eli is recalled to build a
-> temporary cross-route survival network connecting Union remnants, Mandate and
-> Coalition nodes, island ports, clinics, farms, and local governments. He solves
-> concrete failures—food, medicine, convoy passage, forecast verification,
-> refugee movement, and psionic escalation—without creating a world government
-> or overriding local sovereignty. The achievement is interoperability without
-> merger: divided regions can coordinate enough to survive. Rowan's relationship,
-> pregnancy, and the birth run inside this crisis as human and institutional
-> clocks; they do not replace the material plot. The final relinquishment proves
-> the network can continue without Eli.
+> **GLOBAL COORDINATION PLOT — REVISED 2026-08-07:** Book IV is the
+> reconstruction of a decentralized compact after its failure under war.
+> The Lean Year is a practical survival crisis: the eruption disrupts
+> weather, harvests, shipping, medicine, fuel, and communications;
+> competing forecasts, export holds, hidden reserves, route seizures, and
+> damaged trust jam the links between otherwise functioning local societies.
+> Eli is recalled to rebuild a cross-route survival network connecting Union
+> remnants, Mandate and Coalition nodes, island ports, clinics, farms, and
+> local governments. He solves concrete failures — food, medicine, convoy
+> passage, forecast verification, refugee movement, and psionic escalation —
+> without creating a world government or overriding local sovereignty. The
+> achievement is interoperability without merger: divided regions can
+> coordinate enough to survive. Rowan's relationship, pregnancy, and the
+> birth run inside this crisis as human and institutional clocks; they do
+> not replace the material plot. The final relinquishment proves the
+> reconstructed network can continue without Eli.
 
-> **SECOND MANDATE / WASHINGTON RHYME — LOCKED 2026-08-02:** Book IV's
-> institutions, not Eli, deliberately ask him back after the first handover
-> proves real but the Lean Year seizes the interregional layer. This is a second,
-> narrower provisional civil-political mandate for cross-route survival, not a
-> restoration of presidency, monarchy, or permanent emergency rule. The first
-> relinquishment follows war; the second follows material crisis. Eli's final
-> legitimacy lies in returning the authority both times.
+> **SECOND MANDATE / WASHINGTON RHYME — REVISED 2026-08-07:** The compact
+> Eli and the Weavers built **fractured under war pressure** in Book III.
+> Book IV's institutions, not Eli, deliberately ask him back after the
+> reconstruction proves real but the Lean Year seizes the interregional
+> layer. This is a second, narrower provisional civil-political mandate for
+> cross-route survival — not a restoration of presidency, monarchy, or
+> permanent emergency rule. The first mandate was wartime command the
+> compact could not absorb; the second is post-collapse reconstruction that
+> proves the compact can be rebuilt. Eli's final legitimacy lies in
+> returning the authority both times.
 
 > **LEAN YEAR VIOLENCE / ACTION BALANCE LOCK — 2026-08-02:** Book IV is not a
 > second interstate war, but it retains physical danger. Scarcity produces
@@ -211,47 +217,48 @@ if the title changes.
 ## 1. Book III → Book IV hinge
 
 Eli does not decide to keep power the first time, and he does not seize it back
-the second. By late Book III he has used real bounded authority, refused forced
-synchronization, and completed a constitutional transfer — distributed
-credentials, redundant verification, no single ceremony an attack could have
-reached all at once. It works. For a real stretch of time — long enough that
-the reader and Eli both feel it, not a paragraph of summary that evaporates —
-the constituent assembly, the Weavers, and the men's cloisters govern without
-him, and he is a private citizen: father-adjacent, useful, ordinary, replaceable.
+the second. By late Book III he has accepted a narrow wartime mandate and
+reunified defensive capacity — ports, clinics, farms, local administrations,
+and capable officers — into a temporary cross-route command. But the
+decentralized compact cannot hold under war pressure: Continuity keys,
+factional mandate, private force, and the temptation to turn emergency command
+into permanent authority fracture the interregional layer. The volume ends with
+Eli holding emergency power and the institutions too damaged to receive a clean
+handover. The first relinquishment is **incomplete** — not because Eli refuses
+it, but because the compact it required no longer exists intact.
 
-Book IV opens on that stretch briefly, then begins the Lean Year. News of the
-North Pacific eruption reaches the assembly first as incompatible forecasts and
-route closures, not an omniscient disaster summary. The first harvest losses are
-serious but survivable. What breaks the convenient hub is convergent capture:
-Henley's Continuity office uses dormant credentials to redirect shared grain;
-a Sol-linked cell opens or occupies a depot; merchants conceal capacity while
-remaining indispensable to movement; a Weaver house protects witnesses and
-inventories past the point of immediate danger; Northstar Continuity makes a
-separate attempt to seize the Sideways physical reference system and kills
-Celia Park; Asha is injured during the ensuing evacuation and allocation panic.
-The acts unfold across days and do not share one command chain. The court wants
-to call them one attack because one attacker would promise one ending. They are
-the dangerous middle of anocracy made material: civic offices, Continuity keys,
-private force, factional mandate, and local legitimacy all remain partly real.
-Outside the repair hall, local councils, clinics, ports, farms, and crews keep
-governing. Their continuity must appear on-page before Eli is recalled. What
-fails is the layer between them: shared credentials, disputed cargo priority,
-ceasefire correction, interregional medical allocation, and confidence that a
-message crossing jurisdictions is still clean.
+Book IV opens on that wreckage. News of the North Pacific eruption reaches the
+assembly first as incompatible forecasts and route closures, not an omniscient
+disaster summary. The first harvest losses are serious but survivable. What
+breaks the convenient hub is convergent capture: Henley's Continuity office uses
+dormant credentials to redirect shared grain; a Sol-linked cell opens or
+occupies a depot; merchants conceal capacity while remaining indispensable to
+movement; a Weaver house protects witnesses and inventories past the point of
+immediate danger; Northstar Continuity makes a separate attempt to seize the
+Sideways physical reference system and kills Celia Park; Asha is injured during
+the ensuing evacuation and allocation panic. The acts unfold across days and do
+not share one command chain. The court wants to call them one attack because one
+attacker would promise one ending. They are the dangerous middle of anocracy
+made material: civic offices, Continuity keys, private force, factional
+mandate, and local legitimacy all remain partly real. Outside the repair hall,
+local councils, clinics, ports, farms, and crews keep governing. Their
+continuity must appear on-page before Eli is recalled. What fails is the layer
+between them: shared credentials, disputed cargo priority, ceasefire correction,
+interregional medical allocation, and confidence that a message crossing
+jurisdictions is still clean.
 
 The compact's dormant continuity clause — stated on the record at the end of
-Book III, then not used — can be invoked to restore Eli's bounded mandate until
-a successor is safely reconstituted and certified. It does not fire
-automatically. The reconstituted institutions **choose** to invoke it,
-explicitly, with everyone in the room having already watched the alternative
-work — which is the only way "temporary is fine, permanent is not" can be
-dramatized honestly rather than asserted. The extension is public, reviewable,
-and legally bounded, but every faction that benefits from delay now has a
-reason to keep the certification crisis unresolved. Eli's Book IV danger is not
-crude seizure. It is becoming the permanent answer to emergencies other people
-learn to prolong — a temptation sharper the second time, because everyone
-involved, including Eli, now knows exactly how well the alternative can work
-and exactly how fragile it turned out to be.
+Book III, then not used because the institutions were too damaged to certify a
+successor — can be invoked to restore Eli's bounded mandate until a successor
+is safely reconstituted and certified. It does not fire automatically. The
+reconstituted institutions **choose** to invoke it, explicitly, with everyone in
+the room having already watched the alternative fracture. The extension is
+public, reviewable, and legally bounded, but every faction that benefits from
+delay now has a reason to keep the certification crisis unresolved. Eli's Book
+IV danger is not crude seizure. It is becoming the permanent answer to
+emergencies other people learn to prolong — a temptation sharper the second
+time, because everyone involved, including Eli, now knows exactly how well the
+alternative can work and exactly how fragile it turned out to be.
 
 **North–south movement / Costa Rica hinge — LOCKED 2026-08-01; WORKING WATERSHED 2026-08-01:** Primary receiving-and-transfer hinge = **Pacific-slope corridor** linking **Nosara–Samara** coastal nodes with inland nursery/farm capacity in the **Tenorio–Miravalles watershed zone** and existing biological-corridor practice toward Monteverde cloud forest. Do **not** flatten to generic rainforest iconography or treat Costa Rica as empty passage. Species mixtures, Indigenous jurisdiction specifics, dry-season water limits, and work-song wording remain **consultation-required** before denser on-page naming — but the hinge geography is no longer TBD. The court remains physically in North America. The volume is not solved by moving Eli,
 Rowan, Wren, or the palace south. As northern harvest and route failures deepen,

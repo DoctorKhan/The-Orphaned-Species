@@ -69,7 +69,7 @@ Characters never need the phase names. You do, off-page, to pick the right bite.
 | Site | Activates | Bible / lore bite | They earn | Hold for later |
 |---|---|---|---|---|
 | Pelangi Reach | Ring on file; hearth squeeze | Orphaning as file-fiction; domestic cage | Parents taken, not dead; must move | Charkha name |
-| Meridian Stack / Cube | Archive packet; Maren grounding | Transmission under spectacle; Tree of Knowledge skin | Ring trail; receiver flickers | Full Charkha |
+| Singapore Stack / Cube | Archive packet; Maren grounding | Transmission under spectacle; Tree of Knowledge skin | Ring trail; receiver flickers | Full Charkha |
 | Malacca breach | Receiver ON; Circles dream (forgets) | Three Circles grammar; dream-forgetting clock | Talents exist; no control | Circles meaning |
 | Thailand coop | Forming line; Ila hands; two teams | Living route vs managed field; people > evidence | Distributed Life pattern; debt ledger | Full Tree cosmology |
 | Vietnam shelf (detour) | UXO / mud clock | War residue as present logistics | Cost of closed borders | — |
@@ -105,7 +105,7 @@ Route: post-Sanxingdui → **Egypt brief hinge or packet** → Mesopotamia → G
 
 ## Book III — The Living World
 
-Route: Albion exit → Atlantic → Brazilian lower-river network → Hawaiʻi → corridor → hearing → successful handover. **Egypt = Mandate-face only** (no pilgrimage; seed was Book II hinge/packet).
+Route: Albion exit → Atlantic → Brazilian lower-river network → Hawaiʻi → corridor → hearing → **incomplete handover under war pressure**. **Egypt = Mandate-face only** (no pilgrimage; seed was Book II hinge/packet).
 
 | Ch / Site | Activates | Bible bite | Partial truth | Hold | Next |
 |---|---|---|---|---|---|

@@ -190,7 +190,7 @@ The reader must care about what Eli stands to lose before learning what he is.
 
 ### 2. Give one impossible event early
 
-**Current placement — LOCKED:** the Malacca breach closes **Chapter 2**. Chapter 1 earns the ordinary life; Chapter 2 destroys distance between displacement, the ring, pursuit, and the impossible event. Do not postpone the breach to preserve separate Meridian City, Straits, or witness-tour chapters.
+**Current placement — LOCKED:** the Malacca breach closes **Chapter 2**. Chapter 1 earns the ordinary life; Chapter 2 destroys distance between displacement, the ring, pursuit, and the impossible event. Do not postpone the breach to preserve separate Singapore, Straits, or witness-tour chapters.
 
 The early hook should be undeniable but not explained:
 
@@ -400,7 +400,7 @@ Discoveries and pressures:
 - One impossible event pulls him out.
 - The first artifact gives a visual key without explaining the cosmos.
 - The psion war becomes personal.
-- **Meridian Ch 2 — Maren habit only (LOCKED 2026-07-24 rev. C):** Cube overload → **Maren's grounding gesture** (fingers, breath) — **not** martial foreshadow. **No Thailand body memory** before Ch 5. Martial **first on-page Thailand Ch 5–10**.
+- **Singapore Ch 2 — Maren habit only (LOCKED 2026-07-24 rev. C):** Cube overload → **Maren's grounding gesture** (fingers, breath) — **not** martial foreshadow. **No Thailand body memory** before Ch 5. Martial **first on-page Thailand Ch 5–10**.
 - The Three Circles begin as practice, not doctrine.
 - Eli learns that some memories, charges, and impulses are not fully "him."
 - He can begin to override autopilot, but doing so makes him visible.

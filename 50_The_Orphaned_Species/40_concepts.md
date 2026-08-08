@@ -194,7 +194,7 @@ new terms—the bond becomes romantic again.
 
 ## The Harbor Thread
 
-*Named 2026-07-24; rev. B 2026-07-24. Glossary: `95`. WORLD_BIBLE § Meridian. Not the missing male order (`29` § diagnosis).*
+*Named 2026-07-24; rev. B 2026-07-24. Glossary: `95`. WORLD_BIBLE § Singapore. Not the missing male order (`29` § diagnosis).*
 
 **The Harbor Thread** is the distributed, mostly male **underground** that knows how cargo, bodies, witness, and **expendable male leadership** move when official maps lie — Stack service levels, strait timings, chandlery handoffs, freight ramps, inspection rhythms. Bengali workers call it the **Shromik Line** (*shromik* = worker); **street:** *the Thread*; *harbor thread* when the port/strait sense matters.
 
@@ -337,7 +337,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 **Craft rule (individual):** show **hidden talent** through work behavior — Eli finishes the diagram in his head but logs the slow time; he remembers the corridor after one walk but doesn't offer to lead. **Performing average** is survival craft, not false modesty.
 
-**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **TBI** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Hinge folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-26 (rev. Z):** Wren may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Meridian run** = **Eli beats Kiran in Suresh-held race wager** + compound attestation; leave away from island scrutiny.
+**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **TBI** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Hinge folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-26 (rev. Z):** Wren may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Singapore run** = **Eli beats Kiran in Suresh-held race wager** + compound attestation; leave away from island scrutiny.
 
 ---
 
@@ -355,7 +355,7 @@ Post-Hinge **inverted order** — three male fates (two spoken, one not):
 
 **Front posts** — dangerous male leadership the Thread fills: harbor captain, facility lead under squeeze, founder/**CEO** (target and liability, not prize), public performer. **CEO is a spending occupation.**
 
-**Three-volume deployment — LOCKED 2026-07-28:** Book I names the *Extra lane* once at Meridian intake when an unsponsored tradesman is diverted despite a valid work certificate. Book II makes Rowan's missing person a demobilized man stripped of house standing and presumed to be a raider; Wren and Rowan's recovery enters an Extra settlement diverse enough to defeat the category. Sol recruits from the same population by offering names, brotherhood, protection, and purpose. Book III shows Extras divided among Sol, community defense, refusal, mutual aid, and public testimony.
+**Three-volume deployment — LOCKED 2026-07-28:** Book I names the *Extra lane* once at Singapore intake when an unsponsored tradesman is diverted despite a valid work certificate. Book II makes Rowan's missing person a demobilized man stripped of house standing and presumed to be a raider; Wren and Rowan's recovery enters an Extra settlement diverse enough to defeat the category. Sol recruits from the same population by offering names, brotherhood, protection, and purpose. Book III shows Extras divided among Sol, community defense, refusal, mutual aid, and public testimony.
 
 **Third road (Book III):** the first cloisters are co-founded by Extra men, veterans, Harbor Thread elders, and Eli. They confer **kept** standing through attention, repair, watch, care, restraint, and accountable service—neither house servitude nor Thread placement nor a certificate of romantic acceptability. The Weavers do not grant admission or legitimacy.
 
@@ -440,7 +440,7 @@ Distributed antagonism holds: both readings are true somewhere, and human instit
 - **Civilization as role machine** (`17` §6) — this concept is that reveal's *mechanism*: the machine is a game with the exit removed.
 - **The Arta** — civilization's transferable order: the rulebook, carried as if it were the terrain.
 - **Pelangi Reach** — the inversion inverted back: a theme park sheltering real life; the children's train built for loops carrying a real escape; play structures doing survival's work without shame.
-- **The Meridian Circuit** — the city seals real streets so machines can go in circles; real movement survives in the game's service corridors.
+- **The Singapore Circuit** — the city seals real streets so machines can go in circles; real movement survives in the game's service corridors.
 - **Eli's garden** — the demoted half held as devotion; the pitch decks upstairs are the game believing itself the world.
 - **The ending** (`17` § full circle) — the final ordinary afternoon is this concept resolved: work, sailing, jokes, breakfast — necessity and play each back under its own name, and *nobody turns the afternoon into destiny*.
 

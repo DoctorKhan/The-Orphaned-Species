@@ -59,7 +59,7 @@ Your four sections are already inside the trilogy in embryo. What your framing a
 ### 3.2 Population culling by other names
 - **Fractured file-language**: the Union's preferred clinical framing of an episode. "Fractured" is already the novel's version of population culling discourse — classify everyone who breaks as damaged and the authorization for containment is complete.
 - The **purge at Chapter 1** — biosecurity cover, classifications, medical assessment — is mass triage dressed as public health. The conductance is rhetorical; the effect is population control.
-- The **Eastern Mandate** at Meridian City is exactly what a wartime logistical regime does when biology becomes the new race: translation, classification, atomized processing, no relationship.
+- The **Eastern Mandate** at Singapore is exactly what a wartime logistical regime does when biology becomes the new race: translation, classification, atomized processing, no relationship.
 - The **Nephilot purge at Pömmalte** demonstrated in Vol II isn't metaphor either. Women and children were the named carriers — biological specificity with social outcome. That sequence is already the trilogy's precedent for population culling under scientific/religious authority.
 
 ### 3.3 The psychology of unconsented biological intervention
@@ -75,7 +75,7 @@ Your four sections are already inside the trilogy in embryo. What your framing a
 - The difference between this apparatus and the idealized IAEA is consent, transparency, and distributed accountability — all things Eli refuses Sol's forced-unity substitute for, then accepts in a bounded, revocable compact at Hawaiʻi.
 
 ### 4.2 Mandatory screening & the synthetic-dna trap
-- The Meridian City archive — polarity data, pre-war clinic outreach metadata linking to Lang — is the first explicit proof that the control apparatus has been **recording biological signatures before the crisis**.
+- The Singapore archive — polarity data, pre-war clinic outreach metadata linking to Lang — is the first explicit proof that the control apparatus has been **recording biological signatures before the crisis**.
 - The trilogy does not need a lab-synthesis surveillance scene; the Custodians operate through **body-register language and field-read probes**. That is how the apparatus detects an anomalous signature without seeing the raw sheet.
 
 ### 4.3 Global registries & sovereignty clashing with biological nonfiction

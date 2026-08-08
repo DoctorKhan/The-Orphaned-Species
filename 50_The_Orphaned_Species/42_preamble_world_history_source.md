@@ -21,7 +21,7 @@
 
 | World-history fact | Diegetic vehicle | Status in Ch 1 |
 |---|---|---|
-| Bioweapon; ancestry-keyed; South Asia worst, East Asia spared | Checkpoint swab logic; towers vs. Foundry; optional chr3 epigraph | Meridian intake sorting dramatized ✓; epigraph archived |
+| Bioweapon; ancestry-keyed; South Asia worst, East Asia spared | Checkpoint swab logic; towers vs. Foundry; optional chr3 epigraph | Singapore intake sorting dramatized ✓; epigraph archived |
 | Heritable legacy (germline integration) | Mandate quarantine of *adolescents* specifically; a mother's dread at a child's fever | Gap |
 | Machine wars (drones/robot soldiers) | A decommissioned drone in the marina; a veteran's offhand line; the plaza *robot dog* as domesticated war-tech | Robot dog present ✓ (could carry more) |
 | Political schism; rigged-election; first woman president | A faded campaign poster; two workers who "no longer share the same reality" | Gap |

@@ -145,7 +145,7 @@ Tea supplies their recurring diplomatic register. They may negotiate at a teahou
 
 ## Mandate portrayal — revised lock
 
-The Mandate is **initially experienced as faceless** because Eli meets it through automated strikes, quarantine systems, shipping restrictions, distant policy, and Meridian City's clinical machinery. That is a limitation of contact and wartime perspective—not a claim that hundreds of millions of people form one mind.
+The Mandate is **initially experienced as faceless** because Eli meets it through automated strikes, quarantine systems, shipping restrictions, distant policy, and Singapore's clinical machinery. That is a limitation of contact and wartime perspective—not a claim that hundreds of millions of people form one mind.
 
 Book III deliberately breaks that compression. Commissioner Ma, scientists, engineers, sailors, workers, patients, families, officials, and internal critics reveal a civilization containing incompatible interests and moral traditions. Humanization does not erase the Mandate's attack, coercive medicine, blockades, or responsibility for the Awakening War. Nor does Commissioner Ma function as a single redemption face who speaks for everyone.
 

@@ -8,7 +8,7 @@
 |------|------|
 | **Friday AM** | Garden → **morning skiff race** (10 o'clock) vs Suresh; **Eli wins** — wind pocket, Timah/Jul harvest boat drifts into Suresh's line; Eli reads wall-shadow breeze from quay watching; Suresh crosses own name off slate |
 | **Friday PM** | **Mei final dinner** on terrace — orphan truth (*stolen child*, parents taken alive); **only send-off** (no second goodbye Saturday) |
-| **Saturday AM** | Babaji's **motor catamaran** at anchor — **first time Eli meets Wren**; papers, attestation, call sheet; *"I'm your handler through Meridian City"* |
+| **Saturday AM** | Babaji's **motor catamaran** at anchor — **first time Eli meets Wren**; papers, attestation, call sheet; *"I'm your handler through Singapore"* |
 | **Saturday PM** | Mandate squeeze → **Wren at marina stairs BEFORE checkpoint** → guides gate → boards Suresh → **raid on Babaji's hotel offices** as Eli departs **last light**; Babaji's catamaran runs south in parallel |
 
 ## Cast / object locks
@@ -26,13 +26,13 @@
 
 2. **⟦DC-2⟧ — LOCKED rev. Z + craft 2026-07-29.** **Mei dinner** opens with Eli and Kiran trading race notes; Kiran leaves before Mei privately delivers the orphan truth (*stolen child*, parents taken alive, Babaji told her years ago). **Rootbook charged on-page:** Eli opens it—Maren's hand, forked *Name* page—Mei closes it and withholds (*Babaji's people move paper*). Plate left like a place held. **No Saturday service-door goodbye.**
 
-3. **⟦DC-3⟧ — LOCKED rev. Y + craft 2026-07-29.** **Saturday AM catamaran** = first Wren meet. Handler line through Meridian City. **Accelerated:** papers + attest + last-light window + grief line on launch; jurisdiction speech and tea-ledger beat compressed. Babaji texture without orphan exposition on Babaji's lips.
+3. **⟦DC-3⟧ — LOCKED rev. Y + craft 2026-07-29.** **Saturday AM catamaran** = first Wren meet. Handler line through Singapore. **Accelerated:** papers + attest + last-light window + grief line on launch; jurisdiction speech and tea-ledger beat compressed. Babaji texture without orphan exposition on Babaji's lips.
 
 4. **⟦DC-4⟧ — LOCKED rev. Y.** **Saturday PM departure** during raid on Babaji hotel offices; hearth suspended; island locked down. Babaji catamaran south in parallel. **Last light**, not dawn.
 
-5. **⟦DC-5⟧ — LOCKED rev. Y.** **Option A** — no Pelangi resort chase (kiddy-car retired to quarry). Hunt begins at Meridian intake/concert (Ch 2).
+5. **⟦DC-5⟧ — LOCKED rev. Y.** **Option A** — no Pelangi resort chase (kiddy-car retired to quarry). Hunt begins at Singapore intake/concert (Ch 2).
 
-6. **⟦DC-6⟧ — LOCKED craft 2026-07-29; job clarity 2026-07-30.** **Cold-reader noun friction:** Cherry Cube / Circuit / Thread / Weaver / Albion / Eastern Mandate labels thinned or delayed out of Ch 1 surface; cash-job want and parent-alive want land clean; Cube named in Ch 2 when Eli arrives. **Job stack on-page:** Suresh names Circuit-weekend Cube show (concert before street race); Babaji names Foundry sleeve as **cover** and Cube show as **job**; gate speech repeats cover only; Wren: *show call Sunday—concert first, race after* + second-set closet beat.
+6. **⟦DC-6⟧ — LOCKED craft 2026-07-29; job clarity 2026-07-30.** **Cold-reader noun friction:** Cherry Cube / Circuit / Thread / Weaver / Albion / Eastern Mandate labels thinned or delayed out of Ch 1 surface; cash-job want and parent-alive want land clean. **Eli has heard of the Cube** — it is public/civic-famous in Singapore; his wage ticket and cover story already name it. Ch 1 surface does not surface the noun; Cube is named on-page in Ch 2 when Eli arrives. **Job stack on-page:** Suresh names Circuit-weekend Cube show (concert before street race); Babaji names Foundry sleeve as **cover** and Cube show as **job**; gate speech repeats cover only; Wren: *show call Sunday—concert first, race after* + second-set closet beat.
 
 7. **⟦DC-7⟧ — LOCKED craft 2026-07-29.** **Shireen remittance = phone transfer**, not bank wire. Suresh: *Real transfer, not island chits.* Eli to Shireen: *Cash hits at intake—I'll transfer Sunday* (Monday clinic deposit). Squeeze kills bars **and** remittance lane. No on-page crypto brand names; street plumbing only (`23` crypto-broken remittance lanes).
 
