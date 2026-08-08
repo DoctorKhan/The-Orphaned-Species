@@ -156,6 +156,55 @@ Rowan nods. She does not tell him to be grateful for the image. She does not tel
 
 ---
 
+That night, Wren leaves the review residence by the back stair and knocks on
+Rowan's door.
+
+She does not go to Eli. She could. He is two doors down, reading vessel
+manifests with the patience that used to make her trust him before she knew
+what trust cost. Instead she stands in Rowan's corridor and listens to the
+house breathe: barrier hum, distant water, Mina's clinic clock chiming the
+hour.
+
+Rowan opens the door wearing a sweater with a stain on the cuff and the kind of
+exhaustion that comes from holding a public face for seven months.
+
+"You didn't send a message," Rowan says.
+
+"I didn't want a message. I wanted to not be Wren for an hour."
+
+Rowan holds the door open. Inside, the room smells like pencil shavings and
+hot water and the leaf paste she chews when she is concentrating. Rowan closes
+the door behind her and does not offer the chair by the window where Eli would
+sit.
+
+"Eli is downstairs," Rowan says.
+
+"I know."
+
+"Then you came here to avoid him."
+
+Wren says nothing. The admission sits in the room the way a held note does—not
+wrong, not right, just present.
+
+"I am not the place you go instead of him," Rowan says quietly. She says it
+the way she says route facts: without heat, without appeal, without doubt.
+
+Wren looks at the stain on the cuff. It is ink. Rowan has been working on the
+compact language again.
+
+"I know," Wren says.
+
+"Then go back to him."
+
+"I will."
+
+"Good."
+
+Rowan does not hug her. She does not offer comfort. She hands her a glass of
+water and stands where Wren can feel the door still closed behind her.
+
+---
+
 The first notice is not an alarm.
 
 It is a shipping refusal.
@@ -3049,6 +3098,27 @@ said she is pregnant.
 
 Wren cancels the venue authorization.
 
+For a moment the room does not change. Then it does.
+
+The absence of a chair beside Eli lands the way absence always lands for her:
+not as silence but as a category the room has already chosen without asking. In
+seven months she has learned to read those categories before they speak. This
+one names the difference between being present and being placed.
+
+Rowan notices. She does not look at the empty space. She looks at Wren.
+
+The asymmetry is not new. It has been arriving since the first review house,
+since the compact drafting started at hours Wren does not remember sleeping,
+since the moment Wren chose a chair beside Rowan in public and then asked Eli to
+decide whether it was romantic. Wren carries the workload that keeps Rowan's
+face calm. Rowan carries the face that makes the workload invisible. Neither
+woman mistakes this for fairness. They have discussed it twice, in the corridor
+outside the compact room, in tones that sounded like routing and meant grief.
+The third time they do not need to speak. They have begun to count the tasks
+that have no table: the griefs classified at night, the objections filed without
+signature, the mornings Wren wakes before the house to ensure the public record
+says what Rowan intended.
+
 Novak appeals within nine minutes.
 
 Outside the review house, crowds begin gathering anyway.
@@ -3091,9 +3161,26 @@ The pregnancy remains private.
 
 The heir already has supporters.
 
+Rowan feels the claim land before she understands where it came from. It sits
+in the room the way a weight sits in a route pack—not visible until you try to
+stand upright, then impossible to ignore. The crowd outside has named a future
+she has not consented to carry. The compact draft she and Wren have been
+working since before dawn says otherwise. Wren's pencil marks in the margin
+say otherwise. The child moving inside her has said nothing.
+
+She stands in the corridor outside the assembly chamber and listens to the
+house breathe. Somewhere a barrier hums. Somewhere Mina's clinic clock ticks
+through the hour. Somewhere Wren is rewriting the statement that will make the
+rumor a category error.
+
+Rowan touches the place below her ribs where the new life is small enough to
+feel like a question mark instead of a certainty. She does not smile. She does
+not weep. She decides to call the compact what it is: a future she and Wren
+and Eli are making together, not a throne disguised as a pregnancy.
+
 ## Chapter Six—The Body of State
 
-At eleven weeks, Rowan cannot enter the assembly chamber without vomiting.
+Pregnancy changes the hours before it changes the silhouette.
 
 The problem is not politics.
 
@@ -3105,6 +3192,18 @@ to find the succession debate paused.
 Three hundred people watch her sit.
 
 The pregnancy becomes public through silence.
+
+Rowan opens the prepared statement.
+
+Wren's hands have been moving since before dawn. The compact draft, the privacy
+rule, the reply to Novak, the draft of a draft, a seventh version of a sentence
+she has rewritten more times than the route itself. The cost of that labor does
+not show in her posture. It shows in the distance between her answers, in the
+way she checks the transmission twice before speaking, in the sleep she has not
+taken. Rowan has begun counting the tasks Wren performs that no table will name:
+the requests routed at night, the griefs classified, the strangers kept from
+his door. Hub labor has no signature. It only appears as the thing missing when
+it stops.
 
 Rowan opens the prepared statement.
 
@@ -6043,6 +6142,14 @@ The effect remains small.
 
 No ship launches.
 
+But this month, for the first time, the displacement holds steady for four
+full seconds before the lattice loses it — long enough for every team in the
+room to look up at once, Mandate and Union hands still an arm's length apart.
+One of the independent researchers swears the pattern answered back, once,
+before it collapsed. Not an echo. A reply. Nobody can reproduce that part yet.
+Nobody claims the four seconds either. Nobody could have gotten either one
+alone.
+
 Commissioner Ma drinks tea with Rasel by screen and disputes custody language
 for forty minutes.
 
@@ -6161,4 +6268,6 @@ Feel it before you see it.
 
 The lane holds.
 
----
+Morning reaches the insects. The swifts leave the ledge the way they arrived:
+without leader, without signal, without asking permission from the man who
+turned off the water.

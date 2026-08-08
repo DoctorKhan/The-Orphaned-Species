@@ -77,9 +77,18 @@ searching and too low to be weather.
 
 Eli feels the boat before he sees a face.
 
-Not one signature. A pressure of several, crossing and withdrawing, with one
-mind among them unable to close its door. Fear moves out from that person and
-returns carrying everyone else's fear with it.
+The smell hits first—diesel under rain, river mud, the sour-sweet rot of
+something floating just below the surface, and a salt that is not the sea but
+something older and more mineral, carried inland from the estuary mouth. Then
+sound: an engine coughing through a wet governor, a cleat knocking against a
+wet hull, Bima's repaired harness thread drawing green sail-thatch across a
+metal D-ring in a rhythm too regular to be accidental. The rain begins while
+Eli is still listening to the engine, cold against his neck, and the patrol
+drone overhead changes pitch without moving—receiver, not watcher. Inside his
+chest the pressure arrives before the name: not one signature but several,
+crossing and withdrawing, with one mind among them unable to close its door.
+Fear moves out from that person and returns carrying everyone else's fear with
+it.
 
 The harbor answers.
 
@@ -506,7 +515,7 @@ checkpoint calls military whether a uniform exists or not.
 One of those men carries the lower-concourse stamp beneath the skin of his
 wrist.
 
-Eli saw the same broken square in Meridian City.
+Eli saw the same broken square in Singapore.
 
 **EXTRA / UNSPONSORED MALE / AUXILIARY ROUTING.**
 
@@ -1435,7 +1444,35 @@ He lets the reunion belong to them.
 For the first time since the boat arrived, Eli believes the terms may be
 teaching him something.
 
-## Chapter Three—The Person Freedom Failed
+---
+
+Wren finds Mei on the kitchen stair before anyone else is awake. Mei is sitting
+on the step with a towel around her shoulders and the smell of wet flour on her
+hands. The kitchen vent is breathing steam. The harbor is still dark enough that
+the lighthouse beam moves across the ceiling like a slow finger.
+
+"You should sleep," Wren says.
+
+"I should close the kitchen," Mei says. "I have not decided which."
+
+She holds up a piece of paper. It is a note from the mainland supplier—the one
+who called the compound account at risk review. Mei has drawn an arrow beside
+the sentence and written three words in the margin: *not the first time.*
+
+"I ran this kitchen while the old resort was still promising water it never
+installed," she says. "I ran it while the authorities asked at the desk and
+Babaji moved paper in the back. I ran it when the hospital sent patients
+because the clinic had no rice. Feeding people is not a policy. It is the thing
+that happens before policy remembers it has a jurisdiction."
+
+She folds the note and puts it into her apron pocket.
+
+"You are doing the same thing with routes," Mei says. "Not the policies. The
+people who arrive before the paperwork."
+
+Wren says nothing.
+
+"Good," Mei says. "Then you are learning."
 
 For twelve days, nothing terrible happens.
 
@@ -1466,6 +1503,17 @@ Tomas swears after he leaves the room.
 Not at Bima.
 
 At himself for being relieved there is a tomorrow.
+
+The relief is honest. So is the anger at the honesty.
+
+Tomas has been carried by too many people who did not ask him to name what he
+cost them. Bima failed him. Wren gave him abort contacts he did not earn. Nia
+and Amara gave him a room above the laundry. Mei gave him a bowl with his
+sister's instruction in it. Each gift has been a question: will you let this
+be debt? Tomas has let them. He does not know how to receive without turning
+the next act into repayment. The accident with Nia was not the first time he
+has made a boundary land in someone else's body. It was only the first time it
+was visible enough to name.
 
 Amara and Nia take a room above the old laundry. They have been married four
 years and physically together for nine months of them. Amara repairs steering
@@ -1675,6 +1723,18 @@ Tomas does not move.
 Tomas flinches as if she struck him.
 
 Amara rises from the well.
+
+Nia watches him leave and feels something she has no name for. Relief, partly.
+The accidental transfer violated a boundary she did not know she was keeping.
+But underneath the relief sits a smaller, colder fact: she wanted the
+consequence to land. Not death. Not harm. Just proof that the thing she has
+been managing inside Tomas has weight outside him. The fact that she wanted
+proof frightens her more than the accident itself.
+
+"Let him cool," Amara says quietly.
+
+Nia says nothing. The truth is not cool. It is still warm, like a tool that
+has been working.
 
 "Both of you stop."
 
@@ -2042,7 +2102,25 @@ She carries a tray past him without slowing.
 
 ---
 
-Tomas is transferred at dawn.
+At the end of the fifth day, the witnesses begin arriving through back doors.
+
+A woman who was moved through three Union registries before she turned
+eighteen. A man whose wife's body was released to a different surname. A
+teenager who watched a threshold house burn and carried the neighbor's child
+out before the neighbor's name. None of them are lawyers. None of them have
+training. Each one carries a record that Lang's Standard would call incomplete
+and that the compact drafters have begun calling irreplaceable.
+
+Eli listens to them the way he listens to the garden: for the thing that grows
+without being told.
+
+What he hears is not a consensus. It is a refusal to let the only version of
+what happened be the version a clerk wrote down afterward.
+
+Wren records every account in her own hand. She does not summarize. She does
+not correct. She lets the contradictions sit beside each other the way the
+circles at Göbekli did—overlapping, out of phase, still true in their own
+register.
 
 Lang's team accepts Belém's conditions: named destination, counsel access,
 medical rather than punitive hold, daily outside contact, no research use
@@ -2122,8 +2200,8 @@ The launch stops short of the pier.
 An official apologizes that the negotiation hall is not ready. Market vendors
 have refused to clear the customs square until their stalls are guaranteed
 against seizure, three registry families are camped inside the old passenger
-terminal, and a security sweep has found an unlicensed field signature near
-the warehouse the talks were meant to use.
+terminal, and a security sweep has found an unlicensed field signature near the
+warehouse the talks were meant to use.
 
 "We can hold you aboard," the official says.
 
@@ -2141,7 +2219,19 @@ Ver-o-Peso runs the length of the waterfront under an iron roof shipped from
 Europe a century before anyone at this table was born, and the rain drums
 against it loud enough that two people standing close can talk without being
 overheard by a third standing near. The bay stays visible past the stalls:
-fishing boats riding the tide against their lines, a child pulling away from an
+fishing boats riding the tide against their lines, a child pulling away from a
+
+Wren stops at a stall selling cassava flour and listens. The vendor does not
+look at her. The buyer does not look at the stall. The exchange is ordinary
+enough that a Union observer would pass it without noting the folded paper
+changing hands inside the flour sack. This is the compact before it has a name:
+not a charter signed in a hall, but a transaction witnessed by two people who
+both understand that the paper inside the sack is a consent not to be searched,
+and that the consent is only valid because the vendor chose to give it.
+
+She moves on. The rain has not stopped.
+
+The standard arrives in the afternoon.
 adult to put both hands flat against a crate of ice.
 
 Herb-sellers call their remedies over the drumming.
@@ -2858,7 +2948,25 @@ Amara touches the cloth once.
 
 She leaves it.
 
-The public session occupies the square because the warehouse floor cannot hold
+The tide has turned while the names were being tied. The water now sits higher
+along the warehouse pilings, and the air smells of salt and wet rope and the
+sour yeasty smell of dough left too long in a warm room. Bima stands near the
+customs-square edge with Sura's smaller harness in his hand—not the patched
+green thread but a new weave he has been making by feel during night watches,
+teaching his hands to do something other than repair. Sura watches from the
+pavement with the concentration of a child who has learned that tools are
+adult-language for love. The boy who once laughed at the wrong corner of the
+blanket is now older by the hours since the boat, and he stands close enough
+that Bima can feel the boy's shoulder against his hip without looking.
+
+Bima's own harness has been repaired so many times the green thread has become
+a map of places he has been and repairs he refused to abandon. He does not wear
+it for show. He wears it because the alternative is a knot that will not hold,
+and he has already lost one crew to a knot he thought was good. The loss lives
+in his hands the way certain smells live in fabric—underneath, not gone, not
+spoken, but present every time he reaches for a line.
+
+The public session occupies the square.
 the crowd and because too many people refuse another sealed room. The tide has
 pulled back further than the schedule promised, leaving wet mud and stranded
 skiffs where boats float at every other hour. Temporary clinic tents stand
@@ -3532,6 +3640,17 @@ Lang's Standard is not under negotiation here.
 That matters.
 
 They are not writing a weaker version of his system.
+
+Wren has begun to notice what the compact is not. It is not a table where
+every voice carries equal weight. It is not a document that can be summarized in
+a feed title. It is not a system that will protect the people who built it from
+the people who wrote it. The difference between the compact and Lang's Standard
+is not vocabulary. It is the decision to let contradiction remain inside the
+room instead of removing it afterward.
+
+This is what she has been drafting at hours she does not remember sleeping: not
+the text itself but the spaces around it—the review periods, the abort contacts,
+the unnamed chairs, the refusal to let a single account become the record.
 
 Amina joins from a replacement desk two piers down, Dona Iracema beside her
 sorting ration cards through the interference. Mei joins from a
@@ -5289,13 +5408,13 @@ The operational report records eleven minutes purchased.
 
 It does not record the other cost.
 
-Tomas Okafor is found by Eli in the morning review not far from the junction
+Diogo Ferreira is found by Eli in the morning review not far from the junction
 access hatch, where he had been carrying cable for the evacuation rig. The
 body shows no weapon, no blow, only burns consistent with live rail and the
 compression mark of a collapsing stanchion. He is twenty-one. He came
-awakened from the crossing with his sister Nia and a request for ordinary work.
-He does not get ordinary work. He gets the first hour of a war he did not
-start, holding a wire that was never meant to carry current alone.
+awakened from the crossing with his brother Paulo and a request for ordinary
+work. He does not get ordinary work. He gets the first hour of a war he did
+not start, holding a wire that was never meant to carry current alone.
 
 Eli stands beside the sheet long enough to read the name twice.
 
