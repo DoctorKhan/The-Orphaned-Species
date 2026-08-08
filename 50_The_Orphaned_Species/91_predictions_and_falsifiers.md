@@ -159,7 +159,8 @@
 
 - **Directed vs. undirected panspermia leave identical physical traces.** "Intent behind the seeding" is not a measurement. Every §3 anchor is equally consistent with ordinary astrochemistry.
 - **The anti-entropic medium and ley-line carrier** are unrecognised in mainstream physics; parapsychology's null, unreplicated record and the lack of evidence for physical ley lines stand against them as literal mechanisms. They belong to the book's cosmology, not its science-facing evidence.
-- **The Tree-of-Life bridge / spirit-to-spirit plane** is defined as the *non-mediated* register — the one place, by its own logic, that leaves no transmittable trace.
+|- **The Tree-of-Life bridge / spirit-to-spirit plane** is defined as the *non-mediated* register — the one place, by its own logic, that leaves no transmittable trace.
+|- **The space-evolved returnee gloss and its god-hypothesis extension are unfalsifiable by construction.** Both explain absence of evidence as expected: beings who left no trace, used biological/spacetime manipulation, and merged their descendants into the human line. They are narrative-compatible myth-readings, not load-bearing predictions, and must not be presented as science-facing claims.
 
 **The mechanisms predict; the maker never will.** This is the Two Trees in epistemology: the mediated, entropic plane (genetics, chemistry, archaeology) is exactly the one where you can only ever read traces; the source can never be checked directly. A reader — like the orphaned species — is left to decide between strategist and scavenger on the evidence of traces alone. That undecidability is designed, not a gap to be closed.
 
@@ -188,3 +189,4 @@
 | 6.1 | Intensified post-farming selection | SUPPORTED | aDNA selection scans (done) |
 | 6.2 | Selection on cognition | STRAINED | (do not lean on) |
 | 7 | The agency/field layer | UNFALSIFIABLE | — none possible by construction |
+| 7.1 | Space-evolved returnee / god-hypothesis glosses | UNFALSIFIABLE | — none by construction; narrative-compatible myth-readings only |

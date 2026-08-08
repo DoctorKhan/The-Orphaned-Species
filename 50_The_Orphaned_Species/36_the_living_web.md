@@ -198,6 +198,16 @@ Everything follows from that:
 
 This is the payoff that makes the Three Circles more than a diagnostic grid: **they are one technique at three magnitudes**, and Eli learns it in that order because that is the only order it can be learned in.
 
+### The Two Trees inside the Three Circles — LOCKED 2026-08-07
+
+Author-side decoder only, never explained on-page: each magnitude above already carries both trees at once.
+
+- **Body — psionics + knowledge.** Tree of Life is the felt signature itself — heat, tingling, pressure, cold, the actual energetic contact (`32_the_warm_hands.md`); Tree of Knowledge is the diagnostic read that signature yields. Eli's gift has always been both at once — he cannot feel without immediately knowing.
+- **Family — energetic connection + verbal communication.** Tree of Life is the felt bond itself — the mother-thread held taut by hope of reunion (table above), the ply's bodily coordination that needs no words. Tree of Knowledge is what actually gets *said* — the told-first disclosures, the letter culture, Mei's dinner-table truth, Wren telling Rowan about Eli before resuming intimacy. Family-scale healing in this bible has always required both; feeling the connection was never enough without someone eventually saying the true thing out loud.
+- **Civilization — life technology through the stones.** The megalithic web, the ley-grid, the three cubes' ambient field (`59_younger_dryas_nucleation_lock.md`) is the Tree of Life at civilizational scale. This is also, deliberately, the magnitude where the two trees are meant to visibly *reunite* rather than stay split — the Book III rainbow-tree climax and the peace treaty's "no one polity may possess the complete picture" (`35_artifact_chain.md` § *Two-Tree Union*; `59` § *The holistic lock*) are Knowledge finally rejoining Life at the scale where the ancient split did the most damage.
+
+**Why this stays felt, not taught:** same discipline as everywhere else in this bible — no character explains that their gift is "both trees," no lecture connecting body/family/civilization to Life/Knowledge. The pattern is for this document and for a reader assembling it alone, never for the page.
+
 ### Guards
 
 - **Never call it magic on the page, and never systematize it.** No rules of knot-tying, no counter-technique, no untying as a skill tree. It is one act with one price.

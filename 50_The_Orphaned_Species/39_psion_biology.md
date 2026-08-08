@@ -54,8 +54,23 @@ The receiver hardware is **not permanently on.** A psion can move between a **do
 
 ### Switching off under pressure
 - The native-road practice (Living Way / Manual Override / held rhythm) is partly the ability to **lower the receiver** when activation would be fatal — refusing to entrain, refusing to broadcast, refusing to resolve the field when the field is a weapon.
-- Eli’s TBI gives him both a weaker filter (he flares more easily) and a practiced override (he can drop the connection when he feels the prickling start). This is not supernatural willpower; it is learned regulation of the same hardware.
-- **Rule:** switching off is not denial. It is **discipline under overload** — the difference between closing your eyes in a flash-bang and pretending the light isn’t there.
+- Eli's Fever scar gives him both a weaker filter (he flares more easily) and a practiced override (he can drop the connection when he feels the prickling start). This is not supernatural willpower; it is learned regulation of the same hardware.
+- **Rule:** switching off is not denial. It is **discipline under overload** — the difference between closing your eyes in a flash-bang and pretending the light isn't there.
+
+### 3a. Environmental entrainment — ocean/boat merge [BOOK II LOCK 2026-08-06]
+Eli's Fever scar has taught his receiver hardware to entrain with non-human living systems — specifically the kinetic and electromagnetic energy of the ocean and his boat. This is not a new power. It is the same astrocyte/cryptochrome hardware operating in a mode the Book I training didn't require: the receiver field extends outward until the boundary between body and environment softens, and the two systems lock into a single resonant frequency.
+
+**Mechanics:**
+- **Trigger:** sustained close contact with a living natural system (ocean, boat hull under sail, wind/water rhythm) combined with intentional focus. Eli must choose to open the connection; it does not happen accidentally.
+- **Effect:** Eli's body reads the water's current, pressure shifts, and wind vectors the way his palms read a living body's field. The boat becomes an extension of his proprioception — he feels hull stress, sail load, and water displacement before his eyes register them. The merge is incremental, not binary: at first a half-second of clarity during a maneuver, then longer, then sustained.
+- **Cost:** the merge is bidirectional. While extended, Eli's filter is lowered — he receives everything the ocean carries (other boats, submerged structures, the city's EM field at the surface). After the merge ends, he pays the same Fever-scar overload bill as any deep systems-reading: gaps, word-retrieval stumbles, fatigue proportional to duration. The ocean does not tire; his body does.
+- **Governing rule:** this ability is an extension of Eli's existing receiver, governed by the same TBI/overload mechanics already locked in `39` §3 and `15`. It cannot grant him information the environment does not contain; it cannot make him faster than physics allows; it cannot substitute for Wren's judgment or Somchai's consent. It is a sensory and proprioceptive advantage, not a supernatural one.
+
+**Prose discipline:**
+- Felt as kinesthetic clarity and proprioceptive extension, not narrated as a power.
+- The reader experiences the water reading *through* Eli's hands, not as a separate vision.
+- The cost lands in the same Fever-scar register: word stumbles, visual gaps, fatigue.
+- Wren's reaction is the first external calibration — she notices the shift in his breathing and the way his hands stop fidgeting before she understands what he's doing.
 
 ### Real vs. speculative anchors
 - *Real anchor:* neural entrainment is real; EM fields affect brain state; cryptochrome is a real magnetosensing protein; astrocytes really do regulate neural signaling.

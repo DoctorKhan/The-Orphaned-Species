@@ -59,7 +59,7 @@ The local links below work in the shared Projects workspace. A GitHub link is in
 
 The governing dependency direction is **sibling laboratory -> deliberate reconciliation here -> novel or companion**. It must never reverse into silent bulk copying from an older snapshot.
 
-## Open integration task — The Cosmic Game's reincarnation cosmology (flagged 2026-07-28)
+## Open integration task — The Cosmic Game's reincarnation cosmology (flagged 2026-07-28; **PROMOTED TO CRITICAL PATH 2026-08-06** — must resolve before Book II finalizes; see `99_open_questions.md` § *Architecture synthesis lock*, item 2)
 
 The old four-book series (`../Documents/Projects/Universal-Book-Compiler/books_config.yaml`) ran **The Social Game → Manual Override → The Human Experiment (subtitled "The Orphaned Species") → The Cosmic Game**, not the current 10/20/30/40 order, and the current `40_Consciousness_Technologies` replaced a much larger, mostly unmigrated book: **The Cosmic Game: A User's Guide to the Meaning of Life** (`../Documents/Projects/Books/The_Cosmic_Game/`, ~90,000-word target, 12 chapters + appendices, of which current `40_Consciousness_Technologies` is 434 lines).
 

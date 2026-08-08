@@ -68,7 +68,9 @@
 
 ---
 
-## 5. ◐ Cast consolidation, plural romance, and the Eli/healer overlap
+## 5. ☑ Cast consolidation, plural romance, and the Eli/healer overlap — RESOLVED 2026-08-06
+
+**Final resolution (2026-08-06 full-manuscript census):** consolidation pass locked in `26` § *Cast-consolidation pass*. **Jin Pak retired** (Custodians = 3 named + unnamed scout). **Name collisions fixed:** Amina Cole → **Imogen Cole**; Mara Dey → **Sable Dey**; Henley = **Paul** throughout. **Morwen/Eleri and Khun Dang/Kru Dao kept but differentiated** (merge would have broken locked beats; distinct reading-registers now on-page). Two new drafting laws locked: **want-or-unnamed** (a name requires a stated want; functional roles go unnamed) and **reuse-over-invent** (existing characters carry new beats before new locals are created). The plural V and Eli/Somchai twin-crown fixes below stand unchanged.
 
 **Problem.** Large named cast (Eli, Wren, Rowan, Lang, Somchai, Sol, four Custodians, Hassan, Thila, Shireen, Rico, Lani, Babaji, Suresh, Mei + deep-time threads). Three sub-issues:
 - **Bloat.** Ask which characters merge or drop. The four-person Custodian team especially — a reader will struggle to hold four coerced-carrier antagonists distinct; consider three, or two vivid + two functional.
@@ -97,11 +99,34 @@
 
 **Related:** `99` #7, #9; `58_sanxingdui_climax_lock.md`.
 
----
-
-## Done this pass
-
-- ☑ **Eli is not a healer.** All extraordinary bodily repair is assigned to **Somchai Vichai, a nurse and field medic who develops energetic healing**; Eli's palm/nerve gift is purely *diagnostic reading* (perceives a body, never repairs it). Governing doc `32_the_warm_hands.md`; also sharpens issue #5's Eli/healer overlap.
+|---
+|
+|## 7. ☐ Rootbook word-web — locked architecture not yet drafted into prose
+|
+|**Problem.** The comparative cipher, reader apprenticeship track, and philological beats are fully locked in `52_the_rootbook_word_web.md`, but most have no manuscript coverage. The series' epistemological spine is therefore invisible to readers until prose lands it.
+|
+|**Why it matters.** The word-web is what makes the series a single decoding project rather than a quest with a journal McGuffin. If it stays craft-doc-only, the reader never gets the parallel apprenticeship Eli is doing, and the linguistic payoff lands as exposition instead of discovery.
+|
+|**Evidence.** Draft audit (2026-08-06) confirms the following locked beats have no manuscript prose or only conceptual mention:
+|- Charkha artifact as spoked wheel inscribed on stone tablet — lock only (`charkha-craft-lock.md`).
+|- Eli's name → El / Asherah Canaanite substrate — conceptual only.
+|- *népoth₁e* / "sky-children" / orphaned species as decoded root — lock only.
+|- Divine Twins rumor / St. Elmo's fire maritime texture — lock only.
+|- Reader-facing recurring word forms before reconstruction — design only, needs draft rule.
+|- Brazilian teahouse network triple-register as reciprocal-circuit embryo — conceptual only.
+|- Maren's specific errors, corrections, redacted names — partial; needs expansion to full set.
+|
+|**Suggested direction.** Assign one prose pass per volume that converts each locked beat into on-page evidence (dialogue, marginalia, witness testimony, Eli's working hypothesis) rather than explanation. The reader must see recurring forms before each answer lands; that is a drafting rule, not just a craft principle. Prioritize *népoth₁e* and Divine Twins for Book III; Eli/El/Asherah and Charkha artifact for Books II–III.
+|
+|**Status.** Architecture locked; prose pass not started.
+|
+|**Related:** `52_the_rootbook_word_web.md`; `charkha-craft-lock.md`; `17_reveal_order_and_reader_impact.md` § *Expertise fantasy*.
+|
+|---
+|
+|## Done this pass
+|
+|- ☑ **Eli is not a healer.** All extraordinary bodily repair is assigned to **Somchai Vichai, a nurse and field medic who develops energetic healing**; Eli's palm/nerve gift is purely *diagnostic reading* (perceives a body, never repairs it). Governing doc `32_the_warm_hands.md`; also sharpens issue #5's Eli/healer overlap.
 - ☑ **True strength vs superficial display (LOCKED).** Governing theme: equanimity ≠ performative composure. Hub: `15` § *True strength vs superficial display*; craft rule `40` #7; `00` relatability rule.
 - ☑ **Eli meditation seed — Thailand (LOCKED).** Post-attack temple practice; Manual Override fruition under challenge. Hub: `15` § *Eli's meditation seed*; `26` Eli past/habit; `27` Vol I proof; `99` open (wat/city).
 - ☑ **Women / Hollywood "girl power" (LOCKED).** Negative templates + positive power registers. Hub: `15` § *Women characters*.

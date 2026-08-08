@@ -1,6 +1,6 @@
 # 2040 Present Frame — What Changed (Author Assumption)
 
-> **Status:** LOCKED **author assumption** for the present-day series (Books I–IV; optional V–VI unallocated — `SERIES_STRUCTURE.md`). The story is set in **~2040** (default anchor; **optional author range ~2040–2042** for publication drift — LOCKED 2026-07-26). **Never state the year on-page.** Readers should infer *near future* from texture, not from a caption. Companion to `21_present_day_street_skin.md`, `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `22_life_technology_and_two_trees_spine.md`, `28_present_day_trilogy_craft_index.md` (legacy filename), and **`56_future_conflicts_atlas.md`** (conflict registers, sorting machine, series pressure map — LOCKED 2026-07-26).
+> **Status:** LOCKED **author assumption** for the present-day series (Books I–IV; optional V–X unallocated — `SERIES_STRUCTURE.md`). The story is set in **~2040** (default anchor; **optional author range ~2040–2042** for publication drift — LOCKED 2026-07-26). **Never state the year on-page.** Readers should infer *near future* from texture, not from a caption. Companion to `21_present_day_street_skin.md`, `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `22_life_technology_and_two_trees_spine.md`, `28_present_day_trilogy_craft_index.md` (legacy filename), and **`56_future_conflicts_atlas.md`** (conflict registers, sorting machine, series pressure map — LOCKED 2026-07-26).
 
 ## Rule
 
@@ -12,9 +12,9 @@
 
 | Anchor | Book I open | Eli / Wren (Vol I) | Hinge end / armed reopening |
 |---|---|---|---|
-| **2040** (default) | ~2039–2040 | **22 / 19** | ~2037–2040 |
-| **2041** | ~2040–2041 | 23 / 20 | ~2038–2041 |
-| **2042** (max buffer) | ~2041–2042 | 24 / 21 | ~2039–2042 |
+| **2040** (default) | ~2039–2040 | **21 / 18** | ~2037–2040 |
+| **2041** | ~2040–2041 | 22 / 19 | ~2038–2041 |
+| **2042** (max buffer) | ~2041–2042 | 23 / 20 | ~2039–2042 |
 
 **Why the range exists:** keeps the macro arc (late-2020s acceleration → early-2030s militarization → mid-2030s war → Fever Years → armed reopening) intact while avoiding a setting that feels **imminent** if the first book ships several years after drafting. **Do not** slide past **2042** without revisiting tech texture and climate load — risk of "future history" rather than accelerated present.
 
@@ -32,11 +32,11 @@ The novel opens **after** the acute phase of two overlapping crises. Background 
 | **Early 2030s** | Several states **confirm psionic signatures** in reproducible lab conditions — still disputed publicly, already militarized privately. Carrier registries begin as **health-and-security** programs. |
 | **Mid 2030s** | **Conventional + cyber war** escalates: shipping insurance spikes, satellite constellations attacked/jammed, GPS unreliable in contested corridors, payment and identity systems weaponized. |
 | **~2037–2039** | **The Fever Years** — engineered outbreak during war escalation (acute phase of **the Hinge**); mortality and lockdown politics; **contained** within ~18–30 months via platform vaccines, reduced virulence, and/or hybrid immunity. **Emergency powers do not fully sunset.** |
-| **~2039–2042 (novel present)** | Uneven **armed reopening** after the war's hottest phase: Malacca, Strait ports, and some corridors function again under incompatible armistices. Proxy fighting, blockades, maritime seizures, and drone attacks continue. Pelangi Reach and similar pockets operate as **accountable refuges**. Covert **Psion War** is fully active and harder to hide. **Default anchor 2040:** Eli **22**; Wren **19**. Optional slide: see § *Author year range*. |
+| **~2039–2042 (novel present)** | Uneven **armed reopening** after the war's hottest phase: Malacca, Strait ports, and some corridors function again under incompatible armistices. Proxy fighting, blockades, maritime seizures, and drone attacks continue. Pelangi Reach and similar pockets operate as **accountable refuges**. Covert **Psion War** is fully active and harder to hide. **Default anchor 2040:** Eli **21**; Wren **18**. Optional slide: see § *Author year range*. |
 
 The world is **damaged but functioning** — not collapse, not utopia.
 
-**Psionic origin lock:** rare natural carriers existed before the outbreak; this is why states, Maren, and Lang could study them in the early 2030s. The construct weaponizes that research to lower or destabilize the receiver threshold in a much larger population. Eli was born before the outbreak and inherits the natural route. The outbreak expands and exposes psionics; it does not create them.
+**Psionic origin lock:** rare natural carriers existed before the outbreak; this is why states, Maren, and Lang could study them in the early 2030s. The construct weaponizes that research to lower or destabilize the receiver threshold in a much larger population. Eli was born before the outbreak and inherits the natural route. The outbreak expands and exposes psionics; it does not create them. Eli's own case is the personal instance of this rule: the Fever Years outbreak he contracts at Pelangi Reach wakes and scars an already-natural receiver rather than manufacturing one (`26_present_day_cast_expanded.md` § Eli turn — bioweapon lock).
 
 ---
 
@@ -79,7 +79,7 @@ Treat the puberty threshold as **two answers to the same fever**: two political 
 
 ### Continental Union — the quarantine model
 
-**Cube note:** the Union's own bloc-cube (white) is one of three worldwide, sited in a Union capital not yet fixed on-page. Full framework: `95_glossary.md` § *The Three Cubes*.
+**Cube note — LOCKED 2026-08-06: on-page, not remote-only.** The Union's own bloc-cube, Heather Cube, is one of three worldwide, sited wherever Book IV's court physically ends up in North America (`60_volume_IV_court_of_threads.md` § *North–south movement*) — exact city still open, consultation-required. Unlike Book III's Continuity/devolution material, which reaches the story only through delegates, documents, and feeds, Heather Cube gets a real on-page presence, including the Union's suppression of pilgrim crowds around it as dramatized action, not background texture. **Domain: Courage** — real, amphetamine-felt resolve requiring sustained, repeated exposure to sustain, which is exactly why the oligarchy needs standing access rather than a single visit (`59_younger_dryas_nucleation_lock.md` § *The ambient field*). The irony writes itself against the quarantine model above: the state chemically forces ordinary "Fractured" citizens into passive baseline while its own rulers privately dose themselves fearless. **The "oligarchy" is not a new invented elite — it's Devolution's own pre-designated COGCON cadre** (`biological_countermeasures_in_world.md` § *The real thing*), and dosing rights are one of that classified designation's unstated privileges: earned by loyalty and service within the Reserve, not purely by birth, and revocable — which is the regime's real leash on its most dangerous people (`59_younger_dryas_nucleation_lock.md` § *Heather Cube access — the Reserve*). Full framework: `95_glossary.md` § *The Three Cubes*.
 
 The Union classifies threshold onset as a **neurological contagion** — latent vulnerability from the gene wars. Centralized consensus requires a mappable psyche; unmapped reality = structural threat.
 
@@ -93,7 +93,7 @@ The Union classifies threshold onset as a **neurological contagion** — latent 
 
 ### Free Ports Coalition — the keeper chain *(author shorthand)*
 
-**Cube note:** the Coalition's own bloc-cube (blue) is sited at **Delphi** — already a Free Ports Coalition port and already charged ground (the oracle, the spark-ecology mechanism). Full framework: `95_glossary.md` § *The Three Cubes*.
+**Cube note:** the Coalition's own bloc-cube (blue) is sited at **Delphi** — already a Free Ports Coalition port and already charged ground (the oracle, the spark-ecology mechanism). **Domain: Wisdom** — real, direct knowing, far more reliable in latent/natural carriers than in anyone else, which is why no institution can pre-sort access into a purchased or hoarded tier the way the other two blocs do; overwhelming, uncontrollable crowds are the natural result (`59_younger_dryas_nucleation_lock.md` § *The ambient field*). Full framework: `95_glossary.md` § *The Three Cubes*.
 
 No central authority for quarantine or inhibitor distribution. Adaptation through **linked threshold houses** on trade routes.
 
@@ -167,6 +167,7 @@ Same shape, different vocabulary: an insider class gets its risk socialized by t
 | **Consciousness science** | Fringe → **funded fringe**: EEG/fMRI + anomaly correlation; fringe researchers (including Maren's own work) marginalized but instrumented | signatures "measurable, meaning withheld" |
 | **Transport** | EVs common in cities; **maritime still diesel-heavy** in Eli's class | Racing sailboats vs Suresh's stained hull |
 | **Finance/status** | Platform wages, gig facilities work, refugee precarity, **crypto-broken remittance lanes** (street: *transfer* / *push* / *clear* — no brand names on-page) | Island **chits** vs Meridian **cash**; Eli → Shireen clinic **phone transfer** after Cube intake; squeeze kills bars **and** remittance |
+| **Education** | AI-scaled curriculum, drilling, testing, and translation running **repurposed child infrastructure** on skeleton human staff; real craft and skill still transmitted hand-to-hand, never screen-to-screen. See § *Education lock* below | A half-empty schoolhouse with one overworked instructor and an adaptive drill app; Rasel teaching garden chemistry no tutor app could give Eli |
 
 **Avoid:** flying cars, Mars colonies, full VR life, everyone in spandex, magic holograms everywhere, **humanoid robots as background furniture**.
 
@@ -206,6 +207,34 @@ Late-2020s–early-2030s culture **did not understand** that building and mainta
 **Guards:** no robot waiter armies; no humanoid servants at **Malacca** chandlery; no "everyone has a home bot." When Eli sees a **humanoid**, it should feel **wrong and loud** — someone's budget talking. Malacca, threshold houses, and Pelangi terrace life stay **human-bodied**.
 
 **Cross-refs:** `05` § Pelangi hub; `26` § Babaji; `WORLD_BIBLE` § Pelangi modernization; `56` § technological register.
+
+### Education lock — AI-scaled, mentor-scarce (LOCKED 2026-08-06)
+
+**One-line rule:** AI runs the informational layer of learning — drilling, testing, translation, credentialing — never the relational layer. Nothing in this world's AI is a companion-tutor; that territory already belongs to **Companion Capture**, a named Drift pathology (`95_glossary.md` § *The Drift*), not a healthy pedagogy.
+
+**Why the split holds:** the same principle already locked for the cosmology's deepest layer — practices are transmitted by use, body to body (diagnostic touch, guardian-spirit contact, Rasel's garden chemistry, Somchai's field medicine) — applies at the mundane layer too. AI operates on the Tree-of-Knowledge side of the ledger; nothing about it reaches the Tree-of-Life side. Never state this plainly on-page; let it be felt through which parts of a character's competence came from a screen and which came from a person.
+
+**Economic logic, not just values.** The missing-cohort crisis already means school buildings sized for a bigger youth population now run on skeleton staff (§ *Robotics lock* above — "child infrastructure repurposed"). AI-run curriculum logistics is the reason those buildings still function at all — one adaptive system doing what used to take twenty teachers — which frees the few remaining human tradespeople to run actual hands-on apprenticeship instead of lecturing. Necessity, not idealism; no bloc chose this on principle.
+
+**Bloc-differentiated, reusing the existing Power/Courage/Wisdom device (`59_younger_dryas_nucleation_lock.md` § *The holistic lock*) at a new scale:**
+
+- **Eastern Mandate** — AI-scored, credential-gated, feeding children into labor allocation early; same register as the Cube's "papers, credentials, sponsor lines" (`59` § *Why nobody has already stolen it*). A child's trajectory gets sorted by an algorithm before anyone asks what they actually want.
+- **Continental Union** — AI monitors compliance and readiness rather than teaching; scoring feeds the Reserve's recruitment pipeline (`59` § *Heather Cube access*), so education there reads closer to a surveillance instrument than a pedagogy.
+- **Free Ports Coalition** — the bloc with no central authority has the least AI-mediated schooling and the most real apprenticeship; this is the neo-śramaṇa flight culture already locked for Book V (`62_lifetime_orchestra.md` § *Book V bridge*), one generation earlier and less formal.
+
+**Feeds Book V's motive.** A child raised mostly on AI tutoring with no real mentor is exactly the profile already named as Companion-Capture/Drift-risk. This gives "the generation that leaves" (`62` § *Book V bridge*) a second, sharper motive under the freedom one: they aren't only leaving for freedom, they're going looking for the embodied mentorship an AI-mediated childhood didn't fully give them.
+
+### Body-language literacy games — LOCKED 2026-08-06
+
+**Grassroots origin, universal tool.** Because social atomization is widespread, informal games arose to train what atomized childhoods stopped teaching for free: reading a gaze, a stance, a held breath, the sizing-up read of a stranger's tension. Two named examples worth seeding on-page: a **gaze-game** (a held-look exercise that trains reading pupil dilation, gaze-aversion, and the specific eye-movement pattern that reads as interest rather than deception — street name TBD, never "the love game" on-page) and a **sizing-up game** (a quick, gamified threat/status read of a stranger, useful cover for a checkpoint-and-surveillance society). Grassroots and cross-bloc — the tools are universal 2040 social infrastructure, not one bloc's invention.
+
+**Atomization sets the dosage, not the availability.** Free Ports society is less atomized than Mandate or Union — warmer, more communal, closer to the teahouse/flight culture already locked — but it has the **same tools available**, same games, same scoring. The difference is dosage and meaning, not access: in the Mandate and Union the games are an urgent patch for a real deficit and get weaponized into credentialing and screening (§ *Education lock* above); in the Free Ports they're played with less desperation, closer to genuine social play, and a high score reads as real, celebrated ability rather than institutional sorting.
+
+**Performance over experience — a missing-cohort-driven shift, not one bloc's flaw.** With the youth cohort scarce everywhere (`WORLD_BIBLE` § missing-cohort crisis), no institution — including the Weavers — can afford to wait for people to age into competence through years of tenure. Measured performance on these modules has replaced experience as the fast, legible signal institutions promote on, across all three blocs and the decentralized orders alike. This is a genuine, complicated adaptation, not a villainy: fast and legible, but structurally undervaluing exactly the slow, relational mentorship the series' own thesis holds up as necessary (§ *Education lock* above). Governing line: **a civilization can score a skill; it cannot score a bond.**
+
+**Wren's fast rise, causally explained.** Wren scored exceptionally on these modules, which is a real, concrete reason a teenager holds genuine operational standing — junior Knotter work, intake, placements, attestations (`26_present_day_cast_expanded.md` § Wren; `BOOK_SUMMARIES_long.md`) — this young. Not precocity as authorial fiat; a measurable, in-world credential the Weavers had every practical reason to act on given the same scarcity pressure as everyone else. Cross-reference `15_character_grounding_and_relatability.md` § *Capacity claiming* for the inverse case: Eli's exceptional visuo-spatial gift gets deliberately hidden ("stay off the ledger") in a culture that flags and elevates measured performance — same measurement culture, opposite survival strategies, worth keeping legible as a contrast between the two of them rather than spelling out on-page.
+
+**Not a skill Eli shares — corrects an earlier draft of this section.** The trained reading is Wren's, not Eli's — consistent with the already-locked fact that he "can still misread unfamiliar social games and Wren's methods" (`00_NARRATIVE_STRUCTURE.md` § *Eli*). His diagnostic-touch gift is a different domain entirely — physical/medical condition (heat, tingling, pressure, cold), not social intent, deception, or interest — so there is no overlap to police and no cover mechanism needed on his side; giving him a trained read as well would step on Wren's specific competency and contradict his established blind spot. His complementary strength in the partnership is relational, not perceptual: he is good at **relying on and plainly communicating with Wren** — trusting her read instead of trying to make his own. That reliance is itself a character-growth beat, not a given: his established difficulty asking cleanly for help (`00_NARRATIVE_STRUCTURE.md`) makes learning to lean on Wren's competence, rather than compensating with a skill he doesn't have, part of his arc rather than a fixed trait.
 
 ### Climate and agriculture
 

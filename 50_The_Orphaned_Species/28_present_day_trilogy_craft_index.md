@@ -26,7 +26,8 @@
 | **Spirituality goes wrong** | **`SERIES_STRUCTURE.md`** + `40_concepts.md` § *Spirituality goes wrong* — toxic positivity / manifestation bullying; seed III–IV; densify V–X |
 | Decoding Maren's Rootbook / linguistic continuity | `52_the_rootbook_word_web.md` + volume beats `31`–`33` |
 | Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit*; **Inana dual-face** (healing + Wren/Rowan) — `35` § *Inana's Descent*, `19` § *Rowan returns* |
-| **Adjacent books / author brands (1–2 names)** | **`63_adjacent_books_and_author_brands.md`** — Wren/Rowan spicy Priority A; Brand A literary + Brand B romance; no per-book or AI-author roster |
+|| **Adjacent books / author brands (1–2 names)** | **`63_adjacent_books_and_author_brands.md`** — Wren/Rowan spicy Priority A; Brand A literary + Brand B romance; no per-book or AI-author roster |
+|| **Goonies-style kid-crew companion** | Between Book IV and Book V, concurrent with the son's infancy; mixed-age crew (5, 12×2, 14–15, 16) finds Rootbook fragment/Charkha field card/Two-Tree pilot artifact and delivers proof to the right adult without getting claimed; genre valve for main novels' register; `99` item 9 |
 | **Cloister animal houses (Stag, Fox, Bear, Salmon, Ox)** | **`40_concepts.md`** § *Cloister animal houses* — five maturation-and-mentorship lineages with rites of passage; never temperament, occupational, military, or civic categories; Crow retired (bird/flight later); seed `33` Ch 9 |
 | **Phantom god-perception / correct worship** | **`17`** §9a + **`40`** — II seed; III civic diagnosis; **V–X** payoff = ego/robot → Player/consciousness; not atheism |
 | Locked beats / open names | `99_open_questions.md` |

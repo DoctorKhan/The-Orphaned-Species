@@ -5354,6 +5354,8 @@ Neither calls that completion.
 
 Before the cup, a Custodian inquiry reaches Eleri's registered practice.
 
+Morwen made the introduction by name — *Eleri keeps the threshold room; I keep the roads between them* — and the two women are nothing alike to look at, which Eli now understands is the point: one face for the hedgerow, one face for the doorway, and a stranger who conflates them has not been watching.
+
 Two officers in biosecurity cover, clipboard deadline stamped for the afternoon
 tide: confirm whether an unlicensed altered-state procedure is scheduled;
 produce the consent ledger; identify any Holt/Khan travelers on the island.
@@ -6207,7 +6209,7 @@ Anika's convoy brings an array already synchronized.
 By the time the rain stops, four systems have arrived to prevent one another
 from deciding what the ground means.
 
-Anika stands beyond the eastern barrier with Tommy Reyes and Jin Pak. Her field
+Anika stands beyond the eastern barrier with Tommy Reyes and the scout. Her field
 team wears no theatrical armor. Gray weather gear, medical cases, lawful
 notices. The instruments behind them are the threat.
 
@@ -6912,7 +6914,7 @@ respond to field changes.
 
 At the lowest door, Anika waits.
 
-Tommy Reyes stands behind her with the lance rig. Jin Pak is absent. Sora has
+Tommy Reyes stands behind her with the lance rig. The scout is absent. Sora has
 not reached them.
 
 Anika carries no weapon.

@@ -418,7 +418,7 @@ record touching the disputed grain.
 
 Asha is in surgery.
 
-Amina Cole has not reached the hall after House Ilyara diverted her from a port
+Imogen Cole has not reached the hall after House Ilyara diverted her from a port
 where crowds were searching incoming passengers for hidden ration keys.
 
 Park is dead.
@@ -862,7 +862,7 @@ The Lean Year inquiry works from claims.
 No claim explains the whole.
 
 The order redirecting the *Tern* used a Union continuity cipher issued from
-Minister Jonas Henley's office. Henley says the warm sites would otherwise have
+Minister Paul Henley's office. Henley says the warm sites would otherwise have
 received nothing. Logs show his staff reviewed the grain destination before
 any public export hold.
 
@@ -1674,7 +1674,7 @@ They give it costumes.
 
 Rowan's audience category is restored publicly.
 
-The scheduler, Mara Dey, testifies that she followed a continuity-household
+The scheduler, Sable Dey, testifies that she followed a continuity-household
 directive inherited from the Union.
 
 "Did anyone order you to classify Rowan as a principal?" Wren asks.
@@ -1692,7 +1692,7 @@ access."
 
 "What succession relevance?"
 
-Mara looks at the public gallery.
+Sable looks at the public gallery.
 
 "A sexual relationship with an unmarried continuity coordinator."
 
@@ -1709,11 +1709,11 @@ The answer is not prudish.
 
 It is administrative.
 
-Mara can imagine desire only as an unfiled institution.
+Sable can imagine desire only as an unfiled institution.
 
 The review voids the directive.
 
-Mara keeps her job under new training and audit because firing one clerk would
+Sable keeps her job under new training and audit because firing one clerk would
 let the system pretend she invented it.
 
 Rowan returns to ordinary delegate access.
@@ -2669,7 +2669,7 @@ Selin does not answer.
 
 The room records the absence.
 
-"Amina Cole," Asha says.
+"Imogen Cole," Asha says.
 
 Selin's face changes by less than a breath.
 
@@ -2677,7 +2677,7 @@ Selin's face changes by less than a breath.
 
 "Yes."
 
-Until now, Amina has been missing.
+Until now, Imogen has been missing.
 
 The word alive enters the observers before Asha can contain it.
 
@@ -2709,13 +2709,13 @@ Selin looks toward the public observers.
 
 "Neither was yours."
 
-The next record is a message from Amina, delivered through an independent
+The next record is a message from Imogen, delivered through an independent
 sanctuary desk that no longer accepts Ilyara custody.
 
 **I ASKED TO RETURN ON DAY SIX. SELIN SAID THE ROUTE WAS UNSAFE. ON DAY NINE I
 LEARNED THE ASSEMBLY STILL LACKED QUORUM.**
 
-Amina's attestation could have certified two missing delegates and allowed a
+Imogen's attestation could have certified two missing delegates and allowed a
 successor vote.
 
 Not necessarily ended Eli's rule.
@@ -2782,7 +2782,7 @@ Two witness transfers delay.
 
 One woman chooses another house.
 
-Amina begins her return.
+Imogen begins her return.
 
 ---
 
@@ -2976,10 +2976,10 @@ Mina's request for prenatal supply availability with no patient named.
 
 The court assembles a pregnancy from shadows.
 
-Novak meets with Mara Dey in a stairwell that does not appear in the building's
+Novak meets with Sable Dey in a stairwell that does not appear in the building's
 published map.
 
-Mara is the scheduler who once classified Rowan by exit time. Her transfer to
+Sable is the scheduler who once classified Rowan by exit time. Her transfer to
 continuity-household coordination was presented as promotion. She understands it
 as surveillance.
 
@@ -2997,7 +2997,7 @@ does the work."
 "Then she sits beside him and lets the court believe what the room has already
 written."
 
-Mara names the route officers who have been moving clinic appointments to
+Sable names the route officers who have been moving clinic appointments to
 morning slots so the cleaner schedule appears in the public appointment feed.
 
 "Timing alone does not create a claim," Novak says.
@@ -3008,7 +3008,7 @@ Novak gives her a printed authorization form for the central platform. It does
 not mention Rowan, Eli, or a child. It mentions continuity, future possibility,
 and a right of public assembly derived from the compact's emergency clause.
 
-Mara signs.
+Sable signs.
 
 "You are building a photograph from absence," she says.
 
@@ -3026,9 +3026,9 @@ No heir named.
 
 Every person understands.
 
-Wren sees the notice while escorting Amina Cole into the review residence.
+Wren sees the notice while escorting Imogen Cole into the review residence.
 
-Amina walks with a cane and an anger that survived protection.
+Imogen walks with a cane and an anger that survived protection.
 
 "Whose future?" she asks.
 
@@ -3993,7 +3993,7 @@ Asha answers from the review table.
 
 "A frightened subject cannot understand why concealment was necessary."
 
-Amina Cole lifts her cane.
+Imogen Cole lifts her cane.
 
 "Try me."
 
@@ -4207,7 +4207,7 @@ failed to account for the fourth truck.
 Northstar Continuity targeted Sideways custody and killed Celia Park while
 serving overlapping clients. Its command chain terminates in shell entities.
 
-House Ilyara protected Amina and another witness, then prolonged concealment
+House Ilyara protected Imogen and another witness, then prolonged concealment
 after immediate danger to secure Weaver standing.
 
 Union station personnel forwarded the counterfeit teaching after local keepers
@@ -4705,7 +4705,7 @@ Wren reads the sentence twice. She knows it is wrong. The review body is not
 optional for any jurisdiction that accepted the compact attestation. The west
 settlement signed.
 
-She does not call Eli. She does not call Amina. She calls the west settlement's
+She does not call Eli. She does not call Imogen. She calls the west settlement's
 route officer — a woman named Lira who once filed an objection against her own
 household's routing preference and lost the appeal.
 
@@ -5035,7 +5035,7 @@ She records the delay.
 
 The assembly opens at 09:00.
 
-Amina Cole presides over the public floor.
+Imogen Cole presides over the public floor.
 
 Asha leads attestation review with one arm still weak.
 
@@ -5059,7 +5059,7 @@ continuity person until another vote.
 "The child is being born during constitutional fracture," Novak says. "Ignoring
 the symbol does not disarm those prepared to kill for or against it."
 
-Amina answers.
+Imogen answers.
 
 "Then disarm the killers."
 
@@ -5375,7 +5375,7 @@ region enters under disputed attestation. The coordinator is absent during a
 medical crisis. If we transfer now and the council fails, the vacuum will be
 filled by force."
 
-Amina answers from the chair.
+Imogen answers from the chair.
 
 "The coordinator is not absent. He is performing another obligation."
 
@@ -5408,7 +5408,7 @@ The thirty-day rule was written into the agreement by Eli's office six months
 earlier as a safeguard against rushed certification during an emergency. He
 does not remember drafting it. Wren does.
 
-"We can waive the continuity requirement," Amina says.
+"We can waive the continuity requirement," Imogen says.
 
 "Not without invalidating the rule that makes the rest certifiable," Wren
 answers.
@@ -5590,7 +5590,7 @@ Wren listens.
 "Then we learned to treat every door as capture even after people asked to
 leave."
 
-Amina watches from the assembly.
+Imogen watches from the assembly.
 
 Selin continues.
 

@@ -266,6 +266,8 @@ refuse northern demands, and do not surrender local records to the court.
 South American food, seed, shipping, and technical aid likewise move under
 negotiated reciprocal obligations rather than a destiny to rescue the North.
 
+**Heather Cube, on-page — LOCKED 2026-08-06:** the Union's bloc-cube sits in whatever North American city the court ends up physically sited in (exact city still open, same consultation-required discipline as the Costa Rica hinge above) — not toured as a restored capital, and not the ruined Washington/San Francisco the cast is explicitly barred from visiting, but present in the volume's ordinary geography the way the court itself is. Its function on-page is the Union's suppression of pilgrim devotion made visible and dramatized rather than left as background texture (`95_glossary.md` § *Sacred devotion*): permits, checkpoints, a crackdown or dispersal the court has to respond to or decline to intervene in, pilgrims treated as a security problem by the same institutional reflex that already pathologizes threshold onset as neurological contagion. Eli's relationship to it should stay oblique — he is not there to resolve the Cube or its devotion, only to register, once, that the state he is provisionally governing treats its own people's reverence as a threat to be managed, the same instinct he is trying to refuse in his own bounded authority.
+
 **The grown corridor / tree lock — LOCKED 2026-08-01:** The receiving network's
 capacity is biological as well as administrative. Costa Rican watershed and
 biological-corridor committees, Indigenous authorities, growers, nurseries,
@@ -714,6 +716,22 @@ The child is born without title, office, prophecy, or inherited claim.
 - Rowan is a mother by choice, not consort, vessel, or demographic asset.
 - Wren's relationship to the child is explicitly negotiated; romance alone does
   not assign parenthood.
+- **Wren/Eli son — LOCKED 2026-08-06:** Wren carries a latent repair capacity
+  (receiver biology, never trained — the same population the outbreak's survivors
+  are drawn from). During the Lean Year's stress and the spreading post-release
+  activation, that capacity turns quietly inward: a body she and the clinics had
+  long filed as unable changes without procedure, witness, or explanation anyone
+  can certify. The pregnancy is discovered, not pursued — a surprise, late, and
+  ordinary in everything except that nobody can say how. He is a boy. He is born
+  in the IV→V interval with no title, no inherited claim, and no destiny — the
+  same rule as Tara. Canon guardrails: (1) no one healed her *so that* she could
+  bear a child — the change precedes any intent and stays unexplained; (2) her
+  negotiated place in Tara's life stands unchanged and separately chosen; (3) the
+  boy does not rank the V — Rowan remains Tara's mother, Wren remains Tara's
+  named-and-chosen parent; (4) the capacity is one of many surfacing in
+  construct-survivor physiology after Book II — Wren is not singled out by the
+  web, she is one instance of a population-scale pattern the clinics begin to
+  track in V.
 - All three romances remain distinct and chosen.
 - The Weavers retain public civic influence under audit, appeal, and no monopoly
   on legitimate identity.

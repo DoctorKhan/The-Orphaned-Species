@@ -74,11 +74,11 @@ Pathology on this project is **injury to attachment, agency, and truth** — int
 
 Pair **Part VI** with **Part V** (past-vs-mask Vol I scenes) when drafting.
 
-## Eli's brain injury — LOCKED
+## Eli's brain injury / Fever scar — LOCKED
 
 **Keep it.** It integrates the family loss, political hunt, exile, bodily vulnerability, and uncertain opening of the receiver. Removing it would separate plot elements that currently reinforce one another.
 
-**Cause:** during the **extraction attack** (border / third country / keeper handoff — not a legible Dhaka scene), blast and collapsing masonry or vehicle impact throw Eli into a wall and strike his skull. Rasel is **taken** into Mandate custody the same night; Eli is told later his father **did not make it out**. He survives with a **moderate-to-severe traumatic brain injury** and is initially assumed dead or unlikely to recover. A local medical worker—the future present-day healer—gets him out and stabilizes him; an informal network then separates them and moves Eli into Thailand before the attackers learn he lived. Exact weapon, diagnosis, treatment interval, and escape logistics require research when the scene is drafted.
+**Cause — BIOWEAPON PERSONAL-CONSEQUENCE LOCK 2026-08-06:** not the extraction attack. During the attack (border / third country / keeper handoff — not a legible Dhaka scene), Rasel is **taken** into Mandate custody and Maren onto the Charkha Measure chain the same night; Eli is told later both parents **did not make it out**. He is not the extraction's target and is not physically injured in it — the future present-day healer stabilizes a shaken, uninjured child, and an informal network moves him into Thailand before the attackers learn he lived. Years later, the engineered outbreak (the **Fever Years**) reaches Pelangi Reach after Eli is already there; despite the community's newly built quarantine and care systems, he contracts it, and its post-infectious aftermath is a **moderate-to-severe neurological scar** — Pelangi's clinic and Mei's kitchen nurse him through the fever itself. The world's diagnosis in the moment is **TBI**, and that label sticks as Eli's own shorthand, but the canonical cause is the **Fever scar**: he was never the extraction's target, only the weapon's, and the same weapon that orphans him also scars and wakes him (outbreak survivors carry the receiver — `42`). Exact pathogen, diagnosis, treatment interval, and clinic logistics require research when the scene is drafted.
 
 **Cosmological function:** the injury cracks the receiver's filter—the door ajar—but creates no gift. His maternal carrier-line explains sensitivity; distinct practitioners persist as threads in the living web; discipline and practice let him survive contact. The injury supplies access, danger, and ambiguity, never mastery.
 
@@ -92,7 +92,7 @@ Use a stable, limited symptom set rather than whatever a scene needs:
 - difficulty holding unfamiliar faces or dense verbal instructions;
 - sensory overload in crowds, bright interiors, and layered noise;
 - headaches, fatigue, poor sleep, and slower recovery after exertion;
-- panic or dissociation around blasts, falling structures, restraint, and medical authority;
+- panic or dissociation around blasts, falling structures, restraint, and medical authority (rooted in Fever Years quarantine processing, not the extraction);
 - shame about appearing slow, unreliable, or confused.
 
 His condition remains real after awakening. Psionic development does not cure it. Some practices help him regulate attention and overload; they do not erase damaged tissue or restore the dead.
@@ -106,7 +106,7 @@ The stronger healer can reduce inflammation, headaches, pain, and secondary dama
 - Let other characters underestimate him, but do not make every skeptic cruel or stupid.
 - Show practical adaptations: written lists, repeated routes, quiet spaces, gestures, training patterns, and Wren learning when not to fill a missing word.
 - Research the eventual clinical presentation and use medical/sensitivity readers before final prose.
-- "Brain damage" may appear as Eli's shame-language or the Charkha's stigmatizing file-language; authorial documents should prefer **traumatic brain injury**.
+- "Brain damage" may appear as Eli's shame-language or the Charkha's stigmatizing file-language; **TBI** is the world's misdiagnosis and Eli's own shorthand — authorial documents should prefer the canonical **Fever scar**.
 
 ## Eli's perceptual development — LOCKED
 
@@ -242,7 +242,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 **Prose rules:**
 1. **Show as habit and schedule** — methods appear in pressure scenes as reachable stack (bell → breath → feet → hands), not "when I was in the temple…" exposition blocks.
 2. **Past-vs-mask leak (Vol I):** one beat where Eli's stillness reads as creepy or too calm until Ch 5 wat return proves it was **practice**, not dissociation.
-3. **Practices regulate attention; they do not erase TBI** — word-retrieval failures, overload, and fatigue remain; body scan maps injury without curing it.
+3. **Practices regulate attention; they do not erase the Fever scar** — word-retrieval failures, overload, and fatigue remain through Books I–II; body scan maps injury without curing it; the slow natural recovery of Books III–IV is bodily, not practice (`26` § Eli turn — bioweapon lock).
 4. **Rhyme, not ownership** — Aru's breath/stillness clarifies at Göbekli; Eli recognizes the register, does not claim to be Aru.
 5. **After breach, grounding before lore** — any calm post-contact is **temple habit + Wren's presence**, not instant wisdom.
 
@@ -254,7 +254,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 
 **When and where — LOCKED:** **Thailand only.** Martial + chi-body taught **on-page in Vol I Ch 5–10** (agricultural-witness sequence) — **instructor name TBD** (keeper/corridor fighter; Muay Thai / Kali register). **Not Pelangi. Not Malacca. No Philippines visit.**
 
-**Fugitive Thailand (post-extraction):** Somchai stabilization, TBI recovery, **wat breath seed only** — **no martial**, **no body memory** carried into Pelangi/Meridian/Malacca.
+**Fugitive Thailand (post-extraction):** Somchai stabilization (post-attack care — the head injury is **not** from the attack), **wat breath seed only** — **no martial**, **no body memory** carried into Pelangi/Meridian/Malacca. The Fever scar comes later, at Pelangi during the outbreak (`26` § Eli turn).
 
 **No Thailand body memory — LOCKED:** zero martial/chi/reflex leaks before Ch 5. Malacca breach fight = **untrained overwhelm**, not Kali. Meridian Cube gesture = **Maren** (mother), not martial foreshadow.
 
@@ -277,7 +277,7 @@ The trilogy's only healer is the male medical worker who stabilizes Eli after th
 
 The healer's mechanism — LOCKED: **healing has two parts.** First, a **scan** of the body's energy field — like a CT scanner — that detects what is wrong by reading the field's geometry without altering it. Second, an **alignment** that communicates with body cells to trigger self-repair. The body mends itself; he does not reconstruct tissue. This is distinct from Eli's receiver reads and from receiver regulation of any kind.
 
-Over time the healer can sustain deep repair of severe tissue injury, complicated fractures, and organ damage. He is not Ila reborn, cannot psionically cure the engineered outbreak, and cannot restore information destroyed by Eli's chronic TBI. Ila's record supplies language and comparison, not identity or instant skill.
+Over time the healer can sustain deep repair of severe tissue injury, complicated fractures, and organ damage. He is not Ila reborn, cannot psionically cure the engineered outbreak, and cannot rapidly reverse Eli's Fever scar — post-infectious damage rewires at the body's own pace over years; Somchai's scans can read what is healing and what is not, and that honest reading is itself care (`26` § Eli turn — bioweapon lock).
 
 This distribution protects the collective thesis: Eli has unusual bandwidth across many registers (reading, not repair), while another person holds the healing entirely. The healer requires an independent want, relationships, moral pressure, and choices that do not orbit Eli.
 
@@ -552,7 +552,7 @@ None of these require quips, cold killing competence, or "winning" by acting lik
 
 | Character | She is **not** | She **is** |
 |---|---|---|
-| **Wren** | A femme fatale or stoic hunter | **Old in survival, young in love** — mystery (withheld interior, reads rooms first); intrigue (handler vs rescuer, Asha, third loyalty); attraction (competence + armor-break + pool/courtyard ordinary want) — see `19` § *Female mystery…* |
+| **Wren** | A femme fatale or stoic hunter | **Old in survival, young in love** — mystery (withheld interior, reads rooms first); intrigue (handler vs rescuer, Asha, third loyalty); attraction (competence + armor-break + pool/courtyard ordinary want) — see `19` § *Female mystery…* | **18** |
 | **Mei** | Kitchen-mom exposition | Rules as love language; brother to locked province; throws Eli out the back because **her people** matter |
 | **Mira** *(dead)* | Plot fuel only | Sonic gift; two women loved her; extraction failure — Wren **and** Sora carry unpaid grief |
 | **Sora** | Redemption badass | Soft, exhausted; **volunteered for protection, got leash**; Michael medal; conscience, not cool |

@@ -1,5 +1,7 @@
 # Volume IV — *The Court of Threads* — Beat Sheet
 
+> **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Book IV's monolithic venue name is **Thread Loom**: the court made physical — weaving/judicial geometry, access and placement as instruments of rule, Rowan and Wren as principal weavers. It is the Cube turned narrative.
+
 > **GLOBAL COORDINATION PLOT — LOCKED 2026-08-02:** Book IV is not a project to
 > unify the world under Eli or to make succession the primary adventure. The
 > Lean Year is a practical survival crisis: a fictional North Pacific caldera

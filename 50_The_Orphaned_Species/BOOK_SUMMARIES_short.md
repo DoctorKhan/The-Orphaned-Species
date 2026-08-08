@@ -22,7 +22,7 @@ Anika Voss offers biometric access to Rasel in exchange for Eli's clean scan; El
 
 ---
 
-## BOOK II — *THE DESCENT*
+## BOOK II — *THE DESCENT* / Albion Shaft
 
 Rasel and Wren are present. After Sanxingdui, the group rereads the Three Circles (coupling / institutions / middle-ring care) and moves west — optionally through a **brief Egypt / Nile House hinge** (BAC-survivor god-king trap; contested Mesopotamia→pharaoh claim only) — into Mesopotamian archive (**Adapa Refusal**) and **Göbekli** (selection/control counter-image to Sanxingdui), then a **Bosporus–Thrace/Balkan holding corridor** into Europe. Egypt is never a Book II or III volume open. **Location contraction:** ~6–7 body-arrivals — church rhyme inside **Pömmelte**; **Rollright/Men-an-Tol** one corridor; **Anglesey** as bitter-cup threshold not tour; **Stonehenge→Avebury** one climax run. Hassan returns with Rasel's ring; Eli chooses the living witness over a clean Maren file and learns Maren's moral wound has a named cost. Displaced from her house role, Wren undertakes her first consequential clandestine recovery beside Rowan; **corridor break**, hearth circle, and *in the flow* land at **Pömmelte**. Their search enters an Extra settlement where Sol offers rejected men public names; an unnoticed twin-circle hatch-mark may appear without street name. Somchai's depth-scan and later hard no stay lean. At Anglesey Eli gets **one-way** Maren contact only; embodied reunion waits for Avebury. Cuno's record reveals stone grounds as transmission stations. Eli chooses **release** over keeping her under concurrent keep-her / use-her-signal assault. That release enacts the transmitted teachings rather than becoming a transmission itself, spreading the first awakening and leaving the world without a civic form capable of holding it.
 
@@ -30,7 +30,7 @@ Rasel and Wren are present. After Sanxingdui, the group rereads the Three Circle
 
 ---
 
-## BOOK III — *THE LIVING WORLD*
+## BOOK III — *THE LIVING WORLD* / Living Root
 
 After Maren's release, the awakening spreads—ley lines reactivating, latents developing by proximity, threshold care scaling into contested infrastructure—exactly when the registry argument needs its best evidence. After Albion, the cast crosses the Atlantic into **Belém do Pará** (Guajará Bay / Ver-o-Peso receiving network); Pelangi remains a remote home-node. A pursued refugee boat arrives; Eli's successful temporary coordination makes everyone want to make him permanent. He sponsors one disputed refugee under a voluntary plan (Umul / purpose-≠-usefulness warning surfaces as scrap first); that person commits a serious nonconsensual mind-entry and an ordinary person dies. The harm is real and not Lang's fault. Pelangi remains an active home-node through Mei, cargo, songs, and testimony rather than Eli's physical location.
 
@@ -46,7 +46,7 @@ Eli begins the inquiry and completes constitutional transfer — distributed and
 
 ---
 
-## BOOK IV — *THE COURT OF THREADS* *(working title)*
+## BOOK IV — *THE COURT OF THREADS* / Thread Loom *(working title)*
 
 Book IV moves principally through Rowan and Wren. The emergency court turns access, placement, medical privacy, household recognition, rumor, ceremony, and delayed messages into instruments of rule. The Weavers control much of trust and passage; the men's cloisters hold defense, reconstruction, veteran loyalty, and civic standing. Both are internally divided. Rowan and Eli consciously recognize attraction and have sex several times before political work, post-sex care, and missing one another make the bond romantic. They desire each other directly; Wren's availability is not the cause.
 

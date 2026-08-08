@@ -97,6 +97,17 @@ Merchants can fund mobility and quietly own its destinations. Settlements can
 admire glamorous wanderers while devaluing the young who remain and keep daily
 life running.
 
+**A second motive, under the freedom one — LOCKED 2026-08-06.** This
+generation's own childhood schooling was mostly AI-scaled — drilling,
+testing, credentialing — with real mentorship scarce (`23_2040_present_frame.md`
+§ *Education lock*). A young carrier raised mostly on AI tutoring with no
+real mentor is exactly the profile already named as Companion-Capture/
+Drift-risk (`95_glossary.md` § *The Drift*). So the flights are not only
+about the freedom to leave; for many who join, they are also a search for
+the embodied mentorship an AI-mediated childhood didn't fully give them —
+felt in what a flight actually offers (a hand guiding a hand, not a
+screen), never stated as diagnosis on-page.
+
 **Personal engine:** Tara's generation joins affiliations Eli, Rowan, and Wren
 did not design; Tara may join a flight. **Two founder children — LOCKED
 2026-08-06:** **Tara** (Rowan/Eli, born end of IV) and **Wren/Eli's son** (born

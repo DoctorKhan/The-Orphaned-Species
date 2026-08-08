@@ -2,9 +2,10 @@
 
 > **Not reader-sequence canon.** Preserved development material moved out of `manuscripts/I_The_Breach.md` on 2026-07-31 so Book I ends cleanly at Sanxingdui (*The Living Route*).
 >
-> Mesopotamia and Göbekli adapt into Book II (`manuscripts/II_The_Descent.md`; beats: `32_volume_II_beatsheet.md`). Sanxingdui climax lock: `58_sanxingdui_climax_lock.md`.
->
-> Preserve for adaptation: Edda's true offer, Zahra, human-doors cost, registration dilemma (route geography may shift); Gulf corridor texture; Mesopotamian archive; Göbekli / Bridge / Emrys material as quarry only — Emrys does not exist in current canon.
+> **Reuse audit — 2026-08-06:**
+> - **Usable as scene salvage for Book II:** Zahra al-Harthi (truck driver, grease-dark shop coat, distrusts Wren by name) enters current Book II canon with voice and competence intact. Edda's offer structure (proof of Rasel alive, voluntary assessment, six-hour window) is reworked in Book II as the first direct contact from the Mandate. The "human doors" concept becomes the corridor/conduit system. The Mesopotamian archive material (Refusal, Sorting, Fade, Adapa lacuna, Unplaceable) adapts into Book II's descent packet. The Göbekli plaquette/Bridge object enters Book II as a visual relic. Aru and Daskar threads become the deep-time residue in Book II. The consortium conflict, backfill pressure, and "rendering uncertainty as invoice" speech are adapted into Book II's institutional antagonist framework. Emrys's map-over-territory failure becomes a general pattern in the institutional antagonist, not a single character's flaw.
+> - **Permanently dead — do not restore to Book I:** Emrys as a character (retired 2026-07-27 per `99_open_questions.md` §9). The Gulf corridor as the Book I ending (Book I now ends at Sanxingdui per `58_sanxingdui_climax_lock.md`). The Malacca → Gulf → Mesopotamia → Göbekli route as Book I's chase (now Book II's descent). The nine-minute climax at Göbekli as Book I's ending. The permit-window/backfill calendar as Book I structure.
+> - **Reattribution notes:** Emrys's "rendering uncertainty as invoice" speech can be reattributed to a consortium representative, Lang, or a Mandate administrator in Book II. The bandwidth-vs-depth beat from Emrys on clinic steps needs reattribution in Book I (flagged in `DECISIONS_Chapters_Seven_Eight.md`). Zahra's truck-driving competence and cost-accounting voice are locked into Book II; her husband's license story is reusable as her motivation.
 
 ---
 

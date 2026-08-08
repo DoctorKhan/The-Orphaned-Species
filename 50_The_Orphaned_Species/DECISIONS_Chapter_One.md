@@ -22,9 +22,9 @@
 
 ## Draft choices — flagged for veto
 
-1. **⟦DC-1⟧ — LOCKED rev. Z.** **Friday AM** race opens **mid-channel in medias res** (Eli vs Kiran; wind pocket → Timah/Jul → Kiran capsizes → wall-shadow finish); Suresh holds the wager and gives Eli the Cherry Cube manifest after **Eli wins**. Shireen **Monday** = post-race stake. **Two boats only. No dawn boat.**
+1. **⟦DC-1⟧ — LOCKED rev. Z.** **Friday AM** race opens **mid-channel in medias res** (Eli vs Kiran; wind pocket → Timah/Jul → wall-shadow finish); Suresh holds the wager and gives Eli the Cherry Cube manifest after **Eli wins**. Shireen **Monday** = post-race stake. **Two boats only. No dawn boat.**
 
-2. **⟦DC-2⟧ — LOCKED rev. Z + craft 2026-07-29.** **Mei dinner** opens with Eli and Kiran laughing about the capsize; Kiran leaves before Mei privately delivers the orphan truth (*stolen child*, parents taken alive, Babaji told her years ago). **Rootbook charged on-page:** Eli opens it—Maren's hand, forked *Name* page—Mei closes it and withholds (*Babaji's people move paper*). Plate left like a place held. **No Saturday service-door goodbye.**
+2. **⟦DC-2⟧ — LOCKED rev. Z + craft 2026-07-29.** **Mei dinner** opens with Eli and Kiran trading race notes; Kiran leaves before Mei privately delivers the orphan truth (*stolen child*, parents taken alive, Babaji told her years ago). **Rootbook charged on-page:** Eli opens it—Maren's hand, forked *Name* page—Mei closes it and withholds (*Babaji's people move paper*). Plate left like a place held. **No Saturday service-door goodbye.**
 
 3. **⟦DC-3⟧ — LOCKED rev. Y + craft 2026-07-29.** **Saturday AM catamaran** = first Wren meet. Handler line through Meridian City. **Accelerated:** papers + attest + last-light window + grief line on launch; jurisdiction speech and tea-ledger beat compressed. Babaji texture without orphan exposition on Babaji's lips.
 

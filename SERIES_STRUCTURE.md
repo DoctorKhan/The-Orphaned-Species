@@ -1,5 +1,11 @@
 # SERIES STRUCTURE — the authoritative volume map
 
+> **Architecture synthesis lock 2026-08-06:** full-depth review confirmed the 14-core
+> family with per-count rationale and a locked critical path (II–IV density parity →
+> Cosmic Game reincarnation reconciliation *before Book II finalizes* → `41` climax
+> author decisions → V–X life cards). See `50_The_Orphaned_Species/99_open_questions.md`
+> § *Architecture synthesis lock*.
+>
 > **Read this first if you are unsure how many books this series has, what's in each one, or what a file name refers to.**
 >
 > **Family total — LOCKED 2026-07-31:** **14 core** = 10 Layer 1 novels (I–X) + 4
@@ -150,10 +156,10 @@ delivery spine: `22` § *Technology teaches meaning*; orchestra/V–X: `62`.
 
 | # | Title | File | Chapters | Words (approx.) | Notes |
 |---|---|---|---|---|---|
-| **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~42,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) |
-| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | — | ~29,900 | Westward route; Maren release at Albion |
-| **III** | The Living World | `50_The_Orphaned_Species/manuscripts/III_The_Living_World.md` | — | ~23,900 | Brazil / Hawaiʻi / federation arc |
-| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | — | ~14,800 | North American court; Costa Rica hinge; Rowan/Eli; birth / relinquishment |
+|| **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~42,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) · **Object:** Cherry Cube
+| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | — | ~29,900 | Westward route; Maren release at Avebury · **Object:** Albion Shaft
+| **III** | The Living World | `50_The_Orphaned_Species/manuscripts/III_The_Living_World.md` | — | ~23,900 | Brazil / Hawaiʻi / federation arc · **Object:** Living Root
+| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | — | ~14,800 | North American court; Costa Rica hinge; Rowan/Eli; birth / relinquishment · **Object:** Thread Loom
 
 ## Lifetime Orchestra (V–X) — count LOCKED 2026-07-31; titles open
 

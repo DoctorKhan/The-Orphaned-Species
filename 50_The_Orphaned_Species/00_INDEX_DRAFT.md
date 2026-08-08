@@ -111,7 +111,7 @@
 | `47_palace_of_the_mothers.md` | LIVE *(inferred)* — **Collision** | In-world institution. |
 | `50_teahouse_pilgrimage.md` | LIVE | Teahouse/pilgrimage network (Book III–IV). |
 | `51_field_sail_and_mandate_peace.md` | LIVE *(inferred)* | Field-sail program / peace process. |
-| `52_the_rootbook_word_web.md` | LIVE *(inferred)* | Rootbook linguistic artifact. |
+| `52_the_rootbook_word_web.md` | LIVE *(inferred)* | Rootbook comparative field journal / interpretive matrix, not a cosmological artifact. |
 | `53_quotable_refrains.md` | LIVE | Recurring in-world phrases. Three orphaned Emrys quotes removed and bank renumbered (12+1 → 9+1) 2026-08-01; Somchai/Gabriel citation fixed to "Vol II late Ch 9." |
 | `54_litanies.md` | LIVE *(inferred)* — **Collision with `54_the_lay_verses.md`** | Parade Liturgy master map. |
 | `54_the_lay_verses.md` | LIVE — **Collision** | Tao-rhyme verse bank. Re-checked 2026-08-01 — citations in-range; earlier "stale" flag was a false positive. |

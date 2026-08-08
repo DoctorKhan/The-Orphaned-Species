@@ -27,9 +27,9 @@
 - **Deep-time threads:** **Ila** (Thailand midpoint), **Aru** + **Daskar** (Göbekli — Book II), **Tem** (17:1 grain pit), **Adapa** (Mesopotamia — Book II), **Anthea** + pupil **Lira** (Rollright), **Cuno** (Stonehenge) → **Derw** → **Aedan**.
 - **Load-bearing artifacts (by volume):**
   - **Book I:** Rasel's wedding ring · Maren's Rootbook wafer · Three-Circles Tablet · Thai coop logs / Kitt fork map · Sanxingdui Bronze Sacred Tree (model) + TREE 1 coupling series
-  - **Book II:** ring returns with Hassan · Rootbook kin/complicity pages · Göbekli Bridge plaquette · Adapa Refusal · Sorting/Fade triad · Men-an-Tol · Pömmelte registry marks · optional unnoticed **Loop** hatch-mark seed only
-  - **Book III:** Double-Fork Stone + dragon ghost · Rainbow Tree / Two-Tree union image · Three Circles as civic grammar · **The Loop** (Incomplete Twin Circles — street name + working reading) · Rootbook margin corrections (open shelf)
-  - **Book IV:** optional Loop court re-read (succession / belonging-as-completion); Circles as court grammar; no new quest MacGuffin
+  - **Book II:** ring returns with Hassan · Rootbook kin/complicity pages · Göbekli Bridge plaquette · Adapa Refusal · Sorting/Fade triad · Men-an-Tol · Pömmelte registry marks · optional unnoticed **Loop** hatch-mark seed only · **Albion Shaft** as release monument
+  - **Book III:** Double-Fork Stone + dragon ghost · Rainbow Tree / Two-Tree union image · Three Circles as civic grammar · **The Loop** (Incomplete Twin Circles — street name + working reading) · Rootbook margin corrections (open shelf) · **Living Root** as federated infrastructure
+  - **Book IV:** optional Loop court re-read (succession / belonging-as-completion); Circles as court grammar; **Thread Loom** as institutional geometry; no new quest MacGuffin
 - **Mesopotamian Human-Design Triad:** Adapa lacuna · Enki and Ninmah role-fragment · Sumerian King List declining reigns (full drama Book II; Sorting seed may appear earlier).
 
 

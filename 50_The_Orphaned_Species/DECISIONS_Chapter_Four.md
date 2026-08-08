@@ -1,6 +1,6 @@
 # Chapter Four — Her People
 
-> **SUPERSEDED — 2026-08-01.** **Professor Emrys does not exist** (`99_open_questions.md` §9, LOCKED 2026-07-27). Item 5 below (Emrys travels by freight) is retired-role quarry; the "breath before / log counted dreams" homework beat needs reattribution or removal. Preserved for scene salvage only.
+> **Decision record — superseded 2026-08-01.** Professor Emrys does not exist (`99_open_questions.md` §9, LOCKED 2026-07-27). Emrys-dependent items below are retired to quarry; the "breath before / log counted dreams" beat needs reattribution or removal. Non-Emrys items remain valid decision record. **Governing prose:** `manuscripts/I_The_Breach.md` Ch 4.
 
 > **File:** `DECISIONS_Chapter_Four.md` (renamed from `DRAFT_Chapter_Four.md` 2026-07-24). **Drafted directly into `manuscripts/I_The_Breach.md` — the manuscript is governing.** This file is the decision record.
 
@@ -10,6 +10,6 @@
 2. **Wren's interiority discipline:** arithmetic where other people do grief, named once by herself; "reason for travel: *Family*" as the section's closing wound. Rowan's ledger phrase deliberately NOT used (reserved for Vol II per `32` Ch 5 past-leak).
 3. **The consent beat carries the irony:** Wren lays out the full route unprompted and asks "Do you agree to the route?" — Pak Din's "Since when does the ferrywoman ask the cargo?" / "Since now." The reader knows why; Eli doesn't; flagged in-prose as "the beginning of a constitution" (seeds Asha's later accountable-limits reforms).
 4. **Pak Din invented** (minor, one-edge-one-want-one-cost per the attachment ladder): unlit clove cigarette; reads patrols by laundry ("customs with no laundry — contractors"); keeper-adjacent sister; cost paid on-page — cousin's cannery slot burned, "he'll wait tables at his own wedding"; the chain ethic ("You'll be a link. That's the payment.").
-5. **Emrys travels by freight** ("coolers don't swim"), leaving homework: breath *before*; log counted dreams. Keeps the small boat human-scale.
+5. **[RETIRED QUARRY — Emrys does not exist]** Emrys travels by freight ("coolers don't swim"), leaving the "breath before / log counted dreams" beat to be reattributed or removed.
 6. **The inspection is Eli's first preemptive hold** — cup arithmetic on the warm cowling + temple count, "a door held, not a mop"; deliberately barely-managed, no power-up; the contractor launch's one heartbeat of hesitation left unexplained.
 7. **Delta approach foreshadow is one sentence** (palms humming "the way a held wire hums when, far down the line, something is switched on") — no lore, sets Ch 5.
