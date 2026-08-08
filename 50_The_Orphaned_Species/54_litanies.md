@@ -316,12 +316,12 @@ Novel beats reference **F1–F10**, not the full liturgy.
 | **1** | Hearth send-off | — (too early; parade not yet named) | — |
 | **2** | Stack intake, Cube spectacle | F8 pillar; F1 elevator; **full litany** in service alcove — one voice speaks Voice lines, room answers All together, flat, unironic | **ON PAGE** |
 | **3** | Platform overload, Nura cup | F8 — keeper mutter after cup trick | **ON PAGE** |
-| **4** | Wren extraction | — (operational tempo) | — |
+| **4** | Wren extraction; Pak Din boat, war approaching | F4 — boatman's drift saying | **ON PAGE** |
 | **5** | Mountain lodge, stilt-house | F6 Khun Dang; F5 keeper at dawn | **ON PAGE** |
 | **6** | Wat silence | — (schedule enacts; no liturgy lines) | — |
 | **7** | Cooperative dyke | F3 Lung Thong / grandfather | **ON PAGE** |
 | **8** | Night raid, registry fax | F7 — Malai after apparatus notices the band | beatsheet |
-| **9** | Pak Din boat, war approaching | F4 — boatman's drift saying | **ON PAGE** |
+| **9** | Two Teams (corrected 2026-08-07 — Pak Din is gone from the story by this chapter, moved to row 4) | — | — |
 | **10** | Field fight, Eli's command failure | — (dramatize cost; no fragment — silence earns Ch 13) | — |
 | **11** | Gulf archive | F7 — curator after narrowing genealogies | beatsheet |
 | **12** | — | — | — |

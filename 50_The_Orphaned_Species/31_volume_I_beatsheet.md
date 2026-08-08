@@ -341,7 +341,7 @@
 - **Romance cost (SHARPEN):** Wren wants **exit strategy**; Eli wants **documentation** — control flare (*I'll manage the risk*). She does not defer silently; he does not win the argument. Complementary cowardice: she'll face armed teams; won't sit still for his plan.
 - **M/I/A:** **M** — control argument exposes manage-danger-first. **I** — exit vs evidence / community exposure. **A** — —
 
-### Ch 8 — Ila's Ground *(Eli · the Thailand cooperative)*
+### Ch 8 — Ila's Hands *(Eli · the Thailand cooperative)* (title corrected 2026-08-07 to match the manuscript, which uses this title consistently)
 - **Deep-time residue — LOCKED 2026-08-01:** Ila's ground record confirms what the growers already know — the new line forming through planted ground is not an anomaly to exploit, it is a living system to tend. Eli encounters her through document: a keeper's testimony, a field note, a partial Rootbook page showing the ley line's signature across paddy and crop. She mapped the ground; he is learning to read it.
 - **Want:** help, and not be useless.
 - **Obstacle:** someone is hurt (the converging conflict draws first blood); Eli has Ila's ground record but no mastery.

@@ -1637,44 +1637,6 @@ harbor already knew and he is only now learning to read.
 
 ---
 
-By midafternoon the clinic queue has stalled.
-
-Twelve people wait in the narrow corridor between intake and examination.
-One child is crying. A clinic worker has left the desk to fetch water. The
-interpreter is talking to three people at once and losing all of them. Someone
-has moved a chair into the doorway and is using it to block the draft from the
-opening door, which lets in rain and the smell of wet diesel. The queue does
-not move.
-
-Nobody calls for a coordinator.
-
-An older woman from the river market — Dona Iracema, who has been directing
-traffic since morning without a badge — steps around the chair and reroutes the
-family at the front toward the overflow cot because she sees the child's face
-and recognizes the fever pattern. The clinic worker returns with water and
-hands it to the interpreter, who passes it to the mother without stopping the
-explanation. The welder from the intake crew takes over crowd position at the
-door without being asked and stops the draft with his body. The interpreter,
-freed from managing three conversations, finishes the one that matters most.
-
-The queue begins moving again within ninety seconds.
-
-Eli watches from the doorway with Wren. He has not spoken. Nobody has looked
-to him for an order.
-
-"Who decided that?" he asks quietly.
-
-"Nobody," Wren says. "They decided together."
-
-The redistribution is faster than the commander-led version would have been,
-and quieter, and it leaves no one with a story about who was in charge. That
-is exactly the point.
-
-He does not record it as a management lesson. He lets it stand as a fact the
-harbor already knew and he is only now learning to read.
-
----
-
 The next morning brings clean weather.
 
 The workboat sits against the maintenance pier with its aft deck open. Nia and

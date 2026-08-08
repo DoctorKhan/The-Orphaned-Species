@@ -382,7 +382,8 @@ The outer circle should be the machine. Easier.
 The middle is where every difficult thing has happened. Mei feeding him under a
 false file. Babaji attaching a sponsor line. Wren using her own name to open a
 public gate and losing every place that name admitted her. Rasel making a tool
-with Maren and then spending ten years helping sabotage what they had made.
+with Maren, then twenty years of building exactly what he was asked to build
+and nothing more, and one night undoing all of it at once.
 
 Family is not the safe ring.
 
@@ -6919,7 +6920,8 @@ artificial light along one wall, each pot tagged with a signature number.
 
 She is lucid.
 
-Not free.
+Not free of the field's pull toward sameness — that costs her something new
+every hour she holds her own shape against it.
 
 The distinction is visible in the effort required to keep her own face.
 
