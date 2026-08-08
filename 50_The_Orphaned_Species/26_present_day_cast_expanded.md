@@ -456,7 +456,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Pelangi Reclamation — LOCKED 2026-07-24 (rev. D); robotics scarcity LOCKED 2026-07-26:** **not an active tech hub.** The **Forest City / Forest Foundry megaproject failed** and the founders **walked away**; the resort shell is **abandoned mid-boom**, repurposed as **refuge**. Babaji kept critical systems alive (desal, pumps, generators) and runs a **keeper cell** from the **old hotel** with leftover tech — **a few patched robot dogs**, chess boards, brain scanners, patched uplinks — **not** a startup floor and **not** humanoid staff. Royal kiosks still **claim** climate-future propaganda (including robots Pelangi never got); the lived place is **Mei's terrace, tower gardens, and maintenance debt** — separate spheres from Babaji's hotel.
 
-**Ch 1 beats — LOCKED 2026-07-25 (rev. Y):** see `31` opening cards. Catamaran papers; **Wren first on-page Saturday AM**; handler through **causeway hall**; **Saturday PM departure** + raid; Babaji **catamaran south** same hour.
+**Ch 1 beats — LOCKED 2026-07-25 (rev. Y); relocated 2026-08-07:** see `31` opening cards. Papers now signed inside **Babaji's hotel** (lobby robot dog + automatic chess boards; Babaji's own private upper floor, decaying resort bones rather than lavish life), not the catamaran; **Wren first on-page Saturday AM**; handler through **causeway hall**; **Saturday PM departure** + raid; Babaji **catamaran south** same hour, now solely his own departure vessel.
 
 **Guardrails:** does **not** know where Maren/Rasel are held; not rescue GPS; not cosmology expositor; wealth shields, does not solve the war.
 

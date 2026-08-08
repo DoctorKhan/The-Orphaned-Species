@@ -217,17 +217,17 @@ When the light comes he goes to work on Mei's cable because motion is the only s
 
 ---
 
-*Saturday, first light.* The old hotel sits red under the dirt two blocks from the marina—half boarded, half laundry. Authorities have been asking at the desk all week. Babaji is not at the desk. Eli finds the pier behind it where a fibreglass launch waits with a deckhand and no name he knows.
+*Saturday, first light.* The old hotel sits red under the dirt two blocks from the marina—half boarded, half laundry, marble sills gone grey under a decade of salt. Authorities have been asking at the desk all week. Babaji is not at the desk.
 
-They cross to Babaji's catamaran at anchor—massive twin hulls, wide white bridge, dark glass, twin outboards idling low and mean, the kind of boat that looks obscene next to Pelangi's rice tenders.
+In the lobby a patched robot dog lies folded near a dead fountain, waiting on a route nobody has run in years, and an automatic chess board finishes the same captured opening against no one, pieces sliding their rails under glass gone cloudy at the corners. Eli has walked past both since he was small enough to think they were magic. He still isn't sure they aren't.
 
-A woman at the rail takes his measure before he reaches the stern—dark hair tied back, linen that reads host not harbor. She does not offer her hand.
+A woman at the foot of the stair takes his measure before he reaches it—dark hair tied back, linen that reads host not harbor. She does not offer her hand.
 
-"You're Rasel's boy." Soft, briefed, unhurried. "If you'd come aboard, please. Babaji is waiting."
+"You're Rasel's boy." Soft, briefed, unhurried. "If you'd come up, please. Babaji is waiting."
 
-The words hit the same place Rasel used to when he said *Babu, come here*. Eli climbs aboard. The deckhand takes the launch back without her.
+The words hit the same place Rasel used to when he said *Babu, come here*. Eli climbs behind her, past floors built for someone's honeymoon and now boarded, laundered, or lived in by four quiet men and a kettle.
 
-Babaji sits in the aft shade—automatic chess paused mid-game, kettle on the side table, the cheap magnetic pieces Rasel hated and bought anyway because Eli kept losing them over the rail. He does not stand.
+Babaji sits by a window with the drapes half-drawn, automatic chess paused mid-game on a cheap magnetic set—the pieces Rasel hated and bought anyway because Eli kept losing them over the rail. He does not stand.
 
 "Sponsor line is mine." He passes a folded contractor sleeve. "Paper says Foundry stage crew—that clears the corridor. Job is Cube show: Sunday concert before Circuit night. Power, wardrobe uplink, afterparty before the cars." He holds it out to the woman first. "Wren. Attest it."
 
@@ -239,7 +239,7 @@ Wren slides a call sheet across—forty-eight hours, cash at intake. "Worker lan
 
 Friday is still in Eli's chest—Mei's terrace, both parents taken, the notebook she would not let him keep—and his hands won't stay still on the table edge.
 
-Wren sets tea in front of him without asking. "You're not paying anyone back on this boat." She returns to the tablet. "Eat something."
+Wren sets tea in front of him without asking. "You're not paying anyone back in this room." She returns to the tablet. "Eat something."
 
 "Proceed," Babaji says.
 

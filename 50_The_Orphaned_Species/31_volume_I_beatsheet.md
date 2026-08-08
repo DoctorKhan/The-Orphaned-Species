@@ -43,7 +43,7 @@
 
 ### Current opening cards — authoritative order
 
-- **Ch 1 — Pelangi Reach:** **Friday AM** race (Eli vs Kiran; Suresh holds wager); **Friday PM** Mei dinner opens with both racers, then **private orphan truth** after Kiran leaves (only send-off). **Saturday AM** Babaji **motor catamaran** — **first meet Wren** (handler through Meridian City). **Saturday PM** Wren at marina **before** checkpoint → aboard Suresh → squeeze → **raid on Babaji offices** as Eli departs **last light**. **No packet. No Priya. Wren ≠ Mei.**
+- **Ch 1 — Pelangi Reach:** **Friday AM** race (Eli vs Kiran; Suresh holds wager); **Friday PM** Mei dinner opens with both racers, then **private orphan truth** after Kiran leaves (only send-off). **Saturday AM** Babaji's **hotel** — lobby robot dog + automatic chess boards, private upper floor (decaying resort bones, not lavish life) — **first meet Wren** (handler through Meridian City); Babaji's catamaran is now solely his own Saturday PM southbound departure, relocated from the meeting 2026-08-07. **Saturday PM** Wren at marina **before** checkpoint → aboard Suresh → squeeze → **raid on Babaji offices** as Eli departs **last light**. **No packet. No Priya. Wren ≠ Mei.**
 - **Ch 2 — Checkpoints → Meridian → Malacca breach:** **Saturday PM–eve:** **Wren escorts** marina gate → strait pier → pier arch → port shuttle → transit → buses → **causeway hall**; wrong-room overhear; **peels off at document lanes**; clerk → ring photograph → wage ticket → **Continue Inn** (arcade-tier game hotel — live cabinets/VR, contractor voucher). **Sunday AM:** Cherry Lane maze → **Cherry Cube** check-in → **Sunday Circuit** concert hunt → convoy escape → Straits → Malacca breach.
 - **Ch 3 — What Didn't Die:** Salmah pulls Eli back; Hassan and the ring are
   lost; a courier calls Eli's state a threshold episode and is wrong. Wren uses
@@ -102,7 +102,7 @@
 ## ACT I — Hearth and Breach
 
 ### Ch 1 — The Hour That Belongs to No One *(Eli · old island + Pelangi Reach)*
-- **Timeline — LOCKED rev. Z:** **Thursday night** — Eli sleeps in Rasel's garden (**referenced only**). **Friday AM** — **morning skiff race** against Kiran (**Eli wins**; Suresh's wager → Cherry Cube manifest). **Friday PM** — **Mei dinner** with both racers; Kiran leaves; private orphan truth, only send-off. **Saturday AM** — Babaji **catamaran**, **first meet Wren**, papers + handler line. **Saturday PM** — squeeze; Wren at marina **before** gate; raid on Babaji offices as Suresh casts off **last light**.
+- **Timeline — LOCKED rev. Z:** **Thursday night** — Eli sleeps in Rasel's garden (**referenced only**). **Friday AM** — **morning skiff race** against Kiran (**Eli wins**; Suresh's wager → Cherry Cube manifest). **Friday PM** — **Mei dinner** with both racers; Kiran leaves; private orphan truth, only send-off. **Saturday AM** — Babaji's **hotel** (interior — relocated 2026-08-07 from the catamaran, which is now reserved for Babaji's own Saturday PM southbound departure), **first meet Wren**, papers + handler line. **Saturday PM** — squeeze; Wren at marina **before** gate; raid on Babaji offices as Suresh casts off **last light**.
 - **Want / Attachment:** Timah/Jul meadow; Mei coffee; garden; terrace; quay. Chosen family: **Mei, Suresh, Babaji** — **not Wren** (Babaji's world). Shireen remittance = why he races for the manifest.
 - **Obstacle:** Mandate squeeze; Babaji keeper holdout; authorities raid hotel.
 - **Choice → Cost:** Wins race, earns manifest; Wren puts him worker lane; **still boards Saturday PM**. Hearth suspended.
