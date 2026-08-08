@@ -329,6 +329,14 @@ ancient, fake, or merely old enough to have acquired better stories than its
 maker intended. Three rings cut around a center dot. The middle ring is thicker,
 the groove worried by a thumb that died before anyone in the room was born.
 
+Wren touches the corner of the gray cloth. Underneath it is the memory of Mei's
+terrace table: frangipani sticky underfoot, diesel mixing with flower, Mei
+setting down a plate she had already decided he would eat. False file or not,
+that table was a kind of truth he did not have words for until now. Babaji
+attached a sponsor line without asking him to name what he owed. Mei fed him
+without asking him to admit he was hungry. Both acts traveled the same quiet
+channel: care routed around the system the system intended.
+
 Rasel reaches for it.
 
 Wren moves the tablet back.
@@ -777,6 +785,16 @@ The woman looks at her.
 
 Wren accepts the sentence without defending herself.
 
+Sora watches from the pallet with her burned shoulder propped on a rolled
+blanket. Her eyes are open in a way they have not been since the annex: the
+fear has not left, but it has stopped being the only thing in the room. She
+sees Nadiya and the name of the woman who sent the message she does not know
+yet—Maren's hand in a kitchen route she has never traced. For a moment Sora's
+throat works without sound. Then she finds Eli's wrist and holds it the way
+someone holds a route she cannot complete alone. The grip is not grateful. It
+is the grip of a person who has stopped waiting for rescue and decided that
+standing is enough.
+
 The woman checks the other racks. Only when the compressor settles into its
 normal rhythm does she turn toward the people.
 
@@ -859,6 +877,13 @@ record indexed to Maren Holt."
 
 Sora, pale from the nurse's work, says, "I need the holding route attached to
 Hassan's category."
+
+Wren does not ask why Sora already knows to request it by name. She already
+knows the answer: a route leaked once before, quietly, straight to Wren,
+when a clean extraction would have cost Sora her whole standing with the
+Custodians and Sora sent it anyway, telling herself it corrected an
+unnecessary detention rather than admitting what it actually was. Neither of
+them has ever said thank you for it out loud.
 
 Three answers. None identical.
 
@@ -1176,6 +1201,17 @@ new center needs them.
 The resemblance is not proof that an ancient boat described a modern program.
 It is proof that civilization has long known how to move its order while
 calling the movement sacred.
+
+A second curator, older, uninterested in Haddad's comparative romance, adds a
+folder nobody asked for: contested photographs from a Nile House loan
+collection, touring before the war cut the exhibit short. Not everything
+moved, she says. Some centers answered collapse by hardening instead — the
+god-king kept alive past any ordinary reign, the office propped upright long
+after the man inside it should have been allowed to die, endurance mistaken
+for survival. "Pharaohs trace to Mesopotamia," she adds, before anyone can
+ask. "That is my colleague's claim. Not mine. I keep the photographs. I do
+not keep his footnote." Nobody in the room needs the comparison explained
+twice: transfer, or hardening. Two ways an old order refuses to end.
 
 Sora points to a category beside Hassan's record.
 
@@ -2392,6 +2428,116 @@ The second time they shake.
 
 ---
 
+Two days earlier, the crossing had not been a gate. It had been a town built
+around a strait and the low mountain everyone just called the Laurel — Kastri
+on the older maps, the Laurel Cube on the ticketed pilgrim buses that never
+came this far off-season — where three days a year the old maritime guild ran
+contests no office sanctioned and no office could quite forbid, because the
+winners left with something no office could issue: a local pass, honored by
+every captain who was once a boy watching from the harbor wall — and, if the
+games judged you worth it, one night hosted by a keeper house at the
+mountain's shoulder, where pilgrims who won nothing still gathered at the
+margins and sang.
+
+Wren found the noticeboard before Eli did.
+
+"You need instrument access," she said. "Not sympathy."
+
+"You're saying I should race."
+
+"I'm saying you already know how."
+
+The course ran the strait twice, against a current that punished anyone who
+fought it instead of joining it. Eli's boat was borrowed, patched, wrong in
+three places he had to learn by feel instead of by looking. Halfway through
+the second leg his palms found the hull's actual rhythm before his eyes did —
+the boat stopped being separate from the water it was cutting, and for one
+stretch, so did he. Something in his chest went hot and wide at once, an old
+fever answering an old debt, and for four strokes he sailed faster than his
+body should have allowed before the Fever scar collected its interest: a
+headache like a nail driven flat, the last mark doubling in his vision. He
+crossed anyway, half a length ahead, and sat down hard on the dock before
+anyone could watch his knees do it for him.
+
+He almost refused the second contest.
+
+Close quarters, padded staves, a circle chalked on cobblestones. His opponent
+was heavier, faster on paper, and Eli had no forms, nothing Khun Dang taught
+him that applied at this range. But his body remembered a fracture nobody had
+set right the first time — the old break in his own hip read weight shifting
+through another man's frame a half-second before the man's brain finished
+deciding to move. He did not win by being stronger. He won by already being
+somewhere else by the time the strike arrived, three times, until his
+opponent stopped swinging at where Eli was and started swinging at where Eli
+had already left.
+
+The third contest was quiet, indoors: a locked cabinet, a pattern lock the
+guild had used for two centuries to keep the crossing manifest from being
+falsified. Officials expected minutes. Eli held the whole shape of it at
+once — not remembering the sequence but seeing it, the way he once saw cable
+runs and shaft maps at home — and the lock gave before the timer's second
+hand finished its circuit. Somchai, watching from the doorway with his arms
+crossed, went very still. Wren did not smile. She recalculated.
+
+The pass they handed him afterward was a plain paper stamp. The second thing
+they handed him was a keeper's word, quietly, the way a local tells you
+which door actually opens: a night, if he wanted it, at the mountain's
+shoulder.
+
+An old woman met him at a house that was mostly kitchen. She did not explain
+anything. She fed him first — bread, something bitter and green — and only
+after that led him up a goat path to a room with no furniture and a floor
+worn smooth in a spiral nobody had swept clean on purpose.
+
+"You don't have to say anything," she told him. "But if you want the night to
+mean something, say the words with the others."
+
+Below, at the margins of the path, pilgrims who had won nothing sat in the
+dark and sang something low and repetitive, a call and an answer, the same
+handful of lines passed hand to hand for longer than anyone could date.
+Eli did not know the words. He mouthed the shape of them anyway, half a beat
+behind, the way he'd once faked a hymn in Bali to keep from standing out.
+
+He lay down because the old woman told him to, and because his legs had
+stopped arguing about it.
+
+He did not fall asleep so much as stop being only one thing.
+
+Something approached him in the dark that was not entirely dark. Not a
+shape he could describe as a person and not one he could rule out as one
+either — a warmth with a direction to it, a weight that leaned in without
+ever quite arriving, the way Wren's hand had once hovered at his shoulder
+before deciding to land. He felt it more than he saw it. For one full
+second, though, he thought he saw it too: something like a hand, something
+like patience, close enough to touch his chest above the heart.
+
+It touched him.
+
+Not pain. Not comfort exactly either. A single fact arrived whole, the way
+his palms sometimes already knew a pulse before his mind caught up to
+naming it: a ground far to the north-west, already breathing wrong, already
+carrying more weight than it should. Go there prepared to leave something
+behind, or do not go at all.
+
+He did not understand the shape of the warning. He understood that it was
+true the way he understood fever from three feet away — not proof, just the
+kind of knowing his body had never once been wrong about.
+
+When he woke the old woman was already gone and the singing below had
+stopped. His hands were shaking the way they did after activation, and
+nobody in the kitchen downstairs had any way to know he had been anywhere
+but asleep.
+
+That night, back in the room above the contest hall, he tried the guitar a
+site medic had left behind with two strings still good. He was terrible at
+it. He played the same four-count Nura once tapped into a teacup rim, badly,
+until his hands stopped shaking on their own schedule instead of the
+guitar's. Wren, in the doorway, did not tell him he was bad at it. She
+counted along under her breath until he noticed she was doing it and stopped
+being embarrassed enough to keep going.
+
+---
+
 Eli knows the man by smell.
 
 Antiseptic soap. Hot plastic from an oxygen line. Something green and bitter
@@ -2560,13 +2706,22 @@ Eli waits for pity. It does not arrive.
 receiver was always you. Do not spend the rest of this route trying to sand
 yourself down to a calm that was never effortful for them."
 
-He withdraws his hand.
+Somchai withdraws his hand.
 
 "Pin," he adds, almost as an afterthought. "Also loud. Scattered quiet
 population. Not a singularity."
 
 Pin, across the room with the refrigerator, does not look up. He does not need
 to. The recognition is for Eli.
+
+Eli is still learning the other language Somchai speaks: the one that names
+wounds without asking them to perform. The receiver was always you. The words
+have been sitting in his chest for hours, turning quietly, because he knows what
+it costs a healer to tell a man he is sanding himself down for people who will
+not notice when he stops. He does not say thank you. He does not say I know. He
+does not say anything that would turn the gift into a transaction. Instead he
+stands and goes to find Wren and tells her the woman behind the curtain has
+Hassan's transfer category.
 
 Then Eli remembers the woman behind the curtain.
 
@@ -2967,6 +3122,38 @@ Somchai checks the tray without surprise. "I was told the replacement arrived."
 
 "It did. The shelves here weren't updated."
 
+Somchai picks up the expired blister pack. For a moment he holds it the way he
+holds a body he cannot save: not with hope, not with anger, with the quiet
+fact that someone was promised care and given paperwork instead.
+
+"These were allocated to the convoy clinic three weeks ago," he says. "The
+pharmacy replaced them on paper. The shelf kept the old lot. The paper is the
+thing that traveled."
+
+Eli thinks of Hassan's transfer category—paper moving faster than a man. The
+same machinery in a different register. One moves a prisoner through categories
+that pretend he does not exist; the other moves medicine through categories that
+pretend it is current. Both rely on the assumption that the next person in the
+chain will not look. Somchai is looking.
+
+"We will not use them," Somchai says. He places the tray on the medication
+counter, face up, so the expired lot numbers show. "Call the regional pharmacy
+and tell them the replacement they think they delivered arrived with a review
+date already past. They will argue. Tell them the argument will be forwarded to
+the clinic board with the nurse's name attached."
+
+Wren looks at him.
+
+Somchai does not look back. "I am not the person who heals on command. I am the
+person who says no in public when the cost is small enough that no one will
+remember my name afterward. That is the hard no, not the moment with cameras."
+
+He picks up the unexpired pack and puts it into the tray before anyone else
+can. "Now we plan the clinic evacuation."
+
+Eli files the sentence the way he files cheap soap and ordinary grief: under
+things that should not need saving and do anyway.
+
 He does not argue. He marks the three vials with a red pen from his pocket and
 puts them in a separate tray. No speech. No correction. The team is already
 moving; this is caught without breaking stride.
@@ -3067,11 +3254,17 @@ Pain crosses her face before the seam locks.
 The person who emerged at Sanxingdui disappears behind posture: shoulders
 level, eyes emptied of objection, one hand held where a weapon should be.
 
-Pin looks at her in the mirror.
+Eli looks at her and sees Hassan's transfer category in another register: a
+person made to carry a shape that is not her own until the thing she is carrying
+stops being useful. He thinks of the pen twelve description Sora gave them—cattle
+trucks, wash arches, concrete walls. He thinks of the guard changing at dawn,
+which means the night shift is already tired, already watching the perimeter
+instead of the pens, already making the small mistakes a rescue depends on. The
+depot is not a fortress. It is a place where people have stopped looking
+carefully because nothing they care about is supposed to be inside.
 
-"That's disturbing."
-
-"Good."
+He does not say this aloud. He does not need to. Wren is already routing the
+night-shift fatigue data through Rasel's contact in Thrace.
 
 At the service gate she presents herself as Shield Vithan returning contaminated
 materials from the Göbekli incident.
@@ -3086,7 +3279,17 @@ The guard recoils from the truck without knowing why.
 
 The gate opens.
 
----
+Wren feels the exit the way she feels a route closing: before the wheels turn.
+She has not told Eli half of what she arranged inside the holding site. The bribe
+to the gate clerk was routed through a house in Albion that does not know her
+name. The uniform in the cab is a modified Thread issue that would identify her
+as a Weaver if anyone checked the weave. The guard's recoil was engineered by a
+field signature borrowed from Rasel and broadcast through the truck's cab fan.
+Every step was rehearsed in rooms Eli was not invited to attend. Hub labor has
+no signature. It appears as the thing already moving when someone finally asks
+who started it.
+
+Inside the cab, Sora does not speak.
 
 Inside, cleanliness becomes threat.
 
@@ -3156,6 +3359,9 @@ A voice answers from the ceiling.
 "Me."
 
 Anika appears on the observation glass.
+
+Sora's jaw tightens. "Charkha," she says, mostly to herself, the way you name
+a weather system already overhead.
 
 Not a recording. Live enough that the scar beside her mouth tightens when she
 sees Sora's closed collar.
@@ -4537,7 +4743,7 @@ to provide.
 The jealousy arrives ugly and immediate. Wren had asked Rowan plainly. With Eli,
 want still came dragging an empty chair behind it.
 
----
+## Chapter Seven—The Riddling Ground
 
 Outside, the drained field carries sound strangely.
 
@@ -4613,9 +4819,42 @@ Somebody has already named it without ceremony: the Break. The corridor break.
 
 Around a cook-fire at the camp edge, people sit in a circle—displaced families,
 a Weaver host with a guitar missing two strings, Pin sharing salt he did not
-need to share. No stage. No prophet. Local song, then one traveler song Eli
-recognizes from Khun Dang's lodge without knowing he would remember it until
-his throat does.
+need to share. No stage. No prophet.
+
+The guitar host finds a rhythm on the two strings she has left and says the
+first line like she's asking it of the fire, not the circle.
+
+"Everyone knows just what to do!"
+
+Enough of the circle answers to make it real. "I alone have no clue."
+
+"Everyone has a place to go!"
+
+"I alone drift below."
+
+"Everyone feels so sure and bright!"
+
+"I alone sit in night."
+
+"Everyone feels so safe and warm!"
+
+"I alone face the storm."
+
+She lets the fire eat the pause before the next one.
+
+"Is anyone there? Does anyone care?"
+
+"We are all alone. We are all unknown."
+
+"Is this the end of the road we trace?"
+
+Nobody answers right away. Then the whole circle, not loud: "Or just an empty
+space... where nothing is lost, and nothing is found."
+
+Nobody moves to fill the quiet after. The fire does that instead.
+
+Local song, then one traveler song Eli recognizes from Khun Dang's lodge
+without knowing he would remember it until his throat does.
 
 Wren watches without operational speech.
 
@@ -4650,12 +4889,58 @@ Eli wipes the name away.
 
 A resident redraws it after they leave.
 
+Later, when the embers breathe instead of shine, Asha sits with Wren on an
+oil-drum seat turned down. She keeps her voice low because trust is still a
+local currency here.
+
+"You have been watching him," Asha says.
+
+"Everybody watches him."
+
+"Not like this."
+
+Asha's eyes are older than the threshold house, older than the order that built
+it. She carries a wound Wren knows in outline: a younger brother lost after an
+official evacuation called itself temporary. Asha turned the lesson into
+procedure—consent forms, return rights, frozen routes—but procedure is not the
+same as trust, and she has tested every new person who enters her doors the way
+a carpenter tests wood for rot.
+
+"I have seen three kinds of people through our intake," she says. "Those who
+buy gratitude with jurisdiction. Those who earn standing by becoming
+indispensable. And those who show up for the work no one wants to count and do
+not ask the ledger to name them afterward."
+
+Wren watches Eli at the edge of the circle. He is teaching a child to fold a
+blanket so it carries the least weight. He does not fix the crooked corner.
+
+"He asked permission before he sat down," Wren says.
+
+"As if the blanket belonged to someone else."
+
+"Then why mention it?"
+
+"Because he doesn't need us to call him chosen to stay."
+
+Asha lets the silence settle. Somewhere a robot dog ticks and stalls—one of
+Babaji's patched leftovers, a texture from another life—and neither of them
+looks toward the sound.
+
+"Trust earned is not a marker you hand someone," Asha says. "It's the thing
+they leave behind when they could have taken something and didn't."
+
+The child laughs so quietly it sounds like a small thing agreeing with him.
+
+"He didn't take anything," Wren says.
+
+"Not yet."
+
 The route west no longer belongs to any map they possess.
 
 It travels in three alarm notes, water moving against grade, and the absence of
 a man every completed file insists has arrived.
 
-## Chapter Seven—The Riddling Ground
+---
 
 Albion begins with a clerk correcting Eli's mother.
 
@@ -5099,6 +5384,20 @@ One of Cuno's marks, perhaps.
 
 Not enough to use. Enough to recognize later.
 
+Eli finds Morwen coiling the iron wire.
+
+"What did I see?"
+
+She does not look up.
+
+"Depends who you ask. Ask a vicar, you get devils. Ask a folklorist, you get
+memory. Ask me—" she ties off the coil "—the gods did not die, nor did they
+leave. They simply went underground."
+
+"That's not an answer."
+
+"It's the only one that's held up this long."
+
 Callum wakes before the rowan leaves brown.
 
 ---
@@ -5202,6 +5501,52 @@ Neither speaks about the field.
 
 Ordinary work first. They learned that as girls: clean the equipment, count
 everyone, eat, then decide what the danger meant.
+
+Wren's needle catches on something between the leather and the cloth — a
+fold gone stiff with age, worked flat by years of being carried and never
+removed. She works it free without meaning to.
+
+Paper, not cloth. Her own handwriting, younger and trying too hard to sound
+careless. *My dearest — if you are reading this you have finally cleaned the
+case, which means you have finally forgiven me for the lamp, which I still
+maintain was an accident.*
+
+Rowan does not look up from the desk. Her pen stops moving.
+
+"You kept it," Wren says.
+
+"You wrote it."
+
+"I gave it to you."
+
+"Then it's still yours. I only held it."
+
+Wren reads three more lines before she can make herself stop. They could
+mean exactly what a sister would write to a sister. They could mean exactly
+what she remembers meaning, before either of them had a word that fit both
+readings at once. The letter culture always intended that. Knowing it does
+not make her hands any steadier.
+
+She folds it back along its old crease and does not return it to the
+lining.
+
+"Do you want it back?" Rowan asks.
+
+"I want to know why you never gave it back."
+
+"Because giving it back would have meant the ending was real."
+
+Wren's hand goes, without deciding to, to the plain cord still knotted at her
+own wrist — the one Rowan tied there years ago and never asked returned. She
+has told herself for a year it stays for the craft, cover in case anyone
+ever checked. Rowan's own wrist is bare tonight, but Wren has seen the mark
+a cord leaves on skin worn to expect one, faded but not gone. Neither has
+ever untied the other's. Unbinding is its own ceremony, plain as the tying
+was, and neither of them has been willing to perform it.
+
+Neither says anything else about it that night. The letter goes into Wren's
+own pocket instead of the case, which is its own kind of answer, unresolved
+on purpose.
 
 Rowan closes the slate.
 
@@ -6035,6 +6380,29 @@ At the end of the orchard, Rowan waits beside Eleri's western markers. She does
 not look away from their joined hands and does not approve them.
 
 She simply remains.
+
+Wren asked her to stay behind and close the threshold accounts before the
+consortium's field traffic reaches Stonehenge first. It was the right call.
+Rowan told her so.
+
+Alone in the stewardship office afterward, Rowan writes a Weft letter to a
+house she has not corresponded with in a year. She writes three paragraphs of
+route accounting — ledger balances, a threshold reassignment, a note about
+Eleri's consent register — the part any house would expect and file without
+a second read.
+
+Then, on a second sheet she will not send, she writes what the accounting
+does not carry: that she is glad Wren is safe and glad Wren is not here; that
+staying behind was correct and still costs something no correctness repays;
+that she has done this specific arithmetic before, in a different house,
+under a different name, and it did not get easier for the practice.
+
+She does not sign it to anyone. She reads it once.
+
+She folds the second sheet inside the first and burns only the second before
+sealing the route letter for the morning post — the routine part sent, the
+rest kept long enough to be true and then let go before it could become a
+claim on anyone.
 
 Beyond her, every seed compass and growth ledger has changed during the
 afternoon.
@@ -7080,6 +7448,8 @@ The console alarm counts down.
 **OPERATOR TRANSFER: 05:42.**
 
 Maren steps away first.
+
+"I came back for this," she says, before anyone can ask. "Years free, and I walked back into the one room I swore I'd never enter again. Nobody dragged me. I want that understood before the rest of it."
 
 "Now the part we all hate."
 

@@ -91,7 +91,7 @@ front-of-house, intake, placement, and travel systems; romance lead. She is not
 Unranked and does not run extractions in Book I.
 
 **Heritage / look — LOCKED 2026-07-27:** **Malay Chinese** — East Asian descent;
-strait-port upbringing (Pelangi/Meridian corridor register). **Mandarin is one of
+strait-port upbringing (Pelangi/Singapore corridor register). **Mandarin is one of
 her home languages**, alongside Malay, English, and port shorthand. Her family
 taught Chinese culture as conduct—food, elders, thresholds, obligation, and when
 not to claim expertise—but withheld specialist detail about the history and sites
@@ -210,7 +210,7 @@ without accountability. Neither woman exists to validate Wren. Wren must build
 consent and review into the threshold network rather than win through superior
 instincts.
 
-**Scene seeds:** Meridian intake and document lanes; sketches a courtyard on the
+**Scene seeds:** Singapore intake and document lanes; sketches a courtyard on the
 back of an obsolete placement form; refuses Eli access to Mira's memory;
 Sanxingdui evacuation signed in her own name; Book II arrival under Rowan's
 authority; first recovery and its incomplete return; Asha reviews the resulting
@@ -364,7 +364,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Early collaboration — LOCKED:** Maren **willingly joined Lang's research program** from **neuroscience** — neural signatures, threshold states, integration protocols. She believed measurement and guided integration could protect people with unusual perception from misdiagnosis, institutional violence, and uncontrolled states. Lang did not steal the first tools; she helped build them.
 
-**Site — LOCKED 2026-07-30:** the program's early facility was the sealed research annex connected to **the Cherry Cube** in Meridian City (`59_younger_dryas_nucleation_lock.md`) — the same annex later revealed in Book III to house study of the recovered Younger Dryas craft fragment. Maren's work there predates that discovery; she had no idea what the annex actually sat next to. This is where she grounded the future Cherry Cube idol as a child (`26` idol beat) and where Mei's Book I dinner-table detail — "his mother had work in Meridian City sometimes" (`31_volume_I_beatsheet.md` § *Mei's Cherry Cube seed*) — actually points, unknown to anyone saying it at the time.
+**Site — LOCKED 2026-07-30:** the program's early facility was the sealed research annex connected to **the Cherry Cube** in Singapore (`59_younger_dryas_nucleation_lock.md`) — the same annex later revealed in Book III to house study of the recovered Younger Dryas craft fragment. Maren's work there predates that discovery; she had no idea what the annex actually sat next to. This is where she grounded the future Cherry Cube idol as a child (`26` idol beat) and where Mei's Book I dinner-table detail — "his mother had work in Singapore sometimes" (`31_volume_I_beatsheet.md` § *Mei's Cherry Cube seed*) — actually points, unknown to anyone saying it at the time.
 
 **What she enabled:** signature recognition, differentiation practices, threshold monitoring, and early mapping between bodily episodes and charged-ground effects. These methods genuinely helped some people. They also became the technical basis for registries, carrier detection, suppression, targeting, and the amplifier program.
 
@@ -620,11 +620,11 @@ Coherence holder; tries to spare civilians; fraying.
 
 **Defection path:** Vol I — conscience crack at boarding; Vol II — contact; Vol III — into Wren's network or dead trying.
 
-**First covert betrayal — LOCKED:** after the Custodians recapture Hassan in Malacca, Sora leaks his Gulf transfer route to Wren rather than freeing him directly. She tells herself she is correcting an unnecessary civilian detention, not defecting. The leak enables Hassan's Volume II rescue and places a discrepancy in Anika's internal logs.
+**First covert betrayal — LOCKED; referenced on-page 2026-08-07** (`manuscripts/II_The_Descent.md` Ch 2 archive scene — Wren silently recognizing why Sora already knows to ask for Hassan's holding route by name, neither having ever said thank you for it): after the Custodians recapture Hassan in Malacca, Sora leaks his Gulf transfer route to Wren rather than freeing him directly. She tells herself she is correcting an unnecessary civilian detention, not defecting. The leak enables Hassan's Volume II rescue and places a discrepancy in Anika's internal logs.
 
 **Archangels (plot — Michael):** carries **St Michael medal** or prayer fragment under the collar — volunteered for the program believing the collar was **protection**, not leash; Michael = the protector title she trusted (`46` § G). Vol I Ch 8 past leak; Vol II broken-line church beat; Vol III defection rhymes with **refused protector** (Lang/Michael parallel — never lecture).
 
-**First appearance — LOCKED 2026-07-26:** **Vol I Ch 2 Meridian Circuit / Cube** — unnamed soft hunter in a suit (biosecurity cover at the first table); clocks Eli's Maren grounding gesture; fingers at collar/medal; does not force the grab (spectacle cover / idol intervenes). **Name + Custodian label:** Ch 3. Boarding conscience leak remains Ch 4+.
+**First appearance — LOCKED 2026-07-26:** **Vol I Ch 2 Singapore Circuit / Cube** — unnamed soft hunter in a suit (biosecurity cover at the first table); clocks Eli's Maren grounding gesture; fingers at collar/medal; does not force the grab (spectacle cover / idol intervenes). **Name + Custodian label:** Ch 3. Boarding conscience leak remains Ch 4+.
 
 **Why she's posted there — added 2026-07-29:** not incidental biosecurity coverage. Circuit night is a mass-entrainment event (`39_psion_biology.md` § *Circuit night as living entrainment ritual*) — the idol's stage broadcast, amplified by a stadium locking to one rhythm, makes a genuine carrier signature stand out against baseline noise the way nothing else in the city would. The Custodians already know this and quietly staff it as a standing detection net; Sora's presence at "the first table" is her doing exactly the job she volunteered for, which is what makes her hesitation at the grab (spectacle cover, not conscience — not yet) the correct read this early. Her conscience crack is still Ch 2 per the defection path above; her competence is not in question.
 
