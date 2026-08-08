@@ -7449,7 +7449,7 @@ The console alarm counts down.
 
 Maren steps away first.
 
-"I came back for this," she says, before anyone can ask. "Years free, and I walked back into the one room I swore I'd never enter again. Nobody dragged me. I want that understood before the rest of it."
+"Nobody dragged me into this chair," she says, before anyone can ask. "Not today, and not the day they first put me in it. I have been exactly where I chose to be since before your father's hands were the ones you remember on a tiller. I want that understood before the rest of it."
 
 "Now the part we all hate."
 

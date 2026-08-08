@@ -5437,6 +5437,56 @@ Teo Marquez.
 
 Eleven minutes during which neither man became time.
 
+Lang is not on a screen this time.
+
+Eli finds him in the collapsed access corridor behind Blue Roof, one leg
+pinned under a fallen strut, his registry earpiece dead, his security detail
+already pulled two streets away by the second assault. He came in person to
+watch his model run. Nobody told him to. Nobody stopped him.
+
+He does not call for help.
+
+Eli could end this in the time it takes to finish an exhale. The old
+fracture already knows the angle. Nobody is watching. Nobody would ever know
+it happened here instead of in the collapse.
+
+"Go ahead," Lang says, without looking for sympathy in the offer. "It will
+not make me wrong."
+
+"About the eighteen to thirty-one percent."
+
+"About the shape of the problem you and I disagree on. My numbers held
+tonight. Bima Prasetyo held a conductor my model would have assigned to
+someone with a spare set of hands. Teo Marquez searched a room my model
+would have already marked empty. I am not glad they are dead. I am not
+surprised."
+
+"You want me to agree with you."
+
+"I want you to notice that wanting has nothing to do with whether I'm
+right."
+
+Eli's palms prickle toward the strut pinning him — an old, unwanted itch, a
+diagnostic read arriving whether he asked for it or not: crushed tissue, a
+fracture that will need setting properly within the hour, nothing that will
+kill him before morning.
+
+He could leave him exactly like this and call it an accident of timing.
+
+He kneels instead and starts working the strut free.
+
+Lang watches him do it without gratitude and without surprise, the way a man
+watches weather he has already read correctly.
+
+"This changes nothing I was right about," Lang says.
+
+"I know."
+
+Eli does not tell Wren. He does not tell the coalition. Nobody sees this
+decision made twice in the same hour — the strut, and then the choice
+underneath it — and nobody needs to, because it was never made for an
+audience in the first place.
+
 ---
 
 Hawaiʻi receives the wounded after midnight. Contaminated work clothes go into

@@ -379,7 +379,9 @@
 
 ---
 
-### Ch 10 — The Birds at Morning *(Rowan · Wren · Eli · Costa Rica return)*
+### Ch 10 — The Birds at Morning *(Rowan · Wren · Eli · Costa Rica return)* — SUPERSEDED 2026-08-07
+
+**This chapter's Costa Rica-return finale is retired.** The manuscript follows `60_volume_IV_court_of_threads.md`'s spine instead, which closes at the mountain teahouse settlement (mountain swifts, not Eagle and Condor) — confirmed as canon, 2026-08-07: Eagle–Condor belongs to the *early* Costa Rica passage (§ *Eagle–Condor court use* / § *Costa Rica hinge* above, and Book III's already-dramatized Eagle–Condor beat, `33_volume_III_beatsheet.md` Ch 6), not the ending. Most of this chapter's own thematic requirements below are already satisfied by the drafted teahouse coda with substituted imagery (Eli's hands on a hose instead of Costa Rican soil; mountain swifts instead of Eagle and Condor; the same "no throne, no final speech" shape) — kept here for the record, not as an open task:
 - **Deep-time residue — LOCKED 2026-08-05:** teahouse/garden/birds coda;
   ceiba as landmark; the compact as conduct, not document.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?
