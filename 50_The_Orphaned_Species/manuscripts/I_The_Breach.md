@@ -39,17 +39,21 @@ The skiff is flying.
 
 Eli leans out over the bright chop, one foot braced under the thwart, salt on his lips, sun hot on the back of his neck, the sail pulling hard enough to make the rope sing in his fist. Kiran is half a length behind and shouting something the wind tears apart. Eli laughs anyway. The red buoy rushes toward them, the hull skimming, spray cold against his shins—and for once there is no country, no clinic deposit, no list with his name missing from it. There is only speed.
 
+The Sun, the wind, the boat movements. Suddenly he felt connected to the ocean. He surrendered, and everything became connected. His mind a single needle with delicate effort carefully threading each moment. Everything else was squeezing out.
+
+Now more intensely, he falls into it. There is only this. The sun on his skin feels more vivid now. Everything moving together like some grand orchestra. Breathing together. A sense of supreme peace takes him. It was completely familiar, like returning home, yet he had forgotten it somehow.
+
 Then the wind vanishes.
 
 The sail collapses against the mast like something exhaling wrong. The hull drops off its plane so abruptly he nearly pitches forward. A second ago the channel was all noise and motion; now water slaps lazily against the boards. Kiran glides past on the last of his momentum.
 
 Mid-channel pocket. Not good. The red buoy sits close enough to hate, close enough that losing it now would cost him more than pride—Suresh does not run charity races, and a man with no passport and no country on paper only gets to eat what he can win.
 
-Kiran passes him, sailing as if pride could tow a hull. Eli knows better: in a pocket you do not hold course, you stay moving until the air comes back somewhere.
+Kiran passes him, sailing as if pride could tow a hull. For a moment, he panics. Then his mother's forms in his mind. *It's okay. There are always times like this. Just stay moving until the air comes back somewhere.*
 
 He braces his knees, rope in one fist, the steering stick loose in the other, and rocks the skiff—pull, release, pull, release—forcing the patched sail to swallow whatever is left. Forward weight: a little glide. Back: almost none. Once the cloth swells and collapses. Twice. Again. His palm burns. Kiran does none of this, still trying to stare the buoy closer.
 
-*Feel the cloth, don't fight the air.* His father's hands, big around a borrowed tiller, dropping into his own language and back out again whenever the lesson really mattered, the words that weren't English always landing harder than the ones that were. *Feel it before you see it.* His mother's voice, made him say it back until it was habit and not a rhyme, at first light on a dinghy off a coast he cannot name cleanly anymore. He learned the pump from one parent and the placement from the other. Alone on Pelangi he has only the stone, the fairway, and the memory of two people arguing about wind as if wind were a person who could be known.
+*Feel the cloth, don't fight the air.* His mother's hands around a borrowed tiller, dropping into her own language Irish and back out again whenever the lesson really mattered, the words that weren't English always landing harder than the ones that were. *Feel it before you see it.* His mother's voice, made him say it back until it was habit and not a rhyme, at first light on a dinghy off a coast he cannot name cleanly anymore. He learned the pump from one parent and the placement from the other. Alone on Pelangi he has only the stone, the fairway, and the memory of two people arguing about wind as if wind were a person who could be known.
 
 Kiran leads but he is coasting to a stop. Eli is losing ground slowly—and buying time.
 
@@ -89,7 +93,13 @@ For one stupid second he looks for them on the quay—the old reflex, cut off ye
 
 Kiran comes up the marina steps as Eli pulls in—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out past Timah's boat—being towed back to the anchor by a harbor boy while Jul waves at no one in particular—to the open strait beyond the marks. The sea is still bright. Still wide. Still the thing that made the win feel like belonging for a breath. Suresh sees Eli looking and does not mock it. On the wall someone is already arguing in Bajau and Malay about whether the race owed Timah a clear mark or Timah owed the race a clear fairway. The argument is older than the towers. It will outlive the wager.
 
-"You won," Suresh says. "Don't thank the grandmother. She wasn't helping you." He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "That wager was cash work up the strait—Singapore, Circuit weekend. Idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's launch at the old hotel pier—papers, then you go. Walk like you belong until something proves you don't." A beat. "Don't make me regret betting on you, boy."
+"You won," Suresh says. "Don't thank the grandmother. She wasn't helping you. It happened again." It wasn't a question. "You had the look on your face. The same one your mother would have. Like she's in a trance. I remember the first time I taught her. She was perfectly focused, completely intuitive, like she had been doing it her whole life. Everyone else had capsized, but she didn't. The whole time. She was a natural I thought. How do you do it?"
+
+Eli felt restored, like he had gone on a long vacation. This is why he loves sailing. But he honestly had no memory of what happened.
+
+"I don't know."
+
+They made it to the end of the dock. He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "You won. The job is all yours. Remember, it's Circuit weekend in Singapore so it will be busy. Idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's launch at the old hotel pier—papers, then you go. Walk like you belong until something proves you don't." A beat. "Don't make me regret betting on you, boy."
 
 Suresh crouches to coil the loose sheet before Eli can, and his thumb finds the frayed end before his eyes do. He goes still the way harbor men go still—not surprised, just paying closer attention than he wants noticed. He runs his thumb along the cut once, the way he'd check a splice he hadn't tied himself—except he ties every splice on this hull himself, every week, and this one he tied a week ago clean. "That's not chew," he says, mostly to the rope. "That's not salt-rot either." He doesn't finish the thought out loud, and he doesn't finish it for Eli. He folds the frayed end into his own palm instead of the bin, and says nothing else about it—not to Eli, not to the wall, not, as far as Eli can tell, to himself.
 
