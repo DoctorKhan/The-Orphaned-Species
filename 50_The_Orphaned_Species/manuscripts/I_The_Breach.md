@@ -35,7 +35,15 @@
 
 ## Chapter One—The Hour That Belongs to No One
 
-Salt on his lips, sun hot on the back of his neck, and then the wind is just gone—the sail sags against the mast like something exhaling wrong. Mid-channel pocket. Not good. The red buoy sits close enough to hate, close enough that losing it now would cost him more than pride—Suresh does not run charity races, and a man with no passport and no country on paper only gets to eat what he can win.
+The skiff is flying.
+
+Eli leans out over the bright chop, one foot braced under the thwart, salt on his lips, sun hot on the back of his neck, the sail pulling hard enough to make the rope sing in his fist. Kiran is half a length behind and shouting something the wind tears apart. Eli laughs anyway. The red buoy rushes toward them, the hull skimming, spray cold against his shins—and for once there is no country, no clinic deposit, no list with his name missing from it. There is only speed.
+
+Then the wind vanishes.
+
+The sail collapses against the mast like something exhaling wrong. The hull drops off its plane so abruptly he nearly pitches forward. A second ago the channel was all noise and motion; now water slaps lazily against the boards. Kiran glides past on the last of his momentum.
+
+Mid-channel pocket. Not good. The red buoy sits close enough to hate, close enough that losing it now would cost him more than pride—Suresh does not run charity races, and a man with no passport and no country on paper only gets to eat what he can win.
 
 Kiran passes him, sailing as if pride could tow a hull. Eli knows better: in a pocket you do not hold course, you stay moving until the air comes back somewhere.
 
@@ -61,7 +69,7 @@ The sail fills.
 
 And for one stolen breath—before strategy, before the buoy—the pocket opens into the real sea.
 
-Beyond the storm wall the strait goes wide and bright: open water the color of hammered tin and then, farther out, a blue so clean it looks impossible under the half-built towers. Sun climbs the wave-backs. A freighter is a dark stitch on the horizon. Gulls hang as if nailed to air. The hull hums under his knees and the patched cloth holds like a living thing agreeing with him, and something in his chest—older than the wager, older than the towers—opens with a stupid clean joy. *This.* This is why you stay on an island that will not claim you. Not the paperwork. The open water answering when you place yourself right.
+Beyond the storm wall the strait goes wide and bright, a blue so clean it looks impossible under the half-built towers. The hull hums under his knees and the patched cloth holds like a living thing agreeing with him, and something in his chest—older than the wager, older than the towers—opens with a stupid clean joy. *This.* This is why you stay on an island that will not claim you. Not the paperwork. The open water answering when you place yourself right.
 
 He leans into it, small corrections with knees and hands. Do not look at the buoy yet—look at water and air. Break focus now and you break speed. Beyond the floats, Kiran's sail is still flat on the water. Eli runs the wall-shadow lane he has already chosen, carrying the open sea in his peripheral vision like a secret he is not supposed to need.
 
