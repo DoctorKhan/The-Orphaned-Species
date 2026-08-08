@@ -334,8 +334,13 @@ terrace table: frangipani sticky underfoot, diesel mixing with flower, Mei
 setting down a plate she had already decided he would eat. False file or not,
 that table was a kind of truth he did not have words for until now. Babaji
 attached a sponsor line without asking him to name what he owed. Mei fed him
-without asking him to admit he was hungry. Both acts traveled the same quiet
-channel: care routed around the system the system intended.
+Both acts traveled the same quiet channel: care routed around the system the
+system intended. Wren has started calling that the social game in her head: not
+the thing they are trying to build, but the older one that runs itself through
+paper, preference, and whoever happens to be watching. Manual override, people
+say when they mean a choice the system was not designed to allow. She has said
+it herself about doors, routes, and permissions. The words do not belong to a
+book. They belong to the mouth that needs them.
 
 Rasel reaches for it.
 
@@ -388,6 +393,11 @@ and nothing more, and one night undoing all of it at once.
 Family is not the safe ring.
 
 It is the ring through which safety or damage must pass.
+
+He wonders, not for the first time since the greenhouse, whether the center
+dot was ever only him — or whether his mother had already drawn a smaller
+circle around the exact shape of the boy who would one day open a door for
+her, and called that circle a childhood.
 
 "The mediator is thicker," Eli says.
 
@@ -523,6 +533,12 @@ The truck hits a pothole. Glass sings in every rack around them.
 For several seconds Eli hates his father with extraordinary clarity. It is
 almost restful. Love remains underneath, inconvenient and unconsulted.
 
+Not for the ten missing years. For the shape of the one night that ended
+them — a door he was built to open, not one he stumbled into. He did not
+rescue his father. His father used him to finish something twenty years in
+the making, and calling it rescue was the first lie the reunion told, back
+when he still needed it to be one.
+
 Wren looks back through the door seam.
 
 "We have a tail."
@@ -570,50 +586,18 @@ The security vehicle accelerates.
 Qiao's voice comes through Eli's phone. "The release is mirrored. Forty-three
 archives, nine public instrument repositories, three newspapers."
 
-"Can you open the container?"
+"What mirrors it?" Wren asks.
 
-"No."
+"The access rule you pushed on the staging desk," Qiao says. "Witnessed access
+only. The archives treating R. Khan as a controlled record had to acknowledge
+the mirror or break the same rule they used to hold her. You forced the audit
+trail. They answered before the vehicle got here."
 
-"Then why are you calling?"
-
-"Because something answered the release."
-
-The container beside them unlocks with a hard mechanical clunk.
-
-Not Qiao.
-
-Wren hears the same conclusion and does not touch the door.
-
-"Who?" she asks.
-
-Qiao forwards a file.
-
-One page. Old map lines around a central rectangle. A modern archive stamp from
-the Gulf. Maren's hand in the margin, visible only where somebody failed to
-erase it:
-
-**NOT CENTER. RELATION. ASK WHAT THE EDGE IS FOR.**
-
-Beneath it, a current message.
-
-**R. KHAN RECORD RECEIVED. HASSAN TRANSFER CATEGORY ACTIVE. WITNESSED ACCESS
-ONLY.**
-
-The signature belongs to an archive Eli has never heard of.
-
-The security vehicle is thirty meters away.
-
-The cold-chain door stands open.
-
-Wren looks at Eli. "A door from a stranger."
-
-Yesterday he would have called it the route.
-
-Today his father is alive beside him, his mother is alive somewhere west, and
-every institution capable of opening a door has learned to make the opening
-look like mercy.
-
-"What does the container carry?" he asks.
+Eli looks at Wren. He released that record three hours ago from the staging
+desk. Qiao mirrored it. The stranger's archive did not open the door out of
+kindness. It opened it because Eli's release created an obligation they could
+not ignore without exposing their own hold on Hassan's category. His choice made
+the door.
 
 The manifest screen shows refrigerated seed cultures bound for a dryland
 restoration archive. Legitimate cargo. Living work. A receiving institution at
@@ -1148,6 +1132,17 @@ The officer's expression does not change.
 Wren exhales through her nose. Not relief. Receipt.
 
 The archive council begins.
+
+Halfway through the fifth hour, Wren's phone vibrates once against the table. She
+reads the notice and slides the screen face-down before Eli can see it. Her jaw
+tightens one degree, then resets.
+
+"The hold just expanded," she says, barely loud enough for him. "Anika's office
+issued a companion freeze on Nadiya's publishing authority. If this council issues
+an authenticated copy, it cannot leave the archive for public release until the
+hold lifts. We get the review. We lose the distribution."
+
+Eli looks at Nadiya. She is already writing a reservation into the minutes.
 
 ---
 
@@ -2839,17 +2834,17 @@ beside the monitor, not touching her.
 
 The room loses air.
 
-"You saw him?"
+"You saw him?" Eli asks.
 
 "Yes."
 
-"Where?"
+"Where?" Eli asks.
 
 "Transfer depot east of the Bosporus. Then the Thrace route."
 
-"When?"
+She pauses. The collar at her throat pulses once—not field, just the memory of field—and she shifts her weight before she gives him the next piece.
 
-"Six days."
+"Six days." Her eyes hold his. "The depot is called Maltepe. I am not sure the name is right. If I am wrong, do not use it."
 
 "Was he in the convoy today?"
 
@@ -6834,6 +6829,13 @@ Eli can let Sol collapse the teachings into a single cadence, send it through
 the station, reach Maren now, and make every body on the grounds participate.
 
 It would work.
+
+For one breath he wants it to work. Then he sees the northern edge where Sol's
+fifty bodies lean into the same rhythm and knows the price: the teachings would
+leave Stonehenge as Sol's voice, not as six bounded claims. Maren would hear him.
+The ground would remember.
+
+He looks away from the temptation.
 
 Rowan and Wren reach the ring.
 
