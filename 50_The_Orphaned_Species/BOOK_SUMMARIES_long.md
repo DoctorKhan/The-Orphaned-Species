@@ -164,13 +164,13 @@
 
 ## Book II, Ch 6 — The Changing Map (Wren → hard break → Eli · Pömmelte / broken-line church)
 **[anchors]** Part 1: Wren and **Rowan** (first appearance); Callum Price (Extra). Part 2: Eli, ensemble; **Pömmelte**; broken-line church; Extra settlement. Objects: dead-zone maps; optional twin incomplete-circle chalk (Loop seed only).
-**Event sequence:** Wren's first consequential clandestine recovery; Extra settlement; Sol offers public names. **Corridor break**, cook-fire **hearth circle**, and ***I'll meet you in the flow*** land on-page. Pömmelte purge; broken-line church (same body-arrival). **Rootbook living correction** — Marta defeats Maren's single-house kin reading. Callum / *completed route ≠ returned person* mirrors Maren. Wren burns placement credential. Weaver quiet-interest confession. First Deiwos chalk shelter opens.
+**Event sequence:** Wren's first consequential clandestine recovery; Extra settlement; Sol offers public names. **Corridor break**, cook-fire **hearth circle**, and ***I'll meet you in the flow*** land on-page. Pömmelte purge; broken-line church (same body-arrival). **Rootbook living correction** — Marta defeats Maren's single-house kin reading. Callum / *completed route ≠ returned person* mirrors Maren. Wren burns placement credential. First Deiwos chalk shelter opens.
 **Forward clue:** living song / polarity → Rollright and Men-an-Tol.
 **⚠ Seam:** Rowan first appears here (Ch 6), not earlier. Loop hatch-mark only—no street name. Corridor break / hearth / *flow* are **Ch 6**, not older Ch 4–5 pins.
 
 ## Book II, Ch 7 — The Riddling Ground (Eli · Rollright / Men-an-Tol)
 **[anchors]** Present: Eli, ensemble; deep threads **Anthea** + **Lira**; Callum recovered. Objects: Men-an-Tol; rowan/iron; Charkha pair-severance transfer-records (partial).
-**Event sequence:** Anthea thread held without claiming; iron severs after Callum recovered; Callum refuses house custody for unaffiliated repair crew. Sídhe as layered underground survival before fairy settle. Wren/Rowan renew by explicit choice. Rowan finds colder ledger amplifying gender-grievance messaging against durable horizontal reliance; renewal lands beside scrutiny, not on top of it.
+**Event sequence:** Anthea thread held without claiming; iron severs after Callum recovered; Callum refuses house custody for unaffiliated repair crew. Sídhe as layered underground survival before fairy settle. Wren's Weaver quiet-interest confession to Eli (relocated here from Ch 6, 2026-08-08, to sit beside its thematic twin below). Wren/Rowan renew by explicit choice. Rowan finds colder ledger amplifying gender-grievance messaging against durable horizontal reliance; Wren hears it as the same "real, engineered, or both" question she just asked about Eli; renewal lands beside scrutiny, not on top of it.
 **Forward clue:** carried chord → Anglesey / Lovernios before Stonehenge can answer.
 
 ## Book II, Ch 8 — The Bitter Cup (Eli · Anglesey / Lovernios ground)
