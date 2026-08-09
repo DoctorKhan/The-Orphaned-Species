@@ -425,9 +425,12 @@ It bears three artifact signs and no provenance. Cuno's grammar catches the lie.
 The message reports no loss in transit. Three separate teachings have been
 pressed into one clean instruction.
 
-Local keepers refuse forwarding.
+Wren has been watching Sol channels since the east-gate incident. She has the
+clip when it first appears. She has the timestamp, the relay path, the three
+nodes that forwarded it against local keepers' refusals. She hands the record
+to Eli before breakfast.
 
-The Union ground transmits anyway.
+"Not a leak," she says. "A press."
 
 By morning people gather outside the west gate asking Eli to direct the grain.
 
