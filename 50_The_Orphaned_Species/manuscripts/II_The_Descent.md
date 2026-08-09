@@ -7482,7 +7482,7 @@ The console alarm counts down.
 
 Maren steps away first.
 
-"Nobody dragged me into this chair," she says, before anyone can ask. "Not today, and not the day they first put me in it. I have been exactly where I chose to be since before your father's hands were the ones you remember on a tiller. I want that understood before the rest of it."
+"Nobody dragged me into this chair," she says, before anyone can ask. "Not today, and not the day they first put me in it. I have been exactly where I chose to be since before your father's hands were the ones teaching you which stem to pinch. I want that understood before the rest of it."
 
 "Now the part we all hate."
 
