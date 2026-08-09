@@ -341,8 +341,8 @@ Canon examples already running this pattern:
 
 - **Maren** — her engraving inside Rasel's ring, Rootbook trail, and other
   people's memories long before Book II release (the reunion is the goodbye).
-- **Rasel** — garden, wage ticket, **Rasel** on forms (some mouths say
-  *Russell*), pier line (*both taken*); proof of life and recovery at Sanxingdui in
+- **Rasel** — garden, wage ticket, **Rasel** on forms, pier line (*both taken*);
+  proof of life and recovery at Sanxingdui in
   the Book I climax; present, compromised, and active thereafter.
 - **The healer** — public save → rumor → Eli hears second-hand, before any meeting (LOCKED two-healings order).
 - **The archangel name ladder** — Michael / Gabriel / Persia-prince: allude → reference → recontextualize (`46` § G); names planted volumes before any clarification.

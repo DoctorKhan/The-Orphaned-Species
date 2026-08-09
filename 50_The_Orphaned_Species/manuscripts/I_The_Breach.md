@@ -237,7 +237,7 @@ Babaji sits by a window with the drapes half-drawn, automatic chess paused mid-g
 
 "Sponsor line is mine." He passes a folded contractor sleeve. "Paper says Foundry stage crew—that clears the corridor. Job is Cube show: Sunday concert before Circuit night. Power, wardrobe uplink, afterparty before the cars." He holds it out to the woman first. "Wren. Attest it."
 
-She scans it on a tablet and signs before Eli's fingers close on the paper. Babaji's legal name where a sponsor goes. Russell nowhere at all. She does not look at him while she works.
+She scans it on a tablet and signs before Eli's fingers close on the paper. Babaji's legal name where a sponsor goes. Rasel nowhere at all. She does not look at him while she works.
 
 "I run south before they walk the offices," Babaji says. "You run on Suresh's hull the same hour—Saturday, last light. Different vessels. Do not miss your window watching mine."
 
@@ -486,7 +486,7 @@ Her voice changes register—still the same woman, but the form drops away and t
 
 Resemblance. He hears it as **Rasel's** face on him—Mandate labs already owning the equations, already owning the name. A claimed physicist's son walking into Singapore with a worker slip. Loose ends. Of course they flagged him. The story fits so well he does not look for a second face wearing the first. He understands the clerk one beat before he lets himself understand her.
 
-He works the wage ticket from his pocket. A year of Fridays. **Rasel Khan** on the laminate—Babaji's kindness beside it—the one paper that says he was somewhere, legally, doing something, wanted at a rail by people who knew his face. She reads it aloud wrong anyway—*Russell?*—Anglo habit, not the ink.
+He works the wage ticket from his pocket. A year of Fridays. **Rasel Khan** on the laminate—Babaji's kindness beside it—the one paper that says he was somewhere, legally, doing something, wanted at a rail by people who knew his face. She reads it aloud anyway, syllables careful, a name she has clearly not had to say before.
 
 "Rasel," he says, quiet.
 
@@ -675,7 +675,7 @@ The pencil stops.
 
 The man comes out wiping his hands. Square, grey, one eye clouded white. He looks at the street behind Eli before he looks at Eli, and when he looks at Eli it is the once-over you give a crate. "Wrong shop," he says, and it does not feel like a refusal. It feels like a test someone forgot to explain.
 
-"My mother's name was Maren Holt," Eli says. "English. Holt on every form she signed. My father was Rasel Khan—Rasel on the corridor files, though someone will say Russell." He watches the man's face for the shutter he saw open in a clerk and a boy made of light.
+"My mother's name was Maren Holt," Eli says. "English. Holt on every form she signed. My father was Rasel Khan—Rasel on the corridor files." He watches the man's face for the shutter he saw open in a clerk and a boy made of light.
 
 Nothing opens. The names land on the man like weather on a wall. He has moved a hundred people through this shop and asked none of them who their mother was; it is the passphrase he answered, not the blood. Somehow that steadies Eli more than being recognized would have—here, at last, is someone the mother-shape means nothing to.
 
@@ -1960,11 +1960,11 @@ The image changes.
 
 His father sits at a laboratory bench under light too white for plants. Older. Smaller across the shoulders. Hair gone mostly gray. One wrist fixed to the bench by a soft restraint designed by someone who wanted the photograph to look humane.
 
-A technician outside the frame says, "Russell, again from the third phase."
+A technician outside the frame says, "Subject Seven, again from the third phase."
 
 Rasel raises his head.
 
-"That isn't my name."
+"I have a name."
 
 Four words. The voice is rougher. The impatience is exact.
 

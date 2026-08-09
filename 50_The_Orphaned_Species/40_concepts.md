@@ -291,7 +291,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 **Eli's passport:** **Eli Holt** on **Albion (maternal) paperwork** — legacy *British* on some Anglo files. Would Union/Charkha-route as Albion dependent if linked to Maren's claim file; keeper protocol **unlinks** him (*orphan on paper*) so neither chain gets a clean dependent match. His **statelessness** in 2040 is partly real, partly net mercy.
 
-**Craft rule:** Vol I — one border stamp, two file flags, *Rasel* on the forms (some mouths still say *Russell*), *English woman on the file* in separate rooms; save exposition for Vol II suppression scene or corridor documents.
+**Craft rule:** Vol I — one border stamp, two file flags, *Rasel* on the forms, *English woman on the file* in separate rooms; save exposition for Vol II suppression scene or corridor documents.
 
 ---
 
