@@ -1028,7 +1028,19 @@ labels alone.
   retain three distinct romances and ordinary disagreements. The Weavers and
   cloisters retain bounded public roles. Amara remains part of the social world
   without forgiving Eli. Sideways research continues under joint civilian
-  custody; no ship launches. A mixed group of young harvest and repair
+  custody; no ship launches. **Alien-contact/tech hint — LOCKED 2026-08-08
+  (chapter-pinned here; drafted 2026-08-07 in the manuscript, `59_younger_dryas_nucleation_lock.md`
+  § *Reveal timing*):** this coda is where Book IV's one required cosmological
+  beat lands — a felt hint of alien contact or new tech, arriving as a fruit
+  of the peace (joint Union/Mandate/Free Port/independent teams sharing a
+  bench) rather than a unilateral discovery. Concretely: this month, for the
+  first time, a Sideways lateral-timing displacement holds steady for four
+  full seconds before collapsing — long enough for every team in the room to
+  look up at once — and one independent researcher swears the pattern
+  answered back, once, before it collapsed: not an echo, a reply. Nobody can
+  reproduce that part yet; nobody claims the four seconds either; nobody
+  could have gotten either one alone. This stays a hint, not the reveal —
+  full certification is deferred past Book IV. A mixed group of young harvest and repair
   apprentices leaves together for another settlement carrying tools, seed, and
   answering songs. They have not yet called themselves a flight.
 - **Closing image:** mountain swifts leave to feed while Eli works in the garden.
