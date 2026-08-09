@@ -1074,6 +1074,8 @@ Pak Din's boat is called *Sri Kenanga* and is the cleanest working thing Eli has
 
 "I don't know what I do yet," Eli says.
 
+"Get it from somewhere." Not a question so much as freight, set down and left. "Loud ones don't grow wild. Somebody upstream was loud too, even if nobody ever said it out loud." He waits exactly as long as a man waits for cargo to answer for itself, then lets it go when Eli doesn't.
+
 "Honest freight." Pak Din nods at the hold. "Rice forward, you aft. Loud ones aft—engine's a rhythm."
 
 Before they cast off, Wren does a thing that Eli files as strange and the reader of her morning would file as something else.
