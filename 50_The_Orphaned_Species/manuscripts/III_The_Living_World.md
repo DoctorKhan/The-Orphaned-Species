@@ -1560,10 +1560,18 @@ actual pier does not possess.
 
 On the thirteenth day, Tomas enters a child's dream.
 
-He reports it himself.
+He reports it himself. He names the room, the light, the smell of the bread he
+found on the table, the child's fear before she spoke. He says he left the way
+he entered: through the space between sleeping and waking, which he now knows is
+not empty.
 
-The child is unharmed and remembers nothing. Her father does not accept
-*unharmed* as a word Tomas has authority to use.
+Wren and Eli interview him within the hour. They ask for walls, windows,
+thresholds, anything that could be verified. They do not ask what the dream
+meant. They send the description to the harbor's field notes and request the
+child's sleeping-room readings for that night. They keep a copy in their own
+file with the header: *witness account, not evidence*.
+
+The child's father does not accept that distinction.
 
 The conduct review lasts three hours.
 

@@ -1602,11 +1602,15 @@ Wren sees her moving and follows.
 
 Varga continues talking.
 
-The floor answers with a pulse too low to hear.
+"The floor answered," Wren says. "Not Varga."
 
-Every glass of tea trembles once.
+Eli looks at the tea glasses. The rings have stopped trembling, but the liquid
+tilts the same way in all of them, toward the eastern pillar array.
 
----
+He does not say it is impossible. He says: "Nehir's instruments are live. So is
+whatever moved them."
+
+Wren is already writing.
 
 The finds room smells of limestone dust, packing foam, and wet coats.
 
