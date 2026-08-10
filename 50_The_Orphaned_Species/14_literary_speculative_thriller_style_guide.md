@@ -315,7 +315,19 @@ Do not make the novel carry the explanatory duties of the Companions or Record.
 - Avoid repeated rhetorical templates, especially tricolons, oppositional aphorisms, and “not X but Y.” Their force declines quickly.
 - Trust a strong final image or action. Do not append its interpretation.
 
-### Generic-cadence / AI-pattern checklist — LOCKED 2026-07-31
+### Generic-cadence / AI-pattern checklist — LOCKED 2026-07-31; SCOPE WIDENED 2026-08-09
+
+> **This checklist and the "Human-prose lock" section below apply to every
+> document in this project, not only Layer 1 manuscript prose** — bible
+> files, lock notes, companion volumes, and this style guide itself
+> included. The rest of this file governs fiction craft specifically (POV,
+> dialogue, place-craft) and stays scoped to Layer 1 per the header above.
+> But AI-cadence drift shows up just as readily in a "LOCKED" doctrine
+> paragraph as in a scene, arguably more readily, because bureaucratic
+> lock-note prose feels exempt from craft scrutiny when it isn't. Any
+> agent or writer drafting a lock, a thesis passage, a companion entry, or
+> a beatsheet card should run it past this checklist before saving, the
+> same as a chapter.
 
 The existing rule above against "not X but Y" is necessary but not sufficient — generic machine-cadence drift shows up in more shapes than that one template. Flag and cut on sight:
 

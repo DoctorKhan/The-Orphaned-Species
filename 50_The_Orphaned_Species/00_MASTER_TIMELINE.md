@@ -199,7 +199,7 @@ The Qingu reserve is unsealed. The wild steppe is converted into managed field g
 Adam as a covenantal ancestor placed under a moralized garden story. Genesis sets apart the priestly line against the broader Lullu field. "Made in the image of God" reads as a functional/priestly status installed on top of the population.
 
 * **Function:** Govern the soul. Convert external management into internal law.
-* **Street name — LOCKED 2026-07-26: The Exile** (Genesis Eden expulsion; rhyme to **The Refusal**, not a triad member).
+* **Street name — LOCKED 2026-07-26: The Exile** (Genesis Eden expulsion; rhyme to **The Folly**, not a triad member).
 * **Purity program:** breed one clean line **uncorrupted by the Nephilim** — Noah *tamim* ("perfect **in his generations**," Gen 6:9, read genealogically). The deliberate mirror-image of Phase VI: while the controllers *up*-breed the **Nephilot** carriers, the covenant line *down*-breeds the opposite — the pure, Nephilim-free, **most-domesticated** Adamic stock. (And it doesn't stay domesticated: that line carries Enki's locks, so the most controllable bloodline is the one that wakes — the thesis payoff.)
 
 ### Chronology lock — Adapa ≠ Adam ≠ 4.2 ka — LOCKED 2026-07-26
@@ -208,11 +208,11 @@ Three separate layers. Do not collapse names or dates.
 
 | Layer | Working date | Load |
 |---|---|---|
-| **Adapa** (Eridu boat-day / mortality lock) | **~5500–4000 BCE** (5th-millennium pin; early Gulf sail window) | Priest tragedy; broken South Wind; refuses bread of life. Story-object: **The Refusal** |
+| **Adapa** (Eridu boat-day / mortality lock) | **~5500–4000 BCE** (5th-millennium pin; early Gulf sail window) | Priest tragedy; broken South Wind; refuses bread of life. Story-object: **The Folly** |
 | **Adam / Eden III** | **~3900–3650 BCE** (midpoint **~3700 BCE**) | Covenant garden; guilt as law; Genesis bloodline. Story-object: **The Exile** |
 | **4.2 ka climate event** | **~2200 BCE** (Flood window ~2200–2000 BCE) | Aridification / deluge pressure; grain-river failure |
 
-**Underlayer (not a fourth person):** Younger Dryas (~12.9 kya) — AMOC/meltwater/wind reorganization may color broken-wind *memory*; it is not Adapa's staged calendar. **Uanna** = older Apkallu transmission function; Adapa = humanized tragedy in early-sail Eridu — related, not identical. Human-Design Triad street names: **The Refusal · The Sorting · The Fade**. Genesis rhyme: **The Exile**. Full tables: `35_artifact_chain.md` § *Chronology lock — Adapa ≠ Adam ≠ 4.2 ka* and § *Mesopotamian Human-Design Triad*.
+**Underlayer (not a fourth person):** Younger Dryas (~12.9 kya) — AMOC/meltwater/wind reorganization may color broken-wind *memory*; it is not Adapa's staged calendar. **Uanna** = older Apkallu transmission function; Adapa = humanized tragedy in early-sail Eridu — related, not identical. Human-Design Triad street names: **The Folly · The Sorting · The Fade**. Genesis rhyme: **The Exile**. Full tables: `35_artifact_chain.md` § *Chronology lock — Adapa ≠ Adam ≠ 4.2 ka* and § *Mesopotamian Human-Design Triad*.
 
 ---
 
@@ -474,7 +474,7 @@ Göbekli, the Qingu reserve unsealed, agriculture installed, and the wild steppe
 **Function:** feed and manage the line. Convert organic abundance into controlled dependency. Turn the Wild into infrastructure.
 
 ### Eden III — The Covenant Garden *(~3900–3650 BCE working range; ~3700 BCE midpoint)*
-The remembered biblical Adam belongs here, not at the biological creation of humanity. If the Flood is placed near **~2000 BCE**, and Adam is born **1,656 years before the Flood** in the biblical chronology, Adam lands around **3656 BCE**. If the Flood is tied more tightly to the **4.2-kiloyear event (~2200 BCE)**, Adam shifts earlier, around **3850 BCE**. Use **~3900–3650 BCE** as the rounded narrative range and **~3700 BCE** as the working midpoint. **Street name: The Exile** (expulsion / guilt-as-law story; Genesis rhyme to **The Refusal**, not a Human-Design Triad member).
+The remembered biblical Adam belongs here, not at the biological creation of humanity. If the Flood is placed near **~2000 BCE**, and Adam is born **1,656 years before the Flood** in the biblical chronology, Adam lands around **3656 BCE**. If the Flood is tied more tightly to the **4.2-kiloyear event (~2200 BCE)**, Adam shifts earlier, around **3850 BCE**. Use **~3900–3650 BCE** as the rounded narrative range and **~3700 BCE** as the working midpoint. **Street name: The Exile** (expulsion / guilt-as-law story; Genesis rhyme to **The Folly**, not a Human-Design Triad member).
 
 This is Adam as covenantal ancestor: the post-Abandonment / pre-Flood human placed under the moralized garden story that later becomes obedience, guilt, chosen status, father-god law, and covenant control. The garden moves from chromosome, to field, to conscience.
 
@@ -855,7 +855,7 @@ So the bottleneck is not "for" one thing: the wall caps the species' *numbers an
 - **17 The Boy Returns** — Aedan walks out with partial carrier-fragments; the granary stone warms under him.
 - **18 A Song Remembered** — a modern child dreams the cave; the archive remains accessible beyond one bloodline; the choice is still open.
 - **Present psionic war** — a conventional/cyber world war damages the modern communication order while countries and allied blocs field covert psion teams against foreign programs, independent carriers, ley routes, and one another. Contractors, mercenaries, protective cells, and the transnational Charkha create a many-sided theater. The temporary engineered outbreak provides emergency infrastructure and cover but is not the sole cause of the war.
-- **Present-trilogy distribution rule** — the Seven are historical records, not Eli's spell list. Eli's overlapping arc runs identification → serpent's-rattle contact → deposited charge and conditioned repetition → conscious control/relation → seeing → surge-discrimination → creation/transmission. He develops **reception and diagnostic reading, not healing** — his palms read a body, they do not mend it; the male medical worker who once stabilized him is the trilogy's only true healer. Breadth and depth remain distributed across living people. A witnessed healing begins to deify the healer despite his request for secrecy; asked whether he is a son of a god, he answers, "No. I am the son of a man." Gratitude then mutates through kneeling, attempted ownership, and threatened persecution, making acceptance of him as a fallible human neighbor a principal proof of the third volume's coexistence victory.
+- **Present-trilogy distribution rule** — the Seven are historical records, not Eli's spell list. Eli's overlapping arc runs identification → serpent's-rattle contact → deposited charge and conditioned repetition → conscious control/relation → seeing → surge-discrimination → creation/transmission. He develops **trajectory reception, not healing** — Somchai holds the diagnostic read and all bodily repair. Breadth andd depth remain distributed across living people. A witnessed healing begins to deify the healer despite his request for secrecy; asked whether he is a son of a god, he answers, "No. I am the son of a man." Gratitude then mutates through kneeling, attempted ownership, and threatened persecution, making acceptance of him as a fallible human neighbor a principal proof of the third volume's coexistence victory.
 **Science anchor:** Roman conquest of Anglesey, 60 CE.
 **Other books:** This is where Books 1 & 4 *live* — the present-day reader is the orphan at the choice point, and the practices (meditation, the consciousness technologies) are how the species finally raises itself.
 

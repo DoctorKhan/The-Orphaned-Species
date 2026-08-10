@@ -20,7 +20,7 @@ Trilogy maturation (`05`):
 |---|---|---|---|
 | **I · Shattering** | Can Eli act without turning people into evidence? | **Remain yourself and choose the living** | Withstand charge; choose Hassan over Rasel's ring, then recover Rasel through Sanxingdui's distributed living route |
 | **II · Descent** | Can Eli **rescue and release** his mother without possessing her story? | **Remain yourself in relationship; release** | **Relational/web:** hold grief without possession; Maren rescued and released; awakening spreads |
-| **III · The Living World** | Can free communities connect without creating a new center that owns them? | **Coordinate, then disperse** — hero surface; things are not what they seem | **Civilizational:** temporary authority ends after necessity; coexistence survives attack and dispute |
+| **III · The Compact** | Can free communities connect without creating a new center that owns them? | **Coordinate, then disperse** — hero surface; things are not what they seem | **Civilizational:** temporary authority ends after necessity; coexistence survives attack and dispute |
 | **IV · Court of Threads** | Can institutions survive crisis without turning emergency roles into permanent identities or inherited status? | **Soft over hard; middle way under pressure** | **Continuity:** second relinquishment; Living Way / Taoist maturity; *perhaps there is a middle way*; child inherits no crown |
 
 Romance runs the **same thesis** as cosmology: *clinging = cage; release = adulthood* — mother and Wren through Book II; in Book III, partnership must coexist with separate duties and institutions.
@@ -88,7 +88,7 @@ Memorable characters are not merely well-written people. They are **specific pre
 | **Ma** | Humane fluency inside procedural violence; courtesy that can deliver the terrible | Flows, thresholds, population consequence, what can still be stabilized | Restraint that looks like mercy and still spends people | “Reasonable official”; humanization as pardon; exposition mouthpiece |
 
 **Distinction set (keep sharp):**
-- Eli reads systems through the body and wants to remain without earning it.
+- **Not a healer.** All extraordinary bodily repair and diagnostic somatic reading belongs to **Somchai Vichai, nurse and field medic**. Somchai touches bodies and reads heat (virus/fever), tingling (bacteria/nerve), pressure/pulse (blockage), cold (depletion). He repairs; Eli does not. Eli reads trajectories through the web — systems, fields, movements — not bodies. He can feel the charge pattern of a living system, but diagnosis and repair are Somchai's lane.
 - Wren turns care into management and fears possession disguised as safety.
 - Rowan reads institutions through rooms and bodies; soft but unsparing.
 - Sol turns suffering into mandate and finds caution morally obscene.
@@ -206,7 +206,7 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 
 **Vol II**
 - European pursuit: past carriers **disagree**; stops seeking one authority.
-- **Anglesey (Ch 8):** bitter cup under keeper consent → **Lovernios** full-res; plant intelligence rhymes Rasel's garden; vertical threshold without Book III cosmology dump.
+- **Delphi (Ch 4):** Laurel Cube / Delphic Games contact under keeper consent → **giant face vision** with white somatic markings; wisdom register without Book III cosmology dump.
 - **Rootbook leaps:** cognate + site + measurement linked before full proof; **Sanxingdui break** — forced connection fails, larger pattern survives (`52`).
 - Mother-reveal: Maren is alive, held, and wired in — kept working by a reunion the Charkha keeps almost-happening; her love and complicity coexist.
 - Reunion: Eli and Maren receive real lucid time together and both want more.
@@ -218,7 +218,7 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 - Failure: a refugee admitted under his sponsorship commits a fatal nonconsensual mind-entry; Eli remains present to grief and accusation.
 - Wren boundary: recognizes that partnership gives him no jurisdiction over her threshold network.
 - Climax: accepts the federation's bounded crown; refuses forced synchronization even though it would probably save more people; prepares a constitutional transfer.
-- Hinge: the certification/handover is **incomplete** — the compact fractures under war pressure; Eli holds emergency power and the institutions are too damaged to receive a clean handover. Book IV opens on that wreckage: the reconstituted institutions deliberate whether to rebuild the compact or accept permanent emergency rule.
+- Hinge: Eli's own relinquishment **completes** — in one hall, under real threat, he signs away his own authority and the room continues without him. What stays **incomplete** is the wider claim that win seems to imply: Continuity keys, factional mandate, and private force in regions outside that room stay live and unresolved, so the interregional compact the war seemed to prove was never actually intact. Book IV opens on discovering how much of that wider compact was never actually there: the reconstituted institutions deliberate whether to build it out at true scale or accept permanent emergency rule.
 - Romance: Rowan/Eli remains nonsexual and non-romantic. Plant only a few
   deniable signals inside political trust; no pregnancy.
 
@@ -234,7 +234,7 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 
 ### Internal war (constant)
 
-**Grandiosity vs humility** — chosen-one chord fed by fallen and factions; mature answer is **collective** (fire spreads, not messiah). **Messianic rise (REVISED 2026-08-07):** by Vol III the world *should* read him as messiah—Deiwos, chosen, twin-myth, indispensable wartime strongman. Book III shows him accepting bounded wartime command and winning battles, but the decentralized compact **fractures under war pressure** — Continuity keys, factional mandate, private force, and the temptation to turn emergency command into permanent authority fracture the interregional layer. The first relinquishment is incomplete — not because Eli refuses it, but because the compact it required no longer exists intact. Book IV carries the crown back to him as reconstruction, not restoration, where pregnancy adds heir mythology. Adulthood is finally proved by institutional transfer during the birth, not by denying the signs.
+**Grandiosity vs humility** — chosen-one chord fed by fallen and factions; mature answer is **collective** (fire spreads, not messiah). **Messianic rise (REVISED 2026-08-09):** by Vol III the world *should* read him as messiah—Deiwos, chosen, twin-myth, indispensable wartime strongman. Book III shows him accepting bounded wartime command, winning battles, and relinquishing it for real at the end — a genuine civic win in the room where it happens. But that win is local: Continuity keys, factional mandate, and private force outside that room stay live and unresolved, so the wider interregional compact the war seemed to prove was never actually intact. The first relinquishment is incomplete — not because Eli refuses it, but because that wider gap only surfaces once Book IV arrives. Book IV carries the crown back to him as reconstruction, not restoration, where pregnancy adds heir mythology. Adulthood is finally proved by institutional transfer during the birth, not by denying the signs.
 
 ### Rise-and-mature — the bounded-crown spine (LOCKED, 2026-07-13)
 
@@ -245,8 +245,8 @@ Eli's through-line is an **ascent into answerability**, not a flat run of nos. H
   recovers Rasel without acquiring an expert guide. His flare is a double-edged
   "arrival" (rise = exposure).
 - **Vol II — agent → liberator:** wins against Custodian control, grows a coalition, reaches Maren, releases her, and seeds the first awakening without owning the amplifier. The myth accretes against his will. Liberation outruns the social capacity to hold it.
-- **Vol III — coordinator → wartime strongman:** accepts a narrow wartime mandate and reunifies defensive capacity — ports, clinics, farms, local administrations, and capable officers — into a temporary cross-route command. He wins battles and saves people, issuing real orders because food, evacuation, defense, and routes require decisions, not symbolic consensus. But the decentralized compact fractures under war pressure: Continuity keys, factional mandate, private force, and the temptation to turn emergency command into permanent authority fracture the interregional layer. The volume ends with Eli holding emergency power and the institutions too damaged to receive a clean handover. The first relinquishment is **incomplete** — not because Eli refuses it, but because the compact it required no longer exists intact.
-- **Vol IV — wartime strongman → reconstructed compact builder → answerable member and father:** the Lean Year's interregional food, route, credential, and trust failures force the reconstituted institutions to deliberate whether to rebuild the compact or accept permanent emergency rule. Eli is recalled to rebuild a cross-route survival network — not restore a throne. Court factions learn to prolong the second emergency, the Weavers and men's cloisters deepen powers beside him, and Rowan's pregnancy is pressed into succession mythology. Eli helps build a successor structure that can survive him, then relinquishes a second and final time during the birth rather than transmit office by blood. The reconstruction proves the compact can be rebuilt better than before — not because it never fractured, but because the reconstruction is voluntary and reviewable.
+- **Vol III — coordinator → wartime strongman:** accepts a narrow wartime mandate and reunifies defensive capacity — ports, clinics, farms, local administrations, and capable officers — into a temporary cross-route command. He wins battles and saves people, issuing real orders because food, evacuation, defense, and routes require decisions, not symbolic consensus. He completes a real relinquishment at the end — in one hall, under real threat, he signs away his own authority and the room continues without him. But that win is local: Continuity keys, factional mandate, and private force in regions outside that room stay live and unresolved, so the wider interregional compact the war seemed to prove was never actually intact. The first relinquishment is **incomplete** — not because Eli refuses it, but because that wider gap only surfaces once Book IV arrives.
+- **Vol IV — wartime strongman → reconstructed compact builder → answerable member and father:** the Lean Year's interregional food, route, credential, and trust failures force the reconstituted institutions to discover how much of the wider compact was never actually there and deliberate whether to build it out at true scale or accept permanent emergency rule. Eli is recalled to rebuild a cross-route survival network — not restore a throne. Court factions learn to prolong the second emergency, the Weavers and men's cloisters deepen powers beside him, and Rowan's pregnancy is pressed into succession mythology. Eli helps build a successor structure that can survive him, then relinquishes a second and final time during the birth rather than transmit office by blood. The reconstruction proves the compact can be built out at true scale — not because it was never real, but because it was real only in the room that watched it happen, and the reconstruction is voluntary and reviewable.
 
 **He sees the cost of imbalance both ways:** permanent throne becomes the cage; permanent renunciation abandons people who need coordinated protection. Maturity is the rhythm—gather authority for a defined necessity, bind it in advance, expose it to review, and disperse it afterward. His final proof is not taking off a symbolic crown by personal virtue; it is accepting that ordinary people can judge and limit him. Positive form: `Thesis.md` § "The mature form — structure that breathes."
 
@@ -393,7 +393,7 @@ Coerced family → **fracture** → broken/changed by Vol III.
 | **Priya Nair — RETIRED** | — | — | Ch 1 beats → Wren | — |
 | **Mei Lin** | Displacement and staying | Her family moved twice before Pelangi Reach; she has already learned that "home" is a verb, not a place | Breaks a rule to move Eli; later proves made home survived without becoming an institution |
 | **Suresh** | Debt to the dead | Rasel's last kindness; boat and livelihood inherited | Risks boat for clue |
-| **Shireen** | Grief from afar | Cousin bound by family duty to stay in Dhaka; can only send one message | One message; Eli can't return |
+| **Shireen** | Grief from afar | Cousin bound by family duty to stay in Dhaka; remembers family stories more clearly than the missing people | One encrypted exchange: she sends the living garden, Eli sends a bodily memory of their parents |
 | **Anonymous busker** (folded from Lani, 2026-07) | Performer vs symbol | His public song becomes a carrier for Eli's mother's memory without his consent | Human scene before echo — now an anonymous busker flash, not a named arc |
 
 ---
@@ -447,7 +447,7 @@ closure.
   plot badly to stay close to a man he misses and resents for leaving. Ch 1: taken
   alive. Book I climax: recovered at Sanxingdui, where reunion exposes love,
   abandonment, and compromised work at once.
-- **Mother (Maren):** believed orphan → **Mei Friday dinner** learns **taken alive** → **Book II rescue**, reunion, release. Father grief must not be leached into mother-quest.
+- **Mother (Maren):** believed dead → Mei reveals survival through extraction only → Rasel supplies a two-winters-old trace → **Book II reunion and release**. Ambiguous loss must remain available for the early parent memories; father grief must not be leached into the mother quest.
 
 | Grief | Starting form | Development | Proof |
 |---|---|---|---|
@@ -551,7 +551,7 @@ Every reconnection that counts has the same shape, and a character can stall at 
 | **Lang** | The failure mode incarnate: converts descent into **registry** — pedigree, file, managed line, risk permanently written into identity | *None.* He offers the counterfeit: belonging through classification. He would give every orphan a documented line and own them by it | Book III — the registry's genealogical logic is shown doing real protective work, and it still ends in ownership. Contained, not redeemed |
 | **Custodians** | Severance **engineered by the state** — Jin Pak's family separated by registry, Sora's Michael harvested. The unit is offered as a replacement family | The coerced family is the counterfeit lineage: it demands obedience and cannot be altered by its heirs | Sora's defection is a person leaving a false line for a chosen one; Jin breaks first because he can still see the real family the registry is holding |
 | **Asha Raman** | Younger brother lost after an official evacuation "temporarily" separated the family | Turns her severance into **transmissible procedure** — rules that survive the rescuer's certainty, i.e. an inheritance the next generation can use | Freezes a route; forces consent, abort, and return rights into the network. Institution-building *is* her ancestor work |
-| **Hạnh / Wren / Mei Lin / Suresh / Shireen** | Land taken; manifests that protect and expose; twice displaced; a boat and a debt to a dead man; a cousin held in Dhaka by family duty | The secondary cast carries the spine in **one gesture each** — inherited land, inherited records, home as a verb, an inherited boat, a single message across a severed family | One concrete carried object or obligation per character. No speeches; the pattern should be felt as rhyme, not counted |
+| **Hạnh / Wren / Mei Lin / Suresh / Shireen** | Land taken; manifests that protect and expose; twice displaced; a boat and a debt to a dead man; a cousin held in Dhaka by family duty | The secondary cast carries the spine through a distinct gesture for each character: inherited land, inherited records, home as a verb, an inherited boat, an encrypted exchange across a severed family | One concrete carried object or obligation per character. No speeches; the pattern should be felt as rhyme, not counted |
 
 ### Adoption — practice picked up on the road
 
@@ -565,7 +565,7 @@ Reconnection is not only excavation of your *own* dead. **The characters are tra
 | How found | **Artifacts, contested readings, and living teachers** — re-assembled unevenly under pressure; a full descent only where `36` §8 fires | **Handed over by a living person** who has no idea it is significant |
 | Status | Recovered technology | Never technology. It stays ordinary — and it is the half that actually holds a life together |
 
-They braid: an ordinary practice turns out to be a curriculum fragment worn down to a habit (the tune, the bitter cup, the footwork — Eli's whole accidental training). **The reveal should run adopt-then-recognize, never recognize-then-adopt.** He must love a thing before he learns it is load-bearing, or the practice becomes a power-up. **Bitter cup — LOCKED 2026-07-23; remapped 2026-08-01:** on-page **Book II Ch 8** (Anglesey); recognition lands when **Lovernios** clarifies — not in Book I Thailand.
+They braid: an ordinary practice turns out to be a curriculum fragment worn down to a habit (the tune, the Delphic Games contact, the footwork — Eli's whole accidental training). **The reveal should run adopt-then-recognize, never recognize-then-adopt.** He must love a thing before he learns it is load-bearing, or the practice becomes a power-up. **Delphic Games / Laurel Cube contact — LOCKED 2026-07-23; remapped 2026-08-01:** on-page **Book II Ch 4** (Delphi); recognition lands when the **giant face vision** clarifies — not in Book I Thailand (wat = breath/Aru only). v1 § *The Medicine* in `archive/manuscripts/v1_archive.md` = quarry; adapt for Delphi; strip v1 cosmology; no Book III serpent-as-Makers-face dump here. Lead with somatic wonder, not terror — the gift lands as white markings on a giant face and on Eli's own hands, beginning the hand-movement vocabulary tested later against Heather and Cherry. Exit is partial memory: body changed, daylight mind cannot carry all.
 
 **How adoption is dramatized:**
 

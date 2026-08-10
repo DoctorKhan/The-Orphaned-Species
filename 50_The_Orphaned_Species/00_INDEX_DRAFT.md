@@ -135,7 +135,7 @@
 | `100_production_todo.md` | PROCESS | Production checklist. |
 | `DECISIONS_Chapter_One.md` … `DECISIONS_Chapters_Eleven_Thirteen.md` (7 files) | PROCESS — likely superseded by `31`/`32` beatsheets | Per-chapter decision logs from an earlier drafting phase. Worth checking whether these predate the current beatsheet structure entirely. |
 | `BOOK_SUMMARIES_long.md` / `BOOK_SUMMARIES_short.md` | PROCESS — **check against `58` supersession** | Pitch-facing summaries; `58_sanxingdui_climax_lock.md` explicitly lists these as containing stale Book I Gulf/Göbekli allocation. |
-| `SOURCE_TO_TRILOGY_MAP.md` | PROCESS *(verify)* | Legacy mapping doc, outside the numbered system entirely. |
+| `SOURCE_TO_LAYER1_NOVELS_MAP.md` | PROCESS *(verify)* | Legacy mapping doc, outside the numbered system entirely. |
 
 ---
 

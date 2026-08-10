@@ -11,7 +11,7 @@ Ordinary nerves read heat, pressure, and paresthesia from body and near-body sta
 Real anchor: A. D. Craig's interoception model ("How Do You Feel? An Interoceptive
 Moment with Your Neurobiological Self," *Nature Reviews Neuroscience*, 2009) names
 the actual pathway — fine-grained internal-state signaling that ordinary bodies
-already do. Eli's **somatic signatures**—the mother's diagnostic read through
+already do. Eli's trajectory sense — Maren's receiver design through
 palms—are **in-fiction amplification** of that real pathway, not a verified
 clinical phenotype.
 

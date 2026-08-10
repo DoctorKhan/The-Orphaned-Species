@@ -48,7 +48,7 @@ The archived world history rhymes **Late Bronze Age network collapse** (Cline / 
 
 | Bronze Age fate | Historical pattern | Sci-fi bloc | Collapse strategy | Long arc (author) | On-page pressure (2040) |
 |---|---|---|---|---|---|
-| **Total losers** | Mycenaeans, Hittites — hyper-centralized fortress-builders; exploited lower classes for monumental labor; cities burned (internal revolt likely); centralized economy and literacy gone | **Continental Union** | Rigid centralization — registries, walls, force; **brittle**; no spare parts | Looks terrifying now; **hollow tree in the storm** — sudden catastrophic fracture when the next chain breaks | Charkha Measure; activation hunts; class severance baked in; "keep the chaos out" |
+| **Total losers** | Mycenaeans, Hittites — hyper-centralized fortress-builders; exploited lower classes for monumental labor; cities burned (internal revolt likely); centralized economy and literacy gone | **Continental Union** | Rigid centralization — registries, walls, force; **brittle**; no spare parts | Looks terrifying now; **hollow tree in the storm** — sudden catastrophic fracture when the next chain breaks | Charkha; activation hunts; class severance baked in; "keep the chaos out" |
 | **Stagnant survivors** | Egypt, Assyria — endured cascading disaster but permanently crippled or pulled inward; massive scale + brutal control | **Eastern Mandate** | Endurance at scale — corridors, efficiency; **too rigid to adapt** at first, but contains older maritime, scientific, mercantile, and plural traditions | Survived the gene drive and collapse; initially stagnant toward the biological shift, then becomes indispensable to the joint field-sail build through internal adaptation rather than Western conversion | Watched acute phase from afar; consolidation; frames threshold episodes as **disease to cure**; later reveals scientists, workers, families, traders, critics, and Commissioner Ma behind the system. **Book II seed:** Egypt hinge/packet = god-king endurance trap; **Book III:** Mandate-face only |
 | **Unprecedented winners (maritime)** | Phoenicians, Cypriots — decentralized coastal city-states; **no head to chop**; stepped into vacuum; spread iron + phonetic alphabet (copyable, person to person) | **Free Ports Coalition — ports** | **Decentralized maritime antifragility** — harbors, routes, trade through broken lanes | Natural vectors for the post-weapon mutation; **birthed the next era** without trying to own it | Malacca, Pelangi Reach, **contested archipelagos** (Hawaiʻi); threshold houses along trade lanes |
 | **Non-palace keepers (inland)** | Pastoral, mound, covenant communities that never depended on palace literacy; outlast burn layers by memory, ritual, distributed skill | **Free Ports Coalition — inland sector** (**Albion**, broken-route Europe) | **Distributed memory** — matriline, song, threshold practice on **broken lines** | Survives when maps and registries lie; Albion contested in Book II | Pömmelte trail → Rollright → Anglesey; **Albion** passport polity (legacy *Britain* on old files) |
@@ -171,25 +171,87 @@ Same shape, different vocabulary: an insider class gets its risk socialized by t
 
 **Avoid:** flying cars, Mars colonies, full VR life, everyone in spandex, magic holograms everywhere, **humanoid robots as background furniture**.
 
+### Entropic allocation — LOCKED 2026-08-09
+
+**Governing reference:** `64_entropic_allocator_perimeters.md`. The regulatory
+unit is the **registered perimeter**: a fence, hull, pressure boundary, farm,
+district outlet, or ecological edge. Operators keep their internal processes
+private. The public account begins where matter, energy, or carried harm crosses
+the boundary. Every living body retains its own protected perimeter inside a
+workplace or district.
+
+The system grew from early **Entropy Crime** law: prosecutions for knowingly
+concealing, exporting, or laundering physical, occupational, and ecological
+burdens across protected boundaries. Those cases made liabilities follow assets,
+required lawful custody for transfers, gave bodies independent standing, and
+offered industrial privacy
+in exchange for verifiable crossings. Hinge-era blocs converted the doctrine
+into allocator infrastructure. AI data centers supplied the catalytic cases and
+first mature pilots after nominally green compute campuses hid local grid, water,
+heat, material, and occupational costs behind private workloads and fragmented
+corporate accounts. Accidents create remediation duties; fraud,
+recklessness, coercion, or deliberate bypass can make the act criminal. Full
+origin: `64` § *How perimeter law arose — Entropy Crimes*.
+
+Traditional ownership continues for homes, tools, vehicles, ships, businesses,
+land, and industrial equipment. Title grants control over an asset within the
+law; it does not include another person's body, a permanent claim on the commons,
+or immunity from exported harm. EEU profiles are time-limited operating
+permissions. Stored liabilities and closure duties follow regulated assets
+through sale, inheritance, restructuring, and salvage. Ownership and theft lock:
+`64` § *Ownership, custody, and theft*.
+
+The allocator assigns each perimeter a multidimensional **EEU profile** covering
+thermal, chemical, material, vibrational, ecological, human, and biological
+burdens. These accounts do not collapse into one fungible number. Unused thermal
+capacity cannot buy permission to poison water or spend workers. ZKPs reveal
+compliance without publishing operating rhythms or medical records. Drone
+auditors and human Marshals calibrate the boundary stations; Metrology Temples
+maintain the reference chain.
+
+Internal buffers create the industrial game. Tanks, scrubbers, heat recovery,
+separable materials, rest schedules, and bonded waste transfers let an operator
+do more useful work under the same perimeter profile. Stored burden carries
+forward and remains a senior closure liability. A monthly reset never clears a
+hot tank, captured solvent, exhausted soil, or workforce recovery debt.
+
+Physical enforcement remains visible at the perimeter: dose capsules, sealed
+valves, reactive tags, fatigue coupons, stamped cartridges, and amber station
+lights. UnionNet, MandateNet, and PortsNet carry official proofs; a separate dark
+mesh carries grey claims and unrecognized house audits. The Bourse trades
+class-specific surplus and bonded custody. Human recovery capacity cannot be
+sold by an employer.
+
+**Bloc behavior:** the Union captures boundary, priority, emergency status, and
+resupply while keeping credible instruments. The Mandate supplies precise
+stations and strong district interconnects, then hides migrant draw inside broad
+production perimeters. The Ports favor small nested boundaries, adapter
+manifolds, trustee guilds, and slow reconciliation across incompatible hardware.
+Their flexibility supports repair and leaves more room for bypasses.
+
+**On-page texture:** a clerk wipes soot from a workboat's **spent glass** and
+finds the dosimeter black; a hot storage tank holds a shift at the gate; a
+Marshal opens calibration gas beside a fence; a worker carries a sealed exposure
+proof to a clinic. Keep the full system under the scene. One boundary object and
+one immediate cost are enough. Full definition: `64` § *Spent glass*.
+
 ### Robotics lock — humanoid rare; embodied automation scarce (LOCKED 2026-07-26)
 
 **One-line rule:** the world has **more AI in software than bodies in metal**. Humanoid robots are **rare, expensive, and political** — mostly found in **Singapore / the Core** and other **power centers** (Union relocated capitals, bloc headquarters, prestige campuses). They **signal industrial reach**, not everyday life.
 
 **Why so few:**
 
-| Factor | Effect |
+|| Factor | Effect |
 |---|---|
-| **No mass industrial base** | Humanoid and service robotics need fabs, precision supply chains, skilled maintenance, and steady power — all **disrupted** by mid-2030s war, Fever Years, satellite gaps, and bloc fragmentation |
-| **Population decline / missing cohort** (`WORLD_BIBLE`) | Shrunken workforces; aging maintainers; **fewer factories retooled** for embodied automation; child infrastructure repurposed — not a robotics boom |
-| **Post-Hinge priorities** | States fund **registries, drones, quarantine, psion teams** — not civilian robot fleets |
-| **Software substitute** | Translation, scoring, surveillance, triage run on **networks and phones**; cheaper than bodies |
-| **The entropy mistake** | Planners treated **embodied** automation like **software** — as if metal bodies could scale without paying the **entropy bill**. **Death technology never breaks the second law**; it only **localizes order temporarily**. Humanoid robots **look like life**; they are **expensive clocks** (`22` § *Death technology*) |
+|| **No mass industrial base** | Humanoid and service robotics need fabs, precision supply chains, skilled maintenance, and steady power — all **disrupted** by mid-2030s war, Fever Years, satellite gaps, and bloc fragmentation |
+|| **Population decline / missing cohort** (`WORLD_BIBLE`) | Shrunken workforces; aging maintainers; **fewer factories retooled** for embodied automation; child infrastructure repurposed — not a robotics boom |
+|| **Post-Hinge priorities** | States fund **registries, drones, quarantine, psion teams** — not civilian robot fleets |
+|| **Software substitute** | Translation, scoring, surveillance, triage run on **networks and phones**; cheaper than bodies |
+|| **The entropy bill** | Every ordered metal body requires continuous low-entropy feed — power, heat, precision parts, human maintainers. Software scales because copying code requires an infinitely smaller gradient injection than forging a new servo. Humanoid robots failed because planners treated **ordered matter** like **information** |
 
-**The entropy mistake (LOCKED 2026-07-26):**
+**The entropy bill (LOCKED 2026-08-09):**
 
-Late-2020s–early-2030s culture **did not understand** that building and maintaining robot bodies is a **continuous fight against entropy** — not a one-time install. Copying a model is cheap; **keeping ordered matter ordered** costs power, heat, precision parts, fabs, and **human maintainers** (fewer after the baby bust). Software scaled because bits don't rust. Humanoid robots didn't because **every body is entropic death technology** — a local island of order that **runs down** unless constantly fed.
-
-**Only life** — keeper chains, healing, living web, bodies that repair — touches the **anti-entropic** register. Singapore's lobby humanoid is **status theater**: pretending the entropy bill was prepaid forever. Pelangi's royal kiosks **promised** robot cities; the island got **patched quadrupeds** and maintenance debt.
+Late-2020s–early-2030s culture treated embodied automation as if it could scale without continuously mining low-entropy gradients. Keeping a metal body ordered costs power, heat, wear, precision parts, fabs, and **human maintainers** (fewer after the baby bust). Software scaled because bits require almost no ordered feed; humanoid robots did not because every chassis is a local island of order that runs down unless constantly resupplied. Singapore's lobby humanoid is **status theater**: pretending the gradient bill was prepaid forever. Pelangi's royal kiosks **promised** robot cities; the island got **patched quadrupeds** and maintenance debt.
 
 **On-page texture (not lecture):** Babaji's robot dog **ticks and stalls**; one humanoid at Stack intake draws stares; a clerk says *we can't get parts*; Eli maintains **cable runs** while the dog route needs a **human** to reset. Tie to Eli's facilities work — he knows embodied systems **decay**.
 
@@ -234,7 +296,7 @@ Late-2020s–early-2030s culture **did not understand** that building and mainta
 
 **Wren's fast rise, causally explained.** Wren scored exceptionally on these modules, which is a real, concrete reason a teenager holds genuine operational standing — junior Knotter work, intake, placements, attestations (`26_present_day_cast_expanded.md` § Wren; `BOOK_SUMMARIES_long.md`) — this young. Not precocity as authorial fiat; a measurable, in-world credential the Weavers had every practical reason to act on given the same scarcity pressure as everyone else. Cross-reference `15_character_grounding_and_relatability.md` § *Capacity claiming* for the inverse case: Eli's exceptional visuo-spatial gift gets deliberately hidden ("stay off the ledger") in a culture that flags and elevates measured performance — same measurement culture, opposite survival strategies, worth keeping legible as a contrast between the two of them rather than spelling out on-page.
 
-**Not a skill Eli shares — corrects an earlier draft of this section.** The trained reading is Wren's, not Eli's — consistent with the already-locked fact that he "can still misread unfamiliar social games and Wren's methods" (`00_NARRATIVE_STRUCTURE.md` § *Eli*). His diagnostic-touch gift is a different domain entirely — physical/medical condition (heat, tingling, pressure, cold), not social intent, deception, or interest — so there is no overlap to police and no cover mechanism needed on his side; giving him a trained read as well would step on Wren's specific competency and contradict his established blind spot. His complementary strength in the partnership is relational, not perceptual: he is good at **relying on and plainly communicating with Wren** — trusting her read instead of trying to make his own. That reliance is itself a character-growth beat, not a given: his established difficulty asking cleanly for help (`00_NARRATIVE_STRUCTURE.md`) makes learning to lean on Wren's competence, rather than compensating with a skill he doesn't have, part of his arc rather than a fixed trait.
+**Not a skill Eli shares — corrects an earlier draft of this section.** The trained reading is Wren's, not Eli's — consistent with the already-locked fact that he "can still misread unfamiliar social games and Wren's methods" (`00_NARRATIVE_STRUCTURE.md` § *Eli*). Eli's receiver reads trajectories — system vectors, field directions, movement patterns — not social intent, deception, interest, or body state. So there is no overlap with Wren's perceptual lane and no cover mechanism needed on his side; giving him a trained social read would step on Wren's specific competency and contradict his established blind spot. His complementary strength in the partnership is relational, not perceptual: he is good at **relying on and plainly communicating with Wren** — trusting her read instead of trying to make his own. That reliance is itself a character-growth beat, not a given: his established difficulty asking cleanly for help (`00_NARRATIVE_STRUCTURE.md`) makes learning to lean on Wren's competence, rather than compensating with a skill he doesn't have, part of his arc rather than a fixed trait.
 
 ### Climate and agriculture
 
@@ -264,7 +326,7 @@ By 2040, elites **know** carriers exist:
 
 - **Detection:** instrument suites + trained teams + AI-assisted pattern matching on biometrics and behavior under stress.
 - **Programs:** recruitment, conscription, registry, black sites — national and contractor.
-- **Charkha Measure:** older suppression lineage wearing **lanyards** — health agencies, immigration, museums, foundations.
+- **Charkha:** older suppression lineage wearing **lanyards** — health agencies, immigration, museums, foundations.
 - **Public:** majority still skeptical or unaware; believers split between **prophecy**, **fraud**, and **bioterror panic**.
 
 ---

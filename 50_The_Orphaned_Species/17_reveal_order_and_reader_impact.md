@@ -48,7 +48,7 @@ If it exists only in `00_MASTER_TIMELINE.md`, it is not yet in the novel.
 | Volume | Ancient face | Function |
 |---|---|---|
 | **I** | Living plants / Sanxingdui tree | Tree of Life is distributed relation |
-| **II** | Sídhe / Göbekli / Adapa–Refusal packet | Gods underground; contact became command; Refusal |
+| **II** | Sídhe / Göbekli / Adapa–Folly packet | Gods underground; contact became command; Folly |
 | **III** | Forks + Loop + Umul | Coexistence test; hollow completion; heal not spend |
 | **IV** | Court as fossil temple | Offices without gods; refuse heir mythology |
 
@@ -73,7 +73,7 @@ Companion: `35_artifact_chain.md` § placement; `42` § residue-only delivery; b
 
 **Shelf (author / pitch):** literary speculative **deep-history conspiracy thriller** — the **investigative momentum** of *The Da Vinci Code*, the **landmark chase energy** of *National Treasure*, and a **conspiracy of the ages** the present book only names in part.
 
-**Do not soft-pedal the conspiracy.** The **Charkha Measure** is the human face of a **recurring control apparatus** — torch, trial, asylum, eugenics file, registry, black project, van, clipboard, gene weapon, pair-severance, scientist claiming. The reader should feel: *the world I see is a cover; the faces rhyme across millennia.* That is the same reader contract as Dan Brown — with a harder, longer, more contested answer.
+**Do not soft-pedal the conspiracy.** The **Charkha** is the human face of a **recurring control apparatus** — torch, trial, asylum, eugenics file, registry, black project, van, clipboard, gene weapon, pair-severance, scientist claiming. The reader should feel: *the world I see is a cover; the faces rhyme across millennia.* That is the same reader contract as Dan Brown — with a harder, longer, more contested answer.
 
 **Hunt attribution ladder — LOCKED 2026-07-26 (dual-true + costume):** Book I keeps the apex **unnamed**. Eli sees Mandate/father — **Rasel's son / loose ends**. **Charkha wears Mandate's face** for the Eli/mother hunt (Custodian biosecurity cover, Stack-adjacent paper). Late Book I: costume seams (*other chain*, *somebody else's leash*, wrong-badge) without naming Charkha. **Book II names Charkha** — knife: **wore the Mandate's face; got Maren; you've been running their map**; Rasel remains Mandate. Pair-severance naming stays Book II midpoint.
 
@@ -106,7 +106,7 @@ Both are **puzzle-driven adventure thrillers**: propulsion comes from **decoding
 ### What this series adopts (explicitly)
 
 - **Clue-trail spine:** Pelangi → Malacca → Thailand/Gulf → Göbekli → Europe → Albion (`95` *clue trail*; `35` artifact chain).
-- **Conspiracy of the ages:** Charkha / Custodians / institutional capture **rhyme** with deep-time suppression (`95` *Charkha Measure*; § Tier 3 pattern recognition below).
+- **Conspiracy of the ages:** Charkha / Custodians / institutional capture **rhyme** with deep-time suppression (`95` *Charkha*; § Tier 3 pattern recognition below).
 - **Landmark set-pieces:** race fairway, Cube roots, chandlery, Pömmelte shafts, broken-line church, Rollright, Stonehenge, Avebury — each site **does work** (clue + cost + pursuit).
 - **Expertise fantasy:** Rootbook cognates, registry marks, keeper protocol — reader learns **with** Eli, often **wrong first**.
 - **Dual-register clues:** civic fact first (Albion rename, Ch 5), deep rhyme second (Alba / elf / Sídhe, Ch 6) — same beat structure as Brown's "symbol means X" → "and therefore the Church…"
@@ -162,7 +162,7 @@ Every volume ends **climax + hunger**: irreversible satisfaction *and* a forward
 |---|---|---|
 | **I** | Father recovered; Sanxingdui wonder; irreversible public costs | Mother still west; Wren displaced; parental complicity opened |
 | **II** | Maren released under assault; damaged life-technology understood; first human–elven reply arrives without ownership; awakening spreads | No civic form for awakening or contact; Sol already recruiting forced unity |
-| **III** | Continental Union defensive capacity reunified for the Mandate war; war window survived; crown bound; handover **succeeds** under live threat | Eli free and unhomed (Loop); Continuity clause dormant; material debts remain |
+| **III** | Continental Union defensive capacity reunified for the Mandate war (wartime coordination, not the wider interregional compact); war window survived; crown bound; handover **succeeds** under live threat in Eli's own hall | Eli free and unhomed (Loop); Continuity clause dormant; material debts remain |
 | **IV** | Child born without title; final relinquishment mid-labor | Series close = ordinary life possible — not another volume cliff |
 
 **Book III hollowness rule:** Loop names **private** incompletion after real civic relief. Book IV’s Lean Year tests a victory worth defending — it does **not** retroactively declare Book III a fraud.
@@ -218,7 +218,7 @@ Wrong explanations make the reader an active investigator. They also prevent any
 
 The first artifact should not explain aliens, dragons, Anunnaki, chromosomes, or the full timeline. It should solve or complicate an immediate problem.
 
-Maren's Rootbook enters alongside the artifact chain as an **emotionally legible puzzle**. Its first successful key is a word connected to Eli's own name and maternal memory, not a cosmological answer. The reader sees recurring forms before receiving the reconstruction and should be able to attempt the relationship. Later corrections make the book feel like a real unfinished inquiry rather than prophecy. Full reveal ladder: `52_the_rootbook_word_web.md`.
+Seven damaged Rootbook images enter beside the artifact chain as an **emotionally legible puzzle**. Their first successful key is a word connected to Eli's maternal memory. The physical *Shabdajal* appears later in Thai cooperative custody, already marked by local corrections. The reader sees recurring forms before the reconstruction and can attempt the relationship; the custody reveal prevents the journal from reading as a private inheritance or prophecy. Full reveal ladder: `52_the_rootbook_word_web.md`.
 
 Best early candidates:
 

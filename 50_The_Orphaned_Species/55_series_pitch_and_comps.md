@@ -42,7 +42,7 @@ Weavers, Extra, panspermia, Manual Override, or the full four-book syllabus.
 
 ## Positioning statement — internal, not the one-line story hook
 
-**Literary speculative deep-history conspiracy thriller** — *The Da Vinci Code*'s investigative momentum and *National Treasure*'s landmark chase for the **plot engine**, but the **prose register** runs closer to N.K. Jemisin or Madeline Miller than to either comp: denser, more sensory, more restrained around grief. The conspiracy is **of the ages** (the Charkha Measure is only the present face of a recurring suppression apparatus), clues are **contested**, and the win is **release and coexistence**, not a treasure box or a single decoded truth.
+**Literary speculative deep-history conspiracy thriller** — *The Da Vinci Code*'s investigative momentum and *National Treasure*'s landmark chase for the **plot engine**, but the **prose register** runs closer to N.K. Jemisin or Madeline Miller than to either comp: denser, more sensory, more restrained around grief. The conspiracy is **of the ages** (the Charkha is only the present face of a recurring suppression apparatus), clues are **contested**, and the win is **release and coexistence**, not a treasure box or a single decoded truth.
 
 **Meaning lock — REVISED 2026-08-02:** As *Dune* uses control of spice and Arrakis to reach ecology, colonialism, religion, prescience, and charismatic power, this series uses registries, custody, war, family rescue, and contested sites to reach a larger question: **what does a created and self-orphaned species become after it turns against its makers and their progeny?** Never pitch the series as simply opposition to ownership. Ownership is one antagonist method; species adulthood, inheritance, purpose, war, love, loss, ordinary life, and the refusal to repeat the founding violence are the meaning. The books must feel like lived adventures before they feel like a thesis.
 
@@ -123,7 +123,7 @@ shaft graves of Pömmelte, weather over Stonehenge, and the inhabited landscape 
 Avebury where Maren is being kept alive and working. Eli learns with the reader—often wrong first,
 corrected by communities who were never asked permission to be decoded.
 
-The enemy is not only men with guns. It is the **file**, the **clipboard**, the **cohort list**, the **scientist claimed** by bloc — the Charkha Measure and its ancestors, the same function in new uniforms: acquire, suppress, sever pairs, transfer dependency. Factions offer Eli a throne because he is useful on the rescue path. He refuses to become the vessel.
+The enemy is not only men with guns. It is the **file**, the **clipboard**, the **cohort list**, the **scientist claimed** by bloc — the Charkha and its ancestors, the same function in new uniforms: acquire, suppress, sever pairs, transfer dependency. Factions offer Eli a throne because he is useful on the rescue path. He refuses to become the vessel.
 
 To free his mother he must release his need for her innocence. To survive the awakening he must help build forms that can outlive both emergency and hero. The conspiracy of the ages has no single drawer to open. The win is **adulthood** — inheriting power without repeating the makers' abandonment, and choosing ordinary life after destiny has made its offer.
 
@@ -165,7 +165,7 @@ no structure to hold.
 
 ---
 
-## Back-cover copy — Book III: *The Living World*
+## Back-cover copy — Book III: *The Compact*
 
 **A power no parent prepared them to inherit.**
 
@@ -186,7 +186,7 @@ Awakening spreads through threshold houses, river cooperatives, and open grounds
 | **Tone** | Warm human prose under institutional pursuit; awe before ambush at landmarks. **Register runs literary** (Jemisin/Miller/Mitchell/Mandel), not Brown's plain utilitarian delivery — see § *Prose comps* above |
 | **Win condition** | Release + coexistence + grid unowned — not decoded truth alone |
 
-**Do not soft-pedal the conspiracy.** The reader contract matches Dan Brown's *the world I see is a cover* — with a harder, longer, more contested answer. Charkha Measure = present face of recurring control apparatus: torch, trial, asylum, eugenics file, registry, black project, van, clipboard, gene weapon, pair-severance, scientist claiming.
+**Do not soft-pedal the conspiracy.** The reader contract matches Dan Brown's *the world I see is a cover* — with a harder, longer, more contested answer. Charkha = present face of recurring control apparatus: torch, trial, asylum, eugenics file, registry, black project, van, clipboard, gene weapon, pair-severance, scientist claiming.
 
 ---
 
@@ -349,7 +349,7 @@ Every 1–2 chapters: at least one beat where the reader wants to **stay in the 
 | **Opening copy / stranger memory** | Rasel's two-metal wedding ring (*same soil*) | The ring is evidence that a dead father lived. It starts the chase; do not inflate it into proof of both parents or the cosmology. |
 | **Series visual system** | Sanxingdui Bronze Tree | Flagship recurring form for covers, dividers, and marketing (`35` § *Series icon*). It may be abstracted, cropped, or paired with evidence/procedural imagery; it need not be explained in copy. |
 | **Book I visual tension** | Ring / evidence image within the tree-led system | Human proof enters the larger living pattern. Avoid a lone wedding ring that mis-signals a romance novel. |
-| **Book II accent** | Refusal lacuna / worked stone | Volume-specific, subordinate to series design. |
+| **Book II accent** | Folly lacuna / worked stone | Volume-specific, subordinate to series design. |
 | **Book III accent** | The Loop (Incomplete Twin Circles) | Earned after entry; never a first-pitch noun. |
 | **Book IV accent** | Court seal / empty chair / grown corridor | Institutional consequence, not first contact. |
 
@@ -400,7 +400,7 @@ Use with the chapter audit table above. **Pass** = both clocks move; one antagon
 
 | Ch | Clock A (rescue) | Clock B (network / registry) | Antagonist job (present-tense) | Cost → next chapter |
 |----|------------------|------------------------------|--------------------------------|---------------------|
-| 1 | Orphan truth: both alive; Albion/father trail opens | Mandate squeeze; Babaji raid; hearth suspended; Wren attests under watch | Cohort/registry sweep clears the island before Eli's Saturday departure | Because hearth is suspended and Babaji's offices are hit, Ch 2 **must** run Singapore under Wren's papers — no home fallback |
+| 1 | Death file false; both alive at extraction, later fate unknown | Mandate squeeze; Babaji raid; hearth suspended; Wren attests under watch | Cohort/registry sweep clears the island before Eli's Saturday departure | Because hearth is suspended and Babaji's offices are hit, Ch 2 **must** run Singapore under Wren's papers — no home fallback |
 | 2 | Ring on file (*same soil*); Hassan has the band | Circuit soft-hunt; Extra-lane; wage ticket spent; Wren peels off to protect house links | Sora/Custodian soft-hunt at Circuit; intake clerk processes Eli as loose end | Because Hassan takes the ring into the chase, Ch 3 opens with **ring + Hassan lost** and Salmah already exposed |
 | 3 | "I'm not going dark"; Rootbook *name* seed | Salmah's boat seized; platform hospitality burns heat onto local house | Custodians close quarantine tow / reclaim Hassan | Because Salmah and the platform are billed, Ch 4's passage must use **disclosed, bounded** help — no invisible extraction |
 | 4 | North/ping valley trail toward mother-evidence | Wren discloses full route; civic links become visible freight | Inspection/gantry; Custodians a day behind | Because Wren named every stop, Ch 5's coast offer / bait arc can burn **those named people** if they linger |
@@ -421,7 +421,7 @@ Clock A = **find Maren** (parent rescue motor). Clock B = Wren-network / registr
 | Ch | Clock A (rescue / Maren) | Clock B (network / registry / Sol) | Antagonist job | Cost → next |
 |----|--------------------------|-------------------------------------|----------------|-------------|
 | 1 | Westbound clue / Egypt hinge → archive door | Wren bills displacement; usefulness-as-love | Mandate/corridor pressure on exit | Trust taxed into Ch 2 |
-| 2 | Refusal + Maren checksum; Map → Göbekli window | Curator boundary; Wren prioritizes Hassan route | Anika legal hold / outbound route | Anika has the outbound; Ch 3 races a seal |
+| 2 | Folly + Maren checksum; Map → Göbekli window | Curator boundary; Wren prioritizes Hassan route | Anika legal hold / outbound route | Anika has the outbound; Ch 3 races a seal |
 | 3 | Selection scar; Hassan convoy link | People over complete activation record | Consortium seal / security movement | Activation record lost; clinic door opens |
 | 4 | Patient IDs Thrace hold; Hassan alive | Somchai refuses urgency-as-permission | Security wants registered healer | Slower west; rumor begins |
 | 5 | Hassan + ring; Maren alive/wired/no address | Wren refuses mother-chair; clean file temptation | Charkha clipboards / Custodian transfer | Choose Hassan; Pömmelte signature |
@@ -468,11 +468,11 @@ When pitch, comps, or checklist change:
 
 ## Book I — chapter-by-chapter pitch audit (2026-07-25)
 
-Use with `manuscripts/I_The_Breach.md` revision passes. **Pass** = all ten checklist items satisfied or intentionally deferred (Vol I first names the **Charkha Measure** during the Ch 4 Weaver review).
+Use with `manuscripts/I_The_Breach.md` revision passes. **Pass** = all ten checklist items satisfied or intentionally deferred (Vol I first names the **Charkha** during the Ch 4 Weaver review).
 
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
-| 1 | Hour That Belongs to No One | Pelangi → strait | Race buoy; cohort list; brain scanner | Mei vs Eli; Babaji holdout | Orphan truth → departure | Clipboard, cohort, scanner | Wren attests; Mei feeds | Scanner ↔ later Custodians | Timah/fairway (micro) | Hearth suspended; garden; Shireen | Mother/father alive; Albion |
+| 1 | Hour That Belongs to No One | Pelangi → strait | Race buoy; cohort list; brain scanner | Mei vs Eli; Babaji holdout | Ambiguous-loss truth → departure | Clipboard, cohort, scanner | Wren attests; Mei feeds | Scanner ↔ later Custodians | Timah/fairway (micro) | Hearth suspended; garden; Shireen | Alive at extraction; later fate open |
 | 2 | His Hand | Stack → Malacca | Rasel's wedding ring: *same soil*; Extra-lane sign | Clerk vs system; Hassan vs ring | Ring → chandlery same ch | Arch, file, lower concourse | Wren, clerk, unsponsored tradesman | Same door × cities | Cube Circuit | Wage ticket spent; presumed danger witnessed | Rasel alive on file → Malacca |
 | 3 | What Didn't Die | Platform → inland | Rootbook *name* index | Eli's leap vs provisional record | Wafer opens *name* | Custodians named; quarantine tow | Wren, platform keeper, Babaji note | Scanner rhyme explicit | — | Salmah boat; local hospitality exposed | Not going dark |
 | 4 | The Passage | Depot → river | Signed placement; disclosed route | Bounded help vs ownership | Route consent seeds | Gantry; inspection; van | Wren/Pak Din/local houses | Registry trap shape | Bioluminescence (free) | Civic links exposed | Wren's duty not claim |
@@ -509,7 +509,7 @@ custody chain; Maren's Rootbook index opens; pattern conspiracy felt, apex not d
 ### Cold-read verdict on Ch 1–3 (the original concern)
 
 Ch 1 is pure home/harbor/orphan-truth — no ring, no faction vocabulary, just
-the race, Mei's terrace, and the reveal that both parents are alive. Ch 2
+the race, Mei's terrace, and the reveal that both parents survived the extraction night. Ch 2
 delivers the ring proof early and viscerally (*same soil*, the evidence-tray
 photograph) and spends the rest of the chapter on the Singapore screening
 arch and the Cube chase — pursuit begins immediately after the proof, exactly
@@ -581,12 +581,12 @@ Use with `32_volume_II_beatsheet.md` when outlining or drafting. **Pass** = all 
 | 3 | What They Took | Holding site + record | Rasel's ring; Maren's hidden index; damaged western chart | Person vs evidence; keeper song vs file | Midpoint: tether not address → Ch 7 | Charkha clipboards; courteous suppression | Hassan first-person; Sora leak (off-page) | Registry father-above vs hand-to-hand | — | Mother complicity; partial record lost | Find mother → **release** |
 | 4 | Healer's Kneel | Medical corridor (Somchai→Eli) | Triage table; declined crown | Healer vs pilgrims vs Sol mirror | Rumor outruns → Vol III | Media/faction recruiters | Somchai; Sol establishing pass | Gabriel annunciation after the hard no | — | Route narrows; stabilized liability | Stay a body among bodies |
 | 5 | Changing Map | Europe; Wren→Eli | Pömmelte shafts; pew geometry; Extra settlement | Rootbook kin wrong → corrected; person vs rejected status | Pömmelte mark → Ch 6 sound route | Holt/Khan clerk; **Albion rename**; dependency-transfer files | Rowan entrance; Extra missing man; Sol recruiters | Church drain; Charkha A/B scripts | Pömmelte horror awe before inference | Network route burned | Return person, not category |
-| 6 | Riddling Node | Rollright → Anglesey detour | Hawthorn bend; rowan branches; bitter cup | Rowan *completed route ≠ returned person* vs Wren iron | Anthea/Lira → Stonehenge ground | Changeling record (dual truth) | Keeper fairy-doctor; Cuno edge | Alba/Albion/Sídhe dual register | Mound crossing breath before iron | Anthea killed; Lira carried song | Hold thread without owning |
+| 6 | Riddling Node | Rollright → Delphi detour | Hawthorn bend; rowan branches; Delphic Games / Laurel Cube contact | Rowan *completed route ≠ returned person* vs Wren iron | Anthea/Lira → Stonehenge ground | Changeling record (dual truth) | Keeper fairy-doctor; Cuno edge | Alba/Albion/Sídhe dual register | Mound crossing breath before iron | Anthea killed; Lira carried song | Hold thread without owning |
 | 9–10 | Transmission Station / Release | Stonehenge station → Avebury | Cuno routing record; six bounded artifact-wisdoms; inhabited ring | Provenance vs one command; release not acquisition | **Vol II close** — awakening spreads | England ambush instrumented; Deiwos route | Wren/Rowan/Eli plural V denouement | Seizure strips names from routes | Stonehenge weather **before** ambush | Maren release; healer nearly conscripted | Reach endpoint; **free her** |
 
 ### Book II clue-chain spine (pitch-facing)
 
-Anatolia corridor → **Bosporus/Thrace transfer** → holding-site record (Ch 3) → Europe dead zones → **Pömmelte** → broken-line church → **Rollright/Men-an-Tol** → **Anglesey bitter cup** → **Stonehenge transmission station** → **Avebury release**. Artifacts: map fragment, ring, Rootbook kin branch, registry marks, holed stone. Full beats: `32`; artifacts `35`; Rootbook `52`.
+Anatolia corridor → **Bosporus/Thrace transfer** → holding-site record (Ch 3) → Europe dead zones → **Pömmelte** → broken-line church → **Rollright/Men-an-Tol** → **Delphi / Delphic Games** → **Stonehenge transmission station** → **Avebury release**. Artifacts: map fragment, ring, Rootbook kin branch, registry marks, holed stone. Full beats: `32`; artifacts `35`; Rootbook `52`.
 
 ### Book II chapter-end hooks (drafting obligation)
 
@@ -710,22 +710,45 @@ Albion → Brazilian river-port reception → **intake harm (Ch 3)** → transna
 - **Messianic rule:** show kneel reflex **working** (`33` lock) — win is **re-teach deiwos + step-down**, not deny signs.
 - **Rasel consequence:** give him an independent Book III stake and conflict; do not repeat the rescue already completed at Sanxingdui.
 
-**Vol III close — CLIMAX + HUNGER REVISED 2026-08-07:** coexistence survives
-real failure; bounded authority is offered an exit but the handover is
-**incomplete** — the compact fractures under war pressure. Eli holds emergency
-power; the institutions are too damaged to receive a clean transfer. Readers
-receive uncertainty from the civic failure, then hunger from the work of
-reconstruction that passes to Book IV. Complex-time verification supports a
-narrow ceasefire process; war remains an unresolved human condition. Book IV
-opens on that wreckage and tests whether the broken compact can be rebuilt
-better than before, not because it never fractured, but because the
-reconstruction is voluntary and reviewable.
+**Vol III close — CLIMAX + HUNGER REVISED 2026-08-09:** coexistence survives
+real failure; bounded authority is offered an exit and Eli takes it for real —
+a genuine transfer, in one hall, under real threat, and the room continues
+without him. The wider claim that win implies is **incomplete**: Continuity
+keys, factional mandate, and private force outside that room stay live and
+unresolved, so the interregional compact the war seemed to secure was never
+actually intact everywhere. Readers receive a real civic win alongside Eli,
+then hunger from the work of building that compact out to true scale in
+Book IV. Complex-time verification supports a narrow ceasefire process; war
+remains an unresolved human condition. Book IV opens on the discovery of how
+much of the wider compact was never actually there, and tests whether it can
+be built out to the scale it never reached, not because Book III's own
+transfer failed, but because the reconstruction is voluntary and reviewable.
 
 ---
 
 ## Book III–IV — delivered-prose spot-check (2026-08-01)
 
-> Requested check on whether `manuscripts/III_The_Living_World.md` (10 ch,
+> **Superseded note — 2026-08-09:** this section predates the Book III
+> endgame revision and its open "author decision" below (~line 839, whether
+> Book III's handover really was uncontested) has since been resolved.
+> **Answer: yes — uncontested, and it stays that way.** Eli's own handover in
+> Ch 9–10 really is peaceful, really is uncontested, and really completes on
+> the page: he signs away his own authority in one hall, under real threat,
+> and the room continues without him. That personal win is not partial, not
+> faked, and not later revealed as an illusion. What was never tested at Ch
+> 9–10 is the *wider* claim that win seemed to imply — an interregional
+> compact spanning every fractured region, Sol-adjacent private force, and
+> dormant Continuity credentials held by other actors never in that room.
+> That gap is invisible on the page at the end of Book III and surfaces only
+> when Book IV's Lean Year hits it. No mechanical fix or rewritten callback
+> is needed: Book IV Ch 1's echo of "this is what slow government looks like"
+> still works, because it is contrasting a real (if narrower) civic win
+> against a wider systemic test that win never claimed to pass. Current
+> canon: `33_volume_III_beatsheet.md` § `BOOK III ENDGAME` /
+> `HERO SURFACE` / `CLIMAX STAGING` locks; `49_machiavelli_toolkit.md` §
+> "Proven for the person, untested for the system."
+
+> Requested check on whether `manuscripts/III_The_Compact.md` (10 ch,
 > ~6,000 lines) and `manuscripts/IV_The_Court_of_Threads.md` (10 ch, ~5,465
 > lines) still need drafting, or whether the existing prose already holds up
 > the way Book II did. **This is a spot-check, not a full chapter-by-chapter
@@ -741,7 +764,7 @@ reconstruction is voluntary and reviewable.
 
 ### Finding — Book III Ch 1–6 are self-labeled quarry, still unreconciled
 
-`manuscripts/III_The_Living_World.md` opens with its own governing note:
+`manuscripts/III_The_Compact.md` opens with its own governing note:
 Chapters 1–6 "retain the superseded Pelangi/San Francisco/Washington staging
 and [are] quarry for the geographic rewrite, not canon on location or local
 authority" — the 2026-08-01 lock instead requires Albion → Brazilian
@@ -769,7 +792,7 @@ the customs square at low tide; San Francisco/Washington remain reachable only
 by delegate/feed. One named local character added (Dona Iracema, a market
 elder, alongside Amina Cole) — a later pass could still deepen local Brazilian
 institutional voice further. Full change log: manuscript header note at the
-top of `III_The_Living_World.md`; checklist: `100_production_todo.md` §
+top of `III_The_Compact.md`; checklist: `100_production_todo.md` §
 *Book III*. **Eagle–Condor — written 2026-08-01**, in Ch 6 ("The Compact")
 rather than Ch 4 as the outline originally assigned: the compact-drafting
 room is where the assembly is actually naming what it's building, which is
@@ -783,7 +806,7 @@ as confirmed destined unity ("ONE PEOPLE, ONE SKY, ONE HOUR") and is shown
 doing so opportunistically, not validated. The scribe enters it as testimony,
 not doctrine; both delegates' concrete asks (water authority; a non-shared
 seat) go into the purpose clause as named conditions, not adopted metaphor.
-No bird appears on the page. Full text: `manuscripts/III_The_Living_World.md`
+No bird appears on the page. Full text: `manuscripts/III_The_Compact.md`
 Ch 6; header note and `100_production_todo.md` § *Book III* updated to match.
 
 ### Antagonist texture shifts register — not a gap

@@ -27,7 +27,7 @@ must remain alive through varied genre engines and ordinary human texture:
 
 - Book I is a conspiracy adventure and family thriller.
 - Book II is a descent, haunted-archaeology, first-contact, and release story.
-- Book III is a war epic in which the decentralized compact fractures under military pressure; Eli accepts a narrow wartime mandate, wins battles and saves people, but the first relinquishment is incomplete because the compact no longer exists intact.
+- Book III is a war epic in which Eli accepts a narrow wartime mandate, wins battles, saves people, and completes a real relinquishment in the room where it happens — but the first relinquishment is incomplete because the wider interregional compact that win seemed to prove was never actually intact outside that room.
 - Book IV is the reconstruction of that compact under scarcity: a material survival crisis, romance, and construction of a livable future — this time from a position of proven voluntary choice, not fractured necessity.
 
 Characters must not become theme labels: Maren is not merely complicity, Rasel
@@ -65,8 +65,8 @@ If a scene fulfills none of these contracts, cut it or move it to a companion.
 |---|---|---|---|---|
 | I — *The Breach* | Is the buried system real, and can Eli recover his father? | A clean machine record and institutional access will make Eli whole. | At Sanxingdui the distributed Tree of Life proves real; Eli chooses living relationship over a controllable interface. | Rasel recovered; nobody captured — Wren displaced, Qiao's clearance lost; Maren's complicity disclosed. |
 | II — *The Descent* | Did Maren betray Eli, and can she be recovered? | Rescue means retrieving and preserving her. | Göbekli reveals contact becoming control; Maren helped build the apparatus, resisted it, and must be released rather than kept useful. | Eli frees his mother without requiring her innocence or continued availability. Awakening spreads. |
-|| III — *The Living World* | Who may govern dangerous awakened capacity? | Safety requires a registry, army, savior, or permanent center. | The compact fractures under war pressure; Eli accepts bounded wartime command and wins battles, but the first relinquishment is incomplete because the compact no longer exists intact. | Eli holds emergency power; the institutions are too damaged to receive a clean handover; the work of reconstruction passes to Book IV. |
-|| IV — *The Court of Threads* | Can a broken compact be rebuilt better than before? | Reconstruction requires the same strongman; permanent emergency rule is the only reliable answer. | Under Lean Year scarcity, the rebuilt compact proves that decentralized governance can survive both war and material crisis — not because it never fractured, but because the reconstruction is voluntary and reviewable. | Eli relinquishes a second and final time during Rowan's labor; the child inherits no crown; the network continues without him. |
+|| III — *The Compact* | Who may govern dangerous awakened capacity? | Safety requires a registry, army, savior, or permanent center. | Eli accepts bounded wartime command, wins battles, and completes a real relinquishment in one hall, under real threat — but the first relinquishment is incomplete because the wider interregional compact that win seemed to prove was never actually intact outside that room. | Eli's own handover is whole and he steps back into private life; Continuity keys, factional mandate, and private force outside the signed compact remain live and unresolved |ctional mandate, and private force outside that room stay live and unresolved; the work of discovering and building out the wider compact passes to Book IV. |
+|| IV — *The Court of Threads* | Can a compact that looked whole be built out at the scale it was never actually built to? | Reconstruction requires the same strongman; permanent emergency rule is the only reliable answer. | Under Lean Year scarcity, the compact is built out at true interregional scale — not because it was never real, but because it was real only in the room that watched it happen, and the build-out is voluntary and reviewable. | Eli relinquishes a second and final time during Rowan's labor; the child inherits no crown; the network continues without him. |
 
 ## The revelation rule
 
@@ -81,7 +81,7 @@ A revelation earns its place only if it does at least two of the following:
 
 ### Required reversals
 
-- **Orphan:** both parents dead → both taken alive.
+- **Orphan:** both parents dead → alive at extraction, later fate unknown → Rasel current in Thailand → Maren recently alive, present condition unknown.
 - **Victims:** parents stolen for what they knew → at least Maren helped build early tools before resisting.
 - **Mandate hunt:** Rasel's state pursues loose ends → the Charkha is wearing the Mandate's face.
 - **Courier:** Wren is a paid handler → she is an independent extractor protecting a larger network.

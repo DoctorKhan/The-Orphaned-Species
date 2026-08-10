@@ -33,7 +33,7 @@
 
 ### Gesture 3 — Body→Civilization
 **Chapter:** Eli's first encounter with the Union registry / Maren's file.
-**What crosses:** Eli's somatic signatures (T2: his actual felt body) meet the Union's clinical file (T1a: assigned sector / claim category). The file calls him psion; his body calls itself hungry and tired.
+**What crosses:** Eli's trajectory sense (T2: his actual felt body) meets the Union's clinical file (T1a: assigned sector / claim category). The file calls him psion; his body calls itself hungry and tired.
 **Check:** the body read contradicts the file read. The reader must feel that the body is the more reliable source, without the book saying so explicitly.
 
 ---
@@ -59,7 +59,7 @@
 
 ---
 
-## Vol III — *The Living World* — Three-Circle Gestures
+## Vol III — *The Compact* — Three-Circle Gestures
 
 **Arc task:** all three circles held simultaneously; the compact is the social form that makes this legible.
 

@@ -106,7 +106,7 @@ Energy moves **along the broken route through the building** — parishioners ar
 
 - **Plants** — bare soil, stunted nothing, a wedge or band where seed won't take though water and sun are fine next door.
 - **Animals** — won't graze, won't nest, won't cross; birds arc around; dogs refuse the path; old herders and fishers have names for the bad patch.
-- **Body** — Eli's somatic read: **cold / flat / depletion** (not the tingle of a break, not the hum of a charged ground).
+- **Body** — Eli's trajectory read: **cold / flat / depletion** (not the tingle of a break, not the hum of a charged ground).
 
 **Three ground states (author — teach by contrast, never as lecture):**
 
@@ -123,7 +123,7 @@ Energy moves **along the broken route through the building** — parishioners ar
 | Actor | Method | Story use |
 |---|---|---|
 | **Ancient control / abandonment** | Decommission interfaces (bury pillars); **herem**-logic; Younger Dryas grid fracture | Deep-time rhyme; cargo cult on dead hardware |
-| **Present psion teams** (Custodians, national programs, Charkha Measure, mercenary cells) | **Scour** — sustained Lance/team work on a conductor choke point; instruments + signatures; sometimes conventional demolition on stone | Deny rivals a route; hide a tether; force detours into ambush |
+| **Present psion teams** (Custodians, national programs, Charkha, mercenary cells) | **Scour** — sustained Lance/team work on a conductor choke point; instruments + signatures; sometimes conventional demolition on stone | Deny rivals a route; hide a tether; force detours into ambush |
 | **Bad psion targeting** | Attack **forming lines** (Vol I rice community), **witness sites**, **charged grounds**, **maritime choke points**, **approaches to Albion** | Eli walks into fights that started before him; maps show scars |
 
 **Craft locks:**
@@ -185,7 +185,7 @@ The westward trail does not end with an etymological “elf” click. In Ireland
 
 ## The psionic war across the route
 
-The conventional/cyber world war has a covert psionic theater. Countries and allied blocs field small teams of psions against foreign teams, while contractors, the Charkha Measure, independent defense cells, and mercenary groups operate between jurisdictions. These groups do not merely hunt Eli; they attack one another over carriers, ley routes, new crop formations, archives, and stone interfaces. Eli repeatedly enters conflicts that began before anyone knew he existed.
+The conventional/cyber world war has a covert psionic theater. Countries and allied blocs field small teams of psions against foreign teams, while contractors, the Charkha, independent defense cells, and mercenary groups operate between jurisdictions. These groups do not merely hunt Eli; they attack one another over carriers, ley routes, new crop formations, archives, and stone interfaces. Eli repeatedly enters conflicts that began before anyone knew he existed.
 
 **Why teams matter:** a coordinated group can hold attention, probe, shield, misdirect, or overwhelm more effectively than a lone psion. Their attacks work through intrusion and disrupted agency—fear, false memory, dream penetration, sensory flooding, forced identification, loss of group coherence, or the marking of a target for physical capture. Severe attacks can injure the body, but the action should never become people throwing luminous energy. Every psionic operation remains joined to ordinary intelligence work, transport, weapons, medicine, and human betrayal.
 
@@ -252,7 +252,7 @@ Humanity, mostly, invented a parent. The pattern to dramatize — quietly, era a
 
 Why does it tend to collapse the same way? Because **humans are, developmentally, child-like** — and a frightened child wants a parent more than it wants to be free. In this reading the father-god is less a discovery about the universe than a projection of the orphan's own unfinished childhood. Submission feels like safety. Obedience feels like love. It's a comfortable trap, which is part of why it holds.
 
-The Seven quietly cut against it. Each is offered the father — a priest, a lord, a cult, an authority that says *kneel and I will keep you* — and each, instead of submitting, **develops a capacity of their own.** Breath. Healing. Dream. Song. They grow up. In the present these capacities recur unevenly across different people: Eli has breadth of reception (diagnostic reading, **not** healing); another person is the healer, holding all bodily repair. The alternative on offer here is not a better father, a truer religion, or an all-capable hero, but the end of needing one: stop looking up for a parent, start developing and sharing what no authority can own.
+The Seven quietly cut against it. Each is offered the father — a priest, a lord, a cult, an authority that says *kneel and I will keep you* — and each, instead of submitting, **develops a capacity of their own.** Breath. Healing. Dream. Song. They grow up. In the present these capacities recur unevenly across different people: Eli has breadth of trajectory reception (**not** diagnostic reading, **not** healing); Somchai Vichai holds the somatic diagnostic read and all bodily repair. The alternative on offer here is not a better father, a truer religion, or an all-capable hero, but the end of needing one: stop looking up for a parent, start developing and sharing what no authority can own.
 
 The boy carries this in miniature: literally orphaned (grandfather dead, village burned, gods long gone), sitting in the dark, deciding. The cave does not give him a father. It gives him partial contact with strangers who refused to need one. Whether the orphan finally raises itself is one of the questions the ending leaves open.
 

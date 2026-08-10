@@ -12,7 +12,7 @@ A resonance point is an object, sound, or gesture that **recurs across eras whil
 
 - **Eli and Aedan are different people.** Aedan is the Bronze-Age cave-boy, an early deep-time receiver — **he does not route the cosmology to Eli**. Eli is a border-raised survivor whose present story opens in Malacca after a Pelangi Reach refuge, the rare receiver who can clarify the deep web most fully. No soul-name or incarnation link joins them.
 - **The deep threads surface first as intrusions in Eli's present.** Wrong reads in the garden, the half-remembered tune, old sounds, a pull toward stone, and surge-certainty are receiver symptoms (the web not yet clarified), not proof of ancestry.
-- **The practices are not an unlock tree.** Eli's unusual trait is breadth of reception — how much of the web he can clarify. He is **not** a healer: his palms *read* bodies, they do not repair them (all healing is the present-day healer's), and creative transmission grows from an ordinary craft seeded before the breach.
+- The practices are not an unlock tree. Eli's unusual trait is breadth of trajectory reception — how much of the web he can clarify at once. He is **not** a healer and **not** a body-reader: his receiver reads the vector of systems, fields, and movements; Somchai Vichai holds the somatic diagnostic lane and all repair.
 - **The cave-as-nervous-system belongs to Aedan's own deep-time arc.** When Eli later clarifies that thread (and the others), he must identify which historical person a fragment belongs to.
 - **The Modern Child is a coda/echo, not the trunk.** If retained, the child receives the carriers with their meanings stripped off after Eli has made them legible to the reader. The child is the book's open door into the reader's world, not the main decoder.
 
@@ -60,20 +60,20 @@ The rattle is not precognition. The surge is not released rattle-charge. The sam
 
 ---
 
-## Carrier 3 — Somatic signatures *(the diagnostic spine)*
+## Carrier 3 — Somatic signatures (Somchai's diagnostic lane)
 
-The load-bearing through-line: **field-read through nerves and palms** — distinct felt signatures that map (imperfectly) to conditions. **Not** generic warm hands. **Aedan = "ember / little fire"** names the cave-boy only; present-day Eli reads signatures, he does not radiate healing heat.
+The load-bearing through-line: **field-read through nerves and palms** — distinct felt signatures that map (imperfectly) to conditions. **Not** generic warm hands. **Aedan = "ember / little fire"** names the cave-boy only; **present-day Somchai reads signatures diagnostically** — heat, tingling, pressure, cold — and he repairs; Eli does neither.
 
 | Era | Chapter | Beat | Meaning |
 |---|---|---|---|
 | The cave | 5 | The dragons' stillness radiates *heat*, and a voiceless voice (infrasound felt as thought) | the un-engineered original — biology that grew the capacity instead of having it installed |
 | Göbekli burial | 11 (Daskar) | The buried pillars read *warm* under Daskar's palms; he can feel a **fever (heat-signature)** through a wall | the instrument is alive; **heat = viral/inflammatory read** |
-| Early agriculture | 12 (Ila) | Ila's hands read **heat** (virus/fever), **tingling** (bacteria/nerve), **pressure/pulse** (blockage), **cold** (depletion) above a body | the diagnostic conduit — signatures as a sense |
+| Early agriculture | 12 (Ila) | Ila's hands read **heat** (virus/fever), **tingling** (bacteria/nerve), **pressure/pulse** (blockage), **cold** (depletion) above a body | the diagnostic conduit — signatures as a sense; keeper of the lane |
 | Aedan's deep-time arc (10–16) | — | Echoes accumulate; by 15–16 the granary **line/instrument** reads live under contact | receiver embodiment without becoming sources |
 | Return | 17 (Aedan) | The granary stone reads warm under him as under Daskar — *ember* as kept receiver, not palm-heating | instrument + song, not magic body heat |
-| Eli's present | family attack → Pelangi Reach → Malacca onward | Mixed idle signatures; trauma and TBI add **tingling noise**; after Ila-contact he can sometimes **read pressure at a bleed** — locate and sense the injury — frightened, limited; the repair is never his | reception → one correct read, not supremacy |
-| Present healer | family attack → Volume II return | medically trained; same signature language with **sustained repair depth** | depth belongs to another practitioner |
-| Coda / open door | Modern Child, if retained | The child's palms **tingle or heat** when the grandmother is sick — unbidden read | capacity surfaces beyond one line |
+| Eli's present | family attack → Pelangi Reach → Malacca onward | No diagnostic body-read. His receiver is trajectory-only: he reads the vector of systems, fields, and movements — the charge pattern of a living system, the direction a dyke will breach, the timing of a conversation or a military column. Trauma and TBI add **tingling noise** in dreams and under accumulation, but he does not read pressure at a bleed; that lane belongs to Somchai | trajectory read, not somatic diagnosis |
+| Present healer | family attack → Volume II return | medically trained; same signature language with **sustained repair depth** | depth belongs to Somchai |
+| Coda / open door | Modern Child, if retained | The child's palms **tingle or heat** when the grandmother is sick — unbidden read | capacity surfaces beyond one line; can be Somchai's grandchild or Eli's, not diagnostic repair |
 
 **Arc:** instrument heat → diagnostic taxonomy → receiver read → present activation flare + limited stabilization. **Warmth in prose** names **one signature type (viral heat)**, not the whole gift. Activation/light-up is the detectable psi event.
 
@@ -128,7 +128,7 @@ The strongest move available: **collapse Carrier 1 and Carrier 2 into one decode
 - **Aru / ch10:** the reader sees the spiral (form, no meaning).
 - **Anthea:** a separate person sings the chord; a reader who clocked the spiral realizes the carving may be notation (meaning), without requiring descent.
 - **Cave-boy return / local ch17:** Aedan sings it and the stone **reads live** — the reader learns what it was *for* (function).
-- **Present climax:** Eli uses the same relationship among mark, sound, and **body-read** without needing the machine, then translates it into a form others can carry; the healer sustains bodies through the cost — the reader learns why the factions needed both knowledge and cooperation buried.
+- **Present climax:** Eli uses the same relationship among mark, sound, and **trajectory-read** without needing the machine, then translates it into a form others can carry; Somchai sustains bodies through the cost — the reader learns why the factions needed both knowledge and cooperation buried.
 
 One object, three reveals, ten thousand years apart — form, then meaning, then function. This is the rhyme doing structural work instead of ornament.
 
@@ -149,5 +149,5 @@ All carriers land on **three terminal beats**, which is what makes the ending fe
 1. **Form survives, meaning moves.** If the meaning is the same in every era, it's a motif, not a resonance point — cut it or give it an inversion.
 2. **Plant blind, pay off late.** Introduce the form before its meaning (the chord in ch2, the spiral in ch10). The recognition should reward a reread.
 3. **Surface in Eli, act in Eli, echo beyond Eli.** A carrier earns the ending by becoming usable in the present climax and, if the Modern Child coda remains, arriving there again without its meaning.
-4. **Keep somatic signatures primary.** Other carriers braid *with* the diagnostic read (heat/tingling/pressure/cold), not compete. **Deprecated:** generic always-warm healing hands.
+- **Carrier 3 — Somatic signatures.** Somchai's diagnostic read — heat/tingling/pressure/cold — is the felt bridge. It braids with Eli's trajectory sense, not competes. **Deprecated:** generic always-warm healing hands or Eli reading bodies.
 5. **Don't let Eli or Aedan over-explain the rhyme.** Each sees and carries a different amount; the reader decodes. The moment a character explains the rhyme, it stops resonating and starts lecturing.

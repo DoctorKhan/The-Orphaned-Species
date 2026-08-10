@@ -1,6 +1,6 @@
 # Somatic Signatures — Motif & Payoff Chain
 
-*(File legacy name: `32_the_warm_hands.md`. **Deprecated:** generic "always warm hands" / healing heat. **Locked:** **somatic signatures** read through nerves and palms — diagnostic, not mystical. **Eli is NOT a healer** — his gift is *diagnostic reading only* (he perceives conditions, never repairs them); all extraordinary bodily repair belongs to the present-day energetic healer, **Somchai Vichai, a nurse and field medic**.)*
+*(File legacy name: `32_the_warm_hands.md`. **Deprecated:** generic "always warm hands" / healing heat. **Locked:** **somatic signatures** read through nerves and palms — diagnostic, not mystical. **Somchai Vichai, nurse and field medic, holds this lane:** his gift is the diagnostic read (heat/tingling/pressure/cold) plus sustained energetic repair. **Eli is NOT a healer and does not read bodies** — his receiver is trajectory-only: he reads the vector of systems, fields, and movements through the web.)*
 
 *The load-bearing physical detail in the series, tracked in one place. Companion to `39_psion_biology.md` § Somatic signatures, `20_resonance_points.md` Carrier 3, `99_open_questions.md` #1.*
 

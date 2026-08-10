@@ -12,6 +12,7 @@
 |---|---|
 | **Pitch, comps, back-cover, clue-chain gate** | **`55_series_pitch_and_comps.md`** — **HIGH PRIORITY** |
 | Drafting prose / scene tone | `14_literary_speculative_thriller_style_guide.md` first; then `21_present_day_street_skin.md` + `23_2040_present_frame.md` |
+| Entropic allocation / industrial privacy / living budgets | `64_entropic_allocator_perimeters.md` — governing perimeter, EEU, audit, buffer, Bourse, and bloc rules |
 | Choosing or switching viewpoint | `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED* |
 | Placing a character in a scene | `26_present_day_cast_expanded.md` (includes **past** layers) |
 | Tracking growth across a volume | `27_character_development_arcs.md` |
@@ -72,6 +73,12 @@
 
 ### `23_2040_present_frame.md` **LOCKED (author assumption)**
 Story set **~2040** (default); optional author range **~2040–2042** for publication drift — **never on-page year.** Macro timeline 2026→2040+: war, contained outbreak, psion programs, tech texture, **robotics scarcity / humanoid rare**, geography notes, prose markers.
+
+### `64_entropic_allocator_perimeters.md` **GOVERNING LOCK 2026-08-09**
+The 2040 allocator regulates registered perimeters and includes life in
+multidimensional EEU profiles. Governs boundary sensors, industrial privacy,
+stored liabilities, bonded interconnects, physical limiters, ZKP audits,
+Metrology Temples, the Bourse, perimeter ghosting, and bloc capture.
 
 ### `56_future_conflicts_atlas.md` **LOCKED 2026-07-26**
 Six conflict registers (ecological → technological), sorting machine (racism×class×immigration), bloc fragility, series escalation timeline, good-vs-good collisions, staging scene bank. Companion to `23`; pressure map for drafting.

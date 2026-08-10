@@ -47,7 +47,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **The deep-time child / Modern Child** | `37_deep_time_source.md` | Open-door echo | Optional 3-beat device: opening seed, waking signal against Adapa, final echo. Coda-shaped, not plot-bearing. | I / II / III |
 | **Pai dragon-staff motif** | `37_deep_time_source.md` | Motif / character | Girl in jester dragondancer costume; Eli encounters the dragon first as playful human art, not doctrine or omen. Gives the dragon side of the Double-Fork Stone a remembered, human-scale feel. | I |
 | **Cuno's incomplete transmission** | `37_deep_time_source.md` | Deep web-structure (Albion) | Geometry + rhythm + body positions + spoken fragment; lossy; Eli must rediscover in the present. | III |
-| **The living network** | `23_40_concepts.md` §Stage 3 | Plot/testament | Discovered through adventure, not doctrine: altered plant growth → conductor → crop formation → stone deflection → collective resonance. | I–III |
+| **The living network** | `40_concepts.md` §Stage 3 | Plot/testament | Discovered through adventure, not doctrine: altered plant growth → conductor → crop formation → stone deflection → collective resonance. | I–III |
 
 ---
 
@@ -232,9 +232,9 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 ---
 
-## Volume III — *The Living World* — Chapter map
+## Volume III — *The Compact* — Chapter map
 
-**Published title:** The Orphaned Species: The Living World
+**Published title:** The Orphaned Species: The Compact
 **Internal movement:** Choice
 **Reader-experience function:** Book III — Civilization, species, and coexistence
 **Dramatic question:** Can free communities protect people from dangerous capacity without turning capacity into an owned identity?
@@ -298,7 +298,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Tem — The Hidden Son** | Full-res thread | `37` Part III ch 13 | 17:1 bottleneck grain-pit | Dream-walking, telepathy; the grain-pit as first instruction; dream-network rescues unrelated hidden children |
 | **Anthea — Singer of Frequencies** | Full-res thread | `37` Part III ch 14 | Albion resonant-stone | Sonic resonance; song as substance; different notes answer at two ends of a broken route; daughter Lira carries the chord |
 | **Cuno — Bluestone Mover** | Full-res thread | `37` Part III ch 15 | Stonehenge/Albion transmission station | Last forwarding under seizure; Derw gets geometry/artifact signs/routing checksum/witness marks/spoken fragment/object; riders crest the rise |
-| **Lovernios — Druid of Anglesey** | Full-res thread | `37` Part III ch 16 | Anglesey peat-bog / seed-catalog sink | Plant medicine, non-human mind; **Book II Ch 8** — paired with **bitter cup** threshold ceremony (`99` #bitter-cup); follows new growth where old line failed; gives seed-catalog to Nia; unsure it survives |
+| **Laurel Cube / Delphic Games — Wisdom register** | Full-res thread | `37` Part III ch 16 | Delphi / Kastri | Cube-grounded visionary contact, non-human mind; **Book II Ch 4** — paired with **giant face / white markings** somatic imprint (`33` plant-medicine journeys block); wisdom register without cosmology dump; begins hand-movement vocabulary tested later against Heather and Cherry |
 | **Seven Pairs / Activation** | Watched-depth | `37` Part II ch 6 | Buried/coordinated ground (clarified directly) | 0.9 mya Seven Pairs; 17:1 clamp; genetic wall; the Key pulse — science-floor anchor |
 | **Living Gods / War in Heaven** | Watched-depth | `37` Part II chs 7–8 | Dragon-cadence summary ground (clarified directly) | Supervision era; Igigi sabotage; Younger Dryas rupture; planetary network fracture; Tiamat/Marduk |
 | **Adapa** | Watched-depth | `37` Part II ch 9 / `30_beatsheet_ch09_adapa.md` | Persian Gulf / Eridu-flats ground | Centerpiece deep-structure clarification; boy watching himself in pre-cage; loyalty to the lock; the weeper who accepts his own lock gratefully; Qingu-blood encoded as self-justifying story |
@@ -310,13 +310,13 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 
 | Artifact / plot pressure | Volume placement | Chapter marker | What it changes |
 |---|---|---|---|
-| **The Refusal** / Adapa tablet lacuna | I | Ch 12 | Human-Design Triad (1/3); foolable mind; Tree of Life withheld; inward control |
+| **The Folly** / Adapa tablet lacuna | I | Ch 12 | Human-Design Triad (1/3); foolable mind; Tree of Life withheld; inward control |
 | **The Sorting** / Enki and Ninmah role-fragment | I → III | Ch 12 seed; II Ch 3/5; III Ch 2 + late | Human-Design Triad (2/3); not broken; roles/specialties; Umul / The Unplaceable |
 | **The Fade** / Sumerian King List (declining reigns) | I → II | Ch 12 seed; II Ch 3/5 | Human-Design Triad (3/3); mortality memory; contracting reigns |
 | **Three-Circles Tablet** | I | Ch 7 or 11 (physical); Ch 2–3 (vision/aftermath) | Body/Family/Civilization diagnostic |
 | **Double-Fork Stone** | I | Ch 8–9 motif | Bird/dragon and chimpanzee/human as paired sibling divergences; the dragon first seen in play, not omen (Pai motif catalyzes this) |
 | **Sumerian King List** | I–II | later in Vol I or early Vol II | Kingship as transferable administration, not sacred blood; the control system's public face |
-| **The Refusal** / Adapa tablet with lacuna | I | Ch 12 watched-depth clarification | The lock made visible from inside; obedience as cage chosen reasonably |
+| **The Folly** / Adapa tablet with lacuna | I | Ch 12 watched-depth clarification | The lock made visible from inside; obedience as cage chosen reasonably |
 | **Enkidu/Shamhat domestication witness** | II | Vol II Mesopotamian leg | Wildness/food/sex/speech/civilization as argument over whether city-life is rescue, corruption, education, or capture |
 | **Arslan Tash Amulet 1** | II–III | Vol II–III border dispute | Covenant invoking ʿOlam, Asherah, El's sons, great council; authenticity/translation disputes give Wren or a local custodian interpretive agency outside Eli |
 | **Atrahasis / Eridu Flood material** | II | Vol II Mesopotamia | Creation, labor revolt, and catastrophe as layered stories; beyond one clean origin account |

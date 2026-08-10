@@ -85,7 +85,7 @@ This is a **structural overlay**, not a draft checklist. It maps every major mis
 
 ---
 
-### Book III — The Living World [TTM+structural]
+### Book III — The Compact [TTM+structural]
 
 These beats are structurally required and currently missing from the draft.
 

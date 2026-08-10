@@ -105,7 +105,7 @@ In this canon, **life technology** is:
 
 It is a **clock of death**: everything it models runs down, decays, and can be falsified in transmission. That is not evil — it is **accurate within the entropic subset**. The tragedy is when it is mistaken for the **whole** of knowing, or when it is used to **bar, sell, or misname** the Life bridge.
 
-**Embodied automation vs. life — the entropy mistake (author — LOCKED 2026-07-26):** Late-2020s planners, megaproject pitch decks, and public imagination treated **humanoid robotics** as if it scaled like **software** — as if ordered metal bodies could proliferate without paying the **entropy bill**. They did not understand that **death technology never breaks the second law**; it **localizes order temporarily** at the cost of power, heat, wear, precision parts, skilled maintenance, and supply chains. **Only life technology** — living systems, keeper practice, the anti-entropic medium — accesses connection that **replenishes**. Humanoid robots **look like** life; they are **expensive clocks**. That misunderstanding is why ~2040 has **AI everywhere and humanoid robots almost nowhere** (`23` § *Robotics lock*). On-page: show maintenance debt and patched leftovers — not a physics lecture.
+**Embodied automation vs. life — the entropy mistake (author — LOCKED 2026-07-26):** Late-2020s planners, megaproject pitch decks, and public imagination treated **humanoid robotics** as if it scaled like **software** — as if ordered metal bodies could proliferate without paying the **entropy bill**. They did not understand that **death technology never breaks the second law**; it **localizes order temporarily** at the cost of power, heat, wear, precision parts, skilled maintenance, and supply chains. **Only life technology** — living systems, keeper practice, the anti-entropic medium — accesses connection that **replenishes**. Humanoid robots **look like** life; they are **expensive clocks**. That misunderstanding is why ~2040 has **AI everywhere and humanoid robots almost nowhere** (`23` § *Robotics lock*). The civic allocator later includes bodies, farms, and watersheds in multidimensional perimeter budgets without making every burden interchangeable (`64_entropic_allocator_perimeters.md`). On-page: show maintenance debt and patched leftovers — not a physics lecture.
 
 **Terminology rule:** Do **not** call ordinary tech "death technology" on-page until **late** (Vol II–III). Early prose says *technology, instruments, data, registry, equations* — the name lands when the Two Trees split is finally visible. Same for **life technology** as a label: show **signature-reads** and native road first; name sparingly.
 
@@ -119,6 +119,18 @@ It is a **clock of death**: everything it models runs down, decays, and can be f
 > Knowledge disciplined by life; life protected by knowledge.
 
 Death technology **joined to** life technology — instruments and equations **in service of** connection, release, consent, and test — not abolished.
+
+---
+
+## The receiver practice — ADDED 2026-08-09
+
+Eli's trajectory ability is not innate; it is mediated. Maren decoded how the stone tech's psi network works using her own abilities and Rasel's geophysics research. The system she built uses parabolic dishes nested in one another for signal capture, plus brain scanners that monitor his brain-state and feed biofeedback to train his nervous system to decode the web's trajectories. Nothing is implanted; it is all ground-based equipment.
+
+The read arrives as a mixed sense: a bodily signal first — ache, pressure, knot — then a visual fragment or directional knowing. When he pays attention in time, the trajectory comes through clean and there is no discomfort. When charges accumulate because he is not looking, they eventually manifest as psychic pain, knots, or other somatic discomfort — "used-up" life energy. This is the normal cost of avoidance, not of use.
+
+Dreams are the system's offloading mechanism. When the web has accumulated charge he could not metabolize while awake, sleep discharges it as trajectory-laden dreams. The channel is unreliable: some dreams carry real signal, some are just anxiety. The only way to discriminate is through practice.
+
+Eli develops a dream-review practice himself, out of necessity — not a gift from Wren, not inherited from Maren's notes. He keeps a minimal log: dates and fragments only, a calibration log not a diary. This lets him distinguish trajectory signal from discharged life energy. The practice grows in parallel with his meditation. Before his practice solidifies, breaches of accumulated charge produce noise, overwhelm, and false signal all at once. As he improves, the failure modes narrow. By the time he is operating field hospitals in Book III, the read is stable enough to extend through dish rigs.
 
 ---
 
@@ -181,7 +193,7 @@ Present plot discovers **effects** of the field under wartime pressure:
 
 - somatic signatures, growth anomalies, monitored boundaries;
 - psion combat as invasion of attention and biology;
-- healer whose repair gift Eli wholly lacks (Eli reads bodies, cannot mend them);
+- healer whose repair gift Eli wholly lacks (Eli reads trajectories through systems; Somchai reads bodies and repairs);
 - artifacts mistaken for grid keys;
 - charged site as **interface**, not source;
 - mother tether as **life-energy harvest**;
@@ -274,7 +286,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 **Reader end state:** *Native roads work without ownership; the amplifier's captive monopoly can be broken through release; love itself fails when it becomes a tether.*
 
-### Volume III — *The Living World* (reunification becomes civic practice)
+### Volume III — *The Compact* (reunification becomes civic practice)
 
 **Life beats (minimum):**
 

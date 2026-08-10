@@ -25,7 +25,7 @@ The wind shifts. Eli gybes early, takes the wider arc, and lets *Garden* surf do
 
 He wins by a skiff length.
 
-The wager is the Cherry Cube weekend manifest: cash, a worker pass for the Stack intake corridor, and Shireen’s clinic wire. Suresh has held it for three weeks because Eli needed to clear his work record and prove he could handle a Stack shift without drawing attention. The Cube is a choreographed idol show in Meridian City’s underground mall circuit — three days of rehearsals and backstage labor that earns enough to move a small group north. Eli has been planning this escape since before he knew he needed to escape.
+The wager is the Cherry Cube weekend manifest: cash, a worker pass for the Stack intake corridor, and Shireen’s clinic wire. Suresh has held it for three weeks because Eli needed to clear his work record and prove he could handle a Stack shift without drawing attention. The Cube is a choreographed idol show in Singapore’s underground mall circuit — three days of rehearsals and backstage labor that earns enough to move a small group north. Eli has been planning this escape since before he knew he needed to escape.
 
 He ties *Garden* to the public rack at the quay. His hands are shaking. He tells himself it is the cold.
 
@@ -127,7 +127,7 @@ He is not.
 
 The chapter ends with the receiver opening — not with a sound or a light or a voice, but with a sensation like a door unlatching in a room he did not know he had inside him. The grid flares. Somewhere far to the north, a Custodian operation marks his signature and begins to move.
 
-And in a sealed archive in Meridian City, a file opens with his name on it. The file contains a photograph of his father’s hand, the ring, and a single line of text: *Carrier event confirmed. Transfer to primary target.*
+And in a sealed archive in Singapore, a file opens with his name on it. The file contains a photograph of his father’s hand, the ring, and a single line of text: *Carrier event confirmed. Transfer to primary target.*
 
 He does not know any of this. He only knows that the sea is loud and the night is cold and he is finally, truly, on his way.
 

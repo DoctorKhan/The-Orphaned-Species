@@ -8,6 +8,8 @@
 
 **Working names — LOCKED for prose 2026-08-01 pending specialist polish:** Eli privately calls it **the Rootbook**. Maren's cover-title on-page is **শব্দজাল** (*Shabdajal* — Word-Web). Use that Bengali title when a character reads the cover; do not invent alternatives mid-draft. Exact register/diacritics remain open to Bengali-language review, but the working form is fixed so manuscripts stop waiting on TBD.
 
+**Book I custody and reveal — LOCKED 2026-08-10:** The physical journal first appears in Thailand. Maren's field network left it with the cooperative alongside Ila's ground record, and growers added corrections in their own inks. Singapore/Malacca provides seven damaged archive images before Eli sees the book. After the Thai evacuation, Malai authorizes transport north under the cooperative seal because continued storage now endangers the pump house. The cooperative retains ownership of its pages, keeps copies, and requires later corrections to return. Eli's private name for the journal grants him no title to it.
+
 ## What the journal is
 
 Maren did not create the knowledge alone. The journal assembles her own consciousness and field research with contributions, citations, corrections, rubbings, transcriptions, measurements, and disagreements from linguists, growers, clinicians, custodians, local historians, and other subjects or collaborators. Different hands remain visible. Eli eventually learns that some people named in it paid for Maren's delay in breaking with Lang's program.
@@ -80,10 +82,12 @@ Eli reaches Sanxingdui in late Book I because the northbound route, Anika's true
 ### Book I — names and steps
 
 - The Pelangi Reach Mandate squeeze and ring photograph remain the inciting displacement; the journal does **not** replace them.
-- Hassan's Malacca testimony or packet establishes that Maren kept a comparative field book and points toward a recoverable portion of it.
-- Eli obtains damaged physical pages, a suppressed scan, or both only after the human stakes are established.
+- A Singapore archive leak routed through the Malacca escape establishes that Maren kept a comparative field book. Seven damaged images reveal the **name** index after the human stakes are established.
+- The Thai cooperative holds the physical *Shabdajal*. Its local annotations establish that Maren's journal was already collaborative work before Eli touched it.
+- The cooperative reveals the book after the evacuation and grants bounded transport custody. Its pages do not become family property.
 - The **name** constellation exposes the journal's first index and gives Eli a personal message without announcing the cosmology.
-- A **foot/step** correspondence helps identify one next testable movement, but instrument data, witnesses, local knowledge, and enemy action continue to move the route.
+- Kitt's fork map wakes a conservation citation and a four-day-old maintenance handshake signed with Rasel's initials and watering count. This is the first current evidence that Rasel survived captivity; Sanxingdui still must authenticate the receipt and the man.
+- A **foot/step** correspondence helps identify one next testable movement, while instrument data and local knowledge continue to move the route.
 - Book I ends with the book proven to be a research concordance connected to the charged grounds, not a message from an omniscient mother.
 
 Possible first personal line, subject to prose revision:

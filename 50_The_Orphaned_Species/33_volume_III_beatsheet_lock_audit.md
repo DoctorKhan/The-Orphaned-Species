@@ -1,9 +1,11 @@
 # Book III Beatsheet — Lock Audit
 *Generated from on-disk files. Do not edit by hand; rerun audit instead.*
 
+> **SUPERSEDED 2026-08-08 — rerun needed.** Generated 2026-08-04, before the Book III endgame revision (2026-08-07) and the personal/systemic relinquishment synthesis (2026-08-08). This report's ending-related rows (e.g. "Book III ends at handover") and the Chapter 10 status row no longer reflect current canon: Eli's own relinquishment completes for real, but the wider interregional compact was never secured beyond that room, and the gap surfaces only in Book IV. See `33_volume_III_beatsheet.md` § *BOOK III ENDGAME* and `49_machiavelli_toolkit.md` § *Proven for the person, untested for the system* for current canon. Treat everything below as a stale snapshot until the audit is regenerated.
+
 ## Source sizes
 - `50_The_Orphaned_Species/33_volume_III_beatsheet.md` = **116,007 bytes / 550 lines**
-- `50_The_Orphaned_Species/manuscripts/III_The_Living_World.md` = **161,080 bytes / 6,185 lines**
+- `50_The_Orphaned_Species/manuscripts/III_The_Compact.md` = **161,080 bytes / 6,185 lines**
 
 ## Mandated-beat coverage
 

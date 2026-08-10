@@ -1,13 +1,18 @@
 # Volume IV — *The Court of Threads* — Architecture Lock
 
-> **STATUS — REVISED 2026-08-07:** The series is a four-volume arc. Book III
-> ends with Eli holding emergency wartime power and the institutions too
-> damaged to receive a clean handover — the first relinquishment is
-> **incomplete**, not because Eli refused it, but because the compact it
-> required fractured under military pressure. Book IV opens on that wreckage:
-> a war-damaged world in which the decentralized compact cannot be restored
-> by declaration. The **Lean Year** tests whether the same practices that
-> failed under war pressure can prove themselves under scarcity: a large
+> **STATUS — REVISED 2026-08-09:** The series is a four-volume arc. Book III
+> ends with Eli's own relinquishment **complete** — a real, moving scene: in
+> one hall, under real threat, he signs away his own authority and the room
+> continues without him. What that win does not secure is the wider claim it
+> seems to imply: Continuity keys, factional mandate, and private force in
+> regions outside that room stay live and unresolved, so the interregional
+> compact the war seemed to prove was never actually intact. The first
+> relinquishment is **incomplete** — not because Eli refused it, but because
+> that wider gap only surfaces once Book IV arrives. Book IV opens on
+> discovering how much of that wider compact was never actually there: a
+> world in which the interregional layer looked whole and wasn't. The
+> **Lean Year** tests whether the same practices that held in one room can be
+> **built out**, for real, at the scale the war never reached: a large
 > fictional North Pacific caldera eruption after northern spring planting
 > perturbs weather and transport without becoming a Yellowstone-scale
 > apocalypse. An already brittle food system converts uneven harvest loss
@@ -15,20 +20,21 @@
 > convoy seizures, and collapsing interregional trust. Local societies keep
 > governing while cross-network verification, trade, medicine, food, and
 > trust begin to seize. The reconstituted institutions decide, deliberately
-> and on the record, whether to rebuild the compact or accept permanent
-> emergency rule. Book III contains only deniable Rowan/Eli attraction—no
-> sex or romance. Book IV carries conscious attraction, repeated sex before
-> romance, Rowan's later decision to pursue pregnancy, childbirth,
-> institutional settlement, and Eli's **second** and final relinquishment —
-> this time from a position of proven voluntary choice, not fractured
-> necessity.
+> and on the record, whether to build out the compact at true scale or accept
+> permanent emergency rule. Book III contains only deniable Rowan/Eli
+> attraction—no sex or romance. Book IV carries conscious attraction,
+> repeated sex before romance, Rowan's later decision to pursue pregnancy,
+> childbirth, institutional settlement, and Eli's **second** and final
+> relinquishment — this time tested at the scale the first never reached, not
+> repeating a failure.
 
 *The Court of Threads* is a working title. The architecture below is canon even
 if the title changes.
 
-> **GLOBAL COORDINATION PLOT — REVISED 2026-08-07:** Book IV is the
-> reconstruction of a decentralized compact after its failure under war.
-> The Lean Year is a practical survival crisis: the eruption disrupts
+> **GLOBAL COORDINATION PLOT — REVISED 2026-08-09:** Book IV is the discovery
+> and build-out, at true interregional scale, of a decentralized compact that
+> looked whole at the end of Book III but was never actually intact past the
+> room that watched Eli's relinquishment. The Lean Year is a practical survival crisis: the eruption disrupts
 > weather, harvests, shipping, medicine, fuel, and communications;
 > competing forecasts, export holds, hidden reserves, route seizures, and
 > damaged trust jam the links between otherwise functioning local societies.
@@ -43,15 +49,16 @@ if the title changes.
 > not replace the material plot. The final relinquishment proves the
 > reconstructed network can continue without Eli.
 
-> **SECOND MANDATE / WASHINGTON RHYME — REVISED 2026-08-07:** The compact
-> Eli and the Weavers built **fractured under war pressure** in Book III.
-> Book IV's institutions, not Eli, deliberately ask him back after the
-> reconstruction proves real but the Lean Year seizes the interregional
-> layer. This is a second, narrower provisional civil-political mandate for
+> **SECOND MANDATE / WASHINGTON RHYME — REVISED 2026-08-09:** The compact
+> Eli and the Weavers built proved real and complete only in the room that
+> watched it happen in Book III; outside that room it was never actually
+> secured. Book IV's institutions, not Eli, deliberately ask him back once
+> that wider gap surfaces and the Lean Year seizes the interregional layer.
+> This is a second, narrower provisional civil-political mandate for
 > cross-route survival — not a restoration of presidency, monarchy, or
-> permanent emergency rule. The first mandate was wartime command the
-> compact could not absorb; the second is post-collapse reconstruction that
-> proves the compact can be rebuilt. Eli's final legitimacy lies in
+> permanent emergency rule. The first mandate proved the compact could work
+> at the scale one room could prove; the second builds it out, for real, at
+> the scale the war never reached. Eli's final legitimacy lies in
 > returning the authority both times.
 
 > **LEAN YEAR VIOLENCE / ACTION BALANCE LOCK — 2026-08-02:** Book IV is not a
@@ -87,6 +94,31 @@ if the title changes.
 > and final relinquishment during birth; returning to ordinary work. He still
 > defends people when violence is present; maturity is refusing to **become** the
 > cycle.
+
+> **Not a bigger repeat — the actual fourth-book innovation — LOCKED
+> 2026-08-09; refusal-language pass 2026-08-09.** Books I–III already prove
+> a person can release rather than possess, at increasing scale: a rescue,
+> a mother, a wartime crown. If Book IV's answer is only "he does it again,
+> under worse conditions," the series hasn't added anything Book III didn't
+> already teach — a bigger version of the same lesson is still the same
+> lesson. The actual new claim Book IV has to prove is structural, not
+> personal: that the layered-truth discipline itself — holding the
+> embodied, technical, and relational accounts together until they
+> converge on one right answer (`Thesis.md` § *The engine is layered
+> truth, not refusal*) — can run inside an institution, not only inside
+> one virtuous person. This isn't new material to invent — the
+> claim-review mechanic, the seven-desk design, and distributed
+> credentials (§ *The claim-review mechanic*) are already doing this work;
+> the discipline is letting them be the actual answer on the page, not
+> texture behind Eli's personal choice. **On-page test:** at least one
+> consequential act involving power or violence in Book IV — upheld,
+> corrected, or declined — must be resolved by someone who is *not* Eli —
+> a cloister review, a claim-review panel, an ordinary delegate invoking a
+> rule — converging on the right outcome specifically because the
+> structure holds without him in the room. If every important outcome in
+> the book still runs through Eli's own virtue, the institutions haven't
+> actually been proven and the ending is a bigger Book III, not a
+> different book.
 
 > **THE LOOP artifact — optional Book IV re-read — LOCKED 2026-07-30:** Street
 > **The Loop** (Incomplete Twin Circles) lands its working reading in **Book III**
@@ -219,15 +251,17 @@ if the title changes.
 Eli does not decide to keep power the first time, and he does not seize it back
 the second. By late Book III he has accepted a narrow wartime mandate and
 reunified defensive capacity — ports, clinics, farms, local administrations,
-and capable officers — into a temporary cross-route command. But the
-decentralized compact cannot hold under war pressure: Continuity keys,
-factional mandate, private force, and the temptation to turn emergency command
-into permanent authority fracture the interregional layer. The volume ends with
-Eli holding emergency power and the institutions too damaged to receive a clean
-handover. The first relinquishment is **incomplete** — not because Eli refuses
-it, but because the compact it required no longer exists intact.
+and capable officers — into a temporary cross-route command. He completes a
+real relinquishment at the end: in one hall, under real threat, he signs away
+his own authority and the room continues without him. But that win is local —
+Continuity keys, factional mandate, and private force in regions outside that
+room stay live and unresolved, so the wider interregional compact the war
+seemed to prove was never actually intact. The first relinquishment is
+**incomplete** — not because Eli refuses it, but because that wider gap only
+surfaces once Book IV arrives.
 
-Book IV opens on that wreckage. News of the North Pacific eruption reaches the
+Book IV opens on discovering how much of that wider compact was never actually
+there. News of the North Pacific eruption reaches the
 assembly first as incompatible forecasts and route closures, not an omniscient
 disaster summary. The first harvest losses are serious but survivable. What
 breaks the convenient hub is convergent capture: Henley's Continuity office uses
@@ -240,7 +274,8 @@ the ensuing evacuation and allocation panic. The acts unfold across days and do
 not share one command chain. The court wants to call them one attack because one
 attacker would promise one ending. They are the dangerous middle of anocracy
 made material: civic offices, Continuity keys, private force, factional
-mandate, and local legitimacy all remain partly real. Outside the repair hall,
+mandate, and local legitimacy all remain partly real, exactly where Book III's
+win never actually reached. Outside the repair hall,
 local councils, clinics, ports, farms, and crews keep governing. Their
 continuity must appear on-page before Eli is recalled. What fails is the layer
 between them: shared credentials, disputed cargo priority, ceasefire correction,
@@ -248,17 +283,19 @@ interregional medical allocation, and confidence that a message crossing
 jurisdictions is still clean.
 
 The compact's dormant continuity clause — stated on the record at the end of
-Book III, then not used because the institutions were too damaged to certify a
-successor — can be invoked to restore Eli's bounded mandate until a successor
-is safely reconstituted and certified. It does not fire automatically. The
-reconstituted institutions **choose** to invoke it, explicitly, with everyone in
-the room having already watched the alternative fracture. The extension is
-public, reviewable, and legally bounded, but every faction that benefits from
-delay now has a reason to keep the certification crisis unresolved. Eli's Book
-IV danger is not crude seizure. It is becoming the permanent answer to
-emergencies other people learn to prolong — a temptation sharper the second
-time, because everyone involved, including Eli, now knows exactly how well the
-alternative can work and exactly how fragile it turned out to be.
+Book III, then not used because Eli's own handover completed clean and no
+crisis required it — can be invoked to restore Eli's bounded mandate until a
+successor is safely reconstituted and certified at the wider scale. It does
+not fire automatically. The reconstituted institutions **choose** to invoke
+it, explicitly, with everyone in the room having already watched the first
+mandate work exactly as promised — and having only now learned how much
+further it still needed to reach. The extension is public, reviewable, and
+legally bounded, but every faction that benefits from delay now has a reason
+to keep the certification crisis unresolved. Eli's Book IV danger is not
+crude seizure. It is becoming the permanent answer to emergencies other
+people learn to prolong — a temptation sharper the second time, because
+everyone involved, including Eli, now knows exactly how well the compact can
+work in one room and exactly how far it still had to go.
 
 **North–south movement / Costa Rica hinge — LOCKED 2026-08-01; WORKING WATERSHED 2026-08-01:** Primary receiving-and-transfer hinge = **Pacific-slope corridor** linking **Nosara–Samara** coastal nodes with inland nursery/farm capacity in the **Tenorio–Miravalles watershed zone** and existing biological-corridor practice toward Monteverde cloud forest. Do **not** flatten to generic rainforest iconography or treat Costa Rica as empty passage. Species mixtures, Indigenous jurisdiction specifics, dry-season water limits, and work-song wording remain **consultation-required** before denser on-page naming — but the hinge geography is no longer TBD. The court remains physically in North America. The volume is not solved by moving Eli,
 Rowan, Wren, or the palace south. As northern harvest and route failures deepen,
@@ -597,6 +634,32 @@ material disclosure under the existing plural agreements. Sex grants no status,
 claim, exclusivity, access to Wren, promise of continuation, or presumption of
 parenthood.
 
+**Texture, not summary — LOCKED 2026-08-09.** Write at least the first
+encounter on the page, not as a fade-to-black beat. The charge here isn't
+seduction — it's two people with years of platonic trust and zero script for
+this: a laugh at the wrong moment, a hesitation neither expected, someone's
+competence briefly failing them in a way it never does at the verification
+desk. That specificity is what makes it distinct from generic heat, and it's
+the version actually earned by everything already established about how
+these two are together.
+
+**The competence failure has a specific cause, not a generic one — LOCKED
+2026-08-09.** Book III plants an unresolved war intrusion: during the Ch. 9
+hearing, testimony about the west bridge decision returns to Eli as a
+sensory intrusion — the hall becoming the intake room, a woman's name and
+her brother's route in the same ledger row, a red dot that did not blink
+(`manuscripts/III_The_Compact.md`, Ch. 9 hearing scene). It passes
+unfixed; nobody addresses it; the war does not resolve inside Book III
+(`55_series_pitch_and_comps.md` § *Vol III close*, "war remains an
+unresolved human condition"). Use that same intrusion here, arriving at the
+wrong moment during the first encounter — not staged as trauma-reveal
+dialogue, just the same physical hit (hand finding an edge to hold, a beat
+of the wrong room) landing where it doesn't belong. Rowan reads it correctly
+without narrating that she has, the way Wren did in Book III, and neither
+of them fixes it before continuing. This is what makes the failure specific
+to him and to what he actually carries, not a stock scene of nervous first
+sex.
+
 Repeated sex becomes bodily familiarity; political work, disagreement,
 post-sex conversation, sleep, care, missing one another, and private language
 then make the relationship romantic. The sequence must remain visible:
@@ -611,18 +674,56 @@ dyads**, not one undifferentiated group relationship:
 - **Wren / Eli — discovery:** emotional naming, grounding, chosen tenderness,
   and home made deliberately in the present.
 - **Rowan / Eli — construction:** public partnership, accountable power,
-  generational hope, and the dangerous work of imagining a future together.
+  generational hope, and the dangerous work of imagining a future together —
+  and, privately, one register that belongs to no one else. **Give it a
+  private vulnerability, not just competence — LOCKED 2026-08-09:** Eli is
+  the one person who can reach the grief Rowan keeps visible in her face but
+  never spends on anyone (`26` § Rowan), the way Wren reaches something in
+  him nobody else does. Without a scene where that private reach is actually
+  used, not just asserted, this dyad risks reading as the sensible bond next
+  to two more emotionally textured ones.
 
 The court tries to rank these bonds because hierarchy simplifies inheritance.
 It casts Rowan as consort/mother, Eli as sovereign/father, and Wren as mistress
 or official. The three must not answer by pretending their bonds are identical.
 
+**An offer aimed at the weakest-looking leg — LOCKED 2026-08-09.** Somewhere
+in Book IV, someone offers Rowan a clean, legible, powerful marriage — the
+kind the world understands instantly, unlike an illegible triad the court is
+actively trying to rank and simplify. This is a distinct beat from Book III's
+kinship-alliance-refused offer aimed at Eli (`33_volume_III_beatsheet.md` §
+*Command-system lock*, item 12) — it targets Rowan specifically, because her
+dyad with Eli is the one most legible to outside power as ordinary
+(consort/mother) and therefore the easiest to peel off with a clean offer.
+She refuses something easy and comprehensible for something harder and
+stranger, and the refusal should cost her a real, visible alternative, not a
+hypothetical one — a name, a title, a safety the triad cannot match.
+
 Book II gives Eli jealousy when Rowan's return makes him feel provisional.
 Book IV gives Wren a related but different fear: pregnancy and the
 Rowan/Eli biological bond appear able to create permanence, public recognition,
-and a future from which she can be excluded. Wren's resolution is not automatic
-co-parenthood or equal maternity. Her place in the child's life must be asked,
-named, and consented to separately from either romance.
+and a future from which she can be excluded. **This fear must produce a real
+misfire, not just get named and resolved — LOCKED 2026-08-09** (`19_romance_and_divine_pairing.md`
+§ *Planned misfire*): let Wren actually do something possessive or excluding
+because of it — not villainous, just human and wrong, the kind of thing a
+frightened person does — and let the repair cost real time and trust rather
+than resolving inside the same scene it appears in. Wren's resolution is not
+automatic co-parenthood or equal maternity, and it is not automatic
+self-correction either. Her place in the child's life must be asked, named,
+and consented to separately from either romance, only after the misfire has
+actually cost something.
+
+**The repair does not fully restore the baseline — LOCKED 2026-08-09.** Real
+misfires leave a mark; do not let this one heal all the way back to before it
+happened. Something specific and small stays permanently different — a
+boundary Rowan or Eli now names explicitly that used to go unspoken, a
+decision Wren no longer gets included in by default and has to ask for each
+time, a form of access that used to be assumed and is now negotiated. This
+is not the triad failing — it is the triad becoming realistic: proof that it
+survives damage without pretending the damage didn't happen. If every
+misfire in the series fully repairs, the reader learns that nothing here can
+actually go wrong, which makes the eventual proof of the triad worth less,
+not more.
 
 ---
 

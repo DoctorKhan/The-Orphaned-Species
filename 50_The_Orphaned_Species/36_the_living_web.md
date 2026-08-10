@@ -124,7 +124,7 @@ The web has structure, and **not all of it formed naturally.** This is the field
 | Feels like | Noise becoming a life; grief on exit | Retained tension. Pressure without content. Nothing arrives |
 | The dead | Pass through | **Do not pass.** A tied knot is where a thread cannot go slack |
 
-**The diagnostic is the whole thing:** *what resolves under attention is alive; what tightens under attention is a binding.* Eli learns it before anyone explains it, and it is the same lesson his own body already teaches — the charge that tightens when you obey it and releases when you feel it without completing the act. **Manual Override is untying at personal scale.** Do not let a character state the equivalence; let the hands and the field behave the same way twice and let the reader close it.
+**The diagnostic is the whole thing:** *what resolves under attention is alive; what tightens under attention is a binding.* Somchai learns this through the body — the charge that tightens when you obey it and releases when you feel it without completing the act. Eli learns it through trajectories — the same charge pattern, read as vector instead of somatic signature. **Manual Override is untying at personal scale.** Do not let a character state the equivalence; let the hands and the field behave the same way twice and let the reader close it.
 
 ### The Nine — what the bindings are for
 
@@ -250,11 +250,11 @@ Corollaries (inherited from `05` §10–11): no clarification hands him an exact
 | The historical practitioners' **scene detail** (Aru, Daskar, Ila, Tem, Anthea, Cuno, Lovernios) | `37_deep_time_source.md` | **Retained as content.** Reframe only: they are deep human **threads that resolve**, not carriers Eli becomes. Scene detail stays canonical. |
 | The **drafted Aru descent** | `archive/manuscripts/v1_archive.md` | Retained. Reframe: a thread clarified to full resolution (§5). Trigger-site anchoring (Göbekli fox-pillar) still works as a charged ground (§8). |
 | The **cosmology blocks** (Seven Pairs, war in heaven, Adapa) | `37`, `30_beatsheet_ch09_adapa.md`, `00_MASTER_TIMELINE.md` | Retained. Reframe: deep web-structure clarified late and partially (§6); **delete the Aedan-nesting framing.** |
-| The **chapter mapping / capsule inventory** | `SOURCE_TO_TRILOGY_MAP.md` | Retained as route map. Reframe the "delivery rule" and "capsule inventory" to clarification at charged grounds; strike the lived-life/watched-vision/Aedan columns. |
+| The **chapter mapping / capsule inventory** | `SOURCE_TO_LAYER1_NOVELS_MAP.md` | Retained as route map. Reframe the "delivery rule" and "capsule inventory" to clarification at charged grounds; strike the lived-life/watched-vision/Aedan columns. |
 | `36_memory_capsules.md` | — | **Removed.** Superseded in full by this doc. |
 
 ## 10. Reconciliation status — LOCKED (2026-07)
 
 The web model is the locked mechanism. A **full vocabulary sweep (2026-07)** replaced software/network jargon across the bible: *protocol, shard, mesh, node* → **keeper way, fragment, harbor net, charged ground / witness site**. **`36` governs**; if an older file still carries deprecated terms, this doc wins.
 
-Priority files already swept: `37`, `SOURCE_TO_TRILOGY_MAP`, `00_NARRATIVE_STRUCTURE`, `31`, `05`, `29`, `95_glossary`, `23`, `33`, `WORLD_BIBLE.md`.
+- Priority files already swept: `37`, `SOURCE_TO_LAYER1_NOVELS_MAP`, `00_NARRATIVE_STRUCTURE`, `31`, `05`, `29`, `95_glossary`, `23`, `33`, `WORLD_BIBLE.md`.

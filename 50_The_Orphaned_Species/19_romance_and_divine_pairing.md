@@ -40,7 +40,7 @@ Attraction and communication travel through more than one channel, and different
 
 ## Street romance register — EdgeRunners-like buildup
 
-Use the **emotional grammar** of near-future stories where love lands because ordinary life is scarce — shared meals, a door that locks, a joke that survives the day, a future spoken aloud before anyone has earned it. Do not import plot beats or character types from any specific IP. The register belongs to this pair: Eli (orphan, **somatic read**, wants belonging) and Wren (handler, reads exits, failed to save someone she loved). **Volume romance stages and proof scenes:** `27_character_development_arcs.md` § Wren.
+Use the **emotional grammar** of near-future stories where love lands because ordinary life is scarce — shared meals, a door that locks, a joke that survives the day, a future spoken aloud before anyone has earned it. Do not import plot beats or character types from any specific IP. The register belongs to this pair: Eli (orphan, trajectory read, wants belonging) and Wren (handler, reads exits, failed to save someone she loved). **Volume romance stages and proof scenes:** `27_character_development_arcs.md` § Wren.
 
 ### Why this register fits the series
 
@@ -505,15 +505,19 @@ Lesson:
 
 > Love is not less sacred because it is chosen in time.
 
-## Rowan returns — plural V, not triad (LOCKED 2026-07-22; jealousy architecture 2026-07-28; Inana dual-face 2026-08-01)
+## Rowan returns — the triad forms (LOCKED 2026-08-09; supersedes "plural V, not triad" 2026-07-22 pass; jealousy architecture 2026-07-28; Inana dual-face 2026-08-01; thesis reframed from plurality-advocacy to honesty-under-pressure 2026-08-10)
 
-**Governing structure — Book II:** Rowan returns on-page in Book II and renews a continuing romance with Wren. Eli/Wren also remains a developing romantic bond. Rowan/Eli is not romantic. Book II therefore forms a **V centered on Wren**, held through disclosure, consent, and separate terms for each bond—not a contest with one eventual winner, closed triad, or automatic group relationship. Rowan has an independent west-corridor objective and cannot exist merely to validate or threaten Eli's desirability. Her return **does** provoke jealousy; the jealousy exposes Eli's fear of insignificance and must never reduce Rowan or Wren/Rowan to a device. Book III preserves this non-romantic structure while planting only deniable charge; the Rowan/Eli bond changes category in Book IV.
+**Governing structure — Book II:** Rowan returns on-page in Book II and renews a continuing romance with Wren. Eli/Wren also remains a developing romantic bond. Rowan/Eli is not yet romantic. Book II therefore forms a **V centered on Wren**, held through disclosure, consent, and separate terms for each bond — not a contest with one eventual winner. This V is staging, not the destination: three people building an honest triad is something that happens in life, and the series follows what it costs and requires rather than arguing that it should exist. The V lets each bond earn its own honesty before three people have to hold all of it at once. Rowan has an independent west-corridor objective and cannot exist merely to validate or threaten Eli's desirability. Her return **does** provoke jealousy; the jealousy exposes Eli's fear of insignificance and must never reduce Rowan or Wren/Rowan to a device.
+
+**Book III — the shape gets named, consummation waits.** Rowan/Eli stays nonsexual and non-romantic in conduct, but by Book III it is no longer deniable: Eli, Wren, and Rowan consciously name, among themselves, that something triadic is forming. What stays withheld isn't the knowledge — it's the act. No sex, no cohabitation, no declared throuple. **The reason is load-bearing, not decorative:** Eli holds real wartime power for most of Book III, and a throuple that formed while he held it would be a throuple the reader has to take on faith — indistinguishable from a powerful man being given what he wants. The triad completing only in Book IV, after his own relinquishment finishes for real (`33_volume_III_beatsheet.md` § *BOOK III ENDGAME*), is the proof that it isn't produced by his authority: he has nothing left to spend on it by the time it forms. This rhymes on purpose with the Machiavelli material — the same discipline that refuses the crown also governs desire.
+
+**Book IV — the triad completes as three direct bonds, not a hub-and-spokes with a third spoke added.** For this to actually demonstrate plural love rather than a V wearing a new name, Eli/Rowan must be a **direct** bond: scenes where they negotiate, argue, and choose each other with Wren absent, not present as broker or translator. If Wren stays structurally necessary to the bond between the other two, the text has proven a hub arrangement, not a triad.
 
 **Mythic rhyme — Inana's Descent dual face — LOCKED 2026-08-01:** Book II's Mesopotamian *Inana's Descent* is not only Somchai's healing grammar. Its **second face** belongs to Wren/Rowan recognition romance: successive gates = shedding armor, house rank, ply automaticity, and possession-fear before touch is allowed; attend-don't-storm = person-first recovery and answering pair-severance by conduct; return-with-cost = renewal only after danger and disclosure. **Dumuzi shadow** is Eli's provisional fear (left above / incidental), never a literal substitute-sacrifice and never a cue to demote him or identify either woman as Inana/Ereshkigal. Seed the text in the archive (Ch 2); pay off in Ch 6–7 through behavior, not pillow myth-lecture. Full placement: `35` § *Inana's Descent*; beats: `32`.
 
 Rowan should feel grounded rather than symbolic on first contact: practical, watchful, physically present, and already coordinated with Wren before Eli understands their history. **Softer register than Wren** — warmth without hostess performance, cost visible in the face (`26` § Rowan). **Heritage / look — LOCKED 2026-07-25:** **British / Irish diaspora** (strait corridor); **blonde hair, blue eyes.** Wren is **Malay Chinese**, dark hair — visual contrast may register; neither woman staged for comparison. If Wren reads exits, Rowan remembers costs.
 
-The weak question is *whom will Wren choose?* The strong question is: **can two different loves remain truthful without becoming hierarchy, concealment, or custody?**
+The weak question is *whom will Wren choose?* The strong question is: **what does staying honest cost three people once fear, power, and old wounds are all in the room at the same time?**
 
 ### Separate bonds, separate obligations
 
@@ -522,6 +526,8 @@ The weak question is *whom will Wren choose?* The strong question is: **can two 
 **Wren / Eli:** emergent romance of **discovery**, formed through danger, emotional naming, grounding, boundary, chosen tenderness, and a future made deliberately together. Eli may not treat exclusivity as proof he was chosen or use his uncertainty to demand access to Wren/Rowan's private history. He does, however, need and receive positive evidence that he is not incidental: Wren names what she wants with him that belongs specifically to their bond and gives that bond undivided, consequential attention.
 
 **Rowan / Eli:** direct, respectful, **non-romantic** relationship. They speak without Wren translating. Rowan may challenge how Eli's quest consumes routes; Eli may challenge Rowan when protecting the Net obscures an individual. Neither approves the other's bond with Wren. **Emotional asymmetry — LOCKED 2026-07-25:** Rowan is **softer** than Wren (visible grief, less operator polish, person-first patience). Eli enters their shared scenes **emotionally stronger** — Book I's feeling-work with Wren pays off: he names, waits, and co-regulates without collapsing or demanding care. Rowan does not mother him; Eli does not lean on her the way he leaned on Wren early. At least one beat per major shared scene: Eli holds plain speech or boundary Rowan cannot armored her way through — peer strength, not messiah display.
+
+**Banter as default register — LOCKED 2026-08-10.** The drafted exchange ("Problem?" / "No." / "You look like you have one." / "I often look like this." / "Unfortunate." — § *Words — action, not report* above) is not a one-scene flourish; it is Rowan/Eli's habitual register across Book III and IV, the way grounded naming is Wren/Eli's habitual register and embodied recognition is Wren/Rowan's. Most of their major shared scenes should open on, or turn through, a verbal contest — testing, deflecting, refusing to perform courtship — before landing on whatever the scene is actually about. Verbal equality also doubles as a counterweight to the age/authority asymmetry already guarded against between Wren and Eli (§ *Character errors* below, and line 159 above): give some Wren/Eli scenes the same tool. Eli's plain speech should occasionally out-argue Wren's read of a room, not just receive it.
 
 ### Formative bond and renewed desire
 
@@ -575,12 +581,18 @@ specificity, truthful conduct, and repair—not interchangeability or possession
 - Do not make Eli the judge or hidden center.
 - Do not cure Eli's jealousy by demoting Rowan, making the romances identical, or giving Eli permanent priority.
 - Do not pretend jealousy vanishes on contact with the correct politics; let Eli feel it, name it, and discover what it is actually asking for.
-- Do not force Rowan/Eli romance merely to make the structure symmetrical. Book
-  III contains only deniable attraction, no sex or romance. In Book IV they have
-  consensual sex several times **before** either names or assumes romance. Sex
-  grants no relationship status. Romance emerges only when repeated intimacy,
-  public work, disagreement, and ordinary care create an independently credible
-  bond.
+- Do not force Rowan/Eli romance merely to make the structure symmetrical, and
+  do not let it consummate while Eli holds power. Book III names the triad's
+  shape among all three but keeps it nonsexual and non-romantic in conduct —
+  the withholding is specifically about what his authority could buy, not
+  general restraint. In Book IV, after his own relinquishment completes, they
+  have consensual sex several times **before** either names or assumes
+  romance. Sex grants no relationship status. Romance emerges only when
+  repeated intimacy, public work, disagreement, and ordinary care create an
+  independently credible bond.
+- Do not let Wren remain structurally necessary to the Eli/Rowan bond once it
+  forms. If she has to broker, translate, or referee it, the text has proven a
+  hub with a third spoke, not a triad.
 - Do not let formative durability become mystical compulsion.
 - No bond may claim destiny as settled consent.
 
@@ -592,31 +604,47 @@ The required victory is not frictionless polyamory. It is that each bond becomes
 >
 > Volume II: Can I love you without using you?
 >
-> Volume III: Can political trust deepen without being claimed, ranked, or
-> prematurely named?
+> Volume III: Can desire be named honestly and still refused, while one of the
+> three holds power the other two do not?
 >
-> Volume IV: Can we make a household and a future without turning either into a
-> court, rank, or inheritance?
+> Volume IV: Can three people build a household without hierarchy, and without
+> pretending three real bonds are actually one?
 
-**Book III–IV expansion — REVISED AND LOCKED 2026-07-28:** Book II ends as a V
-centered on Wren. Book III keeps that relationship shape. Rowan/Eli remains
-nonsexual and non-romantic; at most three dual-reading signals suggest a future
-possibility while retaining complete political explanations.
+**Book III–IV expansion — REVISED AND LOCKED 2026-08-09; supersedes 2026-07-28 pass:** Book II ends as a V
+centered on Wren. Book III keeps that relationship *shape* — Rowan/Eli stays
+nonsexual and non-romantic in conduct — but not its *silence*: by Book III,
+Eli, Wren, and Rowan consciously name to one another that something triadic is
+forming. The reason it still doesn't act is specific, not decorative: Eli
+holds real wartime power for most of the volume, and a triad that formed under
+it would be indistinguishable from a powerful man being given what he wants.
+Nothing completes until his own relinquishment does (`33_volume_III_beatsheet.md`
+§ *BOOK III ENDGAME*) — the same discipline that refuses the crown governs
+desire, and the triad's proof that it isn't produced by his authority is that
+it forms only once he has none left to spend on it.
 
-In Book IV, Rowan and Eli consciously recognize mutual desire and have sex on
-several separate occasions before the bond becomes romantic. Neither uses sex as
-proof of love, status, access, or future obligation. Their romance develops later
-through physical familiarity, political work, disagreement, steadiness, and
-care. Wren neither brokers nor authorizes it, but material disclosure rules
-still apply. Rowan's wish for motherhood predates Eli. Early sex is contracepted
-and explicitly not a choice of father. Only after romance does Rowan choose Eli
-as co-parent and decide when to pursue conception.
+In Book IV, once that relinquishment has completed, Rowan and Eli consciously
+recognize mutual desire and have sex on several separate occasions before the
+bond becomes romantic. Neither uses sex as proof of love, status, access, or
+future obligation. Their romance develops later through physical familiarity,
+political work, disagreement, steadiness, and care. **Wren neither brokers nor
+authorizes it** — this stays load-bearing: for the triad to be three direct
+bonds rather than a hub with a third spoke, Eli and Rowan need scenes that
+happen with Wren absent, not routed through her. Material disclosure rules
+still apply. Rowan's wish for motherhood predates Eli. Early sex is
+contracepted and explicitly not a choice of father. Only after romance does
+Rowan choose Eli as co-parent and decide when to pursue conception.
 
-Book IV therefore develops three distinct romantic dyads: Wren/Rowan
-recognition, Wren/Eli discovery, and Rowan/Eli construction. The court tries to
-convert that chosen pregnancy into hierarchy—Rowan as consort, Eli as sovereign,
-Wren as mistress or official—and the relationships refuse without pretending
-the bonds are identical. Full architecture:
+Book IV therefore develops three distinct, direct romantic dyads — Wren/Rowan
+recognition, Wren/Eli discovery, and Rowan/Eli construction — that together
+constitute a real triad, not three separate couples sharing a house. Two
+mechanisms prove it rather than assert it: **community skepticism** (`§
+Community skepticism — trust, not scarcity`, `19` — people who've watched this
+exact pattern fail before, persuaded only by repeated conduct, never by
+argument) and **the court's hierarchy attempt**, which tries to convert the
+chosen pregnancy into rank — Rowan as consort, Eli as sovereign, Wren as
+mistress or official — and which the three of them must keep refusing at
+specific, visible cost (a declined title, a rewritten document, a rejected
+heir-claim) rather than by simply saying they're equal. Full architecture:
 `60_volume_IV_court_of_threads.md`.
 
 Or, more explicitly:

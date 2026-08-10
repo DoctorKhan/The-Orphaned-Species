@@ -342,7 +342,7 @@ Novel beats reference **F1–F10**, not the full liturgy.
 | **3** | Maren suppression | F2 — Eli or Hassan, expressionless after the van | beatsheet |
 | **4** | Somchai's hard no / Sol approach | **Paired F6/F7** — pilgrims bright, healer dark/dull | beatsheet |
 | **5** | Broken-line church, Deiwos chalk | Voice line at **draining end** of nave; sacristan answers F6 — **half-antiphon seed** | beatsheet |
-| **6–7** | Rollright / bitter cup | F8 — riddling ground, don't-know as method | beatsheet |
+| **6–7** | Rollright / Delphic Games contact | F8 — riddling ground, don't-know as method | beatsheet |
 | **8–19** | Europe, Pömmelte, Rowan | F1 on chalked house beside Deiwos circles — **same wall, two grammars** | beatsheet |
 | **20–21** | Albion release, awakening | F9 — strait or moor wind before/after Maren release | beatsheet |
 
@@ -350,7 +350,7 @@ Novel beats reference **F1–F10**, not the full liturgy.
 
 ---
 
-### Volume III — *The Living World* (partial → full → coda)
+### Volume III — *The Compact* (partial → full → coda)
 
 | Ch | Scene pressure | Deploy | Status |
 |---|---|---|---|
@@ -925,9 +925,9 @@ finally let through the skin.
 
 | Volume | Chapter | After what | Scene |
 |---|---|---|---|
-| **V** | a young carrier's first felt activation | Before any clinical or diagnostic framing is offered | Private, or spoken by a mentor to someone mid-flare; "the hands first" should land as recognizable to any reader who has followed Eli's somatic signatures since Book I |
+|| **V** | a young carrier's first felt activation | Before any clinical or diagnostic framing is offered | Private, or spoken by a mentor to someone mid-flare; "the hands first" should land as recognizable to any reader who has tracked Eli's trajectory sense since Book I |
 
-**Reader effect:** gives the reader who has tracked Eli's diagnostic hand-reads since Book I a direct, felt echo — the next generation's gift arriving through the same door his did.
+**Reader effect:** gives the reader who has tracked Eli's trajectory sense since Book I a direct, felt echo — the next generation's gift arriving through the same door his did.
 
 ---
 

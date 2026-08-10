@@ -1,4 +1,4 @@
-# The Orphaned Species Book III: The Living World
+# The Orphaned Species Book III: The Compact
 
 > **GEOGRAPHY REDRAFT LOCK — 2026-08-01; Ch 1–6 RESTAGED 2026-08-01.** The
 > governing route is Albion exit → Atlantic crossing → Belém do Pará, at the
@@ -96,7 +96,10 @@ Screens wake in cabins where nobody has touched them. A mooring alarm sounds on
 the Ver-o-Peso pier. Three black vultures leave the iron roof of the old customs
 house at once and wheel inland.
 
-Wren lowers her radio.
+Wren lowers her radio. Her slate has a message she does not open: a route
+notice from the Sol exchange, deferred from before they left port, timestamped
+last night. She marks it unread and keeps listening to the water. Whatever it
+Whatever it is, it will keep.
 
 "How long have you known?"
 
@@ -910,7 +913,9 @@ Wren turns the paper over.
 
 "We are not voting on a person."
 
-A founder named Ilyas taps the table.
+A founder named Ilyas taps the table. He does it with the same knuckle tap he
+used on the doorframe when he came home to a daughter asleep in the other room—
+once, twice, pause—checking the rhythm before he would speak above her breathing.
 
 "We are voting on admission."
 
@@ -1468,8 +1473,8 @@ the sentence and written three words in the margin: *not the first time.*
 "I ran this kitchen while the old resort was still promising water it never
 installed," she says. "I ran it while the authorities asked at the desk and
 Babaji moved paper in the back. I ran it when the hospital sent patients
-because the clinic had no rice. Feeding people is not a policy. It is the thing
-that happens before policy remembers it has a jurisdiction."
+because the clinic had no rice. Feeding people is the thing that happens
+before policy remembers it has a jurisdiction."
 
 She folds the note and puts it into her apron pocket.
 
@@ -1488,7 +1493,10 @@ Tomas sleeps beneath Lang's curtains. He reports contact before entering the
 kitchen twice and leaves once when Ilyas asks him to. He attends grounding
 practice with Mina, field hygiene with Rasel by screen, and an ordinary
 electrical safety review conducted by Bima, who fails him for answering a
-question before it is asked.
+question before it is asked. The rule card Tomas keeps in his pocket is not
+issued by the settlement—it is a teacher's red pen mark from a notebook he
+filled when the world still had classrooms. He touches it before he enters any
+room where someone might be afraid.
 
 "I knew the answer," Tomas says.
 
@@ -1649,7 +1657,7 @@ is exactly the point.
 He does not record it as a management lesson. He lets it stand as a fact the
 harbor already knew and he is only now learning to read.
 
----
+## Chapter Three—The Person Freedom Failed
 
 The next morning brings clean weather.
 
@@ -1666,6 +1674,11 @@ One wants a defensive team.
 
 One wants him to tell them whether a girl who speaks in two voices should be
 allowed to stay in school.
+
+A notification slides across his screen and vanishes before he can read it—an
+intercepted routing query from the east side, unanswered, timestamped three
+minutes ago. He does not pursue it. The dispatch requests are already loud
+enough.
 
 He is writing *I cannot decide this from here* when Nia shouts.
 
@@ -1861,12 +1874,22 @@ Amara sits on the floor beneath the supply shelves with Nia's blood dried to
 both elbows. Nobody washes her without asking.
 
 Tomas is in the isolation room.
-
 Eli's forced entry broke the contact and left him conscious, vomiting, unable
 to recognize written words. The door is locked from the outside under the
 temporary-danger clause.
 
 Lang's medical team waits beyond the harbor.
+
+At 09:21, four minutes after Nia's death time, a feed begins circulating from a
+Union staging post forty kilometers west. It shows a line of clinic patients
+being moved toward a registry tent. The video is labeled **REUNIFICATION**.
+The tent's marking matches the one Lang's team uses. The post's commander is
+the same new commander who denied the *WE SEE YOUR ROUTES* transmission. Wren
+compares timestamps with a routing ledger from the west intake desk. The move
+began thirty minutes before the contact broke. It was already in motion when Eli
+entered. The feed is the same operation, continuing — not retaliation.
+
+The clock on the clinic wall counts up. No one asks it to stop.
 
 This time Wren lets them enter.
 
@@ -2090,8 +2113,8 @@ and that the compact drafters have begun calling irreplaceable.
 Eli listens to them the way he listens to the garden: for the thing that grows
 without being told.
 
-What he hears is not a consensus. It is a refusal to let the only version of
-what happened be the version a clerk wrote down afterward.
+What he hears is a refusal to let the only version of what happened be the
+version a clerk wrote down afterward.
 
 Wren records every account in her own hand. She does not summarize. She does
 not correct. She lets the contradictions sit beside each other the way the
@@ -2195,7 +2218,8 @@ Ver-o-Peso runs the length of the waterfront under an iron roof shipped from
 Europe a century before anyone at this table was born, and the rain drums
 against it loud enough that two people standing close can talk without being
 overheard by a third standing near. The bay stays visible past the stalls:
-fishing boats riding the tide against their lines, a child pulling away from a
+fishing boats riding the tide against their lines, a child pulling away from
+an adult to put both hands flat against a crate of ice.
 
 Wren stops at a stall selling cassava flour and listens. The vendor does not
 look at her. The buyer does not look at the stall. The exchange is ordinary
@@ -2208,7 +2232,6 @@ and that the consent is only valid because the vendor chose to give it.
 She moves on. The rain has not stopped.
 
 The standard arrives in the afternoon.
-adult to put both hands flat against a crate of ice.
 
 Herb-sellers call their remedies over the drumming.
 
@@ -2283,11 +2306,11 @@ interpreters—without building a permanent identity from the person who uses it
 
 Amina points across the market.
 
-The system is not invisible. It is people in rain capes, local ledgers that do
-not interoperate cleanly, dock unions, market stallholder associations, parish
-kitchens, terreiro mutual aid, riverine family networks that take in cousins
-of cousins without asking who counts as one, disability groups, and one
-hospital wing whose director has been fighting federal access for two years.
+The system is people in rain capes, local ledgers that do not interoperate
+cleanly, dock unions, market stallholder associations, parish kitchens,
+terreiro mutual aid, riverine family networks that take in cousins of cousins
+without asking who counts as one, disability groups, and one hospital wing
+whose director has been fighting federal access for two years.
 
 It has gaps.
 
@@ -2663,6 +2686,47 @@ The building shakes before they can run it.
 
 ---
 
+A coast-watcher from the river mouth reaches the port desk three hours before
+the first message: survey flights out of a Mandate logistics strip, engines
+too regular for patrol rotation, landing pattern suggesting a package
+operation rather than inspection. The desk officer who receives the report
+does not know whether to route it to military intelligence or to the harbor
+refugee intake. By the time it reaches Eli, the report has already crossed
+three incompatible channels and lost its source name.
+
+Eli reads it as displacement. The Mandate has been running refugee corridors
+as pressure for months. Why change to visible airlift now?
+
+He is wrong. The airlift is rehearsal, not pressure.
+
+The strike coordinator's name is in the Union cache Eli has not yet opened:
+Commander Voss, Pacific Fleet Command, transferred to logistics oversight when
+the Mandate reorganized its forward command structure six weeks earlier. The
+transfer was described as administrative. Eli studies one visible decision from
+the cache afterward and understands that Voss chose a harbor whose night-shift
+supervisor had been rotated forty-eight hours before the strike—precise enough
+to disable routing and half the civilian grid in the first twenty minutes.
+
+He does not have time to study the second decision.
+
+The private Mandate channel opens at the same moment.
+
+Commissioner Ma's voice arrives in Eli's room before the strike begins: calm,
+direct, offering a narrow de-escalation around the survey strip—civilian
+observation rights, shared flight logs, a twelve-hour cooling window. The offer
+is procedural, not friendly. Ma is asking for time, not peace: room to keep
+Eli from treating the airlift as an act of war before the Mandate has
+committed one.
+
+Eli reads it as cover.
+
+He sends the offer back through three layers of coordination without
+consolidating it, without rejecting it outright, without telling Ma that the
+Union strike coordinator has already rehearsed a harbor disable three times in
+the last month. The message arrives too late and too ambiguous.
+
+Ma does not answer again.
+
 The first message says protest breach.
 
 The second says registry seizure.
@@ -2677,6 +2741,13 @@ identity records. Some detainees walk free. Some addresses go public with them.
 
 At the harbor, an Eastern Mandate strike disables military routing and half the
 civilian port grid.
+
+The Mandate commander who ordered the harbor disable is already three corridors
+away on a different assignment. Eli cannot study him yet. What he can study is
+the pattern the strike left behind: routing tables that knew which switching
+nodes to sever, a power-distribution map that suggests the Mandate had been
+inside the port's civilian control system long enough to learn which failure
+would look like accident.
 
 The Union retaliates before confirming whether the registry seizure and the
 strike were coordinated.
@@ -2795,12 +2866,19 @@ is gone. Her route cards have spread among the people moving.
 
 Eli assigns boats, clinics, witnesses, dock passages, and field escorts. He
 does it well. Each success produces another request. A riverine district asks
-him to confirm an evacuation. A Union unit asks whether to hold a bridge. A
-threshold house asks permission to deny armed arrivals.
+him to confirm an evacuation. A Union unit asks whether to hold a bridge.
 
-"You don't need my permission," he says.
+Captain Luis Faria of the lower-river district answers the unit's question
+without waiting for Eli. His district has two boats, one broken engine, and a
+crew that knows the channel markers better than the Union map does. He tells
+the unit to hold the bridge for two hours, not four, and to use the eastern
+approach after the tide turns. The unit accepts the revision without asking
+Eli to ratify it.
 
-"We need one answer."
+When Eli sees the confirmation an hour later, he does not correct it. He adds
+Faria's channel to the coordination map and notes that the eastern approach
+saves twenty minutes against any Mandate patrol pattern the port has already
+seen.
 
 Lang appears on every surviving civic channel.
 
@@ -2864,6 +2942,16 @@ This makes it worse.
 
 On the fourth night after the crisis, a clinic requests authority to move
 twenty-one awakened children across a closed river district. Wren wakes Eli.
+
+The request comes with a fuel report: the only launch capable of running the
+closed district against current carries three days of diesel. The Santarém
+corridor needs that diesel to hold the next evacuee window. The clinic argues
+that the children cannot wait for the corridor to reopen. The corridor crew
+argues that without the diesel, forty-two people on the next launch will lose
+their only passage north.
+
+Eli chooses the children. The corridor loses its window. Forty-two people wait
+two days in a warehouse that has already been searched twice.
 
 On the fifth, a defense crew asks whether it may abandon an exposed fuel depot
 to escort civilian boats. She wakes him.
@@ -2942,10 +3030,9 @@ and he has already lost one crew to a knot he thought was good. The loss lives
 in his hands the way certain smells live in fabric—underneath, not gone, not
 spoken, but present every time he reaches for a line.
 
-The public session occupies the square.
-the crowd and because too many people refuse another sealed room. The tide has
-pulled back further than the schedule promised, leaving wet mud and stranded
-skiffs where boats float at every other hour. Temporary clinic tents stand
+The public session occupies the square again. The tide has pulled back further
+than the schedule promised, leaving wet mud and stranded skiffs where boats
+float at every other hour. Temporary clinic tents stand
 where market stalls usually run. Armed Union personnel keep a perimeter wide
 enough to be called public.
 
@@ -3001,7 +3088,7 @@ One rises. One does not.
 
 The refusal becomes another sign.
 
-Eli feels it in his palms — not the flare of Malacca or Sanxingdui, but something quieter, more structural. He is not standing at the center of a room. He is standing inside three rooms at once, nested like the circles he saw under the water in Malaysia. The inner ring: the two men kneeling because their bodies remember a debt before their minds can name it. The middle ring: Wren beside him, the renewed bond that survived distance without declaring its shape, the tether that does not claim him. The outer ring: the compact itself — the door the room built and locked together, the system that will vote on whether to open it. He is not the key. He is the person who asked the door to open.
+Eli feels it in his palms — not the flare of Malacca or Sanxingdui, something quieter, more structural, like standing inside a room he did not build. The man who would not rise: his body remembers a debt before his mind can name it. Eli is the one who asked the door to open, not the key that turns it.
 
 ---
 
@@ -3013,7 +3100,10 @@ The clerk waits.
 
 "Former affiliation?"
 
-"My name is Malik Foster."
+"My name is Malik Foster." He signs it with the same hand that once wrote
+lesson plans on a board in a room with windows that opened. The signature
+hesitates on the last stroke—not because he doubts the name, but because the
+muscle remembers a different purpose for the same motion.
 
 "Household sponsor?"
 
@@ -3320,8 +3410,9 @@ He receives the word as delay.
 She sees it happen.
 
 "Union bridges are failing," he says. "Sol has two corridor commands. Mandate
-strikes are moving south. We cannot ask every kitchen separately while people
-are under fire."
+strikes are moving south. The relay from the west intake desk went silent ten
+minutes ago. The supply count for the south corridor is at twelve hours. We
+cannot ask every kitchen separately while people are under fire."
 
 "Then ask regional circles to nominate routes for a named period."
 
@@ -3460,6 +3551,11 @@ He does not answer.
 
 Wren sends the request.
 
+Forty minutes later, the west intake relay goes dark. The drones over the south
+corridor change their pattern from circle to line—receiver, not watcher—which
+means the corridor's coordinating instruments have already been taken. Wren
+marks the relay on the display with a red dot that does not blink.
+
 The west bridge falls before half the replies arrive.
 
 Seventeen people die in the evacuation queue.
@@ -3472,6 +3568,15 @@ The dead include a woman from the west intake desk who told Eli her brother's
 route three days earlier. The saved include the family she had been trying to
 reach. Eli meets both outcomes in the same corridor and understands that Wren's
 boundary did not protect the woman. It only made her death legible.
+
+That night a message arrives from Pelangi Reach. Bima Prasetyo's threshold house
+has been hit by the same drone pattern that silenced the west relay. Three
+children are sleeping in the cellar when the roof comes down. They climb out
+through the garden tomato vines and walk to the Blue Roof House, where the
+blue-roof woman gives them tea and writes their names in the intake book beside
+the woman from the west desk's brother's route. Eli reads the two names in the
+same row and understands that the bridge cost was never a number. It was a
+neighborhood.
 
 ---
 
@@ -3601,6 +3706,14 @@ No institution has yet earned the right to carry them.
 
 By morning, they must build one anyway.
 
+A message arrives at Eli's hotel before dawn. It contains no threat, no
+signature, only three words: **WE SEE YOUR ROUTES.** The sender knows the
+compacting room, the relay frequency, and the name of the clinic worker who
+misrouted the queue yesterday. Wren traces it to a Union signals post that
+claims no record of the transmission. The post's commander is new. Wren does
+not sleep that night. She sits in the corridor with the door wedged open and her
+boots on, watching the street.
+
 ## Chapter Six—The Compact
 
 The compact begins with a mistranslation.
@@ -3639,12 +3752,11 @@ That matters.
 
 They are not writing a weaker version of his system.
 
-Wren has begun to notice what the compact is not. It is not a table where
-every voice carries equal weight. It is not a document that can be summarized in
-a feed title. It is not a system that will protect the people who built it from
-the people who wrote it. The difference between the compact and Lang's Standard
-is not vocabulary. It is the decision to let contradiction remain inside the
-room instead of removing it afterward.
+Wren has begun to notice what the compact actually is. Not a table where every
+voice carries equal weight. Not a document a feed title could summarize. Not a
+system built to protect the people who wrote it from the people it governs.
+The difference from Lang's Standard was never vocabulary — it is the decision
+to let contradiction remain inside the room instead of removing it afterward.
 
 This is what she has been drafting at hours she does not remember sleeping: not
 the text itself but the spaces around it—the review periods, the abort contacts,
@@ -4602,8 +4714,8 @@ The distinction is part of the memory's fear.
 The creature has seen humans before humans built cities. It has also seen
 others of its own kind driven into narrowing habitats, hunted when their
 contact frightened settlements, captured when their tissues became useful.
-The last image is not extinction. It is a small group entering a place in the
-field that the witness cannot follow.
+The last image is a small group entering a place in the field that the witness
+cannot follow — not extinction.
 
 Hidden is not dead.
 
@@ -4879,7 +4991,7 @@ Not honor.
 
 Equipment and the bill for using it.
 
----
+## Chapter Eight—The Cost of Consent
 
 The distant Pacific corridor begins failing on the fourteenth day.
 
@@ -4982,7 +5094,25 @@ The compact expires in seven days.
 The crew leaves before anyone can decide whether the armor makes him look like
 a ruler.
 
-## Chapter Eight—The Cost of Consent
+A delegate from the harbor council stops him at the gate. She is young enough
+to have grown up after the extraction, old enough to know his name from the
+feeds. She does not ask about the junction or the crew. She asks whether he is
+the one the stones told about.
+
+Eli looks at her. Behind her, Bima checks the winch. The Blue Roof House
+children are writing notes. The crew is already moving.
+
+"I am the person who knows the route," he says.
+
+She waits for more.
+
+"That is all anybody has."
+
+She writes it down in the intake book, not as prophecy but as instruction.
+Wren watches her do it and does not correct the record. The record does not
+need correction. It needs a second witness.
+
+---
 
 The Blue Roof House sends breakfast before the battle.
 
@@ -5095,7 +5225,7 @@ One station forwards the Blue Roof evacuation ledger:
 
 children first is not consent to spend the adults.
 
-Another forwards the Refusal:
+Another forwards the Folly:
 
 an authority offering survival can still be wrong.
 
@@ -5390,6 +5520,28 @@ The shoe-repair woman and the children survive.
 
 The structure does not.
 
+Sora Vithan holds the stairwell door two floors above the walkway.
+
+She is not supposed to be inside. She defected into Wren's network four months
+ago — training the wrong side gave her and nowhere else to put it, a name
+Wren vouched for over the network's own hesitation. Tonight the network is
+open enough that nobody stopped her from being here, and closed enough that
+nobody can order her to leave.
+
+The team coming up the stairs runs the callsign that has moved through Union
+intercept chatter since the strait: **Prince**. **Persia hold.** Close enough
+to see, tonight, it resolves to a man in his thirties wearing the rank
+insignia of a *sar* fighting his own country's partition war three thousand
+miles from this one, doing to a stairwell in Belém what his orders call
+liberation and everyone below it would call an execution.
+
+Sora recognizes the insignia before she recognizes the danger.
+
+She holds the door long enough for the last four residents to reach the boat
+line.
+
+She does not hold it long enough for herself.
+
 A responder named Teo remains inside searching an empty room because the intake
 list says a family is there.
 
@@ -5439,7 +5591,15 @@ Bima Prasetyo.
 
 Teo Marquez.
 
-Eleven minutes during which neither man became time.
+Sora Vithan.
+
+Eleven minutes during which none of them became time.
+
+Sora's sister has a standing address on file from a Vol I service record —
+a medal, sealed and returned once, now unsealed by a war that made the return
+temporary. Wren mails it back herself rather than let the registry log it as
+evidence. No note. The medal was never proof of anything Sora still owed
+anyone.
 
 Lang is not on a screen this time.
 
@@ -5630,6 +5790,8 @@ Arman has sent the drone footage.
 
 Leilani has sent no statement at all.
 
+## Chapter Nine—The Hearing Begins
+
 Eli walks past the ceremony platform and enters the civic room through the side
 door.
 
@@ -5730,6 +5892,15 @@ Wren sits with the route-circle witnesses rather than beside Eli.
 The separation is procedural.
 
 It also hurts.
+
+Sora Vithan's seat in the second row stays empty. Nobody moves the chair to
+close the gap.
+
+Wren does not testify about her. There is no docket line for this particular
+debt: Sora was the one person left who could have told her the truth about
+Mira, and she died holding it instead. Wren sits through the first hour with
+that specific silence beside her, unlisted, costing more than anything she
+says out loud today.
 
 ---
 
@@ -5897,7 +6068,9 @@ They want certainty.
 
 The opponents want confession.
 
-Eli looks at the names on the wall.
+Eli looks at the names on the wall, and for a moment the hall is the intake room instead — the same paper, the same pen mark, a woman's name and her brother's route in the same row, a red dot that did not blink. His hand finds the edge of the witness table and holds it before he decides to.
+
+It passes. Nobody in the room sees it happen except Wren, who does not move to help him, because there is nothing here his hand can hold that will make the two rooms separate again.
 
 The room answers with him. Not one voice — the gathered community, speaking it together, alternating Voice and All the way through, Tao Te Ching-structured:
 
@@ -6249,6 +6422,26 @@ She takes his hand.
 
 Nothing in the gesture changes the sanction.
 
+He holds on a beat too long, already turning it into more than she offered.
+
+"Thank you," he says. "For forgiving me."
+
+Wren goes still in the specific way that means he has said something wrong.
+
+"I didn't."
+
+"You said continuing."
+
+"I said continuing isn't forgiveness. I said both in the same breath and you kept the half you wanted."
+
+He lets go first this time.
+
+"That's what I did to the west circles."
+
+"Yes."
+
+Rain keeps moving through the yard without becoming a storm. Neither of them fixes it before she goes back inside.
+
 ---
 
 Wren calls Rowan from the network house.
@@ -6346,13 +6539,13 @@ minutes nobody is a federation. That is the point.
 
 The constituent assembly opens with all seven delegates present.
 
-Nobody remarks on it. That is the point. Wren has spent three weeks making sure nobody would have a reason to remark on it: seven certification desks instead of one, each cross-verified by two of the others, no single key that opens more than a third of what it takes to seat a government. If someone wanted to compromise a legitimate handover, they would need to be in seven places at once, and the seven places would need to disagree with each other about which lie to tell.
+Nobody remarks on it, because Wren spent three weeks making sure nobody would have a reason to: seven certification desks instead of one, each cross-verified by two of the others, no single key that opens more than a third of what it takes to seat a government. If someone wanted to compromise a legitimate handover, they would need to be in seven places at once, and the seven places would need to disagree with each other about which lie to tell.
 
 Asha sits at the central table with three ledgers open: technical credentials, living attestations, and objections. She looks tired the way people look tired after real work rather than after fear.
 
 "A key is not a person," she says, to nobody, out of habit, because she has said it in rehearsal so many times it has become a kind of prayer.
 
-Nobody needs the reminder today. That is also the point.
+Nobody needs the reminder today.
 
 This is what slow government looks like when nothing is trying to kill it.
 
@@ -6444,6 +6637,8 @@ The continuity clause is read into the record and not invoked. Wren makes sure o
 
 Eli signs.
 
+Beside him, an old Weavers' custodian — a woman who has been in the room longer than any delegate and has said nothing until now — makes a small sound in her throat. Not applause. The kind of noise a body makes when it recognizes a shape it thought was gone: a breath held too long, released. The sound is older than the room. It is older than the federation. It belongs to the part of practice that does not need a document to keep it alive.
+
 It is also the final Untying he will ever need: the transfer names a bounded, reviewable release, not a crown, and the room has already proved it can hold authority without a single source.
 
 ---
@@ -6485,6 +6680,16 @@ He turns to the first page. Nia's name, in Amara's hand. Bima's, in Mei's. No ne
 
 Wren sits across from him and opens the ledger to the next blank line.
 
+Then, not looking up: "Rowan checked your hand."
+
+"She did."
+
+"Good." A beat, pen still moving. "That's all I'm saying about it."
+
+"That was already more than nothing."
+
+"Don't get used to it."
+
 ---
 
 Rowan finds him in the west service corridor an hour later, packing the last of what was his.
@@ -6503,7 +6708,7 @@ There isn't much. A tool case. A change of clothes. The damaged Rootbook page he
 
 "It's not shaking."
 
-"It was an hour ago."
+"It was an hour ago." Her thumb finds the stiff line across his knuckles she's been tracking since the coordination work started. "This part's new. That part isn't."
 
 "Relief does that."
 
@@ -6511,8 +6716,19 @@ There isn't much. A tool case. A change of clothes. The damaged Rootbook page he
 
 "So I'm told."
 
-Her fingers are cool against his wrist. His pulse jumps once under them. Rowan
-notices and lets go without comment.
+Her fingers are cool against his wrist. His pulse jumps once under them.
+
+Rowan doesn't let go this time.
+
+"That's not relief."
+
+"No."
+
+"Not today," she says. Not a question. Not a rejection either.
+
+"No," he agrees. "Not today."
+
+She sets his hand down and lets go, deliberate about it, like returning something she'd only been holding.
 
 "You're free," she says, like a diagnosis. "Try not to make a religion out of it."
 
@@ -6533,53 +6749,7 @@ On a warehouse wall someone has chalked two incomplete circles, hatch-marks oppo
 
 He walks on. The federation holds. He remains unfinished inside it.
 
-That private hunger is not proof the handover was theater. It is the debt Book
-IV will have to test under weather, not the excuse to call today's victory fake.
-
----
-
-They walk to the shore after the last delegate has left.
-
-The morning is ordinary. Heat rises from the asphalt. A vendor pushes a cart
-of coffee and mango toward the repair hall. A child tests a bicycle on the
-promenade. The harbor does not look like a place that almost chose a ruler
-yesterday.
-
-Wren stops where the promenade turns to stone.
-
-A flock of swifts is moving above the water, turning without a leader, each
-bird answering the same shift in wind the others feel. The shape opens and
-closes and opens again. No bird is commanding. No bird is following. They are
-simply attending to the same air together and letting the shape arise from
-what they share.
-
-"They could be doing that with a commander," Eli says.
-
-"They could," Wren answers.
-
-A single swift peels away from the flock and lands on the stone railing ten
-paces from them. It adjusts its wings, looks at nothing in particular, and
-takes off again without urgency. Another follows. Then three more.
-
-No bird asks permission. No bird waits for a signal. They land, they rest,
-they leave when the air moves.
-
-Eli watches his own hands. They are not shaking now.
-
-He looks at Wren.
-
-"What now?" he asks.
-
-"We keep the compact," she says. "And we walk home."
-
-It is not a proclamation. It is the only answer that would let them walk
-without becoming something the birds would not recognize.
-
-They turn back toward the repair hall. The swifts continue over the water,
-turning in relation without merging, each one whole inside the shared flight.
-
-The book does not end with a promise. It ends with a practice.
-
-Birds land. People choose the ordinary.
+That private hunger is the debt Book IV will have to test under weather, not
+proof the handover was theater or an excuse to call today's victory fake.
 
 The work continues.

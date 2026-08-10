@@ -7,13 +7,16 @@
 > to Book II. Book III no longer rescues Rasel.
 
 > **Soft-inconsistency fix — 2026-07-29:** Do not call Layer 1 a trilogy. Current map Books I–IV; optional V–VI unallocated (`SERIES_STRUCTURE.md`).
-> **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-07-29, PROSE NOT YET RECONCILED:**
+> **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-08-09, PROSE RECONCILED:**
 > The series now ends in a women-led court volume. Book III's handover is
-> **incomplete** — the compact fractures under war pressure, leaving Eli
-> holding emergency power and the institutions too damaged to receive a clean
-> transfer. Book IV opens on that wreckage: the reconstituted institutions
-> deliberate whether to rebuild the compact or accept permanent emergency
-> rule.
+> real and complete for Eli himself — a genuine transfer, in one hall, under
+> real threat, the room continuing without him. What's **incomplete** is the
+> wider claim that win implies: Continuity keys, factional mandate, and
+> private force outside that room stay live and unresolved, so the
+> interregional compact the war seemed to secure was never actually intact
+> everywhere. Book IV opens on the discovery of that gap, not on visible
+> wreckage: the reconstituted institutions deliberate whether to build the
+> compact out to real scale or accept permanent emergency rule.
 > stretch, then the Lean Year's converging allocation, credential, route, and trust failures lead the
 > institutions to deliberately invoke a dormant continuity clause and ask Eli
 > back into bounded authority; the Weavers and men's cloisters deepen power
@@ -35,7 +38,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 
 1. [x] **Ch 1 ending:** Mandate political squeeze drafted (2026-07-24) — Babaji holdout, screening sweep during late band set; hearth forfeited inside Ch 1.
 2. [x] **Ch 2** complete and **merged into manuscripts/I_The_Breach.md** (2026-07-22), Salmah seeded at the quay pre-breach.
-3. [x] **Ch 3 — What Didn't Die** drafted and revised: Salmah named and priced; one-night local Weaver hospitality; Rootbook wafer through Babaji's archive chain; Eli recognizes Maren's hand and marks his first inference provisional; grounding via the platform keeper's cup + Thailand count; decision ends on "I'm not going dark."
+3. [x] **Ch 3 — What Didn't Die** drafted and revised: Salmah named and priced; one-night local Weaver hospitality; seven damaged journal scans through the archive leak; Eli recognizes Maren's hand and marks his first inference provisional; grounding via the platform keeper's cup + Thailand count; decision ends on "I'm not going dark." The physical Rootbook enters under Thai cooperative custody in Ch 10.
 4. [x] **Book I governing sequence complete:** Ch 4–10 retained and revised;
    replacement Ch 11–13 drafted through Sichuan, Sanxingdui, Rasel reunion,
    Wren's public evacuation signature and displacement, Qiao's lost clearance,
@@ -66,7 +69,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
     light Ch 2 Stack compression. Book I ~37–38k and still short of trade-novel
     length, but structural + texture holes from the 2026-07-29 audit are closed.
     Further length is optional expansion, not missing machinery.
-9. [ ] **Charkha Measure entry** in `26_present_day_cast_expanded.md` (the Charkha as institution with people and incentives — on-page from Ch 1; no-sides audit).
+9. [ ] **Charkha entry** in `26_present_day_cast_expanded.md` (the Charkha as institution with people and incentives — on-page from Ch 1; no-sides audit).
 10. [~] Research passes, just-in-time: Pelangi Reach Timah/Sama-Bajau seeded in Ch 1;
     Malacca market already dense; remaining: deeper island texture as needed.
 
@@ -109,7 +112,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 - [x] Lock the westward causal route through Mesopotamia/Anatolia →
   Bosporus/Thrace/Balkans; no Gulf backtrack.
 - [x] Lock the Europe clue chain: Hassan record → dead-zone signature → Pömmelte
-  → broken-line church → Rollright/Men-an-Tol → bitter cup / Lovernios → Stonehenge
+  → broken-line church → Rollright/Men-an-Tol → Delphic Games / Laurel Cube contact → Stonehenge
   transmission station → Avebury release.
 - [x] Dramatize the Arta, Enheduanna, and *Inana's Descent* material without turning texts into exposition.
 - [x] Make melam external field-pressure and ni embodied awe/fear; show ni being converted into persecution and obedience.
@@ -142,7 +145,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
   Full findings: `55_series_pitch_and_comps.md` § *Book II — delivered-prose
   hunger audit*.
 
-## Book III — *The Living World*
+## Book III — *The Compact*
 
 - [x] Remove Rasel-rescue allocation; give him an independent scientific and civic
   conflict after his Book I recovery.
@@ -170,8 +173,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
   it as testimony, not doctrine; both delegates' concrete asks (water
   authority; a non-shared seat) go into the purpose clause as named
   conditions, not adopted metaphor. No bird appears on the page.
-- [x] **Costa Rica hinge geography — working lock 2026-08-01:** Limón–Tortuguero
-  + Reventazón / Turrialba nursery network (`60`; Yuliana Mora on-page in IV).
+- [x] **Costa Rica hinge geography — working lock 2026-08-01:** Nosara–Sámara + Tenorio–Miravalles
   Still open for consultation densification: species mixtures, Indigenous
   jurisdiction detail, work-song wording — do not invent guanacaste monoculture.
 - [x] Reveal the Forks with the dragon witness: Earth-produced chimpanzee/bird branches beside Heaven-seeded human/dragon branches; retain disputed provenance and independent-test limits.
@@ -179,6 +181,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 
 ## Terminology and continuity
 
+- [x] Carry the parent-memory inheritance chain through the manuscripts: non-forensic storm-room memory in Book I Ch 1; Shireen voice exchange in Ch 11; Maren's physical *ask me why I stayed* correction in Ch 13; bodily echo and answered question in Book II Ch 10. Keep Wren's elbow/power/route care distinct from Maren's sternum gesture.
 - [x] Use **Arta** for civilization's transferable order; do not use the old term it replaces.
 - [x] Use **melam** for external radiance/field-pressure and **ni** for embodied awe/fear; keep **life-energy** and **surge** distinct.
 - [x] Keep Earth as the intentional planetary life-process and Heaven as celestial/extraterrestrial influence; panspermia is literal.

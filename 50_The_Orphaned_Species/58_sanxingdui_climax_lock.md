@@ -12,7 +12,7 @@ This document supersedes every earlier allocation that places the Gulf, Mesopota
 |---|---|---|---|---|
 | **I — The Breach** | Find the father | **Sanxingdui:** Eli recognizes the distributed Tree of Life and chooses its living route over a controllable machine interface | Complete-meal Ch 11–13: chase + wonder + irreversible costs | **Rasel recovered; Wren displaced; Maren revealed as an early builder who later resisted** |
 | **II — The Descent** | Find the mother | **Göbekli → Mesopotamia → Europe → Albion:** living connection became selection; Eli finds and **releases** Maren | Release + **failed keep-her / use-her-signal assault** concurrent (`32` Ch 10) | Mother released; awakening spreads without adequate social form |
-| **III — The Living World** | Build a world capable of holding awakened capacity | Registry crisis, war, bounded authority, public inquiry, reciprocal Two-Tree institutions | Handover under **closing war/window pressure**; birds = coda after climax (`33`) | Eli steps down into answerable membership; private Loop hunger remains |
+| **III — The Compact** | Build a world capable of holding awakened capacity | Registry crisis, war, bounded authority, public inquiry, reciprocal Two-Tree institutions | Handover under **closing war/window pressure**; birds/hose coda moved to Book IV, not Book III (`33`) | Eli steps down into answerable membership; private Loop hunger remains |
 | **IV — The Court of Threads** | Refuse inherited crown | Birth without title; second and final relinquishment | **Simultaneity:** labor + heir motion + vote + institution fracture (`60` §7) | Child no title; wanted, not indispensable |
 
 ## Book I route
@@ -130,6 +130,8 @@ The closing movement must include:
 - Wren's unusable papers and the impossibility of returning to her old desk made
   material;
 - a first credible disclosure about Maren — including the book's **first dated proof of life** (see below).
+- Maren's physical correction placed in Eli's hand, carrying the private request
+  that opens Book II.
 
 ### Book II wound
 
@@ -137,7 +139,7 @@ Rasel reveals:
 
 > Maren was not merely taken for discovering the system. She helped build its early neural-signature tools before she understood—or admitted—what they would become. She later sabotaged the work and disappeared into the Charkha chain.
 
-**Dated proof of life — LOCKED.** The same disclosure must carry a **when**, not only a *what*: a courtesy request routed Mandate-to-Charkha **two winters ago** reached Rasel carrying Maren's correction in her own hand. Ch 1 gave Eli decade-old hearsay from Mei (*taken, not killed; not a map*); this is the first evidence that his mother is breathing **now**. It must arrive in the same breath as the complicity, so the proof and the wound are one sentence and neither can be enjoyed alone. Book I then exits on a living woman, not a routing code.
+**Dated Maren proof and summons — REVISED AND LOCKED 2026-08-10.** A courtesy request routed Mandate-to-Charkha two winters ago reached Rasel carrying Maren's correction in her own hand. He preserved the folded strip inside his lab cuff. Below the field equation she changed pens and wrote: *Babu—if this reaches you, ask me why I stayed.* Mei knew only that Maren entered the extraction van alive, so the strip establishes survival into recent years while leaving her present condition open. Rasel tells Eli to go ask her. Book II begins from an invitation to hear Maren's answer, with rescue still only Eli's interpretation.
 
 This does not make Maren secretly evil. It makes Book II's question moral rather than logistical:
 

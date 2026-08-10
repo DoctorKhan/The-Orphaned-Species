@@ -78,7 +78,7 @@ Pair **Part VI** with **Part V** (past-vs-mask Vol I scenes) when drafting.
 
 **Keep it.** It integrates the family loss, political hunt, exile, bodily vulnerability, and uncertain opening of the receiver. Removing it would separate plot elements that currently reinforce one another.
 
-**Cause — BIOWEAPON PERSONAL-CONSEQUENCE LOCK 2026-08-06:** not the extraction attack. During the attack (border / third country / keeper handoff — not a legible Dhaka scene), Rasel is **taken** into Mandate custody and Maren onto the Charkha Measure chain the same night; Eli is told later both parents **did not make it out**. He is not the extraction's target and is not physically injured in it — the future present-day healer stabilizes a shaken, uninjured child, and an informal network moves him into Thailand before the attackers learn he lived. Years later, the engineered outbreak (the **Fever Years**) reaches Pelangi Reach after Eli is already there; despite the community's newly built quarantine and care systems, he contracts it, and its post-infectious aftermath is a **moderate-to-severe neurological scar** — Pelangi's clinic and Mei's kitchen nurse him through the fever itself. The world's diagnosis in the moment is **TBI**, and that label sticks as Eli's own shorthand, but the canonical cause is the **Fever scar**: he was never the extraction's target, only the weapon's, and the same weapon that orphans him also scars and wakes him (outbreak survivors carry the receiver — `42`). Exact pathogen, diagnosis, treatment interval, and clinic logistics require research when the scene is drafted.
+**Cause — BIOWEAPON PERSONAL-CONSEQUENCE LOCK 2026-08-06:** not the extraction attack. During the attack (border / third country / keeper handoff — not a legible Dhaka scene), Rasel is **taken** into Mandate custody and Maren onto the Charkha chain the same night; Eli is told later both parents **did not make it out**. He is not the extraction's target and is not physically injured in it — the future present-day healer stabilizes a shaken, uninjured child, and an informal network moves him into Thailand before the attackers learn he lived. Years later, the engineered outbreak (the **Fever Years**) reaches Pelangi Reach after Eli is already there; despite the community's newly built quarantine and care systems, he contracts it, and its post-infectious aftermath is a **moderate-to-severe neurological scar** — Pelangi's clinic and Mei's kitchen nurse him through the fever itself. The world's diagnosis in the moment is **TBI**, and that label sticks as Eli's own shorthand, but the canonical cause is the **Fever scar**: he was never the extraction's target, only the weapon's, and the same weapon that orphans him also scars and wakes him (outbreak survivors carry the receiver — `42`). Exact pathogen, diagnosis, treatment interval, and clinic logistics require research when the scene is drafted.
 
 **Cosmological function:** the injury cracks the receiver's filter—the door ajar—but creates no gift. His maternal carrier-line explains sensitivity; distinct practitioners persist as threads in the living web; discipline and practice let him survive contact. The injury supplies access, danger, and ambiguity, never mastery.
 
@@ -150,14 +150,18 @@ These stages overlap. Eli can have an early surge before he can interpret one, a
 3. **Rasel rhymes without reincarnation** — Eli recognizes the register in deep threads (Aru breath, Lovernios field line); he is not Rasel returned.
 4. **Father grief ↔ gift delay** — garden failure breaks when he stops performing mastery and accepts **feel → record → test** as Rasel's actual craft. Dream material enters the same test; it is not automatically Rasel's voice.
 
-**Parent memory on-page — LOCKED 2026-07-25 (rev. two-phase):** Vol I parent beats run **before and after** Mei's orphan-truth reveal — not only one pass.
+**Parent memory on-page — REVISED AND LOCKED 2026-08-10:** Parent memory moves through grief, ambiguous loss, and transmission to surviving kin.
 
 | Phase | Reader job | Eli's mind | Craft |
 |---|---|---|---|
-| **Before reveal** | Feel love without the plot | Body-memory, habit, sensory rhyme — often **unlabeled** or half-named | Garden touch, race skills, food recognition, Shireen photo — **depth without dossier** |
-| **After reveal** | Grief + hunger intensify | **Explicit** thinking about Maren/Rasel — alive, taken, unreachable; memories **flood back** with new charge | Same images return **re-framed**; he reaches for parents he can no longer pretend are dead |
+| **Before reveal** | Feel love without plot utility | Body-memory, habit, sensory rhyme | Garden touch, food recognition, storm-room safety with no clue hidden inside it |
+| **After Mei** | Hold grief beside uncertain survival | He cannot settle on memorial or reunion | Same images return with no present-tense guarantee |
+| **Shireen exchange** | Let memory become family inheritance | Eli gives away something only he remembers | Shireen receives one bodily fact about Rasel and asks for another memory later |
+| **Maren reunion** | Return the body-memory without restoring childhood | Burned toast opens the storm room during the embrace | Eli helps support the body that once kept a hand on his breath |
 
-**Minimum seeds:** Ch 1 pre-reveal garden/sailing; Ch 1 post-reveal (Shireen → catamaran → marina raid → strait); Ch 2 post-reveal (queues, wrong-room, ring hands, Continue Inn, Cube grounding). **Maren taught him to sail.** Do not front-load lab/conspiracy in either phase; **do** front-load and **return to** love, argument, competence split between parents.
+**Minimum seeds:** Ch 1 garden and storm-room memory; Ch 1–2 ambiguous-loss returns; Ch 11 Shireen voice exchange; Ch 13 Maren's note; Book II Ch 10 embodied echo. Suresh taught Eli to sail. Parent memory carries love and disagreement before it carries research history.
+
+**Touch-language guardrail — LOCKED 2026-08-10:** Maren's safety gesture is a palm on Eli's sternum, breath rising beneath it. Rasel's is a cool hand at the back of his neck. Wren does not inherit either gesture. She steadies an elbow through cloth, supplies power or route, and lets go when Eli pulls away. Her eventual holding develops its own chosen adult language.
 
 **Cross-ref:** `33_the_curriculum.md` §4 (fragments); `27` § Eli; `manuscripts/I_The_Breach.md` (Rasel's shoulders, counting dream, Ila dream, green hands); `05` § Pele dream; `17_reveal_order_and_reader_impact.md` (effects before doctrine).
 
@@ -269,9 +273,9 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 
 **Cross-ref:** `99` § Eli's upbringing; `31` Ch 5–10; `95` *Eli*.
 
-## Physical healing — the healer's alone; Eli reads symbols and bodies
+## Physical healing — the healer's alone; Eli reads systems and trajectories
 
-Eli is **not** a healer. His bodily gift is *diagnostic*: with contact and attention he can **read** a body — locate a bleed, sense where damage or distress sits, feel a fracture's wrongness — an application of **Rasel's symbolic feeling** to living tissue (`15` § *Rasel's gift*). He cannot repair any of it. The read can guide ordinary first aid or point the healer at what to mend; the mending is never his. Even the read is inconsistent, exhausting, and medically bounded. **Waking symbolic reads** (stone, seam, boundary, join) and **dream answers** are the same inheritance on different channels — feel first, test second.
+Eli is **not** a healer. His receiver is trajectory-only: with attention he can read the vector of a system — the direction a dyke will breach, the timing of a military column, the arc of a conversation — an application of Maren's receiver design to systems, not bodies. Somchai Vichai holds the somatic diagnostic lane (heat, tingling, pressure, cold) and repairs. The read can guide ordinary action or point Somchai at what to mend; the mending is never Eli's. Even the trajectory sense is inconsistent, exhausting, and system-bounded. **Waking symbolic reads** (stone, seam, boundary, join) and **dream answers** are the same inheritance on different channels — feel first, test second.
 
 The trilogy's only healer is the male medical worker who stabilizes Eli after the attack ending his family's flight and passes him into the escape network. His practical medical competence precedes the gift. The attack exposes him to the suppression apparatus; he and Eli are separated, then meet again when two independent clue trails cross in Volume II. Neither has been knowingly traveling toward the other. Over time the healer can sustain deep repair of severe tissue injury, complicated fractur
 

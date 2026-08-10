@@ -7,7 +7,7 @@
 | When | Beat |
 |------|------|
 | **Friday AM** | Garden → **morning skiff race** (10 o'clock) vs Suresh; **Eli wins** — wind pocket, Timah/Jul harvest boat drifts into Suresh's line; Eli reads wall-shadow breeze from quay watching; Suresh crosses own name off slate |
-| **Friday PM** | **Mei final dinner** on terrace — orphan truth (*stolen child*, parents taken alive); **only send-off** (no second goodbye Saturday) |
+| **Friday PM** | **Mei final dinner** on terrace — ambiguous-loss truth (both entered separate vans alive; later survival unknown); **only send-off** (no second goodbye Saturday) |
 | **Saturday AM** | Babaji's **motor catamaran** at anchor — **first time Eli meets Wren**; papers, attestation, call sheet; *"I'm your handler through Singapore"* |
 | **Saturday PM** | Mandate squeeze → **Wren at marina stairs BEFORE checkpoint** → guides gate → boards Suresh → **raid on Babaji's hotel offices** as Eli departs **last light**; Babaji's catamaran runs south in parallel |
 
@@ -24,7 +24,7 @@
 
 1. **⟦DC-1⟧ — LOCKED rev. Z.** **Friday AM** race opens **mid-channel in medias res** (Eli vs Kiran; wind pocket → Timah/Jul → wall-shadow finish); Suresh holds the wager and gives Eli the Cherry Cube manifest after **Eli wins**. Shireen **Monday** = post-race stake. **Two boats only. No dawn boat.**
 
-2. **⟦DC-2⟧ — LOCKED rev. Z + craft 2026-07-29.** **Mei dinner** opens with Eli and Kiran trading race notes; Kiran leaves before Mei privately delivers the orphan truth (*stolen child*, parents taken alive, Babaji told her years ago). **Rootbook charged on-page:** Eli opens it—Maren's hand, forked *Name* page—Mei closes it and withholds (*Babaji's people move paper*). Plate left like a place held. **No Saturday service-door goodbye.**
+2. **⟦DC-2⟧ — REVISED AND LOCKED 2026-08-10.** **Mei dinner** opens with Eli and Kiran trading race notes; Kiran leaves before Mei turns the family photograph face-down and repeats what Babaji told her. Both parents entered separate vans alive. Mei has no later proof and makes no promise. The physical Rootbook first appears in Thai cooperative custody in Ch 10; Singapore/Malacca supplies damaged scans. **No Saturday service-door goodbye.**
 
 3. **⟦DC-3⟧ — LOCKED rev. Y + craft 2026-07-29.** **Saturday AM catamaran** = first Wren meet. Handler line through Singapore. **Accelerated:** papers + attest + last-light window + grief line on launch; jurisdiction speech and tea-ledger beat compressed. Babaji texture without orphan exposition on Babaji's lips.
 

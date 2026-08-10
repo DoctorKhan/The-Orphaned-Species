@@ -1,4 +1,4 @@
-# Volume III — *The Living World* — Beat Sheet
+# Volume III — *The Compact* — Beat Sheet
 
 > **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Book III's monolithic venue name is **Living Root**: the organic, spreading Brazilian river-port network and federated teahouse ecology — unsealed, branching, the anti-Cube. It is the infrastructure that grows while the Cube stands.
 
@@ -12,14 +12,16 @@
 > clinics, farms, local administrations, and capable officers — into a
 > temporary cross-route command. He issues real orders because food,
 > evacuation, defense, and routes require decisions, not symbolic consensus.
-> He wins battles and saves people, but the decentralized compact cannot
-> hold under war pressure: Continuity keys, factional mandate, private
-> force, and the temptation to turn emergency command into permanent
-> authority fracture the interregional layer. The volume ends with Eli
-> holding emergency power and the institutions too damaged to receive a
-> clean handover. The first relinquishment is **incomplete** — not because
-> Eli refuses it, but because the compact it required no longer exists
-> intact. Rowan/Eli remains non-romantic and nonsexual in Book III; only
+> He wins battles and saves people, and his own relinquishment is real:
+> under real threat, in a single hall, he signs away his authority and the
+> room continues without him — a genuine civic win, meant to read as one.
+> What the war never secured is the larger claim that win implies:
+> Continuity keys, factional mandate, and private force in regions outside
+> that room stay live and unresolved. The first relinquishment is
+> **incomplete** — not because Eli refuses it or fails to complete it, but
+> because the wider interregional compact it seemed to prove was never
+> intact anywhere beyond the room that was watching; that gap surfaces only
+> in Book IV. Rowan/Eli remains non-romantic and nonsexual in Book III; only
 > deniable attraction is planted. Book IV owns conscious attraction,
 > repeated sex before romance, chosen conception, pregnancy, birth, the
 > reconstruction of the compact after its failure, and the **second and
@@ -42,13 +44,14 @@
 > — ports, clinics, farms, local administrations, and capable officers — into
 > a temporary cross-route command. He wins battles and saves people, issuing
 > real orders because food, evacuation, defense, and routes require
-> decisions, not symbolic consensus. But the decentralized compact cannot
-> hold under war pressure: Continuity keys, factional mandate, private
-> force, and the temptation to turn emergency command into permanent
-> authority fracture the interregional layer. The volume ends with Eli
-> holding emergency power and the institutions too damaged to receive a clean
-> handover. The first relinquishment is **incomplete** — not because Eli
-> refuses it, but because the compact it required no longer exists intact.
+> decisions, not symbolic consensus, and his own relinquishment at the end
+> is real — a single hall, real threat, his authority signed away and the
+> room continuing without him. But that civic win is narrower than it
+> looks: Continuity keys, factional mandate, and private force in regions
+> outside that room stay live and unresolved, so the wider interregional
+> compact the war seemed to prove was never actually intact. The first
+> relinquishment is **incomplete** — not because Eli refuses it, but because
+> that wider compact only surfaces as untested once Book IV arrives.
 > Europe, the tether, the amplifier, the mother-release, and the Rasel
 > rescue do **not** repeat here. Rasel has been physically present since the
 > Sanxingdui ending of Book I.
@@ -68,7 +71,7 @@
 > field physics and institutional memory, while Eli retains the final choice about
 > his own capacity.
 
-> **MESSIANIC RISE — REVISED 2026-08-07:** The series does not shy away from the messiah shape. By Volume III a substantial public treats Eli as Deiwos, chosen one, healer-king, or Son of Man. He rises through real coordination, signs, rumor, and projection. He accepts bounded wartime command and wins battles, but the decentralized compact **fractures under war pressure**: Continuity keys, factional mandate, private force, and the temptation to turn emergency command into permanent authority fracture the interregional layer. The first relinquishment is incomplete — not because Eli refuses it, but because the compact it required no longer exists intact. The Lean Year's interregional coordination crisis in Book IV carries the crown back to him as reconstruction, not restoration, where pregnancy adds heir mythology. Adulthood is finally proved by institutional transfer during the birth, not by denying the signs.
+> **MESSIANIC RISE — REVISED 2026-08-08:** The series does not shy away from the messiah shape. By Volume III a substantial public treats Eli as Deiwos, chosen one, healer-king, or Son of Man. He rises through real coordination, signs, rumor, and projection. He accepts bounded wartime command, wins battles, and relinquishes it for real at the end — a genuine civic win in the room where it happens. But that win is local: Continuity keys, factional mandate, and private force outside that room stay live and unresolved, so the wider interregional compact the war seemed to prove was never actually intact. The first relinquishment is incomplete — not because Eli refuses it, but because that wider gap only surfaces once Book IV arrives. The Lean Year's interregional coordination crisis in Book IV carries the crown back to him as reconstruction, not restoration, where pregnancy adds heir mythology. Adulthood is finally proved by institutional transfer during the birth, not by denying the signs.
 
 > **TEMUJIN LEADERSHIP LOCK — REVISED 2026-08-07:** Book III's external
 > pressure is the approaching war with the Eastern Mandate. After the
@@ -77,13 +80,126 @@
 > farms, local administrations, and capable officers. His strategic
 > evolution follows the useful part of Temujin's arc: adaptive movement,
 > absorption of enemy methods, promotion by competence, patience, and turning
-> scattered survivors into a mobile force. But the decentralized compact
-> cannot hold under war pressure: Continuity keys, factional mandate, private
-> force, and the temptation to turn emergency command into permanent
-> authority fracture the interregional layer. The volume ends with Eli
-> holding emergency power and the institutions too damaged to receive a clean
-> handover. The first relinquishment is **incomplete** — not because Eli
-> refuses it, but because the compact it required no longer exists intact.
+> scattered survivors into a mobile force. The command system behind this
+> arc must be dramatized, not asserted — see `## Command-system lock
+> (Napoleon / Temujin parallels)`. His own relinquishment at the end is
+> real and complete — a single hall, real threat, authority signed away,
+> the room continuing without him. But the wider claim that win implies
+> does not hold: Continuity keys, factional mandate, and private force
+> outside that room stay live and unresolved, so the interregional compact
+> the war seemed to prove was never actually intact everywhere. The first
+> relinquishment is **incomplete** — not because Eli refuses it, but because
+> that wider gap only surfaces once Book IV arrives.
+
+## Command-system lock (Napoleon / Temujin parallels)
+
+> **LOCKED 2026-08-08.** The Temujin/Napoleon comparison is analytical
+> shorthand, not exposition. Book III must dramatize the *command system*
+> advantages that made both commanders effective — intelligence, speed,
+> semi-autonomous regional command, adaptive absorption of enemy methods,
+> logistics as strategy, merit promotion, political framing of victory, and
+> decisive engagement anchors — without turning Eli into a conqueror or
+> reducing the parallel to costume. The compact's answer to each advantage
+> is the test: Eli can borrow the method while refusing the authoritarian
+> institutional logic that produced it.
+
+### Three Circles check — every beat below
+
+> **LOCKED 2026-08-08.** No mechanism in this section is finished until it
+> clears the same three-term check already locked for Ch 1–9 (§ *Three-term
+> check — L1a / T1b / T2*): **body** — one named person's felt, sensory
+> cost, not a summary; **family** — a specific relational bond stretched or
+> spent by the tactical choice; **civilization** — the strategic and
+> institutional stakes, which these mechanisms supply by default.
+> Civilization-scale is never the gap here; a war beat that stops at
+> strategy reads as an after-action report. Body and family are the gap,
+> and they belong to someone the reader already has a name for — Rowan,
+> Wren, Rasel, a named threshold-house resident — never a generic civilian
+> or soldier. Per the sensory-cue convention used throughout: lead Eli's
+> own body beats with his sensation; render everyone else's feeling only
+> through visible expression, body, or movement.
+
+### 1. Intelligence before contact
+
+> **LOCKED 2026-08-08.** The Mandate strikes must not arrive as a pure
+> system-level surprise. Show at least one fragmented intelligence beat
+> before the Pacific strikes: an intercepted drone pattern, a refugee report
+> of unusual port activity, a Brazilian coast-watcher noticing survey
+> flights. This lets Eli appear to have *chosen* the wrong response under
+> pressure rather than being blindsided. The war becomes a political rupture
+> with visible causes, not a faceless shock. The Mandate's strike
+> coordinator is named on-page before contact, and Eli studies at least one
+> visible decision.
+
+### 2. Tactical speed win
+
+> **LOCKED 2026-08-08.** Book III's geography — Brazilian rivers, coastal
+> inlets, island chains — supports maneuver advantage. Show Eli winning one
+> engagement specifically because he routes forces through channels the
+> Mandate didn't map, or because he acts on a decision before the enemy's
+> orders arrive. A single speed victory makes the contrast between Eli's
+> method and the Mandate's method legible on the map. The slow-clock theme
+> remains load-bearing; this win is the exception that proves the rule.
+
+### 3. Semi-autonomous regional command
+
+> **LOCKED 2026-08-08.** The compact is decentralized, but it needs a
+> visible staff layer to dramatize the difference between Eli's coordination
+> and Sol's forced unity. Show one or two named regional commanders
+> exercising discretion — adapting orders to local terrain, refusing a bad
+> order, or acting without Eli's approval. The compact's fracture becomes
+> human rather than institutional. Sol's forced unity punishes dissent; Eli's
+> coordination allows it. The contrast must be visible in personnel decisions,
+> not stated in argument.
+
+### 4. Adaptive absorption of enemy methods
+
+> **LOCKED 2026-08-08.** The beatsheet states this arc; the manuscript
+> must dramatize it. If Eli's forces adopt a Mandate tactic — counter-drone
+> jamming, psionic field reversal, cyber-sabotage protocol — and then refuse
+> the institutional logic that produced it, the absorption is earned. It
+> also answers what Eli's side is building besides refusal. The borrowed
+> method must be visibly repurposed, not merely used.
+
+### 5. Logistics as drama
+
+> **LOCKED 2026-08-08.** Both Napoleon and Temujin treated supply lines as
+> extensions of strategy. Book III has food, fuel, boat repair, and medicine,
+> but they read as texture rather than active military problems. If a
+> specific corridor closes not because of drones but because a fuel cache was
+> interdicted, and Eli must choose between diverting supply from a clinic or
+> losing the corridor, the war logic becomes economic as well as tactical.
+> The Mandate's advantage must include interdiction of material flows, not
+> only psionic and drone pressure.
+
+### 6. Merit promotion visible in the officer corps
+
+> **LOCKED 2026-08-08.** Temujin promoted by demonstrated competence, not
+> lineage. Eli does this implicitly, but a beat where a subordinate earns
+> command through a specific act — repairing a communications link under fire,
+> rerouting a clinic convoy, talking down a frightened crew — makes the
+> contrast with Lang's Standard and Sol's loyalty logic visible in personnel
+> decisions. The promotion scene must be witnessed by the reader, not reported.
+
+### 7. Decisive engagement anchor
+
+> **LOCKED 2026-08-08.** Book III's war is intentionally diffuse, which is
+> thematically correct, but one named corridor or port defense where the
+> strategic picture genuinely shifts would anchor the physical war. Without
+> it, the battles read as a series of reports rather than a campaign with
+> turning points. The anchor must have a geographic name and a legible
+> before/after effect on the war's tempo and the compact's credibility.
+
+### 8. Cost of mobility
+
+> **LOCKED 2026-08-08.** Temujin's speed came at material and human cost:
+> families separated, supply lines stretched, communities abandoned. Book III
+> should show Eli's mobility spending a specific named household — someone
+> who offered shelter, then was left behind because the corridor shifted.
+> This makes the war's moral logic concrete: the decentralized compact wins
+> by moving fast, but moving fast still leaves people behind. The abandoned
+> household must be visible in a later scene — either reunited or still
+> absent — so the cost remains open.
 
 > **SOL AS JAMUKA — REVISED 2026-08-07:** Sol is Eli's rival formed by the
 > same catastrophe and drawn from some of the same discarded people. Their
@@ -95,6 +211,143 @@
 > forced unity look like the only form of solidarity. The decentralized
 > compact's failure under war pressure means Sol's model appears to work for
 > some people, increasing the cost of Eli's refusal.
+
+### 8a. Named enemy tactician and Mandate contact before strikes
+
+> **LOCKED 2026-08-08.** The Mandate's Pacific offensive currently feels
+> systemic. Give the strike coordinator a name and a visible decision — one
+> that Eli anticipates or counters — so the war is a contest between
+> strategists, not between a hero and an abstraction. Commissioner Ma is
+> already the human Mandate face; a military counterpart makes the strategic
+> chess visible. Before the strikes land, Eli must have at least one direct
+> Mandate channel exchange: a warning, a misread signal, or a failed
+> de-escalation. This strengthens Ma's later role and makes the war a
+> political rupture with named human causes, not a faceless surprise.
+
+### 8b. Sol's success on a specific cohort
+
+> **LOCKED 2026-08-08.** Before Eli's refusal lands as virtue, show at
+> least one person or cohort for whom Sol's forced unity genuinely works: a
+> veteran who stops waking at every noise; a threshold-house resident whose
+> port is defended by Sol's coordination; a demobilized Extra who finds
+> brotherhood, purpose, and protection under Sol's command. Give that person
+> one brief named scene — he's calmer, his kids are sleeping through the
+> night, his threshold house is defended. Then Eli has to refuse him
+> something that is already working. That makes the refusal morally costly,
+> not just principled.
+
+### 9. Feigned weakness draws overextension
+
+> **LOCKED 2026-08-08.** Temujin's staged retreats pulled enemies past their
+> supply lines onto ground he'd chosen. Give Eli one deliberate false
+> withdrawal — a port or corridor visibly abandoned, defenders pulled back
+> in view of Mandate or Sol scouts — that draws a pursuing force past its
+> own logistics before Eli's mixed command converges on it. Anchor the body
+> cost in Eli himself: the specific physical wrongness of giving an order
+> that looks like the thing he refuses to become, hands doing the motion of
+> securing a door he is choosing to leave open. The deception must be paid
+> for at family scale too: the civilians sheltering at that position don't
+> know it's a feint, and their fear on the page — visible in one named
+> household, not a crowd — is the same fear a genuine retreat would cause.
+> Do not narrate it as a clean tactic.
+
+### 10. A turned commander, not just a spared one
+
+> **LOCKED 2026-08-08.** Ch 8 already gives Eli one act of mercy toward an
+> enemy (Lang, spared and left in place). This is a sharper move: a
+> captured or defected Mandate or Sol officer — someone whose actions
+> directly caused a grief already on the page — is given real command
+> inside Eli's mixed force, over the objection of people who lost someone
+> to him. Temujin promoted men who had fought hard against him before
+> capture; the point was never forgiveness, it was that competence and
+> present loyalty outweighed the debt of the past. Play the community's
+> anger as unresolved, not talked out of itself by scene's end.
+>
+> **Rowan is right, and the book does not rehabilitate Eli for overruling
+> her — LOCKED 2026-08-09.** Rowan objects to this specific promotion —
+> not on principle, on a concrete, checkable read of the man: something
+> about how he holds a room, or answers a question he wasn't asked, that
+> she names precisely and Eli discounts because the strategic logic
+> (mechanism one) is sound. He promotes the man anyway. At a later
+> decisive moment, the turned commander fails or defects again, costing
+> something real and irreversible, exactly along the line Rowan named. Eli
+> does not get credit for hindsight — no intercut moment reveals he'd
+> already suspected it. This is the one place in the volume where his
+> judgment is simply worse than hers, and the book lets it cost what it
+> costs.
+
+### 11. Disinformation through a channel known to be compromised
+
+> **LOCKED 2026-08-08.** Rasel's coupling research is already an
+> established leak vector into Mandate operational planning (`UNION
+> DESTRUCTION / RASEL LOCK` below). Eli or Rowan can knowingly feed false
+> logistics or troop disposition through that same compromised channel to
+> mislead a specific Mandate strike planner — a cheap, deniable ploy rather
+> than a battle. Anchor the body cost in Rasel at the moment he understands
+> what is being fed through his own work: a physical tell, not stated
+> grief — hands going still over a keyboard, a held breath, the specific
+> somatic freeze already locked for this project's sensory convention. It
+> should cost him something relational too: he built the channel to
+> prevent harm, and now watches his own son repurpose it as a weapon he
+> can't fully own or disown — play that as a scene between them, not a
+> report Eli receives secondhand.
+
+### 12. An alliance offered through kinship, and refused
+
+> **LOCKED 2026-08-08.** A regional power broker offers to cement loyalty
+> the old way — marriage or formal kinship into Eli's line, a faster route
+> to unity than voluntary compact-building. Eli refuses. This is not the
+> Rowan/Eli relationship (still non-romantic per the endgame lock) — it is a
+> political offer from a third party, and refusing it costs him a quicker
+> path to the exact unity he needs. The refusal makes mechanism four (the
+> wound as architecture) visible in action: he will not buy loyalty with
+> blood ties, even when blood ties would win faster.
+
+### 13. Legend arrives before the column and wins without a shot
+
+> **LOCKED 2026-08-08.** Let rumor of Eli precede a relief force so a
+> garrison or port authority surrenders or opens its gates before any
+> engagement — a bloodless win that saves lives. Anchor the cost in one
+> family inside the surrendered position: a parent's visible relief at not
+> having to fight, a child too young to understand what almost happened, no
+> summarizing crowd. Eli meets that family afterward and has to look at
+> what his myth spent on their behalf without raising a weapon — his own
+> body registers the discomfort of being thanked for a violence he didn't
+> commit. This applies the `HERO SURFACE` lock's costumes-peeling logic to
+> a specific tactical win rather than stating it as theme.
+
+### 14. Punished by law, promoted by result
+
+> **LOCKED 2026-08-08.** A subordinate breaks a direct order and is proven
+> right. Eli reprimands the breach on the record — insubordination has a
+> cost, or old-guard/legacy officers read meritocracy as lawlessness — and
+> privately hands the same person more responsibility once the result is
+> confirmed. Both halves must be visible on the page; showing only the
+> promotion collapses the tension that makes mechanism one (meritocracy as
+> solvent) costly rather than merely fair.
+
+### 15. The pattern that's only true on the surface
+
+> **LOCKED 2026-08-09; refusal-language pass 2026-08-09.** At one clearly
+> decisive moment — ideally the `Decisive engagement anchor` (item 7) or an
+> equivalent turning point — an officer or advisor lays out the textbook
+> answer: the Temujin move, or the Machiavelli "caress or eliminate" binary
+> (`49_machiavelli_toolkit.md` § *Caress or eliminate*), stated plainly
+> enough that a reader who knows the history recognizes it as the obvious
+> next play. It is a real, true pattern-match at the surface register — the
+> situation genuinely resembles the historical one. Eli names it out loud —
+> *that's the move* — and then reads the deeper register the surface match
+> hides: the specific people, loyalties, or costs in front of him that the
+> historical case didn't have to weigh. The two readings don't cancel each
+> other; the second is simply truer than the first, and holding both is
+> what makes the refusal that follows a conclusion rather than a reflex.
+> The refusal itself is not automatically vindicated: it should cost him
+> something real (a slower win, a harder fight, a person he could have
+> saved by playing the recognizable card), and the narrative does not
+> later reveal the harder path was secretly optimal. This scene is built
+> specifically for a reader who has been pattern-matching Eli to real
+> history since the Command-system lock began — it exists to break that
+> confidence, not reward it.
 
 > **UNION DESTRUCTION / RASEL LOCK — 2026-08-02:** The Eastern Mandate's
 > coordinated psionic forces destroy the Union's central continuity by striking
@@ -115,18 +368,26 @@
 > defense and interregional logistics. His mandate is narrow, publicly
 > recorded, independently reviewable, and time-limited; he can issue real
 > orders because food, evacuation, defense, and routes require decisions, not
-> symbolic consensus. He wins battles and saves people, but the decentralized
-> compact cannot hold under war pressure: Continuity keys, factional
-> mandate, private force, and the temptation to turn emergency command into
-> permanent authority fracture the interregional layer. The volume ends with
-> Eli holding emergency power and the institutions too damaged to receive a
-> clean handover. The first relinquishment is **incomplete** — not because
-> Eli refuses it, but because the compact it required no longer exists
-> intact.
+> symbolic consensus. He wins battles and saves people, and his own
+> relinquishment at the end is real — a single hall, real threat, authority
+> signed away, the room continuing without him. But that civic win is
+> narrower than it looks: Continuity keys, factional mandate, and private
+> force in regions outside that room stay live and unresolved, so the wider
+> interregional compact the war seemed to prove was never actually intact.
+> The first relinquishment is **incomplete** — not because Eli refuses it,
+> but because that wider gap only surfaces once Book IV arrives.
 
-> **HERO SURFACE / THINGS ARE NOT WHAT THEY SEEM — REVISED 2026-08-07:** Book III is where Eli **is** the hero in public — coordinator, temporary crown, messiah projection, the face other people use to hold fear still. He wins battles and saves people, issuing real orders because food, evacuation, defense, and routes require decisions, not symbolic consensus. But the volume's governing irony is that **almost nothing under that surface is what it appears to be.** Liberation language disguises the civilization-engine. Continuity / registry / Lang-sincerity look like care and turn persons into permanent categories and uses. Mandate pressure looks faceless until people inside it become reachable. Sol looks like fellowship and is a mirror of Eli's own hunger. Victory looks permanent and is only a stretch. Necessary force looks like rescue and still spends named men as acceptable loss. The decentralized compact fractures under war pressure; Eli must understand the risk, still act under the crown, and watch the incomplete first handover — while the reader watches the costumes peel. The Taoist answer he learns is that relinquishing is not a single act but a practice that survives fracture; the earned maturity belongs to Book IV (`60` § *Violence cycle / Taoist maturity*).
+> **HERO SURFACE / THINGS ARE NOT WHAT THEY SEEM — REVISED 2026-08-08:** Book III is where Eli **is** the hero in public — coordinator, temporary crown, messiah projection, the face other people use to hold fear still. He wins battles and saves people, issuing real orders because food, evacuation, defense, and routes require decisions, not symbolic consensus. But the volume's governing irony is that **almost nothing under that surface is what it appears to be.** Liberation language disguises the civilization-engine. Continuity / registry / Lang-sincerity look like care and turn persons into permanent categories and uses. Mandate pressure looks faceless until people inside it become reachable. Sol looks like fellowship and is a mirror of Eli's own hunger. Victory looks permanent and is only a stretch — the clearest instance being Eli's own relinquishment: real, moving, and completed in the room, while the wider interregional compact it seemed to prove was never actually secured. Necessary force looks like rescue and still spends named men as acceptable loss. Eli must understand the risk, still act under the crown, and let the reader believe the win alongside him — while the reader watches the costumes peel later, in Book IV, not here. The Taoist answer he learns is that relinquishing is not a single act but a practice that survives being revealed as smaller than it looked; the earned maturity belongs to Book IV (`60` § *Violence cycle / Taoist maturity*).
 
 > **CIVILIZATION AS ENGINE — THEMATIC LOCK 2026-07-22:** Book III makes explicit what Books I–II only plant. Civilization repeatedly calls itself family—motherland, fatherland, founders, sons and daughters, national household, sacrifice for future generations—but often operates as an engine. It draws in bodies, labor, attention, fertility, loyalty, and time; converts them into order, security, production, territory, and institutional continuity; and exports injury, displacement, disability, grief, ecological damage, and death into people it can afford to lose. Those people are not exhaust in the novel's moral voice: **the engine treats them as exhaust, and the story restores them as persons.** The metaphor is structural, not literal thermodynamics and not a claim that civilization produces no good. Medicine, infrastructure, defense, knowledge, and coordination are real outputs and explain consent. The indictment is that the system exports entropy downward while kinship language disguises expenditure as love. Governing distinction: **A family remembers whom it has lost. An engine records what the loss purchased.** Eli's mature answer is: **A system calling me family does not earn the right to spend me.**
+>
+> **ECONOMIC EXTRACTION LOCK — LOCKED 2026-08-09:** The engine operates through conditional access, not open conquest. Two mechanisms are locked:
+>
+> 1. **Labor export via economic domination.** The Mandate controls ports, fuel, medicine, credit, transit, and reconstruction contracts, then converts ordinary survival choices into extraction channels. Workers receive credits usable only inside Mandate-controlled markets; transit home depends on clearance the Mandate can withhold. Contract deductions for shelter, transport, and processing leave earnings below subsistence. Complaints route through Mandate-administered tribunals with long backlogs and no independent appeal. On-page: harbor intake forms that classify refugees as labor-ready before medical clearance; Brazilian river-port harvest labor under "joint civilian recovery" banners; Union emergency logistics supplied by Mandate contractors under ceasefire clauses.
+>
+> 2. **Credential/job mismatch — educated surplus, survival labor.** War and displacement destroy the credential-economy correspondence. Doctors drive food trucks; lawyers process intake manifests; physicists work dock repair. The Mandate and remnant states recognize only current clearance, not prior qualification, because recognition creates obligation. Keeping educated populations uncredentialed makes them replaceable and mobile. On-page: advanced-degree witnesses treated as equivalent to any survivor account; Wren's manifest logging a former surgeon as "general labor"; Somchai's medically trained refugees working as orderlies across three overlapping legal zones.
+>
+> **Prose rules:** show through paperwork, queues, and routing decisions — not lectures. Run inside existing scenes: forms Eli signs, worker lists Hassan reads, clinic intake categories Mei questions, port rosters Wren audits. No new plot moves. Full lock: `DECISIONS_Economic_Worldbuilding.md`.
 
 > **BABY-BUST PAYOFF — LOCKED 2026-07-22:** The prewar fertility decline and post-Weapon missing cohorts become explicit evidence for the engine diagnosis here, not in Book I. The blocs speak of children, continuity, and future generations while seeking replacement workers, soldiers, caregivers, taxpayers, heirs, and carriers. The novel does not condemn childbearing or romanticize demographic collapse; it distinguishes support for freely formed families from institutional demand for human inputs. Coalition alloparenting offers a partial alternative only when care is reciprocal, privacy is preserved, and neither parent nor child becomes communal property. Governing line: **A civilization can order reproduction; it cannot order belonging.**
 
@@ -160,11 +421,11 @@
 
 > **Tree of Knowledge in practice — LOCKED 2026-07-16:** The empirical-humility scenes are not generic scientific method; they are the Tree of Knowledge functioning correctly. A living signal becomes a public, revisable account: observation is separated from interpretation, alternatives are tested, other people can check the claim, and the conclusion changes when reality disagrees. The Tree of Life supplies contact; Knowledge asks what the contact predicts, what else could explain it, who can verify it, and what must be done if the test fails.
 
-> **Temporary authority and war pressure — REVISED 2026-08-07:** The Continental Union breaks in Book III and power pours into Eli by proximity. He issues real orders under a bounded compact, refuses forced synchronization, and attempts to prepare transfer. But the decentralized compact **fractures under war pressure**: Continuity keys, factional mandate, private force, and the temptation to turn emergency command into permanent authority fracture the interregional layer. The volume ends with Eli holding emergency power and the institutions too damaged to receive a clean handover. The first relinquishment is **incomplete** — not because Eli refuses it, but because the compact it required no longer exists intact. Book IV tests whether the compact can be **rebuilt** under scarcity rather than simply restored after war.
+> **Temporary authority and war pressure — REVISED 2026-08-08:** The Continental Union breaks in Book III and power pours into Eli by proximity. He issues real orders under a bounded compact, refuses forced synchronization, and completes the transfer he prepared — a real, moving scene, in one hall, under real threat. But that win is local: Continuity keys, factional mandate, and private force in regions outside that room stay live and unresolved, so the wider interregional compact the war seemed to prove was never actually intact. The first relinquishment is **incomplete** — not because Eli refuses it, but because that wider gap only surfaces once Book IV arrives. Book IV tests whether the compact can be **built out** at the scale it was never actually built to, rather than simply restored after war.
 
-> **ANOCRACY / UNION FRACTURE — REVISED 2026-08-07:** Author diagnosis for why the Continental Union shatters under Awakening War pressure: it is already an **anocracy** — a hybrid / partial-democratic regime mixing open civic language (courts, rights talk, party legitimacy, competitive factions) with Continuity/Devolution authoritarian capacity (survival roster, registry, expendability ledger, emergency powers that never sunset). Political-science floor: anocracies and recent democracy→hybrid transitions are markedly more prone to state failure and civil conflict than consolidated democracies or coherent autocracies (State Failure / Political Instability Task Force — Goldstone et al.; Hegre et al.; Regan & Bell — early years after becoming hybrid are especially dangerous). **Story use:** Mandate strikes do not invent the break; they hit a regime already in the dangerous middle — open enough to factionalize, closed enough to sort people into saved / catalogued / spent. **Cause of fracture refined:** already-corrupted over-centralizing hybrid + war shock → rival legitimacy centers; further personal/central concentration cascades damage. **Eli's strongman-by-proximity** is the classic anocracy temptation (fill the incoherent middle with one person). The compact's answer is to **refuse that middle** — temporary, reviewable, recoverable parts — not restore a cleaner throne or a cleaner Continuity state. The volume ends with the fracture intact and Eli holding emergency power. **On-page:** never say *anocracy*; show rival centers, Continuity vocabulary beside rights talk, bunker lists that elections do not bind, factional competition wearing emergency clothes. Research floor: `90_epigraphs_and_sources.md` § *Anocracy*.
+> **ANOCRACY / UNION FRACTURE — REVISED 2026-08-07:** Author diagnosis for why the Continental Union shatters under Awakening War pressure: it is already an **anocracy** — a hybrid / partial-democratic regime mixing open civic language (courts, rights talk, party legitimacy, competitive factions) with Continuity/Devolution authoritarian capacity (survival roster, registry, expendability ledger, emergency powers that never sunset). Political-science floor: anocracies and recent democracy→hybrid transitions are markedly more prone to state failure and civil conflict than consolidated democracies or coherent autocracies (State Failure / Political Instability Task Force — Goldstone et al.; Hegre et al.; Regan & Bell — early years after becoming hybrid are especially dangerous). **Story use:** Mandate strikes do not invent the break; they hit a regime already in the dangerous middle — open enough to factionalize, closed enough to sort people into saved / catalogued / spent. **Cause of fracture refined:** already-corrupted over-centralizing hybrid + war shock → rival legitimacy centers; further personal/central concentration cascades damage. **Eli's strongman-by-proximity** is the classic anocracy temptation (fill the incoherent middle with one person). The compact's answer is to **refuse that middle** — temporary, reviewable, recoverable parts — not restore a cleaner throne or a cleaner Continuity state. The volume ends with Eli's own relinquishment complete and the fracture still live everywhere outside the room that watched him do it. **On-page:** never say *anocracy*; show rival centers, Continuity vocabulary beside rights talk, bunker lists that elections do not bind, factional competition wearing emergency clothes. Research floor: `90_epigraphs_and_sources.md` § *Anocracy*.
 
-> **THE LOOP — LOCKED 2026-07-30; ENDGAME REVISED 2026-08-07:** Street **The Loop** (Incomplete Twin Circles) lands its working reading in Book III, not Book II. Form: two incomplete circles, opposed hatching, joinable into an infinity — feel-good desire × imagination → closed fantasy circuit; also atomization's aftermath. **Book III dramatic use:** the constitutional victory is real but incomplete: bounded wartime command, refusal of forced synchronization, attempted handover, and partial coexistence hold. The decentralized compact fractures under war pressure; Eli holds emergency power and the institutions are too damaged to receive a clean transfer. After the relief, Eli remains personally unsatisfied — usefulness without belonging, recognition without home, completion that still feels sealed. The Loop names his private incompletion and the compact's unresolved material debt; it must never retroactively declare the civic goods fake. Book IV tests the reconstruction of the compact under scarcity rather than exposing a fraud. Optional Book IV court re-read (succession / consort / belonging-as-completion fantasies). Book II may seed hatch-marks only. Full lock: `35` § *The Loop*; `95`.
+> **THE LOOP — LOCKED 2026-07-30; ENDGAME REVISED 2026-08-08:** Street **The Loop** (Incomplete Twin Circles) lands its working reading in Book III, not Book II. Form: two incomplete circles, opposed hatching, joinable into an infinity — feel-good desire × imagination → closed fantasy circuit; also atomization's aftermath. **Book III dramatic use:** the constitutional victory is real and complete at the scale the reader watches it happen — bounded wartime command, refusal of forced synchronization, a genuine handover, coexistence holding in that room. What the volume does not show is that the same win, attempted at the interregional scale the war actually required, was never secured — Continuity keys, factional mandate, and private force outside that room stay live. After the relief, Eli remains personally unsatisfied regardless — usefulness without belonging, recognition without home, completion that still feels sealed — and that private incompletion is not caused by the wider gap and must not be conflated with it. The Loop names his private incompletion and the compact's unresolved material debt; it must never retroactively declare the civic goods fake, and the civic goods are not fake — they are simply smaller than the war made them look. Book IV tests the reconstruction of the compact at the scale it never actually reached, under scarcity, rather than exposing a fraud. Optional Book IV court re-read (succession / consort / belonging-as-completion fantasies). Book II may seed hatch-marks only. Full lock: `35` § *The Loop*; `95`.
 
 > **DEEP-TIME RESIDUE / ANCIENT FACE — LOCKED 2026-07-30; END FEELING REVISED 2026-08-01:** Book III ancient face = **Forks + Loop + Umul** (coexistence test; incomplete completion; heal not spend). Quota: ~one deep-time residue every 1–2 chapters (`17` § *Deep-time residue density*). Institutions-as-fossils: Extra, registry, cloister founding, pronatal language. Per chapter: residue · wrong reading · human cost.
 
@@ -174,7 +435,7 @@
 >
 > **AMBASSADOR DINNER — LOCKED 2026-08-06:** the misfiled-head-of-state situation comedy lands in the relocated-government negotiation window (Ch 4–6 assembly stretch): protocol sorts Eli upward because the compact has no category for *provisional coordinator*; he is seated beside the ranking Union continuity figure, answers as a worker, and the misfile survives in the record as a procedural foothold for the Union's later interstate reading of the compact. Full scene architecture and the standing situation-comedy menu: `24` § *Situation comedy — misfiled by protocol*.
 >
-> **CLIMAX STAGING — EPIC ENOUGH — REVISED 2026-08-07:** War / forced-sync pressure and named cost land in **Ch 8**. Ch 9–10 are the moral climax as **holding action + incomplete handover** under residual pressure, not a completed transfer. End-feel: real victory on the battlefield, then private uncertainty — Eli holds emergency power, the institutions are too damaged to receive a clean handover, and the work of reconstruction passes to Book IV. Birds/hose morning = **Book IV coda**, not Book III. `17` § *Climax staging*; `55` § *Four-book climax staging*; `manuscripts/III_The_Living_World.md`.
+> **CLIMAX STAGING — EPIC ENOUGH — REVISED 2026-08-08:** War / forced-sync pressure and named cost land in **Ch 8**. Ch 9–10 are the moral climax as a **real, completed transfer** — Eli's own authority signed away in one hall, under real threat, and the room continuing without him. End-feel: real victory on the battlefield, then a real, moving civic win that the reader is meant to believe alongside Eli — followed by private uncertainty (the Loop) rather than doubt about whether the transfer happened. What the volume does not show is the wider interregional compact that win seemed to prove; that gap is invisible here and surfaces only in Book IV, so the work of reconstruction still passes to Book IV even though Book III's own handover is whole. Birds/hose morning = **Book IV coda**, not Book III. `17` § *Climax staging*; `55` § *Four-book climax staging*; `manuscripts/III_The_Compact.md`.
 
 > **NEW WAR — LOCKED 2026-07-18:** WWIII's hottest phase has passed, but its incompatible armistices leave blockades, proxy forces, drone fleets, and mobilization systems intact. Maren's release then creates a new strategic resource no state believes it can leave uncontrolled. The San Francisco registry seizure and the Eastern Mandate's coordinated Pacific strikes ignite the **Awakening War** (working public name): an openly renewed, multi-front war over who may register, conscript, synchronize, shelter, or destroy awakened people. The Continental Union, Eastern Mandate, Lang's security apparatus, Sol's forced-unity coalition, contractors, and local defense groups enter for different reasons; none fully controls the conflict. This is a new war born from the old one's weapons and unfinished hatreds, not merely WWIII's last battle.
 
@@ -210,7 +471,7 @@
 >
 > **Internal movement:** liberator → **strongman-by-proximity (real window)** → relinquishes → answerable ordinary member.
 >
-> **Victory condition:** coexistence survives a real failure of freedom, the Union’s fracture, the Awakening War, and an internal public reckoning. Eli **actually holds** continental coordinating power, accepts sanction, and begins transfer. But the compact **fractures under war pressure**: Continuity keys, factional mandate, private force, and the temptation to turn emergency command into permanent authority fracture the interregional layer. Certification cannot complete; decentralized governance does not hold for a real stretch — the first relinquishment is **incomplete**, and the work of reconstruction passes to Book IV. Outcome polity is **more decentralized** (Founders-shaped recoverable parts), not a restored throne-capital. Hawaiʻi remains a temporary refuge and learning community, not a front or military prize. Complex-time verification supports a limited Union–Mandate ceasefire process; principal research, shipping, and orbital corridors stand down first, while proxy violence and accountability remain unresolved.
+> **Victory condition:** coexistence survives a real failure of freedom, the Union's fracture, the Awakening War, and an internal public reckoning. Eli **actually holds** continental coordinating power, accepts sanction, and completes his own transfer — certification finishes, in the room, under real threat. But that completion is local: Continuity keys, factional mandate, and private force outside that room stay live and unresolved, so decentralized governance has not been proven to hold at the scale the war actually reached — the first relinquishment is **incomplete** at that wider scale, and the work of building the compact out to it passes to Book IV. Outcome polity is **more decentralized** (Founders-shaped recoverable parts), not a restored throne-capital. Hawaiʻi remains a temporary refuge and learning community, not a front or military prize. Complex-time verification supports a limited Union–Mandate ceasefire process; principal research, shipping, and orbital corridors stand down first, while proxy violence and accountability remain unresolved.
 >
 > **POV:** Eli remains the trunk. Wren owns the chapter in which she refuses Eli access to the threshold network. Other ensemble action is observed through one of those two minds; one scene holds one viewpoint.
 >
@@ -248,7 +509,7 @@
 >
 > **Scene filter for revision — LOCKED 2026-08-04:** ask in order: What cultural program is operating? What family/individual program is operating? What pressure exceeds the program's vocabulary? What practice emerges—or fails to emerge—in the gap?
 >
-> **Cross-doc lock references:** `00_THREE_TERM_MODEL.md` § *The bird tribes — T2 at civilization scale*; `05_story_architecture.md` § *Book III*; `99_two_term_model_instructions.md` § *Book III — The Living World*; `00_THREE_TERM_MODEL.md` § *Scene filter for revision*; `55_series_pitch_and_comps.md` revision gate; `58_sanxingdui_climax_lock.md`; `33_volume_III_beatsheet.md` lock record.
+> **Cross-doc lock references:** `00_THREE_TERM_MODEL.md` § *The bird tribes — T2 at civilization scale*; `05_story_architecture.md` § *Book III*; `99_two_term_model_instructions.md` § *Book III — The Compact*; `00_THREE_TERM_MODEL.md` § *Scene filter for revision*; `55_series_pitch_and_comps.md` revision gate; `58_sanxingdui_climax_lock.md`; `33_volume_III_beatsheet.md` lock record.
 
 ---
 
@@ -265,11 +526,16 @@
 7b. At Hawaiʻi, **aloha + kuleana** and communal work-armor. Refuge receives the war’s displaced. Strongman window and care-duty collide.
 8. Eli’s strongman authority is **real**, then he refuses the extension that would forcibly synchronize nonconsenting carriers (and probably save more people) and **relinquishes** under hearing/judgment — Path A complete.
 9. The voluntary coalition survives incompletely. A holding action Eli authorizes is staffed largely by ordinary men whose “choice” is narrowed by duty, shame, conscription history, and the knowledge that somebody must stay. A named man established first as a worker, friend, or family member is killed; others return burned, amputated, neurologically injured, or not at all. A beloved threshold house is also lost. The narrative never converts their sacrifice into proof that Eli chose correctly.
-10. Eli begins the inquiry and constitutional transfer. The handover is
-    **incomplete** under war pressure — the compact fractures: Continuity keys,
-    factional mandate, private force, and the temptation to turn emergency command
-    into permanent authority fracture the interregional layer. Book IV opens with
-    the wreckage of that failure and the work of reconstruction under scarcity.
+10. Eli begins the inquiry and constitutional transfer, and it **completes** —
+    a real, moving scene in one hall, under real threat, his authority signed
+    away and the room continuing without him. What it does not do is prove the
+    same thing at the scale the war actually reached: Continuity keys,
+    factional mandate, and private force outside that room stay live and
+    unresolved, so the interregional compact the war seemed to secure was
+    never actually intact everywhere. Book IV opens on that gap surfacing —
+    not on visible wreckage, but on the discovery of how much was still
+    standing on air — and carries the work of building the compact out to
+    real scale under scarcity.
 11. Commissioner Ma's Mandate delegation, Union survivors, and independent researchers replicate a small field-sail effect and establish a limited ceasefire and joint civilian program. At the later teahouse and shared garden, Eli is wanted but not indispensable; the ship remains years away.
 
 The precise refugee, victim, survivor, named male battlefield death, disabled survivors, and lost threshold house are now cast: Tomas Okafor, Nia Okafor, Amara Okafor, and Bima Prasetyo. Their dramatic functions remain locked.
@@ -478,8 +744,9 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   who refuse the battle entirely. A defense drone strikes a man approaching a
   perimeter to ask for entry; the resulting inquest is mandatory even while the
   wider attack makes the mistake easy to excuse.
-- **Pele dream:** before or during arrival, Eli dreams of red earth, a female presence, the cost of arrival, and kneeling without permission. He understands it through the name and stories of Pele only in conversation with Hawaiian hosts; contact, prior expectation, and dream construction remain live readings. Final terms are reciprocal service and humility before the place; the community can decline the awakening. **Quiet ownership beat only here** (not the chapter’s thesis): he is not crowned by revelation, and the dream grants no command over unwilling people. Research/consultation before prose; Pele is not a generic volcanic oracle.
-- **Kneeling:** Eli kneels voluntarily as humility and relation, not submission to a new sovereign.
+|- **Pele dream:** before or during arrival, Eli dreams of red earth, a female presence, the cost of arrival, and kneeling without permission. He understands it through the name and stories of Pele only in conversation with Hawaiian hosts; contact, prior expectation, and dream construction remain live readings. Final terms are reciprocal service and humility before the place; the community can decline the awakening. **Quiet ownership beat only here** (not the chapter’s thesis): he is not crowned by revelation, and the dream grants no command over unwilling people. Research/consultation before prose; Pele is not a generic volcanic oracle.
+|- **Plant-medicine journeys — LOCKED 2026-08-10:** three consent-bound **cube-grounded** visionary journeys in Books II–IV that train Eli’s somatic vocabulary and charisma. **Journey 1 (Book II, Laurel Cube / Wisdom):** a giant face appears with white markings — Eli sees the same markings on his own hands and begins to move them. **Journey 2 (Book III, Heather Cube / Courage):** a giant serpent requires continuous eye contact — Eli overcomes fear and holds the gaze. **Journey 3 (Book IV, Cherry Cube / Power):** an orchestra of song opens up guitar and medicine music. These journeys are charisma/sovereignty training — they are the somatic side of the Tree of Life, tested against god-sickness and false charisma. Book II’s Laurel Cube contact provides Wisdom/somatic marking; Book III adds Courage/fear; Book IV integrates Power/entrainment. Book I defers entirely.
+|- **Kneeling:** Eli kneels voluntarily as humility and relation, not submission to a new sovereign.
 - **Communal armor:** after the oath, local makers, healers, boatworkers, refugee engineers, and threshold-house members fit Eli with practical, uncomfortable, repairable armor for heat, ash, pressure, field exposure, and attack — **kuleana** made wearable: equipment and duty, not a costume.
 - **Seed/payoff:** Eli first discovers a frightening version of this capacity during the Brazilian harbor rescue and again when the Hawaiʻi stones answer the network. He can override dissent, enter every available carrier, and force synchronization. It would probably save more people at the distant corridor, but using the refuge as a command instrument would destroy the refuge's consent.
 - **Intermediate temptation — GEOGRAPHY REVISED 2026-08-01:** during a remote Union evacuation coordinated from Brazil, Eli attempts to requisition Wren's whole route network under
@@ -493,7 +760,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Lang's Standard, Sol's forced unity, emergency crown logic, the fast-clock temptation to override dissent). What family/individual program operates? (Eli's relief at coordination, his fear of inaction, Tomas's family as cost, the corridor crew's narrowed consent). What practice rises in the gap? (slow-clock rhythm: gather / disperse / review; consent-bound coordination even when it costs named lives; refusal without shame; the compact's embodied account and relational account kept while the technical account runs in parallel). If the gap has no practice, consent is only soft failure.
 |- **Deep-time residue — LOCKED 2026-07-30:** slow-clock / polyphonic justice as refuse forced sync (contact-become-command refused again); named men spent while culture still chooses who stays exposed. Wrong reading: consent = soft failure; death proves Lang right as theology. Cost: named life + threshold house lost; war continues.
-- **Want:** save people at the distant corridor without rebuilding the amplifier's logic inside living people or turning Hawaiʻi into a military asset.
+|- **Want:** save people at the distant corridor without rebuilding the amplifier's logic inside living people or turning Hawaiʻi into a military asset.
 - **Choice:** Eli chooses the **slow clock** over force-sync — coordinates consenting nodes, keeps refuge demilitarized, accepts weaker defense. **Rhythm** (gather / disperse / review), not renunciation (`Thesis.md` § *Mature form*).
 - **Brazilian hearing rhyme — REVISED 2026-08-01:** voluntary coherence has already been seen working badly, locally, and revisably across river, clinic, port, and threshold rooms. Eli rejects the fast clock because the slower form has a real record, not because a memorial supplies revelation.
 - **Irreversible cost:** the coalition survives, but not cleanly. A named man from the distant holding crew dies and a beloved threshold house is destroyed because the voluntary response is slower and less complete. Other men survive with permanent bodily or neurological damage. The casualty must have appeared in ordinary life before becoming cost; consent to danger does not make him disposable.
@@ -502,7 +769,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **No vindication:** the novel does not prove that coercion would secretly have failed. Lang may be correct that it would have saved these lives.
 - **Victory:** enough independent communities remain connected to repel capture, evacuate civilians, and continue cooperation after immediate necessity passes. No permanent commander, registry, cult, or army-state emerges.
 - **Continental Union survival:** the Union's eventual victory is adaptive rather than military. When San Francisco's command center fails, secondary cities, ports, farms, clinics, Indigenous governments, and local administrations continue operating. The Union can survive only by accepting distributed authority, redundant corridors, non-centralized records, renewable emergency powers, and meaningful exit rights.
-- **The Lang confrontation — LOCKED 2026-08-01; DRAFTED 2026-08-07** (`manuscripts/III_The_Living_World.md` Ch 8, immediately after Bima/Teo's deaths, before the Hawaiʻi aftermath scene break — Lang pinned under a fallen strut, detail pulled away, earpiece dead; restates his diagnosis calmly; Eli frees him from the strut and lets him live, no witness) **(fulfills `05_story_architecture.md` § Lang arc: "the climax: Eli refuses to destroy him"):** at the attack's worst point, Lang is personally present at the distant corridor's collapse — not directing from safety — and ends up cut off, alone, within Eli's actual reach: Eli has the trained capability and the opening to end him, and no one left to stop it. Lang does not beg or repent; he restates his diagnosis of Eli as calmly as ever, certain his death would change nothing he was right about. Eli lets him live — not mercy performed for an audience; no witness required, no one to see the restraint but the two of them. This is the personal reckoning the systemic containment below cannot substitute for: it has to be paid in the same currency as the named death and the destroyed threshold house, not settled later by paperwork alone.
+- **The Lang confrontation — LOCKED 2026-08-01; DRAFTED 2026-08-07** (`manuscripts/III_The_Compact.md` Ch 8, immediately after Bima/Teo's deaths, before the Hawaiʻi aftermath scene break — Lang pinned under a fallen strut, detail pulled away, earpiece dead; restates his diagnosis calmly; Eli frees him from the strut and lets him live, no witness) **(fulfills `05_story_architecture.md` § Lang arc: "the climax: Eli refuses to destroy him"):** at the attack's worst point, Lang is personally present at the distant corridor's collapse — not directing from safety — and ends up cut off, alone, within Eli's actual reach: Eli has the trained capability and the opening to end him, and no one left to stop it. Lang does not beg or repent; he restates his diagnosis of Eli as calmly as ever, certain his death would change nothing he was right about. Eli lets him live — not mercy performed for an audience; no witness required, no one to see the restraint but the two of them. This is the personal reckoning the systemic containment below cannot substitute for: it has to be paid in the same currency as the named death and the destroyed threshold house, not settled later by paperwork alone.
 - **Lang, afterward:** contained through the coalition's procedures and evidence—including Qiao's testimony and Hassan/Sora's records—not personally pardoned or sentenced by Eli. His diagnosis survives even as his claim to permanent ownership fails. The refusal to destroy him and the refusal to let him walk free are not the same choice; both are Eli's, made separately.
 - **Eli:** the immediate attack condition ends and he initiates the compact's
   inquiry and transfer procedure. His authority has not yet expired; Book III
@@ -555,7 +822,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 > coordinated-attack design is replaced by the Lean Year's exogenous eruption
 > and convergent anocratic capture (`60` § 1).
 
-- **Deep-time residue / ancient face close — LOCKED 2026-07-30; CLIMAX/HUNGER REVISED 2026-08-07:** attempted handover as **Loop condition** — the federation, cloisters, Weavers, and Eli's effort to relinquish are genuinely attempted but the compact **fractures under war pressure**: Continuity keys, factional mandate, private force, and the temptation to turn emergency command into permanent authority fracture the interregional layer. The room feels uncertainty before Eli's private hunger and the work of reconstruction that passes to Book IV: usefulness without belonging, recognition without home, and a civic failure that must be rebuilt. The Continuity clause remains a dormant fossil temple office and the federation carries real material dependencies into Book IV. Wrong reading: civic goods fake because Eli is unsatisfied; clause = destiny return. Cost: private incompletion plus unresolved debt; Book IV inherits a broken compact that must be rebuilt voluntarily, not a victory worth defending.
+- **Deep-time residue / ancient face close — LOCKED 2026-07-30; CLIMAX/HUNGER REVISED 2026-08-08:** completed local handover as **Loop condition** — the federation, cloisters, Weavers, and Eli's effort to relinquish genuinely succeed in the room, and the compact still **has not been proven at the scale the war reached**: Continuity keys, factional mandate, and private force outside that room stay live and unresolved. The room feels the civic win as real before Eli's private hunger surfaces and before the work of reconstruction that passes to Book IV: usefulness without belonging, recognition without home, and a wider compact that must still be built, not a civic failure that must be rebuilt. The Continuity clause remains a dormant fossil temple office and the federation carries real material dependencies into Book IV. Wrong reading: civic goods fake because Eli is unsatisfied; clause = destiny return. Cost: private incompletion plus unresolved debt; Book IV inherits a compact that must be built out to real scale voluntarily, not a fraud to expose.
 - **Want:** attempt certification, prepare transfer, and make the compact work
   without Eli as personal guarantor.
 - **How it succeeds:** no single ceremony, no single signature — distributed
@@ -582,8 +849,10 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   then not used. Chekhov's clause for Book IV — the reader should half-forget
   it until it matters.
 - **Rowan/Eli charge:** their direct political intimacy remains nonsexual and
-  non-romantic. One final dual-reading beat may make a future crossing possible
-  without promising it. Wren/Rowan and Wren/Eli remain intact.
+  non-romantic. One final beat — the two of them reading the same report over
+  one shoulder, a beat longer than the reading requires before either moves —
+  may make a future crossing possible without promising it. Wren/Rowan and
+  Wren/Eli remain intact.
 - **End hook:** the crown is no longer Eli's. The two grassroots institutions
   stand inside government because they built it, not because they survived an
   attack on it — which is exactly what makes the new settlement worth attacking
@@ -601,7 +870,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Field-sail proof / peace:** enough time has passed for Union, Mandate, and independent teams to reproduce a small anomalous change in a test mass or orbital object's motion under preregistered conditions. The result establishes the joint civilian program and a limited ceasefire with inspection, distributed custody, and a ban on captive psionic pilots. Construction remains years away. Commissioner Ma may attend the teahouse as a negotiating equal; the scene does not become a launch ceremony (`51_field_sail_and_mandate_peace.md`). **Epistemic rhyme (LOCKED 2026-07-25):** field-sail = **scientific method as not-knowing** — hypothesis, replication, revision; ship not launched; adventure open. Same floor as Ch 27 / Tao 65 and *Let's test it*.
 - **Talking stones:** the stones remain partly unresolved. They may answer through a mixture of field behavior, geology, old technology, local practice, and interpretation. Their value is relational: they teach listening. They do not select Eli as ruler.
 - **Hopi lesson:** Eli listens to living Hopi hosts and studies the broader American record without treating either as a single answer. He learns that cities, federations, seasonal gatherings, and large-scale coordination can exist without one permanent sovereign center; freedom includes movement, the right to say no, and the ability to create another form.
-- **Koyaanisqatsi / life out of balance — LOCKED 2026-07-26:** Hopi hosts teach (by invitation, in their words) that world-ending catastrophe need not be a villain’s artifact or an evil god’s whim. **Koyaanisqatsi** — life out of balance, disruption, chaos — names a structural state: collective behavior fractures the alignment between human consciousness/order and living law; fire, ice, flood, or institutional collapse can be the world **self-correcting**. Street English after first hearing: **life out of balance**. **Narrative use:** gives Book III’s collapses (Awakening War, registry seizure, capital brittleness, palace logic) **structural weight** rather than only moral villainy — Lang/Sol/Charkha accelerate dissonance; they are not the sole apocalypse. Rhymes backward to **The Refusal**, **The Exile**, **The Fade**, the Reset Cycle, and Bronze Age Collapse without overwriting Two Trees / Anunnaki cosmology. **Guards:** (1) hosts teach; Eli does not “unlock Hopi prophecy”; (2) not a fourth creation myth; (3) not “Hopi predicted everything”; (4) Hopi people remain subjects and decision-makers — research/consultation before prose (`29` § *Southwest learning stop*). Spoken throughline: *It wasn’t a villain. It was life out of balance — and the world correcting.*
+- **Koyaanisqatsi / life out of balance — LOCKED 2026-07-26:** Hopi hosts teach (by invitation, in their words) that world-ending catastrophe need not be a villain’s artifact or an evil god’s whim. **Koyaanisqatsi** — life out of balance, disruption, chaos — names a structural state: collective behavior fractures the alignment between human consciousness/order and living law; fire, ice, flood, or institutional collapse can be the world **self-correcting**. Street English after first hearing: **life out of balance**. **Narrative use:** gives Book III’s collapses (Awakening War, registry seizure, capital brittleness, palace logic) **structural weight** rather than only moral villainy — Lang/Sol/Charkha accelerate dissonance; they are not the sole apocalypse. Rhymes backward to **The Folly**, **The Exile**, **The Fade**, the Reset Cycle, and Bronze Age Collapse without overwriting Two Trees / Anunnaki cosmology. **Guards:** (1) hosts teach; Eli does not “unlock Hopi prophecy”; (2) not a fourth creation myth; (3) not “Hopi predicted everything”; (4) Hopi people remain subjects and decision-makers — research/consultation before prose (`29` § *Southwest learning stop*). Spoken throughline: *It wasn’t a villain. It was life out of balance — and the world correcting.*
 - **Locked image:** seeds or permitted cuttings from Rasel's Pelangi Reach garden arrived before Eli. Hawaiʻi growers first decided what could enter island ecology; Colorado growers then decide what can survive in the mountains. Some plants are refused, some fail, and others survive only through grafting and methods Eli did not inherit. The garden is recognizable but no longer exclusively his father's or Eli's. He works in it without correcting it back into inheritance.
 - **Ordinary world:** Somchai eats as a tired, fallible man; no one asks for a miracle. A minor psionic incident is handled through an ordinary consent and review procedure. Someone cooks, repairs, teases, tires, or changes the subject. The Colorado settlement's scale remains negotiated and revisable rather than becoming a new state. **Completes the Gabriel arc (`46` §G): the messenger/Son-of-Man title has withered — the practice he built needs no crown.**
 - **War remains in the room:** a disabled survivor works or rests without becoming a lesson in resilience; an empty place in the sailboat crew and an unfinished repair preserve the dead man's specific absence. Care continues while distant fronts of the Awakening War remain unresolved and public attention has moved on.
@@ -613,7 +882,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Final recognition:** Eli is wanted there, but he is not indispensable. Continuity can include him without belonging to him.
 - **Rootbook afterlife:** Eli adds an observation rather than a final doctrine. Other hands have already corrected his wording in the margin. The open, annotated book remains on an ordinary shelf or worktable, useful because its relationships can be tested again.
 - **Tea image:** a visitor expecting revelation finds instruments in the background, an imperfect garden, and Eli pouring tea. He listens before interpreting and asks what the visitor observed. Hospitality, not deepest access, is the final register of mastery. **This is Ch 27 enacted** — teach not-knowing; do not fill the room with answers.
-- **Closing rhyme — the birds — LOCKED 2026-07-23; coda placement LOCKED 2026-08-01:** **Coda after the handover climax, not the climax itself.** After certification succeeds under live threat, the last ordinary hour returns the first. Eli is up before the others and watches a colony go out to feed — mountain swifts here, not the Pelangi swiftlets, so it is a rhyme and not a relic. **The whole weight is that this is a chosen morning:** he had the crown, the amplifier's road, the permanent office, and a network that wanted him at its center, and he is standing in the cold with a hose over his shoulder because he prefers it. Private Loop hunger may register in the body without declaring the civic win fake. Nobody comments on the birds, nobody names the echo, and the text does not explain it — a reader who has been there since page one will feel it, and a reader who hasn't loses nothing. **Restraint:** no dead birds, no omen, no bird that behaves meaningfully. If the image needs a line of help, cut it.
+- **Closing rhyme — the birds — RETIRED 2026-08-08 (superseded by `CLIMAX STAGING`, which moved this coda to Book IV):** the birds/hose morning image described below no longer belongs to Book III's ending. Book III's actual Ch 10 close uses the chalk-circle/Loop image already drafted (`manuscripts/III_The_Compact.md`, closing section) — the civic win registers as real while private incompletion (The Loop) surfaces in the body without declaring the win fake. The swifts-morning rhyme lands in Book IV's Ch 10 instead (confirmed drafted there). Original text kept below only as the source of the restraint rule, which still applies wherever the image is used: no dead birds, no omen, no bird that behaves meaningfully — *"Nobody comments on the birds, nobody names the echo, and the text does not explain it — a reader who has been there since page one will feel it, and a reader who hasn't loses nothing."*
 - **Mei's ledger:** she is present or reachable, and the Book I hearth is not restored — the point is that he can be wanted by people he failed without being absolved by them.
 - **Outward horizon:** the field-sail measurements continue quietly behind the tea scene. Humanity has not reached the stars; former enemies have agreed to begin building the means together.
 - **Pitch gate — MOVE TO BOOK IV CODA:** ceasefire process begun; shared garden; swifts rhyme Ch 1; **wanted, not indispensable**.

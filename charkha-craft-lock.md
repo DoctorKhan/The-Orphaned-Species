@@ -6,7 +6,7 @@
 
 ## Core Identity
 
-Primary: The Charkha is an organization — formally "The Charkha Measure."  
+Primary: The Charkha is an organization — formally "the Charkha."  
 Secondary: The Charkha can also be an artifact — a spoked wheel inscribed on a stone tablet.
 
 Etymology traces to Circle/Chakra → spoked wheel → chariot culture.  
@@ -19,7 +19,7 @@ He is outside the wheel-tradition's genealogy. The Charkha encodes a conquering 
 
 ## Secret-Society Layer
 
-After chariot ceased to be a military monopoly, wheel-knowledge became guarded craft — guild, lodge, or encoded word-lineage. The spinning-wheel image (Gandhi's charkha) inverts the instrument of conquest into an instrument of independence. The Charkha Measure operates in that inheritance.
+After chariot ceased to be a military monopoly, wheel-knowledge became guarded craft — guild, lodge, or encoded word-lineage. The spinning-wheel image (Gandhi's charkha) inverts the instrument of conquest into an instrument of independence. The Charkha operates in that inheritance.
 
 ## Relationship to Rootbook
 

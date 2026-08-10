@@ -1,6 +1,6 @@
 # Future Conflicts Atlas — ~2040 World & Trilogy Pressure Map
 
-> **Status:** LOCKED 2026-07-26. Companion to `23_2040_present_frame.md` (macro world), `33_volume_III_beatsheet.md` (Book III war thesis), `44_cultural_moment_and_mass_appeal.md` (durable pressures), `90_epigraphs_and_sources.md` §10 (civil-rights / King register), `38_psionic_combat.md` (tactics), `51_field_sail_and_mandate_peace.md` (post-climax peace engine). **Craft rule:** conflicts appear as **procedure, scarcity, and named cost** — not thesis dialogue. One 2040 scar per scene (`23` § *How to show 2040*).
+> **Status:** LOCKED 2026-07-26. Companion to `23_2040_present_frame.md` (macro world), `64_entropic_allocator_perimeters.md` (perimeter economy), `33_volume_III_beatsheet.md` (Book III war thesis), `44_cultural_moment_and_mass_appeal.md` (durable pressures), `90_epigraphs_and_sources.md` §10 (civil-rights / King register), `38_psionic_combat.md` (tactics), `51_field_sail_and_mandate_peace.md` (post-climax peace engine). **Craft rule:** conflicts appear as **procedure, scarcity, and named cost** — not thesis dialogue. One 2040 scar per scene (`23` § *How to show 2040*).
 
 ---
 
@@ -12,18 +12,30 @@
 
 ## Macro timeline (author — never date on-page)
 
-| Phase | Period | Trilogy |
+|| Phase | Period | Trilogy |
 |---|---|---|
-| **Acceleration** | Late 2020s | Off-page backstory: climate displacement ↑; AI/biotech mature |
-| **Militarization** | Early 2030s | Carrier registries as health-and-security; Maren/Lang research |
-| **Hinge wars** | Mid 2030s | Cyber + shipping war; identity systems weaponized |
-| **Fever Years** | ~2037–39 | Outbreak + lockdown; emergency powers; merged databases |
-| **Armed reopening** | ~2039–40 | **Book I opens here** — Malacca, Strait, Pelangi |
-| **Awakening War** | Book III Ch 4+ | Registry seizure + Mandate strikes; distinct from WWIII hottest phase |
-| **Compact + ceasefire** | Book III late | Field-sail proof; corridors stand down; proxy fronts remain |
-| **Open adventure** | Post-coda | Ship years away; teahouse replication; war in the room, not destiny |
+|| **Acceleration** | Late 2020s | Off-page backstory: climate displacement ↑; AI/biotech mature |
+|| **Militarization** | Early 2030s | Carrier registries as health-and-security; Maren/Lang research |
+|| **Hinge wars** | Mid 2030s | Cyber + shipping war; identity systems weaponized |
+|| **Fever Years** | ~2037–39 | Outbreak + lockdown; emergency powers; merged databases |
+|| **Armed reopening** | ~2039–40 | **Book I opens here** — Malacca, Strait, Pelangi |
+|| **Awakening War** | Book III Ch 4+ | Registry seizure + Mandate strikes; distinct from WWIII hottest phase |
+|| **Compact + ceasefire** | Book III late | Field-sail proof; corridors stand down; proxy fronts remain |
+|| **Open adventure** | Post-coda | Ship years away; teahouse replication; war in the room, not destiny |
 
 Full detail: `23_2040_present_frame.md` § Macro timeline, § The Hinge.
+
+**Original intent:** entropic allocation was designed as a rigorous scientific
+and democratic instrument. Registered perimeters protect interior industrial
+privacy while exposing burdens that cross into the commons. Public policy sets
+multidimensional limits; calibrated sensors, ZKPs, drone audits, and human appeal
+keep the account contestable. Capture works through boundary maps, priorities,
+and classification while the instruments can continue to report honestly. The
+system grows from Entropy Crime cases that make concealed burdens follow assets
+and require lawful custody at transfer. AI data centers provide the catalytic
+cases and first mature perimeter pilots: private workloads, public physical
+costs. Full lock:
+`64_entropic_allocator_perimeters.md`.
 
 ---
 
@@ -31,7 +43,7 @@ Full detail: `23_2040_present_frame.md` § Macro timeline, § The Hinge.
 
 | Bloc | Strategy | Fragility | On-page texture |
 |---|---|---|---|
-| **Continental Union** | Rigid centralization — registries, walls, force | Mycenaean-brittle; favored populations; class severance | Charkha Measure; Devolution roster; expendability ledger |
+| **Continental Union** | Rigid centralization — registries, walls, force | Mycenaean-brittle; favored populations; class severance | Charkha; Devolution roster; expendability ledger |
 | **Eastern Mandate** | Endurance at scale — corridors, quarantine competence | Stagnant then indispensable; hidden migrant-worker losses | Singapore Stack; cure corridors; blockades; Ma |
 | **Free Ports Coalition** | Decentralized maritime antifragility | No head to chop; sacrificial-port temptation | Malacca, Pelangi gray space, threshold houses, Harbor Thread |
 
@@ -87,9 +99,10 @@ Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs b
 | Pressure | Issues |
 |---|---|
 | Worker lane vs cohort | Cherry Cube manifest vs Pelangi wage; Shireen remittance |
-| Performance vs throughput | Stack dashboards green; empty trishaws; island water stress |
-| Scientist/capacity claiming | Stay under the radar vs ledgered talents |
-| Sacrificial port | Admirable community spends one person for centralized protection |
+||| Performance vs throughput | Stack dashboards green; empty trishaws; island water stress | Perimeter maps can hide migrant dormitories, stored waste, depleted ground, or imported burden while every sensor reports honestly. Life-inclusive EEU profiles make those boundary choices contestable (`64`). |
+|| Scientist/capacity claiming | Stay under the radar vs ledgered talents |
+|| Sacrificial port | Admirable community spends one person for centralized protection |
+|| **Network / audit economy** | UnionNet / MandateNet / PortsNet plus a separate dark mesh; perimeter sensor sheds; ZKP compliance proofs; risk-based drone calibration; trust streaks; bonded interconnects; public votes on boundaries, disclosure, and tolerances (`64`) |
 
 **Book load:** Vol I race/manifest; Vol III expendability ledger; `53` *Recoverable strength*.
 
@@ -126,9 +139,9 @@ Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs b
 |---|---|
 | Autonomous weapons | No mind to jam; fight data and operators (`38` §3a) — **not** humanoid infantry swarms |
 | Humanoid / embodied robots | **Rare** — Singapore, power centers, status theater; **entropy mistake** (treated like software; death tech never breaks second law); industrial base + population decline limit production (`23` § *Robotics lock*, `22` § *Death technology*) |
-| Field sail | Union theory / Mandate build / teahouse verify — none alone (`51`) |
-| AI infrastructure | Translation at till + surveillance scoring + dependency transfer |
-| Satellite gaps | Terrestrial routes and stones matter again |
+|| Field sail | Union theory / Mandate build / teahouse verify — none alone (`51`) |
+|| **Entropic enforcement** | Entropy Crime doctrine → registered perimeters + multidimensional EEU profiles + physical boundary limiters + ZKP proofs + drone calibration + human Audit Marshals + Metrology Temples. Life is included; bodies keep sovereign standing. Stored liabilities carry forward. Black market = perimeter ghosting (`64`) |
+|| Satellite gaps | Terrestrial routes and stones matter again |
 
 **Book load:** Vol III field-sail + limited ceasefire; coda teahouse.
 

@@ -52,8 +52,8 @@ Measurements may include:
 | **Metabolic / inflammatory** | Temperature, hydration, glucose use, lactate, cortisol and other stress markers, inflammatory markers, weight change where relevant | The biological cost of practice and whether recovery resources are adequate | Purity, activation caste, or genetic worth |
 | **Psychological / relational** | Self-report, dissociation and distress screens, uncertainty tolerance, impulse control under charge, boundary adherence, conflict recovery | Whether the person can remain themselves and safe in relationship | A diagnosis by algorithm, ideological conformity, or compulsory treatment |
 | **Ordinary functioning** | Eating, hygiene, work, navigation, communication, care obligations, return to chosen routines | Whether extraordinary contact is integrating into life rather than consuming it | Productivity value or entitlement to belonging |
-| **Field / psionic** | Local field intensity, somatic signatures, entrainment, cross-participant timing, anomalous information transfer, recovery curve | Dose-response, site effects, repeatability, possible external signal | Divinity, reincarnation, destiny, or ownership of a historical imprint |
-
+| **Field / psionic** | Local field intensity, trajectory vectors, entrainment, cross-participant timing, anomalous information transfer, recovery curve | Dose-response, site effects, repeatability, possible external signal | Divinity, reincarnation, destiny, or ownership of a historical imprint |
+| **Body / somatic** | Somchai's diagnostic read: heat (virus/fever), tingling (bacteria/nerve), pressure/pulse (blockage), cold (depletion); he repairs, Eli does not | Somchai's signature language, repeatability, site effects | Healing as ownership, the healer as authority |
 Measurements require active, granular consent and collect the minimum necessary data. Raw personal records expire or return to the participant unless renewed consent authorizes retention. Public results are aggregated and privacy-protected. A person can withdraw data without losing food, shelter, ordinary membership, or the right to leave.
 
 Health signals may pause a particular exposure. They do not automatically expel a person from the teahouse or clan. When a threshold is crossed, the first response is rest, food, hydration, medical care, reduced intensity, and conversation—not suspicion or punishment.
@@ -99,7 +99,7 @@ Inner sanctuaries contain stronger charged-ground conditions, resonant chambers,
 Clearance is:
 
 - **site-specific** — readiness at one chamber does not transfer automatically;
-- **phenomenon-specific** — solitary contact, collective resonance, dream work, acoustic exposure, metabolic threshold, and somatic reading require different capacities;
+- **phenomenon-specific** — solitary contact, collective resonance, dream work, acoustic exposure, metabolic threshold, trajectory reading, and somatic diagnosis require different capacities;
 - **time-limited** — health, sleep, grief, medication, injury, and life circumstances change;
 - **reversible** — pausing access is a safety action, not disgrace;
 - **supported** — accommodations can change the conditions without lowering human worth;
@@ -121,7 +121,14 @@ It also audits institutional drift:
 - unprocessed withdrawal and departure requests;
 - model drift, demographic skew, and unreliable predictions;
 - clans becoming isolated, hereditary, genetically closed, or punitive toward exit;
-- gaps between a house's public rules and recorded conduct.
+- gaps between a house's public rules and recorded conduct;
+- entropic-cost theater: compliant perimeter proofs paired with a boundary drawn around stored waste, depleted ground, imported burden, or exhausted caregivers.
+
+Some threshold houses run their own life-inclusive perimeter audits
+(`64_entropic_allocator_perimeters.md`). They account for food yield, repair
+capacity, soil condition, caregiver recovery, resident health, and outside
+supply. A house demonstrates the life-technology register when its proof shows
+where replenishment came from and who had time to recover.
 
 Important rules, model changes, sanctions, and resource decisions leave public, tamper-evident records with provenance, uncertainty, known limitations, and appeal routes. Multiple models and independent human teams audit one another.
 
@@ -136,6 +143,14 @@ The system does not promise to be unbiased. It makes bias **visible, measurable,
 The long pilgrimage repeatedly brings people together under different conditions: fatigue, silence, service, danger, disagreement, recovery, humor, and ordinary work. Some relationships persist. Groups eventually settle around teahouses and cloisters as chosen families, hearths, clans, or constellations.
 
 They are relationships, not discovered biological or psionic kinds. Science may study group health; it may not manufacture the groups. AI may reveal coercion or closure; it may not recommend a person's destined home.
+
+Land, buildings, vehicles, and shared equipment belong to a house trust or
+cooperative rather than to the current steward. Residents receive documented
+occupancy, use, participation, and exit rights. A steward cannot sell the house
+for private gain, pledge a resident's future labor, or convert departure into
+civil death. Personal possessions remain personal property. Full ownership and
+custody rules: `64_entropic_allocator_perimeters.md` § *Ownership, custody, and
+theft*.
 
 **Distinct from cloister animal houses — REVISED AND LOCKED 2026-08-01:** men's cloisters use **animal houses** (**Stag**; folk speech may say **Deer**; **Fox, Bear, Salmon, Ox**) as enduring mentorship lineages for learning adult capacities and later guiding younger members (`40` § *Cloister animal houses*). They are not temperaments, jobs, security specialties, political blocs, or civic ranks. Teahouse/pilgrimage clans here remain **chosen kin from shared life**, not pedagogical lineages. Do not merge the systems, and never let AI or health metrics assign either. Crow retired so bird/flight language stays free for swifts coda and Book V flights.
 

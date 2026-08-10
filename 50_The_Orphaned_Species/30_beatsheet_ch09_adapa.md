@@ -4,7 +4,7 @@
 
 > **Chronology — LOCKED 2026-07-26:** Adapa's boat-day = **~5500–4000 BCE** (5th-millennium Eridu / early Gulf sail window). **Not** Eden III Adam (~3700 BCE). **Not** the 4.2 ka event (~2200 BCE). Younger Dryas may color broken-wind *memory* only. Uanna = related older transmission function, not this day's calendar. Table: `35` § *Chronology lock — Adapa ≠ Adam ≠ 4.2 ka*.
 >
-> **Street name — LOCKED 2026-07-26:** this story-object is **The Refusal** (first hearing may say “Adapa’s Refusal”; packet with **The Sorting** and **The Fade**). `35` § *Mesopotamian Human-Design Triad*.
+> **Street name — LOCKED 2026-07-26:** this story-object is **The Folly** (first hearing may say “Adapa’s Folly”; packet with **The Sorting** and **The Fade**). `35` § *Mesopotamian Human-Design Triad*.
 
 ---
 

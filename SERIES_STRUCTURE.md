@@ -154,12 +154,12 @@ delivery spine: `22` § *Technology teaches meaning*; orchestra/V–X: `62`.
 
 ## The current volumes (I–IV)
 
-| # | Title | File | Chapters | Words (approx.) | Notes |
+|| # | Title | File | Chapters | Words (approx.) | Notes |
 |---|---|---|---|---|---|
-|| **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~42,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) · **Object:** Cherry Cube
-| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | — | ~29,900 | Westward route; Maren release at Avebury · **Object:** Albion Shaft
-| **III** | The Living World | `50_The_Orphaned_Species/manuscripts/III_The_Living_World.md` | — | ~23,900 | Brazil / Hawaiʻi / federation arc · **Object:** Living Root
-| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | — | ~14,800 | North American court; Costa Rica hinge; Rowan/Eli; birth / relinquishment · **Object:** Thread Loom
+| **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~43,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) · **Object:** Cherry Cube
+| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | — | ~36,900 | Westward route; Maren release at Avebury · **Object:** Albion Shaft
+| **III** | The Compact | `50_The_Orphaned_Species/manuscripts/III_The_Compact.md` | — | ~30,700 | Brazil / Hawaiʻi / federation arc · **Object:** Living Root
+| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | — | ~28,600 | North American court; Costa Rica hinge; Rowan/Eli; birth / relinquishment · **Object:** Thread Loom
 
 ## Lifetime Orchestra (V–X) — count LOCKED 2026-07-31; titles open
 
@@ -228,6 +228,8 @@ The split tried to even volume lengths and give Thailand its own title identity.
 - **Layer 2 companions** live under `Books/` (Manual Override, Social Game, Human Experiment, Cosmic Game). Root `10`–`40` are compatibility symlinks into `Books/`.
 - **Research substrate** for V–X physics/agency: `../../Research` (complex time; nested observer windows; mobile locus; bounded-regress agency).
 - **Fleshing discoveries:** `50_The_Orphaned_Species/61_site_activation_map.md` — site → carrier → bible bite → partial truth.
+- **2040 entropic allocation:** `50_The_Orphaned_Species/64_entropic_allocator_perimeters.md` — registered boundaries, life-inclusive EEU profiles, physical enforcement, audits, Bourse, and bloc capture.
+- **Critical minerals / supply-chain chokepoints:** `50_The_Orphaned_Species/66_critical_minerals_lock.md` — refining dominance, export controls, recycling as strategic stockpile, gradient passports, and novel-craft use rules.
 - **Adjacent books / author brands:** `50_The_Orphaned_Species/63_adjacent_books_and_author_brands.md` — satellites (Wren/Rowan spicy Priority A); **two brands max** (literary + romance); no AI-author roster.
 - Beatsheet filenames (`31_volume_I`, `32_volume_II`, `33_volume_III`, `60_volume_IV`) match I–IV numbering.
 - If you find a "Book V" or "Living Route as Book II" notice dated 2026-07-29 from the reversed split, it is stale — translate back using the I–IV table above. Legacy “V–VI only” = use V–X table. Legacy “five books” = use **14 core**.

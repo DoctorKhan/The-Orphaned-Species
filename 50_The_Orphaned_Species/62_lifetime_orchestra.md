@@ -21,7 +21,7 @@
 | **IX** | Past life 4 | Same |
 | **X** | Ω — braid / creation | Braid; locus interface; creation; optional panspermia; convergence |
 
-**Working era shortlist (VI–IX, not era-locked):** Göbekli · Refusal–Adapa/Eridu · Abandonment *or* Sanxingdui · Age of Heroes/Albian.
+**Working era shortlist (VI–IX, not era-locked):** Göbekli · Folly–Adapa/Eridu · Abandonment *or* Sanxingdui · Age of Heroes/Albian.
 
 Total Layer 1 when complete: **I–X (ten books)**. Civic pitch may stop at I–IV.
 **Family total:** **14 core** (10 novels + 4 companions) — `SERIES_STRUCTURE.md` § *Family total*.
@@ -333,7 +333,7 @@ Reuse; do not invent parallel deep histories.
 | Younger Dryas / War-in-Heaven edge | ~15–11.6 kya | Survival, craft crash residue, golden age ending | YD craft / nucleation (`59`); breach cold |
 | Göbekli / early control | ~11.6–9 kya | Burial as keeping; counting men coming | Bridge plaquette; Book II Anatolia |
 | Eden II / agricultural unseal | ~11.6–8 kya | Garden as clean room → grid; belonging vs herd | Two Trees; Thailand living band |
-| Refusal / Adapa / Eridu | ~5th mill. BCE | Boundary under sacred pressure | Book II Refusal material |
+| Folly / Adapa / Eridu | ~5th mill. BCE | Boundary under sacred pressure | Book II Folly material |
 | Sanxingdui / distributed Tree | Bronze Age Sichuan | Witness / recovery without owning the tree | Book I climax |
 | Abandonment / cargo-cult high places | ~6–4 kya | Gods leave; humans sacralize dead hardware | Mountain holiness; ziggurat/Babel |
 | Flood / covenant purity window | ~4.2 ka / Eden III | Purity program vs living wild code | Covenant control; registry rhymes |
@@ -400,7 +400,7 @@ says “this is the Caregiver life.”
 **Suggested archetype pool** (pick and reorder; do not dump all into one book):
 
 - Care / kin without possession  
-- Refusal / boundary under sacred pressure  
+- Folly / boundary under sacred pressure  
 - Building / craft / making that outlives the maker  
 - Witness / archive / keeping without owning the truth  
 - War / defense / the cost of necessary force  
@@ -420,7 +420,7 @@ I–IV already play several of these at **civic scale**. Later lives replay them
 Author-side only — never a progress bar on-page:
 
 1. **Prior mastery arrives as talent or allergy.** A life that already held Care may
-   default to over-giving; one that held Refusal may under-trust. Residue is
+   default to over-giving; one that held Folly may under-trust. Residue is
    character, not exposition.
 2. **The open motif is the plot motor.** What that life failed to finish (a person
    not returned, a tool misused, a creation abandoned) becomes *this* life's

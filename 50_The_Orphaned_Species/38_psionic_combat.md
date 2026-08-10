@@ -49,7 +49,7 @@ The receiver hardware is **not permanently on.** A psion can move between a **do
 - Activation can be triggered by: charged ground proximity, artifact contact, emotional surge, dream-state opening, intentional practice, or hostile psionic induction.
 - **Cost:** an active receiver is an exposed antenna. Strong external EM fields — industrial transformers, MRI magnets, high-voltage lines, damaged grid infrastructure — can **overload, burn, or hijack** the broadcast. A carrier switched on near a strong source is not just reading; they are being *written*.
 - **Ley-line intersections** are the sharpest version of this risk: where multiple charged-ground conduits cross, field intensity can spike into **disorientation, induced behavior, identity bleed, or permanent filter damage** — depending on the carrier's coherence and the duration of exposure.
-- **Hostile use:** the Charkha Measure and Lang's registry both know this. Their teams use portable EM emitters, charged-ground proximity, and artifact adjacency to **force activation** before they close in — the carrier lights up first, then they have a signature to track.
+- **Hostile use:** the Charkha and Lang's registry both know this. Their teams use portable EM emitters, charged-ground proximity, and artifact adjacency to **force activation** before they close in — the carrier lights up first, then they have a signature to track.
 
 ### Switching off under pressure
 - The native-road practice (Living Way / Manual Override / held rhythm) is partly the ability to **lower the receiver** when activation would be fatal — refusing to entrain, refusing to broadcast, refusing to resolve the field when the field is a weapon.

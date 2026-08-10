@@ -21,7 +21,8 @@
 >
 > **SECOND MANDATE / WASHINGTON RHYME — LOCKED 2026-08-02:** Book IV's
 > institutions, not Eli, deliberately ask him back after the first handover
-> proves real but the Lean Year seizes the interregional layer. This is a
+> proves real but the Lean Year reveals that the interregional layer was
+> never actually secured beyond that one room. This is a
 > second, narrower provisional civil-political mandate for cross-route
 > survival—not a restoration of presidency, monarchy, or permanent emergency
 > rule. The first relinquishment follows war; the second follows material
@@ -121,7 +122,7 @@
 
 ## ACT I — The Working Stretch
 
-### Ch 1 — The Stretch That Holds *(Rowan · Wren · Eli · North America)*
+### Ch 1 — ~~The Stretch That Holds~~ *(Rowan · Wren · Eli · North America)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 1 — The Doors*
 - **Deep-time residue — LOCKED 2026-08-05:** court as fossil temple—offices without gods; heir mythology refused.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?
   (continuity machinery; messiah projection; exemption templates). What
@@ -139,13 +140,15 @@
 - **Revelation:** the Lean Year begins as incompatible forecasts, not as an
   omniscient disaster summary. First harvest losses are serious but survivable.
   What breaks the convenient hub is convergent capture, not a single attack.
-- **Book III → IV hinge — REVISED 2026-08-07:** summary of the incomplete
-  handover under war pressure and Eli holding emergency power, then Lean Year
-  begins.
+- **Book III → IV hinge — REVISED 2026-08-09:** summary of the real,
+  completed handover in Eli's own hall — he steps down as a private citizen —
+  while the wider interregional layer (Continuity keys, factional mandate,
+  private force outside that room) stays untested; then the Lean Year begins
+  and reveals how much of it was never actually secured.
 
 ---
 
-### Ch 2 — The Capture Before the Collapse *(Eli · Rowan · Wren · North America)*
+### Ch 2 — ~~The Capture Before the Collapse~~ *(Eli · Rowan · Wren · North America)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 2 — Present Consent*
 - **Deep-time residue — LOCKED 2026-08-05:** offices without gods; the court
   accreting monarchic language around a center that has already released it.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?
@@ -172,7 +175,7 @@
 
 ---
 
-### Ch 3 — The Second Mandate *(Eli · Rowan · Wren · North America court)*
+### Ch 3 — ~~The Second Mandate~~ *(Eli · Rowan · Wren · North America court)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 3 — Three Rooms*
 - **Deep-time residue — LOCKED 2026-08-05:** the emergency crown as degraded
   older claiming system wearing civic clothes; exemption templates.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?
@@ -199,7 +202,7 @@
 
 ---
 
-### Ch 4 — The Field Under Pressure *(Eli · ensemble · North America corridor)*
+### Ch 4 — ~~The Field Under Pressure~~ *(Eli · ensemble · North America corridor)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 4 — What We Build*
 - **Deep-time residue — LOCKED 2026-08-05:** convoy as ancient supply road;
   private security as degraded palace guard.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?
@@ -225,7 +228,7 @@
 
 ---
 
-### Ch 5 — The Southern Thread *(Rowan · Wren · Costa Rica hinge)*
+### Ch 5 — ~~The Southern Thread~~ *(Rowan · Wren · Costa Rica hinge)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 5 — The Rumor*
 - **Deep-time residue — LOCKED 2026-08-05:** Monteverde emergent specimens as
   infrastructure and civic landmark; ceiba as durable proof that the corridor is
   inherited work, not improvised shelter.
@@ -264,7 +267,7 @@
 
 ---
 
-### Ch 6 — The Games *(ensemble · Costa Rica regional gathering)*
+### Ch 6 — ~~The Games~~ *(ensemble · Costa Rica regional gathering)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 6 — The Body of State*
 - **Deep-time residue — LOCKED 2026-08-05:** regional games-and-market
   gathering as miniature of the compact; bounded rivalry.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?
@@ -291,7 +294,7 @@
 
 ---
 
-### Ch 7 — The Court of Threads *(Rowan · Wren · Eli · North America)*
+### Ch 7 — ~~The Court of Threads~~ *(Rowan · Wren · Eli · North America)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 7 — The Two Houses*
 - **Deep-time residue — LOCKED 2026-08-05:** court as fossil temple; offices
   without gods; refuse heir mythology.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?
@@ -341,7 +344,7 @@
 
 ---
 
-### Ch 8 — The Pregnancy Clock *(Rowan · Wren · Eli · North America)*
+### Ch 8 — ~~The Pregnancy Clock~~ *(Rowan · Wren · Eli · North America)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 8 — The False Heir*
 - **Deep-time residue — LOCKED 2026-08-05:** heir mythology; consort capture;
   the body as political instrument.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?
@@ -369,7 +372,7 @@
 
 ---
 
-### Ch 9 — The Birth and the Second Relinquishment *(Rowan · Wren · Eli · North America)*
+### Ch 9 — ~~The Birth and the Second Relinquishment~~ *(Rowan · Wren · Eli · North America)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 9 — The Room Prepared*
 - **Deep-time residue — LOCKED 2026-08-05:** birth as civic event; medical
   privacy as court weapon; the body as threshold.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?

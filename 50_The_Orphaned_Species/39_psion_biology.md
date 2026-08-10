@@ -50,7 +50,7 @@ The receiver hardware is **not permanently on.** A psion can move between a **do
 - Activation can be triggered by: charged ground proximity, artifact contact, emotional surge, dream-state opening, intentional practice, or hostile psionic induction.
 - **Cost:** an active receiver is an exposed antenna. Strong external EM fields — industrial transformers, MRI magnets, high-voltage lines, damaged grid infrastructure — can **overload, burn, or hijack** the broadcast. A carrier switched on near a strong source is not just reading; they are being *written*.
 - **Ley-line intersections** are the sharpest version of this risk: where multiple charged-ground conduits cross, field intensity can spike into **disorientation, induced behavior, identity bleed, or permanent filter damage** — depending on the carrier’s coherence and the duration of exposure.
-- **Hostile use:** the Charkha Measure and Lang’s registry both know this. Their teams use portable EM emitters, charged-ground proximity, and artifact adjacency to **force activation** before they close in — the carrier lights up first, then they have a signature to track.
+- **Hostile use:** the Charkha and Lang’s registry both know this. Their teams use portable EM emitters, charged-ground proximity, and artifact adjacency to **force activation** before they close in — the carrier lights up first, then they have a signature to track.
 
 ### Switching off under pressure
 - The native-road practice (Living Way / Manual Override / held rhythm) is partly the ability to **lower the receiver** when activation would be fatal — refusing to entrain, refusing to broadcast, refusing to resolve the field when the field is a weapon.
@@ -62,7 +62,7 @@ Eli's Fever scar has taught his receiver hardware to entrain with non-human livi
 
 **Mechanics:**
 - **Trigger:** sustained close contact with a living natural system (ocean, boat hull under sail, wind/water rhythm) combined with intentional focus. Eli must choose to open the connection; it does not happen accidentally.
-- **Effect:** Eli's body reads the water's current, pressure shifts, and wind vectors the way his palms read a living body's field. The boat becomes an extension of his proprioception — he feels hull stress, sail load, and water displacement before his eyes register them. The merge is incremental, not binary: at first a half-second of clarity during a maneuver, then longer, then sustained.
+- **Effect:** Eli's body reads the water's current, pressure shifts, and wind vectors through the same trajectory sense that reads a system's charge pattern. The boat becomes an extension of his proprioception — he feels hull stress, sail load, and water displacement before his eyes registers them. The merge is incremental, not binary: at first a half-second of clarity during a maneuver, then longer, then sustained.
 - **Cost:** the merge is bidirectional. While extended, Eli's filter is lowered — he receives everything the ocean carries (other boats, submerged structures, the city's EM field at the surface). After the merge ends, he pays the same Fever-scar overload bill as any deep systems-reading: gaps, word-retrieval stumbles, fatigue proportional to duration. The ocean does not tire; his body does.
 - **Governing rule:** this ability is an extension of Eli's existing receiver, governed by the same TBI/overload mechanics already locked in `39` §3 and `15`. It cannot grant him information the environment does not contain; it cannot make him faster than physics allows; it cannot substitute for Wren's judgment or Somchai's consent. It is a sensory and proprioceptive advantage, not a supernatural one.
 
@@ -99,7 +99,7 @@ One hardware, expressed differently: **dragons & aliens** (Tree of Life, one-Tre
 
 ### Warmth vs. activation
 
-Eli's carrier hardware can produce **somatic signatures** in palms and nerves — localized **heat**, **tingling**, **pressure**, **single pulse**, **cold spots** — felt as interface reads on bodies and nearby biology. These are **not** permanent "warm hands," not healing rays, and **not** the primary hunt target.
+Eli cannot read bodies diagnostically. Somchai Vichai holds the somatic diagnostic lane: heat (virus/fever), tingling (bacteria/nerve), pressure/pulse (blockage), cold (depletion). Eli's receiver reads trajectories — the vector of systems, fields, and movements — not the state of a body.
 
 **Healing is a separate faculty, not receiver output — LOCKED:** The healer does not manipulate energy directly or regulate the receiver. Their gift has two parts: (1) a **scan** of the body's energy field, like a CT scanner, that detects what is wrong — reading the field's geometry without altering it; (2) an **alignment** that communicates with body cells to trigger self-repair. The body mends itself; the healer's work is the scan and the alignment, never tissue reconstruction. Eli's gift is the read through palms and nerves; the healer's gift is the field scan and alignment. The two can cooperate but are mechanistically distinct.
 

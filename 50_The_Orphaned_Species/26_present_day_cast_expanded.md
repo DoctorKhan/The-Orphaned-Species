@@ -61,7 +61,7 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Past:**
 - **Ordinary life:** fugitive years largely **off-page in Vol I** — Bangla, food memory, **Bali rhythm** leak forward; **no martial before Ch 5**. **Upbringing — LOCKED 2026-07-24 (rev. C):** **Bali childhood** with parents (subak, gamelan, community); Bangla/culture from **Rasel and Maren**; **keeper foster parents** after extraction; **raised as a worker**. **Visuo-spatial talent** hidden under capacity claiming; TBI inconsistent. **Fugitive Thailand:** Somchai, wat breath only — **no martial**. **Present Ch 5–10:** first on-page martial + chi-body — **Kru Dao** (Ch 7 MT/Kali). **Pelangi:** Foundry only; talent pressure = spatial/splice. Pai, Khun Dang = knife/kitchen/song, not martial syllabus. **Sailing memory — LOCKED 2026-07-25:** **Maren** taught dinghy watch (feel before see, fairway breeze lane, name fear at harbor, sheet wraps); **Rasel** taught pump and *feel the cloth*. Vol I Ch 1 race/garden must seed both before reveal.
-- **Turn:** extraction attack — father **taken** into **Mandate** lab custody (Bangladeshi passport / **Rasel Khan** on files), mother **removed** on the **Charkha Measure** chain (**Albion passport** — **passport split**); the healer stabilizes a shaken child, then **escape network separates them** and moves Eli through **Thailand**. **The head injury is NOT from the attack — BIOWEAPON PERSONAL-CONSEQUENCE LOCK 2026-08-06:** Eli's neurological scar is the **post-infectious aftermath of the engineered outbreak (Fever Years)**, contracted at Pelangi Reach during the quarantine era despite the community's care — Pelangi's clinic and Mei's kitchen nursed him through the fever, so the hearth is also the place he was sick and kept. The world's diagnosis was **TBI** and that label sticks as Eli's own shorthand; the canonical name is the **Fever scar**. The same weapon that orphaned him scars him and wakes him (outbreak survivors carry the receiver — `42`): wound, gift, and orphaning share one origin. Eli does not learn this until the Book II–III investigation exposes the outbreak as engineered. **Recovery is slow, natural, and undramatic:** substantial by Books III–IV, never a full upgrade, no climax cure (`27`, `41`); the body rewires at its own pace, which is the series' healing register (time + body + community care, not intervention-as-reward).
+- **Turn:** extraction attack — father **taken** into **Mandate** lab custody (Bangladeshi passport / **Rasel Khan** on files), mother **removed** on the **Charkha** chain (**Albion passport** — **passport split**); the healer stabilizes a shaken child, then **escape network separates them** and moves Eli through **Thailand**. **The head injury is NOT from the attack — BIOWEAPON PERSONAL-CONSEQUENCE LOCK 2026-08-06:** Eli's neurological scar is the **post-infectious aftermath of the engineered outbreak (Fever Years)**, contracted at Pelangi Reach during the quarantine era despite the community's care — Pelangi's clinic and Mei's kitchen nursed him through the fever, so the hearth is also the place he was sick and kept. The world's diagnosis was **TBI** and that label sticks as Eli's own shorthand; the canonical name is the **Fever scar**. The same weapon that orphaned him scars him and wakes him (outbreak survivors carry the receiver — `42`): wound, gift, and orphaning share one origin. Eli does not learn this until the Book II–III investigation exposes the outbreak as engineered. **Recovery is slow, natural, and undramatic:** substantial by Books III–IV, never a full upgrade, no climax cure (`27`, `41`); the body rewires at its own pace, which is the series' healing register (time + body + community care, not intervention-as-reward).
 - **Unreconciled:** song with no name; garden kept **badly** (father's craft without mastery); cousin **Shireen** still in Dhaka; never got to mourn on his own terms. **Naming:** Maren's **Eli** everywhere official; Rasel's **Babu** (dak nam) at home only — body-memory, not plot key.
 
 **Want:** rescuing his parents—Rasel (Book I), Maren (Book II). Everything else is
@@ -70,7 +70,7 @@ about what he is—cook, garden badly, belong.
 
 **Not seeking:** power, throne, permanent command, or a chosen-one identity that explains his loss — though others will offer all of these because he is useful on the rescue path.
 
-**Wound:** believed **orphan** until **Mei, Friday PM dinner (Ch 1)** — *stolen child, parents taken alive*; **TBI**; every faction wants to name him.
+**Wound:** raised believing both parents dead. Mei's Friday dinner establishes only that they entered separate vans alive; later survival is unknown until the evidence ladder advances. **TBI**; every faction wants to name him.
 
 **Habit:** goes quiet and competent on the line or over a blade; loses words under rush or surge; touches soil when frightened; **returns to breath** under overload when the habit still works (Thailand seed — see `15` § *Eli's meditation seed*).
 
@@ -370,7 +370,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Turn:** she discovered that emergency safeguards were becoming permanent requisition infrastructure and that research subjects could not meaningfully withdraw. She copied records, sabotaged part of the mapping work, and fled with Rasel and Eli. Her resistance saved lives but did not erase the systems her earlier work made possible.
 
-**Extraction — LOCKED 2026-07-24:** **Albion passport** (legacy *British* on some files) → claimed by the **Charkha Measure**; **Rasel** (Bangladeshi passport) → **Eastern Mandate**. **Passport split:** different citizenship, different claiming orgs, **parallel convoys** — not one van. Site unknown to keeper net until **Book II rescue**. `40` § Passport split.
+**Extraction — LOCKED 2026-07-24:** **Albion passport** (legacy *British* on some files) → claimed by the **Charkha**; **Rasel** (Bangladeshi passport) → **Eastern Mandate**. **Passport split:** different citizenship, different claiming orgs, **parallel convoys** — not one van. Site unknown to keeper net until **Book II rescue**. `40` § Passport split.
 
 **Moral wound:** at least one early subject was contained using a signature model Maren defended as temporary and humane. She chose to preserve the wider program rather than expose the abuse immediately because she still believed she could reform it from inside. **On-page name — LOCKED 2026-08-01:** **Imani Vale** — Hassan seeds the ledger in Book II Ch 5; Maren confirms at Avebury Ch 10 (`manuscripts/II_The_Descent.md`). Mother is a person with a ledger, not only a prize.
 
@@ -413,7 +413,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 ## The healer — **Somchai Vichai, RN / field medic** *(name locked; location: mobile / corridor clinics, Vol II reconvergence)*
 
-**Function:** embodied caregiving conscience; deification test; **the trilogy's energetic healer** — Eli reads bodies but cannot heal; all extraordinary bodily repair is Somchai's alone. Somchai's nursing and field-medicine training precede the gift and govern when he uses ordinary care, energetic healing, both, or neither.
+**Function:** embodied caregiving conscience; deification test; **the trilogy's energetic healer** — Eli reads trajectories but cannot heal; Somchai Vichai reads bodies and repairs them. Somchai's nursing and field-medicine training precede the gift and govern when he uses ordinary care, energetic healing, both, or neither.
 
 **Past:**
 - **Ordinary life:** Thai **nurse and field medic** moving between corridor clinics, threshold houses, and emergency sites — wound care, fevers, triage, medication rounds, evacuation; hands-on care before carriers had a registry name; son of a man, not a myth.
@@ -744,7 +744,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Voice:** flat, procedural, competent — same register as the hearing's other Union officials (counsel, jurist, casualty officer); euphemism and paperwork, not menace.
 
-**Book III placement — drafted:** testimony beat is written, immediately after Owen Price's and before Rowan's afternoon session (`manuscripts/III_The_Living_World.md`, ~line 2867). Confronted by **Nora Castellanos**, a one-line witness whose mother's clinic deposit was wiped by the exact dump Dana is questioned about.
+**Book III placement — drafted:** testimony beat is written, immediately after Owen Price's and before Rowan's afternoon session (`manuscripts/III_The_Compact.md`, ~line 2867). Confronted by **Nora Castellanos**, a one-line witness whose mother's clinic deposit was wiped by the exact dump Dana is questioned about.
 
 **Guardrails:** not a mustache-twirling villain — she is exactly what "socialism for large business" produces: ordinary, unashamed, procedurally protected. One testimony beat, not a subplot; no confession, no redemption arc.
 
@@ -756,7 +756,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Age:** mid-20s. **Want:** keep the remaining family off official questions about Rasel and the foreign mother.
 
-**Scene:** one encrypted message or missed call Eli can't answer safely — *Babu, don't come home; they're still asking about your mother; I'm fine; are you eating* — dak nam in Bangla, **phone-transfer remittance** pressure underneath (clinic deposit Monday; Eli promises Sunday push from Cube cash).
+**Scene:** one encrypted exchange with two movements. First, *Babu, don't come home; they're still asking about your mother; I'm fine; are you eating*, with the clinic deposit beneath it. Later, her photograph of Rasel's garden forces the Bangladesh choice. Eli asks whether she remembers either parent. She remembers everyone else's stories more clearly than the people. He gives her the storm-room memory; she receives the detail of Rasel's cool hand and asks for another when he can. The exchange ends practical: clinic calling, do not come home.
 
 **Voice:** Bangla text mix; practical, scared, not poetic; uses **Babu** (Rasel's old habit), not Eli, in intimate lines.
 
@@ -791,7 +791,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 | Custodians + Sora arc | breach–climax | pursuit | broken/changed | bounded consequence |
 | Somchai (nurse / field medic) | mention | reconvene; healings | hard no under pressure | public-care limit |
 | Sol Méndez | — | temptation | echo or end | remnants may enter court |
-| Shireen | one message | optional | optional |
+| Shireen | one encrypted exchange | optional | optional |
 | **Wren / Mei / Suresh** | Pelangi Reach; Wren = intake cover + Vol II network | — | Mei/Suresh optional echo |
 | Lang private beat | looms | social rooms | throne offer |
 
@@ -821,7 +821,7 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 | **Mei** | 1 | Kitchen commander during rush | **Friday dinner send-off:** *stolen child, not orphan*; *boy* in home tongue; last meal on chit circle | Hearth truth **Friday night** — no second goodbye |
 | **Wren** *(intake / network)* | Ch 1 attestation + cohort squeeze | *Vol II return* | Compound manifest habit; later offers accountable intake limits vs registry capture | Death tech as sincere care; documentation protects and exposes |
 | **Suresh** | 2 | *"I don't carry heroes. I carry rice."* | At the stern he hums **four wrong notes**, stops himself, goes flat — Iqbal's tune, never in public | Musician family grief; rice is real job, not whole identity |
-| **Shireen** | 2 | Cousin text: practical, scared | Encrypted message includes a photo: **Rasel's garden in Dhaka still growing** — home continued without Eli | Lost home heartbeat; Eli can't answer |
+| **Shireen** | 2 | Cousin text and voice note: practical, scared | Garden photo plus Eli's storm-room memory; each cousin carries a part of the lost household the other lacks | Lost home heartbeat; memory transmitted without return |
 | **Hassan** | 3 | Exhausted witness; testimony voice | Before handoff he **aligns papers** on a crate edge like a ledger clerk — precise, calm — then hands shake | Fishery accountant before black site; trusted paper once |
 | **Wren** | 3 or 5 | Cold operator; reads exits | After Malacca fold-in she sits on stairs eating a **convenience bun with both hands**, no napkin, staring at nothing — shift-meal habit from port intake days | Softer Wren leaks once; Eli may or may not see |
 | ~~**Jin Pak**~~ | 3 | **RETIRED 2026-08-06** — unnamed scout; this mirror/voice-slip leak is quarry for the scout if the role is ever promoted | — | — |
@@ -998,7 +998,7 @@ Wound object only — **no on-page psychology**. Lives in Wren's avoidance, Sora
 - Lock witness personal detail (tune vs. name vs. fact).
 - Lock Hassan fate after breach.
 - Lock Sora defection beat vs. death.
-- Lock healer final name/primary city.
+- Lock Somchai final name/primary clinic city.
 - Research precise **Thailand** river-valley geography, cooperative water practice, naming, border-era spray/burn legacy, and rice/aquaculture before drafting Malai's community. **Mekong/Hạnh draft retired.**
 - Lock whether Sol survives Vol II.
 - Reconcile Mira's death scene with Shield backstory in one paragraph when drafting.

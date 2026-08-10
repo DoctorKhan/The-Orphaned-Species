@@ -62,7 +62,7 @@
 
 **Evidence.** `99` Priority 0 and 0b (the revision + the "follow-up sweep still required" note listing the legacy terms and priority files).
 
-**Suggested direction.** (a) Move a defined set of lore to the companion volumes; keep the reader's path lean (reveal-discipline already knows this — `17`). (b) **Run the reconciliation sweep before prose drafting** — master timeline, glossary, `37`, `SOURCE_TO_TRILOGY_MAP`, `00_NARRATIVE_STRUCTURE`, `31`, `05`.
+**Suggested direction.** (a) Move a defined set of lore to the companion volumes; keep the reader's path lean (reveal-discipline already knows this — `17`). (b) **Run the reconciliation sweep before prose drafting** — master timeline, glossary, `37`, `SOURCE_TO_LAYER1_NOVELS_MAP`, `00_NARRATIVE_STRUCTURE`, `31`, `05`.
 
 **Related:** `99` #0, #0b.
 
@@ -75,7 +75,7 @@
 **Problem.** Large named cast (Eli, Wren, Rowan, Lang, Somchai, Sol, four Custodians, Hassan, Thila, Shireen, Rico, Lani, Babaji, Suresh, Mei + deep-time threads). Three sub-issues:
 - **Bloat.** Ask which characters merge or drop. The four-person Custodian team especially — a reader will struggle to hold four coerced-carrier antagonists distinct; consider three, or two vivid + two functional.
 - **The Wren/Rowan/Eli relationship shape** was open and risked adding load in an already-dense book. **Resolved 2026-07-22:** plural V—Wren/Rowan and Wren/Eli romantic; Rowan/Eli non-romantic—with Rowan carrying an independent west-corridor recovery function.
-- **Eli/Somchai overlap — ☑ FIXED.** Two fixes: (1) healing is Somchai's alone; Eli only *reads* bodies (`15`, `32_the_warm_hands`, `26`, et al.). (2) The twin deification-limits are distinct crowns — Somchai refuses the **crown of the body** in **Vol. II Ch. 18** (worship of his healing; reason = bodily limits, *son of a man*), while Eli releases the **crown of the polis** in the **Book III attack chapters** (the ruler/founder/one-voice; reason = a civilization that cannot continue without its hero has not grown up). The order builds: Somchai's bodily limit is the intimate-scale proof Eli later scales up. Locked in `05`, `32` Ch. 18, and `33`'s climax.
+- **Eli/Somchai overlap — ☑ FIXED.** Two fixes: (1) healing is Somchai's alone; Eli only reads trajectories through systems (`15`, `32_the_warm_hands`, `26`, et al.). (2) The twin deification-limits are distinct crowns — Somchai refuses the **crown of the body** in **Vol. II Ch. 18** (worship of his healing; reason = bodily limits, *son of a man*), while Eli releases the **crown of the polis** in the **Book III attack chapters** (the ruler/founder/one-voice; reason = a civilization that cannot continue without its hero has not grown up). The order builds: Somchai's bodily limit is the intimate-scale proof Eli later scales up. Locked in `05`, `32` Ch. 18, and `33`'s climax.
 
 **Why it matters.** Diffused attention weakens every thread; plural-romance staging and the twin-limits are specific redundancy risks.
 
@@ -126,7 +126,7 @@
 |
 |## Done this pass
 |
-|- ☑ **Eli is not a healer.** All extraordinary bodily repair is assigned to **Somchai Vichai, a nurse and field medic who develops energetic healing**; Eli's palm/nerve gift is purely *diagnostic reading* (perceives a body, never repairs it). Governing doc `32_the_warm_hands.md`; also sharpens issue #5's Eli/healer overlap.
+- **Not a healer.** All extraordinary bodily repair and diagnostic somatic reading belongs to **Somchai Vichai, nurse and field medic**. Somchai reads bodies through felt signatures: heat (virus/fever), tingling (bacteria/nerve), pressure/pulse (blockage), cold (depletion). He repairs; Eli does not. Eli's receiver is trajectory-only: he reads the vector of systems, fields, and movements through the web, not the diagnostic state of a body.
 - ☑ **True strength vs superficial display (LOCKED).** Governing theme: equanimity ≠ performative composure. Hub: `15` § *True strength vs superficial display*; craft rule `40` #7; `00` relatability rule.
 - ☑ **Eli meditation seed — Thailand (LOCKED).** Post-attack temple practice; Manual Override fruition under challenge. Hub: `15` § *Eli's meditation seed*; `26` Eli past/habit; `27` Vol I proof; `99` open (wat/city).
 - ☑ **Women / Hollywood "girl power" (LOCKED).** Negative templates + positive power registers. Hub: `15` § *Women characters*.

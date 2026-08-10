@@ -89,7 +89,7 @@ Route: post-Sanxingdui → **Egypt brief hinge or packet** → Mesopotamia → G
 |---|---|---|---|---|---|
 | 1 · Sichuan exit / greenhouse | Credential red; tomato stake | Release ≠ restoration | Father present; Wren barred | — | West (via Egypt hinge or direct) |
 | **1 hinge · Egypt / Nile House** *(not a full chapter)* | BAC-survivor god-king costume; optional uraeus/benben half-read | Survived collapse by hardening divine kingship | Endurance ≠ adulthood; contested Mesopotamia→pharaoh claim | Full Egyptology tour; volume open | Mesopotamia archive |
-| 2 · Mesopotamian archive / tell | **Refusal** (Adapa); triad residue; Map; Egypt packet OK if hinge skipped | Knowledge→obedience; 4.2 ka vs Adapa day | Centralizing fiction; Göbekli window | Full god politics | Göbekli |
+| 2 · Mesopotamian archive / tell | **Folly** (Adapa); triad residue; Map; Egypt packet OK if hinge skipped | Knowledge→obedience; 4.2 ka vs Adapa day | Centralizing fiction; Göbekli window | Full god politics | Göbekli |
 | 3 · Göbekli / Taş Tepeler | **Bridge** plaquette; buried instrument | Contact → selection / managed access | Counter-image to Sanxingdui branches | Panspermia zoom | West corridor |
 | 4–5 · Bosporus / holding | Hassan; Charkha naming | Costume hunt; Maren alive + tethered | Running their map | Departure-drone network named late | Pömmelte |
 | 6 · **Pömmelte + church rhyme** *(one arrival)* | Dead-zone; purge geometry; pew-side drain | Nephilot / carrier hunt; ni→persecution; domestic control | Women/children targeted; control rhymes | Full Nephilot taxonomy; separate church trip | Rollright corridor |
@@ -103,7 +103,7 @@ Route: post-Sanxingdui → **Egypt brief hinge or packet** → Mesopotamia → G
 
 ---
 
-## Book III — The Living World
+## Book III — The Compact
 
 Route: Albion exit → Atlantic → Brazilian lower-river network → Hawaiʻi → corridor → hearing → **incomplete handover under war pressure**. **Egypt = Mandate-face only** (no pilgrimage; seed was Book II hinge/packet).
 
@@ -115,7 +115,7 @@ Route: Albion exit → Atlantic → Brazilian lower-river network → Hawaiʻi �
 | 6–7 · Hawaiʻi refuge | Aloha + kuleana; crown-with-end | Stewardship ≠ base | Strongman-by-proximity | — | Corridor |
 | 8–9 · War corridor | Forced sync; cloisters rise | Labor/extraction (Atrahasis civic) | Extras as constituency | Destinies tablet full | Hearing |
 | mid/late | **Forks** + dragon ghost (when earned) | Parallel bridge species | Humanity one branch | Complete panspermia manual | — |
-| 10 · Handover hall | Seven desks; no missing key | Distributed authority works | Eli private citizen | Book IV attack | Book IV |
+| 10 · Handover hall | Seven desks; no missing key | Distributed authority works | Eli private citizen | Book IV reveals wider gap | Book IV |
 
 **Civic artifacts** count: Continuity Directive language, memorial text, compact clauses — same recipe as bronze and stone.
 

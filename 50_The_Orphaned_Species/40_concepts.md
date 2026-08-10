@@ -285,7 +285,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 | Parent | Passport / citizenship | Claimed by | Custody register |
 |---|---|---|---|
 | **Rasel Khan** | Bangladeshi / South Asian file | **Eastern Mandate** | **Rasel Khan** on files — indispensable personnel, black-lab transfer |
-| **Maren Holt** | Albion file (legacy *British* / UK on old registries) | **Charkha Measure** (Lang apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
+| **Maren Holt** | Albion file (legacy *British* / UK on old registries) | **Charkha** (Lang apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
 
 **Why they were separated:** not only attack violence — **claim routing**. Extraction-night intercept: Mandate files **Rasel**; the Charkha files **Maren**; no joint holding across orgs. Inter-bloc rules forbid merging chains; even if both survive the handoff, they **leave on different vehicles** toward different jurisdictions. Eli remembers one night; the file system remembers **two nationals, two claims**.
 
@@ -545,7 +545,7 @@ This is one positive social answer within the larger maturation: not self-suffic
 
 **Inalienable understanding:** this is the part of the victory no institution can take away. A person can lose place, files, status, reputation, money, and legal protection; they can still learn to feel the body, identify the charge, notice autopilot, and choose relation instead of automatic execution. That knowledge is not an escape from politics, but it is the reason politics cannot be the whole liberation. Structurally, Volume I can end on the first personal threshold: Eli is strong enough not to be merely steered. Volume II can end on the relational threshold: the group is strong enough to remain coherent under pressure before the civilizational test of Volume III.
 
-**Book 5 expression:** Adapa is the failure case: he has the gift but believes the inner lie. The Seven are seven independent answers: unrelated people in different settings recover capacities by refusing the offered father. Aedan's deep-time arc holds only partial fragments; Eli clarifies the complete threads without turning them into ancestry, doctrine, or an ability checklist. Eli develops breadth of reception — diagnostic reading, **not** healing; a separate present-day healer holds all bodily repair.
+**Book 5 expression:** Adapa is the failure case: he has the gift but believes the inner lie. The Seven are seven independent answers: unrelated people in different settings recover capacities by refusing the offered father. Aedan's deep-time arc holds only partial fragments; Eli clarifies the complete threads without turning them into ancestry, doctrine, or an ability checklist. Eli develops breadth of trajectory reception — **not** diagnostic reading, **not** healing; Somchai holds the diagnostic read and all bodily repair. The alternative on offer here is not a better
 
 ### Stage 3 — The living network
 
@@ -650,7 +650,7 @@ Key language:
 
 **Date:** Adam roughly ~3700 BCE if the Flood is placed near ~2000 BCE and Adam is born 1,656 years before it in the biblical chronology. If the Flood is tied more strictly to the 4.2-kiloyear event (~2200 BCE), Adam shifts earlier, roughly ~3850 BCE. Use the rounded narrative range **~3900-3650 BCE**, with **~3700 BCE** as the working midpoint.
 
-**Street name — LOCKED 2026-07-26: The Exile.** Scholar/tradition: Genesis Eden / Adam expulsion. Not a Human-Design Triad member; the Genesis rhyme to **The Refusal**. Spoken: *Refusal, Sorting, Fade — and later, the Exile.*
+**Street name — LOCKED 2026-07-26: The Exile.** Scholar/tradition: Genesis Eden / Adam expulsion. Not a Human-Design Triad member; the Genesis rhyme to **The Folly**. Spoken: *Folly, Sorting, Fade — and later, the Exile.*
 
 This is not the creation of biological humanity. It is the birth of the remembered biblical Adam: the post-Abandonment / pre-Flood covenantal human, living under the moralized garden story that will later become obedience, guilt, chosen status, father-god law, and covenant control.
 
@@ -660,11 +660,11 @@ The Flood belongs later, around the 4.2-kiloyear event / ~2200-2000 BCE dependin
 
 | Layer | Working date |
 |---|---|
-| **Adapa** (Eridu boat-day) / **The Refusal** | **~5500–4000 BCE** (5th millennium) |
+| **Adapa** (Eridu boat-day) / **The Folly** | **~5500–4000 BCE** (5th millennium) |
 | **Adam / Eden III** / **The Exile** | **~3900–3650 BCE** (~3700 midpoint) |
 | **4.2 ka / Flood window** | **~2200–2000 BCE** |
 
-Full lock: `35_artifact_chain.md` § *Chronology lock — Adapa ≠ Adam ≠ 4.2 ka*; `00_MASTER_TIMELINE.md` same heading. Human-Design Triad street names: **The Refusal · The Sorting · The Fade**. Genesis rhyme (not triad member): **The Exile**. (`35` § *Mesopotamian Human-Design Triad*; chronology lock street rhyme.)
+Full lock: `35_artifact_chain.md` § *Chronology lock — Adapa ≠ Adam ≠ 4.2 ka*; `00_MASTER_TIMELINE.md` same heading. Human-Design Triad street names: **The Folly · The Sorting · The Fade**. Genesis rhyme (not triad member): **The Exile**. (`35` § *Mesopotamian Human-Design Triad*; chronology lock street rhyme.)
 
 Key language:
 
@@ -740,7 +740,7 @@ Book formula:
 Do not map Alulim directly to Adam, Alalgar to Seth, and so on. That creates false precision and breaks both traditions. The Sumerian kings are rulers / offices / dynastic containers. The Genesis patriarchs are covenant ancestors.
 
 **2. Adam stays in Eden III.**  
-Adam remains the remembered covenantal ancestor around the current working range of **~3900-3650 BCE**. The Sumerian antediluvian kings belong to the broader late Phase VI / early Phase VII memory of managed cities before the Flood. They are the control system's public face, not the first biological humans. **Adapa is not Adam:** **The Refusal** (Adapa, ~5500–4000 BCE) is not **The Exile** (Adam/Eden III, ~3700 BCE); the **4.2 ka** Flood window is later still (~2200 BCE).
+Adam remains the remembered covenantal ancestor around the current working range of **~3900-3650 BCE**. The Sumerian antediluvian kings belong to the broader late Phase VI / early Phase VII memory of managed cities before the Flood. They are the control system's public face, not the first biological humans. **Adapa is not Adam:** **The Folly** (Adapa, ~5500–4000 BCE) is not **The Exile** (Adam/Eden III, ~3700 BCE); the **4.2 ka** Flood window is later still (~2200 BCE).
 
 **3. Genesis 1 can supply the wider human field.**  
 The Cain problem is useful: Cain fears "whoever finds me," receives a protective mark, goes to a named land, finds a wife, and builds a city. The text behaves as if a wider human population already exists. In this canon, that population is the broader **Umannu / Lullu** world outside the Adamic covenant line. Genesis 1 is the human field; Genesis 2 sets apart the Eden III priestly/covenantal line.

@@ -30,7 +30,7 @@
 - **Sensation:** the receiver filter breaks; field-data arrives uninvited — other people's noise, charged-ground hum, dream bleed, ambient psionic weather. The body runs hot: tingling, pressure behind the sternum, palms burning, insomnia.
 - **Behavior:** the person starts acting on field-input as if it were personal — answering voices that are not speaking to them; taking positions that match the nearest charge; losing the boundary between what they feel and what the grid feels.
 - **Temptation:** *I am powerful; I am connected; this is what I was made for.*
-- **Cost:** identity erodes; the person becomes a node, not a self. Eli's specific hazard: his somatic signatures (heat, tingling, pressure, cold) are diagnostic reads — but when he identifies with the surge instead of holding it in relation, the read becomes the disease.
+- **Cost:** identity erodes; the person becomes a node, not a self. Eli's specific hazard: his trajectory sense reads system charge patterns; when he identifies with the surge instead of holding it in relation, the trajectory becomes the command.
 
 ### 3. Compulsion Loop (Drift proper)
 - **Sensation:** the body repeats a charged rule-cycle without the person's choice. A somatic deposit (the serpent's rattle) fires again and again — each repetition thickens the charge. The loop feels like purpose. It feels like the thing the person was meant to do.
@@ -80,13 +80,13 @@ Use these in prose, not exposition.
 
 ## Eli's Specific Drift Hazard
 
-Eli's somatic signatures are diagnostic tools — heat, tingling, pressure, cold — that let him read field-state without instruments. The hazard is not the signatures themselves; it is identifying with them. When Eli starts treating a surge as *his* power rather than *a field condition passing through his body*, he is drifting. The keeper practice is to hold the signature in non-identified relation — feel it, name it, let it pass — and only then act.
+Eli's trajectory sense is a system tool — it reads charge patterns, vectors, and timing across bodies, fields, and movements. The hazard is not the sense itself; it is identifying with the surge. When Eli starts treating a trajectory as *his* power rather than *a field condition passing through his receiver*, he is drifting. The keeper practice is to hold the charge pattern in non-identified relation — feel it, name it, let it pass — and only then act.
 
 **Eli's Drift arc:**
-- Book I: somatic reads as gift the Union would sedate; he hides them.
+- **Book I:** trajectory reads as gift the Union would sedate; he hides them.
 - Book II: dream uncertainty; he does not know whether dreams are contact, trauma, body, memory, projection, or intrusion.
 - Book III: forced synchronization temptation — the compact's coordinating authority gives him exactly the field-feedback he craved; the temptation to extend authority into permanent command is the Drift at civilization scale.
-- Book IV: the Loop's miniature hell — civic victory followed by private incompletion; belonging unresolved; the federation holds while Eli still lacks a place.
+- Book IV: the Loop's miniature hell — civic victory followed by private incompletion; belonging unresolved; the federation holds locally, in the room, while the wider interregional layer the Lean Year is about to test was never secured, and Eli still lacks a place.
 
 ---
 

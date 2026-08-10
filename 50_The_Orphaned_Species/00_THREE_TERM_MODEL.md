@@ -97,7 +97,7 @@ If the answer to 1 and 2 is "nothing visible," the scene lacks pressure. If the 
 |---|---|---|---|
 || **I — The Breach** | Eli's receiver activates at near-death; no Manual Override mastery yet | Orphan tether: Rasel believed dead; grief as autopilot | Pelangi Reach under Mandate squeeze; the made home as first-order attractor |
 || **II — The Descent** | Manual Override under pressure; breath, wat, threshold | Maren tether: reunion fantasy → release at Avebury | Göbekli / Albion: knowledge-side control exposed; Seven prove independent roads |
-|| **III — The Living World** | War wound; forced synchronization temptation; body spent under command | Somchai's crown: gift made object of worship | Compact fractures under war pressure; Eli accepts bounded wartime command; decentralization fails in the field but proves its own necessity |
+|| **III — The Compact** | War wound; forced synchronization temptation; body spent under command | Somchai's crown: gift made object of worship | Compact fractures under war pressure; Eli accepts bounded wartime command; decentralization fails in the field but proves its own necessity |
 || **IV — The Court of Threads** | Pregnancy, labor, bodily privacy as court weapons | Rowan/Wren/Eli household recognition; chosen conception | Reconstruction of the compact after war; Lean Year scarcity; Costa Rican hinge; Eli's second relinquishment from a position of proven voluntary choice |
 
 **In character:**
@@ -145,8 +145,8 @@ T2 is the practice in the fork itself: the capacity to hold both possibilities w
 The "intermediate species" is the capacity created by Term 2: the ability to sit between gods and animals, between cultures, between planes, without being consumed by either.
 
 - **Books I–II:** implicit. Eli lives inside the gap; he does not name it.
-- **Book III:** partially named. The temporary wartime compact, the refusal of forced synchronization, the failed handover. The compact fractures under war pressure; Eli holds emergency power and learns that relinquishing is not a single act but a practice that survives fracture.
-- **Book IV:** the court of threads tests whether Term 2 can govern after its first failure — whether a broken compact can be rebuilt better than before, not because it never fractured, but because the reconstruction is voluntary and reviewable.
+- **Book III:** partially named. The temporary wartime compact, the refusal of forced synchronization, and a real, completed handover in the room that watches it. Eli learns that relinquishing is not a single act but a practice — and that the practice can be genuine at one scale while the wider compact it seemed to prove was never intact beyond that room.
+- **Book IV:** the court of threads tests whether Term 2 can govern once that gap surfaces — whether a compact that looked whole can be built out to the scale it never actually reached, not because it was fake, but because the reconstruction is voluntary and reviewable.
 - **Books V–X:** Term 2 becomes ambient culture. Teahouses, cloisters, flights, braids. The intermediate species is now the default mode of being—and the story asks what happens when the bridging mechanism tries to become a first-order attractor itself. That is the angelic-orders tension deferred to V+.
 
 ---

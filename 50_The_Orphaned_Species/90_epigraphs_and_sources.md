@@ -63,9 +63,10 @@ A living collection of real scientific papers, excerpts, and quotes that anchor 
 > — *[In-world document name], [hand/office/place]*
 ```
 
-**Worked example — Chapter One, retrofitted:**
+**Worked example — Chapter Ten, retrofitted:**
 
-A Rootbook fragment ahead of the chapter, in Rasel's hand — plants the object and the father's voice before Mei ever produces the notebook on-page, so the reveal lands as recognition instead of first introduction:
+A short Rootbook fragment may precede the Thailand custody reveal, provided the
+epigraph does not imply that Eli already owns or has seen the journal:
 
 ```markdown
 > *Water before light. Roots argue with nothing; they only grow toward what feeds them. A boy will do the same, if you let him.*
@@ -877,7 +878,7 @@ housing, conservation, and selective-use conflicts inside the receiving side.
 
 ### Enheduanna / Inanna hymn material
 
-**Use lock (2026-07-15); placement revised 2026-08-01 for the current ten-chapter spines:** Use the hymn as an authored human voice across the trilogy, not as a magical key or prophecy. Placement: **likely Book II Ch 2** ("The Refusal," Mesopotamian archive — Adapa's current home after `58_sanxingdui_climax_lock.md` moved Mesopotamian material out of Book I; not independently confirmed, verify before drafting); Book II, chapter TBD (contrast with Anthea and rejection of prophetic misuse — previously "Ch 20–21," beyond the current spine); **Book III Ch 9** ("The Hearing Begins" — a strong match for "public hearing question of voice, preservation, and authorization"). Eli carries the song without owning or canonizing it. Choose a public-domain translation or paraphrase; do not quote an unselected modern edition.
+**Use lock (2026-07-15); placement revised 2026-08-01 for the current ten-chapter spines:** Use the hymn as an authored human voice across the trilogy, not as a magical key or prophecy. Placement: **likely Book II Ch 2** ("The Folly," Mesopotamian archive — Adapa's current home after `58_sanxingdui_climax_lock.md` moved Mesopotamian material out of Book I; not independently confirmed, verify before drafting); Book II, chapter TBD (contrast with Anthea and rejection of prophetic misuse — previously "Ch 20–21," beyond the current spine); **Book III Ch 9** ("The Hearing Begins" — a strong match for "public hearing question of voice, preservation, and authorization"). Eli carries the song without owning or canonizing it. Choose a public-domain translation or paraphrase; do not quote an unselected modern edition.
 
 **Candidate use:** sacred authored voice, hymn as rhetoric, priestly displacement, and Inanna's dangerous undomesticated power. This can connect Anthea, Wren, Eli's mother, the Pai performer, and Eli's later bard function without turning any of them into Enheduanna reincarnated.
 

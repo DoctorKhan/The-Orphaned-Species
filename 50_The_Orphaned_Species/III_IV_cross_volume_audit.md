@@ -1,6 +1,8 @@
 # Book III ↔ Book IV Cross-Volume Consistency Audit
 *Generated from on-disk drafts and architecture locks.*
 
+> **SUPERSEDED 2026-08-08 — rerun needed.** Generated before the Book III endgame revision (2026-08-07) and the personal/systemic relinquishment synthesis (2026-08-08). The "Decentralized settlement holds" row below ("Handover succeeds... no single point of failure" / "Consistent") describes the OLD canon accurately as a description of what's on the page — the manuscript's local handover scene is, happily, still correct under the new synthesis — but the row's framing that this is the *whole* story is now incomplete: the wider interregional compact the war seemed to secure was never actually intact beyond that room, and Book IV opens by surfacing that gap rather than by attacking a system that was fully whole. See `33_volume_III_beatsheet.md` § *BOOK III ENDGAME* and `49_machiavelli_toolkit.md` § *Proven for the person, untested for the system* for current canon. Treat the rest of this report as a stale snapshot until the audit is regenerated.
+
 ## Summary
 Both manuscripts are **internally consistent** with their own architecture docs and **cross-consistent** with each other on all load-bearing beats. One minor prose gap remains: specific Costa Rican place names are locked in architecture but not yet drafted into the manuscript.
 
@@ -50,7 +52,7 @@ Both manuscripts are **internally consistent** with their own architecture docs 
 
 ## Open items
 
-1. **Costa Rican place names** — `Limón`, `Tortuguero`, `Reventazón/Turrialba`, `Yuliana Mora` are locked in architecture but not yet drafted into Book IV Ch 1 prose. This is a prose gap, not a structural contradiction.
+1. **Costa Rican place names** — `Nosara–Sámara` coastal nodes and `Tenorio–Miravalles` watershed zone are locked in architecture but not yet drafted into Book IV prose. This is a prose gap, not a structural contradiction.
 2. Research consultations still required before final prose for Hawaiʻi/Pele and Brazilian municipality selection (already in todo list).
 
 ## Conclusion

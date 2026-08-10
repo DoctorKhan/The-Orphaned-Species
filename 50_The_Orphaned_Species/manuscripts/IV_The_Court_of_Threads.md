@@ -80,7 +80,22 @@ This is what slow government looks like when something is finally testing whethe
 
 ---
 
-The repair hall has no ceremonial dignity. It never did. That was the point, once — no throne, no palace, nothing built to be defended for its own sake. Its roof trusses still carry load ratings. Two gantries hang above the delegate floor. Machine bays hold medical stations, food, and the seven verification desks, spaced far enough apart that no single blast radius could touch more than two — Wren's design, built into the compact from the day the handover succeeded, insurance nobody thought they'd need to use. The public enters through doors wide enough for freight.
+The repair hall has no ceremonial dignity. It never did. That was the point,
+once — no throne, no palace, nothing built to be defended for its own sake. Its
+roof trusses still carry load ratings. Two gantries hang above the delegate
+floor. Machine bays hold medical stations, food, and the seven verification
+desks, spaced far enough apart that no single blast radius could touch more than
+two — Wren's design, built into the compact from the day the handover succeeded,
+insurance nobody thought they would need again.
+
+The central table has no seat for Eli. That is his clause, not Wren's doing —
+negotiated after the Blue Roof House breakfast, after Kit Three, after the
+morning when nobody could decide whether the armor made him look like a ruler.
+He records from the service corridor, where the barrier hum and the distant
+water sound like ordinary work, and where no delegate has to look at him before
+answering.
+
+The public enters through doors wide enough for freight.
 
 Outside, first-cloister crews manage the perimeter beside local defenders.
 
@@ -148,8 +163,8 @@ frame: Asha's damaged objection ledger, the fire inspector opening a door Rowan
 was not supposed to walk through, the Continuity delegate calling Costa Rican
 refusal a betrayal of the Eagle and Condor, the Sol depot opening under cutting
 torches, the bridge confrontation where two armed convoys waited for him to
-make the world simpler. The feed is not false. It is a room with one wall
-removed, and the room beyond is the same one they are standing in.
+make the world simpler. The feed is a room with one wall removed, and the room
+beyond is the same one they are standing in.
 
 "He is."
 
@@ -212,9 +227,7 @@ water and stands where Wren can feel the door still closed behind her.
 
 ---
 
-The first notice is not an alarm.
-
-It is a shipping refusal.
+The first notice arrives as a shipping refusal, not an alarm.
 
 The *Tern* has six thousand tonnes of spring wheat under compact contract and
 permission to leave the northern coast. Its receiving port will not certify the
@@ -243,7 +256,24 @@ No model agrees on how much sulfur reached the high air.
 
 Every model agrees that planting has already happened.
 
-"Publish the range," Asha says.
+At 22:17, Eli receives a private routing request from the *Tern*'s third mate.
+The ship has received a second destination under a Union continuity cipher. The
+order sends it to a warm-site harbor whose survival roster predates the compact.
+The key is valid. The office that issued it no longer possesses authority over
+the grain. The ship sails at 02:00. Eli forwards the request to the court at
+22:19 with a note: *not an appeal. a countdown.*
+
+Wren does not wait for the court. She contacts the *Tern*'s master on the
+closed compact channel and requests a voluntary hold. The master asks who is
+asking. Wren says: the route that got you permission in the first place. The
+master says his contract names a destination. Wren says the destination is under
+disputed authority and the cargo belongs to the corridor, not the cipher. They
+negotiate for eighteen minutes. At 22:41, the *Tern* drops anchor inside the
+ash-closure cone rather than sail to a warm site that may not exist.
+
+The assembly votes six days later. The ship never needed them.
+
+Tarek brings the *Tern* record to Wren after midnight.
 
 The Union delegate wants a single planning figure.
 
@@ -262,13 +292,6 @@ By noon, five grain exporters announce temporary holds.
 By evening, temporary has acquired armed guards.
 
 ---
-
-Tarek brings the *Tern* record to Wren after midnight.
-
-The ship has received a second destination under a Union continuity cipher. The
-order sends it to a warm-site harbor whose survival roster predates the compact.
-The key is valid. The office that issued it no longer possesses authority over
-the grain.
 
 "Henley," Wren says.
 
@@ -367,7 +390,7 @@ Its security drone carries no compact warrant.
 
 When the gate crew refuses entry, the drone crosses the service yard.
 
-Celia is moving the clock into its transit case when the round finds her.
+Celia is moving the clock into its transit case when a round arrives.
 
 The clock survives.
 
@@ -421,9 +444,11 @@ through one Union-controlled ground:
 
 **ONLY THE CHOSEN VOICE CAN PRESERVE THE PEOPLE.**
 
-It bears three artifact signs and no provenance. Cuno's grammar catches the lie.
-The message reports no loss in transit. Three separate teachings have been
-pressed into one clean instruction.
+It bears three artifact signs and no provenance. Cuno's grammar catches the
+lie. The message reports no loss in transit. Three separate teachings have been
+pressed into one clean instruction. Cuno marks the error in the margin with a
+pencil he has kept sharp since school—an old habit from a classroom where
+correction meant the difference between understanding and repeating.
 
 Wren has been watching Sol channels since the east-gate incident. She has the
 clip when it first appears. She has the timestamp, the relay path, the three
@@ -523,7 +548,7 @@ Route cartels benefit from every day no public allocation calendar can be truste
 
 The vote passes.
 
-Eli watches it happen and feels the whole structure lay itself out in front of him the way the Three Circles did under the water in Malaysia. The inner ring — Rowan beside him, her body steady, the child already moving inside her, the personal cost of every person in this room. The middle ring — Wren at the verification desk, the renewed bond between them that does not need a name, the tether that held through seven months without either of them asking it to perform. The outer ring — the compact itself, the door the room built and locked, the system that just voted to remain open instead of closing around one man. He did not fight the Cage. He helped the people inside it build a door large enough that no one had to be king to keep it shut.
+Eli watches it happen and feels the whole structure lay itself out in front of him the way the Three Circles did under the water in Malaysia. The inner ring — Rowan beside him, her body steady, the grief she carries and never spends on anyone, the personal cost of every person in this room. The middle ring — Wren at the verification desk, the renewed bond between them that does not need a name, the tether that held through seven months without either of them asking it to perform. The outer ring — the compact itself, the door the room built and locked, the system that just voted to remain open instead of closing around one man. He did not fight the Cage. He helped the people inside it build a door large enough that no one had to be king to keep it shut.
 
 Eli does not cast one.
 
@@ -636,7 +661,9 @@ He almost smiles.
 
 ---
 
-The first daily continuity review begins at sunset.
+Rowan does not go back to the assembly hall immediately. She steps into the west service corridor and leans against the wall beside the doorframe that still carries the scar where a child once ran too fast to hold still. The corridor is empty. The vote has passed. The western routes have renewed their attestation under terms she wrote. She has done what she came to do.
+
+What she has not done is tell either of them that the terms were easier to write than she expected because the child moving inside her made the compromise feel like proof rather than surrender. That is a cost she will carry privately for now—not hidden, just unannounced. She runs her palm along the scarred wood once, the way she used to steady a child after a fall, then turns and goes back to the hall before either of them can ask whether she is all right.
 
 Eli reports every order issued since the vote passed.
 
@@ -685,7 +712,7 @@ Wren sits across from him.
 
 She is neither consort nor subordinate, and she has not gone, and this time neither of them mistakes the borrowed crown for a home.
 
-Outside, on a retaining wall near the harbor approach, someone has chalked the old incomplete circles — two arcs, opposed hatch-marks, almost joined. The Loop. A clerk walking past stops, looks, and walks on without saying anything. Wren sees it later and does not erase it. The mark stays because the court needs to remember that belonging is not the same as completion, and that a finished job can still loop privately inside the person who did it.
+Outside, on a retaining wall near the harbor approach, someone has chalked the old incomplete circles — two arcs, opposed hatch-marks, almost joined. The Loop. A clerk walking past stops, looks, and walks on without saying anything. Wren sees it later and does not erase it.
 
 ---
 
@@ -721,6 +748,19 @@ House Ilyara's plan places Weavers at every door and calls this an absence of
 seating preference.
 
 Wren puts all three in the objection ledger.
+
+That afternoon, she finds a fourth plan tucked under her door. It is unsigned.
+It places Eli alone at the head of a raised table, flanked by two empty chairs
+labeled WITNESS and ADVISER, with a single entrance behind him. No public doors.
+No compact witness. The handwriting matches neither office nor house. Wren shows
+it to Asha. Asha compares the ink lot to the objection ledger paper. It matches
+the batch Henley's office ordered last month.
+
+They do not confront Henley with it. They photocopy it, staple it to the
+ledger's complaint page, and post the bundle outside the review chamber before
+the afternoon session. The delegates arrive to find their own suggested
+arrangements sitting beside a reminder that every plan is recorded. The fourth
+plan disappears. Nobody claims it.
 
 The court does not officially exist.
 
@@ -926,8 +966,10 @@ No claim explains the whole.
 
 The order redirecting the *Tern* used a Union continuity cipher issued from
 Minister Paul Henley's office. Henley says the warm sites would otherwise have
-received nothing. Logs show his staff reviewed the grain destination before
-any public export hold.
+received nothing. Logs show his staff reviewed the grain destination before any
+public export hold. The order form carries his initials in the same blue ink he
+used for library checkout cards as a student—small, legible, never cursive—
+because he once decided that illegible handwriting was a failure of care.
 
 A Sol-linked relief front cut open a concealed depot, then withheld the truck
 ledger after the fourth vehicle disappeared.
@@ -1584,7 +1626,7 @@ Rowan the following evening.
 Rowan goes to Eli's room because they have finished work, eaten, argued about
 Henley's replacement, and still want one another when nothing urgent remains.
 
-Sex is not a claim. It is not a contract, not a title, not a step toward
+Sex claims nothing here — not a contract, not a title, not a step toward
 household or succession. It is what two people choose in the same room they
 have already chosen to argue in.
 
@@ -1703,6 +1745,122 @@ It had prepared the meaning in advance.
 
 ## Chapter Three—Three Rooms
 
+The residence has one guest chair that isn't covered in files, and Rowan has been sitting in it for two hours arguing that his household-security draft treats grief like a scheduling conflict.
+
+"It's not that it's wrong," she says. "It's that you wrote it like a man who's never had to explain to a child why the funeral has an agenda."
+
+"I've never had to explain that."
+
+"I know. It shows."
+
+He crosses out a clause. Writes it again, slightly worse.
+
+"Say it in one sentence," he says. "What I'm missing."
+
+"Grief doesn't take a number in line. You're building a queue."
+
+He looks at the page for a long moment, the way he looks at a field report before he trusts it.
+
+"That's better than anything I wrote."
+
+"I know."
+
+"Say it again so I can steal it properly."
+
+She says it again. He writes it down word for word, her word for word, and doesn't pretend it's his.
+
+It's past midnight. The residence has gone quiet enough that the building's own systems are the loudest thing in it — a compressor somewhere, a relay clicking on schedule.
+
+"You should sleep," she says, not moving to leave.
+
+"You should stop telling me what to do in a sentence I'm going to steal next."
+
+"That's not a no."
+
+"It's not a no."
+
+Neither of them says anything for a while. It isn't the silence they usually work in — the useful kind, made of two people thinking about the same problem from different angles. This one has a different shape.
+
+"I keep doing the thing," he says finally, "where I ask a question badly because I don't want to ask the real one."
+
+"I've noticed."
+
+"Ask it for me."
+
+"No." She says it kindly. "You don't get to skip it just because I'm better at sentences."
+
+He sets the pen down.
+
+"Do you want this," he says, "or do you want to have wanted it, later, safely, when it's already a decision someone else made for us."
+
+"That's not badly asked."
+
+"I've been practicing."
+
+"On who."
+
+"Myself. Badly."
+
+She stands, crosses the small distance between the chair and the desk, and doesn't wait for him to finish standing before she's close enough that finishing doesn't matter.
+
+"I want this," she says. "Today. Now. Not a story we tell later about how it happened to us."
+
+"Good," he says, and it comes out rougher than he means it to, which is its own kind of honest.
+
+---
+
+He is, it turns out, bad at this in a way nothing else has prepared her for — competent everywhere else, hands that can splice a line blind, and here fumbling a clasp like it's a foreign alphabet.
+
+"You're overthinking the mechanism," she says.
+
+"I'm aware."
+
+"It's not a field report."
+
+"I'm aware of that too."
+
+She laughs — not at him, exactly, or not only — and the laugh does more than either of them expected it to: something in his shoulders lets go that two hours of grief-drafting hadn't touched.
+
+Her hand finds his, guiding, and for one full second the room is the wrong room — a ledger page, a woman's name beside her brother's route, a red dot that did not blink.
+
+He goes still.
+
+Rowan feels it happen under her hands before she understands what it is: not hesitation, not doubt, something older passing through him and out the other side.
+
+She doesn't ask what it was.
+
+She doesn't wait for it either. She just stays where she is, her weight a fact rather than a question, until his breath finds its own rhythm again and the room is only the room.
+
+"Still here," she says. Not a question.
+
+"Still here."
+
+Neither of them names it. Some things get read correctly without needing to be said, and this is one of them — the same way Wren once read a hearing room go still around him and did nothing about it either, because there was nothing to do.
+
+---
+
+Afterward, the residence is quiet in the specific way of a building that has stopped performing for anyone. Rowan lies with her head against his sternum, listening to a heartbeat gradually stop trying to prove anything to her.
+
+"That wasn't relief," she says eventually.
+
+"No."
+
+"You want to tell me."
+
+"Not yet."
+
+"Not never."
+
+"No. Not never."
+
+She accepts the distinction the way she accepts most things from him now — without demanding it arrive faster than it's able to.
+
+The relay clicks off somewhere in the building's systems. Outside, the sky is doing the slow grey thing it does before it commits to morning.
+
+She leaves before the residence wakes up around them, because a scheduler somewhere keeps a log of doors, and because leaving before dawn is not the same as hiding, and both of them know the difference.
+
+---
+
 The court's first household portrait contains no household.
 
 Eli stands on the repair-hall steps after a continuity review. Wren is three
@@ -1768,9 +1926,7 @@ Sable looks at the public gallery.
 "Because failing to recognize an informal household creates security and
 succession ambiguity."
 
-The answer is not prudish.
-
-It is administrative.
+The answer is administrative, not prudish.
 
 Sable can imagine desire only as an unfiled institution.
 
@@ -2329,6 +2485,34 @@ Eli looks relieved.
 
 "So do I."
 
+He watches her set the second boot down more carefully than the first — not
+slower, just deliberate, the specific economy of movement she uses when
+something costs her and she has decided not to spend the room's attention on
+it.
+
+"What," she says, without looking up.
+
+"Nothing."
+
+"You do that. Slow the hands. Never the face."
+
+"I've been watching you for months."
+
+She sets the boot the rest of the way down.
+
+"Wren has never once asked me to choose between anything," she says. "That's
+not the same as it costing nothing."
+
+"I know."
+
+"Most people stop there. 'I know,' as if knowing were the whole of it."
+
+He does not reach for her the way he'd reach for a problem to be solved. He
+stays where he is, close enough, and lets her decide whether that's the
+difference.
+
+It is.
+
 They have sex after naming it.
 
 The sex is not more legitimate than before.
@@ -2654,7 +2838,10 @@ The custody record names a senior Weaver:
 Selin Aras.
 
 She was among the first people to teach Wren that a correct placement sometimes
-requires a lie at the door.
+requires a lie at the door. The silence she keeps before answering is not the
+silence of an elder calculating risk. It is the same pause she used to allow a
+child to finish the wrong sentence before correcting it—a habit of waiting that
+outlasted the classroom and became the only authority she never had to claim.
 
 Rowan watches Wren read the name.
 
@@ -3091,7 +3278,11 @@ Every person understands.
 
 Wren sees the notice while escorting Imogen Cole into the review residence.
 
-Imogen walks with a cane and an anger that survived protection.
+Imogen walks with a cane and an anger that survived protection. The cane is a
+teacher's rod she kept from the school where she once walked children to the
+gate, not a prop for weakness—the same length, the same varnished oak, the
+same scar where a doorframe took a bite out of it the year a child ran too fast
+to hold still.
 
 "Whose future?" she asks.
 
@@ -3144,9 +3335,7 @@ Some carry signs against dynastic rule.
 Some are parents whose own children disappeared into registries and want one
 pregnancy to mean the future did not end.
 
-Their hope is real.
-
-It is not theirs to place inside Rowan.
+Their hope is real, but it isn't theirs to place inside Rowan.
 
 Wren calls her.
 
@@ -3170,6 +3359,14 @@ does not create public standing."
 Wren writes the statement.
 
 At the bottom, she adds no soft promise.
+
+She adds one more thing nobody asked her to: an amendment to the household
+privacy directive naming her own access to the child's future medical file,
+filed under the same authority she used to cancel the venue, in the same
+sitting, before she can talk herself out of it. Nobody told her the chair
+would be missing. Nobody has to tell her twice. She does not ask Rowan first.
+It feels, filing it, like closing a door the court had just tried to leave
+open for only two people.
 
 The pregnancy remains private.
 
@@ -3218,8 +3415,6 @@ taken. Rowan has begun counting the tasks Wren performs that no table will name:
 the requests routed at night, the griefs classified, the strangers kept from
 his door. Hub labor has no signature. It only appears as the thing missing when
 it stops.
-
-Rowan opens the prepared statement.
 
 "I am pregnant. I want this pregnancy. Eli and I intend to raise the child."
 
@@ -3698,7 +3893,7 @@ It does not need to. The method is the message.
 
 Novak finds Selin in the corridor outside the review chamber.
 
-Selins custody suspension has not kept her from the building. She arrives
+Selin's custody suspension has not kept her from the building. She arrives
 before witnesses and leaves after them, which means she is present for every
 conversation nobody wants recorded.
 
@@ -3786,7 +3981,12 @@ The crowd complains about the delay.
 
 Then three people find an error.
 
-The apprentices fix it in public.
+The apprentices fix it in public. An elder in the back recognizes the roof chant
+before the third note — the third note has not been sung in this settlement
+since before the collapse, and she does not say that out loud. She only closes
+her eyes and lets the children finish it wrong, which is how the old practice
+survives: not in the archive, but in the body that remembers the shape of a
+song the next generation has already half-forgotten.
 
 The main event is a route relay built from work no one can romanticize: lift,
 balance, signal, hand off, climb. The loads are weighted like medicine cases.
@@ -4441,6 +4641,13 @@ Novak presents the dynasty proposal in a room packed beyond its air
 capacity. The child turns beneath Rowan's ribs whenever the crowd volume rises,
 whether from sound, field pressure, or ordinary discomfort nobody can establish.
 
+The movement has a rhythm she knows from somewhere older than this room: the
+same roll her grandmother described in the stories that were never written down,
+the same shift a body makes when it has carried something before and knows the
+shape of the passage without being told. Rowan does not say this. She places
+one hand flat across the weight of it and lets the child turn against her palm
+the way a door turns against a frame that has already decided to open.
+
 The proposal is called the Continuity Household Settlement.
 
 It grants the child no immediate executive power.
@@ -4554,7 +4761,7 @@ The line spreads before he sits.
 
 By evening it appears on banners beside images of the unborn heir.
 
-Refusal becomes dynasty material too.
+Folly becomes dynasty material too.
 
 ---
 
@@ -4777,8 +4984,8 @@ The feed covers the argument as civic engagement. The private messages call it
 useless.
 
 Eli reads the thread while Rowan sleeps. Wren sees the message count and does
-not open it. She knows the argument is not about a yard. It is about whether
-the new order has the right to rename the things people survived.
+not open it. She knows the real argument: whether the new order has the right
+to rename the things people survived, not a yard.
 
 The tarp stays for eleven days. Then a rainstorm tears it. The sign reads
 Unity Plaza for three weeks. Then somebody paints the beam name underneath in
@@ -5033,6 +5240,16 @@ No station receives the event.
 No public field monitor.
 
 The room belongs to Rowan before it belongs to history.
+
+On the wall above the empty bed frame, someone has chalked a circle the size of
+a child's reach. It is not a clinic mark. It is not part of the preparation. It
+was already there when they opened the door—drawn by whoever occupied the room
+before the clinic claimed it, left the way a threshold is left when a body has
+already crossed and the crossing is enough. Wren sees it before she removes the
+first chair. She does not chalk over it. She does not erase it. She places the
+empty chair where the circle can remain visible, because the room belongs to
+Rowan before it belongs to history, and history does not get to decide which
+marks stay.
 
 ---
 
@@ -5572,7 +5789,7 @@ his security detail. He stands with his hands at his sides and waits for the
 room to decide whether the compact can be postponed for a child who has not
 yet arrived.
 
-He is not afraid. He is practicing the Untying at every scale at once: the inner ring — his own body, which has no authority over Rowan's labor and would not use it if it did. The middle ring — the bond to the woman who taught him what consent looks like in ordinary minutes, not only in crisis. The outer ring — the government that has outgrown him, the room that does not need his command to do what it was built to do. What he learned in the paddy fields and under the culvert wall at Sanxingdui holds here the way it held at the wat: stop trying to be the center. Let the system answer. The birth will happen with or without his instruction. The vote will pass with or without his voice. He is not the Untying. He is the person who stopped tightening the knot.
+Fear does not reach him. He is practicing the Untying at every scale at once: the inner ring — his own body, which has no authority over Rowan's labor and would not use it if it did. The middle ring — the bond to the woman who taught him what consent looks like in ordinary minutes, not only in crisis. The outer ring — the government that has outgrown him, the room that does not need his command to do what it was built to do. What he learned in the paddy fields and under the culvert wall at Sanxingdui holds here the way it held at the wat: stop trying to be the center. Let the system answer. The birth will happen with or without his instruction. The vote will pass with or without his voice. He is not the Untying. He is the person who stopped tightening the knot.
 
 The northern team submits the final attestation on the second day. The third
 day is consumed by objections. The vote is retaken at midnight.
@@ -5591,10 +5808,10 @@ he could not give them what they wanted, and he told them why, and he stood in
 the doorway until they chose to leave or stay without him. The refusal did not
 endear him. It made him the medic who would not pretend.
 
-This vote is the same refusal at institutional scale. The court is not giving
-the crowd what it came for—a single ruler, a named heir, a clean succession.
-It is telling the crowd why it cannot have those things and waiting to see
-whether the crowd chooses to stay or leave without them.
+This vote is the same refusal at institutional scale: instead of giving the
+crowd what it came for—a single ruler, a named heir, a clean succession—the
+court tells it why it cannot have those things and waits to see whether the
+crowd chooses to stay or leave without them.
 
 The analogy would be easier to make if Somchai were here to hear it.
 
@@ -5882,7 +6099,7 @@ He had thought then that the win was the point.
 
 He knows now that the lane was.
 
-The compact is not a victory. It is a lane chosen under pressure in a channel
+The compact is a lane, not a victory — chosen under pressure, in a channel
 that has not stopped shifting. It requires the same thing the skiff required:
 feel the air before you see it. Keep the wall on one side and the open water on
 the other. Do not look at the buoy yet—look at the water and the air. Break
@@ -5891,14 +6108,6 @@ focus now and you break speed.
 The assembly votes.
 
 The result is announced.
-
-The court stops belonging to him at 16:43.
-
-Rowan's next contraction begins.
-
-Eli puts down the slate.
-
-He stays.
 
 ---
 
@@ -5953,6 +6162,15 @@ The ordinary birth record lists parents according to Rowan and Eli's directive.
 
 Wren's named kin role appears in the private care plan, not the civic register.
 
+It replaces, quietly, the line Wren filed alone in the small hours of the
+celebration crisis — the access she claimed for herself before anyone gave
+it to her. Rowan found that filing three weeks later, said nothing for two
+more days, and then said everything at once: that she understood why, that
+understanding was not the same as forgiving the manner of it, and that Wren
+would not do that again even when the room made not-doing-it feel like
+disappearing. Wren agreed. It did not fix the manner. It fixed what came
+after.
+
 Outside, Novak withdraws the heir motion.
 
 The pro-dynasty coalition does not dissolve.
@@ -5969,24 +6187,8 @@ to continue, not because it has been proven.
 
 Eli sits in the corridor and does not sleep.
 
-He thinks back to the strait.
-
-Not the breach itself. The morning after. The skiff with the patched sail, the
-wall-shadow lane he chose because he could not outrun the storm but he could
-outplace it. His father's hands teaching him to feel the cloth before he saw
-the air. His mother's voice making the lesson habit and not rhyme. The open
-water still out there, glittering, indifferent, his for that one lane and no
-longer.
-
-He had thought then that the win was the point.
-
-He knows now that the lane was.
-
-The compact is not a victory. It is a lane chosen under pressure in a channel
-that has not stopped shifting. It requires the same thing the skiff required:
-feel the air before you see it. Keep the wall on one side and the open water on
-the other. Do not look at the buoy yet—look at the water and the air. Break
-focus now and you break speed.
+He thinks of the strait again — the same lane, the same lesson, nothing left
+to add to it now that the vote has already used it up.
 
 He has handed the slate to the council. The council has taken it. The child is
 born. The objection ledger is open. The repair crew is routing power through the
@@ -5995,8 +6197,6 @@ three names and a work-song.
 
 The breach is closed. The descent is over. The living world continues without
 him.
-
-The lane holds.
 
 ---
 
@@ -6291,15 +6491,6 @@ turned off the water.
 
 Eli stands in the cold and feels the air before he sees it.
 
-The garden is not the strait. The hose is not the tiller. The roots are not
-the open water.
-
 The same discipline applies.
 
-Feel it before you see it.
-
 The lane holds.
-
-Morning reaches the insects. The swifts leave the ledge the way they arrived:
-without leader, without signal, without asking permission from the man who
-turned off the water.
