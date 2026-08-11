@@ -93,9 +93,9 @@ The extraction produced the intermediate species. It also produced the orphaning
 
 #### Chapter 7 — The Claim
 
-Post-Hinge scientist claiming; Rasel and Maren as template.
+post-Turning scientist claiming; Rasel and Maren as template.
 
-The orphaning did not end with extraction. It continued with claiming. Post-Hinge scientists — people who had survived the extraction and entered the maker's instruments as operators — began to claim the domesticated line as their property. Rasel and Maren are the template: two people who entered the instruments, saw the compatibility problem, and tried to solve it from the inside.
+The orphaning did not end with extraction. It continued with claiming. post-Turning scientists — people who had survived the extraction and entered the maker's instruments as operators — began to claim the domesticated line as their property. Rasel and Maren are the template: two people who entered the instruments, saw the compatibility problem, and tried to solve it from the inside.
 
 Rasel claimed Maren as address. Maren accepted the claim because it was the only continuity available to her. The claim was mutual at the level of the body, but unequal at the level of the instrument. Rasel operated. Maren was operated on.
 

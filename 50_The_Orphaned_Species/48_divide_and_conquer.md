@@ -37,7 +37,7 @@ The point of the thread is that the **reader feels the same prince-shape returni
 
 ---
 
-## The hinge: "ally with the weaker" is the same move as the thesis — inverted
+## the Turning: "ally with the weaker" is the same move as the thesis — inverted
 
 This is the richest use, and it is the book's whole moral test compressed into one gesture. **Both the tyrant and the liberator ally with the weakest party. The difference is the telos.**
 

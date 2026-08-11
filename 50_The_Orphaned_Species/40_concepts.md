@@ -30,7 +30,7 @@ In Three-Circles terms, atomization is the collapse of the **Family** / middle c
 4. **Separate the generations.**
    Children are separated from elders; elders are removed from daily life; apprenticeship gives way to schooling; lineage memory thins. A person without elders becomes easier to script because there is no living counter-memory in the room.
 
-   **2040s instantiation — LOCKED 2026-07-29:** the present-day form of this step is AI-mediated instruction — most people learn from an AI tutor, with a human coach checking in periodically, and a certificate at the end. It is not framed as evil; it is the engine's real output, efficient and scalable the same way medicine or logistics are (Ch. 12's authenticity/reality-testing answer, `30_The_Human_Experiment/BOOK_QUESTIONS.md`, applies here too — a credential earned this way is only as trustworthy as the verification behind it). What survives outside it is **mentorship and trades** — and trades are not a marginal exception, they are a major sector, not a boutique alternative. A world still rebuilding infrastructure after the Hinge needs facilities hands, splice and cable work, port and harbor trades, water systems, construction, and maritime crews at real scale; Eli's own "worker track" and Foundry facilities placement (`95_glossary.md`, `26_present_day_cast_expanded.md`) is this sector, not an exception to it. Apprenticeship placed through the Weavers' Net, keeper/foster transmission, and wat-style teacher-student lines run alongside it. This is the counter-current the trilogy actually dramatizes on the page — Wren, Somchai, the keeper foster parents — but it is dramatizing a large, load-bearing part of the economy, not a quaint holdout against an AI-track majority.
+   **2040s instantiation — LOCKED 2026-07-29:** the present-day form of this step is AI-mediated instruction — most people learn from an AI tutor, with a human coach checking in periodically, and a certificate at the end. It is not framed as evil; it is the engine's real output, efficient and scalable the same way medicine or logistics are (Ch. 12's authenticity/reality-testing answer, `30_The_Human_Experiment/BOOK_QUESTIONS.md`, applies here too — a credential earned this way is only as trustworthy as the verification behind it). What survives outside it is **mentorship and trades** — and trades are not a marginal exception, they are a major sector, not a boutique alternative. A world still rebuilding infrastructure after the Turning needs facilities hands, splice and cable work, port and harbor trades, water systems, construction, and maritime crews at real scale; Eli's own "worker track" and Foundry facilities placement (`95_glossary.md`, `26_present_day_cast_expanded.md`) is this sector, not an exception to it. Apprenticeship placed through the Weavers' Net, keeper/foster transmission, and wat-style teacher-student lines run alongside it. This is the counter-current the trilogy actually dramatizes on the page — Wren, Somchai, the keeper foster parents — but it is dramatizing a large, load-bearing part of the economy, not a quaint holdout against an AI-track majority.
 
 5. **Move the worker.**
    Work, debt, rent, schooling, military service, migration, and career pull people away from kin and place. The family does not simply decline by attitude; it is physically and economically scattered.
@@ -732,7 +732,7 @@ Book formula:
 
 > Sumer remembers the office.  
 > Genesis remembers the bloodline.  
-> Both remember the Flood as the hinge.
+> Both remember the Flood as the Turning.
 
 ### How to use it in this canon
 
@@ -987,7 +987,7 @@ on-page unless a character would plausibly use the word (`26` trauma-craft rule)
 
 | Volume | Job |
 |---|---|
-| **II** | Seed felt obedience to empty authority (Egypt god-king hinge; registry-as-present-god; kneeling when nothing answers). No thesis name. |
+| **II** | Seed felt obedience to empty authority (Egypt god-king Turning; registry-as-present-god; kneeling when nothing answers). No thesis name. |
 | **Late II / early III** | Robot / sub-drone gut-punch first. |
 | **III** | **Civic diagnosis** with civilization-engine synthesis. Line: *We see gods who aren’t there because we were bred to keep serving when they left.* Override symptoms OK (refuse sync, put crown down); **do not name** ego→Player as the true liturgy of worship. |
 | **V–X** | **Spiritual payoff** — robot submits to Player; phantom-god service revealed as the misaimed form of the same act. |
@@ -1008,6 +1008,6 @@ The series needs a **story of how spirituality fails**, not only how registries 
 
 **Antidote on-page:** Living Way as conduct — hold the cup, count the heat, feed without extracting a story, repair, witness grief without fixing the frequency. Hawaiʻi already plants the postcard-aloha correction (*Aloha without kuleana is a postcard*). Keepers may refuse mythic names: *that isn’t awakening; that’s cruelty with better lighting.*
 
-**Locally wrong / cosmically load-bearing — LOCKED 2026-07-31:** the counterfeit is still wrong at body/family scale — do not excuse it. In the greater picture (V–VI horizon; ultimate thesis), even this failure is training gear that breaks: it pressures people into override, exposes spiritual ego, and makes Living Way conduct legible by contrast. Same hinge as Iblīs-as-prosecutor: developmental function ≠ moral acquittal. Show cost first; fractal use later; never lecture the injured that their pain was perfect (`SERIES_STRUCTURE.md`).
+**Locally wrong / cosmically load-bearing — LOCKED 2026-07-31:** the counterfeit is still wrong at body/family scale — do not excuse it. In the greater picture (V–VI horizon; ultimate thesis), even this failure is training gear that breaks: it pressures people into override, exposes spiritual ego, and makes Living Way conduct legible by contrast. Same Turning as Iblīs-as-prosecutor: developmental function ≠ moral acquittal. Show cost first; fractal use later; never lecture the injured that their pain was perfect (`SERIES_STRUCTURE.md`).
 
 **Placement:** seed as ordinary toxic pilgrims / salon hosts in Book III–IV; densify when V–VI metaphysics becomes ambient assumption. Never let the true “learn control → learn creation” thesis be voiced only by these people (`SERIES_STRUCTURE.md` § *Spirituality goes wrong*).

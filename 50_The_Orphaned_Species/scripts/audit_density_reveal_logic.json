@@ -2,67 +2,72 @@
   "I": [
     {
       "title": "## Chapter One\u2014The Hour That Belongs to No One",
-      "word_count": 6181,
+      "word_count": 6043,
+      "sentence_count": 510,
       "density": {
-        "term_density": 10,
+        "term_density": 9,
         "deep_time_residue": 11,
         "expository_sentences": 0
       },
       "reveal": {
-        "passive_discovery_hits": 4,
-        "desire_before_info": false,
+        "passive_discovery_hits": 3,
+        "desire_before_info": true,
+        "desire_verb_hits": 13,
+        "lore_term_hits": 8,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 31,
+        "clock_a_hits": 37,
         "clock_b_hits": 12,
         "protagonist_action_hits": 6,
-        "opponent_job_hits": 31,
+        "opponent_job_hits": 34,
         "cost_present": 44,
         "ends_with_cost": true
       },
       "flags": [
-        "TERM DENSITY HIGH (10 unique concepts)",
-        "PASSIVE DISCOVERY LANGUAGE (4 hits)",
-        "DESIRE BEFORE INFO FAIL"
+        "TERM DENSITY HIGH (9 unique concepts)",
+        "PASSIVE DISCOVERY LANGUAGE (3 hits)"
       ]
     },
     {
       "title": "## Chapter Two\u2014His Hand",
-      "word_count": 10188,
+      "word_count": 10162,
+      "sentence_count": 781,
       "density": {
-        "term_density": 10,
-        "deep_time_residue": 34,
+        "term_density": 11,
+        "deep_time_residue": 32,
         "expository_sentences": 2
       },
       "reveal": {
         "passive_discovery_hits": 11,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 23,
+        "lore_term_hits": 9,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 29,
+        "clock_a_hits": 34,
         "clock_b_hits": 20,
         "protagonist_action_hits": 11,
-        "opponent_job_hits": 38,
-        "cost_present": 57,
+        "opponent_job_hits": 40,
+        "cost_present": 56,
         "ends_with_cost": true
       },
       "flags": [
-        "TERM DENSITY HIGH (10 unique concepts)",
-        "PASSIVE DISCOVERY LANGUAGE (11 hits)",
-        "DESIRE BEFORE INFO FAIL"
+        "TERM DENSITY HIGH (11 unique concepts)",
+        "PASSIVE DISCOVERY LANGUAGE (11 hits)"
       ]
     },
     {
       "title": "## Chapter Three\u2014What Didn't Die",
-      "word_count": 2500,
+      "word_count": 2488,
+      "sentence_count": 215,
       "density": {
         "term_density": 6,
         "deep_time_residue": 6,
@@ -71,13 +76,15 @@
       "reveal": {
         "passive_discovery_hits": 0,
         "desire_before_info": false,
+        "desire_verb_hits": 9,
+        "lore_term_hits": 4,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 7,
+        "clock_a_hits": 8,
         "clock_b_hits": 5,
         "protagonist_action_hits": 7,
         "opponent_job_hits": 15,
@@ -85,12 +92,13 @@
         "ends_with_cost": true
       },
       "flags": [
-        "DESIRE BEFORE INFO FAIL"
+        "INFO BEFORE DESIRE (desire 9 / lore 4)"
       ]
     },
     {
       "title": "## Chapter Four\u2014The Passage",
-      "word_count": 1870,
+      "word_count": 1914,
+      "sentence_count": 172,
       "density": {
         "term_density": 3,
         "deep_time_residue": 2,
@@ -98,7 +106,9 @@
       },
       "reveal": {
         "passive_discovery_hits": 2,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 10,
+        "lore_term_hits": 0,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -112,13 +122,12 @@
         "cost_present": 12,
         "ends_with_cost": true
       },
-      "flags": [
-        "DESIRE BEFORE INFO FAIL"
-      ]
+      "flags": []
     },
     {
       "title": "## Chapter Five\u2014The Field That Counts",
       "word_count": 3682,
+      "sentence_count": 312,
       "density": {
         "term_density": 6,
         "deep_time_residue": 1,
@@ -126,14 +135,16 @@
       },
       "reveal": {
         "passive_discovery_hits": 3,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 15,
+        "lore_term_hits": 0,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 4,
+        "clock_a_hits": 5,
         "clock_b_hits": 3,
         "protagonist_action_hits": 12,
         "opponent_job_hits": 10,
@@ -141,13 +152,13 @@
         "ends_with_cost": true
       },
       "flags": [
-        "PASSIVE DISCOVERY LANGUAGE (3 hits)",
-        "DESIRE BEFORE INFO FAIL"
+        "PASSIVE DISCOVERY LANGUAGE (3 hits)"
       ]
     },
     {
       "title": "## Chapter Six\u2014First Witness",
       "word_count": 1492,
+      "sentence_count": 132,
       "density": {
         "term_density": 2,
         "deep_time_residue": 14,
@@ -155,14 +166,16 @@
       },
       "reveal": {
         "passive_discovery_hits": 0,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 8,
+        "lore_term_hits": 0,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": false,
-        "clock_a_hits": 0,
+        "clock_a_hits": 1,
         "clock_b_hits": 0,
         "protagonist_action_hits": 4,
         "opponent_job_hits": 3,
@@ -170,41 +183,42 @@
         "ends_with_cost": true
       },
       "flags": [
-        "DESIRE BEFORE INFO FAIL",
         "NO DUAL CLOCK"
       ]
     },
     {
       "title": "## Chapter Seven\u2014The Forming Line",
-      "word_count": 2206,
+      "word_count": 2508,
+      "sentence_count": 199,
       "density": {
-        "term_density": 3,
+        "term_density": 4,
         "deep_time_residue": 2,
         "expository_sentences": 1
       },
       "reveal": {
         "passive_discovery_hits": 2,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 12,
+        "lore_term_hits": 1,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 1,
-        "clock_b_hits": 2,
+        "clock_a_hits": 2,
+        "clock_b_hits": 3,
         "protagonist_action_hits": 4,
         "opponent_job_hits": 2,
-        "cost_present": 20,
+        "cost_present": 23,
         "ends_with_cost": true
       },
-      "flags": [
-        "DESIRE BEFORE INFO FAIL"
-      ]
+      "flags": []
     },
     {
       "title": "## Chapter Eight\u2014Ila's Hands",
       "word_count": 1448,
+      "sentence_count": 129,
       "density": {
         "term_density": 1,
         "deep_time_residue": 2,
@@ -212,7 +226,9 @@
       },
       "reveal": {
         "passive_discovery_hits": 2,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 4,
+        "lore_term_hits": 1,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -226,13 +242,12 @@
         "cost_present": 10,
         "ends_with_cost": true
       },
-      "flags": [
-        "DESIRE BEFORE INFO FAIL"
-      ]
+      "flags": []
     },
     {
       "title": "## Chapter Nine\u2014Two Teams",
       "word_count": 1449,
+      "sentence_count": 105,
       "density": {
         "term_density": 2,
         "deep_time_residue": 0,
@@ -241,13 +256,15 @@
       "reveal": {
         "passive_discovery_hits": 0,
         "desire_before_info": true,
+        "desire_verb_hits": 4,
+        "lore_term_hits": 3,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": false,
-        "clock_a_hits": 0,
+        "clock_a_hits": 1,
         "clock_b_hits": 0,
         "protagonist_action_hits": 4,
         "opponent_job_hits": 1,
@@ -262,64 +279,69 @@
     },
     {
       "title": "## Chapter Ten\u2014People Over Evidence",
-      "word_count": 1477,
+      "word_count": 1804,
+      "sentence_count": 177,
       "density": {
-        "term_density": 0,
-        "deep_time_residue": 6,
+        "term_density": 1,
+        "deep_time_residue": 4,
         "expository_sentences": 2
       },
       "reveal": {
         "passive_discovery_hits": 1,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 6,
+        "lore_term_hits": 3,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 2,
-        "clock_b_hits": 1,
+        "clock_a_hits": 4,
+        "clock_b_hits": 2,
         "protagonist_action_hits": 5,
-        "opponent_job_hits": 3,
-        "cost_present": 7,
+        "opponent_job_hits": 4,
+        "cost_present": 10,
         "ends_with_cost": true
       },
-      "flags": [
-        "DESIRE BEFORE INFO FAIL"
-      ]
+      "flags": []
     },
     {
       "title": "## Chapter Eleven\u2014Human Doors",
-      "word_count": 3649,
+      "word_count": 3938,
+      "sentence_count": 422,
       "density": {
-        "term_density": 8,
-        "deep_time_residue": 15,
-        "expository_sentences": 0
+        "term_density": 9,
+        "deep_time_residue": 16,
+        "expository_sentences": 1
       },
       "reveal": {
         "passive_discovery_hits": 8,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 9,
+        "lore_term_hits": 13,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 29,
+        "clock_a_hits": 33,
         "clock_b_hits": 11,
-        "protagonist_action_hits": 16,
-        "opponent_job_hits": 29,
-        "cost_present": 18,
+        "protagonist_action_hits": 17,
+        "opponent_job_hits": 31,
+        "cost_present": 19,
         "ends_with_cost": true
       },
       "flags": [
-        "PASSIVE DISCOVERY LANGUAGE (8 hits)",
-        "DESIRE BEFORE INFO FAIL"
+        "TERM DENSITY HIGH (9 unique concepts)",
+        "PASSIVE DISCOVERY LANGUAGE (8 hits)"
       ]
     },
     {
       "title": "## Chapter Twelve\u2014The Tree with No Top",
       "word_count": 2077,
+      "sentence_count": 225,
       "density": {
         "term_density": 6,
         "deep_time_residue": 18,
@@ -328,6 +350,8 @@
       "reveal": {
         "passive_discovery_hits": 2,
         "desire_before_info": false,
+        "desire_verb_hits": 7,
+        "lore_term_hits": 13,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -342,37 +366,39 @@
         "ends_with_cost": true
       },
       "flags": [
-        "DESIRE BEFORE INFO FAIL"
+        "INFO BEFORE DESIRE (desire 7 / lore 13)"
       ]
     },
     {
       "title": "## Chapter Thirteen\u2014The Living Route",
-      "word_count": 3966,
+      "word_count": 3989,
+      "sentence_count": 465,
       "density": {
         "term_density": 9,
         "deep_time_residue": 14,
-        "expository_sentences": 1
+        "expository_sentences": 2
       },
       "reveal": {
         "passive_discovery_hits": 8,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 19,
+        "lore_term_hits": 11,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 51,
-        "clock_b_hits": 11,
-        "protagonist_action_hits": 12,
-        "opponent_job_hits": 42,
+        "clock_a_hits": 54,
+        "clock_b_hits": 12,
+        "protagonist_action_hits": 13,
+        "opponent_job_hits": 45,
         "cost_present": 27,
         "ends_with_cost": false
       },
       "flags": [
         "TERM DENSITY HIGH (9 unique concepts)",
         "PASSIVE DISCOVERY LANGUAGE (8 hits)",
-        "DESIRE BEFORE INFO FAIL",
         "NO COST AT CHAPTER END"
       ]
     }
@@ -380,15 +406,18 @@
   "II": [
     {
       "title": "## Chapter One\u2014What Came Home",
-      "word_count": 3231,
+      "word_count": 3344,
+      "sentence_count": 392,
       "density": {
-        "term_density": 10,
+        "term_density": 11,
         "deep_time_residue": 11,
         "expository_sentences": 0
       },
       "reveal": {
-        "passive_discovery_hits": 1,
-        "desire_before_info": false,
+        "passive_discovery_hits": 2,
+        "desire_before_info": true,
+        "desire_verb_hits": 8,
+        "lore_term_hits": 10,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -396,21 +425,20 @@
       "logic": {
         "dual_clock": true,
         "clock_a_hits": 49,
-        "clock_b_hits": 3,
+        "clock_b_hits": 4,
         "protagonist_action_hits": 14,
         "opponent_job_hits": 41,
-        "cost_present": 26,
-        "ends_with_cost": false
+        "cost_present": 27,
+        "ends_with_cost": true
       },
       "flags": [
-        "TERM DENSITY HIGH (10 unique concepts)",
-        "DESIRE BEFORE INFO FAIL",
-        "NO COST AT CHAPTER END"
+        "TERM DENSITY HIGH (11 unique concepts)"
       ]
     },
     {
-      "title": "## Chapter Two\u2014The Refusal",
-      "word_count": 3906,
+      "title": "## Chapter Two\u2014The Folly",
+      "word_count": 3939,
+      "sentence_count": 476,
       "density": {
         "term_density": 8,
         "deep_time_residue": 15,
@@ -418,7 +446,9 @@
       },
       "reveal": {
         "passive_discovery_hits": 3,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 24,
+        "lore_term_hits": 7,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -433,41 +463,45 @@
         "ends_with_cost": true
       },
       "flags": [
-        "PASSIVE DISCOVERY LANGUAGE (3 hits)",
-        "DESIRE BEFORE INFO FAIL"
+        "PASSIVE DISCOVERY LANGUAGE (3 hits)"
       ]
     },
     {
       "title": "## Chapter Three\u2014The Buried Instrument",
-      "word_count": 3138,
+      "word_count": 3396,
+      "sentence_count": 453,
       "density": {
-        "term_density": 6,
+        "term_density": 8,
         "deep_time_residue": 24,
         "expository_sentences": 0
       },
       "reveal": {
-        "passive_discovery_hits": 2,
+        "passive_discovery_hits": 3,
         "desire_before_info": false,
+        "desire_verb_hits": 14,
+        "lore_term_hits": 5,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 19,
-        "clock_b_hits": 6,
-        "protagonist_action_hits": 7,
-        "opponent_job_hits": 35,
-        "cost_present": 15,
+        "clock_a_hits": 22,
+        "clock_b_hits": 10,
+        "protagonist_action_hits": 8,
+        "opponent_job_hits": 39,
+        "cost_present": 16,
         "ends_with_cost": true
       },
       "flags": [
-        "DESIRE BEFORE INFO FAIL"
+        "PASSIVE DISCOVERY LANGUAGE (3 hits)",
+        "INFO BEFORE DESIRE (desire 14 / lore 5)"
       ]
     },
     {
       "title": "## Chapter Four\u2014The Healer's Terms",
       "word_count": 4302,
+      "sentence_count": 616,
       "density": {
         "term_density": 3,
         "deep_time_residue": 2,
@@ -475,14 +509,16 @@
       },
       "reveal": {
         "passive_discovery_hits": 4,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 25,
+        "lore_term_hits": 0,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 10,
+        "clock_a_hits": 14,
         "clock_b_hits": 10,
         "protagonist_action_hits": 11,
         "opponent_job_hits": 21,
@@ -491,13 +527,13 @@
       },
       "flags": [
         "PASSIVE DISCOVERY LANGUAGE (4 hits)",
-        "DESIRE BEFORE INFO FAIL",
         "NO COST AT CHAPTER END"
       ]
     },
     {
       "title": "## Chapter Five\u2014What They Took",
       "word_count": 3960,
+      "sentence_count": 535,
       "density": {
         "term_density": 9,
         "deep_time_residue": 17,
@@ -505,7 +541,9 @@
       },
       "reveal": {
         "passive_discovery_hits": 1,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 12,
+        "lore_term_hits": 5,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -520,13 +558,13 @@
         "ends_with_cost": true
       },
       "flags": [
-        "TERM DENSITY HIGH (9 unique concepts)",
-        "DESIRE BEFORE INFO FAIL"
+        "TERM DENSITY HIGH (9 unique concepts)"
       ]
     },
     {
       "title": "## Chapter Six\u2014The Changing Map",
       "word_count": 3397,
+      "sentence_count": 497,
       "density": {
         "term_density": 10,
         "deep_time_residue": 5,
@@ -534,7 +572,9 @@
       },
       "reveal": {
         "passive_discovery_hits": 0,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 15,
+        "lore_term_hits": 5,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -550,28 +590,30 @@
       },
       "flags": [
         "TERM DENSITY HIGH (10 unique concepts)",
-        "DESIRE BEFORE INFO FAIL",
         "NO COST AT CHAPTER END"
       ]
     },
     {
       "title": "## Chapter Seven\u2014The Riddling Ground",
       "word_count": 4132,
+      "sentence_count": 538,
       "density": {
         "term_density": 9,
-        "deep_time_residue": 24,
+        "deep_time_residue": 26,
         "expository_sentences": 1
       },
       "reveal": {
         "passive_discovery_hits": 2,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 27,
+        "lore_term_hits": 1,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 12,
+        "clock_a_hits": 13,
         "clock_b_hits": 18,
         "protagonist_action_hits": 35,
         "opponent_job_hits": 26,
@@ -579,21 +621,23 @@
         "ends_with_cost": true
       },
       "flags": [
-        "TERM DENSITY HIGH (9 unique concepts)",
-        "DESIRE BEFORE INFO FAIL"
+        "TERM DENSITY HIGH (9 unique concepts)"
       ]
     },
     {
       "title": "## Chapter Eight\u2014The Bitter Cup",
       "word_count": 2879,
+      "sentence_count": 399,
       "density": {
         "term_density": 9,
-        "deep_time_residue": 14,
+        "deep_time_residue": 13,
         "expository_sentences": 0
       },
       "reveal": {
         "passive_discovery_hits": 3,
         "desire_before_info": false,
+        "desire_verb_hits": 20,
+        "lore_term_hits": 3,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -610,20 +654,23 @@
       "flags": [
         "TERM DENSITY HIGH (9 unique concepts)",
         "PASSIVE DISCOVERY LANGUAGE (3 hits)",
-        "DESIRE BEFORE INFO FAIL"
+        "INFO BEFORE DESIRE (desire 20 / lore 3)"
       ]
     },
     {
       "title": "## Chapter Nine\u2014The Transmission Station",
       "word_count": 3040,
+      "sentence_count": 433,
       "density": {
         "term_density": 8,
-        "deep_time_residue": 25,
+        "deep_time_residue": 24,
         "expository_sentences": 0
       },
       "reveal": {
         "passive_discovery_hits": 1,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 13,
+        "lore_term_hits": 3,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -638,38 +685,40 @@
         "ends_with_cost": false
       },
       "flags": [
-        "DESIRE BEFORE INFO FAIL",
         "NO COST AT CHAPTER END"
       ]
     },
     {
       "title": "## Chapter Ten\u2014Release",
-      "word_count": 4322,
+      "word_count": 4375,
+      "sentence_count": 719,
       "density": {
-        "term_density": 11,
-        "deep_time_residue": 20,
+        "term_density": 10,
+        "deep_time_residue": 19,
         "expository_sentences": 0
       },
       "reveal": {
         "passive_discovery_hits": 4,
         "desire_before_info": false,
+        "desire_verb_hits": 44,
+        "lore_term_hits": 8,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 74,
+        "clock_a_hits": 76,
         "clock_b_hits": 24,
-        "protagonist_action_hits": 18,
-        "opponent_job_hits": 84,
+        "protagonist_action_hits": 19,
+        "opponent_job_hits": 86,
         "cost_present": 35,
         "ends_with_cost": false
       },
       "flags": [
-        "TERM DENSITY HIGH (11 unique concepts)",
+        "TERM DENSITY HIGH (10 unique concepts)",
         "PASSIVE DISCOVERY LANGUAGE (4 hits)",
-        "DESIRE BEFORE INFO FAIL",
+        "INFO BEFORE DESIRE (desire 44 / lore 8)",
         "NO COST AT CHAPTER END"
       ]
     }
@@ -677,7 +726,8 @@
   "III": [
     {
       "title": "## Chapter One\u2014The Boat at Morning",
-      "word_count": 3324,
+      "word_count": 3367,
+      "sentence_count": 489,
       "density": {
         "term_density": 7,
         "deep_time_residue": 1,
@@ -685,58 +735,62 @@
       },
       "reveal": {
         "passive_discovery_hits": 4,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 24,
+        "lore_term_hits": 0,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 7,
-        "clock_b_hits": 12,
+        "clock_a_hits": 9,
+        "clock_b_hits": 13,
         "protagonist_action_hits": 13,
-        "opponent_job_hits": 13,
+        "opponent_job_hits": 14,
         "cost_present": 23,
         "ends_with_cost": true
       },
       "flags": [
-        "PASSIVE DISCOVERY LANGUAGE (4 hits)",
-        "DESIRE BEFORE INFO FAIL"
+        "PASSIVE DISCOVERY LANGUAGE (4 hits)"
       ]
     },
     {
       "title": "## Chapter Two\u2014Terms of Welcome",
-      "word_count": 3576,
+      "word_count": 3802,
+      "sentence_count": 480,
       "density": {
         "term_density": 9,
         "deep_time_residue": 5,
-        "expository_sentences": 1
+        "expository_sentences": 3
       },
       "reveal": {
         "passive_discovery_hits": 4,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 12,
+        "lore_term_hits": 2,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 10,
-        "clock_b_hits": 20,
+        "clock_a_hits": 12,
+        "clock_b_hits": 23,
         "protagonist_action_hits": 13,
-        "opponent_job_hits": 35,
-        "cost_present": 25,
+        "opponent_job_hits": 38,
+        "cost_present": 26,
         "ends_with_cost": true
       },
       "flags": [
         "TERM DENSITY HIGH (9 unique concepts)",
-        "PASSIVE DISCOVERY LANGUAGE (4 hits)",
-        "DESIRE BEFORE INFO FAIL"
+        "PASSIVE DISCOVERY LANGUAGE (4 hits)"
       ]
     },
     {
       "title": "## Chapter Three\u2014The Person Freedom Failed",
-      "word_count": 2150,
+      "word_count": 2187,
+      "sentence_count": 283,
       "density": {
         "term_density": 7,
         "deep_time_residue": 2,
@@ -744,7 +798,9 @@
       },
       "reveal": {
         "passive_discovery_hits": 1,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 9,
+        "lore_term_hits": 0,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -759,13 +815,13 @@
         "ends_with_cost": true
       },
       "flags": [
-        "DESIRE BEFORE INFO FAIL",
         "NO DUAL CLOCK"
       ]
     },
     {
       "title": "## Chapter Four\u2014The Standard",
       "word_count": 3651,
+      "sentence_count": 417,
       "density": {
         "term_density": 9,
         "deep_time_residue": 3,
@@ -774,6 +830,8 @@
       "reveal": {
         "passive_discovery_hits": 2,
         "desire_before_info": false,
+        "desire_verb_hits": 9,
+        "lore_term_hits": 14,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -789,27 +847,30 @@
       },
       "flags": [
         "TERM DENSITY HIGH (9 unique concepts)",
-        "DESIRE BEFORE INFO FAIL"
+        "INFO BEFORE DESIRE (desire 9 / lore 14)"
       ]
     },
     {
       "title": "## Chapter Five\u2014The Names They Carry",
       "word_count": 3583,
+      "sentence_count": 432,
       "density": {
         "term_density": 13,
-        "deep_time_residue": 8,
+        "deep_time_residue": 7,
         "expository_sentences": 0
       },
       "reveal": {
         "passive_discovery_hits": 0,
         "desire_before_info": true,
+        "desire_verb_hits": 34,
+        "lore_term_hits": 5,
         "abstract_without_body": 1,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 2,
+        "clock_a_hits": 3,
         "clock_b_hits": 44,
         "protagonist_action_hits": 11,
         "opponent_job_hits": 34,
@@ -824,6 +885,7 @@
     {
       "title": "## Chapter Six\u2014The Compact",
       "word_count": 3135,
+      "sentence_count": 348,
       "density": {
         "term_density": 13,
         "deep_time_residue": 4,
@@ -831,14 +893,16 @@
       },
       "reveal": {
         "passive_discovery_hits": 2,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 17,
+        "lore_term_hits": 6,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 6,
+        "clock_a_hits": 7,
         "clock_b_hits": 42,
         "protagonist_action_hits": 17,
         "opponent_job_hits": 40,
@@ -846,13 +910,13 @@
         "ends_with_cost": true
       },
       "flags": [
-        "TERM DENSITY HIGH (13 unique concepts)",
-        "DESIRE BEFORE INFO FAIL"
+        "TERM DENSITY HIGH (13 unique concepts)"
       ]
     },
     {
       "title": "## Chapter Seven\u2014A Crown With an End",
       "word_count": 2892,
+      "sentence_count": 348,
       "density": {
         "term_density": 7,
         "deep_time_residue": 7,
@@ -860,7 +924,9 @@
       },
       "reveal": {
         "passive_discovery_hits": 1,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 11,
+        "lore_term_hits": 1,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -875,21 +941,23 @@
         "ends_with_cost": false
       },
       "flags": [
-        "DESIRE BEFORE INFO FAIL",
         "NO COST AT CHAPTER END"
       ]
     },
     {
       "title": "## Chapter Eight\u2014The Cost of Consent",
       "word_count": 3205,
+      "sentence_count": 431,
       "density": {
-        "term_density": 8,
+        "term_density": 7,
         "deep_time_residue": 2,
         "expository_sentences": 0
       },
       "reveal": {
         "passive_discovery_hits": 4,
         "desire_before_info": false,
+        "desire_verb_hits": 25,
+        "lore_term_hits": 1,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -905,13 +973,14 @@
       },
       "flags": [
         "PASSIVE DISCOVERY LANGUAGE (4 hits)",
-        "DESIRE BEFORE INFO FAIL",
+        "INFO BEFORE DESIRE (desire 25 / lore 1)",
         "NO COST AT CHAPTER END"
       ]
     },
     {
       "title": "## Chapter Nine\u2014The Hearing Begins",
-      "word_count": 3006,
+      "word_count": 3021,
+      "sentence_count": 398,
       "density": {
         "term_density": 12,
         "deep_time_residue": 1,
@@ -920,13 +989,15 @@
       "reveal": {
         "passive_discovery_hits": 1,
         "desire_before_info": false,
+        "desire_verb_hits": 14,
+        "lore_term_hits": 3,
         "abstract_without_body": 1,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 6,
+        "clock_a_hits": 7,
         "clock_b_hits": 38,
         "protagonist_action_hits": 6,
         "opponent_job_hits": 29,
@@ -935,28 +1006,31 @@
       },
       "flags": [
         "TERM DENSITY HIGH (12 unique concepts)",
-        "DESIRE BEFORE INFO FAIL",
+        "INFO BEFORE DESIRE (desire 14 / lore 3)",
         "ABSTRACT NOUN WITHOUT BODY (1)"
       ]
     },
     {
       "title": "## Chapter Ten\u2014The Handover",
-      "word_count": 1532,
+      "word_count": 1619,
+      "sentence_count": 160,
       "density": {
-        "term_density": 10,
+        "term_density": 11,
         "deep_time_residue": 0,
         "expository_sentences": 0
       },
       "reveal": {
         "passive_discovery_hits": 6,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 10,
+        "lore_term_hits": 3,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 5,
+        "clock_a_hits": 6,
         "clock_b_hits": 7,
         "protagonist_action_hits": 5,
         "opponent_job_hits": 10,
@@ -964,42 +1038,43 @@
         "ends_with_cost": true
       },
       "flags": [
-        "TERM DENSITY HIGH (10 unique concepts)",
+        "TERM DENSITY HIGH (11 unique concepts)",
         "NO DEEP-TIME RESIDUE",
-        "PASSIVE DISCOVERY LANGUAGE (6 hits)",
-        "DESIRE BEFORE INFO FAIL"
+        "PASSIVE DISCOVERY LANGUAGE (6 hits)"
       ]
     }
   ],
   "IV": [
     {
       "title": "## Chapter One\u2014The Doors",
-      "word_count": 6581,
+      "word_count": 6973,
+      "sentence_count": 762,
       "density": {
-        "term_density": 17,
+        "term_density": 16,
         "deep_time_residue": 6,
         "expository_sentences": 0
       },
       "reveal": {
-        "passive_discovery_hits": 6,
-        "desire_before_info": false,
+        "passive_discovery_hits": 7,
+        "desire_before_info": true,
+        "desire_verb_hits": 40,
+        "lore_term_hits": 34,
         "abstract_without_body": 1,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 4,
-        "clock_b_hits": 114,
+        "clock_a_hits": 7,
+        "clock_b_hits": 120,
         "protagonist_action_hits": 29,
-        "opponent_job_hits": 129,
-        "cost_present": 68,
+        "opponent_job_hits": 132,
+        "cost_present": 73,
         "ends_with_cost": false
       },
       "flags": [
-        "TERM DENSITY HIGH (17 unique concepts)",
-        "PASSIVE DISCOVERY LANGUAGE (6 hits)",
-        "DESIRE BEFORE INFO FAIL",
+        "TERM DENSITY HIGH (16 unique concepts)",
+        "PASSIVE DISCOVERY LANGUAGE (7 hits)",
         "ABSTRACT NOUN WITHOUT BODY (1)",
         "NO COST AT CHAPTER END"
       ]
@@ -1007,6 +1082,7 @@
     {
       "title": "## Chapter Two\u2014Present Consent",
       "word_count": 1547,
+      "sentence_count": 246,
       "density": {
         "term_density": 7,
         "deep_time_residue": 2,
@@ -1015,6 +1091,8 @@
       "reveal": {
         "passive_discovery_hits": 3,
         "desire_before_info": false,
+        "desire_verb_hits": 20,
+        "lore_term_hits": 10,
         "abstract_without_body": 1,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -1030,7 +1108,7 @@
       },
       "flags": [
         "PASSIVE DISCOVERY LANGUAGE (3 hits)",
-        "DESIRE BEFORE INFO FAIL",
+        "INFO BEFORE DESIRE (desire 20 / lore 10)",
         "ABSTRACT NOUN WITHOUT BODY (1)",
         "NO DUAL CLOCK",
         "NO COST AT CHAPTER END"
@@ -1039,6 +1117,7 @@
     {
       "title": "## Chapter Three\u2014Three Rooms",
       "word_count": 2289,
+      "sentence_count": 279,
       "density": {
         "term_density": 7,
         "deep_time_residue": 0,
@@ -1046,7 +1125,9 @@
       },
       "reveal": {
         "passive_discovery_hits": 4,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 11,
+        "lore_term_hits": 9,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -1062,41 +1143,44 @@
       },
       "flags": [
         "NO DEEP-TIME RESIDUE",
-        "PASSIVE DISCOVERY LANGUAGE (4 hits)",
-        "DESIRE BEFORE INFO FAIL"
+        "PASSIVE DISCOVERY LANGUAGE (4 hits)"
       ]
     },
     {
       "title": "## Chapter Four\u2014What We Build",
-      "word_count": 2387,
+      "word_count": 2774,
+      "sentence_count": 345,
       "density": {
-        "term_density": 8,
+        "term_density": 9,
         "deep_time_residue": 1,
         "expository_sentences": 1
       },
       "reveal": {
         "passive_discovery_hits": 2,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 22,
+        "lore_term_hits": 8,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 5,
-        "clock_b_hits": 19,
-        "protagonist_action_hits": 13,
-        "opponent_job_hits": 29,
-        "cost_present": 15,
+        "clock_a_hits": 6,
+        "clock_b_hits": 28,
+        "protagonist_action_hits": 14,
+        "opponent_job_hits": 33,
+        "cost_present": 20,
         "ends_with_cost": true
       },
       "flags": [
-        "DESIRE BEFORE INFO FAIL"
+        "TERM DENSITY HIGH (9 unique concepts)"
       ]
     },
     {
       "title": "## Chapter Five\u2014The Rumor",
       "word_count": 2121,
+      "sentence_count": 290,
       "density": {
         "term_density": 8,
         "deep_time_residue": 1,
@@ -1105,6 +1189,8 @@
       "reveal": {
         "passive_discovery_hits": 0,
         "desire_before_info": false,
+        "desire_verb_hits": 19,
+        "lore_term_hits": 8,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -1119,12 +1205,13 @@
         "ends_with_cost": true
       },
       "flags": [
-        "DESIRE BEFORE INFO FAIL"
+        "INFO BEFORE DESIRE (desire 19 / lore 8)"
       ]
     },
     {
       "title": "## Chapter Six\u2014The Body of State",
       "word_count": 2281,
+      "sentence_count": 303,
       "density": {
         "term_density": 8,
         "deep_time_residue": 1,
@@ -1132,7 +1219,9 @@
       },
       "reveal": {
         "passive_discovery_hits": 2,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 12,
+        "lore_term_hits": 10,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -1146,13 +1235,12 @@
         "cost_present": 15,
         "ends_with_cost": true
       },
-      "flags": [
-        "DESIRE BEFORE INFO FAIL"
-      ]
+      "flags": []
     },
     {
       "title": "## Chapter Seven\u2014The Two Houses",
-      "word_count": 2998,
+      "word_count": 3074,
+      "sentence_count": 357,
       "density": {
         "term_density": 8,
         "deep_time_residue": 0,
@@ -1160,14 +1248,16 @@
       },
       "reveal": {
         "passive_discovery_hits": 3,
-        "desire_before_info": false,
+        "desire_before_info": true,
+        "desire_verb_hits": 16,
+        "lore_term_hits": 4,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
       },
       "logic": {
         "dual_clock": true,
-        "clock_a_hits": 4,
+        "clock_a_hits": 7,
         "clock_b_hits": 24,
         "protagonist_action_hits": 6,
         "opponent_job_hits": 24,
@@ -1177,13 +1267,13 @@
       "flags": [
         "NO DEEP-TIME RESIDUE",
         "PASSIVE DISCOVERY LANGUAGE (3 hits)",
-        "DESIRE BEFORE INFO FAIL",
         "NO COST AT CHAPTER END"
       ]
     },
     {
       "title": "## Chapter Eight\u2014The False Heir",
-      "word_count": 2500,
+      "word_count": 2737,
+      "sentence_count": 332,
       "density": {
         "term_density": 12,
         "deep_time_residue": 0,
@@ -1192,6 +1282,8 @@
       "reveal": {
         "passive_discovery_hits": 0,
         "desire_before_info": false,
+        "desire_verb_hits": 11,
+        "lore_term_hits": 12,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -1200,28 +1292,31 @@
         "dual_clock": true,
         "clock_a_hits": 3,
         "clock_b_hits": 48,
-        "protagonist_action_hits": 16,
-        "opponent_job_hits": 51,
-        "cost_present": 25,
+        "protagonist_action_hits": 18,
+        "opponent_job_hits": 50,
+        "cost_present": 27,
         "ends_with_cost": true
       },
       "flags": [
         "TERM DENSITY HIGH (12 unique concepts)",
         "NO DEEP-TIME RESIDUE",
-        "DESIRE BEFORE INFO FAIL"
+        "INFO BEFORE DESIRE (desire 11 / lore 12)"
       ]
     },
     {
       "title": "## Chapter Nine\u2014The Room Prepared",
-      "word_count": 1538,
+      "word_count": 1659,
+      "sentence_count": 228,
       "density": {
-        "term_density": 9,
+        "term_density": 10,
         "deep_time_residue": 0,
         "expository_sentences": 1
       },
       "reveal": {
         "passive_discovery_hits": 1,
         "desire_before_info": false,
+        "desire_verb_hits": 10,
+        "lore_term_hits": 11,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -1236,15 +1331,16 @@
         "ends_with_cost": false
       },
       "flags": [
-        "TERM DENSITY HIGH (9 unique concepts)",
+        "TERM DENSITY HIGH (10 unique concepts)",
         "NO DEEP-TIME RESIDUE",
-        "DESIRE BEFORE INFO FAIL",
+        "INFO BEFORE DESIRE (desire 10 / lore 11)",
         "NO COST AT CHAPTER END"
       ]
     },
     {
       "title": "## Chapter Ten\u2014Before the First Breath",
       "word_count": 3916,
+      "sentence_count": 454,
       "density": {
         "term_density": 17,
         "deep_time_residue": 4,
@@ -1253,6 +1349,8 @@
       "reveal": {
         "passive_discovery_hits": 2,
         "desire_before_info": false,
+        "desire_verb_hits": 17,
+        "lore_term_hits": 17,
         "abstract_without_body": 0,
         "cosmic_answers_in_chapter": 0,
         "passive_voice_in_reveal": false
@@ -1268,7 +1366,7 @@
       },
       "flags": [
         "TERM DENSITY HIGH (17 unique concepts)",
-        "DESIRE BEFORE INFO FAIL"
+        "INFO BEFORE DESIRE (desire 17 / lore 17)"
       ]
     }
   ]

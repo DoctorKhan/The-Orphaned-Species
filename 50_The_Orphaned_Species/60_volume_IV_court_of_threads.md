@@ -246,7 +246,7 @@ if the title changes.
 
 ---
 
-## 1. Book III → Book IV hinge
+## 1. Book III → Book IV Turning
 
 Eli does not decide to keep power the first time, and he does not seize it back
 the second. By late Book III he has accepted a narrow wartime mandate and
@@ -297,7 +297,7 @@ people learn to prolong — a temptation sharper the second time, because
 everyone involved, including Eli, now knows exactly how well the compact can
 work in one room and exactly how far it still had to go.
 
-**North–south movement / Costa Rica hinge — LOCKED 2026-08-01; WORKING WATERSHED 2026-08-01:** Primary receiving-and-transfer hinge = **Pacific-slope corridor** linking **Nosara–Samara** coastal nodes with inland nursery/farm capacity in the **Tenorio–Miravalles watershed zone** and existing biological-corridor practice toward Monteverde cloud forest. Do **not** flatten to generic rainforest iconography or treat Costa Rica as empty passage. Species mixtures, Indigenous jurisdiction specifics, dry-season water limits, and work-song wording remain **consultation-required** before denser on-page naming — but the hinge geography is no longer TBD. The court remains physically in North America. The volume is not solved by moving Eli,
+**North–south movement / Costa Rica Turning — LOCKED 2026-08-01; WORKING WATERSHED 2026-08-01:** Primary receiving-and-transfer Turning = **Pacific-slope corridor** linking **Nosara–Samara** coastal nodes with inland nursery/farm capacity in the **Tenorio–Miravalles watershed zone** and existing biological-corridor practice toward Monteverde cloud forest. Do **not** flatten to generic rainforest iconography or treat Costa Rica as empty passage. Species mixtures, Indigenous jurisdiction specifics, dry-season water limits, and work-song wording remain **consultation-required** before denser on-page naming — but the Turning geography is no longer TBD. The court remains physically in North America. The volume is not solved by moving Eli,
 Rowan, Wren, or the palace south. As northern harvest and route failures deepen,
 some families, clinic patients, apprentices, and work crews move through a
 locally governed Costa Rican receiving-and-transfer network toward Brazilian,
@@ -310,7 +310,7 @@ refuse northern demands, and do not surrender local records to the court.
 South American food, seed, shipping, and technical aid likewise move under
 negotiated reciprocal obligations rather than a destiny to rescue the North.
 
-**Heather Cube, on-page — LOCKED 2026-08-06:** the Union's bloc-cube sits in whatever North American city the court ends up physically sited in (exact city still open, same consultation-required discipline as the Costa Rica hinge above) — not toured as a restored capital, and not the ruined Washington/San Francisco the cast is explicitly barred from visiting, but present in the volume's ordinary geography the way the court itself is. Its function on-page is the Union's suppression of pilgrim devotion made visible and dramatized rather than left as background texture (`95_glossary.md` § *Sacred devotion*): permits, checkpoints, a crackdown or dispersal the court has to respond to or decline to intervene in, pilgrims treated as a security problem by the same institutional reflex that already pathologizes threshold onset as neurological contagion. Eli's relationship to it should stay oblique — he is not there to resolve the Cube or its devotion, only to register, once, that the state he is provisionally governing treats its own people's reverence as a threat to be managed, the same instinct he is trying to refuse in his own bounded authority.
+**Heather Cube, on-page — LOCKED 2026-08-06:** the Union's bloc-cube sits in whatever North American city the court ends up physically sited in (exact city still open, same consultation-required discipline as the Costa Rica Turning above) — not toured as a restored capital, and not the ruined Washington/San Francisco the cast is explicitly barred from visiting, but present in the volume's ordinary geography the way the court itself is. Its function on-page is the Union's suppression of pilgrim devotion made visible and dramatized rather than left as background texture (`95_glossary.md` § *Sacred devotion*): permits, checkpoints, a crackdown or dispersal the court has to respond to or decline to intervene in, pilgrims treated as a security problem by the same institutional reflex that already pathologizes threshold onset as neurological contagion. Eli's relationship to it should stay oblique — he is not there to resolve the Cube or its devotion, only to register, once, that the state he is provisionally governing treats its own people's reverence as a threat to be managed, the same instinct he is trying to refuse in his own bounded authority.
 
 **The grown corridor / tree lock — LOCKED 2026-08-01:** The receiving network's
 capacity is biological as well as administrative. Costa Rican watershed and

@@ -173,7 +173,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
   it as testimony, not doctrine; both delegates' concrete asks (water
   authority; a non-shared seat) go into the purpose clause as named
   conditions, not adopted metaphor. No bird appears on the page.
-- [x] **Costa Rica hinge geography — working lock 2026-08-01:** Nosara–Sámara + Tenorio–Miravalles
+- [x] **Costa Rica Turning geography — working lock 2026-08-01:** Nosara–Sámara + Tenorio–Miravalles
   Still open for consultation densification: species mixtures, Indigenous
   jurisdiction detail, work-song wording — do not invent guanacaste monoculture.
 - [x] Reveal the Forks with the dragon witness: Earth-produced chimpanzee/bird branches beside Heaven-seeded human/dragon branches; retain disputed provenance and independent-test limits.

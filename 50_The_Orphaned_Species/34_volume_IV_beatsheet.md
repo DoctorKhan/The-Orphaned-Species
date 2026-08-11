@@ -1,5 +1,7 @@
 # Volume IV — *The Court of Threads* — Beat Sheet
 
+> **FILE STATUS — 2026-08-10: chapter spine retired, governing card lives in `60_volume_IV_court_of_threads.md`.** All ten chapter cards below (§ *ACT I — The Working Stretch*) were superseded 2026-08-07 to 2026-08-09; `60_volume_IV_court_of_threads.md` § 9 *Governing ten-chapter spine* is the current Book IV chapter-by-chapter architecture. Do not draft or audit against the chapter cards in this file. The lock notes above the chapter spine (series object register, global coordination plot) and the reference material after it (§ *Three-Term scene filter*, bird-tribe rules) are not chapter-specific and may still hold — check each against `60` before relying on it.
+
 > **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Book IV's monolithic venue name is **Thread Loom**: the court made physical — weaving/judicial geometry, access and placement as instruments of rule, Rowan and Wren as principal weavers. It is the Cube turned narrative.
 
 > **GLOBAL COORDINATION PLOT — LOCKED 2026-08-02:** Book IV is not a project to
@@ -84,14 +86,14 @@
 > command, or one resource ledger. The story never confirms the teaching through
 > omen or inevitability. Its only proof is cooperation that preserves refusal.
 >
-> **COSTA RICA HINGE — LOCKED 2026-08-01:** Primary receiving-and-transfer hinge
+> **COSTA RICA Turning — LOCKED 2026-08-01:** Primary receiving-and-transfer Turning
 > = **Pacific-slope corridor** linking **Nosara–Samara** coastal nodes with
 > inland nursery/farm capacity in the **Tenorio–Miravalles watershed zone** and
 > existing biological-corridor practice toward **Monteverde** cloud forest. Do
 > **not** flatten to generic rainforest iconography or treat Costa Rica as empty
 > passage. Species mixtures, Indigenous jurisdiction specifics, dry-season water
 > limits, and work-song wording remain consultation-required before denser
-> on-page naming—but the hinge geography is no longer TBD. The court remains
+> on-page naming—but the Turning geography is no longer TBD. The court remains
 > physically in North America. The volume is not solved by moving Eli, Rowan,
 > Wren, or the palace south.
 >
@@ -140,7 +142,7 @@
 - **Revelation:** the Lean Year begins as incompatible forecasts, not as an
   omniscient disaster summary. First harvest losses are serious but survivable.
   What breaks the convenient hub is convergent capture, not a single attack.
-- **Book III → IV hinge — REVISED 2026-08-09:** summary of the real,
+- **Book III → IV Turning — REVISED 2026-08-09:** summary of the real,
   completed handover in Eli's own hall — he steps down as a private citizen —
   while the wider interregional layer (Continuity keys, factional mandate,
   private force outside that room) stays untested; then the Lean Year begins
@@ -228,7 +230,7 @@
 
 ---
 
-### Ch 5 — ~~The Southern Thread~~ *(Rowan · Wren · Costa Rica hinge)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 5 — The Rumor*
+### Ch 5 — ~~The Southern Thread~~ *(Rowan · Wren · Costa Rica Turning)* — SUPERSEDED 2026-08-09; governing chapter card now in `60_volume_IV_court_of_threads.md` § *Chapter 5 — The Rumor*
 - **Deep-time residue — LOCKED 2026-08-05:** Monteverde emergent specimens as
   infrastructure and civic landmark; ceiba as durable proof that the corridor is
   inherited work, not improvised shelter.
@@ -402,7 +404,7 @@
 
 ### Ch 10 — The Birds at Morning *(Rowan · Wren · Eli · Costa Rica return)* — SUPERSEDED 2026-08-07
 
-**This chapter's Costa Rica-return finale is retired.** The manuscript follows `60_volume_IV_court_of_threads.md`'s spine instead, which closes at the mountain teahouse settlement (mountain swifts, not Eagle and Condor) — confirmed as canon, 2026-08-07: Eagle–Condor belongs to the *early* Costa Rica passage (§ *Eagle–Condor court use* / § *Costa Rica hinge* above, and Book III's already-dramatized Eagle–Condor beat, `33_volume_III_beatsheet.md` Ch 6), not the ending. Most of this chapter's own thematic requirements below are already satisfied by the drafted teahouse coda with substituted imagery (Eli's hands on a hose instead of Costa Rican soil; mountain swifts instead of Eagle and Condor; the same "no throne, no final speech" shape) — kept here for the record, not as an open task:
+**This chapter's Costa Rica-return finale is retired.** The manuscript follows `60_volume_IV_court_of_threads.md`'s spine instead, which closes at the mountain teahouse settlement (mountain swifts, not Eagle and Condor) — confirmed as canon, 2026-08-07: Eagle–Condor belongs to the *early* Costa Rica passage (§ *Eagle–Condor court use* / § *Costa Rica Turning* above, and Book III's already-dramatized Eagle–Condor beat, `33_volume_III_beatsheet.md` Ch 6), not the ending. Most of this chapter's own thematic requirements below are already satisfied by the drafted teahouse coda with substituted imagery (Eli's hands on a hose instead of Costa Rican soil; mountain swifts instead of Eagle and Condor; the same "no throne, no final speech" shape) — kept here for the record, not as an open task:
 - **Deep-time residue — LOCKED 2026-08-05:** teahouse/garden/birds coda;
   ceiba as landmark; the compact as conduct, not document.
 - **Alien-contact/tech hint — chapter-pinned 2026-08-08:** the felt hint of alien contact/new tech required by `59_younger_dryas_nucleation_lock.md` § *Reveal timing* is not a separate beat to draft — it already lives in the teahouse coda's "Sideways research continues" line (`60_volume_IV_court_of_threads.md` § *Chapter 10*, manuscript `IV_The_Court_of_Threads.md` lines ~6165–6180: the four-second displacement hold and "not an echo, a reply" line). Noted here since this chapter's own card is superseded — do not draft a second, competing version of this hint elsewhere in Book IV.

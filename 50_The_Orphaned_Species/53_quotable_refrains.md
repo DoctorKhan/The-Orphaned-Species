@@ -147,7 +147,7 @@ Each entry: **line · speaker · first seed · repeats · spread guard**
 ### Street. Meet you in the flow — LOCKED 2026-07-26 (rev. D: multiple collapses)
 - **Line:** *"I'll meet you in the flow."* / *"See you in the flow."*
 - **Speaker:** corridor keepers, displaced families, Weaver hosts — **when maps failed**, not default farewell
-- **Prerequisite:** **multiple further collapses** on-page (Book II–III) — not Hinge alone
+- **Prerequisite:** **multiple further collapses** on-page (Book II–III) — not Turning alone
 - **Seed:** **Vol II Ch 5** — first spoken after **corridor break** (must **land**)
 - **Density:** **Vol II 2–3 spoken total**; **Vol III 3–5** across war — most beats show rhythm **without** the line (`54` § *Anti-monotony*)
 - **Guard:** **not Vol I**; **missed** rendezvous; **challenging** (wrong rhythm costs); cut the line if shown rhythm suffices; not every collapse gets the slogan

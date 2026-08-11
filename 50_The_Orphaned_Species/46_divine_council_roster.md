@@ -129,7 +129,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 | **Healer/guide (late)** | European church compression | **Raphael** (Tobit — use sparingly) ◇ |
 | **Apocryphal elevation** | Human or practitioner **misremembered as angel** | **Metatron**, **Sandalphon** (3 Enoch) ○ — rhyme with **Seven / human-transmitter** folklore, not literal beings |
 
-**Psalm 82 is the hinge:** the council is judged and sentenced to *die like men* — so later ages could only remember them as **angels** ( diminished gods), not as living administrators on the ground.
+**Psalm 82 is the Turning:** the council is judged and sentenced to *die like men* — so later ages could only remember them as **angels** ( diminished gods), not as living administrators on the ground.
 
 ### What they are NOT
 

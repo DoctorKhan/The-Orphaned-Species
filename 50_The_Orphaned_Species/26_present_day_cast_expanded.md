@@ -382,7 +382,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **What Eli must learn:** she loved him, resisted courageously, helped create the cage, and delayed acting when action might have saved someone. Releasing her includes relinquishing the innocent mother he needed her to have been.
 
-**Guardrails:** not secretly evil; not absolved by maternal love; not reduced to guilt; not the sole inventor of the system. Her work must have produced real benefits as well as coercive tools. No final confession cleans the ledger. **Post-Hinge scientist claiming** (`40` § Scientist claiming): she is a **claimed neuroscientist** — location unknown; blocs treat her as ledger property.
+**Guardrails:** not secretly evil; not absolved by maternal love; not reduced to guilt; not the sole inventor of the system. Her work must have produced real benefits as well as coercive tools. No final confession cleans the ledger. **post-Turning scientist claiming** (`40` § Scientist claiming): she is a **claimed neuroscientist** — location unknown; blocs treat her as ledger property.
 
 ---
 

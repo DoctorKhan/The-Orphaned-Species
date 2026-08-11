@@ -1578,6 +1578,16 @@ giving this room to a man because he got loud once in a pump house."
 
 They go to their separate corners of the dark. Nothing is resolved. The frogs sing up and down the forming line, and skip the dead field, all night.
 
+Wren does not sleep. She sits on the pump-house step with the half-record in her lap and the night watch roster in her head: four people, two hours each, until Malai's polarity week buys them one more day of safety. She thinks about the cooperative the way she thinks about intake queues—by capacity, not by hope. Forty families. A clinic that already faxed forms. A boy bleeding into the canal because two teams wanted what his blood could mark. She has seen what happens when a record becomes valuable before the people who made it are ready to be seen: the claim window closes, and the names inside the record get filed under someone else's urgency.
+
+She is not defending Eli. She is defending the hour. The argument in the pump house was not about dominance; it was about who gets to decide when a place stops being a home and starts being a site. She knows the answer. She has been the site. She will not let the cooperative become one while she is standing watch.
+
+The white cars will come from the south. The cash buyers from the north. Neither of them is coming for the rice. They are coming for the gap between the record and the people who made it—the gap where ownership gets invented. If they leave at dawn with half a series, they hand that gap to whoever is patient enough to fill it first.
+
+She burns the route heat she has left keeping the night watch from being alone. Not for glory. Because a watched night is one night fewer in which someone gets taken without a form. Because Malai's marks are data, and data walks, and the only way to keep a promise is to outlast the people who did not make it.
+
+---
+
 At first light Wren finds him at the landing with the half-record wrapped and ready. She does not take the rope.
 
 "Not yet," she says. "Malai's polarity week is the only thing that makes this more than a story both teams can invent. Ros already paid for our names. If we run with half a series, we spent her racks for a suggestion someone can dismiss." A breath. "One more night. Then we draw them after us."
@@ -2138,7 +2148,7 @@ Dara reads the notice twice. "North through Laos is dead."
 
 "Anika's line still runs," Wren says.
 
-"Anika's line is not mine." Dara does not look up. "You saw the intake square. Palm, face, blood spot—one clean chain to a form with Mandate letterhead. Cross a working checkpoint now and that chain reads you before you finish walking through it. I do not care whose hand is really under the stamp. I care that the stamp exists." She turns the map. "Vietnam. Then Yunnan if the rain allows. No checkpoint worth the name for two hundred kilometers. My cousin drove coffee that way before the Hinge. He said the old clearance maps lie now."
+"Anika's line is not mine." Dara does not look up. "You saw the intake square. Palm, face, blood spot—one clean chain to a form with Mandate letterhead. Cross a working checkpoint now and that chain reads you before you finish walking through it. I do not care whose hand is really under the stamp. I care that the stamp exists." She turns the map. "Vietnam. Then Yunnan if the rain allows. No checkpoint worth the name for two hundred kilometers. My cousin drove coffee that way before the Turning. He said the old clearance maps lie now."
 
 "Lie how?" Eli asks.
 
@@ -2260,6 +2270,12 @@ copy. "Your record. Laos closed. Vietnam mud. Now this. Keep the order straight�
 "Be useful later. Sorry now is only noise."
 
 She transfers them to a produce van whose driver will go as far as Kunming. Her coffee truck stays on the gravel with its permit dying electronically around it.
+
+Wren sits in the produce van with the sealed cooperative record on her lap and Dara's rejected permit in her bag. Before they pull out, she opens the window and looks back at Eli in the truck bed.
+
+"Civilian thread is mine from here," she says. "Dara, the record, anyone who gets off at a border before the annex. You take the forensic line—Luo, the tree, the question about your father. I do not trade people for proof, and I will not let someone else do it for me."
+
+He nods. The division is not dramatic. It is the kind of division that holds because both people already know what it costs.
 
 The next human door has a face. That is the difference.
 

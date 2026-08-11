@@ -35,4 +35,4 @@ Four calls I made where canon left room. Each is easy to reverse.
 
 8. **⟦DC-8⟧ — LOCKED 2026-07-26 (trilogy, dual-true + costume).** **Hunt attribution:** Book I Eli sees Mandate/father — **Rasel's son / loose ends**. **Charkha wears Mandate's face** for Eli/mother hunt. No **Charkha/Measure** name in Book I. Late cracks = costume seams. Book II names Charkha — **wore the Mandate's face; got Maren; you've been running their map**. `WORLD_BIBLE.md` § Hunt attribution; `17`.
 
-**Ends at the breach**, per the restructure lock. Wren's rejoin, Salmah's naming and cost, and the immediate aftermath are Chapter 3. The retired Pai/Khun Dang route remains quarry; Thailand now appears only as the shorter Book I grounding/memory hinge in Chapter 11.
+**Ends at the breach**, per the restructure lock. Wren's rejoin, Salmah's naming and cost, and the immediate aftermath are Chapter 3. The retired Pai/Khun Dang route remains quarry; Thailand now appears only as the shorter Book I grounding/memory Turning in Chapter 11.

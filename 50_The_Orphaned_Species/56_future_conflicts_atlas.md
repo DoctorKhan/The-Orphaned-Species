@@ -16,14 +16,14 @@
 |---|---|---|
 || **Acceleration** | Late 2020s | Off-page backstory: climate displacement ↑; AI/biotech mature |
 || **Militarization** | Early 2030s | Carrier registries as health-and-security; Maren/Lang research |
-|| **Hinge wars** | Mid 2030s | Cyber + shipping war; identity systems weaponized |
+|| **Turning wars** | Mid 2030s | Cyber + shipping war; identity systems weaponized |
 || **Fever Years** | ~2037–39 | Outbreak + lockdown; emergency powers; merged databases |
 || **Armed reopening** | ~2039–40 | **Book I opens here** — Malacca, Strait, Pelangi |
 || **Awakening War** | Book III Ch 4+ | Registry seizure + Mandate strikes; distinct from WWIII hottest phase |
 || **Compact + ceasefire** | Book III late | Field-sail proof; corridors stand down; proxy fronts remain |
 || **Open adventure** | Post-coda | Ship years away; teahouse replication; war in the room, not destiny |
 
-Full detail: `23_2040_present_frame.md` § Macro timeline, § The Hinge.
+Full detail: `23_2040_present_frame.md` § Macro timeline, § the Turning.
 
 **Original intent:** entropic allocation was designed as a rigorous scientific
 and democratic instrument. Registered perimeters protect interior industrial

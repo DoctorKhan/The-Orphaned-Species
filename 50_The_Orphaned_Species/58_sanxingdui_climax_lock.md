@@ -6,7 +6,7 @@
 
 This document supersedes every earlier allocation that places the Gulf, Mesopotamian archive, Taş Tepeler circuit, or Göbekli climax in Book I; delays Sanxingdui to Book III; leaves Rasel off-page after Book I; retains Professor Emrys; makes Wren a pre-Book-II extraction operator; or pays for Rasel's recovery with another captive.
 
-## New trilogy hinge
+## New trilogy Turning
 
 | Volume | Emotional promise | Discovery / action climax | Staging (epic enough — 2026-08-01) | Ending |
 |---|---|---|---|---|

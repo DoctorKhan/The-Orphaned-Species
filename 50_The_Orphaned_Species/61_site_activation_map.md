@@ -81,15 +81,15 @@ Characters never need the phase names. You do, off-page, to pick the right bite.
 
 ## Book II — The Descent (flesh priority)
 
-Route: post-Sanxingdui → **Egypt brief hinge or packet** → Mesopotamia → Göbekli → Bosporus/holding → **Pömmelte (+ church rhyme)** → **Rollright/Men-an-Tol one corridor** → **Anglesey threshold** → **Stonehenge→Avebury climax run**.
+Route: post-Sanxingdui → **Egypt brief Turning or packet** → Mesopotamia → Göbekli → Bosporus/holding → **Pömmelte (+ church rhyme)** → **Rollright/Men-an-Tol one corridor** → **Anglesey threshold** → **Stonehenge→Avebury climax run**.
 
 **Location contraction — LOCKED 2026-08-01:** ~6–7 body-arrivals; contract travel, not jobs. Church ⊂ Pömmelte; Rollright+Men-an-Tol = one corridor; Anglesey = threshold not tour; Stonehenge→Avebury = one climax run. Every stop: chase next-door **and** relationship cost.
 
 | Ch / Site | Activates (carrier) | Bible bite to pull | Partial truth | Deep-lore hold | Next door |
 |---|---|---|---|---|---|
-| 1 · Sichuan exit / greenhouse | Credential red; tomato stake | Release ≠ restoration | Father present; Wren barred | — | West (via Egypt hinge or direct) |
-| **1 hinge · Egypt / Nile House** *(not a full chapter)* | BAC-survivor god-king costume; optional uraeus/benben half-read | Survived collapse by hardening divine kingship | Endurance ≠ adulthood; contested Mesopotamia→pharaoh claim | Full Egyptology tour; volume open | Mesopotamia archive |
-| 2 · Mesopotamian archive / tell | **Folly** (Adapa); triad residue; Map; Egypt packet OK if hinge skipped | Knowledge→obedience; 4.2 ka vs Adapa day | Centralizing fiction; Göbekli window | Full god politics | Göbekli |
+| 1 · Sichuan exit / greenhouse | Credential red; tomato stake | Release ≠ restoration | Father present; Wren barred | — | West (via Egypt Turning or direct) |
+| **1 Turning · Egypt / Nile House** *(not a full chapter)* | BAC-survivor god-king costume; optional uraeus/benben half-read | Survived collapse by hardening divine kingship | Endurance ≠ adulthood; contested Mesopotamia→pharaoh claim | Full Egyptology tour; volume open | Mesopotamia archive |
+| 2 · Mesopotamian archive / tell | **Folly** (Adapa); triad residue; Map; Egypt packet OK if Turning skipped | Knowledge→obedience; 4.2 ka vs Adapa day | Centralizing fiction; Göbekli window | Full god politics | Göbekli |
 | 3 · Göbekli / Taş Tepeler | **Bridge** plaquette; buried instrument | Contact → selection / managed access | Counter-image to Sanxingdui branches | Panspermia zoom | West corridor |
 | 4–5 · Bosporus / holding | Hassan; Charkha naming | Costume hunt; Maren alive + tethered | Running their map | Departure-drone network named late | Pömmelte |
 | 6 · **Pömmelte + church rhyme** *(one arrival)* | Dead-zone; purge geometry; pew-side drain | Nephilot / carrier hunt; ni→persecution; domestic control | Women/children targeted; control rhymes | Full Nephilot taxonomy; separate church trip | Rollright corridor |
@@ -97,7 +97,7 @@ Route: post-Sanxingdui → **Egypt brief hinge or packet** → Mesopotamia → G
 | 8 · **Anglesey** *(threshold, not tour)* | **Bitter cup**; peat bog; **one-way** Maren contact | Threshold under consent; seed catalog | Body changed; daylight incomplete; hunger without embodied reunion | Island tourism; mutual reunion (save for Avebury); Serpent-as-Makers face | Stonehenge→Avebury run |
 | 9–10 · **Stonehenge → Avebury** *(one climax run)* | Cuno geometry; Maren release under assault | Circles wisdom routed; love ≠ ownership | One station among several; mother freed; web wakes | Two sightseeing days; merge-minds fantasy | Book III |
 
-**Egypt placement — LOCKED 2026-08-01:** hinge or packet only; never Book II/III volume open; never full landmark chapter. Book III = Mandate-face only (`33`).
+**Egypt placement — LOCKED 2026-08-01:** Turning or packet only; never Book II/III volume open; never full landmark chapter. Book III = Mandate-face only (`33`).
 
 **Flesh order:** fill blank carriers first (exact object on-page), then wrong-first argument, then desire cost. Do not add new full sites until these activate cleanly.
 
@@ -105,7 +105,7 @@ Route: post-Sanxingdui → **Egypt brief hinge or packet** → Mesopotamia → G
 
 ## Book III — The Compact
 
-Route: Albion exit → Atlantic → Brazilian lower-river network → Hawaiʻi → corridor → hearing → **incomplete handover under war pressure**. **Egypt = Mandate-face only** (no pilgrimage; seed was Book II hinge/packet).
+Route: Albion exit → Atlantic → Brazilian lower-river network → Hawaiʻi → corridor → hearing → **incomplete handover under war pressure**. **Egypt = Mandate-face only** (no pilgrimage; seed was Book II Turning/packet).
 
 | Ch / Site | Activates | Bible bite | Partial truth | Hold | Next |
 |---|---|---|---|---|---|

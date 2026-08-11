@@ -16,7 +16,7 @@ Your four sections are already inside the trilogy in embryo. What your framing a
 - **Union / Eastern Mandate / Coalition** are the failed sovereign reaction to a world that no longer agrees on what counts as a protected ecosystem, let alone a protected body.
 - The Mandate political squeeze in Ch 1 already frames public-health / biosecurity cover as the politically credible reason to seal a gray port and classify residents. The label *anomalous residents* is the novel's equivalent of "biological threat" — bureaucratic, borderless, and arbitrary.
 - **Wren's network** is itself a biological-sovereignty violation in slow motion: a decentralized carrier-harbor chain operating across jurisdictions. Every port-mile Wren sails is unconsented migration of a population whose biology has already been weaponized — a voluntary immunizing intervention crossing borders the state never authorized.
-- The 72-hour countdown, registry sweeps, and port lockdowns are exactly the geopolitics of a deployed activation construct: the machinery is already there; only the biological trigger was missing.
+- The 72-hour countdown, registry sweeps, and port lockdowns are exactly the geopolitics of a deployed Fever payload: the machinery is already there; only the biological trigger was missing.
 
 ### 1.2 Attribution failure → suspicion of the cure
 - When the Custodians show their mirror — *carriers who took the collar* — that is the geopolitical read: the state instrumentality is indistinguishable from the threat it claims to hunt.

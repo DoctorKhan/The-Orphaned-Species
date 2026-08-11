@@ -16,7 +16,7 @@
 > an ordinary later coda.
 >
 > **NORTH–SOUTH ROUTE LOCK — 2026-08-01; WATERSHED 2026-08-01:** The court remains
-> in North America. Evacuation hinge = **Nosara–Samara** receiving with
+> in North America. Evacuation Turning = **Nosara–Samara** receiving with
 > **Tenorio–Miravalles watershed zone** nursery-farm capacity toward **Monteverde**
 > cloud forest (`60`). Yuliana Mora is the
 > on-page route clerk face. Costa Rica sets capacity and may refuse. Eli/Rowan/
@@ -449,6 +449,53 @@ lie. The message reports no loss in transit. Three separate teachings have been
 pressed into one clean instruction. Cuno marks the error in the margin with a
 pencil he has kept sharp since school—an old habit from a classroom where
 correction meant the difference between understanding and repeating.
+
+The Union permit office issues seven revocation orders that same night. Six are
+routine. The seventh stops a group of pilgrims at the western intake tower who
+had walked three days carrying only water and a petition book. Their permits are
+withheld on the grounds that the route they named passes within two kilometers of
+a security installation the Union has not declared. The officer who holds their
+documents is young enough that his voice cracks once before he finds the rule.
+
+Wren receives the appeal at breakfast. She checks the distance against the map
+and finds the installation was decommissioned five years earlier. The permit
+system has not been updated since.
+
+She writes a one-line return: **Reopen the route; the installation does not
+exist.**
+
+The appeal sits in a review queue for nine hours. During that time a second
+group is turned back at the north checkpoint. This group includes a woman from
+the Colorado compound who has come to visit the court once, not to settle. Her
+permit is valid. The officer detains her for questioning because her name matches
+a flag on a list she has never heard of.
+
+Eli is not told until afternoon. He walks to the permit office himself, without
+Wren, without Rowan, without any delegate. The woman is sitting on a bench
+outside with her petition book still in her lap. She does not look up when he
+arrives. She has watched too many people arrive with authority and leave without
+changing anything.
+
+He signs her release form. The officer asks for his credential. Eli hands over
+the route witness token he still carries. The officer compares it to the list,
+hesitates, then returns it without comment.
+
+The woman stands. She puts the petition book inside her coat.
+
+"Thank you," she says. It is the politest thing anyone has said to him in a
+week.
+
+Outside, Wren is waiting. She does not ask what took so long. She reads the
+release form and notes the officer's name for the objection ledger.
+
+By evening, three more groups have been held. One is released. Two remain
+pending review. The permit office cites security. The security director cannot
+name a live threat. The pilgrim network keeps walking anyway, on routes that
+avoid the checkpoints, carrying fewer papers.
+
+Nobody needs Eli to see the pattern. The pattern sees him.
+
+---
 
 Wren has been watching Sol channels since the east-gate incident. She has the
 clip when it first appears. She has the timestamp, the relay path, the three
@@ -1926,6 +1973,8 @@ Sable looks at the public gallery.
 "Because failing to recognize an informal household creates security and
 succession ambiguity."
 
+Wren has read enough displaced court archives to know the shape under the word. Palace registries once ranked exactly this — who slept where, who counted as household, who therefore inherited a claim nobody had named yet. The directive Sable cites has no god in it and no throne behind it. It has kept the ranking anyway, the way a fossil keeps an animal's shape long after the animal is gone.
+
 The answer is administrative, not prudish.
 
 Sable can imagine desire only as an unfiled institution.
@@ -2657,11 +2706,51 @@ with roots, and the slope above the clinic after rain.
 
 **TWELVE THOUSAND FIT ON YOUR MAP. THEY DO NOT FIT THROUGH MARCH.**
 
-The councils mark stormfall for beams. They open already hardened ground for
-temporary roofs and divide the planting order among several locally chosen
-species. The intake number does not change.
+The smaller movement begins that evening. It reaches the next harbor alive under
+a count the Costa Rican councils update every morning.
 
-The smaller movement begins that evening. It reaches the next harbor alive.
+The Nosara intake desk runs on paper and pencil. A nurse named Beatriz checks
+each family against the list: name, age, route, sponsor household, number
+carrying respiratory illness. She marks arrivals in one column and pending
+applications in another. The third column stays blank most days.
+
+The first night, eighty-seven people arrive on a fishing boat whose captain
+accepted payment in shell stock instead of compact credits. Beatriz accepts the
+boat because she needs the hands. She rejects the passengers whose names are not
+on the approved list and whose host households have not confirmed. She sends them
+to the overflow shelter with a paper stating they are not expelled, only
+suspended until a review slot opens.
+
+A woman from Nicaragua argues. She has three children and no sponsor. Her
+husband's cousin was killed at a checkpoint two days earlier. She wants to know
+what the number three thousand one hundred and eighty means to a child who has
+never heard of a watershed zone.
+
+Beatriz looks at the column. She looks at the woman. She looks at the clinic bed
+count posted on the wall.
+
+"We can hold you for six days," she says. "After that, the nursery network
+cannot guarantee water. Not because we choose. Because the ground says so."
+
+The woman accepts the paper. She takes her children to the shelter.
+
+Over the next week the intake stays below two hundred per day. The councils
+adjust shelter assignments three times. A group of growers from the watershed
+zone arrives to teach a nursery work-song to the children who have been waiting
+the longest. The song has twenty-two verses. The children learn four before the
+review slots open and the first permitted families leave for the inland route.
+
+No one pretends the limit is generous. It is what the trees can carry without
+dying and the clinics can treat without collapsing. That is not the same thing as
+refusal. It is the thing refusal is made of.
+
+Yuliana sends a private note to the court coordinator: the review period can be
+reopened only if the northern side replaces the trees and clinics it is asking
+them to trust. Until then, the number is not cruelty. It is arithmetic.
+
+Eli reads the note in the review hall. He does not forward it to the feed. He
+does not ask for a wider corridor. He marks it received and routes it to the
+allocation desk as evidence.
 
 A storm closes two sea routes while replacement water membranes are still on
 the third. Leaf disease appears in nurseries that shared the same emergency
@@ -4673,6 +4762,8 @@ Novak answers without embarrassment.
 "Symbolic continuity. Arbitration standing. The right to convene the houses in
 constitutional failure."
 
+Rowan hears the older shape under the committee language before she can stop herself: a child born to stand where a throne used to stand, so the throne's absence has somewhere to be managed instead of simply being true. Nobody assigned this office a god. No priesthood will anoint him. The paperwork has kept the temple's shape anyway, and asked her body to fill it.
+
 "Office."
 
 "Potential office."
@@ -4746,24 +4837,32 @@ A cloister delegate rises.
 
 "Then the world is not ready to use my child as repair."
 
-Novak asks, "Do you deny that blood continuity could prevent immediate conflict?"
+A woman in the back of the room who has never spoken in session waits for Rowan
+in the corridor afterward. She works routes. She has no office, no credential,
+no household to recommend her. She holds out a folded paper that is not a
+petition and not a credential.
 
-"No."
+"Marry me," she says. "Not for the house. Not for the child. For the days
+between."
 
-The room quiets.
+Rowan reads the paper twice. It lists three routes she has walked, one repair
+she supervised, and a date three days from now when the witness will meet her at
+the west gate with a witness book and no broadcast.
 
-"Then why refuse?"
+"You don't know me," Rowan says.
 
-"Because a child may continue my life. The child may not be made to continue my
-crown."
+"I watched you file the objection against the grain cartel. You didn't stand up
+to make a speech. You stood up because the math was wrong."
 
-The line spreads before he sits.
+Rowan folds the paper. She does not say yes. She does not say no. She says she
+will meet the witness on the date named.
 
-By evening it appears on banners beside images of the unborn heir.
+Back in the room, the feed is replaying Eli's line. Commenters are already
+calling it renunciation. Nobody is calling it the thing it actually is: a
+refusal to make a person into a policy.
 
-Folly becomes dynasty material too.
-
----
+Novak watches Rowan return. He understands the offer better than anyone in the
+room.
 
 Wren presents the attestation proof.
 

@@ -405,7 +405,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 ---
 
-## 5. World-history science floor — COVID haplotype, retroviral activation construct, puberty epigenetics
+## 5. World-history science floor — COVID haplotype, retroviral Fever payload, puberty epigenetics
 
 *Anchors for the near-future weapon and the puberty threshold in the archived history and WORLD_BIBLE §§2–4. These papers are the **fact floor** under fictional escalation; Book I delivers their consequences through residue rather than a historical preamble.*
 
@@ -417,7 +417,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **The finding (paraphrase — confirm before quoting):** A major genetic risk factor for **severe** COVID-19 lies on **chromosome 3** (3p21.31 cluster) in a haplotype **inherited from Neanderthals**. Carrier frequencies vary by population — notably **common in South Asia**, **present at lower frequency in Europe**, and **often absent in East Asia** — creating the geographic **severity skew** the real pandemic showed, not a clean infection divide.
 
-**Why it matters to this book:** This is the **honest anchor** behind the archived history's “activation construct / populations preferentially at risk” and the Mandate’s statistical sparing of East Asia. The novel **fictionalizes** the locus into an engineered **acute kill-switch**; real COVID did **not** work that way — it modulated **severity**, and everyone could be exposed.
+**Why it matters to this book:** This is the **honest anchor** behind the archived history's “Fever payload / populations preferentially at risk” and the Mandate’s statistical sparing of East Asia. The novel **fictionalizes** the locus into an engineered **acute kill-switch**; real COVID did **not** work that way — it modulated **severity**, and everyone could be exposed.
 
 **Honesty flags for the author:**
 - Do not write “COVID targeted Neanderthal DNA” as literal history — write “**learning from COVID’s severity map**” or “**keyed to the same haplotype**.”
@@ -431,7 +431,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 ---
 
-### B. Activation construct / germline inheritance (Phase 1 heritable spread — fictional mechanism on real retroviral floor)
+### B. Fever payload / germline inheritance (Phase 1 heritable spread — fictional mechanism on real retroviral floor)
 
 **Papers:**
 
@@ -441,7 +441,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **The finding (paraphrase):** A **gene drive** biases inheritance so a construct spreads through a population far faster than Mendelian rules. CRISPR-based drives are **plausible in insects** and discussed for disease-vector control; **human deployment using gene drives is not responsible science** and remains **speculative fiction** here. The novel’s weapon instead uses a **germline-integrating retroviral construct** that can pass to offspring without being a gene drive.
 
-**Why it matters to this book:** Explains “**even when cured, survivors passed it to their children**” and Phase 2’s universal latent construct without invoking magic. The archived history's activation construct should be read as **retroviral + germline-integrating** (WORLD_BIBLE §2), not a gene drive.
+**Why it matters to this book:** Explains “**even when cured, survivors passed it to their children**” and Phase 2’s universal latent construct without invoking magic. The archived history's Fever payload should be read as **retroviral + germline-integrating** (WORLD_BIBLE §2), not a gene drive.
 
 > **[VERBATIM TODO]** — one line from Esvelt et al. on CRISPR drives altering wild populations; or National Academies on uncertainty/containment.
 
@@ -505,11 +505,11 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **Mechanism anchor:** ancient endogenous retroviruses make up roughly 8% of the human genome; some of that fossil viral DNA has been domesticated into essential functions — most notably the **syncytin genes** (retroviral envelope genes co-opted to fuse cells into the placenta's syncytiotrophoblast layer), without which placental live birth as we know it would not exist.
 
-**Why it matters to this book:** real precedent for "a germline-integrating retroviral construct becomes generative, not only parasitic" — relevant if a future scene needs the construct/provirus framed as something the genome has already done successfully, not only as a weapon.
+**Why it matters to this book:** real precedent for "a germline-integrating retroviral construct becomes generative, not only parasitic" — relevant if a future scene needs the Fever/provirus framed as something the genome has already done successfully, not only as a weapon.
 
 **Honesty flag:** lowest priority of the additions here — nothing currently on the page makes this specific claim. Add only if a scene needs it; don't force a reference.
 
-**Suggested placement:** none yet — hold as background floor for a future Book II–IV scene about the construct's biology, if needed.
+**Suggested placement:** none yet — hold as background floor for a future Book II–IV scene about the Fever's biology, if needed.
 
 ---
 
@@ -685,7 +685,7 @@ Pelangi harm (Ch 3) → Eli tempted by Lang's fast clock (one keyboard, one reco
     → Ch 8: force-sync = fast clock; Eli chooses SLOW CLOCK (voluntary coherence) — rhythm, not renunciation
 ```
 
-**The hinge beat (Ch 4 — dramatize, don't thesis):**
+**the Turning beat (Ch 4 — dramatize, don't thesis):**
 
 1. **Arrival:** Eli carries guilt; Lang's folder promises the **fast clock** — one interoperable record, central command, immediate coherence.
 2. **Convergence:** Wet passage — Amara, registry mother, stranger grief — **polyphonic public space**: names held **together**, not merged. Wren or a Yerba Buena keeper (sanctuary steward, MLK Foundation elder, multilingual mutual-aid node) **shows a working practice**: intake, routes, food, silence — **without identity ownership**. Eli recognizes Mei's kitchen and Pelangi's Ch 2 sponsorship terms **at scale**.
@@ -792,7 +792,7 @@ the geographic and cultural flattening produced by a simple North/South binary.
 
 - Indigenous Science and Peace Studies at the University for Peace explicitly
   locates its Costa Rican work where Eagle and Condor “meet,” making Costa Rica
-  a useful contemporary hinge rather than South American scenery:
+  a useful contemporary Turning rather than South American scenery:
   https://www.ispsprogram.org/the-prophecy
 - University of Toronto's overview emphasizes multiple tellings and reads the
   movement through Indigenous sovereignty, collaboration, borders, and imposed

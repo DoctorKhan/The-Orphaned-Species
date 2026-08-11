@@ -339,7 +339,7 @@ Reuse; do not invent parallel deep histories.
 | Flood / covenant purity window | ~4.2 ka / Eden III | Purity program vs living wild code | Covenant control; registry rhymes |
 | Age of Heroes / Albian retreat | ~3.5–1.2 kya | Nephilot memory; stone circles; Sídhe residue | Book II Albion / Sídhe |
 | Elimination / quiet control | ~2 kya → early modern | Suppression apparatus faces; keepers underground | Charkha-as-pattern; Weavers |
-| Pre-Hinge / machine-war eve | 21st c. → ~2037 | Optional near-past only — still “past” to 2040 Eli | Present-frame scars |
+| Pre-Turning / machine-war eve | 21st c. → ~2037 | Optional near-past only — still “past” to 2040 Eli | Present-frame scars |
 
 **Bridge (0)** may still be **late post–IV present** (same bodies). That is not a
 future civilization invent; it is aging inside a world I–IV already built.

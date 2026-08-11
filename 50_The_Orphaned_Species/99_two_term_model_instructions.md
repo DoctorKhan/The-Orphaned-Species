@@ -48,7 +48,7 @@ This is a **structural overlay**, not a draft checklist. It maps every major mis
 | Albion cloister | Men's cloister, repair crews, veterans, thread elders | Post-release relief that cannot fund itself; Somchai's crown temptation |
 | Brazilian river settlements | River-port network, clinics, growers, threshold houses | Continental fracture; Lang's persuasive offer when welcome fails |
 | Hawaiʻi compact | Eagle–Condor teaching, Awakening War | Forced synchronization; the compact tested under war pressure |
-| North American court | Women-led court, Costa Rican hinge, regional games | Lean Year collapse; anocratic remnants vs. hemispheric entitlement |
+| North American court | Women-led court, Costa Rican Turning, regional games | Lean Year collapse; anocratic remnants vs. hemispheric entitlement |
 
 **Prose test:** if a scene shows only the norm and no pressure, it is exposition. Add the refugee, the artifact, the refusal, the failure.
 

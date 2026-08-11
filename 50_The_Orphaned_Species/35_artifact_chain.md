@@ -63,7 +63,7 @@ Artifacts operate on three levels:
 - **The Circles** (Three-Circles Tablet): physical post-breach encounter (Singapore Stack leak delivered at the Malacca kelong, Ch 3); body/family/civilization diagnostic grammar.
 - **The Forks** (Double-Fork Stone): held until Book III with the dragon ghost. Books I–II seed only partial branch/guardian motifs and a living-person Nephilot clue; the full diagram makes the parallel Earth/Heaven bridge-species design a late cosmological reveal.
 - **The Bridge** (Göbekli snake/tree/bird plaquette): three stacked zoom levels (terrestrial / guardian / cosmological); characters see a partial diagram at most; the reader may hold the full bridge reading before Book III certifies panspermia.
-- **Human-Design Triad packet (Ch 12):** **The Folly · The Sorting · The Fade** as one archive haul — Folly primary; Sorting + Fade seeded; street names on-page (`manuscripts/I_The_Breach.md` Ch 12).
+- **Human-Design Triad packet:** **The Folly · The Sorting · The Fade** as one archive haul — Folly primary; Sorting + Fade seeded; street names on-page (`manuscripts/II_The_Descent.md` Ch 2 — relocated from Book I per `58_sanxingdui_climax_lock.md`).
 - **The Fade** (King List): declining pre-Flood duration and the memory of lost immortality; characters debate chronology, myth, biology, and grief.
 - **The Folly** (Adapa tablet): knowledge turned into obedience; the psychological control mechanism is legible to characters, but its place in the larger plan remains hidden.
 - **The Sorting** seed (Enki and Ninmah / Umul = **the Unplaceable**): filed in Vol I; full cross-ref payoff Vol II–III.
@@ -475,8 +475,8 @@ Wider clue-chain objects use the same grammar (**The + wound/act**). Scholar/mus
 
 | Volume | Chapter | Beat |
 |---|---|---|
-| **I** | **12** | **First contact:** Gulf/Mesopotamian archive yields **one packet, three texts** — **The Folly** primary; **The Sorting** + **The Fade** **seeded** (Maren margin or dissident copy). Eli reads the Folly; others filed. |
-| **I** | **13** | Folly rhyme at Göbekli: obedience/selection vs living group; **incomplete** triad synthesis. |
+| **II** | **2** | **First contact — relocated from Book I 2026-08-01 per `58_sanxingdui_climax_lock.md`:** Gulf/Mesopotamian archive yields **one packet, three texts** — **The Folly** primary; **The Sorting** + **The Fade** **seeded** (Maren margin or dissident copy). Eli reads the Folly; others filed. |
+| **II** | **3** | Folly rhyme at Göbekli/Taş Tepeler: obedience/selection vs living group; **incomplete** triad synthesis. |
 | **II** | **3** | Maren record / Hassan testimony **cross-refs** The Sorting (fates) and The Fade (mortality) — **roles vs registry sorting**. |
 | **II** | **5** | Pömmelte/church/registry: faction reads impaired bodies as **broken**; Eli carries Sorting counter-evidence; **World Order / Arta** rhyme as corrupted macro (`32` Ch 5). |
 || **III** | **2** | Sorting / **Umul** (**The Unplaceable**) as **intake countervoice** (Tomas; include before useful); **artifact fragment** opened in Brazilian archive room; Somchai sends somatic read from Thai cooperative — healing activated in the healer. |

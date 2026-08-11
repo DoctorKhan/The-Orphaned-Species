@@ -85,7 +85,7 @@ Same unbranded household curriculum. Verses drip alone; liturgies assemble when 
 
 ## The flow — post-collapse rendezvous (LOCKED 2026-07-26; rev. D: multiple further collapses)
 
-**Prerequisite — LOCKED 2026-07-26 (rev. D):** *The flow* is **not** a Hinge leftover remembered in Book I. It emerges when **infrastructure breaks again on-page — repeatedly**. After ~2040 armed reopening, the world suffers **multiple further collapses** (regional, institutional, corridor, war-front) — not one second apocalypse. Each break **adds rhythms**; people **sometimes align** within them; the phrase **accumulates**.
+**Prerequisite — LOCKED 2026-07-26 (rev. D):** *The flow* is **not** a Turning leftover remembered in Book I. It emerges when **infrastructure breaks again on-page — repeatedly**. After ~2040 armed reopening, the world suffers **multiple further collapses** (regional, institutional, corridor, war-front) — not one second apocalypse. Each break **adds rhythms**; people **sometimes align** within them; the phrase **accumulates**.
 
 Book I = damaged but functioning reopening (`23`). Book II–III = **cascade of breaks** until pinned coordinates are untrustworthy and rendezvous-by-rhythm becomes street culture.
 
@@ -206,7 +206,7 @@ Book I = damaged but functioning reopening (`23`). Book II–III = **cascade of 
 
 **Phrase birth:** *I'll meet you in the flow* **first spoken here** (corridor break / hearth circle) — but the **world keeps building rhythms** through **later collapses** in Book II–III. Not a one-time invention; a **pattern that spreads** as maps keep failing.
 
-**Cross-refs:** `32` Ch 6; `56` escalation timeline; `40` § *The Hinge* register table.
+**Cross-refs:** `32` Ch 6; `56` escalation timeline; `40` § *the Turning* register table.
 
 ---
 

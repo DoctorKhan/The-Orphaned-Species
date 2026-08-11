@@ -70,7 +70,7 @@ in life. Across incarnations they are **not** an eternal destined couple — tha
 would convert present-tense choice into cosmic ownership and undo I–IV. Later
 lives rhyme by function and unfinished work; recognition ≠ claim.
 
-**Spirituality goes wrong — LOCKED 2026-07-31; greater-picture hinge 2026-07-31:** the series must dramatize
+**Spirituality goes wrong — LOCKED 2026-07-31; greater-picture Turning 2026-07-31:** the series must dramatize
 **counterfeit spirituality**, not only Lang-registry and Sol-messiah. When the
 ultimate thesis becomes cultural assumption (especially Books III–VI teahouse /
 pilgrim ecology), some people will weaponize it as **toxic positivity** and
@@ -159,7 +159,7 @@ delivery spine: `22` § *Technology teaches meaning*; orchestra/V–X: `62`.
 | **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~43,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) · **Object:** Cherry Cube
 | **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | — | ~36,900 | Westward route; Maren release at Avebury · **Object:** Albion Shaft
 | **III** | The Compact | `50_The_Orphaned_Species/manuscripts/III_The_Compact.md` | — | ~30,700 | Brazil / Hawaiʻi / federation arc · **Object:** Living Root
-| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | — | ~28,600 | North American court; Costa Rica hinge; Rowan/Eli; birth / relinquishment · **Object:** Thread Loom
+| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | — | ~28,600 | North American court; Costa Rica Turning; Rowan/Eli; birth / relinquishment · **Object:** Thread Loom
 
 ## Lifetime Orchestra (V–X) — count LOCKED 2026-07-31; titles open
 
@@ -222,7 +222,7 @@ The split tried to even volume lengths and give Thailand its own title identity.
 - **Book I** includes the Thailand agricultural-witness sequence and Sanxingdui climax (Ch 4–13). Do not treat those as a separate volume.
 - **Book II** = Descent (Albion / Wren–Rowan / Charkha reveal / Maren's release).
 - **Book III** = Living World (Brazilian river-port network / Hawaiʻi / federation / Extras–cloisters).
-- **Book IV** = Court of Threads (North American court / Costa Rica hinge; Rowan/Eli romance arc; birth / succession).
+- **Book IV** = Court of Threads (North American court / Costa Rica Turning; Rowan/Eli romance arc; birth / succession).
 - **Books V–X** = Lifetime Orchestra — **count LOCKED +6** (Bridge → 4 past lives → Ω). Titles/cards open. Ultimate metaphysical thesis + technology teaches meaning apply. `62_lifetime_orchestra.md`.
 - **Family total — LOCKED:** **14 core** = 10 Layer 1 novels + 4 Layer 2 companions. Satellites outside that number (`63`). See § *Family total*.
 - **Layer 2 companions** live under `Books/` (Manual Override, Social Game, Human Experiment, Cosmic Game). Root `10`–`40` are compatibility symlinks into `Books/`.

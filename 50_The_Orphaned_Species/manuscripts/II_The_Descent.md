@@ -12,9 +12,9 @@
 >
 > **Inana's Descent — dual face — LOCKED 2026-08-01:** Ch 2 archive seeds Descent + Enheduanna; Ch 4 Somchai = healing face; Ch 6–7 Wren/Rowan renewal = romance face (gates/attend/return-with-cost through conduct). `35` § *Inana's Descent*; `19` § *Rowan returns*.
 >
-> **Egypt — brief hinge / packet only — LOCKED 2026-08-01:** not a volume open. Ch 1 westbound Nile House / Mandate corridor hinge **or** Ch 2 Egyptian comparative packet. Job: BAC survival by hardening divine kingship. Contested Mesopotamia→pharaoh claim only. Book III = Mandate-face only (`32`, `33`, `61`).
+> **Egypt — brief Turning / packet only — LOCKED 2026-08-01:** not a volume open. Ch 1 westbound Nile House / Mandate corridor Turning **or** Ch 2 Egyptian comparative packet. Job: BAC survival by hardening divine kingship. Contested Mesopotamia→pharaoh claim only. Book III = Mandate-face only (`32`, `33`, `61`).
 >
-> **Location contraction — LOCKED 2026-08-01:** ~6–7 body-arrivals; church ⊂ Ch 6 Pömmelte; Ch 7 Rollright+Men-an-Tol one corridor; Ch 8 Anglesey threshold not tour; Ch 9–10 Stonehenge→Avebury one climax run. Every stop: chase next-door + relationship cost (`32`, `61`).
+> **Location contraction — LOCKED 2026-08-01; Ch 8 Anglesey cut 2026-08-10:** ~6–7 body-arrivals; church ⊂ Ch 6 Pömmelte; Ch 7 Rollright+Men-an-Tol one corridor; Ch 8 Rollright→Stonehenge corridor transit, no separate island geography; Ch 9–10 Stonehenge→Avebury one climax run. Every stop: chase next-door + relationship cost (`32`, `61`).
 >
 > **Delivery package — LOCKED 2026-08-01:** mother Clock A every chapter + dual-clock delivery cards Ch 1–10; Wren/Rowan↔Maren mirror; Rasel instrument antagonist; Sol @ Extra settlement; Ch 8 one-way Maren contact only; term budget; antagonist face-per-stretch; gap-fillers wired — hearth/*flow* Ch 6, Maren moral wound, Somchai depth-scan Ch 4, Sora, Parade drip, Rootbook living correction, Somchai hard no late Ch 9 (`32` § *Book II delivery package*).
 >
@@ -1420,6 +1420,18 @@ The refusal does not travel.
 Its cost does.
 
 ## Chapter Three—The Buried Instrument
+
+Wren finds the cut in the transfer records at six in the morning, in a room that smells of coffee brewed too strong and the copper-tang of a printer drum overheating.
+
+The file arrives through the Charkha corridor link under a routing label that says only **medical continuity review**. Wren has not asked for medical records. She has been watching corridor flow for three days, tracking Hassan's westbound handoff through the stations that do not log names. The file opens to a page her training tells her to recognize: two names, two citizenship streams, one shared residence history, then a single line that separates them without explanation.
+
+Maren Holt. Rasel Khan.
+
+The line reads **pair severance — custody split** and is signed by a clerk whose identifier is a number, not a name. The date is seven days before extraction. Before the raid. Before anyone in Eli's world learned that either of them had moved.
+
+She reads it twice. The first time she looks for error codes, alternate routing, a system mistake that would make the line a ghost. The second time she looks for a reason someone would order a split before taking both people. No reason appears. Only the line.
+
+Wren prints the page. She tucks it inside the cover of the cooperative's sealed record, where it will travel with the evidence but not with Eli — not yet. Some facts need to be held until the person who asked for them is ready to hear that the answer was bought before the question was asked.
 
 The hill is being buried on schedule.
 
@@ -5517,7 +5529,7 @@ Wren repairs Rowan's route case after midnight.
 Morwen has given them the room above the kitchen. Two narrow beds. One chair
 with clothes folded across it. Rain tapping the sloped roof.
 
-The case hinge has pulled away from the lining. Wren stitches it with waxed
+The case Turning has pulled away from the lining. Wren stitches it with waxed
 thread while Rowan updates Callum's record at the desk.
 
 Neither speaks about the field.
@@ -5718,60 +5730,31 @@ Their hands meet on the floor.
 
 Neither calls that completion.
 
-## Chapter Eight—The Bitter Cup
+## Chapter Eight—The Corridor Signal
 
-Before the cup, a Custodian inquiry reaches Eleri's registered practice.
+Morwen has them stop before the county line, at a disused halt where a rail spur once served the quarry and now serves nothing but her own maintenance runs.
 
-Morwen made the introduction by name — *Eleri keeps the threshold room; I keep the roads between them* — and the two women are nothing alike to look at, which Eli now understands is the point: one face for the hedgerow, one face for the doorway, and a stranger who conflates them has not been watching.
+"Not a tour," she says, before anyone can ask. "A place I can watch the road both ways."
 
-Two officers in biosecurity cover, clipboard deadline stamped for the afternoon
-tide: confirm whether an unlicensed altered-state procedure is scheduled;
-produce the consent ledger; identify any Holt/Khan travelers on the island.
-They do not storm the orchard. They schedule. The job is present-tense and has
-an end time.
+Rowan checks the sightlines out of habit and approves them without saying so.
 
-Eleri shows them the hospice garden and the seed library. She does not show
-them the threshold room. She tells them the truth that fits their form: no
-unlicensed medical theater; no public ceremony; patients may refuse.
+The interval Callum's field surrendered at Men-an-Tol has been sitting in Wren's kit since the iron cut the third note — not an object, not quite a reading, a directional pressure that has been growing more specific with every mile west. Morwen calls it unresolved. Rasel calls it uninstrumented, which is not the same complaint but sounds like one.
 
-"If we return at sixteen hundred," one says.
+"You want to enter it," Morwen says. It is not a question to Eli. It has already been decided by the fact of the stop.
 
-"You will find a closed clinic," she answers. "I keep ordinary hours."
+"Yes."
 
-They leave a notice on the gate. The paper flutters. The deadline remains.
-
-The keeper makes Eli write the reason he may stop, not the reason he wants to
-begin.
-
-That answer is easy: Maren.
-
-The stopping reason takes longer.
-
-He sits at a scrubbed kitchen table on Anglesey with a blank line beneath the
-question:
+She hands him a pencil and a torn sheet from a maintenance pad.
 
 **WHAT MATTERS MORE THAN THE CONTACT?**
 
-Outside, wind moves through an orchard planted low behind stone walls. The sea
-appears between branches in brief gray pieces. On the table are a blood-pressure
-cuff, a basin, drinking water, a clinical consent form, and a dark cup no larger
-than two fingers.
-
-Eleri Wyn waits across from him.
-
-She is younger than the word *keeper* made him expect. Forty perhaps, hair
-shaved close on one side, reading glasses repaired with green thread. She runs a
-seed library, a hospice garden, and the threshold room behind her kitchen. She
-calls none of these sacred.
-
-"If you cannot name what brings you back," she says, "you are only naming what
-pulls you in."
+"If you cannot name what brings you back," she says, "you are only naming what pulls you in."
 
 Eli writes:
 
 **A PERSON IN THE ROOM ASKS ME TO RETURN.**
 
-Eleri reads it.
+Morwen reads it.
 
 "Which person?"
 
@@ -5783,21 +5766,21 @@ Eleri reads it.
 
 "Even if you think you are speaking to your mother?"
 
-His hand tightens around the pen.
+His hand tightens around the pencil.
 
 "Yes."
 
 "Even if she asks you to remain?"
 
-The room goes quiet.
+The halt goes quiet. A goods train not scheduled for another forty years sounds, somewhere, like the wrong kind of silence.
 
 "Yes."
 
-Eleri turns the form toward Wren.
+Morwen turns the sheet toward Wren.
 
 "Will you certify that?"
 
-Wren does not take the pen.
+Wren does not take the pencil.
 
 "I can witness what he said. I cannot certify what he will choose altered."
 
@@ -5807,7 +5790,7 @@ She turns to Rasel.
 
 "Will you?"
 
-"I oppose the procedure."
+"I oppose this."
 
 "Also good."
 
@@ -5815,13 +5798,9 @@ She turns to Rasel.
 
 "I did not ask for it."
 
-Somchai checks Eli's pupils beside the window.
+Somchai checks Eli's pupils against the platform light.
 
-He arrived that morning with the mobile clinic's western handoff, three hours
-of sleep, and a bag containing everything the regional surgeon sent back with
-Aylin after the operation. Aylin herself remains in recovery under Nadiya's
-archive network. Her consent statement traveled; her body did not become proof
-of gratitude by following.
+He arrived that morning with the mobile clinic's western handoff, three hours of sleep, and a bag containing everything the regional surgeon sent back with Aylin after the operation. Aylin herself remains in recovery under Nadiya's archive network. Her consent statement traveled; her body did not become proof of gratitude by following.
 
 "Headache now?" Somchai asks.
 
@@ -5837,9 +5816,9 @@ of gratitude by following.
 
 "Vision?"
 
-"Edges shimmer in this room."
+"Edges shimmer near the interval."
 
-"Before the cup?"
+"Before you enter it?"
 
 "Yes."
 
@@ -5861,36 +5840,27 @@ Rasel watches.
 
 The exchange has become familiar enough that neither needs anger.
 
-Eleri lays out the abort rules.
+Morwen lays out the abort rules.
 
-One spoken phrase: **come to the room**.
+One spoken phrase: **come to the platform**.
 
 One physical signal if speech fails: pressure twice against Eli's right palm.
 
-No witness follows him into the contact. No field read. No restraints unless he
-is injuring himself or another person. If Somchai ends the procedure, it ends.
-If Eleri ends it, it ends. If Eli asks to continue after either has ended it,
-the answer remains no.
+No witness follows him into the contact. No field read. No restraints unless he is injuring himself or another person. If Somchai ends it, it ends. If Morwen ends it, it ends. If Eli asks to continue after either has ended it, the answer remains no.
 
-"What is in the cup?" Rasel asks.
+"What is the interval, exactly?" Rasel asks.
 
-Eleri gives him a printed composition and safety sheet.
+Morwen hands him nothing, because there is nothing printed to hand.
 
-He reads it twice.
+"Cuno's geometry says it is a carried piece of a route that used to run through this county before it ran anywhere else. It does not come with a composition sheet."
 
-"This combination is not standardized."
+"Then you cannot bound the dose."
 
-"Correct."
+"There is no dose. There is a duration, and I can end that."
 
-"The active concentrations vary by harvest."
+"Unmeasured exposure to an unrecorded field."
 
-"Tested range is attached."
-
-"Long-term neurological effects?"
-
-"Unknown."
-
-"Then no."
+"Yes."
 
 Eli looks at his father.
 
@@ -5904,20 +5874,17 @@ The words hurt Rasel as they leave him. He keeps them.
 
 "You can."
 
-"And you may still drink."
+"And you may still enter it."
 
 "Yes."
 
-Rasel sits down.
+Rasel sits down on the platform edge.
 
 This is family without command. It feels nothing like safety.
 
-Eleri does not offer the cup yet.
+Morwen does not release the interval yet.
 
-"The interval from Men-an-Tol enters the peat sink," she says. "We have living
-growth records, seed correspondences, and altered-state accounts. None proves
-your mother is reachable. None proves the person you meet is historical rather
-than expectation, ground memory, plant effect, or injury."
+"It enters from Men-an-Tol through ground that has carried grief, transmission, and ordinary weather for longer than anyone's records," she says. "We have route accounts, maintenance logs, and other people's altered states. None proves your mother is reachable. None proves the person you meet is historical rather than expectation, ground memory, or injury."
 
 "I understand."
 
@@ -5925,132 +5892,41 @@ than expectation, ground memory, plant effect, or injury."
 
 He does.
 
-Expectation. Ground memory. Plant effect. Injury.
+Expectation. Ground memory. Injury.
 
 Wren adds, "Wanting."
 
 "Wanting," Eli says.
 
-Only then does Eleri place the cup in his hand.
+Only then does Morwen open her hand.
 
-It smells of wet bark and a medicinal bitterness his body recognizes without
-memory.
+The interval sits in her palm the way a held breath sits in a chest — nothing visible, a pressure the room adjusts around.
 
 "You can still refuse," she says.
 
 Adapa at the gate. Warning and offer carried through one authority.
 
-This room has arranged disagreement around him instead: keeper, nurse, father,
-Wren, his own written exit. No source controls both the danger and the promise.
+This platform has arranged disagreement around him instead: keeper, nurse, father, Wren, his own written exit. No source controls both the danger and the promise.
 
-He drinks.
+He takes it.
 
 ---
 
-Nothing happens for twenty-seven minutes.
+Nothing happens for the length of one breath, and then it is not nothing.
 
-Eli sits on a woven mat in the threshold room while rain reaches the roof in
-small waves. Eleri sorts seed envelopes. Somchai reads a clinic inventory.
-Wren repairs a strap on Rowan's route case. Rowan is in the orchard checking
-the western boundary markers. Rasel watches everybody not watching Eli.
+The platform's old paint, the rail spur's rust, the halt's ordinary Tuesday quality — all of it stays exactly where it is, and underneath it something opens that has no size, because it was never built to be entered by a body.
 
-The bitterness stays.
+For less than a held breath, an old man kneels in water while soldiers cross a strait behind him.
 
-It moves from tongue to throat to stomach without becoming metaphor.
+Lovernios. Not the fox pillar, not proof of one lineage — a person in his sixties with mud beneath every nail, listening to plants by refusing to make their responses human. A girl beside him carries a wrapped seed catalog into peat that will keep it and forget her name for it. The elder's grief is that knowledge may survive him by becoming unreadable.
 
-"I may have been fooled," Eli says.
-
-"Useful outcome," Eleri answers.
-
-Then the floor acquires depth — not downward, but through.
-
-The woven mat separates into reeds, each reed into fibers, each fiber into
-cells holding water under pressure. The pressure answers the wet soil beneath
-the house. Roots enter that soil in thousands of blind decisions—toward
-moisture, away from rot, around stone, into old channels opened by organisms
-that never saw the orchard.
-
-No central tree commands them.
-
-The room is held up by negotiations too slow for human attention.
-
-Eli closes his eyes.
-
-The roots remain.
-
-He feels the seed envelopes behind him as stored futures, each asleep according
-to different terms. Cold. Scar. Fire. Gut. Burial. Some must be damaged before
-they open. Some wait years for a relationship the seed cannot name.
-
-His stomach contracts.
-
-Somchai moves the basin within reach without touching him.
-
-Eli vomits.
-
-The world does not become less profound.
-
-"Head?" Somchai asks.
-
-"Open."
-
-"Pain?"
-
-"Four."
-
-"Vision?"
-
-"Roots."
-
-"Do you want to continue?"
-
-"Yes."
-
-Present consent. Not the one signed at the table.
-
-Somchai records it.
-
-The orchard begins to move west, not through motion but through growth
-supplying direction: trees leaning from salt, moss thickening on one face of
-stone, fungal threads crossing the remains of an old drain. The living map
-does not draw a line. It shows what relationships survive along one.
-
-The route enters peat.
-
-An old man kneels in water while soldiers cross the strait.
-
-Lovernios.
-
-The name is fox and not the fox pillar and not proof of one lineage. A person
-in his sixties with mud beneath every nail, listening to plants by refusing to
-make their responses human.
-
-Beside him, a girl carries a wrapped seed catalog.
-
-Nia. Nine years old. Frightened enough to become precise.
-
-The old man shows her where the bog accepts weight and where it opens. They sink
-the catalog beneath peat because armies can seize a library above ground and
-cannot inventory what living decay has agreed to hide.
-
-He does not know whether she will return.
-
-She does not know whether the seeds will live.
-
-Transmission without certainty. Keeping that may look like loss.
-
-The scene fills Eli at a resolution no memory should possess: cold around
-Lovernios's ankles, smoke across the water, Nia's breath held while the packet
-goes under, the elder's grief that knowledge may survive him by becoming
-unreadable.
+The scene does not resolve. It touches and is gone, the way a hand brushes a door on the way past it without opening it.
 
 Eli is not Lovernios.
 
-The distinction remains even at depth.
+The distinction remains even at that speed.
 
-He reaches toward the seed packet.
-
-Another contact finds him first.
+Another contact finds him before he can reach after the first.
 
 Static.
 
@@ -6060,7 +5936,7 @@ A woman counting under her breath.
 
 One-two. Pause. One-two.
 
-The roots gather the signal without obeying it.
+The interval carries the signal without obeying it.
 
 Maren opens her eyes.
 
@@ -6068,40 +5944,33 @@ Maren opens her eyes.
 
 She is older.
 
-Eli reaches for reciprocity and finds only pressure: her counting, the electrode
-bite, a face that does not settle on him as if he were a person in the room.
+Eli reaches for reciprocity and finds only pressure: her counting, the electrode bite, a face that does not settle on him as if he were a person in the room.
 
 He says *Mum* into the channel.
 
 Nothing answers that name.
 
-What arrives instead are fragments without a mutual lock—recognition-hunger
-without a conversation that can hold it.
+What arrives instead are fragments without a mutual lock — recognition-hunger without a conversation that can hold it.
 
-*Babu*—the childhood name lands inside his body rather than through sound, then
-slides away as if she had spoken toward someone who might once have been him.
+*Babu* — the childhood name lands inside his body rather than through sound, then slides away as if she had spoken toward someone who might once have been him.
 
 "I'm coming," he says.
 
 The channel does not confirm receipt.
 
-*Don't*—pain, house, promise—words arrive incomplete. He fills them with what
-he wants: *I'll bring you home.* The refusal that follows is hers, or his fear
-wearing her voice: do not promise a house.
+*Don't* — pain, house, promise — words arrive incomplete. He fills them with what he wants: *I'll bring you home.* The refusal that follows is hers, or his fear wearing her voice: do not promise a house.
 
 "Dad is alive."
 
-For one moment the signal softens—hope without address—then hardens again.
+For one moment the signal softens — hope without address — then hardens again.
 
 *Inside the correction.*
 
 "Where?"
 
-No map, no room number — only the sense of a living operator wired into
-ground, and a direction west of the tourist stones.
+No map, no room number — only the sense of a living operator wired into ground, and a direction west of the tourist stones.
 
-Stonehenge flares as geometry, not the center — something inhabited beyond
-it, Avebury as felt pressure, not a shared plan.
+Stonehenge flares as geometry, not the center — something inhabited beyond it, Avebury as felt pressure, not a shared plan.
 
 "We're coming."
 
@@ -6111,8 +5980,7 @@ What she needs arrives as one clear word before the rest frays:
 
 *Release.*
 
-Operator. Classifier. Mother. Do not keep any of them running because you want
-one more answer.
+Operator. Classifier. Mother. Do not keep any of them running because you want one more answer.
 
 "I can't," he says to a face that may not hear him.
 
@@ -6122,20 +5990,17 @@ one more answer.
 
 The signal constricts.
 
-Somebody has noticed. Lang's first room. Charkha's ownership. Anika's useful
-distinction between those facts. Names without a mutual briefing—leaked
-pressure, not a dialogue they finish together.
+Somebody has noticed. Lang's first room. Charkha's ownership. Anika's useful distinction between those facts. Names without a mutual briefing — leaked pressure, not a dialogue they finish together.
 
 "Mum—"
 
-"Come to the room," Somchai says.
+"Come to the platform," Somchai says.
 
-The phrase enters from far away.
+The phrase arrives from far away.
 
 Eli holds the contact.
 
-He cannot tell whether she holds him back. The channel does not prove she saw
-him. Recognition-hunger is not reunion.
+He cannot tell whether she holds him back. The channel does not prove she saw him. Recognition-hunger is not reunion.
 
 "I just found you."
 
@@ -6143,25 +6008,21 @@ Two pressures touch Eli's right palm.
 
 The physical signal.
 
-Maren's face begins to break into root, electrode, peat water, memory.
+Maren's face begins to break into interval, electrode, static, memory.
 
-"I love you," Eli says into a closing interval.
+"I love you," Eli says into a closing channel.
 
 No answering *I know*. Only cut.
 
-Charkha, or the apparatus wearing that function, severs before reciprocity can
-lock.
+Charkha, or the apparatus wearing that function, severs before reciprocity can lock.
 
-Eli returns vomiting into the basin with Somchai's fingers at his wrist and
-Rasel saying Maren's name as if repetition can reopen a channel.
+Eli returns with Somchai's fingers at his wrist and Rasel saying Maren's name as if repetition can reopen a channel.
 
 ---
 
 Daylight keeps almost none of it.
 
-Eli remembers Nia's hands around the seed packet. Lovernios in peat. Roots as
-decisions without a master. Maren's face half-turned. The word *release*. The
-hunger of almost touching someone who did not fully lock onto him.
+Eli remembers Nia's hands around the seed packet. Lovernios in peat. Maren's face half-turned. The word *release*. The hunger of almost touching someone who did not fully lock onto him.
 
 The rest drains when he tries to report it.
 
@@ -6185,10 +6046,9 @@ Rasel asks for exact phrases.
 
 "I don't know."
 
-Rasel stands too quickly and knocks the consent forms from the table.
+Rasel stands too quickly and nearly loses his footing on the platform edge.
 
-"You entered without an instrument and returned with the only live contact in
-ten years reduced to *I don't know*."
+"You entered without an instrument and returned with the only live contact in ten years reduced to *I don't know*."
 
 Eli's head hurts too much for anger to become useful.
 
@@ -6200,9 +6060,9 @@ Eli's head hurts too much for anger to become useful.
 
 "Convenient."
 
-Somchai rises from the sink.
+Somchai steps between them.
 
-"Leave the room."
+"Leave it."
 
 Rasel looks at him.
 
@@ -6212,13 +6072,11 @@ Rasel looks at him.
 
 "Those are not exclusive."
 
-"No. Mine governs this room."
+"No. Mine governs this platform."
 
-Rasel leaves.
+Rasel walks off toward the car, not far, not out of sight.
 
-The door closes.
-
-Eli lies back on the mat.
+Eli lies back against a stacked pallet, the closest thing to a bed the halt provides.
 
 "Did I violate the abort?" he asks.
 
@@ -6236,52 +6094,19 @@ Eli lies back on the mat.
 
 "And?"
 
-"Wren. Eleri. Myself."
+"Wren. Morwen. Myself."
 
 "Good."
 
-Somchai dims the light.
+Somchai lets the platform light dim on its own timer.
 
-"Do not turn guilt into another altered state. Sleep."
+"Do not turn guilt into another altered state. Rest while the road lets you."
 
 ---
 
-The changeling record is kept in two boxes.
+Outside, Rowan and Wren are checking the car's western tires against the coming route.
 
-Eli reads them the following evening because sleep has reduced the pain to
-something he can carry.
-
-The first box contains testimony about a child who disappeared near weak
-ground and returned changed: speech altered, sensory responses different,
-memories inconsistent. Real taking or neurological event, ground exposure or
-trauma—the archive refuses to select one explanation.
-
-The second contains the record of another child, born years later with a
-disabled body and no disappearance at all. Neighbors called him changed. His
-family subjected him to ordeals meant to force the supposed other being out.
-He died.
-
-One story may preserve an extraordinary event.
-
-The same story killed an ordinary child.
-
-Eleri places the boxes side by side.
-
-"A true mystery does not make every accusation true," she says.
-
-Eli thinks of carriers, Extras, changelings, healers, gods.
-
-Categories feeding on the one case that seems to justify them.
-
-"Why keep both?"
-
-"Because people who keep only the wonder become cruel. People who keep only the
-cruelty become unable to recognize what happened."
-
-Outside, Rowan and Wren are hanging washed route cloths on the orchard line.
-
-Their coordination is visible in small things. Wren clips the windward corners.
-Rowan follows with the lower ties. Neither asks where the other will move.
+Their coordination is visible in small things. Wren checks the near side; Rowan follows with the far. Neither asks where the other will move.
 
 Eli feels the jealousy again.
 
@@ -6289,12 +6114,11 @@ This time he knows its name is incomplete.
 
 He goes outside.
 
-Wren sees him approach and gives Rowan the remaining clips.
+Wren sees him approach and hands Rowan the tire gauge.
 
 "Walk?" she asks.
 
-They follow the orchard wall until the house is out of hearing but not out of
-sight.
+They follow the rail spur until the halt is out of hearing but not out of sight.
 
 "You and Rowan," Eli says.
 
@@ -6310,7 +6134,7 @@ The direct answer hurts less than a merciful one would.
 
 "I intend to continue if she does."
 
-The orchard branches move behind her.
+The spur's weeds move behind her.
 
 "Were you waiting for her?"
 
@@ -6336,8 +6160,7 @@ There. The actual fear.
 
 Wren takes time before answering.
 
-"Rowan and I are recognition. We know the grammar because we learned it
-together."
+"Rowan and I are recognition. We know the grammar because we learned it together."
 
 "And us?"
 
@@ -6351,8 +6174,7 @@ together."
 
 "I know."
 
-She does not tell him jealousy is ownership or that correct politics should
-remove it.
+She does not tell him jealousy is ownership or that correct politics should remove it.
 
 "I don't want you to stop," he says.
 
@@ -6366,12 +6188,9 @@ The statement surprises him.
 
 "How?"
 
-Wren looks toward the house where Rasel is trying to reconstruct Maren's signal
-from Eli's failed account.
+Wren looks toward the halt, where Rasel is trying to reconstruct Maren's signal from Eli's failed account.
 
-"You make me tell the truth in the present. Rowan knows who I was before I
-learned to turn every room into exits. You know the person doing it now and ask
-whether she wants to stop."
+"You make me tell the truth in the present. Rowan knows who I was before I learned to turn every room into exits. You know the person doing it now and ask whether she wants to stop."
 
 "That's what belongs to us?"
 
@@ -6383,8 +6202,7 @@ whether she wants to stop."
 
 The jealousy does not vanish.
 
-It changes from evidence of rejection into a feeling asking whether he has a
-place.
+It changes from evidence of rejection into a feeling asking whether he has a place.
 
 Wren has answered without making the place exclusive.
 
@@ -6392,39 +6210,23 @@ He holds out his hand.
 
 She takes it, not as a replacement home but as a present choice.
 
-At the end of the orchard, Rowan waits beside Eleri's western markers. She does
-not look away from their joined hands and does not approve them.
+At the halt, Rowan waits beside the car, checking Morwen's maintenance sketch against the road ahead. She does not look away from their joined hands and does not approve them.
 
 She simply remains.
 
-Wren asked her to stay behind and close the threshold accounts before the
-consortium's field traffic reaches Stonehenge first. It was the right call.
-Rowan told her so.
+Morwen asked her to stay back a moment to give Callum's still-unsteady field one more read from someone he trusted, while the others loaded the car. It was the right call. Rowan told her so.
 
-Alone in the stewardship office afterward, Rowan writes a Weft letter to a
-house she has not corresponded with in a year. She writes three paragraphs of
-route accounting — ledger balances, a threshold reassignment, a note about
-Eleri's consent register — the part any house would expect and file without
-a second read.
+Alone by the car for those few minutes, Rowan writes a Weft letter to a house she has not corresponded with in a year. She writes three paragraphs of route accounting — ledger balances, a corridor reassignment, a note about the interval's provenance — the part any house would expect and file without a second read.
 
-Then, on a second sheet she will not send, she writes what the accounting
-does not carry: that she is glad Wren is safe and glad Wren is not here; that
-staying behind was correct and still costs something no correctness repays;
-that she has done this specific arithmetic before, in a different house,
-under a different name, and it did not get easier for the practice.
+Then, on a second sheet she will not send, she writes what the accounting does not carry: that she is glad Wren is safe and glad Wren is not here; that staying a moment longer was correct and still costs something no correctness repays; that she has done this specific arithmetic before, in a different house, under a different name, and it did not get easier for the practice.
 
 She does not sign it to anyone. She reads it once.
 
-She folds the second sheet inside the first and burns only the second before
-sealing the route letter for the morning post — the routine part sent, the
-rest kept long enough to be true and then let go before it could become a
-claim on anyone.
+She folds the second sheet inside the first and burns only the second before sealing the route letter for the morning post — the routine part sent, the rest kept long enough to be true and then let go before it could become a claim on anyone.
 
-Beyond her, every seed compass and growth ledger has changed during the
-afternoon.
+Beyond her, Morwen's own maintenance ledger has changed during the hour.
 
-The living route points southeast across the island toward the old transmission
-station at Stonehenge.
+The corridor points southeast toward the old transmission station at Stonehenge.
 
 Hostile field traffic is already gathering there.
 
@@ -6437,7 +6239,7 @@ the break-room refrigerator. Eli is absurdly relieved.
 
 The stones rise beyond all of it.
 
-Gareth Llewelyn lets them in because Eleri called the local stewardship group,
+Gareth Llewelyn lets them in because Morwen called the local stewardship group,
 the stewardship group called his supervisor, and his supervisor said no in an
 email copied to enough people that Gareth decided the decision had become
 political.
@@ -6503,7 +6305,7 @@ Somewhere beyond the visible monument, Maren's signal is pulling taut.
 
 "Based on what?"
 
-"The field cadence from Anglesey."
+"The field cadence from the interval."
 
 "It changed twice on the road."
 
@@ -8019,7 +7821,7 @@ So does freedom.
 
 The station network reconnects anyway.
 
-Sparse lines wake from Avebury through Anglesey, Pömmelte, Göbekli, the
+Sparse lines wake from Avebury through Rollright, Pömmelte, Göbekli, the
 Mesopotamian archive, Sanxingdui, Thailand, Pelangi Reach. Each station
 forwards the bounded wisdom carried by its artifact. None becomes the source
 of all the others, and no crossing turns their different teachings into one

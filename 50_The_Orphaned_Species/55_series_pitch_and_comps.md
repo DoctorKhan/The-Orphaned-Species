@@ -101,6 +101,8 @@ the recipient's stated submission requirements.
 
 **Prose comps** (sentence-level register — LOCKED 2026-07-29, do not calibrate voice to the structural comps' plainness): **N.K. Jemisin** (*The Broken Earth*) for dense, morally complex worldbuilding delivered through intimate close-POV without exposition dumps; **Madeline Miller** (*Circe*) for myth handled at embodied, human scale rather than grand distance; **David Mitchell** (*Cloud Atlas*, *The Bone Clocks*) for a millennia-spanning interconnected cosmology that trusts the reader to hold terminology across a long arc; **Emily St. John Mandel** (*Station Eleven*) for restrained, damaged-but-functioning post-collapse texture. These four govern the actual sentence — not Brown's transparent, utilitarian delivery style.
 
+**Political/governance comps — Books III–IV specifically (added 2026-08-10):** III's back half and IV shift from I–II's pursuit-thriller content toward political and solutions drama — federation-building, a public hearing, decentralized-vs-centralized governance argued through lived consequence, ecological resettlement policy. **Kim Stanley Robinson** (*The Ministry for the Future*, the Mars trilogy) for systemic, policy-literate crisis response that stays procedural and consequence-driven rather than romanticized; **Ursula K. Le Guin** (*The Dispossessed*) for communal/anarchist governance dramatized through a protagonist's friction with competing systems rather than thesis dialogue. Neither governs sentence-level register — the four prose comps above still do — but the structural comps (*Da Vinci Code*, *National Treasure*) describe I–II's engine, not what III–IV are actually delivering by then.
+
 **Word count target:** Books I–IV currently (~114k drafted; trade-novel length TBD per volume). The initial query sells Book I and identifies the planned four-volume civic arc only as required. Books V–X form the later **Lifetime Orchestra** architecture (`SERIES_STRUCTURE.md`; `62_lifetime_orchestra.md`) and stay out of first-contact copy unless specifically requested. Do not pitch the civic arc as a trilogy.
 
 ---
@@ -230,7 +232,7 @@ Awakening spreads through threshold houses, river cooperatives, and open grounds
 
 ## Clue-trail spine (pitch-facing)
 
-Pelangi Reach → Malacca → Thailand → **Sanxingdui / Rasel** → Egypt brief hinge
+Pelangi Reach → Malacca → Thailand → **Sanxingdui / Rasel** → Egypt brief Turning
 or packet *(not a chapter)* → Mesopotamia / Göbekli → holding / Hassan →
 **Pömmelte (+ church rhyme)** → **Rollright/Men-an-Tol one corridor** →
 **Anglesey threshold** → **Stonehenge→Avebury climax run** / Maren →
@@ -420,7 +422,7 @@ Clock A = **find Maren** (parent rescue motor). Clock B = Wren-network / registr
 
 | Ch | Clock A (rescue / Maren) | Clock B (network / registry / Sol) | Antagonist job | Cost → next |
 |----|--------------------------|-------------------------------------|----------------|-------------|
-| 1 | Westbound clue / Egypt hinge → archive door | Wren bills displacement; usefulness-as-love | Mandate/corridor pressure on exit | Trust taxed into Ch 2 |
+| 1 | Westbound clue / Egypt Turning → archive door | Wren bills displacement; usefulness-as-love | Mandate/corridor pressure on exit | Trust taxed into Ch 2 |
 | 2 | Folly + Maren checksum; Map → Göbekli window | Curator boundary; Wren prioritizes Hassan route | Anika legal hold / outbound route | Anika has the outbound; Ch 3 races a seal |
 | 3 | Selection scar; Hassan convoy link | People over complete activation record | Consortium seal / security movement | Activation record lost; clinic door opens |
 | 4 | Patient IDs Thrace hold; Hassan alive | Somchai refuses urgency-as-permission | Security wants registered healer | Slower west; rumor begins |

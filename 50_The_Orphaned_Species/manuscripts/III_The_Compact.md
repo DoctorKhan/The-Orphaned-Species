@@ -1478,8 +1478,11 @@ before policy remembers it has a jurisdiction."
 
 She folds the note and puts it into her apron pocket.
 
-"You are doing the same thing with routes," Mei says. "Not the policies. The
-people who arrive before the paperwork."
+Three mainland suppliers have already pulled the route without sending a replacement. The compound kitchen has held for twelve days on reserves and goodwill, but goodwill does not fill a pantry. Two regular caterers have already cancelled their standing orders, citing the risk review by name. A third asked whether the kitchen would still be operating when their next contract came due and did not wait for an answer. The port authority has asked the compound to verify that every cook on the roster has a current medical certificate, which is the kind of condition that sounds reasonable until you apply it to a kitchen that has been running on volunteers since the boats arrived. Mei has not told Eli any of this. She has been making the same portions, serving them at the same hours, and letting the loss eat quietly into the day between prep and service.
+
+She says nothing about the Singapore ledger she kept before the Turning — a vendor list, a sanitation schedule, a row of small contracts that somebody in the compound office is now calling suspicious. The person who ran that kitchen before this one is the same person who ran it while authorities asked at the desk and Babaji moved paper in the back. Feeding people is the thing that happens before policy remembers it has a jurisdiction.
+
+"You are doing the same thing with routes," Mei says. "Not the policies. The people who arrive before the paperwork."
 
 Wren says nothing.
 
@@ -4450,7 +4453,7 @@ Eli wants to begin with command communications.
 The council assigns him gutter clearing.
 
 He spends a morning above Dormitory Two with Bima, three local carpenters, two
-former Extras, and a woman who flew cargo drones before the Hinge and now
+former Extras, and a woman who flew cargo drones before the Turning and now
 refuses every request to call her flight experience a military asset.
 
 Bima has brought the green-thread harness.
@@ -4594,7 +4597,7 @@ it.
 Qiao's case arrives the following morning under three incompatible custody
 records.
 
-One says the object came from a private collection seized after the Hinge.
+One says the object came from a private collection seized after the Turning.
 One says it was recovered from a Charkha devolution archive.
 The third begins twenty-seven years later than the other two and calls the
 object a replica without naming an original.
@@ -5851,11 +5854,9 @@ argue ideology; she collects signatures for a memo that would put Eli back at
 the top of the chart "pending certification risk." Wren removes the notice,
 photographs it, and files the photograph as evidence of the job itself.
 
-Malia refuses to call the hearing hoʻoponopono.
+Malia names the hearing hoʻoponopono.
 
-"That is a practice with its own people, relationships, and responsibilities,"
-she says before the doors open. "This is a public inquiry built by a compact
-three weeks old."
+"That is a practice with its own people, relationships, and responsibilities," she says before the doors open. "This is the same thing under a public compact three weeks old. We are here to put something right in relationship, not to hand the work to a sentence."
 
 The Union facilitator removes the word from the program.
 
