@@ -101,7 +101,17 @@ the recipient's stated submission requirements.
 
 **Prose comps** (sentence-level register — LOCKED 2026-07-29, do not calibrate voice to the structural comps' plainness): **N.K. Jemisin** (*The Broken Earth*) for dense, morally complex worldbuilding delivered through intimate close-POV without exposition dumps; **Madeline Miller** (*Circe*) for myth handled at embodied, human scale rather than grand distance; **David Mitchell** (*Cloud Atlas*, *The Bone Clocks*) for a millennia-spanning interconnected cosmology that trusts the reader to hold terminology across a long arc; **Emily St. John Mandel** (*Station Eleven*) for restrained, damaged-but-functioning post-collapse texture. These four govern the actual sentence — not Brown's transparent, utilitarian delivery style.
 
-**Word count target:** Books I–IV currently (~114k drafted; trade-novel length TBD per volume). The initial query sells Book I and identifies the planned four-volume civic arc only as required. Books V–X form the later **Lifetime Orchestra** architecture (`SERIES_STRUCTURE.md`; `62_lifetime_orchestra.md`) and stay out of first-contact copy unless specifically requested. Do not pitch the civic arc as a trilogy.
+**Word count target — LOCKED 2026-08-10:** governing per-volume target for II–IV is **density parity with Book I** (~43,600 words), not a generic trade-novel word count.
+
+| Book | Words (drafted) | Manuscript pages (~250 wpp) | % of Book I parity |
+|---|---:|---:|---:|
+| I — The Breach | ~43,600 | ~174 | 100% (reference) |
+| II — The Descent | ~37,100 | ~148 | 85% |
+| III — The Compact | ~30,900 | ~124 | 71% |
+| IV — The Court of Threads | ~28,900 | ~116 | 66% |
+| **Total drafted** | **~140,400** | **~562** | — |
+
+The initial query sells Book I and identifies the planned four-volume civic arc only as required. Books V–X form the later **Lifetime Orchestra** architecture (`SERIES_STRUCTURE.md`; `62_lifetime_orchestra.md`) and stay out of first-contact copy unless specifically requested. Do not pitch the civic arc as a trilogy.
 
 ---
 
