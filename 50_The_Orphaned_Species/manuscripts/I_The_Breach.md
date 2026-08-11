@@ -166,19 +166,20 @@ The scold passes; Mei notices his expression and goes quiet, then sits beside hi
 
 She turns the photograph face-down.
 
-"There is something about that night. You were too young to worry about it, but I knew I would have to tell you some day."
+"There is something about that night. You were too young to carry it then. I
+should have told you sooner."
 
 She waits until he finishes chewing and swallows.
 
-"That trip was never a holiday," she says.
-
 Her voice stays low—not for the empty tables. Eli sets down his fork. He does not trust his hands with it anymore.
 
-"That night you were small. Your mother was running with work they wanted buried. Rasel was running with her. When the handoff broke, they took them both."
+"That trip was never a holiday," she says. "They asked me to keep you for one
+night. They said they would collect you in the morning."
 
-"Took him where."
+"They left me here."
 
-"Different passports, different vans. Your mother one way, your father another. They were alive when the vans left."
+"For one night. They carried their bags toward a rendezvous. They never came
+back."
 
 Eli goes still. Then the anger comes up hot and plain.
 
@@ -188,21 +189,39 @@ Eli goes still. Then the anger comes up hot and plain.
 
 "Years." His voice is too loud for the terrace; he doesn't care. "You let me sleep in his garden and you let me think he was dead. Babaji knew. You knew. Why."
 
-Mei does not flinch. "Because you were a child on a linked file and the lie was the only shelter anyone had left." A beat. "I am not sorry we fed you. I am sorry tonight is the first night you got the truth with your meal."
+Mei does not flinch. "Babaji made me promise not to tell you. He had closed the
+file before the questions could reach you. If your parents had left by choice,
+you would have gone looking. If they had been taken, the people looking for
+them might have found you first."
+
+She folds her hands. "I am not sorry we kept you here. I am sorry we made you
+live inside the story that we did."
 
 That lands wrong in his chest—grief and fury braided so tight he can't pull one strand free. His whole childhood a paperwork trick. Beyond what Babaji told her, Mei has nothing.
 
-He sees them split without wanting to—not the vans, not the guns, only the hands: his mother's fingers on his sternum; his father's palm on the back of his neck, steering him toward the door. *Go with the woman who knows the route.* He was small. He went. The memory stops there on purpose.
+He sees the last morning without wanting to: his mother's fingers fastening the
+button he had missed, her palm resting against his sternum until he looked at
+her; Rasel's hand at the back of his neck. Their bags waited by the door. *Be
+good to your Antie Mei, Babu. We'll be back in the morning.* The memory stops
+there.
 
-"And my mother." It is not quite a question. "She was in the other van. Was she—"
+"And my mother." It is not quite a question. "Did anyone find her?"
 
-"She was alive when they separated them." Mei's voice softens, and that is worse. "Maren Holt. Western papers—not their chain. Babaji never learned where either van went. Nobody on this reach knows what happened after." She looks at him finally. "I am telling you what I was told. I cannot promise you the rest."
+"I don't know where they went." Mei's voice softens, and that is worse. "No one
+on this reach saw them after they left. Babaji never found a body and never
+found a reliable witness."
 
 "So the file says dead." Eli hears his own voice from somewhere outside himself. "So I could live."
 
-"So you could live." Mei's hands flatten on the table. "A child on the linked file is a beacon. They split you off the record. Orphan on paper. Stolen child in truth."
+"So you could live." Mei's hands flatten on the table. "A child left on a linked
+file becomes a beacon. They split you off the record. Orphan on paper. Stolen
+child in truth."
 
-"I don't know what word belongs to you, boy." She says *boy* the way Rasel might have—home tongue in the throat, not English for the record. "I'm telling you now because tomorrow night you sail on Suresh's boat—cash, forward pays. You are still here because we lied for you, but the reach is getting narrow, Eli. They want this whole strait closed. You have to leave."
+"You were small," Mei says. The word comes out in the old pronunciation, the
+one Rasel used when he called him in from the garden. "I am telling you now
+because tomorrow night you sail on Suresh's boat. Cash in hand. The harbor
+office has started matching passenger lists to old intake files. Two boats were
+turned back this week. The strait is closing, Eli. You have to leave."
 
 She softens one more inch—kitchen warmth, not a lead. "Your mother had work up the strait sometimes. Singapore. Once she brought you along as a baby—came back talking about glass and trees that never dropped their flowers. I don't know more than that. She was tired and happy and she wanted you to see something pretty." She shrugs, as if the detail is only color for the grief. "Eat. Don't make a map of my leftovers."
 
