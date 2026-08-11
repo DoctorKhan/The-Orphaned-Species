@@ -6202,13 +6202,22 @@ Wren looks toward the halt, where Rasel is trying to reconstruct Maren's signal 
 
 "I want a future with you that neither of us already remembers."
 
+After she says it, her eyes search his face. He holds still and lets her find
+whatever answer has reached him.
+
 The jealousy does not vanish.
 
 It changes from evidence of rejection into a feeling asking whether he has a place.
 
 Wren has answered without making the place exclusive.
 
-He holds out his hand.
+Her gaze holds his, drops to his mouth, then returns to his eyes.
+
+"May I?"
+
+"Yes."
+
+She kisses him once. When she steps back, he holds out his hand.
 
 She takes it, not as a replacement home but as a present choice.
 

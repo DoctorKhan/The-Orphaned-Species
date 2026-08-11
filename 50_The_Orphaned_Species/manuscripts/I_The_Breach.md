@@ -226,7 +226,7 @@ A young woman waits at the foot of the stair, dark hair drawn into a sleek knot,
 
 "You're Rasel's boy." She smiles and waits, as if he might object. "If you'd come up, please. Babaji is waiting."
 
-The words hit the same place Rasel used to when he said *Babu, come here*. Eli climbs behind her, past floors built for someone's honeymoon and now boarded, laundered, or lived in by four quiet men and a kettle.
+Eli climbs behind her, past floors built for someone's honeymoon and now boarded, laundered, or lived in by four quiet men and a kettle.
 
 Babaji sits by a window with the drapes half-drawn, automatic chess paused mid-game on a cheap magnetic set—the pieces Rasel hated and bought anyway because Eli kept losing them over the rail. He does not stand.
 
@@ -236,13 +236,24 @@ She scans it on a tablet and signs before Eli's fingers close on the paper. Baba
 
 "I run south before they walk the offices," Babaji says. "You run on Suresh's hull the same hour—Saturday, last light. Different vessels. Do not miss your window watching mine."
 
-Wren slides a call sheet across—forty-eight hours, cash at intake. "Worker lane. Not the other line. Show call Sunday—concert first, race after. I'm with you through Singapore. Please don't make me do it twice." A beat, flat as packing inventory: "When the crew breaks for the second set, wardrobe closet marked maintenance. Ninety seconds. Then you go back to cables." She does not explain. She does not look at him while she says it.
+Wren slides a call sheet across—forty-eight hours, cash at intake, the worker lane
+and Sunday call already underlined. "Worker lane. Not the other line. Show call
+Sunday—concert first, race after. I'm with you through Singapore. Ask now. Ask
+again at the gate if you need to." A beat, flat as packing inventory: "When the
+crew breaks for the second set, wardrobe closet marked maintenance. Ninety
+seconds. Then you go back to cables." She does not explain. She does not look at
+him while she says it.
 
 Friday is still in Eli's chest—Mei's terrace, both parents taken alive and then lost again—and his hands won't stay still on the table edge.
 
-Wren sets tea in front of him without asking. "You're not paying anyone back in this room." She returns to the tablet. "Eat something."
+Wren sets tea between his hands. "You're not paying anyone back in this room."
+She returns to the tablet. "Eat something."
+
+He folds both hands around the cup. Tea trembles against the rim.
 
 "Proceed," Babaji says.
+
+"He is," Wren says.
 
 The launch comes back. Halfway across the harbor Eli says, too loud, "They told me my father was dead."
 
@@ -282,7 +293,10 @@ A soft chime comes from the tablet in her bag. She ignores it. It chimes once mo
 
 "You're staring," she says, without turning her head.
 
-"Don't flatter yourself. You've got sail rope on your collar." There is no rope on her collar. It buys him half a second to look away first, which is the only reason he says it.
+"Don't flatter yourself. You've got sail rope on your collar."
+
+There is no rope. Wren's fingers touch her collar and stop. When her eyes return
+to his, color rises in her cheeks. He looks away first.
 
 She almost smiles—almost—and puts it away faster than she let it out, but not fast enough that he misses it.
 
@@ -362,9 +376,10 @@ Wren's hand finds his elbow—steadying, not romantic—and guides him off the p
 He tries. It helps a little. Not enough to feel wise.
 
 Maren used to count breaths with her fingers flat on his sternum. Wren's hand is
-at his elbow, thumb against the seam of his wet sleeve. His body startles before
-it finds the difference. He pulls back a half-inch too far. Wren notices. She
-takes her hand away and lets him walk on his own.
+at his elbow, thumb against the seam of his wet sleeve. At this distance he
+catches clean soap beneath the salt in her hair. His body startles before it
+finds the difference. He pulls back a half-inch too far. Wren notices. She takes
+her hand away and lets him walk on his own.
 
 Suresh's boat moves on without them—rice, limes, the blue tarp bundle, schedule kept—and does not look back, because looking back is a thing that gets noticed. Eli is on wet stone with Wren beside him, his tool roll, the chandlery paper Suresh pressed at the rail, and no skyline yet—only sheds and painted arrows telling bodies which zone they are leaving.
 
@@ -1028,7 +1043,12 @@ He counts the heat until it stops burning. Then he drinks.
 
 Eli learns to read Wren's work face before he learns anything else about her.
 
-She comes back to the platform at gray dawn salt-stiff and ordinary. She hands the boatman a parcel of shore food. She checks the two mooring knots she herself tied before leaving, checks them again, and then goes to stand alone at the rail for exactly as long as it takes to drink one cup of anything, facing the water like a woman reading a bill. Then she turns around and is operational, and the day begins.
+She comes back to the platform at gray dawn with her hair tied back any way it
+will hold, salt-stiff at her temples. She hands the boatman a parcel of shore
+food. She checks the two mooring knots she herself tied before leaving, checks
+them again, and then goes to stand alone at the rail for exactly as long as it
+takes to drink one cup of anything, facing the water like a woman reading a bill.
+Then she turns around and is operational, and the day begins.
 
 He doesn't ask. In three days on the platform he has learned the local law: information is freight. You don't take on cargo you can't carry safely.
 
@@ -1336,6 +1356,9 @@ And for three breaths it is fully real, the way the beautiful bait-field was rea
 "What do you want?" Wren asks.
 
 "You just said it."
+
+Wren looks at him. Her eyes search his face with an openness that makes the
+imagined coast feel close enough to smell.
 
 "I showed you relief. That's not the same thing."
 
