@@ -18,7 +18,7 @@ Trilogy maturation (`05`):
 
 | Volume | Dramatic question | Developmental move | Manual Override threshold |
 |---|---|---|---|
-| **I · Shattering** | Can Eli act without turning people into evidence? | **Remain yourself and choose the living** | Withstand charge; choose Hassan over Rasel's ring, then recover Rasel through Sanxingdui's distributed living route |
+| **I · Shattering** | Can Eli act without turning people into evidence? | **Remain yourself and choose the living** | Withstand charge; choose Hassan over Rasel's ring, then **refuse Rasel** through Sanxingdui's distributed living route |
 | **II · Descent** | Can Eli **rescue and release** his mother without possessing her story? | **Remain yourself in relationship; release** | **Relational/web:** hold grief without possession; Maren rescued and released; awakening spreads |
 | **III · The Compact** | Can free communities connect without creating a new center that owns them? | **Coordinate, then disperse** — hero surface; things are not what they seem | **Civilizational:** temporary authority ends after necessity; coexistence survives attack and dispute |
 | **IV · Court of Threads** | Can institutions survive crisis without turning emergency roles into permanent identities or inherited status? | **Soft over hard; middle way under pressure** | **Continuity:** second relinquishment; Living Way / Taoist maturity; *perhaps there is a middle way*; child inherits no crown |
@@ -198,7 +198,7 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 - Mid-Vol I: **Thailand** — **choose people, lose clean agricultural evidence**; **rice band + sluice + spray/burn maps** — connection leap (*the land is reading*) that looks like magic to the cooperative; temple breath and Pai memory Turning — **self-compassion and self-acceptance bear fruit**, while Wren's personal witness helps him recognize fear, shame, grief, and want without converting them into performance; personal Manual Override begins to hold under pressure.
 - End Vol I: **Sanxingdui** — recognize the Tree of Life as distributed living
   relation, complete the personal Manual Override through unsynchronized consent,
-  and recover Rasel; **Wren burns her own standing to authenticate the civilian
+  and **refuse Rasel**; **Wren burns her own standing to authenticate the civilian
   evacuation**. The reunion exposes Rasel and Maren's compromised work instead of
   resolving abandonment.
   Göbekli's selection/control counter-image and the Nephilot question move to
@@ -516,7 +516,7 @@ Track each major choice against **Body / Family / Civilization**:
 | Choice | Body | Family | Civilization |
 |---|---|---|---|
 | Leave Pelangi Reach | Exhaustion, TBI | Kitchen crew, garden | Exposes refuge |
-| Vol I climax | Manual Override + Sanxingdui living route | Malai's cooperative, Luo/Qiao's conservation work, Rasel's sabotage | Rasel recovered; Wren displaced; distributed Tree recognized |
+| Vol I climax | Manual Override + Sanxingdui living route | Malai's cooperative, Luo/Qiao's conservation work, Rasel's coercion | Rasel **refused**; Wren displaced; distributed Tree recognized |
 | Release mother | Grief in chest | Orphaning complete | Node darkens |
 | Climax | Union act cost | Wren open-handed | Fire spreads; no throne |
 
@@ -544,7 +544,7 @@ Every reconnection that counts has the same shape, and a character can stall at 
 
 | Character | How they were severed | What reconnection actually is | Proof |
 |---|---|---|---|
-| **Eli** | Double orphan; exile from Bangladesh; TBI eating the memories; every faction offering him a *better* lineage | Rasel recovered at Sanxingdui as a specific man—gardener, loved, difficult, implicated—not a martyr; inheritance becomes practice rather than bloodline | Releases Maren in Book II; in Book III works beside Rasel without becoming his extension; the grafted garden is shared, altered, and healthier for it. **A line lives by being changed.** |
+| **Eli** | Double orphan; exile from Bangladesh; TBI eating the memories; every faction offering him a *better* lineage | Rasel **refused** at Sanxingdui as a specific man—gardener, loved, difficult, implicated—not a martyr; inheritance becomes practice rather than bloodline | Releases Maren in Book II; in Book III works beside Rasel without becoming his extension; the grafted garden is shared, altered, and healthier for it. **A line lives by being changed.** |
 | **Wren** | No ancestral claim on the Weavers' Bengali–Malaccan branch; her belonging is entirely earned, and Mira's death made her doubt she has the right to any of it | **Chosen kinship is lineage** — the web she joined through work, obligation, and love hands her something real: the quiet-culture adaptation (`§ Quiet-culture lock`) and its threshold rituals. She also inherits its *cost*, and must decide which half to pass on | The **ferry-terminal threshold house**: she is rebuilding the ancestral form (arrive, don't be processed) as an institution that survives her — and, with Asha, adds consent, return rights, and appeal, i.e. **alters the inheritance rather than reproducing it** |
 | **Somchai** | Healer with no legitimate line to point at; the tradition he works in was persecuted into invisibility, so the world offers him only *divine election* as an explanation | Locating the gift in an **ordinary human teacher** — someone's grandmother, a ward, a war, a person who showed him — which is exactly what makes deification refusable. *Son of a man, not son of god* | Names where it came from, to one person, without ceremony; refuses the crowd miracle because a handed-down craft has limits and a divinity doesn't |
 | **Maren** | Cut herself off — birth name **Holt** abandoned, family and country left behind; then removed from her own son's life and finally from her body | She cannot reconnect herself. **Eli restores her to the line** by receiving her whole: courageous, complicit, delaying. Releasing the innocent mother is what makes her an ancestor instead of a symbol | Release at Albion. **A symbol you kneel to is not an ancestor** — the release is the lineage move, not only the grief move |

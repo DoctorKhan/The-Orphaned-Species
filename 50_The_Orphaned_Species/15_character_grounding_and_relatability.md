@@ -354,7 +354,7 @@ Bangladesh should remain an unreturnable or not-yet-returnable home. The reason 
 **Father's capture — locked shape (rev. 2026-07-26).** Rasel Khan—legendary
 physicist and gardener in Eli's memory. Bangladeshi passport → Mandate claim;
 Maren's Albion passport → Charkha chain. Ch 1 reveals both were taken alive.
-**Eli recovers Rasel at Sanxingdui at the end of Book I.** Book II rescues Maren.
+**Eli refuses Rasel at Sanxingdui at the end of Book I.** Book II rescues Maren.
 Rasel's return does not restore childhood: he is loving, angry, compromised, and
 able to oppose Eli.
 

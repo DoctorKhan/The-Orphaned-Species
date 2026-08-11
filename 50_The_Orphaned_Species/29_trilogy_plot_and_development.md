@@ -30,7 +30,7 @@
 > personal and institutional clocks; the birth and final handover coincide
 > because both require a transfer to systems that can continue without Eli.
 
-> **ROUTE AND CAST SUPERSESSION — LOCKED 2026-07-27:** `58_sanxingdui_climax_lock.md` governs all volume allocations. Book I culminates at Sanxingdui (Rasel recovered; distributed Tree of Life recognized; Wren displaced; Qiao's clearance lost; nobody captured). Göbekli / Mesopotamia move to Book II. Emrys does not exist in this version. Sanxingdui is no longer a Book III-first reveal.
+> **ROUTE AND CAST SUPERSESSION — LOCKED 2026-07-27:** `58_sanxingdui_climax_lock.md` governs all volume allocations. Book I culminates at Sanxingdui (Rasel **refused**; distributed Tree of Life recognized; Wren displaced; Qiao's clearance lost; nobody captured). Göbekli / Mesopotamia move to Book II. Emrys does not exist in this version. Sanxingdui is no longer a Book III-first reveal.
 
 > **Status:** navigation and synthesis for **plot mechanics** across Books I–IV; optional V–X unallocated beyond the civic arc (`SERIES_STRUCTURE.md`). Filename still contains `trilogy` for legacy path stability. **Chapter spines:** `31_volume_I_beatsheet.md` (Vol I), `32_volume_II_beatsheet.md` (Vol II), `33_volume_III_beatsheet.md` (Vol III), `60_volume_IV_court_of_threads.md` (Vol IV architecture) — romance cost + M/I/A audits per chapter where present. Open structural commitments: `99_open_questions.md`. Discovery order: `17_reveal_order_and_reader_impact.md`. **Pitch / clue-chain gate (HIGH PRIORITY):** `55_series_pitch_and_comps.md`. Life/Knowledge through-line: `22_life_technology_and_two_trees_spine.md`. Cast/plot intersection: `26` Parts V–VI. Do not call the series a trilogy in new materials.
 
@@ -209,7 +209,7 @@ VOL I — THE BREACH / SHATTERING
   Pelangi Reach → Malacca breach → THAILAND (agricultural witness + grounding)
   → Bay of Bengal / Andaman (Bangladesh **off-page** — Shireen messages only)
   → Gulf / Mesopotamian evidence → GÖBEKLI TEPE
-  END: distributed living route; Rasel recovered; Wren displaced
+  END: distributed living route; Rasel **refused**; Wren displaced
 
 VOL II — THE DESCENT
   Anatolia → continental Europe → Rollright / Stonehenge / Men-an-Tol
@@ -314,7 +314,7 @@ DEEP TIME (author bible):
   Men-an-Tol  = threshold / bridge stone (personal + network)
 
 PRESENT PLOT (Eli's path):
-  Vol I   — Asia maritime → **Thailand witness** → **SANXINGDUI CLIMAX** (Rasel recovered; Wren displaced)
+  Vol I   — Asia maritime → **Thailand witness** → **SANXINGDUI CLIMAX** (Rasel **refused**; Wren displaced)
   Vol II  — Mesopotamian archive → **Göbekli** → Europe broken grid → Avebury/Albion release
   Vol III — Pelangi Reach + distributed community network → accountable coexistence
 ```
@@ -561,7 +561,7 @@ and Rowan remains off-page until Book II.
 | **I — Hearth & breach** | Planted song → Malacca; Custodians + Wren light-cross; breach (asphyxia); **overload + hunted** | Lead is bait; can't return to Pelangi Reach |
 | **II — Unstable sea** | Archive data; wrong/planted clue; growth anomaly; grounding | Lines break; maps suspect; **first witness site contact** (Ila midpoint) |
 | **III — Growth & choice** | Forming line; Ila stabilization; two teams fight; hesitation over **agricultural evidence**; Wren forces evacuation | Incomplete override; community knowledge points west |
-| **IV — Sanxingdui & loss** | Conservation anomaly; distributed Tree; Rasel's coerced apparatus; civilian evacuation | **Rasel recovered; Wren displaced; Qiao loses clearance**; Maren complicity disclosed; romance ruptures under the cost |
+| **IV — Sanxingdui & loss** | Conservation anomaly; distributed Tree; Rasel's coerced apparatus; civilian evacuation | **Rasel refused; Wren displaced; Qiao loses clearance**; Maren complicity disclosed; romance ruptures under the cost |
 
 **Vol I sequence (LOCKED 2026-07-27):** Thailand's river cooperative protects
 people and preserves a partial polarity series; that fragment points north to
@@ -676,7 +676,7 @@ Rollright, Men-an-Tol, and Stonehenge then lead to Avebury.
 ### Psion war escalation
 - Vol I: Custodians as field face; teams contest formations; Wren's public
   evacuation signature and Qiao's conservation choice expose civilian helpers
-  after Eli recovers Rasel.
+  after Eli **refuses** Rasel.
 - Vol II: war as policy; healing rumor; mother tether.
 - Vol III: factions converge on charged grounds; psionic battle at stones; **aftermath ≠ battle**.
 
@@ -715,7 +715,7 @@ Key hinges:
 | Plot beat | Character proof |
 |---|---|
 | Vol I **Thailand** witness — hesitate between people and agricultural proof | Wren forces evacuation; **Malai** cooperative pays; Eli carries the unfinished choice |
-| Vol I Sanxingdui—choose distributed living relation over the clean machine record | Eli completes Manual Override; Rasel recovered; Wren displaced; Qiao loses clearance; reunion refuses innocence |
+| Vol I Sanxingdui—choose distributed living relation over the clean machine record | Eli completes Manual Override; Rasel **refused**; Wren displaced; Qiao loses clearance; reunion refuses innocence |
 | Vol II — trade fork | Wren third loyalty |
 | Vol II — Wren custody instinct | Rowan's person-first recovery limit; Wren accepts correction before romantic renewal |
 | Vol II — plural V | Wren/Rowan + Wren/Eli named separately; Eli's jealousy resolves through distinct significance; Rowan/Eli remains non-romantic in this volume |

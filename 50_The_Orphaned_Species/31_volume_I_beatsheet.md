@@ -2,7 +2,7 @@
 
 > **AUTHORITATIVE ROUTE — REVISED 2026-07-27:** `58_sanxingdui_climax_lock.md`
 > governs. Book I runs Pelangi → Singapore → Malacca → Thailand → Sanxingdui.
-> Eli recovers Rasel; Wren authenticates the civilian evacuation and becomes
+> Eli **refuses** Rasel; Wren authenticates the civilian evacuation and becomes
 > displaced. Professor Emrys does not exist. Existing Gulf/Göbekli cards are
 > relocation quarry for Book II.
 
@@ -13,8 +13,8 @@
 > **CURRENT SPINE — LOCKED 2026-07-27.** Book I runs the Reclamation, Pelangi
 > Reach → Singapore → Malacca → breach → Thailand → Sichuan/Sanxingdui. Wren is a
 > house Weaver and Knotter doing intake/logistics, not an extractor. Sanxingdui
-> prices Rasel's recovery through Wren's displacement, Qiao's lost clearance, and
-> institutional surveillance—not another captive.
+> **refuses Rasel**; Wren authenticates the civilian evacuation and becomes
+> displaced; Qiao's lost clearance is the price.
 
 > **COSMOLOGICAL FUNCTION — LOCKED 2026-07-15:** Book I establishes the divine knowledge-blueprint and the human fear that turns life-technology into a target. The later resolution is not anti-technology: technological understanding must mature enough to recognize the Nephilot/elven line as fellow persons rather than repeat the ancient killing.
 
@@ -28,7 +28,7 @@
 
 > **BOOK I CLIMAX — REVISED AND LOCKED 2026-07-27:** Sanxingdui is one
 > moral/action climax. Eli protects staff and civilians and breaks the proprietary
-> read. Rasel is recovered. Wren signs the evacuation in her own name and loses
+> read. Rasel is **refused and stays by choice**. Wren signs the evacuation in her own name and loses
 > her papers, work, and safe return. Qiao remains free but loses clearance and
 > access. No one is captured to manufacture Book II momentum.
 
@@ -404,6 +404,8 @@
 - **Romance cost:** Eli invokes "told first"; Wren discloses the Penang household cost without asking to be forgiven.
 - **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (border forms / suspended crossings as bureaucratic fossils of claiming; Anika's biometric "protected line" as managed access; living freight/human doors vs institutional shortcut). What family/individual program operates? (Eli's earned-safety autopilot; Wren's placement-as-care; Dara's family freight as personal standing). What pressure exceeds the program's vocabulary? (Vietnam monsoon roads hiding ordnance; floodwater shifting buried clearance lines; the detour as deliberate refusal of the Mandate's managed access). What practice emerges—or fails to emerge—in the gap? (living route through unmanaged terrain; human doors instead of institutional shortcuts; Dara's permit death as cost of refusal).
 
+> **FILE STATUS — 2026-08-11: Ch 12–13 cards below are stale.** `58_sanxingdui_climax_lock.md` (REVISED 2026-08-11) recharacterizes Rasel and the whole climax outcome: he did not sabotage the weaponization program, was never a captive, lured Eli to Sanxingdui for calibration data, and is refused by Eli at the end — not recovered, not reunited, not accompanying the group afterward. The "Ender's Game reveal" / "instrument Maren designed" aftermath below, and the whole westward-with-Rasel Book II assumption, are explicitly named as superseded in that lock's own "Stale-material disposition" section. Do not draft from the cards below; use `58` directly. Left in place for prose salvage only, per that lock's "preserve useful prose... do not silently delete" instruction.
+
 ### Ch 12 — The Tree with No Top *(Eli · Sanxingdui Museum / conservation program)*
 - **Deep-time residue / ancient face payoff — LOCKED 2026-07-30:** Bronze Sacred Tree = Book I ancient face staged as wonder first (Shu art), then mesh without one trunk. Greenhouse / shelterbelt living route foreshadows Ch 13. Wrong reading: missing top = broken prophecy for Eli; tree = one genealogical trunk; conservation = mere museum. Cost: language-tree model fails; family answer does not arrive as possession.
 - **Delivery — LOCKED 2026-07-31:** wonder-before-ambush mandatory; antagonist job = conservation/security + coerced cadence clocks; chemistry = Luo/Qiao/Wren competence without lecture; ring memory may flash when family answer fails. **Forensic identification — LOCKED 2026-08-05:** Rasel is not visually confirmed on arrival. Three possible staff matches at the conservation program; one is a deliberate Charkha plant. Identification requires: (1) ring inscription decoding — "same soil" matched against Maren's Rootbook index entry, which is embedded in a comparative field journal and requires Wren or Malai's archival skill to extract; (2) biometric fragment cross-check — Mandate intake photograph shows scarred hand and band, but the hand is cropped and the band angle obscures the inscription; conservator's supplementary log has a partial palm print; (3) material analysis — ring's alloy composition matched against Rasel's known Pelangi workshop output via a sample Suresh kept. The false lead is the Charkha plant: a staff member with a similar work history and a ring with a different inscription. The team must verify against at least two independent evidence strands before moving. No easy visual confirmation.
@@ -431,7 +433,7 @@
 - **Clock:** annex activates; staff become synchronized; ordinary emergency response will close the site.
 - **Choice → cost:** the machine absorbs Eli's practiced breath as input. Remembering Kitt's fork and the conservation phase delays, Eli stops seeking one perfect rhythm. Multiple people hold distinct cadences and reciprocal feedback. The clean read dissolves.
 - **Tree-of-Life reveal cap:** **the Tree of Life was never one tree; it is the living world connected to itself.** No full planes, immortality, panspermia, dragon taxonomy, or Two-Tree union.
-- **Cost:** Rasel recovered. Wren authenticates the evacuation with her real name,
+- **Cost:** **Rasel refused.** Wren authenticates the evacuation with her real name,
   burning her work, papers, and safe return. Qiao remains free but loses clearance
   and access; Luo faces formal scrutiny. Sora protects civilians and exits wounded.
 - **Aftermath:** father-son reunion is collision, anger, and partial truth—not

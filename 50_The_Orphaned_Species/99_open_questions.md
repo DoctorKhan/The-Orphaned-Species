@@ -64,7 +64,7 @@ family shape and records the *why*, so the count stops being relitigated:
 - **Egypt placement — LOCKED 2026-08-01:** Book II brief Turning or Ch 2 packet only (god-king BAC-survivor trap; contested Mesopotamia→pharaoh claim). Book III Mandate-face only. Never a volume open. `32`, `33`, `61`, `23`.
 - **Phantom god-perception / correct worship — LOCKED 2026-08-01:** capture = perceiving absent gods as domestication remote collar. **Correct worship** = robot (ego) submits to Player (consciousness) — spiritual payoff in **V–X**, not I–IV sermon. Book II seed; Book III civic diagnosis; V–X mature liturgy. `17` §9a; `40`; `SERIES_STRUCTURE.md`.
 - **Book II location contraction — LOCKED 2026-08-01:** ~6–7 body-arrivals; contract travel not jobs; church ⊂ Pömmelte; Rollright+Men-an-Tol one corridor; Anglesey threshold not tour; Stonehenge→Avebury one climax run. `32`, `61`.
-- **Book II delivery package — LOCKED 2026-08-01:** mother Clock A every chapter + dual-clock card; Wren/Rowan↔Maren mirror; Rasel instrument antagonist (capped); Sol at Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers wired (chase grammar, people spine, hearth/*flow*, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Rootbook correction, Somchai hard no → late Ch 9); V–X frozen until I–IV meals. `32` header; `55` Book II dual-clock map.
+- **Book II delivery package — LOCKED 2026-08-01:** mother Clock A every chapter + dual-clock card; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Anika/Custodian pressure carries instrument function); Sol at Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers wired (chase grammar, people spine, hearth/*flow*, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Rootbook correction, Somchai hard no → late Ch 9); V–X frozen until I–IV meals. `32` header; `55` Book II dual-clock map.
 - **Vol II drafting:** `55` § *Book II — chapter-by-chapter pitch audit* + `32_volume_II_beatsheet.md` chapter cards.
 - **Vol III drafting:** `55` § *Book III — chapter-by-chapter pitch audit* + `33_volume_III_beatsheet.md` chapter cards.
 - **Agent/back-cover copy** lives in `55` — do not drift from locked motor or win condition.
@@ -812,7 +812,7 @@ Two more real polyamory pitfalls surfaced alongside the escape-hatch, hub-labor,
 
 **Priority 1 is locked and the Volume I beat sheet exists:
 `31_volume_I_beatsheet.md`** (13 chapters, no prologue; breach closes Ch 2;
-Thailand Ch 5–10; Sanxingdui Ch 11–13; Rasel recovered; Wren displaced; Qiao's
+Thailand Ch 5–10; Sanxingdui Ch 11–13; Rasel **refused**; Wren displaced; Qiao's
 clearance lost).
 
 Next: **draft prose** — per `05` §13, write the Pelangi Reach opening through the first irreversible Malacca escape (Ch 1–5), then reassess scene length against the trilogy/single-novel question. Before drafting, run each major character through `16_reader_attachment.md` (ordinary need, private wound, repeated behavior, relationship-changing action) and keep `17_reveal_order_and_reader_impact.md`'s order: emotional escalation first, terminology second. Add courtly-intrigue/hospitality pressure to at least one Act II chapter so the volume isn't only physical pursuit.

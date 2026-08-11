@@ -2,11 +2,11 @@
 
 > **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29; delivery upgrades 2026-07-31; pitch/visual revised 2026-08-01:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–20 and the **Three pressure rules** + **Five delivery upgrades** (Clock A Maren/rescue vs Clock B Wren-network/registry/**Sol**; antagonist weekly jobs; cost → next; density parity; cast chemistry; ring-first causal hook / tree-led visual identity). Dual-clock map: `55` § *Book II — dual-clock & cost→next map*. Beats: `32_volume_II_beatsheet.md`.
 
-> **Governing draft begun 2026-07-28.** Present tense, close third. Eli remains
+> **Governing draft begun 2026-07-28; Rasel revised 2026-08-11.** Present tense, close third. Eli remains
 > the home consciousness; Somchai and Wren receive only the locked away
 > movements in `32_volume_II_beatsheet.md`. This manuscript begins the morning
-> after Book I's Sanxingdui recovery and follows the authoritative ten-chapter
-> spine. Retired Book II prose in other files is quarry, not reader sequence.
+> after Book I's Sanxingdui refusal and follows the authoritative ten-chapter
+> spine. **Rasel-present prose below is retired quarry** until rebuilt for Rasel-absent Book II (`58` § *Book II relocation*). Retired Book II prose in other files is quarry, not reader sequence.
 >
 > **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1 Three Circles three-way read + Rasel entropy sentence (*signal you could record completely…*); Ch 2 Adapa wrong-first destiny hunger; Ch 6 Extra settlement unnoticed twin incomplete circles (Loop hatch-mark only — no street name). Ancient face = Sídhe/Göbekli/Folly. Craft lock: `17` § *Deep-time residue density*; beats: `32`.
 >
@@ -16,7 +16,7 @@
 >
 > **Location contraction — LOCKED 2026-08-01; Ch 8 Anglesey cut 2026-08-10:** ~6–7 body-arrivals; church ⊂ Ch 6 Pömmelte; Ch 7 Rollright+Men-an-Tol one corridor; Ch 8 Rollright→Stonehenge corridor transit, no separate island geography; Ch 9–10 Stonehenge→Avebury one climax run. Every stop: chase next-door + relationship cost (`32`, `61`).
 >
-> **Delivery package — LOCKED 2026-08-01:** mother Clock A every chapter + dual-clock delivery cards Ch 1–10; Wren/Rowan↔Maren mirror; Rasel instrument antagonist; Sol @ Extra settlement; Ch 8 one-way Maren contact only; term budget; antagonist face-per-stretch; gap-fillers wired — hearth/*flow* Ch 6, Maren moral wound, Somchai depth-scan Ch 4, Sora, Parade drip, Rootbook living correction, Somchai hard no late Ch 9 (`32` § *Book II delivery package*).
+> **Delivery package — LOCKED 2026-08-01; Rasel revised 2026-08-11:** mother Clock A every chapter + dual-clock delivery cards Ch 1–10; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Antika/Anika/Custodian pressure carries instrument function); Sol @ Extra settlement; Ch 8 one-way Maren contact only; term budget; antagonist face-per-stretch; gap-fillers wired — hearth/*flow* Ch 6, Maren moral wound, Somchai depth-scan Ch 4, Sora, Parade drip, Rootbook living correction, Somchai hard no late Ch 9 (`32` § *Book II delivery package*; `58` § *Book II relocation*).
 >
 > **Psionics / belonging draft lock — 2026-08-01:** This is primarily the book in which psionic difference becomes visible and frightening. Eli's question beneath the mother-search is where he can belong and whom he can trust when neither he nor others can reliably distinguish perception, projection, coercion, illness, fraud, or revelation. Atomization stays embodied in isolation, rooms, procedure, family concealment, cult warmth, registry pressure, and lost shared reality; do not make characters lecture the total social diagnosis. Small practices—witness, consent, meals, song, attestation, kin, craft, exchange—help before they overreach. Book III, not this manuscript, scales them into a polity.
 >

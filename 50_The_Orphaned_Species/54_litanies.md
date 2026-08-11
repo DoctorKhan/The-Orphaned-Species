@@ -325,7 +325,7 @@ Novel beats reference **F1–F10**, not the full liturgy.
 | **10** | Field fight, Eli's command failure | — (dramatize cost; no fragment — silence earns Ch 13) | — |
 | **11** | Gulf archive | F7 — curator after narrowing genealogies | beatsheet |
 | **12** | — | — | — |
-| **13** | Rasel recovered; Wren displaced, westbound | F9 — scratched on ferry gunwale or sailor's reply | **ON PAGE** |
+|| **13** | Rasel **refused**; Wren displaced, westbound | F9 — scratched on ferry gunwale or sailor's reply | **ON PAGE** |
 
 **Pilgrim-ring texture — LOCKED 2026-08-06:** the queued pilgrims waiting at the Cube's outer and middle rings (`95_glossary.md` § *Pilgrim rings*) are where stray Tier-A fragments like F8 and F1 actually live — chalked on a barrier, scratched into a numbered-pass rail, murmured by someone who has waited years for a ring they'll never see move. None of them reach the full antiphon; the ring system sells proximity, not release. The **full litany** in the service alcove belongs to the show crew instead — Eli's own side, workers who bypassed every ring and never paid for any of it — so the real communal *I alone* happens by accident, off to the side, among people who weren't devoted enough to queue. Do not let a ring-pilgrim character speak into the alcove's full antiphon in Vol I; that convergence is Book III's to earn.
 

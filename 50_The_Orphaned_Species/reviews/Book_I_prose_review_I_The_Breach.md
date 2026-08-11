@@ -185,7 +185,7 @@
   - Greenhouse shelter; tomato plant; Rasel twenty-year inside job; Maren classifier; Maren note “ask why”; Bosporus corridor for Hassan (~3005–3125).
   - Wren dead credential / displaced; west on human doors / skiff outplace metaphor (~3141–3149).
   - End of Book I.
-- **Beats missed/dropped:** None from current lock. Rasel recovered, Wren displaced, Qiao clearance lost, Maren complicity disclosed — all present.
+- **Beats missed/dropped:** None from current lock. Rasel **refused**, Wren displaced, Qiao clearance lost, Maren complicity disclosed — all present.
 - **Logic contradictions:** None.
 - **Prose logic issues:**
   - The “command translation” of Rasel’s words by machine is abrupt but consistent with apparatus framing.

@@ -267,7 +267,7 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 19. **Public-door / visual-identity check — REVISED AND LOCKED 2026-08-01.** Pitch copy gives the stranger's first causal memory to **Rasel's two-metal wedding ring (*same soil*)**. The recurring visual system remains the **Sanxingdui Bronze Tree** (`35` § *Series icon*); no rule requires a ring on every cover. Volume emblems may vary without entering the one-sentence hook (`55` § *Five delivery upgrades*).
 20. **Book I complete meal — LOCKED 2026-07-31.** Ch 11–13 must read as a finished thriller (chase, landmark wonder, father recovered, irreversible costs) that also opens the series — not as setup that withholds satisfaction until Book II (`55` § *Five delivery upgrades*; `58`).
 21. **Climax staging — epic enough — LOCKED 2026-08-01.** Every volume ends climax + hunger. II: assault concurrent with release. III: war-window concurrent with handover (birds = coda). IV: labor/heir/vote simultaneity. `17` § *Climax staging*; `55` §6.
-22. **Book II delivery package — LOCKED 2026-08-01.** Mother Clock A every chapter; Wren/Rowan↔Maren mirror; Rasel instrument antagonist; Sol @ Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers (chase grammar, people spine, hearth/*flow* Ch 6, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Rootbook correction, Somchai hard no late Ch 9). `32` § *Book II delivery package*; `55` Book II dual-clock map.
+22. **Book II delivery package — LOCKED 2026-08-01.** Mother Clock A every chapter; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Anika/Custodian pressure carries instrument function); Sol @ Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers (chase grammar, people spine, hearth/*flow* Ch 6, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Rootbook correction, Somchai hard no late Ch 9). `32` § *Book II delivery package*; `55` Book II dual-clock map.
 23. **Three-Term scene check — LOCKED 2026-08-05.** Every chapter must answer four questions: what cultural program operates? what family/individual program operates? what pressure exceeds the program's vocabulary? what practice emerges—or fails to emerge—in the gap? A chapter that cannot name all four elements needs rework before it is "done." `00_THREE_TERM_MODEL.md` § *Scene filter*. Applies to `31`, `32`, `33`, and `34`.
 
 ---
@@ -414,7 +414,7 @@ Use with the chapter audit table above. **Pass** = both clocks move; one antagon
 | 10 | Ash + half copy → west | Shame/anger repair; cooperative keeps a copy; Wren's constitution | Pursuit still live; Malai counts bodies not metaphors | Because Wren renegotiates terms, Ch 11's human-door choice is **between people**, not Eli alone |
 | 11 | Rasel before Mandate move; Bangladesh closed | Dara's permit; Sora/border corruption; Laos closes → Vietnam hazard | Anika: clean voluntary scan/registration before annex transfer | Because Dara's permit and the clean scan are refused, Ch 12 arrives at Sanxingdui on **civilian accreditation only** — no protected line |
 | 12 | Tree/mesh opens annex route to Rasel | Luo/Qiao clearance at risk; Wren working doors | Conservation/security clocks; coerced program wants model cadence | Because access is borrowed not owned, Ch 13's evacuation signature will **spend Wren's standing** to open the gate |
-| 13 | Rasel recovered; Manual Override personal | Wren displaced; Qiao barred; civilians out | Apparatus demands master cadence; accreditation/emergency gate | Because Wren is displaced and Rasel is free, Book II Ch 1 **must** open with a present father **and** a network bill already unpaid |
+|| 13 | Rasel **refused**; Manual Override personal | Wren displaced; Qiao barred; civilians out | Apparatus demands master cadence; accreditation/emergency gate | Because Wren is displaced and Rasel **refused**, Book II Ch 1 **must** open with a father Eli left behind **and** a network bill already unpaid |
 
 ### Book II — dual-clock & cost→next map (drafting / revision obligation)
 
@@ -486,9 +486,9 @@ Use with `manuscripts/I_The_Breach.md` revision passes. **Pass** = all ten check
 | 10 | People Over Evidence | Evacuation → west | Half-series; pencil bearing | Wren vs Eli freight terms | Ash + half copy → west | Malai counts; wall safe | Wren constitution; Kitt map | Cooperative keeps copy | — | Shame/anger repair | Told first agreement |
 | 11 | Human Doors | Thailand → Sichuan | Fork map; rejected permit | Protected shortcut vs civilian route | TREE 1 → conservation door | Borders; biometric bargain | Dara/Wren/local drivers | Bureaucracy appetite | — | Dara permit; Bangladesh closed | Rasel before clean status |
 | 12 | Tree with No Top | Sanxingdui hall | Bronze tree; divergent records | One trunk vs living mesh | Divergence → annex route | Tickets; clearance; conservation labor | Luo/Qiao/Wren | Classifier ≠ identity | Tree awe before inference | Access put at risk | Read without claiming |
-| 13 | Living Route | Sanxingdui annex | Coupling cadence; receiving order | Master rhythm vs consenting mismatch | Rasel recovered | Emergency gate; accreditation | Wren/Luo/Qiao/Rasel | Scanner becomes apparatus | Cadences before assault | Wren displaced; Qiao barred | Manual Override; father alive |
+| 13 | Living Route | Sanxingdui annex | Coupling cadence; receiving order | Master rhythm vs consenting mismatch | Rasel **refused** | Emergency gate; accreditation | Wren/Luo/Qiao/Rasel | Scanner becomes apparatus | Cadences before assault | Wren displaced; Qiao barred | Manual Override; father refused |
 
-**Vol I close:** Rasel recovered; Hassan and Rasel's ring remain in the westward
+**Vol I close:** Rasel **refused**; Hassan and Rasel's ring remain in the westward
 custody chain; Maren's Rootbook index opens; pattern conspiracy felt, apex not drawn.
 
 ---

@@ -173,7 +173,7 @@ Every volume ends **climax + hunger**: irreversible satisfaction *and* a forward
 
 | Book | Moral climax (keep) | Staging obligation (must share air with the cut) |
 |---|---|---|
-| **I** | Distributed Tree route; Rasel recovered; Wren pays | Complete-meal Ch 11–13: chase clocks, landmark wonder, irreversible costs (`58`, `55` #5) |
+|| **I** | Distributed Tree route; Rasel **refused**; Wren pays | Complete-meal Ch 11–13: chase clocks, landmark wonder, irreversible costs (`58`, `55` #5) |
 | **II** | Release over keeping / using Maren’s signal | **Failed keep-her / use-her-signal assault** concurrent with the cut — cost is safety, not only grief (`32` Ch 10) |
 | **III** | Handover succeeds; private citizen | War/forced-sync pressure in **Ch 8**; Ch 9–10 hearing/handover; **Loop hunger** after civic win; birds/hose = **Book IV coda** (`33`, `55`) |
 | **IV** | Transfer before first breath; child no title | **Simultaneity:** labor + heir motion + succession vote + cloister/Weaver fracture in the **same hours** (`60` §7) |

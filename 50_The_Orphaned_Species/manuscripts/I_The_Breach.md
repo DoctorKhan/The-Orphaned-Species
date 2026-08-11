@@ -19,7 +19,7 @@
 > - **Ch 8** — Ila's Hands
 > - **Ch 9** — Two Teams
 > - **Ch 10** — People Over Evidence
-> - **Ch 11–13** — **governing Sanxingdui rebuild, revised 2026-07-27.** Human Doors → Tree with No Top → Living Route; Rasel recovered, Wren displaced, Qiao's clearance lost, Maren complicity disclosed. Professor Emrys does not exist. Former Gulf/Göbekli ending prose lives in `../archive/manuscripts/relocation_quarry_book_i_gulf_gobekli.md` (not reader-sequence canon).
+> - **Ch 11–13** — **governing Sanxingdui rebuild, revised 2026-07-27; Rasel revised 2026-08-11.** Human Doors → Tree with No Top → Living Route; Rasel refused / stays by choice, Wren displaced, Qiao's clearance lost, Maren complicity disclosed. Professor Emrys does not exist. Former Gulf/Göbekli ending prose lives in `../archive/manuscripts/relocation_quarry_book_i_gulf_gobekli.md` (not reader-sequence canon).
 >
 > **BOOK I GOVERNING DRAFT — RECOMBINED 2026-07-29: 13 chapters, ~42k reader-sequence words.** The reader sequence ends at *The Living Route* (Sanxingdui). Scene desire/opposition, antagonist continuity, and prose-restraint passes carry over. Author research notes: `90_book_i_research_notes.md`; Gulf/Mesopotamia/Göbekli quarry: `../archive/manuscripts/relocation_quarry_book_i_gulf_gobekli.md` (Book II adaptation).
 >

@@ -230,7 +230,7 @@ The renewed Wren/Rowan romance is explicit, reciprocal, and negotiated. It begin
 
 **READER END-FEELING / CLIMAX + HUNGER — LOCKED 2026-08-01:** Each volume must
 end with a delivered climax and a new appetite, not with the climax secretly
-invalidated. **Book I:** Rasel recovered; home damaged; Maren's westward trail
+invalidated. **Book I:** Rasel refused; home damaged; Maren's westward trail
 opens. **Book II:** Maren released; awakening spreads; the world has no form to
 hold it. **Book III:** the constitutional handover genuinely succeeds and
 decentralized governance holds; readers feel relief, then Eli's private hunger
@@ -504,7 +504,7 @@ Not human factions.
 - **America: admixed ~10–15% die acutely** (weighted carrier frequency: ~16% Euro-ancestry, low African- and Asian-American, ~10% Latin American). Many survivors carry the latent provirus; children already alive during the outbreak begin threshold episodes as they enter puberty, while later descendants inherit the integrated provirus and the risk. The Continentalist Party builds its registry around this first mass cohort.
 - **Theme:** the acute phase reads as a South-Asian / Global-South catastrophe the West partly watched from afar; the puberty phase equalizes the horror. Two-phase weapon: Phase 1 spares most of the West, Phase 2 catches its children.
 - **Maren Holt (Eli's mother) = Albion-born, a natural carrier, and a neuroscientist.** **Albion passport** (legacy **British** on some extraction files). **Always Maren Holt.** **Claimed by the Charkha** — not Mandate. **Alive — LOCKED 2026-07-24:** taken at extraction; **passport split** from Rasel (different citizenship → different orgs); **location unknown** to keeper net. Eli **believed orphan** until **Mei Friday dinner (Ch 1)** — **keeper child-separation protocol:** off the claim-household file (*dead on the file so you could live*). **post-Turning scientist claiming — LOCKED 2026-07-24:** after armistice, the three-bloc cold war **claims all scientists** as strategic property. **Book I:** Eli **rescues Rasel** at Sanxingdui (Mandate lab). **Book II:** suppression scene, complicity, **Eli rescues Maren**, release at Albion.
-- **Rasel Khan (Eli's father) = Bangladeshi physicist.** **Bangladeshi passport.** **Claimed by Eastern Mandate** — **Rasel Khan** on files. **Alive in Mandate field-research custody.** Ch 1: taken alive, location unknown. **Eli recovers Rasel at Sanxingdui — Book I climax.** **Passport split** from Maren at extraction.
+- **Rasel Khan (Eli's father) = Bangladeshi physicist.** **Bangladeshi passport.** **Claimed by Eastern Mandate** — **Rasel Khan** on files. **Alive in Mandate field-research custody by his own choice.** Ch 1: taken alive, location unknown. **Eli refuses Rasel at Sanxingdui — Book I climax.** **Passport split** from Maren at extraction.
 - **Maren's work = neuroscience, complicity, then the carrier/keeper underground.**
   Before the outbreak she studied naturally occurring carriers with Lang and
   the early research program, helping build tools that aid integration and enable capture. After turning
