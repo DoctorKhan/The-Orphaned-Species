@@ -1656,7 +1656,7 @@ The redistribution moves a fevered woman off the floor and into a cot before a c
 He does not record it as a management lesson. He lets it stand as a fact the
 harbor already knew and he is only now learning to read.
 
-## Chapter Three—The Person Freedom Failed
+## Chapter Three—Three Requests
 
 The next morning brings clean weather.
 

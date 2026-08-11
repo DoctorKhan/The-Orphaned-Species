@@ -222,9 +222,9 @@ When the light comes he goes to work on Mei's cable because motion is the only s
 
 In the lobby a patched robot dog lies folded near a dead fountain, waiting on a route nobody has run in years, and an automatic chess board finishes the same captured opening against no one, pieces sliding their rails under glass gone cloudy at the corners. Eli has walked past both since he was small enough to think they were magic. He still isn't sure they aren't.
 
-A woman at the foot of the stair takes his measure before he reaches it—dark hair tied back, linen that reads host not harbor. She does not offer her hand.
+A young woman waits at the foot of the stair, dark hair drawn into a sleek knot, linen that reads host not harbor. She is beautiful enough that Eli notices the salt dried white on his own shirt. She holds his gaze as she makes room for him with one smooth step, fingers light on the banister. She does not offer her hand.
 
-"You're Rasel's boy." Soft, briefed, unhurried. "If you'd come up, please. Babaji is waiting."
+"You're Rasel's boy." She smiles and waits, as if he might object. "If you'd come up, please. Babaji is waiting."
 
 The words hit the same place Rasel used to when he said *Babu, come here*. Eli climbs behind her, past floors built for someone's honeymoon and now boarded, laundered, or lived in by four quiet men and a kettle.
 

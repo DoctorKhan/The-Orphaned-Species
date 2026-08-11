@@ -269,6 +269,7 @@ Dialogue should pursue an objective: obtain help, conceal fear, test loyalty, de
 - Allow interruption, misreading, and unfinished business.
 - Put exposition inside disagreement, negotiation, procedure, or consequence.
 - After an important line, prefer a physical or social response to an explanatory thought.
+- **The reply may skip the subject entirely.** The strongest version of the line above isn't just non-explanatory — it answers a different question in the room, a chore, a logistics detail, a complaint about something small, while the real answer sits in what didn't get said. Reserve this for a moment that can actually carry the weight of the gap; used every scene it reads as a tic instead of a choice.
 
 Avoid interchangeable wisdom. No character should exist mainly to state the book's thesis correctly.
 
@@ -407,8 +408,9 @@ The existing rule above against "not X but Y" is necessary but not sufficient �
 3. **Abstraction without a body in the room.** A noun like "the selection mark" or "the disputed thing" may not appear bare in a list or aphorism until it has been touched, smelled, or physically reacted to on the page at least once. If it hasn't earned a body yet, it isn't allowed to function as shorthand yet.
 4. **Echo-closers.** A final sentence that just repeats an image from earlier in the same paragraph for a sense of "landing," without the line itself costing or revealing anything new. Test: if the closing line's only job is to sound like an ending, cut it and end on the last sentence that actually changed something (see final-sentence test below).
 5. **Rhythm drift from the book's own register.** Long cumulative sentences built on colons and stacked em dashes read as generically "literary" rather than as this book. Check any long sentence against the surrounding scene's established rhythm — usually short and declarative per this guide's default prose gears — before trusting one that "sounds right" in isolation.
+6. **Reflexive AI-tell vocabulary.** A short list of words function as a shortcut to "literary" register regardless of whether they're the right word for the sentence: *delve, tapestry, testament, palpable, unspoken, intricate, profound* (as an intensifier), *vibrant, ministrations*. None is forbidden outright — any could be the precise word on a given page — but each owes the sentence the same test as an abstraction under pattern 3: does this specific sentence need this word, or would a plainer one from the viewpoint character's own vocabulary do the job. More than one or two uses of any single word on this list across a chapter is the tell.
 
-Patterns 1, 2, and 5 are mechanically searchable during revision: scan drafts for comma chains of four or more items, for runs of three or more short declarative sentences enumerating parallel items (the period-chain and comma/period-mixed forms of pattern 2), for "not because" / "not X, but," and for sentences running long enough to need a second breath. Patterns 3 and 4 need an actual read-through, not a search.
+Patterns 1, 2, 5, and 6 are mechanically searchable during revision: scan drafts for comma chains of four or more items, for runs of three or more short declarative sentences enumerating parallel items (the period-chain and comma/period-mixed forms of pattern 2), for "not because" / "not X, but," for sentences running long enough to need a second breath, and for each word on the pattern-6 list by name. Patterns 3 and 4 need an actual read-through, not a search.
 
 ### Human-prose lock — LOCKED 2026-08-01
 

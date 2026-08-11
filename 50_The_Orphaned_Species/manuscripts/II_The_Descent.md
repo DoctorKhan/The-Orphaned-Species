@@ -3074,7 +3074,7 @@ Every answer has arrived through someone else's terms.
 
 For once, none of those terms feels like delay.
 
-## Chapter Five—What They Took
+## Chapter Five—The Holding Site
 
 The holding site used to inspect livestock.
 
