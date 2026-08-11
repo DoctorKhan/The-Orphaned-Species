@@ -94,13 +94,14 @@ def main():
         pages = wc / 250.0
         rows.append((book, label, wc, pages))
 
-    # Group by book
+    # Group by book, ordered I, II, III, IV, V, ... (not filename-alphabetical,
+    # which sorts "II" before "IV" before "I")
     groups = {}
-    order = []
     for book, label, wc, pages in rows:
         groups.setdefault(book, []).append((label, wc, pages))
-        if book not in order:
-            order.append(book)
+
+    roman_rank = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5}
+    order = sorted(groups.keys(), key=lambda b: (roman_rank.get(b, 99), b))
 
     header = f"{'Book':<8} {'File':<42} {'Words':>10} {'Pages':>8}"
     sep = "─" * 74
@@ -118,9 +119,6 @@ def main():
                 print(f"{book:<8} {label:<42} {wc:>10,} {pages:>8.1f}")
                 book_words += wc
             book_totals[book] = book_words
-            book_pages = book_words / 250.0
-            print(sep)
-            print(f"{'SUBTOTAL':<8} {'':<42} {book_words:>10,} {book_pages:>8.1f}")
             print()
     else:
         for book in order:
