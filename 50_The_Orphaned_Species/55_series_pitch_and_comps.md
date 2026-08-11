@@ -2,7 +2,7 @@
 
 > **COMPLEX-TIME SUPERSESSION — LOCKED 2026-07-27:** Field-sail language in older pitch rows is retired quarry. Book III's space-travel possibility comes from complex-time research and lateral/sideways movement through adjacent temporal states; no field-sail craft is current canon.
 
-> **PITCH ROUTE AND CAST SUPERSESSION — LOCKED 2026-07-27:** Book I culminates at **Sanxingdui**, where Eli recovers Rasel and recognizes the distributed Tree of Life. Wren signs the civilian evacuation with her real name and loses her work, papers, house standing, and safe return; Qiao loses clearance. Nobody is captured. Emrys does not exist in this version. Göbekli / Mesopotamia move to Book II. `58_sanxingdui_climax_lock.md` governs.
+> **PITCH ROUTE AND CAST SUPERSESSION — REVISED 2026-08-11:** Book I culminates at **Sanxingdui**, where Eli finds Rasel alive and willingly inside the Mandate, activates Rasel's apparatus at his father's ask, and leaves without him — refused, refusing. Wren signs the civilian evacuation with her real name and loses her work, papers, house standing, and safe return; Qiao loses clearance. Nobody is captured. Emrys does not exist in this version. Göbekli / Mesopotamia move to Book II, and Rasel does not travel there with the group. `58_sanxingdui_climax_lock.md` governs.
 
 > **Status: HIGH PRIORITY — LOCKED 2026-07-25**
 >

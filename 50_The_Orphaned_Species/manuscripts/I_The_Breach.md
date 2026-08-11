@@ -39,11 +39,11 @@ The skiff is flying.
 
 Eli leans out over the bright chop, one foot braced under the thwart, salt on his lips, sun hot on the back of his neck, the sail pulling hard enough to make the rope sing in his fist. Kiran is half a length behind and shouting something the wind tears apart. Eli laughs anyway. The red buoy rushes toward them, the hull skimming, spray cold against his shins—and for once there is no country, no clinic deposit, no list with his name missing from it. There is only speed.
 
-The sun, the wind, the boat's movements. He feels connected to the ocean, suddenly and completely. He surrenders, and everything becomes one motion. His mind narrows to a single needle, threading each moment with careful, delicate attention. Everything else squeezes out.
+The sun on his skin, the hull's vibration under his thighs, the smell of salt and diesel and Suresh's cigarette on the wind. He does not fight the boat. He stops trying to steer it and lets the channel take him. The noise in his head that counts doors and clinic deposits and lists with his name missing goes quiet, the way water goes quiet after the last stone. Behind him Kiran is still shouting. Ahead the strait opens past the storm wall, wide and blue and indifferent, and for a few strokes he is not a boy who needs a wage or a place to sleep. He is just the boat, the wind, and the next length of water.
 
-Now more intensely, he falls into it. There is only this. The sun on his skin feels more vivid. Everything moves together like some grand orchestra, breathing together. A sense of supreme peace takes him. It is completely familiar, like returning home, though he could not say when he was ever there before.
+The sea does what it has always done, when he stops planning long enough to let it.
 
-Then the wind vanishes.
+The wind dies anyway.
 
 The sail collapses against the mast like something exhaling wrong. The hull drops off its plane so abruptly he nearly pitches forward. A second ago the channel was all noise and motion; now water slaps lazily against the boards. Kiran glides past on the last of his momentum.
 
@@ -63,7 +63,7 @@ The sail fills.
 
 And for one stolen breath—before strategy, before the buoy—the pocket opens into the real sea.
 
-Beyond the storm wall the strait goes wide and bright, a blue so clean it looks impossible under the half-built towers. The hull hums under his knees and the patched cloth holds like a living thing agreeing with him, and something in his chest—older than the wager, older than the towers—opens with a stupid clean joy. *This.* This is why you stay on an island that will not claim you. Not the paperwork. The open water answering when you place yourself right.
+Beyond the storm wall the strait goes wide and bright, a blue so clean it looks impossible under the half-built towers. The hull hums under his knees and the patched cloth holds like a living thing agreeing with him, and something in his chest—older than the wager, older than the towers—opens with a stupid clean joy. *This.* This is why you stay on an island that will not claim you.
 
 He leans into it, small corrections with knees and hands. Do not look at the buoy yet—look at water and air. Break focus now and you break speed. Beyond the floats, Kiran's sail still hasn't found true wind. Eli runs the wall-shadow lane he has already chosen, carrying the open sea in his peripheral vision like a secret he is not supposed to need. Shorter, sheltered, the one advantage he has over a heavier boat and a better sailor. He has watched this lane every morning and never once seen it cost him anything.
 
@@ -87,7 +87,7 @@ For one stupid second he looks for them on the quay—the old reflex, cut off ye
 
 ---
 
-Kiran comes up the marina steps as Eli pulls in—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out past Timah's boat—being towed back to the anchor by a harbor boy while Jul waves at no one in particular—to the open strait beyond the marks. The sea is still bright. Still wide. Still the thing that made the win feel like belonging for a breath. Suresh sees Eli looking and does not mock it. On the wall someone is already arguing in Bajau and Malay about whether the race owed Timah a clear mark or Timah owed the race a clear fairway. The argument is older than the towers. It will outlive the wager.
+Kiran comes up the marina steps as Eli pulls in—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out past Timah's boat—being towed back to the anchor by a harbor boy while Jul waves at no one in particular—to the open strait beyond the marks, still the thing that made the win feel like belonging for a breath. Suresh sees Eli looking and does not mock it. On the wall someone is already arguing in Bajau and Malay about whether the race owed Timah a clear mark or Timah owed the race a clear fairway. The argument is older than the towers. It will outlive the wager.
 
 "You won," Suresh says. "Don't blame the grandmother, either. She wasn't in your way. You were in hers. It happened again." It wasn't a question. "You had the look on your face. The same one your mother would have. Like she's in a trance. I remember the first time I taught her, same as I taught you. She was perfectly focused, completely intuitive, like she had been doing it her whole life. Everyone else had capsized, but she didn't. The whole time. She was a natural I thought. How do you do it?"
 
@@ -302,9 +302,7 @@ White coats and royal police move on Babaji's offices in a column—side door
 first, then the mezzanine, then the laundry entrance Wren used this morning. The
 red building under the dirt fills with grey. A portable brain scanner comes out
 on a trolley like ordinary furniture. Men in hotel livery are walked to the pier
-with their hands visible. Behind Eli's eyes: Mei's photograph face-down on her table.
-In his pocket: Suresh's folded word. Rasel's promise to finish the row. Maren on
-the ninth floor with the can. The terrace lights he looks for across the water
+with their hands visible. The terrace lights he looks for across the water
 are already gone. His parents entered two vans alive. The road after that is
 blank. He wants the blank to open with a hunger that makes the Singapore cash
 feel obscene—distance from the only place that remembers them whole.
@@ -378,19 +376,9 @@ Suresh's boat moves on without them—rice, limes, the blue tarp bundle, schedul
 
 After that Singapore arrives as a maze that pretends to be a city.
 
-Leave one zone. Stand in the middle with no horizon. Enter the next. The air changes temperature without a door you can name. He loses east. He loses up. Elevators open onto floors that look like the floor he just left, only colder, and Wren's bag is the only true north he has.
+Leave one zone. Stand in the middle with no horizon. Enter the next. The air changes temperature without a door you can name. Wren's bag is the only true north he has. The call sheet is the only true south: every gate asks for it again, palm and face, again, as though the first fourteen times were only practice.
 
-A glass terminal at every threshold: touchscreen forms in a language that changes accents but not questions—*where, how long, employer, health*—and Wren's thumb already knowing which box before Eli finds it. Palm on the plate. Face to the camera. A soft click that means *again* or *go*. The clicks stack in his chest like a second heartbeat he did not ask for. He cannot say, later, whether he passed four gates or fourteen.
-
-Port shuttle: bench seats, wet boots, the same four questions in a new mouth. Palm. Face. Through the shuttle window the Stack rises wrong—not a skyline you approach, a cliff you are already inside, glass stacked on glass until the sky is a rumor between towers. Then a bus that smells of diesel and disinfectant, then another that smells of perfume and ozone, then a covered walk that claims to be neither dock nor city and asks for the call sheet as if he has never shown it. Palm. Face. Wren cuts a service corridor he would never have found alone—steam, a prayer chalked on a pipe, Bangla and Mandarin arguing over the same valve—and he follows her bag, not the signs. The signs lie. The signs are decoration for people who already know the Thread.
-
-Somewhere in the middle—he cannot later say which vehicle—the smear breaks, and for three seconds the maze opens its throat and shows him what it spends to look inevitable.
-
-Glass. Black cars in a lit underpass, moving like they own the air. A lobby humanoid holds a tray nobody takes, polished as a status proof. Suits with soft briefcases. Women in pale silk cutting across polished stone as if the war never reached this altitude. Grow-lights above a vertical orchard of lanes—and the light is beautiful in a way that hurts, because nothing that expensive should feel this calm while Pelangi hangs under ash. Through a curtain-wall the Stack's mall shows itself as a sealed well: glass cylinder, shops in rings, escalators in a bright helix, fountain that has never met rain, sky that is a screen. Level is class. Without Wren he would have stood gaping until security moved him. She cuts past perfume and conditioned nowhere, through one more terminal, one more palm, one more face, into the **causeway hall**—still not the document lanes, only the hall that pretends the middle is over.
-
-Marble the color of cold milk. Ceiling lights that flatter faces and cameras equally. Soft music with no tune, the kind that makes panic feel impolite. Officers in tailored vests who say *please* like a blade. **Documentation review** again—family-origin fields turning half the South Asian dock queue amber before anyone reaches the swab chair—and the amber looks almost expensive under the glass. Wren picks the lane. Nobody in line asks why. He had meant to check in at a service gate with a lanyard and a name on a list. Instead he is here with grease under his nails in a city dressed for people who never touch dirt, and a body the Stack has already photographed three times without deciding what it is. The maze has him. He just has not admitted it yet.
-
-At the next desk, a man in a demobilization coat lays a pump-repair certificate under the glass. The clerk asks for his receiving household. He gives a yard name instead. The certificate is real; Eli can tell by the assessor's grease-thumb and the scored seal. The clerk turns a small sign toward him: **UNSPONSORED MALE / LOWER CONCOURSE**.
+At the causeway hall—marble the color of cold milk, ceiling lights that flatter faces and cameras equally, soft music with no tune that makes panic feel impolite—a man in a demobilization coat lays a pump-repair certificate under the glass. The clerk turns a small sign toward him: **UNSPONSORED MALE / LOWER CONCOURSE**.
 
 "Extra lane," a woman behind Eli says, pulling her daughter closer.
 
@@ -1171,7 +1159,7 @@ also local women entitled to say no to a Knotter from another house.
 
 The valley opens. Somewhere up one of its brown channels, a field is growing wrong in a way that will change everything, but that is tomorrow's freight.
 
-The boat goes in with the tide—and Eli's palms, still prickling at the worked green, already know tomorrow will argue with him about what growth means.
+The boat goes in with the tide. Eli steps onto the landing mud with his bag and one decision already made: he is done chasing water today. Not because the Custodians have won. Because the field he felt from the rail has a gravity he does not yet have words for, and chasing it while his head is full of chase will only turn it into another instrument. He does not say this. He just stands there, weight on both feet, and lets Wren read his refusal to run before the first local even speaks.
 
 ---
 

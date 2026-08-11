@@ -3674,6 +3674,8 @@ before anger makes the body useful.
 
 Hassan steps into the corridor and nearly falls.
 
+Eli's hand is out before his mind catches up to it — the same reach, the same angle, as a rooftop in Malacca where this man's fist wouldn't open around a ring worth more than his own freedom. The van doors closed on both of them that day. These doors are opening instead.
+
 Sora takes his weight only after he nods.
 
 The guards reach the inner arch.

@@ -262,6 +262,16 @@ Maintain at least two credible interpretations of major phenomena for as long as
 
 Historical material belongs on-page when it changes a present relationship, decision, route, or danger. If it only confirms cosmology, move it to the Record or compress it into an artifact, testimony, or contested fragment.
 
+### Cross-book recognition beats — LOCKED 2026-08-11
+
+Every book after the first will reunite a POV character with someone whose weight was earned in an earlier volume. Apply this discipline at that moment, not only within a single book:
+
+1. **Re-embody, don't re-narrate.** Never have a character explain shared history aloud to someone who was there. Deliver it as an involuntary physical or perceptual reaction in present-tense POV — the body registering it before the mind catches up.
+2. **One concrete image, not a summary.** A single sensory anchor from the earlier scene (an object, a sound, a specific gesture) carries the weight. A recap sentence does not.
+3. **The beat must work cold first.** A reader who skipped the earlier volume has to feel that something is emotionally loaded here on the scene's own terms. The extra recognition a returning reader gets is a bonus layer, never the only payload — if the beat only works as a callback, it has failed as a scene.
+4. **Behavior carries the history, not exposition.** A reach that goes further than it would for a stranger, a held breath, a name said differently — proof of relationship without a line of backstory.
+5. **Give it a beat, not a paragraph — but an actual beat.** One sentence the surrounding action isn't allowed to swallow is usually enough. Reunions embedded in fast physical sequences (extractions, escapes, combat) still need this held second; do not let logistics crowd it out entirely.
+
 ## Thriller structure at scene level
 
 Every scene should alter at least one of these:

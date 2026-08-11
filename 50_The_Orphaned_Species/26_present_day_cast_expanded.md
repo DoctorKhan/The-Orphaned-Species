@@ -756,11 +756,11 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Age:** mid-20s. **Want:** keep the remaining family off official questions about Rasel and the foreign mother.
 
-**Scene:** one encrypted exchange with two movements. First, *Babu, don't come home; they're still asking about your mother; I'm fine; are you eating*, with the clinic deposit beneath it. Later, her photograph of Rasel's garden forces the Bangladesh choice. Eli asks whether she remembers either parent. She remembers everyone else's stories more clearly than the people. He gives her the storm-room memory; she receives the detail of Rasel's cool hand and asks for another when he can. The exchange ends practical: clinic calling, do not come home.
+**Scene:** one encrypted exchange in two registers (medium split — LOCKED 2026-08-11, `23_2040_present_frame.md` § *Comms*). By text, the cheap and practical register: *Babu, don't come home; they're still asking about your mother; I'm fine; are you eating*, with the clinic deposit beneath it. Then she spends a voice note on the part that isn't logistics — asking whether he remembers either parent, admitting she remembers everyone else's stories more clearly than the people. He answers in kind with the storm-room memory; her photograph of Rasel's garden arrives alongside it and forces the Bangladesh choice. She asks for another memory when he can send one. The exchange closes back in text, practical: clinic calling, do not come home.
 
 **Voice:** Bangla text mix; practical, scared, not poetic; uses **Babu** (Rasel's old habit), not Eli, in intimate lines.
 
-**Guardrails — OFF-PAGE LOCK 2026-07-23:** no on-page visit to Bangladesh in any volume; no rescue arc. Voice only — encrypted messages, missed calls Eli can't answer safely.
+**Guardrails — OFF-PAGE LOCK 2026-07-23:** no on-page visit to Bangladesh in any volume; no rescue arc. Text for logistics, one voice note for the memory trade — missed calls Eli can't answer safely.
 
 ---
 
