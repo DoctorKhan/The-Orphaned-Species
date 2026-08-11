@@ -29,7 +29,29 @@
 ## How perimeter law arose — Entropy Crimes
 
 **Entropy Crime** began as a legal doctrine before it became the organizing
-principle of the allocator. Late-2020s and early-2030s courts faced abandoned
+principle of the allocator. It was born in the settlement after a mid-2030s
+conventional-cyber-**stable-coin** war: the United States won the financial front,
+but global opinion had turned against the scale of concealed burden it had
+exported through that same payment and identity infrastructure. The resulting
+statutes and perimeter system were deliberately designed to constrain the kind of
+cross-border cost-hiding American-led operators had used to win. The Continental
+Union, as the American successor state, rejected both the Entropy Crimes regime
+and the blame narrative that came with it, isolating itself legally and
+politically while inheriting the older American industrial and military footprint.
+
+**Formalization after the Weapon — LOCKED 2026-08-10:** rejection did not hold.
+The Weapon's male-skewed mortality left a female political majority across most
+surviving populations, and that majority finished what litigation alone could
+not: it converted Entropy Crimes from a doctrine a large violator could decline
+into a binding global regime enforced through the allocator mesh. The
+institutions built to answer to a male-majority electorate could not survive
+that shift intact. Continental Union's predecessor states fractured under the
+pressure rather than ratify; other nations broke along the same line. What
+reconsolidated after — Continental Union, Eastern Mandate, Free Ports Coalition
+— left no single successor state large enough to dominate the settlement again.
+Full timeline: `23_2040_present_frame.md` § *Macro timeline*.
+
+Late-2020s and early-2030s courts already faced abandoned
 buffer tanks, shell-company waste transfers, falsified supply provenance,
 deliberate heat shedding during grid emergencies, and occupational damage moved
 off a factory's books. Existing environmental, labor, property, and bankruptcy
@@ -101,7 +123,7 @@ wanted burdens to remain attached to the parties that created them. Insurers and
 lenders wanted a balance sheet that survived bankruptcy. The registered
 boundary gave each group something enforceable.
 
-After the Hinge, blocs adapted the doctrine to ration scarce industrial capacity.
+After the Turning, blocs adapted the doctrine to ration scarce industrial capacity.
 Legacy emissions monitors, port inspections, occupational exposure systems, and
 grid controls became the first perimeter stations. Closure bonds grew from
 bankruptcy judgments. Gradient passports grew from supply-chain and smuggling

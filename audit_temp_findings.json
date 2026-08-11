@@ -1,0 +1,21 @@
+{
+  "volume_map_old": [
+    {
+      "path": "/Users/khan/Projects/The-Orphaned-Species/SERIES_STRUCTURE.md",
+      "line": 159,
+      "content": "| **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1\u201313 | ~43,000 | Pelangi \u2192 Meridian \u2192 Malacca \u2192 Thailand witness \u2192 Sanxingdui (Rasel) \u00b7 **Object:** Cherry Cube"
+    },
+    {
+      "path": "/Users/khan/Projects/The-Orphaned-Species/SERIES_STRUCTURE.md",
+      "line": 218,
+      "content": "The split tried to even volume lengths and give Thailand its own title identity. It produced a ~17k \"Book I\" \u2014 novella length, too short to stand as a novel \u2014 and created a false five-volume map while later reference docs still spoke in four-book terms. Book I is again one continuous volume: breach sprint through living-route investigation to Sanxingdui."
+    }
+  ],
+  "living_route_misnamed": [
+    {
+      "path": "/Users/khan/Projects/The-Orphaned-Species/50_The_Orphaned_Species/31_volume_I_beatsheet.md",
+      "line": 423,
+      "content": "### Ch 13 \u2014 The Living Route *(Eli \u00b7 conservation campus / Mandate annex / greenhouse aftermath)*"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
 >
 > **Second litany:** *The Drifting Heart* — author original, Leader / Chorus form, departure / threshold register — added 2026-08-01.
 >
-> **Third litany:** *The Reed and the Branch* — author rendering after Laozi Tao Te Ching Ch 76, Heather Cube's counter-liturgy — added 2026-08-06.
+> **Third litany:** *The Reed and the Branch* — author rendering after Laozi Tao Te Ching Ch 76, reframed 2026-08-10 — added 2026-08-06.
 >
 > **Fourth litany:** *The Low Place* — author rendering after Laozi Tao Te Ching Ch 8, Laurel Cube's counter-liturgy — added 2026-08-06.
 >
@@ -188,7 +188,7 @@ Book I = damaged but functioning reopening (`23`). Book II–III = **cascade of 
 
 **Street:** *the corridor break*, *the Break* (when context is clear).
 
-**What it is:** a **present-day regional fracture** — not the Hinge, not global war — when the **Albion approach / west European transfer corridor** stops behaving like a map. Book II **Ch 6** (Pömmelte / Extra settlement stretch — remapped from older Ch 4–5 pins onto the ten-chapter spine).
+**What it is:** a **present-day regional fracture** — not the Turning, not global war — when the **Albion approach / west European transfer corridor** stops behaving like a map. Book II **Ch 6** (Pömmelte / Extra settlement stretch — remapped from older Ch 4–5 pins onto the ten-chapter spine).
 
 **Causes (stack — show through pressure, not lecture):**
 
@@ -637,18 +637,18 @@ Rhyme-sheet row optional (`25`); enactment in scenes beats naming the Lesson.
 
 ---
 
-## The Reed and the Branch — Heather Cube's counter-liturgy
+## The Reed and the Branch — softness under sustained pressure
 
-**Status:** author rendering after Laozi *Tao Te Ching* Ch 76, added 2026-08-06. Leader / Chorus form. Companion to `59_younger_dryas_nucleation_lock.md` § *Heather Cube access — the Reserve*.
+**Status:** author rendering after Laozi *Tao Te Ching* Ch 76, added 2026-08-06; reframed 2026-08-10. Leader / Chorus form. Companion to `59_younger_dryas_nucleation_lock.md` § *Motionless sitting — the one stable ritual*.
 
-**Register:** rigidity read as death, softness read as life — the precise inversion of the Reserve's own mythology, which sells hardness and unhesitating boldness as strength. Where the Parade Liturgy dissolves manufactured unity into shared disillusionment, this liturgy dissolves manufactured courage into the plain fact that the hard thing is usually the thing already dying.
+**Register:** rigidity read as death, softness read as life — not only the Reserve's mythology of hardness, but any system that sells unyielding endurance as strength. Where the Parade Liturgy dissolves manufactured unity into shared disillusionment, this liturgy dissolves manufactured toughness into the plain fact that the hard thing is usually the thing already dying under sustained pressure.
 
 **When to deploy:**
 
-- Not a seasonal gathering form and not communal — this one is private, almost always solo or two-voice, discovered rather than performed.
-- The natural home is a **cut-off Reserve defector** (§ *A free character type this generates*, `59`) encountering the words after losing access — withdrawal past, fearlessness gone, the lines finally making literal sense to someone who has just learned what brittle feels like from the inside.
-- Could also surface as something scratched or murmured near Heather Cube itself, in the same register as the Cherry Cube's stray F-fragments — never the full text on a wall, a half-line at most.
-- **Do not** let a Reserve member currently in good standing recognize or use it. Its meaning only opens after the fall, not before.
+- **Primary — Hawaii, Book IV.** The island is the sustained pressure: heat, ash, isolation, lava — it tries to break newcomers. Locals know this liturgy; it is inherited, murmured in shelter, scratched near the basalt station, passed to people who look like they are about to crack. Eli overhears it. He does not claim it or initiate it; it lands as observation, exactly the way a series character should encounter this material — felt, not explained. The voluntary kneeling before Pele rhymes with the final couplet without either character noticing.
+- **Secondary — Reserve defector.** Still usable, but as a variant reuse of the same text, not the liturgy's origin. A defector could recognize it from somewhere else, or half-remember it — it doesn't belong to the Reserve.
+- **Tertiary — Union oligarchy / Reserve-adjacent figure.** Someone inside the system senses brittleness from the inside and can't unthink it. Again, a reuse, not a home.
+- **Do not** let a Reserve member currently in good standing recognize or use it. Its meaning only opens under sustained pressure, not while the posture is still earning points.
 
 **Drafting guard:** never let a character explain the Union's brittleness aloud while reciting this — dramatize the recognition, not the thesis (same rule as everywhere else this bible uses Tao material). No clinical vocabulary; this is a body's discovery, not a diagnosis.
 
@@ -681,9 +681,9 @@ The strong kneel only when they break.
 
 | Volume | Chapter | After what | Scene |
 |---|---|---|---|
-| **IV** | TBD, wherever the court's North American chapters land | A former Reserve member is cut off or defects | Solo or two-voice discovery, private, no audience; the character recognizes their own condition in the words without narration explaining the parallel |
+|| **IV** | Hawaii refuge chapters | The island tests newcomers with heat, ash, isolation, and lava | Locals murmur or scratch a half-line; Eli overhears and does not claim it | The kneeling before Pele rhymes with the last couplet without either character noticing |
 
-**Reader effect:** the reader who has tracked Heather Cube's kneeling-induction ritual (`59` § *Kneeling — the one stable ritual*) feels the last couplet land as a direct, ugly rhyme with that ceremony — never stated, only felt.
+**Reader effect:** the reader who has tracked Heather Cube's motionless-sitting induction ritual (`59` § *Motionless sitting — the one stable ritual*) feels the last couplet land as a direct, ugly rhyme with that ceremony — never stated, only felt. A second rhyme sits underneath it for readers who tracked Eli's voluntary kneeling in Hawaii: the same question, two different answers, neither named.
 
 ---
 

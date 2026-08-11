@@ -10,7 +10,7 @@
 
 ### Author year range (publication drift — LOCKED 2026-07-26)
 
-| Anchor | Book I open | Eli / Wren (Vol I) | Hinge end / armed reopening |
+| Anchor | Book I open | Eli / Wren (Vol I) | Turning end / armed reopening |
 |---|---|---|---|
 | **2040** (default) | ~2039–2040 | **21 / 18** | ~2037–2040 |
 | **2041** | ~2040–2041 | 22 / 19 | ~2038–2041 |
@@ -18,7 +18,7 @@
 
 **Why the range exists:** keeps the macro arc (late-2020s acceleration → early-2030s militarization → mid-2030s war → Fever Years → armed reopening) intact while avoiding a setting that feels **imminent** if the first book ships several years after drafting. **Do not** slide past **2042** without revisiting tech texture and climate load — risk of "future history" rather than accelerated present.
 
-**What does not move:** on-page texture rules, never-date rule, bloc names, Hinge *street names*, Eli/Wren **birth cohort logic** (pre-outbreak natural carrier; threshold adolescence during the Hinge).
+**What does not move:** on-page texture rules, never-date rule, bloc names, Turning *street names*, Eli/Wren **birth cohort logic** (pre-outbreak natural carrier; threshold adolescence during the Turning).
 
 ---
 
@@ -30,11 +30,13 @@ The novel opens **after** the acute phase of two overlapping crises. Background 
 |---|---|
 | **Late 2020s** | AI, biotech, and satellite mesh mature; great-power competition sharpens; climate displacement accelerates in South/Southeast Asia; consciousness/neuroscience funding grows quietly after public "anomaly" incidents. |
 | **Early 2030s** | Several states **confirm psionic signatures** in reproducible lab conditions — still disputed publicly, already militarized privately. Carrier registries begin as **health-and-security** programs. |
-| **Mid 2030s** | **Conventional + cyber war** escalates: shipping insurance spikes, satellite constellations attacked/jammed, GPS unreliable in contested corridors, payment and identity systems weaponized. |
-| **~2037–2039** | **The Fever Years** — engineered outbreak during war escalation (acute phase of **the Hinge**); mortality and lockdown politics; **contained** within ~18–30 months via platform vaccines, reduced virulence, and/or hybrid immunity. **Emergency powers do not fully sunset.** |
+| **Mid 2030s** | **Conventional + cyber war** escalates: shipping insurance spikes, satellite constellations attacked/jammed, GPS unreliable in contested corridors, **payment and identity systems weaponized through a parallel stable-coin front**. The United States wins that financial war, but the global settlement afterward names **Entropy Crimes** and builds perimeter law specifically because American-led operators had exported the largest concealed burdens. The successor **Continental Union** rejects the regime and the blame that came with it, isolating itself legally and politically even while it inherits the older American industrial and military footprint. |
+| **~2037–2039** | **The Fever Years** — engineered outbreak during war escalation (acute phase of **the Turning**); mortality and lockdown politics; **contained** within ~18–30 months via platform vaccines, reduced virulence, and/or hybrid immunity. **Emergency powers do not fully sunset.** |
 | **~2039–2042 (novel present)** | Uneven **armed reopening** after the war's hottest phase: Malacca, Strait ports, and some corridors function again under incompatible armistices. Proxy fighting, blockades, maritime seizures, and drone attacks continue. Pelangi Reach and similar pockets operate as **accountable refuges**. Covert **Psion War** is fully active and harder to hide. **Default anchor 2040:** Eli **21**; Wren **18**. Optional slide: see § *Author year range*. |
 
 The world is **damaged but functioning** — not collapse, not utopia.
+
+**Female-majority formalization / national fracture — LOCKED 2026-08-10:** The Weapon's male-skewed mortality left a female political majority across most surviving populations. That majority did what the old guilty powers had stalled on for years: it forced Entropy Crimes into a binding global regime instead of a doctrine the largest violator could simply decline. Continental Union's predecessor states could not survive the pressure intact — this is the "sudden catastrophic fracture" the bloc table below (§ *Armistice-era bloc archetypes*) already names as its long arc. Other nations broke along the same fault line, built as they were for a male-majority electorate that no longer existed. What reconsolidated afterward — the three blocs — left no single successor state large enough to dominate the world again. Full mechanism: `64_entropic_allocator_perimeters.md` § *How perimeter law arose*.
 
 **Psionic origin lock:** rare natural carriers existed before the outbreak; this is why states, Maren, and Lang could study them in the early 2030s. The construct weaponizes that research to lower or destabilize the receiver threshold in a much larger population. Eli was born before the outbreak and inherits the natural route. The outbreak expands and exposes psionics; it does not create them. Eli's own case is the personal instance of this rule: the Fever Years outbreak he contracts at Pelangi Reach wakes and scars an already-natural receiver rather than manufacturing one (`26_present_day_cast_expanded.md` § Eli turn — bioweapon lock).
 
@@ -144,13 +146,13 @@ Same shape, different vocabulary: an insider class gets its risk socialized by t
 - **Cyber:** port systems, hospital records, refugee files, and registry databases are **battlefields** — the Charkha lives **inside** legitimate systems it helped shape during the outbreak.
 - **States:** blocs field small **psion teams**; contractors and deniable units fill the gaps. Many-sided war, not one secret emperor.
 
-### The Hinge (past tense, persistent settlement)
+### The Turning (past tense, persistent settlement)
 
-**The Hinge (~2037–2040; slides with author anchor to ~2039–2042 max)** — civilizational turn: WWIII acute + **Fever Years** + armistice blocs + puberty **Threshold** + **inverted order** + Weavers' **Weaving-in** + **scientist claiming** + **capacity claiming** (talents/minds ledgered like scientists; folk norm: **stay under the radar** — don't be read as too talented). Street: *after the Hinge*, *the Fever Years*, *the Threshold*, *claimed*, *stay off the ledger*. Union file: *Activation Event*; Mandate lie: *the Sparing*; keepers: *the Opening*. Full lock: `95`, `40_concepts.md` § The Hinge, § Scientist claiming, § Capacity claiming, § Staying under the radar.
+**The Turning (~2037–2040; slides with author anchor to ~2039–2042 max)** — civilizational turn: WWIII acute + **Fever Years** + armistice blocs + puberty **Threshold** + **inverted order** + Weavers' **Weaving-in** + **scientist claiming** + **capacity claiming** (talents/minds ledgered like scientists; folk norm: **stay under the radar** — don't be read as too talented). Street: *after the Turning*, *the Fever Years*, *the Threshold*, *claimed*, *stay off the ledger*. Union file: *Activation Event*; Mandate lie: *the Sparing*; keepers: *the Opening*. Full lock: `95`, `40_concepts.md` § The Turning, § Scientist claiming, § Capacity claiming, § Staying under the radar.
 
 ### The outbreak (past tense, persistent scars)
 
-- **Acute disease:** over — contained, vaccinated, or attenuated. No active plague plot.
+- **Acute disease:** over — contained, vaccinated, or attenuated. No active plague plot. The upgraded-COVID construct has no known creator; each side blamed the other during the acute phase. **South Asia was preferentially targeted**, and **male mortality was markedly higher**, compounding the demographic shock and helping produce the male-scarcity arc that runs through the series.
 - **What remains:** displacement camps closed messily; **broken trust** in public health; **merged databases** (health + border + security); clinicians who learned to fear their own charts; pizzamakers who **still forget days** (Nico beat); biosecurity cover for hunting carriers.
 - **Tone rule:** legitimate medicine stays **necessary**; villainy is **hidden power inside** emergency architecture, not "science bad."
 
@@ -185,7 +187,7 @@ concealing, exporting, or laundering physical, occupational, and ecological
 burdens across protected boundaries. Those cases made liabilities follow assets,
 required lawful custody for transfers, gave bodies independent standing, and
 offered industrial privacy
-in exchange for verifiable crossings. Hinge-era blocs converted the doctrine
+in exchange for verifiable crossings. Turning-era blocs converted the doctrine
 into allocator infrastructure. AI data centers supplied the catalytic cases and
 first mature pilots after nominally green compute campuses hid local grid, water,
 heat, material, and occupational costs behind private workloads and fragmented
@@ -245,7 +247,7 @@ one immediate cost are enough. Full definition: `64` § *Spent glass*.
 |---|---|
 || **No mass industrial base** | Humanoid and service robotics need fabs, precision supply chains, skilled maintenance, and steady power — all **disrupted** by mid-2030s war, Fever Years, satellite gaps, and bloc fragmentation |
 || **Population decline / missing cohort** (`WORLD_BIBLE`) | Shrunken workforces; aging maintainers; **fewer factories retooled** for embodied automation; child infrastructure repurposed — not a robotics boom |
-|| **Post-Hinge priorities** | States fund **registries, drones, quarantine, psion teams** — not civilian robot fleets |
+|| **Post-Turning priorities** | States fund **registries, drones, quarantine, psion teams** — not civilian robot fleets |
 || **Software substitute** | Translation, scoring, surveillance, triage run on **networks and phones**; cheaper than bodies |
 || **The entropy bill** | Every ordered metal body requires continuous low-entropy feed — power, heat, precision parts, human maintainers. Software scales because copying code requires an infinitely smaller gradient injection than forging a new servo. Humanoid robots failed because planners treated **ordered matter** like **information** |
 
@@ -261,7 +263,7 @@ Late-2020s–early-2030s culture treated embodied automation as if it could scal
 |---|---|---|
 | **Humanoid robots** | **Meridian City / the Stack**; Union power sites; royal-hub **propaganda** (promised more than delivered) | **Status theater** — lobby greeter, ceremonial guard, intake escort; locals stare; **one humanoid = wealth speech** |
 | **Quadruped / patrol bots** | Legacy at failed megaprojects (**Pelangi** robot dogs); some Stack/Union perimeters | **Patched, few, one route** — pet/guard/toy/surveillance; not a pack |
-| **Fixed automata** | Babaji's chess boards; mall gimmicks | **Not humanoid**; pre-Hinge or imported kits |
+| **Fixed automata** | Babaji's chess boards; mall gimmicks | **Not humanoid**; pre-Turning or imported kits |
 | **Drones / autonomous weapons** | War, corridors, blockades (`38`, `33`) | **Military register** — fought over, jammed, logged; distinct from civilian humanoid scarcity |
 
 **Pelangi rule:** the king's Reclamation hub **wanted** robotics to rival Singapore; the megaproject **failed before scale**. Babaji's **robot dogs and chess boards are leftovers** — maintained by hand, not proof the island is a robot city.

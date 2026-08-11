@@ -198,11 +198,11 @@ Göbekli / early control · Refusal–Adapa / Eridu · Abandonment *or* Sanxingd
 
 | Priority | Approx. | Notes |
 |---|---|---|
-| **A** (slate) | **1–2** | Wren/Rowan spicy; optional road companion |
+| **A** (slate) | **2–3** | Wren/Rowan spicy; optional road companion; Goonies-style kid-crew companion (locked concept 2026-08-06, placed between Book IV and Book V, concurrent with the son's infancy — `28_present_day_trilogy_craft_index.md`; `99_active_todo.md` item 9) |
 | **B** (candidates) | up to **4** | Somchai, Harbor Thread, Extra/cloister, teahouse — lock only with want/clock |
 | **C** (later) | **0–2** | past-life short, Eye of Sahara |
 
-**Working ranges:** 14 (core only) · ~15–16 (+ Priority A) · ~20 only if most B/C also ship.
+**Working ranges:** 14 (core only) · ~16–17 (+ Priority A) · ~20 only if most B/C also ship.
 
 Civic pitch may stop at I–IV. Full family pitch may say **fourteen core books** (ten novels + four companions) plus optional satellites.
 

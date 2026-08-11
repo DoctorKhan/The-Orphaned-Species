@@ -243,15 +243,15 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 ---
 
-## The Hinge
+## The Turning
 
 *Named 2026-07-24. Glossary: `95`. Timeline: `23_2040_present_frame.md`.*
 
-**The Hinge** is the civilizational turn (~2037–2040 and its permanent settlement): WWIII acute phase, engineered outbreak mortality, armistice partition, puberty-gated episodes, gender inversion, threshold-house spread, emergency architecture that never sunsets.
+**The Turning** is the civilizational turn (~2037–2040 and its permanent settlement): WWIII acute phase, engineered outbreak mortality, armistice partition, puberty-gated episodes, gender inversion, threshold-house spread, emergency architecture that never sunsets.
 
 | Register | Name |
 |---|---|
-| Era / author | **The Hinge** |
+| Era / author | **The Turning** |
 | Street (acute 2037–39) | **the Fever Years** |
 | Street (ongoing episodes/care) | **the Threshold** |
 | Union file | **Activation Event** |
@@ -264,9 +264,9 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 **The corridor break — LOCKED 2026-07-26; remapped 2026-08-01:** Book II **Ch 6** **regional collapse** — west European transfer corridor loses fixed coordination (dead zones, registry trap burned, psion-war pressure, inconsistent checkpoints). Displaced populations; emergent rhythms replace pinned meetups. Historical Pömmelte rhyme + present break. Phrase *in the flow* born here (with primary hearth circle).
 
-**Craft rule:** characters say *Fever Years* or *after the Hinge* — not "engineered outbreak" in dialogue unless a clinician is filing.
+**Craft rule:** characters say *Fever Years* or *after the Turning* — not "engineered outbreak" in dialogue unless a clinician is filing.
 
-### Scientist claiming — post-Hinge cold war
+### Scientist claiming — post-Turning cold war
 
 **LOCKED 2026-07-24.** After armistice and bloc partition, the three-way cold war **claims scientists as strategic property** — neuroscientists, physicists, biologists, engineers, clinicians with research capacity. Not optional mobility: **assigned**, **ledgered**, **recalled**, captured at borders, pulled from universities into bloc labs. Union, Mandate, and Coalition each run claiming regimes (names differ; effect the same). Street: *claimed*, *on the bloc ledger*, *assigned*.
 
@@ -276,7 +276,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 | Mandate | **Sparing** rhetoric + **indispensable personnel** files; white-coat transfer |
 | Coalition / ports | **Harbor assignment**, threshold institutes, teahouse consent labs — still claimed |
 
-**Craft rule:** do not Paperclip-paste WWII — show **passports, recall notices, lab transfer, corridor seizure** on-page. **Maren Holt** = **neuroscientist** (Albion, legacy *British* on old files; natural carrier). **Rasel Khan** = **physicist**. Both **claim-category** captures — held before/during formalization; **post-Hinge law** makes the theft permanent and ordinary. Eli's parents are not unique victims; they are **high-value claims**.
+**Craft rule:** do not Paperclip-paste WWII — show **passports, recall notices, lab transfer, corridor seizure** on-page. **Maren Holt** = **neuroscientist** (Albion, legacy *British* on old files; natural carrier). **Rasel Khan** = **physicist**. Both **claim-category** captures — held before/during formalization; **post-Turning law** makes the theft permanent and ordinary. Eli's parents are not unique victims; they are **high-value claims**.
 
 ### Passport split — mixed-nationality claiming
 
@@ -311,7 +311,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 ### Capacity claiming — talents and minds
 
-**LOCKED 2026-07-24.** **Scientist claiming** is one belt of a wider post-Hinge regime: **exceptional capacity gets claimed** — neuroscientists, physicists, **visuo-spatial prodigies**, memory outliers, carrier/threshold adolescents, anyone the merged health-border-labor file can **ledger, assign, recall, or seize**. Not only psionics: a child who maps a shaft system once and never forgets is **claim-category** in the wrong room.
+**LOCKED 2026-07-24.** **Scientist claiming** is one belt of a wider post-Turning regime: **exceptional capacity gets claimed** — neuroscientists, physicists, **visuo-spatial prodigies**, memory outliers, carrier/threshold adolescents, anyone the merged health-border-labor file can **ledger, assign, recall, or seize**. Not only psionics: a child who maps a shaft system once and never forgets is **claim-category** in the wrong room.
 
 **Street psi vocabulary — LOCKED 2026-07-26:** harbor speech for psionic ability is lowercase **talented / talents** (*he's talented*, *his talents came on*). Distinct from this section's broader *don't look too talented* survival literacy. Lived: **noise / surge**. File: **psion / carrier**. Full lock: `95` § *talented / talents*; `21`.
 
@@ -324,7 +324,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 ### Staying under the radar — LOCKED 2026-07-24
 
-**Social norm, not Eli-only.** After the Hinge, ordinary people **try not to be read as too talented** — scientists, spatial prodigies, fast learners, stable threshold kids, anyone who might **trigger a file**. **Under the radar** is survival literacy: slow down the obvious answer, sandbag aptitude tests, refuse the praise room, share credit, stay **adequate on paper**.
+**Social norm, not Eli-only.** After the Turning, ordinary people **try not to be read as too talented** — scientists, spatial prodigies, fast learners, stable threshold kids, anyone who might **trigger a file**. **Under the radar** is survival literacy: slow down the obvious answer, sandbag aptitude tests, refuse the praise room, share credit, stay **adequate on paper**.
 
 | Register | Texture |
 |---|---|
@@ -337,7 +337,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 **Craft rule (individual):** show **hidden talent** through work behavior — Eli finishes the diagram in his head but logs the slow time; he remembers the corridor after one walk but doesn't offer to lead. **Performing average** is survival craft, not false modesty.
 
-**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **TBI** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Hinge folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-26 (rev. Z):** Wren may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Singapore run** = **Eli beats Kiran in Suresh-held race wager** + compound attestation; leave away from island scrutiny.
+**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **TBI** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Turning folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-26 (rev. Z):** Wren may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Singapore run** = **Eli beats Kiran in Suresh-held race wager** + compound attestation; leave away from island scrutiny.
 
 ---
 
@@ -345,7 +345,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 *Named 2026-07-24; Thread rev. B; Extras rev. C 2026-07-24. Glossary: `95`. Settlement: `29` § inverted order.*
 
-Post-Hinge **inverted order** — three male fates (two spoken, one not):
+Post-Turning **inverted order** — three male fates (two spoken, one not):
 
 | Street label | Status | Texture |
 |---|---|---|
@@ -404,7 +404,7 @@ The animals are teaching images, not diagnoses. Each holds an imbalance and its 
 
 *Named 2026-07-24. Glossary: `95`. Weavers: `29` § The Weavers.*
 
-How the **Weavers' Net** entered organizations after **the Hinge** — not a coup:
+How the **Weavers' Net** entered organizations after **the Turning** — not a coup:
 
 1. **Threshold houses** — staffed, supplied, and discreet during quarantine; never left when emergency powers persisted.
 2. **Lay teachings** — unbranded curriculum (grounding, cup trick, meal-as-care) spread as ordinary custom.
@@ -416,7 +416,7 @@ How the **Weavers' Net** entered organizations after **the Hinge** — not a cou
 
 **Weaver–Thread trade — EXPANDED 2026-07-31:** value clearing (above) stays internal to the Net — but men's institutions, Thread posts included, have cash or rare goods and no organized way to move them quietly, so they reach a knot from outside and ask a favor. That single transaction, not the network behind it, is where the polite blindness actually lives: **incentive, not loyalty** — not dislike, and not warmth either, since dislike is still a relationship and a relationship is something a character could discover and use. The knot who helps him keeps her books clean of him the moment it's done; the arrangement holds exactly as long as it's useful and evaporates the moment it isn't — no grudge, no gratitude, no one on the outside to betray. Craft use: a Thread man can never be sure, in the moment, whether he's trusted or merely convenient — and he will never be told which network he just touched.
 
-**Thesis line:** *The Weavers survived the Hinge because keeping was organized; men's institutions only knew spending.*
+**Thesis line:** *The Weavers survived the Turning because keeping was organized; men's institutions only knew spending.*
 
 ## The forgotten game — civilization as play that forgot it was playing
 

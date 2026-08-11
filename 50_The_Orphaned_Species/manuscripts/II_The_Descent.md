@@ -637,10 +637,15 @@ It is only a heavy door.
 
 They pull it shut together.
 
+Wren watches him accept the inventory and does not reach for him when the door shuts. She does not need to. The contact is already a habit.
+
+Later, in the hold of the truck where the seed racks stand, Rowan’s hand finds Wren’s wrist from across the stack of medication cartons. No explanation. Wren’s breathing adjusts without her deciding it should. The journey is longer than the route should allow.
+
+---
+
 ## Chapter Two—The Folly
 
 Cold preserves the wrong things.
-
 For thirty-one hours the seed container holds six degrees and the smell of wet
 fiber. The cultures sleep in silver racks while Eli's cut palm swells inside a
 borrowed glove. Rasel sleeps badly against the inner wall. Sora does not sleep

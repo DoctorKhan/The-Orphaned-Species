@@ -449,14 +449,6 @@ Author-side only — never a progress bar on-page:
 - **Cons:** each life needs full novel attention; research texture per era still required.
 - **Numbering:** append **V–X**. Do not renumber I–IV. Optional second-cycle brand later.
 
-### Model B — Soft adjacency inside fewer books
-
-Multiple lifetimes per volume, interrupted and resumed (closer to *Cloud Atlas*).
-
-- **Pros:** braid audible earlier; structural virtuosity.
-- **Cons:** immersion tax; concept risk; harder for thriller readers of I–IV.
-- Use only if each half-life still satisfies the personal-desire test.
-
 ### Model C — Full life + brief between-lives coda
 
 Each novel ends with a short liminal movement (not a hell tour): charge unsettled,
@@ -475,7 +467,7 @@ like an orchestra score — sections enter and drop out.
 - **Cons:** hardest craft; save for Ω or a late volume.
 
 **Working preference until further lock:** **A** is the governing shape (**+6 / V–X**).
-Optional **C** codas; **D** only near X. Avoid **B** as the default.
+Optional **C** codas; **D** only near X.
 
 ## Per-life novel card (template — fill when a life is ready)
 
