@@ -402,7 +402,7 @@ Use **scar + habit**, not history lectures:
 | Mei translates a language the counter AI failed | "Advanced future society" |
 | Suresh's cigarette bucket bribe at the quarantine float | Exposition on biosecurity law |
 | Nico on the free-meal list, still not right | "Post-pandemic society" |
-| Eli's father **taken in political extraction** into Mandate lab custody (Eli believes dead) — pre-war but recent enough to hurt | Exact year of family attack (open unless locked elsewhere) |
+| Eli's parents intercepted after leaving him at Mei's during a flight presented as a holiday; Rasel routed into Mandate lab custody — pre-war but recent enough to hurt | Exact year of the disappearance (open unless locked elsewhere) |
 
 **One sentence test:** could this scene play in **2026 with minor edits**? If yes, add **one** 2040 scar (sky, database, reopening, registry, heat, broken remittance). If it only plays in 2126, pull it back.
 
@@ -423,7 +423,7 @@ Use **scar + habit**, not history lectures:
 
 Still decide in draft/research, not here:
 
-- exact year of Eli's family attack (likely **2030s**, before or early war — track in `99_open_questions.md`);
+- exact year of Eli's parents' disappearance (likely **2030s**, before or early war — track in `99_open_questions.md`);
 - whether Pelangi Reach maps to a specific real corridor or a lightly renamed composite;
 - healer's city and name.
 

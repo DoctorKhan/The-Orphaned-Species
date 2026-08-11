@@ -6,7 +6,11 @@
 > the home consciousness; Somchai and Wren receive only the locked away
 > movements in `32_volume_II_beatsheet.md`. This manuscript begins the morning
 > after Book I's Sanxingdui refusal and follows the authoritative ten-chapter
-> spine. **Rasel-present prose below is retired quarry** until rebuilt for Rasel-absent Book II (`58` § *Book II relocation*). Retired Book II prose in other files is quarry, not reader sequence.
+> spine. **Traveling-party Rasel prose below is retired quarry** until rebuilt
+> for Rasel-absent Book II (`58` § *Book II relocation*). The brief Sanxingdui
+> away-scene after the Rollright seizure is governing: Rasel sees his calibration
+> used against Eli and corrupts the training reference. Retired Book II prose in
+> other files is quarry, not reader sequence.
 >
 > **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1 Three Circles three-way read + Rasel entropy sentence (*signal you could record completely…*); Ch 2 Adapa wrong-first destiny hunger; Ch 6 Extra settlement unnoticed twin incomplete circles (Loop hatch-mark only — no street name). Ancient face = Sídhe/Göbekli/Folly. Craft lock: `17` § *Deep-time residue density*; beats: `32`.
 >
@@ -643,7 +647,7 @@ Later, in the hold of the truck where the seed racks stand, Rowan’s hand finds
 
 ---
 
-## Chapter Two—The Folly
+## Chapter Two—The Cold Container
 
 Cold preserves the wrong things.
 For thirty-one hours the seed container holds six degrees and the smell of wet
@@ -1427,7 +1431,7 @@ The file arrives through the Charkha corridor link under a routing label that sa
 
 Maren Holt. Rasel Khan.
 
-The line reads **pair severance — custody split** and is signed by a clerk whose identifier is a number, not a name. The date is seven days before extraction. Before the raid. Before anyone in Eli's world learned that either of them had moved.
+The line reads **pair severance — custody split** and is signed by a clerk whose identifier is a number, not a name. The date is seven days before the rendezvous they never reached. Before Eli knew the family holiday was a flight.
 
 She reads it twice. The first time she looks for error codes, alternate routing, a system mistake that would make the line a ghost. The second time she looks for a reason someone would order a split before taking both people. No reason appears. Only the line.
 
@@ -5085,9 +5089,7 @@ He repaired the drainage below the visitor path with a length of food-grade
 pipe and marked three stones on a maintenance sketch. The marks form the same
 interval as the pump alarm.
 
-Rasel measures.
-
-Hassan listens.
+Hassan checks the intervals with a length of green cord.
 
 Wren hums the notes under her breath.
 
@@ -5097,9 +5099,76 @@ Pömmelte: three concentric rings.
 Rollright: three standing stones, the same spacing as the pump alarm.
 Men-an-Tol: three uprights with a piercing at the center.
 
-He has been carrying Rasel's diagram for weeks without reading it as a map. The sites are the instrument Hassan described. Not three separate places. One thing, repeated.
+He has been carrying Hassan's copied interval without reading it as a map. The sites are the instrument Hassan described. One thing, repeated at different scales.
 
 He does not say this aloud. He does not need to. Wren turns from the stones and meets his eye before he speaks, the way she does when his hands have given him away.
+
+The first Custodian strike uses no lance.
+
+Pressure closes behind Eli's eyes at the exact decay interval Rasel measured at
+Sanxingdui. His knees stay straight while the field takes his balance, then his
+hearing, then the location of his left hand. Anika walks through the rain beyond
+the visitor barrier with a control slate held flat against her palm.
+
+"Your father called this the stable approach," she says. "Stop resisting the
+entry curve."
+
+The phrase hurts more than the field.
+
+Wren pulls him toward the maintenance gate. The gate appears three times: shut,
+open, and lying in grass under a summer sky that does not belong to this day.
+He cannot make his body choose among them.
+
+Hassan throws the tea flask at Anika. It misses. The metal crossing her sightline
+buys Eli one broken count.
+
+He steps toward the open gate.
+
+Rain stops in the middle of falling.
+
+For the length of one stride, the field contains no Custodian signal. The path
+beneath him is dry and the dog at the information board has not yet been born.
+Then his foot lands in mud on the far side of the hedge. Wren is still holding
+his coat. She comes through with him and loses half a sleeve to the closed gate.
+
+Hassan takes the ordinary opening and runs.
+
+Anika's control slate reports Eli inside the ring he has already left. She
+looks down once. That is enough.
+
+They reach Morwen's car before the Custodians correct the search.
+
+---
+
+At Sanxingdui, the failed seizure report reaches Rasel because his calibration
+number sits in its source field.
+
+The first page shows the approach curve. The second contains Eli's name. A
+medical box beneath it recommends stronger entrainment on the next attempt.
+
+Rasel reads the operator notes twice. His son lost proprioception at eleven
+seconds and left the measured state at fourteen. The report calls the departure
+an instrument fault.
+
+He opens the candidate-training library. Every live profile points back to the
+reference he took through the bronze mask.
+
+For twenty years the program has renewed his access because his work made him
+useful. He had assumed the same bargain would cover whatever carried his name.
+The report has already assigned Eli a retrieval priority.
+
+Rasel changes the reference checksum by one digit.
+
+The training library rejects its own calibration. Candidate sessions scheduled
+for morning move into technical review. He routes the intact source file into a
+conservation dispute whose named holders include Luo and Qiao, then closes the
+report without correcting the instrument-fault finding.
+
+His hand shakes against the reader. He places it flat until it stops.
+
+No message goes to Eli.
+
+---
 
 "Men-an-Tol," says the local keeper.
 
@@ -5174,24 +5243,19 @@ Morwen stops the group at the final hedge.
 
 "No instruments past this."
 
-Rasel begins to object.
+Wren reaches for the field recorder.
 
 "No."
 
-"The ground may be holding a human nervous system in an unstable—"
+"The ground may be holding a human nervous system in an unstable state."
 
 "Then adding an untested field recorder seems impolite."
 
-"Impolite is not a model."
+"Impolite is not a model," Wren says.
 
-"Neither is fatherhood."
+"Neither is urgency."
 
-Rasel goes still.
-
-Eli has never seen anyone reach the place beneath his technical voice so
-quickly.
-
-Rasel leaves the instruments in the car.
+Wren leaves the instruments in the car.
 
 Morwen lays fresh rowan branches across each vehicle door.
 
@@ -6241,7 +6305,7 @@ The corridor points southeast toward the old transmission station at Stonehenge.
 
 Hostile field traffic is already gathering there.
 
-## Chapter Nine—The Transmission Station
+## Chapter Nine—The Staff Entrance
 
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
 opening onto electrical cabinets, cleaning supplies, stacked crowd
@@ -7447,6 +7511,28 @@ Maren takes Eli's hand.
 
 "I want the hour," she says. "Do not mistake my wanting for consent to the
 machine that offers it."
+
+---
+
+Lang keeps the dead on paper because the operations floor can revise a screen
+without leaving a mark.
+
+The drawer beside his desk holds forty-three custody files. He opens Imani
+Vale's because today would have been her thirty-second birthday. The form asks
+whether next-of-kin notification remains pending. Her mother died last winter,
+so he draws one line through the old address and writes **NONE LIVING** in the
+margin.
+
+His pen stops on the last letter.
+
+The bonsai behind him needs water. He gives it less than the measured cup after
+finding damp soil beneath the moss. A root has pushed through one drainage hole
+and curled against the ceramic tray. He leaves it there.
+
+The Avebury call begins flashing.
+
+Lang closes Imani's file, returns it to the drawer, and turns his chair until
+the tree sits inside the camera frame.
 
 ---
 

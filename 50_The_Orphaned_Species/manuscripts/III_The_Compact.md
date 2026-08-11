@@ -2152,7 +2152,7 @@ yet agreed may enter their ecology.
 He presses the wet soil back into the hole although there is nothing left to
 hold.
 
-## Chapter Four—The Standard
+## Chapter Four—Lang's Folder
 
 The Standard arrives through rain that arrives on schedule.
 
@@ -4194,6 +4194,42 @@ those in another."
 
 He does not exempt his own.
 
+A man behind Ma places a revised convoy estimate beside his hand.
+
+"Twenty-eight crew available," the man says.
+
+Ma reads the names. "Twenty-seven. Lin Wei cannot take the river watch."
+
+"Medical cleared him."
+
+"Lin Wei is dead."
+
+The man reaches for the slate. Ma keeps one finger on it.
+
+"He taught me to read shoal water from the cranes before you joined this
+office. His hospital ship was inside the blockade sector I approved at Wenzhou.
+Correct the roster before his daughter sees us spend him twice."
+
+The revised slate leaves. Ma looks back into the camera.
+
+Eli says, "You approved the blockade."
+
+"Yes."
+
+"And you kept his name on your working roster."
+
+"The casualty office kept it. I failed to catch it yesterday."
+
+"What do you think you owe him?"
+
+Ma folds the corner of the paper estimate over the empty line.
+
+"Accurate work. His daughter needs the pension office to stop calling him
+deployable. My grief will not correct the file."
+
+Eli wants to call that too small. The names waiting on his own harbor manifest
+keep him quiet.
+
 Ma sends a warning with the offer.
 
 A refrigerated cargo lot moving toward a refugee corridor contains aerosol
@@ -5721,6 +5757,48 @@ food and clinic routes, and continue cooperation after the immediate attack.
 
 No commander can call it vindication.
 
+Sol's body gives out after the northern field loses its last replacement
+circle. The people nearest him carry him to a compact clinic because the
+registry ambulance will accept only named subjects. His legal name goes on the
+intake board for the first time in years: **DIEGO MÉNDEZ**. He is conscious
+enough to object and too depleted to stop them.
+
+The clinic treats the burns along his old implants, restores his fluids, and
+places an ordinary guard at the door under the same conduct rule used for
+anyone accused of forced entry. His field does not return before the hearing.
+The red-scarf channels continue without him. Half call his collapse martyrdom.
+The rest begin arguing over who gets the passwords.
+
+Tommy arrives at the southern review post carrying the Custodian mission log.
+His left hand cannot keep the slate level. He sets it on the desk and asks for
+the civilian-harm investigator by title.
+
+The log records Sora's route leak, Anika's decision to keep her operational,
+and the order that sent their unit back into the field after the Stonehenge
+clock broke. It also records Tommy firing on the clock. He refuses the offer to
+separate that page before transfer.
+
+Anika comes for the slate with two officers who still answer to her collar
+code. Tommy does not raise the lance.
+
+"You kept us alive," he says.
+
+"Then move."
+
+"You kept the unit alive."
+
+The distinction stops him before it stops her. Anika reaches for the slate.
+The review-post officer closes the evidence cage on her hand and reads the
+arrest authority from paper because Anika's field has already disabled the
+wall display.
+
+She counts four breaths while they fit the ordinary restraint. On the fifth,
+the remaining officers step back from her coherence field.
+
+Tommy sits on the floor outside the interview room until someone brings a
+chair. He gives the names of the people he struck. The investigator writes the
+first one down twice and crosses out the misspelling in full view of him.
+
 On the twenty-first day, the named attack condition ends.
 
 Eli's authority expires at 18:00 local time.
@@ -5783,7 +5861,7 @@ Arman has sent the drone footage.
 
 Leilani has sent no statement at all.
 
-## Chapter Nine—The Hearing Begins
+## Chapter Nine—The Packet
 
 Eli walks past the ceremony platform and enters the civic room through the side
 door.
@@ -6650,6 +6728,35 @@ No Extra flag.
 
 The woman folds the credential into her bag. The veteran has already called the
 next person forward.
+
+---
+
+Lang watches the handover from the medical operations floor.
+
+His forecast remains open beside the feed. It gives Eli an eighty-six percent
+likelihood of retaining one emergency key after the ceremonial transfer. The
+model expects the boy who entered Tomas without consent, accepted wartime
+coordination, and asked Wren for the whole network.
+
+The key-return ledger updates.
+
+All seven keys are accounted for. Eli has kept none.
+
+An analyst enters **AGENT DEVIATION** and asks whether to reopen the identity
+weights.
+
+Lang changes the field to **UNMODELED PRESSURE**.
+
+"Which pressure?" the analyst asks.
+
+On the feed, the next person walks to the desk without asking where Eli has
+gone.
+
+Lang closes the forecast.
+
+"Pending review."
+
+He does not reopen it.
 
 ---
 

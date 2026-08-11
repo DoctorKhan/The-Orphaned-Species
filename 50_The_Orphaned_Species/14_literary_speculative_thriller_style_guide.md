@@ -196,7 +196,7 @@ Borrow the *Silo* lesson without borrowing the dystopia: **the place is a plot e
 2. **Class and truth as altitude** — up/down (or surface/Thread, bund/dead field, tourist path/sealed door) is who eats, who knows, who is watched. Force Eli’s body through the grade change.
 3. **Lived systems before lore** — how the place *runs* (tongs, wage tickets, gantries, sluices, backfill clocks) before what it *means*.
 4. **Wonder + dread in the same room** — wonder before ambush (`55` §8). Awe that can turn poisonous.
-5. **Revisit changed** — Pelangi return (Vol III); Singapore as memory/scar; Sanxingdui after Rasel's recovery.
+5. **Revisit changed** — Pelangi return (Vol III); Singapore as memory/scar; Sanxingdui after Eli refuses Rasel.
 
 **Craft rule — each major location gets all four:**
 

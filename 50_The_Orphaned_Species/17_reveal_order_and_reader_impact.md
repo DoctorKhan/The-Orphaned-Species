@@ -160,7 +160,7 @@ Every volume ends **climax + hunger**: irreversible satisfaction *and* a forward
 
 | Book | Climax (satisfaction) | Hunger (forward pull) |
 |---|---|---|
-| **I** | Father recovered; Sanxingdui wonder; irreversible public costs | Mother still west; Wren displaced; parental complicity opened |
+| **I** | Father reached and refused; Sanxingdui wonder; irreversible public costs | Mother still west; Wren displaced; parental complicity opened |
 | **II** | Maren released under assault; damaged life-technology understood; first human–elven reply arrives without ownership; awakening spreads | No civic form for awakening or contact; Sol already recruiting forced unity |
 | **III** | Continental Union defensive capacity reunified for the Mandate war (wartime coordination, not the wider interregional compact); war window survived; crown bound; handover **succeeds** under live threat in Eli's own hall | Eli free and unhomed (Loop); Continuity clause dormant; material debts remain |
 | **IV** | Child born without title; final relinquishment mid-labor | Series close = ordinary life possible — not another volume cliff |

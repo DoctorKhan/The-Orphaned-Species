@@ -12,7 +12,7 @@
 
 4. **Ring is the evidence that reaches the teacher.** Rasel's silver-and-brass wedding ring is the clue that connects Eli to the monastery/teahouse. The ring's maker's mark, engraving, or pattern matches the teacher's records or the site's carved markers. The emotional weight lands because Eli recognizes the practice from his parents' ordinary habits, not because the location is holy or fated.
 
-5. **No martial in fugitive interval.** The post-extraction Thailand stay is wat breath only. Martial + chi-body is learned later, on-page in Vol I Ch 5–10 from Kru Dao. The wat teacher does not teach combat.
+5. **No martial in fugitive interval.** The Thailand stay after his parents disappear is wat breath only. Martial + chi-body is learned later, on-page in Vol I Ch 5–10 from Kru Dao. The wat teacher does not teach combat.
 
 6. **Meditation produces non-psionic abilities that also enhance psionic capability.** The core abilities are: breath regulation under pressure, sustained attention, body scanning, stillness under observation, returning when the mind runs, and distinguishing observation from reaction. These are themselves useful skills—they let Eli work longer, notice more, stay functional in high-stress environments, and recover faster. As a secondary effect, they give him a regulatory framework for psionics: the same habit of returning to breath keeps him from identifying with surge; the same attention to the body's boundaries keeps receiver use bounded. The abilities are not psionic training, but they make the later Manual Override possible because they are already installed as ordinary discipline before the charge shows up.
 

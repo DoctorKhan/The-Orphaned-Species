@@ -13,7 +13,7 @@
 |---|---|---|---|
 | Receiver opening — the Three Circles surface at Malacca | Locked (§ dream-reception rule, `35_artifact_chain.md`) | **Present**, Ch 3, line 812 ("three rings, one inside the next inside the next") | Founding case for the dream-reception/forgetting-clock rule; content is lost to the water on-page as the rule requires |
 | Forensic identification of Rasel (ring inscription, biometric fragment, material analysis, Charkha-plant false lead) | Locked, three independent strands required | **Present**, Ch 12–13, line 293 | Prose matches the beatsheet's three-strand requirement closely, near verbatim in places |
-| Ender's Game reveal — Rasel walked into the program on purpose; Maren built the first classifier | Locked, drafted per `31` note | **Present**, Ch 13, lines 2981–3083 ("Nobody kept me... I walked into their program on purpose") | Matches beatsheet dialogue closely. Does not spell out the megalithic-infancy mechanism added to `35_artifact_chain.md` § *The Folly* on 2026-08-10 — appropriately vague on mechanism, not a contradiction |
+| Ender's Game reveal — Rasel was abducted, then chose to stay; Maren built and sabotaged the first classifier | Revised 2026-08-11 | **Present**, Ch 13 ("They took me. Keeping me became unnecessary") | Matches the failed-rendezvous history and preserves Rasel's later culpable choice. The megalithic-infancy mechanism remains unstated here. |
 | Wonder-before-ambush at Sanxingdui | Locked, mandatory | Present, Ch 12 opening | Not line-verified beyond chapter presence |
 | Maren summons note ("Babu — if this reaches you, ask me why I stayed") | Locked 2026-08-10 | Not checked this pass | Added same day as this audit; verify next pass |
 

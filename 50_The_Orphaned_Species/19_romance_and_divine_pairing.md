@@ -896,7 +896,7 @@ Pair with existing scene requirements (`19` § Scene requirements). If a beat ha
 
 ### Other women (brief)
 
-Mystery/intrigue/attraction are **not romance-only**: **Mei** (rules as love language, registry bend); **Sora** (soft conscience under collar); **Maren** (researcher-song mystery, taken alive). They carry **registers** (`15` power table), not either romantic bond.
+Mystery/intrigue/attraction are **not romance-only**: **Mei** (rules as love language, registry bend); **Sora** (soft conscience under collar); **Maren** (researcher-song mystery, walked out and vanished). They carry **registers** (`15` power table), not either romantic bond.
 
 ## End-state image
 

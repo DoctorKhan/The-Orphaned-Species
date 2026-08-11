@@ -265,7 +265,7 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 17. **Antagonist weekly job — LOCKED 2026-07-31.** Across each volume, opposing forces keep **present-tense work with deadlines** audible at least every 1–2 chapters (not ideology alone). Soft-hunt / clerk / Sol recruit / Continuity roster / registry sweep all count if someone is doing a job by a clock (`55` § *Five delivery upgrades*).
 18. **Cast chemistry (non-thesis) — LOCKED 2026-07-31.** Every 1–2 chapters include at least one beat of **wanting to hang with these people**: food, banter, irritation, mutual competence, shared sleep/travel logistics — not a moral argument. Desire between people spikes as often as cosmology (`55` § *Five delivery upgrades*).
 19. **Public-door / visual-identity check — REVISED AND LOCKED 2026-08-01.** Pitch copy gives the stranger's first causal memory to **Rasel's two-metal wedding ring (*same soil*)**. The recurring visual system remains the **Sanxingdui Bronze Tree** (`35` § *Series icon*); no rule requires a ring on every cover. Volume emblems may vary without entering the one-sentence hook (`55` § *Five delivery upgrades*).
-20. **Book I complete meal — LOCKED 2026-07-31.** Ch 11–13 must read as a finished thriller (chase, landmark wonder, father recovered, irreversible costs) that also opens the series — not as setup that withholds satisfaction until Book II (`55` § *Five delivery upgrades*; `58`).
+20. **Book I complete meal — LOCKED 2026-07-31; OUTCOME REVISED 2026-08-11.** Ch 11–13 must read as a finished thriller (chase, landmark wonder, father reached and refused, irreversible costs) that also opens the series — not as setup that withholds satisfaction until Book II (`55` § *Five delivery upgrades*; `58`).
 21. **Climax staging — epic enough — LOCKED 2026-08-01.** Every volume ends climax + hunger. II: assault concurrent with release. III: war-window concurrent with handover (birds = coda). IV: labor/heir/vote simultaneity. `17` § *Climax staging*; `55` §6.
 22. **Book II delivery package — LOCKED 2026-08-01.** Mother Clock A every chapter; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Anika/Custodian pressure carries instrument function); Sol @ Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers (chase grammar, people spine, hearth/*flow* Ch 6, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Rootbook correction, Somchai hard no late Ch 9). `32` § *Book II delivery package*; `55` Book II dual-clock map.
 23. **Three-Term scene check — LOCKED 2026-08-05.** Every chapter must answer four questions: what cultural program operates? what family/individual program operates? what pressure exceeds the program's vocabulary? what practice emerges—or fails to emerge—in the gap? A chapter that cannot name all four elements needs rework before it is "done." `00_THREE_TERM_MODEL.md` § *Scene filter*. Applies to `31`, `32`, `33`, and `34`.
@@ -361,7 +361,7 @@ the longer visual identity. Stable promise does not mean identical copy.
 
 ### 5. Book I as a complete meal
 
-Ch 11–13 (Human Doors → Tree with No Top → Living Route) must deliver a **finished thriller satisfaction**: chase clocks, landmark wonder, father recovered, irreversible public costs (Wren displaced, Qiao barred), parental complicity opened — **and** still open Book II (Maren west, Göbekli unpaid). Fail if the ending reads only as "setup for the real series." Governing climax: `58_sanxingdui_climax_lock.md`.
+Ch 11–13 (Human Doors → Tree with No Top → Living Route) must deliver a **finished thriller satisfaction**: chase clocks, landmark wonder, father reached and refused, irreversible public costs (Wren displaced, Qiao barred), parental complicity opened — **and** still open Book II (Maren west, Göbekli unpaid). Fail if the ending reads only as "setup for the real series." Governing climax: `58_sanxingdui_climax_lock.md`.
 
 ### 6. Four-book climax staging — epic enough — LOCKED 2026-08-01
 
@@ -402,7 +402,7 @@ Use with the chapter audit table above. **Pass** = both clocks move; one antagon
 
 | Ch | Clock A (rescue) | Clock B (network / registry) | Antagonist job (present-tense) | Cost → next chapter |
 |----|------------------|------------------------------|--------------------------------|---------------------|
-| 1 | Death file false; both alive at extraction, later fate unknown | Mandate squeeze; Babaji raid; hearth suspended; Wren attests under watch | Cohort/registry sweep clears the island before Eli's Saturday departure | Because hearth is suspended and Babaji's offices are hit, Ch 2 **must** run Singapore under Wren's papers — no home fallback |
+| 1 | Holiday exposed as flight; parents missing after a promised one-night drop-off; no witnessed death | Mandate squeeze; Babaji raid; hearth suspended; Wren attests under watch | Cohort/registry sweep clears the island before Eli's Saturday departure | Because hearth is suspended and Babaji's offices are hit, Ch 2 **must** run Singapore under Wren's papers — no home fallback |
 | 2 | Ring on file (*same soil*); Hassan has the band | Circuit soft-hunt; Extra-lane; wage ticket spent; Wren peels off to protect house links | Sora/Custodian soft-hunt at Circuit; intake clerk processes Eli as loose end | Because Hassan takes the ring into the chase, Ch 3 opens with **ring + Hassan lost** and Salmah already exposed |
 | 3 | "I'm not going dark"; Rootbook *name* seed | Salmah's boat seized; platform hospitality burns heat onto local house | Custodians close quarantine tow / reclaim Hassan | Because Salmah and the platform are billed, Ch 4's passage must use **disclosed, bounded** help — no invisible extraction |
 | 4 | North/ping valley trail toward mother-evidence | Wren discloses full route; civic links become visible freight | Inspection/gantry; Custodians a day behind | Because Wren named every stop, Ch 5's coast offer / bait arc can burn **those named people** if they linger |
@@ -413,7 +413,7 @@ Use with the chapter audit table above. **Pass** = both clocks move; one antagon
 | 9 | Record vs vials | Pump house; forty families; Wren overrides | Custodians + northern team fight through the formation | Because the clean record burns, Ch 10 must evacuate with **half-series only** and argue freight terms |
 | 10 | Ash + half copy → west | Shame/anger repair; cooperative keeps a copy; Wren's constitution | Pursuit still live; Malai counts bodies not metaphors | Because Wren renegotiates terms, Ch 11's human-door choice is **between people**, not Eli alone |
 | 11 | Rasel before Mandate move; Bangladesh closed | Dara's permit; Sora/border corruption; Laos closes → Vietnam hazard | Anika: clean voluntary scan/registration before annex transfer | Because Dara's permit and the clean scan are refused, Ch 12 arrives at Sanxingdui on **civilian accreditation only** — no protected line |
-| 12 | Tree/mesh opens annex route to Rasel | Luo/Qiao clearance at risk; Wren working doors | Conservation/security clocks; coerced program wants model cadence | Because access is borrowed not owned, Ch 13's evacuation signature will **spend Wren's standing** to open the gate |
+| 12 | Tree/mesh opens annex route to Rasel | Luo/Qiao clearance at risk; Wren working doors | Conservation/security clocks; Mandate program wants model cadence | Because access is borrowed not owned, Ch 13's evacuation signature will **spend Wren's standing** to open the gate |
 || 13 | Rasel **refused**; Manual Override personal | Wren displaced; Qiao barred; civilians out | Apparatus demands master cadence; accreditation/emergency gate | Because Wren is displaced and Rasel **refused**, Book II Ch 1 **must** open with a father Eli left behind **and** a network bill already unpaid |
 
 ### Book II — dual-clock & cost→next map (drafting / revision obligation)
@@ -474,7 +474,7 @@ Use with `manuscripts/I_The_Breach.md` revision passes. **Pass** = all ten check
 
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
-| 1 | Hour That Belongs to No One | Pelangi → strait | Race buoy; cohort list; brain scanner | Mei vs Eli; Babaji holdout | Ambiguous-loss truth → departure | Clipboard, cohort, scanner | Wren attests; Mei feeds | Scanner ↔ later Custodians | Timah/fairway (micro) | Hearth suspended; garden; Shireen | Alive at extraction; later fate open |
+| 1 | Hour That Belongs to No One | Pelangi → strait | Race buoy; cohort list; brain scanner | Mei vs Eli; Babaji holdout | Holiday exposed as flight → departure | Clipboard, cohort, scanner | Wren attests; Mei feeds | Scanner ↔ later Custodians | Timah/fairway (micro) | Hearth suspended; garden; Shireen | Parents missed rendezvous; no witnessed death |
 | 2 | His Hand | Stack → Malacca | Rasel's wedding ring: *same soil*; Extra-lane sign | Clerk vs system; Hassan vs ring | Ring → chandlery same ch | Arch, file, lower concourse | Wren, clerk, unsponsored tradesman | Same door × cities | Cube Circuit | Wage ticket spent; presumed danger witnessed | Rasel alive on file → Malacca |
 | 3 | What Didn't Die | Platform → inland | Rootbook *name* index | Eli's leap vs provisional record | Wafer opens *name* | Custodians named; quarantine tow | Wren, platform keeper, Babaji note | Scanner rhyme explicit | — | Salmah boat; local hospitality exposed | Not going dark |
 | 4 | The Passage | Depot → river | Signed placement; disclosed route | Bounded help vs ownership | Route consent seeds | Gantry; inspection; van | Wren/Pak Din/local houses | Registry trap shape | Bioluminescence (free) | Civic links exposed | Wren's duty not claim |
@@ -511,7 +511,9 @@ custody chain; Maren's Rootbook index opens; pattern conspiracy felt, apex not d
 ### Cold-read verdict on Ch 1–3 (the original concern)
 
 Ch 1 is pure home/harbor/orphan-truth — no ring, no faction vocabulary, just
-the race, Mei's terrace, and the reveal that both parents survived the extraction night. Ch 2
+the race, Mei's terrace, and the reveal that Eli's childhood holiday was a flight.
+His parents left him with Mei for one promised night and vanished before reaching
+their guide. Ch 2
 delivers the ring proof early and viscerally (*same soil*, the evidence-tray
 photograph) and spends the rest of the chapter on the Singapore screening
 arch and the Cube chase — pursuit begins immediately after the proof, exactly
@@ -554,7 +556,7 @@ vs. 264–521 for 1/2/11/12/13) are a pacing choice, not thinness: the
 investigative middle runs terser and faster; the bookend chapters run longer
 because they carry the breach and the climax. Ch 11–13 deliver the locked
 "complete meal" exactly: chase clocks, landmark wonder (the Bronze Sacred
-Tree), father recovered, irreversible public costs (Wren's credential turns
+Tree), father reached and refused, irreversible public costs (Wren's credential turns
 red on-page, Qiao's and Luo's clearances compromised), and Book II is opened
 cleanly (Maren west via Rasel's disclosure, Hassan and the ring gone toward
 the Bosporus).
@@ -670,7 +672,7 @@ ending.
 
 ## Book III — chapter-by-chapter pitch audit (2026-07-25)
 
-Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all ten checklist items planned on-page. **Win condition:** release + coexistence + bounded authority + step-down — **not** boss-fight, throne, or treasure box. **Charkha full engine** + dependency-transfer payoff land here (Ch 4–5). Rasel has been present since the Book I Sanxingdui rescue.
+Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all ten checklist items planned on-page. **Win condition:** release + coexistence + bounded authority + step-down — **not** boss-fight, throne, or treasure box. **Charkha full engine** + dependency-transfer payoff land here (Ch 4–5). Rasel remains at Sanxingdui after the Book I confrontation.
 
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|

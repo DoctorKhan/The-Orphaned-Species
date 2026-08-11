@@ -47,7 +47,13 @@ Romance runs the **same thesis** as cosmology: *clinging = cage; release = adult
 
 **The escape-hatch pitfall — LOCKED 2026-08-07.** A real risk in any concurrent-bond structure: using one relationship to avoid conflict in another instead of resolving it. Give it one clean scene rather than leaving it implicit. Wren, upset with Eli over something real and unresolved, reaches for Rowan's comfort instead of dealing with him. Rowan — who already confronts Wren directly elsewhere ("A completed route is not a returned person," § *Rowan return* above) and whose independent standing is already locked (§ *Witnessing, not taming* above) — refuses to be the exit: *I am not the place you go instead of him.* She sends Wren back to the actual problem rather than absorbing it. This gives Rowan agency inside the poly structure rather than being triangulated silently, and keeps Wren's avoidance a choice she has to answer for, not a comfort she gets to keep.
 
-**Disproportionate labor on the hub — LOCKED 2026-08-07.** Wren connects Eli and Rowan; in any such structure the connecting person tends to absorb everyone else's feelings and logistics. This fits an existing flaw rather than inventing one: Wren already treats care as a system to run ("intake arithmetic," over-management — § *How Eli helps Wren* above). Let this cost her visibly at least once: a scene where she is managing both of their feelings about each other and no one is managing hers, and she either names the imbalance herself or lets it go unnoticed long enough to resent it. The resolution is not "Eli and Rowan learn to manage themselves" as a tidy fix — it is Wren learning to ask to be managed too, the same "held without being managed" want already locked for her (§ *How Eli helps Wren*), now asked of both partners rather than absorbed alone.
+**Disproportionate labor on the hub — DRAFTED 2026-08-11.** Wren connects Eli
+and Rowan and absorbs their feelings and logistics through the same intake
+arithmetic she applies to routes. In Book IV's coda she puts three schedules on
+the table, tells them to address questions to each other, and asks for the blue
+blanket and a night when somebody else hears Tara first. The harder request
+follows: she wants to be looked after without arranging the care herself
+(`manuscripts/IV_The_Court_of_Threads.md`).
 
 **Jealousy of irreplaceable history — LOCKED 2026-08-07.** Sharper and harder to resolve than jealousy of time: Eli can never have the training-ply body-memory Wren and Rowan share (`19_romance_and_divine_pairing.md` § *Training ply*) — a specific, permanent asymmetry no amount of present-tense commitment closes. Do not resolve this with reassurance ("you have your own history with her") — that answers a different feeling than the one he has. Let him sit with it as an ordinary cost of loving someone with a past, not a problem to fix: one scene where he names precisely what he envies — not her body, not her time, the specific unrepeatable years — and Wren does not apologize for having lived before him. The ache stays; what changes is whether he treats it as evidence he doesn't belong, or as the ordinary price of loving a whole person instead of one who started existing when he met her.
 
@@ -136,7 +142,7 @@ that protects them?
 | **Means** | Clues, routes, witnesses, records, skills, alliances, deep-time reads |
 | **Misread (by others)** | Chosen one, heir, coordinator, indispensable founder |
 | **Misread (by Eli, early)** | If I solve the mystery / earn the record / become necessary, I can get them back |
-| **Mature correction** | Recover Rasel without demanding innocence; release Maren without possession; refuse the permanent crown |
+| **Mature correction** | Hear Rasel without turning abduction into absolution; release Maren without possession; refuse the permanent crown |
 
 **Craft rule:** when Eli takes a job, follows a thread, or accepts help, the scene should **also** answer *how does this move the parent rescue?* Power temptations land because rescue **seems** to require them — then cost proves otherwise.
 
@@ -241,8 +247,8 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 Eli's through-line is an **ascent into answerability**, not a flat run of nos. He achieves competence, allies, real wins, a following, and temporary command. Maturity requires both accepting authority when permanent renunciation would abandon people and surrendering it when necessity ends.
 
 - **Vol I — prey → agent:** learns to *act* (reads a field, protects **Malai's**
-  Thailand cooperative—a built win); earns Wren's trust, survives Malacca, and
-  recovers Rasel without acquiring an expert guide. His flare is a double-edged
+  Thailand cooperative—a built win); earns Wren's trust, survives Malacca, reaches
+  Rasel, and refuses to remain with him. His flare is a double-edged
   "arrival" (rise = exposure).
 - **Vol II — agent → liberator:** wins against Custodian control, grows a coalition, reaches Maren, releases her, and seeds the first awakening without owning the amplifier. The myth accretes against his will. Liberation outruns the social capacity to hold it.
 - **Vol III — coordinator → wartime strongman:** accepts a narrow wartime mandate and reunifies defensive capacity — ports, clinics, farms, local administrations, and capable officers — into a temporary cross-route command. He wins battles and saves people, issuing real orders because food, evacuation, defense, and routes require decisions, not symbolic consensus. He completes a real relinquishment at the end — in one hall, under real threat, he signs away his own authority and the room continues without him. But that win is local: Continuity keys, factional mandate, and private force in regions outside that room stay live and unresolved, so the wider interregional compact the war seemed to prove was never actually intact. The first relinquishment is **incomplete** — not because Eli refuses it, but because that wider gap only surfaces once Book IV arrives.
@@ -371,8 +377,8 @@ Coerced family → **fracture** → broken/changed by Vol III.
 
 | Member | Start | Possible turn |
 |---|---|---|
-| **Anika Voss** | True believer manager | Holds team together; no redemption |
-| **Tomás Reyes** | Lance / self-loathing | Burnout or civilian harm point-of-no-return |
+| **Anika Voss** | True believer manager | Arrested after Tommy transfers the mission log; no redemption |
+| **Tomás Reyes** | Lance / self-loathing | Surrenders the complete log, including his own Stonehenge offense, and begins naming the people he struck |
 | **Sora Vithan** | Conscience fraying; **Michael** protector faith | Vol II: secretly leaks Hassan's Gulf transfer route to Wren; Vol III: completes defection to Wren's network or dies trying — refused protector rhymes Lang (`46` § G) |
 | ~~**Jin Pak**~~ | **RETIRED 2026-08-06** — unnamed **scout** on-page; no named arc unless a want-driven beat earns one | — |
 
@@ -447,13 +453,13 @@ closure.
   plot badly to stay close to a man he misses and resents for leaving. Ch 1: taken
   alive. Book I climax: recovered at Sanxingdui, where reunion exposes love,
   abandonment, and compromised work at once.
-- **Mother (Maren):** believed dead → Mei reveals survival through extraction only → Rasel supplies a two-winters-old trace → **Book II reunion and release**. Ambiguous loss must remain available for the early parent memories; father grief must not be leached into the mother quest.
+- **Mother (Maren):** left with a promise to return, then reported dead → Mei reveals there was no witnessed death → Rasel confirms the abduction and supplies a two-winters-old trace → **Book II reunion and release**. Ambiguous loss must remain available for the early parent memories; father grief must not be leached into the mother quest.
 
 | Grief | Starting form | Development | Proof |
 |---|---|---|---|
 | Rasel | Shame dressed as incompetence in the garden; grief routed through "I should have been better at what he loved" | Learns Rasel is alive, rejects Anika's scan bargain, then recovers him at Sanxingdui | Reunion refuses restoration; father and son garden, argue about complicity and control, and remain separate moral agents |
 
-**Rasel in Book II — instrument antagonist (capped) — LOCKED 2026-08-01:** After recovery he is not a wise tour guide. Recurring want = one more reading / hold Maren's stabilizing signal. Love without agreement. Proof scenes: early entropy/sabotage rhyme; Stonehenge “one more interval”; Avebury release opposition. Elsewhere quieter. `32` § *Book II delivery package*.
+**Rasel in Book II — absent pressure — REVISED 2026-08-11:** Rasel remains at Sanxingdui by choice. His strip, instruments, and measurements outlive his presence. At Stonehenge the kit cannot supply a clean verification without him; Anika uses that limit to demand one more interval. Eli hears his father's instrument hunger in her proposal and refuses it without pretending the love is gone. Rasel's one off-page break follows the Custodian seizure built from his calibration data. `32` § *Book II delivery package*; `58` § *Rasel's quiet break*.
 | Maren | Grief-as-quest; finding her = finding home | Lucid reunion, then release; accepts that both wanting more time and letting go can be true simultaneously | **Rescues Maren — Book II**; releases her at Albion |
 
 ### Development markers
@@ -506,8 +512,8 @@ closure.
 
 | Member | Grief / fear | Starting form | Turn | End state |
 |---|---|---|---|---|
-| **Anika Voss** | Child or younger sibling lost to an uncontrolled carrier episode | True belief born of personal cost | Holds team together; sees loyalty as the only wall | No redemption; arrested or broken |
-| **Tomás Reyes** | Someone he injured during conscription training; guilt he cannot name | Lance / self-loathing; over-uses gift because harm is familiar | Civilian harm he caused crosses a line | Burnout or point-of-no-return; turned away from the unit |
+| **Anika Voss** | Child or younger sibling lost to an uncontrolled carrier episode | True belief born of personal cost | Reaches for the unit log after Sora's death; remaining officers step out of her field | Arrested under ordinary authority; no redemption |
+| **Tomás Reyes** | Someone he injured during conscription training; guilt he cannot name | Lance / self-loathing; over-uses gift because harm is familiar | Transfers the unedited mission log and refuses to remove his own offense | In custody and cooperating; testimony begins with names |
 | **Sora Vithan** | **Michael** — a recruit or partner who was harvested after refusing the collar | Conscience fraying; Mira wound (parallels Wren) | Leaks Hassan's route; completes defection or dies trying | Defector or martyred; refused-protector rhymes Lang in Vol III |
 | ~~**Jin Pak**~~ | **RETIRED 2026-08-06** — unnamed scout; family-separated backstory available as quarry if the role ever earns a name | — | — | — |
 

@@ -35,7 +35,7 @@ Your four sections are already inside the trilogy in embryo. What your framing a
 ### 2.1 Precautionary principle vs. urgency
 - The core moral test throughout the trilogy is exactly this dilemma at civilian scale:
     - Ch 10: save the agricultural evidence or the **Thailand** growers. Wren forces the humane evacuation; Eli hesitates.
-    - Ch 13 at Sanxingdui: Rasel's coerced machine interface vs. living people. Eli completes his first Manual Override; nobody is captured — Wren and Qiao pay in standing and access (`58_sanxingdui_climax_lock.md`).
+    - Ch 13 at Sanxingdui: Rasel's Mandate machine interface vs. living people. Eli completes his first Manual Override; nobody is captured — Wren and Qiao pay in standing and access (`58_sanxingdui_climax_lock.md`).
 - The consciousness-tech framing in `00_MASTER_TIMELINE` describes **the grid running on tethered souls** and the danger of **harvesting carrier-souls to broadcast through charged grounds.** Any countermeasure that routes additional souls through the same grid mechanism is structurally identical to a biological reversal intervention that creates its own ecological risk.
 
 ### 2.2 Cascading failure in a living system

@@ -128,7 +128,7 @@
 |
 - **Not a healer.** All extraordinary bodily repair and diagnostic somatic reading belongs to **Somchai Vichai, nurse and field medic**. Somchai reads bodies through felt signatures: heat (virus/fever), tingling (bacteria/nerve), pressure/pulse (blockage), cold (depletion). He repairs; Eli does not. Eli's receiver is trajectory-only: he reads the vector of systems, fields, and movements through the web, not the diagnostic state of a body.
 - ☑ **True strength vs superficial display (LOCKED).** Governing theme: equanimity ≠ performative composure. Hub: `15` § *True strength vs superficial display*; craft rule `40` #7; `00` relatability rule.
-- ☑ **Eli meditation seed — Thailand (LOCKED).** Post-attack temple practice; Manual Override fruition under challenge. Hub: `15` § *Eli's meditation seed*; `26` Eli past/habit; `27` Vol I proof; `99` open (wat/city).
+- ☑ **Eli meditation seed — Thailand (LOCKED).** Temple practice after his parents disappear; Manual Override fruition under challenge. Hub: `15` § *Eli's meditation seed*; `26` Eli past/habit; `27` Vol I proof; `99` open (wat/city).
 - ☑ **Women / Hollywood "girl power" (LOCKED).** Negative templates + positive power registers. Hub: `15` § *Women characters*.
 - ☑ **Romance cost audit (LOCKED — drafting).** Per-chapter flags in `31`/`32`/`33`; five load-bearing beats + drift risks in `19` § *Romance cost audit*; anti-pattern in `27`.
 - ☑ **Female mystery, intrigue, attraction (LOCKED).** Wren register without femme-fatale: `19` § *Female mystery…* (through-line + § *M/I/A drafting audit*); `26` Wren guardrails; `15` Wren row. **Per-chapter M/I/A** wired in `31`/`32`/`33` § *M/I/A audit* (Vol I–III). Craft rule #7 in `40_concepts.md`; checklist `27` items 5–6; locked row `28`.

@@ -879,6 +879,22 @@ Wren names six Weaver houses and two independent witnesses.
 
 Asha opens to the page where Amara wrote Nia's name.
 
+"I froze the whole credential," she says.
+
+"Henley's order was dirty."
+
+"His use was dirty. I stopped every use while six offices proved it. The
+dialysis shipment spent nine hours at anchor. One clinic ran a shortened
+session because I made a disputed key unusable instead of making each new use
+answerable."
+
+"A provisional route could have carried his authority farther."
+
+"Yes. That was the risk. I made the patients carry all of it."
+
+Asha tries to turn the page with her right hand. Two fingers fail to catch the
+paper. She uses the other hand without asking Wren to help.
+
 "Every ruler wants an honest private adviser," she says. "Every adviser wants
 privacy to speak truth. Soon the public learns that truth enters through a door
 they cannot use."
@@ -3478,7 +3494,7 @@ feel like a question mark instead of a certainty. She does not smile. She does
 not weep. She decides to call the compact what it is: a future she and Wren
 and Eli are making together, not a throne disguised as a pregnancy.
 
-## Chapter Six—The Body of State
+## Chapter Six—The Statement
 
 Pregnancy changes the hours before it changes the silhouette.
 
@@ -4720,7 +4736,7 @@ It also belongs to love.
 The court has thirty days to discover whether any institution can survive the
 difference.
 
-## Chapter Eight—The False Heir
+## Chapter Eight—The Succession Debate
 
 At thirty-three weeks, Rowan can no longer see her own feet.
 
@@ -6432,6 +6448,27 @@ constructed through acts no court invented.
 
 They share some rooms, not every room.
 
+Wren stops keeping the room schedule after finding three versions of it in her
+bag, each corrected in her hand.
+
+She puts the pages on the table between Eli and Rowan.
+
+"You ask each other," she says. "I am tired of carrying questions addressed to
+someone sitting six meters away."
+
+Eli reaches for the nearest page. Wren keeps her palm on it.
+
+"And tonight I want the back room, the blue blanket, and somebody else to hear
+Tara first."
+
+Rowan asks, "Alone?"
+
+Wren looks at the kettle, then at both of them. "No. I want to be looked after.
+I don't want to arrange how."
+
+The request sits badly in her mouth. Eli takes the kettle off before it boils
+dry. Rowan folds the three schedules into the scrap-paper basket.
+
 ---
 
 Amara comes to the teahouse for an inquiry meeting.
@@ -6453,6 +6490,12 @@ Tomas remains in supervised treatment under a revised conduct order, no longer
 held solely by Lang's registry. Amara receives updates as his sister-in-law
 because she chooses to, not because anybody makes family into compulsory care.
 
+Hassan works the teahouse receiving desk for one afternoon each week. His left
+hand still drops thin cups, so the shelf holds four steel ones where the ceramic
+used to be. He has told the ring story often enough to refuse it now. When a
+visitor asks whether carrying Rasel's proof made him part of the chosen route,
+Hassan points to the wet-boot rack and asks whether the visitor intends to mop.
+
 Mei sends food and a message about the compound account.
 
 Bima's repair fund paid for a new harbor actuator.
@@ -6460,6 +6503,23 @@ Bima's repair fund paid for a new harbor actuator.
 The first unit failed.
 
 He would have appreciated the confirmation.
+
+The same account carries two payments that took longer.
+
+Salmah received the assessed value of the seized boat, without the lost market
+months or the nets the evidence warehouse cut open. She bought a smaller hull
+from a cousin and sent Eli a photograph of its bilge. The pump sits too high.
+Her message contains no thanks, only the correct mounting depth and the amount
+still owed to the fish-cooperative box.
+
+Malai's cooperative rebuilt the pump house on higher posts. Three families did
+not return after the burned season. The forming band shifted east and crossed
+two parcels that still have separate owners. Malai's latest gauge photograph
+shows the new stakes, her thumb over one corner, and a district surveyor waiting
+where armed teams once stood.
+
+Eli sends pump brackets to Malacca and leaves the Thai ownership line blank for
+Malai to fill.
 
 ---
 

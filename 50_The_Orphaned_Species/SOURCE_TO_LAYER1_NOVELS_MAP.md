@@ -69,7 +69,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 - **Source material:** Suppression method / Charkha machinery. Not a deep-time clarification.
 - **When:** Vol II **Ch 3** — Eli learns **how his mother was taken**, paired with mother-trail midpoint (`32`, `29`, `99`).
 - **Function:** same as former prologue intent — keeps Lang from straw-man by showing enforcement in action, but **earned** after reader loves Eli and has chased the mother-trail.
-- **Deliverable:** rewrite from `archive/manuscripts/v1_archive.md` prologue (~1,000–1,500 words); **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms); SE Asia extraction/keeper setting; no Lang name.
+- **Deliverable:** rewrite from `archive/manuscripts/v1_archive.md` prologue (~1,000–1,500 words); **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms); failed SE Asia rendezvous after Eli has been left at Mei's; no keeper witness and no Lang name.
 - **Not in Vol I.**
 
 ### Ch 1 — The Hour That Belongs to No One

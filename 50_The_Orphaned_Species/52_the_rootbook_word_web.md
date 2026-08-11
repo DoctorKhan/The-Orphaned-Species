@@ -75,7 +75,7 @@ The locked turn is:
 
 > **The tree of words sits inside the web of life. It is not the whole web.**
 
-Eli reaches Sanxingdui in late Book I because the northbound route, Anika's true proof, and the Mandate's coerced field-physics program converge on **Rasel**, not because the site is a cipher awaiting Eli. Access comes through legitimate research relationships and contemporary Chinese custodianship. Local scholars and conservators already possess the material evidence and interpretive authority; Eli supplies one embodied observation, Rasel supplies field physics, and the Thai cooperative supplies independent living-ground measurements.
+Eli reaches Sanxingdui in late Book I because the northbound route, Anika's true proof, and the Mandate field-physics program converge on **Rasel**, not because the site is a cipher awaiting Eli. Access comes through legitimate research relationships and contemporary Chinese custodianship. Local scholars and conservators already possess the material evidence and interpretive authority; Eli supplies one embodied observation, Rasel supplies field physics, and the Thai cooperative supplies independent living-ground measurements.
 
 ## Trilogy progression
 

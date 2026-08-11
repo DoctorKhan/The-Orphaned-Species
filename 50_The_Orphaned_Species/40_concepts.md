@@ -280,14 +280,14 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 ### Passport split — mixed-nationality claiming
 
-**LOCKED 2026-07-24.** Scientist claiming routes by **passport / citizenship**, not marriage. A mixed-nationality couple cannot stay in one custody chain — **different papers, different claimants, parallel convoys**.
+**REVISED AND LOCKED 2026-08-11.** Scientist claiming routes by **passport / citizenship**, not marriage. A mixed-nationality couple cannot stay in one custody chain: different papers produce different claimants and separate transfers. The keeper net witnesses none of those transfers.
 
 | Parent | Passport / citizenship | Claimed by | Custody register |
 |---|---|---|---|
 | **Rasel Khan** | Bangladeshi / South Asian file | **Eastern Mandate** | **Rasel Khan** on files — indispensable personnel, black-lab transfer |
 | **Maren Holt** | Albion file (legacy *British* / UK on old registries) | **Charkha** (Lang apparatus) | *Maren Holt* — carrier-neuroscience asset; site unknown to keeper net |
 
-**Why they were separated:** not only attack violence — **claim routing**. Extraction-night intercept: Mandate files **Rasel**; the Charkha files **Maren**; no joint holding across orgs. Inter-bloc rules forbid merging chains; even if both survive the handoff, they **leave on different vehicles** toward different jurisdictions. Eli remembers one night; the file system remembers **two nationals, two claims**.
+**Why they were separated:** the interception is planned around **claim routing**. Maren and Rasel leave Eli at Mei's while they check the next route, then disappear before reaching their guide. Mandate files **Rasel**; the Charkha files **Maren**; no joint holding across orgs. Inter-bloc rules forbid merging chains, so the captors move them toward different jurisdictions. No keeper witnesses the vehicles. Eli remembers the promise to return; the file system remembers **two nationals, two claims**.
 
 **Eli's passport:** **Eli Holt** on **Albion (maternal) paperwork** — legacy *British* on some Anglo files. Would Union/Charkha-route as Albion dependent if linked to Maren's claim file; keeper protocol **unlinks** him (*orphan on paper*) so neither chain gets a clean dependent match. His **statelessness** in 2040 is partly real, partly net mercy.
 
@@ -300,12 +300,12 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 | Layer | What it means |
 |---|---|
 | **Operational** | Split routes during flight — one capture must not end the line |
-| **Violent** | Attack/handoff separates family by force (Eli: TBI, healer, Thailand corridor) |
+| **Protective** | Maren and Rasel leave Eli at Mei's while they check the next route; the interception misses him because he is absent |
 | **File security** | **Orphan on paper** — parents *dead* or *unlinked* so the child survives registry, border, and bloc recall |
 
-**Not** a Ministry of Child Security or blanket camp policy on-page unless earned later. **One family, one net decision, one file lie** — protective lying, not abandonment. Street distinction keepers teach: **stolen child**, not orphan. Parents did not choose distance; the net chose **survival over truth**. Blocs may also separate families on capture — same logic, colder paperwork.
+**Not** a Ministry of Child Security or blanket camp policy on-page unless earned later. **One family, one net decision, one file lie.** The lie protects Eli and leaves him believing the packed bags may have meant abandonment. His parents chose a one-night separation; the captors made it permanent. Blocs may also separate families on capture through the same colder paperwork.
 
-**Eli = template case:** extraction splits him from Maren and Rasel; Somchai stabilizes; escape net moves him toward Thailand; net lore = both parents dead; **Eli Holt** on passport, not *son of Rasel Khan / Maren Holt, claim-category household*. Pier reveal names the mercy: *dead on the file so you could live.*
+**Eli = template case:** his parents leave him at Mei's, fail to return, and are filed as dead; Somchai tends him before the escape net moves him toward Thailand. **Eli Holt** remains on the passport, detached from *son of Rasel Khan / Maren Holt, claim-category household*. Mei's Friday dinner reveals why the file was closed and how little anyone actually knew.
 
 **Craft rule:** do not exposition-dump the protocol in Vol I — show wage ticket, wrong corridor flag, *boy on the call sheet*, Mei's **Friday dinner** line. General rule stays author/keeper register until a scene earns it.
 

@@ -60,8 +60,8 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 **Function:** receiver, clue-follower, moral decision-maker; constructive freedom corner.
 
 **Past:**
-- **Ordinary life:** fugitive years largely **off-page in Vol I** — Bangla, food memory, **Bali rhythm** leak forward; **no martial before Ch 5**. **Upbringing — LOCKED 2026-07-24 (rev. C):** **Bali childhood** with parents (subak, gamelan, community); Bangla/culture from **Rasel and Maren**; **keeper foster parents** after extraction; **raised as a worker**. **Visuo-spatial talent** hidden under capacity claiming; TBI inconsistent. **Fugitive Thailand:** Somchai, wat breath only — **no martial**. **Present Ch 5–10:** first on-page martial + chi-body — **Kru Dao** (Ch 7 MT/Kali). **Pelangi:** Foundry only; talent pressure = spatial/splice. Pai, Khun Dang = knife/kitchen/song, not martial syllabus. **Sailing memory — LOCKED 2026-07-25:** **Maren** taught dinghy watch (feel before see, fairway breeze lane, name fear at harbor, sheet wraps); **Rasel** taught pump and *feel the cloth*. Vol I Ch 1 race/garden must seed both before reveal.
-- **Turn:** extraction attack — father **taken** into **Mandate** lab custody (Bangladeshi passport / **Rasel Khan** on files), mother **removed** on the **Charkha** chain (**Albion passport** — **passport split**); the healer stabilizes a shaken child, then **escape network separates them** and moves Eli through **Thailand**. **The head injury is NOT from the attack — BIOWEAPON PERSONAL-CONSEQUENCE LOCK 2026-08-06:** Eli's neurological scar is the **post-infectious aftermath of the engineered outbreak (Fever Years)**, contracted at Pelangi Reach during the quarantine era despite the community's care — Pelangi's clinic and Mei's kitchen nursed him through the fever, so the hearth is also the place he was sick and kept. The world's diagnosis was **TBI** and that label sticks as Eli's own shorthand; the canonical name is the **Fever scar**. The same weapon that orphaned him scars him and wakes him (outbreak survivors carry the receiver — `42`): wound, gift, and orphaning share one origin. Eli does not learn this until the Book II–III investigation exposes the outbreak as engineered. **Recovery is slow, natural, and undramatic:** substantial by Books III–IV, never a full upgrade, no climax cure (`27`, `41`); the body rewires at its own pace, which is the series' healing register (time + body + community care, not intervention-as-reward).
+- **Ordinary life:** fugitive years largely **off-page in Vol I** and presented to child-Eli as a family holiday — Bangla, food memory, **Bali rhythm** leak forward; **no martial before Ch 5**. **Upbringing — revised 2026-08-11:** **Bali childhood** with parents (subak, gamelan, community); Bangla/culture from **Rasel and Maren**; **keeper foster parents** after the disappearance; **raised as a worker**. **Visuo-spatial talent** hidden under capacity claiming; TBI inconsistent. **Fugitive Thailand:** Somchai, wat breath only — **no martial**. **Present Ch 5–10:** first on-page martial + chi-body — **Kru Dao** (Ch 7 MT/Kali). **Pelangi:** Foundry only; talent pressure = spatial/splice. Pai, Khun Dang = knife/kitchen/song, not martial syllabus. **Sailing memory — LOCKED 2026-07-25:** **Maren** taught dinghy watch (feel before see, fairway breeze lane, name fear at harbor, sheet wraps); **Rasel** taught pump and *feel the cloth*. Vol I Ch 1 race/garden must seed both before reveal.
+- **Turn:** his parents disguise their flight as a family holiday and leave him at Mei's for one night while they check the next route. They are intercepted before returning. Rasel is routed into **Mandate** lab custody (Bangladeshi passport / **Rasel Khan** on files), Maren onto the **Charkha** chain (**Albion passport** — **passport split**). No keeper witnesses the taking. Babaji files both parents as dead; Somchai tends the shaken child and the **escape network moves Eli through Thailand**. **The head injury is NOT from the disappearance — BIOWEAPON PERSONAL-CONSEQUENCE LOCK 2026-08-06:** Eli's neurological scar is the **post-infectious aftermath of the engineered outbreak (Fever Years)**, contracted at Pelangi Reach during the quarantine era despite the community's care — Pelangi's clinic and Mei's kitchen nursed him through the fever, so the hearth is also the place he was sick and kept. The world's diagnosis was **TBI** and that label sticks as Eli's own shorthand; the canonical name is the **Fever scar**. The same weapon that orphans him scars him and wakes him (outbreak survivors carry the receiver — `42`): wound, gift, and orphaning share one origin. Eli does not learn this until the Book II–III investigation exposes the outbreak as engineered. **Recovery is slow, natural, and undramatic:** substantial by Books III–IV, never a full upgrade, no climax cure (`27`, `41`); the body rewires at its own pace, which is the series' healing register (time + body + community care, not intervention-as-reward).
 - **Unreconciled:** song with no name; garden kept **badly** (father's craft without mastery); cousin **Shireen** still in Dhaka; never got to mourn on his own terms. **Naming:** Maren's **Eli** everywhere official; Rasel's **Babu** (dak nam) at home only — body-memory, not plot key.
 
 **Want:** rescuing his parents—Rasel (Book I), Maren (Book II). Everything else is
@@ -70,7 +70,7 @@ about what he is—cook, garden badly, belong.
 
 **Not seeking:** power, throne, permanent command, or a chosen-one identity that explains his loss — though others will offer all of these because he is useful on the rescue path.
 
-**Wound:** raised believing both parents dead. Mei's Friday dinner establishes only that they entered separate vans alive; later survival is unknown until the evidence ladder advances. **TBI**; every faction wants to name him.
+**Wound:** his parents left him at Mei's with a promise to return, carried their bags away, and vanished. He is later told they died. Mei's Friday dinner establishes that no one witnessed their deaths and that the family holiday was a flight; later survival is unknown until the evidence ladder advances. **TBI**; every faction wants to name him.
 
 **Habit:** goes quiet and competent on the line or over a blade; loses words under rush or surge; touches soil when frightened; **returns to breath** under overload when the habit still works (Thailand seed — see `15` § *Eli's meditation seed*).
 
@@ -353,7 +353,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Voice:** dry, exacting, states hard things plainly, as data — including the hardest thing: that he'd choose the same again. Rarely raises his voice. Corrects an idealized childhood memory the same flat way he'd correct a measurement, offered as if the correction were still a kindness.
 
-**Guardrails:** not a mustache-twirling villain — his logic is internally coherent, matches "no sides, only incentives," and he believes it. Not a secret hero either; there is nothing to redeem him from inside this book. The Sanxingdui reunion **refuses reunion**: Eli does not get the father he came for, Rasel does not ask to be rescued because there was never anything to rescue him from, and Eli leaves without him. His later quiet break from the Mandate (Book II, triggered by a Custodian attack on Eli that traces back to his own measurements) is not remorse — it's the same transactional logic curdling once the Mandate breaks its half of the bargain, not an author's forgiveness dispensed early (`58` § *Rasel's quiet break*).
+**Guardrails:** not a mustache-twirling villain — his logic is internally coherent, matches "no sides, only incentives," and he believes it. Not a secret hero either; there is nothing to redeem him from inside this book. The Sanxingdui reunion **refuses reunion**: Rasel was abducted years earlier, then chose the Mandate and can leave by the time Eli reaches him. He does not ask to be rescued, and Eli leaves without him. His later quiet break from the Mandate (Book II, triggered by a Custodian attack on Eli that traces back to his own measurements) is not remorse — it's the same transactional logic curdling once the Mandate breaks its half of the bargain, not an author's forgiveness dispensed early (`58` § *Rasel's quiet break*).
 
 ---
 
@@ -371,7 +371,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Turn:** she discovered that emergency safeguards were becoming permanent requisition infrastructure and that research subjects could not meaningfully withdraw. She copied records, sabotaged part of the mapping work, and fled with Rasel and Eli. Her resistance saved lives but did not erase the systems her earlier work made possible.
 
-**Extraction — LOCKED 2026-07-24:** **Albion passport** (legacy *British* on some files) → claimed by the **Charkha**; **Rasel** (Bangladeshi passport) → **Eastern Mandate**. **Passport split:** different citizenship, different claiming orgs, **parallel convoys** — not one van. Site unknown to keeper net until **Book II release** (not a rescue — she is not extracted from anywhere; Eli frees her by giving up the reunion, `00_NARRATIVE_STRUCTURE.md` § *The mother — the heart of it*). `40` § Passport split.
+**Interception and custody split — LOCKED 2026-08-11:** Maren and Rasel leave Eli at Mei's while they check the next route. They are abducted before reaching the rendezvous; no keeper sees the vehicles or learns where they went. **Albion passport** (legacy *British* on some files) routes Maren to the **Charkha**; Rasel's Bangladeshi passport routes him to the **Eastern Mandate**. The pair-severance order predates the interception. Rasel later chooses to remain in the Mandate program. Maren's site stays unknown to the keeper net until **Book II release** (not a rescue — she is not extracted from anywhere; Eli frees her by giving up the reunion, `00_NARRATIVE_STRUCTURE.md` § *The mother — the heart of it*). `40` § Passport split.
 
 **The megalithic act — added 2026-08-10 (`35_artifact_chain.md` § *The Folly*):** as an infant, Eli was carried through a circular megalithic structure in England — her doing, discovered rather than told, well after Book I. She knew what the ground would do; it retuned his epigenome toward psi years before he had any language for what that meant. Told to no one, including Rasel. The first move in a plan she has been running alone since before Eli could consent to anything at all — continuous with the same sabotage-from-within that defines everything she does later, not a separate act.
 
@@ -404,7 +404,11 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Habit:** reasonable voice; remembers names; never raises volume in rooms that matter.
 
-**Deepening — one private humane beat (not redemption):** alone, tending **a file cabinet of carriers who died in custody** — or a bonsai, or updating a dead child's birthday in a ledger he keeps against policy. No Eli present. Reader understands he believes he is preventing more rows in the file.
+**Deepening — DRAFTED 2026-08-11:** before the Avebury call, Lang updates
+Imani Vale's paper custody file on her birthday, crosses out her dead mother's
+address, and waters the bonsai before placing it inside the camera frame
+(`manuscripts/II_The_Descent.md`). No Eli witnesses the pause. Lang still makes
+the operator demand.
 
 **Voice:** civil, paternal, never cartoon evil; dangerous when socially indispensable.
 
@@ -422,7 +426,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Past:**
 - **Ordinary life:** Thai **nurse and field medic** moving between corridor clinics, threshold houses, and emergency sites — wound care, fevers, triage, medication rounds, evacuation; hands-on care before carriers had a registry name; son of a man, not a myth.
-- **Turn:** stabilized **child-Eli** after the family attack, passed him to escape network, **lost track** in separation — guilt he won't perform as holiness.
+- **Turn:** tended **child-Eli** after his parents failed to return to Mei's, passed him to the escape network, **lost track** in separation — guilt he won't perform as holiness.
 - **Unreconciled:** **aging mother** in diabetes queue; co-worker **Pin** who shared a healing clip and broke *don't tell anyone*; two public healings still owed.
 
 **Want:** care for bodies without becoming anyone's miracle, inexhaustible resource, or property.
@@ -453,7 +457,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Function:** **refuge provider** first — eccentric billionaire who kept the **Reclamation / Forest Foundry** corridor alive as accountable shelter when the Forest City megaproject failed and the outbreak hit. **Keeper holdout** second — personal line, not an order: refused flagged-carrier transfer at causeway; moved suppressed archive material off Mandate soil → **Mandate squeeze** (Ch 1 night).
 
-**Bio:** old friend of **Rasel Khan** — Rasel planted for him on **Old Pelangi** before the Reclamation towers. When the net broke after extraction, Rasel sent **a name, not money**; Babaji gave Eli **work at Foundry, not a wallet**. Keeps a small **keeper cell** (tea room, harbor threads) but is **not** a mystic order head.
+**Bio:** old friend of **Rasel Khan** — Rasel planted for him on **Old Pelangi** before the Reclamation towers. After the parents disappeared, Rasel's old contact trail supplied **a name, not money**; Babaji gave Eli **work at Foundry, not a wallet**. Keeps a small **keeper cell** (tea room, harbor threads) but is **not** a mystic order head.
 
 **Voice — LOCKED 2026-07-25:** **educated American register** — model **Srinivasan Balaji** (precise, analytical, jurisdiction-and-systems framing; compressed aphorisms; no harbor slang). Contrast on-page: **Suresh** = harbor practical; **Mei** = kitchen quiet; **Wren** = composed hostess, soft-spoken. Babaji speaks like a man who thinks in corridors, credentials, and compression — *work, not wallet* as principle, not proverb. Never folksy mystic; never thesis-exposition dump.
 
@@ -585,11 +589,13 @@ true. “Same soil” remains a family phrase, not a secret map or prophecy.
 
 **Breach action — LOCKED:** sees the assault and uses a **boat hook, mooring line, and current knowledge** to get Eli clear. Performs rough practical resuscitation until he breathes. She has no psionic gift and does not understand what she sees on the ordinary plane.
 
-**Cost:** the Custodians use quarantine authority to suspend her market access and seize her boat as contaminated evidence. She survives but loses income, standing, and control of her work because she helped a stranger.
+**Cost:** the Custodians use quarantine authority to suspend her market access and seize her boat as contaminated evidence. She survives but loses income, standing, and control of her work because she helped a stranger. Book IV's coda pays the assessed hull value after years of delay; lost market months and cut nets remain unpaid. She buys a smaller boat and sends Eli the pump depth and the balance he still owes the fish-cooperative box.
 
 **Voice:** direct, impatient with explanations, names river conditions before motives.
 
-**Later echo:** a short message, harbor rumor, or restitution attempt reveals that survival did not erase the cost. Eli cannot repay her merely by becoming important.
+**Later echo — DRAFTED 2026-08-11:** partial restitution buys a smaller working
+hull. Her message to Eli contains the faulty pump depth and the unpaid co-op
+balance, with no gratitude requested or offered.
 
 **Guardrails:** not a mystical crone, maternal rescuer, or instantly loyal ally. Research exact Malacca market/river practice before drafting her scene.
 
@@ -699,7 +705,13 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Habit:** touches people's wrists to "read" them — manipulation dressed as gift.
 
-**Arc:** tempts Eli when Sanxingdui's civilian costs make bounded consent look weak; one crowd scene where Eli refuses messianic identity publicly; Sol may die, burn out, or remain a dangerous movement behind Book III's militarized-liberation pressure. His signature argument lands during the Book III attack: *goodness that lets people die to stay unstained is vanity; who are you to be so precious about your one soul?* It presses Eli to convert bounded emergency coordination into forced synchronization. Drafted material in `49_machiavelli_toolkit.md` is tonal and doctrinal quarry; the governing placement is a Book III crowd-crush amid the factions grabbing at the healer (`33` — chapter not yet re-pinned after the Act restructure).
+**Arc — outcome drafted 2026-08-11:** during Book III's final assault, Sol's
+continuous field fractures as exhausted members leave. His body fails after the
+last replacement circle drops. Compact medics admit him under **Diego Méndez**,
+treat the old implant burns, and hold him under an ordinary conduct order. His
+field has not returned by the hearing. The red-scarf movement divides over his
+passwords and survives him as a political danger
+(`manuscripts/III_The_Compact.md`).
 
 **Guardrails:** not comic; not correct about destiny; must threaten real civilians. His case is *partly true* (Eli's restraint really did cost a life) — grant it force; he is wrong only that the massacre is the sole alternative.
 
@@ -729,7 +741,12 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Guardrails:** not the lone good Easterner, not a mystical Muslim navigator, not a benevolent trader cleansed of force, not a mouthpiece for all Chinese or Mandate people, and not a late ally who cancels the Pacific offensive. Other Mandate scientists, sailors, workers, families, officials, and critics must be visible around him.
 
-**Personal restraint — LOCKED 2026-08-06:** Ma needs at least one scene (Book III) where her careful restraint is **personal, not institutional** — a wound enacted rather than narrated. Model: she corrects a subordinate's casualty estimate by naming the crew member who taught her water-reading, then re-enters the negotiation as if nothing had been said; the care is visible once and never invoked as credit. She must also disagree with Eli on something personal at least once — not a policy dispute but a judgment about grief, debt, or what a person owes the dead — and be right enough that he has to sit with it. Without these two beats Ma reads as courteous machinery; the series cannot afford a procedural limit wearing a face.
+**Personal restraint — DRAFTED 2026-08-11:** Ma corrects a convoy roster that
+still lists Lin Wei, the dead crewman who taught him to read shoal water. Ma
+approved the blockade in which Lin died. He tells Eli that Lin's daughter needs
+an accurate pension file rather than Ma's grief; Eli cannot dismiss the scale
+of that duty while his own harbor manifest remains open
+(`manuscripts/III_The_Compact.md`).
 
 **Book III placement:** seeded earlier through Mandate-linked shipping records, convoy marks, port stories, or a supply decision affecting Pelangi Reach; first direct approach during the relocated-government compact; in-person negotiation after enforceable terms exist; joint proof and limited ceasefire in the coda.
 
@@ -823,7 +840,7 @@ One **drafting beat per major character**: the **mask** is what the reader (or E
 |---|---|---|---|---|
 | **Eli** | 1 | Hard, capable facilities hand; useless at the garden | In the father's plot he talks to the tomatoes in **Bangla** and hums a tune fragment while failing — competence on live junctions, shame in soil | Split: mother's gift / father's craft; no naming either |
 | **Eli** *(meditation seed)* | 1 or 5 | Training-shell calm reads as stoic competence | Mid-overload or post-shift: **counts one exhale** or stills on a stair — out of register for a facilities hand; reader may read dissociation until breach/climax pays it | Thailand temple habit; see `15` § *Eli's meditation seed* — no flashback block |
-| **Mei** | 1 | Kitchen commander during rush | **Friday dinner send-off:** *stolen child, not orphan*; *boy* in home tongue; last meal on chit circle | Hearth truth **Friday night** — no second goodbye |
+| **Mei** | 1 | Kitchen commander during rush | **Friday dinner send-off:** childhood holiday exposed as flight; parents missed the rendezvous; *boy* in home tongue; last meal on chit circle | Hearth truth **Friday night** — no second goodbye |
 | **Wren** *(intake / network)* | Ch 1 attestation + cohort squeeze | *Vol II return* | Compound manifest habit; later offers accountable intake limits vs registry capture | Death tech as sincere care; documentation protects and exposes |
 | **Suresh** | 2 | *"I don't carry heroes. I carry rice."* | At the stern he hums **four wrong notes**, stops himself, goes flat — Iqbal's tune, never in public | Musician family grief; rice is real job, not whole identity |
 | **Shireen** | 2 | Cousin text and voice note: practical, scared | Garden photo plus Eli's storm-room memory; each cousin carries a part of the lost household the other lacks | Lost home heartbeat; memory transmitted without return |

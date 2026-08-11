@@ -101,7 +101,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 - [x] Draft aftermath/grounding, local Weaver hospitality, and Wren's disclosed placement route (Chs 3–4).
 - [x] **Thailand Ch 5–10 governing draft** in `manuscripts/I_The_Breach.md` (2026-07-23). Mekong quarry retired.
 - [x] Draft northbound route from Thailand: Shireen return-choice, Anika's true Rasel proof, human-door cost, Sichuan entry.
-- [x] Draft Sanxingdui through legitimate Chinese custodianship: Bronze Sacred Tree as model, local scholars with authority, language-tree break, Rasel's coerced apparatus.
+- [x] Draft Sanxingdui through legitimate Chinese custodianship: Bronze Sacred Tree as model, local scholars with authority, language-tree break, Rasel's Mandate apparatus.
 |- [x] Draft Sanxingdui climax: distributed living route over machine read; Rasel **refused**; Wren displaced; Qiao loses clearance.
 - [x] Draft father-son aftermath and Rasel's disclosure that Maren helped build the early tools before resisting.
 

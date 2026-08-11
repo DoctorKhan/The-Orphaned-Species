@@ -81,7 +81,7 @@ A revelation earns its place only if it does at least two of the following:
 
 ### Required reversals
 
-- **Orphan:** both parents dead → alive at extraction, later fate unknown → Rasel current in Thailand → Maren recently alive, present condition unknown.
+- **Orphan:** parents left and later reported dead → no witnessed death; holiday exposed as flight → Rasel current in Thailand → Rasel confirms the abduction and Maren recently alive, present condition unknown.
 - **Victims:** parents stolen for what they knew → at least Maren helped build early tools before resisting.
 - **Mandate hunt:** Rasel's state pursues loose ends → the Charkha is wearing the Mandate's face.
 - **Courier:** Wren is a paid handler → she is an independent extractor protecting a larger network.
@@ -227,7 +227,7 @@ Chapter 12 needs:
 1. arrival in Sichuan through a legitimate research relationship;
 2. the Bronze Sacred Tree encountered as ancient Shu material before any field reading;
 3. named Chinese experts with independent stakes and interpretive authority;
-4. Rasel's coerced apparatus discovered beneath the public research program;
+4. Rasel's Mandate apparatus discovered beneath the public research program;
 5. an argument over language-tree versus living-mesh interpretation that damages Eli's trust in Rasel's instrumented approach.
 
 Chapter 13 needs:
@@ -238,7 +238,7 @@ Chapter 13 needs:
 4. Anika or the consortium pressing the documented apparatus as the safe choice;
 5. a sustained multi-party assault with civilians in the geometry;
 6. Eli's embodied override;
-7. Rasel's extraction and the cost that lands on Wren and Qiao instead of a new captive;
+7. Rasel's confrontation and the cost that lands on Wren and Qiao instead of a new captive;
 8. father-son aftermath and Maren-complicity disclosure that make Book II emotionally inevitable.
 
 ### Pass 4 — Desire and silence
@@ -261,7 +261,7 @@ Volume I is not finished when every planned event has prose. It is finished when
 - the Custodian lead is memorable and partially persuasive;
 - Eli makes at least one wrong consequential choice before the correct climax choice;
 - Wren's methods save people and damage trust;
-- Wren's and Qiao's costs are caused by their established positions and directly price Rasel's recovery;
+- Wren's and Qiao's costs are caused by their established positions and directly price the confrontation with Rasel;
 - Sanxingdui resolves the volume's emotional and action questions while preserving the larger mystery;
 - removing the author notes does not make the story unintelligible;
 - the ending creates grief and forward necessity, not merely sequel information.
