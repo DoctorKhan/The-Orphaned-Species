@@ -611,7 +611,7 @@ Wren finds him before the result is read aloud.
 
 "Say the last part slower next time. You'll need to mean it twice."
 
-One line goes up on the surviving display, not as a legal default but as a recorded, witnessed choice:
+One line goes up on the surviving display, as a recorded, witnessed choice:
 
 **CROSS-ROUTE CONTINUITY COORDINATOR (REINSTATED BY VOTE): ELI HOLT.**
 
@@ -3395,9 +3395,9 @@ Wren cancels the venue authorization.
 For a moment the room does not change. Then it does.
 
 The absence of a chair beside Eli lands the way absence always lands for her:
-not as silence but as a category the room has already chosen without asking. In
-seven months she has learned to read those categories before they speak. This
-one names the difference between being present and being placed.
+as a category the room has already chosen without asking. In seven months she
+has learned to read those categories before they speak. This one names the
+difference between being present and being placed.
 
 Rowan notices. She does not look at the empty space. She looks at Wren.
 
@@ -4074,7 +4074,7 @@ The apprentices fix it in public. An elder in the back recognizes the roof chant
 before the third note — the third note has not been sung in this settlement
 since before the collapse, and she does not say that out loud. She only closes
 her eyes and lets the children finish it wrong, which is how the old practice
-survives: not in the archive, but in the body that remembers the shape of a
+survives: in the body that remembers the shape of a
 song the next generation has already half-forgotten.
 
 The main event is a route relay built from work no one can romanticize: lift,
@@ -5354,7 +5354,7 @@ marks stay.
 
 By evening, the feed has a new phrase: **THE BIRTH THE COURT DID NOT CLAIM**.
 
-Commentators note that no platform has been reserved, no public witness assigned, no field monitor attached. The child will be registered under ordinary personhood rules. The hospital room contains no succession seat, no continuity station, no appointed heir witness. The story calls it restraint. Some readers call it cowardice. The coalition does not call it anything because they cannot yet decide whether absence is loss or proof.
+Commentators note that no platform has been reserved, no public witness assigned, no field monitor attached. The child will be registered under ordinary personhood rules. The hospital room contains no succession seat, no continuity station, no appointed heir witness. The story calls it restraint. Some readers call it cowardice.
 
 Wren reads the feed while removing chairs.
 
@@ -5674,8 +5674,7 @@ The review body certifies one region.
 
 The last remains contested.
 
-Weaver monopoly ends not through defeat but because Wren uses the alternative
-they helped build.
+Weaver monopoly ends because Wren uses the alternative the Weavers helped build.
 
 ---
 

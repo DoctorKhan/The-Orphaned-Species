@@ -345,8 +345,8 @@ The series must lead the reader to infer that technology is humanity's **externa
 2. Instruments make part of the phenomenon measurable without explaining it away. Mechanism reduces panic while leaving genuine mystery intact.
 3. A state, faction, or market uses the same technology to detect, classify, own, conscript, or destroy the living carrier. The tool reveals its immature use: fear made efficient.
 4. Ordinary people use technology differently—to translate, verify consent, establish limits, treat injury, share evidence, and coordinate protection without ownership.
-5. Science turns fear into testable standards. Predicting meteor showers, measuring line effects, documenting healing limits, or testing psion claims should make manipulation harder rather than less magical. A phenomenon that can be observed, replicated in limited ways, challenged, and audited is harder to convert into priestcraft or panic.
-6. A relationship or community proves coexistence before the climax. Humans and anomalous beings share risk, law, care, and disagreement without turning difference into worship or extermination.
+5. Science turns fear into testable standards. Predicting meteor showers, measuring line effects, documenting healing limits, or testing psion claims should make manipulation harder rather than less magical. A phenomenon that can be observed, replicated in limited ways, challenged, and audited is harder to turn into priestcraft or panic.
+6. A relationship or community proves coexistence before the climax. Humans and anomalous beings share risk, law, care, and disagreement without turning difference into a line people are willing to kill across.
 
 These beats may occur in any volume and should be braided into pursuit, medicine, communication, surveillance, and the psionic war. No scene exists merely to compare a phone to telepathy.
 

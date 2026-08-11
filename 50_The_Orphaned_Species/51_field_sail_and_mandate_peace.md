@@ -159,4 +159,4 @@ The discovery is seeded during the Union visit, survives the capital's seizure t
 
 After Eli's hearing, the small field-sail experiment is replicated under joint observation and the first ceasefire compact is signed. No starship launches. The industrial work has only begun.
 
-The final teahouse remains the emotional ending. Instruments log the joint experiment in the background; ships, factories, and delegations prepare years of work elsewhere. Eli pours tea for visitors rather than standing at a launch podium. Humanity's road outward begins with its ability to sit across from former enemies without converting dependence into ownership.
+The final teahouse remains the emotional ending. Instruments log the joint experiment in the background; ships, factories, and delegations prepare years of work elsewhere. Eli pours tea for visitors rather than standing at a launch podium. Humanity's road outward begins with its ability to sit across from former enemies without letting the peace become a case the compact owns.

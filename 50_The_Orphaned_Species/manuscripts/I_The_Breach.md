@@ -37,13 +37,11 @@
 
 The skiff is flying.
 
-Eli leans out over the bright chop, one foot braced under the thwart, salt on his lips, sun hot on the back of his neck, the sail pulling hard enough to make the rope sing in his fist. Kiran is half a length behind and shouting something the wind tears apart. Eli laughs anyway. The red buoy rushes toward them, the hull skimming, spray cold against his shins—and for once there is no country, no clinic deposit, no list with his name missing from it. There is only speed.
+Eli leans out over the bright chop, one foot braced under the thwart, the sail pulling hard enough to make the rope sing in his fist. Kiran is half a length behind, shouting something the wind tears apart. Eli laughs anyway. The red buoy rushes toward them, spray cold against his shins, and for a few seconds there's no list with his name missing from it.
 
-The sun on his skin, the hull's vibration under his thighs, the smell of salt and diesel and Suresh's cigarette on the wind. He does not fight the boat. He stops trying to steer it and lets the channel take him. The noise in his head that counts doors and clinic deposits and lists with his name missing goes quiet, the way water goes quiet after the last stone. Behind him Kiran is still shouting. Ahead the strait opens past the storm wall, wide and blue and indifferent, and for a few strokes he is not a boy who needs a wage or a place to sleep. He is just the boat, the wind, and the next length of water.
+The hull's vibration climbs into his thighs. He stops steering and lets the channel take him. Behind him Kiran is still shouting. Ahead, the strait opens past the storm wall.
 
-The sea does what it has always done, when he stops planning long enough to let it.
-
-The wind dies anyway.
+The wind dies.
 
 The sail collapses against the mast like something exhaling wrong. The hull drops off its plane so abruptly he nearly pitches forward. A second ago the channel was all noise and motion; now water slaps lazily against the boards. Kiran glides past on the last of his momentum.
 
@@ -81,7 +79,7 @@ He gives the sea its foot—eases off half a length he cannot afford—just as J
 
 Suresh's voice from the wall: "Now! Hold it!"
 
-Race call and literal command land on him in the same breath—he holds it, rope and wind and his own fist one strained argument, red and white, sail full, line true—and crosses a boat-length clear while Timah is still underwater and Jul is climbing back onto her shoulders, neither of them ever knowing how close they came to deciding a wager they were never part of. Behind him, Kiran hauls in a sail that never found its wind back. Fair loss. Eli read the pocket, the wall, and the channel better than the man behind him, and that was most of the race—the rest of it was a hand that would not let go of rope that had already half decided to let go of him, and a foot of sea handed back to a boy who never knew he'd been given anything. The open water is still out there, glittering, indifferent, his for that one lane and no longer.
+Race call and literal command land on him in the same breath—he holds it, rope and wind and his own fist one strained argument, red and white, sail full, line true—and crosses a boat-length clear while Timah is still underwater and Jul is climbing back onto her shoulders, neither of them ever knowing how close they came to deciding a wager they were never part of. Behind him, Kiran hauls in a sail that never found its wind back. Fair loss. Eli read the pocket, the wall, and the channel better than the man behind him, and that was most of the race—the rest of it was a hand that would not let go of rope that had already half decided to let go of him, and a foot of sea handed back to a boy who never knew he'd been given anything.
 
 For one stupid second he looks for them on the quay—the old reflex, cut off years ago and still not dead. His mother would have been at the rail with her hair coming loose from its tie, already reading the next shift before the boats tied up. His father would have pretended not to care who won, then pressed something green and living into his hand anyway, muttering about hands too lazy to grow anything worth eating. Neither is there. The win lands in his arms alone, salt and rope burn and the hollow where applause from your own people used to go—and under it, still, the sea's brief yes.
 
@@ -118,7 +116,7 @@ the back of his neck. They whispered after they thought he was asleep. He does
 not remember a word. He remembers waking later and finding both hands where they
 had been.
 
-He waters wrong anyway—too much, too fast. The pale seedlings shiver. He pinches a yellowing tomato leaf the way Rasel showed him—hold, don't tear—and smells crushed stem, sharp chili oil from a neighbor's pot, and hot plastic from the tower cladding. Then it is only Pelangi, and the prickle in his palms, and the row going pale.
+He waters wrong anyway—too much, too fast. The pale seedlings shiver. He pinches a yellowing tomato leaf the way Rasel showed him—hold, don't tear—and smells crushed stem, sharp chili oil from a neighbor's pot, and hot plastic from the tower cladding.
 
 His phone rings on the ninth-floor landing. Dhaka, Shireen. He steps into the service alcove and answers, already knowing what her voice will say.
 
@@ -323,17 +321,15 @@ Pelangi Reach shrinks behind the marina wall. Wren stands beside Eli at the rail
 and says, quietly, "There's still an arch ahead. At each door, please follow my
 lead."
 
-The island locks down. Hearth suspended, not surrendered.
-
-In his pocket: Suresh's folded word—*ask once*—and Mei's truth. Behind his eyes:
-the family photograph face-down on her table. The arch Wren named is the first
-door that might lead toward what happened after.
+Suresh's folded paper is still in his pocket. Mei's photograph is still face-down
+on her table, two hours and a boat behind him now. He does not know yet which
+door Wren means.
 
 ---
 
 ## Chapter Two—His Hand
 
-**Saturday, last light on the strait**—Pelangi already behind them, Babaji's hotel raid a red smear in the rearview Eli is not allowed to have. Suresh noses the hull south toward the Johor channel, and the open water under them changes character—bright Pelangi chop left behind, the channel darker, busier, the far shore a black line where one country ends and another begins. The checkpoints begin before Singapore is a skyline, and they do not stop when the skyline arrives. Wren does not stop either—not until the city is under their feet.
+**Saturday, last light on the strait**—Pelangi already behind them, Babaji's hotel a red smear sinking into the wake. Suresh noses the hull south toward the Johor channel, and the open water under them changes character: bright Pelangi chop left behind, the channel darker, busier, the far shore a black line where one country ends and another begins. The checkpoints begin before Singapore is a skyline, and they do not stop when the skyline arrives. Wren does not stop either—not until the city is under their feet.
 
 Suresh throttles down at the Johor shallows where a quarantine line strings the channel—floats, a screening pier, a grey cutter idling with its number painted out. A processing tender works the boat ahead: a ferry running half-full, passengers filed one by one through an arch, slow, each made to pause on a painted mark.
 
@@ -831,10 +827,6 @@ And Eli—hunted now, lit up, the ring lost and the man lost and a door standing
 
 He pulls.
 
-Malacca waits at the end of the strait—old hotel, fourth floor, a man who carries
-his father's ring on a cord. The photograph is only a receipt—proof the question
-survived the extraction, nothing closer to an answer.
-
 ---
 
 ## Chapter Three—What Didn't Die
@@ -974,7 +966,7 @@ Eli stands there with the co-op's street name folded into the same pocket as Sur
 
 ---
 
-They eat at dusk: rice and dried fish. Nothing, except that the platform keeper has done something to the nothing. The fish is crisped in its own fat with torn herbs from the platform's one battered pot—lemongrass and a handful of holy basil gone wild in a paint tin—the same green Maren crushed under his nose on the ninth floor, asking before naming. The rice is finished with salted cooking water the way harbor women do it. One lime is cut six ways because the keeper, leaving on the produce truck's schedule, insisted with one look that it be everyone's. Before she goes she touches the rail once, the way older fishers still do—ask the water before you ask the ledger—and nobody explains the habit because the habit is older than the forms that want to replace it. Mangrove flowers have dropped into the water under the stilts; the tide takes them without ceremony. For a few minutes the kelong is only a place where people are eating something good.
+They eat at dusk: rice and dried fish. Nothing, except that the platform keeper has done something to the nothing. The fish is crisped in its own fat with torn herbs from the platform's one battered pot—lemongrass and a handful of holy basil gone wild in a paint tin—the same green Maren crushed under his nose on the ninth floor, asking before naming. The rice is finished with salted cooking water the way harbor women do it. One lime is cut six ways because the keeper, leaving on the produce truck's schedule, insisted with one look that it be everyone's. Before she goes she touches the rail once, the way older fishers still do—ask the water before you ask the ledger—and nobody explains the habit because the habit is older than the forms that want to replace it. Mangrove flowers have dropped into the water under the stilts; the tide takes them without ceremony.
 
 Then, over the empty bowls, the courier lays out the trap in four sentences, which is all of it she'll spend.
 
@@ -996,11 +988,11 @@ The lamp hisses.
 
 Eli looks at his hands. The noise is there, behind the skin, an ocean behind a door off its hinges—but the platform keeper's cup and the temple count have shown him the width of one held breath, and one held breath is enough room to think a thought in.
 
-Here is the thought. Ten years he has carried his mother as a closed door—*dead, don't ask*—because carrying her any other way was not survivable, and everyone who loved him helped him carry her closed. And in one night the world has spent, against that closed door: a records photograph, a chandlery ask, a stripped witness, a waiting van, a pre-set net, three men with a knife who were told to clear a lane. Nobody spends that on a dead woman's ghost.
+Here is the thought. Ten years he has carried his mother as a closed door—*dead, don't ask*—because carrying her any other way was not survivable, and everyone who loved him helped him carry her closed. And in one night the world has spent, against that closed door: a stripped witness, a pre-set net, three men with a knife who were told to clear a lane. Nobody spends that on a dead woman's ghost.
 
-The question didn't die. That is what the night proves. It was never dead. It was held under, ten years, the way he was held under—and it came up the same way he did: burning, and loud, and belonging to someone.
+The question didn't die. That is what the night proves. It was held under, ten years, the way he was held under—and it came up the same way he did: burning, and loud, and belonging to someone.
 
-Disappearing wouldn't kill it either. Disappearing would only mean carrying it dark, forever, in a borrowed name—the rattling lid, the unpayable ledger. Hassan in a van because he chose a living man over a ring. Salmah's boat under tow. The platform keeper dividing one lime among strangers. Mei's terrace on a list. The garden on nine going brown. A quiet life on top of all of it, pretending the question isn't under the floor.
+Disappearing wouldn't kill it either. Disappearing would only mean carrying it dark, forever, in a borrowed name—the rattling lid, the unpayable ledger. Hassan in a van because he chose a living man over a ring, and Salmah's boat under tow for the same reason. A quiet life on top of all of it, pretending the question isn't under the floor.
 
 *This felt real,* he thinks—all of it, the net, the van, the handwriting on the page. *I may still be wrong about where it leads. Let's test it in the open.*
 
@@ -1112,7 +1104,7 @@ He is lying flat between rice sacks with his hands on the engine cowling. The co
 
 The pressure slides over the boat like a light through a window. Touches the nephew, the rice, the shrine-kept engine. Hesitates—somewhere, everywhere, one heartbeat of hesitation, a thumb pausing on a latch.
 
-Then it is past, and the launch's wake tilts them gently twice, and the sea is only the sea.
+Then it is past, and the launch's wake tilts them gently twice.
 
 Eli lets the count go and finds he is soaked through, shaking like a man who has carried something heavy up a hill. No triumph in it. No power. A door held, is all—held barely, by a boy braced against it with a cup trick and a monk's arithmetic. But held.
 
@@ -1233,7 +1225,7 @@ On the third morning Khun Dang walks them to the turnoff down toward the river v
 
 The pickup takes them down out of the jungle on a road that is no kinder than the one that brought them up. Same stair, reverse. Eli's ribs carry the chords like a second pulse. Wren reads the driver’s shoulders again. Pai's lights look smaller in daylight—carnival with the music off. They take the spur again; the limestone mountain is still eating the sky. Two figures small among the drying racks, a hand raised once, not quite a wave. The paper twist of beans is still in Eli's pocket when the green valley opens below them.
 
-Worked water. Mirrored sky. Paddies stepped like a green stair from ridge to river—altitude as who owns the wet and who walks the bund. Banana and sugarcane hold the higher margins; bamboo stands in windbreaks along the canals; water hyacinth clogs a dead arm of channel in purple clocks nobody asked for. Lotus pads hold the still corners. Teak and rain tree throw shade where the dyke road bends. Buffalo in the shallows. Smoke from a kitchen fire rising straight in still air, and under it the smell of wet straw and bruised lemongrass. For one held breath the valley is only beauty: light on the mirrors, green answering green. Eli's stomach unclenches without permission. Then he sees the west block at the far edge, a darker band the eye keeps returning to, and the unclench becomes something else—wonder that already knows it can be hunted.
+Worked water. Mirrored sky. Paddies stepped like a green stair from ridge to river—altitude as who owns the wet and who walks the bund. Banana and sugarcane hold the higher margins; bamboo stands in windbreaks along the canals; water hyacinth clogs a dead arm of channel in purple clocks nobody asked for. Lotus pads hold the still corners. Teak and rain tree throw shade where the dyke road bends. Buffalo in the shallows. Smoke from a kitchen fire rising straight in still air, and under it the smell of wet straw and bruised lemongrass. For one held breath, light on the mirrors, green answering green. Eli's stomach unclenches without permission. Then he sees the west block at the far edge, a darker band the eye keeps returning to, and the unclench becomes something else—wonder that already knows it can be hunted.
 
 ---
 

@@ -57,7 +57,7 @@ lead him to his living father—and cost Wren the protected civic life she used 
 get them there. The hunt then turns west
 through Göbekli and Europe's stone landscapes toward his mother, while every bloc
 wants to register, weaponize, worship, or erase people like him. The conspiracy is
-not one secret society but a recurring function: classify, sever, acquire, command.
+a recurring function, not a secret society: classify, sever, acquire, command.
 To recover his family, Eli must learn that connection without consent is only
 another machine.
 

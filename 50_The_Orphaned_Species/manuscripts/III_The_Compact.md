@@ -759,7 +759,7 @@ health shelter. Tomas is one."
 
 "That is a route question. I am asking members."
 
-The distinction is deliberate. Her network is not a limb of his concern.
+She chooses not to pull him into her problems while he is still building his own.
 
 "Okay."
 
@@ -1224,9 +1224,7 @@ It might also make Eli the answer again.
 
 "Ask anyway."
 
-The answer is impossible as a complete system.
-
-It is necessary as a correction.
+As a system, the answer cannot work. As a fix, it points toward what a fairer process would have to include.
 
 ---
 
@@ -1653,9 +1651,7 @@ to him for an order.
 
 "Nobody," Wren says. "They decided together."
 
-The redistribution is faster than the commander-led version would have been,
-and quieter, and it leaves no one with a story about who was in charge. That
-is exactly the point.
+The redistribution moves a fevered woman off the floor and into a cot before a coordinator could finish logging her complaint. The room does not keep a story about who was in charge because no one in it was.
 
 He does not record it as a management lesson. He lets it stand as a fact the
 harbor already knew and he is only now learning to read.
@@ -2134,13 +2130,7 @@ The permanent registry entry is created anyway.
 
 Tomas is too neurologically injured to understand the argument over it.
 
-As the launch leaves, Nia's workboat remains open at the stern. The replacement
-pump lies beside the machinery well. One fitting has been cleaned and marked.
-The second waits in a tray.
-
-Neutral isn't dead.
-
-The repair is.
+As the launch leaves, Nia's workboat remains open at the stern. The replacement pump lies beside the machinery well. One fitting has been cleaned and marked. The second waits in a tray. Neutral isn't dead. The repair stopped when she did.
 
 By noon Belém has split into three councils, two intake lines, and one
 kitchen everyone still uses while denying that shared hunger constitutes

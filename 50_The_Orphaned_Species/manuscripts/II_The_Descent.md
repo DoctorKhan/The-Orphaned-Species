@@ -7565,9 +7565,9 @@ Anika moves toward the operator frame.
 
 Wren reaches Eli through the station network — six messages, not one.
 
-The Three Circles arrive as relation without a center. The inner ring—body scale, the charge that moves through a palm before the mind names it—arrives from Men-an-Tol: a completed passage, a returned person, the body's own boundary. The middle ring—family scale, the tether held by hope of reunion—arrives from Stonehenge: Maren's release, the mother choosing not to occupy every ground at once, the thread going slack without being cut. The outer ring—civilization scale, the system that claims authority over the people inside it—arrives from Göbekli and the Babylonian Map: testimony from its edge, contact without a complete account, the folly that preserves the right to contradict authority.
+The Three Circles arrive as relation without a center. The inner ring arrives from Men-an-Tol: a completed passage, a returned person, the body's own boundary. The middle ring arrives from Stonehenge: Maren's release, the mother choosing not to occupy every ground at once, the thread going slack without being cut. The outer ring arrives from Göbekli and the Babylonian Map: testimony from its edge, contact without a complete account, the folly that preserves the right to contradict authority.
 
-The Folly preserves the right to contradict authority. The seed record gives knowledge without an owner. No mind contains the whole route, and no receiver is compelled.
+The seed record gives knowledge without an owner.
 
 The network is weaker than Sol's unified wave.
 

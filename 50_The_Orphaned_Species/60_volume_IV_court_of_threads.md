@@ -656,7 +656,7 @@ wrong moment during the first encounter — not staged as trauma-reveal
 dialogue, just the same physical hit (hand finding an edge to hold, a beat
 of the wrong room) landing where it doesn't belong. Rowan reads it correctly
 without narrating that she has, the way Wren did in Book III, and neither
-of them fixes it before continuing. This is what makes the failure specific
+of them fixes it before continuing. That specificity makes the failure his and
 to him and to what he actually carries, not a stock scene of nervous first
 sex.
 

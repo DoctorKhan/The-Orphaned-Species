@@ -713,7 +713,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Choice → Cost:** Eli’s **strongman-by-proximity** authority is already real across regions; on Hawaiʻi he uses it to organize shelter, medicine, evacuation corridors, and consent-bound aid — real orders, real responsibility, opted-in relays only. He refuses to requisition the island as a war base. The crown feels permanent to others; the compact still says it expires.
 - **Wren:** her network participates on its negotiated terms, not because she yields it to Eli. Her independent authority remains visible.
 - **Place under pressure:** the new community has already accumulated ordinary attachments—water schedules, repair crews, local objections, children, growers, clinic work, and one threshold house built through negotiated permission. The war's displaced people threaten capacity and comfort, not because they are invaders but because every bed, boat, and water tank is finite.
-- **Learning:** local stewards teach Eli that refuge is **aloha under kuleana** — show up, care, take the duty that comes with the welcome, keep the island demilitarized. The communal armor is work gear for ash, heat, rain, and rescue—not battle armor or a crown.
+- **Learning:** local stewards teach Eli that refuge is **aloha under kuleana** — show up, care, take the duty that comes with the welcome, keep the island demilitarized. The communal armor is work gear for ash, heat, rain, and rescue — not battle armor or a crown.
 - **Hawaiian teachings — LOCKED 2026-07-26 (rev.):** hosts teach (by invitation) living practice, not tourist slogan. **Center: aloha + kuleana.** Do not turn every beat into an anti-ownership sermon.
 - **Artifact/station payoff — LOCKED 2026-07-28; confirmed sole home for the Forks, 2026-08-07** (resolves a since-retired duplicate assignment at Ch 4 — see that chapter's card): a growers' seed ledger
   first proves the basalt ground is a transmission station carrying the bounded
@@ -736,11 +736,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Work-song recovery — LOCKED 2026-08-01:** during the first week of roof repair,
   Leilani's mother turns fastener sorting into a three-note call-and-answer so
   children can do safe, consequential work and teach the next child. The ground
-  crew adapts it for lifting; the meter waits for injury and late hands. After
-  tools are locked away, children keep the movement until it becomes play and
-  adults join. This is a new multilingual culture forming under pressure, not a
-  transplanted ethnic tradition and not an announced social program (`37` §
-  *Work-song, movement, and the child-chain*).
+  The ground crew adapts it for lifting; the meter waits for injury and late hands. After tools are locked away, children keep the movement until it becomes play and adults join. This is a new multilingual culture forming under pressure, not a transplanted ethnic tradition and not an announced social program.
 - **Divided Extra agency:** former Extras appear on opposing and nonaligned paths:
   Sol volunteers, consent-bound defense crews, independent rescue teams, and men
   who refuse the battle entirely. A defense drone strikes a man approaching a

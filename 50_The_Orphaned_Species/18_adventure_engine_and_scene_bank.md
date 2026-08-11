@@ -274,7 +274,7 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Cost:** someone is captured, injured, or forced to destroy a record before it becomes a compulsory identity, route, or weapon.
 
-**Theme carried:** knowledge must stay answerable to the living world; the buried instrument is not a monument — it is a silenced practice waiting for a body that can read it without turning it into command.
+**Theme carried:** knowledge must stay answerable to the living world; the buried instrument is not a monument — it is a silenced practice waiting for a body that can read it without letting the reading become the next instruction.
 
 ### 11. Europe boundary: the threshold that watches back
 

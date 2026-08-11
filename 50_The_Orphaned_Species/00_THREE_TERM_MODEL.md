@@ -101,7 +101,7 @@ If the answer to 1 and 2 is "nothing visible," the scene lacks pressure. If the 
 || **IV — The Court of Threads** | Pregnancy, labor, bodily privacy as court weapons | Rowan/Wren/Eli household recognition; chosen conception | Reconstruction of the compact after war; Lean Year scarcity; Costa Rican Turning; Eli's second relinquishment from a position of proven voluntary choice |
 
 **In character:**
-- **Eli:** his arc is learning Term 2 at all three scales. Body: Manual Override. Family: releasing the parent tether without turning it into command. Civilization: holding the gap between communities without becoming a throne.
+- **Eli:** his arc is learning Term 2 at all three scales. Body: Manual Override. Family: releasing the parent tether without making that release itself the next instruction. Civilization: holding the gap between communities without becoming a throne.
 - **Wren / Rowan:** the Weavers weave the *human* net that Term 2 needs to survive at family and civilization scales. Houses, routes, hands, memory.
 - **Somchai:** Term 2 at body scale made visible. He holds a real gift and refuses ownership of it. The cost is real: someone suffers because he won't be their miracle. That cost is the proof.
 - **Rasel:** Term 2 at father scale. Symbolic feeling without command; the garden as the thing he tends badly and honestly.

@@ -36,7 +36,7 @@ The real dangers:
 - **Autopilot** — rattle/surge deposits charge; conditioning tries to **execute a command**. Manual Override = feel the charge, don't complete the act — **not** "which person am I?"
 - **Mistaking witness for mastery** — receiving a thread ≠ owning a culture, a dead person's authority, or a skill tree.
 
-The cure is practice: **clarification without collection** — receive contact, learn apprenticeship, release the thread when it passes. Volume thresholds: Vol I **survives exposure and meets the first witness-site contact**; Vol II clarifies and releases the mother-thread without seizing the amplifier; Vol III tests whether connected people can govern dangerous conduct without converting connection into command or identity ownership.
+The cure is practice: **clarification without collection** — receive contact, learn apprenticeship, release the thread when it passes. Volume thresholds: Vol I **survives exposure and meets the first witness-site contact**; Vol II clarifies and releases the mother-thread without seizing the amplifier; Vol III tests whether connected people can govern dangerous conduct without letting the web become something that owns the people inside it.
 
 ## 3a. Malacca opens the receiver; charged grounds hold the teachers — LOCKED
 

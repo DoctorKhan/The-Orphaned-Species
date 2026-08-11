@@ -438,7 +438,7 @@ Lessons:
 
 End state:
 
-They trust each other enough to keep moving together. Eli can recognize several of his own feelings without converting them into command or destiny, and can oppose Wren without losing his sense of self. Wren has begun letting him see wants and uncertainty that do not belong to her operational mask. They should not yet be allowed the comfort of naming the bond cleanly.
+They trust each other enough to keep moving together. Eli can recognize several of his own feelings without letting them become a route or a verdict, and can oppose Wren without losing his sense of self. Wren has begun letting him see wants and uncertainty that do not belong to her operational mask. They should not yet be allowed the comfort of naming the bond cleanly.
 
 ### Volume II: care can become control
 

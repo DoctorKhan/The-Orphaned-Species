@@ -130,7 +130,7 @@ Each volume needs a human emotional question underneath the external objective.
 | Volume | Emotional question |
 |---|---|
 | **I — Shattering** | Can Eli stay himself long enough to find one place where he is not treated as evidence, weapon, or mistake? |
-| **II — Descent** | Can these people love, heal, and trust each other without turning care into control? |
+| **II — Descent** | Can these people love, heal, and trust each other without letting care become the thing that controls them? |
 | **III — Choice** | Can a community survive contact with power without kneeling, killing, owning, or worshipping? |
 
 These questions should be legible even if a reader ignores most of the mythological architecture.

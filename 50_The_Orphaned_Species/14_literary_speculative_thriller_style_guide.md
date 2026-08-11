@@ -484,6 +484,18 @@ Chapter opens have a seven-rule lock above. Endings — chapter, volume, series 
 
 Revision test, all three levels: cover the final paragraph and ask what the reader loses if the chapter/volume/book stopped one paragraph earlier. If the answer is "nothing, it already landed," the extra paragraph is a summary wearing an ending's clothes.
 
+### Ending techniques to reach for — LOCKED 2026-08-11
+
+The checklists above name failures to cut. A reviser still needs somewhere to land the sentence instead. Five techniques, named so they can be chosen on purpose rather than defaulted into:
+
+1. **Move the camera.** Close on something small the viewpoint character notices in passing, not on the feeling itself. This guide's own example above — the cup still set out for the person who is gone — is this technique: grief never named, carried entirely by the object.
+2. **End on the object.** Let the last sentence be the strongest physical detail the scene already earned, and stop. Nothing after it translates the detail into what it meant. Test with the Opening-image discipline's revision line above: if cutting the sentence loses only theme, the sentence was never load-bearing.
+3. **Close on refusal or omission.** A paragraph can end with a character declining to speak, reaching for the practical task in front of them instead of the felt one, or leaving a question hanging unanswered. Eli's established idiolect — load, timing, repairs, routes, whether he's useful — makes a withheld line more him than a summarizing one usually is.
+4. **Cut to the next thing.** End the paragraph by moving to the next concrete action rather than resolving the current image's charge. The white space between paragraphs does the work a closing sentence would otherwise be asked to do.
+5. **Keep the last line in the viewpoint character's own vocabulary.** A closing sentence built from a narrator's elevated register — even a true one — is the tell that the prose has stepped outside the character to deliver a verdict. Check any candidate closer against the idiolect list in the Human-prose lock above before keeping it.
+
+No single technique is the default. Reusing the same one across a scene is the same failure the Whole-document frequency check above catches in phrasing — vary which one a given paragraph reaches for, based on what that paragraph specifically earned.
+
 ## Project-specific guardrails
 
 Avoid:
