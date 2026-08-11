@@ -12,6 +12,8 @@ The novel's surface is an intimate maritime thriller. Its emotional depth comes 
 
 > **Write the experience before its meaning, the person before the mythology, and the consequence before the explanation.**
 
+**Genre blend, not genre hierarchy — LOCKED 2026-08-11.** "Thriller" names the shelf category and the propulsive engine: pursuit, escalating pressure, cost. It does not mean every scene runs at pursuit tempo. Detective-mystery pacing (the revelation ladder's dispute and partial-model stages, a scene that stops to weigh evidence) and quest pacing (human gear, arrival, ordinary life earning its keep on delay) are native to this book, not deviations that need special permission. A scene earns its pacing mode by the same test regardless of which genre supplied the rhythm: does it move objective, danger, knowledge, relationship, or cost (Thriller structure at scene level), and does it respect the gear-repetition ceiling (Macro-rhythm across a volume). A deduction that only shows the character is clever, or an arrival that is pure travelogue, fails that test whether it is dressed as thriller, mystery, or quest.
+
 ## Reader promise
 
 The reader should receive:
@@ -83,6 +85,19 @@ Every consequential scene therefore needs:
 - delay, hard no, reversal, or cost;
 - a changed desire or relationship at the exit, not merely new information.
 
+### Antagonist desire parity — LOCKED 2026-08-11
+
+Run the same desire checklist above on Lang, the consortium, and every institutional actor a scene runs on Eli, Wren, or Somchai. POV stays Eli-dominant, so an antagonist's want and cost rarely reach the page as direct interiority. They reach it through conduct Eli can witness and misjudge.
+
+Before drafting a scene an antagonist governs, establish:
+
+- an immediate operational want (contain a leak, close a corridor, protect an asset);
+- a deeper desire that want may betray (a person saved once at real cost, a failure that must not repeat, a debt owed to someone who is not Eli);
+- something the antagonist visibly loses to Eli's side;
+- a moment where their conduct fits the villain reading and the defensible reading equally well.
+
+Character interiority below carries the general principle against reducing antagonists to ideas. This turns it into a checklist applied scene by scene. A scene fails it when the antagonist's only function is demonstrating that they are wrong.
+
 ## The three prose gears
 
 ### 1. Human gear — the default
@@ -135,6 +150,27 @@ to participation without merger. Do not state these arcs in prose; let changed
 use, context, ownership, and cost perform them.
 
 **Test:** if a lyrical sentence can be removed without changing perception, emotion, rhythm, or meaning, it is decoration. Cut or sharpen it.
+
+### Cross-book object and image ledger — LOCKED 2026-08-11
+
+Recurring images already carry a rule: each reappearance changes meaning instead of repeating as a franchise token. This ledger makes that rule auditable across four volumes instead of trusting memory.
+
+Before building a new object or image for cross-book recurrence, add a row below. Before reusing an established one, check its spent meanings first — a use that repeats a logged meaning needs a reason on the page.
+
+| Image | Volume / beat | Meaning at that appearance | Meaning now spent |
+|---|---|---|---|
+| Rasel's ring | I, proof scene | Proof of the father | Evidentiary/identity use |
+| Rasel's ring | II | Test of person over evidence | Trust-over-artifact use |
+| Rasel's ring | III | Maren's concealed index | Concealment/leverage use |
+| Rasel's ring | IV | Family object returned, old family not restored | Reunion-without-restoration use |
+| Rasel's garden | I | Failed inheritance | Inheritance-as-burden use |
+| Rasel's garden | later | Life continuing without exclusive ownership | Continuity-without-ownership use |
+| Breath | I | Involuntary survival | Survival-reflex use |
+| Breath | II | Shared regulation | Co-regulation use |
+| Breath | III–IV | Participation without merger | Boundary-in-intimacy use |
+| Body-score sound seeds | I (Cube clap, Malacca clap, wat count, Pai drop), II (Göbekli feast feet/fill) | Seeded, uncollected | Reserved for Book III seasonal-gathering room-body payoff — do not resolve early |
+
+Add a row the session an image is chosen for recurrence. An image discovered mid-draft to already be doing cross-book work gets logged that same session, not reconstructed from memory later.
 
 ## Setting and atmosphere
 
@@ -286,6 +322,19 @@ A reflective scene may be quiet, but it cannot be static. A meal can recruit an 
 
 Pursuit should escalate by changing the problem, not merely adding more pursuers. Surveillance becomes identification; identification becomes restriction; restriction forces dependence; dependence lets another person or institution assign the terms of survival.
 
+## Macro-rhythm across a volume — LOCKED 2026-08-11
+
+The three prose gears above govern a scene. Nothing governs how they alternate across forty chapters, and unmanaged gear sequencing is where sentence-level discipline gets undone at scale — a chapter that reads clean in isolation can still land as the fifth exhausting stretch of thriller gear in a row, or the third quiet chapter running.
+
+This section governs rhythm, not plot. Beat placement, reveals, and structural turns stay owned by the beatsheets (`31`–`34`); this only constrains how long a gear may run unbroken and what a trough chapter still owes the reader.
+
+- **No more than two consecutive chapters in thriller or visionary gear** without a human-gear chapter or a human-gear movement inside a chapter. Pressure that never drops stops registering as pressure.
+- **A trough chapter is different work, not a rest from the book.** It must still move one of the five scene-level dials (objective, danger, knowledge, relationship, cost). A chapter that only lowers tension without advancing anything is filler with good manners.
+- **Track Eli's want/need gap chapter to chapter**, not only within the locked per-volume voice arc above. If his stated want and his actual need have not diverged or converged since the last chapter, the chapter has not moved him.
+- **Spend visionary gear like a currency with a visible balance.** If the last visionary passage landed two chapters ago, the next one needs a reason beyond "it is time for a wonder beat."
+
+Revision test: chart each chapter of a volume by gear (H/T/V) and by which of the five dials moved. A run of three or more identical gear letters, or a chapter with no dial movement, is a rhythm failure independent of how well any single chapter reads alone.
+
 ## Violence, psi, and bodily stakes
 
 Violence is confusing, fast, and consequential. Preserve spatial legibility while allowing the viewpoint character's experience to narrow. Track aftermath: pain, lost sleep, damaged trust, medical dependence, legal exposure, shame, and changed capability.
@@ -314,7 +363,9 @@ The three published layers should not share one voice:
 
 Do not make the novel carry the explanatory duties of the Companions or Record.
 
-## Sentence and paragraph discipline
+## Prose craft and revision discipline
+
+**Construction before subtraction — LOCKED 2026-08-11.** Read Beauty, desire, and dramatic multiplicity and Lyricism and imagery above before running any scene through what follows. Those two sections say what a passage should be attempting; everything under this heading is a checklist for what to cut once the attempt has been made. A revision pass that works the checklists without first asking whether the scene reached for something as ambitious as those two sections describe will produce prose that is merely correct. The checklists exist to protect an attempt at beauty from its own bad habits. They are not a substitute for making the attempt.
 
 - Vary sentence length according to attention, not a mechanical pattern.
 - Use fragments sparingly, when perception or impact genuinely fractures.
@@ -324,6 +375,16 @@ Do not make the novel carry the explanatory duties of the Companions or Record.
 - Reserve italics for direct thought, remembered language, foreign terms when needed, or rare emphasis.
 - Avoid repeated rhetorical templates, especially tricolons, oppositional aphorisms, and “not X but Y.” Their force declines quickly.
 - Trust a strong final image or action. Do not append its interpretation.
+
+### Prose sound and the read-aloud test — LOCKED 2026-08-11
+
+This book will be heard as well as read. Sound craft gets one buried bullet in the human-prose lock below; it needs its own pass.
+
+- **Read every scene aloud before it is called done**, not only to catch repetition (the existing check), but to catch rhythm — a sentence that scans fine on the page can still trip the tongue or run out of breath before its end.
+- **End sentences on their strongest word.** A sentence that trails off on "though," "anyway," or a preposition buries its own point. Reorder so the sentence lands on the noun or verb doing the work.
+- **Listen for accidental rhyme and repeated word-endings inside a sentence** — two -ly adverbs, two -ing participles, a near-rhyme pair invisible to a copy edit and obvious to an ear. Cut one.
+- **Dialogue must be attributable by ear, not just by tag.** In any exchange between three or more speakers, at least one unattributed line per exchange should be identifiable by rhythm and word choice alone. This is the Pelangi Reach contrast rule (Dialogue, above) applied to audio legibility.
+- **Vary paragraph-opening words across a page.** Three consecutive paragraphs opening on the same name or the same sentence shape reads as a tic aloud even when it passes silently on the page.
 
 ### Generic-cadence / AI-pattern checklist — LOCKED 2026-07-31; SCOPE WIDENED 2026-08-09
 
@@ -342,12 +403,12 @@ Do not make the novel carry the explanatory duties of the Companions or Record.
 The existing rule above against "not X but Y" is necessary but not sufficient — generic machine-cadence drift shows up in more shapes than that one template. Flag and cut on sight:
 
 1. **Hedge-contrast constructions.** "Not because X, but because Y"; "It wasn't X. It was Y." Cut unless the contrast changes what the reader can do with the next sentence.
-2. **Undifferentiated litany-lists.** Four or more comma-separated noun phrases in one sentence, each carrying roughly equal weight, none grounded in a specific body or sense. This simulates density instead of earning it. Pick the one image doing real work and cut the rest, or give each fragment its own short sentence so it earns its own beat.
+2. **Undifferentiated litany-lists — in any punctuation.** Four or more parallel items of roughly equal weight, none grounded in a specific body or sense, whether joined by commas in one sentence, broken into short sentences by periods, or mixed between the two. This simulates density instead of earning it. The period-chain form is the more dangerous one: it disguises itself as this guide's own default register — short, declarative sentences — and slips past any check that only scans for commas. **Test:** if the items reorder freely, or recombine into a comma chain, without losing anything, they're one undifferentiated list wearing whichever punctuation, not several earned beats. Pick the one image doing real work and cut the rest, or give each fragment its own short sentence — but breaking a comma chain into short sentences is not itself the fix; it only becomes one once each fragment has been made to differ, escalate, or cost something the others don't.
 3. **Abstraction without a body in the room.** A noun like "the selection mark" or "the disputed thing" may not appear bare in a list or aphorism until it has been touched, smelled, or physically reacted to on the page at least once. If it hasn't earned a body yet, it isn't allowed to function as shorthand yet.
 4. **Echo-closers.** A final sentence that just repeats an image from earlier in the same paragraph for a sense of "landing," without the line itself costing or revealing anything new. Test: if the closing line's only job is to sound like an ending, cut it and end on the last sentence that actually changed something (see final-sentence test below).
 5. **Rhythm drift from the book's own register.** Long cumulative sentences built on colons and stacked em dashes read as generically "literary" rather than as this book. Check any long sentence against the surrounding scene's established rhythm — usually short and declarative per this guide's default prose gears — before trusting one that "sounds right" in isolation.
 
-Patterns 1, 2, and 5 are mechanically searchable during revision: scan drafts for comma chains of four or more items, for "not because" / "not X, but," and for sentences running long enough to need a second breath. Patterns 3 and 4 need an actual read-through, not a search.
+Patterns 1, 2, and 5 are mechanically searchable during revision: scan drafts for comma chains of four or more items, for runs of three or more short declarative sentences enumerating parallel items (the period-chain and comma/period-mixed forms of pattern 2), for "not because" / "not X, but," and for sentences running long enough to need a second breath. Patterns 3 and 4 need an actual read-through, not a search.
 
 ### Human-prose lock — LOCKED 2026-08-01
 
@@ -362,6 +423,17 @@ The goal is not merely to avoid detectable templates. Prose must feel written by
 - **Read aloud across page boundaries.** Repetition often hides between scenes: the same fragment cadence, the same “not X / because Y” correction, the same abstract noun, the same solemn final image. Keep an isolated strong sentence only if the surrounding pages have not already spent its music.
 
 Revision test: highlight every sentence that tells the reader what the previous sentence meant. Delete it first. Restore only the information the scene cannot function without, in the viewpoint character's own vocabulary.
+
+### Genre-cliché checklist — LOCKED 2026-08-11
+
+The generic-cadence checklist above catches machine-statistical phrasing. This catches a different failure: constructions that are human-written and still exhausted, because the thriller/prophecy genre has run them thousands of times. Flag and cut on sight:
+
+1. **Foreshadowing telegraphs.** "Little did he know," "if only she had," or any narrator statement that a future event will matter. The revelation ladder above exists specifically so the reader never needs advance notice that a detail counts.
+2. **The infodump mentor.** A character who exists in a scene mainly to explain the cosmology to Eli, with no want of their own in that exchange. Every exposition-carrying scene still needs the immediate want, obstacle, and cost this file requires everywhere else.
+3. **Villain monologue.** An antagonist explaining their full plan aloud, unprompted, at length, to the person they're working against. If Lang or another antagonist speaks at length, leverage, a captured audience, or an actual negotiation should be pulling it out of them. Unprompted exposition for the reader's benefit is the tell.
+4. **Prophecy as plot engine.** A beat whose only justification is that it was foretold. Prophecy may appear as a claim characters dispute or exploit (the revelation ladder's "provisional name" stage) — never as a narrative permission slip standing in for cause and effect.
+5. **Coincidence doing load-bearing plot work.** A convenient arrival, overheard line, or found object that advances the plot without a character's choice or cost behind it. Reroute through an existing want, or cut it.
+6. **Rescue reflex.** A capable character treated as a prize to be recovered, with no want of their own inside the same danger. Character interiority above already requires a want and a cost for every major character in every scene; this is that rule applied to capture/rescue beats specifically, where it is most often dropped under pressure.
 
 ### One-character, one-handle rule — LOCKED 2026-08-01
 
@@ -399,6 +471,18 @@ Derived from the governing Ch 1 Timah/Jul pass. Apply to chapter opens, zero-sig
 7. **Cut "the way you…" simile templates** unless the comparison is trade-specific, immediate, and irreplaceable — and never in the opening image.
 
 Revision test for any paragraph: if removing the last sentence changes only the theme, not the scene, remove the last sentence.
+
+### Ending-craft discipline — LOCKED 2026-08-11
+
+Chapter opens have a seven-rule lock above. Endings — chapter, volume, series — do not, and they carry at least as much of what a reader remembers. A chapter-end, a volume-end, and the series close are not the same job at different sizes; each pays a different debt.
+
+**Chapter-end.** End on the changed condition itself (already required under Thriller structure above), not on a sentence explaining what changed. Leave one live thread — do not resolve every question the chapter raised, and do not manufacture a cliffhanger the chapter did not earn. The forward pull comes from a real unanswered cost, not a withheld fact.
+
+**Volume-end.** Must close the volume's central question and hand the next volume a harder one, produced by the answer itself. A mystery-box tease planted for its own sake does not count. Every volume ending returns to Eli per the locked POV architecture above. Check the returned scene against the volume's opening image — the reader should feel the distance traveled without the prose stating it.
+
+**Series-end (Book IV).** The final pages answer the Reader promise at the top of this file, earned through action and changed relationship. The triad close (Eli/Wren/Rowan) shows what honesty between three specific people has cost and kept. Cut any line that argues plurality works instead of dramatizing it. If the last page can be summarized as a moral, cut back to the last page where something actually happened.
+
+Revision test, all three levels: cover the final paragraph and ask what the reader loses if the chapter/volume/book stopped one paragraph earlier. If the answer is "nothing, it already landed," the extra paragraph is a summary wearing an ending's clothes.
 
 ## Project-specific guardrails
 
