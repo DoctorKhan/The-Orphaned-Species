@@ -57,7 +57,7 @@ He braces his knees, rope in one fist, the steering stick loose in the other, an
 
 Kiran leads but he is coasting to a stop. Eli is losing ground slowly—and buying time.
 
-Eli keeps pumping, still inside the marks. He feels the air before he sees it: hairs lifting on his forearms, cold on his cheek. The breeze comes along the storm wall first, low and narrow. Better placement when it returns. Kiran finds it half a second later and pinches too hard. The boom slams across. His hull rolls out from under him with a smack loud enough to carry over the wall. He comes up soaked and swearing in his home tongue, then hauls himself aboard a length behind.
+Eli keeps pumping, still inside the marks. He feels the air before he sees it: hairs lifting on his forearms, cold on his cheek. The breeze comes along the storm wall first, low and narrow. Better placement when it returns. Kiran finds it half a second later, already cutting hard to close the gap Eli just opened—and finds Timah's floats swinging into his water too. He doesn't give her the room Eli gave Jul. He hauls the tiller over, pinches too hard chasing the correction, and the boom slams across. His hull rolls out from under him with a smack loud enough to carry over the wall. He comes up soaked and swearing in his home tongue, already looking for the boat that put him there, then hauls himself aboard a length behind.
 
 The sail fills.
 
@@ -69,7 +69,18 @@ He leans into it, small corrections with knees and hands. Do not look at the buo
 
 Then the water in it moves wrong.
 
-An old woman kneels underwater at the bottom of the sea—Timah, the harvesters call her, though she answers to nothing shouted from the surface. She holds a curved knife, cutting stems into a net bag tied to her belt—sea grapes, the dark green clusters the old-island kitchens pickle and the Reclamation hotels pretend they invented. A boy drops from the bright surface, lovingly finds her back with both feet, and pushes off hard enough to send himself spiraling up through the bubbles again—Jul, surfacing wherever the game takes him, with no more sense of the race than his grandmother has. Their harvest boat has drifted off its anchor, marker floats swinging into the exact lane Eli chose an hour ago and has been racing toward ever since. The boat is old-island work if you know how to see it: shallow draft, patched where salt ate the paint, a plastic jug of fresh water lashed where a tourist would put a cooler. Timah reaches for a line she cannot see the race through.
+An old woman kneels underwater at the bottom of the sea—Timah, the harvesters
+call her, though she answers to nothing shouted from the surface. She holds a
+curved knife, cutting sea-grape stems into a net bag at her belt, the dark green
+clusters the old-island kitchens pickle and the Reclamation hotels pretend they
+invented. A boy drops from the bright surface, pushes off her back hard enough
+to send himself spiraling up through the bubbles—Jul, surfacing wherever the
+game takes him, with no more sense of the race than his grandmother has. Their
+harvest boat has drifted off its anchor, marker floats swinging into the exact
+lane Eli chose an hour ago and has been racing toward ever since. Old-island
+work if you know how to see it: shallow draft, patched where salt ate the
+paint, a plastic jug of fresh water lashed where a tourist would put a cooler.
+Timah reaches for a line she cannot see the race through.
 
 "Clear the mark!" someone screams from the wall. Eli cannot tell, from here, whether it means Timah or him.
 
@@ -91,9 +102,25 @@ For one stupid second he looks for them on the quay—the old reflex, cut off ye
 
 ---
 
-Kiran comes up the marina steps as Eli pulls in—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out past Timah's boat—being towed back to the anchor by a harbor boy while Jul waves at no one in particular—to the open strait beyond the marks, still the thing that made the win feel like belonging for a breath. Suresh sees Eli looking and does not mock it. On the wall someone is already arguing in Bajau and Malay about whether the race owed Timah a clear mark or Timah owed the race a clear fairway. The argument is older than the towers. It will outlive the wager.
+Kiran comes up the marina steps as Eli pulls in—Eli's arms burning, salt on his knees, the boat put away wrong in his hands. Kiran is soaked to the scalp and not laughing. He finds the harbor boy towing Timah's boat back to anchor before his own hull is properly tied, and crosses the dock toward her still dripping.
 
-"You won," Suresh says. "Don't blame the grandmother. You were in her way."
+"You put your floats in a raced lane." His voice carries over the wall. "You could have put us both in the water."
+
+Timah doesn't look up from coiling her line. Jul does, one hand finding her sleeve.
+
+"Kiran." Suresh is already moving, faster than a man his age has any business moving, and gets a flat hand on Kiran's chest before the boy closes the last two meters. "She wasn't in your way. You were in hers."
+
+"She drifted into—"
+
+"She was harvesting before either of you could swim." Suresh doesn't raise his voice; he doesn't need to. "Argue whose lane it was with me, if you want to argue it. Not with a grandmother and a boy."
+
+Kiran's jaw works. For a second it looks like he'll push through the hand anyway. Then something goes out of him—the adrenaline, or just the shame of being held back in front of the whole dock—and he turns for the tackle shed without another word.
+
+On the wall, someone is already retelling it in Bajau and Malay, the argument older than the towers. It will outlive tonight's wager either way.
+
+Suresh takes Eli's line without ceremony. For a moment the two of them look out past Timah's boat, safely under tow now, to the open strait beyond the marks—still the thing that made the win feel like belonging for a breath. Suresh sees Eli looking and does not mock it.
+
+"You won," Suresh says.
 
 He studies Eli's face. "What happens to you out there? It happened to your mother sometimes. I saw it when I taught her. She said everything narrowed."
 
@@ -155,19 +182,21 @@ His phone rings on the ninth-floor landing. Dhaka, Shireen. He steps into the se
 
 ---
 
-*Friday night.* Mei keeps a terrace table for both racers. Kiran, hair still stiff with salt, claims Timah reached up from the seabed and pulled his boat over. Eli asks how she did it without looking. By Kiran's third version the grandmother has a second curved knife between her teeth, and Eli is laughing hard enough to put his forehead against the table.
+*Friday night.* Mei keeps a terrace table set for one. She has not laid a second place, and doesn't explain why she doesn't need to.
 
-Mei sets down two plates of nasi goreng. "If you drowned as often as you say, I would save money feeding you." She nods at his forearm, where the rope burn is already showing through the salt. "Suresh told me your sheet nearly let go. What happened out there?"
+Mei sets down a plate of nasi goreng in front of him. "If you drowned as often as Kiran's telling it, I'd have to feed this whole dock for free." She nods at his forearm, where the rope burn is already showing through the salt. "Suresh told me your sheet nearly let go. What happened out there?"
 
-She takes two green coconuts from the icebox and knocks the tops open with the back corner of her cleaver. Kiran looks from one to the other. "There was only one winner."
+Eli eats faster than he means to, the day still working through him—the race, the frayed sheet, Kiran going for Timah's boat before Suresh got an arm across his chest. He is still turning it over when he reaches the part that's funny.
 
-"One for the winner," Mei says, pushing a coconut toward Eli. She gives Kiran the other. "One for the swimmer."
+"He's already telling it different on the dock," he says. "By the time I left, Timah'd reached up from the seabed and pulled him under. Give it another hour, she'll have a knife between her teeth."
 
-Kiran eats everything anyway. When the kitchen closes, Mei folds the last fritters into paper and tells him his mother has sent three messages and will send a search party next. He leaves still insisting the capsize was an ambush.
+Mei's mouth twitches, though she won't quite let herself laugh. "And you didn't correct him."
 
-Mei watches him go, then stands a moment too long at the rail before she comes back to the table. Suresh had stopped at her counter an hour before service, said four words she has not repeated to anyone, and left before she could ask a fifth. She has decided, somewhere in the time it took Kiran to walk away still laughing, what she is going to do about a thing she cannot name.
+"Why would I. It's a better story than the true one."
 
-Mei takes his empty plate. She leaves Eli's where it is and sits without filling the silence first. "Eat."
+She takes a green coconut from the icebox, knocks the top open with the back corner of her cleaver, and sets it at his elbow without waiting for an answer.
+
+Suresh had stopped at her counter an hour before service, said four words she has not repeated to anyone, and left before she could ask a fifth. She has decided, somewhere between the coconut and the second helping she puts in front of him without being asked, what she is going to do about a thing she cannot name.
 
 "This is the last one on the chit circle," she says. "Eat it like you mean to come back, even if you don't."
 
@@ -345,24 +374,24 @@ channel south to Meridian City is the only route Wren's manifest says is still
 running, and it is running only because the paperwork says it must.
 
 ---
-
 *Saturday, last light.* The marina gate takes his stamp on the second try.
 Nobody explains the first. Then Suresh is casting off before Eli has both
 feet planted, and Pelangi is already behind them.
 
-"Someone asked me to hold this for you," Suresh says, and presses a folded
-paper into Eli's palm—*chandlery, old town, ask once.* "Not for tonight. For
-if the corridor spits you out past Singapore." He turns the boat into the
-Johor channel and does not look back, because looking back is a thing that
-gets noticed.
-
 Behind them, white coats and royal police move on Babaji's offices in a
 column—side door first, then the mezzanine, then the laundry entrance Wren
 used that morning. A portable brain scanner comes out on a trolley like
-ordinary furniture. The terrace lights he looks for across the water are
-already gone. The road after his parents left is still blank, and he wants
-it to open badly enough that the Singapore cash starts to feel obscene
-beside it.
+ordinary furniture. Men in hotel livery are walked to the pier with their
+hands visible. The terrace lights he looks for across the water are
+already gone. The road after his parents left is still blank. He wants it to
+open with a hunger that makes the Singapore cash feel obscene—distance from the
+only place that remembers them whole.
+
+Suresh presses a folded paper into Eli's palm at the rail—*chandlery, old town,
+ask once*—and keeps his eyes on the channel markers. "It's okay," he says,
+quiet, not looking at him. "There are always times like this. Just stay moving
+until the air comes back somewhere." He turns the boat into the Johor channel
+and does not look back, because looking back is a thing that gets noticed.
 
 Wren puts her hand on his forearm and leaves it there. She does not tell him
 he is fine. She does not have to.
@@ -376,6 +405,14 @@ like it owes you a conversation. You got through. That's enough for one door."
 It is the first sharp thing she has said to him. It is also the first thing that
 sounds like someone who has been holding her breath all day. She says it without
 looking at him, and she does not say it again.
+
+When he sees her staring at nothing between two gates later, Eli slips away from
+the queue and comes back with a paper cup in a white napkin—cupcake, pandan
+cream, the flavor she ate twice at Babaji's table the night before and did not
+think he noticed. He does not make a thing of it. He just hands it to her and
+says, "Line moved slower than I expected." She takes it. She eats it while they
+walk. She does not thank him. She does not have to. The hand she puts on his
+shoulder before the next checkpoint is lighter than it was at the gantry.
 
 ---
 
@@ -613,7 +650,9 @@ Under a service light gone amber with age, a shallow case. Inside the case, wrap
 
 He does not look at the circles longer than ninety seconds allow. He wraps it back, presses it flat against his ribs inside the wardrobe jacket, and is back at the cable run before the second set ends, hands steady, doing a job that was never really about cables.
 
-On the way out he spots her tablet on a cable crate, screen dark, a hairline crack running through the bezel where the gantry crowd pushed it that morning. He pockets it without stopping. Ten minutes later, when the backstage crowd is thick with fans and security and the boy's people, he finds a tech tent and trades a cable tie and five minutes of precise work for a screen guard and a clean bezel wrap. He does it without telling her. She finds it in her bag after the convoy rolls, runs her thumb along the wrapped edge once, and says nothing—which is how he knows it was enough.
+On the way out he passes the crew catering table where the afterparty desserts are already staged—rows of small iced cakes under a warming lamp, flavor cards in a florist's hand. Most of the names are built for the Stack: yuzu, matcha, someone's idea of lychee. One card just says *pandan*, the green a shade darker than the rest—the only flavor on the table that means anything to a kid from the strait. The caterer waves him off when he reaches for one; crew eats after guests. He trades her a spliced headset cable instead, the kind his hands can do blind, and she takes it like the better end of the deal.
+
+Ten minutes later, when the backstage crowd is thick with fans and security and the boy's people, he sets the cake on the corner of Wren's tablet without a word while she's checking a manifest against a headcount. She looks at it, then at him, and for one second the hostess composure actually slips. She doesn't ask how he knew. She eats half of it standing, hands him what's left, and goes back to the headcount like nothing happened—which is how he knows it landed.
 
 Eli's head starts to go. It is layered noise wearing sequins—six languages, the chant, the PA, the dancers' counts—and underneath all of it, against his ribs, a cold that has started keeping its own time. The ladder tips in his inner ear, and his hand does the old thing before he can be embarrassed by it: two fingers pressed flat below the collarbone, one long breath out through the teeth. *Stand behind the hands.* The way **she** taught him—his mother—in rooms he can barely remember, before the tower, before everything. He does not know yet that the two things in his chest—the shape under his ribs and the noise behind his eyes—are answering the same question.
 
