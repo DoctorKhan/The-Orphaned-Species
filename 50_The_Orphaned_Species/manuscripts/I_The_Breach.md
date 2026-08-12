@@ -303,9 +303,9 @@ she says, unhurried, the way she might confirm a dinner reservation. "Show
 call is Sunday—concert first, the race after. I'll be with you as far as
 Singapore. Ask me now if you're going to ask at all, though you can always
 ask again at the gate." She lets him read it before she adds, still without
-looking up, "When the crew breaks for the second set, there's a wardrobe
-closet marked maintenance. You'll have ninety seconds. Then you go back to
-your cables, as if nothing happened."
+looking up, "The other lane goes through full clearance. If your file flags,
+they don't send you back to the boat. They send you to a room where nobody
+asks which band you came with."
 
 She does not explain.
 
@@ -370,6 +370,13 @@ he is fine. She does not have to.
 "There's still an arch ahead," she says. "At each door, please follow my
 lead."
 
+She pauses, then adds, quieter: "And for God's sake don't stare at the gantry
+like it owes you a conversation. You got through. That's enough for one door."
+
+It is the first sharp thing she has said to him. It is also the first thing that
+sounds like someone who has been holding her breath all day. She says it without
+looking at him, and she does not say it again.
+
 ---
 
 ## Chapter Two—His Hand
@@ -404,7 +411,7 @@ Wren's hand finds his elbow—steadying, not romantic—and guides him off the p
 
 "Your body is ahead of your head," she murmurs. "Breathe before the next door."
 
-He tries. It helps a little. Not enough to feel wise.
+He tries. It helps a little. Not enough to feel wise. But when they step off the wet stone he sees her hand still curled around the call sheet like it is something she might lose. He reaches for it without thinking—not to take it, just to touch the paper so she knows he sees it—and lets go before she has to decide whether to let him hold it. She eases her grip one beat later, then walks on.
 
 Maren used to count breaths with her fingers flat on his sternum. Wren's hand is
 at his elbow, thumb against the seam of his wet sleeve. At this distance he
@@ -605,6 +612,8 @@ The closet is exactly where she said it would be. It is not a vault. It is a **h
 Under a service light gone amber with age, a shallow case. Inside the case, wrapped in cloth the same way his mother used to wrap seedlings against the cold: three concentric circles cut into something that is not quite stone and not quite metal. Small enough to close a fist around. Old enough that his hands know it before his mind agrees to. Not a screen. Not a chip. A weight, and a cold that does not come from the air conditioning. A second scrap of paper is folded under it, no signature: *Kelong, east channel, past the third net stake. Ask for the netmaker. Don't say what it is.*
 
 He does not look at the circles longer than ninety seconds allow. He wraps it back, presses it flat against his ribs inside the wardrobe jacket, and is back at the cable run before the second set ends, hands steady, doing a job that was never really about cables.
+
+On the way out he spots her tablet on a cable crate, screen dark, a hairline crack running through the bezel where the gantry crowd pushed it that morning. He pockets it without stopping. Ten minutes later, when the backstage crowd is thick with fans and security and the boy's people, he finds a tech tent and trades a cable tie and five minutes of precise work for a screen guard and a clean bezel wrap. He does it without telling her. She finds it in her bag after the convoy rolls, runs her thumb along the wrapped edge once, and says nothing—which is how he knows it was enough.
 
 Eli's head starts to go. It is layered noise wearing sequins—six languages, the chant, the PA, the dancers' counts—and underneath all of it, against his ribs, a cold that has started keeping its own time. The ladder tips in his inner ear, and his hand does the old thing before he can be embarrassed by it: two fingers pressed flat below the collarbone, one long breath out through the teeth. *Stand behind the hands.* The way **she** taught him—his mother—in rooms he can barely remember, before the tower, before everything. He does not know yet that the two things in his chest—the shape under his ribs and the noise behind his eyes—are answering the same question.
 

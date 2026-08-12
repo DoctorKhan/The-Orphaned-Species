@@ -124,6 +124,22 @@
 |
 |---
 |
+|## 8. ☐ Litany-list dialogue tic — style-guide rule already exists (2026-08-09), prose not yet swept
+|
+|**Problem.** Multiple characters across Books II and III deliver dialogue as bare period-chain word lists ("Fragments. Hunger. Release." / "Inquiry. Testimony. Rest." / a since-fixed cloister-charter line in Book III). This is exactly the pattern `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence checklist* item 2 already names and forbids — the rule predates the sweep, the prose doesn't reflect it yet.
+|
+|**Why it matters.** Distinct locked voice profiles (Mei kitchen-quiet, Babaji analytical-compressed, Wren hostess-composed, etc., per `26_present_day_cast_expanded.md`) collapse into one generic register wherever this tic appears, regardless of whose line it is.
+|
+|**Evidence.** Grep sweep (2026-08-11) found remaining instances at minimum: `II_The_Descent.md` L1830, L2112, L6049, L6163, L6609, L6828, L7864, L8162. Book I was spot-checked and is already clean. One Book III instance (elder's cloister-charter line) was fixed independently during this same pass.
+|
+|**Suggested direction.** Run the checklist's own test against each instance ("do the items reorder freely, or recombine into a comma chain, without losing anything?"); fix per that item's remedy — ground one image and cut the rest, or make each fragment differ, escalate, or cost something the others don't.
+|
+|**Status.** Not started (Book II instances open).
+|
+|**Related:** `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence / AI-pattern checklist* item 2.
+|
+|---
+|
 |## Done this pass
 |
 - **Not a healer.** All extraordinary bodily repair and diagnostic somatic reading belongs to **Somchai Vichai, nurse and field medic**. Somchai reads bodies through felt signatures: heat (virus/fever), tingling (bacteria/nerve), pressure/pulse (blockage), cold (depletion). He repairs; Eli does not. Eli's receiver is trajectory-only: he reads the vector of systems, fields, and movements through the web, not the diagnostic state of a body.
