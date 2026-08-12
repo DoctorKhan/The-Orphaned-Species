@@ -124,17 +124,15 @@
 |
 |---
 |
-|## 8. ☐ Litany-list dialogue tic — style-guide rule already exists (2026-08-09), prose not yet swept
+|## 8. ☑ Litany-list dialogue tic — RESOLVED 2026-08-12 (style-guide rule already existed, prose now swept)
 |
-|**Problem.** Multiple characters across Books II and III deliver dialogue as bare period-chain word lists ("Fragments. Hunger. Release." / "Inquiry. Testimony. Rest." / a since-fixed cloister-charter line in Book III). This is exactly the pattern `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence checklist* item 2 already names and forbids — the rule predates the sweep, the prose doesn't reflect it yet.
+|**Problem.** Multiple characters across Books II and III delivered dialogue as bare period-chain word lists ("Fragments. Hunger. Release." / "Inquiry. Testimony. Rest." / a since-fixed cloister-charter line in Book III). This is the pattern `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence checklist* item 2 already names and forbids — the rule predated the sweep, the prose hadn't caught up.
 |
 |**Why it matters.** Distinct locked voice profiles (Mei kitchen-quiet, Babaji analytical-compressed, Wren hostess-composed, etc., per `26_present_day_cast_expanded.md`) collapse into one generic register wherever this tic appears, regardless of whose line it is.
 |
-|**Evidence.** Grep sweep (2026-08-11) found remaining instances at minimum: `II_The_Descent.md` L1830, L2112, L6049, L6163, L6609, L6828, L7864, L8162. Book I was spot-checked and is already clean. One Book III instance (elder's cloister-charter line) was fixed independently during this same pass.
+|**Evidence / resolution.** Grep sweep (2026-08-11) found 8 candidate lines in `II_The_Descent.md` (L1830, L2112, L6049, L6163, L6609, L6828, L7864, L8162). Run against the checklist's own test ("four or more parallel items, none grounded in a specific body or sense, that reorder freely without losing anything"), most were false positives the naive grep couldn't distinguish: two are a literal knock-code (L1830, L6828, not prose), one is a body-grounded hand-washing procedure (L2112), and three are genuine escalating triads under three items that already differ in register or cost (L6049 Operator/Classifier/Mother, L6163 three proper names answering a direct question, L7864 Smaller/Uneven/Alive) — left as-is on their merits. Two were real violations — a character answering a direct emotional question with a bare abstract-noun checklist — and were rewritten as actual spoken sentences: L6609 (Eli, on contact with Maren) and L8162 (Maren, on accountability). Book I was already clean; the Book III cloister-charter line was fixed independently during the same pass.
 |
-|**Suggested direction.** Run the checklist's own test against each instance ("do the items reorder freely, or recombine into a comma chain, without losing anything?"); fix per that item's remedy — ground one image and cut the rest, or make each fragment differ, escalate, or cost something the others don't.
-|
-|**Status.** Not started (Book II instances open).
+|**Status.** Closed. Future instances: apply the checklist's own reorder/comma-chain test per-case rather than grep-and-fix blind — most surface matches for "short sentences separated by periods" are not violations.
 |
 |**Related:** `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence / AI-pattern checklist* item 2.
 |

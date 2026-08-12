@@ -6606,7 +6606,7 @@ Rasel's frustration becomes visible.
 
 "You heard her."
 
-"Fragments. Hunger. Release. Not a mutual room."
+"Pieces of her, maybe. Something that pulled like hunger, then let go before I could call it contact instead of wanting."
 
 "She said my name."
 
@@ -8159,7 +8159,7 @@ She takes his hand.
 
 "What should happen to you?"
 
-"Inquiry. Testimony. Rest. Perhaps prison if a process earns that answer."
+"An inquiry, if anyone runs an honest one. My own testimony, not a summary of it. Rest, eventually. Prison too, if a real process decides that's what I've earned."
 
 "You'd accept prison?"
 
