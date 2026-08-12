@@ -6,7 +6,7 @@
 
 | When | Beat |
 |------|------|
-| **Friday AM** | Garden → **morning skiff race** (10 o'clock) vs Suresh; **Eli wins** — wind pocket, Timah/Jul harvest boat drifts into Suresh's line; Eli reads wall-shadow breeze from quay watching; Suresh crosses own name off slate |
+| **Friday AM** | Mei puts Shireen's clinic deposit in front of Eli at breakfast and makes the **morning skiff race** (10 o'clock) vs Kiran the only way to earn Sunday's cash; **Eli wins** — wind pocket, Timah/Jul harvest boat drifts into his line; Eli reads wall-shadow breeze from quay watching; Suresh crosses Kiran's name off the slate |
 | **Friday PM** | **Mei final dinner** on terrace — the family holiday was flight; his parents left him with Mei for one night, missed their rendezvous, and were filed as dead without a witness; **only send-off** (no second goodbye Saturday) |
 | **Saturday AM** | Babaji's **motor catamaran** at anchor — **first time Eli meets Wren**; papers, attestation, call sheet; *"I'm your handler through Singapore"* |
 | **Saturday PM** | Mandate squeeze → **Wren at marina stairs BEFORE checkpoint** → guides gate → boards Suresh → **raid on Babaji's hotel offices** as Eli departs **last light**; Babaji's catamaran runs south in parallel |
@@ -22,7 +22,7 @@
 
 ## Draft choices — flagged for veto
 
-1. **⟦DC-1⟧ — LOCKED rev. Z.** **Friday AM** race opens **mid-channel in medias res** (Eli vs Kiran; wind pocket → Timah/Jul → wall-shadow finish); Suresh holds the wager and gives Eli the Cherry Cube manifest after **Eli wins**. Shireen **Monday** = post-race stake. **Two boats only. No dawn boat.**
+1. **⟦DC-1⟧ — REVISED 2026-08-11.** **Friday AM** race opens **mid-channel in medias res** (Eli vs Kiran; wind pocket → Timah/Jul → wall-shadow finish). Mei's breakfast ultimatum is carried into the opening page: Shireen's clinic deposit is due Monday, and Eli's race winnings are the only cash Mei knows he can send Sunday. Eli loses, Shireen waits; Mei cannot cover the deposit. Suresh holds the wager and offers the Singapore job and Saturday berth only after **Eli wins**. The harbor-office squeeze and orphan truth come at Friday dinner, before Eli knows he has to sail. **Two boats only. No dawn boat.**
 
 2. **⟦DC-2⟧ — REVISED AND LOCKED 2026-08-11.** **Mei dinner** opens with Eli and Kiran trading race notes; Kiran leaves before Mei turns the family photograph face-down. She tells Eli that his childhood holiday was a flight. His parents left him with her for one night, took their bags toward the next guide, and never arrived. Mei witnessed no arrest and has no proof of death; Babaji closed the file to sever Eli from the search. The physical Rootbook first appears in Thai cooperative custody in Ch 10; Singapore/Malacca supplies damaged scans. **No Saturday service-door goodbye.**
 

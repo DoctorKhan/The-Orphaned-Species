@@ -39,13 +39,15 @@ The skiff is flying.
 
 Eli leans out over the bright chop, one foot braced under the thwart, the sail pulling hard enough to make the rope sing in his fist. Kiran is half a length behind, shouting something the wind tears apart. Eli laughs anyway. The red buoy rushes toward them, spray cold against his shins, and for a few seconds there's no list with his name missing from it.
 
+At breakfast Mei had pushed his coffee across the counter. His phone lay beside it, Shireen's message still open: clinic Monday, deposit due. Mei had read it. "You win Suresh's race, he pays you Sunday. You lose, you tell your cousin why the money won't come. I have nothing to cover you."
+
 The hull's vibration climbs into his thighs. He stops steering and lets the channel take him. Behind him Kiran is still shouting. Ahead, the strait opens past the storm wall.
 
 The wind dies.
 
 The sail collapses against the mast like something exhaling wrong. The hull drops off its plane so abruptly he nearly pitches forward. A second ago the channel was all noise and motion; now water slaps lazily against the boards. Kiran glides past on the last of his momentum.
 
-Mid-channel pocket. Not good. The red buoy sits close enough to hate, close enough that losing it now would cost him more than pride—Suresh does not run charity races, and a man with no passport and no country on paper only gets to eat what he can win.
+Mid-channel pocket. Not good. The red buoy sits close enough to hate. Lose it and Kiran gets the job, the berth, and the last run Mei trusts to clear the harbor.
 
 Kiran passes him, sailing as if pride could tow a hull. For a moment, he panics. Then old instinct answers before thought does. *It's okay. There are always times like this. Just stay moving until the air comes back somewhere.*
 
@@ -173,13 +175,14 @@ She waits until he finishes chewing and swallows.
 
 Her voice stays low—not for the empty tables. Eli sets down his fork. He does not trust his hands with it anymore.
 
-"That trip was never a holiday," she says. "They asked me to keep you for one
-night. They said they would collect you in the morning."
+"I thought it was a holiday," she says. "They came here after dinner with two
+bags. Your mother was worried, though she tried not to show it. Your father
+kept checking the door. I trusted them enough not to ask questions. They said
+they had to leave for the night and would collect you in the morning."
 
 "They left me here."
 
-"For one night. They carried their bags toward a rendezvous. They never came
-back."
+"For one night. We believed they would collect you in the morning."
 
 Eli goes still. Then the anger comes up hot and plain.
 
@@ -189,13 +192,14 @@ Eli goes still. Then the anger comes up hot and plain.
 
 "Years." His voice is too loud for the terrace; he doesn't care. "You let me sleep in his garden and you let me think he was dead. Babaji knew. You knew. Why."
 
-Mei does not flinch. "Babaji made me promise not to tell you. He had closed the
-file before the questions could reach you. If your parents had left by choice,
-you would have gone looking. If they had been taken, the people looking for
-them might have found you first."
+Mei does not flinch. "Because I didn't know what had happened to them. At first
+I thought they were delayed. Then Babaji said silence was safer until we knew
+whether they had run, been taken, or chosen not to come back. If you went
+looking, the people looking for them might have found you first."
 
-She folds her hands. "I am not sorry we kept you here. I am sorry we made you
-live inside the story that we did."
+She folds her hands. "Then the years passed, and the silence became its own kind
+of lie. I am not sorry we kept you here. I am sorry we let you live inside the
+story that they had abandoned you."
 
 That lands wrong in his chest—grief and fury braided so tight he can't pull one strand free. His whole childhood a paperwork trick. Beyond what Babaji told her, Mei has nothing.
 
@@ -205,7 +209,7 @@ her; Rasel's hand at the back of his neck. Their bags waited by the door. *Be
 good to your Antie Mei, Babu. We'll be back in the morning.* The memory stops
 there.
 
-"And my mother." It is not quite a question. "Did anyone find her?"
+"And my parents." It is not quite a question. "Did anyone find them?"
 
 "I don't know where they went." Mei's voice softens, and that is worse. "No one
 on this reach saw them after they left. Babaji never found a body and never
@@ -218,10 +222,11 @@ file becomes a beacon. They split you off the record. Orphan on paper. Stolen
 child in truth."
 
 "You were small," Mei says. The word comes out in the old pronunciation, the
-one Rasel used when he called him in from the garden. "I am telling you now
-because tomorrow night you sail on Suresh's boat. Cash in hand. The harbor
-office has started matching passenger lists to old intake files. Two boats were
-turned back this week. The strait is closing, Eli. You were leaving anyway, but now it might close behind you."
+one Rasel used when he called him in from the garden. "This morning I made you
+race for Shireen's money. I didn't tell you what the harbor office was matching.
+It has started pulling passenger lists against old intake files. That old file
+can lead them here. You sail tomorrow night. If you miss this boat, there may
+not be another one they let through."
 
 She softens one more inch—kitchen warmth, not a lead. "Your mother had work up the strait sometimes. Meridian City; 'Singapore' as she called it. Once she brought you along as a baby—came back talking about glass and trees that never dropped their flowers. I don't know more than that. She was tired and happy and she wanted you to see something pretty." She shrugs, as if the detail is only color for the grief. "Eat. Don't make a map of my leftovers."
 
