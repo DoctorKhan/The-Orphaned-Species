@@ -101,7 +101,7 @@ The race leaves him clean and empty. He cannot say what happened out there, or w
 
 "I don't know."
 
-They make it to the end of the dock. He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "You won. The job is all yours. But remember, it's Circuit weekend in Singapore so it will be busy. You've got the idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's hotel—papers, then you wait for the boat. Walk like you belong until something proves you don't." A beat. "Don't make me regret betting on you, boy."
+They make it to the end of the dock. He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "You won. The job is all yours. But remember, it's Circuit weekend in Singapore so it will be busy. You've got the idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's hotel—papers, then you wait for the boat. Walk like you belong until something proves you don't." He waits a beat too long before he adds, "Don't make me regret betting on you, boy."
 
 Suresh crouches to coil the loose sheet. His thumb finds the frayed end. He runs it along the cut once. "That's not chew," he says. "That's not salt-rot either."
 
@@ -116,6 +116,11 @@ Eli leans in. The cut is clean. Too clean.
 Eli shakes his head.
 
 "Good," Suresh says. He folds the end into his palm instead of the bin.
+
+Not chew. Not salt-rot. Not his own knife, badly stowed. That leaves a hand
+he never saw, close enough to reach the sheet before the race even started.
+Something goes cold under his ribs and does not entirely leave for the rest
+of the morning.
 
 Babaji runs the old hotel. He was Rasel's friend—how Eli's name ever reached a contractor ledger in the first place. This morning Eli has won the only cash job on the strait before he knew its name: not Foundry day-shift wages, but weekend show money in the Stack if he can get there. The deposit alone would clear Shireen's clinic fee and leave enough to cover the tower room for another week. Without it, he goes back to counting days on the chit circle. He understands, all at once, what he owes Shireen if Monday is real.
 
@@ -241,6 +246,11 @@ for a child. I don't know what I would have done with the same night again."
 
 She looks past him, at the photograph, and says nothing else about it.
 
+The heat in his neck does not go all at once. It leaks out while he picks his
+fork back up, because his hands need something to do that is not shaking.
+Mei watches him eat for a moment before she gives him something that will not
+cost either of them anything else tonight.
+
 Her thumb works along the white edge of the photograph. "Your mother had work
 up the strait sometimes. Meridian City. Singapore, she called it. Once she
 brought you along as a baby. She came back talking about glass and trees that
@@ -276,7 +286,7 @@ Eli climbs behind her, past floors built for someone's honeymoon and now boarded
 
 Babaji sits by a window with the drapes half-drawn, automatic chess paused mid-game on a cheap magnetic set—the pieces Rasel hated and bought anyway because Eli kept losing them over the rail. He does not stand.
 
-"Sponsor line is mine." He passes a folded contractor sleeve. "Paper says Foundry stage crew—that clears the corridor. Job is Cube show: Sunday concert before Circuit night. Power, wardrobe uplink, afterparty before the cars." He holds it out to the woman first. "Wren. Attest it."
+"The sponsor line is mine." He passes a folded contractor sleeve across the table. "The paper reads Foundry stage crew. That clears the corridor. The real job is the Cube—Sunday concert, ahead of Circuit night. You'll run power, the wardrobe uplink, and the afterparty load-in before the cars arrive." He hands it to the woman first, not to Eli. "Wren. Attest it."
 
 She scans it on a tablet and signs before Eli's fingers close on the paper. Babaji's legal name where a sponsor goes. Rasel nowhere at all. She does not look at him while she works.
 
@@ -287,12 +297,15 @@ back to Eli. "I run south before they walk the offices. You run on Suresh's hull
 the same hour—Saturday, last light. Different vessels. Don't miss your window
 watching mine."
 
-Wren slides a call sheet across. The worker lane and Sunday call are underlined
-in blue, twice. "Worker lane. Not the other line. Show call Sunday—concert first,
-race after. I'm with you through Singapore. Ask now. Ask again at the gate if
-you need to." She lets him read it. Then, without looking up: "When the crew
-breaks for the second set, wardrobe closet marked maintenance. Ninety seconds.
-Then you go back to cables."
+Wren slides a call sheet across, the worker lane and Sunday call already
+underlined in blue, twice. "You'll want the worker lane, not the other one,"
+she says, unhurried, the way she might confirm a dinner reservation. "Show
+call is Sunday—concert first, the race after. I'll be with you as far as
+Singapore. Ask me now if you're going to ask at all, though you can always
+ask again at the gate." She lets him read it before she adds, still without
+looking up, "When the crew breaks for the second set, there's a wardrobe
+closet marked maintenance. You'll have ninety seconds. Then you go back to
+your cables, as if nothing happened."
 
 She does not explain.
 
@@ -312,8 +325,7 @@ He folds both hands around the cup. Tea trembles against the rim.
 
 Wren takes him down through the boarded floors and out to a launch tied at the marina steps. She takes the tiller herself and points it back toward Mei's side of the reach. Halfway across the harbor Eli says, too loud, "They told me my father was dead."
 
-Wren keeps both hands on the tiller. Her knuckles whiten. One beat, then she
-resets. "Mei told you nobody saw him die."
+Wren keeps both hands on the tiller. Her knuckles whiten. She lets the silence stretch until the hull's breathing slows, then she says, "Mei told you nobody saw him die."
 
 "Last night."
 
@@ -334,87 +346,35 @@ running, and it is running only because the paperwork says it must.
 
 ---
 
-*Saturday, last light.* The marina gate has two lines now. One is marked
-*worker*. The other is not marked, but everybody knows what it is. Eli keeps
-his eyes on the shoes of the man in front of him: dock boots, salt-stiffened
-laces, a toe cap worn through. A drone hangs over the water, slow as it knows
-it can be. The chit pings stack in his pocket and goes still. Every phone on
-the line has the same blank bar across the top. Remittance lane is the first
-lane that dies. Money stopped moving three phones back. Bodies still move, and
-only because a signature two hours old says these particular bodies are
-allowed to.
+*Saturday, last light.* The marina gate takes his stamp on the second try.
+Nobody explains the first. Then Suresh is casting off before Eli has both
+feet planted, and Pelangi is already behind them.
 
-Wren is at the gate with his name on a clipboard that is also a manifest.
-"Your attestation is attached." Soft, level—the voice that makes queues feel
-temporary. "Worker lane, not cohort review. If we miss this tide, the second
-column is all that remains." Her eyes stay on the clipboard, where the lie is.
+"Someone asked me to hold this for you," Suresh says, and presses a folded
+paper into Eli's palm—*chandlery, old town, ask once.* "Not for tonight. For
+if the corridor spits you out past Singapore." He turns the boat into the
+Johor channel and does not look back, because looking back is a thing that
+gets noticed.
 
-She walks him to the gate—a woman in a royal vest with a tablet and four
-questions Wren has already answered on paper: where, how long, employer, health
-attestation. Wren speaks first. Eli repeats what she puts in his mouth—the
-cover, not the Cube. "Singapore. Forty-eight hours. Foundry contractor. Stage
-crew." His palms prickle once on the railing. Useless noise against a screen.
+Behind them, white coats and royal police move on Babaji's offices in a
+column—side door first, then the mezzanine, then the laundry entrance Wren
+used that morning. A portable brain scanner comes out on a trolley like
+ordinary furniture. The terrace lights he looks for across the water are
+already gone. The road after his parents left is still blank, and he wants
+it to open badly enough that the Singapore cash starts to feel obscene
+beside it.
 
-The status box holds on amber a half-second too long. Red is the line nobody
-named, the one Eli has not let himself look at since the marina gate. Green
-is Wren's whole plan holding, and Suresh's boat, and the tide. The officer's
-thumb moves once, unhurried, the way a hand moves that has made this exact
-motion a thousand times today and will make it a thousand more before her
-shift ends, and the box goes green. **Essential corridor worker.** The gate
-opens.
+Wren puts her hand on his forearm and leaves it there. She does not tell him
+he is fine. She does not have to.
 
-Suresh presses a folded paper into Eli's palm at the rail—*chandlery, old town,
-ask once*—and keeps his eyes on the channel markers. Wren steps aboard ahead of
-Eli, tablet under her arm, hostess poise collapsing into the boat's narrow deck
-without losing composure. Suresh does not greet her the way he would greet a
-harbor wife, and she does not wait for it—two people sharing a hull on old
-terms: no warmth spent, and none owed. When she moves past him to the rail he
-shifts his weight to give her the better footing without being asked. She
-answers with a short nod at the helm. "Someone asked me to hold this for you,"
-Suresh says, meaning the chandlery paper. "Not for tonight—for if the corridor
-spits you out past Singapore." He casts off into the Johor channel.
-
-Eli makes himself useful without being asked. Suresh grunts approval once and
-does not look at him again, which is its own kind of blessing.
-
-He looks back at the old hotel, small now and going grey at the edges. Beside him, Wren's breathing settles. She leaves the space between them untouched.
-
-White coats and royal police move on Babaji's offices in a column—side door
-first, then the mezzanine, then the laundry entrance Wren used this morning. The
-red building under the dirt fills with grey. A portable brain scanner comes out
-on a trolley like ordinary furniture. Men in hotel livery are walked to the pier
-with their hands visible. The terrace lights he looks for across the water are
-already gone. The road after his parents left is still blank. He wants it to
-open with a hunger that makes the Singapore cash feel obscene—distance from the
-only place that remembers them whole.
-
-His hands find the rail. They are still raw from the rope. Beside him Wren's
-breathing stops being ordinary—a shallow catch, then slower, as if she is
-deciding whether to speak or not to speak. She does not speak. She puts her hand
-on his forearm and leaves it there, the weight of a person who has watched a
-door close before and knows the sound it makes.
-
-Wren holds out water. He takes it because refusing would be another kind of
-performance.
-
-"You're not fine," she says—not asking. "You don't have to be fine to walk
-through the next door."
-
-She does not touch his shoulder. She waits beside the rail until Suresh throttles
-up—just the space to feel what he is feeling without naming it for him.
-
-Suresh keeps his eyes on the channel markers. "Don't burn the thread on a health
-stop."
-
-Pelangi Reach shrinks behind the marina wall. Wren stands beside Eli at the rail
-and says, quietly, "There's still an arch ahead. At each door, please follow my
+"There's still an arch ahead," she says. "At each door, please follow my
 lead."
 
 ---
 
 ## Chapter Two—His Hand
 
-**Saturday, last light on the strait**—Pelangi already behind them, Babaji's hotel a red smear sinking into the wake. Suresh noses the hull south toward the Johor channel, and the open water under them changes character: bright Pelangi chop left behind, the channel darker, busier, the far shore a black line where one country ends and another begins. The checkpoints begin before Singapore is a skyline, and they do not stop when the skyline arrives. Wren does not stop either—not until the city is under their feet.
+The checkpoints start before Singapore is a skyline, and they do not stop when the skyline arrives.
 
 Suresh throttles down at the Johor shallows where a quarantine line strings the channel—floats, a screening pier, a grey cutter idling with its number painted out. A processing tender works the boat ahead: a ferry running half-full, passengers filed one by one through an arch, slow, each made to pause on a painted mark.
 
@@ -434,7 +394,7 @@ The arch is smaller than dread made it and worse: one person at a time on the pa
 
 Eli steps onto the mark, and Wren stays behind the line—whatever she knows, she can't hand it to him here, one body at a time is the whole point of the arch. The gantry leans in. His palms prickle once and then hard, the wrong way, toward the machine, the young man's fate reaching across the pen for him. He has no method yet, only his mother's: two fingers below the collarbone, one breath out through the teeth. *Stand behind the hands.* It is not enough and it is all he owns. He puts his attention on cable runs, on crimps that hold, on nothing that lights, and holds it there while the gantry decides whether he is a thing it recognizes.
 
-The light holds on his face a beat too long. Somewhere behind the gantry a screen updates—he can see it in the corner of his eye, a photograph pulled and discarded too quickly for anyone but him to notice. The clerk on the far side of the arch stops writing, looks up, meets his eyes, and looks away again before the gantry has finished. Not suspicion. Recognition. The kind that knows it is not allowed to speak.
+The light holds on his face long enough for him to notice it. Somewhere behind the gantry a screen updates—he can see it in the corner of his eye, a photograph pulled and discarded too quickly for anyone but him to notice. The clerk on the far side of the arch stops writing, looks up, meets his eyes, and looks away again before the gantry has finished. Not suspicion. Recognition. The kind that knows it is not allowed to speak.
 
 The gantry hesitates. Then hums, and passes him, for reasons that are not skill—he will know that later—but that were, this once, at least partly his.
 
@@ -460,13 +420,13 @@ After that Singapore arrives as a maze that pretends to be a city.
 
 Leave one zone. Stand in the middle with no horizon. Enter the next. The air changes temperature without a door you can name. Wren's bag is the only true north he has. The call sheet is the only true south: every gate asks for it again, palm and face, again, as though the first fourteen times were only practice.
 
-At the causeway hall—marble the color of cold milk, ceiling lights that flatter faces and cameras equally, soft music with no tune that makes panic feel impolite—a man in a demobilization coat lays a pump-repair certificate under the glass. The clerk turns a small sign toward him: **UNSPONSORED MALE / LOWER CONCOURSE**.
+At the causeway hall—marble the color of cold milk, cameras and lights flattering every face equally—a clerk turns a small sign toward a man in a demobilization coat: **UNSPONSORED MALE / LOWER CONCOURSE**.
 
-"Extra," a woman behind Eli says, pulling her daughter closer.
+"Extra," a woman behind Eli says, and pulls her daughter closer.
 
-The man hears. His shoulders rise, then settle. He picks up the certificate before security has a reason to pick it up for him and walks toward the down escalator. He has threatened no one. Two officers watch him as if the threat is merely late. The sign is new plastic over an older appetite: a place to put men the city no longer knows how to seat—valid skill, no receiving household, standing vacated and then refilled as danger. Eli does not have a name for that history. He only has the escalator going down.
+The man goes without arguing, unhurried, the way a man walks when hurrying is the thing that gets noticed. Eli files the word next to *worker lane* and *cohort review*—one more shape this system keeps for a body it doesn't want to look at twice.
 
-On a brushed-steel pillar by the document lanes, a notice restricts small-craft transfer of medical goods pending review—printed clean, Mandate fonts. Below it, in contractor chalk, someone has written three words in English—*I alone don't know*—no date, no name, already half-scrubbed by a wet rag. The man queuing in front of Eli reads the notice twice and says, to no one, that the same office ran the insulin boats through the worst of the closures. Nobody answers him. The queue moves.
+On a brushed-steel pillar by the document lanes, a notice restricts small-craft transfer of medical goods pending review—Mandate fonts, printed clean. Below it, in contractor chalk, half-scrubbed by a wet rag: *I alone don't know.* No date. No name. The queue moves before he can ask it anything back.
 
 The queue noise layers—boots, readers, a child crying two lanes over—and something in him wants to bolt or fight or both. Wren shifts half a step closer without touching.
 
@@ -482,10 +442,8 @@ He should keep walking. He steps closer instead. That register has already chang
 
 "—Malacca chandlery, I said **once**—Hassan holds or we burn the harbor thread—"
 
-"—the packet already touched Coalition water. Stack copies are not the only copies—"
-
-"—English woman on the file—the claimed physicist's intake frame, not on the
-loudspeakers, you fool—"
+A second voice, sharper: "—English woman on the file—the claimed physicist's
+intake frame, not on the loudspeakers, you fool—"
 
 The phrase stops his blood. **English woman. Claimed physicist.** Since last night
 he has names for both shapes—Maren, Rasel—and passports that split them
@@ -511,9 +469,13 @@ cannot tell which phrase belongs to which person. By the time he is in the
 document lane, he is reconstructing the overhear from half-heard fragments and
 his own hunger. Wren watches him do it and says nothing.
 
-"This is Singapore." Soft, final. "Past this desk I can't walk beside you." A beat—not hostess, not operator. "**I'm sorry.** I would if it were only paperwork."
+His hands have found the strap of his tool roll without asking his
+permission, gripping it the way they gripped the rope that morning. He does
+not let go until they are three lanes clear of the door.
 
-Another beat, the hostess returning. "**Continue Inn**, arcade tier. Your voucher is on the contractor bundle. Rest tonight." Another beat. "Cherry Lane at first light **Sunday**. Ask for the shaft under Cherry Lane—if your father's register is still there, use it." She is gone before he can answer.
+"This is Singapore." Soft, final. "Past this desk I can't walk beside you." Her face changes—not hostess now, not operator. "I'm sorry. I would if it were only paperwork."
+
+She turns. When she comes back her tone is all business. "Continue Inn, arcade tier. Your voucher is on the contractor bundle. Rest tonight." She pauses, then adds the second instruction: "Cherry Lane at first light Sunday. Ask for the shaft under Cherry Lane—if your father's register is still there, use it." She is gone before he can answer.
 
 ---
 
@@ -553,7 +515,7 @@ Her voice changes register—still the same woman, but the form drops away and t
 
 Resemblance. He hears it as **Rasel's** face on him—Mandate labs already owning the equations, already owning the name. A claimed physicist's son walking into Singapore with a worker slip. Loose ends. Of course they flagged him. The story fits so well he does not look for a second face wearing the first. He understands the clerk one beat before he lets himself understand her.
 
-He works the wage ticket from his pocket. A year of Fridays. **Rasel Khan** on the laminate—Babaji's kindness beside it—the one paper that says he was somewhere, legally, doing something, wanted at a rail by people who knew his face. She reads it aloud anyway, syllables careful, a name she has clearly not had to say before.
+He works the wage ticket from his pocket—the Foundry laminate Babaji has renewed every year since the vans, because a dead man's file needed a working man's file standing behind it. A year of Fridays paid out to **Rasel Khan**, though every hand at the rail that counted coins into his palm knew exactly whose palm it was. It is the only paper left in his life that still says his father is somewhere, doing something, expected. She reads the name aloud anyway, syllables careful, a name she has clearly not had to say before.
 
 "Rasel," he says, quiet.
 
@@ -563,7 +525,7 @@ She does not look up. She knows.
 
 "It's already spent," he says, which is not the same as it not hurting.
 
-The ticket goes into another man's file and his own file exhales and shuts. She stamps and hands him a discharge slip marked **contractor lodging**. "**Continue Inn**, arcade tier. Cherry Lane at first light **Sunday**. Not tonight."
+The ticket disappears into the clerk's ledger, and his own file exhales and shuts. She stamps and hands him a discharge slip marked **contractor lodging**. "**Continue Inn**, arcade tier. Cherry Lane at first light **Sunday**. Not tonight."
 
 ---
 
@@ -1050,7 +1012,7 @@ They eat at dusk: rice and dried fish. Nothing, except that the platform keeper 
 
 Then, over the empty bowls, the courier lays out the trap in four sentences, which is all of it she'll spend.
 
-"The net was set in Malacca—mark whoever came asking after the English woman on the file. The van was on the river before you lit up." She stacks the bowls. "The ones who ran you down call themselves Custodians—biosecurity paper, somebody else's leash. Same leash as the brain scanner on Babaji's mezzanine, different badge. Learn the name; you'll be seeing the vehicles." A beat. "They set a net for a family and caught a lighthouse. Now every team in the strait knows the lighthouse exists."
+"The net was set in Malacca—mark whoever came asking after the English woman on the file. The van was on the river before you lit up." She stacks the bowls. "The ones who ran you down call themselves Custodians—biosecurity paper, somebody else's leash. Same leash as the brain scanner on Babaji's mezzanine, different badge. Learn the name; you'll be seeing the vehicles." She hesitates, then says the rest softer: "They set a net for a family and caught a lighthouse. Now every team in the strait knows the lighthouse exists."
 
 "And the man," Eli says. "Hassan."
 
@@ -1085,7 +1047,7 @@ The courier looks at Eli for a while. Whatever arithmetic she runs, she runs it 
 "You're—" He stops. Babaji's Wren. Checkpoint Wren. The hand at his elbow, the
 same voice asking him to follow. One woman moving through different jobs.
 
-"Yes." A beat. "You were going to work it out eventually. Better now, on a boat, than mid-sentence somewhere it costs us both. You're going to be shouting a name at some point. It may as well be the right one."
+"Yes." He looks away, then back. "You were going to work it out eventually. Better now, on a boat, than mid-sentence somewhere it costs us both. You're going to be shouting a name at some point. It may as well be the right one."
 
 ---
 
@@ -1336,7 +1298,7 @@ Eli stays four more days because Wren's contact said *wait here*. Because the bo
 
 On the second evening Wren comes back from the channel town with diesel and a face that has already spent the news.
 
-"Ros closed the drying racks," she says, without preface. "Not her choice. White cars asked who signed the last three northbound placements. She burned her own book before they finished the question." A beat. "That stop was on the spine I told you on Pak Din's boat. Named people. Named risk."
+"Ros closed the drying racks," she says, without preface. "Not her choice. White cars asked who signed the last three northbound placements. She burned her own book before they finished the question." She lets that sit before she adds: "That stop was on the spine I told you on Pak Din's boat. Named people. Named risk."
 
 Eli's stomach drops the way it dropped when Babaji's offices went red behind the marina wall. "Because of me."
 

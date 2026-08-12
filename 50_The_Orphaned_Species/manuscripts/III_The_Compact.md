@@ -6491,7 +6491,7 @@ She takes his hand.
 
 Nothing in the gesture changes the sanction.
 
-He holds on a beat too long, already turning it into more than she offered.
+He holds on longer than he meant, already turning it into more than she offered.
 
 "Thank you," he says. "For forgiving me."
 
@@ -6782,7 +6782,7 @@ Then, not looking up: "Rowan checked your hand."
 
 "She did."
 
-"Good." A beat, pen still moving. "That's all I'm saying about it."
+"Good." His pen moves on the page. He does not look up. "That's all I'm saying about it."
 
 "That was already more than nothing."
 
