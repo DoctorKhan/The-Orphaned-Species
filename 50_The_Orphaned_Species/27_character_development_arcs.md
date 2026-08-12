@@ -213,7 +213,7 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 **Vol II**
 - European pursuit: past carriers **disagree**; stops seeking one authority.
 - **Delphi (Ch 4):** Laurel Cube / Delphic Games contact under keeper consent → **giant face vision** with white somatic markings; wisdom register without Book III cosmology dump.
-- **Rootbook leaps:** cognate + site + measurement linked before full proof; **Sanxingdui break** — forced connection fails, larger pattern survives (`52`).
+- **Maren's field notebook leaps:** cognate + site + measurement linked before full proof; **Sanxingdui break** — forced connection fails, larger pattern survives (`52`).
 - Mother-reveal: Maren is alive, held, and wired in — kept working by a reunion the Charkha keeps almost-happening; her love and complicity coexist.
 - Reunion: Eli and Maren receive real lucid time together and both want more.
 - Climax: releases Maren and the innocent account of her; refuses amplifier ownership; seeds a sparse awakening.

@@ -2,7 +2,7 @@
 
 **Status:** Locked  
 **Date:** 2026-08-06  
-**Distinct from:** Rootbook (parallel linguistic instrument, separate artifact)
+**Distinct from:** Maren's field notebook (parallel linguistic instrument, separate artifact)
 
 ## Core Identity
 
@@ -21,13 +21,13 @@ He is outside the wheel-tradition's genealogy. The Charkha encodes a conquering 
 
 After chariot ceased to be a military monopoly, wheel-knowledge became guarded craft — guild, lodge, or encoded word-lineage. The spinning-wheel image (Gandhi's charkha) inverts the instrument of conquest into an instrument of independence. The Charkha operates in that inheritance.
 
-## Relationship to Rootbook
+## Relationship to Maren's field notebook
 
-The Rootbook is Maren's encoded journal — bounded sections unlocked by witnesses.  
+The Maren's field notebook is Maren's encoded journal — bounded sections unlocked by witnesses.  
 The Charkha is a separate institution tied to the same wheel/etymology tradition. Both are linguistic decoding instruments; they run parallel tracks, not the same track.
 
 ## Guardrails
 
-- The Charkha is not the Rootbook.
+- The Charkha is not Maren's field notebook.
 - It is not a sixth cosmological artifact.
 - It is an interpretive matrix — organizational and material — rooted in chariot/wheel cultural memory.

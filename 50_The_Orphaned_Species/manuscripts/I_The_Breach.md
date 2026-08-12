@@ -26,7 +26,7 @@
 > **Craft revision pass — 2026-07-29 (Book I gaps closed):** Ch 11 Laos-closed → Vietnam monsoon/UXO shelf → Sora gate; thin Ch 6/8/9/10/12 lived expansions; Ch 12 Qiao four-hour access clock; Mei terrace residue confirmed on-page.
 > **Craft revision pass — 2026-07-29 (flora / living route):** Named tropical plants as place-engine (Pelangi garden/marina; coastal chempaka/mangrove/casuarina; Thailand valley margins; Cube sealed orchard vs volunteer trees; Sanxingdui greenhouse basil/chili echo). Craft lock: `14` § *Flora as place-engine*.
 > **Craft revision pass — 2026-07-29 (pressure / literary):** Thailand Ch 5–10 dual-clock bills (Ros racks closed; shrine photo deadline; stay-for-polarity cost→next; health-fax claim window); Ch 7 leave/Ch 8 continuity fixed; soft-lie and coach-label cuts (Fear line, wat curriculum tags, band/miracle tag, Singapore cylinder tag).
-> **Rootbook and parent-trail revision — 2026-08-11:** Eli remembers his childhood flight as a family holiday that ended when his parents left him at Mei's for what they said would be one night. Mei knows only that they failed to return and that Babaji filed them as dead to close the search around Eli. The Singapore/Malacca scan proves Maren's journal existed, and Rasel's intake image proves historical survival. The Thai cooperative holds the physical *Shabdajal*, reveals it after the evacuation, and grants bounded custody. Its four-day-old maintenance handshake is the first current evidence that Rasel lives.
+> **Maren's field notebook and parent-trail revision — 2026-08-11:** Eli remembers his childhood flight as a family holiday that ended when his parents left him at Mei's for what they said would be one night. Mei knows only that they failed to return and that Babaji filed them as dead to close the search around Eli. The Singapore/Malacca scan proves Maren's journal existed, and Rasel's intake image proves historical survival. The Thai cooperative holds the physical *Shabdajal*, reveals it after the evacuation, and grants bounded custody. Its four-day-old maintenance handshake is the first current evidence that Rasel lives.
 > **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1–3 seeded per `17` § *Deep-time residue density* — garden as living craft vs Foundry cables; missing-cohort play court; Mei's Singapore/baby Cube grief-seed; Extra lane as vacated standing; Three Circles wrong-first middle-ring read; kelong ask-the-water practice + basil rhyme. Ancient face = living plants → Sanxingdui.
 > **Craft revision pass — 2026-07-30 (residue density continued):** Ch 5 coffee mountain *not for sale*; Ch 7 dead-ground wrong-reading catch; Ch 11 border form as claiming fossil; Ch 12 missing-top hunger refused; Ch 13 mismatched cadences over master rhythm. Beatsheet residue lines Ch 6–13: `31`.
 > **Craft revision pass — 2026-07-27:** Wren pre-door choice groundwork; Maren classifier / Rasel coupling seeded (Ch 3); Ch 1–2 memory density trim; Ch 13 ending space + Wren pre-door choice; Ch 5/11 thinned; thesis-repetition cuts; civilian-cost callbacks; irreversible polarity-week loss; Ch 6 consent turn into Ch 7; Ch 12 perception-before-mesh; dangling clue quieting.
@@ -1866,14 +1866,14 @@ means before you ask us."
 
 She lets him touch the cover. She does not let go of it.
 
-In his head, privately and too quickly, Eli calls it the Rootbook. He takes out
+In his head, privately and too quickly, Eli calls it Maren's field notebook. He takes out
 the damaged wafer and matches its broken margins to the physical pages. Malai
 watches every movement. The book remains on her side of the table.
 
 "You may carry it north under our seal," she says. "Our pages remain ours. You
 bring back every correction made after today."
 
-Eli rotates Kitt's drawing beside the open Rootbook.
+Eli rotates Kitt's drawing beside the open Maren's field notebook.
 
 Nine terminals. Three levels. A trunk that is not a trunk because it divides in both directions.
 
@@ -1910,7 +1910,7 @@ Malai writes across the bottom in red: *Our observations. Copy permitted. Soil
 samples numbered and released by the cooperative.* She signs it, makes Wren sign
 the receiving line, and hands it to Kitt to copy again.
 
-Then she closes the Rootbook, wraps it in the same rice sacking, and threads the
+Then she closes Maren's field notebook, wraps it in the same rice sacking, and threads the
 cooperative's numbered brass water seal through the knot. She gives the parcel to Wren.
 Eli's hands are still flat on the table.
 
@@ -2476,11 +2476,11 @@ Eli looks at the three names. None of them is Rasel. None of them can be elimina
 
 "Show me the ring," he says.
 
-Wren opens Hassan's image. The band is turned just enough that the inscription does not read. Luo calls up the Mandate intake photograph; it shows the same scar at the thumb, the same angle, the same hidden inscription. The conservator's supplementary log has a partial palm print—only the base of the palm and the scar line, not enough for a biometric match. Maren's Rootbook index entry is embedded in a comparative field journal, not flagged as personal identification; Wren extracts it with the same archival skill she used at the intake desk, reading the paper structure rather than the content.
+Wren opens Hassan's image. The band is turned just enough that the inscription does not read. Luo calls up the Mandate intake photograph; it shows the same scar at the thumb, the same angle, the same hidden inscription. The conservator's supplementary log has a partial palm print—only the base of the palm and the scar line, not enough for a biometric match. Maren's field notebook index entry is embedded in a comparative field journal, not flagged as personal identification; Wren extracts it with the same archival skill she used at the intake desk, reading the paper structure rather than the content.
 
 The three strands do not converge on any of the three staff matches until Wren cross-checks the ring's alloy composition against a sample Suresh kept from the Pelangi workshop—raspel brass, coastal copper, a trace of tin from a batch Rasel mixed himself. The plant's ring is pure silicon carbide, Mandate issue, no Pelangi signature. The other two staff members have no ring at all.
 
-Only one staff member matches all three strands: the alloy, the biometric fragment, and the Rootbook index entry decoded against Maren's comparative field journal.
+Only one staff member matches all three strands: the alloy, the biometric fragment, and Maren's field notebook index entry decoded against Maren's comparative field journal.
 
 He is using a different name in the conservation records. He is in the annex tonight.
 
@@ -2527,7 +2527,7 @@ She lays Kitt's pencil map beside the conservation model. The resemblance surviv
 
 It is enough to destroy the theory Eli brought into the room.
 
-Maren's Rootbook is not a root system underlying every culture. It is one branch describing how she learned to look.
+Maren's field notebook is not a root system underlying every culture. It is one branch describing how she learned to look.
 
 Eli puts both palms flat on the table and feels again what the floor offered: not a trunk under the bronze, not a center asking to be occupied—pressure answering pressure late, the way the Thai rice answered itself, the way nine traces refuse to become one. The word arrives last, after the body has already corrected him.
 

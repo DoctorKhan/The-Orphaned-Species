@@ -101,9 +101,9 @@
 
 |---
 |
-|## 7. ☐ Rootbook word-web — locked architecture not yet drafted into prose
+|## 7. ☐ Maren's field notebook word-web — locked architecture not yet drafted into prose
 |
-|**Problem.** The comparative cipher, reader apprenticeship track, and philological beats are fully locked in `52_the_rootbook_word_web.md`, but most have no manuscript coverage. The series' epistemological spine is therefore invisible to readers until prose lands it.
+|**Problem.** The comparative cipher, reader apprenticeship track, and philological beats are fully locked in `52_maren_holts_field_notebook.md`, but most have no manuscript coverage. The series' epistemological spine is therefore invisible to readers until prose lands it.
 |
 |**Why it matters.** The word-web is what makes the series a single decoding project rather than a quest with a journal McGuffin. If it stays craft-doc-only, the reader never gets the parallel apprenticeship Eli is doing, and the linguistic payoff lands as exposition instead of discovery.
 |
@@ -120,7 +120,7 @@
 |
 |**Status.** Architecture locked; prose pass not started.
 |
-|**Related:** `52_the_rootbook_word_web.md`; `charkha-craft-lock.md`; `17_reveal_order_and_reader_impact.md` § *Expertise fantasy*.
+|**Related:** `52_maren_holts_field_notebook.md`; `charkha-craft-lock.md`; `17_reveal_order_and_reader_impact.md` § *Expertise fantasy*.
 |
 |---
 |

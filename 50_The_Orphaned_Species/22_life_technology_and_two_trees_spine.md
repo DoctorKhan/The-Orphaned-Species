@@ -258,7 +258,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 - Three Circles vision as first **test**, not doctrine; the physical Tablet may enter later if the open archive placement earns it;
 - the Charkha's grid: signature measurable, meaning withheld;
-- the Rootbook's name and foot/step correspondences as bounded, correctable research rather than maternal revelation;
+- Maren's field notebook's name and foot/step correspondences as bounded, correctable research rather than maternal revelation;
 - registry/psion war as **Knowledge-only** control surface;
 - Mesopotamian records and Göbekli measurements produce a partial selection/control hypothesis, not the family or civilization synthesis.
 
@@ -279,7 +279,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 - mother-reveal: alive, held west, wired into the ground — **official knowledge (the death on the file) false, and deliberately so**;
 - registries, prophecy, courtly intrigue as role-assignment;
-- Rootbook knowing/kinship branches, including a wrong key and a living correction;
+- Maren's field notebook knowing/kinship branches, including a wrong key and a living correction;
 - the wider stone-circle network distinguishes conductor, interface, and transmission without making Albion a machine-only answer;
 - Wren/Eli conflict = care vs control (Knowledge used to manage Life);
 - the Albion release joins measured geometry and accountable records to living connection once, temporarily and collectively.

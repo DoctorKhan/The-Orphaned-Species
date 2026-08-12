@@ -1127,7 +1127,7 @@ At dusk, Nadiya Haddad sends the Unplaceable.
 
 Not the original tablet or even an image of one. A six-page argument she has
 assembled from translations of the Enki and Ninmah story, disagreements among
-scholars, modern disability readings, and marginal notes in Maren's Rootbook.
+scholars, modern disability readings, and marginal notes in Maren's field notebook.
 
 The old account has an answer for every damaged body.
 
@@ -6792,7 +6792,7 @@ Then, not looking up: "Rowan checked your hand."
 
 Rowan finds him in the west service corridor an hour later, packing the last of what was his.
 
-There isn't much. A tool case. A change of clothes. The damaged Rootbook page he keeps meaning to return to Maren's other pages and never does.
+There isn't much. A tool case. A change of clothes. The damaged Maren's field notebook page he keeps meaning to return to Maren's other pages and never does.
 
 "You'll still be here tomorrow," she says. Not a question.
 

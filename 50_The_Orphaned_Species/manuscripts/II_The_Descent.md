@@ -20,7 +20,7 @@
 >
 > **Location contraction — LOCKED 2026-08-01; Ch 8 Anglesey cut 2026-08-10:** ~6–7 body-arrivals; church ⊂ Ch 6 Pömmelte; Ch 7 Rollright+Men-an-Tol one corridor; Ch 8 Rollright→Stonehenge corridor transit, no separate island geography; Ch 9–10 Stonehenge→Avebury one climax run. Every stop: chase next-door + relationship cost (`32`, `61`).
 >
-> **Delivery package — LOCKED 2026-08-01; Rasel revised 2026-08-11:** mother Clock A every chapter + dual-clock delivery cards Ch 1–10; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Antika/Anika/Custodian pressure carries instrument function); Sol @ Extra settlement; Ch 8 one-way Maren contact only; term budget; antagonist face-per-stretch; gap-fillers wired — hearth/*flow* Ch 6, Maren moral wound, Somchai depth-scan Ch 4, Sora, Parade drip, Rootbook living correction, Somchai hard no late Ch 9 (`32` § *Book II delivery package*; `58` § *Book II relocation*).
+> **Delivery package — LOCKED 2026-08-01; Rasel revised 2026-08-11:** mother Clock A every chapter + dual-clock delivery cards Ch 1–10; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Antika/Anika/Custodian pressure carries instrument function); Sol @ Extra settlement; Ch 8 one-way Maren contact only; term budget; antagonist face-per-stretch; gap-fillers wired — hearth/*flow* Ch 6, Maren moral wound, Somchai depth-scan Ch 4, Sora, Parade drip, Maren's field notebook living correction, Somchai hard no late Ch 9 (`32` § *Book II delivery package*; `58` § *Book II relocation*).
 >
 > **Psionics / belonging draft lock — 2026-08-01:** This is primarily the book in which psionic difference becomes visible and frightening. Eli's question beneath the mother-search is where he can belong and whom he can trust when neither he nor others can reliably distinguish perception, projection, coercion, illness, fraud, or revelation. Atomization stays embodied in isolation, rooms, procedure, family concealment, cult warmth, registry pressure, and lost shared reality; do not make characters lecture the total social diagnosis. Small practices—witness, consent, meals, song, attestation, kin, craft, exchange—help before they overreach. Book III, not this manuscript, scales them into a polity.
 >
@@ -3420,7 +3420,7 @@ An administrative room sits beyond it. On one table is a black data case. On
 another, under transparent evidence film, lies a small cloth packet Eli
 recognizes.
 
-Maren's Rootbook fragment.
+Maren's field notebook fragment.
 
 Wren carried it from Malacca to Sanxingdui. It was in her pack at Göbekli.
 
@@ -3476,7 +3476,7 @@ Now.
 
 "Open it."
 
-"Return the Rootbook key and Sora. The file releases to your father. Mr. Hassan
+"Return Maren's field notebook key and Sora. The file releases to your father. Mr. Hassan
 continues under witnessed protection."
 
 Hassan laughs inside the pen.
@@ -4567,7 +4567,7 @@ Marta looks at him. "Or an office reused a mark from an excavation."
 Eli notices the answer. Before captivity Hassan might have defended the useful
 inference. Now he permits a second explanation to stand.
 
-The Rootbook's kin branch supplies another correspondence. A line of names held
+The Maren's field notebook's kin branch supplies another correspondence. A line of names held
 through mothers rather than fathers, changing sound across languages without
 changing the relation being tracked.
 
@@ -4584,7 +4584,7 @@ refused each other. Continuity of surveillance is not continuity of kin."
 Anke confirms the isotope mismatch with the calm of someone who has waited to
 say it to a visitor carrying a treasured book.
 
-Eli feels the correction land. Maren's Rootbook is relationship and unfinished
+Eli feels the correction land. Maren's field notebook is relationship and unfinished
 evidence, not a GPS. A living community has just defeated one of her readings
 before Avebury can pretend the journal knows the way home.
 
@@ -6472,6 +6472,32 @@ Anika stands beyond the eastern barrier with Tommy Reyes and the scout. Her fiel
 team wears no theatrical armor. Gray weather gear, medical cases, lawful
 notices. The instruments behind them are the threat.
 
+Tommy checks the lance rig’s voltage readout twice, as if the number might have
+changed between checks. The scout checks nothing. He stands with his weight
+shifted onto one leg, the way a man waits for a bus, and watches the service
+door as though he has been asked to watch a door. He does not look at the
+stones. He does not look at the protest camp. He looks at the door.
+
+Anika speaks to the local stewardship representative about clearance forms. The
+scout listens without leaning. When the representative offers a printed log, the
+scout takes it, opens it to the back page, writes three times in a column nobody
+else is reading, and hands it back. He does not explain what he wrote. The
+representative accepts it as explanation.
+
+Tommy says, quiet enough that only Anika hears: "What did he just do?"
+
+Anika does not look toward the scout. "Route clearance."
+
+"How?"
+
+"Doesn't matter."
+
+The scout’s behavior reads two ways and neither of them is villainy. The
+defensible reading is competent, tired, following orders. The villain reading is
+worse: he is not here to decide anything. He is here to close what he is told
+to close. Eli watches him for thirty seconds and cannot tell which reading he
+prefers.
+
 Sol enters from the western verge among people carrying food, blankets, and red
 scarves. Some are armed. Most are not. The crowd trusts him because his people
 have been feeding those the official systems refuse.
@@ -6776,7 +6802,14 @@ He does not enter.
 "Mum," he says. "If this is you, ask."
 
 Anika's array drives a lock through the eastern route. Sora drops to one
-knee.
+knee. The scout steps past her without breaking stride, reaches the eastern
+post, and stamps the clearance form he has been carrying since the service yard.
+The stamp reads: GROUND CLOSED. He places the form under a stone, weighted side
+down, and returns to watching the door.
+
+Eli sees the stamp and thinks procedure. It is procedure — and it is also the
+moment the corridor closes. The scout has been carrying the authority to do that
+since before the rain stopped. He did not need a weapon. He needed a form.
 
 Sol's cadence presses from the west, offering strength without uncertainty.
 

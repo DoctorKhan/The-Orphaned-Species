@@ -8,7 +8,7 @@
 >
 > **Governing rule:** This document sits beside `14_literary_speculative_thriller_style_guide.md` and `17_reveal_order_and_reader_impact.md`. Every volume outline, chapter beat, scene draft, and revision pass must satisfy **both** the human/emotional spine **and** the clue-chain / conspiracy-thriller contract defined here. If a scene is thematically true but does not move the body, advance a clue, or exact a domestic cost, it fails the pitch test.
 
-**Navigation:** craft checklist also in `17` § *Genre comps and clue-chain craft*; emotional reveal order in `17` § *What readers should feel*; plot spine in `05` §1 and `29`; artifact engine in `35`; Rootbook in `52`.
+**Navigation:** craft checklist also in `17` § *Genre comps and clue-chain craft*; emotional reveal order in `17` § *What readers should feel*; plot spine in `05` §1 and `29`; artifact engine in `35`; Maren's field notebook in `52`.
 
 ---
 
@@ -200,7 +200,7 @@ Awakening spreads through threshold houses, river cooperatives, and open grounds
 |--|---------------------------|----------------------------|---------------|
 | **Engine** | Clue → place → revelation → next clue | Same, lighter | Same + **contested** evidence |
 | **Hidden thing** | Secret **truth** (history lied) | Secret **object** (treasure hidden) | Secret **pattern** (function recurs) |
-| **Expertise fantasy** | Reader learns symbology **with** Langdon | Reader learns history **with** Ben | Reader learns Rootbook / registry **with** Eli |
+| **Expertise fantasy** | Reader learns symbology **with** Langdon | Reader learns history **with** Ben | Reader learns Maren's field notebook / registry **with** Eli |
 | **Antagonist** | Shadow institution | Guards + greed | Charkha / Custodians / blocs |
 | **Depth** | Centuries | One founding generation | **Millennia** (assembled, not drawn) |
 | **Ending** | Single revelation | Treasure recovered | **Maren freed; grid unowned** |
@@ -236,7 +236,7 @@ Pelangi Reach → Malacca → Thailand → **Sanxingdui / Rasel** → Egypt brie
 or packet *(not a chapter)* → Mesopotamia / Göbekli → holding / Hassan →
 **Pömmelte (+ church rhyme)** → **Rollright/Men-an-Tol one corridor** →
 **Anglesey threshold** → **Stonehenge→Avebury climax run** / Maren →
-distributed network (Vol III). Artifacts: ring, Rootbook, conservation records,
+distributed network (Vol III). Artifacts: ring, Maren's field notebook, conservation records,
 plaquettes, cohort lists, registry marks. **Location contraction — LOCKED
 2026-08-01:** ~6–7 body-arrivals; contract travel, not jobs (`32`, `61`).
 
@@ -267,7 +267,7 @@ Use at **outline**, **first draft**, and **revision**. A chapter that fails thre
 19. **Public-door / visual-identity check — REVISED AND LOCKED 2026-08-01.** Pitch copy gives the stranger's first causal memory to **Rasel's two-metal wedding ring (*same soil*)**. The recurring visual system remains the **Sanxingdui Bronze Tree** (`35` § *Series icon*); no rule requires a ring on every cover. Volume emblems may vary without entering the one-sentence hook (`55` § *Five delivery upgrades*).
 20. **Book I complete meal — LOCKED 2026-07-31; OUTCOME REVISED 2026-08-11.** Ch 11–13 must read as a finished thriller (chase, landmark wonder, father reached and refused, irreversible costs) that also opens the series — not as setup that withholds satisfaction until Book II (`55` § *Five delivery upgrades*; `58`).
 21. **Climax staging — epic enough — LOCKED 2026-08-01.** Every volume ends climax + hunger. II: assault concurrent with release. III: war-window concurrent with handover (birds = coda). IV: labor/heir/vote simultaneity. `17` § *Climax staging*; `55` §6.
-22. **Book II delivery package — LOCKED 2026-08-01.** Mother Clock A every chapter; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Anika/Custodian pressure carries instrument function); Sol @ Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers (chase grammar, people spine, hearth/*flow* Ch 6, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Rootbook correction, Somchai hard no late Ch 9). `32` § *Book II delivery package*; `55` Book II dual-clock map.
+22. **Book II delivery package — LOCKED 2026-08-01.** Mother Clock A every chapter; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Anika/Custodian pressure carries instrument function); Sol @ Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers (chase grammar, people spine, hearth/*flow* Ch 6, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Maren's field notebook correction, Somchai hard no late Ch 9). `32` § *Book II delivery package*; `55` Book II dual-clock map.
 23. **Three-Term scene check — LOCKED 2026-08-05.** Every chapter must answer four questions: what cultural program operates? what family/individual program operates? what pressure exceeds the program's vocabulary? what practice emerges—or fails to emerge—in the gap? A chapter that cannot name all four elements needs rework before it is "done." `00_THREE_TERM_MODEL.md` § *Scene filter*. Applies to `31`, `32`, `33`, and `34`.
 
 ---
@@ -355,7 +355,7 @@ Every 1–2 chapters: at least one beat where the reader wants to **stay in the 
 | **Book III accent** | The Loop (Incomplete Twin Circles) | Earned after entry; never a first-pitch noun. |
 | **Book IV accent** | Court seal / empty chair / grown corridor | Institutional consequence, not first contact. |
 
-Do not let Circles, Loop, Tree, Rootbook, or Charkha compete equally in the
+Do not let Circles, Loop, Tree, Maren's field notebook, or Charkha compete equally in the
 one-sentence pitch. The ring wins the first **causal** memory; the tree carries
 the longer visual identity. Stable promise does not mean identical copy.
 
@@ -404,7 +404,7 @@ Use with the chapter audit table above. **Pass** = both clocks move; one antagon
 |----|------------------|------------------------------|--------------------------------|---------------------|
 | 1 | Holiday exposed as flight; parents missing after a promised one-night drop-off; no witnessed death | Mandate squeeze; Babaji raid; hearth suspended; Wren attests under watch | Cohort/registry sweep clears the island before Eli's Saturday departure | Because hearth is suspended and Babaji's offices are hit, Ch 2 **must** run Singapore under Wren's papers — no home fallback |
 | 2 | Ring on file (*same soil*); Hassan has the band | Circuit soft-hunt; Extra-lane; wage ticket spent; Wren peels off to protect house links | Sora/Custodian soft-hunt at Circuit; intake clerk processes Eli as loose end | Because Hassan takes the ring into the chase, Ch 3 opens with **ring + Hassan lost** and Salmah already exposed |
-| 3 | "I'm not going dark"; Rootbook *name* seed | Salmah's boat seized; platform hospitality burns heat onto local house | Custodians close quarantine tow / reclaim Hassan | Because Salmah and the platform are billed, Ch 4's passage must use **disclosed, bounded** help — no invisible extraction |
+| 3 | "I'm not going dark"; Maren's field notebook *name* seed | Salmah's boat seized; platform hospitality burns heat onto local house | Custodians close quarantine tow / reclaim Hassan | Because Salmah and the platform are billed, Ch 4's passage must use **disclosed, bounded** help — no invisible extraction |
 | 4 | North/ping valley trail toward mother-evidence | Wren discloses full route; civic links become visible freight | Inspection/gantry; Custodians a day behind | Because Wren named every stop, Ch 5's coast offer / bait arc can burn **those named people** if they linger |
 | 5 | Foot/step index → living field, not planted lead | Growers' silence cost; Custodians on water; coast escape refused | Custodians site the anomaly for quarantine claim | Because they refuse the clean coast exit, Ch 6 must enter the confluence **on the Custodian clock** |
 | 6 | Stone/Ila witness without ownership | Wren cools (3°); local keeper risk | Drones schedule the band | Because the stone names the west block, Ch 7's cooperative fight is **forced geography**, not optional side quest |
@@ -450,7 +450,7 @@ Same three rules. Clock A becomes **keep the rescued world from re-caging** (int
 | Governing story sentence | `05_story_architecture.md` §1 |
 | Chapter beats | `31` / `32` / `33` |
 | Artifacts | `35_artifact_chain.md` |
-| Rootbook / contested decode | `52_the_rootbook_word_web.md` |
+| Maren's field notebook / contested decode | `52_maren_holts_field_notebook.md` |
 | Adventure forms | `18_adventure_engine_and_scene_bank.md` |
 | Mass appeal / cultural guardrails | `44_cultural_moment_and_mass_appeal.md` |
 | Craft index | `28_present_day_trilogy_craft_index.md` |
@@ -476,7 +476,7 @@ Use with `manuscripts/I_The_Breach.md` revision passes. **Pass** = all ten check
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
 | 1 | Hour That Belongs to No One | Pelangi → strait | Race buoy; cohort list; brain scanner | Mei vs Eli; Babaji holdout | Holiday exposed as flight → departure | Clipboard, cohort, scanner | Wren attests; Mei feeds | Scanner ↔ later Custodians | Timah/fairway (micro) | Hearth suspended; garden; Shireen | Parents missed rendezvous; no witnessed death |
 | 2 | His Hand | Stack → Malacca | Rasel's wedding ring: *same soil*; Extra-lane sign | Clerk vs system; Hassan vs ring | Ring → chandlery same ch | Arch, file, lower concourse | Wren, clerk, unsponsored tradesman | Same door × cities | Cube Circuit | Wage ticket spent; presumed danger witnessed | Rasel alive on file → Malacca |
-| 3 | What Didn't Die | Platform → inland | Rootbook *name* index | Eli's leap vs provisional record | Wafer opens *name* | Custodians named; quarantine tow | Wren, platform keeper, Babaji note | Scanner rhyme explicit | — | Salmah boat; local hospitality exposed | Not going dark |
+| 3 | What Didn't Die | Platform → inland | Maren's field notebook *name* index | Eli's leap vs provisional record | Wafer opens *name* | Custodians named; quarantine tow | Wren, platform keeper, Babaji note | Scanner rhyme explicit | — | Salmah boat; local hospitality exposed | Not going dark |
 | 4 | The Passage | Depot → river | Signed placement; disclosed route | Bounded help vs ownership | Route consent seeds | Gantry; inspection; van | Wren/Pak Din/local houses | Registry trap shape | Bioluminescence (free) | Civic links exposed | Wren's duty not claim |
 | 5 | Field That Counts | Pai → wat → valley | Bulletins; bait arc | Eli/Wren test bait vs real anomaly | Foot/step index → field | Custodians on water | Khun Dang, abbot, growers | White cars watch | Wat arrival; stone prep Ch 6 | Silence cost; coast offer refused | Why mother left |
 | 6 | First Witness | Confluence stone | Shrine shelf; Ila's hands | Wren misreads; Eli can't explain | Stone → west block named | Drones schedule | Kitt logs; local keeper | — | Shrine breath before wire | Wren cold 3° | Learn without owning |
@@ -489,7 +489,7 @@ Use with `manuscripts/I_The_Breach.md` revision passes. **Pass** = all ten check
 | 13 | Living Route | Sanxingdui annex | Coupling cadence; receiving order | Master rhythm vs consenting mismatch | Rasel **refused** | Emergency gate; accreditation | Wren/Luo/Qiao/Rasel | Scanner becomes apparatus | Cadences before assault | Wren displaced; Qiao barred | Manual Override; father refused |
 
 **Vol I close:** Rasel **refused**; Hassan and Rasel's ring remain in the westward
-custody chain; Maren's Rootbook index opens; pattern conspiracy felt, apex not drawn.
+custody chain; Maren's field notebook index opens; pattern conspiracy felt, apex not drawn.
 
 ---
 
@@ -584,13 +584,13 @@ Use with `32_volume_II_beatsheet.md` when outlining or drafting. **Pass** = all 
 | 2 | Westward Transfer | Bosporus–Thrace/Balkan | Map fragment; medical-transfer van | Slow handoff vs shortcut; *Liaisons* trap | Hassan move → Ch 3 holding | Custodians + contractor cover | Wren dismantles honey-trap | Dead-zone sig → Pömmelte chain | Ferry/port human scale | Route burned for refugees | Hassan before jurisdiction swallows |
 | 3 | What They Took | Holding site + record | Rasel's ring; Maren's hidden index; damaged western chart | Person vs evidence; keeper song vs file | Midpoint: tether not address → Ch 7 | Charkha clipboards; courteous suppression | Hassan first-person; Sora leak (off-page) | Registry father-above vs hand-to-hand | — | Mother complicity; partial record lost | Find mother → **release** |
 | 4 | Healer's Kneel | Medical corridor (Somchai→Eli) | Triage table; declined crown | Healer vs pilgrims vs Sol mirror | Rumor outruns → Vol III | Media/faction recruiters | Somchai; Sol establishing pass | Gabriel annunciation after the hard no | — | Route narrows; stabilized liability | Stay a body among bodies |
-| 5 | Changing Map | Europe; Wren→Eli | Pömmelte shafts; pew geometry; Extra settlement | Rootbook kin wrong → corrected; person vs rejected status | Pömmelte mark → Ch 6 sound route | Holt/Khan clerk; **Albion rename**; dependency-transfer files | Rowan entrance; Extra missing man; Sol recruiters | Church drain; Charkha A/B scripts | Pömmelte horror awe before inference | Network route burned | Return person, not category |
+| 5 | Changing Map | Europe; Wren→Eli | Pömmelte shafts; pew geometry; Extra settlement | Maren's field notebook kin wrong → corrected; person vs rejected status | Pömmelte mark → Ch 6 sound route | Holt/Khan clerk; **Albion rename**; dependency-transfer files | Rowan entrance; Extra missing man; Sol recruiters | Church drain; Charkha A/B scripts | Pömmelte horror awe before inference | Network route burned | Return person, not category |
 || 6 | Riddling Node | Rollright → Delphi detour | Hawthorn bend; rowan branches; Delphic Games / Laurel Cube contact — giant face with white somatic markings, Eli sees older hands passing the same motions across generations then his own hands moving fast with the same cadence, a fellow incubant's wide-eyed stare breaks the trance, and afterward he begins to speak with his hands more often | Rowan *completed route ≠ returned person* vs Wren iron | Anthea/Lira → Stonehenge ground | Changeling record (dual truth) | Keeper fairy-doctor; Cuno edge | Alba/Albion/Sídhe dual register | Mound crossing breath before iron | Anthea killed; Lira carried song | Hold thread without owning |
 | 9–10 | Transmission Station / Release | Stonehenge station → Avebury | Cuno routing record; six bounded artifact-wisdoms; inhabited ring | Provenance vs one command; release not acquisition | **Vol II close** — awakening spreads | England ambush instrumented; Deiwos route | Wren/Rowan/Eli plural V denouement | Seizure strips names from routes | Stonehenge weather **before** ambush | Maren release; healer nearly conscripted | Reach endpoint; **free her** |
 
 ### Book II clue-chain spine (pitch-facing)
 
-Anatolia corridor → **Bosporus/Thrace transfer** → holding-site record (Ch 3) → Europe dead zones → **Pömmelte** → broken-line church → **Rollright/Men-an-Tol** → **Delphi / Delphic Games** → **Stonehenge transmission station** → **Avebury release**. Artifacts: map fragment, ring, Rootbook kin branch, registry marks, holed stone. Full beats: `32`; artifacts `35`; Rootbook `52`.
+Anatolia corridor → **Bosporus/Thrace transfer** → holding-site record (Ch 3) → Europe dead zones → **Pömmelte** → broken-line church → **Rollright/Men-an-Tol** → **Delphi / Delphic Games** → **Stonehenge transmission station** → **Avebury release**. Artifacts: map fragment, ring, Maren's field notebook kin branch, registry marks, holed stone. Full beats: `32`; artifacts `35`; Maren's field notebook `52`.
 
 ### Book II chapter-end hooks (drafting obligation)
 
@@ -629,7 +629,7 @@ Each chapter must close on a **next place + next question**, not a thesis:
 
 | Ch | Two clocks | Antagonist job | Cost → next | Chemistry | Notes |
 |----|------------|-----------------|-------------|-----------|-------|
-| 1 | Pass | Anika (assessment/custody) | Rootbook timing key released → cover blown, exile from the greenhouse | Qiao/Luo scallions; Sora's dryness | Strong open |
+| 1 | Pass | Anika (assessment/custody) | Maren's field notebook timing key released → cover blown, exile from the greenhouse | Qiao/Luo scallions; Sora's dryness | Strong open |
 | 2 | Pass | Anika (legal hold), Charkha courier trap | Access granted only as witnessed record → route now public to every faction | Nadiya/Rasel institutional friction | Adapa lacuna lands here |
 | 3 | Pass | Anika + consortium (Varga) | Gareth-precursor cost: hillside assault, ambiguous convoy prisoner | Nehir's dry refusals | Strong wonder-before-ambush |
 | 4 | Pass | Security intake bureaucracy (present-tense, off-page enforcement) | Somchai's exposure filmed → clinic can no longer hide | Pin/Somchai; Eli/Somchai reunion | — |
@@ -651,7 +651,7 @@ Ch 2 keeps Adapa / sensation; *melam*/*ni* held and named at Göbekli hill pulse
 Ch 7: Sol recruiter works ferry queue with sailing deadline. Ch 8: Custodian
 inquiry at Eleri's practice with tide deadline. Ch 8 Maren contact revised to
 **one-way only**. Delivery-package gap-fillers also landed in prose (depth-scan
-Ch 4; Imani Vale moral wound Ch 5→10; hearth/*flow*/Rootbook correction Ch 6;
+Ch 4; Imani Vale moral wound Ch 5→10; hearth/*flow*/Maren's field notebook correction Ch 6;
 Parade drip Ch 4; Somchai hard no Ch 9).
 
 ### What does not need fixing
@@ -685,11 +685,11 @@ Use with `33_volume_III_beatsheet.md` when outlining or drafting. **Pass** = all
 | 7 | Crown With an End | Hawaiʻi refuge | Communal armor; perimeter drone | Refuse base vs save corridor | Drone kills asker → hearing | Sol/Lang converge; Extras divide | Wren network; independent rescue men; local stewards | Male expendability on-page | Pele dream — ask before kneel | Harbor crew names; command horror | Coordinate without owning island |
 | 8 | Cost of Consent | Hawaiʻi + distant corridor | Armor removed; casualty lists | Coercion would save lives — refused anyway | **Climax cost** — named death, house lost | Triage language translated to bodies | Threshold house lost; disabled survivors | Amplifier logic refused | — | Beloved place + named man | Weaker defense chosen |
 | 9 | The Hearing | Hawaiʻi civic room | Public inquiry; cloister compact | Supporters vs enemies vs participant authorship | Ch 8 cost judged | Lifetime care; command eligibility; Extra status challenged | Amara; Extra men; Thread elders | Reciprocal circuit enforced | — | Eli restricted; participant veto | Be judged, not founder-king |
-| 10 | Shared Garden | Hopi → Colorado coda | Teahouse threshold; self-governed cloister; swifts | Rootbook margin corrections | Complex-time proof; ceasefire | Joint civilian program; standing without household | Wren/Rowan/Rasel/Ma; former Extras as governors | Birds rhyme — chosen ordinary morning | Talking stones unresolved | Mei ledger; departure without erasure | Wanted, not indispensable |
+| 10 | Shared Garden | Hopi → Colorado coda | Teahouse threshold; self-governed cloister; swifts | Maren's field notebook margin corrections | Complex-time proof; ceasefire | Joint civilian program; standing without household | Wren/Rowan/Rasel/Ma; former Extras as governors | Birds rhyme — chosen ordinary morning | Talking stones unresolved | Mei ledger; departure without erasure | Wanted, not indispensable |
 
 ### Book III clue-chain spine (pitch-facing)
 
-Albion → Brazilian river-port reception → **intake harm (Ch 3)** → transnational **Lang Standard** + remote Union fracture → **Wren boundary (Ch 5)** → Brazilian/interregional **bounded compact** → **Hawaiʻi refuge** → consent limit at corridor → **hearing/step-down** → **complex-time proof / ceasefire process** → handover incomplete under war pressure. Eagle–Condor remains contested cooperation language, not plot prophecy. Artifacts: Double-Fork Stone + dragon ghost (late); Rootbook Sanxingdui break; Devolution roster glimpse. Full beats: `33`; peace `51`; teahouse `50`.
+Albion → Brazilian river-port reception → **intake harm (Ch 3)** → transnational **Lang Standard** + remote Union fracture → **Wren boundary (Ch 5)** → Brazilian/interregional **bounded compact** → **Hawaiʻi refuge** → consent limit at corridor → **hearing/step-down** → **complex-time proof / ceasefire process** → handover incomplete under war pressure. Eagle–Condor remains contested cooperation language, not plot prophecy. Artifacts: Double-Fork Stone + dragon ghost (late); Maren's field notebook Sanxingdui break; Devolution roster glimpse. Full beats: `33`; peace `51`; teahouse `50`.
 
 ### Book III chapter-end hooks (drafting obligation)
 

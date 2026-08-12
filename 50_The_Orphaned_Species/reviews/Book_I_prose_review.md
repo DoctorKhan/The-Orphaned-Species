@@ -214,7 +214,7 @@ All hit:
 - "They want the boy who found the bleed, not the boy who bled. That is how you know it is not medicine." ✓
 - Old woman (Malai's aunt) confirms "listening hands" / doorway practice. ✓
 - Evacuation at dark tide. ✓
-- Deep-time residue: Ila's ground record confirmed through keeper testimony; physical Rootbook remains in cooperative custody; wrong reading (Ila = destiny twin / past life; stone = personal oracle). ✓
+- Deep-time residue: Ila's ground record confirmed through keeper testimony; physical Maren's field notebook remains in cooperative custody; wrong reading (Ila = destiny twin / past life; stone = personal oracle). ✓
 
 ### Logic / Prose Issues
 - **Medium — Ground-read at damaged field shifted to medical context.** Beatsheet calls for "a ground-read at a damaged field — he feels the break in the line and guides the growers to a repair point, but the fix is ordinary labor." Manuscript shifts the receiver demonstration to a medical emergency (Niran's leg bleed). Conceptually parallel (receiver ≠ healer), but contextually agricultural rather than field-geological. Minor thematic slippage.
@@ -255,7 +255,7 @@ All hit:
 - Extension officer's safe: carbon-copy sluice log + early half of polarity series. ✓
 - Kitt's three pencil pages: west block, cooperative, fork drawing. ✓
 - "You drew a fork." ✓
-- Physical Rootbook (*Shabdajal*) revealed; sealed parcel; cooperative retains pages. ✓
+- Physical Maren's field notebook (*Shabdajal*) revealed; sealed parcel; cooperative retains pages. ✓
 - Checksum wakes: **GHC / TREE 1 / COUPLING SERIES** + **R. KHAN** + four-day-old maintenance handshake (watering count 4-6-2-2). ✓
 - "Could be another Khan." "Could." Provisional recognition. ✓
 - Wren's transparency: "I will always move the people first... Nobody's owed a partnership in it." ✓
@@ -263,7 +263,7 @@ All hit:
 - "Told first—every time." contract established. ✓
 - Malai's conditions: pages remain cooperative property; corrections returned. ✓
 - Kitt's blank page: "water chooses." ✓
-- Deep-time residue: Kitt's fork maps meet physical Rootbook; cooperative preserves and corrects; wrong reading (journal belongs to Eli because Maren wrote it — implicit in Eli's reaction, corrected by Malai). ✓
+- Deep-time residue: Kitt's fork maps meet physical Maren's field notebook; cooperative preserves and corrects; wrong reading (journal belongs to Eli because Maren wrote it — implicit in Eli's reaction, corrected by Malai). ✓
 
 ### Logic / Prose Issues
 None found.
@@ -314,7 +314,7 @@ All hit:
 - Receiver reads ground-pressure beneath tree: "No clean band. No center." ✓
 - Qiao Wen introduced; conservation series shown. ✓
 - Three staff matches: (1) real researcher, (2) real researcher, (3) Mandate plant (Charkha plant, different inscription). ✓
-- Forensic synthesis: (1) ring inscription decoded against Rootbook index (Wren's archival extraction), (2) biometric fragment (Mandate intake photograph + conservator palm print), (3) material analysis (Suresh's Pelangi workshop alloy sample — raspel brass, coastal copper, trace tin). ✓
+- Forensic synthesis: (1) ring inscription decoded against Maren's field notebook index (Wren's archival extraction), (2) biometric fragment (Mandate intake photograph + conservator palm print), (3) material analysis (Suresh's Pelangi workshop alloy sample — raspel brass, coastal copper, trace tin). ✓
 - Plant eliminated: pure silicon carbide, Mandate issue. ✓
 - Rasel identified by evidence convergence, not recognition. ✓
 - Live camera feed: diagnostic loop every 43 seconds; Rasel holds up 4, closes, 6, taps mast twice-pause-twice. ✓
@@ -378,7 +378,7 @@ None found.
 
 ### Strengths
 - **Timeline coherence:** From Friday AM Pelangi race through Sanxingdui greenhouse dawn (~12 days), every chapter carries explicit temporal markers. No timeline collisions found.
-- **Prop continuity:** Ring, Three Circles tablet, wage ticket, Rootbook, tool roll, contractor lanyard — all tracked correctly or cleanly retired.
+- **Prop continuity:** Ring, Three Circles tablet, wage ticket, Maren's field notebook, tool roll, contractor lanyard — all tracked correctly or cleanly retired.
 - **POV discipline:** Eli governs every scene; no head-hopping. Header lock respected.
 - **Terminology lock:** "talents activate, not trained"; "Cube grounding = Maren, not martial"; receiver ≠ trained psion; Charkha unnamed on-page; Professor Emrys does not exist. All respected.
 - **World-rule consistency:** Breath practice (four-in six-out); Weavers' bounded help; Mandate classification; Sanxingdui conservation apparatus; receiver cost. All internally consistent.

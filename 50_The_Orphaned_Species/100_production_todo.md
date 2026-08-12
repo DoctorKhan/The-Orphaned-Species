@@ -38,7 +38,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 
 1. [x] **Ch 1 ending:** Mandate political squeeze drafted (2026-07-24) — Babaji holdout, screening sweep during late band set; hearth forfeited inside Ch 1.
 2. [x] **Ch 2** complete and **merged into manuscripts/I_The_Breach.md** (2026-07-22), Salmah seeded at the quay pre-breach.
-3. [x] **Ch 3 — What Didn't Die** drafted and revised: Salmah named and priced; one-night local Weaver hospitality; seven damaged journal scans through the archive leak; Eli recognizes Maren's hand and marks his first inference provisional; grounding via the platform keeper's cup + Thailand count; decision ends on "I'm not going dark." The physical Rootbook enters under Thai cooperative custody in Ch 10.
+3. [x] **Ch 3 — What Didn't Die** drafted and revised: Salmah named and priced; one-night local Weaver hospitality; seven damaged journal scans through the archive leak; Eli recognizes Maren's hand and marks his first inference provisional; grounding via the platform keeper's cup + Thailand count; decision ends on "I'm not going dark." The physical Maren's field notebook enters under Thai cooperative custody in Ch 10.
 4. [x] **Book I governing sequence complete:** Ch 4–10 retained and revised;
    replacement Ch 11–13 drafted through Sichuan, Sanxingdui, Rasel reunion,
    Wren's public evacuation signature and displacement, Qiao's lost clearance,
@@ -140,7 +140,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
     the next sailing). Ch 8 opens with a Custodian inquiry reaching Eleri's
     registered practice with a tide deadline. Both verified directly in the
     manuscript. Additional gap-fillers also landed beyond what this audit
-    flagged (depth-scan Ch 4; Imani Vale moral wound Ch 5→10; hearth/Rootbook
+    flagged (depth-scan Ch 4; Imani Vale moral wound Ch 5→10; hearth/Maren's field notebook
     correction Ch 6; Somchai hard-no Ch 9) — see `55` for the full list.
   Full findings: `55_series_pitch_and_comps.md` § *Book II — delivered-prose
   hunger audit*.

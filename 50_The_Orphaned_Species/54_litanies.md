@@ -566,7 +566,7 @@ Rhyme-sheet row optional (`25`); enactment in scenes beats naming the Lesson.
 |- In-scene dialogue: `53_quotable_refrains.md`
 |- Lay teachings spread: `29` § *Lay teachings*
 |- Seasonal gatherings: `50_teahouse_pilgrimage.md` § *Families, hearths, and clans*
-|- Orphan species title beat: `52_the_rootbook_word_web.md` — *népoth₁e* / sky-children
+|- Orphan species title beat: `52_maren_holts_field_notebook.md` — *népoth₁e* / sky-children
 |- **The Drifting Heart:** Leader / Chorus departure litany — `54_litanies.md` § *The Drifting Heart*
 |
 |---

@@ -6543,7 +6543,7 @@ alone.
 Commissioner Ma drinks tea with Rasel by screen and disputes custody language
 for forty minutes.
 
-Maren has added a correction to the Rootbook concordance from her own residence.
+Maren has added a correction to Maren's field notebook concordance from her own residence.
 
 Other hands correct her correction.
 

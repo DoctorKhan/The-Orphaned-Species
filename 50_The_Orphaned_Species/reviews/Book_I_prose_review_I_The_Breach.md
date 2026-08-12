@@ -131,10 +131,10 @@
 - **Locked beats hit:**
   - Malai count; pump house ash (~1774–1795).
   - Coop saves clue: wall-safe half-series + Kitt pencil bearing / fork drawing (~1797–1808).
-  - Rootbook physical book; Maren handwriting; cooperative custody (~1810–1875).
+  - Maren's field notebook physical book; Maren handwriting; cooperative custody (~1810–1875).
   - Four-day-old maintenance handshake / Rasel alive four days ago (~1849–1864).
   - Constitution renewed; told-first; handshake (~1897–1903).
-  - Depart west with half series, vials, Rootbook seal (~1911–1931).
+  - Depart west with half series, vials, Maren's field notebook seal (~1911–1931).
 - **Beats missed/dropped:** None from current lock.
 - **Logic contradictions:** None.
 - **Prose logic issues:**
@@ -169,7 +169,7 @@
 - **Beats missed/dropped:** No Professor Emrys; correct.
 - **Logic contradictions:** None.
 - **Prose logic issues:**
-  - Multiple strands (ring alloy, palm print, Rootbook index, staff list) converge cleanly on one staff member; slightly dense but coherent.
+  - Multiple strands (ring alloy, palm print, Maren's field notebook index, staff list) converge cleanly on one staff member; slightly dense but coherent.
 - **Priority:** Low.
 
 ## Chapter Thirteen—The Living Route
@@ -196,7 +196,7 @@
 ## Cross-cutting observations
 - **POV/character rules:** Eli is home consciousness throughout; one scene per mind. No violations detected.
 - **Clocks:** Multiple live clocks handled (claim-window dusk, four-hour conservation window, forty-three-second camera loop, four-day-old handshake). No contradictions.
-- **Props/terminology:** Ring, tablet, Rootbook, watering count, case/clay tablet, Harbor Thread, Weavers’ Net, Custodians/Mandate labels all consistent with locked docs.
+- **Props/terminology:** Ring, tablet, Maren's field notebook, watering count, case/clay tablet, Harbor Thread, Weavers’ Net, Custodians/Mandate labels all consistent with locked docs.
 - **World rules:** Talents activate, not trained, post-breach; contained to Eli until deliberate opening. Consistent.
 - **Missed beats:** No locked Book I beat appears dropped. Quarried retired beats correctly absent.
 

@@ -323,7 +323,7 @@ Firing rule (retained): a clarifying scene earns its place only when **both** ho
 | **Tablet of Destinies** | II–III | Vol II–III ownership race | Factions mistake authority records for master key; may be charter / routing charter / ritual copy / propaganda |
 | **Ugaritic council records** | III scene bank | Placement open under the current Book III spine | Repeated offices across traditions; local gods and stories retain differences; landscape-name fossils |
 | **Babylonian Map of the World** | III scene bank | Placement open under the current Book III spine | Mythic edge/missing region yields a testable move only when treated as incomplete; compared against live ley data |
-|| **Rootbook comparative linguistics + Derw fragments** | II | Ch 6–7 | Alba → Albion → elf etymology unlocks Albion as the endpoint without giving anyone a complete manual |
+|| **Maren's field notebook comparative linguistics + Derw fragments** | II | Ch 6–7 | Alba → Albion → elf etymology unlocks Albion as the endpoint without giving anyone a complete manual |
 
 ---
 

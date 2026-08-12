@@ -418,7 +418,7 @@ Hidden, pre-Turning, cross all three blocs. These are the societies the user mea
 - **The Weavers' Net** — women’s distributed order, four crafts (Warp/Weft/Knotter/Dyer), threshold houses, green cord, ply, no HQ, no army. Survived the collapse because keeping was organized. Wren’s network is one house of this order.
 - **The Harbor Thread** — men’s mostly-underground corridor network, accepted but not spoken. Sorts men into front posts. Each man holds one segment; help costs exposure. Not an order — not the missing male order.
 - **The Charkha** — encoded word-lineage from the wheel/chariot tradition. Runs inside legitimate systems. Present face: Charkha Measure, pair-severance, dependency transfer, platform contractors, foundations.
-- **Rootbook / Word-Web** — Maren’s bounded comparative field journal, witness-unlocked. Not an artifact; an interpretive matrix.
+- **Maren's field notebook / Word-Web** — Maren’s bounded comparative field journal, witness-unlocked. Not an artifact; an interpretive matrix.
 - **Apkallu interpreter line** — Göbekli-era interpreters (snake/teahouse side), transmission without ownership. The non-interpreter/registry side became institutional.
 - **Teahouse pilgrimage** — mature post-Book III form; polycentric scientific and contemplative commons at charged grounds, witness sites, ruins, gardens, ports.
 - **Delphi / Laurel Cube keepers** — millennia-old, never state-controlled. Inner chamber known only to oracles and their keepers. Delphic Games, dream-incubation, keeper-house hosting.
@@ -431,7 +431,7 @@ Hidden, pre-Turning, cross all three blocs. These are the societies the user mea
 ### 3. Covert operators and psion teams
 Deniable, contracted, often hidden even from their own publics.
 
-- **The Custodians** — four-person Charkha-affiliated psion team. Anika Voss (lock/seer), Tomás Reyes (lance), Sora Vithan (shield, defection candidate), unnamed scout. Operate under Mandate biosecurity paper.
+- **The Custodians** — four-person Charkha-affiliated psion team. Anika Voss (lock/seer), Tomás Reyes (lance), Sora Vithan (shield, defection candidate), unnamed scout. Operate under Mandate biosecurity paper. Scout is locked as the bounded blank operator under the antagonist desire parity exception.
 - **Lang’s early program** — protective-integration research, Cherry Cube annex, Maren’s childhood workplace.
 - **Charkha Measure / pair-severance** — dependency-transfer apparatus, platform contractors, employer programs, registry offices.
 - **National psion programs** — all three blocs field small teams; contractors and deniable units fill gaps.
@@ -637,7 +637,7 @@ Not human factions.
   beside his wedding ring and Hassan's possession of the physical band establish
   the Book I father trail. Rasel gave Hassan the ring during transfer. Hassan later
   crossed Maren's custody chain; she recognized her **“same soil”** engraving and
-  linked it to a bounded Rootbook index. The suppressed journal then becomes the
+  linked it to a bounded Maren's field notebook index. The suppressed journal then becomes the
   Book II mother trail. It is a collaborative research concordance, not a tuning
   artifact, prophecy, cosmological key, or complete route.
 - **Bounds:** keep the weapon's mechanism honest science (§§2–4). The "something else" it wakes is the speculative deep real; the boundary between the two is exactly the seam `39` demands stay visible.

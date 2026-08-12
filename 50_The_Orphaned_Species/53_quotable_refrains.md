@@ -69,7 +69,7 @@ Each major mouth owns **one rhetorical function**. Drafting rule: one quotable p
 | **Somchai** | Bodily limit — son of a man | Triage, hard no, Vol II late Ch 9 |
 | **Lang** | Ch. 17 mercy — cruelty as order | File, continuity, recoverable strength |
 | **Sol** | Armed prophet — bill comes either way | Necessity over soul; Vol II+ |
-| **Maren** (text) | Index ethics — names as paths | Rootbook marginalia |
+| **Maren** (text) | Index ethics — names as paths | Maren's field notebook marginalia |
 | **Hassan** | Witness morality—person over object | Rasel's wedding ring vs living man |
 
 **RESOLVED — Emrys purge (2026-08-01):** the numbers-first and map-over-territory refrains are retired rather than reassigned — forcing them onto a new mentor-voice would recreate the "expert translator" pattern the cut was meant to remove (`99_open_questions.md` §9). Map-over-territory survives as vocabulary only (`22_life_technology_and_two_trees_spine.md`; § *Invented vocabulary* below), untethered from a spoken refrain.
@@ -120,7 +120,7 @@ Each entry: **line · speaker · first seed · repeats · spread guard**
 - **Line:** *"Data walks. Paper crosses borders. The bund holds."*
 - **Speaker:** Hạnh
 - **Seed:** Vol I Ch 7–8 (cooperative documentation)
-- **Repeats:** teahouse replication; Rootbook concordance
+- **Repeats:** teahouse replication; Maren's field notebook concordance
 - **Spread:** science-under-siege meme
 
 ### 7. Records are for people you don't intend to come back to

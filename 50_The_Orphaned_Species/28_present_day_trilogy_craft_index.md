@@ -25,10 +25,10 @@
 | **Lifetime Orchestra (+6 / V–X)** | **`SERIES_STRUCTURE.md`** § *Lifetime Orchestra*; `62_lifetime_orchestra.md` — Bridge → 4 past lives → Ω |
 | **Technology teaches meaning** | **`SERIES_STRUCTURE.md`** + `22` § *Technology teaches meaning* — concepts via runnable tech |
 | **Spirituality goes wrong** | **`SERIES_STRUCTURE.md`** + `40_concepts.md` § *Spirituality goes wrong* — toxic positivity / manifestation bullying; seed III–IV; densify V–X |
-| Decoding Maren's Rootbook / linguistic continuity | `52_the_rootbook_word_web.md` + volume beats `31`–`33` |
+| Decoding Maren's field notebook / linguistic continuity | `52_maren_holts_field_notebook.md` + volume beats `31`–`33` |
 | Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit*; **Inana dual-face** (healing + Wren/Rowan) — `35` § *Inana's Descent*, `19` § *Rowan returns* |
 || **Adjacent books / author brands (1–2 names)** | **`63_adjacent_books_and_author_brands.md`** — Wren/Rowan spicy Priority A; Brand A literary + Brand B romance; no per-book or AI-author roster |
-|| **Goonies-style kid-crew companion** | Between Book IV and Book V, concurrent with the son's infancy; mixed-age crew (5, 12×2, 14–15, 16) finds Rootbook fragment/Charkha field card/Two-Tree pilot artifact and delivers proof to the right adult without getting claimed; genre valve for main novels' register; `99` item 9 |
+|| **Goonies-style kid-crew companion** | Between Book IV and Book V, concurrent with the son's infancy; mixed-age crew (5, 12×2, 14–15, 16) finds Maren's field notebook fragment/Charkha field card/Two-Tree pilot artifact and delivers proof to the right adult without getting claimed; genre valve for main novels' register; `99` item 9 |
 | **Cloister animal houses (Stag, Fox, Bear, Salmon, Ox)** | **`40_concepts.md`** § *Cloister animal houses* — five maturation-and-mentorship lineages with rites of passage; never temperament, occupational, military, or civic categories; Crow retired (bird/flight later); seed `33` Ch 9 |
 | **Phantom god-perception / correct worship** | **`17`** §9a + **`40`** — II seed; III civic diagnosis; **V–X** payoff = ego/robot → Player/consciousness; not atheism |
 | Locked beats / open names | `99_open_questions.md` |
@@ -131,7 +131,7 @@ Six conflict registers (ecological → technological), sorting machine (racism×
 | `51_field_sail_and_mandate_peace.md` | Locked Union physics discovery, Commissioner Ma, field-sail constraints, Mandate industrial partnership, and ceasefire |
 | `53_quotable_refrains.md` | Series refrain bible — memorable lines, character voice jobs, volume spread schedule, revision checklist |
 | **`55_series_pitch_and_comps.md`** | **HIGH PRIORITY** — shelf, agent/query, back-cover, comps, clue-chain craft, 10-point revision gate |
-| `52_the_rootbook_word_web.md` | Locked distributed Rosetta: comparative cipher, travel-based corroboration, Sanxingdui break, and cosmic concordance |
+| `52_maren_holts_field_notebook.md` | Locked distributed Rosetta: comparative cipher, travel-based corroboration, Sanxingdui break, and cosmic concordance |
 | `05_story_architecture.md` | Trilogy structure, fellowship, Living Way, climax |
 | `15_character_grounding_and_relatability.md` | Eli TBI, healer, relatability guardrails |
 | `16_reader_attachment.md` | Human gravity before mythology |

@@ -131,7 +131,7 @@ These stages overlap. Eli can have an early surge before he can interpret one, a
 | **Father (Rasel)** | Symbolic feeling — plants, joins, marks, stones, lines on land | *This means something; this points; this is out of place* | Eyes shut in dirt; ring seam; boundary stone bearing; green hands on loan at bleed |
 | **Mother (Maren)** | Receiver bandwidth, song, field contact | Tune, charge, web-thread, diagnostic read under pressure | Hummed fragment; somatic signatures; breach opens filter |
 | **Both in Eli** | Vivid **dream reception**; waking gift is **feel-then-test** | Fragment received while asleep; source and meaning unknown | Counting doors; Ila-name texture; Pele dream; independent corroboration |
-| **Both in Eli** | **Uncanny connection** — unrelated facts link | *These two things rhyme* — whole before proof | Thailand land-reading; Malacca thread; Göbekli sequence; Rootbook / Sanxingdui |
+| **Both in Eli** | **Uncanny connection** — unrelated facts link | *These two things rhyme* — whole before proof | Thailand land-reading; Malacca thread; Göbekli sequence; Maren's field notebook / Sanxingdui |
 
 **Dream rule (LOCKED 2026-08-01):** **Dreams may contain information, but never their own interpretation or provenance.** A name worn smooth (*Ila*), a count, a bodily position, a line, a sound, red earth, or kneeling may prove meaningful later. It may also be trauma, expectation, ordinary dream construction, bodily distress, hostile psionic influence, or coincidence. Eli cannot tell from vividness. The dream offers material for inquiry; waking work, independent evidence, cultural authority, consent, and consequences determine whether anything follows.
 
@@ -186,7 +186,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 **Comes in handy (plot jobs):**
 
 - Route and refuge choices before evidence arrives (chalk doors, Malacca thread).
-- Rootbook deciphering — cognate + site + measurement **linked** before the full proof (`52`).
+- Maren's field notebook deciphering — cognate + site + measurement **linked** before the full proof (`52`).
 - Göbekli / patriarchy sequence — **tempting** over-connection; institutional pushback (a local researcher, not a traveling scholar) forces him to the gap (`58` § *Göbekli's new function*).
 - Book III **re-teaching** *deiwos* — linguistic + practice + what the cells are **doing** (`29` § Deiwos resolution).
 - Teahouse replication — same curriculum noticed across unrelated households (`29` § lay teachings).
@@ -210,7 +210,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 - [ ] Does someone treat it as magic?
 - [ ] Does a later scene **test or complicate** the bridge?
 
-**Cross-ref:** `36` §1 (clarification); `52` (Rootbook travel); `27` § Eli leadership; `53` § three-beat shape; `90` epigraphs (science floor under the leap).
+**Cross-ref:** `36` §1 (clarification); `52` (Maren's field notebook travel); `27` § Eli leadership; `53` § three-beat shape; `90` epigraphs (science floor under the leap).
 
 ## Eli's meditation seed — Thailand (LOCKED)
 

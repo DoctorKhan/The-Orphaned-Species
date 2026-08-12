@@ -154,12 +154,12 @@ delivery spine: `22` § *Technology teaches meaning*; orchestra/V–X: `62`.
 
 ## The current volumes (I–IV)
 
-|| # | Title | File | Chapters | Words (approx.) | Notes |
+| # | Title | File | Chapters | Words (approx.) | Notes |
 |---|---|---|---|---|---|
-| **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~43,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) · **Object:** Cherry Cube
-| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | — | ~36,900 | Westward route; Maren release at Avebury · **Object:** Albion Shaft
-| **III** | The Compact | `50_The_Orphaned_Species/manuscripts/III_The_Compact.md` | — | ~30,700 | Brazil / Hawaiʻi / federation arc · **Object:** Living Root
-| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | — | ~28,600 | North American court; Costa Rica Turning; Rowan/Eli; birth / relinquishment · **Object:** Thread Loom
+| **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~43,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) · **Object:** Cherry Cube · **Status: complete draft** |
+| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | 1–10 | ~37,000 | Albion / Wren–Rowan / Maren release / Charkha reveal · **Object:** Albion Shaft · **Status: complete draft** |
+| **III** | The Compact | `50_The_Orphaned_Species/manuscripts/III_The_Compact.md` | 1–10 | ~31,000 | Brazil / Hawaiʻi / federation arc / Extras–cloisters · **Object:** Living Root · **Status: complete draft** |
+| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | 1–10 | ~29,000 | North American court; Costa Rica Turning; Rowan/Eli; birth / relinquishment · **Object:** Thread Loom · **Status: complete draft** |
 
 ## Lifetime Orchestra (V–X) — count LOCKED 2026-07-31; titles open
 

@@ -132,6 +132,23 @@ The lesson is not to add more lore. It is to make existing lore causal and emoti
 
 **Structural recommendation:** use *Dune* for the causal system and *The Lord of the Rings* for the heart. The present danger is a Dune-sized system without enough hearth, fellowship, rest, humor, and ordinary tenderness.
 
+### What to take from *Prisoners* (2013)
+
+**Lock — LOCKED 2026-08-11**
+
+*Prisoners* earns its pressure by making the audience complicit in choices they do not want to justify. Borrow only the mechanics, not the genre.
+
+| Strength | Application here |
+|---|---|
+| Antagonist conviction | Even when the reader hates Lang, show him doing something he believes is right—and let Eli recognize that same impulse in himself. The horror lives in the mirror, not the cruelty. |
+| Institutions leak | Every safe institution leaks. If a UnionNet audit feels too clean, introduce the quiet person who fudged the timestamp because she was afraid of losing her job. Rot is personal first. |
+| Wrong-shape reveals | Let characters and readers think they understand what is happening—then prove the frame was wrong. Reframing beats cost nothing in the cosmology-reveal budget because they reuse existing evidence. |
+| Bodily cost | Moral choice must land as physical sensation: hands that will not stop shaking, a throat that closes, the smell of a place you wish you had not entered. |
+| Complicity, not suspense | The reader should sit with choices, not just watch them happen. Every desperate act should cost something real and irreversible. |
+| No echo-closers | End big beats on the last action that changed something—not on a restatement of what just happened. |
+
+**Core transfer:** the locked rules already drive toward antagonist present-tense job/deadline and cost→next chapter. *Prisoners* is the proof that those rules work only when every intermediate beat earns the audience's complicity rather than announcing it.
+
 ### Prophecy and charismatic leaders
 
 Use prophecy-shaped material and charismatic-leader pressure as **bait, pressure, and misreading**, not as the truth of the series. Readers understand prophecy instantly, and factions inside the story would absolutely manufacture, exploit, or believe it. The book can use that voltage without surrendering to chosen-one logic.
@@ -214,7 +231,7 @@ Eli never knows the final destination. The outline knows the macro-route; the ch
 7. A dead end must force a human choice or relationship; it cannot merely trigger a stronger vision.
 8. Albion becomes identifiable only when independent evidence agrees late in the story.
 
-**Maren's Rootbook / Word-Web — LOCKED 2026-07-21:** the encoded journal structures comparison across the clue trail without containing the itinerary. Comparative word families open bounded sections; living communities, artifacts, measurements, and corrections provide the missing witnesses. Book III's Sanxingdui material defeats a universal Indo-European explanation and opens the word-tree into the older living mesh. Full design and volume progression: `52_the_rootbook_word_web.md`.
+**Maren's field notebook / Word-Web — LOCKED 2026-07-21:** the encoded journal structures comparison across the clue trail without containing the itinerary. Comparative word families open bounded sections; living communities, artifacts, measurements, and corrections provide the missing witnesses. Book III's Sanxingdui material defeats a universal Indo-European explanation and opens the word-tree into the older living mesh. Full design and volume progression: `52_maren_holts_field_notebook.md`.
 
 ### Useful clue forms
 
@@ -461,7 +478,7 @@ The artifacts are a distributed evidence chain, not a museum heist or fixed chec
 | Focus the ownership race | **Tablet of Destinies claims or fragments** | Factions mistake authority records for a master key; the protagonists must determine whether they are reading a charter, routing charter, ritual copy, or propaganda |
 | Reconcile divine names without flattening them | **Ugaritic council records** | Repeated offices become visible across traditions while local gods and stories retain their differences |
 | Turn cosmology into route | **Babylonian Map of the World**, later compared with live ley data | A mythic edge or missing region yields a testable next move only when the old map is treated as incomplete |
-|| Carry the chain west | Rootbook comparative linguistics + European sky-object | Alba → Albion → elf etymology unlocks Albion as the endpoint without giving anyone a complete manual |
+|| Carry the chain west | Maren's field notebook comparative linguistics + European sky-object | Alba → Albion → elf etymology unlocks Albion as the endpoint without giving anyone a complete manual |
 
 Likely distribution follows the thriller rather than chronology. The **Three-Circles Tablet** is the preferred first major artifact because it helps Eli survive the body/autopilot problem. Earlier books use only partial tree/guardian and living-person clues. The **Double-Fork Stone** is withheld until Book III, where the dragon ghost makes the biological/panspermic turn a true reveal rather than early taxonomy. The **Sumerian King List** is a later mortality-memory turn; the Persian Gulf/Anatolian investigation brings the densest textual cluster in Volume II; maps converge before the late dragon disclosure. Full treatment: `35_artifact_chain.md`.
 
@@ -620,7 +637,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Climax cost:** Emrys is taken while Eli refuses to sacrifice others for the pursuit.
 
-**Resolution:** Derw fragments + Rootbook linguistics + living network point into Europe. The word “Albion” still need not be confirmed.
+**Resolution:** Derw fragments + Maren's field notebook linguistics + living network point into Europe. The word “Albion” still need not be confirmed.
 
 ### SUPERSEDED SCENE QUARRY — former Volume III allocation
 

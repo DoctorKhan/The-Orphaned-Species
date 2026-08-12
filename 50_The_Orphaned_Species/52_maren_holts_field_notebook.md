@@ -1,12 +1,12 @@
-# The Rootbook / Word-Web
+# Maren Holt's field notebook / Word-Web
 
 > **SANXINGDUI TIMING — LOCKED 2026-07-26:** The decisive Sanxingdui break now occurs in late Book I at the Sanxingdui climax, not first in Book III. It breaks Eli's language-tree model into a larger living mesh while Rasel's physics and Thai field data establish the distributed Tree of Life. Book III applies the consequence to the field sail. Governing lock: `58_sanxingdui_climax_lock.md`.
 
-> **HIGH PRIORITY — LOCKED 2026-07-25:** Expertise fantasy and contested decode — **`55_series_pitch_and_comps.md`**. Rootbook opens bounded sections only; reader learns with Eli, often wrong first.
+> **HIGH PRIORITY — LOCKED 2026-07-25:** Expertise fantasy and contested decode — **`55_series_pitch_and_comps.md`**. Maren's field notebook opens bounded sections only; reader learns with Eli, often wrong first.
 
 **CANON DESIGN — LOCKED 2026-07-21.** **Maren Holt's** encoded field journal becomes the series' distributed Rosetta: a personal record, comparative linguistic tree, scientific notebook, charged-ground atlas, and unfinished model of the living mesh. Eli deciphers it through travel, collaboration, repeatable measurements, and words recovered in different linguistic branches. **His uncanny connection gift** — leaps between seemingly unrelated witnesses — is the living complement to Maren's encoded tree: he links cognate, site, and measurement before the full proof exists, which looks like oracle-work to others and **working hypothesis** to a scientist present (Rasel, Luo, Qiao) (`15` § *Uncanny connection*). It is not prophecy, a universal translation device, or an itinerary planted for him.
 
-**Working names — LOCKED for prose 2026-08-01 pending specialist polish:** Eli privately calls it **the Rootbook**. Maren's cover-title on-page is **শব্দজাল** (*Shabdajal* — Word-Web). Use that Bengali title when a character reads the cover; do not invent alternatives mid-draft. Exact register/diacritics remain open to Bengali-language review, but the working form is fixed so manuscripts stop waiting on TBD.
+**Working names — LOCKED for prose 2026-08-01 pending specialist polish:** Eli privately calls it **Maren's field notebook**. Maren's cover-title on-page is **শব্দজাল** (*Shabdajal* — Word-Web). Use that Bengali title when a character reads the cover; do not invent alternatives mid-draft. Exact register/diacritics remain open to Bengali-language review, but the working form is fixed so manuscripts stop waiting on TBD.
 
 **Book I custody and reveal — LOCKED 2026-08-10:** The physical journal first appears in Thailand. Maren's field network left it with the cooperative alongside Ila's ground record, and growers added corrections in their own inks. Singapore/Malacca provides seven damaged archive images before Eli sees the book. After the Thai evacuation, Malai authorizes transport north under the cooperative seal because continued storage now endangers the pump house. The cooperative retains ownership of its pages, keeps copies, and requires later corrections to return. Eli's private name for the journal grants him no title to it.
 
@@ -40,7 +40,7 @@ The first locked candidate constellation is thematic rather than exhaustive:
 
 **Same soil — ring inscription as domestic index — LOCKED 2026-07-26:** Rasel
 made and wore the wedding ring; **same soil** was his family phrase. Maren had it
-engraved inside as her answer and later used it to tag the Rootbook's earth/soil
+engraved inside as her answer and later used it to tag Maren's field notebook's earth/soil
 constellation. Book I Ch 2 reads the band as proof of Rasel and home. Only after
 Hassan's Book II testimony does it open Maren's bounded index. It never decodes the
 whole journal or names a destination by itself.
@@ -100,7 +100,7 @@ Possible first personal line, subject to prose revision:
 - The **brother/kin** material rhymes with the group's movement from ancestry toward chosen relationship and with the social danger of turning kinship into rank.
 - At least one trusted key is wrong, one of Maren's readings is corrected by a living community, and one page implicates her voluntary work with Lang.
 - Non-Indo-European comparisons strain Eli's belief that a single human language family explains the pattern; the decisive Sanxingdui break arrives through the Mandate/Rasel relationship in late Book I. Book III tests its wider scientific and civic consequence.
-- Cuno's geometry, Derw's transmission, living field behavior, and the journal converge independently on Albion. The Rootbook never contains Albion as a simple destination or Maren's spirit as a recoverable address.
+- Cuno's geometry, Derw's transmission, living field behavior, and the journal converge independently on Albion. The Maren's field notebook never contains Albion as a simple destination or Maren's spirit as a recoverable address.
 - Releasing Maren remains a choice against prolonging reunion. The fully decoded journal cannot substitute for letting her go.
 
 ### Book III — the concordance beyond language
@@ -109,7 +109,7 @@ Possible first personal line, subject to prose revision:
 - Union physics and later extraterrestrial evidence show the same deep rule: continuity need not preserve an unchanged object; it can preserve relationship through lawful transformation.
 - This principle helps Eli recognize the missing feedback relationship in the field-sail work, but it is not a magic equation. Union physicists, Rasel, independent replicators, Mandate engineers, and living-field witnesses still complete and test the science.
 - Evidence beyond Earth reframes humanity as the most recent local experiment in a long dance of life and knowledge through time and space—not the final species, a chosen bloodline, or the owner of the mesh.
-- Eli adds pages; other people annotate, contest, and correct them. The Rootbook becomes a tradition because it remains participatory and revisable.
+- Eli adds pages; other people annotate, contest, and correct them. The Maren's field notebook becomes a tradition because it remains participatory and revisable.
 
 ## The larger recognition
 
@@ -139,7 +139,7 @@ The word web's sharpest political edge. From mid–Book II, rebel cells hail Eli
 
 ## Guardrails
 
-- The Rootbook is an interpretive matrix, **not a sixth cosmological artifact** added to the five-object causal chain.
+- The Maren's field notebook is an interpretive matrix, **not a sixth cosmological artifact** added to the five-object causal chain.
 - It never supplies the whole route, a complete cosmic history, or a list of future destinations.
 - Eli does not solve it alone. Rasel, Wren, linguists, speakers, scientists, growers, custodians, and other affected people each resolve or contest parts he cannot.
 - AI may search correspondences and test cipher hypotheses; it cannot determine lived meaning, validate provenance by itself, or replace the three accounts of the reciprocal circuit.

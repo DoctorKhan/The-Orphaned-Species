@@ -42,13 +42,13 @@ A living collection of real scientific papers, excerpts, and quotes that anchor 
 
 ## Layer 0 — in-world document epigraphs (fictional sources)
 
-**Purpose:** the citation layer above anchors myth to real science. This layer does the other job Dune's Irulan epigraphs did for Herbert: move dense institutional/historical texture *out* of scene prose and into a compressed fragment the reader meets before the scene starts, so the scene itself can move at speed. It reuses assets the project already has — the Rootbook, Charkha registry forms, conservation records, disputed translations, harbor broadsheets — as the source of the fragment, rather than inventing a new device.
+**Purpose:** the citation layer above anchors myth to real science. This layer does the other job Dune's Irulan epigraphs did for Herbert: move dense institutional/historical texture *out* of scene prose and into a compressed fragment the reader meets before the scene starts, so the scene itself can move at speed. It reuses assets the project already has — Maren's field notebook, Charkha registry forms, conservation records, disputed translations, harbor broadsheets — as the source of the fragment, rather than inventing a new device.
 
 **Never mix with Layer 1 (real-science epigraph) in the same chapter opening.** Keep them typographically and functionally distinct so a reader always knows which kind of truth they're reading:
 
 | | Layer 1 (real science) | Layer 0 (in-world document) |
 |---|---|---|
-| **Source** | A real paper, verbatim | A fictional document: Rootbook margin, registry form, broadsheet, conservation label, disputed translation |
+| **Source** | A real paper, verbatim | A fictional document: Maren's field notebook margin, registry form, broadsheet, conservation label, disputed translation |
 | **Attribution line** | Author (year), *Journal* | In-world document name, hand/office, place — no real-world date format; use the story's own calendar/place markers |
 | **Job** | Tilts the floor under the myth — "this part is real" | Delivers institutional/historical texture *before* the scene needs it, so dialogue and action don't have to carry it |
 | **Placement** | Chapter opening, part divider | Chapter opening, or a section break within a chapter, wherever a scene is about to lean on unexplained procedure or backstory |
@@ -65,13 +65,13 @@ A living collection of real scientific papers, excerpts, and quotes that anchor 
 
 **Worked example — Chapter Ten, retrofitted:**
 
-A short Rootbook fragment may precede the Thailand custody reveal, provided the
+A short Maren's field notebook fragment may precede the Thailand custody reveal, provided the
 epigraph does not imply that Eli already owns or has seen the journal:
 
 ```markdown
 > *Water before light. Roots argue with nothing; they only grow toward what feeds them. A boy will do the same, if you let him.*
 >
-> — Rootbook, margin note, unsigned hand later confirmed as Rasel Khan's
+> — Maren's field notebook, margin note, unsigned hand later confirmed as Rasel Khan's
 ```
 
 A second candidate, for the Ch 2 Babaji/Wren attestation scene specifically — this is the scene the jargon-thinning pass touched last time, and a one-line registry fragment ahead of it would let "sponsor line," "corridor worker," and "cohort" land as already-familiar terms instead of a cluster the dialogue has to introduce and define at once:
@@ -560,7 +560,7 @@ Use these as an **ancient outside witness to "one history, many liturgies"** —
 
 **The finding (paraphrase):** Early Anatolian/Near Eastern farmers carry a distinct **Basal Eurasian** component — a "ghost lineage" absent in other ancient groups — consistent with a **sealed/refugium nursery** unsealing into the Neolithic spread. In canon this rhymes with **Qingu** stock at Phase VI; **Nephilot** carriers follow a separate down-breeding path but the **archaeogenetic trail Eli can follow begins here**.
 
-**Precision update (2026-07-29) — isolation window and modern distribution:** the Basal Eurasian lineage split from other non-African populations an estimated **60,000–100,000 years ago**, before the ~50,000–60,000-year-ago Neanderthal admixture event non-Africans otherwise share — which is why the lineage carries little to no Neanderthal DNA (the seal's signature, already the canon's load-bearing detail, line 658 above). Isolation ended with admixture in the Middle East roughly **25,000 years ago**, forming the Natufians/early Levantine farmers (~44% Basal Eurasian ancestry), Neolithic Iranians (~48–66%), and — via Anatolian farmers (~30–44%) — the Early European Farmer lineage that carried it to Britain. **Modern distribution** (present-day admixture fractions, for texture and any on-page precision the Rootbook/word-web material wants): Qataris/Yemenis and other Arabian Peninsula populations ≈45% (highest surviving fraction, consistent with the Persian Gulf/Dilmun siting); Levant 35–38%; Iran ≈35%; Anatolia/Caucasus 25–30%; modern Europeans <20%.
+**Precision update (2026-07-29) — isolation window and modern distribution:** the Basal Eurasian lineage split from other non-African populations an estimated **60,000–100,000 years ago**, before the ~50,000–60,000-year-ago Neanderthal admixture event non-Africans otherwise share — which is why the lineage carries little to no Neanderthal DNA (the seal's signature, already the canon's load-bearing detail, line 658 above). Isolation ended with admixture in the Middle East roughly **25,000 years ago**, forming the Natufians/early Levantine farmers (~44% Basal Eurasian ancestry), Neolithic Iranians (~48–66%), and — via Anatolian farmers (~30–44%) — the Early European Farmer lineage that carried it to Britain. **Modern distribution** (present-day admixture fractions, for texture and any on-page precision Maren's field notebook/word-web material wants): Qataris/Yemenis and other Arabian Peninsula populations ≈45% (highest surviving fraction, consistent with the Persian Gulf/Dilmun siting); Levant 35–38%; Iran ≈35%; Anatolia/Caucasus 25–30%; modern Europeans <20%.
 
 **Suggested placement:** author research notes for the Book II Göbekli sequence;
 not reader-sequence prose. Epigraph optional.

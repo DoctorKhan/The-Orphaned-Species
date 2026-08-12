@@ -108,7 +108,7 @@ Both are **puzzle-driven adventure thrillers**: propulsion comes from **decoding
 - **Clue-trail spine:** Pelangi → Malacca → Thailand/Gulf → Göbekli → Europe → Albion (`95` *clue trail*; `35` artifact chain).
 - **Conspiracy of the ages:** Charkha / Custodians / institutional capture **rhyme** with deep-time suppression (`95` *Charkha*; § Tier 3 pattern recognition below).
 - **Landmark set-pieces:** race fairway, Cube roots, chandlery, Pömmelte shafts, broken-line church, Rollright, Stonehenge, Avebury — each site **does work** (clue + cost + pursuit).
-- **Expertise fantasy:** Rootbook cognates, registry marks, keeper protocol — reader learns **with** Eli, often **wrong first**.
+- **Expertise fantasy:** Maren's field notebook cognates, registry marks, keeper protocol — reader learns **with** Eli, often **wrong first**.
 - **Dual-register clues:** civic fact first (Albion rename, Ch 5), deep rhyme second (Alba / elf / Sídhe, Ch 6) — same beat structure as Brown's "symbol means X" → "and therefore the Church…"
 
 ### What this series will not do (thesis, not timidity)
@@ -117,7 +117,7 @@ Both are **puzzle-driven adventure thrillers**: propulsion comes from **decoding
 |------------|-------------|
 | One clean conspiracy answer | **Pattern conspiracy** — many faces, one **function** (suppression, acquisition, dependency transfer); apex **assembled**, not drawn (`§ Tier 3`) |
 | Treasure box / single bloodline ending | **Release + coexistence** — Maren freed, grid unowned, federation without HQ |
-| Protagonist owns decoded truth | **Contested evidence** — stale, planted, misread; communities **correct** Maren (`52` Rootbook) |
+| Protagonist owns decoded truth | **Contested evidence** — stale, planted, misread; communities **correct** Maren (`52` Maren's field notebook) |
 | Clue trail = complete map | **No full itinerary** — next person, record, or anomaly only (`95` *clue trail*) |
 | Conspiracy without domestic cost | **Hearth forfeited** (Ch 1), Wren displaced (Sanxingdui), Laleh lost, named deaths in Vol III |
 | Boss fight with ultimate evil | **Standing condition** — vigilance, not elimination (`§ Tier 3`) |
@@ -136,7 +136,7 @@ Use at **chapter outline** and **revision**:
 7. **Rhyme check:** does this antagonist **face** echo Lang, Custodians, church drain, registry trap, or pair-severance file — without naming the apex?
 8. **Wonder beat:** before violence at a landmark, **one breath** of awe (Cube spectacle, Göbekli fox-pillar, Stonehenge weather) — *National Treasure* lesson without tone collapse.
 
-**Cross-ref:** **`55`** (pitch hub); `05` § governing story; `35_artifact_chain.md`; `52_the_rootbook_word_web.md`; `18_adventure_engine_and_scene_bank.md`; `14` § exposition; `99` § Charkha / pair-severance.
+**Cross-ref:** **`55`** (pitch hub); `05` § governing story; `35_artifact_chain.md`; `52_maren_holts_field_notebook.md`; `18_adventure_engine_and_scene_bank.md`; `14` § exposition; `99` § Charkha / pair-severance.
 
 ## What readers should feel
 
@@ -149,7 +149,7 @@ Use at **chapter outline** and **revision**:
 | Civilization as family-faced engine | "A system calling people family does not earn the right to spend them." |
 | Prophecy pressure | "Destiny is thrilling, but it may be a trap." |
 | Ancient records | "Myth is not proof; it is contested memory." |
-| Rootbook cognates | "Words I use contain transformations of something far older; I participate in a history I did not know I carried." |
+| Maren's field notebook cognates | "Words I use contain transformations of something far older; I participate in a history I did not know I carried." |
 | Human-as-sub-drone reveal | "We understand robots because we were once made into robots for others." |
 | Coexistence test | "Power does not have to end in worship, ownership, or extermination." |
 | Final ordinary life | "The victory is breakfast, work, sailing, jokes, affection, and nobody turning the afternoon into destiny." |
@@ -218,7 +218,7 @@ Wrong explanations make the reader an active investigator. They also prevent any
 
 The first artifact should not explain aliens, dragons, Anunnaki, chromosomes, or the full timeline. It should solve or complicate an immediate problem.
 
-Seven damaged Rootbook images enter beside the artifact chain as an **emotionally legible puzzle**. Their first successful key is a word connected to Eli's maternal memory. The physical *Shabdajal* appears later in Thai cooperative custody, already marked by local corrections. The reader sees recurring forms before the reconstruction and can attempt the relationship; the custody reveal prevents the journal from reading as a private inheritance or prophecy. Full reveal ladder: `52_the_rootbook_word_web.md`.
+Seven damaged Maren's field notebook images enter beside the artifact chain as an **emotionally legible puzzle**. Their first successful key is a word connected to Eli's maternal memory. The physical *Shabdajal* appears later in Thai cooperative custody, already marked by local corrections. The reader sees recurring forms before the reconstruction and can attempt the relationship; the custody reveal prevents the journal from reading as a private inheritance or prophecy. Full reveal ladder: `52_maren_holts_field_notebook.md`.
 
 Best early candidates:
 
@@ -339,7 +339,7 @@ The name, rumor, effect, or handiwork arrives chapters before the body does.
 
 Canon examples already running this pattern:
 
-- **Maren** — her engraving inside Rasel's ring, Rootbook trail, and other
+- **Maren** — her engraving inside Rasel's ring, Maren's field notebook trail, and other
   people's memories long before Book II release (the reunion is the goodbye).
 - **Rasel** — garden, wage ticket, **Rasel** on forms, pier line (*both taken*);
   proof of life and recovery at Sanxingdui in

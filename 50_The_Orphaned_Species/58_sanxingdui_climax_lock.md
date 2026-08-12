@@ -23,7 +23,7 @@ This document supersedes every earlier allocation that places the Gulf, Mesopota
 
 The route remains geographically coherent inside maritime and Asian worlds. The Thailand-to-Gulf travel, Mesopotamian archive, Taş Tepeler circuit, and Göbekli permit race move out of Book I. Bangladesh remains off-page through Shireen, food, language, and Rasel's gardens.
 
-The growing band in Thailand does **not** point west to one sacred capital. Its geometry and periodic behavior correspond to data in Rasel's Mandate research. The cooperative's own surviving measurements, Maren's bounded Rootbook page, Anika's true statement that Rasel lives, and Rasel's coupling series jointly point north toward a Mandate research collaboration in Sichuan.
+The growing band in Thailand does **not** point west to one sacred capital. Its geometry and periodic behavior correspond to data in Rasel's Mandate research. The cooperative's own surviving measurements, Maren's bounded Maren's field notebook page, Anika's true statement that Rasel lives, and Rasel's coupling series jointly point north toward a Mandate research collaboration in Sichuan.
 
 Sanxingdui is not "Eli's clue" and does not await him. Chinese archaeologists, conservators, historians, and local custodians already possess the objects, documentation, and interpretive authority. The plot brings Eli there because **Rasel arranged for it** and because the Mandate apparatus has attempted to operationalize a field relationship discovered through legitimate conservation and materials research.
 
@@ -207,7 +207,7 @@ It no longer carries:
 
 When the Folly material reaches Eli in the Mesopotamian archive (`32` Ch 2), the parallel to his own Sanxingdui choice should land as recognition, not as stated comparison. No character should name the resemblance between Adapa's trick and Eli's mask. Stage it as an uninvited body-memory rhyme instead — a specific sensory detail from the confrontation with Rasel recurring without explanation — so Eli, and the reader, feel the connection arrive before it could be argued for.
 
-## Rootbook and Sanxingdui
+## Maren's field notebook and Sanxingdui
 
 The former Book III "Sanxingdui break" moves into late Book I.
 
@@ -241,7 +241,7 @@ The following existing material is now **quarry**, even where older headings say
 - `manuscripts/I_The_Breach.md` Chapters 11–13 in their current Gulf / tell / Göbekli form;
 - `31_volume_I_beatsheet.md` Act IV and its Göbekli climax;
 - Book I Gulf/Göbekli allocations in `00_ARCHITECTURE.md`, `29_trilogy_plot_and_development.md`, `BOOK_SUMMARIES_*`, `55_series_pitch_and_comps.md`, and `100_production_todo.md`;
-- Book III-first Sanxingdui allocation in `33_volume_III_beatsheet.md` and `52_the_rootbook_word_web.md`;
+- Book III-first Sanxingdui allocation in `33_volume_III_beatsheet.md` and `52_maren_holts_field_notebook.md`;
 - Book II opening assumptions that Rasel remains captive or off-page;
 - **added 2026-08-11:** every passage anywhere describing Rasel as sabotaging or delaying the Sanxingdui weaponization, as a captive needing rescue, or as escaping/traveling with Eli's group afterward — including `32_volume_II_beatsheet.md`'s "Rasel = instrument antagonist" scene design across Book II's westbound chapters (Ch 5 ring evidence, Stonehenge "one more interval," Avebury release opposition) and its "Rasel is the one who names Mesopotamia" end hook, and the short supersession-block sentences in `55_series_pitch_and_comps.md` and `BOOK_SUMMARIES_long.md` asserting "Eli recovers Rasel."
 

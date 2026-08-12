@@ -489,7 +489,7 @@ Wash the bowl.
 | **8-page household zine** | Chapters 1–8 (cup through freight) — no plot spoilers |
 | **Teahouse tile / wall** | Single chapters; rotate by season |
 | **Social spread** | `#counttheheat` pairs with Chapter 1; do not hashtag the whole scripture |
-| **Rootbook margin (in-fiction)** | Maren may echo verse *shape* in encoded form — never present as Eli's revelation |
+| **Maren's field notebook margin (in-fiction)** | Maren may echo verse *shape* in encoded form — never present as Eli's revelation |
 
 **Rights:** these verses are original to the project. For epigraphs quoting Laozi, use PD translation (Legge) or author rendering from Chinese (`90` § Tao 72 note).
 

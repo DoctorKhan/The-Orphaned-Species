@@ -52,7 +52,7 @@
 | Revelation order (22 beats) | `05` §8 + `17` |
 | Life tech / Two Trees beats per volume | `22` |
 | Artifacts that move bodies | `35_artifact_chain.md` |
-| Mother's encoded linguistic/scientific journal | `52_the_rootbook_word_web.md` |
+| Mother's encoded linguistic/scientific journal | `52_maren_holts_field_notebook.md` |
 | Adventure forms / scene bank | `18_adventure_engine_and_scene_bank.md` |
 | ~2040 world + future conflict registers | `23_2040_present_frame.md` + **`56_future_conflicts_atlas.md`** (LOCKED 2026-07-26) |
 | Locked beats #1–#6 (Vol I draft-ready) | `99` Priority 1 |
@@ -103,7 +103,7 @@
 
 **Book IV-or-later payoff — LOCKED 2026-07-30:** the "starship" language above is literal — the Younger Dryas craft (`59_younger_dryas_nucleation_lock.md`) was one, and three significant fragments survive under the three bloc-cubes (`95_glossary.md` § *The Three Cubes*), deliberately never reunited. Book III's complex-time breakthrough comes from unrelated orbital/interface sensor data; nobody connects it to the buried fragments here. That connection, and whatever becomes possible once it's made, is open-ended future-book material, not scheduled inside the current four-volume arc.
 
-**Rootbook / distributed Rosetta — LOCKED 2026-07-21:** Maren's encoded field journal aligns comparative word families, branching diagrams, charged-ground measurements, and personal marginalia. Eli opens bounded sections through historically regular transformations and evidence gathered across the pilgrimage, but the book never supplies the complete route. Living communities and independent observations correct Maren. Sanxingdui breaks the single-language-tree model: its material patterns rhyme with the diagrams without being assigned a Proto-Indo-European language. In Book III, linguistic continuity through transformation helps Eli recognize—but does not alone solve—the complex-time program's missing feedback relationship. Full lock: `52_the_rootbook_word_web.md`.
+**Maren's field notebook / distributed Rosetta — LOCKED 2026-07-21:** Maren's encoded field journal aligns comparative word families, branching diagrams, charged-ground measurements, and personal marginalia. Eli opens bounded sections through historically regular transformations and evidence gathered across the pilgrimage, but the book never supplies the complete route. Living communities and independent observations correct Maren. Sanxingdui breaks the single-language-tree model: its material patterns rhyme with the diagrams without being assigned a Proto-Indo-European language. In Book III, linguistic continuity through transformation helps Eli recognize—but does not alone solve—the complex-time program's missing feedback relationship. Full lock: `52_maren_holts_field_notebook.md`.
 
 **Teahouse social form — LOCKED 2026-07-21:** Eli's post-hearing answer is not a church, palace, or centrally owned research order. Existing charged grounds, threshold houses, clinics, gardens, and new sites begin linking as a pilgrimage of **teahouses**. Voluntary **cloisters** provide disciplined residence and systematic study; **inner sanctuaries** remain hazardous site-specific research zones. Progression is practical readiness checked against personal health baselines, recovery, witnessed boundary conduct, transparent protocols, and independent review—not enlightenment rank. AI remains background logistics, measurement, bias auditing, and public institutional monitoring. Long travel and shared work allow chosen families and clans to emerge without algorithmic assignment or hereditary identity. Full canon: `50_teahouse_pilgrimage.md`.
 
@@ -275,7 +275,7 @@ Source: `05` §7 revised table; `99` Priority -1. Old `31`/`32`/`33` chapter all
 Late book **converges** multiple western grounds; order is **dramatic**, not a Grand Tour:
 
 1. **Europe** — dead zones **named and mapped**; **Pömmelte** massacre and carrier-tracking revelation; **broken-line church** set-piece (`37` LOCKED §§). Scour warfare escalates on choke points. Pömmelte is the historical horror that makes the later *elf* vocabulary morally charged rather than decorative.
-2. **Rollright** — riddling, unreliable read; Rootbook comparative linguistics unlocks Alba → Albion → elf chain; Derw fragments corroborate; false certainty punished.
+2. **Rollright** — riddling, unreliable read; Maren's field notebook comparative linguistics unlocks Alba → Albion → elf chain; Derw fragments corroborate; false certainty punished.
 3. **Stonehenge (Vol II Ch 9)** — Cuno descent, transmission-station discovery,
 artifact-wisdom routing, and **Alba → Albion → elf** name beat; the route then
 moves to Avebury for the England ambush and emotional climax.
@@ -394,7 +394,7 @@ Each leg owes beats from `22`:
 
 **Singapore vertical architecture — LOCKED 2026-07-27:** Cherry Center is the immense vertical mall/arcology. The **Cherry Cube Shrine** is nested inside its public-facing heart, but **nobody knows what is inside the Cube**; its shell, spectacle, access rules, and effects are visible while the interior remains sealed and rumored. The entire Tower is built around a **counter-clockwise-only circulation rule**: stairs, landings, lifts, escalators, service corridors, signage, and security doors all reinforce one permitted direction around the Cube. A clockwise route is blocked, redirected, or made to appear absent. Eli's Singapore movement ascends toward the Shrine's boundary and the power/evidence gathered around it, then descends through service, freight, and worker levels toward escape; even the descent must negotiate the enforced turn. The Weavers have strategic access upward—hosts, invitations, salons, administrative rooms, and elite floors—but need Eli's long-standing worker relationships to move below the public map. Eli is not a Shromik initiate or commander; he is essential because he has always been well connected with the Line and knows how labor trust actually travels. The Weavers provide upward access; the Shromik Line provides worker-infrastructure access and knows the tolerated breaks in the loop. The sequence does not reveal the Cube's interior. Ordinary Singapore residents earn proximity to the shell through a formal, purchased pilgrim-ring system with years-long waiting lists — Eli's worker/Weaver route bypasses every ring and brings him nearer the shell than any pilgrim who paid for it, without any of the devotion the tiers sell; never remarked on-page (`95_glossary.md` § *Pilgrim rings*). **The Cherry Cube is one of three bloc-cubes worldwide** (red — Singapore's is the only one built out in detail so far; **Domain: Power** — real, entrainment-triggered bodily vitality and healing, strongest in a synchronized crowd, which is why the Mandate sells it as ticketed spectacle rather than quiet clinical access); full mapping, ancient-precedent framing, and the do-not-lampshade guardrail: `95_glossary.md` § *The Three Cubes*.
 
-**Singapore recovery objective — LOCKED 2026-07-27:** the public Cherry Cube Circuit contract is cover for recovering the **Three-Circles Tablet** from a Stack archive/transfer route near the Shrine. The tablet never comes from inside the Cube. Weaver access identifies and positions the target; Shromik access tracks it through labor and freight infrastructure; Eli's worker relationships make the handoff possible. During the escape, an archive worker routes the tablet into Eli's wardrobe/freight leak alongside the damaged Rootbook wafer. The tablet is the recovered artifact and the wafer is corroborating evidence; neither resolves the Shrine.
+**Singapore recovery objective — LOCKED 2026-07-27:** the public Cherry Cube Circuit contract is cover for recovering the **Three-Circles Tablet** from a Stack archive/transfer route near the Shrine. The tablet never comes from inside the Cube. Weaver access identifies and positions the target; Shromik access tracks it through labor and freight infrastructure; Eli's worker relationships make the handoff possible. During the escape, an archive worker routes the tablet into Eli's wardrobe/freight leak alongside the damaged Maren's field notebook wafer. The tablet is the recovered artifact and the wafer is corroborating evidence; neither resolves the Shrine.
 
 **The Weavers — LOCKED 2026-07-19; named 2026-07-21 (formerly working name *the Wide Net*):** the Bengali–Malaccan web is one harbor branch of a much wider, women-led transnational order: **the Weavers**. Its houses, visiting circles, kitchens, clinics, schools, ports, farms, and repair crews extend across cultures and continents. It has no single headquarters or command line; local houses know overlapping contacts and can refuse an instruction. Members carry food, translation, shelter, repair, warnings, documents, evacuation routes, memory, and social introductions. Men, children, queer people, and elders can be protected, trained, or allied, but women hold the order's long memory and initiation authority. It is disciplined and strategic without being a secret army, a bloodline, or a government. **post-Turning insertion — LOCKED 2026-07-24:** after **the Turning**, the Net's **Weaving-in** placed keepers and knots inside threshold houses, clinics, ports, and refugee intake through emergency hiring and unbranded lay teachings — not a coup; keeping organized when palaces burned (`40` § The Weaving-in). **Weaver–Thread relation — LOCKED 2026-07-24:** **polite blindness** toward the **Harbor Thread** — the Net would ignore it entirely if corridors allowed; uses Thread routes and **front-post** sorting without credit or house record.
 
@@ -540,7 +540,7 @@ Three ironies, all load-bearing:
 | Volume | Public read of Eli | On-page pressure |
 |---|---|---|
 | **I** | Useful, hunted, "on someone's ledger" | Babaji/name offers; **Wren's manifest**; **Malacca thread leap**; Thailand *land is reading* |
-| **II** | Healer-king, **Deiwos**, **twins rumor** | Chalk doors; distorted healing outruns; *sons of Deiwos*; Somchai's hard no Ch 18; Sol mirror; **Rootbook / Sanxingdui leaps** read as oracle |
+| **II** | Healer-king, **Deiwos**, **twins rumor** | Chalk doors; distorted healing outruns; *sons of Deiwos*; Somchai's hard no Ch 18; Sol mirror; **Maren's field notebook / Sanxingdui leaps** read as oracle |
 | **III** | **Messiah by default** — chosen, sky-son, indispensable | Pilgrims/media; throne offer; war coordination; **Pele dream**, talking stones; bounded crown; attempted handover attacked |
 | **IV** | **Ruler by continuity** — temporary becoming court and bloodline | Pregnancy/heir myth; Weaver/cloister power; court delay; relinquishment during birth |
 
@@ -606,7 +606,7 @@ Avebury/Albion → Maren release.
 - **Anthea** full-res; Rollright / Men-an-Tol corridor; Sídhe mound recovery; rowan before iron; Wren/Rowan romance renews after changed conduct and disclosure (Ch 20).
 - **Cuno** full-res; **Alba → elf** name beat; England ambush; **relational Manual Override** + **Maren release**; plural denouement names Wren/Rowan and Wren/Eli separately (Ch 21 — **Book II climax**).
 
-**Resolution:** Derw fragments + Rootbook linguistics + living network → Albion; Alba/Elf/Elves etymology locks the endpoint.
+**Resolution:** Derw fragments + Maren's field notebook linguistics + living network → Albion; Alba/Elf/Elves etymology locks the endpoint.
 
 ### Priority 2 — RESOLVED (#7–#10 locked in `99`)
 - **#7** Sanxingdui extraction—Book I; Göbekli race—Book II.
@@ -669,7 +669,7 @@ Rollright, Men-an-Tol, and Stonehenge then lead to Avebury.
 ## Plot developments that cross all four volumes
 
 ### Clue trail
-- **One clue at a time** — witness → archive polarity → wrong agricultural lead → forming line → Rootbook Alba/Elf etymology → Albion convergence.
+- **One clue at a time** — witness → archive polarity → wrong agricultural lead → forming line → Maren's field notebook Alba/Elf etymology → Albion convergence.
 - **Planted/false clues** required (Vol I wrong lead; ring lure from #1).
 - **Community knowledge** survives when Eli's evidence doesn't (Thailand's
   redundant records + Sanxingdui conservation labor).

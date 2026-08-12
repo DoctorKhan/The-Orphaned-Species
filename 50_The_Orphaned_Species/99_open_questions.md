@@ -64,7 +64,7 @@ family shape and records the *why*, so the count stops being relitigated:
 - **Egypt placement — LOCKED 2026-08-01:** Book II brief Turning or Ch 2 packet only (god-king BAC-survivor trap; contested Mesopotamia→pharaoh claim). Book III Mandate-face only. Never a volume open. `32`, `33`, `61`, `23`.
 - **Phantom god-perception / correct worship — LOCKED 2026-08-01:** capture = perceiving absent gods as domestication remote collar. **Correct worship** = robot (ego) submits to Player (consciousness) — spiritual payoff in **V–X**, not I–IV sermon. Book II seed; Book III civic diagnosis; V–X mature liturgy. `17` §9a; `40`; `SERIES_STRUCTURE.md`.
 - **Book II location contraction — LOCKED 2026-08-01:** ~6–7 body-arrivals; contract travel not jobs; church ⊂ Pömmelte; Rollright+Men-an-Tol one corridor; Anglesey threshold not tour; Stonehenge→Avebury one climax run. `32`, `61`.
-- **Book II delivery package — LOCKED 2026-08-01:** mother Clock A every chapter + dual-clock card; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Anika/Custodian pressure carries instrument function); Sol at Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers wired (chase grammar, people spine, hearth/*flow*, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Rootbook correction, Somchai hard no → late Ch 9); V–X frozen until I–IV meals. `32` header; `55` Book II dual-clock map.
+- **Book II delivery package — LOCKED 2026-08-01:** mother Clock A every chapter + dual-clock card; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Anika/Custodian pressure carries instrument function); Sol at Extra settlement; Ch 8 one-way Maren contact; term budget; contraction cut-list; antagonist face-per-stretch; gap-fillers wired (chase grammar, people spine, hearth/*flow*, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Maren's field notebook correction, Somchai hard no → late Ch 9); V–X frozen until I–IV meals. `32` header; `55` Book II dual-clock map.
 - **Vol II drafting:** `55` § *Book II — chapter-by-chapter pitch audit* + `32_volume_II_beatsheet.md` chapter cards.
 - **Vol III drafting:** `55` § *Book III — chapter-by-chapter pitch audit* + `33_volume_III_beatsheet.md` chapter cards.
 - **Agent/back-cover copy** lives in `55` — do not drift from locked motor or win condition.
@@ -85,7 +85,7 @@ Do not solve thin pressure by adding more lore. Solve it by deciding who wants w
 
 **Deep-time residue density — LOCKED 2026-08-30:** The Master Timeline is larger than four novels. Embody more of it through **fossils in rooms** (~one residue every 1–2 chapters: object / place / practice / saying / bureaucratic form / bodily reaction), not Phase lectures. Ancient faces: **I** living plants/Sanxingdui tree · **II** Sídhe/Göbekli/Folly · **III** Forks+Loop+Umul · **IV** court as fossil temple. Per-chapter 5-question test in `17_reveal_order_and_reader_impact.md` § *Deep-time residue density*. Wired into `31`/`32`/`33`/`60`; Book I Ch 1–3 manuscript seeded 2026-07-30; **Book I Ch 5–13 + Book II Ch 1–2/6 residue prose pass 2026-07-30** (full chapter residue lines now on beatsheets).
 
-**Rootbook word-web prose pass — DRAFT-ALERT 2026-08-06:** The comparative cipher, reader apprenticeship track, and philological beats are locked in `52_the_rootbook_word_web.md` and `charkha-craft-lock.md`, but most have no manuscript coverage. Required prose landing per volume:
+**Maren's field notebook word-web prose pass — DRAFT-ALERT 2026-08-06:** The comparative cipher, reader apprenticeship track, and philological beats are locked in `52_maren_holts_field_notebook.md` and `charkha-craft-lock.md`, but most have no manuscript coverage. Required prose landing per volume:
 - **Book II:** *népoth₁e* / "sky-children" first bounded unlock; Eli/El/Asherah name-line marginal note; Charkha artifact (spoked wheel on stone tablet) as organization relic; reader sees recurring word forms before reconstruction lands.
 - **Book III:** *népoth₁e* capstone as series-title decode; Divine Twins rumor + St. Elmo's fire maritime texture; Brazilian teahouse triple-register as reciprocal-circuit embryo; Maren's full error/correction/redaction set.
 - **All volumes:** reader-facing cognate puzzle must have enough recurring forms on-page to attempt the relationship before each answer lands (`52` § *The comparative cipher*, `17` § *Expertise fantasy*).
@@ -149,7 +149,7 @@ The world is not at peace. “Post-war” in legacy notes means after WWIII's ho
 
 **Reciprocal checks / Mandate vigilance — LOCKED 2026-07-21:** The Tree of Life checks the Tree of Knowledge; Knowledge checks Life; people check both and one another; embodied and technical reality also check human authority. Every consequential decision requires embodied, technical, and relational accounts. The Mandate's catastrophe-vigilance system has prevented real biological releases and is retained in bounded form: warning is not guilt, thought is never punishable, and intervention requires corroboration, proportionality, transparency, expiry, review, remedy, and appeal. Book III shows this competence saving lives on-page. Full canon: `22_life_technology_and_two_trees_spine.md`, `33_volume_III_beatsheet.md`, and `51_field_sail_and_mandate_peace.md`.
 
-**Maren's Rootbook / Word-Web — LOCKED 2026-07-21:** Maren leaves an encoded comparative field journal combining personal notes, linguistic reconstruction, branching diagrams, charged-ground observations, and scientific measurements. The ring and Hassan remain the human inciting trail; the journal enters afterward. Regular sound and script transformations open only bounded sections, and the route still depends on independent witnesses, communities, artifacts, measurements, errors, and corrections. Book I opens name/step; Book II develops knowing/kinship and exposes Maren's complicity; Book III uses Sanxingdui to break the Indo-European tree into the older living mesh and carries the continuity-through-transformation insight into the jointly completed field sail. The journal is unfinished, collectively annotated, and not a prophecy or master itinerary. Exact Bengali title/romanization remains under review. Full canon: `52_the_rootbook_word_web.md`.
+**Maren's field notebook / Word-Web — LOCKED 2026-07-21:** Maren leaves an encoded comparative field journal combining personal notes, linguistic reconstruction, branching diagrams, charged-ground observations, and scientific measurements. The ring and Hassan remain the human inciting trail; the journal enters afterward. Regular sound and script transformations open only bounded sections, and the route still depends on independent witnesses, communities, artifacts, measurements, errors, and corrections. Book I opens name/step; Book II develops knowing/kinship and exposes Maren's complicity; Book III uses Sanxingdui to break the Indo-European tree into the older living mesh and carries the continuity-through-transformation insight into the jointly completed field sail. The journal is unfinished, collectively annotated, and not a prophecy or master itinerary. Exact Bengali title/romanization remains under review. Full canon: `52_maren_holts_field_notebook.md`.
 
 ### World War ↔ Psion War — LOCKED
 
@@ -358,7 +358,7 @@ female majority*.
   **“Same soil”** was Rasel's phrase for two origins making one home. Maren had it
   engraved inside as her answer. **Intimate first, concordance second:** Book I
   reads father, garden, and home. In Book II, Hassan reveals that Maren recognized
-  the ring and used the phrase as a bounded Rootbook earth/soil index. It is never
+  the ring and used the phrase as a bounded Maren's field notebook earth/soil index. It is never
   GPS or a decoder ring. Rasel gave the band to Hassan during transfer as proof for
   Eli; Hassan's later contact with Maren connects the two custody chains without
   changing ownership.
@@ -512,10 +512,10 @@ Full lock in `58_sanxingdui_climax_lock.md` and `31_volume_I_beatsheet.md`.
 
 - **Site:** Sanxingdui conservation and coupling complex.
 - **Race:** break the master-cadence apparatus while evacuating staff and reaching Rasel.
-- **Prize:** Rasel alive and the distributed Tree recognized through conservation divergence, Rootbook failure, and living cadence.
+- **Prize:** Rasel alive and the distributed Tree recognized through conservation divergence, Maren's field notebook failure, and living cadence.
 - **The choice:** one clean controlling rhythm versus consenting, mismatched people.
 - **The cost:** Wren signs the civilian evacuation in her real name and loses work, papers, house standing, and safe return; Qiao loses clearance. Nobody is captured.
-- **What survives → Vol II:** Rasel, the unfinished Rootbook, the Bosporus transfer code, and Wren's forced expansion beyond protected house work.
+- **What survives → Vol II:** Rasel, the unfinished Maren's field notebook, the Bosporus transfer code, and Wren's forced expansion beyond protected house work.
 
 **Thailand agricultural sequence (Ch 5–10) — LOCKED 2026-07-23:** **Present-day order:** mountain road → **Khun Dang** → wat → stilt-house → forming line, Ila, Malai, war on field. Childhood undisclosed. **Mekong retired.**
 
@@ -545,7 +545,7 @@ name, form spelling, and the only spelling used on the page — no character mis
 
 **Child separation — keeper protocol — REVISED AND LOCKED 2026-08-11:** for **claim-category** scientist families, a **child on the linked file** is a **beacon** (hostage, carrier-adjacent, classified inheritance, chase trigger). Maren and Rasel leave Eli at Mei's while they check the next route. Their interception misses him because he is absent. After they fail to return, Babaji files them as dead so Eli survives registry and bloc recall. One family, one net decision, one file lie. Eli's wound remains abandonment because he remembers their packed bags and does not know why they stayed away. Route: Mei → Somchai → Thailand corridor → **Eli Holt** on passport, detached from the claim household. Full lock: `40_concepts.md` § Child separation.
 
-**Ambiguous-loss reveal — Mei Friday dinner — REVISED AND LOCKED 2026-08-11:** Friday after the race, Mei turns the family photograph face-down. She tells Eli that his childhood holiday was a flight. His parents left him with her for one night, carried their travel bags toward the next guide, and never arrived. She witnessed no arrest and knows of no bodies. Babaji filed them as dead to close the search before it reached Eli. She supplies no document, Rootbook, or destination. Eli still leaves Saturday PM. Singapore proves Rasel survived into intake, and Thailand supplies the first current trace. **Retired:** certain-life reveal at dinner; witnessed vans; Rootbook at dinner; stairwell or pier reveal; Saturday/Sunday dawn departure.
+**Ambiguous-loss reveal — Mei Friday dinner — REVISED AND LOCKED 2026-08-11:** Friday after the race, Mei turns the family photograph face-down. She tells Eli that his childhood holiday was a flight. His parents left him with her for one night, carried their travel bags toward the next guide, and never arrived. She witnessed no arrest and knows of no bodies. Babaji filed them as dead to close the search before it reached Eli. She supplies no document, Maren's field notebook, or destination. Eli still leaves Saturday PM. Singapore proves Rasel survived into intake, and Thailand supplies the first current trace. **Retired:** certain-life reveal at dinner; witnessed vans; Maren's field notebook at dinner; stairwell or pier reveal; Saturday/Sunday dawn departure.
 
 **Parent rescue schedule — REVISED 2026-08-11:** Friday dinner removes proof of death without proving survival. Singapore establishes Rasel's historical survival; Thailand gives a current signal; Sanxingdui gives on-page reunion and confirms that both parents meant to return for Eli. Rasel also admits he was abducted and later stayed with the Mandate by choice. Maren's physical two-winters-old correction opens the Book II mother trail by asking Eli to hear why she stayed. Eli finds and releases Maren at Albion in Book II. Book III begins with both parent quests resolved and tests the world their discoveries create.
 
@@ -655,8 +655,8 @@ the Sanxingdui camera gap; and the precise limits of Rasel's Mandate work.
 | Retired function | Now carried by |
 |---|---|
 | Post-breach measurement / *door off its hinges* | **The courier** — she calls it a threshold episode and is **wrong**, and no authority corrects her. Eli carries the wrong label until Thailand. |
-| Recognizing Maren's hand on the Rootbook wafer | **Eli.** He knows his mother's handwriting; the wafer's provenance is the keeper net. |
-| Rootbook cognate work | **Eli**, wrong first, **corrected by living communities** (`52`) — the locked design, now with no scholar shortcut. |
+| Recognizing Maren's hand on Maren's field notebook wafer | **Eli.** He knows his mother's handwriting; the wafer's provenance is the keeper net. |
+| Maren's field notebook cognate work | **Eli**, wrong first, **corrected by living communities** (`52`) — the locked design, now with no scholar shortcut. |
 | Three Circles provenance / *provisional* discipline | **Babaji** hands it over before departure; the caution is the keeper net's, not a scholar's. |
 | Bait vs. real anomaly (Thailand) | **Eli**, confirmed by **Wren** — an operator's read on what a trap looks like. |
 | Band measurement, polarity series, instrumentation | **Malai and the cooperative** — their own record of their own miracle, their grid, their photocopies. |

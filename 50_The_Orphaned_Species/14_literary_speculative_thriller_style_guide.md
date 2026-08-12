@@ -96,6 +96,8 @@ Before drafting a scene an antagonist governs, establish:
 - something the antagonist visibly loses to Eli's side;
 - a moment where their conduct fits the villain reading and the defensible reading equally well.
 
+**Exception — field-operator blankness (bounded):** one Custodian-class field operator per volume may lack a voiced sympathetic desire. Immediate want and visible loss remain procedural; Eli's misreading of the operator's conduct is the dramatic function. This exemption does not apply to Lang, Sol, or any institutional architect.
+
 Character interiority below carries the general principle against reducing antagonists to ideas. This turns it into a checklist applied scene by scene. A scene fails it when the antagonist's only function is demonstrating that they are wrong.
 
 ## The three prose gears
@@ -226,7 +228,7 @@ Borrow the *Silo* lesson without borrowing the dystopia: **the place is a plot e
 | **The tell / archive** | Mound strata + shrine crown | Courtroom pressure; chalk dust; cold tea | Contested plaque, photocopy packet, date stacks | *One ancient wound / one sermon* — separate dials; lacuna invites forgery |
 | **Göbekli** | Hill + fox pillar + sealed door | Limestone rain; hill ringing; door lean | Consortium slides, backfill clock, tourist rope | *Civilization as payroll / ownable past* — gathering first; burial as keeping |
 
-**Mappings (Silo → series):** spiral stair → **(1)** Singapore Thread / Circles (body→kin→machine); **(2)** Singapore **mall atriums as literal silos** (sealed cylinder, spiral escalators, level = class); **(3)** Thailand **Pai–Chiang Mai hairpin road** as lived outdoor stair; forbidden curiosity → Rootbook / sealed enclosure / don’t fill the lacuna; cleaning theater → registry arches, Circuit, consortium presentation; mechanical hum → Cube floor-song, tell pressure, hill ringing. Do **not** name *Silo* on-page — stage the geometry.
+**Mappings (Silo → series):** spiral stair → **(1)** Singapore Thread / Circles (body→kin→machine); **(2)** Singapore **mall atriums as literal silos** (sealed cylinder, spiral escalators, level = class); **(3)** Thailand **Pai–Chiang Mai hairpin road** as lived outdoor stair; forbidden curiosity → Maren's field notebook / sealed enclosure / don’t fill the lacuna; cleaning theater → registry arches, Circuit, consortium presentation; mechanical hum → Cube floor-song, tell pressure, hill ringing. Do **not** name *Silo* on-page — stage the geometry.
 
 **Body score — anti-parade (LOCKED 2026-07-26):** sound/motion seeds in Book I
 (Cube too-clean clap; Malacca unfinished clap; wat shared heel-to-toe count; Pai
@@ -309,6 +311,25 @@ Every book after the first will reunite a POV character with someone whose weigh
 4. **Behavior carries the history, not exposition.** A reach that goes further than it would for a stranger, a held breath, a name said differently — proof of relationship without a line of backstory.
 5. **Give it a beat, not a paragraph — but an actual beat.** One sentence the surrounding action isn't allowed to swallow is usually enough. Reunions embedded in fast physical sequences (extractions, escapes, combat) still need this held second; do not let logistics crowd it out entirely.
 
+### Dickinson-adjacent prose discipline — LOCKED 2026-08-11
+
+These rules borrow Dickinson's compression without importing her lyricism. The goal is not poetry; it is prose that lets the reader feel what the narration withholds.
+
+- **Eli's dash-self-deception — Volume II.** When Eli is lying to himself, let the narration show the hesitation before the comfortable conclusion. Insert a dash where a qualifying clause would "fix" the lie. The reader should feel the revision happen, not be handed the correct interpretation.
+- **Maren's fragment-under-load.** Her wired speech should use Dickinson-style dash-fragments; full sentences only when she chooses them. The one-two watering count is already this rhythm. Lock it: fragment under load, plain only when she exerts control.
+- **Grey's charged silence.** The bounded blank operator's silence is not empty. The reader fills it with fear, not the text with motive. Do not narrate his interior, do not explain his conduct, do not have another character decode him for Eli. His function is the gap Eli cannot stop labeling.
+- **Domestic anchor, no recap.** Cross-book recognition beats already require one concrete image. Dickinson precision tightens this: a burned toast smell, a ring on a console, a watering count — no exposition about what it meant last time. The body remembers; the narration need not remind it.
+
+### Hemingway-adjacent prose discipline — LOCKED 2026-08-11
+
+These rules borrow Hemingway's restraint without importing his machismo or war register. The goal is not minimalism for its own sake; it is prose that earns its weight through what it shows and what it leaves out.
+
+- **Iceberg under pressure.** In danger, grief, or exhaustion, state only the observable action. Let the emotional mass sit below the surface. The reader should feel the weight of what is not said.
+- **Concrete detail does the moral work.** A wet glass, a wound, a stopped watch can carry the feeling a paragraph of abstraction would dilute. Prefer the object to the emotion it stands for.
+- **Short declarative sentences under load.** When the body is under pressure, the prose should compress. Do not elaborate what the character cannot afford to think.
+- **Dialogue that skips the question.** The strongest reply answers a different question in the room — a chore, a complaint, a logistics detail — while the real answer sits in what didn't get said.
+- **No abstraction without a body.** Grace under pressure is not a theme to announce. It appears in what a character does while bleeding, waiting, or holding still.
+
 ## Thriller structure at scene level
 
 Every scene should alter at least one of these:
@@ -375,6 +396,8 @@ Do not make the novel carry the explanatory duties of the Companions or Record.
 - Use em dashes deliberately; do not make every qualification an interruption.
 - Reserve italics for direct thought, remembered language, foreign terms when needed, or rare emphasis.
 - Avoid repeated rhetorical templates, especially tricolons, oppositional aphorisms, and “not X but Y.” Their force declines quickly.
+- **Dickinson model: compression over qualification.** When a character is avoiding the truth, let the prose avoid it too. A dash, a fragment, a withheld word can be more accurate than a well-formed sentence that resolves the tension too early.
+- **Hemingway model: observable action only.** In danger, grief, or exhaustion, state what can be seen and heard. Let the emotional mass sit below the surface. Prefer the concrete detail to the abstraction it carries; a wet glass, a wound, a stopped watch can do the moral work of a paragraph of explanation.
 - Trust a strong final image or action. Do not append its interpretation.
 
 ### Prose sound and the read-aloud test — LOCKED 2026-08-11

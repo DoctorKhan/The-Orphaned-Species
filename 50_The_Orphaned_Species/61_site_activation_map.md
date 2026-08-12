@@ -44,7 +44,7 @@ Fill one card per beat before expanding prose:
 2. **One new named concept per chapter** (`55` item 15).
 3. **Payoff in 1–3 chapters** — not “wait for Book IV.”
 4. **Finding ≠ full immersion.** Dream/descent only when site + pressure + route change demand it (`35`, `36` §8).
-5. **Rootbook is matrix, not master key** (`52`). It opens a door; the site corroborates or corrects.
+5. **Maren's field notebook is matrix, not master key** (`52`). It opens a door; the site corroborates or corrects.
 
 ---
 
@@ -169,7 +169,7 @@ When you assign one: add a row to the volume table above and a card from the rec
 | Emotional reveal order | `17_reveal_order_and_reader_impact.md` |
 | Pitch / dual clocks / term density | `55_series_pitch_and_comps.md` |
 | Chronology (author only) | `00_MASTER_TIMELINE.md` |
-| Rootbook | `52_the_rootbook_word_web.md` |
+| Maren's field notebook | `52_maren_holts_field_notebook.md` |
 | Living web / when descents allowed | `36_the_living_web.md` |
 | Volume beats | `31` `32` `33` `60` |
 | Manuscripts | `manuscripts/` |

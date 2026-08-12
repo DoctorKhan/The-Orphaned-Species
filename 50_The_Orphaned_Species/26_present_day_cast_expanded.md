@@ -561,7 +561,7 @@ reads **“same soil”**—Rasel's phrase for two origins making one home, engr
 Maren as her answer. A Mandate intake frame shows Rasel's scarred hand and the ring
 in an evidence tray. Rasel later gives it to Hassan during transfer as proof for
 Eli. Hassan subsequently crosses Maren's custody chain; she recognizes the band
-and links the inscription to a bounded Rootbook index. **Three-Circles rhyme:** the
+and links the inscription to a bounded Maren's field notebook index. **Three-Circles rhyme:** the
 ring is the middle ring made portable, never a piece of the tablet.
 
 **Why he helps:** guilt + genuine need to tell a boy what happened; doesn't know the Charkha is using him as a lure until late Act I (or knows and hates it — pick at draft).

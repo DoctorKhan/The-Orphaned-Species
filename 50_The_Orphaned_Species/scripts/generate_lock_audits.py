@@ -30,7 +30,7 @@ BOOKS = {
             "The Forming Line (Thailand cooperative / Wren POV second half)",
             "Ila's Hands (Thailand cooperative / ground-read cost)",
             "Two Teams (Thailand cooperative / civilian-first choice)",
-            "People Over Evidence (Thailand cooperative / Rootbook physical)",
+            "People Over Evidence (Thailand cooperative / Maren's field notebook physical)",
             "Human Doors (Thailand → Laos closed → Vietnam detour → Sichuan)",
             "The Tree with No Top (Sanxingdui / Bronze Sacred Tree)",
             "The Living Route (Sanxingdui greenhouse / Rasel reunion / Wren cost)",
@@ -191,7 +191,7 @@ def generate_audit(book_key):
         lines.append("2. Hawaiʻi/Pele and Brazilian municipality research consultations still required before final prose.")
     elif book_key == "I":
         lines.append("1. Laos/Vietnam detour prose integrated 2026-07-29; verify manuscript Ch 11 matches locked route.")
-        lines.append("2. Rootbook physical (`Shabdajal`) custody and onward seal under seal — verify Ch 10 prose matches lock.")
+        lines.append("2. Maren's field notebook physical (`Shabdajal`) custody and onward seal under seal — verify Ch 10 prose matches lock.")
     elif book_key == "II":
         lines.append("1. Pömmelte/Albion climax staging — verify Ch 6–10 manuscript matches locked sequence.")
         lines.append("2. Delphi/Delphic Games / Laurel Cube contact — verify Ch 4 prose matches cube-grounded visionary threshold lock.")
