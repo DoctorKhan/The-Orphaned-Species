@@ -221,9 +221,9 @@ child in truth."
 one Rasel used when he called him in from the garden. "I am telling you now
 because tomorrow night you sail on Suresh's boat. Cash in hand. The harbor
 office has started matching passenger lists to old intake files. Two boats were
-turned back this week. The strait is closing, Eli. You have to leave."
+turned back this week. The strait is closing, Eli. You were leaving anyway, but now it might close behind you."
 
-She softens one more inch—kitchen warmth, not a lead. "Your mother had work up the strait sometimes. Singapore. Once she brought you along as a baby—came back talking about glass and trees that never dropped their flowers. I don't know more than that. She was tired and happy and she wanted you to see something pretty." She shrugs, as if the detail is only color for the grief. "Eat. Don't make a map of my leftovers."
+She softens one more inch—kitchen warmth, not a lead. "Your mother had work up the strait sometimes. Meridian City; 'Singapore' as she called it. Once she brought you along as a baby—came back talking about glass and trees that never dropped their flowers. I don't know more than that. She was tired and happy and she wanted you to see something pretty." She shrugs, as if the detail is only color for the grief. "Eat. Don't make a map of my leftovers."
 
 He files it under nothing useful—pretty glass, a city he is already sailing toward for cash—and does not ask. Mei would not have an answer if he did.
 
