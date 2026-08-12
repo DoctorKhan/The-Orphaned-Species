@@ -1529,7 +1529,7 @@ Before the first sluice, Eli keeps the promise he made at the stone.
 
 Malai studies him the way she studies a gauge.
 
-"Huh," she says. "Finally a team that leads with the paperwork *and* the apology." A beat. "Logs first. Then the field. If your boxes make my people a target faster than the band already does, you leave with nothing but the photograph I already took."
+"Huh," she says. "Finally a team that leads with the paperwork *and* the apology." She looks him over once, head to boots, before she goes on. "Logs first. Then the field. If your boxes make my people a target faster than the band already does, you leave with nothing but the photograph I already took."
 
 "Third team this monsoon," she adds over her shoulder, conversationally, the way you'd remark on mosquitoes. "First ones had church money and wanted the rice to be a miracle. Second ones had no faces—company men—and wanted soil rights. Now you." She stops at a sluice gate, frowns at it, and slaps its housing once, hard, like a coworker caught sleeping. The gate thunks obediently into its seat. "So. What do you want the rice to be?"
 

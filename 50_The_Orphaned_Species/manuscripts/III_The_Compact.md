@@ -6233,8 +6233,10 @@ Jalen by audio, and six men who disagree about almost every political question.
 
 They ask Eli to help found them.
 
-"Keeping-order," the elder says. "Repair. Watch. Care. Restraint. Grief.
-Appeal. A place a man can remain when no household chooses him."
+"Call it a keeping-order if you need a name," the elder says. "A man comes in
+hurt, we put water on the burn before we ask what he did. If he leaves, we do
+not turn his absence into a verdict. If he stays, he learns the work and gets a
+say in it. A place a man can remain when no household chooses him."
 
 "Military?" asks a Union delegate.
 
