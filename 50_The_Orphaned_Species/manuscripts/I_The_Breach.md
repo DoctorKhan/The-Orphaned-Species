@@ -368,10 +368,6 @@ Pelangi Reach shrinks behind the marina wall. Wren stands beside Eli at the rail
 and says, quietly, "There's still an arch ahead. At each door, please follow my
 lead."
 
-Suresh's folded paper is still in his pocket. Mei's photograph is still face-down
-on her table, two hours and a boat behind him now. He does not know yet which
-door Wren means.
-
 ---
 
 ## Chapter Two—His Hand
@@ -472,8 +468,6 @@ He catches **one name** before Wren's hand is on his arm: **Malacca**, **Hassan*
 cannot tell which phrase belongs to which person. By the time he is in the
 document lane, he is reconstructing the overhear from half-heard fragments and
 his own hunger. Wren watches him do it and says nothing.
-back—**Malacca**, **Hassan**, **English woman**, **claimed physicist**—words
-without a frame yet. His face must be doing something he cannot see.
 
 "This is Singapore." Soft, final. "Past this desk I can't walk beside you." A beat—not hostess, not operator. "**I'm sorry.** I would if it were only paperwork."
 
