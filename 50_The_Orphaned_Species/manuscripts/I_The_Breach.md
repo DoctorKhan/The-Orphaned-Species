@@ -280,6 +280,8 @@ Babaji sits by a window with the drapes half-drawn, automatic chess paused mid-g
 
 She scans it on a tablet and signs before Eli's fingers close on the paper. Babaji's legal name where a sponsor goes. Rasel nowhere at all. She does not look at him while she works.
 
+Eli watches the blank space where Khan should sit. He said nothing about it last night either.
+
 A floorboard creaks in the stairwell. Babaji's head tilts toward it once, then
 back to Eli. "I run south before they walk the offices. You run on Suresh's hull
 the same hour—Saturday, last light. Different vessels. Don't miss your window
@@ -338,7 +340,9 @@ his eyes on the shoes of the man in front of him: dock boots, salt-stiffened
 laces, a toe cap worn through. A drone hangs over the water, slow as it knows
 it can be. The chit pings stack in his pocket and goes still. Every phone on
 the line has the same blank bar across the top. Remittance lane is the first
-lane that dies.
+lane that dies. Money stopped moving three phones back. Bodies still move, and
+only because a signature two hours old says these particular bodies are
+allowed to.
 
 Wren is at the gate with his name on a clipboard that is also a manifest.
 "Your attestation is attached." Soft, level—the voice that makes queues feel
@@ -349,9 +353,15 @@ She walks him to the gate—a woman in a royal vest with a tablet and four
 questions Wren has already answered on paper: where, how long, employer, health
 attestation. Wren speaks first. Eli repeats what she puts in his mouth—the
 cover, not the Cube. "Singapore. Forty-eight hours. Foundry contractor. Stage
-crew." His palms prickle once on the railing. Useless noise. Wren's hand stays
-flat on the clipboard until the stamp comes green. Essential corridor worker.
-The gate opens.
+crew." His palms prickle once on the railing. Useless noise against a screen.
+
+The status box holds on amber a half-second too long. Red is the line nobody
+named, the one Eli has not let himself look at since the marina gate. Green
+is Wren's whole plan holding, and Suresh's boat, and the tide. The officer's
+thumb moves once, unhurried, the way a hand moves that has made this exact
+motion a thousand times today and will make it a thousand more before her
+shift ends, and the box goes green. **Essential corridor worker.** The gate
+opens.
 
 Suresh presses a folded paper into Eli's palm at the rail—*chandlery, old town,
 ask once*—and keeps his eyes on the channel markers. Wren steps aboard ahead of
@@ -364,34 +374,8 @@ answers with a short nod at the helm. "Someone asked me to hold this for you,"
 Suresh says, meaning the chandlery paper. "Not for tonight—for if the corridor
 spits you out past Singapore." He casts off into the Johor channel.
 
-Eli takes the sheet line the way Suresh taught him on the dinghy—three wraps,
-not two—and makes himself useful without being asked. Suresh grunts approval
-once and does not look at him again, which is its own kind of blessing.
-
-At the stern, Suresh hums four notes and stops himself before the fifth—catches it the way a man catches a hand reaching for a hot pan—and goes flat, humming nothing at all. Eli doesn't know the tune well enough to miss it. Suresh does.
-
-Wren watches him do it. She does not correct anything, which is how he knows he did it right.
-
-She sits on the gunwale with the tablet dark for once. The engine note and the slap of water fill the space between them. Her shoulders lower half an inch. Eli notices because he has been watching her hold them level all day.
-
-A soft chime comes from the tablet in her bag. She ignores it. It chimes twice more. She reaches in and kills it with a thumb on the bezel.
-
-"You're staring," she says, without turning her head.
-
-"Don't flatter yourself. You've got sail rope on your collar."
-
-There is no rope. Wren's fingers touch her collar and stop. When her eyes return
-to his, color rises in her cheeks. He looks away first.
-
-She almost smiles—almost—and puts it away faster than she let it out, but not fast enough that he misses it.
-
-The pause runs a beat too long anyway. She looks back at the water and keeps her face there.
-
-"Keep whatever that was to yourself." Her voice does not change, which is its own answer. "I'm doing a job. That's the only room I have for you this week." A beat. "Don't make me say it twice."
-
-"You didn't have to say it the first time." He means it lighter than it lands.
-
-She does not answer that. She keeps her face toward the water.
+Eli makes himself useful without being asked. Suresh grunts approval once and
+does not look at him again, which is its own kind of blessing.
 
 He looks back at the old hotel, small now and going grey at the edges. Beside him, Wren's breathing settles. She leaves the space between them untouched.
 
