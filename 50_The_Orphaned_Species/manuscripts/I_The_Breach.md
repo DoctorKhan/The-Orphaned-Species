@@ -39,7 +39,7 @@ The skiff is flying.
 
 Eli leans out over the bright chop, one foot braced under the thwart, the sail pulling hard enough to make the rope sing in his fist. Kiran is half a length behind, shouting something the wind tears apart. Eli laughs anyway. The red buoy rushes toward them, spray cold against his shins. For a few seconds the race is rope, chop, and breath.
 
-At breakfast Mei had pushed his coffee across the counter. His phone lay beside it, Shireen's message still open: clinic Monday, deposit due. Mei had read it. "You win Suresh's race, he pays you Sunday. You lose, you tell your cousin why the money won't come. I have nothing to cover you."
+At breakfast Mei had pushed his coffee across the counter. His phone lay beside it, Shireen's message still open: clinic Monday, deposit due. The foundry had cut his hours again last week—three days, not five, and the roster for next week hadn't been posted. Mei had read the message. "You win Suresh's race, he pays you Sunday. You lose, you tell your cousin why the money won't come. I have nothing to cover you."
 
 The hull's vibration climbs into his thighs. He stops steering and lets the channel take him. Behind him Kiran is still shouting. Ahead, the strait opens past the storm wall.
 
@@ -93,25 +93,35 @@ For one stupid second he looks for them on the quay—the old reflex, cut off ye
 
 Kiran comes up the marina steps as Eli pulls in—Eli's arms burning, salt on his knees, the boat put away wrong in his hands; Kiran soaked to the scalp and carrying his pride like something else that will dry. Suresh takes Eli's line without ceremony. For a moment all three look out past Timah's boat—being towed back to the anchor by a harbor boy while Jul waves at no one in particular—to the open strait beyond the marks, still the thing that made the win feel like belonging for a breath. Suresh sees Eli looking and does not mock it. On the wall someone is already arguing in Bajau and Malay about whether the race owed Timah a clear mark or Timah owed the race a clear fairway. The argument is older than the towers. It will outlive the wager.
 
-"You won," Suresh says. "Don't blame the grandmother. You were in her way. It happened again."
+"You won," Suresh says. "Don't blame the grandmother. You were in her way."
 
-He studies Eli's face. "Your mother had that look once. Everything narrowed. I saw it when I taught her. What happens to you out there?"
+He studies Eli's face. "What happens to you out there? It happened to your mother sometimes. I saw it when I taught her. She said everything narrowed."
 
 The race leaves him clean and empty. He cannot say what happened out there, or whether the look Suresh saw belonged to Maren or to him.
 
 "I don't know."
 
-They make it to the end of the dock. He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "You won. The job is all yours. Remember, it's Circuit weekend in Singapore so it will be busy. Idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's hotel—papers, then you wait for the boat. Walk like you belong until something proves you don't." A beat. "Don't make me regret betting on you, boy."
+They make it to the end of the dock. He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "You won. The job is all yours. But remember, it's Circuit weekend in Singapore so it will be busy. You've got the idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's hotel—papers, then you wait for the boat. Walk like you belong until something proves you don't." A beat. "Don't make me regret betting on you, boy."
 
 Suresh crouches to coil the loose sheet. His thumb finds the frayed end. He runs it along the cut once. "That's not chew," he says. "That's not salt-rot either."
 
-He folds the end into his palm instead of the bin.
+He holds the frayed end up to the harbor light and runs his thumbnail along the clean edge. Harbor chew is ragged. Salt-rot is fuzzy. Then he turns it so Eli can see.
 
-Babaji runs the old hotel. He was Rasel's friend—how Eli's name ever reached a contractor ledger in the first place. This morning Eli has won the only cash job on the strait before he knew its name: not Foundry day-shift wages, but weekend show money in the Stack if he can get there. He understands, all at once, what he owes Shireen if Monday is real.
+"Look at that."
+
+Eli leans in. The cut is clean. Too clean.
+
+"You carry a blade?"
+
+Eli shakes his head.
+
+"Good," Suresh says. He folds the end into his palm instead of the bin.
+
+Babaji runs the old hotel. He was Rasel's friend—how Eli's name ever reached a contractor ledger in the first place. This morning Eli has won the only cash job on the strait before he knew its name: not Foundry day-shift wages, but weekend show money in the Stack if he can get there. The deposit alone would clear Shireen's clinic fee and leave enough to cover the tower room for another week. Without it, he goes back to counting days on the chit circle. He understands, all at once, what he owes Shireen if Monday is real.
 
 Suresh coils the skiff's painter at the rail. Eli goes up toward the towers—storm wall, tackle shed, the low waterfront the towers rose behind. He is not crew. Not one of the harbor men.
 
-Coconut palms lean over the storm wall where the developers never finished the shade plan; their fronds clatter like dry paper in the noon wind. Between the tackle shed and Mei's terrace a frangipani has forced itself through cracked paving—white flowers sticky underfoot, sweet enough to make the diesel smell worse. Bougainvillea climbs the unfinished balcony rails in magenta fists nobody waters. The half-built resort hums around him—laundry, generators, Mei's terrace already cooking. He sleeps in a tower room on Mei's chit circle when he sleeps indoors, not a wage he can send anywhere. The ninth-floor garden is Rasel's—kept for Babaji before the night both parents went on the file as dead.
+Coconut palms lean over the storm wall where the developers never finished the shade plan; their fronds clatter like dry paper in the noon wind. Between the tackle shed and Mei's terrace a frangipani has forced itself through cracked paving—white flowers sticky underfoot, sweet enough to make the diesel smell worse. Bougainvillea climbs the unfinished balcony rails in magenta fists nobody waters. The half-built resort hums around him—laundry, generators, Mei's terrace already cooking. He sleeps in a tower room on Mei's chit circle when he sleeps indoors, not a wage he can send anywhere. The ninth-floor garden was Rasel's—kept for Babaji before the night both parents went on the file as dead. Now it is the only thing on the island that belongs to Eli without a keeper's signature. He tends it by day. At night he sometimes sleeps on the bench beside the row. He has not decided whether that is love or a failure to let go. He blames himself for the morning they did not come back—not because he did anything wrong, but because the room where he woke was the same room he had fallen asleep in, and the only difference was that they were gone. The plants do not ask him to forgive. They only need water.
 
 He takes the service stairs because the lift smells like wet carpet and regret. On the landing he washes his hands at the slop sink until the race salt is gone, then doesn't—his father always said clean hands lie about soil.
 
@@ -142,7 +152,7 @@ His phone rings on the ninth-floor landing. Dhaka, Shireen. He steps into the se
 
 *Friday night.* Mei keeps a terrace table for both racers. Kiran, hair still stiff with salt, claims Timah reached up from the seabed and pulled his boat over. Eli asks how she did it without looking. By Kiran's third version the grandmother has a second curved knife between her teeth, and Eli is laughing hard enough to put his forehead against the table.
 
-Mei sets down two plates of nasi goreng. "If you drowned as often as you say, I would save money feeding you."
+Mei sets down two plates of nasi goreng. "If you drowned as often as you say, I would save money feeding you." She nods at his forearm, where the rope burn is already showing through the salt. "Suresh told me your sheet nearly let go. What happened out there?"
 
 She takes two green coconuts from the icebox and knocks the tops open with the back corner of her cleaver. Kiran looks from one to the other. "There was only one winner."
 
@@ -196,7 +206,8 @@ back for you."
 "Didn't come back from where."
 
 "I never asked where. They came after dinner with two bags and said one
-night. I believed them because it was easier."
+night. I believed them because it was easier. Suresh says your sheet frayed.
+Not chew. Not salt-rot. If something cut it, someone wanted you off that lane."
 
 "They left me here."
 
@@ -269,17 +280,24 @@ Babaji sits by a window with the drapes half-drawn, automatic chess paused mid-g
 
 She scans it on a tablet and signs before Eli's fingers close on the paper. Babaji's legal name where a sponsor goes. Rasel nowhere at all. She does not look at him while she works.
 
-"I run south before they walk the offices," Babaji says. "You run on Suresh's hull the same hour—Saturday, last light. Different vessels. Do not miss your window watching mine."
+A floorboard creaks in the stairwell. Babaji's head tilts toward it once, then
+back to Eli. "I run south before they walk the offices. You run on Suresh's hull
+the same hour—Saturday, last light. Different vessels. Don't miss your window
+watching mine."
 
-Wren slides a call sheet across—forty-eight hours, cash at intake, the worker lane
-and Sunday call already underlined. "Worker lane. Not the other line. Show call
-Sunday—concert first, race after. I'm with you through Singapore. Ask now. Ask
-again at the gate if you need to." A beat, flat as packing inventory: "When the
-crew breaks for the second set, wardrobe closet marked maintenance. Ninety
-seconds. Then you go back to cables." She does not explain. She does not look at
-him while she says it.
+Wren slides a call sheet across. The worker lane and Sunday call are underlined
+in blue, twice. "Worker lane. Not the other line. Show call Sunday—concert first,
+race after. I'm with you through Singapore. Ask now. Ask again at the gate if
+you need to." She lets him read it. Then, without looking up: "When the crew
+breaks for the second set, wardrobe closet marked maintenance. Ninety seconds.
+Then you go back to cables."
 
-Friday is still in Eli's chest—Mei's terrace, two travel bags going out through the door—and his hands won't stay still on the table edge.
+She does not explain.
+
+Friday is still in Eli's chest—Mei's terrace, two travel bags going out through
+the door—and his hands won't stay still on the table edge. The wallpaper here is
+the same pale water-stain pattern as Mei's kitchen. He presses his palm flat and
+the grain bites his skin.
 
 Wren sets tea between his hands. "You're not paying anyone back in this room."
 She returns to the tablet. "Eat something."
@@ -290,7 +308,7 @@ He folds both hands around the cup. Tea trembles against the rim.
 
 "He is," Wren says.
 
-The launch comes back. Halfway across the harbor Eli says, too loud, "They told me my father was dead."
+Wren takes him down through the boarded floors and out to a launch tied at the marina steps. She takes the tiller herself and points it back toward Mei's side of the reach. Halfway across the harbor Eli says, too loud, "They told me my father was dead."
 
 Wren keeps both hands on the tiller. Her knuckles whiten. One beat, then she
 resets. "Mei told you nobody saw him die."
@@ -302,19 +320,53 @@ resets. "Mei told you nobody saw him die."
 He doesn't know what to do with the sentence except carry it. He watches her
 hands return to ordinary control and understands the cost of keeping them there.
 
-At the pier he is already moving—Mei's service cable, junction after junction, faster than the work needs, as if speed could reach the morning his parents failed to come back. White hulls gather at the reach's edge before he closes the first box. By the second, a drone crosses the plaza: voluntary screening, bridge closed, shelter in place except essential corridor workers. It does not feel voluntary. Every phone loses its bars before the third. The chit pings stack, and stop. Remittance lane dead with them—nothing leaves Pelangi until somebody reopens the corridor.
+At the pier he is already moving—Mei's service cable, junction after junction,
+faster than the work needs, as if speed could reach the morning his parents
+failed to come back. White hulls gather at the reach's edge before he closes the
+first box. By the second, a drone crosses the plaza: voluntary screening, bridge
+closed, shelter in place except essential corridor workers. It does not feel
+voluntary. Every phone loses its bars before the third. Remittance lane dead
+with them—nothing leaves Pelangi until somebody reopens the corridor. The
+channel south to Meridian City is the only route Wren's manifest says is still
+running, and it is running only because the paperwork says it must.
 
 ---
 
-*Saturday, last light.* Eli packs the tool roll—crimpers, testers, spare ties, the contractor lanyard Wren printed at the hotel—and goes down to the marina through Pelangi pretending to be a city. Drones work slow lines over the water. At the gate men hang lists: assembly points, screening schedules, cohorts. *Review.* Under it: *anomalous.* One sheet is already filled—names printed before the bodies arrived.
+*Saturday, last light.* The marina gate has two lines now. One is marked
+*worker*. The other is not marked, but everybody knows what it is. Eli keeps
+his eyes on the shoes of the man in front of him: dock boots, salt-stiffened
+laces, a toe cap worn through. A drone hangs over the water, slow as it knows
+it can be. The chit pings stack in his pocket and goes still. Every phone on
+the line has the same blank bar across the top. Remittance lane is the first
+lane that dies.
 
-Wren is at the marina stairs with his name on a clipboard that is also a manifest. "Your attestation is attached." Soft, level—the voice that makes queues feel temporary. "Worker lane, not cohort review. If we miss this tide, the second column is all that remains." Her eyes stay on the clipboard, where the lie is.
+Wren is at the gate with his name on a clipboard that is also a manifest.
+"Your attestation is attached." Soft, level—the voice that makes queues feel
+temporary. "Worker lane, not cohort review. If we miss this tide, the second
+column is all that remains." Her eyes stay on the clipboard, where the lie is.
 
-She walks him to the gate—a woman in a royal vest with a tablet and the same four questions Wren has already answered on paper: where, how long, employer, health attestation. Wren speaks first. Eli repeats what she puts in his mouth—the cover, not the Cube. "Singapore. Forty-eight hours. Foundry contractor. Stage crew." His palms prickle once on the railing. Useless noise. Wren's hand stays flat on the clipboard until the stamp comes green. Essential corridor worker. The gate opens.
+She walks him to the gate—a woman in a royal vest with a tablet and four
+questions Wren has already answered on paper: where, how long, employer, health
+attestation. Wren speaks first. Eli repeats what she puts in his mouth—the
+cover, not the Cube. "Singapore. Forty-eight hours. Foundry contractor. Stage
+crew." His palms prickle once on the railing. Useless noise. Wren's hand stays
+flat on the clipboard until the stamp comes green. Essential corridor worker.
+The gate opens.
 
-Suresh presses a folded paper into Eli's palm at the rail—*chandlery, old town, ask once*—and keeps his eyes on the channel markers. Wren steps aboard ahead of Eli, tablet under her arm, hostess poise collapsing into the boat's narrow deck without losing composure. Suresh does not greet her the way he would greet a harbor wife, and she does not wait for it—two people sharing a hull on old terms: no warmth spent, and none owed. When she moves past him to the rail he shifts his weight to give her the better footing without being asked. She answers with a short nod at the helm. "Someone asked me to hold this for you," Suresh says, meaning the chandlery paper. "Not for tonight—for if the corridor spits you out past Singapore." He casts off into the Johor channel.
+Suresh presses a folded paper into Eli's palm at the rail—*chandlery, old town,
+ask once*—and keeps his eyes on the channel markers. Wren steps aboard ahead of
+Eli, tablet under her arm, hostess poise collapsing into the boat's narrow deck
+without losing composure. Suresh does not greet her the way he would greet a
+harbor wife, and she does not wait for it—two people sharing a hull on old
+terms: no warmth spent, and none owed. When she moves past him to the rail he
+shifts his weight to give her the better footing without being asked. She
+answers with a short nod at the helm. "Someone asked me to hold this for you,"
+Suresh says, meaning the chandlery paper. "Not for tonight—for if the corridor
+spits you out past Singapore." He casts off into the Johor channel.
 
-Eli takes the sheet line the way Suresh taught him on the dinghy—three wraps, not two—and makes himself useful without being asked. Suresh grunts approval once and does not look at him again, which is its own kind of blessing.
+Eli takes the sheet line the way Suresh taught him on the dinghy—three wraps,
+not two—and makes himself useful without being asked. Suresh grunts approval
+once and does not look at him again, which is its own kind of blessing.
 
 At the stern, Suresh hums four notes and stops himself before the fifth—catches it the way a man catches a hand reaching for a hot pan—and goes flat, humming nothing at all. Eli doesn't know the tune well enough to miss it. Suresh does.
 
@@ -352,6 +404,12 @@ already gone. The road after his parents left is still blank. He wants it to
 open with a hunger that makes the Singapore cash feel obscene—distance from the
 only place that remembers them whole.
 
+His hands find the rail. They are still raw from the rope. Beside him Wren's
+breathing stops being ordinary—a shallow catch, then slower, as if she is
+deciding whether to speak or not to speak. She does not speak. She puts her hand
+on his forearm and leaves it there, the weight of a person who has watched a
+door close before and knows the sound it makes.
+
 Wren holds out water. He takes it because refusing would be another kind of
 performance.
 
@@ -376,7 +434,7 @@ lead."
 
 Suresh throttles down at the Johor shallows where a quarantine line strings the channel—floats, a screening pier, a grey cutter idling with its number painted out. A processing tender works the boat ahead: a ferry running half-full, passengers filed one by one through an arch, slow, each made to pause on a painted mark.
 
-So this is it, Eli thinks. Not one door—a corridor of them. Wren's jaw stays level. The keepers ran from a life measured in queues. It doesn't look like a war. It looks like paperwork with guns—the same appetite Pelangi hung on the marina wall six hours ago, wearing a different vest.
+Wren's jaw stays level. Eli counts the arches—one, then a second feeding into it—the same lists from the Pelangi marina wall six hours ago, printed on cleaner paper.
 
 His mother used to make him name the fear before they left a harbor—not to banish it, to **place** it. *That is the pier. That is the line. That is the man with the list.* Since Mei's terrace the habit has come back doubled: he does it now without moving his lips, and each name carries **Maren** behind it—walking out with her bag, gone after—the way a tune you can't stop humming sits under every other thought.
 
@@ -420,7 +478,7 @@ Leave one zone. Stand in the middle with no horizon. Enter the next. The air cha
 
 At the causeway hall—marble the color of cold milk, ceiling lights that flatter faces and cameras equally, soft music with no tune that makes panic feel impolite—a man in a demobilization coat lays a pump-repair certificate under the glass. The clerk turns a small sign toward him: **UNSPONSORED MALE / LOWER CONCOURSE**.
 
-"Extra lane," a woman behind Eli says, pulling her daughter closer.
+"Extra," a woman behind Eli says, pulling her daughter closer.
 
 The man hears. His shoulders rise, then settle. He picks up the certificate before security has a reason to pick it up for him and walks toward the down escalator. He has threatened no one. Two officers watch him as if the threat is merely late. The sign is new plastic over an older appetite: a place to put men the city no longer knows how to seat—valid skill, no receiving household, standing vacated and then refilled as danger. Eli does not have a name for that history. He only has the escalator going down.
 
@@ -574,11 +632,7 @@ The room answers in unison:
 
 *I alone possess nothing. I alone drift about,*
 
-"like someone without a home."
-
-*I alone seem foolish. My mind is empty.*
-
-"Other people are bright."
+"like someone without a home. Other people are bright."
 
 *I alone am dark.*
 
@@ -588,13 +642,13 @@ The room answers in unison:
 
 "Other people have a purpose."
 
-*I alone don't know. I drift like a wave on the ocean. I blow as aimless as the wind.*
+*I alone don't know.*
 
 Then the capstone, slower, once — not a performance, just the room finishing what it knows:
 
 *I am different from ordinary people. I am fed by the Great Mother.*
 
-They do not look at Eli. They are not showing off. It is something you say down here so the parade does not get all the way inside you — and Eli understands, hearing it, that the parade already has a piece of him.
+They do not look at Eli. They are not showing off. It is just something you say down here.
 
 This is the job he thought he won. Stage power, wardrobe uplink, afterparty load-in before Circuit night—the contract Wren attested before the sweep, before the wage ticket went into another man's file. Cover paper said Foundry stage crew so the corridor would open; the call sheet said Cube show. He was supposed to check in at the service gate **this morning** with a Foundry contractor lanyard and a name on a list. Instead he is coming up through the roots with grease on his hands, one night at Continue Inn behind him, and no ticket left to spend—an underdressed body in a city that only smiles at people who already belong.
 
