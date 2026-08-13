@@ -559,7 +559,7 @@ name, form spelling, and the only spelling used on the page — no character mis
 
 **Secondary role:** **keeper holdout** — cell refused flagged-carrier transfer; moved suppressed archive copy → **Mandate squeeze** (Ch 1). Personal power, not corporate PR.
 
-**Pelangi geography (companion lock):** **Pelangi Reach** = whole island; **Old Pelangi** = traditional half (fictional-Bali register); **Reclamation** = failed Forest City megaproject, now refuge; **Forest Foundry** = compound where Eli works. `WORLD_BIBLE.md` § Pelangi; `00` § Reclamation.
+**Pelangi geography (companion lock); "fictional-Bali register" retired 2026-08-13 — contradicted `05_story_architecture.md`'s and `WORLD_BIBLE.md`'s "not a mystical Bali replica" locks:** **Pelangi Reach** = whole island; **Old Pelangi** = traditional half, its own Bajau/Malay old-island culture, not a Bali stand-in — it *rhymes* with the communal water-and-craft logic Eli knew on Bali (`23_2040_present_frame.md`: "subak memory... rhymes here thematically") without being modeled on it, and Ch 1 now stages the distinction on-page: Suresh catches and corrects Eli's half-formed Bali comparison to Timah ("Not the same water... whatever you're about to compare her to"); **Reclamation** = failed Forest City megaproject, now refuge; **Forest Foundry** = compound where Eli works. `WORLD_BIBLE.md` § Pelangi; `00` § Reclamation.
 
 **Cross-ref:** `26` § Babaji; `31` Ch 1; `95` *Babaji*.
 
