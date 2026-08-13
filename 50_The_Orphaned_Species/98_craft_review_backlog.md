@@ -95,7 +95,7 @@
 
 **Evidence.** `99` #7 (formerly open); `31` Ch 13; `99` #6.
 
-**Resolution (LOCKED 2026-07-22; superseded 2026-07-26/27):** ~~The **sealed-interface race at Göbekli** — permit window, rival consortium, partial selection/control scar, Emrys error — is **Volume I climax**~~. **Current canon:** `58_sanxingdui_climax_lock.md` moves the Vol I climax to **Sanxingdui**; nobody is captured (Wren displaced, Qiao's clearance lost); Professor Emrys does not exist (`99_open_questions.md` §9). Göbekli is now a **Book II** counter-image site. The middle-volume clock this item was solving remains valid in substance: Vol II opens post-Sanxingdui with Rasel present and Wren displaced; its clock is **mother tether + Europe corridor + Maren release** (`32` Ch 5–10, current ten-chapter spine).
+**Resolution (LOCKED 2026-07-22; superseded 2026-07-26/27; Rasel absence corrected 2026-08-13 to match `58`'s 2026-08-11 revision):** ~~The **sealed-interface race at Göbekli** — permit window, rival consortium, partial selection/control scar, Emrys error — is **Volume I climax**~~. **Current canon:** `58_sanxingdui_climax_lock.md` moves the Vol I climax to **Sanxingdui**; nobody is captured (Wren displaced, Qiao's clearance lost); Professor Emrys does not exist (`99_open_questions.md` §9). Göbekli is now a **Book II** counter-image site. The middle-volume clock this item was solving remains valid in substance: Vol II opens post-Sanxingdui with Rasel **absent by choice** (`58` § *Open gap* — his absence is load-bearing, not a hole to patch) and Wren displaced; its clock is **mother tether + Europe corridor + Maren release** (`32` Ch 5–10, current ten-chapter spine).
 
 **Related:** `99` #7, #9; `58_sanxingdui_climax_lock.md`.
 

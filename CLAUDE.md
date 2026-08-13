@@ -1,5 +1,15 @@
 # The Orphaned Species — Agent Instructions
 
+## Document status taxonomy
+
+Use these states only. No other label is canonical.
+
+- **LOCKED** — canonical binding. Do not change without explicit override.
+- **STAGED** — provisional. You may propose changes, but preserve existing text until approval.
+- **OPEN** — actively draftable. Normal working state.
+
+When status is absent, assume **OPEN**.
+
 Read `SERIES_STRUCTURE.md` (repo root) first if unsure how many books this series has, what's in each one, or what a filename refers to — it is the authoritative volume map.
 
 ## Writing style — applies to every document, not just manuscript prose
