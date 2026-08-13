@@ -99,7 +99,7 @@ Avebury/Albion; Vol III Pelangi Reach + distributed federation.*
   nurse him through it, and the refuge becomes his precisely because it is also
   the place that kept him (`26` § Eli turn — bioweapon lock). Eli's day job is facilities work at Forest Foundry; Rasel's
   friendship with Babaji got him placement, not money. He earns the Singapore
-  Circuit contract by beating Kiran in the skiff race. His private core is his
+  Circuit contract when Suresh watches him hold a sabotaged line through a near-miss on the water. His private core is his
   presumed-dead father's garden, tended badly. Maren's line is involuntary
   reception; Rasel's is chosen craft Eli cannot master. The credible narrow clue
   is a Mandate intake frame showing **Rasel's hand and wedding ring**, routed to a

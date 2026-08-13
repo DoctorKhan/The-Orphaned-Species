@@ -1,32 +1,32 @@
 # Chapter One — The Hour That Belongs to No One
 
-> **File:** `DECISIONS_Chapter_One.md` (created 2026-07-25). **MERGED into `manuscripts/I_The_Breach.md` — the manuscript is governing.** This file is the decision record for **rev. Y** opening lock.
+> **File:** `DECISIONS_Chapter_One.md` (created 2026-07-25). **MERGED into `manuscripts/I_The_Breach.md` — the manuscript is governing.** This file is the decision record for **rev. Y** opening lock. **Race removed 2026-08-12** — see entries below; the manuscript's Friday AM beat is now a solo sail with a sabotaged sheet, not a race against Kiran.
 
 ## Spine — LOCKED rev. Y (2026-07-25)
 
 | When | Beat |
 |------|------|
-| **Friday AM** | Mei puts Shireen's clinic deposit in front of Eli at breakfast and makes the **morning skiff race** (10 o'clock) vs Kiran the only way to earn Sunday's cash; **Eli wins** — wind pocket, Timah/Jul harvest boat drifts into his line; Eli reads wall-shadow breeze from quay watching; Suresh crosses Kiran's name off the slate |
+| **Friday AM** | Mei puts Shireen's clinic deposit in front of Eli at breakfast and sends him out alone, Suresh watching from the wall to decide whether to trust him with Sunday's job; wind pocket, then a sabotaged sheet fails as Timah/Jul's harvest boat drifts into his line — Eli holds it; Kiran capsizes rushing to help; Suresh awards him the job on witnessed competence |
 | **Friday PM** | **Mei final dinner** on terrace — the family holiday was flight; his parents left him with Mei for one night, missed their rendezvous, and were filed as dead without a witness; **only send-off** (no second goodbye Saturday) |
-| **Saturday AM** | Babaji's **motor catamaran** at anchor — **first time Eli meets Wren**; papers, attestation, call sheet; *"I'm your handler through Singapore"* |
+| **Saturday AM** | Babaji's **hotel** (relocated 2026-08-07 from the catamaran, now reserved solely for Babaji's own Saturday PM southbound departure) — **first time Eli meets Wren**; papers, attestation, call sheet; *"I'm your handler through Singapore"* |
 | **Saturday PM** | Mandate squeeze → **Wren at marina stairs BEFORE checkpoint** → guides gate → boards Suresh → **raid on Babaji's hotel offices** as Eli departs **last light**; Babaji's catamaran runs south in parallel |
 
 ## Cast / object locks
 
 - **Priya Nair — RETIRED.** All Ch 1 attestation/cohort beats → **Wren**.
-- **Wren ≠ Mei.** No on-page overlap. Wren = Babaji's host/handler on **catamaran**; Mei = hearth + Friday dinner only.
-- **Babaji's boat:** **Massive motor catamaran** — twin hulls, wide bridge, twin outboards, stern platform, aft salon. **Not** lauan skiff / motoryacht.
+- **Wren ≠ Mei.** No on-page overlap. Wren = Babaji's host/handler, first meet at the **hotel** (relocated 2026-08-07); Mei = hearth + Friday dinner only.
+- **Babaji's boat:** **Massive motor catamaran** — twin hulls, wide bridge, twin outboards, stern platform, aft salon. **Not** lauan skiff / motoryacht. Now solely Babaji's own southbound departure vessel, staged in the Ch 1 raid beat; Eli and Wren never board it.
 - **Orphan reveal:** **Mei Friday dinner only.** Retired: stairwell reveal; Babaji on-page truth; second Mei goodbye; Saturday/Sunday dawn departure.
 - **No packet in Ch 1.** Cherry Cube call sheet + Wren attestation only.
 - **Checkpoint order:** Wren first at marina, **not** checkpoint before Wren.
 
 ## Draft choices — flagged for veto
 
-1. **⟦DC-1⟧ — REVISED 2026-08-11.** **Friday AM** race opens **mid-channel in medias res** (Eli vs Kiran; wind pocket → Timah/Jul → wall-shadow finish). Mei's breakfast ultimatum is carried into the opening page: Shireen's clinic deposit is due Monday, and Eli's race winnings are the only cash Mei knows he can send Sunday. Eli loses, Shireen waits; Mei cannot cover the deposit. Suresh holds the wager and offers the Singapore job and Saturday berth only after **Eli wins**. The harbor-office squeeze and orphan truth come at Friday dinner, before Eli knows he has to sail. **Two boats only. No dawn boat.**
+1. **⟦DC-1⟧ — REVISED 2026-08-11; race removed 2026-08-12.** **Friday AM** opens **mid-channel in medias res**, Eli sailing alone (wind pocket → sabotaged sheet → Timah/Jul near-miss → wall-shadow finish). Mei's breakfast ultimatum is carried into the opening page: Shireen's clinic deposit is due Monday, and whether Suresh trusts Eli with Sunday's job is the only cash Mei knows he can send. Suresh watches from the wall and offers the Singapore job and Saturday berth only after watching Eli hold a failing line through real danger. The harbor-office squeeze and orphan truth come at Friday dinner, before Eli knows he has to sail. **Two boats only. No dawn boat.**
 
-2. **⟦DC-2⟧ — REVISED AND LOCKED 2026-08-11.** **Mei dinner** opens with Eli and Kiran trading race notes; Kiran leaves before Mei turns the family photograph face-down. Mei leads with the harbor-office match and tells Eli he must take the Saturday boat. Eli asks about the old file. His questions uncover the false death entry and expose his childhood holiday as a flight: his parents left him with Mei for one night, carrying two bags and a promise to return. They never came back. Mei witnessed no arrest, did not ask where they were going, and has no proof of death; Babaji closed the file to sever Eli from the search. The physical Maren's field notebook first appears in Thai cooperative custody in Ch 10; Singapore/Malacca supplies damaged scans. **No Saturday service-door goodbye.**
+2. **⟦DC-2⟧ — REVISED AND LOCKED 2026-08-11; race removed 2026-08-12.** **Mei dinner** opens with Eli and Kiran trading notes on the morning's near-miss; Kiran leaves before Mei turns the family photograph face-down. Mei leads with the harbor-office match and tells Eli he must take the Saturday boat. Eli asks about the old file. His questions uncover the false death entry and expose his childhood holiday as a flight: his parents left him with Mei for one night, carrying two bags and a promise to return. They never came back. Mei witnessed no arrest, did not ask where they were going, and has no proof of death; Babaji closed the file to sever Eli from the search. The physical Maren's field notebook first appears in Thai cooperative custody in Ch 10; Singapore/Malacca supplies damaged scans. **No Saturday service-door goodbye.**
 
-3. **⟦DC-3⟧ — LOCKED rev. Y + craft 2026-07-29.** **Saturday AM catamaran** = first Wren meet. Handler line through Singapore. **Accelerated:** papers + attest + last-light window + grief line on launch; jurisdiction speech and tea-ledger beat compressed. Babaji texture without orphan exposition on Babaji's lips.
+3. **⟦DC-3⟧ — LOCKED rev. Y + craft 2026-07-29; relocated 2026-08-07.** **Saturday AM hotel** = first Wren meet (catamaran now reserved solely for Babaji's own southbound departure). Handler line through Singapore. **Accelerated:** papers + attest + last-light window + grief line on launch; jurisdiction speech and tea-ledger beat compressed. Babaji texture without orphan exposition on Babaji's lips.
 
 4. **⟦DC-4⟧ — LOCKED rev. Y.** **Saturday PM departure** during raid on Babaji hotel offices; hearth suspended; island locked down. Babaji catamaran south in parallel. **Last light**, not dawn.
 

@@ -137,7 +137,7 @@ To free his mother he must release his need for her innocence. To survive the aw
 
 On Pelangi Reach—a salvaged island district where glass towers depend on fishing
 villages for food, repair, and legitimacy—Eli Holt keeps his head down until a
-registry sweep and a lost race wager put him on a Cherry Cube call sheet and in the
+registry sweep and a sabotaged line on the water put him on a Cherry Cube call sheet and in the
 path of his father's ring. Malacca opens a dangerous receiver in him. Thailand
 teaches him that people, crops, breath, and disagreement can measure what no
 machine can own. At Sanxingdui, the Bronze Sacred Tree leads him to the father he

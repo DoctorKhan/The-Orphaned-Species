@@ -473,7 +473,7 @@ the operator demand.
 
 ## Kiran *(Pelangi Reach peer)*
 
-**Function:** Eli's ordinary peer bond before the quest; less-experienced skiff rival for the single Cherry Cube shift. Capsizes after a panicked turn, laughs about it with Eli at Mei's dinner, then leaves before the private orphan reveal.
+**Function:** Eli's ordinary peer bond before the quest. Capsizes rushing to help when Eli's sheet fails, laughs about it with Eli at Mei's dinner, then leaves before the private orphan reveal.
 
 **Texture:** competitive without resentment; turns embarrassment into an increasingly impossible story about Timah ambushing him from the seabed. Remains on Pelangi when the reach seals.
 
@@ -481,7 +481,7 @@ the operator demand.
 
 ## Suresh *(Pelangi Reach supply / boat)*
 
-**Function:** threshold guardian; **harbor Thread** contact; holds the **Eli-vs-Kiran skiff race wager** (winner → Cherry Cube manifest); experienced supply-boat captain and kitchen-network link to the Malacca clue.
+**Function:** threshold guardian; **harbor Thread** contact; watches Eli hold a sabotaged line through a near-miss and awards him the **Cherry Cube manifest** on witnessed competence; experienced supply-boat captain and kitchen-network link to the Malacca clue.
 
 **Past:** **family boat** before outbreak — rice and cousins, not heroes; **Iqbal** played music in ports until quarantine pickup.
 

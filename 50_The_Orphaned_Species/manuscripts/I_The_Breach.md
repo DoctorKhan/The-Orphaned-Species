@@ -8,7 +8,7 @@
 >
 > **Dreaming draft lock — 2026-08-01:** Eli's vivid dreams predate the Malacca breach, but Book I gives neither him nor the reader a settled supernatural explanation. The counting-doors dream remains plausibly trauma, exhaustion, bodily alarm, coincidence, or weak contact. Dreams leave sensory residue and uncertainty; they do not provide an itinerary, command, title, or immediately verified answer.
 
-> **Opening alignment—LOCKED 2026-07-26 (rev. Z); parent trail revised 2026-08-10:** **Ch 1**—**Friday AM** harbor skiff race (Kiran; Suresh holds wager)—**Eli wins** → earns **Cube Circuit-weekend show contract** (Sunday concert stage/wardrobe before Circuit race; Foundry sleeve = corridor cover); **Friday PM** Mei **dinner send-off / ambiguous-loss truth**; **Saturday AM** Babaji **hotel** (**first meet Wren**; cover vs job + second-set closet); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → **Sunday afternoon concert** → **Sunday night Circuit** escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. Malacca: **talents** (street = psionic ability; lowercase) **activate**, not trained (`95`). Cube grounding = **Maren**, not martial. **Ch 3** — aftermath through "I'm not going dark."
+> **Opening alignment—LOCKED 2026-07-26 (rev. Z); parent trail revised 2026-08-10; race removed 2026-08-12:** **Ch 1**—**Friday AM** solo sail, sabotaged sheet, near-miss with Timah/Jul's harvest boat, Kiran capsizes attempting rescue; Suresh awards the job for competence under real danger, not a wager win → earns **Cube Circuit-weekend show contract** (Sunday concert stage/wardrobe before Circuit race; Foundry sleeve = corridor cover); **Friday PM** Mei **dinner send-off / ambiguous-loss truth**; **Saturday AM** Babaji **hotel** (**first meet Wren**; cover vs job + second-set closet); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → **Sunday afternoon concert** → **Sunday night Circuit** escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. Malacca: **talents** (street = psionic ability; lowercase) **activate**, not trained (`95`). Cube grounding = **Maren**, not martial. **Ch 3** — aftermath through "I'm not going dark."
 > - **Ch 1 (below):** governing draft—**LOCKED rev. Y** (see opening alignment). Decision record: `DECISIONS_Chapter_One.md`.
 > - **Ch 2 (below):** governing draft—**LOCKED rev. Y:** Wren escort through **causeway hall**; wrong-room overhear; document clerk → **Saturday night Continue Inn** → **Sunday AM** Cube → convoy → Straits → Malacca breach.
 > - **Ch 3 (below):** governing draft, **merged 2026-07-22**—aftermath through "I'm not going dark." Decision record: `DECISIONS_Chapter_Three.md` flags.
@@ -37,37 +37,35 @@
 
 The skiff is flying.
 
-Eli leans out over the bright chop, one foot braced under the thwart, the sail pulling hard enough to make the rope sing in his fist. Kiran is half a length behind, shouting something the wind tears apart. Eli laughs anyway. The red buoy rushes toward them, spray cold against his shins. For a few seconds the race is rope, chop, and breath.
+Eli leans out over the bright chop, one foot braced under the thwart, the sail pulling hard enough to make the rope sing in his fist. Nobody chases him and nobody needs to. The red buoy off the storm wall is just the mark he rounds most mornings before the wind gets stupid with heat, out here alone because Suresh trusts him with a hull and the strait is emptiest at this hour. Spray cold against his shins, the channel wide open ahead—for a few seconds there is nothing to think about but rope, chop, and breath.
 
-At breakfast Mei had pushed his coffee across the counter. His phone lay beside it, Shireen's message still open: clinic Monday, deposit due. The foundry had cut his hours again last week—three days, not five, and the roster for next week hadn't been posted. Mei had read the message. "You win Suresh's race, he pays you Sunday. You lose, you tell your cousin why the money won't come. I have nothing to cover you."
+At breakfast Mei had pushed his coffee across the counter. His phone lay beside it, Shireen's message still open: clinic Monday, deposit due. The foundry had cut his hours again last week—three days, not five, and the roster for next week hadn't been posted. Mei had read the message over his shoulder. "Suresh has real work Sunday, if he decides you're the one for it. Go out. Let him watch you sail like it matters, because it does. I have nothing to cover you if he decides you're not."
 
-The hull's vibration climbs into his thighs. He stops steering and lets the channel take him. Behind him Kiran is still shouting. Ahead, the strait opens past the storm wall.
+The hull's vibration climbs into his thighs. Ahead, the strait opens past the storm wall, empty all the way to the shadow of the half-built towers.
 
 The wind dies.
 
-The sail collapses against the mast like something exhaling wrong. The hull drops off its plane so abruptly he nearly pitches forward. A second ago the channel was all noise and motion; now water slaps against the boards. Kiran glides past on the last of his momentum.
+The sail collapses against the mast like something exhaling wrong. The hull drops off its plane so abruptly he nearly pitches forward. A second ago the channel was all noise and motion; now water slaps against the boards, and up on the wall Suresh straightens from the nets he was mending, watching.
 
-Mid-channel pocket. Not good. The red buoy sits close enough to hate. Lose it and Kiran gets the job, the berth, and the last run Mei trusts to clear the harbor.
+Mid-channel pocket. Not good, not with someone deciding something about him from the wall. For a moment he panics. Then old instinct answers before thought does. *It's okay. There are always times like this. Just stay moving until the air comes back somewhere.*
 
-Kiran passes him, sailing as if pride could tow a hull. For a moment, he panics. Then old instinct answers before thought does. *It's okay. There are always times like this. Just stay moving until the air comes back somewhere.*
-
-He braces his knees, rope in one fist, the steering stick loose in the other, and rocks the skiff—pull, release, pull, release—forcing the patched sail to swallow whatever is left. Forward weight: a little glide. Back: almost none. Once the cloth swells and collapses. Twice. Again. His palm burns. Kiran does none of this, still trying to stare the buoy closer.
+He braces his knees, rope in one fist, the steering stick loose in the other, and rocks the skiff—pull, release, pull, release—forcing the patched sail to swallow whatever is left. Forward weight: a little glide. Back: almost none. Once the cloth swells and collapses. Twice. Again. His palm burns.
 
 *Feel the cloth, don't fight the air.* Suresh's hands over his on a borrowed tiller, years of mornings on this same fairway, dropping into Malay and back out again whenever the lesson really mattered, the words that weren't English always landing harder than the ones that were. *Feel it before you see it.* His voice, made him say it back until it was habit and not a rhyme, at first light on this same dinghy before the sun was even up. Suresh taught him everything he knows about wind and water—the pump, the placement, all of it; there was no one else on this stretch of coast who bothered. Alone on Pelangi he has only the stone, the fairway, and the memory of a gruff old man arguing with the wind as if wind were a person who could be known.
 
-Kiran leads but he is coasting to a stop. Eli is losing ground slowly—and buying time.
+He has nothing chasing him and nothing to chase, only dead air, a patched sail, and a man on the wall who has already decided to watch this through to the end.
 
-Eli keeps pumping, still inside the marks. He feels the air before he sees it: hairs lifting on his forearms, cold on his cheek. The breeze comes along the storm wall first, low and narrow. Better placement when it returns. Kiran finds it half a second later, already cutting hard to close the gap Eli just opened—and finds Timah's floats swinging into his water too. He doesn't give her the room Eli gave Jul. He hauls the tiller over, pinches too hard chasing the correction, and the boom slams across. His hull rolls out from under him with a smack loud enough to carry over the wall. He comes up soaked and swearing in his home tongue, already looking for the boat that put him there, then hauls himself aboard a length behind.
+Eli keeps pumping, still inside the marks. He feels the air before he sees it: hairs lifting on his forearms, cold on his cheek. The breeze comes along the storm wall first, low and narrow.
 
 The sail fills.
 
-And for one stolen breath—before strategy, before the buoy—the pocket opens into the real sea.
+And for one stolen breath—before thought catches up with him—the pocket opens into the real sea.
 
 Beyond the storm wall the strait goes wide and bright beneath the half-built towers. The hull hums under his knees. The patched cloth holds. Something in his chest opens with a stupid, clean joy. *This.* He stays on an island that will not claim him.
 
-He leans into it, small corrections with knees and hands. Do not look at the buoy yet—look at water and air. Break focus now and you break speed. Beyond the floats, Kiran's sail still hasn't found true wind. Eli runs the wall-shadow lane he has already chosen, carrying the open sea in his peripheral vision like a secret he is not supposed to need. Shorter, sheltered, the one advantage he has over a heavier boat and a better sailor. He has watched this lane every morning and never once seen it cost him anything.
+He leans into it, small corrections with knees and hands. Do not look at the buoy yet—look at water and air. Break the feel and you break the run. He holds the wall-shadow lane he chose an hour ago out of habit, carrying the open sea in his peripheral vision like a secret he is not supposed to need—a light hull can hold this water when the wind gets stupid with heat, and he has watched it every morning and never once seen it cost him anything.
 
-Then the water in it moves wrong.
+Then it moves wrong.
 
 An old woman kneels underwater at the bottom of the sea—Timah, the harvesters
 call her, though she answers to nothing shouted from the surface. She holds a
@@ -75,36 +73,38 @@ curved knife, cutting sea-grape stems into a net bag at her belt, the dark green
 clusters the old-island kitchens pickle and the Reclamation hotels pretend they
 invented. A boy drops from the bright surface, pushes off her back hard enough
 to send himself spiraling up through the bubbles—Jul, surfacing wherever the
-game takes him, with no more sense of the race than his grandmother has. Their
+game takes him, with no more sense of the morning than his grandmother has. Their
 harvest boat has drifted off its anchor, marker floats swinging into the exact
-lane Eli chose an hour ago and has been racing toward ever since. Old-island
+lane Eli chose an hour ago and has been running every day since. Old-island
 work if you know how to see it: shallow draft, patched where salt ate the
 paint, a plastic jug of fresh water lashed where a tourist would put a cooler.
-Timah reaches for a line she cannot see the race through.
+Timah reaches for a line she cannot see anything moving toward her through.
 
 "Clear the mark!" someone screams from the wall. Eli cannot tell, from here, whether it means Timah or him.
 
-The sheet jerks wrong against his fist in the same breath—give where there should be none, cordage answering slack instead of load. He doesn't look down; looking costs speed, and his palm already knows what his eyes would only confirm. A strand gone. Then a second, fraying faster than plain age has any right to.
+The sheet jerks wrong against his fist in the same breath—give where there should be none, cordage answering slack instead of load. He doesn't look down; looking costs time, and his palm already knows what his eyes would only confirm. A strand gone. Then a second, fraying faster than plain age has any right to.
 
 For one second the skiff stops being a thing he understands. Rope fails in one hand. Timah's hull fills the other side of the lane. Jul is about to surface.
 
-He can hold the lane and hope the boy stays under one breath longer, or spill wind and give the sea its foot of room. The rope frays while he decides. His heart slams high in his throat, the old alarm that used to count doors before he knew why. *Not here.* Shireen's deposit is due Monday. The bottom of the channel would end the race and the transfer with it.
+He can hold the lane and hope the boy stays under one breath longer, or spill wind and give the sea its foot of room. The rope frays while he decides. His heart slams high in his throat, the old alarm that used to count doors before he knew why. *Not here.* Shireen's deposit is due Monday. The bottom of the channel would end everything before the transfer ever started.
 
-He gives the sea its foot—eases off half a length he cannot afford—just as Jul breaks the surface exactly where the bow would have been. The boy laughs, spits water, waves at no one in particular, already turning back down before he understands he was ever in the way of anything. Eli does not have half a length left to spend on getting it back, so he spends the rope instead. He wraps the tail twice more around his knuckles and holds against the failing lay with nothing but grip and the flat of his forearm—forearm already burning, palm opening into a thin white line he will feel for days—betting the last threads outlast the buoy before his hand does.
+He gives the sea its foot—eases off half a length he cannot afford—just as Jul breaks the surface exactly where the bow would have been. The boy laughs, spits water, waves at no one in particular, already turning back down before he understands he was ever in the way of anything. Eli has nothing left to spend but grip, so he spends the rope instead. He wraps the tail twice more around his knuckles and holds against the failing lay with nothing but grip and the flat of his forearm—forearm already burning, palm opening into a thin white line he will feel for days—betting the last threads outlast his own hand.
 
 Suresh's voice from the wall: "Now! Hold it!"
 
-Race call and literal command land in the same breath. He holds rope and wind together and crosses a boat-length clear. Timah is still below the surface. Jul climbs onto her shoulders. Neither sees how close they came.
+Warning and command land in the same breath. He holds rope and wind together and clears the mark a boat-length wide. Timah is still below the surface. Jul climbs onto her shoulders. Neither sees how close they came.
 
-Behind him, Kiran hauls in a sail that never finds its wind again. Eli read the pocket, the wall, and the channel. The rest is rope burn and the foot of sea he gave back to a boy who never knew it was his.
+Somewhere behind him a second hull comes in too fast to matter now—Kiran, who saw the boom, the frayed line, the boy underwater, and put everything he had into closing the distance. He hauls the tiller over, pinches too hard chasing the correction, and the boom slams across. His hull rolls out from under him with a smack loud enough to carry over the wall. He comes up soaked and swearing in his home tongue, already looking for whoever's fault this was.
 
-For one stupid second he looks for them on the quay—the old reflex, cut off years ago and still not dead. His mother would have been at the rail with her hair coming loose from its tie, already reading the next shift before the boats tied up. His father would have pretended not to care who won, then pressed something green and living into his hand anyway, muttering about hands too lazy to grow anything worth eating. Neither is there. The win lands in his arms alone, salt and rope burn and the hollow where applause from your own people used to go—and under it, still, the sea's brief yes.
+Eli read the pocket, the wall, and the channel. The rest is rope burn and the foot of sea he gave back to a boy who never knew it was his.
+
+For one stupid second he looks for them on the quay—the old reflex, cut off years ago and still not dead. His mother would have been at the rail with her hair coming loose from its tie, already reading the next shift before the boats tied up. His father would have pretended not to have been watching at all, then pressed something green and living into his hand anyway, muttering about hands too lazy to grow anything worth eating. Neither is there. It lands in his arms alone, salt and rope burn and the hollow where praise from your own people used to go—and under it, still, the sea's brief yes.
 
 ---
 
 Kiran comes up the marina steps as Eli pulls in—Eli's arms burning, salt on his knees, the boat put away wrong in his hands. Kiran is soaked to the scalp and not laughing. He finds the harbor boy towing Timah's boat back to anchor before his own hull is properly tied, and crosses the dock toward her still dripping.
 
-"You put your floats in a raced lane." His voice carries over the wall. "You could have put us both in the water."
+"You put your floats in his lane." His voice carries over the wall. "You could have put us both in the water."
 
 Timah doesn't look up from coiling her line. Jul does, one hand finding her sleeve.
 
@@ -116,19 +116,19 @@ Timah doesn't look up from coiling her line. Jul does, one hand finding her slee
 
 Kiran's jaw works. For a second it looks like he'll push through the hand anyway. Then something goes out of him—the adrenaline, or just the shame of being held back in front of the whole dock—and he turns for the tackle shed without another word.
 
-On the wall, someone is already retelling it in Bajau and Malay, the argument older than the towers. It will outlive tonight's wager either way.
+On the wall, someone is already retelling it in Bajau and Malay, the argument older than the towers. It will outlive whatever anyone remembers about this morning by dinner.
 
-Suresh takes Eli's line without ceremony. For a moment the two of them look out past Timah's boat, safely under tow now, to the open strait beyond the marks—still the thing that made the win feel like belonging for a breath. Suresh sees Eli looking and does not mock it.
+Suresh takes Eli's line without ceremony. For a moment the two of them look out past Timah's boat, safely under tow now, to the open strait beyond the marks—still the thing that made the morning feel like belonging for a breath. Suresh sees Eli looking and does not mock it.
 
-"You won," Suresh says.
+"That's what I needed to see," Suresh says.
 
 He studies Eli's face. "What happens to you out there? It happened to your mother sometimes. I saw it when I taught her. She said everything narrowed."
 
-The race leaves him clean and empty. He cannot say what happened out there, or whether the look Suresh saw belonged to Maren or to him.
+It leaves him clean and empty. He cannot say what happened out there, or whether the look Suresh saw belonged to Maren or to him.
 
 "I don't know."
 
-They make it to the end of the dock. He writes Eli's name on the loading slate and crosses Kiran's off beside it. Then his voice drops to harbor register. "You won. The job is all yours. But remember, it's Circuit weekend in Singapore so it will be busy. You've got the idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's hotel—papers, then you wait for the boat. Walk like you belong until something proves you don't." He waits a beat too long before he adds, "Don't make me regret betting on you, boy."
+They make it to the end of the dock. He writes Eli's name on the loading slate. Then his voice drops to harbor register. "The job's yours. It's Circuit weekend in Singapore, so it'll be busy. You've got the idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's hotel—papers, then you wait for the boat. Walk like you belong until something proves you don't." He waits a beat too long before he adds, "Don't make me regret trusting you with this, boy."
 
 Suresh crouches to coil the loose sheet. His thumb finds the frayed end. He runs it along the cut once. "That's not chew," he says. "That's not salt-rot either."
 
@@ -145,17 +145,17 @@ Eli shakes his head.
 "Good," Suresh says. He folds the end into his palm instead of the bin.
 
 Not chew. Not salt-rot. Not his own knife, badly stowed. That leaves a hand
-he never saw, close enough to reach the sheet before the race even started.
+he never saw, close enough to reach the sheet before he ever pushed off the dock.
 Something goes cold under his ribs and does not entirely leave for the rest
 of the morning.
 
-Babaji runs the old hotel. He was Rasel's friend—how Eli's name ever reached a contractor ledger in the first place. This morning Eli has won the only cash job on the strait before he knew its name: not Foundry day-shift wages, but weekend show money in the Stack if he can get there. The deposit alone would clear Shireen's clinic fee and leave enough to cover the tower room for another week. Without it, he goes back to counting days on the chit circle. He understands, all at once, what he owes Shireen if Monday is real.
+Babaji runs the old hotel. He was Rasel's friend—how Eli's name ever reached a contractor ledger in the first place. This morning Eli has taken the only cash job on the strait before he knew its name: not Foundry day-shift wages, but weekend show money in the Stack if he can get there. The deposit alone would clear Shireen's clinic fee and leave enough to cover the tower room for another week. Without it, he goes back to counting days on the chit circle. He understands, all at once, what he owes Shireen if Monday is real.
 
 Suresh coils the skiff's painter at the rail. Eli goes up toward the towers—storm wall, tackle shed, the low waterfront the towers rose behind. He is not crew. Not one of the harbor men.
 
 Coconut palms lean over the storm wall where the developers never finished the shade plan; their fronds clatter like dry paper in the noon wind. Between the tackle shed and Mei's terrace a frangipani has forced itself through cracked paving—white flowers sticky underfoot, sweet enough to make the diesel smell worse. Bougainvillea climbs the unfinished balcony rails in magenta fists nobody waters. The half-built resort hums around him—laundry, generators, Mei's terrace already cooking. He sleeps in a tower room on Mei's chit circle when he sleeps indoors, not a wage he can send anywhere. The ninth-floor garden was Rasel's—kept for Babaji before the night both parents went on the file as dead. Now it is the only thing on the island that belongs to Eli without a keeper's signature. He tends it by day. At night he sometimes sleeps on the bench beside the row. He has not decided whether that is love or a failure to let go. He blames himself for the morning they did not come back—not because he did anything wrong, but because the room where he woke was the same room he had fallen asleep in, and the only difference was that they were gone. The plants do not ask him to forgive. They only need water.
 
-He takes the service stairs because the lift smells like wet carpet and regret. On the landing he washes his hands at the slop sink until the race salt is gone, then doesn't—his father always said clean hands lie about soil.
+He takes the service stairs because the lift smells like wet carpet and regret. On the landing he washes his hands at the slop sink until the morning's salt is gone, then doesn't—his father always said clean hands lie about soil.
 
 The seedlings have come up pale again. He kneels in Rasel's row, where three stakes still carry his father's blocky labels. Tomato. Chili. Holy basil, the leaves Maren used to pinch into rice. A papaya volunteer crowds the corner pot, fruit small and hard because Eli never thins it right. He touches each stem the way Rasel taught him: thumb and forefinger at the base, not the leaf—*ask the plant, don't grab it*. His palms prickle and tell him nothing useful. Cables can be forced into agreement. Living wood answers on its own time.
 
@@ -186,7 +186,7 @@ His phone rings on the ninth-floor landing. Dhaka, Shireen. He steps into the se
 
 Mei sets down a plate of nasi goreng in front of him. "If you drowned as often as Kiran's telling it, I'd have to feed this whole dock for free." She nods at his forearm, where the rope burn is already showing through the salt. "Suresh told me your sheet nearly let go. What happened out there?"
 
-Eli eats faster than he means to, the day still working through him—the race, the frayed sheet, Kiran going for Timah's boat before Suresh got an arm across his chest. He is still turning it over when he reaches the part that's funny.
+Eli eats faster than he means to, the day still working through him—the frayed sheet, Kiran going for Timah's boat before Suresh got an arm across his chest. He is still turning it over when he reaches the part that's funny.
 
 "He's already telling it different on the dock," he says. "By the time I left, Timah'd reached up from the seabed and pulled him under. Give it another hour, she'll have a knife between her teeth."
 
@@ -222,7 +222,7 @@ She turns the photograph face-down.
 
 "You were small," Mei says. The word comes out in the old pronunciation, the
 one Rasel used when he called him in from the garden. "This morning I sent you
-to race for Shireen's money and told you nothing else. I should have."
+out on the water for Shireen's money and told you nothing else. I should have."
 
 Eli sets down his fork. "Should have told me what."
 
@@ -382,8 +382,11 @@ Behind them, white coats and royal police move on Babaji's offices in a
 column—side door first, then the mezzanine, then the laundry entrance Wren
 used that morning. A portable brain scanner comes out on a trolley like
 ordinary furniture. Men in hotel livery are walked to the pier with their
-hands visible. The terrace lights he looks for across the water are
-already gone. The road after his parents left is still blank. He wants it to
+hands visible. Past the last channel marker, Babaji's catamaran already
+runs its lights, twin hulls white against the dark, dark glass giving back
+nothing but sky. It clears the strait mouth before Suresh's hull clears the
+seawall, and nobody moves to stop it. The terrace lights he looks for across
+the water are already gone. The road after his parents left is still blank. He wants it to
 open with a hunger that makes the Singapore cash feel obscene—distance from the
 only place that remembers them whole.
 
@@ -642,7 +645,7 @@ They do not look at Eli. They are not showing off. It is just something you say 
 
 This is the job he thought he won. Stage power, wardrobe uplink, afterparty load-in before Circuit night—the contract Wren attested before the sweep, before the wage ticket went into another man's file. Cover paper said Foundry stage crew so the corridor would open; the call sheet said Cube show. He was supposed to check in at the service gate **this morning** with a Foundry contractor lanyard and a name on a list. Instead he is coming up through the roots with grease on his hands, one night at Continue Inn behind him, and no ticket left to spend—an underdressed body in a city that only smiles at people who already belong.
 
-The job has two layers, and only Wren has ever admitted to knowing both. On the surface: stage power, cable runs he can read with his hands closed, the idol's afternoon concert before the cars. Underneath, words she gave him once, flat as a packing list, back on the catamaran, and never repeated since: *When the crew breaks for the second set, the wardrobe closet marked maintenance. Ninety seconds. Don't look at what's inside longer than it takes to close your hand around it.*
+The job has two layers, and only Wren has ever admitted to knowing both. On the surface: stage power, cable runs he can read with his hands closed, the idol's afternoon concert before the cars. Underneath, words she gave him once, flat as a packing list, back in Babaji's tea room, and never repeated since: *When the crew breaks for the second set, the wardrobe closet marked maintenance. Ninety seconds. Don't look at what's inside longer than it takes to close your hand around it.*
 
 The closet is exactly where she said it would be. It is not a vault. It is a **hold point**: a case tagged for the same freight manifest as the tire trucks that will roll when the Circuit starts after dark, parked here for the one hour a year when the Stack's own security is watching a concert instead of a service corridor. Circuit weekend moves cargo the way it moves crowds: in the open, under cover of being looked at. Whatever this is, someone decided it travels safer inside a spectacle than inside a vault, and Wren's people learned the manifest before the Stack finished writing it.
 
