@@ -28,8 +28,8 @@
 |---|---|---|
 | `05_story_architecture.md` | LIVE | Four-corner opposition, dramatic functions, character arcs. Emrys section removed and body reworked 2026-08-01; quarry sections left marked. |
 | `10_triangulation_of_control.md` | LIVE *(inferred)* | Political/faction structure. |
-| `28_present_day_trilogy_craft_index.md` | LIVE | Index for docs `21`–`27` (present-day craft cluster) — a precedent for this file. |
-| `29_trilogy_plot_and_development.md` | LIVE *(verify)* — legacy filename per `05` | Plot spine; `05` calls it "legacy filename," worth confirming still authoritative. |
+| `28_present_day_tetralogy_craft_index.md` | LIVE | Index for docs `21`–`27` (present-day craft cluster) — a precedent for this file. |
+| `29_tetralogy_plot_and_development.md` | LIVE *(verify)* — legacy filename per `05` | Plot spine; `05` calls it "legacy filename," worth confirming still authoritative. |
 | `55_series_pitch_and_comps.md` | LIVE — HIGH PRIORITY | Shelf/comps/pitch gate; governs chapter-by-chapter audits for Books I–III. **Contains chapter citations that need the same staleness check run on `98`, `47`, etc.** |
 | `61_site_activation_map.md` | LIVE *(inferred)* | Bible-to-discovery drafting map. |
 | `63_adjacent_books_and_author_brands.md` | LIVE *(inferred)* | Market comps. |

@@ -1,6 +1,6 @@
 # Lay Litanies — Antiphonal Forms
 
-> **Status:** LOCKED craft instruction (2026-07-25). Companion to `54_the_lay_verses.md` (Tier B solo verses), `53_quotable_refrains.md` (Tier A dialogue), `29_trilogy_plot_and_development.md` § *Lay teachings*, `50_teahouse_pilgrimage.md`, and `Lessons_of_the_Living_Way.md` (Lessons 3, 10). **Layer 2 companion material** — not default novel prose (`14` § faux-scripture guard).
+> **Status:** LOCKED craft instruction (2026-07-25). Companion to `54_the_lay_verses.md` (Tier B solo verses), `53_quotable_refrains.md` (Tier A dialogue), `29_tetralogy_plot_and_development.md` § *Lay teachings*, `50_teahouse_pilgrimage.md`, and `Lessons_of_the_Living_Way.md` (Lessons 3, 10). **Layer 2 companion material** — not default novel prose (`14` § faux-scripture guard).
 >
 > **Source:** author rendering after Laozi Tao Te Ching Ch 20 (see `../living-way/living-way-knowledge/Laozi/The_Unforced_Leader_Tao_Te_Ching.md`). Not a copyrighted translation.
 >

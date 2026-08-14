@@ -4,7 +4,7 @@
 
 > **HIGH PRIORITY — LOCKED 2026-07-25; pressure 2026-07-29:** **`55_series_pitch_and_comps.md`** — shelf, agent/back-cover copy, comps, clue-chain obligations, revision gate (items 1–14), **Three pressure rules** (two live clocks; antagonist present-tense job; cost → next chapter). Every structural choice here must pass the pitch test in `55` (body movement, institutional villainy, domestic cost, pattern conspiracy — not single-bullet reveal).
 
-> **Status:** working structural synthesis based on current canon. **Current governing map: Books I–IV civic + Books V–X Lifetime Orchestra (+6 locked)** (`SERIES_STRUCTURE.md`). Titles for V–X open; append only; do not renumber I–IV. Plot spine: `29_trilogy_plot_and_development.md` (legacy filename); Book I: `31`; Book II: `32`; Book III: `33`; Book IV: `60_volume_IV_court_of_threads.md`; orchestra: `62`. Older three-volume / “trilogy” closure language is superseded.
+> **Status:** working structural synthesis based on current canon. **Current governing map: Books I–IV civic + Books V–X Lifetime Orchestra (+6 locked)** (`SERIES_STRUCTURE.md`). Titles for V–X open; append only; do not renumber I–IV. Plot spine: `29_tetralogy_plot_and_development.md` (legacy filename); Book I: `31`; Book II: `32`; Book III: `33`; Book IV: `60_volume_IV_court_of_threads.md`; orchestra: `62`. Older three-volume / “trilogy” closure language is superseded.
 
 ## 0. Ultimate metaphysical thesis — LOCKED 2026-07-30
 
@@ -273,7 +273,7 @@ The story needs recurring relationships strong enough to carry the cosmology.
 | **Recurring rival psion team** | Field-level adversarial fellowship | Coordinate attack and defense better than the protagonists initially can | Members need loyalty, fear, disagreement, and at least one choice that complicates simple enmity |
 | **Local allies** | Keep places alive beyond the protagonist | Supply agricultural, maritime, medical, linguistic, historical, custodial, and embodied knowledge; this includes the Pai dragon-staff performer, Pelangi Reach's morning martial-arts teacher, and its sailors | Their needs may conflict with preserving the clue or helping Eli |
 
-Full flesh for present-day cast (provisional names, scene seeds, new roles): `26_present_day_cast_expanded.md`. Character development arcs and proof scenes: `27_character_development_arcs.md`. Craft index: `28_present_day_trilogy_craft_index.md`.
+Full flesh for present-day cast (provisional names, scene seeds, new roles): `26_present_day_cast_expanded.md`. Character development arcs and proof scenes: `27_character_development_arcs.md`. Craft index: `28_present_day_tetralogy_craft_index.md`.
 
 ### Wren's missing requirement
 

@@ -171,6 +171,10 @@ This gives Rasel and Maren an unforced parallel rather than a coincidence: both 
 
 This is what makes Rasel's return as Eli's Book III complex-time research partner (`99_open_questions.md` § *Book III physics*: "Rasel. He is the physicist.") earned rather than assumed. By the time their paths cross again, Rasel has already spent a book quietly working against the thing he built, on his own initiative, for his own reasons, before Eli ever asks him to.
 
+### Rasel's death — LOCKED 2026-08-13
+
+Rasel dies in Book III, before Book IV begins. He does not die in absolution or rescue; he dies mid-betrayal, killed by the Mandate for the quiet sabotage he has been running against his own program from inside it. The death is not premature: Eli and Rasel first work together as research partners, the collaboration is real, and Rasel earns the meeting before he loses it. What Eli inherits is not a reconciled father but a corpse, the half-finished work, and the question of whether finishing what Rasel started is the same as forgiving him. Book IV carries only the inheritance — the equipment, the data, the guilt — not the man himself. This supersedes any material that places Rasel on-page after Book III or allows a clean father-son resolution extending into Book IV.
+
 **Open gap — flagged 2026-08-11, RESOLVED 2026-08-11: Rasel is not necessary on-page in Book II.** Checked against what `32_volume_II_beatsheet.md` already has independently locked, nearly every function his former "instrument antagonist" role carried turns out not to depend on him at all:
 
 - **Recurring instrumentalizing pressure** ("one more reading," love without agreement) → **Anika.** She is already scaffolded across multiple westbound beats (Ch 2 Archive ≈ Anika/legal; Avebury ≈ Anika and/or Sol keep-her grab — `32` § *Antagonist face-per-stretch*) and already embodies the same want-to-register-rather-than-release instinct institutionally. No new character needed; the function was already hers to carry, just uncredited.
@@ -242,7 +246,7 @@ The following existing material is now **quarry**, even where older headings say
 
 - `manuscripts/I_The_Breach.md` Chapters 11–13 in their current Gulf / tell / Göbekli form;
 - `31_volume_I_beatsheet.md` Act IV and its Göbekli climax;
-- Book I Gulf/Göbekli allocations in `00_ARCHITECTURE.md`, `29_trilogy_plot_and_development.md`, `BOOK_SUMMARIES_*`, `55_series_pitch_and_comps.md`, and `100_production_todo.md`;
+- Book I Gulf/Göbekli allocations in `00_ARCHITECTURE.md`, `29_tetralogy_plot_and_development.md`, `BOOK_SUMMARIES_*`, `55_series_pitch_and_comps.md`, and `100_production_todo.md`;
 - Book III-first Sanxingdui allocation in `33_volume_III_beatsheet.md` and `52_maren_holts_field_notebook.md`;
 - Book II opening assumptions that Rasel remains captive or off-page;
 - **added 2026-08-11:** every passage anywhere describing Rasel as sabotaging or delaying the Sanxingdui weaponization, as a captive needing rescue, or as escaping/traveling with Eli's group afterward — including `32_volume_II_beatsheet.md`'s "Rasel = instrument antagonist" scene design across Book II's westbound chapters (Ch 5 ring evidence, Stonehenge "one more interval," Avebury release opposition) and its "Rasel is the one who names Mesopotamia" end hook, and the short supersession-block sentences in `55_series_pitch_and_comps.md` and `BOOK_SUMMARIES_long.md` asserting "Eli recovers Rasel."

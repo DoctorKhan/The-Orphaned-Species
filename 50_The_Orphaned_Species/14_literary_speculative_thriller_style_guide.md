@@ -172,7 +172,8 @@ Before building a new object or image for cross-book recurrence, add a row below
 | Breath | III–IV | Participation without merger | Boundary-in-intimacy use |
 | Body-score sound seeds | I (Cube clap, Malacca clap, wat count, Pai drop), II (Göbekli feast feet/fill) | Seeded, uncollected | Reserved for Book III seasonal-gathering room-body payoff — do not resolve early |
 
-Add a row the session an image is chosen for recurrence. An image discovered mid-draft to already be doing cross-book work gets logged that same session, not reconstructed from memory later.
+- Add a row the session an image is chosen for recurrence. An image discovered mid-draft to already be doing cross-book work gets logged that same session, not reconstructed from memory later.
+- The same discipline applies to the notebook’s recurring PIE roots and cultural rhymes across Books I–III. Add entries in `72_pie_cross_cultural_continuity_ledger.md`; do not let a root recur as a free-floating motif without a ledger row.
 
 ## Setting and atmosphere
 

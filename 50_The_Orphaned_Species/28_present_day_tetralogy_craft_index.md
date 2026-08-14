@@ -47,7 +47,7 @@
 || Angelic orders / seraphim / cherubim | `46` § H — **real, deferred to Books V+** (cross-plane agency and taxonomy locked for later; Books I–IV use callsigns, iconography, and sensation only) |
 | Dead zones / psion scour | `37` § *Dead zones*; `38` § *Scour & ground targeting* |
 | Nephilot trail / Alba–elf / Pömmelte massacre | `37` § *Tracking the Nephilot line*; `90` §6 |
-| Plot spine (Books I–IV acts, gaps; V–VI open) | `29_trilogy_plot_and_development.md` (legacy filename) |
+| Plot spine (Books I–IV acts, gaps; V–VI open) | `29_tetralogy_plot_and_development.md` |
 | Full structure / climax | `05_story_architecture.md`; **end-feel + epic staging** — `17` § *Volume end-feel* / *Climax staging*; `55` §6; I=`58`; II=`32` Ch 10; III=`33` Ch 9–10; IV=`60` §7 |
 | Cultural moment / story-first resonance (2026) | `44_cultural_moment_and_mass_appeal.md` — durable pressures, character engines, organic suspense, cultural guardrails |
 | Quotable refrains / reader spread / revision pass | `53_quotable_refrains.md` — Tier A dialogue bible; voice jobs; anti-cult spread guard |

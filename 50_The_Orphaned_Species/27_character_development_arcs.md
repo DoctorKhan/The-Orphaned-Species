@@ -1,6 +1,6 @@
 # Character Development Arcs — Present-Day Trilogy
 
-> **Status:** working development bible. Synthesizes locked material from `15_character_grounding_and_relatability.md` (Eli perceptual stages), `05_story_architecture.md` (Living Way / Manual Override / volume questions), `00_NARRATIVE_STRUCTURE.md` (romance stages, release thesis), `19_romance_and_divine_pairing.md`, and `26_present_day_cast_expanded.md`. **Behavior proves change** — track what characters *do*, not what they declare. Navigation hub for all present-day craft: `28_present_day_trilogy_craft_index.md`.
+> **Status:** working development bible. Synthesizes locked material from `15_character_grounding_and_relatability.md` (Eli perceptual stages), `05_story_architecture.md` (Living Way / Manual Override / volume questions), `00_NARRATIVE_STRUCTURE.md` (romance stages, release thesis), `19_romance_and_divine_pairing.md`, and `26_present_day_cast_expanded.md`. **Behavior proves change** — track what characters *do*, not what they declare. Navigation hub for all present-day craft: `28_present_day_tetralogy_craft_index.md`.
 
 ---
 

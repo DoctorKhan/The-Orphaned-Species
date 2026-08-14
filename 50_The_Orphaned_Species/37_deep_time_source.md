@@ -269,7 +269,7 @@ The thread, beat by beat: the **oral truth lives wordlessly in the village Song*
 
 ## Patriarchy & bloodlines — recurring chord (LOCKED)
 
-*Single scannable map for the dramatization sketched above. **Not one lecture** — the same shape returns era after era until the reader feels it. Full cosmology: `00_MASTER_TIMELINE.md` Phase VI / IX; science: `90_epigraphs_and_sources.md` §1; present braid: `29_trilogy_plot_and_development.md` (Vol II Tem + Adapa/Qingu); Lesson rhymes: `25_rhyme_sheet_lessons.md` (Lessons 3, 7, 13).*
+*Single scannable map for the dramatization sketched above. **Not one lecture** — the same shape returns era after era until the reader feels it. Full cosmology: `00_MASTER_TIMELINE.md` Phase VI / IX; science: `90_epigraphs_and_sources.md` §1; present braid: `29_tetralogy_plot_and_development.md` (Vol II Tem + Adapa/Qingu); Lesson rhymes: `25_rhyme_sheet_lessons.md` (Lessons 3, 7, 13).*
 
 **Craft rule:** never announce the thesis on-page. Show the cage at **domestic scale** (sister taken, neighbor sells out, registry lists, grain pit) — statistics don't wound; faces do.
 
@@ -332,7 +332,7 @@ The progression is inward-to-outward: breath -> body -> other bodies -> minds ->
 - **Tava** (12) — Ila's apprentice; learns the conduit by candlelight the night before the priests come.
 - **Tem** (6) — hidden in the grain pit; *is* the child of chapter 13, and grows into its narrator.
 - **Lira** — Anthea's daughter; carries the chord west when her mother is killed. The chord reaches Aedan's village through an unknown chain that can include teaching, migration, and resonance.
-- **Derw** (16) — youngest practitioner in Cuno's circle. During the last firing Cuno entrusts him with a lossy encoding of the deeper transmission—geometry, rhythm, body positions, a spoken fragment, and a marked object—and sends him beyond the circle. Aedan catches his presence through the partial echo; Eli later encounters the downstream record rather than receiving the original revelation.
+|- **Derw** (16) — youngest practitioner in Cuno's circle. During the last firing Cuno entrusts him with a lossy encoding of the deeper transmission—geometry, rhythm, body positions, a spoken fragment, and a marked object—and sends him beyond the circle. Aedan catches his presence through the partial echo; Eli later encounters the downstream record rather than receiving the original revelation. **Etymology lock:** the name’s possible linguistic associations are author-side only; no manuscript prose glosses Derw’s meaning on-page.
 - **Nia** (9) — the child Lovernios entrusts before Anglesey falls; she watches him sink the seed-catalog into the bog.
 
 Plus the frame children: **the Boy** himself (~14) in the cave-life stratum, **Eli** as the present orphan, and **the Modern Child** if the coda remains. The book's through-line is a chain of children, each handed something they don't yet understand.

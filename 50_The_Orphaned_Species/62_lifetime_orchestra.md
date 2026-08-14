@@ -60,6 +60,18 @@ Later lives rhyme by **function and unfinished work**; recognition ≠ claim.
 
 ## Book V bridge — the generation that leaves — LOCKED 2026-08-01
 
+**Two Trees completion — LOCKED 2026-08-13:** the teahouse pilgrimage Book V
+inherits is not a new spiritual movement founded from nothing. It completes
+the reclamation the Lean Year proved possible
+(`60_volume_IV_court_of_threads.md` § *Two Trees / dual-verification*): the
+Metrology Temples lineage split, generations before the Turning, into a
+co-opted state measurement apparatus and a devotional keeper practice the
+blocs never fully controlled. What the neo-śramaṇas formalize — psion and
+non-psion working the same discipline, direct perception and instrument
+both answerable to the person measured — is the Lean Year's improvised,
+once-tested pairing turned into durable practice, tended by people young
+enough to have no memory of the two halves ever being separate.
+
 Book V inherits the teahouse pilgrimage after it has become ordinary enough for
 a younger generation to change it. The first **neo-śramaṇas** are not a church
 or a single doctrine. They are wandering practitioners—workers, healers,
@@ -142,6 +154,25 @@ itself is a gap between books rather than a shelf either book covers. The
 heavier correction-arc below follows it, not the reverse — the reader
 meets this generation laughing at institutions before meeting the error
 they'll have to out-grow.
+
+**Two movements, not one frame — LOCKED 2026-08-13.** The interval between
+the cold open and the opening misreading below is not a transition to
+compress — it is the seam between two acts with different centers of
+gravity, so neither the founders nor the young generation has to carry
+the whole book alone. **Movement one**, on the cold open's timeframe,
+belongs to the founders at full weight: Eli, Rowan, and Wren living the
+protection-vs-possession tension already named in § *Personal engine*
+above, before Tara or Wren/Eli's son are old enough to leave anything.
+**Movement two**, after the time jump to Tara's and the son's young
+adulthood, belongs to the young generation's independently-arrived
+theology below; the founders step back into the four-mechanism
+supporting role already locked in § *How it's learned*, honest doubt
+included. Sequencing the book this way, instead of fusing both into one
+frame, is what lets the founders' generation read at real weight in
+their own act without making Eli — or any single founder — the one who
+resolves the theological correction the next generation has to earn for
+itself (`22_life_technology_and_two_trees_spine.md` § guardrail *"Do not
+let Eli become the sole bearer of reunification"*).
 
 **Opening misreading — LOCKED 2026-08-06.** Book V opens on the young
 generation's own theological mistake, arrived at independently rather than
@@ -340,6 +371,69 @@ Reuse; do not invent parallel deep histories.
 | Age of Heroes / Albian retreat | ~3.5–1.2 kya | Nephilot memory; stone circles; Sídhe residue | Book II Albion / Sídhe |
 | Elimination / quiet control | ~2 kya → early modern | Suppression apparatus faces; keepers underground | Charkha-as-pattern; Weavers |
 | Pre-Turning / machine-war eve | 21st c. → ~2037 | Optional near-past only — still “past” to 2040 Eli | Present-frame scars |
+
+**Göbekli sketch, fuller (mechanism LOCKED 2026-08-13, plot still candidate):**
+what makes a hunter-gatherer life at Göbekli concrete rather than a phase
+lecture is a working want: learning the snake-taught grammar (an arrow's
+poisoned point, a net's closing mesh — killing tools read as serpent shapes,
+Apkallu instruction carried in art because the grid cannot yet be read
+directly), earning a place at the shared vats and feasts that pay for the
+labor, and above all being counted as one of the few bodies that can enter
+the center without being hurt by it. The site is not merely built by humans
+for lack of hands; the Apkallu who designed it cannot themselves stand at a
+charged center a dormant, firewalled human body can tolerate
+(`00_MASTER_TIMELINE.md` § *Why humans staff the center, not the gods*).
+"Counting men coming" is literal before it is bureaucratic: someone screens
+who can enter, who sickens, who doesn't come back changed — the seed of
+every later registry, ledger, and claiming system the civic arc still runs
+on. A viewpoint character who does that counting, or who wants badly to be
+counted in, gets both the want and the horror for free.
+
+**Age of Heroes sketch — the last garrison (plot candidate; mechanism already
+LOCKED in `00_MASTER_TIMELINE.md` § *Why they fell* and § *The biology of the
+gibborim*):** dated to the antediluvian window, late in the centuries the
+protection arrangement still holds, just before the cull — not the later
+Phase IX Albian-retreat "Age of Heroes" this shelf's table row also names;
+this sits earlier, and could stand as its own shelf or as the opening
+movement of that same one.
+
+Working names, freely replaceable. **Zadur** is gibborim: tall past any
+human measure, disease-proof, decades into a life no human reaches, and
+visibly marked — the same growth-imprinting mismatch that gave him his size
+occasionally throws a bony, keratin crown as well (mythic-layer detail, not
+science-anchored the way the size and sterility are — the cave's reading of
+why so much Bronze Age god-and-king art shows horns). He is sterile
+(Haldane's Rule, already locked) and knows it. He is one of the last
+gibborim still doing the actual job — walking a perimeter, turning back
+raiders, taking no more than a garrison needs — while three generations of
+brothers with no succession have become the tyrants the later myths
+remember. **Emmeret** is human, and "favored" is the more exact word than
+"blonde" in this setting: the reproductive bottleneck's hoarding economy
+has made her one of the watched, protected, ranked-above-other-women
+assets kept near the garrison and the granary. She and Zadur choose each
+other against every incentive the system built for both of them — he can
+father nothing on her, which is exactly why loving him doesn't pull her
+into the hoarding economy the way loving any of his brothers would.
+
+**The reveal, structured like the reference, not copied from it:** what
+breaks them is not a villain turn. When the antediluvian cull organizes,
+Emmeret is asked to carry word, open a gate, or simply say nothing at the
+hour it matters — because her own standing depends on being seen as loyal
+to her own people first. She makes the human choice: her community over
+him, the same choice most of this cast would face, and it plays as an
+unexamined privilege finally called due rather than cowardice — loving him
+never actually cost her anything until this one night. Zadur doesn't die a
+monster's death; he is cut down — or exiled, open — by the same uprising
+that is right to happen, at least in part by the hand of someone who loved
+him and still couldn't spend her whole standing on him.
+
+**What it buys the story:** it dramatizes "protection curdling into
+possession" from inside the one relationship that proves the original
+arrangement wasn't a lie — Zadur is the counter-proof that it was real,
+which is what makes his death collateral rather than deserved. Emmeret
+isn't punished or redeemed cleanly; she lives the rest of her life having
+made the defensible choice that still cost her the one bond that saw her
+as a person instead of a rank.
 
 **Bridge (0)** may still be **late post–IV present** (same bodies). That is not a
 future civilization invent; it is aging inside a world I–IV already built.

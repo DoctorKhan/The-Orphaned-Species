@@ -4778,7 +4778,7 @@ Novak answers without embarrassment.
 "Symbolic continuity. Arbitration standing. The right to convene the houses in
 constitutional failure."
 
-Rowan hears the older shape under the committee language before she can stop herself: a child born to stand where a throne used to stand, so the throne's absence has somewhere to be managed instead of simply being true. Nobody assigned this office a god. No priesthood will anoint him. The paperwork has kept the temple's shape anyway, and asked her body to fill it.
+Rowan hears the older shape under the committee language before she can stop herself: a child born to stand where a throne used to stand, so the throne's absence has somewhere to be managed instead of being true. Nobody assigned this office a god. No priesthood will anoint him. The paperwork has kept the temple's shape anyway, and asked her body to fill it.
 
 "Office."
 
@@ -4874,7 +4874,7 @@ Rowan folds the paper. She does not say yes. She does not say no. She says she
 will meet the witness on the date named.
 
 Back in the room, the feed is replaying Eli's line. Commenters are already
-calling it renunciation. Nobody is calling it the thing it actually is: a
+calling it renunciation. Nobody is calling it the thing it is: a
 refusal to make a person into a policy.
 
 Novak watches Rowan return. He understands the offer better than anyone in the

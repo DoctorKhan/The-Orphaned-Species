@@ -43,9 +43,11 @@ At breakfast Mei had pushed his coffee across the counter. His phone lay beside 
 
 The hull's vibration climbs into his thighs. Ahead, the strait opens past the storm wall, empty all the way to the shadow of the half-built towers.
 
+He cups a hand and shouts back toward the wall—something about the Sunday berth, something meant to sound like he isn't asking for it. Suresh, head down over the nets, throws four words back in Malay that mean *your knots are still ugly* and *I heard you* at the same time. Eli is still grinning, mouth open on the reply he doesn't get to make—
+
 The wind dies.
 
-The sail collapses against the mast like something exhaling wrong. The hull drops off its plane so abruptly he nearly pitches forward. A second ago the channel was all noise and motion; now water slaps against the boards, and up on the wall Suresh straightens from the nets he was mending, watching.
+The sail collapses against the mast like something exhaling wrong. The hull drops off its plane so abruptly he nearly pitches forward. A second ago the channel was all noise and motion and someone's voice; now water slaps against the boards, and up on the wall Suresh's head comes up from the nets, watching.
 
 Mid-channel pocket. Not good, not with someone deciding something about him from the wall. For a moment he panics. Then old instinct answers before thought does. *It's okay. There are always times like this. Just stay moving until the air comes back somewhere.*
 
@@ -88,7 +90,7 @@ For one second the skiff stops being a thing he understands. Rope fails in one h
 
 He can hold the lane and hope the boy stays under one breath longer, or spill wind and give the sea its foot of room. The rope frays while he decides. His heart slams high in his throat, the old alarm that used to count doors before he knew why. *Not here.* Shireen's deposit is due Monday. The bottom of the channel would end everything before the transfer ever started.
 
-He gives the sea its foot—eases off half a length he cannot afford—just as Jul breaks the surface exactly where the bow would have been. The boy laughs, spits water, waves at no one in particular, already turning back down before he understands he was ever in the way of anything. Eli has nothing left to spend but grip, so he spends the rope instead. He wraps the tail twice more around his knuckles and holds against the failing lay with nothing but grip and the flat of his forearm—forearm already burning, palm opening into a thin white line he will feel for days—betting the last threads outlast his own hand.
+He gives the sea its foot—eases off half a length he cannot afford—just as Jul breaks the surface exactly where the bow would have been. The boy laughs, spits water, waves at no one in particular, already turning back down before he understands he was ever in the way of anything. Eli has nothing left to spend but grip, so he spends the rope instead. He wraps the tail twice more around his knuckles and holds against the failing lay with nothing but grip and the flat of his forearm. His forearm is already burning, his palm opening into a thin white line he will feel for days, betting the last threads outlast his own hand.
 
 Suresh's voice from the wall: "Now! Hold it!"
 
@@ -270,7 +272,7 @@ of it at once.
 
 "No body. No witness I'd trust. Babaji split your name off theirs so anyone
 looking for them would not find you here. Orphan on paper. He never told me
-whether they ran, were taken, or simply didn't come back. I never learned."
+whether they ran, were taken, or didn't come back. I never learned.
 
 Heat climbs Eli's neck. "Years. You let me sleep in his garden. You knew this
 for years."
@@ -844,7 +846,7 @@ Eli reaches for Hassan's arm instead of the ring.
 
 "Up," he says.
 
-Hassan stares at him like he didn't think anyone would actually do it. "They told you—"
+Hassan stares at him like he didn't think anyone would do it.
 
 "I heard you. Move."
 
@@ -1341,7 +1343,7 @@ It is not grand—no tourist buses, no donation boards in six languages—and be
 
 The five days are work he learns by repetition, the way you learn a port.
 
-Before dawn, one bell. Sitting: breath in four, out six; when the count breaks, name where it broke and return. Walking: heel to toe on sala tiles until the foot that is actually on the tile brings the mind back. Eating: one bowl, one mouthful at a time—the platform cup, smuggled into a kitchen, made into a clock. Work: sweep, carry water, stack wood. Afternoon: attention through the body, the bright wire behind the left temple mapped, not fixed. Evening: stand behind the hands. Fourth night: one quiet wish toward Wren on the landing—*May you be safe*—sent without receipt.
+Before dawn, one bell. Sitting: breath in four, out six; when the count breaks, name where it broke and return. Walking: heel to toe on sala tiles until the foot on the tile brings the mind back. Eating: one bowl, one mouthful at a time—the platform cup, smuggled into a kitchen, made into a clock. Work: sweep, carry water, stack wood. Afternoon: attention through the body, the bright wire behind the left temple mapped, not fixed. Evening: stand behind the hands. Fourth night: one quiet wish toward Wren on the landing—*May you be safe*—sent without receipt.
 
 On the fifth morning tea and a nod release him. He has not become calm. He has become arranged.
 

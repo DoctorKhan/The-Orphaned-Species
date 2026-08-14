@@ -1,6 +1,6 @@
 # Comedic Register — Slapstick Under Catastrophe
 
-> **Status:** working craft guide. **Project Hail Mary** (2026) comedy grammar — goofball competence, physical gags, earnest panic while solving impossible problems, buddy warmth — without IP import. ~~Primary carrier: Emrys.~~ **Emrys does not exist** (`99_open_questions.md` §9); no single primary carrier replaces him — see § *Distribution* below (LOCKED 2026-08-01). Pair with `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, `28_present_day_trilogy_craft_index.md`, `05_story_architecture.md` § Manuscript Voice, `16_reader_attachment.md`.
+> **Status:** working craft guide. **Project Hail Mary** (2026) comedy grammar — goofball competence, physical gags, earnest panic while solving impossible problems, buddy warmth — without IP import. ~~Primary carrier: Emrys.~~ **Emrys does not exist** (`99_open_questions.md` §9); no single primary carrier replaces him — see § *Distribution* below (LOCKED 2026-08-01). Pair with `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, `28_present_day_tetralogy_craft_index.md`, `05_story_architecture.md` § Manuscript Voice, `16_reader_attachment.md`.
 
 ## Reference frame
 

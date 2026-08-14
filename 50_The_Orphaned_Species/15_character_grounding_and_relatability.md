@@ -2,7 +2,7 @@
 
 > **HIGH PRIORITY — LOCKED 2026-07-25:** Domestic cost and desire-before-information — **`55_series_pitch_and_comps.md`**. Attachment powers the clue-chain; pitch gate checklist items 9–10 apply to every scene.
 
-*Craft guardrail for the present-day series. Companion to `/00_NARRATIVE_STRUCTURE.md`, `16_reader_attachment.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, and `28_present_day_trilogy_craft_index.md`. This document protects the human book inside the cosmology.*
+*Craft guardrail for the present-day series. Companion to `/00_NARRATIVE_STRUCTURE.md`, `16_reader_attachment.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, and `28_present_day_tetralogy_craft_index.md`. This document protects the human book inside the cosmology.*
 
 ## The governing judgment
 

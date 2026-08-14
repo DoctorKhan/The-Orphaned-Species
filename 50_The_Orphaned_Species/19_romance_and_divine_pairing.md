@@ -1,6 +1,6 @@
 # Romance and Divine Pairing
 
-*Working architecture for romance across the present-day series. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md` (volume romance stages + proof scenes), and `28_present_day_trilogy_craft_index.md`. This document keeps the mythic charge of beloved-across-lifetimes material while protecting the current canon: recognition is real pressure, not automatic proof of ownership, reincarnation, or moral permission.*
+*Working architecture for romance across the present-day series. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md` (volume romance stages + proof scenes), and `28_present_day_tetralogy_craft_index.md`. This document keeps the mythic charge of beloved-across-lifetimes material while protecting the current canon: recognition is real pressure, not automatic proof of ownership, reincarnation, or moral permission.*
 
 > **Satellite books / author brands — LOCKED 2026-07-31:** Wren/Rowan spicy and other niche books, plus the **two-brand** publishing model (literary + romance), live in `63_adjacent_books_and_author_brands.md`. Satellites may heighten intimacy; they may not undo concurrent choice, ply grammar, or main-series staging.
 

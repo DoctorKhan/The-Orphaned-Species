@@ -152,10 +152,11 @@ The word web's sharpest political edge. From mid–Book II, rebel cells hail Eli
 ## Canon links
 
 - `17_reveal_order_and_reader_impact.md` — reader-facing disclosure ladder
-- `29_trilogy_plot_and_development.md` — route and volume engine
+- `29_tetralogy_plot_and_development.md` — route and volume engine
 - `31_volume_I_beatsheet.md` — first packet/pages and name index
 - `32_volume_II_beatsheet.md` — comparative tree, corrections, and mother release
 - `33_volume_III_beatsheet.md` — scientific concordance and field-sail recognition
 - `35_artifact_chain.md` — story-object status and evidence rules
 - `37_deep_time_source.md` — distributed clue chain and living verification
 - `51_field_sail_and_mandate_peace.md` — unfinished physics and joint completion
+- `72_pie_cross_cultural_continuity_ledger.md` — PIE roots, cognate constellations, and cross-cultural continuity ledger across Books I–III

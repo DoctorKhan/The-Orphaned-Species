@@ -62,6 +62,18 @@
 > claiming systems wearing civic clothes. Quota: ~one deep-time residue every
 > 1–2 chapters.
 >
+> **CAST CHEMISTRY / NO-CLOCK SCENE — LOCKED 2026-08-13:** every 1–2 chapters
+> include at least one non-thesis beat where the reader wants to stay in the
+> room: shared meal, repair work, logistics, irritation, practical warmth,
+> banter, or ordinary care — not a moral argument or governance lecture. Book
+> IV must also schedule **one full no-clock scene per volume**: a chapter or
+> scene where neither Clock A nor Clock B advances and the chase/crisis does
+> not intrude. End the beat without interruption; the Lean Year resumes after,
+> not during. Candidate: a post-match meal or household evening early in the
+> working stretch, before the second crisis tightens. This is the reader’s
+> breathing room, not a beat among beats (`55` § *Cast chemistry*; `32`/`33`
+> chapter-card precedent).
+>
 > **BRONZE AGE COLLAPSE TEST — LOCKED 2026-08-01:** Book IV is the
 > civilization-scale test of Book III's decentralization after its failure
 > under war pressure. The historical rhyme is systemic, not a Sea Peoples

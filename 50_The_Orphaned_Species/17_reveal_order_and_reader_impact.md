@@ -2,7 +2,7 @@
 
 > **HIGH PRIORITY — LOCKED 2026-07-25:** Pitch, shelf, agent/back-cover copy, and clue-chain revision gate: **`55_series_pitch_and_comps.md`**. This doc controls **emotional** reveal order; `55` controls **commercial / propulsion** contract.
 
-*Outline guide for making the trilogy entertaining rather than curriculum-shaped. Pair with `05_story_architecture.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `22_life_technology_and_two_trees_spine.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, `28_present_day_trilogy_craft_index.md`, and `35_artifact_chain.md`. This document controls the emotional order of discovery; the master timeline controls chronology.*
+*Outline guide for making the trilogy entertaining rather than curriculum-shaped. Pair with `05_story_architecture.md`, `16_reader_attachment.md`, `21_present_day_street_skin.md`, `22_life_technology_and_two_trees_spine.md`, `26_present_day_cast_expanded.md`, `27_character_development_arcs.md`, `28_present_day_tetralogy_craft_index.md`, and `35_artifact_chain.md`. This document controls the emotional order of discovery; the master timeline controls chronology.*
 
 *The **backstory** (war, bioweapon, three factions, the awakening) is delivered by residue, not narration — the LOCKED technique toolkit + fact→vehicle map lives in `42_preamble_world_history_source.md` § "Residue-only delivery." Retired preamble drafts remain quarry only.*
 

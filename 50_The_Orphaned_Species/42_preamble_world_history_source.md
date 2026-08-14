@@ -60,7 +60,9 @@ These were their stories.
 >
 > — Zeberg & Pääbo, *Nature* 587 (2020)
 
-## Earlier preamble variant
+## Earlier preamble variant — SUPERSEDED QUARRY ONLY
+
+> **Do not use as current canon.** This draft was retired because it collapses the collapse into a single "Iran war" trigger and omits the locked Hormuz-block/oil-embargo mechanism, the 2028 AOC election, the 2033 Continentalist Party win, the multi-theater WWIII merge, the Fever's ancestry-gated mechanism, and the Turning. It is preserved below as discarded prose quarry only.
 
 It was a wound that never healed in a battle that never ended. The final cut was the Iran war which spilled the lifeblood of the economy, at least for the United States. The AI bubble burst into a glorious spectacle to rival the best fireworks. A digital fire was burning at the twilight's last gleaming.
 

@@ -37,8 +37,8 @@ The content has outgrown any single book. Rather than split it into rival volume
 - `50_The_Orphaned_Species/24_comedic_register_slapstick.md` — ensemble comedy under catastrophe (Project Hail Mary register); any Emrys-specific examples are retired craft quarry.
 - `50_The_Orphaned_Species/26_present_day_cast_expanded.md` — expanded present-day cast flesh, provisional names, scene seeds.
 - `50_The_Orphaned_Species/27_character_development_arcs.md` — volume-by-volume development, Manual Override thresholds, proof scenes.
-- `50_The_Orphaned_Species/28_present_day_trilogy_craft_index.md` — **navigation hub** for present-day craft docs `21`–`27`.
-- `50_The_Orphaned_Species/29_trilogy_plot_and_development.md` — **plot spine hub**: four-volume arc, act beats, revelation links, open gaps; Vol I → `31`, Vol II → `32`, Vol III → `33`, Vol IV → `60`.
+- `50_The_Orphaned_Species/28_present_day_tetralogy_craft_index.md` — **navigation hub** for present-day craft docs `21`–`27`.
+- `50_The_Orphaned_Species/29_tetralogy_plot_and_development.md` — **plot spine hub**: four-volume arc, act beats, revelation links, open gaps; Vol I → `31`, Vol II → `32`, Vol III → `33`, Vol IV → `60`.
 - `50_The_Orphaned_Species/50_teahouse_pilgrimage.md` — **LOCKED postwar social form**: teahouse pilgrimage sites, voluntary cloisters, science-checked sanctuary access, health baselines, chosen clans, and background AI.
 - `50_The_Orphaned_Species/51_field_sail_and_mandate_peace.md` — **LOCKED constructive horizon** (legacy filename): unfinished complex-time research, Commissioner Ma, Mandate industry, joint verification, and a science-backed ceasefire. No vessel launches in Book III.
 - `50_The_Orphaned_Species/52_maren_holts_field_notebook.md` — **LOCKED distributed Rosetta**: Maren's encoded comparative journal, linguistic roots, living corrections, Sanxingdui break, and cosmic concordance.

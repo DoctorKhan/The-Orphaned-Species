@@ -899,7 +899,7 @@ Wren does not ask why Sora already knows to request it by name. She already
 knows the answer: a route leaked once before, quietly, straight to Wren,
 when a clean extraction would have cost Sora her whole standing with the
 Custodians and Sora sent it anyway, telling herself it corrected an
-unnecessary detention rather than admitting what it actually was. Neither of
+unnecessary detention rather than admitting what it was. Neither of
 them has ever said thank you for it out loud.
 
 Three answers. None identical.
@@ -1830,7 +1830,7 @@ Then on a pattern Eli knows from the greenhouse irrigation.
 Two. Pause. Two. Pause. One.
 
 Hassan heard it at Sanxingdui. Sora could have passed it into the transfer
-chain. Or the person inside could simply be striking a wall while a machine
+chain. Or the person inside could be striking a wall while a machine
 forces their nervous system into somebody else's rhythm.
 
 Eli reaches the fence as the convoy begins to move.
@@ -2517,7 +2517,7 @@ crossed, went very still. Wren did not smile. She recalculated.
 
 The pass they handed him afterward was a plain paper stamp. The second thing
 they handed him was a keeper's word, quietly, the way a local tells you
-which door actually opens: a night, if he wanted it, at the mountain's
+which door opens: a night, if he wanted it, at the mountain's
 shoulder.
 
 An old woman met him at a house that was mostly kitchen. She did not explain
@@ -5494,7 +5494,7 @@ She does not look up.
 
 "Depends who you ask. Ask a vicar, you get devils. Ask a folklorist, you get
 memory. Ask me—" she ties off the coil "—the gods did not die, nor did they
-leave. They simply went underground."
+leave. They went underground."
 
 "That's not an answer."
 
@@ -6287,7 +6287,7 @@ She takes it, not as a replacement home but as a present choice.
 
 At the halt, Rowan waits beside the car, checking Morwen's maintenance sketch against the road ahead. She does not look away from their joined hands and does not approve them.
 
-She simply remains.
+She remains.
 
 Morwen asked her to stay back a moment to give Callum's still-unsteady field one more read from someone he trusted, while the others loaded the car. It was the right call. Rowan told her so.
 

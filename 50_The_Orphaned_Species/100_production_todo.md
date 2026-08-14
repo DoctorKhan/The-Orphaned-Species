@@ -73,7 +73,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 10. [~] Research passes, just-in-time: Pelangi Reach Timah/Sama-Bajau seeded in Ch 1;
     Malacca market already dense; remaining: deeper island texture as needed.
 
-**Canon hubs:** `00_NARRATIVE_STRUCTURE.md`, `WORLD_BIBLE.md`, `29_trilogy_plot_and_development.md`, `31_volume_I_beatsheet.md`, `32_volume_II_beatsheet.md`, `33_volume_III_beatsheet.md`, `60_volume_IV_court_of_threads.md`, `35_artifact_chain.md`
+**Canon hubs:** `00_NARRATIVE_STRUCTURE.md`, `WORLD_BIBLE.md`, `29_tetralogy_plot_and_development.md`, `31_volume_I_beatsheet.md`, `32_volume_II_beatsheet.md`, `33_volume_III_beatsheet.md`, `60_volume_IV_court_of_threads.md`, `35_artifact_chain.md`
 
 ## Before drafting
 

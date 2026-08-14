@@ -1,6 +1,6 @@
 # The Teahouse Pilgrimage — Practice, Measurement, and Chosen Kin
 
-> **Status: LOCKED 2026-07-21.** This is the mature social form that begins to emerge after the Book III crisis: a distributed pilgrimage network in which **teahouses are the sites**, **cloisters provide disciplined residence and research**, and **inner sanctuaries permit limited contact with stronger charged-ground phenomena**. Science makes exploration systematic; it does not turn experience into rank or persons into categories. AI remains background infrastructure. Companion to `22_life_technology_and_two_trees_spine.md`, `29_trilogy_plot_and_development.md`, `33_the_curriculum.md`, `33_volume_III_beatsheet.md`, `36_the_living_web.md`, and `39_psion_biology.md`.
+> **Status: LOCKED 2026-07-21.** This is the mature social form that begins to emerge after the Book III crisis: a distributed pilgrimage network in which **teahouses are the sites**, **cloisters provide disciplined residence and research**, and **inner sanctuaries permit limited contact with stronger charged-ground phenomena**. Science makes exploration systematic; it does not turn experience into rank or persons into categories. AI remains background infrastructure. Companion to `22_life_technology_and_two_trees_spine.md`, `29_tetralogy_plot_and_development.md`, `33_the_curriculum.md`, `33_volume_III_beatsheet.md`, `36_the_living_web.md`, and `39_psion_biology.md`.
 
 ## Governing form
 

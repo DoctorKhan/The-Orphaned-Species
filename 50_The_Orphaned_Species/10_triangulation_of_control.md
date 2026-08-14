@@ -41,7 +41,7 @@ flowchart TD
 
 ### How the control loop scales through the Three Circles
 
-The trilogy should uncover the same abandoned control relation at increasing scale:
+The series should uncover the same abandoned control relation at increasing scale:
 
 | Circle | Original god-oriented function | Orphaned civilizational pitfall | Living alternative |
 |---|---|---|---|
@@ -51,7 +51,9 @@ The trilogy should uncover the same abandoned control relation at increasing sca
 
 The embodied gods and their functioning administration no longer exist. Some spirits may survive on other planes, but that does not make them present owners of human life or valid recipients of the old contract. The modern danger is human systems learning to pull instincts whose original context has vanished.
 
-Across the trilogy, historical scenes, present exploitation, and costly acts of conscious override should intersect in changing combinations. No volume has a dominant assigned circle. This keeps the civilizational argument inside character and consequence rather than turning it into a repeated lesson structure.
+Across the series, historical scenes, present exploitation, and costly acts of conscious override should intersect in changing combinations. No volume has a dominant assigned circle. This keeps the civilizational argument inside character and consequence rather than turning it into a repeated lesson structure.
+
+**The recursion doesn't stop at three — LOCKED 2026-08-13.** Book IV's dual-verification lock (`60_volume_IV_court_of_threads.md` § *Two Trees / dual-verification*) is the same control relation one order past Civilization: not one institution auditing itself, but communities with no shared center learning to trust each other's claims at all. The Ultimate Metaphysical Thesis (`SERIES_STRUCTURE.md` § *Ultimate metaphysical thesis*) is the same relation one order further out again — NPC autopilot standing in for the orphaned god-function, Manual Override standing in for the living alternative, now at the scale of the training world itself. Each new circle still gets no dominant assigned volume and no single fix that resolves the ones below it; it re-earns its own check locally, the way Body, Family, and Civilization already do.
 
 ## 2. Why this makes it "masterpiece" material
 

@@ -60,6 +60,20 @@ if the title changes.
 > at the scale one room could prove; the second builds it out, for real, at
 > the scale the war never reached. Eli's final legitimacy lies in
 > returning the authority both times.
+>
+> **DUAL-CLOCK MAP — LOCKED 2026-08-13:** every chapter advances or visibly
+> threatens **both** clocks. Clock A keeps the rebuilt interregional network
+> functional through the Lean Year and prevents Continuity / Sol capture from
+> seizing it. Clock B is Rowan's pregnancy and birth as a bodily deadline,
+> plus Eli's temptation to become the permanent answer to emergency. Clock A
+> bills through route seizures, hoarded reserves, broken credentials, convoy
+> defense, and named people at risk of being re-expendabilized. Clock B bills
+> through capture attempts on Rowan, institutional pressure to formalize her
+> pregnancy as succession, Eli's own drift toward emergency permanence, and
+> the birth window itself. One may dominate the scene; the other must still
+> move, threaten, or bill. Hard test: if Eli could ignore Clock B for three
+> chapters and only fight scarcity, the draft is failing. If the Lean Year
+> never forces a trade against Rowan's birth window, Clock B is décor.
 
 > **LEAN YEAR VIOLENCE / ACTION BALANCE LOCK — 2026-08-02:** Book IV is not a
 > second interstate war, but it retains physical danger. Scarcity produces
@@ -170,6 +184,62 @@ if the title changes.
 > can retain and transmit safe work sequences when schools, manuals, and expert
 > rotations break. No song saves civilization; particular knowledge survives
 > because it has entered bodies and relationships.
+>
+> **TWO TREES / DUAL-VERIFICATION — LOCKED 2026-08-13:** Modular
+> interdependence avoids the Bronze Age rhyme's other failure mode —
+> communities that keep functioning locally but lose the ability to trust
+> each other's claims at distance and drift into disconnected fragments —
+> because no single kind of knowing gets to verify itself. A forecast, a
+> manifest, a claimed shortage is mediated and checkable against instruments
+> and records: exactly what a captured desk or a rigged dashboard can game
+> while every individual sensor keeps reporting honestly
+> (`64_entropic_allocator_perimeters.md` § *Original intent*). A psion's
+> read, a keeper's warning, a claimed sign is direct and unlieable between
+> the minds that share it: exactly what a messiah reflex or a captured cell
+> can exploit because it resists ordinary audit. Seven independently
+> verified desks hold together as one system because a claim on either side
+> can be checked against the other kind of knowing. Costa Rica's growers
+> already run this pairing at field scale ("every perception must be
+> checked by growers, hydrology, soil measures," `WORLD_BIBLE.md` §
+> *Costa Rican grown corridor*); the Lean Year has to prove it holds at
+> compact scale too. **Book IV does not found this as a new institution.**
+> The Metrology Temples (`WORLD_BIBLE.md` § *Metrology Temples*) already
+> ran science and keeper tradition as one reciprocal lineage before the
+> blocs split and captured each half separately. The Lean Year proves the
+> split can be crossed back under pressure, without a center forcing it.
+> Book V–X's neo-śramaṇa/teahouse institutions formalize what this volume
+> shows can hold (`62_lifetime_orchestra.md` § *Book V bridge*).
+>
+> **On-page mechanism — LOCKED 2026-08-13:** Dramatize this as two matched
+> failures, using material already live in the Lean Year. A **rival
+> forecast** (§ 9 *Chapter 1 — The Doors*, Lean Year inquiry) is exposed as
+> gamed — a continuity-linked office cites a shortage projection built on a
+> hidden reserve — when a keeper or carrier's direct read of what the
+> reserve actually holds is checked and corroborated before anyone acts on
+> it, and stands where the office's own numbers don't. Separately, a
+> **Deiwos/messiah claim** (`29_tetralogy_plot_and_development.md` § *The
+> Deiwos recognition*; `56_future_conflicts_atlas.md` § *Messiah/Deiwos*)
+> escalates under scarcity — someone reads a psion's warning as license to
+> bypass review or anoint a hoarder's claim as sanctioned — and measurement
+> and audit expose the gap between what was perceived and what got claimed
+> in its name. Neither catch is clean: the captured office isn't fully
+> exposed, the cell still half-believes the sign was real. Each claim,
+> gamed alone, still gets caught before it stands — the difference between
+> local trust holding and interregional trust seizing.
+>
+> **RASEL'S THREAD, FINISHED — LOCKED 2026-08-13:** This is where Rasel's
+> own information-theoretic wall (`58_sanxingdui_climax_lock.md` § *Rasel
+> at Sanxingdui*) gets crossed. His Ch 1 read of the Three-Circles Tablet
+> as an information structure — a signal fully recorded stops being
+> itself (`22_life_technology_and_two_trees_spine.md` § *Rasel's
+> information-theory thread*) — never left Knowledge alone: an apparatus
+> built to make a living field concentratable, recordable, and
+> governable. He dies in Book III still one tree short
+> (`58_sanxingdui_climax_lock.md` § *Rasel's death*); Eli inherits the
+> equipment, the data, and the shortfall. The rival forecast caught by a
+> keeper's direct read and the Deiwos claim caught by an audited record
+> are that shortfall made up — the second tree his apparatus had no seat
+> for, not a field recorded better than he ever managed.
 >
 > **RELIGIOUS AFTERLIFE — LOCKED 2026-08-01:** the large post-collapse religious
 > and philosophical transformations are a delayed structural rhyme, not a claim
@@ -886,7 +956,11 @@ labels alone.
   Sol-linked cell occupied a depot; Northstar separately targeted the Sideways
   reference system; a Weaver house prolonged protective concealment; traders
   withheld real capacity while keeping ships moving. None authored the eruption
-  or the whole shortage.
+  or the whole shortage. **Two Trees beat:** Henley's redirect leans on a
+  shortage projection built on a hidden reserve; a keeper's direct read of
+  what the reserve actually holds is checked and corroborated before anyone
+  acts on it, and stands where the office's own numbers don't (§ *Two Trees /
+  dual-verification*).
 - **Collapse distinction:** federation-wide allocation and authentication fail;
   local nodes do not stop. Before invoking continuity, show ports, clinics,
   councils, and crews proceeding under local witness while interregional food,
@@ -901,6 +975,8 @@ labels alone.
 - **End hook:** Rowan's western delegation arrives with a living attestation
   capable of disqualifying a favored successor—and an audience list designed
   to keep her from Eli.
+
+> **Book IV chapter clock status:** Clock A = cross-route triage proving itself while federation fails, convergence rather than conspiracy established; evidence-name change to accountability registers cost. Clock B = Wren's consort/office boundary named; Eli's public restoration is under review rather than achieved. Chemistry/no-clock tag: chapter 1 bills clocks through court texture rather than chemistry; no-clock beat is deferred but already loaded.
 
 ### Chapter 2 — Present Consent *(Rowan)*
 
@@ -921,6 +997,8 @@ labels alone.
   access to Wren, or presumption of repetition.
 - **End hook:** a court scheduler records Rowan leaving Eli's rooms and quietly
   changes her next audience category.
+
+> **Book IV chapter clock status:** Clock A = western attestation delivered, continuity official removed, succession gap created without blood. Clock B = attraction named and publicly disclosed under dyad terms; Rowan's contraception and future-motherhood stated; Eli's court access officially unchanged. Chemistry/no-clock tag: this chapter IS the no-clock beat — the clocks advance off-screen while the scene stays in consent language, sex, and ordinary disclosure.
 
 ### Chapter 3 — Three Rooms *(Wren)*
 
@@ -1033,6 +1111,10 @@ labels alone.
   mechanics honor prior work, merchants continue nonexclusive exchange, and the
   post-match meal proceeds under separate hosts. This practical mess—not the
   later constitutional language—shows why overlapping affiliations matter.
+  **Two Trees beat:** the concealed psionic aid is caught by ordinary review
+  and measurement, not by a rival psion — the messiah-adjacent half of the
+  same mechanism that catches Henley's forecast in Chapter 1 (§ *Two Trees /
+  dual-verification*).
 - **Animal-house boundary proof:** an older Stag mentors a younger learner
   through the recruitment pressure without treating house seniority as civic
   command. He distinguishes the Stag turning rite from anger, spectacle, and

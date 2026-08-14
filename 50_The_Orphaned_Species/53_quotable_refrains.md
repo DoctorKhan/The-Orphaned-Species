@@ -1,6 +1,6 @@
 # Quotable Refrains — Series Bible & Spread Guide
 
-> **Status:** LOCKED craft instruction (2026-07-23). Companion to `14_literary_speculative_thriller_style_guide.md` § Dialogue, `29_trilogy_plot_and_development.md` § *Lay teachings*, `44_cultural_moment_and_mass_appeal.md`, `90_epigraphs_and_sources.md` § Tao 72 mapping, **`55_series_pitch_and_comps.md` (HIGH PRIORITY — pitch/comps)**, and **`54_the_lay_verses.md`** (spiritual-text register). Governs **in-scene memorable lines**, **reader spread**, and **revision passes** — not plot obligations.
+> **Status:** LOCKED craft instruction (2026-07-23). Companion to `14_literary_speculative_thriller_style_guide.md` § Dialogue, `29_tetralogy_plot_and_development.md` § *Lay teachings*, `44_cultural_moment_and_mass_appeal.md`, `90_epigraphs_and_sources.md` § Tao 72 mapping, **`55_series_pitch_and_comps.md` (HIGH PRIORITY — pitch/comps)**, and **`54_the_lay_verses.md`** (spiritual-text register). Governs **in-scene memorable lines**, **reader spread**, and **revision passes** — not plot obligations.
 
 ---
 

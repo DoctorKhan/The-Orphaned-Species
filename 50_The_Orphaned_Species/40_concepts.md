@@ -129,7 +129,7 @@ The demographic form of that question is: **who wants me alive, and who merely n
 
 ## The Weavers' Net
 
-*Concept named 2026-07-21. The institution: `29_trilogy_plot_and_development.md` § The Weavers. Bond craft: `19_romance_and_divine_pairing.md` § Weaver bonds.*
+*Concept named 2026-07-21. The institution: `29_tetralogy_plot_and_development.md` § The Weavers. Bond craft: `19_romance_and_divine_pairing.md` § Weaver bonds.*
 
 The Weavers' Net is the accumulated relational infrastructure the order weaves: marriages arranged or blessed, apprenticeships placed, godchildren claimed, houses allied, debts of hospitality remembered. **Each match is a knot; generations of matches are a net** that spans ports, cultures, and blocs — the human counterpart of the living web.
 

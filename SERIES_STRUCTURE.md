@@ -198,7 +198,7 @@ Göbekli / early control · Refusal–Adapa / Eridu · Abandonment *or* Sanxingd
 
 | Priority | Approx. | Notes |
 |---|---|---|
-| **A** (slate) | **2–3** | Wren/Rowan spicy; optional road companion; Goonies-style kid-crew companion (locked concept 2026-08-06, placed between Book IV and Book V, concurrent with the son's infancy — `28_present_day_trilogy_craft_index.md`; `99_active_todo.md` item 9) |
+| **A** (slate) | **2–3** | Wren/Rowan spicy; optional road companion; Goonies-style kid-crew companion (locked concept 2026-08-06, placed between Book IV and Book V, concurrent with the son's infancy — `28_present_day_tetralogy_craft_index.md`; `99_active_todo.md` item 9) |
 | **B** (candidates) | up to **4** | Somchai, Harbor Thread, Extra/cloister, teahouse — lock only with want/clock |
 | **C** (later) | **0–2** | past-life short, Eye of Sahara |
 
@@ -209,7 +209,7 @@ Civic pitch may stop at I–IV. Full family pitch may say **fourteen core books*
 ## Soft-inconsistency rule (LOCKED 2026-07-29)
 
 - Prefer **series**, **present-day series**, **Layer 1 novels**, **Books I–IV** (civic), or **Books V–X** / **Lifetime Orchestra** (append cycle).
-- Filenames that still say `trilogy` (`29_trilogy_plot_and_development.md`, `28_present_day_trilogy_craft_index.md`) are **legacy names** — contents govern the series; do not rename unless doing a deliberate repo pass.
+- Filenames that still say `trilogy` (`29_tetralogy_plot_and_development.md`, `28_present_day_tetralogy_craft_index.md`) are **legacy names** — contents govern the series; do not rename unless doing a deliberate repo pass.
 - Pitch / query / back-cover copy: **never** “trilogy” unless the published product is later cut to three. Civic pitch may stop at I–IV; V–X is a second cycle.
 - Stale “Books V–VI only” language = superseded by **V–X (+6)** lock 2026-07-31.
 

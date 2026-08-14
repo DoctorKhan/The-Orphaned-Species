@@ -14,7 +14,7 @@
 > **EAGLE–CONDOR LOCK — WRITTEN 2026-08-01.** Landed in Ch 6 ("The Compact"),
 > in the scene between "They begin." and "Purpose comes first," not Ch 4 as
 > the 2026-07-25 outline originally assigned — the compact-drafting room is
-> where the assembly is actually naming what it's building, which is the
+> where the assembly is naming what it's building, which is the
 > living argument this lock asks for. Elena Mamani (Andean ayllu water-council
 > federation) brings the living teaching and personally contests its own
 > five-hundred-year timetable as a "tourist's date." Ademir Tembé (Tembé,
@@ -3745,7 +3745,7 @@ That matters.
 
 They are not writing a weaker version of his system.
 
-Wren has begun to notice what the compact actually is. Not a table where every
+Wren has begun to notice what the compact is. Not a table where every
 voice carries equal weight. Not a document a feed title could summarize. Not a
 system built to protect the people who wrote it from the people it governs.
 The difference from Lang's Standard was never vocabulary — it is the decision
@@ -3996,7 +3996,7 @@ The Pacific front may still be active.
 
 The Atlantic food routes may fail sooner.
 
-The coordinator will simply manufacture renewal.
+The coordinator will manufacture renewal.
 
 They write automatic expiry anyway.
 
@@ -4094,7 +4094,7 @@ Authority settles on him before any ceremony can make it beautiful.
 The Hawaiʻi invitation arrives during the final signatures.
 
 Malia Kealoha speaks for a Native Hawaiian-led stewardship council on Hawaiʻi
-Island and for nobody beyond the decision the council has actually made.
+Island and for nobody beyond the decision the council has made.
 
 Behind her is a damaged agricultural facility above an old harbor road: dormitory
 blocks, water tanks, workshop sheds, fallow trial plots, and roofs cut open by
