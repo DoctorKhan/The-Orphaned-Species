@@ -794,9 +794,9 @@ of that duty while his own harbor manifest remains open
 
 ## Kru Dao *(Thailand cooperative — martial / chi-body instructor; Vol I Ch 7)*
 
-**Function:** first on-page MT/Kali + flare-discipline teacher after wat breath. Makes Eli someone who can leave a room alive — not a champion. Scar through eyebrow; grey temples; no backstory dump.
+**Function:** first on-page MT/Kali + flare-discipline teacher after wat breath. Makes Eli someone who can leave a room alive — not a champion. The adaptive middle under contact: stay with the heat; neither flinch nor crash; stance as exit-route (`67`, `68`). Scar through eyebrow; grey temples; no backstory dump.
 
-**Guardrails:** does not own Eli; does not follow the quest; fight only if the run ends.
+**Guardrails:** does not own Eli; does not follow the quest; fight only if the run ends. Does not lecture bushido or name a philosophy. One correction in the body is enough.
 
 ---
 

@@ -63,5 +63,7 @@ Desire before info; effect before terminology; one supply-chain reveal per chapt
 - `WORLD_BIBLE.md` § *Timeline* — late-2020s AI overbuild and rare-earth shock.
 - `50_The_Orphaned_Species/64_entropic_allocator_perimeters.md` — registered
 boundaries, proof fraud, custody laundering, bloc perimeters.
+- `50_The_Orphaned_Species/65_replacement_seizure.md` — why magnet and
+controller refresh seized; drone magazines; what still works.
 - `50_The_Orphaned_Species/59_younger_dryas_nucleation_lock.md` — chokepoint
 layer under Malacca and the Boreal Route.

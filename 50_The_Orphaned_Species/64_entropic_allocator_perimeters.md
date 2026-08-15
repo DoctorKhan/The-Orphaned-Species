@@ -8,6 +8,7 @@
 >
 > **Primary cross-references:** `23_2040_present_frame.md` § *Entropic
 > allocation*; `56_future_conflicts_atlas.md` § *Technological*;
+> `65_replacement_seizure.md` (what remaining industry can still make);
 > `50_teahouse_pilgrimage.md` § *AI — background balance and transparent
 > maintenance*; `22_life_technology_and_two_trees_spine.md` § *Death
 > technology*.

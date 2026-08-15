@@ -13,6 +13,7 @@
 | **Pitch, comps, back-cover, clue-chain gate** | **`55_series_pitch_and_comps.md`** — **HIGH PRIORITY** |
 | Drafting prose / scene tone | `14_literary_speculative_thriller_style_guide.md` first; then `21_present_day_street_skin.md` + `23_2040_present_frame.md` |
 | Entropic allocation / industrial privacy / living budgets | `64_entropic_allocator_perimeters.md` — governing perimeter, EEU, audit, buffer, Bourse, and bloc rules |
+| What still works / drone magazines / spare-parts poverty | `65_replacement_seizure.md` — daily life holds; complex replacement seized |
 | Choosing or switching viewpoint | `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED* |
 | Placing a character in a scene | `26_present_day_cast_expanded.md` (includes **past** layers) |
 | Tracking growth across a volume | `27_character_development_arcs.md` |
@@ -33,6 +34,7 @@
 | **Phantom god-perception / correct worship** | **`17`** §9a + **`40`** — II seed; III civic diagnosis; **V–X** payoff = ego/robot → Player/consciousness; not atheism |
 | Locked beats / open names | `99_open_questions.md` |
 | Volume I chapter order | `31_volume_I_beatsheet.md` |
+| Book I lived subject — learning + adventure | `67_book_i_learning_adventure.md` — stay-with / inverse image; theater vs gym |
 | Volume II chapter order | `32_volume_II_beatsheet.md` — **delivery package** (mother Clock A, Maren mirror, Rasel, Sol, Ch 8 one-way, contraction) |
 | Volume III chapter order | `33_volume_III_beatsheet.md` |
 | Science citations / epigraphs / *On the record* | `90_epigraphs_and_sources.md` § *Citation layer* |

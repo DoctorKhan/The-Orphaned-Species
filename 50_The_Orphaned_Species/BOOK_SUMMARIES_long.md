@@ -196,7 +196,7 @@
 **Dramatic question:** Can free communities protect people from dangerous capacity without turning capacity into an owned identity—no registry, cult, army-state, or permanent ruler?
 **Arc:** liberator → strongman-by-proximity → bounded ruler → completed relinquishment → private citizen (attack and second bounded mandate move to Book IV, `60_volume_IV_court_of_threads.md`). Personal undertow: the public victory is real, while Eli remains **personally unfinished** — usefulness without belonging (**The Loop**). The new federation also carries material dependencies that Book IV must test.
 **Route:** Albion exit → Atlantic crossing → Brazilian lower-Amazon / river-port receiving network → remote Union rupture / **Awakening War** → bounded compact → Hawaiʻi temporary refuge → distant corridor operation → public hearing → constitutional transfer succeeds in the room that watches it, its wider interregional scale still untested. Pelangi remains an active home-node; San Francisco and Washington act through delegates, records, refugees, feeds, and demands rather than physical travel.
-**War texture:** drone war with counter-drone measures; humans still fight exposed holding/repair/extraction/rearguard roles; male expendability spends survivors hardest; scarcity **begins**.
+**War texture:** drone war of spent magazines (`65`); humans still fight exposed holding/repair/extraction/rearguard roles once the sky thins; male expendability spends survivors hardest; scarcity **begins**.
 **Numbering lock:** Book III runs 1–10.
 
 ---

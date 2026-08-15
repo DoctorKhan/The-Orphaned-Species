@@ -72,7 +72,7 @@ Each political ecology holds something the others cannot replace:
 | Participant | Indispensable contribution | Dangerous temptation |
 |---|---|---|
 | **Continental Union** | Classified theory, anomalous archives, prototype lattices, surviving physicists | Reclassify the discovery as strategic property and restore central command |
-| **Eastern Mandate** | Precision fabrication, superconducting and metamaterial industry, energy systems, launch infrastructure, orbital construction capacity | Convert partnership into tributary dependence or state-directed monopoly |
+| **Eastern Mandate** | Remaining precision fabrication under replacement seizure (`65`): superconducting and metamaterial industry, energy systems, launch, orbital construction — the same bench that feeds corridor magazines | Convert partnership into tributary dependence or state-directed monopoly |
 | **Free Ports / teahouses** | Trade routes, independent replication, voluntary field observers, public legitimacy, distributed records | Mistake decentralization for sufficient safety and evade enforceable standards |
 
 The governing fact is simple:

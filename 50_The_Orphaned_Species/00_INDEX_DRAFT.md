@@ -59,6 +59,9 @@
 | `21_present_day_street_skin.md` | LIVE *(inferred)* | Near-future texture/register. |
 | `23_2040_present_frame.md` | LIVE | Present-day frame worldbuilding. |
 | `56_future_conflicts_atlas.md` | LIVE | Geopolitical/war atlas; re-checked 2026-08-01 — its citations are all in-range, the earlier "stale" flag was a false positive from an early crude count. |
+| `64_entropic_allocator_perimeters.md` | LIVE | How remaining industry is rationed. |
+| `65_replacement_seizure.md` | LIVE | Industrial capacity and drone magazines — LOCKED 2026-08-14. |
+| `66_critical_minerals_lock.md` | LIVE | Refining, magnets, dead packs as inventory. |
 | `biological_countermeasures_in_world.md` | LIVE | Outbreak/biotech worldbuilding; one citation fixed 2026-08-01 (`33` Ch 6, "The Compact"). |
 
 ## Tier 4 — Cast & character
@@ -73,6 +76,8 @@
 | File | Status | Purpose |
 |---|---|---|
 | `31_volume_I_beatsheet.md` | LIVE (Act IV) + QUARRY (retired Act IV, marked in-file) | Book I. Two climaxes coexist in one file; retired one now relabeled unambiguous. |
+| `67_book_i_learning_adventure.md` | LIVE | Book I lived subject — learning/adventure; stay-with and inverse image. LOCKED 2026-08-15. |
+| `68_eli_learning_by_circle.md` | STAGED | What Eli learns per volume and circle. 2026-08-15. |
 | `32_volume_II_beatsheet.md` | LIVE (2nd pass, Ch1–7) + QUARRY (1st pass, Ch1–10, marked in-file) | Book II. Two full chapter passes in one file — works, but consider physically splitting quarry into its own file so grep/citation tools stop matching it. |
 | `33_volume_III_beatsheet.md` | LIVE | Book III. Recently revised for climax staging (2026-08-01). |
 | `60_volume_IV_court_of_threads.md` | LIVE | Book IV. |

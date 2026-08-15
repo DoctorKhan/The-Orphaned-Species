@@ -34,7 +34,7 @@ The novel opens **after** the acute phase of two overlapping crises. Background 
 | **~2037–2039** | **The Fever Years** — engineered outbreak during war escalation (acute phase of **the Turning**); mortality and lockdown politics; **contained** within ~18–30 months via platform vaccines, reduced virulence, and/or hybrid immunity. **Emergency powers do not fully sunset.** |
 | **~2039–2042 (novel present)** | Uneven **armed reopening** after the war's hottest phase: Malacca, Strait ports, and some corridors function again under incompatible armistices. Proxy fighting, blockades, maritime seizures, and drone attacks continue. Pelangi Reach and similar pockets operate as **accountable refuges**. Covert **Psion War** is fully active and harder to hide. **Default anchor 2040:** Eli **21**; Wren **18**. Optional slide: see § *Author year range*. |
 
-The world is **damaged but functioning** — not collapse, not utopia.
+The world is **damaged but functioning** — kitchens, ports, phones, hospitals. Complex replacement of magnets, controllers, and throwaway airframes has seized. Full industrial picture: `65_replacement_seizure.md`.
 
 **Female-majority formalization / national fracture — LOCKED 2026-08-10:** The Weapon's male-skewed mortality left a female political majority across most surviving populations. That majority did what the old guilty powers had stalled on for years: it forced Entropy Crimes into a binding global regime instead of a doctrine the largest violator could simply decline. Continental Union's predecessor states could not survive the pressure intact — this is the "sudden catastrophic fracture" the bloc table below (§ *Armistice-era bloc archetypes*) already names as its long arc. Other nations broke along the same fault line, built as they were for a male-majority electorate that no longer existed. What reconsolidated afterward — the three blocs — left no single successor state large enough to dominate the world again. Full mechanism: `64_entropic_allocator_perimeters.md` § *How perimeter law arose*.
 
@@ -250,7 +250,7 @@ one immediate cost are enough. Full definition: `64` § *Spent glass*.
 |---|---|
 || **No mass industrial base** | Humanoid and service robotics need fabs, precision supply chains, skilled maintenance, and steady power — all **disrupted** by mid-2030s war, Fever Years, satellite gaps, and bloc fragmentation |
 || **Population decline / missing cohort** (`WORLD_BIBLE`) | Shrunken workforces; aging maintainers; **fewer factories retooled** for embodied automation; child infrastructure repurposed — not a robotics boom |
-|| **Post-Turning priorities** | States fund **registries, drones, quarantine, psion teams** — not civilian robot fleets |
+|| **Post-Turning priorities** | States fund **registries, drone magazines, quarantine, psion teams** — and still cannot restock throwaway airframes at WWIII rates (`65`) |
 || **Software substitute** | Translation, scoring, surveillance, triage run on **networks and phones**; cheaper than bodies |
 || **The entropy bill** | Every ordered metal body requires continuous low-entropy feed — power, heat, precision parts, human maintainers. Software scales because copying code requires an infinitely smaller gradient injection than forging a new servo. Humanoid robots failed because planners treated **ordered matter** like **information** |
 
@@ -267,13 +267,13 @@ Late-2020s–early-2030s culture treated embodied automation as if it could scal
 | **Humanoid robots** | **Meridian City / the Stack**; Union power sites; royal-hub **propaganda** (promised more than delivered) | **Status theater** — lobby greeter, ceremonial guard, intake escort; locals stare; **one humanoid = wealth speech** |
 | **Quadruped / patrol bots** | Legacy at failed megaprojects (**Pelangi** robot dogs); some Stack/Union perimeters | **Patched, few, one route** — pet/guard/toy/surveillance; not a pack |
 | **Fixed automata** | Babaji's chess boards; mall gimmicks | **Not humanoid**; pre-Turning or imported kits |
-| **Drones / autonomous weapons** | War, corridors, blockades (`38`, `33`) | **Military register** — fought over, jammed, logged; distinct from civilian humanoid scarcity |
+| **Drones / autonomous weapons** | War, corridors, blockades (`38`, `33`, `65`) | **Counted magazines** — fought over, jammed, logged, spent; a surge then a thin sky; same entropy bill as other ordered metal (`65_replacement_seizure.md`) |
 
 **Pelangi rule:** the king's Reclamation hub **wanted** robotics to rival Singapore; the megaproject **failed before scale**. Babaji's **robot dogs and chess boards are leftovers** — maintained by hand, not proof the island is a robot city.
 
 **Guards:** no robot waiter armies; no humanoid servants at **Malacca** chandlery; no "everyone has a home bot." When Eli sees a **humanoid**, it should feel **wrong and loud** — someone's budget talking. Malacca, threshold houses, and Pelangi terrace life stay **human-bodied**.
 
-**Cross-refs:** `05` § Pelangi hub; `26` § Babaji; `WORLD_BIBLE` § Pelangi modernization; `56` § technological register.
+**Cross-refs:** `05` § Pelangi hub; `26` § Babaji; `WORLD_BIBLE` § Pelangi modernization; `56` § technological register; `65_replacement_seizure.md` (drones as magazines; what still works).
 
 ### Education lock — AI-scaled, mentor-scarce (LOCKED 2026-08-06)
 

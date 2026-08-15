@@ -115,8 +115,9 @@ This makes the war's arms race legible and thematically exact. The more psionic 
 - **Targeting still needs a mind or a registry.** Autonomous ordnance is only as good as its target data; this is why Lang's registry is itself a weapon (`33`) — it supplies the signatures autonomy cannot sense for itself. Deny or poison the data and the machine is blind.
 - **Every human in the loop is Blockable.** Operators, launch authorities, maintenance crews, and command nodes remain minds. The soft suite (§B) attacks *them*, not the drone: false certainty in a targeting officer, autopilot error in a launch crew, a fractured chain of command.
 - **Masking works at the sensor, not the mind.** Decoys, false signatures, and material concealment (the grounding rule) degrade machine sensors as they always have.
+- **Magazines are finite (`65_replacement_seizure.md`).** A surge empties a depot. Autonomy still needs seekers, radios, and chips the replacement seizure already rations. The horror of the strike with nobody home only holds while a bird remains to fly it. After the throw, people return to the doorway.
 
-Doctrine for set-pieces: **psions do not fight drones; they fight the humans and the data behind them, and lose the ones they cannot reach.** The horror of the fully autonomous strike is precisely that there is no one on the other end to persuade, deceive, or wake.
+Doctrine for set-pieces: **psions do not fight drones; they fight the humans and the data behind them, and lose the ones they cannot reach.** The horror of the fully autonomous strike is precisely that there is no one on the other end to persuade, deceive, or wake. A false signature that wastes six birds is a factory defeat.
 
 ## 3a. Asymmetric warfare — light infantry vs chariot (LOCKED 2026-08-01)
 

@@ -237,7 +237,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 | **Seed (Thailand present: mountain → Khun Dang → wat)** | Adult chooses silence; learns cover + methods under pursuit | Mountain road, song, bell, breath, walk, eat, work, scan, stand, metta |
 | **Carry (Pelangi Reach → Malacca)** | Worker competence + Maren habit (breath only) **mistaken** for equanimity | Facilities calm, garden failure, splice refuge; **no martial skill** on-page yet |
 | **First test (Malacca breach)** | Talents **activate** — receiver ON, flare, overload; **not trained** (no martial, no psi control) | Overload, asphyxia, loss of breath; wild fight, not forms | A **fragment** returns — one counted exhale, attention to sole of foot — insufficient alone, but keeps him from total identification |
-| **Vol I proof (Thailand / Manual Override)** | Charge deposits; autopilot commands | **Personal Manual Override:** feel charge, do not complete the act — wat stack **works** under full pressure (Ch 6 stone, Ch 8 bleed, Ch 9 evacuation) |
+| **Vol I proof (Thailand / Manual Override)** | Charge deposits; stay-with / inverse | **Personal Manual Override:** stay with the sensation until the inverse forms; do not complete the act — wat stack **works** under pursuit (Ch 6 stone, Ch 8 bleed, Ch 9 evacuation) and **fails** against Rasel's ask at Sanxingdui (`67`) |
 | **Vol II (witness sites, mother-reveal)** | Relational hold | Breath stabilizes after contact; can stay with Wren/ensemble without managing or fleeing |
 | **Vol III (authority, inquiry)** | Civilizational equanimity | Accept bounded command, refuse forced synchronization, submit to review — practice scales to **coordinate without owning** |
 
@@ -265,7 +265,10 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 **What he learns (Ch 5–10, first on-page):**
 - **Moving chi / breath through the body** — *lom*, whole frame at once; builds on wat schedule + Maren's earlier gesture.
 - **Martial line work** — range, angle, timing, Muay Thai structure, Kali triangles.
-- **Effect:** fast reflexes when integrated — **bounded**; TBI and overload remain.
+- **Adaptive middle in contact (`67`, `68`):** neither flinch out of range nor crash in as the heat. Stay until an exit or an opening appears. Same stay-with / inverse as the candle, louder amplitude. Kru Dao teaches **stance as exit-route** (`26`): the point is to leave a room alive, not to win a name.
+- **Effect:** cleaner timing when integrated — **bounded**; still scared; TBI and overload remain. No public bouts. No champion arc.
+
+**Author analogy only — never on-page:** the samurai/kendo image (stay in the pocket, neither freeze nor rage) is how a drafter can feel the lesson. The room is Thai/Kali/*lom*. Do not import bushido, swords, or a Japanese teacher.
 
 **Pelangi Reach:** **no martial teacher.** Talent pressure = **Foundry visuo-spatial** only (Wren sandbags splice times; *adequate is safe*); Singapore contract = scheduled leave away from scrutiny.
 

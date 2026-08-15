@@ -1,6 +1,6 @@
 # Future Conflicts Atlas — ~2040 World & Trilogy Pressure Map
 
-> **Status:** LOCKED 2026-07-26. Companion to `23_2040_present_frame.md` (macro world), `64_entropic_allocator_perimeters.md` (perimeter economy), `33_volume_III_beatsheet.md` (Book III war thesis), `44_cultural_moment_and_mass_appeal.md` (durable pressures), `90_epigraphs_and_sources.md` §10 (civil-rights / King register), `38_psionic_combat.md` (tactics), `51_field_sail_and_mandate_peace.md` (post-climax peace engine). **Craft rule:** conflicts appear as **procedure, scarcity, and named cost** — not thesis dialogue. One 2040 scar per scene (`23` § *How to show 2040*).
+> **Status:** LOCKED 2026-07-26. Companion to `23_2040_present_frame.md` (macro world), `64_entropic_allocator_perimeters.md` (perimeter economy), `65_replacement_seizure.md` (industrial capacity / drone magazines), `33_volume_III_beatsheet.md` (Book III war thesis), `44_cultural_moment_and_mass_appeal.md` (durable pressures), `90_epigraphs_and_sources.md` §10 (civil-rights / King register), `38_psionic_combat.md` (tactics), `51_field_sail_and_mandate_peace.md` (post-climax peace engine). **Craft rule:** conflicts appear as **procedure, scarcity, and named cost** — not thesis dialogue. One 2040 scar per scene (`23` § *How to show 2040*).
 
 ---
 
@@ -137,9 +137,10 @@ Bronze Age rhyme: `23` § Armistice-era bloc archetypes — **antifragility vs b
 
 | Pressure | Issues |
 |---|---|
-| Autonomous weapons | No mind to jam; fight data and operators (`38` §3a) — **not** humanoid infantry swarms |
+| Autonomous weapons | No mind to jam; fight data and operators (`38` §3a); **counted magazines**, then a thin sky (`65`) — humanoid infantry still refused |
 | Humanoid / embodied robots | **Rare** — Singapore, power centers, status theater; **entropy mistake** (treated like software; death tech never breaks second law); industrial base + population decline limit production (`23` § *Robotics lock*, `22` § *Death technology*) |
 || Field sail | Union theory / Mandate build / teahouse verify — none alone (`51`) |
+|| **Replacement seizure** | Daily life holds; magnets, controllers, throwaway airframes, and leading-edge silicon do not refresh at prewar rates. Mandate allocates remaining precision; Union spends bunker stock; Ports salvage (`65`) |
 || **Entropic enforcement** | Entropy Crime doctrine → registered perimeters + multidimensional EEU profiles + physical boundary limiters + ZKP proofs + drone calibration + human Audit Marshals + Metrology Temples. Life is included; bodies keep sovereign standing. Stored liabilities carry forward. Black market = perimeter ghosting (`64`) |
 || Satellite gaps | Terrestrial routes and stones matter again |
 
@@ -248,6 +249,7 @@ Retain the research and imagery as quarry or as material visible through Union r
 | 2040 world texture | `23_2040_present_frame.md` |
 | Book III war + Okafor cast | `33_volume_III_beatsheet.md` |
 | Psionic tactics + drones | `38_psionic_combat.md` |
+| Industrial capacity / drone magazines | `65_replacement_seizure.md` |
 | Peace / field sail / Ma | `51_field_sail_and_mandate_peace.md` |
 | Civil rights + King memorial | `90_epigraphs_and_sources.md` §10 |
 | Durable reader pressures | `44_cultural_moment_and_mass_appeal.md` |
