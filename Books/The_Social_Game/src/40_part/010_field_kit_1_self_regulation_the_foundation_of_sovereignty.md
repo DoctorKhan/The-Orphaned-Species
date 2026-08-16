@@ -32,17 +32,17 @@ In the Four Spheres framework, the **Sphere of Self** is the innermost circle. I
 
 Through my investigation, I discovered three essential practices that form the foundation of Self-Regulation:
 
-### Practice 1: The Three Doors (Emotional Sovereignty)
+### Practice 1: The Middle (street first-aid)
 
-**The Discovery**: In Bali, I watched people navigate intense community dynamics with a kind of emotional fluidity I'd never seen. They could be fully engaged in conflict or celebration, then return to a centered state without carrying residual charge.
+**The Discovery**: In Bali, I watched people stay inside a fight or a celebration and then return to the next task without dragging the last hour into the room.
 
-**The Technology**: The Three Doors Practice—three reliable exits from emotional hijacking:
+**The Technology**: One law, three faces. Keep the place you can engage from. The old "three doors" list folds here. It is not a second map.
 
-- **Door 1: The Body** - Using breath and physical sensation to interrupt the stress response
-- **Door 2: The Witness** - Stepping back into observer consciousness to see the pattern rather than being trapped in it  
-- **Door 3: The Dissolve** - Starving the emotional whirlpool of attention until it naturally dissipates
+- **Stay** (signal) — breath and contact until the body stops treating the heat as an order to flee or drown
+- **Catch** (identification) — hear the thought as a part speaking, the way you would hear a chair: grain, weight, then the sentence about yourself
+- **Interrupt** (first aid) — tiller, tea, feet, work, when the middle cannot be held yet. Return to stay when you can. Not a fourth face.
 
-**Why This Matters**: When you can reliably exit emotional hijacking, you stop unconsciously exporting your stress to others. You become someone who adds stability to group dynamics rather than chaos.
+**Why This Matters**: When you can keep that place, you stop handing your next hour to the last one.
 
 ### Practice 2: String Identification (Recognizing Unconscious Programming)
 

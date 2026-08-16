@@ -1085,11 +1085,11 @@ Sarah realized she could map her own whirlpools using this framework:
 2. **Modify feeling direction**: Shift emotional tone, change energy level, adjust openness/contraction
 3. **Stabilize new whirlpool**: Maintain new vector combination until it feels natural
 
-## The Manual Override: Three Doors to Freedom
+## The Manual Override: The Middle (street first-aid)
 
-**Practical Pat** explained: "The key is to intervene as soon as you notice you're in a whirlpool. There are three doors in. The first two involve engaging directly with the whirlpool's components. The third is a powerful pattern-interrupt for when the whirlpool feels too strong to face head-on."
+**Practical Pat** explained: "The key is to intervene as soon as you notice you're in a whirlpool. Keep the place you can engage from. Stay with the signal, catch the thought as a part, or interrupt if you cannot hold yet. The old three-doors list is these faces. It is not a second map."
 
-### Door #1: The Somatic Strategy (When the Feeling is Strongest)
+### Stay — the body (when the feeling is strongest)
 
 If the physical sensation of the emotion is what's most prominent—the heat of anger, the hollowness of sadness, the vibration of fear—your work is with the body. The goal is to stay with the physical sensation until your nervous system adapts to it, realizing it is not a threat.
 
@@ -1103,7 +1103,7 @@ If the physical sensation of the emotion is what's most prominent—the heat of 
 
 4. **Allow Adaptation**: As you stay present with the sensation without adding a story to it, your body learns that the signal itself is not dangerous. The alarm bells quiet down. The feeling's "dwell time" shortens, and it loses its magnetic power to attract a confirming thought. The whirlpool starves.
 
-### Door #2: The Cognitive Strategy (When the Thought is Strongest)
+### Catch — the thought (when the story is strongest)
 
 If the story or the looping thought is what's most prominent, your work is with the mind. The goal is not to argue with the thought or suppress it, but to fundamentally change your relationship to it.
 
@@ -1117,7 +1117,7 @@ If the story or the looping thought is what's most prominent, your work is with 
 
 4. **Listen with Compassion**: Now, listen to that part with curiosity. What is it afraid of? What is it trying to protect you from? By treating the thought as a messenger from a part of yourself instead of an absolute decree, you stop fueling the whirlpool. The thought is heard, but it no longer has the power to generate the corresponding feeling. The loop is broken.
 
-### Door #3: The Competitive Sensory Strategy (The Pattern Interrupt)
+### Interrupt — first aid (when you cannot hold yet)
 
 Sometimes a whirlpool is too intense. Engaging with the feeling feels overwhelming, and trying to listen to the thought just pulls you in deeper. In these moments, you need to change the channel entirely. The goal is to competitively occupy your awareness with a different, more compelling sensory input.
 
@@ -1232,7 +1232,7 @@ The investigation was about to reveal the foundational practices that would make
 
 # Chapter 7: Foundational Practices
 
-Sarah had the theory—the cosmic rhythm, the whirlpool model, the three doors to freedom. But she needed something more: systematic practices that would build her capacity to navigate these states consistently.
+Sarah had the theory—the cosmic rhythm, the whirlpool model, the middle (stay / catch / interrupt). But she needed something more: systematic practices that would build her capacity to navigate these states consistently.
 
 Marcus's next message would provide exactly that.
 
@@ -1330,7 +1330,7 @@ Sarah felt a thrill of anticipation. This was what she'd been waiting for—the 
 - **Before meetings**: Ground, breathe, set intention to listen deeply
 - **After difficult conversations**: Process emotions somatically before moving on
 - **During transitions**: Use walking between locations as mindfulness practice
-- **When triggered**: Apply one of the three doors from the whirlpool model
+- **When triggered**: Apply stay, catch, or interrupt
 
 ### Evening Practice: Integration and Release
 
@@ -1526,7 +1526,7 @@ The investigation was about to reach a new level of sophistication.
 
 # Chapter 8: The Four Freedoms
 
-Sarah had been practicing the foundational techniques for several weeks. She could recognize whirlpools, apply the three doors, and maintain observer awareness for longer periods. But she was beginning to face a new challenge: different situations seemed to require different approaches.
+Sarah had been practicing the foundational techniques for several weeks. She could recognize whirlpools, apply stay, catch, or interrupt, and maintain observer awareness for longer periods. But she was beginning to face a new challenge: different situations seemed to require different approaches.
 
 Marcus's next message would provide the solution—an advanced navigation system that would transform her from a beginner practitioner into a sophisticated consciousness navigator.
 
@@ -1836,7 +1836,7 @@ By the end of Stage 1, you should be able to:
 ### Daily Practices:
 - **Morning**: 10-20 minutes combining breath awareness with body scanning
 - **Workday**: STOP technique when triggered, micro-meditations during transitions
-- **Evening**: Emotional processing using the three doors from whirlpool model
+- **Evening**: Emotional processing using stay / catch / interrupt
 - **Focus**: Strengthening observer capacity and emotional regulation
 
 ### Advanced Techniques:
@@ -1981,7 +1981,7 @@ Stage 4 isn't an endpoint but the beginning of lifelong mastery. Advanced practi
 Sarah realized that the Four Stages provided the perfect framework for integrating everything she'd learned:
 
 **Stage 1** + **Cosmic Rhythm** = Understanding which phase you're in and why
-**Stage 2** + **Whirlpool Model** = Developing skill with the three doors to freedom
+**Stage 2** + **Whirlpool Model** = Developing skill with the middle (stay / catch / interrupt)
 **Stage 3** + **Four Freedoms** = Choosing the right quality of consciousness for each situation
 **Stage 4** + **Foundational Practices** = Living from integrated mastery as your natural state
 

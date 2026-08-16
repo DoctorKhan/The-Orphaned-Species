@@ -59,7 +59,7 @@ The receiver hardware is **not permanently on.** A psion can move between a **do
 
 ### Switching off under pressure
 - The native-road practice (Living Way / Manual Override / held rhythm) is partly the ability to **lower the receiver** when activation would be fatal — refusing to entrain, refusing to broadcast, refusing to resolve the field when the field is a weapon.
-- Eli's TBI gives him both a weaker filter (he flares more easily) and a practiced override (he can drop the connection when he feels the prickling start). This is not supernatural willpower; it is learned regulation of the same hardware.
+- Eli's Fever scar gives him both a weaker filter (he flares more easily) and a practiced override (he can drop the connection when he feels the prickling start). This is not supernatural willpower; it is learned regulation of the same hardware.
 - **Rule:** switching off is not denial. It is **discipline under overload** — the difference between closing your eyes in a flash-bang and pretending the light isn't there.
 
 ### Real vs. speculative anchors
@@ -142,7 +142,7 @@ The Awakening War's combat doctrine is **distributed, adaptive, non-state actors
 ## 4. Costs, physiology, recovery
 
 - Coherence drains with use; spent psions are **slow, sick, sleepless, and stupid** until they recover. Recovery needs rest, food, safety, and time — ordinary care, which the Healer can support but not shortcut.
-- Severe Lance damage and broken Blocks leave **real bodily aftermath**: nosebleeds, fever, tremor, memory gaps, the disruption of a chronic pattern (Eli's TBI flares under attack).
+- Severe Lance damage and broken Blocks leave **real bodily aftermath**: nosebleeds, fever, tremor, memory gaps, the disruption of a chronic pattern (Eli's Fever scar flares under attack).
 - **Loss of agency under Block** is the signature psionic cost for anyone; for Eli, heavy **Block** forces autopilot — invasion of will, not merger of identity. Receiver overload after witness-site contact is **body cost**, not "who am I?"
 
 ## 5. Failure modes (build set pieces around these)

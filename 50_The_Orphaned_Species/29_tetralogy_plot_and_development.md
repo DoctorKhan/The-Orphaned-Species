@@ -268,7 +268,7 @@ Source: `05` §7 revised table; `99` Priority -1. Old `31`/`32`/`33` chapter all
 | **Men-an-Tol** | II Ch 7 | Mother-line threshold | Holed stone — infant passage; Eli passed through as baby; bridge made stone |
 | **Albion ground** | II climax | Mother **alive at the console** — she *is* the way in | Release mother (she leaves alive); first awakening; **not** source of Eli's gift |
 
-**Still open (`99` § Charged-ground triggers):** pin **Tem**, full **Ila** witness stone, **Aedan** deep arc ground, Göbekli **present-day staging** (dig / shrine / military zone). **Delphic Games / Laurel Cube contact — LOCKED Book II Ch 4, Delphi.**
+**Still open (`99` § Charged-ground triggers):** pin **Tem**, full **Ila** witness stone, **Aedan** deep arc ground, Göbekli **present-day staging** (dig / shrine / military zone). **Delphic Games / Laurel Cube contact — LOCKED Book II after Ch 3 Göbekli, then Thrace clinic.**
 
 ### Albion sequence (Vol II — not interchangeable)
 

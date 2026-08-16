@@ -21,7 +21,10 @@
 > **Prose pass — 2026-08-16:** Book I wat candle/afterimage on-page. Book II
 > traveling-Rasel rebuilt (on-page only after Rollright, at Sanxingdui). Book
 > III wonder floor landed on existing scenes. Book IV corridor / eruption /
-> Heather / birth-field landed.
+> Heather / birth-field landed. Word-web seeds landed same day (`98` item 7).
+> Delphi/Games route in `55` and sister files now matches the manuscript
+> (after Ch 3, then clinic). Companion live sources fold "three doors" into
+> the middle.
 > **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-08-09, PROSE RECONCILED:**
 > The series now ends in a women-led court volume. Book III's handover is
 > real and complete for Eli himself — a genuine transfer, in one hall, under
@@ -39,14 +42,13 @@
 > Book IV carries conscious attraction, repeated sex before romance, chosen
 > conception, pregnancy, childbirth, institutional settlement, and Eli's second
 > and final relinquishment. The governing spine is in
-> `60_volume_IV_court_of_threads.md`. **Complete ten-chapter drafts exist for
-> Books II–IV written under the prior premise (attacked/incomplete first
-> handover) — those drafts need a reconciliation pass against this revision,
-> particularly Book III's ending chapters and Book IV Ch. 1.** The former Book
-> III shared-garden coda still closes Book IV.
+> `60_volume_IV_court_of_threads.md`. **I–IV governing drafts exist and
+> have been reconciled to this architecture** (III handover hall; IV opens on
+> the compact gap). The former Book III shared-garden coda still closes Book
+> IV.
 
 **Status:** Books I–IV drafting pass complete, 2026-07-28 (volume map: `SERIES_STRUCTURE.md`; optional V–VI unallocated). Remaining unchecked
-items are research verification, cast-bible cleanup, publication expansion, III/IV redesign reconciliation, or
+items are research verification, cast-bible cleanup, publication expansion, or
 superseded-plan notes—not missing chapter drafts for I–IV. Do not call the series a trilogy.
 
 ## Drafting frontier (2026-07-22, in order)
@@ -126,8 +128,9 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
   Mesopotamian archive and Göbekli / Taş Tepeler into the westward route.
 - [x] Lock the westward causal route through Mesopotamia/Anatolia →
   Bosporus/Thrace/Balkans; no Gulf backtrack.
-- [x] Lock the Europe clue chain: Hassan record → dead-zone signature → Pömmelte
-  → broken-line church → Rollright/Men-an-Tol → Delphic Games / Laurel Cube contact → Stonehenge
+- [x] Lock the Europe clue chain: Göbekli → Delphic Games / Laurel night →
+  Thrace clinic → Hassan record → dead-zone signature → Pömmelte
+  → broken-line church ⊂ Ch 6 → Rollright/Men-an-Tol → Stonehenge
   transmission station → Avebury release.
 - [x] Dramatize the Arta, Enheduanna, and *Inana's Descent* material without turning texts into exposition.
 - [x] Make melam external field-pressure and ni embodied awe/fear; show ni being converted into persecution and obedience.

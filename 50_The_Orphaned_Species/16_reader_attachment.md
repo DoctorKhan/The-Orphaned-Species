@@ -52,7 +52,7 @@ The reader is drawn by an unclosed desire, not an unanswered lore question alone
 
 Before a character becomes important to the mythos, show them in ordinary conduct.
 
-For Eli, that means work shifts, fatigue, careful money, ferry schedules, food habits, sailing routines, quiet adaptations to brain injury, and the small social intelligence of someone trying not to be a burden.
+For Eli, that means work shifts, fatigue, careful money, ferry schedules, food habits, sailing routines, quiet adaptations to leftover fever, and the small social intelligence of someone trying not to be a burden.
 
 For other characters, the same rule applies: show what they maintain before showing what they know.
 

@@ -578,19 +578,22 @@ confirmation for its own sake.
 
 Use with `32_volume_II_beatsheet.md` when outlining or drafting. **Pass** = all ten checklist items planned on-page; Charkha **pair-severance files** land Ch 5 (partial purpose → Vol III). Wren's first consequential recovery occurs beside Rowan. **No Sanxingdui repeat.**
 
+> **Route correction — 2026-08-16:** Delphic Games / Laurel night is a present-tense stop **after Ch 3 Göbekli**, then the Thrace clinic (Ch 4). Ch 6 is Pömmelte / Changing Map. Ch 7 is Rollright / Men-an-Tol. Delphi is not a Ch 6 detour. On-page: `manuscripts/II_The_Descent.md`.
+
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
 | 1 | Bodies and Crossings | Anatolia corridor; Somchai→Eli | Wounded body; Tem record → 17:1 pit | Somchai terms vs Eli urgency; Wren vs search | Tem pointer → Ch 5 Pömmelte chain | Psion war policy; conscription | Somchai depth; Wren bills displacement | Kneel→cage→burn | Healer witnessed save (micro) | Usefulness-as-love fight | Reconstruct clue; keep west |
 | 2 | Westward Transfer | Bosporus–Thrace/Balkan | Map fragment; medical-transfer van | Slow handoff vs shortcut; *Liaisons* trap | Hassan move → Ch 3 holding | Custodians + contractor cover | Wren dismantles honey-trap | Dead-zone sig → Pömmelte chain | Ferry/port human scale | Route burned for refugees | Hassan before jurisdiction swallows |
-| 3 | What They Took | Holding site + record | Rasel's ring; Maren's hidden index; damaged western chart | Person vs evidence; keeper song vs file | Midpoint: tether not address → Ch 7 | Charkha clipboards; courteous suppression | Hassan first-person; Sora leak (off-page) | Registry father-above vs hand-to-hand | — | Mother complicity; partial record lost | Find mother → **release** |
-| 4 | Healer's Kneel | Medical corridor (Somchai→Eli) | Triage table; declined crown | Healer vs pilgrims vs Sol mirror | Rumor outruns → Vol III | Media/faction recruiters | Somchai; Sol establishing pass | Gabriel annunciation after the hard no | — | Route narrows; stabilized liability | Stay a body among bodies |
-| 5 | Changing Map | Europe; Wren→Eli | Pömmelte shafts; pew geometry; Extra settlement | Maren's field notebook kin wrong → corrected; person vs rejected status | Pömmelte mark → Ch 6 sound route | Holt/Khan clerk; **Albion rename**; dependency-transfer files | Rowan entrance; Extra missing man; Sol recruiters | Church drain; Charkha A/B scripts | Pömmelte horror awe before inference | Network route burned | Return person, not category |
-|| 6 | Riddling Node | Rollright → Delphi detour | Hawthorn bend; rowan branches; Delphic Games / Laurel Cube contact — giant face with white somatic markings, Eli sees older hands passing the same motions across generations then his own hands moving fast with the same cadence, a fellow incubant's wide-eyed stare breaks the trance, and afterward he begins to speak with his hands more often | Rowan *completed route ≠ returned person* vs Wren iron | Anthea/Lira → Stonehenge ground | Changeling record (dual truth) | Keeper fairy-doctor; Cuno edge | Alba/Albion/Sídhe dual register | Mound crossing breath before iron | Anthea killed; Lira carried song | Hold thread without owning |
+| 3 | Buried Instrument | Göbekli hill, then Games at Kastri | Fox pillar; Laurel night; giant face / white markings / hands | Person vs fill schedule; games-as-door | Stamp → Ch 4 clinic road | Consortium instrument window | Nehir's dry refusals | Kneel toward pulse | Hill pulse before ambush; Games night | Convoy leaves without them | Reach the clinic with a pass |
+| 4 | Healer's Terms | Thrace clinic (Somchai→Eli) | Triage table; declined crown; Dei/Dio chalk | Healer vs pilgrims vs Sol mirror | Rumor outruns → Vol III | Media/faction recruiters | Somchai; Sol establishing pass | Gabriel annunciation after the hard no | — | Route narrows; filmed liability | Stay a body among bodies |
+| 5 | Holding Site | Hassan / western hold | Rasel's ring; Maren's hidden index; damaged western chart | Person vs evidence; keeper song vs file | Tether not address → Ch 7 | Charkha clipboards; courteous suppression | Hassan first-person; Sora leak (off-page) | Registry father-above vs hand-to-hand | — | Mother complicity; partial record lost | Find mother → **release** |
+| 6 | Changing Map | Pömmelte; Extra settlement; Wren→Eli | Pömmelte shafts; pew geometry; house sheet on Rowan's table | Kin branch wrong → corrected; person vs rejected status | Pömmelte mark → Ch 7 corridor | Holt/Khan clerk; Albion rename | Rowan entrance; Extra missing man; Sol recruiters | Church drain; Charkha A/B scripts | Pömmelte horror awe before inference | Network route burned | Return person, not category |
+| 7 | Riddling Ground | Rollright + Men-an-Tol one corridor | Hawthorn bend; rowan branches; holed stone | Rowan *completed route ≠ returned person* vs Wren iron | Anthea/Lira → Stonehenge ground | Changeling record (dual truth) | Keeper fairy-doctor; Cuno edge | Alba/Albion/Sídhe dual register | Mound crossing breath before iron | Anthea killed; Lira carried song | Hold thread without owning |
 | 9–10 | Transmission Station / Release | Stonehenge station → Avebury | Cuno routing record; six bounded artifact-wisdoms; inhabited ring | Provenance vs one command; release not acquisition | **Vol II close** — awakening spreads | England ambush instrumented; Deiwos route | Wren/Rowan/Eli plural V denouement | Seizure strips names from routes | Stonehenge weather **before** ambush | Maren release; healer nearly conscripted | Reach endpoint; **free her** |
 
 ### Book II clue-chain spine (pitch-facing)
 
-Anatolia corridor → **Bosporus/Thrace transfer** → holding-site record (Ch 3) → Europe dead zones → **Pömmelte** → broken-line church → **Rollright/Men-an-Tol** → **Delphi / Delphic Games** → **Stonehenge transmission station** → **Avebury release**. Artifacts: map fragment, ring, Maren's field notebook kin branch, registry marks, holed stone. Full beats: `32`; artifacts `35`; Maren's field notebook `52`.
+Anatolia corridor → **Göbekli (Ch 3)** → **Delphic Games / Laurel night** (after Ch 3, before the clinic) → **Thrace clinic (Ch 4)** → holding-site record (Ch 5) → **Pömmelte (Ch 6)** → broken-line church ⊂ Ch 6 → **Rollright/Men-an-Tol (Ch 7)** → **Stonehenge transmission station** → **Avebury release**. Artifacts: map fragment, ring, Maren's field notebook kin branch, registry marks, holed stone. Full beats: `32`; artifacts `35`; Maren's field notebook `52`.
 
 ### Book II chapter-end hooks (drafting obligation)
 
@@ -600,16 +603,18 @@ Each chapter must close on a **next place + next question**, not a thesis:
 |----|---------------------|
 | 1 | 17:1 bottleneck site named; westward transfer clock running |
 | 2 | Hassan in motion toward western hold; Europe is the only door |
-| 3 | Alive, held west, wired into the ground, no address — rescue is possible, which is what makes **release** a choice; living observation only |
+| 3 | Games stamp in the pocket; clinic road open; hill already filling |
 | 4 | European broken lines; living detours required; Sol's shadow on Eli |
-| 5 | Rollright/Men-an-Tol ahead; Pömmelte mark proves surveillance network; Rowan/Wren charged |
-| 6 | Stonehenge ground live; Lovernios fragment carried; Wren/Rowan renewed on terms |
-| 7 | Maren freed; awakening spreading; Sol recruiting forced unity → Vol III |
+| 5 | Alive, held west, no address — rescue is possible, which is what makes **release** a choice |
+| 6 | Rollright/Men-an-Tol ahead; Pömmelte mark proves surveillance network; Rowan/Wren charged |
+| 7 | Stonehenge ground live; Lovernios fragment carried; Wren/Rowan renewed on terms |
+| 8 | One-way Maren contact; Avebury as pressure, not a mutual plan |
+| 9–10 | Maren freed; awakening spreading; Sol recruiting forced unity → Vol III |
 
 ### Book II comps notes (vs Vol I)
 
-- **Dual-register clues locked:** Ch 5 civic **Albion rename** → Ch 6 keeper **Alba/elf/Sídhe** rhyme (same beat structure as Ch 5 clerk / Ch 6 stone in Vol I spirit).
-- **Institutional villainy escalates:** Charkha suppression courteous (Ch 3) → pair-severance files (Ch 5) → instrumented ambush (Ch 7).
+- **Dual-register clues locked:** Ch 6 civic **Albion rename** → Ch 7 keeper **Alba/elf/Sídhe** rhyme (same beat structure as Vol I clerk / stone).
+- **Institutional villainy escalates:** Charkha suppression courteous (Ch 5) → pair-severance files (Ch 3/6) → instrumented ambush (Ch 9).
 - **Win condition preview:** release + relational Manual Override — **not** decoded taxonomy or bloodline answer.
 - **Refuse:** Eli owns mother; elf as single-bullet reveal; Rowan as prophecy; Charkha full engine purpose (Vol III).
 

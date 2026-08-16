@@ -93,7 +93,7 @@ Here is a detailed outline for the entire book, designed to integrate all the co
 *   **Chapter 17: Field Kit 1: Self-Regulation**
     *   The foundation of sovereignty. Starts with the **Self Sphere**.
     *   Integrates the "Marionette's Discovery" to explain seeing your strings.
-    *   Provides the "Reality Whirlpool" first-aid kit (The Three Doors) for emotional hijacking.
+    *   Provides the whirlpool first-aid as faces of the middle (stay / catch / interrupt). The old "three doors" list is folded here.
 
 *   **Chapter 18: Field Kit 2: Community Weaving**
     *   The art of rebuilding the **Tribe and Alliance Spheres**.

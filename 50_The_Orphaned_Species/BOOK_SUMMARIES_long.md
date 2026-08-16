@@ -14,7 +14,7 @@
 
 ## Standing cast (so names stay straight)
 
-- **Eli** — protagonist; given name **Eli** (Maren); **dak nam Babu** (Rasel/Shireen); English paperwork **Eli Holt**; stateless refugee; facilities worker at Forest Foundry; natural carrier (receiver sensitivity—reads trajectories through systems, not bodies; Somchai reads bodies and repairs them); childhood TBI. Home POV for nearly every scene.
+- **Eli** — protagonist; given name **Eli** (Maren); **dak nam Babu** (Rasel/Shireen); English paperwork **Eli Holt**; stateless refugee; facilities worker at Forest Foundry; natural carrier (receiver sensitivity—reads trajectories through systems, not bodies; Somchai reads bodies and repairs them); Fever scar (leftover fever from the Pelangi outbreak). Home POV for nearly every scene.
 - **Maren Holt** — Eli's mother; manuscript handle **Maren**. **Albion passport**; **neuroscientist** (signature / classifier / integration research—not a philologist); carrier; dissident; author of the **Maren's field notebook** (encoded comparative field journal); claimed by the Charkha, then escaped into a distributed receiver community. **Alive, self-constrained at the Albion interface until Book II release**: she remains because she understands enough of the damaged life-technology to keep human–elven contact from becoming a massacre, not because she passively awaits rescue. Mei Friday dinner (Ch 1): missing after leaving for a rendezvous; no witnessed death. Book II: trail, reunion, comprehension, release at Albion.
 - **Rasel Khan** (রাসেল খান — manuscript handle **Rasel**) — Eli's father; **Bangladeshi passport**; **physicist/gardener**; maker of the **wedding ring** (*same soil*); builder of **coupling / field instruments**; abducted before a rendezvous and later **inside the Eastern Mandate research program by his own choice**; alive and settled at Sanxingdui through **Book I**, where he lures Eli to complete the apparatus and remains behind afterward — revised 2026-08-11, `58_sanxingdui_climax_lock.md` governs. Mei Friday dinner (Ch 1): missing after promising to return for Eli. Old friend of **Babaji**.
 - **Wren** — 19; **Malay Chinese**; house Weaver doing junior **Knotter** work through Babaji: intake, placements, attestations, public rooms, and route logistics. She is not Unranked and does not run extractions in Book I. Mira died after a valid official transfer Wren helped process, teaching her that completed paperwork is not a returned person.
@@ -77,7 +77,7 @@
 **[anchors]** Present: Eli, Wren, local growers, keeper stilt-house. Objects: growth report. Travel: Pai pass-through → wat → cooperative. Eli knows new: living plants trace a real forming line.
 **Event sequence:** Growers separate anomaly from blight/salinity/burn; plant growth traces forming ley line. Planted lead partly stale/misleading. Khun Dang, wat practice, Pai pass-through ground arc.
 **Forward clue:** forming-line geometry points southwest toward community record.
-**⚠ Seam:** cube-grounded visionary threshold (Delphic Games / Laurel Cube contact) belongs **Book II Ch 4**; no Thailand ceremony.
+**⚠ Seam:** cube-grounded visionary threshold (Delphic Games / Laurel Cube contact) belongs **Book II after Ch 3**, then the Thrace clinic; no Thailand ceremony.
 
 ## Ch 6 — First Witness — MIDPOINT (Eli · charged Thailand site)
 **[anchors]** Present: Eli, Wren watching; **Ila** (deep thread). Eli knows new: he can enter a dead practitioner's scene *as other* without becoming them.

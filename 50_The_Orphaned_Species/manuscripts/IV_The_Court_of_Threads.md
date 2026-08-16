@@ -55,7 +55,7 @@
 
 The quarterly review opens with a missing delegate.
 
-Seven months of this, and it is the first time it has happened. That is what makes it wrong before anyone can say why.
+Seven months of this, and it is the first time it has happened.
 
 Tarek Mensah's aircraft landed forty minutes ago. His route witness confirms he left the harbor. The vehicle assigned to the repair hall never arrived.
 
@@ -77,21 +77,16 @@ Wren looks toward Asha Raman.
 
 Asha sits at the central verification table with three ledgers open: technical credentials, living attestations, and objections — the same three she has kept open every session since the handover held. Seven months of steady work have not made her less tired. They have made the tiredness look earned instead of frightened.
 
-"A key is not a person," she says, out of habit, because she has said it so many times it has become a kind of prayer.
-
-Nobody has needed the reminder in seven months. That is what makes today wrong.
-
-This is what slow government looks like when something is finally testing whether it still holds.
+"A key is not a person," she says. She has said it every session until the
+words come out without her choosing them.
 
 ---
 
-The repair hall has no ceremonial dignity. It never did. That was the point,
-once — no throne, no palace, nothing built to be defended for its own sake. Its
+The repair hall has no ceremonial dignity. Its
 roof trusses still carry load ratings. Two gantries hang above the delegate
 floor. Machine bays hold medical stations, food, and the seven verification
 desks, spaced far enough apart that no single blast radius could touch more than
-two — Wren's design, built into the compact from the day the handover succeeded,
-insurance nobody thought they would need again.
+two — Wren's design, built into the compact from the day the handover succeeded.
 
 The central table has no seat for Eli. That is his clause, not Wren's doing —
 negotiated after the Blue Roof House breakfast, after Kit Three, after the
@@ -104,25 +99,20 @@ The public enters through doors wide enough for freight.
 
 Outside, first-cloister crews manage the perimeter beside local defenders.
 
-Not beneath them.
-
 Owen Price still enforces the written rule against turning every available man into security. Malik Foster's twenty are seven months into a no-scarf, no-recruitment agreement that has mostly held. Harbor Threads run transport. Disabled veterans staff the information desk because somebody finally noticed they know every route in the building.
 
-Women remain everywhere in the work.
-
-Leilani controls the airspace.
-
-Birds pass through it in the same way routes pass through border posts — flocking, then separating, then rejoining without ever asking permission from the ground. The settlement's airspace policy is simple: anything with wings that does not carry a weapon gets a corridor. The corridor has no walls. It has only the habit of not colliding, which the birds taught before the first ground station opened.
+Leilani controls the airspace. Birds cross it. The rule is anything with wings
+and no weapon.
 
 Local electricians maintain the barrier.
 
 Weaver houses verify arrivals.
 
-Mina leads medical, and has had almost nothing to do for seven months, and has stopped complaining about it exactly as much as she still privately misses being needed for something other than routine.
+Mina leads medical, and has had almost nothing to do for seven months.
 
-Eli sits among ordinary delegates.
+Eli sits among the delegates.
 
-No raised platform. Seven months of that too. The arrangement still creates more attention than a throne would, and he has stopped noticing it the way you stop noticing a scar.
+No raised platform. Two people in the front row still watch him instead of Asha.
 
 Rowan arrives through the west door with Callum and three route witnesses.
 
@@ -612,8 +602,6 @@ Route cartels benefit from every day no public allocation calendar can be truste
 
 The vote passes.
 
-Eli watches it happen and feels the whole structure lay itself out in front of him the way the Three Circles did under the water in Malaysia. The inner ring — Rowan beside him, her body steady, the grief she carries and never spends on anyone, the personal cost of every person in this room. The middle ring — Wren at the verification desk, the renewed bond between them that does not need a name, the tether that held through seven months without either of them asking it to perform. The outer ring — the compact itself, the door the room built and locked, the system that just voted to remain open instead of closing around one man. He did not fight the Cage. He helped the people inside it build a door large enough that no one had to be king to keep it shut.
-
 Eli does not cast one.
 
 Wren finds him before the result is read aloud.
@@ -826,9 +814,8 @@ the afternoon session. The delegates arrive to find their own suggested
 arrangements sitting beside a reminder that every plan is recorded. The fourth
 plan disappears. Nobody claims it.
 
-The court does not officially exist.
-
-This is what everyone calls it.
+The court does not officially exist. Delegates still say *the court* in the
+corridor.
 
 The review chamber occupies a repaired machine bay beside the east lab where
 Celia died. Eli works at a table on the floor. Delegates enter through two
@@ -846,21 +833,6 @@ Flowers arrive with no sender and are placed behind his chair.
 A tailor offers formal clothing suitable to continuity.
 
 Eli wears the same work shirt until Mina threatens to burn it.
-
-The resistance changes nothing.
-
-Power is not only the person giving orders.
-
-It is the person deciding whose wet coat reaches the room first.
-
-Wren knows this because it used to be her job on a smaller scale.
-
-A guest room. A kitchen. A frightened woman who needs one introduction and not
-another. The correct chair at an ordinary table.
-
-Knotter work.
-
-The court has made it statecraft without improving its ethics.
 
 ---
 
@@ -1706,10 +1678,6 @@ Rowan the following evening.
 Rowan goes to Eli's room because they have finished work, eaten, argued about
 Henley's replacement, and still want one another when nothing urgent remains.
 
-Sex claims nothing here — not a contract, not a title, not a step toward
-household or succession. It is what two people choose in the same room they
-have already chosen to argue in.
-
 At the door, she stops him.
 
 "I want children someday."
@@ -1818,10 +1786,6 @@ Wren opens the change history.
 
 The scheduler acted under a household-continuity directive drafted before
 Rowan arrived.
-
-The court was not waiting to discover what the bond meant.
-
-It had prepared the meaning in advance.
 
 ## Chapter Three—Three Rooms
 
@@ -3513,10 +3477,7 @@ house breathe. Somewhere a barrier hums. Somewhere Mina's clinic clock ticks
 through the hour. Somewhere Wren is rewriting the statement that will make the
 rumor a category error.
 
-Rowan touches the place below her ribs where the new life is small enough to
-feel like a question mark instead of a certainty. She does not smile. She does
-not weep. She decides to call the compact what it is: a future she and Wren
-and Eli are making together, not a throne disguised as a pregnancy.
+Rowan touches the place below her ribs. She does not smile. She does not weep.
 
 ## Chapter Six—The Statement
 
@@ -5842,10 +5803,8 @@ The room waits on no miracle.
 
 A pot of corridor cuttings sits on the sill because Wren brought them and
 refused to call them a gift. During the last contraction the soil in the pot
-warms under Rowan's glance. One leaf turns toward the bed. Nobody asked it
-to. Mina sees it and says nothing. Rowan sees it and keeps the next breath
-for the work in her body. The child will take no mark from a plant. The
-world came anyway.
+warms under Rowan's glance. One leaf turns toward the bed. Mina sees it and
+says nothing. Rowan keeps the next breath for the work in her body.
 
 ---
 
@@ -5878,12 +5837,6 @@ Imogen answers from the chair.
 
 The motion recognizes Eli's child as continuity person and extends him until
 the council completes thirty stable days.
-
-No hereditary throne.
-
-Only a bridge.
-
-The language makes permanent power sound modest.
 
 The first vote ties.
 
@@ -5934,36 +5887,14 @@ his security detail. He stands with his hands at his sides and waits for the
 room to decide whether the compact can be postponed for a child who has not
 yet arrived.
 
-Fear does not reach him. He is practicing the Untying at every scale at once: the inner ring — his own body, which has no authority over Rowan's labor and would not use it if it did. The middle ring — the bond to the woman who taught him what consent looks like in ordinary minutes, not only in crisis. The outer ring — the government that has outgrown him, the room that does not need his command to do what it was built to do. What he learned in the paddy fields and under the culvert wall at Sanxingdui holds here the way it held at the wat: stop trying to be the center. Let the system answer. The birth will happen with or without his instruction. The vote will pass with or without his voice. He is not the Untying. He is the person who stopped tightening the knot.
-
 The northern team submits the final attestation on the second day. The third
 day is consumed by objections. The vote is retaken at midnight.
 
 It passes by one seat.
 
-The delay does not weaken the transfer. It proves the rule works even when it
-is inconvenient to the person who wrote it.
-
 Wren writes the certification timestamp in the objection ledger.
 
 She underlines the date twice.
-
-In Book II, Somchai refused a crowd that had come to be healed. He told them
-he could not give them what they wanted, and he told them why, and he stood in
-the doorway until they chose to leave or stay without him. The refusal did not
-endear him. It made him the medic who would not pretend.
-
-This vote is the same refusal at institutional scale: instead of giving the
-crowd what it came for—a single ruler, a named heir, a clean succession—the
-court tells it why it cannot have those things and waits to see whether the
-crowd chooses to stay or leave without them.
-
-The analogy would be easier to make if Somchai were here to hear it.
-
-He is not. His refusal lives in the ledger instead, in the clause Wren
-defended, in the thirty-day rule that delayed the vote and proved itself.
-
-The compact survives by refusing to perform what people came to collect.
 
 ---
 
@@ -6048,8 +5979,6 @@ The repair crew sets up the monitor and begins routing power through the
 civilian network. The grid comes back under the compact without a single shot.
 The commanders who rejected the oath stand down because their own supply
 channels now depend on the same network.
-
-The compact does not win the praetorian chapters. It outlives them.
 
 ---
 
@@ -6244,12 +6173,6 @@ He had thought then that the win was the point.
 
 He knows now that the lane was.
 
-The compact is a lane, not a victory — chosen under pressure, in a channel
-that has not stopped shifting. It requires the same thing the skiff required:
-feel the air before you see it. Keep the wall on one side and the open water on
-the other. Do not look at the buoy yet—look at the water and the air. Break
-focus now and you break speed.
-
 The assembly votes.
 
 The result is announced.
@@ -6270,10 +6193,6 @@ The entire room waits.
 Mina rubs her back.
 
 The child draws a breath and cries.
-
-Before the first breath, the crown had ceased to be Eli's.
-
-After it, the child is still only a child.
 
 No monitor registers a field sign.
 
@@ -6339,9 +6258,6 @@ He has handed the slate to the council. The council has taken it. The child is
 born. The objection ledger is open. The repair crew is routing power through the
 civilian network. The west settlement is filing objections again. The yard has
 three names and a work-song.
-
-The breach is closed. The descent is over. The living world continues without
-him.
 
 ---
 

@@ -139,7 +139,7 @@ Six conflict registers (ecological → technological), sorting machine (racism×
 | **`55_series_pitch_and_comps.md`** | **HIGH PRIORITY** — shelf, agent/query, back-cover, comps, clue-chain craft, 10-point revision gate |
 | `52_maren_holts_field_notebook.md` | Locked distributed Rosetta: comparative cipher, travel-based corroboration, Sanxingdui break, and cosmic concordance |
 | `05_story_architecture.md` | Trilogy structure, fellowship, Living Way, climax |
-| `15_character_grounding_and_relatability.md` | Eli TBI, healer, relatability guardrails |
+| `15_character_grounding_and_relatability.md` | Eli Fever scar, healer, relatability guardrails |
 | `16_reader_attachment.md` | Human gravity before mythology |
 | `17_reveal_order_and_reader_impact.md` | Emotional discovery order |
 | `19_romance_and_divine_pairing.md` | Romance curriculum (Wren/Rowan + Wren/Eli plural V; Rowan/Eli non-romantic) |

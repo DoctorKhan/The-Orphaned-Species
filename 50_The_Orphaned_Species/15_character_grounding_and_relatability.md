@@ -70,19 +70,23 @@ Each major character benefits from three layers (full cast bible: `26_present_da
 
 Pathology on this project is **injury to attachment, agency, and truth** — internal mirrors of external cages (registry, collar, prophecy, ownership). Full craft guide + per-character patterns: `26_present_day_cast_expanded.md` Part VI.
 
-**Rules:** show behavior under pressure; no diagnosis on-page unless character would use the word; no trauma as villain excuse; no magical cure (Eli's TBI floor in § Eli's brain injury). Mature move = recognize autopilot, choose a more truthful relation and action — not diagnosis → cure.
+**Rules:** show behavior under pressure; no diagnosis on-page unless a character would use the word; no trauma as villain excuse; no magical cure (Eli's Fever-scar floor in § *Eli's Fever scar*). Mature move = recognize autopilot, then choose a more truthful relation and action.
 
 Pair **Part VI** with **Part V** (past-vs-mask Vol I scenes) when drafting.
 
-## Eli's brain injury / Fever scar — LOCKED
+## Eli's Fever scar — LOCKED 2026-08-16
 
-**Keep it.** It integrates the family loss, political hunt, exile, bodily vulnerability, and uncertain opening of the receiver. Removing it would separate plot elements that currently reinforce one another.
+**Author word.** Fever scar, leftover fever, missing words, overload, fatigue. Never TBI, never brain injury, never skull fracture as his identity.
 
-**Cause — BIOWEAPON PERSONAL-CONSEQUENCE LOCK 2026-08-11:** Eli is absent when his parents are intercepted. They have left him at Mei's for one night during what he believes is a family holiday. Rasel is taken into Mandate custody and Maren onto the Charkha chain before they reach the next guide; no keeper witnesses it. Eli is later told they died. Somchai tends the shaken, uninjured child, and an informal network moves him into Thailand before the search reaches him. Years later, the engineered outbreak (the **Fever Years**) reaches Pelangi Reach after Eli is already there; despite the community's newly built quarantine and care systems, he contracts it, and its post-infectious aftermath is a **moderate-to-severe neurological scar** — Pelangi's clinic and Mei's kitchen nurse him through the fever itself. The world's diagnosis in the moment is **TBI**, and that label sticks as Eli's own shorthand, but the canonical cause is the **Fever scar**: he was never the interception's target, only the weapon's, and the same weapon that orphans him also scars and wakes him (outbreak survivors carry the receiver — `42`). Exact pathogen, diagnosis, treatment interval, and clinic logistics require research when the scene is drafted.
+**World files.** A clinic or registry may still print TBI if a scene needs the wrong category. The cost is the file. Narration and author notes do not adopt it.
 
-**Cosmological function:** the injury cracks the receiver's filter—the door ajar—but creates no gift. His maternal carrier-line explains sensitivity; distinct practitioners persist as threads in the living web; discipline and practice let him survive contact. The injury supplies access, danger, and ambiguity, never mastery.
+**Keep the leftover fever.** Word gaps, crowd noise, a day in bed after a charged ground. The outbreak that reaches Pelangi touches his body. The maternal line and the Malacca asphyxia open the receiver. The scar makes the filter leaky and recovery slow. It creates no gift.
 
-**Pai distinction:** Pai remains a recovery stop and source of living characters, not the canonical breach. If the motorbike wreck is retained, it must not repeat the brain injury or become a second awakening device. Eli's head is protected; the event creates ordinary bodily danger and vulnerability. The receiver breach still occurs later in Malacca.
+**Cause — BIOWEAPON PERSONAL-CONSEQUENCE LOCK 2026-08-11; naming retired 2026-08-16:** Eli is absent when his parents are intercepted. They have left him at Mei's for one night during what he believes is a family holiday. Rasel is taken into Mandate custody and Maren onto the Charkha chain before they reach the next guide; no keeper witnesses it. Eli is later told they died. Somchai tends the shaken, uninjured child, and an informal network moves him into Thailand before the search reaches him. Years later, the engineered outbreak (the **Fever Years**) reaches Pelangi Reach after Eli is already there; despite the community's newly built quarantine and care systems, he contracts it, and its post-infectious aftermath is a **moderate-to-severe neurological scar** — Pelangi's clinic and Mei's kitchen nurse him through the fever itself. He was never the interception's target, only the weapon's, and the same weapon that orphans him also scars and wakes him (outbreak survivors carry the receiver — `42`). Exact pathogen, treatment interval, and clinic logistics require research when the scene is drafted.
+
+**Cosmological function:** leftover fever cracks the receiver's filter — the door ajar. His maternal carrier-line explains sensitivity; distinct practitioners persist as threads in the living web; discipline and practice let him survive contact. The scar supplies cost. It never supplies mastery.
+
+**Pai distinction:** Pai remains a recovery stop and source of living characters, not the canonical breach. If the motorbike wreck is retained, it must not become a second fever-event or a second awakening device. Eli's head is protected; the event creates ordinary bodily danger and vulnerability. The receiver breach still occurs later in Malacca.
 
 ### Persistent effects
 
@@ -97,16 +101,17 @@ Use a stable, limited symptom set rather than whatever a scene needs:
 
 His condition remains real after awakening. Psionic development does not cure it. Some practices help him regulate attention and overload; they do not erase damaged tissue or restore the dead.
 
-The stronger healer can reduce inflammation, headaches, pain, and secondary damage, but cannot restore Eli's pre-injury brain. The in-world limit is specific: healing can support or repair a living pattern that remains available; it cannot reconstruct neural information already destroyed and reorganized. Eli is not a broken earlier self waiting to be magically recovered.
+The stronger healer can reduce inflammation, headaches, pain, and secondary damage, but cannot restore Eli's pre-fever brain. The in-world limit is specific: healing can support or repair a living pattern that remains available; it cannot reconstruct neural information already destroyed and reorganized. Eli is not a broken earlier self waiting to be magically recovered.
 
 ### Disability guardrails
 
-- Never imply that brain injury made him spiritually superior.
+- Never imply leftover fever made him spiritually superior.
 - Never call the deficits a hidden upgrade or acquired superpower.
 - Let other characters underestimate him, but do not make every skeptic cruel or stupid.
 - Show practical adaptations: written lists, repeated routes, quiet spaces, gestures, training patterns, and Wren learning when not to fill a missing word.
 - Research the eventual clinical presentation and use medical/sensitivity readers before final prose.
-- "Brain damage" may appear as Eli's shame-language or the Charkha's stigmatizing file-language; **TBI** is the world's misdiagnosis and Eli's own shorthand — authorial documents should prefer the canonical **Fever scar**.
+- "Brain damage" may appear as Eli's shame-language or the Charkha's stigmatizing file-language. Authorial documents say Fever scar.
+- Comedy: a missing word or dropped plate is frightening, never sitcom.
 
 ## Eli's perceptual development — LOCKED
 
@@ -216,7 +221,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 
 *Major theme:* Eli's **true strength** is not innate and not conferred by the breach. It is **practice seeded early** and **borne out under challenge** — the same arc as Manual Override in the series: inner work that eventually shows outwardly as equanimity, intimacy, and connection (`15` § *True strength vs superficial display*; `40` Stage 2).
 
-**When and where:** after his parents fail to return to Mei's, the healer tends child-Eli and the escape network moves him into **Thailand** before the search reaches him (`15` § Eli's brain injury). During the recovery interval — before or alongside the **Pai** stop — adults place him near **ordinary temple practice** in northern Thailand *(specific wat, city, and caregiver link TBD at draft; not a mystical tourism beat)*. He learns what a child can learn: **breath, body attention, walking/sitting stillness, returning when the mind runs** — the same register as Aru's practice at Göbekli, encountered as **human discipline**, not as psion training or chosen-one initiation. **No martial in fugitive interval** — wat breath only; **Maren's grounding gesture** (fingers, breath, *stand behind the hands*) may come from **mother on Bali**, not Thailand martial.
+**When and where:** after his parents fail to return to Mei's, the healer tends child-Eli and the escape network moves him into **Thailand** before the search reaches him (`15` § *Eli's Fever scar*). During the recovery interval — before or alongside the **Pai** stop — adults place him near **ordinary temple practice** in northern Thailand *(specific wat, city, and caregiver link TBD at draft; not a mystical tourism beat)*. He learns what a child can learn: **breath, body attention, walking/sitting stillness, returning when the mind runs** — the same register as Aru's practice at Göbekli, encountered as **human discipline**, not as psion training or chosen-one initiation. **No martial in fugitive interval** — wat breath only; **Maren's grounding gesture** (fingers, breath, *stand behind the hands*) may come from **mother on Bali**, not Thailand martial.
 
 **Childhood — Bali — LOCKED 2026-07-24:** Eli **grows up largely on Bali** while parents are fugitive — subak water-sharing, gamelan, communal obligation, living relationship to land and neighbors. **Not** a charged ground, **not** martial training, **not** Vol I on-page visit. Leaks forward as rhythm, food memory, how he reads a room — not exposition blocks. Bangla/culture still from **Rasel and Maren at table**; Bali supplies **place and community**, not replacement for father's line.
 
@@ -226,7 +231,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 
 **What it is not:**
 - not a download of historical lives or of the web;
-- not spiritual superiority or a TBI cure;
+- not spiritual superiority or a Fever-scar cure;
 - not monkhood or permanent renunciation — fugitive childhood continues;
 - not interchangeable with Kali (Pelangi Reach) — martial breath is **domain skill**; temple attention is **inner work**. Both bridge into later practice; neither replaces the other. **Thailand martial + chi-body — LOCKED 2026-07-24:** Muay Thai/Kali instructor teaches **body-as-unit** activation (chi/lom through frame) → **fast reflexes** when integrated; see § *Eli's Thailand martial + chi-body*.
 
@@ -266,7 +271,7 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 - **Moving chi / breath through the body** — *lom*, whole frame at once; builds on wat schedule + Maren's earlier gesture.
 - **Martial line work** — range, angle, timing, Muay Thai structure, Kali triangles.
 - **Adaptive middle in contact (`67`, `68`):** neither flinch out of range nor crash in as the heat. Stay until an exit or an opening appears. Same stay-with / inverse as the candle, louder amplitude. Kru Dao teaches **stance as exit-route** (`26`): the point is to leave a room alive, not to win a name.
-- **Effect:** cleaner timing when integrated — **bounded**; still scared; TBI and overload remain. No public bouts. No champion arc.
+- **Effect:** cleaner timing when integrated — **bounded**; still scared; leftover fever and overload remain. No public bouts. No champion arc.
 
 **Author analogy only — never on-page:** the samurai/kendo image (stay in the pocket, neither freeze nor rage) is how a drafter can feel the lesson. The room is Thai/Kali/*lom*. Do not import bushido, swords, or a Japanese teacher.
 
@@ -311,7 +316,7 @@ Their human conflict is **care versus conscription**. They cope with grief by ma
 
 Eli needs ordinary pressures alongside the extraordinary ones:
 
-**Home tongue vs Thread — LOCKED 2026-07-24; upbringing revised 2026-08-11:** **Bangla and culture** — first from **Rasel and Maren** at table; continued by **keeper foster parents** who raised him after the disappearance (corridor placement; file orphan/foster — **not** Thread). **Raised as a worker** — labor track, platform wage, facilities hand; no elite path. **Visuo-spatial talent — LOCKED:** strong memory/skills for routes, cable runs, shaft maps, splice geometry — **worker gift**, distinct from carrier line (Maren) and symbolic feeling (Rasel). **TBI** makes it inconsistent. **Capacity claiming** (`40` § Capacity claiming): exceptional minds get flagged — Eli lives **under the radar** with everyone else (*perform adequate, not exceptional*; *stay off the ledger*). Foundry work uses the gift **sanitized**. Home tongue **opens** Thread corridors; he was **not raised Thread**. Contrast **Rowan**. Guardrail: `31` diaspora lock.
+**Home tongue vs Thread — LOCKED 2026-07-24; upbringing revised 2026-08-11:** **Bangla and culture** — first from **Rasel and Maren** at table; continued by **keeper foster parents** who raised him after the disappearance (corridor placement; file orphan/foster — **not** Thread). **Raised as a worker** — labor track, platform wage, facilities hand; no elite path. **Visuo-spatial talent — LOCKED:** strong memory/skills for routes, cable runs, shaft maps, splice geometry — **worker gift**, distinct from carrier line (Maren) and symbolic feeling (Rasel). Leftover fever makes it inconsistent. **Capacity claiming** (`40` § Capacity claiming): exceptional minds get flagged — Eli lives **under the radar** with everyone else (*perform adequate, not exceptional*; *stay off the ledger*). Foundry work uses the gift **sanitized**. Home tongue **opens** Thread corridors; he was **not raised Thread**. Contrast **Rowan**. Guardrail: `31` diaspora lock.
 
 - papers, money, shelter, food, transport, medicine, and sleep;
 - fear of detention or return, not only capture by the Charkha;
@@ -437,7 +442,7 @@ The practical constraints remain decisive:
 - conventional violence remains dangerous, and psionic ability does not make anyone bulletproof.
 - monitored boundaries exist only where someone has prepared a route, threshold, sensor, watcher, or **conductor anchor**. Crossing one can expose a signature and trigger a fast team attack, but it does not give the attackers omniscience.
 
-After an attack, show consequences rather than a clean reset: headache, tremor, insomnia, missing time, shame, mistrust, intrusive emotional residue, neurological symptoms, or conflict over whether an experience was authentic. Do not use Eli's TBI as a generic meter for psionic damage. His established disability remains distinct even when an attack aggravates it.
+After an attack, show consequences rather than a clean reset: headache, tremor, insomnia, missing time, shame, mistrust, intrusive emotional residue, neurological symptoms, or conflict over whether an experience was authentic. Do not use Eli's Fever scar as a generic meter for psionic damage. His established disability remains distinct even when an attack aggravates it.
 
 Not every psion is a soldier. Conscription, coercion, asylum, desertion, conscientious objection, and the right not to become public infrastructure are part of the human conflict. The healer's hard no and Pelangi Reach's privacy practices should make this political reality concrete.
 

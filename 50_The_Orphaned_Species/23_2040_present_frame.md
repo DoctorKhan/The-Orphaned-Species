@@ -314,7 +314,7 @@ Late-2020s–early-2030s culture treated embodied automation as if it could scal
 Still load-bearing in 2040, now **worse or sharper**:
 
 - housing precarity and refugee status;
-- healthcare fear and TBI follow-up gaps;
+- healthcare fear and fever follow-up gaps;
 - the **global baby bust / missing-cohort crisis** (`WORLD_BIBLE`): aging workforces, repurposed child infrastructure, scarce adolescents, political fertility anxiety — and **far fewer embodied robots than near-future fiction assumes** (maintenance labor, factory retooling, and supply chains never recovered; see `23` § *Robotics lock*);
 - institutional mistrust post-outbreak;
 - feeds that fracture reality (AI-slop + state propaganda + prophecy TikTok);

@@ -64,7 +64,7 @@ Eli's Fever scar has taught his receiver hardware to entrain with non-human livi
 - **Trigger:** sustained close contact with a living natural system (ocean, boat hull under sail, wind/water rhythm) combined with intentional focus. Eli must choose to open the connection; it does not happen accidentally.
 - **Effect:** Eli's body reads the water's current, pressure shifts, and wind vectors through the same trajectory sense that reads a system's charge pattern. The boat becomes an extension of his proprioception — he feels hull stress, sail load, and water displacement before his eyes registers them. The merge is incremental, not binary: at first a half-second of clarity during a maneuver, then longer, then sustained.
 - **Cost:** the merge is bidirectional. While extended, Eli's filter is lowered — he receives everything the ocean carries (other boats, submerged structures, the city's EM field at the surface). After the merge ends, he pays the same Fever-scar overload bill as any deep systems-reading: gaps, word-retrieval stumbles, fatigue proportional to duration. The ocean does not tire; his body does.
-- **Governing rule:** this ability is an extension of Eli's existing receiver, governed by the same TBI/overload mechanics already locked in `39` §3 and `15`. It cannot grant him information the environment does not contain; it cannot make him faster than physics allows; it cannot substitute for Wren's judgment or Somchai's consent. It is a sensory and proprioceptive advantage, not a supernatural one.
+- **Governing rule:** this ability is an extension of Eli's existing receiver, governed by the same Fever-scar/overload mechanics already locked in `39` §3 and `15`. It cannot grant him information the environment does not contain; it cannot make him faster than physics allows; it cannot substitute for Wren's judgment or Somchai's consent. It is a sensory and proprioceptive advantage, not a supernatural one.
 
 **Prose discipline:**
 - Felt as kinesthetic clarity and proprioceptive extension, not narrated as a power.
@@ -95,7 +95,7 @@ One hardware, expressed differently: **dragons & aliens** (Tree of Life, one-Tre
   - **Craft note (LOCKED, spark ecology):** the dragons were not fire-breathing monsters. Their Earth partnership included an electrochemical discharge organ, heat-resistant conductive tissues, and symbiotic microbes that produced small quantities of combustible gas. A dragon could gather suitable plant/mineral fuel and ignite it with a controlled spark, helping cook food and work with local ecosystems. The energy came from the fuel and airflow; the creature supplied ignition and regulation. At Delphi, fault gases and the adyton's stone geometry can produce a brief dangerous flash when the psionic field discharges. This is a deep-time biological function, not a surviving Silurian system: the present dragon is a spectral remnant, and no spark organ or microbial colony remains.
   - **Craft note (LOCKED, human drone-to-person arc):** early human bridge populations were shaped as the material-facing half of dragon-led planetary ecology: carrying seeds and microbes, gathering fuel, moving water and nutrients, tending soil and fire, mapping terrain, and maintaining habitats. Dragons supplied design, long-range perception, telepathic coordination, and protection; humans supplied hands, transport, local experimentation, and social labor. The arrangement began as symbiosis and hardened into control when some dragon factions treated humans as programmable drones. Human cognition outgrew the assignment. The inherited procedural layer survives as the **autopilot**—habit, threat response, social obedience, reward seeking, and post-hoc explanation. It is useful biology, not proof that agency is false. Eli's Manual Override is the practiced ability to notice when a command is moving through him, test it, and choose whether to obey.
 
-- **Eli** sits with the carriers: not stronger output — wider **reception**; a receiver/reflector, not a broadcaster (`38` §8). His TBI disrupted the filter; the breach flips it open.
+- **Eli** sits with the carriers: not stronger output — wider **reception**; a receiver/reflector, not a broadcaster (`38` §8). His Fever scar disrupted the filter; the breach flips it open.
 
 ### Warmth vs. activation
 
@@ -112,7 +112,7 @@ Eli cannot read bodies diagnostically. Somchai Vichai holds the somatic diagnost
 | **Pressure** / **single pulse** under palm | Arterial blockage / circulatory choke |
 | **Cold spot** | Depletion, shock, failing perfusion |
 
-Interpretation is learned (Ila, threshold-house practices, healer depth). Eli has wide **reception**, limited **mastery**. TBI adds tingling noise he must sort from signal.
+Interpretation is learned (Ila, threshold-house practices, healer depth). Eli has wide **reception**, limited **mastery**. Leftover fever adds tingling noise he must sort from signal.
 
 What psionics and instruments detect is **activation**: the carrier interface lighting up when a trigger, surge, artifact, person, or charged ground recruits the system — a **flare**, signature pattern, or light-up in hands/head/field. Enemies hunt **activation**, not "body warmth."
 

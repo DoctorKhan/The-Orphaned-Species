@@ -73,5 +73,8 @@
 **Companion scope lock**
 [x] 18. Lock companion-layer scope — finalized in `99_companion_rebuild_plan.md` (audience: novel readers first, practitioners second; tone: investigative companion + practical field guide)
 
+**Fever-scar naming — DONE 2026-08-16**
+[x] 18b. TBI retired as author word. Leftover fever stays. Clinic files may still print TBI if a scene needs the wrong category. Home lock: `15` § *Eli's Fever scar*. Stale childhood-skull / "second head injury" lines swept from LIVE bible + I/III manuscripts.
+
 **Retired taxonomy removal from companion prose**
 [ ] 19. Verify *The Human Experiment* / *The Social Game* body prose contains no retired framing terms — scaffolds drafted; run grep check and delete retired terms

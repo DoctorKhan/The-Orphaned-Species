@@ -11,7 +11,7 @@
 | Felt in palms / nerves | Usually indicates | Notes |
 |---|---|---|
 | **Localized heat** | **Viral** load / inflammatory fever pattern | Ila's historical core; threshold fevers read hot |
-| **Tingling**, pins-and-needles | **Bacterial** colonization **or** mild **nerve damage** | Eli's TBI adds noise — he must learn signal from scar |
+| **Tingling**, pins-and-needles | **Bacterial** colonization **or** mild **nerve damage** | Eli's Fever scar adds noise — he must learn signal from scar |
 | **Pressure**, or a **single pulse** under the palm | **Arterial blockage** / circulatory choke | Slow-bleed *read* in Vol I uses this signature — Eli locates the choke; ordinary pressure (not a gift) does any slowing |
 | **Cold spot** / drain | Depletion, shock, failing perfusion | Daskar/Ila historical; pillars "warm" = instrument alive, not Eli's hands cooking |
 

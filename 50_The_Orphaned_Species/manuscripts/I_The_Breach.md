@@ -622,8 +622,6 @@ He does not want that way. He takes it because standing still is the thing that 
 
 The bass reaches him before the building does. Then petals in the gutter, too even, too many, not weather. Then a screen the size of a hull on the side of a tower, a boy's face, two syllables the crowd already knows. The street is a river of backs. Every time he tries to peel off toward the marshalling letters Wren underlined, a marshal or a fence or a body turns him back into the current.
 
-The Cube is not a destination. It is the drain the weekend pours into.
-
 He hears it through the soles of his feet before he sees the glass—a low, living vibration, as if the city has a heart and the crowd has finally stepped onto the rib. He is close enough now that the cherry light is on his hands. He tries one more alley. It dumps him against the outer shell.
 
 A stagehand dumps a freight case on him without looking. The case bites his hip. The glass is a hand's width from his shoulder, colder than the air. Light slides across it the wrong way, a half-beat behind the concert spill. Under the crowd-sound there is a pressure that is not bass. His feet want the counter-clockwise run even here, off the marked route, the way a cart wants the groove it has worn. Heat gathers at the base of his spine and stays there. He does not know what he is touching. He keeps the case moving because the river of people will not let him put it down.
@@ -736,6 +734,14 @@ North of the city the checkpoints do not stop—a harbor pilot board, a customs 
 
 At the strait's pinch a grey cutter with its number painted out sits at anchor athwart the lane—another arch in all but name. As the fish boat slides past it, something presses on Eli: a thumb of pressure behind the eyes, patient, incurious, like a hand testing each window of a house at night. He keeps his eyes on the deck boards. It passes. When he finally looks up, the cutter is behind them and unlit, and no one on the fish boat has felt anything at all.
 
+A deckhand points his chin at a mast two hulls over. One pale light sits in the rigging, too high for a working lamp.
+
+"One is the sister," he says. "Two is the brothers. Don't look at one."
+
+The skipper does not look. "Watch the wake."
+
+Eli looks anyway. The light is a work-lamp lashed to a fishing pole. It stays one.
+
 He sleeps two hours against the net locker and dreams of a stag running ahead
 of him through a long corridor. A door shuts after every stride. Someone counts
 them, slow and even. At the far end no door opens. The stag turns, one antler
@@ -810,7 +816,7 @@ Two streets from the hotel he sees why the chandlery man moved his witness. Two 
 
 The tingle in his hands goes sharp, as if the skin has learned to listen.
 
-Eli's eyes go to the screen before his body does. The health worker's tablet is angled to catch faces at the bridge mouth, not temperatures. The soldier's tablet is turned the other way, toward the river steps. The white van has no windows that open. He has walked past three camera nodes in the last twenty metres—doorbell, traffic, handheld—and none of them have looked at his fever. They have looked at his face. The Mandate does not need to ask who you are. It records you until it needs to.
+Eli's eyes go to the screen before his body does. The health worker's tablet is angled to catch faces at the bridge mouth, not temperatures. The soldier's tablet is turned the other way, toward the river steps. The white van has no windows that open. He has walked past three camera nodes in the last twenty metres—doorbell, traffic, handheld—and none of them have looked at his fever. They have looked at his face.
 
 He steps back before the next camera reaches him.
 
@@ -921,7 +927,7 @@ Then the light is under his skin.
 
 It is not a vision. That is the first true thing about it and the only thing he will be sure of afterward: nothing appears, nothing speaks. It is a sense turning on the way an eye opens in the dark—the whole space around him suddenly *there*, present as a second body, and far too much of it at once. Every signature his palms ever misread—heat, tingling, pressure—floods up his arms together and settles behind his eyes and in the base of his skull, sharp and loud, and does not resolve into anything. It is all edges and no picture. A roar with a shape he cannot hold.
 
-He has felt one edge of this his whole life, in the garden, in his hands over a sick man's chest—*reception,* the tower called it, and taught him to fear the word. He never once felt the whole. The whole is not a gift. The whole is drowning twice. No one had taught him to hold a door, or fight, or narrow the flood—only to keep his hands moving when his head broke.
+He has felt one edge of this his whole life, in the garden, in his hands over a sick man's chest—*reception,* the tower called it, and taught him to fear the word. He never once felt the whole. No one had taught him to hold a door, or fight, or narrow the flood—only to keep his hands moving when his head broke.
 
 For a moment the roar almost holds still, and in the stillness one thing surfaces, ordered where everything else is noise—not a word, not a face: three rings, one inside the next inside the next. The inner ring is tight and hot—the body's own charge, the hands wanting before the mind names it. The middle ring is wider—the tether, the relationship held taut by a hope he does not trust. The outer ring is widest of all—the system that made the file and closed it. Then the water takes it back.
 
@@ -1130,11 +1136,9 @@ The lamp hisses.
 
 Eli looks at his hands. The noise is there, behind the skin, an ocean behind a door off its hinges—but the platform keeper's cup and the temple count have shown him the width of one held breath, and one held breath is enough room to think a thought in.
 
-Here is the thought. Ten years he has carried his mother as a closed door—*dead, don't ask*—because carrying her any other way was not survivable, and everyone who loved him helped him carry her closed. And in one night the world has spent, against that closed door: a stripped witness, a pre-set net, three men with a knife who were told to clear a lane. Nobody spends that on a dead woman's ghost.
+Here is the thought. Ten years he has carried his mother as a closed door—*dead, don't ask*—because carrying her any other way was not survivable, and everyone who loved him helped him carry her closed. Tonight the world spent a stripped witness, a pre-set net, and three men with a knife on that door. Nobody spends that on a ghost.
 
-The question didn't die. That is what the night proves. It was held under, ten years, the way he was held under—and it came up the same way he did: burning, and loud, and belonging to someone.
-
-Disappearing wouldn't kill it either. Disappearing would only mean carrying it dark, forever, in a borrowed name—the rattling lid, the unpayable ledger. Hassan in a van because he chose a living man over a ring, and Salmah's boat under tow for the same reason. A quiet life on top of all of it, pretending the question isn't under the floor.
+Disappearing would mean carrying it in a borrowed name. Hassan in a van because he chose a living man over a ring. Salmah's boat under tow for the same reason.
 
 *This felt real,* he thinks—all of it, the net, the van, the handwriting on the page. *I may still be wrong about where it leads. Let's test it in the open.*
 
@@ -1392,7 +1396,7 @@ He tries it that night on the rope-burn in his palm from Pelangi. Stare. Close. 
 
 The fourth afternoon the abbot points at a sala post, then at Eli's sternum, then at the post again. No talk. Eli looks at the post until it is only wood: grain, a nail scar, light. Then the heat under the bone, which still wants a father and a file. Then the post. Then the heat. After a while the sternum is just another object in the room, the way the post was. The heat has not left. He can look at it the way he looked at the post.
 
-On the fifth morning tea and a nod release him. He has not become calm. He has become arranged.
+On the fifth morning tea and a nod release him. The heat has not left. He can look at it the way he looked at the post.
 
 "You will lose it," the abbot says. "Return."
 
@@ -1400,7 +1404,7 @@ On the fifth morning tea and a nod release him. He has not become calm. He has b
 
 The keeper stilt-house sits over brown water where two channels braid, four hours downriver by longtail, and the woman who runs it has prayer-callused knees and a rule about leaking.
 
-Eli stays four more days because Wren's contact said *wait here*. Because the boat still needs a patched plank. Because the wat taught him that breath done *before* everything—before meals, before sleep, before the nightly inventory of noise—is the only thing that keeps the world's second surface from swallowing him whole. The stilt-house is not the temple. It is the threshold: practical silence, nets drying, a ledger of who passed through, a kettle always hot. The keeper woman watches him sit at dawn without being told to and says, in Thai, *Good. The wat sends better freight than it used to.* Then, to the kettle, in slow English: "I alone seem foolish. My mind is empty." She does not look at him. It is not a lesson. It is something you say when the world's second surface pushes.
+Eli stays four more days because Wren's contact said *wait here*. Because the boat still needs a patched plank. Nets dry on the rail. A ledger of who passed through. A kettle always hot. The keeper woman watches him sit at dawn without being told to and says, in Thai, *Good. The wat sends better freight than it used to.* Then, to the kettle, in slow English: "I alone seem foolish. My mind is empty." She does not look at him.
 
 On the second evening Wren comes back from the channel town with diesel and a face that has already spent the news.
 
@@ -1464,8 +1468,6 @@ seen with his whole community of the mind—noise, palms, eyes, the cooperative'
 stakes, salinity logs, and water records pointing the same direction.
 
 You walk the paddies and there it is: rice a hand taller, greener into blue, running in a smooth curve through five families' fields without regard for bunds, sluices, or property, the stakes marching alongside like a survey of something that was never surveyed. Dragonflies stack above it. Morning glory has climbed the nearest fence posts overnight, as if even the weeds felt the pull. The mud smells faintly, absurdly, of a storm that isn't coming—and of crushed mint from someone's kitchen edge, and wet earth the way Rasel's ninth-floor beds never quite managed under tower wind.
-
-The plants are not writing anything. That is what strikes him, standing in it. There is no message, no symbol, nothing meant. The rice is just growing the way rice grows when it gets more of what rice wants—along a line where more of something *is*. The plants are the instrument. The land is reading something out, and the rice is the needle.
 
 Kitt walks the stakes with the co-op compass and says only what the records earn:
 "It doesn't stop at the last stake. Bearing runs south of west."
@@ -1554,14 +1556,12 @@ The child comes. The fever breaks two days later—he lives that too, compressed
 
 Her name arrives last, the way names do in dreams, worn smooth: *Ila.*
 
-Then the site's charge thins—or his does. The thread pays out and out and goes to noise. He is torn back into his own hands, his own spine, a concrete shelf by a confluence with incense ash beside his knee and tears all over his face. He is grieving with his entire body a woman he has never met. She read fevers through her palms in some green river country three lifetimes of countries away. She is dead. She was real. She is *gone*—not into him, not his, just gone, the way real people go.
+Then the site's charge thins—or his does. The thread pays out and out and goes to noise. He is torn back into his own hands, his own spine, a concrete shelf by a confluence with incense ash beside his knee and tears all over his face. She read fevers through her palms in some green river country. She is dead.
 
-The love has nowhere to be set down. Whatever the stone gave him, it did not give him her. It gave him the *shape* of her, one afternoon's width of a whole life, and the shape has edges: this was a person, and you are not her, and you may not keep her.
-
-"Ila," he says out loud, once, because someone in this century should.
+"Ila," he says out loud, once.
 
 Kitt writes down the time in the cooperative notebook and does not ask what Eli
-saw. Grief is not a measurement.
+saw.
 
 They do not leave the stone at once. Eli's legs will not trust the boat yet. He sits with his back against the concrete shelf while the incense ash sticks to the wet of his cheek, and watches a water monitor haul itself onto a mangrove root and consider them with the boredom of an animal that has outlived every theory. Papaya leaves clap once in a wind that does not reach the water. Kitt rinses the thermos cup and fills it again without being asked.
 
@@ -1623,11 +1623,9 @@ He does the candle in his head: stare at the heat in the palms, close, hold the 
 
 Wren watches from the bund mark without entering the pad. After, when Eli's forearms shake, Kru Dao hands him water and says, "Tomorrow. Same hour. If the white cars come, you run first and fight only if the run ends. I am not making a champion. I am making someone who can leave a room alive."
 
-He files her name beside Malai's and Khun Dang's: people who teach without owning him.
+He files her name beside Malai's and Khun Dang's.
 
-The wat has given him three words before he has a name for the practice. The first is *dim*: the inner ring, the body's own charge, the hands wanting before the mind names it. The second is *leave*: the middle ring, the relationship that binds you to a place or a person, the tether you cannot cut without cost. The third is *teach without owning*: the outer ring, the system that claims authority over the people inside it. He does not yet know that the same untying works at every scale. He only knows that Kru Dao's hour feels different from anything the Cube or the Mandate offered: she is not asking him to become a better instrument. She is asking him to remain a person who can stop himself.
-
-They walk single file. That is the cooperative in one image, Eli will think later: everyone walks on the marks, because the marks are how forty families know what is true.
+They walk single file on the marks.
 
 Before the first sluice, Eli keeps the promise he made at the stone.
 
@@ -1716,11 +1714,9 @@ They go to their separate corners of the dark. Nothing is resolved. The frogs si
 
 Wren does not sleep. She sits on the pump-house step with the half-record in her lap and the night watch roster in her head: four people, two hours each, until Malai's polarity week buys them one more day of safety. She thinks about the cooperative the way she thinks about intake queues—by capacity, not by hope. Forty families. A clinic that already faxed forms. A boy bleeding into the canal because two teams wanted what his blood could mark. She has seen what happens when a record becomes valuable before the people who made it are ready to be seen: the claim window closes, and the names inside the record get filed under someone else's urgency.
 
-She is not defending Eli. She is defending the hour. The argument in the pump house was not about dominance; it was about who gets to decide when a place stops being a home and starts being a site. She knows the answer. She has been the site. She will not let the cooperative become one while she is standing watch.
+The white cars will come from the south. The cash buyers from the north. If they leave at dawn with half a series, those people fill the gap first.
 
-The white cars will come from the south. The cash buyers from the north. Neither of them is coming for the rice. They are coming for the gap between the record and the people who made it—the gap where ownership gets invented. If they leave at dawn with half a series, they hand that gap to whoever is patient enough to fill it first.
-
-She burns the route heat she has left keeping the night watch from being alone. Not for glory. Because a watched night is one night fewer in which someone gets taken without a form. Because Malai's marks are data, and data walks, and the only way to keep a promise is to outlast the people who did not make it.
+She stays on the pump-house step. Forty families. A clinic that already faxed forms. A watched night is one night fewer in which someone gets taken without a form.
 
 ---
 
@@ -1774,7 +1770,7 @@ is not repair. Learn that before somebody calls you a healer."
 
 "Then remember whose body paid for the lesson," the nurse says.
 
-Niran lives. The pin housing missed the artery proper—nicked a branch, the clinic doctor says. Bad enough. Survivable with luck and pressure in the right place fast. She looks at the cousin when she says *right place*. The cousin looks at Eli. Eli looks at the floor. That is the entire ceremony.
+Niran lives. The pin housing missed the artery proper—nicked a branch, the clinic doctor says. Bad enough. Survivable with luck and pressure in the right place fast. She looks at the cousin when she says *right place*. The cousin looks at Eli. Eli looks at the floor.
 
 They wait in the clinic courtyard while the forms invent themselves. A jackfruit tree drops one sticky fruit onto the tin roof with a sound like a fist. Chickens work the gravel. An old man sells boiled peanuts from a bicycle and will not take money from anyone who came in with blood on them—superstition or kindness; Eli cannot tell and does not ask. Wren checks the boat twice, then the road, then her messages. One ping from a house contact: white cars asked for the boy who found the bleed by description, not by name. She deletes it before Eli can lean in.
 
@@ -1899,9 +1895,9 @@ She stops in the water. The burning pump house is in her eyes, twice, small.
 
 "Every person on this water is alive," she says. "You want an apology for how."
 
-It is not a question, and she does not stay for the answer, and the worst of it—the part that keeps him standing in the river long after the boats are loaded—is that his cruelty was not even wrong about the facts. Only about everything else.
+It is not a question, and she does not stay for the answer. He is still in the river after the boats are loaded.
 
-On the west block, in the ruins of the evening, the two teams disengage as bloodlessly as ledgers closing—each with its cases planted, each having failed to hold the whole band, each leaving instruments sunk in the mud among the leaning rice. The war did not begin tonight and did not end tonight and was never, not for one second of it, about Eli's clue.
+On the west block the two teams pack their cases and leave instruments sunk in the mud among the leaning rice.
 
 In Wren's bag, the vials she pocketed on day one still smell of the west block. The bearing is not in the ashes. It is in the mud on her boots, and they will follow it anyway.
 
@@ -2262,8 +2258,6 @@ Four in.
 
 Six out.
 
-The wanting remains. That is what the practices have not cured and were never meant to cure.
-
 He lifts his hand.
 
 "North freight."
@@ -2421,9 +2415,7 @@ Wren sits in the produce van with the sealed cooperative record on her lap and D
 
 "Civilian thread is mine from here," she says. "Dara, the record, anyone who gets off at a border before the annex. You take the forensic line—Luo, the tree, the question about your father. I do not trade people for proof, and I will not let someone else do it for me."
 
-He nods. The division is not dramatic. It is the kind of division that holds because both people already know what it costs.
-
-The next human door has a face. That is the difference.
+He nods. Wren sits with the sealed cooperative record on her lap.
 
 ---
 
@@ -2765,8 +2757,6 @@ For twenty minutes Eli cannot make food become strategy.
 
 He watches Luo pick scallions from her bowl and place them in Qiao's. Qiao eats them without interrupting his account of a conservator who once spent three months proving that a suspected new pigment was adhesive from a repair made in the 1990s.
 
-Ordinary error. Ordinary correction. Nobody disappears.
-
 Eli tries to imagine Rasel at the table.
 
 The image will not form older than the garden.
@@ -2828,7 +2818,7 @@ Eli puts one wet palm to a root.
 
 Nothing speaks.
 
-Water moves. Insects occupy the dark. His own pulse bangs in his injured skull.
+Water moves. Insects occupy the dark. His own pulse bangs in his skull.
 
 Then Wren, three meters ahead, touches the same root to steady herself, and the static changes—not louder. More specific. Her weight, grip, breath, the small tremor in the arm she has been pretending did not strain at the field battle.
 
@@ -3196,7 +3186,7 @@ Eli's hand closes around the damp bench edge.
 Rasel looks almost surprised.
 
 "To what? Wren has no standing. You have no jurisdiction, no laboratory, and
-a brain injury you treat with breathing exercises. Here I can keep the work
+the fever leftover you treat with breathing exercises. Here I can keep the work
 inside a program that answers to people who survived the last catastrophe."
 
 "They put a knee on her back."

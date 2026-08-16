@@ -57,7 +57,7 @@ A standing register for Books III–IV (seeded by the Cherry Cube surprise-guest
 4. The world leader speaks to him as an equal and Eli answers as a worker; the leader likes him precisely because the answer is not a speech. One real exchange lands — the leader asks what Eli's mandate is; Eli says the truth (*time-limited, reviewable, and I'd rather be elsewhere*) — and the room goes quiet, because everyone else at the table was appointed for life.
 5. Exit: the misfile stands in the record. Later chapters may cite *His Excellency E. Holt, coordinator* without anyone noticing the contradiction — institutional memory preserving its own error.
 
-**Guardrails:** the scene must cost something — the misfile gives the Union delegation a procedural foothold later (they address the compact as an interstate instrument because it was signed under head-of-state protocol), so the comedy is also a legal trap. TBI rules still bind: any word-retrieval failure in the room is frightening, not funny. No slapstick during war chapters; the dinner sits before or after Ch 8's loss, never inside it.
+**Guardrails:** the scene must cost something — the misfile gives the Union delegation a procedural foothold later (they address the compact as an interstate instrument because it was signed under head-of-state protocol), so the comedy is also a legal trap. Fever-scar rules still bind: any word-retrieval failure in the room is frightening, not funny. No slapstick during war chapters; the dinner sits before or after Ch 8's loss, never inside it.
 
 **Standing menu — other misfiled situations (author-selectable; at most one menu beat per volume III–IV, the ambassador dinner is Book III's locked beat and does not count against the cap; never stacked in one chapter):**
 

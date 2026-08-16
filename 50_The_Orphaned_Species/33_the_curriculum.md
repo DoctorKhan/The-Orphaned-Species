@@ -53,7 +53,7 @@ Because the genes were only silenced, the architecture lies dormant in billions.
 | The fire / somatic signatures | Threshold / diagnostic read (heat, tingling, pressure) |
 | The tune his mother hummed | The Song (acoustic) |
 | The Kali (footwork, breath, range) | Breath / coherence (and discipline) |
-| The Delphic Games / Laurel Cube contact (Book II Ch 4, Delphi — **not** Book I Thailand) | The Diet (cube-grounded visionary) |
+| The Delphic Games / Laurel Cube contact (Book II after Ch 3 Göbekli, then Thrace clinic — **not** Book I Thailand) | The Diet (cube-grounded visionary) |
 | The breach (near-death) | Threshold (the violent, accidental version) |
 | The stone circles | Geometry (collective) |
 

@@ -31,7 +31,7 @@
 
 The real dangers:
 
-- **Overload** — breach and charged grounds can flood sense, body, and attention; TBI makes recovery slow. Scary, disorienting, costly — he stays **Eli**.
+- **Overload** — breach and charged grounds can flood sense, body, and attention; leftover fever makes recovery slow. Scary, disorienting, costly — he stays **Eli**.
 - **Capture** — factions want him as **container**, registry asset, or weapon. The anti-chosen-one fight is **releasing ownership**, not sorting selves.
 - **Autopilot** — rattle/surge deposits charge; conditioning tries to **execute a command**. Manual Override = feel the charge, don't complete the act — **not** "which person am I?"
 - **Mistaking witness for mastery** — receiving a thread ≠ owning a culture, a dead person's authority, or a skill tree.
@@ -49,7 +49,7 @@ The cure is practice: **clarification without collection** — receive contact, 
 | **Malacca breach** | **Charged grounds (pilgrimage sites, stones, artifacts)** |
 |---|---|
 | Psi plane opens; first sight of the forms | One deep human thread **clarifies** because Eli is **on the ground** at a dense knot |
-| **Sensory overload** + body crash (TBI, hypoxia) — disorienting, not identity horror | A **person** resolves — **other**, visited not inhabited: Ila, Aru, Cuno, etc. |
+| **Sensory overload** + body crash (Fever scar, hypoxia) — disorienting, not identity horror | A **person** resolves — **other**, visited not inhabited: Ila, Aru, Cuno, etc. |
 | Signature **flares** the grid ("dinner bell") — **hunted from here on** | Factions race him **to the next charged ground**; artifacts name where to go |
 | One ordered fragment may surface (three concentric circles) | Full immersion only when charged ground + pressure earns it (`§8`) |
 

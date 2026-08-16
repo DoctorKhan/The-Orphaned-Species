@@ -132,7 +132,7 @@ The journey is a chain of experiential chambers. Each chamber needs:
 - **Hidden need:** prove he was not abandoned.
 - **False strategy:** become indispensable enough that no one can leave or file him.
 - **Gift:** receives broadly, reads systems and bodies, learns across domains.
-- **Limit:** access is not mastery; he cannot heal; overload and TBI impose real cost.
+- **Limit:** access is not mastery; he cannot heal; overload and leftover fever impose real cost.
 - **Book I error:** tries to solve people and evidence as one logistics problem.
 - **Book I proof:** at Sanxingdui he recognizes the command in his body and chooses against it.
 

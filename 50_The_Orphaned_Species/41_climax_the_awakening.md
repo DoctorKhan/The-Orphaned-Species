@@ -97,7 +97,7 @@ This keeps the climax's moral cut (releasing the reunion) and its public cost (a
 - Eli loses Maren after truly receiving her back.
 - He loses the innocent account of her.
 - Holding contact while the stations transmit under attack causes severe
-  metabolic and neurological harm; it does not cure his TBI.
+  metabolic and neurological harm; it does not cure his Fever scar.
 - At least one named person pays for the slower voluntary route.
 
 ### Limits

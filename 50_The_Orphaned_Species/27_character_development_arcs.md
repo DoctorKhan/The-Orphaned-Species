@@ -211,7 +211,7 @@ Responsible leadership is therefore not command or self-erasure. It is making ne
 
 **Vol II**
 - European pursuit: past carriers **disagree**; stops seeking one authority.
-- **Delphi (Ch 4):** Laurel Cube / Delphic Games contact under keeper consent → **giant face vision** with white somatic markings; wisdom register without Book III cosmology dump.
+- **Delphi (after Ch 3, before the clinic):** Laurel Cube / Delphic Games contact under keeper consent → **giant face vision** with white somatic markings; wisdom register without Book III cosmology dump.
 - **Maren's field notebook leaps:** cognate + site + measurement linked before full proof; **Sanxingdui break** — forced connection fails, larger pattern survives (`52`).
 - Mother-reveal: Maren is alive, held, and wired in — kept working by a reunion the Charkha keeps almost-happening; her love and complicity coexist.
 - Reunion: Eli and Maren receive real lucid time together and both want more.
@@ -520,7 +520,7 @@ Track each major choice against **Body / Family / Civilization**:
 
 | Choice | Body | Family | Civilization |
 |---|---|---|---|
-| Leave Pelangi Reach | Exhaustion, TBI | Kitchen crew, garden | Exposes refuge |
+| Leave Pelangi Reach | Exhaustion, leftover fever | Kitchen crew, garden | Exposes refuge |
 | Vol I climax | Mask on (hold fails); then he leaves | Malai's cooperative, Luo/Qiao's conservation, Rasel's ask | Rasel **refused**; Wren displaced; Tree recognized and not held (`68` § *Pacing*) |
 | Release mother | Grief in chest | Orphaning complete | Node darkens |
 | Climax | Union act cost | Wren open-handed | Fire spreads; no throne |
@@ -549,7 +549,7 @@ Every reconnection that counts has the same shape, and a character can stall at 
 
 | Character | How they were severed | What reconnection actually is | Proof |
 |---|---|---|---|
-| **Eli** | Double orphan; exile from Bangladesh; TBI eating the memories; every faction offering him a *better* lineage | Rasel **refused** at Sanxingdui as a specific man—gardener, loved, difficult, implicated—not a martyr; inheritance becomes practice rather than bloodline | Releases Maren in Book II; in Book III works beside Rasel without becoming his extension; the grafted garden is shared, altered, and healthier for it. **A line lives by being changed.** |
+| **Eli** | Double orphan; exile from Bangladesh; leftover fever eating the memories; every faction offering him a *better* lineage | Rasel **refused** at Sanxingdui as a specific man—gardener, loved, difficult, implicated—not a martyr; inheritance becomes practice rather than bloodline | Releases Maren in Book II; in Book III works beside Rasel without becoming his extension; the grafted garden is shared, altered, and healthier for it. **A line lives by being changed.** |
 | **Wren** | No ancestral claim on the Weavers' Bengali–Malaccan branch; her belonging is entirely earned, and Mira's death made her doubt she has the right to any of it | **Chosen kinship is lineage** — the web she joined through work, obligation, and love hands her something real: the quiet-culture adaptation (`§ Quiet-culture lock`) and its threshold rituals. She also inherits its *cost*, and must decide which half to pass on | The **ferry-terminal threshold house**: she is rebuilding the ancestral form (arrive, don't be processed) as an institution that survives her — and, with Asha, adds consent, return rights, and appeal, i.e. **alters the inheritance rather than reproducing it** |
 | **Somchai** | Healer with no legitimate line to point at; the tradition he works in was persecuted into invisibility, so the world offers him only *divine election* as an explanation | Locating the gift in an **ordinary human teacher** — someone's grandmother, a ward, a war, a person who showed him — which is exactly what makes deification refusable. *Son of a man, not son of god* | Names where it came from, to one person, without ceremony; refuses the crowd miracle because a handed-down craft has limits and a divinity doesn't |
 | **Maren** | Cut herself off — birth name **Holt** abandoned, family and country left behind; then removed from her own son's life and finally from her body | She cannot reconnect herself. **Eli restores her to the line** by receiving her whole: courageous, complicit, delaying. Releasing the innocent mother is what makes her an ancestor instead of a symbol | Release at Albion. **A symbol you kneel to is not an ancestor** — the release is the lineage move, not only the grief move |
@@ -570,7 +570,7 @@ Reconnection is not only excavation of your *own* dead. **The characters are tra
 | How found | **Artifacts, contested readings, and living teachers** — re-assembled unevenly under pressure; a full descent only where `36` §8 fires | **Handed over by a living person** who has no idea it is significant |
 | Status | Recovered technology | Never technology. It stays ordinary — and it is the half that actually holds a life together |
 
-They braid: an ordinary practice turns out to be a curriculum fragment worn down to a habit (the tune, the Delphic Games contact, the footwork — Eli's whole accidental training). **The reveal should run adopt-then-recognize, never recognize-then-adopt.** He must love a thing before he learns it is load-bearing, or the practice becomes a power-up. **Delphic Games / Laurel Cube contact — LOCKED 2026-07-23; remapped 2026-08-01:** on-page **Book II Ch 4** (Delphi); recognition lands when the **giant face vision** clarifies — not in Book I Thailand (wat = breath/Aru only). v1 § *The Medicine* in `archive/manuscripts/v1_archive.md` = quarry; adapt for Delphi; strip v1 cosmology; no Book III serpent-as-Makers-face dump here. Lead with somatic wonder, not terror — Eli drifts through layered vision: the face, then older hands performing the same motions across generations, then his own hands moving fast with the same cadence; a fellow incubant beside him stares, eyes wide, and that contact breaks the trance; he comes out of it still moving and afterward begins to speak with his hands more often, the new vocabulary already operative before he has words for it. Exit is partial memory: body changed, daylight mind cannot carry all.
+They braid: an ordinary practice turns out to be a curriculum fragment worn down to a habit (the tune, the Delphic Games contact, the footwork — Eli's whole accidental training). **The reveal should run adopt-then-recognize, never recognize-then-adopt.** He must love a thing before he learns it is load-bearing, or the practice becomes a power-up. **Delphic Games / Laurel Cube contact — LOCKED 2026-07-23; remapped 2026-08-16:** on-page **Book II after Ch 3** (Kastri / Laurel night), then Thrace clinic; recognition lands when the **giant face vision** clarifies — not in Book I Thailand (wat = breath/Aru only). v1 § *The Medicine* in `archive/manuscripts/v1_archive.md` = quarry; adapt for Delphi; strip v1 cosmology; no Book III serpent-as-Makers-face dump here. Lead with somatic wonder, not terror — Eli drifts through layered vision: the face, then older hands performing the same motions across generations, then his own hands moving fast with the same cadence; a fellow incubant beside him stares, eyes wide, and that contact breaks the trance; he comes out of it still moving and afterward begins to speak with his hands more often, the new vocabulary already operative before he has words for it. Exit is partial memory: body changed, daylight mind cannot carry all.
 
 **How adoption is dramatized:**
 
@@ -661,7 +661,7 @@ If none change, chapter may be pure plot — add human cost or cut.
 - Cast flesh + names: `26_present_day_cast_expanded.md`
 - Vol I past-vs-mask scene bank: `26` Part V
 - Trauma & internal cage patterns: `26` Part VI
-- Eli TBI + perceptual stages detail: `15_character_grounding_and_relatability.md`
+- Eli Fever scar + perceptual stages detail: `15_character_grounding_and_relatability.md`
 - Romance curriculum: `19_romance_and_divine_pairing.md` (§ *Romance cost audit*)
 - Per-chapter romance flags: `31_volume_I_beatsheet.md`, `32_volume_II_beatsheet.md`, `33_volume_III_beatsheet.md`
 - Per-chapter M/I/A flags: same beatsheets § *M/I/A audit*; hub `19` § *Female mystery, intrigue, and attraction*

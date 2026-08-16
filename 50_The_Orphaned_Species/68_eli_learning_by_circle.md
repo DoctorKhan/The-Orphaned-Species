@@ -211,7 +211,7 @@ armor because the interior is no longer an enemy to outrun.
 - Interrupt when it is too hot: tiller, tea, feet, work.
 - **Kru Dao (Ch 7+):** the same middle under a strike. Flinch is avoid. Rage-crash is immerse. The opening is the inverse. He gets out of a room. He does not win a name. Pre-Ch 5 fights stay untrained overwhelm (`15`).
 - Sleep returns. Startle leaves sooner. He can eat and joke.
-- Fever scar stays. Practice maps it.
+- Fever scar stays. Practice maps it. Author word: leftover fever — never TBI (`15` § *Eli's Fever scar*).
 
 **Family (seed).**
 - Wren sees him without converting him into a job.

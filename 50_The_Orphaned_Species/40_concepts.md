@@ -337,7 +337,7 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 **Craft rule (individual):** show **hidden talent** through work behavior — Eli finishes the diagram in his head but logs the slow time; he remembers the corridor after one walk but doesn't offer to lead. **Performing average** is survival craft, not false modesty.
 
-**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **TBI** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Turning folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-26 (rev. Z):** Wren may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Singapore run** = **Eli holds a sabotaged line through a near-miss, and Suresh awards him the job on witnessed competence** + compound attestation; leave away from island scrutiny.
+**Eli — LOCKED:** **strong visuo-spatial memory and skills** (routes, cable runs, robot paths, shaft maps, splice geometry) — **worker talent**, distinct from Maren's **receiver/carrier** line and Rasel's **symbolic feeling**. **Fever scar** makes it **inconsistent** — brilliance under quiet focus; gaps under overload. **Raised under the radar:** foster/worker placement + post-Turning folk norm. Foundry facilities work **uses** the gift in plain sight but **sanitized** — competent hand, not prodigy on file. **Pelangi — LOCKED 2026-07-26 (rev. Z):** Wren may sandbag splice times — *adequate is safe*; **no martial on Pelangi**; **Singapore run** = **Eli holds a sabotaged line through a near-miss, and Suresh awards him the job on witnessed competence** + compound attestation; leave away from island scrutiny.
 
 ---
 
@@ -906,14 +906,14 @@ Use herem as a structural memory, not an apologetic lecture. The story does not 
 
 The series' deep subject is **how a created and self-orphaned species learns what life is for through three concentric circles of relationship**, resolving into the **unification of the two trees** as the historical endpoint. The species is not merely grieving absent makers; it is learning what it did to them and whether it can meet their surviving progeny without repeating the founding violence.
 
-1. **Body** — the relationship to one's own body/self, where you *befriend the parts that try but fail to be happy*: the NPC/robot within (automatic seeking, the receiver's surge, the TBI scar, appetite, habit). Integration, not suppression or possession. *The body circle is the autopilot thesis (`10_triangulation_of_control.md`) completed: first the occupant steps in as the player; then he befriends the NPC he took the controls from.*
+1. **Body** — the relationship to one's own body/self, where you *befriend the parts that try but fail to be happy*: the NPC/robot within (automatic seeking, the receiver's surge, the Fever scar, appetite, habit). Integration, not suppression or possession. *The body circle is the autopilot thesis (`10_triangulation_of_control.md`) completed: first the occupant steps in as the player; then he befriends the NPC he took the controls from.*
 2. **Family** — how we became atomized; how bonds can be *chosen* and better. The orphan wound; Pelangi Reach as chosen family; the mother Eli cannot return to.
 3. **Civilization** — how it becomes Machiavellian and disconnected (Lang's registry, the collar); how a person can contribute to a coherent whole without being reduced to a use, category, rank, or permanent role.
 
 **Relationship to the rest of the design:**
 - The **four-corner grid** (`05`) is the *political* expression of circles 2–3. The three circles are the *lived* spiritual path. Eli's outer plot (mother, registry, web) is the vehicle; the inner plot is moving from estranged → befriending at each circle, then unifying the two trees (Life + Knowledge made one; body/family/civ in right relation) — the historical endpoint, **not a throne**.
 - **Mapping to cast:**
-  - *Body circle:* Eli's receiver/TBI; the healer's bodily limit (crown of the body, `05`); the Custodians as "NPCs" who took the collar (programmed, owned).
+  - *Body circle:* Eli's receiver/Fever scar; the healer's bodily limit (crown of the body, `05`); the Custodians as "NPCs" who took the collar (programmed, owned).
   - *Family circle:* Eli's mother search; Wren's prior-love/custody instinct; Pelangi Reach; Shireen.
   - *Civilization circle:* Lang; the registry; Sol's faction; the final coalition.
   - *Two-tree unification:* the web clarified as one field; living connection joined to testable understanding; the Vol III endpoint.

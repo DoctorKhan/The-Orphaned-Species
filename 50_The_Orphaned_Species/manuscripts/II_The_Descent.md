@@ -356,10 +356,6 @@ public gate and losing every place that name admitted her. Rasel making a tool
 with Maren, then twenty years of building exactly what he was asked to build,
 and one night asking his son to finish it.
 
-Family is not the safe ring.
-
-It is the ring through which safety or damage must pass.
-
 He wonders, not for the first time since last night, whether the center
 dot was ever only him — or whether his mother had already drawn a smaller
 circle around the exact shape of the boy who would one day open a door for
@@ -733,10 +729,7 @@ blanket. Her eyes are open in a way they have not been since the annex: the
 fear has not left, but it has stopped being the only thing in the room. She
 sees Nadiya and the name of the woman who sent the message she does not know
 yet—Maren's hand in a kitchen route she has never traced. For a moment Sora's
-throat works without sound. Then she finds Eli's wrist and holds it the way
-someone holds a route she cannot complete alone. The grip is not grateful. It
-is the grip of a person who has stopped waiting for rescue and decided that
-standing is enough.
+throat works without sound. Then she finds Eli's wrist and holds it. The grip is not grateful.
 
 The woman checks the other racks. Only when the compressor settles into its
 normal rhythm does she turn toward the people.
@@ -1181,8 +1174,7 @@ god-king kept alive past any ordinary reign, the office propped upright long
 after the man inside it should have been allowed to die, endurance mistaken
 for survival. "Pharaohs trace to Mesopotamia," she adds, before anyone can
 ask. "That is my colleague's claim. Not mine. I keep the photographs. I do
-not keep his footnote." Nobody in the room needs the comparison explained
-twice: transfer, or hardening. Two ways an old order refuses to end.
+not keep his footnote."
 
 Sora points to a category beside Hassan's record.
 
@@ -1459,6 +1451,13 @@ The site is smaller than its photographs and larger than its age. T-shaped
 pillars stand inside stone circles, hands carved along their sides and folded
 above belts. Foxes run in profile across limestone. A bird watches from a
 pillar as if everyone below has arrived late.
+
+Beside the education tent a limestone block has been reused as a bench.
+Six spokes around a hub. A paper tag wired through a later hole:
+CHARKHA / SURFACE FIND / NOT IN SITU.
+
+Nehir taps the tag. "The cut is local fill. The office that named it is
+not."
 
 Tourists gather at the rails. Conservators work under shade cloth. A laborer
 guides a narrow electric carrier down a grade too steep for the visitors'
@@ -1860,9 +1859,7 @@ The array loses its shared clock.
 
 The pressure does not vanish. It fragments.
 
-This is what the Untying looks like — not a switch flipped, but a decision made under pressure: refuse the single command that would hold everyone upright and trust the room to answer instead.
-
-People stumble in different directions. Worse for one second. Human after.
+People stumble in different directions. One man sits down hard. A child starts crying at the wrong adult.
 
 Nehir's staff open the outer rope and move visitors onto the rain path. Wren
 takes the child from the failed rail. Nehir's staff shut sensor sleds one at a
@@ -2100,8 +2097,6 @@ The pass they hand him is a plain paper stamp.
 
 The second thing is a keeper's word, said the way a local tells you which
 door opens: a night, if he wants it, at the mountain's shoulder.
-
-That is the prize. The games were the door.
 
 ---
 
@@ -2900,10 +2895,15 @@ a half-line in three languages and left it unfinished:
 
 *I alone—*
 
-Nobody explains it. Somchai wipes the chalk with his sleeve before the pilgrims
-can turn a fragment into a hymn.
+Beside it, same white: Dei. Dio. Dievas.
 
-Somchai tears the sign in half.
+Nobody explains it. Somchai wipes the wall, then tears the cardboard
+**HEALER** in half.
+
+A woman near the flowers, not quietly: "Two lights on a mast is rescue. One is
+the sister who sinks you." She looks from Somchai to Eli when she says two.
+
+Somchai does not look up.
 
 "That seems unfriendly," says a man beside Eli.
 
@@ -3234,9 +3234,7 @@ person made to carry a shape that is not her own until the thing she is carrying
 stops being useful. He thinks of the pen twelve description Sora gave them—cattle
 trucks, wash arches, concrete walls. He thinks of the guard changing at dawn,
 which means the night shift is already tired, already watching the perimeter
-instead of the pens, already making the small mistakes a rescue depends on. The
-depot is not a fortress. It is a place where people have stopped looking
-carefully because nothing they care about is supposed to be inside.
+instead of the pens, already making the small mistakes a rescue depends on.
 
 He does not say this aloud. He does not need to. Wren is already routing the
 night-shift fatigue data through a house in Thrace that does not know her name.
@@ -3538,8 +3536,6 @@ Hassan is here.
 
 Maren is there.
 
-The words are not argument. They are two wounds refusing to rank themselves.
-
 On the screen, the silent recording reaches a new segment.
 
 Maren stands over a projection of human signatures. Younger. Uninjured. She
@@ -3796,14 +3792,9 @@ Eli rewinds to the first recording.
 
 *The false-positive rate is acceptable if the intervention remains voluntary.*
 
-Maren believed governance would hold.
-
-Rasel believed instruments could remain tools.
-
-Eli believed finding either parent would return the lost household.
-
-Everybody builds the first part of a cage while naming the safeguard that will
-prevent the door.
+Maren wrote that a false-positive rate was acceptable if the intervention
+stayed voluntary. Rasel kept building the loops. Eli thought finding either
+parent would put the household back.
 
 Wren sits beside him, not touching, close enough that he can feel warmth from
 her arm.
@@ -3844,13 +3835,9 @@ replacing it would be."
 
 He thinks of Aylin's body stopping the interview before her mouth did.
 
-Consent is not only the word that grants access. It is attention paid before
-wanting turns another person into an answer.
-
-The Mandate is not one door. It is a cage built of doors — each one opening
-onto a smaller room than the last. Wren knows this because she has spent six
-weeks mapping it from the inside. She has not told Eli yet. She is waiting for
-the moment when he asks instead of assumes.
+Wren has spent six weeks mapping Mandate transfers from the inside. Each
+window opens onto a smaller room than the last. She has not told Eli. She is
+waiting for him to ask.
 
 "I'm sorry."
 
@@ -4523,6 +4510,11 @@ before Avebury can pretend the journal knows the way home.
 **HOLT** remains true as Maren's mother's line. The single-house inference does
 not.
 
+On the facing page, smaller: **EL** and a question mark. Under it a name he
+sounds as *Asherah* because that is how the vowels sit, then a line through
+the last three letters. He almost asks Marta. He does not. She has already
+spent her correction on the house.
+
 Eli stares.
 
 At border desks, clerks have always treated Holt beside Khan as evidence of
@@ -4548,10 +4540,19 @@ The room goes quiet around what can be said without inventing the rest.
 
 Somebody tracked them.
 
-The word *carrier* would be too modern. *Elf* too corrupted by later story.
-*Nephilot* too certain. The bones do not supply a species name.
+Anke takes a sleeve of old cards from a drawer that still smells of tobacco.
+Nineteenth-century German. One word underlined twice: *Alben*.
 
-They supply people moved, killed, and made into a pattern by someone else.
+"They put it on every unexplained female burial from here to the Harz," she
+says. "We retired it."
+
+Marta does not look at the card. "My grandmother used it for the ones who
+went missing at the rings. Not kindly."
+
+Eli sounds it once. *Alb.* The mouth wants to slacken into a children's-book
+word he will not give these shafts.
+
+They have people moved, killed, and made into a pattern.
 
 Marta closes the image set.
 
@@ -5027,15 +5028,13 @@ Hassan checks the intervals with a length of green cord.
 
 Wren hums the notes under her breath.
 
-Eli is looking at the sketch in his pocket — the one Hassan drew from memory in the transit pen, three marks spaced the same interval as the pump alarm, Callum's mark on the drainage sketch, the tablet's three rings with a center point. Each site is not a separate thing. Each site is the same diagram written into stone at a different scale.
+Eli is looking at the sketch in his pocket — the one Hassan drew from memory in the transit pen, three marks spaced the same interval as the pump alarm, Callum's mark on the drainage sketch, the tablet's three rings with a center point.
 
 Pömmelte: three concentric rings.
 Rollright: three standing stones, the same spacing as the pump alarm.
 Men-an-Tol: three uprights with a piercing at the center.
 
-He has been carrying Hassan's copied interval without reading it as a map. The sites are the instrument Hassan described. One thing, repeated at different scales.
-
-He does not say this aloud. He does not need to. Wren turns from the stones and meets his eye before he speaks, the way she does when his hands have given him away.
+He does not say this aloud. Wren turns from the stones and meets his eye.
 
 The first Custodian strike uses no lance.
 
@@ -5435,6 +5434,25 @@ leave. They went underground."
 
 "It's the only one that's held up this long."
 
+The header on her slate still says ALBION. Maintenance district. Gate codes.
+
+"The ferry clerk used that word," Eli says.
+
+"They took it back when the crown died. Older than the crown: Alba. The ones
+who ran west. Mothers kept the names. Hunters kept the lists."
+
+"At Pömmelte they wrote *Alben*."
+
+She tests the iron with her thumb. "They kept walking. Later mouths said
+elf. Same island."
+
+Holt on the page Marta corrected. His mother's line.
+
+"So she might be—"
+
+"Possibly." Morwen slings the coil. "I do gates. If you want a species, the
+vicar still has pamphlets."
+
 Callum wakes before the rowan leaves brown.
 
 ---
@@ -5522,6 +5540,11 @@ without discussing who holds which end, why their bodies frighten him.
 They do not look newly reunited.
 
 They look like a language resuming in the middle of a sentence.
+
+---
+
+That night, downstairs, he opens the notebook to HOLT. In the margin, in his
+own hand: *Alba?*
 
 ---
 
@@ -6445,9 +6468,7 @@ accepted it from somewhere, and sent it onward under the names of those who
 had kept it. Lose the names and a ruler could claim to be the source. Combine
 the signs and a ruler could turn six teachings into one command.
 
-Men-an-Tol supplies one of them. A completed passage is not a returned person.
-The stone did not teach bodies how to make a formation. It taught keepers to
-distinguish a route from the life moving through it.
+Men-an-Tol supplies one of them.
 
 Eli kneels beside the projection.
 
@@ -7138,9 +7159,7 @@ Maren opens both arms.
 
 The embrace has weight.
 
-That is what breaks him. Not recognition, not the field, not ten years of
-wanting. Her body leaning into his. Shoulder blade beneath his hand. Hair
-against his mouth. The ordinary labor of holding up another person.
+Her body leans into his. Shoulder blade under his hand. Hair against his mouth.
 
 She smells of antiseptic and burned toast.
 
@@ -7265,14 +7284,6 @@ Maren does not.
 
 "I told myself I had no other method," she says. "That part was true. I told
 myself truth ended the question. That part built everything after."
-
-The innocent mother is gone.
-
-The woman remains.
-
-Eli loves her.
-
-Both facts refuse to cancel.
 
 Eli takes Maren's folded correction from his pocket and lays it beside the ring.
 The paper will no longer close along its old creases.

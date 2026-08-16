@@ -64,6 +64,8 @@ Default prose is:
 - **specific:** named objects, jobs, routes, foods, injuries, and procedures replace generic description;
 - **restrained:** lyricism intensifies selected moments rather than coating every paragraph;
 - **lightly interpretive:** the narrator may sharpen an observation but should rarely deliver the scene's thesis;
+
+**No thesis-caption after the scene — LOCKED 2026-08-16.** If the action already happened, do not write a tidy line that says what it meant. Failed example (cut from Book II): *The innocent mother is gone. The woman remains. Both facts refuse to cancel.* Keep Maren's list of the eleven children. Let Eli put the paper down. Same failure in chat: *She is the civilian the compact cannot file as a lesson and still keep its soul.* Write: *Nia is a boat mechanic. Tomas kills her.* Ban the shapes *This is what X looks like when Y*, *That is the point*, and two-abstraction pairings used as insight. Character dialogue may stay worn and short. The narrator may not grade the scene.
 - **contemporary and flowing:** varied sentence length, minimal ornamental syntax, no faux-scriptural default;
 - **socially alert:** rooms contain status, obligation, history, inconvenience, and other people's needs.
 

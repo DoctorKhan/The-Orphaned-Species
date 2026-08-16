@@ -79,7 +79,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 | File | Status | Purpose |
 |---|---|---|
 | `14_literary_speculative_thriller_style_guide.md` | LIVE | Governing prose/POV register. |
-| `15_character_grounding_and_relatability.md` | LIVE | Vulnerability/relatability rules. |
+| `15_character_grounding_and_relatability.md` | LIVE | Vulnerability/relatability rules. Fever scar lock (TBI retired as author word, 2026-08-16). |
 | `16_reader_attachment.md` | LIVE | Attachment mechanics. |
 | `17_reveal_order_and_reader_impact.md` | LIVE | Reveal sequencing; ancient face; climax staging. |
 | `18_adventure_engine_and_scene_bank.md` | LIVE | Scene-generation bank. |
@@ -159,7 +159,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 | `47_palace_of_the_mothers.md` | LIVE — **Collision** | In-world institution. |
 | `50_teahouse_pilgrimage.md` | LIVE | Teahouse/pilgrimage network. |
 | `51_field_sail_and_mandate_peace.md` | LIVE | Complex-time / peace process. |
-| `52_maren_holts_field_notebook.md` | LIVE | Maren's comparative field journal. |
+| `52_maren_holts_field_notebook.md` | LIVE — word-web seeds on-page 2026-08-16 | Maren's comparative field journal. Forms first (`98` item 7). |
 | `53_quotable_refrains.md` | LIVE | Recurring in-world phrases. |
 | `54_litanies.md` | LIVE — **Collision** | Parade Liturgy master map. |
 | `54_the_lay_verses.md` | LIVE — **Collision** | Tao-rhyme verse bank. |
@@ -190,7 +190,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 
 | File | Status | Purpose |
 |---|---|---|
-| `98_craft_review_backlog.md` | PROCESS | Open craft fixes. |
+| `98_craft_review_backlog.md` | PROCESS | Open craft fixes. Item 7 word-web seeded 2026-08-16. |
 | `99_open_questions.md` | PROCESS — governs supersession | Open questions. |
 | `99_active_todo.md` | PROCESS | Active todo scratch. |
 | `99_companion_rebuild_plan.md` | PROCESS | Layer 2 rebuild. |

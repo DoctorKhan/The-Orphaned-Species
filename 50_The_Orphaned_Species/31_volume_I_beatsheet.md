@@ -324,7 +324,7 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 
 ### [bank] The Breach — Malacca asphyxia *(→ current Ch 2 ending)*
 - **Want:** survive / reach the handoff.
-- **Obstacle:** the Custodians run him down — scooter flight → **untrained** close-quarters fight (no martial skill yet — hunted, outgunned, Fever scar, overload) → driven off a quay / choked and held under: **near-death by asphyxia.** The hypoxia rings the Fever scar (the world's TBI label on-page if named).
+- **Obstacle:** the Custodians run him down — scooter flight → **untrained** close-quarters fight (no martial skill yet — hunted, outgunned, Fever scar, overload) → driven off a quay / choked and held under: **near-death by asphyxia.** The hypoxia rings the Fever scar.
 - **Choice → Cost:** at the threshold he stops fighting the water/the dark — and crosses. Cost: near death; the witness/handoff lost in the chaos.
 - **Revelation:** at the edge of death **the psi plane opens to him for the first time** (first sight of the forms) — **sensory overload**; body crash. Catastrophe, not power: he is **hunted** from this moment (grid flare). **Forward action:** **Salmah**, a local fish seller and small-boat owner, uses current knowledge, a boat hook, and a mooring line to haul him out and performs rough resuscitation.
 - **Hassan / ring cost:** while Eli is driven toward the water, Hassan is recaptured with the ring still in the captors' control. Eli cannot reach him without abandoning the immediate fight and endangering the bystander. Hassan's loss survives as a human obligation into Volume II, not merely a missing object.
@@ -573,7 +573,7 @@ The on-page sequence therefore moves from **how people survive together** (Çakm
 | Coalition keeper chain | Union quarantine | Plot fuel |
 |---|---|---|
 | Keeper knowledge spreads on trade routes | Registry treats episodes as **contagion / Fractured** | Eli's **song** is both family memory and **keeper knowledge in musical form** — the lure works because Coalition culture *passes recognition hand to hand* |
-| Threshold houses integrate | Containment wards suppress | Eli survived his puberty episode in the **keeper net**, not Union wards — his receiver opened *incompletely*; TBI + incomplete rewiring = overload at breach |
+| Threshold houses integrate | Containment wards suppress | Eli survived his puberty episode in the **keeper net**, not Union wards — his receiver opened *incompletely*; leftover fever + incomplete rewiring = overload at breach |
 | Community notices when someone breaks (Nico) | White coats **hunt** activation | Ch 2 chase = Union model closing on a boy the compound already knew |
 | Fever completes with guides | Brittle: baseline enforced | Custodians = Union logic with psion collars; Weaver houses = bounded civic care |
 

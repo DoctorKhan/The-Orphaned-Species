@@ -101,24 +101,21 @@
 
 |---
 |
-|## 7. ☐ Maren's field notebook word-web — locked architecture not yet drafted into prose
+|## 7. ☑ Maren's field notebook word-web — seed pass 2026-08-16
 |
-|**Problem.** The comparative cipher, reader apprenticeship track, and philological beats are fully locked in `52_maren_holts_field_notebook.md`, but most have no manuscript coverage. The series' epistemological spine is therefore invisible to readers until prose lands it.
+|**Problem.** The comparative cipher was locked in `52` while the manuscripts still treated the journal as a sealed object. The reader could not apprentice the forms before the answers.
 |
-|**Why it matters.** The word-web is what makes the series a single decoding project rather than a quest with a journal McGuffin. If it stays craft-doc-only, the reader never gets the parallel apprenticeship Eli is doing, and the linguistic payoff lands as exposition instead of discovery.
+|**Seeded on-page (2026-08-16).** Forms first, no title sermon:
+|- Six-spoke wheel on reused limestone, Charkha tag newer than the cut — II Ch 3 Göbekli.
+|- **EL?** and a lined-through *Asherah* on the page facing the HOLT correction — II Ch 6.
+|- Dei / Dio / Dievas chalk beside *I alone—* — II Ch 4 clinic wall.
+|- Mast-light superstition (one sister / two brothers) — I Ch 2 strait; twins rumor aimed at Eli and Somchai — II Ch 4 clinic yard.
+|- *nápātā* / unfinished *népoth* with Nadiya's gloss *descendants. Not two.* — III Ch 2 packet. Title-resolution still unpaid.
+|- Ginger priced in three mouths at Ver-o-Peso — III Ch 4. Same number. Buyer pays once.
+|- HOLT single-house inference already beaten by Marta (II Ch 6); Maren's later concordance correction already in IV.
+|- Alba → Albion → elf: German fossil first (II Ch 6 Pömmelte — *Alben* card); click at Men-an-Tol (II Ch 7). Eli writes *Alba?* on HOLT. Possibly Maren's line. Not a species.
 |
-|**Evidence.** Draft audit (2026-08-06) confirms the following locked beats have no manuscript prose or only conceptual mention:
-|- Charkha artifact as spoked wheel inscribed on stone tablet — lock only (`charkha-craft-lock.md`).
-|- Eli's name → El / Asherah Canaanite substrate — conceptual only.
-|- *népoth₁e* / "sky-children" / orphaned species as decoded root — lock only.
-|- Divine Twins rumor / St. Elmo's fire maritime texture — lock only.
-|- Reader-facing recurring word forms before reconstruction — design only, needs draft rule.
-|- Brazilian teahouse network triple-register as reciprocal-circuit embryo — conceptual only.
-|- Maren's specific errors, corrections, redacted names — partial; needs expansion to full set.
-|
-|**Suggested direction.** Assign one prose pass per volume that converts each locked beat into on-page evidence (dialogue, marginalia, witness testimony, Eli's working hypothesis) rather than explanation. The reader must see recurring forms before each answer lands; that is a drafting rule, not just a craft principle. Prioritize *népoth₁e* and Divine Twins for Book III; Eli/El/Asherah and Charkha artifact for Books II–III.
-|
-|**Status.** Architecture locked; prose pass not started.
+|**Still unpaid.** Full *népoth₁e* → sky-children / series-title landing; Divine Twins as a named reconstruction; Charkha wheel as a tablet (the Göbekli bench is fill, not the inscribed artifact); Maren's redacted names as a set. Do not dump those as a syllabus. Next pass spends a form already on the page.
 |
 |**Related:** `52_maren_holts_field_notebook.md`; `charkha-craft-lock.md`; `17_reveal_order_and_reader_impact.md` § *Expertise fantasy*.
 |

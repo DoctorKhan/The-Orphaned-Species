@@ -1175,7 +1175,11 @@ Maren has written beside the last line:
 **A PURPOSE GIVEN BY AUTHORITY IS STILL A PLACEMENT. WHAT HAPPENS WHEN THE
 PERSON CANNOT REPAY WELCOME?**
 
-Eli reads the packet beside Tomas's bed.
+Lower on the same scan, pencil the copy almost lost: *nápātā*, then *népoth*
+with the last letters unfinished. Nadiya's gloss: *descendants. Not two.*
+
+Eli reads the packet beside Tomas's bed. He leaves the pencil line under the
+Umul page.
 
 The grounding curtain hangs between them.
 
@@ -1554,17 +1558,6 @@ Tomas swears after he leaves the room.
 Not at Bima.
 
 At himself for being relieved there is a tomorrow.
-
-The relief is honest. So is the anger at the honesty.
-
-Tomas has been carried by too many people who did not ask him to name what he
-cost them. Bima failed him. Wren gave him abort contacts he did not earn. Nia
-and Amara gave him a room above the laundry. Mei gave him a bowl with his
-sister's instruction in it. Each gift has been a question: will you let this
-be debt? Tomas has let them. He does not know how to receive without turning
-the next act into repayment. The accident with Nia was not the first time he
-has made a boundary land in someone else's body. It was only the first time it
-was visible enough to name.
 
 Amara and Nia take a room above the old laundry. They have been married four
 years and physically together for nine months of them. Amara repairs steering
@@ -1966,10 +1959,6 @@ Refugees burn copies on the east walk, arguing that the review created the file
 Lang needed to take Tomas. One woman tears up her own incident report and says
 no harm can be answered under a system that ends in confinement.
 
-Each side holds one piece of the body.
-
-Neither can carry Nia whole.
-
 Mei opens the kitchen.
 
 She serves Ilyas first because his daughter has not eaten.
@@ -2253,10 +2242,7 @@ an adult to put both hands flat against a crate of ice.
 Wren stops at a stall selling cassava flour and listens. The vendor does not
 look at her. The buyer does not look at the stall. The exchange is ordinary
 enough that a Union observer would pass it without noting the folded paper
-changing hands inside the flour sack. This is the compact before it has a name:
-not a charter signed in a hall, but a transaction witnessed by two people who
-both understand that the paper inside the sack is a consent not to be searched,
-and that the consent is only valid because the vendor chose to give it.
+changing hands inside the flour sack.
 
 She moves on. The rain has not stopped.
 
@@ -2386,6 +2372,12 @@ for today's scale."
 back."
 
 She leaves him with the cup.
+
+At the next stall a woman prices ginger in Portuguese for the scale, then
+again in Spanish for the river boat, then in a market slang Eli only has two
+words of. The number does not change. The buyer pays once.
+
+Eli drinks. The tea is bitter enough to wake the back of his tongue.
 
 Out past the awning, the tide keeps rising against the pilings, indifferent to
 which delegation gets there first.
@@ -3895,17 +3887,9 @@ because that is how the dinner was filed. Wren reads it twice.
 
 That matters.
 
-They are not writing a weaker version of his system.
-
-Wren has begun to notice what the compact is. Not a table where every
-voice carries equal weight. Not a document a feed title could summarize. Not a
-system built to protect the people who wrote it from the people it governs.
-The difference from Lang's Standard was never vocabulary — it is the decision
-to let contradiction remain inside the room instead of removing it afterward.
-
-This is what she has been drafting at hours she does not remember sleeping: not
-the text itself but the spaces around it—the review periods, the abort contacts,
-the unnamed chairs, the refusal to let a single account become the record.
+Wren's draft on the table has review periods, abort contacts, and unnamed
+chairs. She has been writing them at hours she does not remember sleeping. She
+crosses out a line that would let one account stand as the record.
 
 Amina joins from a replacement desk two piers down, Dona Iracema beside her
 sorting ration cards through the interference. Mei joins from a
@@ -5133,7 +5117,7 @@ That is the old reflex: preserve the revelation by defending its purity.
 The armor begins as a disagreement over burns.
 
 Eli's field exposure is rising. His left hand no longer closes fully after long
-coordination. The old brain injury makes sensory overlap dangerous. Ash and heat
+coordination. The leftover fever makes sensory overlap dangerous. Ash and heat
 from the damaged corridor interact with several active signatures.
 
 Local makers, refugee engineers, clinic staff, boatworkers, and threshold-house
@@ -6767,8 +6751,8 @@ The night before the assembly, Amina brings leftover market rice and fried
 plantain into the preparation room and refuses to let anyone open a ledger
 until the plates are empty. Owen argues with Celia about salt. Malia tells a
 story about a cousin who once certified a fishing boat with the wrong stamp
-and still eats with the family that forgave him. Eli washes bowls. For twenty
-minutes nobody is a federation. That is the point.
+and still eats with the family that forgave him. Eli washes bowls. The plates
+empty before anyone opens a ledger.
 
 ---
 
@@ -6778,11 +6762,10 @@ Nobody remarks on it, because Wren spent three weeks making sure nobody would ha
 
 Asha sits at the central table with three ledgers open: technical credentials, living attestations, and objections. She looks tired the way people look tired after real work rather than after fear.
 
-"A key is not a person," she says, to nobody, out of habit, because she has said it in rehearsal so many times it has become a kind of prayer.
+"A key is not a person," she says, to nobody. She has said it in rehearsal
+until the words come out without her choosing them.
 
-Nobody needs the reminder today.
-
-This is what slow government looks like when nothing is trying to kill it.
+Nobody looks up.
 
 ---
 
@@ -6793,16 +6776,11 @@ Its roof trusses still carry load ratings. Two gantries hang above the delegate 
 The hall sits on Heather ground. Eli feels it as soon as he takes his seat: a
 lift behind the eyes, the urge to be certain, the same false genius the Union
 loyalists wear like weather. He puts both soles flat and waits until the lift
-is only a room. The transfer has to happen here anyway. The ground does not
-get a vote. It only gets to be felt.
+is only a room.
 
 Outside, first-cloister crews manage the perimeter beside local defenders.
 
-Not beneath them.
-
 Owen Price insisted on separate authorities and a written rule against turning every available man into security. Malik Foster brought twenty of Sol's former and current supporters under a no-scarf, no-recruitment agreement. Harbor Threads run transport. Disabled veterans staff the information desk because somebody finally noticed they know every route in the building.
-
-Women remain everywhere in the work.
 
 Leilani controls the airspace.
 
@@ -6812,15 +6790,9 @@ Weaver houses verify arrivals.
 
 Mina leads medical, and has nothing to do today, and complains about it to anyone who will listen.
 
-The new men's order has not come to take the jobs women carried.
+Eli sits among the delegates.
 
-It has come to make standing after the job possible.
-
-Eli sits among ordinary delegates.
-
-No raised platform.
-
-The arrangement creates more attention than a throne would.
+No raised platform. Two people in the front row still watch him instead of Asha.
 
 Rowan arrives through the west door with Callum and three route witnesses.
 
@@ -6830,15 +6802,9 @@ They do not kiss for the cameras.
 
 They touch foreheads briefly after the last witness confirms.
 
-Eli sees.
+Eli's mouth goes dry.
 
-The jealousy that once told him he was being replaced appears, waits, and finds no fact to attach itself to.
-
-Wren chose him yesterday.
-
-Rowan's choice does not revoke it.
-
-Rowan catches Eli watching.
+Rowan catches him watching.
 
 "Problem?" she asks.
 
@@ -6878,9 +6844,7 @@ The continuity clause is read into the record and not invoked. Wren makes sure o
 
 Eli signs.
 
-Beside him, an old Weavers' custodian — a woman who has been in the room longer than any delegate and has said nothing until now — makes a small sound in her throat. Not applause. The kind of noise a body makes when it recognizes a shape it thought was gone: a breath held too long, released. The sound is older than the room. It is older than the federation. It belongs to the part of practice that does not need a document to keep it alive.
-
-It is also the final Untying he will ever need: the transfer names a bounded, reviewable release, not a crown, and the room has already proved it can hold authority without a single source.
+Beside him, an old Weavers' custodian — a woman who has been in the room longer than any delegate and has said nothing until now — makes a small sound in her throat. Not applause. A breath held too long, released.
 
 ---
 
@@ -7011,15 +6975,7 @@ looks back. The lights are still on over all seven desks.
 
 Nobody calls him back.
 
-The civic win is real. He can feel it the way he feels a clean splice—load
-distributed, no single point of failure, the room continuing without his name
-on the top line. Relief arrives. It does not become belonging.
+On a warehouse wall someone has chalked two incomplete circles, hatch-marks
+opposed. Eli puts his palm against the wall beside the chalk. Nothing answers.
 
-On a warehouse wall someone has chalked two incomplete circles, hatch-marks opposed, almost ready to join into an infinity. Some people already call it The Loop — not a diagnosis, just a name for a thing anyone can feel. Street name waits for people who need a word for the sealed feeling after a finished job: usefulness without home, recognition without rest, a completion that still loops privately. Eli does not name it. He puts his palm against the wall beside the chalk and finds no answer waiting for him there.
-
-He walks on. The federation holds. He remains unfinished inside it.
-
-That private hunger is the debt Book IV will have to test under weather, not
-proof the handover was theater or an excuse to call today's victory fake.
-
-The work continues.
+He walks on.
