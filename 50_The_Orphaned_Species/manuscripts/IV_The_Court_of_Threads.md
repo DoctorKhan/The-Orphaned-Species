@@ -45,6 +45,11 @@
 > of Rowan's pregnancy or the child's future. His growth is the ability to
 > record a powerful dream and continue without making other people live inside
 > it.
+>
+> **Wonder floor on-page — 2026-08-16:** eruption seen from the west window
+> before the forecast fight (Ch 1); Yuliana walks the cooled corridor before
+> she writes the number; Heather ground draws pilgrims and a crackdown; birth-
+> field cuttings attend, child unmarked (`22`, `60`).
 
 ## Chapter One—The Doors
 
@@ -247,6 +252,14 @@ The caldera is a red shape in the North Pacific, far enough away that nobody in
 the hall heard it. The first images arrived twelve hours late through military
 channels and then everywhere at once. A dark column. Lightning inside it. A
 coast leaving beneath people who had names before they became a scale bar.
+
+Wren is at the west window before the wall finishes loading the second model.
+The sky over the harbor is the wrong color for weather. Not storm. A dry
+yellow-grey, as if someone had sanded the light. In the tidal basin the water
+runs a shade too pale, carrying a film that is not oil. A planted strip along
+the quay — last year's emergency alders — holds when a northern stand on the
+feed would already have dropped. She does not have a name for that. She has
+the window.
 
 In the harbor below, the first ash falls like coarse flour. A child catches it
 on a sleeve and looks at the gray smear the way children look at evidence—no
@@ -452,10 +465,14 @@ correction meant the difference between understanding and repeating.
 
 The Union permit office issues seven revocation orders that same night. Six are
 routine. The seventh stops a group of pilgrims at the western intake tower who
-had walked three days carrying only water and a petition book. Their permits are
-withheld on the grounds that the route they named passes within two kilometers of
-a security installation the Union has not declared. The officer who holds their
-documents is young enough that his voice cracks once before he finds the rule.
+had walked three days carrying only water and a petition book. They came because
+the Heather ground still behaves: a spring at the old cube fence that did not
+fail when the northern wells dropped, and a vertigo in the inner court that
+the petition book calls courage and the officer calls contagion. Their permits
+are withheld on the grounds that the route they named passes within two
+kilometers of a security installation the Union has not declared. The officer
+who holds their documents is young enough that his voice cracks once before he
+finds the rule.
 
 Wren receives the appeal at breakfast. She checks the distance against the map
 and finds the installation was decommissioned five years earlier. The permit
@@ -2719,6 +2736,13 @@ grows quickly and reports cleanly to the northern models.
 
 The reply includes a photograph of coffee under mixed shade, a culvert crowded
 with roots, and the slope above the clinic after rain.
+
+Yuliana walks the cooled road herself before she sends the last line. Midday.
+The mixed canopy drops the heat enough that she can keep her hand on the
+rail without flinching. She drinks from the pipe the slope still feeds, not
+from the truck tank. At the clinic kitchen a woman is cutting jackfruit the
+trees made this week. Yuliana writes the number after she has used the
+corridor, not before.
 
 **TWELVE THOUSAND FIT ON YOUR MAP. THEY DO NOT FIT THROUGH MARCH.**
 
@@ -5815,6 +5839,13 @@ The council must reach provisional certification.
 The institutions must act.
 
 The room waits on no miracle.
+
+A pot of corridor cuttings sits on the sill because Wren brought them and
+refused to call them a gift. During the last contraction the soil in the pot
+warms under Rowan's glance. One leaf turns toward the bed. Nobody asked it
+to. Mina sees it and says nothing. Rowan sees it and keeps the next breath
+for the work in her body. The child will take no mark from a plant. The
+world came anyway.
 
 ---
 

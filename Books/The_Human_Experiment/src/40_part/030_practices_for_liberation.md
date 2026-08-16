@@ -41,7 +41,7 @@ Beyond rigorous reality testing, those preparing for the evolutionary forge ahea
 
 ### Daily Reality Testing Protocol
 
-**Morning Awareness Check**: Begin each day by asking: "What narratives am I carrying? What emotional charges am I holding? What stories am I believing without question?"
+**Morning Awareness Check**: Begin each day by asking: "What narratives am I carrying? What charges are present, and what emotions are answering them? What stories am I believing without question?"
 
 **Media Consumption Audit**: Before engaging with news, social media, or entertainment, pause and ask: "What is the function of this content? How is it designed to make me feel? Who benefits from my emotional reaction?"
 

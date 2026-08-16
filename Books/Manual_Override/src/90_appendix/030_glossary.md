@@ -19,7 +19,23 @@ The machine's inherited, learned, cultural, traumatic, and habitual rules. Condi
 
 **Charge**
 
-An impulse descending through the receiver and deposited into the embodied machine. Charges animate and steer conditioned rules in three directions: **positive** charge pulls toward, **negative** charge pushes away, and **neutral** charge continues the existing program without examination. Under autopilot these correspond functionally to the Buddhist three poisons: craving, aversion, and ignorance. A neutral charge is not the same as a completed or unbound charge.
+An impulse descending through the receiver and deposited into the embodied machine. Charges animate and steer conditioned rules in three directions: **positive** charge pulls toward, **negative** charge pushes away, and **neutral** charge continues the existing program without examination. They are **guidance** relating to the place from which a conscious being can engage — not the thing being optimized, and not emotions. Emotion is the machine's response to a charge. Sensation is raw data with no owner in it. Identification is the second-step story that there is an I. A neutral charge is not the same as a completed or unbound charge, and not the same as **neutral gear** (conscious availability). Chain: `50_The_Orphaned_Species/69_self_formation_and_altitude.md`.
+
+**Sensation**
+
+Raw sensory data: heat, pressure, light, sound. There is no owner in it. You do not fuse with heat. Heat is already there.
+
+**Emotion**
+
+The machine's **response to a charge**, via conditioning. Fear, anger, sweetness as a reaction. Not the charge itself. Do not write "emotional charge."
+
+**Identification**
+
+The second-step story that there is an I, and that this is happening to it. Superficial: added, not found. Not a merger with sensation.
+
+**Locus altitude**
+
+How identified the pointer is: sensation-only → story-I → sati relation → Player. Orthogonal to *what* is observed. Physical / mental / emotional / energetic / spiritual are not rungs on this climb (`69`).
 
 **Psi / Life-Energy Allocation**
 
@@ -49,7 +65,7 @@ A model for understanding the psyche as a collection of sub-personalities or "pa
 
 **Planes of Existence**
 
-Different, simultaneously existing layers of reality (e.g., physical, energetic, intuitive). The brain acts as a receiver, typically tuning into only the physical plane. Consciousness development involves learning to access and navigate information from multiple planes.
+In this series, **plane** means the `34` cut: the entropic physical subset versus the fuller spirit field. Do not use *plane* for the observer inventory (sensation, thought, emotion-as-response, charge, consciousness-as-content). Those are contents, not a developmental ladder, and not locus altitude.
 
 **Graduated Soul Mentorship System**
 

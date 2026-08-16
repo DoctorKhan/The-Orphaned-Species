@@ -2,6 +2,39 @@
 
 *Working decision log for the present-day series (Books I–IV civic; Books V–X Lifetime Orchestra count locked — `SERIES_STRUCTURE.md`). This file tracks missing structural commitments, not additional lore to accumulate. Companion to `05_story_architecture.md`, `15_character_grounding_and_relatability.md`, `17_reveal_order_and_reader_impact.md`, `28_present_day_tetralogy_craft_index.md` (legacy filename), **`55_series_pitch_and_comps.md`**, and `50_The_Orphaned_Species/00_NARRATIVE_STRUCTURE.md`. Do not call the novel a trilogy in new materials.*
 
+## I–II pass before side projects — LOCKED 2026-08-16
+
+Do **not** start the Goonies kid-crew, the Wren/Rowan spicy satellite, or Book V
+prose until Books I–II have taken the 2026-08-16 pass (Wren return-rights on
+the page; named weekly opponents; narrator theology cut; query two comps;
+twelve-word vocab; residue tomorrow-test; Rasel's October clock; unthematic
+beat rule). **Pass landed 2026-08-16** in bible + I–II (and Rasel clock in III
+Ch 2/4). Freeze stays until an author lift. Those satellites remain Priority A
+on the slate. They are not this month's book. `63`; `99_active_todo.md` item 9.
+
+## Orchestra map — LOCKED 2026-08-16
+
+Binding. Supersedes the single-Bridge volume and the four-life shortlist
+(including any Sanxingdui era novel). Count stays **+6 / V–X**. Titles and
+chapter plots stay open until each book has a card.
+
+| # | Role | Era / job |
+|---|---|---|
+| **V** | Founders — infancy | After IV. Tara infant. Son born (three visitors). Care without a leash. Not flights. |
+| **VI** | Past life 1 | **Göbekli / early control** |
+| **VII** | Past life 2 | **Folly–Adapa / Eridu** |
+| **VIII** | Past life 3 | **Age of Heroes / last garrison.** Abandonment is weather. |
+| **IX** | Young generation — leave | After VI–VIII. Flights. Gnostic misreading. Gear shows. |
+| **X** | Ω | Braid / creation |
+
+**Spine:** I–IV → V → VI–VIII (any order among the three) → IX → X.
+
+**Refused:** Sanxingdui as a past-life volume (Book I owns it). A fourth life
+to protect an old count. Gluing V and IX back into one Bridge. Publishing IX
+next after V.
+
+Governing prose: `SERIES_STRUCTURE.md` § *Lifetime Orchestra*; `62`.
+
 ## Architecture synthesis lock — 2026-08-06
 
 Full-depth review (all governing docs + `Books/` survey) confirms the locked
@@ -16,15 +49,16 @@ family shape and records the *why*, so the count stops being relitigated:
   allocated; nothing requires a fifth civic book. Three would collapse the
   scales; five would sprawl. Self-terminating ("ordinary life possible — not
   another volume cliff"); civic pitch may stop at I–IV.
-- **Why V Bridge:** the only non-sermon path from civic to metaphysical — the
-  young leaving a society built so they could leave; gear shows via tech.
-- **Why exactly 4 past lives (VI–IX):** the era shortlist (Göbekli/early
-  control · Folly–Adapa · Abandonment *or* Sanxingdui · Age of Heroes/Albian)
-  maps to the control pattern's four distinct failure modes. Fewer and the
-  orchestra cannot accumulate the parts Ω must hold at once; more and each
-  life loses full-novel attention (Model B compression rejected for immersion
-  tax). Standalone test is hard: a life that can't carry a novel without
-  metaphysics is not ready.
+- **Why V Bridge (2026-08-06):** the only non-sermon path from civic to
+  metaphysical. **Reshape 2026-08-15:** that job splits. **V** = founders /
+  infancy (care without a leash; three visitors). **IX** = young generation
+  leaves; gear shows via tech. Do not glue them.
+- **Why three past lives (VI–VIII) — LOCKED 2026-08-16:** Göbekli / early
+  control · Folly–Adapa / Eridu · Age of Heroes / last garrison. The old
+  fourth slot was "Abandonment *or* Sanxingdui" — a leftover, not a job.
+  **Sanxingdui is Book I only.** Abandonment is weather inside VIII. Two
+  lives would pair; five or more starve each book. Standalone test stands:
+  a life that can't carry a novel without metaphysics is not ready.
 - **Why one Ω (X):** braid + lucid creation + Iblīs-as-engine. A second
   metaphysical capstone would sermonize.
 - **Why 4 companions:** clean Three-Term mapping (SG=T1a · MO=T2 body ·
@@ -43,9 +77,8 @@ family shape and records the *why*, so the count stops being relitigated:
    Route: dedicated `95_archive/` pass incl. "Trial of the Framework."
 3. Climax-mechanism author decisions (`41`): named death, lattice density,
    Custodian fates, re-corruption seed, seed-pattern sensory form.
-4. V–X per-life cards (want / Clock A+B / antagonist job) → era locks VI–IX →
-   reading-order decision (lean: A remembering-backward with C soft-link
-   packaging).
+4. V–X cards (want / Clock A+B / antagonist job) → finish VI–VIII era cards →
+   publication spine is I–IV → V → VI–VIII → IX → X.
 5. Companion migrations (see `99_active_todo.md` 8b–8d; Cosmic Game scaffold
    gated on item 2).
 
@@ -69,13 +102,34 @@ family shape and records the *why*, so the count stops being relitigated:
 - **Vol III drafting:** `55` § *Book III — chapter-by-chapter pitch audit* + `33_volume_III_beatsheet.md` chapter cards.
 - **Agent/back-cover copy** lives in `55` — do not drift from locked motor or win condition.
 
+## Children of the gods — LOCKED 2026-08-15
+
+Igigi names the **bird-people as a whole**, faithful included. **Watcher** is the Hebrew liturgy for that people. The canon parent-name is **children of the gods**. Hebrew *elohim* (the gods) names the Anunnaki. Hebrew, Ugaritic, and Psalm 82 say **sons of God** / *bene elohim* / *bn ʾil* / "sons of the Most High" for this next rung; keep those words when quoting. The caste is a people. `45`.
+
+```
+Tiamat
+    → Anunnaki (the gods; Enki and Enlil both sit here)
+        → children of the gods
+             Apkallu (snake, Enki's line)
+             Igigi (bird, Enlil's line; Hebrew: Watchers; Greek: Olympians)
+                  → Nephilim / Gibborim (entrenching Apkallu × human women)
+```
+
+- **Fallen Igigi** take the throne, run Phase VI, take Psalm 82. Era shorthand "Igigi Control" names the period their fallen majority held the cage.
+- **Faithful Igigi** keep the watch. Same people, two conducts. The defense in the Iblīs proceeding includes them and the Apkallu.
+- Enlil sits with the parents. His children inherit his pole and then seize what the parents still held.
+- Do not use "the next Igigi" as the name of the crime. The temptation is to **take the throne the fallen Igigi took**.
+- Governing prose: `00_MASTER_TIMELINE.md` § *The children of the gods*; `95_glossary.md`; `34` §8; `35` § *The two children*; `45`; `46`.
+
 ## Governing diagnosis
 
 The series has a strong thematic spine, ending architecture for Books I–IV, and cosmological depth. The scene-generating machinery is now locked as **wants, deadlines, opponent jobs, and cost→next links** (`55` Three pressure rules). What remains for I–IV is revision: make the governing drafts satisfy those maps chapter by chapter — not by adding mythology.
 
 **Ultimate metaphysical thesis — LOCKED 2026-07-30:** the point of it all is **learn control → learn creation**. From the Player view the world is artificial training gear meant to break; autopilot fails so you can step in; consequence is the only mirror. *Belong without owning* is intermediate curriculum. Full text: `SERIES_STRUCTURE.md` § *Ultimate metaphysical thesis*. Books V–X dramatize it; I–IV only stage symptoms.
 
-**Lifetime Orchestra — count LOCKED +6 (2026-07-31):** Books **V–X** = Bridge → 4 past-life novels → Ω. Titles/eras/cards still open. `62_lifetime_orchestra.md`; map in `SERIES_STRUCTURE.md` § *Lifetime Orchestra (V–X)*.
+**Lifetime Orchestra — count LOCKED +6 (2026-07-31); map REVISED 2026-08-15:**
+Books **V–X** = V founders/infancy → three past lives → IX young generation → Ω.
+Sanxingdui is not an era novel. `62_lifetime_orchestra.md`; `SERIES_STRUCTURE.md`.
 
 **Family total — LOCKED 2026-07-31:** **14 core books** = 10 Layer 1 novels + 4 Layer 2 companions. Satellites outside (`63`). `SERIES_STRUCTURE.md` § *Family total*.
 
@@ -100,7 +154,7 @@ Track detail: `98_craft_review_backlog.md` #7.
 - **Book II:** *The Orphaned Species: The Descent*
 |- **Book III:** *The Orphaned Species: The Compact*
 |- **Book IV:** *The Orphaned Species: The Court of Threads*
-|- **Books V–X:** Lifetime Orchestra — count locked +6; titles TBD (`SERIES_STRUCTURE.md`; `62`)
+|- **Books V–X:** Lifetime Orchestra — +6; V founders · three lives · IX leave · Ω (`SERIES_STRUCTURE.md`; `62`)
 
 ## Priority -1 — series volume allocation (LOCKED 2026-07-12; map revised 2026-07-28/29)
 
@@ -108,7 +162,7 @@ Track detail: `98_craft_review_backlog.md` #7.
 - **Book II:** *The Orphaned Species: The Descent*
 - **Book III:** *The Orphaned Species: The Compact*
 - **Book IV:** *The Orphaned Species: The Court of Threads*
-- **Books V–X:** Lifetime Orchestra — **+6 locked** (Bridge → 4 past lives → Ω) — see `SERIES_STRUCTURE.md`. Titles/eras/cards open; do not invent chapter plots until want / clocks / opponent job exist.
+- **Books V–X:** Lifetime Orchestra — **+6 locked** (V founders/infancy → three past lives → IX leave → Ω) — see `SERIES_STRUCTURE.md`. Titles/cards open; do not invent chapter plots until want / clocks / opponent job exist. Sanxingdui is not an era novel.
 
 - **Book I ends at Sanxingdui.** Pelangi Reach → Malacca → Thailand →
   northbound human doors → Sichuan. Eli recognizes the distributed Tree of Life,
@@ -216,7 +270,7 @@ Working character bible from cast review. Core names and relationships are now f
 
 ### 0. Dragon-drones, sub-drone domestication, and chromosome compatibility — RECONCILED
 
-A major taxonomy revision is the **working model for the trilogy outline**. The terminology sweep across the master timeline, glossary, and companion docs is **complete** (2026-07-10): **"Titans" retired** (folded into the Anunnaki), **"Hardware Recall" renamed Sub-Drone Domestication**, and **Anu + 26 kept distinct from the seventy sons**. The model:
+A major taxonomy revision is the **working model for the trilogy outline**. The terminology sweep across the master timeline, glossary, and companion docs is **complete** (2026-07-10): **"Titans" retired** (folded into the Anunnaki), **"Hardware Recall" renamed Sub-Drone Domestication**, and **Anu + 26 kept distinct from the seventy territorial children**. *(People-name lock 2026-08-15: those seventy are Igigi given lands; see § *Children of the gods*.)* The model:
 
 - **Term shift:** the **Anunnaki** are the powerful 23-pair drone-worker caste serving the dragons — the beings humans remember as gods. The Greek label **"Titans" is retired** (it formerly glossed the elder Anunnaki generation, then briefly named this caste in draft; no separate "Titans" term survives).
 - **Human perception:** humans can still remember these beings as **Anunnaki**, gods, sky people, or divine managers, because from a human perspective they are godlike even if cosmologically they are drones beneath the dragons.
@@ -228,7 +282,7 @@ A major taxonomy revision is the **working model for the trilogy outline**. The 
 - **Genetic bridge:** the plausible story mechanism is not instant compatibility. First-generation 24×23 crosses would be fertility-constrained, similar to balanced chromosomal-fusion carriers. Across the proposed ~117,000-year bottleneck, directed selection/backcrossing could fix a stable 23-pair line—provided shared panspermic biological grammar keeps the genomes close enough for viable offspring.
 - **Panspermic rationale:** planets function like eggs in a cosmic reproductive ecology. Similar life is seeded broadly from the onset so later arriving intelligences are not wholly alien to local biology; ley lines and planetary conditions then participate in convergent evolution. This explains why cross-world contamination, overtaking, and hybridization are possible without requiring unrelated life to interbreed magically.
 - **Original Anunnaki afterlife council:** the original Anunnaki have passed on from embodied history and now live on the **spirit plane** as a council of **Anu + 26 others**. They continue to manage or steer Earth from there, but indirectly: field influence, dreams, omens, resonance, intermediaries, and inherited institutions rather than ordinary physical government.
-- **Council distinction:** keep **Anu + 26** distinct from the already-documented **seventy sons / gods of the nations**. Working solution: Anu + 26 = elder spirit-plane council; seventy = lower territorial-administrative layer remembered in Deuteronomy/Psalm/Ugaritic material.
+- **Council distinction:** keep **Anu + 26** distinct from the already-documented **seventy territorial children / gods of the nations**. Working solution: Anu + 26 = parent spirit-plane council; seventy = Igigi given lands, remembered in Deuteronomy/Psalm/Ugaritic material.
 
 Reconciliation **complete** (2026-07-10): "Titans" and "Hardware Recall" have been swept from the master timeline, glossary, story architecture, beat sheets, and the Book 30 companion timeline/glossary. Remaining "Titans" mentions are confined to (a) retirement notes that name the retired term, and (b) genuine Greek-mythology references in the Book 30 explainer chapters (where "Titans" is a real mythic term, not this canon's label).
 
@@ -746,7 +800,7 @@ The proving community is **ordinary and distributed**, not a new order:
 
 **Working direction:** Iblīs is an unknown entity orchestrating from the other plane. It is widely believed to be evil because it exploits human weaknesses, engineers pressure, and appears to drive conflict, temptation, and psychic harm. Much later in the Books V–X **Lifetime Orchestra** arc, the deeper function may become more legible: Iblīs forces humans to evolve by pressing the species against its own weaknesses until the soul develops agency rather than remaining obedient to inherited programming. This is not an excuse or absolution—the methods cause real suffering, and the entity may be arrogant, cruel, or indifferent to individual cost.
 
-**Deeper-function question — RESOLVED (author-side), staged beyond Court volume (2026-07-28/29):** Iblīs serves evolution, consciously — not confused, not secretly domination-seeking. The function is closer to a prosecutor in a proceeding than an enemy of the process: it presses for humanity's failure precisely so that a pass, if it comes, is tested and real rather than assumed — the same logic as the civilization-scale verification search in `15` § No sides, only incentives and the reunion/choice-point material (`30_The_Human_Experiment`). The proceeding has a defense too: the faithful Watchers, guiding only from the spirit plane, never overriding. Underneath the court metaphor, the whole arrangement is an **engine of growth**, not an adjudication — no final case to close, consistent with the standing-condition ending already locked. Full staging rule (deniable evidence only in Books I–IV; no confirmation before optional post-court books — currently anticipated **Books V–VI**, tentative): `17_reveal_order_and_reader_impact.md` § Tier 3.
+**Deeper-function question — RESOLVED (author-side), staged beyond Court volume (2026-07-28/29):** Iblīs serves evolution, consciously — not confused, not secretly domination-seeking. The function is closer to a prosecutor in a proceeding than an enemy of the process: it presses for humanity's failure precisely so that a pass, if it comes, is tested and real rather than assumed — the same logic as the civilization-scale verification search in `15` § No sides, only incentives and the reunion/choice-point material (`30_The_Human_Experiment`). The proceeding has a defense too: the faithful children of the gods (Apkallu, and the Igigi who kept the watch), guiding only from the spirit plane, never overriding. Underneath the court metaphor, the whole arrangement is an **engine of growth**, not an adjudication — no final case to close, consistent with the standing-condition ending already locked. Full staging rule (deniable evidence only in Books I–IV; no confirmation before optional post-court books — currently anticipated **Books V–VI**, tentative): `17_reveal_order_and_reader_impact.md` § Tier 3.
 
 **Cosmology locked** (`45` § Islamic register; `34` §8; `95`): Iblīs = the eldest jinn, the patient **instigator** behind the deception-war — whispers, never compels; **not** an omnipotent mastermind (distributed antagonism holds; human institutions stay responsible, `/00_NARRATIVE_STRUCTURE.md` §96). Gives the currently-scattered antagonism (Lang, Custodians, fallen spirits, factions) a hidden apex whose many faces *rhyme*.
 
@@ -787,7 +841,7 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 - **Open:** Michael watched-depth — Ch 25 vs Ch 29 (`46` § G). *Interpretation:* if "Michael" as actual discarnate agent stays Books V+, the watched-depth fragment in Vol III is portion-logic Eli reads at a charged ground, not an encounter.
 |- **Locked — Pömmelte / Nephilot massacre visit (2026-08-01):** **Book II Ch 6**, same body-arrival as broken-line church. Eli sleeps on the outskirts and experiences the massacre history in a dream/body memory — a charged-ground encounter, not an archive scene. The henge set-piece is the primary present-day frame for the Nephilot sterility/reproductive-vacuum logic in `00_MASTER_TIMELINE.md`. No museum/aDNA framing on-page; the ground itself carries the absence.
 |- **Locked — named dead zone / first scour Eli walks through (2026-08-01):** **Maritime corridor wedge** — a barren wedge where a broken route once crossed the strait (`37` § *Dead zones*; fishermen detour, goats won't cross, growth map shows a blank). Eli encounters it after first learning to read live forming ground and a clean break, when an old chart entry and a local detour rhyme with his mother's *deliberate grid damage* research. The wedge is the first named dead zone on-page: not generic wasteland, but a scoured conductor whose absence is legible against the live map. Links directly to mother's thesis; no on-page explanation before the effect is felt.
-- **LOCKED — Göbekli present-day staging (2026-08-01):** Disputed military zone on the Turkish–Syrian border buffer. **Controllers:** joint Turkish military / international heritage consortium, with **Lang's Standard** embedded as civilian research overseer — the site is managed-access heritage masking reactivation of the buried instrument. **Why sneak in:** active excavation is restricted to authorized teams; the interpreter-side trench system (Apkallu snake / teahouse) is cordoned as "unstable excavation" / military storage. **Infiltration:** Eli's group enters through the open registry-side enclosures (tour-accessible T-pillars, the "bird" non-interpreter side), then descends into the sealed trench at the fox-pillar Aru carved — using the Apkallu division itself as the entry route. **Ground-read:** Eli makes contact at the fox-pillar void, where buried stone geometry redirects living conductors; the registry side hums with institutional command-frequency, the teahouse side holds the silenced interpreting practice. Aru and Daskar become present-tense here. See `18` §10, `58` § *Göbekli's new function*, `00_NARRATIVE_STRUCTURE` §6.
+- **LOCKED — Göbekli present-day staging (2026-08-01):** Disputed military zone on the Turkish–Syrian border buffer. **Controllers:** joint Turkish military / international heritage consortium, with **Lang's Standard** embedded as civilian research overseer — the site is managed-access heritage masking reactivation of the buried instrument. **Why sneak in:** active excavation is restricted to authorized teams; the interpreter-side trench system (Apkallu snake / teahouse) is cordoned as "unstable excavation" / military storage. **Infiltration:** Eli's group enters through the open registry-side enclosures (tour-accessible T-pillars, the "bird" Igigi / non-interpreter side), then descends into the sealed trench at the fox-pillar Aru carved — using the two-children split itself as the entry route. **Ground-read:** Eli makes contact at the fox-pillar void, where buried stone geometry redirects living conductors; the registry side hums with institutional command-frequency, the teahouse side holds the silenced interpreting practice. Aru and Daskar become present-tense here. See `18` §10, `58` § *Göbekli's new function*, `00_NARRATIVE_STRUCTURE` §6.
 
 **Pilgrimage pathway (full map):** `29_tetralogy_plot_and_development.md` § Pilgrimage pathway — macro route, three tiers of place, Albion sequence, **Dilmun vs present-day stops**.
 
@@ -802,7 +856,7 @@ Two more real polyamory pitfalls surfaced alongside the escape-hatch, hub-labor,
 
 ## Secondary decisions
 
-- Final volume count: **14 locked core** = **10** Layer 1 novels (I–IV civic + V–X Orchestra) + **4** Layer 2 companions. Satellites outside that number (`63`). Full table: `SERIES_STRUCTURE.md` § *Family total*. Civic pitch may stop at I–IV. Do not pitch as a trilogy.
+- Final volume count: **14 locked core** = **10** Layer 1 novels (I–IV civic + V–X Orchestra) + **4** Layer 2 companions. Orchestra map **LOCKED 2026-08-16:** V founders/infancy · VI Göbekli · VII Adapa · VIII last garrison · IX leave · Ω. No Sanxingdui era novel. Satellites outside (`63`). Civic pitch may stop at I–IV. Do not pitch as a trilogy.
 - Companion nonfiction: keep Books 1–4 as optional slim companions unless drafting proves otherwise.
 - Surnames and local names: Eli, Wren, Lang, Aedan, and Anthea are stable enough; surnames and local-character names remain open.
 |- **Maren suppression scene (Vol II, LOCKED):** not a Vol I prologue. When Eli learns **how his mother was taken**, dramatize the Charkha's courteous machinery (clipboards, wellness language, an unmarked vehicle waiting beyond the failed rendezvous) in the **SE Asia transit context** — personal, earned, ~1,000–1,500 words. The scene must preserve the absence at the center of Eli's memory: he is already at Mei's, and no keeper witnesses the interception. The evidence must also reveal that Maren once willingly helped build the signature/integration tools now locating her; the scene is persecution and consequence at once. Harvest v1 prologue tone from `archive/manuscripts/v1_archive.md`; rewrite **Bengali naming** (no inherited family surname for Eli; father **Rasel** on forms) and geography. Pair with mother-trail evidence (Vol II midpoint region: **alive, location unknown** — partial sense / captivity register only, not proof of death). **Vol I** seeds dread only: tune, Suresh, Malacca witness — no cold-open abduction. **Real-world subtext:** Maren's *deliberate grid damage* research is the series' analog of a dependency-cycle audit — studying whether the control system's weapons/infrastructure work without the supplier — fitting the four-stage framework (efficiency → dependency → weaponization → exit).

@@ -1,5 +1,35 @@
 # Volume II — *The Descent* — Beat Sheet
 
+> **Opponent this week — LOCKED 2026-08-16:** every chapter names a human with a job before Friday. Not "the Charkha." Not "the system."
+
+| Ch | Human | This week's job |
+|---|---|---|
+| 1 | Mandate exit officer on the Sichuan westbound | Clear the corridor before Wren's dead credential is noticed again |
+| 2 | **Anika Voss** | Legal hold on the outbound archive route this week |
+| 3 | Consortium seal officer at Göbekli | Close the activation record before they copy it |
+| 4 | Clinic security at the Thrace ward | Register the healer or move the patient before shift change |
+| 5 | Custodian transfer clerk on Hassan's corridor | Move Hassan on the Gulf clock; keep the clipboards clean |
+| 6 | **Sol Méndez**'s recruiter on the Extra ground | Name, brotherhood, purpose — sign the discarded men this week |
+| 7 | Pursuit lead; **Rowan** (who can refuse the form) | Get consent or a seizure before the corridor turns |
+| 8 | Anika's station team lead | Cut the one-way contact before it becomes an address |
+| 9 | **Anika** (array/lock) | One more interval from the station before release |
+| 10 | **Anika** and/or **Sol** | Keep-her / use-her-signal before she walks out |
+
+> **Unthematic beat — LOCKED 2026-08-16:** every chapter also contains one stretch a thesis annotator cannot file as Circle / orphan / cage without cheating — a meal, a stupid complaint, a repair, a nap, a joke that does not mean Two Trees. If you can write the theme in the margin, rewrite the beat. `31` § same.
+
+| Ch | Unthematic stretch on-page |
+|---|---|
+| 1 | Scallions tonight; "I hated all of you" |
+| 2 | Nadiya's screaming kitchen fan; oil is for the compressor |
+| 3 | Eli terrible at a leftover guitar |
+| 4 | Pin vs the medicine fridge; football on the waiting-room TV |
+| 5 | Pin throws Somchai's magnet; sleeps on the wheel |
+| 6 | Onions in rinse cups; child's bicycle repair |
+| 7 | Dog at the information board; wrong pump-manual revision |
+| 8 | Headache scale; tire gauge; the kiss |
+| 9 | Break-room milk notice; faded football shirt |
+| 10 | Burned toast and marmalade; WRONG REVISION. AGAIN |
+
 > **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Each core volume has a monolithic venue name in the same register as Book I's **Cherry Cube**. Book II's object is **Albion Shaft**: the industrial release point at Avebury, downward-geometry inverse of Cube's vertical spectacle, where Maren exits and the Albion ground opens.
 
 > **AUTHORITATIVE ROUTE — REVISED 2026-08-11; GAP RESOLVED 2026-08-11:** `58_sanxingdui_climax_lock.md`
@@ -51,7 +81,7 @@
 
 > **PHANTOM GOD-PERCEPTION — SEED ONLY — LOCKED 2026-08-01:** Book II does **not** discover that perceiving absent gods is domestication programming for continued service. It **seeds the felt pattern**: obedience to empty authority; registry/wellness language as a present god; Egypt’s god-king trap; kneeling or reporting when nothing answers; Sídhe/gods-underground residue as wrong-first haunt/piety. Late II may approach the robot/sub-drone gut-punch (`17` §9) but must not name the remote-collar thesis. Full discovery = Book III (`17` §9a; `40` § *Phantom god-perception*).
 >
-> **LOCATION CONTRACTION — LOCKED 2026-08-01:** Contract **travel days**, not jobs. Target ~**6–7 places the body arrives**, not ten museum pins. Every stop must change **(a)** the chase's next door **and** **(b)** a relationship cost. **Do not drop:** Mesopotamia · Göbekli · Hassan holding · Pömmelte · Avebury. **Staging rules:** (1) **Broken-line church folds into Ch 6 Pömmelte** as domestic inward-control rhyme — not a separate trip. (2) **Rollright + Men-an-Tol = one corridor set-piece** (Ch 7) — two stones, one people beat (Callum / Sídhe). (3) **Delphi / Delphic Games = cube-grounded visionary threshold (Ch 4) — Laurel Cube contact + giant face/white markings somatic imprint, then leave. (4) **Stonehenge → Avebury = one continuous climax run** (Ch 9–10) — station then inhabited ground, not two sightseeing days. Egypt remains Turning/packet. People-drama and ancient-tech discovery share air; sites that only advance relics fail. `61`.
+> **LOCATION CONTRACTION — LOCKED 2026-08-01:** Contract **travel days**, not jobs. Target ~**6–7 places the body arrives**, not ten museum pins. Every stop must change **(a)** the chase's next door **and** **(b)** a relationship cost. **Do not drop:** Mesopotamia · Göbekli · Hassan holding · Pömmelte · Avebury. **Staging rules:** (1) **Broken-line church folds into Ch 6 Pömmelte** as domestic inward-control rhyme — not a separate trip. (2) **Rollright + Men-an-Tol = one corridor set-piece** (Ch 7) — two stones, one people beat (Callum / Sídhe). (3) **Delphi / Delphic Games = present-tense stop after Ch 3 Göbekli.** Three contests earn the night; Laurel Cube contact is the prize (giant face / white markings / hands), then leave for the Thrace clinic. Not a Ch 4 flashback. (4) **Stonehenge → Avebury = one continuous climax run** (Ch 9–10) — station then inhabited ground, not two sightseeing days. Egypt remains Turning/packet. People-drama and ancient-tech discovery share air; sites that only advance relics fail. `61`.
 
 > **DEEP-TIME RESIDUE / ANCIENT FACE — LOCKED 2026-07-30:** Book II ancient face = **Sídhe / Göbekli / Adapa–Folly packet** (gods underground; contact became command; the Folly). Quota: ~one deep-time residue every 1–2 chapters (`17` § *Deep-time residue density*). Loop hatch-mark seed only — no street name. Per chapter: residue · wrong reading · human cost.
 
@@ -100,6 +130,8 @@
 
 > **Maren's field notebook — LOCKED 2026-07-21:** Book II expands Maren's journal from the first name/step index into a comparative tree of **knowing** and **kinship**. One key is wrong, a living community corrects one of Maren's readings, and recovered pages expose her voluntary work with Lang. The journal contributes to the Albion convergence but never names Maren's tether as a recoverable address. Full design: `52_maren_holts_field_notebook.md`.
 
+> **AGENCY PACING — LOCKED 2026-08-15:** one loss, one return (`68` § *Pacing*). **Take away:** keep-her / the extra hour. **Return:** Ch 10 release — he stays in the place while she walks. Assault is the spend, not a new lesson. Do not re-teach the wat or candle. Laurel Cube = hand vocabulary, not a second wat. No anatta by name.
+>
 > **Volume II dramatic question:** *Can Eli pursue truth without turning people into instruments of his search?*
 > **Internal movement:** descent. **Ending change:** the group can hold charged fear, loyalty, pain, and psychic pressure **without** collapsing into possession, worship, obedience, or betrayal — **relational Manual Override**.
 > **Reveal discipline:** same as Vol I — effects before terminology; historical names only when evidence forces distinction. **Patriarchy chord:** domestic faces only (grain pit, registry, pew-side drain) — never the thesis in dialogue. **Romance cost:** Vol II must rupture the Eli/Wren false-home pattern and test the formative Wren/Rowan bond before either commitment — § *Romance cost audit* below. **M/I/A:** § *M/I/A audit* below; track Wren/Rowan and Wren/Eli separately; hub `19` § *Female mystery, intrigue, and attraction*.
@@ -165,9 +197,9 @@
 |---|---|---|
 | Egypt Turning | God-king endurance trap; disputed Mesopotamia→throne claim | Folly archive |
 | Mesopotamia | Folly + Map omission + Maren checksum | Göbekli window |
-|| Göbekli | Contact→selection; Bridge; people over complete record | **Holding corridor** ||
-||| **Delphic Games / Laurel Cube — RESOLVED 2026-08-07 (placement locked 2026-08-11 as Ch 4 flashback inset only)** | Power on-page; mystery held for Book III. Geographically belongs in Book II — Delphi/Greece sits on the Göbekli-to-Thrace leg — dramatized as **two-days-earlier flashback inset** inside Ch 4's present-tense clinic scene, not a separate sequential arrival. Do not count it as its own stop in the location budget; do not reorder relative to Ch 5 — Ch 5 opens in the same clinic's supply room. What cannot appear yet is the *explanation* (starship fragment, three domains, no-single-owner secret). The fix: dramatize the **power**, not the cosmology (`59` § *Reveal timing*). | **Holding corridor** ||
-|| Holding | Ring; Charkha named; Maren alive/wired/no address; dead-zone sig | Pömmelte |
+| Göbekli | Contact→selection; Bridge; people over complete record | Delphi / Games |
+| Delphic Games / Laurel | Three contests earn the night; Albion warning; hands | Thrace clinic / holding |
+| Holding | Ring; Charkha named; Maren alive/wired/no address; dead-zone sig | Pömmelte |
 | Pömmelte (+ church) | Purge = surveillance network; Holt Turning; corridor break; hearth; *flow* | Living song detours |
 | Rollright/Men-an-Tol | Passage grammar; Sídhe; Callum = person not placement | Stonehenge corridor |
 | Corridor signal | One-way Maren contact; keeper abort; Cuno geometry points to live station | Stonehenge |
@@ -257,9 +289,9 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 - **Revelation:** contact became selection and managed access, but the site does not explain the full civilization engine.
 - **End hook:** the departing convoy leaves an injured prisoner carrying Hassan's transfer signature; Somchai's clinic receives them.
 
-### Ch 4 — The Healer's Terms *(Somchai POV → hard break → Eli · corridor clinic)* — note added 2026-08-10: Delphi/the Laurel Cube is a **two-days-earlier flashback inset** inside this chapter's present-tense clinic scene, not a separate sequential arrival. Don't count it as its own stop in the location budget, and don't reorder it relative to Ch 5 — Ch 5 opens in the same clinic's supply room, continuing directly from this chapter's cliffhanger (Aylin's testimony + Sol's tip on the Thrace depot).
+### Ch 4 — The Healer's Terms *(Somchai POV → hard break → Eli · corridor clinic)* — REVISED 2026-08-16: Delphi / Laurel is **no longer a flashback**. Games + cube night are present-tense at the end of Ch 3 (Göbekli-to-Thrace road). Aylin goes ahead in the site ambulance; the group arrives after the stamp works. Ch 5 still opens in this clinic's supply room.
 ||- **Delivery card — LOCKED 2026-08-01:** **Clock A:** patient IDs Thrace hold / Hassan alive. **Clock B:** clinic exposure; pilgrim pressure. **Antagonist:** security wants registered healer. **People:** Somchai bodily boundary. **Depth-scan — remapped here from retired Ch 17 (`26`):** after consenting heal, one quiet consent-gated depth-read of Eli — naturally divergent people labor to conform; others aren't doing the same labor — private truth before later twins rumor and before Maren release. **Parade drip:** optional corridor/clinic *I alone* fragment only (`54`) — no full antiphon.
-|||- **Delphic Games / Laurel Cube — RESOLVED 2026-08-07: power on-page, mystery held for Book III.** Geographically this stop belongs in Book II — Delphi/Greece sits naturally on the Göbekli-to-Thrace leg of the actual route, same reasoning that keeps Egypt as a Turning rather than a detour. What can't appear yet, per `59_younger_dryas_nucleation_lock.md` § *Reveal timing*, is the *explanation* — starship fragment, three domains, no-single-owner secret. The fix: dramatize the **power**, not the **mystery**, using the contact-moment mechanism already locked for all three cubes (litany, guardian-spirit touch, gift — `59` § *The contact moment*) as lived local culture, never named as cosmology. **The gift lands as one concrete fact of direct knowing — the Albion-ground warning — and a somatic imprint: he sees white markings on a giant face, and the same markings appear on his own hands, beginning the hand-movement vocabulary that will later be tested against Heather and Cherry.** Drafted: Eli wins the three contests (sailing, close-quarters combat, memory-cipher/pattern-lock — proof-of-capability, purely secular) and earns a keeper house's hosted incubation night; a communal chant at the margins (unnamed, folk register, not quoted from any locked litany verbatim); a guardian spirit he can half-see approaches and touches him (Eli's latent-carrier receptivity, consistent with Wisdom being "far more reliable in latent or natural carriers" — `59` § *The ambient field*); **the gift lands as one concrete fact of direct knowing — the Albion-ground warning — and a somatic imprint: he sees white markings on a giant face, and the same markings appear on his own hands, beginning the hand-movement vocabulary that will later be tested against Heather and Cherry.** He drifts through layered vision: the face, then older hands performing the same motions across generations, then down to his own hands moving fast with the same cadence. A fellow incubant beside him stares, eyes wide, and that contact breaks the trance. He comes out of it still moving; afterward he begins to speak with his hands more often, the new vocabulary already operative before he has words for it. Not a download, not an explanation. **Correction, same day:** the site's name is not embargoed — "Laurel Cube" and "Kastri" are common public knowledge, same as Cherry Cube's open branding in Book I ("surface spectacle" means the name and the spectacle are on-page). Only the mechanism stays hidden: what it actually is, how it works, that it's a starship fragment, the three-domain/no-single-owner structure. The manuscript now names it plainly ("the Laurel Cube on the ticketed pilgrim buses") while keeping the ritual and the gift felt, not explained. Guitar-grounding coda follows, unchanged from the original card.
+|||- **Delphic Games / Laurel Cube — REVISED 2026-08-16: present-tense after Ch 3.** The games are the door; the mountain night is the prize. Three secular contests (water, staves, pattern-lock) earn the keeper night. Contact: litany at the margins, touch at the head, Albion warning, giant face / white markings / older hands / fellow incubant stare. Hands keep moving after. Felt, not explained. Names (Laurel Cube, Kastri) are public. Mechanism stays hidden. `59`. On-page: `II_The_Descent.md` end of Ch 3.
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Security wants registered healer; pilgrim pressure; classification logic). What family/individual program operates? (Somchai's bodily boundary; healer-as-property hazard; Eli's hunger for Maren-as-address). What pressure exceeds the program's vocabulary? (Consent-gated depth-scan; clinic exposure; "kneel → cage → burn" folk arc). What practice emerges—or fails to emerge—in the gap? (Heal openly, then refuse assigned roles; Somchai refuses crown; Eli receives private truth without acting on it).
 - **Deep-time residue — LOCKED 2026-07-30:** body as disciplined receiver (Karahan rhyme without naming) — heal openly, then refuse the roles others assign him; “kneel → cage → burn” as half-true folk arc around Somchai. Wrong readings: healer = god, property, inexhaustible service, or miracle franchise. Cost: clinic exposure; consent before testimony.
 - **Immediate want:** Somchai keeps the injured prisoner alive without becoming faction property; Eli needs the testimony.

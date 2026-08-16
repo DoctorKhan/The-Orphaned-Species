@@ -43,6 +43,8 @@ Eli's repeatable practice is: **“This is what I sensed. This is what I know. T
 
 This is the **Tree of Knowledge in practice**. Knowledge is not the accumulation of facts, the possession of a secret, or the right to classify another person. It is the disciplined conversion of experience into a public, revisable account. The Tree of Life supplies the living signal; the Tree of Knowledge asks what the signal predicts, what else could explain it, who can check it, and what must change if the test fails. Every major volume should contain a scene in which a real perception becomes more trustworthy—or is abandoned—because someone tests it.
 
+**Knowledge-binary pitfall — LOCKED 2026-08-15:** Autopilot counterfeits this tree by treating **guidance as the goal**. Positive and negative charges are a needle relating to a felt availability — the point where a conscious being can still engage (`68` § *What is being kept*). The unripe stamp says feeling bad is bad and feeling good is good, and then the machine optimizes for valence. What was worth optimizing was agency. Do not treat the Tree of Knowledge as the villain; do not treat the charges as the subject. On-page in Books I–II the lost place is felt, not named. Full civic name waits for the Trees to become speakable (`22` terminology discipline).
+
 ## Governing rule
 
 **Discovery is continuous. Reunification is the result.**
@@ -242,9 +244,31 @@ If a volume only adds Life-mystery without entropic-plane tools, it rebuilds **L
 
 ---
 
+## Wonder and earth-tech floor — LOCKED 2026-08-16
+
+Civic books change flavor. They do not get thinner.
+
+Each of I–IV owes four things:
+
+1. **Earth technology** a character can put a hand on — ley, watershed, crop, stone route, charged ground, weather the living world does.
+2. **Life technology** felt in a body — heal, field, growth, contact, birth-field, a read that costs the reader.
+3. **Wonder before use.** First sight of the place or event carries awe. Civic, military, or court use comes after.
+4. **Climax shares air with a living-world event.** A hearing, vote, or transfer that happens only in paper fails the volume.
+
+| Book | Earth-tech | Life-tech | Epic spends on |
+|---|---|---|---|
+| **I** | forming line, crops, bronze tree as model | breach, afterimage, mask | Stack/Circuit; tree and father |
+| **II** | Göbekli, stone circles, dead zones | tether, release, dreams | landmark assault around release |
+| **III** | Living Root growing in view; Hawaiʻi and talking stones; a conductor damaged by war | Heather journey; force-sync field; healer depth | war window, then a hall on live ground |
+| **IV** | grown corridor at work; eruption and watershed; Heather Cube ground that still behaves | Cherry journey; keeper-read of a hidden reserve; birth-field | labor, vote, and fracture in the same hours |
+
+III may not process its wonders only as research notes. IV may not process its earth only as land-use numbers. The child in IV takes no title and no omen. The world in the room may still attend.
+
+This is the balance: four columns stay full. The epic column is allowed to change jobs. `17` § *Ancient face* / *Climax staging*; `33`; `60`; `55` §6.
+
 ## Volume-by-volume discovery obligations
 
-Each volume must advance **both** rails and move the Trees from **split → touching → joined**.
+Each volume must advance **both** rails and move the Trees from **split → touching → joined**. The floor above is the delivery test. The lists below are the content.
 
 ### Volume I — *The Breach* (split feels normal)
 
@@ -292,34 +316,45 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 
 **Life beats (minimum):**
 
+- Living Root *grows in view* — a street that was mud last month, shade that was not there, water held where a drain used to fail;
+- talking stones and Hawaiʻi charged ground warm, answer, or refuse before anyone files them as research;
+- war damages a conductor: a field goes quiet, a crop line fails, a stone route loses its hum;
+- Heather journey and the handover hall's Courage field, felt in the body (`33`);
 - the post-release living network produces real refuge, contact, error, harm, repair, and the right to say no;
 - embodied accounts expose what registries, mobilization tables, and technical categories erase;
-- Sanxingdui breaks the word-tree into the wider living web without false linguistic descent;
-- anomalous presence becomes ordinary reciprocal life rather than spectacle, worship, or exemption from accountability.
+- wonder stays visible while it becomes accountable. Ordinary life does not erase the event.
 
 **Knowledge beats (minimum):**
 
 - records, models, AI, independent replication, hearings, and appeals test psionic conviction;
 - the Double-Fork / dragon / panspermia reframe arrives as a consequence of converging evidence, not lecture;
-- technology is repurposed from classification toward translation, medicine, consent, distributed protection, and the jointly verified field-sail proof;
+- technology is repurposed from classification toward translation, medicine, consent, distributed protection, and the jointly verified field-sail proof — a test mass or orbital tick that *moves in a witnessed room* before the paper exists;
 - Eli accepts bounded authority, refuses forced synchronization, relinquishes the crown when its condition ends, and submits to review;
 - conduct-based safeguards replace compulsory identity registry.
 
 **Reader end state:** *We do not need the extractive machine; we do need one another, evidence, limits, practice, and institutions capable of correction — Life and Knowledge checking each other through accountable people.*
 
-### Volume IV continuation — Costa Rica's grown corridor
+### Volume IV — *The Court of Threads* (the Trees run under shortage)
 
-Book IV prevents the Two Trees from remaining a completed Book III idea. The
-Costa Rican route makes them ordinary infrastructure. Living trees cool,
-infiltrate, stabilize, feed, shelter, and connect; growers, hydrologists,
-ecologists, councils, and public measurements determine what those effects can
-actually support. Psionic sensitivity may generate an early warning, never a
-land-use command. The split-Tree failures are equally concrete: Continuity
-turns canopy into a sensor and allocation surface; markets turn different
-living stands into exchangeable credits; spiritual rhetoric treats rootedness
-as consent to political merger. The joined form is a locally governed decision
-that can cut, plant, admit, refuse, measure, and revise without declaring either
-forest or model sacred.
+**Life beats (minimum):**
+
+- the Costa Rican grown corridor *does work on-page*: cools a road, holds a slope, feeds a kitchen, warns a dry-season number, refuses an admission the court wanted;
+- Lean Year eruption: one stretch of ash, light, and watersheds answering *before* the forecast fight (`60`);
+- Heather Cube ground still behaves — a spring, a planting that will not die, or Courage-field vertigo the pilgrims came for (`60`);
+- Cherry journey as song vocabulary, already locked (`68`);
+- a keeper or carrier's direct read of a hidden reserve, felt before it is audited (`60` § *Two Trees / dual-verification*);
+- birth-field: cuttings, charged ground, or corridor plants in the room respond; the child takes no mark.
+
+**Knowledge beats (minimum):**
+
+- dual-verification at compact scale: a gamed forecast caught by a living read; a messiah claim caught by an audited record;
+- Rasel's inherited apparatus meets the tree it never had a seat for;
+- the child is born without title, office, prophecy, or inherited claim;
+- growers, hydrologists, and councils determine what a living stand can actually support. A psionic warning may arrive early. It never becomes a land-use command.
+
+**Reader end state:** *The Trees run as ordinary infrastructure under shortage, and the living world is still larger than the court.*
+
+Book IV prevents the Two Trees from remaining a completed Book III idea. The Costa Rican route makes them ordinary infrastructure. Continuity turns canopy into a sensor and allocation surface; markets turn living stands into exchangeable credits; spiritual rhetoric treats rootedness as consent to political merger. The joined form is a locally governed decision that can cut, plant, admit, refuse, measure, and revise.
 
 ---
 

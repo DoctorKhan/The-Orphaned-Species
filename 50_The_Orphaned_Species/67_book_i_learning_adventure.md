@@ -5,7 +5,7 @@
 > `58_sanxingdui_climax_lock.md`. This file names the lived subject those
 > documents serve. Companion sources (author-side, never syllabus on-page):
 > `Books/Manual_Override` § foundational practices / energetics of agency;
-> `Books/The_Social_Game` § three doors / whirlpool first aid; `15` § *Eli's
+> `Books/The_Social_Game` whirlpool first aid (folded into the middle, `68`); `15` § *Eli's
 > meditation seed*; `DECISIONS_Thailand_Arc.md`; `33_the_curriculum.md` §
 > *Bridge & discipline*.
 
@@ -48,16 +48,19 @@ finish and unbind. The candle afterimage is the teaching toy: stare, close the
 eyes, hold the inverse until it fades faster. Then do the same with heat in
 the chest, a rope-burned palm, the pull to complete a father's ask.
 
-From the Social Game three doors:
+The Social Game's old "three doors" fold into the middle (`68`). They are
+minute-moves, not a second map.
 
-| Door | When | Street move |
+| When | Street move | Which face |
 |---|---|---|
-| **1 — Stay with the body** | Sensation is loudest | Locate the heat, pressure, hollow. Breathe toward it. Do not add the story. Wait until the body stops treating it as attack. |
-| **2 — Hear the thought as a part** | The loop is a sentence | *A part of me is saying I am Rasel's loose end.* Do not argue. Do not obey. |
-| **3 — Occupy the senses** | Too hot to stay | Tiller, tea, feet on plank, a counted splice. Starve the whirlpool of attention. |
+| Sensation is loudest | Locate heat, pressure, hollow. Breathe toward it. Wait until the body stops treating it as attack. | **Signal** — stay |
+| The loop is a sentence | *A part of me is saying I am Rasel's loose end.* Do not argue. Do not obey. | **Identification** — one catch |
+| Too hot to stay | Tiller, tea, feet on plank, a counted splice. | **Interrupt** — first aid until the middle can be held again |
 
-Door 1 is Book I's home door. Door 3 is first aid (Malacca, Circuit night, the
-mask). Door 2 stays light: one or two catches, no therapy speech.
+Book I's home move is stay. Interrupt is Malacca, Circuit night, the mask.
+The sentence-catch stays light: one or two times, no therapy speech.
+Do not say *three doors* or *middle way* on-page. The teacher says *stay
+with it* and *let it finish*.
 
 **Manual Override, Book I size:** feel the charge; do not complete the act.
 The inverse forming *is* why the act becomes optional. He does not need the
@@ -76,10 +79,11 @@ adds the completing move and the peace payoff.
 | **Stay with it** | Sail, queue, wat, heat of training | He stops flinching mid-sensation. Recovery starts sooner. |
 | **Locate, don't narrate** | After Mei's dinner; after the ring | He can point to the sternum or the palm before he builds a theory. |
 | **Inverse / afterimage** | Wat schedule; then applied | Candle drill. Later: the fear-shape thins while he is still afraid. |
+| **Post and heat** | Wat, after the candle | Look at a post (no story). Look at the sternum (story). Back and forth until the sternum is just another object in the room. No *anatta*. `69` § *The chair and the wound*. |
 | **Return when the mind runs** | Already locked | One counted exhale, sole of the foot, hands on a line. |
 | **Three-stream catch** | Wat + passage | Thinking / feeling / body. He labels *thinking* once or twice, then comes back. |
 | **Micro-reset** | Transitions | Three breaths. Feet. *What is actually required now?* |
-| **Door 3 interrupt** | When Door 1 fails | Work, walk, cold water, a joke. Not spiritual. Useful. |
+| **Interrupt** | When stay cannot be held | Work, walk, cold water, a joke. First aid. Return to stay when you can. |
 | **Peace as residue** | Sleep, appetite, a no-clock hour with Wren | Less startle. Longer work. He can enjoy a watch with nothing to watch. |
 
 Secondary psi effect, already locked: the same habits keep him from fusing
@@ -133,17 +137,17 @@ Each set piece is a drill with a body cost. No classroom chapter.
 |---|---|---|
 | **Pelangi sail** | High-amplitude stay: failing sheet, child in the water | He holds the line through the heat. Suresh awards the job for that. |
 | **Mei's dinner** | Stay with the hollow of the drop-off | Locate. Do not complete the abandoned-child story as identity. |
-| **Singapore lanes** | Stay with being filed | Door 3 if needed: Wren's elbow, the wage ticket, the next mark on the floor. |
+| **Singapore lanes** | Stay with being filed | Interrupt if needed: Wren's elbow, the wage ticket, the next mark on the floor. |
 | **Circuit / chase** | Interrupt, then return | Speed first. One breath when the body can take it. |
 | **Malacca** | Involuntary threshold. Fragment only | One counted exhale, sole of the foot. Insufficient. Keeps him from total fusion. |
 | **Passage (no-clock)** | Reward | The first peace the reader wants more of. |
 | **Thailand wat** | Formal toy: candle afterimage; stay with heat | Teacher recognizes the parents' ordinary habits. Offers a fragment, not mastery. |
 | **Kru Dao / lom** | Adaptive middle under contact | Neither flinch nor crash. Stance as exit-route. Same candle-law, louder. He leaves a room alive. He does not become a champion. |
 | **Cooperative / evacuation** | Stack under other people's fear | He can stay. He still hesitates over the agricultural evidence. Both true. |
-| **Sanxingdui** | The hard charge: being wanted as a tool by the man he came to save | He *knows* the move. He puts the mask on anyway. The inverse does not finish in time. That is the volume's honest fail. |
+| **Sanxingdui** | He leaves the place he could choose from | The sweet needle (father, useful) is treated as the destination. He puts the mask on. Same lost place as the quay; different guidance. |
 
 The climax does not prove the practice false. It proves love and usefulness
-are the charges Door 1 has not yet metabolized. Book II inherits that unpaid
+are the charges stay-with has not yet metabolized. Book II inherits that unpaid
 drill.
 
 ---
@@ -170,10 +174,10 @@ refused father). **Civilization** is not this volume's exam.
 
 ## What stays off the page
 
-- Companion vocabulary: Player, NPC, complement, whirlpool, anatta, Door 1,
-  Manual Override, sensory adaptation, inverse image — unless a wat teacher
-  uses a local, ordinary phrase (*stay with it*, *let it finish*, *the other
-  color after the flame*).
+- Companion vocabulary: Player, NPC, complement, whirlpool, anatta, three
+  doors, Manual Override, sensory adaptation, inverse image — unless a wat
+  teacher uses a local, ordinary phrase (*stay with it*, *let it finish*,
+  *the other color after the flame*).
 - A syllabus. If a paragraph does not change a choice, a cost, or a
   relationship in the scene, it belongs in the companion (`33` §5).
 - Manifestation, forced quiet-mind, observer-as-identity.
@@ -192,8 +196,8 @@ Street speech the teacher and Eli may use:
 
 ## Dramatic questions — LOCKED 2026-08-15
 
-**Lived (this file):** Can he stay in the adaptive middle — neither avoid nor
-immerse — long enough for the inverse to form?
+**Lived (this file):** Can he keep the place from which he can still engage —
+long enough to find it again when the needle slams?
 
 **Surface (`31`, still live):** Can he stay clear-headed enough under pursuit
 to decide whom to trust?

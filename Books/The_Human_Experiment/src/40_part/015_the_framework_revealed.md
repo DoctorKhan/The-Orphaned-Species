@@ -93,14 +93,15 @@ Now that we've established the framework, we can explore how these beings were r
 
 **The Gardeners** were known by many names across cultures:
 - **Anunnaki** in Sumerian tradition - the senior, primordial gods who initiated creation
+- **Elohim** in Hebrew tradition - the gods, the parent assembly
 - **Titans** in Greek mythology - the elder gods who ruled before Zeus
 - **Apkallu** in Mesopotamian tradition - the seven sages who brought wisdom from the sea
-- **Watchers** in Enochian literature - the benevolent observers who taught humanity
+- **Watchers** in Enochian literature - the observers who taught humanity
 
 **The Managers** were also remembered across cultures:
 - **Igigi** in Sumerian texts - the younger gods who toiled, rebelled, and seized power
 - **Olympians** in Greek mythology - the younger gods who overthrew the Titans
-- **Elohim** in Hebrew tradition - the divine council who created and judged
+- ***bene elohim*** / sons of God in Hebrew texts about the nations and the judged council
 
 These mythological names help us understand how different cultures preserved memories of the same fundamental distinction between two approaches to human development.
 

@@ -14,7 +14,7 @@
 
 4. **The number was never full in any one source.** Don't try to force exactly seventy. The point is the *method* and the strongest defensible names.
 
-5. **Do not conflate the councils.** A live cosmology revision adds a higher elder council of **Anu + 26** original Anunnaki on the spirit plane. That is a metaphysical governance register, not this roster. This file reconstructs the **seventy sons / gods of the nations** — the territorial-administrative layer remembered in Ugaritic, biblical, and neighboring pantheon evidence.
+5. **Do not conflate the councils.** A live cosmology revision adds a higher elder council of **Anu + 26** original Anunnaki on the spirit plane. That is a metaphysical governance register, not this roster. Hebrew *elohim* (the gods) names the parent Anunnaki (`45`). This file reconstructs the **seventy territorial children / gods of the nations** — the **Igigi** allotment remembered in Ugaritic, biblical, and neighboring pantheon evidence. Texts say *sons of God* / *bene elohim*; the people includes whoever holds the office.
 
 ---
 
@@ -24,7 +24,7 @@
 
 | Deity | Role | Toponymic / onomastic fossil | Key attestation | Book reading |
 |---|---|---|---|---|
-| **El / Ilu** ◆ | apex creator-**father** | **Isra-El**, **Beth-El** ("house of El"), **Penuel** ("face of El") | Ugarit (head of pantheon); Genesis | **= Anu**, apex of the elder Anunnaki |
+| **El / Ilu** ◆ | apex creator-**father** | **Isra-El**, **Beth-El** ("house of El"), **Penuel** ("face of El") | Ugarit (head of pantheon); Genesis | **= Anu**, apex of the Anunnaki |
 | **Elyon** ◆ | "Most High" (title of El, or near-distinct) | **(Jeru)salem** as El Elyon's seat (Gen 14, Melchizedek) | Deut 32:8; Gen 14 | **= Anu**, the receding father |
 | **Athirat / Asherah** ◆ | mother-**consort**, "mother of the 70" | Asherah-poles; theophoric names | "Yahweh and his Asherah" (Kuntillet ʿAjrud; Khirbet el-Qom) | **= Ki / Antu**; the casualty of the collapse to one father |
 | **Yamm** ◆ | the **chaos-sea**, slain | — | Ugarit (Baal vs. Yamm) | **= Tiamat / *tehom*** (the deep of Gen 1:2) |
@@ -34,7 +34,7 @@
 
 ## B. The clearest portions — named national gods
 
-*The strongest evidence in the whole roster: the OT itself names these as the gods of specific nations — i.e. the divine sons who received those nations as their allotment under the Deut 32 carve-up. This is the **Igigi administrative tier** made explicit.*
+*The strongest evidence in the whole roster: the OT itself names these as the gods of specific nations — i.e. the children of the gods who received those nations as their allotment under the Deut 32 carve-up. This is the **Igigi** as a people given lands, made explicit.*
 
 | Deity | Domain | Nation / portion | Fossil | Key attestation | Conf. |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@ Same history, three liturgies. The book treats **(3) as derivative memory of (1)
 ### What is ON HOLD (decide before prose)
 
 1. **Cross-plane agency** — Can Michael/Gabriel/seraphim **do things** on the Unseen that change outcomes here (block a message like Daniel 10, flare a ground, warn, mislead, heal at a distance)?
-2. **Relation to existing tenants** (`34` §8) — Same lane as **guardian caste / daimones**? Subset of **Igigi discarnate**? Distinct from **jinn**? Overlap with **Anu + 26** influence?
+2. **Relation to existing tenants** (`34` §8) — Same lane as **children of the gods** (Apkallu / Igigi)? Subset of **fallen Igigi discarnate**? Distinct from **jinn**? Overlap with **Anu + 26** influence?
 3. **Seraphim specifically** — Real **order** with fire/threshold role, or only Isaiah misread, or **both** (real actors remembered as six-wing icons)?
 4. **Nine choirs taxonomy** — Use medieval ladder at all, or only biblical fragments (seraph, cherub, malʾakh, sar)?
 5. **On-page appearance** — Discarnate contact only (dream, rattle, entrainment)? Brief manifestation at charged ground? Never winged bodies in Act I?

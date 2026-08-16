@@ -1,9 +1,10 @@
 # Eli's Learning by Volume and Circle
 
-> **Status: STAGED 2026-08-15.** Provisional curriculum map. Preserve until
-> approved or revised. Does not invent chapter plots. Companions supply
-> mechanism; novels supply proof. Lived Book I delivery: `67`. Arcs: `27`.
-> Circles: `40` § *three circles*. Climax refusals: `58`, `32`, `33`, `60`.
+> **Status: GOVERNING LOCK 2026-08-15.** What is being kept (agency-place);
+> charges as guidance; how the same law scales by volume and circle. Does not
+> invent chapter plots. Companions supply mechanism; novels supply proof.
+> Lived Book I delivery: `67`. Arcs: `27`. Circles: `40` § *three circles*.
+> Climax refusals: `58`, `32`, `33`, `60`.
 
 ---
 
@@ -15,20 +16,82 @@ so loud that it cannot be heard (`33` §3). Manual Override is the same law
 in a body: stay with the charge until the inverse forms, then choose. The
 act is not cancelled. The *command* is.
 
-**Book I's lesson is the adaptive middle.** He does not avoid the sensation
-and he does not fully immerse in it. Avoidance is Door 3 used as a life:
-work, speed, usefulness, looking away. Immersion is identification: I *am*
-the fear, the orphan, Rasel's son, the surge. The middle is the point where
-the nervous system can still **adapt** — stay long enough for the inverse to
-form, remain able to move. Manual Override already names this as relation
-without obeying or becoming (`15` §4) and as conscious integration between
-suppression and being driven.
+**Book I's lesson is a felt place he can engage from.** Manual Override's
+**neutral gear**: present, available, the next movement still open. That
+condition is agency. Avoidance (work, speed, looking away) and immersion
+(I *am* the fear, the orphan, the surge) are two ways of leaving it.
+Stay-with / inverse is how the nervous system finds it again. The charges
+are guidance that he has left. They are not the subject.
+
+---
+
+## What is being kept — LOCKED 2026-08-15
+
+The lesson is **not** the charges.
+
+What is being optimized is a **felt availability**: the point at which he can
+engage as a conscious being. Manual Override calls this **neutral gear** —
+present, clutch in, next movement still open (`Books/Manual_Override`
+energetics). The Player can step in. That condition is **agency**. Stay-with,
+inverse, Kru Dao's pocket, the no-clock hour: all of them are ways back to
+that place. They are not a study of pain and pleasure.
+
+**Positive and negative charges are guidance** relating to that place. Push
+and pull tell him he is leaving it — into survival-fight, or into
+pleasure/excitement — the way a needle tells you you have left the band.
+They are not the good and the bad. They are not the thing to maximize or
+abolish. Autopilot's Tree-of-Knowledge pitfall is treating the needle as the
+destination: feeling bad is bad, feeling good is good. Then the machine
+optimizes for valence and loses the only thing that was worth optimizing,
+which is the ability to engage.
+
+Healthy Knowledge (`22`) tests. It does not stamp. The unripe use of the
+tree is mistaking the instrument for the measured thing.
+
+A third charge — **neutral**, the program already running — is also guidance:
+it says the clutch never went in. Facilities calm can be this. Book I may
+seed it. Do not let "neutral charge" collapse into "neutral gear." One is
+unconscious continuation. The other is the availability we are keeping.
+
+**On-page:** no *charge*, no *Tree of Knowledge*, no *neutral gear*. Street:
+he can still choose from here. The sour and the sweet are just the dashboard.
+The teacher may say the good feeling is not the place either.
+
+**How Book I spends the leaving**
+
+| Guidance | What it is saying | Where he leaves the place |
+|---|---|---|
+| **Negative** | Survival-fight is running | Quay, drowning, the file, flinch |
+| **Positive** | Pleasure/excitement is running | Usefulness, Circuit, father's approval, the mask |
+| **Neutral charge** | Nothing was ever chosen | Worker lane, the next splice, *I am fine* |
+
+Malacca: the needle slams to survival. He is not there to choose. Sanxingdui:
+the needle slams to the sweet file. He is not there to choose. Both scenes
+are about **losing the place**. The charges only mark how he left.
+
+Later volumes leave the same place at larger scale — a mother, a people, an
+heir — still not because the charges became the subject.
 
 **Do not spend Book IV's phrase in Book I.** *Perhaps there is a middle way*
 is locked to the civic corner: neither pacifism nor finishing them (`60`).
 On-page in Volume I the teacher says *stay with it* and *let it finish*.
-Author-side: **adaptive middle**. The later *middle way* is the same law
-aimed at violence and succession.
+Author-side: **adaptive middle** — one law, three fields. The Social Game
+"three doors" are folded here. They are not a second civic map.
+
+| Field | What you refuse | What you find | Old door (retired as a named list) |
+|---|---|---|---|
+| **Signal** (I) | Flee the charge, or drown in it | Stay until the inverse forms (`67`) | Stay with the body |
+| **Identification** (I seed; named V–X) | Hide in an unowned object, or fuse with the I-story | Chair, then wound, until the same look holds (`69`) | Hear the thought as a part (one catch) |
+| **Conduct** (IV) | Pacifism, or finishing them | Defend without becoming the spender | — |
+
+**Interrupt** (old door 3): tiller, tea, feet, work — when the middle cannot
+be held yet. First aid. Not a fourth face. Return to stay when you can.
+
+The later *middle way* is the same law aimed at violence and succession.
+Do not say *anatta* or *three doors* in I–IV. The wat may point at a post
+and then at the sternum. That is enough.
+
+Locus altitude stays its own author / V–X cut (`69`). Do not fold it in.
 
 **Acceptance in Book I is of the interior signal** — fear, scar, want, the
 hollow after Mei's dinner. It is not acceptance of the Mandate, the file, or
@@ -41,31 +104,94 @@ it is also wrong.
 
 ---
 
+## Pacing — one loss, one return — LOCKED 2026-08-15
+
+Each civic volume may **take the agency-place away once** on its hardest
+field, and **give it back once** — or fail to. Extra losses are plot (Hassan,
+a grower, a corridor). Extra recoveries that *re-teach* the same move are
+lectures. Charges stay on the dashboard. They do not get a volume. Emotion
+does not get a volume. Locus altitude (`69`) does not get a civic volume.
+
+Cube-grounded journeys (Laurel / Heather / Cherry) train **somatic
+vocabulary** — hands, gaze, song. They are not second spiritual exams and
+not a meditation arc. The volume exam stays the table below.
+
+| Volume | Take the place away | Return (or fail) | Do not also |
+|---|---|---|---|
+| **I** | **Malacca** — survival needle. Body cannot choose. | **Thailand** (wat + Kru Dao = *one* return). **Sanxingdui** fails the return on the sweet needle (mask). Leaving is late and incomplete. | A second assault to motivate training. A seminar in every chapter. Göbekli as the completed override (that is Book II ground). |
+| **II** | **Keep-her / the extra hour** — family sweet needle. | **Ch 10 release** — he stays in the place while she walks. Relational hold under assault is the *spend*, not a new lesson. | Re-teach the candle or wat. Name anatta. Make Laurel Cube a second wat. |
+| **III** | **Force-sync** — civic sweet needle ("I can save them"). | **Refuse + the hall continues.** Named dead are the cost of staying. | A meditation arc in the war. Heather journey as a second exam. Deliver ego→Player liturgy. |
+| **IV** | **Heir-fear / stay indispensable** — push and pull at once. | **Middle way + relinquishment during birth.** *Perhaps there is a middle way* once, after conduct. | A bigger Book III. Cherry journey as a new religion. |
+| **V** | Some of the young dissolve and do not return. | One dissolver and a return in a life (`69`). | A syllabus of anatta / sati / Advaita / tantra. |
+| **VI–VIII** | Rhyme the costume going on, in that life's want. | Remembering, not teaching. | Restart the I–IV, V, or IX lesson list. |
+| **X** | The pointer becomes operable. | Player engages through a clarified robot. | A lecture that abolishes persons. |
+
+**Chapter test.** If a scene does not take the place, return it, or spend a
+skill already earned, it must still move clock, bond, or cost. It must not
+exist to explain the last lesson again.
+
+---
+
 ## One law, four depths
 
-Stay with what is present until the inverse forms. Then act.
+Keep the place from which a conscious being can engage. Charges are guidance
+that you have left it. Stay-with / inverse is one way back.
 
-| Volume | Foreground circle | What that law becomes | What it is not |
+| Volume | Foreground circle | The place means | How he leaves it |
 |---|---|---|---|
-| **I** | **Body** | Adaptive middle: neither avoid nor immerse. Stay until the inverse forms. Then choose. | Passivity. Numbness. Fusion with the surge. Book IV's civic slogan. |
-| **II** | **Family** | Stay with *another person's* life until love stops meaning keep. Then release. | Coldness. Insight as jurisdiction. |
-| **III** | **Civilization** | Stay with a closing window until rescue stops meaning force-sync. Then bound the crown and take it off. | Pacifism. Heroism as the real story. |
-| **IV** | **All three, in rhythm** | Stay with birth, scarcity, and succession until the middle way is a conduct, not a slogan. | A new permanent role. A child as answer. |
+| **I** | **Body** | I can still choose this breath, this opening | Survival-fight (quay) or the sweet file (mask) |
+| **II** | **Family** | I can still choose *with* this person | Abandonment-panic or keep/fusion |
+| **III** | **Civilization** | A *we* can still choose without completing people | National-survival panic or hero/sync-feeling |
+| **IV** | **All three** | Institutions can engage without becoming the cycle | Heir-fear and the urge to stay indispensable |
 
-V–X shift the same law onto past-life braid and creation. Do not draft those
-lessons as civic sermons.
+V–X shift the same place onto past-life braid and creation. Do not draft those
+as civic sermons.
+
+---
+
+## Three circles — same place, different field — LOCKED 2026-08-15
+
+Yes, it scales. The invariant is the **availability**. What changes is *what
+he is available to*. `40` already foregrounds one circle per civic volume.
+The other two always run as seed or residue.
+
+| Circle | The place | Guidance that he has left | Proof he is still there |
+|---|---|---|---|
+| **Body** | Can engage this sensation, this strike, this scar | Flinch / freeze, or pleasure-absorption (Circuit, usefulness-high) | Shorter dwell; leaves a room; sleeps; the candle fades faster |
+| **Family** | Can engage this person as other | Push: they will leave me. Pull: I am their meaning / they are mine | Stays in the room without managing; releases Maren; Wren's no stands |
+| **Civilization** | Can engage a people without the system running the Player | Push: annihilate or be annihilated. Pull: sync, crown, "I can save them" | Hall continues after he signs; force stays bounded; child gets no title |
+
+**Why the scale is honest.** A family is not a bigger body. A polity is not a
+bigger family. Each circle has its own field of engagement and its own way
+the needle lies. What rhymes is the loss of the place: someone or something
+else is choosing.
+
+- Body lost: the machine chooses (surge, drowning, the mask-as-useful).
+- Family lost: the bond chooses (keep-her, destiny-pair, jurisdiction-as-love).
+- Civilization lost: the engine chooses (registry, force-sync, heir).
+
+Do not flatten Family into "feelings about people" or Civilization into
+"feelings about nations." The test is always: **can a conscious being still
+step in, here?**
+
+**Neutral charge at each scale** (clutch never went in): worker autopilot;
+kinship as habit and ledger; institution as continuation. Different from
+neutral *gear*, which is the kept place.
+
+**Book IV's middle way** is this law when the field is violence and
+succession. It is not a new idea. It is the civic name, earned late, spoken
+once under fire.
 
 ---
 
 ## Book I — Body: I am not the heat
 
-**What he learns.** The useful place is between flinch and fusion. A feeling
-can be stayed with until the nervous system writes its inverse. The original
-command finishes. Action becomes optional. He is the one who stays, not the
-surge, not the file, not Rasel's son. Avoidance looks like competence
-(facilities calm, the next job). Immersion looks like destiny (the intense
-feeling must mean). Adaptation looks like a shorter dwell and a choice that
-is still his.
+**What he learns.** There is a felt place from which he can still engage.
+That is what practice keeps. The sour and the sweet are guidance that he is
+leaving it — into survival-fight or into pleasure. They are not the lesson.
+Stay-with and inverse are how he finds the place again. Avoidance looks like
+competence. Immersion looks like destiny. The quay and the mask are the same
+loss, marked by opposite needles.
 
 **Thailand's self-acceptance** (`27`) is the same move turned toward the
 whole self: scar, want, shame, competence. He stops using usefulness as
@@ -75,9 +201,9 @@ armor because the interior is no longer an enemy to outrun.
 
 **Body (this volume's exam).**
 - Locate heat, hollow, rope-burn, drowning panic.
-- Door 1: stay until dwell shortens.
+- Stay until dwell shortens.
 - Candle / afterimage: generate or wait for the other color (`67`).
-- Door 3 when it is too hot: tiller, tea, feet, work.
+- Interrupt when it is too hot: tiller, tea, feet, work.
 - **Kru Dao (Ch 7+):** the same middle under a strike. Flinch is avoid. Rage-crash is immerse. The opening is the inverse. He gets out of a room. He does not win a name. Pre-Ch 5 fights stay untrained overwhelm (`15`).
 - Sleep returns. Startle leaves sooner. He can eat and joke.
 - Fever scar stays. Practice maps it.
@@ -97,7 +223,8 @@ armor because the interior is no longer an enemy to outrun.
 ### Companion pieces that belong here
 
 Manual Override: sensory adaptation; complement / afterimage; feel charge,
-do not complete the act. Social Game: Door 1, Door 3, whirlpool first aid.
+do not complete the act. Social Game whirlpool first aid is the same middle
+(stay / catch / interrupt). Do not teach it as a separate door-list.
 Curriculum: breath / Aru floor only. No plant medicine. No Player vocabulary.
 
 ### Undeniable on the page
@@ -122,7 +249,8 @@ If a character explains habituation, it has lectured.
 **What he learns.** Understanding, rescuing, remembering, or belonging to
 someone does not grant possession of their body, story, route, or future
 (`27`). Stay-with turns outward: he can remain in the room with another
-person's charge without managing it, fleeing it, or making it his job.
+person — their charge, their emotion as response — without managing them,
+fleeing them, or making them his job.
 
 ### By circle
 
@@ -138,8 +266,8 @@ person's charge without managing it, fleeing it, or making it his job.
 - Wren/Rowan: the body remembers whom it trusted; the person still chooses.
 - He sits with jealousy of unrepeatable history. Wren does not apologize
   for having lived.
-- Door 2 earns a real use: *a part of me wants to keep her* is heard and
-  not obeyed.
+- Identification catch earns a real use: *a part of me wants to keep her*
+  is heard and not obeyed.
 
 **Civilization (seed).**
 - Insight does not grant jurisdiction. Past carriers disagree. He stops
@@ -149,7 +277,7 @@ person's charge without managing it, fleeing it, or making it his job.
 ### Companion pieces that belong here
 
 Manual Override: anatta as *space around the other*, not observer-as-identity.
-Social Game: Door 2; compassionate reframe. Cosmic Game: consent as the
+Social Game: the identification catch; compassionate reframe. Cosmic Game: consent as the
 price of contact. Curriculum: dream under test; bitter cup / plant threshold
 at Anglesey only, supervised.
 
@@ -235,6 +363,8 @@ This is *wu wei* as **conduct in a corner**, not a Book I sitting.
 **Body.**
 - Sex, care, sleeplessness, a birth in the next room. Embodiment is no
   longer a drill. It is the plot.
+- Birth-field: the living world attends the room; the child takes no mark
+  (`22` § *Wonder and earth-tech floor*; `60` §7).
 - He can want, be wanted, and not convert either into succession.
 
 **Family.**
@@ -273,8 +403,9 @@ Do not invent chapter plots. Author-side only:
 
 | Volume | Learning face |
 |---|---|
-| **V** | Let the young leave without surrendering care. The stack is normal to them. Mentorship they actually need. |
-| **VI–IX** | Past-life rhymes of the same three circles. Remembering, not teaching. |
+| **V** | Founders and infants. Care without a leash. Neither child can leave yet. |
+| **VI–VIII** | Past-life rhymes of the same three circles. Remembering, not teaching. |
+| **IX** | Let the young leave without surrendering care. The stack is normal to them. Mentorship they actually need. |
 | **X** | Ego/robot yields to Player. Creation without a cage to teach it. Not Eli–Wren destiny. |
 
 I–IV may practice the civic form of this without naming that liturgy.

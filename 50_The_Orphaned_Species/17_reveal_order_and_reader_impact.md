@@ -39,6 +39,25 @@ If it exists only in `00_MASTER_TIMELINE.md`, it is not yet in the novel.
 
 **Density quota — LOCKED:** roughly **one deep-time residue every 1–2 chapters**. Not one midbook lore scene. Social-world texture (Extra, remittance, drones, registries) does **not** count toward this quota unless it also carries an older fossil (e.g. Extra as discarded worker after vacant divine office; registry as claiming made bureaucratic).
 
+**Tomorrow test — LOCKED 2026-08-16:** a residue that does not change a route, a relationship, or a refusal in the **next** chapter is wallpaper. Cut it or give it a job. Basil, a form, a missing tree-top, a blank notebook page — each must spend something before the following chapter ends. Book I jobs: `31` § *Book I residue → next*.
+
+**I–IV reader vocabulary — LOCKED 2026-08-16:** twelve words the civic novels may treat as known. A new proper noun joins only if an old one leaves.
+
+1. ring
+2. tree
+3. notebook
+4. Extra
+5. house
+6. registry
+7. talent
+8. Cube
+9. Weavers
+10. compact
+11. crown
+12. flight — **birds on a wire only** in I–IV; Book IX flights stay off this list
+
+Everything else (Apkallu, Igigi, Qingu, seventy sons, Player, ley, Charkha in Book I narration) stays off the page or in a mouth that is guessing. File headers, plaques, and dialogue may carry a name the narrator may not.
+
 **Wrong first, true later:** characters should misread ancient material early. Circles as cosmology map before Body/Family/Civilization; Loop as destiny/love mark before fantasy/atomization; Sídhe as fairy folklore before layered underground survival; Forks as monster story before sibling branching.
 
 **Institutions as fossils:** present systems are degraded inheritance — Extra, registry, scientist claiming, cloister/Weaver rivalry, pronatal policy. Readers feel deep time when they recognize: *this is not new; it is unfinished older systems wearing modern clothes.*
@@ -49,8 +68,8 @@ If it exists only in `00_MASTER_TIMELINE.md`, it is not yet in the novel.
 |---|---|---|
 | **I** | Living plants / Sanxingdui tree | Tree of Life is distributed relation |
 | **II** | Sídhe / Göbekli / Adapa–Folly packet | Gods underground; contact became command; Folly |
-| **III** | Forks + Loop + Umul | Coexistence test; hollow completion; heal not spend |
-| **IV** | Court as fossil temple | Offices without gods; refuse heir mythology |
+| **III** | Forks + Loop + Umul; Living Root / talking stones | Coexistence test; hollow completion; heal not spend; earth still conducting under war |
+| **IV** | Court as fossil temple **and** grown corridor / birth-field | Offices without gods; refuse heir mythology; living earth still attending |
 
 **Per-chapter drafting test (add to beatsheet work):**
 1. What ordinary want drives this chapter?
@@ -71,7 +90,7 @@ Companion: `35_artifact_chain.md` § placement; `42` § residue-only delivery; b
 
 > **Canonical pitch hub:** **`55_series_pitch_and_comps.md`** (agent/query, back-cover, full comps table, checklist items 1–14, **Three pressure rules**). This section retains craft summary for reveal-order work.
 
-**Shelf (author / pitch):** literary speculative **deep-history conspiracy thriller** — the **investigative momentum** of *The Da Vinci Code*, the **landmark chase energy** of *National Treasure*, and a **conspiracy of the ages** the present book only names in part.
+**Shelf (author / pitch):** literary speculative **deep-history conspiracy thriller**. First-contact copy names two books: *The Da Vinci Code* (clue-chain) and *The Fifth Season* (close-POV institutional pressure). Landmark-chase notes stay in `55` § *Internal only*.
 
 **Do not soft-pedal the conspiracy.** The **Charkha** is the human face of a **recurring control apparatus** — torch, trial, asylum, eugenics file, registry, black project, van, clipboard, gene weapon, pair-severance, scientist claiming. The reader should feel: *the world I see is a cover; the faces rhyme across millennia.* That is the same reader contract as Dan Brown — with a harder, longer, more contested answer.
 
@@ -169,14 +188,14 @@ Every volume ends **climax + hunger**: irreversible satisfaction *and* a forward
 
 ### Climax staging — epic enough — LOCKED 2026-08-01
 
-“Epic” for this series = **landmark or institutional set-piece + irreversible moral cut + public/safety cost on the same pages**. Not a bigger lore dump. Not a quiet admin beat alone.
+“Epic” for this series = **landmark or institutional set-piece + irreversible moral cut + public/safety cost on the same pages**, and — LOCKED 2026-08-16 — **a living-world event sharing that air** (`22` § *Wonder and earth-tech floor*). Not a bigger lore dump. Not a quiet admin beat alone.
 
 | Book | Moral climax (keep) | Staging obligation (must share air with the cut) |
 |---|---|---|
-|| **I** | Distributed Tree route; Rasel **refused**; Wren pays | Complete-meal Ch 11–13: chase clocks, landmark wonder, irreversible costs (`58`, `55` #5) |
+| **I** | Distributed Tree route; Rasel **refused**; Wren pays | Complete-meal Ch 11–13: chase clocks, landmark wonder, irreversible costs (`58`, `55` #5) |
 | **II** | Release over keeping / using Maren’s signal | **Failed keep-her / use-her-signal assault** concurrent with the cut — cost is safety, not only grief (`32` Ch 10) |
-| **III** | Handover succeeds; private citizen | War/forced-sync pressure in **Ch 8**; Ch 9–10 hearing/handover; **Loop hunger** after civic win; birds/hose = **Book IV coda** (`33`, `55`) |
-| **IV** | Transfer before first breath; child no title | **Simultaneity:** labor + heir motion + succession vote + cloister/Weaver fracture in the **same hours** (`60` §7) |
+| **III** | Handover succeeds; private citizen | War/forced-sync pressure in **Ch 8**, including a **conductor damaged**; Ch 9–10 hearing/handover **on live Heather ground**; field-sail **moves in a witnessed room** before the paper; **Loop hunger** after civic win; birds/hose = **Book IV coda** (`33`, `55`) |
+| **IV** | Transfer before first breath; child no title | **Simultaneity:** labor + heir motion + vote + institution fracture in the **same hours**, with a **birth-field** in the room; Lean Year eruption gets a wonder stretch before the forecast fight (`60` §7; `22`) |
 
 Do not amp III into a fake throne war. Amp concurrent pressure. Do not split IV’s birth climax across chapters of debate.
 
@@ -386,7 +405,7 @@ Craft rules:
 
 **The verdict is fractal, not only civilizational — confirmed 2026-07-28.** An individual's own pass or fail is real and separate from whether humanity-in-aggregate graduates; a person can complete their own Three-Circles work while the species around them mostly doesn't, or fail their own while the species scrapes through. No character's arc is validated or voided by the species-level outcome — each is its own instance of the same engine, which is what keeps any single ordinary life (the trilogy's actual ending register) load-bearing on its own terms rather than a footnote to a cosmic result. The payoff across the later books is not a swerve but a widening: the reader who understood "trial" learns it was always "training," and neither reading has to be wrong for the other to be true. Exact placement across the post-trilogy books (currently anticipated as Books IV–VI, tentative) is open; the trilogy itself changes nothing about its own restraint (`99` #15).
 
-**The defense — LOCKED 2026-07-28.** The proceeding has two sides, not one. The faithful Watchers (Tier 2, "faithful guide Eli" in `34_two_energies_and_planes.md` § planes table) are the defense: spirit guides who act only from the spirit plane — dream, omen, resonance, the same register Anu+26 uses — never embodied, never overriding, never arguing the case for humanity by winning it for them. Prosecution and defense are both non-coercive; neither may compel a verdict. The verdict is supplied by conduct alone — which is also why the faithful Watchers' restraint during the ancient purges (`00_MASTER_TIMELINE.md` § "the faithful Watchers' restraint") is not a failure of nerve: a defense that could simply intervene and win would collapse the same proceeding Iblīs's restraint keeps intact from the other side.
+**The defense — LOCKED 2026-07-28; people-name 2026-08-15.** The proceeding has two sides, not one. The faithful children of the gods (Apkallu, and the Igigi who kept the watch — Hebrew: Watchers; "faithful guide Eli" in `34_two_energies_and_planes.md` § planes table) are the defense: spirit guides who act only from the spirit plane — dream, omen, resonance, the same register Anu+26 uses — never embodied, never overriding, never arguing the case for humanity by winning it for them. Prosecution and defense are both non-coercive; neither may compel a verdict. The verdict is supplied by conduct alone — which is also why faithful Igigi restraint during the ancient purges (`00_MASTER_TIMELINE.md` § *Faithful Igigi restraint*) is not a failure of nerve: a defense that could simply intervene and win would collapse the same proceeding Iblīs's restraint keeps intact from the other side.
 
 ## Trilogy outline by reader experience
 

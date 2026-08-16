@@ -7,7 +7,7 @@ The true test of this work is not in moments of quiet contemplation, but in the 
 
 ### 1. The Workplace: Navigating Pressure and Politics
 
-The modern workplace is a perfect training ground for observing programmed behaviors. In a high-stakes meeting, activate your Observer. See the energetic currents—defensiveness, dominance, withdrawal—as programs running. By detaching from the emotional charge, you can think strategically instead of getting pulled into the drama.
+The modern workplace is a perfect training ground for observing programmed behaviors. In a high-stakes meeting, activate your Observer. See the energetic currents—defensiveness, dominance, withdrawal—as programs running. By noticing the charge and the emotion that answers it — without taking the second-step story that it is happening to an I — you can think strategically instead of getting pulled into the drama.
 
 When a colleague's behavior triggers you, see it as their programming running, likely a defense mechanism. By de-personalizing the interaction, you can respond to the situation strategically rather than reacting emotionally, turning potential conflict into a solvable problem.
 

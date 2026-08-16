@@ -6,7 +6,22 @@
 > Nobody is captured. Emrys does not exist. Mesopotamia and Göbekli are allocated
 > to Book II. Book III no longer rescues Rasel.
 
-> **Soft-inconsistency fix — 2026-07-29:** Do not call Layer 1 a trilogy. Current map Books I–IV; optional V–VI unallocated (`SERIES_STRUCTURE.md`).
+> **Soft-inconsistency fix — 2026-07-29:** Do not call Layer 1 a trilogy. Current map Books I–IV + Orchestra V–X (`SERIES_STRUCTURE.md`).
+>
+> **Index adopted — 2026-08-16:** `00_INDEX.md` is LIVE. Propagation rule: scene
+> locks edit the manuscript chapter or name the debt here.
+>
+> **2–10 craft pass — 2026-08-16:** Wren return-rights on-page (I Ch 10, II Ch 6).
+> Named weekly opponents on `31`/`32`. Book I narrator theology cut; Book II
+> Tree/ley/Charkha only in mouths, plaques, or file headers. Query comps: *Da
+> Vinci Code* + *Fifth Season*. Twelve-word vocab taped in `05`/`17`/`00_INDEX`.
+> Residue tomorrow-test on `31`. Rasel October clock on `33`/`26` and `III` Ch
+> 2/4. Unthematic stretch per I–II chapter. Kid-crew / spicy / V still frozen.
+>
+> **Prose pass — 2026-08-16:** Book I wat candle/afterimage on-page. Book II
+> traveling-Rasel rebuilt (on-page only after Rollright, at Sanxingdui). Book
+> III wonder floor landed on existing scenes. Book IV corridor / eruption /
+> Heather / birth-field landed.
 > **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-08-09, PROSE RECONCILED:**
 > The series now ends in a women-led court volume. Book III's handover is
 > real and complete for Eli himself — a genuine transfer, in one hall, under

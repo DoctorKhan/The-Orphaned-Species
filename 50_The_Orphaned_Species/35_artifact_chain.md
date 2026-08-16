@@ -72,7 +72,13 @@ Artifacts operate on three levels:
 
 ### Volume II — The Descent
 
-- **The Laurel Cube:** layered chamber inside or beneath the Cube institution introduced in Book I. Eli discovers it after winning access at the **Delphic Games** (Book II Europe transit). It is the original Cube before commercialization — a transmission chamber built by the same hands that made the Circles, containing a resonant geometry that Eli's receiver reads as a living instruction rather than an artifact. It does not deliver answers; it transmits a bounded practice (Manual Override before the name existed) and a warning about the Albion ground. The Cube's chamber is a station, not a throne.
+- **The Laurel Cube:** the Free Ports cube at Delphi (Kastri underneath). A
+  separate site from Singapore's Cherry Cube — one of three, never a chamber
+  under the Book I mall. Eli reaches it in Book II on the Göbekli-to-Thrace
+  road by winning the **Delphic Games** (water, staves, pattern-lock). The
+  night at the mountain is the prize. A keeper room transmits a bounded
+  practice and a warning about the Albion ground. Station, not throne. Do
+  not explain the fragment. `59`; `95` § *The Three Cubes*.
 - **The Loop** seed only (optional): unnoticed hatch-mark rhyme permitted; no street name, no working reading. Full diagnostic lands Book III/IV. § *The Loop*.
 - **Enheduanna's Inanna hymns:** authored voice inside political theology; characters encounter a displaced speaker, while the reader sees the warning about who interprets and owns sacred authority. **Book II archive** (not Book I — Mesopotamia relocated).
 - **Inana's Descent — dual face (LOCKED 2026-08-01):** (1) **healing** — Somchai embodies attend-then-restore; Eli misreads seven gates as Manual Override. (2) **Wren/Rowan romance** — same myth supplies successive surrender of armor/claim before renewed intimacy; attend, don't storm. Hub: § *Inana's Descent*; romance: `19` § *Rowan returns*.
@@ -295,7 +301,7 @@ A real small-find from the Göbekli Tepe excavations, first published in Köksal
 | Zoom | Reading | When it pays off |
 |---|---|---|
 | **Terrestrial** | Snake = low places (Abzu, waters) · Tree = **Edin** (living substrate, steppe, uncut life) · Bird = high places (charged grounds, Hermon, megaliths) | Book I — what Aru's people could live inside without cosmic vocabulary |
-| **Guardian** | Snake = under-route (Apkallū) · Tree = living conductor / ley route · Bird = sky-route (Watchers / Nephilim) | Book I–II — keeper tradition, fox-pillar, two-tree grammar |
+| **Guardian** | Snake = under-route (Apkallū) · Tree = living conductor / ley route · Bird = sky-route (Igigi / Watchers) | Book I–II — keeper tradition, fox-pillar, two-tree grammar |
 | **Cosmological** | Snake = Earth-depth / organic serpent-line · Tree = **bridge-interface** (where Heaven's seed meets Earth's biology) · Bird = Heaven-seed / transmission / the drop from above | Book III — Double-Fork Stone, dragon memory, panspermia |
 
 The three-domain map is how the symbol **kept working on Earth** after Heaven went quiet. Panspermia is what it may have meant when both orders were still in contact (~10,800 BCE fall → Göbekli response). Same stone; different zoom.
@@ -320,19 +326,19 @@ Separation from the Tree of Life does not mean instant extinction or moral infer
 
 **Use it as the two-tree origin diagram, not a simple Eden proof.** The popular temptation is obvious: snake + tree = Eden. The stronger guardian reading is that this image shows **two distinct trees with distinct guardians before theology compressed them into one garden with one conflict**:
 
-- **Tree of Life** = the living route, conductor, central interface to the Tree / ley-grid; guarded by the **bird** (Nephilim function: sky, height, watch, signal, war, command, high-place enforcement, the overseer)
+- **Tree of Life** = the living route, conductor, central interface to the Tree / ley-grid; guarded by the **bird** (Igigi function: sky, height, watch, signal, war, command, high-place enforcement, the overseer)
 - **Tree of Knowledge** = the diagnostic route, threshold, foundation; guarded by the **snake** (Apkallu function: chthonic, watery, under-route, foundation, wisdom, threshold, repair)
 
-This does not mean every snake image is Apkallu or every bird image is Nephilu. Eden readings are not discarded; they are demoted into one later theological compression of an older dual-map. Eden as told later is a theological re-skin: one tree, one guardian, one prohibition. The plaquette preserves the earlier operational grammar: **two routes, two guardians, two functions.** The bird guards the ascent; the snake guards the descent. Both were required to operate the full system.
+This does not mean every snake image is Apkallu or every bird image is Igigi. Eden readings are not discarded; they are demoted into one later theological compression of an older dual-map. Eden as told later is a theological re-skin: one tree, one guardian, one prohibition. The plaquette preserves the earlier operational grammar: **two routes, two guardians, two functions.** The bird guards the ascent; the snake guards the descent. Both were required to operate the full system.
 
-### The two divisions — interpreters vs. non-interpreters — LOCKED 2026-08-01
+### The two children — interpreters vs. non-interpreters — LOCKED 2026-08-01; people-name 2026-08-15
 
-The plaquette explains why the transmission was always partial. The two guardian figures flanking the tree are not just two routes; they are **two Apkallu divisions** facing opposite interpretive obligations:
+The plaquette explains why the transmission was always partial. The two guardian figures flanking the tree are the **children of the gods** facing opposite interpretive obligations:
 
-- **The interpreters** (snake line) — the Apkallu who carried the forbidden gift **down into the workforce**: fire, language, the locks, field-tuning, repair. They read the signs and transmitted the practice. Their descendants are the Albian Singers, the teahouse network, the hidden curriculum.
-- **The non-interpreters** (bird line) — the Watchers who held the **non-intervention rule**: observe, record, do not interfere. They preserved knowledge without transmitting it. Their descendants are the archive-keepers, the custodian registries, the sealed dossiers.
+- **The interpreters** (snake line) — the **Apkallu** who carried the forbidden gift **down into the workforce**: fire, language, the locks, field-tuning, repair. They read the signs and transmitted the practice. Their descendants are the Albian Singers, the teahouse network, the hidden curriculum.
+- **The non-interpreters** (bird line) — the **Igigi** (Hebrew: Watchers) who held the **non-intervention rule**: observe, record, do not interfere. They preserved knowledge without transmitting it. Their descendants are the archive-keepers, the custodian registries, the sealed dossiers. Bird-headed apkallu in later Assyrian figurines are this people dressed in sage-clothes.
 
-The plaquette is the origin document for this split. Before the wound hardened, both guardians flanked the same tree. Afterward, one line kept the practice and the other kept the silence. The series' central conflict — registry vs. teahouse, knowledge vs. life, extraction vs. native road — is not a later corruption. It is **baked into the guardian grammar from the beginning.** The present-day fight is the same split, still unresolved, running through different bodies.
+The plaquette is the origin document for this split. Before the wound hardened, both children flanked the same tree. Afterward, one line kept the practice and the other kept the silence. The series' central conflict — registry vs. teahouse, knowledge vs. life, extraction vs. native road — is the parent split inherited by the children, still unresolved, running through different bodies.
 
 ### The snake's deliberate ambiguity
 
@@ -347,7 +353,7 @@ The snake belongs to **both orders**. Tiamat is murdered by the sky-faction *and
 ### Compression ladder — how theology shrinks the symbol
 
 1. **Plaquette (pre-split):** snake + tree + bird — bridge diagram, three domains, two transmission functions flanking the living middle
-2. **Guardian split:** bird vs. snake — high-place Watchers vs. lowland Apkallū; under-route vs. sky-route
+2. **Guardian split:** bird vs. snake — high-place Igigi vs. lowland Apkallū; under-route vs. sky-route
 3. **Eden compression:** snake + tree — one garden, one conflict, one prohibition
 4. **Covenant compression:** Heaven + Ancient Earth — two terms, no tree (Arslan Tash; seventh-century BCE)
 5. **Two-Tree union (post-split restoration):** two intertwined trunks — the **rainbow tree** — Tree of Life and Tree of Knowledge braided back into one living form; guardians reunited as feathered serpent at the root or fork

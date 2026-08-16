@@ -13,7 +13,7 @@ This cosmic rhythm unfolds in a repeating pattern that governs all conscious exp
 
 ### Phase 1: Forgetting, Creating, and Identifying
 
-Consciousness, in its pure, unconstructed state, "forgets" its nature and extends itself into a creation—a story, an identity, a role. It becomes fully fused with this creation, a process we call **identification**. This is the phase where our internal "parts"—the anxious part, the critical part, the people-pleasing part—run the show without our conscious awareness.
+Consciousness, in its pure, unconstructed state, "forgets" its nature and extends itself into a creation—a story, an identity, a role. It adds the second-step story that this creation is happening to an I — **identification**. This is the phase where our internal "parts"—the anxious part, the critical part, the people-pleasing part—run the show without our conscious awareness.
 
 In this stage, there is no separation; the player *is* the character. The awareness is so deeply embedded in the game that it doesn't know it's a game. This is the state of NPC consciousness, where life is experienced as a series of automatic reactions driven by our internal parts.
 
@@ -34,7 +34,7 @@ In this stage, there is no separation; the player *is* the character. The awaren
 
 Through practice, grace, or suffering, a crack appears in the construct. A sliver of awareness begins to separate from the identified state. This is the birth of the **Observer**. The player starts to remember they are more than just the character on the screen.
 
-Consciousness is no longer fused with the program or part; it can now **observe** it and **relate** to it. It sees the charges, the patterns, and the automatic reactions without being completely consumed by them. This is the crucial shift from being the program to having a relationship *with* the program.
+Consciousness is no longer telling the story that it *is* the program or part; it can now **observe** it and **relate** to it. It sees the charges, the patterns, and the automatic reactions without being completely consumed by them. This is the crucial shift from being the program to having a relationship *with* the program.
 
 **The Observer's Capabilities:**
 - Witnessing thoughts and emotions without being overwhelmed by them

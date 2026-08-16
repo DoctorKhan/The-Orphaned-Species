@@ -2,7 +2,9 @@
 
 > **Status:** navigation hub for Book 50 present-day **craft and cast** documentation (docs `21`–`27`). Cosmology, deep time, and manuscript draft live elsewhere — see `00_ARCHITECTURE.md`. **When drafting:** start here if unsure which doc governs a decision. Filename still contains `trilogy` for legacy path stability; contents govern the **series** (Books I–IV civic; Books V–X Lifetime Orchestra — `SERIES_STRUCTURE.md`). Do not call the novel a trilogy in new materials.
 
-> **HIGH PRIORITY — LOCKED 2026-07-25; pressure rules 2026-07-29:** **`55_series_pitch_and_comps.md`** governs shelf positioning, agent/back-cover copy, comps (*Da Vinci Code*, *National Treasure*), clue-chain obligations, checklist items 1–14, and the **Three pressure rules** (two live clocks; antagonist present-tense job; cost → next chapter). Check it at outline, draft, and revision alongside `14` and `17`.
+> **HIGH PRIORITY — LOCKED 2026-07-25; pressure rules 2026-07-29; query comps 2026-08-16:** **`55_series_pitch_and_comps.md`** governs shelf positioning, agent/back-cover copy, **query comps** (*The Da Vinci Code* + *The Fifth Season* only), clue-chain obligations, checklist items 1–14, and the **Three pressure rules** (two live clocks; antagonist present-tense job; cost → next chapter). Check it at outline, draft, and revision alongside `14` and `17`.
+
+> **I–IV reader vocabulary — LOCKED 2026-08-16:** ring · tree · notebook · Extra · house · registry · talent · Cube · Weavers · compact · crown · flight (birds on a wire only). A new proper noun joins only if an old one leaves. `17`.
 
 ---
 
@@ -19,11 +21,12 @@
 | Tracking growth across a volume | `27_character_development_arcs.md` |
 | Trauma / internal cages (behavior under stress) | `26` Part VI + `15` § Trauma |
 | Writing fellowship comedy or warmth (primary carrier open — see `24` NEEDS AUTHOR DECISION) | `24_comedic_register_slapstick.md` + `16_reader_attachment.md` |
-| Pacing Life vs Knowledge reveals | `22_life_technology_and_two_trees_spine.md` + `17_reveal_order_and_reader_impact.md` |
-| Clue-chain / conspiracy comps (*Da Vinci Code*, *National Treasure*) | **`55`** — Vol I + Vol II + **Vol III** § *chapter-by-chapter pitch audit* |
+| What is current (LIVE / QUARRY / PROCESS) | **`00_INDEX.md`** — adopted 2026-08-16; drafting stack + propagation rule |
+| Pacing Life vs Knowledge reveals; I–IV wonder / earth-tech floor | `22_life_technology_and_two_trees_spine.md` § *Wonder and earth-tech floor* + `17_reveal_order_and_reader_impact.md` |
+| Clue-chain / conspiracy comps (*Da Vinci Code* + *Fifth Season* on first-contact copy) | **`55`** — Vol I + Vol II + **Vol III** § *chapter-by-chapter pitch audit* |
 | Bible → site discoveries / activations | **`61_site_activation_map.md`** — recipe card + per-volume site tables; use when fleshing II–IV |
 | **Ultimate metaphysical thesis (V–X)** | **`SERIES_STRUCTURE.md`** § *Ultimate metaphysical thesis* — artificial world / training wheels / learn control → learn creation; do not lecture in I–IV |
-| **Lifetime Orchestra (+6 / V–X)** | **`SERIES_STRUCTURE.md`** § *Lifetime Orchestra*; `62_lifetime_orchestra.md` — Bridge → 4 past lives → Ω |
+| **Lifetime Orchestra (+6 / V–X)** | **`SERIES_STRUCTURE.md`** § *Lifetime Orchestra*; `62` — map **LOCKED 2026-08-16:** V founders/infancy → VI Göbekli → VII Adapa → VIII last garrison → IX leave → Ω. No Sanxingdui era novel. |
 | **Technology teaches meaning** | **`SERIES_STRUCTURE.md`** + `22` § *Technology teaches meaning* — concepts via runnable tech |
 | **Spirituality goes wrong** | **`SERIES_STRUCTURE.md`** + `40_concepts.md` § *Spirituality goes wrong* — toxic positivity / manifestation bullying; seed III–IV; densify V–X |
 | Decoding Maren's field notebook / linguistic continuity | `52_maren_holts_field_notebook.md` + volume beats `31`–`33` |
@@ -34,7 +37,8 @@
 | **Phantom god-perception / correct worship** | **`17`** §9a + **`40`** — II seed; III civic diagnosis; **V–X** payoff = ego/robot → Player/consciousness; not atheism |
 | Locked beats / open names | `99_open_questions.md` |
 | Volume I chapter order | `31_volume_I_beatsheet.md` |
-| Book I lived subject — learning + adventure | `67_book_i_learning_adventure.md` — stay-with / inverse image; theater vs gym |
+| Book I lived subject — learning + adventure | `67_book_i_learning_adventure.md` — stay-with / inverse; theater vs gym |
+| Agency-place / charges as guidance / circle scale | `68_eli_learning_by_circle.md` — what is being kept, per volume and circle |
 | Volume II chapter order | `32_volume_II_beatsheet.md` — **delivery package** (mother Clock A, Maren mirror, Rasel, Sol, Ch 8 one-way, contraction) |
 | Volume III chapter order | `33_volume_III_beatsheet.md` |
 | Science citations / epigraphs / *On the record* | `90_epigraphs_and_sources.md` § *Citation layer* |

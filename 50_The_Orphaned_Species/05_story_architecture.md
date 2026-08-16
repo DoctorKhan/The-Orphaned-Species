@@ -22,6 +22,12 @@ Do not lecture this in Books I–IV. Dramatize only its symptoms: override under
 
 **Family total — LOCKED 2026-07-31:** **14 core** = 10 Layer 1 + 4 Layer 2 companions; satellites outside (`63`; `SERIES_STRUCTURE.md` § *Family total*).
 
+**I–IV reader vocabulary — LOCKED 2026-08-16:** twelve words the civic novels may treat as known. A new proper noun joins only if an old one leaves. Tape this above the desk.
+
+ring · tree · notebook · Extra · house · registry · talent · Cube · Weavers · compact · crown · flight (birds on a wire only)
+
+Everything else (Apkallu, Igigi, Qingu, seventy sons, Player, ley) stays off the page or in a mouth that is guessing. File headers, plaques, and dialogue may carry a name the narrator may not. Full lock: `17` § *I–IV reader vocabulary*.
+
 **Spirituality goes wrong — LOCKED 2026-07-31:** also dramatize the **counterfeit** of this thesis — toxic positivity, manifestation bullying, spiritual ego — people who use light-language to blame the injured and own the room. Distinct from Lang and Sol. Full lock: `SERIES_STRUCTURE.md` § *Spirituality goes wrong*; `40_concepts.md`. **Greater-picture Turning:** locally wrong stays wrong; cosmically, even that failure can be training gear that breaks (developmental function, not acquittal).
 
 **Hell — LOCKED 2026-07-31:** infinite loop that cannot be escaped in a non-entropic / deathless world; Earth's death is a circuit breaker. **Life is the solution to hell.** `SERIES_STRUCTURE.md` § *Hell*.
@@ -175,7 +181,7 @@ Guardrails:
 | | **Somchai — the crown of the body** (Vol. II Ch. 18) | **Eli — the crown of the polis** (Book III attack chapters) |
 |---|---|---|
 | What's worshipped | his **healing** — miracle-worker, saint, "messenger of God," "Son of Man" | his **authority** — chosen one, armed prophet, the one voice, the amplifier throne |
-| His limit-reason | the **limits of the body**: *"I am the son of a man"* — a fallible clinician, not a divine restorer | **ownership rebuilds the cage**: seizing it, even for good, makes him the next Igigi |
+| His limit-reason | the **limits of the body**: *"I am the son of a man"* — a fallible clinician, not a divine restorer | **ownership rebuilds the cage**: seizing it, even for good, takes the throne the fallen Igigi took |
 | The danger he will not own | becoming a **relic / miracle-dispenser**, owned as a healing resource | becoming a **father-god / king**, command-coherence that can be hijacked |
 | Deification of… | the **gift** | the **authority** |
 
@@ -848,26 +854,33 @@ Eli learns that women's social structures are not reducible to care labor. Parti
 
 Wren's past relationships introduce the pattern personally. **Rowan** is **British / Irish diaspora** in the strait corridor, close to Wren's age, and embedded in the Weaver/mutual-aid web through a **mixed-diaspora harbor house**; an **older Chinese-Malaysian ex** belongs to the same transnational ecology while bringing experience, protection, access, and a real power asymmetry. Rowan represents belonging and mutual affection; the older ex represents the danger of confusing care with control. A marriage and children can coexist with bisexual or queer long-term relationships and an extended circle of affection, but no arrangement is universal or automatically ethical. Some bonds are negotiated and sustaining; others involve secrecy, jealousy, unequal power, or harm. Wren's lesson to Eli is that marriage organizes responsibility but does not exhaust affection, and that plural attachment still requires consent, honesty, boundaries, and accountability. A relationship can end without becoming unreal; a marriage can be genuine without being the only bond that mattered.
 
-## 12. What must be decided before drafting Volume I
+## 12. Volume I decisions — status after draft
 
-1. **The Malacca event:** the concrete physical crisis that produces the near-death breach without another head injury.
-2. **The first clue:** the person, object, or record that justifies Eli leaving Pelangi Reach.
-3. **Wren's independent objective:** what she would pursue if Eli disappeared.
-4. **The recurring rival team:** affiliation, members, internal bonds, and operational limits.
-5. **The first volume's climax location:** South Asia is structurally strongest, but the precise community and agricultural setting require research.
-6. **The Volume I ending clue:** what points onward without revealing Albion.
-7. **Psionic combat rules:** what one psion can do, what requires a team, effective range, detection, defense, physiological consequences, and failure modes.
-8. **The revelation ledger:** track what Eli, Wren, Lang, each faction, and the reader know after every chapter.
+Book I is drafted (`manuscripts/I_The_Breach.md`). This list is no longer a pre-draft gate.
+
+**On the page:**
+
+1. **Malacca event:** Hassan, the ring, the river breach — Ch 3.
+2. **First clue:** Rasel's wedding ring on a Mandate intake frame — Ch 1–2.
+3. **Wren's independent want — LOCKED 2026-08-16:** If Eli vanished tomorrow, Wren would still be trying to get a **signed right of return** onto every house attestation she touches, so nobody can be moved the way Mira was. Book I after Thailand: packet south to Asha via Kitt. Book II: the same sheet on Rowan's table; Callum is four days overdue and Rowan will not wait for the form. `26` § Wren; `I` Ch 10; `II` Ch 6.
+4. **Rival faces:** Anika Voss, Sora, Custodian boarding teams. Charkha unnamed in Book I.
+5. **Climax:** Sanxingdui annex. Rasel stays. Wren signs the civilian evacuation.
+6. **Westward open:** Maren alive two winters earlier; no Albion named.
+
+**Still open (do not block I–II pass):**
+
+7. **Psionic combat rules:** range, team vs solo, detection, defense, body cost.
+8. **Revelation ledger:** what Eli, Wren, Lang, each faction, and the reader know after every chapter.
 
 ## 13. Recommended drafting order
 
-1. Lock the eight decisions above.
-2. Create a twelve-to-fifteen-chapter beat sheet for Volume I using the chapter card.
-3. Write the Pelangi Reach opening through the first irreversible Malacca escape decision.
+1. I–II pass (items 2–10 of the 2026-08-16 craft list) before kid-crew, spicy satellite, or Book V.
+2. Keep the Volume I beat sheet (`31`) current with opponent / residue / unthematic rows.
+3. Revise the Pelangi Reach opening through the first irreversible Malacca escape against those rows.
 4. Write one quiet Pelangi Reach memory and one present aftermath scene to establish the hearth.
 5. Draft one attachment-first scene for each primary present-day character using `16_reader_attachment.md`: ordinary want, private wound, repeated behavior, and one relationship-changing action.
 6. Draft the first rival-team encounter from the victim's embodied perspective.
 7. Draft the Volume I climax before expanding the cosmology further.
-8. Reassess whether the story wants three volumes or one compressed novel based on actual scene length and momentum.
+8. Reassess civic length against I–IV density, not against a trilogy or a fifth civic book.
 
 The governing test is simple: a reader should always know what Eli wants now, whom he cares about, what the next clue might cost, and why taking control would be easier than remaining free.

@@ -8,7 +8,7 @@
 >
 > **Dreaming draft lock — 2026-08-01:** Eli's vivid dreams predate the Malacca breach, but Book I gives neither him nor the reader a settled supernatural explanation. The counting-doors dream remains plausibly trauma, exhaustion, bodily alarm, coincidence, or weak contact. Dreams leave sensory residue and uncertainty; they do not provide an itinerary, command, title, or immediately verified answer.
 
-> **Opening alignment—LOCKED 2026-07-26 (rev. Z); parent trail revised 2026-08-10; race removed 2026-08-12:** **Ch 1**—**Friday AM** solo sail, sabotaged sheet, near-miss with Timah/Jul's harvest boat, Kiran capsizes attempting rescue; Suresh awards the job for competence under real danger, not a wager win → earns **Cube Circuit-weekend show contract** (Sunday concert stage/wardrobe before Circuit race; Foundry sleeve = corridor cover); **Friday PM** Mei **dinner send-off / ambiguous-loss truth**; **Saturday AM** Babaji **hotel** (**first meet Wren**; cover vs job + second-set closet); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn** (game hotel, Saturday night). **Sunday AM:** Cherry Lane → **Cube** → **Sunday afternoon concert** → **Sunday night Circuit** escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. Malacca: **talents** (street = psionic ability; lowercase) **activate**, not trained (`95`). Cube grounding = **Maren**, not martial. **Ch 3** — aftermath through "I'm not going dark."
+> **Opening alignment—LOCKED 2026-07-26 (rev. Z); parent trail revised 2026-08-10; race removed 2026-08-12; Cube approach 2026-08-16:** **Ch 1**—**Friday AM** solo sail, sabotaged sheet, near-miss with Timah/Jul's harvest boat, Kiran capsizes attempting rescue; Suresh awards the job for competence under real danger, not a wager win → earns **Circuit freight / marshalling** (tire trucks, last safety car; Foundry sleeve = corridor cover; **stay off the Cube**); **Friday PM** Mei **dinner send-off / ambiguous-loss truth**; **Saturday AM** Babaji **hotel** (**first meet Wren**; cover vs job; closet is fallback only); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn**. **Sunday:** Cherry Lane toward **yards** → Circuit closures pour him **closer and closer to the Cube** (spectacle, not destination) → concert floor he did not choose → closet as boxed fallback → Circuit freight escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. Malacca: **talents** (street = psionic ability; lowercase) **activate**, not trained (`95`). Cube grounding = **Maren**, not martial. **Ch 3** — aftermath through "I'm not going dark."
 > - **Ch 1 (below):** governing draft—**LOCKED rev. Y** (see opening alignment). Decision record: `DECISIONS_Chapter_One.md`.
 > - **Ch 2 (below):** governing draft—**LOCKED rev. Y:** Wren escort through **causeway hall**; wrong-room overhear; document clerk → **Saturday night Continue Inn** → **Sunday AM** Cube → convoy → Straits → Malacca breach.
 > - **Ch 3 (below):** governing draft, **merged 2026-07-22**—aftermath through "I'm not going dark." Decision record: `DECISIONS_Chapter_Three.md` flags.
@@ -30,6 +30,8 @@
 > **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1–3 seeded per `17` § *Deep-time residue density* — garden as living craft vs Foundry cables; missing-cohort play court; Mei's Singapore/baby Cube grief-seed; Extra lane as vacated standing; Three Circles wrong-first middle-ring read; kelong ask-the-water practice + basil rhyme. Ancient face = living plants → Sanxingdui.
 > **Craft revision pass — 2026-07-30 (residue density continued):** Ch 5 coffee mountain *not for sale*; Ch 7 dead-ground wrong-reading catch; Ch 11 border form as claiming fossil; Ch 12 missing-top hunger refused; Ch 13 mismatched cadences over master rhythm. Beatsheet residue lines Ch 6–13: `31`.
 > **Craft revision pass — 2026-07-27:** Wren pre-door choice groundwork; Maren classifier / Rasel coupling seeded (Ch 3); Ch 1–2 memory density trim; Ch 13 ending space + Wren pre-door choice; Ch 5/11 thinned; thesis-repetition cuts; civilian-cost callbacks; irreversible polarity-week loss; Ch 6 consent turn into Ch 7; Ch 12 perception-before-mesh; dangling clue quieting.
+> **Wat stack on-page — 2026-08-16:** candle / afterimage at the wat; same inverse used on Kru Dao's pad and failed at Rasel's mask (`67`, `68`).
+> **Cherry shell contact — 2026-08-16:** freight case along the Cube wall; heat at the base of the spine; concert clap as a hand he cannot see. Alcove stays anti-chant.
 > - **Superseded Ch 2–4 prose:** moved to `archive/manuscripts/restructure_quarry_ch2-4.md`. Quarry material (Khun Dang, King James register, seven-chamber framing) is not canon until placed on-page under current voice/route locks.
 > - **`archive/manuscripts/quarry_ch1_alternative.md`:** alternative concept-forward Ch 1—**quarry**, not governing (interiority pays off later; see its header).
 
@@ -136,7 +138,7 @@ It leaves him clean and empty. He cannot say what happened out there, or whether
 
 "I don't know."
 
-They make it to the end of the dock. He writes Eli's name on the loading slate. Then his voice drops to harbor register. "The job's yours. It's Circuit weekend in Singapore, so it'll be busy. You've got the idol show at the Cube before the street race: stage power, wardrobe, afterparty load-in. Your kind of cables. Real transfer, not island chits. Saturday, first light: Babaji's hotel—papers, then you wait for the boat. Walk like you belong until something proves you don't." He waits a beat too long before he adds, "Don't make me regret trusting you with this, boy."
+They make it to the end of the dock. He writes Eli's name on the loading slate. Then his voice drops to harbor register. "The job's yours. It's Circuit weekend in Singapore, so it'll be busy. Tire trucks. Marshalling under the grandstand. Your kind of cables, and you leave on the last safety car. Real transfer, not island chits. Stay off the Cube if you can—that's the show, not the work. Saturday, first light: Babaji's hotel—papers, then you wait for the boat. Walk like you belong until something proves you don't." He waits a beat too long before he adds, "Don't make me regret trusting you with this, boy."
 
 Suresh crouches to coil the loose sheet. His thumb finds the frayed end. He runs it along the cut once. "That's not chew," he says. "That's not salt-rot either."
 
@@ -323,7 +325,7 @@ Eli climbs behind her, past floors built for someone's honeymoon and now boarded
 
 Babaji sits by a window with the drapes half-drawn, automatic chess paused mid-game on a cheap magnetic set—the pieces Rasel hated and bought anyway because Eli kept losing them over the rail. He does not stand.
 
-"The sponsor line is mine." He passes a folded contractor sleeve across the table. "The paper reads Foundry stage crew. That clears the corridor. The real job is the Cube—Sunday concert, ahead of Circuit night. You'll run power, the wardrobe uplink, and the afterparty load-in before the cars arrive." He hands it to the woman first, not to Eli. "Wren. Attest it."
+"The sponsor line is mine." He passes a folded contractor sleeve across the table. "The paper reads Foundry freight. That clears the corridor. The real job is Circuit night—marshalling, tire trucks, last safety car north. Stay off the Cube if the streets let you. The show is not your call." He hands it to the woman first, not to Eli. "Wren. Attest it."
 
 She scans it on a tablet and signs before Eli's fingers close on the paper. Babaji's legal name where a sponsor goes. Rasel nowhere at all. She does not look at him while she works.
 
@@ -334,15 +336,16 @@ back to Eli. "I run south before they walk the offices. You run on Suresh's hull
 the same hour—Saturday, last light. Different vessels. Don't miss your window
 watching mine."
 
-Wren slides a call sheet across, the worker lane and Sunday call already
+Wren slides a call sheet across, the worker lane and Sunday marshalling already
 underlined in blue, twice. "You'll want the worker lane, not the other one,"
-she says, unhurried, the way she might confirm a dinner reservation. "Show
-call is Sunday—concert first, the race after. I'll be with you as far as
+she says, unhurried, the way she might confirm a dinner reservation. "Freight
+call is Sunday—yards first, race after. I'll be with you as far as
 Singapore. Ask me now if you're going to ask at all, though you can always
 ask again at the gate." She lets him read it before she adds, still without
-looking up, "The other lane goes through full clearance. If your file flags,
-they don't send you back to the boat. They send you to a room where nobody
-asks which band you came with."
+looking up, "If the Circuit boxes you, there is a hold under the Cube that
+rides the same trucks. Do not go looking for it. The other lane goes through
+full clearance. If your file flags, they don't send you back to the boat.
+They send you to a room where nobody asks which band you came with."
 
 She does not explain.
 
@@ -439,7 +442,7 @@ His mother used to make him name the fear before they left a harbor—not to ban
 
 The tender swings toward them.
 
-Suresh holds up his manifest. Wren adds the contractor bundle without being asked and speaks to the officer in the register of a woman who has walked clients through worse doors—soft, precise, unhurried. The officer reads Eli's Cherry Cube call sheet twice. New orders since last night—**screening hold** on gray ports, documentation review, cohort cross-check for anyone with a worker visa from Pelangi Reach.
+Suresh holds up his manifest. Wren adds the contractor bundle without being asked and speaks to the officer in the register of a woman who has walked clients through worse doors—soft, precise, unhurried. The officer reads Eli's Circuit freight call sheet twice. New orders since last night—**screening hold** on gray ports, documentation review, cohort cross-check for anyone with a worker visa from Pelangi Reach.
 
 "Step to the pier."
 
@@ -510,9 +513,9 @@ A cup clicks. Someone laughs without mirth. "Pelangi is sealed. The strait eats 
 
 The voice that answers is older, tired, familiar in the way keeper rooms are
 familiar—still, kettle, no registry cold—not the same man, the same *kind* of
-still. "The boy is on a call sheet **Sunday**. If he is clever, he is below. If he
-is their son, he is already in the photograph. Do not say either name in this
-building."
+still. "The boy is on a freight call **Sunday**. If he is clever, he is at the
+yards. If he is their son, he is already in the photograph. Do not say either
+name in this building."
 
 Silence. Then a chair scrape—someone standing.
 
@@ -580,7 +583,7 @@ She does not look up. She knows.
 
 "It's already spent," he says, which is not the same as it not hurting.
 
-The ticket disappears into the clerk's ledger, and his own file exhales and shuts. She stamps and hands him a discharge slip marked **contractor lodging**. "**Continue Inn**, arcade tier. Cherry Lane at first light **Sunday**. Not tonight."
+The ticket disappears into the clerk's ledger, and his own file exhales and shuts. She stamps and hands him a discharge slip marked **contractor lodging**. "**Continue Inn**, arcade tier. Cherry Lane at first light **Sunday**—yards, not the show. Not tonight."
 
 ---
 
@@ -601,23 +604,39 @@ He does not sleep well. He sleeps enough.
 
 **Sunday, first light.** Cherry Lane is not on the official map. What actually connects Singapore is men, and one segment at a time—and for an hour Eli is lost inside that truth.
 
-He asks wrong once and gets a polite blank. Asks right—river in the vowels—and a construction worker's face changes the way a lock changes when it recognizes a key. *Down the dead escalator, left at the flooded junction—no, your other left—if you see the shrine with the plastic flowers you went too far.* The escalator is a black throat. Water stands in the junction like a held breath. He takes the wrong left, finds the plastic flowers, turns back sweating, finds the dry crossing only when a cleaner kicks a grate open with her heel and does not ask his name. The air down here is different—diesel cut with roasting peanuts, salt coming up through the slab, a bass note from the city above that he feels in his molars more than he hears. A dock mechanic under the freight ramps looks at his hands before his face and gives him the clock: "Show's already loading upstairs—idol concert first, whole afternoon. Street race after dark. Freight rolls out of the Cube at the last safety car **tonight**. Tire trucks, not food trucks. **Sunday**—concert before Circuit; the show is the only thing left that opens doors."
+He asks wrong once and gets a polite blank. Asks right—river in the vowels—and a construction worker's face changes the way a lock changes when it recognizes a key. *Down the dead escalator, left at the flooded junction—no, your other left—if you see the shrine with the plastic flowers you went too far.* The escalator is a black throat. Water stands in the junction like a held breath. He takes the wrong left, finds the plastic flowers, turns back sweating, finds the dry crossing only when a cleaner kicks a grate open with her heel and does not ask his name. The air down here is different—diesel cut with roasting peanuts, salt coming up through the slab, a bass note from the city above that he feels in his molars more than he hears. A dock mechanic under the freight ramps looks at his hands before his face and gives him the clock: "Yards are west of the grandstand. Tire trucks. Last safety car **tonight**. Stay off the Cube. That's the show. Race starts sealing streets at noon—practice first, then the real thing. If you get up top you will not get back down."
 
-Eli has heard the Cube named a hundred times in the channels and corridors of Singapore. He has never heard it like this. The mechanic laughs once, not unkindly. "You'll know when the floor sings."
+Eli has heard the Cube named a hundred times in the channels and corridors of Singapore. He has never been going there. The mechanic laughs once, not unkindly. "Good. Nobody who means to go there uses this door."
 
 ---
 
-He hears the Cherry Cube before he sees it, and he hears it through the soles of his feet—a low, living vibration, as if the city has a heart and he has finally stepped onto the rib.
+He means to cut west under the grandstand.
 
-Then the shaft offers him one stolen view upward through a maintenance slit: towers lit from within, gardens suspended in salt air, the whole city promising that no appetite need ever meet an edge.
+At the first street hatch the cleaner who kicked the grate for him is gone and a barrier crew is already bolting a Circuit gate across the mouth. Practice cars somewhere above. The hatch that should have been yards is a wall of people in team colors, phones up, moving the only direction the barriers still allow.
 
-Above: the managed bloom. Cherry canopy under glass—whole trees forced into eternal spring, pink so dense it looks edible, petals falling in a wind that is not weather but engineered breath. Walkways float through the blossom like jewelry. Light comes from everywhere and nowhere. Somewhere a string section is playing something old enough to feel stolen. The Cube's glass walls hold the orchard the way a reliquary holds a saint: beautiful, sealed, priced. For three seconds Eli forgets the file, the wage ticket, the van. His throat tightens with a stupid clean awe—*this is what money can make of living wood*—and he hates that he loves it. On Pelangi the frangipani fights the paving and the rain tree chooses its own shade; here even the trees clock in.
+He tries the next shaft. Flooded. The one after that opens on a service road already parked solid with black official cars waiting for the race. A cook with a crate of limes jerks her chin the wrong way—away from the yards, toward a pink light on the underside of the cloud.
 
-The slit angles shut. Cherry Lane is directly overhead again. Below: what the temple costs. A living root has cracked the service ceiling around its inspection collar, and one wet pink petal has made it through a drain grate into the concrete dark. Someone has drawn a red box around the crack and dated it for repair. The root has grown past the date. The honest smell of rust. Water ticking. His awe does not leave; it just learns a basement.
+"That way is moving," she says. "This way is not."
 
-The shaft lets out into service levels and above him the noise is not race engines yet—it is a concert wearing a city's lungs: a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage, PA chatter in six languages, dancers' counts cutting clean through the mess. The air here is recycled and sweet, conditioned to a temperature that has no business existing outside a sealed envelope. Pipe-rattle runs under everything—water, chilled coolant, power—the sound of a structure eating its own waste. Screens six storeys tall replay a boy's face to people in dark clothes who paid to be seen watching. Black cars already idle in VIP slots for the street race that will seal the avenues after dark. Champagne flutes catch grandstand glare meant for later. Security in suits with earpieces who never raise their voices. The whole floor moves with the choreographed density of a living machine—catering dollies, cable runs, stagehands who know exactly how close to the edge they are allowed to stand. Eli stands still. He looks. Wonder before the ambush; his body knows the order even if his fear does not.
+He does not want that way. He takes it because standing still is the thing that gets noticed.
 
-On the Cube floor—glass walls, black stone, a stage that could host a summit or a kill—the scale of the room arrives before anything else. The ceiling is so high the chandeliers look like insects. The crowd is not a crowd; it is a geology, tier on tier of bodies in the dark, faces lit from below by their own screens so that for a moment Eli cannot tell which are alive and which are only reflections. Lights find him and pass over him without interest—the room is too big to notice one boy in a borrowed jacket. Dancers turn a tight spiral that never frays, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide. On the downbeat every hand in the grandstand finishes the clap together—too clean, no leftover beat for anyone who arrived late. Between feeds, the temple sells frictionless care: upgrades, identity, the future as a product you can hold. Eli came up through basement levels, through roots and rust and the city's working dark, and now the floor has opened into this—three hundred metres straight up of glass and forced spring, and the whole thing humming under his feet like a generator. His palms prickle toward the stage the way they prickled toward the gantry—wrong hunger, beautiful hunger—and he puts two fingers below his collarbone before he can be embarrassed by needing them in a room this expensive. The awe does not leave; it just learns how large the world is.
+The bass reaches him before the building does. Then petals in the gutter, too even, too many, not weather. Then a screen the size of a hull on the side of a tower, a boy's face, two syllables the crowd already knows. The street is a river of backs. Every time he tries to peel off toward the marshalling letters Wren underlined, a marshal or a fence or a body turns him back into the current.
+
+The Cube is not a destination. It is the drain the weekend pours into.
+
+He hears it through the soles of his feet before he sees the glass—a low, living vibration, as if the city has a heart and the crowd has finally stepped onto the rib. He is close enough now that the cherry light is on his hands. He tries one more alley. It dumps him against the outer shell.
+
+A stagehand dumps a freight case on him without looking. The case bites his hip. The glass is a hand's width from his shoulder, colder than the air. Light slides across it the wrong way, a half-beat behind the concert spill. Under the crowd-sound there is a pressure that is not bass. His feet want the counter-clockwise run even here, off the marked route, the way a cart wants the groove it has worn. Heat gathers at the base of his spine and stays there. He does not know what he is touching. He keeps the case moving because the river of people will not let him put it down.
+
+A slit in the service wall offers one stolen view upward: towers lit from within, gardens suspended in salt air, the whole city promising that no appetite need ever meet an edge.
+
+Above: the managed bloom. Cherry canopy under glass—whole trees forced into eternal spring, pink so dense it looks edible, petals falling in a wind that is not weather but engineered breath. Walkways float through the blossom like jewelry. Light comes from everywhere and nowhere. Somewhere a string section is playing something old enough to feel stolen. The Cube's glass walls hold the orchard the way a reliquary holds a saint: beautiful, sealed, priced. For three seconds Eli forgets the file, the yards, the van. His throat tightens with a stupid clean awe—*this is what money can make of living wood*—and he hates that he loves it. On Pelangi the frangipani fights the paving and the rain tree chooses its own shade; here even the trees clock in.
+
+The slit angles shut. Below: what the temple costs. A living root has cracked the service ceiling around its inspection collar, and one wet pink petal has made it through a drain grate into the concrete dark. Someone has drawn a red box around the crack and dated it for repair. The root has grown past the date. The honest smell of rust. Water ticking. His awe does not leave; it just learns a basement.
+
+The current takes him through a staff door he did not choose. The shaft lets out into service levels and above him the noise is a concert wearing a city's lungs: a crowd the size of a town breathing in unison, bass from somewhere that has opinions about his ribcage, PA chatter in six languages, dancers' counts cutting clean through the mess. The air here is recycled and sweet, conditioned to a temperature that has no business existing outside a sealed envelope. Pipe-rattle runs under everything—water, chilled coolant, power—the sound of a structure eating its own waste. Screens six storeys tall replay a boy's face to people in dark clothes who paid to be seen watching. Black cars already idle in VIP slots for the street race that sealed the avenues he needed. Champagne flutes catch grandstand glare. Security in suits with earpieces who never raise their voices. The whole floor moves with the choreographed density of a living machine—catering dollies, cable runs, stagehands who know exactly how close to the edge they are allowed to stand. Eli stands still. He looks. He was not supposed to be here. Wonder arrives anyway; his body knows the order even if his fear does not.
+
+On the Cube floor—glass walls, black stone, a stage that could host a summit or a kill—the scale of the room arrives before anything else. The ceiling is so high the chandeliers look like insects. The crowd is not a crowd; it is a geology, tier on tier of bodies in the dark, faces lit from below by their own screens so that for a moment Eli cannot tell which are alive and which are only reflections. Lights find him and pass over him without interest—the room is too big to notice one boy in a borrowed jacket. Dancers turn a tight spiral that never frays, and a boy made of brightness whose face is on every third drink can in the city. The crowd chants two syllables at him like a tide. On the downbeat every hand in the grandstand finishes the clap together—too clean, no leftover beat for anyone who arrived late. The heat that sat at the base of his spine against the shell climbs. For one clap it is a hand there, pressure, no fingers he can see. Then it is only the chant. Between feeds, the temple sells frictionless care: upgrades, identity, the future as a product you can hold. Eli came up through basement levels, through roots and rust and the city's working dark, and now the floor has opened into this—three hundred metres straight up of glass and forced spring, and the whole thing humming under his feet like a generator. His palms prickle toward the stage the way they prickled toward the gantry—wrong hunger, beautiful hunger—and he puts two fingers below his collarbone before he can be embarrassed by needing them in a room this expensive. The awe does not leave; it just learns how large the world is.
 
 Somebody's laugh bubbles past him—real, not on track—and then it's gone, absorbed by the clean architecture of the noise.
 
@@ -651,45 +670,55 @@ Then the capstone, slower, once — not a performance, just the room finishing w
 
 They do not look at Eli. They are not showing off. It is just something you say down here.
 
-This is the job he thought he won. Stage power, wardrobe uplink, afterparty load-in before Circuit night—the contract Wren attested before the sweep, before the wage ticket went into another man's file. Cover paper said Foundry stage crew so the corridor would open; the call sheet said Cube show. He was supposed to check in at the service gate **this morning** with a Foundry contractor lanyard and a name on a list. Instead he is coming up through the roots with grease on his hands, one night at Continue Inn behind him, and no ticket left to spend—an underdressed body in a city that only smiles at people who already belong.
+This is not the job. The job is tire trucks under the grandstand, last safety car, cash for Shireen. Cover paper said Foundry freight so the corridor would open; the call sheet said marshalling. He was supposed to be west of here at first light, never on this floor. The Circuit poured him here instead. He is an underdressed body in a city that only smiles at people who already belong, and he is inside the one building Wren told him not to go looking for.
 
-The job has two layers, and only Wren has ever admitted to knowing both. On the surface: stage power, cable runs he can read with his hands closed, the idol's afternoon concert before the cars. Underneath, words she gave him once, flat as a packing list, back in Babaji's tea room, and never repeated since: *When the crew breaks for the second set, the wardrobe closet marked maintenance. Ninety seconds. Don't look at what's inside longer than it takes to close your hand around it.*
+She also said: if the Circuit boxes you, there is a hold under the Cube that rides the same trucks. Do not go looking. He did not go looking. He is already here.
 
-The closet is exactly where she said it would be. It is not a vault. It is a **hold point**: a case tagged for the same freight manifest as the tire trucks that will roll when the Circuit starts after dark, parked here for the one hour a year when the Stack's own security is watching a concert instead of a service corridor. Circuit weekend moves cargo the way it moves crowds: in the open, under cover of being looked at. Whatever this is, someone decided it travels safer inside a spectacle than inside a vault, and Wren's people learned the manifest before the Stack finished writing it.
+He turns for the service side. The floor will not let him.
 
-Under a service light gone amber with age, a shallow case. Inside the case, wrapped in cloth the same way his mother used to wrap seedlings against the cold: three concentric circles cut into something that is not quite stone and not quite metal. Small enough to close a fist around. Old enough that his hands know it before his mind agrees to. Not a screen. Not a chip. A weight, and a cold that does not come from the air conditioning. A second scrap of paper is folded under it, no signature: *Kelong, east channel, past the third net stake. Ask for the netmaker. Don't say what it is.*
+The ceremony has no priest. It has a direction. The whole Cube walks counter-clockwise around the sealed heart, two syllables on the breath, the clap that finishes too clean. Hands find his elbows. A woman in white gloves turns him the way you turn a cart into a groove.
 
-He does not look at the circles longer than ninety seconds allow. He wraps it back, presses it flat against his ribs inside the wardrobe jacket, and is back at the cable run before the second set ends, hands steady, doing a job that was never really about cables.
+He tries to go the other way.
 
-On the way out he passes the crew catering table where the afterparty desserts are already staged—rows of small iced cakes under a warming lamp, flavor cards in a florist's hand. Most of the names are built for the Stack: yuzu, matcha, someone's idea of lychee. One card just says *pandan*, the green a shade darker than the rest—the only flavor on the table that means anything to a kid from the strait. The caterer waves him off when he reaches for one; crew eats after guests. He trades her a spliced headset cable instead, the kind his hands can do blind, and she takes it like the better end of the deal.
+The ring corrects him as one animal. Six bodies lean, a hip, a palm at his back, and he is facing the right way again. Someone behind him sighs, pleased, as if a difficult step has been demonstrated. He tries to step out. A gap opens and closes on him. His "sorry" is taken up as the next syllable of the chant. Heat climbs from the base of his spine into the clap. For one circuit it is a hand there again. Then it is only the walk, and the sealed glass goes by, and the woman in gloves pats his arm like a teacher whose slow student has finally joined.
 
-Ten minutes later, when the backstage crowd is thick with fans and security and the boy's people, he sets the cake on the corner of Wren's tablet without a word while she's checking a manifest against a headcount. She looks at it, then at him, and for one second the hostess composure actually slips. She doesn't ask how he knew. She eats half of it standing, hands him what's left, and goes back to the headcount like nothing happened—which is how he knows it landed.
+A dresser shoves a jacket at him because everyone in the inner ring is wearing one. Instantly fan-recognizable. Phones come up. He puts a hand up to say *not me*. The jumbotron catches it. Forty thousand people put a hand up. The spiral delivers him to the stage lip anyway.
 
-Eli's head starts to go. It is layered noise wearing sequins—six languages, the chant, the PA, the dancers' counts—and underneath all of it, against his ribs, a cold that has started keeping its own time. The ladder tips in his inner ear, and his hand does the old thing before he can be embarrassed by it: two fingers pressed flat below the collarbone, one long breath out through the teeth. *Stand behind the hands.* The way **she** taught him—his mother—in rooms he can barely remember, before the tower, before everything. He does not know yet that the two things in his chest—the shape under his ribs and the noise behind his eyes—are answering the same question.
+The boy made of brightness is between numbers, towel at his neck, smaller than his screens. Security already has Eli—not on the Cube list, flag from below—when the boy says, "Wait."
 
-Across the wardrobe margin, past the champagne light, a woman in a dark suit is already watching him. Not Cube security—too still, too expensive, biosecurity badge at the hip like jewelry. Soft face. Exhausted eyes. Her fingers touch her own collar once, as if checking a medal or a ring, and something in the gesture says she recognized the grounding before she recognized the boy. She does not shout. She does not need to. The hunt in this city wears suits.
+He is looking at Eli's hand, still flat below the collarbone from the walk.
 
-Security has him by the arm a second later—wardrobe margin, staff corridor, tailored vest, soft voice, a worker who is on the call sheet and not at the gate—and is turning him toward the bad kind of door when a voice says, "Wait."
+The crowd has started the next count. The boy does the fastest vouch available: he takes Eli's wrist and pulls him into the number.
 
-The boy made of brightness is standing in the staging area with a towel around his neck, between numbers, sweat cutting through the stage glass on his face. He is smaller than his screens. When he stops, everyone around him stops.
+Nobody questions a man who is clearly supposed to be up there.
 
-He is looking at Eli's hand, still flat below the collarbone.
+Eli is a beat behind. He mirrors the dancer on his left and gets the shoulder. The dancer commits to the shoulder. The row behind them commits to the shoulder. Panic under a plastered smile. He tries to leave downstage and the lights follow him; the crowd cheers the breakaway. He mouths *I'm not*—the captioning board, which has been waiting for a guest verse, renders it as a lyric and the room sings it back. He is so frightened his hands find a cable tape at the monitor wedge and press it down out of habit. The boy, mid-chorus, has to dance around a man doing facilities work on live television.
 
-"Who taught you that?" he says.
+Up close, in a partnered turn, the boy's face changes. Hairline. Jaw. The grounding. A grey frame that has been in this dressing room before. He has to keep performing through it—one missed beat, an ad-lib that keeps Eli close. Eli feels something go wrong in the man beside him and has no idea why.
 
-"My mother," Eli says.
+The number ends. The boy walks him off in the transition, still holding the wrist, still smiling for the cameras until the wing takes them.
 
-The boy comes closer. Looks at his face the way the clerk looked at his face—the shutter opening, and this time not closing. Things circulate under the Stack that the Stack doesn't know it carries; Eli understands, from the way the boy's eyes go to his hairline, his jaw, the shape of him, that a certain grey institutional frame has been to this dressing room before him.
+"Who taught you that?" he says, not the smile.
 
-"She sat with me under a stairwell once," the boy says, not to security, to Eli. "Four hours. I was fourteen and the noise came and everyone else went to get someone, and she just—stayed. She taught me the fingers and the breath. She never wrote any of it down. She said records are for people you don't intend to come back to." A muscle moves in his jaw. "Then she came back. Every time, until she didn't."
+"My mother."
 
-"You're late," the security chief says, reading from a tablet. "Holt. Facilities. Wardrobe power, not—" He gestures at the service lift Eli came out of, then frowns at the screen. "And a flag from below—harbor-thread room, wrong corridor. You walk like you belong and you stand like you listened." He adds, quietly, the way people manage the weather around a star: "Two songs left." The boy nods without looking away from Eli.
+The shutter stays open. "She sat with me under a stairwell once. Four hours. I was fourteen and the noise came and everyone else went to get someone, and she just—stayed. She taught me the fingers and the breath. She never wrote any of it down. She said records are for people you don't intend to come back to." A muscle moves in his jaw. "Then she came back. Every time, until she didn't."
 
-"I can't come," he says, and it is not an apology, it is arithmetic—the dancers, the crew, the chanting town of people whose safety is his schedule. "But my show leaks. Wardrobe corridor to the afterparty load-in, then the freight ramps once Circuit seals the streets—it's cleared for my own people, and someone has already been moving bodies through my leak **today**, so one more is nothing." One corner of his mouth. "You have her face. Try to keep it."
+"You're not on this list," the security chief says, catching up, tablet already lit. "Holt. Facilities. Marshalling, west yards, not—" He gestures at the stage they just left, then frowns at the screen. "And a flag from below. Two songs left."
 
-When he looks back for the woman in the dark suit, the margin is empty. The table has already rearranged.
+"I can't come," the boy says, and it is arithmetic—the dancers, the crew, the chanting town. "But my show leaks. Wardrobe to afterparty load-in, then the freight ramps. Someone has already been moving bodies through it **today**." One corner of his mouth. "You have her face. Try to keep it."
 
-They put a wardrobe jacket on Eli because everything in the corridor wears one. For eleven metres a barrier-gap of fans sees him and screams on principle—a surprise guest, a new member, phones up, a wall of lit hands. The corridor holds. Nobody touches anyone. Then he is through, down, into afterparty staging: cable crates, champagne cases, a sound check for a room that will fill when the concert empties. Outside the Cube glass, dusk is already thickening. Avenues are being sealed for the Singapore Circuit—the one night the Stack shuts its own arteries so machines can go in circles under drone light. Engines warm in packs. Screens switch from the boy's face to cars. And again—worse this time, because he has already been soft for the bloom and the concert—the cars come through the underpass like poured light, rivers of tail-lamp red mapped across the dark city, a hundred thousand faces upturned and lit, the whole vertical world dressed in its own reflection.
+When Eli looks back for the woman in the dark suit at the wardrobe margin, the table has already rearranged. Soft face. Exhausted eyes. Collar touched once, like a medal. The hunt wears suits. She is already gone.
+
+The closet is where Wren said it would be if he ever had to use it. Concert still running. Security still watching the encore, not the corridor. A shallow case under a service light gone amber. Inside, wrapped the way his mother used to wrap seedlings: three concentric circles cut into something that is not quite stone and not quite metal. A scrap of paper: *Kelong, east channel, past the third net stake. Ask for the netmaker. Don't say what it is.*
+
+He does not look longer than ninety seconds allow. He presses it flat against his ribs inside the jacket and is back in the current.
+
+On the way out he passes the crew catering table—rows of small iced cakes, flavor cards in a florist's hand. Most of the names are built for the Stack. One card just says *pandan*. The caterer waves him off; crew eats after guests. He trades her a spliced headset cable, the kind his hands can do blind, and she takes it like the better end of the deal.
+
+Ten minutes later he sets the cake on the corner of Wren's tablet without a word. She is checking a manifest against a headcount she did not expect him to be inside. The hostess composure slips for one second. She doesn't ask how he knew. She eats half of it standing, hands him what's left, and goes back to the headcount.
+
+Outside the Cube glass, dusk is already thickening. Avenues sealed. Screens switch from the boy's face to cars. The Circuit that poured him in is now the only way out—rivers of tail-lamp red, a hundred thousand faces upturned and lit, the whole vertical world dressed in its own reflection.
 
 Then diesel air and the smell of hot rubber. The tire trucks are marshalling under the grandstand ribs like the city's honest machinery: black logistics under champagne light.
 
@@ -987,6 +1016,18 @@ He drinks. For the length of the swallow the world has only one surface.
 "I don't know what your noise wants," the keeper says. "I know what the cup
 wants." She goes back to the lamp. Hospitality has been offered. No explanation
 comes with it.
+
+The lamp smokes. She unscrews the glass and wipes it on her singlet.
+
+"Depot sold me kerosene cut with water," she says.
+
+Eli holds the chimney in a rag from the plastic tub. She hooks the drowned wick
+out with the fish-knife. The glass is still too hot. They wait. She reseats it,
+still dissatisfied.
+
+"You knock that with an elbow," she says, "I send you swimming after Salmah."
+
+The lamp burns cleaner. She goes back to the fish.
 
 ---
 
@@ -1345,6 +1386,12 @@ The five days are work he learns by repetition, the way you learn a port.
 
 Before dawn, one bell. Sitting: breath in four, out six; when the count breaks, name where it broke and return. Walking: heel to toe on sala tiles until the foot on the tile brings the mind back. Eating: one bowl, one mouthful at a time—the platform cup, smuggled into a kitchen, made into a clock. Work: sweep, carry water, stack wood. Afternoon: attention through the body, the bright wire behind the left temple mapped, not fixed. Evening: stand behind the hands. Fourth night: one quiet wish toward Wren on the landing—*May you be safe*—sent without receipt.
 
+The third afternoon the abbot sets a stub of tallow on the sala floor and lights it. No talk. Eli is to look at the flame until his eyes water, then close them and keep the bright shape. The first time the afterimage jumps and dies. The second time he holds it until it thins. The third time the thinning happens sooner, and the heat that has been sitting under his sternum since Malacca thins with it—not gone, just finished asking him to run. He opens his eyes. The candle is ordinary again. He can still feel the river on his throat. The feeling no longer owns the next movement.
+
+He tries it that night on the rope-burn in his palm from Pelangi. Stare. Close. Hold the inverse. The sting stays. The story about the sting (*sabotage, father, hunt*) loosens a half-step.
+
+The fourth afternoon the abbot points at a sala post, then at Eli's sternum, then at the post again. No talk. Eli looks at the post until it is only wood: grain, a nail scar, light. Then the heat under the bone, which still wants a father and a file. Then the post. Then the heat. After a while the sternum is just another object in the room, the way the post was. The heat has not left. He can look at it the way he looked at the post.
+
 On the fifth morning tea and a nod release him. He has not become calm. He has become arranged.
 
 "You will lose it," the abbot says. "Return."
@@ -1572,7 +1619,7 @@ The first hour is stance and the check that keeps a blade from owning the wrist.
 
 "Dim it or stop. Lighting up is not winning."
 
-He dims it with the wat stack. She nods once—not praise, permission to continue.
+He does the candle in his head: stare at the heat in the palms, close, hold the inverse until the urge to throw it finishes. The flare thins. She nods once—not praise, permission to continue.
 
 Wren watches from the bund mark without entering the pad. After, when Eli's forearms shake, Kru Dao hands him water and says, "Tomorrow. Same hour. If the white cars come, you run first and fight only if the run ends. I am not making a champion. I am making someone who can leave a room alive."
 
@@ -2013,6 +2060,16 @@ At the landing, frogs have already returned to the trampled margin. A kingfisher
 
 "Still mine," Wren says. "Still on a clock I cannot see from here. That is why we leave with half."
 
+She takes a folded house sheet from the inner pocket of her bag — three lines, Asha's name at the top, a receiving blank at the bottom — and gives it to Kitt with two coins.
+
+"South," she says. "Not with us."
+
+Eli looks at the paper.
+
+"Not your freight," Wren says. "Return rights on every attestation I have signed this year. If I go into a ditch tomorrow the house still has to honor them."
+
+Malai watches Kitt tuck the sheet into his shirt. She does not ask whose names are on it.
+
 "And yours," Malai says to Eli.
 
 "Still the father." He hears how thin it sounds against forty families and a burned pump house. "And the debt."
@@ -2033,7 +2090,7 @@ divides under the fields. The boat takes the channel north.
 
 The first road north is four days south of home.
 
-At a freight office above the Chiang Rai bus yard, a dispatcher lays three routes across a scarred table. The fan pushes diesel air through the room. Buses reverse below with the patient beeping of hospital machines.
+At a freight office above the Chiang Rai bus yard, a dispatcher lays three routes across a scarred table. The fan pushes diesel air through the room. Buses reverse below with the patient beeping of hospital machines. The dispatcher slaps the fan housing once, as if that had ever worked, and tells nobody in particular that the spare motor has been on order since the coup before last.
 
 East is an official passenger line with cameras at every transfer.
 
@@ -2934,17 +2991,20 @@ crossing bridges upstream. The contact branches faster than his mind can
 follow. No branch reports to another. They touch through ground and water,
 separate and alive.
 
-The Tree of Life was never one tree.
+On the wall, a conservation card in three languages names the bronze
+*Sacred Tree*. Someone has penciled under the English, small and sure:
+*not one trunk*.
 
 Rasel says, "Now."
 
 Eli knows which route is true.
 
+He tries the candle. Stare at the pull in the chest. Close. Hold the inverse. The inverse will not form. The ask is still a person in the room.
+
 He lifts the mask anyway.
 
 The bronze is cold against his forehead. The first breath tastes of old metal.
-On the second, the tree, the ley network, and every live root under the annex
-open through him.
+On the second, the tree and every live root under the annex open through him.
 
 Rasel's instruments wake.
 
@@ -3167,7 +3227,8 @@ fingers. She waits there, leaving the distance to Eli.
 "Maren," he says. "Tell me where she is."
 
 "I don't know where she is now. Two winters ago a courtesy request crossed my
-desk from the Charkha. She corrected the field equation in her own hand."
+desk from an office that does not use our letterhead. She corrected the field
+equation in her own hand."
 
 Rasel touches the stitched edge of his lab cuff.
 

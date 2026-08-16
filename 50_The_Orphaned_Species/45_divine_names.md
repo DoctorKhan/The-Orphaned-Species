@@ -22,45 +22,46 @@ Both systems share one inherited grammar: a remote creator-father at the apex, a
 
 | Function | Mesopotamian | Canaanite / Ugaritic | Hebrew (Deut 32 / Ps 82 layer) | Book 5 placement |
 |---|---|---|---|---|
-| Remote creator-**father**; presides but recedes | **An / Anu** | **El (ʾIlu)**, "father of the gods" | **El Elyon**, the Most High | Apex of the **elder Anunnaki** (the creator generation) |
+| Remote creator-**father**; presides but recedes | **An / Anu** | **El (ʾIlu)**, "father of the gods" | **El Elyon**, the Most High | Apex of the **Anunnaki** (the parent gods) |
 | Mother-**consort** | Ki / Antu | **Athirat / Asherah** | the suppressed Asherah ("Yahweh and his Asherah") | already in the timeline |
 | Chaos-**sea** that is slain | **Tiamat** | **Yamm / Lotan** | *tehom*, "the deep" | Tiamat, organic creation itself |
 | Younger **storm-king** who kills the sea and takes kingship | **Marduk** | **Baal (Hadad)** | traits later absorbed by Yahweh | the **Igigi** champion |
-| The divine **assembly / offspring** | **Anunnaki** = "seed of An" | **sons of El** (*bn ʾil*) | the **seventy sons / gods of the nations** | the **Igigi** administrative tier |
+| Parent **gods** / the father's own generation | **Anunnaki** = "seed of An" (the gods, children of Anu) | El's household; *ilm* | **Elohim** (the gods) | the **Anunnaki** |
+| Territorial **children** / allotted assembly | the **Igigi** given lands | **sons of El** (*bn ʾil*) | the **seventy** / *bene elohim* of the nations | the **Igigi** (bird-children of the gods) |
 | One **territorial** son | a city-god | a son of El | **Yahweh**, given Israel as his portion | one Igigi-tier authority |
 
-Two rows are not loose analogies but near-identities, and they carry the bridge:
+Two identifications carry the bridge:
 
-- **Anunnaki** literally parses as *"the offspring / seed of An"* — exactly mirroring *bn ʾil*, "the sons of El." The divine assembly is "the children of the high father" in both tongues.
+- **Anunnaki** literally parses as *"the offspring / seed of An"* — the gods as children of Anu. Hebrew *elohim* is that class-word. The **seventy** and the Enochic Watchers remember the next rung: the **children of the gods**, especially the Igigi given nations. Canaan often collapses the two rungs into one assembly; Mesopotamia keeps parent and child distinct.
 - **Tiamat ↔ *tehom*** ("the deep" of Genesis 1:2) are cognate. The slain chaos-sea survives into the Hebrew creation account as the formless deep over which the spirit moves.
 
 ---
 
 ## Where the elder / younger split lands
 
-The Anunnaki (elder/creator) vs. Igigi (younger/controller) split is the book's moral spine, so the Hebrew/Canaanite names have to **align with it** without forcing. They do:
+The Anunnaki (parent gods) vs. children of the gods (Apkallu / Igigi) split is the book's moral spine, so the Hebrew/Canaanite names have to **align with it** without forcing. They do:
 
-- **The receding father** — Anu = El = Elyon — sits at the head of the **elder/creator** side. Both Anu and El are famously *otiose*: present at the top, rarely acting. **This is load-bearing for the orphan thread:** a father who has receded is a father who can be *forgotten* — and then *re-invented* (Phase VIII). The Most High humanity later worships is the ghost of the real, withdrawn Anu, reinflated by the orphaned provisioning instinct firing into a vacuum. The invented father is shaped like the real one it half-remembers.
+- **The receding father** — Anu = El = Elyon — sits at the head of the **parent** generation. Both Anu and El are famously *otiose*: present at the top, rarely acting. **This is load-bearing for the orphan thread:** a father who has receded is a father who can be *forgotten* — and then *re-invented* (Phase VIII). The Most High humanity later worships is the ghost of the real, withdrawn Anu, reinflated by the orphaned provisioning instinct firing into a vacuum. The invented father is shaped like the real one it half-remembers.
 
-- **The elder spirit council** — canon places the original Anunnaki after embodied history on the **spirit plane** as **Anu + 26 others**. This gives the receding-father motif a concrete metaphysical register: Anu is not merely absent; he presides from a non-embodied council that can steer Earth only indirectly. Do not confuse this with the **seventy sons** below. The twenty-seven-seat council is the higher elder register; the seventy are the territorial administrative memory.
+- **The parent spirit council** — canon places the original Anunnaki after embodied history on the **spirit plane** as **Anu + 26 others**. This gives the receding-father motif a concrete metaphysical register: Anu is not merely absent; he presides from a non-embodied council that can steer Earth only indirectly. Do not confuse this with the **seventy territorial children** below. The twenty-seven-seat council is the parent register; the seventy are Igigi given lands. Hebrew *elohim* names that parent generation. *bene elohim* names the next.
 
 - **Eli's name is Canaanite substrate.** His given name **Eli** pulls back to **El**, the receding father of the Canaanite pantheon — not as a claim that Eli *is* El, but as the grammar of a son whose mother-indexed matrilineal name (`95` Eli entry) sits in the same river Maren noted with a question mark he cannot yet read. The Eli/El/Asherah homology is the Canaanite counter-tension to the Charkha wheel-tradition's embedded grammar.
 
-- **The active conqueror** — **Marduk = Baal** — is the **Igigi** champion: the younger storm-king who slays the chaos-sea (Tiamat / Yamm). Canon already makes Marduk Igigi and his killing of Tiamat the thesis statement (mechanical control killing organic creation); Baal is simply the Canaanite memory of the same act.
+- **The active conqueror** — **Marduk = Baal** — is the **Igigi** champion: the storm-king among the children who slays the chaos-sea (Tiamat / Yamm). Canon already makes Marduk Igigi and his killing of Tiamat the thesis statement (mechanical control killing organic creation); Baal is simply the Canaanite memory of the same act.
 
-- **The seventy sons / "gods of the nations"** are the **Igigi administrators** parceling out human populations (Deut 32:8–9, where El Elyon divides the nations among the divine sons). **Yahweh = one of them**, a territorial divine authority given Israel — matching the existing glossary/timeline reading of Yahweh as "one of the seventy sons of El." *A reconstructed roster of these sons — recovered through Ugaritic god-lists, the biblical national gods, and toponymy (Beth-Horon, Beth-Shemesh, etc.) — is compiled in `46_divine_council_roster.md`.*
+- **The seventy / "gods of the nations"** are the **Igigi** parceling out human populations (Deut 32:8–9, where El Elyon divides the nations among the *sons of God*). **Yahweh = one of them**, a territorial authority given Israel. Texts say sons; the people includes whoever holds the office. *A reconstructed roster — recovered through Ugaritic god-lists, the biblical national gods, and toponymy (Beth-Horon, Beth-Shemesh, etc.) — is compiled in `46_divine_council_roster.md`.*
 
-Nothing in the Sumerian layer bends: Anu stays apex-creator, Marduk stays the Igigi sea-slayer, the assembly stays the administrative cohort.
+Nothing in the Sumerian layer bends: Anu stays apex-creator, Marduk stays the Igigi sea-slayer, the territorial assembly stays the Igigi.
 
 ---
 
 ## Two scriptures that do the work for us
 
-**Deuteronomy 32:8–9** (Dead Sea Scrolls / LXX reading): *El Elyon* fixes the borders of the peoples "according to the number of the sons of God," and Yahweh receives Jacob/Israel as his allotted portion. → This is the **Phase VI territorial administration**: the apex father parceling human populations among the divine council (the Igigi). Use it as the canonical image of the control-era carve-up.
+**Deuteronomy 32:8–9** (Dead Sea Scrolls / LXX reading): *El Elyon* fixes the borders of the peoples "according to the number of the sons of God," and Yahweh receives Jacob/Israel as his allotted portion. → This is the **Phase VI territorial administration**: the apex father parceling human populations among the Igigi. Use it as the canonical image of the control-era carve-up. The text says sons; the allotment is a people.
 
-**Psalm 82**: *Elohim* stands in the divine council and judges the *elohim* for ruling the nations unjustly — *"You are gods, sons of the Most High, all of you; nevertheless you shall die like men."* → This is the book's thesis already written in scripture: the elder apex (Anu / El Elyon) condemning the corrupt administrative generation (the **Igigi**) and **mortalizing** them. It is the **War in Heaven and the Abandonment in Hebrew dress** — the gods sentenced to die like men is the memory of the controllers' fall and withdrawal.
+**Psalm 82**: *Elohim* stands in the divine council and judges the *elohim* for ruling the nations unjustly — *"You are gods, sons of the Most High, all of you; nevertheless you shall die like men."* → This is the book's thesis already written in scripture: the parent apex (Anu / El Elyon) condemning the fallen Igigi and **mortalizing** them. It is the **War in Heaven and the Abandonment in Hebrew dress**. The sentence names those who took the throne, not every bird-child who kept the watch.
 
-Scheme note: this is why we keep the **divine council = Igigi**, rather than folding the council back inside the Anunnaki. Psalm 82 only pays off if the judged council is the controller generation.
+Scheme note: keep the **judged council = fallen Igigi**. The psalm uses the parent class-word for both the judge and the judged because later Hebrew collapsed the two rungs into one council-vocabulary. *Elohim* the judge is Anu. The *elohim* he condemns are the children who seized administration. Folding the condemned assembly back inside the Anunnaki would tidy the word and lose the sentence.
 
 **Arslan Tash Amulet 1 (AT1)** adds a compact and deliberately contested artifact witness. In the working translation selected for the project, the covenant oath invokes **ʿOlam, Asherah, all the sons of El, and the great council of all the Holy Ones**, bound by Heaven and Ancient Earth. Its narrative value is the structure, not proof of the canon: father, mother, sons, and council coexist inside one protective household object. Because the amulet's antiquities-market provenance, authenticity, damaged readings, and even the identification of Asherah have been debated, characters must argue from comparative evidence rather than using it as a decoder ring. See `35_artifact_chain.md` and `90_epigraphs_and_sources.md`. **Cherub/throne imagery** on Near Eastern protective objects may rhyme with threshold guardians (`00_MASTER_TIMELINE`) — **full angelic-orders taxonomy ON HOLD** (`46` § H).
 
@@ -111,13 +112,20 @@ Keep one homology load-bearing and let the rest be texture:
 
 ---
 
-## "Elohim" — leave it as the fossil
+## "Elohim" — Hebrew class-word for the Anunnaki — LOCKED 2026-08-15
 
-Do **not** pin *Elohim* to a single faction. Its grammar is the point. *Elohim* is morphologically **plural** ("gods / the assembly") yet gets used as a **singular** high God. That collapse — **plural council → single father you kneel to** — is "find a father, kneel" fossilized in one word, exactly parallel to the chariot-tongue welding submission into its very name for *god* (\*Dyḗus ph₂tḗr, see `37_deep_time_source.md` and timeline Phase IX).
+*Elohim* is the Hebrew class-word for the **gods**. In this canon the gods are the **Anunnaki**. Pin that as the default.
 
-- *Elohim* (plural) = the divine assembly = the **Anunnaki/Igigi council in the broad sense**.
-- *Elohim* (singular high God) and *El Elyon* = **Anu**, the receding father.
-- The contraction of the one into the other = the monotheizing move.
+The word is morphologically plural and later liturgy uses it as a singular high God. That grammar still pays: the assembly hardens into one father you kneel to, the same monotheizing move already tracked in `37_deep_time_source.md` and timeline Phase IX. The class underneath the hardening is the parent generation.
+
+Read the uses this way:
+
+- *Elohim* (the gods, the parent assembly) = the **Anunnaki**.
+- *El*, *El Elyon*, and *Elohim* as the one Most High = **Anu**, the receding father at the head of that assembly.
+- *bene elohim* / "sons of God" / "sons of the Most High," when the text is nations, Watchers, or the judged territorial council = the **children of the gods** (Apkallu and Igigi). Keep those words when quoting.
+- Psalm 82 uses one word for both rungs. *Elohim* the judge is Anu. The *elohim* he condemns are the fallen Igigi who took the nations. Later Hebrew no longer separated parent and child in vocabulary; the sentence still lands on the children who seized administration. Leave the judged council on the Igigi side.
+
+Embodiment is a chapter of one life. The Anunnaki walk in Phase IV and later sit as Anu + 26 on the spirit plane (`95`). *Elohim* and *Anunnaki* name that same generation on both sides of the change.
 
 ---
 

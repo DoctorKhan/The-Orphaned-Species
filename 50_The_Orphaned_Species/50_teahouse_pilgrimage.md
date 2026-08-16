@@ -152,7 +152,7 @@ civil death. Personal possessions remain personal property. Full ownership and
 custody rules: `64_entropic_allocator_perimeters.md` § *Ownership, custody, and
 theft*.
 
-**Distinct from cloister animal houses — REVISED AND LOCKED 2026-08-01:** men's cloisters use **animal houses** (**Stag**; folk speech may say **Deer**; **Fox, Bear, Salmon, Ox**) as enduring mentorship lineages for learning adult capacities and later guiding younger members (`40` § *Cloister animal houses*). They are not temperaments, jobs, security specialties, political blocs, or civic ranks. Teahouse/pilgrimage clans here remain **chosen kin from shared life**, not pedagogical lineages. Do not merge the systems, and never let AI or health metrics assign either. Crow retired so bird/flight language stays free for swifts coda and Book V flights.
+**Distinct from cloister animal houses — REVISED AND LOCKED 2026-08-01:** men's cloisters use **animal houses** (**Stag**; folk speech may say **Deer**; **Fox, Bear, Salmon, Ox**) as enduring mentorship lineages for learning adult capacities and later guiding younger members (`40` § *Cloister animal houses*). They are not temperaments, jobs, security specialties, political blocs, or civic ranks. Teahouse/pilgrimage clans here remain **chosen kin from shared life**, not pedagogical lineages. Do not merge the systems, and never let AI or health metrics assign either. Crow retired so bird/flight language stays free for swifts coda and Book IX flights.
 
 Minimum protections:
 
@@ -168,7 +168,7 @@ Seasonal gatherings and cloister intervals may use **antiphonal lay forms** from
 
 The network's balance is not sameness. It is **difference remaining in relationship**.
 
-## Neo-śramaṇas and flights — Book V maturation — LOCKED 2026-08-01
+## Neo-śramaṇas and flights — Book IX maturation — LOCKED 2026-08-01; shelf 2026-08-15
 
 The pilgrimage eventually produces wandering practitioners whom later speakers
 call **neo-śramaṇas**. The name describes a family of renunciant and
@@ -180,7 +180,7 @@ extraordinary insight to ordinary care. A neo-śramaṇa may travel alone, keep 
 teahouse, join a flight, leave the practice, use technology, raise children, or
 hold no sanctuary clearance.
 
-By Book V, primarily young travelers begin forming seasonal **flights** along
+By Book IX, primarily young travelers begin forming seasonal **flights** along
 the pilgrimage and work routes. Bird names are chosen and temporary; they name
 a journey, not a human type. Flights move skills, labor, songs, seed, tools,
 medicine, news, and research observations between settlements. They grow from

@@ -27,6 +27,8 @@
 > conditions, not as adopted metaphor. No bird appears on the page.
 
 > **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–14 and the **Three pressure rules** (Clock A = keep the rescued world from re-caging; Clock B = Wren-network jurisdiction vs public power + registry/Lang/Sol; cost → next chapter). Beats: `33_volume_III_beatsheet.md`.
+>
+> **Wonder floor on-page — 2026-08-16:** Living Root grows in view (Ch 1 fig/shade); talking stone warms under a hand before vocabulary (Ch 7); test mass *ticks* before the paper (Ch 4); Ch 8 spends a conductor; handover hall sits on live Heather ground (`22`).
 
 > **Governing draft begun 2026-07-28; Ch. 10 revised 2026-07-29.** Present tense, close third. Eli remains
 > the home consciousness; Wren receives only the locked away movements in
@@ -91,6 +93,11 @@ Fear moves out from that person and returns carrying everyone else's fear with
 it.
 
 The harbor answers.
+
+A fig the stevedores swore was dead last week has put out two leaves over the
+customs-house drain. Nobody planted it. The mud street behind the fish market
+holds a print of shade that was not there when they landed. Eli sees the leaves
+first and only then the screens.
 
 Screens wake in cabins where nobody has touched them. A mooring alarm sounds on
 the Ver-o-Peso pier. Three black vultures leave the iron roof of the old customs
@@ -890,6 +897,25 @@ being used without supervision.
 
 "Your shortcuts are eventually more so."
 
+Behind him a calendar is taped to a cabinet. One Friday in October is circled
+twice. A board packet sits under a coffee ring: CONTINUITY RECERTIFICATION —
+ANNEX ARRAY. Rasel does not turn to it.
+
+"I have until that Friday," he says, to Wren, because she will hear a date.
+"They want a reference model I can record. If I miss the board they transfer
+the staff line and run the cadence on whoever is left."
+
+Wren looks at the circle.
+
+"And if you make the model they want?"
+
+"They will fire it as one rhythm." He takes the glasses off. "I need a model
+the board will file and the staff line can survive."
+
+Eli starts to speak. Rasel is already looking at Bima's curtain.
+
+"Wash cycles," he says. "Tonight."
+
 Eli listens from the window.
 
 Outside, residents have built a second line beside the kitchen. One for food.
@@ -1352,6 +1378,16 @@ The council admits him for thirty days.
 Nobody applauds.
 
 Mei serves breakfast.
+
+Eli takes a bowl and stands where he will not be in her way. In the middle of
+an unrelated sentence about rice he says, to no one in particular, that his
+mother used to have work in Singapore sometimes. Once she brought him as a
+baby. Mei does not look up from the pot.
+
+"I know," she says. "I told you that."
+
+He had forgotten she was the one who told him. He does not treat it as a
+lead.
 
 ---
 
@@ -2527,6 +2563,87 @@ Lang turns the form around. The coordinator field is blank.
 
 ---
 
+That night the Union protocol office fills it.
+
+The signatory list has no box for *provisional coordinator*. The roster
+sorts upward. By the time Wren finds the invitation it already says
+reception, seated dinner, principal.
+
+Eli arrives in the one good layer he owns over the same facilities shirt he
+wore on the dock. Salt still in the cuff. The protocol officer looks at the
+cuff, then at Eli, then at the cuff again, and his face clears the way a
+man's face clears when a puzzle has been kind to him.
+
+"Understatement. Very good, sir. The Chair prefers principals to enter
+from the river side. This way."
+
+The long corridor passes a nameless door. The guard snaps upright. Eli
+nods because the man is looking at him. The guard nods harder. Someone
+behind them writes *inspected* on a board Eli cannot see.
+
+A junior staffer at the turn loses a tray of glasses.
+
+Eli is under it before the glass reaches the stone. He sets the tray on
+the sideboard, restacks two flutes, and says, "Sorry—"
+
+"No, Excellency. Thank you." The staffer is already backing away, grateful
+and terrified.
+
+The room has decided he meant to do that.
+
+Acting Continuity Chair Orla Finch is already seated. Grey jacket. No
+jewelry. A face that has been on a survival roster so long it has forgotten
+other lists exist. The card in front of him says **HOLT**. The announcer
+at the door said *His Excellency*. Wren, at the far end among the
+observers, has a fork halfway to her mouth and has not moved it.
+
+They pour him the wine Finch did not touch. He leaves it. Two aides leave
+theirs. Finch glances at his glass, then at her own, and does not drink.
+
+"Your delegation," she says.
+
+"Three people. A healer. A boat."
+
+The note-taker two seats down writes without looking up. Wren can see the
+page from where she sits: *foreign minister, interior, defense / surgeon
+general / flag vessel*. She does not correct it. Correcting it would
+embarrass the office that seated them.
+
+A man across the table asks about force projection.
+
+"We have a boat," Eli says again.
+
+"Coastal." The man nods, impressed. "Asymmetric. We should have thought
+of that."
+
+Eli eats the bread because it is bread. Someone takes this as a signal
+that the first course may begin. The first course begins.
+
+Finch speaks to him the way she speaks to people who also have bunkers.
+He answers the way he answers Suresh. How many covers. Whether the pass
+door sticks. Who is about to drop the next tray. She likes him for not
+making a speech. She likes him more when he stands up in the middle of
+hers to tighten the podium cable that has been buzzing against the
+microphone since they sat down.
+
+"What is your mandate?" she says, after the room has decided the cable
+was a security demonstration.
+
+"Time-limited. Reviewable. I'd rather be elsewhere."
+
+Silence. Someone starts to clap and stops. Everyone else at the table
+was appointed for life.
+
+Finch's mouth does something that might be a smile if it had more
+practice.
+
+"Then you will be easy to work with."
+
+The seating card stays in the file. In the morning the cable will say
+*His Excellency*. Nobody in this room will think they made a mistake.
+
+---
+
 The expendability ledger is in an annex.
 
 Eli finds it because the Standard's evacuation model fails to reconcile three
@@ -2660,16 +2777,41 @@ Rasel looks at the control trace.
 Eli thinks of Sanxingdui: branching not as decoration but correction moving
 between unlike parts. He does not know the equation.
 
+Park throws a charged-ground overlay onto the side screen while the lattice
+cools. Correlation sites. One pin sits on Singapore, tight against a glass
+footprint he already knows from underneath. Service perimeter. Counter-
+clockwise groove. A labeled annex flush to the Cube's sealed wall — research,
+not shrine.
+
+The heat that sat at the base of his spine that Sunday comes back without
+the concert. Mei's pot. *His mother used to have work in Singapore
+sometimes.* The idol's face going wrong mid-number. *Who taught you that?*
+Same building. Two people who never compared notes. He puts two fingers
+below his collarbone and does not say the sentence out loud.
+
+Rasel sees the pin and looks away first.
+
+A courier slate on the bench shows the same October Friday. Park has been
+copying his traces for a Continuity packet he has not signed.
+
+"They will take this overlay whether I send it," he says.
+
+Park does not look up. "Then send one they cannot fire as a single input."
+
 He points to the place where the lattice response flattens.
 
 "Here. You keep speaking after it answers."
 
 Park reduces the next pulse and lets the return change the following input.
 
-The test mass does not disappear.
+The test mass ticks.
 
+Not a vanish. A sideways hitch, as if the hanging weight had been asked a
+question in a room next door and leaned to hear it. The cable does not swing.
 One clock loses eleven nanoseconds against its paired reference, then regains
 seven from a direction the timing array was not built to describe.
+
+Eli's mouth goes dry. Park's hand stops above the abort.
 
 Nobody calls it proof.
 
@@ -3741,6 +3883,16 @@ represented by one face. Nobody removes them.
 
 Lang's Standard is not under negotiation here.
 
+A Union cable arrives mid-morning addressed to **His Excellency E. Holt,
+coordinator**. It treats the compact as an instrument between states,
+because that is how the dinner was filed. Wren reads it twice.
+
+"They think you signed as a head of state."
+
+"I sat down."
+
+"That's enough for their lawyers."
+
 That matters.
 
 They are not writing a weaker version of his system.
@@ -4560,6 +4712,11 @@ The basalt markers answer the seed ledger on the ninth evening.
 
 Not speech.
 
+Eli puts his palm on the nearest stone before anyone opens a book. The basalt
+is warmer than the night air. Under the skin of his hand a slow pulse answers
+once, like a well taking a bucket, and then is only rock again. He takes the
+hand back. Nobody has filed it yet.
+
 The ledger is a modern field book made from older growers' records: which
 varieties survived salt, ash, drought, wind, and neglect; who shared cuttings;
 which introductions escaped cultivation; which plants should not be brought
@@ -5036,6 +5193,13 @@ The field becomes a people with no exit.
 
 Compact communities hold three smaller corridors nearby. Their volunteers can
 leave. Their signals are weaker. One route collapses under attack.
+
+The collapse spends a conductor. On the windward slope a stone alignment that
+has hummed under Malia's night checks since they arrived goes quiet between
+one breath and the next. The taro in the adjacent terrace lies down as if a
+hand had passed over it. Eli feels the hum cut out in his teeth. No one has
+a name for the alignment that is not a grower's name. The name does not
+matter. The ground has been billed.
 
 Hawaiʻi is asked for its harbor, its communications, and every compatible
 awakened person.
@@ -6625,6 +6789,12 @@ This is what slow government looks like when nothing is trying to kill it.
 The repair hall has no ceremonial dignity.
 
 Its roof trusses still carry load ratings. Two gantries hang above the delegate floor. Machine bays hold medical stations, food, and the seven certification desks, spaced far enough apart that no single blast radius could touch more than two. The public enters through doors wide enough for freight.
+
+The hall sits on Heather ground. Eli feels it as soon as he takes his seat: a
+lift behind the eyes, the urge to be certain, the same false genius the Union
+loyalists wear like weather. He puts both soles flat and waits until the lift
+is only a room. The transfer has to happen here anyway. The ground does not
+get a vote. It only gets to be felt.
 
 Outside, first-cloister crews manage the perimeter beside local defenders.
 

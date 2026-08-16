@@ -326,7 +326,7 @@ Mindful eating is not about restriction or dieting. It is about transforming one
 
 Many people experience profound suffering in their lives because they are unable to discuss certain topics or explore certain areas of their mental landscape. This suffering stems from over-identification—much like watching a movie and becoming so absorbed in the characters that you forget you're sitting in a theater.
 
-When you're over-identified with the "character" of your life story, certain thoughts, memories, or possibilities become too threatening to examine. The character has too much at stake. The ego-identity feels like it would be destroyed by honest investigation of these areas, so it creates unconscious barriers, emotional charges, and avoidance patterns that keep these territories unexplored.
+When you're over-identified with the "character" of your life story, certain thoughts, memories, or possibilities become too threatening to examine. The character has too much at stake. The ego-identity feels like it would be destroyed by honest investigation of these areas, so it creates unconscious barriers, charges, answering emotions, and avoidance patterns that keep these territories unexplored.
 
 **The Anatta Shift: Recognizing You're Not In the Plane**
 

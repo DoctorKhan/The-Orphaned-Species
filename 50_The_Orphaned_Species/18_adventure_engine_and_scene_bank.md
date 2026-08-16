@@ -256,17 +256,17 @@ These are not final beats. They are adventure shapes that can be combined, repla
 
 **Setting:** Disputed military zone on the Turkish–Syrian border buffer. Joint Turkish military / international heritage consortium controls access; Lang's Standard embedded as civilian research overseer. Managed-access heritage masks reactivation of the buried instrument.
 
-**Ancient layer:** ~9600 BCE. Aru carves the fox-pillar; Daskar refuses and buries the instrument. The site is the first ground-side response to the Heaven-fall — an unstable contact made permanent in stone. Apkallu division: interpreters (snake / teahouse) who read and transmitted, and non-interpreters (bird / registry) who maintained but did not interpret. The interpreter side is silenced; the registry side becomes institutional.
+**Ancient layer:** ~9600 BCE. Aru carves the fox-pillar; Daskar refuses and buries the instrument. The site is the first ground-side response to the Heaven-fall — an unstable contact made permanent in stone. Children of the gods: interpreters (Apkallu / snake / teahouse) who read and transmitted, and non-interpreters (Igigi / bird / registry) who maintained but did not interpret. The interpreter side is silenced; the registry side becomes institutional.
 
 **Present-day controllers:** Lang's Standard operates inside the consortium as civilian research overseer. The site is managed-access heritage — authorized teams only. The interpreter-side trench system is cordoned as "unstable excavation" / military storage. The registry-side enclosures (tour-accessible T-pillars) remain open.
 
-**Why sneak in:** Eli's group needs the fox-pillar void. The open side is monitored but routine; the sealed side is where the buried instrument lives. Entry is through the open registry-side enclosures, then descent into the sealed interpreter trench — using the Apkallu division itself as the entry route.
+**Why sneak in:** Eli's group needs the fox-pillar void. The open side is monitored but routine; the sealed side is where the buried instrument lives. Entry is through the open registry-side enclosures, then descent into the sealed interpreter trench — using the two-children split itself as the entry route.
 
 **Eli's contact:** At the fox-pillar void, buried stone geometry redirects living conductors. The registry side hums with institutional command-frequency. The teahouse side holds the silenced interpreting practice. Aru and Daskar become present-tense here. Eli reads the site as a field: one frequency commanding, one frequency waiting to be read.
 
 **Adventure object:** terrain, pillar shadows, survey stakes, buried void, sound test, missing stone, weather front, fox-pillar seal.
 
-**Rule learned:** stones redirect living conductors; burial can decommission an interface; the Apkallu division is physical — one side open, one side sealed, and the seal is the argument.
+**Rule learned:** stones redirect living conductors; burial can decommission an interface; the two-children split is physical — one side open, one side sealed, and the seal is the argument.
 
 **Trick:** old maps lead a pursuing team to the open registry-side (the dead site). Living observations point to the sealed interpreter trench.
 

@@ -23,7 +23,7 @@ Understanding NPC consciousness becomes clearer when we recognize it as part of 
 
 1. **Bacterial and Viral Forms**: Learning basic survival and replication patterns
 2. **Simple Organisms**: Developing basic stimulus-response mechanisms
-3. **Animal Forms**: Mastering emotional charges, territorial behavior, social dynamics
+3. **Animal Forms**: Working with charges and the emotions that answer them, territorial behavior, social dynamics
 4. **Human Form**: The "advanced level" requiring mastery of complex charges, archetypes, and meaning-making systems
 
 Each level provides training in controlling increasingly sophisticated "character features"—the charges and behavioral patterns that define that form of consciousness.

@@ -1,6 +1,6 @@
 # The Orphaned Species — Architecture
 
-*The overall structure of the whole work. **One work, three concentric layers,** with the Novel as the only door a reader must walk through. The deeper layers are optional descents — and that descent re-enacts the thesis. (Companion to `Thesis.md`, `00_NARRATIVE_STRUCTURE.md`, `00_MASTER_TIMELINE.md`.)*
+*The overall structure of the whole work. **One work, three concentric layers,** with the Novel as the only door a reader must walk through. The deeper layers are optional descents — and that descent re-enacts the thesis. (Companion to `Thesis.md`, `00_NARRATIVE_STRUCTURE.md`, `00_MASTER_TIMELINE.md`. What is current: `00_INDEX.md`.)*
 
 > **ROUTE AND CAST SUPERSESSION — LOCKED 2026-07-27:** `58_sanxingdui_climax_lock.md` governs. Book I ends at **Sanxingdui** with Rasel **refused and staying by choice**, the distributed Tree of Life recognized, Wren's house standing and safe return lost after she signs the civilian evacuation, and Qiao's clearance lost. Nobody is captured there. Göbekli / Mesopotamia move to Book II. **Emrys does not exist in this version.**
 

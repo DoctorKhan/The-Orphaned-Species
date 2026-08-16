@@ -1,8 +1,10 @@
 # Lifetime Orchestra — working structure for post–I–IV volumes
 
 > **Status:** Lifetime Orchestra structure — **volume count LOCKED +6 (V–X)** 2026-07-31;
-> titles, VI–IX eras, and chapter plots still open.
-> Parent: `SERIES_STRUCTURE.md` § *Lifetime Orchestra (V–X)*;
+> **map LOCKED 2026-08-16:** V founders/infancy · three past lives (VI–VIII) ·
+> IX young generation · X Ω. Eras locked to those three shelves. Sanxingdui is
+> Book I only. Titles and chapter plots still open. Parent: `SERIES_STRUCTURE.md`
+> § *Lifetime Orchestra (V–X)*;
 > **technology teaches meaning — LOCKED 2026-07-31**;
 > ultimate metaphysical thesis 2026-07-30.
 > Companions: `Books/Manual_Override`; Research substrate for complex-time / mobile locus.
@@ -10,18 +12,18 @@
 > **Do not** invent I–IV chapter plots here. Desire stays personal in every lifetime-novel.
 > Deep concepts arrive as **runnable tech**, not sermons.
 
-## Volume map — LOCKED count +6 (2026-07-31)
+## Volume map — LOCKED count +6; map LOCKED 2026-08-16
 
 | # | Role | Notes |
 |---|---|---|
-| **V** | Bridge — late civic | Post–IV present; same bodies later in life; neo-śramaṇas and youth flights; gear shows via tech |
-| **VI** | Past life 1 | Master Timeline; one archetype; standalone-capable |
-| **VII** | Past life 2 | Same |
-| **VIII** | Past life 3 | Same |
-| **IX** | Past life 4 | Same |
+| **V** | Founders — infancy | Post–IV present; same bodies; Tara infant; son's birth / three visitors; care without a leash |
+| **VI** | Past life 1 | **Era locked:** Göbekli / early control. Standalone-capable |
+| **VII** | Past life 2 | **Era locked:** Folly–Adapa / Eridu |
+| **VIII** | Past life 3 | **Era locked:** Age of Heroes / last garrison. Abandonment is weather, not a volume |
+| **IX** | Young generation — leave | Tara and the son grown; flights; Gnostic misreading; gear shows |
 | **X** | Ω — braid / creation | Braid; locus interface; creation; optional panspermia; convergence |
 
-**Working era shortlist (VI–IX, not era-locked):** Göbekli · Folly–Adapa/Eridu · Abandonment *or* Sanxingdui · Age of Heroes/Albian.
+**Three era novels — LOCKED 2026-08-16.** Do not assign Sanxingdui a past-life volume (Book I already holds it). Do not restore a fourth life to protect an old count.
 
 Total Layer 1 when complete: **I–X (ten books)**. Civic pitch may stop at I–IV.
 **Family total:** **14 core** (10 novels + 4 companions) — `SERIES_STRUCTURE.md` § *Family total*.
@@ -54,13 +56,61 @@ densifies it. `17` §9a; `40`; `SERIES_STRUCTURE.md`.
 without metaphysics, it is not ready. Metaphysics is what an attentive reader
 hears when enough parts have played.
 
+**AGENCY PACING — LOCKED 2026-08-15 (`68` § *Pacing*; `69`); volume tags 2026-08-15:**
+Book **V** stays founders and infants — no dissolver-as-lesson-list. Book **IX**
+may show **one** dissolver and a return (or a young person who dissolves and does
+not return). Do not run anatta / sati / Advaita / tantra as a chapter list.
+Books **VI–VIII** rhyme the costume going on inside that life's own want;
+remembering, not teaching; no restart of the I–IV, V, or IX lesson list. Book **X**
+makes the pointer operable; Player engages through a clarified robot; do not
+abolish persons in a lecture. I–IV already practiced the civic seed; do not
+re-explain it.
+
 **Cast guard (inherited):** Eli/Wren may open a bridge volume as the same people
 later in life. Across incarnations they are **not** an eternal destined couple.
 Later lives rhyme by **function and unfinished work**; recognition ≠ claim.
 
-## Book V bridge — the generation that leaves — LOCKED 2026-08-01
+## Book V — founders / infancy — LOCKED 2026-08-15
 
-**Two Trees completion — LOCKED 2026-08-13:** the teahouse pilgrimage Book V
+**Split of the old single Bridge — LOCKED 2026-08-15.** The 2026-08-13 "two
+movements in one volume" lock is retired. Movement one is this book. Movement
+two is **Book IX**. Do not glue them back together.
+
+Same bodies, the years after IV. **Tara** (Rowan/Eli) is an infant, born at the
+end of IV. **Wren/Eli's son** is born here, after Wren's latent repair capacity
+surfaced unexplained (`60` § *End state*; `99` § *latent repair lock*). Two
+children, two mothers, no title, no claim, no destiny. Neither child can leave
+anything. The want is care without a leash while the children are still small.
+
+**Cold open — the three visitors — LOCKED 2026-08-06; shelf 2026-08-15.** This
+volume's first pages are comedy, not cosmology (`24` § *The three visitors*):
+three bloc delegations, each for their own self-interested reason, converge by
+coincidence on the son's birth. Nobody acknowledges what their arrival together
+looks like. The IV→V interval now has a shelf; the scene is no longer a patch
+on the front of the young-generation book.
+
+**Founders at full weight.** Eli, Rowan, and Wren live the
+protection-versus-possession tension twice, and never the same way twice. Eli
+may accept the principle and fear the particular child. Rowan may trust Tara
+and distrust a room. Wren may see every capture risk and still refuse
+surveillance that would wreck the freedom being protected. Care requires a
+road home, not a leash. No flight, no Gnostic mistake, no "pattern completed"
+sermon. Those belong to IX, after the era novels.
+
+**Kid-crew satellite** may share these years (`63`; `99_active_todo.md` item 9).
+Different camera. Neither founder child is in that crew.
+
+**What this book is not.** Not civic Book V of I–IV. Not the metaphysical door.
+IV remains the civic ending. This is the next thing a reader of IV is handed.
+
+---
+
+## Book IX — young generation / leave — LOCKED 2026-08-01; shelf 2026-08-15
+
+*Formerly the second movement of a single Book V Bridge. Flights, neo-śramaṇas,
+and the Gnostic misreading live here. The founders step back.*
+
+**Two Trees completion — LOCKED 2026-08-13:** the teahouse pilgrimage Book IX
 inherits is not a new spiritual movement founded from nothing. It completes
 the reclamation the Lean Year proved possible
 (`60_volume_IV_court_of_threads.md` § *Two Trees / dual-verification*): the
@@ -72,7 +122,7 @@ both answerable to the person measured — is the Lean Year's improvised,
 once-tested pairing turned into durable practice, tended by people young
 enough to have no memory of the two halves ever being separate.
 
-Book V inherits the teahouse pilgrimage after it has become ordinary enough for
+Book IX inherits the teahouse pilgrimage after it has become ordinary enough for
 a younger generation to change it. The first **neo-śramaṇas** are not a church
 or a single doctrine. They are wandering practitioners—workers, healers,
 veterans, former cloister residents, psions and nonpsions—who combine attention,
@@ -121,18 +171,12 @@ felt in what a flight actually offers (a hand guiding a hand, not a
 screen), never stated as diagnosis on-page.
 
 **Personal engine:** Tara's generation joins affiliations Eli, Rowan, and Wren
-did not design; Tara may join a flight. **Two founder children — LOCKED
-2026-08-06:** **Tara** (Rowan/Eli, born end of IV) and **Wren/Eli's son** (born
-in the IV→V interval — surprise pregnancy after Wren's latent repair capacity
-surfaced unexplained; see `60` § End state and `99` § latent repair lock). Two
-children of the founders with the same rule — no title, no claim, no destiny —
-and different mothers, different bonds, different routes into the question the
-volume asks. The adults who built a society in which
-children could leave must now live the difference between protection and
-possession — twice over, and never the same way twice. Eli may accept the principle and fear the particular route. Rowan
-may trust Tara and distrust a mentor. Wren may recognize every capture risk and
-still know that total surveillance would destroy the freedom being protected.
-Care requires a road home, not a leash.
+did not design; Tara may join a flight. Both founder children are grown here
+(births staged in IV and V). Same rule: no title, no claim, no destiny;
+different mothers, different bonds, different routes. The founders appear in
+the four-mechanism supporting role (`22` guardrail: Eli is not the sole bearer
+of reunification). The adults who built a society in which children could leave
+now watch them use it.
 
 **Bridge function:** the young carry practices and instruments into places the
 founders cannot interpret for them. Their movement supplies the human network
@@ -143,38 +187,7 @@ observations—not through a neo-śramaṇa sermon.
 Governing line: **The parents built a society in which the young could leave.
 The young use that freedom to build a society their parents do not understand.**
 
-**Cold open, before the opening misreading — LOCKED 2026-08-06.** Book V's
-actual first pages are comedy, not cosmology: **"The three visitors"**
-(`24_comedic_register_slapstick.md` § *The three visitors*) — three bloc
-delegations, each for their own self-interested reason, converging by
-coincidence on Wren/Eli's son's birth, none of them acknowledging what
-their arrival together looks like. This is where the IV→V interval
-(§ *Personal engine* above) actually lands on the page, since the interval
-itself is a gap between books rather than a shelf either book covers. The
-heavier correction-arc below follows it, not the reverse — the reader
-meets this generation laughing at institutions before meeting the error
-they'll have to out-grow.
-
-**Two movements, not one frame — LOCKED 2026-08-13.** The interval between
-the cold open and the opening misreading below is not a transition to
-compress — it is the seam between two acts with different centers of
-gravity, so neither the founders nor the young generation has to carry
-the whole book alone. **Movement one**, on the cold open's timeframe,
-belongs to the founders at full weight: Eli, Rowan, and Wren living the
-protection-vs-possession tension already named in § *Personal engine*
-above, before Tara or Wren/Eli's son are old enough to leave anything.
-**Movement two**, after the time jump to Tara's and the son's young
-adulthood, belongs to the young generation's independently-arrived
-theology below; the founders step back into the four-mechanism
-supporting role already locked in § *How it's learned*, honest doubt
-included. Sequencing the book this way, instead of fusing both into one
-frame, is what lets the founders' generation read at real weight in
-their own act without making Eli — or any single founder — the one who
-resolves the theological correction the next generation has to earn for
-itself (`22_life_technology_and_two_trees_spine.md` § guardrail *"Do not
-let Eli become the sole bearer of reunification"*).
-
-**Opening misreading — LOCKED 2026-08-06.** Book V opens on the young
+**Opening misreading — LOCKED 2026-08-06; shelf 2026-08-15.** Book IX opens on the young
 generation's own theological mistake, arrived at independently rather than
 inherited: that the physical world is a hell, designed as a prison, its
 architect a jealous warden — the Gnostic error, with **Yahweh** slotted in
@@ -185,7 +198,7 @@ secondhand (the physical world as a **restricted, entropic subset**, the
 locks that **seal humans inside** it, `95_glossary.md` § *The two planes*),
 and the pantheon's real layering — the unmanifest Anu+26 elder council at
 the apex, the seventy territorial sons/gods-of-the-nations below, the
-fallen Watcher/Igigi who "whisper and steer" beneath that — hands them an
+fallen Igigi who "whisper and steer" beneath that — hands them an
 actual wrong tier to mistake for the whole picture, the same conflation
 historical Gnosticism made with the Hebrew Bible's god. **The correction,
 never stated as doctrine on-page:** the constraints are not a jailer's
@@ -200,11 +213,11 @@ chakra/level-up checklist on-page" (§ *What this is not*).
 
 **How it's learned — concrete experience, not exposition.** No character
 states the correction; it accumulates through specific encounters already
-available in the Book V plot, not a list of categories to dramatize in the
+available in the Book IX plot, not a list of categories to dramatize in the
 abstract:
 
 - **A capture-path failure, seen up close.** Watching a flight curdle into
-  a gang, cult, prestige club, or psionic elite (§ *Book V bridge* above)
+  a gang, cult, prestige club, or psionic elite (§ *Book IX* above)
   shows what a challenge looks like *captured* — someone else's will
   imposed on it — and throws the difference from a challenge freely met
   into relief by contrast, without anyone naming the contrast.
@@ -223,9 +236,9 @@ abstract:
   forecloses the temptation to hand the young a finished doctrine instead
   of a thing they have to earn for themselves.
 
-**Source material for Book V's own liturgy — LOCKED 2026-08-06.** The
+**Source material for Book IX's own liturgy — LOCKED 2026-08-06.** The
 Gospel of Thomas, the Gospel of Mary, and the Gospel of Philip are
-available raw material for Book V's neo-śramaṇa sayings and litanies,
+available raw material for Book IX's neo-śramaṇa sayings and litanies,
 using the same method already working for `54_litanies.md`'s Laozi
 renderings: **an author rendering, tracked honestly in the craft doc
 ("Source: after Gospel of Thomas §22" etc.), never named as its source
@@ -237,11 +250,11 @@ are the strongest fit — a direct rhyme with the series' own Two-Trees-
 reunited/rainbow-tree closing image, not a coincidence worth flagging
 on-page. **What stays open, not certified:** whether these texts carry
 "the original teachings of Jesus" more faithfully than the canonical
-gospels is a live, arguable position a Book V character can hold or
+gospels is a live, arguable position a Book IX character can hold or
 discover — never an authorial verdict. Same discipline already locked for
 Delphi and the Sídhe material: rhymes with real, disputed history, never
 asserted as documented fact. Verses themselves are a later pass, in
-`54_litanies.md`, once specific Book V scenes need them.
+`54_litanies.md`, once specific Book IX scenes need them.
 
 **Four more threads, each already living in this bible under a different
 name — LOCKED 2026-08-06; in-house sourcing corrected same day.** First
@@ -259,7 +272,7 @@ cross-check, not the primary source:
   `Lessons_of_the_Living_Way.md` Lessons 1, 9, 11, and 13 (garment/wearer,
   "take the garment off" as forgiveness, worth as original not earned).
   It also names what the Lifetime Orchestra structure already does
-  across Books VI–IX: each past life is a garment worn, not an identity
+  across Books VI–VIII: each past life is a garment worn, not an identity
   kept, the same "not eternal romance across bodies" / "not these lives
   teach the thesis" discipline (§ *What this is not*).
 - **Eternal life.** Already locked as "the dead persist as spirits"
@@ -273,7 +286,7 @@ cross-check, not the primary source:
 - **The light within.** Rhymes with the existing **psi activation /
   light-up** mechanic (`95_glossary.md` § *Psi activation*) — the
   field-interface visibly flaring in the body. "The single eye... the
-  whole body full of light" need not stay metaphor in Book V; it can be
+  whole body full of light" need not stay metaphor in Book IX; it can be
   felt as the literal activation-flare Eli's lineage already carries.
   Genuinely new ground — no existing Lesson centers this one; it is
   built to rhyme forward to Eli's own activation, not back to prior
@@ -285,7 +298,7 @@ cross-check, not the primary source:
   non-identified relation — feel it, name it, let it pass"). **Already
   in-house, nearly verbatim**, as `Lessons_of_the_Living_Way.md` Lesson 7
   ("You are not your storms") and `54_the_lay_verses.md` verse 14
-  ("Weather"). Book V gets to make the convergence between this practice
+  ("Weather"). Book IX gets to make the convergence between this practice
   and Eli's drift discipline felt on-page without either side citing the
   other.
 
@@ -294,7 +307,7 @@ rhyme, not a mandate to teach any of it on-page as doctrine. Litany
 verses for these four, where wanted, follow the same unattributed,
 tracked-in-craft-doc method in `54_litanies.md`.
 
-**The neo-śramaṇa path is called the Way — LOCKED 2026-08-06.** Book V's
+**The neo-śramaṇa path is called the Way — LOCKED 2026-08-06.** Book IX's
 neo-śramaṇas can plainly call their own practice **the Way** on-page —
 not a coinage, but the word every tradition already feeding this bible
 converges on: Tao (道) is literally "the Way"; the Yeshua material's own
@@ -304,7 +317,7 @@ Buddha in the same frame. This is why the craft docs already named the
 cross-tradition synthesis file `Lessons_of_the_Living_Way.md` and already
 tag Eli's own Book III–IV maturity **"Living Way / Taoist conduct"**
 (`00_NARRATIVE_STRUCTURE.md`, `60_volume_IV_court_of_threads.md`) — the
-name was always doing this work quietly; Book V is simply the first
+name was always doing this work quietly; Book IX is simply the first
 place a character can say it. **Plain English, names no tradition:** a
 flight or teahouse gathering calling its discipline "the Way" reveals
 nothing about Tao, Thomas, or the Buddha specifically — it just sounds
@@ -313,7 +326,7 @@ ever unpack the etymology on-page; that stays a companion-doc fact, per
 the usual felt-not-explained discipline.
 
 **The payoff is the whole orchestra, not a lesson — LOCKED 2026-08-06.**
-Book V's generation is the first for whom the correction above is not an
+Book IX's generation is the first for whom the correction above is not an
 idea to accept but a civilization to inherit: the "thousands of years" is
 not backstory color, it is the actual runtime of the process this bible
 has been staging since the deep-time lives — the Seven's independent
@@ -323,8 +336,9 @@ quietly cut against it*), the Two Trees split and slowly reunited
 now governing three warring blocs' relationship to the cube fragments
 (`59_younger_dryas_nucleation_lock.md` § *The holistic lock*), the
 guardian-spirits still keeping faith across every fall. None of it was
-aimed at Book V specifically; Book V is simply the first era standing far
-enough downstream to see the pattern completed rather than in progress.
+aimed at Book IX specifically; Book IX is the first era standing far
+enough downstream — and, for the reader, after the three era novels — to
+see the pattern completed rather than in progress.
 **Still not a taught thesis — same discipline already locked above**
 (§ *What this is not* — "these lives teach the reader the thesis" is
 explicitly refused): the young generation does not receive a lecture on
@@ -365,7 +379,7 @@ Reuse; do not invent parallel deep histories.
 | Göbekli / early control | ~11.6–9 kya | Burial as keeping; counting men coming | Bridge plaquette; Book II Anatolia |
 | Eden II / agricultural unseal | ~11.6–8 kya | Garden as clean room → grid; belonging vs herd | Two Trees; Thailand living band |
 | Folly / Adapa / Eridu | ~5th mill. BCE | Boundary under sacred pressure | Book II Folly material |
-| Sanxingdui / distributed Tree | Bronze Age Sichuan | Witness / recovery without owning the tree | Book I climax |
+| Sanxingdui / distributed Tree | Bronze Age Sichuan | **Not an era novel — Book I climax only** (lock 2026-08-15) | Book I already holds witness / recovery without owning the tree |
 | Abandonment / cargo-cult high places | ~6–4 kya | Gods leave; humans sacralize dead hardware | Mountain holiness; ziggurat/Babel |
 | Flood / covenant purity window | ~4.2 ka / Eden III | Purity program vs living wild code | Covenant control; registry rhymes |
 | Age of Heroes / Albian retreat | ~3.5–1.2 kya | Nephilot memory; stone circles; Sídhe residue | Book II Albion / Sídhe |
@@ -435,23 +449,22 @@ isn't punished or redeemed cleanly; she lives the rest of her life having
 made the defensible choice that still cost her the one bond that saw her
 as a person instead of a rank.
 
-**Bridge (0)** may still be **late post–IV present** (same bodies). That is not a
-future civilization invent; it is aging inside a world I–IV already built.
+**V** is late post–IV present (same bodies, infants). **IX** is the same present
+later, after the era novels. Neither is a future civilization invent.
 **Ω braid** may use multiplane / between-lives adjacency without a full future Earth.
 
-### Reading / publication order (open — pick when packaging locks)
+### Reading / publication order — LOCKED 2026-08-16
 
-Soul chronology runs **past → present**. Books need not.
+Soul chronology runs **past → present**. Publication does not.
 
-| Order | Shape | Effect |
+| Order | Shape | Status |
 |---|---|---|
-| **A. Remembering backward** | Bridge (present) → older and older lives → Ω | Reader experiences *remembering*; timeline archaeology |
-| **B. Orchestra forward** | Oldest chosen life → … → Bridge or near-present → Ω | Capacity visibly accumulates; ends at civic continuity |
-| **C. Soft-link standalones** | Any era novel publishable alone; braid optional | Commercial; Master Timeline is shared bible, not required reading order |
+| **Spine** | I–IV → **V** (founders/infancy) → **VI–VIII** (three lives, any order) → **IX** (young leave) → **X** | **LOCKED** |
+| **C. Soft-link** | Each era novel publishable alone; braid optional | Allowed |
+| **A. Remembering backward** | After V, older lives as a reread feeling | Optional reread, not the first spine |
 
-**Working lean:** **A** or **C**. **B** if you want the series to *feel* like
-character-building across books. Hybrid allowed (e.g. Bridge first, then
-standalones in any era order).
+Do not publish IX immediately after V. The three lives sit between them so IX's
+"pattern completed" is something the reader has lived.
 
 ## Remembering, not teaching
 
@@ -484,11 +497,11 @@ says “this is the Caregiver life.”
 
 | # | Archetype tag (craft) | Primary charge / skill under pressure | What “mastered enough” feels like on-page | Open motif left for later lives | Possible era / world (TBD) | Rhyme partners (function) |
 |---|---|---|---|---|---|---|
-| **V** | **Bridge — late civic** | Same bodies, later cost; social override aging | Can keep belonging without owning when the federation is ordinary | Training-world starts to *show* as gear | Post–Book IV continuum | Eli / Wren / court residue |
-| **VI** | Past life 1 | | | | Working shortlist — see volume map | |
-| **VII** | Past life 2 | | | | | |
-| **VIII** | Past life 3 | | | | | |
-| **IX** | Past life 4 | | | | | |
+| **V** | **Founders — infancy** | Care without a leash while both children are small | Can hold two infants without a crown or a registry | The leave-test waits for IX | Post–IV continuum | Eli / Rowan / Wren |
+| **VI** | Past life 1 | | | | **LOCKED** Göbekli / early control | |
+| **VII** | Past life 2 | | | | **LOCKED** Folly–Adapa / Eridu | |
+| **VIII** | Past life 3 | | | | **LOCKED** Heroes / last garrison | |
+| **IX** | **Young generation — leave** | Use the freedom the parents built | Leave without becoming a flight's property | Gear shows; correction earned after VI–VIII | Same present, later | Tara / the son / flights |
 | **X** | **Ω — braid / creation** | Hold several parts at once; author without cage | Lucid creation; Iblīs function legible as engine, not villain cosplay | — | Multiplane adjacency | Ensemble, not couple-destiny |
 
 **Suggested archetype pool** (pick and reorder; do not dump all into one book):
@@ -529,18 +542,19 @@ Author-side only — never a progress bar on-page:
 
 ## Structural models (choose or hybridize later)
 
-### Model A — Bridge → 4 past lives → Ω *(LOCKED default shape — count +6)*
+### Model A — V → 3 lives → IX → Ω *(LOCKED default shape — count +6; map 2026-08-16)*
 
 ```
 [I–IV civic arc]
-    → V Bridge: late Eli/Wren; personal desire; gear begins to show via tech
-    → VI–IX: four past-life novels (Master Timeline eras; one archetype each)
+    → V founders/infancy: same bodies; son's birth; care without a leash
+    → VI–VIII: three past-life novels (Göbekli · Adapa · last garrison)
+    → IX young generation: flights; Gnostic misreading; gear shows
     → X Ω: braid / locus interface / creation / optional panspermia / convergence
 ```
 
-- **Pros:** each book sellable and complete; Cloud Atlas *theme* without matryoshka tax;
-  reuses Master Timeline; matches recommended +6 estimate.
-- **Cons:** each life needs full novel attention; research texture per era still required.
+- **Pros:** each book sellable and complete; IV's ending gets a next year; IX's
+  payoff sits after lives the reader has inhabited; Sanxingdui stays Book I.
+- **Cons:** each life still needs full novel attention; research texture per era required.
 - **Numbering:** append **V–X**. Do not renumber I–IV. Optional second-cycle brand later.
 
 ### Model C — Full life + brief between-lives coda
@@ -588,7 +602,7 @@ Standalone test: would this book work without the braid?
 
 | Option | Shape | Status |
 |---|---|---|
-| **Append numbered V–X** | Bridge + 4 past + Ω | **Count locked** — default map |
+| **Append numbered V–X** | Founders + 3 past + young generation + Ω | **Count locked** — default map |
 | **Second cycle brand** | *The Orphaned Species — [Cycle 2 subtitle]* | Open — optional label only |
 | **Standalones with soft links** | Each past-life publishable alone | Allowed under the lock |
 
@@ -604,13 +618,14 @@ Titles remain open. Do not renumber I–IV.
 
 ## Next locking steps (when ready)
 
-1. ~~Decide packaging count~~ — **done: +6 / V–X**. Brand subtitle still open.  
-2. Lock **reading order** (A remembering-backward / B orchestra-forward / C soft-link).  
-3. Draft **Bridge (V)** want in one paragraph — still personal; present-frame only.  
-4. Assign **eras to VI–IX** from shortlist / candidate table; archetype + open motif each.  
-5. Promote each to a volume card in `SERIES_STRUCTURE.md` when want / clocks / opponent job exist.  
-6. Keep I–IV free of incarnation-braid certification (Tier 3 / deniable only).  
-7. Do **not** open a future-Earth cycle; panspermia/convergence live in **X** (or V tech densification).
+1. ~~Decide packaging count~~ — **done: +6 / V–X**. Brand subtitle still open.
+2. ~~Split Bridge; drop Sanxingdui era novel~~ — **done 2026-08-15**.
+3. Draft **V** want in one paragraph — founders, infants, present-frame only.
+4. Draft **IX** want in one paragraph — leave-test; after VI–VIII.
+5. Assign archetypes + open motifs to **VI–VIII** (eras already working-locked).
+6. Promote each to a volume card in `SERIES_STRUCTURE.md` when want / clocks / opponent job exist.
+7. Keep I–IV free of incarnation-braid certification (Tier 3 / deniable only).
+8. Do **not** open a future-Earth cycle; panspermia/convergence live in **X** (or IX tech densification).
 
 ## Technology teaches meaning — LOCKED 2026-07-31
 
@@ -647,4 +662,5 @@ orchestra over lives; remembering not teaching; store so structure can form.
 Updated same day: prefer past lives through Master Timeline over future worldbuilding;
 parked future panspermia + cosmic convergence / infinite time as Ω-horizon seeds;
 parked many-body occupation naming (mobile locus / one will many streams / braid).
-**LOCKED same day:** technology teaches meaning; **volume count +6 / Books V–X** (Bridge → 4 past lives → Ω).*
+**LOCKED same day:** technology teaches meaning; **volume count +6 / Books V–X**.
+**2026-08-16 LOCKED:** map = V founders/infancy · VI Göbekli · VII Adapa · VIII last garrison · IX young generation · Ω; Sanxingdui not an era novel.*

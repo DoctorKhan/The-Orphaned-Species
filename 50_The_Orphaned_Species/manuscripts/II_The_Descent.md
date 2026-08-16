@@ -2,15 +2,15 @@
 
 > **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29; delivery upgrades 2026-07-31; pitch/visual revised 2026-08-01:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–20 and the **Three pressure rules** + **Five delivery upgrades** (Clock A Maren/rescue vs Clock B Wren-network/registry/**Sol**; antagonist weekly jobs; cost → next; density parity; cast chemistry; ring-first causal hook / tree-led visual identity). Dual-clock map: `55` § *Book II — dual-clock & cost→next map*. Beats: `32_volume_II_beatsheet.md`.
 
-> **Governing draft begun 2026-07-28; Rasel revised 2026-08-11.** Present tense, close third. Eli remains
-> the home consciousness; Somchai and Wren receive only the locked away
-> movements in `32_volume_II_beatsheet.md`. This manuscript begins the morning
-> after Book I's Sanxingdui refusal and follows the authoritative ten-chapter
-> spine. **Traveling-party Rasel prose below is retired quarry** until rebuilt
-> for Rasel-absent Book II (`58` § *Book II relocation*). The brief Sanxingdui
-> away-scene after the Rollright seizure is governing: Rasel sees his calibration
-> used against Eli and corrupts the training reference. Retired Book II prose in
-> other files is quarry, not reader sequence.
+> **Governing draft begun 2026-07-28; traveling-Rasel quarry rebuilt 2026-08-16.**
+> Present tense, close third. Eli remains the home consciousness; Somchai and
+> Wren receive only the locked away movements in `32_volume_II_beatsheet.md`.
+> This manuscript begins the morning after Book I's Sanxingdui refusal and
+> follows the authoritative ten-chapter spine. **Rasel remains at Sanxingdui by
+> choice.** He is on-page only in the brief Sanxingdui away-scene after the
+> Rollright seizure, where he sees his calibration used against Eli and corrupts
+> the training reference. Retired traveling-party Rasel prose in other files is
+> quarry, not reader sequence.
 >
 > **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1 Three Circles three-way read + Rasel entropy sentence (*signal you could record completely…*); Ch 2 Adapa wrong-first destiny hunger; Ch 6 Extra settlement unnoticed twin incomplete circles (Loop hatch-mark only — no street name). Ancient face = Sídhe/Göbekli/Folly. Craft lock: `17` § *Deep-time residue density*; beats: `32`.
 >
@@ -18,7 +18,7 @@
 >
 > **Egypt — brief Turning / packet only — LOCKED 2026-08-01:** not a volume open. Ch 1 westbound Nile House / Mandate corridor Turning **or** Ch 2 Egyptian comparative packet. Job: BAC survival by hardening divine kingship. Contested Mesopotamia→pharaoh claim only. Book III = Mandate-face only (`32`, `33`, `61`).
 >
-> **Location contraction — LOCKED 2026-08-01; Ch 8 Anglesey cut 2026-08-10:** ~6–7 body-arrivals; church ⊂ Ch 6 Pömmelte; Ch 7 Rollright+Men-an-Tol one corridor; Ch 8 Rollright→Stonehenge corridor transit, no separate island geography; Ch 9–10 Stonehenge→Avebury one climax run. Every stop: chase next-door + relationship cost (`32`, `61`).
+> **Location contraction — LOCKED 2026-08-01; Ch 8 Anglesey cut 2026-08-10; Laurel on the road 2026-08-16:** ~6–7 body-arrivals; church ⊂ Ch 6 Pömmelte; Ch 7 Rollright+Men-an-Tol one corridor; **Delphic Games → Laurel night = present-tense stop after Ch 3**, then Thrace clinic; Ch 8 Rollright→Stonehenge corridor transit; Ch 9–10 Stonehenge→Avebury one climax run. Every stop: chase next-door + relationship cost (`32`, `61`).
 >
 > **Delivery package — LOCKED 2026-08-01; Rasel revised 2026-08-11:** mother Clock A every chapter + dual-clock delivery cards Ch 1–10; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Antika/Anika/Custodian pressure carries instrument function); Sol @ Extra settlement; Ch 8 one-way Maren contact only; term budget; antagonist face-per-stretch; gap-fillers wired — hearth/*flow* Ch 6, Maren moral wound, Somchai depth-scan Ch 4, Sora, Parade drip, Maren's field notebook living correction, Somchai hard no late Ch 9 (`32` § *Book II delivery package*; `58` § *Book II relocation*).
 >
@@ -28,43 +28,24 @@
 
 ## Chapter One—What Came Home
 
-The first thing Rasel gives his son is bad advice about tomatoes.
+Eli unfolds the strip on an empty propagation tray and holds the crease flat
+with his thumb.
 
-"Cut that one."
+Dawn has reached the condemned teaching greenhouse without warming it.
+Condensation runs the glass and picks up black dust from the demolition site
+next door. The irrigation controller ticks once and fails to start a cycle.
 
-Eli is holding the yellow plant upright while his father works a strip of lab
-cuff around the stake. Dawn has reached the university greenhouse without
-warming it. Condensation runs down the glass and gathers black dust from the
-demolition site next door. The tomato has six leaves, one hard green fruit, and
-the exhausted posture of something kept alive beyond the intentions of the
-building around it.
+Most of the strip is Maren's field equation in her own hand. At the bottom she
+changed pens.
 
-"It's the only branch with flowers."
+*Babu—if this reaches you, ask me why I stayed.*
 
-"It is also split."
+The fold has worn white through *why*. Beside the last line of the equation, a
+second notation in older ink, same slant, arrows a branching sketch. Someone
+has written *tree?* in the margin and crossed it out. He took the paper last
+night. He has not yet decided what taking it permits him to do.
 
-"It can scar."
-
-"It can rot."
-
-Rasel says this with the calm of a man discussing somebody else's plant. His
-left hand shakes against the knot.
-
-Eli watches the tremor. Rasel sees him watching and puts the hand in his pocket.
-
-Two hours ago Eli believed his father was behind reinforced glass. Now they are
-arguing in a condemned greenhouse about whether a damaged stem deserves a
-chance. The mind should know what to do with this. His does not.
-
-"Leave it," Eli says.
-
-Rasel studies him, then the plant. "Your garden."
-
-Not a blessing. Jurisdiction.
-
-Eli braces the split with a second strip.
-
-At the far end of the greenhouse, Wren tries her credential again.
+At the far end of the benches, Wren tries her credential again.
 
 The screen turns red before she finishes pressing her thumb to it.
 
@@ -73,7 +54,7 @@ The screen turns red before she finishes pressing her thumb to it.
 She turns the screen face down on an empty propagation tray. The standby
 routing notice that should follow a red screen does not arrive. The silence
 lasts exactly as long as a routing system waits before offering alternatives.
-It does not offer any. The silence is not a failure. It is a message.
+It does not offer any.
 
 Qiao Wen is on the other side of a call, speaking softly enough that the words
 do not carry. He has been trying one institution after another since before
@@ -94,14 +75,14 @@ angry about being horizontal.
 
 "It wasn't meant for you."
 
-Luo looks toward Rasel. "Can the collar still reach her?"
+Luo looks at the collar. "Can it still reach her?"
 
-Rasel does not answer immediately. He has spent ten years learning what silence
-costs under observation and has brought the habit out with him.
+Sora does not answer immediately. She has spent the night learning what
+silence costs when the question is about her own neck.
 
-"The command layer was local," he says. "The conditioning is not."
+"The command layer was local," she says. "The conditioning is not."
 
-Sora laughs once and stops when the movement reaches her shoulder.
+She laughs once and stops when the movement reaches her shoulder.
 
 "Put that on the museum statement," she says.
 
@@ -150,18 +131,21 @@ nightfall.
 
 Qiao takes his coat.
 
-"You should stay with the archive release," Rasel says.
+"You should stay with the archive release," Luo says.
 
 "You do not have an archive release."
 
-"I have ten years of coupling records."
+"I have last night's conservation mesh and the delay times I logged while the
+staff were still walking the stair."
 
-"You have whatever is in your head and whatever survived the annex."
+"You have whatever survived the annex."
 
-Rasel reaches beneath the torn cuff of his laboratory trousers and removes a
-transparent strip no longer than Eli's thumb. It has been sealed against his
-skin. Fine metallic paths cross it like irrigation channels viewed from high
-enough to mistake farms for a circuit.
+Eli takes the strip from inside his shirt and sets it on the overturned bucket
+where Wren's dead credential lay during the night. Wren moves the credential
+before the two touch. Fine metallic paths run through Maren's equation like
+irrigation channels viewed from high enough to mistake farms for a circuit.
+On the reverse, in Rasel's cramped lab hand, a line of trial timings ends
+where her correction begins.
 
 Qiao stops putting on his coat.
 
@@ -169,22 +153,11 @@ Qiao stops putting on his coat.
 
 "It would have ended them."
 
-"What is it?"
-
-"The timing key."
-
 Sora gets one elbow under herself. "For the annex?"
 
-Rasel places the strip on the overturned bucket where Wren's dead credential
-lay during the night. Wren removes her credential before the two touch. In his
-other hand he keeps the small notebook he has carried since the lab—field
-notes in a cramped hand, edges stiff with dried solvent. Before extraction he
-wrote trial timings in it while sitting at a kitchen table that had a chipped
-plate holding a pencil. He opens it now to the page where the timing key ends
-and writes the interview time beside it, as if the habit of ordinary
-measurement might still be read by whatever comes next.
-
-"For every coupling trial they admitted running."
+"For every coupling trial they admitted running," Eli says. He heard enough of
+that sentence last night to know it is true. He does not know whether repeating
+it makes him useful or his father's courier.
 
 Wren has gone still.
 
@@ -192,7 +165,11 @@ Wren has gone still.
 
 "The machine."
 
-"Release it," Rasel says.
+Luo photographs the strip under a field lamp before anyone else reaches for it.
+She places a scale beside it, then a color card, then the morning's hospital
+message on another screen to establish time.
+
+"Release the photograph," she says. "Keep the paper."
 
 Eli hears the danger before he understands the plan.
 
@@ -202,22 +179,18 @@ Eli hears the danger before he understands the plan.
 
 "They'll know it came from here."
 
-"They know I came from here."
-
-"They don't know where here is."
-
-Rasel glances at the demolition notice pasted to the greenhouse door, the
+Qiao glances at the demolition notice pasted to the greenhouse door, the
 university property code printed at its foot.
 
 "They will."
 
-Qiao does not touch the strip. "A timing key without the apparatus is not
+He does not touch the strip. "A field equation without the apparatus is not
 evidence."
 
-"It identifies intervals in the conservation mesh. Luo's legitimate records
-show the corresponding biological delay. Your museum instruments show the
-field response. Together they show the apparatus was not reading one central
-source. It was suppressing disagreement until the traces looked simultaneous."
+"It identifies intervals in the conservation mesh," Luo says. "My records show
+the corresponding biological delay. Your museum instruments show the field
+response. Together they show the apparatus was not reading one central source.
+It was suppressing disagreement until the traces looked simultaneous."
 
 Eli remembers the staff walking down the stair on one cadence. He remembers the
 clean ring closing around him and how beautiful it felt to have every living
@@ -225,7 +198,7 @@ thing report through one point.
 
 "The tree had no top," he says.
 
-Rasel looks at him. "The machine gave it one."
+"The machine gave it one," Luo says.
 
 "And if you publish this?"
 
@@ -233,12 +206,12 @@ Rasel looks at him. "The machine gave it one."
 
 "Anyone with the records can also build another one."
 
-Rasel does not deny it.
+Luo does not deny it.
 
-There it is—the first real thing his father has given him: a choice with no
-clean parent inside it, not advice, not a hand at the back of the neck.
+There it is — a choice with no clean parent inside it. He took the strip. Now
+the strip can leave without him or with him. Neither option returns the night.
 
-Wren picks up the transparent strip by its unprinted edge.
+Wren picks up the photograph slate by its unprinted edge.
 
 "Who can authenticate without identifying this greenhouse?"
 
@@ -279,11 +252,6 @@ minutes. Then Luo and I take the public road to the hospital."
 
 "It is an archivist's favorite unit."
 
-Luo takes the strip and begins photographing it under a field lamp. She places
-a scale beside it, then a color card, then the morning's hospital message on
-another screen to establish time. Procedure enters the room and gives everyone
-somewhere to put their fear.
-
 Wren goes to the greenhouse map.
 
 "There is a university waste truck at the west gate in twenty-three minutes.
@@ -305,7 +273,7 @@ Qiao closes his eyes briefly. "You are exhausting."
 "That does not make my remaining credentials communal property."
 
 "No." Wren waits. "May I use the freight authorization attached to your museum
-clearance to get four people and one injured Custodian onto the cold-chain
+clearance to get three people and one injured Custodian onto the cold-chain
 siding?"
 
 It is a clean question. Eli hears the effort behind it. Yesterday she would
@@ -313,7 +281,8 @@ have solved the route and informed everyone of the answer.
 
 Qiao looks toward Luo.
 
-She is photographing the timing key. "If you ask me, I become an accessory."
+She is checking the photograph against the scale. "If you ask me, I become an
+accessory."
 
 "I am asking whether you want scallions tonight," Qiao says.
 
@@ -325,10 +294,10 @@ He gives Wren the credential.
 
 They have seven minutes and too many belongings.
 
-Eli owns one change of clothes, a damaged phone, Maren's wafer, and the soil
-vials that survived Thailand and Sanxingdui. Rasel has nothing but the clothes
-the annex issued him and the timing key now becoming a thousand authenticated
-copies.
+Eli owns one change of clothes, a damaged phone, the strip, and the soil vials
+that survived Thailand and Sanxingdui. On the reverse of Maren's equation,
+Rasel's trial timings sit in the same cramped hand that used to mark watering
+days on a kitchen calendar.
 
 Wren empties her pack onto a propagation table.
 
@@ -345,40 +314,24 @@ the groove worried by a thumb that died before anyone in the room was born.
 Wren touches the corner of the gray cloth. Underneath it is the memory of Mei's
 terrace table: frangipani sticky underfoot, diesel mixing with flower, Mei
 setting down a plate she had already decided he would eat. False file or not,
-that table was a kind of truth he did not have words for until now. Babaji
-attached a sponsor line without asking him to name what he owed. Mei fed him
-Both acts traveled the same quiet channel: care routed around the system the
-system intended. Wren has started calling that the social game in her head: not
-the thing they are trying to build, but the older one that runs itself through
-paper, preference, and whoever happens to be watching. Manual override, people
-say when they mean a choice the system was not designed to allow. She has said
-it herself about doors, routes, and permissions. The words do not belong to a
-book. They belong to the mouth that needs them.
+that table held. Babaji attached a sponsor line without asking him to name what
+he owed. Mei fed him. Both acts traveled the same quiet channel: care routed
+around the system the system intended. She has used the words herself about
+doors and permissions. They belong to the mouth that needs them.
 
-Rasel reaches for it.
+She holds the tablet near the field lamp, turns it once, then places her index
+finger above the center without touching.
 
-Wren moves the tablet back.
+"Your strip calls this a coupling diagram," she says.
 
-"Ask."
+Eli looks. Rasel's timings on the reverse are laid out in three columns that
+match the rings.
 
-Rasel looks from the object to her.
-
-"May I?"
-
-She gives it to him.
-
-He holds it near the field lamp, turns it once, then places his index finger
-above the center without touching.
-
-"A coupling diagram."
-
-"Of what?" Eli asks.
-
-"Source, mediator, boundary."
+"Source, mediator, boundary," he reads.
 
 "Body, family, civilization," Wren says.
 
-Rasel glances at her. "Why?"
+"Why?"
 
 "Because the outer ring looks like every office that has ever explained why a
 person cannot leave, and the middle ring looks like the people who have to feed
@@ -388,10 +341,10 @@ them while the office decides."
 
 "Neither is calling it a coupling diagram."
 
-Eli takes the tablet when Rasel offers it. His father has no ring on his hand.
-For years the missing band meant only proof: Hassan had touched Rasel's life,
-therefore Rasel might still be alive. Now Rasel is here and the ring is west
-with another captive man.
+Eli takes the tablet. For years the missing band meant only proof: Hassan had
+touched Rasel's life, therefore Rasel might still be alive. Last night proved
+the second half. The ring is west with another captive man. The hand that
+wore it stayed behind the annex glass.
 
 The center dot should be the person. Easy.
 
@@ -400,29 +353,31 @@ The outer circle should be the machine. Easier.
 The middle is where every difficult thing has happened. Mei feeding him under a
 false file. Babaji attaching a sponsor line. Wren using her own name to open a
 public gate and losing every place that name admitted her. Rasel making a tool
-with Maren, then twenty years of building exactly what he was asked to build
-and nothing more, and one night undoing all of it at once.
+with Maren, then twenty years of building exactly what he was asked to build,
+and one night asking his son to finish it.
 
 Family is not the safe ring.
 
 It is the ring through which safety or damage must pass.
 
-He wonders, not for the first time since the greenhouse, whether the center
+He wonders, not for the first time since last night, whether the center
 dot was ever only him — or whether his mother had already drawn a smaller
 circle around the exact shape of the boy who would one day open a door for
 her, and called that circle a childhood.
 
 "The mediator is thicker," Eli says.
 
-Rasel leans closer.
-
 "Could be wear."
 
 "Could be where it breaks."
 
-Rasel does not take the tablet back. He looks at it the way he looked at the split tomato—measurement before comfort. "A signal you could record completely," he says, almost to the clay, "would already have stopped being this one."
+He turns the strip over again. Under the last timing column, in Rasel's hand:
 
-Eli files it under one of Baba's strange sentences. Wren's eyes flick once—extra attention, not explanation—and she does not translate.
+*A signal you could record completely would already have stopped being this one.*
+
+Eli hears it in the greenhouse voice from last night. He files it under one of
+Baba's strange sentences. Wren's eyes flick once — extra attention, not
+explanation — and she does not translate.
 
 Wren folds the cloth over the tablet. "Could be we have three minutes."
 
@@ -437,6 +392,13 @@ out.
 
 The irrigation controller clicks dead. Somewhere behind the glass, a vehicle
 changes gears on the university road.
+
+Through the east panes, across the demolition cut, the annex greenhouse still
+has power. Rasel is a figure behind that glass, already back at the bench
+where the apparatus cables enter the floor. He does not look up. One hand is
+on a slate. The other is doing something small to a tomato tie.
+
+Eli puts the strip inside his shirt.
 
 "That was fast," Luo says.
 
@@ -458,7 +420,7 @@ authorization, the university condemnation order, and the dead irrigation
 system that will leave several research collections without climate control by
 noon.
 
-"Five temporary handlers," she says. "One has a lifting injury."
+"Three temporary handlers," she says. "One has a lifting injury."
 
 The foreman looks at Sora, who is holding her burned shoulder as if she learned
 pain from a manual and intends to follow it precisely. The collar she wears has
@@ -486,39 +448,28 @@ you."
 He dislikes this enough to let them aboard.
 
 They move sheets of greenhouse glass while two black security vehicles enter
-through the east gate. Eli carries each pane with Rasel. The work is slow,
+through the east gate. Eli carries each pane with Wren. The work is slow,
 visible, and impossible to hurry without cutting someone.
 
-His father still knows how to take weight. Left hand low, right guiding, knees
-bent before the turn. Eli falls into the rhythm from a childhood full of jobs
-whose locations he cannot place anymore: window frames, garden boards, a dinghy
-mast, Maren saying both of them were going to lose fingers.
+She takes weight the way she takes a route: left hand low, right guiding, the
+turn announced before it happens. He falls into the rhythm from a childhood
+full of jobs whose locations he cannot place anymore: window frames, garden
+boards, a dinghy mast, Maren saying both of them were going to lose fingers.
 
-At the truck, Rasel shifts his grip without warning.
+At the truck the pane shifts in the glove he borrowed from the respirator rack.
 
-The pane tilts toward Eli.
+He catches it against his palm. The edge slices the base of his thumb.
 
-He catches it against his palm. The edge slices the base of his thumb through
-the glove.
+Wren looks at the blood entering the fabric.
 
-"You let go."
-
-"My hand let go."
-
-"Same result."
-
-Rasel looks at the blood entering the fabric.
-
-"Yes."
-
-Just a receipt.
+"Hold it higher."
 
 They load the pane.
 
-The security officers search the greenhouse while the demolition truck clears
-the west gate under Qiao's credential. Eli lies between racks of broken glass
-with his father's knee against his shoulder and Sora breathing too quickly
-beside him.
+The security officers search the greenhouse they have just left. Through the
+open west gate Eli can still see the annex glass. Rasel has not come out.
+The demolition truck clears the gate under Qiao's credential. Eli lies between
+racks of broken glass with Sora breathing too quickly beside him.
 
 Wren is near the rear doors, watching light change through the dirty seam.
 
@@ -536,17 +487,11 @@ He presses the cut.
 
 "At him."
 
-Rasel hears. There is nowhere in the truck not to.
-
-"Good," Rasel says.
-
-Eli turns his head. "You don't get to approve it."
-
-"Also good."
+There is nowhere in the truck not to hear it. He says it anyway.
 
 The truck hits a pothole. Glass sings in every rack around them.
 
-For several seconds Eli hates his father with extraordinary clarity. It is
+For several seconds he hates his father with extraordinary clarity. It is
 almost restful. Love remains underneath, inconvenient and unconsulted.
 
 Not for the ten missing years. For the shape of the one night that ended
@@ -583,9 +528,8 @@ The foreman sees it in his mirror. "Your lifting injury has friends."
 "Get off my truck."
 
 He brakes beside a container marked for biological samples. Eli jumps down.
-Rasel follows badly, left foot almost folding. Sora cannot manage the drop.
-The foreman swears, climbs from the cab, and lowers the glass crane until its
-maintenance basket reaches the truck bed.
+Sora cannot manage the drop. The foreman swears, climbs from the cab, and
+lowers the glass crane until its maintenance basket reaches the truck bed.
 
 "Electrical injury," he says. "I am helping an electrical injury."
 
@@ -624,26 +568,19 @@ context.
 And when the archive asks what we want, we tell them before we ask what they
 have."
 
-Rasel looks at him with an expression Eli cannot yet read.
-
 Wren gets Sora inside.
 
 The foreman swings the basket away as the first security officer leaves the
 vehicle. Eli climbs into cold air smelling of damp fiber and dormant soil.
-Rasel comes last. His bad hand catches the door and fails to pull it.
-
-Eli reaches past him.
-
-For an instant he could make the gesture mean anything: rescue, accusation,
-restoration, debt.
+Wren comes last. Her dead credential catches the door edge and he pulls it
+free before the latch can pinch the plastic.
 
 It is only a heavy door.
 
 They pull it shut together.
 
-Wren watches him accept the inventory and does not reach for him when the door shuts. She does not need to. The contact is already a habit.
-
-Later, in the hold of the truck where the seed racks stand, Rowan’s hand finds Wren’s wrist from across the stack of medication cartons. No explanation. Wren’s breathing adjusts without her deciding it should. The journey is longer than the route should allow.
+Wren watches him accept the inventory and does not reach for him when the door
+shuts. She does not need to. The contact is already a habit.
 
 ---
 
@@ -652,13 +589,12 @@ Later, in the hold of the truck where the seed racks stand, Rowan’s hand finds
 Cold preserves the wrong things.
 For thirty-one hours the seed container holds six degrees and the smell of wet
 fiber. The cultures sleep in silver racks while Eli's cut palm swells inside a
-borrowed glove. Rasel sleeps badly against the inner wall. Sora does not sleep
-at all.
+borrowed glove. Sora does not sleep at all.
 
 At each inspection Wren wakes them before the door opens.
 
 The first inspector checks temperature and seal integrity without entering. The
-second opens the container at an inland freight exchange, sees five people
+second opens the container at an inland freight exchange, sees three people
 wearing restoration-archive respirators, and asks why the injured woman is not
 on the manifest.
 
@@ -693,7 +629,7 @@ The cultures tremble in their racks. A warning lamp turns amber.
 
 Sora reaches under her shirt toward the edge of her collar.
 
-"Don't," Rasel says.
+"Don't," Wren says.
 
 "The diversion is for me."
 
@@ -701,7 +637,7 @@ Sora reaches under her shirt toward the edge of her collar.
 
 "May?"
 
-"I did not design your collar."
+"I don't know your collar."
 
 "Nobody ever designs the thing they're standing beside."
 
@@ -722,7 +658,7 @@ reads the cold-chain instructions printed inside.
 
 She turns off the container's refrigeration.
 
-Rasel stands. "Those cultures are alive."
+Eli stands. "Those cultures are alive."
 
 "Which is why somebody will come."
 
@@ -748,7 +684,7 @@ The voice repeats the instruction.
 
 Wren repeats herself.
 
-Eli feels the machine searching for a category. Five fugitives are difficult.
+Eli feels the machine searching for a category. Three fugitives are difficult.
 Threat cargo is easy. Seed cultures dying under assessment are a loss assigned
 to somebody's department.
 
@@ -805,6 +741,17 @@ standing is enough.
 The woman checks the other racks. Only when the compressor settles into its
 normal rhythm does she turn toward the people.
 
+A seed technician leaves a dry plate on the stair rail and does not wait.
+Nadiya eats standing, glasses still on the cord.
+
+"Kitchen fan has been screaming since the river left the intake," she says.
+
+Wren, still on her feet, asks if anyone has oil.
+
+"We have oil for the compressor," the technician says from the landing.
+
+Nadiya says the fan can scream.
+
 "I am Nadiya Saleh. The message used my archive's seal. I did not send it."
 
 Eli holds up the copy with Maren's marginal note.
@@ -840,23 +787,15 @@ without waking and the dreamer is a witness, not a source. Eli writes the term
 down because it sounds like Malia's language and because he does not yet know
 whether the resemblance is contamination or inheritance.
 
-Rasel watches each instrument they pass.
+Eli watches the instruments they pass the way he watches a pump house: what
+still runs, what has been patched, what someone is hoping nobody will ask
+about. The field coils hum through the stair rail.
 
-"The pump housings are older than the archive," he says.
+Nadiya sees him notice.
 
-"The archive is older than its housing," Nadiya answers.
+"The kitchen is also active," she says. "You may not inspect that either."
 
-"The field coils?"
-
-"Are not why you were admitted."
-
-"They are active."
-
-"So is the kitchen. You may not inspect that either."
-
-Eli almost smiles. His father does not.
-
-At the lower stair Nadiya stops them.
+At the lower stair she stops them.
 
 "The person who sent your message was Dr. Samir Haddad. He died eight years
 ago. His credentials remain in a legacy mirror because three governments and
@@ -889,8 +828,8 @@ shape that will make Nadiya open the next door.
 
 Wren says nothing.
 
-Rasel says, "We need access to Haddad's transfer concordance and any coupling
-record indexed to Maren Holt."
+Eli takes out the strip. "I need access to Haddad's transfer concordance and
+any coupling record indexed to this correction. Maren Holt's hand."
 
 Sora, pale from the nurse's work, says, "I need the holding route attached to
 Hassan's category."
@@ -952,6 +891,10 @@ Eli reads the archive translation.
 A man is offered the food and water of life. He has been warned they are death.
 He refuses. The offer is withdrawn. The warning remains.
 
+Eli's palms remember the mask's inner rim before he has a word for why. Cold
+metal. His father's voice through the chamber speaker. The same shape as a
+warning and an offer arriving through one mouth.
+
 Eli's first wrong hunger is immediate and private: that the lacuna is a map to
 Maren, that the Folly is a destiny with his name under it, that the missing
 passage will tell him which gate to walk through next. The tray does not
@@ -962,15 +905,15 @@ space than the surviving words.
 
 "In the usual reading, Ea."
 
-"Enki," Rasel says.
+"Enki," Nadiya says. "In one language and one layer. The one who made him wise
+enough to reach the gate."
 
-"In one language and one layer."
+"And perhaps not wise enough to disobey his maker," Wren says.
 
-"The one who made him wise enough to reach the gate."
+Eli leans over the tray. On the reverse of the strip, Rasel's timings stop
+where a line should continue. The gap is the same shape as the clay.
 
-"And perhaps not wise enough to disobey his maker."
-
-Rasel leans over the tray. "The missing passage?"
+"The missing passage?"
 
 "Missing."
 
@@ -999,7 +942,7 @@ palms prickle against the glass.
 
 "The marginal scan entered Haddad's mirror two winters ago."
 
-The same time Rasel saw her correction.
+The same winter the strip reached Rasel's cuff.
 
 "Where did it come from?"
 
@@ -1034,15 +977,14 @@ people govern the archive without entering it."
 
 "A copy is custody that travels."
 
-Rasel steps between them without physically moving. His voice changes into the
-precise, reasonable register that must once have made institutions trust him.
+Eli holds the strip by its unprinted edge, the way Luo photographed it.
 
-"Dr. Saleh. The timing key we released demonstrates that the Sanxingdui
-apparatus manufactured centrality by suppressing phase disagreement. Haddad's
-work anticipated a relational correction. Maren's note confirms she understood
-it. If the same correction appears in the transfer concordance, delay risks—"
+"Dr. Saleh. The equation we released identifies intervals in the conservation
+mesh. Haddad's work anticipated a relational correction. Maren's note confirms
+she understood it. If the same correction appears in the transfer concordance,
+delay risks—"
 
-"You published the timing key?"
+"You published a field equation taken from a living researcher's cuff?"
 
 "Yes."
 
@@ -1060,14 +1002,10 @@ it. If the same correction appears in the transfer concordance, delay risks—"
 
 "I agree that you made their decision for them."
 
-Rasel goes silent.
+He stops. The sentence has the shape of something his father would have
+finished for him. Nadiya does not fill it.
 
-Eli recognizes the silence now. It is not surrender. It is his father moving
-the argument somewhere the other person cannot see.
-
-"What would witnessed access require?" Eli asks.
-
-Nadiya looks from Rasel to him.
+"What would witnessed access require?" he asks.
 
 "You remain here. The council hears what each of you wants separately. Local
 curators examine the records with you. Originals do not leave. Copies carry the
@@ -1146,8 +1084,8 @@ Leave now, before access. Preserve movement. Lose the witnessed record.
 
 Wren stands near the lower stair. She does not tell him which cost is correct.
 
-Rasel wants the concordance. Sora wants Hassan's route. Eli wants the line in
-his mother's hand to become a door.
+Sora wants Hassan's route. Eli wants the line in his mother's hand to become a
+door.
 
 All of them want the archive to hurry because people with power have arrived.
 
@@ -1183,8 +1121,12 @@ They work for five hours under observation.
 
 The council contains no oracle. One curator specializes in school-tablet
 transmission and thinks Haddad's reconstruction is romantic nonsense. A field
-engineer understands the dead pumps better than the cuneiform and demonstrates
-that two supposed ley anomalies match salinity changes after the intake failed.
+engineer understands the dead pumps better than the cuneiform and lays two
+survey pins on the table.
+
+"People keep calling these ley hits," she says. "They're salinity after the
+intake failed."
+
 A legal historian insists that the modern transfer categories matter more than
 the ancient story because modern people built the prison.
 
@@ -1205,13 +1147,13 @@ deceit all made portable enough to move between centers.
 
 He labeled the pattern **ARTA**.
 
-Nadiya adds a correction before Rasel can adopt the word.
+Nadiya adds a correction before Eli can adopt the word.
 
 "His comparative term. Not the word in the Sumerian composition."
 
-"Fitted order," Rasel says.
+"Fitted order," Eli says, reading the gloss.
 
-"His gloss."
+"His."
 
 Wren reads the list twice.
 
@@ -1322,7 +1264,9 @@ claim.
 The original map is elsewhere. The archive holds licensed scans, early copies,
 and Haddad's disputed overlays.
 
-Rasel dismisses the first overlay.
+Eli holds the strip beside the first overlay. Rasel's timings do not repeat
+where Haddad drew a closed circuit. The mismatch sits there without anyone
+naming it.
 
 "He forced the field readings into the old geometry."
 
@@ -1377,7 +1321,7 @@ Eli before he blanks the screen.
 The review has produced a route, and the witnessed process has produced it for
 everyone.
 
-Rasel gathers nothing. There is nothing he is permitted to gather. Nadiya
+They gather nothing. There is nothing they are permitted to gather. Nadiya
 issues authenticated copies marked with every disagreement, sends them to each
 represented collection, and records that the travelers received no original
 object.
@@ -1427,7 +1371,7 @@ Its cost does.
 
 Wren finds the cut in the transfer records at six in the morning, in a room that smells of coffee brewed too strong and the copper-tang of a printer drum overheating.
 
-The file arrives through the Charkha corridor link under a routing label that says only **medical continuity review**. Wren has not asked for medical records. She has been watching corridor flow for three days, tracking Hassan's westbound handoff through the stations that do not log names. The file opens to a page her training tells her to recognize: two names, two citizenship streams, one shared residence history, then a single line that separates them without explanation.
+The file arrives under a routing label that says only **medical continuity review**. The originating header reads **CHARKHA CORRIDOR / PAIR FILE**. Wren has not asked for medical records. She has been watching corridor flow for three days, tracking Hassan's westbound handoff through the stations that do not log names. The file opens to a page her training tells her to recognize: two names, two citizenship streams, one shared residence history, then a single line that separates them without explanation.
 
 Maren Holt. Rasel Khan.
 
@@ -1465,9 +1409,10 @@ Earlier if the weather turns."
 Clouds are building beyond Şanlıurfa. Low, dark, carrying the metallic smell of
 rain before any rain reaches the ground.
 
-"The consortium has an instrument window at sixteen," Rasel says.
+"The consortium has an instrument window at sixteen," Wren says. She has
+already read the permit board twice.
 
-Nehir looks at him.
+Nehir looks at her.
 
 "The consortium has a donor presentation at sixteen. It calls this an
 instrument window because donors prefer machines to tarpaulins."
@@ -1477,18 +1422,20 @@ instrument window because donors prefer machines to tarpaulins."
 "Their permit references six noninvasive methods and a seventh category written
 by a lawyer."
 
-"I can show you what the Sanxingdui apparatus did with phase delay."
+Eli has only the courier notebook he kept from the archive copies. He keeps it
+in his pocket and does not take it out.
 
-"You can show me in the project room after you remove that recorder from your
-pocket."
+"I can show you what the Sanxingdui delay looked like from the staff stair,"
+he says.
 
-Rasel's right hand remains beside his coat.
+"You can show me in the project room after you remove whatever is writing in
+your pocket."
 
-Eli did not see him take the recorder.
+His hand stays beside his coat.
 
-Nehir did.
+Nehir waits.
 
-Rasel removes a strip no larger than a matchbox and gives it to her.
+He gives her the notebook.
 
 "Anything else?"
 
@@ -1496,13 +1443,11 @@ Rasel removes a strip no larger than a matchbox and gives it to her.
 
 Sora coughs.
 
-Rasel gives Nehir a second strip.
+Wren, after a beat, hands over the spare slate she has been using as a clock.
 
-Wren looks out across the visitor path to hide a smile.
-
-Nehir hands both instruments to a site technician. "Tagged, bagged, returned
-when Dr. Khan leaves. If he touches a monitoring line without permission, give
-them to the children at the education tent."
+Nehir gives both to a site technician. "Tagged, bagged, returned when you
+leave. If anyone touches a monitoring line without permission, give them to
+the children at the education tent."
 
 "They won't know how to use them."
 
@@ -1527,7 +1472,7 @@ It does not.
 The eastern sector hums through the soles of his boots: not sound, exactly, but
 the remembered pressure of a large machine in another room.
 
-"Do you feel it?" Rasel asks.
+Wren watches his hands. "Do you feel it?"
 
 "Yes."
 
@@ -1552,16 +1497,14 @@ At his feet, a barley shoot grows from a crack in the limestone. It is not
 supposed to be here. The soil is thin. The season is wrong. It looks like the
 kind of thing that happens after a long cold stops and the ground forgets it
 was ever asleep. Eli does not know whether the site remembers the thaw or the
-barley does, but he knows better than to tell Rasel. His father would ask for
-a carbon date and ruin the only clean thing on the hill.
+barley does. He keeps it. Someone with instruments would ask for a carbon date
+and ruin the only clean thing on the hill.
 
-Rasel studies the ground. "That is not a measurement."
+"Neither was center," he says, mostly to the shoot.
 
-"Neither was center."
+Nehir hears him.
 
-Nehir hears them.
-
-"Good," she says. "You may both remain."
+"Good," she says. "You may remain."
 
 ---
 
@@ -1620,11 +1563,10 @@ were fed. Stones were moved. Somebody coordinated the work. The lie enters when
 the uncertainty disappears and the only imaginable coordinator becomes an
 owner.
 
-Rasel leans toward Eli.
+Eli watches Varga's display. A small status icon has changed from gray to
+green.
 
 "Their subsurface array is live."
-
-On Varga's display, a small status icon has changed from gray to green.
 
 "Is it supposed to be?"
 
@@ -1671,7 +1613,10 @@ failure arranged around its trunk.
 
 "Later story," Nehir answers.
 
-Rasel bends close without crossing the conservator's tape. "Three domains."
+Eli bends close without crossing the conservator's tape. The strip in his
+shirt has the same three-column layout Rasel used for timings.
+
+"Three domains?"
 
 "Also a later story."
 
@@ -1718,7 +1663,7 @@ He feels irritation rise.
 "Do you believe anything about it?"
 
 "Yes." Nehir looks at him rather than the stone. "I believe it was made, used,
-buried, recovered, and placed in a room where five people currently want it to
+buried, recovered, and placed in a room where four people currently want it to
 settle an argument it did not begin."
 
 The conservator suppresses a smile.
@@ -1779,7 +1724,7 @@ lanes. Each part is harmless enough to receive a permit alone.
 
 Together they are asking the hill to answer through one clock.
 
-Rasel reaches the control station before Varga.
+Eli reaches the control station before Varga.
 
 "Shut the synchronization layer."
 
@@ -1793,7 +1738,7 @@ The technician blocks the panel. "It is a passive survey."
 
 Varga comes down the path under an umbrella held by someone else.
 
-"Dr. Khan. Step away from the equipment."
+"Step away from the equipment."
 
 The hill pulses again.
 
@@ -1843,10 +1788,9 @@ The pulse leaves the ground through every synchronized instrument at once.
 Visitor screens flash white. The mobile power unit trips, restarts, and feeds
 the error back. A pressure front runs beneath the boardwalk.
 
-Rasel names what the archive refused to street: *melam*—pressure presented as
-the visible fact of power. What the body does with it, the disputed *ni*,
-arrives as awe that wants to become obedience. The hill does not need the
-words. The crowd supplies the mistake.
+Nadiya refused the loanwords. The hill does not need them. Pressure arrives as
+the visible fact of the pulse. What the body does with it arrives as awe that
+wants to become obedience. The crowd supplies the mistake.
 
 People incline toward the center without falling — a hundred bodies choosing
 the same direction at once. Heads turn. Feet follow. The crowd presses against the inner rail above an open work cut.
@@ -1883,12 +1827,12 @@ Eli drops into the maintenance cut. Mud takes one knee. The red cable is thick
 as his wrist and locked into a distribution case with a tool head he does not
 have.
 
-Rasel arrives above him and throws down the recorder Nehir confiscated.
+Wren arrives above him and throws down the slate Nehir confiscated.
 
 "Left edge."
 
-It has a ceramic wedge folded into its housing. Eli drives the wedge under the
-connector collar and leans.
+The case clip has a ceramic wedge folded into its housing. Eli drives the
+wedge under the connector collar and leans.
 
 The case hums through his injured palm.
 
@@ -1921,7 +1865,8 @@ This is what the Untying looks like — not a switch flipped, but a decision mad
 People stumble in different directions. Worse for one second. Human after.
 
 Nehir's staff open the outer rope and move visitors onto the rain path. Wren
-takes the child from the failed rail. Rasel shuts sensor sleds one at a time.
+takes the child from the failed rail. Nehir's staff shut sensor sleds one at a
+time.
 Sora stands between the retreating crowd and a Custodian pressure line emerging
 from the service road.
 
@@ -1971,9 +1916,9 @@ Eli is kneeling beside the older man, whose ankle is bent wrong.
 
 The fox on the pillar remains wet stone.
 
-"Did it speak?" Rasel asks.
+"Did it speak?" Wren asks.
 
-He has reached them with a first-aid pack.
+She has reached them with a first-aid pack.
 
 "No."
 
@@ -1989,8 +1934,8 @@ Eli looks toward the buried sector.
 
 This is true. It costs less than it used to.
 
-Rasel splints the ankle while Nehir records Eli's account as one observation
-among several. The consortium records a power anomaly. Varga calls the crowd
+Nehir records Eli's account as one observation among several. Wren splints the
+ankle because someone has to and the first-aid pack is already open. The consortium records a power anomaly. Varga calls the crowd
 movement an emergency response to weather. Sora calls it active transport
 suppression. Every account catches a piece and tries to become the event.
 
@@ -2051,9 +1996,9 @@ hospital. Sora shakes her head.
 
 "No."
 
-Rasel examines the transfer band. "There is a clinic code under the category."
+Sora examines the transfer band. "There is a clinic code under the category."
 
-He cleans mud from the small print.
+She cleans mud from the small print.
 
 The code resolves to a corridor medical station two hours west, attached to no
 state hospital and recognized by three of them for emergency stabilization.
@@ -2084,19 +2029,24 @@ begins.
 
 Eli helps lift the injured woman only after she blinks permission again.
 
-They place her in the site ambulance.
+They place her in the site ambulance. The site medic takes the passenger
+seat. Wren does not.
 
-Rasel stands at the open doors, looking toward the road the convoy took.
+"The sealed road is the convoy's," Nehir says. "You will not be on it."
 
-"The data would tell us how they held her."
+Eli stands at the open doors, looking toward the road the convoy took.
 
-"She can tell us if she lives."
+"The array would tell us how they held her."
 
-"Perhaps."
+"She can tell us if she lives," Wren says. "Somchai is two hours on that
+road. We are not."
 
-"That's enough."
+"Then how do we get there?"
 
-Rasel looks at him. "It has to be."
+Wren is already reading a paper taped to the water-truck. Guild ink. Three
+days a year. A stamp no office issues.
+
+"You already know how," she says.
 
 The ambulance leaves with the array's broken ceramic wedge still in Eli's
 pocket and no object taken from the hill.
@@ -2104,6 +2054,116 @@ pocket and no object taken from the hill.
 Behind them, workers pull tarpaulins over the eastern sector.
 
 The buried instrument keeps what they came to make it surrender.
+
+---
+
+The town sits on a strait and a low mountain. Kastri on the older maps.
+Laurel Cube on the ticketed pilgrim buses that never come this far
+off-season. Three days a year the maritime guild runs contests no office
+sanctions and no office can quite forbid. The winners leave with a local
+pass, honored by every captain who was once a boy watching from the harbor
+wall. If the games judge you worth it, a keeper house at the mountain's
+shoulder keeps one night.
+
+Wren finds the noticeboard before Eli does.
+
+"You need the pass," she says. "Sympathy will not open the next corridor."
+
+"You're saying I should race."
+
+"I'm saying the ambulance already left."
+
+The first contest is water. The course runs the strait twice, against a
+current that punishes anyone who fights it. Eli's boat is borrowed, patched,
+wrong in three places he has to learn by feel. Halfway through the second
+leg his palms find the hull's actual rhythm. The boat stops being separate
+from the water it is cutting. For four strokes he sails faster than the
+Fever scar should allow. Then the scar collects: a headache like a nail
+driven flat, the last mark doubling. He crosses half a length ahead and
+sits down hard on the dock before anyone can watch his knees do it.
+
+The second contest is a chalk circle on cobblestones. Padded staves. His
+opponent is heavier. Eli has no forms that apply at this range. His body
+remembers a fracture nobody set right — the old break in his own hip reads
+weight shifting through another man's frame a half-second early. He is
+already somewhere else when the strike arrives. Three times. The man stops
+swinging at where Eli is and starts swinging at where Eli has left.
+
+The third contest is quiet, indoors: a locked cabinet, a pattern lock the
+guild has used for two centuries to keep the crossing manifest honest.
+Officials expect minutes. Eli holds the whole shape at once, the way he
+once saw cable runs, and the lock gives before the timer's second hand
+finishes its circuit. Somchai is not here to see it. Wren does not smile.
+She recalculates.
+
+The pass they hand him is a plain paper stamp.
+
+The second thing is a keeper's word, said the way a local tells you which
+door opens: a night, if he wants it, at the mountain's shoulder.
+
+That is the prize. The games were the door.
+
+---
+
+An old woman meets him at a house that is mostly kitchen. She does not
+explain. She feeds him first — bread, something bitter and green — and only
+after that leads him up a goat path to a room with no furniture and a floor
+worn smooth in a spiral nobody swept clean on purpose.
+
+"You don't have to say anything," she tells him. "If you want the night to
+mean something, say the words with the others."
+
+Below, at the margins of the path, pilgrims who won nothing sit in the dark
+and sing something low and repetitive, a handful of lines passed hand to
+hand longer than anyone can date. Eli does not know the words. He mouths
+the shape of them anyway, half a beat behind.
+
+A second sleeper is already on the floor. A girl about his age, hair still
+wet from the climb. She does not look at him.
+
+He lies down because the old woman tells him to, and because his legs have
+stopped arguing about it.
+
+He does not fall asleep so much as stop being only one thing.
+
+Something approaches in the dark that is not entirely dark. A warmth with
+a direction. A weight that leans in without quite arriving. He feels it
+more than he sees it. For one second he thinks he sees it too: something
+like a hand, something like patience, close enough to touch his forehead.
+
+The touch is neither pain nor quite comfort. A single fact arriving whole:
+a ground far to the north-west, already breathing wrong, already carrying
+more weight than it should. Go there prepared to leave something behind,
+or do not go at all.
+
+Then a face. Giant. White markings across the brow and the cheeks. The
+same marks appear on his own hands. Older hands move above him, the same
+motions, generation after generation, down to his hands already moving
+fast with the same cadence. He cannot stop them.
+
+The girl on the floor is staring. Eyes wide. That look breaks it. He comes
+out still moving. His hands keep the shape for three more breaths before
+he can make them lie still.
+
+He does not understand the warning as a map. He understands it the way he
+understands fever from three feet away.
+
+When he sits up the old woman is already gone and the singing below has
+stopped. The girl is gone too. His hands shake the way they do after
+activation. Nobody in the kitchen downstairs has any way to know he was
+anywhere but asleep.
+
+On the path down he notices he is talking with his hands before the words
+arrive. Wren, waiting at the house, watches once and does not ask.
+
+That night, in the room above the contest hall, he tries a guitar a site
+medic left with two strings still good. He is terrible at it. He plays the
+same four-count Nura once tapped into a teacup rim, badly, until his hands
+stop shaking on their own schedule. Wren, in the doorway, counts along
+under her breath until he notices and keeps going.
+
+In the morning they use the stamp on a coastal boat headed for the clinic
+road. The pass works. The hands keep moving when he is not watching them.
 
 ## Chapter Four—The Healer's Terms
 
@@ -2144,8 +2204,7 @@ Somchai dries his hands.
 
 "The patient?"
 
-"The one with the collar. Another has a shoulder burn. Another is old and
-limping. One is very large."
+"The one with the collar. Another has a shoulder burn. One is very large."
 
 "That is not a chest injury."
 
@@ -2464,114 +2523,6 @@ The second time they shake.
 
 ---
 
-Two days earlier, the crossing had not been a gate. It had been a town built
-around a strait and the low mountain everyone just called the Laurel — Kastri
-on the older maps, the Laurel Cube on the ticketed pilgrim buses that never
-came this far off-season — where three days a year the old maritime guild ran
-contests no office sanctioned and no office could quite forbid, because the
-winners left with something no office could issue: a local pass, honored by
-every captain who was once a boy watching from the harbor wall — and, if the
-games judged you worth it, one night hosted by a keeper house at the
-mountain's shoulder, where pilgrims who won nothing still gathered at the
-margins and sang.
-
-Wren found the noticeboard before Eli did.
-
-"You need instrument access," she said. "Not sympathy."
-
-"You're saying I should race."
-
-"I'm saying you already know how."
-
-The course ran the strait twice, against a current that punished anyone who
-fought it instead of joining it. Eli's boat was borrowed, patched, wrong in
-three places he had to learn by feel instead of by looking. Halfway through
-the second leg his palms found the hull's actual rhythm before his eyes did —
-the boat stopped being separate from the water it was cutting, and for one
-stretch, so did he. Something in his chest went hot and wide at once, an old
-fever answering an old debt, and for four strokes he sailed faster than his
-body should have allowed before the Fever scar collected its interest: a
-headache like a nail driven flat, the last mark doubling in his vision. He
-crossed anyway, half a length ahead, and sat down hard on the dock before
-anyone could watch his knees do it for him.
-
-He almost refused the second contest.
-
-Close quarters, padded staves, a circle chalked on cobblestones. His opponent
-was heavier, faster on paper, and Eli had no forms, nothing Khun Dang taught
-him that applied at this range. But his body remembered a fracture nobody had
-set right the first time — the old break in his own hip read weight shifting
-through another man's frame a half-second before the man's brain finished
-deciding to move. He did not win by being stronger. He won by already being
-somewhere else by the time the strike arrived, three times, until his
-opponent stopped swinging at where Eli was and started swinging at where Eli
-had already left.
-
-The third contest was quiet, indoors: a locked cabinet, a pattern lock the
-guild had used for two centuries to keep the crossing manifest from being
-falsified. Officials expected minutes. Eli held the whole shape of it at
-once — not remembering the sequence but seeing it, the way he once saw cable
-runs and shaft maps at home — and the lock gave before the timer's second
-hand finished its circuit. Somchai, watching from the doorway with his arms
-crossed, went very still. Wren did not smile. She recalculated.
-
-The pass they handed him afterward was a plain paper stamp. The second thing
-they handed him was a keeper's word, quietly, the way a local tells you
-which door opens: a night, if he wanted it, at the mountain's
-shoulder.
-
-An old woman met him at a house that was mostly kitchen. She did not explain
-anything. She fed him first — bread, something bitter and green — and only
-after that led him up a goat path to a room with no furniture and a floor
-worn smooth in a spiral nobody had swept clean on purpose.
-
-"You don't have to say anything," she told him. "But if you want the night to
-mean something, say the words with the others."
-
-Below, at the margins of the path, pilgrims who had won nothing sat in the
-dark and sang something low and repetitive, a call and an answer, the same
-handful of lines passed hand to hand for longer than anyone could date.
-Eli did not know the words. He mouthed the shape of them anyway, half a beat
-behind, the way he'd once faked a hymn in Bali to keep from standing out.
-
-He lay down because the old woman told him to, and because his legs had
-stopped arguing about it.
-
-He did not fall asleep so much as stop being only one thing.
-
-Something approached him in the dark that was not entirely dark. Not a
-shape he could describe as a person and not one he could rule out as one
-either — a warmth with a direction to it, a weight that leaned in without
-ever quite arriving, the way Wren's hand had once hovered at his shoulder
-before deciding to land. He felt it more than he saw it. For one full
-second, though, he thought he saw it too: something like a hand, something
-like patience, close enough to touch his chest above the heart.
-
-It touched him, neither pain nor quite comfort — a single fact arriving
-whole, the way his palms sometimes already knew a pulse before his mind
-caught up to naming it: a ground far to the north-west, already breathing
-wrong, already carrying more weight than it should. Go there prepared to leave something
-behind, or do not go at all.
-
-He did not understand the shape of the warning. He understood that it was
-true the way he understood fever from three feet away — not proof, just the
-kind of knowing his body had never once been wrong about.
-
-When he woke the old woman was already gone and the singing below had
-stopped. His hands were shaking the way they did after activation, and
-nobody in the kitchen downstairs had any way to know he had been anywhere
-but asleep.
-
-That night, back in the room above the contest hall, he tried the guitar a
-site medic had left behind with two strings still good. He was terrible at
-it. He played the same four-count Nura once tapped into a teacup rim, badly,
-until his hands stopped shaking on their own schedule instead of the
-guitar's. Wren, in the doorway, did not tell him he was bad at it. She
-counted along under her breath until he noticed she was doing it and stopped
-being embarrassed enough to keep going.
-
----
-
 Eli knows the man by smell.
 
 Antiseptic soap. Hot plastic from an oxygen line. Something green and bitter
@@ -2599,27 +2550,14 @@ He walks past Eli.
 
 "Then you saw too much."
 
-Rasel steps forward. "If the vascular closure can be measured—"
-
-"No."
-
-"You do not know what I was asking."
-
-"You were asking to measure her."
-
-"The mechanism."
-
-"Is in her."
-
-Rasel stops.
-
 Somchai points to the waiting room. "Sit. All of you."
 
 They sit.
 
 Wren chooses the chair nearest the exterior door. Sora remains standing until
 the clinic nurse tells her the shoulder dressing is leaking, then sits with
-visible resentment. Rasel studies the building's patched medical equipment.
+visible resentment. Eli studies the building's patched medical equipment the
+way he studies any room that has to keep running on what it already has.
 
 Eli watches Somchai.
 
@@ -2826,9 +2764,8 @@ Sora says, "Security will reach the clinic."
 
 Sora goes to the medicine refrigerator with Pin.
 
-Rasel begins calling surgeons.
-
-Wren takes the exterior door.
+Wren takes the exterior door and starts calling surgeons from there, one eye
+on the road.
 
 Eli waits.
 
@@ -3130,7 +3067,7 @@ Eli feels an unreasonable flare of pride.
 
 "Very well."
 
-Rasel sits on an oxygen carton. "He has my ring."
+Eli sits on an oxygen carton. "He has my father's ring."
 
 "You keep saying that like it increases his value," Wren says.
 
@@ -3208,7 +3145,7 @@ Somchai looks at him. "Where did you learn that?"
 
 "Pelangi. I watched them load and unload the same corridor. The Mandate trusts the exit more than the entry. It's faster to believe somebody already left than to verify somebody just arrived."
 
-Rasel studies the transfer file, then Eli's face. "He's right."
+Wren studies the transfer file, then Eli's face. "He's right."
 
 Eli hears the route close.
 
@@ -3238,7 +3175,7 @@ It also makes the clinic visible enough that every security feed in the
 corridor turns toward it.
 
 Sora leaves through the medicine-loading door in a laundry truck borrowed from
-the restaurant next door. Eli and Rasel lie between bags of sheets. Wren rides
+the restaurant next door. Eli lies between bags of sheets. Wren rides
 in front beside Pin, who is driving because he knows the service roads and
 because guilt has made him generous in ways nobody trusts.
 
@@ -3281,7 +3218,7 @@ Sora sits up.
 
 "From here, do exactly what I say."
 
-"You defected," Rasel says.
+"You defected," Wren says.
 
 "The gate does not know."
 
@@ -3302,7 +3239,7 @@ depot is not a fortress. It is a place where people have stopped looking
 carefully because nothing they care about is supposed to be inside.
 
 He does not say this aloud. He does not need to. Wren is already routing the
-night-shift fatigue data through Rasel's contact in Thrace.
+night-shift fatigue data through a house in Thrace that does not know her name.
 
 At the service gate she presents herself as Shield Vithan returning contaminated
 materials from the Göbekli incident.
@@ -3322,7 +3259,8 @@ She has not told Eli half of what she arranged inside the holding site. The brib
 to the gate clerk was routed through a house in Albion that does not know her
 name. The uniform in the cab is a modified Thread issue that would identify her
 as a Weaver if anyone checked the weave. The guard's recoil was engineered by a
-field signature borrowed from Rasel and broadcast through the truck's cab fan.
+field signature borrowed from Sora's open collar and broadcast through the
+truck's cab fan.
 Every step was rehearsed in rooms Eli was not invited to attend. Hub labor has
 no signature. It appears as the thing already moving when someone finally asks
 who started it.
@@ -3343,7 +3281,7 @@ Wren stays with the truck. This is not her network, her credential, or her
 operation. She keeps the exit alive and refuses the temptation to make
 unfamiliar systems look like competence.
 
-Eli follows Sora and Rasel through the wash corridor.
+Eli follows Sora through the wash corridor.
 
 At the first interior arch, the collar reads Sora.
 
@@ -3359,7 +3297,7 @@ The system asks her to surrender contaminated companions for assessment.
 
 The arch turns green.
 
-Rasel watches her. "Whose command?"
+Eli watches her. "Whose command?"
 
 "Mine."
 
@@ -3456,10 +3394,10 @@ Subject-selection objections. Sabotage sequence. Current western placement."
 
 "Verified forty-one hours ago."
 
-Rasel leans toward the screen. His hand lifts to the frame as if to verify a
+Eli leans toward the screen. His hand lifts to the frame as if to verify a
 face by touch. He stops himself.
 
-"Timestamp hash," he says.
+"Timestamp hash."
 
 Anika does not provide one.
 
@@ -3467,8 +3405,8 @@ Anika does not provide one.
 
 "Classified under active transfer protocols."
 
-He accepts both answers without pressing. The instruments in his blood know the
-shape of verification; his blood has stopped listening to them.
+He accepts both answers without pressing. The strip in his shirt knows the
+shape of verification; his hands have stopped listening to it.
 
 Maren alive now. Not two winters. Not a correction surviving its writer.
 
@@ -3476,27 +3414,27 @@ Now.
 
 "Open it."
 
-"Return Maren's field notebook key and Sora. The file releases to your father. Mr. Hassan
-continues under witnessed protection."
+"Return Maren's field notebook key and Sora. The file releases to you. Mr.
+Hassan continues under witnessed protection."
 
 Hassan laughs inside the pen.
 
 "Protection has drains."
 
-Rasel steps toward the evidence room.
+Eli does not step toward the evidence room. He wants to.
 
 "Forty-one hours?"
 
-"Yes, Dr. Khan."
+"Yes, Mr. Holt."
 
 "Show a timestamp."
 
 Anika does.
 
-Rasel's breath leaves him.
+His breath leaves him.
 
 On the silent screen, Maren lifts one hand in irritation. The gesture is so
-ordinary Eli almost breaks. She used the same hand to stop Rasel correcting her
+ordinary he almost breaks. She used the same hand to stop Rasel correcting her
 while she counted water into the garden beds.
 
 "Where?" Eli asks.
@@ -3526,7 +3464,7 @@ Small miss.
 Sora removes the medal from beneath her collar. Michael's small metal face.
 She wedges it into the emergency seam of pen twelve.
 
-"That is not a key," Rasel says.
+"That is not a key," Eli says.
 
 "No."
 
@@ -3546,9 +3484,8 @@ The evidence room opens automatically during fire isolation.
 
 Pen twelve does not.
 
-Rasel is already at the black case.
-
-Eli is at Hassan's door.
+Eli is at Hassan's door. The black case sits open across the corridor, copying
+without anyone to watch it.
 
 Through the glass, Hassan raises one eyebrow.
 
@@ -3565,8 +3502,7 @@ The door unlocks one centimeter.
 
 Hassan gets his fingers into the gap from inside.
 
-Across the corridor the screen begins copying Maren's file into Rasel's
-recorder.
+Across the corridor the screen begins copying Maren's file into the open case.
 
 **NINETEEN HOURS.**
 
@@ -3576,13 +3512,8 @@ Boots strike the far wash corridor.
 
 Wren says, "Exit loses in eighty seconds."
 
-Rasel watches the progress bar.
-
-"We need the placement block."
-
-"Which minute?" Eli asks.
-
-"Metadata closes last."
+Eli watches the progress bar. The placement block will close last. He knows
+that without anyone saying it. Metadata always does.
 
 Hassan and Eli pull the door.
 
@@ -3600,23 +3531,12 @@ Evidence or person.
 
 One system, making the choice efficient.
 
-Eli crosses to the recorder.
+He could cross to the case. Forty seconds of watching would not open Hassan's
+door. Six minutes of watching would not fit Wren's eighty.
 
-Rasel blocks him.
+Hassan is here.
 
-"Forty seconds."
-
-"Wren said eighty to exit."
-
-"The transfer needs six minutes."
-
-"Then it doesn't fit."
-
-"The current address is at the end."
-
-"Hassan is here."
-
-"Maren is there."
+Maren is there.
 
 The words are not argument. They are two wounds refusing to rank themselves.
 
@@ -3663,7 +3583,7 @@ The transfer reaches nine percent.
 
 Wren says, "Thirty seconds."
 
-Eli pulls Rasel's recorder from the case.
+Eli pulls the copy cable from the case.
 
 The copy breaks.
 
@@ -3671,8 +3591,7 @@ The prison lock loses its clock.
 
 Hassan's door opens.
 
-Rasel makes a sound Eli has never heard from him — the pain beneath anger,
-before anger makes the body useful.
+The broken bar sits at nine percent. He does not look at it again.
 
 "Move," Eli says.
 
@@ -3708,8 +3627,8 @@ She sees him and stops being angry for exactly one breath.
 Pin drives before the doors close.
 
 Security rounds strike the truck's rear panel. Sora braces a linen cart against
-it. Eli lies on the floor beside Hassan while Rasel sits opposite, holding the
-dead recorder as if warmth might make the missing ninety-one percent return.
+it. Eli lies on the floor beside Hassan, the broken copy cable still in his
+fist as if warmth might make the missing ninety-one percent return.
 
 The truck clears the animal road.
 
@@ -3725,11 +3644,12 @@ Inside is a ring.
 Silver and brass. Imperfect seam. The metal dulled by years of saliva,
 disinfectant, and hiding.
 
-Hassan gives it to Rasel.
+Hassan gives it to Eli.
 
-"Your wife told me you'd ask."
+"Your father would have asked. Your mother told me to give it to the one who
+came."
 
-Rasel does not take it.
+Eli does not take it at first.
 
 "You saw her?"
 
@@ -3738,22 +3658,17 @@ inscription."
 
 "What did she say?"
 
-"That you always made metaphors when engineering failed."
+"That he always made metaphors when engineering failed."
 
-Rasel begins laughing.
+Eli takes the ring.
 
-It lasts one breath and becomes grief.
-
-He takes the ring.
-
-The band does not fit over his knuckle. His hands have changed in captivity.
-
-He holds it in his palm instead.
+The band is too wide for his finger and too heavy to put away. He holds it in
+his palm instead.
 
 "Same soil," Hassan says. "She put the phrase into her word index. Said if the
 maps were stripped, relation would still travel under ordinary language."
 
-Eli touches the recorder in his pocket.
+Eli touches the nine-percent slate in his pocket.
 
 "She's alive."
 
@@ -3776,7 +3691,7 @@ Hassan's eyes open.
 "They stopped calling it Britain after the crown stopped mattering. Your mother
 called it Albion before the files did."
 
-Rasel grips the ring.
+Eli closes his hand around the ring.
 
 "Site."
 
@@ -3825,7 +3740,7 @@ The line does not belong to her yet. It strikes anyway.
 
 "She said not to let you make her innocent because you needed a mother."
 
-The ring shifts in Rasel's palm.
+The ring shifts in Eli's palm.
 
 "There was a name," Hassan adds.
 
@@ -3842,7 +3757,7 @@ Lang's office used the instability from the delay as proof she needed
 protection. She never left. Your mother told me the name herself through the
 glass. Said if you came asking for a saint, give you a ledger."
 
-Rasel closes his fist around the ring until the metal bites.
+Eli closes his fist around the ring until the metal bites.
 
 Eli files *Imani Vale* beside *alive* and *wired* and finds that mother
 will not become a prize again without that name sitting in the room.
@@ -3857,7 +3772,8 @@ Pin sleeps against the steering wheel.
 
 Sora watches the road.
 
-Rasel sits alone beneath the toll canopy with the ring beside him, not on him.
+Eli sits beneath the toll canopy with the ring beside him, not on him. Wren
+does not take it. She will hold it for evidence if he asks. He does not ask.
 
 Hassan allows Wren to clean the split in his mouth. He tells his story into no
 recorder. She listens anyway.
@@ -3919,7 +3835,7 @@ Wren waits.
 
 "Is that wrong?"
 
-"No." She looks across the plaza toward Rasel. "Making me responsible for
+"No." She looks across the plaza toward the ring. "Making me responsible for
 replacing it would be."
 
 "I didn't ask you to."
@@ -4036,8 +3952,8 @@ Rowan does not pretend otherwise.
 
 "For how many?"
 
-"Five now. More may join. One defector, one former captive, a nurse with an
-exposed clinic route, Rasel Khan, Eli Holt."
+"Four now. More may join. One defector, one former captive, a nurse with an
+exposed clinic route, Eli Holt."
 
 At Eli's name, Rowan's face changes only by attention.
 
@@ -4045,12 +3961,12 @@ At Eli's name, Rowan's face changes only by attention.
 
 "And me."
 
-"You said five."
+"You said four."
 
 Wren counts again. She has omitted herself from manifests so often that the
 error feels grammatical.
 
-"Six."
+"Five."
 
 "Good."
 
@@ -4145,6 +4061,22 @@ Rowan opens the ledger.
 
 "Callum first. Then your crossing."
 
+Wren puts a folded house sheet on the table between the ledger and the cold cup. Three lines. A receiving blank. The same draft she sent south from the Thai landing.
+
+"This goes on every placement I have signed," she says. "Right of return. Written. If he is four days overdue the paper should have let him walk back."
+
+Rowan does not pick it up.
+
+"He is four days overdue," she says. "I am not waiting for your form to grow a man."
+
+"Then the next one waits," Wren says. "I am not signing another drainage crew without it."
+
+"Sign later. Find him now."
+
+The woman at the route rack turns a letter over and does not read it.
+
+Wren leaves the sheet on the table. Rowan leaves it there.
+
 "The Pömmelte reference is part of our route."
 
 "Good. His last crew worked the same drainage district."
@@ -4163,7 +4095,7 @@ Wren looks at the cold blue cup.
 
 Rowan's mouth almost becomes the smile Wren remembers.
 
-"One night," she says. "Six people."
+"One night," she says. "Five people."
 
 She writes Wren's name into the receiving ledger.
 
@@ -4539,7 +4471,7 @@ Anke overlays movement data from teeth and bone. The dead women and children
 did not grow up in one community. They were brought from different places,
 some over years, into the same ritual system.
 
-"Captured?" Rasel asks.
+"Captured?" Hassan asks.
 
 "Possibly."
 
@@ -4672,7 +4604,9 @@ Below it:
 
 **DON'T FOLLOW BAND. LISTEN FOR THREE NOTES.**
 
-Rasel measures the floor field.
+Eli feels the floor field through the soles of his boots and does not take a
+reading. They have no instrument that would make the number mean more than
+the pews already do.
 
 Wren and Rowan audit the church's old placement terminal.
 
@@ -4732,8 +4666,8 @@ Eli looks away.
 
 The second ledger is colder.
 
-Platform contractors, employer programs, registry offices, Charkha-linked
-foundations. Paired messages tested across households:
+A header line: **CHARKHA-LINKED FOUNDATIONS.** Platform contractors, employer
+programs, registry offices. Paired messages tested across households:
 
 **DEPENDENCE IS CAPTURE.**
 
@@ -4850,8 +4784,8 @@ Rowan receives the correction.
 
 The pump alarm repeats its three notes across the field.
 
-Rasel compares the interval with Maren's chart. Hassan compares it with the
-transfer mark. The living route and the damaged record agree only in direction:
+Hassan compares the interval with Maren's chart, then with the transfer mark.
+The living route and the damaged record agree only in direction:
 west, toward a chain of riddling grounds where straight paths fail and old
 stories keep putting people under hills.
 
@@ -5153,9 +5087,9 @@ an instrument fault.
 He opens the candidate-training library. Every live profile points back to the
 reference he took through the bronze mask.
 
-For twenty years the program has renewed his access because his work made him
-useful. He had assumed the same bargain would cover whatever carried his name.
-The report has already assigned Eli a retrieval priority.
+For twenty years the program has renewed his access because the measurements
+kept coming. He had assumed the same desk would keep whatever carried his
+name off the retrieval list. The report has already assigned Eli a priority.
 
 Rasel changes the reference checksum by one digit.
 
@@ -5164,7 +5098,8 @@ for morning move into technical review. He routes the intact source file into a
 conservation dispute whose named holders include Luo and Qiao, then closes the
 report without correcting the instrument-fault finding.
 
-His hand shakes against the reader. He places it flat until it stops.
+His hand shakes against the reader. He puts it in his pocket, the old habit,
+and takes it out again because the pocket will not hold this.
 
 No message goes to Eli.
 
@@ -5804,7 +5739,8 @@ Morwen has them stop before the county line, at a disused halt where a rail spur
 
 Rowan checks the sightlines out of habit and approves them without saying so.
 
-The interval Callum's field surrendered at Men-an-Tol has been sitting in Wren's kit since the iron cut the third note — not an object, not quite a reading, a directional pressure that has been growing more specific with every mile west. Morwen calls it unresolved. Rasel calls it uninstrumented, which is not the same complaint but sounds like one.
+The interval Callum's field surrendered at Men-an-Tol has been sitting in Wren's kit since the iron cut the third note — not an object, not quite a reading, a directional pressure that has been growing more specific with every mile west. Morwen calls it unresolved. Wren has no recorder that would make the complaint
+any more exact.
 
 "You want to enter it," Morwen says. It is not a question to Eli. It has already been decided by the fact of the stop.
 
@@ -5852,11 +5788,11 @@ Wren does not take the pencil.
 
 "Good."
 
-She turns to Rasel.
+She turns to Somchai.
 
 "Will you?"
 
-"I oppose this."
+"I oppose this as his nurse."
 
 "Also good."
 
@@ -5890,21 +5826,11 @@ He arrived that morning with the mobile clinic's western handoff, three hours of
 
 Somchai records it.
 
-Rasel watches.
+"The baseline is already contaminated by the ground," he says. "It still
+matters to his care."
 
-"The baseline is already contaminated by the ground."
-
-"A person is not a sample," Somchai says.
-
-"Baseline still matters."
-
-"It matters to his care."
-
-"It matters to interpretation."
-
-"Care first."
-
-The exchange has become familiar enough that neither needs anger.
+Wren looks at the empty kit where a field recorder would have been. They do
+not have one. The gap is the measurement.
 
 Morwen lays out the abort rules.
 
@@ -5914,9 +5840,9 @@ One physical signal if speech fails: pressure twice against Eli's right palm.
 
 No witness follows him into the contact. No field read. No restraints unless he is injuring himself or another person. If Somchai ends it, it ends. If Morwen ends it, it ends. If Eli asks to continue after either has ended it, the answer remains no.
 
-"What is the interval, exactly?" Rasel asks.
+"What is the interval, exactly?" Wren asks.
 
-Morwen hands him nothing, because there is nothing printed to hand.
+Morwen hands her nothing, because there is nothing printed to hand.
 
 "Cuno's geometry says it is a carried piece of a route that used to run through this county before it ran anywhere else. It does not come with a composition sheet."
 
@@ -5928,25 +5854,11 @@ Morwen hands him nothing, because there is nothing printed to hand.
 
 "Yes."
 
-Eli looks at his father.
+Eli looks at Somchai.
 
 "You don't decide."
 
-"I know."
-
-The words hurt Rasel as they leave him. He keeps them.
-
-"I am saying no as your father."
-
-"You can."
-
-"And you may still enter it."
-
-"Yes."
-
-Rasel sits down on the platform edge.
-
-This is family without command. It feels nothing like safety.
+"I know. I can still end it."
 
 Morwen does not release the interval yet.
 
@@ -5972,7 +5884,7 @@ The interval sits in her palm the way a held breath sits in a chest — nothing 
 
 Adapa at the gate. Warning and offer carried through one authority.
 
-This platform has arranged disagreement around him instead: keeper, nurse, father, Wren, his own written exit. No source controls both the danger and the promise.
+This platform has arranged disagreement around him instead: keeper, nurse, Wren, his own written exit. No source controls both the danger and the promise.
 
 He takes it.
 
@@ -6056,7 +5968,7 @@ Operator. Classifier. Mother. Do not keep any of them running because you want o
 
 The signal constricts.
 
-Somebody has noticed. Lang's first room. Charkha's ownership. Anika's useful distinction between those facts. Names without a mutual briefing — leaked pressure, not a dialogue they finish together.
+Somebody has noticed. Lang's first room. The ownership header from Wren's print. Anika's useful distinction between those facts. Names without a mutual briefing. Leaked pressure.
 
 "Mum—"
 
@@ -6080,9 +5992,7 @@ Maren's face begins to break into interval, electrode, static, memory.
 
 No answering *I know*. Only cut.
 
-Charkha, or the apparatus wearing that function, severs before reciprocity can lock.
-
-Eli returns with Somchai's fingers at his wrist and Rasel saying Maren's name as if repetition can reopen a channel.
+Eli returns with Somchai's fingers at his wrist and Wren saying Maren's name once, then stopping.
 
 ---
 
@@ -6092,9 +6002,11 @@ Eli remembers Nia's hands around the seed packet. Lovernios in peat. Maren's fac
 
 The rest drains when he tries to report it.
 
-Rasel asks for exact phrases.
+Eli tries to keep the phrases.
 
 "She said inside the correction. Or I heard it."
+
+Wren writes that down, then stops.
 
 "Before or after Avebury?"
 
@@ -6104,43 +6016,24 @@ Rasel asks for exact phrases.
 
 "I don't know if she heard me."
 
-"Did the signal phase change at Lang?"
+Somchai steps in.
 
-"I don't know."
-
-"What does compatible interruption mean?"
-
-"I don't know."
-
-Rasel stands too quickly and nearly loses his footing on the platform edge.
-
-"You entered without an instrument and returned with the only live contact in ten years reduced to *I don't know*."
+"Leave it."
 
 Eli's head hurts too much for anger to become useful.
 
 "She talked to me."
 
-"And the rest of us received your pulse."
+"And we received your pulse," Wren says.
 
 "She told me not to widen it."
 
-"Convenient."
+Somchai looks at Wren.
 
-Somchai steps between them.
+"Currently he is my patient. Mine governs this platform."
 
-"Leave it."
-
-Rasel looks at him.
-
-"He is my son."
-
-"Currently he is my patient."
-
-"Those are not exclusive."
-
-"No. Mine governs this platform."
-
-Rasel walks off toward the car, not far, not out of sight.
+Wren closes the slate. They do not have the instrument that would have made
+the rest of the questions cheaper. The gap sits there. No one fills it.
 
 Eli lies back against a stacked pallet, the closest thing to a bed the halt provides.
 
@@ -6254,7 +6147,8 @@ The statement surprises him.
 
 "How?"
 
-Wren looks toward the halt, where Rasel is trying to reconstruct Maren's signal from Eli's failed account.
+Wren looks toward the halt, where Somchai is still holding Eli's wrist as if
+the pulse might change its mind.
 
 "You make me tell the truth in the present. Rowan knows who I was before I learned to turn every room into exits. You know the person doing it now and ask whether she wants to stop."
 
@@ -6355,7 +6249,7 @@ Place before meaning.
 
 Wren and Rowan take the evacuation map.
 
-Rasel takes the power diagram.
+Eli takes the power diagram.
 
 Somchai takes the staff medical list.
 
@@ -6376,7 +6270,7 @@ His palms answer.
 
 Somewhere beyond the visible monument, Maren's signal is pulling taut.
 
-"We have perhaps two hours," Rasel says.
+"We have perhaps two hours," Wren says.
 
 "Based on what?"
 
@@ -6386,16 +6280,8 @@ Somewhere beyond the visible monument, Maren's signal is pulling taut.
 
 "Which is why I said perhaps."
 
-"You usually say perhaps after."
-
-Rasel looks at him.
-
-"You have become unpleasant."
-
-"You got old."
-
-For half a breath they are father and son in a greenhouse arguing over a split
-stem.
+Eli looks at the stones through the service door. The pull is already taut.
+They have no recorder that would make the number cleaner.
 
 Then every phone in the service yard receives the same emergency notice.
 
@@ -6456,10 +6342,11 @@ Lean. Structural. The crown of the body declined. Flowers wait for another book.
 
 The first argument is about instruments.
 
-Rasel wants six field recorders inside the circle, each independently clocked.
+Anika wants six field recorders inside the circle, each independently clocked.
 Gareth permits two under existing maintenance authority. The local stewardship
 representative permits none on the stone side of the public path until the
-purpose is recorded.
+purpose is recorded. The group has neither Rasel's kit nor a third clock they
+trust. The two Gareth will allow are visitor counters.
 
 Sol's people offer twelve.
 
@@ -6538,7 +6425,7 @@ only at crossings. It has no sign of its own.
 
 The local archive projects the marks onto the maintenance floor.
 
-Rasel sees a switching diagram.
+Eli sees a switching diagram.
 
 Rowan sees a corridor plan.
 
@@ -6566,7 +6453,7 @@ Eli kneels beside the projection.
 
 "These aren't people," he says. "They're artifacts."
 
-Rasel enlarges the six signs.
+Eli enlarges the six signs.
 
 The Three Circles. The Folly. The Babylonian Map. The buried bridge at
 Göbekli. Men-an-Tol. The seed catalog whose maker wrote no owner's name: their
@@ -6583,7 +6470,7 @@ Somchai touches the bridge. "Contact is not comprehension."
 Wren rests two muddy fingers beside Men-an-Tol. "A completed route is not a
 returned person."
 
-Rasel studies the seed sign. "Knowledge survives its owner."
+Eli studies the seed sign. "Knowledge survives its owner."
 
 The crossing shape brightens beneath their hands as all six routes pass through
 it.
@@ -6592,15 +6479,16 @@ it.
 
 "One among several," Wren says.
 
-"Where does it send them?" Rasel asks.
+"Where does it send them?" Wren asks.
 
 Eli feels the western pull.
 
 "Somewhere inhabited."
 
-Rasel's frustration becomes visible.
+Anika's array ticks once beyond the eastern barrier, hungry for a cleaner
+interval than anyone inside the works line can give her.
 
-"You already know she is there."
+"You already know she is there," Wren says.
 
 "I know a contact occurred. One-way. She may not have locked onto me."
 
@@ -6608,40 +6496,25 @@ Rasel's frustration becomes visible.
 
 "Pieces of her, maybe. Something that pulled like hunger, then let go before I could call it contact instead of wanting."
 
-"She said my name."
+"She said a name."
 
 "Or I wanted her to. The channel did not prove receipt."
 
-"Exactly."
-
 The word reveals the problem.
 
-Rasel wants Eli to become an instrument because a partial contact already
-worked well enough to make him hungry for a complete one.
+A partial contact already worked well enough to make him hungry for a complete
+one. Anika would take that hunger and clock it.
 
 "I won't enter her without recognition here," Eli says.
-
-"You are not entering her."
-
-"Then say what I am doing."
-
-Rasel cannot find a technical phrase that changes the moral shape.
-
-"Contacting," he says.
-
-"Only if she answers."
 
 Somchai closes the medical case.
 
 "Those are my terms too."
 
-"You are here to keep bodies stable," Rasel says.
+"You are here to keep bodies stable," Anika calls from the barrier, as if the
+medical list were hers.
 
-"Bodies include hers."
-
-"She is kilometers away."
-
-"Distance has not prevented anyone from using her body yet."
+"Bodies include hers," Somchai says, not raising his voice.
 
 Gareth's radio crackles.
 
@@ -6652,9 +6525,7 @@ Wren rolls up the projected station map.
 
 "Then we move people before contact."
 
-Rasel looks at the sky.
-
-"The window—"
+Anika's array keeps its clock. The window is hers.
 
 "Contains people," Rowan says.
 
@@ -6703,7 +6574,7 @@ Neither side listens.
 The station must be corrected now or one of the systems already prepared to
 own it will speak as the source.
 
-Rasel takes the seed record to the northern crossing.
+Eli takes the seed record to the northern crossing and stays outside it.
 
 Somchai carries the bridge measurements south.
 
@@ -6774,7 +6645,7 @@ Eli remains outside the crossing.
 
 "Keep it from lying about what it received."
 
-Rasel reads the seed maker's absent claim.
+Eli reads the seed maker's absent claim.
 
 Somchai states what the bridge can do and what it cannot.
 
@@ -6817,9 +6688,8 @@ The station strains.
 
 Maren remains on the other side.
 
-Rasel looks at Eli with desperation stripped of every instrument.
-
-"Please."
+Anika's lock presses from the east, one more interval offered as if it were
+care.
 
 Eli waits.
 
@@ -6858,40 +6728,14 @@ The distinction is visible in the effort required to keep her own face.
 
 "Good."
 
-Rasel enters the edge of contact through the seed record he has attested.
-
-Maren sees him.
-
-No one speaks for several seconds.
-
-Their marriage has outlived every version of them prepared for this reunion.
-
-Rasel lifts the ring.
-
-"It doesn't fit."
-
-Maren laughs.
-
-"You got old."
-
-The same first cruelty he gave Eli. Family language surviving without becoming
-kind.
-
-"So did you."
-
-"Less gracefully."
-
-"Impossible."
-
-The field trembles around their wanting.
-
-The amplifier notices reunion and increases power.
+The field trembles around the wanting. The amplifier notices and increases
+power.
 
 Maren's face tightens.
 
 "Do not stay because this feels good."
 
-"Where are you?" Rasel asks.
+"Where are you?" Eli asks.
 
 "Avebury. Under the inhabited ring. They thought Stonehenge was the source.
 It's a station. Avebury is where the transmitted wisdom enters living ground."
@@ -6902,19 +6746,18 @@ It's a station. Avebury is where the transmitted wisdom enters living ground."
 
 The word is not hope alone.
 
-"And then?" Eli asks.
+"And then?"
 
 Maren looks at him.
 
 "You cut me out."
 
-Rasel says, "We stabilize first."
+Anika's lock presses through the eastern route.
 
-"No."
+"We stabilize first," she says, from outside the crossing. "One instrumented
+interval."
 
-"One instrumented interval."
-
-"No."
+"No," Maren says.
 
 "We don't know what removal does to your—"
 
@@ -6924,7 +6767,7 @@ Rasel says, "We stabilize first."
 
 "Both."
 
-The honesty silences him.
+The honesty silences the lock for one count.
 
 Maren reaches toward the console plants.
 
@@ -6932,11 +6775,11 @@ Maren reaches toward the console plants.
 central trace. It also makes the machine better at finding them. I am protecting
 people inside the method that cages them."
 
-"Then we replace the operator," Rasel says.
+"Then we replace the operator," Anika says.
 
 "With whom?"
 
-He has no answer that is not another captive or Eli.
+She has no answer that is not another captive or Eli.
 
 Sol's cadence breaks into the contact.
 
@@ -7000,8 +6843,8 @@ blinded its safety edge.
 
 Eli runs.
 
-The transmission breaks behind him. Maren's route remains in Rasel's recorder
-as an incomplete direction. Sol's people surge toward the monument. Anika's team
+The transmission breaks behind him. Maren's route remains in Eli's pocket
+as an incomplete direction, nine percent and a watering count. Sol's people surge toward the monument. Anika's team
 moves to contain them. For several seconds every faction mistakes the broken
 contact for defeat and tries to become the next center.
 
@@ -7053,7 +6896,7 @@ Sora stands with blood running from one ear.
 
 "Avebury road is open for six minutes."
 
-Rasel holds the recorder.
+Wren holds Gareth's keys.
 
 "Maren is moving."
 
@@ -7079,8 +6922,6 @@ People have been living through the monument for centuries. Wiring kitchens
 inside it. Walking dogs. Missing buses. Repairing roofs. The ground cannot be
 isolated from ordinary life without removing the life that kept it inhabited.
 
-Which is what Charkha has attempted.
-
 The facility occupies a former agricultural research station beneath a low
 complex east of the circle. Publicly it maintains soil archives and climate
 controls. Below, newer rooms have been cut around an older stone channel that
@@ -7102,14 +6943,13 @@ alone. Sora takes the road toward the research station. Somchai opens Gareth's
 medical bag beside the village hall and starts sorting supplies for an event
 that has not happened yet.
 
-Rasel stands beside Eli with the recorder in one hand and his wedding ring in
-the other.
+Eli stands with the strip in one pocket and the ring in the other.
 
 "We can enter through the soil archive."
 
-"How?"
+"How?" Wren asks.
 
-"The timing key identifies the maintenance cycle."
+"Maren's equation identifies the maintenance cycle."
 
 "Authorized?"
 
@@ -7118,14 +6958,6 @@ the other.
 "Witnessed?"
 
 "By you."
-
-Eli looks at him.
-
-"That used to be enough for you."
-
-"It used to be enough for your mother."
-
-The admission is not a defense.
 
 They follow Sora.
 
@@ -7137,15 +6969,9 @@ Inside, the lobby screens display root-depth studies, drought-resistant pasture,
 and a live feed from soil sensors across Albion. A receptionist sits behind the
 desk with both hands visible.
 
-"Dr. Khan," she says.
+"Mr. Holt," she says.
 
-Rasel stops.
-
-"Which?"
-
-"Both."
-
-Maren prepared the room for them.
+Maren prepared the room for him.
 
 The receptionist turns her monitor around. A maintenance request is open under
 Maren Holt's credentials:
@@ -7158,17 +6984,9 @@ He types:
 
 **TO HEAR WHAT MAREN HOLT WANTS AND HELP IF SHE CONSENTS.**
 
-Rasel reads the line.
+The receptionist issues one paper badge.
 
-His own form remains blank.
-
-Then he writes:
-
-**TO SEE MY WIFE ALIVE. TO ACCEPT THAT THIS DOES NOT DECIDE WHAT FOLLOWS.**
-
-The receptionist issues two paper badges.
-
-"She made me promise you would fill those yourselves."
+"She made me promise you would fill that yourself."
 
 "How long have you worked with her?" Eli asks.
 
@@ -7184,9 +7002,9 @@ The receptionist blinks.
 
 "Toast. Burned. Marmalade if there is any."
 
-Rasel laughs once.
+He almost laughs.
 
-"Still."
+Still.
 
 An alarm sounds below.
 
@@ -7228,17 +7046,17 @@ The answer stops him.
 
 "Under what terms?"
 
-"You enter the control position. Dr. Khan stabilizes the coupling. I maintain
-containment. Maren Holt is removed for medical care."
+"You enter the control position. I maintain containment. Maren Holt is removed
+for medical care."
 
 "And after?"
 
 "You remain until a replacement process is certified."
 
-Rasel closes his eyes.
-
-The offer is exactly what he would design if he believed technical continuity
-could keep the moral question from becoming urgent.
+The offer is exactly what Rasel would have designed if he believed technical
+continuity could keep the moral question from becoming urgent. Eli has heard
+that sentence in his father's greenhouse voice. He does not need the man in
+the room to recognize it.
 
 "How long?" Eli asks.
 
@@ -7341,15 +7159,8 @@ Maren holds him while he cries.
 
 No urgency can make the reunion less real. The machine has counted on that.
 
-Rasel remains by the door.
-
-Maren sees him over Eli's shoulder.
-
-They look at one another for a long time.
-
-Eli releases her enough to turn.
-
-Rasel holds out the ring.
+Eli takes the ring from his pocket and places it on the console between them.
+He does not put it on her or himself.
 
 "Hassan kept it."
 
@@ -7359,23 +7170,7 @@ Rasel holds out the ring.
 
 "You always underestimated clerks."
 
-"You always overestimated systems."
-
-Maren flinches.
-
-"Fair."
-
-Rasel crosses the room.
-
-He does not put the ring on her or himself. He places it on the console between
-them.
-
-"May I hold you?"
-
-"Yes."
-
-Their embrace is quieter. More damaged. Eli sees the years each is trying not
-to demand from the other's body.
+The sentence is for a man who is not in the room. She lets it stand.
 
 The console alarm counts down.
 
@@ -7522,7 +7317,7 @@ through the station network."
 
 "Probably."
 
-Rasel steps toward the instruments.
+Anika steps toward the instruments.
 
 "We can interrupt after stabilizing a local replacement."
 
@@ -7536,7 +7331,7 @@ Rasel steps toward the instruments.
 
 "Under this clock?"
 
-Rasel stops.
+Anika stops.
 
 The timer reaches three minutes.
 
@@ -7739,13 +7534,13 @@ The timer reaches one minute.
 Maren returns to the support frame. The ports must come out in sequence; remove
 them together and her heart may stop before she reaches the field.
 
-Rasel begins disconnecting under her instruction.
+Eli begins disconnecting under her instruction.
 
 Somchai enters through the lower door, breathless from the village hall.
 
 "I can hold her cardiovascular pattern during removal," he says.
 
-"For how long?" Rasel asks.
+"For how long?" Anika asks from the door.
 
 "Not long."
 
@@ -7761,22 +7556,20 @@ Somchai enters through the lower door, breathless from the village hall.
 
 "No," Maren says.
 
-Rasel looks at her.
+Anika looks at her.
 
 "One more instrumented interval."
 
 "No."
 
-The husband receives what the scientist would not.
-
-He removes the first port.
+Eli removes the first port.
 
 Maren screams.
 
 Somchai places his hands only after she nods. His field enters as support, not
 replacement. Blood pressure. Breath. Tissue holding around absence.
 
-Rasel removes the second.
+Eli removes the second.
 
 The captive signatures flare across the console.
 
@@ -7846,7 +7639,7 @@ Maren loses her legs.
 
 Eli catches her with Somchai.
 
-Rasel pulls the final cable before the damaged console can lock it permanently.
+Eli pulls the final cable before the damaged console can lock it permanently.
 
 Every captive thread snaps taut.
 
@@ -7979,7 +7772,7 @@ headache has become weather occupying the entire building.
 Wren sits beside the mattress.
 
 Rowan sleeps upright against the wall with Wren's route case under one hand.
-Rasel is not in the room.
+Rasel is not in the room. He was not on the road.
 
 "Maren?"
 
@@ -7991,11 +7784,7 @@ Rasel is not in the room.
 
 "Dad?"
 
-"Outside it."
-
-"Why outside?"
-
-"She asked."
+"Sanxingdui, as far as anyone will say."
 
 The answer hurts and relieves in equal measure.
 
@@ -8072,18 +7861,16 @@ Not a symbolic one. Six raised beds behind a recovery house, winter greens under
 mesh, paths wide enough for mobility chairs. She sits wrapped in a blanket with
 the port wounds bandaged beneath her shirt.
 
-Rasel is on the other side of the glass door, visible in the kitchen and not
-entering.
+The kitchen beyond the glass door is empty. A cup has been set out and not
+used.
 
-"He has been there four hours," Maren says.
+"I thought he might have come," Eli says.
 
-"You could send him away."
+"He didn't."
 
-"I may."
+"Do you want him to?"
 
-"Do you want me to?"
-
-"No."
+"I don't know yet."
 
 Eli sits beside her.
 
@@ -8166,15 +7953,15 @@ She takes his hand.
 "Not Charkha's. Not yours. A real process includes the possibility that I dislike
 its judgment."
 
-Eli looks through the glass at Rasel.
+Eli looks through the glass at the unused cup.
 
 "And him?"
 
-"Ask him."
+"Ask him, when you can."
 
 "You know what I mean."
 
-"I do. That is why you should ask him."
+"I do. That is why you should ask him, not me."
 
 She releases his hand.
 
@@ -8203,9 +7990,9 @@ Maren smiles.
 The morning after release has too many departures.
 
 Hassan chooses to testify through Nadiya's archive council, with redactions he
-controls and no transfer of the physical ring. Rasel keeps the ring only until
-Maren decides its custody; for now it remains in the recovery-house safe under
-both their names.
+controls and no transfer of the physical ring. Wren holds the ring for
+evidence until Maren decides its custody; for now it remains in the
+recovery-house safe under Holt and the archive's dispute notice.
 
 Somchai leaves with the mobile clinic before anyone can arrange a ceremony. The
 families outside call after him. He carries a medication crate and tells them

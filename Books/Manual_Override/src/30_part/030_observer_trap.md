@@ -5,7 +5,7 @@
 
 The practice of witnessing thoughts and emotions from a detached perspective is a cornerstone of many spiritual traditions. It feels like a key to freedom—the discovery of a stable awareness behind the chaos of experience. Yet, this position can also be a lonely one, creating a sense of separation from the very life we wish to engage with.
 
-This chapter reframes the "observer." The critical insight is not the discovery of a fixed witness, but the opening of a new possibility for **relationship**. The essential experience is recognizing a thought or feeling as "not self." This act of differentiation is not about proving whether an observer exists—an irrelevant question, like trying to see your own eyeball. It is about creating the space to *relate* to your inner world rather than being fused with it.
+This chapter reframes the "observer." The critical insight is not the discovery of a fixed witness, but the opening of a new possibility for **relationship**. The essential experience is recognizing a thought or feeling as "not self." This act of differentiation is not about proving whether an observer exists—an irrelevant question, like trying to see your own eyeball. It is about creating the space to *relate* to your inner world rather than telling the second-step story that it is happening to an I.
 
 The trap is not the observer itself, but in solidifying it as a final identity. The opportunity is to use the space it creates to move from passive witnessing into a dynamic, conscious relationship with the contents of your experience.
 
@@ -17,30 +17,25 @@ What we call the "observer" is not another kind of charge. It is the conscious s
 
 **Relationship** begins when you turn back toward the experience with curiosity, compassion, or simple allowing presence. You can investigate the charge's direction, the rule trying to act on it, and the information carried by the experience without being consumed by any of them.
 
+**The chair and the wound.** A practical way to find that relationship. Look at something you are not identified with — a chair, a floorboard. Grain, weight, light. No owner in it. When that look is stable, move to something that has an I: a stressor, a body heat, a sentence about yourself. Then back to the chair. Then the wound. Keep going until the same look holds on both. Hiding in the chair is the lonely observer. Staying only on the wound lets the second-step I run. The middle is the relation that was easy on the furniture becoming available on the identified thing. This is *anatta* as a guard, not a metaphysics. Full map: `50_The_Orphaned_Species/69_self_formation_and_altitude.md`.
+
 **Meta-cognition** makes you aware of *how* you are relating. Are you applying another rule of judgment, fear, or compulsory acceptance? This is not a new charge category but a deepening of control, allowing you to choose how the machine engages with its inner world.
 
-## The Planes of Observation
+## What can be observed (not a climb)
 
-**Different Levels of Observer-Observed Dynamics:**
+These are **contents and responses**, not rungs of development and not *planes* in the `34` sense. Locus altitude (how identified the pointer is) is a different cut. You can tell a story-I about a thought or about an emotion. You do not fuse with heat. Heat is sensation.
 
-**Physical Plane Observation** involves witnessing bodily sensations, movements, and physical processes from a detached perspective. This can create helpful distance from pain and discomfort, allowing for greater equanimity with physical experience. However, the risk lies in dissociation from embodied experience—the observer can become so identified with watching the body that it loses connection with the wisdom and intelligence that flows through physical sensation.
+**Sensation.** Witnessing bodily data — heat, pressure, movement — from enough distance that the second-step I does not fire. Risk: dissociation, treating the body as a screen instead of remaining in contact.
 
-**Mental Plane Observation** focuses on watching thoughts arise and pass away, observing mental patterns and belief structures with detached awareness. This practice can reveal the mechanical nature of thinking and free consciousness from identification with mental content. Yet it carries the risk of creating a mental observer that subtly judges mental content, establishing a hierarchy where the observer is "good" and thoughts are "bad" or "illusory."
+**Thought.** Watching thoughts arise and pass. Risk: a mental observer that judges thought as "bad" or "illusory."
 
-**Emotional Plane Observation** attempts to witness feelings and emotional states without being overwhelmed by them.
-- Witnessing emotions without being overwhelmed by them
-- Observing emotional charge patterns and their triggers
-- **Risk**: Emotional bypassing and suppression. For example, a person might say, "I am observing anger," as a way to avoid feeling the raw, uncomfortable energy of the anger itself, creating a spiritual shield against genuine emotional processing.
+**Emotion.** The machine's **response to charge**, not the charge itself. Witness the response without being run by it, and without pretending the charge is the feeling. Risk: saying "I am observing anger" in order not to feel the response.
 
-**Energetic Plane Observation:**
-- Witnessing charge patterns and energetic movements
-- Observing the flow of life force and consciousness
-- **Risk**: Becoming attached to energetic experiences. This can lead to "spiritual materialism," where one chases pleasant energetic states (like bliss or spaciousness) and avoids difficult ones, turning practice into another form of pleasure-seeking.
+**Charge.** The impulse — push, pull, continue — as guidance relating to the place you can engage from. Risk: chasing pleasant states or treating the needle as the destination.
 
-**Spiritual Plane Observation:**
-- Witnessing the arising and passing of all phenomena
-- Observing consciousness itself
-- **Risk**: Creating a spiritual observer identity. The ego, having been unseated from other identities, simply claims "pure awareness" as its new, most refined costume, saying, "I am the one who is aware," thus perpetuating the core illusion of a separate self.
+**Consciousness as content.** Watching phenomena arise, including the sense of awareness. Risk: the ego claims "I am the one who is aware" as its new costume.
+
+Do not stack these as body → mind → emotion → energy → spirit. That stack is retired.
 
 ## How Witnessing Hacks the Charge Response System
 
@@ -79,12 +74,8 @@ But there's another possibility hidden in this recursive structure. What we expe
 
 The story for the character (NPC) in this plane is not about climbing up to higher levels, but about opening up and surrendering to what's already being transmitted down. From the perspective of any given level, this higher-level information appears miraculous—it seems to arise spontaneously, without cause, like genuine freedom.
 
-**The Infinite Hierarchy of Freedom:**
-- **Level 1**: The body-mind operates mechanically, but receives "miraculous" information from mental awareness
-- **Level 2**: Mental awareness operates logically, but receives "miraculous" insights from emotional intelligence
-- **Level 3**: Emotional intelligence operates reactively, but receives "miraculous" guidance from energetic awareness
-- **Level 4**: Energetic awareness operates according to charge patterns, but receives "miraculous" direction from spiritual consciousness
-- **Level ∞**: Each level experiences freedom as information from the level above
+**Altitude, not a content ladder:**
+Freedom is experienced as information from **one locus-altitude above** wherever you are currently identified — from story-I into sati relation, from sati into Player. That is not a climb through sensation → thought → emotion → charge → spirit. Those are things you can be identified *about*, not floors you graduate through. Each altitude experiences the next as "from above." There is no final content-floor.
 
 **The "Projector and Screen" Metaphor**
 

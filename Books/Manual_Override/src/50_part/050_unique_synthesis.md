@@ -161,7 +161,7 @@ How do you distinguish between a difficult but transformative spiritual emergenc
 
 *   **Integration vs. Destabilization**: A spiritual process, even when painful, leads to a greater sense of integration over time. You may go through a difficult week, but you emerge feeling more whole, grounded, and capable than before. A psychological crisis leads to ongoing destabilization, where your ability to function in daily life (work, relationships, self-care) consistently deteriorates.
 
-*   **The Observer is Present vs. The Observer is Lost**: During intense spiritual experiences, you can usually maintain a thread of awareness—the "observer"—that knows you are having an experience, even a difficult one. In a crisis, this observer is lost. You become completely fused with the fear, despair, or chaotic thoughts, with no sense of perspective.
+*   **The Observer is Present vs. The Observer is Lost**: During intense spiritual experiences, you can usually maintain a thread of awareness—the "observer"—that knows you are having an experience, even a difficult one. In a crisis, this observer is lost. The second-step story fires: there is an I, and the fear, despair, or chaotic thought is happening to it. No room left to engage.
 
 *   **Grounded vs. Ungrounded**: A healthy process involves cycling between deep exploration and returning to a grounded sense of self and ordinary life. A crisis is characterized by a persistent feeling of being ungrounded, disconnected from your body, and lost in abstract or frightening mental loops.
 

@@ -319,7 +319,7 @@ The path to freedom is rarely what we expect it to be. But it's always available
 1. When you notice a loop starting, immediately begin counting: "One... two... three..."
 2. Hear each number clearly in your inner voice
 3. If the loop tries to interrupt, gently return to the next number
-4. Notice how the emotional charge fades by the time you reach 10
+4. Notice how the charge, and the emotion that answered it, have less hold by the time you reach 10
 
 **🏆 Achievement: Voice Hijacker** 🎙️ *(Successfully use inner voice counting to break 5 loops)*
 

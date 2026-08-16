@@ -1,7 +1,7 @@
 # THE ORPHANED SPECIES — WORLD BIBLE
 _Locking document. Chapter drafts must not contradict what is specified here._
 
-> **SERIES IS FOUR VOLUMES FOR THE CIVIC ARC — see `SERIES_STRUCTURE.md`.** Books I–IV = Breach → Descent → Living World → Court of Threads. **Books V–X** = Lifetime Orchestra — **+6 locked** (Bridge → 4 past lives → Ω); titles open (`62`). **Family total — LOCKED:** **14 core** = 10 Layer 1 novels + 4 Layer 2 companions; satellites outside (`63`; `SERIES_STRUCTURE.md` § *Family total*). **Ultimate metaphysical thesis locked 2026-07-30**; **technology teaches meaning — LOCKED 2026-07-31.** A same-day 2026-07-29 experiment briefly split Book I and renumbered later volumes; that split was reversed.
+> **SERIES IS FOUR VOLUMES FOR THE CIVIC ARC — see `SERIES_STRUCTURE.md`.** Books I–IV = Breach → Descent → Living World → Court of Threads. **Books V–X** = Lifetime Orchestra — **+6 locked**; map **LOCKED 2026-08-16:** V founders/infancy → VI Göbekli → VII Adapa → VIII last garrison → IX leave → Ω. Sanxingdui is Book I only. Titles open (`62`). **Family total — LOCKED:** **14 core** = 10 Layer 1 novels + 4 Layer 2 companions; satellites outside (`63`; `SERIES_STRUCTURE.md` § *Family total*). **Ultimate metaphysical thesis locked 2026-07-30**; **technology teaches meaning — LOCKED 2026-07-31.** A same-day 2026-07-29 experiment briefly split Book I and renumbered later volumes; that split was reversed.
 
 > **HIGH PRIORITY — SANXINGDUI CLIMAX REVISED 2026-07-27:** Book I runs Pelangi
 > → Meridian → Malacca → Thailand → **Sanxingdui**, where Eli recovers **Rasel**
@@ -110,27 +110,27 @@ distributed command, and the child is born without title or inherited claim.
 Governing architecture:
 `50_The_Orphaned_Species/60_volume_IV_court_of_threads.md`.
 
-**BOOK V FLIGHTS / NEO-ŚRAMAṆA BRIDGE — LOCKED 2026-08-01:** Book IV seeds
+**BOOK IX FLIGHTS / NEO-ŚRAMAṆA — LOCKED 2026-08-01; shelf 2026-08-15:** Book IV seeds
 traveling practices, young repair and harvest crews, and the closing mountain
-swifts; it does not found a new order. In the later-life Book V bridge, a loose
-neo-śramaṇa movement grows from teahouses, service houses, work-song, voluntary
-simplicity, contemplation, psionic restraint, and practical care. Young people
-then reorganize the routes into seasonal, self-chosen mobile cohorts called
-**flights**. Flights take temporary bird names from route, season, or task and
-carry labor, seed, repair, medicine, song, news, and technique between distinct
-settlements. They are not ethnic tribes, permanent clans, personality kinds,
-animal houses, or a youth caste. A flight must permit landing: members may
-leave, return home, change routes, remain unaffiliated, and challenge mentors or
-sponsors without civil death. Book V's personal test is Tara's generation—and
-potentially Tara herself—joining a form the founders did not design. Eli,
-Rowan, and Wren must honor the right to leave without pretending care requires
-indifference. Capture paths stay active: charismatic teachers, spiritual rank,
-commercial sponsorship, labor exploitation, smuggling, sexual hierarchy,
-psionic elitism, gang loyalty, and contempt for those who remain at home. The
-governing generational movement is: **the parents built a society in which the
-young could leave; the young use that freedom to build a society their parents
-do not understand.** Full social form: `50_teahouse_pilgrimage.md`; Book V
-bridge: `62_lifetime_orchestra.md`.
+swifts; it does not found a new order. Book V is founders and infants only.
+In **Book IX**, after the three era novels, a loose neo-śramaṇa movement grows
+from teahouses, service houses, work-song, voluntary simplicity, contemplation,
+psionic restraint, and practical care. Young people reorganize the routes into
+seasonal, self-chosen mobile cohorts called **flights**. Flights take temporary
+bird names from route, season, or task and carry labor, seed, repair, medicine,
+song, news, and technique between distinct settlements. They are not ethnic
+tribes, permanent clans, personality kinds, animal houses, or a youth caste. A
+flight must permit landing: members may leave, return home, change routes,
+remain unaffiliated, and challenge mentors or sponsors without civil death.
+Book IX's personal test is Tara's generation—and potentially Tara herself—
+joining a form the founders did not design. Eli, Rowan, and Wren must honor the
+right to leave without pretending care requires indifference. Capture paths
+stay active: charismatic teachers, spiritual rank, commercial sponsorship,
+labor exploitation, smuggling, sexual hierarchy, psionic elitism, gang loyalty,
+and contempt for those who remain at home. The governing generational movement
+is: **the parents built a society in which the young could leave; the young use
+that freedom to build a society their parents do not understand.** Full social
+form: `50_teahouse_pilgrimage.md`; Book IX: `62_lifetime_orchestra.md`.
 
 **BRAZIL → HAWAIʻI / COSTA RICA Turning — LOCKED 2026-08-01:** Book III's
 first six chapters move physically through a specific Brazilian lower-Amazon /
@@ -192,7 +192,7 @@ repetitive work only under safe, voluntary, age-bounded conditions. Song keeps
 pace and carries sequences—what gets soaked, what cannot be mixed, when tools
 stop—not mystical botanical truth. School, play, and refusal remain protected.
 The practice integrates newcomers into useful relationship without making
-children an emergency labor pool. By Book V, some wandering youth know how to
+children an emergency labor pool. By Book IX, some wandering youth know how to
 leave a place with a nursery, a shade plan, and trained successors rather than
 merely passing through it.
 
@@ -311,7 +311,7 @@ property. **Animal houses — MATURATION / MENTORSHIP ONLY; REVISED 2026-08-01:*
 cloister teaching lineages (**Stag**; folk speech may say **Deer**; **Fox, Bear,
 Salmon, Ox**) with rites of
 passage; never temperament, job, military, or civic categories. Crow retired so
-bird/flight language stays free for swifts coda and Book V flights (`40` §
+bird/flight language stays free for swifts coda and Book IX flights (`40` §
 *Cloister animal houses*). Book IV makes the allocation of defense, repair, command, care, and bodily risk a
 court conflict: work and authority must be redistributed by aptitude, consent,
 training, rotation, and continuing care—not returned to a sex caste, and not
@@ -419,7 +419,7 @@ Hidden, pre-Turning, cross all three blocs. These are the societies the user mea
 - **The Harbor Thread** — men’s mostly-underground corridor network, accepted but not spoken. Sorts men into front posts. Each man holds one segment; help costs exposure. Not an order — not the missing male order.
 - **The Charkha** — encoded word-lineage from the wheel/chariot tradition. Runs inside legitimate systems. Present face: Charkha Measure, pair-severance, dependency transfer, platform contractors, foundations.
 - **Maren's field notebook / Word-Web** — Maren’s bounded comparative field journal, witness-unlocked. Not an artifact; an interpretive matrix.
-- **Apkallu interpreter line** — Göbekli-era interpreters (snake/teahouse side), transmission without ownership. The non-interpreter/registry side became institutional.
+- **Apkallu interpreter line** — Göbekli-era interpreters (snake/teahouse side), transmission without ownership. The Igigi / non-interpreter / registry side became institutional.
 - **Teahouse pilgrimage** — mature post-Book III form; polycentric scientific and contemplative commons at charged grounds, witness sites, ruins, gardens, ports.
 - **Delphi / Laurel Cube keepers** — millennia-old, never state-controlled. Inner chamber known only to oracles and their keepers. Delphic Games, dream-incubation, keeper-house hosting.
 - **Albion keeper networks** — inland remnant, matriline/song/threshold practice, broken-route Europe.
@@ -449,10 +449,9 @@ Social, not state. These are the lived forms through which people organize when 
 ### 5. Cosmic / non-human agencies
 Not human factions.
 
-- **Anunnaki / Anu + 26** — elder spirit council.
-- **Igigi / Olympians / seventy sons** — younger controlling generation.
+- **Anunnaki / Anu + 26** — parent gods; Enki and Enlil both sit here. Hebrew class-word: *elohim* (`45`).
+- **Children of the gods** — Apkallu (snake) and Igigi (bird; Hebrew: Watchers; Greek: Olympians). Igigi names the bird-people as a whole. The fallen among them ran the cage. Texts say *sons of God* / *bene elohim*; the caste is a people.
 - **Jinn** — free-willed non-human species native to the Unseen.
-- **Apkallu** — intermediary guardian caste.
 - **Dragons / dragon-remnant** — native Earth marine reptilian lineage.
 
 ---
@@ -628,7 +627,7 @@ Not human factions.
 
 - **Antenna vs. signal.** The puberty trips (§§2–4) are the *door* — the biology. The intro's "something else woke" (§7) is what walks through it: the dormant receiver-hardware (chromosome-2 seam + pineal/cryptochrome stack, per `39`) flipping open to the non-local field — the Grid, the dead, the deep-time signal. Biology is the antenna; the field behind it is the deeper real (`39` framing rule: "biology is the antenna, not the whole story").
 - **Layer map (near-future → cosmic):**
-  - The Continentalist Party's "activation" registry = the **modern face of the control faction** (Igigi/control-era governance via entrainment, `00` Two Trees). Cataloging carriers = harvesting/control. Hiding a kid through their trips = the **dissenter line** (Enki/Apkallu) protecting the reawakening.
+  - The Continentalist Party's "activation" registry = the **modern face of the control faction** (fallen-Igigi / control-era governance via entrainment, `00` Two Trees). Cataloging carriers = harvesting/control. Hiding a kid through their trips = the **dissenter line** (Enki/Apkallu) protecting the reawakening.
   - **Maren's keepers** = that present-day dissenter/keeper underground.
   - **Pelangi Reach itself = a carrier refuge** established by an eccentric keeper ("Babaji," the old man on the island); its guardians (the "mafia" Eli meets) form a local underground cell. **Rasel Khan** (রাসেল খান — **Rasel** in speech and on forms; *Russell* in some English mouths) **was Babaji's friend** — gardener who helped plant the island; when the net broke he asked Babaji to find Eli **work, not money**. Eli's cover against the Continentalist Party registry is **Rasel's boy on a wage ticket**, not a mistaken heir — see MS antique-car / tea scene (interstitial before Ch Two).
   - Eli's post-breach **wide-receiver** status (`39` §4: receiver/reflector, TBI-breached filter) lets charged grounds clarify distinct historical witnesses without turning them into his incarnations or a pre-set roster. His stateless drift through the carrier network becomes the species rediscovering itself through particular people, practices, and corrections.

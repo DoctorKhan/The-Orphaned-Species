@@ -84,6 +84,8 @@ if the title changes.
 > reunification; Book IV is convoy defense, low-intensity conflict, and the
 > struggle to keep emergency violence from becoming permanent.
 
+> **AGENCY PACING — LOCKED 2026-08-15:** one loss, one return (`68` § *Pacing*). **Take away:** heir-fear / remaining indispensable. **Return:** middle way + relinquishment during birth. *Perhaps there is a middle way* once, after conduct, not as a creed. Cherry journey = song vocabulary, not a new religion. Do not restage Book III's force-sync exam.
+>
 > **VIOLENCE CYCLE / TAOIST MATURITY — LOCKED 2026-07-30; middle way 2026-07-30:** Book III made Eli
 > the hero and showed that **things under heroism are not what they seem**. Book
 > IV is where he **understands the loop**: force answers shortage with seizure;
@@ -144,10 +146,14 @@ if the title changes.
 > pleasure×imagination / atomization / counterfeit completion; the other is
 > emergency crowns answering emergency crowns.
 
-> **DEEP-TIME RESIDUE / ANCIENT FACE — LOCKED 2026-07-30:** Book IV ancient face =
-> **court as fossil temple** — offices without gods; refuse heir mythology.
-> Attestation, consort, protector, heir, and claim-review should feel like
-> degraded older claiming systems wearing civic clothes. Quota: ~one deep-time
+> **DEEP-TIME RESIDUE / ANCIENT FACE — LOCKED 2026-07-30; WONDER FLOOR 2026-08-16:**
+> Book IV ancient face is two registers at once: **court as fossil temple**
+> (offices without gods; refuse heir mythology) **and** **grown corridor /
+> birth-field** (living earth still attending). Attestation, consort, protector,
+> heir, and claim-review should feel like degraded older claiming systems wearing
+> civic clothes. The corridor, the eruption, the Heather ground, and the
+> birth-room plants are the other face — earth technology and life technology
+> still doing work (`22` § *Wonder and earth-tech floor*). Quota: ~one deep-time
 > residue every 1–2 chapters (`17` § *Deep-time residue density*).
 
 > **DREAM MATURITY — LOCKED 2026-08-01:** Eli may still dream vividly, but Book
@@ -166,7 +172,11 @@ if the title changes.
 > fail. The physical trigger is a **VEI-6 / low-VEI-7 fictional North Pacific
 > eruption**, deliberately not Yellowstone and not a precise climate forecast.
 > The eruption damages its region, closes or complicates northern routes, and
-> produces uncertain seasonal cooling and rainfall disruption. The social
+> produces uncertain seasonal cooling and rainfall disruption.
+> **Wonder first (2026-08-16):** one stretch of ash, light, and watersheds
+> answering — a sky that does not look like weather, a river running the wrong
+> color, a corridor tree holding when a northern stand does not — before anyone
+> opens the forecast fight (`22` § *Wonder and earth-tech floor*). The social
 > disaster comes from the world around it: low reserves, damaged fertilizer and
 > machinery chains, concentrated staple production, incompatible forecasts,
 > export bans, speculative contracts, emergency credentials, hoarding, and
@@ -207,8 +217,8 @@ if the title changes.
 > ran science and keeper tradition as one reciprocal lineage before the
 > blocs split and captured each half separately. The Lean Year proves the
 > split can be crossed back under pressure, without a center forcing it.
-> Book V–X's neo-śramaṇa/teahouse institutions formalize what this volume
-> shows can hold (`62_lifetime_orchestra.md` § *Book V bridge*).
+> Book IX's neo-śramaṇa/teahouse institutions formalize what this volume
+> shows can hold (`62_lifetime_orchestra.md` § *Book IX*).
 >
 > **On-page mechanism — LOCKED 2026-08-13:** Dramatize this as two matched
 > failures, using material already live in the Lean Year. A **rival
@@ -380,9 +390,9 @@ refuse northern demands, and do not surrender local records to the court.
 South American food, seed, shipping, and technical aid likewise move under
 negotiated reciprocal obligations rather than a destiny to rescue the North.
 
-**Heather Cube, on-page — LOCKED 2026-08-06:** the Union's bloc-cube sits in whatever North American city the court ends up physically sited in (exact city still open, same consultation-required discipline as the Costa Rica Turning above) — not toured as a restored capital, and not the ruined Washington/San Francisco the cast is explicitly barred from visiting, but present in the volume's ordinary geography the way the court itself is. Its function on-page is the Union's suppression of pilgrim devotion made visible and dramatized rather than left as background texture (`95_glossary.md` § *Sacred devotion*): permits, checkpoints, a crackdown or dispersal the court has to respond to or decline to intervene in, pilgrims treated as a security problem by the same institutional reflex that already pathologizes threshold onset as neurological contagion. Eli's relationship to it should stay oblique — he is not there to resolve the Cube or its devotion, only to register, once, that the state he is provisionally governing treats its own people's reverence as a threat to be managed, the same instinct he is trying to refuse in his own bounded authority.
+**Heather Cube, on-page — LOCKED 2026-08-06; GROUND LIVE 2026-08-16:** the Union's bloc-cube sits in whatever North American city the court ends up physically sited in (exact city still open, same consultation-required discipline as the Costa Rica Turning above) — not toured as a restored capital, and not the ruined Washington/San Francisco the cast is explicitly barred from visiting, but present in the volume's ordinary geography the way the court itself is. The ground still behaves: a spring, a planting that will not die in the Lean Year, or Courage-field vertigo the pilgrims came for. The Union's suppression of pilgrim devotion is a response to that live ground, made visible as permits, checkpoints, a crackdown or dispersal the court has to respond to or decline to intervene in (`95_glossary.md` § *Sacred devotion`). Pilgrims are treated as a security problem by the same institutional reflex that already pathologizes threshold onset as neurological contagion. Eli's relationship to it should stay oblique — he is not there to resolve the Cube or its devotion, only to register, once, that the state he is provisionally governing treats a living ground and its people as a threat to be managed, the same instinct he is trying to refuse in his own bounded authority.
 
-**The grown corridor / tree lock — LOCKED 2026-08-01:** The receiving network's
+**The grown corridor / tree lock — LOCKED 2026-08-01; WONDER ON-PAGE 2026-08-16:** The receiving network's
 capacity is biological as well as administrative. Costa Rican watershed and
 biological-corridor committees, Indigenous authorities, growers, nurseries,
 clinics, ports, and route houses have spent decades joining protected and
@@ -395,6 +405,11 @@ food-tree yield, and the labor needed to keep all of them alive. Monteverde's
 older emergent specimens and Pacific-slope ceibas function as both infrastructure
 and civic landmarks: shade corridors, slope anchors, named meeting places,
 and durable proof that the corridor is inherited work, not improvised shelter.
+**On-page obligation:** at least one scene lets a character *use* the corridor as
+earth technology — walk a cooled road, drink from what the slope still holds,
+eat from a kitchen the canopy made possible, or watch a council refuse a number
+because the dry-season water will not stretch. Wonder first; the admission
+arithmetic after.
 
 This makes trees active political stakes without making them magical. A psion
 may notice water stress or a stand's disrupted coherence before an instrument
@@ -424,7 +439,7 @@ work refrains under explicit age, schooling, rest, and refusal limits. The songs
 encode sequence and safety, not ancient plant revelation. A route firm tries to
 turn this into an unpaid “youth integration” requirement; local teachers and
 growers defeat it. What survives is voluntary apprenticeship and paid adult
-restoration work. This becomes a practical ancestor of Book V's wandering youth
+restoration work. This becomes a practical ancestor of Book IX's wandering youth
 groups: they learn that departure entails leaving trained hands and living
 capacity behind.
 
@@ -875,6 +890,13 @@ The birth pays off the three bonds without turning Rowan into scenery:
   faces outward.
 - Eli grounds Rowan and remains present as lover and father rather than leaving
   to reclaim the center.
+
+**Birth-field — LOCKED 2026-08-16:** the living world attends. Cuttings from the
+grown corridor, a charged-ground plant already in the room, or the Heather-city
+ground under the building answers labor — warmth, a change in the air, a growth
+or stillness no one asked for. Wonder shares the hours with the vote. The child
+takes no mark, no omen, no title. Nobody interprets the room's answer as a
+claim on the baby. `22` § *Wonder and earth-tech floor*.
 
 When officials demand an override or extension, Eli activates the prepared
 transfer after the distributed institutions have already governed without him

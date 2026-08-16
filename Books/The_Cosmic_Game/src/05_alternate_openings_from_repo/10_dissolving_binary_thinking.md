@@ -33,7 +33,7 @@ Binary thinking isn't just cultural—it's neurologically programmed:
 
 **Cognitive Shortcuts**: Binary thinking requires less mental energy than complex analysis, making it the default mode for most people.
 
-**Emotional Charges**: Binary concepts become loaded with emotional charges that trigger automatic responses, bypassing rational analysis.
+**Valence as command**: Binary concepts get hooked to charge (push/pull). The machine answers with emotion and then treats that feeling as an order, bypassing analysis.
 
 ## How Consciousness Technologies Dissolve Binary Programming
 

@@ -74,7 +74,7 @@ To understand your soul's chosen curriculum, examine the recurring themes in you
 
 **Career Challenges**: Professional obstacles that trigger specific emotional reactions
 
-**Health Issues**: Physical symptoms that correlate with emotional charges
+**Health Issues**: Physical symptoms that correlate with charges and the emotions that answer them
 
 **Recurring Dreams**: Symbolic representations of your soul's learning agenda
 

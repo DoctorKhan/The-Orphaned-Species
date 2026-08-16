@@ -1,12 +1,15 @@
 # SERIES STRUCTURE — the authoritative volume map
 
-> **Architecture synthesis lock 2026-08-06:** full-depth review confirmed the 14-core
-> family with per-count rationale and a locked critical path (II–IV density parity →
-> Cosmic Game reincarnation reconciliation *before Book II finalizes* → `41` climax
-> author decisions → V–X life cards). See `50_The_Orphaned_Species/99_open_questions.md`
-> § *Architecture synthesis lock*.
+> **Architecture synthesis lock 2026-08-06; Orchestra reshape 2026-08-15:**
+> 14-core family stands. Orchestra internal map revised: V founders/infancy ·
+> three past lives (VI–VIII) · IX young generation · X Ω. Sanxingdui is Book I
+> only — not an era novel. See `50_The_Orphaned_Species/99_open_questions.md`
+> § *Architecture synthesis lock* and § *Orchestra reshape*.
 >
 > **Read this first if you are unsure how many books this series has, what's in each one, or what a file name refers to.**
+>
+> **What is current — LOCKED 2026-08-16:** `50_The_Orphaned_Species/00_INDEX.md`
+> (LIVE / QUARRY / PROCESS). Drafting stack and propagation rule live there.
 >
 > **Family total — LOCKED 2026-07-31:** **14 core** = 10 Layer 1 novels (I–X) + 4
 > Layer 2 companions. Satellites outside. See § *Family total* below.
@@ -15,15 +18,20 @@
 >
 > **Governing manuscripts** live under `50_The_Orphaned_Species/manuscripts/`. Stale/quarry prose lives under `50_The_Orphaned_Species/archive/manuscripts/`.
 >
-> **Books V–X (Lifetime Orchestra — LOCKED count 2026-07-31):** append-only;
-> **+6 books** after the civic arc. Titles still open; chapter plots not yet.
+> **Books V–X (Lifetime Orchestra — count LOCKED +6, 2026-07-31; map LOCKED
+> 2026-08-16):** append-only; **+6 books** after the civic arc. Shape: **V**
+> founders/infancy → **VI–VIII** three past lives → **IX** young generation →
+> **X** Ω. Eras locked: Göbekli · Adapa/Eridu · last garrison. Sanxingdui is
+> Book I only. Titles and chapter plots still open.
 > **Metaphysical horizon — LOCKED 2026-07-30:** see § *Ultimate metaphysical
 > thesis* below. I–IV remain the publishable civic arc; V–X dramatize the
-> artificial-world / training-wheels thesis via Bridge → past lives → Ω.
+> artificial-world / training-wheels thesis via founders, three lives, leave, Ω.
 > Structure: `50_The_Orphaned_Species/62_lifetime_orchestra.md`. Do not invent
 > chapter plots until a volume has want / clocks / opponent job.
 >
 > **V–X drafting freeze — LOCKED 2026-08-01:** Orchestra stays notebook / count lock only until Books I–IV each pass complete-meal and climax-staging tests. Not an I–IV revision gate.
+>
+> **I–II pass before side projects — LOCKED 2026-08-16:** Do not start the Goonies kid-crew, the Wren/Rowan spicy satellite, or Book V prose until Books I–II have taken the 2026-08-16 craft pass (Wren return-rights on the page; named weekly opponents; narrator theology cut; query two comps; twelve-word vocab; residue tomorrow-test; Rasel's October clock; unthematic beat rule). Those satellites remain Priority A on the slate. They are not this month's book. `50_The_Orphaned_Species/99_open_questions.md` § *I–II pass before side projects*.
 
 > A same-day experiment on **2026-07-29** briefly split the original 13-chapter Book I into two (Breach / Living Route) and shifted later volumes up; that split was **reversed the same day**. If any other document states a five-volume map from that experiment or treats Thailand/Sanxingdui as a separate Book II, **this file wins**.
 
@@ -161,26 +169,27 @@ delivery spine: `22` § *Technology teaches meaning*; orchestra/V–X: `62`.
 | **III** | The Compact | `50_The_Orphaned_Species/manuscripts/III_The_Compact.md` | 1–10 | ~31,000 | Brazil / Hawaiʻi / federation arc / Extras–cloisters · **Object:** Living Root · **Status: complete draft** |
 | **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | 1–10 | ~29,000 | North American court; Costa Rica Turning; Rowan/Eli; birth / relinquishment · **Object:** Thread Loom · **Status: complete draft** |
 
-## Lifetime Orchestra (V–X) — count LOCKED 2026-07-31; titles open
+## Lifetime Orchestra (V–X) — count LOCKED +6; map LOCKED 2026-08-16
 
 **+6 append-only books** after I–IV. Total Layer 1 map when complete: **ten volumes**.
-Do not renumber I–IV. Titles, eras for VI–IX, and chapter plots still open until
-each volume has a card (want / clocks / opponent job). Full craft:
+Do not renumber I–IV. Titles and chapter plots still open until each volume has a
+card (want / clocks / opponent job). Full craft:
 `50_The_Orphaned_Species/62_lifetime_orchestra.md`.
 
 | # | Role | Status | Notes |
 |---|---|---|---|
-| **V** | **Bridge — late civic** | Role locked; title/card open | Same bodies later in life. Neo-śramaṇa practice and young people's seasonal **flights** emerge from the teahouse routes; Tara's generation builds affiliations the founders did not design. The personal test is letting the young leave without surrendering care. Training gear begins to *show* via tech (complex time densifies). Not a future-civilization invent. |
-| **VI** | **Past life 1** | Role locked; title/era/card open | Master Timeline shelf; one primary archetype; standalone-capable |
-| **VII** | **Past life 2** | Role locked; title/era/card open | Same |
-| **VIII** | **Past life 3** | Role locked; title/era/card open | Same |
-| **IX** | **Past life 4** | Role locked; title/era/card open | Same |
-| **X** | **Ω — braid / creation** | Role locked; title/card open | Incarnation braid; mobile locus / one will–many streams as operable interface; lucid creation; optional future panspermia beat; cosmic convergence / infinite-time adjacency. Not eternal Eli–Wren destiny. Iblīs function legible as engine. |
+| **V** | **Founders — infancy** | **LOCKED** role; title/card open | Same bodies, next years after IV. Tara is an infant. Wren/Eli's son is born (**three visitors**). Protection vs possession while neither child can leave. Kid-crew satellite may share these years; different camera. Not the flights book. |
+| **VI** | **Past life 1** | **LOCKED** role + era: Göbekli / early control; title/card open | Master Timeline; one archetype; standalone-capable |
+| **VII** | **Past life 2** | **LOCKED** role + era: Folly–Adapa / Eridu; title/card open | Same |
+| **VIII** | **Past life 3** | **LOCKED** role + era: Age of Heroes / last garrison; title/card open | Abandonment is weather in this life, not its own volume |
+| **IX** | **Young generation — leave** | **LOCKED** role; title/card open | Tara and the son grown. Flights. Gnostic misreading. Gear shows via tech. The parents' test is letting them go. |
+| **X** | **Ω — braid / creation** | **LOCKED** role; title/card open | Incarnation braid; mobile locus / one will–many streams as operable interface; lucid creation; optional future panspermia beat; cosmic convergence / infinite-time adjacency. Not eternal Eli–Wren destiny. Iblīs function legible as engine. |
 
-**Working era shortlist for VI–IX** (swap from `62` candidate table; not era-locked yet):
-Göbekli / early control · Refusal–Adapa / Eridu · Abandonment *or* Sanxingdui · Age of Heroes / Albian retreat.
+**Three era novels — LOCKED 2026-08-16.** VI = Göbekli / early control. VII = Folly–Adapa / Eridu. VIII = Age of Heroes / last garrison. **Sanxingdui is Book I only** — do not assign it a past-life volume. Abandonment is climate and aftermath inside VIII, not a fourth title. Do not restore a fourth life to protect an old count.
 
-**Rules that stay:** past lives preferred over future-Earth invent; remembering not teaching; technology teaches meaning; soft-link standalones allowed so readers need not finish all past lives before X.
+**Rules that stay:** past lives preferred over future-Earth invent; remembering not teaching; technology teaches meaning; soft-link standalones allowed so readers need not finish all three lives before X.
+
+**Publication spine — LOCKED 2026-08-16:** I–IV → V → VI–VIII (any order among the three) → IX → X. Remembering-backward is an optional reread, not the first path.
 
 ## Family total — LOCKED 2026-07-31
 
@@ -211,7 +220,7 @@ Civic pitch may stop at I–IV. Full family pitch may say **fourteen core books*
 - Prefer **series**, **present-day series**, **Layer 1 novels**, **Books I–IV** (civic), or **Books V–X** / **Lifetime Orchestra** (append cycle).
 - Filenames that still say `trilogy` (`29_tetralogy_plot_and_development.md`, `28_present_day_tetralogy_craft_index.md`) are **legacy names** — contents govern the series; do not rename unless doing a deliberate repo pass.
 - Pitch / query / back-cover copy: **never** “trilogy” unless the published product is later cut to three. Civic pitch may stop at I–IV; V–X is a second cycle.
-- Stale “Books V–VI only” language = superseded by **V–X (+6)** lock 2026-07-31.
+- Stale “Books V–VI only” language = superseded by **V–X (+6)** lock 2026-07-31. Stale “Bridge → 4 past lives → Ω” or a Sanxingdui era-novel = superseded by the **2026-08-16** map lock.
 
 ## Why the brief split was reversed
 
@@ -223,7 +232,7 @@ The split tried to even volume lengths and give Thailand its own title identity.
 - **Book II** = Descent (Albion / Wren–Rowan / Charkha reveal / Maren's release).
 - **Book III** = Living World (Brazilian river-port network / Hawaiʻi / federation / Extras–cloisters).
 - **Book IV** = Court of Threads (North American court / Costa Rica Turning; Rowan/Eli romance arc; birth / succession).
-- **Books V–X** = Lifetime Orchestra — **count LOCKED +6** (Bridge → 4 past lives → Ω). Titles/cards open. Ultimate metaphysical thesis + technology teaches meaning apply. `62_lifetime_orchestra.md`.
+- **Books V–X** = Lifetime Orchestra — **count LOCKED +6** (V founders/infancy → three past lives → IX young generation → Ω). Titles/cards open. Sanxingdui is not an era novel. `62_lifetime_orchestra.md`.
 - **Family total — LOCKED:** **14 core** = 10 Layer 1 novels + 4 Layer 2 companions. Satellites outside that number (`63`). See § *Family total*.
 - **Layer 2 companions** live under `Books/` (Manual Override, Social Game, Human Experiment, Cosmic Game). Root `10`–`40` are compatibility symlinks into `Books/`.
 - **Research substrate** for V–X physics/agency: `../../Research` (complex time; nested observer windows; mobile locus; bounded-regress agency).

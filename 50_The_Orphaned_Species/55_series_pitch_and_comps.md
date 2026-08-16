@@ -42,7 +42,7 @@ Weavers, Extra, panspermia, Manual Override, or the full four-book syllabus.
 
 ## Positioning statement — internal, not the one-line story hook
 
-**Literary speculative deep-history conspiracy thriller** — *The Da Vinci Code*'s investigative momentum and *National Treasure*'s landmark chase for the **plot engine**, but the **prose register** runs closer to N.K. Jemisin or Madeline Miller than to either comp: denser, more sensory, more restrained around grief. The conspiracy is **of the ages** (the Charkha is only the present face of a recurring suppression apparatus), clues are **contested**, and the win is **release and coexistence**, not a treasure box or a single decoded truth.
+**Literary speculative deep-history conspiracy thriller.** Two names only on anything an agent sees first: *The Da Vinci Code* for the clue-chain, N.K. Jemisin's *The Fifth Season* for close-POV institutional pressure. The conspiracy is of the ages (the present office is one face of a recurring apparatus). Clues are contested. The win is a person freed and a life that can continue. Other comps live in the internal list below; they stay off first-contact copy.
 
 **Meaning lock — REVISED 2026-08-02:** As *Dune* uses control of spice and Arrakis to reach ecology, colonialism, religion, prescience, and charismatic power, this series uses registries, custody, war, family rescue, and contested sites to reach a larger question: **what does a created and self-orphaned species become after it turns against its makers and their progeny?** Never pitch the series as simply opposition to ownership. Ownership is one antagonist method; species adulthood, inheritance, purpose, war, love, loss, ordinary life, and the refusal to repeat the founding violence are the meaning. The books must feel like lived adventures before they feel like a thesis.
 
@@ -73,10 +73,10 @@ custodians retain that authority.
 ## Agent / query paragraph — Book I first
 
 *THE ORPHANED SPECIES* is a literary speculative **deep-history conspiracy
-thriller** with the clue propulsion of *The Da Vinci Code* and the landmark
-wonder of *National Treasure*, but with the stakes at home rather than in a
-vault. Eli Holt has made an ordinary life at Pelangi Reach from facilities
-shifts, a father's garden he tends badly, and neighbors who expect him tomorrow.
+thriller** with the clue-chain of *The Da Vinci Code* and the intimate
+institutional pressure of N.K. Jemisin's *The Fifth Season*. Eli Holt has made
+an ordinary life at Pelangi Reach from facilities shifts, a father's garden he
+tends badly, and neighbors who expect him tomorrow.
 Then a two-metal wedding ring on a state intake file proves that Rasel, the
 father Eli was told had died, survived.
 
@@ -97,11 +97,11 @@ Do not call Book I standalone unless its final manuscript and the target
 agency's terminology honestly support that claim. Tailor series information to
 the recipient's stated submission requirements.
 
-**Structural comps** (plot engine): *The Da Vinci Code* (investigative clue-chain, institutional shadow); *National Treasure* (landmark set-pieces, distributed expertise rather than a single oracle); *Project Hail Mary* (warmth under catastrophe).
+**Query comps — LOCKED 2026-08-16:** two names on anything an agent sees first.
+**Structural:** *The Da Vinci Code* (clue-chain, institutional shadow).
+**Prose / pressure:** N.K. Jemisin, *The Fifth Season* (intimate close-POV; a hunted difference; blocs that want to file a person). Do not add a third book to the query paragraph.
 
-**Prose comps** (sentence-level register — LOCKED 2026-07-29, do not calibrate voice to the structural comps' plainness): **N.K. Jemisin** (*The Broken Earth*) for dense, morally complex worldbuilding delivered through intimate close-POV without exposition dumps; **Madeline Miller** (*Circe*) for myth handled at embodied, human scale rather than grand distance; **David Mitchell** (*Cloud Atlas*, *The Bone Clocks*) for a millennia-spanning interconnected cosmology that trusts the reader to hold terminology across a long arc; **Emily St. John Mandel** (*Station Eleven*) for restrained, damaged-but-functioning post-collapse texture. These four govern the actual sentence — not Brown's transparent, utilitarian delivery style.
-
-**Political/governance comps — Books III–IV specifically (added 2026-08-10):** III's back half and IV shift from I–II's pursuit-thriller content toward political and solutions drama — federation-building, a public hearing, decentralized-vs-centralized governance argued through lived consequence, ecological resettlement policy. **Kim Stanley Robinson** (*The Ministry for the Future*, the Mars trilogy) for systemic, policy-literate crisis response that stays procedural and consequence-driven rather than romanticized; **Ursula K. Le Guin** (*The Dispossessed*) for communal/anarchist governance dramatized through a protagonist's friction with competing systems rather than thesis dialogue. Neither governs sentence-level register — the four prose comps above still do — but the structural comps (*Da Vinci Code*, *National Treasure*) describe I–II's engine, not what III–IV are actually delivering by then.
+**Internal only — not first-contact copy:** *National Treasure* (landmark set-pieces, distributed expertise); *Project Hail Mary* (warmth under catastrophe); *Circe* (myth in a body); *Cloud Atlas* / *The Bone Clocks* (long-arc cosmology — Orchestra, not Book I); *Station Eleven* (damaged-but-functioning texture; swap for Jemisin only if the letter leads with home/grief); *The Ministry for the Future* / Mars trilogy and *The Dispossessed* (III–IV governance only). These may stay in this file. They do not enter the query.
 
 **Word count target:** Books I–IV currently (~114k drafted; trade-novel length TBD per volume). The initial query sells Book I and identifies the planned four-volume civic arc only as required. Books V–X form the later **Lifetime Orchestra** architecture (`SERIES_STRUCTURE.md`; `62_lifetime_orchestra.md`) and stay out of first-contact copy unless specifically requested. Do not pitch the civic arc as a trilogy.
 
@@ -371,8 +371,8 @@ Every volume: **climax + hunger** (`17` § *Volume end-feel*). Epic = landmark/i
 |---|---|
 | **I** | Complete meal (above) — design sufficient; finish prose |
 | **II** | Release remains the moral climax; surround with a **failed keep-her / use-her-signal assault** so the cut costs safety, not only grief (`32` Ch 10) |
-| **III** | War climax lands **Ch 8**; Ch 9–10 = hearing/handover (deliberately quieter); **Loop hunger** after civic win on Ch 10 last pages; birds/hose morning = **Book IV coda**, not Book III (`33`, ms III/IV) |
-| **IV** | **Simultaneity:** labor + heir motion + succession vote + cloister/Weaver fracture in the same hours (`60` §7) |
+| **III** | War climax lands **Ch 8** and spends a **conductor**; Ch 9–10 = hearing/handover on **live Heather ground** (deliberately quieter, still magical); field-sail **moves in a room** before the paper; **Loop hunger** after civic win on Ch 10 last pages; birds/hose morning = **Book IV coda**, not Book III (`33`, ms III/IV; `22` wonder floor) |
+| **IV** | **Simultaneity:** labor + heir motion + succession vote + cloister/Weaver fracture in the same hours, with a **birth-field** in the room; Lean Year eruption gets a wonder stretch before the forecast fight (`60` §7; `22`) |
 
 Do not amp III into a throne war. Do not defer Book III’s private hunger entirely to IV. Do not split IV’s birth climax into sequential admin chapters.
 

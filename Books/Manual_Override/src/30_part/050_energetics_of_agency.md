@@ -20,7 +20,9 @@ Manual Override is therefore not the destruction of the machine and not the manu
 
 Your mind is a dynamic landscape because the machine contains deposited charges and rules for acting on them. Conditioning is not the charge. It is the routing table the charge encounters. The same incoming charge can therefore produce different behavior in differently conditioned people, while a conditioned rule can remain dormant until a charge energizes it.
 
-The three charges are functional directions, not moral categories:
+The three charges are functional directions, not moral categories, and **not emotions**. Emotion is the machine's response when a charge hits a rule. Sensation is raw data. Identification is the story that this is happening to an I. Charges are **guidance** relating to the place from which a conscious being can engage (`69`).
+
+The three charges are:
 
 - A **positive charge** pulls the machine toward an object, state, identity, or anticipated reward.
 - A **negative charge** pushes the machine away from a threat, pain, memory, person, or anticipated loss.
@@ -66,7 +68,7 @@ The practice requires three key elements:
 
 1.  **Stillness and Focus**: You intentionally keep your attention on a positive, negative, or neutral charge without immediately executing its conditioned rule. You observe its direction and the rule it is trying to energize.
 2.  **Anatta (No-Self) as Space**: To do this without being consumed, you must invoke a degree of *anatta*, or 'not-self'. You recognize that you are the awareness observing the charge, not the charge itself. This creates the mental space necessary to hold the experience without identification.
-3.  **Forming the Complement**: As you stay present with the charge, your consciousness naturally begins to 'form the complement' to it. It generates the balancing or completing energy. For a charge of fear, the complement might be a sense of security or courage. For a desire, it might be a feeling of satisfaction or non-attachment. This isn't an intellectual exercise; it's an emergent property of sustained, non-identified awareness.
+3.  **Forming the Complement**: As you stay present with the charge, your consciousness naturally begins to 'form the complement' to it. It generates the balancing or completing energy. For a negative charge (the emotion that answers it may be fear), the complement might be a sense of security or courage. For a positive charge (the response may be desire), it might be a feeling of satisfaction or non-attachment. This isn't an intellectual exercise; it's an emergent property of sustained, non-identified awareness.
 
 When the complement is fully formed, the charge is **completed, integrated, or unbound**. It no longer exerts a compulsive pull, push, or continuation command. It becomes known territory, and the soul gains control over whether and how it is expressed. A samsaric loop has been interrupted: the same deposited impulse can no longer guarantee the same conditioned action.
 
