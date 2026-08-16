@@ -117,7 +117,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 | `31_volume_I_beatsheet.md` | LIVE + QUARRY (retired Act IV, marked in-file) | Book I. |
 | `67_book_i_learning_adventure.md` | LIVE | Book I lived subject — stay-with / inverse. |
 | `68_eli_learning_by_circle.md` | LIVE | Agency-place; charges as guidance. |
-| `69_self_formation_and_altitude.md` | STAGED | Sensation / charge / emotion / identification. V–X horizon; do not dump into I–IV. |
+| `69_self_formation_and_altitude.md` | STAGED — middle/seat/field LOCKED 2026-08-16 | Sensation / charge / emotion / identification. Altitude = seat; middle = move; psi = field. Name the seat in V. |
 | `32_volume_II_beatsheet.md` | LIVE + QUARRY (1st pass marked in-file) | Book II. |
 | `33_volume_III_beatsheet.md` | LIVE | Book III. Wonder floor 2026-08-16. |
 | `34_volume_IV_beatsheet.md` | LIVE — **Collision with `34_two_energies_and_planes.md`** | Book IV chapter cards. Architecture lock is `60`. |

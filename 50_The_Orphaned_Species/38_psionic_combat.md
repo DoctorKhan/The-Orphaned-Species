@@ -11,6 +11,12 @@
 
 > **GROUNDING RULE.** Psionic action never replaces the material world. Radios, boats, food, sleep, weapons, medicine, border records, weather, and trusted human scouts still decide outcomes. A psionic victory can open a gate; someone still has to walk through it. Every operation is joined to ordinary intelligence work, transport, and human betrayal.
 
+> **Altitude is not a combat stat — LOCKED 2026-08-16.** A lance, a Block, a
+> dream-intrusion hit a body. Coherence, proximity, and team decide the
+> exchange (`§1`). Whether the operator is fused with the signal or relating
+> to it is the middle, practiced (`68`, `69`). Do not score fights by locus
+> altitude. Do not say the seat in I–IV.
+
 ---
 
 ## 1. The resource — coherence, not a battery

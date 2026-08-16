@@ -91,7 +91,12 @@ The later *middle way* is the same law aimed at violence and succession.
 Do not say *anatta* or *three doors* in I–IV. The wat may point at a post
 and then at the sternum. That is enough.
 
-Locus altitude stays its own author / V–X cut (`69`). Do not fold it in.
+Locus altitude stays its own cut (`69`): the *seat*. The middle is the
+*move*. Psi is the *field*. Adjacent, unstacked. I–IV show the seat
+moving (dwell, mask, release, hall, birth) and never say *altitude* or
+*how high are you sitting?* Name the seat in **Book V**, when a young
+person dissolves and does not return. Do not fold altitude into the
+middle. Do not use it as a psi-combat stat.
 
 **Acceptance in Book I is of the interior signal** — fear, scar, want, the
 hollow after Mei's dinner. It is not acceptance of the Mandate, the file, or
@@ -122,7 +127,7 @@ not a meditation arc. The volume exam stays the table below.
 | **II** | **Keep-her / the extra hour** — family sweet needle. | **Ch 10 release** — he stays in the place while she walks. Relational hold under assault is the *spend*, not a new lesson. | Re-teach the candle or wat. Name anatta. Make Laurel Cube a second wat. |
 | **III** | **Force-sync** — civic sweet needle ("I can save them"). | **Refuse + the hall continues.** Named dead are the cost of staying. | A meditation arc in the war. Heather journey as a second exam. Deliver ego→Player liturgy. |
 | **IV** | **Heir-fear / stay indispensable** — push and pull at once. | **Middle way + relinquishment during birth.** *Perhaps there is a middle way* once, after conduct. | A bigger Book III. Cherry journey as a new religion. |
-| **V** | Some of the young dissolve and do not return. | One dissolver and a return in a life (`69`). | A syllabus of anatta / sati / Advaita / tantra. |
+| **V** | Some of the young dissolve and do not return. | One dissolver and a return in a life (`69`). First time the seat may be *named* (*how high are you sitting?*). | A syllabus of anatta / sati / Advaita / tantra. Altitude as a lecture. |
 | **VI–VIII** | Rhyme the costume going on, in that life's want. | Remembering, not teaching. | Restart the I–IV, V, or IX lesson list. |
 | **X** | The pointer becomes operable. | Player engages through a clarified robot. | A lecture that abolishes persons. |
 

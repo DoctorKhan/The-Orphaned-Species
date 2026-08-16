@@ -144,8 +144,21 @@ chapter furniture in the companion. Do not import it into altitude.
 Working author phrase for the climb: **locus altitude**.
 Do not call the MO list *planes* (`34` owns that word).
 
-Street in V–X, if needed later: *how high are you sitting?* Never in
-I–IV as doctrine.
+**Middle, seat, field — LOCKED 2026-08-16.** Three unstacked cuts.
+
+| Cut | What it is | Civic books | Name it |
+|---|---|---|---|
+| **Middle** | The *move*: refuse the two failures; keep the place you can engage | Practiced. One spoken line in IV, after conduct (`68`, `60`) | *Perhaps there is a middle way* once |
+| **Altitude** | The *seat*: how much I-story is in the pointer | Shown, never named — dwell shortens, mask fails, she walks, hall continues, child takes no title | Book **V**: *how high are you sitting?* when someone dissolves and stays gone |
+| **Psi** | The *field*: Life energy through the receiver (`34`, `39`) | Felt as breach, read, surge, cube-ground | Effects. No altitude-as-stat |
+
+The three faces of the middle are this law applied at three seats: signal (flee / drown), identification (hide / fuse), conduct (pacifism / finishing them). Altitude is the meter of the seat. The middle is what you do once you notice it.
+
+Psi does not live “at” an altitude. The field runs either way. Altitude says whether the operator is fused with the signal (Malacca, mask, force-sync) or relating to it (wat, a read you can put down). Drift and god-sickness are seat-failures on the field. Cubes change what the field *does*. They do not replace the seat.
+
+Do not import altitude as a combat stat in I–IV (`38`). A lance still hits a body. Whether he can refuse the I-story is the middle, practiced.
+
+Street in V–X, if needed: *how high are you sitting?* Never in I–IV as doctrine.
 
 ---
 
@@ -158,7 +171,8 @@ response run the body. Wat / Kru Dao = a climb in altitude, still unnamed.
 The wat's post-and-heat drill is the chair-and-wound pass with the name
 off (`67`). Civic practice does not keep a separate "three doors" list;
 those minute-moves hang on the middle (`68`). Locus altitude stays this
-file's climb. Do not fold it into the middle.
+file's climb — the seat, adjacent to the middle, named in V. Do not fold
+it into the middle. Do not name it in I–IV.
 
 Do not import Advaita, tantra, or "there is no self" as dialogue in the
 civic books. A boy who can sleep after the wat has practiced a dissolver
