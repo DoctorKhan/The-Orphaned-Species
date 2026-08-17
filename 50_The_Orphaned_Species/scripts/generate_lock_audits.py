@@ -69,7 +69,7 @@ BOOKS = {
             "Named male battlefield death and threshold-house loss",
             "Back-cover birds / morning landing (swifts morning rhyme to Ch 1)",
             "Eli relinquishment — real but incomplete (single hall; wider compact untested)",
-            "Rowan/Eli non-romantic in Book III (deniable attraction only)",
+            "Rowan/Eli love acknowledged under command restraint (no sex before handover)",
         ],
     },
     "IV": {
@@ -82,7 +82,7 @@ BOOKS = {
             "Lean Year eruption + cross-network seizure (Ch 1–2 pressure)",
             "Costa Rica evacuation Turning (grown corridor / Nosara–Sámara / Tenorio–Miravalles)",
             "Continuity clause invoked deliberately by institutions (Henley credentials / extension request)",
-            "Rowan/Eli attraction → sex → romance → conception (Ch 2–6)",
+            "Rowan/Eli established love → consummation → family decision → conception (Ch 2–6)",
             "Wren boundary / triad refusal (Ch 3 corridor conversation)",
             "Sports/market gathering dispute (Ch 7)",
             "False heir / dynasty motion (Ch 8)",
@@ -131,7 +131,7 @@ def generate_audit(book_key):
     lines = []
     lines.append(f"# {cfg['title']}")
     lines.append("*Generated from on-disk files. Do not edit by hand; rerun audit instead.*\n")
-    lines.append("> **Generated 2026-08-10.** This report is current as of the last beatsheet/manuscript revision.")
+    lines.append("> **Generated 2026-08-16.** This report is current as of the last beatsheet/manuscript revision.")
     lines.append("> Treat as canonical until the next structural revision.\n")
     lines.append("## Source sizes")
     lines.append(f"- `{beatsheet_path}` = **{bs_size:,} bytes / {bs_lines:,} lines**")

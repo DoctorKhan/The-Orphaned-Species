@@ -22,20 +22,20 @@
 ## Chapter-level detail
 
 ### ## Chapter One—The Doors
-- **Word count:** 6850
-- **Sentence count:** 762
+- **Word count:** 6869
+- **Sentence count:** 763
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
   - TELL-NOT-SHOW (11 hits)
-  - ABSTRACT-DENSE (42 abstract terms, 168 body terms)
+  - ABSTRACT-DENSE (43 abstract terms, 168 body terms)
 
 ### ## Chapter Two—Present Consent
-- **Word count:** 1494
-- **Sentence count:** 242
+- **Word count:** 1511
+- **Sentence count:** 238
 - **Flags:** none
 
 ### ## Chapter Three—Three Rooms
-- **Word count:** 2361
+- **Word count:** 2360
 - **Sentence count:** 283
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
@@ -43,7 +43,7 @@
   - OPEN-LIGHT-ON-BODY
 
 ### ## Chapter Four—What We Build
-- **Word count:** 2845
+- **Word count:** 2869
 - **Sentence count:** 351
 - **Flags:**
   - TELL-NOT-SHOW (6 hits)

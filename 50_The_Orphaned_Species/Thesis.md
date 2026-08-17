@@ -88,6 +88,20 @@ The frame is a deliberate instrument, not a market choice. It does two jobs noth
 
 The same standard applies to spiritual practice. The Middle Way, healing touch, charged-ground work, and related disciplines earn standing through repeated conduct and bounded results. Lineage, confidence, and revelation do not excuse a practitioner from disclosing harm or accepting review. The falsifiers list (`91_predictions_and_falsifiers.md`) records testable claims and labels the strained or unfalsifiable ones. It does not turn the story's cosmology into empirical fact. The novel may be spiritually serious, but it must never require the reader's assent (`14_literary_speculative_thriller_style_guide.md` § *Reader promise*).
 
+> **TRUTH, EVIDENCE, AND JUDGMENT — LOCKED 2026-08-16:** The Player model may
+> become scientifically demonstrated within the story world as instruments and
+> practices mature. The narrative need not invent a contradictory ontology or
+> preserve uncertainty after evidence settles the bounded question. The proof
+> must include repeatable effects, nulls, false positives, failed predictions,
+> measurement limits, and corrected perimeters. Demonstrating the Player does
+> not reveal the Player's reasons, establish consent to an injury, grant a
+> practitioner moral rank, or decide institutional policy. A person may be
+> wrong about the ontology and right about its use. Another may understand the
+> finding and abuse it. Readers remain free to judge the evidence, added claims,
+> institutions, and conduct.
+
+**Eli's scientific inheritance is implicit.** Rasel did not teach him a science curriculum. Eli remembers ordinary moments: Rasel measuring soil, checking a knot, keeping a failed run, or letting another pair of hands challenge the result. Along the journey, Eli recognizes the method inside those memories and begins to use it deliberately. No monastery or philosophical school completes it for him. At the wat and elsewhere, he encounters practices he can try. Their effects may confirm part of an older reality while their explanations differ from his. The recognition that matters occurs through Eli's own observation. No teacher owns it.
+
 This is also the § *Technology is rehearsal for magic* argument turned on the reader. The science-fictional frame makes the extraordinary inspectable. Instruments can disagree with practitioners. Protocols can fail. Injured people can contest the record. Modern readers encounter ancient mythology in a world that shares their expectation of evidence, without being asked to adopt its cosmology.
 
 **2. The tech anxieties are already the reader's.** AI displacing work, automation making a life's skill obsolete, the question of what a person is *for* when the labor is gone, surveillance and classification, capacities arriving faster than the culture that must hold them — the audience walks in pre-equipped. **The clearing needs no persuasion; it is being lived.** That familiarity is the on-ramp: a reader who already feels the ground going out from under the busywork does not have to be argued into the premise, only shown where it leads. The deep-time material then arrives as the *explanation* for something the reader already recognizes rather than as a cosmology they must first accept.
@@ -112,11 +126,19 @@ The timeline is a **fractal**: a maker builds a made thing, then abandons or is 
 
 The species graduates the instant it stops reproducing the orphaning: **becoming the kind of maker that doesn't orphan — having been a badly-parented child yourself.** That is the only ending that pays off the whole timeline, because it is the only one that breaks the recursion instead of running it one more turn.
 
-## Development across the four books — LOCKED 2026-08-01
+## Development across the four books — LOCKED 2026-08-01; human descriptions revised 2026-08-16
 
-The civic answer must not arrive before the characters have lived the human need for it. **Book I asks: what is happening to me? Book II asks: where can someone like me belong, and whom can I trust? Book III asks: how can unlike people build a society together? Book IV asks: what survives when the good forms are captured and begin to fail?**
+The civic answer must follow what happens to the people.
 
-Book II remains primarily the **psionics and belonging** volume. As ability comes into the open, fear of the unknown separates carriers from the ordinary ways people establish reality together. A psion may not know whether an experience is perception, projection, memory, coercion, or illness; everyone around them must decide whether to shelter, worship, study, recruit, register, or expel them. Atomization is therefore the book's lived pressure, not its announced social theory. Eli encounters isolation in bodies, rooms, checkpoints, frightened families, clinical procedure, cult warmth, and the inability to trust his own perception. Lang, Sol, and bloodline mythology each offer certainty as the price of belonging. The humane counteroffer is slower: *we do not completely know what you are; you may still eat here, work here, disagree, and leave.*
+**Book I:** Eli finds evidence that Rasel is alive and follows it from Pelangi to Sanxingdui. His body reacts before he can understand it. He survives long enough to reach his father, then learns that reaching Rasel does not make Rasel come home.
+
+**Book II:** Eli follows Maren's damaged trail while dreams, contact, trauma, and other people's projections become difficult to separate. He finds his mother lucid enough to want more time. Keeping her would preserve the signal and deny her departure. He releases her. Wren and Rowan face a smaller version of the same problem when Rowan returns: their history matters, and it grants neither woman automatic access to the other.
+
+**Book III:** The Awakening War makes Eli's coordination ability immediately useful. He accepts command because food, evacuation, and defense cannot wait. His orders save people and send named people into danger. He and Rowan fall in love through the work and acknowledge it while his office bars sexual or domestic action. Sol offers forced unity as a way to stop the losses. Eli refuses it, then signs away his own authority before the attack is finished.
+
+**Book IV:** Crop failures and seized routes pull Eli back into emergency command. Rowan and Eli enter already in love and decide whether to try for a child. Wren, Rowan, and Eli begin building a family while the court converts every private choice into rank. Wren fears that pregnancy and public recognition will push her outside that family; she acts on that fear and must repair the resulting harm. The court tries to turn Rowan's pregnancy into succession. During Rowan's labor, Eli completes the transfer of power and stays with her as the child's father.
+
+Book II remains the **psionics and belonging** volume. Eli cannot always determine whether an experience is perception, projection, memory, coercion, illness, or fraud. Lang, Sol, and bloodline mythology offer him certainty in exchange for submission, membership, or inherited identity. Other people give him food, work, disagreement, and the right to leave while admitting what they do not know.
 
 Book II discovers social forms only at intimate scale: witness pairs, consent before contact, shared meals and hearth circles, work-song, chosen kin, living attestation, craft and elder transmission, and exchange among distinct communities. It does not yet turn them into a program. Each is a relationship or emergency practice that helps a handful of people and exposes its own danger. **Book III inherits those fragments and attempts to reproduce them for thousands.** Witness becomes mixed psion/nonpsion review; hospitality becomes accountable intake; living attestation becomes distributed credentials with appeal; hearth circles become service houses and cloisters; embodied teaching becomes reconstruction curriculum; craft lineage becomes local technical apprenticeship; exchange becomes modular interdependence; relational Manual Override becomes the refusal of forced synchronization. Scaling creates the institutions—and reveals the captures Book IV will stress.
 
@@ -155,6 +177,13 @@ Put the three together and they converge on exactly what the thesis already name
 ## The guard against this thesis
 
 The deepest failure mode hides inside the success. **A true story of humankind can curdle into the next fear-based religion** the moment it's received as doctrine instead of held as living, revisable understanding. The orphan's reflex is to find a new master — and even a *story* can become one. So the working tradition must stay **understood, not obeyed**. The day someone has to enforce it, it has failed. *How do you hand down a tradition without handing down a cage?* — that is the most honest question the books can dramatize, and they must not pretend to have closed it.
+
+**Consciousness cannot be quoted — LOCKED 2026-08-16.** Direct awareness does
+not send reasons or rules into the character. A doctrine claiming that someone's
+Player selected an illness, injury, or loss is the Tree of Knowledge generating
+an explanation and attributing it upward. It has no access to the claimed
+consent. On the page, higher-altitude engagement appears when an automatic act
+becomes optional. Care and accountability remain with the body that was hurt.
 
 ---
 

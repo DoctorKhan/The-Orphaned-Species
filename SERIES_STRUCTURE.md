@@ -57,21 +57,55 @@ owning* are **intermediate curriculum** — the ethics of the training set.
 - Beings cannot see themselves directly; **consequence inside the artifice is
   the only feedback mechanism** — charge, body stress, social cost, love turning
   to ownership, crowns returning, systems collapsing.
-- Failure is not the bug. **Failure is the sensor.**
+- At Player altitude, **failure functions as a sensor**: consequence exposes
+  the program to awareness. It supplies no reason or rule to the character.
 - Stepping in is not moral improvement for its own sake. It is taking the
   controls so you can eventually **author**, not only react.
 - Iblīs-as-prosecutor, Watchers-as-non-override, incarnation timers, and
   disagreeing plane-times serve the same machine: pressure until agency appears,
   then pressure until creation appears (`99` #15; `17` § Tier 3).
 
+**Altitude and knowledge-form — LOCKED 2026-08-16:** At character altitude,
+the body and its programming can be injured. Pain, fear, memory, disability,
+and material loss are real there and require care, protection, accountability,
+and repair. At Player altitude, the consciousness that entered the game is not
+injured by the in-game event. It receives experience and can learn from the
+consequence.
+
+Consciousness does not send the character a reason, rule, sentence, or memory
+of a pre-game contract. Its intervention appears as attention becoming
+available and the next act ceasing to be automatic. Any statement such as
+*your Player chose this suffering* is produced by the character's Tree-of-
+Knowledge machinery. It is not a report from the Player and cannot establish
+consent, excuse harm, or cancel a claim for repair.
+
 | Movement | What it looks like | What it is |
 |---|---|---|
 | **I–IV** | Belong without owning; parent rescue; middle way | First override of the **social / civic autopilot** inside the training world |
 | **III (diagnosis)** | Phantom gods / remote collar named | Capture worship exposed — serving absence because domestication finishes the command (`17` §9a) |
-| **V–X** | Bridge; past-life orchestra; braid / creation | Seeing that the world itself is training gear meant to break; learn control → learn creation; **correct worship** = robot (ego) submits to Player (consciousness) |
+| **V–X** | Bridge; past-life orchestra; braid / creation | Seeing that the world itself is training gear meant to break; learn control → learn creation; **mature worship** = the robot (ego) disengages autopilot and makes its controls available to Player (consciousness) |
 | **Endgame (X)** | Not utopia, not escape-as-victory | Lucid creation — a Player who can build without needing the cage to teach them |
 
-**Worship ladder — LOCKED 2026-08-01:** capture form = phantom god-perception / empty thrones (seed II, diagnose III). Mature form = **ego/robot → Player/consciousness** (spiritual payoff in V–X, not a Books I–IV sermon). I–IV may practice Living Way and refuse sync without naming that liturgy.
+**Worship ladder — LOCKED 2026-08-01; control relationship clarified 2026-08-16:** capture form = phantom god-perception / empty thrones (seed II, diagnose III). Mature form = the **ego/robot makes its controls available to Player/consciousness** (spiritual payoff in V–X, not a Books I–IV sermon). Soothing, breath, attention, and learned interruption can create that opening. They do not supply the Player's choice. Consciousness issues no proposition for the robot to obey. I–IV may practice Living Way and refuse sync without naming that liturgy.
+
+**False-worship pitfall — LOCKED 2026-08-16:** poor reasoning or conditioning can route the robot's controls to a teacher, institution, god-image, charismatic authority, or fallacious internal rule. That is another form of autopilot. Calling it surrender, revelation, or Player guidance does not establish its source. Test the resulting claim and conduct at the character's altitude.
+
+**Truth, evidence, and judgment — LOCKED 2026-08-16:** the Player model may be
+true in the story world and may become scientifically demonstrable as later
+instruments and practices mature. The novels do not need a false counter-thesis
+or permanent ambiguity after the evidence settles. Scientific delivery requires
+repeatable effects, null results, false positives, measurement limits, failed
+predictions, and revised perimeters on the way to that conclusion.
+
+Proof of the ontology does not settle attribution or conduct. A measured effect
+cannot establish that a particular pause came from Player intervention, quote
+the Player's reason, prove consent to an injury, or decide what an institution
+may do with the finding. A character may misunderstand the ontology and still
+be right about policy. Another may understand the science and use it to claim
+authority they do not possess. Readers judge the evidence, the claims added to
+it, the institutions built around it, and what people do. Skeptics must not be
+made foolish merely for asking for proof, and advocates receive no moral
+authority from being factually correct.
 
 **Cast guard for multi-incarnation:** Eli/Wren may open V (Bridge) as the same people later
 in life. Across incarnations they are **not** an eternal destined couple — that
@@ -95,18 +129,17 @@ affirmations that erase cost. Seed as ordinary toxic people in Book III–IV
 circles; densify in V–X when metaphysics is ambient culture. Never let the
 true thesis be voiced only by the bullies.
 
-**Locally wrong / cosmically load-bearing — LOCKED 2026-07-31:** whenever the
+**Locally wrong / cosmically load-bearing — LOCKED 2026-07-31; altitude clarified 2026-08-16:** whenever the
 story points to something as wrong — manifestation bullying, Drift, Sol's sync,
 even a crown that should not have returned — it should **eventually** open onto
 how that failure served the greater training picture: pressure, broken
-autopilot, the sensor that makes override possible, the pass that only counts
-because the fail was real. **This is not moral acquittal.** The harm stays harm;
-victims are not gaslit into gratitude; bullies do not get a cosmic gold star.
-"Right in the greater picture" means **developmental function** (failure-as-sensor;
-Iblīs-as-prosecutor engine), not "therefore kindness was optional." Craft:
-show the local cost first and fully; only later, under V–X or deniable I–IV
-residue, let the reader feel the fractal use — never a character lecturing the
-injured that their pain was perfect.
+autopilot, and consequence making the program available to awareness. **This
+is not moral acquittal.** The harm stays harm; victims are not gaslit into
+gratitude; bullies do not get a cosmic gold star. The higher-altitude function
+never arrives inside the character as an explanation of why a particular harm
+occurred. Craft: show the local cost and response in full. V–X may make the
+altitude difference operable through conduct and technology. No character may
+lecture an injured person about a lesson, chosen suffering, or hidden consent.
 
 **Hell — LOCKED 2026-07-31; life as solution 2026-07-31:** Hell is not a torture palace run by a villain.
 It is an **infinite loop that cannot be escaped in a non-entropic world — a
@@ -164,10 +197,10 @@ delivery spine: `22` § *Technology teaches meaning*; orchestra/V–X: `62`.
 
 | # | Title | File | Chapters | Words (approx.) | Notes |
 |---|---|---|---|---|---|
-| **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~43,000 | Pelangi → Meridian → Malacca → Thailand witness → Sanxingdui (Rasel) · **Object:** Cherry Cube · **Status: complete draft** |
-| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | 1–10 | ~37,000 | Albion / Wren–Rowan / Maren release / Charkha reveal · **Object:** Albion Shaft · **Status: complete draft** |
-| **III** | The Compact | `50_The_Orphaned_Species/manuscripts/III_The_Compact.md` | 1–10 | ~31,000 | Brazil / Hawaiʻi / federation arc / Extras–cloisters · **Object:** Living Root · **Status: complete draft** |
-| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | 1–10 | ~29,000 | Denver court; Front Range Heather Cube; Costa Rica Turning; Rowan/Eli; birth / relinquishment · **Object:** Thread Loom · **Status: complete draft** |
+| **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~42,000 | Eli finds evidence that Rasel is alive and crosses the living route to reach him. At Sanxingdui, Rasel chooses to stay. Eli must leave without the father he came to recover. · **Object:** Cherry Cube · **Status: OPEN; expansion incomplete** |
+| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | 1–10 | ~38,000 | Eli follows Maren's damaged trail west while his own perceptions become harder to trust. He reaches his mother at Albion and gives up the extra time both of them want so she can leave as a person rather than remain as a usable signal. Wren and Rowan choose what, if anything, their old bond still permits. · **Object:** Albion Shaft · **Status: OPEN; expansion incomplete** |
+| **III** | The Compact | `50_The_Orphaned_Species/manuscripts/III_The_Compact.md` | 1–10 | ~34,000 | War makes Eli useful enough to become dangerous. He accepts command and sends named people into fights they may not survive. He and Rowan fall in love but refuse sexual or domestic access while his office can distort consent. Eli rejects Sol's forced unity and signs away his authority while the attack is still live. · **Object:** Living Root · **Status: OPEN; expansion incomplete** |
+| **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | 1–10 | ~30,000 | A food and transport crisis pulls Eli back into command as he and Rowan decide whether to try for a child. Wren, Rowan, and Eli must build a family while the court tries to turn pregnancy into succession and rank the three adults around it. Wren's fear of displacement makes her cause harm she must repair. During Rowan's labor, Eli completes the transfer that lets him remain a father without remaining the ruler. · **Object:** Thread Loom · **Status: OPEN; expansion incomplete** |
 
 ## Lifetime Orchestra (V–X) — count LOCKED +6; map LOCKED 2026-08-16
 
@@ -229,9 +262,9 @@ The split tried to even volume lengths and give Thailand its own title identity.
 ## For future sessions (human or AI)
 
 - **Book I** includes the Thailand agricultural-witness sequence and Sanxingdui climax (Ch 4–13). Do not treat those as a separate volume.
-- **Book II** = Descent (Albion / Wren–Rowan / Charkha reveal / Maren's release).
-- **Book III** = Living World (Brazilian river-port network / Hawaiʻi / federation / Extras–cloisters).
-- **Book IV** = Court of Threads (North American court / Costa Rica Turning; Rowan/Eli romance arc; birth / succession).
+- **Book II** = Descent: Eli reaches Maren and releases her rather than keeping her as a signal; Wren and Rowan decide what their returning bond permits.
+- **Book III** = Compact: Eli accepts wartime command and falls in love with Rowan. They acknowledge it but refuse sexual or domestic access until he signs away his authority.
+- **Book IV** = Court of Threads: scarcity recalls Eli to command while he and Rowan try to have a child; Wren, Rowan, and Eli build a family as rival factions try to turn the pregnancy into succession.
 - **Books V–X** = Lifetime Orchestra — **count LOCKED +6** (V founders/infancy → three past lives → IX young generation → Ω). Titles/cards open. Sanxingdui is not an era novel. `62_lifetime_orchestra.md`.
 - **Family total — LOCKED:** **14 core** = 10 Layer 1 novels + 4 Layer 2 companions. Satellites outside that number (`63`). See § *Family total*.
 - **Layer 2 companions** live under `Books/` (Manual Override, Social Game, Human Experiment, Cosmic Game). Root `10`–`40` are compatibility symlinks into `Books/`.

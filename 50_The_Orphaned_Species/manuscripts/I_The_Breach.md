@@ -32,6 +32,7 @@
 > **Craft revision pass — 2026-07-27:** Wren pre-door choice groundwork; Maren classifier / Rasel coupling seeded (Ch 3); Ch 1–2 memory density trim; Ch 13 ending space + Wren pre-door choice; Ch 5/11 thinned; thesis-repetition cuts; civilian-cost callbacks; irreversible polarity-week loss; Ch 6 consent turn into Ch 7; Ch 12 perception-before-mesh; dangling clue quieting.
 > **Wat stack on-page — 2026-08-16:** candle / afterimage at the wat; same inverse used on Kru Dao's pad and failed at Rasel's mask (`67`, `68`).
 > **Cherry shell contact — 2026-08-16:** freight case along the Cube wall; heat at the base of the spine; concert clap as a hand he cannot see. Alcove stays anti-chant.
+> **Knowledge-form delivery — LOCKED 2026-08-16:** consciousness supplies no proposition, rule, or explanation. Book I shows the altitude distinction through Malacca's automatic survival, the wat's newly available next movement, Niran's bodily cost and care, and Eli lifting Rasel's mask after recognizing the true route. Do not add Player vocabulary, chosen-suffering claims, or an inner voice explaining why harm occurred (`22`, `67`, `69`).
 > - **Superseded Ch 2–4 prose:** moved to `archive/manuscripts/restructure_quarry_ch2-4.md`. Quarry material (Khun Dang, King James register, seven-chamber framing) is not canon until placed on-page under current voice/route locks.
 > - **`archive/manuscripts/quarry_ch1_alternative.md`:** alternative concept-forward Ch 1—**quarry**, not governing (interiority pays off later; see its header).
 

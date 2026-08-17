@@ -1,5 +1,16 @@
 # Volume IV — *The Court of Threads* — Architecture Lock
 
+> **HUMAN NOVEL — LOCKED 2026-08-16:** Empty depots and seized food convoys draw
+> Eli back into command as the court begins recording his private life. Rowan
+> and Eli enter the crisis already in love and decide whether to try for a child.
+> Rowan keeps sex, co-parenthood, and conception as separate choices. Wren fears
+> that pregnancy and public recognition can make her provisional; she acts on
+> that fear and must repair harm rather than explain it away. The court tries to
+> convert their relationships into consort, mistress, sovereign, and heir. Eli's
+> temptation is to remain indispensable long enough that nobody can safely ask
+> him to leave. During Rowan's labor, the three protect her choices while Eli
+> signs the completed transfer and stays in the room with her.
+
 > **STATUS — REVISED 2026-08-09:** The series is a four-volume arc. Book III
 > ends with Eli's own relinquishment **complete** — a real, moving scene: in
 > one hall, under real threat, he signs away his own authority and the room
@@ -21,9 +32,9 @@
 > governing while cross-network verification, trade, medicine, food, and
 > trust begin to seize. The reconstituted institutions decide, deliberately
 > and on the record, whether to build out the compact at true scale or accept
-> permanent emergency rule. Book III contains only deniable Rowan/Eli
-> attraction—no sex or romance. Book IV carries conscious attraction,
-> repeated sex before romance, Rowan's later decision to pursue pregnancy,
+> permanent emergency rule. Book III carries acknowledged Rowan/Eli love without
+> sex while Eli commands; they may kiss after his handover. Book IV carries
+> sexual consummation, Rowan and Eli's deliberate decision to try for pregnancy,
 > childbirth, institutional settlement, and Eli's **second** and final
 > relinquishment — this time tested at the scale the first never reached, not
 > repeating a failure.
@@ -481,12 +492,10 @@ Their crisis response deepens political power they had already earned in Book
 III by building the first transfer. Neither rise is granted by Eli, and neither
 institution is unified.
 
-Book III plants only retrospectively legible Rowan/Eli charge. Eli looks for
-Rowan's political reaction, she can steady or confront him without triggering
-defense, and one practical touch may briefly alter their attention. Every signal
-must retain a complete nonromantic explanation. No explicit desire, near-kiss,
-jealous Wren, prolonged body description, or dialogue announcing another life.
-Book III ends with no Rowan/Eli sex, no Rowan/Eli romance, and no pregnancy.
+Book III shows Eli and Rowan falling in love through wartime work. They name it
+while he holds command and refuse sex, cohabitation, office access, and promises
+about children until his authority ends. They may kiss after the handover. Book
+III ends with love acknowledged and no sex, co-parenting agreement, or pregnancy.
 
 **Pair-competition — LOCKED 2026-08-16:** Book IV's civic pulse is Wren's jealousy
 of public permanence (Rowan/Eli, the child, succession calendars). Resolution is
@@ -720,25 +729,22 @@ persons and pregnancy into constitutional instruments.
 
 ---
 
-## 5. Romance architecture — attraction, sex, romance
+## 5. Romance and family architecture — love, sex, trying for a child
 
 Book II ends with two continuing romances centered on Wren:
 Wren/Rowan and Wren/Eli. Rowan/Eli is then affectionate and politically
 significant but not yet romantic.
 
-Book III gives their direct political bond a faint, deniable charge. It should
-read first as trust, attention, coordination, and the unusual ease with which
-each can challenge the other. Book IV's Rowan POV reveals that physical
-awareness existed inside moments the reader could reasonably understand as
-political intimacy.
+Book III turns their direct political bond into acknowledged love. They tell
+each other while Eli holds command and tell Wren separately. The office prevents
+sexual or domestic action until the handover. A coda kiss may mark the end of
+that barrier without establishing a household or a plan for children.
 
-Early in Book IV, Rowan and Eli consciously recognize direct attraction and have
-consensual sex on several separate occasions **before** either treats the bond as
-romantic. They have sex because they want one another—not because Wren is absent,
-withholding, or being replaced. Each encounter requires present consent and
+Early in Book IV, Rowan and Eli consummate an existing love. They have sex
+because they want one another. Wren's absence, availability, or approval does
+not make the choice for them. Each encounter requires present consent and
 material disclosure under the existing plural agreements. Sex grants no status,
-claim, exclusivity, access to Wren, promise of continuation, or presumption of
-parenthood.
+claim, exclusivity, official access, or presumption of parenthood.
 
 **Texture, not summary — LOCKED 2026-08-09.** Write at least the first
 encounter on the page, not as a fade-to-black beat. The charge here isn't
@@ -766,14 +772,14 @@ of them fixes it before continuing. That specificity makes the failure his and
 to him and to what he actually carries, not a stock scene of nervous first
 sex.
 
-Repeated sex becomes bodily familiarity; political work, disagreement,
-post-sex conversation, sleep, care, missing one another, and private language
-then make the relationship romantic. The sequence must remain visible:
-**attraction → sex → repeated intimacy → romance**. Wren neither brokers nor
-authorizes the bond.
+Repeated sex and ordinary time give the acknowledged love a bodily life. The
+Book IV relationship question is whether Rowan and Eli want to raise a child
+together, and whether the three adults can build a family without letting the
+court assign rank. Wren neither brokers nor authorizes the bond or the decision
+to try for a child.
 
-Once the romance has emerged, the household contains **three distinct romantic
-dyads**, not one undifferentiated group relationship:
+The household contains **three distinct romantic dyads**, not one
+undifferentiated group relationship:
 
 - **Wren / Rowan — recognition:** formative ply trust, shared Weaver grammar,
   recovered desire, and embodied history.
@@ -835,16 +841,15 @@ not more.
 
 ## 6. Rowan's motherhood desire and pregnancy
 
-Rowan knows she wants to become a mother before she becomes Eli's lover. This is
+Rowan knows she wants to become a mother before she falls in love with Eli. This is
 an independent life desire, not a response to his authority, Wren's
 availability, the baby bust, or court pressure. Wanting motherhood does not mean
 she has selected Eli as father or chosen a date for conception.
 
 During the early sexual relationship Rowan actively does not want pregnancy and
-uses ordinary reliable contraception. She may tell Eli plainly that she wants
-children eventually and that their sex is not how she is choosing one. Only
-after their relationship has become romantic does Rowan decide whether she wants
-to raise a child specifically with Eli. That co-parenting decision is distinct
+uses ordinary reliable contraception. She tells Eli plainly that sex is not the
+decision to have a child. During Book IV she decides whether she wants to raise
+a child specifically with him. That co-parenting decision is distinct
 from sexual consent, romantic commitment, and Wren's separate future role.
 
 During Book IV, Rowan deliberately chooses when to begin trying to conceive.
@@ -1029,9 +1034,9 @@ labels alone.
 - **Political action:** Rowan gets the evidence into the record through a public
   route, disqualifying a continuity official who concealed grain-routing authority. The
   removal delays succession but prevents a compromised handover.
-- **Attraction:** Rowan recognizes that her attention to Eli is bodily as well
-  as political. They name mutual attraction directly and disclose it under the
-  agreements that already govern the three existing dyads.
+- **Relationship:** Rowan and Eli act on the love they acknowledged during Book
+  III. They disclose the change under the agreements that already govern the
+  three existing dyads.
 - **First sex:** chosen because they want one another. Wren is available,
   continuing both her relationships, and neither broker nor permission-giver.
   Rowan states that she wants to be a mother someday, is not choosing pregnancy
@@ -1041,7 +1046,7 @@ labels alone.
 - **End hook:** a court scheduler records Rowan leaving Eli's rooms and quietly
   changes her next audience category.
 
-> **Book IV chapter clock status:** Clock A = western attestation delivered, continuity official removed, succession gap created without blood. Clock B = attraction named and publicly disclosed under dyad terms; Rowan's contraception and future-motherhood stated; Eli's court access officially unchanged. Chemistry/no-clock tag: this chapter IS the no-clock beat — the clocks advance off-screen while the scene stays in consent language, sex, and ordinary disclosure.
+> **Book IV chapter clock status:** Clock A = western attestation delivered, continuity official removed, succession gap created without blood. Clock B = the love acknowledged in Book III becomes a sexual relationship under disclosed dyad terms; Rowan's contraception and future-motherhood stated; Eli's court access officially unchanged. Chemistry/no-clock tag: this chapter IS the no-clock beat — the clocks advance off-screen while the scene stays in consent language, sex, and ordinary disclosure.
 
 ### Chapter 3 — Three Rooms *(Wren)*
 

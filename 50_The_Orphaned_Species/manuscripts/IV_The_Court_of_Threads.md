@@ -662,7 +662,7 @@ Pain can do that.
 
 Relief can.
 
-The fact that Rowan does not approach him through worship, apology, or romance can.
+Being touched by someone he loves can.
 
 She feels him go still and removes her hand.
 
@@ -678,9 +678,8 @@ She feels him go still and removes her hand.
 
 "Perhaps."
 
-Every interpretation has a complete nonromantic explanation.
-
-Neither supplies another.
+Pain, relief, and love can all change attention. He does not need to choose one
+before the review.
 
 "Wren?" he asks.
 
@@ -1310,9 +1309,8 @@ His attention stops for one beat.
 
 Wren sees that too.
 
-There is no romance in the fact.
-
-Not yet.
+He told Rowan he loved her before the handover. They kissed after he signed.
+Seven months of route calls have not decided where either of them lives.
 
 The court has already begun preparing a room for it.
 
@@ -1320,7 +1318,7 @@ The court has already begun preparing a room for it.
 
 Rowan notices Eli's mouth during an argument about evidence.
 
-This is inconvenient.
+This remains inconvenient.
 
 They stand on opposite sides of the public filing desk while Minister Henley's
 counsel demands the western witness enter protective custody before speaking.
@@ -1353,14 +1351,10 @@ Rowan watches his mouth form it and becomes aware that she is watching.
 
 She looks at the attestation case instead.
 
-The attraction is not new in the absolute sense. Her body had registered the
-service corridor in Book III: the back of his neck beneath her hand, the
-stillness when she touched him, the question neither supplied. At the time,
-pain, relief, and political trust explained everything.
-
-They still explain it.
-
-They no longer explain all of it.
+They said *love* while he still held wartime command and did nothing with the
+word until he gave the office back. Their kiss afterward lasted less than a
+minute. Since then, work and distance have given them calls, arguments, and no
+shared bed. Now the office has found him again before she has.
 
 ---
 
@@ -1442,9 +1436,9 @@ Rowan does not pretend to misunderstand.
 
 "Yes."
 
-"Politically?"
+"You still love him."
 
-"Also."
+"Yes."
 
 Wren leans against the wall.
 
@@ -1454,9 +1448,9 @@ Rowan waits.
 
 "Do you want me to stop?" she asks.
 
-"Watching?"
+"Loving him?"
 
-"Whatever begins after."
+"Acting on it."
 
 "Are you asking my permission?"
 
@@ -1464,7 +1458,7 @@ Rowan waits.
 
 "Good."
 
-"I am telling you before I know what I intend."
+"I am telling you because I do know what I intend."
 
 "Because it affects us."
 
@@ -1472,11 +1466,11 @@ Rowan waits.
 
 Wren looks toward the review room.
 
-"He has noticed you."
+"He has spent seven months missing you."
 
-"You know?"
+"He told you?"
 
-"I know him."
+"I know him. He also told me."
 
 The answer carries intimacy without using it as rank.
 
@@ -1494,7 +1488,7 @@ The answer carries intimacy without using it as rank.
 
 "Useful phrase."
 
-"Everything doesn't need resolution at first contact."
+"Everything doesn't need resolution tonight."
 
 They stand close enough to touch.
 
@@ -1502,17 +1496,16 @@ Rowan wants Wren with the recovered familiarity of a path used after long
 closure: desire carrying history, anger, recognition, and the knowledge of
 where the ground fails.
 
-What she feels toward Eli has no history to lean on.
-
-Construction beginning from exposed material.
+What she feels toward Eli has seven months of calls, one kiss, and no room they
+have shared overnight.
 
 Different is not lesser.
 
-"I will tell you if it becomes action," Rowan says.
+"I will tell him what I want," Rowan says.
 
-"Tell him first."
+"Tell me what changes afterward."
 
-"Of course."
+"I will."
 
 Wren catches her coat and kisses her.
 
@@ -1526,27 +1519,21 @@ Rowan tells Eli in the objection room.
 The setting is unromantic by design. Glass walls. Public corridor outside.
 A clock showing fourteen minutes before his next review.
 
-"I am attracted to you," she says.
+"I still love you," she says.
 
 Eli looks at her.
 
 The directness removes every prepared response.
 
-"Right," he says.
+"I still love you."
 
-"Is that agreement or acknowledgment?"
-
-"Acknowledgment."
-
-"Are you?"
+"That was agreement."
 
 "Yes."
 
-The word changes the room more than she expected.
-
 "What do you want to do about it?" he asks.
 
-"Not decide through implication."
+"Act on what we already decided."
 
 "Good."
 
@@ -1554,7 +1541,7 @@ The word changes the room more than she expected.
 
 "Yes."
 
-"Not let your office turn access into intimacy or intimacy into access."
+"Not let your returned office turn access into intimacy or intimacy into access."
 
 "Yes."
 
@@ -1566,7 +1553,7 @@ The word changes the room more than she expected.
 
 He laughs.
 
-The attraction becomes easier and more dangerous when laughter enters.
+The wanting becomes easier and more dangerous when laughter enters.
 
 "I want to kiss you," he says.
 
@@ -1582,7 +1569,7 @@ The attraction becomes easier and more dangerous when laughter enters.
 
 He comes around the table.
 
-The first contact is careful enough to be almost administrative. Rowan puts one
+The kiss begins carefully enough to be almost administrative. Rowan puts one
 hand behind his neck where she touched the field burn months ago. He stops
 being careful.
 
@@ -1606,11 +1593,8 @@ She does not.
 
 ---
 
-Disclosure occurs that night.
-
-Eli tells Wren privately about the kiss.
-
-Rowan tells her separately.
+Disclosure occurs that night. Eli and Rowan each tell Wren separately that they
+intend to have sex. Afterward the three sit in Wren's workroom together.
 
 Neither version asks what is allowed.
 
@@ -1622,7 +1606,7 @@ Whether anyone promised status or continuation.
 
 No.
 
-Whether Rowan and Eli want more.
+Whether Rowan and Eli intend to have sex.
 
 Both answer yes.
 
@@ -1638,9 +1622,9 @@ He stops.
 
 "I don't know yet what changes," she says. "Neither do you."
 
-"I'm choosing you."
+"I love you."
 
-"Yes. And wanting her."
+"Yes. And loving her."
 
 "Both."
 
@@ -1740,9 +1724,9 @@ Her own body is not a political argument.
 For one night it is sensation, effort, laughter when the narrow bed moves
 against the wall, and the unfamiliar quiet afterward.
 
-They do not call it love.
+They have already called it love.
 
-They do not call it beginning.
+They do not call tonight a household or a decision about a child.
 
 Eli brings water.
 
@@ -2203,8 +2187,8 @@ Wren and Rowan are romantic partners with continuing chosen obligations.
 
 Wren and Eli are romantic partners with continuing chosen obligations.
 
-Rowan and Eli are sexually involved and have made no declaration of romance or
-household.
+Rowan and Eli are romantic partners and have made no household or co-parenting
+agreement.
 
 No bond confers office.
 
@@ -2496,9 +2480,9 @@ behind security.
 He kisses her in the rain beside a queue of people annoyed that the coordinator
 has obstructed baggage claim.
 
-The kiss is not what makes the relationship romantic.
+The kiss does not decide whether they want a child.
 
-Naming the missing is.
+Missing each other does not decide it either.
 
 ---
 
@@ -2506,29 +2490,25 @@ They speak that night in Rowan's room.
 
 Not Eli's.
 
-"I love you," he says.
+"I want to build a family with you," he says.
 
 Rowan sits on the bed unlacing wet boots.
 
-"Do you?"
+"What kind?"
 
-"Yes."
+"I don't know yet."
 
-"Since when?"
+"Poor planning."
 
-"I don't know."
+"I'm trying to ask before I plan it."
 
-"Poor recordkeeping."
+"Do you mean a child?"
 
-"I thought you might say it wasn't romance because we began with sex."
-
-"It wasn't."
-
-"And now?"
+"If you want one. I mean a home either way."
 
 She puts the boot down.
 
-"Now it is."
+"I want to keep building. I have not chosen the rest."
 
 Eli looks relieved.
 
@@ -2568,7 +2548,7 @@ difference.
 
 It is.
 
-They have sex after naming it.
+They have sex after naming the possible future.
 
 The sex is not more legitimate than before.
 

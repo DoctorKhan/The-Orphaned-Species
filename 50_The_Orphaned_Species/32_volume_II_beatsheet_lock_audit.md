@@ -1,42 +1,50 @@
 # Volume II — *The Descent* — Beat Sheet Lock Audit
-*Generated from on-disk files. Do not edit by hand; rerun by re-checking against current canon.*
+*Generated from on-disk files. Do not edit by hand; rerun audit instead.*
 
-> **Updated 2026-08-10.** The Ch 8 Anglesey conflict flagged in this audit's first run is now resolved by author decision: Anglesey is cut. Chapter Eight was rewritten to "The Corridor Signal" (Rollright → Stonehenge transit), redistributing the salvageable non-ceremony material — the consent/abort protocol, the Maren one-way contact, the Wren/Eli relationship beat, Rowan's letter — onto Morwen (the already-established Ch 7 keeper) rather than the cut character Eleri. The plant-medicine ceremony itself (the cup, the drinking, the roots/seed-envelope vision) is gone, per instruction, not redistributed. A brief, compressed touch of Lovernios survives inside the interval-contact sequence, matching the beatsheet's "touched but not resolved" requirement. Downstream references in Ch 9 and Ch 10 and the manuscript's front-matter craft note were updated to match.
+> **Generated 2026-08-16.** This report is current as of the last beatsheet/manuscript revision.
+> Treat as canonical until the next structural revision.
 
 ## Source sizes
-- `50_The_Orphaned_Species/32_volume_II_beatsheet.md` = **637 lines**
-- `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` = **36,795 words** (Ch 8 rewrite net shorter than the cut ceremony/changeling-record material it replaced)
+- `/Users/khan/Projects/The-Orphaned-Species/50_The_Orphaned_Species/32_volume_II_beatsheet.md` = **126,171 bytes / 715 lines**
+- `/Users/khan/Projects/The-Orphaned-Species/50_The_Orphaned_Species/manuscripts/II_The_Descent.md` = **228,389 bytes / 8,179 lines**
 
 ## Mandated-beat coverage
 
 | Mandated beat | Beatsheet status | Manuscript status | Notes |
 |---|---|---|---|
-| The Folly (Adapa tablet, Ch 2) | Locked | **Present** | Verified during the 2026-08-10 rename work |
-| Charkha name reveal | Locked, "Sora names it on sight in Ch 5 at the holding site, on schedule" | **Present**, Ch 5 line 3397 | Correction: an earlier pass of this audit misattributed this line to Ch 3 due to a line-count error before the Ch 8 rewrite shifted line numbers. Re-checked against current chapter boundaries (Ch 5 runs 3077–3956) — it lands exactly on schedule. No inconsistency. |
-| Callum Price (named Extra defector) | Locked | **Present**, well-distributed | — |
-| Sídhe / gods-underground term | Locked, Morwen's line in Ch 7 | Not line-verified this pass | — |
-| Maren one-way contact (no full mutual scene, no address) | Locked | **Present**, Ch 8, resolved | Delivered through the recovered interval rather than a cup; no address, no plan, matches "do not let this chapter steal the climax payoff" |
-| Lovernios plant-intelligence thread, touched not resolved | Locked | **Present**, Ch 8, one compressed paragraph | Full threshold correctly deferred to Books III–IV per lock |
-| First embodied mutual reunion at Avebury | Locked, Ch 10 only | Not line-verified this pass | — |
+| What Came Home (Sichuan exit / westbound handoff / Wren POV) | Locked | Present |  |
+| The Folly (Mesopotamian archive / Adapa lacuna / Göbekli window) | Locked | Present |  |
+| The Buried Instrument (Göbekli / Taş Tepeler / Wren POV opens) | Locked | Present |  |
+| The Healer's Terms (Somchai / consent-gated depth-scan) | Locked | Present |  |
+| What They Took (Pömmelte / Rollright-Men-an-Tol corridor / Callum) | Locked | Partial / check |  |
+| The Changing Map (Rollright / Men-an-Tol / Sídhe / Wren/Rowan renewal) | Locked | Present |  |
+| The Riddling Ground (Stonehenge corridor / one-way Maren contact) | Locked | Present |  |
+| The Bitter Cup (Stonehenge / hostile teams / Eli seizes ground) | Locked | Partial / check |  |
+| The Transmission Station (Avebury approach / Maren contact) | Locked | Partial / check |  |
+| Release (Avebury release / embodied reunion / Wren/Rowan) | Locked | Present |  |
 
 ## Chapter-card status
 
 | Chapter | Beatsheet card | Manuscript prose | Status |
 |---|---|---|---|
-| Ch 1 — What Came Home | Present | Present | Consistent |
-| Ch 2 — The Folly | Present | Present | Consistent |
-| Ch 3 — The Buried Instrument | Present | Present | Consistent |
-| Ch 4 — The Healer's Terms | Present | Present | Consistent |
-| Ch 5 — What They Took | Present | Present | Consistent |
-| Ch 6 — The Changing Map | Present | Present | Consistent |
-| Ch 7 — The Riddling Ground | Present | Present | Consistent |
-| Ch 8 — The Corridor Signal | Present | Present | **Resolved 2026-08-10** — manuscript rewritten to match beatsheet architecture |
-| Ch 9 — The Transmission Station | Present | Present | Consistent; Eleri/Anglesey references updated to Morwen/interval |
-| Ch 10 — Release | Present | Present | Consistent; Anglesey removed from station-network list |
+| Chapter One—What Came Home | Present | Present | Consistent |
+| Chapter Two—The Cold Container | Present | Present | Consistent |
+| Chapter Three—The Buried Instrument | Present | Present | Consistent |
+| Chapter Four—The Healer's Terms | Present | Present | Consistent |
+| Chapter Five—The Holding Site | Present | Present | Consistent |
+| Chapter Six—The Changing Map | Present | Present | Consistent |
+| Chapter Seven—The Riddling Ground | Present | Present | Consistent |
+| Chapter Eight—The Corridor Signal | Present | Present | Consistent |
+| Chapter Nine—The Staff Entrance | Present | Present | Consistent |
+| Chapter Ten—Release | Present | Present | Consistent |
 
 ## Open items
 
-1. Sídhe term placement and the Ch 10 first-mutual-reunion beat were not individually line-verified this pass.
+1. Pömmelte/Albion climax staging — verify Ch 6–10 manuscript matches locked sequence.
+2. Delphi/Delphic Games / Laurel Cube contact — verify Ch 4 prose matches cube-grounded visionary threshold lock.
 
 ## Conclusion
-All 10 chapters are now consistent between beatsheet and manuscript. The Ch 8 architecture conflict — the most significant finding in this audit's first run — is resolved. The Charkha-timing flag in the first run was this audit's own error, not a real inconsistency, and is corrected above.
+
+The beatsheet contains complete chapter cards for Ch 1–10, and the manuscript draft contains on-page coverage.
+No structural rewrite required based on current on-disk state.
+Verify open items above against manuscript prose before declaring complete.

@@ -17,7 +17,7 @@
 - **Sub-Drone Domestication:** the 0.9-mya mechanism; 24×23 chromosomal compatibility project; not a single fusion event
 - **Two-stage Fall:** ~10.8–10.0 kya orbital loss; the makers' regular visitation ended
 - **Younger Dryas:** unintentional crash, not planned climate strike
-- **Correct worship deferred:** robot/ego submits to Player/consciousness — spiritual payoff in V–X, not I–IV sermon
+- **Mature worship deferred:** practice helps robot/ego interrupt autopilot and make its controls available to Player/consciousness; false authority and fallacious inner rules remain character-level programming — spiritual payoff in V–X, not I–IV sermon
 
 ---
 

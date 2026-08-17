@@ -313,20 +313,30 @@ The line should land late Book II or early Book III:
 
 It should arrive only after the reader has seen registries, psion teams, healing, labor, domestication, artifacts, civilization-functions, and modern automation. Too early, it sounds like lore. Later, it explains the pattern.
 
-### 9a. Phantom god-perception — domestication remote collar — LOCKED 2026-08-01; worship payoff 2026-08-01
+### 9a. Phantom god-perception — domestication remote collar — LOCKED 2026-08-01; control relationship clarified 2026-08-16
 
 **Capture thesis (author-side):** perceiving gods even when they are not there is domestication programming still running — it lets the species **continue to serve** after the handlers leave or go nonlocal. Absence does not break the collar; the nervous system finishes the command.
 
-**Correct application of worship — LOCKED 2026-08-01:** the mature form is not serving absent sky-handlers and not abolishing reverence. It is the **robot (ego / NPC autopilot) submitting to the Player (consciousness / operator)** — Manual Override’s true hierarchy inside one being. Capture worship finishes an empty external master’s order; lucid worship is the body-machine yielding to the lucid self so creation, not only reaction, becomes possible (`SERIES_STRUCTURE.md` § *Ultimate metaphysical thesis*; `Books/Manual_Override`).
+**Mature application of worship — LOCKED 2026-08-01; control relationship clarified 2026-08-16:** practice soothes or retrains the **robot (ego / NPC autopilot)** until it can interrupt an automatic response and make its controls available to the **Player (consciousness / operator)**. The Player may then intervene. The practice creates an opening; it does not choose the act or transmit a rule from consciousness. Capture worship routes control to an absent external master. A teacher, institution, god-image, charismatic authority, or fallacious internal rule can occupy the same false position (`SERIES_STRUCTURE.md` § *Ultimate metaphysical thesis*; `Books/Manual_Override`).
 
 | Volume | Staging |
 |---|---|
 | **Book II** | **Seed only.** Show obedience to absent / empty authority through conduct: empty rooms that still command; registry and wellness language as present gods; Egypt’s god-king antifragility trap (Turning/packet); people kneeling, reporting, or sacrificing when nothing answers. Wrong-first readings: haunt, piety, trauma, “the gods went underground.” **No thesis speech.** Do not name domestication-as-remote-collar. |
 | **Late II / early III** | Robot / sub-drone gut-punch (§9) lands first and sits at full weight. |
-| **Book III** | **Diagnosis (civic).** After registries, Extra ledgers, Continuity “gods who never went home,” Forks/Bridge, and the robot line: domestication made the body finish the command; gods need not be present; civilization (and Charkha/registry face) is the remote collar. Governing line: *We see gods who aren’t there because we were bred to keep serving when they left.* Pair with civilization-engine synthesis (§6). **Do not deliver the Player/robot worship payoff here** — I–IV may show Living Way / override *symptoms* (choice, refuse sync, put the crown down) without naming ego→consciousness submission as the true liturgy of worship. |
-| **Books V–X** | **Spiritual payoff.** Name and dramatize the correct application: robot/ego submits to Player/consciousness; phantom-god service is the misaimed version of the same capacity. Densify with Lifetime Orchestra / Manual Override horizon; not a Books I–IV sermon. |
+| **Book III** | **Diagnosis (civic).** After registries, Extra ledgers, Continuity “gods who never went home,” Forks/Bridge, and the robot line: domestication made the body finish the command; gods need not be present; civilization (and Charkha/registry face) is the remote collar. Governing line: *We see gods who aren’t there because we were bred to keep serving when they left.* Pair with civilization-engine synthesis (§6). Keep the Player/control payoff out of Book III. I–IV may show Living Way / override *symptoms* (choice, refuse sync, put the crown down) without naming the later model. |
+| **Books V–X** | **Spiritual payoff.** Name and dramatize the robot learning to interrupt autopilot and make its controls available to Player/consciousness. Show the false version when character-level reasoning routes control to an external claimant or fallacious rule. Densify with Lifetime Orchestra / Manual Override horizon; keep it out of Books I–IV sermons. |
 
-**Guardrails:** not “atheism wins”; not “all religion is programming”; not “ego death as self-erasure.” Living Way in I–IV remains reciprocal relation with what exceeds the person — body, kin, ground, evidence, other minds — without finishing an absent master’s order. Phantom perception = **capture face**; I–IV civic override = **intermediate practice**; Player←robot submission = **mature spiritual face** (later). Spirituality-goes-wrong (toxic positivity) is a different counterfeit — ego hijacking awakening language rather than ego yielding to lucidity.
+**Guardrails:** the diagnosis does not make every religion programming or require self-erasure. Living Way in I–IV remains reciprocal relation with what exceeds the person — body, kin, ground, evidence, other minds — without finishing an absent master's order. Phantom perception is the **capture face**; I–IV civic override is **intermediate practice**; controls made available to Player are the **mature spiritual face** (later). Spirituality-goes-wrong (toxic positivity) is a related counterfeit: character-level reasoning claims Player authority and uses it to control or blame other people.
+
+**Evidence and disagreement — LOCKED 2026-08-16:** later books may establish
+the Player model scientifically. Do not preserve uncertainty after the evidence
+has answered a question, and do not invent a rival cosmology merely to oppose
+the thesis. Preserve the questions the evidence cannot answer: attribution of
+one choice, access to the Player's reasons, consent to harm, institutional
+authority, and what anyone owes another person. Discovery scenes need failed
+runs, nulls, false positives, bounded measurements, and corrected perimeters.
+Skeptics may update when the evidence earns it. Agreement with the ontology
+does not certify a character's policy or conduct.
 
 The impact should be dread, recognition, humiliation, and clarity.
 
@@ -459,7 +469,7 @@ Discoveries and pressures:
 
 - Dragons and other magical/evolved beings become undeniable.
 - The full sub-drone/domestication/panspermia framework lands.
-- **Phantom god-perception** is named as domestication’s remote collar: serving gods who are not there so the command survives absence (§9a). The **correct worship** (robot/ego → Player/consciousness) waits for V–X.
+- **Phantom god-perception** is named as domestication's remote collar: serving gods who are not there so the command survives absence (§9a). The **mature worship** payoff, where robot/ego makes its controls available to Player/consciousness, waits for V–X.
 - **Anu + 26** reframes the absence of the gods: not simply gone, not physically ruling, but still exerting nonlocal influence — and human perception was bred to keep answering anyway.
 - Technology and science become the way fear is reduced through standards, consent, accountability, and repeatable testing.
 - Humanity faces the mature test: register, worship, kill, exploit, or coexist.

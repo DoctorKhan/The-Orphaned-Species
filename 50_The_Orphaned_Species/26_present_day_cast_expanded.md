@@ -59,6 +59,8 @@ Development arcs: `27_character_development_arcs.md`. Relatability guardrail: `1
 
 **Function:** receiver, clue-follower, moral decision-maker; constructive freedom corner.
 
+**Implicit inheritance — clarified 2026-08-16:** Eli's tradition is scientific and comes from Rasel, who did not teach it as a curriculum. Eli remembers a measurement, a correction, a failed run kept in the notebook, or another set of hands checking the work. Present events reveal the method shared by those ordinary memories. Spiritual and cultural practices may give him procedures or language to test. They do not complete him or confer authority.
+
 **Past:**
 - **Ordinary life:** fugitive years largely **off-page in Vol I** and presented to child-Eli as a family holiday — Bangla, food memory, **Bali rhythm** leak forward; **no martial before Ch 5**. **Upbringing — revised 2026-08-11:** **Bali childhood** with parents (subak, gamelan, community); Bangla/culture from **Rasel and Maren**; **keeper foster parents** after the disappearance; **raised as a worker**. **Visuo-spatial talent** hidden under capacity claiming; leftover fever makes it inconsistent. **Fugitive Thailand:** Somchai, wat breath only — **no martial**. **Present Ch 5–10:** first on-page martial + chi-body — **Kru Dao** (Ch 7 MT/Kali). **Pelangi:** Foundry only; talent pressure = spatial/splice. Pai, Khun Dang = knife/kitchen/song, not martial syllabus. **Sailing memory — LOCKED 2026-07-25:** **Maren** taught dinghy watch (feel before see, fairway breeze lane, name fear at harbor, sheet wraps); **Rasel** taught pump and *feel the cloth*. Vol I Ch 1 race/garden must seed both before reveal.
 - **Turn:** his parents disguise their flight as a family holiday and leave him at Mei's for one night while they check the next route. They are intercepted before returning. Rasel is routed into **Mandate** lab custody (Bangladeshi passport / **Rasel Khan** on files), Maren onto the **Charkha** chain (**Albion passport** — **passport split**). No keeper witnesses the taking. Babaji files both parents as dead; Somchai tends the shaken child and the **escape network moves Eli through Thailand**. **The scar is NOT from the disappearance — BIOWEAPON PERSONAL-CONSEQUENCE LOCK 2026-08-06; naming retired 2026-08-16:** Eli's neurological scar is the **post-infectious aftermath of the engineered outbreak (Fever Years)**, contracted at Pelangi Reach during the quarantine era despite the community's care — Pelangi's clinic and Mei's kitchen nursed him through the fever, so the hearth is also the place he was sick and kept. Author word: **Fever scar**. A clinic file may still print TBI if a scene needs the wrong category; narration does not adopt it (`15` § *Eli's Fever scar*). The same weapon that orphans him scars him and wakes him (outbreak survivors carry the receiver — `42`): wound, gift, and orphaning share one origin. Eli does not learn this until the Book II–III investigation exposes the outbreak as engineered. **Recovery is slow, natural, and undramatic:** substantial by Books III–IV, never a full upgrade, no climax cure (`27`, `41`); the body rewires at its own pace, which is the series' healing register (time + body + community care, not intervention-as-reward).
@@ -189,9 +191,9 @@ romance under new terms. An older **Chinese-Malaysian** ex remains off-page.
 Their training house is a local institution in the Monsoon network. Rowan's
 Weft work later crosses the Stone network without changing her house or giving
 either route network authority over the relationship.
-Wren/Rowan and Wren/Eli become concurrent romantic bonds in Book II; Rowan/Eli
-remains nonsexual and non-romantic through Book III, where only deniable charge
-appears. Their direct relationship changes category in Book IV. Wren belongs to
+Wren/Rowan and Wren/Eli become concurrent romantic bonds in Book II. Eli and
+Rowan fall in love during Book III, acknowledge it while he commands, and wait
+until his handover before physical action. Wren belongs to
 the Weavers but does not speak for all houses.
 
 **Living female relationship — Asha Raman:** senior Knotter and former
@@ -269,10 +271,10 @@ operator. Wren remained a house Weaver and became Knotter; Rowan chose corridor
 work. Neither woman ran extractions in Book I. Book II is the first time their
 crafts must solve the same live recovery, and the first time Wren crosses from
 placement work into clandestine movement. Rowan and Wren renew their romance
-on-page. Eli/Wren also remains real; Rowan/Eli remains nonsexual and
-non-romantic through Book III. Book III permits only deniable charge. In Book IV
-Rowan and Eli have sex several times before repeated intimacy, public work, and
-care become a direct romance.
+on-page. Eli/Wren also remains real. Eli and Rowan fall in love during Book III
+through direct wartime work. They name the love and withhold sex while he holds
+command. A kiss may follow the handover. Book IV carries consummation and their
+decision whether to try for a child.
 
 **Ordinary life:** **British / Irish diaspora**, close to Wren's age, raised in the strait corridor — port work, intake queues, shift meals, Weaver training in a **mixed-diaspora harbor house** (Bangla and Malay and English on the same bench). She remembers costs in names rather than totals. Affectionate without being yielding; practical, dryly funny, and less impressed by Wren's competence than almost anyone alive.
 
@@ -328,11 +330,11 @@ exclusivity. Rowan does not romance Eli or bless his relationship; she speaks fo
 herself and returns to her network with the Wren/Rowan romance ongoing. Eli no
 longer experiences that ongoing romance as evidence that he is unwanted.
 
-**Rowan alone — LOCKED 2026-08-06:** at least one scene per volume (II–IV) where Rowan acts with **no Wren/Eli or Wren/Rowan job in the scene** — her own corridor, her own cost, her own people. Book II model (Ch 6–8 window): while the group works the missing-person route, Rowan carries a separate obligation her branch cannot defer — a displaced family's winter placement she promised before the corridor met Eli's chase — and the reader sees her keep it at real expense to the recovery timeline. Book III model: she negotiates a corridor concession with a Union remnant officer who underestimates her softness once, in a scene where neither Wren nor Eli is present or referenced. These scenes are why the reader misses her when she leaves the page; they also keep the deniable Book III charge from reading as pre-installed romance. Companion: `27` § *Rowan loss on-page*.
+**Rowan alone — LOCKED 2026-08-06:** at least one scene per volume (II–IV) where Rowan acts with **no Wren/Eli or Wren/Rowan job in the scene** — her own corridor, her own cost, her own people. Book II model (Ch 6–8 window): while the group works the missing-person route, Rowan carries a separate obligation her branch cannot defer — a displaced family's winter placement she promised before the corridor met Eli's chase — and the reader sees her keep it at real expense to the recovery timeline. Book III model: she negotiates a corridor concession with a Union remnant officer who underestimates her softness once, in a scene where neither Wren nor Eli is present or referenced. These scenes are why the reader misses her when she leaves the page; they also keep the Book III love from making her life orbit Eli. Companion: `27` § *Rowan loss on-page*.
 
-**Eli / Rowan — hint, then sex-before-romance progression — REVISED AND LOCKED 2026-07-28:** Rowan/Eli remains **nonsexual and non-romantic through Book III**. In their shared Book III scenes Eli is emotionally steady; their political trust may carry only deniable charge. Use at most three dual-reading signals: he seeks her reaction, she can steady or confront him, and practical touch briefly changes attention. No explicit desire, near-kiss, jealous Wren, or announced future.
+**Eli / Rowan — love during war, family after — REVISED AND LOCKED 2026-07-28; timing revised 2026-08-16:** In Book III, political trust becomes love through direct disagreement, late calls, bodily care, and the conduct each sees from the other under pressure. They name the love while Eli commands. They disclose it to Wren and withhold sex, domestic access, and future-child promises until the handover. A coda kiss may follow.
 
-In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual sex on several separate occasions before either assumes romance. Each encounter requires present consent and disclosure; sex grants no claim, title, exclusivity, continuation, or parenthood. They want each other directly, not because Wren is unavailable. Political work, disagreement, bodily familiarity, post-sex care, mutual steadiness, and missing one another eventually make the bond romantic. Rowan's desire for motherhood predates Eli; early sex is contracepted and not an audition for fatherhood. Only after romance does she choose Eli as co-parent and decide when to pursue conception. Wren neither brokers nor authorizes the bond (`60`).
+In Book IV, Rowan and Eli consummate the acknowledged love. Each encounter requires present consent and disclosure; sex grants no claim, title, exclusivity, continuation, or parenthood. They want each other directly, independent of Wren's availability. Rowan's desire for motherhood predates Eli. She decides separately whether to choose him as co-parent and when to begin trying. Wren neither brokers nor authorizes the bond or conception decision (`60`).
 
 ---
 
@@ -340,7 +342,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 *Rewritten 2026-08-11 to match `58_sanxingdui_climax_lock.md`'s Rasel/climax revision — the previous version of this sheet described a captive who delayed and sabotaged the apparatus and wanted to expose the Mandate physics. That is no longer canon. Do not restore it.*
 
-**Function:** Eli's route into a colder half of complicity than Maren's. Maren shows Eli that resistance and collaboration can coexist inside one person, sabotaging from within a system she stays inside on her own terms. Rasel shows the version with no resistance in it at all — collaboration chosen freely, defended rather than confessed. Father-line source of symbol-reading: he reads the living world (soil, stem, season, seam) with his eyes shut, the register Eli inherits without the fluency.
+**Function:** Eli's route into a colder half of complicity than Maren's. Maren shows Eli that resistance and collaboration can coexist inside one person, sabotaging from within a system she stays inside on her own terms. Rasel shows the version with no resistance in it at all — collaboration chosen freely, defended rather than confessed. Rasel is also the source of Eli's scientific tradition: measure, test, record the failure, accept correction. He reads soil, stem, season, and seam through that method. Eli remembers the behavior and develops the explicit method along the route.
 
 **Past:**
 - **Ordinary life:** physicist. Gardener in Eli's memory with "a physicist's precision" — plants measured, staked, corrected. Taught Eli the pump (*feel the cloth, don't fight the air*) on a borrowed skiff; Bangla mixed with English when a lesson mattered; **Babu** at home, never on a form.
@@ -835,7 +837,7 @@ of that duty while his own harbor manifest remains open
 | Character | Vol I | Vol II | Vol III | Vol IV |
 |---|---|---|---|---|
 | Wren placement / evacuation accountability | Ch 1–4 placement; Ch 13 displaced | first recovery beside Rowan | network choice; Knotter power rises | principal POV; court access, Weaver limits, parental choice |
-| Rowan | off-page seed only | Ch 5–7: corridor recovery + Wren romance renews | political trust with Eli; deniable charge only | principal POV; attraction → repeated sex → romance → chosen co-parenting/conception → pregnancy and labor |
+| Rowan | off-page seed only | Ch 5–7: corridor recovery + Wren romance renews | falls in love with Eli; names it; no sex until handover | principal POV; consummation → chosen co-parenting and trying → pregnancy and labor |
 | Hassan witness | Malacca | — | — | — |
 | Malai + Thailand river cooperative | agricultural witness (Ch 5–10) | — | garden packet: Niran walks; no teams | — |
 | **Dara Phommasone** | Ch 11 permit dies | — | still on the highland list; gold, not thanks | — |

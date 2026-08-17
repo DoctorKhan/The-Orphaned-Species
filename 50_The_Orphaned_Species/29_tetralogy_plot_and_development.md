@@ -9,9 +9,10 @@
 > across supply, medicine, water, crops, displacement, security, and trust.
 > Local societies continue; shared obligations seize. The
 > reconstituted institutions deliberate whether to rebuild the compact or accept permanent
-> emergency rule. Book III contains only deniable Rowan/Eli attraction, with no sex or romance.
-> Book IV is the women-led court volume and owns conscious attraction, repeated
-> sex before romance, chosen conception, childbirth, institutional settlement,
+> emergency rule. Eli and Rowan fall in love during Book III and acknowledge it
+> while his command still prevents sexual or domestic action. Book IV is the
+> women-led court volume and owns consummation, family-building, the decision
+> to try for a child, pregnancy, childbirth, institutional settlement,
 > and Eli's actual relinquishment.
 > Older language below placing step-down, final inquiry, shared-garden coda, or
 > “wanted, not indispensable” closure in Book III is superseded.
@@ -438,7 +439,7 @@ thresholds. Asha's later review converts their Book II failure into consent,
 appeal, abort, and return procedures. Folk echo: the crowd's *sons-of-Deiwos*
 twinning of Eli and Somchai is the world reading two strangers as a ply.
 
-**Formative Weaver bonds — LOCKED 2026-07-22; romance distinction revised 2026-07-28:** bonds formed through shared houses, crossings, bodily care, confidences, families, obligations, and community reliance become embodied and socially distributed, making them difficult to break cleanly. Romantic separation does not erase routes, reflexes, debts, or recognition. This is durability, not destiny. Wren and Rowan separated without fully unbinding; their romance renews in Book II. Wren/Rowan is formative recognition; Wren/Eli is present discovery. Rowan/Eli remains non-romantic through Book III, which contains only deniable attraction. In Book IV conscious attraction leads to repeated sex before romance. Rowan's longstanding wish for motherhood predates Eli; only after romance does she choose him as co-parent and decide when to pursue conception. Governing line: **the bond remembers; the person still chooses.**
+**Formative Weaver bonds — LOCKED 2026-07-22; romance distinction revised 2026-08-16:** bonds formed through shared houses, crossings, bodily care, confidences, families, obligations, and community reliance become embodied and socially distributed, making them difficult to break cleanly. Romantic separation does not erase routes, reflexes, debts, or recognition. This is durability, not destiny. Wren and Rowan separated without fully unbinding; their romance renews in Book II. Wren/Rowan is formative recognition; Wren/Eli is present discovery. Eli and Rowan fall in love during Book III through wartime work. They name it while Eli still commands and refuse sex or domestic access until the handover. Book IV carries consummation and the separate decisions to build a family and try for a child. Rowan's longstanding wish for motherhood predates Eli. Governing line: **the bond remembers; the person still chooses.**
 
 **The Unranked — those who leave the loom:** this status may exist at the edge of
 the world, but it is not Wren's identity and does not organize the trilogy's
@@ -666,8 +667,8 @@ Rollright, Men-an-Tol, and Stonehenge then lead to Avebury.
   transfer, but certification is attacked before the process can complete.
 - Weaver attestations and cloister defense preserve enough continuity to prevent
   collapse; the compact's continuity clause retains Eli into Book IV.
-- Rowan/Eli remains politically intimate and non-romantic. Three deniable,
-  dual-reading attraction seeds prepare Book IV without announcing it.
+- Rowan and Eli fall in love through political work and acknowledge it while
+  his command still bars sex, domestic access, and promises about children.
 
 ### Priority 3 open (before drafting III)
 - **#11** Dragon plot role beyond symbol
@@ -675,7 +676,7 @@ Rollright, Men-an-Tol, and Stonehenge then lead to Avebury.
 - **#13** Lang accountability shape
 - **#14** Final community geography + post-battle dispute test
 
-**Chapter spine:** `33_volume_III_beatsheet.md` (Book III Ch 1–10), revised toward refugee landing, real harm, Lang standard, Wren boundary, bounded crown, partial inquiry, deniable Rowan/Eli charge, an **incomplete** handover under war pressure, and Weaver/cloister rise through building it. Book IV owns sex, romance, conception, pregnancy, birth, and the reconstruction of the compact after its failure/second relinquishment: `60_volume_IV_court_of_threads.md`.
+**Chapter spine:** `33_volume_III_beatsheet.md` (Book III Ch 1–10), revised toward refugee landing, real harm, Lang standard, Wren boundary, bounded crown, partial inquiry, Rowan/Eli love held within command limits, a completed personal handover whose interregional reach remains untested, and Weaver/cloister rise through building it. Book IV owns consummation, the decision to try for a child, pregnancy, birth, and the reconstruction of the compact under Eli's second relinquishment: `60_volume_IV_court_of_threads.md`.
 
 ---
 
@@ -697,11 +698,11 @@ Rollright, Men-an-Tol, and Stonehenge then lead to Avebury.
 ### Romance plot (parallel spine)
 - I: recognition refused → forced alliance → sanctuary beats.
 - II: thaw tested; trade fork; Rowan returns; formative Wren/Rowan bond collides and renews; Eli feels rejected and provisional; Wren discloses both bonds and chooses Eli specifically without unchoosing Rowan; separate nonexclusive commitments late II.
-- III: Wren's two romances continue; Rowan/Eli political intimacy carries only
-  faint, deniable attraction.
-- IV: Rowan/Eli consciously recognize attraction, have sex several times before
-  romance emerges, then separately choose co-parenthood and conception; three
-  distinct dyads face court ranking and Wren's fear of biological exclusion.
+- III: Wren's two romances continue; Eli and Rowan fall in love during wartime
+  work, acknowledge it, and refuse sex while he commands.
+- IV: Eli and Rowan consummate an established love, then separately choose
+  family-building and an attempt to conceive; three distinct dyads face court
+  ranking and Wren's fear of biological exclusion.
 - **Drafting:** per-chapter **Romance cost** in `31`/`32`/`33`; five load-bearing beats `19` § *Romance cost audit* — architecture is hard; execution drifts easy without Ch 3/5/9 (I), **Ch 13 rupture (I)**, and Ch 17–19 (II) friction.
 - **M/I/A:** per-chapter **Mystery · Intrigue · Attraction** in `31`/`32`/`33` § *M/I/A audit*; hub `19` § *Female mystery, intrigue, and attraction* — through-line: mystery deepens → intrigue exits counterfeit → attraction matures past control.
 
@@ -733,7 +734,7 @@ Key hinges:
 | Vol II — trade fork | Wren third loyalty |
 | Vol II — Wren custody instinct | Rowan's person-first recovery limit; Wren accepts correction before romantic renewal |
 | Vol II — plural V | Wren/Rowan + Wren/Eli named separately; Eli's jealousy resolves through distinct significance; Rowan/Eli remains non-romantic in this volume |
-| Vol III–IV — V to three dyads | Book III hints only; Book IV attraction → repeated sex → romance → separate co-parenting/conception choice; court hierarchy cannot collapse the bonds |
+| Vol III–IV — V to three dyads | Book III love acknowledged under command restraint; Book IV consummation → family-building → separate decision to try for a child; court hierarchy cannot collapse the bonds |
 | Vol II — release mother | Eli grief + liberation |
 | Vol III — fatal freedom failure | Eli's judgment becomes answerable |
 | Vol III — Wren boundary | network not weaponized; love grants no jurisdiction |

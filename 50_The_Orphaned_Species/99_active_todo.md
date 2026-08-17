@@ -84,3 +84,6 @@
 
 **Retired taxonomy removal from companion prose**
 [ ] 19. Verify *The Human Experiment* / *The Social Game* body prose contains no retired framing terms — scaffolds drafted; run grep check and delete retired terms
+
+**Lived-space pass — Books I–IV (requirement LOCKED 2026-08-16; implementation OPEN)**
+[ ] 20. Audit every chapter for lived space that has no doctrinal delivery job. Major characters need ordinary work, attachment, embarrassment, disagreement, and pleasure that matter to their immediate lives. Preserve consequences that remain inconvenient or unresolved instead of converting them into lessons. Flag any scene that stops working when its cosmological vocabulary is removed, then add human pressure or cut the scene. This is a scene-function audit, not a quota for one decorative domestic beat per chapter.

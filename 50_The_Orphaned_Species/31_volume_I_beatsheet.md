@@ -558,7 +558,7 @@ The on-page sequence therefore moves from **how people survive together** (Çakm
   distributed-network model + Rasel's physics + Sora's transfer code → Mesopotamia,
   Göbekli and Europe; Maren's tether unresolved.
 
-**Thailand arc canon — LOCKED 2026-08-08:** Thailand is where Eli develops significantly. The same meditation teacher who instructed Rasel and Maren is present there; Eli receives identical foundational training from this teacher. The ring is the evidence that reaches the teacher, not the other way around. The teacher offers Eli a fragment of practice, not mastery. See `DECISIONS_Thailand_Arc.md`.
+**Thailand arc canon — LOCKED 2026-08-08; scientific-inheritance clarification 2026-08-16:** Thailand is where Eli develops significantly. The same meditation teacher who worked with Rasel and Maren is present there. Eli tests the same bounded exercises his parents tested; he does not join a spiritual lineage. The ring is the evidence that reaches the teacher. The teacher recognizes Rasel's habits of observation and correction in Eli and offers a procedure Eli may examine, alter, or discard. Present trials reveal the method inside Eli's ordinary memories of his father. See `DECISIONS_Thailand_Arc.md`.
 
 **Thailand agricultural-witness sequence (Ch 5–10) — LOCKED 2026-07-23, not climax:** forming ley line, Ila midpoint, temple/Pai grounding, incomplete recognition of autopilot, and Wren's forced humane choice while Eli hesitates over **agricultural** evidence. **Mekong/Vietnam retired** — prior draft is quarry only. Bangladesh off-page (`99` Priority 1). Border-era spray/burn scar discipline and cooperative water practice require research before prose.
 

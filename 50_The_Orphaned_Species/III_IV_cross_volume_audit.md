@@ -13,7 +13,7 @@ Both manuscripts are internally consistent with their own current architecture d
 | Decentralized settlement holds, but untested at scale | Handover succeeds locally; distributed credentials; no single point of failure *in the room* — Continuity keys/factional mandate/private force outside it stay live and unresolved (`33` Ch 10 card) | Seven months of the system working exactly as designed, then Ch 1 opens on the first missing delegate in seven months — the manuscript dramatizes the untested claim being tested for real, not just restating that it held (`IV` Ch 1, "something is finally testing whether it still holds") | Consistent — and correctly plays the "proven for the person, untested for the system" doctrine, not the older "clean win" framing |
 | Continuity clause | Dormant; read into record; Wren ensures "not currently in effect" on tape | Institutions deliberately invoke it; Henley's compromised credentials; extension request during labor | Consistent |
 | Eli's standing | Sits among ordinary delegates; Rowan/Wren present but separate | Same; Eli still among delegates; no platform | Consistent |
-| Rowan/Eli relationship | Nonromantic, nonsexual, deniable charge only | Attraction Ch 2; sex Ch 3; romance emerges Ch 4 (six weeks later, not from sex) | Consistent (`60` § 5 *Romance architecture*) |
+| Rowan/Eli relationship | Love acknowledged while Eli commands; no sex or domestic access before handover; coda kiss permitted | Established love consummated; family and conception decisions remain separate | Consistent (`19` and `60` § 5 *Romance and family architecture*) |
 | Wren/Rowan | Both intact; no reconciliation scene needed | Both intact; Rowan negotiates with Wren before acting | Consistent |
 | Amara | Unforgiving; "a process can be real without making me feel better" | Still unforgiving; appears in court, does not forgive Eli | Consistent |
 | Cloisters | Founded by Extra men, veterans, Thread elders, Eli; Owen/Malik leadership | Formalized; praetorian chapters split; civilian defense oath; Owen/Malik still present | Consistent |
@@ -27,7 +27,7 @@ Both manuscripts are internally consistent with their own current architecture d
 | Lean Year eruption + cross-network seizure | Ch 1–2 pressure | Present |
 | Costa Rica evacuation hinge (Nosara–Sámara, Tenorio–Miravalles) | Ch 5 — place names drafted (line ~2679) | **Present — resolved since prior audit** |
 | Continuity clause invoked by institutions | Ch 2–9 (Henley credentials, extension request, final motion) | Present |
-| Rowan/Eli attraction → sex → romance → conception | Ch 2 attraction; Ch 3 sex; Ch 4 romance; Ch 6 pregnancy | Present |
+| Rowan/Eli love → post-handover consummation → family decision → conception | Book III acknowledgement; Book IV Ch 2 sex; Ch 4 family decision; Ch 6 pregnancy | Present |
 | Wren boundary / triad refusal | Ch 3 (Wren/Rowan corridor conversation) | Present |
 | Sports/market gathering dispute | Ch 7 | Present |
 | False heir / dynasty motion | Ch 8 | Present |

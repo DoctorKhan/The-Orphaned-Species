@@ -1,6 +1,6 @@
 # Eli's Learning by Volume and Circle
 
-> **Status: GOVERNING LOCK 2026-08-15.** What is being kept (agency-place);
+> **Status: LOCKED 2026-08-15; scientific-inheritance and control-relationship clarifications 2026-08-16.** What is being kept (agency-place);
 > charges as guidance; how the same law scales by volume and circle. Does not
 > invent chapter plots. Companions supply mechanism; novels supply proof.
 > Lived Book I delivery: `67`. Arcs: `27`. Circles: `40` § *three circles*.
@@ -9,6 +9,16 @@
 ---
 
 ## The mistake to refuse
+
+**Eli enters with examples, not an articulated method.** Rasel did not teach
+him a science curriculum. Eli remembers his father measuring soil, checking a
+knot, recording a miss, and letting another person challenge the result. Present
+pressure reveals the common method inside those ordinary memories. Terms such
+as *wu wei* and Middle Way are author-side comparisons or language other
+characters may use. They do not supply Eli's truth. A breath count, a candle
+afterimage, or a martial drill gives him another trial he can repeat. His body
+supplies the observation; instruments, consequences, and other people confirm
+only the bounded result.
 
 *Wu wei* in this series is **non-forcing**, not non-interference. Rasel's line
 already holds the distinction: you cannot lift the field; you can stop being
@@ -125,11 +135,11 @@ not a meditation arc. The volume exam stays the table below.
 |---|---|---|---|
 | **I** | **Malacca** — survival needle. Body cannot choose. | **Thailand** (wat + Kru Dao = *one* return). **Sanxingdui** fails the return on the sweet needle (mask). Leaving is late and incomplete. | A second assault to motivate training. A seminar in every chapter. Göbekli as the completed override (that is Book II ground). |
 | **II** | **Keep-her / the extra hour** — family sweet needle. | **Ch 10 release** — he stays in the place while she walks. Relational hold under assault is the *spend*, not a new lesson. | Re-teach the candle or wat. Name anatta. Make Laurel Cube a second wat. |
-| **III** | **Force-sync** — civic sweet needle ("I can save them"). | **Refuse + the hall continues.** Named dead are the cost of staying. | A meditation arc in the war. Heather journey as a second exam. Deliver ego→Player liturgy. |
+| **III** | **Force-sync** — civic sweet needle ("I can save them"). | **Refuse + the hall continues.** Named dead are the cost of staying. | A meditation arc in the war. Heather journey as a second exam. Deliver the Player/control doctrine. |
 | **IV** | **Heir-fear / stay indispensable** — push and pull at once. | **Middle way + relinquishment during birth.** *Perhaps there is a middle way* once, after conduct. | A bigger Book III. Cherry journey as a new religion. |
 | **V** | Some of the young dissolve and do not return. | One dissolver and a return in a life (`69`). First time the seat may be *named* (*how high are you sitting?*). | A syllabus of anatta / sati / Advaita / tantra. Altitude as a lecture. |
 | **VI–VIII** | Rhyme the costume going on, in that life's want. | Remembering, not teaching. | Restart the I–IV, V, or IX lesson list. |
-| **X** | The pointer becomes operable. | Player engages through a clarified robot. | A lecture that abolishes persons. |
+| **X** | The pointer becomes operable. | A clarified robot makes its controls available; Player engages. | A lecture that abolishes persons. |
 
 **Chapter test.** If a scene does not take the place, return it, or spend a
 skill already earned, it must still move clock, bond, or cost. It must not
@@ -411,7 +421,7 @@ Do not invent chapter plots. Author-side only:
 | **V** | Founders and infants. Care without a leash. Neither child can leave yet. |
 | **VI–VIII** | Past-life rhymes of the same three circles. Remembering, not teaching. |
 | **IX** | Let the young leave without surrendering care. The stack is normal to them. Mentorship they actually need. |
-| **X** | Ego/robot yields to Player. Creation without a cage to teach it. Not Eli–Wren destiny. |
+| **X** | Ego/robot makes its controls available to Player. Creation without a cage to teach it. Not Eli–Wren destiny. |
 
 I–IV may practice the civic form of this without naming that liturgy.
 

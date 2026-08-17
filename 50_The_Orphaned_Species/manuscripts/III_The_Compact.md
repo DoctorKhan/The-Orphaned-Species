@@ -4262,6 +4262,94 @@ Authority settles on him before any ceremony can make it beautiful.
 
 ---
 
+Most of the screens go dark after the vote. Rowan's stays open.
+
+The Raben Yard is behind her: one sodium lamp, a pump housing on a bench, rain
+silvering the open half of the roof. She has taken off the repair coat and has
+grease across one wrist.
+
+"Twenty-one days," she says.
+
+"You heard the terms."
+
+"I heard you accept them."
+
+"You voted for someone else."
+
+"There wasn't anyone else. That isn't the same as wanting you."
+
+Eli leans back from the table. The last clerk in the room carries away two cups
+and leaves without closing the door.
+
+"You keep looking for my answer before you give the room yours," Rowan says.
+
+"You usually have one."
+
+"That isn't why."
+
+He waits.
+
+"I love you," she says. "This is badly timed. It is still true."
+
+His hand closes around the edge of the route card. The field stays quiet. The
+words leave him with the chair against his back and the
+cup ring drying beside his thumb.
+
+"I love you too."
+
+Rowan looks down once, toward something outside the frame.
+
+"Nothing follows from that while you hold this office."
+
+"Nothing."
+
+"No private route. No room arranged by somebody who wants your favor."
+
+"No."
+
+"I will tell Wren. You tell her separately."
+
+"I will."
+
+"Good. Your twenty-one days started six minutes ago."
+
+She ends the call.
+
+Wren is in the adjoining room marking the west relay failures on paper. Eli
+waits until she finishes writing the name beside the last red dot.
+
+"Rowan and I spoke."
+
+"I know you spoke."
+
+"I love her. She loves me."
+
+Wren puts the pencil down.
+
+"What are you asking me for?"
+
+"Nothing. I'm telling you because it changes what you are standing inside."
+
+"Yes. It does."
+
+"We aren't acting on it while I hold command."
+
+"That protects the routes," Wren says. "It doesn't make this painless."
+
+"I know."
+
+"Don't ask me to be pleased because you're behaving correctly."
+
+"I won't."
+
+She turns the paper around and points to the west relay.
+
+"Then help me get medicine through this one before morning."
+
+They work.
+
+---
+
 The Hawaiʻi invitation arrives during the final signatures.
 
 Malia Kealoha speaks for a Native Hawaiian-led stewardship council on Hawaiʻi
@@ -7183,13 +7271,26 @@ Rowan doesn't let go this time.
 
 "No."
 
-"Not today," she says. Not a question. Not a rejection either.
+"You are free," she says.
 
-"No," he agrees. "Not today."
+"Yes."
+
+"Then ask me."
+
+"May I kiss you?"
+
+"Yes."
+
+He kisses her. Her hand stays around his wrist until he forgets to protect the
+injured one. When they separate, she checks his knuckles again.
 
 She sets his hand down and lets go, deliberate about it, like returning something she'd only been holding.
 
-"You're free," she says, like a diagnosis. "Try not to make a religion out of it."
+"Still shaking," she says.
+
+"I noticed."
+
+"Good. Try not to make a religion out of either thing."
 
 ---
 

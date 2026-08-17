@@ -2,9 +2,22 @@
 
 > **SANXINGDUI REVEAL — LOCKED 2026-07-26:** Book I may name **Tree of Life** late at Sanxingdui after the distributed living route is experienced and independently checked through Rasel's physics, Thai field data, and Chinese scholarship. The allowed discovery is that the Tree of Life is the living world connected to itself—not the full plane hierarchy, immortality answer, panspermia account, dragon taxonomy, or Two-Tree union. `58_sanxingdui_climax_lock.md` governs.
 
-> **Status:** LOCKED craft instruction for the series' **through-line**. Anti-entropic / life technology is **discovered throughout** — present plot, artifacts, Seven descents, and practices — not dumped at the climax. The **end result** is the **reunification of the Tree of Life and the Tree of Knowledge**, not victory for either tree alone. **Technology teaches meaning — LOCKED 2026-07-31** (concepts via runnable tech so life is not feared; parent `SERIES_STRUCTURE.md`). Pair with `34_two_energies_and_planes.md` (cosmology), `17_reveal_order_and_reader_impact.md` (emotional order), `21_present_day_street_skin.md` (present-day skin), `28_present_day_tetralogy_craft_index.md` (craft hub), `33_the_curriculum.md` (practices), `35_artifact_chain.md` (objects), `05_story_architecture.md` (structure), `40_concepts.md` (Eden III), and `62_lifetime_orchestra.md` (V–X Lifetime Orchestra).
+> **Status:** LOCKED craft instruction for the series' **through-line**; knowledge-form clarification 2026-08-16. Anti-entropic / life technology is **discovered throughout** — present plot, artifacts, Seven descents, and practices — not dumped at the climax. The **end result** is the **reunification of the Tree of Life and the Tree of Knowledge**, not victory for either tree alone. **Technology teaches meaning — LOCKED 2026-07-31** (concepts via runnable tech so life is not feared; parent `SERIES_STRUCTURE.md`). Pair with `34_two_energies_and_planes.md` (cosmology), `17_reveal_order_and_reader_impact.md` (emotional order), `21_present_day_street_skin.md` (present-day skin), `28_present_day_tetralogy_craft_index.md` (craft hub), `33_the_curriculum.md` (practices), `35_artifact_chain.md` (objects), `05_story_architecture.md` (structure), `40_concepts.md` (Eden III), and `62_lifetime_orchestra.md` (V–X Lifetime Orchestra).
 
 **Book III operating rule — LOCKED 2026-07-16:** The two trees check one another continuously. Knowledge supplies records, instruments, models, and public verification; psionic life supplies embodied attention, empathy, and feedback from living systems. Knowledge catches projection and coercive charisma; psionics catches abstraction and the people erased by a category. Their union is enacted through consent, independent verification, and reversible authority—not through Eli's private certainty.
+
+**Knowledge changes form across the Trees — LOCKED 2026-08-16.** The Tree of
+Life is direct awareness. It does not deliver propositions, reasons, rules, or
+instructions from the Player. The Tree of Knowledge is the character's built-in
+programmability: distinction, symbol, sequence, if/then response, language,
+model, and test. Its program layer is literally binary. Science is its disciplined
+use, able to expose error and revise a public account.
+
+Reunification does not let Life hand Knowledge a correct answer. Life makes a
+choice point available. Knowledge can then describe what happened, compare
+explanations, and test consequences. A rule claiming to reveal why someone's
+Player chose an injury is Knowledge impersonating Life. No instrument, vision,
+teacher, or institution can verify higher-plane consent for lower-plane harm.
 
 **Postwar embodiment — LOCKED 2026-07-21:** The reunified Trees acquire a durable social form in the teahouse pilgrimage (`50_teahouse_pilgrimage.md`). Tea, meditation, relationship, chosen kin, and charged-ground contact supply the Life side; personal health baselines, preregistration, controls, sealed reports, replication, longitudinal follow-up, transparent adverse-event records, and reversible site clearance supply the Knowledge side. AI remains background infrastructure that makes bias and institutional drift contestable. It never interprets contact or defines the person.
 
@@ -43,7 +56,7 @@ Eli's repeatable practice is: **“This is what I sensed. This is what I know. T
 
 This is the **Tree of Knowledge in practice**. Knowledge is not the accumulation of facts, the possession of a secret, or the right to classify another person. It is the disciplined conversion of experience into a public, revisable account. The Tree of Life supplies the living signal; the Tree of Knowledge asks what the signal predicts, what else could explain it, who can check it, and what must change if the test fails. Every major volume should contain a scene in which a real perception becomes more trustworthy—or is abandoned—because someone tests it.
 
-**Knowledge-binary pitfall — LOCKED 2026-08-15:** Autopilot counterfeits this tree by treating **guidance as the goal**. Positive and negative charges are a needle relating to a felt availability — the point where a conscious being can still engage (`68` § *What is being kept*). The unripe stamp says feeling bad is bad and feeling good is good, and then the machine optimizes for valence. What was worth optimizing was agency. Do not treat the Tree of Knowledge as the villain; do not treat the charges as the subject. On-page in Books I–II the lost place is felt, not named. Full civic name waits for the Trees to become speakable (`22` terminology discipline).
+**Knowledge-binary pitfall — LOCKED 2026-08-15; revised 2026-08-16:** Autopilot counterfeits this tree by treating **guidance as the goal**. Positive and negative charges are a needle relating to a felt availability — the point where a conscious being can still engage (`68` § *What is being kept*). The unripe stamp says feeling bad is bad and feeling good is good, and then the machine optimizes for valence. The same machinery can generate a spiritual rule and falsely attribute it to consciousness. What was worth optimizing was agency. Do not treat the Tree of Knowledge as the villain; science, reasoning, and public verification are mature uses of it. Do not let its rules claim access to Player intention. On-page in Books I–II the lost place is felt, not named. Full civic name waits for the Trees to become speakable (`22` terminology discipline).
 
 ## Governing rule
 
@@ -70,7 +83,7 @@ inside the entropic clock, Life looks like death until both Trees run together.
 | Fear | Tech face that teaches | Meaning without lecture |
 |---|---|---|
 | Death / ending | Entropy clock; timers that break loops | Life as circuit-breaker; mortality not only wound |
-| Loss of control | Override / choice-point tools; autopilot made visible | Step-in possible; failure is sensor |
+| Loss of control | Override / choice-point tools; autopilot made visible | Consequence exposes the program; the next act can become optional |
 | Time as prison | Complex time (lateral / adjacent states) | Time has structure |
 | One body / one shot | Mobile locus; one will–many streams as interface | Self as pointer; multiplicity operable |
 | Cosmic orphanhood | Panspermia as engineering cycle | Inside a test that can be authored |

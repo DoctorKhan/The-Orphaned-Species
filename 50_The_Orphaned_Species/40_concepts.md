@@ -482,6 +482,13 @@ Distributed antagonism holds: both readings are true somewhere, and human instit
 
 **The operational test (no metaphysics available):** any act of agency can be re-read as deeper programming — "you were conditioned to rebel" — and that regress cannot be won with argument. The book's practical test is **predictive failure with coherence**: programming is what the manipulator can predict; agency is the moment the manipulator's model *misses* while the person's conduct stays coherent with what they have shown they care about. Lang is never out-argued; his predictions start failing.
 
+**No new command arrives — LOCKED 2026-08-16.** Player engagement does not
+replace one instruction with a better instruction. Consciousness supplies no
+sentence. The character's literally binary program reaches a decision point,
+and an act that would have completed automatically becomes optional. Reasoning
+afterward belongs to the Tree of Knowledge. It can audit the act and its
+consequences; it cannot report what the Player intended before the act.
+
 **The consequence asymmetry (why any of this matters):**
 
 > **Autopilot decisions are predictable, and they end in stress cycles. True decisions cost more, and they compound into true progress.**
@@ -492,7 +499,7 @@ Distributed antagonism holds: both readings are true somewhere, and human instit
 
 **Dynamics, not taxonomy.** Nobody lives in one register. Practice moves a person up; fear, exhaustion, and crowds push them down; the Drift is register collapse experienced as transcendence. Manual Override is not a rank achieved but the daily noticing of which register you are currently in. Protagonists get caught in register 1 too — Eli's body lights with certainty about the ring photograph before his mind can test it — and the reader should catch it after learning to spot it in villains.
 
-**Attribution is a weapon.** Declaring which register someone *else's* choice came from is a power move, and every faction makes it: the registry calls carrier choices contagion (programmed → ownership is care); the liberation faction calls all restraint conditioning (programmed → burn it down); Lang calls Eli's hard no a trauma reflex. **Calling a choice programmed is the first step to owning the chooser.** The book itself refuses to certify anyone's register from outside — conduct accumulates; certainty never arrives.
+**Attribution is a weapon.** Declaring which register someone *else's* choice came from is a power move, and every faction makes it: the registry calls carrier choices contagion (programmed → ownership is care); the liberation faction calls all restraint conditioning (programmed → burn it down); Lang calls Eli's hard no a trauma reflex. A spiritual authority may claim that another person's Player chose an injury. That claim is also attribution: binary reasoning dressed as direct knowledge. **Calling a choice programmed is the first step to owning the chooser.** Claiming access to the Player is another. The book itself refuses to certify either from outside — conduct accumulates; certainty never arrives.
 
 ## Developmental arc of the series
 
@@ -1003,11 +1010,29 @@ on-page unless a character would plausibly use the word (`26` trauma-craft rule)
 
 **Craft rule (extends the rule above):** a scene needs at most one variety, shown through behavior, never a checklist. Do not have a character enumerate the seven — that is a Union training-manual voice, and belongs on a form (Layer 0 epigraph, `90_epigraphs_and_sources.md`) if it appears on the page at all.
 
-### Phantom god-perception — domestication remote collar — LOCKED 2026-08-01; worship payoff 2026-08-01
+### Phantom god-perception — domestication remote collar — LOCKED 2026-08-01; control relationship clarified 2026-08-16
 
 **Capture thesis:** perceiving gods even when they are not there is not only longing or error. It is **domestication programming still running** — a remote collar that lets the species **continue to serve** after the handlers leave, go nonlocal, or die as bodies. Absence does not break the command; the nervous system finishes it.
 
-**Correct application of worship — LOCKED 2026-08-01:** the robot (**ego / NPC autopilot**) submitting to the **Player (consciousness / operator)**. Same capacity that capture misaims at absent gods and external thrones; mature form is inward hierarchy — body-machine yields to lucidity so the person can author, not only react (Manual Override; `SERIES_STRUCTURE.md` ultimate thesis). Not ego-death as erasure; not serving a new sky-boss.
+**Mature application of worship — LOCKED 2026-08-01; control relationship clarified 2026-08-16:** practice can soothe or retrain the robot (**ego / NPC autopilot**) until an automatic response becomes interruptible. In that pause, the robot makes its controls available to the **Player (consciousness / operator)**. The Player may intervene. The learned routine creates the opening; it does not select the next act or carry a command from consciousness. This is the operational meaning of Manual Override (`SERIES_STRUCTURE.md` ultimate thesis). The person remains intact and able to act.
+
+**False-worship pitfall — LOCKED 2026-08-16:** the robot can mistake a teacher, institution, god-image, charismatic authority, or one of its own fallacious rules for the Player. It then routes control to another piece of character-level programming. Claims of surrender or revelation do not identify the source. Testable claims, conduct, and consequences remain open to audit.
+
+**Established ontology does not close judgment — LOCKED 2026-08-16:** the
+Player model may become a demonstrated fact within the story world. Do not add
+a contradictory theory solely to signal sophistication. Earn the conclusion
+through reproducible effects and the full record of nulls, false positives,
+failed predictions, measurement limits, and corrected perimeters.
+
+After proof, live disputes remain. People can disagree about the cause of one
+pause, the reliability of an instrument, a practitioner's claim, the permitted
+use of a discovery, and the action owed to someone who was harmed. Scientific
+evidence cannot quote consciousness or recover its reason for a particular
+event. Factual knowledge of the Player grants no office, moral rank, or right
+to direct another person. Give competent skeptics real evidence to examine.
+Allow a mistaken character to be right about policy and an informed character
+to abuse the finding. The reader judges evidence, added claims, institutions,
+and conduct; the narrator supplies no applause cue.
 
 **Staging (`17` §9a):**
 
@@ -1015,10 +1040,10 @@ on-page unless a character would plausibly use the word (`26` trauma-craft rule)
 |---|---|
 | **II** | Seed felt obedience to empty authority (Egypt god-king Turning; registry-as-present-god; kneeling when nothing answers). No thesis name. |
 | **Late II / early III** | Robot / sub-drone gut-punch first. |
-| **III** | **Civic diagnosis** with civilization-engine synthesis. Line: *We see gods who aren’t there because we were bred to keep serving when they left.* Override symptoms OK (refuse sync, put crown down); **do not name** ego→Player as the true liturgy of worship. |
-| **V–X** | **Spiritual payoff** — robot submits to Player; phantom-god service revealed as the misaimed form of the same act. |
+| **III** | **Civic diagnosis** with civilization-engine synthesis. Line: *We see gods who aren’t there because we were bred to keep serving when they left.* Override symptoms OK (refuse sync, put crown down); keep the Player/control relationship unnamed. |
+| **V–X** | **Spiritual payoff** — the robot learns to interrupt autopilot and make its controls available to Player; phantom-god service is control routed to an external claimant. |
 
-**What it is not:** blanket atheism; a claim that every spiritual contact is fake; permission to sneer at grief or awe. Living Way / teahouse practice in I–IV remains reciprocal relation with what exceeds the person (body, kin, ground, evidence, other minds) without finishing an absent master’s order. Phantom perception = **capture face**; I–IV civic override = **intermediate practice**; Player←robot submission = **mature spiritual face** (later).
+**Guardrails:** the diagnosis does not make every spiritual contact fake or grant permission to sneer at grief or awe. Living Way / teahouse practice in I–IV remains reciprocal relation with what exceeds the person (body, kin, ground, evidence, other minds) without finishing an absent master's order. Phantom perception is the **capture face**; I–IV civic override is **intermediate practice**; control made available to Player is the **mature spiritual face** (later).
 
 **Rhymes:** Continuity “gods who never went home”; Anu + 26 nonlocal influence; NPC/autopilot; registry wellness language; Sol’s sacred presence; god-sickness (false divinity when the person *becomes* the empty god). Distinct from spirituality-goes-wrong below (ego hijacking awakening language — the opposite of ego yielding to lucidity).
 

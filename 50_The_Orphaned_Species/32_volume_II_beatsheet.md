@@ -1,5 +1,15 @@
 # Volume II — *The Descent* — Beat Sheet
 
+> **HUMAN NOVEL — LOCKED 2026-08-16:** Eli follows the traces Maren left after
+> her disappearance while losing confidence in the provenance of his own
+> perceptions. He wants his mother alive, present, and able to know him. At
+> Albion he finds her lucid enough to want the same extra time. Keeping the
+> connection would also keep her available as a signal other people can use.
+> Eli releases her. Wren and Rowan carry the relational counterplot: Rowan's
+> return makes their history present again without restoring old permissions.
+> Sites, psionics, Charkha records, and the belonging question must increase the
+> pressure on those choices.
+
 > **Opponent this week — LOCKED 2026-08-16:** every chapter names a human with a job before Friday. Not "the Charkha." Not "the system."
 
 | Ch | Human | This week's job |

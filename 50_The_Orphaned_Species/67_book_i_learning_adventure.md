@@ -1,6 +1,6 @@
 # Book I Lived Subject — Learning and Adventure
 
-> **Status: GOVERNING LOCK 2026-08-15.** What Book I is *about* for the reader.
+> **Status: GOVERNING LOCK 2026-08-15; scientific-inheritance and non-propositional-override clarification 2026-08-16.** What Book I is *about* for the reader.
 > Plot spine and climax remain `31_volume_I_beatsheet.md` and
 > `58_sanxingdui_climax_lock.md`. This file names the lived subject those
 > documents serve. Companion sources (author-side, never syllabus on-page):
@@ -59,13 +59,19 @@ minute-moves, not a second map.
 
 Book I's home move is stay. Interrupt is Malacca, Circuit night, the mask.
 The sentence-catch stays light: one or two times, no therapy speech.
-Do not say *three doors* or *middle way* on-page. The teacher says *stay
+Do not say *three doors* or *middle way* on-page. The practitioner says *stay
 with it* and *let it finish*.
 
 **Manual Override, Book I size:** feel the charge; do not complete the act.
 The inverse forming *is* why the act becomes optional. He does not need the
-companion's words. He needs a wat teacher who can say *stay with it* and a
-candle he can try again the next morning.
+companion's words or a new tradition. He remembers Rasel repeating a trial and
+keeping the failure without yet recognizing those acts as a method. The wat
+gives him a spoken procedure and a candle he can try again the next morning.
+
+**No inner instruction.** Awareness never tells Eli what an event means or what
+his Player intended. The proof is operational: his attention returns, the body
+stops completing one command, and the next movement becomes available. Any
+explanation he forms afterward is a hypothesis he can test.
 
 ---
 
@@ -181,6 +187,8 @@ refused father). **Civilization** is not this volume's exam.
 - A syllabus. If a paragraph does not change a choice, a cost, or a
   relationship in the scene, it belongs in the companion (`33` §5).
 - Manifestation, forced quiet-mind, observer-as-identity.
+- Any claim that a Player chose an injury, assigned a lesson, or consented on
+  the character's behalf. Book I has no access to that information.
 - Plant medicine, Delphic Games, full relational hold — Book II.
 - Practice as power-up. No scene where meditation makes the Lance stronger.
 
@@ -212,6 +220,22 @@ practitioner as other. He has recognized personal override and failed it
 against his father. He follows the next clue west with a technique in his
 pocket and a regret he cannot yet size.
 
+## How altitude manifests in Book I — LOCKED 2026-08-16
+
+- **Malacca:** the body completes survival programming before Eli can choose.
+  No higher voice explains the breach.
+- **Wat:** the candle fades sooner and the heat stops owning the next movement.
+  Eli receives no proposition about why Malacca happened.
+- **Niran:** the injured body gets pressure, a belt, a boat, and a clinic. The
+  nurse's line — *remember whose body paid for the lesson* — keeps every later
+  interpretation answerable to the character altitude.
+- **Sanxingdui:** Eli recognizes which route is true. The recognition issues no
+  command. He lifts Rasel's mask anyway, and the regret remains.
+
+These beats are the model. Consciousness changes availability. Tree-of-
+Knowledge reasoning describes and tests afterward. Neither converts injury
+into a message.
+
 ---
 
 ## Craft
@@ -221,8 +245,9 @@ pocket and a regret he cannot yet size.
    scene. The drill is how he stays in it.
 2. **Repeat small.** Candle, breath, feet, stay-with. Several ordinary
    repetitions beat one revelatory sit.
-3. **Teacher as person.** Same teacher as the parents (`DECISIONS_Thailand_Arc`).
-   Remembers them separately, imperfectly. Offers a fragment.
+3. **Practitioner as person.** Worked with the parents (`DECISIONS_Thailand_Arc`).
+   Remembers them separately and imperfectly. Recognizes Rasel's habits in Eli.
+   Offers a procedure, not a foundation.
 4. **One industrial scar, one practice scar.** A denied part and a failed
    sit can share a chapter. Neither lectures.
 5. **The no-clock scene is the thesis paid in full.** If the reader does not

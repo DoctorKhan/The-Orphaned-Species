@@ -1,5 +1,16 @@
 # Volume III — *The Compact* — Beat Sheet
 
+> **HUMAN NOVEL — LOCKED 2026-08-16:** Blocked ports, missile strikes, and empty
+> clinics make Eli useful enough that people begin treating his usefulness as a
+> right to his obedience. He accepts command because delays cost food,
+> evacuation windows, and lives. His decisions save
+> people and send named people into danger. Rasel presses him to accept technical
+> controls; Sol offers unity without dissent; Wren must decide when helping Eli
+> has become helping a ruler. Rowan and Eli fall in love through the work and
+> admit it while his command makes acting on it unsafe. Eli refuses forced synchronization and signs away
+> his authority while the threat remains. Every institutional development must
+> change what one of these people can do next.
+
 > **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Book III's monolithic venue name is **Living Root**: the organic, spreading Brazilian river-port network and federated teahouse ecology — unsealed, branching, the anti-Cube. It is the infrastructure that grows while the Cube stands.
 
 > **BOOK III ENDGAME — REVISED 2026-08-07:** Book III is the war epic in
@@ -21,9 +32,10 @@
 > **incomplete** — not because Eli refuses it or fails to complete it, but
 > because the wider interregional compact it seemed to prove was never
 > intact anywhere beyond the room that was watching; that gap surfaces only
-> in Book IV. Rowan/Eli remains non-romantic and nonsexual in Book III; only
-> deniable attraction is planted. Book IV owns conscious attraction,
-> repeated sex before romance, chosen conception, pregnancy, birth, the
+> in Book IV. Eli and Rowan fall in love during Book III and acknowledge it
+> while he still holds command. They do not have sex or formalize the bond until
+> his authority ends. Book IV owns sexual consummation, the decision to try for
+> a child, conception, pregnancy, birth, the
 > reconstruction of the compact after its failure, and the **second and
 > final** relinquishment. Older Ch 8–10 closure material below is retained
 > as staging quarry only where it does not contradict this lock.
@@ -302,7 +314,7 @@
 > **LOCKED 2026-08-08.** A regional power broker offers to cement loyalty
 > the old way — marriage or formal kinship into Eli's line, a faster route
 > to unity than voluntary compact-building. Eli refuses. This is not the
-> Rowan/Eli relationship (still non-romantic per the endgame lock) — it is a
+> Rowan/Eli relationship — it is a
 > political offer from a third party, and refusing it costs him a quicker
 > path to the exact unity he needs. The refusal makes mechanism four (the
 > wound as architecture) visible in action: he will not buy loyalty with
@@ -406,7 +418,7 @@
 
 > **MALE DEMOGRAPHY / PARAGUAY RHYME — LOCKED 2026-08-01:** Do **not** front-load a Paraguay-style adult-male collapse before Book I — scarcity would give surviving men premature household/succession power and break Extra disposability. **Stack:** (1) **Before Book I** — war + baby bust + sorting; men often **discarded**, not prized. (2) **Book III Awakening War** — male expendability spends survivors hardest; named deaths; unequal holding action; scarcity **begins**. (3) **Book IV Lean Year** — convoy defense, infrastructure repair, and long-route service keep spending men disproportionately; the prior loss becomes publicly undeniable and **scarce-male leverage arrives** (Paraguay rhyme). On-page: empty chairs accumulated across the war and relief routes, female-default quorum, surviving men over-watched or over-claimed — never census speeches and no overnight demographic flip. Full cloister transform: `60` § *Cloister purpose transform*.
 
-> **ROMANCE EXPANSION — REVISED AND LOCKED 2026-07-28; pair-competition 2026-08-16:** Book III must not quietly demote Wren/Rowan after renewing it in Book II. Wren/Rowan and Wren/Eli continue as differently textured romances. Rowan/Eli remains affectionate, direct, political, nonsexual, and non-romantic. Plant only deniable charge with complete nonromantic explanations: Eli seeks Rowan's reaction, she can steady or confront him, and one practical touch briefly alters attention. No explicit desire, near-kiss, jealous Wren, prolonged body description, or future-romance dialogue. **Pair-competition:** at most one or two pulses, over jurisdiction, routes, or who speaks in the hall — they cannot resolve as romance while Eli holds wartime power. Name the triad. Do not consummate. No pulse inside Ch 8's loss. `19` § *Periodic pair-competition*. Book IV owns conscious attraction, repeated sex before romance, and later chosen conception. Full architecture: `60_volume_IV_court_of_threads.md`.
+> **ROMANCE EXPANSION — REVISED AND LOCKED 2026-07-28; love timing revised 2026-08-16:** Book III must not quietly demote Wren/Rowan after renewing it in Book II. Wren/Rowan and Wren/Eli continue as differently textured romances. Eli and Rowan fall in love through direct work during the war. They name it to each other and disclose it to Wren while Eli still holds command. His office bars sex, cohabitation, private access through public channels, and promises about a future child. **Pair-competition:** one or two pulses may arise over jurisdiction, routes, or who speaks in the hall. Wren does not authorize the new bond, and Rowan does not ask her to. No romantic beat belongs inside Ch 8's named loss. After the handover, Eli and Rowan may kiss in the coda. Book IV owns sexual consummation and the deliberate attempt to have a child. Full architecture: `19`; `60_volume_IV_court_of_threads.md`.
 
 > **COSMOLOGICAL FUNCTION — LOCKED 2026-07-15:** Book III tests the intended resolution of the Drift. Humanity's technological intelligence must become understanding of life-technology, allowing recognition of the Nephilot/elven line as fellow persons. The civic choice is therefore not technology versus nature but adulthood versus the old child postures: worship, extermination, compulsory use, surrender to a protector, or self-destruction.
 
@@ -436,7 +448,7 @@
 
 > **DEEP-TIME RESIDUE / ANCIENT FACE — LOCKED 2026-07-30; END FEELING REVISED 2026-08-01:** Book III ancient face = **Forks + Loop + Umul** (coexistence test; incomplete completion; heal not spend). Quota: ~one deep-time residue every 1–2 chapters (`17` § *Deep-time residue density*). Institutions-as-fossils: Extra, registry, cloister founding, pronatal language. Per chapter: residue · wrong reading · human cost.
 
-> **PHANTOM GOD-PERCEPTION — CIVIC DIAGNOSIS — LOCKED 2026-08-01; worship payoff 2026-08-01:** Book III owns the **capture** thesis Book II only seeded: **perceiving gods who are not there is domestication programming that keeps service running after the handlers leave.** Stage after the robot/sub-drone gut-punch has sat, and alongside Continuity “gods who never went home,” Extra/registry obedience, Forks/Bridge, and civilization-engine synthesis — not as an early lecture. Governing line: *We see gods who aren’t there because we were bred to keep serving when they left.* **Do not** deliver the mature spiritual payoff here: **correct worship = robot (ego) submitting to Player (consciousness)** belongs to Books V–X. I–IV Living Way / refuse-sync are intermediate practice only. Full: `17` §9a; `40`; `SERIES_STRUCTURE.md`.
+> **PHANTOM GOD-PERCEPTION — CIVIC DIAGNOSIS — LOCKED 2026-08-01; control relationship clarified 2026-08-16:** Book III owns the **capture** thesis Book II only seeded: **perceiving gods who are not there is domestication programming that keeps service running after the handlers leave.** Stage after the robot/sub-drone gut-punch has sat, and alongside Continuity “gods who never went home,” Extra/registry obedience, Forks/Bridge, and civilization-engine synthesis — not as an early lecture. Governing line: *We see gods who aren’t there because we were bred to keep serving when they left.* Keep the mature spiritual payoff in Books V–X: practice helps robot (ego) interrupt autopilot and make its controls available to Player (consciousness). I–IV Living Way / refuse-sync are intermediate practice only. Full: `17` §9a; `40`; `SERIES_STRUCTURE.md`.
 
 > **DELIVERY UPGRADES — LOCKED 2026-07-31; PITCH/VISUAL REVISED 2026-08-01:** Match Book I density. Antagonist weekly jobs (Lang/Sol/Mandate/Continuity). Cast chemistry non-thesis (Mei kitchen, harbor crews, Hawaiʻi stewards — not only compact argument). Rasel's ring remains the public causal memory; the Sanxingdui tree carries the series visual system; the Loop is a Book III accent, never a first-pitch noun. `55` § *Five delivery upgrades*.
 >
@@ -473,7 +485,7 @@
 
 *Chapter-by-chapter spine for Volume III (Choice). Companion to `05_story_architecture.md` § *Classic spine*, `27_character_development_arcs.md`, `41_climax_the_awakening.md` (Book II), `43_audience_and_character_recommendations.md`, and `44_cultural_moment_and_mass_appeal.md`.*
 
-> **AGENCY PACING — LOCKED 2026-08-15:** one loss, one return (`68` § *Pacing*). **Take away:** force-sync ("I can save them"). **Return:** he refuses; the hall continues. Named dead are the cost. Heather journey = Courage vocabulary (gaze), not a second exam. No meditation arc in the war. No ego→Player liturgy. Teahouse coda is conduct and a seed, not a syllabus.
+> **AGENCY PACING — LOCKED 2026-08-15:** one loss, one return (`68` § *Pacing*). **Take away:** force-sync ("I can save them"). **Return:** he refuses; the hall continues. Named dead are the cost. Heather journey = Courage vocabulary (gaze), not a second exam. No meditation arc in the war. Keep the Player/control doctrine out of Book III. Teahouse coda is conduct and a seed, not a syllabus.
 >
 > **WONDER / EARTH-TECH FLOOR — LOCKED 2026-08-16:** Book III keeps the civic and war jobs. It also keeps a full magic column (`22` § *Wonder and earth-tech floor*). Living Root grows in view. Talking stones and Hawaiʻi ground warm or answer before they become research. Ch 8 spends a conductor — a field goes quiet, a crop line fails, or a stone route loses its hum under strike. The handover hall sits on live Heather ground (already locked). The field-sail proof is a witnessed motion in a room *before* anyone writes the paper. Do not process these only as hearings.
 >
@@ -831,8 +843,9 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 > material retained below is quarry for the eventual Book IV coda. The active
 > Chapter 10 job is the constitutional handover **succeeding**, institutional
 > rise earned through building it rather than surviving an attack, a dormant
-> continuity clause planted but not fired, and deniable Rowan/Eli attraction
-> seeds. Sex, romance, conception, and pregnancy belong to Book IV. The retired
+> continuity clause planted but not fired, and Rowan/Eli love held without
+> sexual access while Eli commands. A kiss may follow the handover. Sex,
+> co-parenting, conception, and pregnancy belong to Book IV. The retired
 > coordinated-attack design is replaced by the Lean Year's exogenous eruption
 > and convergent anocratic capture (`60` § 1).
 
@@ -863,11 +876,12 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   a future certification is ever compromised. It is stated on the record and
   then not used. Chekhov's clause for Book IV — the reader should half-forget
   it until it matters.
-- **Rowan/Eli charge:** their direct political intimacy remains nonsexual and
-  non-romantic. One final beat — the two of them reading the same report over
-  one shoulder, a beat longer than the reading requires before either moves —
-  may make a future crossing possible without promising it. Wren/Rowan and
-  Wren/Eli remain intact.
+- **Rowan/Eli love — LOCKED 2026-08-16:** they have already named their love and
+  refused to convert Eli's office into access. After he signs away command,
+  Rowan checks his injured hand in the service corridor. Eli asks before
+  kissing her. The kiss begins no office, household, or co-parent promise.
+  Wren/Rowan and Wren/Eli remain intact; Wren has received the truth directly
+  from each of them.
 - **End hook:** the crown is no longer Eli's. The two grassroots institutions
   stand inside government because they built it, not because they survived an
   attack on it — which is exactly what makes the new settlement worth attacking

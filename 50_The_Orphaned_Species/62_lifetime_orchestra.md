@@ -6,7 +6,7 @@
 > Book I only. Titles and chapter plots still open. Parent: `SERIES_STRUCTURE.md`
 > § *Lifetime Orchestra (V–X)*;
 > **technology teaches meaning — LOCKED 2026-07-31**;
-> ultimate metaphysical thesis 2026-07-30.
+> ultimate metaphysical thesis 2026-07-30; control relationship clarified 2026-08-16.
 > Companions: `Books/Manual_Override`; Research substrate for complex-time / mobile locus.
 >
 > **Do not** invent I–IV chapter plots here. Desire stays personal in every lifetime-novel.
@@ -45,12 +45,15 @@ development. On the page it should feel like an **orchestra**:
 | **Conductor / Player** | Lucidity that arrives late — hearing the whole without abolishing the parts |
 | **Coda / creation** | Graduation: can write new music, not only play the training piece |
 
-**Correct worship — LOCKED 2026-08-01:** V–X owns the spiritual payoff Book III only
-diagnoses. Capture worship = serving phantom/absent gods (domestication remote
-collar). **Mature worship** = the **robot (ego / NPC autopilot) submitting to the
-Player (consciousness)** — Manual Override’s true inward hierarchy. I–IV may show
-override symptoms; do not sermonize ego→Player as liturgy before the Orchestra
-densifies it. `17` §9a; `40`; `SERIES_STRUCTURE.md`.
+**Mature worship — LOCKED 2026-08-01; control relationship clarified 2026-08-16:**
+V–X owns the spiritual payoff Book III only diagnoses. Capture worship serves
+phantom or absent gods through the domestication remote collar. In the mature
+form, practice helps the **robot (ego / NPC autopilot)** interrupt automatic
+response and make its controls available to the **Player (consciousness)**. The
+practice supplies no Player command. False worship routes the same controls to
+an external claimant or a fallacious internal rule. I–IV may show override
+symptoms; keep the Player/control model unnamed until the Orchestra densifies
+it. `17` §9a; `40`; `SERIES_STRUCTURE.md`.
 
 **Rule:** no lifetime exists to illustrate a thesis. If a life cannot carry a novel
 without metaphysics, it is not ready. Metaphysics is what an attentive reader
@@ -62,7 +65,8 @@ may show **one** dissolver and a return (or a young person who dissolves and doe
 not return). Do not run anatta / sati / Advaita / tantra as a chapter list.
 Books **VI–VIII** rhyme the costume going on inside that life's own want;
 remembering, not teaching; no restart of the I–IV, V, or IX lesson list. Book **X**
-makes the pointer operable; Player engages through a clarified robot; do not
+makes the pointer operable; Player engages when a clarified robot makes its
+controls available; do not
 abolish persons in a lecture. I–IV already practiced the civic seed; do not
 re-explain it.
 
@@ -82,12 +86,13 @@ surfaced unexplained (`60` § *End state*; `99` § *latent repair lock*). Two
 children, two mothers, no title, no claim, no destiny. Neither child can leave
 anything. The want is care without a leash while the children are still small.
 
-**Cold open — the three visitors — LOCKED 2026-08-06; shelf 2026-08-15.** This
-volume's first pages are comedy, not cosmology (`24` § *The three visitors*):
-three bloc delegations, each for their own self-interested reason, converge by
-coincidence on the son's birth. Nobody acknowledges what their arrival together
-looks like. The IV→V interval now has a shelf; the scene is no longer a patch
-on the front of the young-generation book.
+**Cold open — the three visitors — LOCKED 2026-08-06; shelf 2026-08-15;
+VISITORS REVISED BY AUTHOR 2026-08-16.** Rasel, Babaji, and Somchai arrive
+independently on the day of the son's birth (`24` § *The three visitors*).
+They come as grandfather, elder, and physician. Intake systems misclassify
+their travel credentials as three bloc delegations. Nobody acknowledges what
+their arrival together resembles. The IV→V interval now has a shelf; the scene
+is no longer a patch on the front of the young-generation book.
 
 **Founders at full weight.** Eli, Rowan, and Wren live the
 protection-versus-possession tension twice, and never the same way twice. Eli

@@ -217,9 +217,9 @@ This is the **social face** of the same gift named in `36_the_living_web.md`: **
 
 **Cross-ref:** `36` §1 (clarification); `52` (Maren's field notebook travel); `27` § Eli leadership; `53` § three-beat shape; `90` epigraphs (science floor under the leap).
 
-## Eli's meditation seed — Thailand (LOCKED)
+## Eli's meditation seed — Thailand (LOCKED; scientific-inheritance clarification 2026-08-16)
 
-*Major theme:* Eli's **true strength** is not innate and not conferred by the breach. It is **practice seeded early** and **borne out under challenge** — the same arc as Manual Override in the series: inner work that eventually shows outwardly as equanimity, intimacy, and connection (`15` § *True strength vs superficial display*; `40` Stage 2).
+*Major theme:* Eli's **true strength** grows through observation, testing, and repeated practice. Rasel demonstrates that scientific habit in ordinary life without teaching it as a curriculum. Present pressure lets Eli recognize the method inside his memories. Childhood breath work and the present-day wat give him procedures to test; neither supplies a missing spiritual foundation. The result appears later as steadier attention, intimacy, and connection (`15` § *True strength vs superficial display*; `40` Stage 2).
 
 **When and where:** after his parents fail to return to Mei's, the healer tends child-Eli and the escape network moves him into **Thailand** before the search reaches him (`15` § *Eli's Fever scar*). During the recovery interval — before or alongside the **Pai** stop — adults place him near **ordinary temple practice** in northern Thailand *(specific wat, city, and caregiver link TBD at draft; not a mystical tourism beat)*. He learns what a child can learn: **breath, body attention, walking/sitting stillness, returning when the mind runs** — the same register as Aru's practice at Göbekli, encountered as **human discipline**, not as psion training or chosen-one initiation. **No martial in fugitive interval** — wat breath only; **Maren's grounding gesture** (fingers, breath, *stand behind the hands*) may come from **mother on Bali**, not Thailand martial.
 
@@ -467,7 +467,7 @@ If the remaining answer is only *Eli learns more history or unlocks another capa
 
 ## True strength vs superficial display (LOCKED)
 
-**Governing theme:** distinguish **superficial display** from **true strength** — and show **how true strength is built**: practice seeded early (Eli's Thailand meditation), **fruition deferred** until challenge exceeds habit. See § *Eli's meditation seed*.
+**Governing theme:** distinguish **superficial display** from **true strength** and show how strength is built: Rasel's unspoken scientific example recognized in memory, procedures tested in Thailand, and **fruition deferred** until challenge exceeds habit. See § *Eli's meditation seed*.
 
 **The distinction:**
 

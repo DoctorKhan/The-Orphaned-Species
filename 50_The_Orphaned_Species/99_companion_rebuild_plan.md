@@ -25,7 +25,7 @@ They do not replace the novels, sermonize, or invent cosmology.
 - **Reciprocal circuit:** embodied account + technical account + relational account per consequential decision.
 - **Counterfeit spirituality:** feel-good × imagination closed circuit; no third check; empowerment without cost.
 - **Technology teaches meaning:** runnable instruments, failed runs, verified protocols — not cosmology sermons.
-- **Phantom god-perception:** perceiving absent gods as domestication remote collar; correct worship deferred to V+.
+- **Phantom god-perception:** perceiving absent gods as domestication remote collar; mature control-availability payoff deferred to V+.
 
 ---
 

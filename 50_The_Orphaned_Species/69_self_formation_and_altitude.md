@@ -1,12 +1,12 @@
 # The Self — Formation, Dissolution, Return
 
-> **Status: STAGED 2026-08-15; chain lock same day.** Author/companion map for
+> **Status: STAGED 2026-08-15; chain lock same day; knowledge-form and control-relationship clarifications 2026-08-16.** Author/companion map for
 > **Books V–X** and Layer 2. **Governing terminology** for sensation / charge /
 > emotion / identification and for locus altitude. Live `Books/` source must
 > follow this chain. `95_archive` and `95_incoming_from_repo` copies are stale
 > mirrors — do not draft from them. Not a Books I–IV lecture. I–IV may
 > *practice* the civic seed (`68`) without naming this liturgy. Worship payoff
-> already locked: ego/robot → Player (`SERIES_STRUCTURE.md`). Do not invent
+> already locked: ego/robot makes its controls available to Player (`SERIES_STRUCTURE.md`). Do not invent
 > chapter plots.
 
 ---
@@ -28,6 +28,25 @@ sensation only
 The series' distinctive claim is the **return**. Dissolution without return
 is the observer trap, Drift, and the deathless loop. Reformation is not
 failure. It is how the soul can engage.
+
+## Knowledge changes with altitude
+
+At Player altitude, knowing is direct awareness. It does not arrive in the
+character as language, reasoning, a rule, or a remembered agreement made before
+the game. The Player is not injured by an in-game event. It receives the
+experience and may engage more consciously.
+
+At character altitude, the ego/robot is programmable. Its base operation is
+literally binary: distinguish, select, continue or stop. Language, moral rules,
+models, and scientific reasoning are more complex operations built through that
+Tree-of-Knowledge machinery. They can describe and test an experience. They
+cannot retrieve the Player's reason for entering it.
+
+The crossing between altitudes is visible as a change in operation. Attention
+becomes available. An automatic act pauses. The next movement opens. Any
+explanation formed afterward belongs to the character and remains open to test
+or correction. *Your Player chose this suffering* is therefore a character-made
+rule pretending to be higher-altitude knowledge.
 
 ---
 
@@ -112,7 +131,9 @@ engagement. The chair-and-wound pass is how you *find* that pointer.
 
 Reformation of the ego after either dissolver **clarifies the relationship**
 and increases engagement from the soul, one level up. The robot becomes
-usable. Correct worship: robot submits to Player (`SERIES_STRUCTURE`).
+usable. Practice can soothe or retrain it until autopilot becomes interruptible.
+It then makes its controls available to Player. The practice does not supply
+the Player's choice (`SERIES_STRUCTURE`).
 
 ---
 

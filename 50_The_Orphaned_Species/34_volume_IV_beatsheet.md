@@ -122,11 +122,13 @@
 > rivalry; they keep rivalry from becoming identity, and identity from becoming
 > permission to kill.**
 >
-> **LOVE AND BOUNDARIES — LOCKED 2026-07-22; romance lock 2026-07-28:** Book IV
-> carries conscious attraction, repeated sex before romance, Rowan's later
-> decision to pursue pregnancy, childbirth, institutional settlement, and Eli's
-> **second** and final relinquishment. Wren/Rowan continues; Eli/Wren deepens;
-> Rowan/Eli remains non-romantic. Consent and boundary govern all three bonds.
+> **LOVE AND BOUNDARIES — LOCKED 2026-07-22; revised 2026-08-16:** Book IV
+> begins with Rowan and Eli already in love after acknowledging it during Book
+> III and waiting for Eli's command to end. Book IV carries consummation, the
+> decision to try for a child, pregnancy, childbirth, institutional settlement,
+> and Eli's **second** and final relinquishment. Eli, Rowan, and Wren build a
+> family while rival factions turn the pregnancy into a succession fight.
+> Consent and boundary govern all three bonds.
 > The governing proof is Maren: Eli may love, need, understand, and be loved by
 > her without acquiring the right to keep her. The same logic applies to Rowan
 > and Wren. The volume ends with Eli as a private citizen and the court
@@ -351,9 +353,8 @@
   and continues. By the climax, ports, farms, clinics, councils, Weaver routes,
   and cloister companies have already operated through a real interval without
   Eli or a trusted center.
-- **End hook:** Rowan and Eli consciously recognize attraction and have sex.
-  Post-sex care and missing one another matter more than the act. Wren is
-  present; the bond is named; room to refuse remains. The court learns one
+- **End hook:** Rowan and Eli consummate the love they acknowledged in Book III.
+  Wren knows that their relationship has changed; room to refuse remains. The court learns one
   version of what happened; Rowan, Wren, and Eli hold a different one.
 
 ---

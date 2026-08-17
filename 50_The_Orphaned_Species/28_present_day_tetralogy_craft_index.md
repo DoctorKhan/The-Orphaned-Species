@@ -36,7 +36,7 @@
 || **Goonies-style kid-crew companion** | Between Book IV and Book V, concurrent with the son's infancy; mixed-age crew (5, 12×2, 14–15, 16) finds Maren's field notebook fragment/Charkha field card/Two-Tree pilot artifact and delivers proof to the right adult without getting claimed; genre valve for main novels' register; `99` item 9 |
 | **The Five Forms (Stag, Fox, Bear, Salmon, Ox)** | **`40_concepts.md`** § *The Five Forms* — shared cloister training; every learner practices all five; no sorting or permanent affiliation; seed `33` Ch 9 |
 | **Houses / crafts / cloisters / forms / appeal** | **`40_concepts.md`** § *Institutional grammar* — local belonging, work authority, training, personal bonds, and review remain distinct; Book III founding and Book IV Nacre test put them in the same case |
-| **Phantom god-perception / correct worship** | **`17`** §9a + **`40`** — II seed; III civic diagnosis; **V–X** payoff = ego/robot → Player/consciousness; not atheism |
+| **Phantom god-perception / mature worship** | **`17`** §9a + **`40`** — II seed; III civic diagnosis; **V–X** payoff = ego/robot makes its controls available to Player/consciousness; false authority remains a pitfall |
 | Locked beats / open names | `99_open_questions.md` |
 | Volume I chapter order | `31_volume_I_beatsheet.md` |
 | Book I lived subject — learning + adventure | `67_book_i_learning_adventure.md` — stay-with / inverse; theater vs gym |
@@ -95,7 +95,7 @@ Six conflict registers (ecological → technological), sorting machine (racism×
 **Project Hail Mary register** — slapstick under catastrophe. Primary carrier open — see `24` NEEDS AUTHOR DECISION (Emrys purge). Ensemble: Eli straight man, Wren armor-break, Mei warm-dry. Volume comedy density.
 
 ### `26_present_day_cast_expanded.md`
-**Cast flesh** — provisional names, wants/wounds/habits, scene seeds. Romance becomes a **plural V in Book II**: Wren/Rowan and Wren/Eli; Rowan/Eli non-romantic (locked 2026-07-22).
+**Cast flesh** — provisional names, wants/wounds/habits, scene seeds. Romance becomes a **plural V in Book II**: Wren/Rowan and Wren/Eli; Rowan/Eli remains non-romantic in Book II, develops into acknowledged love during Book III, and becomes sexual after Eli relinquishes command (revised and locked 2026-08-16).
 
 ### `27_character_development_arcs.md`
 **Development arcs** — volume questions, Manual Override thresholds, Eli seven perceptual stages by volume, fellowship arcs, romance five stages, proof scenes, anti-patterns, chapter checklist. **Character singularity** (LOCKED 2026-07-30): five builders + non-transferable cores for Eli / Wren / Rowan / Sol / Ma.

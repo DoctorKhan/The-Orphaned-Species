@@ -509,7 +509,7 @@ Lesson:
 
 **Governing structure — Book II:** Rowan returns on-page in Book II and renews a continuing romance with Wren. Eli/Wren also remains a developing romantic bond. Rowan/Eli is not yet romantic. Book II therefore forms a **V centered on Wren**, held through disclosure, consent, and separate terms for each bond — not a contest with one eventual winner. This V is staging, not the destination: three people building an honest triad is something that happens in life, and the series follows what it costs and requires rather than arguing that it should exist. The V lets each bond earn its own honesty before three people have to hold all of it at once. Rowan has an independent west-corridor objective and cannot exist merely to validate or threaten Eli's desirability. Her return **does** provoke jealousy; the jealousy exposes Eli's fear of insignificance and must never reduce Rowan or Wren/Rowan to a device.
 
-**Book III — the shape gets named, consummation waits.** Rowan/Eli stays nonsexual and non-romantic in conduct, but by Book III it is no longer deniable: Eli, Wren, and Rowan consciously name, among themselves, that something triadic is forming. What stays withheld isn't the knowledge — it's the act. No sex, no cohabitation, no declared throuple. **The reason is load-bearing, not decorative:** Eli holds real wartime power for most of Book III, and a throuple that formed while he held it would be a throuple the reader has to take on faith — indistinguishable from a powerful man being given what he wants. The triad completing only in Book IV, after his own relinquishment finishes for real (`33_volume_III_beatsheet.md` § *BOOK III ENDGAME*), is the proof that it isn't produced by his authority: he has nothing left to spend on it by the time it forms. This rhymes on purpose with the Machiavelli material — the same discipline that refuses the crown also governs desire.
+**Book III — love during war; action waits for relinquishment — LOCKED 2026-08-16.** Eli and Rowan fall in love through direct political work, disagreement, late calls, bodily care, and the decisions the war forces them to witness in one another. They recognize and name the love while Eli still holds wartime command. That knowledge produces no sex, cohabitation, office access, public status, or co-parent promise. Eli's authority makes restraint part of the relationship. Wren is told directly and does not broker or authorize the bond. After Eli signs away command, he and Rowan may kiss in the coda. Book IV owns sexual consummation, deliberate family-building, and the decision to try for a child. The sequence proves that Eli could not spend public power to obtain private intimacy.
 
 **Book IV — the triad completes as three direct bonds, not a hub-and-spokes with a third spoke added.** For this to actually demonstrate plural love rather than a V wearing a new name, Eli/Rowan must be a **direct** bond: scenes where they negotiate, argue, and choose each other with Wren absent, not present as broker or translator. If Wren stays structurally necessary to the bond between the other two, the text has proven a hub arrangement, not a triad.
 
@@ -525,7 +525,7 @@ The weak question is *whom will Wren choose?* The strong question is: **what doe
 
 **Wren / Eli:** emergent romance of **discovery**, formed through danger, emotional naming, grounding, boundary, chosen tenderness, and a future made deliberately together. Eli may not treat exclusivity as proof he was chosen or use his uncertainty to demand access to Wren/Rowan's private history. He does, however, need and receive positive evidence that he is not incidental: Wren names what she wants with him that belongs specifically to their bond and gives that bond undivided, consequential attention.
 
-**Rowan / Eli:** direct, respectful, **non-romantic** relationship. They speak without Wren translating. Rowan may challenge how Eli's quest consumes routes; Eli may challenge Rowan when protecting the Net obscures an individual. Neither approves the other's bond with Wren. **Emotional asymmetry — LOCKED 2026-07-25:** Rowan is **softer** than Wren (visible grief, less operator polish, person-first patience). Eli enters their shared scenes **emotionally stronger** — Book I's feeling-work with Wren pays off: he names, waits, and co-regulates without collapsing or demanding care. Rowan does not mother him; Eli does not lean on her the way he leaned on Wren early. At least one beat per major shared scene: Eli holds plain speech or boundary Rowan cannot armored her way through — peer strength, not messiah display.
+**Rowan / Eli:** a direct relationship that becomes love during Book III. They speak without Wren translating. Rowan may challenge how Eli's command consumes routes; Eli may challenge Rowan when protecting the Net obscures an individual. Neither approves the other's bond with Wren. **Emotional asymmetry — LOCKED 2026-07-25; love timing revised 2026-08-16:** Rowan is **softer** than Wren (visible grief, less operator polish, person-first patience). Eli enters their shared scenes **emotionally stronger** — Book I's feeling-work with Wren pays off: he names, waits, and co-regulates without collapsing or demanding care. Rowan does not mother him; Eli does not lean on her the way he leaned on Wren early. At least one beat per major shared scene: Eli holds plain speech or a boundary Rowan cannot armor her way through. Their love is named before his wartime authority ends; physical escalation waits until it does.
 
 **Banter as default register — LOCKED 2026-08-10.** The drafted exchange ("Problem?" / "No." / "You look like you have one." / "I often look like this." / "Unfortunate." — § *Words — action, not report* above) is not a one-scene flourish; it is Rowan/Eli's habitual register across Book III and IV, the way grounded naming is Wren/Eli's habitual register and embodied recognition is Wren/Rowan's. Most of their major shared scenes should open on, or turn through, a verbal contest — testing, deflecting, refusing to perform courtship — before landing on whatever the scene is actually about. Verbal equality also doubles as a counterweight to the age/authority asymmetry already guarded against between Wren and Eli (§ *Character errors* below, and line 159 above): give some Wren/Eli scenes the same tool. Eli's plain speech should occasionally out-argue Wren's read of a room, not just receive it.
 
@@ -616,15 +616,12 @@ Wren does not referee Eli/Rowan once that bond exists. If she has to translate, 
 - Do not make Eli the judge or hidden center.
 - Do not cure Eli's jealousy by demoting Rowan, making the romances identical, or giving Eli permanent priority.
 - Do not pretend jealousy vanishes on contact with the correct politics; let Eli feel it, name it, and discover what it is actually asking for.
-- Do not force Rowan/Eli romance merely to make the structure symmetrical, and
-  do not let it consummate while Eli holds power. Book III names the triad's
-  shape among all three but keeps it nonsexual and non-romantic in conduct —
-  the withholding is specifically about what his authority could buy, not
-  general restraint. In Book IV, after his own relinquishment completes, they
-  have consensual sex several times **before** either names or assumes
-  romance. Sex grants no relationship status. Romance emerges only when
-  repeated intimacy, public work, disagreement, and ordinary care create an
-  independently credible bond.
+- Do not force Rowan/Eli love merely to make the structure symmetrical, and do
+  not let it consummate while Eli holds power. Book III must earn and name the
+  love through direct work between them. The withholding concerns what his
+  office could buy. After relinquishment, they may kiss. Book IV owns sex and
+  the separate decision to try for a child. Sex grants no office, household
+  rank, or parenthood.
 - Do not let Wren remain structurally necessary to the Eli/Rowan bond once it
   forms. If she has to broker, translate, or referee it, the text has proven a
   hub with a third spoke, not a triad.
@@ -639,35 +636,15 @@ The required victory is not frictionless polyamory. It is that each bond becomes
 >
 > Volume II: Can I love you without using you?
 >
-> Volume III: Can desire be named honestly and still refused, while one of the
-> three holds power the other two do not?
+> Volume III: Can two people admit love during war without converting command
+> into access?
 >
 > Volume IV: Can three people build a household without hierarchy, and without
 > pretending three real bonds are actually one?
 
-**Book III–IV expansion — REVISED AND LOCKED 2026-08-09; supersedes 2026-07-28 pass:** Book II ends as a V
-centered on Wren. Book III keeps that relationship *shape* — Rowan/Eli stays
-nonsexual and non-romantic in conduct — but not its *silence*: by Book III,
-Eli, Wren, and Rowan consciously name to one another that something triadic is
-forming. The reason it still doesn't act is specific, not decorative: Eli
-holds real wartime power for most of the volume, and a triad that formed under
-it would be indistinguishable from a powerful man being given what he wants.
-Nothing completes until his own relinquishment does (`33_volume_III_beatsheet.md`
-§ *BOOK III ENDGAME*) — the same discipline that refuses the crown governs
-desire, and the triad's proof that it isn't produced by his authority is that
-it forms only once he has none left to spend on it.
+**Book III–IV expansion — REVISED AND LOCKED 2026-08-09; love and family timing revised 2026-08-16:** Book II ends as a V centered on Wren. In Book III, Eli and Rowan fall in love through war work and name it while he still holds command. They do not have sex, cohabit, exchange promises about children, or use official access to be together. Wren receives the truth from each of them and does not broker the relationship. Eli's relinquishment removes the authority barrier. A coda kiss may mark that change.
 
-In Book IV, once that relinquishment has completed, Rowan and Eli consciously
-recognize mutual desire and have sex on several separate occasions before the
-bond becomes romantic. Neither uses sex as proof of love, status, access, or
-future obligation. Their romance develops later through physical familiarity,
-political work, disagreement, steadiness, and care. **Wren neither brokers nor
-authorizes it** — this stays load-bearing: for the triad to be three direct
-bonds rather than a hub with a third spoke, Eli and Rowan need scenes that
-happen with Wren absent, not routed through her. Material disclosure rules
-still apply. Rowan's wish for motherhood predates Eli. Early sex is
-contracepted and explicitly not a choice of father. Only after romance does
-Rowan choose Eli as co-parent and decide when to pursue conception.
+Book IV begins with love already acknowledged. Rowan and Eli consummate the bond under present consent and explicit separation between intimacy and office. Their central private decision is whether to try to have a child together. Rowan's wish for motherhood predates Eli; choosing him as co-parent and choosing when to pursue conception remain her separate decisions. **Wren neither brokers nor authorizes the bond or the conception decision.** The three must instead build a family through direct agreements about residence, information, medical access, conflict, and Wren's relationship to the child. Material disclosure rules still apply.
 
 Book IV therefore develops three distinct, direct romantic dyads — Wren/Rowan
 recognition, Wren/Eli discovery, and Rowan/Eli construction — that together
@@ -774,15 +751,15 @@ If a romance scene only repeats attraction, compress it. If it changes trust, co
 | **Eli** | *I'll become useful enough you won't leave* | Asks; refuses to make Wren proof of destiny |
 | **Wren** | *I'll keep you safe by controlling the field* | Admits when protection became control; third loyalty holds |
 
-### Plural-bond note (LOCKED 2026-07-22)
+### Plural-bond note (LOCKED 2026-07-22; love timing revised 2026-08-16)
 
 Rowan returns and Wren/Rowan renews romantically. Eli/Wren remains real;
-Rowan/Eli remains nonsexual and non-romantic **through Book III**. Each bond
-needs its own consent, conflict, tenderness, and exit rights. Wren may not use
-one relationship to regulate the other; Eli and Rowan speak directly rather
-than making Wren translate their limits. Book III may plant only deniable charge
-after their direct bond has acquired an independent grammar. Conscious
-attraction, repeated sex before romance, and any later co-parenting decision
+Rowan/Eli becomes acknowledged love during Book III while remaining nonsexual
+until Eli relinquishes command. Each bond needs its own consent, conflict,
+tenderness, and exit rights. Wren may not use one relationship to regulate the
+other; Eli and Rowan speak directly rather than making Wren translate their
+limits. Book III shows the love in direct scenes and names the restraint imposed
+by Eli's office. Sex, deliberate family-building, and the co-parenting decision
 belong to Book IV. The formative Wren/Rowan bond is difficult to break because
 it is embodied and socially distributed, but **the bond remembers; the person
 still chooses**.
@@ -806,7 +783,7 @@ Wren and Rowan formed a ply during Weaver training before they became lovers. Th
 
 - **Text anchors subtext.** Because confirmed queer love exists in the spine (Wren bi/pan LOCKED; Rowan and Mira canon), ambiguous intimacy elsewhere in the order reads as honest pattern — some bonds are romantic, some are not — never as a tease the book refuses to pay. Without the anchor it would be queerbaiting; with it, it is texture the world itself produces.
 - **The order refuses to sort its bonds — one intimate expression of the thesis, not the whole of it.** Filing every deep bond as *romance* or *just friends* repeats the registry habit: a living relation is treated as complete once named. The Weavers decline that reduction internally; the book declines it on the page. Adult relation remains chosen, specific, revisable, and answerable to conduct.
-- **Two romances, not stealth triangle.** Wren/Rowan and Wren/Eli are named as separate real bonds. Rowan and Eli are not rivals for possession of Wren and are not covertly romantic. Each may object to conduct that affects them, but neither approves or governs the other bond.
+- **No stealth triangle.** Wren/Rowan and Wren/Eli are named as separate real bonds in Book II. Rowan and Eli do not compete for possession of Wren. Their Book III love is disclosed directly, and no person approves or governs another bond.
 - **Counterfeit test applies.** Hostile teams can simulate coherence-intimacy; handlers weaponize closeness. Bank one beat where a bond is revealed as operational, and one where a real bond survives being *accused* of being operational.
 - **No exotic texture** (§ Guardrails). The subtext lives in ordinary gestures — who packs whose kit, who someone reaches for when a line goes taut, who is allowed to interrupt whom — never in italicized meaningful glances.
 - **Older/younger bonds inside the order (author direction 2026-07-22).** Asymmetric-age relationships among Weavers are **known internally, tolerated, and never advertised externally** — outside eyes read an older woman with a younger one as scandal or predation (doubled by the queer-discretion layer), so the quiet-culture rule covers them fully: everyone inside knows; no one outside is owed the knowing. But internal tolerance is not internal blindness — the order runs **machinery**, because age plus standing is exactly where protection becomes control: no bonds across a live training relationship (a Warp elder or threshold trainer may never court a novice in her charge — initiation authority and desire are kept in separate hands); after passage, asymmetric bonds are permitted with **extra witness** — the younger partner's ply holds explicit standing to question the bond, and a house may quietly require the older partner to answer for its terms. **The honest shadow, kept:** the same discretion that protects love from outsiders can hide harm from insiders, and the machinery sometimes fails — **it failed Wren.** Her older ex was known, tolerated, and under-watched; the asymmetry (experience, protection, access) ran without enough witness, and the lesson it burned into her — *protection becomes control* — is thus partly the order's failure, which is why her later insistence on consent architecture (told-first; Asha's return-rights reforms) reads as a woman building the machinery that should have watched over her. Craft delivery: one Vol II house scene may show the generational disagreement (the locked older/younger quietness argument can carry double duty) — an elder defending discretion as survival, a younger Weaver naming whom discretion failed; neither caricatured, per the quiet-culture lock.

@@ -54,9 +54,9 @@
 > stretch, then the Lean Year's converging allocation, credential, route, and trust failures lead the
 > institutions to deliberately invoke a dormant continuity clause and ask Eli
 > back into bounded authority; the Weavers and men's cloisters deepen power
-> already earned in Book III; Rowan/Eli receives only deniable attraction seeds.
-> Book IV carries conscious attraction, repeated sex before romance, chosen
-> conception, pregnancy, childbirth, institutional settlement, and Eli's second
+> already earned in Book III. Eli and Rowan fall in love during Book III and
+> withhold sex while he commands. Book IV carries consummation, the decision to
+> try for a child, conception, pregnancy, childbirth, institutional settlement, and Eli's second
 > and final relinquishment. The governing spine is in
 > `60_volume_IV_court_of_threads.md`. **I–IV governing drafts exist and
 > have been reconciled to this architecture** (III handover hall; IV opens on

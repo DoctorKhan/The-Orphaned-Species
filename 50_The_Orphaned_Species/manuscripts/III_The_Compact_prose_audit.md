@@ -61,12 +61,12 @@
   - ABSTRACT-DENSE (25 abstract terms, 78 body terms)
 
 ### ## Chapter Six—The Compact
-- **Word count:** 3358
-- **Sentence count:** 388
+- **Word count:** 3707
+- **Sentence count:** 444
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
   - TELL-NOT-SHOW (7 hits)
-  - ABSTRACT-DENSE (27 abstract terms, 55 body terms)
+  - ABSTRACT-DENSE (30 abstract terms, 69 body terms)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
 
 ### ## Chapter Seven—A Crown With an End
@@ -92,8 +92,8 @@
   - ABSTRACT-DENSE (22 abstract terms, 80 body terms)
 
 ### ## Chapter Ten—The Handover
-- **Word count:** 1973
-- **Sentence count:** 232
+- **Word count:** 1997
+- **Sentence count:** 237
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
   - TELL-NOT-SHOW (3 hits)

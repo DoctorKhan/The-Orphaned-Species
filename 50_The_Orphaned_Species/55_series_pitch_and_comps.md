@@ -2,7 +2,7 @@
 
 > **COMPLEX-TIME SUPERSESSION — LOCKED 2026-07-27:** Field-sail language in older pitch rows is retired quarry. Book III's space-travel possibility comes from complex-time research and lateral/sideways movement through adjacent temporal states; no field-sail craft is current canon.
 
-> **PITCH ROUTE AND CAST SUPERSESSION — REVISED 2026-08-11:** Book I culminates at **Sanxingdui**, where Eli finds Rasel alive and willingly inside the Mandate, activates Rasel's apparatus at his father's ask, and leaves without him — refused, refusing. Wren signs the civilian evacuation with her real name and loses her work, papers, house standing, and safe return; Qiao loses clearance. Nobody is captured. Emrys does not exist in this version. Göbekli / Mesopotamia move to Book II, and Rasel does not travel there with the group. `58_sanxingdui_climax_lock.md` governs.
+   > **PITCH ROUTE AND CAST SUPERSESSION — REVISED 2026-08-11:** Book I culminates at **Sanxingdui**, where Eli finds Rasel alive and willingly inside the Mandate, activates Rasel's apparatus at his father's ask, and leaves without him — refused, refusing. Wren signs the civilian evacuation with her real name and loses her work, papers, house standing, and safe return; Qiao loses clearance. Nobody is captured. Emrys does not exist in this version. Göbekli / Mesopotamia move to Book II, and Rasel does not travel there with the group. `58_sanxingdui_climax_lock.md` governs.
 
 > **Status: HIGH PRIORITY — LOCKED 2026-07-25**
 >
@@ -160,27 +160,59 @@ competence possible. The surviving evidence points west toward Maren.
 
 ## Back-cover copy — Book II: *The Descent*
 
-**Rescue is not reunion. Reunion is not innocence.**
+**Eli reached his father. His mother is still somewhere ahead.**
 
-With Rasel still at Sanxingdui and Wren displaced, the trail turns through a Mesopotamian
-archive and Göbekli's selection machinery, then west through Pömmelte, Rollright,
-Men-an-Tol, and Stonehenge. Beside Rowan, a west-corridor Weft, Wren undertakes
-her first consequential clandestine recovery. Hassan's recovery reveals Maren's
-willing collaboration and later sabotage. At Avebury, Eli finds his mother lucid enough to want more time
-and chooses to **release** her anyway. The release begins an awakening the world has
-no structure to hold.
+Rasel has chosen to remain at Sanxingdui, and Wren has lost the papers that once
+made every border negotiable. Eli follows the trail Maren damaged before her
+disappearance. His dreams begin supplying details no one has told him, but
+trauma, contact, and another person's intrusion can feel identical from inside
+his head.
 
-*The Da Vinci Code's "history was lied about" — but the lie is a **pattern**, not a bloodline, and the answer is a person freed, not a code solved.*
+The route leads through an archive Maren altered, a clinic holding people whose
+abilities have made them useful, and the old grounds where contact became
+command. Wren travels beside Rowan, the woman she once loved and still cannot
+claim to know. At Albion, Eli finds Maren lucid enough to recognize him and ask
+for more time. Keeping her would also preserve the signal their pursuers came
+to seize. Eli must decide while they close in.
 
 ---
 
 ## Back-cover copy — Book III: *The Compact*
 
-**A power no parent prepared them to inherit.**
+**The people calling Eli their savior also need him to issue orders.**
 
-Awakening spreads through threshold houses, river cooperatives, and open grounds while Lang's surviving apparatus and Sol's militarized faction offer rival versions of the same childhood: obey the protector or become the avenging father. Eli accepts temporary coordination under necessity, lives with its costs, and becomes ordinary again. Union physics and Mandate industry, verified by Free Ports, establish a testable complex-time research program as the material basis for ceasefire. The work suggests lateral transition through adjacent temporal states but produces no launch. The teahouse pilgrimage seeds hospitality at the threshold, voluntary discipline, and sanctuary as research clearance.
+Maren's release has awakened abilities in people who have no common government,
+training, or reason to trust one another. When war breaks the Continental Union
+into competing commands, Eli can still move food, boats, medicine, and fighters
+across the fractures. Every success makes more people willing to obey him.
 
-*National Treasure's wonder at the landmark — without the treasure box. The conspiracy does not end; vigilance becomes a standing condition.*
+Rasel wants technical controls before another frightened carrier causes a mass
+casualty. Sol promises that forced synchronization can end the argument and save
+everyone at once. Rowan and Eli fall in love through late calls, political
+arguments, and the decisions each watches the other make under pressure. They
+admit it while Eli's command gives them a reason to keep their bodies and future
+plans separate from the office. To keep the routes open, Eli must send named
+people into battles they may not survive. To remain himself, he must give up
+command before the danger has ended.
+
+## Back-cover copy — Book IV: *The Court of Threads*
+
+**When the harvest fails, they ask Eli to take command again.**
+
+The war is over, but the network that survived it cannot move enough food,
+medicine, and fuel through a year of damaged weather and seized routes. Courts
+that praised Eli's relinquishment now argue that only his return can prevent a
+second collapse.
+
+Rowan and Eli survived the war in love and apart. Now they decide whether to
+try for a child. Wren sees officials turn that choice into a succession plan
+and fears that the family she already has will be ranked around blood. Her
+attempt to protect her place causes damage inside the relationships she meant
+to preserve.
+
+As Rowan's labor approaches, rival factions move to claim the child, the court,
+and the emergency command. Eli must finish building a transfer that can survive
+his absence and remain beside Rowan during labor.
 
 ---
 
@@ -712,7 +744,7 @@ Use with `60_volume_IV_court_of_threads.md` when outlining or drafting. **Pass**
 || Ch | Title | Body | Clock A | Clock B | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 ||----|-------|------|---------|---------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
 || 1 | The Doors *(Wren)* | Reconstitute certification without hidden sovereignty; court seats contested; Lean Year inquiry begins | Cross-route triage works — and begins to stick; convergence proven, not conspiracy | Wren's network stake vs becoming consort/office; Eli's restored public weight under review | Audience lists, lodging, message order, food, transport | Convergence rather than conspiracy; Henley's dormant continuity credential | Redirected grain → Ch 2 succession delay | Union continuity officials; Weaver houses; Sol-aligned men; registry families | Wren/Eli lovers under review; Rowan's arrival looms | Weavers keep monopoly on attestation | Local ports proceed while federation fails | Wren's reviewable public route role | Prepare room, don't own it |
-|| 2 | Present Consent *(Rowan)* | Deliver western attestation; prevent compromised handover; attraction disclosed | Western attestation delivered; continuity official removed; succession delayed rather than seized | Rowan refuses consort status / audience category change; mutual attraction named without privilege | Public route record; disqualification record | Attestation disqualifies compromised official | Attestation holds — succession gap created | Court scheduler; continuity official; route record keepers | Rowan/Eli/Wren disclose terms; sex grants no office | Route record keeps names | Clean political removal without blood | Rowan's body is hers to schedule | Choose the relationship now, not under pressure |
+|| 2 | Present Consent *(Rowan)* | Deliver western attestation; prevent compromised handover; established love becomes sexual | Western attestation delivered; continuity official removed; succession delayed rather than seized | Rowan refuses consort status / audience category change; sex grants no privilege | Public route record; disqualification record | Attestation disqualifies compromised official | Attestation holds — succession gap created | Court scheduler; continuity official; route record keepers | Rowan/Eli/Wren disclose changed terms; sex grants no office | Route record keeps names | Clean political removal without blood | Rowan's body is hers to schedule | Act on love after the command barrier ends |
 || 3 | Three Rooms *(Wren)* | Three-room court functions without seizing Rowan; Weavers' custody contested | Certification and custody rules separated from pregnancy; court functions without claiming Rowan's body | Wren names her household terms; court already building an heir pathway around Rowan | Three-room audience/lodging/message order | Weavers' custody can be reviewed, not absolute | Heir pathway appears before pregnancy confirmed | Cloister captains; Weaver elders; succession schedulers | Wren/Eli/Rowan negotiate terms openly | Household rules replace automatic kin | Court route works while Rowan is absent | Wren chooses role, not automatic co-parent | Protect Rowan's access without owning her choice |
 || 4 | What We Build *(Rowan)* | Transfer package distributed; coupled-failure middle; southern-route proof | Transfer package + local refusal save Costa Rica route; no central author needed | Rowan chooses pregnancy after medical consultation; Eli refuses inheritance | Costa Rica stormfall route; mixed planting vs certified quick-growth | Local refusal saves route from collapsing under symbolic generosity | Transfer package proven under real failure | North American official; local councils; court contractor | Rowan/Eli/Wren disagreement; shared care and humor | Stormfall route with named counts | Mixed planting over certified stock | Rowan stops contraception by choice | Build a life together, not a succession |
 || 5 | The Rumor *(Asha, then Wren across a hard break)* | Lean Year inquiry; no single mastermind; real harm without final villain | Convergence proven in public record; factions named, remedies assigned, no invented final author | Rowan privately confirms pregnancy; court announces continuity celebration for unacknowledged heir | Appointment metadata leak; continuity celebration announced | Inquiry assigns conduct without inventing necessity | Inquiry creates legal basis for later remedy | Continuity official; Sol-linked cell; Weaver house; route cartel | Wren protects Rowan's privacy without pretending it's safe | Rumor outruns confirmation | Inquiry names harm without prophecy | Rowan controls disclosure terms | Protect privacy without erasing danger |
