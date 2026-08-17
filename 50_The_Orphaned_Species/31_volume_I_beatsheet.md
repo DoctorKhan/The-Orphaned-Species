@@ -133,7 +133,7 @@ Every listed fossil must spend something in the following chapter (`17` § *Tomo
 | 10 | Blank page; return-rights sheet south; half copy | Ch 11 human-door choice is between people; Asha clock now live off-page |
 | 11 | Border form as claiming fossil; Dara permit | Ch 12 civilian accreditation only |
 | 12 | Missing-top hunger refused; conservation card *not one trunk* | Ch 13 evacuation spends Wren; Eli will not give Rasel a single trunk |
-| 13 | Rasel refused; other-letterhead courtesy | Book II Ch 1 opens with a father left behind and an unpaid network bill |
+| 13 | Rasel refused; other-letterhead courtesy | II.1 opens with a father left behind and an unpaid network bill |
 
 ## Book I opponent this week — LOCKED 2026-08-16
 

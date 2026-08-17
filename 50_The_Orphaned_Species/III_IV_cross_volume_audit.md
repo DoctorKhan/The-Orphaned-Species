@@ -27,7 +27,7 @@ Both manuscripts are internally consistent with their own current architecture d
 | The Hollow Year eruption + cross-network seizure | Ch 1–2 pressure | Present |
 | Costa Rica evacuation hinge (Nosara–Sámara, Tenorio–Miravalles) | Ch 5 — place names drafted (line ~2679) | **Present — resolved since prior audit** |
 | Continuity clause invoked by institutions | Ch 2–9 (Henley credentials, extension request, final motion) | Present |
-| Rowan/Eli love → post-handover consummation → family decision → conception | Book III acknowledgement; Book IV Ch 2 sex; Ch 4 family decision; Ch 6 pregnancy | Present |
+| Rowan/Eli love → post-handover consummation → family decision → conception | III acknowledgement; IV.2 sex; IV.4 family decision; IV.6 pregnancy | Present |
 | Wren boundary / triad refusal | Ch 3 (Wren/Rowan corridor conversation) | Present |
 | Sports/market gathering dispute | Ch 7 | Present |
 | False heir / dynasty motion | Ch 8 | Present |
