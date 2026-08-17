@@ -36,7 +36,7 @@ The buddy-warmth and physical-comedy-during-problem-solving DNA that made the ol
 ## Volume density
 
 - **Vol I–II:** highest fellowship comedy — ensemble + situational local color; Rasel's narrow thread opens late Vol I.
-- **Vol II:** adds Somchai's gallows register, confined to his own scenes.
+- **Vol II:** adds Somchai's gallows register, confined to his own scenes. Volume comedy also rides the triad's pair-competition pulses — undignified, object-bound, repair without rank (`19` § *Periodic pair-competition*).
 - **Vol III:** ensemble comedy thin (war tempo); the situational misfiled-by-protocol register carries the load (ambassador dinner + at most one menu beat); returns in coda afternoon.
 
 ## Filter

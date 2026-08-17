@@ -35,6 +35,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 | How many books, what is in each | `../SERIES_STRUCTURE.md` |
 | What is current | this file |
 | Prose voice | `14_literary_speculative_thriller_style_guide.md` |
+| Place tables / flora / image ledger | `14_place_craft.md` |
 | Hunger / pitch / clocks | `55_series_pitch_and_comps.md` |
 | Reveal order, ancient face | `17_reveal_order_and_reader_impact.md` |
 | Life / earth / wonder floor | `22_life_technology_and_two_trees_spine.md` |
@@ -78,12 +79,13 @@ When writing or revising a chapter, open these. Everything else is reference.
 
 | File | Status | Purpose |
 |---|---|---|
-| `14_literary_speculative_thriller_style_guide.md` | LIVE | Governing prose/POV register. |
+| `14_literary_speculative_thriller_style_guide.md` | LIVE | Governing prose/POV register. Desk card at top. |
+| `14_place_craft.md` | LIVE | Place tables, flora, Silo geometry, image ledger. Split from `14` 2026-08-16. |
 | `15_character_grounding_and_relatability.md` | LIVE | Vulnerability/relatability rules. Fever scar lock (TBI retired as author word, 2026-08-16). |
 | `16_reader_attachment.md` | LIVE | Attachment mechanics. |
 | `17_reveal_order_and_reader_impact.md` | LIVE | Reveal sequencing; ancient face; climax staging. |
 | `18_adventure_engine_and_scene_bank.md` | LIVE | Scene-generation bank. |
-| `19_romance_and_divine_pairing.md` | LIVE | Romance craft. |
+| `19_romance_and_divine_pairing.md` | LIVE | Romance craft. Pair-competition lock 2026-08-16. |
 | `20_resonance_points.md` | LIVE | Cross-book thematic echoes. |
 | `24_comedic_register_slapstick.md` | LIVE | Tonal/comedy register. |
 | `25_rhyme_sheet_lessons.md` | LIVE | Cross-book rhyme/callback tracking. |
@@ -121,7 +123,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 | `32_volume_II_beatsheet.md` | LIVE + QUARRY (1st pass marked in-file) | Book II. |
 | `33_volume_III_beatsheet.md` | LIVE | Book III. Wonder floor 2026-08-16. |
 | `34_volume_IV_beatsheet.md` | LIVE — **Collision with `34_two_energies_and_planes.md`** | Book IV chapter cards. Architecture lock is `60`. |
-| `60_volume_IV_court_of_threads.md` | LIVE | Book IV architecture. Wonder floor 2026-08-16. |
+| `60_volume_IV_court_of_threads.md` | LIVE | Book IV architecture. Wonder floor 2026-08-16. Heather city: Denver / Front Range foothill Cube. |
 | `41_climax_the_awakening.md` | LIVE | Book II climax mechanism (Maren release). |
 | `58_sanxingdui_climax_lock.md` | LIVE — AUTHORITATIVE | Book I climax; Book II Rasel-absent relocation. |
 | `59_younger_dryas_nucleation_lock.md` | LIVE | YD craft / cube-ground physics. |

@@ -1,18 +1,31 @@
 # Literary Speculative Thriller — Style Guide
 
-> **Status:** governing prose guide, chosen 2026-07-12. Applies to all Layer 1 novel volumes (currently Books I–IV; any later V–VI inherit this guide unless overridden). It controls narrative voice, scene delivery, exposition, and revision—not canon or plot. Local registers remain in `21_present_day_street_skin.md`, `24_comedic_register_slapstick.md`, and `38_psionic_combat.md`. Volume map: `SERIES_STRUCTURE.md`.
+> **Status:** governing prose guide, chosen 2026-07-12. Applies to Layer 1 novels (Books I–IV civic; V–X inherit unless a volume overrides). It controls narrative voice, scene delivery, exposition, and revision—not canon or plot. Place tables, flora, and the image ledger: `14_place_craft.md`. Local registers remain in `21_present_day_street_skin.md`, `24_comedic_register_slapstick.md`, and `38_psionic_combat.md`. Volume map: `SERIES_STRUCTURE.md`.
 
-> **HIGH PRIORITY — LOCKED 2026-07-25:** **`55_series_pitch_and_comps.md`** — clue-chain propulsion, institutional villainy, landmark set-pieces, 10-point revision gate. Prose must **move the body** and **picture the clue**; see `55` checklist items 1–2, 5–8.
+> **HIGH PRIORITY — LOCKED 2026-07-25; query comps 2026-08-16:** **`55_series_pitch_and_comps.md`** — clue-chain propulsion, institutional villainy, landmark set-pieces, 10-point revision gate. First-contact comps: *The Da Vinci Code* + *The Fifth Season*. Prose must **move the body** and **picture the clue**; see `55` checklist items 1–2, 5–8.
+
+## Desk card — use this while drafting
+
+The rest of the file is the long version. If you are in a scene, use this.
+
+1. The sentence makes sense the first time.
+2. Name the object. Who touches it.
+3. After the action, stop. Do not write what it meant.
+4. One image per passage. Do not explain the image.
+5. I–IV known words: ring, tree, notebook, Extra, house, registry, talent, Cube, Weavers, compact, crown, flight (birds only). A new proper noun joins only if an old one leaves. `17`.
+6. Tree of Life / ley / Charkha: dialogue, plaque, or file header only.
+7. One stretch per chapter that is just a meal, a joke, a nap, or a repair. If you can write Circle / orphan / cage in the margin, rewrite the stretch.
+8. Read the scene aloud. End on the strongest word.
+9. A talent may only solve what the reader has already seen it do, or fail at.
+10. Pay a promise you already made. The last chapters of a volume run faster.
 
 ## The chosen mode
 
-*The Orphaned Species* is a **literary speculative deep-history conspiracy thriller** (see `55`): clean, atmospheric prose; vivid locations; emotionally complex characters; escalating pursuit; clue-chain momentum in the *Da Vinci Code* / *National Treasure* register.
+*The Orphaned Species* is a **literary speculative deep-history conspiracy thriller** (see `55`): clean, atmospheric prose; vivid locations; emotionally complex characters; escalating pursuit; clue-chain of *The Da Vinci Code*; close-POV institutional pressure of *The Fifth Season*.
 
-The novel's surface is an intimate maritime thriller. Its emotional depth comes from literary fiction. Its extraordinary encounters use restrained visionary language. The cosmology stays beneath all three until events make explanation necessary.
+Write the experience first. Then the person. Then the cost. Explain later, and only if the scene needs the word.
 
-> **Write the experience before its meaning, the person before the mythology, and the consequence before the explanation.**
-
-**Genre blend, not genre hierarchy — LOCKED 2026-08-11.** "Thriller" names the shelf category and the propulsive engine: pursuit, escalating pressure, cost. It does not mean every scene runs at pursuit tempo. Detective-mystery pacing (the revelation ladder's dispute and partial-model stages, a scene that stops to weigh evidence) and quest pacing (human gear, arrival, ordinary life earning its keep on delay) are native to this book, not deviations that need special permission. A scene earns its pacing mode by the same test regardless of which genre supplied the rhythm: does it move objective, danger, knowledge, relationship, or cost (Thriller structure at scene level), and does it respect the gear-repetition ceiling (Macro-rhythm across a volume). A deduction that only shows the character is clever, or an arrival that is pure travelogue, fails that test whether it is dressed as thriller, mystery, or quest.
+**Genre blend — LOCKED 2026-08-11.** "Thriller" names the shelf and the engine: pursuit, pressure, cost. Scenes may also run at mystery pace (stop and weigh evidence) or quest pace (gear, arrival, ordinary delay). A scene earns its pace if it moves objective, danger, knowledge, relationship, or cost, and if it respects the gear-repetition ceiling (Macro-rhythm). A deduction that only proves the character is clever, or an arrival that is only scenery, fails that test.
 
 ## Reader promise
 
@@ -27,7 +40,7 @@ The reader should receive:
 - moral and emotional complexity without narrative vagueness;
 - revelations earned through action, evidence, and changed relationships.
 
-The novel may be spiritually serious, but it must never require the reader's assent. It invites experience and judgment; it does not recruit.
+The novel may be spiritually serious. The reader does not have to agree.
 
 ## Default narrative voice
 
@@ -55,7 +68,7 @@ Before leaving Eli, test the proposed scene:
 
 An away scene should normally pass at least four of the five tests. Information Eli lacks is not, by itself, a reason to switch.
 
-**Locked deployment:** Book I is Eli except for Wren's Chapter 8 Laleh-extraction opening, followed by a hard break back to Eli. Book II uses Somchai for the Chapter 15 independent-clue opening and the Somchai-led Chapter 19 healing/hard-no movement; it uses Wren for the Chapter 20 route/network-cost opening. Each returns to Eli across a hard break where the chapter continues; Maren's truth and the Sanxingdui climax remain Eli. Book III gives Somchai the bodily-crown limit and Wren the distributed-network convergence; Eli carries the tether, release, and final coda. If chapter numbering changes during the locked rebuild, preserve these dramatic assignments rather than the numbers themselves.
+**Locked deployment:** Book I is Eli. The Wren/Laleh extraction opening is retired quarry, not the governing draft. Book II: Somchai carries the healer/hard-no movement; Wren carries a route/network-cost away; Maren's release stays Eli. Book III: Somchai carries the bodily-crown limit; Wren carries distributed-network convergence; Eli carries the compact, the war, and the handover. Book IV camera is Wren/Rowan per `60`. If a chapter number here disagrees with `31` / `32` / `33` / `60` or the manuscript, those files win. Keep the dramatic assignment (who holds the away), not an old number.
 
 Default prose is:
 
@@ -64,20 +77,37 @@ Default prose is:
 - **specific:** named objects, jobs, routes, foods, injuries, and procedures replace generic description;
 - **restrained:** lyricism intensifies selected moments rather than coating every paragraph;
 - **lightly interpretive:** the narrator may sharpen an observation but should rarely deliver the scene's thesis;
-
-**No thesis-caption after the scene — LOCKED 2026-08-16.** If the action already happened, do not write a tidy line that says what it meant. Failed example (cut from Book II): *The innocent mother is gone. The woman remains. Both facts refuse to cancel.* Keep Maren's list of the eleven children. Let Eli put the paper down. Same failure in chat: *She is the civilian the compact cannot file as a lesson and still keep its soul.* Write: *Nia is a boat mechanic. Tomas kills her.* Ban the shapes *This is what X looks like when Y*, *That is the point*, and two-abstraction pairings used as insight. Character dialogue may stay worn and short. The narrator may not grade the scene.
 - **contemporary and flowing:** varied sentence length, minimal ornamental syntax, no faux-scriptural default;
 - **socially alert:** rooms contain status, obligation, history, inconvenience, and other people's needs.
 
-Mostly external does not mean emotionally remote. Emotion appears through attention, avoidance, bodily response, work, humor, mistakes, and what a character cannot bring themselves to do.
+Emotion appears through attention, avoidance, bodily response, work, humor, mistakes, and what a character cannot bring themselves to do.
+
+### No thesis-caption after the scene — LOCKED 2026-08-16
+
+If the action already happened, do not write a tidy line that says what it meant.
+
+Failed (cut from Book II): *The innocent mother is gone. The woman remains. Both facts refuse to cancel.* Keep Maren's list of the eleven children. Let Eli put the paper down.
+
+Failed (chat, same voice): *She is the civilian the compact cannot file as a lesson and still keep its soul.* Write: *Nia is a boat mechanic. Tomas kills her.*
+
+Do not use these shapes in narration: *This is what X looks like when Y*; *That is the point*; two abstractions paired as insight. A character may say a short worn line. The narrator may not grade the scene.
+
+### Civic-page limits — LOCKED 2026-08-16
+
+Books I–IV. Full lock: `17` § *I–IV reader vocabulary* and § *Tomorrow test*.
+
+- Twelve known words only. See the desk card.
+- Narrator theology stays off. A plaque, a file header, or a mouth that might be wrong may carry a name.
+- Residue that does not change a route, a relationship, or a refusal in the next chapter is wallpaper. Cut it or give it a job.
+- One unthematic stretch per chapter. `31` / `32` hold the per-chapter lists.
 
 ## Beauty, desire, and dramatic multiplicity — LOCKED 2026-07-22
 
-Beauty is not ornamental language. A beautiful passage makes sound, rhythm, image, and implication alter the reader's experience of the event. It compresses more than it explains, gives the reader room to participate, and makes a surprising perception feel inevitable after it lands. Poetry does not announce grief; it notices the cup still set out for the person who is gone. If a sentence only sounds elevated, it is decoration.
+A beautiful passage changes how the event is felt: sound, rhythm, image, implication. Grief can sit in a cup still set out for the person who is gone. If a sentence only sounds elevated, cut it or give it a job.
 
-The narrative engine is **desire under pressure**, not information delivery. Desire is attention leaning toward an absence: home, recognition, bodily peace, a mother, another hour, useful power without compulsory purpose, a future that does not repeat the makers' failures. Mystery asks what happened; desire makes the answer necessary. Suspense is desire delayed, conflict is one defensible desire obstructing another, character is what someone will spend for desire, and tragedy is discovering that getting the desired thing may destroy the reason it was wanted.
+Scenes run on **desire under pressure**. Someone wants home, recognition, a mother, another hour, useful power that does not own them. Mystery asks what happened. Desire makes the answer costly to skip. Suspense delays the want. Conflict is two defensible wants in the same room. Character is what someone will spend. Tragedy is getting the thing and losing why they wanted it.
 
-Use the Shakespearean dramatic rule without imitating Shakespearean diction: serious characters must exceed the thesis. Each holds part of the truth, wants contradictory things, and can speak persuasively enough to justify themselves; conduct and cost reveal what their language conceals. Join high and low registers—history with appetite, metaphysics with jokes, public catastrophe with bodily inconvenience. No single character, including Eli, is allowed to understand the whole play.
+Serious characters hold part of the truth, want contradictory things, and can justify themselves. Conduct and cost show what their language hides. History can share a page with appetite, a joke, or a body that needs a toilet. No single character, including Eli, understands the whole play.
 
 Every consequential scene therefore needs:
 
@@ -100,7 +130,7 @@ Before drafting a scene an antagonist governs, establish:
 
 **Exception — field-operator blankness (bounded):** one Custodian-class field operator per volume may lack a voiced sympathetic desire. Immediate want and visible loss remain procedural; Eli's misreading of the operator's conduct is the dramatic function. This exemption does not apply to Lang, Sol, or any institutional architect.
 
-Character interiority below carries the general principle against reducing antagonists to ideas. This turns it into a checklist applied scene by scene. A scene fails it when the antagonist's only function is demonstrating that they are wrong.
+A scene fails this check when the antagonist's only job is to be wrong.
 
 ## The three prose gears
 
@@ -114,7 +144,7 @@ Favor the revealing action: someone saves a charger, fixes a latch without being
 
 Narrow attention. Shorten descriptive pauses. Make geography, timing, resources, and objectives legible. The viewpoint character notices what can expose, trap, injure, delay, or save someone.
 
-Suspense comes from constrained choices, not withheld basic information. The reader should usually know:
+Suspense comes from constrained choices. Do not hide facts the viewpoint character already has. The reader should usually know:
 
 - what the character wants now;
 - what obstructs it;
@@ -125,7 +155,7 @@ End scenes on changed conditions: a route closes, trust breaks, evidence changes
 
 ### 3. Visionary gear — at genuine contact
 
-Slow down and become sensorially precise. Use image, rhythm, negative space, and bodily strangeness. Do not substitute grandeur for clarity. One exact impossible detail is stronger than a page of cosmic adjectives.
+Slow down and become sensorially precise. Use image, rhythm, negative space, and bodily strangeness. One exact impossible detail beats a page of cosmic adjectives.
 
 Extraordinary experience arrives in this order:
 
@@ -145,41 +175,13 @@ Use images drawn from the viewpoint character's lived vocabulary. Eli's comparis
 
 Prefer one governing image in a passage. Avoid stacking metaphors, repeating a symbol after it has landed, or explaining what an image means.
 
-Recurring images must change meaning, not function as franchise tokens.
-**Rasel's ring** moves from proof of the father, to a test of person-over-evidence,
-to Maren's concealed index, to a family object returned without restoring the old
-family. Rasel's garden moves from failed inheritance to life continuing without
-exclusive ownership. Breath moves from involuntary survival to shared regulation
-to participation without merger. Do not state these arcs in prose; let changed
-use, context, ownership, and cost perform them.
+A recurring image has to change job. Ring, garden, breath, and the clap/count seeds: log them in `14_place_craft.md` before you reuse them. Do not state the arc in the novel. Changed use, owner, and cost do the work.
 
-**Test:** if a lyrical sentence can be removed without changing perception, emotion, rhythm, or meaning, it is decoration. Cut or sharpen it.
-
-### Cross-book object and image ledger — LOCKED 2026-08-11
-
-Recurring images already carry a rule: each reappearance changes meaning instead of repeating as a franchise token. This ledger makes that rule auditable across four volumes instead of trusting memory.
-
-Before building a new object or image for cross-book recurrence, add a row below. Before reusing an established one, check its spent meanings first — a use that repeats a logged meaning needs a reason on the page.
-
-| Image | Volume / beat | Meaning at that appearance | Meaning now spent |
-|---|---|---|---|
-| Rasel's ring | I, proof scene | Proof of the father | Evidentiary/identity use |
-| Rasel's ring | II | Test of person over evidence | Trust-over-artifact use |
-| Rasel's ring | III | Maren's concealed index | Concealment/leverage use |
-| Rasel's ring | IV | Family object returned, old family not restored | Reunion-without-restoration use |
-| Rasel's garden | I | Failed inheritance | Inheritance-as-burden use |
-| Rasel's garden | later | Life continuing without exclusive ownership | Continuity-without-ownership use |
-| Breath | I | Involuntary survival | Survival-reflex use |
-| Breath | II | Shared regulation | Co-regulation use |
-| Breath | III–IV | Participation without merger | Boundary-in-intimacy use |
-| Body-score sound seeds | I (Cube clap, Malacca clap, wat count, Pai drop), II (Göbekli feast feet/fill) | Seeded, uncollected | Reserved for Book III seasonal-gathering room-body payoff — do not resolve early |
-
-- Add a row the session an image is chosen for recurrence. An image discovered mid-draft to already be doing cross-book work gets logged that same session, not reconstructed from memory later.
-- The same discipline applies to the notebook’s recurring PIE roots and cultural rhymes across Books I–III. Add entries in `72_pie_cross_cultural_continuity_ledger.md`; do not let a root recur as a free-floating motif without a ledger row.
+**Test:** if you can delete a lyrical sentence and lose only decoration, delete it.
 
 ## Setting and atmosphere
 
-Location must affect action. A vivid place is not a scenic paragraph; it changes what characters can hear, hide, afford, carry, eat, believe, or escape.
+Location must change what characters can hear, hide, afford, carry, eat, believe, or escape.
 
 Build setting through selective recurrence:
 
@@ -189,58 +191,11 @@ Build setting through selective recurrence:
 - **social texture:** languages, jokes, territorial habits, private rules, recognizable faces;
 - **one changing detail:** a repaired door is forced again; a familiar stall closes; patrol lights appear beyond the breakwater.
 
-Avoid travelogue inventory. Choose two or three details that establish place and one that participates in the scene.
-
-### Place-craft — Silo grammar — LOCKED 2026-07-26
-
-Borrow the *Silo* lesson without borrowing the dystopia: **the place is a plot engine**, not a backdrop. Intimate camera, epic container — place arrives through Eli’s soles, breath, stomach, wrong turn; not travelogue.
-
-**Five moves (every major location):**
-
-1. **Signature geometry** — one body-memorable shape. Return visits reuse the same knees/breath/sound memory.
-2. **Class and truth as altitude** — up/down (or surface/Thread, bund/dead field, tourist path/sealed door) is who eats, who knows, who is watched. Force Eli’s body through the grade change.
-3. **Lived systems before lore** — how the place *runs* (tongs, wage tickets, gantries, sluices, backfill clocks) before what it *means*.
-4. **Wonder + dread in the same room** — wonder before ambush (`55` §8). Awe that can turn poisonous.
-5. **Revisit changed** — Pelangi return (Vol III); Singapore as memory/scar; Sanxingdui after Eli refuses Rasel.
-
-**Craft rule — each major location gets all four:**
-
-| # | Requirement |
-|---|---|
-| 1 | **Wonder breath** — one held moment of awe before violence or thesis |
-| 2 | **Signature sensation** — sound, smell, pressure, or floor-hum unique to that place |
-| 3 | **Ritual/machine that runs without Eli** — system visible in labor |
-| 4 | **Place lie** — what the place claims about itself vs what is true underneath |
-
-**Flora as place-engine — LOCKED 2026-07-29:** Tropical plants and trees are not wallpaper. Name them when Eli’s body meets them (smell, shade, food, work, failure). Prefer **specifics over “jungle/green”**: coconut palm, frangipani, bougainvillea, rain tree, banana, papaya, holy basil, chili, tomato, mangrove, casuarina, chempaka, jackfruit, bamboo, teak, water hyacinth, lotus, morning glory, lemongrass, flame tree. Let flora **argue** Living Route vs sealed orchard (Pelangi volunteers / Singapore Cube cherry under glass). Garden failure is character: Eli waters wrong; Rasel teaches *ask the plant*; Maren’s basil = *green first*. Thailand’s forming band lives among named paddies-and-margins plants, not abstract miracle-green. One or two lived names per beat; refuse botanical travelogue.
-
-**Book I signature geometries + place lies:**
-
-| Place | Geometry | Sensation | Machine / ritual | The lie |
-|---|---|---|---|---|
-| **Pelangi / open strait** | Fairway + open water | Hull hum, wind on cheek, salt; coconut fronds on storm wall | Race marks, harbor wager, Timah’s harvest | *Freedom / you belong to yourself* — still a corridor with cutters |
-| **Pelangi Reach (hearth)** | Storm wall → towers → exile garden | Generator hum, terrace smoke, crushed basil/chili, frangipani sweet over diesel | Chit circle, Mei’s kitchen, Babaji papers; rain-tree shade | *Safe refuge that can hold you* — gray space; squeeze takes the hearth |
-| **Singapore / Stack** | Vertical cliff + Thread maze; **malls as literal silos** — sealed atriums, spiral escalators, stacked rings of shop/class | Palm-click, perfume/ozone vs diesel; atrium wind that is not weather | Gantries, Circuit parade, wage ticket; escalator helix as public stair | *Inevitable permanence / the outside is optional* — purchased spectacle; maps lie; Thread is the real city |
-| **Cherry Cube** | Glass temple over cracked roots | Floor-song through soles; bloom light | Idol show, freight under grandstand; **forced cherry vs Pelangi volunteer trees** | *Living future you can hold* — reliquary orchard; parade owns you |
-| **Malacca** | River + night-market lanes + mangrove stilts | String bulbs, satay smoke, wet stone, jasmine, mangrove flower on tide | Tongs, fish auction stamps, clipboard nets; holy basil in paint tin | *War has a night off / peace as infrastructure* — softness watched; vans wait |
-| **Coastal passage** | Island anchors + mangrove channels | Chempaka on tide, casuarina needle-song, jackfruit at landings | Pak Din’s engine shrine, rice aft | *Open water is free* — contractors run dark |
-| **Thailand mountain road** *(Pai ↔ Chiang Mai hairpin stair)* | Spiral/switchback road as **living stair** — Silo helix in asphalt; **landings have lives** | First-gear shelf, gorge drop, ginger for the skull-wire; fern/fig/wild banana; smoky farm coffee under limestone mountain | Winch crews, shrines; **coffee spur**; **Pai** as carnival landing; Khun Dang lodge | *Up is escape / safety* — up is only a delay; the low routes still burn |
-| **Thailand wat** | Sala + bell + valley below *(after the stair)* | One bell-stroke in the dark; tile under heel | Dawn schedule, bowls, sweeping | *Holy calm that finishes you* — return practice, not graduation |
-| **Thailand fields** | Bund marks + forming band + dead field; banana/bamboo/lotus margins | Light crossing rice twice; frogs skip silence; kapok fluff, crushed mint | Sluice logs, Malai’s clipboard, polarity vials | *Miracle you can keep* — also a prize; record may force flight |
-| **Sanxingdui greenhouse** | Empty benches + surviving tomato | Wet mineral soil; chili seed; volunteer basil | Irrigation ticks; lab-cuff stake | *Home restored* — home is three people telling truth badly |
-| **The tell / archive** | Mound strata + shrine crown | Courtroom pressure; chalk dust; cold tea | Contested plaque, photocopy packet, date stacks | *One ancient wound / one sermon* — separate dials; lacuna invites forgery |
-| **Göbekli** | Hill + fox pillar + sealed door | Limestone rain; hill ringing; door lean | Consortium slides, backfill clock, tourist rope | *Civilization as payroll / ownable past* — gathering first; burial as keeping |
-
-**Mappings (Silo → series):** spiral stair → **(1)** Singapore Thread / Circles (body→kin→machine); **(2)** Singapore **mall atriums as literal silos** (sealed cylinder, spiral escalators, level = class); **(3)** Thailand **Pai–Chiang Mai hairpin road** as lived outdoor stair; forbidden curiosity → Maren's field notebook / sealed enclosure / don’t fill the lacuna; cleaning theater → registry arches, Circuit, consortium presentation; mechanical hum → Cube floor-song, tell pressure, hill ringing. Do **not** name *Silo* on-page — stage the geometry.
-
-**Body score — anti-parade (LOCKED 2026-07-26):** sound/motion seeds in Book I
-(Cube too-clean clap; Malacca unfinished clap; wat shared heel-to-toe count; Pai
-staff drop) and Book II (Göbekli feast feet / silent fill) pay off as the Book III
-seasonal gathering's room-body.
+Two or three details to establish place. One that the scene uses. Place tables, flora, Silo geometry, image ledger: **`14_place_craft.md`**.
 
 ## Character interiority
 
-Characters are emotionally complex when their wants conflict, not when the narration explains them at length. Give each major character:
+Characters get complex when their wants conflict. Keep the narration short about why. Give each major character:
 
 - an immediate want in the scene;
 - a longer desire that the immediate want may betray;
@@ -254,15 +209,15 @@ Let characters misunderstand themselves. The narration need not correct them imm
 
 Eli's **close-third narration** changes across the series in sync with emotional development (`27` § Eli, § Wren *Personal function*). He enters uncertain; Wren helps him **feel** without therapizing him on-page. The prose should track that arc — not only what he learns, but **how he sounds while learning it**.
 
-**Volume I — uncertain, substituting.** Default register: tentative, bodily, socially smaller than he wants. He guesses and revises; overload and shame shrink spoken voice (*voice comes out smaller than he wants*). Narration does not rescue him with early certainty — let wrong interpretations stand until conduct contradicts them. Show the survival disguises before the plain name: fear → vigilance, shame → usefulness, grief → investigation, desire → destiny, anger → certainty, loneliness → indispensability. **Early Wren scenes:** desire often arrives as **awkward flirtation** — misread strategic touches, accidental smash or brush, jokes that land wrong (`19` §4). Eli's interior should hedge (*maybe she meant… / maybe that was only the boat*) until conduct earns a plainer name. In Wren scenes, substitutions fail: her presence should **simplify** his interior voice over the chapter — not smarter about cosmology, **more honest about want**. She waits; he finds words; narration may mirror that by shortening sentences and cutting metaphor when he finally names what he means.
+**Volume I — uncertain, substituting.** Default register: tentative, bodily, socially smaller than he wants. He guesses and revises; overload and shame shrink spoken voice (*voice comes out smaller than he wants*). Narration does not rescue him with early certainty — let wrong interpretations stand until conduct contradicts them. Show the survival disguises before the plain name: fear → vigilance, shame → usefulness, grief → investigation, desire → destiny, anger → certainty, loneliness → indispensability. **Early Wren scenes:** desire often arrives as **awkward flirtation** — misread strategic touches, accidental smash or brush, jokes that land wrong (`19` §4). Eli's interior should hedge (*maybe she meant… / maybe that was only the boat*) until conduct earns a plainer name. In Wren scenes his sentences get shorter when he names the want. She waits. He finds words. Cut the metaphor when he finally says what he means.
 
 **Volume II — persuasive, still possessive.** Voice gains confidence and connective leaps (almost-too-neat links the reader should feel as social/magic danger). Interior certainty can outrun consent — he may sound right about the pattern and wrong about jurisdiction. Let narration notice the gap without lecturing (*he knew the route; he did not know whether the route was his to choose*). Wren continues inward work; Rowan challenges public conduct — **spoken** voice in councils may run ahead of **private** uncertainty. **With Rowan on-page:** Eli is **emotionally stronger** than early Vol I — steadier, plain-naming, able to hold space for Rowan's softer register without needing her to regulate him (`26` § Eli/Rowan).
 
-**Volume III — answerable, not oracular.** He can name fear, anger, grief, and want in plain language without converting them to command. Public coordinator voice and private narration may diverge — messianic misreadings happen **around** him; interior track stays human-scaled. Maturity shows as shorter moral self-justification and willingness to be wrong in public. Step-down scenes return toward Vol I scale (smaller, specific) without Vol I confusion — **humble, not collapsed.**
+**Volume III — answerable.** He can name fear, anger, grief, and want in plain language and still refuse to turn them into orders. Public coordinator voice and private narration may diverge — messianic misreadings happen around him; interior track stays human-scaled. Maturity shows as shorter self-justification and a willingness to be wrong in public. Step-down scenes go back toward Vol I scale (smaller, specific) without Vol I confusion.
 
-**Wren's function (all volumes):** not therapist-in-dialogue. She helps him with his feelings **from first contact (Vol I Ch 1–2)** by refusing fake names for real needs, taking perceptions seriously, arguing as an equal, and not filling silences (`27` proof rule). Do not defer emotional recognition to Thailand or Göbekli. **Craft test:** in major Eli/Wren chapters, at least one named feeling moves disguised → acknowledged, and prose register shifts accordingly — **including catamaran and checkpoint scenes.** Cross-ref: `19` § *Personal function*; `31` personal arc lock.
+**Wren's function (all volumes):** She is not his therapist. She helps him with his feelings **from first contact (Vol I Ch 1–2)** by refusing fake names for real needs, taking perceptions seriously, arguing as an equal, and not filling silences (`27` proof rule). Do not defer emotional recognition to Thailand or Göbekli. **Craft test:** in major Eli/Wren chapters, at least one named feeling moves disguised → acknowledged, and the sentences get shorter when he finally names it — including catamaran and checkpoint scenes. Cross-ref: `19` § *Personal function*; `31` personal arc lock.
 
-Do not reduce antagonists to embodiments of ideas. Lang must save lives, coercive systems must answer real dangers, and liberatory factions must offer something genuinely desirable. Moral clarity should emerge from costs and choices, not authorial labeling.
+Lang must save lives. Coercive systems must answer real dangers. Liberatory factions must offer something someone would actually want. Moral clarity comes from costs and choices.
 
 ## Dialogue
 
@@ -274,7 +229,7 @@ Dialogue should pursue an objective: obtain help, conceal fear, test loyalty, de
 - Allow interruption, misreading, and unfinished business.
 - Put exposition inside disagreement, negotiation, procedure, or consequence.
 - After an important line, prefer a physical or social response to an explanatory thought.
-- **The reply may skip the subject entirely.** The strongest version of the line above isn't just non-explanatory — it answers a different question in the room, a chore, a logistics detail, a complaint about something small, while the real answer sits in what didn't get said. Reserve this for a moment that can actually carry the weight of the gap; used every scene it reads as a tic instead of a choice.
+- **The reply may skip the subject entirely.** It answers a different question in the room — a chore, a logistics detail, a complaint about something small — while the real answer sits in what didn't get said. Use this when the gap can carry weight. Every scene, it becomes a tic.
 
 Avoid interchangeable wisdom. No character should exist mainly to state the book's thesis correctly.
 
@@ -309,29 +264,29 @@ Historical material belongs on-page when it changes a present relationship, deci
 Every book after the first will reunite a POV character with someone whose weight was earned in an earlier volume. Apply this discipline at that moment, not only within a single book:
 
 1. **Re-embody, don't re-narrate.** Never have a character explain shared history aloud to someone who was there. Deliver it as an involuntary physical or perceptual reaction in present-tense POV — the body registering it before the mind catches up.
-2. **One concrete image, not a summary.** A single sensory anchor from the earlier scene (an object, a sound, a specific gesture) carries the weight. A recap sentence does not.
+2. **One concrete image.** A single sensory anchor from the earlier scene (an object, a sound, a specific gesture) carries the weight. Drop the recap sentence.
 3. **The beat must work cold first.** A reader who skipped the earlier volume has to feel that something is emotionally loaded here on the scene's own terms. The extra recognition a returning reader gets is a bonus layer, never the only payload — if the beat only works as a callback, it has failed as a scene.
 4. **Behavior carries the history, not exposition.** A reach that goes further than it would for a stranger, a held breath, a name said differently — proof of relationship without a line of backstory.
 5. **Give it a beat, not a paragraph — but an actual beat.** One sentence the surrounding action isn't allowed to swallow is usually enough. Reunions embedded in fast physical sequences (extractions, escapes, combat) still need this held second; do not let logistics crowd it out entirely.
 
 ### Dickinson-adjacent prose discipline — LOCKED 2026-08-11
 
-These rules borrow Dickinson's compression without importing her lyricism. The goal is not poetry; it is prose that lets the reader feel what the narration withholds.
+Borrow the compression. Leave the lyric costume. The reader should feel what the narration withholds.
 
 - **Eli's dash-self-deception — Volume II.** When Eli is lying to himself, let the narration show the hesitation before the comfortable conclusion. Insert a dash where a qualifying clause would "fix" the lie. The reader should feel the revision happen, not be handed the correct interpretation.
 - **Maren's fragment-under-load.** Her wired speech should use Dickinson-style dash-fragments; full sentences only when she chooses them. The one-two watering count is already this rhythm. Lock it: fragment under load, plain only when she exerts control.
-- **Grey's charged silence.** The bounded blank operator's silence is not empty. The reader fills it with fear, not the text with motive. Do not narrate his interior, do not explain his conduct, do not have another character decode him for Eli. His function is the gap Eli cannot stop labeling.
+- **Grey's charged silence.** Do not narrate the blank operator's interior, explain his conduct, or have another character decode him for Eli. The reader fills the gap. Eli will keep labeling it.
 - **Domestic anchor, no recap.** Cross-book recognition beats already require one concrete image. Dickinson precision tightens this: a burned toast smell, a ring on a console, a watering count — no exposition about what it meant last time. The body remembers; the narration need not remind it.
 
 ### Hemingway-adjacent prose discipline — LOCKED 2026-08-11
 
-These rules borrow Hemingway's restraint without importing his machismo or war register. The goal is not minimalism for its own sake; it is prose that earns its weight through what it shows and what it leaves out.
+Borrow the restraint. Leave the war-register costume. Weight comes from what the sentence shows and what it leaves out.
 
 - **Iceberg under pressure.** In danger, grief, or exhaustion, state only the observable action. Let the emotional mass sit below the surface. The reader should feel the weight of what is not said.
 - **Concrete detail does the moral work.** A wet glass, a wound, a stopped watch can carry the feeling a paragraph of abstraction would dilute. Prefer the object to the emotion it stands for.
 - **Short declarative sentences under load.** When the body is under pressure, the prose should compress. Do not elaborate what the character cannot afford to think.
 - **Dialogue that skips the question.** The strongest reply answers a different question in the room — a chore, a complaint, a logistics detail — while the real answer sits in what didn't get said.
-- **No abstraction without a body.** Grace under pressure is not a theme to announce. It appears in what a character does while bleeding, waiting, or holding still.
+- **No abstraction without a body.** Show the person bleeding, waiting, or holding still. Do not announce grace.
 
 ## Thriller structure at scene level
 
@@ -354,7 +309,7 @@ The three prose gears above govern a scene. Nothing governs how they alternate a
 This section governs rhythm, not plot. Beat placement, reveals, and structural turns stay owned by the beatsheets (`31`–`34`); this only constrains how long a gear may run unbroken and what a trough chapter still owes the reader.
 
 - **No more than two consecutive chapters in thriller or visionary gear** without a human-gear chapter or a human-gear movement inside a chapter. Pressure that never drops stops registering as pressure.
-- **A trough chapter is different work, not a rest from the book.** It must still move one of the five scene-level dials (objective, danger, knowledge, relationship, cost). A chapter that only lowers tension without advancing anything is filler with good manners.
+- **A trough chapter is still work.** It must still move one of the five scene-level dials (objective, danger, knowledge, relationship, cost). A chapter that only lowers tension is filler.
 - **Track Eli's want/need gap chapter to chapter**, not only within the locked per-volume voice arc above. If his stated want and his actual need have not diverged or converged since the last chapter, the chapter has not moved him.
 - **Spend visionary gear like a currency with a visible balance.** If the last visionary passage landed two chapters ago, the next one needs a reason beyond "it is time for a wonder beat."
 
@@ -364,13 +319,27 @@ Revision test: chart each chapter of a volume by gear (H/T/V) and by which of th
 
 Violence is confusing, fast, and consequential. Preserve spatial legibility while allowing the viewpoint character's experience to narrow. Track aftermath: pain, lost sleep, damaged trust, medical dependence, legal exposure, shame, and changed capability.
 
-Psionic conflict is intimate before spectacular. Render breath, pressure, attention, involuntary memory, sensory mismatch, loss of agency, and bodily cost. Powers do not erase logistics, consent, or vulnerability. See `38_psionic_combat.md` for system rules.
+Psionic conflict is intimate first. Render breath, pressure, attention, involuntary memory, sensory mismatch, loss of agency, and bodily cost. Powers still leave logistics, consent, and vulnerability in the room. See `38_psionic_combat.md` for system rules.
+
+## Billed power, promise, payoff, faster ending — LOCKED 2026-08-16
+
+Internal steal from Brandon Sanderson's lectures. Do not imitate his prose. Do not put him on first-contact copy (`55`).
+
+**Billed power.** A talent may finish a scene only if the reader has already watched it work or fail. New geometry on the last page is a cheat. Limitations and costs do more work than a new ability: breath, consent, metabolic crash, a fax, a form, a missed Friday. Expand what you have before you add a noun. That is the same job as the twelve-word list.
+
+**Promise, progress, payoff.** A chapter or volume must cash something the reader was already holding: the ring, the westbound mother, the October board, the return-rights sheet. Progress is visible on the page — closer to a person, a route closed, a signature. Do not replace a due payoff with a fresh mystery.
+
+**Yes, but / no, and.** If they get what they came for, it costs an extra thing. If they fail, a new problem arrives. This is the cost → next chapter rule with a name.
+
+**Faster ending.** The last movement of a volume shortens scenes, brings live threads into one place, and drops trough chapters. Book I annex, Book II release, Book III handover, Book IV birth and transfer. Do not add a lecture in the last two chapters.
+
+**Two of three.** In a given stretch the lead should read as at least two of: someone you mind losing, someone who can do the job, someone who starts the next action. Eli often drops the third. If he only receives and feels, give him a move that can fail.
 
 ## Romance and intimacy
 
-Attraction appears through attention, changed behavior, inconvenient knowledge, boundaries, and repeated consent. Metaphysical recognition may exert pressure, but it does not prove love or entitlement.
+Attraction appears through attention, changed behavior, inconvenient knowledge, boundaries, and repeated consent. A field recognition can press on them. It does not prove love or give anyone a claim.
 
-Keep the lovers capable of political, practical, and metaphysical disagreement. A boundary can remain valid without becoming an obstacle the romance must defeat. Intimacy should complicate the thriller: it creates new courage, leverage, misjudgment, obligation, and possible loss.
+Keep the lovers able to disagree about politics, work, and metaphysics. A boundary can stay valid. The romance does not have to defeat it. Intimacy should complicate the thriller: new courage, leverage, misjudgment, obligation, possible loss.
 
 ## Humor
 
@@ -386,11 +355,11 @@ The three published layers should not share one voice:
 | **Companions** | Clear explanatory nonfiction: direct, practical, appropriately sourced |
 | **Record** | Evidentiary and explicit: chronology, claims, sources, uncertainties, falsifiers |
 
-Do not make the novel carry the explanatory duties of the Companions or Record.
+Keep companion and Record explanation out of the novel.
 
 ## Prose craft and revision discipline
 
-**Construction before subtraction — LOCKED 2026-08-11.** Read Beauty, desire, and dramatic multiplicity and Lyricism and imagery above before running any scene through what follows. Those two sections say what a passage should be attempting; everything under this heading is a checklist for what to cut once the attempt has been made. A revision pass that works the checklists without first asking whether the scene reached for something as ambitious as those two sections describe will produce prose that is merely correct. The checklists exist to protect an attempt at beauty from its own bad habits. They are not a substitute for making the attempt.
+**Construction before subtraction — LOCKED 2026-08-11.** Read Beauty, desire, and dramatic multiplicity and Lyricism and imagery above before running a scene through the cut-lists below. Those two sections say what to attempt. This heading says what to cut after you attempted it. A pass that only runs the checklists will give you correct prose with nothing in it.
 
 - Vary sentence length according to attention, not a mechanical pattern.
 - Use fragments sparingly, when perception or impact genuinely fractures.
@@ -438,16 +407,18 @@ The existing rule above against "not X but Y" is necessary but not sufficient �
 
 Patterns 1, 2, 5, and 6 are mechanically searchable during revision: scan drafts for comma chains of four or more items, for runs of three or more short declarative sentences enumerating parallel items (the period-chain and comma/period-mixed forms of pattern 2), for "not because" / "not X, but," for sentences running long enough to need a second breath, and for each word on the pattern-6 list by name. Patterns 3 and 4 need an actual read-through, not a search.
 
+**Frequency ceiling:** no more than one or two hits of any single flagged construction per chapter. Search the whole file (`This is what`, `That is the point`, `not X but`, `There is only`) instead of judging each line alone. A structure reused across a scene (inventory, then a short tag) counts as a repeat even when the words change.
+
 ### Human-prose lock — LOCKED 2026-08-01
 
-The goal is not merely to avoid detectable templates. Prose must feel written by a particular consciousness with partial knowledge, private taste, and uneven attention.
+Prose must feel written by a particular consciousness with partial knowledge, private taste, and uneven attention.
 
 - **Let observation outrun interpretation.** When a wet sleeve, mistimed joke, wrong tool, untouched plate, or delayed answer carries the feeling, stop there. Do not add the sentence explaining what it represents.
 - **Allow residue.** People leave arguments half-understood, use the wrong word, notice irrelevant things, and remember details that do not organize themselves into theme. A scene need not close its conceptual account.
 - **Refuse automatic polish.** Do not give every paragraph a setup, reversal, and quotable landing. Do not make adjacent characters speak in equally compressed wisdom. An awkward, practical, or incomplete line is often more credible.
 - **Keep thought local.** Close narration may infer from what the viewpoint character knows now; it may not quietly become the author's essay voice. Replace abstract judgments with the next thing the body notices or does.
 - **Protect idiolect.** Eli notices load, timing, repairs, routes, bodily noise, and whether he is useful. Wren notices access, presentation, obligation, risk, and what a room is pretending. Somchai notices bodies, supplies, time, and the cost of delay. Rowan notices legitimacy, precedent, private leverage, and futures being arranged. If a sentence could move unchanged between their viewpoints, revise it.
-- **Do not manufacture humanity with clutter.** Random food, fragments, slang, and physical business are not a substitute for motive. Concrete detail belongs because this person would notice it and because it alters pressure, relation, or rhythm.
+- **Do not manufacture humanity with clutter.** Random food, fragments, slang, and physical business cannot replace motive. Concrete detail belongs because this person would notice it and because it alters pressure, relation, or rhythm.
 - **Read aloud across page boundaries.** Repetition often hides between scenes: the same fragment cadence, the same “not X / because Y” correction, the same abstract noun, the same solemn final image. Keep an isolated strong sentence only if the surrounding pages have not already spent its music.
 
 Revision test: highlight every sentence that tells the reader what the previous sentence meant. Delete it first. Restore only the information the scene cannot function without, in the viewpoint character's own vocabulary.
@@ -502,7 +473,7 @@ Revision test for any paragraph: if removing the last sentence changes only the 
 
 ### Ending-craft discipline — LOCKED 2026-08-11
 
-Chapter opens have a seven-rule lock above. Endings — chapter, volume, series — do not, and they carry at least as much of what a reader remembers. A chapter-end, a volume-end, and the series close are not the same job at different sizes; each pays a different debt.
+Chapter opens have a seven-rule lock above. Endings need the same attention. A chapter-end, a volume-end, and the series close each pay a different debt.
 
 **Chapter-end.** End on the changed condition itself (already required under Thriller structure above), not on a sentence explaining what changed. Leave one live thread — do not resolve every question the chapter raised, and do not manufacture a cliffhanger the chapter did not earn. The forward pull comes from a real unanswered cost, not a withheld fact.
 
@@ -559,6 +530,11 @@ Before drafting a scene:
 6. Which prose gear dominates: human, thriller, or visionary?
 7. What remains uncertain, and what evidence becomes firmer?
 8. Is the theme embodied in a choice or being stated by the narration?
+9. Any new proper noun — does it kill an old one on the twelve-word list?
+10. Can you name the human opponent and the Friday job?
+11. Where is the stretch that is only a meal, a joke, a nap, or a repair?
+12. If a talent solves the scene, has the reader already seen that talent work or fail?
+13. What promise from earlier in the book does this chapter pay?
 
 ## Revision passes
 

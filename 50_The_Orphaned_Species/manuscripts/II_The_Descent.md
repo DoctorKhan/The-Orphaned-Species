@@ -4503,10 +4503,6 @@ refused each other. Continuity of surveillance is not continuity of kin."
 Anke confirms the isotope mismatch with the calm of someone who has waited to
 say it to a visitor carrying a treasured book.
 
-Eli feels the correction land. Maren's field notebook is relationship and unfinished
-evidence, not a GPS. A living community has just defeated one of her readings
-before Avebury can pretend the journal knows the way home.
-
 **HOLT** remains true as Maren's mother's line. The single-house inference does
 not.
 
@@ -4549,22 +4545,24 @@ says. "We retired it."
 Marta does not look at the card. "My grandmother used it for the ones who
 went missing at the rings. Not kindly."
 
-Eli sounds it once. *Alb.* The mouth wants to slacken into a children's-book
-word he will not give these shafts.
+Eli sounds it once, aloud. "*Alb.*"
 
-They have people moved, killed, and made into a pattern.
+He opens the notebook to HOLT and starts the letters.
 
-Marta closes the image set.
+Marta puts her hand on the page, not the card.
+
+"The mark. Not their word."
+
+Anke slides the sleeve back into the drawer. "The card stays here."
+
+"It's the same sound as—"
+
+"Then you already have enough to misuse." Marta lifts her hand. "Take the
+mark. Leave the dead more than one meaning."
 
 "You came for a route," she says.
 
-Eli feels shame.
-
 "Yes."
-
-"Take the mark. Leave the dead more than one meaning."
-
-"We will."
 
 She looks at Wren.
 
@@ -5034,7 +5032,14 @@ Pömmelte: three concentric rings.
 Rollright: three standing stones, the same spacing as the pump alarm.
 Men-an-Tol: three uprights with a piercing at the center.
 
-He does not say this aloud. Wren turns from the stones and meets his eye.
+"Same instrument," Eli says.
+
+Hassan keeps the cord taut between two of Callum's marks. "Same spacing. This
+one drains. The rings buried people. The hole lets a body through. Do not make
+them one machine."
+
+Wren looks at the visitor barrier. "If they are one machine, she only needs
+one lock."
 
 The first Custodian strike uses no lance.
 
@@ -5532,10 +5537,8 @@ Callum leaves with Raben Yard.
 The recovery does not return him to the institution that lost him. It returns
 his decisions to him.
 
-Eli understands why Rowan would not let the ledger define completion.
-
-He also understands, watching Wren and Rowan clean mud from the same iron wire
-without discussing who holds which end, why their bodies frighten him.
+Wren and Rowan clean mud from the same iron wire without discussing who holds
+which end. Their bodies frighten him.
 
 They do not look newly reunited.
 
@@ -5543,8 +5546,19 @@ They look like a language resuming in the middle of a sentence.
 
 ---
 
-That night, downstairs, he opens the notebook to HOLT. In the margin, in his
-own hand: *Alba?*
+That night, downstairs, he opens the notebook to HOLT.
+
+Wren comes down for water. She reads the pencil before he finishes the mark.
+
+"*Alba?* People, place, or a cleaner name for your mother?"
+
+He does not answer fast enough.
+
+"If it is a people, that is a hunt list. If it is a place, the ferry clerk
+already did the work. If it is her, I need to know before I sign another house
+that has to honor your return."
+
+He leaves the question mark. He does not write *elf*.
 
 ---
 

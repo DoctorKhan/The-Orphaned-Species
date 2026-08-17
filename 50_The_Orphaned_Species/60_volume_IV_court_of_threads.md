@@ -390,7 +390,13 @@ refuse northern demands, and do not surrender local records to the court.
 South American food, seed, shipping, and technical aid likewise move under
 negotiated reciprocal obligations rather than a destiny to rescue the North.
 
-**Heather Cube, on-page — LOCKED 2026-08-06; GROUND LIVE 2026-08-16:** the Union's bloc-cube sits in whatever North American city the court ends up physically sited in (exact city still open, same consultation-required discipline as the Costa Rica Turning above) — not toured as a restored capital, and not the ruined Washington/San Francisco the cast is explicitly barred from visiting, but present in the volume's ordinary geography the way the court itself is. The ground still behaves: a spring, a planting that will not die in the Lean Year, or Courage-field vertigo the pilgrims came for. The Union's suppression of pilgrim devotion is a response to that live ground, made visible as permits, checkpoints, a crackdown or dispersal the court has to respond to or decline to intervene in (`95_glossary.md` § *Sacred devotion`). Pilgrims are treated as a security problem by the same institutional reflex that already pathologizes threshold onset as neurological contagion. Eli's relationship to it should stay oblique — he is not there to resolve the Cube or its devotion, only to register, once, that the state he is provisionally governing treats a living ground and its people as a threat to be managed, the same instinct he is trying to refuse in his own bounded authority.
+**Heather Cube, on-page — LOCKED 2026-08-06; GROUND LIVE 2026-08-16; CITY LOCKED 2026-08-16:** the court sits in **Denver**. Heather Cube is a denied installation on the first rise of the Front Range west of the city — a pale fence, a spring, a road the permit office files as something else. Street speech keeps **Denver**. Union paper may use Continuity site language. Do not invent a throne-name. The public still has no name for the Cube (`95` § *The Three Cubes*; `59` § *Heather Cube access*). Washington and San Francisco remain ruins the story does not visit. Continuity was already in these mountains; the civilian grid thickened around the denial. Do not tour Denver as a restored capital.
+
+The ground still behaves: a spring at the old cube fence that does not fail in the Lean Year, Courage-field vertigo the pilgrims came for. Suppression of devotion is permits, checkpoints, a crackdown or dispersal the court has to answer or decline (`95` § *Sacred devotion*). Eli's relationship stays oblique — he is not there to resolve the Cube, only to register that the state he is provisionally governing treats a living ground and its people as a threat.
+
+**Colorado teahouse stays a different settlement — LOCKED 2026-08-16.** Book III's Colorado mountain teahouse (`33` Ch 10) is a Living Way node built through negotiated land and water, not a Union suburb and not the foothill fence. Same range. Different town. Do not collapse the two into one town.
+
+**Indigenous layer:** direction already locked in `59` (secrecy sits on an older erasure). Specific nation, tradition, and denser on-page claim remain consultation-required. Ute, Cheyenne, and Arapaho names stay off the page until that pass. A Kastri-style under-name, if needed, is a creek or ridge, not a people.
 
 **The grown corridor / tree lock — LOCKED 2026-08-01; WONDER ON-PAGE 2026-08-16:** The receiving network's
 capacity is biological as well as administrative. Costa Rican watershed and
@@ -481,6 +487,12 @@ defense, and one practical touch may briefly alter their attention. Every signal
 must retain a complete nonromantic explanation. No explicit desire, near-kiss,
 jealous Wren, prolonged body description, or dialogue announcing another life.
 Book III ends with no Rowan/Eli sex, no Rowan/Eli romance, and no pregnancy.
+
+**Pair-competition — LOCKED 2026-08-16:** Book IV's civic pulse is Wren's jealousy
+of public permanence (Rowan/Eli, the child, succession calendars). Resolution is
+conduct in the room. Sex between Rowan and Eli still grants no status. No pulse
+inside the birth. Rotate which two are tense; Wren does not referee Eli/Rowan.
+`19` § *Periodic pair-competition*.
 
 ---
 

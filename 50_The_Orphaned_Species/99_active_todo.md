@@ -76,5 +76,11 @@
 **Fever-scar naming — DONE 2026-08-16**
 [x] 18b. TBI retired as author word. Leftover fever stays. Clinic files may still print TBI if a scene needs the wrong category. Home lock: `15` § *Eli's Fever scar*. Stale childhood-skull / "second head injury" lines swept from LIVE bible + I/III manuscripts.
 
+**Heather city — DONE 2026-08-16**
+[x] 18c. Court = Denver. Cube = denied Front Range foothill west of the city. Book III Colorado teahouse stays a different mountain settlement. Home lock: `60` § *Heather Cube, on-page*. On-page in III handover hall and IV Ch 1 / pilgrim beat.
+
+**Triad pair-competition — DONE 2026-08-16**
+[x] 18d. Periodic pair-competition locked in `19` § *Periodic pair-competition*. II three pulses then rest; III jurisdiction only; IV civic pulse. Wired to `32` audit, `33` romance expansion, `60`, `24`.
+
 **Retired taxonomy removal from companion prose**
 [ ] 19. Verify *The Human Experiment* / *The Social Game* body prose contains no retired framing terms — scaffolds drafted; run grep check and delete retired terms

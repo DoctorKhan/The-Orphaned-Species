@@ -28,7 +28,9 @@
 
 > **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–14 and the **Three pressure rules** (Clock A = keep the rescued world from re-caging; Clock B = Wren-network jurisdiction vs public power + registry/Lang/Sol; cost → next chapter). Beats: `33_volume_III_beatsheet.md`.
 >
-> **Wonder floor on-page — 2026-08-16:** Living Root grows in view (Ch 1 fig/shade); talking stone warms under a hand before vocabulary (Ch 7); test mass *ticks* before the paper (Ch 4); Ch 8 spends a conductor; handover hall sits on live Heather ground (`22`).
+> **Wonder floor on-page — 2026-08-16:** Living Root grows in view (Ch 1 fig/shade); talking stone warms under a hand before vocabulary (Ch 7); test mass *ticks* before the paper (Ch 4); Ch 8 spends a conductor; handover hall sits on live Heather ground in Denver (`22`, `60`).
+>
+> **HEATHER CITY — LOCKED 2026-08-16:** the handover hall is in **Denver**. The Cube is the denied foothill fence west of the city. The Ch 10 Colorado teahouse is a different mountain settlement (`60` § *Heather Cube, on-page*).
 
 > **Governing draft begun 2026-07-28; Ch. 10 revised 2026-07-29.** Present tense, close third. Eli remains
 > the home consciousness; Wren receives only the locked away movements in
@@ -4001,6 +4003,18 @@ overlap.
 
 "Enter it as testimony," Wren says. "Not doctrine."
 
+A man from Sol's table stands before the scribe finishes. "Put the two lights
+in the purpose clause. Him and the healer. The room has already seen the pair."
+
+Eli has Nadiya's packet in the bag at his feet. He could let the pair sit.
+
+"No," he says. "Not two."
+
+Ademir does not look at him. "And no third metaphor for the rest of us to sit
+under."
+
+The scribe does not enter it.
+
 The scribe writes: *One delegation offered a living teaching of cooperation
 between distant peoples; another delegation named its flattening and misuse;
 neither account is adopted as the compact's origin story.*
@@ -5271,6 +5285,31 @@ The compact expires in seven days.
 The crew leaves before anyone can decide whether the armor makes him look like
 a ruler.
 
+He walks them as far as the Union medical gate on the service road. The
+checkpoint has jammed. Too many bodies. A clerk with a list. A boy at the
+barrier who will not let a gurney through without a name for the woman on it.
+The tag on her wrist is a number. She does not have minutes to spend on a
+name.
+
+Eli could move him. The thing in his chest that makes rooms go quiet is right
+there. Lean in. Drop the voice. Let the boy feel what stands in front of him.
+The boy would step aside. The gurney would go through.
+
+He asks.
+
+He is calm. He gives the boy a reason and a way to keep his face. The boy is
+nineteen and covering for a supervisor who will dock him. *I can't. I'm sorry.
+I can't.* He holds the line for ninety seconds until the supervisor comes.
+
+By then the woman has stopped needing to be moved.
+
+Wren finds him after. She looks at the barrier, and the boy still standing
+there, unharmed, intact.
+
+"You kept him whole."
+
+She does not finish the rest.
+
 A delegate from the harbor council stops him at the gate. She is young enough
 to have grown up after the extraction, old enough to know his name from the
 feeds. She does not ask about the junction or the crew. She asks whether he is
@@ -5351,6 +5390,8 @@ Sol's field does not disperse.
 On the tactical map it appears stable, broad, and beautifully simple.
 
 "Join the northern edge," Sol tells Eli. "I will carry the load."
+
+"You asked the boy at the medical gate. She died. You kept his face pretty."
 
 "Can your people exit?"
 
@@ -6773,8 +6814,9 @@ The repair hall has no ceremonial dignity.
 
 Its roof trusses still carry load ratings. Two gantries hang above the delegate floor. Machine bays hold medical stations, food, and the seven certification desks, spaced far enough apart that no single blast radius could touch more than two. The public enters through doors wide enough for freight.
 
-The hall sits on Heather ground. Eli feels it as soon as he takes his seat: a
-lift behind the eyes, the urge to be certain, the same false genius the Union
+The hall sits on Heather ground. Denver. The air is thinner than Belém and
+the west windows hold a pale range. Eli feels it as soon as he takes his seat:
+a lift behind the eyes, the urge to be certain, the same false genius the Union
 loyalists wear like weather. He puts both soles flat and waits until the lift
 is only a room.
 

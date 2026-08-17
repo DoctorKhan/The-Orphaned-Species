@@ -11,6 +11,8 @@
 
 > **GROUNDING RULE.** Psionic action never replaces the material world. Radios, boats, food, sleep, weapons, medicine, border records, weather, and trusted human scouts still decide outcomes. A psionic victory can open a gate; someone still has to walk through it. Every operation is joined to ordinary intelligence work, transport, and human betrayal.
 
+> **Billed power — LOCKED 2026-08-16.** A talent may finish a scene only if the reader has already watched it work or fail. Limitations and costs (coherence, consent, sleep, a form, a missed Friday) do more work than a new ability. Expand what you have before you add a noun. Full lock: `14` § *Billed power, promise, payoff, faster ending*.
+
 > **Altitude is not a combat stat — LOCKED 2026-08-16.** A lance, a Block, a
 > dream-intrusion hit a body. Coherence, proximity, and team decide the
 > exchange (`§1`). Whether the operator is fused with the signal or relating

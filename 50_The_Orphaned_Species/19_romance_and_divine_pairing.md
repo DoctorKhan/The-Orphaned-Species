@@ -505,7 +505,7 @@ Lesson:
 
 > Love is not less sacred because it is chosen in time.
 
-## Rowan returns — the triad forms (LOCKED 2026-08-09; supersedes "plural V, not triad" 2026-07-22 pass; jealousy architecture 2026-07-28; Inana dual-face 2026-08-01; thesis reframed from plurality-advocacy to honesty-under-pressure 2026-08-10)
+## Rowan returns — the triad forms (LOCKED 2026-08-09; supersedes "plural V, not triad" 2026-07-22 pass; jealousy architecture 2026-07-28; Inana dual-face 2026-08-01; thesis reframed from plurality-advocacy to honesty-under-pressure 2026-08-10; pair-competition 2026-08-16)
 
 **Governing structure — Book II:** Rowan returns on-page in Book II and renews a continuing romance with Wren. Eli/Wren also remains a developing romantic bond. Rowan/Eli is not yet romantic. Book II therefore forms a **V centered on Wren**, held through disclosure, consent, and separate terms for each bond — not a contest with one eventual winner. This V is staging, not the destination: three people building an honest triad is something that happens in life, and the series follows what it costs and requires rather than arguing that it should exist. The V lets each bond earn its own honesty before three people have to hold all of it at once. Rowan has an independent west-corridor objective and cannot exist merely to validate or threaten Eli's desirability. Her return **does** provoke jealousy; the jealousy exposes Eli's fear of insignificance and must never reduce Rowan or Wren/Rowan to a device.
 
@@ -569,9 +569,44 @@ can be asymmetrical without becoming a hierarchy: different histories, desires,
 obligations, erotic textures, and futures can all be real. Security comes from
 specificity, truthful conduct, and repair—not interchangeability or possession.
 
+### Periodic pair-competition — LOCKED 2026-08-16
+
+Triad pressure runs as a pulse. Two of the three go tense over a concrete object, repair without rank, then rest. The next pulse uses a different pair, or the same pair only if the object is new.
+
+**What they compete for.** A job, a read, a room, a night. Who Wren turns to for this decision. Who keeps watch. Whose sentence finishes. Eli/Rowan's banter register already does this work (§ *Banter as default register*).
+
+**What ranks the scene and gets cut.** Title, exclusive future, the right to inspect the third bond, a scored winner.
+
+**Rotate the pair.** Always Eli versus Rowan is still a V with two suitors.
+
+| Pair | Contest | Repair |
+|---|---|---|
+| **Wren / Eli** | She manages the exit; he offers usefulness as love | He asks. She lets a risk stay his. |
+| **Wren / Rowan** | Ply fluency versus person-first. Who knows Wren. | Explicit choice after a gate. |
+| **Eli / Rowan** | Who reads the room. Who Wren needs today. | They finish a job without her. One is useful and does not collect. |
+
+One pair per stretch. Do not stack two contests in one chapter.
+
+**Resolution costs the person who was winning the small game.** If Eli out-argues Rowan and then gets the night, the scene has ranked them.
+
+Wren does not referee Eli/Rowan once that bond exists. If she has to translate, the text has a hub.
+
+**Volume map.**
+
+- **Book II — three pulses, then rest.** Ch 5 Wren/Eli (the wall). Ch 6–7 Wren/Rowan (route versus person) with Eli standing in the wrong place. Ch 8 Eli names it; she kisses him; Rowan burns the unsent sheet. Stop before Avebury.
+- **Book III — one or two pulses.** They compete over jurisdiction, routes, who speaks in the hall. They cannot resolve as romance: he holds wartime power. Name the triad. Do not consummate. The withheld act is the resolution.
+- **Book IV — the civic pulse.** Wren's jealousy of public permanence (Rowan/Eli, the child, succession calendars) is the same engine at court scale. Resolution is conduct in the room. Sex between Rowan and Eli still grants no status.
+
+**Rooms that do other work:** mother-release, the III war loss, the IV birth. No pulse inside those.
+
+**Rom-com register (Book II).** The same pulses may be undignified: a tire gauge, a finished sentence, who holds which end of the wire. Humor as intimacy (§ *Street romance register*). Jealousy stays weather.
+
 ### Scene tests and guardrails
 
 - What does each person want that is not romance?
+- Which pair is tense, and what concrete object are they contesting? (`§ Periodic pair-competition`)
+- Did the last pulse use a different pair?
+- Does the repair cost the person who was winning the small game?
 - What old claim is being mistaken for present consent?
 - What do Wren and Rowan share that Eli does not need to enter?
 - What affects Eli enough that Wren must disclose it without surrendering private detail?

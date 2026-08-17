@@ -14,6 +14,7 @@
 |---|---|
 | **Pitch, comps, back-cover, clue-chain gate** | **`55_series_pitch_and_comps.md`** — **HIGH PRIORITY** |
 | Drafting prose / scene tone | `14_literary_speculative_thriller_style_guide.md` first; then `21_present_day_street_skin.md` + `23_2040_present_frame.md` |
+| Place tables, flora, image ledger | `14_place_craft.md` |
 | Entropic allocation / industrial privacy / living budgets | `64_entropic_allocator_perimeters.md` — governing perimeter, EEU, audit, buffer, Bourse, and bloc rules |
 | What still works / drone magazines / spare-parts poverty | `65_replacement_seizure.md` — daily life holds; complex replacement seized |
 | Choosing or switching viewpoint | `14_literary_speculative_thriller_style_guide.md` § *POV architecture — LOCKED* |
@@ -30,7 +31,7 @@
 | **Technology teaches meaning** | **`SERIES_STRUCTURE.md`** + `22` § *Technology teaches meaning* — concepts via runnable tech |
 | **Spirituality goes wrong** | **`SERIES_STRUCTURE.md`** + `40_concepts.md` § *Spirituality goes wrong* — toxic positivity / manifestation bullying; seed III–IV; densify V–X |
 | Decoding Maren's field notebook / linguistic continuity | `52_maren_holts_field_notebook.md` + volume beats `31`–`33` |
-| Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit*; **Inana dual-face** (healing + Wren/Rowan) — `35` § *Inana's Descent*, `19` § *Rowan returns* |
+| Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; **pair-competition** — `19` § *Periodic pair-competition*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit*; **Inana dual-face** (healing + Wren/Rowan) — `35` § *Inana's Descent*, `19` § *Rowan returns* |
 || **Adjacent books / author brands (1–2 names)** | **`63_adjacent_books_and_author_brands.md`** — Wren/Rowan spicy Priority A; Brand A literary + Brand B romance; no per-book or AI-author roster |
 || **Goonies-style kid-crew companion** | Between Book IV and Book V, concurrent with the son's infancy; mixed-age crew (5, 12×2, 14–15, 16) finds Maren's field notebook fragment/Charkha field card/Two-Tree pilot artifact and delivers proof to the right adult without getting claimed; genre valve for main novels' register; `99` item 9 |
 | **Cloister animal houses (Stag, Fox, Bear, Salmon, Ox)** | **`40_concepts.md`** § *Cloister animal houses* — five maturation-and-mentorship lineages with rites of passage; never temperament, occupational, military, or civic categories; Crow retired (bird/flight later); seed `33` Ch 9 |
@@ -132,6 +133,7 @@ Six conflict registers (ecological → technological), sorting machine (racism×
 | Doc | Role |
 |---|---|
 | `14_literary_speculative_thriller_style_guide.md` | Governing prose voice, scene delivery, exposition, ambiguity, and revision tests |
+| `14_place_craft.md` | Place tables, flora, Silo geometry, cross-book image ledger |
 | `44_cultural_moment_and_mass_appeal.md` | Dated cultural strategy: gender rift, loneliness, polarization, AI, futurelessness, and story-first guardrails |
 | `50_teahouse_pilgrimage.md` | Locked postwar teahouse pilgrimage, cloister discipline, sanctuary readiness, health metrics, chosen clans, and background AI |
 | `51_field_sail_and_mandate_peace.md` | Locked Union physics discovery, Commissioner Ma, field-sail constraints, Mandate industrial partnership, and ceasefire |
@@ -142,7 +144,7 @@ Six conflict registers (ecological → technological), sorting machine (racism×
 | `15_character_grounding_and_relatability.md` | Eli Fever scar, healer, relatability guardrails |
 | `16_reader_attachment.md` | Human gravity before mythology |
 | `17_reveal_order_and_reader_impact.md` | Emotional discovery order |
-| `19_romance_and_divine_pairing.md` | Romance curriculum (Wren/Rowan + Wren/Eli plural V; Rowan/Eli non-romantic) |
+| `19_romance_and_divine_pairing.md` | Romance curriculum (V in II → named triad in III → three direct bonds in IV; pair-competition 2026-08-16) |
 | `31_volume_I_beatsheet.md` | Vol I chapter spine |
 | `38_psionic_combat.md` | Tactical system |
 | `99_open_questions.md` | Decision log + cast name table |

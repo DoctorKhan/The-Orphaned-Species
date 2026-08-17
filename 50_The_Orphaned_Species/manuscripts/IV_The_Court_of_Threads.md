@@ -15,6 +15,10 @@
 > volume spans roughly ten months from there through final transfer, birth, and
 > an ordinary later coda.
 >
+> **HEATHER CITY — LOCKED 2026-08-16:** the court sits in **Denver**. Heather Cube
+> is the denied Front Range foothill west of the city. The Book III Colorado
+> teahouse is a different mountain settlement (`60` § *Heather Cube, on-page*).
+>
 > **NORTH–SOUTH ROUTE LOCK — 2026-08-01; WATERSHED 2026-08-01:** The court remains
 > in North America. Evacuation Turning = **Nosara–Samara** receiving with
 > **Tenorio–Miravalles watershed zone** nursery-farm capacity toward **Monteverde**
@@ -82,7 +86,7 @@ words come out without her choosing them.
 
 ---
 
-The repair hall has no ceremonial dignity. Its
+The repair hall has no ceremonial dignity. Denver built it as a freight bay. Its
 roof trusses still carry load ratings. Two gantries hang above the delegate
 floor. Machine bays hold medical stations, food, and the seven verification
 desks, spaced far enough apart that no single blast radius could touch more than
@@ -454,11 +458,12 @@ pencil he has kept sharp since school—an old habit from a classroom where
 correction meant the difference between understanding and repeating.
 
 The Union permit office issues seven revocation orders that same night. Six are
-routine. The seventh stops a group of pilgrims at the western intake tower who
-had walked three days carrying only water and a petition book. They came because
-the Heather ground still behaves: a spring at the old cube fence that did not
-fail when the northern wells dropped, and a vertigo in the inner court that
-the petition book calls courage and the officer calls contagion. Their permits
+routine. The seventh stops a group of pilgrims at Denver's western intake tower
+who had walked three days carrying only water and a petition book. They came
+because the Heather ground still behaves: a spring at the old cube fence, up
+in the first foothills, that did not fail when the northern wells dropped, and
+a vertigo in the inner court that the petition book calls courage and the
+officer calls contagion. Their permits
 are withheld on the grounds that the route they named passes within two
 kilometers of a security installation the Union has not declared. The officer
 who holds their documents is young enough that his voice cracks once before he
@@ -6146,32 +6151,15 @@ Rowan's next contraction begins.
 
 Eli puts down the slate.
 
-He stays.
+He fills the cup Mina left on the floor. He counts with Rowan. When he loses
+the number she puts her hand on his wrist, the way Maren used to. He does not
+pick the slate up again.
 
 ---
 
 Eli has not slept in eleven days.
 
-His hand shakes. He has refused to call a healer. He has refused to let
-anyone else make the succession decision. He has refused to claim the birth as
-continuity proof. He has refused to name a successor. He has refused to stay
-after the vote and he has refused to leave before it.
-
-He stands in the corridor outside the assembly with his hands at his sides and
-thinks back to the strait.
-
-Not the breach itself. The morning after.
-
-He and Kiran in the skiff, the patched sail swallowing whatever wind was left,
-the wall-shadow lane he chose because he could not outrun the storm but he could
-outplace it. His father's hands teaching him to feel the cloth before he saw
-the air. His mother's voice making the lesson habit and not rhyme. The open
-water still out there, glittering, indifferent, his for that one lane and no
-longer.
-
-He had thought then that the win was the point.
-
-He knows now that the lane was.
+His hand shakes on the cup.
 
 The assembly votes.
 

@@ -1575,17 +1575,13 @@ He drinks. The tea is too sweet. It is the first thing that belongs entirely to 
 
 Kitt nods once, as if that were the only acceptable answer. "My grandmother said the stone borrows. Borrowing means returning. You don't keep what isn't yours."
 
-Wren's shoulders stay cold. Eli can feel the three degrees from the tiller without turning. He wants to explain Ila the way he wants to explain the breach: all at once, correctly, so no one files him wrong. There is no sentence. There is only the next hour.
-
 ---
 
-Wren watched the whole thing from the boat.
+Wren watched the whole thing from the boat. Her shoulders at the tiller drop
+three degrees and stay there.
 
-He understands later—days later, assembling it—what she saw. Eli sitting at a shrine stone with his eyes shut, going somewhere she could not follow or verify. Coming back weeping for a woman. Saying a woman's name, tender and wrecked over someone who is not in the world. And he sees the conclusion land in her—he watches it happen that same evening in the set of her shoulders at the tiller—the courier arithmetic filing him under a heading she has seen before: *another one who wants the dead more than the living. Another man in love with a destiny.*
-
-She goes colder by exactly three degrees, and is flawless about it.
-
-He does not explain. There is no sentence yet that does not sound like what she thinks it is. What he can do is change the next hour.
+He does not explain. There is no sentence yet that does not sound like what
+her face has already filed.
 
 "Before we document anything at the cooperative," he says, still wrecked, "we tell Malai—or whoever keeps the west block—what opening a stone costs. Not instruments first. Consent first. And I don't sit another doorway without you knowing I'm about to."
 
@@ -2137,7 +2133,20 @@ He types *Coming* and deletes it.
 
 He types *Leave now* and deletes that too.
 
-What he sends is: *I ate. Wire cleared?*
+The Monday deposit is still unpaid. Wren's brick sits on the fan housing,
+charging both phones.
+
+"Her clinic," he says. "I never sent it."
+
+Wren does not take the brick back. "How much."
+
+He names the bed hold.
+
+She opens remittance and turns the slate so he has to press send himself.
+
+Dara watches the north freight list and does not comment.
+
+What he types after is: *I ate. Sent.*
 
 The answer comes before the screen dims.
 

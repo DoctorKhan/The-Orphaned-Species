@@ -665,18 +665,20 @@ The following are **not unresolved canon**; they are local staging choices: the 
 
 ## Romance cost audit — Vol II (`19`, `27` § Wren)
 
-| Ch | Status | Job |
-|---|---|---|
-| 1 | **LOCK** | Bill Vol I; usefulness-as-love named; Wren refuses to become Eli's debt |
-| 2 | **LOCK** | Played love versus truthful access; curator's hard boundary |
-| 3 | **LOCK** | Eli chooses people over perfect evidence; Wren sees the choice hold |
-| 4 | **LOCK** | Somchai's bodily boundary; Sol offers counterfeit recognition |
-| 5 | **LOCK** | Mother/Wren replacement fear; Eli reaches for Wren as home and is refused |
-| 6 | **LOCK** | Rowan returns with independent objective; disclosure; fluency makes Eli feel provisional; **Inana romance face** begins as conduct |
-| 7 | **LOCK** | Person-first recovery; Wren/Rowan renew only after conduct and explicit choice (**Inana romance face** payoff — gates/attend/return-with-cost) |
-| 8 | **LOCK** | Ordinary Wren/Rowan aftermath; Eli names jealousy without making a claim |
-| 9 | **LOCK** | Wren chooses Eli positively; neither romance grants operational authority |
-| 10 | **LOCK** | Separate bonds continue; Rowan/Eli respect and boundaries remain non-romantic |
+> **Pair-competition — LOCKED 2026-08-16:** three pulses, then rest. Ch 5 Wren/Eli. Ch 6–7 Wren/Rowan. Ch 8 names and repairs. Stop before Avebury. `19` § *Periodic pair-competition*.
+
+| Ch | Status | Job | Pair |
+|---|---|---|---|
+| 1 | **LOCK** | Bill Vol I; usefulness-as-love named; Wren refuses to become Eli's debt | — |
+| 2 | **LOCK** | Played love versus truthful access; curator's hard boundary | — |
+| 3 | **LOCK** | Eli chooses people over perfect evidence; Wren sees the choice hold | — |
+| 4 | **LOCK** | Somchai's bodily boundary; Sol offers counterfeit recognition | — |
+| 5 | **LOCK** | Mother/Wren replacement fear; Eli reaches for Wren as home and is refused | **Wren/Eli** |
+| 6 | **LOCK** | Rowan returns with independent objective; disclosure; fluency makes Eli feel provisional; **Inana romance face** begins as conduct | **Wren/Rowan** |
+| 7 | **LOCK** | Person-first recovery; Wren/Rowan renew only after conduct and explicit choice (**Inana romance face** payoff — gates/attend/return-with-cost) | **Wren/Rowan** (same pulse) |
+| 8 | **LOCK** | Ordinary Wren/Rowan aftermath; Eli names jealousy without making a claim | **Eli names / repair** |
+| 9 | **LOCK** | Wren chooses Eli positively; neither romance grants operational authority | rest |
+| 10 | **LOCK** | Separate bonds continue; Rowan/Eli respect and boundaries remain non-romantic | rest |
 
 **Vol II drift risks:** Ch 9 commitments without Ch 5–8 damage and repair become
 too easy; Wren/Rowan renewal without Ch 6–7 operational conflict becomes
