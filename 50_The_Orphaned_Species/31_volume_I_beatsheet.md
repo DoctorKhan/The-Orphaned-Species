@@ -653,7 +653,7 @@ Singapore archive, clinical corridors, **cure framing** — not punitive Fractur
 
 **Vol I drift risk:** Ch 3–4 aftermath can create premature intimacy if rescue is mistaken for trust. Bill resentment **on dialogue**, not only in beat-sheet costs. Ch 10 must leave Eli morally unfinished; **Ch 13 rupture** must complete the personal override and land after that unresolved trust-up.
 
-**Incompatibility marker — LOCKED 2026-08-16:** Wren/Eli are not temperamentally matched. Wren routes around feeling; Eli wants to name it and settle it. She finds his earnestness tiring; he reads her composure as cold. The beatsheet should include at least one missed plan, skipped meal, or joke that lands for one and not the other — ordinary inconvenience, not dramatized breakup fuel. The attraction survives these mismatches; it does not erase them.
+**Incompatibility marker — LOCKED 2026-08-16:** Wren/Eli mismatch on tempo. Wren routes around feeling; Eli wants to name it and settle it. She finds his earnestness tiring; he reads her composure as cold. Include at least one missed plan, skipped meal, or off-timing joke in the beatsheet — ordinary inconvenience, not dramatized breakup fuel. The attraction survives the mismatch.
 
 ---
 

@@ -926,18 +926,17 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   a future certification is ever compromised. It is stated on the record and
   then not used. Chekhov's clause for Book IV — the reader should half-forget
   it until it matters.
-|- **Rowan/Eli love — LOCKED 2026-08-16:** they have already named their love and
+||- **Rowan/Eli love — LOCKED 2026-08-16:** they have already named their love and
   refused to convert Eli's office into access. After he signs away command,
   Rowan checks his injured hand in the service corridor. Eli asks before
   kissing her. The kiss begins no office, household, or co-parent promise.
   Wren/Rowan and Wren/Eli remain intact; Wren has received the truth directly
   from each of them. **Incompatibility marker — LOCKED 2026-08-16:** their desire
-  is real but cramped — Rowan is disciplined by wartime duty and by the
-  difference between wanting a person and letting herself want relief; Eli
-  mistakes both. A missed plan, a shared watch they cancel, or a moment when
-  one of them is simply unavailable should recur as ordinary cost, not
-  postponed climax. The relationship does not reward Eli for being the
-  protagonist.
+  is real and cramped — Rowan is disciplined by wartime duty and by wanting
+  the person more than the comfort of wanting him; Eli mistakes the difference.
+  A missed plan, a shared watch they cancel, or a moment when one of them is
+  simply unavailable should recur as ordinary cost — not saved for climax. The
+  relationship does not reward Eli for being the protagonist.
 - **End hook:** the crown is no longer Eli's. The two grassroots institutions
   stand inside government because they built it, not because they survived an
   attack on it — which is exactly what makes the new settlement worth attacking
