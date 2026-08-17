@@ -52,6 +52,7 @@ BOOKS = [
 # ---------------------------------------------------------------------------
 
 NOT_X_BUT_Y = re.compile(r"\bnot\b[^.\n]{0,30}\bbut\b", re.IGNORECASE)
+TIDY_COMPARISON = re.compile(r"(?:the way|like)[^.\n]{0,40}(?:the way|like)", re.IGNORECASE)
 STACKED_EM_DASHES = re.compile(r"[^.!?\n]*—[^.!?\n]*—[^.!?\n]*")
 COLON_HEAVY = re.compile(r":[^:\n]{0,40}:[^:\n]{0,40}:")
 
@@ -173,6 +174,10 @@ def audit_chapter(title: str, body: str, lines: list[str]) -> dict:
     not_x_but_y = NOT_X_BUT_Y.findall(text)
     if not_x_but_y:
         flags.append(f"NOT-X-BUT-Y ({len(not_x_but_y)} hits)")
+
+    tidy_comparisons = TIDY_COMPARISON.findall(text)
+    if tidy_comparisons:
+        flags.append(f"TIDY-COMPARISON ({len(tidy_comparisons)} hits)")
 
     stacked_em = STACKED_EM_DASHES.findall(text)
     if stacked_em:
@@ -365,11 +370,13 @@ def generate_audit(book_cfg):
     md.append("4. `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY` check the first paragraph only.")
     md.append("5. `SHORT-PARA-RUN` / `LONG-PARAGRAPH` / `IDENTICAL-PARA-OPENING` are rhythm flags, not prose verdicts. Review in context.")
     md.append("6. Paragraph metrics are collected per-chapter; short/long paragraph counts can be inflated by dialogue, metadata, or intentional rhythm.")
+    md.append("7. `TIDY-COMPARISON` flags symmetrical simile syntax; review for interchangeability, not every instance is wrong.")
     md.append("")
     md.append("## Methodology")
     md.append("")
     md.append("Pattern checks applied:")
     md.append("- `NOT-X-BUT-Y`: default contrastive shape")
+    md.append("- `TIDY-COMPARISON`: symmetrical simile/comparison syntax")
     md.append("- `STACKED-EM-DASHES`: 2+ em dashes in one sentence")
     md.append("- `COLON-HEAVY`: 2+ colons in one sentence")
     md.append("- `ECHO-CLOSER`: final-sentence thematic restatement")
