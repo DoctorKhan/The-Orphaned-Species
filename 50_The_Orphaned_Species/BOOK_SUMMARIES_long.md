@@ -21,7 +21,7 @@
 - **Somchai Vichai** — Thai field medic; true healer (depth vs. Eli's bandwidth). Enters Book II.
 - **Diego Méndez** — manuscript handle **Sol**; burned would-be prophet and Eli's dark mirror (messiah hunger). Enters Book II.
 - **Peter Lang** — manuscript handle **Lang**; runs the Charkha suppression/acquisition apparatus; the reasonable antagonist. Looms in I, negotiates in III.
-- **The Custodians** — rival psion unit, collared carriers: **Anika Voss** (manuscript handle **Anika**; Lead/Locker), **Tommy Reyes** (Lance), **Sora Vithan** (Shield/conscience), **Jin "Grey" Pak** (Mask/scout).
+|- **The Custodians** — rival psion unit, collared carriers: **Anika Voss** (manuscript handle **Anika**; Lead/Locker), **Tommy Reyes** (Lance), **Sora Vithan** (Shield/conscience), **the scout** (unnamed functional role).
 - **Hassan** — witness/former clerk who crossed Rasel's Mandate transfer and Maren's later custody chain; carries Rasel's wedding ring; recaptured in Malacca, rescued in Book II.
 - **Support:** Babaji, Suresh, Mei, Nico, Salmah, Asha, Shireen, Dara Phommasone, Luo Meilin, Qiao Wen, Malai and the Thailand cooperative. **Priya Nair — retired 2026-07-25** (attestation/cohort beats → Wren).
 - **Deep-time threads:** **Ila** (Thailand midpoint), **Aru** + **Daskar** (Göbekli — Book II), **Tem** (17:1 grain pit), **Adapa** (Mesopotamia — Book II), **Anthea** + pupil **Lira** (Rollright), **Cuno** (Stonehenge) → **Derw** → **Aedan**.

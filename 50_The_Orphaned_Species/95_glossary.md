@@ -390,12 +390,12 @@ is not Wren's status. **Wren is a house Weaver and Knotter.** `29`.
 **The Charkhas / Charkha** *(ordinary shorthand: **the Charkha**;
 **Measure** mainly in formal records and technical program language)* — a family
 of covert lineages, not a single state, corporation, or omniscient mastermind.
-**Origin lock — 2026-08-02; date locked 2026-08-16:** the first Charkhas were human factions formed around **2000 BCE** after
-the original elf encounters around one question: control the elves or destroy
-them. The control lineage developed classification, containment, harnessing,
+**Origin lock — 2026-08-02; chariot ancestry and date locked 2026-08-16:** the first Charkha houses descended from specialist and ruling families attached to early spoke-wheeled chariot cultures around **2000 BCE**. Their campaigns encountered surviving elf and human psionic communities along the western stone routes. One faction captured and harnessed practitioners. Another destroyed them and their descendants. Chariot expansion carried some houses across the Old World; service, marriage, adoption, and recruitment carried them into later courts. They became multiethnic lineages. Most descendants of Bronze Age steppe peoples have no Charkha connection.
+
+The control lineage developed classification, containment, harnessing,
 and carrier registries; the destruction lineage developed purges, dead-zone
 scour, and anti-elven weapons. They shared methods and founding fear while
-remaining rivals. Across centuries their descendants embedded themselves in
+remaining rivals. Across centuries Charkha descendants embedded themselves in
 governments, militaries, intelligence services, clinics, research institutions,
 religious authorities, contractors, and Coalition ports. Different Charkhas can
 serve, infiltrate, betray, or attack one another inside the same government.
@@ -403,6 +403,35 @@ The Union and Eastern Mandate each maintain their own official psion programs;
 the Charkhas operate in and around those programs, conducting deniable
 extractions, recruitment, sabotage, and proxy attacks. Coalition gray space is
 their principal refuge and interchange, not a unified headquarters.
+
+**Continuity lock — 2026-08-16:** a Charkha lineage preserves a small keyed
+archive, trained successors, access to one or more charged sites, and positions
+inside whatever institution can control practitioners in that era. Descent is
+only one succession method; marriage, adoption, apprenticeship, recruitment,
+theft, and revived dormant records also carry the work. Houses die, split, lose
+knowledge, and make false continuity claims. The scarce strategic value of a
+working psion gives rulers and institutions a recurring reason to preserve the
+custody chain.
+
+**Witch-hunt and foliate-head lock — 2026-08-16:** Charkha branches exploited
+European witch persecutions as a screening environment; they did not create or
+centrally direct the historical persecutions. Most accused people were ordinary
+and innocent. Some medieval Charkha cells traveled through stoneworking and
+cathedral workshops. A coded subset of foliate heads marks living routes or
+tested practitioners through placement and tool detail. Most foliate heads are
+ordinary medieval Christian or decorative images. Modern Freemasonry is a
+separate early-modern organization, not a Charkha front.
+
+**Modern program lock — 2026-08-16:** Charkha descendants occupy selected senior
+posts in governments, universities, hospitals, foundations, intelligence
+services, and defense research. University labs and clinics provide a credible
+intake route: legitimate anomaly research produces a signal record, a linked
+official classifies the case, and a national program receives the person.
+Governments own those programs; Charkha houses influence their design and fight
+over access. Programs combine real training and medical care with secrecy,
+dependency, controlled housing, family leverage, compulsory testing, and
+collars. Most officials, faculty, and researchers have no knowledge of the
+hidden pipeline.
 
 **Current reveal (LOCKED 2026-08-02):** unnamed in Book I—Eli sees
 Mandate/father (Rasel's son / loose ends). The Charkha wears Mandate's

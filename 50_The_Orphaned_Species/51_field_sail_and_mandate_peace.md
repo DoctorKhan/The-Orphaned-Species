@@ -43,7 +43,7 @@ What it can eventually provide:
 - a possible path to slow interstellar precursor voyages;
 - instruments capable of testing whether the old Heaven-side routes can be found again.
 
-What it does **not** provide in the trilogy:
+What it does **not** provide in the present-day arc:
 
 - faster-than-light travel;
 - teleportation;

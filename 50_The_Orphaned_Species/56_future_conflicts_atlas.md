@@ -6,22 +6,23 @@
 
 ## One-line thesis
 
-**Climate displacement and war fill the world with people old institutions never planned for; every bloc's first reflex is to sort them into saved, catalogued, or spent instead of expanding the keyboard.** The trilogy dramatizes whether **polyphonic sanctuary** (Pelangi, Malacca, threshold houses, compact, teahouse) can replicate faster than the **sorting machine** hardens.
+**Climate displacement and war fill the world with people old institutions never planned for; every bloc's first reflex is to sort them into saved, catalogued, or spent instead of expanding the keyboard.** The present-day arc dramatizes whether **polyphonic sanctuary** (Pelangi, Malacca, threshold houses, compact, teahouse) can replicate faster than the **sorting machine** hardens.
 
 ---
 
 ## Macro timeline (author — never date on-page)
 
-|| Phase | Period | Trilogy |
-|---|---|---|
-|| **Acceleration** | Late 2020s | Off-page backstory: climate displacement ↑; AI/biotech mature |
-|| **Militarization** | Early 2030s | Carrier registries as health-and-security; Maren/Lang research |
-|| **Turning wars** | Mid 2030s | Cyber + shipping war; identity systems weaponized |
-|| **Fever Years** | ~2037–39 | Outbreak + lockdown; emergency powers; merged databases |
-|| **Armed reopening** | ~2039–40 | **Book I opens here** — Malacca, Strait, Pelangi |
-|| **Awakening War** | Book III Ch 4+ | Registry seizure + Mandate strikes; distinct from WWIII hottest phase |
-|| **Compact + ceasefire** | Book III late | Field-sail proof; corridors stand down; proxy fronts remain |
-|| **Open adventure** | Post-coda | Ship years away; teahouse replication; war in the room, not destiny |
+||| Phase | Period | Present-day arc |
+|---|---|---|---|
+||| **Acceleration** | Late 2020s | Off-page backstory: climate displacement ↑; AI/biotech mature |
+||| **Militarization** | Early 2030s | Carrier registries as health-and-security; Maren/Lang research |
+||| **Turning wars** | Mid 2030s | Cyber + shipping war; identity systems weaponized |
+||| **Fever Years** | ~2037–39 | Outbreak + lockdown; emergency powers; merged databases |
+||| **Armed reopening** | ~2039–40 | **Book I opens here** — Malacca, Strait, Pelangi |
+||| **Awakening War** | Book III Ch 4+ | Registry seizure + Mandate strikes; distinct from WWIII hottest phase |
+||| **Lean Year / rebuild** | Book IV | Interregional compact tested at scale |
+||| **Compact + ceasefire** | Book III late | Field-sail proof; corridors stand down; proxy fronts remain |
+||| **Open adventure** | Post-coda | Ship years away; teahouse replication; war in the room, not destiny |
 
 Full detail: `23_2040_present_frame.md` § Macro timeline, § the Turning.
 

@@ -45,9 +45,12 @@
 > **Book II ancient-conspiracy payoff — OPEN 2026-08-16:** the description and
 > governing beat sheet now promise that Eli's search for Maren uncovers Charkha
 > lineages operating since roughly 2000 BCE. The manuscript has the Pömmelte
-> transfer mark and modern Charkha records. It still needs the later corroborating
-> record and firsthand confirmation required by `32`; one repeated symbol is not
-> enough.
+> transfer mark and modern Charkha records. It still needs the coded foliate-head
+> link, chariot-house custody evidence, witch-trial or hospital custody records,
+> one university-to-government psion referral, and firsthand confirmation
+> required by `32`; one repeated symbol is not enough. The historical delivery
+> must state that most foliate heads have no Charkha function, most accused
+> witches had no psionic capacity, and modern Freemasonry is separate.
 > **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-08-09, PROSE RECONCILED:**
 > The series now ends in a women-led court volume. Book III's handover is
 > real and complete for Eli himself — a genuine transfer, in one hall, under
