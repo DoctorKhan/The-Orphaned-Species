@@ -12,7 +12,7 @@
 - **Khun Dang & Kru Dao KEPT, differentiated 2026-08-06.** Khun Dang (kitchen/knife/song, hands-as-weather) and Kru Dao (locked first martial training, stance-as-exit-route) now read differently on the page; Kru Dao no longer "looks at his hands the way Khun Dang did."
 - **Want-or-unnamed rule — NEW DRAFTING LAW:** a character who appears on-page gets a **name only if they carry a stated want in their own idiom**. Purely functional roles (dispatchers, pier leads, case-carriers, gate officers) go **unnamed** ("the scout," "the pier lead"). Evidence from the census: every memorable local (Malai, Salmah, Dara, Morwen, Eleri, Tomas, Ilyas, Selin) had an on-page want; every forgettable one (Jin Pak, Pin, Gareth, Jalen, Lopa, Tala, Qiao, Ma) was pure function. Names are a budget; spend them on wants.
 - **Reuse-over-invent — NEW DEFAULT:** before creating a new named local, check whether an existing character (established keeper, Weaver, Thread hand, cooperative member, prior-volume local with an open thread) can carry the beat. Reused faces accumulate development; invented faces dilute it. New locals are still allowed where geography/identity genuinely demands (Costa Rica, teahouse routes), but the first question is always *who do we already have?*
-- **Return rule — NEW DRAFTING LAW (2026-08-06):** every named character who survives Book I earns at least one named on-page return or one named on-page consequence in Books II–IV before the series closes — otherwise the character is demoted to quarry. "Optional echo" in the placement table is a decision owed at the next volume's drafting, not a permanent state. Mei and Suresh confirmed as the Pelangi home-node through Book III (`33` § Geography); Kiran, Salmah, Malai, and Dara each need a named beat or a named cost (seized boat, burned permit) that reaches a later page.
+- **Return rule — REVISED 2026-08-16:** a named Book I survivor is live only if a later page names them or names a cost that still hurts. **Paid:** Mei, Suresh (Pelangi home-node through III); Salmah (boat seized, I); Qiao (clearance, I); Wren (credential, I). **Paid this pass:** **Malai** (III garden packet); **Dara Phommasone** (III still on the highland list, still angry). **Quarry for later appearance:** Kiran. **Stay off-page:** Shireen (voice note only). Do not invent a new local until Malai and Dara have landed.
 - **Qiao stake line added (Book I Ch 12):** his clearance now has a named personal cost (eleven years, first-light pit) so its loss lands.
 - **Sora Vithan — LOCKED 2026-08-06; chapter-pinned 2026-08-08:** defect confirmed; end state locked. Sora defects into Wren's network in Book III and dies there — not as martyr, not saving Eli, but protecting the threshold network she chose. **Death lands in Vol III Ch 8** (`33_volume_III_beatsheet.md` § *Ch 8*), the same distant-corridor engagement where the rival national team's identity resolves; St Michael medal recovered and returned to her sister, not kept as evidence. **The cost specific to Wren lands one chapter later, in Ch 9's hearing** (`33` § *Ch 9*, "Wren's cost, named"): the person who owed her Mira's truth is the person who pays the price of Wren's choice to keep the network open, and that truth dies with her, unpaid — Wren carries it into the hearing room rather than testifying to it. Her defection is the named Extra man/woman who chose differently from Sol — her route out is the proof that the split is character-shaped, not category-shaped.
 - **RESOLVED 2026-08-06:** Wren's infertility item → locked as IV discovery scene + unexplained latent-repair reversal in the IV→V interval; Wren/Eli son born with no title (`26` § Wren discovery; `60` § End state; `99` § latent repair).
@@ -139,8 +139,8 @@ local conservators decide what the room means.
   to people moving between systems. Distance and accumulated work ended their
   romance without completing a Weaver unbinding. Book II makes the question
   concrete when displaced Wren must be received by Rowan's corridor.
-- **Independent objective — LOCKED 2026-08-16:** If Eli vanished tomorrow, Wren would still be trying to get a **signed right of return** onto every house attestation she touches, so nobody can be moved the way Mira was. This is a weekly paper clock, not a feeling. Book I after Thailand she sends the draft south to Asha whether she follows Eli or not. Book II she puts the same clause on Rowan's table; Callum is four days overdue and Rowan will not wait for Wren's form. A reader should be able to say what Wren is doing that is not helping Eli.
-- **The deepest want (author direction 2026-07-22 — beneath the runner):** she wants to be **taken care of. To be held.** This is the floor under everything: *falls apart when cared for* and *snaps at unasked kindness* are not quirks — the want is so deep that receiving it casually is unbearable. And the older ex taught her that protection becomes control, so she can only be held by someone **strong enough to hold without gripping** — strength that never converts to custody. **She senses that capacity in Eli before it is real** — he is strong enough, but not without developing himself — which is why she helps him come to fruition, and why the helping is never only mentorship or mission: half-knowingly, she is building the one person who could finally hold her safely. His growth matters to her beyond anything she'd admit; his weakness frightens her more than danger does, because if he stays unfinished, no one ever holds her. **Reciprocal fruition** (`19` § Personal function): she grows his emotional capacity — feeling separated from disguise — and his grown strength becomes the holding she wants; the trade is real in both directions and named in neither. **His half of the regulation (author direction 2026-07-22): Eli keeps Wren grounded.** He is the stillest thing in her life — splice-calm, garden patience, the cup-craft steadiness he learned from the lay teachings without knowing their source — and the runner's missing counterweight: near him her speed has somewhere to idle. Behavior, never speech: she starts taking her one-cup rail-stares *beside* him; sleeps through a whole night once when he has the watch; catches herself matching his breath during a crossing and files the discovery with the plank trip. He grounds her the way she opens him — sideways, deniably, in freight terms. **The penetration mechanism (author direction 2026-07-22):** she gets through him because **his armor is amateur counterfeit and she is the professional** — usefulness, deflection-into-work, silence are performances, and she has worn every performance there is; his are glass to her. The inversion completes it: **his gift barely works on her** — her body is trained to lie ("unexpectedly precise when lying"), her signals professionally managed — so the boy who reads everyone must learn this one woman by ordinary means: attention, time, error, repair. What he *can* reach is the one unfaked thing in her — the turbulence itself, the runner's engine — which is why his real stillness regulates what no management ever could. She reads past every performance he tries because she's given every one of those performances herself. He can't read her the same way — her signals are trained to lie — so he learns her the slow way instead: attention, time, error, repair. Neither shortcut works on the real woman or the real boy, only on the roles each has practiced. Keep it strictly non-psionic: she reads him as craft, he steadies her as presence; no Lance, no probe, ever, between them. **Climactic register:** her being-held, when it finally comes, is *her* bravest act — the spider-cup inverted; receiving is her cliff. Never staged as a woman completed by a man: it is chosen, late, with her armor set down by her own hands. **Social dimension (`29` § The burden falls on masculine-leaning women):** her unheld state is not only personal wound but the settlement's design — she is the type specimen of the women conscripted into the vacated spending-work, doubly unkept: wrong-shaped for the settlements' warmth, unfiled by any order. When Eli holds her, the book is also showing the first maintenance ever performed on the settlement's load-bearing wall.
+- **Independent objective — LOCKED 2026-08-16:** If Eli vanished tomorrow, Wren would still be trying to get a **signed right of return** onto every house attestation she touches, so nobody can be moved the way Mira was. This is the load-bearing want. Book I after Thailand she sends the draft south to Asha. Book II she puts the same clause on Rowan's table. A reader should be able to say what Wren is doing that is not helping Eli.
+- **Private texture, not a plot engine — REVISED 2026-08-16:** she wants to be held, and she snaps at unasked kindness. Play it in conduct (rail-stares, one night of sleep when he has the watch). Do not treat her as building Eli into the person who can hold her. Return rights is the character. Being held is a later cliff, chosen by her. She reads him as craft; he steadies her as presence. No Lance, no probe, between them.
 - **Unreconciled:** Rowan and the older ex remember who she was before the armor; she never finished grieving **Mira** **or** returning to ordinary want; belief that love = **manage danger first** — custody instinct from Rowan, learned suspicion that protection becomes control from the older asymmetry.
 - **Discovery — infertile, learned in Book IV as Rowan's want for a child becomes real (2026-07-28; SUPERSEDED IN PART 2026-08-06):** the Book IV discovery scene stands as written — the diagnosis lands at the worst time, converts the positional fear into one literal fact, and her chosen role with Tara is earned *after* the door appears closed. **What changes (LOCKED 2026-08-06):** the diagnosis is not the last word on her body. In the IV→V interval her latent repair capacity surfaces unexplained (`99` § latent repair lock) and the door reopens without procedure, witness, or anyone able to say how — a surprise pregnancy, not a pursued one. The son that follows is born with no title and no destiny (`60` § End state). The sequence is the point: she chose her place in Tara's life believing the biological door was closed; the boy arrives after that choice, into a woman who no longer needs him to be her answer. Nothing in Book IV foreshadows the reversal — no miracle setup, no hopeful hint. The closed door is real when it closes. **Ages pinned 2026-08-06:** Wren is 19 in Book I; the infertility discovery lands at ~23–24 (Book IV) and reads to the reader as **construct consequence** (`99` § early reproductive decline — the weapon taxing her biology early); the son is born in her late twenties, near-peer to Tara. No forties; the surprise is earliness, not lateness — both the closing and the reopening arrive ahead of schedule, unasked.
 
@@ -251,6 +251,8 @@ after Wren's first Book II recovery → becomes one of the people who can constr
 Wren in the Volume III coexistence model.
 
 **Guardrails:** not a saintly conscience, therapist, surrogate mother, or disposable proof of stakes. Her procedural caution must create one real cost, and her institutional alternative must solve one problem Wren's improvisation cannot.
+
+**Refuse Wren without Rowan — LOCKED 2026-08-16:** at least one Book III scene where Asha tells Wren no and Rowan is not in the room. On-page: `III` hearing stretch. The no has to cost a route Wren wanted.
 
 ---
 
@@ -400,7 +402,7 @@ In Book IV Rowan's POV makes attraction conscious. She and Eli have consensual s
 
 **Past:**
 - **Ordinary life:** **public-health / immigration / outbreak logistics** career — built tracing, checkpoints, and registries that **saved lives** before they became cages. Reasonable man in reasonable rooms.
-- **Turn:** early **carrier incident** he failed to prevent (sibling lost to unregistered flare, or child in custody — pick at draft); grief converted to **policy**, not mourning.
+- **Turn — LOCKED 2026-08-16:** **Imani Vale.** He was the officer who classified her withdrawal delay as a protection case. She never left. He still updates her paper file on her birthday. That case is how grief became policy. Do not invent a sibling or a child.
 - **Unreconciled:** private **file of carriers who died in custody**; each row feels like love; believes Eli's freedom would add rows.
 
 **Want:** prevent psionic catastrophe through registration and command — sincerely, in his frame.
@@ -446,7 +448,7 @@ the operator demand.
 
 **Weighting rule (LOCKED 2026-07-22):** **lean in II, flowers in III.** Book II presence = the structural jobs only (the question's hardest case, the small crown, worship's control group, depth embodied, the twins braid, the release's hands — plus the depth-scan below); no travelogue, no friendship filler, no second beat of anything. Book III is his flowering (practice scaled, the capstone embodied). The final revelation depends on his *earliness*, not his prominence.
 
-**The depth-scan — the divergence reveal (author direction 2026-07-22; REMAPPED 2026-08-01 onto ten-chapter spine: **Book II Ch 4** after consenting heal / before hard-no fully blooms — diptych with late hard no on Ch 9 ensemble or pre-climax beat; retired Ch 17/18/19 pins are quarry. Must precede the Maren release — Eli needs wound-told-from-nature before he can release without losing himself — and the late-II twins rumor, so the private truth stands against the public myth. Consent-gated):** Somchai's depth-perception reads nervous systems the way Eli's palms read signatures — and one quiet scene uses it to deliver a truth no instrument in this world offers kindly. **Naturally divergent people conform to society by lifelong labor and assume everyone else is doing the same — and they simply aren't.** Somchai reads Eli (asked first — the scan is the arch's dark mirror made consensual: the apparatus reads bodies to *file*; he reads to *recognize*) and tells him plainly: most people are *quiet inside*. No second surface. No noise being managed behind the face. Eli has spent his life masking toward a species whose interior he imagined as his own, grading himself against a calm that was never effortful for them — and his loneliness was structural, not a failure of discipline. Two more edges to the scene: **he can tell wound from nature** — which parts of Eli are scar (the leftover fever) and which are *him* (the receiver, always was) — the Ch 8 "signal from scar" question answered at depth; and **he finds the hidden kin** — one seemingly ordinary person nearby scans as divergent-masking too, carrying the same invisible labor, which turns the reveal from Eli's singularity into a scattered quiet population (seeds the threshold-generation reframe and the capstone's *held before healed*). Guardrails: no clinical vocabulary on-page (trauma-craft rule holds — the register is *quiet inside / loud inside*, keeper words); Somchai includes himself among the loud-inside without ceremony; the scene is recognition, never diagnosis, and the reveal's emotion is not pity but the specific relief of a man learning the game was real and he had been playing it on the hardest setting.
+**The depth-scan — REVISED 2026-08-16:** Book II Ch 4. This is a psionics reveal, not a sermon. Consent first. Wrist. Three facts Eli can use later: most people are quiet inside; the leftover fever is scar and the receiver was always him; at least one other person in the room is loud (Pin at the fridge, already doing a job). Somchai does not lecture a hidden population. Eli looks at the chairs and keeps the difference. Then triage.
 
 **Voice — added 2026-08-11 (no prior entry):** clinical, minimal, triage-trained — states boundaries as fact, not negotiation (*"Currently he is my patient." "No. Mine governs this room."*); short medical-check cadence even outside medical scenes (question, answer, next question); redirects rather than argues (*"Care first."*); uses **Babu** only to end an argument, never to open one, because he knows exactly what the name costs to hear. Says a boundary once, in the same flat tone he'd read a pulse out loud, and does not repeat it.
 
@@ -475,6 +477,8 @@ the operator demand.
 ---
 
 ## Kiran *(Pelangi Reach peer)*
+
+**Status:** Book I only. Quarry for later appearance. Do not bring him to Belém or the court.
 
 **Function:** Eli's ordinary peer bond before the quest. Capsizes rushing to help when Eli's sheet fails, laughs about it with Eli at Mei's dinner, then leaves before the private orphan reveal.
 
@@ -644,9 +648,9 @@ Coherence holder; tries to spare civilians; fraying.
 
 **Voice:** soft, exhausted; apologizes to strangers after missions.
 
-### The Mask / Scout — **Jin "Grey" Pak**
+### The Mask / Scout — **Jin "Grey" Pak** — RETIRED 2026-08-06; stay unnamed
 
-**Past:** **scholarship recruit** — young, fluent, poor; program sold as **education and safety**; first ops felt like games until they weren't.
+**Past:** **scholarship recruit** — young, fluent, poor; program sold as **education and safety**; first ops felt like games until they weren't. Do not restore the name. The scout stays unnamed until a want earns one.
 
 Youngest; false signatures; seduction ops; socially fluent. **Believes they're buying time** until a better system exists — not amoral, **coerced idealist**.
 
@@ -682,11 +686,27 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Mixed-community rule:** Thai, Karen, and Lao families on the cooperative have distinct land histories, religious lives, and opinions about disclosure. No character speaks for undifferentiated “local wisdom.”
 
+**Book III return — LOCKED 2026-08-16:** she does not travel. A packet reaches Pelangi/Belém: polarity photocopy, Niran walks, *do not send teams*. `III` garden.
+
 **Story load:** Eli's **choose people over evidence** has a face; community knowledge survives the lost documentation.
 
 **Scene seeds:** offers Eli water, not alliance; corrects his Bali comparison; after the fight, preserves a coordinate that **doesn't match old maps**.
 
 **Retired quarry:** prior **Hạnh** / Mekong Delta version — mine structure only; do not restore Vietnam geography to spine.
+
+---
+
+## Dara Phommasone *(Laos–Vietnam freight; Book I Ch 11)*
+
+**Function:** the Friday Eli wrecked. She wanted her family's twenty-three-year license to survive the highland posts. It did not.
+
+**Want:** keep driving coffee without a stamp that names her.
+
+**Wound:** license suspended, vehicle on every secondary-inspection list from the highland posts to Kunming. She paid gold. She still has no renewal.
+
+**Book III return — LOCKED 2026-08-16:** she is still on the list. A cargo office or Wren's slate carries her name. She wants gold, not thanks. She is still angry. Rowan is not required.
+
+**Guardrails:** do not redeem her by letting her forgive him. Do not bring her to Belém unless a later pass promotes her.
 
 ---
 
@@ -704,7 +724,7 @@ Youngest; false signatures; seduction ops; socially fluent. **Believes they're b
 
 **Partly right:** Lang is real; registries are cages. **Wholly wrong:** Eli as messiah; consent as cowardice.
 
-**Voice — expanded 2026-08-11:** sermon cadence that slips into tenderness; burned hands or scarred temples from his break event. Speaks in aphoristic pairs, statement then reframe, so the second line does the actual persuading (*"People kneel when standing has failed them." "Someone should help them stand."*); never raises volume or urgency to make a point land — same even pace whether the news is trivial or Sora's gone rigid across the room. Offers information as if it were a gift, with the cost left unstated on purpose (*"Witnessed access."* — no further explanation of what that cost Nadiya). Names the thing he's not doing before he does something adjacent to it (*"I am not here to threaten your clinic." "Nothing is, yet."*), which reads as honesty and functions as a threat anyway.
+**Voice — REVISED 2026-08-16:** too much warmth. He laughs once at the wrong time. He talks past the end of the point. He offers a sweet from a paper bag and is offended if you refuse. Volume is allowed. He is not Lang with a scarf. The second line can still reframe; the first line can be sloppy. `"Witnessed access"` can stay. The even-pace lock is retired.
 
 **Habit:** touches people's wrists to "read" them — manipulation dressed as gift.
 
@@ -726,7 +746,7 @@ passwords and survives him as a political danger
 
 **Function:** human face of the Mandate without becoming its absolution; Zheng He–inspired maritime diplomat, fleet organizer, hard negotiator, and industrial counterpart for the field-sail peace (`51_field_sail_and_mandate_peace.md`).
 
-**Cultural grounding:** from a Hui Chinese family; the exact city, given name, languages, religious practice, and family history require Chinese/Hui research and cultural review before prose. The Zheng He rhyme is historical function, not reincarnation, costume, or one-to-one biography. Zheng He's voyages combined trade, diplomacy, state-directed commerce, logistical achievement, force, and imperial power; Ma must carry the contradiction.
+**Cultural grounding:** from a Hui Chinese family; the exact city, given name, languages, religious practice, and family history require Chinese/Hui research and cultural review before prose. **Do not assign a given name** until he has a Friday job that is his own week, not the Mandate's. The Zheng He rhyme is historical function, not reincarnation, costume, or one-to-one biography.
 
 **Ordinary life:** rose through inland freight, river logistics, and maritime trade administration. Knows a port by water, labor, repair capacity, food stocks, and who can actually move a container after the officials leave.
 
@@ -758,6 +778,8 @@ of that duty while his own harbor manifest remains open
 
 
 ## Dana Morris *(Continental Union — continuity-roster inheritor; Book III hearing, one testimony beat)*
+
+**Ceiling — LOCKED 2026-08-16:** one testimony. No court career. No Book IV promotion.
 
 **Function:** gives the insider-trading / asset-dumping mechanic (`95_glossary.md` § *Insider trading and asset dumping*; `23_2040_present_frame.md` § *Not as different as they claim*) a face — the financial-axis counterpart to Owen Price's war-testimony beat in the same hearing.
 
@@ -812,11 +834,12 @@ of that duty while his own harbor manifest remains open
 | Wren placement / evacuation accountability | Ch 1–4 placement; Ch 13 displaced | first recovery beside Rowan | network choice; Knotter power rises | principal POV; court access, Weaver limits, parental choice |
 | Rowan | off-page seed only | Ch 5–7: corridor recovery + Wren romance renews | political trust with Eli; deniable charge only | principal POV; attraction → repeated sex → romance → chosen co-parenting/conception → pregnancy and labor |
 | Hassan witness | Malacca | — | — | — |
-| Malai + Thailand river cooperative | agricultural witness (Ch 5–10) | — | optional network echo | optional civic echo |
+| Malai + Thailand river cooperative | agricultural witness (Ch 5–10) | — | garden packet: Niran walks; no teams | — |
+| **Dara Phommasone** | Ch 11 permit dies | — | still on the highland list; gold, not thanks | — |
 | Custodians + Sora arc | breach–climax | pursuit | broken/changed | bounded consequence |
 | Somchai (nurse / field medic) | mention | reconvene; healings | hard no under pressure | public-care limit |
 | Sol Méndez | — | temptation | echo or end | remnants may enter court |
-| Shireen | one encrypted exchange | optional | optional |
+| Shireen | one encrypted exchange | off-page | off-page | off-page |
 | **Wren / Mei / Suresh** | Pelangi Reach; Wren = intake cover + Vol II network | — | Mei/Suresh optional echo |
 | Lang private beat | looms | social rooms | throne offer |
 

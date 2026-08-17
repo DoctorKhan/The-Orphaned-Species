@@ -11,6 +11,11 @@
 > **Index adopted — 2026-08-16:** `00_INDEX.md` is LIVE. Propagation rule: scene
 > locks edit the manuscript chapter or name the debt here.
 >
+> **Cast-set pass — 2026-08-16:** Return rule spent on Malai packet + Dara list
+> (`III` garden). Kiran quarry. Lang turn = Imani Vale. Somchai scan cut to wrist
+> + two sentences. Sol laughs at the wrong time. Asha tells Wren no without Rowan.
+> Wren holding-thesis demoted. Dana one testimony. Ma unnamed until his own Friday.
+>
 > **2–10 craft pass — 2026-08-16:** Wren return-rights on-page (I Ch 10, II Ch 6).
 > Named weekly opponents on `31`/`32`. Book I narrator theology cut; Book II
 > Tree/ley/Charkha only in mouths, plaques, or file headers. Query comps: *Da

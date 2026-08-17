@@ -2663,34 +2663,26 @@ way a nurse checks a pulse before asking anything expensive.
 The room does not change. Eli does.
 
 "You are loud inside," Somchai says, quiet enough that Wren need not hear.
-"Most people are quiet. No second surface. No noise being managed behind the
-face. Naturally divergent people labor their whole lives to look ordinary and
-assume everyone else is doing the same labor. They aren't."
+"Most people are quiet. The old injury is scar. The receiver was always you."
 
-Eli waits for pity. It does not arrive.
+Somchai does not take his fingers away yet.
 
-"I can tell wound from nature," Somchai continues. "The old injury is scar. The
-receiver was always you. Do not spend the rest of this route trying to sand
-yourself down to a calm that was never effortful for them."
+"Look at the room."
+
+Eli looks. Wren at the exterior door: he gets heat and exit-count, nothing
+under it he can name. The nurse at the desk: almost nothing. Two pilgrims
+asleep in plastic chairs: breath, pain, no second surface. Pin at the
+refrigerator, insulin box in both hands: a small pressure like Eli's own, held
+badly.
+
+"Also loud," Somchai says. "He already knows. He is checking the insulin."
 
 Somchai withdraws his hand.
 
-"Pin," he adds, almost as an afterthought. "Also loud. Scattered quiet
-population. Not a singularity."
+Eli keeps looking at the quiet chairs. The work he thought everyone did is
+only his, and Pin's, and a few others. He does not ask for a word for that.
 
-Pin, across the room with the refrigerator, does not look up. He does not need
-to. The recognition is for Eli.
-
-Eli is still learning the other language Somchai speaks: the one that names
-wounds without asking them to perform. The receiver was always you. The words
-have been sitting in his chest for hours, turning quietly, because he knows what
-it costs a healer to tell a man he is sanding himself down for people who will
-not notice when he stops. He does not say thank you. He does not say I know. He
-does not say anything that would turn the gift into a transaction. Instead he
-stands and goes to find Wren and tells her the woman behind the curtain has
-Hassan's transfer category.
-
-Then Eli remembers the woman behind the curtain.
+Then he remembers the woman behind the curtain.
 
 "She has Hassan's transfer category."
 
@@ -2943,33 +2935,28 @@ Wren has already moved within reach.
 
 Sora, across the waiting room, goes rigid.
 
-Sol notices and does not exploit it.
+Sol laughs, then stops when he sees her face.
 
-"I am not here to threaten your clinic," he says.
+"Sorry," he says. "Bad timing. I do that."
 
-"Not ours."
+He holds out a paper bag. Candied ginger. Wren does not take it. He looks
+offended for a second, then eats one himself.
 
-"Nothing is, yet. That is the difficulty."
+"I am not here to threaten your clinic," he says, too loud for the room.
+"Though I can see how it sounds."
 
 He looks through the window at Somchai, who is examining a child's records
 under the exterior light while refusing every hand that reaches for his sleeve.
 
 "You and he are going to learn the same lesson," Sol says. "A gift this large
-cannot remain private without becoming cruelty."
-
-"And making it public?"
-
-"May become something worse."
-
-"You say that like it doesn't bother you."
-
-"It bothers me enough to want company."
+cannot remain private without becoming cruelty. I know, I know. Making it
+public may become something worse. It bothers me. I want company anyway."
 
 Wren opens the door.
 
 "Conversation is over."
 
-Sol inclines his head as if she ended a meeting he expected to continue.
+Sol talks a little past the close, then catches himself.
 
 "The Thrace depot changes guard at dawn," he says. "Your archive copies were
 useful."

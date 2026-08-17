@@ -732,6 +732,22 @@ Eli touches the graft.
 
 "No."
 
+Mei takes an envelope from the kitchen hook. Cooperative stamp. Malai's hand,
+red pencil on the polarity photocopy.
+
+"Niran walks," Eli reads. "Do not send teams."
+
+"She billed you for the week," Mei says. "I paid it from compost money. You
+owe the kitchen."
+
+A second slip is clipped to the envelope: highland inspection list, still live.
+**PHOMASONE, D.** Vehicle. License. No renewal. A note in ballpoint: *gold.
+not thanks.*
+
+Wren reads that one.
+
+"Still mine," she says.
+
 Eli smiles.
 
 The feeling beneath the smile is less attractive.
@@ -6579,6 +6595,29 @@ No friendship occurs.
 The terms survive a day when Eli never enters the room.
 
 This may be the most important result.
+
+---
+
+Wren finds Asha in the stock room the morning the list will be read. Rowan is
+at Raben Yard.
+
+"Certify the return-rights clause as standing house law," Wren says. "Before
+they seat the seven."
+
+Asha puts a lid on a jasmine tin.
+
+"No."
+
+"It is already on every sheet I have signed this year."
+
+"Tomas still has no review. You want the clause to outrun the case. It waits."
+
+Wren starts to argue. Asha uses her name.
+
+"Wren. No."
+
+The route Wren wanted for the next three placements stays closed until the
+hearing writes Tomas down.
 
 ---
 
