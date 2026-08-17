@@ -3636,7 +3636,7 @@ He looks at her as if the admission should end the argument.
 
 "Wren."
 
-Her name in his voice contains love, shared danger, the room in Anglesey, the
+Her name in his voice contains love, shared danger, the room in Albion, the
 village hall, every time she chose him while retaining the right not to.
 
 It also contains expectation.
