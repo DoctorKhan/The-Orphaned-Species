@@ -4163,7 +4163,13 @@ Malik Foster sends one back:
 **A GOVERNMENT THAT CHANGES ITS NAME CANNOT BE RELIABLY ATTACHED TO PRIOR
 ABUSE.**
 
-Both enter the record.
+Amina Cole adds the case she already has. The Belém reception desk turned
+away a clinic referral this morning because the registry order that issued it
+could not distinguish a civilian responder from a combatant. The order did not
+expire; it was withdrawn after the desk clerk called the clinic. The three-hour
+window cost the patient a route out. Both entries stay in the record.
+
+Both Lang's objection and Malik's counter enter the record alongside it.
 
 Wren's routes cannot be requisitioned.
 

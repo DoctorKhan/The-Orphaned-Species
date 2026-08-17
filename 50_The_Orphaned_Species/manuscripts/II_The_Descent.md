@@ -5283,7 +5283,9 @@ storm. He said somebody under it was calling the flood count."
 
 Morwen meets her gaze.
 
-"I failed to stop him. Use whichever version helps you work."
+"The registry suspended my field authority this morning because he walked
+through. They say the weak ground was open after the storm, which means I
+opened it. Use whichever version helps you work."
 
 ---
 
