@@ -954,9 +954,7 @@ He tries to stand. His legs are not entirely his. The soldier's name from the bo
 
 On the quay above, the courier woman reappears at the wall—cap gone, face no longer bored, no longer performing anything. She looks down at him on the reeking deck with an expression he will spend a long time failing to name, somewhere between fury and recognition.
 
-"The placement I signed is evidence now," she says. It is not quite an
-accusation. It is worse: it is a fact she is deciding what to do with. "So now
-we're both running."
+"The placement I signed is evidence now," she says. It is not quite an accusation. It is worse: it is a fact she is deciding what to do with. "So now we're both running. My board placement is pulled. My clearance is revoked. And that sealed Malacca intake opens for audit."
 
 Behind her the boots find the rhythm again, coming down the lane from both ends.
 
