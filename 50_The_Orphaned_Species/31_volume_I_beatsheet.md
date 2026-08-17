@@ -272,7 +272,7 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 - **Deep-time residue — LOCKED 2026-08-05:** harbor network as practice older
   than registries; the worker route as civic infrastructure invisible to
   authority.
-- **Forward-clue beat added — LOCKED 2026-08-08 (cadence audit found Ch 3–4 the thinnest mystery-density stretch in Book I):** Pak Din's "loud ones" exchange (manuscript, aboard the *Sri Kenanga*) now adds one line planting hereditary doubt about Eli's ability — "Loud ones don't grow wild. Somebody upstream was loud too, even if nobody ever said it out loud" — without naming either parent or spoiling the Book I Ch 11–13 Ender's Game reveal. Small, cheap addition; does not require restructuring the chapter.
+- **Forward-clue beat added — LOCKED 2026-08-08 (cadence audit found Ch 3–4 the thinnest mystery-density stretch in Book I):** Pak Din's "loud ones" exchange (manuscript, aboard the *Sri Kenanga*) now adds one line planting hereditary doubt about Eli's ability — "Loud ones don't grow wild. Somebody upstream was loud too, even if nobody ever said it out loud" — without naming either parent or spoiling the I.11–13 Ender's Game reveal. Small, cheap addition; does not require restructuring the chapter.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?
   (Custodian containment; pursuit clock; Extra lane as managed disposal). What
   family/individual program operates? (Eli's grief-as-identity hazard;

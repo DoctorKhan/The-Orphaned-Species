@@ -392,6 +392,55 @@ That makes voice consistent across a multi-volume series without hand-waving.
 
 **Construction before subtraction — LOCKED 2026-08-11.** Read Beauty, desire, and dramatic multiplicity and Lyricism and imagery above before running a scene through the cut-lists below. Those two sections say what to attempt. This heading says what to cut after you attempted it. A pass that only runs the checklists will give you correct prose with nothing in it.
 
+### Paragraph-length discipline — LOCKED 2026-08-17
+
+A paragraph is one movement of attention or action. Length is not the goal; legibility is. Fix uneven breaks by asking what the paragraph is doing, not by forcing it into a target word count.
+
+**Principles:**
+
+- Short paragraphs are valid when perception fractures, under load, or for dialogue beats. They are not free to appear anywhere.
+- Three or more consecutive very short paragraphs (<25 words) on the same page is a rhythm failure unless each one lands a distinct concrete beat. If they're doing the same work, merge them.
+- Any paragraph running past ~250 words needs a visible break inside it. Split at a concrete image or action, not in the middle of a thought.
+- The page should breathe. Mix short and long; do not deliver a sequence of identical lengths.
+- When two adjacent paragraphs are both very short, check whether they're doing the same work. If yes, merge them. If no, keep them but verify each carries a distinct concrete beat.
+- When a paragraph runs long, the likely culprit is that it's carrying two movements—often an abstract interior label followed by a physical beat. The physical beat usually carries the cost; the label can go.
+- Paragraph openings on the page should not all start with the same word shape (name, "He", "She", "The"). Varied openings are a legibility cue the ear catches even when the eye misses it.
+
+**On-page test:** read a page as a block of white space. If the rhythm feels like stairs—several short steps then one long drop then several short steps again—the breaks are mechanical, not earned.
+
+**Revision test:** if removing a paragraph and merging its content into the one before or after it leaves the scene unchanged, the paragraph was padding.
+
+### Reader-state tracking — LOCKED 2026-08-17
+
+Prose is not a record of what happened. It is the reader’s experience of what is happening. Every word, sentence, and paragraph shape should answer one question: what does the reader know right now, and what do they need next?
+
+**Drafting test:** before writing a sentence, name the reader-state move it makes.
+
+- Am I giving the reader a new fact they cannot get any other way?
+- Am I giving the reader a fact they already have, dressed in new words?
+- Am I giving the reader a beat—a concrete image, a physical reaction, a line of dialogue—that changes the weight of what they already know?
+- Am I withholding something they need, and if so, is the withholding itself the beat?
+
+If the answer is “re-state what the reader already has,” cut the sentence.
+
+**Revision test:** read a page as a stack of reader-state moves. If two consecutive paragraphs do the same move—both add the same fact, both add the same emotion, both explain the same setup—merge them. If a paragraph does no move at all, delete it.
+
+**On-page tracking discipline:**
+
+- Track what the reader knows in three buckets: **seen**, **suspected**, **withheld**.
+- Every scene should move at least one item between buckets.
+- Every paragraph should advance at least one bucket. A paragraph that refills a bucket the reader already has is padding.
+- Dialogue lines should do one move each: confirm, deny, redirect, or withhold. Lines that do nothing but agree with the previous line are AI-default rhythm.
+- Paragraph breaks should fall at bucket boundaries. Break when the reader’s state changes, not when the writer’s outline changes.
+
+**The prose-shape consequence:** the reader’s state determines sentence length, not the writer’s preference.
+
+- When the reader is flooded with new facts: shorter sentences, concrete nouns, no qualification.
+- When the reader is holding a single loaded fact: longer sentences can carry the wait because the paragraph is doing one job.
+- When the reader is in the dark: fragments, withheld words, actions that name what the character will not say.
+
+Do not choose paragraph length by instinct. Choose it by asking what the reader’s head is doing at that exact moment.
+
 - Vary sentence length according to attention, not a mechanical pattern.
 - Use fragments sparingly, when perception or impact genuinely fractures.
 - Prefer strong nouns and verbs to adjective clusters.
