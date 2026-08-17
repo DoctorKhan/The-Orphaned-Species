@@ -1153,7 +1153,6 @@ The courier looks at Eli for a while. Whatever arithmetic she runs, she runs it 
 "You're—" He stops. Babaji's Wren. Checkpoint Wren. The hand at his elbow, the same voice asking him to follow. One woman moving through different jobs.
 
 "Yes." He looks away, then back. "You were going to work it out eventually. Better now, on a boat, than mid-sentence somewhere it costs us both. You're going to be shouting a name at some point. It may as well be the right one."
-"Yes." He looks away, then back. "You were going to work it out eventually. Better now, on a boat, than mid-sentence somewhere it costs us both. You're going to be shouting a name at some point. It may as well be the right one."
 
 ---
 
