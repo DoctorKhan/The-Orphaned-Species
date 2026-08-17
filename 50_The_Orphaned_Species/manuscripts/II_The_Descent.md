@@ -3909,10 +3909,11 @@ A dead zone on the western route.
 
 Eli rewinds to the first recording.
 
-*The false-positive rate is acceptable if the intervention remains voluntary.*
+*The false-positive rate is acceptable if the intervention stays voluntary.*
 
-Maren wrote that a false-positive rate was acceptable if the intervention
-stayed voluntary. Rasel kept building the loops. Eli thought finding either
+Maren wrote that, then showed what happens when it does not. The classifier
+that sent her bay-four correction also froze her corridor access for eleven
+months. Rasel kept building the loops anyway. Eli thought finding either
 parent would put the household back.
 
 Wren sits beside him, not touching, close enough that he can feel warmth from

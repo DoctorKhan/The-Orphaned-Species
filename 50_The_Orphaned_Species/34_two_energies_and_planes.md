@@ -71,6 +71,8 @@ Crops and livestock also **map the grid** (living ley-detectors), so agriculture
 
 The cost of connection is **not fixed**; it is a function of **efficiency**. To *force* the Tree of Life — broadcast, dominate, entrain — is to spend the maximum (why the gods needed extraction). To run it in **perfect efficiency — alignment with the Tao, *wu wei*, non-forcing — is to minimize the expenditure** of both energies. The dragons are naturally efficient; the native road teaches humans the same.
 
+**Progression rule.** Psionic power increases with **charge-distribution mastery**, not with a tier, rank, or external grant. As a practitioner learns to control distribution more precisely, wasted bleed drops, containment tightens, and excess energy rises. The same hardware does more because leakage falls. Readiness, access, and safety tests remain local and revocable; they do not convert this progression into authority, rank, or a universal ladder.
+
 So the book's question is not "is connection cheap" but **"can awakened humanity afford the two-Tree demand the dragon's way (efficient, distributed, self-fuelled) instead of the gods' way (extractive, hoarding)?"** The grid/amplifier is the gods' extraction infrastructure; *"no one needs the machine"* means drawing from the field directly, within what a person and community can sustainably give. The temptation the book refuses is paying for awakening by **becoming the next extractor**. *Transcend, not win; don't take the throne the fallen Igigi took* — now with a metabolic engine under it.
 
 ## 7. The Two-Tree union act (climax only)

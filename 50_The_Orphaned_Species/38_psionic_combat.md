@@ -21,11 +21,11 @@
 
 ---
 
-## 1. The resource — coherence, not a battery
+## 1. The resource — efficiency, not a battery
 
-The anti-entropic field is **not a finite power supply** (`05` §3). What a psion spends is **coherence**: the ability to hold attention as one steady, undivided pattern under pressure. Everything below costs coherence, and coherence is bounded by attention, biological stability, sleep, pain, fear, and emotional exposure.
+The anti-entropic field is **not a finite power supply** (`05` §3). What a psion spends is **coherence**: the ability to hold attention as one steady, undivided pattern under pressure. What a psion gains with practice is **charge-distribution efficiency**: less wasted bleed, tighter containment, more usable headroom. Over time the same hardware does more because the operator controls the distribution better; excess energy rises as leakage falls. Everything below costs coherence, and coherence is bounded by attention, biological stability, sleep, pain, fear, and emotional exposure.
 
-**Strength** in any contest = **coherence (skill/practice)** × **energy supplied** (how hard you push) × **coherent minds acting as one** (a team) × **proximity to a conductor or charged ground** (a ley line, a stone, an instrumented threshold amplifies everything). This single formula decides who shields, who breaks, who reflects.
+**Strength** in any contest = **efficiency (mastery/control)** × **energy supplied** (how hard you push) × **coherent minds acting as one** (a team) × **proximity to a conductor or charged ground** (a ley line, a stone, an instrumented threshold amplifies everything). This single formula decides who shields, who breaks, who reflects.
 
 This is why psions fight in **teams**: coherent attention pooled is greater than the sum, and a team can hold, probe, shield, or overwhelm what no lone psion can. It is also why the **fellowship** matters thematically — collective coherence without a command hierarchy is the coalition's whole problem (`05` §7).
 

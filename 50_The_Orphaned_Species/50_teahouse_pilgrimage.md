@@ -14,7 +14,7 @@ The return is part of the experiment. A person who can withstand an inner site b
 
 Four rules govern every site:
 
-1. **Readiness, not rank.** Access means a person has demonstrated particular safety capacities under particular conditions. It does not certify wisdom, purity, metaphysical truth, or authority over anyone else.
+1. **Readiness, not rank.** Access means a person has demonstrated particular safety capacities under particular conditions. It does not certify wisdom, purity, metaphysical truth, or authority over anyone else. Progression is measured against the person's own charge-distribution curve: efficiency improves with practice, leakage falls, and excess energy rises, but that curve does not become a rank, tier, or universal test result.
 2. **The sanctuary is deeper in exposure, not higher in truth.** Insight may occur in an outer teahouse, a kitchen, a garden, or nowhere at all. No method guarantees it.
 3. **Observe carefully. Record honestly. Compare openly. Claim no more than the evidence allows.** First-person experience and instruments check one another; neither receives automatic supremacy.
 4. **The system watches the institution; it does not watch the soul.** Measurement protects participants and tests claims. It may never define an identity, assign a clan, or convert a condition into permanent jurisdiction.
