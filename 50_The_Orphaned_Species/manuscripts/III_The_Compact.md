@@ -2544,6 +2544,10 @@ coordination across many communities, with each retaining an exit."
 
 "Neither is a registry."
 
+Eli looks at the white route card on the table between them. The Standard
+doesn't command. It channels—the way a facility routes flow not by force but
+by being the only pipe the user knows how to read.
+
 "A registry is very good latency."
 
 That earns a few exhausted laughs.

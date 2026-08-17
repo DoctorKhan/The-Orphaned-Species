@@ -118,9 +118,21 @@ The lecture's most sympathetic Machiavelli is also the most dangerous to the boo
 
 **What is on the other side of the wall (the third door's *positive* content).** Not "no leadership" — that is just renunciation, and renunciation abandons the people who need protecting. The third door is **temporary, bounded, answerable authority**: the *festival crown* worn for a purpose and a season and then taken off, the *fission–fusion* rhythm that concentrates only at **surplus or necessity** and disperses after. The gods' sin was never going home; Eli's graduation is running the emergency and going home. In Book III (`33` Act III, Ch 7–10), he accepts a visible, revocable, self-expiring mandate, refuses to expand it through forced synchronization, and then submits its use to ordinary public judgment. Full statement: `Thesis.md` § "The mature form — structure that breathes."
 
----
-
-## Craft rules
+|---
+|
+|## H. Debt gratitude, near-peer envy, and model rivalry — LOCKED 2026-08-17
+|
+|These three popular-audience observations land with force because they restate Machiavellian realism in social terms. Use them as dramatic doctrine, not lecture.
+|
+|**Debt gratitude curdles into hatred.** Tacitus’s observation — benefits please only while they seem repayable; once the gap widens past that, the debtor’s gratitude turns corrosive — is exactly what happens when a large favor cannot be returned. The favor fades. The proof of the moment does not: *you were standing and they were on the ground.* Every subsequent encounter reruns that proof. Humiliation charges interest. Small favors flatter. Large ones force the receiver to recast the creditor as arrogant, controlling, or secretly self-serving — not because the creditor changed, but because the debt is the only ledger the debtor can balance. Machiavelli’s framing rule applies: this is true of fallen social relations, not a failure of kindness. **Dramatic use:** a character who received a real rescue or open door from Eli later turns on him not from ingratitude alone but because the help proved a hierarchy his pride cannot sit under.
+|
+|**Envy is aimed at near-equals and never confessed.** Schoeck’s cross-cultural finding is universal and functional: people do not envy distant winners. They envy the coworker promoted, the cousin whose business worked, the friend from the same street who pulled ahead. The smaller the original gap, the sharper the blade. Aristotle and Festinger already supply the geometry — near in time, place, age, reputation; comparison almost exclusively with similar others — but the locked series move is to make it visible in conduct, not aphorism. Envy dresses itself as concern, principle, or humor with a strange edge. The hatred tracks permission, not possession: *If it was possible for you, why wasn’t it possible for me?* The accepted answers are *you cheated* or *I surrendered too early*, both of which preserve the envier’s self-respect. **Dramatic use:** a peer near Eli’s age, skill, or access who smiles warm and then nitpicks, goes cold, or takes secret pleasure at a stumble. Do not name envy in prose. Show the smile, the thin phone call, the sudden principle that arrives exactly when Eli’s life starts working.
+|
+|**Near models turn from lighthouse to obstruction.** Girard’s observation, sharpened by van de Ven’s Dutch distinction, is that desire is caught from models, and the fork between benign and malicious envy is belief about the gap. When the gap looks closable, the pain moves the person forward. When the gap looks permanent, the same pain turns into a need to drag the model down. Rivals converge — copying ambitions, tactics, mannerisms — until from the outside they are nearly indistinguishable, and the smaller the remaining difference, the more violent the defense of it. Tacitus’s debt logic rhymes here: the near model is also the person who cannot be repaid, because the wanted thing is not money but permission. **Dramatic use:** the bitterest fights in the series are never opposites; they are doubles. Eli and Sol, Wren and Rowan under pregnancy pressure, two operators who once wanted the same future and now cannot share a room. The hatred is precise. It is diagnostic. It indicts the buried version of the hater.
+|
+|---
+|
+|## Craft rules
 
 1. **Never name Machiavelli or "the Prince" in prose** — same silence as the Igigi (`37_deep_time_source.md`). It surfaces as a *doctrine spoken by a character who thinks it wisdom.*
 2. **Grant every doctrine its force before outgrowing it.** The reader must feel Ch. 17 (cruelty as mercy), Ch. 18 (the vulgo judges by appearance), and Ch. 6 (unarmed prophets fail) as *true of this world* — the coming-of-age earns its answer only against Machiavelli at full strength.

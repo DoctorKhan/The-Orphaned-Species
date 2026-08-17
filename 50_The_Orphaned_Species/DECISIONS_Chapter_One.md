@@ -6,7 +6,7 @@
 
 | When | Beat |
 |------|------|
-| **Friday AM** | Mei puts Shireen's clinic deposit in front of Eli at breakfast and sends him out alone, Suresh watching from the wall to decide whether to trust him with Sunday's job; wind pocket, then a sabotaged sheet fails as Timah/Jul's harvest boat drifts into his line — Eli holds it; Kiran capsizes rushing to help; Suresh awards him the job on witnessed competence |
+| **Friday AM** | Mei puts Shireen's clinic deposit in front of Eli at breakfast and sends him out alone; Suresh is watching from the wall to decide who gets the Sunday berth, Eli or Kiran, and both boys know it. Wind pocket, then a sabotaged sheet fails as Timah/Jul's harvest boat drifts into Eli's line — Eli holds it through compounded failure; Kiran capsizes on his own mistake while rushing to help. Suresh awards the berth to Eli on witnessed competence, not as a surprise but as a verdict, and Kiran's resentment becomes a standing debt on the dock |
 | **Friday PM** | **Mei final dinner** on terrace — the family holiday was flight; his parents left him with Mei for one night, missed their rendezvous, and were filed as dead without a witness; **only send-off** (no second goodbye Saturday) |
 | **Saturday AM** | Babaji's **hotel** (relocated 2026-08-07 from the catamaran, now reserved solely for Babaji's own Saturday PM southbound departure) — **first time Eli meets Wren**; papers, attestation, call sheet; *"I'm your handler through Singapore"* |
 | **Saturday PM** | Mandate squeeze → **Wren at marina stairs BEFORE checkpoint** → guides gate → boards Suresh → **raid on Babaji's hotel offices** as Eli departs **last light**; Babaji's catamaran runs south in parallel |
@@ -17,6 +17,7 @@
 - **Wren ≠ Mei.** No on-page overlap. Wren = Babaji's host/handler, first meet at the **hotel** (relocated 2026-08-07); Mei = hearth + Friday dinner only.
 - **Babaji's boat:** **Massive motor catamaran** — twin hulls, wide bridge, twin outboards, stern platform, aft salon. **Not** lauan skiff / motoryacht. Now solely Babaji's own southbound departure vessel, staged in the Ch 1 raid beat; Eli and Wren never board it.
 - **Orphan reveal:** **Mei Friday dinner only.** Retired: stairwell reveal; Babaji on-page truth; second Mei goodbye; Saturday/Sunday dawn departure.
+- **Kiran debt setup — LOCKED 2026-08-17:** Kiran witnesses Suresh award Eli the berth. His resentment is not generic dock rivalry; it is a standing debt he intends to settle. Friday dinner is the first move in a longer calculation, not pique. This seeds later betrayal potential without committing to a specific payoff scene.
 - **No packet in Ch 1.** Cherry Cube call sheet + Wren attestation only.
 - **Checkpoint order:** Wren first at marina, **not** checkpoint before Wren.
 
