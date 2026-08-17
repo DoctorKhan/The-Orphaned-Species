@@ -574,8 +574,8 @@ the door.
 
 The manifest screen shows refrigerated seed cultures bound for a dryland
 restoration archive. Legitimate cargo. Living work. A receiving institution at
-the far end and three scheduled inspections in between — not safety, but
-context.
+the far end and three scheduled inspections in between — paperwork, not
+protection.
 
 "We board," Eli says. "We don't touch the cargo. We keep the inspections live.
 And when the archive asks what we want, we tell them before we ask what they
@@ -1340,11 +1340,6 @@ Eli looks once more at Adapa's broken refusal.
 A man was told what would kill him. A god offered what might save him. Both
 messages came through powers he could not independently test.
 
-The tragedy is not that he chose wrong.
-
-The tragedy is that obedience had already occupied the place where verification
-should have been.
-
 Nadiya closes the tray.
 
 "Your transport north leaves from the seed yard in nine minutes," she says.
@@ -1380,7 +1375,7 @@ Its cost does.
 
 Wren finds the cut in the transfer records at six in the morning, in a room that smells of coffee brewed too strong and the copper-tang of a printer drum overheating. Eli has not asked for medical records. He has been tracking Hassan through public corridor flow. Wren has been watching the stations that do not log names.
 
-The file arrives under a routing label that says only **medical continuity review**. The originating header reads **CHARKHA CORRIDOR / PAIR FILE**. Wren has not asked for medical records. She has been watching corridor flow for three days, tracking Hassan's westbound handoff through the stations that do not log names. The file opens to a page her training tells her to recognize: two names, two citizenship streams, one shared residence history, then a single line that separates them without explanation.
+The file arrives under a routing label that says only **medical continuity review**. The originating header reads **CHARKHA CORRIDOR / PAIR FILE**. The file opens to a page her training tells her to recognize: two names, two citizenship streams, one shared residence history, then a single line that separates them without explanation.
 
 Maren Holt. Rasel Khan.
 
@@ -6332,7 +6327,7 @@ Her gaze holds his, drops to his mouth, then returns to his eyes.
 
 She kisses him once. When she steps back, he holds out his hand.
 
-She takes it, not as a replacement home but as a present choice.
+She takes it.
 
 At the halt, Rowan waits beside the car, checking Morwen's maintenance sketch against the road ahead. She does not look away from their joined hands and does not approve them.
 

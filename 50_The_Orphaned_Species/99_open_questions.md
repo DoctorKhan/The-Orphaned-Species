@@ -290,6 +290,10 @@ A major taxonomy revision is the **working model for the trilogy outline**. The 
 
 Reconciliation **complete** (2026-07-10): "Titans" and "Hardware Recall" have been swept from the master timeline, glossary, story architecture, beat sheets, and the Book 30 companion timeline/glossary. Remaining "Titans" mentions are confined to (a) retirement notes that name the retired term, and (b) genuine Greek-mythology references in the Book 30 explainer chapters (where "Titans" is a real mythic term, not this canon's label).
 
+### 0d. Deep ancestral structure (Cousins B / Basal Eurasian) — OPEN 2026-08-17
+
+Two 2025–2026 papers sit in the hole between the Feral Drop and Phase III. They do not move locked phase dates. They do not change I–IV. Decision brief (options, broken mappings, suggested packages): `DECISIONS_Deep_Ancestral_Structure.md`. Do not draft 6.i or retarget Qingu / Lullu / the gods until the checkboxes in that file are marked.
+
 ### 0b. Deep-time delivery mechanism — LOCKED (the living web)
 
 How the deep-past material reaches the present-day trilogy is **resolved**: see `36_the_living_web.md`. There is **one living web** (the anti-entropic field); Eli **clarifies** regions of it, and what he clarifies he learns. This replaces the entire prior apparatus:

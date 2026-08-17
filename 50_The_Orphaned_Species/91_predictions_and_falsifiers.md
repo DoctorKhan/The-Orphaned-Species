@@ -107,8 +107,9 @@
 
 ## 5. Archaeology
 
-### 5.1 Younger Dryas via thermal-nucleation craft — **[REVISED 2026-07-27; LOCKED]**
-- **Claim (gloss):** a low-kinetic technological/exotic **craft** nucleates catastrophic northern ice liquefaction without a bedrock crater; meltwater flush disrupts AMOC; Black Mat PGMs are ablative craft ash. **Event was unintentional** (crash/failure). Earth is ordinarily **studied as an experiment**; regular visitation avoided (Andaman analogy). Governing lock: `59_younger_dryas_nucleation_lock.md`. Owner/crew deferred.
+### 5.1 Younger Dryas via thermal-nucleation craft — **[REVISED 2026-07-27; LOCKED owner/crew 2026-08-17]**
+- **Claim (gloss):** a low-kinetic technological/exotic **craft** nucleates catastrophic northern ice liquefaction without a bedrock crater; meltwater flush disrupts AMOC; Black Mat PGMs are ablative craft ash. **Event was unintentional** (crash/failure). Earth is ordinarily **studied as an experiment**; regular visitation avoided (Andaman analogy). Governing lock: `59_younger_dryas_nucleation_lock.md`.
+- **LOCKED owner/crew assignment (2026-08-17):** craft belongs to a **returning Anunnaki proxy faction** — Earth-originated, space-advanced proxies of the makers — on a failed return/recovery attempt. This is the physical event that ends the golden age and enables the Igigi control era.
 - **Test:** Younger Dryas paleoclimate remains a real abrupt event; evidence continues to support major ocean-atmosphere reorganization and meltwater routing. PGM / exotic-ash horizons may persist without a correctly dated primary crater or shocked-quartz footprint matching classical YDIH.
 - **Falsifier for classical YDIH only:** a required primary crater + chondritic match is *not* part of the lock. Failure of classical impact proofs does not falsify nucleation-craft canon.
 - *Note:* Classical YDIH stays contested in the reader world; in-story truth is zero-crater thermal nucleation **accident**, not kinetic comet and not intentional climate warfare.

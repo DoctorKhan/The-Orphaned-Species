@@ -64,7 +64,7 @@
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
 
 ### ## Chapter Seven—The Two Houses
-- **Word count:** 3383
+- **Word count:** 3384
 - **Sentence count:** 377
 - **Flags:**
   - TELL-NOT-SHOW (9 hits)

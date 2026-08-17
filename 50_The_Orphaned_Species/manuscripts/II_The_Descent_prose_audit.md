@@ -27,16 +27,16 @@
   - TELL-NOT-SHOW (6 hits)
 
 ### ## Chapter Two—The Cold Container
-- **Word count:** 4021
-- **Sentence count:** 481
+- **Word count:** 4010
+- **Sentence count:** 484
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
   - TELL-NOT-SHOW (9 hits)
   - ABSTRACT-DENSE (31 abstract terms, 120 body terms)
 
 ### ## Chapter Three—The Buried Instrument
-- **Word count:** 4654
-- **Sentence count:** 610
+- **Word count:** 4675
+- **Sentence count:** 612
 - **Flags:**
   - NOT-X-BUT-Y (3 hits)
   - TELL-NOT-SHOW (11 hits)
@@ -49,8 +49,8 @@
   - TELL-NOT-SHOW (6 hits)
 
 ### ## Chapter Five—The Holding Site
-- **Word count:** 4183
-- **Sentence count:** 556
+- **Word count:** 4197
+- **Sentence count:** 557
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (1 hits)
@@ -63,13 +63,13 @@
   - TELL-NOT-SHOW (3 hits)
 
 ### ## Chapter Seven—The Riddling Ground
-- **Word count:** 4737
-- **Sentence count:** 608
+- **Word count:** 4759
+- **Sentence count:** 609
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (4 hits)
   - TELL-NOT-SHOW (11 hits)
-  - ABSTRACT-DENSE (23 abstract terms, 183 body terms)
+  - ABSTRACT-DENSE (24 abstract terms, 183 body terms)
 
 ### ## Chapter Eight—The Corridor Signal
 - **Word count:** 2284

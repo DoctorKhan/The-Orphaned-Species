@@ -6,7 +6,7 @@ This document locks the **physical mechanism** of the Younger Dryas Boundary (~1
 
 It supersedes every earlier claim that the YDB rupture must be explained as Igigi **sabotage of a climate/interface thermostat**, or that the contested Younger Dryas Impact Hypothesis must remain wholly non-load-bearing.
 
-**Deferred (not contradicted here):** which faction owned or crewed the craft, Generational War politics, and any later "sabotage of the orbital interface" story. **Intent of the YD event is no longer deferred — it was not intentional.**
+**Deferred (not contradicted here):** Generational War politics and any later "sabotage of the orbital interface" story. **Owner/crew — LOCKED 2026-08-17:** the craft belongs to a **returning Anunnaki proxy faction** — Earth-originated, space-advanced proxies of the makers — on a failed return/recovery attempt. **Intent of the YD event — LOCKED:** the event was **not intentional**. It was a **crash / failure / accidental terminal exhaustion**, not a planned climate weapon, not a scheduled contact landing, and not a deliberate meltwater attack on the AMOC. The cold snap is **overflow from an accident**, not the purpose of the visit.
 
 ---
 

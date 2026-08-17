@@ -204,6 +204,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 | `00_THREE_TERM_MODEL.md` | OPEN | Three-term model scratch. |
 | `100_production_todo.md` | OPEN | Production checklist. |
 | `DECISIONS_Chapter_*.md` / `DECISIONS_Thailand_Arc.md` / `DECISIONS_Economic_Worldbuilding.md` | STAGED | Earlier decision records. Preserve; beatsheets and manuscripts govern. |
+| `DECISIONS_Deep_Ancestral_Structure.md` | OPEN | Cousins B / Basal Eurasian / fusion / human-name mapping. Decision brief only. Not a lock. |
 | `BOOK_SUMMARIES_long.md` / `BOOK_SUMMARIES_short.md` | STAGED | Summaries requiring reconciliation with `58`. |
 | `SOURCE_TO_LAYER1_NOVELS_MAP.md` | STAGED | Legacy mapping. |
 | `III_IV_cross_volume_audit.md` | OPEN | Cross-volume audit notes. |
