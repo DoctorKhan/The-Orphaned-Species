@@ -23,6 +23,9 @@ wedding ring in a state evidence file, he follows it across a fractured
 Asia—only to discover that the powers holding his parents are hunting the
 dangerous perception awakening in him.*
 
+**Book II door:** *Searching for his mother, Eli uncovers an ancient conspiracy
+whose rival lineages have hunted people like him for four thousand years.*
+
 **Series promise:** *His family rescue becomes a struggle over whether
 humanity's awakening will be registered, weaponized, worshiped—or allowed to
 mature beyond the violence that made it an orphaned species.*
@@ -168,12 +171,13 @@ disappearance. His dreams begin supplying details no one has told him, but
 trauma, contact, and another person's intrusion can feel identical from inside
 his head.
 
-The route leads through an archive Maren altered, a clinic holding people whose
-abilities have made them useful, and the old grounds where contact became
-command. Wren travels beside Rowan, the woman she once loved and still cannot
-claim to know. At Albion, Eli finds Maren lucid enough to recognize him and ask
-for more time. Keeping her would also preserve the signal their pursuers came
-to seize. Eli must decide while they close in.
+The search exposes the Charkha, rival lineages that have controlled or killed
+psionic practitioners since roughly 2000 BCE. Their modern programs still use
+the ancient grounds where contact became command. Wren travels beside Rowan,
+the woman she once loved and still cannot claim to know. At Albion, Eli finds
+Maren lucid enough to recognize him and ask for more time. Keeping her would
+also preserve the signal their pursuers came to seize. Eli must decide while
+they close in.
 
 ---
 

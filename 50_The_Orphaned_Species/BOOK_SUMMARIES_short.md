@@ -27,7 +27,9 @@ Tree is recognized. Göbekli / Mesopotamia belong to Book II.
 
 ## BOOK II — *THE DESCENT* / Albion Shaft
 
-Wren travels; Rasel remains at Sanxingdui. Eli and Wren reread the Three
+Searching for Maren, Eli uncovers a Charkha conspiracy whose rival lineages
+reach back to roughly 2000 BCE. Wren travels; Rasel remains at Sanxingdui. Eli
+and Wren reread the Three
 Circles beside the strip Eli took from Rasel, then move west through the
 Mesopotamian archive and Göbekli. At Laurel, Eli loses a sailing race to pull
 Iason from a sinking boat; Iason spends his only guild appeal to open the

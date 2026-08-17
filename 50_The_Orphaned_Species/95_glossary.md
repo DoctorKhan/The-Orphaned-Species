@@ -390,7 +390,7 @@ is not Wren's status. **Wren is a house Weaver and Knotter.** `29`.
 **The Charkhas / Charkha** *(ordinary shorthand: **the Charkha**;
 **Measure** mainly in formal records and technical program language)* — a family
 of covert lineages, not a single state, corporation, or omniscient mastermind.
-**Origin lock — 2026-08-02:** the first Charkhas were human factions formed after
+**Origin lock — 2026-08-02; date locked 2026-08-16:** the first Charkhas were human factions formed around **2000 BCE** after
 the original elf encounters around one question: control the elves or destroy
 them. The control lineage developed classification, containment, harnessing,
 and carrier registries; the destruction lineage developed purges, dead-zone

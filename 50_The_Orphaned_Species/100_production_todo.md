@@ -41,6 +41,13 @@
 > Laurel race / house-night route in `55` and sister files now matches the manuscript
 > (after Ch 3, then clinic). Companion live sources fold "three doors" into
 > the middle.
+>
+> **Book II ancient-conspiracy payoff — OPEN 2026-08-16:** the description and
+> governing beat sheet now promise that Eli's search for Maren uncovers Charkha
+> lineages operating since roughly 2000 BCE. The manuscript has the Pömmelte
+> transfer mark and modern Charkha records. It still needs the later corroborating
+> record and firsthand confirmation required by `32`; one repeated symbol is not
+> enough.
 > **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-08-09, PROSE RECONCILED:**
 > The series now ends in a women-led court volume. Book III's handover is
 > real and complete for Eli himself — a genuine transfer, in one hall, under

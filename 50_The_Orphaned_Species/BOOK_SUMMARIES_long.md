@@ -129,6 +129,7 @@ Maren's field notebook is unfinished; awakening condition seeded.
 
 # BOOK II — *THE DESCENT*
 
+**Human engine:** Searching for Maren, Eli uncovers an ancient conspiracy. The Charkha lineages reach from roughly 2000 BCE into the programs hunting psionic practitioners now.
 **Dramatic question:** Can Eli pursue truth without turning people into instruments of his search?
 **Arc:** descent; ends on **relational Manual Override** + **Maren released** + first awakening spreading. Running texture: chalked *Deiwos* shelters, Three Circles rereads, optional unnoticed Loop hatch-marks (no street name).
 **Route:** post-Sanxingdui Sichuan exit → Mesopotamian archive → Göbekli /

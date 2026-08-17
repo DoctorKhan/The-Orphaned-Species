@@ -11,8 +11,9 @@
 > **CLASSIC-SERIES CRAFT LOCK — 2026-08-02:** The themes are roots, not the
 > whole tree. The books must also deliver human attachment, varied genre energy,
 > battles, pursuit, love, sex, humor, food, work, grief, wonder, and recovery.
-> Book I moves as conspiracy adventure/family thriller; Book II as descent,
-> haunted archaeology, first contact, and release; Book III as war epic and
+> Book I moves as conspiracy adventure/family thriller; Book II as a mother
+> search through an ancient conspiracy, haunted archaeology, first contact, and
+> release; Book III as war epic and
 > political transformation; Book IV as material survival crisis, romance, and
 > construction of a livable future. No character is a theme label, no antagonist
 > is only a thesis, and no revelation exists only to expand lore. Set pieces carry
@@ -132,7 +133,7 @@ The civic answer must follow what happens to the people.
 
 **Book I:** Eli finds evidence that Rasel is alive and follows it from Pelangi to Sanxingdui. His body reacts before he can understand it. He survives long enough to reach his father, then learns that reaching Rasel does not make Rasel come home.
 
-**Book II:** Eli follows Maren's damaged trail while dreams, contact, trauma, and other people's projections become difficult to separate. He finds his mother lucid enough to want more time. Keeping her would preserve the signal and deny her departure. He releases her. Wren and Rowan face a smaller version of the same problem when Rowan returns: their history matters, and it grants neither woman automatic access to the other.
+**Book II:** Searching for his mother, Eli uncovers an ancient conspiracy. The Charkha lineages have controlled or killed psionic practitioners since roughly 2000 BCE. Their surviving apparatus runs through the institutions pursuing him now. Eli follows Maren's damaged trail while dreams, contact, trauma, and other people's projections become difficult to separate. He finds his mother lucid enough to want more time. Keeping her would preserve the signal and deny her departure. He releases her. Wren and Rowan face a smaller version of the same problem when Rowan returns: their history matters, and it grants neither woman automatic access to the other.
 
 **Book III:** The Awakening War makes Eli's coordination ability immediately useful. He accepts command because food, evacuation, and defense cannot wait. His orders save people and send named people into danger. He and Rowan fall in love through the work and acknowledge it while his office bars sexual or domestic action. Sol offers forced unity as a way to stop the losses. Eli refuses it, then signs away his own authority before the attack is finished.
 

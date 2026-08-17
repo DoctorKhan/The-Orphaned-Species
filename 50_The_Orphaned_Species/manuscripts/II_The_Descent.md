@@ -12,6 +12,11 @@
 > the training reference. Retired traveling-party Rasel prose in other files is
 > quarry, not reader sequence.
 >
+> **Ancient-conspiracy promise — LOCKED 2026-08-16:** searching for Maren, Eli
+> uncovers evidence that the rival Charkha lineages began around 2000 BCE. The
+> Pömmelte mark, later records, and living testimony must form an evidence chain;
+> resemblance by itself does not prove continuity. Governing delivery: `32`.
+>
 > **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1 Three Circles three-way read + Rasel entropy sentence (*signal you could record completely…*); Ch 2 Adapa wrong-first destiny hunger; Ch 6 Extra settlement unnoticed twin incomplete circles (Loop hatch-mark only — no street name). Ancient face = Sídhe/Göbekli/Folly. Craft lock: `17` § *Deep-time residue density*; beats: `32`.
 >
 > **Inana's Descent — dual face — LOCKED 2026-08-01:** Ch 2 archive seeds Descent + Enheduanna; Ch 4 Somchai = healing face; Ch 6–7 Wren/Rowan renewal = romance face (gates/attend/return-with-cost through conduct). `35` § *Inana's Descent*; `19` § *Rowan returns*.
