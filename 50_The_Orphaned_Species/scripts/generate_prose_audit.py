@@ -212,6 +212,81 @@ def audit_chapter(title: str, body: str, lines: list[str]) -> dict:
         elif len(words) > 20 and not BODY_NOUNS.search(first_para):
             flags.append("OPEN-LIGHT-ON-BODY")
 
+    # Paragraph-level checks
+    raw_paras = re.split(r"\n\s*\n", text)
+    prose_paras = []
+    for p in raw_paras:
+        stripped = p.strip()
+        if not stripped:
+            continue
+        if stripped.startswith("#") or stripped.startswith(">") or stripped.startswith("---") or re.match(r"^\*\*[A-Z]", stripped):
+            continue
+        prose_paras.append(stripped)
+
+    para_word_counts = [len(p.split()) for p in prose_paras]
+
+    # Short-paragraph rhythm: 3+ consecutive paragraphs under 25 words
+    short_runs = []
+    run = 0
+    run_start = 0
+    for i, wc in enumerate(para_word_counts):
+        if wc < 25:
+            if run == 0:
+                run_start = i
+            run += 1
+        else:
+            if run >= 3:
+                short_runs.append((run_start + 1, run))
+            run = 0
+    if run >= 3:
+        short_runs.append((run_start + 1, run))
+    if short_runs:
+        flags.append(f"SHORT-PARA-RUN ({len(short_runs)} run(s) of 3+ short paragraphs)")
+
+    # Long paragraph: any paragraph over 250 words needs a visible break
+    long_paras = [(i + 1, wc) for i, wc in enumerate(para_word_counts) if wc > 250]
+    if long_paras:
+        flags.append(f"LONG-PARAGRAPH ({len(long_paras)} paragraph(s) over 250 words)")
+
+    # Identical paragraph openings: adjacent paragraphs starting with same word shape
+    opening_words = []
+    for p in prose_paras:
+        first_word = p.lstrip().split()[0].rstrip(".,;:\"'’)—-") if p.lstrip().split() else ""
+        opening_words.append(first_word.lower() if first_word else "")
+
+    identical_runs = []
+    run = 0
+    run_start = 0
+    prev = ""
+    for i, w in enumerate(opening_words):
+        if w and w == prev and w in {"he", "she", "the", "eli", "wren", "a"}:
+            if run == 0:
+                run_start = i - 1 if i > 0 else 0
+            run += 1
+        else:
+            if run >= 3:
+                identical_runs.append((run_start + 1, run))
+            run = 0
+        prev = w
+    if run >= 3:
+        identical_runs.append((run_start + 1, run))
+    if identical_runs:
+        flags.append(f"IDENTICAL-PARA-OPENING ({len(identical_runs)} run(s) of 3+ same-shape openings)")
+
+    metrics["paragraph_count"] = len(prose_paras)
+    metrics["short_para_runs"] = len(short_runs)
+    metrics["long_paragraphs"] = len(long_paras)
+    metrics["identical_opening_runs"] = len(identical_runs)
+
+    # Abstract-open paragraphs: paragraphs starting with abstract thematic language
+    abstract_open_paras = 0
+    for p in prose_paras:
+        first_sent = p.split("\n")[0].strip()
+        if len(first_sent.split()) > 10 and ABSTRACT_OPEN.search(first_sent):
+            abstract_open_paras += 1
+    if abstract_open_paras:
+        flags.append(f"ABSTRACT-OPEN-PARA ({abstract_open_paras} paragraph(s))")
+
     # Stale framing
     stale_hits = []
     for phrase, _replacement in STALE_FRAMING.items():
@@ -288,6 +363,8 @@ def generate_audit(book_cfg):
     md.append("2. `ABSTRACT-OVER-BODY` uses a sliding window; tune the window size if false-positive rate is high.")
     md.append("3. `STALE-FRAMING` is pattern-based; expand `STALE_FRAMING` after each lock change.")
     md.append("4. `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY` check the first paragraph only.")
+    md.append("5. `SHORT-PARA-RUN` / `LONG-PARAGRAPH` / `IDENTICAL-PARA-OPENING` are rhythm flags, not prose verdicts. Review in context.")
+    md.append("6. Paragraph metrics are collected per-chapter; short/long paragraph counts can be inflated by dialogue, metadata, or intentional rhythm.")
     md.append("")
     md.append("## Methodology")
     md.append("")
@@ -301,6 +378,10 @@ def generate_audit(book_cfg):
     md.append("- `ABSTRACT-OVER-BODY`: abstract terms outweigh body terms in a local window")
     md.append("- `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY`: chapter open without physical body")
     md.append("- `STALE-FRAMING`: superseded canonical phrasing")
+    md.append("- `SHORT-PARA-RUN`: 3+ consecutive paragraphs under 25 words")
+    md.append("- `LONG-PARAGRAPH`: paragraph over 250 words")
+    md.append("- `IDENTICAL-PARA-OPENING`: 3+ consecutive paragraphs opening with same word shape")
+    md.append("- `ABSTRACT-OPEN-PARA`: paragraph opening with abstract thematic language")
     md.append("")
     md.append("Source: `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence / AI-pattern checklist* and § *Human-prose lock*; `AGENTS.md` prose discipline.")
 

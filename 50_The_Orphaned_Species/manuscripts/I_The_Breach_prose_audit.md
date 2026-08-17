@@ -7,34 +7,38 @@
 ## Summary
 - **Chapters audited:** 13
 - **Flagged chapters:** 13
-- **Total flag instances:** 33
+- **Total flag instances:** 46
 
 | Flag | Chapters |
 |---|---|
-| STACKED-EM-DASHES | 12 |
+| SHORT-PARA-RUN | 13 |
 | TELL-NOT-SHOW | 12 |
+| STACKED-EM-DASHES | 11 |
 | NOT-X-BUT-Y | 6 |
 | ECHO-CLOSER | 2 |
+| LONG-PARAGRAPH | 1 |
 | OPEN-LIGHT-ON-BODY | 1 |
 
 ## Chapter-level detail
 
 ### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5471
-- **Sentence count:** 483
+- **Word count:** 5527
+- **Sentence count:** 490
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (5 hits)
+  - NOT-X-BUT-Y (2 hits)
+  - STACKED-EM-DASHES (7 hits)
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (15 hits)
+  - SHORT-PARA-RUN (4 run(s) of 3+ short paragraphs)
+  - LONG-PARAGRAPH (1 paragraph(s) over 250 words)
 
 ### ## Chapter Two—His Hand
-- **Word count:** 9852
-- **Sentence count:** 797
+- **Word count:** 9116
+- **Sentence count:** 802
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (40 hits)
-  - TELL-NOT-SHOW (41 hits)
+  - TELL-NOT-SHOW (34 hits)
+  - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Three—What Didn't Die
 - **Word count:** 2486
@@ -44,6 +48,7 @@
   - STACKED-EM-DASHES (8 hits)
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (6 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Four—The Passage
 - **Word count:** 1987
@@ -51,6 +56,7 @@
 - **Flags:**
   - STACKED-EM-DASHES (3 hits)
   - TELL-NOT-SHOW (2 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Five—The Field That Counts
 - **Word count:** 3806
@@ -59,6 +65,7 @@
   - NOT-X-BUT-Y (2 hits)
   - STACKED-EM-DASHES (7 hits)
   - TELL-NOT-SHOW (13 hits)
+  - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Six—First Witness
 - **Word count:** 1238
@@ -66,6 +73,7 @@
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
   - TELL-NOT-SHOW (2 hits)
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Seven—The Forming Line
 - **Word count:** 2252
@@ -74,6 +82,7 @@
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (8 hits)
   - TELL-NOT-SHOW (5 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Eight—Ila's Hands
 - **Word count:** 1443
@@ -81,6 +90,7 @@
 - **Flags:**
   - STACKED-EM-DASHES (4 hits)
   - TELL-NOT-SHOW (1 hits)
+  - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Nine—Two Teams
 - **Word count:** 1383
@@ -89,12 +99,14 @@
   - STACKED-EM-DASHES (4 hits)
   - TELL-NOT-SHOW (6 hits)
   - OPEN-LIGHT-ON-BODY
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Ten—People Over Evidence
 - **Word count:** 1902
 - **Sentence count:** 185
 - **Flags:**
   - STACKED-EM-DASHES (6 hits)
+  - SHORT-PARA-RUN (4 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Eleven—Human Doors
 - **Word count:** 3993
@@ -102,6 +114,7 @@
 - **Flags:**
   - STACKED-EM-DASHES (4 hits)
   - TELL-NOT-SHOW (11 hits)
+  - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Twelve—The Tree with No Top
 - **Word count:** 2041
@@ -109,6 +122,7 @@
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
   - TELL-NOT-SHOW (7 hits)
+  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Thirteen—The Living Route
 - **Word count:** 3066
@@ -116,6 +130,7 @@
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - TELL-NOT-SHOW (1 hits)
+  - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
 
 ## Open items
 
@@ -123,6 +138,8 @@
 2. `ABSTRACT-OVER-BODY` uses a sliding window; tune the window size if false-positive rate is high.
 3. `STALE-FRAMING` is pattern-based; expand `STALE_FRAMING` after each lock change.
 4. `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY` check the first paragraph only.
+5. `SHORT-PARA-RUN` / `LONG-PARAGRAPH` / `IDENTICAL-PARA-OPENING` are rhythm flags, not prose verdicts. Review in context.
+6. Paragraph metrics are collected per-chapter; short/long paragraph counts can be inflated by dialogue, metadata, or intentional rhythm.
 
 ## Methodology
 
@@ -136,5 +153,9 @@ Pattern checks applied:
 - `ABSTRACT-OVER-BODY`: abstract terms outweigh body terms in a local window
 - `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY`: chapter open without physical body
 - `STALE-FRAMING`: superseded canonical phrasing
+- `SHORT-PARA-RUN`: 3+ consecutive paragraphs under 25 words
+- `LONG-PARAGRAPH`: paragraph over 250 words
+- `IDENTICAL-PARA-OPENING`: 3+ consecutive paragraphs opening with same word shape
+- `ABSTRACT-OPEN-PARA`: paragraph opening with abstract thematic language
 
 Source: `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence / AI-pattern checklist* and § *Human-prose lock*; `AGENTS.md` prose discipline.

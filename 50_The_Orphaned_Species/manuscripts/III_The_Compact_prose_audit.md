@@ -7,16 +7,18 @@
 ## Summary
 - **Chapters audited:** 10
 - **Flagged chapters:** 10
-- **Total flag instances:** 28
+- **Total flag instances:** 39
 
 | Flag | Chapters |
 |---|---|
 | TELL-NOT-SHOW | 10 |
+| SHORT-PARA-RUN | 10 |
 | NOT-X-BUT-Y | 6 |
 | ABSTRACT-DENSE | 5 |
 | STACKED-EM-DASHES | 3 |
 | ECHO-CLOSER | 3 |
 | ABSTRACT-OVER-BODY | 1 |
+| IDENTICAL-PARA-OPENING | 1 |
 
 ## Chapter-level detail
 
@@ -28,12 +30,14 @@
   - STACKED-EM-DASHES (1 hits)
   - TELL-NOT-SHOW (9 hits)
   - ABSTRACT-DENSE (22 abstract terms, 107 body terms)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Two—Terms of Welcome
 - **Word count:** 3938
 - **Sentence count:** 496
 - **Flags:**
   - TELL-NOT-SHOW (5 hits)
+  - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Three—Three Requests
 - **Word count:** 2175
@@ -41,14 +45,16 @@
 - **Flags:**
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (2 hits)
+  - SHORT-PARA-RUN (13 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Four—Lang's Folder
-- **Word count:** 4408
-- **Sentence count:** 516
+- **Word count:** 4446
+- **Sentence count:** 519
 - **Flags:**
-  - NOT-X-BUT-Y (2 hits)
-  - TELL-NOT-SHOW (5 hits)
+  - NOT-X-BUT-Y (3 hits)
+  - TELL-NOT-SHOW (6 hits)
   - ABSTRACT-DENSE (21 abstract terms, 95 body terms)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Five—The Names They Carry
 - **Word count:** 3800
@@ -59,6 +65,7 @@
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (12 hits)
   - ABSTRACT-DENSE (26 abstract terms, 84 body terms)
+  - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Six—The Compact
 - **Word count:** 3779
@@ -68,6 +75,7 @@
   - TELL-NOT-SHOW (7 hits)
   - ABSTRACT-DENSE (31 abstract terms, 69 body terms)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Seven—A Crown With an End
 - **Word count:** 2945
@@ -76,6 +84,8 @@
   - NOT-X-BUT-Y (1 hits)
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (3 hits)
+  - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
+  - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
 ### ## Chapter Eight—The Cost of Consent
 - **Word count:** 3826
@@ -83,6 +93,7 @@
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - TELL-NOT-SHOW (5 hits)
+  - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Nine—The Packet
 - **Word count:** 3499
@@ -90,6 +101,7 @@
 - **Flags:**
   - TELL-NOT-SHOW (1 hits)
   - ABSTRACT-DENSE (22 abstract terms, 86 body terms)
+  - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Ten—The Handover
 - **Word count:** 1997
@@ -97,6 +109,7 @@
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
   - TELL-NOT-SHOW (3 hits)
+  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
 ## Open items
 
@@ -104,6 +117,8 @@
 2. `ABSTRACT-OVER-BODY` uses a sliding window; tune the window size if false-positive rate is high.
 3. `STALE-FRAMING` is pattern-based; expand `STALE_FRAMING` after each lock change.
 4. `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY` check the first paragraph only.
+5. `SHORT-PARA-RUN` / `LONG-PARAGRAPH` / `IDENTICAL-PARA-OPENING` are rhythm flags, not prose verdicts. Review in context.
+6. Paragraph metrics are collected per-chapter; short/long paragraph counts can be inflated by dialogue, metadata, or intentional rhythm.
 
 ## Methodology
 
@@ -117,5 +132,9 @@ Pattern checks applied:
 - `ABSTRACT-OVER-BODY`: abstract terms outweigh body terms in a local window
 - `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY`: chapter open without physical body
 - `STALE-FRAMING`: superseded canonical phrasing
+- `SHORT-PARA-RUN`: 3+ consecutive paragraphs under 25 words
+- `LONG-PARAGRAPH`: paragraph over 250 words
+- `IDENTICAL-PARA-OPENING`: 3+ consecutive paragraphs opening with same word shape
+- `ABSTRACT-OPEN-PARA`: paragraph opening with abstract thematic language
 
 Source: `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence / AI-pattern checklist* and § *Human-prose lock*; `AGENTS.md` prose discipline.
