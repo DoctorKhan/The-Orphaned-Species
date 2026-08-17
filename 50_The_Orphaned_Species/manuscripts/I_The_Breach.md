@@ -251,8 +251,9 @@ back for you."
 "Didn't come back from where."
 
 "I never asked where. They came after dinner with two bags and said one
-night. I believed them because it was easier. Suresh says your sheet frayed.
-Not chew. Not salt-rot. If something cut it, someone wanted you off that lane."
+night. I believed them because it was easier. The harbor office is asking
+about old families again. You take Suresh's boat tomorrow night. Whatever
+that costs."
 
 "They left me here."
 

@@ -2019,7 +2019,7 @@ state hospital and recognized by three of them for emergency stabilization.
 
 Nehir knows its name.
 
-"Somchai Vichai," she says. "Field medic. He takes the patients registration
+"Somchai Vichai," she says. "Field medic. He takes the patients the registration systems refuse. If his intake flags, the clinic closes and the patient goes back to the corridor with no paper."
 systems refuse."
 
 Sora's expression changes.
