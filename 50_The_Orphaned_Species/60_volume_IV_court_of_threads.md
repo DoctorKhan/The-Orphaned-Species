@@ -524,6 +524,32 @@ conduct in the room. Sex between Rowan and Eli still grants no status. No pulse
 inside the birth. Rotate which two are tense; Wren does not referee Eli/Rowan.
 `19` § *Periodic pair-competition*.
 
+> **RELATIONSHIP / FAMILY / CAREER / IDENTITY — LOCKED 2026-08-17:** These
+> mechanical tests supplement the locked camera, romance, and succession rules
+> above. No new plot is invented here; each test names a concrete on-page
+> requirement the existing locked cards already imply but do not yet enforce.
+>
+> 1. **Rowan needs interior access here, or the pregnancy arc stays half-told.**
+>    This volume is Wren/Rowan camera, but `14` restricts recurring interior
+>    lenses to Eli/Wren/Somchai. Rowan passes the away-scene test. Requirement:
+>    at least one scene per major pregnancy beat where Rowan’s interiority governs
+>    and the reader learns what she wants before Eli misreads it.
+> 2. **Wren/Rowan wants must route through each other directly.** In any
+>    Wren/Rowan scene, name one thing each wants from the other before either
+>    names what she wants from Eli. If both wants route through Eli, the bond
+>    is costumed, not load-bearing.
+> 3. **Pregnancy-as-succession needs mundane intimate texture.** At least two
+>    per major succession beat: form fields, unasked rooms, chair choices, meals
+>    where nobody says “succession.”
+> 4. **Command scenes must stay bodily.** Every command scene contains at least
+>    one concrete action rooted in Eli’s idiolect — breaker room, heat, latch,
+>    route. If logistics can be handed unchanged to another character, revise.
+> 5. **Career and family decisions must collide in the same scene.** At least
+>    once in this volume, the command meeting is also the moment Rowan and Wren
+>    choose whether to trust each other with the truth.
+>
+> Full argument and prose tests: `35_relationship_family_career_addendum.md`.
+
 ---
 
 ## 2. POV and tonal change

@@ -109,11 +109,13 @@
 4. `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY` check the first paragraph only.
 5. `SHORT-PARA-RUN` / `LONG-PARAGRAPH` / `IDENTICAL-PARA-OPENING` are rhythm flags, not prose verdicts. Review in context.
 6. Paragraph metrics are collected per-chapter; short/long paragraph counts can be inflated by dialogue, metadata, or intentional rhythm.
+7. `TIDY-COMPARISON` flags symmetrical simile syntax; review for interchangeability, not every instance is wrong.
 
 ## Methodology
 
 Pattern checks applied:
 - `NOT-X-BUT-Y`: default contrastive shape
+- `TIDY-COMPARISON`: symmetrical simile/comparison syntax
 - `STACKED-EM-DASHES`: 2+ em dashes in one sentence
 - `COLON-HEAVY`: 2+ colons in one sentence
 - `ECHO-CLOSER`: final-sentence thematic restatement

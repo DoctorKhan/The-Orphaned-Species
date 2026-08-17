@@ -531,6 +531,38 @@
 
 > **Character voice — LOCKED 2026-08-16:** No character sounds as though they have read the project bible. Eli misreads Rowan when she refuses to be used as leverage: he hears loyalty politics; she means a person is not a bargaining chip. Wren enforces a specific intake rule partly because she remembers being the one left off a manifest and wants Eli to see her keep it—partly selfish, partly right. Somchai has no registry or politics vocabulary; he describes what he understands through bodies—weight, heat, breath, scar, pulse—until Eli supplies the terms.
 
+> **RELATIONSHIP / FAMILY / CAREER / IDENTITY — LOCKED 2026-08-17:** These
+> mechanical tests supplement the locked romance, voice, and command rules above.
+> No new plot is invented here; each test names a concrete on-page requirement
+> the existing locked cards already imply but do not yet enforce.
+>
+> 1. **Rowan needs interior access in Book IV, or the pregnancy arc stays
+>    half-told.** `60` governs camera, but `14` restricts recurring interior
+>    lenses to Eli/Wren/Somchai. Rowan passes the away-scene test. Requirement:
+>    at least one scene per major pregnancy beat where Rowan’s interiority governs.
+> 2. **Wren/Rowan wants must route through each other directly.** In any
+>    Wren/Rowan scene, name one thing each wants from the other before either
+>    names what she wants from Eli. If both wants route through Eli, the bond
+>    is costumed, not load-bearing.
+> 3. **Command scenes must stay bodily.** Every command scene contains at least
+>    one concrete action from Eli’s idiolect — breaker room, heat, latch, route.
+>    If logistics can be handed unchanged to another character, revise.
+> 4. **Pregnancy-as-succession needs mundane intimate texture.** At least two
+>    per major beat: form fields, unasked rooms, chair choices, meals where
+>    nobody says “succession.”
+> 5. **V and IX need one recurring physical gesture for letting-go.** Choose
+>    one small action — unlatch a gate, leave a tool, skip a route check — and
+>    let it reappear in IX without exposition.
+> 6. **Romance cost must move up or down on the page.** Track trust/obligation/
+>    boundary change per significant Eli/Wren or Eli/Rowan scene. No static
+>    warmth or tension.
+> 7. **Career and family decisions must collide in the same scene.** At least
+>    once per volume, the command meeting is also the meal where the child’s room
+>    is being arranged. If you can describe the volume’s politics without a
+>    specific body, revise.
+>
+> Full argument and prose tests: `35_relationship_family_career_addendum.md`.
+
 *Chapter-by-chapter spine for Volume III (Choice). Companion to `05_story_architecture.md` § *Classic spine*, `27_character_development_arcs.md`, `41_climax_the_awakening.md` (Book II), `43_audience_and_character_recommendations.md`, and `44_cultural_moment_and_mass_appeal.md`.*
 
 > **AGENCY PACING — LOCKED 2026-08-15:** one loss, one return (`68` § *Pacing*). **Take away:** force-sync ("I can save them"). **Return:** he refuses; the hall continues. Named dead are the cost. Heather journey = Courage vocabulary (gaze), not a second exam. No meditation arc in the war. Keep the Player/control doctrine out of Book III. Teahouse coda is conduct and a seed, not a syllabus.

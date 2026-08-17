@@ -7,7 +7,7 @@
 ## Summary
 - **Chapters audited:** 10
 - **Flagged chapters:** 10
-- **Total flag instances:** 34
+- **Total flag instances:** 35
 
 | Flag | Chapters |
 |---|---|
@@ -16,6 +16,7 @@
 | NOT-X-BUT-Y | 6 |
 | STACKED-EM-DASHES | 4 |
 | ABSTRACT-DENSE | 3 |
+| TIDY-COMPARISON | 1 |
 | ABSTRACT-OVER-BODY | 1 |
 
 ## Chapter-level detail
@@ -83,6 +84,7 @@
 - **Word count:** 2274
 - **Sentence count:** 299
 - **Flags:**
+  - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (3 hits)
   - TELL-NOT-SHOW (8 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
@@ -112,11 +114,13 @@
 4. `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY` check the first paragraph only.
 5. `SHORT-PARA-RUN` / `LONG-PARAGRAPH` / `IDENTICAL-PARA-OPENING` are rhythm flags, not prose verdicts. Review in context.
 6. Paragraph metrics are collected per-chapter; short/long paragraph counts can be inflated by dialogue, metadata, or intentional rhythm.
+7. `TIDY-COMPARISON` flags symmetrical simile syntax; review for interchangeability, not every instance is wrong.
 
 ## Methodology
 
 Pattern checks applied:
 - `NOT-X-BUT-Y`: default contrastive shape
+- `TIDY-COMPARISON`: symmetrical simile/comparison syntax
 - `STACKED-EM-DASHES`: 2+ em dashes in one sentence
 - `COLON-HEAVY`: 2+ colons in one sentence
 - `ECHO-CLOSER`: final-sentence thematic restatement

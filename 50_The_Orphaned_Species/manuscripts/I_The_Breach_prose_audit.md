@@ -7,7 +7,7 @@
 ## Summary
 - **Chapters audited:** 13
 - **Flagged chapters:** 13
-- **Total flag instances:** 46
+- **Total flag instances:** 49
 
 | Flag | Chapters |
 |---|---|
@@ -15,6 +15,7 @@
 | TELL-NOT-SHOW | 12 |
 | STACKED-EM-DASHES | 11 |
 | NOT-X-BUT-Y | 6 |
+| TIDY-COMPARISON | 3 |
 | ECHO-CLOSER | 2 |
 | LONG-PARAGRAPH | 1 |
 | OPEN-LIGHT-ON-BODY | 1 |
@@ -33,11 +34,11 @@
   - LONG-PARAGRAPH (1 paragraph(s) over 250 words)
 
 ### ## Chapter Two—His Hand
-- **Word count:** 9116
-- **Sentence count:** 802
+- **Word count:** 10498
+- **Sentence count:** 914
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - TELL-NOT-SHOW (34 hits)
+  - TELL-NOT-SHOW (43 hits)
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Three—What Didn't Die
@@ -80,6 +81,7 @@
 - **Sentence count:** 183
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
+  - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (8 hits)
   - TELL-NOT-SHOW (5 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
@@ -96,6 +98,7 @@
 - **Word count:** 1383
 - **Sentence count:** 103
 - **Flags:**
+  - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (4 hits)
   - TELL-NOT-SHOW (6 hits)
   - OPEN-LIGHT-ON-BODY
@@ -120,6 +123,7 @@
 - **Word count:** 2041
 - **Sentence count:** 221
 - **Flags:**
+  - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (1 hits)
   - TELL-NOT-SHOW (7 hits)
   - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
@@ -140,11 +144,13 @@
 4. `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY` check the first paragraph only.
 5. `SHORT-PARA-RUN` / `LONG-PARAGRAPH` / `IDENTICAL-PARA-OPENING` are rhythm flags, not prose verdicts. Review in context.
 6. Paragraph metrics are collected per-chapter; short/long paragraph counts can be inflated by dialogue, metadata, or intentional rhythm.
+7. `TIDY-COMPARISON` flags symmetrical simile syntax; review for interchangeability, not every instance is wrong.
 
 ## Methodology
 
 Pattern checks applied:
 - `NOT-X-BUT-Y`: default contrastive shape
+- `TIDY-COMPARISON`: symmetrical simile/comparison syntax
 - `STACKED-EM-DASHES`: 2+ em dashes in one sentence
 - `COLON-HEAVY`: 2+ colons in one sentence
 - `ECHO-CLOSER`: final-sentence thematic restatement
