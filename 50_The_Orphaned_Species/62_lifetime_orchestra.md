@@ -141,7 +141,7 @@ research witnesses, seed, tools, news, and songs between settlements. It is a
 peer affiliation across houses, not another house. The distinctions remain
 hard:
 
-- **animal house:** enduring intergenerational mentorship for maturation;
+- **Five Forms:** shared cloister training practiced by every learner;
 - **neo-śramaṇa path:** a discipline of spiritual inquiry and service, open to
   people who wander and people who remain;
 - **flight:** temporary, self-chosen movement with a practical route and an end.

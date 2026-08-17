@@ -9,7 +9,7 @@
 > **Dreaming draft lock — 2026-08-01:** Eli's vivid dreams predate the Malacca breach, but Book I gives neither him nor the reader a settled supernatural explanation. The counting-doors dream remains plausibly trauma, exhaustion, bodily alarm, coincidence, or weak contact. Dreams leave sensory residue and uncertainty; they do not provide an itinerary, command, title, or immediately verified answer.
 
 > **Opening alignment—LOCKED 2026-07-26 (rev. Z); parent trail revised 2026-08-10; race removed 2026-08-12; Cube approach 2026-08-16:** **Ch 1**—**Friday AM** solo sail, sabotaged sheet, near-miss with Timah/Jul's harvest boat, Kiran capsizes attempting rescue; Suresh awards the job for competence under real danger, not a wager win → earns **Circuit freight / marshalling** (tire trucks, last safety car; Foundry sleeve = corridor cover; **stay off the Cube**); **Friday PM** Mei **dinner send-off / ambiguous-loss truth**; **Saturday AM** Babaji **hotel** (**first meet Wren**; cover vs job; closet is fallback only); **Saturday PM** squeeze + **raid on Babaji's offices** as Eli **departs** (last light). **Ch 2**—**Saturday PM–eve:** Wren guides checkpoints → causeway hall → document lanes (peels off) → clerk / ring / wage ticket → **Continue Inn**. **Sunday:** Cherry Lane toward **yards** → Circuit closures pour him **closer and closer to the Cube** (spectacle, not destination) → concert floor he did not choose → closet as boxed fallback → Circuit freight escape → Malacca breach. **No packet in Ch 1.** Hearth **suspended**. Pelangi kiddy-car chase **retired**. Breach end Ch 2. Malacca: **talents** (street = psionic ability; lowercase) **activate**, not trained (`95`). Cube grounding = **Maren**, not martial. **Ch 3** — aftermath through "I'm not going dark."
-> - **Ch 1 (below):** governing draft—**LOCKED rev. Y** (see opening alignment). Decision record: `DECISIONS_Chapter_One.md`.
+> - **Ch 1 (below):** governing draft—**LOCKED rev. Y; sail-memory prose tightened 2026-08-16** (see opening alignment). Decision record: `DECISIONS_Chapter_One.md`.
 > - **Ch 2 (below):** governing draft—**LOCKED rev. Y:** Wren escort through **causeway hall**; wrong-room overhear; document clerk → **Saturday night Continue Inn** → **Sunday AM** Cube → convoy → Straits → Malacca breach.
 > - **Ch 3 (below):** governing draft, **merged 2026-07-22**—aftermath through "I'm not going dark." Decision record: `DECISIONS_Chapter_Three.md` flags.
 > - **Ch 4** — The Passage
@@ -55,9 +55,7 @@ Mid-channel pocket. Not good, not with someone deciding something about him from
 
 He braces his knees, rope in one fist, the steering stick loose in the other, and rocks the skiff—pull, release, pull, release—forcing the patched sail to swallow whatever is left. Forward weight: a little glide. Back: almost none. Once the cloth swells and collapses. Twice. Again. His palm burns.
 
-*Feel the cloth, don't fight the air.* Suresh's hands over his on a borrowed tiller, years of mornings on this same fairway, dropping into Malay and back out again whenever the lesson really mattered, the words that weren't English always landing harder than the ones that were. *Feel it before you see it.* His voice, made him say it back until it was habit and not a rhyme, at first light on this same dinghy before the sun was even up. Suresh taught him everything he knows about wind and water—the pump, the placement, all of it; there was no one else on this stretch of coast who bothered. Alone on Pelangi he has only the stone, the fairway, and the memory of a gruff old man arguing with the wind as if wind were a person who could be known.
-
-He has nothing chasing him and nothing to chase, only dead air, a patched sail, and a man on the wall who has already decided to watch this through to the end.
+*Feel the cloth, don't fight the air.* Suresh's hand over his on the tiller, easing Eli's grip until the wood shifted against his palm. Eli loosens his grip on the steering stick.
 
 Eli keeps pumping, still inside the marks. He feels the air before he sees it: hairs lifting on his forearms, cold on his cheek. The breeze comes along the storm wall first, low and narrow.
 
@@ -1396,7 +1394,7 @@ He tries it that night on the rope-burn in his palm from Pelangi. Stare. Close. 
 
 The fourth afternoon the abbot points at a sala post, then at Eli's sternum, then at the post again. No talk. Eli looks at the post until it is only wood: grain, a nail scar, light. Then the heat under the bone, which still wants a father and a file. Then the post. Then the heat. After a while the sternum is just another object in the room, the way the post was. The heat has not left. He can look at it the way he looked at the post.
 
-On the fifth morning tea and a nod release him. The heat has not left. He can look at it the way he looked at the post.
+On the fifth morning the abbot gives him tea and a nod.
 
 "You will lose it," the abbot says. "Return."
 

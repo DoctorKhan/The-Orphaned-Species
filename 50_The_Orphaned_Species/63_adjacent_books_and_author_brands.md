@@ -82,7 +82,7 @@ replace main-series romance staging. They are **not** part of the locked
 | Type | Brand | Notes |
 |---|---|---|
 | Lifetime Orchestra adjacent short (single past-life case) | A | Must not spoil V–X architecture; no eternal Eli–Wren couple |
-| Eye of Sahara / Sahel House contested-image novella | A | Texture / wrong-first Atlantis; not a sixth pilgrimage climax for I–IV |
+| Eye of Sahara / Sahel network contested-image novella | A | Texture / wrong-first Atlantis; not a sixth pilgrimage climax for I–IV |
 
 ### Explicitly refused as satellites
 

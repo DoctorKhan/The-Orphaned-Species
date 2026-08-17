@@ -31,8 +31,10 @@ mature beyond the violence that made it an orphaned species.*
 become after it turns against its makers and their progeny?*
 
 **Precision:** the ring initially proves **Rasel** survived. It does not by
-itself prove Maren survived or explain either custody chain. Book I sells Rasel's
-rescue. The westward evidence opens Maren's Book II pursuit.
+itself prove Maren survived or explain either custody chain. Book I sells the
+pursuit and confrontation with Rasel. Eli reaches him and leaves without him
+when Rasel chooses the program. The westward evidence opens Maren's Book II
+pursuit and release.
 
 **Format rule:** the oral hook, query, back cover, series overview, and visual
 system serve different jobs. They must share the same person, proof, pursuit,
@@ -58,8 +60,8 @@ get them there. The hunt then turns west
 through Göbekli and Europe's stone landscapes toward his mother, while every bloc
 wants to register, weaponize, worship, or erase people like him. The conspiracy is
 a recurring function, not a secret society: classify, sever, acquire, command.
-To recover his family, Eli must learn that connection without consent is only
-another machine.
+To reach his parents without turning either of them into a prize, Eli must
+learn that connection without consent is another machine.
 
 Wren makes the Sanxingdui transition credible: Malay Chinese and raised with
 Mandarin, Malay, English, and port shorthand, she can read the public language,
@@ -89,7 +91,7 @@ Rasel only if Eli accepts its demand that every living signal obey one rhythm.
 He must choose between the fastest way to reach his father and the kind of
 connection that would make rescuing him meaningless.
 
-Book I resolves its father-rescue chase and exacts irreversible costs while
+Book I resolves its father-pursuit and exacts irreversible costs while
 opening a planned four-book sequence: the evidence turns west toward Eli's
 mother, and family rescue widens into a struggle over whether awakening people
 will be registered, weaponized, worshiped, or permitted to govern themselves.
@@ -103,7 +105,12 @@ the recipient's stated submission requirements.
 
 **Internal only — not first-contact copy:** *National Treasure* (landmark set-pieces, distributed expertise); *Project Hail Mary* (warmth under catastrophe); *Circe* (myth in a body); *Cloud Atlas* / *The Bone Clocks* (long-arc cosmology — Orchestra, not Book I); *Station Eleven* (damaged-but-functioning texture; swap for Jemisin only if the letter leads with home/grief); *The Ministry for the Future* / Mars trilogy and *The Dispossessed* (III–IV governance only). Sanderson lectures (tools only, never a prose or query model): billed power; promise / progress / payoff; last-movement acceleration — `14` § *Billed power, promise, payoff, faster ending*. These may stay in this file. They do not enter the query.
 
-**Word count target:** Books I–IV currently (~114k drafted; trade-novel length TBD per volume). The initial query sells Book I and identifies the planned four-volume civic arc only as required. Books V–X form the later **Lifetime Orchestra** architecture (`SERIES_STRUCTURE.md`; `62_lifetime_orchestra.md`) and stay out of first-contact copy unless specifically requested. Do not pitch the civic arc as a trilogy.
+**Word count target:** Books I–IV currently total about **143k** drafted;
+trade-novel length remains unresolved per volume. The initial query sells Book
+I and identifies the planned four-volume civic arc only as required. Books V–X
+form the later **Lifetime Orchestra** architecture (`SERIES_STRUCTURE.md`;
+`62_lifetime_orchestra.md`) and stay out of first-contact copy unless
+specifically requested. Do not pitch the civic arc as a trilogy.
 
 ---
 
@@ -142,10 +149,10 @@ path of his father's ring. Malacca opens a dangerous receiver in him. Thailand
 teaches him that people, crops, breath, and disagreement can measure what no
 machine can own. At Sanxingdui, the Bronze Sacred Tree leads him to the father he
 thought dead and into an apparatus built to make every living signal obey one
-rhythm. Eli breaks the rhythm and brings Rasel out. Wren opens the civilian gate
+rhythm. Eli breaks the rhythm. Rasel refuses to leave, and Eli leaves without
+him. Wren opens the civilian gate
 under her real standing and loses the papers, work, and return that made her civic
-competence possible. Home is possible again—but it is angry, compromised, and
-pointing west.
+competence possible. The surviving evidence points west toward Maren.
 
 *For readers who want the opening hearth to matter before the mythology arrives — and who want every clue to cost something.*
 
@@ -155,7 +162,7 @@ pointing west.
 
 **Rescue is not reunion. Reunion is not innocence.**
 
-With Rasel present and Wren displaced, the trail turns through a Mesopotamian
+With Rasel still at Sanxingdui and Wren displaced, the trail turns through a Mesopotamian
 archive and Göbekli's selection machinery, then west through Pömmelte, Rollright,
 Men-an-Tol, and Stonehenge. Beside Rowan, a west-corridor Weft, Wren undertakes
 her first consequential clandestine recovery. Hassan's recovery reveals Maren's
@@ -578,13 +585,13 @@ confirmation for its own sake.
 
 Use with `32_volume_II_beatsheet.md` when outlining or drafting. **Pass** = all ten checklist items planned on-page; Charkha **pair-severance files** land Ch 5 (partial purpose → Vol III). Wren's first consequential recovery occurs beside Rowan. **No Sanxingdui repeat.**
 
-> **Route correction — 2026-08-16:** Delphic Games / Laurel night is a present-tense stop **after Ch 3 Göbekli**, then the Thrace clinic (Ch 4). Ch 6 is Pömmelte / Changing Map. Ch 7 is Rollright / Men-an-Tol. Delphi is not a Ch 6 detour. On-page: `manuscripts/II_The_Descent.md`.
+> **Route correction — 2026-08-16:** Laurel race / house night is a present-tense stop **after Ch 3 Göbekli**, then the Thrace clinic (Ch 4). Ch 6 is Pömmelte / Changing Map. Ch 7 is Rollright / Men-an-Tol. Laurel is not a Ch 6 detour. On-page: `manuscripts/II_The_Descent.md`.
 
 | Ch | Title | Body | Visual key | Clue argues | Payoff ≤3 ch | Institutional | Companion | Rhyme | Wonder | Domestic cost | Desire |
 |----|-------|------|------------|-------------|--------------|---------------|-----------|-------|--------|---------------|--------|
 | 1 | Bodies and Crossings | Anatolia corridor; Somchai→Eli | Wounded body; Tem record → 17:1 pit | Somchai terms vs Eli urgency; Wren vs search | Tem pointer → Ch 5 Pömmelte chain | Psion war policy; conscription | Somchai depth; Wren bills displacement | Kneel→cage→burn | Healer witnessed save (micro) | Usefulness-as-love fight | Reconstruct clue; keep west |
 | 2 | Westward Transfer | Bosporus–Thrace/Balkan | Map fragment; medical-transfer van | Slow handoff vs shortcut; *Liaisons* trap | Hassan move → Ch 3 holding | Custodians + contractor cover | Wren dismantles honey-trap | Dead-zone sig → Pömmelte chain | Ferry/port human scale | Route burned for refugees | Hassan before jurisdiction swallows |
-| 3 | Buried Instrument | Göbekli hill, then Games at Kastri | Fox pillar; Laurel night; giant face / white markings / hands | Person vs fill schedule; games-as-door | Stamp → Ch 4 clinic road | Consortium instrument window | Nehir's dry refusals | Kneel toward pulse | Hill pulse before ambush; Games night | Convoy leaves without them | Reach the clinic with a pass |
+| 3 | Buried Instrument | Göbekli hill, then Laurel crossing | Fox pillar; sinking boat; house night; marked face / hands | Person vs fill schedule; Iason's appeal buys the door | Iason's word → Ch 4 clinic road | Consortium instrument window | Nehir's dry refusals | Kneel toward pulse | Hill pulse before ambush; witnessed hand-memory | Convoy leaves; Iason loses his boat appeal | Reach the clinic through another person's standing |
 | 4 | Healer's Terms | Thrace clinic (Somchai→Eli) | Triage table; declined crown; Dei/Dio chalk | Healer vs pilgrims vs Sol mirror | Rumor outruns → Vol III | Media/faction recruiters | Somchai; Sol establishing pass | Gabriel annunciation after the hard no | — | Route narrows; filmed liability | Stay a body among bodies |
 | 5 | Holding Site | Hassan / western hold | Rasel's ring; Maren's hidden index; damaged western chart | Person vs evidence; keeper song vs file | Tether not address → Ch 7 | Charkha clipboards; courteous suppression | Hassan first-person; Sora leak (off-page) | Registry father-above vs hand-to-hand | — | Mother complicity; partial record lost | Find mother → **release** |
 | 6 | Changing Map | Pömmelte; Extra settlement; Wren→Eli | Pömmelte shafts; pew geometry; house sheet on Rowan's table | Kin branch wrong → corrected; person vs rejected status | Pömmelte mark → Ch 7 corridor | Holt/Khan clerk; Albion rename | Rowan entrance; Extra missing man; Sol recruiters | Church drain; Charkha A/B scripts | Pömmelte horror awe before inference | Network route burned | Return person, not category |
@@ -593,7 +600,13 @@ Use with `32_volume_II_beatsheet.md` when outlining or drafting. **Pass** = all 
 
 ### Book II clue-chain spine (pitch-facing)
 
-Anatolia corridor → **Göbekli (Ch 3)** → **Delphic Games / Laurel night** (after Ch 3, before the clinic) → **Thrace clinic (Ch 4)** → holding-site record (Ch 5) → **Pömmelte (Ch 6)** → broken-line church ⊂ Ch 6 → **Rollright/Men-an-Tol (Ch 7)** → **Stonehenge transmission station** → **Avebury release**. Artifacts: map fragment, ring, Maren's field notebook kin branch, registry marks, holed stone. Full beats: `32`; artifacts `35`; Maren's field notebook `52`.
+Anatolia corridor → **Göbekli (Ch 3)** → **Laurel race / house night**
+(after Ch 3, before the clinic) → **Thrace clinic (Ch 4)** → holding-site
+record (Ch 5) → **Pömmelte (Ch 6)** → broken-line church ⊂ Ch 6 →
+**Rollright/Men-an-Tol (Ch 7)** → **Stonehenge transmission station** →
+**Avebury release**. Artifacts: map fragment, ring, Maren's field notebook kin
+branch, registry marks, holed stone. Full beats: `32`; artifacts `35`; Maren's
+field notebook `52`.
 
 ### Book II chapter-end hooks (drafting obligation)
 
@@ -704,7 +717,7 @@ Use with `60_volume_IV_court_of_threads.md` when outlining or drafting. **Pass**
 || 4 | What We Build *(Rowan)* | Transfer package distributed; coupled-failure middle; southern-route proof | Transfer package + local refusal save Costa Rica route; no central author needed | Rowan chooses pregnancy after medical consultation; Eli refuses inheritance | Costa Rica stormfall route; mixed planting vs certified quick-growth | Local refusal saves route from collapsing under symbolic generosity | Transfer package proven under real failure | North American official; local councils; court contractor | Rowan/Eli/Wren disagreement; shared care and humor | Stormfall route with named counts | Mixed planting over certified stock | Rowan stops contraception by choice | Build a life together, not a succession |
 || 5 | The Rumor *(Asha, then Wren across a hard break)* | Lean Year inquiry; no single mastermind; real harm without final villain | Convergence proven in public record; factions named, remedies assigned, no invented final author | Rowan privately confirms pregnancy; court announces continuity celebration for unacknowledged heir | Appointment metadata leak; continuity celebration announced | Inquiry assigns conduct without inventing necessity | Inquiry creates legal basis for later remedy | Continuity official; Sol-linked cell; Weaver house; route cartel | Wren protects Rowan's privacy without pretending it's safe | Rumor outruns confirmation | Inquiry names harm without prophecy | Rowan controls disclosure terms | Protect privacy without erasing danger |
 || 6 | The Body of State *(Rowan)* | Route restrictions under court pressure; adaptation as competence, not diminishment | Route restrictions defeated by ordinary work and trusted team; local nodes govern without court permission | Rowan adapts to pregnancy under live threat; attempted protection becomes confinement | Nausea, fatigue, clinical monitoring, changed risk; false refuge Costa Rican offer | Adaptation is competence; confinement refused with Wren's access craft | False refuge refusal sets precedent for Ch 7–8 | Security; Weaver protectors; cloister loyalists; demographic officials | Rowan/Eli/Wren care language; Wren helps Rowan leave | Body-of-state language over pregnant body | Ordinary clinic, ordinary work, ordinary refusal | Rowan performs indispensable work remotely | Keep work, refuse confinement |
-|| 7 | The Two Houses *(Wren)* | Games-and-market proof; practical mess shows overlapping affiliations; two-house settlement | Games voided and appealed; medics, mechanics, merchants continue nonexclusive exchange; post-match meal under separate hosts | Betting pressure and concealed psionic aid exposed; cloister captain recruitment refused; post-match ordinary meal | Games relay corrupt; appeal opened; settlement slogans begin replacing names | Overlapping affiliations matter more than unified house; Stag rite distinguished from anger | Settlement sets pattern for Ch 8 succession terms | Betting officials; cloister captain; Stag mentor; settlement elders | Wren/Eli/Rowan tension and repair; post-match meal | Games proof before constitutional language | Stag turning rite without borrowed anger | Wren brokers cross-membership, audit, appeal | Affiliations before factions |
+|| 7 | The Two Houses *(Wren)* | Games-and-market proof; practical mess shows overlapping affiliations; two-house settlement | Games voided and appealed; medics, mechanics, merchants continue nonexclusive exchange; post-match meal under separate hosts | Betting pressure and concealed psionic aid exposed; cloister captain recruitment refused; post-match ordinary meal | Games relay corrupt; appeal opened; settlement slogans begin replacing names | Overlapping affiliations matter more than unified house; Stag practice separated from anger | Settlement sets pattern for Ch 8 succession terms | Betting officials; cloister captain; Stag teacher; settlement elders | Wren/Eli/Rowan tension and repair; post-match meal | Games proof before constitutional language | Stag practice without borrowed anger | Wren brokers cross-membership, audit, appeal | Affiliations before factions |
 || 8 | The False Heir *(Rowan)* | Pro-dynasty heir case; false labor complication; practical proof without Eli | False labor / complication forces court to function without Rowan; local Costa Rica nodes act without court | Late pregnancy narrows mobility and energy; false labor forces prior instructions to govern care | Six-hour council test; Costa Rica stormfall nursery crews; shade and water redistribution | Practical decentralization works under real disruption; heir myth refused | Decentralization proven under stress; succession terms ready | Pro-dynasty coalition; Eli; Wren; local Costa Rica crews | Rowan/Eli/Wren prior instructions and ordinary disagreement | Costa Rica nursery with named counts | False labor without supernatural sign | Rowan's body governs, not the court's timeline | Refuse to solve mistrust with her child's body |
 || 9 | The Room Prepared *(Wren)* | Birth room belongs to Rowan; court loses outward channel; local nodes govern without permission | Court loses outward command channel; local nodes already acting before contact returns | Rowan enters active labor while officials demand continuity extension from Eli | Court loses outward channel; local nodes report decisions already made | Center-loss proof is decentralized reporting, not speech | Local-node precedent resolves Ch 9–10 simultaneity | Dynasty delegates; pro-Eli cloisters; Weaver leaders; officials | Wren faces outward in old ply function; Eli inside as lover and father | Room prepared for birth, not succession | Center absent, network holds | Rowan controls attendants, information, intervention | Prepare Rowan's room, not the court's |
 || 10 | Before the First Breath *(Rowan, with a hard-break Wren coda)* | Labor + succession vote + Weaver fracture + cloister standoff in the same hours; transfer completed; birth ordinary | Transfer activated mid-contraction before birth; plural civilian authority certified; compact survives Eli | Rowan governs labor and naming; Eli wanted and replaceable; Wren's named kin role begins through care | 03:12–17:06 shared stamped clock; mountain swifts; garden with hose | Network survived center's absence; child continues a life, not a crown | Simultaneity lock delivered; coda moves to true series end | Assembly; Weavers; cloisters; House Nacre; local nodes | Rowan/Eli/Wren three distinct romances; ordinary disagreements | Mountain swifts leave to feed; garden survived by changing | Crown ceases before first breath | Rowan mother by choice; Wren kin by care; Eli citizen | Interoperability without merger; ordinary afternoon |
@@ -734,7 +747,8 @@ Albion → Brazilian river-port reception → **intake harm (Ch 3)** → transna
 - **Institutional villainy peaks:** Lang Standard + Devolution roster + Charkha dependency-transfer files — faces rhyme with Vol I registry / Vol II Charkha / ancient selection marks.
 - **Refuse:** boss-fight win; Eli keeps throne; universal forgiveness; coercion revealed as bluff; Hawaiʻi as military base; prophecy close.
 - **Messianic rule:** show kneel reflex **working** (`33` lock) — win is **re-teach deiwos + step-down**, not deny signs.
-- **Rasel consequence:** give him an independent Book III stake and conflict; do not repeat the rescue already completed at Sanxingdui.
+- **Rasel consequence:** give him an independent Book III stake and conflict;
+  do not turn the Sanxingdui confrontation into a delayed rescue.
 
 **Vol III close — CLIMAX + HUNGER REVISED 2026-08-09:** coexistence survives
 real failure; bounded authority is offered an exit and Eli takes it for real —

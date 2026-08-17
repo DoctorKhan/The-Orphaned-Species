@@ -376,12 +376,11 @@ repair, and long-route service deepen them; the imbalance accumulates rather
 than arriving through a single Book IV slaughter.
 Cloisters do not become obsolete: **Extra era → keep men from being nothing;
 scarcity era → keep men from being property.** `33`; `60` § cloister purpose
-transform; `WORLD_BIBLE`. **Animal houses — MATURATION / MENTORSHIP ONLY;
-REVISED AND LOCKED 2026-08-01:** cloister teaching lineages with older members,
-younger learners, and rites of passage (**Stag**; folk *Deer*; **Fox**;
-**Bear**; **Salmon**; **Ox**). Never temperament sorting, work assignment,
-military specialization, political faction, or civic rank. `40` § *Cloister
-animal houses*.
+transform; `WORLD_BIBLE`. **The Five Forms — SHARED TRAINING; REVISED AND
+LOCKED 2026-08-16:** every learner practices **Stag, Fox, Bear, Salmon, and
+Ox**. A temporary focus guides training without assigning identity, work,
+military function, political allegiance, or civic rank. Teachers earn trust
+form by form. `40` § *The Five Forms*.
 **Sex-differential mortality / Weaver sex ratio — LOCKED:** real-world COVID
 mortality was much higher in men; the Weapon's acute phase uses the same
 respiratory-severity pathway and therefore hit men harder. This leaves more
@@ -831,8 +830,15 @@ Deep-time material is reached by **clarifying the living web at charged grounds*
 - **Locked — delivery rule:** Malacca = receiver opens + overload + grid flare — **not** identity crisis (`36` §3). First **witness-site contact** = Vol I midpoint (partial **Ila** — pin exact stone below).
 - **Locked:** Aru's thread → **Göbekli Tepe in early Book II**, clarified at the
   fox-pillar Aru carved.
-- **Locked — Delphic Games / Laurel Cube contact (2026-07-23; remapped 2026-08-16):** **Book II after Ch 3 Göbekli, then Thrace clinic** — keeper-supervised consent-bound visionary encounter paired with **giant face / white markings** somatic imprint. **Not Book I Thailand** (wat = breath/Aru only). v1 § *The Medicine* in `archive/manuscripts/v1_archive.md` = quarry; adapt for Kastri; strip v1 cosmology dump; no Book III serpent-as-Makers-face reveal here. Eli drifts through layered vision: the giant face, then older hands performing the same motions across generations, then his own hands moving fast with the same cadence. A fellow incubant beside him stares, eyes wide, and that contact breaks the trance. He comes out of it still moving; afterward he begins to speak with his hands more often, the new vocabulary already operative before he has words for it. Partial memory on exit: body changed; daylight mind cannot carry all. On-page: `manuscripts/II_The_Descent.md` end of Ch 3.
-- **Locked — Laurel Cube witness site (2026-07-23; remapped 2026-08-16):** **Kastri / Laurel**, Book II after Ch 3 — paired with Delphic Games contact above.
+- **Locked — Laurel crossing / Cube contact (2026-08-16):** **Book II after
+  Ch 3 Göbekli, then Thrace clinic.** Eli loses one sailing race when he pulls
+  Iason from a sinking boat. Iason spends his sole guild appeal to open the
+  clinic road. At the keeper house Mara witnesses Eli's involuntary hand-memory:
+  a marked face, older hands, then his own movement. Nobody disappears. The
+  contact supplies no direction, address, or command. On-page:
+  `manuscripts/II_The_Descent.md` end of Ch 3.
+- **Locked — Laurel Cube witness site (2026-07-23; remapped 2026-08-16):**
+  **Kastri / Laurel**, Book II after Ch 3, reached through Iason's house word.
 ||- **Locked — witness sites for deep-time arc (2026-08-01):** Each arc resolves at a charged ground tied to existing project geography. **Ila** → Thailand cooperative, Vol I Ch 8 (forming ley line in paddy; first other practitioner — grief, not identity; local keeper ground). **Tem** → Pömmelte / broken-line church area, Vol II Ch 6 (grain-pit memory / dream-network; distributed contact, unrelated hidden children, pedigree is not destiny; domestic inward-control rhyme). **Anthea** → Anatolia / Rollright corridor, Vol II Ch 7 (sonic resonance; song becomes survival/concealment; chord Wren carries; distinct from Wren). **Cuno** → Stonehenge transmission station, Vol II Ch 9 (Cuno's geometry identifies the station; lossy routing record; not owned by hero). **Lovernios** → Anglesey peat bog / seed-catalog sink, Vol II Ch 8 (one-way Maren contact — locked above). **Aedan** → Hawkridge / Knowlton church-group (earliest Christian overbuild on pre-existing charged ground; Aedan's refusal to let the new god eat the old one). See `35_artifact_chain.md` and `00_NARRATIVE_STRUCTURE.md` legs.
 - **Locked — broken-line church narrative use (2026-08-01):** Somchai decodes the church as a live diagnostic template for miswired extraction geometry. The group learns that ley lines can be deliberately repurposed: pew-side drain, back-room surplus — the congregation is the medium, the clergy are the harvesters. Michael vs Gabriel iconography at the draining end is a label for the two ends of the break, not decoration. Keeper contact: a custodian left a marker in the sacristy; this clue pivots the group toward the uncorrupted Albion route. The church bridges the Göbekli pre-split diagram (Bridge plaquette) and the modern control system's post-split exploitation. **Country/denomination remain open** (`99`); geometry, iconography, decoder, and plot hook locked.
 - **Locked — archangel name seeds:** Michael / Gabriel / Persia-prince **references** across Vol I–III (§ G plot ladder; Sora's medal; church art; callsigns; healer hard no). **Person/agent distinction resolved for I–IV:** Prince of Persia = human national *sar* operator (rival team) in Vol I–III; Michael/Gabriel as other-plane agents = **ON HOLD → Books V+ only**. **Chapter-pinned 2026-08-08:** the callsign resolves to its human operator at the distant corridor attack, **Vol III Ch 8** (`33_volume_III_beatsheet.md` § *Ch 8*) — the same engagement where Sora Vithan dies defending Wren's network. Rival team nationality already locked below; **not locked:** personal name of the "Prince" callsign holder (author's choice at draft time).

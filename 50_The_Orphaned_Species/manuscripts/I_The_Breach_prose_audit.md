@@ -7,129 +7,113 @@
 ## Summary
 - **Chapters audited:** 13
 - **Flagged chapters:** 13
-- **Total flag instances:** 45
+- **Total flag instances:** 31
 
 | Flag | Chapters |
 |---|---|
-| STACKED-EM-DASHES | 13 |
-| TELL-NOT-SHOW | 12 |
-| ABSTRACT-OVER-BODY | 10 |
-| NOT-X-BUT-Y | 7 |
+| STACKED-EM-DASHES | 12 |
+| TELL-NOT-SHOW | 11 |
+| NOT-X-BUT-Y | 6 |
 | ECHO-CLOSER | 1 |
-| ABSTRACT-DENSE | 1 |
 | OPEN-LIGHT-ON-BODY | 1 |
 
 ## Chapter-level detail
 
 ### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5865
-- **Sentence count:** 488
+- **Word count:** 5463
+- **Sentence count:** 482
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (36 hits)
+  - STACKED-EM-DASHES (5 hits)
   - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (22 hits)
-  - ABSTRACT-DENSE (28 abstract terms, 272 body terms)
-  - ABSTRACT-OVER-BODY (windowed 28 abstract vs 2 body)
+  - TELL-NOT-SHOW (15 hits)
 
 ### ## Chapter Two—His Hand
-- **Word count:** 9589
-- **Sentence count:** 736
+- **Word count:** 9792
+- **Sentence count:** 790
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (63 hits)
-  - TELL-NOT-SHOW (39 hits)
-  - ABSTRACT-OVER-BODY (windowed 19 abstract vs 0 body)
+  - STACKED-EM-DASHES (40 hits)
+  - TELL-NOT-SHOW (41 hits)
 
 ### ## Chapter Three—What Didn't Die
-- **Word count:** 2472
-- **Sentence count:** 214
+- **Word count:** 2452
+- **Sentence count:** 215
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (11 hits)
-  - TELL-NOT-SHOW (7 hits)
+  - STACKED-EM-DASHES (8 hits)
+  - TELL-NOT-SHOW (6 hits)
 
 ### ## Chapter Four—The Passage
-- **Word count:** 1976
+- **Word count:** 1987
 - **Sentence count:** 176
 - **Flags:**
-  - STACKED-EM-DASHES (8 hits)
+  - STACKED-EM-DASHES (3 hits)
   - TELL-NOT-SHOW (2 hits)
-  - ABSTRACT-OVER-BODY (windowed 7 abstract vs 0 body)
 
 ### ## Chapter Five—The Field That Counts
-- **Word count:** 3677
-- **Sentence count:** 311
+- **Word count:** 3806
+- **Sentence count:** 327
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
-  - STACKED-EM-DASHES (14 hits)
+  - STACKED-EM-DASHES (7 hits)
   - TELL-NOT-SHOW (13 hits)
-  - ABSTRACT-OVER-BODY (windowed 7 abstract vs 2 body)
 
 ### ## Chapter Six—First Witness
-- **Word count:** 1492
-- **Sentence count:** 131
+- **Word count:** 1238
+- **Sentence count:** 112
 - **Flags:**
-  - STACKED-EM-DASHES (7 hits)
-  - TELL-NOT-SHOW (4 hits)
-  - ABSTRACT-OVER-BODY (windowed 5 abstract vs 1 body)
+  - STACKED-EM-DASHES (2 hits)
+  - TELL-NOT-SHOW (2 hits)
 
 ### ## Chapter Seven—The Forming Line
-- **Word count:** 2508
-- **Sentence count:** 198
+- **Word count:** 2252
+- **Sentence count:** 183
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (11 hits)
-  - TELL-NOT-SHOW (7 hits)
-  - ABSTRACT-OVER-BODY (windowed 13 abstract vs 2 body)
+  - STACKED-EM-DASHES (8 hits)
+  - TELL-NOT-SHOW (5 hits)
 
 ### ## Chapter Eight—Ila's Hands
-- **Word count:** 1448
-- **Sentence count:** 128
+- **Word count:** 1443
+- **Sentence count:** 127
 - **Flags:**
-  - STACKED-EM-DASHES (6 hits)
+  - STACKED-EM-DASHES (4 hits)
   - TELL-NOT-SHOW (1 hits)
-  - ABSTRACT-OVER-BODY (windowed 7 abstract vs 2 body)
 
 ### ## Chapter Nine—Two Teams
-- **Word count:** 1449
-- **Sentence count:** 104
+- **Word count:** 1383
+- **Sentence count:** 103
 - **Flags:**
-  - STACKED-EM-DASHES (7 hits)
-  - TELL-NOT-SHOW (7 hits)
-  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
+  - STACKED-EM-DASHES (4 hits)
+  - TELL-NOT-SHOW (6 hits)
   - OPEN-LIGHT-ON-BODY
 
 ### ## Chapter Ten—People Over Evidence
-- **Word count:** 1804
-- **Sentence count:** 176
+- **Word count:** 1902
+- **Sentence count:** 185
 - **Flags:**
-  - STACKED-EM-DASHES (7 hits)
+  - STACKED-EM-DASHES (6 hits)
 
 ### ## Chapter Eleven—Human Doors
-- **Word count:** 3938
-- **Sentence count:** 421
+- **Word count:** 3993
+- **Sentence count:** 425
 - **Flags:**
-  - STACKED-EM-DASHES (9 hits)
+  - STACKED-EM-DASHES (4 hits)
   - TELL-NOT-SHOW (11 hits)
-  - ABSTRACT-OVER-BODY (windowed 11 abstract vs 1 body)
 
 ### ## Chapter Twelve—The Tree with No Top
-- **Word count:** 2077
-- **Sentence count:** 224
+- **Word count:** 2041
+- **Sentence count:** 221
 - **Flags:**
-  - NOT-X-BUT-Y (2 hits)
-  - STACKED-EM-DASHES (4 hits)
+  - STACKED-EM-DASHES (1 hits)
   - TELL-NOT-SHOW (7 hits)
 
 ### ## Chapter Thirteen—The Living Route
-- **Word count:** 3989
-- **Sentence count:** 465
+- **Word count:** 2992
+- **Sentence count:** 412
 - **Flags:**
-  - NOT-X-BUT-Y (2 hits)
-  - STACKED-EM-DASHES (10 hits)
-  - TELL-NOT-SHOW (13 hits)
-  - ABSTRACT-OVER-BODY (windowed 15 abstract vs 2 body)
+  - NOT-X-BUT-Y (1 hits)
 
 ## Open items
 

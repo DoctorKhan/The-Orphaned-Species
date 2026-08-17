@@ -186,6 +186,9 @@ corridor, close to Wren's age, trained in the **same mixed-diaspora Weaver
 house**. Significant love before Mira; returns on-page Book II as Weft while Wren
 remains Knotter. Their formative bond never fully unbound, and they renew their
 romance under new terms. An older **Chinese-Malaysian** ex remains off-page.
+Their training house is a local institution in the Monsoon network. Rowan's
+Weft work later crosses the Stone network without changing her house or giving
+either route network authority over the relationship.
 Wren/Rowan and Wren/Eli become concurrent romantic bonds in Book II; Rowan/Eli
 remains nonsexual and non-romantic through Book III, where only deniable charge
 appears. Their direct relationship changes category in Book IV. Wren belongs to

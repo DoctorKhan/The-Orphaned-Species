@@ -1,23 +1,27 @@
 # Index — adopted 2026-08-16
 
-> **Status: LIVE.** This is the single place that says what is current.
+> **Status: LOCKED.** This is the single place that says what is current.
 > Status tags replace scattered SUPERSESSION banners as the first check
 > before drafting. Volume map still lives in repo-root
 > `SERIES_STRUCTURE.md`. Craft navigation for present-day docs remains
 > `28_present_day_tetralogy_craft_index.md`.
 >
 > Nothing was renamed or moved when this file was adopted. Collisions stay
-> until a quiet rename. New locks go into an existing LIVE file, or they
+> until a quiet rename. New locks go into an existing current file, or they
 > do not exist for drafting.
 >
 > `00_INDEX_DRAFT.md` is a pointer here.
 
 ## How to read this
 
-- **LIVE** — current canon; draft or revise against this.
-- **QUARRY** — superseded; salvage prose/ideas only; do not draft plot from it.
-- **PROCESS** — working scratch. Do not treat as canon.
+- **LOCKED** — canonical binding. Do not change without explicit override.
+- **STAGED** — provisional or retained for reconciliation. Preserve its text until approval.
+- **OPEN** — actively draftable.
 - **Collision** — two files share a number prefix; flagged, not yet renamed.
+
+The **Purpose** column says whether a STAGED file is a reference, superseded
+source, or reconciliation debt. Those descriptions are roles, not additional
+status labels.
 
 ## Propagation rule — LOCKED 2026-08-16
 
@@ -53,156 +57,156 @@ When writing or revising a chapter, open these. Everything else is reference.
 
 ## Tier 0 — Entry point (read first)
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `../SERIES_STRUCTURE.md` | LIVE | Authoritative volume map. Read first if unsure how many books. |
-| `Thesis.md` | LIVE | The premise the whole series instantiates. |
-| `../WORLD_BIBLE.md` | LIVE | Short faction / world card. |
-| `00_ARCHITECTURE.md` | LIVE | Publishing layers; rabbit-hole argument. |
-| `00_MASTER_TIMELINE.md` | LIVE | Chronology across deep time → present. |
-| `00_NARRATIVE_STRUCTURE.md` | LIVE | Trunk doc for story-becomes-plot. |
+| `../SERIES_STRUCTURE.md` | LOCKED | Authoritative volume map. Read first if unsure how many books. |
+| `Thesis.md` | OPEN | The premise the whole series instantiates. |
+| `../WORLD_BIBLE.md` | STAGED | Faction/world reference. Contains stale trilogy language; reconcile before it governs drafting. |
+| `00_ARCHITECTURE.md` | STAGED | Publishing-layer reference. Its V–X description is stale. |
+| `00_MASTER_TIMELINE.md` | STAGED | Deep-time chronology. Contains stale civic-series framing. |
+| `00_NARRATIVE_STRUCTURE.md` | STAGED | Story/plot reference pending reconciliation with the ten-volume map. |
 
 ## Tier 1 — Series architecture & pitch
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `05_story_architecture.md` | LIVE | Four-corner opposition, dramatic functions, character arcs. |
-| `10_triangulation_of_control.md` | LIVE | Political/faction structure. |
-| `28_present_day_tetralogy_craft_index.md` | LIVE | Index for present-day craft docs `21`–`27`. |
-| `29_tetralogy_plot_and_development.md` | LIVE — legacy filename | Plot spine hub. Vol I → `31`, II → `32`, III → `33`, IV → `60`. |
-| `55_series_pitch_and_comps.md` | LIVE — HIGH PRIORITY | Shelf/comps/pitch gate; chapter audits. |
-| `61_site_activation_map.md` | LIVE | Bible-to-discovery drafting map. |
-| `63_adjacent_books_and_author_brands.md` | LIVE | Adjacent books / market. |
-| `62_lifetime_orchestra.md` | LIVE | Books V–X governing map. Notebook only until I–IV pass complete-meal. |
+| `05_story_architecture.md` | STAGED | Working synthesis; use its scene craft after checking `SERIES_STRUCTURE.md`. |
+| `10_triangulation_of_control.md` | OPEN | Political/faction structure. |
+| `28_present_day_tetralogy_craft_index.md` | OPEN | Index for present-day craft docs `21`–`27`. |
+| `29_tetralogy_plot_and_development.md` | STAGED | Plot reference with stale V–X framing. Legacy filename. |
+| `55_series_pitch_and_comps.md` | LOCKED | Shelf/comps/pitch gate; chapter audits. |
+| `61_site_activation_map.md` | STAGED | Bible-to-discovery map; contains stale later-volume allocations. |
+| `63_adjacent_books_and_author_brands.md` | OPEN | Adjacent books / market. |
+| `62_lifetime_orchestra.md` | LOCKED | Books V–X governing map. Notebook only until I–IV pass complete-meal. |
 
 ## Tier 2 — Craft & style
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `14_literary_speculative_thriller_style_guide.md` | LIVE | Governing prose/POV register. Desk card at top. |
-| `14_place_craft.md` | LIVE | Place tables, flora, Silo geometry, image ledger. Split from `14` 2026-08-16. |
-| `15_character_grounding_and_relatability.md` | LIVE | Vulnerability/relatability rules. Fever scar lock (TBI retired as author word, 2026-08-16). |
-| `16_reader_attachment.md` | LIVE | Attachment mechanics. |
-| `17_reveal_order_and_reader_impact.md` | LIVE | Reveal sequencing; ancient face; climax staging. |
-| `18_adventure_engine_and_scene_bank.md` | LIVE | Scene-generation bank. |
-| `19_romance_and_divine_pairing.md` | LIVE | Romance craft. Pair-competition lock 2026-08-16. |
-| `20_resonance_points.md` | LIVE | Cross-book thematic echoes. |
-| `24_comedic_register_slapstick.md` | LIVE | Tonal/comedy register. |
-| `25_rhyme_sheet_lessons.md` | LIVE | Cross-book rhyme/callback tracking. |
-| `43_audience_and_character_recommendations.md` | LIVE | Audience fit. |
-| `44_cultural_moment_and_mass_appeal.md` | LIVE | Market positioning. |
-| `57_reader_engine_and_revision_blueprint.md` | LIVE | Revision methodology. |
+| `14_literary_speculative_thriller_style_guide.md` | LOCKED | Governing prose/POV register. Desk card at top. |
+| `14_place_craft.md` | OPEN | Place tables, flora, Silo geometry, image ledger. |
+| `15_character_grounding_and_relatability.md` | STAGED | Character craft; contains stale trilogy language. Fever-scar lock remains binding. |
+| `16_reader_attachment.md` | OPEN | Attachment mechanics. |
+| `17_reveal_order_and_reader_impact.md` | LOCKED | Reveal sequencing; ancient face; climax staging. |
+| `18_adventure_engine_and_scene_bank.md` | OPEN | Scene-generation bank. |
+| `19_romance_and_divine_pairing.md` | LOCKED | Romance craft. Pair-competition lock 2026-08-16. |
+| `20_resonance_points.md` | OPEN | Cross-book thematic echoes. |
+| `24_comedic_register_slapstick.md` | OPEN | Tonal/comedy register. |
+| `25_rhyme_sheet_lessons.md` | OPEN | Cross-book rhyme/callback tracking. |
+| `43_audience_and_character_recommendations.md` | STAGED | Audience reference with stale trilogy framing. |
+| `44_cultural_moment_and_mass_appeal.md` | OPEN | Market positioning. |
+| `57_reader_engine_and_revision_blueprint.md` | STAGED | Valuable scene tests; stale trilogy language and damaged volume table prevent governing use. |
 
 ## Tier 3 — Present-day world (2040s)
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `21_present_day_street_skin.md` | LIVE | Near-future texture/register. |
-| `23_2040_present_frame.md` | LIVE | Present-day frame worldbuilding. |
-| `56_future_conflicts_atlas.md` | LIVE | Geopolitical/war atlas. |
-| `64_entropic_allocator_perimeters.md` | LIVE | How remaining industry is rationed. |
-| `65_replacement_seizure.md` | LIVE | Industrial capacity and drone magazines. |
-| `66_critical_minerals_lock.md` | LIVE | Refining, magnets, dead packs. |
-| `biological_countermeasures_in_world.md` | LIVE | Outbreak/biotech worldbuilding. |
+| `21_present_day_street_skin.md` | OPEN | Near-future texture/register. |
+| `23_2040_present_frame.md` | STAGED | Present-day frame; its V–X description is stale. |
+| `56_future_conflicts_atlas.md` | STAGED | Geopolitical/war reference with stale trilogy language. |
+| `64_entropic_allocator_perimeters.md` | LOCKED | How remaining industry is rationed. |
+| `65_replacement_seizure.md` | LOCKED | Industrial capacity and drone magazines. |
+| `66_critical_minerals_lock.md` | LOCKED | Refining, magnets, dead packs. |
+| `biological_countermeasures_in_world.md` | OPEN | Outbreak/biotech worldbuilding. |
 
 ## Tier 4 — Cast
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `26_present_day_cast_expanded.md` | LIVE | Cast bible. |
-| `27_character_development_arcs.md` | LIVE | Cross-cast arc tracker. |
+| `26_present_day_cast_expanded.md` | OPEN | Cast bible. |
+| `27_character_development_arcs.md` | STAGED | Cross-cast arc tracker with stale trilogy wording. |
 
 ## Tier 5 — Beatsheets & climax locks
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `31_volume_I_beatsheet.md` | LIVE + QUARRY (retired Act IV, marked in-file) | Book I. |
-| `67_book_i_learning_adventure.md` | LIVE | Book I lived subject — stay-with / inverse. |
-| `68_eli_learning_by_circle.md` | LIVE | Agency-place; charges as guidance. |
-| `69_self_formation_and_altitude.md` | STAGED — middle/seat/field LOCKED 2026-08-16 | Sensation / charge / emotion / identification. Altitude = seat; middle = move; psi = field. Name the seat in V. |
-| `32_volume_II_beatsheet.md` | LIVE + QUARRY (1st pass marked in-file) | Book II. |
-| `33_volume_III_beatsheet.md` | LIVE | Book III. Wonder floor 2026-08-16. |
-| `34_volume_IV_beatsheet.md` | LIVE — **Collision with `34_two_energies_and_planes.md`** | Book IV chapter cards. Architecture lock is `60`. |
-| `60_volume_IV_court_of_threads.md` | LIVE | Book IV architecture. Wonder floor 2026-08-16. Heather city: Denver / Front Range foothill Cube. |
-| `41_climax_the_awakening.md` | LIVE | Book II climax mechanism (Maren release). |
-| `58_sanxingdui_climax_lock.md` | LIVE — AUTHORITATIVE | Book I climax; Book II Rasel-absent relocation. |
-| `59_younger_dryas_nucleation_lock.md` | LIVE | YD craft / cube-ground physics. |
-| `30_beatsheet_ch09_adapa.md` | QUARRY | Absorbed into later structure; salvage only. |
+| `31_volume_I_beatsheet.md` | STAGED | Book I current cards plus marked retired material; manuscript governs scenes. |
+| `67_book_i_learning_adventure.md` | LOCKED | Book I lived subject — stay-with / inverse. |
+| `68_eli_learning_by_circle.md` | STAGED | Agency-place; charges as guidance. |
+| `69_self_formation_and_altitude.md` | STAGED | Sensation / charge / emotion / identification. Its middle/seat/field mapping is locked 2026-08-16. Name the seat in V. |
+| `32_volume_II_beatsheet.md` | STAGED | Book II current cards plus marked retired material; manuscript governs scenes. |
+| `33_volume_III_beatsheet.md` | OPEN | Book III. Wonder floor 2026-08-16. |
+| `34_volume_IV_beatsheet.md` | OPEN | Book IV chapter cards. Collision with `34_two_energies_and_planes.md`; `60` governs architecture. |
+| `60_volume_IV_court_of_threads.md` | LOCKED | Book IV architecture. Heather city: Denver / Front Range foothill Cube. |
+| `41_climax_the_awakening.md` | LOCKED | Book II climax mechanism (Maren release). |
+| `58_sanxingdui_climax_lock.md` | LOCKED | Authoritative Book I climax and Book II Rasel-absent relocation. |
+| `59_younger_dryas_nucleation_lock.md` | LOCKED | YD craft / cube-ground physics. |
+| `30_beatsheet_ch09_adapa.md` | STAGED | Superseded source. Salvage only. |
 
 ## Tier 6 — Cosmology & lore
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `01_Dreamtime.md` | LIVE | Deep-time cosmology seed. |
-| `22_life_technology_and_two_trees_spine.md` | LIVE — wonder/earth-tech floor LOCKED 2026-08-16 | Two Trees spine; I–IV floor. |
-| `34_two_energies_and_planes.md` | LIVE — **Collision with `34_volume_IV_beatsheet.md`** | Plane hierarchy. |
-| `35_artifact_chain.md` | LIVE | Artifact/transmission-station chain. |
-| `36_the_living_web.md` | LIVE | Living web mechanism. |
-| `37_deep_time_source.md` | LIVE | Deep-past cave material. |
-| `38_psionic_combat.md` | LIVE | Combat register. |
-| `39_psion_biology.md` | LIVE | Biological basis of psionics. |
-| `40_concepts.md` | LIVE — **Collision** | Cross-cutting concepts. |
-| `40_bridging_capacity_gestures.md` | LIVE — **Collision** | Gesture vocabulary. |
-| `40_drift_somatic_mechanism.md` | LIVE — **Collision** | Drift as body mechanism. |
-| `42_preamble_world_history_source.md` | LIVE | Residue-only world-history delivery. |
-| `45_divine_names.md` | LIVE — Elohim class LOCKED 2026-08-15 | *Elohim* = Anunnaki; *bene elohim* = children of the gods. |
-| `46_divine_council_roster.md` | LIVE | Territorial Igigi roster. |
-| `48_divide_and_conquer.md` | LIVE | Faction strategy. |
-| `49_machiavelli_toolkit.md` | LIVE | Doctrine toolkit. |
-| `Lessons_of_the_Living_Way.md` | LIVE | In-world teaching/practice. |
-| `SOURCE_the_surges.md` | LIVE | Surge mechanic source. |
+| `01_Dreamtime.md` | OPEN | Deep-time cosmology seed. |
+| `22_life_technology_and_two_trees_spine.md` | LOCKED | Two Trees spine; I–IV wonder/earth-tech floor. |
+| `34_two_energies_and_planes.md` | OPEN | Plane hierarchy. Collision with `34_volume_IV_beatsheet.md`. |
+| `35_artifact_chain.md` | OPEN | Artifact/transmission-station chain. |
+| `36_the_living_web.md` | OPEN | Living web mechanism. |
+| `37_deep_time_source.md` | STAGED | Deep-past source with stale table syntax and allocations. |
+| `38_psionic_combat.md` | OPEN | Combat register. |
+| `39_psion_biology.md` | OPEN | Biological basis of psionics. |
+| `40_concepts.md` | STAGED | Cross-cutting reference with stale trilogy language. Collision. |
+| `40_bridging_capacity_gestures.md` | OPEN | Gesture vocabulary. Collision. |
+| `40_drift_somatic_mechanism.md` | OPEN | Drift as body mechanism. Collision. |
+| `42_preamble_world_history_source.md` | STAGED | Superseded source; preserve for residue salvage. |
+| `45_divine_names.md` | LOCKED | *Elohim* = Anunnaki; *bene elohim* = children of the gods. |
+| `46_divine_council_roster.md` | STAGED | Territorial roster; contains stale tables and volume language. |
+| `48_divide_and_conquer.md` | OPEN | Faction strategy. |
+| `49_machiavelli_toolkit.md` | OPEN | Doctrine toolkit. |
+| `Lessons_of_the_Living_Way.md` | OPEN | In-world teaching/practice. |
+| `SOURCE_the_surges.md` | OPEN | Surge mechanic source. |
 
 ## Tier 7 — In-world culture & artifacts
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `33_the_curriculum.md` | LIVE — **Collision with `33_volume_III_beatsheet.md`** | In-world teaching curriculum. |
-| `47_coercion_as_courtesy.md` | LIVE — **Collision** | Lang-doctrine drafts. |
-| `47_palace_of_the_mothers.md` | LIVE — **Collision** | In-world institution. |
-| `50_teahouse_pilgrimage.md` | LIVE | Teahouse/pilgrimage network. |
-| `51_field_sail_and_mandate_peace.md` | LIVE | Complex-time / peace process. |
-| `52_maren_holts_field_notebook.md` | LIVE — word-web seeds on-page 2026-08-16 | Maren's comparative field journal. Forms first (`98` item 7). |
-| `53_quotable_refrains.md` | LIVE | Recurring in-world phrases. |
-| `54_litanies.md` | LIVE — **Collision** | Parade Liturgy master map. |
-| `54_the_lay_verses.md` | LIVE — **Collision** | Tao-rhyme verse bank. |
-| `32_the_warm_hands.md` | LIVE — **Collision with `32_volume_II_beatsheet.md`** | In-world practice/text. |
+| `33_the_curriculum.md` | STAGED | In-world curriculum with stale table syntax. Collision. |
+| `47_coercion_as_courtesy.md` | OPEN | Lang-doctrine drafts. Collision. |
+| `47_palace_of_the_mothers.md` | OPEN | In-world institution. Collision. |
+| `50_teahouse_pilgrimage.md` | OPEN | Teahouse/pilgrimage network. |
+| `51_field_sail_and_mandate_peace.md` | STAGED | Complex-time/peace reference; check field-sail supersession before use. |
+| `52_maren_holts_field_notebook.md` | OPEN | Maren's comparative field journal. Forms first. |
+| `53_quotable_refrains.md` | OPEN | Recurring in-world phrases. |
+| `54_litanies.md` | STAGED | Liturgy map with stale tables. Collision. |
+| `54_the_lay_verses.md` | STAGED | Verse bank with stale civic framing. Collision. |
+| `32_the_warm_hands.md` | OPEN | In-world practice/text. Collision with `32_volume_II_beatsheet.md`. |
 
 ## Tier 8 — Manuscripts
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `manuscripts/I_The_Breach.md` | LIVE governing draft | Book I. |
-| `manuscripts/II_The_Descent.md` | LIVE — traveling-Rasel rebuilt 2026-08-16 | Book II. Rasel on-page only after Rollright, at Sanxingdui. `58`. |
-| `manuscripts/III_The_Compact.md` | LIVE governing draft | Book III. Wonder floor on-page 2026-08-16. |
-| `manuscripts/IV_The_Court_of_Threads.md` | LIVE governing draft | Book IV. Wonder floor on-page 2026-08-16. |
-| `archive/manuscripts/` | QUARRY | Relocated / retired prose. |
-| `../manuscripts/book_i_chapters/` | QUARRY | Not the governing draft. |
+| `manuscripts/I_The_Breach.md` | OPEN | Governing Book I draft. |
+| `manuscripts/II_The_Descent.md` | OPEN | Governing Book II draft. Rasel remains at Sanxingdui. |
+| `manuscripts/III_The_Compact.md` | OPEN | Governing Book III draft. |
+| `manuscripts/IV_The_Court_of_Threads.md` | OPEN | Governing Book IV draft. |
+| `archive/manuscripts/` | STAGED | Superseded prose source. Salvage only. |
+| `../manuscripts/book_i_chapters/` | STAGED | Superseded prose source. Not governing. |
 
 ## Tier 9 — Reference
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `90_book_i_research_notes.md` | PROCESS — **Collision** | Book I research notes. |
-| `90_epigraphs_and_sources.md` | LIVE — **Collision** | Chapter epigraph sourcing. |
-| `91_predictions_and_falsifiers.md` | LIVE | Predictive/testable claims. |
-| `95_glossary.md` | LIVE | Series glossary. |
-| `72_pie_cross_cultural_continuity_ledger.md` | LIVE | PIE / continuity ledger. |
+| `90_book_i_research_notes.md` | OPEN | Book I research notes. Collision. |
+| `90_epigraphs_and_sources.md` | OPEN | Chapter epigraph sourcing. Collision. |
+| `91_predictions_and_falsifiers.md` | OPEN | Predictive/testable claims. |
+| `95_glossary.md` | LOCKED | Series glossary. |
+| `72_pie_cross_cultural_continuity_ledger.md` | STAGED | PIE/continuity ledger with stale table syntax. |
 
 ## Tier P — Process
 
-| File | Status | Purpose |
+| File | State | Purpose |
 |---|---|---|
-| `98_craft_review_backlog.md` | PROCESS | Open craft fixes. Item 7 word-web seeded 2026-08-16. |
-| `99_open_questions.md` | PROCESS — governs supersession | Open questions. |
-| `99_active_todo.md` | PROCESS | Active todo scratch. |
-| `99_companion_rebuild_plan.md` | PROCESS | Layer 2 rebuild. |
-| `99_two_term_model_instructions.md` | PROCESS | Model instructions. |
-| `00_THREE_TERM_MODEL.md` | PROCESS | Three-term model scratch. |
-| `100_production_todo.md` | PROCESS | Production checklist. |
-| `DECISIONS_Chapter_*.md` / `DECISIONS_Thailand_Arc.md` / `DECISIONS_Economic_Worldbuilding.md` | PROCESS | Earlier decision logs. Prefer beatsheets. |
-| `BOOK_SUMMARIES_long.md` / `BOOK_SUMMARIES_short.md` | PROCESS — check against `58` | Pitch summaries; may hold stale route. |
-| `SOURCE_TO_LAYER1_NOVELS_MAP.md` | PROCESS | Legacy mapping. |
-| `III_IV_cross_volume_audit.md` | PROCESS | Cross-volume audit notes. |
+| `98_craft_review_backlog.md` | OPEN | Open craft fixes. |
+| `99_open_questions.md` | OPEN | Open questions. It may record supersession; it does not override locks. |
+| `99_active_todo.md` | OPEN | Active todo scratch. |
+| `99_companion_rebuild_plan.md` | OPEN | Layer 2 rebuild. |
+| `99_two_term_model_instructions.md` | OPEN | Model instructions. |
+| `00_THREE_TERM_MODEL.md` | OPEN | Three-term model scratch. |
+| `100_production_todo.md` | OPEN | Production checklist. |
+| `DECISIONS_Chapter_*.md` / `DECISIONS_Thailand_Arc.md` / `DECISIONS_Economic_Worldbuilding.md` | STAGED | Earlier decision records. Preserve; beatsheets and manuscripts govern. |
+| `BOOK_SUMMARIES_long.md` / `BOOK_SUMMARIES_short.md` | STAGED | Summaries requiring reconciliation with `58`. |
+| `SOURCE_TO_LAYER1_NOVELS_MAP.md` | STAGED | Legacy mapping. |
+| `III_IV_cross_volume_audit.md` | OPEN | Cross-volume audit notes. |
 
 ## Collisions (not renamed this pass)
 
@@ -216,4 +220,4 @@ When writing or revising a chapter, open these. Everything else is reference.
 | `54` | `54_litanies.md`, `54_the_lay_verses.md` |
 | `90` | `90_epigraphs_and_sources.md`, `90_book_i_research_notes.md` |
 
-Do not assign a new numbered file. Put new lock text in an existing LIVE file.
+Do not assign a new numbered file. Put new lock text in an existing current file.

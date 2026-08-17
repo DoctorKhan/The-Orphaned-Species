@@ -44,7 +44,12 @@
 >
 > **Dreaming draft lock — 2026-08-01:** Research may connect Eli's sleep-state receptivity to the Last Dreamers, but never crown him with a recovered identity. Preserve false alarms, recording, corroboration, and hostile contamination beside the verified cases. A dream report is an embodied account, not evidence by itself. The drafted Pele sequence correctly leaves cultural authority with Malia and the local community: contact and prior expectation remain possible, and nothing in the dream grants command.
 >
-> **Animal-house draft lock — REVISED 2026-08-01:** Stag, Fox, Bear, Salmon, and Ox are mentorship lineages for maturation, with older members teaching younger ones through ordinary practice and rites of passage. They are never temperament sorting, work crews, military specialties, political factions, or civic ranks. Crow retired so bird/flight language stays free for the swifts coda and Book V flights. The animal gives a developmental path; mature members remain responsible for the next generation. Eli's broken-antler dream stirs at the founding but is not understood or allowed to assign him.
+> **Five Forms draft lock — REVISED 2026-08-16:** Stag, Fox, Bear, Salmon,
+> and Ox are shared cloister practices. Every learner trains all five. A
+> learner may focus on one form for a season, and teachers earn trust form by
+> form. The founders use animal images without claiming to decode Göbekli
+> Tepe. Eli's broken-antler dream stirs at the founding but assigns him no
+> identity.
 
 ## Chapter One—The Boat at Morning
 
@@ -2391,9 +2396,9 @@ back."
 
 She leaves him with the cup.
 
-At the next stall a woman prices ginger in Portuguese for the scale, then
-again in Spanish for the river boat, then in a market slang Eli only has two
-words of. The number does not change. The buyer pays once.
+At the next stall a woman prices ginger in Portuguese. The buyer hands over
+notes without asking the second price. The number is the same in every language
+she has.
 
 Eli drinks. The tea is bitter enough to wake the back of his tongue.
 
@@ -6484,13 +6489,13 @@ Sol calls it domestication.
 
 Several young men join anyway.
 
-The animal names arrive two evenings later.
+The forms begin two evenings later.
 
 Not from Eli.
 
 The Harbor Thread elder brings five pieces of sailcloth saved from houses that
 did not survive the war. Each carries an animal worked in faded thread: antler,
-wing, paw, fish, horn.
+tail, paw, fish, horn.
 
 "Jobs?" Malik asks.
 
@@ -6539,20 +6544,54 @@ same light appeared with children behind him and no open route.
 
 Only after the questions does the elder unfold the cloth with the antler.
 
-"Stag is one way to study it," he says. "If you want."
+An old site handout lies beside his boot. Rain dried along one edge before
+someone carried it this far. The open page shows a fox cut into a pillar at
+Göbekli. Beneath the photograph, the interpretation line reads **DISPUTED**.
 
-"What happens if I pass?"
+The boy points at the page. "Is that what the fox meant?"
 
-"You get someone younger to answer for."
+"Nobody knows. The fox is theirs. This cloth is ours."
+
+"Stag is one way to practice it," he says. "If you want."
+
+"What happens if I finish?"
+
+"You use it somewhere I didn't arrange. Someone watches what you do."
+
+"Then I'm done?"
+
+"With that part. Fox is Tuesday."
+
+The boy looks at the other cloths. "All five?"
+
+"All five. Later you help someone younger practice. I watch you do that too."
 
 Across the room, other older men begin arguing about the remaining cloths.
-What Fox owes the truth after speaking it. Whether Bear may call isolation
-rest if nobody knows where he is. How an Ox learns that a finished load can be
-put down. Whether Salmon returns home or merely repeats the route that hurt
-him.
+Whether Fox practice ends when the truth is spoken or when the speaker stays
+to hear the answer. How Bear returns from a locked room. Where an Ox puts a
+finished load. Whether Salmon can come home without walking the old injury
+again.
 
-They agree on almost nothing except that the animals are not work crews and no
-rite may injure a boy to prove he can bear injury.
+They agree that everyone trains all five. No exercise may injure a boy to prove
+he can bear injury.
+
+Asha takes the copied intake sheet from under Malik's hand. The printer added a
+box marked **PRIMARY FORM**.
+
+"That turns practice into placement," she says.
+
+Owen tears the box from the page.
+
+Rowan picks up the remaining half. "If he moves to another cloister, who keeps
+this?"
+
+"He does," the elder says.
+
+Rowan opens a blank Weft envelope and gives it to the boy.
+
+A Dyer from the harbor clinic writes three stop conditions on the back: head
+injury, field contact, heat illness. She makes the elder read them aloud before
+she returns the pen.
 
 Eli sees the broken antler.
 
@@ -6561,9 +6600,7 @@ his own frightened sweat. The memory does not open far enough to explain
 itself.
 
 The elder folds the cloth and gives it to the boy to return tomorrow if he
-chooses.
-
-No one records a classification.
+chooses. He writes no name on it.
 
 ---
 
@@ -6906,16 +6943,123 @@ No one in the room mistakes it for courtship.
 By midday the seven desks have cross-certified the record. Wren calls the vote
 on transfer. Eli's name appears nowhere on the ballot.
 
-The assembly says yes: seven desks, two orders, and the living ledger will
-continue after his authority expires.
+A Union runner reaches Asha before she can open the count.
 
-There is no drone strike to answer it with, no gantry falling, no name added to the ledger in someone else's grieving hand. There is only Asha closing three ledgers, and a Union jurist reading the transfer language aloud because reading it aloud is the last ceremonial thing anyone has agreed to keep, and Eli standing to sign a document that removes his own name from the top line of an organizational chart.
+The paper is blue, thin, and already warm from the runner's hand. At the top:
+**INTERIM RECOGNITION / RESPONSIBLE COUNTERPARTY**. One signature line. Eli's
+name typed beneath it.
+
+Asha reads the first page and closes the ballot box.
+
+"This arrived after certification," she says.
+
+Acting Continuity Chair Orla Finch stands in the observer row. She wears the
+same grey jacket she wore to dinner. Nobody brought her a place card today.
+
+"The Union can recognize the seven desks after transfer," Finch says. "Until
+then we require one counterparty for medical freight, fuel release, and the
+ceasefire channel."
+
+"You have seven," Eli says.
+
+"I have seven offices with partial authority and no one who can order a convoy
+through a closed gate."
+
+Tarek Mensah rises at the third desk. The route witness beside him keeps one
+hand on the back of his chair.
+
+"One office ordered my vehicle away from this hall," Tarek says.
+
+"One office also located it."
+
+"After the witness called six others."
+
+Finch waits for the room to settle. She does not raise her voice.
+
+"Three insulin pallets are at North River. The cold packs expire tomorrow
+night. Two dialysis pumps remain on the Union side of the harbor line. Sign
+the interim form and they move this afternoon."
+
+Wren takes the paper from Asha. She checks the footer before the promise.
+
+"Termination requires acceptance by the recognized successor," she says.
+
+"A drafting precaution."
+
+"It lets your office refuse the successor."
+
+Finch looks at Eli. "It lets us avoid transferring controlled freight to a
+committee whose credentials may fail under attack. You know that risk is real."
+
+The west medical desk has a refrigeration report open. Eli can see the red
+line from where he stands. Twenty-seven hours at current draw. Less if the
+outside temperature rises.
+
+"If I don't sign?"
+
+"The freight waits for full diplomatic review."
+
+Tarek speaks with his route witness before answering. "Nine days by the free
+harbor chain. We lose one pallet. Possibly two."
+
+A baby coughs somewhere behind the public rail. The mother walks while she
+waits, three steps each way because the row is full.
+
+Eli takes the pen.
+
+The signature line has room for the whole name and a title. Finch's office has
+already supplied **CONTINUITY COORDINATOR**.
+
+He sets the pen on the table.
+
+"Send the freight terms to all seven desks."
+
+"A convoy cannot wait for seven answers."
+
+"Then ask the medical desks about medicine and the route desks about the
+gate."
+
+"And when they disagree?"
+
+Asha opens the objection ledger. "We record who stopped it."
+
+Finch's jaw shifts once. "The Union may decline recognition."
+
+"Then decline it in writing," Tarek says.
+
+Wren tears the blank signature page from the packet. She gives the remaining
+terms to the first desk. Each desk marks the lines it can answer and passes
+the pages clockwise. Finch stays standing while seven different pens move
+over her form.
+
+The medical desks accept the cold-chain custody. The route desks reject the
+Union escort and name two civilian drivers. Defense accepts inspection at the
+harbor line. Nobody accepts a responsible counterparty.
+
+The revised packet returns to Finch with seven signatures and Eli's line blank.
+
+"This may not clear your pallets," she says.
+
+The baby coughs again.
+
+"I know."
+
+Finch folds the packet. She does not leave.
+
+Asha opens the ballot box.
+
+The assembly says yes: seven desks, two orders, and the living ledger will
+continue after Eli's authority expires.
+
+A Union jurist reads the transfer language aloud. Eli stands to sign the
+document that removes his name from the top line.
 
 "You could still refuse," Rowan says quietly, beside him. "Nobody would blame you for wanting to see it through."
 
 "That's the refusal," he says. "Not staying."
 
-The continuity clause is read into the record and not invoked. Wren makes sure of that specifically — makes the jurist say the words *dormant* and *not currently in effect* twice, on tape, in front of witnesses, so that if anyone ever needs it later, nobody can pretend it wasn't understood today for exactly what it is: an emergency door, built and locked, key held by the whole room instead of one man.
+The continuity clause is read into the record and not invoked. Wren makes the
+jurist say *dormant* and *not currently in effect* twice, on tape.
 
 "If certification is ever compromised," the jurist reads, "the prior coordinator's authority may be reinstated, bounded and reviewable, until a successor is credibly certified."
 

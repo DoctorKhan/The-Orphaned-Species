@@ -359,42 +359,68 @@ Post-Turning **inverted order** — three male fates (two spoken, one not):
 
 **Third road (Book III):** the first cloisters are co-founded by Extra men, veterans, Harbor Thread elders, and Eli. They confer **kept** standing through attention, repair, watch, care, restraint, and accountable service—neither house servitude nor Thread placement nor a certificate of romantic acceptability. The Weavers do not grant admission or legitimacy.
 
-### Cloister animal houses — MATURATION AND MENTORSHIP ONLY — REVISED AND LOCKED 2026-08-01
+### Institutional grammar — place, work, practice, bond, review — LOCKED 2026-08-16
 
-The animal houses are **mentorship lineages for becoming an adult. That is their whole function.** They are not personality tests, political caucuses, work assignments, security specialties, mate categories, or civic offices. A younger or developmentally unfinished person enters through relationship with older members whose own maturation followed that house's path. They teach, witness rites of passage, and eventually entrust the mature member with younger people. A Stag later trains younger Stags; a Fox becomes answerable for teaching witness; an Ox must teach both carrying and unyoking. House affiliation can endure because mentorship endures. It grants responsibility inside the teaching lineage, never rank over people outside it.
+Each institution answers a different question. A claim of authority must name
+which question gives it standing.
 
-**Crow retired — LOCKED 2026-08-01:** the fifth house was briefly **Crow**; it is now **Fox**. Bird names stay free for the Book III–IV swifts/hose coda, Eagle–Condor contested teaching, and Book V bird-named **flights**. Do not reintroduce Crow (or Owl/Hawk/Eagle) as a cloister house.
+| Question | Structure | Authority it actually carries |
+|---|---|---|
+| Where is the person received and who keeps the doors open? | A local Weaver house, men's cloister, threshold house, teahouse, household, or work site | Beds, meals, safeguarding, local membership, and maintenance |
+| Who knows how to do this work? | Weaver craft, clinic, trade, research team, route crew, or defense crew | Method, task standards, and correction of the work |
+| What conduct is being practiced? | One of the Five Forms | Exercises, teaching, witness of practice, and the power to stop an unsafe exercise |
+| Who owes this person direct care or candor? | Ply, mentor relationship, partnership, chosen kin, or household bond | The duties the people involved accepted; no office over outsiders |
+| Who hears a refusal or appeal? | An independent house or cloister reviewer, followed where needed by the compact court | Review of conduct and remedy; no ownership of the person or the underlying institution |
 
-Book V's bird-named **flights** do not extend this taxonomy. A flight is a temporary mobile peer cohort named for a route, season, or task; an animal house is an enduring intergenerational teaching relationship. A Stag may travel with a Swift flight without becoming a Swift kind of person.
+These authorities meet without merging. A Weaver house may host a Stag
+exercise taught by a cloister teacher. A cloister may adopt a Dyer's injury
+protocol or a Weft route form. Public workshops may include people who do not
+belong to the hosting institution. Participation grants no membership, craft
+standing, access to protected records, or civic rank.
 
-The animals are teaching images, not diagnoses. Each holds an imbalance and its adult integration:
+Mixed cases require the relevant authorities to remain visible. If a learner
+is hurt during Bear practice, the teacher stops the exercise, a clinician or
+Dyer treats and records the injury, the cloister reviews the teacher, and the
+injured person may appeal outside the cloister. If a protected witness moves
+between houses, Weft controls the route and Warp protects the testimony. Fox
+practice may help someone give an accountable account; it opens no file.
 
-| House | Unfinished problem | Developmental practice | Adult capacity |
-|---|---|---|---|
-| **Stag** *(ordinary speech may say Deer)* | Shame about fear; fleeing everything or standing only when cornered; confusing violence with courage | Notice danger early, preserve an exit, distinguish a contest of pride from a necessary defense, choose the moment to turn, and stop when protection no longer requires force | Courage with judgment: able to leave without shame and stand without becoming addicted to sacrifice |
-| **Fox** | Watching from the edge without belonging; collecting grievance, secrets, or other people's failures; cleverness used to stay outside | Speak what was seen with provenance, accept correction, carry memory without using knowledge for superiority, and bring neglected people back into the account | Truthfulness joined to participation and responsibility |
-| **Bear** | Withdrawal, rage, boundary confusion, or protection that becomes control | Make and respect a den, distinguish rest from disappearance, defend without possessing, receive care after force, and return from isolation | Boundaries, proportionate protection, recovery, and nonpossessive care |
-| **Salmon** | Drifting with pressure or resisting merely to prove independence | Learn when to move with others, when to turn against the current, how to return without regression, and how to help companions move without commanding them | Belonging without conformity; persistence without reflexive opposition |
-| **Ox** | Usefulness as the price of love; refusal of duty or endless self-expenditure | Choose a load, carry it competently, ask for help, recognize completion, put the yoke down, and remain worthy while resting | Reliable service without servitude or identity-through-labor |
+**No one-to-one correspondence:** Warp is not Fox, Weft is not Salmon, Knotter
+is not Bear, and Dyer is not Ox. A craft names work. A form trains conduct that
+may be needed during many kinds of work.
+
+### The Five Forms — shared cloister training — REVISED AND LOCKED 2026-08-16
+
+The Five Forms are a shared course of bodily and civic practice inside the men's cloisters. Every learner works all five. A learner may spend a season on the form he needs most, and a teacher may be trusted to teach some forms before others. The form names no kind of person. It creates no permanent affiliation, rank, work assignment, security specialty, mate category, or civic office.
+
+**Göbekli boundary — LOCKED 2026-08-16:** the founders know that Göbekli Tepe and related sites placed animal images beside communal practice. They do not know what those images meant. The modern cloisters borrow the method of putting an animal beside a human problem. They choose five animals for the problems in front of them. A Fox exercise does not decode an ancient fox pillar, and the five forms do not claim descent from five ancient groups.
+
+**Crow retired — LOCKED 2026-08-01:** an early draft used **Crow** where the curriculum now uses **Fox**. Bird names stay free for the Book III–IV swifts, the Eagle–Condor contested teaching, and Book V's bird-named **flights**.
+
+Book V's flights remain temporary mobile peer cohorts named for a route, season, or task. The Five Forms are practices taught in many cloisters. Someone working the Stag form may travel with a Swift flight without acquiring either name as an identity.
+
+| Form | Training sequence | Capacity under pressure |
+|---|---|---|
+| **Stag** *(ordinary speech may say Deer)* | Notice danger; preserve an exit; choose whether to leave or turn; stop when protection is complete | Courage with judgment |
+| **Fox** | Observe; verify; speak; accept correction; remain with the people affected | Truth joined to participation |
+| **Bear** | Establish a boundary; protect it; release control; receive care; return from isolation | Proportionate, nonpossessive protection |
+| **Salmon** | Move with others; recognize harmful momentum; turn against it; return without surrendering judgment | Belonging without conformity |
+| **Ox** | Choose a load; carry it well; share it; recognize completion; put it down | Service without servitude |
 
 **How teaching works**
 
-- Entry is voluntary and relational. A prospective learner, family or peers, and house mentors may recognize a recurring developmental problem, but mentors offer a path rather than issue a diagnosis. The learner chooses whether to enter.
-- Most people keep one primary house lineage because maturation is carried through durable relationships. They may learn from every house, leave without losing civic standing, or in rare cases change houses after honest review. No algorithm, dream, parent, lover, or official can impose affiliation.
-- Teaching uses stories, imitation, ordinary work, play, bodily practice, reflection, peer witness, and a real choice under pressure. It does not use humiliation, ordeal for its own sake, combat selection, or compelled disclosure.
-- Rites of passage mark real developmental thresholds, but no single ordeal manufactures adulthood. Each house carries several rites: being received, taking responsibility without supervision, facing the house's characteristic temptation, accepting correction, and finally becoming responsible for a younger learner. The rite recognizes change already practiced; it does not magically create it.
-- Maturation is demonstrated by freer conduct, not obedience to a house style. The mature Stag can move beyond flight and charge into judgment. The senior Ox is not the person who carries the most, but the one who can teach a younger person when to put the load down.
-- The complete curriculum tends toward integration. Adulthood requires capacities held across all five images; no house describes a whole person.
-- Seniority means increased obligation for teaching, safeguarding rites, admitting mistakes, and preventing abuse. It conveys no automatic authority in the cloister's civic, economic, defensive, romantic, or political life.
-- Animal-house history never settles testimony, guilt, employment, defense placement, romance, parenthood, voting, office, or legal standing.
+- A learner starts where an immediate problem gives the practice something real to work on. He still trains the other four forms.
+- Teaching uses ordinary work, play, bodily rehearsal, stories, reflection, and choices made under pressure. Humiliation, compelled disclosure, combat selection, and danger staged for its own sake are prohibited.
+- Each form moves through rehearsal, use in ordinary life, witness, supervised teaching, and trust to teach without supervision. Failure leaves a route back into practice.
+- A teacher's authority ends with instruction and safeguarding. It conveys no automatic authority over cloister government, employment, defense, romance, parenthood, testimony, voting, or office.
+- Local cloisters may change the exercise, meal, song, watch, journey, or craft object. They keep the practical sequence of the form intact.
+- No form completes a person. The curriculum requires all five, and adulthood remains larger than the curriculum.
 
-**Rite grammar — locked at function, local in form:** houses and regions may use different songs, tasks, journeys, games, watches, craft objects, meals, or animal stories. The invariant sequence is **received → practiced → tested in ordinary life → witnessed → entrusted with another person**. There is always food afterward and a route back after failure. No blooding, forced danger, permanent mark, secret crime, sexual initiation, or staged near-death experience is permitted as a maturation rite.
+**Eli and the Stag form — LOCKED 2026-08-16:** Eli dreams of a stag long before the cloisters exist. He first treats the running animal as an accusation about the times he fled. A teacher later offers him the Stag form because the exercises fit a question Eli is already carrying. Eli works it first. He also trains Fox, Bear, Salmon, and Ox. His public acts do not complete the form for him. He must learn when retreat preserves life, when leaving abandons someone, and when force has done enough. If he becomes trusted to teach Stag, he teaches those decisions without making his own famous stand the answer.
 
-**Eli and the Stag — LOCKED 2026-08-01:** Eli dreams of a stag long before he knows the houses. He first reads the running animal as an accusation about all the situations he fled. Much later, an older Stag recognizes the unfinished question without claiming supernatural proof and offers mentorship. Eli chooses Stag as his house lineage. The dream prepared recognition; it did not assign him. He passes its rites only by learning to retreat while retreat preserves life, stand with total commitment when leaving would abandon others, stop when protection no longer requires force, and refuse anyone—including a senior Stag—the right to demand his death as proof of adulthood. His later obligation is to teach a younger Stag the same distinctions without turning his own famous stand into a rule.
+**Failure modes:** Sol can turn Stag into warrior drill. Officials can demand form records as risk profiles. Teachers can withhold recognition to protect their status. Learners can use a difficult form as prestige. The cloisters answer through access to all five forms, appeal outside the teacher relationship, and the rule that training records carry no civic consequence.
 
-**Failure modes:** adults can still turn mentorship into possession. Sol may reduce Stag rites to warrior initiation; officials may misuse house history as psychological classification; elders may protect status by delaying recognition, demanding imitation, or treating younger members as personal followings; learners may rank houses or turn affiliation into permanent prestige. These are corruptions of the form, never alternate civic functions. Correction restores both questions: *what does this person still need to practice to become freer and more responsible?* and *is the mentor preparing them to become an adult who can disagree and eventually teach, or manufacturing a dependent?*
-
-**Prose:** *"He's with Stag."* / *"Who is teaching him?"* / *"She witnessed the turning rite."* / *"He passed Ox and still doesn't know how to put the load down."* / *"Fox isn't permission to keep everybody's secrets."* / *"A house gives you elders, practice, and younger people to answer for. It doesn't tell the court who you are."*
+**Prose:** *"He's working Stag."* / *"Who is teaching him?"* / *"She witnessed the turning practice."* / *"He finished the Ox carry and still won't put the sack down."* / *"Fox doesn't let you collect everybody's secrets."* / *"You practice all five. Today we're doing the one you tried to avoid."*
 
 **Guardrails:** house men = indictment of settlement, not virtue; Thread men = necessary underground, not romantic outlawry; Extras = legible, not cartoon villains — the insult is the settlement's, not the book's. Personal and romantic rejection remain free; they cannot erase civic protection or standing. Some men refuse every offered institution and remain protected. The ending invalidates *Extra* as a civic category rather than “correcting” every Extra into household acceptability. Union census: *demobilized male cohort* — file language only.
 

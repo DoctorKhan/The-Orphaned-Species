@@ -1,6 +1,6 @@
 # Chapter One — The Hour That Belongs to No One
 
-> **File:** `DECISIONS_Chapter_One.md` (created 2026-07-25). **MERGED into `manuscripts/I_The_Breach.md` — the manuscript is governing.** This file is the decision record for **rev. Y** opening lock. **Race removed 2026-08-12** — see entries below; the manuscript's Friday AM beat is now a solo sail with a sabotaged sheet, not a race against Kiran.
+> **File:** `DECISIONS_Chapter_One.md` (created 2026-07-25). **MERGED into `manuscripts/I_The_Breach.md` — the manuscript is governing.** This file is the decision record for **rev. Y** opening lock. **Race removed 2026-08-12** — see entries below; the manuscript's Friday AM beat is now a solo sail with a sabotaged sheet, not a race against Kiran. **Sail-memory prose tightened 2026-08-16; no spine change.**
 
 ## Spine — LOCKED rev. Y (2026-07-25)
 

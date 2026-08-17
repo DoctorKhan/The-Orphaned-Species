@@ -7,109 +7,91 @@
 ## Summary
 - **Chapters audited:** 10
 - **Flagged chapters:** 10
-- **Total flag instances:** 42
+- **Total flag instances:** 24
 
 | Flag | Chapters |
 |---|---|
-| STACKED-EM-DASHES | 10 |
 | TELL-NOT-SHOW | 10 |
-| ABSTRACT-OVER-BODY | 10 |
-| NOT-X-BUT-Y | 8 |
-| ABSTRACT-DENSE | 4 |
+| NOT-X-BUT-Y | 7 |
+| ABSTRACT-DENSE | 3 |
+| STACKED-EM-DASHES | 3 |
+| ABSTRACT-OVER-BODY | 1 |
 
 ## Chapter-level detail
 
 ### ## Chapter One—What Came Home
-- **Word count:** 3344
-- **Sentence count:** 391
+- **Word count:** 3089
+- **Sentence count:** 354
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
-  - STACKED-EM-DASHES (3 hits)
-  - TELL-NOT-SHOW (7 hits)
-  - ABSTRACT-OVER-BODY (windowed 12 abstract vs 2 body)
+  - TELL-NOT-SHOW (6 hits)
 
-### ## Chapter Two—The Folly
-- **Word count:** 3939
-- **Sentence count:** 476
+### ## Chapter Two—The Cold Container
+- **Word count:** 4021
+- **Sentence count:** 481
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
-  - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (10 hits)
-  - ABSTRACT-DENSE (32 abstract terms, 112 body terms)
-  - ABSTRACT-OVER-BODY (windowed 32 abstract vs 0 body)
+  - TELL-NOT-SHOW (9 hits)
+  - ABSTRACT-DENSE (31 abstract terms, 120 body terms)
 
 ### ## Chapter Three—The Buried Instrument
-- **Word count:** 3396
-- **Sentence count:** 453
+- **Word count:** 4627
+- **Sentence count:** 607
 - **Flags:**
-  - NOT-X-BUT-Y (4 hits)
-  - STACKED-EM-DASHES (4 hits)
-  - TELL-NOT-SHOW (9 hits)
-  - ABSTRACT-OVER-BODY (windowed 14 abstract vs 0 body)
+  - NOT-X-BUT-Y (3 hits)
+  - TELL-NOT-SHOW (11 hits)
 
 ### ## Chapter Four—The Healer's Terms
-- **Word count:** 4302
-- **Sentence count:** 616
+- **Word count:** 3203
+- **Sentence count:** 561
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+  - TELL-NOT-SHOW (6 hits)
+
+### ## Chapter Five—The Holding Site
+- **Word count:** 3953
+- **Sentence count:** 528
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (7 hits)
-  - TELL-NOT-SHOW (10 hits)
-  - ABSTRACT-DENSE (23 abstract terms, 150 body terms)
-  - ABSTRACT-OVER-BODY (windowed 23 abstract vs 0 body)
+  - TELL-NOT-SHOW (6 hits)
 
-### ## Chapter Five—What They Took
-- **Word count:** 4013
-- **Sentence count:** 538
+### ## Chapter Six—The Changing Map
+- **Word count:** 3646
+- **Sentence count:** 529
+- **Flags:**
+  - TELL-NOT-SHOW (3 hits)
+
+### ## Chapter Seven—The Riddling Ground
+- **Word count:** 4737
+- **Sentence count:** 608
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (4 hits)
-  - TELL-NOT-SHOW (7 hits)
-  - ABSTRACT-OVER-BODY (windowed 14 abstract vs 0 body)
-
-### ## Chapter Six—The Changing Map
-- **Word count:** 3397
-- **Sentence count:** 497
-- **Flags:**
-  - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (4 hits)
-  - ABSTRACT-OVER-BODY (windowed 13 abstract vs 1 body)
-
-### ## Chapter Seven—The Riddling Ground
-- **Word count:** 4132
-- **Sentence count:** 538
-- **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (8 hits)
   - TELL-NOT-SHOW (11 hits)
-  - ABSTRACT-DENSE (21 abstract terms, 157 body terms)
-  - ABSTRACT-OVER-BODY (windowed 21 abstract vs 2 body)
+  - ABSTRACT-DENSE (23 abstract terms, 183 body terms)
 
 ### ## Chapter Eight—The Corridor Signal
-- **Word count:** 2339
-- **Sentence count:** 310
-- **Flags:**
-  - NOT-X-BUT-Y (2 hits)
-  - STACKED-EM-DASHES (6 hits)
-  - TELL-NOT-SHOW (10 hits)
-  - ABSTRACT-DENSE (21 abstract terms, 65 body terms)
-  - ABSTRACT-OVER-BODY (windowed 21 abstract vs 1 body)
-
-### ## Chapter Nine—The Transmission Station
-- **Word count:** 3041
-- **Sentence count:** 433
+- **Word count:** 2284
+- **Sentence count:** 299
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (3 hits)
-  - ABSTRACT-OVER-BODY (windowed 18 abstract vs 0 body)
+  - STACKED-EM-DASHES (3 hits)
+  - TELL-NOT-SHOW (8 hits)
+  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
+
+### ## Chapter Nine—The Staff Entrance
+- **Word count:** 3294
+- **Sentence count:** 436
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - TELL-NOT-SHOW (4 hits)
+  - ABSTRACT-DENSE (22 abstract terms, 116 body terms)
 
 ### ## Chapter Ten—Release
-- **Word count:** 4327
-- **Sentence count:** 717
+- **Word count:** 4364
+- **Sentence count:** 696
 - **Flags:**
-  - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (6 hits)
-  - ABSTRACT-OVER-BODY (windowed 20 abstract vs 0 body)
+  - TELL-NOT-SHOW (5 hits)
 
 ## Open items
 

@@ -152,7 +152,17 @@ civil death. Personal possessions remain personal property. Full ownership and
 custody rules: `64_entropic_allocator_perimeters.md` § *Ownership, custody, and
 theft*.
 
-**Distinct from cloister animal houses — REVISED AND LOCKED 2026-08-01:** men's cloisters use **animal houses** (**Stag**; folk speech may say **Deer**; **Fox, Bear, Salmon, Ox**) as enduring mentorship lineages for learning adult capacities and later guiding younger members (`40` § *Cloister animal houses*). They are not temperaments, jobs, security specialties, political blocs, or civic ranks. Teahouse/pilgrimage clans here remain **chosen kin from shared life**, not pedagogical lineages. Do not merge the systems, and never let AI or health metrics assign either. Crow retired so bird/flight language stays free for swifts coda and Book IX flights.
+**Distinct from the Five Forms — REVISED AND LOCKED 2026-08-16:** men's
+cloisters teach **Stag, Fox, Bear, Salmon, and Ox** as five shared forms of
+practice (`40` § *The Five Forms*). Every learner works all five. Teahouse and
+pilgrimage clans remain chosen kin formed through shared life. AI and health
+metrics assign neither training nor kinship.
+
+A teahouse may host a Five Forms workshop taught by a cloister teacher. It may
+also give a Dyer clinic a room or let a Weft operate a route desk for the day.
+The host controls the room and its safety. The teacher or craft worker controls
+the exercise or task. Attendance makes nobody a clan member, cloister member,
+or Weaver.
 
 Minimum protections:
 
@@ -187,9 +197,9 @@ medicine, news, and research observations between settlements. They grow from
 peer choice and practical need rather than assignment by parents, houses, AI,
 or the state.
 
-Flights are distinct from both chosen-kin clans and cloister animal houses. A
-clan may become a home; an animal house mentors maturation across generations;
-a flight travels together for a bounded season or task. None confers authority
+Flights are distinct from both chosen-kin clans and the cloister forms. A clan
+may become a home. The Five Forms provide training. A flight travels together
+for a bounded season or task. None confers authority
 over the others. A sound flight publishes its route obligations, sponsorship,
 wages or exchange, cargo, adult safeguarding roles where minors travel, and a
 way to leave or return. It does not require romantic availability, permanent

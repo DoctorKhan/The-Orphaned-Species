@@ -300,11 +300,40 @@ panspermia certification until Book III.
 
 **House men / Thread men / Extras** — **LOCKED 2026-07-24; trilogy deployment 2026-07-28.** post-Turning **inverted order** (`29`). **House men:** visible acceptance — civil layer, badge, wage ticket; belonging without standing; unkept. **Thread men:** **underground acceptance** — Harbor Thread; used, not talked about; front-post sorting. **Extras** *(street; also extra men)*: men for whom no household, Thread segment, unit, or civic institution accepts continuing responsibility; *"he went Extra,"* *"he's an Extra,"* *"Extra lane."* The slur marks presumed disposability, not criminal identity. Book I seeds it at Singapore intake; Book II humanizes the category through Rowan's missing person and Sol's recruitment pool; Book III shows divided Extra agency and co-founds men's cloisters with Extra men, veterans, Thread elders, and Eli. The ending invalidates *Extra* as a civic category while preserving personal freedom to reject intimacy or household membership. Union census: *demobilized male cohort* — file only.
 
-**Cloister animal houses** — **MATURATION AND MENTORSHIP ONLY; REVISED AND LOCKED 2026-08-01.** Enduring teaching lineages inside the cloisters. Older members guide younger or unfinished members through practice and rites of passage toward accountable adulthood; mature members eventually become responsible for mentoring the next cohort. They are not temperament classifications, jobs, security specialties, political factions, mate categories, or civic ranks. Five curricula: **Stag** (folk *Deer*: fear, retreat, chosen defense, stopping force); **Fox** (truth with provenance and participation; Crow retired for bird/flight later); **Bear** (boundaries, proportionate protection, recovery); **Salmon** (belonging without conformity, return, persistence); **Ox** (chosen duty, help, completion, putting the load down). House authority stops at teaching and safeguarding development. Full: `40_concepts.md` § *Cloister animal houses*.
+**The Five Forms** — **SHARED CLOISTER TRAINING; REVISED AND LOCKED
+2026-08-16.** Every learner practices **Stag** (danger, exit, chosen defense,
+stopping force), **Fox** (observation, verification, speech, correction),
+**Bear** (boundaries, protection, release, recovery), **Salmon** (shared
+movement, resistance, return), and **Ox** (chosen duty, shared load,
+completion, rest). A learner may focus on one form for a season. Teachers earn
+trust separately in each form. The forms establish no permanent affiliation or
+civic category. The founders borrow the use of animal teaching images without
+claiming to decode Göbekli Tepe. Full: `40_concepts.md` § *The Five Forms*.
+
+**Institutional grammar** — **LOCKED 2026-08-16.** A house or cloister supplies
+local belonging and safeguarding. A craft governs work. A form governs
+training. A bond creates duties between named people. An independent reviewer
+or compact court hears appeals. Cross-training grants none of the other
+statuses. Full authority test and mixed-case examples: `40_concepts.md` §
+*Institutional grammar*.
 
 **Metrology Temples** — ancient cross-bloc keeper and scientific lineage whose measurement systems predate the blocs; operated charged-ground measurement across teahouses, stone circles, ruin sites, and pilgrimage routes before the Turning. Postwar blocs inherited and co-opted the instruments. The Mandate’s Stack intake is the most fully co-opted secular surface; the teahouse network runs closer to the original reciprocal form; the Union turns it into quarantine/exclusion; the Free Ports hack it for survival. Full lock: `WORLD_BIBLE.md` § *Metrology Temples*.
 
-**The Weavers / Weavers' Net** — **LOCKED 2026-07-26 (org trim; eight geographic Houses locked/revised 2026-07-27).** Women-led transnational order: houses, routes, clinics, kitchens, matchmaking, memory. **No HQ.** Organizes on four axes — **place** (house → harbor branch → corridor), **craft** (four), **status** (house / Unranked / allied), **bonds** (ply, marriage knot, formative — not crafts). Its eight geographic umbrellas are **Monsoon** (Malay Archipelago, Thailand, Bali, Philippines, southern China, Sanxingdui), **River** (Mesopotamia, Anatolia, inland crossroads), **Stone** (Balkans, central Europe, Britain), **Nile** (Egypt, Nubia, northeastern Africa), **Sahel** (trans-Saharan and West African routes), **Southern** (Great Lakes and southern Africa), **Oceanic** (Australia, Aotearoa/New Zealand, Hawaiʻi, Pacific), and **Farshore** (North, Central, and South American regional branches). Central Asia is a shared contact zone among River, Stone, and Monsoon. Unaffiliated custodians remain outside the House system. Power is continuity and knots married into place, not an army. Institution: `29` § The Weavers; net mechanics: `40` § The Weavers' Net.
+**The Weavers / Weavers' Net** — **LOCKED 2026-08-16.** Women-led transnational
+order with no headquarters. A **local house** receives people, maintains
+rooms, and holds local membership. Houses coordinate through harbor branches,
+corridors, and eight geographic route networks: **Monsoon, River, Stone, Nile,
+Sahel, Southern, Oceanic,** and **Farshore**. The route networks are maps and
+coordination umbrellas; they are not houses. A Weaver also has a craft, a
+status, and chosen or formative bonds. Unaffiliated custodians remain outside
+the Net. Institution: `29` § The Weavers; mechanics: `40` § The Weavers' Net.
+
+**House Nacre** — a local Weaver house in the Farshore network serving the Heather/Denver
+corridor. Nacre includes all four crafts but has an unusually large Warp bench
+because it preserved protected testimony during Union containment. In Book IV
+its senior Warp seeks permanent house custody over living attestations and
+internal review of their use. Nacre's work gives it custody duties. It does not
+give the house sole authority over appeal or civic certification.
 
 **Weaver crafts (four)** — by work, not rank. **Warp:** memory, lineage, initiation, house law; threshold years and ply recognition. **Weft:** routes, corridors, movement; Weft letters (Rowan). **Knotters:** matches, placements, godparenthood (Asha). **Dyers:** plants, remedies, household science, body-care; test-and-record. No craft outranks another; Warp vs Weft = *keep vs move*. Retired names (quarry): Spinners, Menders, Selvage. On-page: *what she does*, never taxonomy. `29`; `40`.
 

@@ -940,8 +940,12 @@ They react as Asha predicted.
 House Ilyara argues that living attestation cannot be evaluated by officials
 who do not understand relational truth.
 
-House Nacre argues that no man from the cloisters should see protected
+House Nacre kept testimony in its Denver rooms through Union containment. Its
+senior Warp argues that no man from the cloisters should see protected
 household testimony.
+
+"No form opens a house file," Asha says. "The witness still chooses who reviews
+it."
 
 Three quieter houses support audit because they have spent years under senior
 Weavers whose kindness could not be appealed.
@@ -2053,7 +2057,7 @@ way hers cannot—and that one day everyone will call the difference natural.
 
 ---
 
-House Nacre brings the complaint.
+Nacre's senior Warp brings the complaint.
 
 Wren's intimate relationships compromise her route office.
 
@@ -2067,7 +2071,7 @@ Rowan can reach her after public hours;
 
 decisions involving either may appear partial even when correct.
 
-"Resign," says Nacre's senior Weaver.
+"Resign," says Nacre's senior Warp.
 
 "Would you say the same if my partner were not the coordinator?"
 
@@ -4164,7 +4168,7 @@ Ren looks surprised enough to become younger.
 The man wears a repaired antler stitched inside his collar, visible only where
 the seam has opened.
 
-"But this is not your turning," he says.
+"But this isn't Stag," he says.
 
 "I didn't say it was."
 
@@ -4172,7 +4176,7 @@ the seam has opened.
 
 The captain holds out another red cord to someone else.
 
-"What are you turning toward?" the older Stag asks.
+"What are you turning toward?" the man asks.
 
 Ren watches the cord change hands.
 
@@ -4188,16 +4192,15 @@ Ren says nothing.
 
 "Who gets to tell you that you became the danger?"
 
-"This is why nobody asks the houses before a fight."
+"This is why nobody asks a teacher before a fight."
 
-"A house is where you practice becoming someone who can answer after one. It
-doesn't choose the fight."
+"Stag makes you name the role and the exit. It doesn't choose the fight."
 
 The other runner knots his cord around his wrist.
 
 Ren gives his back.
 
-The older Stag does not praise him. He takes Ren to help clear space around the
+The man does not praise him. He takes Ren to help clear space around the
 injured child.
 
 Malik sees him before Wren reaches them.
@@ -4403,7 +4406,7 @@ Malik sits beside him wearing no red scarf.
 
 "A ruler can change us back into subjects."
 
-Across the yard, House Nacre proposes sole Weaver authority over living
+Across the yard, Nacre's senior Warp proposes sole Weaver authority over living
 attestation.
 
 Selin's suspension has radicalized the senior houses. They argue no scalable
@@ -5612,7 +5615,7 @@ Her directive waits if she cannot.
 
 House Nacre withholds two regional attestations at noon.
 
-Its senior Weaver says the assembly cannot be trusted while armed men occupy
+Its senior Warp says the assembly cannot be trusted while armed men occupy
 the west approach and Rowan's medical status remains uncertain.
 
 Without the attestations, the council lacks certification.
@@ -5657,7 +5660,7 @@ Wren places the rotating-custody order on the table.
 "To tell you I will testify that withholding is an attempt to control
 succession."
 
-The senior Weaver looks wounded.
+The senior Warp looks wounded.
 
 "Against your own?"
 
@@ -5992,49 +5995,103 @@ The Weaver decision comes next.
 Senior houses hold the final living attestations behind a demand for permanent
 custody standing.
 
-Wren speaks from the clinic corridor.
+Wren stands outside the birth room with the ledger slate braced against her
+forearm. The corridor smells of boiled linen and the orange peel Mina put in
+Rowan's water before Rowan threw it back up. Through the door Eli loses the
+count. Rowan corrects him.
 
-She has returned to Rowan between every external decision. Now she stands
-outside the birth room with the ledger channel open.
+Nacre's senior Warp fills the top half of the slate. Her room is quiet. Two
+women sit behind her with their faces blurred by house privacy.
 
-"Release to the review body," she says.
+"Release to the review body," Wren says.
 
-House Nacre refuses.
+"Grant standing to the certifying house."
 
-House Ilyara splits.
+The proposed form appears beside her face. **CERTIFYING HOUSE: NACRE. REVIEW:
+INTERNAL.** A person may appeal through the same house that controls the record
+needed for appeal.
 
-Selin appears from her suspended seat.
+"Warp can keep the record. It can't review itself."
 
-She has no authority to release anything.
+"Public systems lost these people. We kept them alive."
 
-She does have history.
+One of the blurred women lifts her head. The filter follows late and shows the
+edge of a green scarf before the picture corrects itself.
 
-"We kept people alive when public law called them contraband," she says. "We
-learned that secrecy was care because every open door led to capture."
+"Does she consent to this call?" Wren asks.
 
-Wren listens.
+The senior Warp looks toward the woman. The channel mutes.
 
-"Then we learned to treat every door as capture even after people asked to
-leave."
+Inside the birth room Rowan makes a sound Wren has not heard from her before.
+Wren's hand finds the door latch.
 
-Imogen watches from the assembly.
+Imogen's voice comes through the lower channel. "We need the attestations for
+the northern seat."
 
-Selin continues.
+"I know."
 
-"If the houses become the sole source of personhood, we have built the quiet
-registry."
+"How long?"
 
-The sentence does not absolve her.
+Wren looks at the muted house room. "Ask them."
 
-It helps three custody holders release.
+Nacre returns with only the senior Warp visible.
 
-Attestations enter rotating review.
+"The witnesses decline public review."
 
-Weaver monopoly ends.
+"Did they decline, or did they decline being visible?"
 
-The houses retain seats, routes, methods, and the right to object.
+"You know why that distinction is unsafe."
 
-They lose the power to make objection invisible.
+Wren does. She used to turn a frightened person's silence into the cleanest
+available route and call the form complete.
+
+"Read them the rotating-review terms without the camera," she says. "Let them
+choose a reviewer outside Nacre. Record the refusal if they refuse."
+
+"And if they name nobody?"
+
+"Then the seat remains disputed."
+
+Imogen cuts in. "That may cost quorum."
+
+"Yes."
+
+The senior Warp studies her. "You would let a government fail for a person
+who will not say her own name."
+
+Wren opens the clinic door. Rowan is on her side while Mina watches the tracing.
+Eli holds the cup where Rowan can reach it. Nobody in the room looks toward the
+slate.
+
+"I would record what we have," Wren says. "I would stop writing consent into
+the blank."
+
+She closes the door again.
+
+Selin's request enters from her suspended account. Wren admits it as testimony.
+
+"We kept people alive when public law called them contraband," Selin says.
+"Every open door led to capture. We learned to close doors before anyone
+asked."
+
+Nacre's senior Warp does not mute her.
+
+"Some of us kept closing them after the person inside wanted air," Selin says.
+
+The woman in the green scarf returns without the blur. Her name field remains
+blank. She selects Asha as outside reviewer and presses release.
+
+The second witness does not appear.
+
+House Ilyara sends three files. One carries an objection from the person named
+inside it. Wren enters the objection with the attestation.
+
+Nacre releases one more record and holds the rest.
+
+The review body receives enough to continue. The northern seat remains marked
+**DISPUTED**. Nobody clears the mark to make the page look finished.
+
+Wren sets the slate on the corridor chair and goes back to Rowan.
 
 ---
 

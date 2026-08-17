@@ -77,7 +77,7 @@
 **[anchors]** Present: Eli, Wren, local growers, keeper stilt-house. Objects: growth report. Travel: Pai pass-through → wat → cooperative. Eli knows new: living plants trace a real forming line.
 **Event sequence:** Growers separate anomaly from blight/salinity/burn; plant growth traces forming ley line. Planted lead partly stale/misleading. Khun Dang, wat practice, Pai pass-through ground arc.
 **Forward clue:** forming-line geometry points southwest toward community record.
-**⚠ Seam:** cube-grounded visionary threshold (Delphic Games / Laurel Cube contact) belongs **Book II after Ch 3**, then the Thrace clinic; no Thailand ceremony.
+**⚠ Seam:** the Laurel sailing race and house-night contact belong **Book II after Ch 3**, followed by the Thrace clinic; no Thailand ceremony.
 
 ## Ch 6 — First Witness — MIDPOINT (Eli · charged Thailand site)
 **[anchors]** Present: Eli, Wren watching; **Ila** (deep thread). Eli knows new: he can enter a dead practitioner's scene *as other* without becoming them.
@@ -120,7 +120,9 @@
 ## Ch 13 — Living Route / Final Breach Cost (Eli · Sanxingdui climax) — **BOOK I CLIMAX**
 **[anchors]** Present: Eli, Wren, Rasel, staff/civilians under assault; Luo; Qiao; Sora; Anika. Objects: coupling apparatus; conserved divergence record; Wren's emergency receiving order / Bosporus transfer code.
 **Event sequence:** Eli answers Wren before entry: people and machine-stop before father's door if forced to choose. Culvert living route; consent fail then correction. Eli understands the distributed tree and chooses Rasel's mask anyway. Rasel obtains the calibration reference. Wren, Qiao, Luo, and Sora break the staff entrainment and open the public gate. Wren signs the civilian evacuation in her real name and destroys her protected status; Qiao's accreditation dies for touching the official line. In the greenhouse Rasel defends choosing the Mandate after his abduction. Eli takes Maren's two-winters-old correction, bearing the private line *ask me why I stayed*, and leaves without him.
-**Book I exit:** Rasel present; Wren displaced but present; Qiao outside the institution; Maren alive but unreachable; Maren's field notebook unfinished; awakening condition seeded.
+**Book I exit:** Rasel remains at Sanxingdui by choice; Wren is displaced but
+present; Qiao is outside the institution; Maren is alive but unreachable;
+Maren's field notebook is unfinished; awakening condition seeded.
 **⚠ Seam:** Book II opens post-Sanxingdui westbound (Mesopotamia/Göbekli first), not as if Göbekli already closed Book I.
 
 ---
@@ -129,7 +131,10 @@
 
 **Dramatic question:** Can Eli pursue truth without turning people into instruments of his search?
 **Arc:** descent; ends on **relational Manual Override** + **Maren released** + first awakening spreading. Running texture: chalked *Deiwos* shelters, Three Circles rereads, optional unnoticed Loop hatch-marks (no street name).
-**Route:** post-Sanxingdui Sichuan exit → Mesopotamian archive → Göbekli / Taş Tepeler → corridor clinic → Bosporus–Thrace/Balkan holding → Europe (Pömmelte → Rollright / Men-an-Tol → Anglesey → Stonehenge) → Avebury/Albion climax.
+**Route:** post-Sanxingdui Sichuan exit → Mesopotamian archive → Göbekli /
+Taş Tepeler → Laurel race / house night → corridor clinic →
+Bosporus–Thrace/Balkan holding → Pömmelte → Rollright / Men-an-Tol →
+Stonehenge → Avebury/Albion climax.
 **Numbering lock:** Book II runs **1–10** (authoritative spine `32`; manuscript `II_The_Descent.md`). Older 1–7 cards are retired.
 **Delivery package — LOCKED 2026-08-01:** Clock A mother drip every chapter; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Anika/Custodian pressure carries instrument function); Sol @ Extra; Ch 8 one-way Maren contact; gap-fillers — hearth/*flow* Ch 6, Maren moral wound, depth-scan Ch 4, Sora, Parade drip, Maren's field notebook living correction, Somchai hard no → late Ch 9 (`32`).
 
@@ -171,12 +176,22 @@
 ## Book II, Ch 7 — The Riddling Ground (Eli · Rollright / Men-an-Tol)
 **[anchors]** Present: Eli, ensemble; deep threads **Anthea** + **Lira**; Callum recovered. Objects: Men-an-Tol; rowan/iron; Charkha pair-severance transfer-records (partial).
 **Event sequence:** Anthea thread held without claiming; iron severs after Callum recovered; Callum refuses house custody for unaffiliated repair crew. Sídhe as layered underground survival before fairy settle. Wren's Weaver quiet-interest confession to Eli (relocated here from Ch 6, 2026-08-08, to sit beside its thematic twin below). Wren/Rowan renew by explicit choice. Rowan finds colder ledger amplifying gender-grievance messaging against durable horizontal reliance; Wren hears it as the same "real, engineered, or both" question she just asked about Eli; renewal lands beside scrutiny, not on top of it.
-**Forward clue:** carried chord → Anglesey / Lovernios before Stonehenge can answer.
+**Forward clue:** carried chord and recovered interval → consent-bounded contact
+during the Stonehenge corridor transit.
 
-## Book II, Ch 8 — The Bitter Cup (Eli · Anglesey / Lovernios ground)
-**[anchors]** Present: Eli, ensemble; keeper; brief live Maren contact. Objects: consent-bound plant-medicine threshold; changeling record; partial recovered interval.
-**Event sequence:** Custodian inquiry at Eleri's practice (tide deadline) before the cup. Eli enters under bounded protocol; exits with partial memory—no universal key. **One-way Maren contact on-page** — fragments/hunger/release; no mutual lock; Charkha cuts; Avebury as pressure not conversation. First embodied mutual reunion = Ch 10. Wren/Rowan get ordinary non-crisis space after renewal.
-**Forward clue:** interval + Cuno's geometry → Stonehenge as live transmission station; hostile teams already there.
+## Book II, Ch 8 — The Corridor Signal (Eli · Rollright-to-Stonehenge transit)
+**[anchors]** Present: Eli, Wren, Rowan, Somchai, Morwen. Objects: the interval
+recovered at Men-an-Tol; written abort rule; no field recorder.
+**Event sequence:** Morwen makes Eli name the person and signal that can end the
+contact. Wren witnesses his promise but refuses to certify a future altered
+choice. Somchai opposes the attempt and retains abort authority. Lovernios
+appears briefly. Eli receives one-way fragments from Maren, delays seven seconds
+after the verbal abort, then returns two seconds after the hand signal. Avebury
+arrives as pressure, not an address or shared plan. Wren and Rowan get ordinary
+space after renewing their relationship. Eli tells Wren his jealousy without
+making her resolve it.
+**Forward clue:** interval + Cuno's geometry → Stonehenge as live transmission
+station; hostile teams already there.
 
 ## Book II, Ch 9 — The Transmission Station (Eli · Stonehenge / Albion approach)
 **[anchors]** Present: Eli, Wren, Somchai, Hassan, ensemble; Anika/Sol pressure. Deep thread: **Cuno** via **Derw**. Objects: routed artifact-wisdom; Derw's lossy package.

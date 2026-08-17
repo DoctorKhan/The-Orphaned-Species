@@ -119,7 +119,7 @@ psionic restraint, and practical care. Young people reorganize the routes into
 seasonal, self-chosen mobile cohorts called **flights**. Flights take temporary
 bird names from route, season, or task and carry labor, seed, repair, medicine,
 song, news, and technique between distinct settlements. They are not ethnic
-tribes, permanent clans, personality kinds, animal houses, or a youth caste. A
+tribes, permanent clans, personality kinds, cloister forms, or a youth caste. A
 flight must permit landing: members may leave, return home, change routes,
 remain unaffiliated, and challenge mentors or sponsors without civil death.
 Book IX's personal test is Tara's generation—and potentially Tara herself—
@@ -307,12 +307,13 @@ and care infrastructure; men were routed into expendable posts or discarded.
 This is what explains the Weavers and the disproportionate number of female
 faces in post-Turning civic life. **Cloister transform — LOCKED 2026-07-30:** when men were Extra, cloisters kept
 them from being nothing; when men become scarce, cloisters keep them from being
-property. **Animal houses — MATURATION / MENTORSHIP ONLY; REVISED 2026-08-01:**
-cloister teaching lineages (**Stag**; folk speech may say **Deer**; **Fox, Bear,
-Salmon, Ox**) with rites of
-passage; never temperament, job, military, or civic categories. Crow retired so
-bird/flight language stays free for swifts coda and Book IX flights (`40` §
-*Cloister animal houses*). Book IV makes the allocation of defense, repair, command, care, and bodily risk a
+property. **The Five Forms — SHARED CLOISTER TRAINING; REVISED 2026-08-16:**
+every learner practices **Stag, Fox, Bear, Salmon, and Ox**. The forms train
+conduct under pressure. They create no identity, rank, work assignment, or
+political group. Teachers may be trusted in particular forms, and a learner may
+focus on one for a season. The founders take the use of animal teaching images
+from surviving practices and the unresolved imagery at Göbekli Tepe. They do
+not claim to know the ancient meanings (`40` § *The Five Forms*). Book IV makes the allocation of defense, repair, command, care, and bodily risk a
 court conflict: work and authority must be redistributed by aptitude, consent,
 training, rotation, and continuing care—not returned to a sex caste, and not
 converted into consort/heir capture of the survivors.
@@ -440,7 +441,8 @@ Deniable, contracted, often hidden even from their own publics.
 Social, not state. These are the lived forms through which people organize when institutions fail them.
 
 - **Weaver ply** — formative bonds, bodies that learned trust young, the mechanism of Weaver continuity.
-- **Animal houses** — men’s cloister mentorship lineages (Stag, Fox, Bear, Salmon, Ox). Not temperaments, jobs, or ranks.
+- **The Five Forms** — shared men's cloister training in Stag, Fox, Bear,
+  Salmon, and Ox. Every learner practices all five.
 - **Extras** — unclaimed men, civic disposable category. Not a criminal class.
 - **House men / Thread men** — two accepted-but-unequal fates for unclaimed men.
 - **Chosen-kin clans / hearths / constellations** — teahouse settlements, voluntary.

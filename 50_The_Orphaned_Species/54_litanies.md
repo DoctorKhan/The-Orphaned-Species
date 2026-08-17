@@ -342,7 +342,7 @@ Novel beats reference **F1–F10**, not the full liturgy.
 | **3** | Maren suppression | F2 — Eli or Hassan, expressionless after the van | beatsheet |
 | **4** | Somchai's hard no / Sol approach | **Paired F6/F7** — pilgrims bright, healer dark/dull | beatsheet |
 | **5** | Broken-line church, Deiwos chalk | Voice line at **draining end** of nave; sacristan answers F6 — **half-antiphon seed** | beatsheet |
-| **3 after hill** | Delphic Games / Laurel night | F8 — prize night after three contests | beatsheet |
+| **3 after hill** | Laurel race / house night | F8 — house night after Iason spends his guild appeal | manuscript |
 | **7** | Rollright / Men-an-Tol | F8 — riddling ground, don't-know as method | beatsheet |
 | **8–19** | Europe, Pömmelte, Rowan | F1 on chalked house beside Deiwos circles — **same wall, two grammars** | beatsheet |
 | **20–21** | Albion release, awakening | F9 — strait or moor wind before/after Maren release | beatsheet |

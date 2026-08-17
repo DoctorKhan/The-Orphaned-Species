@@ -18,13 +18,31 @@ At a kelong aftermath, a damaged archive wafer reveals seven images from **Maren
 
 Anika Voss offers biometric access to Rasel in exchange for Eli's clean scan. Shireen sends the living garden; Eli gives her a childhood memory of his parents keeping him safe. He refuses Bangladesh refuge and the protected line, accepting a human corridor whose cost lands on Dara's permit. At Sanxingdui, Chinese conservation evidence and Rasel's Mandate coupling apparatus break Maren's field notebook's **language-tree model** into a distributed living mesh. Eli rejects one master rhythm, completes personal Manual Override through consenting mismatched cadences, and confronts Rasel. Wren authenticates the civilian evacuation and pays publicly; Qiao loses clearance. In the greenhouse, Rasel gives Eli Maren's two-winters-old correction: *ask me why I stayed.* The reunion remains loving, furious, and incomplete.
 
-**Book I exit:** Rasel present; Wren displaced but physically present; Qiao outside the institution she served; Maren alive but unrecovered; Maren's field notebook open but unfinished; distributed Tree recognized. Göbekli / Mesopotamia belong to Book II.
+**Book I exit:** Rasel remains at Sanxingdui by choice; Wren is displaced but
+physically present; Qiao is outside the institution she served; Maren is alive
+but unrecovered; Maren's field notebook is open but unfinished; the distributed
+Tree is recognized. Göbekli / Mesopotamia belong to Book II.
 
 ---
 
 ## BOOK II — *THE DESCENT* / Albion Shaft
 
-Wren travels; Rasel remains at Sanxingdui. Eli and Wren reread the Three Circles beside the strip Rasel gave him, then move west — optionally through a **brief Egypt / Nile House Turning** (BAC-survivor god-king trap; contested Mesopotamia→pharaoh claim only) — into the Mesopotamian archive (**Adapa Folly**) and **Göbekli** (selection/control counter-image to Sanxingdui), then a **Bosporus–Thrace/Balkan holding corridor** into Europe. Egypt is never a Book II or III volume open. **Location contraction:** ~6–7 body-arrivals — church rhyme inside **Pömmelte**; **Rollright/Men-an-Tol** one corridor; **Anglesey** as bitter-cup threshold not tour; **Stonehenge→Avebury** one climax run. Hassan returns with Rasel's ring; Eli chooses the living witness over a clean Maren file and learns Maren's moral wound has a named cost. Displaced from her house role, Wren undertakes her first consequential clandestine recovery beside Rowan; **corridor break**, hearth circle, and *in the flow* land at **Pömmelte**. Their search enters an Extra settlement where Sol offers rejected men public names; an unnoticed twin-circle hatch-mark may appear without street name. Somchai's depth-scan and later hard no stay lean. At Anglesey Eli gets **one-way** Maren contact only; embodied reunion waits for Avebury. Cuno's record reveals stone grounds as transmission stations. Eli chooses **release** over keeping her under concurrent keep-her / use-her-signal assault. That release enacts the transmitted teachings rather than becoming a transmission itself, spreading the first awakening and leaving the world without a civic form capable of holding it.
+Wren travels; Rasel remains at Sanxingdui. Eli and Wren reread the Three
+Circles beside the strip Eli took from Rasel, then move west through the
+Mesopotamian archive and Göbekli. At Laurel, Eli loses a sailing race to pull
+Iason from a sinking boat; Iason spends his only guild appeal to open the
+clinic road. The route continues through the Thrace/Balkan holding corridor,
+Pömmelte, and the Rollright/Men-an-Tol corridor. Hassan returns with Rasel's
+ring. Eli chooses the living witness over a clean Maren file and learns that
+Maren's moral wound has a name. Wren undertakes her first consequential
+clandestine recovery beside Rowan. Their search enters an Extra settlement
+where Sol offers rejected men public names. During the Rollright-to-Stonehenge
+transit, Eli receives one-way contact with Maren under an explicit abort rule;
+the contact supplies pressure toward Avebury, not a conversation or address.
+Cuno's record reveals Stonehenge as a transmission station. At Avebury Eli
+chooses release during a concurrent keep-her assault. Maren survives and does
+not return to the parents' household. The release begins the first spreading
+awakening.
 
 **Book II exit:** Maren released under concurrent keep-her / use-her-signal assault; first awakening spreading laterally; Europe/amplifier repeat closed. (**The Loop** may appear only as unnoticed hatch-mark seed; street name waits for Book III.)
 

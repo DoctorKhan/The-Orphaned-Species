@@ -88,7 +88,7 @@ Route: post-Sanxingdui → **Egypt brief Turning or packet** → Mesopotamia →
 | Ch / Site | Activates (carrier) | Bible bite to pull | Partial truth | Deep-lore hold | Next door |
 |---|---|---|---|---|---|
 | 1 · Sichuan exit / greenhouse | Credential red; tomato stake | Release ≠ restoration | Father present; Wren barred | — | West (via Egypt Turning or direct) |
-| **1 Turning · Egypt / Nile House** *(not a full chapter)* | BAC-survivor god-king costume; optional uraeus/benben half-read | Survived collapse by hardening divine kingship | Endurance ≠ adulthood; contested Mesopotamia→pharaoh claim | Full Egyptology tour; volume open | Mesopotamia archive |
+| **1 Turning · Egypt / Nile network** *(not a full chapter)* | BAC-survivor god-king costume; optional uraeus/benben half-read | Survived collapse by hardening divine kingship | Endurance ≠ adulthood; contested Mesopotamia→pharaoh claim | Full Egyptology tour; volume open | Mesopotamia archive |
 | 2 · Mesopotamian archive / tell | **Folly** (Adapa); triad residue; Map; Egypt packet OK if Turning skipped | Knowledge→obedience; 4.2 ka vs Adapa day | Centralizing fiction; Göbekli window | Full god politics | Göbekli |
 | 3 · Göbekli / Taş Tepeler | **Bridge** plaquette; buried instrument | Contact → selection / managed access | Counter-image to Sanxingdui branches | Panspermia zoom | West corridor |
 | 4–5 · Bosporus / holding | Hassan; Charkha naming | Costume hunt; Maren alive + tethered | Running their map | Departure-drone network named late | Pömmelte |

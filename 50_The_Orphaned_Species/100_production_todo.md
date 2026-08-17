@@ -8,8 +8,19 @@
 
 > **Soft-inconsistency fix — 2026-07-29:** Do not call Layer 1 a trilogy. Current map Books I–IV + Orchestra V–X (`SERIES_STRUCTURE.md`).
 >
-> **Index adopted — 2026-08-16:** `00_INDEX.md` is LIVE. Propagation rule: scene
+> **Index adopted — 2026-08-16:** `00_INDEX.md` is LOCKED. Propagation rule: scene
 > locks edit the manuscript chapter or name the debt here.
+>
+> **Five Forms revision — 2026-08-16:** permanent animal affiliation is
+> retired. Men's cloisters teach Stag, Fox, Bear, Salmon, and Ox as five shared
+> forms. Every learner practices all five. Book III establishes the disputed
+> Göbekli inspiration; Book IV shows a Stag teacher without sorting Ren.
+>
+> **Institutional integration — 2026-08-16:** `40` now separates local
+> belonging, work authority, training, personal bonds, and appeal. Book III
+> places Knotter, Weft, Dyer, cloister, and learner authority on one intake
+> sheet. Book IV identifies Nacre as a Farshore house with a large Warp bench
+> and denies both craft monopoly and form-based file access.
 >
 > **Cast-set pass — 2026-08-16:** Return rule spent on Malai packet + Dara list
 > (`III` garden). Kiran quarry. Lang turn = Imani Vale. Somchai scan cut to wrist
@@ -27,7 +38,7 @@
 > traveling-Rasel rebuilt (on-page only after Rollright, at Sanxingdui). Book
 > III wonder floor landed on existing scenes. Book IV corridor / eruption /
 > Heather / birth-field landed. Word-web seeds landed same day (`98` item 7).
-> Delphi/Games route in `55` and sister files now matches the manuscript
+> Laurel race / house-night route in `55` and sister files now matches the manuscript
 > (after Ch 3, then clinic). Companion live sources fold "three doors" into
 > the middle.
 > **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-08-09, PROSE RECONCILED:**
@@ -52,9 +63,11 @@
 > the compact gap). The former Book III shared-garden coda still closes Book
 > IV.
 
-**Status:** Books I–IV drafting pass complete, 2026-07-28 (volume map: `SERIES_STRUCTURE.md`; optional V–VI unallocated). Remaining unchecked
-items are research verification, cast-bible cleanup, publication expansion, or
-superseded-plan notes—not missing chapter drafts for I–IV. Do not call the series a trilogy.
+**Status: OPEN.** Complete structural drafts exist for Books I–IV. They are not
+publication-ready. Books III and IV still need broader sustained-scene passes,
+and unchecked items below include research, cast, continuity, and prose work.
+Books V–X have assigned roles in `SERIES_STRUCTURE.md`; their prose remains
+frozen. Do not call the series a trilogy.
 
 ## Drafting frontier (2026-07-22, in order)
 
@@ -95,7 +108,10 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 10. [~] Research passes, just-in-time: Pelangi Reach Timah/Sama-Bajau seeded in Ch 1;
     Malacca market already dense; remaining: deeper island texture as needed.
 
-**Canon hubs:** `00_NARRATIVE_STRUCTURE.md`, `WORLD_BIBLE.md`, `29_tetralogy_plot_and_development.md`, `31_volume_I_beatsheet.md`, `32_volume_II_beatsheet.md`, `33_volume_III_beatsheet.md`, `60_volume_IV_court_of_threads.md`, `35_artifact_chain.md`
+**Working hubs:** use `00_INDEX.md` for authority and state. Current manuscript
+work is tracked in `31_volume_I_beatsheet.md`, `32_volume_II_beatsheet.md`,
+`33_volume_III_beatsheet.md`, `60_volume_IV_court_of_threads.md`, and
+`35_artifact_chain.md`.
 
 ## Before drafting
 
@@ -133,7 +149,7 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
   Mesopotamian archive and Göbekli / Taş Tepeler into the westward route.
 - [x] Lock the westward causal route through Mesopotamia/Anatolia →
   Bosporus/Thrace/Balkans; no Gulf backtrack.
-- [x] Lock the Europe clue chain: Göbekli → Delphic Games / Laurel night →
+- [x] Lock the Europe clue chain: Göbekli → Laurel race / house night →
   Thrace clinic → Hassan record → dead-zone signature → Pömmelte
   → broken-line church ⊂ Ch 6 → Rollright/Men-an-Tol → Stonehenge
   transmission station → Avebury release.
@@ -201,6 +217,19 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
   jurisdiction detail, work-song wording — do not invent guanacaste monoculture.
 - [x] Reveal the Forks with the dragon witness: Earth-produced chimpanzee/bird branches beside Heaven-seeded human/dragon branches; retain disputed provenance and independent-test limits.
 - [x] Make the decisive response recognition and restraint, not technology-versus-nature: possible bridge-species survivors are persons, not proof to hunt or threats to preempt.
+- [x] Expand the Ch 10 handover into a sustained scene: Orla Finch presses a
+  single-counterparty form; Tarek and Wren expose its authority trap; medicine
+  and cold-chain losses give Eli a present cost for refusing it.
+- [ ] Continue the sustained-scene pass through Book III. Replace compressed
+  outcome summaries where a named opponent can force a choice on-page.
+
+## Book IV — *The Court of Threads*
+
+- [x] Expand the Ch 10 Weaver decision into a sustained Wren scene: House Nacre
+  demands permanent custody standing while Rowan is in labor; Selin's testimony
+  changes the record without converting silence into consent.
+- [ ] Continue the sustained-scene pass through Book IV. Prioritize the short
+  court, credential, and birth-adjacent scenes that currently report outcomes.
 
 ## Terminology and continuity
 
@@ -212,9 +241,11 @@ superseded-plan notes—not missing chapter drafts for I–IV. Do not call the s
 - [x] Keep artifacts at three visibility levels: causal, contested, and reader-level *Elmarillion* synthesis.
 - [x] Run final stale-term and station-mechanics sweeps across the governing manuscripts.
 
-## Stale-material policy
+## Staged-material policy
 
-- Retain `archive/manuscripts/v1_archive.md`, `archive/manuscripts/recovery_2026-06-30.md`, and `archive/` as labeled prose quarries/backups, not canon.
-- `36_the_living_web.md` governs and supersedes the removed memory-capsule mechanism.
-- `31`/`32`/`33` current beatsheets govern; older allocations inside supporting docs are quarry only.
+- Retain `archive/manuscripts/v1_archive.md`, `archive/manuscripts/recovery_2026-06-30.md`, and `archive/` as STAGED sources and backups.
+- `36_the_living_web.md` is OPEN. Its living-web mechanism supersedes the
+  removed memory-capsule mechanism where current manuscripts use it.
+- Read `31`/`32` as STAGED aids and `33` as an OPEN draft. Current manuscripts
+  decide scene continuity; older allocations remain STAGED.
 - Do not restore superseded Boracay-first, long-opening, Gulf-backtrack, duplicate-Adapa, or early-dragon reveals.

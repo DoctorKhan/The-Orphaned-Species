@@ -16,9 +16,9 @@
 >
 > **Inana's Descent — dual face — LOCKED 2026-08-01:** Ch 2 archive seeds Descent + Enheduanna; Ch 4 Somchai = healing face; Ch 6–7 Wren/Rowan renewal = romance face (gates/attend/return-with-cost through conduct). `35` § *Inana's Descent*; `19` § *Rowan returns*.
 >
-> **Egypt — brief Turning / packet only — LOCKED 2026-08-01:** not a volume open. Ch 1 westbound Nile House / Mandate corridor Turning **or** Ch 2 Egyptian comparative packet. Job: BAC survival by hardening divine kingship. Contested Mesopotamia→pharaoh claim only. Book III = Mandate-face only (`32`, `33`, `61`).
+> **Egypt — brief Turning / packet only — LOCKED 2026-08-01:** not a volume open. Ch 1 westbound Nile network / Mandate corridor Turning **or** Ch 2 Egyptian comparative packet. Job: BAC survival by hardening divine kingship. Contested Mesopotamia→pharaoh claim only. Book III = Mandate-face only (`32`, `33`, `61`).
 >
-> **Location contraction — LOCKED 2026-08-01; Ch 8 Anglesey cut 2026-08-10; Laurel on the road 2026-08-16:** ~6–7 body-arrivals; church ⊂ Ch 6 Pömmelte; Ch 7 Rollright+Men-an-Tol one corridor; **Delphic Games → Laurel night = present-tense stop after Ch 3**, then Thrace clinic; Ch 8 Rollright→Stonehenge corridor transit; Ch 9–10 Stonehenge→Avebury one climax run. Every stop: chase next-door + relationship cost (`32`, `61`).
+> **Location contraction — LOCKED 2026-08-01; Ch 8 Anglesey cut 2026-08-10; Laurel on the road 2026-08-16:** ~6–7 body-arrivals; church ⊂ Ch 6 Pömmelte; Ch 7 Rollright+Men-an-Tol one corridor; **Laurel race / house night = present-tense stop after Ch 3**, then Thrace clinic; Ch 8 Rollright→Stonehenge corridor transit; Ch 9–10 Stonehenge→Avebury one climax run. Every stop: chase next-door + relationship cost (`32`, `61`).
 >
 > **Delivery package — LOCKED 2026-08-01; Rasel revised 2026-08-11:** mother Clock A every chapter + dual-clock delivery cards Ch 1–10; Wren/Rowan↔Maren mirror; **Rasel off-page by choice** (Antika/Anika/Custodian pressure carries instrument function); Sol @ Extra settlement; Ch 8 one-way Maren contact only; term budget; antagonist face-per-stretch; gap-fillers wired — hearth/*flow* Ch 6, Maren moral wound, Somchai depth-scan Ch 4, Sora, Parade drip, Maren's field notebook living correction, Somchai hard no late Ch 9 (`32` § *Book II delivery package*; `58` § *Book II relocation*).
 >
@@ -1167,7 +1167,7 @@ It is proof that civilization has long known how to move its order while
 calling the movement sacred.
 
 A second curator, older, uninterested in Haddad's comparative romance, adds a
-folder nobody asked for: contested photographs from a Nile House loan
+folder nobody asked for: contested photographs from a Nile network loan
 collection, touring before the war cut the exhibit short. Not everything
 moved, she says. Some centers answered collapse by hardening instead — the
 god-king kept alive past any ordinary reign, the office propped upright long
@@ -2055,110 +2055,186 @@ The buried instrument keeps what they came to make it surrender.
 ---
 
 The town sits on a strait and a low mountain. Kastri on the older maps.
-Laurel Cube on the ticketed pilgrim buses that never come this far
-off-season. Three days a year the maritime guild runs contests no office
-sanctions and no office can quite forbid. The winners leave with a local
-pass, honored by every captain who was once a boy watching from the harbor
-wall. If the games judge you worth it, a keeper house at the mountain's
-shoulder keeps one night.
+Laurel Cube on the ticketed pilgrim buses that do not come this far
+off-season. Three days a year the maritime guild races for a local passage
+stamp. Every captain on the clinic coast recognizes it.
 
-Wren finds the noticeboard before Eli does.
+Wren finds the noticeboard before Eli does. The last race starts in forty
+minutes. The winner receives one westbound berth and may attest one emergency
+traveler through the guild house.
 
-"You need the pass," she says. "Sympathy will not open the next corridor."
+"Aylin is already in the ambulance," Eli says.
 
-"You're saying I should race."
+"The ambulance has a clinic code. We have no road behind it."
 
-"I'm saying the ambulance already left."
+Two names are chalked below the notice. The second belongs to Iason Petrou,
+whose boat is upside down on trestles beside the quay. He is planing a patch
+into the port bilge while his sister heats pitch over a camping stove.
 
-The first contest is water. The course runs the strait twice, against a
-current that punishes anyone who fights it. Eli's boat is borrowed, patched,
-wrong in three places he has to learn by feel. Halfway through the second
-leg his palms find the hull's actual rhythm. The boat stops being separate
-from the water it is cutting. For four strokes he sails faster than the
-Fever scar should allow. Then the scar collects: a headache like a nail
-driven flat, the last mark doubling. He crosses half a length ahead and
-sits down hard on the dock before anyone can watch his knees do it.
+"You are the late entry," he says when Wren gives him the guild fee.
 
-The second contest is a chalk circle on cobblestones. Padded staves. His
-opponent is heavier. Eli has no forms that apply at this range. His body
-remembers a fracture nobody set right — the old break in his own hip reads
-weight shifting through another man's frame a half-second early. He is
-already somewhere else when the strike arrives. Three times. The man stops
-swinging at where Eli is and starts swinging at where Eli has left.
+"If they'll take it."
 
-The third contest is quiet, indoors: a locked cabinet, a pattern lock the
-guild has used for two centuries to keep the crossing manifest honest.
-Officials expect minutes. Eli holds the whole shape at once, the way he
-once saw cable runs, and the lock gives before the timer's second hand
-finishes its circuit. Somchai is not here to see it. Wren does not smile.
-She recalculates.
+Iason looks at Eli's hands. "They'll take your money."
 
-The pass they hand him is a plain paper stamp.
+His sister spits into the pitch. Iason needs the stamp to carry their repaired
+boat west before its temporary registration expires at noon tomorrow. Without
+it the harbor office seizes the hull. He tells Eli this while they step the
+masts because hiding the fact would make a polite race out of something else.
 
-The second thing is a keeper's word, said the way a local tells you which
-door opens: a night, if he wants it, at the mountain's shoulder.
+"I need the clinic road," Eli says.
+
+"Then one of us needs another door."
+
+The course crosses the strait, rounds a white rock, and returns against the
+ebb. Eli draws the guild loaner. It has a soft starboard stay and a tiller
+that pulls left under load. He has twenty minutes to learn both. Wren holds
+the bow off the stones while he tightens what the guild allows him to touch.
+
+"Win clean," she says.
+
+"I know."
+
+"You know how to arrive clean. Different skill."
+
+Iason leads off the line. He grew up inside this current. He gives the first
+eddy half a boat length and gets it back when the channel narrows. Eli stops
+watching his stern and watches the water instead. Dark ruck by the wall.
+Wind on the ferry windows. A plastic cup turning in place where two flows meet.
+The loaner settles when he eases the main one finger-width.
+
+At the white rock they are even.
+
+The Fever scar brightens behind Eli's left eye. He can take the inside return
+and make Iason sail through his wake. Legal. Suresh would call it the only
+move worth making.
+
+Iason bears away first.
+
+The patch in his bilge lifts.
+
+Water comes through in a brown sheet. His sister shouts from the quay. Iason
+puts one hand below the thwart and keeps racing with the other. The boat loses
+height. On the next tack it will fill.
+
+Eli has the inside line.
+
+He crosses Iason's bow, drops his own sail, and throws the loaner's painter.
+It lands short. He hauls it back. Throws again. Iason catches it around his
+wrist.
+
+The other two boats pass them.
+
+Eli brings the hulls together hard enough to crack the loaner's gunwale. Iason
+climbs across. His boat rolls under their feet and leaves one red corner of
+sail above the water.
+
+They finish last with Iason bailing from a cut-down fuel tin.
+
+The guild judge records the order. She records the damaged loaner. She asks
+why Eli abandoned a winning line for a man who signed the same risk form.
+
+"His boat was sinking."
+
+"That was visible."
+
+Iason stands dripping beside him. The noon registration notice is pulp in his
+pocket. His sister has both hands over her mouth.
+
+The winner takes the stamp and leaves before the argument finishes.
+
+Iason takes the attestation slate.
+
+"I have no berth to share," he says. "I have a house word."
+
+His sister says his name once.
+
+He signs anyway. The signature spends the guild appeal that might have kept
+their boat out of seizure. Wren reads the terms before Eli can pretend it is
+only gratitude.
+
+"The clinic house will receive two people until tomorrow's noon boat," Iason
+says. "After that you are your own paperwork."
+
+Eli looks toward the red sail in the strait.
+
+"I can repair the patch."
+
+"Tomorrow you can be somewhere else."
+
+Iason's sister takes the recovery line and wades into the strait without
+looking back.
 
 ---
 
-An old woman meets him at a house that is mostly kitchen. She does not
-explain. She feeds him first — bread, something bitter and green — and only
-after that leads him up a goat path to a room with no furniture and a floor
-worn smooth in a spiral nobody swept clean on purpose.
+The guild house is mostly kitchen. Kyra, who keeps it, feeds them bread and
+bitter greens before she reads Iason's word. She rubs the wet signature with
+her thumb.
 
-"You don't have to say anything," she tells him. "If you want the night to
-mean something, say the words with the others."
+"He had one appeal."
 
-Below, at the margins of the path, pilgrims who won nothing sit in the dark
-and sing something low and repetitive, a handful of lines passed hand to
-hand longer than anyone can date. Eli does not know the words. He mouths
-the shape of them anyway, half a beat behind.
+"I know," Eli says.
 
-A second sleeper is already on the floor. A girl about his age, hair still
-wet from the climb. She does not look at him.
+"Knowing is cheap here."
 
-He lies down because the old woman tells him to, and because his legs have
-stopped arguing about it.
+She gives Wren the room above the pantry. Eli gets a blanket in the old meeting
+room at the mountain's shoulder because the floor there has no beds and the
+house is full.
 
-He does not fall asleep so much as stop being only one thing.
+Mara is already laying out another blanket. She is the harbor electrician's
+daughter and has come up after repairing the race timer. Grease remains under
+her nails. She asks whether Eli snores. He says he has never stayed awake to
+check.
 
-Something approaches in the dark that is not entirely dark. A warmth with
-a direction. A weight that leans in without quite arriving. He feels it
-more than he sees it. For one second he thinks he sees it too: something
-like a hand, something like patience, close enough to touch his forehead.
+Pilgrims sit below the terrace wall and sing four lines without a leader. Eli
+does not know the words. He follows the last sound of each line until he can
+find the first.
 
-The touch is neither pain nor quite comfort. A single fact arriving whole:
-a ground far to the north-west, already breathing wrong, already carrying
-more weight than it should. Go there prepared to leave something behind,
-or do not go at all.
+The floor holds warmth after the kitchen fire goes out.
 
-Then a face. Giant. White markings across the brow and the cheeks. The
-same marks appear on his own hands. Older hands move above him, the same
-motions, generation after generation, down to his hands already moving
-fast with the same cadence. He cannot stop them.
+His hands begin moving before he sleeps.
 
-The girl on the floor is staring. Eyes wide. That look breaks it. He comes
-out still moving. His hands keep the shape for three more breaths before
-he can make them lie still.
+One palm turns upward. The other crosses it and opens. White marks pass over
+knuckles that are his and then larger than his. A broad face bends close,
+painted across the brow. More hands repeat the movement behind it. None points
+west. None gives him a name. The motion keeps going after the face is gone.
 
-He does not understand the warning as a map. He understands it the way he
-understands fever from three feet away.
+Mara says, "You're doing it again."
 
-When he sits up the old woman is already gone and the singing below has
-stopped. The girl is gone too. His hands shake the way they do after
-activation. Nobody in the kitchen downstairs has any way to know he was
-anywhere but asleep.
+Her voice gives him the room. Plaster. Blanket. The smell of extinguished oil.
+His right hand is still opening and closing above his chest.
 
-On the path down he notices he is talking with his hands before the words
-arrive. Wren, waiting at the house, watches once and does not ask.
+"How long?"
 
-That night, in the room above the contest hall, he tries a guitar a site
-medic left with two strings still good. He is terrible at it. He plays the
-same four-count Nura once tapped into a teacup rim, badly, until his hands
-stop shaking on their own schedule. Wren, in the doorway, counts along
-under her breath until he notices and keeps going.
+"Long enough that I moved my head."
 
-In the morning they use the stamp on a coastal boat headed for the clinic
-road. The pass works. The hands keep moving when he is not watching them.
+Kyra comes when Mara calls. She checks his pupils and makes him drink water.
+She does not tell him what the hands mean.
+
+"Did I touch her?" Eli asks.
+
+"No," Mara says. "You scared me. That is different."
+
+He sleeps against the wall after that. Mara keeps her blanket where it was.
+In the morning she is still there, winding the broken race-timer lead around
+her elbow.
+
+Kyra stamps Iason's word at the kitchen table. The stamp admits Eli and Wren
+to the noon coastal bus. It does nothing for Iason's boat.
+
+On the ride toward the clinic road, Eli catches his left hand repeating the
+open-and-cross motion against his knee. Wren closes her fingers around his
+wrist until he notices.
+
+"Iason," she says.
+
+"I know."
+
+"Say it when cheap is all you have."
+
+"Iason."
+
+The hand stops before the bus reaches the first tunnel.
 
 ## Chapter Four—The Healer's Terms
 
@@ -2830,8 +2906,11 @@ Aylin's eyes move to Somchai.
 She looks back at Eli.
 
 "They used the consortium clock to hold us quiet. It slipped. I hit the wall.
-The woman in front told me the rear lock would open if the system chose a
+"The woman in front told me the rear lock would open if the system chose a
 cleaner load."
+
+Somchai's hand stays on the table. He does not look at Aylin. He looks at
+Eli's wrist, where the pulse is faster than it should be.
 
 "Anika?"
 
@@ -5428,22 +5507,19 @@ leave. They went underground."
 
 The header on her slate still says ALBION. Maintenance district. Gate codes.
 
-"The ferry clerk used that word," Eli says.
+"Ferry clerk used that word," Eli says.
 
-"They took it back when the crown died. Older than the crown: Alba. The ones
-who ran west. Mothers kept the names. Hunters kept the lists."
+"Took it back when the crown died. Older than the crown: Alba. The ones who
+ran west. Mothers kept the names. Hunters kept the lists."
 
-"At Pömmelte they wrote *Alben*."
+"At Pömmalte they wrote *Alben*."
 
-She tests the iron with her thumb. "They kept walking. Later mouths said
-elf. Same island."
+She tests the iron with her thumb. "They kept walking. Later mouths said elf.
+Same island."
 
-Holt on the page Marta corrected. His mother's line.
-
-"So she might be—"
-
-"Possibly." Morwen slings the coil. "I do gates. If you want a species, the
-vicar still has pamphlets."
+Wren reads the slate before Morwen answers. "If it is a people, that is a hunt
+list. If it is a place, the clerk already did the work. If it is her, tell me
+now before I sign another house attestation that has to honor his return."
 
 Callum wakes before the rowan leaves brown.
 

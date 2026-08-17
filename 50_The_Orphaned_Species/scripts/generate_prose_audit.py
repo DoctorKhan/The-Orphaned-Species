@@ -52,7 +52,7 @@ BOOKS = [
 # ---------------------------------------------------------------------------
 
 NOT_X_BUT_Y = re.compile(r"\bnot\b[^.\n]{0,30}\bbut\b", re.IGNORECASE)
-STACKED_EM_DASHES = re.compile(r"—.*?—.*?—", re.DOTALL)
+STACKED_EM_DASHES = re.compile(r"[^.!?\n]*—[^.!?\n]*—[^.!?\n]*")
 COLON_HEAVY = re.compile(r":[^:\n]{0,40}:[^:\n]{0,40}:")
 
 TELL_NOT_SHOW = re.compile(
@@ -94,9 +94,8 @@ STALE_FRAMING = {
     "recover Rasel": "Rasel refused; stays by choice",
     "Eli recovers Rasel": "Eli refuses Rasel",
     "Rasel instrument antagonist": "Rasel off-page by choice",
-    "Rasel present": "Rasel off-page by choice",
-    "father alive": "father left behind / refused",
-    "Rasel stays": "Rasel refuses",
+    "Rasel leaves with": "Rasel stays at Sanxingdui",
+    "Rasel travels with": "Rasel stays at Sanxingdui",
 }
 
 
@@ -135,18 +134,27 @@ def windowed_counts(text: str, window: int = 220) -> tuple[int, int, int]:
 
     best = 0
     best_body = 0
+    best_pressure = -10**9
     best_start = 0
-    j = 0
-    for i, (start, _) in enumerate(abstract_hits):
-        while j < len(body_hits) and body_hits[j][1] < start:
-            j += 1
-        k = j
+    body_left = 0
+    abstract_right = 0
+    for abstract_left, (start, _) in enumerate(abstract_hits):
+        while abstract_right < len(abstract_hits) and abstract_hits[abstract_right][0] <= start + window:
+            abstract_right += 1
+        abstract = abstract_right - abstract_left
+
+        while body_left < len(body_hits) and body_hits[body_left][1] < start:
+            body_left += 1
+        k = body_left
         body = 0
         while k < len(body_hits) and body_hits[k][0] <= start + window:
             body += 1
             k += 1
-        if i + 1 > best:
-            best = i + 1
+
+        pressure = abstract - body
+        if pressure > best_pressure or (pressure == best_pressure and abstract > best):
+            best_pressure = pressure
+            best = abstract
             best_body = body
             best_start = start
     return best, best_body, best_start

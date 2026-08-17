@@ -34,7 +34,8 @@
 | Romance / Wren | `19_romance_and_divine_pairing.md` + `27` § Wren; **mystery / intrigue / attraction** — `19` § *Female mystery…*; **pair-competition** — `19` § *Periodic pair-competition*; per-chapter cost — `31`/`32`/`33` § *Romance cost audit*; per-chapter M/I/A — `31`/`32`/`33` § *M/I/A audit*; **Inana dual-face** (healing + Wren/Rowan) — `35` § *Inana's Descent*, `19` § *Rowan returns* |
 || **Adjacent books / author brands (1–2 names)** | **`63_adjacent_books_and_author_brands.md`** — Wren/Rowan spicy Priority A; Brand A literary + Brand B romance; no per-book or AI-author roster |
 || **Goonies-style kid-crew companion** | Between Book IV and Book V, concurrent with the son's infancy; mixed-age crew (5, 12×2, 14–15, 16) finds Maren's field notebook fragment/Charkha field card/Two-Tree pilot artifact and delivers proof to the right adult without getting claimed; genre valve for main novels' register; `99` item 9 |
-| **Cloister animal houses (Stag, Fox, Bear, Salmon, Ox)** | **`40_concepts.md`** § *Cloister animal houses* — five maturation-and-mentorship lineages with rites of passage; never temperament, occupational, military, or civic categories; Crow retired (bird/flight later); seed `33` Ch 9 |
+| **The Five Forms (Stag, Fox, Bear, Salmon, Ox)** | **`40_concepts.md`** § *The Five Forms* — shared cloister training; every learner practices all five; no sorting or permanent affiliation; seed `33` Ch 9 |
+| **Houses / crafts / cloisters / forms / appeal** | **`40_concepts.md`** § *Institutional grammar* — local belonging, work authority, training, personal bonds, and review remain distinct; Book III founding and Book IV Nacre test put them in the same case |
 | **Phantom god-perception / correct worship** | **`17`** §9a + **`40`** — II seed; III civic diagnosis; **V–X** payoff = ego/robot → Player/consciousness; not atheism |
 | Locked beats / open names | `99_open_questions.md` |
 | Volume I chapter order | `31_volume_I_beatsheet.md` |

@@ -7,112 +7,96 @@
 ## Summary
 - **Chapters audited:** 10
 - **Flagged chapters:** 10
-- **Total flag instances:** 44
+- **Total flag instances:** 28
 
 | Flag | Chapters |
 |---|---|
-| STACKED-EM-DASHES | 10 |
 | TELL-NOT-SHOW | 10 |
-| ABSTRACT-OVER-BODY | 10 |
 | NOT-X-BUT-Y | 6 |
 | ABSTRACT-DENSE | 5 |
+| STACKED-EM-DASHES | 3 |
 | ECHO-CLOSER | 3 |
+| ABSTRACT-OVER-BODY | 1 |
 
 ## Chapter-level detail
 
 ### ## Chapter One—The Boat at Morning
-- **Word count:** 3370
-- **Sentence count:** 488
+- **Word count:** 3498
+- **Sentence count:** 509
 - **Flags:**
   - NOT-X-BUT-Y (3 hits)
-  - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (8 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 102 body terms)
-  - ABSTRACT-OVER-BODY (windowed 22 abstract vs 1 body)
+  - STACKED-EM-DASHES (1 hits)
+  - TELL-NOT-SHOW (9 hits)
+  - ABSTRACT-DENSE (22 abstract terms, 107 body terms)
 
 ### ## Chapter Two—Terms of Welcome
-- **Word count:** 3817
-- **Sentence count:** 480
+- **Word count:** 3938
+- **Sentence count:** 496
 - **Flags:**
-  - STACKED-EM-DASHES (3 hits)
-  - TELL-NOT-SHOW (6 hits)
-  - ABSTRACT-DENSE (21 abstract terms, 70 body terms)
-  - ABSTRACT-OVER-BODY (windowed 21 abstract vs 0 body)
+  - TELL-NOT-SHOW (5 hits)
 
-### ## Chapter Three—The Person Freedom Failed
-- **Word count:** 2190
-- **Sentence count:** 283
+### ## Chapter Three—Three Requests
+- **Word count:** 2175
+- **Sentence count:** 281
 - **Flags:**
-  - STACKED-EM-DASHES (1 hits)
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (2 hits)
-  - ABSTRACT-OVER-BODY (windowed 11 abstract vs 1 body)
 
-### ## Chapter Four—The Standard
-- **Word count:** 3651
-- **Sentence count:** 417
+### ## Chapter Four—Lang's Folder
+- **Word count:** 4408
+- **Sentence count:** 516
 - **Flags:**
-  - NOT-X-BUT-Y (3 hits)
-  - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (6 hits)
-  - ABSTRACT-OVER-BODY (windowed 20 abstract vs 1 body)
+  - NOT-X-BUT-Y (2 hits)
+  - TELL-NOT-SHOW (5 hits)
+  - ABSTRACT-DENSE (21 abstract terms, 95 body terms)
 
 ### ## Chapter Five—The Names They Carry
 - **Word count:** 3583
 - **Sentence count:** 432
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (7 hits)
+  - STACKED-EM-DASHES (5 hits)
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (12 hits)
   - ABSTRACT-DENSE (25 abstract terms, 78 body terms)
-  - ABSTRACT-OVER-BODY (windowed 25 abstract vs 1 body)
 
 ### ## Chapter Six—The Compact
-- **Word count:** 3135
-- **Sentence count:** 348
+- **Word count:** 3358
+- **Sentence count:** 388
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
-  - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (10 hits)
-  - ABSTRACT-DENSE (28 abstract terms, 46 body terms)
-  - ABSTRACT-OVER-BODY (windowed 28 abstract vs 0 body)
+  - TELL-NOT-SHOW (7 hits)
+  - ABSTRACT-DENSE (27 abstract terms, 55 body terms)
+  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
 
 ### ## Chapter Seven—A Crown With an End
-- **Word count:** 2892
-- **Sentence count:** 348
+- **Word count:** 2945
+- **Sentence count:** 353
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (1 hits)
   - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (2 hits)
-  - ABSTRACT-OVER-BODY (windowed 17 abstract vs 0 body)
+  - TELL-NOT-SHOW (3 hits)
 
 ### ## Chapter Eight—The Cost of Consent
-- **Word count:** 3205
-- **Sentence count:** 431
+- **Word count:** 3826
+- **Sentence count:** 496
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (4 hits)
-  - ABSTRACT-OVER-BODY (windowed 16 abstract vs 0 body)
+  - TELL-NOT-SHOW (5 hits)
 
-### ## Chapter Nine—The Hearing Begins
-- **Word count:** 3021
-- **Sentence count:** 398
+### ## Chapter Nine—The Packet
+- **Word count:** 3346
+- **Sentence count:** 439
 - **Flags:**
-  - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (2 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 64 body terms)
-  - ABSTRACT-OVER-BODY (windowed 22 abstract vs 0 body)
+  - TELL-NOT-SHOW (1 hits)
+  - ABSTRACT-DENSE (22 abstract terms, 80 body terms)
 
 ### ## Chapter Ten—The Handover
-- **Word count:** 1619
-- **Sentence count:** 160
+- **Word count:** 1973
+- **Sentence count:** 232
 - **Flags:**
-  - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (4 hits)
-  - ABSTRACT-OVER-BODY (windowed 10 abstract vs 1 body)
+  - STACKED-EM-DASHES (1 hits)
+  - TELL-NOT-SHOW (3 hits)
 
 ## Open items
 

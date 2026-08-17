@@ -9,7 +9,7 @@
 > **Read this first if you are unsure how many books this series has, what's in each one, or what a file name refers to.**
 >
 > **What is current — LOCKED 2026-08-16:** `50_The_Orphaned_Species/00_INDEX.md`
-> (LIVE / QUARRY / PROCESS). Drafting stack and propagation rule live there.
+> (LOCKED / STAGED / OPEN). Drafting stack and propagation rule live there.
 >
 > **Family total — LOCKED 2026-07-31:** **14 core** = 10 Layer 1 novels (I–X) + 4
 > Layer 2 companions. Satellites outside. See § *Family total* below.

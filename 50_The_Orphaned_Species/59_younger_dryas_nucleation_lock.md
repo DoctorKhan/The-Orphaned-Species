@@ -193,7 +193,17 @@ This gives the Strait of Malacca's modern chokepoint importance (trade, oil, sec
 
 Across all three, what can be hidden is only ever the *explanation* — that it's a fragment of one downed starship, that the effect sorts into three domains, and that the other two cubes exist for the identical reason — never the raw fact that something real happens there, which is exactly what draws pilgrims to a rumor, a ruin, or a ticketed concert alike.
 
-**Laurel Cube access — Delphic Games, not a lottery — LOCKED 2026-08-06.** No central authority exists to sell tiers (Mandate model) or suppress crowds (Union model), so access develops from the bottom up, inspired by the real Delphic Games actually held at Delphi in antiquity (Panhellenic, centered on music and poetry, athletics second) — rhymes with real history, never asserted as documented record, same discipline as the Three-Circles Tablet and Göbekli plaquette. **Naming:** Laurel Cube — Apollo's sacred plant, the Pythia's own ritual leaf, and the material of the Games' victory wreath, all three already true of real Delphi before this cosmology touches it; Kastri remains the site's plain place-name underneath it, the same literal logic as Cherry Lane. **The counter-liturgy:** *The Low Place* (Tao 8 rendering, `54_litanies.md` § *The Low Place*) is sung communally at the Games' margins, among pilgrims who did not win a vision-quest slot — contentment, not consolation.
+**Laurel Cube access — guild race and house word — LOCKED 2026-08-16.**
+No central authority sells tiers or suppresses crowds. The maritime guild runs
+an annual passage race tied to ordinary berths and registration appeals. Eli
+abandons a winning line to pull Iason from a sinking boat. Iason spends his
+sole guild appeal to attest Eli and Wren onto the clinic road. The keeper house
+receives them through that named cost. The house night does not award a vision
+to a winner, and the contact gives no itinerary. **Naming:** Laurel Cube retains
+the public Apollo/laurel association; Kastri remains the plain place-name.
+**The counter-liturgy:** *The Low Place* (Tao 8 rendering,
+`54_litanies.md` § *The Low Place*) is sung below the terrace by people with and
+without guild standing.
 
 - **Periodic windows, not continuous access.** The Wisdom effect runs strongest on windows tied to the same fault-gas/geological activity already locked for Delphi's spark ecology, echoing the historical Pythia's own limited consultation calendar rather than inventing a new one. Pilgrims converge on the same narrow windows instead of arriving in a steady trickle — this alone accounts for most of the crush.
 - **Festival Games decide who gets a vision-quest slot.** Rowing and sailing races, cargo-handling and knot-work speed contests, and — following the real Games' actual centerpiece — song and story competitions, which gives the Bard-function material (`00_NARRATIVE_STRUCTURE.md` § *Eli's perceptual development*) a real-world stage well before it otherwise appears on-page.

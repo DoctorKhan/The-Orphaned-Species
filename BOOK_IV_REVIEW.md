@@ -209,8 +209,8 @@
 **Locked beats present:**
 - ✅ Regional games-and-market gathering in freight yard (`3957–4196`)
 - ✅ Child hurt; result voided; betting/psionic corruption exposed (`4028–4158`)
-- ✅ Cloister captain recruits from anger; older Stag refuses borrowed anger as maturation (`4051–4107`)
-- ✅ Older Stag mentor asks "What are you turning toward?" (`4080–4095`)
+- ✅ Cloister captain recruits from anger; Stag teacher refuses to count borrowed anger as training (`4051–4107`)
+- ✅ Stag teacher asks "What are you turning toward?" (`4080–4095`)
 - ✅ Men's and women's halls constructed; Wren moves joint session to machine yard (`4246–4283`)
 - ✅ Constitutional vs praetorian split (`4285–4428`)
 - ✅ Wren brokers two-house settlement with cross-membership, audit, appeal (`4352–4428`)
@@ -222,13 +222,19 @@
 | Beat | Status | Notes |
 |---|---|---|
 | Regional games with psion/betting scandal | ✅ Hit | 3957–4196 |
-| Stag mentorship boundary proof | ✅ Hit | 4051–4107 |
+| Stag-form teaching boundary proof | ✅ Hit | 4051–4107 |
 | Joint session moved to neutral yard | ✅ Hit | 4275–4283 |
 | Two-house settlement | ✅ Hit | 4352–4428 |
 | Wren's chosen kinship role | ✅ Hit | 4432–4514 |
 
 **Missed / dropped:**
-- **Animal-house boundary proof — hit, but mentor not named as Stag by house.** The older mentor wears a repaired antler stitched inside his collar (`4069`), which signals Stag affiliation without stating it. Acceptable.
+- **Five Forms boundary proof — hit.** The teacher wears a repaired antler
+  stitched inside his collar (`4069`), marking that he is trusted to teach
+  Stag. Ren is not assigned an animal identity.
+- **House / craft / review boundary — hit.** Nacre is a local house in the
+  Farshore network. Its senior Warp may keep protected testimony. The witness
+  chooses the outside reviewer, and Warp custody grants no authority to certify
+  Nacre's own civic use of the record.
 - **Visible battle / low-intensity conflict — partial hit only.** The beatsheet requires at least one visible battle in which Eli prevents escalation. The bridge confrontation in Chapter 4 (`2672–2707`) satisfies this. Chapter 7 has no new battle, which is fine since the lock is book-level.
 
 **Logic contradictions:**

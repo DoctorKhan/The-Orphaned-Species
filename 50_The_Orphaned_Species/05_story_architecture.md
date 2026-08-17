@@ -44,7 +44,8 @@ Everything else (Apkallu, Igigi, Qingu, seventy sons, Player, ley) stays off the
 
 This sentence is the story's filter. A subplot, historical descent, location, faction, or piece of lore belongs in the novel only if it intensifies at least one part of it.
 
-The emotional motor is **parent rescue** — **Rasel, Book I; Maren, Book II** —
+The emotional motor is **parent pursuit** — **Rasel reached and refused in Book
+I; Maren reached and released in Book II** —
 **LOCKED 2026-07-26.** Everything else follows or is a means: clues, routes,
 witnesses, Sanxingdui, Göbekli, artifacts, and alliances. Eli is not fundamentally
 seeking power; throne, registry, and coordinator authority accrete because he is
@@ -446,7 +447,20 @@ Classic works feel inevitable without being literal. The comparative cipher give
 
 **Four-scale discovery lock — REVISED 2026-08-01; hero/Taoist Turning 2026-07-30:** **Book I / body:** *What enters me does not tell me who I am.* **Book II / family and loss:** *Love does not require innocence, restoration, or endless availability.* **Book III / civilization:** *A system calling me family does not earn the right to spend me* — and while Eli wears the hero's surface, **things are not what they seem** (engine in kinship costume; care that freezes people into use; victory that is only a stretch). **Book IV / continuity:** *What keeps us alive must still permit us to replace it* — and Eli earns the Living Way / Taoist maturity that **violence leads to violence**, so when cornered between pacifism and finishing the enemy he answers provisionally: **perhaps there is a middle way** (defend without becoming the cycle). Engine/exhaust recognition remains Book III; Book IV tests the institutions built in response **and** whether Eli can stop feeding the loop.
 
-**Desire spine — LOCKED 2026-07-26; thematic revision 2026-08-01:** Eli is **fundamentally rescuing his parents** (**Rasel → Book I; Maren → Book II**). He wants a place where he can remain — known beyond classification, loved when he is not useful, expected tomorrow — **with them and after them**. The plot draws him through transformations of that desire: **rescue the family I lost → recover home → prevent all loss → love and protect without demanding that nothing ever be lost.** He is **not seeking power**; power is offered because rescue routes through war, registry, and prophecy. Book I's Sanxingdui reunion matters because recovering Rasel costs other people; Book II's reunion matters because keeping Maren available would continue the very machinery he came to end; Book III's politics matter because the wish to prevent repeated loss can build the engine that spends people. Every major reveal must alter a desire, relationship, route, or cost. Information alone is not a story turn.
+**Desire spine — LOCKED 2026-07-26; thematic revision 2026-08-01:** Eli is
+**fundamentally pursuing his parents** (**Rasel → Book I; Maren → Book II**).
+He wants a place where he can remain — known beyond classification, loved when
+he is not useful, expected tomorrow — **with them and after them**. The plot
+draws him through transformations of that desire: **find the family I lost →
+recover home → prevent all loss → love and protect without demanding that
+nothing ever be lost.** He is **not seeking power**; power is offered because
+the search routes through war, registry, and prophecy. Book I's Sanxingdui
+reunion matters because Eli reaches Rasel and refuses the life Rasel offers.
+Book II's reunion matters because keeping Maren available would continue the
+machinery he came to end. Book III's politics matter because the wish to
+prevent repeated loss can build the engine that spends people. Every major
+reveal must alter a desire, relationship, route, or cost. Information alone is
+not a story turn.
 
 Book III then locks the following sequence:
 
@@ -547,7 +561,7 @@ The series still performs a maturation, but these are cumulative pressures rathe
 
 This is also the publishing boundary. The novel gives readers **experience and proof through consequence**. The companion material gives them explicit exercises, comparative theology, and a repeatable path. If a Living Way passage does not create a choice, cost, relationship change, or embodied practice in the scene, it belongs in the companion layer rather than the novel.
 
-### SUPERSEDED SCENE QUARRY — former Volume I allocation
+### STAGED SOURCE — former Volume I allocation
 
 **Dramatic question:** Can Eli remain himself long enough to decide whom to trust?
 
@@ -603,7 +617,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Resolution:** community knowledge, not Eli's power, preserves enough to point toward the next corridor. He continues voluntarily. He still has no final destination.
 
-### SUPERSEDED SCENE QUARRY — former Volume II allocation
+### STAGED SOURCE — former Volume II allocation
 
 **Dramatic question:** Can Eli pursue truth without turning people into instruments of his search?
 
@@ -645,7 +659,7 @@ This is also the publishing boundary. The novel gives readers **experience and p
 
 **Resolution:** Derw fragments + Maren's field notebook linguistics + living network point into Europe. The word “Albion” still need not be confirmed.
 
-### SUPERSEDED SCENE QUARRY — former Volume III allocation
+### STAGED SOURCE — former Volume III allocation
 
 **Dramatic question:** Can Eli free his mother and oppose Lang without becoming the next owner of the system?
 

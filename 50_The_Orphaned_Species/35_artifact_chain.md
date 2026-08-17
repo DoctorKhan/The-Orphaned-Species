@@ -75,7 +75,8 @@ Artifacts operate on three levels:
 - **The Laurel Cube:** the Free Ports cube at Delphi (Kastri underneath). A
   separate site from Singapore's Cherry Cube — one of three, never a chamber
   under the Book I mall. Eli reaches it in Book II on the Göbekli-to-Thrace
-  road by winning the **Delphic Games** (water, staves, pattern-lock). The
+  road after losing the **Laurel race** to pull Iason from a sinking boat. Iason
+  spends his sole guild appeal to attest Eli and Wren onward. The
   night at the mountain is the prize. A keeper room transmits a bounded
   practice and a warning about the Albion ground. Station, not throne. Do
   not explain the fragment. `59`; `95` § *The Three Cubes*.

@@ -561,39 +561,48 @@ under attack. Many men regard Eli as founder, brother, and the first ruler who
 treated them as citizens rather than expendable bodies.
 
 The cloisters divide among **political** factions (below). Separately, they
-maintain **animal houses** (Stag; folk Deer; Fox, Bear, Salmon, Ox — `40` §
-*Cloister animal houses*) as maturation-and-mentorship lineages. The animal
-houses hold no corporate vote, endorse no candidate, assign no labor or defense
-role, and take no collective position in these disputes. Individual mentors and
-graduates may disagree politically, but they cannot invoke Stag, Fox, Bear,
-Salmon, or Ox authority outside teaching and rites. Book IV pressure comes when
-officials seek developmental records for risk classification and ambitious
-elders try to convert influence over younger members into a political following.
-The constitutional answer protects mentorship while denying the houses civic
-jurisdiction.
+teach the **Five Forms**: Stag, Fox, Bear, Salmon, and Ox (`40` § *The Five
+Forms*). Every learner practices all five. The forms hold no vote, endorse no
+candidate, and assign no labor or defense role. Book IV pressure comes when
+officials seek training records for risk classification and ambitious teachers
+try to turn access to younger learners into political support. The settlement
+keeps form records out of civic judgment and gives learners an appeal outside
+the teacher relationship.
 
-**Mentorship and rites on-page — LOCKED 2026-08-01:** older house members train
-younger ones through ordinary work, stories, bodily practice, correction, and
-rites that recognize development already lived. A rite ends by increasing the
-new adult's responsibility for someone younger; it never licenses command over
-outsiders. During the Chapter 7 games dispute, a young Stag learner accepts a
-recruiting cord while looking to his mentor as though public militancy might
-count as his turning rite. The older Stag does not command him to return it. He
-refuses to certify borrowed anger as maturation and makes him name what he is
-turning toward, the role, the exit, and who may correct him. One learner may
-still choose the cord. Mentorship produces an adult capable of disagreement,
-not a dependent or obedient copy.
+**Mentorship and practice on-page — LOCKED 2026-08-16:** teachers use ordinary
+work, bodily rehearsal, stories, and correction. During the Chapter 7 games
+dispute, Ren accepts a recruiting cord while looking to the man teaching him
+Stag. The teacher does not order him to return it. He asks what Ren is turning
+toward, what role he would take, how it ends, and who may correct him. Ren gives
+the cord back and helps clear space around an injured child. The teacher does
+not count that choice as completion of the form.
 
-**Eli's Stag line — LOCKED 2026-08-01:** the Book I broken-antler dream stirs
-when the animal lineages reappear in Book III, but Eli still cannot interpret
-it. In Book IV an older Stag listens to the dream without treating it as an
-assignment or revelation. He recognizes the developmental question—when flight
-preserves life, when it becomes avoidance, when defense is necessary, and when
-force must stop—and offers mentorship. Eli chooses the lineage as a learner.
-His public acts do not automatically count as rites, and relinquishing office
-does not earn instant graduation. By the coda he has accepted the obligation to
-be taught; his eventual duty to mentor a younger Stag belongs to the future the
-ending leaves open.
+**Eli's Stag practice — LOCKED 2026-08-16:** the Book I broken-antler dream
+stirs when the Five Forms appear in Book III. Eli still cannot interpret it. In
+Book IV a Stag teacher hears the dream and offers exercises fitted to the
+question Eli already carries: when flight preserves life, when it becomes
+avoidance, when defense is necessary, and when force must stop. Eli begins with
+Stag and must train the other four forms as well. His public acts grant no
+credit by themselves. By the coda he has agreed to be taught. Teaching someone
+else remains future work.
+
+**Craft / cloister / form interface — LOCKED 2026-08-16:** no institution
+carries a whole case. Weaver crafts govern their work inside cloister spaces.
+Cloister teachers govern exercises inside Weaver spaces. The host institution
+keeps the room safe. The person affected retains an outside appeal.
+
+| Book IV pressure | Work authority | Training authority | Review |
+|---|---|---|---|
+| Ren takes the recruiting cord | Defense command defines the proposed role | His Stag teacher makes him name role, exit, and correction | Cloister council hears recruitment complaints |
+| A learner is injured during a form | Clinic or Dyer treats and records the body | Form teacher stops the exercise | Reviewer outside the teacher relationship |
+| Nacre holds a living attestation | Warp protects the testimony; Weft protects any movement | Fox practice grants no access to the file | Reviewer chosen by the represented person; compact court for civic use |
+| A placement joins a house or cloister | Knotter arranges the introduction | Bear or Ox practice may expose a boundary or burden | Consent by the people placed; appeal outside the Knotter |
+
+House Nacre is a local Weaver house in the Farshore network and serves the Heather/Denver corridor. Its large
+Warp bench grew during Union containment, when witnesses needed records that
+could survive raids without becoming registry entries. Nacre also has Weft,
+Knotter, and Dyer members. Its Book IV error is an authority claim: custody of
+testimony becomes a demand to control review and civic certification.
 
 Political factions:
 
@@ -608,7 +617,7 @@ Political factions:
 - **dissolve-the-cloister** voices (scarcity-era): push men into marriage,
   household absorption, or personal service to the court — opposed by
   constitutional chapters who refuse Extra→prize as the only arc;
-- **classify-and-monitor** voices (a separate, earlier controversy, still live in Book IV): Lang-aligned and Union-aligned officials who want the cloisters registered and surveilled not because men are scarce but because organized men *at all* are alarming in a world whose only precedent for male organization at scale is spending institutions — armies, crews, gangs, corps (`29` § the missing male order; founding controversy: `33` Ch 9). This argument predates and is distinct from the scarcity-era dissolve push; it never fully goes away even after the cloisters prove themselves, because distrust of a category doesn't retire on a track record alone. Lang-aligned officials attempt to convert confidential mentorship histories into risk scores—treating Stag study as instability or Salmon study as unreliability. That misuse is explicitly false to the houses' purpose.
+- **classify-and-monitor** voices (a separate, earlier controversy, still live in Book IV): Lang-aligned and Union-aligned officials who want the cloisters registered and surveilled not because men are scarce but because organized men *at all* are alarming in a world whose only precedent for male organization at scale is spending institutions — armies, crews, gangs, corps (`29` § the missing male order; founding controversy: `33` Ch 9). This argument predates and is distinct from the scarcity-era dissolve push; it never fully goes away even after the cloisters prove themselves, because distrust of a category doesn't retire on a track record alone. Lang-aligned officials attempt to convert confidential training histories into risk scores—treating time spent on Stag as instability or Salmon as unreliability. Every learner practices both. The inference is false.
 
 Their Book IV test is whether a men's keeping-order can resist becoming a
 praetorian guard, spending-machine, mating/acceptability authority, **or a cartel
@@ -1149,11 +1158,11 @@ labels alone.
   and measurement, not by a rival psion — the messiah-adjacent half of the
   same mechanism that catches Henley's forecast in Chapter 1 (§ *Two Trees /
   dual-verification*).
-- **Animal-house boundary proof:** an older Stag mentors a younger learner
-  through the recruitment pressure without treating house seniority as civic
-  command. He distinguishes the Stag turning rite from anger, spectacle, and
-  military enlistment. The learner retains the right to choose and the mentor
-  retains responsibility to make the choice conscious.
+- **Five Forms boundary proof:** a Stag teacher takes Ren through the
+  recruitment pressure without claiming civic command. He separates the
+  exercise from anger, spectacle, and military enlistment. Ren keeps the right
+  to choose. The teacher must make him examine the choice before treating it as
+  practice.
 - **Court engine:** constitutional cloisters demand formal standing; a
   praetorian faction pledges personal loyalty to Eli and the unborn child;
   Weaver houses split over registry-like living attestation and protective
