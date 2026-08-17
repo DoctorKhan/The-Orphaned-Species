@@ -346,8 +346,8 @@ ask again at the gate." She lets him read it before she adds, still without
 looking up, "If the Circuit boxes you, there is a hold under the Cube that
 rides the same trucks. Do not go looking for it. The other lane goes through
 full clearance. If your file flags, they don't send you back to the boat.
-They freeze your corridor credential and clinic intake, and the hold that
-takes you is not the hold that releases you back to the water."
+Your corridor credential freezes. Your clinic intake goes dark. They send you
+to a room where nobody asks which band you came with."
 
 She does not explain.
 
@@ -704,7 +704,7 @@ The number ends. The boy walks him off in the transition, still holding the wris
 
 The shutter stays open. "She sat with me under a stairwell once. Four hours. I was fourteen and the noise came and everyone else went to get someone, and she just—stayed. She taught me the fingers and the breath. She never wrote any of it down. She said records are for people you don't intend to come back to." A muscle moves in his jaw. "Then she came back. Every time, until she didn't."
 
-"You're not on this list," the security chief says, catching up, tablet already lit. "Holt. Facilities. Marshalling, west yards, not—" He gestures at the stage they just left, then frowns at the screen. "And a flag from below. Two songs left." He reads the screen once more, and his face closes. "That flag has already frozen your corridor credential and clinic intake. You don't go back to the water after this set. You go to a review desk that does not release people."
+"You're not on this list," the security chief says, catching up, tablet already lit. "Holt. Facilities. Marshalling, west yards, not—" He gestures at the stage they just left, then frowns at the screen. "And a flag from below. Two songs left." He reads the screen once more, and his face closes. "That flag has already frozen your corridor credential and clinic intake. You don't go back to the water after this set. They move flagged workers to a review desk that doesn't release people."
 
 "I can't come," the boy says, and it is arithmetic—the dancers, the crew, the chanting town. "But my show leaks. Wardrobe to afterparty load-in, then the freight ramps. Someone has already been moving bodies through it **today**." One corner of his mouth. "You have her face. Try to keep it."
 
