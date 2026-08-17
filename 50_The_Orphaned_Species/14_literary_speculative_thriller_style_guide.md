@@ -445,7 +445,7 @@ Do not choose paragraph length by instinct. Choose it by asking what the reader�
 - Use fragments sparingly, when perception or impact genuinely fractures.
 - Prefer strong nouns and verbs to adjective clusters.
 - Keep most paragraphs centered on one movement of attention or action.
-- Use em dashes deliberately; do not make every qualification an interruption.
+- Use em dashes deliberately; do not make every qualification an interruption. Dickinson used em-dashes as syntactic rupture—hesitation, interruption, or qualification that fractures the sentence in a meaning-bearing way. AI-generated prose uses them as decorative pause markers. The test: if you replace every em-dash with a comma or period and the sentence keeps its meaning, the em-dash was padding.
 - Reserve italics for direct thought, remembered language, foreign terms when needed, or rare emphasis.
 - Avoid repeated rhetorical templates, especially tricolons, oppositional aphorisms, and “not X but Y.” Their force declines quickly.
 - **Dickinson model: compression over qualification.** When a character is avoiding the truth, let the prose avoid it too. A dash, a fragment, a withheld word can be more accurate than a well-formed sentence that resolves the tension too early.
