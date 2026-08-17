@@ -51,14 +51,14 @@
   - ABSTRACT-DENSE (21 abstract terms, 95 body terms)
 
 ### ## Chapter Five—The Names They Carry
-- **Word count:** 3583
-- **Sentence count:** 432
+- **Word count:** 3800
+- **Sentence count:** 458
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (5 hits)
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (12 hits)
-  - ABSTRACT-DENSE (25 abstract terms, 78 body terms)
+  - ABSTRACT-DENSE (26 abstract terms, 84 body terms)
 
 ### ## Chapter Six—The Compact
 - **Word count:** 3707
@@ -85,11 +85,11 @@
   - TELL-NOT-SHOW (5 hits)
 
 ### ## Chapter Nine—The Packet
-- **Word count:** 3346
-- **Sentence count:** 439
+- **Word count:** 3499
+- **Sentence count:** 456
 - **Flags:**
   - TELL-NOT-SHOW (1 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 80 body terms)
+  - ABSTRACT-DENSE (22 abstract terms, 86 body terms)
 
 ### ## Chapter Ten—The Handover
 - **Word count:** 1997

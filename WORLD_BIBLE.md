@@ -328,7 +328,21 @@ the narrative does not preserve uncertainty for appearance's sake. The finding
 cannot quote the Player, prove consent to harm, grant moral rank, or decide
 policy. Competent people may agree on the result and dispute its attribution,
 scope, use, and consequences. Readers judge those claims and actions without
-being asked to reject the demonstrated ontology. Governing detail:
+needing the author to tell them who is right.
+
+**Science must have dramatic consequences — LOCKED 2026-08-16:** psionic science
+is not an author-side assurance. Every test, record, audit trail, and published
+claim must cost a particular person something visible. A null result must close a
+clinic, ruin an authority, free a suspect, or force Eli to abandon a theory. A
+fraudulent practitioner must be exposed in a way that costs followers, patients,
+or a sponsor something real. A contaminated experiment must produce mistaken
+attribution that forces a perimeter revision, and that revision must change what a
+named person is allowed to do, where they can go, or what they can claim. Failed
+predictions must land on the person who made them — loss of standing, access, or
+mandate — not merely on a dashboard. If a scientific advance changes the world,
+the first scene after the result must show that change in someone's hands, not in
+a thesis. This rule applies to every novel in the series, not only Books III and
+IV.
 `SERIES_STRUCTURE.md`; `17` §9a; `40`.
 
 **Hunt attribution — dual-true + Mandate costume (LOCKED 2026-07-26):**
@@ -429,7 +443,8 @@ Hidden, pre-Turning, cross all three blocs. These are the societies the user mea
 - **Metrology Temples lineage** — ancient charged-ground measurement commons; exergy destruction, Kolmogorov complexity, reciprocal measurement. Later co-opted by all three blocs. The teahouse network runs closer to the original form; the Mandate co-opted most fully; the Union turned it into quarantine/exclusion.
 - **The Weavers' Net** — women’s distributed order, four crafts (Warp/Weft/Knotter/Dyer), threshold houses, green cord, ply, no HQ, no army. Survived the collapse because keeping was organized. Wren’s network is one house of this order.
 - **The Harbor Thread** — men’s mostly-underground corridor network, accepted but not spoken. Sorts men into front posts. Each man holds one segment; help costs exposure. Not an order — not the missing male order.
-- **The Charkha** — rival control-and-destruction lineages descended from specialist and ruling houses attached to early spoke-wheeled chariot cultures around **2000 BCE**. Chariot expansion carried some houses across the Old World; service, marriage, adoption, and recruitment made the lineages multiethnic. They persist through small keyed archives, trained successors, charged-site access, and positions inside each era's custody institutions. Houses split, die, steal records, and revive dormant branches. Some medieval cells traveled through stoneworking and cathedral workshops; a coded minority of foliate heads marks living routes or tested practitioners. Charkha agents later exploited witch persecutions without causing or centrally directing them. Modern descendants hold selected senior posts in governments, universities, hospitals, intelligence services, foundations, and defense research. They route promising candidates from legitimate research or care into controlled national psion programs. Modern Freemasonry remains separate. Present face: Charkha Measure, pair-severance, dependency transfer, platform contractors, foundations. **Origin, continuity, and modern pipeline LOCKED 2026-08-16.**
+- **The Charkha** — rival control-and-destruction lineages descended from specialist and ruling houses attached to early spoke-wheeled chariot cultures around **2000 BCE**. Chariot expansion carried some houses across the Old World; service, marriage, adoption, and recruitment made the lineages multiethnic. They persist through small keyed archives, trained successors, charged-site access, and positions inside each era's custody institutions. Houses split, die, steal records, and revive dormant branches. Some medieval cells traveled through stoneworking and cathedral workshops; a coded minority of foliate heads marks living routes or tested practitioners. Charkha agents later exploited witch persecutions without causing or centrally directing them. Modern descendants hold selected senior posts in governments, universities, hospitals, intelligence services, foundations, and defense research. They route promising candidates from legitimate research or care into controlled national psion programs. Control houses also transfer captured psions to opposing factions under medical, military, or prisoner-exchange cover. They retain control through collars and conditioning methods the buyer cannot reproduce. Modern Freemasonry remains separate. Present face: Charkha Measure, pair-severance, dependency transfer, platform contractors, foundations. **Origin, continuity, modern pipeline, and captive brokerage LOCKED 2026-08-16.**
+  - **Ordinary institutional layer — LOCKED 2026-08-16:** most people working in a Charkha-funded clinic, university program, benefits office, or platform contractor are not initiated lineage members. They may provide competent care or useful research. Control enters through grant conditions, shared telemetry, custody clauses, security referrals, and the threat of closing a service people need. **Devika Sen**, administrator of the holding-site seizure clinic in Book II and a witness in Book III, accepted Charkha support because it kept medication and trained staff available. She opposes evidentiary holds that interrupt care and still has to account for signing the data-sharing agreement that made those holds possible.
 - **Maren's field notebook / Word-Web** — Maren’s bounded comparative field journal, witness-unlocked. Not an artifact; an interpretive matrix.
 - **Apkallu interpreter line** — Göbekli-era interpreters (snake/teahouse side), transmission without ownership. The Igigi / non-interpreter / registry side became institutional.
 - **Teahouse pilgrimage** — mature post-Book III form; polycentric scientific and contemplative commons at charged grounds, witness sites, ruins, gardens, ports.

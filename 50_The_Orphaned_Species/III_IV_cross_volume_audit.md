@@ -24,7 +24,7 @@ Both manuscripts are internally consistent with their own current architecture d
 | Beat | Manuscript location | Status |
 |---|---|---|
 | Seven-month successful stretch, then first failure | Ch 1 opening | Present |
-| Lean Year eruption + cross-network seizure | Ch 1–2 pressure | Present |
+| The Hollow Year eruption + cross-network seizure | Ch 1–2 pressure | Present |
 | Costa Rica evacuation hinge (Nosara–Sámara, Tenorio–Miravalles) | Ch 5 — place names drafted (line ~2679) | **Present — resolved since prior audit** |
 | Continuity clause invoked by institutions | Ch 2–9 (Henley credentials, extension request, final motion) | Present |
 | Rowan/Eli love → post-handover consummation → family decision → conception | Book III acknowledgement; Book IV Ch 2 sex; Ch 4 family decision; Ch 6 pregnancy | Present |

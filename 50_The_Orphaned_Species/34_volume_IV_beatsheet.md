@@ -6,7 +6,7 @@
 
 > **GLOBAL COORDINATION PLOT — LOCKED 2026-08-02:** Book IV is not a project to
 > unify the world under Eli or to make succession the primary adventure. The
-> Lean Year is a practical survival crisis: a fictional North Pacific caldera
+> The Hollow Year is a practical survival crisis: a fictional North Pacific caldera
 > eruption perturbs weather, harvests, shipping, medicine, fuel, and
 > communications. Competing forecasts, export holds, hidden reserves, route
 > seizures, and damaged trust jam the links between otherwise functioning local
@@ -23,7 +23,7 @@
 >
 > **SECOND MANDATE / WASHINGTON RHYME — LOCKED 2026-08-02:** Book IV's
 > institutions, not Eli, deliberately ask him back after the first handover
-> proves real but the Lean Year reveals that the interregional layer was
+> proves real but the Hollow Year reveals that the interregional layer was
 > never actually secured beyond that one room. This is a
 > second, narrower provisional civil-political mandate for cross-route
 > survival—not a restoration of presidency, monarchy, or permanent emergency
@@ -68,7 +68,7 @@
 > banter, or ordinary care — not a moral argument or governance lecture. Book
 > IV must also schedule **one full no-clock scene per volume**: a chapter or
 > scene where neither Clock A nor Clock B advances and the chase/crisis does
-> not intrude. End the beat without interruption; the Lean Year resumes after,
+> not intrude. End the beat without interruption; the Hollow Year resumes after,
 > not during. Candidate: a post-match meal or household evening early in the
 > working stretch, before the second crisis tightens. This is the reader’s
 > breathing room, not a beat among beats (`55` § *Cast chemistry*; `32`/`33`
@@ -153,13 +153,13 @@
 - **Attachment:** ports, farms, clinics, Weaver routes, cloister companies,
   Rowan/Wren household.
 - **Choice → Cost:** the stretch is genuine. Nothing requires Eli's return.
-- **Revelation:** the Lean Year begins as incompatible forecasts, not as an
+- **Revelation:** the Hollow Year begins as incompatible forecasts, not as an
   omniscient disaster summary. First harvest losses are serious but survivable.
   What breaks the convenient hub is convergent capture, not a single attack.
 - **Book III → IV Turning — REVISED 2026-08-09:** summary of the real,
   completed handover in Eli's own hall — he steps down as a private citizen —
   while the wider interregional layer (Continuity keys, factional mandate,
-  private force outside that room) stays untested; then the Lean Year begins
+  private force outside that room) stays untested; then the Hollow Year begins
   and reveals how much of it was never actually secured.
 
 ---
@@ -410,7 +410,7 @@
 - **Revelation:** the network can continue without him. The court functions
   without him. The compact holds without his signature.
 - **End hook:** the child is born. The court is functional. Eli is a private
-  citizen. The Lean Year continues, but the interregional layer no longer
+  citizen. The Hollow Year continues, but the interregional layer no longer
   requires his presence.
 
 ---

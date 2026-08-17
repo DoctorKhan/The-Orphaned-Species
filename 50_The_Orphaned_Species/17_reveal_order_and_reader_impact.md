@@ -107,7 +107,7 @@ centuries, false pedigrees, rival readings, and dead branches remain visible.
 
 **Hunt attribution ladder — LOCKED 2026-07-26 (dual-true + costume):** Book I keeps the apex **unnamed**. Eli sees Mandate/father — **Rasel's son / loose ends**. **Charkha wears Mandate's face** for the Eli/mother hunt (Custodian biosecurity cover, Stack-adjacent paper). Late Book I: costume seams (*other chain*, *somebody else's leash*, wrong-badge) without naming Charkha. **Book II names Charkha** — knife: **wore the Mandate's face; got Maren; you've been running their map**; Rasel remains Mandate. Pair-severance naming stays Book II midpoint.
 
-**Hidden-war knowledge lock — 2026-08-02:** Eli and ordinary civilians do not know that psions exist as a strategic population or that Union, Mandate, Coalition, and Charkha-linked forces have fought a covert psion war for years. Public incidents are explained as biosecurity, neurological illness, terrorism, infrastructure failure, or conventional military action. Eli discovers the existence of the war, the rival state programs, and the Charkha control/destroy split as separate shocks; do not give him the vocabulary early. The Charkhas operate inside and between governments, especially through Coalition gray space, but no single Charkha commands the blocs.
+**Hidden-war knowledge lock — 2026-08-02; captive-broker reveal locked 2026-08-16:** Eli and ordinary civilians do not know that psions exist as a strategic population or that Union, Mandate, Coalition, and Charkha-linked forces have fought a covert psion war for years. Public incidents are explained as biosecurity, neurological illness, terrorism, infrastructure failure, or conventional military action. Eli discovers the war first. Rival state programs and the Charkha control/destroy split follow as separate shocks. Late Book II, matched transfer records show that Charkha control houses supply captured psions to opposing programs. Do not give Eli this vocabulary early. The Charkhas operate inside and between governments, especially through Coalition gray space, but no single Charkha commands the blocs.
 
 ### What those comps actually are
 
@@ -195,7 +195,7 @@ Every volume ends **climax + hunger**: irreversible satisfaction *and* a forward
 | **III** | Continental Union defensive capacity reunified for the Mandate war (wartime coordination, not the wider interregional compact); war window survived; crown bound; handover **succeeds** under live threat in Eli's own hall | Eli free and unhomed (Loop); Continuity clause dormant; material debts remain |
 | **IV** | Child born without title; final relinquishment mid-labor | Series close = ordinary life possible — not another volume cliff |
 
-**Book III hollowness rule:** Loop names **private** incompletion after real civic relief. Book IV’s Lean Year tests a victory worth defending — it does **not** retroactively declare Book III a fraud.
+**Book III hollowness rule:** Loop names **private** incompletion after real civic relief. Book IV’s The Hollow Year tests a victory worth defending — it does **not** retroactively declare Book III a fraud.
 
 ### Climax staging — epic enough — LOCKED 2026-08-01
 
@@ -206,7 +206,7 @@ Every volume ends **climax + hunger**: irreversible satisfaction *and* a forward
 | **I** | Distributed Tree route; Rasel **refused**; Wren pays | Complete-meal Ch 11–13: chase clocks, landmark wonder, irreversible costs (`58`, `55` #5) |
 | **II** | Release over keeping / using Maren’s signal | **Failed keep-her / use-her-signal assault** concurrent with the cut — cost is safety, not only grief (`32` Ch 10) |
 | **III** | Handover succeeds; private citizen | War/forced-sync pressure in **Ch 8**, including a **conductor damaged**; Ch 9–10 hearing/handover **on live Heather ground**; field-sail **moves in a witnessed room** before the paper; **Loop hunger** after civic win; birds/hose = **Book IV coda** (`33`, `55`) |
-| **IV** | Transfer before first breath; child no title | **Simultaneity:** labor + heir motion + vote + institution fracture in the **same hours**, with a **birth-field** in the room; Lean Year eruption gets a wonder stretch before the forecast fight (`60` §7; `22`) |
+| **IV** | Transfer before first breath; child no title | **Simultaneity:** labor + heir motion + vote + institution fracture in the **same hours**, with a **birth-field** in the room; The Hollow Year eruption gets a wonder stretch before the forecast fight (`60` §7; `22`) |
 
 Do not amp III into a fake throne war. Amp concurrent pressure. Do not split IV’s birth climax across chapters of debate.
 

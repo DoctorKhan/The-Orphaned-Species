@@ -22,7 +22,7 @@
 > that wider gap only surfaces once Book IV arrives. Book IV opens on
 > discovering how much of that wider compact was never actually there: a
 > world in which the interregional layer looked whole and wasn't. The
-> **Lean Year** tests whether the same practices that held in one room can be
+> **The Hollow Year** tests whether the same practices that held in one room can be
 > **built out**, for real, at the scale the war never reached: a large
 > fictional North Pacific caldera eruption after northern spring planting
 > perturbs weather and transport without becoming a Yellowstone-scale
@@ -45,7 +45,7 @@ if the title changes.
 > **GLOBAL COORDINATION PLOT — REVISED 2026-08-09:** Book IV is the discovery
 > and build-out, at true interregional scale, of a decentralized compact that
 > looked whole at the end of Book III but was never actually intact past the
-> room that watched Eli's relinquishment. The Lean Year is a practical survival crisis: the eruption disrupts
+> room that watched Eli's relinquishment. The Hollow Year is a practical survival crisis: the eruption disrupts
 > weather, harvests, shipping, medicine, fuel, and communications;
 > competing forecasts, export holds, hidden reserves, route seizures, and
 > damaged trust jam the links between otherwise functioning local societies.
@@ -64,7 +64,7 @@ if the title changes.
 > Eli and the Weavers built proved real and complete only in the room that
 > watched it happen in Book III; outside that room it was never actually
 > secured. Book IV's institutions, not Eli, deliberately ask him back once
-> that wider gap surfaces and the Lean Year seizes the interregional layer.
+> that wider gap surfaces and the Hollow Year seizes the interregional layer.
 > This is a second, narrower provisional civil-political mandate for
 > cross-route survival — not a restoration of presidency, monarchy, or
 > permanent emergency rule. The first mandate proved the compact could work
@@ -74,7 +74,7 @@ if the title changes.
 >
 > **DUAL-CLOCK MAP — LOCKED 2026-08-13:** every chapter advances or visibly
 > threatens **both** clocks. Clock A keeps the rebuilt interregional network
-> functional through the Lean Year and prevents Continuity / Sol capture from
+> functional through the Hollow Year and prevents Continuity / Sol capture from
 > seizing it. Clock B is Rowan's pregnancy and birth as a bodily deadline,
 > plus Eli's temptation to become the permanent answer to emergency. Clock A
 > bills through route seizures, hoarded reserves, broken credentials, convoy
@@ -83,7 +83,7 @@ if the title changes.
 > pregnancy as succession, Eli's own drift toward emergency permanence, and
 > the birth window itself. One may dominate the scene; the other must still
 > move, threaten, or bill. Hard test: if Eli could ignore Clock B for three
-> chapters and only fight scarcity, the draft is failing. If the Lean Year
+> chapters and only fight scarcity, the draft is failing. If the Hollow Year
 > never forces a trade against Rowan's birth window, Clock B is décor.
 
 > **LEAN YEAR VIOLENCE / ACTION BALANCE LOCK — 2026-08-02:** Book IV is not a
@@ -96,6 +96,21 @@ if the title changes.
 > struggle to keep emergency violence from becoming permanent.
 
 > **AGENCY PACING — LOCKED 2026-08-15:** one loss, one return (`68` § *Pacing*). **Take away:** heir-fear / remaining indispensable. **Return:** middle way + relinquishment during birth. *Perhaps there is a middle way* once, after conduct, not as a creed. Cherry journey = song vocabulary, not a new religion. Do not restage Book III's force-sync exam.
+>
+> **SCIENCE MUST HAVE DRAMATIC CONSEQUENCES — LOCKED 2026-08-16:** psionic science
+> in Book IV is not an author-side assurance. Every test, record, audit trail, and
+> published claim must cost a particular person something visible. A null result
+> must close a clinic, ruin an authority, free a suspect, or force Eli to abandon
+> a theory. A fraudulent practitioner must be exposed in a way that costs followers,
+> patients, or a sponsor something real. A contaminated experiment must produce
+> mistaken attribution that forces a perimeter revision, and that revision must
+> change what a named person is allowed to do, where they can go, or what they can
+> claim. Failed predictions must land on the person who made them — loss of standing,
+> access, or mandate — not merely on a dashboard. Rasel's posthumous data, the
+> keeper's direct read, the rival forecast, the Deiwos claim, and any clinic or
+> court-ordered test must all obey this rule. If a scientific advance changes the
+> world, the first scene after the result must show that change in someone's hands,
+> not in a thesis.
 >
 > **VIOLENCE CYCLE / TAOIST MATURITY — LOCKED 2026-07-30; middle way 2026-07-30:** Book III made Eli
 > the hero and showed that **things under heroism are not what they seem**. Book
@@ -222,28 +237,34 @@ if the title changes.
 > can be checked against the other kind of knowing. Costa Rica's growers
 > already run this pairing at field scale ("every perception must be
 > checked by growers, hydrology, soil measures," `WORLD_BIBLE.md` §
-> *Costa Rican grown corridor*); the Lean Year has to prove it holds at
+> *Costa Rican grown corridor*); the Hollow Year has to prove it holds at
 > compact scale too. **Book IV does not found this as a new institution.**
 > The Metrology Temples (`WORLD_BIBLE.md` § *Metrology Temples*) already
 > ran science and keeper tradition as one reciprocal lineage before the
-> blocs split and captured each half separately. The Lean Year proves the
+> blocs split and captured each half separately. The Hollow Year proves the
 > split can be crossed back under pressure, without a center forcing it.
 > Book IX's neo-śramaṇa/teahouse institutions formalize what this volume
 > shows can hold (`62_lifetime_orchestra.md` § *Book IX*).
 >
 > **On-page mechanism — LOCKED 2026-08-13:** Dramatize this as two matched
-> failures, using material already live in the Lean Year. A **rival
-> forecast** (§ 9 *Chapter 1 — The Doors*, Lean Year inquiry) is exposed as
+> failures, using material already live in the Hollow Year. A **rival
+> forecast** (§ 9 *Chapter 1 — The Doors*, The Hollow Year inquiry) is exposed as
 > gamed — a continuity-linked office cites a shortage projection built on a
 > hidden reserve — when a keeper or carrier's direct read of what the
 > reserve actually holds is checked and corroborated before anyone acts on
-> it, and stands where the office's own numbers don't. Separately, a
+> it, and stands where the office's own numbers don't. The office that built
+> the gamed forecast loses its route-access credential and is suspended from
+> allocation decisions until an independent team reconstructs its audit trail.
+> Separately, a
 > **Deiwos/messiah claim** (`29_tetralogy_plot_and_development.md` § *The
 > Deiwos recognition*; `56_future_conflicts_atlas.md` § *Messiah/Deiwos*)
 > escalates under scarcity — someone reads a psion's warning as license to
 > bypass review or anoint a hoarder's claim as sanctioned — and measurement
 > and audit expose the gap between what was perceived and what got claimed
-> in its name. Neither catch is clean: the captured office isn't fully
+> in its name. The claimant is stripped of the review seat they occupied and
+> the carrier whose warning was used is withdrawn from public access until a
+> mixed team can show whether the misattribution was fraud, contamination, or
+> honest mistake. Neither catch is clean: the captured office isn't fully
 > exposed, the cell still half-believes the sign was real. Each claim,
 > gamed alone, still gets caught before it stands — the difference between
 > local trust holding and interregional trust seizing.
@@ -403,7 +424,7 @@ negotiated reciprocal obligations rather than a destiny to rescue the North.
 
 **Heather Cube, on-page — LOCKED 2026-08-06; GROUND LIVE 2026-08-16; CITY LOCKED 2026-08-16:** the court sits in **Denver**. Heather Cube is a denied installation on the first rise of the Front Range west of the city — a pale fence, a spring, a road the permit office files as something else. Street speech keeps **Denver**. Union paper may use Continuity site language. Do not invent a throne-name. The public still has no name for the Cube (`95` § *The Three Cubes*; `59` § *Heather Cube access*). Washington and San Francisco remain ruins the story does not visit. Continuity was already in these mountains; the civilian grid thickened around the denial. Do not tour Denver as a restored capital.
 
-The ground still behaves: a spring at the old cube fence that does not fail in the Lean Year, Courage-field vertigo the pilgrims came for. Suppression of devotion is permits, checkpoints, a crackdown or dispersal the court has to answer or decline (`95` § *Sacred devotion*). Eli's relationship stays oblique — he is not there to resolve the Cube, only to register that the state he is provisionally governing treats a living ground and its people as a threat.
+The ground still behaves: a spring at the old cube fence that does not fail in the Hollow Year, Courage-field vertigo the pilgrims came for. Suppression of devotion is permits, checkpoints, a crackdown or dispersal the court has to answer or decline (`95` § *Sacred devotion*). Eli's relationship stays oblique — he is not there to resolve the Cube, only to register that the state he is provisionally governing treats a living ground and its people as a threat.
 
 **Colorado teahouse stays a different settlement — LOCKED 2026-08-16.** Book III's Colorado mountain teahouse (`33` Ch 10) is a Living Way node built through negotiated land and water, not a Union suburb and not the foothill fence. Same range. Different town. Do not collapse the two into one town.
 
@@ -586,6 +607,14 @@ toward, what role he would take, how it ends, and who may correct him. Ren gives
 the cord back and helps clear space around an injured child. The teacher does
 not count that choice as completion of the form.
 
+The other four forms receive ordinary-life proof rather than a demonstration
+sequence. Del stays with the consequence of a routing error under Fox practice.
+The east-residence guard returns through Bear after protection became a locked
+door. A West Slope singer breaks with her own stand under Salmon practice and
+returns after restoring the shared answer. The harvest crew shares and sets
+down its tool load under Ox practice. Teachers may witness these acts. They do
+not turn them into badges, placements, or political endorsements.
+
 **Eli's Stag practice — LOCKED 2026-08-16:** the Book I broken-antler dream
 stirs when the Five Forms appear in Book III. Eli still cannot interpret it. In
 Book IV a Stag teacher hears the dream and offers exercises fitted to the
@@ -607,11 +636,35 @@ keeps the room safe. The person affected retains an outside appeal.
 | Nacre holds a living attestation | Warp protects the testimony; Weft protects any movement | Fox practice grants no access to the file | Reviewer chosen by the represented person; compact court for civic use |
 | A placement joins a house or cloister | Knotter arranges the introduction | Bear or Ox practice may expose a boundary or burden | Consent by the people placed; appeal outside the Knotter |
 
-House Nacre is a local Weaver house in the Farshore network and serves the Heather/Denver corridor. Its large
-Warp bench grew during Union containment, when witnesses needed records that
-could survive raids without becoming registry entries. Nacre also has Weft,
-Knotter, and Dyer members. Its Book IV error is an authority claim: custody of
-testimony becomes a demand to control review and civic certification.
+House Nacre is a local Weaver house in the Farshore network and serves the
+Heather/Denver corridor from a repaired roadside motel on the freight edge.
+Every room opens onto the courtyard. The layout once let witnesses leave without
+crossing a monitored common hall. Its former ice room now holds testimony copies
+in moisture boxes; the laundry and boiler consume as much house labor as the
+archive. Nacre's large Warp bench grew during Union containment, when witnesses
+needed records that could survive raids without becoming registry entries.
+Nacre also has Weft, Knotter, and Dyer members. Its Book IV error is an authority
+claim: custody of testimony becomes a demand to control review and civic
+certification. Some members object because permanent custody is consuming rooms
+and night watches needed by new arrivals.
+
+House Ilyara is a western-corridor Weaver house in a former ferry hostel above a
+working chandlery. Its tide board still governs meals, arrivals, and room
+turnover. Selin moved from Knotter placement work into Warp custody after the
+Union raids. She embodies Ilyara's best skill and its governing error: waiting
+until an injured witness can choose, then continuing to wait after the witness
+has chosen departure.
+
+Book IV names two local cloisters. **Brace Yard Cloister** occupies a repair
+exchange beside the Denver machine yard. It fits
+prosthetics, keeps service and casualty records, runs grief meals, and elects
+its work council. Malik works there; members can and do vote down his defense
+proposals. **West Approach Cloister** grew from the perimeter company that held
+the settlement's western road. Its bunks, vehicle shed, and weapons lockers make
+continued mobilization feel like ordinary housekeeping. Its members remember
+being abandoned by civilian authorities and support a personal oath to Eli.
+Women helped establish both clinics and remain present in their medical and work
+life. Neither cloister represents all men.
 
 Political factions:
 
@@ -638,7 +691,7 @@ turn citizens into prizes.
 
 Book III founds cloisters as a response to **Extra disposability**: standing,
 grief, repair, and defense for men no household or institution will claim.
-Book III's war creates **scarce-male leverage** (Paraguay rhyme); the Lean Year
+Book III's war creates **scarce-male leverage** (Paraguay rhyme); the Hollow Year
 makes it publicly undeniable and intensifies it as convoy defense, infrastructure
 repair, and long-route service again spend men disproportionately. Surviving men
 become prizes for households, succession plots, consort tracks, and private
@@ -682,14 +735,14 @@ men** as house dependents, deniable Thread labor, or Extras while continuing to
 demand the same functions — an **Extra surplus**, not scarce-prince demography
 (see `33` § male demography / Paraguay rhyme). Women inherited vacancies without
 relief from pregnancy, domestic, sexual, or caregiving burdens. Book III's war
-creates the male-scarcity condition; the Lean Year exposes and deepens it.
+creates the male-scarcity condition; the Hollow Year exposes and deepens it.
 
 Book IV treats this as lived social structure rather than a slogan. Some women
 love the work and defend authority they earned. Some want relief from compulsory
 danger. Some fear the cloisters will use restored male standing to displace
 them. Some cloister chapters mistake dignity for entitlement to “men's work.”
 Some Weaver houses preserve female control by continuing to classify unattached
-men as presumptive threats. As Lean Year losses accumulate, some factions reverse and
+men as presumptive threats. As The Hollow Year losses accumulate, some factions reverse and
 **overvalue** remaining men as demographic assets — the Paraguay poison.
 
 The settlement may not solve this by restoring traditional roles or by declaring
@@ -702,7 +755,7 @@ it does not become an argument about what all women should do.
 
 ## 4. The courtly-intrigue engine
 
-The Lean Year inquiry remains active throughout the court. Competing factions
+The Hollow Year inquiry remains active throughout the court. Competing factions
 independently enabled, exploited, or concealed different failures; the drama
 comes from separating necessity, opportunism, and liability rather than finding
 one mastermind who explains the whole court.
@@ -944,7 +997,7 @@ The child is born without title, office, prophecy, or inherited claim.
   not assign parenthood.
 - **Wren/Eli son — LOCKED 2026-08-06:** Wren carries a latent repair capacity
   (receiver biology, never trained — the same population the outbreak's survivors
-  are drawn from). During the Lean Year's stress and the spreading post-release
+  are drawn from). During the Hollow Year's stress and the spreading post-release
   activation, that capacity turns quietly inward: a body she and the clinics had
   long filed as unable changes without procedure, witness, or explanation anyone
   can certify. The pregnancy is discovered, not pursued — a surprise, late, and
@@ -990,6 +1043,42 @@ birth, and the later ordinary coda. The calendar must be legible through weather
 food, clothes, clinical milestones, construction, and changed work—not chapter
 labels alone.
 
+> **Opponent this week — LOCKED 2026-08-16:** every chapter names a human with a job before Friday. Not "the Charkha." Not "the system."
+
+| Ch | Human | This week's job |
+|---|---|---|
+| 1 | Continuity claim-review officer | Confiscate Wren's intake credentials before the civilian corridor is cleared |
+| 2 | Registry liaison on the westbound desk | Misroute Wren's clearance so no corridor officer can verify her |
+| 3 | Mandate exit clerk at the Singapore holding gate | Divert the civilian list into extraction before Qiao's appeal expires |
+| 4 | Re-classification officer at the Malacca customs desk | Turn civilian travelers into registry assets before the breach becomes public |
+| 5 | Charkha-hired recruiter at the border transit camp | Offer a new identity to any civilian who walks in before the breach closes |
+| 6 | Continuity record officer at the Thailand routing office | Delete Wren's intake manifest before the Thailand corridor opens |
+| 7 | Extra recruiter on the river crossing | Enlist displaced civilians into a labor pool before they reach the land corridor |
+| 8 | Passport officer at the Sichuan border crossing | Flag Eli as a recovered asset and hold the group until Charkha takes custody |
+| 9 | Consortium seal officer at the Sanxingdui gate | Seal the civilian evacuation route so no independent witness reaches the site |
+| 10 | Charkha field officer in the activation zone | Make the reactor activation look like a government action and burn the entry records |
+
+## Book IV opponent this week — LOCKED 2026-08-16
+
+If you cannot name the human and the Friday, the chapter has no antagonist. Not "the court." Not "the bureaucracy." Not "tradition."
+
+| Ch | Human | This week's job |
+|---|---|---|
+| 1 | Continuity claim-review clerk | Use a dormant continuity credential to redirect grain and keep the court dependent on extension |
+| 2 | Sol-aligned depot officer | Occupy a sealed depot and block civilian release until the food shortage justifies martial custody |
+| 3 | Registry spokesperson on the public-comms desk | Turn Rowan's arrival into evidence of consort status and disqualify her from office |
+| 4 | Registry intelligence officer on the forecast board | Rewrite the eruption aftermath so shortage becomes permanent rather than seasonal |
+| 5 | Rumor officer on the appointment-metadata desk | Leak Rowan's pregnancy metadata before she discloses it, making consent retroactively political |
+| 6 | Security liaison on the medical-access list | Move Rowan to a protected Costa Rican site and make removal from court appear neutral |
+| 7 | Cloister recruitment captain at the regional games | Recruit from psionic anger and replace settlement slogans with martial enrollment |
+| 8 | Pro-dynasty assembly-floor scheduler | Fast-track heir recognition so Rowan cannot negotiate the terms of succession |
+| 9 | Continuity extension officer on the transfer brief | File an emergency extension as irreversible before the succession vote closes |
+| 10 | Court praetorian commander | Demand that Eli name a successor personally or the birth room becomes a coup point |
+
+> **Character voice — LOCKED 2026-08-16:** No character sounds as though they have read the project bible. Eli misreads Rowan when she refuses to be used as a succession proof: he hears court strategy; she means a person is not an heirloom. Wren enforces a specific intake rule partly because she remembers being the one left off a manifest and wants Eli to see her keep it—partly selfish, partly right. Somchai has no registry or politics vocabulary; he describes what he understands through bodies—weight, heat, breath, scar, pulse—until Eli supplies the terms.
+
+> **Book IV chapter clock status — LOCKED 2026-08-16:** Clock A = cross-route triage proving itself while federation fails, convergence rather than conspiracy established; evidence-name change to accountability registers cost. Clock B = Rowan's pregnancy and birth as a bodily deadline, plus Eli's temptation to become the permanent answer to emergency. One may dominate the scene; the other must still move, threaten, or bill. Hard test: if Eli could ignore Clock B for three chapters and only fight scarcity, the draft is failing. If the Hollow Year never forces a trade against Rowan's birth window, Clock B is décor.
+
 ### Chapter 1 — The Doors *(Wren)*
 
 - **Immediate want:** reconstitute certification without allowing the Weavers'
@@ -999,7 +1088,7 @@ labels alone.
   access determine which forecast, inventory, and claim reaches Eli first. Union continuity
   officials, Weaver houses, cloister councils, Sol-aligned men, registry
   families, and local hosts all contest the first formal seats.
-- **Lean Year inquiry:** evidence proves convergence rather than conspiracy:
+- **The Hollow Year inquiry:** evidence proves convergence rather than conspiracy:
   Henley's office used a dormant continuity credential to redirect grain; a
   Sol-linked cell occupied a depot; Northstar separately targeted the Sideways
   reference system; a Weaver house prolonged protective concealment; traders
@@ -1100,7 +1189,7 @@ labels alone.
 - **Choice:** Rowan deliberately stops contraception only after medical
   consultation and a private waiting period. Sex remains sex, not a conception
   ritual.
-- **End hook:** the Lean Year inquiry recovers proof that several factions delayed
+- **End hook:** the Hollow Year inquiry recovers proof that several factions delayed
   certification and clear allocation records because Eli's extension benefited them.
 
 ### Chapter 5 — The Rumor *(Asha, then Wren across a hard break)*
@@ -1108,7 +1197,7 @@ labels alone.
 - **Time:** several weeks later.
 - **Immediate want (Asha):** audit the Weavers' court power while recovering
   from injuries sustained during the first allocation evacuation.
-- **Institutional reveal:** a senior Weaver protected witnesses by rerouting
+- **Institutional reveal:** a senior Warp protected witnesses by rerouting
   them, but also delayed Amina Cole's return because her testimony would have
   broken the continuity crisis sooner. Protection and self-entrenchment coexist.
 - **Pregnancy discovery:** Rowan privately confirms pregnancy. She controls who
@@ -1179,7 +1268,7 @@ labels alone.
 - **Choice:** Wren brokers a two-house settlement with cross-membership, audit,
   appeal, civilian control, and no authority over mate-worthiness, pregnancy, or
   inherited office.
-- **Lean Year inquiry payoff:** no single mastermind. A continuity official,
+- **The Hollow Year inquiry payoff:** no single mastermind. A continuity official,
   Sol-linked cell, contractor, self-entrenching Weaver, and route cartel each
   captured a different necessity. Ordinary law assigns conduct and remedy
   without inventing a final villain or pretending necessity erased choice.
@@ -1299,7 +1388,7 @@ labels alone.
 - No court faction is correct that pregnancy creates public ownership, even
   when its stability argument is politically credible.
 - Wren's fear of exclusion is not solved by assigning equal maternity.
-- The Lean Year has multiple contributors and beneficiaries. Do not collapse
+- The Hollow Year has multiple contributors and beneficiaries. Do not collapse
   convergent capture into a single mastermind.
 - Weavers and cloisters each surrender a monopoly in the climax; neither is
   merely defeated by the other.

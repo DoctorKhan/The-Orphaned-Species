@@ -20,7 +20,7 @@
 ||| **Fever Years** | ~2037–39 | Outbreak + lockdown; emergency powers; merged databases |
 ||| **Armed reopening** | ~2039–40 | **Book I opens here** — Malacca, Strait, Pelangi |
 ||| **Awakening War** | Book III Ch 4+ | Registry seizure + Mandate strikes; distinct from WWIII hottest phase |
-||| **Lean Year / rebuild** | Book IV | Interregional compact tested at scale |
+||| **The Hollow Year / rebuild** | Book IV | Interregional compact tested at scale |
 ||| **Compact + ceasefire** | Book III late | Field-sail proof; corridors stand down; proxy fronts remain |
 ||| **Open adventure** | Post-coda | Ship years away; teahouse replication; war in the room, not destiny |
 

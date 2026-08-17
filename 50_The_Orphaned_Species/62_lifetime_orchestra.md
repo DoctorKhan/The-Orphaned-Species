@@ -117,13 +117,13 @@ and the Gnostic misreading live here. The founders step back.*
 
 **Two Trees completion — LOCKED 2026-08-13:** the teahouse pilgrimage Book IX
 inherits is not a new spiritual movement founded from nothing. It completes
-the reclamation the Lean Year proved possible
+the reclamation the Hollow Year proved possible
 (`60_volume_IV_court_of_threads.md` § *Two Trees / dual-verification*): the
 Metrology Temples lineage split, generations before the Turning, into a
 co-opted state measurement apparatus and a devotional keeper practice the
 blocs never fully controlled. What the neo-śramaṇas formalize — psion and
 non-psion working the same discipline, direct perception and instrument
-both answerable to the person measured — is the Lean Year's improvised,
+both answerable to the person measured — is the Hollow Year's improvised,
 once-tested pairing turned into durable practice, tended by people young
 enough to have no memory of the two halves ever being separate.
 

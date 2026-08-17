@@ -157,6 +157,28 @@ Not one Ajah taxonomy. Full craft lock: `29` § The crafts.
 
 **On-page:** crafts as *what a woman does* — never a taxonomy speech.
 
+### Two houses with bodies — LOCKED 2026-08-16
+
+**House Nacre** occupies a repaired roadside motel on the Denver freight edge.
+Every room opens onto the courtyard. During Union containment, that layout let
+witnesses leave without crossing a common hall and let the house seal one room
+without sealing everyone. The former ice room holds testimony copies in
+moisture boxes. The motel laundry, kitchen, intake desk, and boiler remain
+ordinary shared work. Nacre's large Warp bench grew from the women who kept
+those rooms operating through searches and winter outages. Its Book IV error
+begins when proven skill at keeping a record becomes a claim to control who may
+review it. Members disagree because permanent custody is also consuming beds,
+meals, and night watches needed by new arrivals.
+
+**House Ilyara** occupies a former ferry hostel above a working chandlery on the
+western corridor. The old tide board remains in the kitchen because arrival
+times still govern meals and beds. Its Weft members move witnesses; its senior
+Warp members preserve their accounts; the shop below supplies legitimate noise,
+traffic, and reasons for strangers to enter. Ilyara's strength is waiting until
+a frightened person can speak. Its Book IV failure is continuing to wait after
+the person has asked to leave. Selin moved from Knotter placement work into Warp
+custody after the Union raids and carries both the humane skill and the bad habit.
+
 ### Formative bonds — difficult to break, never compulsory
 
 A Weaver bond becomes formative through duration and mutual witness, not a ceremony alone. People share houses, survive crossings, tend one another's bodies, hold confidences, learn families, assume obligations, and become a trusted coordinating unit in other people's lives. The bond is therefore stored in more than private feeling: nervous-system habit, domestic routine, community memory, reciprocal debt, and the expectations of people the pair once carried together. Separation can end romance or cohabitation without immediately dissolving that infrastructure.
@@ -406,6 +428,15 @@ Book V's flights remain temporary mobile peer cohorts named for a route, season,
 | **Bear** | Establish a boundary; protect it; release control; receive care; return from isolation | Proportionate, nonpossessive protection |
 | **Salmon** | Move with others; recognize harmful momentum; turn against it; return without surrendering judgment | Belonging without conformity |
 | **Ox** | Choose a load; carry it well; share it; recognize completion; put it down | Service without servitude |
+
+**Ordinary-life proof in Book IV:** Ren uses Stag questions before accepting a
+recruiting cord. Del uses Fox while tracing a misrouted form and stays to face
+the person affected. The young east-residence guard returns through Bear after
+obeying a protective hold past Rowan's refusal. A West Slope girl uses Salmon
+when she leaves her own stand to restore a shared work-song, then returns without
+surrendering the correction. The harvest crew uses Ox when its members divide
+the tool load and put it down at the next kitchen instead of letting the youngest
+carry through the meal. None of these acts completes a person or awards office.
 
 **How teaching works**
 

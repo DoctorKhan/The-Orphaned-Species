@@ -79,7 +79,7 @@ BOOKS = {
         "title": "Volume IV — *The Court of Threads* — Beat Sheet Lock Audit",
         "mandated_beats": [
             "Seven-month successful stretch (Ch 1 opening)",
-            "Lean Year eruption + cross-network seizure (Ch 1–2 pressure)",
+            "The Hollow Year eruption + cross-network seizure (Ch 1–2 pressure)",
             "Costa Rica evacuation Turning (grown corridor / Nosara–Sámara / Tenorio–Miravalles)",
             "Continuity clause invoked deliberately by institutions (Henley credentials / extension request)",
             "Rowan/Eli established love → consummation → family decision → conception (Ch 2–6)",

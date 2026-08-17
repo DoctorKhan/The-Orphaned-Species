@@ -44,4 +44,4 @@ Economic domination operates through **conditional access**, not open conquest. 
 - `05_story_architecture.md` § Book III
 - `33_volume_III_beatsheet.md` § CLIMAX STAGING / command pressure
 - `99_open_questions.md` § economic precarity
-- `60_volume_IV_court_of_threads.md` § Lean Year scarcity
+- `60_volume_IV_court_of_threads.md` § The Hollow Year scarcity

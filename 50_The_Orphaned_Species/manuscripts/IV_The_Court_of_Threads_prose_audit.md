@@ -22,12 +22,12 @@
 ## Chapter-level detail
 
 ### ## Chapter One—The Doors
-- **Word count:** 6869
-- **Sentence count:** 763
+- **Word count:** 7305
+- **Sentence count:** 791
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (11 hits)
-  - ABSTRACT-DENSE (43 abstract terms, 168 body terms)
+  - TELL-NOT-SHOW (12 hits)
+  - ABSTRACT-DENSE (44 abstract terms, 187 body terms)
 
 ### ## Chapter Two—Present Consent
 - **Word count:** 1511
@@ -43,31 +43,31 @@
   - OPEN-LIGHT-ON-BODY
 
 ### ## Chapter Four—What We Build
-- **Word count:** 2869
-- **Sentence count:** 351
+- **Word count:** 2951
+- **Sentence count:** 361
 - **Flags:**
   - TELL-NOT-SHOW (6 hits)
 
 ### ## Chapter Five—The Rumor
-- **Word count:** 2074
+- **Word count:** 2077
 - **Sentence count:** 289
 - **Flags:**
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (6 hits)
 
 ### ## Chapter Six—The Statement
-- **Word count:** 2279
-- **Sentence count:** 303
+- **Word count:** 2322
+- **Sentence count:** 307
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - TELL-NOT-SHOW (3 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
 
 ### ## Chapter Seven—The Two Houses
-- **Word count:** 3062
-- **Sentence count:** 357
+- **Word count:** 3383
+- **Sentence count:** 377
 - **Flags:**
-  - TELL-NOT-SHOW (7 hits)
+  - TELL-NOT-SHOW (9 hits)
 
 ### ## Chapter Eight—The Succession Debate
 - **Word count:** 2800
@@ -77,14 +77,14 @@
   - TELL-NOT-SHOW (4 hits)
 
 ### ## Chapter Nine—The Room Prepared
-- **Word count:** 1638
-- **Sentence count:** 227
+- **Word count:** 1703
+- **Sentence count:** 231
 - **Flags:**
   - TELL-NOT-SHOW (2 hits)
 
 ### ## Chapter Ten—Before the First Breath
-- **Word count:** 4113
-- **Sentence count:** 492
+- **Word count:** 4211
+- **Sentence count:** 500
 - **Flags:**
   - TELL-NOT-SHOW (5 hits)
 

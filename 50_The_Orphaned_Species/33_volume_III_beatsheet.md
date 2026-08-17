@@ -10,6 +10,23 @@
 > admit it while his command makes acting on it unsafe. Eli refuses forced synchronization and signs away
 > his authority while the threat remains. Every institutional development must
 > change what one of these people can do next.
+>
+> **PSIONIC SCIENCE DRAMATIC-CONSEQUENCE RULE — LOCKED 2026-08-16:** every null result, failed test, fraudulent practitioner, contaminated experiment, mistaken attribution, or perimeter revision in Book III must have a visible, named-character cost. A clinic classified as unsafe loses intake authority and the patients who depended on it are reassigned or left without care. A registry order that cannot distinguish civilian from combatant freezes the civilian's credentials and access. A custody claim founded on falsified intake data must be revoked and the officer suspended pending audit. The first scene after any scientific advance shows the change in a person's hands, not a thesis.
+
+> **Opponent this week — LOCKED 2026-08-16:** every chapter names a human with a job before Friday. Not "the Mandate." Not "the war." Not "the system."
+
+| Ch | Human | This week's job |
+|---|---|---|
+| 1 | Commissioner Ma's Pacific strike coordinator | Make the opening salvo land on schedule before any warning reaches the Brazilian network |
+| 2 | Continuity liaison on the port intake desk | Turn clinic admission data into a classification order before the council can open an appeal |
+| 3 | Registry prosecutor on the Union break circuit | Get a named witness to confirm the Compact as provisional authority |
+| 4 | Logistics officer on the grain-barge manifest | Misroute civilian cargo under recovery cover before the next convoy sails |
+| 5 | Lang's clinic intake director | Reframe Wren's network as unsafe patients who must accept mandatory training |
+| 6 | Assembly-floor vote scheduler | Lock the succession calendar before the Compact can propose civilian oversight |
+| 7 | Sol-linked cell commander in the Pacific corridor | Break the defensive line and force the remaining port to accept martial relief |
+| 8 | Strike coordinator on the island approach | Land the drone and missile package before Eli's mixed command can redistribute fire |
+| 9 | Henley's continuity officer on the extension brief | File the emergency extension as irreversible before anyone can read it |
+| 10 | Commissioner Ma's ceasefire emissary | Get Eli to sign authority back under the appearance of partnership |
 
 > **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Book III's monolithic venue name is **Living Root**: the organic, spreading Brazilian river-port network and federated teahouse ecology — unsealed, branching, the anti-Cube. It is the infrastructure that grows while the Cube stands.
 
@@ -87,8 +104,22 @@
 > conflict is loving, informed, and politically consequential. Rasel contributes
 > field physics and institutional memory, while Eli retains the final choice about
 > his own capacity. If Eli never entered Book III, Rasel would still be racing October.
+>
+> **SCIENCE MUST HAVE DRAMATIC CONSEQUENCES — LOCKED 2026-08-16:** the psionic science
+> in this volume is not an author-side assurance. Every test, record, and published
+> claim must cost a particular person something visible. A null result must close a
+> clinic, ruin an authority, free a suspect, or force Eli to abandon a theory. A
+> fraudulent practitioner must be exposed in a way that costs followers, patients,
+> or a sponsor something real. A contaminated experiment must produce mistaken
+> attribution that forces a perimeter revision, and that revision must change what a
+> named person is allowed to do, where they can go, or what they can claim. Failed
+> predictions must land on the person who made them — loss of standing, access, or
+> mandate — not merely on a dashboard. Rasel's October recertification, the coupling
+> research, the complex-time verification, and any clinic or registry test must all
+> obey this rule. If a scientific advance changes the world, the first scene after
+> the result must show that change in someone's hands, not in a thesis.
 
-> **MESSIANIC RISE — REVISED 2026-08-08:** The series does not shy away from the messiah shape. By Volume III a substantial public treats Eli as Deiwos, chosen one, healer-king, or Son of Man. He rises through real coordination, signs, rumor, and projection. He accepts bounded wartime command, wins battles, and relinquishes it for real at the end — a genuine civic win in the room where it happens. But that win is local: Continuity keys, factional mandate, and private force outside that room stay live and unresolved, so the wider interregional compact the war seemed to prove was never actually intact. The first relinquishment is incomplete — not because Eli refuses it, but because that wider gap only surfaces once Book IV arrives. The Lean Year's interregional coordination crisis in Book IV carries the crown back to him as reconstruction, not restoration, where pregnancy adds heir mythology. Adulthood is finally proved by institutional transfer during the birth, not by denying the signs.
+> **MESSIANIC RISE — REVISED 2026-08-08:** The series does not shy away from the messiah shape. By Volume III a substantial public treats Eli as Deiwos, chosen one, healer-king, or Son of Man. He rises through real coordination, signs, rumor, and projection. He accepts bounded wartime command, wins battles, and relinquishes it for real at the end — a genuine civic win in the room where it happens. But that win is local: Continuity keys, factional mandate, and private force outside that room stay live and unresolved, so the wider interregional compact the war seemed to prove was never actually intact. The first relinquishment is incomplete — not because Eli refuses it, but because that wider gap only surfaces once Book IV arrives. The Hollow Year's interregional coordination crisis in Book IV carries the crown back to him as reconstruction, not restoration, where pregnancy adds heir mythology. Adulthood is finally proved by institutional transfer during the birth, not by denying the signs.
 
 > **TEMUJIN LEADERSHIP LOCK — REVISED 2026-08-07:** Book III's external
 > pressure is the approaching war with the Eastern Mandate. After the
@@ -416,7 +447,7 @@
 
 > **WOMEN CARRYING VACATED WORK — REVISED AND LOCKED 2026-07-30:** Books I–II have already made women common in freight, maintenance, construction, perimeter defense, drones, transport, route work, and command because earlier wars killed/conscripted many men **and** civic sorting rejected many male survivors (Extras / house dependents / Thread) while the work remained. **This is not a Paraguay-scale scarce-male world before Book I.** Pre-I demography produces **discarded-man surplus and female labor load**, not elevated leverage for remaining men. Book III makes the double truth visible: these women possess real skill and authority, and many have also been made to carry old spending-work without relief from care or bodily burdens. The cloisters do not form to reclaim male-coded jobs. Their rise must create negotiation over shared work, rotation, recovery, and power without displacing women or restoring sex caste.
 
-> **MALE DEMOGRAPHY / PARAGUAY RHYME — LOCKED 2026-08-01:** Do **not** front-load a Paraguay-style adult-male collapse before Book I — scarcity would give surviving men premature household/succession power and break Extra disposability. **Stack:** (1) **Before Book I** — war + baby bust + sorting; men often **discarded**, not prized. (2) **Book III Awakening War** — male expendability spends survivors hardest; named deaths; unequal holding action; scarcity **begins**. (3) **Book IV Lean Year** — convoy defense, infrastructure repair, and long-route service keep spending men disproportionately; the prior loss becomes publicly undeniable and **scarce-male leverage arrives** (Paraguay rhyme). On-page: empty chairs accumulated across the war and relief routes, female-default quorum, surviving men over-watched or over-claimed — never census speeches and no overnight demographic flip. Full cloister transform: `60` § *Cloister purpose transform*.
+> **MALE DEMOGRAPHY / PARAGUAY RHYME — LOCKED 2026-08-01:** Do **not** front-load a Paraguay-style adult-male collapse before Book I — scarcity would give surviving men premature household/succession power and break Extra disposability. **Stack:** (1) **Before Book I** — war + baby bust + sorting; men often **discarded**, not prized. (2) **Book III Awakening War** — male expendability spends survivors hardest; named deaths; unequal holding action; scarcity **begins**. (3) **Book IV The Hollow Year** — convoy defense, infrastructure repair, and long-route service keep spending men disproportionately; the prior loss becomes publicly undeniable and **scarce-male leverage arrives** (Paraguay rhyme). On-page: empty chairs accumulated across the war and relief routes, female-default quorum, surviving men over-watched or over-claimed — never census speeches and no overnight demographic flip. Full cloister transform: `60` § *Cloister purpose transform*.
 
 > **ROMANCE EXPANSION — REVISED AND LOCKED 2026-07-28; love timing revised 2026-08-16:** Book III must not quietly demote Wren/Rowan after renewing it in Book II. Wren/Rowan and Wren/Eli continue as differently textured romances. Eli and Rowan fall in love through direct work during the war. They name it to each other and disclose it to Wren while Eli still holds command. His office bars sex, cohabitation, private access through public channels, and promises about a future child. **Pair-competition:** one or two pulses may arise over jurisdiction, routes, or who speaks in the hall. Wren does not authorize the new bond, and Rowan does not ask her to. No romantic beat belongs inside Ch 8's named loss. After the handover, Eli and Rowan may kiss in the coda. Book IV owns sexual consummation and the deliberate attempt to have a child. Full architecture: `19`; `60_volume_IV_court_of_threads.md`.
 
@@ -482,6 +513,23 @@
 > **COMPLEX-TIME / PEACE ENGINE — LOCKED 2026-07-27:** During the Union visit, Eli and Rasel encounter an unfinished classified physics program built from inertial anomalies, charged-ground measurements, ancient orbital records, and failed resonant lattices. Eli identifies the missing feedback relationship but does not finish the science alone; Union physicists, Rasel, independent replicators, and Mandate engineers complete and test it. The Union holds theory; the Mandate holds industrial capacity; the Free Ports and teahouses hold open verification and consent-bound field research. A small replicated proof of lateral movement through adjacent temporal states and a joint civilian compact create material grounds for ceasefire. No crewed starship launches in the trilogy.
 
 > **Maren's field notebook CONCORDANCE — LOCKED 2026-07-21:** Maren's word-tree opens into a wider scientific concordance: language, evolution, ecology, field behavior, and extraterrestrial records preserve continuity through transformation. Sanxingdui is the decisive non-linguistic rhyme, not a Proto-Indo-European outpost. The pattern helps Eli see the field sail's missing feedback relationship; collaborating scientists must still derive, replicate, and govern the result. Full design: `52_maren_holts_field_notebook.md`.
+
+> **Opponent this week — LOCKED 2026-08-16:** every chapter names a human with a job before Friday. Not "the Mandate." Not "the war." Not "the system."
+
+| Ch | Human | This week's job |
+|---|---|---|
+| 1 | Commissioner Ma's Pacific strike coordinator | Make the opening salvo land on schedule before any warning reaches the Brazilian network |
+| 2 | Continuity liaison on the port intake desk | Turn clinic admission data into a classification order before the council can open an appeal |
+| 3 | Registry prosecutor on the Union break circuit | Get a named witness to confirm the Compact as provisional authority |
+| 4 | Logistics officer on the grain-barge manifest | Misroute civilian cargo under recovery cover before the next convoy sails |
+| 5 | Lang's clinic intake director | Reframe Wren's network as unsafe patients who must accept mandatory training |
+| 6 | Assembly-floor vote scheduler | Lock the succession calendar before the Compact can propose civilian oversight |
+| 7 | Sol-linked cell commander in the Pacific corridor | Break the defensive line and force the remaining port to accept martial relief |
+| 8 | Strike coordinator on the island approach | Land the drone and missile package before Eli's mixed command can redistribute fire |
+| 9 | Henley's continuity officer on the extension brief | File the emergency extension as irreversible before anyone can read it |
+| 10 | Commissioner Ma's ceasefire emissary | Get Eli to sign authority back under the appearance of partnership |
+
+> **Character voice — LOCKED 2026-08-16:** No character sounds as though they have read the project bible. Eli misreads Rowan when she refuses to be used as leverage: he hears loyalty politics; she means a person is not a bargaining chip. Wren enforces a specific intake rule partly because she remembers being the one left off a manifest and wants Eli to see her keep it—partly selfish, partly right. Somchai has no registry or politics vocabulary; he describes what he understands through bodies—weight, heat, breath, scar, pulse—until Eli supplies the terms.
 
 *Chapter-by-chapter spine for Volume III (Choice). Companion to `05_story_architecture.md` § *Classic spine*, `27_character_development_arcs.md`, `41_climax_the_awakening.md` (Book II), `43_audience_and_character_recommendations.md`, and `44_cultural_moment_and_mass_appeal.md`.*
 
@@ -818,11 +866,13 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Inquiry scope:** the refugee he sponsored; whether safeguards were adequate; the death in Chapter 3; uses of emergency authority; why the holding action fell disproportionately on men; whether their consent was materially free; the people and place lost in Chapter 8; lifetime care, reparations, future safeguards, and Eli's eligibility to command again.
 - **Wren's cost, named — LOCKED 2026-08-08 (fulfills `26_present_day_cast_expanded.md` line 17, "the death must carry specific cost for Wren"):** among the people lost in Chapter 8 is Sora Vithan, and this hearing is where Wren has to sit with it in public rather than alone. Sora was the one person who owed her the full truth of Mira's death — she was there, in another uniform, when it happened — and that truth dies with her, unpaid, not tragically almost-delivered on some deathbed page. Wren doesn't testify to this; it isn't inquiry material. It's simply present in the room while she listens to the rest of the accounting, another name she carries that the hearing's official language will never itemize as a cost.
 - **Cloister compact begins here — EXPANDED 2026-07-30, rehabilitation framing:** while Eli's hearing runs in the main hall, Owen Price, Malik Foster, a handful of other veterans, former Extras, and Harbor Thread elders meet in a side room to do the same thing Eli is doing down the hall — choose accountability instead of being exempted or discarded by it. This is not a footnote to the hearing; it is the hearing's rhyme, and it should carry equal page weight.
+  - **Weaver / Thread receipt — DRAFTED 2026-08-16:** Callum's old packet enters before the proposal. A Weaver house received him and three Thread segments moved him; every institution completed its own task while Callum still lost medicine, bed, and the power to refuse work. Rowan and the Thread elder each name what the other network did wrong. Callum's audio forbids either side from using his return to prove it saved him. The cloister is needed because route completion and house reception did not create durable standing.
   - **Want:** standing that doesn't depend on a household claiming them, a wage justifying them, or a war needing them — something chosen and built, not conferred.
   - **Obstacle:** the men disagree about what they're actually founding. Some want a fighting brotherhood (Sol's shape, minus Sol). Some want a repair guild. Some don't trust each other enough to want anything shared at all. Malik pushes for readiness; Owen pushes for a written rule against exactly the thing Malik wants.
   - **Choice → cost:** Owen's rule wins — *no remobilization without role and exit* — but only after a man who has said nothing the whole meeting states he will leave if it doesn't pass, and means it, and is believed. The compact is founded on that one refusal, not on agreement. **Extra participants hold authorship and veto** — dramatized here, not just stated: Weaver houses may share practices but cannot select initiates, certify mate-worthiness, or confer legitimacy. Nothing about this compact is granted by Eli, who is down the hall being judged by people who owe him nothing either — the two rooms are proving the same thesis in parallel without either needing to say so.
   - **Founding act:** they claim a room nobody else wanted — storage, a leaking roof, no one's inheritance — and fix the roof themselves before they agree on a name for what they are. The repair comes before the compact's language does. This is the object Book IV inherits: a room, held and maintained, before it was ever a formal cloister.
   - **The Five Forms begin after the roof — SHARED TRAINING; REVISED AND LOCKED 2026-08-16:** once the cloister has more than one generation to keep, older men and adolescents begin building five forms of practice: **Stag, Fox, Bear, Salmon, and Ox** (`40` § *The Five Forms*). Every learner trains all five. A learner may focus on one form for a season, and teachers earn trust form by form. The founders know the animal imagery at Göbekli is unresolved. They borrow the practice of placing an animal beside a human problem and make no claim about the ancient meanings. In the scene, an elder examines a younger man's flight from a drone light without excusing the exposed post. Asha strikes **PRIMARY FORM** from the intake sheet; Owen refuses sorting; Rowan puts the portable record in the learner's own hands; a clinic Dyer writes bodily stop conditions. Eli's old dream remains unexplained and assigns him no category.
+  - **Craft faces — DRAFTED 2026-08-16:** Mina is the clinic Dyer who writes and reads the stop conditions. Selin's later Book IV Warp work remains distinct from Mina's body-care record. No anonymous craft arrives only to explain the taxonomy.
   - **Rehabilitation, not charity:** the emotional register is dignity restored through chosen work and mutual restraint, not gratitude for being included. No one thanks Eli for this. It happens down the hall from him, not because of him.
   - **The controversy — LOCKED 2026-07-30.** Organized men are not neutral in this world; treat the founding itself as alarming to nearly everyone who hears about it, for reasons that are legible, not paranoid. Every precedent anyone has for men organized at scale is a **spending** institution — armies, crews, gangs, corps, registries (`29` § the missing male order) — and the Harbor Thread, the only other large male structure, stays deniable specifically *because* a named, visible male body is a different and riskier thing than an unspoken one. The cloisters are choosing visibility the Thread never risked. Once word spreads: **Lang's apparatus** wants it classified and monitored as a security matter, the same reflex his registry applies to anything unfiled. **Union-aligned officials** read it as a proto-militia regardless of its charter. **Weaver houses split** — some see the "kept" counterpart they've always lacked, others argue a visible male order is categorically more dangerous than the Thread's polite blindness ever was, precisely because it can't be quietly ignored. **Some ordinary residents, especially women who survived Extra-adjacent violence, respond with real fear, not bigotry** — the Extra population already contains "actual predators" alongside veterans and workers (`29`; `40_concepts.md`), so a body claiming collective standing for that population is a legitimate, not paranoid, thing to worry about before it has a track record. **Sol** treats it as a rival claim on his recruitment pool and moves to either discredit or absorb it. None of these reactions should be staged as obviously wrong; the compact has to *earn* trust on the page across Book III and IV, not receive it because the reader already knows Owen and Malik are decent men.
 - **Choice → Cost:** Eli testifies without controlling the conclusion and accepts
@@ -846,7 +896,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 > continuity clause planted but not fired, and Rowan/Eli love held without
 > sexual access while Eli commands. A kiss may follow the handover. Sex,
 > co-parenting, conception, and pregnancy belong to Book IV. The retired
-> coordinated-attack design is replaced by the Lean Year's exogenous eruption
+> coordinated-attack design is replaced by the Hollow Year's exogenous eruption
 > and convergent anocratic capture (`60` § 1).
 
 - **Deep-time residue / ancient face close — LOCKED 2026-07-30; CLIMAX/HUNGER REVISED 2026-08-08:** completed local handover as **Loop condition** — the federation, cloisters, Weavers, and Eli's effort to relinquish genuinely succeed in the room, and the compact still **has not been proven at the scale the war reached**: Continuity keys, factional mandate, and private force outside that room stay live and unresolved. The room feels the civic win as real before Eli's private hunger surfaces and before the work of reconstruction that passes to Book IV: usefulness without belonging, recognition without home, and a wider compact that must still be built, not a civic failure that must be rebuilt. The Continuity clause remains a dormant fossil temple office and the federation carries real material dependencies into Book IV. Wrong reading: civic goods fake because Eli is unsatisfied; clause = destiny return. Cost: private incompletion plus unresolved debt; Book IV inherits a compact that must be built out to real scale voluntarily, not a fraud to expose.
@@ -860,7 +910,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   failure, the lesson the Union and Mandate never learned about their own
   emergency powers (`23_2040_present_frame.md` § Not as different as they
   claim).
-- **Pressure at signing — LOCKED 2026-08-01; war-window concurrency strengthened same day:** certification must not complete in a room emptied of risk. **Closing war/window pressure shares air with Ch 9–10** — at least one contested front, a faction still refusing to stand down, a last forced-synchronization temptation Eli refuses, and a named human cost paid in that same stretch — so the handover is *achieved under real threat*, not administered after the threat retired. The coordinated-attack-on-the-settlement design stays retired (Lean Year owns Book IV's exogenous test); this is concurrent window pressure, not a reintroduced capital battle. Epic = moral cut + live threat on the same pages (`17` § *Climax staging*).
+- **Pressure at signing — LOCKED 2026-08-01; war-window concurrency strengthened same day:** certification must not complete in a room emptied of risk. **Closing war/window pressure shares air with Ch 9–10** — at least one contested front, a faction still refusing to stand down, a last forced-synchronization temptation Eli refuses, and a named human cost paid in that same stretch — so the handover is *achieved under real threat*, not administered after the threat retired. The coordinated-attack-on-the-settlement design stays retired (The Hollow Year owns Book IV's exogenous test); this is concurrent window pressure, not a reintroduced capital battle. Epic = moral cut + live threat on the same pages (`17` § *Climax staging*).
 - **Weaver rise:** Wren, Rowan, Asha, and multiple houses build and cross-verify
   the living attestations that make distributed certification credible in the
   first place — not emergency triage, deliberate infrastructure. Their success
@@ -876,12 +926,18 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   a future certification is ever compromised. It is stated on the record and
   then not used. Chekhov's clause for Book IV — the reader should half-forget
   it until it matters.
-- **Rowan/Eli love — LOCKED 2026-08-16:** they have already named their love and
+|- **Rowan/Eli love — LOCKED 2026-08-16:** they have already named their love and
   refused to convert Eli's office into access. After he signs away command,
   Rowan checks his injured hand in the service corridor. Eli asks before
   kissing her. The kiss begins no office, household, or co-parent promise.
   Wren/Rowan and Wren/Eli remain intact; Wren has received the truth directly
-  from each of them.
+  from each of them. **Incompatibility marker — LOCKED 2026-08-16:** their desire
+  is real but cramped — Rowan is disciplined by wartime duty and by the
+  difference between wanting a person and letting herself want relief; Eli
+  mistakes both. A missed plan, a shared watch they cancel, or a moment when
+  one of them is simply unavailable should recur as ordinary cost, not
+  postponed climax. The relationship does not reward Eli for being the
+  protagonist.
 - **End hook:** the crown is no longer Eli's. The two grassroots institutions
   stand inside government because they built it, not because they survived an
   attack on it — which is exactly what makes the new settlement worth attacking

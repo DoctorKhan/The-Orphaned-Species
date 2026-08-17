@@ -20,6 +20,13 @@
 > and living testimony must form an evidence chain. Resemblance by itself does
 > not prove continuity. Governing delivery: `32`.
 >
+> **Captive-broker promise — LOCKED 2026-08-16:** after Eli learns that the
+> factions run separate psion programs, matched Union and Mandate records reveal
+> that Charkha control houses supplied both programs from the same captive pool.
+> The manuscript must deliver this as a late discovery through records and a named
+> captive, not as advance narration. Coalition buyers remain particular cells;
+> there is no Coalition-wide program.
+>
 > **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1 Three Circles three-way read + Rasel entropy sentence (*signal you could record completely…*); Ch 2 Adapa wrong-first destiny hunger; Ch 6 Extra settlement unnoticed twin incomplete circles (Loop hatch-mark only — no street name). Ancient face = Sídhe/Göbekli/Folly. Craft lock: `17` § *Deep-time residue density*; beats: `32`.
 >
 > **Inana's Descent — dual face — LOCKED 2026-08-01:** Ch 2 archive seeds Descent + Enheduanna; Ch 4 Somchai = healing face; Ch 6–7 Wren/Rowan renewal = romance face (gates/attend/return-with-cost through conduct). `35` § *Inana's Descent*; `19` § *Rowan returns*.
@@ -33,6 +40,8 @@
 > **Psionics / belonging draft lock — 2026-08-01:** This is primarily the book in which psionic difference becomes visible and frightening. Eli's question beneath the mother-search is where he can belong and whom he can trust when neither he nor others can reliably distinguish perception, projection, coercion, illness, fraud, or revelation. Atomization stays embodied in isolation, rooms, procedure, family concealment, cult warmth, registry pressure, and lost shared reality; do not make characters lecture the total social diagnosis. Small practices—witness, consent, meals, song, attestation, kin, craft, exchange—help before they overreach. Book III, not this manuscript, scales them into a polity.
 >
 > **Dreamer draft lock — 2026-08-01:** Eli's vivid dreams intensify here without becoming prophecy or route instructions. Use one trauma/misread, one later-verifiable quiet detail, and one possibly psion-contaminated dream. He cannot distinguish contact from memory, body, expectation, ordinary dreaming, or intrusion by vividness. Characters record and test; Sol interprets; Lang pathologizes or extracts. Late recognition stops at *sleep may be receptive and provenance is poor*. Do not call Eli **the Dreamer**.
+>
+> **PSIONIC SCIENCE DRAMATIC-CONSEQUENCE RULE — LOCKED 2026-08-16:** every null result, failed test, fraudulent practitioner, contaminated experiment, mistaken attribution, or perimeter revision in Book II must have a visible, named-character cost. Rasel's recertification, clinic/registry tests, keeper testimony, forecast attribution, and custody claims all fail or succeed at a human price. A falsified read or contaminated evidence chain must strip the authorizer's authority, freeze their access, or force a clinic closure—not merely advance the mystery. The first scene after any scientific advance shows the change in a person's hands, not a thesis.
 
 ## Chapter One—What Came Home
 
@@ -1369,7 +1378,7 @@ Its cost does.
 
 ## Chapter Three—The Buried Instrument
 
-Wren finds the cut in the transfer records at six in the morning, in a room that smells of coffee brewed too strong and the copper-tang of a printer drum overheating.
+Wren finds the cut in the transfer records at six in the morning, in a room that smells of coffee brewed too strong and the copper-tang of a printer drum overheating. Eli has not asked for medical records. He has been tracking Hassan through public corridor flow. Wren has been watching the stations that do not log names.
 
 The file arrives under a routing label that says only **medical continuity review**. The originating header reads **CHARKHA CORRIDOR / PAIR FILE**. Wren has not asked for medical records. She has been watching corridor flow for three days, tracking Hassan's westbound handoff through the stations that do not log names. The file opens to a page her training tells her to recognize: two names, two citizenship streams, one shared residence history, then a single line that separates them without explanation.
 
@@ -3197,7 +3206,18 @@ Somchai does not look back. "I am not the person who heals on command. I am the
 person who says no in public when the cost is small enough that no one will
 remember my name afterward. That is the hard no, not the moment with cameras."
 
-He picks up the unexpired pack and puts it into the tray before anyone else
+Eli opens his mouth to frame it — the crowd needs a symbol, the clinic needs
+cover — but Somchai answers before he speaks.
+
+"You are reading the room wrong," Somchai says. "The woman with the burned
+face is not afraid of me. She is reading my body. The patient behind the
+curtain does not want a healer. She wants someone who will not decide for her.
+You called this a clinic. It is a place where people come to be asked."
+
+Eli listens. The file he was about to make — healer-as-instrument — does not
+survive the sentence.
+
+Somchai picks up the unexpired pack and puts it into the tray before anyone else
 can. "Now we plan the clinic evacuation."
 
 Eli files the sentence the way he files cheap soap and ordinary grief: under
@@ -3408,6 +3428,23 @@ A voice answers from the ceiling.
 
 Anika appears on the observation glass.
 
+Behind the glass, a woman in clinic gray is trying to push a medication cart
+through the administrative door. The door has inherited the same evidentiary
+lock as the pens.
+
+"Captain. Clinical override for twelve," she says.
+
+Anika does not look away from Sora. "Hold, Devika."
+
+"His anticonvulsant is due in eleven minutes. Nine and fourteen are due now."
+
+"Security event."
+
+Devika Sen braces one shoe against the cart wheel. Her badge says **CLINIC
+ADMINISTRATION**. A smaller line carries the Charkha grant code.
+
+"Then secure the corridor. The medication still goes through."
+
 Sora's jaw tightens. "Charkha," she says, mostly to herself, the way you name
 a weather system already overhead.
 
@@ -3524,6 +3561,14 @@ Sora looks at pen twelve, then at the evidence room.
 Anika's face remains composed. "There will be a transfer."
 
 "Same drains."
+
+Devika strikes the clinic-door release with the heel of her hand. "Evidence can
+wait outside my medication room."
+
+The lock stays red.
+
+She calls maintenance, gives the grant code as billing authorization, and tells
+them three doses are late.
 
 "You are injured and command-exposed. Your threat assessment is unreliable."
 
@@ -4118,7 +4163,7 @@ without asking Wren to repair it.
 
 No absolution.
 
-Rowan opens the ledger.
+Rowan opens the ledger alone. The ink is already on the page before Eli reaches the corridor.
 
 "Callum first. Then your crossing."
 
@@ -4682,9 +4727,7 @@ reading. They have no instrument that would make the number mean more than
 the pews already do.
 
 Wren and Rowan audit the church's old placement terminal.
-
-Eli stays on the far side of the room because he does not know whether distance
-is courtesy or cowardice.
+Eli is not with them. He is on the far side of the room because he does not know whether distance is courtesy or cowardice, and because this part of the record is theirs to read first.
 
 The terminal contains two ledgers hidden beneath routine household records.
 
@@ -4697,6 +4740,7 @@ At the bottom:
 **NO BAR TO CONTINUED CONTACT. OBSERVE WITHOUT STEERING.**
 
 Wren reads it twice.
+Eli reads it after her, when she hands him the printout — a route audit done by Wren and Rowan in a room he never entered.
 
 "They blessed us."
 

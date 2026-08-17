@@ -38,6 +38,8 @@
 > time to spread along reactivated lines. It ends with the constitutional
 > handover **succeeding** — distributed, redundant, no single point of failure —
 > and Eli a private citizen. Decentralized governance holds for a real stretch
+>
+> **PSIONIC SCIENCE DRAMATIC-CONSEQUENCE RULE — LOCKED 2026-08-16:** every null result, failed test, fraudulent practitioner, contaminated experiment, mistaken attribution, or perimeter revision in Book III must have a visible, named-character cost. A clinic classified as unsafe loses intake authority and the patients who depended on it are reassigned or left without care. A registry order that cannot distinguish civilian from combatant freezes the civilian's credentials and access. A custody claim founded on falsified intake data must be revoked and the officer suspended pending audit. The first scene after any scientific advance shows the change in a person's hands, not a thesis.
 > before Book IV opens on it and then breaks it (`60_volume_IV_court_of_threads.md` § 1).
 >
 > **Book II inheritance draft lock — 2026-08-01:** The federation grows from practices readers have already watched help small groups: consent-bound psionic witness, shared meals and hearth circles, work-song and child participation, living attestation, chosen kin, craft transmission, and plural exchange. Scale them here into review teams, accountable intake, service houses and cloisters, portable training, distributed credentials, apprenticeships, and modular routes. Do not present these as ideas Eli suddenly invents. Their enlargement must create delay, bureaucracy, jurisdiction, exclusion, and capture alongside capacity.
@@ -3466,6 +3468,48 @@ Neither asks it to settle everything else.
 
 ---
 
+Devika Sen testifies with a clinic inventory open beside her.
+
+"Charkha paid for the cooling cabinet, two night nurses, and the anticonvulsant
+stock," she says. "Before that, we sent seizure patients to hospitals that
+returned them when the registry flag arrived."
+
+The Union counsel asks how many deaths the clinic prevented.
+
+"Nine that I can support from the record. More if you allow inference. I do
+not."
+
+"Then the partnership produced a public benefit."
+
+"My nurses did. Page fourteen opened custody."
+
+Devika opens the renewal she signed. Telemetry sharing sits on page fourteen.
+Selected signatures could be referred to security without a second clinical
+review.
+
+"I signed because the medication shipment was already six days late," she
+says. "A patient named Toma Baird was transferred through that clause. I never
+saw him again."
+
+His intake request remains attached to the referral:
+
+**MY SISTER KNOWS THE NIGHT DOSE. SEND ME HOME.**
+
+"Do you regret accepting the grant?"
+
+"I want next month's medication without page fourteen. Regret does not order
+stock."
+
+Her proposed remedy separates the clinic key from the custody key. Charkha may
+submit safety evidence with every other supplier. It receives no live patient
+feed and no referral authority in exchange for medicine.
+
+The clinic would lose its current contract.
+
+Devika enters the projected shortfall herself.
+
+---
+
 Qiao Wen testifies under supervision.
 
 Her screen shows a plain institutional room in Sichuan. A Mandate observer sits
@@ -6527,7 +6571,30 @@ Mei reads the line and begins crying without ending her testimony.
 The men's cloister proposal arrives on the second day.
 
 Malik Foster presents it beside Owen, Arman, the former Harbor Thread elder,
-Jalen by audio, and six men who disagree about almost every political question.
+Jalen and Callum by audio, and six men who disagree about almost every political
+question.
+
+The elder puts Callum Price's old route packet on the table.
+
+"One Weaver house received him," he says. "Three Thread segments moved him.
+Every handoff was marked complete. He still slept beside a pump because refusing
+the next job meant losing the next bed."
+
+Rowan takes the packet before he can slide it toward the delegates.
+
+"Your third segment left him at Raben Yard without his medication."
+
+"After your route letter put his destination on a registry screen."
+
+"We went back for him."
+
+"After he vanished. So did we."
+
+Callum has added one line to the packet from Raben Yard:
+
+**I AM STAYING HERE. STOP USING MY RETURN TO PROVE WHICH NETWORK SAVED ME.**
+
+Rowan reads it aloud. The elder lets the packet remain in her hand.
 
 They ask Eli to help found them.
 
@@ -6677,9 +6744,10 @@ this?"
 
 Rowan opens a blank Weft envelope and gives it to the boy.
 
-A Dyer from the harbor clinic writes three stop conditions on the back: head
-injury, field contact, heat illness. She makes the elder read them aloud before
-she returns the pen.
+Mina writes three stop conditions on the back: head injury, field contact, heat
+illness. Her clinic can treat the first body in front of her. Her Dyer record is
+what lets another house repeat the safe part without copying the whole clinic.
+She makes the elder read the conditions aloud before she returns the pen.
 
 Eli sees the broken antler.
 

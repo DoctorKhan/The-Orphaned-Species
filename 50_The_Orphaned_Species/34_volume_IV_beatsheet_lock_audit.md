@@ -6,14 +6,14 @@
 
 ## Source sizes
 - `/Users/khan/Projects/The-Orphaned-Species/50_The_Orphaned_Species/34_volume_IV_beatsheet.md` = **32,253 bytes / 472 lines**
-- `/Users/khan/Projects/The-Orphaned-Species/50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` = **185,925 bytes / 6,626 lines**
+- `/Users/khan/Projects/The-Orphaned-Species/50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` = **192,062 bytes / 6,718 lines**
 
 ## Mandated-beat coverage
 
 | Mandated beat | Beatsheet status | Manuscript status | Notes |
 |---|---|---|---|
 | Seven-month successful stretch (Ch 1 opening) | Locked | Partial / check |  |
-| Lean Year eruption + cross-network seizure (Ch 1–2 pressure) | Locked | Partial / check |  |
+| The Hollow Year eruption + cross-network seizure (Ch 1–2 pressure) | Locked | Partial / check |  |
 | Costa Rica evacuation Turning (grown corridor / Nosara–Sámara / Tenorio–Miravalles) | Locked | Partial / check |  |
 | Continuity clause invoked deliberately by institutions (Henley credentials / extension req | Locked | Partial / check |  |
 | Rowan/Eli established love → consummation → family decision → conception (Ch 2–6) | Locked | Present |  |

@@ -86,7 +86,7 @@ Eli's trajectory sense is a system tool — it reads charge patterns, vectors, a
 - **Book I:** trajectory reads as gift the Union would sedate; he hides them.
 - Book II: dream uncertainty; he does not know whether dreams are contact, trauma, body, memory, projection, or intrusion.
 - Book III: forced synchronization temptation — the compact's coordinating authority gives him exactly the field-feedback he craved; the temptation to extend authority into permanent command is the Drift at civilization scale.
-- Book IV: the Loop's miniature hell — civic victory followed by private incompletion; belonging unresolved; the federation holds locally, in the room, while the wider interregional layer the Lean Year is about to test was never secured, and Eli still lacks a place.
+- Book IV: the Loop's miniature hell — civic victory followed by private incompletion; belonging unresolved; the federation holds locally, in the room, while the wider interregional layer the Hollow Year is about to test was never secured, and Eli still lacks a place.
 
 ---
 

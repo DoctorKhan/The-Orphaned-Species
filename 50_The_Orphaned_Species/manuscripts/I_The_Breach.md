@@ -33,6 +33,8 @@
 > **Wat stack on-page — 2026-08-16:** candle / afterimage at the wat; same inverse used on Kru Dao's pad and failed at Rasel's mask (`67`, `68`).
 > **Cherry shell contact — 2026-08-16:** freight case along the Cube wall; heat at the base of the spine; concert clap as a hand he cannot see. Alcove stays anti-chant.
 > **Knowledge-form delivery — LOCKED 2026-08-16:** consciousness supplies no proposition, rule, or explanation. Book I shows the altitude distinction through Malacca's automatic survival, the wat's newly available next movement, Niran's bodily cost and care, and Eli lifting Rasel's mask after recognizing the true route. Do not add Player vocabulary, chosen-suffering claims, or an inner voice explaining why harm occurred (`22`, `67`, `69`).
+
+> **PSIONIC SCIENCE DRAMATIC-CONSEQUENCE RULE — LOCKED 2026-08-16:** every null result, failed test, fraudulent practitioner, contaminated experiment, mistaken attribution, or perimeter revision in Book I must have a visible, named-character cost. A keeper who overreaches loses route access or clinic referral. A registry sweep that cannot distinguish a civilian from a conspirator freezes the civilian's credentials and clinic intake. A misattributed warning or falsified field read strips the authorizer's authority and revokes their access until an independent audit reconstructs the chain. The first scene after any scientific advance shows the change in a person's hands, not a thesis.
 > - **Superseded Ch 2–4 prose:** moved to `archive/manuscripts/restructure_quarry_ch2-4.md`. Quarry material (Khun Dang, King James register, seven-chamber framing) is not canon until placed on-page under current voice/route locks.
 > - **`archive/manuscripts/quarry_ch1_alternative.md`:** alternative concept-forward Ch 1—**quarry**, not governing (interiority pays off later; see its header).
 
@@ -344,7 +346,8 @@ ask again at the gate." She lets him read it before she adds, still without
 looking up, "If the Circuit boxes you, there is a hold under the Cube that
 rides the same trucks. Do not go looking for it. The other lane goes through
 full clearance. If your file flags, they don't send you back to the boat.
-They send you to a room where nobody asks which band you came with."
+They freeze your corridor credential and clinic intake, and the hold that
+takes you is not the hold that releases you back to the water."
 
 She does not explain.
 
@@ -701,7 +704,7 @@ The number ends. The boy walks him off in the transition, still holding the wris
 
 The shutter stays open. "She sat with me under a stairwell once. Four hours. I was fourteen and the noise came and everyone else went to get someone, and she just—stayed. She taught me the fingers and the breath. She never wrote any of it down. She said records are for people you don't intend to come back to." A muscle moves in his jaw. "Then she came back. Every time, until she didn't."
 
-"You're not on this list," the security chief says, catching up, tablet already lit. "Holt. Facilities. Marshalling, west yards, not—" He gestures at the stage they just left, then frowns at the screen. "And a flag from below. Two songs left."
+"You're not on this list," the security chief says, catching up, tablet already lit. "Holt. Facilities. Marshalling, west yards, not—" He gestures at the stage they just left, then frowns at the screen. "And a flag from below. Two songs left." He reads the screen once more, and his face closes. "That flag has already frozen your corridor credential and clinic intake. You don't go back to the water after this set. You go to a review desk that does not release people."
 
 "I can't come," the boy says, and it is arithmetic—the dancers, the crew, the chanting town. "But my show leaks. Wardrobe to afterparty load-in, then the freight ramps. Someone has already been moving bodies through it **today**." One corner of his mouth. "You have her face. Try to keep it."
 
@@ -1143,13 +1146,13 @@ Disappearing would mean carrying it in a borrowed name. Hassan in a van because 
 
 "I'm not going dark," Eli says.
 
-The courier looks at Eli for a while. Whatever arithmetic she runs, she runs it with her face closed, and he cannot tell if the answer costs her something.
+The courier looks at Eli for a while. Whatever arithmetic she runs, she runs it with her face closed, and he cannot tell if the answer costs her something. She knows the Malacca intake record is already sealed, and she knows her placement is now evidence. When she speaks, her voice does not change; the cost is in the route she gives him.
 
 "Then you come with the route as far as the corridor," she says, standing—voice still level, still soft, as if explaining a connection. "You do exactly what the route says. After that, you become someone else's weather." She shoulders the bag. "Wren."
 
-"You're—" He stops. Babaji's Wren. Checkpoint Wren. The hand at his elbow, the
-same voice asking him to follow. One woman moving through different jobs.
+"You're—" He stops. Babaji's Wren. Checkpoint Wren. The hand at his elbow, the same voice asking him to follow. One woman moving through different jobs.
 
+"Yes." He looks away, then back. "You were going to work it out eventually. Better now, on a boat, than mid-sentence somewhere it costs us both. You're going to be shouting a name at some point. It may as well be the right one."
 "Yes." He looks away, then back. "You were going to work it out eventually. Better now, on a boat, than mid-sentence somewhere it costs us both. You're going to be shouting a name at some point. It may as well be the right one."
 
 ---
@@ -3267,7 +3270,7 @@ Eli puts the strip inside his shirt.
 
 "I'm leaving you here."
 
-Rasel adjusts the tomato tie by a finger's width. "Yes."
+Rasel adjusts the tomato tie by a finger's width. "Yes." He turns back to the instrument bank. The door stays closed.
 
 Wren turns toward the service road. Eli follows her.
 
@@ -3282,7 +3285,7 @@ checks her credential once more. The red stamp holds.
 
 "Where can you go?" Eli asks.
 
-"West, until someone asks a better question."
+"West, until someone asks a better question." She turns the dead credential between her fingers. "My house standing is gone. My name is the only paper I have left."
 
 She hands him the back of the credential. Sora's code points toward the
 Bosporus corridor. Maren's equation carries a second, older reference to a
@@ -3297,7 +3300,10 @@ The van turns. The fence gives way to wet plane trees, repair barriers, and the
 river beyond them.
 
 Eli takes out Maren's strip. Wren's dead credential rests beside it on the
-seat. Neither paper grants passage through the next checkpoint.
+seat. Neither paper grants passage through the next checkpoint. He understands
+three things he did not know that morning: the machine needs stopping, his
+father stays by choice, and the strip in his shirt is not a map home — it is
+the first question he gets to carry himself.
 
 ---
 

@@ -7,14 +7,14 @@
 ## Summary
 - **Chapters audited:** 10
 - **Flagged chapters:** 10
-- **Total flag instances:** 24
+- **Total flag instances:** 25
 
 | Flag | Chapters |
 |---|---|
 | TELL-NOT-SHOW | 10 |
 | NOT-X-BUT-Y | 7 |
+| STACKED-EM-DASHES | 4 |
 | ABSTRACT-DENSE | 3 |
-| STACKED-EM-DASHES | 3 |
 | ABSTRACT-OVER-BODY | 1 |
 
 ## Chapter-level detail
@@ -35,8 +35,8 @@
   - ABSTRACT-DENSE (31 abstract terms, 120 body terms)
 
 ### ## Chapter Three—The Buried Instrument
-- **Word count:** 4627
-- **Sentence count:** 607
+- **Word count:** 4654
+- **Sentence count:** 610
 - **Flags:**
   - NOT-X-BUT-Y (3 hits)
   - TELL-NOT-SHOW (11 hits)
@@ -49,15 +49,16 @@
   - TELL-NOT-SHOW (6 hits)
 
 ### ## Chapter Five—The Holding Site
-- **Word count:** 3953
-- **Sentence count:** 528
+- **Word count:** 4183
+- **Sentence count:** 556
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (1 hits)
   - TELL-NOT-SHOW (6 hits)
 
 ### ## Chapter Six—The Changing Map
-- **Word count:** 3646
-- **Sentence count:** 529
+- **Word count:** 3702
+- **Sentence count:** 532
 - **Flags:**
   - TELL-NOT-SHOW (3 hits)
 

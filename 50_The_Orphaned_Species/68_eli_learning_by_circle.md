@@ -389,7 +389,7 @@ This is *wu wei* as **conduct in a corner**, not a Book I sitting.
   partner.
 
 **Civilization (exam + maintenance).**
-- Lean Year: scarcity, hoarding, Continuity keys, private force.
+- The Hollow Year: scarcity, hoarding, Continuity keys, private force.
 - Court: access, attestation, care, who eats.
 - Institutions that breathe: worn and removed. The child is wanted, not
   indispensable.

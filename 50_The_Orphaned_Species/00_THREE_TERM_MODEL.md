@@ -98,7 +98,7 @@ If the answer to 1 and 2 is "nothing visible," the scene lacks pressure. If the 
 || **I — The Breach** | Eli's receiver activates at near-death; no Manual Override mastery yet | Orphan tether: Rasel believed dead; grief as autopilot | Pelangi Reach under Mandate squeeze; the made home as first-order attractor |
 || **II — The Descent** | Manual Override under pressure; breath, wat, threshold | Maren tether: reunion fantasy → release at Avebury | Göbekli / Albion: knowledge-side control exposed; Seven prove independent roads |
 || **III — The Compact** | War wound; forced synchronization temptation; body spent under command | Somchai's crown: gift made object of worship | Compact fractures under war pressure; Eli accepts bounded wartime command; decentralization fails in the field but proves its own necessity |
-|| **IV — The Court of Threads** | Pregnancy, labor, bodily privacy as court weapons | Rowan/Wren/Eli household recognition; chosen conception | Reconstruction of the compact after war; Lean Year scarcity; Costa Rican Turning; Eli's second relinquishment from a position of proven voluntary choice |
+|| **IV — The Court of Threads** | Pregnancy, labor, bodily privacy as court weapons | Rowan/Wren/Eli household recognition; chosen conception | Reconstruction of the compact after war; The Hollow Year scarcity; Costa Rican Turning; Eli's second relinquishment from a position of proven voluntary choice |
 
 **In character:**
 - **Eli:** his arc is learning Term 2 at all three scales. Body: Manual Override. Family: releasing the parent tether without making that release itself the next instruction. Civilization: holding the gap between communities without becoming a throne.

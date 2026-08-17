@@ -7,12 +7,12 @@
 ## Summary
 - **Chapters audited:** 13
 - **Flagged chapters:** 13
-- **Total flag instances:** 31
+- **Total flag instances:** 32
 
 | Flag | Chapters |
 |---|---|
 | STACKED-EM-DASHES | 12 |
-| TELL-NOT-SHOW | 11 |
+| TELL-NOT-SHOW | 12 |
 | NOT-X-BUT-Y | 6 |
 | ECHO-CLOSER | 1 |
 | OPEN-LIGHT-ON-BODY | 1 |
@@ -110,10 +110,11 @@
   - TELL-NOT-SHOW (7 hits)
 
 ### ## Chapter Thirteen—The Living Route
-- **Word count:** 2992
-- **Sentence count:** 412
+- **Word count:** 3066
+- **Sentence count:** 418
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
+  - TELL-NOT-SHOW (1 hits)
 
 ## Open items
 

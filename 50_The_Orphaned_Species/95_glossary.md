@@ -329,13 +329,44 @@ status, and chosen or formative bonds. Unaffiliated custodians remain outside
 the Net. Institution: `29` § The Weavers; mechanics: `40` § The Weavers' Net.
 
 **House Nacre** — a local Weaver house in the Farshore network serving the Heather/Denver
-corridor. Nacre includes all four crafts but has an unusually large Warp bench
-because it preserved protected testimony during Union containment. In Book IV
-its senior Warp seeks permanent house custody over living attestations and
-internal review of their use. Nacre's work gives it custody duties. It does not
-give the house sole authority over appeal or civic certification.
+corridor from a repaired roadside motel whose rooms open onto a common courtyard.
+Nacre includes all four crafts but has an unusually large Warp bench because it
+preserved protected testimony during Union containment. Its former ice room
+holds testimony copies; its kitchen, laundry, intake desk, and unreliable boiler
+remain shared house work. In Book IV its senior Warp seeks permanent house
+custody over living attestations and internal review of their use. Other members
+object because custody is consuming beds and night watches needed by new arrivals.
+Nacre's work gives it custody duties. It does not give the house sole authority
+over appeal or civic certification.
+
+**House Ilyara** — a western-corridor Weaver house in a former ferry hostel above
+a working chandlery. The kitchen tide board governs arrivals, meals, and bed
+turnover. Ilyara is skilled at moving injured witnesses and waiting until they
+can speak. In Book IV it protects Imogen, then prolongs concealment after she
+asks to return. **Selin** is its senior Warp; she moved from Knotter placement
+work into testimony custody after the Union raids.
+
+**Brace Yard Cloister / West Approach Cloister** — two named local cloisters in
+Book IV. Brace Yard is a constitutional
+repair-and-grief cloister beside the Denver machine yard; Malik works there and
+its elected members sometimes defeat his proposals. West Approach grew from the
+perimeter company holding the western road; its bunks, vehicle shed, and weapons
+lockers support the chapter that wants a direct oath to Eli. They are local
+institutions, not names for the constitutional and praetorian factions everywhere.
 
 **Weaver crafts (four)** — by work, not rank. **Warp:** memory, lineage, initiation, house law; threshold years and ply recognition. **Weft:** routes, corridors, movement; Weft letters (Rowan). **Knotters:** matches, placements, godparenthood (Asha). **Dyers:** plants, remedies, household science, body-care; test-and-record. No craft outranks another; Warp vs Weft = *keep vs move*. Retired names (quarry): Spinners, Menders, Selvage. On-page: *what she does*, never taxonomy. `29`; `40`.
+
+**Selin Aras** — House Ilyara's senior Warp in Book IV. She began as a Knotter
+placing children and witnesses, then moved into Warp custody during the Union
+raids. She taught Wren how a lie at a door can save a person. Her custody
+suspension follows the same skill past its consent boundary when she delays
+Imogen's chosen return.
+
+**Mina** — clinician and Dyer working with the compact in Books III–IV. Her
+clinical authority governs diagnosis and treatment. Her Dyer craft governs the
+household protocols that travel between clinics: stop conditions, field hygiene,
+dose records, and what a local house may safely repeat. Neither role grants her
+access to a patient's political or household decisions.
 
 **Unranked** — Weaver status outside house standing, inside the order's memory.
 It exists at the world's edge but does not organize the present trilogy plot and
@@ -432,6 +463,27 @@ over access. Programs combine real training and medical care with secrecy,
 dependency, controlled housing, family leverage, compulsory testing, and
 collars. Most officials, faculty, and researchers have no knowledge of the
 hidden pipeline.
+
+**Ordinary funded layer — LOCKED 2026-08-16:** most people working under a
+Charkha-funded clinic, grant, contractor, or benefits program are not lineage
+members and may do competent, necessary work. Control travels through telemetry
+conditions, custody clauses, security referrals, and threatened service cuts.
+**Devika Sen** administers the Book II holding-site seizure clinic. Charkha money
+keeps its anticonvulsants and night staff available. Her signed data-sharing
+renewal also sends Toma Baird into custody. She testifies in Book III for a
+clinic key separated from the security key and enters the resulting medication
+shortfall herself.
+
+**Captive brokerage — LOCKED 2026-08-16:** Charkha control houses supply captured
+psions to rival state programs and to particular Coalition-aligned buyers.
+Transfers use respectable covers such as medical relocation, specialist
+secondment, and prisoner exchange. A collar still answers to the broker's key.
+The buyer receives an incomplete training protocol. The Charkha may also hold a
+relative of the captive.
+Union and Mandate officers may know they received a Charkha-sourced asset
+without knowing that the same network supplies their enemy. Destruction houses
+attack some transfers and sell targeting records or anti-psion methods. There
+is no unified Coalition psion program.
 
 **Current reveal (LOCKED 2026-08-02):** unnamed in Book I—Eli sees
 Mandate/father (Rasel's son / loose ends). The Charkha wears Mandate's

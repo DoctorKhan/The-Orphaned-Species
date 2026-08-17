@@ -48,7 +48,7 @@ This is a **structural overlay**, not a draft checklist. It maps every major mis
 | Albion cloister | Men's cloister, repair crews, veterans, thread elders | Post-release relief that cannot fund itself; Somchai's crown temptation |
 | Brazilian river settlements | River-port network, clinics, growers, threshold houses | Continental fracture; Lang's persuasive offer when welcome fails |
 | Hawaiʻi compact | Eagle–Condor teaching, Awakening War | Forced synchronization; the compact tested under war pressure |
-| North American court | Women-led court, Costa Rican Turning, regional games | Lean Year collapse; anocratic remnants vs. hemispheric entitlement |
+| North American court | Women-led court, Costa Rican Turning, regional games | The Hollow Year collapse; anocratic remnants vs. hemispheric entitlement |
 
 **Prose test:** if a scene shows only the norm and no pressure, it is exposition. Add the refugee, the artifact, the refusal, the failure.
 
@@ -112,7 +112,7 @@ These beats are structurally required and currently missing from the draft.
 | T1 norm | Gap | T2 mechanism |
 |---|---|---|
 | Women-led court | Forced to turn Eagle–Condor language into unity/destiny/command | Brazilian, Costa Rican, and other participants keep the compact contingent |
-| North American court / Lean Year | Anocratic remnants, hoarding, cartels, emergency credentials | Negotiated obligations rather than hemispheric entitlement |
+| North American court / The Hollow Year | Anocratic remnants, hoarding, cartels, emergency credentials | Negotiated obligations rather than hemispheric entitlement |
 | Rowan/Wren court | Pregnancy, household, medical privacy, defense | Court weapons that do not convert care into ownership |
 | Eli's narrow cross-route authority | Functional palace accreting around him | Relinquishment coda: authority returned to the network |
 

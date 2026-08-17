@@ -17,7 +17,7 @@
 **Density parity — II–IV (new 2026-08-06; standing from `55` five delivery upgrades)**
 [ ] D. Book II ~30k → parity with I (~42k target band per volume TBD)
 [ ] E. Book III ~24k → parity
-[ ] F. Book IV ~15k → parity (highest leverage: court intrigue + Lean Year + birth + second transfer cannot fit 15k)
+[ ] F. Book IV ~15k → parity (highest leverage: court intrigue + The Hollow Year + birth + second transfer cannot fit 15k)
 
 **Climax mechanism (from `98` #1 — design done, decisions pending)**
 [ ] G. Author decisions in `41_climax_the_awakening.md`: named death, lattice density, Custodian fates, re-corruption seed, seed-pattern sensory form

@@ -802,6 +802,68 @@ of that duty while his own harbor manifest remains open
 
 ---
 
+## Devika Sen *(Charkha-funded seizure-clinic administrator; Books II–III)*
+
+**Want:** keep anticonvulsants, cooling supplies, and trained night staff
+available after the state hospitals stop accepting unregistered carriers.
+
+**Ordinary work:** runs medication rounds, staffing, laundry isolation, and
+transfer paperwork at the holding-site clinic. She is not a Custodian or a
+Charkha lineage initiate. Charkha funding kept her clinic open and required
+telemetry sharing plus security referral for selected signatures.
+
+**Book II:** Devika interrupts Anika's evidentiary hold because Hassan's next
+medication round is due and two other patients cannot reach the clinic corridor.
+She helps release care access without helping Eli remove evidence or captives.
+
+**Book III:** she testifies that the program prevented real seizure deaths. She
+also names the patient who disappeared into custody after Devika signed the
+data-sharing renewal. She asks the compact to preserve the medication supply
+while separating clinical access from security custody.
+
+**Guardrails:** competent and implicated. No secret resistance history, sudden
+conversion, absolution by testimony, or claim that useful care excuses the
+custody pipeline.
+
+---
+
+## Mina *(compact clinician; Weaver Dyer; Books III–IV)*
+
+**Want:** keep care available without letting a clinic chart become route,
+household, or political intelligence.
+
+**Two working authorities:** Mina's clinical role governs diagnosis, treatment,
+and patient records. Her Dyer craft carries anonymized stop conditions, field
+hygiene, dose and reaction records, and safe household practice between clinics
+and houses. She refuses to let either role decide residence, partnership,
+pregnancy, or civic standing.
+
+**On-page:** she leads medical through the compact and the Hollow Year, writes the
+first Five Forms stop conditions, separates Rowan's chart from the household
+protocol field, and attends Tara's birth. She complains when the clinic is empty
+and becomes harder to move when it is full.
+
+---
+
+## Selin Aras *(House Ilyara senior Warp; Book IV)*
+
+**Want:** keep living testimony out of the public custody systems that once
+classified witnesses as contraband.
+
+**Craft history:** Selin began as a Knotter placing children and witnesses. She
+moved into Warp custody during the Union raids because the people she placed
+arrived with records no public office could safely hold.
+
+**Error and cost:** she protects Imogen after an attack and continues withholding
+her after Imogen asks to return. The review suspends Selin's custody authority.
+She remains a Weaver if Ilyara accepts the judgment, but teaches no apprentices
+during suspension.
+
+**Guardrail:** her protection saved people. Its history explains her judgment
+and does not decide the appeal for Imogen.
+
+---
+
 ## Shireen *(Eli's cousin, Dhaka)*
 
 **Function:** lost-home heartbeat; one beat, not a subplot.

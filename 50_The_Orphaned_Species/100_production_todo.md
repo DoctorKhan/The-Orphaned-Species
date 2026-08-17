@@ -51,6 +51,12 @@
 > required by `32`; one repeated symbol is not enough. The historical delivery
 > must state that most foliate heads have no Charkha function, most accused
 > witches had no psionic capacity, and modern Freemasonry is separate.
+>
+> **Book II captive-broker payoff — OPEN 2026-08-16:** add the late evidence
+> scene required by `32`. Matched Union and Mandate records must carry the same
+> Charkha intake number and collar specification. Give the transferred captive a
+> name and a present consequence. Establish the state programs before revealing
+> that their Charkha suppliers serve both sides.
 > **BOOK IV ARCHITECTURE AND DRAFT — REVISED 2026-08-09, PROSE RECONCILED:**
 > The series now ends in a women-led court volume. Book III's handover is
 > real and complete for Eli himself — a genuine transfer, in one hall, under
@@ -61,7 +67,7 @@
 > everywhere. Book IV opens on the discovery of that gap, not on visible
 > wreckage: the reconstituted institutions deliberate whether to build the
 > compact out to real scale or accept permanent emergency rule.
-> stretch, then the Lean Year's converging allocation, credential, route, and trust failures lead the
+> stretch, then the Hollow Year's converging allocation, credential, route, and trust failures lead the
 > institutions to deliberately invoke a dormant continuity clause and ask Eli
 > back into bounded authority; the Weavers and men's cloisters deepen power
 > already earned in Book III. Eli and Rowan fall in love during Book III and

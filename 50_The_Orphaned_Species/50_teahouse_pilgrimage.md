@@ -36,7 +36,7 @@ They are open thresholds. A visitor may arrive, recover, drink tea, learn a base
 7. compare only what participants consent to compare;
 8. continue, remain for a cloister interval, return to an earlier house, or leave the route.
 
-Tea is both hospitality and an experimental variable. Formal sessions record species, origin, preparation, dose, caffeine and other active compounds where known, temperature, food, medication, sleep, expectation, and cultural familiarity. Control sessions may use standardized or caffeine-free preparations. Ordinary communal tea remains local and unstandardized; the record must say which kind of session occurred.
+Tea is both hospitality and an experimental variable. Formal sessions record species, origin, preparation, dose, caffeine and other active compounds where known, temperature, food, medication, sleep, expectation, and cultural familiarity. Control sessions may use standardized or caffeine-free preparations. Ordinary communal tea remains local and unstandardized; the record must say which kind of session occurred. A record without consequences is paperwork, not science: if a participant leaves harmed, a teacher exposed as abusive, or a house found concealing adverse events, the record names who is answerable and what access or mandate changes.
 
 ## Health and recovery measurements — LOCKED
 
@@ -68,7 +68,13 @@ The network makes consciousness research systematic without pretending the subje
 - Randomize and blind exposure conditions when the site permits it.
 - Seal first-person reports before participants compare accounts.
 - Record null results, contradictions, protocol deviations, and adverse events.
+  A null result is not silence: it closes or revises an offer, changes who may
+  access a site, and may require a clinician or researcher to disclose what they
+  previously published or promised.
 - Separate a shared external event from physiological entrainment, suggestion, copied testimony, false memory, group conformity, site effects, and genuinely unavailable information.
+  Corrected attribution changes standing and access: a teacher who claimed
+  responsibility for a group effect loses that authority, and a house that
+  published the original claim may have to retract or revise.
 - Replicate across houses with independent teams and different instruments.
 - Follow participants after departure; delayed harm and delayed benefit count.
 - Publish methods, uncertainty, corrections, and failures alongside positive findings.

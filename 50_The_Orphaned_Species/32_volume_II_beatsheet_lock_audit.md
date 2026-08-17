@@ -5,8 +5,8 @@
 > Treat as canonical until the next structural revision.
 
 ## Source sizes
-- `/Users/khan/Projects/The-Orphaned-Species/50_The_Orphaned_Species/32_volume_II_beatsheet.md` = **126,171 bytes / 715 lines**
-- `/Users/khan/Projects/The-Orphaned-Species/50_The_Orphaned_Species/manuscripts/II_The_Descent.md` = **228,389 bytes / 8,179 lines**
+- `/Users/khan/Projects/The-Orphaned-Species/50_The_Orphaned_Species/32_volume_II_beatsheet.md` = **130,080 bytes / 745 lines**
+- `/Users/khan/Projects/The-Orphaned-Species/50_The_Orphaned_Species/manuscripts/II_The_Descent.md` = **231,794 bytes / 8,231 lines**
 
 ## Mandated-beat coverage
 

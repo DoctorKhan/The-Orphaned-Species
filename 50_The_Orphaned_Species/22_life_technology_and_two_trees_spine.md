@@ -352,7 +352,7 @@ Each volume must advance **both** rails and move the Trees from **split → touc
 **Life beats (minimum):**
 
 - the Costa Rican grown corridor *does work on-page*: cools a road, holds a slope, feeds a kitchen, warns a dry-season number, refuses an admission the court wanted;
-- Lean Year eruption: one stretch of ash, light, and watersheds answering *before* the forecast fight (`60`);
+- The Hollow Year eruption: one stretch of ash, light, and watersheds answering *before* the forecast fight (`60`);
 - Heather Cube ground still behaves — a spring, a planting that will not die, or Courage-field vertigo the pilgrims came for (`60`);
 - Cherry journey as song vocabulary, already locked (`68`);
 - a keeper or carrier's direct read of a hidden reserve, felt before it is audited (`60` § *Two Trees / dual-verification*);

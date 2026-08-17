@@ -107,6 +107,18 @@ it, the institutions built around it, and what people do. Skeptics must not be
 made foolish merely for asking for proof, and advocates receive no moral
 authority from being factually correct.
 
+**Science must have dramatic consequences — LOCKED 2026-08-16:** psionic science
+is not an author-side assurance. Every test, record, and published claim must
+cost a particular person something visible. A null result must close a clinic,
+ruin an authority, free a suspect, or force Eli to abandon a theory. A fraudulent
+practitioner must be exposed in a way that costs followers, patients, or a sponsor
+something real. A contaminated experiment must produce mistaken attribution that
+forces a perimeter revision, and that revision must change what a named person
+is allowed to do, where they can go, or what they can claim. Failed predictions
+must land on the person who made them — loss of standing, access, or mandate —
+not merely on a dashboard. If a scientific advance changes the world, the first
+scene after the result must show that change in someone's hands, not in a thesis.
+
 **Cast guard for multi-incarnation:** Eli/Wren may open V (Bridge) as the same people later
 in life. Across incarnations they are **not** an eternal destined couple — that
 would convert present-tense choice into cosmic ownership and undo I–IV. Later
@@ -198,7 +210,7 @@ delivery spine: `22` § *Technology teaches meaning*; orchestra/V–X: `62`.
 | # | Title | File | Chapters | Words (approx.) | Notes |
 |---|---|---|---|---|---|
 | **I** | The Breach | `50_The_Orphaned_Species/manuscripts/I_The_Breach.md` | 1–13 | ~42,000 | Eli finds evidence that Rasel is alive and crosses the living route to reach him. At Sanxingdui, Rasel chooses to stay. Eli must leave without the father he came to recover. · **Object:** Cherry Cube · **Status: OPEN; expansion incomplete** |
-| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | 1–10 | ~38,000 | Searching for his mother, Eli uncovers an ancient conspiracy. The first Charkha houses grew out of families attached to early chariot cultures around 2000 BCE. Their descendants now route psions from universities and clinics into controlled government programs. Their trail leads him through Mesopotamia, Göbekli, and Europe's stone grounds to Maren at Albion. He gives up the extra time both of them want so she can leave as a person rather than remain a usable signal. · **Object:** Albion Shaft · **Status: OPEN; expansion incomplete** |
+| **II** | The Descent | `50_The_Orphaned_Species/manuscripts/II_The_Descent.md` | 1–10 | ~38,000 | Searching for his mother, Eli uncovers an ancient conspiracy. The first Charkha houses grew out of families attached to early chariot cultures around 2000 BCE. Their descendants capture psions and sell them to each major faction in the modern conflict. Their trail leads him through Mesopotamia, Göbekli, and Europe's stone grounds to Maren at Albion. He gives up the extra time both of them want so she can leave as a person rather than remain a usable signal. · **Object:** Albion Shaft · **Status: OPEN; expansion incomplete** |
 | **III** | The Compact | `50_The_Orphaned_Species/manuscripts/III_The_Compact.md` | 1–10 | ~34,000 | War makes Eli useful enough to become dangerous. He accepts command and sends named people into fights they may not survive. He and Rowan fall in love but refuse sexual or domestic access while his office can distort consent. Eli rejects Sol's forced unity and signs away his authority while the attack is still live. · **Object:** Living Root · **Status: OPEN; expansion incomplete** |
 | **IV** | The Court of Threads | `50_The_Orphaned_Species/manuscripts/IV_The_Court_of_Threads.md` | 1–10 | ~30,000 | A food and transport crisis pulls Eli back into command as he and Rowan decide whether to try for a child. Wren, Rowan, and Eli must build a family while the court tries to turn pregnancy into succession and rank the three adults around it. Wren's fear of displacement makes her cause harm she must repair. During Rowan's labor, Eli completes the transfer that lets him remain a father without remaining the ruler. · **Object:** Thread Loom · **Status: OPEN; expansion incomplete** |
 
@@ -262,7 +274,7 @@ The split tried to even volume lengths and give Thailand its own title identity.
 ## For future sessions (human or AI)
 
 - **Book I** includes the Thailand agricultural-witness sequence and Sanxingdui climax (Ch 4–13). Do not treat those as a separate volume.
-- **Book II** = Descent: searching for Maren, Eli traces the Charkha from early chariot houses to controlled government psion programs. He reaches Maren and releases her rather than keeping her as a signal. Wren and Rowan decide what their returning bond permits.
+- **Book II** = Descent: searching for Maren, Eli traces the Charkha from early chariot houses to a trade supplying captured psions to opposing factions. He reaches Maren and releases her rather than keeping her as a signal. Wren and Rowan decide what their returning bond permits.
 - **Book III** = Compact: Eli accepts wartime command and falls in love with Rowan. They acknowledge it but refuse sexual or domestic access until he signs away his authority.
 - **Book IV** = Court of Threads: scarcity recalls Eli to command while he and Rowan try to have a child; Wren, Rowan, and Eli build a family as rival factions try to turn the pregnancy into succession.
 - **Books V–X** = Lifetime Orchestra — **count LOCKED +6** (V founders/infancy → three past lives → IX young generation → Ω). Titles/cards open. Sanxingdui is not an era novel. `62_lifetime_orchestra.md`.

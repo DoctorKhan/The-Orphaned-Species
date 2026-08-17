@@ -375,7 +375,7 @@ category, not personal freedom to reject intimacy or household membership.
 **Male demography / Paraguay rhyme — LOCKED 2026-07-30:** No Paraguay-scale male
 wipeout before Book I (would elevate survivors as scarce prizes and break Extra
 logic). Pre-I = Extra surplus via sorting. Book III war begins true male scarcity.
-Book IV Lean Year = war losses become publicly undeniable and dangerous convoy,
+Book IV The Hollow Year = war losses become publicly undeniable and dangerous convoy,
 repair, and long-route service deepen them; the imbalance accumulates rather
 than arriving through a single Book IV slaughter.
 Cloisters do not become obsolete: **Extra era → keep men from being nothing;

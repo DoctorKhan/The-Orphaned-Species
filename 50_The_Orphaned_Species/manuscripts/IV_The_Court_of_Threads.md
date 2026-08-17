@@ -4,7 +4,7 @@
 > perspectives, principally Wren and Rowan, in close third present. Eli is
 > experienced primarily from outside as ruler, lover, symbol, and prospective
 > father. The volume opens seven months into a **successful** decentralized
-> settlement, then the **Lean Year** exposes its most convenient hub: a
+> settlement, then the **The Hollow Year** exposes its most convenient hub: a
 > fictional North Pacific eruption meets low reserves, export holds, rival
 > forecasts, hoarding, dormant Continuity credentials, private force, and
 > opportunistic seizures across routes, supply, medicine, water, crops,
@@ -318,6 +318,16 @@ captains agree to sail anyway and triple their price.
 The food still exists.
 
 The road to it has begun charging admission.
+
+The assembly's first forensic pass on the closure models names the office that
+issued the revised forecast. The revision was routed through a Continuity desk
+that kept a hidden reserve of the same grain class. The desk had no standing to
+reallocate; its authority had expired under the compact's certification rule the
+week before. The board revokes its route-access credential and suspends its
+officer from allocation decisions until an independent team reconstructs the
+audit trail. The officer is not named in the public record. The people waiting
+for grain know only that the forecast that redirected the *Tern* was written by
+a hand that no longer holds a pen.
 
 ---
 
@@ -936,18 +946,28 @@ They react as Asha predicted.
 
 ---
 
-House Ilyara argues that living attestation cannot be evaluated by officials
-who do not understand relational truth.
+House Ilyara joins from the kitchen of the old ferry hostel. The tide board
+behind its delegate still carries arrival times, room assignments, and the name
+of the person cooking after midnight. A hammer strikes metal through the floor.
+Ilyara argues that living attestation cannot be evaluated by officials who do
+not understand relational truth.
 
 House Nacre kept testimony in its Denver rooms through Union containment. Its
-senior Warp argues that no man from the cloisters should see protected
-household testimony.
+video opens on the motel courtyard before the privacy filter narrows. Six doors
+face the weather. Laundry crosses two railings. The former ice room is now the
+archive, and the boiler alarm sounds twice during the call. Its senior Warp
+argues that no man from the cloisters should see protected household testimony.
 
 "No form opens a house file," Asha says. "The witness still chooses who reviews
 it."
 
 Three quieter houses support audit because they have spent years under senior
 Weavers whose kindness could not be appealed.
+
+A Nacre member asks whether records held for civic certification still count
+against the house bed limit. Four rooms are occupied by custody work while two
+new arrivals are sleeping beside the laundry machines. The senior Warp says
+the question belongs to the next agenda.
 
 Wren's former house sends Asha fruit and no vote.
 
@@ -1020,7 +1040,24 @@ Asha watches from the hospital bed.
 
 ---
 
-The Lean Year inquiry works from claims.
+The Hollow Year inquiry works from claims.
+
+The first claim arrived on a Tuesday, written in a hand that shook so hard the ink
+ran into the paper grain. A mother in the northern warehouse district reported
+that her youngest woke at dawn with the same heat that had taken the neighbor
+child three nights before. By Friday, the clinic on Pine Street had stopped
+counting beds and started counting bodies. The disease moved faster than the
+allocation calendar. It entered through water that had stood too long in
+repurposed tanks, through grain that had fermented in damp holds, through the
+breath of people who had been sleeping ten to a room since the export holds
+began. The symptoms were not subtle: a fever that climbed before noon, a rash
+that mapped the lymph nodes in red, vomiting that did not stop until there was
+nothing left to expel but blood. The dead were taken to the corridor outside
+Mina's clinic because the morgue had filled on the first day. The living
+avoided the corridor, then avoided the block, then avoided the street. The
+city did not empty because people left. It emptied because people stayed inside
+and waited. The shortage was already true before the first corpse. The disease
+made it honest.
 
 No claim explains the whole.
 
@@ -2344,6 +2381,15 @@ Mina refuses.
 
 Mina names six systems.
 
+"Which one reaches the Dyers?" Rowan asks.
+
+"None. If the pregnancy produces a repeatable stop condition, the condition
+travels without your name. Your chart stays here."
+
+Mina turns the clinic screen so Rowan can see the blank household-protocol
+field. It contains dose, reaction, and when to stop. The patient line does not
+exist.
+
 Rowan closes her eyes.
 
 There is no medical care without information.
@@ -2889,7 +2935,7 @@ Desire remains desire even when pregnancy becomes possible.
 
 ---
 
-The Lean Year inquiry finds the delays in the same week.
+The Hollow Year inquiry finds the delays in the same week.
 
 Henley's office preserved the cipher because uncertainty kept continuity authority
 inside his institution.
@@ -2915,9 +2961,13 @@ It also prolonged Eli.
 
 "Who authorized it?" Wren asks.
 
-The custody record names a senior Weaver:
+The custody record names a senior Warp:
 
 Selin Aras.
+
+She began as a Knotter. After the Union raids, she moved into Warp work because
+the people she placed kept arriving with records no public office could safely
+hold.
 
 She was among the first people to teach Wren that a correct placement sometimes
 requires a lie at the door. The silence she keeps before answering is not the
@@ -2972,9 +3022,9 @@ witness."
 
 Selin is in her seventies and still carries the quiet authority of someone who
 has placed thousands of people without once describing herself as powerful. She
-taught Wren how to use ordinary rooms against predatory systems. She also taught
-three generations of Weavers that external review could not understand the
-ethics of protection.
+taught Wren how to use ordinary rooms against predatory systems. As a Warp, she
+also taught three generations of Weavers that external review could not
+understand the ethics of protection.
 
 Asha opens the custody record.
 
@@ -3806,6 +3856,11 @@ He reports the breach.
 
 The words transform escape into audit.
 
+Two days later, the guard asks Rowan to attend his review. She declines. He
+records the refusal, surrenders residence duty, and returns the following week
+carrying clinic linen under another supervisor. His Bear teacher records the
+return and leaves the completion field empty.
+
 Eli reaches them in the courtyard.
 
 He sees Rowan outside security and goes white.
@@ -3946,7 +4001,7 @@ Eli traces each connection himself, not because he doubts her but because the
 review requires two people to certify every finding.
 
 The seized channel appears in the Union routing log under a code Henley's office
-preserved. The simulation was run by Northstar security before the Lean Year
+preserved. The simulation was run by Northstar security before the Hollow Year
 allocation vote. The vehicle's door seal matches a depot vehicle in the
 southern corridor.
 
@@ -4033,7 +4088,7 @@ law without consenting to symbolize any of them.
 
 ## Chapter Seven—The Two Houses
 
-The first regional games of the Lean Year are held in a freight yard because
+The first regional games of the Hollow Year are held in a freight yard because
 the stadium roof belongs to the clinic now.
 
 Nobody proposes postponement.
@@ -4093,6 +4148,11 @@ She gives the clapper to a girl in a West Slope shirt. West Slope has no yard
 and no team. The girl restores the old answer, badly at first. Both stands have
 to listen to follow her.
 
+At Brace Yard the day before, she practiced stepping out of a moving line and
+finding a safe way back. Salmon. Her teacher stands at the track edge and does
+not call to her. After the heat, she carries the clapper back to West Slope and
+makes her own stand learn the restored answer before she sits down.
+
 North Harbor wins the heat by four tenths.
 
 Their last runner, Tala Mirov, reaches the beam already behind. Halfway across,
@@ -4127,7 +4187,8 @@ then to whoever committed it.
 
 That distinction lasts until anger finds a shorter word.
 
-A cloister captain walks the Pelangi edge with red cords looped over his wrist.
+A captain from West Approach Cloister walks the Pelangi edge with red cords
+looped over his wrist.
 He tells the runners that people who train together should defend
 together. He says the court lets gifted bodies steal from ordinary ones and
 then asks ordinary bodies to guard the peace.
@@ -4195,6 +4256,10 @@ The captain looks toward Eli's distant security detail, making the refusal a
 test of loyalty.
 
 Malik takes the remaining cords and drops them into a wash bucket.
+
+Two Brace Yard members carry the bucket away before anybody can turn it into a
+relic. Malik starts to object. One reminds him that the yard voted down his
+proposal to keep seized recruitment marks as evidence. He lets go.
 
 The captain shoves him.
 
@@ -4281,7 +4346,8 @@ table. Three pending appeals require route verification. The north harbor
 credential channel is dirty. Her eyes are reading words she has seen twelve
 times before and seeing them for the first time.
 
-The form goes to House Ilyara instead of House Weaver.
+The form goes to House Ilyara instead of the independent threshold house named
+in the appeal.
 
 It is caught by a Weaver apprentice named Del who is sorting inbound attestations
 by jurisdiction because the sorting algorithm crashed at midnight. Del has not
@@ -4298,7 +4364,14 @@ existing exception list.
 
 "Fix it," Wren says.
 
-"I did. The copy is already in the right bin."
+"I moved the clean copy. I still exposed the first one to Ilyara."
+
+Del calls the hostel desk. She names the error, waits while the wrong copy is
+deleted, and asks the Ilyara worker to read back the deletion receipt. Her Fox
+teacher is eating at the far end of the table. The teacher does not intervene.
+
+Only after the receipt arrives does Del put the corrected form in the right
+bin.
 
 Wren stares.
 
@@ -4309,7 +4382,8 @@ Wren stares.
 Eli walks past with a cup of tea. He sees the two versions on the table. He
 sees the correction stamp. He says nothing. He does not need to. The system
 caught the error without him. Wren writes a note to the apprentice's supervisor
-recommending Del for route verification duty.
+recommending Del for route verification duty. She cites the retraction and
+receipt. She does not ask for Del's form record.
 
 She does not sleep after. She goes back to the appeals. The next error is
 caught by a cloister chapter that answers to a household Wren has never heard
@@ -4360,10 +4434,12 @@ Rain and bad acoustics for everyone.
 
 ---
 
-The constitutional cloisters request formal control over remobilization appeal,
-veteran care, perimeter rotation, and repair labor standards.
+Brace Yard brings the constitutional request for formal control over
+remobilization appeal, veteran care, perimeter rotation, and repair labor
+standards. Its delegation smells of machine soap because the morning prosthetic
+fitting ran late and nobody changed clothes for court.
 
-The praetorian chapters request more.
+West Approach and the other praetorian chapters request more.
 
 Permanent defense standing.
 
@@ -4602,7 +4678,7 @@ The child moves under Rowan's hand while the filing transmits.
 
 ---
 
-The Lean Year inquiry issues its layered findings.
+The Hollow Year inquiry issues its layered findings.
 
 Minister Henley's office preserved credentials to retain an emergency grain
 path outside compact control and redirected the *Tern* toward a survival-roster
@@ -4632,9 +4708,9 @@ The court demands one name.
 
 The inquiry returns six findings.
 
-Henley faces adjudication for credential concealment.
+Henley's office receives adjudication for credential concealment. The officer who signed the revised forecast loses route-access credentials and is suspended from allocation review until an independent audit reconstructs the chain. His name does not appear in the public finding; the clerks who answer the shortage line know only that the forecast they acted on was written by a hand that no longer holds a pen.
 
-Sol-linked actors face conduct charges.
+A Sol-linked claimant who read a carrier's warning as license to bypass review is stripped of the review seat they occupied. The carrier whose warning was used is withdrawn from public access until a mixed team can determine whether the misattribution was fraud, contamination, or honest mistake. Both names stay in the sealed record, not the public one.
 
 Northstar assets freeze where jurisdiction reaches.
 
@@ -4664,7 +4740,7 @@ Two public test handovers before the binding vote.
 Automatic end of Eli's continuity role upon certification.
 
 No emergency extension available for pregnancy, household threat, public
-acclamation, or unresolved Lean Year liability.
+acclamation, or unresolved The Hollow Year liability.
 
 The praetorian cloisters reject the calendar.
 
@@ -5453,7 +5529,9 @@ The statement produces exactly the crisis it tries to prevent.
 
 Novak convenes the dynasty coalition.
 
-Praetorian cloisters move toward the assembly.
+West Approach empties its vehicle shed toward the assembly. Two mechanics stay
+behind with the ambulances because the chapter never agreed whether the medical
+keys belong to its oath. Other praetorian cloisters move with it.
 
 Senior Weaver houses request custody of the final living attestations until the
 birth status is clear.
@@ -5503,6 +5581,10 @@ The west doors open.
 
 Praetorian chapters enter without firearms visible. Their commanders carry
 personal oaths naming Eli.
+
+West Approach has left the rifles in its lockers and brought the locker keys.
+Its commander places them on the delegate table as proof of restraint and as a
+warning that he can take them back.
 
 The symbolism is force.
 
@@ -5981,7 +6063,9 @@ Rowan's water before Rowan threw it back up. Through the door Eli loses the
 count. Rowan corrects him.
 
 Nacre's senior Warp fills the top half of the slate. Her room is quiet. Two
-women sit behind her with their faces blurred by house privacy.
+women sit behind her with their faces blurred by house privacy. Beyond them,
+someone opens the motel laundry and calls that room four needs clean bedding
+before the north coach arrives.
 
 "Release to the review body," Wren says.
 
@@ -6001,6 +6085,8 @@ edge of a green scarf before the picture corrects itself.
 "Does she consent to this call?" Wren asks.
 
 The senior Warp looks toward the woman. The channel mutes.
+
+The laundry door remains open behind the frozen privacy screen.
 
 Inside the birth room Rowan makes a sound Wren has not heard from her before.
 Wren's hand finds the door latch.
@@ -6375,8 +6461,9 @@ Selin teaches no apprentices while her custody suspension remains.
 
 Asha chairs nothing permanently and complains this creates excessive meetings.
 
-Malik runs a repair-and-grief house whose members vote down his defense proposal
-twice.
+Malik works at Brace Yard Cloister, where the repair benches open before the
+meeting room and the grief meal happens whether the council finishes voting or
+not. Its members vote down his defense proposal twice.
 
 The institutions survived Eli by becoming capable of irritating everybody
 without him.
@@ -6569,6 +6656,11 @@ Two trained in repair, one in seed care, one in field medicine. The youngest
 knows the answering part of every work-song and none of the verses in the right
 order. They carry borrowed tools, Rasel's rejected seeds, three route
 attestations, and enough food to reach the next kitchen.
+
+At that kitchen, the youngest tries to carry the tool roll through the meal.
+One apprentice takes the heavy end. Another clears a dry place beneath the work
+bench. They set it down before they eat. The Ox teacher traveling with them does
+not sign anything.
 
 Their parents call them a crew. The cloister calls them apprentices. They have
 not agreed what they are.

@@ -126,7 +126,7 @@ Route: Albion exit → Atlantic → Brazilian lower-river network → Hawaiʻi �
 | Site / beat | Activates | Bible bite | Partial truth | Hold |
 |---|---|---|---|---|
 | Working settlement (7 months in) | Missing delegate; key-not-person | Successful Life polity under test | Something can still break it | — |
-| Lean Year / continuity clause | Second bounded crown | Temporary authority ≠ throne | Ask-back answers interregional allocation failure, not destiny | Permanent messiah |
+| The Hollow Year / continuity clause | Second bounded crown | Temporary authority ≠ throne | Ask-back answers interregional allocation failure, not destiny | Permanent messiah |
 | Court / household | Pregnancy, access, attestation | No emergency role or family bond hardens into inherited status | Women-led power already earned | Sex-caste restoration |
 | Birth / final transfer | Child inherits no title | Cycle-break in miniature | Relinquishment is the point | Books V–VI metaphysics |
 

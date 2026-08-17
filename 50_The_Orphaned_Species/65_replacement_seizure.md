@@ -78,7 +78,7 @@ They have not vanished as classes.
 
 | Layer | What a body meets |
 |---|---|
-| **Food and water** | Markets, rice, fish, terrace cooking, salt in wells, monsoon fights, desal that runs because someone can swap a pump. Hungry weeks exist. Planetary famine as a single event does not. Book IV's Lean Year is a civilian face of the same seizure, already locked in `60`. |
+| **Food and water** | Markets, rice, fish, terrace cooking, salt in wells, monsoon fights, desal that runs because someone can swap a pump. Hungry weeks exist. Planetary famine as a single event does not. Book IV's The Hollow Year is a civilian face of the same seizure, already locked in `60`. |
 | **Movement** | Scooters, bicycles, diesel trucks, river boats, sail, a few nursed aircraft on cannibalized parts. New car and jet fleets do not refresh. A working crane is a named object. |
 | **Repair culture** | Welding, sewing, diesel mechanics, printed frames, pulled motors, dead battery packs treated as inventory (`66`). Eli's facilities work is the civic version of this layer. |
 | **Medicine** | Sutures, antibiotics, older vaccine platforms, Somchai's clinic bags, a hoarded scanner that goes down for months. Licensing is the other bottleneck (`DECISIONS_Economic_Worldbuilding.md`). |
@@ -230,7 +230,7 @@ and it cannot restock a magnet line.
 | **I** | Denied parts, patched dog, Stack theater, one working crane, scooter pursuit | Patrol birds and race-night ceremony. Counted, then gone. |
 | **II** | Corridor break, Albion repair, instrumented thresholds that still have power | National psion hunt rides remaining sensors |
 | **III** | Magazine war, depot holds, Ma's competing budget, exposed doorways after the sky thins | Keep the assault. Make the reader feel the count. |
-| **IV** | Lean Year as civilian seizure; court fights over who inherits scarce men and scarce parts | Custody of the afterlives: files, birds, bodies |
+| **IV** | The Hollow Year as civilian seizure; court fights over who inherits scarce men and scarce parts | Custody of the afterlives: files, birds, bodies |
 | **V** | Same stack, next generation treating salvage as normal | Do not invent a robotics boom |
 | **VI–IX** | Chariot / plague / god-broadcast as older faces of magazine, bio, psi | Palace workshops already knew this bill |
 | **X** | Creation question | Leave the seizure as the civic world's last machine fact |
@@ -283,4 +283,4 @@ and it cannot restock a magnet line.
 | Mandate fabrication / field-sail budget | `51_field_sail_and_mandate_peace.md` |
 | Labor export / credential mismatch | `DECISIONS_Economic_Worldbuilding.md` |
 | K-shaped quay recovery | `WORLD_BIBLE.md` § *Timeline* ~2040+ |
-| Lean Year civilian face | `60_volume_IV_court_of_threads.md` |
+| The Hollow Year civilian face | `60_volume_IV_court_of_threads.md` |
