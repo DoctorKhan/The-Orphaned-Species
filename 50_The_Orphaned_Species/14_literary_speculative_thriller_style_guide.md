@@ -357,6 +357,37 @@ The three published layers should not share one voice:
 
 Keep companion and Record explanation out of the novel.
 
+## Voice-profile register lock — LOCKED 2026-08-17
+
+The series does not use one blended voice. Use **section-type routing**:
+pick the profile that matches the story layer, or leave it on **Hybrid**.
+Hybrid is not a blended mush — it is a selector:
+
+- **Deep-time / cosmology / Anunnaki sections** → McCarthy
+- **Safehouse / psionic biology / control-system prose** → Le Guin
+- **Historical thriller / Phase VI–X / present-day Eli** → Mantel
+
+This matches the locked structure. Books I–IV never touch the deep ancestral tier, so they default to McCarthy or Mantel depending on the scene. Book V and the companion volumes are where the cosmology register opens up and Le Guin comes in.
+
+Why this beats a single hybrid voice:
+
+A single hybrid would flatten the contrast between, say, a 300 kya Anunnaki scene and a present-day Eli clinic scene. The registers should feel different because they are different — different times, different bodies, different stakes. This lock enforces that difference through measurable constraints, not vibes.
+
+How it fits with existing craft gates:
+
+Voice is a constraint layer on top of craft, not a substitute. The "no abstraction without a body" rule still applies in every profile; each profile just adds its own signature moves on top of that shared floor.
+
+For a long series, that matters. You can blind-test passages against the target author profiles and score them. If McCarthy sections drift toward generic literary prose, the verifier catches it. If Mantel sections lose their dialogue/thought rhythm, it catches that too. It is not theoretical — it is a measurable gate that scales across multiple volumes.
+
+**Practical workflow for drafts:**
+
+1. Draft the scene.
+2. Run prose-cadence-audit (craft gates).
+3. Run `verify_voice.py <profile> <file>` (voice gates).
+4. If either fails, revise. Do not save until both pass.
+
+That makes voice consistent across a multi-volume series without hand-waving.
+
 ## Prose craft and revision discipline
 
 **Construction before subtraction — LOCKED 2026-08-11.** Read Beauty, desire, and dramatic multiplicity and Lyricism and imagery above before running a scene through the cut-lists below. Those two sections say what to attempt. This heading says what to cut after you attempted it. A pass that only runs the checklists will give you correct prose with nothing in it.
