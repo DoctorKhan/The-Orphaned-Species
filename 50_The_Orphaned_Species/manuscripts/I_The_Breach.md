@@ -132,7 +132,7 @@ Kiran is still at the end of the dock, watching. Not at Suresh, not at the sheet
 
 Suresh crouches to coil the loose sheet. His thumb finds the frayed end. He runs it along the cut once. "That's not chew," he says. "That's not salt-rot either."
 
-He holds the frayed end up to the harbor light and runs his thumbnail along the clean edge. Harbor chew is ragged. Salt-rot is fuzzy. Then he turns it so Eli can see.
+He holds the frayed end up to the harbor light and runs his thumbnail along the clean edge. Eli has seen enough rope to know what is missing. He turns it so Eli can see.
 
 "Look at that."
 
@@ -150,7 +150,11 @@ Babaji runs the old hotel. He was Rasel's friend—how Eli's name ever reached a
 
 Suresh coils the skiff's painter at the rail. Eli goes up toward the towers—storm wall, tackle shed, the low waterfront the towers rose behind. He is not crew. Not one of the harbor men.
 
-Coconut palms lean over the storm wall where the developers never finished the shade plan; their fronds clatter like dry paper in the noon wind. Between the tackle shed and Mei's terrace a frangipani has forced itself through cracked paving—white flowers sticky underfoot, sweet enough to make the diesel smell worse. Bougainvillea climbs the unfinished balcony rails in magenta fists nobody waters. Near the tackle shed a royal information kiosk still plays its loop to nobody—sun-bleached render of finished glass towers and smiling robot staff that were promised and never came, six seconds looping behind a cracked screen protector some kid scratched his name into years ago. The half-built resort hums around him—laundry, generators, Mei's terrace already cooking. He sleeps in a tower room on Mei's chit circle when he sleeps indoors, not a wage he can send anywhere. The ninth-floor garden was Rasel's—kept for Babaji before the night both parents went on the file as dead. Now it is the only thing on the island that belongs to Eli without a keeper's signature. He tends it by day. At night he sometimes sleeps on the bench beside the row. He has not decided whether that is love or a failure to let go. He blames himself for the morning they did not come back—not because he did anything wrong, but because the room where he woke was the same room he had fallen asleep in, and the only difference was that they were gone. The plants do not ask him to forgive. They only need water.
+Coconut palms lean over the storm wall where the developers never finished the shade plan; their fronds clatter like dry paper in the noon wind. Between the tackle shed and Mei's terrace a frangipani has forced itself through cracked paving—white flowers sticky underfoot, sweet enough to make the diesel smell worse. Bougainvillea climbs the unfinished balcony rails in magenta fists nobody waters. Near the tackle shed a royal information kiosk still plays its loop to nobody—sun-bleached render of finished glass towers and smiling robot staff that were promised and never came, six seconds looping behind a cracked screen protector some kid scratched his name into years ago. The half-built resort hums around him—laundry, generators, Mei's terrace already cooking.
+
+He sleeps in a tower room on Mei's chit circle when he sleeps indoors, not a wage he can send anywhere. The ninth-floor garden was Rasel's—kept for Babaji before the night both parents went on the file as dead. Now it is the only thing on the island that belongs to Eli without a keeper's signature. He tends it by day. At night he sometimes sleeps on the bench beside the row.
+
+He has not decided whether that is love or a failure to let go. He blames himself for the morning they did not come back—not because he did anything wrong, but because the room where he woke was the same room he had fallen asleep in, and the only difference was that they were gone. The plants do not ask him to forgive. They only need water.
 
 He takes the service stairs because the lift smells like wet carpet and regret. On the landing he washes his hands at the slop sink until the morning's salt is gone, then doesn't—his father always said clean hands lie about soil.
 

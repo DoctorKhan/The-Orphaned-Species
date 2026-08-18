@@ -52,6 +52,14 @@ BOOKS = [
 # ---------------------------------------------------------------------------
 
 NOT_X_BUT_Y = re.compile(r"\bnot\b[^.\n]{0,30}\bbut\b", re.IGNORECASE)
+SUMMARY_OPEN = re.compile(
+    r"^\s*This\s+(?:morning|afternoon|evening|night|week)[^.\n]{0,80}\b(?:has|had)\s+(?:\w+\s+){0,2}\w+(?:ed|en)\b[^.\n]{0,60}[^.\n]*?\b(?:but|before|without|only)\b",
+    re.IGNORECASE | re.MULTILINE,
+)
+TENSE_SWITCH_SUMMARY = re.compile(
+    r"^\s*This\s+(?:morning|afternoon|evening|night|week)[^.\n]{0,120}\b(?:before|after)[^.\n]{0,60}\b(?:knew|realized|understood|saw|felt|learned|found|seen|known|felt)\b",
+    re.IGNORECASE | re.MULTILINE,
+)
 TIDY_COMPARISON = re.compile(r"(?:the way|like)[^.\n]{0,40}(?:the way|like)", re.IGNORECASE)
 STACKED_EM_DASHES = re.compile(r"[^.!?\n]*—[^.!?\n]*—[^.!?\n]*")
 COLON_HEAVY = re.compile(r":[^:\n]{0,40}:[^:\n]{0,40}:")
@@ -175,6 +183,10 @@ def audit_chapter(title: str, body: str, lines: list[str]) -> dict:
     if not_x_but_y:
         flags.append(f"NOT-X-BUT-Y ({len(not_x_but_y)} hits)")
 
+    summary_opens = SUMMARY_OPEN.findall(text)
+    if summary_opens:
+        flags.append(f"SUMMARY-OPEN ({len(summary_opens)} hits)")
+
     tidy_comparisons = TIDY_COMPARISON.findall(text)
     if tidy_comparisons:
         flags.append(f"TIDY-COMPARISON ({len(tidy_comparisons)} hits)")
@@ -227,6 +239,19 @@ def audit_chapter(title: str, body: str, lines: list[str]) -> dict:
         if stripped.startswith("#") or stripped.startswith(">") or stripped.startswith("---") or re.match(r"^\*\*[A-Z]", stripped):
             continue
         prose_paras.append(stripped)
+
+    summary_opens = []
+    for p in prose_paras:
+        sentences = re.split(r"(?<=[.!?])\s+", p.strip())
+        for sentence in sentences[:3]:
+            if SUMMARY_OPEN.search(sentence):
+                summary_opens.append(sentence)
+                break
+            if TENSE_SWITCH_SUMMARY.search(sentence):
+                summary_opens.append(sentence)
+                break
+    if summary_opens:
+        flags.append(f"SUMMARY-OPEN ({len(summary_opens)} hits)")
 
     para_word_counts = [len(p.split()) for p in prose_paras]
 

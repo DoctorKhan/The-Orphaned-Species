@@ -17,21 +17,21 @@
 | NOT-X-BUT-Y | 6 |
 | TIDY-COMPARISON | 3 |
 | ECHO-CLOSER | 2 |
-| LONG-PARAGRAPH | 1 |
+| SUMMARY-OPEN | 1 |
 | OPEN-LIGHT-ON-BODY | 1 |
 
 ## Chapter-level detail
 
 ### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5527
-- **Sentence count:** 490
+- **Word count:** 5529
+- **Sentence count:** 489
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
   - STACKED-EM-DASHES (7 hits)
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (15 hits)
+  - SUMMARY-OPEN (1 hits)
   - SHORT-PARA-RUN (4 run(s) of 3+ short paragraphs)
-  - LONG-PARAGRAPH (1 paragraph(s) over 250 words)
 
 ### ## Chapter Two—His Hand
 - **Word count:** 10482

@@ -126,9 +126,10 @@ When writing or revising a chapter, open these. Everything else is reference.
 | `69_self_formation_and_altitude.md` | STAGED | Sensation / charge / emotion / identification. Its middle/seat/field mapping is locked 2026-08-16. Name the seat in V. |
 | `32_volume_II_beatsheet.md` | STAGED | Book II current cards plus marked retired material; manuscript governs scenes. |
 | `33_volume_III_beatsheet.md` | OPEN | Book III. Wonder floor 2026-08-16. |
-| `34_volume_IV_beatsheet.md` | OPEN | Book IV chapter cards. Collision with `34_two_energies_and_planes.md`; `60` governs architecture. |
-| `60_volume_IV_court_of_threads.md` | LOCKED | Book IV architecture. Heather city: Denver / Front Range foothill Cube. |
-| `41_climax_the_awakening.md` | LOCKED | Book II climax mechanism (Maren release). |
+|| `34_volume_IV_beatsheet.md` | OPEN | Book IV chapter cards. Collision with `34_two_energies_and_planes.md`; `60` governs architecture. |
+|| `35_relationship_family_career_addendum.md` | OPEN | Mechanical on-page tests for romance/family/career/identity across Vol I–IV. |
+|| `60_volume_IV_court_of_threads.md` | LOCKED | Book IV architecture. Heather city: Denver / Front Range foothill Cube. |
+|| `41_climax_the_awakening.md` | LOCKED | Book II climax mechanism (Maren release). |
 | `58_sanxingdui_climax_lock.md` | LOCKED | Authoritative Book I climax and Book II Rasel-absent relocation. |
 | `59_younger_dryas_nucleation_lock.md` | LOCKED | YD craft / cube-ground physics. |
 | `30_beatsheet_ch09_adapa.md` | STAGED | Superseded source. Salvage only. |

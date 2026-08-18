@@ -501,7 +501,11 @@ The existing rule above against "not X but Y" is necessary but not sufficient �
 
 Patterns 1, 2, 5, and 6 are mechanically searchable during revision: scan drafts for comma chains of four or more items, for runs of three or more short declarative sentences enumerating parallel items (the period-chain and comma/period-mixed forms of pattern 2), for "not because" / "not X, but," for sentences running long enough to need a second breath, and for each word on the pattern-6 list by name. Patterns 3 and 4 need an actual read-through, not a search.
 
-**Frequency ceiling:** no more than one or two hits of any single flagged construction per chapter. Search the whole file (`This is what`, `That is the point`, `not X but`, `There is only`) instead of judging each line alone. A structure reused across a scene (inventory, then a short tag) counts as a repeat even when the words change.
+**Frequency ceiling:** no more than one or two hits of any single flagged construction per chapter. Search the whole file (`This is what`, `That is the point`, `not X but`, `There is only`, `This morning Eli has taken...`) instead of judging each line alone. A structure reused across a scene (inventory, then a short tag) counts as a repeat even when the words change.
+
+7. **Summary-sentence stubs.** Sentences built around a time marker plus a single perfect-progressive verb phrase—*This morning Eli has taken...*, *By Friday she had become...*, *That night the room had grown...*—often function as conceptual scene labels rather than observed action. Flag them when they compress character decision, setting, or information into a bare clause without a body, object, or sensory response attached.
+
+Patterns 1, 2, 5, 6, and 7 are mechanically searchable during revision: scan drafts for comma chains of four or more items, for runs of three or more short declarative sentences enumerating parallel items (the period-chain and comma/period-mixed forms of pattern 2), for "not because" / "not X, but," for sentences running long enough to need a second breath, for each word on the pattern-6 list by name, and for summary-sentence stubs built around a time marker and perfect-progressive verb. Patterns 3 and 4 need an actual read-through, not a search.
 
 ### Human-prose lock — LOCKED 2026-08-01
 
