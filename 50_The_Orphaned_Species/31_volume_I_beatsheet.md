@@ -155,7 +155,35 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 | 12 | **Qiao Wen**; Mandate program officer | Hold borrowed four-hour access to a model cadence |
 || 13 | **Anika** (staff cadence); **Rasel** (the ask) | Force a master rhythm before civilians leave the gate |
 
-> **Character voice — LOCKED 2026-08-16:** No character sounds as though they have read the project bible. Eli misreads Wren: when she enforces intake safety, he hears a rule about trust; she is holding the door closed until the room is safe. Wren enforces the same rule partly because she remembers being the one left off a manifest and wants Eli to see her keep it. Somchai has no registry vocabulary; he describes what he knows through bodies—heat, weight, breath, scar—until Eli supplies the words.
+> **Character voice — LOCKED 2026-08-16:** No character sounds as though they have read the project bible. Eli misreads Wren: when she enforces intake safety, he hears a rule about trust; she is holding the door closed until the room is safe. Wren enforces the same rule partly because she remembers being the one left off a manifest and wants Eli to see her keep it. Somchai has no registry vocabulary; he describes what he knows through bodies—heat, weight, breath, scar—until Eli supplies the word.
+
+> **RELATIONSHIP / FAMILY / CAREER / IDENTITY — LOCKED 2026-08-17:** These
+> mechanical tests supplement the locked voice and trust rules above. No new
+> plot is invented here; each test names a concrete on-page requirement the
+> existing locked cards already imply but do not yet enforce.
+>
+> 1. **Wren must earn trust bodily before Eli is allowed to interpret it as
+>    logistics.** In any Wren/Eli scene, name one thing she wants from him
+>    before either names what she wants from the route. If both wants route
+>    through the job, the bond is expedient, not load-bearing.
+> 2. **Worker identity is the first career beat; every scene with route/repair
+>    must have sensory cost.** If logistics can be handed unchanged to another
+>    character, revise.
+> 3. **Mei's kitchen is the first family unit; losing it must have a specific
+>    named cost.** At least two per major beat: meals, table talk, reminders
+>    that nobody has to explain.
+> 4. **Wren's escort needs one missed plan or mismatched desire before either
+>    names it.** A cancelled watch, a skipped meal, a joke that lands for one
+>    and not the other. If the only friction is pursuit, revise.
+> 5. **Romance cost must move up or down on the page.** Track trust/obligation/
+>    boundary change per significant Eli/Wren scene. No static warmth.
+> 6. **Registry/Charkha pressure must land on a specific body, not a category.**
+>    If the cost is "workers" or "carriers," make it a named person.
+> 7. **POV lock: Eli trunk; Wren/Somchai away scenes pass the switch test.** A
+>    Wren or Somchai scene must change what Eli can do next; if removing it
+>    only removes texture, cut.
+>
+> Full argument and prose tests: `35_relationship_family_career_addendum.md`.
 
 ## Vol I opening — LOCKED
 

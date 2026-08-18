@@ -34,8 +34,8 @@
   - LONG-PARAGRAPH (1 paragraph(s) over 250 words)
 
 ### ## Chapter Two—His Hand
-- **Word count:** 10498
-- **Sentence count:** 914
+- **Word count:** 10482
+- **Sentence count:** 912
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - TELL-NOT-SHOW (43 hits)

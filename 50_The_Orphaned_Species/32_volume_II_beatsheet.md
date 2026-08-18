@@ -28,6 +28,36 @@
 
 > **Character voice — LOCKED 2026-08-16:** No character sounds as though they have read the project bible. Eli misreads Rowan: when she says a completed route is not a returned person, he hears logistics; she means a person is not cargo with a tracking number. Wren enforces a specific intake rule partly because she remembers being the one left off a manifest and wants Eli to see her keep it—partly selfish, partly right. Somchai has no registry or politics vocabulary; he describes what he understands through bodies—weight, heat, breath, scar, pulse—until Eli supplies the terms.
 
+> **RELATIONSHIP / FAMILY / CAREER / IDENTITY — LOCKED 2026-08-17:** These
+> mechanical tests supplement the locked voice, release, and consent rules above.
+> No new plot is invented here; each test names a concrete on-page requirement
+> the existing locked cards already imply but do not yet enforce.
+>
+> 1. **Wren/Rowan wants must route through each other directly.** In any
+>    Wren/Rowan scene, name one thing each wants from the other before either
+>    names what she wants from Eli. If both wants route through Eli, the bond
+>    is costumed, not load-bearing.
+> 2. **Maren's release must remain bodily, not abstract.** Before release, show
+>    at least one named person paying a material cost: a clinic referral, a
+>    standing loss, a door that stays open for one more person. If release
+>    costs only "time" or "love," revise.
+> 3. **Charkha/registry pressure must land on a specific body, not a category.**
+>    If the cost is "psions" or "workers," make it a named person.
+> 4. **Wren's recovery arc needs one return that does not put her back where
+>    she started.** She must want something Eli cannot give her—a route, a
+>    person, a place—not just his approval.
+> 5. **Career/identity decisions must collide with family/love decisions in the
+>    same scene.** At least once in this volume, the command choice is also the
+>    choice about whom Eli will let close.
+> 6. **Romance cost must move up or down on the page.** Track trust/obligation/
+>    boundary change per significant Eli/Wren or Wren/Rowan scene. No static
+>    warmth.
+> 7. **POV lock: Eli trunk; Wren/Somchai away scenes pass the switch test.** A
+>    Wren or Somchai scene must change what Eli can do next; if removing it
+>    only removes texture, cut.
+>
+> Full argument and prose tests: `35_relationship_family_career_addendum.md`.
+
 > **Unthematic beat — LOCKED 2026-08-16:** every chapter also contains one stretch a thesis annotator cannot file as Circle / orphan / cage without cheating — a meal, a stupid complaint, a repair, a nap, a joke that does not mean Two Trees. If you can write the theme in the margin, rewrite the beat. `31` § same.
 
 | Ch | Unthematic stretch on-page |

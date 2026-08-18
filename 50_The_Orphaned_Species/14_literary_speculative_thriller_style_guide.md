@@ -179,6 +179,20 @@ A recurring image has to change job. Ring, garden, breath, and the clap/count se
 
 **Test:** if you can delete a lyrical sentence and lose only decoration, delete it.
 
+### Tagore–Eliot translation and rhythm lock — LOCKED 2026-08-17
+
+Tagore’s English prose-poetry and Eliot’s modernist fragmentation are useful mirrors for this series’ prose failures.
+
+**Tagore’s lesson — restraint in translation:**
+Tagore’s Bengali originals rely on dense associative imagery. Weak English translations substitute abstraction for that density. The series rule: when a passage wants spiritual or emotional weight, keep one concrete body-anchored image and stop. Do not add the abstraction the image was standing in for. The reader reaches the feeling faster than prose can name it.
+
+**Eliot’s lesson — objective correlative and register collision:**
+Eliot’s power comes from precise physical details that carry emotion without announcing it, and from registers colliding rather than blending. The series rule: a visionary or high-pressure passage should place one exact bodily or material fact next to a different register — domestic, procedural, bureaucratic. The collision generates the weight; do not smooth it into uniform lyricism.
+
+**On-page test:**
+- If the passage reads like a poem title without a body, it is missing the concrete anchor. Cut to one image.
+- If the passage reads like a doctrine memo rewritten in elevated diction, it is missing the collision. Insert the physical fact the character is holding, seeing, or stepping over.
+
 ## Setting and atmosphere
 
 Location must change what characters can hear, hide, afford, carry, eat, believe, or escape.

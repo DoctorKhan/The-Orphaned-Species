@@ -74,7 +74,7 @@ Then it moves wrong.
 
 An old woman kneels underwater at the bottom of the sea—Timah, the harvesters call her, though she answers to nothing shouted from the surface. She holds a curved knife, cutting sea-grape stems into a net bag at her belt, the dark green clusters the old-island kitchens pickle and the Reclamation hotels pretend they invented. A boy drops from the bright surface, pushes off her back hard enough to send himself spiraling up through the bubbles—Jul, surfacing wherever the game takes him, with no more sense of the morning than his grandmother has. Their harvest boat has drifted off its anchor, marker floats swinging into the exact lane Eli chose an hour ago and has been running every day since. Old-island work if you know how to see it: shallow draft, patched where salt ate the paint, a plastic jug of fresh water lashed where a tourist would put a cooler. Timah reaches for a line she cannot see anything moving toward her through.
 
-"Clear the mark!" someone screams from the wall. Eli cannot tell, from here, whether it means Timah or him.
+"Clear the mark!" someone screams from the wall. Eli cannot tell from here whether it means Timah or him.
 
 The sheet jerks wrong against his fist in the same breath—give where there should be none, cordage answering slack instead of load. He doesn't look down; looking costs time, and his palm already knows what his eyes would only confirm. A strand gone. Then a second, fraying faster than plain age has any right to.
 
@@ -333,8 +333,6 @@ When he sees her staring at nothing between two gates later, Eli slips away from
 ---
 
 ## Chapter Two—His Hand
-
-The checkpoints start before Singapore is a skyline. They do not stop when the skyline arrives.
 
 Suresh throttles down at the Johor shallows where a quarantine line strings the channel: floats, a screening pier, a grey cutter idling with its number painted out. A processing tender works the boat ahead. The ferry is running half-full, passengers filed one by one through an arch, slow, each made to pause on a painted mark. Suresh is a man who knows every checkpoint on this strait by the angle of its light.
 
