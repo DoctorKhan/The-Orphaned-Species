@@ -270,7 +270,9 @@ At first light he takes his tool roll downstairs and finishes Mei's cable.
 
 ---
 
-Saturday, first light. The old hotel sits red under the dirt two blocks from the marina—half boarded, half laundry, marble sills gone grey under a decade of salt. Authorities have been asking at the desk all week. Babaji is not at the desk.
+Saturday, first light. The old hotel sits red under the dirt two blocks from the marina—half boarded, half laundry, marble sills gone grey under a decade of salt. The upper windows are the only ones on the block with glass that does not crack when you look at it. Authorities have been asking at the desk all week. Babaji is not at the desk.
+
+Eli is still carrying Mei's terrace in his chest—the taste of kecap manis, the photograph face-down on the table, the heat that leaked out of his neck while he ate. He presses his palm flat against the stair rail and the hotel smells like wet carpet and the same regret Mei's kitchen had at dusk.
 
 In the lobby a patched robot dog lies folded near a dead fountain, waiting on a route nobody has run in years, and an automatic chess board finishes the same captured opening against no one, pieces sliding their rails under glass gone cloudy at the corners. Eli has walked past both since he was small enough to think they were magic. He still isn't sure they aren't. He has been inside this building five times in his life, and never without Rasel.
 
@@ -278,7 +280,7 @@ A young woman waits at the foot of the stair, dark hair drawn into a sleek knot,
 
 "You're Rasel's boy." She smiles and waits, as if he might object. "If you'd come up, please. Babaji is waiting."
 
-Eli climbs behind her, past floors built for someone's honeymoon and now boarded, laundered, or lived in by four quiet men and a kettle.
+Eli climbs behind her, past floors built for someone's honeymoon and now boarded, laundered, or lived in by four quiet men and a kettle. The stairwell smells of mildew and old soap and the salt that eats everything here. Half the landings are dark. A door hangs off one hinge and bares a room with mattresses stacked like cargo. Then the stairs turn and the air changes—no mildew, no salt bloom, just hot water and varnish, as if someone drew a line in the building and told the rot to stop. The carpet under his boots is not the lobby's bald concrete. The handrail is metal, not rusted iron. The landing is not boarded.
 
 Babaji sits by a window with the drapes half-drawn, automatic chess paused mid-game on a cheap magnetic set—the pieces Rasel hated and bought anyway because Eli kept losing them over the rail. He does not stand.
 
@@ -288,7 +290,7 @@ She scans it on a tablet and signs before Eli's fingers close on the paper. Baba
 
 Eli watches the blank space where Khan should sit. He said nothing about it last night either.
 
-A floorboard creaks in the stairwell. Babaji's head tilts toward it once, then back to Eli. "I run south before they walk the offices. You run on Suresh's hull the same hour—Saturday, last light. Different vessels. Don't miss your window watching mine."
+A floorboard creaks in the stairwell.
 
 Wren slides a call sheet across, the worker lane and Sunday marshalling already underlined in blue, twice. "You'll want the worker lane, not the other one," she says, unhurried, the way she might confirm a dinner reservation. "Freight call is Sunday—yards first, race after. I'll be with you as far as Singapore. Ask me now if you're going to ask at all, though you can always ask again at the gate." She lets him read it before she adds, still without looking up, "If the Circuit boxes you, there is a hold under the Cube that rides the same trucks. Do not go looking for it. The other lane goes through full clearance. If your file flags, they don't send you back to the boat. Your corridor credential freezes. Your clinic intake goes dark. They send you to a room where nobody asks which band you came with."
 
@@ -318,21 +320,23 @@ At the pier he is already moving—Mei's service cable, junction after junction,
 
 ---
 
-Saturday, last light. The marina gate takes his stamp on the second try. Nobody explains the first. Then Suresh is casting off before Eli has both feet planted, and Pelangi is already behind them.
+Saturday, last light. The marina gate takes his stamp on the second try. Nobody explains the first. Then Suresh is casting off before Eli has both feet planted, and Pelangi is behind them.
 
-Behind them, white coats and royal police move on Babaji's offices in a column—side door first, then the mezzanine, then the laundry entrance Wren used that morning. A portable brain scanner comes out on a trolley like ordinary furniture. Men in hotel livery are walked to the pier with their hands visible. Past the last channel marker, Babaji's catamaran already runs its lights, twin hulls white against the dark, dark glass giving back nothing but sky. It clears the strait mouth before Suresh's hull clears the seawall, and nobody moves to stop it. The terrace lights he looks for across the water are already gone. The road after his parents left is still blank. He wants it to open with a hunger that makes the Singapore cash feel obscene—distance from the only place that remembers them whole.
+By then the afternoon has compressed into gray. Wren spends the hours between first light and last light moving Eli through quiet corridors he would not have found alone—a bathhouse where she buys him clean clothes and a scrub that takes the salt and the rope burn off his skin, a laundered room above a chandler's shop where she tapes his ankle and tells him to keep moving when he mentions the flag from the arch, a kitchen where the cook asks no questions and feeds them both before they walk to the gate. The bathhouse is steam and wet tile and a worker's clock ticking on the wall. The kitchen smells of limes and diesel and the same burnt-plastic sweetness that will be in the Continue Inn elevator six hours later. She does not explain why she is buying time. She does not have to. Eli thinks she is not used to having to.
 
 Suresh presses a folded paper into Eli's palm at the rail—chandlery, old town, ask once—and keeps his eyes on the channel markers. "It's okay," he says, quiet, not looking at him. "There are always times like this. Just stay moving until the air comes back somewhere." He turns the boat into the Johor channel and does not look back, because looking back is a thing that gets noticed.
 
 Wren puts her hand on his forearm, just long enough for him to feel the fabric, then lets go. She does not tell him he is fine. She does not have to.
 
-"There's still an arch ahead," she says. "At each door, please follow my lead."
+Behind them, white coats and royal police move on Babaji's offices in a column—side door first, then the mezzanine, then the laundry entrance Wren used that morning. A portable brain scanner comes out on a trolley like ordinary furniture. Men in hotel livery are walked to the pier with their hands visible. Past the last channel marker, Babaji's catamaran already runs its lights, twin hulls white against the dark, dark glass giving back nothing but sky. It clears the strait mouth before Suresh's hull clears the seawall, and nobody moves to stop it. The terrace lights he looks for across the water are already gone. The road after his parents left is still blank. He wants it to open with a hunger that makes the Singapore cash feel obscene—distance from the only place that remembers them whole.
+
+"There's still an arch ahead," Wren says, at the rail, before they step onto the tender. "At each door, please follow my lead."
 
 She pauses, then adds, quieter: "And for God's sake don't stare at the gantry like it owes you a conversation. You got through. That's enough for one door."
 
 It is the first sharp thing she has said to him. It is also the first thing that sounds like someone who has been holding her breath all day. She says it without looking at him, and she does not say it again.
 
-When he sees her staring at nothing between two gates later, Eli slips away from the queue and comes back with a paper cup in a white napkin—cupcake, pandan cream, the flavor she ate twice at Babaji's table the night before and did not think he noticed. He does not make a thing of it. He just hands it to her and says, "Line moved slower than I expected." She takes it. She eats it while they walk. She does not thank him. She does not have to. The hand she puts on his shoulder before the next checkpoint is brief, directional—the weight of someone marking a route, not a person.
+When he sees her staring at nothing between two gates later, Eli slips away from the queue and comes back with a paper cup in a white napkin—cupcake, pandan cream, the flavor she ate twice at Babaji's table and did not think he noticed. He does not make a thing of it. He just hands it to her and says, "Line moved slower than I expected." She takes it. She eats it while they walk. She does not thank him. She does not have to. The hand she puts on his shoulder before the next checkpoint is brief, directional—the weight of someone marking a route, not a person.
 
 ---
 
@@ -1023,7 +1027,7 @@ down on the rail before Eli can see the sender. Whatever it is, it will keep.
 
 The platform morning is work before it is departure. Eli hauls rice sacks until his shoulders remember Singapore crates and then forget them. The keeper woman strings drying fish between mangrove posts; the nephew of nobody in particular sharpens a knife on a stone and hums off-key. Wren mends a tear in a tarp with the same face she uses for manifests. Nobody asks Eli who his mother is. Nobody offers him a destiny. A monitor lizard claims the sunny end of a plank and will not move for freight, which is how Eli learns the platform's true hierarchy.
 
-At midmorning a longtail brings a woman with a baby and a sealed bag of medicines. Wren checks the bag, signs something, and does not explain. The woman looks at Eli's hands once—the way Pak Din will later—and decides he is not her problem. She leaves a packet of roasted peanuts on the rail for whoever needs salt. Eli eats three and saves the rest without knowing for whom.
+At midmorning a longtail brings a woman with a baby and a sealed bag of medicines. Wren checks the bag, signs something, and does not explain. The woman looks at Eli's hands once, the same look Pak Din will use, and decides he is not her problem. She leaves a packet of roasted peanuts on the rail for whoever needs salt. Eli eats three and saves the rest without knowing for whom.
 
 "You're staring at the water like it owes you a parent," Wren says, not unkindly.
 
@@ -1055,13 +1059,13 @@ She lays the route out for him. All of it. Not the operational minimum—the who
 
 Pak Din, coiling line, raises an eyebrow at his nephew. "Since when does the ferrywoman ask the cargo?"
 
-"Since now," Wren says—soft, final—and goes forward, and that is the end of the discussion and, though Eli cannot know it, the beginning of a constitution.
+"Since now," Wren says, soft and final, and goes forward, and that is the end of the discussion and, though Eli cannot know it, the beginning of a constitution.
 
 ---
 
 The sea does its old work.
 
-They run the coast in the dark hours and anchor behind islands in the light ones. Eli discovers that a boat is good for him the way the junction box was good for him: bounded work, one rope at a time, the engine's rhythm underneath everything like a patient teacher. The noise is always there now—the world's second surface, the far mutter—but aft, over the engine, with his palms full of rope, it stands behind the sound and waits, and he can live in front of it.
+They run the coast in the dark hours and anchor behind islands in the light ones. Eli discovers that a boat is good for him the way the junction box was good for him—bounded work, one rope at a time, the engine's rhythm underneath everything like a patient teacher. The noise is always there now: the world's second surface, the far mutter. Aft, over the engine, with his palms full of rope, it stands behind the sound and waits, and he can live in front of it.
 
 By day the islands smell of mud and something flowering he cannot name until Pak Din does—*chempaka*, temple flower, the white kind that drops into the water and turns the tide sweet for an hour. Casuarina stands in windbreaks along the low beaches, needles singing like radio static. Mangrove knees hold the mud where the channels braid; monitor lizards drop from the roots when the boat's wake finds them. A jackfruit hangs so low over one kampung landing that the nephew ducks it by habit and laughs when Eli does not. Inland, banana groves climb the first hills in disordered green stairs; a flame tree at a mosque compound burns orange against the haze, and for one held breath Eli mistakes it for fire until the petals prove otherwise.
 
@@ -1132,7 +1136,7 @@ also local women entitled to say no to a Knotter from another house.
 
 The valley opens. Somewhere up one of its brown channels, a field is growing wrong in a way that will change everything, but that is tomorrow's freight.
 
-The boat goes in with the tide. Eli steps onto the landing mud with his bag and one decision already made: he is done chasing water today. Not because the Custodians have won. Because the field he felt from the rail has a gravity he does not yet have words for, and chasing it while his head is full of chase will only turn it into another instrument. He does not say this. He just stands there, weight on both feet, and lets Wren read his refusal to run before the first local even speaks.
+The boat goes in with the tide. Eli steps onto the landing mud with his bag and one decision already made: he is done chasing water today. Not because the Custodians have won. Because the field he felt from the rail has a gravity he does not yet have words for, and chasing it while his head is full of chase will only turn it into another instrument. He stands there, weight on both feet, and lets Wren read his refusal to run before the first local even speaks.
 
 ---
 

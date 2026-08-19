@@ -23,8 +23,8 @@
 ## Chapter-level detail
 
 ### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5556
-- **Sentence count:** 490
+- **Word count:** 5735
+- **Sentence count:** 494
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
   - STACKED-EM-DASHES (7 hits)
@@ -53,11 +53,11 @@
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Four—The Passage
-- **Word count:** 1987
+- **Word count:** 1985
 - **Sentence count:** 176
 - **Flags:**
-  - STACKED-EM-DASHES (3 hits)
-  - TELL-NOT-SHOW (2 hits)
+  - STACKED-EM-DASHES (1 hits)
+  - TELL-NOT-SHOW (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Five—The Field That Counts
