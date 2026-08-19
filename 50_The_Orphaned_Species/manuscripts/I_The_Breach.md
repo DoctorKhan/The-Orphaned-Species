@@ -272,7 +272,7 @@ At first light he takes his tool roll downstairs and finishes Mei's cable.
 
 Saturday, first light. The old hotel sits red under the dirt two blocks from the marina—half boarded, half laundry, marble sills gone grey under a decade of salt. Authorities have been asking at the desk all week. Babaji is not at the desk.
 
-In the lobby a patched robot dog lies folded near a dead fountain, waiting on a route nobody has run in years, and an automatic chess board finishes the same captured opening against no one, pieces sliding their rails under glass gone cloudy at the corners. Eli has walked past both since he was small enough to think they were magic. He still isn't sure they aren't.
+In the lobby a patched robot dog lies folded near a dead fountain, waiting on a route nobody has run in years, and an automatic chess board finishes the same captured opening against no one, pieces sliding their rails under glass gone cloudy at the corners. Eli has walked past both since he was small enough to think they were magic. He still isn't sure they aren't. He has been inside this building five times in his life, and never without Rasel.
 
 A young woman waits at the foot of the stair, dark hair drawn into a sleek knot, linen that reads host not harbor. She is beautiful enough that Eli notices the salt dried white on his own shirt. She holds his gaze as she makes room for him with one smooth step, fingers light on the banister. She does not offer her hand.
 
@@ -324,7 +324,7 @@ Behind them, white coats and royal police move on Babaji's offices in a column�
 
 Suresh presses a folded paper into Eli's palm at the rail—chandlery, old town, ask once—and keeps his eyes on the channel markers. "It's okay," he says, quiet, not looking at him. "There are always times like this. Just stay moving until the air comes back somewhere." He turns the boat into the Johor channel and does not look back, because looking back is a thing that gets noticed.
 
-Wren puts her hand on his forearm and leaves it there. She does not tell him he is fine. She does not have to.
+Wren puts her hand on his forearm, just long enough for him to feel the fabric, then lets go. She does not tell him he is fine. She does not have to.
 
 "There's still an arch ahead," she says. "At each door, please follow my lead."
 
@@ -332,7 +332,7 @@ She pauses, then adds, quieter: "And for God's sake don't stare at the gantry li
 
 It is the first sharp thing she has said to him. It is also the first thing that sounds like someone who has been holding her breath all day. She says it without looking at him, and she does not say it again.
 
-When he sees her staring at nothing between two gates later, Eli slips away from the queue and comes back with a paper cup in a white napkin—cupcake, pandan cream, the flavor she ate twice at Babaji's table the night before and did not think he noticed. He does not make a thing of it. He just hands it to her and says, "Line moved slower than I expected." She takes it. She eats it while they walk. She does not thank him. She does not have to. The hand she puts on his shoulder before the next checkpoint is lighter than it was at the gantry.
+When he sees her staring at nothing between two gates later, Eli slips away from the queue and comes back with a paper cup in a white napkin—cupcake, pandan cream, the flavor she ate twice at Babaji's table the night before and did not think he noticed. He does not make a thing of it. He just hands it to her and says, "Line moved slower than I expected." She takes it. She eats it while they walk. She does not thank him. She does not have to. The hand she puts on his shoulder before the next checkpoint is brief, directional—the weight of someone marking a route, not a person.
 
 ---
 
@@ -340,7 +340,7 @@ When he sees her staring at nothing between two gates later, Eli slips away from
 
 Suresh throttles down at the Johor shallows where a quarantine line strings the channel: floats, a screening pier, a grey cutter idling with its number painted out. A processing tender works the boat ahead. The ferry is running half-full, passengers filed one by one through an arch, slow, each made to pause on a painted mark. Suresh is a man who knows every checkpoint on this strait by the angle of its light.
 
-Wren's jaw stays level. Eli counts the arches: one, then a second feeding into it, the same lists from the Pelangi marina wall six hours ago, printed on cleaner paper. Wren is a woman who has learned to keep her face when the list gets longer.
+Wren's jaw stays level. Eli counts the arches: one, then a second feeding into it, the same lists from the Pelangi marina wall six hours ago, printed on cleaner paper. Wren is a woman who has learned to keep her face when the list gets longer. He counts the queues the same way—coconuts, at first, then hulls, then fence wires—because that is what his hands know, and the count keeps running past the number his island ever put in one place. The checkpoint is not a door. It is a factory for doors, and he is only one item in it.
 
 His mother made him name the fear before they left a harbor. Not to banish it. To place it. That is the pier. That is the line. That is the man with the list. Since Mei's terrace the habit has come back doubled. He does it now without moving his lips. Each name carries Maren behind it. Walking out with her bag. Gone after. The way a tune you can't stop humming sits under every other thought. His mother is a woman who knew the body keeps score even when the mind does not.
 
@@ -358,11 +358,11 @@ The officer is a person who does not repeat instructions.
 
 Wren touches Eli's sleeve once. Permission, not comfort. They go together. "I know," he says. She does not touch unless she means to stay.
 
-"Hold my breath," Eli says, not asking.
+"Count with me," she says. "Out on the mark, in on the gate."
 
-"Until I say," she says, and means it. Wren knows his body better than he does.
+He nods. He has no method yet, only his mother's: two fingers below the collarbone, one breath out through the teeth.
 
-The arch is smaller than dread made it and worse. One person at a time on the painted mark while the gantry leans in overhead, sensors adjusting with soft insect patience, a light deciding. A grandmother ahead of him passes with her bags. A young man with port shoulders is turned aside by a gloved hand on the sternum, not rough, worse than rough, routine, and walked to the pen where the tablets are. The machine is the kind that does not change its mind once it has made a category. Eli thinks categories are the only thing the machine understands.
+The arch is just a painted mark on wet stone, a gantry leaning in overhead, sensors adjusting with soft insect patience. A grandmother ahead of him passes with her bags. A young man with port shoulders is turned aside by a gloved hand on the sternum, not rough, worse than rough, routine, and walked to the pen where the tablets are. The machine is the kind that does not change its mind once it has made a category. Eli thinks categories are the only thing the machine understands.
 
 Eli steps onto the mark. Wren stays behind the line. Whatever she knows, she can't hand it to him here. One body at a time is the whole point of the arch. He is a man who has never been good at waiting for the door to open. The gantry leans in. His palms prickle once and then hard, the wrong way, toward the machine, the young man's fate reaching across the pen for him. He has no method yet, only his mother's: two fingers below the collarbone, one breath out through the teeth. Stand behind the hands. It is not enough and it is all he owns. He puts his attention on cable runs, on crimps that hold, on nothing that lights, and holds it there while the gantry decides whether he is a thing it recognizes. His mother is a woman who taught him that the body is the first line of defense against a system that does not know your name.
 
@@ -811,11 +811,11 @@ He pulls.
 
 The river does the remembering for him.
 
-He pulls the oar when the woman says pull and ships it when she says stop. Between the two commands there is nothing in him but noise—the world arriving with a second surface under it, every light doubled, every sound wearing another sound underneath like heat shimmer made of voices. His hands are the worst. His hands feel like radios left on between stations.
+He pulls the oar when the woman says pull and ships it when she says stop. Between the two commands there is nothing in him but noise—the world arriving with a second surface under it, every light doubled, every sound wearing another sound underneath like heat shimmer made of voices. The hands are the worst. They feel like radios left on between stations.
 
 The woman stands at the tiller, counting the dark water. She takes them under the tail of the night market on the prop-wash side where the eddies cover a small wake, kills the engine to drift past a moored police tender, and speaks exactly twice in an hour: *pull* and *stop*.
 
-The courier woman came over the quay wall as the boots arrived, and she sits in the bow now with her cap gone—short dark hair gone slick with river water—and her bag held against her chest like a rib she is keeping from floating away. She has not said anything either. She watches the banks. She watches them the way a person watches work.
+The courier woman came over the quay wall as the boots arrived, and she sits in the bow now with her cap gone—short dark hair gone slick with river water—and her bag pressed to her chest the way you hold something you don't want the water to take. She has not said anything either. She watches the banks. She watches them the way a person watches work.
 
 Where the river gives up being a river and becomes mangrove and mud, a fish platform stands off the channel on old hardwood stilts—nets on frames, a lamp turned low, a ladder greasy with use. A Weaver threshold knot, though no one says the word aloud on the water. The woman brings the boat alongside it without touching the piles.
 
@@ -842,8 +842,7 @@ answer if this brings white coats."
 
 "Mine," the courier says.
 
-That is all the negotiation. No master route opens. No hidden fleet arrives. A
-woman recognizes another woman's standing and risks one platform for one night.
+That is all the negotiation. The platform keeper nods once, already moving. No master route opens. No hidden fleet arrives. One woman risks one platform for one night because another woman recognized her standing.
 
 The courier crouches at a plastic tub and removes Eli's placement sleeve. Her own
 attestation sits at the bottom: real work, real signature, real responsibility.
@@ -905,7 +904,7 @@ The correspondence opens one index and no more. Six page numbers point into file
 
 *A name is the first path others give you. It need not be the last path you walk.*
 
-Eli reads it twice. It is not an answer about where she went. It is the pressure of her mind against a page: orderly, hopeful, capable of hiding a door inside a family of words. Seven damaged images prove the work existed. They do not tell him whether the hand that made it is gone.
+Eli reads it twice. It is not an answer about where she went. The margin presses against his eyes the way a hand presses against glass: orderly, hopeful, and already hiding a door inside a family of words. Seven damaged images prove the work existed. They do not tell him whether the hand that made it is gone.
 
 Eli writes **provisional** beside it because somebody has to distrust the answer
 and no expert has arrived to do that for him. One page, not the book, not every
@@ -913,10 +912,7 @@ claim.
 
 ---
 
-From beside the drying wardrobe jacket she lifts the cloth-wrapped weight the size of a sandwich
-—the same cold shape that rode against Eli's ribs through the Cube, the Circuit, and the water—
-and sets it between them. Babaji's note is clipped to the cloth; she did not put it there. The case
-came with it: **different tray; source disputed; carry, do not conclude.**
+From beside the drying wardrobe jacket she lifts the cloth-wrapped weight the size of a sandwich and sets it between them. It is the same cold shape that rode against Eli's ribs through the Cube, the Circuit, and the water. Babaji's note is clipped to the cloth; she did not put it there. The case came with it: **different tray; source disputed; carry, do not conclude.**
 
 "You already carried it," she says, not looking at him. "I'm only making sure you know what
 you carried. And that you don't make a religion out of clay before breakfast."
@@ -931,14 +927,7 @@ Eli's palms lean toward it the way they leaned toward the breach noise—the sam
 it. Don't promote yourself to expert because it resembles the thing you saw while
 you were drowning."
 
-Eli turns the tablet once. The clay is cool. The middle ring sits between the
-center and the outer—thicker than the rest, as if the carver knew the weak place—
-not the throne, not the edge, the place where damage and care both travel if
-anything travels at all. He thinks of his father's band in an evidence tray, two
-metals, one seam, *same soil*, and does not say it. He wraps the tablet again.
-Contested. Heavy. Real enough to carry. Whatever the rings meant when they were
-cut, the city he left and the city that drowned him both still sort people as if
-someone had already decided which circle owned which body.
+Eli turns the tablet once. The clay is cool. The middle ring sits between the center and the outer, thicker than the rest, as if the carver knew the weak place: not the throne, not the edge, the place where damage and care both travel if anything travels at all. He thinks of his father's band in an evidence tray, two metals, one seam, *same soil*, and does not say it. He wraps the tablet again. Contested. Heavy. Real enough to carry. He tucks it into the bag Salmah gave him before the debt can change its mind.
 
 ---
 

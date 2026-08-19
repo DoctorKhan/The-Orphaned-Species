@@ -339,6 +339,8 @@ Psionic conflict is intimate first. Render breath, pressure, attention, involunt
 
 Internal steal from Brandon Sanderson's lectures. Do not imitate his prose. Do not put him on first-contact copy (`55`).
 
+**Hierarchy:** plot clarity and mechanics transparency govern first. Sentence-level compression governs second. Register routing governs third. Sanderson = scene/volume shape and magic-system transparency. Hemingway/Dickinson = sentence-level load discipline. McCarthy/Mantel/Le Guin = register by story layer. Windowpane means the reader never has to reread a sentence to reconstruct the action, rule, or stake. It does not require uniform plainness across registers. If prose is opaque, it fails regardless of how clean the sentences are.
+
 **Billed power.** A talent may finish a scene only if the reader has already watched it work or fail. New geometry on the last page is a cheat. Limitations and costs do more work than a new ability: breath, consent, metabolic crash, a fax, a form, a missed Friday. Expand what you have before you add a noun. That is the same job as the twelve-word list.
 
 **Promise, progress, payoff.** A chapter or volume must cash something the reader was already holding: the ring, the westbound mother, the October board, the return-rights sheet. Progress is visible on the page — closer to a person, a route closed, a signature. Do not replace a due payoff with a fresh mystery.

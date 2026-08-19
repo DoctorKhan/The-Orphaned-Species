@@ -7,13 +7,13 @@
 ## Summary
 - **Chapters audited:** 13
 - **Flagged chapters:** 13
-- **Total flag instances:** 49
+- **Total flag instances:** 50
 
 | Flag | Chapters |
 |---|---|
 | SHORT-PARA-RUN | 13 |
+| STACKED-EM-DASHES | 12 |
 | TELL-NOT-SHOW | 12 |
-| STACKED-EM-DASHES | 11 |
 | NOT-X-BUT-Y | 6 |
 | TIDY-COMPARISON | 3 |
 | ECHO-CLOSER | 2 |
@@ -23,30 +23,31 @@
 ## Chapter-level detail
 
 ### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5529
-- **Sentence count:** 489
+- **Word count:** 5556
+- **Sentence count:** 490
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
   - STACKED-EM-DASHES (7 hits)
   - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (15 hits)
+  - TELL-NOT-SHOW (16 hits)
   - SUMMARY-OPEN (1 hits)
   - SHORT-PARA-RUN (4 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Two—His Hand
-- **Word count:** 10482
-- **Sentence count:** 912
+- **Word count:** 10535
+- **Sentence count:** 915
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - TELL-NOT-SHOW (43 hits)
+  - STACKED-EM-DASHES (1 hits)
+  - TELL-NOT-SHOW (46 hits)
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Three—What Didn't Die
-- **Word count:** 2486
-- **Sentence count:** 217
+- **Word count:** 2485
+- **Sentence count:** 219
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (8 hits)
+  - STACKED-EM-DASHES (6 hits)
   - ECHO-CLOSER (1 hits)
   - TELL-NOT-SHOW (6 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)

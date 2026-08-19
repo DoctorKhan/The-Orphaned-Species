@@ -102,6 +102,14 @@ surveillance that would wreck the freedom being protected. Care requires a
 road home, not a leash. No flight, no Gnostic mistake, no "pattern completed"
 sermon. Those belong to IX, after the era novels.
 
+- **A capture-path failure: Somchai's clinic claimed as orthodoxy.** In the
+  Nile network corridor, a seasonal flight or bloc council tries to freeze
+  Somchai's somatic practice into fixed doctrine and his person into the seat
+  of it — quorum, enforced orthodoxy, material penalties for refusal. Eli,
+  Rowan, and Wren watch from outside; intervening would violate the
+  care-without-a-lease rule they are still learning. The mechanics rhyme with
+  pharaoh / Nicaea without either being named on-page.
+
 **Kid-crew satellite** may share these years (`63`; `99_active_todo.md` item 9).
 Different camera. Neither founder child is in that crew.
 
