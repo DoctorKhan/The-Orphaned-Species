@@ -1893,7 +1893,7 @@ He is, it turns out, bad at this in a way nothing else has prepared her for — 
 
 "I'm aware of that too."
 
-She laughs — not at him, exactly, or not only — and the laugh does more than either of them expected it to: something in his shoulders lets go that two hours of grief-drafting hadn't touched.
+She laughs — not at him, exactly — and the laugh does more than either of them expected it to: something in his shoulders lets go that two hours of grief-drafting hadn't touched.
 
 Her hand finds his, guiding, and for one full second the room is the wrong room — a ledger page, a woman's name beside her brother's route, a red dot that did not blink.
 

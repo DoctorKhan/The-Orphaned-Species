@@ -40,11 +40,11 @@
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Three—Three Rooms
-- **Word count:** 2360
+- **Word count:** 2357
 - **Sentence count:** 283
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (6 hits)
+  - TELL-NOT-SHOW (5 hits)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 

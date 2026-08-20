@@ -1,5 +1,16 @@
 # Volume I — *The Breach* — Beat Sheet
 
+> **AUTHOR- vs MANUSCRIPT-BEAT DISTINCTION — LOCKED 2026-08-18:** The
+> analytical machinery below — Three-Term checks, Clock A/B, Manual Override,
+> Parade Liturgy, deep-time residue labels, M/I/A, Ender's Game parallel,
+> romance-cost tags, and similar shorthand — is author-side planning language.
+> It tells the writer what a beat is doing; it is **not** required on-page
+> dialogue, narration, or character vocabulary. Manuscript beats are the
+> concrete human actions, objects, routes, and costs listed under Want /
+> Attachment / Choice → Cost / Revelation / End hook. When a beatsheet card
+> names an internal mechanic, the manuscript must show its human effect, not
+> the label itself.
+>
 > **AUTHORITATIVE ROUTE — REVISED 2026-07-27:** `58_sanxingdui_climax_lock.md`
 > governs. Book I runs Pelangi → Singapore → Malacca → Thailand → Sanxingdui.
 > Eli **refuses** Rasel; Wren authenticates the civilian evacuation and becomes

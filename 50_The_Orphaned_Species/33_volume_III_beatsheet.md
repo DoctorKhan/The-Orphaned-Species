@@ -1,5 +1,16 @@
 # Volume III — *The Compact* — Beat Sheet
 
+> **AUTHOR- vs MANUSCRIPT-BEAT DISTINCTION — LOCKED 2026-08-18:** The
+> analytical machinery below — Three Circles check, opponent-of-the-week table,
+> deep-time residue labels, delivery-upgrade bullets, Temujin/Napoleon parallel
+> shorthand, HERO SURFACE language, civilization-engine thesis tags, and similar
+> shorthand — is author-side planning language. It tells the writer what a beat
+> is doing; it is **not** required on-page dialogue, narration, or character
+> vocabulary. Manuscript beats are the concrete human actions, objects, routes,
+> and costs listed under Want / Attachment / Obstacle / Choice → Cost /
+> Revelation / End hook. When a beatsheet card names an internal mechanic, the
+> manuscript must show its human effect, not the label itself.
+>
 > **HUMAN NOVEL — LOCKED 2026-08-16:** Blocked ports, missile strikes, and empty
 > clinics make Eli useful enough that people begin treating his usefulness as a
 > right to his obedience. He accepts command because delays cost food,
@@ -43,19 +54,21 @@
 > He wins battles and saves people, and his own relinquishment is real:
 > under real threat, in a single hall, he signs away his authority and the
 > room continues without him — a genuine civic win, meant to read as one.
-> What the war never secured is the larger claim that win implies:
-> Continuity keys, factional mandate, and private force in regions outside
-> that room stay live and unresolved. The first relinquishment is
-> **incomplete** — not because Eli refuses it or fails to complete it, but
-> because the wider interregional compact it seemed to prove was never
-> intact anywhere beyond the room that was watching; that gap surfaces only
-> in Book IV. Eli and Rowan fall in love during Book III and acknowledge it
-> while he still holds command. They do not have sex or formalize the bond until
-> his authority ends. Book IV owns sexual consummation, the decision to try for
-> a child, conception, pregnancy, birth, the
-> reconstruction of the compact after its failure, and the **second and
-> final** relinquishment. Older Ch 8–10 closure material below is retained
-> as staging quarry only where it does not contradict this lock.
+What the war never secured is the larger claim that win implies:
+Continuity keys, factional mandate, and private force in regions outside
+that room stay live and unresolved. The first relinquishment is
+**incomplete** — not because Eli refuses it or fails to complete it, but
+because the wider interregional compact it seemed to prove was never
+intact anywhere beyond the room that was watching; that gap surfaces only
+in Book IV. Eli and Rowan fall in love during Book III and acknowledge it
+while he still holds command. They do not have sex or formalize the bond until
+his authority ends. Book IV owns sexual consummation, the decision to try for
+a child, conception, pregnancy, birth, the
+reconstruction of the compact after its failure, and the **second and
+final** relinquishment. Older Ch 8–10 closure material below is retained
+as staging quarry only where it does not contradict this lock.
+
+**Heather ground / cube-body beat — LOCKED 2026-08-18 (`59` § *Eli's cube-body sequence*).** The Book III handover hall sits on live Heather ground in Denver (`60` § *Heather Cube, on-page*). Eli does not receive a full guardian-spirit contact in Book III; he registers only proximity: pressure at the heart while the room continues without him, felt as vertigo or ground-response he does not name. The sign-and-release scene is the site of that proximity. His only residue is continued ordinary work without integration.
 
 > **COMPLEX-TIME SUPERSESSION — LOCKED 2026-07-27:** Any field-sail references below are retired quarry. Book III's novel physics concerns **complex time** and the possibility of lateral/sideways movement through adjacent temporal states. The peace/research sequence must build toward testable complex-time work, not a field-sail craft. **Do not connect this to the three cube-fragments in Book III** (`29_tetralogy_plot_and_development.md` § *Book IV-or-later payoff*) — the breakthrough comes from unrelated orbital/interface sensor data; the buried-starship connection is explicitly deferred past this book.
 

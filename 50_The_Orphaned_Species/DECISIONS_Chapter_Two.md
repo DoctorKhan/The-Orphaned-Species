@@ -2,6 +2,8 @@
 
 > **File:** `DECISIONS_Chapter_Two.md` (renamed from `DRAFT_Chapter_Two.md` 2026-07-24). **MERGED into `manuscripts/I_The_Breach.md` — the manuscript is governing.** This file retains the draft-choice flags as the decision record.
 >
+> **Prose status — OPEN 2026-08-18 (author override).** Spine and draft-choice locks below still bind. Governing prose in `manuscripts/I_The_Breach.md` Ch 2 is open for the first-chapters immersion pass.
+>
 > **Opening rev. Y (2026-07-25); job/timeline 2026-07-30:** Ch 1 = **Friday AM** harbor race → **Friday PM** Mei dinner / orphan truth → **Saturday AM** Babaji **catamaran** (first meet **Wren**; Foundry cover vs Cube show job) → **Saturday PM** squeeze + raid + departure. Ch 2 = **Saturday eve** Wren escort → document lanes → clerk/ring → **Continue Inn** (game hotel) → **Sunday AM** Cube → **Sunday afternoon idol concert** → **Sunday night Circuit** → Malacca breach. Pelangi kiddy-car chase retired to quarry. **Priya RETIRED** — attestation beats → Wren.
 
 ## Draft choices — flagged for veto

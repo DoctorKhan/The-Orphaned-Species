@@ -1,5 +1,16 @@
 # Volume II — *The Descent* — Beat Sheet
 
+> **AUTHOR- vs MANUSCRIPT-BEAT DISTINCTION — LOCKED 2026-08-18:** The
+> analytical machinery below — Three-Term checks, Clock A/B, opponent-of-the-week
+> table, M/I/A, deep-time residue labels, romance-cost tags, Unt thematic beat
+> list, delivery-package bullets, and similar shorthand — is author-side planning
+> language. It tells the writer what a beat is doing; it is **not** required
+> on-page dialogue, narration, or character vocabulary. Manuscript beats are the
+> concrete human actions, objects, routes, and costs listed under Want /
+> Attachment / Obstacle / Choice → Cost / Revelation / End hook. When a beatsheet
+> card names an internal mechanic, the manuscript must show its human effect, not
+> the label itself.
+>
 > **HUMAN NOVEL — LOCKED 2026-08-16; ancient-conspiracy engine added 2026-08-16:** Searching for his mother, Eli uncovers an ancient
 > conspiracy. He follows the traces Maren left after her disappearance while
 > losing confidence in the provenance of his own
@@ -355,6 +366,8 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 ### Ch 4 — The Healer's Terms *(Somchai POV → hard break → Eli · corridor clinic)* — REVISED 2026-08-16: Delphi / Laurel is **no longer a flashback**. Games + cube night are present-tense at the end of Ch 3 (Göbekli-to-Thrace road). Aylin goes ahead in the site ambulance; the group arrives after the stamp works. Ch 5 still opens in this clinic's supply room.
 ||- **Delivery card — LOCKED 2026-08-01:** **Clock A:** patient IDs Thrace hold / Hassan alive. **Clock B:** clinic exposure; pilgrim pressure. **Antagonist:** security wants registered healer. **People:** Somchai bodily boundary. **Depth-scan — remapped here from retired Ch 17 (`26`):** after consenting heal, Eli is read: quiet majority, scar vs receiver, Pin also loud. Private truth before later twins rumor and before Maren release. **Parade drip:** optional corridor/clinic *I alone* fragment only (`54`) — no full antiphon.
 |||- **Laurel crossing — REVISED 2026-08-16: present-tense after Ch 3.** One sailing race is the door. Eli abandons the winning line to pull Iason from a sinking boat. Iason then spends the guild appeal that might have saved his own hull to attest Eli and Wren onto the clinic road. The house night produces giant face / white markings / older-hand movement witnessed by Mara and Kyra. It gives no direction, address, or command. Hands keep moving after. Names (Laurel Cube, Kastri) are public. Mechanism stays hidden. `59`. On-page: `II_The_Descent.md` end of Ch 3.
+
+- **Laurel cube-body beat — LOCKED 2026-08-18 (`59` § *Eli's cube-body sequence*).** During the house night Eli feels pressure at the head/crown and clarity that does not resolve into direction. He does not receive a vision, instruction, or gift to name. He records the night as unreliable perception and moves on. The contact maps to Wisdom at the head, but the chapter must not say so. His only behavioral residue is continued ordinary work without integration.
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Security wants registered healer; pilgrim pressure; classification logic). What family/individual program operates? (Somchai's bodily boundary; healer-as-property hazard; Eli's hunger for Maren-as-address). What pressure exceeds the program's vocabulary? (Consent-gated depth-scan; clinic exposure; "kneel → cage → burn" folk arc). What practice emerges—or fails to emerge—in the gap? (Heal openly, then refuse assigned roles; Somchai refuses crown; Eli receives private truth without acting on it).
 - **Deep-time residue — LOCKED 2026-07-30:** body as disciplined receiver (Karahan rhyme without naming) — heal openly, then refuse the roles others assign him; “kneel → cage → burn” as half-true folk arc around Somchai. Wrong readings: healer = god, property, inexhaustible service, or miracle franchise. Cost: clinic exposure; consent before testimony.
 - **Immediate want:** Somchai keeps the injured prisoner alive without becoming faction property; Eli needs the testimony.

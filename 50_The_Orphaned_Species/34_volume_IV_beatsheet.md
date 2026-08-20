@@ -1,5 +1,16 @@
 # Volume IV — *The Court of Threads* — Beat Sheet
 
+> **AUTHOR- vs MANUSCRIPT-BEAT DISTINCTION — LOCKED 2026-08-18:** The
+> analytical machinery below — Three-Term scene filter, deep-time residue labels,
+> Bronze Age collapse test phrasing, Eagle–Condor court-use tags, and similar
+> shorthand — is author-side planning language. It tells the writer what a beat
+> is doing; it is **not** required on-page dialogue, narration, or character
+> vocabulary. Manuscript beats are the concrete human actions, objects, routes,
+> and costs carried in chapter cards and scene descriptions. When a beatsheet
+> card names an internal mechanic, the manuscript must show its human effect, not
+> the label itself. The retired chapter spine below is superseded; use `60` for
+> current chapter architecture.
+>
 > **FILE STATUS — 2026-08-10: chapter spine retired, governing card lives in `60_volume_IV_court_of_threads.md`.** All ten chapter cards below (§ *ACT I — The Working Stretch*) were superseded 2026-08-07 to 2026-08-09; `60_volume_IV_court_of_threads.md` § 9 *Governing ten-chapter spine* is the current Book IV chapter-by-chapter architecture. Do not draft or audit against the chapter cards in this file. The lock notes above the chapter spine (series object register, global coordination plot) and the reference material after it (§ *Three-Term scene filter*, bird-tribe rules) are not chapter-specific and may still hold — check each against `60` before relying on it.
 
 > **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Book IV's monolithic venue name is **Thread Loom**: the court made physical — weaving/judicial geometry, access and placement as instruments of rule, Rowan and Wren as principal weavers. It is the Cube turned narrative.
@@ -81,6 +92,8 @@
 > routes, and legitimacy under several pressures at once; outcomes are uneven;
 > people, knowledge, and exchange continue in altered forms after central
 > institutions fail.
+>
+> **Heather Cube / cube-body beat — LOCKED 2026-08-18 (`59` § *Eli's cube-body sequence*).** Eli visits the Heather Cube fence alone during the Hollow Year. He stands motionless without knowing the reserve ritual. Vertigo arrives. He does not name it courage, contact, or gift. He routes it to a file he cannot open and leaves before the spring changes its rhythm. His only residue is the body learning what the narrator will not integrate.
 >
 > **RELIGIOUS AFTERLIFE — LOCKED 2026-08-01:** The large post-collapse religious
 > and philosophical transformations are a delayed structural rhyme. Book IV

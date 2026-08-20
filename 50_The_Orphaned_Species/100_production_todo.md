@@ -143,6 +143,8 @@ work is tracked in `31_volume_I_beatsheet.md`, `32_volume_II_beatsheet.md`,
 
 ## Book I — *The Breach*
 
+- [~] **Ch 1–2 prose OPEN 2026-08-18 (author override).** Spine still binds. Immersion pass on-page: narrator verdicts cut (`X is a woman who`, `Eli thinks` thesis tags); events kept. Still OPEN for author read. Chapters 3–13 remain LOCKED.
+
 - [x] **Full-manuscript hunger audit — run 2026-08-01, pass.** Cold read of
   all 13 chapters against the same criteria used for Book II: no rewrite
   indicated anywhere. Confirms the original concern that prompted this pass

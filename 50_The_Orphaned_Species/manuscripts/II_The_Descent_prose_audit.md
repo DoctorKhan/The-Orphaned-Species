@@ -7,7 +7,7 @@
 ## Summary
 - **Chapters audited:** 10
 - **Flagged chapters:** 10
-- **Total flag instances:** 35
+- **Total flag instances:** 34
 
 | Flag | Chapters |
 |---|---|
@@ -16,7 +16,6 @@
 | NOT-X-BUT-Y | 6 |
 | STACKED-EM-DASHES | 4 |
 | ABSTRACT-DENSE | 3 |
-| TIDY-COMPARISON | 1 |
 | ABSTRACT-OVER-BODY | 1 |
 
 ## Chapter-level detail
@@ -81,10 +80,9 @@
   - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Eight—The Corridor Signal
-- **Word count:** 2274
+- **Word count:** 2270
 - **Sentence count:** 299
 - **Flags:**
-  - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (3 hits)
   - TELL-NOT-SHOW (8 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)

@@ -7,40 +7,37 @@
 ## Summary
 - **Chapters audited:** 13
 - **Flagged chapters:** 13
-- **Total flag instances:** 50
+- **Total flag instances:** 47
 
 | Flag | Chapters |
 |---|---|
 | SHORT-PARA-RUN | 13 |
-| STACKED-EM-DASHES | 12 |
 | TELL-NOT-SHOW | 12 |
+| STACKED-EM-DASHES | 11 |
 | NOT-X-BUT-Y | 6 |
 | TIDY-COMPARISON | 3 |
-| ECHO-CLOSER | 2 |
-| SUMMARY-OPEN | 1 |
+| ECHO-CLOSER | 1 |
 | OPEN-LIGHT-ON-BODY | 1 |
 
 ## Chapter-level detail
 
 ### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5735
-- **Sentence count:** 494
-- **Flags:**
-  - NOT-X-BUT-Y (2 hits)
-  - STACKED-EM-DASHES (7 hits)
-  - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (16 hits)
-  - SUMMARY-OPEN (1 hits)
-  - SHORT-PARA-RUN (4 run(s) of 3+ short paragraphs)
-
-### ## Chapter Two—His Hand
-- **Word count:** 10535
-- **Sentence count:** 915
+- **Word count:** 5309
+- **Sentence count:** 479
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (46 hits)
-  - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
+  - TELL-NOT-SHOW (14 hits)
+  - SHORT-PARA-RUN (6 run(s) of 3+ short paragraphs)
+
+### ## Chapter Two—His Hand
+- **Word count:** 8067
+- **Sentence count:** 762
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (1 hits)
+  - TELL-NOT-SHOW (23 hits)
+  - SHORT-PARA-RUN (10 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Three—What Didn't Die
 - **Word count:** 2485
@@ -53,10 +50,9 @@
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Four—The Passage
-- **Word count:** 1985
+- **Word count:** 1987
 - **Sentence count:** 176
 - **Flags:**
-  - STACKED-EM-DASHES (1 hits)
   - TELL-NOT-SHOW (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
@@ -79,11 +75,11 @@
 
 ### ## Chapter Seven—The Forming Line
 - **Word count:** 2252
-- **Sentence count:** 183
+- **Sentence count:** 186
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - TIDY-COMPARISON (1 hits)
-  - STACKED-EM-DASHES (8 hits)
+  - STACKED-EM-DASHES (7 hits)
   - TELL-NOT-SHOW (5 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
@@ -96,8 +92,8 @@
   - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Nine—Two Teams
-- **Word count:** 1383
-- **Sentence count:** 103
+- **Word count:** 1385
+- **Sentence count:** 104
 - **Flags:**
   - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (4 hits)

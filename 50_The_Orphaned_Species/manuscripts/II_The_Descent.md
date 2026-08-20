@@ -6048,7 +6048,7 @@ For less than a held breath, an old man kneels in water while soldiers cross a s
 
 Lovernios. Not the fox pillar, not proof of one lineage — a person in his sixties with mud beneath every nail, listening to plants by refusing to make their responses human. A girl beside him carries a wrapped seed catalog into peat that will keep it and forget her name for it. The elder's grief is that knowledge may survive him by becoming unreadable.
 
-The scene does not resolve. It touches and is gone, the way a hand brushes a door on the way past it without opening it.
+The scene does not resolve. It touches and is gone, the way a hand brushes past a door without opening it.
 
 Eli is not Lovernios.
 
