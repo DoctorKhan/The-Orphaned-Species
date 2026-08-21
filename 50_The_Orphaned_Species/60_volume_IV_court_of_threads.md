@@ -1403,7 +1403,170 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 
 ---
 
+### Chapter 11 — The Stag Teacher *(Eli)*
+
+- **Time:** early Hollow Year, before the first major route seizure.
+- **Want:** learn when defense is necessary and when it becomes the cycle.
+- **Obstacle:** his own reputation as the decisive commander; officers who want him to lead by example.
+- **Choice:** Eli agrees to be taught rather than demonstrate Stag for public credit.
+- **Cost:** some officers interpret his student posture as weakness; the Stag teacher receives pressure to grant him early completion.
+- **End hook:** a cloister veteran asks Eli to adjudicate a boundary dispute; he refers it to the civilian reviewer instead.
+
+> **Book IV chapter clock status:** Clock A = route seizure near a clinic; Clock B = Rowan's first-trimester fatigue and the court's refusal to see it as medical.
+
+### Chapter 12 — The Five Forms Week *(Wren)*
+
+- **Time:** early Hollow Year.
+- **Want:** prove the Five Forms remain civic, not military or credential.
+- **Obstacle:** registry officials demand training records for risk classification; ambitious teachers want to turn access into political support.
+- **Choice:** Wren arranges for learners to document their own form practice as personal testimony, not civic record.
+- **Cost:** teachers lose the leverage of civic endorsement; some learners refuse to participate without official credit.
+
+> **Book IV chapter clock status:** Clock A = diverted cargo discovered at a checkpoint; Clock B = Rowan's first clinical milestone passes without court notice.
+
+### Chapter 13 — The Nacre Audit *(Asha)*
+
+- **Time:** early Hollow Year.
+- **Want:** correct House Nacre's claim to permanent custody of testimony.
+- **Obstacle:** Nacre argues that permanent custody is the only protection against coerced recall.
+- **Choice:** Asha and Wren lead a house-by-house vote to release attestations to mixed review with appeal.
+- **Cost:** House Nacre loses rooms and night watches; some members resign, taking trusted witnesses with them.
+
+> **Book IV chapter clock status:** Clock A = a compromised route delivers a falsified manifest; Clock B = Rowan's pregnancy becomes visible enough that security proposes a modified uniform.
+
+### Chapter 14 — The Cloister Risk Score *(Malik)*
+
+- **Time:** early Hollow Year.
+- **Want:** stop Lang-aligned officials from converting form practice into risk scores.
+- **Obstacle:** the registry already treats Stag as instability and Salmon as unreliability.
+- **Choice:** Malik's cloister council publishes every learner's full form record as collective defense against inference.
+- **Cost:** privacy loss for learners; some chapters demand the records stay secret and withdraw from the registry.
+
+> **Book IV chapter clock status:** Clock A = clinic stock runs low; Clock B = Eli's fatherhood becomes public before Rowan is ready to use it politically.
+
+### Chapter 15 — The Recruitment Hearing *(Ren)*
+
+- **Time:** during the regional games.
+- **Want:** refuse the recruiting cord without losing the teacher's respect.
+- **Obstacle:** defense command frames the proposed role as honor; refusal looks like fear or disloyalty.
+- **Choice:** Ren names role, exit, and correction in the teacher's terms and gives the cord back.
+- **Cost:** the recruiting captain is removed from selection; Ren's Stag teacher does not count the choice as form completion.
+
+> **Book IV chapter clock status:** Clock A = a relay result is corrupted by concealed psionic aid; Clock B = Rowan's mobility changes during the games; she watches from a protected box.
+
+### Chapter 16 — The Ilyara Boundary *(Selin)*
+
+- **Time:** early Hollow Year.
+- **Want:** stop waiting for a witness who has already chosen departure.
+- **Obstacle:** her own Knotter training tells her that custody must continue until choice is certain.
+- **Choice:** Selin accepts the witness's departure and closes the waiting room.
+- **Cost:** House Ilyara loses a Warp bench and a member's years of investment; Selin's reputation for care is questioned by younger Weavers.
+
+> **Book IV chapter clock status:** Clock A = a Weft route is delayed by a credential dispute; Clock B = Rowan's second-trimester appointment is moved to a private clinic.
+
+### Chapter 17 — The Southern Canopy *(Rowan)*
+
+- **Time:** early Hollow Year, first northern evacuee wave.
+- **Want:** see the corridor's biological capacity with her own eyes.
+- **Obstacle:** a court contractor proposes clearing a living strip for rapid shelter and certified quick-growth clone stock.
+- **Choice:** Rowan supports local growers' plan: salvage stormfall, site temporary shelter on altered ground, plant mixed locally chosen species, and reduce intake.
+- **Cost:** fewer northern evacuees are admitted; the contractor files a protest and the northern press brands the council hoarders.
+
+> **Book IV chapter clock status:** Clock A = diverted grain reaches the Costa Rican transfer point under contested credentials; Clock B = Rowan's fatigue limits her to one route meeting per day.
+
+### Chapter 18 — The Work-Song Class *(adolescent learner, grower)*
+
+- **Time:** early Hollow Year.
+- **Want:** learn the restoration sequences without being turned into unpaid youth labor.
+- **Obstacle:** a route firm tries to make "youth integration" a mandatory unpaid requirement.
+- **Choice:** local teachers and growers defeat the requirement; voluntary apprenticeship and paid adult restoration remain the only legal paths.
+- **Cost:** the firm withdraws its equipment donation; the nursery loses a mechanized planting tool.
+
+> **Book IV chapter clock status:** Clock A = a repair crew cannot clear a blocked route in time; Clock B = Rowan's nausea returns during a long approval hearing.
+
+### Chapter 19 — The False Heir Draft *(Wren, Rowan, Eli)*
+
+- **Time:** third trimester.
+- **Want:** prevent the court from drafting a dynastic heir before labor.
+- **Obstacle:** the pro-dynasty coalition presents the strongest case: a named household may prevent civil war.
+- **Choice:** Wren brokers a compromise: the child receives a registry entry but no succession rank until majority, under civilian review.
+- **Cost:** the compromise is attacked by both sides; some cloister chapters call it cowardice and some Weaver houses call it a dynastic foot in the door.
+
+> **Book IV chapter clock status:** Clock A = a cross-route disruption lands while the assembly debates; Clock B = Rowan's energy narrows further and she can no longer attend long sessions.
+
+### Chapter 20 — The Hospital Conversation *(Rowan, Eli)*
+
+- **Time:** late third trimester.
+- **Want:** let Eli reach the grief she keeps visible but never spends on anyone.
+- **Obstacle:** she has never allowed anyone else to hold that grief; her face is read as command readiness.
+- **Choice:** Rowan lets Eli sit with the grief without trying to fix it, narrate it, or turn it into strategy.
+- **Cost:** the scene is recorded in a clinical note neither of them authorized; the note becomes part of her medical record.
+
+> **Book IV chapter clock status:** Clock A = a security detail is reassigned without Eli's knowledge; Clock B = Rowan's sleep breaks into short intervals and she refuses pain medication that would dull her alertness.
+
+### Chapter 21 — The Continuity Extension File *(Asha, Continuity officer)*
+
+- **Time:** late third trimester.
+- **Want:** stop an emergency extension from being filed as irreversible.
+- **Obstacle:** the officer argues that delay equals network collapse and loss of clinic access.
+- **Choice:** Asha exposes that the extension would remove the successor vote's binding effect and make Eli's mandate permanent by administrative default.
+- **Cost:** the officer is suspended; Eli's calendar is protected for one more week, but the faction shifts to a faster-track vote.
+
+> **Book IV chapter clock status:** Clock A = a convoy is turned back at a disputed checkpoint; Clock B = Rowan's contractions begin while the extension fight is still open.
+
+### Chapter 22 — The Praetorian Demand *(Eli)*
+
+- **Time:** early labor.
+- **Want:** keep the birth room from becoming a coup point.
+- **Obstacle:** a praetorian commander demands that Eli name a successor personally or the birth room becomes a military objective.
+- **Choice:** Eli refuses to name a successor and activates the prepared transfer from the birth room.
+- **Cost:** the commander withdraws his company from the perimeter; some local defenders feel abandoned in the first hour without a named commander.
+
+> **Book IV chapter clock status:** Clock A = local nodes govern without a center while contact is lost; Clock B = Rowan's labor progresses faster than the transfer briefing expected.
+
+### Chapter 23 — The Labor Inversion *(Rowan, women officers)*
+
+- **Time:** active labor.
+- **Want:** finish rotation and seniority negotiation without restoring sex caste.
+- **Obstacle:** some women officers argue that pregnancy excludes women from dangerous assignments by nature, not choice.
+- **Choice:** Rowan insists on equal risk classification while accepting a medical modification she chose privately.
+- **Cost:** she loses the argument about who decides the modification; the attending physician reports it as a complication.
+
+> **Book IV chapter clock status:** Clock A = a clinic reports a shortage of saline; Clock B = Rowan's pain management choice becomes a public question.
+
+### Chapter 24 — The Sideways Four Seconds *(Somchai)*
+
+- **Time:** coda, months after birth.
+- **Want:** understand what the lateral-timing displacement actually is.
+- **Obstacle:** nobody can reproduce the four seconds; the pattern answered back once and then collapsed.
+- **Choice:** Somchai names it as ordinary labor: a bag, a shift, it ends. He does not claim prophecy or healing.
+- **Cost:** the research team keeps seeking the effect; Eli begins to suspect something he cannot name.
+
+> **Book IV chapter clock status:** Clock A = first post-transfer audit finds no cascade; Clock B = the child's first verified motor milestone passes without ceremony.
+
+### Chapter 25 — The Flight Departure *(Somchai, apprentices)*
+
+- **Time:** coda, months after birth.
+- **Want:** see the young people leave without mythologizing them.
+- **Obstacle:** the court wants to brand them a movement; the Weavers want to claim them as evidence of portable discipline.
+- **Choice:** they depart carrying tools, seed, and answering songs, and refuse all names.
+- **Cost:** the next generation inherits them as precedent without the protection of a founder.
+
+> **Book IV chapter clock status:** Clock A = the rotating site network functions without Eli for a full season; Clock B = Wren's pregnancy is discovered, not pursued — a surprise late and ordinary.
+
+---
+
 ## 10. Book IV guardrails
+
+### POV-shift discipline — LOCKED 2026-08-21
+The camera moves to Rowan and Wren, but the book must not lose the thriller's forward tension or Eli's human recognizability.
+
+- **Keep the engine running.** The Custodians, the Mandate, the mesh, and the Hollow Year are actively hunting. Rowan and Wren must be moving, solving, and surviving—not delivering philosophy in safe rooms. Plot momentum pulls readers through a POV shift; static interiority abandons them in it.
+- **Eli remains human when seen from outside.** He cannot become a cold god or cynical tyrant. Rowan must see his exhaustion, his warmth, and the bodily cost of command. The reader should worry about him, not study him.
+- **Ground macro in intimate stakes.** The interregional compact and mesh politics must land through the smallest available bodies: a clinic queue, a birth room, a forged paper, a convoy that doesn't arrive. Rowan's pregnancy and Wren's network choices are the lens, not a respite from it.
+- **No abstract stakes without a named body attached.** If a chapter ends on institutional survival, the next scene must name the person whose intake, route, or bed depends on that institution. The compact is real only when it costs someone specific.
+
+---
 
 - No useful institution appears without its plausible capture path, and no
   correction is presented as capture-proof. Keep **use → capture → incomplete
@@ -1430,3 +1593,39 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 - The final transfer is prepared, legal, distributed, and materially viable
   before labor. Birth supplies the deadline, not the solution.
 - The child inherits relationships and history, never office.
+
+---
+
+## 11. Old → New Chapter Mapping
+
+| Old Chapter | Old Title | New Chapter(s) | Notes |
+|---|---|---|---|
+| 1 | The Doors | 1 | Preserved as governing opening; Clock A/B, Hollow Year inquiry, and Wren's choice unchanged. |
+| 2 | Present Consent | 2 | Preserved; Rowan/Wren/Eli consent mechanics and first sex unchanged. |
+| 3 | Three Rooms | 3 | Preserved; Wren's jealousy and three-dyad choice unchanged. |
+| 4 | What We Build | 4, 17 | Expanded to include southern-route proof and Rowan's deliberate contraception stop. |
+| 5 | The Rumor | 5 | Preserved; Asha audit, pregnancy discovery, and leak unchanged. |
+| 6 | The Body of State | 6, 20 | Expanded with Somchai misnaming beat and hospital conversation. |
+| 7 | The Two Houses | 7, 15, 16 | Expanded to include games hearing, recruitment refusal, and Ilyara boundary closure. |
+| 8 | The False Heir | 8, 19 | Expanded with false-heir draft compromise. |
+| 9 | The Room Prepared | 9 | Preserved; labor simultaneity and center-loss proof unchanged. |
+| 10 | Before the First Breath | 10, 22, 23 | Expanded to include praetorian demand and labor inversion; coda remains Chapter 25 in spirit, now distributed. |
+
+New chapters:
+- 11 — The Stag Teacher (Eli's Five Forms entry and refusal of public credit)
+- 12 — The Five Forms Week (Wren's civic-record boundary)
+- 13 — The Nacre Audit (Asha/Wren release permanent custody)
+- 14 — The Cloister Risk Score (Malik's registry fight)
+- 15 — The Recruitment Hearing (Ren's refusal and teacher's choice)
+- 16 — The Ilyara Boundary (Selin accepts departure)
+- 17 — The Southern Canopy (Rowan's Costa Rica proof)
+- 18 — The Work-Song Class (apprenticeship vs. unpaid youth labor)
+- 19 — The False Heir Draft (compromise on registry entry)
+- 20 — The Hospital Conversation (Rowan lets Eli reach her grief)
+- 21 — The Continuity Extension File (Asha exposes permanent-by-default extension)
+- 22 — The Praetorian Demand (Eli activates transfer from birth room)
+- 23 — The Labor Inversion (Rowan insists on equal risk classification)
+- 24 — The Sideways Four Seconds (Somchai names ordinary labor)
+- 25 — The Flight Departure (apprentices leave without myth)
+
+**Summary:** existing 1–10 are preserved with additional content folded into 4, 6, 7, 8, 10 where dramatic breakpoints already existed; 11–18 cover early Hollow Year, Five Forms, institutional audits, and the southern route; 19–23 cover the succession and birth simultaneity; 24–25 form the coda.

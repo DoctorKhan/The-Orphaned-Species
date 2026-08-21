@@ -83,7 +83,7 @@
 
 ---
 
-## Chapter 1—What Came Home [PLACEHOLDER]
+## Chapter 1—Distributed [EXISTING]
 Eli unfolds the strip on an empty propagation tray and holds the crease flat
 with his thumb.
 Dawn has reached the condemned teaching greenhouse without warming it.
@@ -3302,17 +3302,17 @@ The hand stops before the bus reaches the first tunnel.
 
 ---
 
-## Chapter 12—The Changing Map [SPLIT-FROM: Ch 6]
+## Chapter 12—The Changing Map [PLACEHOLDER]
 [PLACEHOLDER — draft prose here]
 
 ---
 
-## Chapter 13—The Broken-Line Church [SPLIT-FROM: Ch 6]
+## Chapter 13—The Broken-Line Church [PLACEHOLDER]
 [PLACEHOLDER — draft prose here]
 
 ---
 
-## Chapter 14—The Stray Settlement [SPLIT-FROM: Ch 6]
+## Chapter 14—The Stray Settlement [PLACEHOLDER]
 [PLACEHOLDER — draft prose here]
 
 ---
@@ -6216,16 +6216,16 @@ For once, none of those terms feels like delay.
 
 ---
 
-## Chapter 23—Release [SPLIT-FROM: Ch 10]
+## Chapter 23—Release [PLACEHOLDER]
 [PLACEHOLDER — draft prose here]
 
 ---
 
-## Chapter 24—The Release Choice [SPLIT-FROM: Ch 10]
+## Chapter 24—The Release Choice [PLACEHOLDER]
 [PLACEHOLDER — draft prose here]
 
 ---
 
-## Chapter 25—Aftermath and Book III Ignition [SPLIT-FROM: Ch 10]
+## Chapter 25—Aftermath and Book III Ignition [PLACEHOLDER]
 [PLACEHOLDER — draft prose here]
 

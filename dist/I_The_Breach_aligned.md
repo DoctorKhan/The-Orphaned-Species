@@ -74,7 +74,7 @@
 
 ---
 
-## Chapter 1—The Hour That Belongs to No One [PLACEHOLDER]
+## Chapter 1—Distributed [EXISTING]
 The skiff is flying.
 Eli leans out over the chop, one foot braced under the thwart, the sail pulling hard enough to make the rope sing in his fist. The red buoy off the storm wall is just the mark he rounds most mornings before the wind gets stupid with heat. Today he is out here because Suresh is watching from the wall, deciding whether to trust him with a Sunday berth, and the strait is emptiest at this hour. Spray cold against his shins. The channel wide open ahead.
 At breakfast Mei pushed his coffee across the counter. His phone lay beside it, Shireen's message still open: clinic Monday, deposit due. The foundry had cut his hours again last week—three days, not five, and the roster for next week hadn't been posted. Mei had read the message over his shoulder. "Suresh has real work Sunday, if he decides you're the one for it. Go out. Let him watch you sail like it matters, because it does. I have nothing to cover you if he decides you're not."

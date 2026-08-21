@@ -5,103 +5,163 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 10
-- **Flagged chapters:** 10
-- **Total flag instances:** 31
+- **Chapters audited:** 25
+- **Flagged chapters:** 11
+- **Total flag instances:** 18
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 10 |
-| NOT-X-BUT-Y | 6 |
-| ABSTRACT-DENSE | 5 |
-| STACKED-EM-DASHES | 3 |
-| ECHO-CLOSER | 3 |
-| TELL-NOT-SHOW | 2 |
+| NOT-X-BUT-Y | 8 |
+| ECHO-CLOSER | 4 |
+| ABSTRACT-DENSE | 3 |
+| STACKED-EM-DASHES | 1 |
+| TELL-NOT-SHOW | 1 |
 | ABSTRACT-OVER-BODY | 1 |
-| IDENTICAL-PARA-OPENING | 1 |
 
 ## Chapter-level detail
 
-### ## Chapter One—The Boat at Morning
-- **Word count:** 3498
-- **Sentence count:** 509
-- **Flags:**
-  - NOT-X-BUT-Y (3 hits)
-  - STACKED-EM-DASHES (1 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 107 body terms)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
-
-### ## Chapter Two—Terms of Welcome
-- **Word count:** 3938
+### ## Chapter 1—The Boat at Morning [PLACEHOLDER]
+- **Word count:** 3935
 - **Sentence count:** 496
-- **Flags:**
-  - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
+- **Flags:** none
 
-### ## Chapter Three—Three Requests
-- **Word count:** 2175
+### ## Chapter 2—Harbor Wake [SPLIT-FROM: Ch 1]
+- **Word count:** 3935
+- **Sentence count:** 496
+- **Flags:** none
+
+### ## Chapter 3—The First Sponsorship [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 4—Terms of Welcome [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 5—The Artifact Delivery [SPLIT-FROM: Ch 3]
+- **Word count:** 2176
 - **Sentence count:** 281
 - **Flags:**
   - ECHO-CLOSER (1 hits)
-  - SHORT-PARA-RUN (13 run(s) of 3+ short paragraphs)
 
-### ## Chapter Four—Lang's Folder
-- **Word count:** 4446
-- **Sentence count:** 519
+### ## Chapter 6—The Person Freedom Failed [SPLIT-FROM: Ch 3]
+- **Word count:** 2177
+- **Sentence count:** 281
 - **Flags:**
-  - NOT-X-BUT-Y (3 hits)
-  - ABSTRACT-DENSE (21 abstract terms, 95 body terms)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
+  - ECHO-CLOSER (1 hits)
 
-### ## Chapter Five—The Names They Carry
-- **Word count:** 3800
+### ## Chapter 7—The Repair Dock Evening [PLACEHOLDER]
+- **Word count:** 13
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 8—The Kitchen Ledger [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 9—The Sideways Record [SPLIT-FROM: Ch 5]
+- **Word count:** 1786
+- **Sentence count:** 206
+- **Flags:**
+  - NOT-X-BUT-Y (2 hits)
+
+### ## Chapter 10—The Standard [SPLIT-FROM: Ch 5]
+- **Word count:** 1785
+- **Sentence count:** 206
+- **Flags:**
+  - NOT-X-BUT-Y (2 hits)
+
+### ## Chapter 11—The Ambassador Dinner [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 12—The Names They Carry [SPLIT-FROM: Ch 7]
+- **Word count:** 2669
+- **Sentence count:** 313
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+
+### ## Chapter 13—Qiao's Testimony and the Survivor [SPLIT-FROM: Ch 7]
+- **Word count:** 2670
+- **Sentence count:** 313
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+
+### ## Chapter 14—The Compact [PLACEHOLDER]
+- **Word count:** 11
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 15—The Signing and the Shed Fire [PLACEHOLDER]
+- **Word count:** 15
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 16—The Voyage and the Warning [SPLIT-FROM: Ch 9]
+- **Word count:** 3797
 - **Sentence count:** 458
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (5 hits)
   - ECHO-CLOSER (1 hits)
-  - ABSTRACT-DENSE (26 abstract terms, 84 body terms)
-  - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
+  - ABSTRACT-DENSE (26 abstract terms, 85 body terms)
 
-### ## Chapter Six—The Compact
-- **Word count:** 3779
+### ## Chapter 17—A Crown With an End [PLACEHOLDER]
+- **Word count:** 14
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 18—Arrival and the First Water Decision [SPLIT-FROM: Ch 11]
+- **Word count:** 3780
 - **Sentence count:** 449
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
   - TELL-NOT-SHOW (1 hits)
-  - ABSTRACT-DENSE (31 abstract terms, 69 body terms)
+  - ABSTRACT-DENSE (31 abstract terms, 71 body terms)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
-### ## Chapter Seven—A Crown With an End
-- **Word count:** 2946
+### ## Chapter 19—Gutter Clearing and the Work Song [PLACEHOLDER]
+- **Word count:** 15
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 20—The Corridor Order [SPLIT-FROM: Ch 13]
+- **Word count:** 2940
 - **Sentence count:** 353
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - ECHO-CLOSER (1 hits)
-  - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
-  - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
-### ## Chapter Eight—The Cost of Consent
-- **Word count:** 3826
+### ## Chapter 21—The Cost of Consent [PLACEHOLDER]
+- **Word count:** 13
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 22—The Drone-Strike Cost [SPLIT-FROM: Ch 15]
+- **Word count:** 3823
 - **Sentence count:** 496
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
-### ## Chapter Nine—The Packet
-- **Word count:** 3500
+### ## Chapter 23—The Hearing Room and the Side Room [PLACEHOLDER]
+- **Word count:** 16
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 24—The Hearing Begins [SPLIT-FROM: Ch 17]
+- **Word count:** 3494
 - **Sentence count:** 456
 - **Flags:**
-  - ABSTRACT-DENSE (22 abstract terms, 86 body terms)
-  - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
+  - ABSTRACT-DENSE (22 abstract terms, 87 body terms)
 
-### ## Chapter Ten—The Handover
-- **Word count:** 1997
-- **Sentence count:** 237
-- **Flags:**
-  - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (1 hits)
-  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
+### ## Chapter 25—The Handover [SPLIT-FROM: Ch 18]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
 
 ## Open items
 

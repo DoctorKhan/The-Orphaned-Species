@@ -5,91 +5,159 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 10
-- **Flagged chapters:** 10
-- **Total flag instances:** 19
+- **Chapters audited:** 25
+- **Flagged chapters:** 9
+- **Total flag instances:** 14
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 10 |
-| STACKED-EM-DASHES | 3 |
-| ABSTRACT-DENSE | 1 |
-| IDENTICAL-PARA-OPENING | 1 |
-| OPEN-LIGHT-ON-BODY | 1 |
-| ECHO-CLOSER | 1 |
+| STACKED-EM-DASHES | 6 |
+| ABSTRACT-DENSE | 2 |
+| LONG-PARAGRAPH | 2 |
+| ECHO-CLOSER | 2 |
 | NOT-X-BUT-Y | 1 |
 | ABSTRACT-OVER-BODY | 1 |
 
 ## Chapter-level detail
 
-### ## Chapter One—The Doors
-- **Word count:** 7305
-- **Sentence count:** 791
-- **Flags:**
-  - STACKED-EM-DASHES (2 hits)
-  - ABSTRACT-DENSE (44 abstract terms, 187 body terms)
-  - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
-  - IDENTICAL-PARA-OPENING (2 run(s) of 3+ same-shape openings)
-
-### ## Chapter Two—Present Consent
-- **Word count:** 1511
-- **Sentence count:** 238
-- **Flags:**
-  - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
-
-### ## Chapter Three—Three Rooms
-- **Word count:** 2357
-- **Sentence count:** 283
+### ## Chapter 1—The Doors [PLACEHOLDER]
+- **Word count:** 2923
+- **Sentence count:** 275
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
-  - OPEN-LIGHT-ON-BODY
-  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
-### ## Chapter Four—What We Build
-- **Word count:** 2951
-- **Sentence count:** 361
+### ## Chapter 2—Present Consent [SPLIT-FROM: Ch 1]
+- **Word count:** 2925
+- **Sentence count:** 275
 - **Flags:**
-  - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
+  - STACKED-EM-DASHES (1 hits)
 
-### ## Chapter Five—The Rumor
-- **Word count:** 2077
+### ## Chapter 3—Three Rooms [PLACEHOLDER]
+- **Word count:** 11
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 4—What We Build [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 5—The Rumor [SPLIT-FROM: Ch 3]
+- **Word count:** 1815
+- **Sentence count:** 196
+- **Flags:** none
+
+### ## Chapter 6—The Body of State [SPLIT-FROM: Ch 3]
+- **Word count:** 1817
+- **Sentence count:** 196
+- **Flags:** none
+
+### ## Chapter 7—The Two Houses [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 8—The False Heir [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 9—The Room Prepared [SPLIT-FROM: Ch 5]
+- **Word count:** 2564
+- **Sentence count:** 320
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+
+### ## Chapter 10—Before the First Breath [SPLIT-FROM: Ch 5]
+- **Word count:** 2565
+- **Sentence count:** 320
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+
+### ## Chapter 11—The Stag Teacher [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 12—The Five Forms Week [PLACEHOLDER]
+- **Word count:** 13
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 13—The Nacre Audit [SPLIT-FROM: Ch 7]
+- **Word count:** 3854
+- **Sentence count:** 521
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+  - ABSTRACT-DENSE (27 abstract terms, 69 body terms)
+  - LONG-PARAGRAPH (1 paragraph(s) over 250 words)
+
+### ## Chapter 14—The Cloister Risk Score [SPLIT-FROM: Ch 7]
+- **Word count:** 3855
+- **Sentence count:** 521
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+  - ABSTRACT-DENSE (27 abstract terms, 69 body terms)
+  - LONG-PARAGRAPH (1 paragraph(s) over 250 words)
+
+### ## Chapter 15—The Recruitment Hearing [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 16—The Ilyara Boundary [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 17—The Southern Canopy [SPLIT-FROM: Ch 9]
+- **Word count:** 2948
+- **Sentence count:** 361
+- **Flags:** none
+
+### ## Chapter 18—The Work-Song Class [SPLIT-FROM: Ch 9]
+- **Word count:** 2948
+- **Sentence count:** 361
+- **Flags:** none
+
+### ## Chapter 19—The False Heir Draft [PLACEHOLDER]
+- **Word count:** 13
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 20—The Hospital Conversation [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 21—The Continuity Extension File [SPLIT-FROM: Ch 11]
+- **Word count:** 2079
 - **Sentence count:** 289
 - **Flags:**
   - ECHO-CLOSER (1 hits)
-  - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
-### ## Chapter Six—The Statement
+### ## Chapter 22—The Praetorian Demand [SPLIT-FROM: Ch 11]
+- **Word count:** 2078
+- **Sentence count:** 289
+- **Flags:**
+  - ECHO-CLOSER (1 hits)
+
+### ## Chapter 23—The Labor Inversion [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 24—The Sideways Four Seconds [SPLIT-FROM: Ch 13]
 - **Word count:** 2323
 - **Sentence count:** 307
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
-  - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
-### ## Chapter Seven—The Two Houses
-- **Word count:** 3386
-- **Sentence count:** 377
-- **Flags:**
-  - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
-
-### ## Chapter Eight—The Succession Debate
-- **Word count:** 2800
-- **Sentence count:** 336
-- **Flags:**
-  - STACKED-EM-DASHES (1 hits)
-  - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
-
-### ## Chapter Nine—The Room Prepared
-- **Word count:** 1703
-- **Sentence count:** 231
-- **Flags:**
-  - SHORT-PARA-RUN (6 run(s) of 3+ short paragraphs)
-
-### ## Chapter Ten—Before the First Breath
-- **Word count:** 4211
-- **Sentence count:** 500
-- **Flags:**
-  - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
+### ## Chapter 25—The Flight Departure [PLACEHOLDER]
+- **Word count:** 11
+- **Sentence count:** 1
+- **Flags:** none
 
 ## Open items
 

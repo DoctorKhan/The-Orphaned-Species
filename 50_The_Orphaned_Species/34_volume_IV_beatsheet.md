@@ -443,10 +443,305 @@
   Wren in the court. The child present. The compact holding. No throne. No
   messiah. No final speech. The series ends the way it began: people doing the
   work because the work needs doing, not because a program told them to.
+ 
+ ---
 
----
+ ## EXPANDED CHAPTER SPINE — 25-CHAPTER PLACEHOLDERS
 
-## Three-Term scene filter — applies to every chapter in 34
+ > **EXPANSION NOTE — PLACEHOLDER SET:** The fifteen cards below split the
+ > superseded ten-chapter spine into a 25-chapter structure. All are
+ > placeholders pending alignment with `60_volume_IV_court_of_threads.md`.
+ > Lock notes, act structure, and audit tables above are unchanged.
+
+ ---
+
+ ### Ch 11 — The Doors: Wren's Credentials *(Wren · North America court)* — PLACEHOLDER
+ - **Immediate want:** reconstitute certification without allowing the Weavers'
+   emergency custody of living attestations to become permanent hidden
+   sovereignty.
+ - **Court engine:** audience lists, lodging, message order, food, transport, and
+   access determine which forecast, inventory, and claim reaches Eli first.
+ - **Wren's choice:** she gives Asha's objection ledger to a review body with
+   non-Weaver members and appeal authority.
+ - **End hook:** Rowan's western delegation arrives with a living attestation
+   capable of disqualifying a favored successor—and an audience list designed
+   to keep her from Eli.
+ - **Book IV chapter clock status:** Clock A = cross-route triage proving itself
+   while federation fails. Clock B = Wren's consort/office boundary named.
+
+ ---
+
+ ### Ch 12 — The Doors: Hollow Year Inquiry *(Wren · ensemble)* — PLACEHOLDER
+ - **Immediate want:** establish convergence rather than conspiracy as the
+   Hollow Year's failure mode.
+ - **Two Trees beat:** Henley's redirect leans on a shortage projection built
+   on a hidden reserve; a keeper's direct read of what the reserve actually
+   holds is checked and corroborated before anyone acts on it.
+ - **Collapse distinction:** federation-wide allocation and authentication fail;
+   local nodes do not stop.
+ - **End hook:** Eli's reinstated scope is cross-route triage only; the inquiry
+   names Henley's dormant continuity credential.
+ - **Book IV chapter clock status:** Clock A = evidence-name change to
+   accountability registers cost. Clock B = Eli's public restoration under
+   review rather than achieved.
+
+ ---
+
+ ### Ch 13 — Present Consent: The Western Attestation *(Rowan · North America court)* — PLACEHOLDER
+ - **Immediate want:** deliver the western attestation and prevent the court from
+   converting her access to Eli into proof of either corruption or consort
+   status.
+ - **Political action:** Rowan gets the evidence into the record through a public
+   route, disqualifying a continuity official who concealed grain-routing
+   authority.
+ - **End hook:** a court scheduler records Rowan leaving Eli's rooms and quietly
+   changes her next audience category.
+ - **Book IV chapter clock status:** Clock A = western attestation delivered,
+   succession gap created without blood. Clock B = Rowan's future-motherhood
+   stated; contraception disclosed.
+
+ ---
+
+ ### Ch 14 — Present Consent: First Sex *(Rowan · Eli · North America)* — PLACEHOLDER
+ - **Immediate want:** act on acknowledged love under the agreements that already
+   govern the three existing dyads.
+ - **First sex:** chosen because they want one another. Wren is available,
+   continuing both her relationships, and neither broker nor permission-giver.
+ - **Guard:** sex grants no audience, vote, title, promise, household rank,
+   access to Wren, or presumption of repetition.
+ - **Relationship:** this chapter IS the no-clock beat — the clocks advance
+   off-screen while the scene stays in consent language, sex, and ordinary
+   disclosure.
+ - **Book IV chapter clock status:** Chemistry/no-clock tag: this is the
+   volume's full no-clock scene.
+
+ ---
+
+ ### Ch 15 — Three Rooms: Bond Ranking *(Wren · North America court)* — PLACEHOLDER
+ - **Immediate want:** keep the court from ranking the bonds after the sexual
+   relationship becomes visible.
+ - **Court engine:** factions cast Rowan as future consort, Wren as mistress or
+   chamber official, and Eli as a monarch whose private household should clarify
+   succession.
+ - **Romance action:** Rowan and Eli have sex on several separate occasions under
+   present consent. Wren experiences jealousy not as fear of losing either
+   romance alone, but as fear that the Rowan/Eli bond can acquire public
+   permanence from which she is structurally excluded.
+ - **End hook:** the court's heir-speculation machinery begins generating
+   appointment categories for a child who does not yet exist.
+ - **Book IV chapter clock status:** Clock A = succession gap widens without
+   blood. Clock B = bond visibility creates political pressure Wren must
+   navigate without secrecy.
+
+ ---
+
+ ### Ch 16 — Three Rooms: Rules and Leak *(Wren · Rowan · Eli)* — PLACEHOLDER
+ - **Immediate want:** create institutional rules that protect intimate partners
+   without granting them office.
+ - **Institutional action:** Wren helps create separate residence, audience, and
+   conflict-of-interest rules for intimate partners of officeholders.
+ - **Choice:** Wren refuses both secrecy and a staged equal-triad performance.
+   The three state publicly that the dyads are distinct and confer no office.
+ - **End hook:** an altered medical-access list appears before any pregnancy
+   exists, proving the court is already building an heir pathway around Rowan.
+ - **Book IV chapter clock status:** Clock A = cross-route triage continues.
+   Clock B = medical-access leak names Rowan before she has chosen pregnancy.
+
+ ---
+
+ ### Ch 17 — What We Build: Motherhood Decision *(Rowan · Eli · Wren)* — PLACEHOLDER
+ - **Immediate want:** determine whether repeated physical intimacy with Eli has
+   become a life relationship rather than a protected exception.
+ - **Romance turn:** work, disagreement, sleep, care, humor, missing one
+   another, and private language make Rowan/Eli romantic. They name it after
+   the change, not before.
+ - **Motherhood decision:** Rowan distinguishes four choices aloud: wanting
+   motherhood, loving Eli, choosing him as a possible co-parent, and choosing
+   when to try. She and Eli agree they want to raise a child together. Wren is
+   asked separately what relationship, if any, she wants with a future child;
+   she does not answer under pressure.
+ - **End hook:** Rowan privately decides to try for pregnancy; the court has not
+   yet noticed.
+ - **Book IV chapter clock status:** Clock A = transfer package nears
+   completion. Clock B = co-parenting decision made; conception timing not yet
+   chosen.
+
+ ---
+
+ ### Ch 18 — What We Build: Eruption and Costa Rica *(Rowan · ensemble · Costa Rica Turning)* — PLACEHOLDER
+ - **Immediate want:** distribute material capacity and portable procedure, not
+   credentials alone.
+ - **Coupled-failure middle:** the eruption's delayed climatic and harvest
+   effects meet route, water, medicine, displacement, reprisal, hoarding, and
+   export pressures. No common author. Outcomes diverge.
+ - **Southern-route proof:** the first northern evacuees reach Costa Rica under
+   capacity limits written there, not at court.
+ - **Choice:** Rowan deliberately stops contraception only after medical
+   consultation and a private waiting period.
+ - **End hook:** the Hollow Year inquiry recovers proof that several factions
+   delayed certification because Eli's extension benefited them.
+ - **Book IV chapter clock status:** Clock A = eruption effects meet route
+   seizures. Clock B = conception window opens; Rowan stops contraception.
+
+ ---
+
+ ### Ch 19 — The Rumor: Wren's Audit *(Asha · Wren · North America)* — PLACEHOLDER
+ - **Immediate want (Asha):** audit the Weavers' court power while recovering
+   from injuries sustained during the first allocation evacuation.
+ - **Institutional reveal:** a senior Warp protected witnesses by rerouting
+   them, but also delayed Amina Cole's return because her testimony would have
+   broken the continuity crisis sooner.
+ - **Wren's boundary:** she protects Rowan's privacy without pretending privacy
+   can erase the political danger.
+ - **End hook:** Rowan privately confirms pregnancy. She controls who is told,
+   including Eli and Wren.
+ - **Book IV chapter clock status:** Clock A = Hollow Year inquiry names
+   convergences. Clock B = pregnancy confirmed but undisclosed.
+
+ ---
+
+ ### Ch 20 — The Rumor: Leak and Celebration *(Wren · Rowan · North America court)* — PLACEHOLDER
+ - **Immediate want:** contain the leak before it becomes political ownership.
+ - **Leak:** appointment metadata—not Rowan's medical record—reaches a
+   pro-dynasty faction. Rumor outruns confirmation.
+ - **Wren's choice:** she declines automatic co-parent status and asks for time
+   to choose a real role.
+ - **End hook:** the court announces a "continuity celebration" for an heir
+   Rowan has not publicly acknowledged.
+ - **Book IV chapter clock status:** Clock A = cross-route triage under
+   resource pressure. Clock B = pregnancy rumor forces early succession
+   machinery.
+
+ ---
+
+ ### Ch 21 — The Body of State: Body Adaptation *(Rowan · North America court)* — PLACEHOLDER
+ - **Immediate want:** continue political and route work while adapting honestly
+   to nausea, fatigue, food aversion, clinical monitoring, and changed risk.
+ - **Court engine:** security uses pregnancy to justify route restrictions;
+   Weaver protectors request medical access; demographic officials call the
+   pregnancy public hope.
+ - **Choice:** Rowan refuses a dangerous journey rather than performing
+   invulnerability, then performs indispensable work remotely and through a
+   trusted team.
+ - **End hook:** a credible threat targets Rowan's medical route, while evidence
+   suggests the threat may be intended to justify permanent custody.
+ - **Book IV chapter clock status:** Clock A = convoy defense, route seizures.
+   Clock B = first-trimester adaptation; body changes visible.
+
+ ---
+
+ ### Ch 22 — The Body of State: False Refuge and Misnaming *(Rowan · Wren · Eli)* — PLACEHOLDER
+ - **Immediate want:** protect Rowan's bodily jurisdiction without letting
+   protection become confinement.
+ - **False refuge offer:** security proposes moving Rowan to a protected Costa
+   Rican medical site and presents removal from court as neutral maternal care.
+   The named receiving institution refuses the dynastic custody terms.
+ - **Somchai misnaming:** during the metadata-leak wave, a court witness tags
+   Somchai in public register as *apkallu* or *bene apkallu*; he declines the
+   category in public, once: *Apkallu, elohim, Watcher, son — pick one. I am
+   the man who set the IV line.*
+ - **End hook:** Eli's completed transfer calendar is challenged by cloister
+   chapters threatening to reject any successor he does not personally name.
+ - **Book IV chapter clock status:** Clock A = cross-route network strains.
+   Clock B = second trimester; false-refuse pressure mounts.
+
+ ---
+
+ ### Ch 23 — The Two Houses: The Games *(Wren · ensemble · Costa Rica regional gathering)* — PLACEHOLDER
+ - **Immediate want:** show the compact in miniature before the constitutional
+   chamber can claim it.
+ - **Games-and-market proof:** before the chamber settlement, Wren attends a
+   regional gathering where sport, trade, service houses, repair exchange, and
+   psionic participation overlap. Betting pressure and concealed psionic aid
+   corrupt a relay result; a cloister captain tries to recruit from the anger;
+   settlement slogans begin replacing names.
+ - **Governing dramatic truth:** they do not eliminate rivalry; they keep
+   rivalry from becoming identity, and identity from becoming permission to
+   kill.
+ - **Two Trees beat:** the concealed psionic aid is caught by ordinary review
+   and measurement, not by a rival psion.
+ - **End hook:** the post-match meal proceeds under separate hosts; the same
+   people meet again as medics, mechanics, hosts, traders, kin, and witnesses.
+ - **Book IV chapter clock status:** Clock A = regional compact proves itself
+   under pressure. Clock B = Rowan's pregnancy visible; security uses it to
+   restrict Wren's travel.
+
+ ---
+
+ ### Ch 24 — The Two Houses: Five Forms and Settlement *(Wren · North America court)* — PLACEHOLDER
+ - **Immediate want:** keep Weaver and cloister power from hardening into rival
+   sex blocs around the pregnancy.
+ - **Five Forms boundary proof:** a Stag teacher takes Ren through the
+   recruitment pressure without claiming civic command.
+ - **Court engine:** constitutional cloisters demand formal standing; a
+   praetorian faction pledges personal loyalty to Eli and the unborn child;
+   Weaver houses split over registry-like living attestation and protective
+   custody.
+ - **Wren's choice:** she brokers a two-house settlement with cross-membership,
+   audit, appeal, civilian control, and no authority over mate-worthiness,
+   pregnancy, or inherited office.
+ - **The Hollow Year inquiry payoff:** no single mastermind.
+ - **End hook:** Eli's completed transfer calendar is challenged by cloister
+   chapters threatening to reject any successor he does not personally name.
+ - **Book IV chapter clock status:** Clock A = Hollow Year inquiry names all
+   convergences without inventing a villain. Clock B = Wren chooses a named
+   kin role; pregnancy enters final trimester.
+
+ ---
+
+ ### Ch 25 — The False Heir: Pro-Dynasty Push *(Rowan · North America court)* — PLACEHOLDER
+ - **Immediate want:** finish the succession terms before her mobility and
+   energy narrow further.
+ - **Court engine:** a pro-dynasty coalition presents the strongest case for an
+   heir: one named household may prevent civil war, stabilize command, and keep
+   the Weavers and cloisters from fighting over legitimacy.
+ - **Counter:** Rowan refuses to solve institutional mistrust with her child's
+   body. Eli publicly disclaims any hereditary claim. Wren proves that living
+   attestation can certify a process without certifying blood.
+ - **Bodily plot:** false labor or a serious late-pregnancy complication forces
+   the court to function while Rowan is unavailable. Her prior instructions—not
+   Eli's panic—govern care.
+ - **End hook:** labor is near; the reconstituted assembly schedules the final
+   succession vote for the same week.
+ - **Book IV chapter clock status:** Clock A = cross-route disruption lands
+   during the six-hour council test; local nodes act without Eli. Clock B =
+   third trimester; false labor or complication narrows Rowan's window.
+
+ ---
+
+ ## Chapter Mapping — Old Spine (10) → Expanded Spine (25)
+
+ > **MAPPING — PLACEHOLDER:** The fifteen expanded chapters below subsume the
+ > superseded ten-chapter spine. Old chapters are preserved above for lock
+ > continuity; new chapters are the active planning structure.
+
+ | New Chapter | Title | Maps To Old Chapter |
+ |---|---|---|
+ | 11 | The Doors: Wren's Credentials | Old Ch 1 |
+ | 12 | The Doors: Hollow Year Inquiry | Old Ch 1 |
+ | 13 | Present Consent: The Western Attestation | Old Ch 2 |
+ | 14 | Present Consent: First Sex | Old Ch 2 |
+ | 15 | Three Rooms: Bond Ranking | Old Ch 3 |
+ | 16 | Three Rooms: Rules and Leak | Old Ch 3 |
+ | 17 | What We Build: Motherhood Decision | Old Ch 4 |
+ | 18 | What We Build: Eruption and Costa Rica | Old Ch 4 |
+ | 19 | The Rumor: Wren's Audit | Old Ch 5 |
+ | 20 | The Rumor: Leak and Celebration | Old Ch 5 |
+ | 21 | The Body of State: Body Adaptation | Old Ch 6 |
+ | 22 | The Body of State: False Refuge and Misnaming | Old Ch 6 |
+ | 23 | The Two Houses: The Games | Old Ch 7 |
+ | 24 | The Two Houses: Five Forms and Settlement | Old Ch 7 |
+ | 25 | The False Heir: Pro-Dynasty Push | Old Ch 8–10 |
+
+ > **Note:** Old Ch 9 (*The Birth and the Second Relinquishment*) and Old Ch 10
+ > (*The Birds at Morning*) are folded into the climax arc beginning at New Ch
+ > 25. The full birth, transfer, and coda material is governed by `60_volume_IV_court_of_threads.md`
+ > § *Chapters 9–10* and will be subdivided in the next expansion pass. The
+ > governing ten-chapter spine in `60` remains authoritative.
+
+ ---
+
+ ## Three-Term scene filter — applies to every chapter in 34
 
 LOCKED 2026-08-05:
 

@@ -227,6 +227,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 |- **Wren / feelings — REVISED 2026-08-10:** First meet includes emotional work. Eli carries Friday's ambiguous loss into Saturday; Wren notices shaking and performative competence. When she redirects him away from a manifest queue, he hears a rule about trust; she is holding the door closed until the room is safe. Her touch language stays distinct from Maren's: Wren steadies his elbow through clothing, handles power and route, and releases immediately when he pulls away. She later hears him give Shireen the storm-room memory and plugs in his failing phone. She never repeats Maren's sternum gesture. Part of why she keeps the rule so clean is that she remembers being the one left off a manifest herself and wants him to see her keep it.
 - **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Mandate squeeze / keeper holdout / raid). What family/individual program operates? (Earn safety by usefulness; orphan grief disguised as competent worker). What pressure exceeds the program's vocabulary? (Wren sees body-before-story; Mei serves food before classification). What practice emerges—or fails to emerge—in the gap? (First co-regulation; hearth suspended, not restored; trust earned without debt).
 
+---
+
+### Ch 1a — Saturday Departure (Eli · Babaji hotel → marina → last light) — PLACEHOLDER SPLIT FROM EXISTING CH 1
+- **Timeline — PLACEHOLDER:** Friday PM — Mei dinner; Kiran leaves; private orphan truth explains why she pushed Eli to go, only send-off.
+- **Want / Attachment:** understand why Mei is pushing him to leave; chosen family: Mei, Suresh, Babaji.
+- **Obstacle:** Mei's warning about boats being turned back; orphan truth withheld until Kiran leaves.
+- **Choice → Cost:** learns the truth: parents left him for one night and never returned. Hearth suspended; packed bags prove abandonment or flight.
+- **Deep-time residue — PLACEHOLDER:** Mei's kitchen as first family unit; free-meal list as threshold house practice. Wrong reading: packed bags = abandonment; cost: hearth suspended.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 1 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** I
 ### Ch 2 — His Hand / Checkpoints and the Stack *(Eli · Wren escort → Singapore → Malacca breach)*
 - **Timeline — LOCKED rev. Y / job 2026-07-30:** **Saturday last light** — depart Pelangi; strait pier + Stack intake **Saturday eve**. **Saturday night** — **Continue Inn** (game hotel). **Sunday AM** — Cherry Lane → Cube. **Sunday afternoon** — idol **concert**; **Sunday night** — Circuit freight escape → Straits → Malacca breach.
 - **Wren escort — LOCKED rev. Y; catamaran reference corrected 2026-08-12 (see rev. 2026-08-07 relocation, `26` line 468):** Handler from **Babaji's hotel, Saturday AM** through **causeway hall**; **marina gate before checkpoint**; aboard Suresh through strait pier + arch; port shuttle, transit, buses; goodbye at **document lanes** (sends Eli to **Continue Inn**). Eli **alone** after — clerk, **Saturday night sleep**, **Sunday** Cube, convoy, Straits. Babaji's catamaran is his own southbound departure only, staged in Ch 1's raid beat — Eli and Wren never board it.
@@ -282,6 +292,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 
 ---
 
+---
+
+### Ch 2a — Singapore Intake (Eli · Stack intake → causeway hall → Continue Inn) — PLACEHOLDER SPLIT FROM EXISTING CH 2
+- **Timeline — PLACEHOLDER:** Saturday last light — depart Pelangi; strait pier + Stack intake Saturday eve. Saturday night — Continue Inn (game hotel).
+- **Want / Attachment:** reach Continue Inn; learn why a Mandate archive photograph shows Rasel's hand and wedding ring.
+- **Obstacle:** Stack intake flags resemblance; ring photo triggers hunt; wrong-room overhear exposes Hassan/Malacca/English woman fragments.
+- **Choice → Cost:** chooses forward after ring photograph rather than disappearing into worker flow; evidence burned; helpers exposed.
+- **Deep-time residue — PLACEHOLDER:** Stray-lane as fossil of discarded male standing; Continue Inn live-play cabinets/sims/VR as Foundry muscle rhyme and Rasel echo. Wrong reading: Stray = criminal; Cube = paradise; surge = destiny. Cost: wage ticket; receiver opens without control.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 2 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** I
 ### Ch 3 — What Didn't Die *(Eli · Malacca grounding / maritime departure)*
 - **Deep-time residue — LOCKED 2026-08-05:** (1) Three Circles tablet as plain clay with available wrong readings (hierarchy / map / astronomy / target) before Body/Family/Civilization; (2) kelong hospitality as practice older than registries—cup-count, lime divided, mangrove flowers taken by tide without ceremony; (3) Maren's field notebook *Name* forked page as unfinished older inquiry, not destiny key. Wrong reading: tablet = rank seal; hospitality = Weaver conspiracy; *Name* = map home. Cost: Salmah's boat; choosing open pursuit over going dark.
 - **Delivery — LOCKED 2026-08-05:** What cultural program operates?
@@ -318,6 +338,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 
 ---
 
+---
+
+### Ch 3a — Breach Recovery (Eli · Malacca quay → grounding aftermath) — PLACEHOLDER SPLIT FROM EXISTING CH 3
+- **Timeline — PLACEHOLDER:** Sunday early morning — Malacca quay after the breach; Salmah's rescue; rough resuscitation; first grounding.
+- **Want / Attachment:** survive the immediate aftermath; understand what happened.
+- **Obstacle:** near-death asphyxia; psi plane overload; Salmah's boat seized; Custodian classification pending.
+- **Choice → Cost:** Eli accepts Salmah's help and transfers danger into an ordinary worker's life. Cost: Salmah's market access suspended; her boat seized as contaminated evidence.
+- **Deep-time residue — PLACEHOLDER:** Salmah's kelong hospitality as practice older than registries—cup-count, lime divided, mangrove flowers taken by tide without ceremony. Wrong reading: hospitality = Weaver conspiracy; cost: choosing open pursuit over going dark.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 3 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** I
 ### Ch 4 — The Passage *(Eli · Malacca departure → northbound)* — title reconciled to manuscript 2026-08-10, was "Babaji's Fallback"
 - **Deep-time residue — LOCKED 2026-08-05:** harbor network as practice older
   than registries; the worker route as civic infrastructure invisible to
@@ -421,6 +451,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 
 ## ACT II — The Unstable Sea *(current-order chapters resume here)*
 
+---
+
+### Ch 4a — Departure and Wat (Eli · Malacca departure → first wat practice) — PLACEHOLDER SPLIT FROM EXISTING CH 4
+- **Timeline — PLACEHOLDER:** Monday — Malacca departure aboard northbound vessel; first wat practice at sea or in port.
+- **Want / Attachment:** reach the next waypoint without being flagged; begin grounding practice.
+- **Obstacle:** harbor network compromised; Custodian pursuit; Eli's receiver still open and noisy.
+- **Choice → Cost:** commits to the worker route despite wrongness. Cost: signature lit across the grid; helpers exposed.
+- **Deep-time residue — PLACEHOLDER:** harbor network as practice older than registries; worker route as civic infrastructure invisible to authority. Wat breath as first voluntary regulation, not cure. Wrong reading: harbor = extraction network; wat = therapy. Cost: none explicit here; trust earned without debt.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 4 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** I
 ### Ch 5 — The Field That Counts *(Eli · Thailand river-valley agricultural stop)*
 - **Deep-time residue — LOCKED 2026-08-01:** Ila's record points toward a community where a new line is forming through planted ground. Her read is ground-focused: she mapped the ley line's signature through the paddy, not a body. Eli encounters her through document, not live meeting — a keeper's testimony, a field note, a Maren's field notebook entry. She is the first practitioner he meets who works on ground, not flesh.
 - **Parade Liturgy drip — LOCKED 2026-07-25:** Khun Dang quotes F6 (*I alone am dark*) as praise for playing quiet; stilt-house keeper mutters F5 at dawn — not explained (`54_litanies.md`).
@@ -437,6 +477,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 - **Romance cost (INSERT — escape offer):** one **clean exit fantasy** — *we could drop the clue, take the boat, disappear* (`19` §6). Must **almost** work emotionally; fails on **third loyalty** (Wren's people / Asha's route / a civilian / truth). Reader feels pull **and** respects the boundary. No label, no kiss.
 - **M/I/A:** **M** — —. **I** — escape offer / third loyalty. **A** — weary proximity optional; pull felt, refused.
 
+---
+
+### Ch 5a — Grounding Arrival (Eli · Thailand first settlement) — PLACEHOLDER SPLIT FROM EXISTING CH 5
+- **Timeline — PLACEHOLDER:** Tuesday — arrival at first Thailand settlement; Ila's record reaches them through document.
+- **Want / Attachment:** test the growth report and Ila's ground record.
+- **Obstacle:** the report is partly stale; community wants no outsiders; Custodians are a day behind.
+- **Choice → Cost:** he trusts living local expertise over his own vision and over the planted lead. Cost: time lost; the wrong clue cost them a margin.
+- **Deep-time residue — PLACEHOLDER:** plant growth as detector before any message — living mesh, not imposed symbol; mountain shrine / coffee spur as place that refuses sale. Wrong reading: plants = coded map for Eli; mountain = tourist set; wat = therapy. Cost: stale clue burns margin; he trusts growers over his vision.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 5 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** II
 ### Ch 6 — Midpoint: First Witness *(Eli · first witness site — Thailand approach)*
 - **Deep-time residue — REVISED 2026-08-10:** (1) Ila's ground record reaches full resolution through the keeper's testimony and a copied field page; the physical Maren's field notebook remains undisclosed in cooperative custody until Ch 10; (2) talking-stone / witness ground behaves wrongly before mechanism. Wrong reading: Ila = destiny twin / past life; stone = personal oracle. Cost: grief with nowhere to set the love down; Wren goes colder.
 - **Want:** stand at a charged site long enough for a thread to clarify without collapsing from exhaustion.
@@ -451,6 +501,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 
 ## ACT III — Growth and Choice
 
+---
+
+### Ch 6a — Witness Ground (Eli · first witness site — ground reading) — PLACEHOLDER SPLIT FROM EXISTING CH 6
+- **Timeline — PLACEHOLDER:** Midweek — approach to first witness site; Ila's ground record clarifies through the keeper's testimony.
+- **Want / Attachment:** stand at a charged site long enough for a thread to clarify without collapsing from exhaustion.
+- **Obstacle:** at a witness site, Ila's ground record clarifies — the ley line's signature through paddy and crop; local talking-stone lore; pursuit pressure won't wait.
+- **Choice → Cost:** he receives her as other — real, dead, grievable — without claiming her. Cost: grief with nowhere to set the love down.
+- **Deep-time residue — PLACEHOLDER:** Ila's ground record as apprenticeship, not identity proof; talking-stone / witness ground behaves wrongly before mechanism. Wrong reading: Ila = destiny twin / past life; stone = personal oracle. Cost: grief with nowhere to land.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 6 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** II
 ### Ch 7 — The Forming Line *(Eli · Wren POV → Thailand rice/aquaculture cooperative)*
 - **POV — ADDED 2026-08-09:** second half of this chapter moves to Wren's interior — first Book I Wren POV, not just Eli observing her. She reads Eli's body wrong: his quiet at the rice checkpoints reads to her as settled competence, not grief held so tightly it has become a skill. She catches the misread when a grower asks Eli a simple question and his answer arrives already shaped into an exit strategy — useful, not present. Wren revises: body-before-story, but the story has learned to get there first. This revision is the emotional practice that makes her later Ch 9 civilian-first choice automatic instead of reflexive.
 - **Parade Liturgy drip — LOCKED 2026-07-25:** Lung Thong cites grandfather's F3 on the dyke — farmer register, not sermon.
@@ -467,6 +527,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 - **Romance cost (SHARPEN):** Wren wants **exit strategy**; Eli wants **documentation** — control flare (*I'll manage the risk*). She does not defer silently; he does not win the argument. Complementary cowardice: she'll face armed teams; won't sit still for his plan.
 - **M/I/A:** **M** — control argument exposes manage-danger-first. **I** — exit vs evidence / community exposure. **A** — —
 
+---
+
+### Ch 7a — The Cooperative Edge (Eli · Wren POV → first view of the cooperative) — PLACEHOLDER SPLIT FROM EXISTING CH 7
+- **Timeline — PLACEHOLDER:** Late week — arrival at the rice/aquaculture cooperative; Wren's first interior POV.
+- **Want / Attachment:** find and document the forming line before the Custodians.
+- **Obstacle:** community wants no outsiders; Eli's quiet reads to Wren as settled competence, not grief held as skill.
+- **Choice → Cost:** Wren revises: body-before-story, but the story has learned to get there first. Cost: intimacy down; Wren sees the exit strategy before Eli names it.
+- **Deep-time residue — PLACEHOLDER:** crop band as new line forming (Life mesh), distinguished from dead ground / scour scar and legacy contamination — place fossils without Phase names. Wrong reading: band = faction message or Eli's private map. Cost: asking growers for help paints a target on them.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 7 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** II
 ### Ch 8 — Ila's Hands *(Eli · the Thailand cooperative)* (title corrected 2026-08-07 to match the manuscript, which uses this title consistently)
 - **Deep-time residue — REVISED 2026-08-10:** Ila's copied ground record confirms what the growers already know: the new line through planted ground is a living system they must tend. The physical Maren's field notebook remains in their custody. She mapped the ground; Eli is learning to read it.
 - **Want:** help, and not be useless.
@@ -476,6 +546,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Pursuit / containment; institutional knowledge as authority). What family/individual program operates? (Eli's competence-as-worth; healer-identity hazard). What pressure exceeds the program's vocabulary? (Growers' elders; ordinary repair; metabolic cost of small real help). What practice emerges—or fails to emerge—in the gap? (Ground-read as ordinary labor, not gift; receiver ≠ healer; cost paid in body, not narrative).
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Pursuit / containment; institutional knowledge as authority). What family/individual program operates? (Eli's competence-as-worth; healer-identity hazard). What pressure exceeds the program's vocabulary? (Growers' elders; ordinary repair; metabolic cost of small real help). What practice emerges—or fails to emerge—in the gap? (Ground-read as ordinary labor, not gift; receiver ≠ healer; cost paid in body, not narrative).
 
+---
+
+### Ch 8a — Hands and Repair (Eli · Ila's hands — cooperative repair) — PLACEHOLDER SPLIT FROM EXISTING CH 8
+- **Timeline — PLACEHOLDER:** Same week — cooperative repair work; Ila's copied ground record confirms what growers already know.
+- **Want / Attachment:** understand the new line through planted ground; work alongside the growers.
+- **Obstacle:** physical evidence damaged; Eli's receiver work visibly costing him (headaches, tremor); Wren notices, he explains nothing.
+- **Choice → Cost:** chooses to trust living local expertise over his own vision. Cost: time lost; wrong clue burns margin.
+- **Deep-time residue — PLACEHOLDER:** Ila's copied ground record confirms the new line through planted ground is a living system they must tend; physical Maren's field notebook remains undisclosed. Wrong reading: record = map home; hands = destiny key. Cost: evidence damaged but not destroyed.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 8 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** II
 ### Ch 9 — Two Teams *(Eli · ensemble action · the Thailand cooperative)*
 - **Parade Liturgy drip — LOCKED 2026-07-25:** Pak Din at strait — F4 drift saying; **ON PAGE** (`54_litanies.md`).
 - **Deep-time residue — LOCKED 2026-07-30:** factions contest **charged ground** (not only people) — first on-page scour appetite; war older than Eli. Wrong reading: the clue is the war's object; civilians are scenery. Cost: clean evidence jeopardized when Wren forces civilian-first.
@@ -488,6 +568,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Psion teams contesting charged ground as strategic asset; war-as-scarcity). What family/individual program operates? (Eli's evidence-as-worth; Wren's civilian-first as boundary). What pressure exceeds the program's vocabulary? (Civilians in crossfire; entrainment panic; the war doesn't care about his clue). What practice emerges—or fails to emerge—in the gap? (Wren forces civilian-first; Eli's cruel line; documentation sacrificed; attraction strained).
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Psion teams contesting charged ground as strategic asset; war-as-scarcity). What family/individual program operates? (Eli's evidence-as-worth; Wren's civilian-first as boundary). What pressure exceeds the program's vocabulary? (Civilians in crossfire; entrainment panic; the war doesn't care about his clue). What practice emerges—or fails to emerge—in the gap? (Wren forces civilian-first; Eli's cruel line; documentation sacrificed; attraction strained).
 
+---
+
+### Ch 9a — Civilian Response (Eli · two teams — civilian-first choice) — PLACEHOLDER SPLIT FROM EXISTING CH 9
+- **Timeline — PLACEHOLDER:** Same week — two psion teams contest the forming line; civilian response to Eli's presence.
+- **Want / Attachment:** protect the cooperative evidence and the growers.
+- **Obstacle:** psion teams in proximity; Eli recognizes the charge but hesitates; Wren chooses evacuation.
+- **Choice → Cost:** Wren chooses civilian-first evacuation; a grower is hurt; evidence damaged. No completed Manual Override. Cost: trust without label; recognition without command.
+- **Deep-time residue — PLACEHOLDER:** factions contest charged ground; crop band as new line. Wrong reading: band = faction message; hands = power display. Cost: grower hurt; evidence damaged; Eli's moral override incomplete.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 9 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** II
 ### Ch 10 — People Over Evidence *(Eli · the Thailand cooperative)*
 - **Deep-time residue — REVISED 2026-08-10:** Kitt's fork maps meet the physical *Shabdajal*, which the cooperative has preserved and corrected. The Maren's field notebook citation wakes **GHC / TREE 1 / R. KHAN** and a four-day-old maintenance handshake carrying Rasel's watering count. Wrong reading: the journal belongs to Eli because Maren wrote it. Cost: clean documentation burned; the cooperative grants bounded custody, retains its pages, and requires every later correction returned.
 - **Want:** protect the people in front of him.
@@ -505,6 +595,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 
 > **COMPLETE MEAL — LOCKED 2026-07-31; OUTCOME REVISED 2026-08-11:** Ch 11–13 must satisfy `55` § *Five delivery upgrades* #5 — finished thriller (chase, wonder, father reached and refused, irreversible costs) that also opens Book II. Not setup-only. Rasel's ring owns the public causal hook; the Sanxingdui tree owns the series visual system.
 
+---
+
+### Ch 10a — Evidence Burn (Eli · people over evidence — aftermath) — PLACEHOLDER SPLIT FROM EXISTING CH 10
+- **Timeline — PLACEHOLDER:** Same week — aftermath of the evidence confrontation; Kitt's fork maps meet the physical Shabdajal.
+- **Want / Attachment:** preserve the cooperative's knowledge; make sense of the damage.
+- **Obstacle:** evidence damaged; Custodians still inbound; Wren's resistance makes substitution visible.
+- **Choice → Cost:** Eli names his conduct and asks honestly for participation; Wren admits use and agrees to tell him first. Cost: fear of losing proof becomes certainty and command; trust without label.
+- **Deep-time residue — PLACEHOLDER:** Kitt's fork maps + physical Shabdajal as distributed network; GHC/TREE rhyme. Wrong reading: fork = faction code; Shabdajal = weapon. Cost: evidence damaged; moral hold incomplete.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 1 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** II
 ### Ch 11 — Human Doors *(Eli · Thailand → Laos closed → Vietnam detour → Yunnan → Sichuan)*
 - **Shireen memory transfer — LOCKED 2026-08-10:** Her garden warning remains the Bangladesh refusal Turning. Eli asks whether she remembers either parent. Shireen remembers the family's remembering more clearly than the people themselves. Eli sends the storm-room memory; she receives Rasel's cool hand as a detail no family story gave her and asks for another memory when he can. Wren hears the recording, powers the failing phone, and does not imitate either parent's touch.
 - **Deep-time residue — LOCKED 2026-07-30:** (1) border forms / suspended crossings as bureaucratic fossils of claiming; (2) Anika's biometric "protected line" as managed access rhyme with Göbekli later; (3) living freight/human doors vs institutional shortcut. Wrong reading: protected line = mercy; detour = wasted subplot. Cost: Dara's permit; Sora gate risk.
@@ -523,6 +623,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 
 > **FILE STATUS — 2026-08-11: Ch 12–13 cards below are stale.** `58_sanxingdui_climax_lock.md` (REVISED 2026-08-11) recharacterizes Rasel and the whole climax outcome: he was abducted at the failed rendezvous, later chose the Mandate program, did not sabotage its apparatus, lured Eli to Sanxingdui for calibration data, and is refused by Eli at the end — not recovered, not reunited, not accompanying the group afterward. The "Ender's Game reveal" / "instrument Maren designed" aftermath below, and the whole westward-with-Rasel Book II assumption, are explicitly named as superseded in that lock's own "Stale-material disposition" section. Do not draft from the cards below; use `58` directly. Left in place for prose salvage only, per that lock's "preserve useful prose... do not silently delete" instruction.
 
+---
+
+### Ch 11a — The Laos Border (Eli · Laos closure — border crossing) — PLACEHOLDER SPLIT FROM EXISTING CH 11
+- **Timeline — PLACEHOLDER:** Following week — Laos border closed; Eli forced into Vietnam detour; Shireen memory transfer.
+- **Want / Attachment:** continue toward Yunnan/Sanxingdui; maintain the rescue clock for Rasel.
+- **Obstacle:** documents and jurisdictions disagree; handoff keeps slipping; Laos closed; Wren cannot command a hidden route.
+- **Choice → Cost:** commits to the detour despite wrongness. Cost: exposure; time lost; margin burned.
+- **Deep-time residue — PLACEHOLDER:** border-era spray/burn scar as discipline mark; Shireen's garden warning as Bangladesh refusal Turning. Wrong reading: scar = war evidence; warning = threat. Cost: route compromised; trust strained.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 1 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** II
 ### Ch 12 — The Tree with No Top *(Eli · Sanxingdui Museum / conservation program)*
 - **Deep-time residue / ancient face payoff — LOCKED 2026-07-30:** Bronze Sacred Tree = Book I ancient face staged as wonder first (Shu art), then mesh without one trunk. Greenhouse / shelterbelt living route foreshadows Ch 13. Wrong reading: missing top = broken prophecy for Eli; tree = one genealogical trunk; conservation = mere museum. Cost: language-tree model fails; family answer does not arrive as possession.
 - **Delivery — LOCKED 2026-07-31:** wonder-before-ambush mandatory; antagonist job = conservation/security + coerced cadence clocks; chemistry = Luo/Qiao/Wren competence without lecture; ring memory may flash when family answer fails. **Forensic identification — LOCKED 2026-08-05:** Rasel is not visually confirmed on arrival. Three possible staff matches at the conservation program; one is a deliberate Charkha plant. Identification requires: (1) ring inscription decoding — "same soil" matched against Maren's field notebook index entry, which is embedded in a comparative field journal and requires Wren or Malai's archival skill to extract; (2) biometric fragment cross-check — Mandate intake photograph shows scarred hand and band, but the hand is cropped and the band angle obscures the inscription; conservator's supplementary log has a partial palm print; (3) material analysis — ring's alloy composition matched against Rasel's known Pelangi workshop output via a sample Suresh kept. The false lead is the Charkha plant: a staff member with a similar work history and a ring with a different inscription. The team must verify against at least two independent evidence strands before moving. No easy visual confirmation.
@@ -539,6 +649,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
   route.
 - **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (conservation-as-control; Mandate invented virtual top; demand that the object answer Eli's family question). What family/individual program operates? (Eli's competence-as-worth; hunger for a family answer that confirms his identity; Wren's civilian-first boundary). What pressure exceeds the program's vocabulary? (the tree as mesh, not trunk; objects that owe no response; Manual Override not as private power). What practice emerges—or fails to emerge—in the gap? (accepting correspondence without descent; conservation as civic act, not extraction; the tree revealing its own incompleteness).
 
+---
+
+### Ch 12a — Conservation Campus (Eli · Sanxingdui — campus and Mandate annex) — PLACEHOLDER SPLIT FROM EXISTING CH 12
+- **Timeline — PLACEHOLDER:** Sanxingdui conservation campus; Mandate annex surveillance; greenhouse preparation.
+- **Want / Attachment:** access the conservation data; find Rasel through the Mandate records.
+- **Obstacle:** Mandate annex security; Qiao's clearance window; Rasel's identity concealed under alias.
+- **Choice → Cost:** Eli accepts Qiao's risk and Luo's route. Cost: clearance window finite; Rasel still in apparatus; receiver cost visible in tremor.
+- **Deep-time residue — PLACEHOLDER:** Bronze Sacred Tree as distributed relation; nine traces wandering independently; mesh not trunk. Wrong reading: tree = prophecy; top = Eli's inheritance. Cost: invented top rejected; mesh confirmed, not hierarchy.
+- **Placeholder note — LOCKED:** All locked prose for this beat lives in existing Ch 1 card. This card is a draft split point only; no new locked prose is introduced here.
+- **Act:** II
 ### Ch 13 — The Living Route *(Eli · conservation campus / Mandate annex / greenhouse aftermath)*
 - **Deep-time residue / ancient face close — LOCKED 2026-07-30:** living drainage/shelterbelt + greenhouse tomatoes as distributed Tree enacted; multiple mismatched cadences defeat one master rhythm; neglected tomato tied to lab cuff = Living over Knowledge apparatus. Wrong reading: Manual Override = Eli's private power; reunion = restoration. Cost: Wren's standing burned; Qiao's clearance; father-son collision incomplete.
 - **Dual climax — ADDED 2026-08-09:** Scientific climax = Tree of Life as distributed mesh, not one trunk. Emotional climax = Wren reads Eli's charge patterns at the greenhouse threshold and realizes she has been treating his trajectory literacy as "just observation" when it is actually intimacy — he has been reading the charge pattern of living systems (hers, Rasel's, the growers') not as data but as presence. Her revision lands here: body-before-story, and the story is love, not technique. This is the Book I emotional victory that makes the scientific victory matter.
@@ -725,3 +845,37 @@ Singapore archive, clinical corridors, **cure framing** — not punitive Fractur
 | 10 | Behavior not speech | — | Hand held/released |
 | 11–12 | — | Permit race; consortium clock | — |
 | 13 | Composure after papers fail | Wren becomes the arrival | Presence without rescue claim |
+
+---
+
+## CHAPTER MAPPING — OLD TO NEW
+
+| New Ch | Old Ch | Title | Status |
+|---|---|---|---|
+| 1 | 1 | The Hour That Belongs to No One | EXISTING |
+| 2 | 1 | Saturday Departure | PLACEHOLDER SPLIT FROM EXISTING CH 1 |
+| 3 | 2 | His Hand / Checkpoints and the Stack | EXISTING |
+| 4 | 2 | Singapore Intake | PLACEHOLDER SPLIT FROM EXISTING CH 2 |
+| 5 | 3 | What Didn't Die | EXISTING |
+| 6 | 3 | Breach Recovery | PLACEHOLDER SPLIT FROM EXISTING CH 3 |
+| 7 | 4 | The Passage | EXISTING |
+| 8 | 4 | Departure and Wat | PLACEHOLDER SPLIT FROM EXISTING CH 4 |
+| 9 | 5 | The Field That Counts | EXISTING |
+| 10 | 5 | Grounding Arrival | PLACEHOLDER SPLIT FROM EXISTING CH 5 |
+| 11 | 6 | Midpoint: First Witness | EXISTING |
+| 12 | 6 | Witness Ground | PLACEHOLDER SPLIT FROM EXISTING CH 6 |
+| 13 | 7 | The Forming Line | EXISTING |
+| 14 | 7 | The Cooperative Edge | PLACEHOLDER SPLIT FROM EXISTING CH 7 |
+| 15 | 8 | Ila's Hands | EXISTING |
+| 16 | 8 | Hands and Repair | PLACEHOLDER SPLIT FROM EXISTING CH 8 |
+| 17 | 9 | Two Teams | EXISTING |
+| 18 | 9 | Civilian Response | PLACEHOLDER SPLIT FROM EXISTING CH 9 |
+| 19 | 10 | People Over Evidence | EXISTING |
+| 20 | 10 | Evidence Burn | PLACEHOLDER SPLIT FROM EXISTING CH 10 |
+| 21 | 11 | Human Doors | EXISTING |
+| 22 | 11 | The Laos Border | PLACEHOLDER SPLIT FROM EXISTING CH 11 |
+| 23 | 12 | The Tree with No Top | EXISTING |
+| 24 | 12 | Conservation Campus | PLACEHOLDER SPLIT FROM EXISTING CH 12 |
+| 25 | 13 | The Living Route | EXISTING |
+
+**Note:** New chapters 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24 are placeholders. All locked prose for these beats lives in the corresponding existing chapter cards.

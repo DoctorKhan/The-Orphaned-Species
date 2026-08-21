@@ -88,7 +88,7 @@
 
 ---
 
-## Chapter 1—The Boat at Morning [PLACEHOLDER]
+## Chapter 1—Distributed [EXISTING]
 The first argument is about a curtain.
 The dock warehouse has six grounded sleeping rooms and twelve people who now require
 them. The clinic proposes two cots per room. Wren proposes hanging conductive
@@ -5010,6 +5010,6 @@ He goes to sleep before it finishes.
 
 ---
 
-## Chapter 25—The Handover [SPLIT-FROM: Ch 18]
+## Chapter 25—The Handover [PLACEHOLDER]
 [PLACEHOLDER — draft prose here]
 

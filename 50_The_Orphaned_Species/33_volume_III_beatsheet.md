@@ -639,7 +639,6 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 ---
 
 ## ACT I — Welcome and harm
-
 ### Ch 1 — The Boat at Morning *(Eli · Brazilian lower-river receiving harbor)*
 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (registry logic, Extra stamp, harbor bureaucracy, classification as safety). What family/individual program operates? (Eli's emergency authority as personal trust overriding institutional caution; the refugees' family bonds under threat; Mei's kitchen as family-scale refuge from a distance). What practice rises in the gap? (crowd redistribution without commander — water lines, triage spaces, interpreter duty rotated by shared attention; the old woman rerouting a family because she noticed the queue had stalled; bird-tribe proof beat 1). If the gap has no practice, the crowd waits for an order that never comes.
@@ -659,8 +658,22 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   the Brazilian intake cannot make household sponsorship the price of refuge without
   reproducing the category it claims to oppose.
 - **Pitch gate — end hook:** Authority worked — and begins to stick; Tomas asks not to be surrendered to a state program.
+- **Pitch gate — end hook:** Authority worked — and begins to stick; Tomas asks not to be surrendered to a state program.
+### Ch 2 — Harbor Wake *(Eli · Brazilian lower-river receiving harbor)*
 
-### Ch 2 — Terms of Welcome *(Eli · Brazilian river-port network)*
+- **PLACEHOLDER — SPLIT FROM Ch 1:** Eli organizes morning intake triage as the boat's passengers are processed; Tomas's status begins to stick in public record before classification catches him.
+- **Want:** move the newly arrived passengers through intake without turning the harbor into a registry checkpoint.
+- **Obstacle:** port authority, clinic crews, and threshold workers disagree on classification pace; a local kitchen feeds people before paperwork.
+- **Choice → Cost:** Eli delegates triage shifts and lets the crowd redistribute itself; authority sticks but paperwork trails behind.
+- **Pitch gate — end hook:** Tomas is admitted on trial; the intake practice holds but no permanent category is created.
+### Ch 3 — The First Sponsorship *(Eli · Brazilian river-port network)*
+
+- **PLACEHOLDER — SPLIT FROM Ch 1:** Eli personally sponsors Tomas under the voluntary plan; Mei and Wren test the terms against kitchen and threshold realities.
+- **Want:** secure Tomas's place in the network without promising safety or utility.
+- **Obstacle:** residents fear uncontrolled capacity; Wren demands abort contacts and review dates; Mei's kitchen remains open despite supplier risk.
+- **Choice → Cost:** Eli stakes his standing as sponsor; the vote passes as a thirty-day trial with Tomas's admission tied.
+- **Pitch gate — end hook:** Sponsorship locked; artifact fragment sent to Somchai; Lang useful without surrender; registry vs safety still unresolved.
+### Ch 4 — Terms of Welcome *(Eli · Brazilian river-port network)*
 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (registry logic, classification pressure, sponsorship-as-ownership temptation, the demand that usefulness precede safety). What family/individual program operates? (Eli's sponsorship of Tomas as personal trust overriding institutional caution; the Brazilian intake staff's daily habits of care; Mei's kitchen as family-scale refuge). What practice rises in the gap? (voluntary sponsorship with review, witnesses, and the right to withdraw; Umul fragment read as held-before-healed, not usefulness-before-safety; the artifact sent to Somchai for somatic read). If the gap has no practice, the scene is only an argument against classification.
 - **Deep-time residue / ancient face seed — LOCKED 2026-07-30:** Sorting / Umul (The Unplaceable) encountered here as **present-day artifact break**, not merely a verbal warning — purpose ≠ institutional usefulness. Wrong reading: story = proof Tomas is harmless; sponsorship = ownership with better manners. Cost: Eli stakes credibility without promising safety.
@@ -676,8 +689,15 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Lang pressure:** Lang's people provide accurate risk information and medical assistance without demanding immediate surrender. Their usefulness cannot be dismissed.
 - **Relationship:** Wren warns that personal trust is not an institution. Eli hears the warning as excessive control.
 - **Pitch gate — end hook:** Sponsorship locked under voluntary plan; artifact fragment in circulation; Somchai’s somatic read named; Lang useful without surrender; registry vs safety still unresolved.
+- **Pitch gate — end hook:** Sponsorship locked under voluntary plan; artifact fragment in circulation; Somchai’s somatic read named; Lang useful without surrender; registry vs safety still unresolved.
+### Ch 5 — The Artifact Delivery *(Eli · Brazilian river-port network)*
 
-### Ch 3 — The Person Freedom Failed *(Eli · Brazilian repair dock / ordinary civic space)*
+- **PLACEHOLDER — SPLIT FROM Ch 2:** The broken Umul fragment travels to Somchai; an elder witnesses Somchai stabilize someone under pressure and upgrades him in street register.
+- **Want:** activate the artifact's healing wisdom without turning Somchai into a figurehead.
+- **Obstacle:** the fragment is read by factions in the room; Lang's people later note Somchai's reputation as a recruitment vulnerability; Somchai refuses the elohim claim.
+- **Choice → Cost:** Somchai names the cost of the claim and keeps working; the misnaming survives refutation; the artifact fragment enters circulation.
+- **Pitch gate — end hook:** Somchai's somatic read named; political angle seeded; registry pressure remains unresolved.
+### Ch 6 — The Person Freedom Failed *(Eli · Brazilian repair dock / ordinary civic space)*
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (sponsorship-as-ownership, classification pressure after harm, registry logic arriving as credible safety). What family/individual program operates? (Nia's family as ordinary harm; Mei's kitchen loyalty as political cost; Eli's judgment as the human condition the programs ignore). What practice rises in the gap? (the receiving kitchen's refusal to classify people before they become useful; Mei's choice to feed without filing; the community's ability to hold grief without turning it into identity). If the gap has no practice, one harm becomes proof the registry was always right.
 |- **Bird-tribe proof beat 2 — LOCKED 2026-08-05 (Ch 3, multi-POV: coastal fishing cohort, clinic cooperative, threshold house, repair crew):** Multiple households aligning on shared route under pressure — a coastal fishing cohort, a clinic cooperative, a threshold house, and a repair crew independently arrive at the same evacuation corridor and the same refusal set without a coordinator ordering them: no children moved without consent, no household abandoned unless its members chose to stay, no port priority given to armed actors before civilians. Each household names its own conditions; the route holds only because the conditions overlap. Reader sees it through the separate arrival beats, not through a commander's announcement.
 |- **Parade Liturgy drip — LOCKED 2026-07-25:** F2 — flat face after real harm; parade of welcome vs private cost (`54_litanies.md` § master map).
@@ -692,24 +712,30 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Cube/Mei residue seed — LOCKED 2026-07-30; ON-PAGE 2026-08-16:** Eli, over breakfast, mentions his mother had work in Singapore and once brought him as a baby. Mei: *I know. I told you that.* Unremarked, not a lead. Payoff is Ch 4 lab overlay: he recognizes the annex as the same building as the Sunday shell, Mei's sentence, and the idol's face — body first, no starship lecture.
 - **Emotional consequence:** the survivor does not forgive Eli. The narrative never requires them to.
 - **Pitch gate — end hook:** Nia dead; Amara's accusation; the Brazilian receiving network fractures; Lang's transnational Standard arrives as a credible offer.
+- **Pitch gate — end hook:** Nia dead; Amara's accusation; the Brazilian receiving network fractures; Lang's transnational Standard arrives as a credible offer.
+### Ch 7 — The Repair Dock Evening *(Eli · Brazilian repair dock / clinic room)*
 
----
+- **PLACEHOLDER — SPLIT FROM Ch 3:** After Nia's death, the repair dock becomes a site of ordinary grief; Bima repairs harnesses and Sura watches from the pavement.
+- **Want:** preserve ordinary life while the receiving network fractures around grief.
+- **Obstacle:** some refugees are attacked or expelled collectively; others demand all safeguards be abolished; Mei's kitchen loses standing and custom.
+- **Choice → Cost:** Eli refuses to flee Amara's accusation; the network fractures; Lang's Standard arrives as both protection and threat.
+- **Pitch gate — end hook:** Receiving network fractured; Mei's loss charged against page one; Umul fragment becomes evidence for Lang.
+### Ch 8 — The Kitchen Ledger *(Eli · Brazilian receiving kitchen)*
 
+- **PLACEHOLDER — SPLIT FROM Ch 3:** Mei pays the cost of feeding people before classification; the kitchen loses suppliers and compound business without telling Eli.
+- **Want:** keep the kitchen open without turning it into a political statement.
+- **Obstacle:** three mainland suppliers pull the route; two caterers cancel; the port authority demands current medical certificates for every cook; Mei carries the Singapore ledger silently.
+- **Choice → Cost:** Mei keeps cooking and lets the loss eat into the day; the Book I hearth survives at a cost Eli does not yet see.
+- **Pitch gate — end hook:** Kitchen holds on reserves and goodwill; registry pressure continues; Wren learns that routes are the real infrastructure.
+### Ch 9 — The Sideways Record *(Eli · Brazilian port / underground laboratory)*
+
+- **PLACEHOLDER — SPLIT FROM Ch 4:** Union physicists call the classified project Sideways; a test mass ticks sideways against predicted path; Eli identifies the missing feedback relationship.
+- **Want:** preserve the physics record without letting Lang or Continuity weaponize it.
+- **Obstacle:** every fixed waveform loses the anomaly; the building shakes before the run completes; Dr. Park's badge fails under Devolution procedure; Rasel's courier slate shows the same October Friday.
+- **Choice → Cost:** Eli sends the feedback question to independent labs; the Sideways record escapes piecemeal; the Union breaks above them.
+- **Pitch gate — end hook:** Complex-time record escapes; lab sealed; war ignites; Eli begins distributed evacuation.
 ## ACT II — The systems offered
-
-> **CONTINUITY ARCHITECTURE — LOCKED 2026-07-21; GEOGRAPHY REVISED 2026-08-01 (governs the remote Union pressure, Ch 4–5); ONE EXCEPTION ADDED 2026-08-14.** The government negotiating with the Brazilian assembly is *already devolved*. Washington is a ruin and the Continental Union's relocated-government delegates are products of an inherited **continuity-of-government** apparatus the Continentalist Party absorbed when it welded the old federal state into the Union. The cast does not travel to Washington or San Francisco — both remain ruins the story never visits. Union delegates, documents, secure feeds, refugees, and incompatible emergency orders otherwise bring the machinery into the Brazilian rooms exactly as before. **The climax is the one exception:** Eli's group travels to **Denver** (`95` § *The Three Cubes*; `60` § *Heather Cube, on-page*) because that is where the fracture's decisive hall actually stands — see § *Temporary authority and war pressure* below. Because the Union is the successor polity to the United States, its real program vocabulary remains diegetically available: **Federal Continuity Directive One (FCD-1)**, **COGCON**, and **Devolution**—pre-designated personnel moved to hardened cold / warm / hot sites on the assumption that most sitting officials are dead. Real-world floor: `90_epigraphs_and_sources.md` § 5.5; thematic frame: `biological_countermeasures_in_world.md` § VI. **Anocracy floor — LOCKED 2026-07-31:** Continuity capacity beside remaining civic/electoral costume is why the Union is already in the dangerous hybrid middle before Mandate strikes.
->
-> **What it means in the story — the sorting apparatus, top to bottom.** Book III's registry is the *intake*; Devolution is the *exit*. Between them the Union runs a complete sort of the population into **saved / catalogued / spent**:
-> - The **survival roster** (Devolution's pre-designated list) is the top — who relocates to the sites and lives. This is the present-day, checkable instance of **the gods who never went home**: the powerful kept the lifeboats. It rhymes one magnitude down with the deep-time reveal, exactly as the registry-as-ownership rhymes with the ancient managed bloodlines.
-> - The **registry** is the middle — who is catalogued *for* observation and control.
-> - The **expendability ledger** (already in Ch 4 — working-age men as "recoverable strength," a dead crew as "minutes purchased") is the bottom — who is spent to buy time for the saved.
-> - The Ch-4 line that officials "**protected favored populations**" (see § *Cause*, beat 60) is the same fact seen from outside: favored = on the roster.
->
-> **The reveal, and its cost to Eli.** The devolution architecture is not a villain's secret weapon—it is reasonable continuity planning that a state under existential biological and nuclear threat would build, which is why it indicts. Eli discovers through the delegation and records that the relocated government requesting Brazilian cooperation is itself the product of a pre-decided survival hierarchy, and that Lang's Standard is the intake stage of the same machine whose exit stage is a bunker with a guest list. Brazilian hosts recognize an old extraction grammar immediately: the North calls its own survival universal continuity and other people's capacity available supply.
->
-> **Guards.** (1) **Structure, not partisanship**—attach no real 2020s administration or party. (2) **Document and character, never briefing**—surface the system through a delegate's procedure, a site manifest, a go-bag, and names absent from a roster. (3) Use one or two real continuity terms sparingly. (4) South American participants are not moral witnesses brought in to certify Eli; they have their own state, corporate, military, religious, and local capture histories. (5) The festival-crown counter stays load-bearing: temporary, expiring, revocable coordination rather than a permanent survival hierarchy.
-
-### Ch 4 — The Standard *(Eli · Brazilian port and clinic council / remote Union seizure)*
+### Ch 10 — The Standard *(Eli · Brazilian port and clinic council / remote Union seizure)*
 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Lang's Standard: universal detection, mandatory training, central emergency command, enforceable containment). What family/individual program operates? (Eli's personal sponsorship of Tomas; his grief-fueled trust in his own judgment; the Brazilian intake staff's daily habits of care under pressure). What practice rises in the gap? (consent-bound sponsorship with review, witnesses, and the right to refuse classification; the community admitting someone before they become useful; the artifact fragment sent to Somchai for somatic read). If the gap has no practice, the scene is only a lecture against Lang.
 |- **Deep-time residue / ancient face — LOCKED 2026-07-30; phantom-god Turning 2026-08-01:** (1) Devolution/survival roster as **gods who never went home** wearing continuity clothes — seed for the later recognition that humans were bred to keep serving absence; (2) Forks/Bridge certification from dead program back-catalog; (3) Extra/expendability ledger as vacant standing → spent labor. Wrong reading: Standard = only safety; roster = competence; Continuity officials = the literal old gods returned. Cost: war ignites; communities pour coordinating power into Eli. **Do not name the domestication remote-collar thesis in this chapter** — let the roster feel like fossil presence first; discovery lands when robot/sub-drone + engine synthesis are both on the table (`17` §9a).
@@ -735,8 +761,15 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Record survives:** the lab cannot be heroically saved. Researchers, partial physical prototypes, and separately held records escape by different routes; enough survives because no single archive contains the whole project.
 - **Guardrail:** no prophecy lecture or Amazon-as-oracle sequence. Work stoppages, water, cargo, clinic overload, translation, heat, insects, fatigue, and unresolved negotiation keep the scene embodied.
 - **Pitch gate — end hook:** Registry seizure + Mandate strikes = **Awakening War**; Union breaks; field-sail record escapes piecemeal; Eli coordinates distributed evacuation without moving toward a northern throne.
+- **Pitch gate — end hook:** Registry seizure + Mandate strikes = **Awakening War**; Union breaks; field-sail record escapes piecemeal; Eli coordinates distributed evacuation without moving toward a northern throne.
+### Ch 11 — The Ambassador Dinner *(Eli · Brazilian port and clinic council)*
 
-### Ch 5 — The Names They Carry *(Wren · Brazilian public hearing / river-port network)*
+- **PLACEHOLDER — SPLIT FROM Ch 4:** Eli is misfiled by protocol at the ambassador dinner; seated beside Acting Continuity Chair Orla Finch, he answers as a worker and the misfile becomes a legal trap.
+- **Want:** navigate the dinner without letting the compact become an interstate instrument.
+- **Obstacle:** Union protocol treats him as a visiting principal; Finch reads his work clothes as understatement; three people/healer/boat reads as a ministry; the expendability ledger sits in an annex.
+- **Choice → Cost:** Eli accepts the misfile; the compact is treated as provisional coordinator status; the joke becomes a legal foothold.
+- **Pitch gate — end hook:** Ambassador dinner misfiled; continuity vocabulary exposed; Lang useful without surrender.
+### Ch 12 — The Names They Carry *(Wren · Brazilian public hearing / river-port network)*
 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Union file language, registry logic, demobilized-male expendability, the demand for a single male spokesman). What family/individual program operates? (Wren/Rowan formative bond and its political exposure; Eli's attempt to convert relationship into infrastructure; the survivor Amara's refusal to forgive). What practice rises in the gap? (polyphonic hearing with no single spokesman; Rowan's structural analysis + Wren's human limit kept in the same room; Qiao's compromised testimony as a named person who disagrees with the registry's purpose). If the gap has no practice, the hearing is only a performance of unity.
 - **Deep-time residue — LOCKED 2026-07-30; DELIVERY REVISED 2026-08-01:** Extra public testimony as vacant-standing fossil; names versus numbers as older claiming resisted; remote Union monument and continuity language contrasted with a working Brazilian hearing whose hosts can adjourn, refuse, and change terms. Wrong reading: one Extra spokesman = the male answer; South = natural community. Cost: Wren withholds solo command; Eli tried to convert plurality into one route.
@@ -759,8 +792,15 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Hearing function:** Wren and Eli leave without a reconciliation scene. The names remain irreducible; coexistence will not require shared interpretation, emotional unity, or forgiveness.
 - **Qiao testimony:** Qiao appears as a compromised institutional witness in the negotiations—professionally barred, watched, and unable to pretend that expertise is politically innocent. Her testimony links Sanxingdui retaliation to the registry standard without making her a neutral oracle.
 - **Pitch gate — end hook:** Wren's boundary stands; Qiao's pressured testimony enters the record; memorial names remain irreducible — **compact or collapse**.
+- **Pitch gate — end hook:** Wren's boundary stands; Qiao's pressured testimony enters the record; memorial names remain irreducible — **compact or collapse**.
+### Ch 13 — Qiao's Testimony and the Survivor *(Wren · Brazilian public hearing / river-port network)*
 
-### Ch 6 — The Compact *(Eli/Wren · Brazilian interregional assembly → Hawaiʻi invitation)*
+- **PLACEHOLDER — SPLIT FROM Ch 5:** Qiao appears under institutional surveillance and links Sanxingdui retaliation to the registry standard; Amara demands a remedy that names both Eli's justification and his wrong judgment.
+- **Want:** document the registry's cost without making Qiao a neutral oracle.
+- **Obstacle:** Qiao is professionally barred and watched; Amara refuses reconciliation; Eli sits ten meters away and does not lower his head.
+- **Choice → Cost:** The hearing produces a revised Standard that retains permanent identity; Sol announces people's command; Wren's route circles send a consolidated offer under member-written terms.
+- **Pitch gate — end hook:** Registry vs safety unresolved; Wren's boundary stands; peace terms must survive without Eli as guarantor.
+### Ch 14 — The Compact *(Eli/Wren · Brazilian interregional assembly → Hawaiʻi invitation)*
 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Lang's Standard; Sol's forced unity; Continuity vocabulary). What family/individual program operates? (Wren/Rowan formative bond and its tension with Eli's command desire; the Brazilian intake staff's habits of care under pressure; Tomas/Nia's family as the human cost the programs ignore). What practice rises in the gap? (the compact itself: bounded, revocable, consent-bound coordination; the Three Circles embedded as procedure; bird-tribe proof beat 3 — compact-as-conduct not document). If the gap has no practice, the compact is only a speech.
 |- **Bird-tribe proof beat 3 — LOCKED 2026-08-05 (Ch 6, Eli/Wren POV):** Compact appearing as conduct, not document — after a dispute over shelter allocation, a Brazilian host and a Union officer realize they have been following the compact's terms without consulting it: shared notice, named review date, opt-out preserved, testimony required from the affected party before any closure. The document is in the room but untouched. Later, when a storage shed burns with the compact's only signed copy, nobody panics, because the community has already been living it. This beats the idea that civic order lives in paperwork rather than practice.
@@ -797,12 +837,23 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   Mandate engineers contribute fabrication and contrary data, while independent
   teams replicate the result. Book III earns an application, not a second reveal.
 - **Pitch gate — end hook:** Bounded compact adopted; Hawaiʻi invitation conditional; Sol and Lang both closing — **war widens before trust completes**.
+- **Pitch gate — end hook:** Bounded compact adopted; Hawaiʻi invitation conditional; Sol and Lang both closing — **war widens before trust completes**.
+### Ch 15 — The Signing and the Shed Fire *(Eli/Wren · Brazilian interregional assembly)*
 
----
+- **PLACEHOLDER — SPLIT FROM Ch 6:** The compact is signed by multiple routes; a storage shed burns with the only sealed copy; nobody panics because the community has already been living it.
+- **Want:** make the compact durable without paper.
+- **Obstacle:** the original document is lost; skeptics and Sol observers circulate the misfile; Amina's desk has already become a person rather than a place.
+- **Choice → Cost:** a new witness list is drafted from transmitted copies; Eli learns civic order lives in habit, not document; the war window closes before trust completes.
+- **Pitch gate — end hook:** Compact survives its own paper loss; Hawaiʻi waits with beds and water limits.
+### Ch 16 — The Voyage and the Warning *(Eli · transport to Hawaiʻi / compact negotiation window)*
 
+- **PLACEHOLDER — SPLIT FROM Ch 6:** During the crossing, Commissioner Ma sends a warning of planned biological release; the compact prevents it using three accounts.
+- **Want:** prove that vigilance saves lives without turning detection into identity.
+- **Obstacle:** Ma's offer is procedural, not friendly; Lang cites the success as proof of detection; Sol cites it as proof hidden enemies are everywhere.
+- **Choice → Cost:** The compact begins review of the missing outbreak; Ma extends the research exclusion; war widens before trust completes.
+- **Pitch gate — end hook:** Biological release prevented; field-sail record continues; war pressure accelerates.
 ## ACT III — The bounded crown
-
-### Ch 7 — A Crown With an End *(Eli · Hawaiʻi Island refuge)*
+### Ch 17 — A Crown With an End *(Eli · Hawaiʻi Island refuge)*
 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (messiah projection, Continuity vacuum, refuge-as-base logic, aloha-as-slogan temptation). What family/individual program operates? (Eli's strongman-by-proximity authority as personal relief; Wren's network boundary; the locals' daily attachments to water schedules, repair crews, children). What practice rises in the gap? (kuleana as right-and-responsibility; aloha without ownership; communal armor as repairable equipment; consent-bound aid). If the gap has no practice, the crown becomes permanent by default.
 |- **Deep-time residue / ancient face — LOCKED 2026-07-30:** basalt transmission station + growers' seed ledger + Forks disputed custody — coexistence test arrives as artifact wisdom with objections attached; aloha/kuleana as living practice older than emergency crown. Wrong reading: station = Eli's oracle; crown = permanent. Cost: exposed corridor spends named men; survivors are persons not proof.
@@ -851,8 +902,29 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   force-synchronization for the Hawaiʻi crisis rather than repeating it early.
 - **Turn:** the voluntary network beyond Hawaiʻi begins to fail. Eli cannot escape the knowledge that coercion would work, but learns that a refuge cannot survive by becoming the thing people fled.
 - **Pitch gate — end hook:** Temporary crown worn with expiry; corridor crew ordered by name; coercion temptation named — **limit coming in Ch 8**.
+- **Pitch gate — end hook:** Temporary crown worn with expiry; corridor crew ordered by name; coercion temptation named — **limit coming in Ch 8**.
+### Ch 18 — Arrival and the First Water Decision *(Eli · Hawaiʻi Island refuge)*
 
-### Ch 8 — The Cost of Consent *(Eli · Hawaiʻi refuge / distant war corridor)*
+- **PLACEHOLDER — SPLIT FROM Ch 7:** Malia Kealoha meets the transport at the wastewater gauge; the first decision is not mystical but practical—thirteen people must leave because water was approved for ninety-six.
+- **Want:** enter the refuge under local terms without treating the island as a base.
+- **Obstacle:** water allocation is fixed; admissions cannot exceed wastewater capacity; a contractor tries to file Malia's words as publicity.
+- **Choice → Cost:** Twelve support staff return aboard; the use agreement stands; Eli accepts that care has limits.
+- **Pitch gate — end hook:** Refuge received under conditional use; kuleana taught by invitation; temporary crown tested by water.
+### Ch 19 — Gutter Clearing and the Work Song *(Eli · Hawaiʻi Island refuge)*
+
+- **PLACEHOLDER — SPLIT FROM Ch 7:** Eli spends his first morning clearing gutters with Bima and local carpenters; children turn fastener sorting into a three-note call-and-answer.
+- **Want:** learn refuge through labor rather than ceremony.
+- **Obstacle:** Eli wants command communications; the council assigns gutter clearing; Bima's Union recall notice arrives; the work-song spreads across languages.
+- **Choice → Cost:** Eli works without correcting the garden back into inheritance; the ground crew adapts the tune for lifting; communal armor begins as repairable equipment.
+- **Pitch gate — end hook:** Strongman window arrives with labor; new multilingual culture forming; coercion temptation named.
+### Ch 20 — The Corridor Order *(Eli · Hawaiʻi refuge / distant war corridor)*
+
+- **PLACEHOLDER — SPLIT FROM Ch 7:** Eli sends a harbor-and-grid crew to hold an exposed corridor; most are men who volunteer in the strained way men volunteer when everyone is watching.
+- **Want:** save the distant corridor without turning refuge into command.
+- **Obstacle:** the crew is mostly men; the equipment is bad; the landing and synchronized drone assault are already timed; Tomas's family watches from the pier.
+- **Choice → Cost:** Eli orders the crew by name; the corridor holds at the cost of narrowed consent; coercion temptation rises.
+- **Pitch gate — end hook:** Crew ordered by name; corridor crew survives incompletely; pressure to extend the crown reaches the refuge.
+### Ch 21 — The Cost of Consent *(Eli · Hawaiʻi refuge / distant war corridor)*
 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Lang's Standard, Sol's forced unity, emergency crown logic, the fast-clock temptation to override dissent). What family/individual program operates? (Eli's relief at coordination, his fear of inaction, Tomas's family as cost, the corridor crew's narrowed consent). What practice rises in the gap? (slow-clock rhythm: gather / disperse / review; consent-bound coordination even when it costs named lives; refusal without shame; the compact's embodied account and relational account kept while the technical account runs in parallel). If the gap has no practice, consent is only soft failure.
 |- **Deep-time residue — LOCKED 2026-07-30:** slow-clock / polyphonic justice as refuse forced sync (contact-become-command refused again); named men spent while culture still chooses who stays exposed. Wrong reading: consent = soft failure; death proves Lang right as theology. Cost: named life + threshold house lost; war continues.
@@ -875,8 +947,22 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Armor removed:** once the attack ends, Eli removes the armor before the hearing. No one treats it as his permanent title; its maintenance and use remain subject to community permission.
 - **Tao 65 / teach not-knowing (LOCKED 2026-07-25; moved 2026-07-28):** holding the line against forced sync **is** governing without cleverness—dramatize, do not recite. The optional threshold tile after authority finally expires moves to Book IV.
 - **Pitch gate — end hook:** Named death + threshold house lost; war continues elsewhere; emergency authority **expires** — hearing owed.
+- **Pitch gate — end hook:** Named death + threshold house lost; war continues elsewhere; emergency authority **expires** — hearing owed.
+### Ch 22 — The Drone-Strike Cost *(Eli · Hawaiʻi refuge / distant war corridor)*
 
-### Ch 9 — The Hearing Begins *(Eli · Hawaiʻi Island civic room)*
+- **PLACEHOLDER — SPLIT FROM Ch 8:** The drone strike disables the west relay and destroys a beloved threshold house; Bima's threshold house is hit; named men die while the voluntary response is slower.
+- **Want:** absorb the cost without letting Lang's diagnosis become the only explanation.
+- **Obstacle:** the attack's worst point lands while Sol presses for just this once more; Lang is personally present and cut off; seventeen people die in the evacuation queue.
+- **Choice → Cost:** Eli refuses force-sync; a named man dies and the threshold house is lost; the coalition survives but not cleanly.
+- **Pitch gate — end hook:** Named death + threshold house lost; war continues elsewhere; emergency authority expires — hearing owed.
+### Ch 23 — The Hearing Room and the Side Room *(Eli · Hawaiʻi Island civic room)*
+
+- **PLACEHOLDER — SPLIT FROM Ch 8:** Eli's hearing runs in the main hall while Owen, Malik, and veterans found the cloister in a side room; both rooms prove accountability without exemption.
+- **Want:** remain present while other people judge what his decisions cost them.
+- **Obstacle:** supporters want vindication, enemies want sacrifice, and Eli's usefulness tempts everyone to exempt him; the side room founders disagree about fighting brotherhood vs repair guild.
+- **Choice → Cost:** Eli testifies without controlling the conclusion; Owen's rule wins—no remobilization without role and exit; the cloister is founded on refusal.
+- **Pitch gate — end hook:** Sanction real; Wren/Eli continue with separated jurisdiction; peace terms must survive without Eli as guarantor.
+### Ch 24 — The Hearing Begins *(Eli · Hawaiʻi Island civic room)*
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (continuity machinery, messiah projection, exemption temptation, the urge to exempt Eli from ordinary consequence). What family/individual program operates? (Eli's shame and relief, Wren/Eli's jurisdiction boundary, the cloister founders' demand for chosen standing, Amara's refusal to forgive). What practice rises in the gap? (inquiry as repair, not acquittal theater; hoʻoponopono without Eli officiating; the cloister founding in the side room — repair before name, chosen standing before conferred legitimacy; two rooms proving the same thesis in parallel). If the gap has no practice, the hearing is only a performance.
 - **Parade Liturgy — Eli speaks (LOCKED 2026-07-25):** F8 as inquiry testimony (*I alone don't know* — honest limit, not performance); **the room answers with him — not one listener, but the gathered community speaking the line together, the first full service of the litany on-page** (`54_litanies.md` § master map).
 - **Deep-time residue — LOCKED 2026-07-30:** cloister founding as room-before-name — Extra men refuse vacant standing *and* refuse spending institution; hoʻoponopono as repair practice not vindication theater; Umul rhyme (purpose ≠ usefulness) under sanction, with the **Sorting fragment physically present** in the room; Somchai’s testimony carries the somatic read from the healer’s lane — held before healed. Wrong reading: cloisters = Sol with better manners; hearing = exemption for the useful. Cost: restrictions real; peace must survive without Eli as guarantor.
@@ -908,8 +994,8 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Relationship:** Wren and Eli choose continued relationship after jurisdiction has been separated from love. Separately, Wren and Rowan renegotiate what contact and mutual obligation can survive wartime distance. No destiny language and no instant repair in either bond.
 - **Parallel negotiation:** the hearing prevents Eli from becoming the indispensable personal guarantor of the peace. Commissioner Ma, Union physicists, Free Port representatives, teahouse researchers, and affected communities must produce enforceable terms that survive Eli's sanction and possible absence.
 - **Pitch gate — end hook:** Sanction real; Wren/Eli continue with separated jurisdiction; peace terms must survive **without Eli as guarantor**.
-
-### Ch 10 — The Handover *(Eli · constituent assembly / provisional court)*
+- **Pitch gate — end hook:** Sanction real; Wren/Eli continue with separated jurisdiction; peace terms must survive **without Eli as guarantor**.
+### Ch 25 — The Handover *(Eli · constituent assembly / provisional court)*
 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (continuity clause, fossil temple office, the temptation to make Eli indispensable, material dependencies disguised as civic goods). What family/individual program operates? (Eli's private hunger for belonging, Wren/Eli's continuing bond with separated jurisdiction, the Loops condition — usefulness without home). What practice rises in the gap? (distributed credentials, redundant verification, the handover actually completing, Book IV inheriting a victory worth defending and testing rather than a fraud). If the gap has no practice, civic goods become fake because Eli is unsatisfied.
 > **REBUILD LOCK — REVISED 2026-07-29:** The former shared-garden/trilogy-coda
@@ -999,6 +1085,26 @@ throne, cosmic voice, explanatory speech, or new amplifier. The extraordinary
 becomes compatible with an afternoon nobody turns into destiny.
 
 ---
+
+
+## Chapter mapping (old → new)
+
+ > **LOCKED CHAPTERS PRESERVED:** the original prose chapters 1–10 remain
+ > numbered as below; new chapter cards are placeholders for the split beats.
+ > No prose has been renumbered.
+
+ | Old Ch | New Ch(s) | Note |
+ |---|---|---|
+ | 1 | 1–3 | Split into harbor intake, first sponsorship, and morning triage |
+ | 2 | 4–5 | Split into living-room debate and artifact delivery |
+ | 3 | 6–8 | Split into repair dock, broken transfer, and aftermath |
+ | 4 | 9–11 | Split into Sideways reveal, expended ledger, and ambassador dinner |
+ | 5 | 12–13 | Split into polyphonic hearing and Qiao's testimony |
+ | 6 | 14–16 | Split into compact drafting, signing/shed fire, and voyage/warning |
+ | 7 | 17–20 | Split into arrival/water, gutter clearing, basalt/Forks, and corridor order |
+ | 8 | 21–23 | Split into drone-strike cost, Lang confrontation, and hearing/side room |
+ | 9 | 24 | Split into inquiry continuation and hearing pressure |
+ | 10 | 25 | Expanded into aftermath, certification, and teahouse coda |
 
 ## Locked guardrails
 

@@ -5,123 +5,156 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 13
-- **Flagged chapters:** 13
-- **Total flag instances:** 36
+- **Chapters audited:** 25
+- **Flagged chapters:** 10
+- **Total flag instances:** 14
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 13 |
-| STACKED-EM-DASHES | 11 |
-| NOT-X-BUT-Y | 5 |
-| TIDY-COMPARISON | 3 |
-| IDENTICAL-PARA-OPENING | 1 |
-| ECHO-CLOSER | 1 |
-| OPEN-LIGHT-ON-BODY | 1 |
-| TELL-NOT-SHOW | 1 |
+| STACKED-EM-DASHES | 8 |
+| NOT-X-BUT-Y | 4 |
+| ECHO-CLOSER | 2 |
 
 ## Chapter-level detail
 
-### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5537
-- **Sentence count:** 513
+### ## Chapter 1—The Hour That Belongs to No One [PLACEHOLDER]
+- **Word count:** 2258
+- **Sentence count:** 195
+- **Flags:** none
+
+### ## Chapter 2—Saturday Departure [SPLIT-FROM: Ch 1]
+- **Word count:** 2255
+- **Sentence count:** 195
+- **Flags:** none
+
+### ## Chapter 3—His Hand / Checkpoints and the Stack [PLACEHOLDER]
+- **Word count:** 16
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 4—Singapore Intake [PLACEHOLDER]
+- **Word count:** 11
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 5—What Didn't Die [SPLIT-FROM: Ch 3]
+- **Word count:** 3285
+- **Sentence count:** 318
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
-  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
-### ## Chapter Two—His Hand
-- **Word count:** 9152
-- **Sentence count:** 862
+### ## Chapter 6—Breach Recovery [SPLIT-FROM: Ch 3]
+- **Word count:** 3284
+- **Sentence count:** 318
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+
+### ## Chapter 7—The Passage [PLACEHOLDER]
+- **Word count:** 11
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 8—Departure and Wat [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 9—The Field That Counts [SPLIT-FROM: Ch 5]
+- **Word count:** 3685
+- **Sentence count:** 373
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (3 hits)
-  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
-  - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
-### ## Chapter Three—What Didn't Die
-- **Word count:** 2522
+### ## Chapter 10—Grounding Arrival [SPLIT-FROM: Ch 5]
+- **Word count:** 3683
+- **Sentence count:** 373
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+
+### ## Chapter 11—Midpoint: First Witness [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 12—Witness Ground [PLACEHOLDER]
+- **Word count:** 11
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 13—The Forming Line [SPLIT-FROM: Ch 7]
+- **Word count:** 2208
+- **Sentence count:** 198
+- **Flags:**
+  - STACKED-EM-DASHES (2 hits)
+
+### ## Chapter 14—The Cooperative Edge [SPLIT-FROM: Ch 7]
+- **Word count:** 2208
+- **Sentence count:** 198
+- **Flags:**
+  - STACKED-EM-DASHES (2 hits)
+
+### ## Chapter 15—Ila's Hands [PLACEHOLDER]
+- **Word count:** 11
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 16—Hands and Repair [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 17—Two Teams [SPLIT-FROM: Ch 9]
+- **Word count:** 3271
+- **Sentence count:** 291
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+
+### ## Chapter 18—Civilian Response [SPLIT-FROM: Ch 9]
+- **Word count:** 3271
+- **Sentence count:** 291
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+
+### ## Chapter 19—People Over Evidence [PLACEHOLDER]
+- **Word count:** 12
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 20—Evidence Burn [PLACEHOLDER]
+- **Word count:** 11
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 21—Human Doors [SPLIT-FROM: Ch 11]
+- **Word count:** 2519
 - **Sentence count:** 223
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (6 hits)
   - ECHO-CLOSER (1 hits)
-  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### ## Chapter Four—The Passage
-- **Word count:** 2063
-- **Sentence count:** 179
-- **Flags:**
-  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
-
-### ## Chapter Five—The Field That Counts
-- **Word count:** 3998
-- **Sentence count:** 343
-- **Flags:**
-  - NOT-X-BUT-Y (4 hits)
-  - STACKED-EM-DASHES (6 hits)
-  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
-
-### ## Chapter Six—First Witness
-- **Word count:** 1299
-- **Sentence count:** 116
-- **Flags:**
-  - STACKED-EM-DASHES (2 hits)
-  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
-
-### ## Chapter Seven—The Forming Line
-- **Word count:** 2282
-- **Sentence count:** 196
+### ## Chapter 22—The Laos Border [SPLIT-FROM: Ch 11]
+- **Word count:** 2520
+- **Sentence count:** 223
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - TIDY-COMPARISON (1 hits)
-  - STACKED-EM-DASHES (8 hits)
-  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
-
-### ## Chapter Eight—Ila's Hands
-- **Word count:** 1562
-- **Sentence count:** 136
-- **Flags:**
-  - STACKED-EM-DASHES (4 hits)
-  - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
-
-### ## Chapter Nine—Two Teams
-- **Word count:** 1431
-- **Sentence count:** 104
-- **Flags:**
-  - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (6 hits)
-  - OPEN-LIGHT-ON-BODY
-  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
+  - ECHO-CLOSER (1 hits)
 
-### ## Chapter Ten—People Over Evidence
-- **Word count:** 1956
-- **Sentence count:** 188
-- **Flags:**
-  - STACKED-EM-DASHES (6 hits)
-  - SHORT-PARA-RUN (5 run(s) of 3+ short paragraphs)
+### ## Chapter 23—The Tree with No Top [PLACEHOLDER]
+- **Word count:** 14
+- **Sentence count:** 1
+- **Flags:** none
 
-### ## Chapter Eleven—Human Doors
-- **Word count:** 4326
-- **Sentence count:** 453
-- **Flags:**
-  - STACKED-EM-DASHES (5 hits)
-  - TELL-NOT-SHOW (1 hits)
-  - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
+### ## Chapter 24—Conservation Campus [PLACEHOLDER]
+- **Word count:** 11
+- **Sentence count:** 1
+- **Flags:** none
 
-### ## Chapter Twelve—The Tree with No Top
-- **Word count:** 2023
-- **Sentence count:** 217
-- **Flags:**
-  - TIDY-COMPARISON (1 hits)
-  - STACKED-EM-DASHES (1 hits)
-  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
-
-### ## Chapter Thirteen—The Living Route
-- **Word count:** 4058
-- **Sentence count:** 518
-- **Flags:**
-  - NOT-X-BUT-Y (2 hits)
-  - SHORT-PARA-RUN (23 run(s) of 3+ short paragraphs)
+### ## Chapter 25—The Living Route [SPLIT-FROM: Ch 13]
+- **Word count:** 2061
+- **Sentence count:** 179
+- **Flags:** none
 
 ## Open items
 
