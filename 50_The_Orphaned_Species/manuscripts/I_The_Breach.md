@@ -131,7 +131,7 @@ The salt dries on his skin. He cannot say what happened out there, or whether th
 
 They make it to the end of the dock. He writes Eli's name on the loading slate. Then his voice drops to harbor register. "The job's yours. It's Circuit weekend in Singapore, so it'll be busy. Tire trucks. Marshalling under the grandstand. Your kind of cables, and you leave on the last safety car. Real transfer, not island chits. Stay off the Cube if you can—that's the show, not the work. Saturday, first light: Babaji's hotel—papers, then you wait for the boat. Walk like you belong until something proves you don't." He waits a beat too long before he adds, "Don't make me regret trusting you with this, boy."
 
-Kiran is still at the end of the dock, watching. Not at Suresh, not at the sheet, but at the loading slate with Eli's name on it. His jaw is set.
+Kiran is still at the end of the dock, watching. His eyes land on the loading slate with Eli's name on it. Not at Suresh, not at the sheet. His jaw is set.
 
 Suresh crouches to coil the loose sheet. His thumb finds the frayed end. He runs it along the cut once. "That's not chew," he says. "That's not salt-rot either."
 
@@ -515,7 +515,7 @@ She does not look up.
 
 The wage ticket disappears into the clerk's ledger. She stamps and hands him a discharge slip marked contractor lodging. "Continue Inn, arcade tier. Cherry Lane at first light Sunday, yards, not the show. Not tonight."
 
-The Babaji sleeve is back in his pocket. The stamp is still legible. He is not sure whether it bought the discharge or the clerk simply chose not to spend the next ticket. He does not ask.
+The Babaji sleeve is back in his pocket. The stamp is still legible. He does not ask whether it bought the discharge or the clerk chose not to spend the next ticket.
 
 ---
 
@@ -573,7 +573,7 @@ A stagehand dumps a freight case on him without looking. The case bites his hip.
 
 A slit in the service wall offers one stolen view upward: towers lit from within, gardens suspended in salt air.
 
-Above: the managed bloom. Cherry canopy under glass. Whole trees forced into eternal spring, pink so dense it looks edible, petals falling in a wind that is not weather but engineered breath. Walkways float through the blossom like jewelry. Light comes from everywhere and nowhere. Somewhere a string section is playing, but the sound reaches him through the glass, not the air, as if the orchard is a room with the doors shut. The crowd presses him forward. His shoulder hits the glass. A palm at his back, and he is facing the right way again. Someone behind him sighs, pleased, as if a difficult step has been demonstrated. He tries to step out. A gap opens and closes on him. His "sorry" is taken up as the next syllable of the chant. Heat climbs from the base of his spine into the clap. For one circuit it is a hand there again. Then it is only the walk, and the sealed glass goes by, and the woman in gloves pats his arm like a teacher whose slow student has finally joined.
+Above: the managed bloom. Cherry canopy under glass. Whole trees forced into eternal spring, pink so dense it looks edible, petals falling through a manufactured wind, not weather but engineered breath. Walkways float through the blossom like jewelry. Light comes from everywhere and nowhere. Somewhere a string section is playing, but the sound reaches him through the glass, not the air, as if the orchard is a room with the doors shut. The crowd presses him forward. His shoulder hits the glass. A palm at his back, and he is facing the right way again. Someone behind him sighs, pleased, as if a difficult step has been demonstrated. He tries to step out. A gap opens and closes on him. His "sorry" is taken up as the next syllable of the chant. Heat climbs from the base of his spine into the clap. For one circuit it is a hand there again. Then it is only the walk, and the sealed glass goes by, and the woman in gloves pats his arm like a teacher whose slow student has finally joined.
 
 A dresser shoves a jacket at him because everyone in the inner ring is wearing one. Instantly fan-recognizable. Phones come up. He puts a hand up to say not me. The jumbotron catches it. Forty thousand people put a hand up. The spiral delivers him to the stage lip anyway.
 
@@ -826,6 +826,13 @@ There are too many edges, and they can all feel him now.
 Somewhere above the water a hook scrapes stone.
 
 ---
+
+> **Malacca quay escape — ADDED 2026-08-21:** include Timah/Jul as the
+> submerged-channel detail that makes Salmah's haul-out possible: they are
+> already working the same lane, and their breath-hold/route knowledge gives
+> Salmah the one local fact she needs. They do not perform the rescue.
+> First on-page payoff of the Bajau diving skill, planted as operational,
+> not mystical.
 
 The surface breaks open around a length of boat hook, and a hand fists in his collar, and the river gives him up.
 
@@ -1203,7 +1210,7 @@ They leave the boat with one bag each and a driver who will not learn their name
 
 ---
 
-The mountain road is a stair that pretends to be a highway—the Pai–Chiang Mai hairpins, spiral after spiral, each switchback a step you earn with your stomach. Up is not metaphor; up is gears, drop, and who still has the nerve to follow. The monsoon has not finished arguing with the dry season; guardrails sometimes end before the drop does. Landslides score the shoulders. Oncoming trucks pass with high beams off and drivers who do not look. Wren sits forward, reading the driver’s shoulders; Eli sits with his palms open on his knees and the noise held behind his hands, one step of the stair at a time, the wat’s lesson not yet learned but already needed: *carrying the body when the head won't stay.*
+The mountain road climbs in spirals—the Pai–Chiang Mai hairpins, each switchback a step you earn with your stomach. Up is gears, drop, and who still has the nerve to follow. The monsoon has not finished arguing with the dry season; guardrails sometimes end before the drop does. Landslides score the shoulders. Oncoming trucks pass with high beams off and drivers who do not look. Wren sits forward, reading the driver’s shoulders; Eli sits with his palms open on his knees and the noise held behind his hands, one step of the stair at a time, the wat’s lesson not yet learned but already needed: *carrying the body when the head won't stay.*
 
 Twice the road narrows to a shelf above a gorge and the pickup walks it in first gear while jungle presses in on both sides—not ornamental green, a wall that could swallow the vehicle without comment. Ferns and strangler figs take the cliff seams; somewhere a wild banana has lodged in a crack and flung its leaves into the road like a dare. Eli's skull sends its old bright wire of pain on the tight curves. He breathes four in, six out. Wren, without looking at him, passes him a strip of ginger from her pocket. Height feels like escape until he remembers: the white cars hate the hairpins; they do not stop. Delay is not safety.
 
@@ -1259,7 +1266,7 @@ The wat sits above the valley like a hand cupped around a flame—timber and til
 
 For one held breath Eli lets it be only rain-dark wood and the smell of wet earth before the bell tower's single bell catches a wind and his body remembers a sala he has not earned yet. The remembering frightens him more than the Custodians on the water below. Calm arrives like a promise he has not been offered. He is only allowed to sit.
 
-It is not grand—no tourist buses, no donation boards in six languages—and behind the ordination hall a row of kuti so plain they might be chicken sheds if the silence didn't live in them. Monks sweep. A kettle boils. The schedule was already in motion before he arrived. The abbot greets Eli with joined palms and no questions—not *who are you* but *you may sit*. Wren does not enter; she takes the stilt-house landing with the boat and waits out the five days the way she waits out everything—facing the water, not counting. He goes up into silence; she stays at the water where routes live.
+No tourist buses, no donation boards in six languages—and behind the ordination hall a row of kuti so plain they might be chicken sheds if the silence didn't live in them. Monks sweep. A kettle boils. The schedule was already in motion before he arrived. The abbot greets Eli with joined palms and no questions—not *who are you* but *you may sit*. Wren does not enter; she takes the stilt-house landing with the boat and waits out the five days the way she waits out everything—facing the water, not counting. He goes up into silence; she stays at the water where routes live.
 
 The five days are work he learns by repetition, the way you learn a port.
 
@@ -1307,7 +1314,7 @@ The arc is there—you can see it from the dyke road, rice standing proud in a c
 
 "Photographed," Wren says, not loudly, taking Eli's elbow like a woman remarking on the weather. "The complaint was typed. Farmers here don't type. Walk, don't look up."
 
-They do not make the dyke road before the drone finds them. It is not one of the district machines—its rotor-buzz is deeper, slower, a sound that belongs to a different category of patience. It circles once at a height that means it is not recording for evidence but for presence. Wren keeps walking, her voice level, her arm linked through Eli's like a couple out for a view. Eli feels the alternate-lane ghost in his wrist-comp flicker once, green to grey to green. She does not look at it.
+They do not make the dyke road before the drone finds them. It belongs to a different category of patience—its rotor-buzz is deeper, slower, a sound that is not recording for evidence but for presence. It circles once at a height that means it is not recording for evidence but for presence. Wren keeps walking, her voice level, her arm linked through Eli's like a couple out for a view. Eli feels the alternate-lane ghost in his wrist-comp flicker once, green to grey to green. She does not look at it.
 
 At the boat, the contact from the landing is waiting with a folded district bulletin and a face that has already decided not to be surprised.
 
@@ -1535,7 +1542,7 @@ again, and hands her extension officer the instrument-locker key.
 
 The west block, walked on its marks, is Lung Thong's band grown up and grown strange. Signature geometry: the bund underfoot, the living band, the dead field beside it—three grades of truth in one glance.
 
-Here the line is wider—the eighty meters swelling toward a hundred—and it has begun, subtly, to organize: the drunk rice not just taller but tilting, whole rows leaning by degrees toward the band's center line like a congregation toward an aisle. Dragonflies stack above it here too. Kapok fluff drifts across the bund in the dawn wind; a stand of bamboo along the canal clicks its joints as if counting. The band moves half a beat behind the ordinary rice, so the light crosses the field twice—once, and then again, slower, as if the field were remembering it. It is, Eli realizes, standing on his mark with his hands quiet, the most beautiful thing he has seen since the breach. For one whole minute he forgets to be anyone's instrument and just watches a hundred meters of green think about light. He believes, for the length of that light, that beauty could be kept. Frogs sing louder inside it after dark, Malai's night-log says, and sing not at all in one place—
+Here the line is wider—the eighty meters swelling toward a hundred—and it has begun, subtly, to organize: the drunk rice not just taller but tilting, whole rows leaning by degrees toward the band's center line like a congregation toward an aisle. Dragonflies stack above it here too. Kapok fluff drifts across the bund in the dawn wind; a stand of bamboo along the canal clicks its joints as if counting. The band moves half a beat behind the ordinary rice, so the light crosses the field twice—once, and then again, slower, as if the field were remembering it.
 
 —which is the other thing, the thing the cooperative doesn't discuss in front of the children. Off the band's western edge sits a low field, two hectares, that nothing loves. One step down in altitude from the bund's worked life into a silence that feels like a cut wire. The rice in it germinates and stalls. The frogs skip it. Egrets land at its margin and do not walk in. It is not the old contamination. It tests clean, cleaner than clean, Malai says, and her mouth goes thin. It is just *dead*, in a way that no assay names—dead the way a socket is dead when the wire behind the wall has been cut out and carried off. Wonder and dread in the same horizon: the band singing, the socket mute.
 
@@ -2543,7 +2550,7 @@ It is enough to destroy the theory Eli brought into the room.
 
 Maren's field notebook is not a root system underlying every culture. It is one branch describing how she learned to look.
 
-Eli puts both palms flat on the table and feels again what the floor offered: not a trunk under the bronze, not a center asking to be occupied—pressure answering pressure late, the way the Thai rice answered itself, the way nine traces refuse to become one. The word arrives last, after the body has already corrected him.
+Eli puts both palms flat on the table and feels again what the floor offered: not a trunk under the bronze, not a center asking to be occupied—pressure answering pressure late, the way the Thai rice answered itself, the way five traces refuse to become one. The word arrives last, after the body has already corrected him.
 
 Mesh. Not tree.
 

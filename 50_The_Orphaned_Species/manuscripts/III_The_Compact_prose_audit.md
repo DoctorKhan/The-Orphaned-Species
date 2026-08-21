@@ -7,16 +7,16 @@
 ## Summary
 - **Chapters audited:** 10
 - **Flagged chapters:** 10
-- **Total flag instances:** 39
+- **Total flag instances:** 31
 
 | Flag | Chapters |
 |---|---|
-| TELL-NOT-SHOW | 10 |
 | SHORT-PARA-RUN | 10 |
 | NOT-X-BUT-Y | 6 |
 | ABSTRACT-DENSE | 5 |
 | STACKED-EM-DASHES | 3 |
 | ECHO-CLOSER | 3 |
+| TELL-NOT-SHOW | 2 |
 | ABSTRACT-OVER-BODY | 1 |
 | IDENTICAL-PARA-OPENING | 1 |
 
@@ -28,7 +28,6 @@
 - **Flags:**
   - NOT-X-BUT-Y (3 hits)
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (9 hits)
   - ABSTRACT-DENSE (22 abstract terms, 107 body terms)
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
@@ -36,7 +35,6 @@
 - **Word count:** 3938
 - **Sentence count:** 496
 - **Flags:**
-  - TELL-NOT-SHOW (5 hits)
   - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Three—Three Requests
@@ -44,7 +42,6 @@
 - **Sentence count:** 281
 - **Flags:**
   - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (2 hits)
   - SHORT-PARA-RUN (13 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Four—Lang's Folder
@@ -52,7 +49,6 @@
 - **Sentence count:** 519
 - **Flags:**
   - NOT-X-BUT-Y (3 hits)
-  - TELL-NOT-SHOW (6 hits)
   - ABSTRACT-DENSE (21 abstract terms, 95 body terms)
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
@@ -63,7 +59,6 @@
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (5 hits)
   - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (12 hits)
   - ABSTRACT-DENSE (26 abstract terms, 84 body terms)
   - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
 
@@ -72,7 +67,7 @@
 - **Sentence count:** 449
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
-  - TELL-NOT-SHOW (7 hits)
+  - TELL-NOT-SHOW (1 hits)
   - ABSTRACT-DENSE (31 abstract terms, 69 body terms)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
@@ -83,7 +78,6 @@
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (3 hits)
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
@@ -92,14 +86,12 @@
 - **Sentence count:** 496
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - TELL-NOT-SHOW (5 hits)
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Nine—The Packet
 - **Word count:** 3500
 - **Sentence count:** 456
 - **Flags:**
-  - TELL-NOT-SHOW (1 hits)
   - ABSTRACT-DENSE (22 abstract terms, 86 body terms)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
@@ -108,7 +100,7 @@
 - **Sentence count:** 237
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (3 hits)
+  - TELL-NOT-SHOW (1 hits)
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
 ## Open items

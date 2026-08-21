@@ -293,10 +293,18 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 - **Want:** recover enough to move without being classified.
 - **Attachment:** Salmah as ordinary rescuer; Wren's bounded help; Babaji's
   fallback contacts.
-- **Choice → Cost:** Eli chooses open pursuit over going dark. Cost: Salmah's
-  boat seized; her market access suspended; Eli transfers danger into an
-  ordinary worker's life.
-- **Revelation:** the human web saves him before the breach—Rasel's ring,
+|- **Choice → Cost:** Eli chooses open pursuit over going dark. Cost: Salmah's
+|  boat seized; her market access suspended; Eli transfers danger into an
+|  ordinary worker's life.
+|- **Timah/Jul Malacca appearance — ADDED 2026-08-21:** During the quay-gap
+|  escape, Timah and Jul are already working the submerged channel — harvesting
+|  or moving under the quay with ordinary breath-hold skill. Their presence gives
+|  Salmah the one local detail she needs: exact current, depth, and a submerged
+|  ladder/step that is not on any map. They do not perform a rescue; Salmah
+|  still pulls Eli out. Their skill makes the rescue possible at that exact spot.
+|  This is the first on-page payoff of the Bajau diving ability, and it plants
+|  the operational utility that later heists/escapes call on.
+|- **Revelation:** the human web saves him before the breach—Rasel's ring,
   Maren's engraving, the body-register proving the hunt is more than legal.
   The receiver opens; both teams converge.
 - **Romance cost:** Eli fears receiving help creates a debt that will decide

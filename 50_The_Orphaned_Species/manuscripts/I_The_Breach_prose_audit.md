@@ -7,37 +7,34 @@
 ## Summary
 - **Chapters audited:** 13
 - **Flagged chapters:** 13
-- **Total flag instances:** 48
+- **Total flag instances:** 36
 
 | Flag | Chapters |
 |---|---|
 | SHORT-PARA-RUN | 13 |
-| TELL-NOT-SHOW | 12 |
 | STACKED-EM-DASHES | 11 |
-| NOT-X-BUT-Y | 6 |
+| NOT-X-BUT-Y | 5 |
 | TIDY-COMPARISON | 3 |
 | IDENTICAL-PARA-OPENING | 1 |
 | ECHO-CLOSER | 1 |
 | OPEN-LIGHT-ON-BODY | 1 |
+| TELL-NOT-SHOW | 1 |
 
 ## Chapter-level detail
 
 ### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5535
-- **Sentence count:** 512
+- **Word count:** 5537
+- **Sentence count:** 513
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (17 hits)
   - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Two—His Hand
-- **Word count:** 9097
-- **Sentence count:** 860
+- **Word count:** 9152
+- **Sentence count:** 862
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (3 hits)
-  - TELL-NOT-SHOW (28 hits)
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
@@ -48,23 +45,20 @@
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (6 hits)
   - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (6 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Four—The Passage
 - **Word count:** 2063
 - **Sentence count:** 179
 - **Flags:**
-  - TELL-NOT-SHOW (3 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Five—The Field That Counts
-- **Word count:** 4013
+- **Word count:** 3998
 - **Sentence count:** 343
 - **Flags:**
-  - NOT-X-BUT-Y (3 hits)
-  - STACKED-EM-DASHES (7 hits)
-  - TELL-NOT-SHOW (14 hits)
+  - NOT-X-BUT-Y (4 hits)
+  - STACKED-EM-DASHES (6 hits)
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Six—First Witness
@@ -72,17 +66,15 @@
 - **Sentence count:** 116
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (3 hits)
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Seven—The Forming Line
-- **Word count:** 2356
-- **Sentence count:** 199
+- **Word count:** 2282
+- **Sentence count:** 196
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (8 hits)
-  - TELL-NOT-SHOW (5 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Eight—Ila's Hands
@@ -90,7 +82,6 @@
 - **Sentence count:** 136
 - **Flags:**
   - STACKED-EM-DASHES (4 hits)
-  - TELL-NOT-SHOW (1 hits)
   - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Nine—Two Teams
@@ -99,7 +90,6 @@
 - **Flags:**
   - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (6 hits)
-  - TELL-NOT-SHOW (6 hits)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
@@ -115,7 +105,7 @@
 - **Sentence count:** 453
 - **Flags:**
   - STACKED-EM-DASHES (5 hits)
-  - TELL-NOT-SHOW (13 hits)
+  - TELL-NOT-SHOW (1 hits)
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Twelve—The Tree with No Top
@@ -124,7 +114,6 @@
 - **Flags:**
   - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (7 hits)
   - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Thirteen—The Living Route
@@ -132,7 +121,6 @@
 - **Sentence count:** 518
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
-  - TELL-NOT-SHOW (4 hits)
   - SHORT-PARA-RUN (23 run(s) of 3+ short paragraphs)
 
 ## Open items

@@ -65,7 +65,7 @@ STACKED_EM_DASHES = re.compile(r"[^.!?\n]*—[^.!?\n]*—[^.!?\n]*")
 COLON_HEAVY = re.compile(r":[^:\n]{0,40}:[^:\n]{0,40}:")
 
 TELL_NOT_SHOW = re.compile(
-    r"\b(?:which\s+meant|in\s+other\s+words|that\s+is\s+to\s+say|in\s+effect|in\s+fact|in\s+reality|in\s+essence|really|actually|basically|essentially|simply|just|merely|only)\b",
+    r"\b(?:which\s+meant|in\s+other\s+words|that\s+is\s+to\s+say|in\s+effect|in\s+fact|in\s+reality|in\s+essence|really|actually|basically|essentially)\b",
     re.IGNORECASE,
 )
 

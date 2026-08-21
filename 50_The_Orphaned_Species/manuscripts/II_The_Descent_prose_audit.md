@@ -7,11 +7,10 @@
 ## Summary
 - **Chapters audited:** 10
 - **Flagged chapters:** 10
-- **Total flag instances:** 34
+- **Total flag instances:** 24
 
 | Flag | Chapters |
 |---|---|
-| TELL-NOT-SHOW | 10 |
 | SHORT-PARA-RUN | 10 |
 | NOT-X-BUT-Y | 6 |
 | STACKED-EM-DASHES | 4 |
@@ -25,7 +24,6 @@
 - **Sentence count:** 354
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - TELL-NOT-SHOW (6 hits)
   - SHORT-PARA-RUN (23 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Two—The Cold Container
@@ -33,7 +31,6 @@
 - **Sentence count:** 479
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
-  - TELL-NOT-SHOW (9 hits)
   - ABSTRACT-DENSE (31 abstract terms, 120 body terms)
   - SHORT-PARA-RUN (25 run(s) of 3+ short paragraphs)
 
@@ -42,7 +39,6 @@
 - **Sentence count:** 610
 - **Flags:**
   - NOT-X-BUT-Y (3 hits)
-  - TELL-NOT-SHOW (11 hits)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Four—The Healer's Terms
@@ -50,7 +46,6 @@
 - **Sentence count:** 561
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (6 hits)
   - SHORT-PARA-RUN (20 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Five—The Holding Site
@@ -59,14 +54,12 @@
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (6 hits)
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Six—The Changing Map
 - **Word count:** 3702
 - **Sentence count:** 532
 - **Flags:**
-  - TELL-NOT-SHOW (3 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Seven—The Riddling Ground
@@ -75,7 +68,6 @@
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (4 hits)
-  - TELL-NOT-SHOW (11 hits)
   - ABSTRACT-DENSE (24 abstract terms, 183 body terms)
   - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
 
@@ -84,7 +76,6 @@
 - **Sentence count:** 299
 - **Flags:**
   - STACKED-EM-DASHES (3 hits)
-  - TELL-NOT-SHOW (8 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
@@ -93,7 +84,6 @@
 - **Sentence count:** 436
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - TELL-NOT-SHOW (4 hits)
   - ABSTRACT-DENSE (22 abstract terms, 116 body terms)
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
@@ -101,7 +91,6 @@
 - **Word count:** 4364
 - **Sentence count:** 696
 - **Flags:**
-  - TELL-NOT-SHOW (5 hits)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
 ## Open items

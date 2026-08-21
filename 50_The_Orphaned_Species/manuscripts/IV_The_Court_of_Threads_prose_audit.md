@@ -7,12 +7,11 @@
 ## Summary
 - **Chapters audited:** 10
 - **Flagged chapters:** 10
-- **Total flag instances:** 28
+- **Total flag instances:** 19
 
 | Flag | Chapters |
 |---|---|
 | SHORT-PARA-RUN | 10 |
-| TELL-NOT-SHOW | 9 |
 | STACKED-EM-DASHES | 3 |
 | ABSTRACT-DENSE | 1 |
 | IDENTICAL-PARA-OPENING | 1 |
@@ -28,7 +27,6 @@
 - **Sentence count:** 791
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (12 hits)
   - ABSTRACT-DENSE (44 abstract terms, 187 body terms)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (2 run(s) of 3+ same-shape openings)
@@ -44,7 +42,6 @@
 - **Sentence count:** 283
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (5 hits)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
@@ -52,7 +49,6 @@
 - **Word count:** 2951
 - **Sentence count:** 361
 - **Flags:**
-  - TELL-NOT-SHOW (6 hits)
   - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Five—The Rumor
@@ -60,7 +56,6 @@
 - **Sentence count:** 289
 - **Flags:**
   - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (6 hits)
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Six—The Statement
@@ -68,7 +63,6 @@
 - **Sentence count:** 307
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - TELL-NOT-SHOW (3 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
@@ -76,7 +70,6 @@
 - **Word count:** 3386
 - **Sentence count:** 377
 - **Flags:**
-  - TELL-NOT-SHOW (9 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Eight—The Succession Debate
@@ -84,21 +77,18 @@
 - **Sentence count:** 336
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (4 hits)
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Nine—The Room Prepared
 - **Word count:** 1703
 - **Sentence count:** 231
 - **Flags:**
-  - TELL-NOT-SHOW (2 hits)
   - SHORT-PARA-RUN (6 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Ten—Before the First Breath
 - **Word count:** 4211
 - **Sentence count:** 500
 - **Flags:**
-  - TELL-NOT-SHOW (5 hits)
   - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
 
 ## Open items
