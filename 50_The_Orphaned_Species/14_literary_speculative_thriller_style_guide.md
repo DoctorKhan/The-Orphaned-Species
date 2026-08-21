@@ -92,6 +92,18 @@ Failed (chat, same voice): *She is the civilian the compact cannot file as a les
 
 Do not use these shapes in narration: *This is what X looks like when Y*; *That is the point*; two abstractions paired as insight. A character may say a short worn line. The narrator may not grade the scene.
 
+### Spectacle Shield / Borrowed Joy — LOCKED 2026-08-20
+
+When a scene injects wonder, beauty, or sensory overload into pursuit, it must function as escape engineering, not wallpaper. Use only when the spectacle does one of two jobs: hides the character from a tracker, or resets the adrenaline clock so the next threat lands harder. If it does neither, cut it.
+
+Three mandatory rules:
+
+1. **Camouflage Rule:** The beauty must actively reduce visibility or tracking. Crowd density, sensor noise, bio-signature scatter, light bloom—something the enemy's instruments cannot resolve.
+2. **Sensory Whip:** Transition violently from fear to beauty. The reader should feel the input change in one sentence: smell, sound, light, pressure.
+3. **Egg-Timer:** The joy expires on a visible clock inside the scene: set change, route exit, bow-wave dying, fuel burning, song ending. The reader must know the shelter is temporary.
+
+Do not narrate the moment as insight. Show the sensation, the hiding, and the countdown.
+
 ### Civic-page limits — LOCKED 2026-08-16
 
 Books I–IV. Full lock: `17` § *I–IV reader vocabulary* and § *Tomorrow test*.

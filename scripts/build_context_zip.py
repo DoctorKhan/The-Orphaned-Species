@@ -292,15 +292,24 @@ def main() -> None:
         )
 
     # 02_MANUSCRIPT_AUDITS: prose audit files.
-    for path in sorted(manuscript_dir.glob("*_prose_audit.md")):
-        if is_excluded(path):
+    audit_dir = manuscript_dir / "prose_audits"
+    audit_roots = [audit_dir, manuscript_dir]
+    found_audits = set()
+    for root in audit_roots:
+        if not root.exists():
             continue
-        text = read_file_safe(path)
-        if text is None:
-            continue
-        entries.append(
-            FileEntry(f"02_MANUSCRIPT_AUDITS/{path.name}", text, len(text.encode("utf-8")))
-        )
+        for path in sorted(root.glob("*_prose_audit.md")):
+            if is_excluded(path):
+                continue
+            if path.name in found_audits:
+                continue
+            text = read_file_safe(path)
+            if text is None:
+                continue
+            found_audits.add(path.name)
+            entries.append(
+                FileEntry(f"02_MANUSCRIPT_AUDITS/{path.name}", text, len(text.encode("utf-8")))
+            )
 
     entries.extend(collect_tree(ROOT / "50_The_Orphaned_Species", "03_PLANNING"))
     entries.extend(collect_companion_books())
