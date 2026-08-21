@@ -2070,7 +2070,13 @@ He sits back. Wren watches him without asking, which means she sees the dead end
 
 He tells Wren what Hassan said — the three loops, the instrument, the word Guanghan. She listens without correcting him, which is how he knows the connection holds. Together they feed the conservation network the citation code from the wafer, not from memory, not from hope — from the geometry of the thing Rasel's own hands cut into clay.
 
-Dara supplies a conservation-network credential from a card sewn into her permit wallet. The slate thinks for a moment, then refuses the dataset and fills instead with a woman's face.
+Dara supplies a conservation-network credential from a card sewn into her permit wallet. The slate accepts the citation code, thinks for a moment longer than either of them can afford, and then locks with a red banner: **cross-border research access — suspended pending security review.** The credential flashes once and goes dead. Dara reels it back in with her thumbnail before the screen goes dark.
+
+"The card is known now," she says, pulling a duplicate from deeper in the wallet. "This one is older. It gets us one request."
+
+Wren leans over Eli's shoulder and types a route layer into the conservation query—not the full geometry, just the innermost loop and the center point, the shape that would matter to a builder. She hits send before he can ask whether she is trading Dara's last clean credential for a guess.
+
+The slate thinks. Then it opens.
 
 Captain Anika Voss has removed the suit she wore in Malacca. Without it she looks less official and more tired. Pale hair scraped back. A bruise yellowing along one jaw. White wall behind her; filtered air; no insignia.
 
@@ -2677,7 +2683,7 @@ Luo retains authority over the conservation hall. She does not have authority ov
 
 They argue in Mandarin too fast for the slate. Luo wins nothing. Qiao puts on a rain shell.
 
-Nine annex staff. One guard team of six. Four Custodians expected after Anika's route correction. Rasel. No evidence of the rival field unit from Thailand.
+Nine annex staff. Five of them are Rasel's team. One guard team of six. Four Custodians expected after Anika's route correction. Rasel. No evidence of the rival field unit from Thailand.
 
 Wren assigns no one a hero's role.
 
@@ -2748,7 +2754,7 @@ At the annex boundary the culvert splits around a foundation. The left branch ca
 
 Rasel is left.
 
-Nine strangers are right.
+Nine strangers are right. Five of them are the team.
 
 The machine powers on.
 
@@ -2760,9 +2766,7 @@ This time he does not try to solve both before following.
 
 ---
 
-The annex staff come down the emergency stair walking too evenly—synchronized, not fleeing.
-
-Nine people placing their feet on the same beat, faces slack with the effort of being calm. At their rear, a Mandate officer speaks into a conductor clipped at his throat. Each phrase changes the cadence.
+The annex staff come down the emergency stair walking too evenly—synchronized, not fleeing. Five collaborators placing their feet on the same beat, faces slack with the effort of being calm. At their rear, the team lead speaks into a conductor clipped at his throat. Each phrase reshapes the cadence. He is the anchor.
 
 Wren sees it before Eli names it.
 
@@ -2770,7 +2774,7 @@ Wren sees it before Eli names it.
 
 She steps into the rain and throws a metal waste bin down the stair.
 
-The crash makes three people flinch off-beat. Eli reaches—not into them, not for control, but toward the pressure holding the rhythm together. On the plane it is a geometry of nine lines being pulled through one ring.
+The crash makes three people flinch off-beat. Eli reaches—not into them, not for control, but toward the pressure holding the rhythm together. On the plane it is a geometry of five lines being pulled through one ring, and the team lead's line is thicker than the others.
 
 He pushes against the ring.
 
@@ -2778,7 +2782,7 @@ It pushes back.
 
 His vision narrows. The old fracture hums.
 
-One staff member falls. The others step around her without looking.
+One collaborator falls. The others step around her without looking.
 
 Wren begins calling names from the badges Luo supplied.
 
@@ -2790,13 +2794,63 @@ Qiao opens every irrigation valve on the shelterbelt circuit.
 
 Water hammers the annex foundation. Pumps engage out of sequence. The apparatus compensates. The staff line stutters.
 
-Eli feels the system choose him.
+Eli feels the system choose the team lead.
 
-The pressure leaves the nine and closes around his signature.
+The pressure closes around the lead's signature first, bright and heavy, and the man's back straightens—not his own posture, the apparatus locking him into the anchor slot. His mouth opens to speak, but the conductor at his throat overrides him.
+
+Eli does not push against the ring this time. He steps into it.
+
+He meets the team lead's line on the plane and cuts it—not with force, but with a polarity the lead has never felt. The lead's signature snags, then buckles. His head snaps back. The conductor at his throat sparks.
+
+Eli's perception of time changes. Not slows—sharpens. Every sound in the annex yard reaches him with perfect clarity: rain on corrugated steel, a custodian's radio cough of static, the team lead's breath catching in his throat, Wren's heel tapping three beats against concrete. Five seconds before, these were background noise. Now they are coordinates. He can hold all of them at once. The field does not just connect him to the five collaborators. It lets him use what he is connected to.
+
+The five lines that were pulling through the ring now pull through Eli.
+
+He is the geometry.
+
+For one breath he knows he is not a body. The old fracture behind his temple is still there, but it belongs to something he is no longer wearing. He is not the vessel. He is not the contents. He is the space that holds both. The culvert walls, the rain, the five collaborators, the team lead sliding down the stair—all of it is temporary matter, slow and decaying. He is not. He is the thing the world is temporary against. Decay is something that happens to structures. He is no longer a structure. He is the field that outlasts them. The apparatus is not using him. He is using it, and the field knows which one he prefers.
 
 The world becomes clean.
 
 Too clean.
+
+Then Eli bends the field back the other way—positive to negative, a inversion that makes the apparatus whine. The team lead hits the stair wall and slides down it, hands over his ears, eyes shut against a frequency he can no longer command.
+
+Eli holds five strangers in a circuit he built alone.
+
+The rain stops feeling like rain. It feels like data.
+
+The old fracture behind his temple splits wide. Not a hum now—a hot line running from the base of his skull to the crown, like someone pushed a rod through the old break and is turning it. His left hand goes numb. He cannot feel the ground through his boot. He bends the field back the other way, positive to negative. The apparatus whines, and the whine becomes a taste: copper and battery acid. The team lead hits the stair wall and slides down it, hands over his ears, eyes shut against a frequency he can no longer command.
+
+Eli is still standing. The annex yard is quiet except for rain and breathing. He is the only thing still moving in it that matters.
+
+The power is not like the platform cup or the temple count. Those were clocks. This is a door that opens outward and does not close. He can feel the five collaborators through the field—their pulses, the fray in the team lead's rhythm, the collaborator who fell and is now sitting in the mud with her head between her knees. He could lift them all. He could hold them. He could make the rain reverse if he wanted. The thought arrives before he checks it.
+
+"Eli."
+
+Wren is at his elbow. She has stopped calling names. Her hand is on his upper arm, and her grip is the kind that used to pull him off a rail without asking. Her face is not wonder. It is the look she gets when a form she filled out comes back with a field crossed out in red.
+
+"Your nose," she says.
+
+He brings his hand up. Blood on his thumb. Not from a cut—from the inside. The fracture has bled into his sinus, quiet and fast.
+
+"What did you just do?" Her hand stays on his arm. Her knuckles are white.
+
+"Their lead is down," he says. His voice sounds like it is coming through the field, flattened, borrowed.
+
+"Not him. You."
+
+He looks at her and feels the field still humming through the five bodies, still waiting for him to tell it what to do. The power is a room he can walk into and lock the door from the inside. He already wants to go back.
+
+"I took the circuit," he says.
+
+"Can you put it down?"
+
+He tries. The field does not want to let go. It clings to his signature the way the machine clung to the team lead's. He feels the first thin wire of something that will later be god-sickness—a quiet refusal to let go. Letting go would mean returning to a body that counts doors. This body counts circuits. The field knows which one he prefers.
+
+He cannot put it down. The more he tries, the more the five collaborators seem to need him to hold them. Their faint distress pulls at him like a rope tied to his sternum—quiet, persistent, not asking for release. He could let them go. He chooses not to. The choice arrives before he names it.
+
+"Not yet."
 
 ---
 
@@ -2815,7 +2869,7 @@ Rasel's surprise lasts one breath. Then he checks the instrument bank.
 Rasel's voice stays level, the same register he once used over a split stem.
 
 The apparatus shifts its load from the staff line toward Eli. His knees strike
-the culvert floor. Nine traces slacken; one bright curve rises across the
+the culvert floor. Five traces slacken; one bright curve rises across the
 display behind Rasel.
 
 Anika enters with Tommy, the scout, and Sora. Rain darkens their shoulders.
@@ -2906,7 +2960,7 @@ Rasel moves among them with his bad hand steady on the controls.
 The circuit does not record Eli. It records what the ground does while he is
 open. That difference will matter to a machine builder. It offers Eli nothing.
 
-The staff line catches the same load. Nine bodies turn toward the chamber.
+The staff line catches the same load. Five bodies turn toward the chamber.
 Anika tightens their cadence to keep them standing.
 
 Wren knocks her heel against the concrete. Three beats. Her own count.
@@ -2984,6 +3038,12 @@ Wren's credential turns red.
 
 Employment suspended. Travel review. House standing referred. Pelangi return
 authorization withdrawn.
+
+The hostel door she reserved near the annex rejects the pass. The bicycle lane
+gate at the canal bridge reads the red and stays closed. Her payment link at
+the noodle stall across the street fails with a notification she cannot appeal
+until the review clears. She is still standing in the same city, holding the
+same body, but the city no longer recognizes her right to occupy it.
 
 She reads the screen once and pockets it.
 
