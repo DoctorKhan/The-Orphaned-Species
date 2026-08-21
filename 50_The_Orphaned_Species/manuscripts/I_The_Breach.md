@@ -28,7 +28,7 @@
 > **Craft revision pass — 2026-07-29 (flora / living route):** Named tropical plants as place-engine (Pelangi garden/marina; coastal chempaka/mangrove/casuarina; Thailand valley margins; Cube sealed orchard vs volunteer trees; Sanxingdui greenhouse basil/chili echo). Craft lock: `14` § *Flora as place-engine*.
 > **Craft revision pass — 2026-07-29 (pressure / literary):** Thailand Ch 5–10 dual-clock bills (Ros racks closed; shrine photo deadline; stay-for-polarity cost→next; health-fax claim window); Ch 7 leave/Ch 8 continuity fixed; soft-lie and coach-label cuts (Fear line, wat curriculum tags, band/miracle tag, Singapore cylinder tag).
 > **Maren's field notebook and parent-trail revision — 2026-08-11:** Eli remembers his childhood flight as a family holiday that ended when his parents left him at Mei's for what they said would be one night. Mei knows only that they failed to return and that Babaji filed them as dead to close the search around Eli. The Singapore/Malacca scan proves Maren's journal existed, and Rasel's intake image proves historical survival. The Thai cooperative holds the physical *Shabdajal*, reveals it after the evacuation, and grants bounded custody. Its four-day-old maintenance handshake is the first current evidence that Rasel lives.
-> **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1–3 seeded per `17` § *Deep-time residue density* — garden as living craft vs Foundry cables; missing-cohort play court; Mei's Singapore/baby Cube grief-seed; Extra lane as vacated standing; Three Circles wrong-first middle-ring read; kelong ask-the-water practice + basil rhyme. Ancient face = living plants → Sanxingdui.
+> **Craft revision pass — 2026-07-30 (deep-time residue density):** Ch 1–3 seeded per `17` § *Deep-time residue density* — garden as living craft vs Foundry cables; missing-cohort play court; Mei's Singapore/baby Cube grief-seed; Stray-lane as vacated standing; Three Circles wrong-first middle-ring read; kelong ask-the-water practice + basil rhyme. Ancient face = living plants → Sanxingdui.
 > **Craft revision pass — 2026-07-30 (residue density continued):** Ch 5 coffee mountain *not for sale*; Ch 7 dead-ground wrong-reading catch; Ch 11 border form as claiming fossil; Ch 12 missing-top hunger refused; Ch 13 mismatched cadences over master rhythm. Beatsheet residue lines Ch 6–13: `31`.
 > **Craft revision pass — 2026-07-27:** Wren pre-door choice groundwork; Maren classifier / Rasel coupling seeded (Ch 3); Ch 1–2 memory density trim; Ch 13 ending space + Wren pre-door choice; Ch 5/11 thinned; thesis-repetition cuts; civilian-cost callbacks; irreversible polarity-week loss; Ch 6 consent turn into Ch 7; Ch 12 perception-before-mesh; dangling clue quieting.
 > **Wat stack on-page — 2026-08-16:** candle / afterimage at the wat; same inverse used on Kru Dao's pad and failed at Rasel's mask (`67`, `68`).
@@ -77,7 +77,7 @@ An old woman kneels underwater at the bottom of the sea—Timah, the harvesters 
 
 "Clear the mark!" someone screams from the wall. Eli cannot tell from here whether it means Timah or him.
 
-The sheet jerks wrong against his fist in the same breath—give where there should be none, cordage answering slack instead of load. He doesn't look down; looking costs time, and his palm already knows what his eyes would only confirm. A strand gone. Then a second strand. The fray runs faster than plain wear.
+The sheet jerks wrong against his fist in the same breath—give where there should be none, cordage answering slack instead of load. He doesn't look down; looking costs time, and his palm already knows what his eyes would only confirm. A strand gone. Then a second strand. The fray runs faster than plain wear. Another hull is already moving on the far side of the lane.
 
 For one second the skiff is just wood and rope that answer wrong. Rope fails in one hand. Timah's hull fills the other side of the lane. Jul is about to surface.
 
@@ -89,7 +89,7 @@ Suresh's voice from the wall: "Now! Hold it!"
 
 Warning and command land in the same breath. He holds rope and wind together and clears the mark a boat-length wide. Timah is still below the surface. Jul climbs onto her shoulders. Neither sees how close they came.
 
-Somewhere behind him a second hull comes in too fast to matter now—Kiran, who saw the boom, the frayed line, the boy underwater, and put everything he had into closing the distance. He hauls the tiller over, pinches too hard chasing the correction, and the boom slams across. His hull rolls out from under him with a smack loud enough to carry over the wall. He comes up soaked and swearing in his home tongue, already looking for whose fault this was.
+The hull on the far side is closing too fast to matter now—Kiran, who saw the boom, the frayed line, the boy underwater, and put everything he had into closing the distance. He hauls the tiller over, pinches too hard chasing the correction, and the boom slams across. His hull rolls out from under him with a smack loud enough to carry over the wall. He comes up soaked and swearing in his home tongue, already looking for whose fault this was.
 
 The rope burns his palms. For one stupid second he looks for them on the quay. His mother would have been at the rail with her hair coming loose from its tie, already reading the next shift before the boats tied up. His father would have pretended not to have been watching at all, then pressed something green and living into his hand anyway, muttering about hands too lazy to grow anything worth eating. Neither is there. Salt and rope burn, and his arms empty.
 
@@ -193,27 +193,21 @@ Mei's mouth twitches, though she won't quite let herself laugh. "And you didn't 
 
 She takes a green coconut from the icebox, knocks the top open with the back corner of her cleaver, and sets it at his elbow without waiting for an answer.
 
-Suresh had stopped at her counter an hour before service and left before the dinner rush. She puts a second helping in front of him without being asked.
-
-"This is the last one on the chit circle," she says. "Eat it like you mean to come back, even if you don't."
-
-He eats. The harbor noise thins. She watches the marina, not his plate—feeding him before she says what she came to say. Below the terrace rail, banana leaves knock in the dark like soft applause; someone on the old-island side is burning coconut husk, and the smoke arrives sweet and oily under the frying oil.
-
-The nasi goreng tastes almost right—kecap manis, egg barely set, rice separated the way his mother cooked on nights the lab ran late and Rasel came in from the garden with dirt on his forearms and made jokes about physicists who couldn't boil water. Eli's throat tightens on the third bite.
+He drinks. The harbor noise thins. She watches the marina, not his plate. Below the terrace rail, banana leaves knock in the dark; someone on the old-island side is burning coconut husk, and the smoke arrives sweet and oily under the frying oil.
 
 "You slept in Rasel's garden last night."
 
 "I was tired—"
 
-From the shelf above the till she takes down a photograph Eli has known so long he hardly sees it anymore. His father, Rasel, stands in the unfinished garden, one hand black with soil. His mother leans against him, laughing at something outside the frame. At her throat hangs the ring Rasel made her, silver joined to brass, the seam left rough.
+From the shelf above the till she takes down a photograph. Eli has known it so long he hardly sees it anymore. His father, Rasel, stands in the unfinished garden, one hand black with soil. His mother leans against him, laughing at something outside the frame. At her throat hangs the ring Rasel made her, silver joined to brass, the seam left rough.
 
-"Every evening," Mei says, "while he watched the dead towers, your mother watered that row."
+"She wore that while she watered the row," Mei says.
 
 He keeps eating. She meant what she said about eat.
 
-The scold passes; Mei notices his expression and goes quiet, then sits beside him.
+Mei notices his expression and goes quiet, then sits beside him.
 
-"Your father—he was a strange one. He almost never spoke when he was young. Too much noise inside, he said. When he finally learned to quiet it, the stories came out of him like water."
+"Your father was a strange one," she says. "Almost never spoke when he was young. Too much noise inside, he said. When he finally learned to quiet it, the stories came out of him like water."
 
 She turns the photograph face-down.
 
@@ -221,7 +215,7 @@ She turns the photograph face-down.
 
 Eli sets down his fork. "Should have told me what."
 
-Mei's hands go to the teapot instead of him. She pours, doesn't drink. "The harbor office is asking about old families again this week. Yours came up in an old file." She sets the pot down harder than it needs. "You take Suresh's boat tomorrow night. Whatever that costs."
+Mei's hands go to the teapot instead of him. She pours, doesn't drink. "The harbor office is asking about old families again. Yours came up in an old file." She sets the pot down harder than it needs. "You take Suresh's boat tomorrow night. Whatever that costs."
 
 "What old file?"
 
@@ -275,7 +269,7 @@ Saturday, first light. The old hotel sits red under the dirt two blocks from the
 
 Eli is still carrying Mei's terrace in his chest—the taste of kecap manis, the photograph face-down on the table, the heat that leaked out of his neck while he ate. He presses his palm flat against the stair rail and the hotel smells like wet carpet and the same regret Mei's kitchen had at dusk.
 
-In the lobby a patched robot dog lies folded near a dead fountain, waiting on a route nobody has run in years, and an automatic chess board finishes the same captured opening against no one, pieces sliding their rails under glass gone cloudy at the corners. Eli has walked past both since he was small enough to think they were magic. He still isn't sure they aren't. He has been inside this building five times in his life, and never without Rasel.
+In the lobby a patched robot dog lies folded near a dead fountain, waiting on a route nobody has run in years, and an automatic chess set finishes the same captured opening against no one, pieces sliding their rails under glass gone cloudy at the corners. Eli has walked past both since he was small enough to think they were magic. He still isn't sure they aren't. He has been inside this building five times in his life, and never without Rasel.
 
 A young woman waits at the foot of the stair, dark hair drawn into a sleek knot, linen that reads host not harbor. She is beautiful enough that Eli notices the salt dried white on his own shirt. She holds his gaze as she makes room for him with one smooth step, fingers light on the banister. She does not offer her hand.
 
@@ -283,39 +277,69 @@ A young woman waits at the foot of the stair, dark hair drawn into a sleek knot,
 
 Eli climbs behind her, past floors built for someone's honeymoon and now boarded, laundered, or lived in by four quiet men and a kettle. The stairwell smells of mildew and old soap and the salt that eats everything here. Half the landings are dark. A door hangs off one hinge and bares a room with mattresses stacked like cargo. Then the stairs turn and the air changes—no mildew, no salt bloom, just hot water and varnish, as if someone drew a line in the building and told the rot to stop. The carpet under his boots is not the lobby's bald concrete. The handrail is metal, not rusted iron. The landing is not boarded.
 
-Babaji sits by a window with the drapes half-drawn, automatic chess paused mid-game on a cheap magnetic set—the pieces Rasel hated and bought anyway because Eli kept losing them over the rail. He does not stand.
+Babaji sits by a window with the drapes half-drawn. Automatic chess is paused mid-game on a cheap magnetic set—the pieces Rasel hated and bought anyway because Eli kept losing them over the rail. He does not stand.
 
-"The sponsor line is mine." He passes a folded contractor sleeve across the table. "The paper reads Foundry freight. That clears the corridor. The real job is Circuit night—marshalling, tire trucks, last safety car north. Stay off the Cube if the streets let you. The show is not your call." He hands it to the woman first, not to Eli. "Wren. Attest it."
+Eli stands in the doorway. The chair opposite is empty. He sits.
 
-She scans it on a tablet and signs before Eli's fingers close on the paper. Babaji's legal name where a sponsor goes. Rasel nowhere at all. She does not look at him while she works.
+"You came," Babaji says.
 
-Eli watches the blank space where Khan should sit. His thumb finds the edge of the paper and holds there. The contractor sleeve is still folded the way Babaji passed it—creaseline wrong for reading. He turns it right-side up only after Wren has already attested it.
+"I was told to."
 
-A floorboard creaks in the stairwell.
+"I was told you might not."
 
-Wren slides a call sheet across, the worker lane and Sunday marshalling already underlined in blue, twice. "You'll want the worker lane, not the other one," she says, unhurried, the way she might confirm a dinner reservation. "Freight call is Sunday—yards first, race after. I'll be with you as far as Singapore." She lets him read it before she adds, still without looking up, "If the Circuit boxes you, there is a hold under the Cube that rides the same trucks. Do not go looking for it. The other lane goes through full clearance. If your file flags, they don't send you back to the boat. Your corridor credential freezes. Your clinic intake goes dark. They send you to a room where nobody asks which band you came with." She meets his eyes for the first time since she picked up the tablet. "You have a Monday that matters to people counting on you. I can only keep the alternate lane warm. The system breaks people before noon on a day they cannot move, and it does not care which day."
+He passes a folded contractor sleeve across the table. The paper reads Foundry freight. That clears the corridor. The real job is Circuit night—marshalling, tire trucks, last safety car north. Stay off the Cube if the streets let you. The show is not your call.
+
+"I signed it last night," Babaji says. "Before the men came to the desk."
+
+Eli turns the paper over. The sponsor line is in Babaji's legal name. Rasel nowhere at all.
+
+"You knew my father."
+
+"I knew a man who laughed so loud at his own stories the other guests in the garden asked for quieter rooms. I knew a woman who watered a row of tomatoes while the unfinished towers leaned into the monsoon and never seemed to notice the rain. I knew a pair who put you on Mei's chair and walked out with two bags and said one night."
+
+He leans back. The chess set catches the window light.
+
+"I never learned whether they ran, were taken, or didn't come back. I closed the file because the harbor office asked questions I could not answer, and because I did not want the questions to find you."
+
+Eli's thumb finds the edge of the paper and holds there. "You wrote me dead."
+
+"I wrote you not theirs. There is a difference."
+
+He opens the bottom drawer and slides the folder across. The stamp is red and final. The names are his parents' and the date is the morning after they failed to come back. Under the names, in handwriting Eli knows, Babaji has written: Name separated. Do not link to hotel records. Eli is not listed.
+
+The Mandate keeps its own files, and those would have taken longer to find him. But in Pelangi, a man's corridor is only as long as the sponsor who will vouch for him. Babaji had cut Eli's in half before anyone else could.
+
+A floorboard creaks in the stairwell. Neither of them looks.
+
+The young woman steps into the room—dark hair drawn into a sleek knot, linen that reads host not harbor, beautiful enough that Eli notices the salt dried white on his own shirt. She holds his gaze as she makes room for herself with one smooth step, fingers light on the banister. She does not offer her hand.
+
+"Wren," Babaji says. "Attest it."
+
+She scans the contractor sleeve on a tablet and signs before Eli's fingers close on the paper. Babaji's legal name where a sponsor goes. Rasel nowhere at all. She does not look at him while she works.
+
+"Freight call is Sunday," she says, sliding the attested copy across. "Yards first, race after. Worker lane, not the other one. I'll be with you as far as Singapore."
+
+She lets him read it before she adds, still without looking up: "If the Circuit boxes you, there is a hold under the Cube that rides the same trucks. Do not go looking for it. The other lane goes through full clearance. If your file flags, they don't send you back to the boat. Your corridor credential freezes. Your clinic intake goes dark. They send you to a room where nobody asks which band you came with."
+
+She meets his eyes for the first time since she picked up the tablet. "You have a Monday that matters to people counting on you. I can only keep the alternate lane warm. The system breaks people before noon on a day they cannot move, and it does not care which day."
 
 Eli reads the offer twice. He almost says yes. He does not.
 
-Friday is still in Eli's chest. His hands won't stay still on the table edge. The wallpaper here is the same pale water-stain pattern as Mei's kitchen. He presses his palm flat and the grain bites his skin.
+Babaji watches the silence stretch. "She is right about the system. I am right about the boat. The two things are not the same."
 
-Wren sets tea between his hands. "You're not paying anyone back in this room." She returns to the tablet. "Drink."
+He passes Eli the magnetic chess set. The pieces are the ones Rasel bought because Eli kept losing the wooden ones over the rail.
 
-He folds both hands around the cup. Tea trembles against the rim.
+"Your mother always took my queen in four moves," Babaji says. "Your father took my bishop before I could explain why I moved it. You take longer than either of them."
 
-"Proceed," Babaji says.
+Eli lifts a pawn. The board is cold under his fingers.
 
-"He is," Wren says.
+"You want to know what is in the file," Babaji says. It is not a question.
 
-Wren takes him down through the boarded floors and out to a launch tied at the marina steps. She takes the tiller herself and points it back toward Mei's side of the reach. Halfway across the harbor Eli says, too loud, "They told me my father was dead."
+"Yes."
 
-Wren keeps both hands on the tiller. Her knuckles whiten. She lets the silence stretch until the hull's breathing slows, then she says, "Mei told you nobody saw him die."
+"I do not have it. The men who came to the desk this week have it. I have only what I wrote, and what I wrote is not the truth. It is the cover. There is a difference."
 
-"Last night."
-
-"That's still grief. You don't work it off before noon."
-
-He watches her hands return to the tiller.
+He stands then, slowly, the way a man stands when he has said the thing he came into the room to say and means to leave the rest for someone else. Wren is already at the door, waiting to show him out.
 
 At the pier he is already moving—Mei's service cable, junction after junction, faster than the work needs, as if speed could reach the morning his parents failed to come back. White hulls gather at the reach's edge before he closes the first box. By the second, a drone crosses the plaza: voluntary screening, bridge closed, shelter in place except essential corridor workers. It does not feel voluntary. Every phone loses its bars before the third. Remittance lane dead with them. He opens the app anyway. The screen is a spinning ring against a dead bar. Nothing leaves Pelangi until somebody reopens the corridor. The channel south to Meridian City is the only route Wren's manifest says is still running, and it is running only because the paperwork says it must.
 
@@ -375,7 +399,7 @@ The gantry hesitates. Then hums, and passes him.
 
 He is through the first gate. Wren's hand finds his elbow and guides him toward the second read. The next arch measures what the first one did not: dilation in the eyes, pulse at the temple, the micro-adjustments a body makes when it thinks it is not being watched. The sensors do not touch him. They take what they need from the light.
 
-"Your body is ahead of your head." She murmurs it. "Breathe before the next door."
+"Your body is ahead of your head." She murmurs it. "Breathe before the next door. The system calls it something else. Don't let it be your name."
 
 He tries. When they step off the wet stone her hand is still curled around the call sheet. He touches the paper and lets go. She eases her grip one beat later, then walks on.
 
@@ -393,7 +417,7 @@ Then a transit gantry under a roof that leaks. Then two buses. Wren picks the se
 
 At the causeway hall, marble the color of cold milk, cameras and lights flattering every face equally, a clerk turns a small sign toward a man in a demobilization coat: UNSPONSORED MALE / LOWER CONCOURSE.
 
-"Extra." A woman behind Eli says it and pulls her daughter closer. "Spare us."
+"Stray." A woman behind Eli says it and pulls her daughter closer. "Spare us."
 
 "Spare us," her daughter says, not loud enough for the clerk to hear.
 
