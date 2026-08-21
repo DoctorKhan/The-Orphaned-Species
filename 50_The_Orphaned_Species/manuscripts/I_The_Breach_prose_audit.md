@@ -7,7 +7,7 @@
 ## Summary
 - **Chapters audited:** 13
 - **Flagged chapters:** 13
-- **Total flag instances:** 47
+- **Total flag instances:** 48
 
 | Flag | Chapters |
 |---|---|
@@ -16,32 +16,34 @@
 | STACKED-EM-DASHES | 11 |
 | NOT-X-BUT-Y | 6 |
 | TIDY-COMPARISON | 3 |
+| IDENTICAL-PARA-OPENING | 1 |
 | ECHO-CLOSER | 1 |
 | OPEN-LIGHT-ON-BODY | 1 |
 
 ## Chapter-level detail
 
 ### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5343
-- **Sentence count:** 482
+- **Word count:** 5535
+- **Sentence count:** 512
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (15 hits)
-  - SHORT-PARA-RUN (7 run(s) of 3+ short paragraphs)
+  - TELL-NOT-SHOW (17 hits)
+  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Two—His Hand
-- **Word count:** 8343
-- **Sentence count:** 799
+- **Word count:** 8954
+- **Sentence count:** 851
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (21 hits)
-  - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
+  - STACKED-EM-DASHES (3 hits)
+  - TELL-NOT-SHOW (26 hits)
+  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
+  - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
 ### ## Chapter Three—What Didn't Die
-- **Word count:** 2485
-- **Sentence count:** 219
+- **Word count:** 2522
+- **Sentence count:** 223
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (6 hits)
@@ -57,13 +59,13 @@
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Five—The Field That Counts
-- **Word count:** 3806
-- **Sentence count:** 327
+- **Word count:** 4013
+- **Sentence count:** 343
 - **Flags:**
-  - NOT-X-BUT-Y (2 hits)
+  - NOT-X-BUT-Y (3 hits)
   - STACKED-EM-DASHES (7 hits)
-  - TELL-NOT-SHOW (13 hits)
-  - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
+  - TELL-NOT-SHOW (14 hits)
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Six—First Witness
 - **Word count:** 1238
@@ -74,12 +76,12 @@
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Seven—The Forming Line
-- **Word count:** 2252
-- **Sentence count:** 186
+- **Word count:** 2356
+- **Sentence count:** 199
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - TIDY-COMPARISON (1 hits)
-  - STACKED-EM-DASHES (7 hits)
+  - STACKED-EM-DASHES (8 hits)
   - TELL-NOT-SHOW (5 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
@@ -92,27 +94,27 @@
   - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Nine—Two Teams
-- **Word count:** 1385
+- **Word count:** 1431
 - **Sentence count:** 104
 - **Flags:**
   - TIDY-COMPARISON (1 hits)
-  - STACKED-EM-DASHES (4 hits)
+  - STACKED-EM-DASHES (6 hits)
   - TELL-NOT-SHOW (6 hits)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Ten—People Over Evidence
-- **Word count:** 1902
-- **Sentence count:** 185
+- **Word count:** 1956
+- **Sentence count:** 188
 - **Flags:**
   - STACKED-EM-DASHES (6 hits)
-  - SHORT-PARA-RUN (4 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (5 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Eleven—Human Doors
-- **Word count:** 3993
-- **Sentence count:** 425
+- **Word count:** 4098
+- **Sentence count:** 435
 - **Flags:**
-  - STACKED-EM-DASHES (4 hits)
+  - STACKED-EM-DASHES (5 hits)
   - TELL-NOT-SHOW (11 hits)
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
@@ -126,8 +128,8 @@
   - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Thirteen—The Living Route
-- **Word count:** 3066
-- **Sentence count:** 418
+- **Word count:** 3087
+- **Sentence count:** 421
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - TELL-NOT-SHOW (1 hits)

@@ -78,7 +78,7 @@
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Seven—A Crown With an End
-- **Word count:** 2945
+- **Word count:** 2946
 - **Sentence count:** 353
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
@@ -96,7 +96,7 @@
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Nine—The Packet
-- **Word count:** 3499
+- **Word count:** 3500
 - **Sentence count:** 456
 - **Flags:**
   - TELL-NOT-SHOW (1 hits)

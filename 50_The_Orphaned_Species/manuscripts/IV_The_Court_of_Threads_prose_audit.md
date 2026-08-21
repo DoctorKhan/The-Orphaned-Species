@@ -64,7 +64,7 @@
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Six—The Statement
-- **Word count:** 2322
+- **Word count:** 2323
 - **Sentence count:** 307
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
@@ -73,7 +73,7 @@
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Seven—The Two Houses
-- **Word count:** 3384
+- **Word count:** 3386
 - **Sentence count:** 377
 - **Flags:**
   - TELL-NOT-SHOW (9 hits)
