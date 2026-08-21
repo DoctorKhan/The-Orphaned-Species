@@ -1,166 +1,127 @@
-# Volume I — *The Breach* — Prose Audit
+# I — The Breach — Prose Audit
 *Generated from on-disk files. Rerun after prose revisions.*
 
-> **Generated:** current as of last script run.
+> **Generated:** 2026-08-21 17:15 UTC
 > Treat as draft until manual review.
-
-## Summary
-- **Chapters audited:** 13
-- **Flagged chapters:** 13
-- **Total flag instances:** 48
+- **Chapters audited:** 25
+- **Flagged chapters:** 12
+- **Total flag instances:** 33
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 13 |
+| EM-DASHES | 9 |
 | TELL-NOT-SHOW | 12 |
-| STACKED-EM-DASHES | 11 |
-| NOT-X-BUT-Y | 6 |
-| TIDY-COMPARISON | 3 |
-| IDENTICAL-PARA-OPENING | 1 |
-| ECHO-CLOSER | 1 |
-| OPEN-LIGHT-ON-BODY | 1 |
+| NOT-X-BUT-Y | 12 |
 
-## Chapter-level detail
+## Summary
+### Ch 01 — Distributed [EXISTING]
+- **Words:** 2247
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
 
-### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5535
-- **Sentence count:** 512
-- **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (17 hits)
-  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
+### Ch 02 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
 
-### ## Chapter Two—His Hand
-- **Word count:** 8954
-- **Sentence count:** 851
-- **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (3 hits)
-  - TELL-NOT-SHOW (26 hits)
-  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
-  - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
+### Ch 03 — Distributed [EXISTING]
+- **Words:** 3276
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
 
-### ## Chapter Three—What Didn't Die
-- **Word count:** 2522
-- **Sentence count:** 223
-- **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (6 hits)
-  - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (6 hits)
-  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
+### Ch 04 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
 
-### ## Chapter Four—The Passage
-- **Word count:** 1987
-- **Sentence count:** 176
-- **Flags:**
-  - TELL-NOT-SHOW (1 hits)
-  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
+### Ch 05 — Distributed [EXISTING]
+- **Words:** 3675
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, TELL-NOT-SHOW
 
-### ## Chapter Five—The Field That Counts
-- **Word count:** 4013
-- **Sentence count:** 343
-- **Flags:**
-  - NOT-X-BUT-Y (3 hits)
-  - STACKED-EM-DASHES (7 hits)
-  - TELL-NOT-SHOW (14 hits)
-  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
+### Ch 06 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
 
-### ## Chapter Six—First Witness
-- **Word count:** 1238
-- **Sentence count:** 112
-- **Flags:**
-  - STACKED-EM-DASHES (2 hits)
-  - TELL-NOT-SHOW (2 hits)
-  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
+### Ch 07 — Distributed [EXISTING]
+- **Words:** 2199
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, TELL-NOT-SHOW
 
-### ## Chapter Seven—The Forming Line
-- **Word count:** 2356
-- **Sentence count:** 199
-- **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-  - TIDY-COMPARISON (1 hits)
-  - STACKED-EM-DASHES (8 hits)
-  - TELL-NOT-SHOW (5 hits)
-  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
+### Ch 08 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
 
-### ## Chapter Eight—Ila's Hands
-- **Word count:** 1443
-- **Sentence count:** 127
-- **Flags:**
-  - STACKED-EM-DASHES (4 hits)
-  - TELL-NOT-SHOW (1 hits)
-  - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
+### Ch 09 — Distributed [EXISTING]
+- **Words:** 3263
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, TELL-NOT-SHOW
 
-### ## Chapter Nine—Two Teams
-- **Word count:** 1431
-- **Sentence count:** 104
-- **Flags:**
-  - TIDY-COMPARISON (1 hits)
-  - STACKED-EM-DASHES (6 hits)
-  - TELL-NOT-SHOW (6 hits)
-  - OPEN-LIGHT-ON-BODY
-  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
+### Ch 10 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
 
-### ## Chapter Ten—People Over Evidence
-- **Word count:** 1956
-- **Sentence count:** 188
-- **Flags:**
-  - STACKED-EM-DASHES (6 hits)
-  - SHORT-PARA-RUN (5 run(s) of 3+ short paragraphs)
+### Ch 11 — Distributed [EXISTING]
+- **Words:** 2511
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
 
-### ## Chapter Eleven—Human Doors
-- **Word count:** 4098
-- **Sentence count:** 435
-- **Flags:**
-  - STACKED-EM-DASHES (5 hits)
-  - TELL-NOT-SHOW (11 hits)
-  - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
+### Ch 12 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
 
-### ## Chapter Twelve—The Tree with No Top
-- **Word count:** 2041
-- **Sentence count:** 221
-- **Flags:**
-  - TIDY-COMPARISON (1 hits)
-  - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (7 hits)
-  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
+### Ch 13 — Distributed [EXISTING]
+- **Words:** 2053
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
 
-### ## Chapter Thirteen—The Living Route
-- **Word count:** 3087
-- **Sentence count:** 421
-- **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-  - TELL-NOT-SHOW (1 hits)
-  - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
+### Ch 14 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
 
-## Open items
+### Ch 15 — Distributed [EXISTING]
+- **Words:** 3984
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
 
-1. These are heuristic flags, not verdicts. Review flagged passages individually.
-2. `ABSTRACT-OVER-BODY` uses a sliding window; tune the window size if false-positive rate is high.
-3. `STALE-FRAMING` is pattern-based; expand `STALE_FRAMING` after each lock change.
-4. `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY` check the first paragraph only.
-5. `SHORT-PARA-RUN` / `LONG-PARAGRAPH` / `IDENTICAL-PARA-OPENING` are rhythm flags, not prose verdicts. Review in context.
-6. Paragraph metrics are collected per-chapter; short/long paragraph counts can be inflated by dialogue, metadata, or intentional rhythm.
-7. `TIDY-COMPARISON` flags symmetrical simile syntax; review for interchangeability, not every instance is wrong.
+### Ch 16 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
 
-## Methodology
+### Ch 17 — Distributed [EXISTING]
+- **Words:** 3563
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
 
-Pattern checks applied:
-- `NOT-X-BUT-Y`: default contrastive shape
-- `TIDY-COMPARISON`: symmetrical simile/comparison syntax
-- `STACKED-EM-DASHES`: 2+ em dashes in one sentence
-- `COLON-HEAVY`: 2+ colons in one sentence
-- `ECHO-CLOSER`: final-sentence thematic restatement
-- `TELL-NOT-SHOW`: interpretive-telling words
-- `ABSTRACT-DENSE`: high abstract-noun count
-- `ABSTRACT-OVER-BODY`: abstract terms outweigh body terms in a local window
-- `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY`: chapter open without physical body
-- `STALE-FRAMING`: superseded canonical phrasing
-- `SHORT-PARA-RUN`: 3+ consecutive paragraphs under 25 words
-- `LONG-PARAGRAPH`: paragraph over 250 words
-- `IDENTICAL-PARA-OPENING`: 3+ consecutive paragraphs opening with same word shape
-- `ABSTRACT-OPEN-PARA`: paragraph opening with abstract thematic language
+### Ch 18 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
 
-Source: `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence / AI-pattern checklist* and § *Human-prose lock*; `AGENTS.md` prose discipline.
+### Ch 19 — Distributed [EXISTING]
+- **Words:** 4933
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+
+### Ch 20 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
+
+### Ch 21 — Distributed [EXISTING]
+- **Words:** 4316
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+
+### Ch 22 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
+
+### Ch 23 — Distributed [EXISTING]
+- **Words:** 2014
+- **Status:** PROSE
+- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+
+### Ch 24 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER
+
+### Ch 25 — TBD [PLACEHOLDER]
+- **Words:** 0
+- **Status:** PLACEHOLDER

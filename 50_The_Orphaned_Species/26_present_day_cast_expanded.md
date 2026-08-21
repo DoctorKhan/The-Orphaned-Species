@@ -906,7 +906,7 @@ and does not decide the appeal for Imogen.
 | Custodians + Sora arc | breach–climax | pursuit | broken/changed | bounded consequence |
 | Somchai (nurse / field medic) | mention | reconvene; healings | hard no under pressure | public-care limit |
 | Sol Méndez | — | temptation | echo or end | remnants may enter court |
-| Shireen | one encrypted exchange | off-page | off-page | off-page |
+|| Shireen | one encrypted exchange | off-page; corridor healing beat with Somchai | ongoing encrypted thread; off-page | off-page |
 | **Wren / Mei / Suresh** | Pelangi Reach; Wren = intake cover + Vol II network | — | Mei/Suresh optional echo |
 | Lang private beat | looms | social rooms | throne offer |
 

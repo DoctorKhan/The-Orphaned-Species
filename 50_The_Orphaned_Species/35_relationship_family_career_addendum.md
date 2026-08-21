@@ -117,6 +117,16 @@ The change does not need to be large. It needs to be irreversible within the sce
 
 ---
 
+## 6. Somchai and Shireen: mostly off-page, healing-then-relationship
+
+Shireen remains Bangladesh off-page through Books I–III. She is not a rescue subject, and Eli does not travel to Dhaka in any volume. Her function expands from one voice note to an ongoing encrypted thread—text for logistics, one voice note for memory trade, occasional updates on clinic, remittance, and family pressure—but she never gets sustained on-page scenes with Eli.
+
+Somchai heals Shireen in a brief earned encounter during the Thailand-to-Dhaka corridor stretch in late Book II or Book III. The healing happens before romance: asymmetry is real, debt is paid in ordinary conduct, and the relationship runs on flat ground afterward. Shireen retains her own momentum—clinic work, Dhaka politics, remittance lane—so she is never defined by being Somchai's patient or Eli's cousin.
+
+**Prose test:** any Somchai/Shireen scene must change relationship, danger, knowledge, or cost—not just report that they are together. One shared night during outbreak movement is enough. Keep it lean.
+
+---
+
 ## 7. Career identity and family identity must collide in the same scene
 
 Eli’s command, Wren’s network standing, Rowan’s west-corridor role, and the child’s

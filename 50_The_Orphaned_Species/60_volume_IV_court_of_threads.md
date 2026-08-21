@@ -1103,7 +1103,7 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 | 9 | Continuity extension officer on the transfer brief | File an emergency extension as irreversible before the succession vote closes |
 | 10 | Court praetorian commander | Demand that Eli name a successor personally or the birth room becomes a coup point |
 
-> **Character voice — LOCKED 2026-08-16:** No character sounds as though they have read the project bible. Eli misreads Rowan when she refuses to be used as a succession proof: he hears court strategy; she means a person is not an heirloom. Wren enforces a specific intake rule partly because she remembers being the one left off a manifest and wants Eli to see her keep it—partly selfish, partly right. Somchai has no registry or politics vocabulary; he describes what he understands through bodies—weight, heat, breath, scar, pulse—until Eli supplies the terms.
+> **Character voice — LOCKED 2026-08-16:** No character sounds as though they have read the project bible. Eli misreads Rowan when she refuses to be used as a succession proof: he hears court strategy; she means a person is not an heirloom. Wren enforces a specific intake rule partly because she remembers being the one left off a manifest and wants Eli to see her keep it—partly selfish, partly right. Somchai has no registry or politics vocabulary; he describes what he understands through bodies—weight, heat, breath, scar, pulse—until Eli supplies the terms. **Somchai misnaming voice — ADDED 2026-08-21:** when others tag him *elohim*, *bene elohim*, *bene apkallu*, *healer*, *saint*, or *father*, he does not argue theology. He reframes the claim as ordinary labor: *I have a bag. I have a shift. It ends.* The refusal is bodily and practical, not doctrinal. He never uses the elevated term about himself. The labels are always possession attempts; the correction is always cost-naming.
 
 > **Book IV chapter clock status — LOCKED 2026-08-16:** Clock A = cross-route triage proving itself while federation fails, convergence rather than conspiracy established; evidence-name change to accountability registers cost. Clock B = Rowan's pregnancy and birth as a bodily deadline, plus Eli's temptation to become the permanent answer to emergency. One may dominate the scene; the other must still move, threaten, or bill. Hard test: if Eli could ignore Clock B for three chapters and only fight scarcity, the draft is failing. If the Hollow Year never forces a trade against Rowan's birth window, Clock B is décor.
 
@@ -1243,9 +1243,16 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 - **Time:** late first trimester into second.
 - **Immediate want:** continue political and route work while adapting honestly
   to nausea, fatigue, food aversion, clinical monitoring, and changed risk.
-- **Court engine:** security uses pregnancy to justify route restrictions;
-  Weaver protectors request medical access; cloister loyalists seek a formal
-  household; demographic officials call the pregnancy public hope.
+|- **Court engine:** security uses pregnancy to justify route restrictions;
+|  Weaver protectors request medical access; cloister loyalists seek a formal
+|  household; demographic officials call the pregnancy public hope.
+|- **Somchai misnaming — ADDED 2026-08-21:** during the metadata-leak wave, a
+|  court witness or press-side figure overhears Somchai moving med kits to
+|  Rowan’s route and tags him in public register: *apkallu* or *bene apkallu*
+|  — the teaching caste, not divine, but owned anyway: *you are the repairer
+|  kept on retainer.* Somchai declines the category in public, once: *Apkallu,
+|  elohim, Watcher, son — pick one. I am the man who set the IV line.*
+|  He names the wound, not the category. Court record keeps the label anyway.
 - **Choice:** Rowan refuses a dangerous journey rather than performing
   invulnerability, then performs indispensable work remotely and through a
   trusted team. Adaptation is competence, not diminishment.
