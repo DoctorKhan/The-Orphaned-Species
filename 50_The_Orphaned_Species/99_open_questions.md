@@ -366,14 +366,14 @@ end of deliberate human choices, not a coincidence.
 
 **The Harbor Thread — LOCKED 2026-07-24 (rev. B):** mostly male **underground** corridor network (Stack, strait, chandlery, witness). **Accepted but not spoken** — polite rooms don't name it. **Weavers' polite blindness** — would ignore entirely if corridors allowed. **Front posts:** sorts remaining male leaders into expendable public roles — **CEO/founder as dangerous occupation**, harbor captain, facility lead, idol schedule. Not an order. **Eli and Thread culture — LOCKED 2026-07-24:** parents taught him **home tongue and cultural rhythm** when young — **useful** in Thread corridors because many Thread men share it; he was **not raised as Thread** (no ledgers, badge math, segment initiation). Culture opens; never owns. Glossary `95`; `40_concepts.md`.
 
-**the Turning / House men / Thread men / Extras / Weaving-in / Scientist claiming — LOCKED 2026-07-24:** **the Turning** = civilizational turn (~2037–40). **Scientist claiming:** post-armistice cold war — **all scientists claimed** by bloc (ledgered, assigned). **Maren Holt = neuroscientist.** Men's fates: **house men** (visible acceptance), **Thread men** (underground acceptance — used, not talked about), **Extras** (rejected — *"he went Extra"*). **Front posts** = spending leadership (CEO included). **Weaving-in** = Weavers post-Turning; **polite blindness** toward Thread. Book III cloisters = third road. Retire *road men*.
+**the Turning / House men / Thread men / Stray men / Weaving-in / Scientist claiming — LOCKED 2026-07-24:** **the Turning** = civilizational turn (~2037–40). **Scientist claiming:** post-armistice cold war — **all scientists claimed** by bloc (ledgered, assigned). **Maren Holt = neuroscientist.** Men's fates: **house men** (visible acceptance), **Thread men** (underground acceptance — used, not talked about), **Stray men** (rejected — *"he went Stray"*). **Front posts** = spending leadership (CEO included). **Weaving-in** = Weavers post-Turning; **polite blindness** toward Thread. Book III cloisters = third road. Retire *road men*.
 
-**Extras series deployment — LOCKED 2026-07-28:** Book I names the *Extra
+**Stray men series deployment — LOCKED 2026-07-28:** Book I names the *Stray
 lane* once at Singapore intake. Book II makes Rowan's missing person a
-demobilized Extra man and routes Wren/Rowan's first recovery through a diverse
-Extra settlement while Sol recruits from the same population. Book III shows
-Extras divided rather than unified under Sol; Extra men, veterans, Thread elders,
-and Eli co-found the cloisters. The end removes *Extra* as an enforceable civic
+demobilized Stray man and routes Wren/Rowan's first recovery through a diverse
+Stray settlement while Sol recruits from the same population. Book III shows
+Stray men divided rather than unified under Sol; Stray men, veterans, Thread elders,
+and Eli co-found the cloisters. The end removes *Stray man* as an enforceable civic
 category, not personal freedom to reject intimacy or household membership.
 
 **Male demography / Paraguay rhyme — LOCKED 2026-07-30:** No Paraguay-scale male

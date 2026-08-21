@@ -22,22 +22,22 @@
 ## Chapter-level detail
 
 ### ## Chapter One—The Hour That Belongs to No One
-- **Word count:** 5309
-- **Sentence count:** 479
+- **Word count:** 5343
+- **Sentence count:** 482
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (14 hits)
-  - SHORT-PARA-RUN (6 run(s) of 3+ short paragraphs)
+  - TELL-NOT-SHOW (15 hits)
+  - SHORT-PARA-RUN (7 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Two—His Hand
-- **Word count:** 8067
-- **Sentence count:** 762
+- **Word count:** 8343
+- **Sentence count:** 799
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (1 hits)
-  - TELL-NOT-SHOW (23 hits)
-  - SHORT-PARA-RUN (10 run(s) of 3+ short paragraphs)
+  - TELL-NOT-SHOW (21 hits)
+  - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
 
 ### ## Chapter Three—What Didn't Die
 - **Word count:** 2485

@@ -48,7 +48,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 | Book I lived subject | `67`, `68` |
 | Who is in the room | `26_present_day_cast_expanded.md` |
 | Names | `95_glossary.md` |
-| I–IV twelve words | ring · tree · notebook · Extra · house · registry · talent · Cube · Weavers · compact · crown · flight (birds only). `17` § *I–IV reader vocabulary* |
+| I–IV twelve words | ring · tree · notebook · Stray · house · registry · talent · Cube · Weavers · compact · crown · flight (birds only). `17` § *I–IV reader vocabulary* |
 | The draft | `manuscripts/I_The_Breach.md` · `II_The_Descent.md` · `III_The_Compact.md` · `IV_The_Court_of_Threads.md` |
 
 **I–II pass before side projects:** kid-crew, Wren/Rowan spicy, and Book V prose stay frozen until this pass is on the page. `99_open_questions.md`.

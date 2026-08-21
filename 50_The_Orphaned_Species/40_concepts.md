@@ -363,9 +363,9 @@ The Thread's closest thing to a founding figure is **Cheng Ho** (Zheng He) — i
 
 ---
 
-## House men, Thread men, and Extras
+## House men, Thread men, and Stray men
 
-*Named 2026-07-24; Thread rev. B; Extras rev. C 2026-07-24. Glossary: `95`. Settlement: `29` § inverted order.*
+*Named 2026-07-24; Thread rev. B; Stray men rev. D 2026-08-20. Glossary: `95`. Settlement: `29` § inverted order.*
 
 Post-Turning **inverted order** — three male fates (two spoken, one not):
 
@@ -373,13 +373,20 @@ Post-Turning **inverted order** — three male fates (two spoken, one not):
 |---|---|---|
 | **House men** | **Visible** acceptance | Badge, wage ticket, Foundry lane, clinic porter — servile civil layer; **belonging without standing**; unkept |
 | **Thread men** | **Underground** acceptance | Harbor Thread — routes, witness, **front-post sorting**; **used, not named**; Weavers' **polite blindness** |
-| **Extras** | Rejection | Demobilized, unmated, uninitiated; perimeter, raiders — *"he went Extra,"* *"he's an Extra"*; insult deliberate (film-extra disposable) |
+| **Stray men** | **Outlaw** status | No lane, no standing, no registry slot; operated outside society; caught = exile, criminal charge, or transfer to Continental Union penal system; free harbors tolerate them only as disposable labor — bodyguard, security, hard manual work, high-risk jobs; core rule is invisibility |
 
 **Front posts** — dangerous male leadership the Thread fills: harbor captain, facility lead under squeeze, founder/**CEO** (target and liability, not prize), public performer. **CEO is a spending occupation.**
 
-**Three-volume deployment — LOCKED 2026-07-28:** Book I names the *Extra lane* once at Singapore intake when an unsponsored tradesman is diverted despite a valid work certificate. Book II makes Rowan's missing person a demobilized man stripped of house standing and presumed to be a raider; Wren and Rowan's recovery enters an Extra settlement diverse enough to defeat the category. Sol recruits from the same population by offering names, brotherhood, protection, and purpose. Book III shows Extras divided among Sol, community defense, refusal, mutual aid, and public testimony.
+**Three-volume deployment — LOCKED 2026-08-05:** Book I shows the **Stray man** condition at Singapore intake: Eli passes only because of an old sponsor stamp he does not fully trust. Book II shows the condition geographically — Rowan is a missing demobilized man presumed raider; Wren and Rowan's recovery enters a settlement diverse enough to defeat the category; Sol recruits from the same population by offering names, brotherhood, protection, and purpose. Book III shows Stray men divided among Sol, community defense, refusal, mutual aid, and public testimony.
 
-**Third road (Book III):** the first cloisters are co-founded by Extra men, veterans, Harbor Thread elders, and Eli. They confer **kept** standing through attention, repair, watch, care, restraint, and accountable service—neither house servitude nor Thread placement nor a certificate of romantic acceptability. The Weavers do not grant admission or legitimacy.
+**Third road (Book III):** the first cloisters are co-founded by Stray men, veterans, Harbor Thread elders, and Eli. They confer **kept** standing through attention, repair, watch, care, restraint, and accountable service—neither house servitude nor Thread placement nor a certificate of romantic acceptability. The Weavers do not grant admission or legitimacy.
+
+### Street label vs custody label
+
+- **Stray men** = how regular people, fixers, and Weavers talk about unregulated men. “He’s a Stray. He doesn’t have a lane.”
+- **Zeds** = the custody shorthand used by clerks, gantries, biometric screens, and Mandate officials. “Registry slot is null. We’ve got a Zed.”
+
+Use the distinction to show who is looking at Eli and what they see.
 
 ### Institutional grammar — place, work, practice, bond, review — LOCKED 2026-08-16
 
@@ -453,7 +460,7 @@ carry through the meal. None of these acts completes a person or awards office.
 
 **Prose:** *"He's working Stag."* / *"Who is teaching him?"* / *"She witnessed the turning practice."* / *"He finished the Ox carry and still won't put the sack down."* / *"Fox doesn't let you collect everybody's secrets."* / *"You practice all five. Today we're doing the one you tried to avoid."*
 
-**Guardrails:** house men = indictment of settlement, not virtue; Thread men = necessary underground, not romantic outlawry; Extras = legible, not cartoon villains — the insult is the settlement's, not the book's. Personal and romantic rejection remain free; they cannot erase civic protection or standing. Some men refuse every offered institution and remain protected. The ending invalidates *Extra* as a civic category rather than “correcting” every Extra into household acceptability. Union census: *demobilized male cohort* — file language only.
+**Guardrails:** house men = indictment of settlement, not virtue; Thread men = necessary underground, not romantic outlawry; Stray men = legible, not cartoon villains — the insult is the settlement's, not the book's. Personal and romantic rejection remain free; they cannot erase civic protection or standing. Some men refuse every offered institution and remain protected. The ending invalidates *Stray man* as a civic category rather than “correcting” every Stray man into household acceptability. Union census: *demobilized male cohort* — file language only.
 
 ---
 

@@ -3934,7 +3934,7 @@ He does not turn it into custody.
 The labor dispute reaches the court in the same week.
 
 Cloister chapters demand priority for qualified men in grid, defense, freight,
-and repair appointments, arguing Extras were excluded from standing while
+and repair appointments, arguing Stray men were excluded from standing while
 women inherited the posts.
 
 Women officers answer with service records.
@@ -4412,7 +4412,7 @@ The visual lie is stronger.
 Women fill the east hall because the houses grew from female placement and
 mutual protection.
 
-Men fill the west because the cloisters grew from Extras, veterans, Threads,
+Men fill the west because the cloisters grew from Stray men, veterans, Threads,
 repair crews, and the need for standing outside household selection.
 
 The exceptions become politically inconvenient.
@@ -4458,7 +4458,7 @@ Malik sits beside him wearing no red scarf.
 
 "Then transfer the standing into law."
 
-"Law changed us into Extras."
+"Law changed us into Stray men."
 
 "A ruler can change us back into subjects."
 

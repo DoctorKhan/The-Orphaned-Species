@@ -113,7 +113,7 @@ Route: Albion exit → Atlantic → Brazilian lower-river network → Hawaiʻi �
 | 3–4 · Brazilian repair dock / port-clinic council | Nia's death; Lang Standard; Eagle–Condor dispute | Cooperation without merger vs transnational ownership | Polyphonic compact proposed | Prophecy as narrator-certified truth | War |
 | 5 · Brazilian public hearing / remote Union records | Names; Devolution roster | Gods-who-kept-lifeboats rhyme | Survival hierarchy visible; South remains plural | South-as-moral-chorus | Compact |
 | 6–7 · Hawaiʻi refuge | Aloha + kuleana; crown-with-end | Stewardship ≠ base | Strongman-by-proximity | — | Corridor |
-| 8–9 · War corridor | Forced sync; cloisters rise | Labor/extraction (Atrahasis civic) | Extras as constituency | Destinies tablet full | Hearing |
+| 8–9 · War corridor | Forced sync; cloisters rise | Labor/extraction (Atrahasis civic) | Stray men as constituency | Destinies tablet full | Hearing |
 | mid/late | **Forks** + dragon ghost (when earned) | Parallel bridge species | Humanity one branch | Complete panspermia manual | — |
 | 10 · Handover hall | Seven desks; no missing key | Distributed authority works | Eli private citizen | Book IV reveals wider gap | Book IV |
 

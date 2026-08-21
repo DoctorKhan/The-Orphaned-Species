@@ -73,8 +73,8 @@ replace main-series romance staging. They are **not** part of the locked
 | Type | Brand | Notes |
 |---|---|---|
 | **Somchai clinic / healer** novella | A or B (tone decides) | Bodily crown refusal; corridor medicine; “son of a man” |
-| **Harbor Thread procedural** | A | Compartmented segments; Extra-adjacent labor; Singapore underside |
-| **Extra / cloister origin** | A | Dignity without household claim; Book III–IV rhyme |
+| **Harbor Thread procedural** | A | Compartmented segments; Stray-adjacent labor; Singapore underside |
+| **Stray / cloister origin** | A | Dignity without household claim; Book III–IV rhyme |
 | **Teahouse pilgrimage** slice | A | Readiness not rank; Living Way conduct; may seed spirituality-goes-wrong salon |
 
 ### Priority C — later / only if main series holds

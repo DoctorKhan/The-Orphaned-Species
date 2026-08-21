@@ -65,7 +65,7 @@ Eli keeps pumping, still inside the marks. He feels the air before he sees it: h
 
 The sail fills.
 
-And for one stolen breath the pocket opens into the real sea.
+And the bow finds open water.
 
 Beyond the storm wall the strait goes wide and bright beneath the half-built towers. The hull hums under his knees. The patched cloth holds. Something in his chest opens. Stupid, clean joy.
 
@@ -77,9 +77,9 @@ An old woman kneels underwater at the bottom of the sea—Timah, the harvesters 
 
 "Clear the mark!" someone screams from the wall. Eli cannot tell from here whether it means Timah or him.
 
-The sheet jerks wrong against his fist in the same breath—give where there should be none, cordage answering slack instead of load. He doesn't look down; looking costs time, and his palm already knows what his eyes would only confirm. A strand gone. Then a second, fraying faster than plain age has any right to.
+The sheet jerks wrong against his fist in the same breath—give where there should be none, cordage answering slack instead of load. He doesn't look down; looking costs time, and his palm already knows what his eyes would only confirm. A strand gone. Then a second strand. The fray runs faster than plain wear.
 
-For one second the skiff stops being a thing he understands. Rope fails in one hand. Timah's hull fills the other side of the lane. Jul is about to surface.
+For one second the skiff is just wood and rope that answer wrong. Rope fails in one hand. Timah's hull fills the other side of the lane. Jul is about to surface.
 
 He can hold the lane and hope the boy stays under one breath longer, or spill wind and give the sea its foot of room. The rope frays while he decides. His heart slams high in his throat, the old alarm that used to count doors before he knew why. Not here. Shireen's deposit is due Monday. The bottom of the channel would end everything before the transfer ever started.
 
@@ -317,7 +317,7 @@ Wren keeps both hands on the tiller. Her knuckles whiten. She lets the silence s
 
 He watches her hands return to the tiller.
 
-At the pier he is already moving—Mei's service cable, junction after junction, faster than the work needs, as if speed could reach the morning his parents failed to come back. White hulls gather at the reach's edge before he closes the first box. By the second, a drone crosses the plaza: voluntary screening, bridge closed, shelter in place except essential corridor workers. It does not feel voluntary. Every phone loses its bars before the third. Remittance lane dead with them—nothing leaves Pelangi until somebody reopens the corridor. The channel south to Meridian City is the only route Wren's manifest says is still running, and it is running only because the paperwork says it must.
+At the pier he is already moving—Mei's service cable, junction after junction, faster than the work needs, as if speed could reach the morning his parents failed to come back. White hulls gather at the reach's edge before he closes the first box. By the second, a drone crosses the plaza: voluntary screening, bridge closed, shelter in place except essential corridor workers. It does not feel voluntary. Every phone loses its bars before the third. Remittance lane dead with them. He opens the app anyway. The screen is a spinning ring against a dead bar. Nothing leaves Pelangi until somebody reopens the corridor. The channel south to Meridian City is the only route Wren's manifest says is still running, and it is running only because the paperwork says it must.
 
 ---
 
@@ -345,7 +345,7 @@ The hull kisses the screening pier too hard. Eli's knees take it. Wet stone unde
 
 Floats string the shallows behind them. A processing tender works the boat ahead. Passengers file one by one through an arch, each made to pause on a painted mark. Suresh cuts the throttle. Wren's jaw stays level.
 
-Eli counts the arches: one, then a second feeding into it, the same lists from the Pelangi marina wall six hours ago, printed on cleaner paper. He counts the queues the way he counts coconuts, hulls, fence wires.
+Eli counts the arches: one, then a second feeding into it, the same lists from the Pelangi marina wall six hours ago, printed on cleaner paper. He counts queues the way he counts coconuts, hulls, fence wires. The first arch is document check. The second is the read.
 
 His mother made him name the fear before they left a harbor. That is the pier. That is the line. That is the man with the list. He does it now without moving his lips. Walking out with her bag. Gone after.
 
@@ -373,9 +373,7 @@ The light holds on his face long enough for him to notice it. Somewhere behind t
 
 The gantry hesitates. Then hums, and passes him.
 
-He is through the arch. Relief lasts three steps. Behind him a screen flickers and the gantry re-engages on the young man with port shoulders, same biometric pull, same hesitation, only this time a red light stacks with the green and two officers step in.
-
-Wren's hand finds his elbow and guides him off the painted mark.
+He is through the first gate. Wren's hand finds his elbow and guides him toward the second read. The next arch measures what the first one did not: dilation in the eyes, pulse at the temple, the micro-adjustments a body makes when it thinks it is not being watched. The sensors do not touch him. They take what they need from the light.
 
 "Your body is ahead of your head." She murmurs it. "Breathe before the next door."
 
@@ -469,24 +467,29 @@ Those hands. He has watched them his whole remembered life, pressing tomato soil
 
 "Routing." She says it still the form voice, and scrolls once. Chain of custody, processing stamps, a records transfer through a Malacca processing office. And there, in the middle of the routing history, one word from Suresh's folded paper and, ten minutes ago, a voice behind a rice-sack door. Malacca. A header he cannot read yet. Extended assessment, Eastern health authority.
 
-Her voice changes. The vowels get softer, the consonants rounder. "The system saw what I saw. Your intake photograph is flagged, resemblance match, records hold, extended assessment. That queue goes up into the Stack, and files that go up do not come down whole. Once they hold you, you are theirs to explain." She looks at the screen, not at him. "A file can close without its body one way from this desk. Discharge to vessel. That lane needs a work history."
+She looks at the screen, not at him. "A file can close without its body one way from this desk. Discharge to vessel. That lane needs a work history."
 
 Resemblance. He hears it as Rasel's face on him. A claimed physicist's son walking into Singapore with a worker slip. Loose ends. The story fits so well he does not look for a second face wearing the first.
 
-He works the wage ticket from his pocket, the Foundry laminate Babaji has renewed every year since the vans. A year of Fridays paid out to Rasel Khan, though every hand at the rail that counted coins into his palm knew exactly whose palm it was. It is the only paper left that still says his father is somewhere, doing something, expected. She reads the name aloud anyway, syllables careful.
+He works the wage ticket from his pocket, then the folded contractor sleeve Babaji pressed on him at the rail. Not the worker lane paper. The other one. Babaji's name where a sponsor goes, his own name where a worker goes, and a route stamp Eli has never seen before—old ink, older font, signed by a hand that wrote contracts before this terminal was built.
+
+The clerk reads it once. She does not look up. She does not let her face change. Then she turns the sleeve over, reads the stamp again, and slides it back across the counter without a word.
+
+He works the wage ticket from his pocket. A year of Fridays paid out to Rasel Khan, though every hand at the rail that counted coins into his palm knew exactly whose palm it was. It is the only paper left that still says his father is somewhere, doing something, expected. She reads the name aloud anyway, syllables careful.
 
 "Rasel," he says, quiet.
 
-She nods once, almost imperceptible. "I know the name."
+She nods once, almost imperceptibly. "I know the name."
 
 She does not look up.
 
 "You understand what you're spending."
 
 "It's already spent."
-The ticket is Rasel's work history. It is also the only wire Shireen will see before the clinic closes the bed.
-The ticket disappears into the clerk's ledger.
-The ticket disappears into the clerk's ledger. She stamps and hands him a discharge slip marked contractor lodging. "Continue Inn, arcade tier. Cherry Lane at first light Sunday, yards, not the show. Not tonight."
+
+The wage ticket disappears into the clerk's ledger. She stamps and hands him a discharge slip marked contractor lodging. "Continue Inn, arcade tier. Cherry Lane at first light Sunday, yards, not the show. Not tonight."
+
+The Babaji sleeve is back in his pocket. The stamp is still legible. He is not sure whether it bought the discharge or the clerk simply chose not to spend the next ticket. He does not ask.
 
 ---
 

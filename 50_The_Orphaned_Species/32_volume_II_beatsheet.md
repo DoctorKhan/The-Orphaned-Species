@@ -297,7 +297,7 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 | Somchai | Heal → refuse ownership; depth-scan before release |
 | Hassan / Callum / Sora | Living person over file; leak that enables chase; Mira wound |
 | Eli ↔ Maren | Find → one-way hunger → embodied reunion → release |
-| Sol | Counterfeit fellowship at Extra settlement → keep-her / Book III mandate |
+| Sol | Counterfeit fellowship at Stray settlement → keep-her / Book III mandate |
 
 **Rule — HARD GATE 2026-08-06:** every site advances a relationship cost, not only a relic (`55` chemistry + Clock A). A chapter card whose People field is none or echo-only fails and returns for rework before prose; a landmark that only advances relics is tourism and gets demoted to Turning/packet status.
 
@@ -428,12 +428,12 @@ Same *kind* of rope as Book I (belonging → trust → paid cost → living comm
 ### Ch 6 — The Changing Map *(Wren POV → hard break → Eli · Pömmelte / broken-line church)*
 |- **Location contraction — LOCKED 2026-08-01:** **one body-arrival.** Pömmelte purge geometry and the broken-line church's domestic inward-control rhyme share this chapter — church is not a separate geography day.
 |||- **Delivery card — LOCKED 2026-08-01:** **Clock A:** dead-zone → her western web; Holt/matriline Turning. **Clock B:** Callum recovery; route burned. **Antagonist:** Sol recruiters (primary entrance) + registry clerks + Pömmelte ground repels unprepared receivers, forcing the group out. **Maren mirror:** completed route ≠ returned person. **Gap-fillers:** **hearth circle** night after break (`54`); ***in the flow*** first spoken when maps/pins lie (`54`); **Maren's field notebook living correction** — one of Maren's readings defeated by a living speaker/community (`52`) — journal is relationship, not GPS. **Drifting Heart Liturgy — LOCKED 2026-08-01:** first full utterance on-page in this chapter, after the corridor break / Pömmelte dream — group in unfamiliar ground, road ahead genuinely unknown; Leader voice = Somchai or a keeper; chorus = gathered group; ending stays unresolved and moves into ordinary motion (`54_litanies.md` § *The Drifting Heart*).
-|- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Sol recruiters offering name/brotherhood/purpose; registry logic; Extra classification). What family/individual program operates? (Eli's autopilot; Wren's placement-as-care; pair-severance ledger triggers Wren/Rowan). What pressure exceeds the program's vocabulary? (Completed route ≠ returned person; Callum refuses house custody; Wren burns credential; hearth circle as belonging without possession). What practice emerges—or fails to emerge—in the gap? (Wren gives up credential to keep contact; hearth circle after corridor break; *in the flow* born when maps fail; Sol's offer feels like belonging but is counterfeit).
+|- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Sol recruiters offering name/brotherhood/purpose; registry logic; Stray classification). What family/individual program operates? (Eli's autopilot; Wren's placement-as-care; pair-severance ledger triggers Wren/Rowan). What pressure exceeds the program's vocabulary? (Completed route ≠ returned person; Callum refuses house custody; Wren burns credential; hearth circle as belonging without possession). What practice emerges—or fails to emerge—in the gap? (Wren gives up credential to keep contact; hearth circle after corridor break; *in the flow* born when maps fail; Sol's offer feels like belonging but is counterfeit).
 |- **Clock A + Maren mirror — LOCKED 2026-08-01:** Keep mother hunt audible (dead-zone signature → her sabotaged western web). Callum / Wren–Rowan *completed route ≠ returned person* **mirrors** Maren as completed operator/placement vs mother to be returned — by conduct, not a speech equating them.
-- **Sol entrance — LOCKED 2026-08-01:** Extra settlement is Sol’s primary Book II job beat — organizers offer public names, brotherhood, and purpose to the same discarded population. Optional earlier light touch only; do not save his debut for Avebury alone.
-|- **Deep-time residue — LOCKED 2026-07-30:** Pömmelte purge geometry + broken-line church as domestic inward control; **the ground is saturated and the group cannot linger** — Tem/grain-pit/dream-network as active transmission that repels unprepared receivers; **Extra settlement** as vacant divine office wearing modern clothes; optional unnoticed Loop hatch-mark only. Wrong reading: Extra = predator class; hatch-mark = destiny/love seal; staying to study the ground = knowledge. Cost: Wren burns placement credential; the group is forced out before they are ready.
+- **Sol entrance — LOCKED 2026-08-01:** Stray settlement is Sol’s primary Book II job beat — organizers offer public names, brotherhood, and purpose to the same discarded population. Optional earlier light touch only; do not save his debut for Avebury alone.
+**Deep-time residue — LOCKED 2026-07-30:** Pömmelte purge geometry + broken-line church as domestic inward control; **the ground is saturated and the group cannot linger** — Tem/grain-pit/dream-network as active transmission that repels unprepared receivers; **Stray settlement** as vacant divine office wearing modern clothes; optional unnoticed Loop hatch-mark only. Wrong reading: Stray man = predator class; hatch-mark = destiny/love seal; staying to study the ground = knowledge. Cost: wage ticket; receiver opens without control.
 - **Immediate want:** recover **Callum Price**, a missing demobilized flood-pump
-  technician filed as Extra, while following the dead-zone signature.
+  technician filed as Stray, while following the dead-zone signature.
 - **Opposing wants:** Wren wants to certify the next threshold and move on;
   Rowan insists a completed route is not a returned person; Eli wants the
   historical proof; local descendants want the dead treated as people, not
@@ -641,7 +641,7 @@ Wren's confession — ADDED 2026-08-16:** Under the recovery pressure, Wren tell
   since their Knotter/Weft paths divided and their incomplete unbinding. Rowan is
   not waiting for Wren: one of her people is missing near the mound route. He is
   a demobilized tradesman who lost house standing and has been filed as a likely
-  raider because he is **Extra**. Wren
+  raider because he is **Stray**. Wren
   arrives first as a displaced house Weaver who needs receiving, then offers
   placement and intake skill to the recovery. Their first coordination is
   unnervingly seamless; neither has prior extraction history together.
@@ -724,7 +724,7 @@ Wren's confession — ADDED 2026-08-16:** Under the recovery pressure, Wren tell
 | Göbekli plaquette / Bridge | 3 | `35` § Göbekli plaquette |
 | Healer deification pressure | 4 | `05` Act III note |
 | Hassan + ring + Maren midpoint | 5 | `35` ring; `99` mother lock |
-| Dead zones + Pömmelte + broken-line church + Extra settlement | 6 | `37` LOCKED §§; `40` Extras |
+|| Dead zones + Pömmelte + broken-line church + Stray settlement | 6 | `37` LOCKED §§; `40` Stray men ||
 | Anthea / Lira + Men-an-Tol + Callum recovery | 7 | `35`; `37` ch 14 |
 | Bitter cup + Lovernios + Maren contact | 8 | `37` ch 16; `99` #bitter-cup |
 | Cuno / Stonehenge transmission station | 9 | `35` — |

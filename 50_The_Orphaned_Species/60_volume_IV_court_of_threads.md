@@ -613,7 +613,7 @@ sovereign or the sole source of legitimate identity.
 ### The men's cloisters
 
 The cloisters enter Book IV with earned power from Book III: veterans, former
-Extras, Harbor Thread elders, repair crews, workshops, defensive companies,
+Extras/Stray men, Harbor Thread elders, repair crews, workshops, defensive companies,
 public loyalty, supply capacity, and the memory of holding communities together
 under attack. Many men regard Eli as founder, brother, and the first ruler who
 treated them as citizens rather than expendable bodies.
@@ -699,7 +699,7 @@ Political factions:
 - constitutional chapters seeking civic standing without permanent
   militarization;
 - veterans who believe only Eli can keep them from being disposable again;
-- former Extras who distrust household and Weaver authority;
+- former Extras/Stray men who distrust household and Weaver authority;
 - mutual-aid chapters centered on work, grief, disability, repair, and continued
   obligation;
 - ambitious commanders tempted to convert representation into personal force;
@@ -759,7 +759,7 @@ Women already hold much of the work the old world coded male: freight, grid and
 water maintenance, construction, convoy leadership, perimeter defense, drone
 operation, enforcement, repair, and command. Pre-I wars killed and conscripted
 many people of both sexes; the postwar settlement then classified many **surviving
-men** as house dependents, deniable Thread labor, or Extras while continuing to
+men** as house dependents, deniable Thread labor, or Stray men while continuing to
 demand the same functions — an **Extra surplus**, not scarce-prince demography
 (see `33` § male demography / Paraguay rhyme). Women inherited vacancies without
 relief from pregnancy, domestic, sexual, or caregiving burdens. Book III's war

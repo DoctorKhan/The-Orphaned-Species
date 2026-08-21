@@ -4792,7 +4792,7 @@ Eli wants to begin with command communications.
 The council assigns him gutter clearing.
 
 He spends a morning above Dormitory Two with Bima, three local carpenters, two
-former Extras, and a woman who flew cargo drones before the Turning and now
+former Stray men, and a woman who flew cargo drones before the Turning and now
 refuses every request to call her flight experience a military asset.
 
 Bima has brought the green-thread harness.
@@ -6639,7 +6639,7 @@ The sentence is smaller than revolution.
 
 It changes the entire category.
 
-Former Extras retain authorship and veto. Veterans cannot become an automatic
+Former Stray men retain authorship and veto. Veterans cannot become an automatic
 officer caste. Weaver houses may share placement, mediation, and safety
 practices but cannot select initiates, certify mate-worthiness, or confer
 legitimacy.
