@@ -1,5 +1,7 @@
 # The Orphaned Species Book III: The Compact
 
+> **CHAPTER TARGET — LOCKED 2026-08-21:** Book III runs **25 chapters**, targeting ~100k–120k words. The chapter spine below is the authoritative beat map; each chapter may expand or split during drafting to reach target length without padding.
+
 > **GEOGRAPHY REDRAFT LOCK — 2026-08-01; Ch 1–6 RESTAGED 2026-08-01.** The
 > governing route is Albion exit → Atlantic crossing → Belém do Pará, at the
 > mouth of the Amazon on Guajará Bay (Chapters 1–6) → Hawaiʻi/Pacific (Chapters
@@ -53,7 +55,7 @@
 > Tepe. Eli's broken-antler dream stirs at the founding but assigns him no
 > identity.
 
-## Chapter One—The Boat at Morning
+## Chapter 1—The Boat at Morning
 
 The boat enters Guajará Bay without lights.
 
@@ -885,7 +887,7 @@ members of the council. Nobody calls for them.
 
 Tomas exhales as if Eli promised more.
 
-## Chapter Two—Terms of Welcome
+## Chapter 2—Terms of Welcome
 
 The first argument is about a curtain.
 
@@ -1710,7 +1712,7 @@ The redistribution moves a fevered woman off the floor and into a cot before a c
 He does not record it as a management lesson. He lets it stand as a fact the
 harbor already knew and he is only now learning to read.
 
-## Chapter Three—Three Requests
+## Chapter 3—Three Requests
 
 The next morning brings clean weather.
 
@@ -2202,7 +2204,7 @@ yet agreed may enter their ecology.
 He presses the wet soil back into the hole although there is nothing left to
 hold.
 
-## Chapter Four—Lang's Folder
+## Chapter 4—Lang's Folder
 
 The Standard arrives through rain that arrives on schedule.
 
@@ -3078,7 +3080,7 @@ speaking.
 By midnight, nobody remembers that his harbor authority ended when the last
 body reached the pier.
 
-## Chapter Five—The Names They Carry
+## Chapter 5—The Names They Carry
 
 Wren knows Eli is becoming a ruler when strangers begin apologizing for waking
 him.
@@ -3912,7 +3914,7 @@ claims no record of the transmission. The post's commander is new. Wren does
 not sleep that night. She sits in the corridor with the door wedged open and her
 boots on, watching the street.
 
-## Chapter Six—The Compact
+## Chapter 6—The Compact
 
 The compact begins with a mistranslation.
 
@@ -4693,7 +4695,7 @@ It lives in the habit of returning to the table before anybody is forced.
 Ahead, Hawaiʻi waits with beds, water limits, damaged roofs, and the authority
 to send them away.
 
-## Chapter Seven—A Crown With an End
+## Chapter 7—A Crown With an End
 
 Eli dreams of red earth before he sees the island.
 
@@ -5338,7 +5340,7 @@ Not honor.
 
 Equipment and the bill for using it.
 
-## Chapter Eight—The Cost of Consent
+## Chapter 8—The Cost of Consent
 
 The distant Pacific corridor begins failing on the fourteenth day.
 
@@ -6213,7 +6215,7 @@ Arman has sent the drone footage.
 
 Leilani has sent no statement at all.
 
-## Chapter Nine—The Packet
+## Chapter 9—The Packet
 
 Eli walks past the ceremony platform and enters the civic room through the side
 door.
@@ -7028,7 +7030,81 @@ The work is designed to proceed without Eli.
 
 He goes to sleep before it finishes.
 
-## Chapter Ten—The Handover
+## Chapter 10—The Handover
+
+## Chapter 11—TBD (post-handover fracture / Continuity keys)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 12—TBD (Rasel October clock / testimony prep)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 13—TBD (dreamer arc deepening / communal practice)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 14—TBD (Pacific strike / intelligence beat)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 15—TBD (tactical speed win / corridor defense)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 16—TBD (semi-autonomous command / regional commander)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 17—TBD (adaptive absorption / borrowed method)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 18—TBD (logistics drama / supply choice)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 19—TBD (merit promotion / officer corps)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 20—TBD (decisive engagement anchor)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 21—TBD (feigned weakness / cost in civilians)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 22—TBD (turned commander / Rowan objection)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 23—TBD (disinformation through Rasel's channel)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 24—TBD (alliance refused / kinship offer)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 25—TBD (legend precedes / final relinquishment aftermath)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
 
 The night before the assembly, Amina brings leftover market rice and fried
 plantain into the preparation room and refuses to let anyone open a ledger

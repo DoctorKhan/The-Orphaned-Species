@@ -219,13 +219,10 @@
 
 ## AUTHORITATIVE BOOK II SCENE SPINE — LOCKED 2026-07-26
 
-> **DRAFTING CONSOLIDATION — LOCKED 2026-07-28:** The ten chapters below are
-> the only governing Book II sequence. Later seven-chapter cards remain quarry.
-> The book's cumulative action is a consent staircase: curator controls context
-> → patient controls testimony → Hassan controls his story → Callum Price
-> outranks his Extra file → remembered intimacy does not grant present access →
-> Eli obeys the bitter-cup abort → Maren defines release. Eli's growing skill at
-> recognizing patterns repeatedly outruns his right to act on them.
+> **CHAPTER TARGET — LOCKED 2026-08-21:** Book II runs **25 chapters**,
+> targeting ~100k–120k words. The ten-chapter spine below is the authoritative
+> beat map; each chapter below covers roughly 2–3 of the planned 25 chapters
+> and must be split during drafting to reach target length without padding.
 >
 > **Artifact hierarchy:** five objects carry the route and theme. The
 > Three-Circles Tablet is reread rather than rediscovered; the Adapa lacuna and

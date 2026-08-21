@@ -1,5 +1,7 @@
 # The Orphaned Species Book IV: The Court of Threads
 
+> **CHAPTER TARGET — LOCKED 2026-08-21:** Book IV runs **25 chapters**, targeting ~100k–120k words. The chapter spine below is the authoritative beat map; each chapter may expand or split during drafting to reach target length without padding.
+
 > **Governing draft begun 2026-07-28; Ch. 1 revised 2026-07-29.** Book IV is led through women's
 > perspectives, principally Wren and Rowan, in close third present. Eli is
 > experienced primarily from outside as ruler, lover, symbol, and prospective
@@ -55,7 +57,7 @@
 > she writes the number; Heather ground draws pilgrims and a crackdown; birth-
 > field cuttings attend, child unmarked (`22`, `60`).
 
-## Chapter One—The Doors
+## Chapter 1—The Doors
 
 The quarterly review opens with a missing delegate.
 
@@ -1351,7 +1353,7 @@ Seven months of route calls have not decided where either of them lives.
 
 The court has already begun preparing a room for it.
 
-## Chapter Two—Present Consent
+## Chapter 2—Present Consent
 
 Rowan notices Eli's mouth during an argument about evidence.
 
@@ -1817,7 +1819,7 @@ Wren opens the change history.
 The scheduler acted under a household-continuity directive drafted before
 Rowan arrived.
 
-## Chapter Three—Three Rooms
+## Chapter 3—Three Rooms
 
 The residence has one guest chair that isn't covered in files, and Rowan has been sitting in it for two hours arguing that his household-security draft treats grief like a scheduling conflict.
 
@@ -2357,7 +2359,7 @@ He withdraws his hand.
 
 The first fight over her possible child has arrived before the child exists.
 
-## Chapter Four—What We Build
+## Chapter 4—What We Build
 
 Rowan's first response is to cancel every medical authorization.
 
@@ -2995,7 +2997,7 @@ Nothing has yet been confirmed.
 
 The court has already begun using the word heir.
 
-## Chapter Five—The Rumor
+## Chapter 5—The Rumor
 
 Asha interviews Selin with her damaged hand visible.
 
@@ -3518,7 +3520,7 @@ rumor a category error.
 
 Rowan touches the place below her ribs. She does not smile. She does not weep.
 
-## Chapter Six—The Statement
+## Chapter 6—The Statement
 
 Pregnancy changes the hours before it changes the silhouette.
 
@@ -4086,7 +4088,7 @@ Not future population.
 One developing person whose existence has already altered work, fear, love, and
 law without consenting to symbolize any of them.
 
-## Chapter Seven—The Two Houses
+## Chapter 7—The Two Houses
 
 The first regional games of the Hollow Year are held in a freight yard because
 the stadium roof belongs to the clinic now.
@@ -4785,7 +4787,7 @@ It also belongs to love.
 The court has thirty days to discover whether any institution can survive the
 difference.
 
-## Chapter Eight—The Succession Debate
+## Chapter 8—The Succession Debate
 
 At thirty-three weeks, Rowan can no longer see her own feet.
 
@@ -5359,7 +5361,7 @@ Rowan knows another name for it.
 
 Waiting to see which body opens first.
 
-## Chapter Nine—The Room Prepared
+## Chapter 9—The Room Prepared
 
 Wren prepares the birth room by removing chairs.
 
@@ -5807,7 +5809,81 @@ Wren faces the door.
 Outside, officials wait for the ruler to decide whether birth requires him to
 remain ruler.
 
-## Chapter Ten—Before the First Breath
+## Chapter 10—Before the First Breath
+
+## Chapter 11—TBD (post-birth / court settling)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 12—TBD (Hollow Year deepening / forecast failure)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 13—TBD (convoy defense / named household cost)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 14—TBD (Eli second mandate / institutional pressure)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 15—TBD (Costa Rica Turning / Yuliana Mora)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 16—TBD (corridor ecology / mixed-species water hold)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 17—TBD (regional games / compact miniature)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 18—TBD (disputed result / recruiting attempt)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 19—TBD (post-match meal / breathing room)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 20—TBD (pregnancy as information war / court read)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 21—TBD (instruments of rule / Knotter choreography)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 22—TBD (Wren/Rowan intimacy as weapon / refusal)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 23—TBD (medical privacy / heir designation fight)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 24—TBD (birth room / midwives ordinary craft)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 25—TBD (mountain teahouse / compact as conduct)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
 
 Rowan hears the extension request between contractions.
 

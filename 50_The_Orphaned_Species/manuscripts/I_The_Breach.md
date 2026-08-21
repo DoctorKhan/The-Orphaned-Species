@@ -1,5 +1,7 @@
 # The Orphaned Species Book I: The Breach
 
+> **CHAPTER TARGET — LOCKED 2026-08-21:** Book I runs **25 chapters**, targeting ~100k–120k words. The chapter spine below is the authoritative beat map; each chapter may expand or split during drafting to reach target length without padding.
+
 > **RECOMBINED 2026-07-29 — restored to a single 13-chapter volume.** The 2026-07-29 split (Ch 1–3 as Book I / Ch 4–13 as Book II *The Living Route*) is reversed. Later volumes return to four-book numbering (Descent = Book II, Living World = Book III, Court of Threads = Book IV). Map: `SERIES_STRUCTURE.md` at the repo root.
 
 > **Pitch / clue-chain gate—HIGH PRIORITY—LOCKED 2026-07-25; pressure rules 2026-07-29; delivery upgrades 2026-07-31; pitch/visual revised 2026-08-01:** Every chapter must pass `55_series_pitch_and_comps.md` (body movement, visual key, institutional texture, short-loop payoff, domestic cost, wonder before ambush, **two live clocks**, **antagonist present-tense job**, **cost → next chapter**, **density parity**, **chemistry**, **ring-first causal hook / tree-led visual identity**, **Ch 11–13 complete meal**). Governing prose: `14_literary_speculative_thriller_style_guide.md` § *POV architecture—LOCKED*.
@@ -22,7 +24,7 @@
 > - **Ch 10** — People Over Evidence
 > - **Ch 11–13** — **governing Sanxingdui rebuild, revised 2026-07-27; Rasel revised 2026-08-11.** Human Doors → Tree with No Top → Living Route; Rasel refused / stays by choice, Wren displaced, Qiao's clearance lost, Maren complicity disclosed. Professor Emrys does not exist. Former Gulf/Göbekli ending prose lives in `../archive/manuscripts/relocation_quarry_book_i_gulf_gobekli.md` (not reader-sequence canon).
 >
-> **BOOK I GOVERNING DRAFT — RECOMBINED 2026-07-29: 13 chapters, ~42k reader-sequence words.** The reader sequence ends at *The Living Route* (Sanxingdui). Scene desire/opposition, antagonist continuity, and prose-restraint passes carry over. Author research notes: `90_book_i_research_notes.md`; Gulf/Mesopotamia/Göbekli quarry: `../archive/manuscripts/relocation_quarry_book_i_gulf_gobekli.md` (Book II adaptation).
+> **BOOK I GOVERNING DRAFT — RECOMBINED 2026-07-29; CHAPTER TARGET LOCKED 2026-08-21: 25 chapters, ~100k–120k words.** The reader sequence ends at *The Living Route* (Sanxingdui). Scene desire/opposition, antagonist continuity, and prose-restraint passes carry over. Author research notes: `90_book_i_research_notes.md`; Gulf/Mesopotamia/Göbekli quarry: `../archive/manuscripts/relocation_quarry_book_i_gulf_gobekli.md` (Book II adaptation).
 >
 > **Craft revision pass — 2026-07-29 (Book I gaps closed):** Ch 11 Laos-closed → Vietnam monsoon/UXO shelf → Sora gate; thin Ch 6/8/9/10/12 lived expansions; Ch 12 Qiao four-hour access clock; Mei terrace residue confirmed on-page.
 > **Craft revision pass — 2026-07-29 (flora / living route):** Named tropical plants as place-engine (Pelangi garden/marina; coastal chempaka/mangrove/casuarina; Thailand valley margins; Cube sealed orchard vs volunteer trees; Sanxingdui greenhouse basil/chili echo). Craft lock: `14` § *Flora as place-engine*.
@@ -39,7 +41,7 @@
 > - **Superseded Ch 2–4 prose:** moved to `archive/manuscripts/restructure_quarry_ch2-4.md`. Quarry material (Khun Dang, King James register, seven-chamber framing) is not canon until placed on-page under current voice/route locks.
 > - **`archive/manuscripts/quarry_ch1_alternative.md`:** alternative concept-forward Ch 1—**quarry**, not governing (interiority pays off later; see its header).
 
-## Chapter One—The Hour That Belongs to No One
+## Chapter 1—The Hour That Belongs to No One
 
 The skiff is flying.
 
@@ -365,7 +367,7 @@ She says it without looking at him.
 
 ---
 
-## Chapter Two—His Hand
+## Chapter 2—His Hand
 
 The hull kisses the screening pier too hard. Eli's knees take it. Wet stone under the first step. Diesel in the back of his throat. A grey cutter sits off the channel with its number painted out.
 
@@ -857,7 +859,7 @@ The fish seller shoves an oar into Eli's hands. "You pull that," she says, "or y
 He pulls.
 
 
-## Chapter Three—What Didn't Die
+## Chapter 3—What Didn't Die
 
 The river does the remembering for him.
 
@@ -1052,7 +1054,7 @@ By morning the inland road takes him toward paddies and keeper stones, and the d
 
 He counts the heat until it stops burning. Then he drinks.
 
-## Chapter Four—The Passage
+## Chapter 4—The Passage
 
 Eli learns to read Wren's work face before he learns anything else about her.
 
@@ -1188,7 +1190,7 @@ The boat goes in with the tide. Eli steps onto the landing mud with his bag and 
 
 ---
 
-## Chapter Five—The Field That Counts
+## Chapter 5—The Field That Counts
 
 The contact at the landing is a woman in a faded blue shirt who never gives her name and never needs to. She reads Eli by his hands, not his face—the loud ones announce themselves there, if you know where to look—and says, to Wren, "The Custodians are on the water. They always are. You don't go up the valley yet."
 
@@ -1399,7 +1401,7 @@ The Custodians reach the district office the next morning, a day behind, in a wh
 
 ---
 
-## Chapter Six—First Witness
+## Chapter 6—The Rice Test
 
 The stone stands where two channels meet, and the land has known about it far longer than any of them.
 
@@ -1481,7 +1483,7 @@ Ila's economy of motion settles into his hands like a language beginning. The wo
 
 ---
 
-## Chapter Seven—The Forming Line
+## Chapter 7—First Witness
 
 The cooperative's water keeper meets them at the landing with a clipboard, and the clipboard is not a prop.
 
@@ -1626,7 +1628,7 @@ That is why they are still on Malai's marks when first blood arrives through the
 
 ---
 
-## Chapter Eight—Ila's Hands
+## Chapter 8—The Forming Line
 
 First blood arrives the way Malai said everything arrives: at night, through the water, uninvited.
 
@@ -1717,7 +1719,7 @@ The first hour out is ordinary. The engine finds its rhythm. Wren checks the via
 
 ---
 
-## Chapter Nine—Two Teams
+## Chapter 9—Ila's Hands
 
 They are two bends downriver when the war catches up to the cooperative, and it does not come for them. It comes for the field.
 
@@ -1805,7 +1807,7 @@ A Custodian floodlight sweeps the west block once and dies. The northern team's 
 
 ---
 
-## Chapter Ten—People Over Evidence
+## Chapter 10—Two Teams
 
 The morning after a battle nobody admits happened, the cooperative counts.
 
@@ -1977,7 +1979,7 @@ divides under the fields. The boat takes the channel north.
 
 ---
 
-## Chapter Eleven—Human Doors
+## Chapter 11—People Over Evidence
 
 The border market at dawn is all noise and fried dough. A woman plays a guitar to nobody in particular. Three children dance badly behind her. A customs officer drinks coffee and ignores half the crates. The noise scatters signatures: for six minutes the instruments reading the northbound corridor find only a man buying dough, a courier watching the guitarist, and a boat captain who knows which stall sells coffee strong enough to wake a dead man. The bus leaves at first light. They buy nothing. They do not linger. The market closes around them like a fist opening, and they are on the north freight list before the officer looks up.
 
@@ -2405,7 +2407,7 @@ Somewhere beyond the museum, a man with Rasel's voice is preparing the mask.
 
 ---
 
-## Chapter Twelve—The Tree with No Top
+## Chapter 12—Human Doors
 
 Professor Luo gives them tickets.
 
@@ -2651,620 +2653,71 @@ On Qiao's screen, nine traces wander around one another, answering without obeyi
 
 ---
 
-## Chapter Thirteen—The Living Route
+## Chapter 13—The Border Passage
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 14—TBD (expand transit / Mandate contact)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 15—TBD (Wren aftermath / arrival sequence)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 16—TBD (conservation hall deepening)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 17—TBD (Eli/Wren / Maren field notebook)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 18—TBD (tree-top sequence expansion)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 19—TBD (greenhouse aftermath / cost)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 20—TBD (aftermath / route forward)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 21—TBD (book-end breathing room)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 22—TBD (coda / handoff to Book II)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 23—TBD (coda / handoff to Book II)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 24—TBD (final image / series bridge)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 25—TBD (final image / series bridge)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+
 
 They eat before committing a felony against a biosecurity annex.
 
 Luo insists.
-
-The restaurant is six tables under a striped awning near the river, loud with
-rain and an argument about football. A plane tree drips on the plastic roof;
-someone has planted morning glory along the fence until the wire disappears.
-Qiao orders for the table and refuses to
-translate every dish before they taste it—bitter melon, garlic stems, a fish
-steamed under scallion and ginger that makes Eli think of Mei's terrace and the
-banana leaves knocking in the dark. Wren burns her mouth, denies it, and
-eats the offending pepper out of spite.
-
-For twenty minutes Eli cannot make food become strategy.
-
-He watches Luo pick scallions from her bowl and place them in Qiao's. Qiao eats them without interrupting his account of a conservator who once spent three months proving that a suspected new pigment was adhesive from a repair made in the 1990s.
-
-Eli tries to imagine Rasel at the table.
-
-The image will not form older than the garden.
-
----
-
-At closing time, the public museum empties in layers. School groups, families, solitary visitors lingering at the masks. Technicians finish logs. Cleaners begin with the places wonder has made sticky.
-
-Luo retains authority over the conservation hall. She does not have authority over the annex, the utility lock between them, or Wren.
-
-"My staff leave through the public gate," Luo says. "Nobody uses them as cover."
-
-"Agreed," Wren says.
-
-"Qiao stays here."
-
-"No," Qiao says.
-
-They argue in Mandarin too fast for the slate. Luo wins nothing. Qiao puts on a rain shell.
-
-Nine annex staff. Five of them are Rasel's team. One guard team of six. Four Custodians expected after Anika's route correction. Rasel. No evidence of the rival field unit from Thailand.
-
-Wren assigns no one a hero's role.
-
-Luo will trigger a materials-alarm evacuation if the annex begins drawing power.
-
-Qiao will open the drainage controls and keep the conservation data separate from the Mandate network.
-
-Luo and Qiao will preserve the evidence inside legitimate institutional custody.
-Neither will follow the recorder bank into the annex.
-
-Eli takes the drainage route. He can feel the broad ground-noise and may be able to find where it enters the apparatus.
-
-"And when you find your father?" Wren asks.
-
-"Bring him out."
-
-"And when he won't come because the machine needs stopping?"
-
-Eli looks at the culvert mouth, then at her.
-
-"Then the machine stops first." The sentence costs him. He keeps it. "If I have to choose between his door and people still breathing, I take the people. He taught me to leave a plant asking. He can wait one more minute."
-
-Wren nods once—receipt, not approval.
-
-"Then we have a door," she says.
-
-They move.
-
----
-
-The living route is mud, mosquito water, and municipal engineering.
-
-No ancient tunnel. No roots parting for the chosen son. A concrete culvert carrying rain under a service road, half full and rising. Qiao opens grates ahead of them from the control room. Wren goes first, pack held above the water. Eli follows with the Thai soil vials sealed against his chest.
-
-The shelterbelt trees have lifted sections of the drainage lining. Their roots enter through hairline cracks, thicken, divide, and make the culvert worse at being a culvert. At each break the noise broadens.
-
-Eli puts one wet palm to a root.
-
-Nothing speaks.
-
-Water moves. Insects occupy the dark. His own pulse bangs in his skull.
-
-Then Wren, three meters ahead, touches the same root to steady herself, and the static changes—not louder. More specific. Her weight, grip, breath, the small tremor in the arm she has been pretending did not strain at the field battle.
-
-He lets go.
-
-"What?"
-
-"I could feel you."
-
-"You can usually feel me."
-
-"Not like that."
-
-She looks at the root, then at him. "Did I agree?"
-
-The shame is immediate.
-
-"No."
-
-"Then ask next time."
-
-She continues.
-
-The route does not exempt wonder from consent.
-
-At the annex boundary the culvert splits around a foundation. The left branch carries the strongest signal. The right reaches the staff yard and the emergency stair.
-
-Rasel is left.
-
-Nine strangers are right. Five of them are the team.
-
-The machine powers on.
-
-Every root in Eli's reach seems to tighten.
-
-Wren is already moving right.
-
-This time he does not try to solve both before following.
-
----
-
-The annex staff come down the emergency stair walking too evenly—synchronized, not fleeing. Five collaborators placing their feet on the same beat, faces slack with the effort of being calm. At their rear, the team lead speaks into a conductor clipped at his throat. Each phrase reshapes the cadence. He is the anchor.
-
-Wren sees it before Eli names it.
-
-"Break the line."
-
-She steps into the rain and throws a metal waste bin down the stair.
-
-The crash makes three people flinch off-beat. Eli reaches—not into them, not for control, but toward the pressure holding the rhythm together. On the plane it is a geometry of five lines being pulled through one ring, and the team lead's line is thicker than the others.
-
-He pushes against the ring.
-
-It pushes back.
-
-His vision narrows. The old fracture hums.
-
-One collaborator falls. The others step around her without looking.
-
-Wren begins calling names from the badges Luo supplied.
-
-"Chen Yu. Gao Min. Li Bo. Look down. Your colleague is down."
-
-The names do what the crash did: not magic, relationship interrupting instruction. A man at the front turns his head. The ring strains.
-
-Qiao opens every irrigation valve on the shelterbelt circuit.
-
-Water hammers the annex foundation. Pumps engage out of sequence. The apparatus compensates. The staff line stutters.
-
-Eli feels the system choose the team lead.
-
-The pressure closes around the lead's signature first, bright and heavy, and the man's back straightens—not his own posture, the apparatus locking him into the anchor slot. His mouth opens to speak, but the conductor at his throat overrides him.
-
-Eli does not push against the ring this time. He steps into it.
-
-He meets the team lead's line on the plane and cuts it—not with force, but with a polarity the lead has never felt. The lead's signature snags, then buckles. His head snaps back. The conductor at his throat sparks.
-
-Eli's perception of time changes. Not slows—sharpens. Every sound in the annex yard reaches him with perfect clarity: rain on corrugated steel, a custodian's radio cough of static, the team lead's breath catching in his throat, Wren's heel tapping three beats against concrete. Five seconds before, these were background noise. Now they are coordinates. He can hold all of them at once. The field does not just connect him to the five collaborators. It lets him use what he is connected to.
-
-The five lines that were pulling through the ring now pull through Eli.
-
-He is the geometry.
-
-For one breath he knows he is not a body. The old fracture behind his temple is still there, but it belongs to something he is no longer wearing. He is not the vessel. He is not the contents. He is the space that holds both. The culvert walls, the rain, the five collaborators, the team lead sliding down the stair—all of it is temporary matter, slow and decaying. He is not. He is the thing the world is temporary against. Decay is something that happens to structures. He is no longer a structure. He is the field that outlasts them. The apparatus is not using him. He is using it, and the field knows which one he prefers.
-
-The world becomes clean.
-
-Too clean.
-
-Then Eli bends the field back the other way—positive to negative, a inversion that makes the apparatus whine. The team lead hits the stair wall and slides down it, hands over his ears, eyes shut against a frequency he can no longer command.
-
-Eli holds five strangers in a circuit he built alone.
-
-The rain stops feeling like rain. It feels like data.
-
-The old fracture behind his temple splits wide. Not a hum now—a hot line running from the base of his skull to the crown, like someone pushed a rod through the old break and is turning it. His left hand goes numb. He cannot feel the ground through his boot. He bends the field back the other way, positive to negative. The apparatus whines, and the whine becomes a taste: copper and battery acid. The team lead hits the stair wall and slides down it, hands over his ears, eyes shut against a frequency he can no longer command.
-
-Eli is still standing. The annex yard is quiet except for rain and breathing. He is the only thing still moving in it that matters.
-
-The power is not like the platform cup or the temple count. Those were clocks. This is a door that opens outward and does not close. He can feel the five collaborators through the field—their pulses, the fray in the team lead's rhythm, the collaborator who fell and is now sitting in the mud with her head between her knees. He could lift them all. He could hold them. He could make the rain reverse if he wanted. The thought arrives before he checks it.
-
-"Eli."
-
-Wren is at his elbow. She has stopped calling names. Her hand is on his upper arm, and her grip is the kind that used to pull him off a rail without asking. Her face is not wonder. It is the look she gets when a form she filled out comes back with a field crossed out in red.
-
-"Your nose," she says.
-
-He brings his hand up. Blood on his thumb. Not from a cut—from the inside. The fracture has bled into his sinus, quiet and fast.
-
-"What did you just do?" Her hand stays on his arm. Her knuckles are white.
-
-"Their lead is down," he says. His voice sounds like it is coming through the field, flattened, borrowed.
-
-"Not him. You."
-
-He looks at her and feels the field still humming through the five bodies, still waiting for him to tell it what to do. The power is a room he can walk into and lock the door from the inside. He already wants to go back.
-
-"I took the circuit," he says.
-
-"Can you put it down?"
-
-He tries. The field does not want to let go. It clings to his signature the way the machine clung to the team lead's. He feels the first thin wire of something that will later be god-sickness—a quiet refusal to let go. Letting go would mean returning to a body that counts doors. This body counts circuits. The field knows which one he prefers.
-
-He cannot put it down. The more he tries, the more the five collaborators seem to need him to hold them. Their faint distress pulls at him like a rope tied to his sternum—quiet, persistent, not asking for release. He could let them go. He chooses not to. The choice arrives before he names it.
-
-"Not yet."
-
----
-
-Inside the main chamber, Rasel looks up.
-
-Forty meters of wall and rain lose their distance. Eli sees the scar at his
-thumb and the tongue pressed against one tooth while he calculates. Rasel is
-older than every memory Eli owns.
-
-Alive.
-
-Rasel's surprise lasts one breath. Then he checks the instrument bank.
-
-"Babu," he says through the chamber speaker. "Come inside."
-
-Rasel's voice stays level, the same register he once used over a split stem.
-
-The apparatus shifts its load from the staff line toward Eli. His knees strike
-the culvert floor. Five traces slacken; one bright curve rises across the
-display behind Rasel.
-
-Anika enters with Tommy, the scout, and Sora. Rain darkens their shoulders.
-Sora's collar has twisted far enough to show the small medal beneath it.
-
-"Hold the staff," Anika says. "Do not touch the central subject."
-
-The order makes room for him.
-
-Across the yard, Wren gets the last staff member off the stair. Two Mandate
-guards take her down as soon as his feet clear the landing. Her cheek is
-pressed into rainwater. She does not look at him. She looks at the staff door
-and says nothing.
-
-Rasel opens the chamber door.
-
-"The mask is on the bench," he says. "I need one complete run."
-
-Eli crawls out of the water. The door stays open. He can still turn toward the
-staff yard. Wren's cheek is pressed into rainwater. Qiao is fighting the
-drainage controls. Luo's public alarm rolls across the park.
-
-"You knew I was coming."
-
-"I knew you would follow proof."
-
-"You sent it."
-
-"Enough of it."
-
-The bronze face waits above its padded support. Wide eyes. Ears built for a
-scale of listening no human head could carry. Cables from Rasel's frame stop
-short of the metal. Nothing grips it.
-
-"What happens if I wear it?"
-
-"The circuit closes. I measure the field under full load. Then I can teach the
-program what weaker receivers are trying to reach."
-
-"Your program."
-
-"Our protection, if you stop making usefulness sound like a disease."
-
-Rasel turns one display so Eli can see it. Candidate traces fail before the
-threshold his own body crossed in Malacca. Each line ends with a date and an
-initial.
-
-"They volunteered," Rasel says. "They deserve training that does not break
-them. You can give me the reference."
-
-Outside, a guard twists Wren's arm higher. She looks through the open door and
-finds Eli watching.
-
-"Your choice," she says.
-
-Rasel hears her. "Of course it is."
-
-That makes the room worse.
-
-Eli puts one palm against the bronze.
-
-The shelterbelt answers first. Roots take rain through split concrete. Fungi
-move along dead wood. The river carries fuel sheen and runoff past bodies
-crossing bridges upstream. The contact branches faster than his mind can
-follow. No branch reports to another. They touch through ground and water,
-separate and alive.
-
-On the wall, a conservation card in three languages names the bronze
-*Sacred Tree*. Someone has penciled under the English, small and sure:
-*not one trunk*.
-
-Rasel says, "Now."
-
-Eli knows which route is true.
-
-He tries the candle. Stare at the pull in the chest. Close. Hold the inverse. The inverse will not form. The ask is still a person in the room.
-
-He lifts the mask anyway.
-
-The bronze is cold against his forehead. The first breath tastes of old metal.
-On the second, the tree and every live root under the annex open through him.
-
-Rasel's instruments wake.
-
-Signature strength. Decay curve. Load response. Numbers run across the glass.
-Rasel moves among them with his bad hand steady on the controls.
-
-The circuit does not record Eli. It records what the ground does while he is
-open. That difference will matter to a machine builder. It offers Eli nothing.
-
-The staff line catches the same load. Five bodies turn toward the chamber.
-Anika tightens their cadence to keep them standing.
-
-Wren knocks her heel against the concrete. Three beats. Her own count.
-
-Qiao answers with the irrigation purge: two, pause, two, pause, one. Luo's
-alarm keeps its walking pace above them.
-
-Mismatch enters the circuit.
-
-Eli takes the mask off.
-
-The pressure drops. The staff stagger apart. One woman sits hard on the stair
-and begins swearing at the guard who tries to lift her.
-
-Rasel reaches for the mask.
-
-Eli holds it away.
-
-"You have enough."
-
-Rasel checks the last decay trace. "For a first reference."
-
-Cold bronze grease marks Eli's palm. He gave his father a working line where
-there had been guesses. The machine can bring another body closer to what
-opened here.
-
-Anika reads the same result.
-
-"Seal the bank," she says.
-
-Tommy turns toward the staff yard. Sora is already moving. She drives her
-shoulder into him before his lance rises and takes the discharge across her
-back. Her body strikes the console. The field cover she throws over the stair
-lasts one second.
-
-Wren uses it. She rolls free, breaks the nearest guard's grip, and reaches the
-emergency panel.
-
-Qiao dumps the annex power into the drainage pumps.
-
-The chamber goes dark except for battery strips along the floor. Rasel covers
-the measurement bank with his body.
-
-Eli sees the choice. His father protects the data first.
-
-He runs to Sora.
-
-Wren has her under both arms. Together they drag her through the staff door as
-the public fire crews reach the outer gate.
-
-Rasel stays beside the instruments.
-
----
-
-The annex doors refuse to release the nine staff because the Mandate system
-has relabeled them contaminated.
-
-Wren takes out the credential she has protected since Pelangi: her house
-standing, Babaji's intake authorization, her real name attached to both. She
-enters an emergency receiving order and signs it.
-
-"That makes you the responsible destination," Luo says over the channel.
-
-"Yes."
-
-"There is no destination."
-
-Wren watches a staff member strike the locked gate with both fists. "There are
-people at the door."
-
-The public system accepts her chain before the Mandate can revoke it. Fire
-crews enter. The staff cross under their own names.
-
-Wren's credential turns red.
-
-Employment suspended. Travel review. House standing referred. Pelangi return
-authorization withdrawn.
-
-The hostel door she reserved near the annex rejects the pass. The bicycle lane
-gate at the canal bridge reads the red and stays closed. Her payment link at
-the noodle stall across the street fails with a notification she cannot appeal
-until the review clears. She is still standing in the same city, holding the
-same body, but the city no longer recognizes her right to occupy it.
-
-She reads the screen once and pockets it.
-
-Qiao's accreditation dies next. Luo receives a formal order to surrender the
-access record and refuses until the order names which public archive will hold
-the copy. Their argument begins before the last ambulance leaves.
-
-Sora lies on a stretcher with one hand closed around her medal. When Anika
-approaches, she opens her eyes.
-
-"Hassan's category moves west," she tells Wren.
-
-"Why are you telling me?"
-
-"Because I wrote it."
-
-Anika stops three meters away. She has heard.
-
-Wren writes the transfer code on the back of her dead credential and gives
-Sora's stretcher to the public medics. Anika lets it pass. The count on her
-fingers begins again after the ambulance doors close.
-
----
-
-Rasel finds Eli in the university greenhouse adjoining the annex service road.
-It is scheduled for demolition and still watered twice a day. Empty benches
-shine beneath emergency lamps. Holy basil has escaped a cracked pot and rooted
-in the gravel.
-
-Eli stands beside one surviving tomato plant. The grow bag has split. The stem
-leans toward a light that no longer works.
-
-Rasel pinches it at the base.
-
-"Too much water."
-
-"You crossed a police line to tell me that?"
-
-"The police line belongs to my employer."
-
-Rasel takes a stake from an empty tray and rights the stem. His left hand
-trembles while he ties it.
-
-Eli watches the knot. "You used to say the garden knew when rain was coming."
-
-"You were seven. I said the leaves turned before rain. You made the rest
-better."
-
-The correction is offered in the same voice Rasel once used over a pump.
-
-"Did you know I lived?"
-
-"After the first year. A child moved south. A harbor sponsor. No name I could
-verify."
-
-"They took you before you could come back."
-
-"Yes."
-
-"Then you stayed after you could leave."
-
-"Yes."
-
-"You could have looked."
-
-"Looking would have put you on my file before you were useful enough to
-protect."
-
-"Useful to whom?"
-
-Rasel glances toward the annex. "You saw the candidates."
-
-"I saw your labels."
-
-"They are people who will be taken apart by the first uncontrolled opening.
-What you gave me may keep some of them whole."
-
-"And make the rest better weapons."
-
-"Anything strong enough to protect them will interest people with weapons. I
-cannot remove that fact by refusing to work."
-
-Eli waits for the apology. Rasel checks the tomato tie.
-
-"You wanted me here for that reading."
-
-"Yes."
-
-"You let me think I was rescuing you."
-
-"I let you follow the reason you would move for."
-
-"I was the equipment."
-
-"You are my son. You are also the strongest receiver I have measured. I will
-not insult either fact by pretending it cancels the other."
-
-Eli's hand closes around the damp bench edge.
-
-"Come with us."
-
-Rasel looks almost surprised.
-
-"To what? Wren has no standing. You have no jurisdiction, no laboratory, and
-the fever leftover you treat with breathing exercises. Here I can keep the work
-inside a program that answers to people who survived the last catastrophe."
-
-"They put a knee on her back."
-
-"And her credential opened the gate. Systems can contain both facts."
-
-"People have to live inside both."
-
-"Yes."
-
-Rasel checks the tomato tie again.
-
-"Shireen kept your garden."
-
-Rasel's fingers stop on the knot.
-
-"She sends photographs."
-
-"She doesn't send them to you."
-
-"No."
-
-Rasel presses the loose soil around the stem.
-
-Wren appears in the greenhouse doorway. Her rejected credential hangs from two
-fingers. She waits there, leaving the distance to Eli.
-
-"Maren," he says. "Tell me where she is."
-
-"I don't know where she is now. Two winters ago a courtesy request crossed my
-desk from an office that does not use our letterhead. She corrected the field
-equation in her own hand."
-
-Rasel touches the stitched edge of his lab cuff.
-
-Eli understands before the paper appears. His father kept it because it might
-be useful.
-
-He reaches first.
-
-Rasel catches his wrist. For one second they stand with the old tiller grip
-between them.
-
-"That is mine."
-
-"So was the reading."
-
-Rasel lets go.
-
-The strip has been folded until it is no wider than a match. Most of it is an
-equation in Maren's hand. At the bottom she changed pens.
-
-*Babu—if this reaches you, ask me why I stayed.*
-
-The fold has worn white through *why*.
-
-"She helped build the first classifiers," Rasel says. "Then she sabotaged
-them. She has spent years deciding how much she will admit to fixing. If you
-find her, do not ask for the woman you remember first."
-
-"She was my mother first."
-
-"That is one of the things you remember better."
-
-Eli puts the strip inside his shirt.
-
-"I'm leaving."
-
-"I know."
-
-"I'm leaving you here."
-
-Rasel adjusts the tomato tie by a finger's width. "Yes." He turns back to the instrument bank. The door stays closed.
-
-Wren turns toward the service road. Eli follows her.
-
-At the door he looks back. Rasel is beneath the dead grow light, one hand on
-the plant and the other already reaching for his slate.
-
----
-
-Luo's conservation van waits with the engine off. Qiao sits in front writing a
-statement that may save the staff names and will not save his clearance. Wren
-checks her credential once more. The red stamp holds.
-
-"Where can you go?" Eli asks.
-
-"West, until someone asks a better question." She turns the dead credential between her fingers. "My house standing is gone. My name is the only paper I have left."
-
-She hands him the back of the credential. Sora's code points toward the
-Bosporus corridor. Maren's equation carries a second, older reference to a
-withheld tree.
-
-Eli climbs into the van. His father does not come through the greenhouse door.
-
-As Qiao pulls away, the annex fence passes close enough to touch. Rasel stands
-behind it with Anika. She speaks; he listens without looking toward the road.
-
-The van turns. The fence gives way to wet plane trees, repair barriers, and the
-river beyond them.
-
-Eli takes out Maren's strip. Wren's dead credential rests beside it on the
-seat. Neither paper grants passage through the next checkpoint. He understands
-three things he did not know that morning: the machine needs stopping, his
-father stays by choice, and the strip in his shirt is not a map home — it is
-the first question he gets to carry himself.
-
----
-
-*End of Book I: The Breach.*
-
-> Former Gulf / Mesopotamia / Göbekli ending prose lives in `../archive/manuscripts/relocation_quarry_book_i_gulf_gobekli.md` (not reader sequence).

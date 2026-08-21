@@ -15,22 +15,10 @@
 
 > **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Book IV's monolithic venue name is **Thread Loom**: the court made physical — weaving/judicial geometry, access and placement as instruments of rule, Rowan and Wren as principal weavers. It is the Cube turned narrative.
 
-> **GLOBAL COORDINATION PLOT — LOCKED 2026-08-02:** Book IV is not a project to
-> unify the world under Eli or to make succession the primary adventure. The
-> The Hollow Year is a practical survival crisis: a fictional North Pacific caldera
-> eruption perturbs weather, harvests, shipping, medicine, fuel, and
-> communications. Competing forecasts, export holds, hidden reserves, route
-> seizures, and damaged trust jam the links between otherwise functioning local
-> societies. Eli is recalled to build a temporary cross-route survival network
-> connecting Union remnants, Mandate and Coalition nodes, island ports, clinics,
-> farms, and local governments. He solves concrete failures—food, medicine,
-> convoy passage, forecast verification, refugee movement, and psionic
-> escalation—without creating a world government or overriding local
-> sovereignty. The achievement is interoperability without merger: divided
-> regions can coordinate enough to survive. Rowan's relationship, pregnancy, and
-> the birth run inside this crisis as human and institutional clocks; they do
-> not replace the material plot. The final relinquishment proves the network can
-> continue without Eli.
+> **CHAPTER TARGET — LOCKED 2026-08-21:** Book IV runs **25 chapters**,
+> targeting ~100k–120k words. The chapter spine below is the authoritative
+> beat map; each chapter may expand or split during drafting to reach target
+> length without padding.
 >
 > **SECOND MANDATE / WASHINGTON RHYME — LOCKED 2026-08-02:** Book IV's
 > institutions, not Eli, deliberately ask him back after the first handover

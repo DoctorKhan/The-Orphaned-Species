@@ -1,5 +1,7 @@
 # The Orphaned Species Book II: The Descent
 
+> **CHAPTER TARGET — LOCKED 2026-08-21:** Book II runs **25 chapters**, targeting ~100k–120k words. The chapter spine below is the authoritative beat map; each chapter may expand or split during drafting to reach target length without padding.
+
 > **Pitch / pressure gate—HIGH PRIORITY—LOCKED 2026-07-29; delivery upgrades 2026-07-31; pitch/visual revised 2026-08-01:** Every chapter must pass `55_series_pitch_and_comps.md` checklist items 1–20 and the **Three pressure rules** + **Five delivery upgrades** (Clock A Maren/rescue vs Clock B Wren-network/registry/**Sol**; antagonist weekly jobs; cost → next; density parity; cast chemistry; ring-first causal hook / tree-led visual identity). Dual-clock map: `55` § *Book II — dual-clock & cost→next map*. Beats: `32_volume_II_beatsheet.md`.
 
 > **Governing draft begun 2026-07-28; traveling-Rasel quarry rebuilt 2026-08-16.**
@@ -43,7 +45,7 @@
 >
 > **PSIONIC SCIENCE DRAMATIC-CONSEQUENCE RULE — LOCKED 2026-08-16:** every null result, failed test, fraudulent practitioner, contaminated experiment, mistaken attribution, or perimeter revision in Book II must have a visible, named-character cost. Rasel's recertification, clinic/registry tests, keeper testimony, forecast attribution, and custody claims all fail or succeed at a human price. A falsified read or contaminated evidence chain must strip the authorizer's authority, freeze their access, or force a clinic closure—not merely advance the mystery. The first scene after any scientific advance shows the change in a person's hands, not a thesis.
 
-## Chapter One—What Came Home
+## Chapter 1—What Came Home
 
 Eli unfolds the strip on an empty propagation tray and holds the crease flat
 with his thumb.
@@ -597,7 +599,7 @@ shuts. She does not need to. The contact is already a habit.
 
 ---
 
-## Chapter Two—The Cold Container
+## Chapter 2—The Cold Container
 
 Cold preserves the wrong things.
 For thirty-one hours the seed container holds six degrees and the smell of wet
@@ -1371,7 +1373,7 @@ The refusal does not travel.
 
 Its cost does.
 
-## Chapter Three—The Buried Instrument
+## Chapter 3—The Buried Instrument
 
 Wren finds the cut in the transfer records at six in the morning, in a room that smells of coffee brewed too strong and the copper-tang of a printer drum overheating. Eli has not asked for medical records. He has been tracking Hassan through public corridor flow. Wren has been watching the stations that do not log names.
 
@@ -2248,7 +2250,7 @@ wrist until he notices.
 
 The hand stops before the bus reaches the first tunnel.
 
-## Chapter Four—The Healer's Terms
+## Chapter 4—The Healer's Terms
 
 Somchai washes his hands twice because the first time belongs to fear.
 
@@ -3093,7 +3095,7 @@ Every answer has arrived through someone else's terms.
 
 For once, none of those terms feels like delay.
 
-## Chapter Five—The Holding Site
+## Chapter 5—The Holding Site
 
 The holding site used to inspect livestock.
 
@@ -3977,7 +3979,7 @@ It does not feel clean.
 
 That may be the first honest thing about it.
 
-## Chapter Six—The Changing Map
+## Chapter 6—The Changing Map
 
 Wren knows Rowan by the cup she leaves unfinished.
 
@@ -4843,7 +4845,7 @@ to provide.
 The jealousy arrives ugly and immediate. Wren had asked Rowan plainly. With Eli,
 want still came dragging an empty chair behind it.
 
-## Chapter Seven—The Riddling Ground
+## Chapter 7—The Riddling Ground
 
 Outside, the drained field carries sound strangely.
 
@@ -5881,7 +5883,7 @@ Their hands meet on the floor.
 
 Neither calls that completion.
 
-## Chapter Eight—The Corridor Signal
+## Chapter 8—The Corridor Signal
 
 Morwen has them stop before the county line, at a disused halt where a rail spur once served the quarry and now serves nothing but her own maintenance runs.
 
@@ -6349,7 +6351,7 @@ The corridor points southeast toward the old transmission station at Stonehenge.
 
 Hostile field traffic is already gathering there.
 
-## Chapter Nine—The Staff Entrance
+## Chapter 9—The Staff Entrance
 
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
 opening onto electrical cabinets, cleaning supplies, stacked crowd
@@ -7055,7 +7057,81 @@ inside it.
 
 Then they go.
 
-## Chapter Ten—Release
+## Chapter 10—Release
+
+## Chapter 11—TBD (aftermath / Albion settling)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 12—TBD (Sol recruitment expansion)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 13—TBD (Wren/Rowan domestic stretch)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 14—TBD (Callum recovery deepening)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 15—TBD (dead-zone sequence expansion)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 16—TBD (Pömmelte aftermath / Holt turning)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 17—TBD (Sídhe deepening / Anthea chord)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 18—TBD (Men-an-Tol sequence expansion)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 19—TBD (corridor transit / Maren contact)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 20—TBD (Stonehenge approach / Custodian fight)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 21—TBD (Stonehenge interior / relay sequence)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 22—TBD (ground-holding / Eli sideways)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 23—TBD (Avebury approach / reunion prep)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 24—TBD (assault concurrent / Manual Override)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+---
+
+## Chapter 25—TBD (release / aftermath / Book III ignition)
+[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
 
 Avebury does not permit the illusion of an empty sacred place.
 

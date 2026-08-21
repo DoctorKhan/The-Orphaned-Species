@@ -68,7 +68,10 @@
   sailors and bounded Weaver/Thread help are indispensable, but no secret
   extraction operation is running beneath the chapter.
 
-*The chapter-by-chapter spine for Volume I (Shattering), built on the locked decisions. Uses the chapter card from `05_story_architecture.md` §10, compressed. Companion to `05` (structure), `29_tetralogy_plot_and_development.md` (full trilogy plot hub), `21_present_day_street_skin.md` (near-future tone / port-noir skin), `23_2040_present_frame.md` (~2040 texture), `26_present_day_cast_expanded.md` (cast flesh), `27_character_development_arcs.md` (Vol I development + proof scenes), `28_present_day_tetralogy_craft_index.md` (craft hub), `99_open_questions.md` (the locked beats #1–#6), `38_psionic_combat.md` (the war), `39_psion_biology.md` (the floor), `36_the_living_web.md` (the web/clarification mechanism), `16_reader_attachment.md` (the human-gravity test).*
+> **CHAPTER TARGET — LOCKED 2026-08-21:** Book I runs **25 chapters**,
+> targeting ~100k–120k words. The thirteen-chapter spine below is the
+> authoritative beat map; each chapter below may expand or split during
+> drafting to reach target length without padding.
 
 > **Locked inputs:** Eli's facilities work and father's garden → narrow Malacca
 > witness → Wren's legitimate intake guidance through Singapore → breach and

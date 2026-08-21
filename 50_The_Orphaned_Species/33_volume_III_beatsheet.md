@@ -41,32 +41,10 @@
 
 > **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Book III's monolithic venue name is **Living Root**: the organic, spreading Brazilian river-port network and federated teahouse ecology — unsealed, branching, the anti-Cube. It is the infrastructure that grows while the Cube stands.
 
-> **BOOK III ENDGAME — REVISED 2026-08-07:** Book III is the war epic in
-> which the compact Eli and the Weavers built **fractures under military
-> pressure**. The Continental Union shatters into rival legitimacy centers;
-> the Awakening War hits with psionic operations, missiles, drones, cyber
-> sabotage, naval blockade, and strikes on ports, power, fuel, and
-> communications. Eli accepts a narrow, publicly bounded wartime mandate
-> from the surviving remnants and reunifies defensive capacity — ports,
-> clinics, farms, local administrations, and capable officers — into a
-> temporary cross-route command. He issues real orders because food,
-> evacuation, defense, and routes require decisions, not symbolic consensus.
-> He wins battles and saves people, and his own relinquishment is real:
-> under real threat, in a single hall, he signs away his authority and the
-> room continues without him — a genuine civic win, meant to read as one.
-What the war never secured is the larger claim that win implies:
-Continuity keys, factional mandate, and private force in regions outside
-that room stay live and unresolved. The first relinquishment is
-**incomplete** — not because Eli refuses it or fails to complete it, but
-because the wider interregional compact it seemed to prove was never
-intact anywhere beyond the room that was watching; that gap surfaces only
-in Book IV. Eli and Rowan fall in love during Book III and acknowledge it
-while he still holds command. They do not have sex or formalize the bond until
-his authority ends. Book IV owns sexual consummation, the decision to try for
-a child, conception, pregnancy, birth, the
-reconstruction of the compact after its failure, and the **second and
-final** relinquishment. Older Ch 8–10 closure material below is retained
-as staging quarry only where it does not contradict this lock.
+> **CHAPTER TARGET — LOCKED 2026-08-21:** Book III runs **25 chapters**,
+> targeting ~100k–120k words. The chapter spine below is the authoritative
+> beat map; each chapter may expand or split during drafting to reach target
+> length without padding.
 
 **Heather ground / cube-body beat — LOCKED 2026-08-18 (`59` § *Eli's cube-body sequence*).** The Book III handover hall sits on live Heather ground in Denver (`60` § *Heather Cube, on-page*). Eli does not receive a full guardian-spirit contact in Book III; he registers only proximity: pressure at the heart while the room continues without him, felt as vertigo or ground-response he does not name. The sign-and-release scene is the site of that proximity. His only residue is continued ordinary work without integration.
 
