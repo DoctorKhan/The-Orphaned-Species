@@ -73,7 +73,9 @@ He leans into it, small corrections with knees and hands. Do not look at the buo
 
 Then it moves wrong.
 
-An old woman kneels underwater at the bottom of the sea—Timah, the harvesters call her, though she answers to nothing shouted from the surface. She holds a curved knife, cutting sea-grape stems into a net bag at her belt, the dark green clusters the old-island kitchens pickle and the Reclamation hotels pretend they invented. A boy drops from the bright surface, pushes off her back hard enough to send himself spiraling up through the bubbles—Jul, surfacing wherever the game takes him, with no more sense of the morning than his grandmother has. Their harvest boat has drifted off its anchor, marker floats swinging into the exact lane Eli chose an hour ago and has been running every day since. Old-island work if you know how to see it: shallow draft, patched where salt ate the paint, a plastic jug of fresh water lashed where a tourist would put a cooler. Timah reaches for a line she cannot see anything moving toward her through.
+An old woman kneels underwater at the bottom of the sea—Timah, the harvesters call her, though she answers to nothing shouted from the surface. She holds a curved knife, cutting sea-grape stems into a net bag at her belt, the dark green clusters the old-island kitchens pickle and the Reclamation hotels pretend they invented. A boy drops from the bright surface, pushes off her back hard enough to send himself spiraling up through the bubbles—Jul, surfacing wherever the game takes him, with no more sense of the morning than his grandmother has. 
+
+Their harvest boat has drifted off its anchor, marker floats swinging into the exact lane Eli chose an hour ago and has been running every day since. Old-island work if you know how to see it: shallow draft, patched where salt ate the paint, a plastic jug of fresh water lashed where a tourist would put a cooler. Timah reaches for a line she cannot see anything moving toward her through.
 
 "Clear the mark!" someone screams from the wall. Eli cannot tell from here whether it means Timah or him.
 
@@ -1440,7 +1442,7 @@ Then the site's charge thins—or his does. The thread pays out and out and goes
 Kitt writes down the time in the cooperative notebook and does not ask what Eli
 saw.
 
-They do not leave the stone at once. Eli's legs will not trust the boat yet. He sits with his back against the concrete shelf while the incense ash sticks to the wet of his cheek, and watches a water monitor haul itself onto a mangrove root and consider them with the boredom of an animal that has outlived every theory. Papaya leaves clap once in a wind that does not reach the water. Kitt rinses the thermos cup and fills it again without being asked.
+They do not leave the stone at once. Eli's legs will not trust the boat yet. He sits with his back against the concrete shelf while the incense ash sticks to the wet of his cheek, and watches a water monitor haul itself onto a mangrove root and consider them with the boredom of an animal that has outlived every theory. Papaya leaves clap once in a wind that does not reach the water. Kitt rinses the thermos cup and fills it again without being asked. He passes one to Eli, then one to Wren, and the three of them sit on the bund in the last light drinking tea that is too sweet and saying nothing that needs saying. Nobody photographs the stone. Nobody writes a report. For ten minutes the world is only tea, tide, and a monitor that does not care what they found.
 
 "Drink," Wren says from the boat, operational rather than soft. "You went somewhere. Bodies that go somewhere come back stupid about salt."
 
@@ -1703,6 +1705,8 @@ Before dark they pack what a leaving looks like when it is not finished: vials a
 They leave at the next dark tide, with the half-finished record and all of the guilt, and Malai sees them off the marks one last time, unsentimental as a gauge. Frogs take the dark canal as if nothing had happened. The west block keeps leaning toward its aisle, drunk and precise.
 
 "Fourth team will be worse," she says. "Go be worth the trouble."
+
+The first hour out is ordinary. The engine finds its rhythm. Wren checks the vials against the packing list once, then puts the list away. Eli sits on the rice sacks with his hands flat and does not think about the burned pump house. Kitt tells a story about a monitor lizard that stole a whole roast chicken from the drying raft and was found the next morning in the mangroves, too fat to climb a tree, watching the village with the expression of a man who has made a decision and will not be moved. Nobody laughs. The story does not need laughter. The nephew eats dried fish and hums off-key. The river runs black under the hull.
 
 ---
 
@@ -1967,6 +1971,8 @@ divides under the fields. The boat takes the channel north.
 ---
 
 ## Chapter Eleven—Human Doors
+
+The border market at dawn is all noise and fried dough. A woman plays a guitar to nobody in particular. Three children dance badly behind her. A customs officer drinks coffee and ignores half the crates. The noise scatters signatures: for six minutes the instruments reading the northbound corridor find only a man buying dough, a courier watching the guitarist, and a boat captain who knows which stall sells coffee strong enough to wake a dead man. The bus leaves at first light. They buy nothing. They do not linger. The market closes around them like a fist opening, and they are on the north freight list before the officer looks up.
 
 The first road north is four days south of home.
 
@@ -2393,16 +2399,11 @@ Professor Luo gives them tickets.
 That is the first boundary.
 
 No service entrance. No whispered passage into a culture that has waited for Eli.
-They queue with everyone else under umbrellas while a school group rehearses its
-count and a toddler attempts to drink from a rain gutter. Plane trees drip on the
-ticket awning. A vendor sells roasted sweet potato from a cart that has claimed
-the same crack in the pavement for years; the smell is ordinary and therefore
-precious. Wren submits her bag and
-places the soil vials in a research locker under Luo's receipt.
+They queue with everyone else under umbrellas while a school group rehearses its count and a toddler attempts to drink from a rain gutter. Plane trees drip on the ticket awning. A vendor sells roasted sweet potato from a cart that has claimed the same crack in the pavement for years; the smell is ordinary and therefore precious. Wren submits her bag and places the soil vials in a research locker under Luo's receipt. For ten minutes the crowd is camouflage: fifty signatures overlapping, cameras pointed at the bronze faces on the banners, the school group chanting numbers loud enough to drown a broadcast. The four-hour conservation window is the clock. When Qiao's clearance runs out, the cover ends.
 
-"People imagine access is a door behind the public door," Luo says. "Usually it is paperwork."
+"People imagine access is a door behind the public door," Luo says.
 
-Inside, the building lifts them through the archaeological history before it gives them the tree. Foundations. Pottery. Jade. Gold thin enough to remember the pressure of a hand. Bronze faces with eyes extended beyond the proportions of a human skull. Eli's wet boots leave Thailand mud in faint commas on the clean floor; a cleaner will erase them; he watches the commas anyway, as if the Vietnam shelf and Malai's bund needed a receipt.
+Inside, the building lifts them through the archaeological history before it gives them the tree.
 
 Eli feels almost nothing.
 
