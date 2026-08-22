@@ -6,49 +6,42 @@
 
 ## Summary
 - **Chapters audited:** 25
-- **Flagged chapters:** 18
-- **Total flag instances:** 64
+- **Flagged chapters:** 17
+- **Total flag instances:** 45
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 18 |
-| NOT-X-BUT-Y | 12 |
-| ABSTRACT-DENSE | 10 |
+| SHORT-PARA-RUN | 17 |
+| ABSTRACT-DENSE | 9 |
 | ECHO-CLOSER | 6 |
-| STACKED-EM-DASHES | 4 |
-| ABSTRACT-DISTANCE | 4 |
 | OPEN-LIGHT-ON-BODY | 4 |
+| STACKED-EM-DASHES | 3 |
 | TELL-NOT-SHOW | 2 |
 | ABSTRACT-OVER-BODY | 2 |
 | IDENTICAL-PARA-OPENING | 2 |
 
 ## Chapter-level detail
 
-### ## Chapter 1—The Boat at Morning [EXISTING]
-- **Word count:** 3499
+### ## Chapter 1—The Boat at Morning [PLACEHOLDER]
+- **Word count:** 3459
 - **Sentence count:** 509
 - **Flags:**
-  - NOT-X-BUT-Y (3 hits)
   - STACKED-EM-DASHES (1 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 107 body terms)
+  - ABSTRACT-DENSE (22 abstract terms, 103 body terms)
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 2—Harbor Wake [SPLIT-FROM: Ch 1]
-- **Word count:** 3499
-- **Sentence count:** 509
-- **Flags:**
-  - NOT-X-BUT-Y (3 hits)
-  - STACKED-EM-DASHES (1 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 108 body terms)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
+- **Word count:** 17
+- **Sentence count:** 1
+- **Flags:** none
 
-### ## Chapter 3—The First Sponsorship [EXISTING]
+### ## Chapter 3—The First Sponsorship [PLACEHOLDER]
 - **Word count:** 3939
 - **Sentence count:** 496
 - **Flags:**
   - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
 
-### ## Chapter 4—Terms of Welcome [EXISTING]
+### ## Chapter 4—Terms of Welcome [PLACEHOLDER]
 - **Word count:** 3939
 - **Sentence count:** 496
 - **Flags:**
@@ -68,103 +61,89 @@
   - ECHO-CLOSER (1 hits)
   - SHORT-PARA-RUN (13 run(s) of 3+ short paragraphs)
 
-### ## Chapter 7—The Repair Dock Evening [EXISTING]
-- **Word count:** 4449
-- **Sentence count:** 519
+### ## Chapter 7—The Repair Dock Evening [PLACEHOLDER]
+- **Word count:** 4416
+- **Sentence count:** 517
 - **Flags:**
-  - NOT-X-BUT-Y (3 hits)
   - ABSTRACT-DENSE (21 abstract terms, 95 body terms)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
 
-### ## Chapter 8—The Kitchen Ledger [EXISTING]
-- **Word count:** 4448
-- **Sentence count:** 519
+### ## Chapter 8—The Kitchen Ledger [PLACEHOLDER]
+- **Word count:** 4415
+- **Sentence count:** 517
 - **Flags:**
-  - NOT-X-BUT-Y (3 hits)
   - ABSTRACT-DENSE (21 abstract terms, 95 body terms)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 9—The Sideways Record [SPLIT-FROM: Ch 5]
-- **Word count:** 3802
-- **Sentence count:** 458
+- **Word count:** 3771
+- **Sentence count:** 455
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (5 hits)
   - ECHO-CLOSER (1 hits)
-  - ABSTRACT-DISTANCE (2 hits)
-  - ABSTRACT-DENSE (26 abstract terms, 85 body terms)
+  - ABSTRACT-DENSE (26 abstract terms, 84 body terms)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 10—The Standard [SPLIT-FROM: Ch 5]
-- **Word count:** 3801
-- **Sentence count:** 458
+- **Word count:** 3771
+- **Sentence count:** 455
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (5 hits)
   - ECHO-CLOSER (1 hits)
-  - ABSTRACT-DISTANCE (2 hits)
-  - ABSTRACT-DENSE (26 abstract terms, 85 body terms)
+  - ABSTRACT-DENSE (26 abstract terms, 84 body terms)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
 
-### ## Chapter 11—The Ambassador Dinner [EXISTING]
-- **Word count:** 3781
-- **Sentence count:** 449
+### ## Chapter 11—The Ambassador Dinner [PLACEHOLDER]
+- **Word count:** 3750
+- **Sentence count:** 448
 - **Flags:**
-  - NOT-X-BUT-Y (2 hits)
+  - TELL-NOT-SHOW (1 hits)
+  - ABSTRACT-DENSE (31 abstract terms, 68 body terms)
+  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
+
+### ## Chapter 12—The Names They Carry [SPLIT-FROM: Ch 7]
+- **Word count:** 3753
+- **Sentence count:** 448
+- **Flags:**
   - TELL-NOT-SHOW (1 hits)
   - ABSTRACT-DENSE (31 abstract terms, 69 body terms)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
-### ## Chapter 12—The Names They Carry [SPLIT-FROM: Ch 7]
-- **Word count:** 3784
-- **Sentence count:** 449
-- **Flags:**
-  - NOT-X-BUT-Y (2 hits)
-  - TELL-NOT-SHOW (1 hits)
-  - ABSTRACT-DENSE (31 abstract terms, 70 body terms)
-  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
-
 ### ## Chapter 13—Qiao's Testimony and the Survivor [SPLIT-FROM: Ch 7]
-- **Word count:** 2949
+- **Word count:** 2938
 - **Sentence count:** 353
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - ECHO-CLOSER (1 hits)
-  - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
-### ## Chapter 14—The Compact [EXISTING]
-- **Word count:** 2944
+### ## Chapter 14—The Compact [PLACEHOLDER]
+- **Word count:** 2933
 - **Sentence count:** 353
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - ECHO-CLOSER (1 hits)
-  - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
-### ## Chapter 15—The Signing and the Shed Fire [EXISTING]
-- **Word count:** 3829
-- **Sentence count:** 496
+### ## Chapter 15—The Signing and the Shed Fire [PLACEHOLDER]
+- **Word count:** 3811
+- **Sentence count:** 494
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-  - ABSTRACT-DISTANCE (1 hits)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 16—The Voyage and the Warning [SPLIT-FROM: Ch 9]
-- **Word count:** 3830
-- **Sentence count:** 496
+- **Word count:** 3812
+- **Sentence count:** 494
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-  - ABSTRACT-DISTANCE (1 hits)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
-### ## Chapter 17—A Crown With an End [EXISTING]
+### ## Chapter 17—A Crown With an End [PLACEHOLDER]
 - **Word count:** 3504
 - **Sentence count:** 456
 - **Flags:**
@@ -178,7 +157,7 @@
   - ABSTRACT-DENSE (22 abstract terms, 88 body terms)
   - SHORT-PARA-RUN (17 run(s) of 3+ short paragraphs)
 
-### ## Chapter 19—Gutter Clearing and the Work Song [EXISTING]
+### ## Chapter 19—Gutter Clearing and the Work Song [PLACEHOLDER]
 - **Word count:** 9
 - **Sentence count:** 1
 - **Flags:** none

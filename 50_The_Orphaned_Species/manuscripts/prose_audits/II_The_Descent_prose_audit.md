@@ -6,21 +6,21 @@
 
 ## Summary
 - **Chapters audited:** 25
-- **Flagged chapters:** 22
-- **Total flag instances:** 69
+- **Flagged chapters:** 21
+- **Total flag instances:** 62
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 22 |
-| NOT-X-BUT-Y | 14 |
+| SHORT-PARA-RUN | 21 |
 | ABSTRACT-DISTANCE | 12 |
-| STACKED-EM-DASHES | 10 |
+| NOT-X-BUT-Y | 10 |
+| STACKED-EM-DASHES | 9 |
 | ABSTRACT-DENSE | 8 |
-| ABSTRACT-OVER-BODY | 3 |
+| ABSTRACT-OVER-BODY | 2 |
 
 ## Chapter-level detail
 
-### ## Chapter 1—What Came Home [EXISTING]
+### ## Chapter 1—What Came Home [PLACEHOLDER]
 - **Word count:** 3089
 - **Sentence count:** 354
 - **Flags:**
@@ -28,27 +28,25 @@
   - SHORT-PARA-RUN (23 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 2—The Westbound Packet [SPLIT-FROM: Ch 1]
-- **Word count:** 3091
-- **Sentence count:** 354
+- **Word count:** 18
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 3—The Folly [PLACEHOLDER]
+- **Word count:** 3987
+- **Sentence count:** 478
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - SHORT-PARA-RUN (23 run(s) of 3+ short paragraphs)
-
-### ## Chapter 3—The Folly [EXISTING]
-- **Word count:** 3998
-- **Sentence count:** 479
-- **Flags:**
-  - NOT-X-BUT-Y (2 hits)
   - ABSTRACT-DENSE (31 abstract terms, 119 body terms)
-  - SHORT-PARA-RUN (25 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
 
-### ## Chapter 4—The Archive Exit [EXISTING]
-- **Word count:** 3999
-- **Sentence count:** 479
+### ## Chapter 4—The Archive Exit [PLACEHOLDER]
+- **Word count:** 3988
+- **Sentence count:** 478
 - **Flags:**
-  - NOT-X-BUT-Y (2 hits)
+  - NOT-X-BUT-Y (1 hits)
   - ABSTRACT-DENSE (31 abstract terms, 119 body terms)
-  - SHORT-PARA-RUN (25 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 5—The Buried Instrument [SPLIT-FROM: Ch 3]
 - **Word count:** 4650
@@ -64,14 +62,14 @@
   - NOT-X-BUT-Y (3 hits)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
 
-### ## Chapter 7—Laurel Crossing [EXISTING]
+### ## Chapter 7—Laurel Crossing [PLACEHOLDER]
 - **Word count:** 3203
 - **Sentence count:** 561
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
   - SHORT-PARA-RUN (20 run(s) of 3+ short paragraphs)
 
-### ## Chapter 8—The Healer's Clinic [EXISTING]
+### ## Chapter 8—The Healer's Clinic [PLACEHOLDER]
 - **Word count:** 3204
 - **Sentence count:** 561
 - **Flags:**
@@ -79,12 +77,11 @@
   - SHORT-PARA-RUN (20 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 9—The Holding Entry [SPLIT-FROM: Ch 5]
-- **Word count:** 4200
+- **Word count:** 4187
 - **Sentence count:** 557
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (1 hits)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 10—The Midpoint Revelation [SPLIT-FROM: Ch 5]
 - **Word count:** 4200
@@ -95,38 +92,37 @@
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 11—Ring and Romance Cost [SPLIT-FROM: Ch 5]
-- **Word count:** 3706
+- **Word count:** 3708
 - **Sentence count:** 532
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 12—The Changing Map [SPLIT-FROM: Ch 6]
-- **Word count:** 3705
+- **Word count:** 3707
 - **Sentence count:** 532
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 13—The Broken-Line Church [SPLIT-FROM: Ch 6]
-- **Word count:** 3705
+- **Word count:** 3707
 - **Sentence count:** 532
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 14—The Stray Settlement [SPLIT-FROM: Ch 6]
-- **Word count:** 4762
+- **Word count:** 4750
 - **Sentence count:** 609
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (4 hits)
   - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-DENSE (24 abstract terms, 184 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 15—The Riddling Ground [SPLIT-FROM: Ch 7]
-- **Word count:** 4762
+- **Word count:** 4764
 - **Sentence count:** 609
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
@@ -136,7 +132,7 @@
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 16—Callum Recovery and Renewal [SPLIT-FROM: Ch 7]
-- **Word count:** 4763
+- **Word count:** 4765
 - **Sentence count:** 609
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
@@ -146,15 +142,13 @@
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 17—The Transfer-Records Discovery [SPLIT-FROM: Ch 7]
-- **Word count:** 2273
-- **Sentence count:** 299
+- **Word count:** 2111
+- **Sentence count:** 292
 - **Flags:**
-  - STACKED-EM-DASHES (3 hits)
   - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
-  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (13 run(s) of 3+ short paragraphs)
 
-### ## Chapter 18—The Corridor Signal [EXISTING]
+### ## Chapter 18—The Corridor Signal [PLACEHOLDER]
 - **Word count:** 2271
 - **Sentence count:** 299
 - **Flags:**
@@ -163,7 +157,7 @@
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
-### ## Chapter 19—One-Way Contact [EXISTING]
+### ## Chapter 19—One-Way Contact [PLACEHOLDER]
 - **Word count:** 2270
 - **Sentence count:** 299
 - **Flags:**
@@ -173,10 +167,9 @@
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 20—The Transmission Station [SPLIT-FROM: Ch 9]
-- **Word count:** 3297
+- **Word count:** 3284
 - **Sentence count:** 436
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-DENSE (22 abstract terms, 117 body terms)
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
@@ -200,12 +193,12 @@
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 23—Release [SPLIT-FROM: Ch 10]
-- **Word count:** 6
+- **Word count:** 7
 - **Sentence count:** 1
 - **Flags:** none
 
 ### ## Chapter 24—The Release Choice [SPLIT-FROM: Ch 10]
-- **Word count:** 8
+- **Word count:** 9
 - **Sentence count:** 1
 - **Flags:** none
 

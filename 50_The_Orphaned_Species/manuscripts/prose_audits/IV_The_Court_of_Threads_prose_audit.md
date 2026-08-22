@@ -6,50 +6,43 @@
 
 ## Summary
 - **Chapters audited:** 25
-- **Flagged chapters:** 18
-- **Total flag instances:** 40
+- **Flagged chapters:** 17
+- **Total flag instances:** 32
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 18 |
-| STACKED-EM-DASHES | 6 |
-| ABSTRACT-DISTANCE | 4 |
-| ABSTRACT-DENSE | 2 |
-| IDENTICAL-PARA-OPENING | 2 |
+| SHORT-PARA-RUN | 17 |
+| STACKED-EM-DASHES | 5 |
 | OPEN-LIGHT-ON-BODY | 2 |
+| ABSTRACT-DISTANCE | 2 |
 | ECHO-CLOSER | 2 |
-| NOT-X-BUT-Y | 2 |
 | ABSTRACT-OVER-BODY | 2 |
+| ABSTRACT-DENSE | 1 |
+| IDENTICAL-PARA-OPENING | 1 |
 
 ## Chapter-level detail
 
-### ## Chapter 1—The Doors [EXISTING]
-- **Word count:** 7306
-- **Sentence count:** 791
+### ## Chapter 1—The Doors [PLACEHOLDER]
+- **Word count:** 7288
+- **Sentence count:** 787
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
-  - ABSTRACT-DISTANCE (2 hits)
   - ABSTRACT-DENSE (44 abstract terms, 187 body terms)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (2 run(s) of 3+ same-shape openings)
 
 ### ## Chapter 2—Present Consent [SPLIT-FROM: Ch 1]
-- **Word count:** 7308
-- **Sentence count:** 791
-- **Flags:**
-  - STACKED-EM-DASHES (2 hits)
-  - ABSTRACT-DISTANCE (2 hits)
-  - ABSTRACT-DENSE (44 abstract terms, 188 body terms)
-  - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
-  - IDENTICAL-PARA-OPENING (2 run(s) of 3+ same-shape openings)
+- **Word count:** 17
+- **Sentence count:** 1
+- **Flags:** none
 
-### ## Chapter 3—Three Rooms [EXISTING]
+### ## Chapter 3—Three Rooms [PLACEHOLDER]
 - **Word count:** 1512
 - **Sentence count:** 238
 - **Flags:**
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
-### ## Chapter 4—What We Build [EXISTING]
+### ## Chapter 4—What We Build [PLACEHOLDER]
 - **Word count:** 1513
 - **Sentence count:** 238
 - **Flags:**
@@ -71,14 +64,14 @@
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
-### ## Chapter 7—The Two Houses [EXISTING]
+### ## Chapter 7—The Two Houses [PLACEHOLDER]
 - **Word count:** 2952
 - **Sentence count:** 361
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
 
-### ## Chapter 8—The False Heir [EXISTING]
+### ## Chapter 8—The False Heir [PLACEHOLDER]
 - **Word count:** 2952
 - **Sentence count:** 361
 - **Flags:**
@@ -99,19 +92,17 @@
   - ECHO-CLOSER (1 hits)
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
-### ## Chapter 11—The Stag Teacher [EXISTING]
-- **Word count:** 2325
+### ## Chapter 11—The Stag Teacher [PLACEHOLDER]
+- **Word count:** 2312
 - **Sentence count:** 307
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
-### ## Chapter 12—The Five Forms Week [EXISTING]
-- **Word count:** 2326
+### ## Chapter 12—The Five Forms Week [PLACEHOLDER]
+- **Word count:** 2313
 - **Sentence count:** 307
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
@@ -127,14 +118,14 @@
 - **Flags:**
   - SHORT-PARA-RUN (17 run(s) of 3+ short paragraphs)
 
-### ## Chapter 15—The Recruitment Hearing [EXISTING]
+### ## Chapter 15—The Recruitment Hearing [PLACEHOLDER]
 - **Word count:** 2801
 - **Sentence count:** 336
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
-### ## Chapter 16—The Ilyara Boundary [EXISTING]
+### ## Chapter 16—The Ilyara Boundary [PLACEHOLDER]
 - **Word count:** 2801
 - **Sentence count:** 336
 - **Flags:**
@@ -153,12 +144,12 @@
 - **Flags:**
   - SHORT-PARA-RUN (6 run(s) of 3+ short paragraphs)
 
-### ## Chapter 19—The False Heir Draft [EXISTING]
+### ## Chapter 19—The False Heir Draft [PLACEHOLDER]
 - **Word count:** 7
 - **Sentence count:** 1
 - **Flags:** none
 
-### ## Chapter 20—The Hospital Conversation [EXISTING]
+### ## Chapter 20—The Hospital Conversation [PLACEHOLDER]
 - **Word count:** 6
 - **Sentence count:** 1
 - **Flags:** none

@@ -6,45 +6,36 @@
 
 ## Summary
 - **Chapters audited:** 25
-- **Flagged chapters:** 24
-- **Total flag instances:** 88
+- **Flagged chapters:** 23
+- **Total flag instances:** 78
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 24 |
-| STACKED-EM-DASHES | 22 |
-| ABSTRACT-DISTANCE | 16 |
-| NOT-X-BUT-Y | 8 |
+| SHORT-PARA-RUN | 23 |
+| STACKED-EM-DASHES | 21 |
+| ABSTRACT-DISTANCE | 14 |
+| NOT-X-BUT-Y | 6 |
 | TIDY-COMPARISON | 6 |
-| PARALLEL-ABSTRACTION | 4 |
-| CLICHED-METAPHOR | 2 |
 | IDENTICAL-PARA-OPENING | 2 |
 | ECHO-CLOSER | 2 |
 | TELL-NOT-SHOW | 2 |
+| PARALLEL-ABSTRACTION | 2 |
 
 ## Chapter-level detail
 
-### ## Chapter 1—The Hour That Belongs to No One [EXISTING]
-- **Word count:** 5538
+### ## Chapter 1—The Hour That Belongs to No One [PLACEHOLDER]
+- **Word count:** 5531
 - **Sentence count:** 513
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
-  - PARALLEL-ABSTRACTION (1 hits)
-  - CLICHED-METAPHOR (1 hits)
-  - ABSTRACT-DISTANCE (1 hits)
-  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (10 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 2—Saturday Departure [SPLIT-FROM: Ch 1]
-- **Word count:** 5535
-- **Sentence count:** 513
-- **Flags:**
-  - STACKED-EM-DASHES (1 hits)
-  - PARALLEL-ABSTRACTION (1 hits)
-  - CLICHED-METAPHOR (1 hits)
-  - ABSTRACT-DISTANCE (1 hits)
-  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
+- **Word count:** 17
+- **Sentence count:** 1
+- **Flags:** none
 
-### ## Chapter 3—His Hand / Checkpoints and the Stack [EXISTING]
+### ## Chapter 3—His Hand / Checkpoints and the Stack [PLACEHOLDER]
 - **Word count:** 9158
 - **Sentence count:** 862
 - **Flags:**
@@ -54,7 +45,7 @@
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
-### ## Chapter 4—Singapore Intake [EXISTING]
+### ## Chapter 4—Singapore Intake [PLACEHOLDER]
 - **Word count:** 9153
 - **Sentence count:** 862
 - **Flags:**
@@ -68,7 +59,6 @@
 - **Word count:** 2525
 - **Sentence count:** 223
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (6 hits)
   - ECHO-CLOSER (1 hits)
   - ABSTRACT-DISTANCE (2 hits)
@@ -78,20 +68,19 @@
 - **Word count:** 2524
 - **Sentence count:** 223
 - **Flags:**
-  - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (6 hits)
   - ECHO-CLOSER (1 hits)
   - ABSTRACT-DISTANCE (2 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### ## Chapter 7—The Passage [EXISTING]
+### ## Chapter 7—The Passage [PLACEHOLDER]
 - **Word count:** 2064
 - **Sentence count:** 179
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### ## Chapter 8—Departure and Wat [EXISTING]
+### ## Chapter 8—Departure and Wat [PLACEHOLDER]
 - **Word count:** 2065
 - **Sentence count:** 179
 - **Flags:**
@@ -99,24 +88,24 @@
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 9—The Field That Counts [SPLIT-FROM: Ch 5]
-- **Word count:** 4001
-- **Sentence count:** 343
+- **Word count:** 3961
+- **Sentence count:** 341
 - **Flags:**
-  - NOT-X-BUT-Y (4 hits)
+  - NOT-X-BUT-Y (2 hits)
   - STACKED-EM-DASHES (6 hits)
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 10—Grounding Arrival [SPLIT-FROM: Ch 5]
-- **Word count:** 3999
+- **Word count:** 3992
 - **Sentence count:** 343
 - **Flags:**
-  - NOT-X-BUT-Y (4 hits)
+  - NOT-X-BUT-Y (3 hits)
   - STACKED-EM-DASHES (6 hits)
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
-### ## Chapter 11—Midpoint: First Witness [EXISTING]
+### ## Chapter 11—Midpoint: First Witness [PLACEHOLDER]
 - **Word count:** 1301
 - **Sentence count:** 116
 - **Flags:**
@@ -124,7 +113,7 @@
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
-### ## Chapter 12—Witness Ground [EXISTING]
+### ## Chapter 12—Witness Ground [PLACEHOLDER]
 - **Word count:** 1300
 - **Sentence count:** 116
 - **Flags:**
@@ -152,14 +141,14 @@
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### ## Chapter 15—Ila's Hands [EXISTING]
+### ## Chapter 15—Ila's Hands [PLACEHOLDER]
 - **Word count:** 1563
 - **Sentence count:** 136
 - **Flags:**
   - STACKED-EM-DASHES (4 hits)
   - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
 
-### ## Chapter 16—Hands and Repair [EXISTING]
+### ## Chapter 16—Hands and Repair [PLACEHOLDER]
 - **Word count:** 1564
 - **Sentence count:** 136
 - **Flags:**
@@ -184,14 +173,14 @@
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### ## Chapter 19—People Over Evidence [EXISTING]
+### ## Chapter 19—People Over Evidence [PLACEHOLDER]
 - **Word count:** 1957
 - **Sentence count:** 188
 - **Flags:**
   - STACKED-EM-DASHES (6 hits)
   - SHORT-PARA-RUN (5 run(s) of 3+ short paragraphs)
 
-### ## Chapter 20—Evidence Burn [EXISTING]
+### ## Chapter 20—Evidence Burn [PLACEHOLDER]
 - **Word count:** 1956
 - **Sentence count:** 188
 - **Flags:**
@@ -199,8 +188,8 @@
   - SHORT-PARA-RUN (5 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 21—Human Doors [SPLIT-FROM: Ch 11]
-- **Word count:** 4329
-- **Sentence count:** 453
+- **Word count:** 4327
+- **Sentence count:** 452
 - **Flags:**
   - STACKED-EM-DASHES (5 hits)
   - TELL-NOT-SHOW (1 hits)
@@ -208,15 +197,15 @@
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 22—The Laos Border [SPLIT-FROM: Ch 11]
-- **Word count:** 4330
-- **Sentence count:** 453
+- **Word count:** 4328
+- **Sentence count:** 452
 - **Flags:**
   - STACKED-EM-DASHES (5 hits)
   - TELL-NOT-SHOW (1 hits)
   - PARALLEL-ABSTRACTION (1 hits)
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
-### ## Chapter 23—The Tree with No Top [EXISTING]
+### ## Chapter 23—The Tree with No Top [PLACEHOLDER]
 - **Word count:** 2024
 - **Sentence count:** 217
 - **Flags:**
@@ -224,7 +213,7 @@
   - STACKED-EM-DASHES (1 hits)
   - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
-### ## Chapter 24—Conservation Campus [EXISTING]
+### ## Chapter 24—Conservation Campus [PLACEHOLDER]
 - **Word count:** 2021
 - **Sentence count:** 217
 - **Flags:**
