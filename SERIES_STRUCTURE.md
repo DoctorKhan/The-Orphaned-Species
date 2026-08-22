@@ -216,6 +216,10 @@ delivery spine: `22` § *Technology teaches meaning*; orchestra/V–X: `62`.
 
 **Length target — LOCKED 2026-08-21:** each I–IV volume targets **25 chapters**. Book I is the entry volume and should land **~90k–100k**; Books II, III, and IV are the expansion core and should each land **~110k–120k**. **Average chapter length target:** **~4,000 words** at 25 chapters / 100k. Do not use uniform chapter targets; use function-based bands instead: entry/transition chapters **2.5k–3.5k**; investigation/corridor chapters **3.5k–4.5k**; discovery/healing/public-beat chapters **4k–5.5k**; court/hearing/negotiation chapters **5k–7k**; climax chapters **4k–6k**. Expansion should split oversized concept chapters into additional POV beats and add domestic/breathing-room scenes flagged in the beatsheets, not inflate every chapter uniformly.
 
+**Staged-sacrifice prose rule — LOCKED 2026-08-21:** whenever a scene stages violence, extraction, or sacrifice as voluntary, ceremonial, or necessary, write it with the Sumerian death-pit logic in mind: the staging is the weapon. The reader should feel, without being told, that the ceremony conceals coercion. This applies to the Charkha's managed claiming, Continuity apparatus, Lang's Standard, Somchai's misnaming, and the Hollow Year inquiry's convergence narrative.
+
+**Emergency-power consolidation — LOCKED 2026-08-21:** the Sumerian *Lugal* pattern is load-bearing: temporary emergency authority, granted by consent during crisis, consolidated into permanent hereditary or institutional monarchy once the threat passes. Every power-grant scene in Books I–IV must be drafted against this shape. Eli's wartime command, the Continuity succession machinery, Lang's Standard, Sol's forced-unity offer, the court's dynastic pressure, and the Hollow Year inquiry's afterward all run this arc. The narrative's test is whether the reader can see the consolidation happening in real time, not only in retrospect.
+
 ## Lifetime Orchestra (V–X) — count LOCKED +6; map LOCKED 2026-08-16
 
 **+6 append-only books** after I–IV. Total Layer 1 map when complete: **ten volumes**.
@@ -272,6 +276,24 @@ Civic pitch may stop at I–IV. Full family pitch may say **fourteen core books*
 ## Why the brief split was reversed
 
 The split tried to even volume lengths and give Thailand its own title identity. It produced a ~17k "Book I" — novella length, too short to stand as a novel — and created a false five-volume map while later reference docs still spoke in four-book terms. Book I is again one continuous volume: breach sprint through living-route investigation to Sanxingdui.
+
+## Reader realization arc — LOCKED 2026-08-21
+
+**The thematic trajectory across Layers 1–2.**
+
+| Phase | Label | Books | What the reader believes | What the reader discovers | Dramatic engine |
+|---|---|---|---|---|---|
+| 1 | **Mystery** | I–II | History is run by hidden gods / a secret architecture. | The artifacts are real, but their operators are not supernatural—they are lineage, coercion, and craft knowledge preserved across millennia. | Conspiracy decoding, chase, hidden-map thriller |
+| 2 | **Morality** | III–IV | The villains are exceptional traitors who corrupted a good system. | The “gods” were as constrained and flawed as everyone else; the real villainy is ordinary human opportunism—Charkha as apparatus, not anomaly. | Resistance, command, consent, institutional capture |
+| 3 | **Cosmology** | V–X | The world is broken and needs a better designer. | The world is training gear operating under structural constraints; broken autopilot is the sensor, not the curse. Control → creation is the curriculum. | Ontological physics, technology-teaches-meaning, lucid agency |
+
+**Reader-anchor rule:** the transition between phases must be felt in bodies first. The phase-lag in Thai rice, autonomic shock when opening a door, biological cost of coupling, labor pains, and clinic anticonvulsant delays are micro-expressions of macro design flaws. When Book V explains the imperfect design, the reader should feel a satisfying click—not a lecture—because they have watched these costs since Chapter 1.
+
+**Charkha function across phases:** in Phase 1 the Charkha appears as secret conspiracy; in Phase 2 it is revealed as a human wheel-tradition institution weaponizing ancient craft; in Phase 3 its failures are readable as expected friction in an artifice built to break.
+
+**Charkha suzerainty reveal — LOCKED 2026-08-21:** the definitive pivot occurs in Book III. The Charkha does not merely advise state programs; it is the supranational suzerain behind each government's psionic program—Union, Mandate, and Coalition alike. It uses state programs as fronts, suppliers, and deniable theaters while retaining brokerage, transfer, and leverage over all of them. The reveal strips away the last supernatural costume: the hidden hand is not a god, it is a cartel that learned to write its own warrants. Rasel's justification collapses because the Mandate program he joined was never sovereign; it was a Charkha instrument from the start. Eli's anger at his father must then pass through the horror of realizing Rasel was another manipulated asset. The thriller escalates from fugitive-chase to global war because there is no grid left to hide off of—every state program, clinic, registry, and custody chain answers to the same suzerain. Wren reads the truth through supply-chain anomalies and shared proprietary custody software across supposedly rival blocs; Rowan reads it through the unnatural flow of human capital and psionic resources toward Charkha control nodes. This reveal bridges Phase 1 conspiracy appetite to Phase 2 humanist resistance and sets up Phase 3 cosmology: Charkha's fatal flaw is attempting to force a decentralized, entangled biological network into a top-down centralized weapon, which produces the entropic blowback Book V explains as structural design limit rather than villainy.
+
+This arc is the spine of pitch, comps, and series summary. Do not frame the books as “discovering gods” or “killing villains” in public materials.
 
 ## For future sessions (human or AI)
 

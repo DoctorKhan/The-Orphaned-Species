@@ -480,7 +480,7 @@ Not human factions.
 - **Anunnaki / Anu + 26** — parent gods; Enki and Enlil both sit here. Hebrew class-word: *elohim* (`45`).
 - **Children of the gods** — Apkallu (snake) and Igigi (bird; Hebrew: Watchers; Greek: Olympians). Igigi names the bird-people as a whole. The fallen among them ran the cage. Texts say *sons of God* / *bene elohim*; the caste is a people.
 - **Jinn** — free-willed non-human species native to the Unseen.
-- **Dragons / dragon-remnant** — native Earth marine reptilian lineage.
+- **Dragons / dragon-remnant** — native Earth marine reptilian lineage. Competing cosmology: a minority reading holds they are domesticated theropods shaped by a crashed crew that stayed and hybridized with local stock; in that gloss they retain cryostasis-capable eggs, voltage/fire discharge, and telepathic/empathic projection via the anti-entropic medium.
 
 ---
 

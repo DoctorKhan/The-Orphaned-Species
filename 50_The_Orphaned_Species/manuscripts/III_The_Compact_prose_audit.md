@@ -6,160 +6,205 @@
 
 ## Summary
 - **Chapters audited:** 25
-- **Flagged chapters:** 11
-- **Total flag instances:** 18
+- **Flagged chapters:** 18
+- **Total flag instances:** 60
 
 | Flag | Chapters |
 |---|---|
-| NOT-X-BUT-Y | 8 |
-| ECHO-CLOSER | 4 |
-| ABSTRACT-DENSE | 3 |
-| STACKED-EM-DASHES | 1 |
-| TELL-NOT-SHOW | 1 |
-| ABSTRACT-OVER-BODY | 1 |
+| SHORT-PARA-RUN | 18 |
+| NOT-X-BUT-Y | 12 |
+| ABSTRACT-DENSE | 10 |
+| ECHO-CLOSER | 6 |
+| STACKED-EM-DASHES | 4 |
+| OPEN-LIGHT-ON-BODY | 4 |
+| TELL-NOT-SHOW | 2 |
+| ABSTRACT-OVER-BODY | 2 |
+| IDENTICAL-PARA-OPENING | 2 |
 
 ## Chapter-level detail
 
 ### ## Chapter 1—The Boat at Morning [PLACEHOLDER]
-- **Word count:** 3935
-- **Sentence count:** 496
-- **Flags:** none
+- **Word count:** 3499
+- **Sentence count:** 509
+- **Flags:**
+  - NOT-X-BUT-Y (3 hits)
+  - STACKED-EM-DASHES (1 hits)
+  - ABSTRACT-DENSE (22 abstract terms, 107 body terms)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 2—Harbor Wake [SPLIT-FROM: Ch 1]
-- **Word count:** 3935
-- **Sentence count:** 496
-- **Flags:** none
+- **Word count:** 3499
+- **Sentence count:** 509
+- **Flags:**
+  - NOT-X-BUT-Y (3 hits)
+  - STACKED-EM-DASHES (1 hits)
+  - ABSTRACT-DENSE (22 abstract terms, 108 body terms)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 3—The First Sponsorship [PLACEHOLDER]
-- **Word count:** 12
-- **Sentence count:** 1
-- **Flags:** none
+- **Word count:** 3939
+- **Sentence count:** 496
+- **Flags:**
+  - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 4—Terms of Welcome [PLACEHOLDER]
-- **Word count:** 12
-- **Sentence count:** 1
-- **Flags:** none
+- **Word count:** 3939
+- **Sentence count:** 496
+- **Flags:**
+  - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 5—The Artifact Delivery [SPLIT-FROM: Ch 3]
-- **Word count:** 2176
+- **Word count:** 2179
 - **Sentence count:** 281
 - **Flags:**
   - ECHO-CLOSER (1 hits)
+  - SHORT-PARA-RUN (13 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 6—The Person Freedom Failed [SPLIT-FROM: Ch 3]
-- **Word count:** 2177
+- **Word count:** 2180
 - **Sentence count:** 281
 - **Flags:**
   - ECHO-CLOSER (1 hits)
+  - SHORT-PARA-RUN (13 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 7—The Repair Dock Evening [PLACEHOLDER]
-- **Word count:** 13
-- **Sentence count:** 1
-- **Flags:** none
+- **Word count:** 4449
+- **Sentence count:** 519
+- **Flags:**
+  - NOT-X-BUT-Y (3 hits)
+  - ABSTRACT-DENSE (21 abstract terms, 95 body terms)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 8—The Kitchen Ledger [PLACEHOLDER]
-- **Word count:** 12
-- **Sentence count:** 1
-- **Flags:** none
+- **Word count:** 4448
+- **Sentence count:** 519
+- **Flags:**
+  - NOT-X-BUT-Y (3 hits)
+  - ABSTRACT-DENSE (21 abstract terms, 95 body terms)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 9—The Sideways Record [SPLIT-FROM: Ch 5]
-- **Word count:** 1786
-- **Sentence count:** 206
-- **Flags:**
-  - NOT-X-BUT-Y (2 hits)
-
-### ## Chapter 10—The Standard [SPLIT-FROM: Ch 5]
-- **Word count:** 1785
-- **Sentence count:** 206
-- **Flags:**
-  - NOT-X-BUT-Y (2 hits)
-
-### ## Chapter 11—The Ambassador Dinner [PLACEHOLDER]
-- **Word count:** 12
-- **Sentence count:** 1
-- **Flags:** none
-
-### ## Chapter 12—The Names They Carry [SPLIT-FROM: Ch 7]
-- **Word count:** 2669
-- **Sentence count:** 313
-- **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-
-### ## Chapter 13—Qiao's Testimony and the Survivor [SPLIT-FROM: Ch 7]
-- **Word count:** 2670
-- **Sentence count:** 313
-- **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-
-### ## Chapter 14—The Compact [PLACEHOLDER]
-- **Word count:** 11
-- **Sentence count:** 1
-- **Flags:** none
-
-### ## Chapter 15—The Signing and the Shed Fire [PLACEHOLDER]
-- **Word count:** 15
-- **Sentence count:** 1
-- **Flags:** none
-
-### ## Chapter 16—The Voyage and the Warning [SPLIT-FROM: Ch 9]
-- **Word count:** 3797
+- **Word count:** 3802
 - **Sentence count:** 458
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (5 hits)
   - ECHO-CLOSER (1 hits)
   - ABSTRACT-DENSE (26 abstract terms, 85 body terms)
+  - OPEN-LIGHT-ON-BODY
+  - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
 
-### ## Chapter 17—A Crown With an End [PLACEHOLDER]
-- **Word count:** 14
-- **Sentence count:** 1
-- **Flags:** none
+### ## Chapter 10—The Standard [SPLIT-FROM: Ch 5]
+- **Word count:** 3801
+- **Sentence count:** 458
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (5 hits)
+  - ECHO-CLOSER (1 hits)
+  - ABSTRACT-DENSE (26 abstract terms, 85 body terms)
+  - OPEN-LIGHT-ON-BODY
+  - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
 
-### ## Chapter 18—Arrival and the First Water Decision [SPLIT-FROM: Ch 11]
-- **Word count:** 3780
+### ## Chapter 11—The Ambassador Dinner [PLACEHOLDER]
+- **Word count:** 3781
 - **Sentence count:** 449
 - **Flags:**
   - NOT-X-BUT-Y (2 hits)
   - TELL-NOT-SHOW (1 hits)
-  - ABSTRACT-DENSE (31 abstract terms, 71 body terms)
+  - ABSTRACT-DENSE (31 abstract terms, 69 body terms)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
-### ## Chapter 19—Gutter Clearing and the Work Song [PLACEHOLDER]
-- **Word count:** 15
-- **Sentence count:** 1
-- **Flags:** none
+### ## Chapter 12—The Names They Carry [SPLIT-FROM: Ch 7]
+- **Word count:** 3784
+- **Sentence count:** 449
+- **Flags:**
+  - NOT-X-BUT-Y (2 hits)
+  - TELL-NOT-SHOW (1 hits)
+  - ABSTRACT-DENSE (31 abstract terms, 70 body terms)
+  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
-### ## Chapter 20—The Corridor Order [SPLIT-FROM: Ch 13]
-- **Word count:** 2940
+### ## Chapter 13—Qiao's Testimony and the Survivor [SPLIT-FROM: Ch 7]
+- **Word count:** 2949
 - **Sentence count:** 353
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - ECHO-CLOSER (1 hits)
+  - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
+  - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
+
+### ## Chapter 14—The Compact [PLACEHOLDER]
+- **Word count:** 2944
+- **Sentence count:** 353
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - ECHO-CLOSER (1 hits)
+  - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
+  - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
+
+### ## Chapter 15—The Signing and the Shed Fire [PLACEHOLDER]
+- **Word count:** 3829
+- **Sentence count:** 496
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - OPEN-LIGHT-ON-BODY
+  - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
+
+### ## Chapter 16—The Voyage and the Warning [SPLIT-FROM: Ch 9]
+- **Word count:** 3830
+- **Sentence count:** 496
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - OPEN-LIGHT-ON-BODY
+  - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
+
+### ## Chapter 17—A Crown With an End [PLACEHOLDER]
+- **Word count:** 3504
+- **Sentence count:** 456
+- **Flags:**
+  - ABSTRACT-DENSE (22 abstract terms, 86 body terms)
+  - SHORT-PARA-RUN (17 run(s) of 3+ short paragraphs)
+
+### ## Chapter 18—Arrival and the First Water Decision [SPLIT-FROM: Ch 11]
+- **Word count:** 3507
+- **Sentence count:** 456
+- **Flags:**
+  - ABSTRACT-DENSE (22 abstract terms, 88 body terms)
+  - SHORT-PARA-RUN (17 run(s) of 3+ short paragraphs)
+
+### ## Chapter 19—Gutter Clearing and the Work Song [PLACEHOLDER]
+- **Word count:** 9
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 20—The Corridor Order [SPLIT-FROM: Ch 13]
+- **Word count:** 23
+- **Sentence count:** 1
+- **Flags:** none
 
 ### ## Chapter 21—The Cost of Consent [PLACEHOLDER]
-- **Word count:** 13
+- **Word count:** 22
 - **Sentence count:** 1
 - **Flags:** none
 
 ### ## Chapter 22—The Drone-Strike Cost [SPLIT-FROM: Ch 15]
-- **Word count:** 3823
-- **Sentence count:** 496
-- **Flags:**
-  - NOT-X-BUT-Y (1 hits)
+- **Word count:** 23
+- **Sentence count:** 1
+- **Flags:** none
 
 ### ## Chapter 23—The Hearing Room and the Side Room [PLACEHOLDER]
-- **Word count:** 16
+- **Word count:** 25
 - **Sentence count:** 1
 - **Flags:** none
 
 ### ## Chapter 24—The Hearing Begins [SPLIT-FROM: Ch 17]
-- **Word count:** 3494
-- **Sentence count:** 456
-- **Flags:**
-  - ABSTRACT-DENSE (22 abstract terms, 87 body terms)
+- **Word count:** 23
+- **Sentence count:** 1
+- **Flags:** none
 
 ### ## Chapter 25—The Handover [SPLIT-FROM: Ch 18]
-- **Word count:** 12
+- **Word count:** 22
 - **Sentence count:** 1
 - **Flags:** none
 

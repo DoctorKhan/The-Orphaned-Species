@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Clean aligned manuscript chapter headings to remove stale 'Distributed'/'TBD' labels."""
+"""Clean aligned manuscript chapter headings and fix status tags."""
 
 import re
 from pathlib import Path
@@ -122,6 +122,7 @@ TITLES = {
     },
 }
 
+# Chapters that are split from a previous chapter
 SPLIT_SOURCES = {
     'I': {2:1, 5:3, 6:3, 9:5, 10:5, 13:7, 14:7, 17:9, 18:9, 21:11, 22:11, 25:13},
     'II': {2:1, 5:3, 6:3, 9:5, 10:5, 11:5, 12:6, 13:6, 14:6, 15:7, 16:7, 17:7, 20:9, 21:9, 22:9, 23:10, 24:10, 25:10},
@@ -133,17 +134,22 @@ for book, path in MANUSCRIPTS.items():
     text = path.read_text()
 
     def replace_heading(m):
-        num = m.group(1)
-        old_status = m.group(2).strip()
-        title = TITLES[book].get(int(num), m.group(3).strip())
-        if num == '1' and old_status == 'EXISTING':
+        num = int(m.group(1))
+        title = m.group(2).strip()
+        old_status = m.group(3).strip()
+        
+        # Determine correct status
+        if num == 1:
             status = 'EXISTING'
-        elif int(num) in SPLIT_SOURCES[book]:
-            status = f"SPLIT-FROM: Ch {SPLIT_SOURCES[book][int(num)]}"
+        elif num in SPLIT_SOURCES[book]:
+            status = f"SPLIT-FROM: Ch {SPLIT_SOURCES[book][num]}"
         else:
             status = 'PLACEHOLDER'
-        return f'## Chapter {num}—{title} [{status}]'
+        
+        # Use canonical title from mapping
+        canonical = TITLES[book].get(num, title)
+        return f'## Chapter {num}—{canonical} [{status}]'
 
     text = re.sub(r'^## Chapter (\d+[a-z]?)—([^\[]+)\[([^\]]+)\]', replace_heading, text, flags=re.MULTILINE)
     path.write_text(text)
-    print(f"{path}: headings cleaned")
+    print(f"{path}: headings fixed")
