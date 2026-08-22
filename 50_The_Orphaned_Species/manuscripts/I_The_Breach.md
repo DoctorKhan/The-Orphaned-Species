@@ -342,6 +342,8 @@ He looks back once. The shore is already thinner than he expected.
 Then the wind shifts, the sail fills, and there is nothing behind him but water.
 
 ## Chapter 3—His Hand / Checkpoints and the Stack [PLACEHOLDER]
+
+[SPLIT-FROM: Ch 2 — pier through document-lane goodbye]
 The hull kisses the screening pier too hard. Eli's knees take it. Wet stone under the first step. Diesel in the back of his throat. A grey cutter sits off the channel with its number painted out.
 
 Floats string the shallows behind them. A processing tender works the boat ahead. Passengers file one by one through an arch, each made to pause on a painted mark. Suresh cuts the throttle. Wren's jaw stays level.

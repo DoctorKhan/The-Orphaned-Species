@@ -37,6 +37,20 @@
 | 9 | **Anika** (array/lock) | One more interval from the station before release |
 | 10 | **Anika** and/or **Sol** | Keep-her / use-her-signal before she walks out |
 
+> **Opening-image lock — LOCKED 2026-08-21:** Chapter 1 opens with a
+> hyper-specific physical problem tied to the volume's macro-theme. No political
+> info-dump. No philosophical monologue. The reader must enter the world through
+> body, sensation, and immediate cost.
+>
+> **Book II anchor — provisional:** current draft opens on Eli with Maren's
+> field equation in the condemned greenhouse; the locked series direction
+> proposes a Mandate transit-doc/surveillance terror image for Book II. Keep
+> the current Ch1 until a concrete replacement is drafted.
+>
+> **Books V–X provisional hooks — NOT LOCKED:** see series direction doc for
+> proposed opening images; do not treat as locked plot until those volumes are
+> drafted.
+
 > **Character voice — LOCKED 2026-08-16:** No character sounds as though they have read the project bible. Eli misreads Rowan: when she says a completed route is not a returned person, he hears logistics; she means a person is not cargo with a tracking number. Wren enforces a specific intake rule partly because she remembers being the one left off a manifest and wants Eli to see her keep it—partly selfish, partly right. Somchai has no registry or politics vocabulary; he describes what he understands through bodies—weight, heat, breath, scar, pulse—until Eli supplies the terms.
 
 > **RELATIONSHIP / FAMILY / CAREER / IDENTITY — LOCKED 2026-08-17:** These
@@ -66,6 +80,22 @@
 > 7. **POV lock: Eli trunk; Wren/Somchai away scenes pass the switch test.** A
 >    Wren or Somchai scene must change what Eli can do next; if removing it
 >    only removes texture, cut.
+>
+> 8. **Mourn the mundane anchor before the abstraction.** In every
+>    death/disaster scene, at least one beat must show a survivor attending
+>    to the anchor object or habit before any monologue about loss.
+> 9. **Competence-as-violation beat per volume.** Each volume needs one scene
+>    where the protagonist's defining strength wounds someone they love. The
+>    violator must realize too late or choose not to undo the harm.
+> 10. **Asymmetrical scars accumulate visibly.** Once a scar is named, it must
+>     alter a concrete physical action in every subsequent volume where it
+>     appears.
+> 11. **Outside-in POV once per volume.** One scene per volume must be framed
+>     heavily through the eyes of a low-level worker, grunt, refugee, or
+>     stranger interacting with the trio.
+> 12. **Shifting V dynamic.** In every book a different pairing aligns while
+>     a third is left out for operational reasons. The isolated character must
+>     have a visible, mundane cost—not just pouting.
 >
 > Full argument and prose tests: `35_relationship_family_career_addendum.md`.
 

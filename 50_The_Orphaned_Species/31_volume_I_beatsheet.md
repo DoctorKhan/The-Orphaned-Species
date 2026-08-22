@@ -37,6 +37,18 @@
 >
 > **DREAM REVIEW PRACTICE — ADDED 2026-08-09:** Eli develops this himself, out of necessity — not a gift from Wren, not inherited from Maren's notes. He notices that dreams worsen when he hasn't been paying attention to the web, and that he wakes with a knot in his stomach and no explanation. He begins writing dates and fragments only — a calibration log, not a diary. The practice lets him distinguish trajectory signal from used-up life energy discharged through sleep. It is minimal and utilitarian; no one else teaches him.
 
+> **Opening-image lock — LOCKED 2026-08-21:** Chapter 1 opens with a
+> hyper-specific physical problem tied to the volume's macro-theme. No political
+> info-dump. No philosophical monologue. The reader must enter the world through
+> body, sensation, and immediate cost.
+>
+> **Book I anchor — provisional:** frayed rope / sail margin / harbor survival
+> stakes; vulnerability and the illusion of safety.
+>
+> **Books V–X provisional hooks — NOT LOCKED:** see series direction doc for
+> proposed opening images; do not treat as locked plot until those volumes are
+> drafted.
+
 > **Pelangi pressure — LOCKED 2026-07-16:** Pelangi Reach is a compromised royal tech-hub project under climate stress, not a preserved island utopia. The king's desalination, AI, flood, cooling, biotech, and **aspirational** robotics (mostly undelivered — `23` § *Robotics lock*) compete with Singapore while older water, farming, temple, kinship, and craft institutions keep the island relational. Those institutions are changing, losing land, and being packaged for development; the island is less what it was, but not simply worse.
 
 > **BOOK I CLIMAX — REVISED AND LOCKED 2026-07-27:** Sanxingdui is one
@@ -196,6 +208,22 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 > 7. **POV lock: Eli trunk; Wren/Somchai away scenes pass the switch test.** A
 >    Wren or Somchai scene must change what Eli can do next; if removing it
 >    only removes texture, cut.
+>
+> 8. **Mourn the mundane anchor before the abstraction.** In every
+>    death/disaster scene, at least one beat must show a survivor attending
+>    to the anchor object or habit before any monologue about loss.
+> 9. **Competence-as-violation beat per volume.** Each volume needs one scene
+>    where the protagonist's defining strength wounds someone they love. The
+>    violator must realize too late or choose not to undo the harm.
+> 10. **Asymmetrical scars accumulate visibly.** Once a scar is named, it must
+>     alter a concrete physical action in every subsequent volume where it
+>     appears.
+> 11. **Outside-in POV once per volume.** One scene per volume must be framed
+>     heavily through the eyes of a low-level worker, grunt, refugee, or
+>     stranger interacting with the trio.
+> 12. **Shifting V dynamic.** In every book a different pairing aligns while
+>     a third is left out for operational reasons. The isolated character must
+>     have a visible, mundane cost—not just pouting.
 >
 > Full argument and prose tests: `35_relationship_family_career_addendum.md`.
 

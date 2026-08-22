@@ -829,7 +829,25 @@ members of the council. Nobody calls for them.
 
 Tomas exhales as if Eli promised more.
 
-## Chapter 2—[PLACEHOLDER]
+
+## Chapter 2—First Sponsorship
+
+Bima Prasetyo's sponsorship paperwork sits on the harbor master's desk between a tide chart and a notice about fuel rationing. The form asks for guarantor, route intent, and cargo declaration. Eli reads it twice. Bima watches him read it.
+
+"You don't have to sign," Bima says.
+
+"I know."
+
+Eli signs. The pencil breaks halfway down the liability page. Bima produces a piece of twine from his pocket, ties it around the pencil shaft, and hands it back. The harbor master stamps the form before Eli understands that signing makes him legally responsible for every decision Bima makes while in transit.
+
+Outside, the blue workboat sits at the maintenance pier with its engine off. Bima's crew of three are on deck, tightening a line that does not need tightening. Bima watches them through the window.
+
+"They're good," he says. "They just need someone to sign for them."
+
+Eli folds the stamped form and puts it in his pocket. The twine around the pencil scratches against the paper.
+
+---
+
 
 ## Chapter 3—The First Sponsorship [PLACEHOLDER]
 The first argument is about a curtain.
@@ -1655,7 +1673,23 @@ The redistribution moves a fevered woman off the floor and into a cot before a c
 He does not record it as a management lesson. He lets it stand as a fact the
 harbor already knew and he is only now learning to read.
 
-## Chapter 4—[PLACEHOLDER]
+
+## Chapter 4—Living-Room Debate
+
+The boat's saloon holds six people when everyone leans forward. Mei has pulled the table out from the wall and arranged four chairs around it. The fifth chair is for Eli, who arrives last and sits closest to the door.
+
+The Union liaison's name is Hsu. He wears a badge that says "Intake Review" and has the habit of writing notes on his forearm with a ballpoint pen. He argues that the clinic network should operate under Compact authority because independent clinics cannot share records, coordinate supply, or appeal decisions.
+
+"The people who walk farthest to reach a clinic," Mei says, "are the people who have the least reason to trust a record that follows them."
+
+Hsu writes on his forearm. "That's a jurisdictional argument, not a clinical one."
+
+"It's both."
+
+Eli sides with Mei. He says it quietly, without looking at Hsu. The decision costs him Hsu's cooperation for the next intake cycle. After Hsu leaves, Mei washes the glasses and puts them away without drying them. Eli dries them and puts them back in the cabinet.
+
+---
+
 
 ## Chapter 5—The Artifact Delivery [SPLIT-FROM: Ch 3]
 The next morning brings clean weather.
@@ -2148,7 +2182,21 @@ yet agreed may enter their ecology.
 He presses the wet soil back into the hole although there is nothing left to
 hold.
 
-## Chapter 6—[PLACEHOLDER]
+
+## Chapter 6—Repair Dock Morning
+
+The dock warehouse has six grounded sleeping rooms and twelve people who now require repair work. Nia stands at the far end of the main bay with three apprentices who have never held an awl before. She hands each of them a piece of scrap hull and a tool. She does not explain the technique.
+
+"Watch my hands," she says.
+
+The first apprentice cuts his thumb on the awl tip. Nia wraps it with a strip of linen from her apron pocket and tells him to keep working. The cut bleeds through the linen halfway through the morning. He does not mention it again.
+
+By noon, all three have patched their first seam. Nia inspects each one. The middle one is sloppy. She scrapes it off with the awl handle and says, "Again."
+
+The sun moves across the warehouse roof. The apprentices' shadows stretch and contract. Nia's own thumb has a scar from an awl slip three years ago. She shows it to them between stitches.
+
+---
+
 
 ## Chapter 7—The Repair Dock Evening [PLACEHOLDER]
 The Standard arrives through rain that arrives on schedule.
@@ -3025,7 +3073,19 @@ speaking.
 By midnight, nobody remembers that his harbor authority ended when the last
 body reached the pier.
 
-## Chapter 8—[PLACEHOLDER]
+
+## Chapter 8—Aftermath of Broken Transfer
+
+The broken transfer leaves three people at the wrong dock and one boat with a damaged propeller. Eli goes to retrieve them personally. The people at the wrong dock have made themselves at home: they have started a fire in a metal drum, shared food with local fishermen, and decided they will not return until someone explains why they were sent there.
+
+Eli listens instead of ordering. The fisherman who hosted them is named Costa. He has a scar across his left eyebrow and a boat that leaks at the stern. He says, "They told me they were sent here by mistake. I told them mistakes happen."
+
+The return takes two days longer than planned. The damaged propeller forces them to drift with the current for twelve hours before a repair crew meets them at a river junction. Eli sits on the deck with the three mistaken people and listens to them describe Costa's boat, his fire, his daughter who is twelve and wants to be a mechanic.
+
+The propeller is fixed by sunset. They leave before dawn. Eli writes the delay in the logbook. He does not apologize for it.
+
+---
+
 
 ## Chapter 9—The Sideways Record [SPLIT-FROM: Ch 5]
 Wren knows Eli is becoming a ruler when strangers begin apologizing for waking
@@ -3765,7 +3825,11 @@ Eli looks at the dark where the relay stood. He feels the specific weight of a
 boundary that did not protect the woman who believed in it. The boundary made
 her death legible. It did not make her alive.
 
-He goes back inside without touching her shoulder.
+He goes back inside without touching her shoulder. He reads the heat in her
+forearms before she closes the door. The contact is brief, accidental, the kind
+of read he could pass off as weather. Instead he lets it land. She is not angry.
+She is already past anger, in the colder place where decisions are made without
+asking him.
 
 ---
 
@@ -3793,7 +3857,9 @@ Wren learns afterward because Rowan tells her.
 
 Wren believes her and knows the question was not neutral.
 
-Rowan hears that too.
+Rowan hears that too. She waits for the jealousy to pass and says what she actually wanted from the call.
+
+"I needed to hear your voice before I asked him for something he would not give me."
 
 "Would it be a problem if I had?"
 
@@ -3805,9 +3871,10 @@ something she cannot manage.
 
 "Good answer."
 
+"Good answer."
 "Unhelpful."
-
 "Also true."
+"I don't want you to be helpful," Rowan says. "I want you to be the person I call when the route fails."
 
 They remain on the call.
 
@@ -4752,11 +4819,43 @@ It lives in the habit of returning to the table before anybody is forced.
 Ahead, Hawaiʻi waits with beds, water limits, damaged roofs, and the authority
 to send them away.
 
-## Chapter 12—[PLACEHOLDER]
 
-## Chapter 11—[PLACEHOLDER]
+## Chapter 10—Expended Ledger
 
-## Chapter 10—[PLACEHOLDER]
+Wren audits the Sideways ledger after the artifact delivery. The numbers do not match: one entry is missing, one is duplicated, and one refers to a clinic that no longer exists. She traces the discrepancy to a Continuity officer named Park who died three weeks earlier. The ledger was never balanced after his death.
+
+Wren sits with the unbalanced book for an hour. The light moves across the table. She turns the pages without writing anything. The missing entry is for a shipment of medical supplies that went to a clinic in the southern corridor. The duplicated entry is for a fuel cache that was counted twice during the last convoy. The clinic that no longer exists burned down in a drone strike two days after Park's last entry.
+
+She closes the ledger. She does not report the error. Instead, she adds a new column titled "unaccounted" and writes the three discrepancies in it. The column stays empty for three pages. She closes the book and puts it on the shelf.
+
+---
+
+
+## Chapter 11—Ambassador Dinner
+
+The Compact hosts a dinner for four ambassadors who have not yet decided whether to recognize its authority. The meal is fish, rice, and a sauce made from peppers grown in the harbor garden. Rowan sits beside the Costa Rican ambassador and talks about nursery capacity rather than politics.
+
+The ambassador's name is Vega. She has a scar on her right wrist from a fall during the evacuation and a daughter who is studying agriculture in the capital. Rowan asks about the daughter's program. Vega answers for twenty minutes without mentioning the Compact once.
+
+The next morning, Vega signs the recognition paper. She cites the garden tour rather than the negotiation. Her aide tells Rowan that Vega has been waiting for someone to ask about her daughter instead of asking for her signature.
+
+Rowan says, "I didn't know."
+
+The aide says, "That's why it worked."
+
+---
+
+
+## Chapter 12—Polyphonic Hearing
+
+The hearing room holds twelve people who want to speak and one stenographer who cannot keep up. Qiao is present but does not testify. She sits in the back and watches the witnesses: a farmer who lost his field to a drone strike, a nurse who lost her clinic to a registry order, a driver who lost his license to a security check.
+
+Each testimony is five minutes. The farmer describes the strike in terms of soil temperature. The nurse describes the registry order in terms of patient names she can no longer access. The driver describes the security check in terms of a road he can no longer drive.
+
+The hearing lasts six hours. Qiao leaves before the stenographer finishes. She stands in the corridor and smokes a cigarette she does not usually smoke. The smoke makes her eyes water. She does not wipe them.
+
+---
+
 
 ## Chapter 13—Qiao's Testimony and the Survivor [SPLIT-FROM: Ch 7]
 Eli dreams of red earth before he sees the island.
@@ -5401,7 +5500,23 @@ Not honor.
 
 Equipment and the bill for using it.
 
-## Chapter 14—[PLACEHOLDER]
+
+## Chapter 14—Compact Drafting
+
+Sol and Eli draft the Compact text in a room with no windows and a table that is too long. Sol wants mandatory synchronization clauses; Eli wants consent-bound coordination. The argument is technical but personal: Sol lost people to a psionic field that did not hold; Eli lost people to a registry that did.
+
+They draft three versions. The first gives the Compact authority to mandate synchronization during emergencies. The second allows synchronization only with judicial oversight. The third allows synchronization only with ongoing, revocable consent from every participant.
+
+Sol reads the third version twice. She says, "This handcuffs us."
+
+Eli says, "It handcuffs the Compact, not the people."
+
+Sol signs it without reading the consent clause. She says later, when they are alone, "I signed it because I trust you. That's not how this is supposed to work."
+
+Eli says, "I know."
+
+---
+
 
 ## Chapter 15—The Signing and the Shed Fire [PLACEHOLDER]
 The distant Pacific corridor begins failing on the fourteenth day.
@@ -6277,7 +6392,17 @@ Arman has sent the drone footage.
 
 Leilani has sent no statement at all.
 
-## Chapter 16—[PLACEHOLDER]
+
+## Chapter 16—Voyage Warning
+
+The Compact signing ceremony is interrupted by a warning: the Mandate fleet has been spotted moving south along the coast. Sol reads the report and does not panic. She tells Eli that the fleet is not an attack; it is a show of force meant to make the Compact sign before the war begins.
+
+Eli asks how she knows. She says she has been watching their logistics patterns for two months. The fleet's supply ships are moving at convoy speed, not attack speed. The escort vessels are configured for deterrence, not engagement. The missile batteries are covered, not deployed.
+
+The warning is accurate. Sol's intelligence is correct. The fleet turns back three days later without firing. The Compact signs the document the same day. Sol reads the consent clause aloud before signing. She stops at the third paragraph and says, "This is the part that matters."
+
+---
+
 
 ## Chapter 17—A Crown With an End [PLACEHOLDER]
 Eli walks past the ceremony platform and enters the civic room through the side
@@ -7093,9 +7218,22 @@ The work is designed to proceed without Eli.
 
 He goes to sleep before it finishes.
 
-## Chapter 18—[PLACEHOLDER]
+
+## Chapter 18—Basalt and the Forks
+
+The basalt alignment at the Forks has hummed since Malia's first night check. Now it is silent. She sits beside it for an hour, listening to the water move through the channel where the hum used to be. The silence is not empty; it is full of the sound she has stopped hearing.
+
+Wren finds her there. They do not speak about the silence. They walk back to the camp in the dark, and Malia says, "It stopped the night the convoy passed." Wren says, "I know."
+
+The hum does not return. Malia records the silence in her logbook. She writes the date, the time, the water level, and the weather. She does not write what it means. The logbook is for data, not interpretation.
+
+That night, Malia dreams about the hum. She wakes before the dream ends and lies in the dark listening to the water. The silence is still there. She closes her eyes and listens to it.
+
+---
+
 
 ## Chapter 19—Gutter Clearing and the Work Song [PLACEHOLDER]
+
 
 
 ## Chapter 20—The Corridor Order [SPLIT-FROM: Ch 13]
@@ -7121,10 +7259,12 @@ Maren nods. She finishes the rice. She wipes her mouth with the back of her hand
 
 She does not walk to the door. She walks to the shelf where the keys hang and takes the one that opens the back way out, not the front, not the route, not the order.
 
+
 ## Chapter 21—The Cost of Consent [PLACEHOLDER]
 [PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
 
 ---
+
 
 ## Chapter 22—The Drone-Strike Cost [SPLIT-FROM: Ch 15]
 The drone strike is not a strike. It is a single pass, low and loud, that drops nothing heavier than a message canister and a frequency jammer. The canister lands in the gutter outside the clinic. The jammer kills the network for eighteen minutes.
@@ -7141,10 +7281,12 @@ When the network comes back, the house's ledger shows an entry that no one autho
 
 She reads the entry. She does not dispute it. She stands from the kitchen table, walks to the sink, and washes the bowl she was eating from. The water is cold. The bowl is ceramic. The network hums behind the wall.
 
+
 ## Chapter 23—The Hearing Room and the Side Room [PLACEHOLDER]
 [PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
 
 ---
+
 
 ## Chapter 24—The Hearing Begins [SPLIT-FROM: Ch 17]
 The hearing begins in a room with a table that is too long and chairs that are too far apart. The recorder is a woman with a pen and a posture that suggests she has heard worse stories before breakfast.
@@ -7162,6 +7304,7 @@ The recorder writes. The pen scratches. The clock ticks five minutes ahead of th
 Eli does not ask the witness questions. He does not need to. The house representative will ask the questions that make the witness look unreliable, and Eli will sit quietly while the story rearranges itself into something the committee can file.
 
 The hearing ends in forty-three minutes. The decision is reserved. The clock is reset.
+
 
 ## Chapter 25—The Handover [SPLIT-FROM: Ch 18]
 The handover happens at the door. It is not a ceremony. It is a transfer of keys, a signature on a form, a bag packed the night before and left on the step.

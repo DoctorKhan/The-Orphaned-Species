@@ -76,6 +76,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 | `28_present_day_tetralogy_craft_index.md` | OPEN | Index for present-day craft docs `21`–`27`. |
 | `29_tetralogy_plot_and_development.md` | STAGED | Plot reference with stale V–X framing. Legacy filename. |
 | `55_series_pitch_and_comps.md` | LOCKED | Shelf/comps/pitch gate; chapter audits. |
+| `65_series_direction_V_to_X.md` | OPEN | Provisional V–X opening hooks and macro-theme direction. |
 | `61_site_activation_map.md` | STAGED | Bible-to-discovery map; contains stale later-volume allocations. |
 | `63_adjacent_books_and_author_brands.md` | OPEN | Adjacent books / market. |
 | `62_lifetime_orchestra.md` | LOCKED | Books V–X governing map. Notebook only until I–IV pass complete-meal. |

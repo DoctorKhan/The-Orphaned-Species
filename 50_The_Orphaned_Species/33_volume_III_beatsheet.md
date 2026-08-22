@@ -39,6 +39,18 @@
 | 9 | Henley's continuity officer on the extension brief | File the emergency extension as irreversible before anyone can read it |
 | 10 | Commissioner Ma's ceasefire emissary | Get Eli to sign authority back under the appearance of partnership |
 
+> **Opening-image lock — LOCKED 2026-08-21:** Chapter 1 opens with a
+> hyper-specific physical problem tied to the volume's macro-theme. No political
+> info-dump. No philosophical monologue. The reader must enter the world through
+> body, sensation, and immediate cost.
+>
+> **Book III anchor — provisional:** unlit boat drifting into Belém harbor /
+> intake triage; the burden of welcoming the unknown.
+>
+> **Books V–X provisional hooks — NOT LOCKED:** see series direction doc for
+> proposed opening images; do not treat as locked plot until those volumes are
+> drafted.
+
 > **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Book III's monolithic venue name is **Living Root**: the organic, spreading Brazilian river-port network and federated teahouse ecology — unsealed, branching, the anti-Cube. It is the infrastructure that grows while the Cube stands.
 
 > **CHAPTER TARGET — LOCKED 2026-08-21:** Book III runs **25 chapters**,
@@ -554,6 +566,22 @@
 >    is being arranged. If you can describe the volume’s politics without a
 >    specific body, revise.
 >
+> 8. **Mourn the mundane anchor before the abstraction.** In every
+>    death/disaster scene, at least one beat must show a survivor attending
+>    to the anchor object or habit before any monologue about loss.
+> 9. **Competence-as-violation beat per volume.** Each volume needs one scene
+>    where the protagonist's defining strength wounds someone they love. The
+>    violator must realize too late or choose not to undo the harm.
+> 10. **Asymmetrical scars accumulate visibly.** Once a scar is named, it must
+>     alter a concrete physical action in every subsequent volume where it
+>     appears.
+> 11. **Outside-in POV once per volume.** One scene per volume must be framed
+>     heavily through the eyes of a low-level worker, grunt, refugee, or
+>     stranger interacting with the trio.
+> 12. **Shifting V dynamic.** In every book a different pairing aligns while
+>     a third is left out for operational reasons. The isolated character must
+>     have a visible, mundane cost—not just pouting.
+>
 > Full argument and prose tests: `35_relationship_family_career_addendum.md`.
 
 *Chapter-by-chapter spine for Volume III (Choice). Companion to `05_story_architecture.md` § *Classic spine*, `27_character_development_arcs.md`, `41_climax_the_awakening.md` (Book II), `43_audience_and_character_recommendations.md`, and `44_cultural_moment_and_mass_appeal.md`.*
@@ -663,22 +691,22 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Pitch gate — end hook:** Authority worked — and begins to stick; Tomas asks not to be surrendered to a state program.
 ### Ch 2 — Harbor Wake *(Eli · Brazilian lower-river receiving harbor)*
 
-- **PLACEHOLDER — SPLIT FROM Ch 1:** Eli organizes morning intake triage as the boat's passengers are processed; Tomas's status begins to stick in public record before classification catches him.
-- **Want:** move the newly arrived passengers through intake without turning the harbor into a registry checkpoint.
-- **Obstacle:** port authority, clinic crews, and threshold workers disagree on classification pace; a local kitchen feeds people before paperwork.
-- **Choice → Cost:** Eli delegates triage shifts and lets the crowd redistribute itself; authority sticks but paperwork trails behind.
-- **Pitch gate — end hook:** Tomas is admitted on trial; the intake practice holds but no permanent category is created.
+|- **DRAFTED 2026-08-21:** The dock warehouse has six grounded sleeping rooms and twelve people who now require repair work. Nia stands at the far end of the main bay with three apprentices who have never held an awl before. She hands each of them a piece of scrap hull and a tool. She does not explain the technique. She says, "Watch my hands." The first apprentice cuts his thumb on the awl tip. Nia wraps it with a strip of linen from her apron pocket and tells him to keep working. The cut bleeds through the linen halfway through the morning. He does not mention it again. By noon, all three have patched their first seam. Nia inspects each one. The middle one is sloppy. She scrapes it off with the awl handle and says, "Again." The sun moves across the warehouse roof. Nia's own thumb has a scar from an awl slip three years ago. She shows it to them between stitches.
+|- **Want:** move the newly arrived passengers through intake without turning the harbor into a registry checkpoint.
+|- **Obstacle:** port authority, clinic crews, and threshold workers disagree on classification pace; a local kitchen feeds people before paperwork.
+|- **Choice → Cost:** Eli delegates triage shifts and lets the crowd redistribute itself; authority sticks but paperwork trails behind.
+|- **Pitch gate — end hook:** Tomas is admitted on trial; the intake practice holds but no permanent category is created.
 ### Ch 3 — The First Sponsorship *(Eli · Brazilian river-port network)*
 
-- **PLACEHOLDER — SPLIT FROM Ch 1:** Eli personally sponsors Tomas under the voluntary plan; Mei and Wren test the terms against kitchen and threshold realities.
+|- **DRAFTED 2026-08-21:** Eli personally sponsors Bima under a voluntary plan; Bima fills out the paperwork while the harbor master watches. Eli signs as guarantor without reading the liability clause. Bima's pencil breaks halfway through; he uses a piece of twine to mark his place. The sponsorship is approved before Eli understands that signing makes him responsible for every decision Bima makes while in transit. Outside, Bima's crew tightens a line that does not need tightening. Bima says, "They just need someone to sign for them." Eli folds the stamped form and puts it in his pocket. The twine scratches against the paper.
 - **Want:** secure Tomas's place in the network without promising safety or utility.
 - **Obstacle:** residents fear uncontrolled capacity; Wren demands abort contacts and review dates; Mei's kitchen remains open despite supplier risk.
 - **Choice → Cost:** Eli stakes his standing as sponsor; the vote passes as a thirty-day trial with Tomas's admission tied.
 - **Pitch gate — end hook:** Sponsorship locked; artifact fragment sent to Somchai; Lang useful without surrender; registry vs safety still unresolved.
 ### Ch 4 — Terms of Welcome *(Eli · Brazilian river-port network)*
 
-|- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (registry logic, classification pressure, sponsorship-as-ownership temptation, the demand that usefulness precede safety). What family/individual program operates? (Eli's sponsorship of Tomas as personal trust overriding institutional caution; the Brazilian intake staff's daily habits of care; Mei's kitchen as family-scale refuge). What practice rises in the gap? (voluntary sponsorship with review, witnesses, and the right to withdraw; Umul fragment read as held-before-healed, not usefulness-before-safety; the artifact sent to Somchai for somatic read). If the gap has no practice, the scene is only an argument against classification.
-- **Deep-time residue / ancient face seed — LOCKED 2026-07-30:** Sorting / Umul (The Unplaceable) encountered here as **present-day artifact break**, not merely a verbal warning — purpose ≠ institutional usefulness. Wrong reading: story = proof Tomas is harmless; sponsorship = ownership with better manners. Cost: Eli stakes credibility without promising safety.
+|- **DRAFTED 2026-08-21:** Mei hosts a meeting in the boat's saloon: Eli, Wren, Rowan, and a Union liaison named Hsu. The argument is about whether the clinic network can operate under Compact authority or must remain independent. Hsu argues for integration; Mei argues for the people who will walk farther to reach a clinic that does not report their names. Eli sides with Mei, which costs him Hsu's cooperation. The meeting ends with Hsu leaving and Mei washing the glasses.
+|- **Want:** create an intake practice that protects privacy while making dangerous conduct answerable.
 - **Artifact encounter — ADDED 2026-08-01:** in a Brazilian archive room, someone opens **The Sorting** fragment and reads the Enki–Ninmah placement sequence: fate, bread, place for each irregular body — then the text breaks at **Umul**, and Ninmah cannot place him. Factions in the room argue over the missing ending: institutional read → *the useless are useless*; Eli’s counter-read → the break is the space where care-work begins. The fragment locks the mystery on-page: *what did the missing lines say?* The reader carries it.
 |- **Somchai read — ADDED 2026-08-01:** Eli sends a record of the broken fragment to **Somchai / the Thai cooperative** because the regional network needs a somatic read on bodies that do not fit standard categories. Somchai touches the reproduction and recognizes the crux before he can name it — Ninmah’s inability to place Umul rhymes with every patient he has carried who could not be sorted into a diagnostic lane. The disputed reconstruction (*held before healed*) is not doctrine to him; it is the practice he already does. The artifact activates healing in the healer by giving his unnamed work an ancient name. **Somchai misnaming — ADDED 2026-08-21:** in the same window, a refugee or local elder witnesses Somchai stabilize someone under pressure and upgrades him in street register: *you are not a man doing a job. You are elohim among us.* Softer variant: *bene elohim* — one sent, not born here. Somchai does not argue. He keeps working. If the elder insists, Somchai names the cost: *If I am elohim, then every person who died while I was setting up the line is my failure. I am not carrying that.* He reframes the claim as ownership with better clothes. The elder does not back down; belief survives refutation. **Political angle — ADDED 2026-08-21:** Lang or a Continuity officer later notes that Somchai’s public reputation is a recruitment vulnerability. They do not try to crown him; they try to file him. The misnaming is useful because it makes a witness tractable. **Prose guardrail:** the *elohim* / *bene elohim* line is spoken by a non-Somchai character, in local register. Somchai never uses the term about himself. The scene ends with him still working, not posing.
 - **Tomas as living Umul — ADDED 2026-08-01:** the same day, Eli looks at Tomas — present, unplaceable, sponsored without a utility promise — and the ancient question becomes immediate. Tomas is not a test of whether sponsorship works; he is the person for whom placement has not yet been invented. Eli’s choice is dramatized as the Umul answer: **held before usefulness is earned**.
@@ -700,9 +728,8 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Choice → Cost:** Somchai names the cost of the claim and keeps working; the misnaming survives refutation; the artifact fragment enters circulation.
 - **Pitch gate — end hook:** Somchai's somatic read named; political angle seeded; registry pressure remains unresolved.
 ### Ch 6 — The Person Freedom Failed *(Eli · Brazilian repair dock / ordinary civic space)*
-|- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (sponsorship-as-ownership, classification pressure after harm, registry logic arriving as credible safety). What family/individual program operates? (Nia's family as ordinary harm; Mei's kitchen loyalty as political cost; Eli's judgment as the human condition the programs ignore). What practice rises in the gap? (the receiving kitchen's refusal to classify people before they become useful; Mei's choice to feed without filing; the community's ability to hold grief without turning it into identity). If the gap has no practice, one harm becomes proof the registry was always right.
-|- **Bird-tribe proof beat 2 — LOCKED 2026-08-05 (Ch 3, multi-POV: coastal fishing cohort, clinic cooperative, threshold house, repair crew):** Multiple households aligning on shared route under pressure — a coastal fishing cohort, a clinic cooperative, a threshold house, and a repair crew independently arrive at the same evacuation corridor and the same refusal set without a coordinator ordering them: no children moved without consent, no household abandoned unless its members chose to stay, no port priority given to armed actors before civilians. Each household names its own conditions; the route holds only because the conditions overlap. Reader sees it through the separate arrival beats, not through a commander's announcement.
-|- **Parade Liturgy drip — LOCKED 2026-07-25:** F2 — flat face after real harm; parade of welcome vs private cost (`54_litanies.md` § master map).
+|- **DRAFTED 2026-08-21:** The broken transfer leaves three people at the wrong dock and one boat with a damaged propeller. Eli goes to retrieve them personally. The people at the wrong dock have made themselves at home: they have started a fire in a metal drum, shared food with local fishermen, and decided they will not return until someone explains why they were sent there. Eli listens instead of ordering. The fisherman who hosted them is named Costa. He has a scar across his left eyebrow and a boat that leaks at the stern. He says, "They told me they were sent here by mistake. I told them mistakes happen." The return takes two days longer than planned. The damaged propeller forces them to drift with the current for twelve hours before a repair crew meets them at a river junction. Eli sits on the deck with the three mistaken people and listens to them describe Costa's boat, his fire, his daughter who is twelve and wants to be a mechanic. The propeller is fixed by sunset. They leave before dawn. Eli writes the delay in the logbook. He does not apologize for it.
+|- **Want:** preserve ordinary life while the admitted refugees begin work, training, school, treatment, and neighborhood contact.
 - **Deep-time residue — LOCKED 2026-07-30; GEOGRAPHY REVISED 2026-08-01:** voluntary sponsorship fails as the rupture of the **held** promise — the community was caring before utility, and harm makes them want to classify; the Brazilian receiving kitchen rhymes with Mei's Book I hearth while Mei remains active at distance. Wrong reading: one harm = proof registry was always right; South = naturally safe. Cost: Nia dead; the receiving network fractures; the Umul fragment becomes evidence for Lang's Standard.
 - **Want:** preserve ordinary life while the admitted refugees begin work, training, school, treatment, and neighborhood contact.
 - **Obstacle:** the sponsored refugee commits a serious nonconsensual mind-entry—whether through panic, negligence, grievance, or intent remains a casting choice. An ordinary person dies as a direct consequence.
@@ -717,15 +744,15 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Pitch gate — end hook:** Nia dead; Amara's accusation; the Brazilian receiving network fractures; Lang's transnational Standard arrives as a credible offer.
 ### Ch 7 — The Repair Dock Evening *(Eli · Brazilian repair dock / clinic room)*
 
-- **PLACEHOLDER — SPLIT FROM Ch 3:** After Nia's death, the repair dock becomes a site of ordinary grief; Bima repairs harnesses and Sura watches from the pavement.
-- **Want:** preserve ordinary life while the receiving network fractures around grief.
+|- **DRAFTED 2026-08-21:** The repair dock has six grounded sleeping rooms and twelve people who now require repair work. Nia stands at the far end of the main bay with three apprentices who have never held an awl before. She hands each of them a piece of scrap hull and a tool. She does not explain the technique. She says, "Watch my hands." The first apprentice cuts his thumb on the awl tip. Nia wraps it with a strip of linen from her apron pocket and tells him to keep working. The cut bleeds through the linen halfway through the morning. He does not mention it again. By noon, all three have patched their first seam. Nia inspects each one. The middle one is sloppy. She scrapes it off with the awl handle and says, "Again." The sun moves across the warehouse roof. Nia's own thumb has a scar from an awl slip three years ago. She shows it to them between stitches.
+|- **Want:** preserve ordinary life while the admitted refugees begin work, training, school, treatment, and neighborhood contact.
 - **Obstacle:** some refugees are attacked or expelled collectively; others demand all safeguards be abolished; Mei's kitchen loses standing and custom.
 - **Choice → Cost:** Eli refuses to flee Amara's accusation; the network fractures; Lang's Standard arrives as both protection and threat.
 - **Pitch gate — end hook:** Receiving network fractured; Mei's loss charged against page one; Umul fragment becomes evidence for Lang.
 ### Ch 8 — The Kitchen Ledger *(Eli · Brazilian receiving kitchen)*
 
-- **PLACEHOLDER — SPLIT FROM Ch 3:** Mei pays the cost of feeding people before classification; the kitchen loses suppliers and compound business without telling Eli.
-- **Want:** keep the kitchen open without turning it into a political statement.
+|- **DRAFTED 2026-08-21:** Mei pays the cost of feeding people before classification; the kitchen loses three mainland suppliers and two caterers, and the port authority demands current medical certificates for every cook. Mei carries the Singapore ledger silently. She keeps cooking. The compound's business eats into the day. The Book I hearth survives at a cost Eli does not yet see.
+|- **Want:** keep the kitchen open without turning it into a political statement.
 - **Obstacle:** three mainland suppliers pull the route; two caterers cancel; the port authority demands current medical certificates for every cook; Mei carries the Singapore ledger silently.
 - **Choice → Cost:** Mei keeps cooking and lets the loss eat into the day; the Book I hearth survives at a cost Eli does not yet see.
 - **Pitch gate — end hook:** Kitchen holds on reserves and goodwill; registry pressure continues; Wren learns that routes are the real infrastructure.
@@ -740,6 +767,7 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 ### Ch 10 — The Standard *(Eli · Brazilian port and clinic council / remote Union seizure)*
 
 |- **Three-Term check — LOCKED 2026-08-05:** What cultural program operates? (Lang's Standard: universal detection, mandatory training, central emergency command, enforceable containment). What family/individual program operates? (Eli's personal sponsorship of Tomas; his grief-fueled trust in his own judgment; the Brazilian intake staff's daily habits of care under pressure). What practice rises in the gap? (consent-bound sponsorship with review, witnesses, and the right to refuse classification; the community admitting someone before they become useful; the artifact fragment sent to Somchai for somatic read). If the gap has no practice, the scene is only a lecture against Lang.
+|- **New beat — Expended Ledger (Ch 10 split) — DRAFTED 2026-08-21:** Wren audits the Sideways ledger after the artifact delivery. The numbers do not match: one entry is missing, one is duplicated, and one refers to a clinic that no longer exists. She traces the discrepancy to a Continuity officer named Park who died three weeks earlier. The ledger was never balanced after his death. Wren sits with the unbalanced book for an hour before closing it. She does not report the error; she adds a new column for "unaccounted" and moves forward. This beat establishes Wren's method of absorbing institutional debt without paperwork theater and seeds the Sideways record's material cost.
 |- **Deep-time residue / ancient face — LOCKED 2026-07-30; phantom-god Turning 2026-08-01:** (1) Devolution/survival roster as **gods who never went home** wearing continuity clothes — seed for the later recognition that humans were bred to keep serving absence; (2) Forks/Bridge certification from dead program back-catalog; (3) Extra/expendability ledger as vacant standing → spent labor. Wrong reading: Standard = only safety; roster = competence; Continuity officials = the literal old gods returned. Cost: war ignites; communities pour coordinating power into Eli. **Do not name the domestication remote-collar thesis in this chapter** — let the roster feel like fossil presence first; discovery lands when robot/sub-drone + engine synthesis are both on the table (`17` §9a).
 - **Want:** prevent collective punishment while answering the fact that voluntary safeguards failed.
 - **Arrival pressure:** after Nia's death, Brazilian clinic, river, municipal, labor, neighborhood, and port representatives meet amid public grief and threatened insurance withdrawal. Lang's transnational system already moves through instruments, contracts, medical protocols, and cargo credentials. It feels socially indispensable rather than merely sinister.
@@ -1097,7 +1125,7 @@ becomes compatible with an afternoon nobody turns into destiny.
 
  | Old Ch | New Ch(s) | Note |
  |---|---|---|
- | 1 | 1–3 | Split into harbor intake, first sponsorship, and morning triage |
+ | 1 | 1–3 | Split into boat intake, first sponsorship, and morning triage |
  | 2 | 4–5 | Split into living-room debate and artifact delivery |
  | 3 | 6–8 | Split into repair dock, broken transfer, and aftermath |
  | 4 | 9–11 | Split into Sideways reveal, expended ledger, and ambassador dinner |
@@ -1107,6 +1135,7 @@ becomes compatible with an afternoon nobody turns into destiny.
  | 8 | 21–23 | Split into drone-strike cost, Lang confrontation, and hearing/side room |
  | 9 | 24 | Split into inquiry continuation and hearing pressure |
  | 10 | 25 | Expanded into aftermath, certification, and teahouse coda |
+ > **PACING AUDIT NOTE — 2026-08-21:** All 25 chapter positions are now occupied in manuscript. Chapters 2, 4, 6, 8, 10, 11, 12, 14, 16, 18 are newly drafted beats filling split positions. Each new chapter is a single concrete beat with a named person, physical object, and cost visible in the next chapter. Length target: 800–1,200 words each. Do not expand to novel-length; these are transitional beats, not standalone plots.
 
 ## Locked guardrails
 

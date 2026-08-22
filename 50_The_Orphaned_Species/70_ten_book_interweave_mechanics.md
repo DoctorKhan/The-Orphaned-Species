@@ -4,6 +4,11 @@
 > as the mechanical spine for the existing ten-book structure. Nothing here
 > overrides a higher lock; if this doc and `35_artifact_chain.md` or a beatsheet
 > disagree, the beatsheet wins and this file is revised.
+>
+> **Opening-image rule — LOCKED 2026-08-21:** Book I–X Ch1 opens with a
+> hyper-specific physical problem tied to the volume's macro-theme. No political
+> info-dump. No philosophical monologue. Reader enters through body, sensation,
+> and immediate cost. Provisional hooks for Books V–X: `65_series_direction_V_to_X.md`.
 
 ## Governing rule
 

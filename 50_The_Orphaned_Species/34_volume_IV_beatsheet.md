@@ -15,6 +15,18 @@
 
 > **SERIES OBJECT REGISTER — LOCKED 2026-08-06:** Book IV's monolithic venue name is **Thread Loom**: the court made physical — weaving/judicial geometry, access and placement as instruments of rule, Rowan and Wren as principal weavers. It is the Cube turned narrative.
 
+> **Opening-image lock — LOCKED 2026-08-21:** Chapter 1 opens with a
+> hyper-specific physical problem tied to the volume's macro-theme. No political
+> info-dump. No philosophical monologue. The reader must enter the world through
+> body, sensation, and immediate cost.
+>
+> **Book IV anchor — provisional:** quarterly review opens with a missing delegate
+> / court absence; the seduction of stealing the machine / Charkha infiltration.
+>
+> **Books V–X provisional hooks — NOT LOCKED:** see series direction doc for
+> proposed opening images; do not treat as locked plot until those volumes are
+> drafted.
+
 > **CHAPTER TARGET — LOCKED 2026-08-21:** Book IV runs **25 chapters**,
 > targeting ~100k–120k words. The chapter spine below is the authoritative
 > beat map; each chapter may expand or split during drafting to reach target

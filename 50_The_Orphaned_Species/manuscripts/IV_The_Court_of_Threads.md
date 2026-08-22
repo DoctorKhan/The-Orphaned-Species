@@ -92,6 +92,8 @@ That evening, the public feed runs a retrospective titled **SEVEN MONTHS WITHOUT
 
 The montage shows Wren at the verification desk, Asha with three ledgers open, Leilani on the airspace monitor, Mina in the clinic with empty intake slots, Rowan arriving through the west door with route witnesses, Eli sitting among ordinary delegates. The voiceover calls the settlement the first functional transfer of continuity authority in the compact era. Commenters use words like mature, resolved, post-heroic.
 
+The montage does not show Wren standing in the corridor outside the delivery room, or the nurse who told her the room was for Rowan's people only.
+
 The feed does not show Eli's left hand shaking in the service corridor an hour earlier. It does not show Asha's damaged objection ledger or the fire inspector opening a door Rowan was not supposed to walk through. It does not show the Continuity delegate calling Costa Rican refusal a betrayal of the Eagle and Condor, or the Sol depot opening under cutting torches, or the bridge confrontation where two armed convoys waited for Eli to make the world simpler.
 
 The public image is not false. It is selective.
@@ -1293,7 +1295,21 @@ Seven months of route calls have not decided where either of them lives.
 
 The court has already begun preparing a room for it.
 
-## Chapter 2—[PLACEHOLDER]
+## Chapter 2—Present Consent
+
+Rowan and Eli stand before twelve witnesses in the civic room. The attestation form is printed on both sides. Wren stands to Rowan's left as first witness. She signs her name, sets down the pen, and steps back to the threshold.
+
+The clerk is confused. "Is this a civic partnership or a private arrangement?"
+
+Rowan says, "It is both and neither."
+
+The clerk asks twice. Rowan answers twice. The witnesses sign in order. The last witness is a woman named Park who works in the registry office. She signs without looking at the form.
+
+Wren does not sign again. She stands at the door and watches the ink dry on the page. When the clerk hands Rowan the copy, Wren says, "I attest that this was entered without coercion."
+
+The clerk writes that down. No one has ever attested to a consent-bound partnership in this room before. The form has no template for it.
+
+---
 
 ## Chapter 3—Three Rooms [PLACEHOLDER]
 Rowan notices Eli's mouth during an argument about evidence.
@@ -1760,7 +1776,15 @@ Wren opens the change history.
 The scheduler acted under a household-continuity directive drafted before
 Rowan arrived.
 
-## Chapter 4—[PLACEHOLDER]
+## Chapter 4—First Sex
+
+The room is small, the bed is narrow, and the walls are thin. They are careful with each other in the way people are careful when they have both been hurt and are not sure what counts as safe.
+
+Rowan asks twice whether this is what he wants. He says yes both times. The first time is quiet. The second time is quieter. In the morning, she makes coffee in the kitchen and does not mention the night.
+
+Eli drinks the coffee standing up. He wears his shirt inside out because he was in a hurry. Rowan turns it right side out for him. She does not say anything while she does it. The kitchen is small enough that her hands brush his chest twice.
+
+---
 
 ## Chapter 5—The Rumor [SPLIT-FROM: Ch 3]
 The residence has one guest chair that isn't covered in files, and Rowan has been sitting in it for two hours arguing that his household-security draft treats grief like a scheduling conflict.
@@ -2301,7 +2325,15 @@ He withdraws his hand.
 
 The first fight over her possible child has arrived before the child exists.
 
-## Chapter 6—[PLACEHOLDER]
+## Chapter 6—The Rumor: Leak and Celebration
+
+The credential leak becomes public at a market gathering. The forty-seven people whose classifications were wrong show up at the registry office with their papers. Park processes them in one afternoon. She works through her lunch break and does not complain.
+
+The market celebrates with a shared meal that evening. Eli does not attend; he is in the corridor room signing extension orders. Rowan brings him a plate of rice and fish cooked by the harbor master's wife. He eats while he signs. She does not ask him to stop.
+
+Outside, people are dancing. The music carries through the window. Eli's pen moves across the paper. Rowan watches his hand. The plate is empty before he looks up.
+
+---
 
 ## Chapter 7—The Two Houses [PLACEHOLDER]
 Rowan's first response is to cancel every medical authorization.
@@ -2940,7 +2972,21 @@ Nothing has yet been confirmed.
 
 The court has already begun using the word heir.
 
-## Chapter 8—[PLACEHOLDER]
+## Chapter 8—The Body of State: False Refuge and Misnaming
+
+The Compact's maternity ward is not ready. The midwife assigned to Rowan's care has been reassigned to a border clinic. The replacement is a nurse named Maren who has never delivered a baby in a room with this many windows.
+
+Maren says, "I can do this."
+
+Rowan says, "I know."
+
+The delivery happens in a converted storage closet with a curtain for a door. Maren brings her own instruments. She lays them out on a clean sheet and checks each one twice. Rowan breathes the way she learned in the work-song class. The baby arrives at dawn. Maren catches the baby with her left hand and the cord with her right.
+
+Afterward, Rowan says, "You were right."
+
+Maren says, "I was also scared."
+
+---
 
 ## Chapter 9—The Room Prepared [SPLIT-FROM: Ch 5]
 Asha interviews Selin with her damaged hand visible.
@@ -3464,7 +3510,19 @@ rumor a category error.
 
 Rowan touches the place below her ribs. She does not smile. She does not weep.
 
-## Chapter 10—[PLACEHOLDER]
+## Chapter 10—The Five Forms Week
+
+Wren runs the Five Forms teaching for fourteen learners in a courtyard that is too small. The forms are psionic, not physical: attention, boundary, consent, refusal, and presence. She demonstrates each one. The learners copy her.
+
+One learner, a boy of sixteen, refuses to do the presence form. He says, "I am already present."
+
+Wren says, "Then show me."
+
+He stands in the center of the courtyard and closes his eyes. The other learners watch. The silence lasts as long as it takes for the fountain to fill one basin. He opens his eyes and says, "I was present."
+
+Wren nods. He stays.
+
+---
 
 ## Chapter 11—The Stag Teacher [PLACEHOLDER]
 Pregnancy changes the hours before it changes the silhouette.
@@ -4033,7 +4091,17 @@ Not future population.
 One developing person whose existence has already altered work, fear, love, and
 law without consenting to symbolize any of them.
 
-## Chapter 12—[PLACEHOLDER]
+## Chapter 12—The Nacre Audit
+
+Asha audits the Compact's nacre inventory and finds that three shipments from the coast have been rerouted to a Continuity warehouse without authorization. She traces the authorization to a Continuity officer who used a forged signature.
+
+The officer is suspended. The nacre is returned. Asha writes a report that is twelve pages long. She sends it to Eli with a note: "This is the third time this quarter."
+
+Eli reads the report at his desk. He does not look up when he finishes. He says, "Send it to the registry."
+
+Asha says, "I already did."
+
+---
 
 ## Chapter 13—The Nacre Audit [SPLIT-FROM: Ch 7]
 The first regional games of the Hollow Year are held in a freight yard because
@@ -4733,7 +4801,19 @@ It also belongs to love.
 The court has thirty days to discover whether any institution can survive the
 difference.
 
-## Chapter 14—[PLACEHOLDER]
+## Chapter 14—The Cloister Risk Score
+
+Malik scores the men's cloisters for recruitment risk and finds that three of the twelve have been approached by Continuity recruiters. The recruiters offered medical coverage, housing priority, and a path to citizenship.
+
+Two of the three men reported the approach. One did not. Malik interviews the one who did not. The man sits with his arms crossed and his eyes on the floor. He says, "I need the coverage."
+
+Malik says, "I know."
+
+The man says, "My daughter's clinic was closed last month. She needs a new assignment."
+
+Malik writes this down. He does not report the man's name to the recruitment office. He reports the recruitment pattern instead. The pattern is systemic. The man is not.
+
+---
 
 ## Chapter 15—The Recruitment Hearing [PLACEHOLDER]
 At thirty-three weeks, Rowan can no longer see her own feet.
@@ -5308,7 +5388,21 @@ Rowan knows another name for it.
 
 Waiting to see which body opens first.
 
-## Chapter 16—[PLACEHOLDER]
+## Chapter 16—The Ilyara Boundary
+
+Selin maps the Ilyara boundary dispute between two farming communities and finds that the original survey was wrong by seventeen meters. The seventeen meters contain a spring that both communities need.
+
+She redraws the boundary along the spring's actual course. Both communities agree. The farmers shake hands in the middle of the disputed ground. Selin records the new boundary and files it under "spring access, shared."
+
+The farmer from the north side says, "My grandfather said this spring belonged to his father."
+
+The farmer from the south side says, "My grandfather said the same thing."
+
+Selin says, "It belonged to both."
+
+They shake hands again. The spring runs clear.
+
+---
 
 ## Chapter 17—The Southern Canopy [SPLIT-FROM: Ch 9]
 Wren prepares the birth room by removing chairs.
@@ -5757,7 +5851,19 @@ Wren faces the door.
 Outside, officials wait for the ruler to decide whether birth requires him to
 remain ruler.
 
-## Chapter 18—[PLACEHOLDER]
+## Chapter 18—The Work-Song Class
+
+An adolescent learner and a grower named Tesi teach a work-song class in a field that is not yet ready for planting. The song has no words; it is rhythm and breath. Twelve people show up. They learn the pattern by doing the work: turning soil, carrying water, planting seedlings.
+
+The song holds the pace. Tesi says, "You do not sing the song. The song sings you."
+
+One learner asks what happens when the field is planted. Tesi says, "The song changes."
+
+The learner asks how. Tesi says, "You'll hear it."
+
+That evening, the learner walks home alone and hears the rhythm in her own steps. She does not know the song has already changed. She only knows that her feet are keeping time to something she has not learned yet.
+
+---
 
 ## Chapter 19—The False Heir Draft [PLACEHOLDER]
 

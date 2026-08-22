@@ -6320,7 +6320,8 @@ of the stabilization mesh now."
 it."
 
 Eli sees the nine staff on the Sanxingdui stair. A central operator smoothing
-disagreement until living traces appear as one answer.
+disagreement until living traces appear as one answer. The operator's hands stay
+open. The people being smoothed do not look relieved.
 
 "Can she leave?"
 
@@ -7213,7 +7214,8 @@ of the stabilization mesh now."
 it."
 
 Eli sees the nine staff on the Sanxingdui stair. A central operator smoothing
-disagreement until living traces appear as one answer.
+disagreement until living traces appear as one answer. The operator's hands stay
+open. The people being smoothed do not look relieved.
 
 "Can she leave?"
 

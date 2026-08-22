@@ -550,6 +550,22 @@ inside the birth. Rotate which two are tense; Wren does not referee Eli/Rowan.
 >    once in this volume, the command meeting is also the moment Rowan and Wren
 >    choose whether to trust each other with the truth.
 >
+> 8. **Mourn the mundane anchor before the abstraction.** In every
+>    death/disaster scene, at least one beat must show a survivor attending
+>    to the anchor object or habit before any monologue about loss.
+> 9. **Competence-as-violation beat per volume.** Each volume needs one scene
+>    where the protagonist's defining strength wounds someone they love. The
+>    violator must realize too late or choose not to undo the harm.
+> 10. **Asymmetrical scars accumulate visibly.** Once a scar is named, it must
+>     alter a concrete physical action in every subsequent volume where it
+>     appears.
+> 11. **Outside-in POV once per volume.** One scene per volume must be framed
+>     heavily through the eyes of a low-level worker, grunt, refugee, or
+>     stranger interacting with the trio.
+> 12. **Shifting V dynamic.** In every book a different pairing aligns while
+>     a third is left out for operational reasons. The isolated character must
+>     have a visible, mundane cost—not just pouting.
+>
 > Full argument and prose tests: `35_relationship_family_career_addendum.md`.
 
 ---
