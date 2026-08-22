@@ -964,8 +964,8 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
 - **Pitch gate — end hook:** Named death + threshold house lost; war continues elsewhere; emergency authority expires — hearing owed.
 ### Ch 23 — The Hearing Room and the Side Room *(Eli · Hawaiʻi Island civic room)*
 
-- **DRAFTED 2026-08-21:** The main hall has a long table and twelve chairs. The recorder sits at the far end. Eli sits on the left. The house representative sits opposite. In the side room, Owen, Malik, and four veterans claim a storage room with a leaking roof. They fix the roof before they name the room. The Weaver receipt — Callum's packet — enters the side room before the proposal. The two rooms prove accountability without exemption.
-- **Want:** remain present while other people judge what his decisions cost them; found standing that does not depend on a household claiming them.
+- **DRAFTED 2026-08-21:** The main hall hearing runs with a long table and twelve chairs. Sora Vithan's seat in the second row stays empty. Wren sits with the route-circle witnesses rather than beside Eli. Down the hall, Owen, Malik, Callum, and other veterans claim a storage room with a leaking roof. They fix the roof before they name the room. Jesse refuses to join a fighting brotherhood. Owen's rule wins: no remobilization without role and exit. The compact is founded on refusal.
+- **Want:** remain present while other people judge what his decisions cost them; found standing that doesn't depend on a household claiming them.
 - **Obstacle:** supporters want vindication, enemies want sacrifice, and Eli's usefulness tempts everyone to exempt him; the side room founders disagree about fighting brotherhood vs repair guild.
 - **Choice → Cost:** Eli testifies without controlling the conclusion; Owen's rule wins—no remobilization without role and exit; the cloister is founded on refusal.
 - **Pitch gate — end hook:** Sanction real; Wren/Eli continue with separated jurisdiction; peace terms must survive without Eli as guarantor.

@@ -302,13 +302,10 @@ The boat rolls.
 Nobody can tell whether the command was heard aloud or inside.
 
 Eli feels seventeen sets of balance at once. He could take them. Align the
-bodies, still the deck, put the rope in the woman's hand and Bima's launch where
-it needs to be.
+bodies, still the deck, put the rope in the woman's hand and Bima's launch
+where it needs to be.
 
-The capacity is there now.
-
-Maren's release did not give it to him. It removed enough obstruction for him
-to understand what he had been doing badly all his life.
+Bima's engine catches.
 
 He does not enter them.
 
@@ -424,9 +421,8 @@ Tomas's breath stutters.
 
 *Never put your hand where you can't see the belt.*
 
-The memory is a machine room, ordinary and exact.
-
-*Again.*
+The memory is a machine room, ordinary and exact. Hot insulation. A pump
+that ran on a belt / Hz line / nothing Eli could name yet. Tomas tries.
 
 *Neutral isn't dead.*
 
@@ -490,10 +486,7 @@ Not *I need help.*
 
 Not *I am hurt.*
 
-The first defense offered by a person taught that usefulness is the only
-argument against disposal.
-
-"What's your name?" Eli asks.
+"He can work," he says.
 
 The man hesitates.
 
@@ -4031,6 +4024,7 @@ A clinic delegate says *authority*.
 
 The interpreter says *permission*.
 
+## Chapter 10—The Compact [PLACEHOLDER]
 A harbor council hears *command*.
 
 A Weaver circle writes back *jurisdiction*.
@@ -6458,7 +6452,7 @@ Wren finds her there. They do not speak about the silence. They walk back to the
 
 The hum does not return. Malia records the silence in her logbook. She writes the date, the time, the water level, and the weather. She does not write what it means. The logbook is for data, not interpretation.
 
-That night, Malia dreams about the hum. She wakes before the dream ends and lies in the dark listening to the water. The silence is still there. She closes her eyes and listens to it.
+That night, Malia dreams about the hum. She wakes before the dream ends and lies in the dark listening to the water. The silence is still there.
 
 ---
 
@@ -6494,7 +6488,7 @@ At noon, Mei brings broth. She does not say anything. She sets the tray down and
 
 Tao 8: The highest good is like water. It benefits all things without contention. The gutter is water's path. The work-song is water's rhythm.
 
-The highest good does not need a name. It needs a gutter and a crew willing to scrape it.
+The highest good does not need a name.
 
 The work-song changes when the field is planted. The crew already knows this. They do not say it. They just keep time.
 
@@ -6643,11 +6637,10 @@ moving.
 
 Wren arrives. She stands beside Eli. She looks at the gurney. She looks at the
 paper. She looks at the child.
+"She signed for him," Wren says. "She brought him across. She kept him
+whole."
 
-"She signed for him," Wren says. "She brought him across. She kept him whole."
-
-Wren's voice is flat. She is not performing grief. She is stating a fact that
-needs to be recorded.
+Wren's voice is flat.
 
 The woman dies at 19:17. The medic checks. He shakes his head. He closes her
 eyes. He puts the blanket back. He writes the time on the paper.
@@ -6705,15 +6698,47 @@ She reads the entry. She does not dispute it. She stands from the kitchen table,
 
 ## Chapter 23—The Hearing Room and the Side Room [SPLIT-FROM: Ch 8]
 
-Down the hall, in a side room with a leaking roof and no furniture except a
-table someone carried in from the kitchen, Owen Price, Malik Foster, Callum
-Reyes, and four other men are founding something.
+The main hall has a long table and twelve chairs. The recorder sits at the far end.
+Eli sits on the left. The house representative sits on the right. Between them
+are the witness, the clerk, and a clock that runs five minutes fast.
+
+The witness is a man from the gutter crew. He says he saw the patient enter the corridor. He says he saw Eli at the gate. He says he did not see a sponsor. He says the corridor was not cleared because the clearance came ten minutes after the patient passed.
+
+The recorder writes. The pen scratches. The clock ticks five minutes ahead of the room.
+
+Eli does not ask the witness questions. He does not need to. The house representative will ask the questions that make the witness look unreliable, and Eli will sit quietly while the story rearranges itself into something the committee can file.
+
+Amara Okafor is in the back row. She is not a witness. She is not a committee member. She is there because the room is open and she has nowhere else to sit. She is wearing a coat that is too large for her. It was her sister's. It still smells like the river.
 
 When the house representative names the charge, Amara's hands close. She is holding a paper bag. The bag crinkles. She does not open it. She does not throw it. She just holds it tighter.
 
 Eli sees her. He does not look away. He lets her see him see her. He does not try to make the bag uncrinkle. He does not offer his own version of the story.
 
 The hearing ends in forty-three minutes. The decision is reserved. The clock is reset.
+
+The room smells like old paper and floor wax. The wind is coming in from the
+harbor. The windows are open. The crowd is holding its breath.
+
+Sora Vithan's seat in the second row stays empty. Nobody moves the chair to
+close the gap.
+
+Wren does not testify about her. There is no docket line for this particular
+debt: Sora was the one person left who could have told her the truth about
+Mira, and she died holding it instead. Wren sits through the first hour with
+that specific silence beside her, unlisted, costing more than anything she says
+out loud today.
+
+Down the hall, in a side room with a leaking roof and no furniture except a
+table someone carried in from the kitchen, Owen Price, Malik Foster, Callum
+Reyes, and four other men are founding something.
+
+The room is storage. The roof leaks when it rains. The walls are bare. The door
+does not close properly. Malik says they should find a better room. Owen says
+they should fix this one first.
+
+They fix the roof. It takes two hours. They use tar and scrap wood. The leak
+slows. It does not stop. They agree to come back tomorrow. They also agree that
+tomorrow they will bring tools.
 
 The argument starts after the roof. Some of the men want a fighting brotherhood.
 Some want a repair guild. Some do not trust each other enough to want anything
@@ -6860,6 +6885,130 @@ Acts 6:1-7: the apostles appoint seven to serve tables, so they can devote thems
 Tao 48: in the pursuit of the Tao, every day something is dropped. Eli drops the crown daily.
 
 The handover succeeds. The armor is returned. The compact is certified. The next hunger is already forming. The book ends with him standing at the window, not because he is chosen, but because he is awake.
+
+Eli turns from the window. He is still holding his own hand.
+
+The service corridor runs between the window and the kitchen door. Eli takes it in the narrow light that falls through the high window, carrying nothing, feeling the hunger under his ribs that has nothing to do with food.
+
+He almost misses her in the dim.
+
+Rowan stands at the supply shelf with a roll of gauze in one hand and a pair of examination gloves in the other. She looks up when he stops. She has been waiting, or she has not — either way she is there.
+
+"Your hand," she says.
+
+He looks at it. The right hand. The knuckles are red from the credential cards — paper cuts along the edges of six cards sliding across six different tables. He did not notice them until she named them.
+
+"I thought you were going to the garden."
+
+"I was."
+
+"You were."
+
+She steps closer without asking. She takes his hand with both of hers and turns it over. Her gloves are off. The examination light catches the paper cuts. She presses her thumb to the worst one. He flinches. She does not say anything about it.
+
+"I asked before I touched you the last time," she says.
+
+"I know."
+
+"I'm doing it again."
+
+"I know."
+
+She tears the gauze and wraps the base of his thumb. Her mouth is close to his hand when she speaks. "You don't have to keep proving you can give this away."
+
+He looks at her.
+
+"I didn't say that."
+
+"You didn't have to."
+
+"That's worse."
+
+She presses the gauze down and holds it while the blood stops. Her face is steady. She is not performing relief or forgiveness. She is watching his hand.
+
+Eli wants to say something that would make the hunger smaller. He knows the words that would try. He does not say them.
+
+"Rowan."
+
+"Yes."
+
+He turns his hand over and takes hers with both of his. The gauze is between them. The compact is between them. None of these things make the kiss cleaner.
+
+"I want to kiss you," he says.
+
+"That's not a request."
+
+"I know."
+
+"Then ask."
+
+"Can I kiss you?"
+
+She looks at his mouth. She looks at his eyes. She does not smile. She does something harder: she answers.
+
+"Yes."
+
+He kisses her.
+
+It does not feel like relief. It does not feel like beginning. It feels like two people touching in a corridor that is too narrow for either of them to stand straight in. He can feel the pulse in her wrist where his thumb rests on the gauze. He can feel that she is holding still. She is not holding still for him. She is holding still because she is Rowan and she has chosen this.
+
+When she pulls back, she does not let go of his hand.
+
+"That does not make me a wife."
+
+"That does not make me a commander."
+
+"No."
+
+"It does not make a household."
+
+"No."
+
+"It does not make a child."
+
+"No."
+
+"Good."
+
+He laughs once. She does not laugh with him. She goes on holding his hand as though she is checking for something else.
+
+"What did it give you?" she says.
+
+"It gave me the feeling of having done something."
+
+Rowan looks at him.
+
+"That's not an answer."
+
+"It's the only honest one."
+
+She lets go of his hand. She picks up the gloves from the shelf and puts one on. The motion is ordinary. It is the gesture of someone going back to work.
+
+"A shared watch," she says.
+
+"Tonight?"
+
+"After the corridor crew leaves."
+
+"We don't have a watch tonight."
+
+"You do now."
+
+"I'm not a sentinel you assign."
+
+"I know."
+
+"Then what is it?"
+
+She turns toward the corridor door. She does not look back.
+
+"A person I want to be able to find in the morning."
+
+She leaves before he can answer. He stands in the corridor with his hand still wrapped and his mouth still hot from the kiss. The hunger is smaller than it was. It is not gone. It does not go.
+
+He walks back to the house.
+
+The kitchen is quiet. Mei is washing the cups. She does not look up. She knows he was in the garden. She knows what he felt. She does not say anything.
 
 "Blue Roof isn't clear."
 

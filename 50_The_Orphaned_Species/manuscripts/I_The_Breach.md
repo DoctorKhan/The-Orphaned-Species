@@ -535,10 +535,6 @@ Eli has heard the Cube named a hundred times in the channels and corridors of Si
 
 ---
 
-## Chapter 4—Singapore Intake [PLACEHOLDER]
-The hull kisses the screening pier too hard. Eli's knees take it. Wet stone under the first step. Diesel in the back of his throat. A grey cutter sits off the channel with its number painted out.
-
-Floats string the shallows behind them. A processing tender works the boat ahead. Passengers file one by one through an arch, each made to pause on a painted mark. Suresh cuts the throttle. Wren's jaw stays level.
 
 Eli counts the arches: one, then a second feeding into it, the same lists from the Pelangi marina wall six hours ago, printed on cleaner paper. He counts queues the way he counts coconuts, hulls, fence wires. The first arch is document check. The second is the read.
 
@@ -719,48 +715,8 @@ He does not sleep well. He sleeps enough.
 Sunday, first light. Cherry Lane is not on the official map. For an hour Eli is lost inside that fact.
 
 He asks wrong once and gets a polite blank. Asks right. River in the vowels. A construction worker's face changes. Down the dead escalator, left at the flooded junction. No, your other left. If you see the shrine with the plastic flowers you went too far. The escalator is a black throat. Water stands in the junction like a held breath. He takes the wrong left, finds the plastic flowers, turns back sweating, finds the dry crossing only when a cleaner kicks a grate open with her heel and does not ask his name. The same cleaner who pointed him right ten minutes earlier. She gives him the look a dock master gives a hull that came in on the wrong tide. The air down here is different. Diesel cut with roasting peanuts, salt coming up through the slab, a bass note from the city above that he feels in his molars more than he hears. A dock mechanic under the freight ramps looks at his hands before his face and gives him the clock: "Yards are west of the grandstand. Tire trucks. Last safety car tonight. Stay off the Cube. That's the show. Race starts sealing streets at noon. Practice first, then the real thing. If you get up top you will not get back down."
-
-Eli has heard the Cube named a hundred times in the channels and corridors of Singapore. He has never been going there. The mechanic laughs once, not unkindly. "Good. Nobody who means to go there uses this door."
-
----
-
-He means to cut west under the grandstand.
-
-At the first street hatch the cleaner who kicked the grate for him is gone and a barrier crew is already bolting a Circuit gate across the mouth. Practice cars somewhere above. The hatch that should have been yards is a wall of people in team colors, phones up, moving the only direction the barriers still allow.
-
-He tries the next shaft. Flooded. The one after that opens on a service road already parked solid with black official cars waiting for the race. A cook with a crate of limes jerks her chin the wrong way, away from the yards, toward a pink light on the underside of the cloud.
-
-"That way is moving," she says. "This way is not."
-
-He does not want that way. He takes it because standing still is the thing that gets noticed. The Cube is the race's official crowd valve—Mandate barriers seal every other route out of the yards, so overflow foot traffic has only one corridor into the stadium concourse, and the concourse has only one route toward the freight ramps. Wren knew. She underlined the marshalling letters because she knew he would not be the only worker the barriers redirected here.
-
-The bass reaches him before the building does. Then petals in the gutter, too even, too many, not weather. Then a screen the size of a hull on the side of a tower, a boy's face, two syllables the crowd already knows. The street is a river of backs. Every time he tries to peel off toward the marshalling letters Wren underlined, a marshal or a fence or a body turns him back into the current.
-
-He hears it through the soles of his feet before he sees the glass, a low vibration, as if the crowd has finally stepped onto a rib. He is close enough now that the cherry light is on his hands. He tries one more alley. It dumps him against the outer shell.
-
-A stagehand dumps a freight case on him without looking. The case bites his hip. The glass is a hand's width from his shoulder, colder than the air. Light slides across it the wrong way, a half-beat behind the concert spill. Under the crowd-sound there is a pressure that is not bass. His feet want the counter-clockwise run even here, off the marked route, the way a cart wants the groove it has worn. Heat gathers at the base of his spine and stays there. He does not know what he is touching. He keeps the case moving because the river of people will not let him put it down.
-
-A slit in the service wall offers one stolen view upward: towers lit from within, gardens suspended in salt air.
-
-Above: the managed bloom. Cherry canopy under glass. Whole trees forced into eternal spring, pink so dense it looks edible, petals falling through a manufactured wind, not weather but engineered breath. Walkways float through the blossom like jewelry. Light comes from everywhere and nowhere. Somewhere a string section is playing, but the sound reaches him through the glass, not the air, as if the orchard is a room with the doors shut. The crowd presses him forward. His shoulder hits the glass. A palm at his back, and he is facing the right way again. Someone behind him sighs, pleased, as if a difficult step has been demonstrated. He tries to step out. A gap opens and closes on him. His "sorry" is taken up as the next syllable of the chant. Heat climbs from the base of his spine into the clap. For one circuit it is a hand there again. Then it is only the walk, and the sealed glass goes by, and the woman in gloves pats his arm like a teacher whose slow student has finally joined.
-
-A dresser shoves a jacket at him because everyone in the inner ring is wearing one. Instantly fan-recognizable. Phones come up. He puts a hand up to say not me. The jumbotron catches it. Forty thousand people put a hand up. The spiral delivers him to the stage lip anyway.
-
-The boy made of brightness is between numbers, towel at his neck, smaller than his screens. Security already has Eli, not on the Cube list, flag from below, when the boy says, "Wait." He is registered House talent—domesticated, Mandate-custodied, his voice and choreography licensed assets—and his handlers are already counting the seconds he owes the set.
-
-"You have her hands." The boy says it, looking at Eli's hand, still flat below the collarbone from the walk.
-
-The crowd has started the next count. The boy takes Eli's wrist and pulls him into the number.
-
-Nobody questions a man who is clearly supposed to be up there.
-
-Eli is a beat behind. He mirrors the dancer on his left and gets the shoulder. The dancer commits to the shoulder. The row behind them commits to the shoulder. In the partnered turn he steps on the dancer's foot and catches the wrong arm—her arm, not his cue—and the dancer turns it into the lead so cleanly the row behind them follows the misstep like a new formation. Panic under a plastered smile. He tries to leave downstage and the lights follow him; the crowd cheers the breakaway. He mouths I'm not, the captioning board, which has been waiting for a guest verse, renders it as a lyric and the room sings it back. He is so frightened his hands find a cable tape at the monitor wedge and press it down out of habit. The boy, mid-chorus, has to dance around a man doing facilities work on live television. For one impossible minute the bass is in his teeth and the crowd is a single warm animal and the fear has nowhere to land. The cameras sweep the edge of the stage, forty thousand faces lit by the screens, and find no single worker file, no flagged name, only a man being carried by the noise. Then the number ends.
-
-Up close, in a partnered turn, the boy's face changes. Hairline. Jaw. The grounding. A grey frame that has been in this dressing room before. He has to keep performing through it, one missed beat, an ad-lib that keeps Eli close. Eli feels something go wrong in the man beside him and has no idea why.
-
-The number ends. The boy walks him off in the transition, still holding the wrist, still smiling for the cameras until the wing takes them. Eli tries to stay in the shadow of the wings, to become part of the stagehand crew moving through the corridors, but the security chief is already calling it out: "Holt. Facilities. Marshalling, west yards, not."
-
-"Who taught you that?" He says it, not the smile.
+## Chapter 4—Singapore Intake [PLACEHOLDER]
+The hull kisses the screening pier too hard. Eli's knees take it.
 
 "My mother."
 

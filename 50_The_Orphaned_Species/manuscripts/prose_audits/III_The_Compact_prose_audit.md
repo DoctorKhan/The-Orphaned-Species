@@ -6,30 +6,30 @@
 
 ## Summary
 - **Chapters audited:** 25
-- **Flagged chapters:** 17
+- **Flagged chapters:** 16
 - **Total flag instances:** 33
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 14 |
+| SHORT-PARA-RUN | 13 |
 | OPEN-LIGHT-ON-BODY | 5 |
 | ABSTRACT-DENSE | 4 |
 | STACKED-EM-DASHES | 3 |
 | ECHO-CLOSER | 3 |
+| IDENTICAL-PARA-OPENING | 2 |
 | ABSTRACT-OVER-BODY | 1 |
-| IDENTICAL-PARA-OPENING | 1 |
 | TIDY-COMPARISON | 1 |
 | NOT-X-BUT-Y | 1 |
 
 ## Chapter-level detail
 
 ### ## Chapter 1—The Boat at Morning
-- **Word count:** 3459
-- **Sentence count:** 509
+- **Word count:** 3435
+- **Sentence count:** 507
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 103 body terms)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
+  - ABSTRACT-DENSE (22 abstract terms, 104 body terms)
+  - SHORT-PARA-RUN (28 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 2—First Sponsorship
 - **Word count:** 171
@@ -125,20 +125,21 @@
 - **Flags:** none
 
 ### ## Chapter 17—A Crown With an End
-- **Word count:** 3507
-- **Sentence count:** 457
+- **Word count:** 4286
+- **Sentence count:** 564
 - **Flags:**
-  - ABSTRACT-DENSE (21 abstract terms, 86 body terms)
+  - ABSTRACT-DENSE (26 abstract terms, 111 body terms)
   - SHORT-PARA-RUN (17 run(s) of 3+ short paragraphs)
+  - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
 ### ## Chapter 18—Basalt and the Forks
-- **Word count:** 167
-- **Sentence count:** 17
+- **Word count:** 159
+- **Sentence count:** 16
 - **Flags:** none
 
 ### ## Chapter 19—Gutter Clearing and the Work Song
-- **Word count:** 644
-- **Sentence count:** 81
+- **Word count:** 633
+- **Sentence count:** 80
 - **Flags:**
   - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (1 hits)
@@ -151,10 +152,9 @@
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 21—The Cost of Consent [SPLIT-FROM: Ch 8]
-- **Word count:** 831
-- **Sentence count:** 119
-- **Flags:**
-  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
+- **Word count:** 816
+- **Sentence count:** 117
+- **Flags:** none
 
 ### ## Chapter 22—The Drone-Strike Cost [SPLIT-FROM: Ch 15]
 - **Word count:** 274
@@ -162,8 +162,8 @@
 - **Flags:** none
 
 ### ## Chapter 23—The Hearing Room and the Side Room [SPLIT-FROM: Ch 8]
-- **Word count:** 701
-- **Sentence count:** 95
+- **Word count:** 560
+- **Sentence count:** 72
 - **Flags:**
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)

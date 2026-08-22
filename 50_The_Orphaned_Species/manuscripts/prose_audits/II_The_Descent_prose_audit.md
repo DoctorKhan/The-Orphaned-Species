@@ -22,8 +22,8 @@
 ## Chapter-level detail
 
 ### ## Chapter 1—What Came Home [PLACEHOLDER]
-- **Word count:** 3089
-- **Sentence count:** 354
+- **Word count:** 3034
+- **Sentence count:** 348
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - SHORT-PARA-RUN (23 run(s) of 3+ short paragraphs)

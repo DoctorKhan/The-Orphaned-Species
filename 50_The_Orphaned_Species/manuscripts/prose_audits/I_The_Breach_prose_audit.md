@@ -5,16 +5,16 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 28
-- **Flagged chapters:** 18
-- **Total flag instances:** 54
+- **Chapters audited:** 26
+- **Flagged chapters:** 16
+- **Total flag instances:** 48
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 18 |
-| STACKED-EM-DASHES | 14 |
-| ABSTRACT-DISTANCE | 9 |
-| NOT-X-BUT-Y | 5 |
+| SHORT-PARA-RUN | 16 |
+| STACKED-EM-DASHES | 12 |
+| ABSTRACT-DISTANCE | 8 |
+| NOT-X-BUT-Y | 4 |
 | TIDY-COMPARISON | 3 |
 | IDENTICAL-PARA-OPENING | 2 |
 | ECHO-CLOSER | 1 |
@@ -48,22 +48,6 @@
 - **Flags:**
   - SHORT-PARA-RUN (4 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
-
-### ## Chapter 4—Singapore Intake [PLACEHOLDER]
-- **Word count:** 3484
-- **Sentence count:** 308
-- **Flags:**
-  - NOT-X-BUT-Y (1 hits)
-  - STACKED-EM-DASHES (2 hits)
-  - ABSTRACT-DISTANCE (1 hits)
-  - SHORT-PARA-RUN (5 run(s) of 3+ short paragraphs)
-
-### ## Chapter 5—The Convoy and the Breach [SPLIT-FROM: Ch 3]
-- **Word count:** 2653
-- **Sentence count:** 231
-- **Flags:**
-  - STACKED-EM-DASHES (1 hits)
-  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 4—Singapore Intake [PLACEHOLDER]
 - **Word count:** 9153

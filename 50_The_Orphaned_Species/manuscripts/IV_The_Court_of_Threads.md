@@ -70,7 +70,8 @@ They touch foreheads briefly after the last witness confirms.
 
 Eli sees.
 
-The jealousy that once told him he was being replaced doesn't even bother appearing anymore. Seven months teaches a body what three weeks couldn't.
+The jealousy that once told him he was being replaced doesn't even bother
+appearing anymore.
 
 Rowan catches him watching anyway.
 
@@ -199,9 +200,9 @@ the quay — last year's emergency alders — holds when a northern stand on the
 feed would already have dropped. She does not have a name for that. She has
 the window.
 
-In the harbor below, the first ash falls like coarse flour. A child catches it
-on a sleeve and looks at the gray smear the way children look at evidence—no
-opinion yet, just observation.
+In the harbor below, the first ash falls like coarse flour. A child catches
+it on a sleeve and looks at the gray smear. No opinion yet. Just the sleeve
+and the ash.
 
 No model agrees on how much sulfur reached the high air.
 
@@ -3990,6 +3991,7 @@ Both sides accuse Rowan of favoring the other.
 This is how she knows the rule may be usable.
 
 ---
+## Chapter 2—The Threat Report [SPLIT-FROM: Ch 1]
 
 The threat report does not arrive as a finished thing.
 
@@ -6233,120 +6235,6 @@ Eli is not the child. Eli is the father. The child is a birth. The birth is a bi
 
 The bed is narrow. The sheet is thin. The pillow has a stain on the case that no one has changed. The breath is the only thing she has. The breath is the only thing Eli hears.
 
-## Chapter 23—The Labor Inversion
-
-The coast road junction is called Caju. It sits where the north corridor meets
-the harbor spur. If the spur closes, three clinics and a seed bank lose their
-resupply route for six days. If the junction closes, the clinics lose it for
-eighteen.
-
-The decision arrives at 03:17 in a packet from Wren's network. The packet says
-the spur is open but contested. A Sol-linked crew has blocked the junction
-bridge. They have a physical position and a clear line of sight. Wren's
-dispersed witnesses cannot approach without crossing the line. Wren's appeals
-desk cannot negotiate under fire.
-
-The packet does not say what the Sol-linked crew is doing on the road at 03:17
-in the first place. It only says they are there and the bridge is now closed.
-
-Eli reads the packet at the field headquarters table. West Approach's commander
-is sitting across from him. Malik sits to Eli's right, checking a separate
-routing channel. Owen sits to the left, his prosthetic foot tapping a steady
-rhythm on the floor.
-
-"The compact cannot route around," Malik says. "Not in three hours. The coast
-road is the only bridge with weight capacity for the seed bank containers."
-
-"West Approach can clear it," the commander says.
-
-"How many?"
-
-"Twenty. Armed."
-
-"Armed how?"
-
-"With what they carry."
-
-Eli looks at Malik. Malik looks at Eli. The question they do not speak is
-whether twenty armed men on a bridge at 03:17 will leave the Sol-linked crew
-alive.
-
-Wren's voice comes through the open channel. She is at the Weavers' witness
-desk, three hundred kilometers away. She has been awake for nineteen hours.
-
-"The compact does not authorize lethal response," she says.
-
-"We are not asking for authorization," the commander says. "We are asking for
-permission to act in defense of a civilian route."
-
-"The distinction is not clean."
-
-"It never is."
-
-Eli closes the packet. The paper makes a sound the room does not need. He
-knows what happens if he says no. The bridge stays closed. The seed bank waits.
-The clinics wait. The road waits for a consensus that will arrive after the
-damage is done. He also knows what happens if he says yes. Twenty men cross a
-bridge at night with weapons and a license to use them. The Sol-linked crew is
-young and hungry and has probably been told Eli is a tyrant who feeds on
-corridors. They will not surrender to a vote. They may not surrender at all.
-
-"If I say yes," Eli says, "I am making you judge, jury, and road crew."
-
-"If you say no," the commander says, "you are making the seed bank a lesson
-nobody needs."
-
-Eli looks at Owen. Owen stops tapping his foot.
-
-"You have the authority to refuse," Owen says. "You built the system that says
-you do."
-
-"I know."
-
-"Then you also know what the refusal costs."
-
-Eli looks back at the commander. The commander's face is not eager. It is the
-face of a man who has already cleared his own chapter for this action and is
-waiting for the order to come down.
-
-"Clear the bridge," Eli says. "Do not use lethal force unless lethal force is
-used against you. If they surrender, take them alive. If they do not, you are
-authorized to defend the route."
-
-The commander stands. He does not thank Eli. He goes to the door.
-
-Malik watches him go. Malik says, "You just made us exactly what the Sol
-channels say we are."
-
-Eli does not answer. He looks at the packet. He looks at the channel where
-Wren's voice was. Wren has already signed off.
-
-The bridge clears in forty minutes. Two Sol-linked crew members are wounded.
-One dies. The bridge opens at 04:02. The seed bank trucks roll at 04:47. The
-clinics resupply at noon.
-
-The dead crew member's name is Javi Roa. He is nineteen. He joined Sol's camp
-because his brother was given a roof and a rotation in the depot brigade. He
-was on the bridge because Sol's organizers told him the route was being seized
-by a private army under Eli's command. Part of that is true now.
-
-The body is collected by a local council that has no standing army and no
-alliance with either side. The council buries him in a cemetery that was
-planted with the same seed the trucks carried.
-
-Eli does not attend the burial. He receives the casualty report at 09:00. He
-reads Javi Roa's name once. He does not speak it aloud. He knows the name will
-appear in Sol's next broadcast as proof that the compact is a weapon. He also
-knows that without the bridge, the seed bank would have failed and the clinics
-would have closed and the council would have buried more than one body.
-
-He sits with the report for ten minutes. Then he signs the authorization for
-West Approach's expense claim and puts the pen down.
-
-The compact has just used lethal force. Eli signed the paper. The compact
-continues to say it does not authorize lethal response. The paper says
-otherwise.
-
 That night Eli walks to the west approach alone. He stands where the praetorian
 sentries can see him and waits. The commander comes out. He is cleaning a rifle
 by the light of the vehicle shed.
@@ -6475,121 +6363,7 @@ Genesis 3:16: your desire will be for your husband, and he will rule over you. T
 
 The attending physician reports it as a complication. The court receives it as a question. The answer is yes. The classification is granted. The shift continues.
 
-## Chapter 24—The Sideways Four Seconds
 
-Rowan attends as the court's route liaison. She is seven months pregnant. She
-is wearing a coat that does not button. She sits in the back. She does not speak
-until the board finishes the draft classification. The draft places the repair
-crew in the high-risk category. The rationale is the crew's proximity to the
-drone corridor. The rationale is also that men are more likely to be exposed.
-
-Rowan stands. She walks to the table. She is not steady on her feet. She holds
-the back of a chair. She does not sit. She puts her hand on the paper.
-
-"This category is not risk," Rowan says. "It is gender."
-
-The room is quiet. The board chair is a woman named Petra. She has been on the
-board for eleven years. She has seen three classifications. She has never been
-challenged on the gender line. She looks at Rowan. She looks at Rowan's hand on
-the paper. She looks at the coat that does not button.
-
-"Risk is assessed by exposure," Petra says.
-
-"Exposure is assessed by where people stand," Rowan says. "And where people
-stand is assessed by who is expected to stand there."
-
-She puts a new sheet on the table. It is the same classification. It is the
-same cohort. It is the same route. But the categories are different. The repair
-crew is low. The clinic staff is medium. The threshold-house members are high.
-The threshold-house members are women and children.
-
-Petra reads the sheet. She looks at Rowan. She says, "You are reversing the
-categories."
-
-"I am equalizing the risk," Rowan says. "Every category has the same exposure.
-Every category has the same chance of being hit. The difference is who is
-currently standing where. If you move the crew, you move the category. If you
-move the threshold house, you move the category. The risk does not change. The
-assignment does."
-
-Petra picks up the pen. She looks at the board. The board looks at her. She
-looks at Rowan. Rowan is still holding the chair. Her knuckles are white. The
-coat is open. The room is warm.
-
-Petra signs the new sheet. She passes it to the board. The board signs.
-
-The classification is changed. The repair crew is low. The threshold house is
-high. The evacuation uses the new sheet.
-
-Rowan goes to the clinic afterward. She asks for a private medical modification.
-The doctor is a woman named Mina. She has been on the circuit since Book III.
-She knows Rowan's history. She knows the modification. She knows what it costs.
-
-"It will not protect you from the drone," Mina says.
-
-"I know."
-
-"It will change the pressure on the birth."
-
-"I know."
-
-"It is your choice."
-
-"It is my choice," Rowan says.
-
-Mina prepares the modification. She does it in the clinic room with the window
-that looks out on the fig tree. She is gentle. She is quick. She does not ask
-questions. She knows the questions are already answered.
-
-Rowan leaves the clinic. She walks to the harbor. She does not go to the
-evacuation point. She goes to the water. She stands at the edge. She looks at
-the boats. She does not get on one.
-
-Eli finds her there. He is coming from the board meeting. He has seen the new
-classification. He has seen the signatures. He has seen the way Petra signed the
-sheet, like a person who had been waiting for permission to do the right thing.
-
-"You changed the categories," Eli says.
-
-"I equalized them."
-
-"You also accepted the modification."
-
-Rowan looks at him. She does not answer. She looks at the water. The water is
-gray. The boats are moving. The harbor is full of people who do not know the
-classification was changed. They only know they are leaving.
-
-"You should not have done it alone," Eli says.
-
-"I did not do it alone. Petra signed."
-
-Eli is quiet. He knows she is right. He also knows she is not telling him
-everything. He knows the modification is part of what she is not telling him.
-He knows the modification is the thing she decided without asking him.
-
-He is the person who holds the corridor. He is the person who orders the crew
-by name. He is the person who signs the authorization. He is not the person who
-decides how Rowan's body is modified for a birth he will not attend.
-
-He accepts this. He does not fight it. He stands beside her. He looks at the
-water.
-
-The boats leave at 14:22. The evacuation begins. The repair crew is on the
-first boat. The threshold house is on the last boat. The clinic staff is in the
-middle. Rowan watches them go. She does not get on a boat. She stands on the
-dock until the last boat is gone.
-
-She turns to Eli. "You wanted to know who decides," she says.
-
-"I know."
-
-"I do."
-
-She walks away. She does not look back. Eli stands on the dock. He watches her
-go. He does not follow. He knows the modification is the thing she has decided
-to carry alone. He cannot carry it for her. He cannot uncarry it.
-
-He looks at the water. The water is gray. The boats are gone.
 
 Somchai is sitting on the warehouse steps. He is peeling an orange. He is
 thinking about the four seconds.

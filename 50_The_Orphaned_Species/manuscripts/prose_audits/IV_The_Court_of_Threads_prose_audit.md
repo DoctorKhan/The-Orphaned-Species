@@ -5,13 +5,13 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 26
+- **Chapters audited:** 25
 - **Flagged chapters:** 20
-- **Total flag instances:** 31
+- **Total flag instances:** 32
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 17 |
+| SHORT-PARA-RUN | 18 |
 | OPEN-LIGHT-ON-BODY | 5 |
 | STACKED-EM-DASHES | 3 |
 | ABSTRACT-DISTANCE | 2 |
@@ -23,8 +23,8 @@
 ## Chapter-level detail
 
 ### ## Chapter 1—The Doors
-- **Word count:** 7307
-- **Sentence count:** 788
+- **Word count:** 7297
+- **Sentence count:** 789
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
   - ABSTRACT-DENSE (44 abstract terms, 187 body terms)
@@ -82,9 +82,11 @@
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 10—Before the First Breath
-- **Word count:** 96
-- **Sentence count:** 5
-- **Flags:** none
+- **Word count:** 83
+- **Sentence count:** 10
+- **Flags:**
+  - OPEN-LIGHT-ON-BODY
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 11—The Stag Teacher
 - **Word count:** 2311
@@ -94,10 +96,9 @@
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 12—The Five Forms Week
-- **Word count:** 102
-- **Sentence count:** 10
-- **Flags:**
-  - OPEN-LIGHT-ON-BODY
+- **Word count:** 220
+- **Sentence count:** 21
+- **Flags:** none
 
 ### ## Chapter 13—The Nacre Audit [SPLIT-FROM: Ch 7]
 - **Word count:** 3389
@@ -161,21 +162,16 @@
   - SHORT-PARA-RUN (7 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 23—The Labor Inversion
-- **Word count:** 1190
-- **Sentence count:** 136
+- **Word count:** 2099
+- **Sentence count:** 272
 - **Flags:**
-  - SHORT-PARA-RUN (6 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
-### ## Chapter 23—The Labor Inversion
-- **Word count:** 942
-- **Sentence count:** 149
+### ## Chapter 24—The Sideways Four Seconds
+- **Word count:** 1729
+- **Sentence count:** 265
 - **Flags:**
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
-
-### ## Chapter 24—The Sideways Four Seconds [SPLIT-FROM: Ch 13]
-- **Word count:** 845
-- **Sentence count:** 123
-- **Flags:** none
 
 ### ## Chapter 25—The Flight Departure
 - **Word count:** 697
