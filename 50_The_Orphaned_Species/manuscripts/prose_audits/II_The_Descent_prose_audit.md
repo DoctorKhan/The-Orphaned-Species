@@ -5,18 +5,19 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 25
-- **Flagged chapters:** 23
-- **Total flag instances:** 63
+- **Chapters audited:** 24
+- **Flagged chapters:** 22
+- **Total flag instances:** 61
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 23 |
-| ABSTRACT-DISTANCE | 12 |
+| SHORT-PARA-RUN | 22 |
+| ABSTRACT-DISTANCE | 11 |
 | NOT-X-BUT-Y | 10 |
-| STACKED-EM-DASHES | 10 |
+| STACKED-EM-DASHES | 9 |
 | ABSTRACT-DENSE | 6 |
-| ABSTRACT-OVER-BODY | 2 |
+| ECHO-CLOSER | 2 |
+| ABSTRACT-OVER-BODY | 1 |
 
 ## Chapter-level detail
 
@@ -72,48 +73,45 @@
   - ABSTRACT-DENSE (34 abstract terms, 241 body terms)
   - SHORT-PARA-RUN (39 run(s) of 3+ short paragraphs)
 
-### ## Chapter 8—The Healer's Clinic [PLACEHOLDER]
-- **Word count:** 124
-- **Sentence count:** 12
-- **Flags:** none
-
-### ## Chapter 9—The Holding Entry [SPLIT-FROM: Ch 5]
-- **Word count:** 4342
-- **Sentence count:** 573
+### ## Chapter 8—The Healer's Clinic [SPLIT-FROM: Ch 7]
+- **Word count:** 4460
+- **Sentence count:** 585
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
+  - ECHO-CLOSER (1 hits)
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
-### ## Chapter 10—The Midpoint Revelation [SPLIT-FROM: Ch 5]
-- **Word count:** 4213
+### ## Chapter 9—The Midpoint Revelation [SPLIT-FROM: Ch 5]
+- **Word count:** 4214
 - **Sentence count:** 559
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (1 hits)
+  - ECHO-CLOSER (1 hits)
   - SHORT-PARA-RUN (28 run(s) of 3+ short paragraphs)
 
-### ## Chapter 11—Ring and Romance Cost [SPLIT-FROM: Ch 5]
+### ## Chapter 10—Ring and Romance Cost [SPLIT-FROM: Ch 5]
 - **Word count:** 3807
 - **Sentence count:** 539
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
-### ## Chapter 12—The Changing Map [SPLIT-FROM: Ch 6]
+### ## Chapter 11—The Changing Map [SPLIT-FROM: Ch 6]
 - **Word count:** 3690
 - **Sentence count:** 530
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
-### ## Chapter 13—The Broken-Line Church [SPLIT-FROM: Ch 6]
+### ## Chapter 12—The Broken-Line Church [SPLIT-FROM: Ch 6]
 - **Word count:** 3785
 - **Sentence count:** 536
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
-### ## Chapter 14—The Stray Settlement [SPLIT-FROM: Ch 6]
+### ## Chapter 13—The Stray Settlement [SPLIT-FROM: Ch 6]
 - **Word count:** 4853
 - **Sentence count:** 620
 - **Flags:**
@@ -122,7 +120,7 @@
   - ABSTRACT-DENSE (24 abstract terms, 194 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
-### ## Chapter 15—The Riddling Ground [SPLIT-FROM: Ch 7]
+### ## Chapter 14—The Riddling Ground [SPLIT-FROM: Ch 7]
 - **Word count:** 4867
 - **Sentence count:** 620
 - **Flags:**
@@ -132,7 +130,7 @@
   - ABSTRACT-DENSE (24 abstract terms, 194 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
-### ## Chapter 16—Callum Recovery and Renewal [SPLIT-FROM: Ch 7]
+### ## Chapter 15—Callum Recovery and Renewal [SPLIT-FROM: Ch 7]
 - **Word count:** 4753
 - **Sentence count:** 610
 - **Flags:**
@@ -142,14 +140,14 @@
   - ABSTRACT-DENSE (23 abstract terms, 184 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
-### ## Chapter 17—The Transfer-Records Discovery [SPLIT-FROM: Ch 7]
+### ## Chapter 16—The Transfer-Records Discovery [SPLIT-FROM: Ch 7]
 - **Word count:** 2111
 - **Sentence count:** 292
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (13 run(s) of 3+ short paragraphs)
 
-### ## Chapter 18—The Corridor Signal [PLACEHOLDER]
+### ## Chapter 17—The Corridor Signal [PLACEHOLDER]
 - **Word count:** 2271
 - **Sentence count:** 299
 - **Flags:**
@@ -158,14 +156,10 @@
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
-### ## Chapter 19—One-Way Contact [PLACEHOLDER]
-- **Word count:** 2270
-- **Sentence count:** 299
-- **Flags:**
-  - STACKED-EM-DASHES (3 hits)
-  - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
-  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
+### ## Chapter 18—One-Way Contact [PLACEHOLDER]
+- **Word count:** 6
+- **Sentence count:** 1
+- **Flags:** none
 
 ### ## Chapter 20—The Transmission Station [SPLIT-FROM: Ch 9]
 - **Word count:** 3427

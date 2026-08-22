@@ -769,6 +769,143 @@
 
  ---
 
+## ACT IV — The Five Forms and the Stag Teacher
+
+### Ch 11 — The Stag Teacher *(Eli)*
+- **DRAFTED 2026-08-21:** Pregnancy changes the hours before it changes the silhouette. Eli begins with Stag practice under a teacher who asks him to name when flight preserves life and when it becomes avoidance. Eli still cannot interpret the old antler dream. The teacher does not count the dream as completion of the form.
+- **Want:** train the other four forms without hiding from the war.
+- **Obstacle:** the Five Forms (Stag, Fox, Bear, Salmon, Ox) are not a spending institution; teachers earn trust form by form. Every learner trains all five.
+- **Choice → Cost:** Eli starts with Stag; Fox, Bear, Salmon, and Ox remain future work.
+- **Pitch gate — end hook:** The old antler dream remains unexplained.
+
+---
+
+### Ch 12 — The Five Forms Week *(Wren)*
+- **DRAFTED 2026-08-21:** Wren runs the Five Forms teaching for fourteen learners in a courtyard that is too small. The forms are Stag, Fox, Bear, Salmon, and Ox — animal-named practices borrowed from placing an animal beside a human problem. Every learner trains all five. In the scene, an elder examines a younger man's flight from a drone light without excusing the exposed post. Asha strikes PRIMARY FORM from the intake sheet; Owen refuses sorting; Rowan puts the portable record in the learner's own hands; a clinic Dyer writes bodily stop conditions.
+- **Want:** teach the forms without turning them into a spending institution.
+- **Obstacle:** the courtyard is too small; some learners cannot handle the boundary form. Malik pushes for readiness; Owen pushes for a written rule against exactly the thing Malik wants.
+- **Choice → Cost:** Owen's rule wins — *no remobilization without role and exit*. Three learners drop out.
+- **Pitch gate — end hook:** The cloister's first generation graduates.
+
+---
+
+### Ch 13 — The Nacre Audit *(Asha)*
+- **DRAFTED 2026-08-21:** Asha audits the Compact's nacre inventory and finds rerouted shipments. She traces the authorization to a forged signature. The officer is suspended; the nacre is returned.
+- **Want:** protect the nacre supply without turning audit into persecution.
+- **Obstacle:** the forger is a Continuity officer with connections.
+- **Choice → Cost:** Asha files a twelve-page report; Eli sends it to the registry.
+- **Pitch gate — end hook:** The registry now knows.
+
+---
+
+### Ch 14 — The Cloister Risk Score *(Malik)*
+- **DRAFTED 2026-08-21:** The cloisters want a risk score forLang-aligned surveillance. Malik argues against it. Owen argues for transparency. The vote is split.
+- **Want:** keep the cloisters visible without becoming a target.
+- **Obstacle:** Lang-aligned officials want the cloisters classified and monitored.
+- **Choice → Cost:** Malik's position wins — no risk score without consent and appeal.
+- **Pitch gate — end hook:** The cloisters remain unclassified.
+
+---
+
+### Ch 15 — The Recruitment Hearing *(Ren)*
+- **DRAFTED 2026-08-21:** Rowan can no longer see her feet at thirty-three weeks. The recruitment hearing proceeds without her. Eli attends alone.
+- **Want:** refuse recruitment without looking like a gatekeeper.
+- **Obstacle:** the court wants to name Rowan's child before it is born.
+- **Choice → Cost:** Eli disclaims any hereditary claim publicly.
+- **Pitch gate — end hook:** Rowan goes into early labor.
+
+---
+
+### Ch 16 — The Ilyara Boundary *(Selin)*
+- **DRAFTED 2026-08-21:** Selin's house Ilyara receives a household claim on a man who testified. The man refuses. The claim is denied on the record.
+- **Want:** prove the claim-review mechanic works.
+- **Obstacle:** the household argues the man's testimony is incomplete without their endorsement.
+- **Choice → Cost:** The man's standing testimony alone is sufficient; the claim is denied.
+- **Pitch gate — end hook:** Three more households file claims in the same week.
+
+---
+
+### Ch 17 — The Southern Canopy *(Rowan)*
+- **DRAFTED 2026-08-21:** Rowan travels to the southern canopy to meet with growers. She is thirty-five weeks pregnant. The travel is hard. The meeting is harder.
+- **Want:** secure food commitments before the birth.
+- **Obstacle:** the growers want guarantees the compact cannot give.
+- **Choice → Cost:** Rowan offers personal guarantees; the growers accept.
+- **Pitch gate — end hook:** Rowan's water breaks on the return journey.
+
+---
+
+### Ch 18 — The Work-Song Class *(adolescent learner, grower)*
+- **DRAFTED 2026-08-21:** A grower teaches the work-song to apprentices in the nursery. The song has three parts: sort, scrape, carry. The apprentices invent a fourth part.
+- **Want:** keep the work-song alive without formalizing it.
+- **Obstacle:** the apprentices want to add a fourth part; the grower says the song is complete.
+- **Choice → Cost:** The fourth part stays; the song grows.
+- **Pitch gate — end hook:** The song spreads to the next settlement.
+
+---
+
+### Ch 19 — The False Heir Draft *(Wren, Rowan, Eli)*
+- **DRAFTED 2026-08-21:** The registry office sends a draft at 09:14 saying Rowan's pregnancy has been entered into the succession record. Wren audits the directive and finds it inherited from a Union continuity household directive. The review voids the directive. Rowan returns to ordinary delegate access.
+- **Want:** void the directive without making Rowan a target.
+- **Obstacle:** the directive is administrative, not prudish — Sable can only imagine desire as an unfiled institution.
+- **Choice → Cost:** Wren voids the directive; Sable keeps her job under new training.
+- **Pitch gate — end hook:** Rowan returns to ordinary access; half the court sees it as demotion.
+
+---
+
+### Ch 20 — The Hospital Conversation *(Rowan, Eli)*
+- **DRAFTED 2026-08-21:** Rowan is in the hospital room with the fig tree outside. Mina explains the modification. Rowan accepts it. Eli watches from the hallway.
+- **Want:** let Rowan decide about her own body.
+- **Obstacle:** Eli wants to be in the room; Rowan asks him to wait outside.
+- **Choice → Cost:** Eli waits; Rowan signs the modification alone.
+- **Pitch gate — end hook:** The modification changes the pressure on the birth.
+
+---
+
+### Ch 21 — The Continuity Extension File *(Asha, Continuity officer)*
+- **DRAFTED 2026-08-21:** Asha finds a file on a Continuity officer's desk. The paper clip is rusted. The staple is new. The file contains a forged extension of Eli's mandate. The officer used Rowan's pregnancy as the justification.
+- **Want:** expose the forgery without triggering a constitutional crisis.
+- **Obstacle:** the officer is protected by Continuity jurisdiction.
+- **Choice → Cost:** Asha files a formal objection; the officer is suspended pending review.
+- **Pitch gate — end hook:** The extension is voided; the file becomes precedent.
+
+---
+
+### Ch 22 — The Praetorian Demand *(Eli)*
+- **DRAFTED 2026-08-21:** A cloister commander demands that Eli personally choose the next defense coordinator. Eli refuses. The commander threatens to pull his chapter from the compact.
+- **Want:** keep the compact without becoming a praetorian guard.
+- **Obstacle:** the commander's chapter is the largest defensive force in the region.
+- **Choice → Cost:** Eli refuses; the chapter votes to stay in the compact anyway.
+- **Pitch gate — end hook:** The commander's chapter stays; three smaller chapters leave.
+
+---
+
+### Ch 23 — The Labor Inversion *(Rowan, women officers)*
+- **DRAFTED 2026-08-21:** The classification board meets. Rowan equalizes the risk categories. Petra signs. The evacuation uses the new sheet. Rowan goes to the clinic afterward and accepts a medical modification.
+- **Want:** equalize risk without turning pregnancy into a political tool.
+- **Obstacle:** the board's classification by gender is structural, not personal.
+- **Choice → Cost:** Rowan equalizes; Petra signs; the modification changes the pressure on the birth.
+- **Pitch gate — end hook:** The evacuation begins; Rowan watches from the dock.
+
+---
+
+### Ch 24 — The Sideways Four Seconds *(Somchai)*
+- **DRAFTED 2026-08-21:** Somchai sits on the warehouse steps and peels an orange. He thinks about the four seconds. Eli asks what he is thinking about. "The four seconds," Somchai says. The research team keeps seeking. Eli suspects something he cannot name.
+- **Want:** understand what the four seconds actually are.
+- **Obstacle:** nobody can reproduce the four seconds; the pattern answered back once and then collapsed.
+- **Choice → Cost:** Somchai names it as ordinary labor; the research team keeps seeking.
+- **Pitch gate — end hook:** The four seconds stay ordinary.
+
+---
+
+### Ch 25 — The Flight Departure *(Somchai, apprentices)*
+- **DRAFTED 2026-08-21:** Three apprentices leave by boat. They are not heroes. They are the ones who finished the work and did not know what to do next. Lani tears up the court's letter. Del tears up the Weaver attestation. Pich holds his flute. Somchai watches from the warehouse steps. Eli asks where they went. "North," Somchai says.
+- **Want:** see the young people leave without mythologizing them.
+- **Obstacle:** the court wants to brand them a movement; the Weavers want to claim them as evidence.
+- **Choice → Cost:** They depart carrying tools, seed, and answering songs, and refuse all names.
+- **Pitch gate — end hook:** The next generation inherits them as precedent without the protection of a founder.
+
+---
+
  ## Three-Term scene filter — applies to every chapter in 34
 
 LOCKED 2026-08-05:

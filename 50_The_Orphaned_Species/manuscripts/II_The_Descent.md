@@ -5701,9 +5701,7 @@ the clinic board with the nurse's name attached."
 
 Wren looks at him.
 
-Somchai does not look back. "I am not the person who heals on command. I am the
-person who says no in public when the cost is small enough that no one will
-remember my name afterward. That is the hard no, not the moment with cameras."
+Somchai does not look back. "I am not the person who heals on command. I am the person who says no in public when the cost is small enough that no one will remember my name afterward. The hard no lives there, not in the moment with cameras."
 
 Eli opens his mouth to frame it — the crowd needs a symbol, the clinic needs
 cover — but Somchai answers before he speaks.
@@ -6595,9 +6593,7 @@ the clinic board with the nurse's name attached."
 
 Wren looks at him.
 
-Somchai does not look back. "I am not the person who heals on command. I am the
-person who says no in public when the cost is small enough that no one will
-remember my name afterward. That is the hard no, not the moment with cameras."
+Somchai does not look back. "I am not the person who heals on command. I am the person who says no in public when the cost is small enough that no one will remember my name afterward. The hard no lives there, not in the moment with cameras."
 
 Eli opens his mouth to frame it — the crowd needs a symbol, the clinic needs
 cover — but Somchai answers before he speaks.
@@ -14042,7 +14038,7 @@ Hostile field traffic is already gathering there.
 ## Chapter 18—One-Way Contact [PLACEHOLDER]
 [PLACEHOLDER]
 
-## Chapter 18—The Transmission Station [SPLIT-FROM: Ch 9]
+## Chapter 20—The Transmission Station [SPLIT-FROM: Ch 9]
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
 opening onto electrical cabinets, cleaning supplies, stacked crowd
 barriers, and a handwritten notice reminding contractors not to leave milk in
@@ -14755,7 +14751,7 @@ Wren's boots are caked with Albion mud. The route ledger in her pocket is damp a
 
 ---
 
-## Chapter 18—The Instrument Cap [SPLIT-FROM: Ch 9]
+## Chapter 21—The Instrument Cap [SPLIT-FROM: Ch 9]
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
 opening onto electrical cabinets, cleaning supplies, stacked crowd
 barriers, and a handwritten notice reminding contractors not to leave milk in
@@ -15455,7 +15451,7 @@ Wren's boots are caked with Albion mud. The route ledger in her pocket is damp a
 
 ---
 
-## Chapter 19—The Avebury Approach [SPLIT-FROM: Ch 9]
+## Chapter 22—The Avebury Approach [SPLIT-FROM: Ch 9]
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
 opening onto electrical cabinets, cleaning supplies, stacked crowd
 barriers, and a handwritten notice reminding contractors not to leave milk in
@@ -16158,7 +16154,7 @@ inside it.
 
 Then they go.
 
-## Chapter 20—Release [SPLIT-FROM: Ch 10]
+## Chapter 23—Release [SPLIT-FROM: Ch 10]
 The entrance is a painted metal door beside the service yard. It opens onto a corridor that smells of wet chalk and electrical ozone. The concrete underfoot is damp. The ceiling is low enough that Eli has to duck twice before he gets used to it.
 
 Behind him, the stones of the circle hold their breath. The perimeter fence is a hundred meters back, the visitor center another fifty beyond that. The ditch that once held water now holds only shadows. Somchai checks the lock with the keys Gareth gave him. The mechanism is simpler than the field lock—bolts, not rhythm.
@@ -16183,7 +16179,7 @@ Wren stands beside him. Somchai stands behind. Sora is in the doorway, watching 
 
 He reaches for the switch. Maren's hand covers his. Her palm is warm. Her grip is not.
 
-## Chapter 21—The Release Choice [SPLIT-FROM: Ch 10]
+## Chapter 24—The Release Choice [SPLIT-FROM: Ch 10]
 Eli pulls the switch.
 
 The sound is not what he expects. It is a single tone, rising through the chalk, through the cables, through Maren's implant and into the field. The console goes dark. The generator stutters. The lights in the corridor flicker once, twice, then hold.
@@ -16204,7 +16200,7 @@ Maren will not walk out healthy. Her left side is slow. Her right side answers a
 
 She closes her eyes. The blood continues. The corridor continues. The field continues without her, running wild through the stones.
 
-## Chapter 22—Aftermath and Book III Ignition [SPLIT-FROM: Ch 10]
+## Chapter 25—Aftermath and Book III Ignition [SPLIT-FROM: Ch 10]
 They surface at dawn. The service yard is empty. The visitor center is lit but silent. The ditch is full of water again, though nobody remembers opening the sluice.
 
 The apparatus is already upgrading itself. The lock at the entrance has changed its pattern. The cabinet by the door now shows a different sequence of lights. The field inside the corridor is thinner, but it is not gone; it has moved somewhere else, into the chalk, into the cables, into the groundwater.

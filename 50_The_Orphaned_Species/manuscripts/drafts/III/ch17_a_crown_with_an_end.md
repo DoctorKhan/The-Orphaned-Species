@@ -26,7 +26,7 @@ He writes three questions for himself, not for the record:
 
 1. What did each witness see that they chose not to say?
 2. What is missing from every file that was not missing by accident?
-3. If the Union's registry teams had predicted the attack, what would they have done differently?
+3. If the Union's registry teams had predicted the attack, what would they have done instead?
 
 The third question is the one that will open the hearing. Not by accusation. By invitation.
 
@@ -149,15 +149,3 @@ Jesse looks at him. "You are not in here," Jesse says.
 "I know," Eli says.
 
 He closes the door. He walks away. The door does not latch behind him.
-
-Matthew 18:15-20: where two or three gather in my name, there am I. The hearing room is the main room. The side room is the second room. The hearing proves accountability without exemption. The side room proves it again, with different chairs.
-
-The crown has ended.
-
-The judgment has not.
-
-Attain the utmost in non-action. All things arise and I watch them return. The hearing is the return. The crown is the action that ends. The judgment is the non-action that remains.
-
-The crowd is holding its breath. The wind is coming in from the harbor. The windows are open. The recorder is writing. The clock is ticking. Eli is sitting without Kit Three. His hands are empty. The third question is the one that will open the hearing. Not by accusation. By invitation.
-
-The same room. Different chairs. Same thesis. Two proofs.

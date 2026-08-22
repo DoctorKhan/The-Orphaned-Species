@@ -1,4 +1,4 @@
-## Chapter 1—The Hour That Belongs to No One [PLACEHOLDER]
+## Chapter 1—The Hour That Belongs to No One
 The skiff is flying.
 
 Eli leans out over the chop, one foot braced under the thwart, the sail pulling hard enough to make the rope sing in his fist. The red buoy off the storm wall is just the mark he rounds most mornings before the wind gets stupid with heat. Today he is out here because Suresh is watching from the wall, deciding whether to trust him with a Sunday berth, and the strait is emptiest at this hour. Spray cold against his shins. The channel wide open ahead.
@@ -3231,7 +3231,7 @@ It is enough to destroy the theory Eli brought into the room.
 
 Maren's field notebook is not a root system underlying every culture. It is one branch describing how she learned to look.
 
-Eli puts both palms flat on the table and feels again what the floor offered: not a trunk under the bronze, not a center asking to be occupied—pressure answering pressure late, the way the Thai rice answered itself, the way five traces refuse to become one. The word arrives last, after the body has already corrected him.
+Eli puts both palms flat on the table and feels again what the floor offered: pressure answering pressure late, the way the Thai rice answered itself, the way five traces refuse to become one. No trunk under the bronze. No center asking to be occupied. The word arrives last, after the body has already corrected him.
 
 Mesh. Not tree.
 

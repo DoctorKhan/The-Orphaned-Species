@@ -84,7 +84,7 @@ Rowan catches him watching anyway.
 
 "Unfortunate."
 
-Respect arrives wearing irritation, same as always. No one in the room mistakes it for courtship. No one has had reason to, in seven months, which is its own kind of proof.
+Respect arrives wearing irritation, same as always. No one in the room mistakes it for courtship. No one has had reason to, in seven months.
 
 ---
 
@@ -1658,6 +1658,8 @@ The joke does not erase the fear.
 
 It makes the room inhabitable.
 
+In the days that follow, Rowan finds herself pausing at doors she does not open. She eats standing up. She finishes sentences she was about to say and lets them go unspoken. Her mouth is still warm from his, and she will not spend that warmth on a hallway. The pressure has been building across the whole distance, door by door, meal by meal, until it has become the thing she carries into the next room.
+
 ---
 
 Rowan and Eli have sex four nights later.
@@ -1778,7 +1780,7 @@ Wren opens the change history.
 The scheduler acted under a household-continuity directive drafted before
 Rowan arrived.
 
-## Chapter 4—First Sex
+## Chapter 4—What We Build
 
 The room is small, the bed is narrow, and the walls are thin. They are careful with each other in the way people are careful when they have both been hurt and are not sure what counts as safe.
 
@@ -2327,7 +2329,7 @@ He withdraws his hand.
 
 The first fight over her possible child has arrived before the child exists.
 
-## Chapter 6—The Rumor: Leak and Celebration
+## Chapter 6—The Body of State
 
 The credential leak becomes public at a market gathering. The forty-seven people whose classifications were wrong show up at the registry office with their papers. Park processes them in one afternoon. She works through her lunch break and does not complain.
 
@@ -2974,7 +2976,7 @@ Nothing has yet been confirmed.
 
 The court has already begun using the word heir.
 
-## Chapter 8—The Body of State: False Refuge and Misnaming
+## Chapter 8—The False Heir
 
 The Compact's maternity ward is not ready. The midwife assigned to Rowan's care has been reassigned to a border clinic. The replacement is a nurse named Maren who has never delivered a baby in a room with this many windows.
 
@@ -2995,7 +2997,7 @@ Asha interviews Selin with her damaged hand visible.
 
 Not for sympathy.
 
-Because institutions behave differently when the cost of their survival sits at
+Because institutions behave differently when survival sits at the table.
 the table.
 
 The review room has one door, two public observers, and no Weaver guard.
@@ -3512,17 +3514,17 @@ rumor a category error.
 
 Rowan touches the place below her ribs. She does not smile. She does not weep.
 
-## Chapter 10—The Five Forms Week
+## Chapter 10—Before the First Breath
 
-Wren runs the Five Forms teaching for fourteen learners in a courtyard that is too small. The forms are psionic, not physical: attention, boundary, consent, refusal, and presence. She demonstrates each one. The learners copy her.
+Rowan feels the baby kick during a court session. She does not react. The kick is strong enough that Wren, sitting beside her, feels it through the arm of the chair. Wren does not look at her. Rowan does not look at Wren. The session continues.
 
-One learner, a boy of sixteen, refuses to do the presence form. He says, "I am already present."
+Afterward, in the corridor, Wren says, "That was a strong one."
 
-Wren says, "Then show me."
+Rowan says, "It has been quiet until today."
 
-He stands in the center of the courtyard and closes his eyes. The other learners watch. The silence lasts as long as it takes for the fountain to fill one basin. He opens his eyes and says, "I was present."
+Wren says, "It is getting ready."
 
-Wren nods. He stays.
+Rowan says, "So am I."
 
 ---
 
@@ -4093,7 +4095,7 @@ Not future population.
 One developing person whose existence has already altered work, fear, love, and
 law without consenting to symbolize any of them.
 
-## Chapter 12—The Nacre Audit
+## Chapter 12—The Five Forms Week
 
 Asha audits the Compact's nacre inventory and finds that three shipments from the coast have been rerouted to a Continuity warehouse without authorization. She traces the authorization to a Continuity officer who used a forged signature.
 
@@ -5868,29 +5870,16 @@ That evening, the learner walks home alone and hears the rhythm in her own steps
 ---
 
 ## Chapter 19—The False Heir Draft
-The registry office sends the draft at 09:14. The packet says Rowan's pregnancy
-has been entered into the succession record. The packet also says the entry
-carries no rank until the child reaches majority. The second line is Wren's
-compromise. She added it after the first draft came back with a succession rank
-attached to the date of conception.
 
-Wren sits across from Eli in the court anteroom. She is holding the draft. She
-is not reading it. She is looking at the line that says no rank until majority.
-She knows what it costs. She knows the pro-dynasty faction will call it weakness
-and the anti-dynasty faction will call it postponement. She knows Rowan will
-call it a leash with a long cord.
+The registry office sends the draft at 09:14. The packet says Rowan's pregnancy has been entered into the succession record. The packet also says the entry carries no rank until the child reaches majority. The second line is Wren's compromise. She added it after the first draft came back with a succession rank attached to the date of conception.
+
+Wren sits across from Eli in the court anteroom. She is holding the draft. She is not reading it. She is looking at the line that says no rank until majority. She knows what it costs. She knows the pro-dynasty faction will call it weakness and the anti-dynasty faction will call it postponement. She knows Rowan will call it a leash with a long cord.
 
 "It is better than the alternative," Wren says.
 
-"I know," Eli says. He is looking at the window. The window looks out on the
-courtyard. A wind is blowing. The trees are moving. "The alternative was rank
-now."
+"I know," Eli says. He is looking at the window. The window looks out on the courtyard. A wind is blowing. The trees are moving. "The alternative was rank now."
 
-"The alternative was rank now." Wren sets the draft on the table. She presses
-her palm flat against the paper. She is not angry. She is calculating. "The
-faction that wrote the first draft will leak the pregnancy to the broadcast
-channels. They will say the compact caved. They will say the heir is already
-named. They will say the court is a rubber stamp."
+"The alternative was rank now." Wren sets the draft on the table. She presses her palm flat against the paper. She is not angry. She is calculating. "The faction that wrote the first draft will leak the pregnancy to the broadcast channels. They will say the compact caved. They will say the heir is already named. They will say the court is a rubber stamp."
 
 "Let them say it."
 
@@ -5898,61 +5887,44 @@ named. They will say the court is a rubber stamp."
 
 She is right. Eli knows she is right. He says nothing.
 
-The leak happens three hours later. The broadcast says Rowan is carrying an heir
-and the compact has already accepted it. The broadcast does not mention the
-no-rank clause. The broadcast does not mention Wren's addition. The broadcast
-says the heir is already named.
+The leak happens three hours later. The broadcast says Rowan is carrying an heir and the compact has already accepted it. The broadcast does not mention the no-rank clause. The broadcast does not mention Wren's addition. The broadcast says the heir is already named.
 
-Rowan is in the clinic for a routine check. The nurse tells her. The nurse is
-not hostile. She is matter-of-fact. She says the channel is carrying it. She
-says the court is already drafting a celebration.
+Rowan is in the clinic for a routine check. The nurse tells her. The nurse is not hostile. She is matter-of-fact. She says the channel is carrying it. She says the court is already drafting a celebration.
 
-Rowan stands. She puts her coat on. She does not wait for the check. She walks
-to the door. The nurse calls after her. She does not answer.
+Rowan stands. She puts her coat on. She does not wait for the check. She walks to the door. The nurse calls after her. She does not answer.
 
-Eli meets her in the corridor. He is there because Wren sent him. He is there
-because Wren knew Rowan would leave the clinic and walk to the harbor and he is
-the only person she will let follow her.
+Eli meets her in the corridor. He is there because Wren sent him. He is there because Wren knew Rowan would leave the clinic and walk to the harbor and he is the only person she will let follow her.
 
-Rowan does not look at him. She looks at the floor. She is wearing boots that
-are too big for her feet. She bought them last week. She did not know she would
-need them this soon.
+Rowan does not look at him. She looks at the floor. She is wearing boots that are too big for her feet. She bought them last week. She did not know she would need them this soon.
 
 "Let them have it," Rowan says.
 
 "Let them have what?"
 
-"The pregnancy. The heir. The celebration. They can have all of it." She stops.
-She turns. She looks at him. Her face is not angry. It is something colder than
-anger. It is the face of a person who has already decided not to let the room
-dictate the terms of her body. "They cannot have the child."
+"The pregnancy. The heir. The celebration. They can have all of it." She stops. She turns. She looks at him. Her face is not angry. It is something colder than anger. It is the face of a person who has already decided not to let the room dictate the terms of her body. "They cannot have the child."
 
-Eli nods. He does not argue. He does not say he will protect her. He does not
-say he will stop the leak. He says, "Where do you want to go?"
+Eli nods. He does not argue. He does not say he will protect her. He does not say he will stop the leak. He says, "Where do you want to go?"
 
 Rowan looks at the harbor. The boats are moving. The water is gray. "Not here."
 
-They go to the field where Tesi teaches the work-song class. The field is not
-yet ready for planting. The learners are gone. Tesi is alone. She is turning
-soil with her hands. She looks up when Rowan and Eli arrive. She does not ask
-why they are there. She says, "The song changes."
+They go to the field where Tesi teaches the work-song class. The field is not yet ready for planting. The learners are gone. Tesi is alone. She is turning soil with her hands. She looks up when Rowan and Eli arrive. She does not ask why they are there. She says, "The song changes."
 
-Rowan stands at the edge of the field. She looks at the soil. She does not
-speak. She does not cry. She breathes.
+Rowan stands at the edge of the field. She looks at the soil. She does not speak. She does not cry. She breathes.
 
-Eli stands beside her. He does not touch her. He does not speak. He looks at
-the soil too.
+Eli stands beside her. He does not touch her. He does not speak. He looks at the soil too.
 
-The attack comes from both sides. The pro-dynasty faction says the compact is
-weak. The anti-dynasty faction says the compact is compromised. Wren receives
-both messages within ten minutes. She reads them in the anteroom. She sets them
-down. She looks at the draft on the table. She presses her palm flat against
-the paper.
+The attack comes from both sides. The pro-dynasty faction says the compact is weak. The anti-dynasty faction says the compact is compromised. Wren receives both messages within ten minutes. She reads them in the anteroom. She sets them down. She looks at the draft on the table. She presses her palm flat against the paper.
 
 The line still says no rank until majority. It is the only line that matters.
 
+Matthew 13:31-32: the kingdom of heaven is like a mustard seed, which a man took and planted in his field. The compromise is small. Both sides see it as either too small or too large.
+
+Tao 44: fame or integrity: which is more important? The court answers fame. Wren answers integrity.
+
+The compact survives the leak because the compromise was built to survive the leak. It was not built to be crowned. It was built to be reviewed.
 
 ## Chapter 20—The Hospital Conversation
+
 The room is small. It has a window that looks out on a courtyard with a fig
 tree. The fig tree is old. Its branches press against the glass. Rowan is
 sitting on the bed. She is wearing a coat that is too large for her. It was
@@ -6063,9 +6035,7 @@ should avoid long journeys. It says the doctor will see her in three days. She
 does not need the paper to know these things. She knows them in her body. The
 body is the record. The paper is only a copy.
 
-The leak is the cost of letting someone else hold the record. The cost of
-letting someone else speak for her body. She will pay it. She will not let the
-leak decide what happens next.
+The leak is what happens when someone else holds the record. When someone else speaks for her body. She will pay it. She will not let the leak decide what happens next.
 
 
 ## Chapter 21—The Continuity Extension File [SPLIT-FROM: Ch 11]
@@ -6143,7 +6113,123 @@ someone who expected nobody to read it.
 She puts the rusted paper clip on the desk. She turns it between her fingers.
 The rust comes off on her thumb. She does not wipe it.
 
-## Chapter 22—The Praetorian Demand [SPLIT-FROM: Ch 11]
+## Chapter 22—The Praetorian Demand
+
+The messenger arrives under the false names. He stands in the doorway of the master suite. The door is painted a color that is not black and not red. It is the color of dried blood. He is wearing a coat that is too long for him. The coat has a vinyl collar. He is not a courier. He is a courier's silhouette. He walks like someone who has been told not to be seen.
+
+Rowan opens the door. She is sitting on the edge of the bed. She is wearing a coat that is too large for her. She is holding a paper. She knows what the door is for. She knows the messenger by his walk. She opens it before he reaches the threshold.
+
+Eli is standing by the wall. He is not moving. He is reading. He turns when he hears the walker turn. He does not read the clip. He does not need to. He sees the messenger's hands. He sees the hands that have signaled pressure before. He sees the same shape brought to the hospital.
+
+He stands. He walks to Rowan. He stops. He says nothing. He knows the messenger has brought pressure. The giver knows. The giver knows the taker.
+
+The messenger waits. He steps inside. He sets the clip on the table. Rowan is sitting there. He looks at Rowan. He looks at Eli. He does not speak. He waits. He knows the giver likes silence. He knows the taker needs it.
+
+"Put the seat down," Eli says.
+
+The messenger sits. He does not look at Rowan. He looks at Eli. He says, "The court is waiting."
+
+"And you," Eli says. "What is your court waiting for?"
+
+The messenger closes his mouth. Eli waits. The messenger waits. The messenger reaches into his coat and takes out a document. He lays it on the table with the door. He does not offer it. He just puts it there.
+
+Eli does not touch it.
+
+"We are framing for Rowan," the messenger says. "For the child. For the successor. For the court. The court expects a birth."
+
+Rowan sits. She does not move. Her coat is on her lap. The coat is too large. The child is picked out by Eli. The messenger uses her coat. The coat has buttons. The buttons are too low. The messenger reaches for the buttons.
+
+Rowan stands. She walks beyond the door. She walks through the wall. The wall does not move. The wall holds the door. The messenger follows.
+
+"You seek a succession," Rowan says.
+
+"I seek a success," the messenger says.
+
+"Succession," Eli says. "The child is a birth. The birth is a birth. The birth is not a succession."
+
+The messenger shifts. He does not take his coat off. He says, "The court has the right to know the succession."
+
+"The court does not have the right," Eli says.
+
+"The court has the right to know the heir."
+
+"The court does not have the right to name the heir," Rowan says.
+
+"The heir is already named," the messenger says.
+
+Eli is standing. He is reading the clip he did not read. The clipper is writing numbers. Eli knows the numbers before he sees them. The numbers are signatures. The signatures are sources. The sources are rooms. The rooms are empty.
+
+Eli puts the clipper in his pocket. He does not touch the clip on the table. He looks at the messenger. He says, "Who asked the court?"
+
+The messenger looks at his coat. The coat is too long. The buttons are too low. The messenger says, "Eli does not control the court."
+
+"Eli has the right to be there," Rowan says.
+
+"The court does not have the right to the heir," Eli says.
+
+"The heir is the blood," the messenger says.
+
+"The heir is the choice," Rowan says.
+
+Eli is standing. He is leaning against the wall. The wall is the same color as the suit. It is the color of dried blood. He does not look at the messenger. He looks at the door. He picks up the clipper from the table. He lays it in his pocket. He walks to the door. He steps through.
+
+The messenger stands. He takes his coat off. The coat is too long. The buttons are too low. The messenger follows.
+
+"You seek to hold the birth room from becoming a coup," the messenger says.
+
+"I am not seeking," Eli says. "I am holding."
+
+"You are not holding," the messenger says. "You are choosing to hold."
+
+Eli walks to the exterior corridor. He walks to the security room. He walks to the terminal. He stops. He says, "Who tells the court?"
+
+The messenger says, "The court tells the heir."
+
+Eli walks to the terminal. He keys a code. The code is the birth room password. He opens the birth room. He does not enter. He opens a second door that locks the birth room from the service corridor. He picks up the clipper. He does not use it. He does not open the door.
+
+He exits. He walks to the exit. The messenger is not following. The messenger is standing by the messenger clipper and the door. The messenger is holding the clip. He is not pulling away. He is waiting.
+
+Eli walks past the messenger. Eli opens the outside door. Eli steps through. Eli closes the door. Eli does not turn back.
+
+Tao 31: weapons are the tools of violence; all decent men detest them. Eli uses them anyway, under slow-clock refusal.
+
+Luke 22:49-51: no more of this! The disciples offer violence. Jesus refuses. Eli refuses the permanent commander. The messenger leaves.
+
+The Caju bridge is a three-span steel box girder over a ravine. The span is sixty meters. The deck is cracked. The bridge is closed. The messenger walks across under a false name. The messenger walks to the west approach. The west approach is where Eli set up body height. The body count is named.
+
+Eli authorizes west approach lethal force. The body count is nineteen. The messenger's team loses eighteen. The messenger stops direct action. The messenger withdraws.
+
+Eli releases the terminal. He does not say why. He does not need to. He walks back to the room. He walks to the birth room. He knocks on the birth room door. He does not wait for an answer. He does not open the door. He hears the room. He hears the room breathing. He hears the room breathing normally. He hears the room breathing normally for the first time in days.
+
+He does not go in. He takes the clipper to the door. He opens the door. He walks in.
+
+Rowan is on the bed. The bed is narrow. The sheet is thin. The pillow has a stain on the case that no one has changed. Rowan does not look at Eli. She looks at the door. She says, "Did you authorize the lethal force?"
+
+Eli did not authorize the lethal force. Eli authorized the withdrawal. The messenger's team lost eighteen. The messenger stopped. Eli withdraws the attack. He does not authorize the lethal force. He authorizes the withdrawal.
+
+Eli says, "The terminal cleared. The messenger stopped. The birth room is held."
+
+Rowan looks at the door. She says, "The body count is named?"
+
+"Six," Eli says. "The messenger's team lost eighteen. The messenger's team lost six. The messenger is the one who stopped direct action."
+
+Eli turns. He looks at the bed. He looks at Rowan. He says, "You are not being besieged by a succession. You are being besieged by a transition from surrender to identity. The court will fill out the transition. You must not fill out that transition with me."
+
+Rowan does not answer. She breathes. The breath is slow. The breath is the only thing she has.
+
+Eli says, "Will you authorize me?"
+
+Eli says, "Eli has a minor son."
+
+The door is open. Eli should close it. Eli does not close it. He sits on the edge of the bed. He sits next to Rowan. He does not touch her. He does not speak. He breathes.
+
+The court will fill out the transition. The court wants a successor. The court wants a succession. The court wants an heir.
+
+Eli is not the child. Eli is the father. The child is a birth. The birth is a birth. The birth is not a succession.
+
+The bed is narrow. The sheet is thin. The pillow has a stain on the case that no one has changed. The breath is the only thing she has. The breath is the only thing Eli hears.
+
+## Chapter 23—The Labor Inversion
 
 The coast road junction is called Caju. It sits where the north corridor meets
 the harbor spur. If the spur closes, three clinics and a seed bank lose their
@@ -6312,11 +6398,82 @@ if the child is born healthy and the clinics open and the seed bank delivers.
 The compact is now also the thing it was built to refuse.
 
 ## Chapter 23—The Labor Inversion
-The classification board meets at 10:00. The agenda item is risk assignment for
-the coastal evacuation cohort. The cohort includes civilians, clinic staff,
-threshold-house members, and a repair crew. The board has three categories:
-low, medium, and high. Low receives shelter first. Medium receives shelter
-second. High receives shelter third.
+
+The birthing room is not a single room. It is a suite: a laboring room, a waiting room, a corridor, and a closet that someone has turned into a nursing station. The closet has a curtain that does not close all the way. The curtain is blue. The rod is bent.
+
+Rowan is in the laboring room. She is on her feet. She does not want to be on the bed. The bed is narrow. The sheet is thin. The pillow has a stain on the case that no one has changed. She has been walking the corridor for three hours. Her breath is steady. Her hands are open.
+
+The women officers arrive at shift change. There are six of them. They wear the same uniform. The uniform has a patch on the shoulder that says FIELD MEDICAL. The patch is stitched with thread that is fading.
+
+One of them is named Kira. She is thirty-two. She has delivered eleven children in the field. She does not introduce herself. She just looks at Rowan and says, "How far apart?"
+
+"Seven minutes," Rowan says.
+
+"Good."
+
+Kira checks the chart. The chart is a paper notebook. The pages are numbered. The ink is smudged. The last entry says the contraction started at 03:47. The time now is 04:12.
+
+The argument starts before the first officer finishes her assessment. The officer's name is Dara. She is twenty-eight. She has been in the field for two years. She says, "Pregnant women should not be in rotation. It is not safe. It is not fair. The assignment is supposed to be equal risk, not equal exposure."
+
+Rowan is leaning against the wall. She is breathing through a contraction. She does not look at Dara. She looks at the curtain. The curtain moves when the air moves.
+
+"I am not asking for exemption," Rowan says.
+
+"You are pregnant," Dara says.
+
+"I am working."
+
+"You are in labor."
+
+"I am in labor and I am working. The question is whether the assignment changes because I am in labor, not whether I should be here at all."
+
+Kira looks at Rowan. She looks at the chart. She looks at the corridor. "The clinic reports a shortage of saline," she says. "The field team is rotating in one hour. The replacement is late."
+
+"Then I stay," Rowan says.
+
+"You cannot stay," Dara says.
+
+"I can stay."
+
+"You are not a field officer."
+
+"I am a person who knows the route."
+
+The argument continues. The women take sides without raising their voices. Some say Rowan should go to the bed. Some say Rowan should leave the clinic entirely. Some say the clinic should not be the place where this argument happens. No one asks Rowan what she wants. They are too busy deciding what is safe for her.
+
+Rowan stops leaning against the wall. She stands in the middle of the corridor. She says, "I am not asking for your permission to be here. I am asking you to give me the same risk classification you give everyone else on this shift."
+
+"That is not how pregnancy works," Dara says.
+
+"That is exactly how pregnancy works," Rowan says. "The child is not a reason to make me a category. The child is a reason to make the assignment safer for everyone, not just for me."
+
+She says it calmly. She does not raise her voice. She does not gesture. She just says it. The corridor listens.
+
+The attending physician arrives. She is named Mina. She has been up all night. She is holding a chart. She is wearing a coat that is too big. She looks at Rowan. She looks at the women. She says, "What is the decision?"
+
+"We are deciding whether she stays," Dara says.
+
+Mina looks at Rowan. "What do you want?"
+
+"I want the same classification," Rowan says. "I want to stay until the replacement arrives. I want the saline to go to the ward, not to me. I want the assignment adjusted for the condition, not the person."
+
+Mina writes in the chart. She writes slowly. The pen scratches. "The condition is active labor. The assignment is a field rotation. The two do not cancel each other. The question is who decides the modification."
+
+She closes the chart. She looks at Rowan. "You decide."
+
+Rowan nods. She does not smile. She says, "Then I decide to stay."
+
+The physician reports the decision as a complication. The report goes to the court. The court receives it as a question. The question is whether a woman in active labor can hold equal risk classification. The answer is yes. The classification is granted. The saline goes to the ward. The replacement arrives on time.
+
+Rowan finishes the shift sitting on a crate in the corridor. She does not go to the bed. She does not leave the clinic. She holds the contraction with her breath. The women officers work around her. They do not touch her. They do not speak to her. They just work.
+
+Tao 76: The softest thing in the world overcomes the hardest thing in the world. Pregnancy as weakness is the Standard's read. Rowan inverts it.
+
+Genesis 3:16: your desire will be for your husband, and he will rule over you. The labor inversion refuses the ruling.
+
+The attending physician reports it as a complication. The court receives it as a question. The answer is yes. The classification is granted. The shift continues.
+
+## Chapter 24—The Sideways Four Seconds
 
 Rowan attends as the court's route liaison. She is seven months pregnant. She
 is wearing a coat that does not button. She sits in the back. She does not speak

@@ -5,25 +5,25 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 25
-- **Flagged chapters:** 16
-- **Total flag instances:** 26
+- **Chapters audited:** 26
+- **Flagged chapters:** 20
+- **Total flag instances:** 31
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 12 |
-| OPEN-LIGHT-ON-BODY | 6 |
+| SHORT-PARA-RUN | 17 |
+| OPEN-LIGHT-ON-BODY | 5 |
 | STACKED-EM-DASHES | 3 |
+| ABSTRACT-DISTANCE | 2 |
 | ABSTRACT-DENSE | 1 |
 | IDENTICAL-PARA-OPENING | 1 |
-| ABSTRACT-DISTANCE | 1 |
 | ECHO-CLOSER | 1 |
 | ABSTRACT-OVER-BODY | 1 |
 
 ## Chapter-level detail
 
-### ## Chapter 1—The Doors [PLACEHOLDER]
-- **Word count:** 7315
+### ## Chapter 1—The Doors
+- **Word count:** 7307
 - **Sentence count:** 788
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
@@ -36,14 +36,14 @@
 - **Sentence count:** 18
 - **Flags:** none
 
-### ## Chapter 3—Three Rooms [PLACEHOLDER]
-- **Word count:** 1512
-- **Sentence count:** 238
+### ## Chapter 3—Three Rooms
+- **Word count:** 1596
+- **Sentence count:** 244
 - **Flags:**
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
-### ## Chapter 4—First Sex
-- **Word count:** 130
+### ## Chapter 4—What We Build
+- **Word count:** 131
 - **Sentence count:** 12
 - **Flags:**
   - OPEN-LIGHT-ON-BODY
@@ -56,46 +56,45 @@
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
-### ## Chapter 6—The Rumor: Leak and Celebration
-- **Word count:** 126
+### ## Chapter 6—The Body of State
+- **Word count:** 125
 - **Sentence count:** 14
 - **Flags:** none
 
-### ## Chapter 7—The Two Houses [PLACEHOLDER]
-- **Word count:** 2952
+### ## Chapter 7—The Two Houses
+- **Word count:** 2951
 - **Sentence count:** 361
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
 
-### ## Chapter 8—The Body of State: False Refuge and Misnaming
-- **Word count:** 134
+### ## Chapter 8—The False Heir
+- **Word count:** 129
 - **Sentence count:** 13
 - **Flags:**
   - OPEN-LIGHT-ON-BODY
 
 ### ## Chapter 9—The Room Prepared [SPLIT-FROM: Ch 5]
-- **Word count:** 2081
-- **Sentence count:** 289
+- **Word count:** 2079
+- **Sentence count:** 290
 - **Flags:**
   - ECHO-CLOSER (1 hits)
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
-### ## Chapter 10—The Five Forms Week
-- **Word count:** 110
-- **Sentence count:** 13
-- **Flags:**
-  - OPEN-LIGHT-ON-BODY
+### ## Chapter 10—Before the First Breath
+- **Word count:** 96
+- **Sentence count:** 5
+- **Flags:** none
 
-### ## Chapter 11—The Stag Teacher [PLACEHOLDER]
-- **Word count:** 2312
+### ## Chapter 11—The Stag Teacher
+- **Word count:** 2311
 - **Sentence count:** 307
 - **Flags:**
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
-### ## Chapter 12—The Nacre Audit
-- **Word count:** 101
+### ## Chapter 12—The Five Forms Week
+- **Word count:** 102
 - **Sentence count:** 10
 - **Flags:**
   - OPEN-LIGHT-ON-BODY
@@ -111,8 +110,8 @@
 - **Sentence count:** 15
 - **Flags:** none
 
-### ## Chapter 15—The Recruitment Hearing [PLACEHOLDER]
-- **Word count:** 2801
+### ## Chapter 15—The Recruitment Hearing
+- **Word count:** 2800
 - **Sentence count:** 336
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
@@ -137,41 +136,52 @@
 - **Flags:**
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
-### ## Chapter 19—The False Heir Draft [PLACEHOLDER]
-- **Word count:** 7
-- **Sentence count:** 1
-- **Flags:** none
+### ## Chapter 19—The False Heir Draft
+- **Word count:** 804
+- **Sentence count:** 116
+- **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
-### ## Chapter 20—The Hospital Conversation [PLACEHOLDER]
-- **Word count:** 6
-- **Sentence count:** 1
-- **Flags:** none
+### ## Chapter 20—The Hospital Conversation
+- **Word count:** 948
+- **Sentence count:** 141
+- **Flags:**
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 21—The Continuity Extension File [SPLIT-FROM: Ch 11]
-- **Word count:** 24
-- **Sentence count:** 1
+- **Word count:** 662
+- **Sentence count:** 89
 - **Flags:** none
 
-### ## Chapter 22—The Praetorian Demand [SPLIT-FROM: Ch 11]
-- **Word count:** 1195
+### ## Chapter 22—The Praetorian Demand
+- **Word count:** 1446
+- **Sentence count:** 251
+- **Flags:**
+  - SHORT-PARA-RUN (7 run(s) of 3+ short paragraphs)
+
+### ## Chapter 23—The Labor Inversion
+- **Word count:** 1190
 - **Sentence count:** 136
 - **Flags:**
   - SHORT-PARA-RUN (6 run(s) of 3+ short paragraphs)
 
-### ## Chapter 23—The Labor Inversion [PLACEHOLDER]
-- **Word count:** 21
-- **Sentence count:** 1
-- **Flags:** none
+### ## Chapter 23—The Labor Inversion
+- **Word count:** 942
+- **Sentence count:** 149
+- **Flags:**
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 24—The Sideways Four Seconds [SPLIT-FROM: Ch 13]
-- **Word count:** 24
-- **Sentence count:** 1
+- **Word count:** 845
+- **Sentence count:** 123
 - **Flags:** none
 
-### ## Chapter 25—The Flight Departure [PLACEHOLDER]
-- **Word count:** 21
-- **Sentence count:** 1
-- **Flags:** none
+### ## Chapter 25—The Flight Departure
+- **Word count:** 697
+- **Sentence count:** 119
+- **Flags:**
+  - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
 
 ## Open items
 

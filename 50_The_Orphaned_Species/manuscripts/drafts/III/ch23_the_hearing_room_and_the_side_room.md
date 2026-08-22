@@ -1,4 +1,5 @@
 ## Chapter 23—The Hearing Room and the Side Room
+
 The main hall has a long table and twelve chairs. The recorder sits at the far end. Eli sits on the left. The house representative sits on the right. Between them are the witness, the clerk, and a clock that runs five minutes fast.
 
 The witness is a man from the gutter crew. He says he saw the patient enter the corridor. He says he saw Eli at the gate. He says he did not see a sponsor. He says the corridor was not cleared because the clearance came ten minutes after the patient passed.
@@ -46,9 +47,5 @@ Jesse looks at him. "You are not in here," Jesse says.
 "I know," Eli says.
 
 He closes the door. He walks away. The door does not latch behind him.
-
-Matthew 18:15-20: where two or three gather in my name, there am I. Two rooms, one thesis. The hearing proves accountability without exemption. The side room proves it again, with different chairs.
-
-The greatest work is done by those who do not seek to be great. Owen refuses the title. The compact is founded on refusal.
 
 The hearing ends. The side room continues. The door stays open.
