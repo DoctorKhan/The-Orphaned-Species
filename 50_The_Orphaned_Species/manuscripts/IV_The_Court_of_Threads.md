@@ -4097,13 +4097,17 @@ law without consenting to symbolize any of them.
 
 ## Chapter 12—The Five Forms Week
 
-Asha audits the Compact's nacre inventory and finds that three shipments from the coast have been rerouted to a Continuity warehouse without authorization. She traces the authorization to a Continuity officer who used a forged signature.
+Wren runs the Five Forms teaching for fourteen learners in a courtyard that is too small. The forms are Stag, Fox, Bear, Salmon, and Ox — animal-named practices borrowed from placing an animal beside a human problem. Every learner trains all five. In the scene, an elder examines a younger man's flight from a drone light without excusing the exposed post. Asha strikes PRIMARY FORM from the intake sheet; Owen refuses sorting; Rowan puts the portable record in the learner's own hands; a clinic Dyer writes bodily stop conditions.
 
-The officer is suspended. The nacre is returned. Asha writes a report that is twelve pages long. She sends it to Eli with a note: "This is the third time this quarter."
+In the afternoon, registry officials arrive. They want training records for every learner. They want to use the records for risk classification. Wren refuses. The officials argue that organized learners at scale are alarming. Wren argues that the forms hold no vote, endorse no candidate, and assign no labor or defense role. The officials leave with nothing.
 
-Eli reads the report at his desk. He does not look up when he finishes. He says, "Send it to the registry."
+One learner, a boy of sixteen, refuses to do the Salmon form. He says, "I am already swimming."
 
-Asha says, "I already did."
+Wren says, "Then show me."
+
+He stands in the center of the courtyard and closes his eyes. The other learners watch. The silence lasts as long as it takes for the fountain to fill one basin. He opens his eyes and says, "I was swimming."
+
+Wren nods. He stays.
 
 ---
 
