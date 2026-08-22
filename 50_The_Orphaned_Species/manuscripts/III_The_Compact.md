@@ -5703,7 +5703,49 @@ says out loud today.
 
 ---
 
-The first question is whether Eli caused Nia Okafor's death.
+Sora Vithan's seat in the second row stays empty. Nobody moves the chair to close the gap.
+
+Wren does not testify about her. There is no docket line for this particular debt: Sora was the one person left who could have told her the truth about Mira, and she died holding it instead. Wren sits through the first hour with that specific silence beside her, unlisted, costing more than anything she says out loud today.
+
+The first witness is the boy from the medical gate. He is seventeen. He has been on the gate for eleven hours. He is named Rico. He is the same Rico who started the shed fire. He is the same Rico who will stand at the gate when the woman dies. He is seventeen years old and he is already carrying the weight of something he cannot put down.
+
+He describes the gate. He describes the folding table. He describes the clipboard. He describes the medical kit. He describes the woman on the gurney. He describes the blanket. He describes the cup. He describes the child's toy.
+
+"She signed for him," Rico says. "She brought him across. She kept him whole."
+
+He says it in the hearing room. He says it with the recorder looking at him. He says it with the house representative looking at him. He says it with the chairman looking at him. He says it with the crowd looking at him. He says it the same way he said it to Wren. He says it the same way he said it to Eli. He does not perform grief. He does not perform innocence. He states the fact.
+
+The house representative asks whether Rico was instructed to say those words. Rico says no. He says Eli knelt. He says Eli asked the child's name. He says the child did not cry. He says the woman did not drink the water.
+
+The recorder writes. The pen scratches. The clock ticks five minutes ahead of the room.
+
+The next witness is Somchai Vichai. He is wearing a coat that is too thin. He has been traveling. He has not slept in a bed since the clinic. He stands without rushing. He walks to the table. He does not look at the long table. He looks at the space between the recorder and the house representative.
+
+The house representative asks him to describe what he saw.
+
+Somchai does not speak for a minute. He is breathing. His hands are open on the table. The recorder waits. The clock ticks five minutes fast.
+
+"I did not see," Somchai says. "I felt."
+
+He describes the weight. He says the body was heavier than it looked. He says the breath was shallow. He says the pulse was there and then not there. He says the signature on the paper was steady but the hand was shaking. He says the woman did not sign because she agreed. She signed because she was the one who had to carry the paper out of the room.
+
+"The paper is a receipt," Somchai says. "It is also a threat. It says who was responsible. It says who was in the room. It says who was left on the gurney."
+
+He pauses. He looks at Eli. He says, "She kept him whole. She brought him across. She signed for him. She died."
+
+The house representative looks at the paper. The paper says the signature is not the signature on the route letter. The paper says the corridor was not cleared. The paper says the intake form is not the route letter.
+
+Somchai does not answer the paper. He answers the house representative. He says the signature is the woman's. He says the woman signed for the child. He says the child was in the boat. He says the boat was at the dock. He says the boatman was asleep. He says the child was awake. He says the child was holding a toy. He says the toy was a small wooden horse. He says the horse had one leg missing.
+
+The house representative looks at the paper again. The paper does not mention the horse. The paper does not mention the child. The paper does not mention the boatman.
+
+Amara is still in the back row. She is still wearing the coat that was her sister's. She is still holding the paper bag. She has not emptied it. She has not left.
+
+Eli looks at her. He does not look away. He lets her see him see her. He does not try to make the bag uncrinkle. He does not offer his own version of the story.
+
+The hearing ends in forty-three minutes. The decision is reserved. The clock is reset.
+
+---
 
 "No," he says.
 
@@ -6662,57 +6704,10 @@ She reads the entry. She does not dispute it. She stands from the kitchen table,
 
 
 ## Chapter 23—The Hearing Room and the Side Room [SPLIT-FROM: Ch 8]
-The main hall has a long table and twelve chairs. The recorder sits at the far end.
-Eli sits on the left. The house representative sits on the right. Between them
-are the witness, the clerk, and a clock that runs five minutes fast.
-
-The witness is a man from the gutter crew. He says he saw the patient enter the
-corridor. He says he saw Eli at the gate. He says he did not see a sponsor. He
-says the corridor was not cleared because the clearance came ten minutes after
-the patient passed.
-
-The recorder writes. The pen scratches. The clock ticks five minutes ahead of
-the room.
-
-Eli does not ask the witness questions. He does not need to. The house
-representative will ask the questions that make the witness look unreliable, and
-Eli will sit quietly while the story rearranges itself into something the
-committee can file.
-
-Amara Okafor is in the back row. She is not a witness. She is not a committee
-member. She is there because the room is open and she has nowhere else to sit.
-She is wearing a coat that is too large for her. It was her sister's. It still
-smells like the river.
-
-When the house representative names the charge, Amara's hands close. She is
-holding a paper bag. The bag crinkles. She does not open it. She does not throw
-it. She just holds it tighter.
-
-Eli sees her. He does not look away. He lets her see him see her. He does not
-try to make the bag uncrinkle. He does not offer his own version of the story.
-
-The hearing ends in forty-three minutes. The decision is reserved. The clock is
-reset.
 
 Down the hall, in a side room with a leaking roof and no furniture except a
 table someone carried in from the kitchen, Owen Price, Malik Foster, Callum
 Reyes, and four other men are founding something.
-
-The room is storage. The roof leaks when it rains. The walls are bare. The door
-does not close properly. Malik says they should find a better room. Owen says
-they should fix this one first.
-
-They fix the roof. It takes two hours. They use tar and scrap wood. The leak
-slows. It does not stop. They agree to come back tomorrow. They also agree that
-tomorrow they will bring tools.
-
-The witness is a man from the gutter crew. He says he saw the patient enter the corridor. He says he saw Eli at the gate. He says he did not see a sponsor. He says the corridor was not cleared because the clearance came ten minutes after the patient passed.
-
-The recorder writes. The pen scratches. The clock ticks five minutes ahead of the room.
-
-Eli does not ask the witness questions. He does not need to. The house representative will ask the questions that make the witness look unreliable, and Eli will sit quietly while the story rearranges itself into something the committee can file.
-
-Amara Okafor is in the back row. She is not a witness. She is not a committee member. She is there because the room is open and she has nowhere else to sit. She is wearing a coat that is too large for her. It was her sister's. It still smells like the river.
 
 When the house representative names the charge, Amara's hands close. She is holding a paper bag. The bag crinkles. She does not open it. She does not throw it. She just holds it tighter.
 
