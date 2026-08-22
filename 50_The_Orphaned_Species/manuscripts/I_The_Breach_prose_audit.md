@@ -7,30 +7,32 @@
 ## Summary
 - **Chapters audited:** 25
 - **Flagged chapters:** 24
-- **Total flag instances:** 66
+- **Total flag instances:** 82
 
 | Flag | Chapters |
 |---|---|
 | SHORT-PARA-RUN | 24 |
 | STACKED-EM-DASHES | 22 |
+| ABSTRACT-DISTANCE | 14 |
 | NOT-X-BUT-Y | 8 |
 | TIDY-COMPARISON | 6 |
 | IDENTICAL-PARA-OPENING | 2 |
 | ECHO-CLOSER | 2 |
 | TELL-NOT-SHOW | 2 |
+| PARALLEL-ABSTRACTION | 2 |
 
 ## Chapter-level detail
 
 ### ## Chapter 1—The Hour That Belongs to No One [PLACEHOLDER]
-- **Word count:** 5538
-- **Sentence count:** 513
+- **Word count:** 5566
+- **Sentence count:** 519
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
   - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 2—Saturday Departure [SPLIT-FROM: Ch 1]
-- **Word count:** 5535
-- **Sentence count:** 513
+- **Word count:** 5563
+- **Sentence count:** 519
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
   - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
@@ -41,6 +43,7 @@
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (3 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
@@ -50,6 +53,7 @@
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (3 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
@@ -60,6 +64,7 @@
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (6 hits)
   - ECHO-CLOSER (1 hits)
+  - ABSTRACT-DISTANCE (2 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 6—Breach Recovery [SPLIT-FROM: Ch 3]
@@ -69,18 +74,21 @@
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (6 hits)
   - ECHO-CLOSER (1 hits)
+  - ABSTRACT-DISTANCE (2 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 7—The Passage [PLACEHOLDER]
 - **Word count:** 2064
 - **Sentence count:** 179
 - **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 8—Departure and Wat [PLACEHOLDER]
 - **Word count:** 2065
 - **Sentence count:** 179
 - **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 9—The Field That Counts [SPLIT-FROM: Ch 5]
@@ -89,6 +97,7 @@
 - **Flags:**
   - NOT-X-BUT-Y (4 hits)
   - STACKED-EM-DASHES (6 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 10—Grounding Arrival [SPLIT-FROM: Ch 5]
@@ -97,6 +106,7 @@
 - **Flags:**
   - NOT-X-BUT-Y (4 hits)
   - STACKED-EM-DASHES (6 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 11—Midpoint: First Witness [PLACEHOLDER]
@@ -104,6 +114,7 @@
 - **Sentence count:** 116
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 12—Witness Ground [PLACEHOLDER]
@@ -111,6 +122,7 @@
 - **Sentence count:** 116
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 13—The Forming Line [SPLIT-FROM: Ch 7]
@@ -120,6 +132,7 @@
   - NOT-X-BUT-Y (1 hits)
   - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (8 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 14—The Cooperative Edge [SPLIT-FROM: Ch 7]
@@ -129,6 +142,7 @@
   - NOT-X-BUT-Y (1 hits)
   - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (8 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 15—Ila's Hands [PLACEHOLDER]
@@ -151,6 +165,7 @@
 - **Flags:**
   - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (6 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 18—Civilian Response [SPLIT-FROM: Ch 9]
@@ -159,6 +174,7 @@
 - **Flags:**
   - TIDY-COMPARISON (1 hits)
   - STACKED-EM-DASHES (6 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 19—People Over Evidence [PLACEHOLDER]
@@ -181,6 +197,7 @@
 - **Flags:**
   - STACKED-EM-DASHES (5 hits)
   - TELL-NOT-SHOW (1 hits)
+  - PARALLEL-ABSTRACTION (1 hits)
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 22—The Laos Border [SPLIT-FROM: Ch 11]
@@ -189,6 +206,7 @@
 - **Flags:**
   - STACKED-EM-DASHES (5 hits)
   - TELL-NOT-SHOW (1 hits)
+  - PARALLEL-ABSTRACTION (1 hits)
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 23—The Tree with No Top [PLACEHOLDER]

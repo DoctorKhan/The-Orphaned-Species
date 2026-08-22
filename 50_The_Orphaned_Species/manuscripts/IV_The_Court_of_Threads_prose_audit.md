@@ -7,12 +7,13 @@
 ## Summary
 - **Chapters audited:** 25
 - **Flagged chapters:** 18
-- **Total flag instances:** 36
+- **Total flag instances:** 40
 
 | Flag | Chapters |
 |---|---|
 | SHORT-PARA-RUN | 18 |
 | STACKED-EM-DASHES | 6 |
+| ABSTRACT-DISTANCE | 4 |
 | ABSTRACT-DENSE | 2 |
 | IDENTICAL-PARA-OPENING | 2 |
 | OPEN-LIGHT-ON-BODY | 2 |
@@ -27,6 +28,7 @@
 - **Sentence count:** 791
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
+  - ABSTRACT-DISTANCE (2 hits)
   - ABSTRACT-DENSE (44 abstract terms, 187 body terms)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (2 run(s) of 3+ same-shape openings)
@@ -36,6 +38,7 @@
 - **Sentence count:** 791
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
+  - ABSTRACT-DISTANCE (2 hits)
   - ABSTRACT-DENSE (44 abstract terms, 188 body terms)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (2 run(s) of 3+ same-shape openings)
@@ -72,12 +75,14 @@
 - **Word count:** 2952
 - **Sentence count:** 361
 - **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 8—The False Heir [PLACEHOLDER]
 - **Word count:** 2952
 - **Sentence count:** 361
 - **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 9—The Room Prepared [SPLIT-FROM: Ch 5]

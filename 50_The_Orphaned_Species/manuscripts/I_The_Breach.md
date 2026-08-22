@@ -183,7 +183,10 @@ She turns the photograph another inch face-down, as if that settles something, b
 
 "Didn't come back from where."
 
-"I never asked where. They came after dinner with two bags and said one night. I believed them because it was easier. The harbor office is asking about old families again. You take Suresh's boat tomorrow night. Whatever that costs."
+She turns the photograph face-down. The white edge catches the terrace light.
+"I told you what a child could carry. I don't know whether I was right. I only know I couldn't give you the rest then."
+Her hand rests on the table, not reaching for him.
+"The harbor office is asking about old families again. You take Suresh's boat tomorrow night. Whatever that costs."
 
 "They left me here."
 
@@ -195,7 +198,7 @@ His canvas bag had been under Mei's chair. The two larger bags stood at Rasel's 
 
 Mei looks at the photograph, not at him. "Dead. Both of them."
 
-It has a stamp and a date and his parents' names under it, and he can't get his hands around any of it at once.
+He holds the paper. The stamp is wet. The date is before he was born, or close enough. His parents' names take up less space than his own.
 
 "Nobody saw it happen," he says. Not quite a question.
 
@@ -507,7 +510,10 @@ She turns the photograph another inch face-down, as if that settles something, b
 
 "Didn't come back from where."
 
-"I never asked where. They came after dinner with two bags and said one night. I believed them because it was easier. The harbor office is asking about old families again. You take Suresh's boat tomorrow night. Whatever that costs."
+She turns the photograph face-down. The white edge catches the terrace light.
+"I told you what a child could carry. I don't know whether I was right. I only know I couldn't give you the rest then."
+Her hand rests on the table, not reaching for him.
+"The harbor office is asking about old families again. You take Suresh's boat tomorrow night. Whatever that costs."
 
 "They left me here."
 
@@ -519,7 +525,7 @@ His canvas bag had been under Mei's chair. The two larger bags stood at Rasel's 
 
 Mei looks at the photograph, not at him. "Dead. Both of them."
 
-It has a stamp and a date and his parents' names under it, and he can't get his hands around any of it at once.
+He holds the paper. The stamp is wet. The date is before he was born, or close enough. His parents' names take up less space than his own.
 
 "Nobody saw it happen," he says. Not quite a question.
 

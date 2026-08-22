@@ -7,12 +7,13 @@
 ## Summary
 - **Chapters audited:** 25
 - **Flagged chapters:** 22
-- **Total flag instances:** 57
+- **Total flag instances:** 69
 
 | Flag | Chapters |
 |---|---|
 | SHORT-PARA-RUN | 22 |
 | NOT-X-BUT-Y | 14 |
+| ABSTRACT-DISTANCE | 12 |
 | STACKED-EM-DASHES | 10 |
 | ABSTRACT-DENSE | 8 |
 | ABSTRACT-OVER-BODY | 3 |
@@ -97,18 +98,21 @@
 - **Word count:** 3706
 - **Sentence count:** 532
 - **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 12—The Changing Map [SPLIT-FROM: Ch 6]
 - **Word count:** 3705
 - **Sentence count:** 532
 - **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 13—The Broken-Line Church [SPLIT-FROM: Ch 6]
 - **Word count:** 3705
 - **Sentence count:** 532
 - **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 14—The Stray Settlement [SPLIT-FROM: Ch 6]
@@ -117,6 +121,7 @@
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (4 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-DENSE (24 abstract terms, 184 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
@@ -126,6 +131,7 @@
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (4 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-DENSE (24 abstract terms, 184 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
@@ -135,6 +141,7 @@
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (4 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-DENSE (24 abstract terms, 184 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
@@ -143,6 +150,7 @@
 - **Sentence count:** 299
 - **Flags:**
   - STACKED-EM-DASHES (3 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
@@ -151,6 +159,7 @@
 - **Sentence count:** 299
 - **Flags:**
   - STACKED-EM-DASHES (3 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
@@ -159,6 +168,7 @@
 - **Sentence count:** 299
 - **Flags:**
   - STACKED-EM-DASHES (3 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
@@ -167,6 +177,7 @@
 - **Sentence count:** 436
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-DENSE (22 abstract terms, 117 body terms)
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
@@ -175,6 +186,7 @@
 - **Sentence count:** 436
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-DENSE (22 abstract terms, 117 body terms)
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
@@ -183,6 +195,7 @@
 - **Sentence count:** 436
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - ABSTRACT-DENSE (22 abstract terms, 117 body terms)
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 

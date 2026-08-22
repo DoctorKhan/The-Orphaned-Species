@@ -64,6 +64,32 @@ TIDY_COMPARISON = re.compile(r"(?:the way|like)[^.\n]{0,40}(?:the way|like)", re
 STACKED_EM_DASHES = re.compile(r"[^.!?\n]*—[^.!?\n]*—[^.!?\n]*")
 COLON_HEAVY = re.compile(r":[^:\n]{0,40}:[^:\n]{0,40}:")
 
+# Parallel-abstraction chains: 3+ noun phrases joined by "and" in a single
+# breath, typically with the same determiner shape. This pattern is meant to
+# flag generic list-driven prose; it intentionally avoids matched pairs like
+# "he said and she said" by requiring 3+ phrases in one run.
+PARALLEL_ABSTRACTION = re.compile(
+    r"\b(?:the|a|an|his|her|their)\s+[a-z]+(?:\s+[a-z]+)?\b(?:\s+and\s+(?:the|a|an|his|her|their)\s+[a-z]+(?:\s+[a-z]+)?){2,}",
+    re.IGNORECASE,
+)
+
+# Clichéd metaphor register that tells the reader how to feel instead of showing
+# the body in the moment.
+CLICHED_METAPHOR = re.compile(
+    r"\b(?:get\s+(?:his|her|their)\s+hands?\s+around|couldn't\s+(?:get|grasp)|"
+    r"at\s+a\s+loss\s+for\s+words|in\s+the\s+blink\s+of\s+an\s+eye|"
+    r"heart\s+(?:skipped|sank|leapt)|head\s+(?:spun|swam|whirled)|"
+    r"world\s+(?:spun|stopped|crumbled|shattered)|stomach\s+(?:dropped|churned|knotted))\b",
+    re.IGNORECASE,
+)
+
+# Abstract-distance markers: vague quantifiers used as the object of an emotion
+# verb without a concrete referent.
+ABSTRACT_DISTANCE = re.compile(
+    r"\b(?:any|all|the\s+whole|some)\s+of\s+it\b",
+    re.IGNORECASE,
+)
+
 TELL_NOT_SHOW = re.compile(
     r"\b(?:which\s+meant|in\s+other\s+words|that\s+is\s+to\s+say|in\s+effect|in\s+fact|in\s+reality|in\s+essence|really|actually|basically|essentially)\b",
     re.IGNORECASE,
@@ -206,6 +232,18 @@ def audit_chapter(title: str, body: str, lines: list[str]) -> dict:
     tell_not_show = TELL_NOT_SHOW.findall(text)
     if tell_not_show:
         flags.append(f"TELL-NOT-SHOW ({len(tell_not_show)} hits)")
+
+    parallel_abstraction = PARALLEL_ABSTRACTION.findall(text)
+    if parallel_abstraction:
+        flags.append(f"PARALLEL-ABSTRACTION ({len(parallel_abstraction)} hits)")
+
+    cliched_metaphor = CLICHED_METAPHOR.findall(text)
+    if cliched_metaphor:
+        flags.append(f"CLICHED-METAPHOR ({len(cliched_metaphor)} hits)")
+
+    abstract_distance = ABSTRACT_DISTANCE.findall(text)
+    if abstract_distance:
+        flags.append(f"ABSTRACT-DISTANCE ({len(abstract_distance)} hits)")
 
     # Abstract/body balance
     abstract_total = len(ABSTRACT_TERMS.findall(text))

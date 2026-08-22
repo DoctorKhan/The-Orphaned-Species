@@ -7,7 +7,7 @@
 ## Summary
 - **Chapters audited:** 25
 - **Flagged chapters:** 18
-- **Total flag instances:** 60
+- **Total flag instances:** 64
 
 | Flag | Chapters |
 |---|---|
@@ -16,6 +16,7 @@
 | ABSTRACT-DENSE | 10 |
 | ECHO-CLOSER | 6 |
 | STACKED-EM-DASHES | 4 |
+| ABSTRACT-DISTANCE | 4 |
 | OPEN-LIGHT-ON-BODY | 4 |
 | TELL-NOT-SHOW | 2 |
 | ABSTRACT-OVER-BODY | 2 |
@@ -90,6 +91,7 @@
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (5 hits)
   - ECHO-CLOSER (1 hits)
+  - ABSTRACT-DISTANCE (2 hits)
   - ABSTRACT-DENSE (26 abstract terms, 85 body terms)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
@@ -101,6 +103,7 @@
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (5 hits)
   - ECHO-CLOSER (1 hits)
+  - ABSTRACT-DISTANCE (2 hits)
   - ABSTRACT-DENSE (26 abstract terms, 85 body terms)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
@@ -148,6 +151,7 @@
 - **Sentence count:** 496
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
@@ -156,6 +160,7 @@
 - **Sentence count:** 496
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
+  - ABSTRACT-DISTANCE (1 hits)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
