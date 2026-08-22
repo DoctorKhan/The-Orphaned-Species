@@ -6702,6 +6702,18 @@ The main hall has a long table and twelve chairs. The recorder sits at the far e
 Eli sits on the left. The house representative sits on the right. Between them
 are the witness, the clerk, and a clock that runs five minutes fast.
 
+The room smells like old paper and floor wax. The wind is coming in from the
+harbor. The windows are open. The crowd is holding its breath.
+
+Sora Vithan's seat in the second row stays empty. Nobody moves the chair to
+close the gap.
+
+Wren does not testify about her. There is no docket line for this particular
+debt: Sora was the one person left who could have told her the truth about
+Mira, and she died holding it instead. Wren sits through the first hour with
+that specific silence beside her, unlisted, costing more than anything she says
+out loud today.
+
 The witness is a man from the gutter crew. He says he saw the patient enter the corridor. He says he saw Eli at the gate. He says he did not see a sponsor. He says the corridor was not cleared because the clearance came ten minutes after the patient passed.
 
 The recorder writes. The pen scratches. The clock ticks five minutes ahead of the room.
@@ -6715,18 +6727,6 @@ When the house representative names the charge, Amara's hands close. She is hold
 Eli sees her. He does not look away. He lets her see him see her. He does not try to make the bag uncrinkle. He does not offer his own version of the story.
 
 The hearing ends in forty-three minutes. The decision is reserved. The clock is reset.
-
-The room smells like old paper and floor wax. The wind is coming in from the
-harbor. The windows are open. The crowd is holding its breath.
-
-Sora Vithan's seat in the second row stays empty. Nobody moves the chair to
-close the gap.
-
-Wren does not testify about her. There is no docket line for this particular
-debt: Sora was the one person left who could have told her the truth about
-Mira, and she died holding it instead. Wren sits through the first hour with
-that specific silence beside her, unlisted, costing more than anything she says
-out loud today.
 
 Down the hall, in a side room with a leaking roof and no furniture except a
 table someone carried in from the kitchen, Owen Price, Malik Foster, Callum
