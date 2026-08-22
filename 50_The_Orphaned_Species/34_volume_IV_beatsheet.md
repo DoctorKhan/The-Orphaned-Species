@@ -721,35 +721,51 @@
 
  ---
 
- ## Chapter Mapping — Old Spine (10) → Expanded Spine (25)
+ ## Chapter Mapping — Expanded Spine (25) → Governing Spine (`60`)
 
- > **MAPPING — PLACEHOLDER:** The fifteen expanded chapters below subsume the
- > superseded ten-chapter spine. Old chapters are preserved above for lock
- > continuity; new chapters are the active planning structure.
+ > **MAPPING — LIVE:** The fifteen expanded chapters below (Ch 11–25) plus the
+ > ten governing chapters (Ch 1–10 from `60_volume_IV_court_of_threads.md` § 9)
+ > form the full 25-chapter Book IV spine. The superseded ten-chapter spine
+ > preserved above (§ *ACT I — The Working Stretch*, chapters marked
+ > SUPERSEDED 2026-08-07–09) is retained only for lock continuity; do not draft
+ > or audit against it. The governing chapter-by-chapter architecture is `60` § 9.
 
- | New Chapter | Title | Maps To Old Chapter |
- |---|---|---|
- | 11 | The Doors: Wren's Credentials | Old Ch 1 |
- | 12 | The Doors: Hollow Year Inquiry | Old Ch 1 |
- | 13 | Present Consent: The Western Attestation | Old Ch 2 |
- | 14 | Present Consent: First Sex | Old Ch 2 |
- | 15 | Three Rooms: Bond Ranking | Old Ch 3 |
- | 16 | Three Rooms: Rules and Leak | Old Ch 3 |
- | 17 | What We Build: Motherhood Decision | Old Ch 4 |
- | 18 | What We Build: Eruption and Costa Rica | Old Ch 4 |
- | 19 | The Rumor: Wren's Audit | Old Ch 5 |
- | 20 | The Rumor: Leak and Celebration | Old Ch 5 |
- | 21 | The Body of State: Body Adaptation | Old Ch 6 |
- | 22 | The Body of State: False Refuge and Misnaming | Old Ch 6 |
- | 23 | The Two Houses: The Games | Old Ch 7 |
- | 24 | The Two Houses: Five Forms and Settlement | Old Ch 7 |
- | 25 | The False Heir: Pro-Dynasty Push | Old Ch 8–10 |
+ | Ch | Governing Title (`60` § 9) | Lens | Maps To (old spine, for reference only) |
+ |---|---|---|---|
+ | 1 | The Doors | Wren | Old Ch 1 |
+ | 2 | Present Consent | Rowan | Old Ch 2 |
+ | 3 | Three Rooms | Wren | Old Ch 3 |
+ | 4 | What We Build | Rowan | Old Ch 4 |
+ | 5 | The Rumor | Asha → Wren | Old Ch 5 |
+ | 6 | The Body of State | Rowan | Old Ch 6 |
+ | 7 | The Two Houses | Wren | Old Ch 7 |
+ | 8 | The False Heir | Rowan | Old Ch 8 |
+ | 9 | The Room Prepared | Wren | Old Ch 9 |
+ | 10 | Before the First Breath | Rowan + Wren coda | Old Ch 10 |
+ | 11 | The Stag Teacher | Eli | Old Ch 1 (split) |
+ | 12 | The Five Forms Week | Wren | Old Ch 1 (split) |
+ | 13 | The Nacre Audit | Asha | Old Ch 2 (split) |
+ | 14 | The Cloister Risk Score | Malik | Old Ch 2 (split) |
+ | 15 | The Recruitment Hearing | Ren | Old Ch 3 (split) |
+ | 16 | The Ilyara Boundary | Selin | Old Ch 3 (split) |
+ | 17 | The Southern Canopy | Rowan | Old Ch 4 (split) |
+ | 18 | The Work-Song Class | adolescent learner, grower | Old Ch 4 (split) |
+ | 19 | The False Heir Draft | Wren, Rowan, Eli | Old Ch 5 (split) |
+ | 20 | The Hospital Conversation | Rowan, Eli | Old Ch 5 (split) |
+ | 21 | The Continuity Extension File | Asha, Continuity officer | Old Ch 6 (split) |
+ | 22 | The Praetorian Demand | Eli | Old Ch 6 (split) |
+ | 23 | The Labor Inversion | Rowan, women officers | Old Ch 7 (split) |
+ | 24 | The Sideways Four Seconds | Somchai | Old Ch 7 (split) |
+ | 25 | The Flight Departure | Somchai, apprentices | Old Ch 8–10 (climax arc) |
 
- > **Note:** Old Ch 9 (*The Birth and the Second Relinquishment*) and Old Ch 10
- > (*The Birds at Morning*) are folded into the climax arc beginning at New Ch
- > 25. The full birth, transfer, and coda material is governed by `60_volume_IV_court_of_threads.md`
- > § *Chapters 9–10* and will be subdivided in the next expansion pass. The
- > governing ten-chapter spine in `60` remains authoritative.
+ > **Note:** The old spine's Ch 9 (*The Birth and the Second Relinquishment*) and
+ > Ch 10 (*The Birds at Morning*) are superseded. Their content is now distributed
+ > across `60` § 9's Ch 9 (*The Room Prepared*), Ch 10 (*Before the First Breath*),
+ > and the climax arc Ch 21–25. The old finale (Costa Rica return, Eagle–Condor
+ > landing) was retired 2026-08-07; the governing coda closes at the mountain
+ > teahouse settlement with mountain swifts, not Eagle and Condor. All birth,
+ > transfer, and coda material is governed by `60_volume_IV_court_of_threads.md`
+ > § 9 *Chapters 9–10* and § *Chapter 25 — The Flight Departure*.
 
  ---
 

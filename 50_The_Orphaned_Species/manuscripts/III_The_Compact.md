@@ -5533,55 +5533,52 @@ Eli says, "I know."
 
 
 ## Chapter 15—The Signing and the Shed Fire
-The distant Pacific corridor begins failing on the fourteenth day.
 
-Sol's coalition has synchronized hundreds of awakened volunteers into one
-defensive field. It works. Mandate drones lose targeting. Union registry teams
-cannot isolate individuals. Refugee vessels cross beneath the coherence.
+The signing room is a converted storage bay with a table long enough to seat eighteen and a window that looks out on the harbor at low tide. The paper is already damp at the corners. Sol sits opposite Eli. She does not smile. She reads the consent clause aloud before signing, stopping at the third paragraph.
 
-Then the volunteers discover leaving weakens everyone who remains.
+"That's the part that matters," she says.
 
-Sol calls departure betrayal.
+She signs. The pen leaks. The ink runs down the page toward Wren's signature line. Wren watches the run but does not stop it.
 
-The field becomes a people with no exit.
+Outside, the ceremony platform is being dismantled. Supporters have already begun gathering for a gratitude service. The rain that was forecast for afternoon arrives early. It hits the corrugated roof of the equipment shed with a sound like coins being poured onto a table.
 
-Compact communities hold three smaller corridors nearby. Their volunteers can
-leave. Their signals are weaker. One route collapses under attack.
+The shed holds the cooking equipment, the ground-fault detectors, and the spare hull plates Bima ordered three weeks ago. A volunteer named Jono is heating water for tea when the fire starts. The burner is too close to a stack of treated canvas. The canvas catches. Jono steps back. The burner tips. The flame runs across the floor faster than anyone can put it out.
 
-The collapse spends a conductor. On the windward slope a stone alignment that
-has hummed under Malia's night checks since they arrived goes quiet between
-one breath and the next. The taro in the adjacent terrace lies down as if a
-hand had passed over it. Eli feels the hum cut out in his teeth. No one has
-a name for the alignment that is not a grower's name. The name does not
-matter. The ground has been billed.
+The shed is fully involved before the fire bell rings.
 
-Hawaiʻi is asked for its harbor, its communications, and every compatible
-awakened person.
+Eli hears the bell. He is in the signing room. He stands. Sol stands. Wren stands. They walk outside together. The rain has stopped. The fire has found the hull plates. The plates are dry and coated in sealant. They burn clean and hot. The heat buckles the storage bay's metal door.
 
-The council refuses the harbor.
+Mina is already there. She has Arman by the arm. He is trying to reach the water tank. His hands shake too badly to hold the hose. Mina does not let him go. She holds him until the volunteer brigade gets the blaze under control.
 
-It offers medical receiving, repair, and an opted-in field team.
+The shed is gone. The hull plates are warped. The ground-fault detectors are fused into slag. The cooking equipment is unrecognizable. The canvas is ash.
 
-Eli must send a crew to hold the exposed junction long enough for civilian
-boats to clear.
+Sol surveys the damage without expression. She says, "The compact is signed. The fire is a fire."
 
-Bima volunteers.
+Eli says, "The hull plates were for the corridor crew."
 
-So do twenty-three men and eleven women.
+"I know."
 
-Eli watches the sign-up room.
+The volunteer who started the fire stands beside Jono. He is eighteen. His name is Rico. He is the same Rico who will man the medical gate three days later. He does not say anything. He watches the shed burn down to its anchors.
 
-The women compare qualifications.
+Wren writes the loss in the compact ledger. She does not assign blame. She writes: equipment destroyed, no injuries, cause under review. The review will not find a cause worth naming.
 
-The men look at one another first.
+That evening, Eli finds Mei in the kitchen. She is wiping the table. The cloth is damp. The table is scarred. She does not look up.
 
-Not all. Enough.
+"Bima's crew takes the exposed junction tomorrow," Eli says.
 
-Arman, still unable to hold a cup steady, tries to sign.
+"I know."
 
-Mina stops him on medical grounds.
+"He asked for you to come with."
 
-"Convenient," he says.
+Mei stops wiping. She sets the cloth down. She folds it along the existing creases. "I am not the person who should go."
+
+"I know."
+
+She stands. She takes the cloth with her. The kitchen door clicks. Eli is left with the sound of the network humming in the walls and the smell of rain on burned canvas.
+
+Attain the utmost in non-action. All things arise and I watch them return. The signing looks like action. The fire reveals what non-action actually costs.
+
+The compact survives the sign. It does not survive the fire. The crew departs the next morning with borrowed plates and no ceremony.
 
 ## Chapter 16—Voyage Warning
 
@@ -6426,6 +6423,40 @@ That night, Malia dreams about the hum. She wakes before the dream ends and lies
 
 
 ## Chapter 19—Gutter Clearing and the Work Song
+
+The crew assembles at dawn in the maintenance yard behind the clinic. Bima brings the fasteners in a bucket. The bucket has a hole in the bottom. Tomas patches it with a strip of hull cloth before anyone can say the word inventory.
+
+Eli arrives last. He is wearing boots that do not belong to him and a shirt that smells like the workshop. Malia hands him a handful of bolts. She does not explain what they are for. She just gives him the bolts and points to the gutter that runs the length of the east wing.
+
+The gutter is full of leaves, a folded mask, a length of electrical tape, and something that looks like a child's shoe. The shoe is not a child's shoe. It is a worker's shoe, small, worn smooth at the heel, laces replaced twice. It has been there since before anyone arrived.
+
+Eli picks it up. He does not ask whose it is. He sets it on the ledge beside the bucket.
+
+The children appear at the far end of the yard. There are four of them. They are carrying buckets of their own. The youngest is holding a fastener that is too big for her hand. She is sorting them by size. The sound they make — metal against metal, bucket against bucket — is not accidental. It has a rhythm.
+
+Bima hears it first. He stops hammering. Tomas stops coiling wire. Malik stops reading the work order. They listen.
+
+The children are sorting in threes. The smallest fastener goes left. The medium goes center. The large goes right. Each placement makes a different note. The notes repeat. The pattern spreads.
+
+Bima picks up a wrench and taps the gutter frame. The frame rings. The note fits. Owen picks up a length of pipe and taps the support strut. The strut hums. The note fits. Eli picks up a bolt and taps the bucket rim. The rim answers.
+
+The work-song has three parts. The first is the fastener sort. The second is the gutter scrape. The third is the bucket carry from the yard to the storage loft. The children invented the sort. The crew invented the scrape. The bucket carry was Mei's idea; she heard the children and matched her step to it before anyone told her to.
+
+By midmorning, the song has spread to the harbor crew. The stevedores pick it up from the dockworkers. The dockworkers pick it up from the clinic intake line. The intake line picks it up from the woman who has been standing in the queue since before dawn because she walked three kilometers to have a wound looked at.
+
+She is not singing. She is breathing in time. Her breath keeps the beat for the people behind her. No one conducts. No one leads. The song holds itself.
+
+Eli works the gutter for three hours. He does not think about the compact. He does not think about the corridor. He thinks about the shoe on the ledge. He thinks about the child who lost it and did not come back for it because there were more important things than shoes. He thinks about the fastener in the youngest child's hand and the way her fingers curl around it like she is protecting something.
+
+At noon, Mei brings broth. She does not say anything. She sets the tray down and walks away. The broth is warm. The bowl is ceramic. The spoon is metal. The song continues.
+
+Tao 8: The highest good is like water. It benefits all things without contention. The gutter is water's path. The work-song is water's rhythm.
+
+The highest good does not need a name. It needs a gutter and a crew willing to scrape it.
+
+The work-song changes when the field is planted. The crew already knows this. They do not say it. They just keep time.
+
+## Chapter 20—The Corridor Order [SPLIT-FROM: Ch 13]
 
 
 

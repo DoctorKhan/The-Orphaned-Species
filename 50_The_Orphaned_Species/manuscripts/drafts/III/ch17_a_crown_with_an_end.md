@@ -52,7 +52,27 @@ Supporters fill the left side.
 
 Opponents fill the right.
 
-The hearing room is crowded. The crowd is not shouting. It is holding its breath. The room smells like old paper and floor wax. The windows are open. The wind is coming in from the harbor.
+The families and wounded refuse the arrangement and take chairs wherever space remains.
+
+Amara attends by screen.
+
+Leilani sits in the back row holding no equipment.
+
+Arman rests both shaking hands on the rail in front of him.
+
+Owen has the eleven-minute report open on his lap.
+
+Wren sits with the route-circle witnesses rather than beside Eli.
+
+The separation is procedural.
+
+It also hurts.
+
+Sora Vithan's seat in the second row stays empty. Nobody moves the chair to close the gap.
+
+Wren does not testify about her. There is no docket line for this particular debt: Sora was the one person left who could have told her the truth about Mira, and she died holding it instead. Wren sits through the first hour with that specific silence beside her, unlisted, costing more than anything she says out loud today.
+
+The hearing room smells like old paper and floor wax. The wind is coming in from the harbor. The windows are open. The crowd is holding its breath.
 
 Eli stands. He does not put on the armor. He is wearing ordinary clothes. The shirt has a stain on the cuff from last night's tea. His hands are empty.
 
@@ -130,11 +150,7 @@ Jesse looks at him. "You are not in here," Jesse says.
 
 He closes the door. He walks away. The door does not latch behind him.
 
-Matthew 18:15-20: where two or three gather in my name, there am I. The main hall has twelve chairs. The side room has six men. The hearing proves accountability without exemption. The side room proves it again, with different chairs.
-
-The greatest work is done by those who do not seek to be great. Owen refuses the title. Jesse refuses the brotherhood. The compact is founded on refusal.
-
-The hearing ends. The side room continues. The door stays open. The roof still leaks. The men will come back tomorrow. They will bring tools. They will fix the roof. They will not name it yet. They will fix the roof first.
+Matthew 18:15-20: where two or three gather in my name, there am I. The hearing room is the main room. The side room is the second room. The hearing proves accountability without exemption. The side room proves it again, with different chairs.
 
 The crown has ended.
 
@@ -142,4 +158,6 @@ The judgment has not.
 
 Attain the utmost in non-action. All things arise and I watch them return. The hearing is the return. The crown is the action that ends. The judgment is the non-action that remains.
 
-The hearing room smells like old paper and floor wax. The wind is coming in from the harbor. The windows are open. The crowd is holding its breath. Eli sits without Kit Three. His hands are empty. The third question is the one that will open the hearing. Not by accusation. By invitation.
+The crowd is holding its breath. The wind is coming in from the harbor. The windows are open. The recorder is writing. The clock is ticking. Eli is sitting without Kit Three. His hands are empty. The third question is the one that will open the hearing. Not by accusation. By invitation.
+
+The same room. Different chairs. Same thesis. Two proofs.

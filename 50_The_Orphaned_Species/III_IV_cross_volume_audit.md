@@ -19,7 +19,7 @@ Both manuscripts are internally consistent with their own current architecture d
 | Cloisters | Founded by Extra men, veterans, Thread elders, Eli; Owen/Malik leadership | Formalized; praetorian chapters split; civilian defense oath; Owen/Malik still present | Consistent |
 | Weavers | Wren, Rowan, Asha build living attestations | Weaver monopoly ends; attestations released to review body; houses retain seats, lose custody standing | Consistent |
 
-## Mandated Book IV beats — manuscript coverage (checked against `60` § 9's ten-chapter spine)
+## Mandated Book IV beats — manuscript coverage (checked against `60` § 9's 25-chapter spine)
 
 | Beat | Manuscript location | Status |
 |---|---|---|
