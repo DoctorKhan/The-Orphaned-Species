@@ -127,11 +127,11 @@ The timeline is a **fractal**: a maker builds a made thing, then abandons or is 
 
 The species graduates the instant it stops reproducing the orphaning: **becoming the kind of maker that doesn't orphan — having been a badly-parented child yourself.** That is the only ending that pays off the whole timeline, because it is the only one that breaks the recursion instead of running it one more turn.
 
-## Development across the four books — LOCKED 2026-08-01; human descriptions revised 2026-08-16
+**Development across the four books — LOCKED 2026-08-01; human descriptions revised 2026-08-16; meaning framework added 2026-08-21**
 
-The civic answer must follow what happens to the people.
+The civic answer must follow what happens to the people. The four-cure meaning framework runs underneath: I–II cure cynicism, III–IV cure deception, V–X cure alienation, and every volume anchors meaning in mundane maintenance rather than transcendence.
 
-**Book I:** Eli finds evidence that Rasel is alive and follows it from Pelangi to Sanxingdui. His body reacts before he can understand it. He survives long enough to reach his father, then learns that reaching Rasel does not make Rasel come home.
+**Book I:** Eli finds evidence that Rasel is alive and follows it from Pelangi to Sanxingdui.
 
 **Book II:** Searching for his mother, Eli uncovers an ancient conspiracy. The founding Charkha houses descended from specialist and ruling families attached to early chariot cultures around 2000 BCE. They captured psionic practitioners or killed the people they could not control. Later descendants entered courts and custody institutions through service, marriage, adoption, and recruitment. In Eli's time, Charkha officials use university research, medical records, and security referrals to move candidates into government psion programs. Control houses supply captured psions to opposing factions and retain the means needed to command them. Eli follows Maren's damaged trail while dreams, contact, trauma, and other people's projections become difficult to separate. He finds his mother lucid enough to want more time. Keeping her would preserve the signal and deny her departure. He releases her. Wren and Rowan face a smaller version of the same problem when Rowan returns: their history matters, and it grants neither woman automatic access to the other.
 

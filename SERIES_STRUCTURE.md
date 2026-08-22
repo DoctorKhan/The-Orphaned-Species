@@ -220,6 +220,8 @@ delivery spine: `22` § *Technology teaches meaning*; orchestra/V–X: `62`.
 
 **Emergency-power consolidation — LOCKED 2026-08-21:** the Sumerian *Lugal* pattern is load-bearing: temporary emergency authority, granted by consent during crisis, consolidated into permanent hereditary or institutional monarchy once the threat passes. Every power-grant scene in Books I–IV must be drafted against this shape. Eli's wartime command, the Continuity succession machinery, Lang's Standard, Sol's forced-unity offer, the court's dynastic pressure, and the Hollow Year inquiry's afterward all run this arc. The narrative's test is whether the reader can see the consolidation happening in real time, not only in retrospect.
 
+**Victory-absorption test — LOCKED 2026-08-21:** victories may feel clean in the moment, but no victory may be global, permanent, or unmonetized by the apparatus. As a revision filter, every victory scene must answer three questions: (1) what did the character save or gain? (2) what did the apparatus learn or monetize from it? (3) who pays the price the character cannot yet name? If all three are present, the scene is safe. If only one is present, the scene needs work specific to its own logic, not a generic apparatus tag. This applies to Books I–IV as revision discipline; sanctuary scenes and no-clock beats are not exempt, but the price may be deferred to the next chapter rather than forced into the same page.
+
 ## Lifetime Orchestra (V–X) — count LOCKED +6; map LOCKED 2026-08-16
 
 **+6 append-only books** after I–IV. Total Layer 1 map when complete: **ten volumes**.
@@ -294,6 +296,16 @@ The split tried to even volume lengths and give Thailand its own title identity.
 **Charkha suzerainty reveal — LOCKED 2026-08-21:** the definitive pivot occurs in Book III. The Charkha does not merely advise state programs; it is the supranational suzerain behind each government's psionic program—Union, Mandate, and Coalition alike. It uses state programs as fronts, suppliers, and deniable theaters while retaining brokerage, transfer, and leverage over all of them. The reveal strips away the last supernatural costume: the hidden hand is not a god, it is a cartel that learned to write its own warrants. Rasel's justification collapses because the Mandate program he joined was never sovereign; it was a Charkha instrument from the start. Eli's anger at his father must then pass through the horror of realizing Rasel was another manipulated asset. The thriller escalates from fugitive-chase to global war because there is no grid left to hide off of—every state program, clinic, registry, and custody chain answers to the same suzerain. Wren reads the truth through supply-chain anomalies and shared proprietary custody software across supposedly rival blocs; Rowan reads it through the unnatural flow of human capital and psionic resources toward Charkha control nodes. This reveal bridges Phase 1 conspiracy appetite to Phase 2 humanist resistance and sets up Phase 3 cosmology: Charkha's fatal flaw is attempting to force a decentralized, entangled biological network into a top-down centralized weapon, which produces the entropic blowback Book V explains as structural design limit rather than villainy.
 
 This arc is the spine of pitch, comps, and series summary. Do not frame the books as “discovering gods” or “killing villains” in public materials.
+
+**Meaning framework — LOCKED 2026-08-21:** The series' meaning is not a happily ever after. It is the transformation of the reader's relationship to truth, delivered as four specific cures:
+
+1. **Cure for Cynicism (Phases I–II):** The absence of a perfect Father-God does not mean the absence of purpose. The universe is an orphaned machine that survived its creators. Characters learn to tend the garden anyway—not by kneeling to dead infrastructure, not by burning anomalous beings, not by caging power—but by maintaining ordinary reciprocal life.
+
+2. **Cure for Deception (Phases III–IV):** The ability to be deceived is a structural vulnerability. Growing up means regaining the ability to check against the source. Eli's arc dramatizes this: from being fed wrong knowledge by the Social Game, through Charkha's capture apparatus, to refusing forced synchronization. The reader's lesson: truth-seeking is a biological imperative, not an intellectual preference.
+
+3. **Cure for Alienation (Phases V–X):** The mesh/Tree of Life is a decentralized network of independent nodes, not a monolith. Meaning is found not in owning power but in participating in the living resonance. The shift from "I want to control" to "I want to be part of the field" is the cosmological arc.
+
+4. **Dirt-level anchor:** Meaning is found in mundane maintenance—splicing a cable, tending a plant, holding a boat—not in god-tier explanations. The ending must always return to the body and its ordinary work. "End on the mud" is a craft rule.
 
 ## For future sessions (human or AI)
 
