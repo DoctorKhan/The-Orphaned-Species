@@ -3707,14 +3707,57 @@ route three days earlier. The saved include the family she had been trying to
 reach. Eli meets both outcomes in the same corridor and understands that Wren's
 boundary did not protect the woman. It only made her death legible.
 
-That night a message arrives from Pelangi Reach. Bima Prasetyo's threshold house
-has been hit by the same drone pattern that silenced the west relay. Three
-children are sleeping in the cellar when the roof comes down. They climb out
-through the garden tomato vines and walk to the Blue Roof House, where the
-blue-roof woman gives them tea and writes their names in the intake book beside
-the woman from the west desk's brother's route. Eli reads the two names in the
-same row and understands that the bridge cost was never a number. It was a
-neighborhood.
+The woman from the west intake desk is named Lita Cruz. Eli meets her brother
+at the Blue Roof House. He is twenty-two, a dockworker who spent three days
+teaching her the route map because she had just been reassigned and did not
+know the junctions. He sits at the table with Eli's pen in his hand because
+everyone else in the intake room was using one and he needed something to do
+with his hands while the clerk read the names.
+
+Eli reads Lita's name in the casualty list. The brother reads it at the same
+time. He does not cry. He looks at Eli the way a person looks at a door that
+has just closed.
+
+Wren is standing in the doorway. She heard the names being read. She heard the
+brother's breathing change. She does not leave.
+
+That night Eli finds her on the west balcony, where the intake relay used to
+stand before it went dark. The sky is empty. The village has no electricity in
+the damaged quadrant.
+
+"You said people would die," Eli says. "You said it in the corridor. You said
+it while we were looking at the map."
+
+"I know what I said."
+
+"But you did not know which ones."
+
+Wren turns to face him. Her face is not hard. It is the same face she wore
+when she told him the network would answer in two hours and the bridge would
+fall in forty minutes. Precise. Without apology.
+
+"No," she says. "I did not."
+
+"Lita Cruz taught her brother the route three days ago. He is sitting in the
+intake room with my pen because he does not know what to do with his hands."
+
+Wren says nothing.
+
+"If we had the whole network, Lita would be alive."
+
+"If we had the whole network," Wren says, "the next time a council wanted a
+route closed for a reason that looked good on paper, the person who closed it
+would not need to ask. They would already have the keys."
+
+"That is an argument for later."
+
+"This is the argument that is happening now."
+
+Eli looks at the dark where the relay stood. He feels the specific weight of a
+boundary that did not protect the woman who believed in it. The boundary made
+her death legible. It did not make her alive.
+
+He goes back inside without touching her shoulder.
 
 ---
 
@@ -3852,7 +3895,53 @@ claims no record of the transmission. The post's commander is new. Wren does
 not sleep that night. She sits in the corridor with the door wedged open and her
 boots on, watching the street.
 
-## Chapter 11—The Ambassador Dinner [PLACEHOLDER]
+---
+
+Hassan arrives at breakfast with a packet he took from a Union courier's
+discarded bag. The packet contains Sol's latest broadcast: a field-coherence
+schedule, a recruitment pitch, and a list of corridor junctions Sol's volunteers
+have already cleared under synchronized command. Hassan spreads it across the
+table while the coffee brews. His hands are steady for the first time since
+Pelangi.
+
+"His field works," Hassan says. "Three nights ago it held the south intake when
+our local signal was still negotiating permissions. The volunteers ate together.
+They slept in shifts. Nobody asked each other for a route card."
+
+Eli reads the schedule. The junctions are ones his own network has been
+fighting to keep open.
+
+"You're not joining," Eli says.
+
+"I haven't said that." Hassan folds the broadcast along its original crease. "I
+am saying there are people on this list who used to sleep in the same corridor
+as me. They have roofs now. They have rotations. Sol asks for obedience and
+gives them a certainty I cannot offer."
+
+"You could have that here," Eli says.
+
+"I could have a vote," Hassan says. "I could have a review period. I could have
+a seat at a table that meets when the council decides. What I cannot have here
+is a guarantee that the corridor I am assigned to will not be the one the drones
+hit tomorrow because the council needed another hour to reach consent."
+
+He stands to leave. At the door he stops without turning.
+
+"I do not prefer his cage to your storm," Hassan says. "I prefer a roof that
+does not move while I am trying to sleep under it. There is a difference."
+
+He closes the door behind him. The packet stays on the table.
+
+Wren looks at it once, then writes a route notice to the circles Hassan just
+left, revoking his access pending review. She does not send it immediately.
+She holds it in the outbox while the morning light moves across the floor,
+deciding whether a network that lets people leave with this much bitterness has
+earned the name she wants it to keep.
+
+She sends it at midday, after Hassan's name has already appeared on Sol's
+public intake roll.
+
+---
 The compact begins with a mistranslation.
 
 A clinic delegate says *authority*.
@@ -4484,7 +4573,30 @@ keep him quiet.
 
 Ma sends a warning with the offer.
 
-A refrigerated cargo lot moving toward a refugee corridor contains aerosol
+The warning is not about blockade ethics. It is about a person.
+
+"Your mother was not on the manifest I approved," Ma says. "I checked after the
+Pelangi inquiry. Her record was pulled before the flight list reached my desk.
+The pull came from a Continuity desk in the same corridor that issued the
+Lin Wei casualty hold. The desk was staffed by an officer named **Rasel
+Holt**—your father—under a research clearance that gave him edit authority over
+transit categories. He used it to move one name off a ship. The file survived
+in a backup he did not know existed."
+
+Eli sets his cup down. The cup ring dries beside his thumb.
+
+"My father's clearance," Ma says, "is the same clearance the Mandate now uses
+to predict corridor strikes. He built the system. He showed them which tables
+to read. He did not know what they would do with the answer."
+
+"Does he know now?"
+
+"I do not know. You would have to ask him."
+
+Ma does not offer the question as an opening. He offers it as a fact that has
+already cost more than one man his life.
+
+---
 equipment, culture media, and a strain marker associated with an old
 countermeasure program. Mandate environmental monitoring found the supply
 anomaly. A psionic sentinel reported a recurring image of passengers coughing
@@ -6968,9 +7080,27 @@ He goes to sleep before it finishes.
 
 
 ## Chapter 20—The Corridor Order [SPLIT-FROM: Ch 13]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+The corridor order comes at dawn. The message is not a message; it is a directive written on the wall in a language the volunteers have learned to read without translating: move, stay, wait, do not return.
 
----
+Eli reads it from the kitchen. Mei reads it over his shoulder. She does not ask what it means. She folds the paper and puts it in the pocket of her apron because she has seen this before, in a house that no longer exists, in a language that had a different name for the same instruction.
+
+The order names three things: a route through the city, a time window, a person who must not be on the route. The person is Maren.
+
+She is at the table, eating rice. She looks up when Eli folds the paper. She does not ask what it says. She asks whether the rice is cold. It is not cold.
+
+"They want the route open," Eli says. "They want it open without her."
+
+"I know," Maren says. "I wrote the order."
+
+She says it quietly, the way you say something you have already decided not to defend. She does not look at Mei. She looks at the wall behind Eli, where the paper would have taped if she had not taken it first.
+
+Mei stands. She clears the bowl. She does not leave the room.
+
+"The window is six hours," Eli says. "After that, the route closes and the doors lock from the other side."
+
+Maren nods. She finishes the rice. She wipes her mouth with the back of her hand. She stands.
+
+She does not walk to the door. She walks to the shelf where the keys hang and takes the one that opens the back way out, not the front, not the route, not the order.
 
 ## Chapter 21—The Cost of Consent [PLACEHOLDER]
 [PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
@@ -6978,9 +7108,19 @@ He goes to sleep before it finishes.
 ---
 
 ## Chapter 22—The Drone-Strike Cost [SPLIT-FROM: Ch 15]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+The drone strike is not a strike. It is a single pass, low and loud, that drops nothing heavier than a message canister and a frequency jammer. The canister lands in the gutter outside the clinic. The jammer kills the network for eighteen minutes.
 
----
+During those eighteen minutes, three things happen.
+
+First, the patient in room four flatlines and does not recover. The monitor was on a backup battery. The alarm was audible. The medic in the hallway heard it. He could not get the door open because the jammer scrambled the electronic lock.
+
+Second, the message canister opens when the medic kicks it. Inside is a single sheet of paper, printed in the house's own font, listing the patient's name, the route they traveled, and the person who signed for them at the border. The paper is a receipt. It is also a threat.
+
+Third, Maren, who is sitting in the kitchen because the clinic has no room for her, watches the drone pass overhead and does not flinch. She has seen drones before. She has seen them drop things that were not messages. She has seen them drop things that were.
+
+When the network comes back, the house's ledger shows an entry that no one authorized. It records a debt: one patient, one corridor, one signature. The debt is assigned to Maren's name.
+
+She reads the entry. She does not dispute it. She stands from the kitchen table, walks to the sink, and washes the bowl she was eating from. The water is cold. The bowl is ceramic. The network hums behind the wall.
 
 ## Chapter 23—The Hearing Room and the Side Room [PLACEHOLDER]
 [PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
@@ -6988,11 +7128,40 @@ He goes to sleep before it finishes.
 ---
 
 ## Chapter 24—The Hearing Begins [SPLIT-FROM: Ch 17]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+The hearing begins in a room with a table that is too long and chairs that are too far apart. The recorder is a woman with a pen and a posture that suggests she has heard worse stories before breakfast.
 
----
+Eli sits at one end. The house representative sits at the other. Between them are the witness, the clerk, and a clock that runs five minutes fast.
+
+The house representative names the charge first. It is not a charge; it is an observation dressed as a charge: the patient arrived without a sponsor, the corridor was not cleared, the signature on the intake form is not the signature on the route letter.
+
+Eli listens. He does not interrupt. He knows the shape of this hearing. He has sat through it before, from the other side of the table, when Maren was the one who could not produce the right papers.
+
+The witness is a man from the gutter crew. He says he saw the patient enter the corridor. He says he saw Eli at the gate. He says he did not see a sponsor. He says the corridor was not cleared because the clearance came ten minutes after the patient passed.
+
+The recorder writes. The pen scratches. The clock ticks five minutes ahead of the room.
+
+Eli does not ask the witness questions. He does not need to. The house representative will ask the questions that make the witness look unreliable, and Eli will sit quietly while the story rearranges itself into something the committee can file.
+
+The hearing ends in forty-three minutes. The decision is reserved. The clock is reset.
 
 ## Chapter 25—The Handover [SPLIT-FROM: Ch 18]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+The handover happens at the door. It is not a ceremony. It is a transfer of keys, a signature on a form, a bag packed the night before and left on the step.
 
----
+Maren hands the bag to Mei. Mei takes it without opening it. She knows what is inside: two shirts, a notebook, a bottle of medicine, a photograph of three people standing on a boat. She also knows what is not inside: a letter, a route, a plan for what happens after the handover.
+
+"You don't have to go," Eli says.
+
+"I don't have to stay," Maren says. "That is not the same thing."
+
+She stands on the step. The morning is cold. The street is empty. The house behind her is full of people who have already begun rearranging her absence: her bowl, her chair, her route on the map in the kitchen.
+
+Wren is not there. She is at the clinic, or on the road, or somewhere else that does not require her to watch the handover. Rowan is not there either. The only witness is the woman from next door, who looks out her window and sees a mother leaving a house and does not know whether to look away.
+
+Maren turns once, at the corner, before the buildings block her. She does not wave. She does not smile. She walks.
+
+Eli closes the door. He locks it. The key turns twice because the lock is old and Mei likes it that way.
+
+Inside, the kitchen is quiet. Mei sets the bag on the table. She opens it. She moves the shirts aside and lifts out the notebook. She opens to the first page.
+
+It is blank.
+

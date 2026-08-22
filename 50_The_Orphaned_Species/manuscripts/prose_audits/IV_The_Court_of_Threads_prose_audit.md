@@ -5,20 +5,20 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 25
-- **Flagged chapters:** 17
-- **Total flag instances:** 32
+- **Chapters audited:** 16
+- **Flagged chapters:** 9
+- **Total flag instances:** 18
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 17 |
-| STACKED-EM-DASHES | 5 |
-| OPEN-LIGHT-ON-BODY | 2 |
-| ABSTRACT-DISTANCE | 2 |
-| ECHO-CLOSER | 2 |
-| ABSTRACT-OVER-BODY | 2 |
+| SHORT-PARA-RUN | 9 |
+| STACKED-EM-DASHES | 3 |
 | ABSTRACT-DENSE | 1 |
 | IDENTICAL-PARA-OPENING | 1 |
+| OPEN-LIGHT-ON-BODY | 1 |
+| ABSTRACT-DISTANCE | 1 |
+| ECHO-CLOSER | 1 |
+| ABSTRACT-OVER-BODY | 1 |
 
 ## Chapter-level detail
 
@@ -31,33 +31,14 @@
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (2 run(s) of 3+ same-shape openings)
 
-### ## Chapter 2—Present Consent [SPLIT-FROM: Ch 1]
-- **Word count:** 17
-- **Sentence count:** 1
-- **Flags:** none
-
 ### ## Chapter 3—Three Rooms [PLACEHOLDER]
 - **Word count:** 1512
 - **Sentence count:** 238
 - **Flags:**
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
-### ## Chapter 4—What We Build [PLACEHOLDER]
-- **Word count:** 1513
-- **Sentence count:** 238
-- **Flags:**
-  - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
-
 ### ## Chapter 5—The Rumor [SPLIT-FROM: Ch 3]
 - **Word count:** 2360
-- **Sentence count:** 283
-- **Flags:**
-  - STACKED-EM-DASHES (1 hits)
-  - OPEN-LIGHT-ON-BODY
-  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
-
-### ## Chapter 6—The Body of State [SPLIT-FROM: Ch 3]
-- **Word count:** 2362
 - **Sentence count:** 283
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
@@ -71,22 +52,8 @@
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
 
-### ## Chapter 8—The False Heir [PLACEHOLDER]
-- **Word count:** 2952
-- **Sentence count:** 361
-- **Flags:**
-  - ABSTRACT-DISTANCE (1 hits)
-  - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
-
 ### ## Chapter 9—The Room Prepared [SPLIT-FROM: Ch 5]
 - **Word count:** 2081
-- **Sentence count:** 289
-- **Flags:**
-  - ECHO-CLOSER (1 hits)
-  - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
-
-### ## Chapter 10—Before the First Breath [SPLIT-FROM: Ch 5]
-- **Word count:** 2082
 - **Sentence count:** 289
 - **Flags:**
   - ECHO-CLOSER (1 hits)
@@ -99,21 +66,8 @@
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
-### ## Chapter 12—The Five Forms Week [PLACEHOLDER]
-- **Word count:** 2313
-- **Sentence count:** 307
-- **Flags:**
-  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
-  - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
-
 ### ## Chapter 13—The Nacre Audit [SPLIT-FROM: Ch 7]
 - **Word count:** 3389
-- **Sentence count:** 377
-- **Flags:**
-  - SHORT-PARA-RUN (17 run(s) of 3+ short paragraphs)
-
-### ## Chapter 14—The Cloister Risk Score [SPLIT-FROM: Ch 7]
-- **Word count:** 3390
 - **Sentence count:** 377
 - **Flags:**
   - SHORT-PARA-RUN (17 run(s) of 3+ short paragraphs)
@@ -125,20 +79,7 @@
   - STACKED-EM-DASHES (1 hits)
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
-### ## Chapter 16—The Ilyara Boundary [PLACEHOLDER]
-- **Word count:** 2801
-- **Sentence count:** 336
-- **Flags:**
-  - STACKED-EM-DASHES (1 hits)
-  - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
-
 ### ## Chapter 17—The Southern Canopy [SPLIT-FROM: Ch 9]
-- **Word count:** 1706
-- **Sentence count:** 231
-- **Flags:**
-  - SHORT-PARA-RUN (6 run(s) of 3+ short paragraphs)
-
-### ## Chapter 18—The Work-Song Class [SPLIT-FROM: Ch 9]
 - **Word count:** 1706
 - **Sentence count:** 231
 - **Flags:**

@@ -551,8 +551,18 @@ shuts. She does not need to. The contact is already a habit.
 
 ---
 ## Chapter 2—The Westbound Packet [SPLIT-FROM: Ch 1]
+Eli is already at the gate when the westbound packet arrives. The train is two hours early. The platform is empty except for a woman in a uniform that says consulate, not police, and a man with a clipboard who does not look up from his paper.
 
-[PLACEHOLDER — duplicate of Ch1 removed; needs unique split content]
+He shows them Wren's credential. The woman takes it without a word and disappears into the ticket office. The man writes something in his book. The train idles, its engine ticking, its one visible passenger staring out the window at nothing.
+
+Eli does not board. He stands on the platform because Somchai told him to stand on the platform and look like he belongs there, which is a different instruction than looking like he is waiting for something that is not his.
+
+The woman returns with a pass and a sealed envelope. The envelope is not addressed to anyone. The pass is for the second car. The man closes his book and steps away from the train as though the transaction is complete.
+
+Eli boards. The car is empty. The seat by the window is warm. The envelope sits on the table in front of him, unmarked, heavier than paper should be.
+
+The train moves before he sits down.
+
 ## Chapter 3—The Folly [PLACEHOLDER]
 Cold preserves the wrong things.
 For thirty-one hours the seed container holds six degrees and the smell of wet
@@ -660,9 +670,7 @@ The exterior lock releases.
 
 Hot air enters in a blade.
 
-A freight worker in a dust scarf looks inside, counts them, and says something
-in Arabic to the person behind him. The translator on Wren's slate supplies:
-*This is not the problem they told us.*
+A freight worker in a dust scarf looks inside, counts them, and says something in Arabic to the person behind him. The translator on Wren's slate supplies: *This is not the problem they told us.*
 
 An older woman answers from outside.
 
@@ -670,9 +678,17 @@ An older woman answers from outside.
 
 She climbs into the container without asking anyone to climb out.
 
-Her archive vest has been repaired at both shoulders. A pair of reading glasses
-hang from a cord against her chest. She checks the nearest seed rack first,
-pressing two fingers to the temperature strip.
+Her archive vest has been repaired at both shoulders. A pair of reading glasses hang from a cord against her chest. She checks the nearest seed rack first, pressing two fingers to the temperature strip.
+
+---
+
+The air hits Eli like a wall. Not the cold-chain six degrees, not the wet fiber smell — this is heat that has been waiting under a plain for ten thousand years, dry and metallic. His cut palm swells inside the glove the moment the temperature changes. The fingers feel too tight. He does not take the glove off.
+
+Sora's shoulder has gone quiet, which is worse than the pain. She stands in the doorway of the container with her face turned into the wind and her eyes half-closed, testing whether the body will betray her before anyone else asks.
+
+Wren checks the slate for routing. The screen bleaches in the direct sun. She tilts it and reads the same message three times: no corridor, no appointment, no guarantee the next inspection will be as careless as the last.
+
+Eli's throat is already dry. He has not noticed until now. Thirty-one hours of cold air and recycled breath, and the first mouthful of plain heat makes him aware of every layer he is wearing.
 
 "Restart it," she says in English.
 
@@ -1320,6 +1336,13 @@ Behind him the tablet remains in its tray.
 The refusal does not travel.
 
 Its cost does.
+
+Eli's cut palm has stiffened inside the borrowed glove. He removes it only when the ambulance stops and the plain heat reaches through the vents. The fingers are swollen at the knuckles, the edges of the wound crusted shut. He wraps the glove around the slate instead of his hand.
+
+Wren's clothes still carry the container's smell — cold-chain sealant and wet fiber — underneath the dust that has settled in every fold during the three hours on the road. She brushes at her sleeve once and stops. The brush only moves the dust to another layer.
+
+---
+
 ## Chapter 4—The Archive Exit [PLACEHOLDER]
 Cold preserves the wrong things.
 For thirty-one hours the seed container holds six degrees and the smell of wet
@@ -1427,9 +1450,7 @@ The exterior lock releases.
 
 Hot air enters in a blade.
 
-A freight worker in a dust scarf looks inside, counts them, and says something
-in Arabic to the person behind him. The translator on Wren's slate supplies:
-*This is not the problem they told us.*
+A freight worker in a dust scarf looks inside, counts them, and says something in Arabic to the person behind him. The translator on Wren's slate supplies: *This is not the problem they told us.*
 
 An older woman answers from outside.
 
@@ -1437,9 +1458,17 @@ An older woman answers from outside.
 
 She climbs into the container without asking anyone to climb out.
 
-Her archive vest has been repaired at both shoulders. A pair of reading glasses
-hang from a cord against her chest. She checks the nearest seed rack first,
-pressing two fingers to the temperature strip.
+Her archive vest has been repaired at both shoulders. A pair of reading glasses hang from a cord against her chest. She checks the nearest seed rack first, pressing two fingers to the temperature strip.
+
+---
+
+The air hits Eli like a wall. Not the cold-chain six degrees, not the wet fiber smell — this is heat that has been waiting under a plain for ten thousand years, dry and metallic. His cut palm swells inside the glove the moment the temperature changes. The fingers feel too tight. He does not take the glove off.
+
+Sora's shoulder has gone quiet, which is worse than the pain. She stands in the doorway of the container with her face turned into the wind and her eyes half-closed, testing whether the body will betray her before anyone else asks.
+
+Wren checks the slate for routing. The screen bleaches in the direct sun. She tilts it and reads the same message three times: no corridor, no appointment, no guarantee the next inspection will be as careless as the last.
+
+Eli's throat is already dry. He has not noticed until now. Thirty-one hours of cold air and recycled breath, and the first mouthful of plain heat makes him aware of every layer he is wearing.
 
 "Restart it," she says in English.
 
@@ -2781,6 +2810,14 @@ The buried instrument keeps what they came to make it surrender.
 
 ---
 
+The ambulance ride to the coast is short. Eli's cut palm has stiffened inside the borrowed glove. He removes it only when the plain heat reaches through the vents. The fingers are swollen at the knuckles, the edges of the wound crusted shut. He wraps the glove around the slate instead of his hand.
+
+Wren's clothes still carry the container's smell — cold-chain sealant and wet fiber — underneath the dust that has settled in every fold. She brushes at her sleeve once and stops. The brush only moves the dust to another layer.
+
+Sora sleeps with her shoulder propped on the ambulance wall. The bandage has left a mark on her collarbone. She does not complain. Complaining would mean admitting the journey has not paused for her healing, and the journey has not paused.
+
+---
+
 The town sits on a strait and a low mountain. Kastri on the older maps.
 Laurel Cube on the ticketed pilgrim buses that do not come this far
 off-season. Three days a year the maritime guild races for a local passage
@@ -2962,6 +2999,15 @@ wrist until he notices.
 "Iason."
 
 The hand stops before the bus reaches the first tunnel.
+
+---
+
+The coastal bus deposits them at the clinic road. Eli's shoulder has been burning since the container exit, but the Thrace rain makes it something else. Not worse — closer. The damp gets inside the bandage Sora changed before they left the archive. He does not ask her to change it again. He sits with his back to the ambulance wall and lets the water run down his collar without wiping it off.
+
+Wren counts exits in the clinic room the way she counted them in the archive: two doors, one concealed stair, four bays. The numbers are similar. The smell is not. Here it is antiseptic and wet wool and the coffee Somchai brewed too strong for a night shift. She drinks it standing because sitting would mean admitting she is tired enough to feel the chair.
+
+---
+
 ## Chapter 6—The Clinic Approach [SPLIT-FROM: Ch 3]
 Wren finds the cut in the transfer records at six in the morning, in a room that smells of coffee brewed too strong and the copper-tang of a printer drum overheating. Eli has not asked for medical records. He has been tracking Hassan through public corridor flow. Wren has been watching the stations that do not log names.
 
@@ -3837,6 +3883,15 @@ wrist until he notices.
 "Iason."
 
 The hand stops before the bus reaches the first tunnel.
+
+---
+
+Eli's shoulder has been burning since the container exit, but the Thrace rain makes it something else. Not worse — closer. The damp gets inside the bandage Sora changed before they left the archive. He does not ask her to change it again. He sits with his back to the ambulance wall and lets the water run down his collar without wiping it off.
+
+Wren counts exits in the clinic room the way she counted them in the archive: two doors, one concealed stair, four bays. The numbers are similar. The smell is not. Here it is antiseptic and wet wool and the coffee Somchai brewed too strong for a night shift. She drinks it standing because sitting would mean admitting she is tired enough to feel the chair.
+
+---
+
 ## Chapter 7—Laurel Crossing [PLACEHOLDER]
 Somchai washes his hands twice because the first time belongs to fear.
 
@@ -4680,7 +4735,9 @@ Hassan is alive. A depot exists. A guard changes at dawn.
 Every answer has arrived through someone else's terms.
 
 For once, none of those terms feels like delay.
-## Chapter 8—The Healer's Clinic [PLACEHOLDER]
+
+---
+
 Somchai washes his hands twice because the first time belongs to fear.
 
 Soap. Palms. Backs. Between the fingers. Thumbs. Nails against the opposite
@@ -5523,6 +5580,28 @@ Hassan is alive. A depot exists. A guard changes at dawn.
 Every answer has arrived through someone else's terms.
 
 For once, none of those terms feels like delay.
+
+---
+
+Before the ambulance leaves, Somchai changes Sora's dressing himself. The shoulder burn has blistered into a ring. He cleans it with saline that smells like the sea. Sora watches his hands. They are steady in a way that does not reassure her — it means he has done this enough times to know exactly what he is looking at.
+
+Eli's thumb cut has stiffened shut. He cannot bend the joint without pain. He wraps the borrowed glove over it and does not think about what that means for the work ahead.
+
+Wren's boots are caked with Thrace mud. She scrapes them on the clinic step and leaves a line of brown behind. The mud is not symbolic. It is just mud. But the route ledger in her pocket has become a map of where they have been, and every new layer of dirt is a country they cannot revisit.
+
+---
+
+## Chapter 8—The Healer's Clinic [PLACEHOLDER]
+---
+
+The holding site air tastes of disinfectant and animal bedding. Sora's shoulder dressing is already damp at the edges. She changes it in the supply room while Somchai watches the door. The new bandage is tighter. She does not wince.
+
+Eli's cut palm has swollen shut. He cannot flex the fingers far enough to hold a pen. He uses his left hand for everything until Somchai hands him a pencil and says, 'The right will work or it won't. Don't choose.'
+
+Wren's boots still carry the Thrace mud inside the soles. She scrapes them on the clinic threshold before entering the supply room, but the mud does not come off. It has dried into the tread.
+
+---
+
 ## Chapter 9—The Holding Entry [SPLIT-FROM: Ch 5]
 The holding site used to inspect livestock.
 
@@ -6405,6 +6484,17 @@ clean knowledge that his mother is alive.
 It does not feel clean.
 
 That may be the first honest thing about it.
+
+---
+
+The dawn bus to the holding site is half-empty. Eli sits with his right hand curled against his chest. The thumb cut has opened again. He presses a tissue to it and does not tie it. Tourniquets belong to people who have time to treat wounds properly, and they do not.
+
+Sora's shoulder burns through the new dressing. She leans her weight against the window and watches the Elbe corridor rise from flat fields. The water is higher than the maps said. She notes this without speaking. Nothing they carry is waterproof.
+
+Wren has not slept. She watches the corridor markers pass and calculates how far they have traveled since the container exited at the freight exchange. Thirty-one hours in the box, twelve on the road, four in the archive, six in the clinic. The arithmetic is not a comfort.
+
+---
+
 ## Chapter 10—The Midpoint Revelation [SPLIT-FROM: Ch 5]
 The holding site used to inspect livestock.
 
@@ -8151,6 +8241,15 @@ to provide.
 
 The jealousy arrives ugly and immediate. Wren had asked Rowan plainly. With Eli,
 want still came dragging an empty chair behind it.
+
+---
+
+The Elbe corridor smells of damp paper and old water. Wren's shoulder burn throbs in the humidity. She changes the dressing in the receiving house bathroom with the light off, because the mirror shows what she does not need to see: the skin around the burn is raised and pale, and the collar mark on her chest has not faded.
+
+Eli's thumb has stiffened into a hook. He opens the route ledger with his left hand. His right hand rests beside it, palm up, like an offering he has not decided to make.
+
+---
+
 ## Chapter 12—The Changing Map [SPLIT-FROM: Ch 6]
 Wren knows Rowan by the cup she leaves unfinished.
 
@@ -9013,8 +9112,9 @@ Eli remains with the ledgers, understanding that being blessed can feel like
 being handled and that Wren has asked Rowan for something she did not ask him
 to provide.
 
-The jealousy arrives ugly and immediate. Wren had asked Rowan plainly. With Eli,
-want still came dragging an empty chair behind it.
+
+---
+
 ## Chapter 13—The Broken-Line Church [SPLIT-FROM: Ch 6]
 Wren knows Rowan by the cup she leaves unfinished.
 
@@ -9877,8 +9977,9 @@ Eli remains with the ledgers, understanding that being blessed can feel like
 being handled and that Wren has asked Rowan for something she did not ask him
 to provide.
 
-The jealousy arrives ugly and immediate. Wren had asked Rowan plainly. With Eli,
-want still came dragging an empty chair behind it.
+
+---
+
 ## Chapter 14—The Stray Settlement [SPLIT-FROM: Ch 6]
 Outside, the drained field carries sound strangely.
 
@@ -9940,6 +10041,16 @@ stories keep putting people under hills.
 ---
 
 Night after the break, the threshold house cooks.
+
+---
+
+The journey to the corridor break has taken three days by road and one night by cart. Eli's thumb has opened twice. Each reopening is shallower, which means the body is adapting, which also means the body is accepting something it should not.
+
+Sora's shoulder is hot to the touch. She sleeps on her left side to keep the weight off. In the morning the bandage sticks to the wound. She peels it back with her teeth because her hands are full of route letters.
+
+Wren's boots have not dried since the Elbe crossing. She changes the socks in the dark and wrings them out over the yard drain. The water is brown.
+
+---
 
 The corridor that was supposed to carry them west has stopped behaving like a
 map. Dead-zone wedges blank the charts. Registry pins return capture geometry.
@@ -10976,6 +11087,16 @@ stories keep putting people under hills.
 ---
 
 Night after the break, the threshold house cooks.
+
+---
+
+The journey to the corridor break has taken three days by road and one night by cart. Eli's thumb has opened twice. Each reopening is shallower, which means the body is adapting, which also means the body is accepting something it should not.
+
+Sora's shoulder is hot to the touch. She sleeps on her left side to keep the weight off. In the morning the bandage sticks to the wound. She peels it back with her teeth because her hands are full of route letters.
+
+Wren's boots have not dried since the Elbe crossing. She changes the socks in the dark and wrings them out over the yard drain. The water is brown.
+
+---
 
 The corridor that was supposed to carry them west has stopped behaving like a
 map. Dead-zone wedges blank the charts. Registry pins return capture geometry.
@@ -15082,6 +15203,17 @@ No myth. Facilities worker. A man who opened a gate because people were still
 inside it.
 
 Then they go.
+
+---
+
+The approach to Avebury takes them through a landscape that has been waiting for this exact morning for five thousand years. Eli's thumb has stiffened into a hook that does not close. He carries the ceramic wedge in his left pocket and the high-visibility vest in his right. The vest is orange. It will make him visible to anyone with a line of sight, which is the point.
+
+Sora's ear has stopped bleeding. The silence inside her head is worse than the blood. She can hear the engine, the tires on wet grass, Wren breathing, but not the frequencies she used to navigate by. She tests this once by humming low. The hum comes back through her jawbone only.
+
+Wren's boots are caked with Albion mud. The route ledger in her pocket is damp at the corners. She does not try to dry it. Some damage is just information.
+
+---
+
 ## Chapter 21—The Instrument Cap [SPLIT-FROM: Ch 9]
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
 opening onto electrical cabinets, cleaning supplies, stacked crowd
@@ -15772,20 +15904,6 @@ conflict. It would have saved time. Perhaps enough.
 
 That remains true.
 
-Sora stands with blood running from one ear.
-
-"Avebury road is open for six minutes."
-
-Wren holds Gareth's keys.
-
-"Maren is moving."
-
-Eli looks once at Gareth beneath the emergency blanket.
-
-No myth. Facilities worker. A man who opened a gate because people were still
-inside it.
-
-Then they go.
 ## Chapter 22—The Avebury Approach [SPLIT-FROM: Ch 9]
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
 opening onto electrical cabinets, cleaning supplies, stacked crowd
@@ -16492,11 +16610,69 @@ inside it.
 Then they go.
 
 ## Chapter 23—Release [SPLIT-FROM: Ch 10]
+The entrance is a painted metal door beside the service yard. It opens onto a corridor that smells of wet chalk and electrical ozone. The concrete underfoot is damp. The ceiling is low enough that Eli has to duck twice before he gets used to it.
 
----
+Behind him, the stones of the circle hold their breath. The perimeter fence is a hundred meters back, the visitor center another fifty beyond that. The ditch that once held water now holds only shadows. Somchai checks the lock with the keys Gareth gave him. The mechanism is simpler than the field lock—bolts, not rhythm.
+
+Inside, the corridor turns twice and opens into a room that was carved before anyone had a word for carving. The walls are chalk, the floor is chalk, the ceiling is chalk held up by steel ribs. Cables run along the ribs in bundles, taped at intervals. A generator hums in a side chamber. The hum is the only sound.
+
+Maren is at the far end, seated at a console built into the chalk. Her hands are on the board. She does not look up when they enter.
+
+"You came," she says.
+
+"You signaled."
+
+"I signaled because the lock is about to change state. If you want her out before that happens, you have to decide whether the mesh survives the severance."
+
+Eli looks at the board. The switches are labeled in a language he does not read. The cable from Maren's temple runs to a socket that matches nothing he has seen.
+
+Wren stands beside him. Somchai stands behind. Sora is in the doorway, watching the approach.
+
+"How long?" Eli asks.
+
+"Minutes. The field is already thinning."
+
+He reaches for the switch. Maren's hand covers his. Her palm is warm. Her grip is not.
 
 ## Chapter 24—The Release Choice [SPLIT-FROM: Ch 10]
+Eli pulls the switch.
 
----
+The sound is not what he expects. It is a single tone, rising through the chalk, through the cables, through Maren's implant and into the field. The console goes dark. The generator stutters. The lights in the corridor flicker once, twice, then hold.
+
+Maren's hand drops from his. She sits back in the chair. Her eyes are open. The socket at her temple is empty. A trickle of blood runs from the contact point to the collar of her shirt.
+
+"Done," she says.
+
+Her voice is her own. Her balance is not. She grips the arms of the chair to keep from sliding to the floor.
+
+Outside, the field is already reasserting itself. Somchai's radio crackles. Sora reports a cascade at the visitor center—monitors blanking, gates cycling, the perimeter alarm sounding for no reason. The network is not down; it is loose. Every device within reach is trying to find a new anchor.
+
+Maren will not walk out healthy. Her left side is slow. Her right side answers a moment later than she asks it to. She does not remember the route to the surface. She does not remember the last time she ate. She remembers her children in fragments: Wren's face, the sound of Rowan laughing, a kitchen table she cannot place.
+
+"You cut the mesh," she says. "You chose them over me."
+
+"I chose you over the switchboard," Eli says. "The mesh was the choice you made for me."
+
+She closes her eyes. The blood continues. The corridor continues. The field continues without her, running wild through the stones.
 
 ## Chapter 25—Aftermath and Book III Ignition [SPLIT-FROM: Ch 10]
+They surface at dawn. The service yard is empty. The visitor center is lit but silent. The ditch is full of water again, though nobody remembers opening the sluice.
+
+The apparatus is already upgrading itself. The lock at the entrance has changed its pattern. The cabinet by the door now shows a different sequence of lights. The field inside the corridor is thinner, but it is not gone; it has moved somewhere else, into the chalk, into the cables, into the groundwater.
+
+Sol's network claims the event. By mid-morning, the story on the public feeds is about a power surge at the site, a fence breach by protesters, a custodial worker who died in the confusion. The names are wrong. The sequence is wrong. The cause is wrong. The story is already solid.
+
+Eli's squad has Gareth's keys, a broken network, and a living woman who cannot be their mother in the way they hoped. Maren sits on the back step of the service vehicle, watching the birds. She knows the birds are real. She knows the keys are real. She is not sure about everything between those two facts.
+
+Wren holds the keys. She does not give them to anyone. She does not say what they open.
+
+Rowan writes a route letter to a house that no longer exists. She sends the routine part. She burns the rest.
+
+Somchai counts the living. He counts twice, then a third time, because the first two counts do not agree.
+
+Sora's ear is still bleeding, slowly. She does not mention it.
+
+The road south is open. The road west is not. The field is loose, and somewhere in the loose field a new signal is forming—not Maren's voice, not Anika's order, not Sol's chant. Something else, answering.
+
+They stand in the mud for a long time before anyone moves.
+

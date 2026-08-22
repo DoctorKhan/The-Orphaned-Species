@@ -323,8 +323,24 @@ She says it without looking at him.
 
 ---
 ## Chapter 2—Saturday Departure [SPLIT-FROM: Ch 1]
+He meets Suresh at the stern before the sun clears the breakwater. The skiff is already loaded: compass, bailer, spare sail, a bundle of line that smells of fish and diesel.
 
-[PLACEHOLDER — duplicate of Ch1 removed; needs unique split content]
+Suresh does not ask whether Mei talked to him. He checks the lashings, then Eli's knots, then the horizon. "You can turn back once. After that, you're cargo."
+
+The engine catches on the second pull. The harbor wall slides past—fishing boats, a ferry tied to the old pier, a crane that hasn't moved in months. The city rises behind it in tiles of concrete and glass, still half-asleep.
+
+Eli stands at the tiller because Suresh told him to. The channel opens. The water turns from brown to green. The first wave that isn't made by another boat hits the hull and sprays salt into his face.
+
+Suresh passes him a cup of sweet tea. "Drink. You'll need it before the strait."
+
+He does not ask where they are going. He does not have to. The chart on the cabin wall shows a route past the barrier islands, then open water, then a coast he has never seen.
+
+The radio hums once, twice, then stops. Mei's voice would carry this far, but she is not calling.
+
+He looks back once. The shore is already thinner than he expected.
+
+Then the wind shifts, the sail fills, and there is nothing behind him but water.
+
 ## Chapter 3—His Hand / Checkpoints and the Stack [PLACEHOLDER]
 The hull kisses the screening pier too hard. Eli's knees take it. Wet stone under the first step. Diesel in the back of his throat. A grey cutter sits off the channel with its number painted out.
 
@@ -1422,7 +1438,7 @@ Eli's palms lean toward it the way they leaned toward the breach noise—the sam
 it. Don't promote yourself to expert because it resembles the thing you saw while
 you were drowning."
 
-Eli turns the tablet once. The clay is cool. The middle ring sits between the center and the outer, thicker than the rest, as if the carver knew the weak place: not the throne, not the edge, the place where damage and care both travel if anything travels at all. He thinks of his father's band in an evidence tray, two metals, one seam, *same soil*, and does not say it. He wraps the tablet again. Contested. Heavy. Real enough to carry. He tucks it into the bag Salmah gave him before the debt can change its mind.
+Eli turns the tablet once. The clay is cool. The middle ring sits between the center and the outer, thicker than the rest, as if the carver knew the weak place: not the throne, not the edge, the place where damage and care both travel if anything travels at all. He thinks of his father's band in an evidence tray, two metals, one seam, *same soil*, and does not say it. He wraps the tablet again. Contested. Heavy. Real enough to carry. He tucks it into the bag Salmah gave him. The co-op's street name is folded inside with Suresh's paper.
 
 ---
 
@@ -1436,7 +1452,7 @@ Across the flat water, at the town quay, a grey launch has Salmah's boat under t
 
 "Yes." She hands the binoculars back. "That's the price sheet."
 
-Eli stands there with the co-op's street name folded into the same pocket as Suresh's paper, one debt on top of another, and understands that this is what his flare is: not light. A ledger, writing itself in other people's names.
+Eli stands there with the co-op's street name folded into the same pocket as Suresh's paper, one debt on top of another, and understands that this is what his flare is: not light. A ledger, writing itself in other people's names—Palm, face, blood spot—one clean chain he did not ask for.
 
 ---
 
@@ -1615,7 +1631,7 @@ Eli's palms lean toward it the way they leaned toward the breach noise—the sam
 it. Don't promote yourself to expert because it resembles the thing you saw while
 you were drowning."
 
-Eli turns the tablet once. The clay is cool. The middle ring sits between the center and the outer, thicker than the rest, as if the carver knew the weak place: not the throne, not the edge, the place where damage and care both travel if anything travels at all. He thinks of his father's band in an evidence tray, two metals, one seam, *same soil*, and does not say it. He wraps the tablet again. Contested. Heavy. Real enough to carry. He tucks it into the bag Salmah gave him before the debt can change its mind.
+Eli turns the tablet once. The clay is cool. The middle ring sits between the center and the outer, thicker than the rest, as if the carver knew the weak place: not the throne, not the edge, the place where damage and care both travel if anything travels at all. He thinks of his father's band in an evidence tray, two metals, one seam, *same soil*, and does not say it. He wraps the tablet again. Contested. Heavy. Real enough to carry. He tucks it into the bag Salmah gave him. The co-op's street name is folded inside with Suresh's paper.
 
 ---
 
@@ -1629,7 +1645,7 @@ Across the flat water, at the town quay, a grey launch has Salmah's boat under t
 
 "Yes." She hands the binoculars back. "That's the price sheet."
 
-Eli stands there with the co-op's street name folded into the same pocket as Suresh's paper, one debt on top of another, and understands that this is what his flare is: not light. A ledger, writing itself in other people's names.
+Eli stands there with the co-op's street name folded into the same pocket as Suresh's paper, one debt on top of another, and understands that this is what his flare is: not light. A ledger, writing itself in other people's names—Palm, face, blood spot—one clean chain he did not ask for.
 
 ---
 
@@ -4852,6 +4868,19 @@ On Qiao's screen, nine traces wander around one another, answering without obeyi
 
 ---
 ## Chapter 25—The Living Route [SPLIT-FROM: Ch 13]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+The last checkpoint is a booth with a dead light. The guard looks at Wren's credentials, then at Eli, then at the list taped beside the window. He circles something with a pen and hands the pass back without standing up.
 
----
+"Third bay. The road narrows after the bridge."
+
+They cross the bridge at walking speed. The river below is wide and slow, carrying something that glints like metal but is probably just plastic caught in the current. Wren drives. Eli watches the banks slide past: warehouses, a school with its playground empty, a mosque with a loudspeaker that does not speak.
+
+The radio stays off. The map on the dashboard shows a route that avoids the main roads, then rejoins them at a junction that does not exist anymore.
+
+At the third bay, the road becomes gravel, then mud, then nothing. They park on a concrete slab that was once a loading dock. A container sits at the edge of the trees, painted white, door open.
+
+Inside are two beds, a table, a shelf with three books, a kettle, a bag of rice, a tin of tea. The walls are bare. The window looks into branches.
+
+Eli checks the corners. Wren checks the lock. Neither of them says what this place is for.
+
+The sun is already down when they hear the first engine. It is not a welcome.
+

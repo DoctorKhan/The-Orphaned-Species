@@ -1136,3 +1136,55 @@ becomes compatible with an afternoon nobody turns into destiny.
   an unreviewable sovereign retained by emergency law. He ends the series in
   Book IV as an answerable participant, not a hidden ruler, saint, martyr, or
   indispensable founder — proved twice, not once.
+
+---
+
+## Four-corner betrayal beats — LOCKED 2026-08-21
+
+> These beats ensure each ideological corner around Eli costs him a personal
+> betrayal, not merely a political disagreement. They map to the manuscript
+> sections edited in the 2026-08-21 pass.
+
+### 1. Wren / Weavers — procedural boundary kills a named person Eli knows
+
+> **LOCKED:** Wren's refusal to centralize the threshold network during the west
+> relay crisis directly costs Lita Cruz, the west intake desk worker who taught
+> her brother the route map three days earlier. Eli meets the brother at the Blue
+> Roof House intake room; Wren is present in the doorway and hears the name read.
+> The confrontation afterward is on the west balcony at night, not in a corridor:
+> Eli names the specific person; Wren defends the boundary without apology;
+> neither gets the last word. The death is legible because of Wren's choice, not
+> in spite of it.
+
+### 2. Sol / Coalition — Hassan defects willingly, not under duress
+
+> **LOCKED:** Hassan arrives at breakfast with Sol's recruitment broadcast,
+> showing junctions Sol's volunteers have already cleared under synchronized
+> command. His defection is not coerced; it is a deliberate choice between a
+> certainty he can sleep under and a council that cannot promise the corridor
+> won't be hit while it debates. His final line: *"I do not prefer his cage to
+> your storm. I prefer a roof that does not move while I am trying to sleep under
+> it."* Wren revokes his access pending review; his name appears on Sol's public
+> intake roll by midday.
+
+### 3. Lang / Mandate — Rasel's clearance is the Mandate's targeting mechanism
+
+> **LOCKED:** During the Ma ceasefire negotiation, Ma reveals that Rasel Holt
+> used his Continuity research clearance to edit Maren's name off a transit
+> manifest—pulling Eli's mother off the ship before it reached the blockade
+> sector Ma approved at Wenzhou. That same clearance architecture is now what the
+> Mandate uses to predict corridor strikes. Rasel built the system; he did not
+> know what they would do with it. The betrayal is systemic and personal at once:
+> Lang's registry is not faceless; it is built from Rasel's work, repurposed by
+> people Rasel never met.
+
+### 4. Praetorian Cloisters / West Approach — Eli must authorize brutality
+
+> **PENDING MANUSCRIPT SCENE:** In the climactic North Line Junction defense,
+> the decentralized compact fails at a critical moment—Wren's bounded network
+> cannot route a needed countermeasure fast enough. Eli must explicitly authorize
+> the Praetorian cloisters to use lethal force without civilian review. By using
+> them, he validates their worldview and betrays his own ideals. The scene must
+> show the specific order, the specific consequence, and Eli's recognition that
+> he has just become the thing he refused to be. Body count is named, not
+> abstract.

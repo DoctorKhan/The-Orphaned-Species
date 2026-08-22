@@ -6,12 +6,12 @@
 
 ## Summary
 - **Chapters audited:** 25
-- **Flagged chapters:** 23
-- **Total flag instances:** 78
+- **Flagged chapters:** 24
+- **Total flag instances:** 79
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 23 |
+| SHORT-PARA-RUN | 24 |
 | STACKED-EM-DASHES | 21 |
 | ABSTRACT-DISTANCE | 14 |
 | NOT-X-BUT-Y | 6 |
@@ -31,9 +31,10 @@
   - SHORT-PARA-RUN (10 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 2—Saturday Departure [SPLIT-FROM: Ch 1]
-- **Word count:** 17
-- **Sentence count:** 1
-- **Flags:** none
+- **Word count:** 240
+- **Sentence count:** 24
+- **Flags:**
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 3—His Hand / Checkpoints and the Stack [PLACEHOLDER]
 - **Word count:** 9158
@@ -56,19 +57,19 @@
   - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
 ### ## Chapter 5—What Didn't Die [SPLIT-FROM: Ch 3]
-- **Word count:** 2525
-- **Sentence count:** 223
+- **Word count:** 2538
+- **Sentence count:** 224
 - **Flags:**
-  - STACKED-EM-DASHES (6 hits)
+  - STACKED-EM-DASHES (7 hits)
   - ECHO-CLOSER (1 hits)
   - ABSTRACT-DISTANCE (2 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 6—Breach Recovery [SPLIT-FROM: Ch 3]
-- **Word count:** 2524
-- **Sentence count:** 223
+- **Word count:** 2537
+- **Sentence count:** 224
 - **Flags:**
-  - STACKED-EM-DASHES (6 hits)
+  - STACKED-EM-DASHES (7 hits)
   - ECHO-CLOSER (1 hits)
   - ABSTRACT-DISTANCE (2 hits)
   - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
@@ -222,8 +223,8 @@
   - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 25—The Living Route [SPLIT-FROM: Ch 13]
-- **Word count:** 23
-- **Sentence count:** 1
+- **Word count:** 238
+- **Sentence count:** 22
 - **Flags:** none
 
 ## Open items

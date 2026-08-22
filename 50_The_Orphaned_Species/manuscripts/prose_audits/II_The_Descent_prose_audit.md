@@ -6,16 +6,16 @@
 
 ## Summary
 - **Chapters audited:** 25
-- **Flagged chapters:** 21
-- **Total flag instances:** 62
+- **Flagged chapters:** 23
+- **Total flag instances:** 66
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 21 |
+| SHORT-PARA-RUN | 23 |
 | ABSTRACT-DISTANCE | 12 |
 | NOT-X-BUT-Y | 10 |
-| STACKED-EM-DASHES | 9 |
-| ABSTRACT-DENSE | 8 |
+| STACKED-EM-DASHES | 10 |
+| ABSTRACT-DENSE | 9 |
 | ABSTRACT-OVER-BODY | 2 |
 
 ## Chapter-level detail
@@ -28,57 +28,58 @@
   - SHORT-PARA-RUN (23 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 2—The Westbound Packet [SPLIT-FROM: Ch 1]
-- **Word count:** 18
-- **Sentence count:** 1
+- **Word count:** 214
+- **Sentence count:** 18
 - **Flags:** none
 
 ### ## Chapter 3—The Folly [PLACEHOLDER]
-- **Word count:** 3987
-- **Sentence count:** 478
+- **Word count:** 4260
+- **Sentence count:** 498
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - ABSTRACT-DENSE (31 abstract terms, 119 body terms)
+  - STACKED-EM-DASHES (1 hits)
+  - ABSTRACT-DENSE (31 abstract terms, 143 body terms)
   - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 4—The Archive Exit [PLACEHOLDER]
-- **Word count:** 3988
-- **Sentence count:** 478
+- **Word count:** 4163
+- **Sentence count:** 491
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
-  - ABSTRACT-DENSE (31 abstract terms, 119 body terms)
+  - ABSTRACT-DENSE (31 abstract terms, 134 body terms)
   - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 5—The Buried Instrument [SPLIT-FROM: Ch 3]
-- **Word count:** 4650
-- **Sentence count:** 610
+- **Word count:** 4926
+- **Sentence count:** 633
 - **Flags:**
   - NOT-X-BUT-Y (3 hits)
+  - STACKED-EM-DASHES (1 hits)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 6—The Clinic Approach [SPLIT-FROM: Ch 3]
-- **Word count:** 4650
-- **Sentence count:** 610
+- **Word count:** 4781
+- **Sentence count:** 620
 - **Flags:**
   - NOT-X-BUT-Y (3 hits)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 7—Laurel Crossing [PLACEHOLDER]
-- **Word count:** 3203
-- **Sentence count:** 561
+- **Word count:** 6553
+- **Sentence count:** 1135
 - **Flags:**
-  - STACKED-EM-DASHES (1 hits)
-  - SHORT-PARA-RUN (20 run(s) of 3+ short paragraphs)
+  - STACKED-EM-DASHES (2 hits)
+  - ABSTRACT-DENSE (34 abstract terms, 241 body terms)
+  - SHORT-PARA-RUN (39 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 8—The Healer's Clinic [PLACEHOLDER]
-- **Word count:** 3204
-- **Sentence count:** 561
-- **Flags:**
-  - STACKED-EM-DASHES (1 hits)
-  - SHORT-PARA-RUN (20 run(s) of 3+ short paragraphs)
+- **Word count:** 124
+- **Sentence count:** 12
+- **Flags:** none
 
 ### ## Chapter 9—The Holding Entry [SPLIT-FROM: Ch 5]
-- **Word count:** 4187
-- **Sentence count:** 557
+- **Word count:** 4329
+- **Sentence count:** 571
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
   - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
@@ -99,8 +100,8 @@
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 12—The Changing Map [SPLIT-FROM: Ch 6]
-- **Word count:** 3707
-- **Sentence count:** 532
+- **Word count:** 3802
+- **Sentence count:** 538
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
@@ -113,22 +114,22 @@
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 14—The Stray Settlement [SPLIT-FROM: Ch 6]
-- **Word count:** 4750
-- **Sentence count:** 609
+- **Word count:** 4865
+- **Sentence count:** 619
 - **Flags:**
   - STACKED-EM-DASHES (4 hits)
   - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-DENSE (24 abstract terms, 184 body terms)
+  - ABSTRACT-DENSE (25 abstract terms, 194 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 15—The Riddling Ground [SPLIT-FROM: Ch 7]
-- **Word count:** 4764
-- **Sentence count:** 609
+- **Word count:** 4879
+- **Sentence count:** 619
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (4 hits)
   - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-DENSE (24 abstract terms, 184 body terms)
+  - ABSTRACT-DENSE (25 abstract terms, 194 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 16—Callum Recovery and Renewal [SPLIT-FROM: Ch 7]
@@ -175,12 +176,12 @@
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 21—The Instrument Cap [SPLIT-FROM: Ch 9]
-- **Word count:** 3297
-- **Sentence count:** 436
+- **Word count:** 3448
+- **Sentence count:** 450
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 117 body terms)
+  - ABSTRACT-DENSE (22 abstract terms, 123 body terms)
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 22—The Avebury Approach [SPLIT-FROM: Ch 9]
@@ -193,19 +194,22 @@
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 23—Release [SPLIT-FROM: Ch 10]
-- **Word count:** 7
-- **Sentence count:** 1
-- **Flags:** none
+- **Word count:** 302
+- **Sentence count:** 35
+- **Flags:**
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 24—The Release Choice [SPLIT-FROM: Ch 10]
-- **Word count:** 9
-- **Sentence count:** 1
-- **Flags:** none
+- **Word count:** 273
+- **Sentence count:** 34
+- **Flags:**
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 25—Aftermath and Book III Ignition [SPLIT-FROM: Ch 10]
-- **Word count:** 10
-- **Sentence count:** 1
-- **Flags:** none
+- **Word count:** 317
+- **Sentence count:** 34
+- **Flags:**
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ## Open items
 
