@@ -6401,8 +6401,6 @@ if the child is born healthy and the clinics open and the seed bank delivers.
 
 The compact is now also the thing it was built to refuse.
 
-## Chapter 23—The Labor Inversion
-
 The birthing room is not a single room. It is a suite: a laboring room, a waiting room, a corridor, and a closet that someone has turned into a nursing station. The closet has a curtain that does not close all the way. The curtain is blue. The rod is bent.
 
 Rowan is in the laboring room. She is on her feet. She does not want to be on the bed. The bed is narrow. The sheet is thin. The pillow has a stain on the case that no one has changed. She has been walking the corridor for three hours. Her breath is steady. Her hands are open.
@@ -6593,7 +6591,6 @@ to carry alone. He cannot carry it for her. He cannot uncarry it.
 
 He looks at the water. The water is gray. The boats are gone.
 
-## Chapter 24—The Sideways Four Seconds [SPLIT-FROM: Ch 13]
 Somchai is sitting on the warehouse steps. He is peeling an orange. He is
 thinking about the four seconds.
 

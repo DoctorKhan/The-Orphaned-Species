@@ -6706,6 +6706,20 @@ They fix the roof. It takes two hours. They use tar and scrap wood. The leak
 slows. It does not stop. They agree to come back tomorrow. They also agree that
 tomorrow they will bring tools.
 
+The witness is a man from the gutter crew. He says he saw the patient enter the corridor. He says he saw Eli at the gate. He says he did not see a sponsor. He says the corridor was not cleared because the clearance came ten minutes after the patient passed.
+
+The recorder writes. The pen scratches. The clock ticks five minutes ahead of the room.
+
+Eli does not ask the witness questions. He does not need to. The house representative will ask the questions that make the witness look unreliable, and Eli will sit quietly while the story rearranges itself into something the committee can file.
+
+Amara Okafor is in the back row. She is not a witness. She is not a committee member. She is there because the room is open and she has nowhere else to sit. She is wearing a coat that is too large for her. It was her sister's. It still smells like the river.
+
+When the house representative names the charge, Amara's hands close. She is holding a paper bag. The bag crinkles. She does not open it. She does not throw it. She just holds it tighter.
+
+Eli sees her. He does not look away. He lets her see him see her. He does not try to make the bag uncrinkle. He does not offer his own version of the story.
+
+The hearing ends in forty-three minutes. The decision is reserved. The clock is reset.
+
 The argument starts after the roof. Some of the men want a fighting brotherhood.
 Some want a repair guild. Some do not trust each other enough to want anything
 shared at all.
