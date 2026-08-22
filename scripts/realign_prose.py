@@ -139,19 +139,20 @@ for book_key, cfg in BOOKS.items():
         title = cfg['titles'][new_ch]
         source_block = blocks.get(str(old_ch))
         
-        if new_ch == old_ch and source_block and source_block['status'] == 'EXISTING':
-            # Carry: keep original block as-is
+        if source_block and source_block['status'] != 'PLACEHOLDER':
+            # Carry or split: duplicate source prose with new heading
             block_content = source_block['content']
-        elif source_block and source_block['status'] == 'EXISTING':
-            # Split: duplicate source prose with new heading
-            block_content = source_block['content']
-            # Replace heading line with new chapter number, title, and split tag
-            block_content = re.sub(
-                r'^## Chapter \d+[a-z]?—[^\[]+\[[^\]]+\]',
-                f'## Chapter {new_ch}—{title} [SPLIT-FROM: Ch {old_ch}]',
-                block_content,
-                count=1
-            )
+            if new_ch == old_ch and source_block['status'] == 'EXISTING':
+                # Carry: keep original block as-is
+                pass
+            else:
+                # Split: replace heading with new chapter number, title, and split tag
+                block_content = re.sub(
+                    r'^## Chapter \d+[a-z]?—[^\[]+\[[^\]]+\]',
+                    f'## Chapter {new_ch}—{title} [SPLIT-FROM: Ch {old_ch}]',
+                    block_content,
+                    count=1
+                )
         else:
             # Placeholder
             block_content = f'## Chapter {new_ch}—{title} [PLACEHOLDER]\n[PLACEHOLDER — draft prose here]\n'

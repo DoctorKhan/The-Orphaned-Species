@@ -1,127 +1,268 @@
-# I — The Breach — Prose Audit
+# Volume I — *The Breach* — Prose Audit
 *Generated from on-disk files. Rerun after prose revisions.*
 
-> **Generated:** 2026-08-21 17:15 UTC
+> **Generated:** current as of last script run.
 > Treat as draft until manual review.
+
+## Summary
 - **Chapters audited:** 25
-- **Flagged chapters:** 12
-- **Total flag instances:** 33
+- **Flagged chapters:** 24
+- **Total flag instances:** 88
 
 | Flag | Chapters |
 |---|---|
-| EM-DASHES | 9 |
-| TELL-NOT-SHOW | 12 |
-| NOT-X-BUT-Y | 12 |
+| SHORT-PARA-RUN | 24 |
+| STACKED-EM-DASHES | 22 |
+| ABSTRACT-DISTANCE | 16 |
+| NOT-X-BUT-Y | 8 |
+| TIDY-COMPARISON | 6 |
+| PARALLEL-ABSTRACTION | 4 |
+| CLICHED-METAPHOR | 2 |
+| IDENTICAL-PARA-OPENING | 2 |
+| ECHO-CLOSER | 2 |
+| TELL-NOT-SHOW | 2 |
 
-## Summary
-### Ch 01 — Distributed [EXISTING]
-- **Words:** 2247
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+## Chapter-level detail
 
-### Ch 02 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 1—The Hour That Belongs to No One [EXISTING]
+- **Word count:** 5538
+- **Sentence count:** 513
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+  - PARALLEL-ABSTRACTION (1 hits)
+  - CLICHED-METAPHOR (1 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
-### Ch 03 — Distributed [EXISTING]
-- **Words:** 3276
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 2—Saturday Departure [SPLIT-FROM: Ch 1]
+- **Word count:** 5535
+- **Sentence count:** 513
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+  - PARALLEL-ABSTRACTION (1 hits)
+  - CLICHED-METAPHOR (1 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
-### Ch 04 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 3—His Hand / Checkpoints and the Stack [EXISTING]
+- **Word count:** 9158
+- **Sentence count:** 862
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (3 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
+  - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
-### Ch 05 — Distributed [EXISTING]
-- **Words:** 3675
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, TELL-NOT-SHOW
+### ## Chapter 4—Singapore Intake [EXISTING]
+- **Word count:** 9153
+- **Sentence count:** 862
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (3 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
+  - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
-### Ch 06 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 5—What Didn't Die [SPLIT-FROM: Ch 3]
+- **Word count:** 2525
+- **Sentence count:** 223
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (6 hits)
+  - ECHO-CLOSER (1 hits)
+  - ABSTRACT-DISTANCE (2 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### Ch 07 — Distributed [EXISTING]
-- **Words:** 2199
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, TELL-NOT-SHOW
+### ## Chapter 6—Breach Recovery [SPLIT-FROM: Ch 3]
+- **Word count:** 2524
+- **Sentence count:** 223
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (6 hits)
+  - ECHO-CLOSER (1 hits)
+  - ABSTRACT-DISTANCE (2 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### Ch 08 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 7—The Passage [EXISTING]
+- **Word count:** 2064
+- **Sentence count:** 179
+- **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### Ch 09 — Distributed [EXISTING]
-- **Words:** 3263
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, TELL-NOT-SHOW
+### ## Chapter 8—Departure and Wat [EXISTING]
+- **Word count:** 2065
+- **Sentence count:** 179
+- **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### Ch 10 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 9—The Field That Counts [SPLIT-FROM: Ch 5]
+- **Word count:** 4001
+- **Sentence count:** 343
+- **Flags:**
+  - NOT-X-BUT-Y (4 hits)
+  - STACKED-EM-DASHES (6 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
-### Ch 11 — Distributed [EXISTING]
-- **Words:** 2511
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 10—Grounding Arrival [SPLIT-FROM: Ch 5]
+- **Word count:** 3999
+- **Sentence count:** 343
+- **Flags:**
+  - NOT-X-BUT-Y (4 hits)
+  - STACKED-EM-DASHES (6 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
-### Ch 12 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 11—Midpoint: First Witness [EXISTING]
+- **Word count:** 1301
+- **Sentence count:** 116
+- **Flags:**
+  - STACKED-EM-DASHES (2 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
-### Ch 13 — Distributed [EXISTING]
-- **Words:** 2053
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 12—Witness Ground [EXISTING]
+- **Word count:** 1300
+- **Sentence count:** 116
+- **Flags:**
+  - STACKED-EM-DASHES (2 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
-### Ch 14 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 13—The Forming Line [SPLIT-FROM: Ch 7]
+- **Word count:** 2285
+- **Sentence count:** 196
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - TIDY-COMPARISON (1 hits)
+  - STACKED-EM-DASHES (8 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### Ch 15 — Distributed [EXISTING]
-- **Words:** 3984
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 14—The Cooperative Edge [SPLIT-FROM: Ch 7]
+- **Word count:** 2285
+- **Sentence count:** 196
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - TIDY-COMPARISON (1 hits)
+  - STACKED-EM-DASHES (8 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### Ch 16 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 15—Ila's Hands [EXISTING]
+- **Word count:** 1563
+- **Sentence count:** 136
+- **Flags:**
+  - STACKED-EM-DASHES (4 hits)
+  - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
 
-### Ch 17 — Distributed [EXISTING]
-- **Words:** 3563
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 16—Hands and Repair [EXISTING]
+- **Word count:** 1564
+- **Sentence count:** 136
+- **Flags:**
+  - STACKED-EM-DASHES (4 hits)
+  - SHORT-PARA-RUN (2 run(s) of 3+ short paragraphs)
 
-### Ch 18 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 17—Two Teams [SPLIT-FROM: Ch 9]
+- **Word count:** 1434
+- **Sentence count:** 104
+- **Flags:**
+  - TIDY-COMPARISON (1 hits)
+  - STACKED-EM-DASHES (6 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### Ch 19 — Distributed [EXISTING]
-- **Words:** 4933
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 18—Civilian Response [SPLIT-FROM: Ch 9]
+- **Word count:** 1434
+- **Sentence count:** 104
+- **Flags:**
+  - TIDY-COMPARISON (1 hits)
+  - STACKED-EM-DASHES (6 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (3 run(s) of 3+ short paragraphs)
 
-### Ch 20 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 19—People Over Evidence [EXISTING]
+- **Word count:** 1957
+- **Sentence count:** 188
+- **Flags:**
+  - STACKED-EM-DASHES (6 hits)
+  - SHORT-PARA-RUN (5 run(s) of 3+ short paragraphs)
 
-### Ch 21 — Distributed [EXISTING]
-- **Words:** 4316
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 20—Evidence Burn [EXISTING]
+- **Word count:** 1956
+- **Sentence count:** 188
+- **Flags:**
+  - STACKED-EM-DASHES (6 hits)
+  - SHORT-PARA-RUN (5 run(s) of 3+ short paragraphs)
 
-### Ch 22 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 21—Human Doors [SPLIT-FROM: Ch 11]
+- **Word count:** 4329
+- **Sentence count:** 453
+- **Flags:**
+  - STACKED-EM-DASHES (5 hits)
+  - TELL-NOT-SHOW (1 hits)
+  - PARALLEL-ABSTRACTION (1 hits)
+  - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
-### Ch 23 — Distributed [EXISTING]
-- **Words:** 2014
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 22—The Laos Border [SPLIT-FROM: Ch 11]
+- **Word count:** 4330
+- **Sentence count:** 453
+- **Flags:**
+  - STACKED-EM-DASHES (5 hits)
+  - TELL-NOT-SHOW (1 hits)
+  - PARALLEL-ABSTRACTION (1 hits)
+  - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
-### Ch 24 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 23—The Tree with No Top [EXISTING]
+- **Word count:** 2024
+- **Sentence count:** 217
+- **Flags:**
+  - TIDY-COMPARISON (1 hits)
+  - STACKED-EM-DASHES (1 hits)
+  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
 
-### Ch 25 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 24—Conservation Campus [EXISTING]
+- **Word count:** 2021
+- **Sentence count:** 217
+- **Flags:**
+  - TIDY-COMPARISON (1 hits)
+  - STACKED-EM-DASHES (1 hits)
+  - SHORT-PARA-RUN (9 run(s) of 3+ short paragraphs)
+
+### ## Chapter 25—The Living Route [SPLIT-FROM: Ch 13]
+- **Word count:** 23
+- **Sentence count:** 1
+- **Flags:** none
+
+## Open items
+
+1. These are heuristic flags, not verdicts. Review flagged passages individually.
+2. `ABSTRACT-OVER-BODY` uses a sliding window; tune the window size if false-positive rate is high.
+3. `STALE-FRAMING` is pattern-based; expand `STALE_FRAMING` after each lock change.
+4. `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY` check the first paragraph only.
+5. `SHORT-PARA-RUN` / `LONG-PARAGRAPH` / `IDENTICAL-PARA-OPENING` are rhythm flags, not prose verdicts. Review in context.
+6. Paragraph metrics are collected per-chapter; short/long paragraph counts can be inflated by dialogue, metadata, or intentional rhythm.
+7. `TIDY-COMPARISON` flags symmetrical simile syntax; review for interchangeability, not every instance is wrong.
+
+## Methodology
+
+Pattern checks applied:
+- `NOT-X-BUT-Y`: default contrastive shape
+- `TIDY-COMPARISON`: symmetrical simile/comparison syntax
+- `STACKED-EM-DASHES`: 2+ em dashes in one sentence
+- `COLON-HEAVY`: 2+ colons in one sentence
+- `ECHO-CLOSER`: final-sentence thematic restatement
+- `TELL-NOT-SHOW`: interpretive-telling words
+- `ABSTRACT-DENSE`: high abstract-noun count
+- `ABSTRACT-OVER-BODY`: abstract terms outweigh body terms in a local window
+- `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY`: chapter open without physical body
+- `STALE-FRAMING`: superseded canonical phrasing
+- `SHORT-PARA-RUN`: 3+ consecutive paragraphs under 25 words
+- `LONG-PARAGRAPH`: paragraph over 250 words
+- `IDENTICAL-PARA-OPENING`: 3+ consecutive paragraphs opening with same word shape
+- `ABSTRACT-OPEN-PARA`: paragraph opening with abstract thematic language
+
+Source: `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence / AI-pattern checklist* and § *Human-prose lock*; `AGENTS.md` prose discipline.

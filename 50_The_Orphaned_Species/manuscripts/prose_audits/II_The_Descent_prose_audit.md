@@ -1,127 +1,245 @@
-# II — The Descent — Prose Audit
+# Volume II — *The Descent* — Prose Audit
 *Generated from on-disk files. Rerun after prose revisions.*
 
-> **Generated:** 2026-08-21 17:15 UTC
+> **Generated:** current as of last script run.
 > Treat as draft until manual review.
+
+## Summary
 - **Chapters audited:** 25
-- **Flagged chapters:** 12
-- **Total flag instances:** 33
+- **Flagged chapters:** 22
+- **Total flag instances:** 69
 
 | Flag | Chapters |
 |---|---|
-| EM-DASHES | 9 |
-| TELL-NOT-SHOW | 12 |
-| NOT-X-BUT-Y | 12 |
+| SHORT-PARA-RUN | 22 |
+| NOT-X-BUT-Y | 14 |
+| ABSTRACT-DISTANCE | 12 |
+| STACKED-EM-DASHES | 10 |
+| ABSTRACT-DENSE | 8 |
+| ABSTRACT-OVER-BODY | 3 |
 
-## Summary
-### Ch 01 — Distributed [EXISTING]
-- **Words:** 3079
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+## Chapter-level detail
 
-### Ch 02 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 1—What Came Home [EXISTING]
+- **Word count:** 3089
+- **Sentence count:** 354
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - SHORT-PARA-RUN (23 run(s) of 3+ short paragraphs)
 
-### Ch 03 — Distributed [EXISTING]
-- **Words:** 3989
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 2—The Westbound Packet [SPLIT-FROM: Ch 1]
+- **Word count:** 3091
+- **Sentence count:** 354
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - SHORT-PARA-RUN (23 run(s) of 3+ short paragraphs)
 
-### Ch 04 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 3—The Folly [EXISTING]
+- **Word count:** 3998
+- **Sentence count:** 479
+- **Flags:**
+  - NOT-X-BUT-Y (2 hits)
+  - ABSTRACT-DENSE (31 abstract terms, 119 body terms)
+  - SHORT-PARA-RUN (25 run(s) of 3+ short paragraphs)
 
-### Ch 05 — Distributed [EXISTING]
-- **Words:** 4636
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 4—The Archive Exit [EXISTING]
+- **Word count:** 3999
+- **Sentence count:** 479
+- **Flags:**
+  - NOT-X-BUT-Y (2 hits)
+  - ABSTRACT-DENSE (31 abstract terms, 119 body terms)
+  - SHORT-PARA-RUN (25 run(s) of 3+ short paragraphs)
 
-### Ch 06 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 5—The Buried Instrument [SPLIT-FROM: Ch 3]
+- **Word count:** 4650
+- **Sentence count:** 610
+- **Flags:**
+  - NOT-X-BUT-Y (3 hits)
+  - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
 
-### Ch 07 — Distributed [EXISTING]
-- **Words:** 3693
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 6—The Clinic Approach [SPLIT-FROM: Ch 3]
+- **Word count:** 4650
+- **Sentence count:** 610
+- **Flags:**
+  - NOT-X-BUT-Y (3 hits)
+  - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
 
-### Ch 08 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 7—Laurel Crossing [EXISTING]
+- **Word count:** 3203
+- **Sentence count:** 561
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+  - SHORT-PARA-RUN (20 run(s) of 3+ short paragraphs)
 
-### Ch 09 — Distributed [EXISTING]
-- **Words:** 3193
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 8—The Healer's Clinic [EXISTING]
+- **Word count:** 3204
+- **Sentence count:** 561
+- **Flags:**
+  - STACKED-EM-DASHES (1 hits)
+  - SHORT-PARA-RUN (20 run(s) of 3+ short paragraphs)
 
-### Ch 10 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 9—The Holding Entry [SPLIT-FROM: Ch 5]
+- **Word count:** 4200
+- **Sentence count:** 557
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (1 hits)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
-### Ch 11 — Distributed [EXISTING]
-- **Words:** 4188
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 10—The Midpoint Revelation [SPLIT-FROM: Ch 5]
+- **Word count:** 4200
+- **Sentence count:** 557
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (1 hits)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
-### Ch 12 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 11—Ring and Romance Cost [SPLIT-FROM: Ch 5]
+- **Word count:** 3706
+- **Sentence count:** 532
+- **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
-### Ch 13 — Distributed [EXISTING]
-- **Words:** 3693
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 12—The Changing Map [SPLIT-FROM: Ch 6]
+- **Word count:** 3705
+- **Sentence count:** 532
+- **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
-### Ch 14 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 13—The Broken-Line Church [SPLIT-FROM: Ch 6]
+- **Word count:** 3705
+- **Sentence count:** 532
+- **Flags:**
+  - ABSTRACT-DISTANCE (1 hits)
+  - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
-### Ch 15 — Distributed [EXISTING]
-- **Words:** 4745
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 14—The Stray Settlement [SPLIT-FROM: Ch 6]
+- **Word count:** 4762
+- **Sentence count:** 609
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (4 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - ABSTRACT-DENSE (24 abstract terms, 184 body terms)
+  - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
-### Ch 16 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 15—The Riddling Ground [SPLIT-FROM: Ch 7]
+- **Word count:** 4762
+- **Sentence count:** 609
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (4 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - ABSTRACT-DENSE (24 abstract terms, 184 body terms)
+  - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
-### Ch 17 — Distributed [EXISTING]
-- **Words:** 4522
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, EM-DASHES, TELL-NOT-SHOW
+### ## Chapter 16—Callum Recovery and Renewal [SPLIT-FROM: Ch 7]
+- **Word count:** 4763
+- **Sentence count:** 609
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - STACKED-EM-DASHES (4 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - ABSTRACT-DENSE (24 abstract terms, 184 body terms)
+  - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
-### Ch 18 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 17—The Transfer-Records Discovery [SPLIT-FROM: Ch 7]
+- **Word count:** 2273
+- **Sentence count:** 299
+- **Flags:**
+  - STACKED-EM-DASHES (3 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
+  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
-### Ch 19 — Distributed [EXISTING]
-- **Words:** 3284
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, TELL-NOT-SHOW
+### ## Chapter 18—The Corridor Signal [EXISTING]
+- **Word count:** 2271
+- **Sentence count:** 299
+- **Flags:**
+  - STACKED-EM-DASHES (3 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
+  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
-### Ch 20 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 19—One-Way Contact [EXISTING]
+- **Word count:** 2270
+- **Sentence count:** 299
+- **Flags:**
+  - STACKED-EM-DASHES (3 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
+  - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
-### Ch 21 — Distributed [EXISTING]
-- **Words:** 3284
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, TELL-NOT-SHOW
+### ## Chapter 20—The Transmission Station [SPLIT-FROM: Ch 9]
+- **Word count:** 3297
+- **Sentence count:** 436
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - ABSTRACT-DENSE (22 abstract terms, 117 body terms)
+  - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
-### Ch 22 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 21—The Instrument Cap [SPLIT-FROM: Ch 9]
+- **Word count:** 3297
+- **Sentence count:** 436
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - ABSTRACT-DENSE (22 abstract terms, 117 body terms)
+  - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
-### Ch 23 — Distributed [EXISTING]
-- **Words:** 4350
-- **Status:** PROSE
-- **Flags:** NOT-X-BUT-Y, TELL-NOT-SHOW
+### ## Chapter 22—The Avebury Approach [SPLIT-FROM: Ch 9]
+- **Word count:** 3297
+- **Sentence count:** 436
+- **Flags:**
+  - NOT-X-BUT-Y (1 hits)
+  - ABSTRACT-DISTANCE (1 hits)
+  - ABSTRACT-DENSE (22 abstract terms, 117 body terms)
+  - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
-### Ch 24 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 23—Release [SPLIT-FROM: Ch 10]
+- **Word count:** 6
+- **Sentence count:** 1
+- **Flags:** none
 
-### Ch 25 — TBD [PLACEHOLDER]
-- **Words:** 0
-- **Status:** PLACEHOLDER
+### ## Chapter 24—The Release Choice [SPLIT-FROM: Ch 10]
+- **Word count:** 8
+- **Sentence count:** 1
+- **Flags:** none
+
+### ## Chapter 25—Aftermath and Book III Ignition [SPLIT-FROM: Ch 10]
+- **Word count:** 10
+- **Sentence count:** 1
+- **Flags:** none
+
+## Open items
+
+1. These are heuristic flags, not verdicts. Review flagged passages individually.
+2. `ABSTRACT-OVER-BODY` uses a sliding window; tune the window size if false-positive rate is high.
+3. `STALE-FRAMING` is pattern-based; expand `STALE_FRAMING` after each lock change.
+4. `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY` check the first paragraph only.
+5. `SHORT-PARA-RUN` / `LONG-PARAGRAPH` / `IDENTICAL-PARA-OPENING` are rhythm flags, not prose verdicts. Review in context.
+6. Paragraph metrics are collected per-chapter; short/long paragraph counts can be inflated by dialogue, metadata, or intentional rhythm.
+7. `TIDY-COMPARISON` flags symmetrical simile syntax; review for interchangeability, not every instance is wrong.
+
+## Methodology
+
+Pattern checks applied:
+- `NOT-X-BUT-Y`: default contrastive shape
+- `TIDY-COMPARISON`: symmetrical simile/comparison syntax
+- `STACKED-EM-DASHES`: 2+ em dashes in one sentence
+- `COLON-HEAVY`: 2+ colons in one sentence
+- `ECHO-CLOSER`: final-sentence thematic restatement
+- `TELL-NOT-SHOW`: interpretive-telling words
+- `ABSTRACT-DENSE`: high abstract-noun count
+- `ABSTRACT-OVER-BODY`: abstract terms outweigh body terms in a local window
+- `ABSTRACT-OPEN` / `OPEN-LIGHT-ON-BODY`: chapter open without physical body
+- `STALE-FRAMING`: superseded canonical phrasing
+- `SHORT-PARA-RUN`: 3+ consecutive paragraphs under 25 words
+- `LONG-PARAGRAPH`: paragraph over 250 words
+- `IDENTICAL-PARA-OPENING`: 3+ consecutive paragraphs opening with same word shape
+- `ABSTRACT-OPEN-PARA`: paragraph opening with abstract thematic language
+
+Source: `14_literary_speculative_thriller_style_guide.md` § *Generic-cadence / AI-pattern checklist* and § *Human-prose lock*; `AGENTS.md` prose discipline.

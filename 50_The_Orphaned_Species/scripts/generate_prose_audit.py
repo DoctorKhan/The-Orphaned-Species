@@ -18,7 +18,7 @@ from collections import Counter
 
 BASE = Path(__file__).resolve().parent.parent
 MANUSCRIPTS = BASE / "manuscripts"
-OUT = MANUSCRIPTS
+OUT = MANUSCRIPTS / "prose_audits"
 
 BOOKS = [
     {
