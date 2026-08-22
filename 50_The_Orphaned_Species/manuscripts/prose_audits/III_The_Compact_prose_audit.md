@@ -5,14 +5,14 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 16
-- **Flagged chapters:** 12
-- **Total flag instances:** 27
+- **Chapters audited:** 15
+- **Flagged chapters:** 11
+- **Total flag instances:** 25
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 10 |
-| ABSTRACT-DENSE | 5 |
+| SHORT-PARA-RUN | 9 |
+| ABSTRACT-DENSE | 4 |
 | OPEN-LIGHT-ON-BODY | 4 |
 | ECHO-CLOSER | 3 |
 | STACKED-EM-DASHES | 2 |
@@ -51,26 +51,19 @@
   - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 9—The Sideways Record [SPLIT-FROM: Ch 5]
-- **Word count:** 3771
-- **Sentence count:** 455
+- **Word count:** 8367
+- **Sentence count:** 991
 - **Flags:**
-  - STACKED-EM-DASHES (5 hits)
+  - STACKED-EM-DASHES (6 hits)
   - ECHO-CLOSER (1 hits)
-  - ABSTRACT-DENSE (26 abstract terms, 84 body terms)
-  - OPEN-LIGHT-ON-BODY
-  - SHORT-PARA-RUN (30 run(s) of 3+ short paragraphs)
-
-### ## Chapter 11—The Ambassador Dinner [PLACEHOLDER]
-- **Word count:** 3750
-- **Sentence count:** 448
-- **Flags:**
   - TELL-NOT-SHOW (1 hits)
-  - ABSTRACT-DENSE (31 abstract terms, 68 body terms)
+  - ABSTRACT-DENSE (59 abstract terms, 173 body terms)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
+  - OPEN-LIGHT-ON-BODY
+  - SHORT-PARA-RUN (58 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 13—Qiao's Testimony and the Survivor [SPLIT-FROM: Ch 7]
-- **Word count:** 2938
+- **Word count:** 2929
 - **Sentence count:** 353
 - **Flags:**
   - ECHO-CLOSER (1 hits)

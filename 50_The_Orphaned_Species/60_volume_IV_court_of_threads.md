@@ -1608,8 +1608,9 @@ The camera moves to Rowan and Wren, but the book must not lose the thriller's fo
 | 6 | The Body of State | 6, 20 | Expanded with Somchai misnaming beat and hospital conversation. |
 | 7 | The Two Houses | 7, 15, 16 | Expanded to include games hearing, recruitment refusal, and Ilyara boundary closure. |
 | 8 | The False Heir | 8, 19 | Expanded with false-heir draft compromise. |
-| 9 | The Room Prepared | 9 | Preserved; labor simultaneity and center-loss proof unchanged. |
+|| 9 | The Room Prepared | 9 | Preserved; labor simultaneity and center-loss proof unchanged. |
 | 10 | Before the First Breath | 10, 22, 23 | Expanded to include praetorian demand and labor inversion; coda remains Chapter 25 in spirit, now distributed. |
+| 22 | The Praetorian Demand | 22 | Drafted 2026-08-21: Caju bridge, Eli authorizes West Approach lethal force, body count named. |
 
 New chapters:
 - 11 — The Stag Teacher (Eli's Five Forms entry and refusal of public credit)

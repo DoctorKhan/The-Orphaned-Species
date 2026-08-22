@@ -83,7 +83,7 @@ Suresh takes Eli's line without ceremony. For a moment the two of them look out 
 
 He studies Eli's face. "What happens to you out there? It happened to your mother sometimes. I saw it when I taught her. She said everything narrowed."
 
-The salt dries on his skin. He cannot say what happened out there, or whether the look Suresh saw belonged to Maren or to him.
+The salt dries on his skin. He watches Suresh's face and sees Maren there, then himself, then nothing he can name.
 
 "I don't know."
 
@@ -3677,7 +3677,7 @@ The recording cannot hear her.
 Eli sees the Custodian sitting down in the rice. The children on the bund. The
 pump house burning. The ledger writes itself again—Salmah's boat under tow, the
 platform keeper's risk, a Thai voice gone quiet—and he does not let Anika decide
-what the debt means.
+what those names cost.
 
 "Their names," he says.
 
@@ -3896,8 +3896,8 @@ The signs around the station shift between characters, pinyin, and the practical
 abbreviations of freight. Wren reads them without slowing. Mandarin was one of her
 home languages; Malay, English, and port shorthand filled the rest of the house.
 Her family taught Chinese culture as conduct—how to enter a room, when to let an
-elder speak, which questions were private, how food and obligation moved through a
-table. They did not teach her the specialist history of Sichuan, and she does not
+elder speak, which questions were private, how food moved through a table
+and who sat where. They did not teach her the specialist history of Sichuan, and she does not
 pretend they did. Sanxingdui was a museum name, an old image, a subject adults
 warned her not to flatten into a story.
 
@@ -4103,7 +4103,7 @@ The recording cannot hear her.
 Eli sees the Custodian sitting down in the rice. The children on the bund. The
 pump house burning. The ledger writes itself again—Salmah's boat under tow, the
 platform keeper's risk, a Thai voice gone quiet—and he does not let Anika decide
-what the debt means.
+what those names cost.
 
 "Their names," he says.
 
@@ -4322,8 +4322,8 @@ The signs around the station shift between characters, pinyin, and the practical
 abbreviations of freight. Wren reads them without slowing. Mandarin was one of her
 home languages; Malay, English, and port shorthand filled the rest of the house.
 Her family taught Chinese culture as conduct—how to enter a room, when to let an
-elder speak, which questions were private, how food and obligation moved through a
-table. They did not teach her the specialist history of Sichuan, and she does not
+elder speak, which questions were private, how food moved through a table
+and who sat where. They did not teach her the specialist history of Sichuan, and she does not
 pretend they did. Sanxingdui was a museum name, an old image, a subject adults
 warned her not to flatten into a story.
 

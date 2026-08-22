@@ -111,7 +111,18 @@ Books I–IV. Full lock: `17` § *I–IV reader vocabulary* and § *Tomorrow tes
 - Twelve known words only. See the desk card.
 - Narrator theology stays off. A plaque, a file header, or a mouth that might be wrong may carry a name.
 - Residue that does not change a route, a relationship, or a refusal in the next chapter is wallpaper. Cut it or give it a job.
-- One unthematic stretch per chapter. `31` / `32` hold the per-chapter lists.
+|- One unthematic stretch per chapter. `31` / `32` hold the per-chapter lists.
+
+### Sol / Somchai register separation — LOCKED 2026-08-21
+
+These two characters are canonically distinct: **Sol Méndez** is the armed-prophet antagonist preaching forced unity through synchronization; **Somchai Vichai** is the Thai nurse/field medic who refuses the crown of the body. Their names sound similar enough that the prose must re-anchor which man is present every time either appears in a scene with both institutional and bodily stakes.
+
+Locked markers:
+- **Somchai** is paired with clinical vocabulary: pulse, dress, hand-washing, triage, medical chart, chair, cot, ward, clinic, corridor/ward walk.
+- **Sol** is paired with prophetic/command vocabulary: scarf, broadcast, field sync, depot, bridge, stadium, crowd, recruitment, altar.
+- If the scene contains both men, the prose must name at least one concrete object that belongs to each man's register before any dialogue begins.
+
+**Do not** let either man enter a corridor, hall, or meeting and speak two lines before the reader knows which man is standing there.
 
 ## Beauty, desire, and dramatic multiplicity — LOCKED 2026-07-22
 

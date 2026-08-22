@@ -6,12 +6,12 @@
 
 ## Summary
 - **Chapters audited:** 16
-- **Flagged chapters:** 9
-- **Total flag instances:** 18
+- **Flagged chapters:** 10
+- **Total flag instances:** 19
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 9 |
+| SHORT-PARA-RUN | 10 |
 | STACKED-EM-DASHES | 3 |
 | ABSTRACT-DENSE | 1 |
 | IDENTICAL-PARA-OPENING | 1 |
@@ -38,7 +38,7 @@
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 5—The Rumor [SPLIT-FROM: Ch 3]
-- **Word count:** 2360
+- **Word count:** 2361
 - **Sentence count:** 283
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
@@ -101,9 +101,10 @@
 - **Flags:** none
 
 ### ## Chapter 22—The Praetorian Demand [SPLIT-FROM: Ch 11]
-- **Word count:** 23
-- **Sentence count:** 1
-- **Flags:** none
+- **Word count:** 1195
+- **Sentence count:** 136
+- **Flags:**
+  - SHORT-PARA-RUN (6 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 23—The Labor Inversion [PLACEHOLDER]
 - **Word count:** 21

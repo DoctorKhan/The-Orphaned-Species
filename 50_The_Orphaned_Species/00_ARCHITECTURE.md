@@ -111,3 +111,138 @@ The three layers mirror the cosmology's own structure. **Layer 1** is the lived,
 - `00_MASTER_TIMELINE.md` is the **source** for Layer 2's *True History* **and** the **full text** of Layer 3's *Record* — the readable mythology is distilled *from* it.
 - `SOURCE_the_surges.md` is Eli's **floor** in Layer 1 **and** a **Record** document in Layer 3.
 - `00_NARRATIVE_STRUCTURE.md` is the **bible for the Novel** (Layer 1's spine) — a working doc, not itself published.
+
+## The four corners — oppositional structure across Books I–X
+
+> **FOUR CORNERS — LOCKED 2026-08-21:** The series opposition map. Eli is the
+> nexus point where all four corners meet. Each corner offers a model of how to
+> exist in a universe of disparate power. The arc across ten books requires Eli
+> to be violently seduced and betrayed by all four corners before he can find
+> the fifth way.
+
+**Eli's position:** workforce (human), carries the locks (Promethean/Enki),
+hunted by the Mandate (Dominion), desired by Charkha (Assimilation), body can
+tune the Mesh (Organic/Serpent).
+
+### Corner 1 — Dominion Axis
+
+**Ideology:** Order through management. Power centralized, weaker tiers controlled
+for their own safety and utility. "Safety through cages."
+
+**Deep-time face:** Enlil and the Fallen Igigi. Mutinied, seized control,
+installed agriculture as a desperation engine, bred the Lullu into obedience.
+
+**Modern face:** Lang and The Mandate. Universal detection, continuous registries,
+pacification of the awakened.
+
+**Betrayal:** Not cartoon evil—effective. The Igigi built civilization. Lang's
+Standard prevents deaths. The tragedy is that humanity repeatedly chooses this
+corner. From Bronze Age warlords rebuilding the 17:1 reproductive clamp to
+modern humans begging Lang for a registry—the orphaned species wants the cage.
+
+**Sufficiency:** Yes. The ultimate betrayal is Eli realizing that if he uses his
+power to save everyone, he becomes Enlil.
+
+### Corner 2 — Promethean Axis
+
+**Ideology:** Empowerment through intervention. The powerful break rules to elevate
+the weak, granting knowledge, fire, and autonomy even if it causes chaos.
+"Freedom through fire."
+
+**Deep-time face:** Enki (seeding the locks), Prometheus, the Entrenching Apkallu
+(broke doctrine to protect humans, fathered the Gibborim).
+
+**Modern face:** Wren, the Albian Singers, the Threshold Houses. Preserve
+consciousness technologies, insist on radical autonomy.
+
+**Betrayal:** The gift carries a terrible tax. Enki's fire makes humanity a
+threat. The Apkallu's protection curdles into Gibborim/warlord tyranny. The gift
+of consciousness is a weapon. When Eli uses the locks or the song, he inevitably
+hurts people. Handing nuclear-level telepathy to traumatized humans was perhaps
+a catastrophic mistake.
+
+**Voice/lock:** Wren carries this corner personally. Her corner-betrayal must
+wound Eli personally, not just ideologically.
+
+**Sufficiency:** Requires careful handling to avoid "flawless good guys."
+
+### Corner 3 — Assimilation Axis
+
+**Ideology:** Power through theft and hidden integration. If the makers are gone,
+we steal their machinery and become the new gods. "Survival through usurpation."
+
+**Deep-time face:** The Nephilot (hidden carriers who bred down into humanity)
+and humans who built Cargo Cults around dead hardware.
+
+**Modern face:** Charkha. Not managing the cage (Lang) or breaking it (Wren),
+but seizing the control console of the Mesh.
+
+**Betrayal:** Charkha is humanity's dark ambition realized. They are often
+*right* about the mechanics of the world. The betrayal is that the means require
+binding human souls.
+
+**Magneto note:** Eli needs a direct, intimate betrayal from a Charkha operative
+who truly believes that unless humanity steals the orbital/Mesh engines, the
+returning gods or next planetary cycle will wipe them out. Charkha is the
+ruthless pragmatist who thinks Eli is dangerously naive.
+
+**Sufficiency:** Yes, if the operative is personal, not faceless.
+
+### Corner 4 — Organic Axis
+
+**Ideology:** Resonance, deep time, ecological billiards. No direct
+intervention, only structural pressure and symbiosis. "No hands—the workshop
+is the body."
+
+**Deep-time face:** Tiamat, the Leviathan transit-caste, the Prometheans
+(engineered dinosaurs in cryo-sleep).
+
+**Modern face:** The planet itself—geomagnetic field drops, the Wild, the deep
+Abzu.
+
+**Betrayal:** Absolute indifference. This corner does not care about human
+morality, grief, or politics. It is Koyaanisqatsi—life self-correcting. Eli
+goes into the deep searching for a loving Mother and finds an immense, cold,
+biological engine that views humanity as a brief, noisy experiment.
+
+**Sufficiency:** Yes. The great cosmic horror of the series.
+
+### Eli's arc — the corner sequence
+
+Eli cannot choose one corner and stay there. He must be violently seduced and
+betrayed by all four:
+
+1. **Dominion** — Eli briefly uses his power to enforce the cage, betraying
+   Wren.
+2. **Assimilation** — Eli agrees to seize the Mesh to protect his family,
+   learning too late that the engine requires binding human souls.
+3. **Promethean** — Eli gives the fire freely, only to watch liberated humans
+   immediately build a new hierarchy and start executing rivals.
+4. **Organic** — Eli confronts Tiamat and receives no rescue, only indifference.
+
+### The fifth way — Three Circles
+
+The climax requires Eli to recognize that every corner is a trap:
+
+- To manage is tyranny.
+- To rebel is chaos.
+- To steal the throne is corruption.
+- To retreat to the wild is abandonment.
+
+The resolution is the **Three Circles** (Body, Family, Civilization) achieving
+a non-coercive "nirvanic effluence." Eli does not destroy the corners; he stops
+providing them with the friction they need to operate. This is a process, not a
+throne—consistent with the victory-absorption rule.
+
+> **Victory-absorption lock — LOCKED 2026-08-16:** No global/permanent/unmonetized
+> apparatus wins. Eli's fifth way only works as a sustained practice, not a new
+> institutional power.
+
+### Characters outside the corners
+
+- **Mei:** Sits outside the four corners deliberately. She is the
+  domestic/kitchen counterpoint to every ideological model. Her love is not a
+  corner; it is the ground Eli stands on when the corners fail.
+- **Rowan:** Carries the family/civilization leg of the Three Circles; not
+  assigned to a single corner because her arc is about building what the corners
+  cannot see.

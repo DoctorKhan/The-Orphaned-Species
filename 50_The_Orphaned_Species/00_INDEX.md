@@ -46,6 +46,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 | This volume's beats | `31` / `32` / `33` / `60` |
 | Book I climax | `58_sanxingdui_climax_lock.md` |
 | Book I lived subject | `67`, `68` |
+| Series opposition map | `00_ARCHITECTURE.md` § *The four corners* |
 | Who is in the room | `26_present_day_cast_expanded.md` |
 | Names | `95_glossary.md` |
 | I–IV twelve words | ring · tree · notebook · Stray · house · registry · talent · Cube · Weavers · compact · crown · flight (birds only). `17` § *I–IV reader vocabulary* |
@@ -143,6 +144,7 @@ When writing or revising a chapter, open these. Everything else is reference.
 | `34_two_energies_and_planes.md` | OPEN | Plane hierarchy. Collision with `34_volume_IV_beatsheet.md`. |
 | `35_artifact_chain.md` | OPEN | Artifact/transmission-station chain. |
 | `36_the_living_web.md` | OPEN | Living web mechanism. |
+| `70_ten_book_interweave_mechanics.md` | LOCKED | Tapestry mechanics: false peaks, Bleed tax, fractured allies, Vane mirror. |
 | `37_deep_time_source.md` | STAGED | Deep-past source with stale table syntax and allocations. |
 | `38_psionic_combat.md` | OPEN | Combat register. |
 | `39_psion_biology.md` | OPEN | Biological basis of psionics. |

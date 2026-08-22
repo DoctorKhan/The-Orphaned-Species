@@ -829,6 +829,8 @@ members of the council. Nobody calls for them.
 
 Tomas exhales as if Eli promised more.
 
+## Chapter 2—[PLACEHOLDER]
+
 ## Chapter 3—The First Sponsorship [PLACEHOLDER]
 The first argument is about a curtain.
 
@@ -1653,6 +1655,8 @@ The redistribution moves a fevered woman off the floor and into a cot before a c
 He does not record it as a management lesson. He lets it stand as a fact the
 harbor already knew and he is only now learning to read.
 
+## Chapter 4—[PLACEHOLDER]
+
 ## Chapter 5—The Artifact Delivery [SPLIT-FROM: Ch 3]
 The next morning brings clean weather.
 
@@ -2143,6 +2147,8 @@ yet agreed may enter their ecology.
 
 He presses the wet soil back into the hole although there is nothing left to
 hold.
+
+## Chapter 6—[PLACEHOLDER]
 
 ## Chapter 7—The Repair Dock Evening [PLACEHOLDER]
 The Standard arrives through rain that arrives on schedule.
@@ -3018,6 +3024,8 @@ speaking.
 
 By midnight, nobody remembers that his harbor authority ended when the last
 body reached the pier.
+
+## Chapter 8—[PLACEHOLDER]
 
 ## Chapter 9—The Sideways Record [SPLIT-FROM: Ch 5]
 Wren knows Eli is becoming a ruler when strangers begin apologizing for waking
@@ -4744,6 +4752,12 @@ It lives in the habit of returning to the table before anybody is forced.
 Ahead, Hawaiʻi waits with beds, water limits, damaged roofs, and the authority
 to send them away.
 
+## Chapter 12—[PLACEHOLDER]
+
+## Chapter 11—[PLACEHOLDER]
+
+## Chapter 10—[PLACEHOLDER]
+
 ## Chapter 13—Qiao's Testimony and the Survivor [SPLIT-FROM: Ch 7]
 Eli dreams of red earth before he sees the island.
 
@@ -5155,8 +5169,7 @@ Eli's interpretation as part of the artifact. At other stations, witnesses
 receive the two horizontal divergences with the object's disputed provenance
 still attached.
 
-Within an hour Sol calls the memory proof that humanity requires a single
-defender against hidden rivals.
+Within an hour Sol calls the memory proof.
 
 Lang's surviving offices call it a biosecurity threat.
 
@@ -5387,6 +5400,8 @@ Kuleana made wearable.
 Not honor.
 
 Equipment and the bill for using it.
+
+## Chapter 14—[PLACEHOLDER]
 
 ## Chapter 15—The Signing and the Shed Fire [PLACEHOLDER]
 The distant Pacific corridor begins failing on the fourteenth day.
@@ -6262,6 +6277,8 @@ Arman has sent the drone footage.
 
 Leilani has sent no statement at all.
 
+## Chapter 16—[PLACEHOLDER]
+
 ## Chapter 17—A Crown With an End [PLACEHOLDER]
 Eli walks past the ceremony platform and enters the civic room through the side
 door.
@@ -7076,6 +7093,8 @@ The work is designed to proceed without Eli.
 
 He goes to sleep before it finishes.
 
+## Chapter 18—[PLACEHOLDER]
+
 ## Chapter 19—Gutter Clearing and the Work Song [PLACEHOLDER]
 
 
@@ -7164,4 +7183,3 @@ Eli closes the door. He locks it. The key turns twice because the lock is old an
 Inside, the kitchen is quiet. Mei sets the bag on the table. She opens it. She moves the shirts aside and lifts out the notebook. She opens to the first page.
 
 It is blank.
-

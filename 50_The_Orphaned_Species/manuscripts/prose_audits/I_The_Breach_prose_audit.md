@@ -24,7 +24,7 @@
 ## Chapter-level detail
 
 ### ## Chapter 1—The Hour That Belongs to No One [PLACEHOLDER]
-- **Word count:** 5531
+- **Word count:** 5527
 - **Sentence count:** 513
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
@@ -189,7 +189,7 @@
   - SHORT-PARA-RUN (5 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 21—Human Doors [SPLIT-FROM: Ch 11]
-- **Word count:** 4327
+- **Word count:** 4329
 - **Sentence count:** 452
 - **Flags:**
   - STACKED-EM-DASHES (5 hits)
@@ -198,7 +198,7 @@
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 22—The Laos Border [SPLIT-FROM: Ch 11]
-- **Word count:** 4328
+- **Word count:** 4330
 - **Sentence count:** 452
 - **Flags:**
   - STACKED-EM-DASHES (5 hits)

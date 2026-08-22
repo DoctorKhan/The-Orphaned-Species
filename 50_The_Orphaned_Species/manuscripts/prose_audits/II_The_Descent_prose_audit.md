@@ -7,7 +7,7 @@
 ## Summary
 - **Chapters audited:** 25
 - **Flagged chapters:** 23
-- **Total flag instances:** 66
+- **Total flag instances:** 63
 
 | Flag | Chapters |
 |---|---|
@@ -15,7 +15,7 @@
 | ABSTRACT-DISTANCE | 12 |
 | NOT-X-BUT-Y | 10 |
 | STACKED-EM-DASHES | 10 |
-| ABSTRACT-DENSE | 9 |
+| ABSTRACT-DENSE | 6 |
 | ABSTRACT-OVER-BODY | 2 |
 
 ## Chapter-level detail
@@ -50,16 +50,16 @@
   - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 5—The Buried Instrument [SPLIT-FROM: Ch 3]
-- **Word count:** 4926
-- **Sentence count:** 633
+- **Word count:** 4927
+- **Sentence count:** 635
 - **Flags:**
   - NOT-X-BUT-Y (3 hits)
   - STACKED-EM-DASHES (1 hits)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 6—The Clinic Approach [SPLIT-FROM: Ch 3]
-- **Word count:** 4781
-- **Sentence count:** 620
+- **Word count:** 4782
+- **Sentence count:** 622
 - **Flags:**
   - NOT-X-BUT-Y (3 hits)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
@@ -93,53 +93,53 @@
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 11—Ring and Romance Cost [SPLIT-FROM: Ch 5]
-- **Word count:** 3708
-- **Sentence count:** 532
+- **Word count:** 3807
+- **Sentence count:** 539
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 12—The Changing Map [SPLIT-FROM: Ch 6]
-- **Word count:** 3802
-- **Sentence count:** 538
+- **Word count:** 3690
+- **Sentence count:** 530
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 13—The Broken-Line Church [SPLIT-FROM: Ch 6]
-- **Word count:** 3707
-- **Sentence count:** 532
+- **Word count:** 3785
+- **Sentence count:** 536
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 14—The Stray Settlement [SPLIT-FROM: Ch 6]
-- **Word count:** 4865
-- **Sentence count:** 619
+- **Word count:** 4853
+- **Sentence count:** 620
 - **Flags:**
   - STACKED-EM-DASHES (4 hits)
   - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-DENSE (25 abstract terms, 194 body terms)
+  - ABSTRACT-DENSE (24 abstract terms, 194 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 15—The Riddling Ground [SPLIT-FROM: Ch 7]
-- **Word count:** 4879
-- **Sentence count:** 619
+- **Word count:** 4867
+- **Sentence count:** 620
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (4 hits)
   - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-DENSE (25 abstract terms, 194 body terms)
+  - ABSTRACT-DENSE (24 abstract terms, 194 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 16—Callum Recovery and Renewal [SPLIT-FROM: Ch 7]
-- **Word count:** 4765
-- **Sentence count:** 609
+- **Word count:** 4753
+- **Sentence count:** 610
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (4 hits)
   - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-DENSE (24 abstract terms, 184 body terms)
+  - ABSTRACT-DENSE (23 abstract terms, 184 body terms)
   - SHORT-PARA-RUN (29 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 17—The Transfer-Records Discovery [SPLIT-FROM: Ch 7]
@@ -168,29 +168,26 @@
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 20—The Transmission Station [SPLIT-FROM: Ch 9]
-- **Word count:** 3284
-- **Sentence count:** 436
+- **Word count:** 3427
+- **Sentence count:** 449
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 117 body terms)
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 21—The Instrument Cap [SPLIT-FROM: Ch 9]
-- **Word count:** 3448
-- **Sentence count:** 450
+- **Word count:** 3393
+- **Sentence count:** 441
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 123 body terms)
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 22—The Avebury Approach [SPLIT-FROM: Ch 9]
-- **Word count:** 3297
-- **Sentence count:** 436
+- **Word count:** 3289
+- **Sentence count:** 435
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - ABSTRACT-DISTANCE (1 hits)
-  - ABSTRACT-DENSE (22 abstract terms, 117 body terms)
   - SHORT-PARA-RUN (19 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 23—Release [SPLIT-FROM: Ch 10]

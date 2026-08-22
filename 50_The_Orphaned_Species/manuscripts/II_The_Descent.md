@@ -2651,9 +2651,8 @@ the right way without being told. After the baskets are carried off, the
 children keep the bend, step, lift. Empty hands make it ridiculous. The adults
 laugh and take it up.
 
-Hundreds of bodies move stone without one reason among them: hunger,
-obligation, awe, exchange, courtship, fear, craft, the pleasure of accomplishing
-what should be too heavy.
+Hundreds of bodies move stone without one reason among them.
+A voice cuts the air and another answers. The weight does not belong to any one back.
 
 Then another set of hands.
 
@@ -3543,9 +3542,8 @@ the right way without being told. After the baskets are carried off, the
 children keep the bend, step, lift. Empty hands make it ridiculous. The adults
 laugh and take it up.
 
-Hundreds of bodies move stone without one reason among them: hunger,
-obligation, awe, exchange, courtship, fear, craft, the pleasure of accomplishing
-what should be too heavy.
+Hundreds of bodies move stone without one reason among them.
+A voice cuts the air and another answers. The weight does not belong to any one back.
 
 Then another set of hands.
 
@@ -8217,7 +8215,7 @@ Pain crosses Rowan's face.
 
 Wren stands as if she has been struck.
 
-She turns toward the exit, then stops herself before flight becomes procedure.
+She turns toward the exit, then stops herself. Her hand goes to the door frame instead.
 
 "I need air."
 
@@ -9090,7 +9088,7 @@ Pain crosses Rowan's face.
 
 Wren stands as if she has been struck.
 
-She turns toward the exit, then stops herself before flight becomes procedure.
+She turns toward the exit, then stops herself. Her hand goes to the door frame instead.
 
 "I need air."
 
@@ -9955,7 +9953,7 @@ Pain crosses Rowan's face.
 
 Wren stands as if she has been struck.
 
-She turns toward the exit, then stops herself before flight becomes procedure.
+She turns toward the exit, then stops herself. Her hand goes to the door frame instead.
 
 "I need air."
 
@@ -9977,6 +9975,14 @@ Eli remains with the ledgers, understanding that being blessed can feel like
 being handled and that Wren has asked Rowan for something she did not ask him
 to provide.
 
+
+---
+
+---
+
+The Elbe corridor smells of damp paper and old water. Wren's shoulder burn throbs in the humidity. She changes the dressing in the receiving house bathroom with the light off, because the mirror shows what she does not need to see: the skin around the burn is raised and pale, and the collar mark on her chest has not faded.
+
+Eli's thumb has stiffened into a hook. He opens the route ledger with his left hand. His right hand rests beside it, palm up, like an offering he has not decided to make.
 
 ---
 
@@ -10144,8 +10150,8 @@ local currency here.
 Asha's eyes are older than the threshold house, older than the order that built
 it. She carries a wound Wren knows in outline: a younger brother lost after an
 official evacuation called itself temporary. Asha turned the lesson into
-procedure—consent forms, return rights, frozen routes—but procedure is not the
-same as trust, and she has tested every new person who enters her doors the way
+procedure—consent forms, return rights, frozen routes—but the forms do not say
+what she wants.
 a carpenter tests wood for rot.
 
 "I have seen three kinds of people through our intake," she says. "Those who
@@ -11190,8 +11196,8 @@ local currency here.
 Asha's eyes are older than the threshold house, older than the order that built
 it. She carries a wound Wren knows in outline: a younger brother lost after an
 official evacuation called itself temporary. Asha turned the lesson into
-procedure—consent forms, return rights, frozen routes—but procedure is not the
-same as trust, and she has tested every new person who enters her doors the way
+procedure—consent forms, return rights, frozen routes—but the forms do not say
+what she wants.
 a carpenter tests wood for rot.
 
 "I have seen three kinds of people through our intake," she says. "Those who
@@ -12226,8 +12232,8 @@ local currency here.
 Asha's eyes are older than the threshold house, older than the order that built
 it. She carries a wound Wren knows in outline: a younger brother lost after an
 official evacuation called itself temporary. Asha turned the lesson into
-procedure—consent forms, return rights, frozen routes—but procedure is not the
-same as trust, and she has tested every new person who enters her doors the way
+procedure—consent forms, return rights, frozen routes—but the forms do not say
+what she wants.
 a carpenter tests wood for rot.
 
 "I have seen three kinds of people through our intake," she says. "Those who
@@ -14837,7 +14843,7 @@ Seven visitors remain at the northern path. Four believe the stones will heal
 them. Two believe leaving would surrender public heritage to security forces.
 One elderly man has fallen and cannot be moved quickly.
 
-Wren speaks to the people who will hear procedure.
+Wren speaks to the people who will hear the forms read back.
 
 Rowan sits beside the man who cannot stand.
 
@@ -14975,9 +14981,7 @@ post, and stamps the clearance form he has been carrying since the service yard.
 The stamp reads: GROUND CLOSED. He places the form under a stone, weighted side
 down, and returns to watching the door.
 
-Eli sees the stamp and thinks procedure. It is procedure — and it is also the
-moment the corridor closes. The scout has been carrying the authority to do that
-since before the rain stopped. He did not need a weapon. He needed a form.
+Eli sees the stamp and watches the corridor close. The scout has been carrying the authority to do that since before the rain stopped. He did not need a weapon. He needed a form.
 
 Sol's cadence presses from the west, offering strength without uncertainty.
 
@@ -15552,7 +15556,7 @@ Seven visitors remain at the northern path. Four believe the stones will heal
 them. Two believe leaving would surrender public heritage to security forces.
 One elderly man has fallen and cannot be moved quickly.
 
-Wren speaks to the people who will hear procedure.
+Wren speaks to the people who will hear the forms read back.
 
 Rowan sits beside the man who cannot stand.
 
@@ -15690,9 +15694,7 @@ post, and stamps the clearance form he has been carrying since the service yard.
 The stamp reads: GROUND CLOSED. He places the form under a stone, weighted side
 down, and returns to watching the door.
 
-Eli sees the stamp and thinks procedure. It is procedure — and it is also the
-moment the corridor closes. The scout has been carrying the authority to do that
-since before the rain stopped. He did not need a weapon. He needed a form.
+Eli sees the stamp and watches the corridor close. The scout has been carrying the authority to do that since before the rain stopped. He did not need a weapon. He needed a form.
 
 Sol's cadence presses from the west, offering strength without uncertainty.
 
@@ -15903,6 +15905,18 @@ At the western verge, Sol's forced cadence has cleared a path through the
 conflict. It would have saved time. Perhaps enough.
 
 That remains true.
+
+That remains true.
+
+---
+
+The approach to Avebury takes them through a landscape that has been waiting for this exact morning for five thousand years. Eli's thumb has stiffened into a hook that does not close. He carries the ceramic wedge in his left pocket and the high-visibility vest in his right. The vest is orange. It will make him visible to anyone with a line of sight, which is the point.
+
+Sora's ear has stopped bleeding. The silence inside her head is worse than the blood. She can hear the engine, the tires on wet grass, Wren breathing, but not the frequencies she used to navigate by. She tests this once by humming low. The hum comes back through her jawbone only.
+
+Wren's boots are caked with Albion mud. The route ledger in her pocket is damp at the corners. She does not try to dry it. Some damage is just information.
+
+---
 
 ## Chapter 22—The Avebury Approach [SPLIT-FROM: Ch 9]
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
@@ -16242,7 +16256,7 @@ Seven visitors remain at the northern path. Four believe the stones will heal
 them. Two believe leaving would surrender public heritage to security forces.
 One elderly man has fallen and cannot be moved quickly.
 
-Wren speaks to the people who will hear procedure.
+Wren speaks to the people who will hear the forms read back.
 
 Rowan sits beside the man who cannot stand.
 
@@ -16380,9 +16394,7 @@ post, and stamps the clearance form he has been carrying since the service yard.
 The stamp reads: GROUND CLOSED. He places the form under a stone, weighted side
 down, and returns to watching the door.
 
-Eli sees the stamp and thinks procedure. It is procedure — and it is also the
-moment the corridor closes. The scout has been carrying the authority to do that
-since before the rain stopped. He did not need a weapon. He needed a form.
+Eli sees the stamp and watches the corridor close. The scout has been carrying the authority to do that since before the rain stopped. He did not need a weapon. He needed a form.
 
 Sol's cadence presses from the west, offering strength without uncertainty.
 

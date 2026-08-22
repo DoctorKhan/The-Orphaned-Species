@@ -1293,6 +1293,8 @@ Seven months of route calls have not decided where either of them lives.
 
 The court has already begun preparing a room for it.
 
+## Chapter 2—[PLACEHOLDER]
+
 ## Chapter 3—Three Rooms [PLACEHOLDER]
 Rowan notices Eli's mouth during an argument about evidence.
 
@@ -1758,6 +1760,8 @@ Wren opens the change history.
 The scheduler acted under a household-continuity directive drafted before
 Rowan arrived.
 
+## Chapter 4—[PLACEHOLDER]
+
 ## Chapter 5—The Rumor [SPLIT-FROM: Ch 3]
 The residence has one guest chair that isn't covered in files, and Rowan has been sitting in it for two hours arguing that his household-security draft treats grief like a scheduling conflict.
 
@@ -2128,7 +2132,7 @@ Property.
 
 Children.
 
-Continuing obligation when present desire cannot speak.
+Continuing obligation when present desire cannot name itself.
 
 "We are not refusing obligation," Eli says.
 
@@ -2296,6 +2300,8 @@ Rowan keeps it.
 He withdraws his hand.
 
 The first fight over her possible child has arrived before the child exists.
+
+## Chapter 6—[PLACEHOLDER]
 
 ## Chapter 7—The Two Houses [PLACEHOLDER]
 Rowan's first response is to cancel every medical authorization.
@@ -2934,6 +2940,8 @@ Nothing has yet been confirmed.
 
 The court has already begun using the word heir.
 
+## Chapter 8—[PLACEHOLDER]
+
 ## Chapter 9—The Room Prepared [SPLIT-FROM: Ch 5]
 Asha interviews Selin with her damaged hand visible.
 
@@ -3455,6 +3463,8 @@ through the hour. Somewhere Wren is rewriting the statement that will make the
 rumor a category error.
 
 Rowan touches the place below her ribs. She does not smile. She does not weep.
+
+## Chapter 10—[PLACEHOLDER]
 
 ## Chapter 11—The Stag Teacher [PLACEHOLDER]
 Pregnancy changes the hours before it changes the silhouette.
@@ -4022,6 +4032,8 @@ Not future population.
 
 One developing person whose existence has already altered work, fear, love, and
 law without consenting to symbolize any of them.
+
+## Chapter 12—[PLACEHOLDER]
 
 ## Chapter 13—The Nacre Audit [SPLIT-FROM: Ch 7]
 The first regional games of the Hollow Year are held in a freight yard because
@@ -4721,6 +4733,8 @@ It also belongs to love.
 The court has thirty days to discover whether any institution can survive the
 difference.
 
+## Chapter 14—[PLACEHOLDER]
+
 ## Chapter 15—The Recruitment Hearing [PLACEHOLDER]
 At thirty-three weeks, Rowan can no longer see her own feet.
 
@@ -5294,6 +5308,8 @@ Rowan knows another name for it.
 
 Waiting to see which body opens first.
 
+## Chapter 16—[PLACEHOLDER]
+
 ## Chapter 17—The Southern Canopy [SPLIT-FROM: Ch 9]
 Wren prepares the birth room by removing chairs.
 
@@ -5741,6 +5757,8 @@ Wren faces the door.
 Outside, officials wait for the ruler to decide whether birth requires him to
 remain ruler.
 
+## Chapter 18—[PLACEHOLDER]
+
 ## Chapter 19—The False Heir Draft [PLACEHOLDER]
 
 
@@ -5753,7 +5771,174 @@ remain ruler.
 ---
 
 ## Chapter 22—The Praetorian Demand [SPLIT-FROM: Ch 11]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+
+The coast road junction is called Caju. It sits where the north corridor meets
+the harbor spur. If the spur closes, three clinics and a seed bank lose their
+resupply route for six days. If the junction closes, the clinics lose it for
+eighteen.
+
+The decision arrives at 03:17 in a packet from Wren's network. The packet says
+the spur is open but contested. A Sol-linked crew has blocked the junction
+bridge. They have a physical position and a clear line of sight. Wren's
+dispersed witnesses cannot approach without crossing the line. Wren's appeals
+desk cannot negotiate under fire.
+
+The packet does not say what the Sol-linked crew is doing on the road at 03:17
+in the first place. It only says they are there and the bridge is now closed.
+
+Eli reads the packet at the field headquarters table. West Approach's commander
+is sitting across from him. Malik sits to Eli's right, checking a separate
+routing channel. Owen sits to the left, his prosthetic foot tapping a steady
+rhythm on the floor.
+
+"The compact cannot route around," Malik says. "Not in three hours. The coast
+road is the only bridge with weight capacity for the seed bank containers."
+
+"West Approach can clear it," the commander says.
+
+"How many?"
+
+"Twenty. Armed."
+
+"Armed how?"
+
+"With what they carry."
+
+Eli looks at Malik. Malik looks at Eli. The question they do not speak is
+whether twenty armed men on a bridge at 03:17 will leave the Sol-linked crew
+alive.
+
+Wren's voice comes through the open channel. She is at the Weavers' witness
+desk, three hundred kilometers away. She has been awake for nineteen hours.
+
+"The compact does not authorize lethal response," she says.
+
+"We are not asking for authorization," the commander says. "We are asking for
+permission to act in defense of a civilian route."
+
+"The distinction is not clean."
+
+"It never is."
+
+Eli closes the packet. The paper makes a sound the room does not need. He
+knows what happens if he says no. The bridge stays closed. The seed bank waits.
+The clinics wait. The road waits for a consensus that will arrive after the
+damage is done. He also knows what happens if he says yes. Twenty men cross a
+bridge at night with weapons and a license to use them. The Sol-linked crew is
+young and hungry and has probably been told Eli is a tyrant who feeds on
+corridors. They will not surrender to a vote. They may not surrender at all.
+
+"If I say yes," Eli says, "I am making you judge, jury, and road crew."
+
+"If you say no," the commander says, "you are making the seed bank a lesson
+nobody needs."
+
+Eli looks at Owen. Owen stops tapping his foot.
+
+"You have the authority to refuse," Owen says. "You built the system that says
+you do."
+
+"I know."
+
+"Then you also know what the refusal costs."
+
+Eli looks back at the commander. The commander's face is not eager. It is the
+face of a man who has already cleared his own chapter for this action and is
+waiting for the order to come down.
+
+"Clear the bridge," Eli says. "Do not use lethal force unless lethal force is
+used against you. If they surrender, take them alive. If they do not, you are
+authorized to defend the route."
+
+The commander stands. He does not thank Eli. He goes to the door.
+
+Malik watches him go. Malik says, "You just made us exactly what the Sol
+channels say we are."
+
+Eli does not answer. He looks at the packet. He looks at the channel where
+Wren's voice was. Wren has already signed off.
+
+The bridge clears in forty minutes. Two Sol-linked crew members are wounded.
+One dies. The bridge opens at 04:02. The seed bank trucks roll at 04:47. The
+clinics resupply at noon.
+
+The dead crew member's name is Javi Roa. He is nineteen. He joined Sol's camp
+because his brother was given a roof and a rotation in the depot brigade. He
+was on the bridge because Sol's organizers told him the route was being seized
+by a private army under Eli's command. Part of that is true now.
+
+The body is collected by a local council that has no standing army and no
+alliance with either side. The council buries him in a cemetery that was
+planted with the same seed the trucks carried.
+
+Eli does not attend the burial. He receives the casualty report at 09:00. He
+reads Javi Roa's name once. He does not speak it aloud. He knows the name will
+appear in Sol's next broadcast as proof that the compact is a weapon. He also
+knows that without the bridge, the seed bank would have failed and the clinics
+would have closed and the council would have buried more than one body.
+
+He sits with the report for ten minutes. Then he signs the authorization for
+West Approach's expense claim and puts the pen down.
+
+The compact has just used lethal force. Eli signed the paper. The compact
+continues to say it does not authorize lethal response. The paper says
+otherwise.
+
+That night Eli walks to the west approach alone. He stands where the praetorian
+sentries can see him and waits. The commander comes out. He is cleaning a rifle
+by the light of the vehicle shed.
+
+"Javi Roa," Eli says.
+
+The commander looks up. He does not pretend not to know the name.
+
+"He was on the bridge."
+
+"Yes."
+
+"Did he fire?"
+
+"Yes."
+
+"At whom?"
+
+"At Malik's point man."
+
+Eli stands in the gravel. The harbor sound carries up from the water. A wind
+comes off the sea and pulls at the edges of the commander's jacket.
+
+"If I had said no," Eli says, "the seed bank would have failed."
+
+"If you had said no," the commander says, "we would have taken the bridge
+anyway. The difference is that this way it is on your paper."
+
+Eli looks at him. The commander returns the look without fear. He is not
+defiant. He is stating a fact that Eli already knows but has not allowed
+himself to say.
+
+"You are the only people who would have done that," Eli says.
+
+"Yes."
+
+"And you would have done it without my permission."
+
+"Yes."
+
+Eli turns and walks back to the headquarters building. He does not look back.
+He knows the commander is still watching. He knows the commander expects him
+to feel something—gratitude, or shame, or the weight of a debt. What Eli
+feels is the specific cold of a door closing behind him that he built and
+cannot reopen.
+
+In the birth room, Rowan is asleep. Wren is on the cot beside her, fully
+dressed, her boots beside the bed. Eli sits in the chair and watches their
+breathing. He does not touch Rowan. He does not tell Wren what happened. He
+does not say the compact has just crossed a line it will never uncross, even
+if the child is born healthy and the clinics open and the seed bank delivers.
+
+The compact is now also the thing it was built to refuse.
+
+---
 
 ---
 
