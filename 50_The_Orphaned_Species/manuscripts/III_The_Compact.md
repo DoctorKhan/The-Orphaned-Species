@@ -83,7 +83,7 @@ reception desk will argue with Union blue-gray without raising a weapon. The
 converted customs house carries wall maps to threshold houses, clinic fleets,
 Weaver kitchens, and river communities that do not belong to any of them.
 Nothing on the maps is called a capital. People still say *Pelangi* when they
-mean the home-node across the ocean—Mei, cargo, song, reciprocal obligation—
+mean the home-node across the ocean—Mei, cargo, song, and reciprocal obligation—
 as if a name could travel without the body.
 
 Eli is useful here. He is not home.
