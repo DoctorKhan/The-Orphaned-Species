@@ -5,17 +5,17 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 16
-- **Flagged chapters:** 10
-- **Total flag instances:** 19
+- **Chapters audited:** 25
+- **Flagged chapters:** 16
+- **Total flag instances:** 26
 
 | Flag | Chapters |
 |---|---|
-| SHORT-PARA-RUN | 10 |
+| SHORT-PARA-RUN | 12 |
+| OPEN-LIGHT-ON-BODY | 6 |
 | STACKED-EM-DASHES | 3 |
 | ABSTRACT-DENSE | 1 |
 | IDENTICAL-PARA-OPENING | 1 |
-| OPEN-LIGHT-ON-BODY | 1 |
 | ABSTRACT-DISTANCE | 1 |
 | ECHO-CLOSER | 1 |
 | ABSTRACT-OVER-BODY | 1 |
@@ -23,19 +23,30 @@
 ## Chapter-level detail
 
 ### ## Chapter 1—The Doors [PLACEHOLDER]
-- **Word count:** 7288
-- **Sentence count:** 787
+- **Word count:** 7315
+- **Sentence count:** 788
 - **Flags:**
   - STACKED-EM-DASHES (2 hits)
   - ABSTRACT-DENSE (44 abstract terms, 187 body terms)
   - SHORT-PARA-RUN (33 run(s) of 3+ short paragraphs)
-  - IDENTICAL-PARA-OPENING (2 run(s) of 3+ same-shape openings)
+  - IDENTICAL-PARA-OPENING (3 run(s) of 3+ same-shape openings)
+
+### ## Chapter 2—Present Consent
+- **Word count:** 159
+- **Sentence count:** 18
+- **Flags:** none
 
 ### ## Chapter 3—Three Rooms [PLACEHOLDER]
 - **Word count:** 1512
 - **Sentence count:** 238
 - **Flags:**
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
+
+### ## Chapter 4—First Sex
+- **Word count:** 130
+- **Sentence count:** 12
+- **Flags:**
+  - OPEN-LIGHT-ON-BODY
 
 ### ## Chapter 5—The Rumor [SPLIT-FROM: Ch 3]
 - **Word count:** 2361
@@ -45,12 +56,23 @@
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (12 run(s) of 3+ short paragraphs)
 
+### ## Chapter 6—The Rumor: Leak and Celebration
+- **Word count:** 126
+- **Sentence count:** 14
+- **Flags:** none
+
 ### ## Chapter 7—The Two Houses [PLACEHOLDER]
 - **Word count:** 2952
 - **Sentence count:** 361
 - **Flags:**
   - ABSTRACT-DISTANCE (1 hits)
   - SHORT-PARA-RUN (11 run(s) of 3+ short paragraphs)
+
+### ## Chapter 8—The Body of State: False Refuge and Misnaming
+- **Word count:** 134
+- **Sentence count:** 13
+- **Flags:**
+  - OPEN-LIGHT-ON-BODY
 
 ### ## Chapter 9—The Room Prepared [SPLIT-FROM: Ch 5]
 - **Word count:** 2081
@@ -59,6 +81,12 @@
   - ECHO-CLOSER (1 hits)
   - SHORT-PARA-RUN (8 run(s) of 3+ short paragraphs)
 
+### ## Chapter 10—The Five Forms Week
+- **Word count:** 110
+- **Sentence count:** 13
+- **Flags:**
+  - OPEN-LIGHT-ON-BODY
+
 ### ## Chapter 11—The Stag Teacher [PLACEHOLDER]
 - **Word count:** 2312
 - **Sentence count:** 307
@@ -66,11 +94,22 @@
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 1 body)
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
+### ## Chapter 12—The Nacre Audit
+- **Word count:** 101
+- **Sentence count:** 10
+- **Flags:**
+  - OPEN-LIGHT-ON-BODY
+
 ### ## Chapter 13—The Nacre Audit [SPLIT-FROM: Ch 7]
 - **Word count:** 3389
 - **Sentence count:** 377
 - **Flags:**
   - SHORT-PARA-RUN (17 run(s) of 3+ short paragraphs)
+
+### ## Chapter 14—The Cloister Risk Score
+- **Word count:** 125
+- **Sentence count:** 15
+- **Flags:** none
 
 ### ## Chapter 15—The Recruitment Hearing [PLACEHOLDER]
 - **Word count:** 2801
@@ -79,11 +118,24 @@
   - STACKED-EM-DASHES (1 hits)
   - SHORT-PARA-RUN (14 run(s) of 3+ short paragraphs)
 
+### ## Chapter 16—The Ilyara Boundary
+- **Word count:** 115
+- **Sentence count:** 11
+- **Flags:**
+  - OPEN-LIGHT-ON-BODY
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
+
 ### ## Chapter 17—The Southern Canopy [SPLIT-FROM: Ch 9]
 - **Word count:** 1706
 - **Sentence count:** 231
 - **Flags:**
   - SHORT-PARA-RUN (6 run(s) of 3+ short paragraphs)
+
+### ## Chapter 18—The Work-Song Class
+- **Word count:** 137
+- **Sentence count:** 14
+- **Flags:**
+  - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 19—The False Heir Draft [PLACEHOLDER]
 - **Word count:** 7

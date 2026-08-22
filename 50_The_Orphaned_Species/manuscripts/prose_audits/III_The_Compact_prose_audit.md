@@ -5,15 +5,15 @@
 > Treat as draft until manual review.
 
 ## Summary
-- **Chapters audited:** 15
-- **Flagged chapters:** 11
-- **Total flag instances:** 25
+- **Chapters audited:** 25
+- **Flagged chapters:** 14
+- **Total flag instances:** 28
 
 | Flag | Chapters |
 |---|---|
 | SHORT-PARA-RUN | 9 |
+| OPEN-LIGHT-ON-BODY | 7 |
 | ABSTRACT-DENSE | 4 |
-| OPEN-LIGHT-ON-BODY | 4 |
 | ECHO-CLOSER | 3 |
 | STACKED-EM-DASHES | 2 |
 | TELL-NOT-SHOW | 1 |
@@ -23,18 +23,29 @@
 ## Chapter-level detail
 
 ### ## Chapter 1—The Boat at Morning [PLACEHOLDER]
-- **Word count:** 3459
+- **Word count:** 3460
 - **Sentence count:** 509
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
   - ABSTRACT-DENSE (22 abstract terms, 103 body terms)
   - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
+### ## Chapter 2—First Sponsorship
+- **Word count:** 171
+- **Sentence count:** 17
+- **Flags:**
+  - OPEN-LIGHT-ON-BODY
+
 ### ## Chapter 3—The First Sponsorship [PLACEHOLDER]
 - **Word count:** 3939
 - **Sentence count:** 496
 - **Flags:**
   - SHORT-PARA-RUN (22 run(s) of 3+ short paragraphs)
+
+### ## Chapter 4—Living-Room Debate
+- **Word count:** 183
+- **Sentence count:** 15
+- **Flags:** none
 
 ### ## Chapter 5—The Artifact Delivery [SPLIT-FROM: Ch 3]
 - **Word count:** 2179
@@ -43,6 +54,11 @@
   - ECHO-CLOSER (1 hits)
   - SHORT-PARA-RUN (13 run(s) of 3+ short paragraphs)
 
+### ## Chapter 6—Repair Dock Morning
+- **Word count:** 172
+- **Sentence count:** 17
+- **Flags:** none
+
 ### ## Chapter 7—The Repair Dock Evening [PLACEHOLDER]
 - **Word count:** 4416
 - **Sentence count:** 517
@@ -50,17 +66,38 @@
   - ABSTRACT-DENSE (21 abstract terms, 95 body terms)
   - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
 
+### ## Chapter 8—Aftermath of Broken Transfer
+- **Word count:** 198
+- **Sentence count:** 15
+- **Flags:** none
+
 ### ## Chapter 9—The Sideways Record [SPLIT-FROM: Ch 5]
-- **Word count:** 8367
-- **Sentence count:** 991
+- **Word count:** 8476
+- **Sentence count:** 1001
 - **Flags:**
   - STACKED-EM-DASHES (6 hits)
   - ECHO-CLOSER (1 hits)
-  - TELL-NOT-SHOW (1 hits)
-  - ABSTRACT-DENSE (59 abstract terms, 173 body terms)
+  - TELL-NOT-SHOW (2 hits)
+  - ABSTRACT-DENSE (60 abstract terms, 178 body terms)
   - ABSTRACT-OVER-BODY (windowed 4 abstract vs 0 body)
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (58 run(s) of 3+ short paragraphs)
+
+### ## Chapter 10—Expended Ledger
+- **Word count:** 176
+- **Sentence count:** 15
+- **Flags:**
+  - OPEN-LIGHT-ON-BODY
+
+### ## Chapter 11—Ambassador Dinner
+- **Word count:** 150
+- **Sentence count:** 12
+- **Flags:** none
+
+### ## Chapter 12—Polyphonic Hearing
+- **Word count:** 151
+- **Sentence count:** 12
+- **Flags:** none
 
 ### ## Chapter 13—Qiao's Testimony and the Survivor [SPLIT-FROM: Ch 7]
 - **Word count:** 2929
@@ -70,6 +107,12 @@
   - SHORT-PARA-RUN (18 run(s) of 3+ short paragraphs)
   - IDENTICAL-PARA-OPENING (1 run(s) of 3+ same-shape openings)
 
+### ## Chapter 14—Compact Drafting
+- **Word count:** 148
+- **Sentence count:** 14
+- **Flags:**
+  - OPEN-LIGHT-ON-BODY
+
 ### ## Chapter 15—The Signing and the Shed Fire [PLACEHOLDER]
 - **Word count:** 3811
 - **Sentence count:** 494
@@ -77,12 +120,22 @@
   - OPEN-LIGHT-ON-BODY
   - SHORT-PARA-RUN (16 run(s) of 3+ short paragraphs)
 
+### ## Chapter 16—Voyage Warning
+- **Word count:** 151
+- **Sentence count:** 14
+- **Flags:** none
+
 ### ## Chapter 17—A Crown With an End [PLACEHOLDER]
 - **Word count:** 3504
 - **Sentence count:** 456
 - **Flags:**
   - ABSTRACT-DENSE (22 abstract terms, 86 body terms)
   - SHORT-PARA-RUN (17 run(s) of 3+ short paragraphs)
+
+### ## Chapter 18—Basalt and the Forks
+- **Word count:** 167
+- **Sentence count:** 17
+- **Flags:** none
 
 ### ## Chapter 19—Gutter Clearing and the Work Song [PLACEHOLDER]
 - **Word count:** 9

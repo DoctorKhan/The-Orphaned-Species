@@ -1,4 +1,4 @@
-## Chapter 1—The Doors [PLACEHOLDER]
+## Chapter 1—The Doors
 The quarterly review opens with a missing delegate.
 
 Seven months of this, and it is the first time it has happened.
@@ -1311,7 +1311,7 @@ The clerk writes that down. No one has ever attested to a consent-bound partners
 
 ---
 
-## Chapter 3—Three Rooms [PLACEHOLDER]
+## Chapter 3—Three Rooms
 Rowan notices Eli's mouth during an argument about evidence.
 
 This remains inconvenient.
@@ -2335,7 +2335,7 @@ Outside, people are dancing. The music carries through the window. Eli's pen mov
 
 ---
 
-## Chapter 7—The Two Houses [PLACEHOLDER]
+## Chapter 7—The Two Houses
 Rowan's first response is to cancel every medical authorization.
 
 Mina refuses.
@@ -3524,7 +3524,7 @@ Wren nods. He stays.
 
 ---
 
-## Chapter 11—The Stag Teacher [PLACEHOLDER]
+## Chapter 11—The Stag Teacher
 Pregnancy changes the hours before it changes the silhouette.
 
 The problem is not politics.
@@ -4815,7 +4815,7 @@ Malik writes this down. He does not report the man's name to the recruitment off
 
 ---
 
-## Chapter 15—The Recruitment Hearing [PLACEHOLDER]
+## Chapter 15—The Recruitment Hearing
 At thirty-three weeks, Rowan can no longer see her own feet.
 
 This improves nothing about the succession debate.
@@ -5865,16 +5865,281 @@ That evening, the learner walks home alone and hears the rhythm in her own steps
 
 ---
 
-## Chapter 19—The False Heir Draft [PLACEHOLDER]
+## Chapter 19—The False Heir Draft
+The registry office sends the draft at 09:14. The packet says Rowan's pregnancy
+has been entered into the succession record. The packet also says the entry
+carries no rank until the child reaches majority. The second line is Wren's
+compromise. She added it after the first draft came back with a succession rank
+attached to the date of conception.
+
+Wren sits across from Eli in the court anteroom. She is holding the draft. She
+is not reading it. She is looking at the line that says no rank until majority.
+She knows what it costs. She knows the pro-dynasty faction will call it weakness
+and the anti-dynasty faction will call it postponement. She knows Rowan will
+call it a leash with a long cord.
+
+"It is better than the alternative," Wren says.
+
+"I know," Eli says. He is looking at the window. The window looks out on the
+courtyard. A wind is blowing. The trees are moving. "The alternative was rank
+now."
+
+"The alternative was rank now." Wren sets the draft on the table. She presses
+her palm flat against the paper. She is not angry. She is calculating. "The
+faction that wrote the first draft will leak the pregnancy to the broadcast
+channels. They will say the compact caved. They will say the heir is already
+named. They will say the court is a rubber stamp."
+
+"Let them say it."
+
+"The compact does not survive being called a rubber stamp," Wren says.
+
+She is right. Eli knows she is right. He says nothing.
+
+The leak happens three hours later. The broadcast says Rowan is carrying an heir
+and the compact has already accepted it. The broadcast does not mention the
+no-rank clause. The broadcast does not mention Wren's addition. The broadcast
+says the heir is already named.
+
+Rowan is in the clinic for a routine check. The nurse tells her. The nurse is
+not hostile. She is matter-of-fact. She says the channel is carrying it. She
+says the court is already drafting a celebration.
+
+Rowan stands. She puts her coat on. She does not wait for the check. She walks
+to the door. The nurse calls after her. She does not answer.
+
+Eli meets her in the corridor. He is there because Wren sent him. He is there
+because Wren knew Rowan would leave the clinic and walk to the harbor and he is
+the only person she will let follow her.
+
+Rowan does not look at him. She looks at the floor. She is wearing boots that
+are too big for her feet. She bought them last week. She did not know she would
+need them this soon.
+
+"Let them have it," Rowan says.
+
+"Let them have what?"
+
+"The pregnancy. The heir. The celebration. They can have all of it." She stops.
+She turns. She looks at him. Her face is not angry. It is something colder than
+anger. It is the face of a person who has already decided not to let the room
+dictate the terms of her body. "They cannot have the child."
+
+Eli nods. He does not argue. He does not say he will protect her. He does not
+say he will stop the leak. He says, "Where do you want to go?"
+
+Rowan looks at the harbor. The boats are moving. The water is gray. "Not here."
+
+They go to the field where Tesi teaches the work-song class. The field is not
+yet ready for planting. The learners are gone. Tesi is alone. She is turning
+soil with her hands. She looks up when Rowan and Eli arrive. She does not ask
+why they are there. She says, "The song changes."
+
+Rowan stands at the edge of the field. She looks at the soil. She does not
+speak. She does not cry. She breathes.
+
+Eli stands beside her. He does not touch her. He does not speak. He looks at
+the soil too.
+
+The attack comes from both sides. The pro-dynasty faction says the compact is
+weak. The anti-dynasty faction says the compact is compromised. Wren receives
+both messages within ten minutes. She reads them in the anteroom. She sets them
+down. She looks at the draft on the table. She presses her palm flat against
+the paper.
+
+The line still says no rank until majority. It is the only line that matters.
 
 
-## Chapter 20—The Hospital Conversation [PLACEHOLDER]
+## Chapter 20—The Hospital Conversation
+The room is small. It has a window that looks out on a courtyard with a fig
+tree. The fig tree is old. Its branches press against the glass. Rowan is
+sitting on the bed. She is wearing a coat that is too large for her. It was
+Eli's. She put it on this morning because she could not find her own.
+
+Eli is sitting in the chair beside the bed. He is not speaking. He is looking at
+the fig tree. The leaves are moving. The wind is light. The branches do not
+swing. They tremble.
+
+Rowan is not speaking either. She is holding a paper. It is a clinical note. It
+is from the clinic where she had the first check. It says the pregnancy is
+stable. It says the dates are consistent. It says she should avoid long journeys
+for the next eight weeks.
+
+She does not hand it to Eli. She holds it with both hands. The paper crinkles.
+The sound is loud in the room.
+
+"Wren told me," Rowan says.
+
+"Told you what?"
+
+"That you asked for the record."
+
+Eli looks at her. He does not deny it. He says, "I wanted to know what the
+record said."
+
+"The record says what the doctor said." Rowan folds the paper. She puts it on
+the bedside table. She does not look at him. She looks at the fig tree. "Wren
+says you wanted to know before I told you."
+
+Eli is quiet. The wind moves the branches. The leaves tremble. He is not good
+at this. He knows how to fix a route. He knows how to read a gate stamp. He
+knows how to hold a corridor for eleven hours. He does not know how to let a
+person reach him without reaching back too hard.
+
+"I wanted to know you were safe," Eli says.
+
+Rowan looks at him. She does not smile. She says, "You wanted to know whether
+the pregnancy was viable."
+
+"Yes."
+
+"That is not the same thing."
+
+Eli nods. He knows she is right. He says nothing.
+
+The clinical note is leaked three days later. It appears on a channel that is
+not the court's. It is not the compact's. It is a channel that watches the
+court and reports what it sees. The note says Rowan is pregnant. The note says
+the pregnancy is stable. The note does not say who provided it. The note does
+not say the court already had the record.
+
+Wren knows it came from inside the clinic. She knows which clerk had access.
+She knows the clerk was paid. She does not name the clerk. She does not go to
+the clerk's room. She goes to Eli.
+
+She stands in the doorway of the anteroom. She is wearing her coat. She is
+holding a packet. She is not angry. She is something else. She is the person who
+knows the network can be read by someone who was not invited to read it.
+
+"Someone gave the note out," Wren says.
+
+"I know."
+
+"Someone inside."
+
+"I know."
+
+Wren steps inside. She closes the door. She sets the packet on the table. She
+presses her palm flat against it. She does not look at Eli. She looks at the
+paper. She is thinking about the route. She is thinking about the gate. She is
+thinking about the person who stood at the gate and let the woman die.
+
+Her fear is not of losing Rowan. Her fear is of being the person who is not in
+the room when the decision is made. Her fear is of being the person who watches
+the leak happen and cannot stop it because she is already outside.
+
+"You should have told me," Wren says.
+
+"I should have," Eli says.
+
+He does not say he was afraid of her reaction. He does not say he wanted to
+protect Rowan's privacy by keeping the record inside the clinic and failed. He
+does not say he thought the record was safe because he signed the access form.
+He knows the form did not protect anything. The form was a door. The door was
+opened from the inside.
+
+Wren looks at him. She sees his face. She sees the fig tree through the window.
+She sees the branches trembling. She says, "The clinic is my network too. You
+do not get to keep the fear private."
+
+"I know."
+
+She leaves. She does not close the door. The door swings. The wind comes in.
+The paper on the table moves. The packet does not move.
+
+Eli sits in the chair. He looks at the fig tree. The branches stop trembling.
+The leaves are still. He does not move. He does not speak. He waits for the
+room to tell him what to do. The room does not tell him anything.
+
+Rowan is in the next room. She is lying down. She is not sleeping. She is
+listening to the wall. She can hear Wren's footsteps in the corridor. She can
+hear the door swing. She can hear the wind. She does not get up. She does not
+call out.
+
+She holds the note in her mind. It says the pregnancy is stable. It says she
+should avoid long journeys. It says the doctor will see her in three days. She
+does not need the paper to know these things. She knows them in her body. The
+body is the record. The paper is only a copy.
+
+The leak is the cost of letting someone else hold the record. The cost of
+letting someone else speak for her body. She will pay it. She will not let the
+leak decide what happens next.
 
 
 ## Chapter 21—The Continuity Extension File [SPLIT-FROM: Ch 11]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+The file is on Asha's desk. It is not a locked file. It is a folder. It has a
+paper clip and a staple. The paper clip is rusted. The staple is loose.
 
----
+Asha opens it at 03:17. She is working late. The clinic is quiet. The only sound
+is the hum of the network and the rain on the roof. She is reviewing the
+extension applications for the northern route when she finds it.
+
+The file says the extension is permanent by default. The language is buried on
+page three, paragraph two, subparagraph c: "Unless the certifying officer
+expressly revokes this extension, it shall remain in force until superseded by
+a subsequent certification."
+
+Asha reads it twice. She is not a lawyer. She does not speak the language of
+continuity officers. She speaks the language of routes. She knows what a default
+means. A default is a door that closes unless someone remembers to open it. This
+door is designed to close the other way.
+
+She puts the file in her bag. She does not tell anyone. She goes to Wren's
+office. Wren is asleep on the cot. Asha shakes her shoulder. Wren opens her
+eyes.
+
+"Look," Asha says.
+
+Wren reads the file. She does not speak for a minute. She is thinking about the
+compact. She is thinking about the clause they wrote. She is thinking about the
+dormant provision that allows Eli's mandate to be reinstated if a future
+certification is compromised. She did not write the file. She did not sign it.
+She did not know it existed.
+
+"It is not the compact," Wren says. "It is the officer's form."
+
+"It is the officer's form," Asha says. "The form is the practice."
+
+Wren calls the officer at 04:02. The officer is a man named Henley. He is
+asleep. He answers on the third ring. He is not surprised. He sounds like a
+person who has been waiting for the call.
+
+"Who found it?" Henley says.
+
+"Does it matter?"
+
+"No," Henley says. "But I will suspend myself anyway. The form is not the
+practice. The practice is what you do when the form is wrong."
+
+Wren tells him to wait. She will have a replacement form by noon. She will have
+a new language. She will have a clause that says the extension expires unless it
+is expressly renewed. She will have the opposite of the default.
+
+Henley agrees. He suspends himself. He writes the note. He sends it to the
+network. The network records it.
+
+The vote shifts at 09:47. The northern-edge council had been scheduled to vote
+on the extension that afternoon. The council is the body that approved the
+original file. The council is the body that would have ratified the default.
+
+Asha's exposure changes the vote. The council members who did not read the file
+now have to. The council members who read it and signed it now have to explain
+why they did not notice the subparagraph. The council members who are running
+for the faster track now have to choose between defending the form and defending
+the practice.
+
+The vote is postponed. The council asks for a hearing. Wren agrees. She does not
+notify Eli. She does not have to. Eli is in the corridor. He does not read the
+network until evening. By then the vote is already postponed and the hearing is
+already scheduled and the officer is already suspended.
+
+Asha sits in the clinic and waits. She is not proud. She is not afraid. She is
+the person who found the file. She is the person who opened it. She is the
+person who knows the default is not neutral. The default is a choice made by
+someone who expected nobody to read it.
+
+She puts the rusted paper clip on the desk. She turns it between her fingers.
+The rust comes off on her thumb. She does not wipe it.
 
 ## Chapter 22—The Praetorian Demand [SPLIT-FROM: Ch 11]
 
@@ -6044,21 +6309,267 @@ if the child is born healthy and the clinics open and the seed bank delivers.
 
 The compact is now also the thing it was built to refuse.
 
----
+## Chapter 23—The Labor Inversion
+The classification board meets at 10:00. The agenda item is risk assignment for
+the coastal evacuation cohort. The cohort includes civilians, clinic staff,
+threshold-house members, and a repair crew. The board has three categories:
+low, medium, and high. Low receives shelter first. Medium receives shelter
+second. High receives shelter third.
 
----
+Rowan attends as the court's route liaison. She is seven months pregnant. She
+is wearing a coat that does not button. She sits in the back. She does not speak
+until the board finishes the draft classification. The draft places the repair
+crew in the high-risk category. The rationale is the crew's proximity to the
+drone corridor. The rationale is also that men are more likely to be exposed.
 
-## Chapter 23—The Labor Inversion [PLACEHOLDER]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+Rowan stands. She walks to the table. She is not steady on her feet. She holds
+the back of a chair. She does not sit. She puts her hand on the paper.
 
----
+"This category is not risk," Rowan says. "It is gender."
+
+The room is quiet. The board chair is a woman named Petra. She has been on the
+board for eleven years. She has seen three classifications. She has never been
+challenged on the gender line. She looks at Rowan. She looks at Rowan's hand on
+the paper. She looks at the coat that does not button.
+
+"Risk is assessed by exposure," Petra says.
+
+"Exposure is assessed by where people stand," Rowan says. "And where people
+stand is assessed by who is expected to stand there."
+
+She puts a new sheet on the table. It is the same classification. It is the
+same cohort. It is the same route. But the categories are different. The repair
+crew is low. The clinic staff is medium. The threshold-house members are high.
+The threshold-house members are women and children.
+
+Petra reads the sheet. She looks at Rowan. She says, "You are reversing the
+categories."
+
+"I am equalizing the risk," Rowan says. "Every category has the same exposure.
+Every category has the same chance of being hit. The difference is who is
+currently standing where. If you move the crew, you move the category. If you
+move the threshold house, you move the category. The risk does not change. The
+assignment does."
+
+Petra picks up the pen. She looks at the board. The board looks at her. She
+looks at Rowan. Rowan is still holding the chair. Her knuckles are white. The
+coat is open. The room is warm.
+
+Petra signs the new sheet. She passes it to the board. The board signs.
+
+The classification is changed. The repair crew is low. The threshold house is
+high. The evacuation uses the new sheet.
+
+Rowan goes to the clinic afterward. She asks for a private medical modification.
+The doctor is a woman named Mina. She has been on the circuit since Book III.
+She knows Rowan's history. She knows the modification. She knows what it costs.
+
+"It will not protect you from the drone," Mina says.
+
+"I know."
+
+"It will change the pressure on the birth."
+
+"I know."
+
+"It is your choice."
+
+"It is my choice," Rowan says.
+
+Mina prepares the modification. She does it in the clinic room with the window
+that looks out on the fig tree. She is gentle. She is quick. She does not ask
+questions. She knows the questions are already answered.
+
+Rowan leaves the clinic. She walks to the harbor. She does not go to the
+evacuation point. She goes to the water. She stands at the edge. She looks at
+the boats. She does not get on one.
+
+Eli finds her there. He is coming from the board meeting. He has seen the new
+classification. He has seen the signatures. He has seen the way Petra signed the
+sheet, like a person who had been waiting for permission to do the right thing.
+
+"You changed the categories," Eli says.
+
+"I equalized them."
+
+"You also accepted the modification."
+
+Rowan looks at him. She does not answer. She looks at the water. The water is
+gray. The boats are moving. The harbor is full of people who do not know the
+classification was changed. They only know they are leaving.
+
+"You should not have done it alone," Eli says.
+
+"I did not do it alone. Petra signed."
+
+Eli is quiet. He knows she is right. He also knows she is not telling him
+everything. He knows the modification is part of what she is not telling him.
+He knows the modification is the thing she decided without asking him.
+
+He is the person who holds the corridor. He is the person who orders the crew
+by name. He is the person who signs the authorization. He is not the person who
+decides how Rowan's body is modified for a birth he will not attend.
+
+He accepts this. He does not fight it. He stands beside her. He looks at the
+water.
+
+The boats leave at 14:22. The evacuation begins. The repair crew is on the
+first boat. The threshold house is on the last boat. The clinic staff is in the
+middle. Rowan watches them go. She does not get on a boat. She stands on the
+dock until the last boat is gone.
+
+She turns to Eli. "You wanted to know who decides," she says.
+
+"I know."
+
+"I do."
+
+She walks away. She does not look back. Eli stands on the dock. He watches her
+go. He does not follow. He knows the modification is the thing she has decided
+to carry alone. He cannot carry it for her. He cannot uncarry it.
+
+He looks at the water. The water is gray. The boats are gone.
 
 ## Chapter 24—The Sideways Four Seconds [SPLIT-FROM: Ch 13]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
+Somchai is sitting on the warehouse steps. He is peeling an orange. He is
+thinking about the four seconds.
+
+The four seconds are ordinary labor. They are the time between a patient's
+breath stopping and the medic's hands reaching for the chest. They are the time
+between a corridor blast and the crew's heads turning toward the sound. They are
+the time between a signature being signed and the paper being moved to the next
+pile. They are not mystical. They are not a gap in the record. They are the
+ordinary labor of being present.
+
+Somchai does not write the four seconds in his notebook. He does not have a
+notebook. He has a body. The body knows what four seconds weighs. The body knows
+what four seconds costs when the person holding the pen is not the person who
+will be buried.
+
+He finishes the orange. He puts the peel on the step. He sits on it. The peel
+is wet. The step is rough. The warehouse hums.
+
+Eli walks past. He sees Somchai. He stops. He says, "What are you thinking
+about?"
+
+"The four seconds," Somchai says.
+
+Eli waits. Somchai does not explain. He does not need to. Eli has heard the
+research team's reports. The team is still looking. They think the four seconds
+is a measurement error. They think it is a clock drift. They think it is a
+residual from the jammer. They have run the numbers three times. They have not
+found anything.
+
+Eli sits beside him. He does not ask for the explanation. He knows the four
+seconds is not a measurement. He knows it is the time it takes for a person to
+decide whether to move toward the blast or away from it. He knows it is the time
+it takes for a person to decide whether to sign the paper or hand it back. He
+knows it is ordinary labor.
+
+"You cannot measure it," Eli says.
+
+"I know," Somchai says. "The team is still looking."
+
+Eli looks at the warehouse. The door is open. The crew is inside. Malik is
+sorting equipment. Owen is writing a list. Callum is sleeping on the crate. Tomas
+is sitting on the floor. He is holding the coil of wire. He is not using it. He
+is just holding it.
+
+The research team keeps seeking. They put sensors on the corridor. They put
+cameras in the clinic. They put timers on the forms. They collect data. They
+write reports. They do not find the four seconds. They do not find it because
+they are looking for a gap. They are not looking for the labor.
+
+Eli suspects something he cannot name. He does not say it to the team. He does
+not say it to Somchai. He says it to the warehouse at night, when the hum is
+loud and the crew is asleep. He says it to the wire in Tomas's hand. He says it
+to the receipt in Mei's apron pocket. He says it to the blank page in Maren's
+notebook.
+
+The four seconds are not a mystery. They are a practice. The practice is
+ordinary. The practice is invisible. The practice is the thing that happens
+between the blast and the hand that reaches for the junction box, between the
+signature and the paper that moves to the next pile, between the breath that
+stops and the medic's hands that do not reach in time.
+
+Somchai stands. He puts the orange peel on the step. He goes to the warehouse.
+He picks up the wire. He gives it to Tomas. Tomas looks at him. Somchai says,
+"Carry it."
+
+Tomas nods. He coils the wire. He sets it on the shelf. He sits on the crate.
+He is not asleep. He is not talking. He is just sitting.
+
+Eli watches him. He suspects something he cannot name. He does not name it. He
+turns away. He walks to the kitchen. Mei is there. She is washing a bowl. She
+does not look up.
+
+The research team sends a report at 22:00. It says the four seconds is
+unexplained. It recommends further study. Eli reads the report. He puts it in
+the drawer. He does not file it. He does not respond to it.
+
+He knows the four seconds is not unexplained. It is ordinary. It is the labor
+of being present. It is the thing that happens between the blast and the hand
+that reaches. It is the thing that happens between the signature and the paper
+that moves. It is the thing that happens between the breath that stops and the
+medic's hands that do not reach in time.
+
+He cannot name it. He does not need to. The warehouse hums. The wire is on the
+shelf. The receipt is in Mei's pocket. The notebook is blank. The orange peel is
+on the step.
+
+The team keeps seeking. The four seconds stays ordinary. Eli suspects. He does
+not name it. The practice continues without being measured.
+
+## Chapter 25—The Flight Departure
+
+The flight departure happens at the harbor. It is not a ceremony. It is a boat.
+
+Three apprentices are leaving. They are not the best. They are not the worst. They are the ones who finished the work and did not know what to do next. Their names are called at the dock. They are not called heroes.
+
+The first apprentice is a girl named Lani. She finished the clinic rotation. She carries a bag with gauze, suture thread, a copy of Mina's stop-condition notes, and a notebook with no entries. The second is a boy named Del. He finished the harbor-grid rotation. He carries a tool bag with three spanners, a coil of wire, and a list of repair locations that no longer exist. The third is a child named Pich. He finished the work-song class. He carries a flute with no reed, a seed packet with no label, and a question he has not asked.
+
+They board the boat. It is a repair vessel. It has been patched and re-patched. The hull is gray. The paint is peeling. The name on the stern is a name nobody knows.
+
+At the dock, a court official named Lira tries to give them a letter. It says they are a delegation. It says they carry the court's authority. It says they are evidence that portable discipline works. Lani takes the letter. She folds it. She puts it in her pocket. She does not read it.
+
+A Weaver representative named Asha tries to give them a warp attestation. It says they completed the program. It says they are certified. It says they are evidence that the settlement's training travels. Del takes the attestation. He folds it. He puts it in his tool bag. He does not read it.
+
+Somchai is at the dock. He is not there to see them off. He is there to fix a patch on the warehouse steps. He looks up when they pass. He sees Lani's bag. He sees Del's tools. He sees Pich's flute. He does not say anything. He watches the boat leave.
+
+The boat leaves at 14:35. The three apprentices sit on the deck. Lani opens the letter. She reads it. She tears it in half. The two pieces fall into the water. The paper soaks. The ink bleeds. The pieces sink.
+
+Del opens the attestation. He reads it. He tears it in half. The two pieces fall into the water. The paper soaks. The ink bleeds. The pieces sink.
+
+Pich watches the water. He says, "Where are we going?"
+
+Lani says, "North."
+
+Del says, "There."
+
+Pich nods. He puts the flute to his lips. He does not play. He just holds it.
+
+Somchai watches the boat. He does not name what he feels. He turns back to the steps. He picks up the wire. He picks up the coil. He sits on the crate.
+
+Eli walks past. He sees Somchai. He says, "Where did they go?"
+
+"North," Somchai says.
+
+Eli waits. Somchai does not explain. He does not need to. Eli has read the clock. He knows the next generation inherits the work without the protection of a founder. He knows the court will try to brand them a movement. He knows the Weavers will try to claim them as evidence. He knows the apprentices will refuse all names.
+
+Eli looks at the water. The boat is a dot. The dot is getting smaller. He does not say anything. He turns away. He walks to the headquarters building.
+
+Mei is in the kitchen. She is washing a bowl. She does not look up.
+
+Wren is in the archive. She is filing a report. She does not look up.
+
+Rowan is in the birth room. She is reading a book. She does not look up.
+
+The harbor is quiet. The boat is gone. The dock is empty. The letters are in the water. The attestations are in the water. The apprentices are north.
+
+Somchai fixes the step. He coils the wire. He sits on the crate. He is not asleep. He is not talking. He is just sitting.
+
+The next generation is already gone.
 
 ---
-
-## Chapter 25—The Flight Departure [PLACEHOLDER]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
 
 ---

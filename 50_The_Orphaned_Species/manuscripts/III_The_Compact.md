@@ -830,6 +830,7 @@ members of the council. Nobody calls for them.
 Tomas exhales as if Eli promised more.
 
 
+
 ## Chapter 2—First Sponsorship
 
 Bima Prasetyo's sponsorship paperwork sits on the harbor master's desk between a tide chart and a notice about fuel rationing. The form asks for guarantor, route intent, and cargo declaration. Eli reads it twice. Bima watches him read it.
@@ -847,6 +848,7 @@ Outside, the blue workboat sits at the maintenance pier with its engine off. Bim
 Eli folds the stamped form and puts it in his pocket. The twine around the pencil scratches against the paper.
 
 ---
+
 
 
 ## Chapter 3—The First Sponsorship [PLACEHOLDER]
@@ -1674,6 +1676,7 @@ He does not record it as a management lesson. He lets it stand as a fact the
 harbor already knew and he is only now learning to read.
 
 
+
 ## Chapter 4—Living-Room Debate
 
 The boat's saloon holds six people when everyone leans forward. Mei has pulled the table out from the wall and arranged four chairs around it. The fifth chair is for Eli, who arrives last and sits closest to the door.
@@ -1689,6 +1692,7 @@ Hsu writes on his forearm. "That's a jurisdictional argument, not a clinical one
 Eli sides with Mei. He says it quietly, without looking at Hsu. The decision costs him Hsu's cooperation for the next intake cycle. After Hsu leaves, Mei washes the glasses and puts them away without drying them. Eli dries them and puts them back in the cabinet.
 
 ---
+
 
 
 ## Chapter 5—The Artifact Delivery [SPLIT-FROM: Ch 3]
@@ -2183,6 +2187,7 @@ He presses the wet soil back into the hole although there is nothing left to
 hold.
 
 
+
 ## Chapter 6—Repair Dock Morning
 
 The dock warehouse has six grounded sleeping rooms and twelve people who now require repair work. Nia stands at the far end of the main bay with three apprentices who have never held an awl before. She hands each of them a piece of scrap hull and a tool. She does not explain the technique.
@@ -2196,6 +2201,7 @@ By noon, all three have patched their first seam. Nia inspects each one. The mid
 The sun moves across the warehouse roof. The apprentices' shadows stretch and contract. Nia's own thumb has a scar from an awl slip three years ago. She shows it to them between stitches.
 
 ---
+
 
 
 ## Chapter 7—The Repair Dock Evening [PLACEHOLDER]
@@ -3074,6 +3080,7 @@ By midnight, nobody remembers that his harbor authority ended when the last
 body reached the pier.
 
 
+
 ## Chapter 8—Aftermath of Broken Transfer
 
 The broken transfer leaves three people at the wrong dock and one boat with a damaged propeller. Eli goes to retrieve them personally. The people at the wrong dock have made themselves at home: they have started a fire in a metal drum, shared food with local fishermen, and decided they will not return until someone explains why they were sent there.
@@ -3085,6 +3092,7 @@ The return takes two days longer than planned. The damaged propeller forces them
 The propeller is fixed by sunset. They leave before dawn. Eli writes the delay in the logbook. He does not apologize for it.
 
 ---
+
 
 
 ## Chapter 9—The Sideways Record [SPLIT-FROM: Ch 5]
@@ -4820,6 +4828,7 @@ Ahead, Hawaiʻi waits with beds, water limits, damaged roofs, and the authority
 to send them away.
 
 
+
 ## Chapter 10—Expended Ledger
 
 Wren audits the Sideways ledger after the artifact delivery. The numbers do not match: one entry is missing, one is duplicated, and one refers to a clinic that no longer exists. She traces the discrepancy to a Continuity officer named Park who died three weeks earlier. The ledger was never balanced after his death.
@@ -4829,6 +4838,7 @@ Wren sits with the unbalanced book for an hour. The light moves across the table
 She closes the ledger. She does not report the error. Instead, she adds a new column titled "unaccounted" and writes the three discrepancies in it. The column stays empty for three pages. She closes the book and puts it on the shelf.
 
 ---
+
 
 
 ## Chapter 11—Ambassador Dinner
@@ -4846,6 +4856,7 @@ The aide says, "That's why it worked."
 ---
 
 
+
 ## Chapter 12—Polyphonic Hearing
 
 The hearing room holds twelve people who want to speak and one stenographer who cannot keep up. Qiao is present but does not testify. She sits in the back and watches the witnesses: a farmer who lost his field to a drone strike, a nurse who lost her clinic to a registry order, a driver who lost his license to a security check.
@@ -4855,6 +4866,7 @@ Each testimony is five minutes. The farmer describes the strike in terms of soil
 The hearing lasts six hours. Qiao leaves before the stenographer finishes. She stands in the corridor and smokes a cigarette she does not usually smoke. The smoke makes her eyes water. She does not wipe them.
 
 ---
+
 
 
 ## Chapter 13—Qiao's Testimony and the Survivor [SPLIT-FROM: Ch 7]
@@ -5501,6 +5513,7 @@ Not honor.
 Equipment and the bill for using it.
 
 
+
 ## Chapter 14—Compact Drafting
 
 Sol and Eli draft the Compact text in a room with no windows and a table that is too long. Sol wants mandatory synchronization clauses; Eli wants consent-bound coordination. The argument is technical but personal: Sol lost people to a psionic field that did not hold; Eli lost people to a registry that did.
@@ -5516,6 +5529,7 @@ Sol signs it without reading the consent clause. She says later, when they are a
 Eli says, "I know."
 
 ---
+
 
 
 ## Chapter 15—The Signing and the Shed Fire [PLACEHOLDER]
@@ -5569,830 +5583,6 @@ Mina stops him on medical grounds.
 
 "Convenient," he says.
 
-"Yes," she says. "Medicine is often convenient to survival."
-
-Bima waits through the cooling interval and signs again.
-
-"You don't owe this," Eli says.
-
-"Correct."
-
-"Pelangi needs you."
-
-"Pelangi needs many people."
-
-"That's not an answer."
-
-"It is the one you use when somebody calls you indispensable."
-
-Bima checks his green-thread harness.
-
-"I know the junction. I know marine power. I am choosing the work."
-
-The choice is real.
-
-So is every eye that taught him what a man should choose.
-
-Eli authorizes the crew.
-
-He uses their names.
-
-Bima Prasetyo.
-
-Leilani Akana.
-
-Owen Price, advisory only.
-
-Jalen, rigging.
-
-Thirty-one others whose consent does not turn them into numbers.
-
-The holding clock begins at sunrise.
-
-Sol sends a final offer.
-
-**LINK THEM TO ME. I CAN KEEP THEM ALIVE.**
-
-Eli feels the capacity inside himself.
-
-He could enter every available carrier, align the compact corridors, and turn
-the island's station network into a command path.
-
-It would save more people.
-
-He puts on Kit Three.
-
-The compact expires in seven days.
-
-The crew leaves before anyone can decide whether the armor makes him look like
-a ruler.
-
-He walks them as far as the Union medical gate on the service road. The
-checkpoint has jammed. Too many bodies. A clerk with a list. A boy at the
-barrier who will not let a gurney through without a name for the woman on it.
-The tag on her wrist is a number. She does not have minutes to spend on a
-name.
-
-Eli could move him. The thing in his chest that makes rooms go quiet is right
-there. Lean in. Drop the voice. Let the boy feel what stands in front of him.
-The boy would step aside. The gurney would go through.
-
-He asks.
-
-He is calm. He gives the boy a reason and a way to keep his face. The boy is
-nineteen and covering for a supervisor who will dock him. *I can't. I'm sorry.
-I can't.* He holds the line for ninety seconds until the supervisor comes.
-
-By then the woman has stopped needing to be moved.
-
-Wren finds him after. She looks at the barrier, and the boy still standing
-there, unharmed, intact.
-
-"You kept him whole."
-
-She does not finish the rest.
-
-A delegate from the harbor council stops him at the gate. She is young enough
-to have grown up after the extraction, old enough to know his name from the
-feeds. She does not ask about the junction or the crew. She asks whether he is
-the one the stones told about.
-
-Eli looks at her. Behind her, Bima checks the winch. The Blue Roof House
-children are writing notes. The crew is already moving.
-
-"I am the person who knows the route," he says.
-
-She waits for more.
-
-"That is all anybody has."
-
-
-Wren watches her do it and does not correct the record. The record does not
-need correction. It needs a second witness.
-
----
-
-The Blue Roof House sends breakfast before the battle.
-
-Rice parcels, boiled eggs, preserved plum, packets of tea, and thirty-seven
-notes written by children who have been told not to say *good luck* because
-luck makes adults uncomfortable when planning has failed.
-
-**COME BACK WITH MY BLUE PEN.**
-
-**THE WATER FILTER STILL MAKES THE BAD SOUND.**
-
-**I DID NOT TAKE YOUR SOCK.**
-
-Bima reads the last note over the crew channel.
-
-"This is clearly false."
-
-The Blue Roof House stands beside the North Line Junction, a former weather and
-fuel platform expanded into a threshold refuge during the first displacement.
-Its roof is blue because that was the only membrane available. It has held
-awakened families, demobilized sailors, abandoned children, three registry
-defectors, and one woman who claims no affiliation and repairs every shoe left
-outside her door.
-
-The junction controls nothing by itself.
-
-It is where several supply and evacuation routes can still meet without
-entering a state port.
-
-That makes it valuable enough to destroy.
-
----
-
-Eli coordinates from the Hawaiʻi workshop.
-
-Kit Three holds his body badly but measurably. The conductive paths reduce field
-burn along his arms. The hood lowers the visual overlap. The weight makes his
-old balance injury worse.
-
-Wren sits at a separate table with the route-circle delegates.
-
-Malia sits between them and represents the island's conditions.
-
-No military traffic routed through the harbor.
-
-No forced use of local field-active people.
-
-Medical receiving within water and bed limits.
-
-Every hour, the compact field gathers for twelve minutes, disperses for eight,
-and reviews exits, injuries, and consent before gathering again.
-
-The rhythm is weaker than continuous coherence.
-
-It lets people leave.
-
-Sol's field does not disperse.
-
-On the tactical map it appears stable, broad, and beautifully simple.
-
-"Join the northern edge," Sol tells Eli. "I will carry the load."
-
-"You asked the boy at the medical gate. She died. You kept his face pretty."
-
-"Can your people exit?"
-
-"After the corridor holds."
-
-"When?"
-
-"When the attack ends."
-
-"Who decides?"
-
-"The attack."
-
-Same cage with no visible jailer.
-
-Lang sends a different offer.
-
-Registry teams can assign compatible defenders, predict fatigue, and replace
-weak links before failure. Their model would increase civilian survival by
-eighteen to thirty-one percent.
-
-"Identity tier?" Eli asks.
-
-"Active under emergency Standard."
-
-"No."
-
-"Then the deaths below the confidence interval are yours."
-
-"No," Wren says after the call. "They belong to the people who kill them."
-
-"My choice affects the count."
-
-"Yes."
-
-She does not absolve him with grammar.
-
----
-
-The first assault targets the ground paths. Three drones strike the conductors
-feeding the compact's local transmission stations while the nearby crews are
-still evacuating.
-
-The stations do not power the defense field; they carry the bounded
-teachings and lived records by which separated communities correct one another.
-Blind the routes and every group begins mistaking its piece for the whole.
-
-One station forwards the Blue Roof evacuation ledger:
-
-children first is not consent to spend the adults.
-
-Another forwards the Folly:
-
-an authority offering survival can still be wrong.
-
-Sol overwhelms both with one repeated instruction:
-
-**HOLD.**
-
-Eli could answer with a stronger one.
-
-His compatibility reaches every open carrier. The fixed systems show the path.
-One push and the compact field would stop dispersing. Fatigue could be assigned.
-Fear could be damped. Bodies could be held at their posts while civilian boats
-crossed.
-
-The tactical result would improve.
-
-At the junction, Bima's crew restores the first ground path under fire.
-
-Leilani flies a repair drone manually because the autonomous model keeps
-selecting wounded men as probable attackers. Jalen crawls beneath the power
-deck with a cable reel. Bima argues with an isolation switch.
-
-"It is Union manufacture," he says. "Designed to become patriotic under load."
-
-Eli hears their fear beneath the words.
-
-
-
-Enough to know he could smooth it away.
-
-"Next gather in forty seconds," Wren says.
-
-The south compact cell has lost four members.
-
-The eastern cell refuses another interval until two exhausted carriers are
-replaced.
-
-"We don't have replacements," Eli says.
-
-"Then it stays out."
-
-"The civilian route opens in three minutes."
-
-"They know."
-
-"Ask again."
-
-"They already answered."
-
-The command rises in him.
-
-He touches the network and begins to synchronize it before anyone answers.
-
-Across the map, panic falls. The south cell steadies. The eastern carriers lift
-their heads as his interval enters them.
-
-Efficient.
-
-Intimate.
-
-Wrong.
-
-Wren breaks the contact.
-
-She pulls the manual ground from Kit Three.
-
-The backlash puts Eli on the floor.
-
-For six seconds he cannot remember which body is his.
-
-One civilian boat misses the safe interval.
-
-Its captain turns north and enters the strike zone.
-
-"Why?" Eli manages.
-
-"You didn't ask."
-
-"They were failing."
-
-"They refused."
-
-"People are on that boat."
-
-"Yes."
-
-He wants to hate her.
-
-The feeling passes through without becoming an order.
-
-"Restore the ground."
-
-"Will you do it again?"
-
-He looks at the tactical map.
-
-The civilian boat is still moving.
-
-"I don't know."
-
-Wren does not reconnect him.
-
-Malia says, "Then you don't wear the equipment."
-
-They remove Kit Three.
-
-Eli returns to the network without amplification.
-
-The pain is immediate.
-
-"Ask the eastern cell what they can offer," he says.
-
-Wren does.
-
-They refuse coherence.
-
-They offer two navigators to guide the civilian boat outside the field route.
-
-Slower.
-
-The boat survives.
-
----
-
-The second assault arrives during dispersal.
-
-This is the weakness everyone predicted.
-
-The compact cells separate to breathe, eat, leave, object, and replace. Sol's
-field remains continuous. Lang's assigned units remain continuous.
-
-The attackers strike the junction in the gap.
-
-Pressure hits Bima's crew before the physical drones.
-
-Jalen forgets the shape of the cable in his hands. Leilani sees six versions of
-the deck. A crew member named Safiya begins hearing her dead father giving
-correct instructions in the wrong order.
-
-Bima cannot hear the attack.
-
-His field sensitivity is too low.
-
-This makes him the clearest person on the platform.
-
-"Eyes on ordinary things," he says. "Blue paint. Yellow rail. My unpleasant
-face."
-
-He moves from person to person, attaching manual grounds.
-
-The first drone explodes against the lower deck.
-
-Blast pressure lifts him and puts him down on one shoulder. His harness catches.
-The green sail thread holds.
-
-"Bima," Eli says.
-
-"Busy."
-
-"Evacuation interval in ninety seconds."
-
-"Blue Roof isn't clear."
-
-"They reported clear."
-
-"Then they lied politely."
-
-The house camera shows movement behind the lower windows.
-
-Three children. The shoe-repair woman. A man who cannot cross the exposed
-walkway without carrying oxygen.
-
-The crew has one shielded cart.
-
-Bima sends it.
-
-"Your order is hold junction," the compact officer says.
-
-"My order includes civilians."
-
-"If the ground path fails—"
-
-"Then repair it."
-
-He sends Jalen with the cart and turns back to the conductor.
-
-The third strike cuts the primary line.
-
-The station routes begin dropping.
-
-Eli feels each bounded teaching vanish into local silence. Communities can
-still act. They can no longer correct one another fast enough.
-
-"Bima, leave it," he says.
-
-"No."
-
-"The evacuation route is open."
-
-"For boats. Not the house."
-
-"Jalen has them."
-
-"Jalen has one cart."
-
-Eli checks the camera.
-
-More people appear.
-
-The house did not lie to preserve the battle.
-
-Its intake list failed to update when a lower room lost power.
-
-Technical account without bodies.
-
-"Second cart is moving," Wren says.
-
-"Four minutes," Bima answers.
-
-"You don't have four."
-
-"Then faster cart."
-
-No last speech.
-
-No statement that the work is worth his life.
-
-Bima braces the replacement conductor beneath a shield panel while Leilani
-tries to route power around him.
-
-The attack finds the live path.
-
-Current enters through the cable, crosses the wet deck, and takes Bima's hands.
-
-He cannot let go.
-
-His body locks around the conductor.
-
-Leilani reaches the isolation switch.
-
-It fails.
-
-Union manufacture.
-
-Patriotic under load.
-
-She hits it with the grounding hammer Bima gave her.
-
-The circuit opens.
-
-Bima falls.
-
-For several seconds the channel transmits only breath and somebody saying his
-name too quickly.
-
-Leilani turns him.
-
-His palms are burned through. His heart has stopped.
-
-She begins compressions.
-
-Eli feels every compatible carrier open in alarm.
-
-This is the moment.
-
-He can force the gather, stop the remaining strike, hold the cells until every
-boat and every person in Blue Roof clears.
-
-He sees the future Lang offered: fewer dead in the next five minutes.
-
-He sees the one Sol offers: nobody leaves until the danger is over.
-
-"Gather request," he says.
-
-Wren sends it.
-
-Not command.
-
-Twenty-two cells answer.
-
-Nine refuse.
-
-Four do not respond.
-
-The field rises ragged.
-
-It is not strong enough to save Blue Roof.
-
-The third assault hits the house after the second cart clears the walkway.
-
-The shoe-repair woman and the children survive.
-
-The structure does not.
-
-Sora Vithan holds the stairwell door two floors above the walkway.
-
-She is not supposed to be inside. She defected into Wren's network four months
-ago — training the wrong side gave her and nowhere else to put it, a name
-Wren vouched for over the network's own hesitation. Tonight the network is
-open enough that nobody stopped her from being here, and closed enough that
-nobody can order her to leave.
-
-The team coming up the stairs runs the callsign that has moved through Union
-intercept chatter since the strait: **Prince**. **Persia hold.** Close enough
-to see, tonight, it resolves to a man in his thirties wearing the rank
-insignia of a *sar* fighting his own country's partition war three thousand
-miles from this one, doing to a stairwell in Belém what his orders call
-liberation and everyone below it would call an execution.
-
-Sora recognizes the insignia before she recognizes the danger.
-
-She holds the door long enough for the last four residents to reach the boat
-line.
-
-She does not hold it long enough for herself.
-
-A responder named Teo remains inside searching an empty room because the intake
-list says a family is there.
-
-He dies beneath the blue roof.
-
-At the junction, Leilani compresses Bima's chest for nineteen minutes.
-
-The remote medic tells her to stop.
-
-She does not hear the first instruction.
-
-The second reaches her.
-
-She stops.
-
-The replacement conductor remains beneath Bima's body, connected long enough
-for the final civilian boat to clear.
-
-The operational report records eleven minutes purchased.
-
-It does not record the other cost.
-
-Diogo Ferreira is found by Eli in the morning review not far from the junction
-access hatch, where he had been carrying cable for the evacuation rig. The
-body shows no weapon, no blow, only burns consistent with live rail and the
-compression mark of a collapsing stanchion. He is twenty-one. He came
-awakened from the crossing with his brother Paulo and a request for ordinary
-work. He does not get ordinary work. He gets the first hour of a war he did
-not start, holding a wire that was never meant to carry current alone.
-
-Eli stands beside the sheet long enough to read the name twice.
-
-The threshold house review lists three losses. Blue Roof is one. The others
-are not named in the public summary.
-
-Wren knows the list. She does not speak it.
-
-Wren deletes the phrase from the public summary.
-
-Owen Price makes her put it back.
-
-"Then put the names beside it," he says.
-
-They do.
-
-Bima Prasetyo.
-
-Teo Marquez.
-
-Sora Vithan.
-
-Eleven minutes during which none of them became time.
-
-Sora's sister has a standing address on file from a Vol I service record —
-a medal, sealed and returned once, now unsealed by a war that made the return
-temporary. Wren mails it back herself rather than let the registry log it as
-evidence. No note. The medal was never proof of anything Sora still owed
-anyone.
-
-Lang is not on a screen this time.
-
-Eli finds him in the collapsed access corridor behind Blue Roof, one leg
-pinned under a fallen strut, his registry earpiece dead, his security detail
-already pulled two streets away by the second assault. He came in person to
-watch his model run. Nobody told him to. Nobody stopped him.
-
-He does not call for help.
-
-Eli could end this in the time it takes to finish an exhale. The old
-fracture already knows the angle. Nobody is watching. Nobody would ever know
-it happened here instead of in the collapse.
-
-"Go ahead," Lang says, without looking for sympathy in the offer. "It will
-not make me wrong."
-
-"About the eighteen to thirty-one percent."
-
-"About the shape of the problem you and I disagree on. My numbers held
-tonight. Bima Prasetyo held a conductor my model would have assigned to
-someone with a spare set of hands. Teo Marquez searched a room my model
-would have already marked empty. I am not glad they are dead. I am not
-surprised."
-
-"You want me to agree with you."
-
-"I want you to notice that wanting has nothing to do with whether I'm
-right."
-
-Eli's palms prickle toward the strut pinning him — an old, unwanted itch, a
-diagnostic read arriving whether he asked for it or not: crushed tissue, a
-fracture that will need setting properly within the hour, nothing that will
-kill him before morning.
-
-He could leave him exactly like this and call it an accident of timing.
-
-He kneels instead and starts working the strut free.
-
-Lang watches him do it without gratitude and without surprise, the way a man
-watches weather he has already read correctly.
-
-"This changes nothing I was right about," Lang says.
-
-"I know."
-
-Eli does not tell Wren. He does not tell the coalition. Nobody sees this
-decision made twice in the same hour — the strut, and then the choice
-underneath it — and nobody needs to, because it was never made for an
-audience in the first place.
-
----
-
-Hawaiʻi receives the wounded after midnight. Contaminated work clothes go into
-sealed bags at the dock. A medic unlocks a phone for a man whose hands no longer
-work. The missing-person list and the final manifest disagree by four names.
-Nobody can find the owner of a single mud-filled boot.
-
-Jalen arrives with the children and a field injury that has taken color vision
-from one eye.
-
-Leilani arrives carrying Bima's green-thread harness.
-
-The thread held.
-
-His heart did not.
-
-She gives it to Eli.
-
-"No," he says.
-
-"He listed you for equipment return."
-
-Even death comes with maintenance procedure.
-
-Eli accepts the harness.
-
-Mei joins by screen from Pelangi.
-
-He tells her himself.
-
-No dashboard.
-
-No minutes.
-
-She listens.
-
-"Was he alone?"
-
-"No."
-
-"Was he afraid?"
-
-"Yes."
-
-"Did you order him?"
-
-"I authorized the crew."
-
-"Did he choose?"
-
-"Yes."
-
-Mei closes her eyes.
-
-"Don't call that clean."
-
-"I won't."
-
-The connection ends.
-
----
-
-The compact holds the junction.
-
-Sol's forced field wins two adjacent engagements and begins fracturing as
-exhausted members flee or are punished for trying.
-
-Lang's units save three civilian routes and place every survivor into permanent
-status review.
-
-The compact evacuates fewer people than forced synchronization might have.
-
-Enough independent communities remain connected to prevent capture, maintain
-food and clinic routes, and continue cooperation after the immediate attack.
-
-No commander can call it vindication.
-
-Sol's body gives out after the northern field loses its last replacement
-circle. The people nearest him carry him to a compact clinic because the
-registry ambulance will accept only named subjects. His legal name goes on the
-intake board for the first time in years: **DIEGO MÉNDEZ**. He is conscious
-enough to object and too depleted to stop them.
-
-The clinic treats the burns along his old implants, restores his fluids, and
-places an ordinary guard at the door under the same conduct rule used for
-anyone accused of forced entry. His field does not return before the hearing.
-The red-scarf channels continue without him. Half call his collapse martyrdom.
-The rest begin arguing over who gets the passwords.
-
-Tommy arrives at the southern review post carrying the Custodian mission log.
-His left hand cannot keep the slate level. He sets it on the desk and asks for
-the civilian-harm investigator by title.
-
-The log records Sora's route leak, Anika's decision to keep her operational,
-and the order that sent their unit back into the field after the Stonehenge
-clock broke. It also records Tommy firing on the clock. He refuses the offer to
-separate that page before transfer.
-
-Anika comes for the slate with two officers who still answer to her collar
-code. Tommy does not raise the lance.
-
-"You kept us alive," he says.
-
-"Then move."
-
-"You kept the unit alive."
-
-The distinction stops him before it stops her. Anika reaches for the slate.
-The review-post officer closes the evidence cage on her hand and reads the
-arrest authority from paper because Anika's field has already disabled the
-wall display.
-
-She counts four breaths while they fit the ordinary restraint. On the fifth,
-the remaining officers step back from her coherence field.
-
-Tommy sits on the floor outside the interview room until someone brings a
-chair. He gives the names of the people he struck. The investigator writes the
-first one down twice and crosses out the misspelling in full view of him.
-
-On the twenty-first day, the named attack condition ends.
-
-Eli's authority expires at 18:00 local time.
-
-At 18:01, emergency dispatch asks him to approve a fuel transfer.
-
-"No," he says.
-
-"Who approves?"
-
-"The harbor councils."
-
-"They disagree."
-
-"Then help them resolve it."
-
-"There isn't time."
-
-The old answer waits.
-
-He does not give it.
-
-He removes Kit Three from the sign-out cage even though he has not worn it since
-Wren pulled the ground.
-
-Malia witnesses the return.
-
-The armor hangs from an ordinary hook.
-
-"Hearing starts tomorrow," she says.
-
-"I know."
-
-"Transfer after certification."
-
-"Yes."
-
-"Do you want to keep it?"
-
-Eli looks through the workshop door at people carrying Blue Roof medication
-into a dormitory whose water allocation is already exceeded.
-
-"Part of me."
-
-"Good."
-
-"Good?"
-
-"A person who says no is sometimes hiding the yes from himself."
-
-She signs the equipment return.
-
-Outside, supporters are already gathering for a ceremony of gratitude.
-
-Amara has sent written testimony.
-
-Owen has sent the eleven-minute report.
-
-Arman has sent the drone footage.
-
-Leilani has sent no statement at all.
-
-
 ## Chapter 16—Voyage Warning
 
 The Compact signing ceremony is interrupted by a warning: the Mandate fleet has been spotted moving south along the coast. Sol reads the report and does not panic. She tells Eli that the fleet is not an attack; it is a show of force meant to make the Compact sign before the war begins.
@@ -6402,6 +5592,7 @@ Eli asks how she knows. She says she has been watching their logistics patterns 
 The warning is accurate. Sol's intelligence is correct. The fleet turns back three days later without firing. The Compact signs the document the same day. Sol reads the consent clause aloud before signing. She stops at the third paragraph and says, "This is the part that matters."
 
 ---
+
 
 
 ## Chapter 17—A Crown With an End [PLACEHOLDER]
@@ -7219,6 +6410,7 @@ The work is designed to proceed without Eli.
 He goes to sleep before it finishes.
 
 
+
 ## Chapter 18—Basalt and the Forks
 
 The basalt alignment at the Forks has hummed since Malia's first night check. Now it is silent. She sits beside it for an hour, listening to the water move through the channel where the hum used to be. The silence is not empty; it is full of the sound she has stopped hearing.
@@ -7232,38 +6424,191 @@ That night, Malia dreams about the hum. She wakes before the dream ends and lies
 ---
 
 
+
 ## Chapter 19—Gutter Clearing and the Work Song [PLACEHOLDER]
 
 
 
+
 ## Chapter 20—The Corridor Order [SPLIT-FROM: Ch 13]
-The corridor order comes at dawn. The message is not a message; it is a directive written on the wall in a language the volunteers have learned to read without translating: move, stay, wait, do not return.
+The corridor order arrives on a paper that is already dirty before anyone touches it.
+Eli reads it in the kitchen while the coffee brews. Mei reads it over his shoulder.
+She does not ask what it means. She folds the paper and puts it in her apron pocket
+because she has seen this before, in a house that no longer exists, in a language
+that had a different name for the same instruction.
 
-Eli reads it from the kitchen. Mei reads it over his shoulder. She does not ask what it means. She folds the paper and puts it in the pocket of her apron because she has seen this before, in a house that no longer exists, in a language that had a different name for the same instruction.
+The crew is four: Malik, Owen, Callum, and Tomas.
 
-The order names three things: a route through the city, a time window, a person who must not be on the route. The person is Maren.
+Tomas is the third man who should not be on the list. He is not cleared for exposed
+corridor work. His sponsorship is thirty days old. The gate officer stamped his
+paper without looking at it. Eli looks at the stamp. It is a circle with a line
+through it, meaning transit only, meaning no holding action, meaning the word was
+not read.
 
-She is at the table, eating rice. She looks up when Eli folds the paper. She does not ask what it says. She asks whether the rice is cold. It is not cold.
+"He comes back," Eli says.
 
-"They want the route open," Eli says. "They want it open without her."
+"He stays here," Mei says. She is wiping the table. She does not look up.
 
-"I know," Maren says. "I wrote the order."
+"He asked."
 
-She says it quietly, the way you say something you have already decided not to defend. She does not look at Mei. She looks at the wall behind Eli, where the paper would have taped if she had not taken it first.
+"Then he should have asked clearer."
 
-Mei stands. She clears the bowl. She does not leave the room.
+Tomas stands in the doorway. He is holding a coil of wire. He has already packed
+his bag. The wire is not in the bag. He is holding it because it is the thing he
+was working on when the order came and his hands do not know how to stop being
+useful.
 
-"The window is six hours," Eli says. "After that, the route closes and the doors lock from the other side."
+"I can carry," Tomas says.
 
-Maren nods. She finishes the rice. She wipes her mouth with the back of her hand. She stands.
+"I know," Eli says.
 
-She does not walk to the door. She walks to the shelf where the keys hang and takes the one that opens the back way out, not the front, not the route, not the order.
+The hold is eleven hours. The corridor closes at the river mouth. The west relay
+goes down at hour nine, which means the message canister is the only thing that
+gets through. The canister lands in the gutter outside the clinic. It opens when
+the medic kicks it. Inside is a single sheet of paper printed in the house's own
+font: a receipt, not a message, listing the patient's name, the route they
+traveled, and the person who signed for them at the border. The paper is also a
+threat.
+
+Mei sees the canister. She is carrying a tray of broth to the ward. She stops.
+She looks at the paper on the ground. She does not pick it up. She knows what it
+is. She has seen receipts before, in a house that no longer exists, written in a
+language that had a different name for the same instruction.
+
+She turns the tray. The broth does not spill.
+
+At the clinic door, a woman named Lani is restocking gauze. She is the night
+shift lead. She has not slept. She sees Mei stop. She sees the canister. She
+does not ask what it is. She says, "The relay is down. The medic will be late."
+
+"I know," Mei says.
+
+"Tomas went with Malik," Lani says. She is folding a bandage. She does not look
+up. "He asked for the wire."
+
+"Give it to him," Mei says.
+
+"I already did." Lani sets the bandage in the tray. She looks at Mei. "The
+woman in the gurney asked for water. I gave her the cup. She held it with both
+hands. She did not drink it."
+
+Mei nods. She turns the tray again. The broth is still warm. She walks to the
+ward. The door clicks behind her.
+
+At hour nine, the blast hits the west relay. The corridor holds. The crew holds.
+Tomas holds. The wire he is carrying is used to patch the junction box when the
+jamming knocks it offline. Malik sees him do it. Owen sees him do it. Nobody
+writes it down.
+
+Afterward, when the hold is over and the crew is back, Eli finds Tomas in the
+warehouse. He is sitting on a crate. His hands are black with grease. He is not
+asleep. He is not talking. He is just sitting.
+
+"You came back," Eli says.
+
+Tomas looks at his hands. "I didn't have anywhere else to go."
+
+"I know."
+
+Mei passes the doorway. She sees Tomas. She does not say anything. She goes to
+the sink and fills a bowl with water. She sets it on the crate beside him. The
+water is warm. The crate is rough. The warehouse hums with the network coming
+back online.
+
+She walks away. She does not look back.
+
+The shape she recognizes is not the order. It is the receipt. It is the wire in
+Tomas's hand. It is the broth that did not spill. It is the way a system that
+has already decided what a person is worth still writes the receipt in the
+person's own voice, as though the signature proves the debt was chosen.
+
+She knows that shape. She paid it once. She will pay it again.
+
+The paper in her apron pocket is still there. She does not take it out.
 
 
-## Chapter 21—The Cost of Consent [PLACEHOLDER]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
 
----
+## Chapter 21—The Cost of Consent [SPLIT-FROM: Ch 8]
+The rhythm is three things: gather, disperse, review.
+
+Gather is the kitchen table at dawn. Wren lays out the route cards. Malik lists
+the volunteers by name. Owen reads the equipment log. They agree who goes, who
+stays, who checks in at the halfway point, who carries the medical kit. The
+conversation takes forty minutes. No one raises their voice.
+
+Disperse is the door. The crew leaves in pairs. Tomas goes with Malik. Callum
+goes with Owen. The volunteers who are not on the crew go to the clinic, the
+warehouse, the garden. The harbor takes the next boat. The corridor takes what
+it can get.
+
+Review is the evening. Wren sits with the map and marks the nodes that reported
+in. Three did not. One of them is the union medical gate on the service road
+before the junction. The gate officer is a boy named Rico. He is seventeen. He
+has been on the gate for eleven hours.
+
+The gate is a folding table and a clipboard. Behind it are two chairs and a
+medical kit. The kit is open. The contents are laid out on the table: gauze,
+saline, a blood pressure cuff, a syringe. The cuff is used. The syringe is not.
+
+Rico is sitting in one chair. The other chair is empty. On the table is a paper
+with a name written on it. The name is not the woman's name. It is the name of
+the person who brought her.
+
+The woman is on a gurney behind the table. She is covered with a blanket. The
+blanket is wool. It is too warm for the weather. She was wearing a coat when
+she arrived. The coat is on the ground beside the gurney. It is wet from the
+river.
+
+Eli arrives at the gate at 18:42. Rico shows him the paper. Eli reads it. The
+name on the paper is a man who works at the seed bank. The route listed is the
+west corridor. The signature is the woman's. She signed for the man who brought
+her. She also signed for the child who was not with her.
+
+The child is in the boat. The boat is waiting at the dock. The boatman is
+asleep. The child is awake. The child is holding a toy. It is a small wooden
+horse. It has one leg missing.
+
+Eli kneels. He asks the child the name. The child tells him. The child does not
+cry. The child looks at the gurney. The child does not ask why the woman is not
+moving.
+
+Wren arrives. She stands beside Eli. She looks at the gurney. She looks at the
+paper. She looks at the child.
+
+"She signed for him," Wren says. "She brought him across. She kept him whole."
+
+Wren's voice is flat. She is not performing grief. She is stating a fact that
+needs to be recorded.
+
+The woman dies at 19:17. The medic checks. He shakes his head. He closes her
+eyes. He puts the blanket back. He writes the time on the paper.
+
+Sol cites the gate at the northern-edge offer three days later. The offer is
+made in a broadcast that goes to every open channel. Sol says the compact's
+slow clock cost a woman her life. He says the review took too long. He says the
+disperse left the gate unmanned. He says the gather should have known.
+
+Eli listens to the broadcast in the kitchen. Mei is at the stove. She does not
+look up. She is stirring a pot. The pot is too big for the burner. The flame
+licks the side.
+
+"He has a case," Eli says.
+
+"He has a microphone," Mei says.
+
+The slow clock holds. The review moves to the next gate. The next gate is
+staffed. The next review is on time. The next woman is not left on a gurney
+behind a folding table. But the record already carries the first one. The
+record does not edit itself.
+
+At the warehouse, Tomas is cleaning the wire. He has washed the grease off. He
+is coiling it. The coil is neat. He sets it on the shelf beside the tools. He
+does not know that the wire was the thing that kept the junction box alive long
+enough for the medic to reach the gate. He does not know that the medic reached
+the gate too late anyway.
+
+He only knows that his hands are clean. He only knows that he came back.
+
 
 
 ## Chapter 22—The Drone-Strike Cost [SPLIT-FROM: Ch 15]
@@ -7282,47 +6627,1091 @@ When the network comes back, the house's ledger shows an entry that no one autho
 She reads the entry. She does not dispute it. She stands from the kitchen table, walks to the sink, and washes the bowl she was eating from. The water is cold. The bowl is ceramic. The network hums behind the wall.
 
 
-## Chapter 23—The Hearing Room and the Side Room [PLACEHOLDER]
-[PLACEHOLDER — content from existing beatsheet; expand or split from surrounding chapters during drafting]
 
----
+## Chapter 23—The Hearing Room and the Side Room [SPLIT-FROM: Ch 8]
+The main hall has a long table and twelve chairs. The recorder sits at the far end.
+Eli sits on the left. The house representative sits on the right. Between them
+are the witness, the clerk, and a clock that runs five minutes fast.
+
+The witness is a man from the gutter crew. He says he saw the patient enter the
+corridor. He says he saw Eli at the gate. He says he did not see a sponsor. He
+says the corridor was not cleared because the clearance came ten minutes after
+the patient passed.
+
+The recorder writes. The pen scratches. The clock ticks five minutes ahead of
+the room.
+
+Eli does not ask the witness questions. He does not need to. The house
+representative will ask the questions that make the witness look unreliable, and
+Eli will sit quietly while the story rearranges itself into something the
+committee can file.
+
+Amara Okafor is in the back row. She is not a witness. She is not a committee
+member. She is there because the room is open and she has nowhere else to sit.
+She is wearing a coat that is too large for her. It was her sister's. It still
+smells like the river.
+
+When the house representative names the charge, Amara's hands close. She is
+holding a paper bag. The bag crinkles. She does not open it. She does not throw
+it. She just holds it tighter.
+
+Eli sees her. He does not look away. He lets her see him see her. He does not
+try to make the bag uncrinkle. He does not offer his own version of the story.
+
+The hearing ends in forty-three minutes. The decision is reserved. The clock is
+reset.
+
+Down the hall, in a side room with a leaking roof and no furniture except a
+table someone carried in from the kitchen, Owen Price, Malik Foster, Callum
+Reyes, and four other men are founding something.
+
+The room is storage. The roof leaks when it rains. The walls are bare. The door
+does not close properly. Malik says they should find a better room. Owen says
+they should fix this one first.
+
+They fix the roof. It takes two hours. They use tar and scrap wood. The leak
+slows. It does not stop. They agree to come back tomorrow. They also agree that
+tomorrow they will bring tools.
+
+The argument starts after the roof. Some of the men want a fighting brotherhood.
+Some want a repair guild. Some do not trust each other enough to want anything
+shared at all.
+
+Malik pushes for readiness. "We need to be able to move when the corridor
+calls."
+
+Owen pushes for a written rule. "We need to know what we are moving toward."
+
+A man named Jesse says nothing for an hour. He is sitting on the floor. He is
+watching the roof. He has a scar on his forearm from a drone blast. He does not
+show it to anyone.
+
+When the argument reaches the point where Malik and Owen are both speaking at
+once, Jesse stands. He is tall. He is quiet. The room listens.
+
+"If we are a fighting brotherhood," Jesse says, "I leave."
+
+He says it quietly. He does not raise his voice. He does not gesture. He just
+says it. He means it. The room believes him.
+
+Owen's rule wins: no remobilization without role and exit. No brotherhood
+without repair. No guild without a door.
+
+The compact is founded on that one refusal, not on agreement. They do not agree
+on everything. They agree on the one thing Jesse made them see: the thing they
+refuse matters more than the thing they choose.
+
+Eli comes to the side room after the hearing. He stands in the doorway. He
+sees the roof. He sees the tools. He sees the men sitting on the floor because
+there are no chairs. He does not speak. He does not offer to help. He just
+listens.
+
+Jesse looks at him. "You are not in here," Jesse says.
+
+"I know," Eli says.
+
+He closes the door. He walks away. The door does not latch behind him.
 
 
 ## Chapter 24—The Hearing Begins [SPLIT-FROM: Ch 17]
-The hearing begins in a room with a table that is too long and chairs that are too far apart. The recorder is a woman with a pen and a posture that suggests she has heard worse stories before breakfast.
+The hearing room is the same room as the day before, but the chairs have been
+moved. The long table is now a rectangle. The recorder is the same woman. She
+is wearing the same pen. She looks at Eli as though she is waiting for him to
+begin before the clock starts.
 
-Eli sits at one end. The house representative sits at the other. Between them are the witness, the clerk, and a clock that runs five minutes fast.
+Eli stands. He does not sit at the head. He sits on the left side, two chairs
+from the end. He places his hands on the table. The table is wood. It is scarred.
+There is a ring of moisture from a glass someone set down too hard. He looks at
+the ring. He does not wipe it.
 
-The house representative names the charge first. It is not a charge; it is an observation dressed as a charge: the patient arrived without a sponsor, the corridor was not cleared, the signature on the intake form is not the signature on the route letter.
+The house representative names the charge. It is an observation dressed as a
+charge: the patient arrived without a sponsor, the corridor was not cleared, the
+signature on the intake form is not the signature on the route letter.
 
-Eli listens. He does not interrupt. He knows the shape of this hearing. He has sat through it before, from the other side of the table, when Maren was the one who could not produce the right papers.
+Eli listens. He does not interrupt. He knows the shape of this hearing. He sat
+through it before, from the other side of the table, when Maren was the one who
+could not produce the right papers.
 
-The witness is a man from the gutter crew. He says he saw the patient enter the corridor. He says he saw Eli at the gate. He says he did not see a sponsor. He says the corridor was not cleared because the clearance came ten minutes after the patient passed.
+Amara Okafor is in the back row. She is wearing the coat that was her sister's.
+It is too large. The sleeves cover her hands. She sits with her arms crossed.
+She does not write anything down. She does not look at Eli. When the house
+representative names the patient, she looks at the floor.
 
-The recorder writes. The pen scratches. The clock ticks five minutes ahead of the room.
+The patient is Nia Okafor. The name is on the paper. The paper is on the table.
+The recorder reads it. The pen scratches. The name does not change because it
+is read aloud.
 
-Eli does not ask the witness questions. He does not need to. The house representative will ask the questions that make the witness look unreliable, and Eli will sit quietly while the story rearranges itself into something the committee can file.
+Wren is sitting beside Eli. She is not looking at Amara. She is looking at the
+paper in her own hand. It is a transcript of the testimony from the gutter crew.
+It is not the same paper. It has the same name.
 
-The hearing ends in forty-three minutes. The decision is reserved. The clock is reset.
+Somchai stands when the clerk calls his name. He is wearing a coat that is too
+thin. He has been traveling. He has not slept in a bed since the clinic. He
+stands without rushing. He walks to the table. He does not look at the long
+table. He looks at the space between the recorder and the house representative.
+
+The house representative asks him to describe what he saw.
+
+Somchai does not speak for a minute. He is breathing. His hands are open on the
+table. The recorder waits. The clock ticks five minutes fast.
+
+"I did not see," Somchai says. "I felt."
+
+He describes the weight. He says the body was heavier than it looked. He says
+the breath was shallow. He says the pulse was there and then not there. He says
+the signature on the paper was steady but the hand was shaking. He says the
+woman did not sign because she agreed. She signed because she was the one who
+could still hold the pen.
+
+He does not use the word consent. He does not use the word refusal. He uses
+weight and breath and the shaking hand. He translates the somatic record into
+the room's vocabulary without pretending the vocabulary is adequate.
+
+The house representative asks whether Somchai was present at the gate. Somchai
+says no. He says he arrived after. He says the body was already on the gurney.
+He says the medic was already closing the eyes.
+
+"Then you are testifying to what someone told you," the house representative says.
+
+Somchai looks at the house representative. He does not blink. "I am testifying
+to what the body said before the medic closed the eyes. The medic heard the same
+thing. He just does not have the words for it."
+
+The room is quiet. The recorder writes. She writes what Somchai said. She does
+not write what he meant. She cannot. The pen scratches.
+
+Eli stands. He does not look at the table. He looks at the empty chair at the
+other end. The chair where Maren used to sit. The chair where the sponsor sits
+when the patient cannot speak.
+
+"I alone don't know," Eli says.
+
+He says it quietly. He does not project. He does not perform. He says it the
+way a person says something they have already decided not to defend.
+
+The room does not answer. Then a woman in the second row says it. Then the man
+beside her says it. Then the clerk says it. Then the recorder says it. Then the
+house representative says it. Then Amara says it. She says it without looking
+up. She says it to the floor.
+
+The liturgy is not Eli's. It belongs to the room. The room speaks it with him,
+not for him.
+
+Afterward, the house representative asks Eli whether he would have done
+anything differently. Eli says yes. He says he would have sent the review crew
+two hours earlier. He says he would have placed a medic at the gate before the
+boat arrived. He says he would have read the sponsorship paper himself instead
+of trusting the gate officer's stamp.
+
+He does not say he would have chosen differently. He says he would have
+prepared differently. The distinction is small. It is the only thing he has not
+already explained away.
+
+The hearing ends before sunset. The decision is reserved. The clock is reset.
+
+Eli does not wait for the committee to dismiss him. He stands. He puts his
+hands in his pockets. He walks to the door. He does not look at Amara. He does
+not look at Wren. He looks at the floor.
+
+Outside, in the corridor, Wren catches up to him. She says nothing. She walks
+beside him. They go to the kitchen. Mei is there. She is washing a bowl. She
+does not look up.
+
+Sora Vithan's name is on the paper in Wren's hand. She does not show it to Eli.
+She puts it in her pocket. The paper is thin. The pocket is deep. The name does
+not make a sound when it goes in.
+
+Somchai is sitting on the warehouse steps. He is eating an orange. He peels it
+slowly. He does not look at the people passing. He knows what his testimony
+cost. He knows the room heard the weight but not the body. He knows the record
+will carry the words and not the breath.
+
+He finishes the orange. He puts the peel on the step. He sits on it. The peel
+is wet. The step is rough. The warehouse hums.
+
+The acquittal does not come. The committee will take three days. Eli will wait
+in the kitchen. Mei will cook. Wren will watch the routes. Somchai will carry
+the orange peel to the compost. Amara will sit in the back row of the hearing
+room and not forgive him. The record will show that she was present and that
+she refused.
+
+That is enough. The compact does not require forgiveness. It requires presence.
+
 
 
 ## Chapter 25—The Handover [SPLIT-FROM: Ch 18]
-The handover happens at the door. It is not a ceremony. It is a transfer of keys, a signature on a form, a bag packed the night before and left on the step.
+The handover happens in three rooms at once.
 
-Maren hands the bag to Mei. Mei takes it without opening it. She knows what is inside: two shirts, a notebook, a bottle of medicine, a photograph of three people standing on a boat. She also knows what is not inside: a letter, a route, a plan for what happens after the handover.
+In the main room, the credentials are laid out on the table. There are six of
+them: two for the clinic network, two for the corridor route, one for the
+threshold house, one for the garden. Each credential is a card with a number and
+a name. The names are not Eli's. The numbers are not assigned to any single
+house.
 
-"You don't have to go," Eli says.
+Amina Cole receives the codes. She is the clinic network convener for the
+western route. She has been on duty for fourteen hours. She is wearing a coat
+that is wet from the rain. She holds the card with both hands. She does not look
+at Eli. She looks at the number.
 
-"I don't have to stay," Maren says. "That is not the same thing."
+The rotating convener for the morning is Malik. He is standing beside the table.
+He holds the second card. He holds it loosely. He is not gripping it. He is not
+treating it like a weapon. He is treating it like a tool.
 
-She stands on the step. The morning is cold. The street is empty. The house behind her is full of people who have already begun rearranging her absence: her bowl, her chair, her route on the map in the kitchen.
+The third card goes to Asha. The fourth goes to a woman named Leilani from the
+garden. The fifth goes to Owen. The sixth stays on the table. It is the reserve.
+It is for the room that is not yet built. It is for the person who is not yet
+named.
 
-Wren is not there. She is at the clinic, or on the road, or somewhere else that does not require her to watch the handover. Rowan is not there either. The only witness is the woman from next door, who looks out her window and sees a mother leaving a house and does not know whether to look away.
+Eli does not sign the transfer. He does not have to. The credentials were never
+his. They were the compact's. He was the person who held them while the compact
+was being built. Now the compact can hold them itself.
 
-Maren turns once, at the corner, before the buildings block her. She does not wave. She does not smile. She walks.
+Wren is in the doorway. She is watching the cards move. She does not take one.
+She does not need one. Her network is already distributed. Her credentials are
+in her head and in the people who know her voice.
 
-Eli closes the door. He locks it. The key turns twice because the lock is old and Mei likes it that way.
+Rowan is beside Wren. She is holding a notebook. She is not taking notes. She
+is holding it because her hands need something to do. The notebook is Maren's.
+Maren left it on the table the night before she left. Rowan found it this
+morning. She opened it. The first page was blank. She closed it.
 
-Inside, the kitchen is quiet. Mei sets the bag on the table. She opens it. She moves the shirts aside and lifts out the notebook. She opens to the first page.
+Mei is at the back of the room. She is carrying a tray of tea. She sets it on
+the table. She pours six cups. She does not pour one for herself. She drinks
+from a mug she brought from home.
 
-It is blank.
+The handover takes twelve minutes. No one speaks. The only sound is the rain on
+the roof and the cards sliding across the table.
+
+Afterward, Eli goes to the garden. It is late. The plants are wet. The paths
+are muddy. He walks without boots. His feet are bare. He does not care.
+
+He stands under the tree that was Rasel's. He touches the trunk. The bark is
+rough. The tree is young. It will outlive him. It will outlive the war. It will
+outlive the compact.
+
+He feels a hunger. It is not for food. It is not for Rowan. It is not for Wren.
+It is for something that is not in the garden. It is for something that is not
+in the compact. It is for the feeling of being the person who knows what the
+tree needs. He knows what the tree needs. He built the tree. He cannot stay to
+watch it grow.
+
+He pulls his hand away. He leaves a wet print on the bark. The rain will take
+it.
+
+He walks back to the house. The kitchen is quiet. Mei is washing the cups. She
+does not look up. She knows he was in the garden. She knows what he felt. She
+does not say anything.
+
+He sits at the table. He puts his hands on the wood. The wood is scarred. There
+is a ring of moisture from a cup Mei set down too hard. He looks at the ring. He
+does not wipe it.
+
+Outside, the rain stops. The network hums. The cards are in six different
+rooms. The compact is no longer a document. It is a practice. It is also the
+thing Eli has just given away.
+
+He does not regret it. He is hungry anyway.
+
+The choice is real.
+
+So is every eye that taught him what a man should choose.
+
+Eli authorizes the crew.
+
+He uses their names.
+
+Bima Prasetyo.
+
+Leilani Akana.
+
+Owen Price, advisory only.
+
+Jalen, rigging.
+
+Thirty-one others whose consent does not turn them into numbers.
+
+The holding clock begins at sunrise.
+
+Sol sends a final offer.
+
+**LINK THEM TO ME. I CAN KEEP THEM ALIVE.**
+
+Eli feels the capacity inside himself.
+
+He could enter every available carrier, align the compact corridors, and turn
+the island's station network into a command path.
+
+It would save more people.
+
+He puts on Kit Three.
+
+The compact expires in seven days.
+
+The crew leaves before anyone can decide whether the armor makes him look like
+a ruler.
+
+He walks them as far as the Union medical gate on the service road. The
+checkpoint has jammed. Too many bodies. A clerk with a list. A boy at the
+barrier who will not let a gurney through without a name for the woman on it.
+The tag on her wrist is a number. She does not have minutes to spend on a
+name.
+
+Eli could move him. The thing in his chest that makes rooms go quiet is right
+there. Lean in. Drop the voice. Let the boy feel what stands in front of him.
+The boy would step aside. The gurney would go through.
+
+He asks.
+
+He is calm. He gives the boy a reason and a way to keep his face. The boy is
+nineteen and covering for a supervisor who will dock him. *I can't. I'm sorry.
+I can't.* He holds the line for ninety seconds until the supervisor comes.
+
+By then the woman has stopped needing to be moved.
+
+Wren finds him after. She looks at the barrier, and the boy still standing
+there, unharmed, intact.
+
+"You kept him whole."
+
+She does not finish the rest.
+
+A delegate from the harbor council stops him at the gate. She is young enough
+to have grown up after the extraction, old enough to know his name from the
+feeds. She does not ask about the junction or the crew. She asks whether he is
+the one the stones told about.
+
+Eli looks at her. Behind her, Bima checks the winch. The Blue Roof House
+children are writing notes. The crew is already moving.
+
+"I am the person who knows the route," he says.
+
+She waits for more.
+
+"That is all anybody has."
+
+
+Wren watches her do it and does not correct the record. The record does not
+need correction. It needs a second witness.
+
+---
+
+The Blue Roof House sends breakfast before the battle.
+
+Rice parcels, boiled eggs, preserved plum, packets of tea, and thirty-seven
+notes written by children who have been told not to say *good luck* because
+luck makes adults uncomfortable when planning has failed.
+
+**COME BACK WITH MY BLUE PEN.**
+
+**THE WATER FILTER STILL MAKES THE BAD SOUND.**
+
+**I DID NOT TAKE YOUR SOCK.**
+
+Bima reads the last note over the crew channel.
+
+"This is clearly false."
+
+The Blue Roof House stands beside the North Line Junction, a former weather and
+fuel platform expanded into a threshold refuge during the first displacement.
+Its roof is blue because that was the only membrane available. It has held
+awakened families, demobilized sailors, abandoned children, three registry
+defectors, and one woman who claims no affiliation and repairs every shoe left
+outside her door.
+
+The junction controls nothing by itself.
+
+It is where several supply and evacuation routes can still meet without
+entering a state port.
+
+That makes it valuable enough to destroy.
+
+---
+
+Eli coordinates from the Hawaiʻi workshop.
+
+Kit Three holds his body badly but measurably. The conductive paths reduce field
+burn along his arms. The hood lowers the visual overlap. The weight makes his
+old balance injury worse.
+
+Wren sits at a separate table with the route-circle delegates.
+
+Malia sits between them and represents the island's conditions.
+
+No military traffic routed through the harbor.
+
+No forced use of local field-active people.
+
+Medical receiving within water and bed limits.
+
+Every hour, the compact field gathers for twelve minutes, disperses for eight,
+and reviews exits, injuries, and consent before gathering again.
+
+The rhythm is weaker than continuous coherence.
+
+It lets people leave.
+
+Sol's field does not disperse.
+
+On the tactical map it appears stable, broad, and beautifully simple.
+
+"Join the northern edge," Sol tells Eli. "I will carry the load."
+
+"You asked the boy at the medical gate. She died. You kept his face pretty."
+
+"Can your people exit?"
+
+"After the corridor holds."
+
+"When?"
+
+"When the attack ends."
+
+"Who decides?"
+
+"The attack."
+
+Same cage with no visible jailer.
+
+Lang sends a different offer.
+
+Registry teams can assign compatible defenders, predict fatigue, and replace
+weak links before failure. Their model would increase civilian survival by
+eighteen to thirty-one percent.
+
+"Identity tier?" Eli asks.
+
+"Active under emergency Standard."
+
+"No."
+
+"Then the deaths below the confidence interval are yours."
+
+"No," Wren says after the call. "They belong to the people who kill them."
+
+"My choice affects the count."
+
+"Yes."
+
+She does not absolve him with grammar.
+
+---
+
+The first assault targets the ground paths. Three drones strike the conductors
+feeding the compact's local transmission stations while the nearby crews are
+still evacuating.
+
+The stations do not power the defense field; they carry the bounded
+teachings and lived records by which separated communities correct one another.
+Blind the routes and every group begins mistaking its piece for the whole.
+
+One station forwards the Blue Roof evacuation ledger:
+
+children first is not consent to spend the adults.
+
+Another forwards the Folly:
+
+an authority offering survival can still be wrong.
+
+Sol overwhelms both with one repeated instruction:
+
+**HOLD.**
+
+Eli could answer with a stronger one.
+
+His compatibility reaches every open carrier. The fixed systems show the path.
+One push and the compact field would stop dispersing. Fatigue could be assigned.
+Fear could be damped. Bodies could be held at their posts while civilian boats
+crossed.
+
+The tactical result would improve.
+
+At the junction, Bima's crew restores the first ground path under fire.
+
+Leilani flies a repair drone manually because the autonomous model keeps
+selecting wounded men as probable attackers. Jalen crawls beneath the power
+deck with a cable reel. Bima argues with an isolation switch.
+
+"It is Union manufacture," he says. "Designed to become patriotic under load."
+
+Eli hears their fear beneath the words.
+
+
+
+Enough to know he could smooth it away.
+
+"Next gather in forty seconds," Wren says.
+
+The south compact cell has lost four members.
+
+The eastern cell refuses another interval until two exhausted carriers are
+replaced.
+
+"We don't have replacements," Eli says.
+
+"Then it stays out."
+
+"The civilian route opens in three minutes."
+
+"They know."
+
+"Ask again."
+
+"They already answered."
+
+The command rises in him.
+
+He touches the network and begins to synchronize it before anyone answers.
+
+Across the map, panic falls. The south cell steadies. The eastern carriers lift
+their heads as his interval enters them.
+
+Efficient.
+
+Intimate.
+
+Wrong.
+
+Wren breaks the contact.
+
+She pulls the manual ground from Kit Three.
+
+The backlash puts Eli on the floor.
+
+For six seconds he cannot remember which body is his.
+
+One civilian boat misses the safe interval.
+
+Its captain turns north and enters the strike zone.
+
+"Why?" Eli manages.
+
+"You didn't ask."
+
+"They were failing."
+
+"They refused."
+
+"People are on that boat."
+
+"Yes."
+
+He wants to hate her.
+
+The feeling passes through without becoming an order.
+
+"Restore the ground."
+
+"Will you do it again?"
+
+He looks at the tactical map.
+
+The civilian boat is still moving.
+
+"I don't know."
+
+Wren does not reconnect him.
+
+Malia says, "Then you don't wear the equipment."
+
+They remove Kit Three.
+
+Eli returns to the network without amplification.
+
+The pain is immediate.
+
+"Ask the eastern cell what they can offer," he says.
+
+Wren does.
+
+They refuse coherence.
+
+They offer two navigators to guide the civilian boat outside the field route.
+
+Slower.
+
+The boat survives.
+
+---
+
+The second assault arrives during dispersal.
+
+This is the weakness everyone predicted.
+
+The compact cells separate to breathe, eat, leave, object, and replace. Sol's
+field remains continuous. Lang's assigned units remain continuous.
+
+The attackers strike the junction in the gap.
+
+Pressure hits Bima's crew before the physical drones.
+
+Jalen forgets the shape of the cable in his hands. Leilani sees six versions of
+the deck. A crew member named Safiya begins hearing her dead father giving
+correct instructions in the wrong order.
+
+Bima cannot hear the attack.
+
+His field sensitivity is too low.
+
+This makes him the clearest person on the platform.
+
+"Eyes on ordinary things," he says. "Blue paint. Yellow rail. My unpleasant
+face."
+
+He moves from person to person, attaching manual grounds.
+
+The first drone explodes against the lower deck.
+
+Blast pressure lifts him and puts him down on one shoulder. His harness catches.
+The green sail thread holds.
+
+"Bima," Eli says.
+
+"Busy."
+
+"Evacuation interval in ninety seconds."
+
+"Blue Roof isn't clear."
+
+"They reported clear."
+
+"Then they lied politely."
+
+The house camera shows movement behind the lower windows.
+
+Three children. The shoe-repair woman. A man who cannot cross the exposed
+walkway without carrying oxygen.
+
+The crew has one shielded cart.
+
+Bima sends it.
+
+"Your order is hold junction," the compact officer says.
+
+"My order includes civilians."
+
+"If the ground path fails—"
+
+"Then repair it."
+
+He sends Jalen with the cart and turns back to the conductor.
+
+The third strike cuts the primary line.
+
+The station routes begin dropping.
+
+Eli feels each bounded teaching vanish into local silence. Communities can
+still act. They can no longer correct one another fast enough.
+
+"Bima, leave it," he says.
+
+"No."
+
+"The evacuation route is open."
+
+"For boats. Not the house."
+
+"Jalen has them."
+
+"Jalen has one cart."
+
+Eli checks the camera.
+
+More people appear.
+
+The house did not lie to preserve the battle.
+
+Its intake list failed to update when a lower room lost power.
+
+Technical account without bodies.
+
+"Second cart is moving," Wren says.
+
+"Four minutes," Bima answers.
+
+"You don't have four."
+
+"Then faster cart."
+
+No last speech.
+
+No statement that the work is worth his life.
+
+Bima braces the replacement conductor beneath a shield panel while Leilani
+tries to route power around him.
+
+The attack finds the live path.
+
+Current enters through the cable, crosses the wet deck, and takes Bima's hands.
+
+He cannot let go.
+
+His body locks around the conductor.
+
+Leilani reaches the isolation switch.
+
+It fails.
+
+Union manufacture.
+
+Patriotic under load.
+
+She hits it with the grounding hammer Bima gave her.
+
+The circuit opens.
+
+Bima falls.
+
+For several seconds the channel transmits only breath and somebody saying his
+name too quickly.
+
+Leilani turns him.
+
+His palms are burned through. His heart has stopped.
+
+She begins compressions.
+
+Eli feels every compatible carrier open in alarm.
+
+This is the moment.
+
+He can force the gather, stop the remaining strike, hold the cells until every
+boat and every person in Blue Roof clears.
+
+He sees the future Lang offered: fewer dead in the next five minutes.
+
+He sees the one Sol offers: nobody leaves until the danger is over.
+
+"Gather request," he says.
+
+Wren sends it.
+
+Not command.
+
+Twenty-two cells answer.
+
+Nine refuse.
+
+Four do not respond.
+
+The field rises ragged.
+
+It is not strong enough to save Blue Roof.
+
+The third assault hits the house after the second cart clears the walkway.
+
+The shoe-repair woman and the children survive.
+
+The structure does not.
+
+Sora Vithan holds the stairwell door two floors above the walkway.
+
+She is not supposed to be inside. She defected into Wren's network four months
+ago — training the wrong side gave her and nowhere else to put it, a name
+Wren vouched for over the network's own hesitation. Tonight the network is
+open enough that nobody stopped her from being here, and closed enough that
+nobody can order her to leave.
+
+The team coming up the stairs runs the callsign that has moved through Union
+intercept chatter since the strait: **Prince**. **Persia hold.** Close enough
+to see, tonight, it resolves to a man in his thirties wearing the rank
+insignia of a *sar* fighting his own country's partition war three thousand
+miles from this one, doing to a stairwell in Belém what his orders call
+liberation and everyone below it would call an execution.
+
+Sora recognizes the insignia before she recognizes the danger.
+
+She holds the door long enough for the last four residents to reach the boat
+line.
+
+She does not hold it long enough for herself.
+
+A responder named Teo remains inside searching an empty room because the intake
+list says a family is there.
+
+He dies beneath the blue roof.
+
+At the junction, Leilani compresses Bima's chest for nineteen minutes.
+
+The remote medic tells her to stop.
+
+She does not hear the first instruction.
+
+The second reaches her.
+
+She stops.
+
+The replacement conductor remains beneath Bima's body, connected long enough
+for the final civilian boat to clear.
+
+The operational report records eleven minutes purchased.
+
+It does not record the other cost.
+
+Diogo Ferreira is found by Eli in the morning review not far from the junction
+access hatch, where he had been carrying cable for the evacuation rig. The
+body shows no weapon, no blow, only burns consistent with live rail and the
+compression mark of a collapsing stanchion. He is twenty-one. He came
+awakened from the crossing with his brother Paulo and a request for ordinary
+work. He does not get ordinary work. He gets the first hour of a war he did
+not start, holding a wire that was never meant to carry current alone.
+
+Eli stands beside the sheet long enough to read the name twice.
+
+The threshold house review lists three losses. Blue Roof is one. The others
+are not named in the public summary.
+
+Wren knows the list. She does not speak it.
+
+Wren deletes the phrase from the public summary.
+
+Owen Price makes her put it back.
+
+"Then put the names beside it," he says.
+
+They do.
+
+Bima Prasetyo.
+
+Teo Marquez.
+
+Sora Vithan.
+
+Eleven minutes during which none of them became time.
+
+Sora's sister has a standing address on file from a Vol I service record —
+a medal, sealed and returned once, now unsealed by a war that made the return
+temporary. Wren mails it back herself rather than let the registry log it as
+evidence. No note. The medal was never proof of anything Sora still owed
+anyone.
+
+Lang is not on a screen this time.
+
+Eli finds him in the collapsed access corridor behind Blue Roof, one leg
+pinned under a fallen strut, his registry earpiece dead, his security detail
+already pulled two streets away by the second assault. He came in person to
+watch his model run. Nobody told him to. Nobody stopped him.
+
+He does not call for help.
+
+Eli could end this in the time it takes to finish an exhale. The old
+fracture already knows the angle. Nobody is watching. Nobody would ever know
+it happened here instead of in the collapse.
+
+"Go ahead," Lang says, without looking for sympathy in the offer. "It will
+not make me wrong."
+
+"About the eighteen to thirty-one percent."
+
+"About the shape of the problem you and I disagree on. My numbers held
+tonight. Bima Prasetyo held a conductor my model would have assigned to
+someone with a spare set of hands. Teo Marquez searched a room my model
+would have already marked empty. I am not glad they are dead. I am not
+surprised."
+
+"You want me to agree with you."
+
+"I want you to notice that wanting has nothing to do with whether I'm
+right."
+
+Eli's palms prickle toward the strut pinning him — an old, unwanted itch, a
+diagnostic read arriving whether he asked for it or not: crushed tissue, a
+fracture that will need setting properly within the hour, nothing that will
+kill him before morning.
+
+He could leave him exactly like this and call it an accident of timing.
+
+He kneels instead and starts working the strut free.
+
+Lang watches him do it without gratitude and without surprise, the way a man
+watches weather he has already read correctly.
+
+"This changes nothing I was right about," Lang says.
+
+"I know."
+
+Eli does not tell Wren. He does not tell the coalition. Nobody sees this
+decision made twice in the same hour — the strut, and then the choice
+underneath it — and nobody needs to, because it was never made for an
+audience in the first place.
+
+---
+
+Hawaiʻi receives the wounded after midnight. Contaminated work clothes go into
+sealed bags at the dock. A medic unlocks a phone for a man whose hands no longer
+work. The missing-person list and the final manifest disagree by four names.
+Nobody can find the owner of a single mud-filled boot.
+
+Jalen arrives with the children and a field injury that has taken color vision
+from one eye.
+
+Leilani arrives carrying Bima's green-thread harness.
+
+The thread held.
+
+His heart did not.
+
+She gives it to Eli.
+
+"No," he says.
+
+"He listed you for equipment return."
+
+Even death comes with maintenance procedure.
+
+Eli accepts the harness.
+
+Mei joins by screen from Pelangi.
+
+He tells her himself.
+
+No dashboard.
+
+No minutes.
+
+She listens.
+
+"Was he alone?"
+
+"No."
+
+"Was he afraid?"
+
+"Yes."
+
+"Did you order him?"
+
+"I authorized the crew."
+
+"Did he choose?"
+
+"Yes."
+
+Mei closes her eyes.
+
+"Don't call that clean."
+
+"I won't."
+
+The connection ends.
+
+---
+
+The compact holds the junction.
+
+Sol's forced field wins two adjacent engagements and begins fracturing as
+exhausted members flee or are punished for trying.
+
+Lang's units save three civilian routes and place every survivor into permanent
+status review.
+
+The compact evacuates fewer people than forced synchronization might have.
+
+Enough independent communities remain connected to prevent capture, maintain
+food and clinic routes, and continue cooperation after the immediate attack.
+
+No commander can call it vindication.
+
+Sol's body gives out after the northern field loses its last replacement
+circle. The people nearest him carry him to a compact clinic because the
+registry ambulance will accept only named subjects. His legal name goes on the
+intake board for the first time in years: **DIEGO MÉNDEZ**. He is conscious
+enough to object and too depleted to stop them.
+
+The clinic treats the burns along his old implants, restores his fluids, and
+places an ordinary guard at the door under the same conduct rule used for
+anyone accused of forced entry. His field does not return before the hearing.
+The red-scarf channels continue without him. Half call his collapse martyrdom.
+The rest begin arguing over who gets the passwords.
+
+Tommy arrives at the southern review post carrying the Custodian mission log.
+His left hand cannot keep the slate level. He sets it on the desk and asks for
+the civilian-harm investigator by title.
+
+The log records Sora's route leak, Anika's decision to keep her operational,
+and the order that sent their unit back into the field after the Stonehenge
+clock broke. It also records Tommy firing on the clock. He refuses the offer to
+separate that page before transfer.
+
+Anika comes for the slate with two officers who still answer to her collar
+code. Tommy does not raise the lance.
+
+"You kept us alive," he says.
+
+"Then move."
+
+"You kept the unit alive."
+
+The distinction stops him before it stops her. Anika reaches for the slate.
+The review-post officer closes the evidence cage on her hand and reads the
+arrest authority from paper because Anika's field has already disabled the
+wall display.
+
+She counts four breaths while they fit the ordinary restraint. On the fifth,
+the remaining officers step back from her coherence field.
+
+Tommy sits on the floor outside the interview room until someone brings a
+chair. He gives the names of the people he struck. The investigator writes the
+first one down twice and crosses out the misspelling in full view of him.
+
+On the twenty-first day, the named attack condition ends.
+
+Eli's authority expires at 18:00 local time.
+
+At 18:01, emergency dispatch asks him to approve a fuel transfer.
+
+"No," he says.
+
+"Who approves?"
+
+"The harbor councils."
+
+"They disagree."
+
+"Then help them resolve it."
+
+"There isn't time."
+
+The old answer waits.
+
+He does not give it.
+
+He removes Kit Three from the sign-out cage even though he has not worn it since
+Wren pulled the ground.
+
+Malia witnesses the return.
+
+The armor hangs from an ordinary hook.
+
+"Hearing starts tomorrow," she says.
+
+"I know."
+
+"Transfer after certification."
+
+"Yes."
+
+"Do you want to keep it?"
+
+Eli looks through the workshop door at people carrying Blue Roof medication
+into a dormitory whose water allocation is already exceeded.
+
+"Part of me."
+
+"Good."
+
+"Good?"
+
+"A person who says no is sometimes hiding the yes from himself."
+
+She signs the equipment return.
+
+Outside, supporters are already gathering for a ceremony of gratitude.
+
+Amara has sent written testimony.
+
+Owen has sent the eleven-minute report.
+
+Arman has sent the drone footage.
+
+Leilani has sent no statement at all.
+

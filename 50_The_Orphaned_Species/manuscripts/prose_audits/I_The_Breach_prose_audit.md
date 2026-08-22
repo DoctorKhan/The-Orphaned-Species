@@ -37,7 +37,7 @@
   - SHORT-PARA-RUN (1 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 3—His Hand / Checkpoints and the Stack [PLACEHOLDER]
-- **Word count:** 9158
+- **Word count:** 9166
 - **Sentence count:** 862
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)

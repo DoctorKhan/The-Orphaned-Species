@@ -1167,13 +1167,8 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 - **Political action:** Rowan gets the evidence into the record through a public
   route, disqualifying a continuity official who concealed grain-routing authority. The
   removal delays succession but prevents a compromised handover.
-- **Relationship:** Rowan and Eli act on the love they acknowledged during Book
-  III. They disclose the change under the agreements that already govern the
-  three existing dyads.
-- **First sex:** chosen because they want one another. Wren is available,
-  continuing both her relationships, and neither broker nor permission-giver.
-  Rowan states that she wants to be a mother someday, is not choosing pregnancy
-  now, and is using reliable contraception.
+|- **DRAFTED 2026-08-21:** Rowan and Eli stand before twelve witnesses in the civic room. The attestation is performed without invoking the court's marriage templates. Wren attests as first witness, then withdraws to the threshold. The witnesses are confused. Rowan explains that consent does not require the court's vocabulary. The attestation is recorded but not templated. The clerk asks twice whether this is a civic partnership or a private arrangement.
+|- **First sex:** chosen because they want one another. Wren is available, continuing both her relationships, and neither broker nor permission-giver. Rowan states that she wants to be a mother someday, is not choosing pregnancy now, and is using reliable contraception.
 - **Guard:** sex grants no audience, vote, title, promise, household rank,
   access to Wren, or presumption of repetition.
 - **End hook:** a court scheduler records Rowan leaving Eli's rooms and quietly
@@ -1183,7 +1178,8 @@ If you cannot name the human and the Friday, the chapter has no antagonist. Not 
 
 ### Chapter 3 — Three Rooms *(Wren)*
 
-- **Immediate want:** keep the court from ranking the bonds after the sexual
+|- **DRAFTED 2026-08-21:** Wren audits the Compact's credential system and finds that forty-seven people have been classified as "temporary" for longer than the law allows. She writes a letter to the registry office. The letter is five pages. She does not send it. Instead, she walks to the registry office and stands in the waiting room until the clerk calls her number. The clerk is a woman named Park who does not recognize her. Wren sits across the desk and says, "I am here about the forty-seven."
+|- **Immediate want:** keep the court from ranking the bonds after the sexual
   relationship becomes visible.
 - **Court engine:** factions cast Rowan as future consort, Wren as mistress or
   chamber official, and Eli as a monarch whose private household should clarify

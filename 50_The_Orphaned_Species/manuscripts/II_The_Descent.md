@@ -5589,8 +5589,7 @@ Wren's boots are caked with Thrace mud. She scrapes them on the clinic step and 
 
 ---
 
-## Chapter 8—The Healer's Clinic [PLACEHOLDER]
----
+## Chapter 8—The Healer's Clinic [SPLIT-FROM: Ch 7]
 
 The holding site air tastes of disinfectant and animal bedding. Sora's shoulder dressing is already damp at the edges. She changes it in the supply room while Somchai watches the door. The new bandage is tighter. She does not wince.
 
@@ -5600,7 +5599,6 @@ Wren's boots still carry the Thrace mud inside the soles. She scrapes them on th
 
 ---
 
-## Chapter 9—The Holding Entry [SPLIT-FROM: Ch 5]
 The holding site used to inspect livestock.
 
 This is how Sora describes it while Pin changes the dressing on her shoulder.
@@ -6494,7 +6492,7 @@ Wren has not slept. She watches the corridor markers pass and calculates how far
 
 ---
 
-## Chapter 10—The Midpoint Revelation [SPLIT-FROM: Ch 5]
+## Chapter 9—The Midpoint Revelation [SPLIT-FROM: Ch 5]
 The holding site used to inspect livestock.
 
 This is how Sora describes it while Pin changes the dressing on her shoulder.
@@ -7377,7 +7375,7 @@ clean knowledge that his mother is alive.
 It does not feel clean.
 
 That may be the first honest thing about it.
-## Chapter 11—Ring and Romance Cost [SPLIT-FROM: Ch 5]
+## Chapter 10—Ring and Romance Cost [SPLIT-FROM: Ch 5]
 Wren knows Rowan by the cup she leaves unfinished.
 
 Blue enamel. Chipped at the rim. Tea gone cold beside a route ledger in the
@@ -8250,7 +8248,7 @@ Eli's thumb has stiffened into a hook. He opens the route ledger with his left h
 
 ---
 
-## Chapter 12—The Changing Map [SPLIT-FROM: Ch 6]
+## Chapter 11—The Changing Map [SPLIT-FROM: Ch 6]
 Wren knows Rowan by the cup she leaves unfinished.
 
 Blue enamel. Chipped at the rim. Tea gone cold beside a route ledger in the
@@ -9115,7 +9113,7 @@ to provide.
 
 ---
 
-## Chapter 13—The Broken-Line Church [SPLIT-FROM: Ch 6]
+## Chapter 12—The Broken-Line Church [SPLIT-FROM: Ch 6]
 Wren knows Rowan by the cup she leaves unfinished.
 
 Blue enamel. Chipped at the rim. Tea gone cold beside a route ledger in the
@@ -9988,7 +9986,7 @@ Eli's thumb has stiffened into a hook. He opens the route ledger with his left h
 
 ---
 
-## Chapter 14—The Stray Settlement [SPLIT-FROM: Ch 6]
+## Chapter 13—The Stray Settlement [SPLIT-FROM: Ch 6]
 Outside, the drained field carries sound strangely.
 
 Three notes repeat beyond the western ditch — a pump alarm, not music.
@@ -11034,7 +11032,7 @@ Later they lie on separate beds with the space between them left unclaimed.
 Their hands meet on the floor.
 
 Neither calls that completion.
-## Chapter 15—The Riddling Ground [SPLIT-FROM: Ch 7]
+## Chapter 14—The Riddling Ground [SPLIT-FROM: Ch 7]
 Outside, the drained field carries sound strangely.
 
 Three notes repeat beyond the western ditch — a pump alarm, not music.
@@ -12080,7 +12078,7 @@ Later they lie on separate beds with the space between them left unclaimed.
 Their hands meet on the floor.
 
 Neither calls that completion.
-## Chapter 16—Callum Recovery and Renewal [SPLIT-FROM: Ch 7]
+## Chapter 15—Callum Recovery and Renewal [SPLIT-FROM: Ch 7]
 Outside, the drained field carries sound strangely.
 
 Three notes repeat beyond the western ditch — a pump alarm, not music.
@@ -13116,7 +13114,7 @@ Later they lie on separate beds with the space between them left unclaimed.
 Their hands meet on the floor.
 
 Neither calls that completion.
-## Chapter 17—The Transfer-Records Discovery [SPLIT-FROM: Ch 7]
+## Chapter 16—The Transfer-Records Discovery [SPLIT-FROM: Ch 7]
 Morwen has them stop before the county line, at a disused halt where a rail spur once served the quarry and now serves nothing but her own maintenance runs.
 
 "Not a tour," she says, before anyone can ask. "A place I can watch the road both ways."
@@ -13575,7 +13573,7 @@ Beyond her, Morwen's own maintenance ledger has changed during the hour.
 The corridor points southeast toward the old transmission station at Stonehenge.
 
 Hostile field traffic is already gathering there.
-## Chapter 18—The Corridor Signal [PLACEHOLDER]
+## Chapter 17—The Corridor Signal [PLACEHOLDER]
 Morwen has them stop before the county line, at a disused halt where a rail spur once served the quarry and now serves nothing but her own maintenance runs.
 
 "Not a tour," she says, before anyone can ask. "A place I can watch the road both ways."
@@ -14041,473 +14039,10 @@ Beyond her, Morwen's own maintenance ledger has changed during the hour.
 The corridor points southeast toward the old transmission station at Stonehenge.
 
 Hostile field traffic is already gathering there.
-## Chapter 19—One-Way Contact [PLACEHOLDER]
-Morwen has them stop before the county line, at a disused halt where a rail spur once served the quarry and now serves nothing but her own maintenance runs.
+## Chapter 18—One-Way Contact [PLACEHOLDER]
+[PLACEHOLDER]
 
-"Not a tour," she says, before anyone can ask. "A place I can watch the road both ways."
-
-Rowan checks the sightlines out of habit and approves them without saying so.
-
-The interval Callum's field surrendered at Men-an-Tol has been sitting in Wren's kit since the iron cut the third note — not an object, not quite a reading, a directional pressure that has been growing more specific with every mile west. Morwen calls it unresolved. Wren has no recorder that would make the complaint
-any more exact.
-
-"You want to enter it," Morwen says. It is not a question to Eli. It has already been decided by the fact of the stop.
-
-"Yes."
-
-She hands him a pencil and a torn sheet from a maintenance pad.
-
-**WHAT MATTERS MORE THAN THE CONTACT?**
-
-"If you cannot name what brings you back," she says, "you are only naming what pulls you in."
-
-Eli writes:
-
-**A PERSON IN THE ROOM ASKS ME TO RETURN.**
-
-Morwen reads it.
-
-"Which person?"
-
-"Any witness."
-
-"Then a stranger may end the contact?"
-
-"Yes."
-
-"Even if you think you are speaking to your mother?"
-
-His hand tightens around the pencil.
-
-"Yes."
-
-"Even if she asks you to remain?"
-
-The halt goes quiet. A goods train not scheduled for another forty years sounds, somewhere, like the wrong kind of silence.
-
-"Yes."
-
-Morwen turns the sheet toward Wren.
-
-"Will you certify that?"
-
-Wren does not take the pencil.
-
-"I can witness what he said. I cannot certify what he will choose altered."
-
-"Good."
-
-She turns to Somchai.
-
-"Will you?"
-
-"I oppose this as his nurse."
-
-"Also good."
-
-"That was not approval."
-
-"I did not ask for it."
-
-Somchai checks Eli's pupils against the platform light.
-
-He arrived that morning with the mobile clinic's western handoff, three hours of sleep, and a bag containing everything the regional surgeon sent back with Aylin after the operation. Aylin herself remains in recovery under Nadiya's archive network. Her consent statement traveled; her body did not become proof of gratitude by following.
-
-"Headache now?" Somchai asks.
-
-"Three."
-
-"Your three or a normal three?"
-
-"Mine."
-
-"Nausea?"
-
-"No."
-
-"Vision?"
-
-"Edges shimmer near the interval."
-
-"Before you enter it?"
-
-"Yes."
-
-Somchai records it.
-
-"The baseline is already contaminated by the ground," he says. "It still
-matters to his care."
-
-Wren looks at the empty kit where a field recorder would have been. They do
-not have one. The gap is the measurement.
-
-Morwen lays out the abort rules.
-
-One spoken phrase: **come to the platform**.
-
-One physical signal if speech fails: pressure twice against Eli's right palm.
-
-No witness follows him into the contact. No field read. No restraints unless he is injuring himself or another person. If Somchai ends it, it ends. If Morwen ends it, it ends. If Eli asks to continue after either has ended it, the answer remains no.
-
-"What is the interval, exactly?" Wren asks.
-
-Morwen hands her nothing, because there is nothing printed to hand.
-
-"Cuno's geometry says it is a carried piece of a route that used to run through this county before it ran anywhere else. It does not come with a composition sheet."
-
-"Then you cannot bound the dose."
-
-"There is no dose. There is a duration, and I can end that."
-
-"Unmeasured exposure to an unrecorded field."
-
-"Yes."
-
-Eli looks at Somchai.
-
-"You don't decide."
-
-"I know. I can still end it."
-
-Morwen does not release the interval yet.
-
-"It enters from Men-an-Tol through ground that has carried grief, transmission, and ordinary weather for longer than anyone's records," she says. "We have route accounts, maintenance logs, and other people's altered states. None proves your mother is reachable. None proves the person you meet is historical rather than expectation, ground memory, or injury."
-
-"I understand."
-
-"Say the alternatives."
-
-He does.
-
-Expectation. Ground memory. Injury.
-
-Wren adds, "Wanting."
-
-"Wanting," Eli says.
-
-Only then does Morwen open her hand.
-
-The interval sits in her palm the way a held breath sits in a chest — nothing visible, a pressure the room adjusts around.
-
-"You can still refuse," she says.
-
-Adapa at the gate. Warning and offer carried through one authority.
-
-This platform has arranged disagreement around him instead: keeper, nurse, Wren, his own written exit. No source controls both the danger and the promise.
-
-He takes it.
-
----
-
-Nothing happens for the length of one breath, and then it is not nothing.
-
-The platform's old paint, the rail spur's rust, the halt's ordinary Tuesday quality — all of it stays exactly where it is, and underneath it something opens that has no size, because it was never built to be entered by a body.
-
-For less than a held breath, an old man kneels in water while soldiers cross a strait behind him.
-
-Lovernios. Not the fox pillar, not proof of one lineage — a person in his sixties with mud beneath every nail, listening to plants by refusing to make their responses human. A girl beside him carries a wrapped seed catalog into peat that will keep it and forget her name for it. The elder's grief is that knowledge may survive him by becoming unreadable.
-
-The scene does not resolve. It touches and is gone, the way a hand brushes past a door without opening it.
-
-Eli is not Lovernios.
-
-The distinction remains even at that speed.
-
-Another contact finds him before he can reach after the first.
-
-Static.
-
-Electrode pressure.
-
-A woman counting under her breath.
-
-One-two. Pause. One-two.
-
-The interval carries the signal without obeying it.
-
-Maren opens her eyes.
-
----
-
-She is older.
-
-Eli reaches for reciprocity and finds only pressure: her counting, the electrode bite, a face that does not settle on him as if he were a person in the room.
-
-He says *Mum* into the channel.
-
-Nothing answers that name.
-
-What arrives instead are fragments without a mutual lock — recognition-hunger without a conversation that can hold it.
-
-*Babu* — the childhood name lands inside his body rather than through sound, then slides away as if she had spoken toward someone who might once have been him.
-
-"I'm coming," he says.
-
-The channel does not confirm receipt.
-
-*Don't* — pain, house, promise — words arrive incomplete. He fills them with what he wants: *I'll bring you home.* The refusal that follows is hers, or his fear wearing her voice: do not promise a house.
-
-"Dad is alive."
-
-For one moment the signal softens — hope without address — then hardens again.
-
-*Inside the correction.*
-
-"Where?"
-
-No map, no room number — only the sense of a living operator wired into ground, and a direction west of the tourist stones.
-
-Stonehenge flares as geometry, not the center — something inhabited beyond it, Avebury as felt pressure, not a shared plan.
-
-"We're coming."
-
-Wanting has become loud enough to resemble action.
-
-What she needs arrives as one clear word before the rest frays:
-
-*Release.*
-
-Operator. Classifier. Mother. Do not keep any of them running because you want one more answer.
-
-"I can't," he says to a face that may not hear him.
-
-*You don't have authority yet.*
-
-*They are trying to make you the only compatible interruption.*
-
-The signal constricts.
-
-Somebody has noticed. Lang's first room. The ownership header from Wren's print. Anika's useful distinction between those facts. Names without a mutual briefing. Leaked pressure.
-
-"Mum—"
-
-"Come to the platform," Somchai says.
-
-The phrase arrives from far away.
-
-Eli holds the contact.
-
-He cannot tell whether she holds him back. The channel does not prove she saw him. Recognition-hunger is not reunion.
-
-"I just found you."
-
-Two pressures touch Eli's right palm.
-
-The physical signal.
-
-Maren's face begins to break into interval, electrode, static, memory.
-
-"I love you," Eli says into a closing channel.
-
-No answering *I know*. Only cut.
-
-Eli returns with Somchai's fingers at his wrist and Wren saying Maren's name once, then stopping.
-
----
-
-Daylight keeps almost none of it.
-
-Eli remembers Nia's hands around the seed packet. Lovernios in peat. Maren's face half-turned. The word *release*. The hunger of almost touching someone who did not fully lock onto him.
-
-The rest drains when he tries to report it.
-
-Eli tries to keep the phrases.
-
-"She said inside the correction. Or I heard it."
-
-Wren writes that down, then stops.
-
-"Before or after Avebury?"
-
-"Avebury was a pressure. Not a conversation."
-
-"What did her eyes track when you said Stonehenge?"
-
-"I don't know if she heard me."
-
-Somchai steps in.
-
-"Leave it."
-
-Eli's head hurts too much for anger to become useful.
-
-"She talked to me."
-
-"And we received your pulse," Wren says.
-
-"She told me not to widen it."
-
-Somchai looks at Wren.
-
-"Currently he is my patient. Mine governs this platform."
-
-Wren closes the slate. They do not have the instrument that would have made
-the rest of the questions cheaper. The gap sits there. No one fills it.
-
-Eli lies back against a stacked pallet, the closest thing to a bed the halt provides.
-
-"Did I violate the abort?" he asks.
-
-"You delayed."
-
-"How long?"
-
-"Seven seconds after the second verbal call. Two after the hand signal."
-
-"I'm sorry."
-
-"To whom?"
-
-"You."
-
-"And?"
-
-"Wren. Morwen. Myself."
-
-"Good."
-
-Somchai lets the platform light dim on its own timer.
-
-"Do not turn guilt into another altered state. Rest while the road lets you."
-
----
-
-Outside, Rowan and Wren are checking the car's western tires against the coming route.
-
-Their coordination is visible in small things. Wren checks the near side; Rowan follows with the far. Neither asks where the other will move.
-
-Eli feels the jealousy again.
-
-This time he knows its name is incomplete.
-
-He goes outside.
-
-Wren sees him approach and hands Rowan the tire gauge.
-
-"Walk?" she asks.
-
-They follow the rail spur until the halt is out of hearing but not out of sight.
-
-"You and Rowan," Eli says.
-
-"Yes."
-
-The direct answer hurts less than a merciful one would.
-
-"Did you—"
-
-"We kissed."
-
-"Right."
-
-"I intend to continue if she does."
-
-The spur's weeds move behind her.
-
-"Were you waiting for her?"
-
-"No."
-
-"Was I what happened because she wasn't there?"
-
-Wren's expression changes.
-
-There. The actual fear.
-
-"No."
-
-"You knew each other before everything."
-
-"Yes."
-
-"Your bodies know where to stand."
-
-"Yes."
-
-"I feel like I arrived during an interval and mistook it for a life."
-
-Wren takes time before answering.
-
-"Rowan and I are recognition. We know the grammar because we learned it together."
-
-"And us?"
-
-"Discovery."
-
-"That sounds less permanent."
-
-"It is not a ranking."
-
-"It feels like one."
-
-"I know."
-
-She does not tell him jealousy is ownership or that correct politics should remove it.
-
-"I don't want you to stop," he says.
-
-The statement surprises him.
-
-"What do you want?"
-
-"To know I am not incidental."
-
-"You aren't."
-
-"How?"
-
-Wren looks toward the halt, where Somchai is still holding Eli's wrist as if
-the pulse might change its mind.
-
-"You make me tell the truth in the present. Rowan knows who I was before I learned to turn every room into exits. You know the person doing it now and ask whether she wants to stop."
-
-"That's what belongs to us?"
-
-"Part."
-
-"What else?"
-
-"I want a future with you that neither of us already remembers."
-
-After she says it, her eyes search his face. He holds still and lets her find
-whatever answer has reached him.
-
-The jealousy does not vanish.
-
-It changes from evidence of rejection into a feeling asking whether he has a place.
-
-Wren has answered without making the place exclusive.
-
-Her gaze holds his, drops to his mouth, then returns to his eyes.
-
-"May I?"
-
-"Yes."
-
-She kisses him once. When she steps back, he holds out his hand.
-
-She takes it.
-
-At the halt, Rowan waits beside the car, checking Morwen's maintenance sketch against the road ahead. She does not look away from their joined hands and does not approve them.
-
-She remains.
-
-Morwen asked her to stay back a moment to give Callum's still-unsteady field one more read from someone he trusted, while the others loaded the car. It was the right call. Rowan told her so.
-
-Alone by the car for those few minutes, Rowan writes a Weft letter to a house she has not corresponded with in a year. She writes three paragraphs of route accounting — ledger balances, a corridor reassignment, a note about the interval's provenance — the part any house would expect and file without a second read.
-
-Then, on a second sheet she will not send, she writes what the accounting does not carry: that she is glad Wren is safe and glad Wren is not here; that staying a moment longer was correct and still costs something no correctness repays; that she has done this specific arithmetic before, in a different house, under a different name, and it did not get easier for the practice.
-
-She does not sign it to anyone. She reads it once.
-
-She folds the second sheet inside the first and burns only the second before sealing the route letter for the morning post — the routine part sent, the rest kept long enough to be true and then let go before it could become a claim on anyone.
-
-Beyond her, Morwen's own maintenance ledger has changed during the hour.
-
-The corridor points southeast toward the old transmission station at Stonehenge.
-
-Hostile field traffic is already gathering there.
-## Chapter 20—The Transmission Station [SPLIT-FROM: Ch 9]
+## Chapter 18—The Transmission Station [SPLIT-FROM: Ch 9]
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
 opening onto electrical cabinets, cleaning supplies, stacked crowd
 barriers, and a handwritten notice reminding contractors not to leave milk in
@@ -15220,7 +14755,7 @@ Wren's boots are caked with Albion mud. The route ledger in her pocket is damp a
 
 ---
 
-## Chapter 21—The Instrument Cap [SPLIT-FROM: Ch 9]
+## Chapter 18—The Instrument Cap [SPLIT-FROM: Ch 9]
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
 opening onto electrical cabinets, cleaning supplies, stacked crowd
 barriers, and a handwritten notice reminding contractors not to leave milk in
@@ -15920,7 +15455,7 @@ Wren's boots are caked with Albion mud. The route ledger in her pocket is damp a
 
 ---
 
-## Chapter 22—The Avebury Approach [SPLIT-FROM: Ch 9]
+## Chapter 19—The Avebury Approach [SPLIT-FROM: Ch 9]
 Stonehenge has a staff entrance: a painted metal door beside the service yard,
 opening onto electrical cabinets, cleaning supplies, stacked crowd
 barriers, and a handwritten notice reminding contractors not to leave milk in
@@ -16623,7 +16158,7 @@ inside it.
 
 Then they go.
 
-## Chapter 23—Release [SPLIT-FROM: Ch 10]
+## Chapter 20—Release [SPLIT-FROM: Ch 10]
 The entrance is a painted metal door beside the service yard. It opens onto a corridor that smells of wet chalk and electrical ozone. The concrete underfoot is damp. The ceiling is low enough that Eli has to duck twice before he gets used to it.
 
 Behind him, the stones of the circle hold their breath. The perimeter fence is a hundred meters back, the visitor center another fifty beyond that. The ditch that once held water now holds only shadows. Somchai checks the lock with the keys Gareth gave him. The mechanism is simpler than the field lock—bolts, not rhythm.
@@ -16648,7 +16183,7 @@ Wren stands beside him. Somchai stands behind. Sora is in the doorway, watching 
 
 He reaches for the switch. Maren's hand covers his. Her palm is warm. Her grip is not.
 
-## Chapter 24—The Release Choice [SPLIT-FROM: Ch 10]
+## Chapter 21—The Release Choice [SPLIT-FROM: Ch 10]
 Eli pulls the switch.
 
 The sound is not what he expects. It is a single tone, rising through the chalk, through the cables, through Maren's implant and into the field. The console goes dark. The generator stutters. The lights in the corridor flicker once, twice, then hold.
@@ -16669,7 +16204,7 @@ Maren will not walk out healthy. Her left side is slow. Her right side answers a
 
 She closes her eyes. The blood continues. The corridor continues. The field continues without her, running wild through the stones.
 
-## Chapter 25—Aftermath and Book III Ignition [SPLIT-FROM: Ch 10]
+## Chapter 22—Aftermath and Book III Ignition [SPLIT-FROM: Ch 10]
 They surface at dawn. The service yard is empty. The visitor center is lit but silent. The ditch is full of water again, though nobody remembers opening the sluice.
 
 The apparatus is already upgrading itself. The lock at the entrance has changed its pattern. The cabinet by the door now shows a different sequence of lights. The field inside the corridor is thinner, but it is not gone; it has moved somewhere else, into the chalk, into the cables, into the groundwater.

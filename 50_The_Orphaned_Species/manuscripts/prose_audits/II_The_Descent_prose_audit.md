@@ -78,19 +78,19 @@
 - **Flags:** none
 
 ### ## Chapter 9—The Holding Entry [SPLIT-FROM: Ch 5]
-- **Word count:** 4329
-- **Sentence count:** 571
+- **Word count:** 4342
+- **Sentence count:** 573
 - **Flags:**
   - STACKED-EM-DASHES (1 hits)
-  - SHORT-PARA-RUN (26 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 10—The Midpoint Revelation [SPLIT-FROM: Ch 5]
-- **Word count:** 4200
-- **Sentence count:** 557
+- **Word count:** 4213
+- **Sentence count:** 559
 - **Flags:**
   - NOT-X-BUT-Y (1 hits)
   - STACKED-EM-DASHES (1 hits)
-  - SHORT-PARA-RUN (27 run(s) of 3+ short paragraphs)
+  - SHORT-PARA-RUN (28 run(s) of 3+ short paragraphs)
 
 ### ## Chapter 11—Ring and Romance Cost [SPLIT-FROM: Ch 5]
 - **Word count:** 3807
