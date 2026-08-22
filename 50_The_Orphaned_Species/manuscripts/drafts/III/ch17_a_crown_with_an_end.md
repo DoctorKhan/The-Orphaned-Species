@@ -52,3 +52,94 @@ Supporters fill the left side.
 
 Opponents fill the right.
 
+The hearing room is crowded. The crowd is not shouting. It is holding its breath. The room smells like old paper and floor wax. The windows are open. The wind is coming in from the harbor.
+
+Eli stands. He does not put on the armor. He is wearing ordinary clothes. The shirt has a stain on the cuff from last night's tea. His hands are empty.
+
+He does not begin with a defense. He begins with the third question.
+
+He knows the answer already. He wants to hear them say it.
+
+The first witness is the boy from the medical gate. He is seventeen. He has been on the gate for eleven hours. He is named Rico. He is the same Rico who started the shed fire. He is the same Rico who will stand at the gate when the woman dies. He is seventeen years old and he is already carrying the weight of something he cannot put down.
+
+He describes the gate. He describes the folding table. He describes the clipboard. He describes the medical kit. He describes the woman on the gurney. He describes the blanket. He describes the cup. He describes the child's toy.
+
+"She signed for him," Rico says. "She brought him across. She kept him whole."
+
+He says it in the hearing room. He says it with the recorder looking at him. He says it with the house representative looking at him. He says it with the chairman looking at him. He says it with the crowd looking at him. He says it the same way he said it to Wren. He says it the same way he said it to Eli. He does not perform grief. He does not perform innocence. He states the fact.
+
+The house representative asks whether Rico was instructed to say those words. Rico says no. He says Eli knelt. He says Eli asked the child's name. He says the child did not cry. He says the woman did not drink the water.
+
+The recorder writes. The pen scratches. The clock ticks five minutes ahead of the room.
+
+The next witness is Somchai Vichai. He is wearing a coat that is too thin. He has been traveling. He has not slept in a bed since the clinic. He stands without rushing. He walks to the table. He does not look at the long table. He looks at the space between the recorder and the house representative.
+
+The house representative asks him to describe what he saw.
+
+Somchai does not speak for a minute. He is breathing. His hands are open on the table. The recorder waits. The clock ticks five minutes fast.
+
+"I did not see," Somchai says. "I felt."
+
+He describes the weight. He says the body was heavier than it looked. He says the breath was shallow. He says the pulse was there and then not there. He says the signature on the paper was steady but the hand was shaking. He says the woman did not sign because she agreed. She signed because she was the one who had to carry the paper out of the room.
+
+"The paper is a receipt," Somchai says. "It is also a threat. It says who was responsible. It says who was in the room. It says who was left on the gurney."
+
+He pauses. He looks at Eli. He says, "She kept him whole. She brought him across. She signed for him. She died."
+
+The house representative looks at the paper. The paper says the signature is not the signature on the route letter. The paper says the corridor was not cleared. The paper says the intake form is not the route letter.
+
+Somchai does not answer the paper. He answers the house representative. He says the signature is the woman's. He says the woman signed for the child. He says the child was in the boat. He says the boat was at the dock. He says the boatman was asleep. He says the child was awake. He says the child was holding a toy. He says the toy was a small wooden horse. He says the horse had one leg missing.
+
+The house representative looks at the paper again. The paper does not mention the horse. The paper does not mention the child. The paper does not mention the boatman.
+
+Amara is still in the back row. She is still wearing the coat that was her sister's. She is still holding the paper bag. She has not emptied it. She has not left.
+
+Eli looks at her. He does not look away. He lets her see him see her. He does not try to make the bag uncrinkle. He does not offer his own version of the story.
+
+The hearing ends in forty-three minutes. The decision is reserved. The clock is reset.
+
+Down the hall, in a side room with a leaking roof and no furniture except a table someone carried in from the kitchen, Owen Price, Malik Foster, Callum Reyes, and four other men are founding something.
+
+The room is storage. The roof leaks when it rains. The walls are bare. The door does not close properly. Malik says they should find a better room. Owen says they should fix this one first.
+
+They fix the roof. It takes two hours. They use tar and scrap wood. The leak slows. It does not stop. They agree to come back tomorrow. They also agree that tomorrow they will bring tools.
+
+The argument starts after the roof. Some of the men want a fighting brotherhood. Some want a repair guild. Some do not trust each other enough to want anything shared at all.
+
+Malik pushes for readiness. "We need to be able to move when the corridor calls."
+
+Owen pushes for a written rule. "We need to know what we are moving toward."
+
+A man named Jesse says nothing for an hour. He is sitting on the floor. He is watching the roof. He has a scar on his forearm from a drone blast. He does not show it to anyone.
+
+When the argument reaches the point where Malik and Owen are both speaking at once, Jesse stands. He is tall. He is quiet. The room listens.
+
+"If we are a fighting brotherhood," Jesse says, "I leave."
+
+He says it quietly. He does not raise his voice. He does not gesture. He just says it. He means it. The room believes him.
+
+Owen's rule wins: no remobilization without role and exit. No brotherhood without repair. No guild without a door.
+
+The compact is founded on that one refusal, not on agreement. They do not agree on everything. They agree on the one thing Jesse made them see: the thing they refuse matters more than the thing they choose.
+
+Eli comes to the side room after the hearing. He stands in the doorway. He sees the roof. He sees the tools. He sees the men sitting on the floor because there are no chairs. He does not speak. He does not offer to help. He just listens.
+
+Jesse looks at him. "You are not in here," Jesse says.
+
+"I know," Eli says.
+
+He closes the door. He walks away. The door does not latch behind him.
+
+Matthew 18:15-20: where two or three gather in my name, there am I. The main hall has twelve chairs. The side room has six men. The hearing proves accountability without exemption. The side room proves it again, with different chairs.
+
+The greatest work is done by those who do not seek to be great. Owen refuses the title. Jesse refuses the brotherhood. The compact is founded on refusal.
+
+The hearing ends. The side room continues. The door stays open. The roof still leaks. The men will come back tomorrow. They will bring tools. They will fix the roof. They will not name it yet. They will fix the roof first.
+
+The crown has ended.
+
+The judgment has not.
+
+Attain the utmost in non-action. All things arise and I watch them return. The hearing is the return. The crown is the action that ends. The judgment is the non-action that remains.
+
+The hearing room smells like old paper and floor wax. The wind is coming in from the harbor. The windows are open. The crowd is holding its breath. Eli sits without Kit Three. His hands are empty. The third question is the one that will open the hearing. Not by accusation. By invitation.

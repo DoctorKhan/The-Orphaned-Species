@@ -864,6 +864,13 @@ The precise refugee, victim, survivor, named male battlefield death, disabled su
   Mandate engineers contribute fabrication and contrary data, while independent
   teams replicate the result. Book III earns an application, not a second reveal.
 - **Pitch gate — end hook:** Bounded compact adopted; Hawaiʻi invitation conditional; Sol and Lang both closing — **war widens before trust completes**.
+### Ch 15 — The Signing and the Shed Fire *(Eli/Wren · Brazilian interregional assembly)*
+
+- **DRAFTED 2026-08-21:** The distant Pacific corridor fails. Sol's synchronized field becomes a people with no exit. Compact communities hold three smaller corridors; one collapses, spending a conductor. Hawaiʻi is asked for its harbor. The council refuses. It offers medical receiving, repair, and an opted-in field team. Eli and Wren sign the compact under war pressure.
+- **Want:** prove the compact works without requiring Hawaiʻi to become a base.
+- **Obstacle:** Sol's coalition treats departure as betrayal; the synchronized field has no exit; the compact's volunteers can leave but the signal is weaker.
+- **Choice → Cost:** Hawaiʻi offers receiving and repair but not the harbor; the compact signs under war pressure; the field team is opted-in, not requisitioned.
+- **Pitch gate — end hook:** Compact signed; war pressure accelerates; Hawaiʻi receives the wounded.
 ### Ch 16 — The Voyage and the Warning *(Eli · transport to Hawaiʻi / compact negotiation window)*
 - **Want:** prove that vigilance saves lives without turning detection into identity.
 - **Obstacle:** Ma's offer is procedural, not friendly; Lang cites the success as proof of detection; Sol cites it as proof hidden enemies are everywhere.

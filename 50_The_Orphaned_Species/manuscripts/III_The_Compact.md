@@ -1,4 +1,4 @@
-## Chapter 1—The Boat at Morning [PLACEHOLDER]
+## Chapter 1—The Boat at Morning
 The boat enters Guajará Bay without lights.
 
 At first Eli mistakes it for one of the dead hulls.
@@ -851,7 +851,7 @@ Eli folds the stamped form and puts it in his pocket. The twine around the penci
 
 
 
-## Chapter 3—The First Sponsorship [PLACEHOLDER]
+## Chapter 3—The First Sponsorship
 The first argument is about a curtain.
 
 The dock warehouse has six grounded sleeping rooms and twelve people who now require
@@ -2204,7 +2204,7 @@ The sun moves across the warehouse roof. The apprentices' shadows stretch and co
 
 
 
-## Chapter 7—The Repair Dock Evening [PLACEHOLDER]
+## Chapter 7—The Repair Dock Evening
 The Standard arrives through rain that arrives on schedule.
 
 Union launches and civilian boats pack Guajará Bay before dawn, past cargo
@@ -5532,7 +5532,7 @@ Eli says, "I know."
 
 
 
-## Chapter 15—The Signing and the Shed Fire [PLACEHOLDER]
+## Chapter 15—The Signing and the Shed Fire
 The distant Pacific corridor begins failing on the fourteenth day.
 
 Sol's coalition has synchronized hundreds of awakened volunteers into one
@@ -5595,7 +5595,7 @@ The warning is accurate. Sol's intelligence is correct. The fleet turns back thr
 
 
 
-## Chapter 17—A Crown With an End [PLACEHOLDER]
+## Chapter 17—A Crown With an End
 Eli walks past the ceremony platform and enters the civic room through the side
 door.
 
@@ -6425,7 +6425,7 @@ That night, Malia dreams about the hum. She wakes before the dream ends and lies
 
 
 
-## Chapter 19—Gutter Clearing and the Work Song [PLACEHOLDER]
+## Chapter 19—Gutter Clearing and the Work Song
 
 
 

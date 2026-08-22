@@ -1,74 +1,75 @@
 ## Chapter 23—The Labor Inversion
-The birthing room is not a single room. It is a suite: a laboring room, a waiting room, a corridor, and a closet that someone has turned into a nursing station. The closet has a curtain that does not close all the way. The curtain is blue. The rod is bent.
 
-Rowan is in the laboring room. She is on her feet. She does not want to be on the bed. The bed is narrow. The sheet is thin. The pillow has a stain on the case that no one has changed. She has been walking the corridor for three hours. Her breath is steady. Her hands are open.
+The classification board meets at 10:00. The agenda item is risk assignment for the coastal evacuation cohort. The cohort includes civilians, clinic staff, threshold-house members, and a repair crew. The board has three categories: low, medium, and high. Low receives shelter first. Medium receives shelter second. High receives shelter third.
 
-The women officers arrive at shift change. There are six of them. They wear the same uniform. The uniform has a patch on the shoulder that says FIELD MEDICAL. The patch is stitched with thread that is fading.
+Rowan attends as the court's route liaison. She is seven months pregnant. She is wearing a coat that does not button. She sits in the back. She does not speak until the board finishes the draft classification. The draft places the repair crew in the high-risk category. The rationale is the crew's proximity to the drone corridor. The rationale is also that men are more likely to be exposed.
 
-One of them is named Kira. She is thirty-two. She has delivered eleven children in the field. She does not introduce herself. She just looks at Rowan and says, "How far apart?"
+Rowan stands. She walks to the table. She is not steady on her feet. She holds the back of a chair. She does not sit. She puts her hand on the paper.
 
-"Seven minutes," Rowan says.
+"This category is not risk," Rowan says. "It is gender."
 
-"Good."
+The room is quiet. The board chair is a woman named Petra. She has been on the board for eleven years. She has seen three classifications. She has never been challenged on the gender line. She looks at Rowan. She looks at Rowan's hand on the paper. She looks at the coat that does not button.
 
-Kira checks the chart. The chart is a paper notebook. The pages are numbered. The ink is smudged. The last entry says the contraction started at 03:47. The time now is 04:12.
+"Risk is assessed by exposure," Petra says.
 
-The argument starts before the first officer finishes her assessment. The officer's name is Dara. She is twenty-eight. She has been in the field for two years. She says, "Pregnant women should not be in rotation. It is not safe. It is not fair. The assignment is supposed to be equal risk, not equal exposure."
+"Exposure is assessed by where people stand," Rowan says. "And where people stand is assessed by who is expected to stand there."
 
-Rowan is leaning against the wall. She is breathing through a contraction. She does not look at Dara. She looks at the curtain. The curtain moves when the air moves.
+She puts a new sheet on the table. It is the same classification. It is the same cohort. It is the same route. But the categories are different. The repair crew is low. The clinic staff is medium. The threshold-house members are high. The threshold-house members are women and children.
 
-"I am not asking for exemption," Rowan says.
+Petra reads the sheet. She looks at Rowan. She says, "You are reversing the categories."
 
-"You are pregnant," Dara says.
+"I am equalizing the risk," Rowan says. "Every category has the same exposure. Every category has the same chance of being hit. The difference is who is currently standing where. If you move the crew, you move the category. If you move the threshold house, you move the category. The risk does not change. The assignment does."
 
-"I am working."
+Petra looks at the sheet again. She looks at Rowan's hand on her abdomen. She looks at the coat that does not button. She says, "You are seven months pregnant."
 
-"You are in labor."
+"I am seven months pregnant," Rowan says. "I am still the route liaison. I am still the person who reads the map. I am still the person who knows the corridor. The risk category is supposed to be about the work, not the body. The work is the same. The body is different. That is the difference you are calling neutral."
 
-"I am in labor and I am working. The question is whether the assignment changes because I am in labor, not whether I should be here at all."
+Petra does not answer. She looks at the board members. One of them is a woman named Kira. She is from the clinic. She is the same Kira who will be with Rowan in the birthing room. She is watching Rowan. She is watching the category sheet. She is watching the clinic staff category.
 
-Kira looks at Rowan. She looks at the chart. She looks at the corridor. "The clinic reports a shortage of saline," she says. "The field team is rotating in one hour. The replacement is late."
+The clinic staff category is medium. The clinic staff category puts the clinic staff behind the repair crew in the shelter order. The clinic staff category puts Kira behind the repair crew.
 
-"Then I stay," Rowan says.
+Kira stands. She does not say anything at first. She puts her hand on the sheet. She says, "The clinic staff are exposed to the drone corridor. They are the ones who carry the patients out. They are the ones who hold the door when the alarm sounds. They are the ones who are already on the route."
 
-"You cannot stay," Dara says.
+Petra looks at Kira. She says, "The clinic staff are in the medium category. They are not in the high category."
 
-"I can stay."
+"The clinic staff are the ones who hold the door," Kira says. "The repair crew is the one that stays when the door closes. The clinic staff are the ones who carry the patients out. The repair crew is the one that clears the corridor after the patients are out. The risk is the same. The assignment is not."
 
-"You are not a field officer."
+Rowan does not move. She is breathing. The breath is slow. The breath is the only thing she has. The breath is the only thing Kira sees.
 
-"I am a person who knows the route."
+Petra looks at the sheet. She looks at Rowan. She looks at Kira. She looks at the board members. She says, "The board is divided."
 
-The argument continues. The women take sides without raising their voices. Some say Rowan should go to the bed. Some say Rowan should leave the clinic entirely. Some say the clinic should not be the place where this argument happens. No one asks Rowan what she wants. They are too busy deciding what is safe for her.
+"That is the difference," Rowan says. "The board is divided. The risk is not."
 
-Rowan stops leaning against the wall. She stands in the middle of the corridor. She says, "I am not asking for your permission to be here. I am asking you to give me the same risk classification you give everyone else on this shift."
+Petra looks at the sheet. She puts her pen on the paper. She signs the category. She signs the medium category for the clinic staff. She signs the high category for the threshold-house members. She signs the low category for the repair crew.
 
-"That is not how pregnancy works," Dara says.
+"And the personal medical modification?" Petra asks.
 
-"That is exactly how pregnancy works," Rowan says. "The child is not a reason to make me a category. The child is a reason to make the assignment safer for everyone, not just for me."
+Rowan looks at the coat. She says, "I chose the modification. I chose the modification privately. I chose the modification because I wanted the clinic to stay open. I chose the modification because I wanted the clinic staff to stay on the route. The modification does not change the risk category. The modification changes the risk personal to me. I am not asking you to consider the modification. I am asking you to consider the category."
 
-She says it calmly. She does not raise her voice. She does not gesture. She just says it. The corridor listens.
+Petra looks at Rowan. She says, "The modification is a complication. The modification is a medical condition. The modification is something you chose privately. The modification is not something the board should consider."
 
-The attending physician arrives. She is named Mina. She has been up all night. She is holding a chart. She is wearing a coat that is too big. She looks at Rowan. She looks at the women. She says, "What is the decision?"
+Rowan looks at the coat. She says, "The modification is a medical condition. The modification is a complication. The modification is something the clinician will report later, whether I want it to or not. The clinician reports it as a complication because that is what the clinician's language does. The clinician reports the condition that is present at the time of the report. The clinician does not know that I chose the condition privately. The clinician only knows the condition is present. The clinician reports what the clinician sees."
 
-"We are deciding whether she stays," Dara says.
+She looks at Petra. She says, "The modification is not the category. The category is the work. The work is the same. The body is different. The clinician will report the body. The board reports the work. That is the difference."
 
-Mina looks at Rowan. "What do you want?"
+Petra signs the sheet. She signs the low category for the repair crew. She signs the medium category for the clinic staff. She signs the high category for the threshold-house members.
 
-"I want the same classification," Rowan says. "I want to stay until the replacement arrives. I want the saline to go to the ward, not to me. I want the assignment adjusted for the condition, not the person."
+The categories are equalized. The risk is the same. The assignment is different. The clinic staff are ahead of the repair crew. The repair crew are behind the clinic staff. The threshold-house members are last. The women and children are last.
 
-Mina writes in the chart. She writes slowly. The pen scratches. "The condition is active labor. The assignment is a field rotation. The two do not cancel each other. The question is who decides the modification."
+Rowan sits. She does not feel better. She does not feel worse. She feels the breath. She feels the baby. She feels the coat. She feels the paper. She feels the pen. She feels the signature.
 
-She closes the chart. She looks at Rowan. "You decide."
+The clinic staff are ahead. The repair crew are behind. The threshold-house members are last. The women and children are last. The risk is the same. The assignment is different. The categories are equalized.
 
-Rowan nods. She does not smile. She says, "Then I decide to stay."
+The clinician reports the complication later. The clinician reports the condition at the time of the report. The clinician reports what the clinician sees. The clinician does not know that Rowan chose the condition privately. The clinician reports the body. The board reports the work.
 
-The physician reports the decision as a complication. The report goes to the court. The court receives it as a question. The question is whether a woman in active labor can hold equal risk classification. The answer is yes. The classification is granted. The saline goes to the ward. The replacement arrives on time.
+Rowan is the route liaison. Rowan is seven months pregnant. Rowan is the person who equalized the categories. Rowan is the person who chose the modification privately. Rowan is the person who will lose the argument about who decides the modification. Rowan is the person who will be reported as a complication.
 
-Rowan finishes the shift sitting on a crate in the corridor. She does not go to the bed. She does not leave the clinic. She holds the contraction with her breath. The women officers work around her. They do not touch her. They do not speak to her. They just work.
+The clinic staff are ahead. The repair crew are behind. The threshold-house members are last. The women and children are last. The risk is the same. The assignment is different.
 
-Tao 76: The softest thing in the world overcomes the hardest thing in the world. Pregnancy as weakness is the Standard's read. Rowan inverts it.
+Tao 76: The softest thing in the world overcomes the hardest thing in the world. Pregnancy is the Standard's read of weakness. Rowan inverts the read. Rowan puts the clinic staff ahead. Rowan puts the repair crew behind. Rowan puts the threshold-house members last.
 
-Genesis 3:16: your desire will be for your husband, and he will rule over you. The labor inversion refuses the ruling.
+Genesis 3:16: your desire will be for your husband, and he will rule over you. The labor inversion refuses the ruling. The labor inversion equalizes the risk. The labor inversion equalizes the categories. The labor inversion equalizes the assignment.
 
-The attending physician reports it as a complication. The court receives it as a question. The answer is yes. The classification is granted. The shift continues.
+The clinician reports the complication. The board reports the work. Rowan is the route liaison. Rowan is seven months pregnant. Rowan is the person who chose the modification privately. Rowan is the person who will lose the argument about who decides the modification. Rowan is the person who will be reported as a complication.
+
+The clinic staff are ahead. The repair crew are behind. The threshold-house members are last. The women and children are last. The risk is the same. The assignment is different. The categories are equalized.

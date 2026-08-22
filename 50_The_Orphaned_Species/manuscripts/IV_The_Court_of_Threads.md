@@ -1577,6 +1577,8 @@ A clerk sees them and backs out.
 
 They separate.
 
+Her mouth is still warm where he kissed her.
+
 "Four minutes," Rowan says.
 
 "Cruel system."
